@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.36
+datasets>=2.16
+seqeval>=1.2
+accelerate>=0.25
+scikit-learn>=1.3
