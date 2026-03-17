@@ -1,0 +1,30 @@
+T36	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T56	PROCEDURE 449 467	Holterovská studie
+T72	PROCEDURE 935 949	depleční léčba
+T102	PROCEDURE 1051 1060	vyšetření
+T37	PROCEDURE 1348 1364	Auskultace srdce
+T59	PROCEDURE 1443 1460	Plicní auskultace
+T4	PROCEDURE 1542 1549	palpaci
+T38	PROCEDURE 1719 1736	ELEKTROKARDIOGRAM
+T39	PROCEDURE 1738 1741	EKG
+T63	PROCEDURE 1871 1883	RTG HRUDNÍKU
+T5	PROCEDURE 1977 1984	ANALÝZA
+T40	PROCEDURE 1986 1994	hemogram
+T41	PROCEDURE 2127 2136	Koagulace
+T48	PROCEDURE 2172 2181	Biochemie
+T42	PROCEDURE 2474 2488	Echokardiogram
+T7	PROCEDURE 2980 3000	spektrálním doppleru
+T8	PROCEDURE 3075 3117	injekci rozrušeného fyziologického roztoku
+T12	PROCEDURE 3480 3526	HEMODYNAMICKÉ VYŠETŘENÍ (pravá stehenní tepna)
+T45	PROCEDURE 3528 3544	Ventrikulografie
+T13	PROCEDURE 3584 3609	uzavření defektu balónkem
+T14	PROCEDURE 3693 3779	použití přístroje Amplatzer FOP Tribiform MF 35 mm je defekt téměř kompletně okludován
+T15	PROCEDURE 3879 4000	Pod kontrolou intrakardiální echokardiografie a transezofageální echokardiografie (TEE) byl proveden test s 18mm balonkem
+T46	PROCEDURE 3893 3924	intrakardiální echokardiografie
+T47	PROCEDURE 3927 3960	transezofageální echokardiografie
+T62	PROCEDURE 3962 3965	TEE
+T54	PROCEDURE 4189 4217	Echokardiografické vyšetření
+T18	PROCEDURE 4369 4392	perkutánní techniku PFO
+T22	PROCEDURE 4426 4498	vyhodnocena hemodynamická odpověď pomocí přechodného balónkového uzávěru
+T27	PROCEDURE 4534 4593	implantováno 35mm kribriformní uzavírací zařízení Amplatzer
+T51	PROCEDURE 5064 5132	Implantace perkutánního zařízení pro uzávěr PFO Amplatzer cribriform

@@ -1,0 +1,52 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T24	PROCEDURE 472 508	antianginózní a antiischemická léčba
+T114	PROCEDURE 521 549	echokardiografické vyšetření
+T28	PROCEDURE 694 715	koronární katetrizace
+T33	PROCEDURE 753 772	Kardiologická léčba
+T34	PROCEDURE 802 813	anxiolytika
+T35	PROCEDURE 824 834	analgetika
+T3	PROCEDURE 1021 1040	léčbu antidepresivy
+T4	PROCEDURE 1065 1075	analgetiky
+T5	PROCEDURE 1112 1133	koronární katetrizaci
+T7	PROCEDURE 1554 1575	antiagregačních látek
+T8	PROCEDURE 1578 1585	statinů
+T9	PROCEDURE 1597 1619	SPECT perfuze myokardu
+T143	PROCEDURE 1626 1669	transtorakální echokardiografické vyšetření
+T128	PROCEDURE 2403 2417	koronarografií
+T11	PROCEDURE 2714 2736	SPECT perfuze myokardu
+T36	PROCEDURE 2810 2828	elektrokardiogramy
+T12	PROCEDURE 2994 3010	vyšetření enzýmů
+T37	PROCEDURE 3042 3068	Rentgenový snímek hrudníku
+T22	PROCEDURE 3222 3241	Fyzikální vyšetření
+T23	PROCEDURE 3477 3496	Fyzikální vyšetření
+T25	PROCEDURE 3522 3538	Echokardiografie
+T29	PROCEDURE 3841 3862	koronární katetrizace
+T13	PROCEDURE 4019 4036	Laboratorní testy
+T38	PROCEDURE 4557 4574	Elektrokardiogram
+T39	PROCEDURE 4576 4579	EKG
+T14	PROCEDURE 4704 4716	RTG hrudníku
+T27	PROCEDURE 4837 4853	Echokardiografie
+T77	PROCEDURE 4968 4997	Transtorakální echokardiogram
+T15	PROCEDURE 5318 5340	SPECT perfuze myokardu
+T40	PROCEDURE 5376 5379	EKG
+T45	PROCEDURE 5386 5407	podávání regadenosonu
+T17	PROCEDURE 5628 5682	Koronární katetrizace s invazivním funkčním vyšetřením
+T18	PROCEDURE 5807 5890	studie mikrovaskulární dysfunkce pomocí termodiluce s bolusy fyziologického roztoku
+T19	PROCEDURE 5983 6019	test vazoreaktivity s acetylcholinem
+T115	PROCEDURE 6126 6144	elektrokardiogramu
+T42	PROCEDURE 6354 6390	antiischemická a antianginózní léčba
+T144	PROCEDURE 6417 6464	transtorakálního echokardiografického vyšetření
+T30	PROCEDURE 6472 6526	koronární katetrizace s invazivním funkčním vyšetřením
+T69	PROCEDURE 6528 6556	Echokardiografické vyšetření
+T32	PROCEDURE 6685 6706	koronární katetrizace
+T31	PROCEDURE 6845 6869	kompletní funkční studii
+T44	PROCEDURE 6900 6943	termodiluce s bolusy fyziologického roztoku
+T43	PROCEDURE 6946 6976	intravenózní perfuzí adenosinu
+T55	PROCEDURE 7029 7056	koronární průtokové rezervy
+T57	PROCEDURE 7210 7241	testem koronární vazoreaktivity
+T41	PROCEDURE 7440 7443	EKG
+T66	PROCEDURE 7638 7650	anxiolytické
+T58	PROCEDURE 7653 7673	antidepresivní léčby
+T67	PROCEDURE 8071 8110	antidepresivní a anxiolytickou medikaci
+T70	PROCEDURE 8342 8372	invazivním funkčním vyšetřením
+T64	PROCEDURE 8443 8465	acetylcholinovém testu

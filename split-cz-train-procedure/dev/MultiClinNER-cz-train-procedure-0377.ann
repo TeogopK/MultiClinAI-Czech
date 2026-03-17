@@ -1,0 +1,25 @@
+T12	PROCEDURE 174 193	rektálním vyšetření
+T1	PROCEDURE 319 331	Krevní obraz
+T11	PROCEDURE 333 342	biochemie
+T5	PROCEDURE 344 358	kultivace moči
+T6	PROCEDURE 360 374	cytologie moči
+T3	PROCEDURE 415 435	Urologický ultrazvuk
+T4	PROCEDURE 498 520	Intravenózní urografie
+T2	PROCEDURE 722 733	Cystoskopie
+T7	PROCEDURE 831 864	transuretrální resekce (TUR) léze
+T15	PROCEDURE 867 884	histopatologickým
+T24	PROCEDURE 994 1015	rozšiřující vyšetření
+T16	PROCEDURE 1023 1051	rentgenového snímku hrudníku
+T8	PROCEDURE 1087 1104	CT břicha a pánve
+T17	PROCEDURE 1380 1399	chirurgickou léčbou
+T26	PROCEDURE 1518 1538	fyzikálním vyšetření
+T27	PROCEDURE 1616 1637	laboratorní vyšetření
+T18	PROCEDURE 1687 1732	širokospektré parenterální antibiotické léčby
+T10	PROCEDURE 1794 1810	Ultrazvuk břicha
+T19	PROCEDURE 1934 1997	široká parciální cystektomie zahrnující kopuli močového měchýře
+T9	PROCEDURE 2047 2070	pánevní lymfadenektomie
+T30	PROCEDURE 2078 2085	operace
+T20	PROCEDURE 2227 2251	histologickému vyšetření
+T21	PROCEDURE 2254 2302	Anatomopatologická diagnóza chirurgického vzorku
+T22	PROCEDURE 2385 2435	Histologický nález zaslaného hlenovitého materiálu
+T25	PROCEDURE 2536 2556	studií bez rozšíření

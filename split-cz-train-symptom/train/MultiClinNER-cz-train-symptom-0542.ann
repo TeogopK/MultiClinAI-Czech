@@ -1,0 +1,18 @@
+T5	SYMPTOM 65 74	žloutenku
+T1	SYMPTOM 77 96	konstituční syndrom
+T3	SYMPTOM 164 187	bolestivá hepatomegalie
+T9	SYMPTOM 221 232	leukocytózu
+T10	SYMPTOM 235 246	neutrofilií
+T4	SYMPTOM 249 280	smíšené změny jaterního profilu
+T6	SYMPTOM 306 367	alkalická fosfatáza a GGT více než 10násobek normální hodnoty
+T7	SYMPTOM 370 414	ALT a AST méně než 3násobek normální hodnoty
+T8	SYMPTOM 489 505	zmatené příznaky
+T12	SYMPTOM 539 546	horečky
+T11	SYMPTOM 805 821	infekční ložisko
+T14	SYMPTOM 831 862	krevních kultur bylo sterilních
+T16	SYMPTOM 932 954	zhoršil jaterní profil
+T17	SYMPTOM 983 1002	zvýšení transamináz
+T18	SYMPTOM 1032 1077	ALT a AST více než 20násobek normální hodnoty
+T19	SYMPTOM 1089 1101	zvýšením LDH
+T20	SYMPTOM 1132 1170	postupným zhoršováním renálních funkcí
+T2	SYMPTOM 1396 1402	zemřel

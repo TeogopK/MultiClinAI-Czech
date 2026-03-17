@@ -1,0 +1,35 @@
+T39	PROCEDURE 0 8	ANAMNÉZA
+T24	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T65	PROCEDURE 208 216	anamnéza
+T66	PROCEDURE 224 232	anamnéza
+T38	PROCEDURE 281 300	chirurgické zákroky
+T25	PROCEDURE 870 889	FYZIKÁLNÍ VYŠETŘENÍ
+T26	PROCEDURE 1207 1234	Kardiopulmonální auskultace
+T27	PROCEDURE 1556 1559	EKG
+T28	PROCEDURE 1680 1683	EKG
+T1	PROCEDURE 1693 1710	laboratorní testy
+T47	PROCEDURE 1712 1724	Krevní obraz
+T2	PROCEDURE 1933 1942	Hemostáza
+T36	PROCEDURE 2017 2026	Biochemie
+T37	PROCEDURE 2144 2173	Biomarkery poškození myokardu
+T79	PROCEDURE 2213 2241	echokardiografické vyšetření
+T57	PROCEDURE 2243 2246	TTE
+T45	PROCEDURE 2681 2695	Angio-CT aorty
+T29	PROCEDURE 3513 3516	EKG
+T58	PROCEDURE 3586 3589	TTE
+T32	PROCEDURE 3706 3724	angio-CT vyšetření
+T5	PROCEDURE 3813 3828	vyšetření aorty
+T7	PROCEDURE 3851 3873	doplňujících vyšetření
+T6	PROCEDURE 3947 4002	urgentní operace mechanickou Bono-Bentallovou technikou
+T90	PROCEDURE 4036 4060	náhrady aortální chlopně
+T8	PROCEDURE 4062 4100	náhrady kořene aorty a vzestupné aorty
+T33	PROCEDURE 4110 4139	reimplantace koronárního ústí
+T87	PROCEDURE 4177 4194	mimotělního oběhu
+T9	PROCEDURE 4196 4227	elektromechanické zástavy srdce
+T17	PROCEDURE 4230 4282	zástavy oběhu se selektivní bikronární perfuzí mozku
+T31	PROCEDURE 4437 4463	náhrada aortálního oblouku
+T30	PROCEDURE 4561 4579	Bentallově operaci
+T34	PROCEDURE 4581 4595	Časná extubace
+T35	PROCEDURE 4781 4792	radiografie
+T43	PROCEDURE 4877 4893	PCR na chřipku A
+T44	PROCEDURE 4915 4942	vysokoprůtokové nosní brýle

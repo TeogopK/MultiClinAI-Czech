@@ -1,0 +1,12 @@
+T5	PROCEDURE 89 119	ultrazvukovém vyšetření břicha
+T1	PROCEDURE 124 144	urologické vyšetření
+T6	PROCEDURE 226 245	CT vyšetření břicha
+T3	PROCEDURE 454 470	Nádorové markery
+T7	PROCEDURE 567 588	radiologické kontrole
+T12	PROCEDURE 848 855	operace
+T2	PROCEDURE 964 985	Intraoperační biopsie
+T9	PROCEDURE 1117 1133	radikální excizi
+T14	PROCEDURE 1152 1159	resekci
+T15	PROCEDURE 1182 1189	Disekce
+T4	PROCEDURE 1317 1338	histologická diagnóza
+T8	PROCEDURE 1467 1490	adjuvantní chemoterapii

@@ -1,0 +1,36 @@
+T49	PROCEDURE 458 468	ergometrie
+T48	PROCEDURE 1497 1516	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 1673 1689	Auskultace srdce
+T34	PROCEDURE 1714 1731	Plicní auskultace
+T35	PROCEDURE 1931 1948	Elektrokardiogram
+T36	PROCEDURE 1950 1953	EKG
+T37	PROCEDURE 2120 2123	EKG
+T38	PROCEDURE 2136 2139	EKG
+T39	PROCEDURE 2242 2245	EKG
+T40	PROCEDURE 2247 2259	RTG hrudníku
+T50	PROCEDURE 2475 2487	Krevní plyny
+T52	PROCEDURE 3011 3035	markery nekrózy myokardu
+T10	PROCEDURE 3464 3499	Test na okultní krvácení ve stolici
+T41	PROCEDURE 3512 3541	Transtorakální echokardiogram
+T11	PROCEDURE 3543 3546	TTE
+T43	PROCEDURE 4568 4595	Diagnostická koronarografie
+T51	PROCEDURE 4806 4810	IVUS
+T44	PROCEDURE 5097 5109	Kolonoskopie
+T46	PROCEDURE 5112 5128	horní endoskopie
+T45	PROCEDURE 5196 5227	Perkutánní koronární intervence
+T65	PROCEDURE 5229 5265	vodicí drát je posunut k distální Cx
+T66	PROCEDURE 5267 5295	Léze Cx-LCT je predilatována
+T68	PROCEDURE 5313 5341	everolimusem napuštěný stent
+T69	PROCEDURE 5375 5390	angiografickými
+T71	PROCEDURE 5464 5488	implantován lékový stent
+T72	PROCEDURE 5530 5545	angiografickými
+T42	PROCEDURE 5636 5669	Transtorakální echokardiografické
+T75	PROCEDURE 5790 5806	koronarografický
+T78	PROCEDURE 6150 6171	perkutánní intervencí
+T47	PROCEDURE 6173 6183	Telemetrie
+T79	PROCEDURE 6235 6248	betablokátory
+T80	PROCEDURE 6297 6318	digestivní endoskopie
+T81	PROCEDURE 6389 6412	protidestičkovou léčbou
+T82	PROCEDURE 6599 6620	protidestičkové léčbě
+T83	PROCEDURE 6656 6712	perkutánní koronární intervenci s implantací dvou stentů
+T84	PROCEDURE 6731 6745	angiografickým

@@ -1,0 +1,59 @@
+T41	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 747 776	echokardiografickém vyšetření
+T46	PROCEDURE 861 896	Radiofrekvenční ablace plicních žil
+T58	PROCEDURE 1203 1229	samoměření srdečního rytmu
+T5	PROCEDURE 1264 1275	24 h Holter
+T65	PROCEDURE 1353 1373	Antikoagulační léčba
+T68	PROCEDURE 1435 1447	antiarytmika
+T7	PROCEDURE 1580 1597	bronchodilatancií
+T47	PROCEDURE 2198 2215	elektrokardiogram
+T48	PROCEDURE 2217 2220	EKG
+T49	PROCEDURE 2321 2324	EKG
+T9	PROCEDURE 2376 2404	echokardiografické vyšetření
+T42	PROCEDURE 2407 2426	Fyzikální vyšetření
+T54	PROCEDURE 2609 2625	Auskultace srdce
+T55	PROCEDURE 2666 2681	Auskultace plic
+T50	PROCEDURE 2830 2833	EKG
+T51	PROCEDURE 2956 2959	EKG
+T43	PROCEDURE 3332 3346	Echokardiogram
+T12	PROCEDURE 4316 4335	CT koronárního a LA
+T13	PROCEDURE 4349 4360	ablací FiSi
+T56	PROCEDURE 4391 4417	Neinvazivní koronarografie
+T14	PROCEDURE 4483 4502	Vyšetření levé síně
+T57	PROCEDURE 4804 4835	Transezofageální echokardiogram
+T59	PROCEDURE 4842 4848	ablace
+T44	PROCEDURE 4939 4948	dopplerem
+T63	PROCEDURE 5384 5404	transseptální punkce
+T17	PROCEDURE 5438 5467	Elektrofyziologické vyšetření
+T60	PROCEDURE 5470 5476	ablace
+T18	PROCEDURE 5479 5513	Diagnostické mapovací hodnocení LK
+T19	PROCEDURE 5525 5547	elektrické kardioverzi
+T64	PROCEDURE 5559 5586	podrobné mapování levé síně
+T20	PROCEDURE 5616 5636	transseptální punkcí
+T74	PROCEDURE 6217 6236	manévr pace and map
+T73	PROCEDURE 6334 6361	napěťové mapování obou síní
+T76	PROCEDURE 6860 6877	Ablační procedura
+T77	PROCEDURE 6991 7043	radiofrekvenční aplikace v posterosuperiorní oblasti
+T79	PROCEDURE 7928 7935	ablační
+T81	PROCEDURE 8298 8317	Katetry se odstraní
+T52	PROCEDURE 8503 8506	EKG
+T45	PROCEDURE 8564 8578	Echokardiogram
+T66	PROCEDURE 8812 8832	antikoagulační léčba
+T69	PROCEDURE 8946 8965	antiarytmická léčba
+T86	PROCEDURE 9249 9256	ablační
+T92	PROCEDURE 9418 9424	ablací
+T89	PROCEDURE 9435 9472	CT vyšetření levé síně a plicních žil
+T90	PROCEDURE 9504 9530	neinvazivní koronarografii
+T93	PROCEDURE 9611 9631	antikoagulační léčby
+T96	PROCEDURE 9646 9657	antiarytmik
+T94	PROCEDURE 9677 9709	ablační výkon při fibrilaci síní
+T67	PROCEDURE 10254 10274	antikoagulační léčba
+T70	PROCEDURE 10282 10301	antiarytmická léčba
+T97	PROCEDURE 10312 10318	ablaci
+T53	PROCEDURE 10475 10478	EKG
+T98	PROCEDURE 10532 10548	echokardiografii
+T99	PROCEDURE 10684 10699	ablačním výkonu
+T102	PROCEDURE 10815 10827	CT vyšetření
+T103	PROCEDURE 10833 10839	ablací
+T72	PROCEDURE 10842 10874	Přepojení levé horní plicní žíly
+T71	PROCEDURE 10996 11056	Radiofrekvenční ablace rekonekce a extrapulmonálních ložisek

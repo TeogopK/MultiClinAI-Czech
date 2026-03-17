@@ -1,0 +1,17 @@
+T1	PROCEDURE 63 82	fyzikální vyšetření
+T8	PROCEDURE 93 114	laboratorní vyšetření
+T9	PROCEDURE 129 158	Ultrazvukové vyšetření břicha
+T3	PROCEDURE 232 253	Počítačová tomografie
+T11	PROCEDURE 316 346	intravenózním podání kontrastu
+T4	PROCEDURE 429 478	punkce tenkou jehlou za účelem získání histologie
+T10	PROCEDURE 482 493	patologické
+T7	PROCEDURE 597 621	laparoskopické exploraci
+T13	PROCEDURE 645 662	celkové anestezii
+T2	PROCEDURE 678 739	zavedení orogastrického katétru a katétru do močového měchýře
+T12	PROCEDURE 839 906	Pneumoperitoneum bylo provedeno Veressovou jehlou při tlaku 12 mmHg
+T15	PROCEDURE 1093 1120	Po otevření Gerotovy fascie
+T17	PROCEDURE 1273 1361	oblast o velikosti 2 cm pevně přiléhající k ledvinnému pouzdru, která vyžadovala resekci
+T18	PROCEDURE 1374 1417	fulguraci křížového lůžka argonovým laserem
+T5	PROCEDURE 1419 1467	Chirurgický vzorek byl odebrán v plastovém sáčku
+T19	PROCEDURE 1520 1568	Přes 5mm otvor trokaru byl ponechán Blakeův drén
+T6	PROCEDURE 1708 1727	patologická analýza

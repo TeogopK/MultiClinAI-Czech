@@ -1,0 +1,30 @@
+T13	PROCEDURE 269 293	Oftalmologické vyšetření
+T18	PROCEDURE 377 391	Nitrooční tlak
+T4	PROCEDURE 425 436	fundoskopie
+T1	PROCEDURE 658 680	Neurologické vyšetření
+T3	PROCEDURE 682 694	krevní obraz
+T15	PROCEDURE 697 706	biochemie
+T7	PROCEDURE 721 747	Rentgenový snímek hrudníku
+T19	PROCEDURE 794 812	CT vyšetření lebky
+T10	PROCEDURE 828 843	Lumbální punkce
+T28	PROCEDURE 942 964	bolusy kortikosteroidů
+T29	PROCEDURE 967 991	protidestičkovou terapií
+T2	PROCEDURE 994 1016	Angiofluoresceingrafie
+T8	PROCEDURE 1074 1094	Evokované potenciály
+T9	PROCEDURE 1157 1174	Elektroretinogram
+T30	PROCEDURE 1177 1186	MRI mozku
+T11	PROCEDURE 1202 1211	Sérologie
+T16	PROCEDURE 1213 1223	imunologie
+T17	PROCEDURE 1234 1250	nádorové markery
+T20	PROCEDURE 1450 1476	hrudně-břišní CT vyšetření
+T12	PROCEDURE 1546 1559	Bronchoskopie
+T14	PROCEDURE 1589 1598	cytologie
+T38	PROCEDURE 1642 1655	PET vyšetření
+T21	PROCEDURE 1720 1736	mediastinoskopii
+T22	PROCEDURE 1754 1846	odebrány vzorky mozkomíšního moku, plazmy a vodního moku ke studiu autoprotilátky CRMP-5-IgG
+T23	PROCEDURE 2068 2081	PET vyšetření
+T6	PROCEDURE 2094 2110	mediastinoskopie
+T40	PROCEDURE 2267 2279	chemoterapií
+T41	PROCEDURE 2282 2294	radioterapií
+T5	PROCEDURE 2317 2338	léčbu kortikosteroidy
+T24	PROCEDURE 2518 2540	funduskopického obrazu

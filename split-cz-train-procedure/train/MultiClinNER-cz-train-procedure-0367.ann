@@ -1,0 +1,26 @@
+T17	PROCEDURE 148 177	Byl léčen různými antibiotiky
+T1	PROCEDURE 192 211	Fyzikální vyšetření
+T19	PROCEDURE 319 331	Krevní obraz
+T9	PROCEDURE 363 378	Močový sediment
+T2	PROCEDURE 388 402	Kultivace moči
+T15	PROCEDURE 414 432	Kultivace spermatu
+T8	PROCEDURE 489 505	Nádorové markery
+T3	PROCEDURE 540 554	Ultrazvuk moči
+T4	PROCEDURE 566 582	Ultrazvuk varlat
+T26	PROCEDURE 656 670	Mantouxův test
+T16	PROCEDURE 727 741	radiologickému
+T5	PROCEDURE 767 789	radikální orchiektomie
+T14	PROCEDURE 792 813	patologické vyšetření
+T28	PROCEDURE 853 866	mikrobiologii
+T18	PROCEDURE 879 963	vzorek sestávající z hnisavého exsudátu získaného intraoperačně z testikulární tkáně
+T10	PROCEDURE 965 998	Barvení Auraminem na mykobakterie
+T29	PROCEDURE 1015 1034	Barvení podle Grama
+T6	PROCEDURE 1203 1247	Genomová amplifikace (PCR) na M.tuberculosis
+T11	PROCEDURE 1225 1228	PCR
+T12	PROCEDURE 1264 1290	Detekce antigenu chlamydií
+T20	PROCEDURE 1314 1343	Kultivace na obvyklé bakterie
+T21	PROCEDURE 1437 1444	kultuře
+T31	PROCEDURE 1534 1553	barvení podle Grama
+T13	PROCEDURE 1672 1695	Fenotypová identifikace
+T7	PROCEDURE 1744 1790	genetické vyšetření pomocí sekvenování 16SrRNA
+T22	PROCEDURE 1848 1900	Kultivace na přítomnost nokardií, mykobakterií a hub

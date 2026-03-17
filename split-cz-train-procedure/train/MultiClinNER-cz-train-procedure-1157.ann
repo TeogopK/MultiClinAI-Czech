@@ -1,0 +1,35 @@
+T1	PROCEDURE 41 50	anamnézou
+T70	PROCEDURE 60 68	anamnéza
+T3	PROCEDURE 335 340	léčbě
+T5	PROCEDURE 752 769	koronarografickým
+T8	PROCEDURE 966 982	koronární bypass
+T38	PROCEDURE 1080 1096	echokardiografie
+T12	PROCEDURE 1423 1449	markerů poškození myokardu
+T104	PROCEDURE 1471 1501	echokardiografického vyšetření
+T141	PROCEDURE 1779 1788	vyšetření
+T139	PROCEDURE 1910 1919	sledování
+T109	PROCEDURE 2098 2106	glykémie
+T49	PROCEDURE 2208 2227	chirurgické zákroky
+T79	PROCEDURE 2365 2393	chirurgickou revaskularizaci
+T121	PROCEDURE 2600 2622	kardiální rehabilitace
+T44	PROCEDURE 2718 2737	FYZIKÁLNÍ VYŠETŘENÍ
+T125	PROCEDURE 2848 2865	kyslíkové terapie
+T40	PROCEDURE 2940 2956	Auskultace srdce
+T41	PROCEDURE 3212 3215	EKG
+T39	PROCEDURE 3423 3439	Echokardiografie
+T56	PROCEDURE 3901 3913	Krevní obraz
+T57	PROCEDURE 3928 3940	Krevní obraz
+T42	PROCEDURE 4019 4028	Biochemie
+T47	PROCEDURE 4054 4059	ionty
+T50	PROCEDURE 4070 4091	hepatobiliární profil
+T45	PROCEDURE 4105 4120	Lipidový profil
+T58	PROCEDURE 4268 4280	Krevní obraz
+T43	PROCEDURE 4359 4368	Biochemie
+T48	PROCEDURE 4394 4399	ionty
+T51	PROCEDURE 4410 4431	hepatobiliární profil
+T46	PROCEDURE 4446 4461	Lipidový profil
+T71	PROCEDURE 4782 4790	anamnéze
+T82	PROCEDURE 4933 4967	hygienickými a dietními opatřeními
+T123	PROCEDURE 4979 4990	hemokultury
+T61	PROCEDURE 5471 5490	kontrolní vyšetření
+T62	PROCEDURE 5626 5656	chirurgicky revaskularizovaným

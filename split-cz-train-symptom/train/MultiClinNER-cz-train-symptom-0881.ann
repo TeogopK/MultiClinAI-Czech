@@ -1,0 +1,40 @@
+T1	SYMPTOM 402 414	bolest hlavy
+T59	SYMPTOM 471 488	Infekční příznaky
+T96	SYMPTOM 620 626	vědomí
+T85	SYMPTOM 628 639	orientovaný
+T69	SYMPTOM 641 646	bdělý
+T61	SYMPTOM 648 661	Normoperfuzní
+T84	SYMPTOM 663 679	normohydratovaný
+T80	SYMPTOM 698 721	zvýšeného žilního tlaku
+T2	SYMPTOM 746 770	akce srdeční: pravidelná
+T100	SYMPTOM 776 783	šelestů
+T3	SYMPTOM 802 820	alveolární dýchání
+T73	SYMPTOM 828 845	vedlejší fenomeny
+T4	SYMPTOM 847 890	Dolní končetiny: pulzy přítomny, symetrické
+T86	SYMPTOM 898 903	otoky
+T98	SYMPTOM 963 992	zachovaná nominace a repetice
+T21	SYMPTOM 1000 1028	změny na kraniálních nervech
+T22	SYMPTOM 1030 1056	Síla a citlivost zachovány
+T5	SYMPTOM 1064 1073	dysmetrie
+T6	SYMPTOM 1078 1095	dysdiadochokineze
+T7	SYMPTOM 1103 1123	meningeální příznaky
+T16	SYMPTOM 1451 1515	Beta-2 glykoprotein (IgM, IgG) kardiolipin (IgM, IgG): negativní
+T8	SYMPTOM 1517 1539	HIV (Elisa): negativní
+T17	SYMPTOM 1541 1568	Syfilis IgG, IgM: negativní
+T9	SYMPTOM 1589 1591	RS
+T10	SYMPTOM 1619 1627	úzké QRS
+T23	SYMPTOM 1629 1653	laterální rektifikace ST
+T81	SYMPTOM 1669 1698	kardiotorakální index v normě
+T24	SYMPTOM 1706 1715	infiltrát
+T19	SYMPTOM 1720 1728	městnání
+T20	SYMPTOM 1928 1991	CT-perfuze (snímek 4): zvýšené časy v pravé okcipitální oblasti
+T25	SYMPTOM 2019 2048	supraaortální kmeny průchodné
+T26	SYMPTOM 2079 2124	Intrakraniální: přední a zadní oběh průchodný
+T11	SYMPTOM 2475 2532	nedilatovaná levá komora se zachovanou systolickou funkcí
+T12	SYMPTOM 2534 2555	Normální pravá komora
+T14	SYMPTOM 2557 2584	Předsíně normální velikosti
+T18	SYMPTOM 2642 2668	Hypermobilní síňové septum
+T27	SYMPTOM 2680 2755	agitovaný fyziologický roztok a od prvního tepu byl pozorován průchod bubli
+T15	SYMPTOM 2946 2991	Nedilatovaná levá komora se zachovanou funkcí
+T13	SYMPTOM 2993 3014	Normální pravá komora
+T62	SYMPTOM 3016 3038	Normální velikost síní

@@ -1,0 +1,33 @@
+T53	PROCEDURE 100 122	thiazidovým diuretikem
+T59	PROCEDURE 911 932	fyzikálního vyšetření
+T56	PROCEDURE 934 952	elektrokardiogramu
+T1	PROCEDURE 954 971	rentgenu hrudníku
+T2	PROCEDURE 985 1004	laboratorních testů
+T47	PROCEDURE 1237 1264	kardiorespirační auskultaci
+T21	PROCEDURE 1414 1433	fyzikální vyšetření
+T22	PROCEDURE 1485 1502	Elektrokardiogram
+T23	PROCEDURE 1572 1598	Rentgenový snímek hrudníku
+T3	PROCEDURE 1647 1659	Krevní obraz
+T33	PROCEDURE 1667 1676	biochemie
+T4	PROCEDURE 1680 1715	sérovými markery poškození myokardu
+T5	PROCEDURE 1726 1756	krevní obraz červených krvinek
+T32	PROCEDURE 1759 1768	koagulace
+T24	PROCEDURE 1840 1871	transtorakální echokardiografie
+T57	PROCEDURE 1969 1979	ergometrii
+T27	PROCEDURE 2294 2332	zátěži byla provedena echokardiografie
+T39	PROCEDURE 2393 2421	Echokardiografické vyšetření
+T25	PROCEDURE 2689 2699	Ergometrie
+T7	PROCEDURE 3566 3588	antiischemickou léčbou
+T49	PROCEDURE 3590 3603	betablokátory
+T6	PROCEDURE 3624 3646	koronární CT vyšetření
+T67	PROCEDURE 3660 3679	léčby betablokátory
+T37	PROCEDURE 3708 3720	CT vyšetření
+T66	PROCEDURE 4116 4135	léčbu betablokátory
+T9	PROCEDURE 4186 4215	druhý test k detekci ischemie
+T30	PROCEDURE 4226 4264	dobutaminová zátěžová echokardiografie
+T68	PROCEDURE 4270 4289	léčby betablokátory
+T65	PROCEDURE 4546 4560	koronarografii
+T38	PROCEDURE 4646 4648	CT
+T10	PROCEDURE 4650 4681	Selektivní nástřik LAD prokázal
+T31	PROCEDURE 4911 4932	studie hyperkoagulace
+T48	PROCEDURE 4980 5002	léčbou beta-blokátorem

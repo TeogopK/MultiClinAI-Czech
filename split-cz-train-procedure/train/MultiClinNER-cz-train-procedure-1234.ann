@@ -1,0 +1,32 @@
+T53	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T100	PROCEDURE 179 187	anamnéza
+T1	PROCEDURE 328 348	endoskopickou ligací
+T2	PROCEDURE 359 365	ligace
+T51	PROCEDURE 388 400	gastroskopie
+T104	PROCEDURE 443 456	betablokátoru
+T52	PROCEDURE 532 545	antikoagulace
+T54	PROCEDURE 1393 1412	FYZIKÁLNÍ VYŠETŘENÍ
+T55	PROCEDURE 1606 1622	Auskultace srdce
+T88	PROCEDURE 1741 1758	Plicní auskultace
+T56	PROCEDURE 1972 1975	EKG
+T5	PROCEDURE 2178 2190	Krevní testy
+T63	PROCEDURE 2488 2499	Autoimunita
+T57	PROCEDURE 2617 2626	Sérologie
+T58	PROCEDURE 2770 2782	Proteinogram
+T59	PROCEDURE 3094 3120	Rentgenový snímek hrudníku
+T94	PROCEDURE 3223 3252	Transtorakální echokardiogram
+T10	PROCEDURE 4228 4236	V/Q sken
+T11	PROCEDURE 4298 4317	perfuzním vyšetření
+T12	PROCEDURE 4395 4416	ventilačním vyšetření
+T82	PROCEDURE 4532 4553	Funkční dechové testy
+T61	PROCEDURE 4661 4700	CT plicních tepen a plicního parenchymu
+T62	PROCEDURE 5509 5533	Pravostranná katetrizace
+T102	PROCEDURE 5818 5845	arteriálních krevních plynů
+T60	PROCEDURE 5972 6003	transtorakální echokardiografie
+T64	PROCEDURE 6099 6145	kompletní etiologická studie plicní hypertenze
+T16	PROCEDURE 6148 6179	kompletními laboratorními testy
+T17	PROCEDURE 6181 6209	funkčními respiračními testy
+T18	PROCEDURE 6212 6244	ventilační/perfuzní scintigrafií
+T19	PROCEDURE 6333 6358	katetrizace pravého srdce
+T120	PROCEDURE 7091 7106	ergospirometrii
+T21	PROCEDURE 7109 7127	6 ambulantních MWT

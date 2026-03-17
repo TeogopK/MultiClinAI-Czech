@@ -1,0 +1,17 @@
+T5	PROCEDURE 403 411	anamnéze
+T1	PROCEDURE 653 687	fyzikální a neurologické vyšetření
+T12	PROCEDURE 780 801	zobrazovací vyšetření
+T2	PROCEDURE 803 829	magnetická rezonance mozku
+T3	PROCEDURE 865 920	mozková angiografie teritorií vnitřní a vnější krkavice
+T4	PROCEDURE 1290 1300	embolizace
+T11	PROCEDURE 1388 1429	AVM resekovat pouze chirurgickým zákrokem
+T13	PROCEDURE 1431 1568	Za nidusem byl proveden bikonvexní řez s oboustranným přístupem k vyživujícím větvím AVM, aby bylo možné je nejprve podvázat a rozříznout
+T8	PROCEDURE 1599 1621	léze a umožnit resekci
+T6	PROCEDURE 1803 1814	angiografie
+T7	PROCEDURE 1850 1893	radiofrekvenční koagulace, mono i bipolární
+T14	PROCEDURE 1897 1908	kostní vosk
+T9	PROCEDURE 1910 1947	Všechny podkožní cévy byly resekovány
+T10	PROCEDURE 2025 2032	operace
+T15	PROCEDURE 2044 2098	podat transfuzi se dvěma koncentráty červených krvinek
+T16	PROCEDURE 2146 2161	krevní salvager
+T17	PROCEDURE 2186 2260	Skalp byl sešit obvyklým způsobem pomocí rovin a kůže byla sešita agrafami

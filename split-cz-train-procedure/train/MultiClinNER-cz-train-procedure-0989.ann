@@ -1,0 +1,83 @@
+T78	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 221 306	Náhrada aortální chlopně z důvodu dvojité léze (mechanická protéza Carbomedics č. 21)
+T4	PROCEDURE 460 495	Píštěl byla uzavřena v úrovni aorty
+T6	PROCEDURE 513 528	sternální exces
+T67	PROCEDURE 531 558	plastika obou prsních svalů
+T7	PROCEDURE 561 589	disinsercí svalů pažní kosti
+T8	PROCEDURE 591 619	pectoralis major myoplastika
+T9	PROCEDURE 666 691	reintervencí pro krvácení
+T95	PROCEDURE 924 957	implantace protézy St. Jude č. 21
+T12	PROCEDURE 991 1018	předoperační koronarografii
+T160	PROCEDURE 1137 1158	antikoagulační léčbou
+T68	PROCEDURE 1254 1271	Elektrokardiogram
+T69	PROCEDURE 1273 1276	EKG
+T14	PROCEDURE 1366 1392	telemetrickém monitorování
+T71	PROCEDURE 1395 1409	echokardiogram
+T32	PROCEDURE 1590 1621	implantaci subkutánního Holteru
+T34	PROCEDURE 2337 2355	CT vyšetření lebky
+T76	PROCEDURE 2436 2453	Subkutánní Holter
+T30	PROCEDURE 2454 2479	Podkožní Holterův monitor
+T77	PROCEDURE 2548 2576	implantace kardiostimulátoru
+T36	PROCEDURE 2708 2720	CT vyšetření
+T232	PROCEDURE 2940 2962	orotracheální intubaci
+T64	PROCEDURE 2965 2991	chirurgickou tracheostomii
+T66	PROCEDURE 3184 3204	léčby betablokátorem
+T72	PROCEDURE 3211 3236	revizi podkožního Holteru
+T244	PROCEDURE 3410 3419	sledování
+T91	PROCEDURE 3433 3470	implantace trvalého kardiostimulátoru
+T125	PROCEDURE 3473 3490	FYZICKÉ VYŠETŘENÍ
+T90	PROCEDURE 3695 3713	Hrudník: Prohlídka
+T233	PROCEDURE 3780 3787	palpaci
+T79	PROCEDURE 3789 3804	Auskultace plic
+T142	PROCEDURE 3861 3879	Srdeční auskultace
+T87	PROCEDURE 3965 3982	Břicho: prohlídka
+T98	PROCEDURE 4022 4030	Perineum
+T100	PROCEDURE 4116 4125	Končetiny
+T80	PROCEDURE 4187 4209	Neurologické vyšetření
+T89	PROCEDURE 4450 4463	MIKROBIOLOGIE
+T97	PROCEDURE 4465 4479	kultivace krve
+T99	PROCEDURE 4534 4547	antibiogramem
+T102	PROCEDURE 4671 4685	kultivace krve
+T101	PROCEDURE 4698 4705	ANALÝZA
+T88	PROCEDURE 4873 4882	Biochemie
+T103	PROCEDURE 4885 4902	renálním profilem
+T204	PROCEDURE 5009 5022	Jaterní testy
+T82	PROCEDURE 5025 5044	profil štítné žlázy
+T70	PROCEDURE 5149 5152	EKG
+T75	PROCEDURE 5266 5274	CT lebky
+T124	PROCEDURE 5437 5465	ECHOKARDIOGRAFICKÉ VYŠETŘENÍ
+T147	PROCEDURE 5493 5496	TTE
+T105	PROCEDURE 5928 5946	barevným dopplerem
+T162	PROCEDURE 6250 6268	barevného dopplera
+T86	PROCEDURE 6398 6431	Transezofageální echokardiografie
+T144	PROCEDURE 6433 6436	TEE
+T145	PROCEDURE 7355 7358	TEE
+T114	PROCEDURE 7633 7653	MR kraniální oblasti
+T83	PROCEDURE 7899 7935	CT břicha s intravenózním kontrastem
+T146	PROCEDURE 8029 8032	TEE
+T215	PROCEDURE 8346 8364	krevních kulturách
+T61	PROCEDURE 8413 8427	kultivaci moči
+T213	PROCEDURE 8508 8524	krevní kultivace
+T178	PROCEDURE 8588 8616	echokardiografické vyšetření
+T131	PROCEDURE 8949 8969	MR angiografie mozku
+T133	PROCEDURE 9104 9116	CT vyšetření
+T158	PROCEDURE 9381 9401	antibiotické terapie
+T73	PROCEDURE 9425 9439	echokardiogram
+T157	PROCEDURE 9695 9713	antibiotické léčbě
+T155	PROCEDURE 9804 9822	antibiotické léčby
+T85	PROCEDURE 9917 9926	CT břicha
+T159	PROCEDURE 9989 10009	antibiotické terapie
+T255	PROCEDURE 10028 10059	transezofageální echokardiogram
+T181	PROCEDURE 10372 10390	elektrokardiogramu
+T253	PROCEDURE 10396 10406	telemetrii
+T214	PROCEDURE 10462 10477	krevních kultur
+T156	PROCEDURE 10499 10517	antibiotické léčby
+T139	PROCEDURE 10540 10572	intravenózní antibiotický cyklus
+T237	PROCEDURE 10681 10693	rehabilitaci
+T140	PROCEDURE 10735 10793	cviky hrubé a jemné motoriky s postiženou horní končetinou
+T81	PROCEDURE 11015 11026	hemokultury
+T154	PROCEDURE 11052 11070	antibiotické léčbě
+T224	PROCEDURE 11176 11197	léčba beta-blokátorem
+T116	PROCEDURE 11272 11300	implantovat kardiostimulátor
+T94	PROCEDURE 11311 11344	subkutánní Holterovo monitorování
+T132	PROCEDURE 11611 11628	chirurgické léčbě

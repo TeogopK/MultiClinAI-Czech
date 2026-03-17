@@ -1,0 +1,24 @@
+T33	PROCEDURE 0 8	ANAMNÉZA
+T29	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T34	PROCEDURE 127 135	Anamnéza
+T35	PROCEDURE 243 259	rodinná anamnéza
+T57	PROCEDURE 678 690	CT vyšetření
+T31	PROCEDURE 800 816	cholecystektomie
+T32	PROCEDURE 826 838	apendektomie
+T36	PROCEDURE 986 994	Anamnéza
+T37	PROCEDURE 1447 1450	EKG
+T103	PROCEDURE 1641 1666	kardiologickému vyšetření
+T30	PROCEDURE 1669 1688	Fyzikální vyšetření
+T4	PROCEDURE 2042 2049	palpaci
+T38	PROCEDURE 2114 2117	EKG
+T39	PROCEDURE 2354 2357	EKG
+T40	PROCEDURE 2534 2578	Posteroanteriorní rentgenový snímek hrudníku
+T42	PROCEDURE 2913 2925	krevní obraz
+T65	PROCEDURE 3042 3062	Venózní krevní plyny
+T41	PROCEDURE 3163 3184	laboratorní vyšetření
+T63	PROCEDURE 3262 3291	Transtorakální echokardiogram
+T44	PROCEDURE 3802 3816	Echokardiogram
+T11	PROCEDURE 3874 3891	Laboratorní testy
+T95	PROCEDURE 4146 4155	sledování
+T79	PROCEDURE 4158 4195	implantaci trvalého kardiostimulátoru
+T19	PROCEDURE 4371 4412	implantován dvoudutinový kardiostimulátor

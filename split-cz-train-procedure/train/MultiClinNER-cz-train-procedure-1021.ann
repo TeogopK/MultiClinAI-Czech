@@ -1,0 +1,28 @@
+T40	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T9	PROCEDURE 515 530	indikací k CPAP
+T10	PROCEDURE 558 582	operaci bederního kanálu
+T11	PROCEDURE 650 680	resekci polypů tlustého střeva
+T52	PROCEDURE 856 870	koronarografii
+T53	PROCEDURE 883 911	chirurgickou revaskularizaci
+T54	PROCEDURE 921 1020	bypassem: vnitřní mamární tepny (IMA) do přední sestupné tepny (ADA) a safény do cirkumflexní tepny
+T57	PROCEDURE 1268 1299	transtorakální echokardiografii
+T42	PROCEDURE 1311 1325	koronarografie
+T45	PROCEDURE 1600 1632	ablace kavotrikuspidálního istmu
+T61	PROCEDURE 1634 1664	Implantace jednokomorového ICD
+T41	PROCEDURE 2406 2425	Fyzikální vyšetření
+T46	PROCEDURE 2710 2720	Auskultace
+T47	PROCEDURE 5390 5407	Elektrokardiogram
+T48	PROCEDURE 5584 5596	RTG hrudníku
+T44	PROCEDURE 5748 5777	Transtorakální echokardiogram
+T73	PROCEDURE 6579 6603	neurohormonální medikace
+T75	PROCEDURE 6661 6674	betablokátoru
+T76	PROCEDURE 6872 6915	antagonisty mineralokortikoidních receptorů
+T77	PROCEDURE 6917 6920	AMR
+T49	PROCEDURE 7015 7038	perorální antikoagulace
+T83	PROCEDURE 8330 8340	auskultaci
+T50	PROCEDURE 8594 8620	kontrola glykémie a lipidů
+T84	PROCEDURE 8897 8913	renálních funkcí
+T89	PROCEDURE 10516 10545	Chirurgicky revaskularizovaná
+T90	PROCEDURE 10584 10616	IMA-ADA a safénový bypass na ACx
+T43	PROCEDURE 10637 10651	koronarografie
+T91	PROCEDURE 10819 10834	revaskularizaci

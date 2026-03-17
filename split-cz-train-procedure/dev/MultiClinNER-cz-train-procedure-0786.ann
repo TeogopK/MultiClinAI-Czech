@@ -1,0 +1,46 @@
+T46	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 529 561	hypotyreóza na substituční léčbě
+T4	PROCEDURE 617 628	hematologii
+T48	PROCEDURE 705 733	Polypektomie tlustého střeva
+T7	PROCEDURE 783 805	Parciální gastrektomie
+T8	PROCEDURE 828 850	parciální adnexektomie
+T47	PROCEDURE 1546 1565	Fyzikální vyšetření
+T49	PROCEDURE 1723 1739	Auskultace srdce
+T50	PROCEDURE 1795 1810	Auskultace plic
+T51	PROCEDURE 2020 2037	Elektrokardiogram
+T52	PROCEDURE 2039 2042	EKG
+T70	PROCEDURE 2165 2177	Krevní testy
+T71	PROCEDURE 2187 2208	biochemické vyšetření
+T53	PROCEDURE 2461 2476	Lipidový profil
+T67	PROCEDURE 2620 2633	Ferrokinetika
+T54	PROCEDURE 2805 2814	Koagulace
+T66	PROCEDURE 2889 2903	Imunoglobuliny
+T55	PROCEDURE 3092 3104	Proteinogram
+T68	PROCEDURE 3276 3290	24hodinová moč
+T61	PROCEDURE 3326 3349	Kvantitativní bílkovina
+T62	PROCEDURE 3731 3756	RTG hrudníku (PA a boční)
+T56	PROCEDURE 3897 3926	Transtorakální echokardiogram
+T72	PROCEDURE 4498 4507	MRI srdce
+T73	PROCEDURE 5032 5062	intravenózním podání kontrastu
+T74	PROCEDURE 5249 5284	Scintigrafie myokardu s difosfonáty
+T57	PROCEDURE 5400 5419	Srdeční katetrizace
+T59	PROCEDURE 5474 5519	Punkce břišního podkožního tuku tenkou jehlou
+T60	PROCEDURE 5659 5675	Imunohistochemie
+T76	PROCEDURE 5765 5795	imunohistochemického vyšetření
+T79	PROCEDURE 6210 6239	echokardiografickém vyšetření
+T80	PROCEDURE 6299 6330	vyšetření magnetickou rezonancí
+T81	PROCEDURE 6332 6350	scintigrafií srdce
+T82	PROCEDURE 6353 6395	vyšetřením lehkých řetězců v plazmě a moči
+T83	PROCEDURE 6434 6447	hematologické
+T84	PROCEDURE 6476 6507	punkci břišního podkožního tuku
+T85	PROCEDURE 6550 6580	intravenózní diuretickou léčbu
+T87	PROCEDURE 6623 6641	elektrokardiogramu
+T88	PROCEDURE 6723 6736	betablokátory
+T58	PROCEDURE 7073 7092	srdeční katetrizace
+T92	PROCEDURE 7242 7253	hematologii
+T93	PROCEDURE 7395 7406	hematologem
+T63	PROCEDURE 7673 7686	antikoagulace
+T64	PROCEDURE 7785 7797	gastroskopie
+T65	PROCEDURE 7824 7836	kolonoskopie
+T99	PROCEDURE 7938 7953	rehabilitačního
+T100	PROCEDURE 8018 8048	perkutánního uzávěru příklopky

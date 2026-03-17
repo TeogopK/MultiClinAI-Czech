@@ -1,0 +1,31 @@
+T17	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 148 180	euthyfalickým vaginálním porodem
+T2	PROCEDURE 298 303	porod
+T18	PROCEDURE 743 759	Auskultace srdce
+T19	PROCEDURE 810 827	Plicní auskultace
+T20	PROCEDURE 959 976	Elektrokardiogram
+T21	PROCEDURE 978 981	EKG
+T4	PROCEDURE 1067 1079	Krevní testy
+T3	PROCEDURE 1098 1116	arteriálních plynů
+T31	PROCEDURE 1189 1198	Biochemie
+T5	PROCEDURE 1425 1427	KO
+T32	PROCEDURE 1509 1518	Koagulace
+T22	PROCEDURE 1559 1571	RTG hrudníku
+T23	PROCEDURE 1645 1674	Transtorakální echokardiogram
+T7	PROCEDURE 1676 1679	TTE
+T28	PROCEDURE 2223 2249	Magnetická rezonance srdce
+T12	PROCEDURE 2251 2254	MRI
+T35	PROCEDURE 2522 2531	kontrastu
+T33	PROCEDURE 2807 2816	Sérologie
+T24	PROCEDURE 2909 2938	Transtorakální echokardiogram
+T25	PROCEDURE 3531 3560	transtorakální echokardiogram
+T26	PROCEDURE 3827 3842	inotropní léčba
+T47	PROCEDURE 3857 3866	diuretiky
+T48	PROCEDURE 4050 4080	inotropní a diuretické podpory
+T49	PROCEDURE 4082 4101	Perfuze dobutaminem
+T27	PROCEDURE 4135 4156	neurohormonální léčba
+T50	PROCEDURE 4298 4325	magnetickou rezonanci srdce
+T52	PROCEDURE 4544 4598	implantaci implantabilního kardioverteru defibrilátoru
+T54	PROCEDURE 4829 4848	genetické vyšetření
+T30	PROCEDURE 5039 5064	Subkutánní implantace ICD
+T29	PROCEDURE 5118 5134	genetická studie

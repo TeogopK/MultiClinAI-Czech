@@ -1,0 +1,81 @@
+T63	DISEASE 74 95	nežádoucí účinky léků
+T100	DISEASE 132 142	hypertenze
+T64	DISEASE 144 169	diabetes mellitus 2. typu
+T66	DISEASE 185 190	Kuřák
+T72	DISEASE 209 225	Alkoholový návyk
+T67	DISEASE 266 273	Obezita
+T68	DISEASE 275 311	Chronická ischemická choroba srdeční
+T70	DISEASE 313 329	Onemocnění 2 cév
+T1	DISEASE 357 381	stabilní anginy pectoris
+T3	DISEASE 494 531	akutního hypertenzního plicního edému
+T4	DISEASE 546 571	léze v cirkumflexním ústí
+T6	DISEASE 610 663	středně těžká léze v dominantní pravé koronární tepně
+T105	DISEASE 719 758	srdečního selhání s těžce sníženou LVEF
+T62	DISEASE 789 808	tachykardiomyopatie
+T94	DISEASE 811 819	ischemie
+T74	DISEASE 855 889	Paroxysmální atypický flutter síní
+T75	DISEASE 1171 1185	Skleróza aorty
+T8	DISEASE 1311 1330	Dilatovaná levá síň
+T107	DISEASE 1403 1428	trikuspidální regurgitace
+T101	DISEASE 1492 1502	hypertenze
+T9	DISEASE 1504 1507	PHT
+T77	DISEASE 1554 1618	Chronická obstrukční plicní nemoc středně těžký fenotyp emfyzému
+T10	DISEASE 1620 1664	Syndrom obstrukční spánkové apnoe s hypopnoí
+T78	DISEASE 1690 1712	Nádor močového měchýře
+T109	DISEASE 1721 1724	CIS
+T103	DISEASE 1748 1775	Chronické onemocnění ledvin
+T12	DISEASE 1777 1780	CKD
+T80	DISEASE 1892 1919	Chronická zácpa s hemoroidy
+T13	DISEASE 1922 1936	anální fisurou
+T81	DISEASE 1938 1970	Normocytární-normochromní anémie
+T83	DISEASE 1994 2016	polypy tlustého střeva
+T97	DISEASE 2018 2040	chronickou gastritidou
+T95	DISEASE 2043 2081	hyperemickou erytematózní duodenitidou
+T99	DISEASE 2119 2150	Periferní arteriální onemocnění
+T84	DISEASE 2152 2187	chronická ischemie dolních končetin
+T85	DISEASE 2189 2214	Aortobifemorální trombóza
+T86	DISEASE 2229 2257	Benigní hyperplazie prostaty
+T87	DISEASE 2259 2276	Chronický glaukom
+T88	DISEASE 2278 2296	Depresivní porucha
+T71	DISEASE 3155 3185	akutní hypertenzní plicní edém
+T16	DISEASE 3422 3442	dekompenzovaného MSS
+T17	DISEASE 3521 3542	arteriální hypertenzí
+T18	DISEASE 3544 3547	AHT
+T19	DISEASE 3633 3664	globálního respiračního selhání
+T20	DISEASE 3676 3713	akutního hypertenzního plicního edému
+T24	DISEASE 4299 4374	významnou akutní mitrální insuficienci v důsledku asymetrické zadní tetráže
+T89	DISEASE 4854 4876	hluboké žilní trombózy
+T90	DISEASE 5005 5034	oboustranný pleurální výpotek
+T92	DISEASE 5547 5623	Středně těžká mitrální insuficience v důsledku asymetrického zadního upažení
+T76	DISEASE 5625 5639	Skleróza aorty
+T27	DISEASE 5741 5760	Dilatovaná levá síň
+T108	DISEASE 5833 5858	trikuspidální regurgitace
+T91	DISEASE 5909 5918	těžká PHT
+T111	DISEASE 8289 8322	Koronární tepny: významná stenóza
+T112	DISEASE 8341 8353	ateromatózou
+T113	DISEASE 8460 8492	cirkumflexe (CX): nová restenóza
+T116	DISEASE 9058 9100	recidivující restenóza in-stent v ostiu CX
+T118	DISEASE 9182 9225	proximálním DC přetrvává středně těžká léze
+T120	DISEASE 9656 9676	mitrální regurgitace
+T121	DISEASE 9712 9740	akutní mitrální insuficienci
+T122	DISEASE 9783 9804	mitrální insuficienci
+T96	DISEASE 9817 9825	ischemie
+T123	DISEASE 9905 9944	in-stent restenózu v cirkumflexním ústí
+T73	DISEASE 10085 10103	mírné hyperkalémie
+T98	DISEASE 10114 10125	hypokalémii
+T125	DISEASE 10194 10200	anémii
+T69	DISEASE 10418 10454	chronická ischemická choroba srdeční
+T126	DISEASE 10467 10495	onemocnění periferních tepen
+T127	DISEASE 10498 10516	restenóza in-stent
+T82	DISEASE 10550 10582	normocytární-normochromní anémie
+T79	DISEASE 10622 10644	nádor močového měchýře
+T102	DISEASE 10666 10676	hypertenze
+T104	DISEASE 10699 10726	chronické onemocnění ledvin
+T128	DISEASE 10944 10958	fibrilaci síní
+T129	DISEASE 11023 11052	gastrointestinálního krvácení
+T130	DISEASE 11084 11092	obéznímu
+T131	DISEASE 11106 11131	diabetem mellitem 2. typu
+T106	DISEASE 11526 11543	srdečního selhání
+T133	DISEASE 11566 11584	Akutní plicní edém
+T93	DISEASE 11596 11635	akutní ischemické mitrální insuficience
+T65	DISEASE 11676 11701	Diabetes mellitus 2. typu

@@ -1,0 +1,36 @@
+T32	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 237 244	operace
+T25	PROCEDURE 246 258	apendektomie
+T26	PROCEDURE 903 920	elektrokardiogram
+T27	PROCEDURE 922 925	EKG
+T2	PROCEDURE 978 981	TTE
+T28	PROCEDURE 1061 1083	orotracheální intubace
+T4	PROCEDURE 1085 1109	zavedena centrální linka
+T29	PROCEDURE 1120 1137	inotropní podpora
+T30	PROCEDURE 1150 1167	perikardiocentéza
+T5	PROCEDURE 1264 1280	evakuace výpotku
+T6	PROCEDURE 1283 1315	implantace perikardiální záplaty
+T3	PROCEDURE 1320 1327	operaci
+T31	PROCEDURE 1428 1442	koronarografie
+T43	PROCEDURE 1765 1775	extubovaný
+T33	PROCEDURE 1849 1868	FYZIKÁLNÍ VYŠETŘENÍ
+T34	PROCEDURE 1870 1873	IOT
+T35	PROCEDURE 1914 1930	Auskultace srdce
+T36	PROCEDURE 1984 1999	Auskultace plic
+T7	PROCEDURE 2068 2077	ANALYTIKA
+T44	PROCEDURE 2284 2287	TTE
+T46	PROCEDURE 2490 2504	KORONAROGRAFIE
+T49	PROCEDURE 2710 2713	TTE
+T37	PROCEDURE 2974 2977	MRI
+T54	PROCEDURE 3070 3111	chirurgické opravy ruptury volné stěny LK
+T57	PROCEDURE 3528 3572	Vyšetření pozdním gadoliniovým enhancementem
+T60	PROCEDURE 4316 4328	CT vyšetření
+T41	PROCEDURE 5683 5737	implantace implantabilního kardioverteru defibrilátoru
+T8	PROCEDURE 5739 5742	ICD
+T38	PROCEDURE 5745 5782	chirurgická resekce pseudoaneuryzmatu
+T40	PROCEDURE 5785 5804	transplantace srdce
+T65	PROCEDURE 5832 5857	resekci pseudoaneuryzmatu
+T67	PROCEDURE 5998 6001	TTE
+T9	PROCEDURE 6192 6221	Oprava perikardiální záplatou
+T42	PROCEDURE 6272 6313	chirurgické opravy ruptury volné stěny LK
+T39	PROCEDURE 6315 6352	Chirurgická resekce pseudoaneuryzmatu

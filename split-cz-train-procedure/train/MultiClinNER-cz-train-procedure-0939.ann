@@ -1,0 +1,36 @@
+T49	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 245 273	antikoagulovaná dabigatranem
+T47	PROCEDURE 442 461	Gastro/kolonoskopie
+T48	PROCEDURE 474 477	PET
+T3	PROCEDURE 546 572	Perirenální tuková biopsie
+T50	PROCEDURE 1772 1791	Fyzikální vyšetření
+T69	PROCEDURE 2042 2065	Kardiopulmonální systém
+T5	PROCEDURE 2653 2671	AP snímek hrudníku
+T51	PROCEDURE 2895 2912	Elektrokardiogram
+T52	PROCEDURE 2914 2917	EKG
+T8	PROCEDURE 3088 3100	Krevní testy
+T85	PROCEDURE 3102 3114	Krevní obraz
+T54	PROCEDURE 3400 3409	Hemostáza
+T55	PROCEDURE 3547 3556	Hemostáza
+T68	PROCEDURE 3705 3714	Biochemie
+T92	PROCEDURE 4065 4078	Profil železa
+T9	PROCEDURE 4229 4243	Markery zátěže
+T56	PROCEDURE 4307 4322	Lipidový profil
+T57	PROCEDURE 4501 4532	Transtorakální echokardiografie
+T93	PROCEDURE 4534 4537	TTE
+T58	PROCEDURE 5164 5195	transtorakální echokardiografie
+T11	PROCEDURE 5224 5255	podání intravaskulárního objemu
+T12	PROCEDURE 5305 5325	převozu na koronární
+T53	PROCEDURE 5409 5417	hemogram
+T13	PROCEDURE 5420 5429	hemostázu
+T14	PROCEDURE 5474 5491	perikardiocentézu
+T61	PROCEDURE 5751 5764	antikoagulace
+T16	PROCEDURE 5784 5808	hemostatických parametrů
+T63	PROCEDURE 5908 5977	diagnostická/terapeutická perikardiocentéza řízená echokardiograficky
+T18	PROCEDURE 6202 6231	vazoaktivní/inotropní podpory
+T66	PROCEDURE 6345 6359	echokardiogram
+T19	PROCEDURE 6483 6512	drén bez komplikací odstraněn
+T67	PROCEDURE 6701 6722	Zrušení antikoagulace
+T20	PROCEDURE 6768 6785	perikardiocentézu
+T60	PROCEDURE 6787 6804	Perikardiocentéza
+T99	PROCEDURE 6870 6885	antikoagulovaná

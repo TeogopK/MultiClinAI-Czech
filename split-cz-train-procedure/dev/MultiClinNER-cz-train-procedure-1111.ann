@@ -1,0 +1,27 @@
+T45	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 301 323	Chirurgická intervence
+T42	PROCEDURE 1303 1306	EKG
+T43	PROCEDURE 1631 1634	EKG
+T114	PROCEDURE 1906 1924	elektrokardiogramu
+T4	PROCEDURE 1938 1962	echokardiografií u lůžka
+T46	PROCEDURE 2139 2158	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 2410 2434	doplňkové oxygenoterapie
+T47	PROCEDURE 2474 2490	Auskultace srdce
+T82	PROCEDURE 2533 2550	Plicní auskultace
+T44	PROCEDURE 2701 2704	EKG
+T48	PROCEDURE 2910 2936	Rentgenový snímek hrudníku
+T72	PROCEDURE 3072 3084	Krevní obraz
+T56	PROCEDURE 3127 3132	ionty
+T49	PROCEDURE 3203 3212	Koagulace
+T50	PROCEDURE 3234 3260	Markery poškození myokardu
+T51	PROCEDURE 3329 3344	Lipidový profil
+T7	PROCEDURE 3457 3481	Lůžková echokardiografie
+T53	PROCEDURE 3890 3906	Echokardiografie
+T54	PROCEDURE 4707 4721	Koronarografie
+T9	PROCEDURE 4843 4886	implantací stentu přímo uvolňujícího léčivo
+T10	PROCEDURE 4919 4951	dilatací nekompliantním balónkem
+T11	PROCEDURE 5271 5295	Kontinuální monitorování
+T55	PROCEDURE 5388 5402	koronarografie
+T13	PROCEDURE 5455 5543	RCA, jež byla revaskularizována implantací lékového stentu a následnou dilatací balónkem
+T14	PROCEDURE 5757 5785	kardiorehabilitační oddělení
+T16	PROCEDURE 6231 6280	středního RCA revaskularizované 1 lékovým stentem

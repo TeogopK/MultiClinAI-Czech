@@ -1,0 +1,62 @@
+T19	SYMPTOM 268 348	centrálního hrudního tlaku vyzařujícího do levé horní končetiny (ESI) při námaze
+T20	SYMPTOM 483 530	prekordiální bolesti vyzařující do ramene a LTE
+T72	SYMPTOM 610 617	bolesti
+T2	SYMPTOM 652 667	sinusový rytmus
+T21	SYMPTOM 670 704	negativní vlnou T ve V4-6, I a AVL
+T74	SYMPTOM 865 881	bolestí na hrudi
+T73	SYMPTOM 954 961	bolesti
+T22	SYMPTOM 1098 1114	elektrické změny
+T23	SYMPTOM 1117 1151	negativní vlnou T ve V2-6, I a AVL
+T68	SYMPTOM 1185 1199	asymptomatický
+T110	SYMPTOM 1226 1232	vědomí
+T102	SYMPTOM 1235 1246	orientovaný
+T101	SYMPTOM 1248 1264	normohydratovaný
+T85	SYMPTOM 1267 1285	dobře perfundovaný
+T55	SYMPTOM 1287 1304	V klidu eupnoický
+T25	SYMPTOM 1316 1329	dechové práce
+T8	SYMPTOM 1335 1337	IY
+T94	SYMPTOM 1350 1372	kongestivních příznaků
+T26	SYMPTOM 1374 1386	AS: rytmická
+T113	SYMPTOM 1411 1418	šelestů
+T27	SYMPTOM 1424 1446	slyšitelných extratonů
+T28	SYMPTOM 1452 1485	normoventilace ve všech oblastech
+T44	SYMPTOM 1487 1508	Břicho bylo nepopsané
+T29	SYMPTOM 1510 1539	DK: bez otoků nebo známek HŽT
+T3	SYMPTOM 1570 1585	sinusový rytmus
+T9	SYMPTOM 1604 1615	normální PR
+T12	SYMPTOM 1617 1625	úzké QRS
+T6	SYMPTOM 1627 1660	negativní vlna T ve V4-6, I a AVL
+T4	SYMPTOM 1669 1684	sinusový rytmus
+T10	SYMPTOM 1702 1713	normální PR
+T13	SYMPTOM 1715 1723	úzké QRS
+T30	SYMPTOM 1731 1756	repolarizační abnormality
+T5	SYMPTOM 1765 1780	sinusový rytmus
+T11	SYMPTOM 1798 1809	normální PR
+T14	SYMPTOM 1811 1819	úzké QRS
+T15	SYMPTOM 1821 1855	negativní vlna T ve V4-V6, I a AVL
+T16	SYMPTOM 2339 2371	normální stín srdce a mediastina
+T31	SYMPTOM 2377 2402	pleuroparenchymových změn
+T32	SYMPTOM 2451 2466	nedilatovaná LK
+T45	SYMPTOM 2516 2552	Globální systolická funkce zachována
+T48	SYMPTOM 2592 2619	normální diastolická funkce
+T33	SYMPTOM 2650 2681	Pravá komora normálních rozměrů
+T34	SYMPTOM 2683 2703	RV normokontraktilní
+T35	SYMPTOM 2736 2769	Mitrální chlopeň s tenkými lístky
+T36	SYMPTOM 2918 2941	Odhadované normální PAP
+T37	SYMPTOM 2975 2994	intrakavitární masy
+T38	SYMPTOM 3037 3086	levý společný kmen bez angiografického onemocnění
+T39	SYMPTOM 3174 3181	dojitím
+T40	SYMPTOM 3244 3309	Cirkumflex: velmi kličkovaná céva, bez angiografického onemocnění
+T41	SYMPTOM 3311 3343	Pravá koronární céva: dominantní
+T42	SYMPTOM 3595 3601	dojití
+T43	SYMPTOM 3612 3659	Fyzikální vyšetření bylo po celou dobu normální
+T46	SYMPTOM 3777 3846	rentgenový snímek hrudníku, který neprokázal žádné radiologické změny
+T18	SYMPTOM 3866 3902	echokardiogram bez zajímavých nálezů
+T89	SYMPTOM 4108 4131	hemodynamické stabilitě
+T47	SYMPTOM 4330 4366	významného angiografického postižení
+T69	SYMPTOM 4488 4502	asymptomatický
+T7	SYMPTOM 4863 4878	Bolest na hrudi
+T1	SYMPTOM 4880 4931	Koronární tepny bez významných angiografických lézí
+T49	SYMPTOM 5018 5025	dojitím
+T17	SYMPTOM 5027 5054	Zachovaná systolická funkce
+#T8	AnnotatorNotes T8	?

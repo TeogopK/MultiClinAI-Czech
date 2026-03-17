@@ -1,0 +1,58 @@
+T36	PROCEDURE 0 8	ANAMNÉZA
+T38	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T37	PROCEDURE 53 61	Anamnéza
+T145	PROCEDURE 256 265	sledování
+T102	PROCEDURE 324 332	anamnéze
+T3	PROCEDURE 481 499	totální kolektomií
+T4	PROCEDURE 526 571	adjuvantní chemoterapie Gramontovým schématem
+T154	PROCEDURE 646 658	CT vyšetření
+T32	PROCEDURE 772 786	PET vyšetřením
+T5	PROCEDURE 822 855	chemoterapie první linie s FOLFOX
+T9	PROCEDURE 1253 1305	základní kardiopulmonální resuscitační (KPR) manévry
+T87	PROCEDURE 1293 1296	KPR
+T10	PROCEDURE 1307 1380	Poloautomatický externí defibrilátor (AED) detekoval elektrošokový rytmus
+T11	PROCEDURE 1388 1403	podány 2 výboje
+T33	PROCEDURE 1447 1469	orotracheální intubace
+T34	PROCEDURE 1493 1510	elektrokardiogram
+T35	PROCEDURE 1512 1515	EKG
+T103	PROCEDURE 1720 1735	úvodní anamnéze
+T39	PROCEDURE 1862 1881	Fyzikální vyšetření
+T40	PROCEDURE 2027 2043	Auskultace srdce
+T41	PROCEDURE 2083 2098	Auskultace plic
+T62	PROCEDURE 2193 2196	EGC
+T12	PROCEDURE 2308 2320	Krevní testy
+T42	PROCEDURE 2345 2353	hemogram
+T43	PROCEDURE 2364 2373	koagulace
+T44	PROCEDURE 2406 2429	Arteriální krevní plyny
+T109	PROCEDURE 2496 2505	biochemii
+T46	PROCEDURE 2588 2603	Srdeční markery
+T47	PROCEDURE 2700 2726	Rentgenový snímek hrudníku
+T48	PROCEDURE 2812 2838	rentgenový snímek hrudníku
+T13	PROCEDURE 2842 2856	implantaci ICD
+T54	PROCEDURE 3023 3037	koronarografie
+T49	PROCEDURE 3518 3532	Echokardiogram
+T90	PROCEDURE 4245 4271	Magnetická rezonance srdce
+T50	PROCEDURE 4423 4443	CT koronárních tepen
+T51	PROCEDURE 4522 4536	CT angiografie
+T52	PROCEDURE 5320 5337	Elektrofyziologie
+T17	PROCEDURE 5924 5950	indukce komorové fibrilace
+T18	PROCEDURE 6020 6039	proveden výboj 10 J
+T63	PROCEDURE 6213 6224	defibrilace
+T152	PROCEDURE 6625 6670	transtorakálním echokardiografickém vyšetření
+T55	PROCEDURE 6790 6804	koronarografie
+T56	PROCEDURE 7150 7164	koronarografie
+T157	PROCEDURE 7459 7481	koronární CT vyšetření
+T128	PROCEDURE 7565 7592	magnetickou rezonancí srdce
+T58	PROCEDURE 7719 7737	monitorování srdce
+T59	PROCEDURE 8064 8079	kardiochirurgie
+T61	PROCEDURE 8138 8152	implantace ICD
+T64	PROCEDURE 8210 8224	subkutánní ICD
+T137	PROCEDURE 8589 8607	rentgenovém snímku
+T146	PROCEDURE 8634 8643	sledování
+T138	PROCEDURE 8662 8679	rentgenový snímek
+T147	PROCEDURE 8751 8760	sledování
+T148	PROCEDURE 8931 8940	sledování
+T141	PROCEDURE 9218 9246	kardiopulmonální resuscitací
+T88	PROCEDURE 9248 9251	KPR
+T60	PROCEDURE 9323 9348	Subkutánní implantace ICD
+T112	PROCEDURE 9585 9597	chemoterapií

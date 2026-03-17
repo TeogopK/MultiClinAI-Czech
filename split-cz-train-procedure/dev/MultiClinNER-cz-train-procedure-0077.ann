@@ -1,0 +1,41 @@
+T7	PROCEDURE 150 175	exodoncii čtvrtého moláru
+T1	PROCEDURE 228 247	Fyzikální vyšetření
+T3	PROCEDURE 250 267	ortopantomografie
+T16	PROCEDURE 489 524	Počítačová tomografie (CT) obličeje
+T17	PROCEDURE 512 514	CT
+T9	PROCEDURE 763 770	biopsie
+T13	PROCEDURE 926 942	Imunohistochemie
+T21	PROCEDURE 1038 1055	celkové anestezii
+T18	PROCEDURE 1058 1081	nazotracheální intubaci
+T19	PROCEDURE 1097 1180	chirurgická excize léze s okraji kombinovaným intraorálním a extraorálním přístupem
+T20	PROCEDURE 1184 1215	segmentální hemimandibulektomií
+T22	PROCEDURE 1383 1470	Primární rekonstrukce byla provedena pomocí mikrovaskularizovaného volného štěpu fibuly
+T23	PROCEDURE 1510 1539	Lalok byl preformován in situ
+T25	PROCEDURE 1638 1688	osteotomií peroneální kosti a fixací miniplatetami
+T24	PROCEDURE 1705 1854	cévní anastomóza mezi pravou peroneální a obličejovou tepnou a mezi souběžnými pravými peroneálními žilami a pravým tyrolinguofaciálním žilním kmenem
+T27	PROCEDURE 1856 1878	Histologické vyšetření
+T28	PROCEDURE 2016 2023	operaci
+T12	PROCEDURE 2157 2244	vertikální osteogenní distrakce fibuly umístěním intraorálního alveolárního distraktoru
+T2	PROCEDURE 2247 2267	Umístění distraktoru
+T30	PROCEDURE 2285 2302	celkové anestezii
+T26	PROCEDURE 2304 2315	Štěp fibuly
+T29	PROCEDURE 2328 2371	řezem ve vestibulární sliznici dutiny ústní
+T8	PROCEDURE 2398 2420	subperiostální disekce
+T31	PROCEDURE 2551 2626	Na vestibulární povrch fibuly byl umístěn intraorální alveolární distraktor
+T5	PROCEDURE 2706 2716	osteotomie
+T6	PROCEDURE 2718 2794	Osteotomie byly provedeny na vestibulární ploše fibuly pomocí oscilační pily
+T32	PROCEDURE 2797 2827	irigací fyziologickým roztokem
+T10	PROCEDURE 2915 2996	Alveolární distraktor byl fixován šrouby na obou stranách horizontální osteotomie
+T37	PROCEDURE 2973 2996	horizontální osteotomie
+T38	PROCEDURE 3262 3271	hemostázy
+T15	PROCEDURE 3273 3301	Vestibulární řez byl uzavřen
+T40	PROCEDURE 3515 3534	ortopantomografické
+T41	PROCEDURE 3579 3616	vertikální distrakci peroneální kosti
+T42	PROCEDURE 3720 3731	štěp fibuly
+T4	PROCEDURE 3954 3971	Ortopantomografie
+T33	PROCEDURE 4086 4093	operaci
+T43	PROCEDURE 4094 4145	distraktor odstraněn stejným intraorálním přístupem
+T35	PROCEDURE 4229 4236	operaci
+T34	PROCEDURE 4242 4296	do distrakční oblasti umístěny tři titanové implantáty
+T11	PROCEDURE 4432 4455	Protetická rehabilitace
+T14	PROCEDURE 4463 4488	protézy nesené implantáty

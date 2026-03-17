@@ -1,0 +1,23 @@
+T5	DISEASE 40 50	hypertenze
+T1	DISEASE 52 72	hypercholesterolemie
+T6	DISEASE 74 85	dysglykémie
+T2	DISEASE 87 94	obezita
+T3	DISEASE 96 120	akutní koronární syndrom
+T7	DISEASE 131 152	jedinou levou ledvinu
+T8	DISEASE 176 283	chronického onemocnění ledvin 3. stupně (podle směrnic K/DOQUI) sekundárně v důsledku ischemické nefropatie
+T9	DISEASE 262 283	ischemické nefropatie
+T10	DISEASE 332 368	kritickou stenózu levé renální tepny
+T14	DISEASE 387 397	hypertenzi
+T15	DISEASE 998 1007	hypotenzí
+T17	DISEASE 1198 1224	ischemické choroby srdeční
+T11	DISEASE 1250 1265	trombózu stentu
+T12	DISEASE 1339 1361	trombózu renální tepny
+T13	DISEASE 1399 1413	migraci stentu
+T21	DISEASE 1918 1938	respiračním selháním
+T22	DISEASE 2031 2059	retroperitoneálního hematomu
+T16	DISEASE 2136 2156	distributivního šoku
+T23	DISEASE 2192 2229	syndromu systémové zánětlivé odpovědi
+T18	DISEASE 2232 2257	anurického selhání ledvin
+T19	DISEASE 2276 2347	multiorgánového selhání sekundárně vzniklého komplikacemi cévní operace
+T20	DISEASE 2352 2367	ischemii ledvin
+T4	DISEASE 2452 2455	šok

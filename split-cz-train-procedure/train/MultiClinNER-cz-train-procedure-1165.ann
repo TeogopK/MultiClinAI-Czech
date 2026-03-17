@@ -1,0 +1,55 @@
+T66	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 598 624	zátěžovým echokardiogramem
+T6	PROCEDURE 637 693	antiischemické, protidestičkové a lipidy snižující léčby
+T64	PROCEDURE 704 718	koronarografie
+T8	PROCEDURE 762 827	středodistální přední sestupné tepně s implantací lékového stentu
+T80	PROCEDURE 974 990	echokardiografie
+T14	PROCEDURE 2242 2310	implantací lékového stentu do střední distální přední sestupné tepny
+T67	PROCEDURE 2565 2584	Fyzikální vyšetření
+T68	PROCEDURE 2777 2792	Auskultace plic
+T18	PROCEDURE 2830 2850	Kardiální auskultace
+T20	PROCEDURE 2983 2990	palpaci
+T69	PROCEDURE 3153 3170	Elektrokardiogram
+T70	PROCEDURE 3467 3496	Transtorakální echokardiogram
+T45	PROCEDURE 4364 4376	Krevní testy
+T86	PROCEDURE 4378 4387	Biochemie
+T53	PROCEDURE 4687 4699	Krevní obraz
+T81	PROCEDURE 4863 4958	CT vyšetření před TAVI: vyšetření od plicního hrotu po symfýzu pubis s intravenózním kontrastem
+T71	PROCEDURE 4881 4885	TAVI
+T88	PROCEDURE 4998 5019	srdeční synchronizací
+T65	PROCEDURE 5946 5960	Koronarografie
+T72	PROCEDURE 5966 5970	TAVI
+T79	PROCEDURE 6442 6473	transezofageální echokardiogram
+T73	PROCEDURE 6531 6535	TAVI
+T83	PROCEDURE 6536 6550	echokardiogram
+T74	PROCEDURE 6686 6690	TAVI
+T94	PROCEDURE 7378 7397	antianginózní léčby
+T95	PROCEDURE 7400 7426	implantaci lékového stentu
+T84	PROCEDURE 7556 7570	echokardiogram
+T98	PROCEDURE 8161 8193	operace náhrady aortální chlopně
+T75	PROCEDURE 8219 8223	TAVI
+T76	PROCEDURE 8230 8234	TAVI
+T99	PROCEDURE 8250 8262	CT vyšetření
+T101	PROCEDURE 8444 8460	náhradou chlopně
+T104	PROCEDURE 9083 9100	celkové anestezii
+T105	PROCEDURE 9103 9125	orotracheální intubací
+T106	PROCEDURE 9128 9161	transezofageální echokardiografií
+T107	PROCEDURE 9181 9208	kanylována pravá krční žíla
+T108	PROCEDURE 9222 9263	intravenózní implantací kardiostimulátoru
+T109	PROCEDURE 9265 9333	Levá femorální tepna byla punkována pomocí dopplerovského ultrazvuku
+T110	PROCEDURE 9335 9450	Kontralaterální angiografií byla vedena pravá femorální tepna, přes kterou byla zavedena 26. protéza Edwards SAPIEN
+T85	PROCEDURE 9458 9476	implantace protézy
+T113	PROCEDURE 9569 9572	TEE
+T115	PROCEDURE 9624 9635	aortografii
+T116	PROCEDURE 9643 9695	Pravý femorální přístup byl uzavřen systémem Prostar
+T117	PROCEDURE 9730 9757	kontralaterální angiografií
+T118	PROCEDURE 9826 9835	extubován
+T120	PROCEDURE 10179 10210	perorální antihypertenzní léčby
+T121	PROCEDURE 10268 10278	telemetrii
+T87	PROCEDURE 10628 10641	funkce ledvin
+T127	PROCEDURE 10761 10784	antibiotickou profylaxí
+T77	PROCEDURE 10800 10804	TAVI
+T129	PROCEDURE 11014 11053	léčba dvojitou protidestičkovou terapií
+T131	PROCEDURE 11473 11504	perorální antidiabetickou léčbu
+T78	PROCEDURE 11681 11685	TAVI
+T133	PROCEDURE 11783 11809	implantací lékového stentu

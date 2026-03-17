@@ -1,0 +1,35 @@
+T16	PROCEDURE 113 122	patologie
+T12	PROCEDURE 389 408	Fyzikální vyšetření
+T17	PROCEDURE 438 455	Laboratorní testy
+T22	PROCEDURE 463 475	krevní testy
+T2	PROCEDURE 477 498	biochemie krve a moči
+T13	PROCEDURE 500 509	koagulace
+T1	PROCEDURE 526 542	Ultrazvuk varlat
+T5	PROCEDURE 577 593	ultrazvuk břicha
+T6	PROCEDURE 595 615	magnetická rezonance
+T18	PROCEDURE 618 657	torakoabdominální počítačová tomografie
+T19	PROCEDURE 659 661	CT
+T20	PROCEDURE 884 898	kostním skenem
+T21	PROCEDURE 932 963	punkcí tenkou jehlou - aspirací
+T23	PROCEDURE 1005 1018	arteriografií
+T3	PROCEDURE 1126 1147	radikální nefrektomie
+T15	PROCEDURE 1149 1156	operace
+T34	PROCEDURE 1247 1254	operaci
+T24	PROCEDURE 1258 1280	anatomicko-patologické
+T14	PROCEDURE 1434 1453	Mikroskopický popis
+T36	PROCEDURE 1700 1707	operaci
+T25	PROCEDURE 1709 1730	vyšetření krve a moči
+T9	PROCEDURE 1732 1752	torakoabdominální CT
+T39	PROCEDURE 1798 1819	torakoabdominálním CT
+T40	PROCEDURE 2029 2046	chirurgické léčbě
+T7	PROCEDURE 2184 2223	resekce nádoru včetně postižené bránice
+T8	PROCEDURE 2225 2265	vertikální gastrektomie až po Hisův úhel
+T10	PROCEDURE 2267 2279	splenektomie
+T26	PROCEDURE 2282 2304	resekcí ocasu slinivky
+T11	PROCEDURE 2307 2333	kolektomie slezinného úhlu
+T27	PROCEDURE 2335 2357	Anatomická patologická
+T28	PROCEDURE 2554 2604	chemoterapií (6 cyklů adriamycin/ifosfamid/měsíčně
+T45	PROCEDURE 2608 2620	radioterapií
+T46	PROCEDURE 2674 2686	CT vyšetření
+T4	PROCEDURE 2725 2734	CT břicha
+T29	PROCEDURE 2783 2795	chemoterapii

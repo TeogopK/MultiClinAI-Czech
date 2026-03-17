@@ -1,0 +1,49 @@
+T46	PROCEDURE 0 8	ANAMNÉZA
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 206 237	transezofageálnímu monitorování
+T113	PROCEDURE 241 276	perkutánním uzávěru ouška levé síně
+T47	PROCEDURE 397 412	OSOBNÍ ANAMNÉZA
+T68	PROCEDURE 527 549	Kardiologická anamnéza
+T35	PROCEDURE 627 630	CVE
+T23	PROCEDURE 697 728	Transtorakální echokardiografie
+T21	PROCEDURE 1124 1180	Perkutánní uzávěr ouška levé síně pomocí zařízení Amulet
+T22	PROCEDURE 1650 1707	perkutánní uzávěr ouška levé síně pomocí přístroje Amulet
+T118	PROCEDURE 1818 1839	protidestičková léčba
+T76	PROCEDURE 1927 1947	antikoagulační léčbě
+T69	PROCEDURE 2086 2094	anamnéza
+T72	PROCEDURE 2190 2210	antikoagulační léčbu
+T6	PROCEDURE 2276 2300	zobrazovacími technikami
+T14	PROCEDURE 2359 2383	zobrazovacími technikami
+T37	PROCEDURE 2429 2457	funkčních respiračních testů
+T38	PROCEDURE 2458 2480	Chirurgické intervence
+T24	PROCEDURE 2482 2498	žaludeční bypass
+T26	PROCEDURE 2720 2739	FYZIKÁLNÍ VYŠETŘENÍ
+T27	PROCEDURE 2909 2925	Auskultace srdce
+T28	PROCEDURE 2959 2974	Auskultace plic
+T39	PROCEDURE 3068 3075	palpaci
+T40	PROCEDURE 3173 3190	Laboratorní testy
+T29	PROCEDURE 3192 3204	Krevní obraz
+T34	PROCEDURE 3297 3306	Biochemie
+T36	PROCEDURE 3555 3574	Metabolismus železa
+T106	PROCEDURE 3643 3662	Metabolismus lipidů
+T30	PROCEDURE 3749 3758	Hemostáza
+T31	PROCEDURE 3816 3833	Elektrokardiogram
+T32	PROCEDURE 3835 3838	EKG
+T33	PROCEDURE 3986 4019	Transezofageální echokardiografie
+T55	PROCEDURE 4021 4024	TEE
+T41	PROCEDURE 4045 4089	po implantaci zařízení pro uzávěr ouška síně
+T131	PROCEDURE 4206 4240	zařízení pro uzávěr síňového ouška
+T117	PROCEDURE 4656 4687	dvojitou protidestičkovou léčbu
+T73	PROCEDURE 4743 4763	antikoagulační léčby
+T56	PROCEDURE 4806 4820	kontrolním TEE
+T129	PROCEDURE 4877 4899	uzávěr ouška levé síně
+T74	PROCEDURE 4928 4948	antikoagulační léčby
+T57	PROCEDURE 5023 5036	kontrolní TEE
+T114	PROCEDURE 5112 5135	perorální antikoagulaci
+T99	PROCEDURE 5177 5203	kontrolní echokardiografii
+T75	PROCEDURE 5263 5283	antikoagulační léčby
+T126	PROCEDURE 5444 5489	transezofageální echokardiografickou kontrolu
+T77	PROCEDURE 5649 5669	antikoagulační léčbě
+T59	PROCEDURE 5732 5777	Uzávěr ouška levé síně pomocí zařízení Amulet
+T130	PROCEDURE 5809 5844	zařízení pro uzávěr ouška levé síně
+T115	PROCEDURE 5855 5878	perorální antikoagulací

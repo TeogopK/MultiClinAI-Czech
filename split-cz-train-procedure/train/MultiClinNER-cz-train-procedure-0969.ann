@@ -1,0 +1,60 @@
+T3	PROCEDURE 307 332	inguinální hernioplastiku
+T5	PROCEDURE 670 715	základní manévry kardiopulmonální resuscitace
+T52	PROCEDURE 717 720	KPR
+T6	PROCEDURE 783 796	rozšířená KPR
+T24	PROCEDURE 799 821	orotracheální intubace
+T59	PROCEDURE 823 826	OTI
+T7	PROCEDURE 890 931	aplikovány dva výboje s maximální energií
+T25	PROCEDURE 974 991	elektrokardiogram
+T26	PROCEDURE 993 996	EKG
+T27	PROCEDURE 1080 1083	EKG
+T140	PROCEDURE 1167 1196	transtorakální echokardiogram
+T67	PROCEDURE 1198 1201	TTE
+T139	PROCEDURE 1313 1336	terapeutické hypotermie
+T32	PROCEDURE 1353 1367	koronarografie
+T68	PROCEDURE 1639 1642	TTE
+T11	PROCEDURE 1683 1764	tepna CD, a proto byla provedena angioplastika a implantace 2 potahovaných stentů
+T12	PROCEDURE 1910 1920	intubovaný
+T13	PROCEDURE 1922 1940	sedoanalgetizovaný
+T14	PROCEDURE 1943 1953	relaxovaný
+T15	PROCEDURE 1954 2047	přeložen na jednotku akutní kardiologické péče a chlazen fyziologickým roztokem o teplotě 4oC
+T34	PROCEDURE 2050 2069	Fyzikální vyšetření
+T44	PROCEDURE 2155 2166	Hlava a krk
+T35	PROCEDURE 2195 2210	Auskultace plic
+T36	PROCEDURE 2261 2277	Auskultace srdce
+T28	PROCEDURE 2565 2568	EKG
+T83	PROCEDURE 2573 2584	defibrilaci
+T29	PROCEDURE 2724 2727	EKG
+T45	PROCEDURE 2805 2812	Analýza
+T42	PROCEDURE 3306 3330	Markery nekrózy myokardu
+T38	PROCEDURE 3465 3479	Kultivace krve
+T122	PROCEDURE 3481 3495	kultivace moči
+T39	PROCEDURE 3498 3520	bronchiálního aspirátu
+T37	PROCEDURE 3533 3559	Rentgenový snímek hrudníku
+T46	PROCEDURE 3609 3621	RTG hrudníku
+T62	PROCEDURE 3753 3776	Přenosný echokardiogram
+T48	PROCEDURE 3796 3814	indukce hypotermie
+T40	PROCEDURE 4050 4064	Echokardiogram
+T101	PROCEDURE 4090 4098	extubaci
+T33	PROCEDURE 4269 4283	koronarografie
+T41	PROCEDURE 4712 4828	Balónková angioplastika a implantace 2 překrývajících se lékových stentů ve středním a proximálním segmentu tepny CD
+T53	PROCEDURE 4926 4971	zaveden femorální žilní katétr pro hypotermii
+T136	PROCEDURE 5078 5095	rentgenový snímek
+T135	PROCEDURE 5224 5242	rentgenovém snímku
+T55	PROCEDURE 5246 5274	odsátí endotracheální rourky
+T57	PROCEDURE 5277 5305	mobilizaci pacienta vyřešila
+T30	PROCEDURE 5307 5330	Terapeutická hypotermie
+T58	PROCEDURE 5374 5390	opětovné zahřátí
+T102	PROCEDURE 5460 5468	extubaci
+T61	PROCEDURE 5494 5511	opětovním zahřátí
+T103	PROCEDURE 5514 5522	extubaci
+T138	PROCEDURE 5872 5882	telemetrii
+T64	PROCEDURE 5936 5983	amiodaronu kardiovertizoval do sinusového rytmu
+T60	PROCEDURE 6105 6127	orotracheální intubace
+T69	PROCEDURE 6161 6206	kultivace krve, moči a bronchiálního aspirátu
+T65	PROCEDURE 6218 6246	empirická antibiotická léčba
+T56	PROCEDURE 6282 6291	Kultivace
+T70	PROCEDURE 6326 6341	rehospitalizace
+T78	PROCEDURE 6446 6466	antibiotická terapie
+T71	PROCEDURE 6908 6996	Angioplastika a implantace lékových stentů do proximální a střední pravé koronární tepny
+T31	PROCEDURE 7064 7087	Terapeutická hypotermie

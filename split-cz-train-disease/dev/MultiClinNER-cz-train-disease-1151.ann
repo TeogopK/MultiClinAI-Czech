@@ -1,0 +1,34 @@
+T17	DISEASE 75 87	bývalý kuřák
+T1	DISEASE 116 126	hypertonik
+T2	DISEASE 128 140	dyslipidemik
+T19	DISEASE 143 151	diabetik
+T3	DISEASE 202 207	STEMI
+T6	DISEASE 562 598	závažná restenóza předchozích stentů
+T10	DISEASE 2180 2196	nekrózy myokardu
+T20	DISEASE 2263 2268	CHOPN
+T11	DISEASE 2365 2388	Hypertrofie levé komory
+T4	DISEASE 2592 2594	DP
+T12	DISEASE 2602 2623	Mitrální insuficience
+T21	DISEASE 2679 2722	trombotická okluze stentu v proximálním LAD
+T13	DISEASE 2754 2793	těžká stenóza v distálním okraji stentu
+T5	DISEASE 2795 2831	Závažné onemocnění bisektorové větve
+T14	DISEASE 2852 2879	Závažná stenóza distální Cx
+T22	DISEASE 2938 2989	Trombotická okluze středního a distálního DC stentu
+T16	DISEASE 3032 3073	trombóze středního a distálního DC stentu
+T49	DISEASE 3080 3124	trombóze proximálního a středního LAD stentu
+T7	DISEASE 3423 3456	těžce sníženou systolickou funkcí
+T51	DISEASE 3508 3593	trombotickou okluzi stentů v proximálním LAD a také stentů ve středním a distálním DC
+T53	DISEASE 3837 3885	restenózy distálního okraje středního LAD stentu
+T55	DISEASE 4164 4190	nestabilní anginu pectoris
+T56	DISEASE 4245 4287	závažnou restenózu proximálního okraje DES
+T58	DISEASE 4586 4604	respirační infekcí
+T23	DISEASE 4625 4649	refrakterní septický šok
+T24	DISEASE 4660 4689	Rozsáhlý přední + dolní STEMI
+T60	DISEASE 4736 4794	trombózou stentů na úrovni středního DC a proximálního LAD
+T63	DISEASE 4961 4993	Závažné onemocnění distálního CX
+T64	DISEASE 5014 5070	Závažná restenóza DES implantovaného do proximálního LAD
+T65	DISEASE 5166 5176	HYPERTENZE
+T25	DISEASE 5178 5208	Diabetes mellitus (DM) 2. typu
+T26	DISEASE 5197 5199	DM
+T27	DISEASE 5210 5213	DLP
+T18	DISEASE 5215 5227	Bývalý kuřák

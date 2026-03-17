@@ -1,0 +1,26 @@
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 227 280	Nádorové onemocnění pravého prsu v roce 2004, operace
+T27	PROCEDURE 282 294	radioterapie
+T28	PROCEDURE 296 308	chemoterapie
+T5	PROCEDURE 311 327	hormonální léčba
+T6	PROCEDURE 467 504	zátěžové echokardiografické vyšetření
+T7	PROCEDURE 644 663	srdeční katetrizaci
+T9	PROCEDURE 1062 1087	zátěžové echokardiografii
+T30	PROCEDURE 1112 1136	klidový a zátěžový SPECT
+T11	PROCEDURE 1240 1259	srdeční katetrizaci
+T32	PROCEDURE 1300 1319	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 1438 1454	Auskultace srdce
+T34	PROCEDURE 1491 1506	Auskultace plic
+T35	PROCEDURE 1616 1619	EKG
+T36	PROCEDURE 1766 1769	EKG
+T41	PROCEDURE 2084 2103	Funkce štítné žlázy
+T37	PROCEDURE 2251 2263	RTG hrudníku
+T38	PROCEDURE 2425 2456	Transtorakální echokardiografie
+T47	PROCEDURE 2762 2784	Valsalvových manévrech
+T51	PROCEDURE 3580 3603	Zátěžový SPECT myokardu
+T52	PROCEDURE 3606 3678	synchronizovaný klidový SPECT myokardu: radiofarmakum: 99mTc-tetrofosmin
+T39	PROCEDURE 3722 3732	Ergometrie
+T54	PROCEDURE 4031 4055	SPECT/CT s nízkou dávkou
+T56	PROCEDURE 4248 4260	KORONOGRAFIE
+T40	PROCEDURE 4262 4289	punkce pravé radiální tepny
+T29	PROCEDURE 4480 4499	srdeční katetrizace

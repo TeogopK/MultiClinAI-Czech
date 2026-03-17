@@ -1,0 +1,40 @@
+T22	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 206 225	bez revaskularizace
+T4	PROCEDURE 291 306	antikoagulovaná
+T5	PROCEDURE 323 393	Revmatické onemocnění mitrální chlopně s implantací mechanické protézy
+T23	PROCEDURE 984 1003	FYZIKÁLNÍ VYŠETŘENÍ
+T24	PROCEDURE 1109 1125	Auskultace srdce
+T25	PROCEDURE 1222 1239	Plicní auskultace
+T26	PROCEDURE 1745 1762	elektrokardiogram
+T27	PROCEDURE 1764 1767	EKG
+T28	PROCEDURE 1858 1889	Transtorakální echokardiografie
+T29	PROCEDURE 2501 2534	Transezofageální echokardiografie
+T50	PROCEDURE 2741 2759	KARDIOKATETERISMUS
+T54	PROCEDURE 3024 3049	kardiochirurgická operace
+T55	PROCEDURE 3052 3099	uzávěrem netěsnosti a koronární revaskularizací
+T30	PROCEDURE 3101 3134	Transezofageální echokardiografie
+T56	PROCEDURE 3153 3171	chirurgické opravě
+T58	PROCEDURE 3367 3384	KATETRIZACE SRDCE
+T41	PROCEDURE 3398 3491	perkutánní uzávěr periprotetického úniku s retrográdním transfemorálním arteriálním přístupem
+T31	PROCEDURE 3493 3526	Transezofageální echokardiografie
+T61	PROCEDURE 3664 3708	3D transezofageální srdeční echokardiografie
+T63	PROCEDURE 3876 3909	transezofageální echokardiografií
+T36	PROCEDURE 4007 4021	Koronarografie
+T65	PROCEDURE 4089 4097	diuretik
+T66	PROCEDURE 4121 4142	trojnásobným bypassem
+T67	PROCEDURE 4145 4178	uzavřením netěsnosti čtyřmi stehy
+T68	PROCEDURE 4202 4229	pooperační echokardiografii
+T72	PROCEDURE 4390 4399	transfuzí
+T32	PROCEDURE 4401 4434	Transezofageální echokardiografie
+T75	PROCEDURE 4707 4732	kardiochirurgické operaci
+T35	PROCEDURE 4771 4865	perkutánní uzávěr periprotetické netěsnosti retrográdním transfemorálním arteriálním přístupem
+T37	PROCEDURE 4873 4902	implantace zařízení Amplatzer
+T38	PROCEDURE 5672 5684	torakostomie
+T39	PROCEDURE 5687 5702	apikální punkce
+T81	PROCEDURE 5733 5793	Zařízení Occlutech PDL obdélníkového tvaru bylo implantováno
+T33	PROCEDURE 5825 5858	transezofageální echokardiografie
+T34	PROCEDURE 5870 5903	transezofageální echokardiografie
+T84	PROCEDURE 6160 6188	chirurgickou revaskularizací
+T40	PROCEDURE 6315 6351	náhrada chlopně mechanickou protézou
+T86	PROCEDURE 6420 6440	chirurgickou suturou
+T87	PROCEDURE 6443 6463	perkutánním uzávěrem

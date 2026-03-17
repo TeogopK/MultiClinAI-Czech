@@ -1,0 +1,53 @@
+T17	SYMPTOM 817 834	febrilní příznaky
+T18	SYMPTOM 857 865	teplotou
+T19	SYMPTOM 1072 1085	tekutý průjem
+T20	SYMPTOM 1115 1148	intenzivní periumbilikální bolest
+T120	SYMPTOM 1184 1206	otoků dolních končetin
+T122	SYMPTOM 1209 1230	progredující dušností
+T1	SYMPTOM 1280 1285	kašel
+T95	SYMPTOM 1291 1302	expektoraci
+T2	SYMPTOM 1316 1331	bolest na hrudi
+T3	SYMPTOM 1333 1340	závratě
+T116	SYMPTOM 1372 1392	neurologický deficit
+T101	SYMPTOM 1574 1581	horečku
+T94	SYMPTOM 1597 1606	eupnoická
+T21	SYMPTOM 1656 1687	Jugulární žilní tlak je zvýšený
+T22	SYMPTOM 1728 1760	šelest v aortálním ohnisku II/VI
+T23	SYMPTOM 1763 1782	normální druhý zvuk
+T24	SYMPTOM 1792 1814	hypoventilaci v bazích
+T4	SYMPTOM 1817 1845	praskání ve středních polích
+T25	SYMPTOM 1847 1909	Břicho bylo měkké, stlačitelné a bolestivé v úrovni epigastria
+T121	SYMPTOM 1922 1945	peritoneálního dráždění
+T26	SYMPTOM 1951 1965	visceromegalie
+T27	SYMPTOM 1967 2019	Dolní končetiny s otokem s dolíčkováním až po koleno
+T59	SYMPTOM 2048 2085	Periferní pulzy přítomny a symetrické
+T5	SYMPTOM 2196 2204	úzké QRS
+T12	SYMPTOM 2206 2218	normální osa
+T13	SYMPTOM 2220 2245	Repolarizační abnormality
+T28	SYMPTOM 2259 2283	digitalisovému zásobníku
+T14	SYMPTOM 2328 2350	TAVI v aortální poloze
+T11	SYMPTOM 2352 2370	Cévní redistribuce
+T129	SYMPTOM 2373 2401	cysta s přítomností tekutiny
+T29	SYMPTOM 2437 2465	Rozšíření horního mediastina
+T56	SYMPTOM 2643 2671	Hormony štítné žlázy v normě
+T30	SYMPTOM 3082 3160	Krevní kultury: dvě pozitivní série na meticilin citlivý Staphylococcus aureus
+T15	SYMPTOM 3205 3235	Moč: izolované červené krvinky
+T6	SYMPTOM 3243 3255	leukocyturie
+T8	SYMPTOM 3260 3271	bakteriurie
+T31	SYMPTOM 3273 3290	negativní nitrity
+T32	SYMPTOM 3291 3368	Výkaly: obvyklá flóra, žádní parazité a negativní toxin Clostridium difficile
+T7	SYMPTOM 3370 3400	Sérologie: HIV a HCV negativní
+T9	SYMPTOM 3402 3431	Anti HBs a anti HBc pozitivní
+T10	SYMPTOM 3457 3528	ANA, ANCA, Anti nativní DNA, ENAS, CH 50 a C4 normální a/nebo negativní
+T16	SYMPTOM 3561 3602	levá komora normálního průměru a tloušťky
+T117	SYMPTOM 3605 3655	normální globální a segmentální systolickou funkcí
+T58	SYMPTOM 3706 3746	Normofunkční aortální biologická protéza
+T33	SYMPTOM 4022 4040	pohyblivými obrazy
+T34	SYMPTOM 4493 4532	negativní transtorakální echokardiogram
+T35	SYMPTOM 4682 4720	pozitivní krevní kulturou na S. aureus
+T139	SYMPTOM 4845 4870	zhoršení renálních funkcí
+T36	SYMPTOM 4873 4903	poklesem glomerulární filtrace
+T70	SYMPTOM 4974 4980	anurií
+T126	SYMPTOM 4982 5004	sníženou úrovní vědomí
+T37	SYMPTOM 5235 5241	zemřel
+T140	SYMPTOM 5488 5493	Úmrtí

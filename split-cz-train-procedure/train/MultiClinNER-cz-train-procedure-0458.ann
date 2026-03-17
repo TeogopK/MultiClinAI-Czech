@@ -1,0 +1,11 @@
+T4	PROCEDURE 161 190	ultrazvukové vyšetření břicha
+T6	PROCEDURE 325 347	kompletní kolonoskopii
+T5	PROCEDURE 364 390	diagnostickou laparoskopii
+T2	PROCEDURE 590 640	počítačová axiální tomografie (CAT) břicha a pánve
+T9	PROCEDURE 621 624	CAT
+T3	PROCEDURE 1037 1108	onkologická pravostranná ileokolektomie s ileotransverzální anastomózou
+T7	PROCEDURE 1079 1108	ileotransverzální anastomózou
+T10	PROCEDURE 1191 1217	Histopatologické vyšetření
+T8	PROCEDURE 1517 1562	Osm lymfatických uzlin izolovaných z resekátu
+T1	PROCEDURE 1665 1681	nádorové markery
+T14	PROCEDURE 1684 1696	CT vyšetření

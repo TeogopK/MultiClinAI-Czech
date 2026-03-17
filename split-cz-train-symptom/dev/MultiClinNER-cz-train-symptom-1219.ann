@@ -1,0 +1,102 @@
+T37	SYMPTOM 646 704	epřetržité, tísnivé, nevyzařující centrální hrudní bolesti
+T38	SYMPTOM 721 737	vegetativní kůry
+T39	SYMPTOM 853 877	pokles rychlosti diurézy
+T1	SYMPTOM 897 916	neproduktivní kašel
+T40	SYMPTOM 918 946	generalizovanou artromyalgii
+T2	SYMPTOM 948 963	pocit dystrofie
+T41	SYMPTOM 966 984	intenzivní astenii
+T3	SYMPTOM 993 1001	ortopnoe
+T42	SYMPTOM 1011 1038	paroxysmální noční dušnosti
+T43	SYMPTOM 1040 1049	bendopnoe
+T44	SYMPTOM 1051 1093	zvýšený obvod břicha nebo dolních končetin
+T45	SYMPTOM 1095 1114	přírůstek hmotnosti
+T4	SYMPTOM 1116 1125	palpitace
+T5	SYMPTOM 1170 1184	bolesti břicha
+T6	SYMPTOM 1186 1195	nevolnost
+T7	SYMPTOM 1197 1205	zvracení
+T8	SYMPTOM 1207 1213	průjem
+T46	SYMPTOM 1215 1230	mikční příznaky
+T47	SYMPTOM 1393 1411	Běžný celkový stav
+T9	SYMPTOM 1417 1423	vědomí
+T48	SYMPTOM 1425 1449	orientovaný ve 3 sférách
+T49	SYMPTOM 1452 1466	spolupracující
+T10	SYMPTOM 1468 1482	Normální barva
+T50	SYMPTOM 1484 1500	normohydratovaný
+T51	SYMPTOM 1503 1524	normálně perfundovaný
+T11	SYMPTOM 1526 1543	Eupnoický v klidu
+T52	SYMPTOM 1547 1572	dobrou dechovou dynamikou
+T53	SYMPTOM 1587 1605	orofarynx normální
+T54	SYMPTOM 1613 1632	zduření krčních žil
+T55	SYMPTOM 1652 1688	rytmické, tachykardické srdeční ozvy
+T56	SYMPTOM 1696 1703	šelesty
+T57	SYMPTOM 1708 1719	extratonusy
+T12	SYMPTOM 1740 1768	zachovalý vezikulární šelest
+T58	SYMPTOM 1776 1787	zvuky navíc
+T60	SYMPTOM 1797 1861	hydroaerické zvuky jsou přítomny a mají normální charakteristiku
+T59	SYMPTOM 1887 1906	palpaci nebolestivé
+T61	SYMPTOM 1921 1944	peritoneálního dráždění
+T62	SYMPTOM 1950 1970	ascitické semiologie
+T63	SYMPTOM 1992 1998	útvary
+T13	SYMPTOM 2003 2016	organomegalie
+T64	SYMPTOM 2035 2075	pedální pulzy jsou přítomny a symetrické
+T65	SYMPTOM 2083 2088	otoky
+T14	SYMPTOM 2160 2175	sinusový rytmus
+T36	SYMPTOM 2193 2215	vertikální srdeční osa
+T15	SYMPTOM 2217 2228	normální PR
+T16	SYMPTOM 2230 2238	úzké QRS
+T66	SYMPTOM 2255 2297	Slabý růst vlny R v prekordiálních svodech
+T67	SYMPTOM 2305 2335	relevantní repolarizační změny
+T68	SYMPTOM 2371 2419	kardiotorakální index na horní hranici normality
+T69	SYMPTOM 2454 2483	Kostofrenní dutiny jsou volné
+T17	SYMPTOM 3981 4054	PCR na respirační viry v nazofaryngeálním exsudátu pozitivní na chřipku A
+T18	SYMPTOM 4115 4161	nedilatovaná levá komora s globální hypokinezí
+T19	SYMPTOM 4177 4202	Nedilatovaná pravá komora
+T22	SYMPTOM 4205 4216	normální EF
+T70	SYMPTOM 4330 4358	Dolní dutá žíla nedilatovaná
+T71	SYMPTOM 4476 4496	sinusové tachykardii
+T72	SYMPTOM 4515 4539	Levá komora nedilatovaná
+T73	SYMPTOM 4562 4593	Systolická funkce těžce snížená
+T24	SYMPTOM 4647 4666	globální hypokineze
+T23	SYMPTOM 4668 4695	Normální diastolická funkce
+T20	SYMPTOM 4697 4754	Nedilatovaná pravá komora s depresivní systolickou funkcí
+T74	SYMPTOM 4844 4863	globální hypokinezí
+T75	SYMPTOM 4865 4892	Levá síň normální velikosti
+T25	SYMPTOM 4894 4922	Pravá síň normální velikosti
+T76	SYMPTOM 4924 4982	Trojcípá aortální chlopeň, morfologicky i funkčně normální
+T77	SYMPTOM 5024 5067	Trikuspidální chlopeň morfologicky normální
+T78	SYMPTOM 5161 5192	Dolní dutá žíla není dilatovaná
+T79	SYMPTOM 5223 5288	Kořen aorty, vzestupná aorta a aortální oblouk normální velikosti
+T80	SYMPTOM 5404 5431	systolická funkce zachována
+T81	SYMPTOM 5573 5593	sinusové tachykardii
+T82	SYMPTOM 5612 5664	Levá komora nedilatovaná, s normální tloušťkou stěny
+T83	SYMPTOM 5666 5735	Segmentální kontraktilita s mírnou hypokinezí dolního aspektu a septa
+T26	SYMPTOM 5765 5792	Zachovaná systolická funkce
+T84	SYMPTOM 5968 5993	Pravá komora nedilatovaná
+T85	SYMPTOM 6017 6044	normální systolickou funkcí
+T27	SYMPTOM 6046 6073	Předsíně normální velikosti
+T86	SYMPTOM 6075 6123	Aortální chlopeň morfologicky a funkčně normální
+T87	SYMPTOM 6209 6252	Trikuspidální chlopeň morfologicky normální
+T88	SYMPTOM 6328 6361	Aortální kořen normální velikosti
+T89	SYMPTOM 6363 6401	Perikard normální tloušťky a lomivosti
+T90	SYMPTOM 6483 6525	levá komora nedilatovaná ani hypertrofická
+T91	SYMPTOM 6527 6576	normální globální i segmentální systolická funkce
+T28	SYMPTOM 6590 6645	Nedilatovaná pravá komora s normální systolickou funkcí
+T35	SYMPTOM 6665 6698	změny v segmentální kontraktilitě
+T21	SYMPTOM 6700 6726	Předsíně nejsou dilatované
+T92	SYMPTOM 7055 7060	edému
+T29	SYMPTOM 7208 7268	LK a RV s normální globální a segmentální systolickou funkcí
+T93	SYMPTOM 7277 7282	edému
+T94	SYMPTOM 7798 7807	hypotenzi
+T95	SYMPTOM 8075 8125	těžkou dysfunkci levé komory s globální hypokinezí
+T96	SYMPTOM 8269 8294	hemodynamické nestabilitě
+T30	SYMPTOM 8296 8305	hypotenze
+T32	SYMPTOM 8358 8378	distální hypoperfuze
+T97	SYMPTOM 8380 8397	hyperlaktacidemie
+T98	SYMPTOM 8630 8663	pozitivní na virus chřipky typu A
+T104	SYMPTOM 9388 9422	pravé komory s globální hypokinezí
+T33	SYMPTOM 9702 9710	oligurie
+T31	SYMPTOM 9940 9955	těžké hypotenze
+T110	SYMPTOM 11146 11156	desaturací
+T34	SYMPTOM 11679 11687	krvácení
+T111	SYMPTOM 12163 12196	zachovanou biventrikulární funkci
+T112	SYMPTOM 12327 12360	omezení dorzální flexe pravé nohy

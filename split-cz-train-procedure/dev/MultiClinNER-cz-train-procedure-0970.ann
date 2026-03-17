@@ -1,0 +1,51 @@
+T44	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 326 342	perorálními léky
+T1	PROCEDURE 807 898	proximální přední sestupné tepny, která byla revaskularizována implantací 1 lékového stentu
+T3	PROCEDURE 1111 1130	perfuzí abciximabem
+T4	PROCEDURE 1142 1156	balónkovou PCI
+T125	PROCEDURE 2286 2307	fyzikálním vyšetřením
+T45	PROCEDURE 2485 2501	Auskultace srdce
+T90	PROCEDURE 2557 2574	Plicní auskultace
+T46	PROCEDURE 2689 2706	elektrokardiogram
+T47	PROCEDURE 2708 2711	EKG
+T48	PROCEDURE 2955 2958	EKG
+T51	PROCEDURE 3107 3121	koronarografie
+T49	PROCEDURE 3859 3862	EKG
+T7	PROCEDURE 4012 4033	Laboratorní vyšetření
+T56	PROCEDURE 4047 4059	krevní obraz
+T65	PROCEDURE 4299 4304	Ionty
+T58	PROCEDURE 4340 4353	kardiomarkery
+T60	PROCEDURE 4584 4599	Lipidový profil
+T5	PROCEDURE 4707 4730	Kultivace moči s toxiny
+T61	PROCEDURE 4770 4786	Echokardiografie
+T52	PROCEDURE 5143 5157	koronarografie
+T105	PROCEDURE 5274 5285	angiografii
+T187	PROCEDURE 5287 5322	Dopplerovské ultrazvukové vyšetření
+T50	PROCEDURE 5792 5795	EKG
+T63	PROCEDURE 5936 5967	Transtorakální echokardiografie
+T94	PROCEDURE 5969 5972	TTE
+T190	PROCEDURE 6417 6439	Dopplerovské vyšetření
+T10	PROCEDURE 6526 6547	laboratorní vyšetření
+T57	PROCEDURE 6573 6585	krevní obraz
+T64	PROCEDURE 6598 6607	Koagulace
+T69	PROCEDURE 6618 6627	Biochemie
+T171	PROCEDURE 6639 6653	renální funkce
+T66	PROCEDURE 6656 6661	ionty
+T59	PROCEDURE 6672 6685	kardiomarkery
+T11	PROCEDURE 6976 6999	katecholaminová podpora
+T6	PROCEDURE 7040 7053	angioplastiku
+T14	PROCEDURE 7207 7227	farmakologická léčba
+T34	PROCEDURE 7277 7297	intervenčním výkonem
+T8	PROCEDURE 7308 7383	podán intrakoronární bolus abciximabu a intravenózní perfuze byla ponechána
+T173	PROCEDURE 7527 7536	sledování
+T53	PROCEDURE 7638 7652	koronarografie
+T54	PROCEDURE 7700 7714	koronarografie
+T9	PROCEDURE 7755 7805	perkutánní revaskularizaci nebo chirurgický zákrok
+T95	PROCEDURE 8105 8108	TTE
+T55	PROCEDURE 8317 8331	koronarografie
+T13	PROCEDURE 8621 8669	dvojité protidestičkové léčbě ASA a tikagrelorem
+T12	PROCEDURE 8774 8809	koronarografii přes femorální tepnu
+T188	PROCEDURE 8838 8873	dopplerovské ultrazvukové vyšetření
+T165	PROCEDURE 9573 9592	duální antiagregace
+T15	PROCEDURE 9952 9979	intrakoronárním abciximabem
+T68	PROCEDURE 9990 10019	trojitá protidestičková léčba

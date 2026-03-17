@@ -1,0 +1,46 @@
+T16	DISEASE 117 138	nežádoucí účinky léků
+T17	DISEASE 175 196	arteriální hypertenze
+T18	DISEASE 288 300	dyslipidemie
+T19	DISEASE 408 422	Toxické návyky
+T20	DISEASE 424 437	aktivní kuřák
+T29	DISEASE 487 499	alkoholismus
+T21	DISEASE 567 597	příležitostný uživatel kokainu
+T22	DISEASE 625 652	Chronický koronární syndrom
+T101	DISEASE 684 731	akutního infarktu myokardu bez elevací úseku ST
+T87	DISEASE 733 739	NSTEMI
+T3	DISEASE 774 825	ischemická choroba srdeční s postižením jedné tepny
+T88	DISEASE 1013 1019	NSTEMI
+T183	DISEASE 1031 1040	trombózou
+T6	DISEASE 1842 1851	infarktům
+T184	DISEASE 3218 3226	trombózy
+T180	DISEASE 3555 3561	trombu
+T181	DISEASE 3738 3744	trombu
+T28	DISEASE 5041 5053	valvulopatie
+T23	DISEASE 5061 5082	perikardiální výpotek
+T185	DISEASE 5211 5219	trombózy
+T25	DISEASE 5597 5625	významný postpunkční hematom
+T26	DISEASE 5765 5786	arteriovenózní píštěl
+T167	DISEASE 5792 5807	pseudoaneuryzma
+T8	DISEASE 6042 6072	koncentrickou hypertrofií stěn
+T9	DISEASE 6165 6199	segmentálních poruch kontraktility
+T160	DISEASE 6307 6338	strukturální onemocnění chlopní
+T24	DISEASE 6346 6367	perikardiální výpotek
+T132	DISEASE 6521 6543	chlopenní insuficience
+T13	DISEASE 7094 7102	trombóza
+T86	DISEASE 7177 7183	NSTEMI
+T15	DISEASE 7255 7273	trombotickou zátěž
+T106	DISEASE 8016 8034	arytmických příhod
+T138	DISEASE 8191 8218	konzumaci alkoholu a tabáku
+T182	DISEASE 8410 8416	trombu
+T186	DISEASE 8732 8737	tumor
+T136	DISEASE 9047 9072	konzumace toxických látek
+T137	DISEASE 9450 9475	konzumace toxických látek
+T33	DISEASE 9504 9521	koronární příhody
+T93	DISEASE 9720 9725	STEMI
+T27	DISEASE 9727 9749	Pozdní trombóza stentu
+T124	DISEASE 9872 9882	embolizací
+T39	DISEASE 9885 9891	okluzí
+T177	DISEASE 10163 10183	srdečního onemocnění
+T31	DISEASE 10185 10200	Užívání kokainu
+T32	DISEASE 10236 10243	kouření
+T30	DISEASE 10246 10258	alkoholismus

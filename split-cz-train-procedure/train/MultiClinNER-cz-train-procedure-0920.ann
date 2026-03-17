@@ -1,0 +1,49 @@
+T38	PROCEDURE 0 8	ANAMNÉZA
+T23	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T60	PROCEDURE 99 114	antikoagulovaná
+T76	PROCEDURE 183 200	echokardiogramech
+T102	PROCEDURE 405 414	vyšetření
+T79	PROCEDURE 429 449	fyzikálním vyšetření
+T85	PROCEDURE 488 502	koronarografii
+T78	PROCEDURE 524 534	ergometrii
+T25	PROCEDURE 554 557	EKG
+T63	PROCEDURE 639 650	biochemické
+T28	PROCEDURE 663 675	krevní obraz
+T34	PROCEDURE 687 713	Markery poškození myokardu
+T40	PROCEDURE 730 733	RTG
+T50	PROCEDURE 850 879	Transtorakální echokardiogram
+T47	PROCEDURE 881 884	TTE
+T4	PROCEDURE 1130 1138	Dopplera
+T24	PROCEDURE 1222 1232	Ergometrie
+T29	PROCEDURE 1594 1608	Koronarografie
+T30	PROCEDURE 2037 2051	koronarografie
+T57	PROCEDURE 2153 2166	angioplastice
+T7	PROCEDURE 2336 2373	překřížení léze pomocí vodicích drátů
+T8	PROCEDURE 2449 2480	koaxiálního balónkového katétru
+T83	PROCEDURE 2566 2575	kontrastu
+T26	PROCEDURE 2786 2789	EKG
+T87	PROCEDURE 2948 2985	podání intravenózního kortikosteroidu
+T94	PROCEDURE 3066 3075	sledování
+T100	PROCEDURE 3102 3145	transtorakální echokardiografické vyšetření
+T64	PROCEDURE 3396 3406	biomarkerů
+T93	PROCEDURE 3502 3531	Dvojitá protidestičková léčba
+T59	PROCEDURE 3536 3556	antikoagulační léčba
+T27	PROCEDURE 3826 3829	EKG
+T32	PROCEDURE 3866 3886	intravenózní perfuze
+T48	PROCEDURE 4032 4035	TTE
+T35	PROCEDURE 4077 4096	echokardiografickým
+T98	PROCEDURE 4243 4257	sérová terapie
+T31	PROCEDURE 4333 4350	perikardiocentéza
+T39	PROCEDURE 4353 4369	odsátím tekutiny
+T72	PROCEDURE 4421 4428	drenáží
+T61	PROCEDURE 4444 4465	antitrombotické léčby
+T46	PROCEDURE 4501 4531	zavedení perikardiálního drénu
+T75	PROCEDURE 4566 4585	echokardiografickým
+T51	PROCEDURE 4632 4646	repozici drénu
+T33	PROCEDURE 4659 4681	orotracheální intubace
+T52	PROCEDURE 4756 4784	urgentní chirurgické drenáže
+T99	PROCEDURE 4834 4883	transezofageálního echokardiografického vyšetření
+T71	PROCEDURE 5015 5022	drenáži
+T41	PROCEDURE 5025 5033	evakuaci
+T49	PROCEDURE 5347 5350	TTE
+T58	PROCEDURE 5750 5773	angioplastickým vodičem

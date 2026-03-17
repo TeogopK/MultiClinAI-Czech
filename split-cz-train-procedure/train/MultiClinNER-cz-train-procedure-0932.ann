@@ -1,0 +1,24 @@
+T13	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T15	PROCEDURE 230 279	perkutánní transluminální koronární angioplastika
+T16	PROCEDURE 281 285	PTCA
+T1	PROCEDURE 289 353	implantace lékového stentu do střední přední sestupné tepny (AD)
+T2	PROCEDURE 506 534	Dvoukomorová kardiostimulace
+T14	PROCEDURE 1042 1061	FYZIKÁLNÍ VYŠETŘENÍ
+T17	PROCEDURE 1214 1229	Auskultace plic
+T24	PROCEDURE 1380 1392	krevní obraz
+T18	PROCEDURE 1538 1553	Lipidový profil
+T20	PROCEDURE 1626 1643	ELEKTROKARDIOGRAM
+T21	PROCEDURE 1645 1648	EKG
+T3	PROCEDURE 1687 1703	Echokardiografie
+T5	PROCEDURE 1813 1820	ANALÝZA
+T68	PROCEDURE 2037 2078	zátěžového echokardiografického vyšetření
+T25	PROCEDURE 2111 2128	lipidovém profilu
+T22	PROCEDURE 2238 2268	léčba snižující hladinu lipidů
+T69	PROCEDURE 2364 2405	zátěžového echokardiografického vyšetření
+T70	PROCEDURE 2490 2519	echokardiografickém vyšetření
+T19	PROCEDURE 2702 2717	lipidový profil
+T54	PROCEDURE 2804 2817	betablokátoru
+T26	PROCEDURE 3006 3018	Krevní testy
+T27	PROCEDURE 3284 3304	laboratorní kontrole
+T90	PROCEDURE 3386 3395	sledování
+T23	PROCEDURE 3418 3441	perorální antikoagulace

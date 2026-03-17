@@ -1,0 +1,14 @@
+T20	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T22	PROCEDURE 359 385	Rentgenový snímek hrudníku
+T15	PROCEDURE 661 679	narozené vaginálně
+T21	PROCEDURE 697 716	Fyzikální vyšetření
+T23	PROCEDURE 825 841	Auskultace srdce
+T24	PROCEDURE 888 903	Auskultace plic
+T25	PROCEDURE 1023 1035	Krevní testy
+T17	PROCEDURE 1162 1174	RTG hrudníku
+T26	PROCEDURE 1635 1652	Elektrokardiogram
+T27	PROCEDURE 1654 1657	EKG
+T55	PROCEDURE 1839 1868	transtorakální echokardiogram
+T28	PROCEDURE 2651 2676	katetrizace pravého srdce
+T29	PROCEDURE 2679 2709	kardiopulmonální zátěžový test
+T36	PROCEDURE 2730 2759	léčby plicními vazodilatancii

@@ -1,0 +1,35 @@
+T1	SYMPTOM 213 221	febrilie
+T20	SYMPTOM 234 253	celkovou malátností
+T19	SYMPTOM 255 283	generalizovanou artromyalgií
+T21	SYMPTOM 285 298	bolestí hlavy
+T22	SYMPTOM 301 314	epigastralgií
+T2	SYMPTOM 430 436	průjem
+T23	SYMPTOM 510 573	nepřetržitou bolest na hrudi s pleuroperikardiálním charakterem
+T3	SYMPTOM 723 730	horečka
+T4	SYMPTOM 749 761	Bledost kůže
+T24	SYMPTOM 765 786	elkový zdravotní stav
+T5	SYMPTOM 788 808	rytmická tachykardie
+T6	SYMPTOM 888 903	srdeční šelesty
+T25	SYMPTOM 905 924	krepitus na plicích
+T26	SYMPTOM 929 951	otoky dolních končetin
+T14	SYMPTOM 1072 1092	sinusová tachykardie
+T27	SYMPTOM 1173 1206	elevací ST v anteroseptální části
+T28	SYMPTOM 1208 1257	Přenosný rentgenový snímek hrudníku: normální CTI
+T7	SYMPTOM 1269 1291	diskretní cévní kresba
+T29	SYMPTOM 1845 1880	středně sníženou systolickou funkcí
+T30	SYMPTOM 1909 1949	Pravá komora normální velikosti a funkce
+T15	SYMPTOM 2060 2084	normální dolní dutá žíla
+T8	SYMPTOM 2172 2194	hemokultury: negatívní
+T9	SYMPTOM 2196 2221	Kultivace moči: negativní
+T10	SYMPTOM 2223 2268	Stěr z hltanu a tracheální exsudát: negativní
+T11	SYMPTOM 2270 2285	ASLO: negativní
+T16	SYMPTOM 2515 2525	Široké QRS
+T12	SYMPTOM 2652 2682	levá komora normálních rozměrů
+T31	SYMPTOM 2717 2736	globální hypokinezí
+T17	SYMPTOM 2805 2826	Normální pravá komora
+T32	SYMPTOM 2924 2936	Normální IVC
+T13	SYMPTOM 2985 3020	Mírně snížená celková kontraktilita
+T18	SYMPTOM 3044 3054	hypokineze
+T33	SYMPTOM 3057 3089	zvýšený signál v sekvencích STIR
+T35	SYMPTOM 4013 4040	hemodynamickou nestabilitou
+T36	SYMPTOM 5556 5590	depresí ejekční frakce levé komory

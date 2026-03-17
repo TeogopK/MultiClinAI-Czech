@@ -1,0 +1,60 @@
+T118	SYMPTOM 412 418	průjmu
+T1	SYMPTOM 789 820	nebolestivý otok pravého kolena
+T20	SYMPTOM 862 887	bez dalších známek zánětu
+T95	SYMPTOM 1025 1032	dušnost
+T2	SYMPTOM 1060 1069	palpitace
+T21	SYMPTOM 1075 1092	městnavé příznaky
+T124	SYMPTOM 1124 1134	při vědomí
+T112	SYMPTOM 1137 1148	orientovaný
+T52	SYMPTOM 1150 1168	Dobře perfundovaný
+T107	SYMPTOM 1170 1181	hydratovaný
+T123	SYMPTOM 1184 1194	vyživovaný
+T3	SYMPTOM 1196 1213	Eupnoický v klidu
+T108	SYMPTOM 1232 1251	jugulárního zduření
+T4	SYMPTOM 1278 1296	Orofarynx bez změn
+T50	SYMPTOM 1298 1339	Auskultace srdce: akce srdeční pravidelná
+T129	SYMPTOM 1345 1352	šelestů
+T100	SYMPTOM 1358 1367	extratonů
+T5	SYMPTOM 1386 1404	alveolární dýchání
+T51	SYMPTOM 1406 1457	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T127	SYMPTOM 1479 1485	útvary
+T111	SYMPTOM 1490 1505	zvětšené orgány
+T115	SYMPTOM 1520 1543	peritoneálního dráždění
+T65	SYMPTOM 1545 1566	peristaltika přítomná
+T114	SYMPTOM 1574 1579	otoky
+T61	SYMPTOM 1651 1666	Otok obou kolen
+T99	SYMPTOM 1668 1687	bez kožního erytému
+T22	SYMPTOM 1693 1718	lokálního zvýšení teploty
+T78	SYMPTOM 1720 1743	Mírná bolest při pohybu
+T6	SYMPTOM 1836 1851	sinusový rytmus
+T9	SYMPTOM 1875 1886	Normální PR
+T12	SYMPTOM 1888 1896	Úzké QRS
+T24	SYMPTOM 1898 1958	Elevace ST segmentu 2 mm ve V1-V2 s rektilineární morfologií
+T23	SYMPTOM 2002 2033	negativní a symetrickou vlnou T
+T15	SYMPTOM 2035 2047	Normální QTc
+T7	SYMPTOM 2780 2795	sinusový rytmus
+T10	SYMPTOM 2822 2833	Normální PR
+T13	SYMPTOM 2835 2843	Úzké QRS
+T18	SYMPTOM 2845 2861	Negativní vlny T
+T16	SYMPTOM 2896 2908	Normální QTc
+T8	SYMPTOM 2954 2969	sinusový rytmus
+T11	SYMPTOM 2993 3004	Normální PR
+T14	SYMPTOM 3006 3014	Úzké QRS
+T67	SYMPTOM 3022 3048	akutní repolarizační změny
+T17	SYMPTOM 3050 3062	Normální QTc
+T56	SYMPTOM 3122 3136	Zachovalá LVEF
+T25	SYMPTOM 3215 3236	vzorec Brugada typu 1
+T26	SYMPTOM 3238 3283	Genetický test na Brugadův syndrom: negativní
+T27	SYMPTOM 3302 3310	Gonalgie
+T28	SYMPTOM 3548 3561	iontové změny
+T75	SYMPTOM 3633 3683	z kardiovaskulárního hlediska zcela asymptomatický
+T29	SYMPTOM 3792 3818	fenokopii Brugadova vzorce
+T30	SYMPTOM 3830 3844	iontových změn
+T31	SYMPTOM 3972 3994	Brugadův vzorec typu 1
+T57	SYMPTOM 4158 4172	zachovalá LVEF
+T32	SYMPTOM 4219 4289	genetické vyšetření p kanálopatií/myokardiopatií, které bylo negativní
+T76	SYMPTOM 4332 4376	z kardiovaskulárního hlediska asymptomatický
+T58	SYMPTOM 4524 4538	zachovalá LVEF
+T19	SYMPTOM 4616 4642	fenokopie Brugadova vzorce
+T104	SYMPTOM 4784 4791	horečky
+T59	SYMPTOM 4984 4998	zachovalá LVEF

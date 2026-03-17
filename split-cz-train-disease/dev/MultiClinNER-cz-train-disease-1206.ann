@@ -1,0 +1,44 @@
+T31	DISEASE 92 97	kuřák
+T34	DISEASE 120 126	obézní
+T29	DISEASE 129 140	mírný piják
+T1	DISEASE 146 149	AHT
+T10	DISEASE 151 153	DM
+T2	DISEASE 155 167	dyslipidémie
+T3	DISEASE 483 490	synkopu
+T30	DISEASE 961 979	poškození myokardu
+T5	DISEASE 1144 1161	srdečním selháním
+T13	DISEASE 1175 1189	fibrilace síní
+T4	DISEASE 1191 1195	FiSi
+T6	DISEASE 1235 1256	LA středně dilatovaná
+T7	DISEASE 1258 1277	PS mírně dilatovaná
+T8	DISEASE 1279 1314	LK mírně dilatovaná a hypertrofická
+T9	DISEASE 1445 1453	mírná TI
+T53	DISEASE 1485 1525	MV s dobrým otevíráním a mírným refluxem
+T32	DISEASE 1544 1564	Dilatovaná dutá žíla
+T54	DISEASE 1591 1614	perikardiálního výpotku
+T16	DISEASE 1616 1655	Středně těžká biventrikulární dysfunkce
+T55	DISEASE 1658 1695	mírně dilatovanou a hypertrofickou LK
+T56	DISEASE 1759 1775	koronárních lézí
+T11	DISEASE 1817 1892	dekompenzovaného srdečního selhání v důsledku neznámé rychlé fibrilace síní
+T18	DISEASE 1910 1960	dilatace a středně těžká biventrikulární dysfunkce
+T19	DISEASE 2056 2075	tachykardiomyopatie
+T17	DISEASE 2081 2114	kardiomyopatie vyvolané alkoholem
+T14	DISEASE 2206 2221	spánkovou apnoí
+T21	DISEASE 2339 2372	syndrom spánkové apnoe a hypopnoe
+T25	DISEASE 2374 2378	SAOS
+T23	DISEASE 2453 2458	CHOPN
+T57	DISEASE 2469 2486	těžká forma OSAHS
+T61	DISEASE 2927 2931	FiSi
+T62	DISEASE 3054 3058	FiSi
+T63	DISEASE 3265 3284	komorovou dysfunkci
+T64	DISEASE 3339 3350	rychlé FiSi
+T65	DISEASE 3392 3397	OSAHS
+T12	DISEASE 3423 3440	srdečního selhání
+T15	DISEASE 3442 3456	Fibrilace síní
+T33	DISEASE 3489 3527	středně těžká biventrikulární isfunkce
+T20	DISEASE 3529 3548	Tachykardiomyopatie
+T22	DISEASE 3556 3589	syndrom spánkové apnoe a hypopnoe
+T26	DISEASE 3591 3595	SAOS
+T24	DISEASE 3598 3603	CHOPN
+T27	DISEASE 3618 3625	Kouření
+T28	DISEASE 3627 3634	Obezita

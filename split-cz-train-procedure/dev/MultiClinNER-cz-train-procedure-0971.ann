@@ -1,0 +1,28 @@
+T56	PROCEDURE 0 8	ANAMNÉZA
+T43	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T123	PROCEDURE 280 301	transplantaci ledviny
+T115	PROCEDURE 324 344	peritoneální dialýzu
+T67	PROCEDURE 346 348	PD
+T68	PROCEDURE 400 402	PD
+T2	PROCEDURE 561 585	substituční léčby ledvin
+T77	PROCEDURE 724 746	kardiologické anamnézy
+T44	PROCEDURE 900 936	zavedení pravého femorálního katétru
+T102	PROCEDURE 950 961	hemodialýzu
+T122	PROCEDURE 964 1003	transfuzi koncentrátů červených krvinek
+T46	PROCEDURE 1390 1393	EKG
+T4	PROCEDURE 1512 1524	Krevní testy
+T69	PROCEDURE 1698 1719	Plyny ve venózní krvi
+T47	PROCEDURE 1784 1792	Hemogram
+T48	PROCEDURE 1949 1958	Sérologie
+T70	PROCEDURE 2014 2026	RTG hrudníku
+T49	PROCEDURE 2147 2161	Echokardiogram
+T109	PROCEDURE 3068 3077	kultivace
+T51	PROCEDURE 3408 3428	CT hrudníku a břicha
+T52	PROCEDURE 3760 3791	transtorakální echokardiografie
+T12	PROCEDURE 3989 4030	zaveden tunelovaný pravý jugulární katétr
+T45	PROCEDURE 4052 4063	hemodialýza
+T54	PROCEDURE 4181 4212	toracentéza pleurálního výpotku
+T103	PROCEDURE 4300 4311	hemodialýzu
+T21	PROCEDURE 4340 4385	diagnostické a terapeutické perikardiocentézy
+T22	PROCEDURE 4577 4586	cytologií
+T62	PROCEDURE 4658 4683	celotělového CT vyšetření

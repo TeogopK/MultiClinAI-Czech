@@ -1,0 +1,18 @@
+T6	PROCEDURE 281 300	Fyzikální vyšetření
+T7	PROCEDURE 302 344	difuzní bolesti břicha při hluboké palpaci
+T2	PROCEDURE 346 364	Rektální vyšetření
+T13	PROCEDURE 486 507	Laboratorní vyšetření
+T8	PROCEDURE 676 739	počítačovou tomografii (CT) a magnetickou rezonanci (MRI) mozku
+T9	PROCEDURE 700 702	CT
+T3	PROCEDURE 729 732	MRI
+T10	PROCEDURE 788 808	Rektosigmoideoskopie
+T5	PROCEDURE 857 864	Biopsie
+T11	PROCEDURE 958 994	léčba intravenózními kortikosteroidy
+T12	PROCEDURE 1340 1369	dopplerovský ultrazvuk břicha
+T22	PROCEDURE 1411 1433	dopplerovské vyšetření
+T14	PROCEDURE 1594 1634	vyšetření pomocí CT a angiografie břicha
+T1	PROCEDURE 1883 1907	diagnostická paracentéza
+T4	PROCEDURE 1969 1978	Cytologie
+T15	PROCEDURE 1991 2012	Vyšetření trombofilie
+T16	PROCEDURE 2609 2684	zavedení perkutánního intrahepatálního perkutánního portosystémového shuntu
+T17	PROCEDURE 2734 2780	fibrinolýzy kvůli přidružené portální trombóze

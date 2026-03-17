@@ -1,0 +1,28 @@
+T24	PROCEDURE 603 622	Fyzikální vyšetření
+T40	PROCEDURE 715 717	AS
+T41	PROCEDURE 771 773	AP
+T25	PROCEDURE 910 927	Elektrokardiogram
+T26	PROCEDURE 929 932	EKG
+T27	PROCEDURE 1173 1202	Transtorakální echokardiogram
+T28	PROCEDURE 1772 1780	hemogram
+T42	PROCEDURE 1782 1791	koagulace
+T43	PROCEDURE 1793 1806	funkce ledvin
+T44	PROCEDURE 1808 1813	ionty
+T4	PROCEDURE 1815 1830	jaterní hodnoty
+T5	PROCEDURE 1832 1846	hodnoty železa
+T45	PROCEDURE 1849 1868	profil štítné žlázy
+T29	PROCEDURE 1872 1891	Srdeční katetrizace
+T31	PROCEDURE 1893 1907	koronarografie
+T32	PROCEDURE 2017 2043	Magnetická rezonance srdce
+T30	PROCEDURE 2217 2236	Srdeční katetrizace
+T33	PROCEDURE 2238 2269	perkutánní koronární intervence
+T34	PROCEDURE 2272 2285	angioplastika
+T47	PROCEDURE 2288 2373	implantace 3 stentů uvolňujících léčiva na proximální a střední přední sestupné tepně
+T35	PROCEDURE 2376 2389	angioplastika
+T48	PROCEDURE 2392 2460	implantace 1 stentu uvolňujícího léčiva na obtuózní marginální tepně
+T36	PROCEDURE 2512 2525	angioplastika
+T49	PROCEDURE 2528 2634	implantace 1 stentu uvolňujícího léčivo na distální pravé koronární tepně a zadní interventrikulární tepně
+T50	PROCEDURE 2639 2681	stentu uvolňujícího léčivo na úrovni kříže
+T37	PROCEDURE 3227 3253	perkutánní revaskularizace
+T55	PROCEDURE 3256 3329	kompletní revaskularizace bylo dosaženo pomocí stentů uvolňujících léčiva
+T39	PROCEDURE 3740 3799	Kompletní perkutánní revaskularizace pomocí lékových stentů

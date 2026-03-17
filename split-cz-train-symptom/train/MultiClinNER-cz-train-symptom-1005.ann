@@ -1,0 +1,25 @@
+T10	SYMPTOM 865 910	zhoršení obvyklé dušnosti až minimální námahy
+T1	SYMPTOM 912 920	ortopnoe
+T11	SYMPTOM 922 931	bendopnoe
+T12	SYMPTOM 933 958	snížené rychlosti diurézy
+T13	SYMPTOM 969 991	otoků dolních končetin
+T2	SYMPTOM 1128 1151	Přijatelný celkový stav
+T3	SYMPTOM 1157 1163	vědomí
+T14	SYMPTOM 1165 1176	orientovaný
+T15	SYMPTOM 1195 1217	normální kožní kolorit
+T16	SYMPTOM 1219 1239	normálně hydratovaný
+T17	SYMPTOM 1242 1263	normálně perfundovaný
+T18	SYMPTOM 1283 1295	tachypnoický
+T19	SYMPTOM 1299 1322	netoleruje polohu vleže
+T4	SYMPTOM 1343 1368	nepravidelná srdeční akce
+T20	SYMPTOM 1414 1420	šelest
+T5	SYMPTOM 1442 1462	oboustranné praskání
+T32	SYMPTOM 1518 1573	Dolní končetiny: přítomny symetrické pulzy a symetrické
+T33	SYMPTOM 1575 1609	oboustranné měkké otoky ke kolenům
+T6	SYMPTOM 2587 2597	Široké QRS
+T7	SYMPTOM 2974 2993	Globální hypokineze
+T35	SYMPTOM 3028 3117	Pravá komora hraniční velikosti (Dd 40 mm), s těžce oslabenou globální systolickou funkcí
+T36	SYMPTOM 3119 3180	Mechanická protéza v mitrální a aortální poloze dobře uložená
+T42	SYMPTOM 5513 5544	normalizaci funkce pravé komory
+T43	SYMPTOM 5554 5588	chlopenní náhrady zůstaly normální
+T44	SYMPTOM 5818 5875	Nositel mechanické protetické aortální a mitrální chlopně

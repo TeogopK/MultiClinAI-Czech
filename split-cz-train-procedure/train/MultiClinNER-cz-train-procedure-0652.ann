@@ -1,0 +1,17 @@
+T3	PROCEDURE 23 93	transuretrální resekce (TUR) pro povrchovou neoplazii močového měchýře
+T5	PROCEDURE 370 448	vyšetření břicha počítačovou tomografií (CT) bez intravenózního (IV) kontrastu
+T13	PROCEDURE 688 706	ultrazvukem břicha
+T14	PROCEDURE 889 901	CT vyšetření
+T6	PROCEDURE 1110 1163	magnetická rezonance (MRI) s intravenózním gadoliniem
+T1	PROCEDURE 1246 1257	Sekvence T1
+T2	PROCEDURE 1404 1427	Technika potlačení tuku
+T7	PROCEDURE 1686 1697	T1 sekvenci
+T4	PROCEDURE 1721 1735	potlačení tuku
+T17	PROCEDURE 1740 1756	podání gadolinia
+T8	PROCEDURE 1808 1831	radiologickou diagnózou
+T9	PROCEDURE 1965 1972	operaci
+T10	PROCEDURE 1974 2017	Chirurgicky byla odstraněna reniformní masa
+T11	PROCEDURE 2353 2376	patologickému vyšetření
+T12	PROCEDURE 2378 2400	Histologické vyšetření
+T15	PROCEDURE 2645 2667	vyšetření kostní dřeně
+T16	PROCEDURE 2820 2841	analýzou kostní dřeně

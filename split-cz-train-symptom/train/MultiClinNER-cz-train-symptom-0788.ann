@@ -1,0 +1,54 @@
+T24	SYMPTOM 527 538	náhlé smrti
+T27	SYMPTOM 800 845	progredující dušnost již při minimální námaze
+T20	SYMPTOM 867 875	Ortopnoe
+T28	SYMPTOM 878 898	záchvatovitá dušnost
+T1	SYMPTOM 933 942	palpitace
+T29	SYMPTOM 1033 1040	závratí
+T30	SYMPTOM 1046 1053	synkopy
+T2	SYMPTOM 1403 1412	Afebrilní
+T3	SYMPTOM 1798 1817	Studené ruce a nohy
+T32	SYMPTOM 1822 1855	ztenčenými prsty na rukou a nohou
+T33	SYMPTOM 1858 1887	známkami chronické malperfuze
+T5	SYMPTOM 1889 1915	pulzace  karotických tepen
+T4	SYMPTOM 1933 1940	šelestů
+T34	SYMPTOM 1960 1970	pravidelný
+T35	SYMPTOM 1972 1985	tachykardický
+T7	SYMPTOM 1987 2024	systolický šelest nad mitrálním ústím
+T36	SYMPTOM 2034 2054	zachovalá druhá ozva
+T37	SYMPTOM 2073 2101	basálně krepitus bilaterálně
+T8	SYMPTOM 2103 2142	Břicho: měkké, stlačitelné, nebolestivé
+T38	SYMPTOM 2157 2163	útvarů
+T39	SYMPTOM 2169 2179	rezistencí
+T9	SYMPTOM 2181 2216	dolní končetiny: symetrické pulzace
+T40	SYMPTOM 2218 2234	pretibiální edém
+T41	SYMPTOM 2305 2383	na trupu a končetinách načervenalé plaky se šupinatěním a zánětlivými příznaky
+T42	SYMPTOM 2452 2468	Kerleyho B linie
+T10	SYMPTOM 2471 2503	oboustranný alveolární infiltrát
+T11	SYMPTOM 2575 2599	Úzké QRS s normální osou
+T12	SYMPTOM 2601 2622	QS ve V1-V3, QR ve V4
+T43	SYMPTOM 2650 2670	qR v dolních svodech
+T44	SYMPTOM 2732 2744	interval QTc
+T45	SYMPTOM 3024 3044	Transaminázy v normě
+T46	SYMPTOM 3518 3532	ANCA negativní
+T47	SYMPTOM 3534 3572	Antifosfolipidové protilátky negativní
+T22	SYMPTOM 3574 3598	Kryoglobuliny: negativní
+T21	SYMPTOM 3600 3652	Volné lehké řetězce kappa a lambda: normální hladiny
+T14	SYMPTOM 3654 3689	Sérologie HIV, HBV a HCV: negativní
+T13	SYMPTOM 3703 3716	TB: pozitivní
+T48	SYMPTOM 3848 3932	těžké hypokineze středních segmentů přední a boční stěny a všech apikálních segmentů
+T15	SYMPTOM 3983 4023	Pravá komora normální velikosti a funkce
+T49	SYMPTOM 4070 4109	Aortální chlopeň trojcípá, normofunkční
+T23	SYMPTOM 4792 4823	hrudní aorta normálních rozměrů
+T50	SYMPTOM 6088 6109	pravá karotická tepna
+T51	SYMPTOM 7335 7363	těžce dilatovaná levá komora
+T16	SYMPTOM 7392 7438	Akineze se ztenčením všech apikálních segmentů
+T17	SYMPTOM 7440 7541	Mediální přední akineze a mediální přední, mediální anterolaterální a mediální inferolaterální septum
+T52	SYMPTOM 7543 7601	Mediální inferiorní hypokineze a bazální inferiorní septum
+T18	SYMPTOM 7862 7913	Normální velikost pravé komory se zachovanou funkcí
+T19	SYMPTOM 8415 8430	sinusový rytmus
+T6	SYMPTOM 9183 9194	tachykardie
+T63	SYMPTOM 10302 10354	zvýšením několika nespecifických zánětlivých markerů
+T64	SYMPTOM 10398 10524	negativními výsledky v klíčových testech (ENA, ANCA, kryoglobuliny, antifosfolipidové protilátky, sérologie HBV, HCV a HIV...)
+T60	SYMPTOM 12527 12538	euvolemický
+T59	SYMPTOM 12653 12662	Arytmická
+T58	SYMPTOM 12791 12807	sinusového rytmu

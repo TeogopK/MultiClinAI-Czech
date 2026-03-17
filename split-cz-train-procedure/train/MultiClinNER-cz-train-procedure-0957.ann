@@ -1,0 +1,32 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 322 346	holterovské monitorování
+T7	PROCEDURE 408 427	chronotropních léků
+T22	PROCEDURE 434 445	artroskopie
+T8	PROCEDURE 640 668	echokardiografické vyšetření
+T9	PROCEDURE 718 782	implantován bikamerální kardiostimulátor přes podklíčkovou tepnu
+T23	PROCEDURE 799 812	antikoagulace
+T24	PROCEDURE 915 937	elektrická kardioverze
+T37	PROCEDURE 946 966	antikoagulační léčby
+T38	PROCEDURE 1233 1261	echokardiografické vyšetření
+T39	PROCEDURE 1320 1334	depleční léčba
+T25	PROCEDURE 1393 1407	koronarografie
+T26	PROCEDURE 1409 1423	Koronarografie
+T28	PROCEDURE 1639 1666	chirurgická revaskularizace
+T41	PROCEDURE 1715 1847	koronární punkce do střední LAD s vnitřní mamární tepnou (IMA) a sekvence se safénovou žílou (SVF) do 1. OM a posterolaterální větve
+T29	PROCEDURE 1960 1965	SPECT
+T27	PROCEDURE 2034 2048	koronarografie
+T44	PROCEDURE 2120 2130	revize MCP
+T30	PROCEDURE 2658 2672	hladinu lipidů
+T35	PROCEDURE 2703 2715	léčba IPCSK9
+T47	PROCEDURE 2818 2830	Krevní testy
+T48	PROCEDURE 3166 3178	Krevní testy
+T31	PROCEDURE 3211 3217	IPCSK9
+T32	PROCEDURE 3561 3567	IPCSK9
+T49	PROCEDURE 4131 4159	echokardiografické vyšetření
+T50	PROCEDURE 4220 4249	echokardiografickém vyšetření
+T51	PROCEDURE 4355 4374	CT vyšetření břicha
+T53	PROCEDURE 4447 4467	umístění endoprotézy
+T33	PROCEDURE 4694 4700	IPCSK9
+T56	PROCEDURE 4954 5016	aortokoronární bypass se sekvencí IMA do LAD a SFN do MO1 a PD
+T34	PROCEDURE 5119 5140	endovaskulární řešení
+T36	PROCEDURE 5315 5327	Léčba IPCSK9

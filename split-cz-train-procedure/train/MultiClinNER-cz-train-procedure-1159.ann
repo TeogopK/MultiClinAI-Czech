@@ -1,0 +1,37 @@
+T45	PROCEDURE 616 635	FYZIKÁLNÍ VYŠETŘENÍ
+T25	PROCEDURE 724 740	Auskultace srdce
+T26	PROCEDURE 860 875	Auskultace plic
+T47	PROCEDURE 1186 1198	Proteinogram
+T44	PROCEDURE 1236 1247	Autoimunita
+T2	PROCEDURE 1308 1322	Bronchoaspirát
+T48	PROCEDURE 1308 1337	Bronchoaspirát: mikrobiologie
+T46	PROCEDURE 1349 1356	Mantoux
+T27	PROCEDURE 1408 1411	EKG
+T28	PROCEDURE 1566 1580	Kultivace krve
+T29	PROCEDURE 1583 1594	antibiogram
+T30	PROCEDURE 1644 1656	RTG hrudníku
+T31	PROCEDURE 1748 1762	Echokardiogram
+T33	PROCEDURE 2305 2317	Gastroskopie
+T10	PROCEDURE 2329 2347	Duodenální biopsie
+T35	PROCEDURE 2359 2371	Kolonoskopie
+T37	PROCEDURE 2404 2424	CT hrudníku a břicha
+T38	PROCEDURE 2438 2450	Koronární CT
+T11	PROCEDURE 2505 2556	Kultivace vegetací aortální a trikuspidální chlopně
+T12	PROCEDURE 2697 2711	kultivaci krve
+T50	PROCEDURE 2782 2800	antibiotická léčba
+T49	PROCEDURE 2842 2858	diuretická léčba
+T32	PROCEDURE 2908 2922	echokardiogram
+T34	PROCEDURE 3117 3129	gastroskopie
+T36	PROCEDURE 3132 3144	kolonoskopie
+T53	PROCEDURE 3177 3204	CT vyšetření břicha a pánve
+T39	PROCEDURE 3359 3395	umístění mechanické aortální protézy
+T54	PROCEDURE 3397 3419	mitrální anuloplastiku
+T55	PROCEDURE 3422 3449	trikuspidální anuloplastiku
+T42	PROCEDURE 3452 3483	uzávěr defektu komorového septa
+T58	PROCEDURE 3570 3588	antibiotické léčbě
+T59	PROCEDURE 3657 3675	Antibiotická léčba
+T60	PROCEDURE 3717 3745	echokardiografické vyšetření
+T43	PROCEDURE 4224 4269	Náhrada aortální chlopně mechanickou protézou
+T40	PROCEDURE 4271 4293	mitrální anuloplastika
+T41	PROCEDURE 4295 4322	trikuspidální anuloplastika
+T63	PROCEDURE 4325 4335	uzávěr VSD

@@ -1,0 +1,34 @@
+T79	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T71	PROCEDURE 892 916	genetické vyšetření HFHe
+T80	PROCEDURE 1432 1451	Fyzikální vyšetření
+T81	PROCEDURE 1799 1815	Auskultace srdce
+T8	PROCEDURE 1897 1918	Respirační auskultace
+T82	PROCEDURE 2006 2028	Neurologické vyšetření
+T83	PROCEDURE 2763 2772	Koagulace
+T84	PROCEDURE 2834 2851	Elektrokardiogram
+T85	PROCEDURE 3049 3075	Rentgenový snímek hrudníku
+T12	PROCEDURE 3291 3317	markerů poškození myokardu
+T86	PROCEDURE 3320 3343	CT angiografie hrudníku
+T87	PROCEDURE 3383 3406	CT angiografie hrudníku
+T102	PROCEDURE 3887 3905	autoimunitní panel
+T15	PROCEDURE 4116 4142	markerů poškození myokardu
+T16	PROCEDURE 4789 4825	Echokardiografické vyšetření u lůžka
+T20	PROCEDURE 5439 5467	Echokardiografické vyšetření
+T88	PROCEDURE 7026 7060	katetrizace levého a pravého srdce
+T54	PROCEDURE 7467 7495	Levostranná ventrikulografie
+T75	PROCEDURE 7684 7709	pravostrannou katetrizaci
+T89	PROCEDURE 8045 8067	Pravá ventrikulografie
+T90	PROCEDURE 8230 8254	endomyokardiální biopsie
+T91	PROCEDURE 8290 8303	Biopsie septa
+T93	PROCEDURE 8446 8461	biopsii z apexu
+T92	PROCEDURE 8578 8593	Bazální biopsie
+T94	PROCEDURE 8749 8756	biopsii
+T96	PROCEDURE 8784 8810	Magnetická rezonance srdce
+T97	PROCEDURE 9617 9643	Magnetická rezonance srdce
+T98	PROCEDURE 10779 10787	angio-CT
+T105	PROCEDURE 11141 11160	echokardiografickým
+T99	PROCEDURE 11325 11335	ANCA ELISA
+T109	PROCEDURE 11400 11415	steroidní léčba
+T65	PROCEDURE 11830 11874	katetrizace pravého a levého srdce s biopsií
+T100	PROCEDURE 12785 12806	reaktanty akutní fáze
+T101	PROCEDURE 13305 13325	hypertriglyceridémie

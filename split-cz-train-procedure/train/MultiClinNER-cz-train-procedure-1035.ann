@@ -1,0 +1,29 @@
+T36	PROCEDURE 0 17	Klinická anamnéza
+T37	PROCEDURE 73 81	anamnéze
+T15	PROCEDURE 193 212	Fyzikální vyšetření
+T16	PROCEDURE 295 322	kardiopulmonální auskultace
+T31	PROCEDURE 474 503	Transtorakální echokardiogram
+T58	PROCEDURE 855 869	Vyšetření krve
+T22	PROCEDURE 981 990	koagulace
+T26	PROCEDURE 1005 1026	Biochemické vyšetření
+T24	PROCEDURE 1288 1316	Byly odebrány krevní kultury
+T18	PROCEDURE 1368 1385	Elektrokardiogram
+T19	PROCEDURE 1496 1529	transezofageální echokardiografie
+T66	PROCEDURE 2028 2050	počítačovou tomografií
+T27	PROCEDURE 2052 2054	CT
+T75	PROCEDURE 2217 2260	vyšetření magnetickou rezonancí (MRI) mozku
+T9	PROCEDURE 2250 2253	MRI
+T28	PROCEDURE 2458 2479	torakoabdominálním CT
+T29	PROCEDURE 2729 2751	Katetrizační vyšetření
+T38	PROCEDURE 2834 2852	antibiotická léčba
+T32	PROCEDURE 3052 3081	Transtorakální echokardiogram
+T41	PROCEDURE 3383 3397	depleční léčbu
+T64	PROCEDURE 3400 3433	neinvazivní mechanickou ventilaci
+T23	PROCEDURE 3503 3520	chirurgické léčbě
+T30	PROCEDURE 3541 3564	resekce síňového útvaru
+T33	PROCEDURE 3565 3585	resekcí fossa ovalis
+T34	PROCEDURE 3604 3621	odstranění tumoru
+T20	PROCEDURE 3662 3709	Aparát mitrální chlopně byl kompletně resekován
+T21	PROCEDURE 3712 3764	byla implantována prasečí biologická protéza St Jude
+T35	PROCEDURE 3788 3865	Anatomopatologická a infekční diagnostika pomocí polymerázové řetězové reakce
+T25	PROCEDURE 3867 3896	univerzální PCR genu 16S rRNA

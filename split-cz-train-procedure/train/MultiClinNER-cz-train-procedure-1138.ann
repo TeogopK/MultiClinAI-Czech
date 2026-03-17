@@ -1,0 +1,43 @@
+T50	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T51	PROCEDURE 746 765	FYZIKÁLNÍ VYŠETŘENÍ
+T52	PROCEDURE 767 786	Fyzikální vyšetření
+T53	PROCEDURE 1111 1126	Auskultace plic
+T54	PROCEDURE 1174 1189	Auskultace plic
+T55	PROCEDURE 1303 1319	Auskultace srdce
+T4	PROCEDURE 1407 1414	palpaci
+T56	PROCEDURE 1760 1774	echokardiogram
+T58	PROCEDURE 2060 2077	ELEKTROKARDIOGRAM
+T59	PROCEDURE 2079 2082	EKG
+T10	PROCEDURE 2287 2299	RTG hrudníku
+T12	PROCEDURE 2457 2478	reaktantů akutní fáze
+T13	PROCEDURE 2484 2510	markerů poškození myokardu
+T60	PROCEDURE 2521 2529	hemogram
+T68	PROCEDURE 2532 2541	biochemie
+T66	PROCEDURE 2543 2554	Autoimunita
+T15	PROCEDURE 2648 2678	hodnotami hormonů štítné žlázy
+T61	PROCEDURE 2680 2709	Transtorakální echokardiogram
+T17	PROCEDURE 2711 2714	TTE
+T57	PROCEDURE 3766 3813	ANGIO-CT aorty s intravenózní kontrastní látkou
+T20	PROCEDURE 4547 4563	Vyšetření břicha
+T23	PROCEDURE 4799 4819	MAGNETICKÁ REZONANCE
+T62	PROCEDURE 4821 4824	MRI
+T70	PROCEDURE 4995 5020	Biomikroskopie AO rohovka
+T71	PROCEDURE 5067 5081	Pooperační TTE
+T74	PROCEDURE 6237 6240	TTE
+T63	PROCEDURE 6553 6570	Aortální plastika
+T64	PROCEDURE 6572 6589	Davidova technika
+T78	PROCEDURE 7287 7290	TTE
+T82	PROCEDURE 7507 7527	CT angiografie aorty
+T84	PROCEDURE 7662 7685	etiologickému vyšetření
+T67	PROCEDURE 7700 7711	autoimunita
+T87	PROCEDURE 8036 8053	rentgen acetabula
+T88	PROCEDURE 8068 8104	magnetická rezonance křížové oblasti
+T91	PROCEDURE 8258 8277	genetické vyšetření
+T93	PROCEDURE 8564 8579	kardiochirurgem
+T94	PROCEDURE 8631 8714	provedena resekce aneuryzmatu kořene a vzestupné aorty a zavedena tubulární protéza
+T96	PROCEDURE 8777 8794	Davidovy techniky
+T97	PROCEDURE 8820 8845	plastika aortální chlopně
+T98	PROCEDURE 8963 8993	echokardiografickým vyšetřením
+T101	PROCEDURE 9458 9472	beta-blokátoru
+T102	PROCEDURE 9513 9541	echokardiografické vyšetření
+T65	PROCEDURE 9694 9730	Davidova plastika a aortální trubice

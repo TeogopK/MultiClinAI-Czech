@@ -1,0 +1,47 @@
+T21	PROCEDURE 68 72	Sken
+T4	PROCEDURE 219 244	termokoagulace kožní léze
+T12	PROCEDURE 339 376	celotělového vyšetření kostní extenze
+T25	PROCEDURE 379 430	počítačové tomografie (CT) hrudníku, břicha a pánve
+T10	PROCEDURE 402 404	CT
+T11	PROCEDURE 517 540	chirurgické excizi léze
+T7	PROCEDURE 542 638	Léze byla odstraněna cirkumferenční en bloc kraniektomií včetně temporálního svalu a jeho fascie
+T32	PROCEDURE 737 796	Pro kostní defekt byla odlita 5 cm dlouhá akrylová plastika
+T33	PROCEDURE 799 827	proveden přímý uzávěr skalpu
+T34	PROCEDURE 830 845	Excidovaná masa
+T13	PROCEDURE 928 949	Patologické vyšetření
+T14	PROCEDURE 1410 1451	operaci nebyla odstraněna vlasová pokožka
+T15	PROCEDURE 1470 1537	operaci rozšířit a provést revizi lůžka a resekci vlasového ostrova
+T16	PROCEDURE 1725 1743	fibrobronchoskopií
+T19	PROCEDURE 1746 1759	CT vyšetřením
+T6	PROCEDURE 1898 1916	CT vyšetření lebky
+T17	PROCEDURE 2112 2136	rozsáhlou resekcí skalpu
+T2	PROCEDURE 2284 2296	kraniektomie
+T18	PROCEDURE 2423 2457	Odstranili jsme akrylovou plastiku
+T20	PROCEDURE 2459 2481	rozšířili kraniektomii
+T22	PROCEDURE 2492 2519	obvodovou duralovou resekci
+T23	PROCEDURE 2531 2571	reponovali meniskus plastikou Neuropatch
+T35	PROCEDURE 2665 2702	volným lalokem přímého břišního svalu
+T36	PROCEDURE 2749 2793	volným kožním štěpem z části kůže nad svalem
+T37	PROCEDURE 2901 2906	lalok
+T38	PROCEDURE 2931 3057	anastomózy end-to-end k horní štítné tepně, která byla následně otočena tak, aby dosáhla pediklu laloku a zevní jugulární žíly
+T39	PROCEDURE 2955 3057	horní štítné tepně, která byla následně otočena tak, aby dosáhla pediklu laloku a zevní jugulární žíly
+T40	PROCEDURE 3059 3100	Anatomopatologické vyšetření excidovaného
+T9	PROCEDURE 3356 3374	chirurgický zákrok
+T24	PROCEDURE 3519 3531	kraniektomii
+T3	PROCEDURE 3568 3580	kraniektomie
+T41	PROCEDURE 3599 3632	incizí horního okraje TRAM laloku
+T42	PROCEDURE 3697 3724	Kraniektomii jsme rozšířili
+T5	PROCEDURE 3822 3899	Uzávěr byl proveden další plastikou Neuropatch® a akrylátovou kranioplastikou
+T26	PROCEDURE 4092 4117	Kontrolní vyšetření lebky
+T43	PROCEDURE 4092 4128	Kontrolní vyšetření lebky a hrudníku
+T27	PROCEDURE 4224 4296	apikálních plicních uzlů, které byly odstraněny pomocí videotorakoskopie
+T44	PROCEDURE 4300 4319	anatomopatologickém
+T45	PROCEDURE 4359 4380	histologickým obrazem
+T29	PROCEDURE 4400 4407	biopsii
+T28	PROCEDURE 4527 4586	adjuvantní léčbu pacientka podstoupila lokální radioterapii
+T30	PROCEDURE 4661 4704	zevní radioterapii s modulovanou intenzitou
+T8	PROCEDURE 4706 4710	IMRT
+T31	PROCEDURE 4882 4916	podstoupil adjuvantní chemoterapii
+T46	PROCEDURE 4920 4964	cyklů CDDP-5FU (cisplatina s fluorouracilem)
+T1	PROCEDURE 5112 5124	chemoterapie
+T47	PROCEDURE 5135 5137	CT

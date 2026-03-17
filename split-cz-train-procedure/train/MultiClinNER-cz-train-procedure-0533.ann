@@ -1,0 +1,18 @@
+T1	PROCEDURE 331 350	Fyzikální vyšetření
+T9	PROCEDURE 384 401	plicní auskultace
+T7	PROCEDURE 544 559	krevního obrazu
+T8	PROCEDURE 561 578	celkové biochemie
+T10	PROCEDURE 580 618	základních arteriálních krevních plynů
+T13	PROCEDURE 653 666	proteinogramu
+T11	PROCEDURE 691 702	komplementu
+T12	PROCEDURE 797 817	biologických markerů
+T2	PROCEDURE 858 869	Spirometrie
+T3	PROCEDURE 901 920	Plicní difuzní test
+T4	PROCEDURE 1003 1036	Prostý rentgenový snímek hrudníku
+T5	PROCEDURE 1078 1089	CT hrudníku
+T14	PROCEDURE 1346 1369	otevřené plicní biopsie
+T15	PROCEDURE 1431 1498	Histopatologické vyšetření prokázalo infiltraci plicního parenchymu
+T16	PROCEDURE 1596 1638	Imunohistochemické barvení na S-100 a CD1a
+T17	PROCEDURE 1670 1693	elektronová mikroskopie
+T6	PROCEDURE 2073 2084	CT hrudníku
+T23	PROCEDURE 2363 2375	CT vyšetření

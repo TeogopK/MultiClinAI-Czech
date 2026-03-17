@@ -1,0 +1,38 @@
+T10	DISEASE 81 93	bývalý kuřák
+T1	DISEASE 372 379	synkopu
+T2	DISEASE 471 537	kompletní atrioventrikulární blokádu (AVB) s elevacemi ST segmentů
+T3	DISEASE 509 512	AVB
+T7	DISEASE 981 993	ateromatózou
+T8	DISEASE 1023 1079	subtotální lézi ve střední třetině pravé koronární tepny
+T9	DISEASE 1161 1178	koronární disekcí
+T17	DISEASE 2435 2453	mírná dysfunkce LK
+T4	DISEASE 2497 2518	dilatace pravé komory
+T5	DISEASE 2521 2568	velmi těžkou systolickou dysfunkcí pravé komory
+T51	DISEASE 2669 2702	Akutní trikuspidální insuficience
+T11	DISEASE 2787 2814	mírná mitrální insuficience
+T53	DISEASE 2829 2852	perikardiálního výpotku
+T14	DISEASE 3172 3190	ateromatózní tepny
+T6	DISEASE 3234 3272	Pravá koronární tepna: ostiální okluze
+T56	DISEASE 3474 3480	trombu
+T57	DISEASE 3634 3664	akutního selhání pravého srdce
+T58	DISEASE 3666 3668	SS
+T60	DISEASE 3739 3777	velmi závažnou dilataci a dysfunkci PK
+T64	DISEASE 3990 4008	totální uzávěr RCA
+T63	DISEASE 4025 4072	subakutní trombózou dříve implantovaného stentu
+T65	DISEASE 4174 4180	trombu
+T19	DISEASE 4525 4571	kontinuální roztok v interventrikulárním septu
+T16	DISEASE 4597 4612	levopravý zkrat
+T18	DISEASE 4661 4686	defektem komorového septa
+T67	DISEASE 4688 4691	VSD
+T20	DISEASE 4728 4754	akutního infarktu myokardu
+T68	DISEASE 4756 4759	AIM
+T70	DISEASE 5206 5226	respiračnímu selhání
+T71	DISEASE 5515 5529	mozkovou smrtí
+T15	DISEASE 5644 5666	předoperační hypoxémie
+T73	DISEASE 5792 5816	AIM dolní a pravé komory
+T12	DISEASE 5840 5862	Trombotický uzávěr RCA
+T75	DISEASE 5934 5951	koronární disekcí
+T74	DISEASE 5992 6039	Subakutní trombóza stentů implantovaných do RCA
+T76	DISEASE 6057 6066	Akutní IM
+T13	DISEASE 6069 6110	kardiogenní šok sekundárně při selhání RV
+T77	DISEASE 6112 6146	Ruptura interventrikulárního septa

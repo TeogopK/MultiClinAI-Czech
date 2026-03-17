@@ -1,0 +1,30 @@
+T11	SYMPTOM 694 701	dušnost
+T16	SYMPTOM 784 791	astenií
+T1	SYMPTOM 793 809	Bolesti na hrudi
+T17	SYMPTOM 823 828	kašle
+T2	SYMPTOM 832 843	expektorace
+T18	SYMPTOM 849 856	horečky
+T19	SYMPTOM 860 867	zimnice
+T20	SYMPTOM 891 909	Běžný celkový stav
+T21	SYMPTOM 911 928	slizniční bledost
+T22	SYMPTOM 930 946	normohydratovaný
+T23	SYMPTOM 948 993	Eupnoický v klidu bez použití pomocných svalů
+T3	SYMPTOM 999 1005	vědomí
+T24	SYMPTOM 1007 1018	orientovaný
+T25	SYMPTOM 1021 1035	spolupracující
+T26	SYMPTOM 1048 1068	neurologická ložiska
+T4	SYMPTOM 1211 1224	rytmické tóny
+T5	SYMPTOM 1242 1249	šelestů
+T6	SYMPTOM 1270 1287	dchání alveolární
+T27	SYMPTOM 1292 1306	veleích enomen
+T28	SYMPTOM 1314 1336	otoky dolních končetin
+T7	SYMPTOM 1392 1407	sinusový rytmus
+T8	SYMPTOM 1445 1453	úzké QRS
+T30	SYMPTOM 1455 1495	deprese úseku ST 1,5 mm ve II, III a aVF
+T29	SYMPTOM 1517 1533	deprese úseku ST
+T9	SYMPTOM 1876 1887	konsolidace
+T10	SYMPTOM 2817 2875	akineze zadní stěny a bazálního a mediálního dolního septa
+T31	SYMPTOM 3086 3122	změněnou pohyblivostí komorové stěny
+T33	SYMPTOM 4140 4148	dušnosti
+T12	SYMPTOM 4319 4325	zemřel
+T13	SYMPTOM 4503 4507	Smrt

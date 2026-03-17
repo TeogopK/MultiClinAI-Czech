@@ -1,0 +1,40 @@
+T13	DISEASE 104 118	lékové alergie
+T1	DISEASE 198 217	komunitní pneumonii
+T15	DISEASE 226 243	srdečního selhání
+T17	DISEASE 288 306	depresivní syndrom
+T2	DISEASE 308 328	vertiginózní syndrom
+T18	DISEASE 487 495	diabetik
+T4	DISEASE 499 502	CKD
+T6	DISEASE 528 565	nespecifikovaným srdečním onemocněním
+T7	DISEASE 575 589	fibrilací síní
+T8	DISEASE 600 650	akutním infarktem myokardu bez elevace ST segmentu
+T9	DISEASE 652 658	NSTEMI
+T19	DISEASE 1903 1920	pleurální výpotek
+T11	DISEASE 1984 2018	neúplná blokáda pravého raménka HH
+T12	DISEASE 2037 2056	poruch repolarizace
+T20	DISEASE 2915 2936	Diastolická dysfunkce
+T21	DISEASE 2993 3020	Těžká mitrální insuficience
+T23	DISEASE 3022 3041	dilatovaná levá síň
+T22	DISEASE 3464 3485	perikardiální výpotek
+T35	DISEASE 3513 3565	Nedilatovaná levá komora, s těžkou hypertrofií septa
+T31	DISEASE 4000 4032	Mírně hypertrofická pravá komora
+T36	DISEASE 4035 4061	trikuspidální insuficiencí
+T37	DISEASE 4063 4065	TI
+T55	DISEASE 4068 4089	mitrální insuficiencí
+T38	DISEASE 4091 4093	MI
+T63	DISEASE 4274 4283	exostózou
+T65	DISEASE 4705 4724	komunitní pneumonii
+T66	DISEASE 4745 4764	pleurálním výpotkem
+T68	DISEASE 5007 5026	pleurálního výpotku
+T72	DISEASE 5451 5500	symetrickou koncentrickou hypertrofii levé komory
+T73	DISEASE 5512 5534	diastolickou dysfunkcí
+T75	DISEASE 5666 5684	srdeční amyloidóze
+T76	DISEASE 5728 5750	AL srdeční amyloidózou
+T26	DISEASE 5753 5757	ATTR
+T78	DISEASE 6015 6025	amyloidózu
+T79	DISEASE 6132 6152	mnohočetným myelomem
+T81	DISEASE 6224 6234	amyloidózu
+T29	DISEASE 6353 6394	Akutní srdeční selhání se zachovanou LVEF
+T25	DISEASE 6396 6417	AL srdeční amyloidóza
+T30	DISEASE 6419 6446	Mnohočetný myelom IgA kappa
+T14	DISEASE 6448 6467	Komunitní pneumonie

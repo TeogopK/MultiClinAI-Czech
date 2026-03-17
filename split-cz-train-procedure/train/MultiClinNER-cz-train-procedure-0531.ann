@@ -1,0 +1,17 @@
+T5	PROCEDURE 60 81	Prostá rentgenografie
+T2	PROCEDURE 202 223	Počítačová tomografie
+T6	PROCEDURE 336 366	resekována a provedena biopsie
+T7	PROCEDURE 375 423	interpapilárního řezu byla obnažena dolní čelist
+T8	PROCEDURE 554 576	kyretáži kostní dutiny
+T14	PROCEDURE 592 618	rekonstrukce dolní čelisti
+T10	PROCEDURE 699 720	patologickou anatomii
+T9	PROCEDURE 851 895	fixovány ve formaldehydu, zality do parafínu
+T16	PROCEDURE 934 991	vyříznuty 4 m silné řezy a obarveny hematoxylinem-eozinem
+T12	PROCEDURE 1019 1037	imunohistochemicky
+T11	PROCEDURE 1048 1080	metodou avidin-biotin peroxidázy
+T17	PROCEDURE 1642 1733	Fluorescenční in situ hybridizace (FISH) byla provedena na 50 m silných parafinových řezech
+T3	PROCEDURE 1677 1681	FISH
+T18	PROCEDURE 1847 1912	vyšetřena fluorescenčním mikroskopem Nikon s trojpásmovým filtrem
+T4	PROCEDURE 1956 1968	Histologicky
+T1	PROCEDURE 2488 2504	Imunohistochemie
+T13	PROCEDURE 2932 2965	Fluorescenční in situ hybridizace

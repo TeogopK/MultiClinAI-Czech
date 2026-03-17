@@ -1,0 +1,24 @@
+T19	PROCEDURE 73 92	fyzikální vyšetření
+T5	PROCEDURE 211 222	hemodialýze
+T33	PROCEDURE 430 449	transplantaci jater
+T34	PROCEDURE 578 600	hemodialyzačním sezení
+T20	PROCEDURE 712 731	Fyzikální vyšetření
+T21	PROCEDURE 777 804	srdeční a plicní auskultace
+T22	PROCEDURE 1003 1006	EKG
+T35	PROCEDURE 1152 1166	sérová terapie
+T36	PROCEDURE 1169 1213	transfuzí dvou koncentrátů červených krvinek
+T37	PROCEDURE 1262 1274	náhradě vody
+T23	PROCEDURE 1379 1396	Elektrokardiogram
+T30	PROCEDURE 1660 1672	RTG hrudníku
+T24	PROCEDURE 1745 1774	Transtorakální echokardiogram
+T40	PROCEDURE 2127 2135	MR srdce
+T26	PROCEDURE 2448 2462	Koronarografie
+T28	PROCEDURE 2530 2553	CT angiografie hrudníku
+T31	PROCEDURE 2829 2861	neinvazivní mechanické ventilaci
+T42	PROCEDURE 2864 2876	hemofiltraci
+T25	PROCEDURE 2900 2929	transtorakální echokardiogram
+T29	PROCEDURE 3090 3113	CT angiografie hrudníku
+T27	PROCEDURE 3221 3235	koronarografie
+T46	PROCEDURE 3259 3284	nahradit aortální chlopeň
+T47	PROCEDURE 3323 3353	implantací biologické aortální
+T48	PROCEDURE 3430 3458	Echokardiografické vyšetření

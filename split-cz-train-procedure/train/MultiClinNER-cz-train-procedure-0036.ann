@@ -1,0 +1,15 @@
+T7	PROCEDURE 167 176	Vyšetření
+T1	PROCEDURE 259 277	rektální vyšetření
+T10	PROCEDURE 299 311	krevní testy
+T2	PROCEDURE 384 396	gastroskopie
+T8	PROCEDURE 421 464	kolonoskopie až po cékum a terminální ileum
+T3	PROCEDURE 552 571	kapslová endoskopie
+T9	PROCEDURE 627 657	vyšetření Tc99m-pertechnetátem
+T11	PROCEDURE 877 885	operovat
+T15	PROCEDURE 888 905	celkové anestezii
+T12	PROCEDURE 906 923	Mc Burneyho řezem
+T13	PROCEDURE 1085 1117	resekce střeva včetně divertiklu
+T14	PROCEDURE 1120 1158	mechanická latero-laterální anastomóza
+T6	PROCEDURE 1164 1190	profylaktická apendektomie
+T4	PROCEDURE 1272 1286	transfuze krve
+T5	PROCEDURE 1288 1308	Patologická anatomie

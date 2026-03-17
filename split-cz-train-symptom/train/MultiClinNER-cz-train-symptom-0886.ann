@@ -1,0 +1,30 @@
+T53	SYMPTOM 159 166	synkopa
+T50	SYMPTOM 171 179	prodromu
+T11	SYMPTOM 233 245	EKG bez změn
+T12	SYMPTOM 413 433	recidivující synkopu
+T13	SYMPTOM 480 523	echokardiografické vyšetření bez abnormalit
+T14	SYMPTOM 525 573	ortostatický test a masáž karotid byly negativní
+T58	SYMPTOM 621 630	závratěmi
+T15	SYMPTOM 633 642	hypotenzí
+T56	SYMPTOM 664 677	ztráty vědomí
+T57	SYMPTOM 826 839	ztráty vědomí
+T1	SYMPTOM 976 992	uvolnění svěračů
+T16	SYMPTOM 998 1016	kousnutí do jazyka
+T17	SYMPTOM 1073 1094	širokým komplexem QRS
+T18	SYMPTOM 1111 1122	tachykardie
+T2	SYMPTOM 1192 1210	dobrý celkový stav
+T3	SYMPTOM 1260 1283	akce srdeční pravidelná
+T59	SYMPTOM 1288 1295	šelestů
+T4	SYMPTOM 1301 1304	MVC
+T19	SYMPTOM 1310 1329	vedlejších fenomenů
+T37	SYMPTOM 1337 1346	bez otoků
+T20	SYMPTOM 1485 1509	koagulace v mezích normy
+T5	SYMPTOM 1530 1532	SR
+T6	SYMPTOM 1553 1561	úzké QRS
+T21	SYMPTOM 1563 1577	elevace bodu J
+T7	SYMPTOM 1611 1626	sinusový rytmus
+T22	SYMPTOM 1803 1842	Transtorakální echokardiogram: normální
+T10	SYMPTOM 2068 2090	echokardiogram v normě
+T8	SYMPTOM 2144 2151	synkopa
+T9	SYMPTOM 2342 2349	synkopa
+#T4	AnnotatorNotes T4	?? unknown abbreviation

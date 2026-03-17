@@ -1,0 +1,34 @@
+T34	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T35	PROCEDURE 847 866	Fyzikální vyšetření
+T36	PROCEDURE 1017 1033	Auskultace srdce
+T37	PROCEDURE 1070 1085	Auskultace plic
+T38	PROCEDURE 1494 1507	ORL vyšetření
+T39	PROCEDURE 1672 1675	EKG
+T3	PROCEDURE 1779 1791	RTG hrudníku
+T5	PROCEDURE 1953 1965	Krevní testy
+T41	PROCEDURE 1967 1982	srdeční markery
+T51	PROCEDURE 2042 2051	Biochemie
+T42	PROCEDURE 2161 2169	Hemogram
+T43	PROCEDURE 2258 2267	Koagulace
+T75	PROCEDURE 2312 2341	Transtorakální echokardiogram
+T48	PROCEDURE 2642 2654	Monitorování
+T9	PROCEDURE 2785 2829	CT vyšetření krku, hrudníku a břicha a pánve
+T13	PROCEDURE 3786 3850	Patologická anatomie biopsie krčního adenopatického konglomerátu
+T44	PROCEDURE 4054 4070	Imunohistochemie
+T52	PROCEDURE 4247 4251	FISH
+T16	PROCEDURE 4309 4329	Aspirát kostní dřeně
+T45	PROCEDURE 4359 4379	Průtoková cytometrie
+T18	PROCEDURE 4876 4912	Kontrolovaná masáž levé krční dutiny
+T46	PROCEDURE 5087 5107	léčba beta-blokátory
+T40	PROCEDURE 5186 5189	EKG
+T47	PROCEDURE 5207 5238	FNA pod ultrazvukovou kontrolou
+T49	PROCEDURE 5316 5328	monitorování
+T23	PROCEDURE 5441 5446	FNAUS
+T26	PROCEDURE 5726 5759	implantaci VVIR kardiostimulátoru
+T27	PROCEDURE 6024 6036	CT vyšetření
+T81	PROCEDURE 6038 6045	biopsii
+T30	PROCEDURE 6048 6077	anatomopatologickém vyšetření
+T86	PROCEDURE 6332 6355	chemoterapeutické léčby
+T53	PROCEDURE 6371 6377	R-CHOP
+T105	PROCEDURE 6573 6583	kortikoidy
+T50	PROCEDURE 6586 6597	cytoredukci

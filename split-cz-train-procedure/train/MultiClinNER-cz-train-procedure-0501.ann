@@ -1,0 +1,21 @@
+T13	PROCEDURE 206 219	dietní léčbou
+T14	PROCEDURE 237 258	Laboratorní vyšetření
+T12	PROCEDURE 553 567	Autoprotilátky
+T11	PROCEDURE 620 648	sérologie na viry a bakterie
+T1	PROCEDURE 807 823	Ultrazvuk břicha
+T2	PROCEDURE 880 894	echoendoskopie
+T10	PROCEDURE 896 899	EUS
+T3	PROCEDURE 1020 1050	Torakoabdominální CT vyšetření
+T4	PROCEDURE 1527 1553	perkutánní biliární drenáž
+T5	PROCEDURE 1556 1571	cholangiografie
+T15	PROCEDURE 1739 1788	punkce tenkou jehlou - aspirace pod kontrolou EUS
+T24	PROCEDURE 1801 1810	cytologií
+T25	PROCEDURE 1912 1924	autoimunitní
+T6	PROCEDURE 1954 2003	endoskopická retrográdní cholangiopankreatografie
+T7	PROCEDURE 2005 2009	ERCP
+T16	PROCEDURE 2165 2179	plastový stent
+T8	PROCEDURE 2195 2216	léčba kortikosteroidy
+T17	PROCEDURE 2256 2281	odstraněn perkutánní drén
+T9	PROCEDURE 2465 2474	CT břicha
+T31	PROCEDURE 2594 2609	kortikosteroidů
+T18	PROCEDURE 2694 2708	biliární stent

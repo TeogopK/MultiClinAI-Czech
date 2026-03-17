@@ -1,0 +1,44 @@
+T15	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 426 445	elektrokardiogramem
+T17	PROCEDURE 490 501	CT hrudníku
+T3	PROCEDURE 684 698	koronarografii
+T16	PROCEDURE 701 720	Fyzikální vyšetření
+T20	PROCEDURE 953 969	Auskultace srdce
+T21	PROCEDURE 1021 1036	Auskultace plic
+T22	PROCEDURE 1239 1242	EKG
+T4	PROCEDURE 1482 1494	Krevní testy
+T37	PROCEDURE 1496 1511	srdeční markery
+T38	PROCEDURE 1572 1581	Biochemie
+T23	PROCEDURE 1676 1695	Funkce štítné žlázy
+T24	PROCEDURE 1717 1736	Metabolismus železa
+T25	PROCEDURE 1823 1855	Autoimunitní a koagulační studie
+T26	PROCEDURE 1867 1875	Hemogram
+T18	PROCEDURE 1941 1955	Koronarografie
+T27	PROCEDURE 1957 1968	aortografie
+T19	PROCEDURE 2021 2035	Koronarografie
+T28	PROCEDURE 2491 2522	Perkutánní koronární intervence
+T7	PROCEDURE 2524 2535	PCI na LMCA
+T39	PROCEDURE 2677 2680	CVE
+T8	PROCEDURE 2715 2732	implantován stent
+T9	PROCEDURE 2900 2954	implantací intraaortálního balónkového kontrapulzátoru
+T10	PROCEDURE 2956 2960	IABP
+T30	PROCEDURE 2989 3018	Transtorakální echokardiogram
+T11	PROCEDURE 3621 3637	Mitrální chlopeň
+T32	PROCEDURE 3932 3961	intravenózní kontrastní látka
+T53	PROCEDURE 4173 4190	inotropní podpory
+T54	PROCEDURE 4192 4225	neinvazivní mechanickou ventilaci
+T31	PROCEDURE 4227 4230	NIV
+T55	PROCEDURE 4234 4238	IABP
+T56	PROCEDURE 4315 4318	EKV
+T58	PROCEDURE 4365 4378	vysazení IABP
+T33	PROCEDURE 4418 4432	echokardiogram
+T34	PROCEDURE 4625 4639	echokardiogram
+T63	PROCEDURE 4888 4902	inhibitory ACE
+T64	PROCEDURE 4905 4919	beta-blokátory
+T65	PROCEDURE 4995 5016	protidestičková léčba
+T66	PROCEDURE 5074 5083	diuretika
+T67	PROCEDURE 5161 5189	echokardiografické vyšetření
+T68	PROCEDURE 5255 5282	implantaci subkutánního ICD
+T36	PROCEDURE 5360 5382	kardiální rehabilitace
+T29	PROCEDURE 5564 5606	Perkutánní koronární intervence na LMCA-AD
+T35	PROCEDURE 5682 5707	Subkutánní implantace ICD

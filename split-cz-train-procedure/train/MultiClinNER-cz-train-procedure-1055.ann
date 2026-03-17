@@ -1,0 +1,45 @@
+T61	PROCEDURE 0 8	ANAMNÉZA
+T43	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T62	PROCEDURE 53 68	OSOBNÍ ANAMNÉZA
+T63	PROCEDURE 156 172	rodinná anamnéza
+T64	PROCEDURE 174 189	Osobní anamnéza
+T70	PROCEDURE 414 425	fibrinolýza
+T36	PROCEDURE 496 510	Koronarografie
+T53	PROCEDURE 622 653	implantace dvou lékových stentů
+T38	PROCEDURE 776 790	Echokardiogram
+T40	PROCEDURE 870 893	Izotopový zátěžový test
+T188	PROCEDURE 1356 1382	izotopovém zátěžovém testu
+T4	PROCEDURE 1819 1836	laboratorní testy
+T44	PROCEDURE 2351 2370	FYZIKÁLNÍ VYŠETŘENÍ
+T45	PROCEDURE 2522 2538	Auskultace srdce
+T46	PROCEDURE 2583 2598	Auskultace plic
+T47	PROCEDURE 2710 2727	Elektrokardiogram
+T48	PROCEDURE 2729 2732	EKG
+T49	PROCEDURE 2898 2901	EKG
+T50	PROCEDURE 3092 3095	EKG
+T37	PROCEDURE 3146 3160	Koronarografie
+T51	PROCEDURE 3375 3424	perkutánní transluminální koronární angioplastika
+T52	PROCEDURE 3426 3430	PTCA
+T7	PROCEDURE 3434 3485	implantace dvou nepřekrývajících se lékových stentů
+T54	PROCEDURE 3604 3636	intravaskulární echokardiografie
+T55	PROCEDURE 3638 3642	IVUS
+T91	PROCEDURE 3645 3673	Echokardiografické vyšetření
+T56	PROCEDURE 3772 3776	IVUS
+T9	PROCEDURE 3988 4000	Krevní testy
+T57	PROCEDURE 4015 4023	Hemogram
+T67	PROCEDURE 4099 4108	Biochemie
+T69	PROCEDURE 4387 4411	markery nekrózy myokardu
+T41	PROCEDURE 4483 4506	Izotopový zátěžový test
+T11	PROCEDURE 4618 4630	Krevní testy
+T58	PROCEDURE 4660 4668	Hemogram
+T68	PROCEDURE 4680 4689	Biochemie
+T12	PROCEDURE 4909 4921	Krevní testy
+T59	PROCEDURE 5078 5126	Genetická studie familiární hypercholesterolemie
+T13	PROCEDURE 5405 5417	Krevní testy
+T42	PROCEDURE 5941 5964	izotopový zátěžový test
+T60	PROCEDURE 6041 6072	perkutánní koronární intervence
+T104	PROCEDURE 6074 6077	PCI
+T112	PROCEDURE 6118 6126	anamnéze
+T183	PROCEDURE 6784 6805	genetického vyšetření
+T71	PROCEDURE 7218 7229	fibrinolýza
+T65	PROCEDURE 7241 7283	PCI s implantací dvou lékových stentů v DC

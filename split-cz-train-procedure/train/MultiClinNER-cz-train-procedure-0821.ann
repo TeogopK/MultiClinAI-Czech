@@ -1,0 +1,18 @@
+T39	PROCEDURE 0 8	ANAMNÉZA
+T35	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T26	PROCEDURE 152 163	CT hrudníku
+T52	PROCEDURE 215 223	anamnéze
+T28	PROCEDURE 1025 1041	Auskultace srdce
+T48	PROCEDURE 1080 1097	Plicní auskultace
+T6	PROCEDURE 1295 1322	zátěžového testu na běhátku
+T29	PROCEDURE 1384 1409	CT hrudníku bez kontrastu
+T8	PROCEDURE 1634 1673	Rentgenový snímek hrudníku (PA a boční)
+T9	PROCEDURE 1824 1836	Krevní testy
+T30	PROCEDURE 2018 2026	hemogram
+T31	PROCEDURE 2029 2038	koagulace
+T32	PROCEDURE 2058 2061	EKG
+T11	PROCEDURE 2226 2252	Ergometrie na běžícím pásu
+T33	PROCEDURE 2331 2352	Test maximální námahy
+T69	PROCEDURE 2979 2989	ergometrii
+T76	PROCEDURE 3297 3327	hygienicko-dietních opatřeních
+T36	PROCEDURE 3446 3460	vyšetření krve

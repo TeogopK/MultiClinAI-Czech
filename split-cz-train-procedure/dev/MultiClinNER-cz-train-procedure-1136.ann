@@ -1,0 +1,36 @@
+T38	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 651 658	očkován
+T39	PROCEDURE 1058 1075	Elektrokardiogram
+T4	PROCEDURE 1222 1248	rentgenový snímek hrudníku
+T40	PROCEDURE 1756 1785	transtorakální echokardiogram
+T41	PROCEDURE 2137 2146	Sérologie
+T42	PROCEDURE 2173 2187	Krevní kultury
+T43	PROCEDURE 2200 2214	Kultivace moči
+T6	PROCEDURE 2227 2261	Stěr z hltanu a tracheální exsudát
+T44	PROCEDURE 2291 2315	Endomyokardiální biopsie
+T45	PROCEDURE 2317 2341	endomyokardiální biopsie
+T47	PROCEDURE 2466 2469	EKG
+T48	PROCEDURE 2623 2639	Echokardiografie
+T50	PROCEDURE 2942 2951	MRI srdce
+T12	PROCEDURE 3224 3248	Renální a jaterní funkce
+T53	PROCEDURE 3251 3280	biomarkery poškození myokardu
+T13	PROCEDURE 3577 3586	sledování
+T52	PROCEDURE 3716 3754	inotropní a vazoaktivní podpůrná léčba
+T46	PROCEDURE 3771 3795	endomyokardiální biopsie
+T16	PROCEDURE 3869 3907	intravenózním podávání kortikosteroidů
+T17	PROCEDURE 4079 4112	léčbu intravenózními antiarytmiky
+T18	PROCEDURE 4132 4155	elektrickou kardioverzi
+T54	PROCEDURE 4202 4242	implantaci intraaortální balónkové pumpy
+T55	PROCEDURE 4272 4301	veno-arteriální kanylací ECMO
+T56	PROCEDURE 4304 4339	xtrakorporální membránová oxygenace
+T57	PROCEDURE 4395 4416	náhradní léčbu ledvin
+T59	PROCEDURE 4463 4487	mechanické podpory oběhu
+T60	PROCEDURE 4523 4552	ECMO a IABP postupně vysazeny
+T61	PROCEDURE 4645 4669	neurohormonální medikace
+T49	PROCEDURE 4728 4744	echokardiografie
+T63	PROCEDURE 4813 4833	magnetická rezonance
+T66	PROCEDURE 5058 5081	sérologických vyšetření
+T67	PROCEDURE 5094 5103	kultivace
+T51	PROCEDURE 5331 5352	Neurohormonální léčba
+T27	PROCEDURE 5461 5487	mechanické oběhové podpory
+T25	PROCEDURE 5611 5633	neurohormonální léčbou

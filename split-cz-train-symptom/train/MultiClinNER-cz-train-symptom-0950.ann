@@ -1,0 +1,65 @@
+T102	SYMPTOM 54 62	horečkou
+T18	SYMPTOM 699 795	silné retrosternální bolesti na hrudi s tísnivým charakterem, vyzařující do levé horní končetiny
+T133	SYMPTOM 823 844	vegetativními křečemi
+T1	SYMPTOM 908 923	sinusový rytmus
+T19	SYMPTOM 926 959	elevací ST úseku v DI, AVL, V2-V3
+T20	SYMPTOM 962 996	depresí ST úseku v DII, DIII a AVF
+T3	SYMPTOM 1395 1417	hemodynamicky stabilní
+T91	SYMPTOM 1574 1588	asymptomatický
+T23	SYMPTOM 1591 1615	přiměřenou úrovní vědomí
+T117	SYMPTOM 1617 1628	orientovaný
+T130	SYMPTOM 1631 1645	spolupracující
+T84	SYMPTOM 1685 1694	afebrilní
+T100	SYMPTOM 1696 1705	eupnoický
+T129	SYMPTOM 1760 1781	rytmické srdeční ozvy
+T143	SYMPTOM 1786 1793	šelestů
+T121	SYMPTOM 1797 1818	perikardiálního tření
+T24	SYMPTOM 1820 1859	oboustranně přítomen vezikulární šelest
+T25	SYMPTOM 1874 1900	prasklinami na bazích plic
+T26	SYMPTOM 1902 1929	břicho měkké, neprohloubené
+T27	SYMPTOM 1931 1957	přítomny hydroaerické ozvy
+T119	SYMPTOM 1963 1980	periferních otoků
+T28	SYMPTOM 1986 2009	neurologického deficitu
+T29	SYMPTOM 2046 2121	bolesti na hrudi, které se stupňovaly při hlubokém nádechu a změnách polohy
+T118	SYMPTOM 2158 2169	palpitacemi
+T30	SYMPTOM 2266 2285	febrilními špičkami
+T31	SYMPTOM 2301 2355	infekčních příznaků na úrovni dýchání, močení a břicha
+T32	SYMPTOM 2371 2443	vzorky na sériovou kultivaci krve a moči, které byly opakovaně negativní
+T33	SYMPTOM 2487 2503	nedilatovanou LK
+T34	SYMPTOM 2506 2552	akinezí v anteroseptálním a apikálním segmentu
+T8	SYMPTOM 2656 2692	částečný kolaps PK na konci diastoly
+T35	SYMPTOM 2695 2768	respiračními změnami trikuspidální a transmitrální dopplerovské rychlosti
+T4	SYMPTOM 2818 2829	leukocytóza
+T5	SYMPTOM 2831 2842	neutrofilie
+T36	SYMPTOM 2844 2861	ESR a zvýšené CRP
+T2	SYMPTOM 2893 2908	Sinusový rytmus
+T37	SYMPTOM 2942 2952	Elevace ST
+T38	SYMPTOM 2990 3004	ostrou vlnou T
+T39	SYMPTOM 3423 3446	mikrobiologické izolace
+T40	SYMPTOM 3470 3493	mikrobiologické izolace
+T41	SYMPTOM 3549 3566	kongestivní obraz
+T42	SYMPTOM 3572 3594	pneumonické kondenzace
+T43	SYMPTOM 3784 3816	částečný kolaps RV v enddiastole
+T44	SYMPTOM 3819 3904	>25% snížení mitrální E vlny v nádechu a >50% snížení trikuspidální E vlny ve výdechu
+T45	SYMPTOM 3970 3988	LS není dilatovaná
+T6	SYMPTOM 3990 4015	Normální mitrální chlopeň
+T7	SYMPTOM 4017 4042	Normální aortální chlopeň
+T46	SYMPTOM 4044 4059	Nedilatovaná LK
+T13	SYMPTOM 4091 4124	Normokineze inferolaterální stěny
+T11	SYMPTOM 4126 4153	apikální a septální akineze
+T12	SYMPTOM 4156 4166	hypokineze
+T9	SYMPTOM 4184 4205	Normální pravá komora
+T10	SYMPTOM 4207 4245	Trikuspidální chlopeň bez insuficience
+T47	SYMPTOM 4270 4309	TCI bez významných angiografických změn
+T14	SYMPTOM 4538 4588	Bifurkovaná léze s distálními lůžky malého kalibru
+T15	SYMPTOM 4639 4733	Distální lůžka dobrého kalibru a vývoje, neporušená, vizualizovaná přes pravou koronární tepnu
+T48	SYMPTOM 4735 4806	Dominantní RCA: céva dobrého kalibru a vývoje, s nepravidelnostmi stěny
+T49	SYMPTOM 4812 4843	významných angiografických změn
+T16	SYMPTOM 5010 5029	Dobrá distální céva
+T103	SYMPTOM 5129 5136	horečky
+T104	SYMPTOM 5531 5538	horečky
+T51	SYMPTOM 5628 5680	absenci mikrobiologické izolace v krevních kulturách
+T105	SYMPTOM 5812 5819	horečky
+T106	SYMPTOM 6163 6170	horečky
+T92	SYMPTOM 6374 6388	asymptomatický
+T52	SYMPTOM 6586 6604	Těžce snížená LVEF

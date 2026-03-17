@@ -1,0 +1,9 @@
+T5	PROCEDURE 188 223	celkových laboratorních vyšetřeních
+T6	PROCEDURE 314 360	doplňující vyšetření, včetně mikrobiologických
+T1	PROCEDURE 378 404	Rentgenový snímek hrudníku
+T2	PROCEDURE 488 499	CT hrudníku
+T4	PROCEDURE 696 731	Biopsie získaná videotorakoskopicky
+T7	PROCEDURE 821 842	histochemické barvení
+T8	PROCEDURE 999 1022	chemoterapeutické léčby
+T9	PROCEDURE 1073 1097	radioterapeutickou léčbu
+T3	PROCEDURE 1313 1369	autotransplantace prekurzorů krvetvorby z periferní krve

@@ -1,0 +1,30 @@
+T37	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T38	PROCEDURE 811 830	Fyzikální vyšetření
+T94	PROCEDURE 835 855	fyzikálním vyšetření
+T39	PROCEDURE 1015 1031	Auskultace srdce
+T40	PROCEDURE 1068 1083	Auskultace plic
+T41	PROCEDURE 1272 1289	Elektrokardiogram
+T53	PROCEDURE 1541 1553	monitorování
+T1	PROCEDURE 1589 1606	Laboratorní testy
+T44	PROCEDURE 1608 1620	krevní obraz
+T45	PROCEDURE 1623 1632	koagulace
+T69	PROCEDURE 1654 1668	Renální funkce
+T46	PROCEDURE 1671 1676	ionty
+T42	PROCEDURE 1725 1742	Elektrokardiogram
+T43	PROCEDURE 1990 2007	elektrokardiogram
+T47	PROCEDURE 2169 2183	Echokardiogram
+T49	PROCEDURE 2600 2621	Koronární katetrizace
+T66	PROCEDURE 2734 2760	Magnetická rezonance srdce
+T58	PROCEDURE 2762 2765	CMR
+T48	PROCEDURE 3299 3315	echokardiografie
+T50	PROCEDURE 3577 3596	intravenózní infuze
+T93	PROCEDURE 3621 3647	farmakologické kardioverze
+T92	PROCEDURE 3935 3963	echokardiografické vyšetření
+T51	PROCEDURE 4147 4161	koronarografie
+T110	PROCEDURE 4419 4445	magnetická rezonance srdce
+T59	PROCEDURE 4447 4450	CMR
+T95	PROCEDURE 4669 4688	genetické vyšetření
+T98	PROCEDURE 4854 4908	implantaci implantabilního kardioverteru-defibrilátoru
+T62	PROCEDURE 4910 4913	ICD
+T109	PROCEDURE 4962 4981	léčby betablokátory
+T52	PROCEDURE 4983 5011	Ablace arytmického substrátu

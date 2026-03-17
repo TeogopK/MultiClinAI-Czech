@@ -1,0 +1,42 @@
+T43	PROCEDURE 198 206	anamnéza
+T14	PROCEDURE 241 260	fyzikální vyšetření
+T50	PROCEDURE 620 635	cévní chirurgií
+T51	PROCEDURE 705 717	embolektomii
+T65	PROCEDURE 731 786	embolický materiál byl odeslán na patologickou anatomii
+T16	PROCEDURE 829 845	echokardiografie
+T53	PROCEDURE 851 871	fyzikálním vyšetření
+T19	PROCEDURE 1069 1096	kardiopulmonální auskultace
+T4	PROCEDURE 1150 1153	MSI
+T15	PROCEDURE 1188 1207	fyzikální vyšetření
+T17	PROCEDURE 1252 1283	transtorakální echokardiografie
+T41	PROCEDURE 1285 1288	TTE
+T78	PROCEDURE 1406 1415	vyšetření
+T5	PROCEDURE 1418 1435	Laboratorní testy
+T20	PROCEDURE 1447 1459	krevní obraz
+T27	PROCEDURE 1461 1470	koagulace
+T21	PROCEDURE 1508 1525	Elektrokardiogram
+T22	PROCEDURE 1634 1660	Rentgenový snímek hrudníku
+T23	PROCEDURE 1797 1819	Echokardiografie TT/TE
+T24	PROCEDURE 1822 1828	ECO 3D
+T38	PROCEDURE 2442 2468	Magnetická rezonance srdce
+T31	PROCEDURE 2470 2473	MRI
+T29	PROCEDURE 3343 3368	zobrazovacích vyšetřeních
+T79	PROCEDURE 3465 3519	patologickoanatomickém vyšetření embolického materiálu
+T59	PROCEDURE 3653 3684	resekci masy v mimotělním oběhu
+T28	PROCEDURE 3731 3763	patologicko-anatomické vyšetření
+T34	PROCEDURE 3802 3833	ouško levé síně bylo resekováno
+T30	PROCEDURE 4032 4085	Definitivní patologicko-anatomické vyšetření resekátu
+T82	PROCEDURE 4154 4175	rozšiřující vyšetření
+T35	PROCEDURE 4183 4211	CT torakoabdominální oblasti
+T44	PROCEDURE 4302 4322	antikoagulační léčbě
+T58	PROCEDURE 4583 4607	mechanickou trombektomií
+T83	PROCEDURE 4667 4720	patologickoanatomické vyšetření embolického materiálu
+T42	PROCEDURE 4820 4823	TTE
+T84	PROCEDURE 4826 4847	rozšiřující vyšetření
+T40	PROCEDURE 4849 4858	MRI lebky
+T25	PROCEDURE 4860 4880	torakoabdominální CT
+T56	PROCEDURE 4883 4902	kostní scintigrafie
+T85	PROCEDURE 5027 5036	vyšetření
+T26	PROCEDURE 5125 5137	chemoterapie
+T46	PROCEDURE 5161 5184	chemoterapeutické léčbě
+T47	PROCEDURE 5343 5362	chirurgické resekci

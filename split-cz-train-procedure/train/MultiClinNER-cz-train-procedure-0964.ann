@@ -1,0 +1,41 @@
+T69	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T68	PROCEDURE 826 848	orotracheální intubace
+T70	PROCEDURE 908 927	FYZIKÁLNÍ VYŠETŘENÍ
+T71	PROCEDURE 1151 1167	Auskultace srdce
+T72	PROCEDURE 1215 1230	Auskultace plic
+T73	PROCEDURE 1689 1697	Hemogram
+T74	PROCEDURE 1781 1790	Koagulace
+T92	PROCEDURE 1814 1823	Biochemie
+T75	PROCEDURE 2132 2149	Elektrokardiogram
+T76	PROCEDURE 2151 2154	EKG
+T77	PROCEDURE 2298 2301	EKG
+T6	PROCEDURE 2305 2316	kardioverzi
+T78	PROCEDURE 2459 2462	EKG
+T79	PROCEDURE 2622 2625	EKG
+T11	PROCEDURE 2629 2669	implantaci přechodného kardiostimulátoru
+T80	PROCEDURE 2912 2915	EKG
+T85	PROCEDURE 3068 3103	Přenosný rentgenový snímek hrudníku
+T83	PROCEDURE 3250 3286	CT břicha s intravenózním kontrastem
+T88	PROCEDURE 3507 3523	Echokardiografie
+T84	PROCEDURE 3841 3872	Transtorakální echokardiografie
+T89	PROCEDURE 4516 4518	MV
+T86	PROCEDURE 4684 4693	CT břicha
+T87	PROCEDURE 4834 4858	explorativní laparotomie
+T90	PROCEDURE 4952 4968	echokardiografie
+T82	PROCEDURE 5235 5257	elektrické kardioverze
+T19	PROCEDURE 5259 5262	EKV
+T21	PROCEDURE 5645 5657	hemofiltraci
+T91	PROCEDURE 6209 6212	CVE
+T24	PROCEDURE 6242 6280	implantován přechodný kardiostimulátor
+T25	PROCEDURE 6304 6361	elektrodou kardiostimulátoru umístěna do koronárního sinu
+T81	PROCEDURE 6380 6383	EKG
+T29	PROCEDURE 6616 6631	echokardiogramy
+T31	PROCEDURE 6829 6855	elektrofyziologické studie
+T32	PROCEDURE 6857 6860	EPS
+T93	PROCEDURE 6867 6870	EPS
+T94	PROCEDURE 7402 7471	Účinná ablace byla provedena na levé posterolaterální akcesorní dráze
+T98	PROCEDURE 7845 7853	extubaci
+T97	PROCEDURE 7855 7871	vysazení perfuzí
+T99	PROCEDURE 7986 7999	monitorováním
+T102	PROCEDURE 8146 8176	echokardiografického vyšetření
+T107	PROCEDURE 8590 8613	ablaci akcesorních drah

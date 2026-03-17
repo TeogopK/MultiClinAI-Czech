@@ -1,0 +1,12 @@
+T1	PROCEDURE 130 162	laparoskopickou cholecystektomii
+T4	PROCEDURE 203 210	operaci
+T2	PROCEDURE 234 272	biliom, který byl perkutánně evakuován
+T3	PROCEDURE 292 343	biliární bypass pomocí endoskopické cholangiografie
+T5	PROCEDURE 458 517	kolekce byla evakuována pomocí počáteční perkutánní drenáže
+T6	PROCEDURE 724 751	CT vyšetření břicha a pánve
+T7	PROCEDURE 1020 1045	drenáž pomocí lumboskopie
+T8	PROCEDURE 1104 1256	Byly umístěny dva čisté silikonové drény naproti sobě, které vytvořily kontinuální výplachový systém s použitím pomalu kapajícího fyziologického roztoku
+T9	PROCEDURE 1335 1344	kultivaci
+T11	PROCEDURE 1450 1477	kontinuální laváž nahrazena
+T10	PROCEDURE 1478 1496	systémem hemosukce
+T12	PROCEDURE 1558 1574	ukončení drenáže

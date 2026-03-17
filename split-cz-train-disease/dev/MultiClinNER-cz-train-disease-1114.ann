@@ -1,0 +1,31 @@
+T1	DISEASE 83 149	Alergie: idiosynkrazie na více nesteroidních protizánětlivých léků
+T12	DISEASE 200 210	hypertenze
+T13	DISEASE 212 219	Artróza
+T4	DISEASE 229 238	katarakty
+T14	DISEASE 309 329	srdečního onemocnění
+T15	DISEASE 464 507	akutní koronární syndrom s elevací úseku ST
+T19	DISEASE 509 514	STEMI
+T16	DISEASE 2168 2185	hypertrofie komor
+T6	DISEASE 2187 2190	LVH
+T7	DISEASE 2283 2286	LVH
+T8	DISEASE 2288 2306	Mírná dysfunkce LK
+T10	DISEASE 2747 2776	Levá síň (LA) mírně rozšířená
+T11	DISEASE 3027 3054	kompletní SAM generující MI
+T17	DISEASE 3404 3430	Trikuspidální insuficience
+T45	DISEASE 3432 3434	TI
+T46	DISEASE 3596 3619	perikardiálního výpotku
+T26	DISEASE 3991 4017	Středně těžká dysfunkce LK
+T48	DISEASE 4026 4043	infarktu myokardu
+T50	DISEASE 4131 4158	Hypertrofie bazálního septa
+T18	DISEASE 4198 4237	obstrukce výtokového traktu levé komory
+T20	DISEASE 4792 4816	akutní koronární syndrom
+T54	DISEASE 4835 4855	alergický na aspirin
+T56	DISEASE 5274 5301	středně těžkou dysfunkcí LK
+T21	DISEASE 5356 5374	tako-tsubo syndrom
+T23	DISEASE 5675 5690	srdeční selhání
+T59	DISEASE 5794 5823	hypertrofickou kardiomyopatií
+T61	DISEASE 5952 5980	hypertrofické kardiomyopatie
+T62	DISEASE 6423 6443	Mitrální isuficience
+T24	DISEASE 6526 6586	Tako-tsubo syndrom s obstrukcí výtokového traktu levé komory
+T22	DISEASE 6589 6616	významnou MI v důsledku SAM
+T25	DISEASE 6631 6643	septální LVH

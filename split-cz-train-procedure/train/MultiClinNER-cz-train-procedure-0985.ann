@@ -1,0 +1,39 @@
+T47	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T36	PROCEDURE 328 345	elektrokardiogram
+T37	PROCEDURE 347 350	EKG
+T5	PROCEDURE 396 418	Katetrizační vyšetření
+T42	PROCEDURE 458 478	acetylcholinový test
+T43	PROCEDURE 480 509	Transtorakální echokardiogram
+T7	PROCEDURE 621 655	léčba nitráty a antagonisty kalcia
+T38	PROCEDURE 926 929	EKG
+T40	PROCEDURE 1002 1013	Katetrizace
+T44	PROCEDURE 1041 1070	Transtorakální echokardiogram
+T12	PROCEDURE 1714 1725	KPR manévry
+T13	PROCEDURE 1780 1792	základní KPR
+T15	PROCEDURE 1892 1924	Základní a pokročilé KPR manévry
+T16	PROCEDURE 1974 1996	orotracheální intubací
+T17	PROCEDURE 1998 2004	sedací
+T48	PROCEDURE 2035 2054	FYZIKÁLNÍ VYŠETŘENÍ
+T57	PROCEDURE 2055 2064	Intubován
+T58	PROCEDURE 2066 2096	sedován pod perfuzí midazolamu
+T59	PROCEDURE 2131 2140	inotropik
+T49	PROCEDURE 2189 2192	VMI
+T50	PROCEDURE 2308 2324	Auskultace srdce
+T51	PROCEDURE 2349 2366	Plicní auskultace
+T39	PROCEDURE 2503 2506	EKG
+T52	PROCEDURE 2691 2703	RTG hrudníku
+T60	PROCEDURE 2874 2894	rentgenového snímku.
+T53	PROCEDURE 3023 3035	krevní plyny
+T45	PROCEDURE 3276 3305	Transtorakální echokardiogram
+T23	PROCEDURE 3309 3322	resuscitačním
+T41	PROCEDURE 3575 3586	Katetrizace
+T54	PROCEDURE 3647 3663	ventrikulografie
+T55	PROCEDURE 3666 3677	aortografie
+T62	PROCEDURE 3753 3764	katetrizaci
+T46	PROCEDURE 3817 3846	transtorakální echokardiogram
+T63	PROCEDURE 3945 3968	terapeutické hypotermie
+T64	PROCEDURE 4018 4038	nazogastrickou sondu
+T65	PROCEDURE 4210 4230	resuscitační manévry
+T66	PROCEDURE 4279 4290	defibrilací
+T56	PROCEDURE 4622 4632	telemetrie
+T71	PROCEDURE 5193 5216	terapeutické hypotermii

@@ -1,0 +1,20 @@
+T10	PROCEDURE 229 244	vaginální porod
+T12	PROCEDURE 246 259	Umělá laktace
+T14	PROCEDURE 586 603	genetickou studii
+T1	PROCEDURE 997 1030	Klinické a neurologické vyšetření
+T17	PROCEDURE 1194 1214	analytické vyšetření
+T18	PROCEDURE 1217 1232	krevním obrazem
+T19	PROCEDURE 1235 1244	biochemií
+T5	PROCEDURE 1267 1279	Krevní obraz
+T8	PROCEDURE 1294 1319	elektrolyty v krvi a moči
+T11	PROCEDURE 1402 1414	krevní testy
+T13	PROCEDURE 1443 1459	Elektromyografii
+T3	PROCEDURE 1461 1464	EMG
+T15	PROCEDURE 1467 1485	kreatinfosfokinázu
+T6	PROCEDURE 1487 1490	CPK
+T7	PROCEDURE 1494 1511	elektrokardiogram
+T9	PROCEDURE 1513 1516	EKG
+T2	PROCEDURE 1615 1631	Elektromyografie
+T4	PROCEDURE 1633 1636	EMG
+T16	PROCEDURE 1823 1853	genetické vyšetření genu SCN4A
+T20	PROCEDURE 2261 2296	dieta, která není bohatá na draslík

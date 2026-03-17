@@ -1,0 +1,37 @@
+T36	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 295 313	anxiolytické léčbě
+T4	PROCEDURE 806 827	elektrokardiografické
+T5	PROCEDURE 871 896	enzymů poškození myokardu
+T37	PROCEDURE 1176 1195	Fyzikální vyšetření
+T8	PROCEDURE 1409 1419	auskultaci
+T38	PROCEDURE 1696 1713	Elektrokardiogram
+T39	PROCEDURE 1715 1718	EKG
+T40	PROCEDURE 1852 1864	RTG hrudníku
+T11	PROCEDURE 1986 1998	krevní testy
+T41	PROCEDURE 2119 2127	hemogram
+T12	PROCEDURE 2137 2151	Renální funkce
+T56	PROCEDURE 2153 2174	hepatobiliární profil
+T43	PROCEDURE 2177 2182	ionty
+T42	PROCEDURE 2281 2293	Krevní obraz
+T13	PROCEDURE 2349 2365	Deficitní profil
+T57	PROCEDURE 2490 2499	Biochemie
+T44	PROCEDURE 2501 2506	ionty
+T15	PROCEDURE 2507 2524	ledvinných funkcí
+T45	PROCEDURE 2527 2551	markery jaterních funkcí
+T14	PROCEDURE 2561 2587	Metabolický a další profil
+T46	PROCEDURE 2616 2631	Lipidový profil
+T58	PROCEDURE 2642 2663	Reaktanty akutní fáze
+T47	PROCEDURE 2684 2703	markery autoimunity
+T48	PROCEDURE 2748 2777	Transtorakální echokardiogram
+T49	PROCEDURE 3387 3447	Kontrastně zesílená CT angiografie koronárních tepen a aorty
+T50	PROCEDURE 3571 3597	Magnetická rezonance srdce
+T53	PROCEDURE 3599 3602	CMR
+T52	PROCEDURE 4136 4164	echokardiografické vyšetření
+T55	PROCEDURE 4225 4251	angio-CT koronárních tepen
+T63	PROCEDURE 4772 4785	vyšetření CMR
+T64	PROCEDURE 4826 4855	echokardiografickém vyšetření
+T65	PROCEDURE 4858 4871	koronárním CT
+T67	PROCEDURE 5014 5036	endovaskulárním řešení
+T68	PROCEDURE 5044 5092	perkutánní implantace hrudního aortálního stentu
+T51	PROCEDURE 5175 5186	angiografii
+T54	PROCEDURE 5325 5336	angiografie

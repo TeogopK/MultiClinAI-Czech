@@ -1,0 +1,16 @@
+T3	PROCEDURE 256 275	Fyzikální vyšetření
+T5	PROCEDURE 399 406	palpaci
+T4	PROCEDURE 506 528	intraorálním vyšetření
+T6	PROCEDURE 605 658	ultrazvukem navigovaná aspirační punkce tenkou jehlou
+T7	PROCEDURE 660 665	FNAUS
+T10	PROCEDURE 732 763	vyšetření magnetickou rezonancí
+T8	PROCEDURE 1076 1201	funkční krční disekce vlevo III. typu, včetně hypoglosálního nervu, digastrického svalu a okrajové větve levého lícního nervu
+T9	PROCEDURE 1205 1250	vypreparováním mediální strany levé mandibuly
+T1	PROCEDURE 1252 1272	Histologická analýza
+T14	PROCEDURE 1727 1755	Imunohistochemické vyšetření
+T15	PROCEDURE 1971 1981	resekčního
+T11	PROCEDURE 2193 2216	pooperační radioterapii
+T2	PROCEDURE 2241 2253	radioterapie
+T18	PROCEDURE 2315 2322	operaci
+T12	PROCEDURE 2383 2386	MRI
+T13	PROCEDURE 2389 2391	CT

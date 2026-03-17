@@ -1,0 +1,38 @@
+T1	DISEASE 100 116	odvykání kouření
+T11	DISEASE 118 139	arteriální hypertenze
+T2	DISEASE 141 163	chronické bronchopatie
+T3	DISEASE 165 192	mikrokrystalické artropatie
+T12	DISEASE 194 208	fibrilace síní
+T5	DISEASE 268 296	těžké chlopenní insuficience
+T21	DISEASE 322 352	dekompenzaci srdečního selhání
+T15	DISEASE 433 439	anémie
+T7	DISEASE 588 634	Mitrální anulopastie s reziduální insuficiencí
+T20	DISEASE 646 677	Středně těžká plicní hypertenze
+T35	DISEASE 679 708	Bikuspidální aortální chlopeň
+T8	DISEASE 794 855	karcinom tlustého střeva v oblasti rektosigmoidálního spojení
+T16	DISEASE 894 900	anémie
+T57	DISEASE 2976 3009	kompletní blokádou levého raménka
+T22	DISEASE 3089 3106	srdečního selhání
+T27	DISEASE 3380 3404	biventrikulární dilatace
+T60	DISEASE 3406 3462	Mitrální a aortální insuficience nejméně středně závažná
+T36	DISEASE 3497 3624	bikuspidální aortální chlopeň s infiltrací a destrukcí celého srostlého lístku, který prolabuje a způsobuje těžkou insuficienci
+T61	DISEASE 3927 3955	těžké chlopenní insuficienci
+T23	DISEASE 4118 4135	srdečního selhání
+T62	DISEASE 4166 4172	anémií
+T24	DISEASE 4384 4414	dekompenzaci srdečního selhání
+T64	DISEASE 4525 4543	infekci SARS-CoV-2
+T28	DISEASE 4581 4589	COVID-19
+T67	DISEASE 4779 4799	koronavirové infekce
+T25	DISEASE 4832 4849	srdečního selhání
+T68	DISEASE 4861 4883	infekční endokarditidy
+T17	DISEASE 4897 4913	chronické anémie
+T29	DISEASE 4955 4963	COVID-19
+T30	DISEASE 5515 5523	COVID-19
+T73	DISEASE 6210 6255	smíšeného kardiogenního a vazoplegického šoku
+T32	DISEASE 6524 6567	fibrilace síní s rychlou komorovou odpovědí
+T26	DISEASE 6808 6879	Dekompenzace převážně levostranného srdečního selhání v důsledku anémie
+T18	DISEASE 6882 6963	infekční aortální a mitrální endokarditidy způsobené E. faecium s těžkým selháním
+T19	DISEASE 6989 7030	chronické mikrocytární hypochromní anémie
+T13	DISEASE 7074 7119	Mírná respirační infekce způsobená SARS-CoV-2
+T31	DISEASE 7121 7159	Smíšený kardiogenní a vazoplegický šok
+T34	DISEASE 7261 7312	De novo fibrilace síní s rychlou komorovou odpovědí

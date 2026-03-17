@@ -1,0 +1,20 @@
+T2	PROCEDURE 188 200	radioterapie
+T11	PROCEDURE 289 307	hormonální terapií
+T12	PROCEDURE 321 344	radioterapeutické léčby
+T5	PROCEDURE 491 510	Fyzikální vyšetření
+T14	PROCEDURE 722 743	Laboratorní vyšetření
+T13	PROCEDURE 1009 1028	markerů malabsorpce
+T10	PROCEDURE 1030 1042	Transaminázy
+T9	PROCEDURE 1045 1062	enzymy cholestázy
+T15	PROCEDURE 1193 1214	Parazitologie stolice
+T6	PROCEDURE 1272 1298	Rentgenový snímek hrudníku
+T7	PROCEDURE 1347 1359	kolonoskopie
+T8	PROCEDURE 1551 1558	biopsie
+T16	PROCEDURE 1711 1765	CT vyšetření břicha a pánve s intravenózním kontrastem
+T17	PROCEDURE 1939 1963	radikální prostatektomii
+T23	PROCEDURE 2071 2083	radioterapií
+T1	PROCEDURE 2128 2143	střevní tranzit
+T24	PROCEDURE 2520 2532	radioterapii
+T3	PROCEDURE 2718 2739	léčba kortikosteroidy
+T4	PROCEDURE 2829 2848	parenterální výživa
+T18	PROCEDURE 3209 3228	laboratorními testy

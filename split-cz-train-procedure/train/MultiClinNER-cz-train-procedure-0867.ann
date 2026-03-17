@@ -1,0 +1,27 @@
+T41	PROCEDURE 336 355	FYZIKÁLNÍ VYŠETŘENÍ
+T37	PROCEDURE 991 1008	elektrokardiogram
+T39	PROCEDURE 1010 1013	EKG
+T40	PROCEDURE 1017 1046	transtorakální echokardiogram
+T42	PROCEDURE 1104 1123	Fyzikální vyšetření
+T43	PROCEDURE 1305 1321	Auskultace srdce
+T44	PROCEDURE 1362 1377	Auskultace plic
+T38	PROCEDURE 1489 1506	Elektrokardiogram
+T45	PROCEDURE 1668 1680	RTG hrudníku
+T49	PROCEDURE 1763 1775	Krevní obraz
+T46	PROCEDURE 1862 1871	Koagulace
+T55	PROCEDURE 1891 1900	Biochemie
+T47	PROCEDURE 2341 2353	Proteinogram
+T48	PROCEDURE 2364 2373	Sérologie
+T50	PROCEDURE 2443 2457	Echokardiogram
+T6	PROCEDURE 2726 2749	Hemodynamické vyšetření
+T10	PROCEDURE 3236 3254	Angiografie ledvin
+T11	PROCEDURE 3375 3401	Magnetická rezonance srdce
+T56	PROCEDURE 3403 3406	MRI
+T52	PROCEDURE 4120 4128	CT lebky
+T53	PROCEDURE 4405 4439	Echo doppler supraaortálních kmenů
+T51	PROCEDURE 4475 4489	echokardiogram
+T59	PROCEDURE 5496 5523	magnetickou rezonanci srdce
+T60	PROCEDURE 5962 5990	echokardiografické vyšetření
+T61	PROCEDURE 6053 6107	implantaci implantabilního kardioverteru-defibrilátoru
+T62	PROCEDURE 6109 6112	ICD
+T54	PROCEDURE 6516 6530	Implantace ICD

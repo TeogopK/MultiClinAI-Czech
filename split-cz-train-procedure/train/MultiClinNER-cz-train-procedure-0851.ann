@@ -1,0 +1,28 @@
+T32	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 586 603	elektrokardiogram
+T34	PROCEDURE 605 608	EKG
+T39	PROCEDURE 778 795	24hodinový Holter
+T40	PROCEDURE 903 934	transtorakální echokardiografie
+T47	PROCEDURE 1067 1076	sledování
+T6	PROCEDURE 1314 1332	srdeční auskultace
+T41	PROCEDURE 1396 1413	Plicní auskultace
+T7	PROCEDURE 1513 1528	hluboké palpaci
+T35	PROCEDURE 1710 1713	EKG
+T36	PROCEDURE 1868 1871	EKG
+T9	PROCEDURE 1949 1967	kardiostimulátorem
+T37	PROCEDURE 2044 2047	EKG
+T10	PROCEDURE 2126 2144	kardiostimulátorem
+T43	PROCEDURE 2259 2268	Koagulace
+T52	PROCEDURE 2326 2335	Biochemie
+T11	PROCEDURE 2486 2498	RTG hrudníku
+T44	PROCEDURE 2602 2631	Transtorakální echokardiogram
+T45	PROCEDURE 3131 3160	Transtorakální echokardiogram
+T46	PROCEDURE 3355 3384	transtorakální echokardiogram
+T50	PROCEDURE 3469 3486	KATETRIZACE SRDCE
+T49	PROCEDURE 3866 3902	elektrokardiografickým monitorováním
+T42	PROCEDURE 4144 4191	implantován trvalý bikamerální kardiostimulátor
+T38	PROCEDURE 4368 4371	EKG
+T19	PROCEDURE 4432 4460	echokardiografické vyšetření
+T51	PROCEDURE 4596 4610	koronarografie
+T20	PROCEDURE 4666 4682	ventrikulografii
+T48	PROCEDURE 5065 5110	DDDR definitivní implantace kardiostimulátoru

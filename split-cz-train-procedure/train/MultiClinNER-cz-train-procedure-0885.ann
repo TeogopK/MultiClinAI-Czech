@@ -1,0 +1,29 @@
+T32	PROCEDURE 209 227	diuretické terapie
+T51	PROCEDURE 306 325	FYZIKÁLNÍ VYŠETŘENÍ
+T35	PROCEDURE 454 469	antikoagulovaná
+T37	PROCEDURE 696 723	chirurgické revaskularizaci
+T38	PROCEDURE 769 811	srdeční resynchronizační terapií (ICD-CRT)
+T39	PROCEDURE 855 858	TTE
+T52	PROCEDURE 2144 2163	Fyzikální vyšetření
+T53	PROCEDURE 2486 2502	Auskultace srdce
+T54	PROCEDURE 2531 2546	Auskultace plic
+T55	PROCEDURE 2671 2688	Elektrokardiogram
+T56	PROCEDURE 2690 2693	EKG
+T57	PROCEDURE 2755 2797	komorová stimulace zprostředkovaná ICD-CRT
+T58	PROCEDURE 2799 2811	RTG hrudníku
+T63	PROCEDURE 3074 3083	Biochemie
+T59	PROCEDURE 3473 3494	Ferrokinetický profil
+T60	PROCEDURE 3591 3624	Transezofageální echokardiografie
+T62	PROCEDURE 3996 4012	ultrazvuk břicha
+T61	PROCEDURE 4169 4202	Transezofageální echokardiografie
+T48	PROCEDURE 4270 4301	transtorakální echokardiografii
+T65	PROCEDURE 4658 4673	terapie železem
+T66	PROCEDURE 4802 4820	diuretické terapii
+T68	PROCEDURE 4975 4994	antihumorální léčby
+T69	PROCEDURE 5462 5480	CT vyšetření srdce
+T70	PROCEDURE 5509 5535	implantace protézy Tendyne
+T71	PROCEDURE 5631 5654	perorální antikoagulaci
+T75	PROCEDURE 5967 5979	gastroskopií
+T76	PROCEDURE 5982 5994	kolonoskopií
+T77	PROCEDURE 6061 6080	kapslové endoskopie
+T14	PROCEDURE 6385 6400	Nositel ICD-CRT

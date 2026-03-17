@@ -1,0 +1,24 @@
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T25	PROCEDURE 631 645	koronarografie
+T2	PROCEDURE 756 784	implantací 1 lékového stentu
+T26	PROCEDURE 853 867	Echokardiogram
+T28	PROCEDURE 1260 1280	antidiabetická léčba
+T29	PROCEDURE 1306 1328	kardiální rehabilitace
+T32	PROCEDURE 1331 1350	Fyzikální vyšetření
+T33	PROCEDURE 1476 1492	Auskultace srdce
+T34	PROCEDURE 1536 1538	AP
+T35	PROCEDURE 1664 1689	Antropometrické vyšetření
+T5	PROCEDURE 1865 1875	srážlivost
+T6	PROCEDURE 1928 1949	Lipoproteinový profil
+T36	PROCEDURE 2050 2067	Elektrokardiogram
+T37	PROCEDURE 2125 2137	RTG hrudníku
+T27	PROCEDURE 2208 2222	Echokardiogram
+T38	PROCEDURE 2565 2587	Katetrizační vyšetření
+T42	PROCEDURE 2924 2951	PCI Pomocí vodicího katétru
+T44	PROCEDURE 3059 3102	implantace lékem uvolňovaného stentu Promus
+T30	PROCEDURE 3234 3256	kardiální rehabilitace
+T45	PROCEDURE 3295 3313	fyzického tréninku
+T46	PROCEDURE 3484 3500	diabetické léčby
+T48	PROCEDURE 3672 3697	perorálními antidiabetiky
+T49	PROCEDURE 3872 3887	inzulinoterapii
+T52	PROCEDURE 4122 4150	implantací 1 lékového stentu

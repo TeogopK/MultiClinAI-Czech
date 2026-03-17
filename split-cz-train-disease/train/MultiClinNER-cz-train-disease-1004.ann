@@ -1,0 +1,44 @@
+T16	DISEASE 69 100	Alergická reakce na sulfonamidy
+T17	DISEASE 109 123	toxické návyky
+T18	DISEASE 167 188	arteriální hypertenze
+T1	DISEASE 190 193	AHT
+T20	DISEASE 196 220	Karcinosarkom endometria
+T21	DISEASE 456 498	Infiltrující adenokarcinom tlustého střeva
+T38	DISEASE 503 522	tubulárním adenomem
+T22	DISEASE 586 615	Chronická normocytární anémie
+T29	DISEASE 697 719	polypu tlustého střeva
+T23	DISEASE 733 758	oboustranná tříselná kýla
+T24	DISEASE 1977 1998	komorová extrasystola
+T5	DISEASE 2185 2210	lézí zabírajících prostor
+T42	DISEASE 2711 2784	normální velikost levé komory se středně těžkou koncentrickou hypertrofií
+T25	DISEASE 2913 2965	Mírná aortální insuficience na degenerativní chlopni
+T26	DISEASE 3070 3096	trikuspidální insuficience
+T6	DISEASE 3098 3100	TI
+T27	DISEASE 3195 3216	perikardiální výpotek
+T8	DISEASE 3252 3291	levá komora s koncentrickou hypertrofií
+T43	DISEASE 3508 3549	subendokardiální a intramyokardiální edém
+T9	DISEASE 3880 3896	nekrózy myokardu
+T28	DISEASE 4058 4079	perikardiální výpotek
+T10	DISEASE 4109 4148	akutní myokarditidy s pseudohypertrofií
+T11	DISEASE 4160 4189	multifokálního edému myokardu
+T30	DISEASE 4404 4423	normocytární anémie
+T14	DISEASE 4976 4996	aplazie kostní dřeně
+T67	DISEASE 5380 5428	akutní koronární syndrom bez elevací ST segmentu
+T68	DISEASE 5430 5436	NSTEMI
+T69	DISEASE 5506 5533	ischemickou chorobu srdeční
+T31	DISEASE 5644 5650	MINOCA
+T70	DISEASE 5652 5724	akutní infarkt myokardu bez obstrukční aterosklerotické koronární nemoci
+T72	DISEASE 6089 6101	bradyarytmií
+T73	DISEASE 6216 6233	srdečním selháním
+T75	DISEASE 6262 6278	hypereozinofilii
+T33	DISEASE 6328 6352	eozinofilní myokarditida
+T40	DISEASE 6851 6867	hypereozinofilie
+T32	DISEASE 7184 7201	srdečního selhání
+T34	DISEASE 7207 7229	arytmických komplikací
+T81	DISEASE 7250 7268	poškození myokardu
+T35	DISEASE 7524 7555	Akutní eozinofilní myokarditida
+T41	DISEASE 7557 7573	Hypereozinofilie
+T19	DISEASE 7592 7613	Arteriální hypertenze
+T36	DISEASE 7615 7631	Chronická anémie
+T37	DISEASE 7633 7653	Karcinosarkom dělohy
+T39	DISEASE 7670 7699	Adenokarcinom tlustého střeva

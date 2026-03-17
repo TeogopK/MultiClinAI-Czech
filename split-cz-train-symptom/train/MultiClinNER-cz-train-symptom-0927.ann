@@ -1,0 +1,27 @@
+T61	SYMPTOM 192 199	horečku
+T1	SYMPTOM 202 210	zvracení
+T55	SYMPTOM 226 244	celkovou malátnost
+T53	SYMPTOM 254 261	bolesti
+T3	SYMPTOM 263 281	dystermické pocity
+T77	SYMPTOM 283 290	zimnici
+T4	SYMPTOM 292 298	pocení
+T2	SYMPTOM 301 309	zvracení
+T39	SYMPTOM 357 371	Normální barva
+T62	SYMPTOM 373 384	hydratovaný
+T68	SYMPTOM 387 396	prokrvený
+T36	SYMPTOM 397 406	Eupnoický
+T5	SYMPTOM 414 438	akce srdeční: pravidelná
+T71	SYMPTOM 442 462	systolickým šelestem
+T44	SYMPTOM 490 493	VCM
+T69	SYMPTOM 513 536	peritoneálního dráždění
+T6	SYMPTOM 572 574	SR
+T54	SYMPTOM 956 971	břicho normální
+T7	SYMPTOM 1015 1019	uzel
+T8	SYMPTOM 1170 1213	hemokultury: S. aureus citlivý na meticilin
+T9	SYMPTOM 1523 1542	febrilnímu syndromu
+T10	SYMPTOM 1815 1877	krevních kultur, které byly pozitivní na Staphylococcus aureus
+T78	SYMPTOM 1970 1977	šelestu
+T47	SYMPTOM 2283 2292	afebrilní
+T51	SYMPTOM 2294 2308	asymptomatický
+T11	SYMPTOM 2345 2378	sterilní sériovou krevní kulturou
+#T44	AnnotatorNotes T44	?? uknown abbreviaton

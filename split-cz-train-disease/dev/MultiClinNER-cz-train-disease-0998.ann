@@ -1,0 +1,23 @@
+T1	DISEASE 59 77	synkopální příhodě
+T25	DISEASE 288 302	lékové alergie
+T26	DISEASE 304 319	Aktivní kouření
+T33	DISEASE 340 362	Chronický alkoholismus
+T2	DISEASE 586 604	synkopální příhodu
+T27	DISEASE 1374 1396	hluboké žilní trombózy
+T3	DISEASE 1398 1401	HŽT
+T28	DISEASE 1601 1618	Hyperlaktacidémie
+T4	DISEASE 1623 1630	acidózy
+T5	DISEASE 1669 1685	nekrózy myokardu
+T29	DISEASE 2396 2413	plicní hypertenze
+T30	DISEASE 2453 2474	perikardiální výpotek
+T8	DISEASE 2604 2680	intrakoronárního trombu (bez komplikovaného plaku) v proximálně-mediálním DC
+T31	DISEASE 2721 2728	trombus
+T32	DISEASE 3052 3072	arteriální hypotenze
+T9	DISEASE 3418 3437	synkopální epizodou
+T10	DISEASE 3688 3738	akutního koronárního syndromu bez elevací ST úseku
+T11	DISEASE 3740 3746	NSTEMI
+T13	DISEASE 3946 4069	trombu v proximálním a středním DC, sekundárně vzniklého acetaldehydovou reakcí v důsledku interakce alkoholu se sulfiramem
+T16	DISEASE 4283 4294	trombu v DC
+T18	DISEASE 4511 4517	kouřit
+T21	DISEASE 4720 4849	Akutní non-Q infarkt myokardu inferiorní lokalizace, sekundární acetaldehydová reakce v důsledku interakce alkoholu a disulfiramu
+T22	DISEASE 4860 4911	intrakoronárního trombu v proximálním a středním DC

@@ -1,0 +1,88 @@
+T1	SYMPTOM 402 437	levá komora [LK] normální velikosti
+T24	SYMPTOM 460 495	normální ejekční frakce levé komory
+T25	SYMPTOM 698 713	sinusovém rytmu
+T29	SYMPTOM 1284 1305	zarudnutím v obličeji
+T30	SYMPTOM 1308 1327	nepříjemnými pocity
+T33	SYMPTOM 1557 1582	nemotornosti v pravé noze
+T35	SYMPTOM 2039 2054	sinusovém rytmu
+T3	SYMPTOM 2317 2332	krvácení z nosu
+T26	SYMPTOM 3070 3125	Asymptomatická pro dušnost, palpitace a bolest na hrudi
+T5	SYMPTOM 3089 3096	dušnost
+T6	SYMPTOM 3098 3107	palpitace
+T7	SYMPTOM 3110 3125	bolest na hrudi
+T41	SYMPTOM 3195 3225	progredující námahové dušnosti
+T42	SYMPTOM 3228 3241	suchého kašle
+T8	SYMPTOM 3412 3435	Přijatelný celkový stav
+T9	SYMPTOM 3441 3447	vědomí
+T43	SYMPTOM 3450 3478	orientovaný ve třech sférách
+T10	SYMPTOM 3480 3494	Normální barva
+T44	SYMPTOM 3496 3512	normohydratovaný
+T45	SYMPTOM 3515 3536	normálně perfundovaný
+T46	SYMPTOM 3538 3568	Karotidy rytmické a symetrické
+T11	SYMPTOM 3576 3601	zvýšená náplň krčních žil
+T12	SYMPTOM 3621 3644	akce srdeční pravidelná
+T13	SYMPTOM 3649 3668	vedlejších fenomenů
+T47	SYMPTOM 3674 3690	přídatných zvuků
+T48	SYMPTOM 3711 3751	vezikulární šelest zrušený v basech plic
+T27	SYMPTOM 3755 3804	suchými prasklinami až do středních plicních polí
+T50	SYMPTOM 3806 3887	Břicho: přítomna peristaltika, měkké a pod niveau,při hluboké palpaci nebolestivé
+T14	SYMPTOM 3895 3901	útvary
+T15	SYMPTOM 3906 3921	zvětšené orgány
+T16	SYMPTOM 3923 3949	Dolní končetiny: Bez otoků
+T51	SYMPTOM 3951 3980	Periferní pulzy jsou přítomny
+T2	SYMPTOM 4529 4544	sinusový rytmus
+T28	SYMPTOM 4562 4570	Levá osa
+T23	SYMPTOM 4689 4719	Hraniční kardiotorakální index
+T31	SYMPTOM 4780 4801	bibasální konsolidace
+T32	SYMPTOM 4804 4847	intersticiální kresbou až do středních polí
+T17	SYMPTOM 4997 5023	normální systolická funkce
+T34	SYMPTOM 5063 5088	abnormality kontraktility
+T36	SYMPTOM 5090 5117	Pseudonormální plnicí obraz
+T37	SYMPTOM 5119 5138	vysoké plnicí tlaky
+T18	SYMPTOM 5151 5206	Pravá komora s normální morfologií a systolickou funkcí
+T38	SYMPTOM 5342 5395	systolický tlak v plicnici (PAPs) v normálním rozmezí
+T19	SYMPTOM 5435 5463	Dutá žíla normálního kalibru
+T39	SYMPTOM 5609 5627	plicní konsolidace
+T40	SYMPTOM 5630 5648	alveolárním vzorem
+T49	SYMPTOM 5651 5675	vzduchovým bronchogramem
+T53	SYMPTOM 5717 5752	infiltráty charakteru mléčného skla
+T52	SYMPTOM 5764 5785	nodulárními opacitami
+T54	SYMPTOM 5800 5853	periferním hrubým retikulárním intersticiálním vzorem
+T58	SYMPTOM 6034 6088	Hlavní kmen plicní tepny 29 mm, na horní hranici normy
+T59	SYMPTOM 6172 6223	uzlem o velikosti 20 mm v levém laloku štítné žlázy
+T64	SYMPTOM 6225 6267	Difuzní zvýšený útlum jaterního parenchymu
+T20	SYMPTOM 6295 6318	Bronchoskopie: normální
+T65	SYMPTOM 6320 6377	Bronchoalveolární laváž s převážně neutrofilním fenotypem
+T67	SYMPTOM 6379 6408	bez mikrobiologických izolátů
+T68	SYMPTOM 6411 6452	patologické anatomie s tukovými makrofágy
+T21	SYMPTOM 6486 6527	mírná restriktivní ventilační abnormalita
+T70	SYMPTOM 6529 6561	Závažné snížení difuzní kapacity
+T55	SYMPTOM 6649 6682	normální respirační funkční testy
+T72	SYMPTOM 6684 6724	Izolované mírné snížení difuzní kapacity
+T73	SYMPTOM 6891 6954	periferní obraz převahy v bázích, intersticiální, broušené sklo
+T22	SYMPTOM 6957 6986	ztluštění interlobárních sept
+T74	SYMPTOM 7300 7330	zvýšeným zánětlivým parametrům
+T56	SYMPTOM 7333 7361	radiologickým plicním změnám
+T57	SYMPTOM 7363 7392	oblasti bibasální konsolidace
+T75	SYMPTOM 7534 7564	zvýšeným zánětlivým parametrům
+T60	SYMPTOM 7789 7808	systémové přetížení
+T61	SYMPTOM 7825 7848	mírně zvýšenému pro-BNP
+T62	SYMPTOM 8223 8235	plicní obraz
+T76	SYMPTOM 8289 8329	fibrotickými změnami chronického profilu
+T63	SYMPTOM 8479 8521	mírnou restriktivní ventilační abnormalitu
+T77	SYMPTOM 8524 8556	výrazné snížení difuzní kapacity
+T78	SYMPTOM 8607 8617	desaturace
+T79	SYMPTOM 8687 8742	bronchoskopii, která neodhalila žádný patologický nález
+T80	SYMPTOM 8752 8814	bronchoalveolární laváž prokázala převážně neutrofilní fenotyp
+T81	SYMPTOM 8816 8845	žádné mikrobiologické izoláty
+T83	SYMPTOM 8848 8890	patologickou anatomii s tukovými makrofágy
+T87	SYMPTOM 9155 9208	štítné žlázy, které prokázalo mnohočetné benigní uzly
+T84	SYMPTOM 9211 9239	normální funkcí štítné žlázy
+T69	SYMPTOM 10021 10088	postižení plicního intersticia v periferii charakteru mléčného skla
+T85	SYMPTOM 10093 10123	ztluštěním interlobárních sept
+T86	SYMPTOM 10209 10228	oblastí konsolidace
+T88	SYMPTOM 10381 10402	normální funkcí komor
+T66	SYMPTOM 10588 10605	nízkém afterloadu
+T71	SYMPTOM 10625 10640	sinusovém rytmu
+T89	SYMPTOM 10651 10679	recidivující krvácení z nosu
+T82	SYMPTOM 10851 10875	změn funkce štítné žlázy

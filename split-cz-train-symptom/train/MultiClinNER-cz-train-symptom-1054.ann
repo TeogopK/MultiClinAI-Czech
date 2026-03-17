@@ -1,0 +1,102 @@
+T272	SYMPTOM 697 706	zvracením
+T5	SYMPTOM 814 833	průjmovitou stolicí
+T27	SYMPTOM 836 844	pruritem
+T152	SYMPTOM 850 866	bolesti na hrudi
+T146	SYMPTOM 868 880	bez dušnosti
+T1	SYMPTOM 886 900	bolesti břicha
+T220	SYMPTOM 906 913	horečky
+T2	SYMPTOM 970 993	Přijatelný celkový stav
+T3	SYMPTOM 995 1012	Eupnoický v klidu
+T4	SYMPTOM 1014 1026	Bledost kůže
+T22	SYMPTOM 1057 1093	pravidelné ozvy s normální frekvencí
+T277	SYMPTOM 1099 1106	šelestů
+T216	SYMPTOM 1112 1128	přídatných zvuků
+T28	SYMPTOM 1130 1148	dýchání alveolární
+T153	SYMPTOM 1179 1208	vedlejších dechových fenoménů
+T110	SYMPTOM 1210 1262	Břicho: měkké a stlačitelné, při palpaci nebolestivé
+T240	SYMPTOM 1275 1298	peritoneálního dráždění
+T275	SYMPTOM 1320 1326	útvary
+T29	SYMPTOM 1331 1345	visceromegalie
+T6	SYMPTOM 1347 1373	Dolní končetiny: bez otoků
+T37	SYMPTOM 2500 2526	Žaludek s dobrou motilitou
+T38	SYMPTOM 2547 2564	normální sliznicí
+T39	SYMPTOM 2587 2615	drobných petechií ve fornixu
+T7	SYMPTOM 2641 2650	nevolnost
+T40	SYMPTOM 2682 2711	Centrický a průchodný pylorus
+T36	SYMPTOM 2809 2837	Nepatrné petechie ve fornixu
+T41	SYMPTOM 3695 3725	Stolice: normální kalprotektin
+T8	SYMPTOM 3745 3790	játra normální velikosti, hranic a echogenity
+T42	SYMPTOM 3862 3884	Normální žlučové cesty
+T43	SYMPTOM 3886 3932	Cava a suprahepatální vývody nejsou dilatované
+T44	SYMPTOM 3934 3975	průchodná vena portae normálního diametru
+T9	SYMPTOM 4040 4065	Normální velikost sleziny
+T26	SYMPTOM 4089 4111	Volná tekutina v pánvi
+T262	SYMPTOM 4118 4135	pleurální výpotek
+T45	SYMPTOM 4147 4177	malé množství tekutiny v pánvi
+T263	SYMPTOM 4240 4257	pleurální výpotek
+T10	SYMPTOM 4466 4504	rektifikace interventrikulárního septa
+T46	SYMPTOM 4506 4529	dilatace kmene plicnice
+T264	SYMPTOM 4634 4655	Perikardiální výpotek
+T47	SYMPTOM 4657 4684	Edém podkožní buněčné tkáně
+T265	SYMPTOM 4692 4709	pleurální výpotek
+T11	SYMPTOM 4719 4790	volná tekutina v pánvi, mezi kličkami, perihepatálně a v obou kapénkách
+T48	SYMPTOM 4821 4850	dilatace suprahepatálních žil
+T49	SYMPTOM 4872 4940	Slinivka břišní, slezina, nadledviny a ledviny bez znatelného nálezu
+T12	SYMPTOM 4952 5009	edematózní ztluštění stěny v céku a pravém tlustém střevě
+T257	SYMPTOM 5107 5138	Intraabdominální volná tekutina
+T13	SYMPTOM 5971 5986	sinusový rytmus
+T50	SYMPTOM 6037 6046	dlouhý PR
+T14	SYMPTOM 6074 6084	široké QRS
+T273	SYMPTOM 6143 6172	zvýšený kardiotorakální index
+T51	SYMPTOM 6174 6202	obraz kapilární redistribuce
+T15	SYMPTOM 6211 6229	dilatace levé síně
+T17	SYMPTOM 6237 6258	alveolární infiltráty
+T52	SYMPTOM 6270 6289	pleurálního výpotku
+T53	SYMPTOM 6333 6383	nehypertrofická levá komora (LK), těžce dilatovaná
+T250	SYMPTOM 6386 6428	těžce sníženou globální systolickou funkcí
+T30	SYMPTOM 6440 6473	globální hypokineze a asynchronie
+T127	SYMPTOM 6519 6524	EF LK
+T128	SYMPTOM 6561 6566	EF LK
+T20	SYMPTOM 6642 6671	Dvoufázové plnění levé komory
+T258	SYMPTOM 6703 6726	vysokými plnicími tlaky
+T54	SYMPTOM 6748 6771	Normální aortální kořen
+T55	SYMPTOM 6779 6795	známky koarktace
+T56	SYMPTOM 6936 6966	Dilatované suprahepatální cévy
+T266	SYMPTOM 7017 7038	perikardiální výpotek
+T31	SYMPTOM 7179 7198	Vysoké plnicí tlaky
+T267	SYMPTOM 7231 7252	perikardiální výpotek
+T33	SYMPTOM 7274 7290	Dominance: pravá
+T57	SYMPTOM 7295 7357	výtoku z koronárních tepen nejsou vizualizovány žádné anomálie
+T34	SYMPTOM 7375 7410	levý koronární kmen (LMCA) bez lézí
+T58	SYMPTOM 7412 7424	Normální LAD
+T59	SYMPTOM 7452 7477	normální diagonální větve
+T60	SYMPTOM 7493 7550	cirkumflexní tepna (Cx-OM) bez lézí nebo kalciových plátů
+T61	SYMPTOM 7588 7629	ACD bez kalcifikací nebo významné stenózy
+T32	SYMPTOM 7631 7654	Normální větve DP a TPL
+T268	SYMPTOM 7787 7808	perikardiální výpotek
+T62	SYMPTOM 7918 7932	zesílení septa
+T63	SYMPTOM 7934 7945	mléčné sklo
+T269	SYMPTOM 7959 7976	pleurální výpotek
+T129	SYMPTOM 8229 8233	LVEF
+T19	SYMPTOM 8407 8432	Generalizovaná hypokineze
+T270	SYMPTOM 8552 8573	perikardiální výpotek
+T35	SYMPTOM 8783 8811	defekty myokardiální perfuze
+T274	SYMPTOM 9111 9140	zvýšený kardiotorakální index
+T64	SYMPTOM 9142 9168	obraz redistribuce kapilár
+T16	SYMPTOM 9177 9195	dilatace levé síně
+T18	SYMPTOM 9203 9224	alveolární infiltráty
+T65	SYMPTOM 9236 9255	pleurálního výpotku
+T66	SYMPTOM 10390 10408	celkové hypokineze
+T67	SYMPTOM 10411 10428	mírné asynchronie
+T21	SYMPTOM 10500 10529	Dvoufázové plnění levé komory
+T68	SYMPTOM 10592 10615	Normální aortální kořen
+T69	SYMPTOM 10648 10675	pravá komora (RV) nefunkční
+T70	SYMPTOM 10759 10796	Suprahepatální cévy nejsou dilatované
+T271	SYMPTOM 10804 10825	perikardiální výpotek
+T140	SYMPTOM 10867 10885	Těžká dysfunkce LK
+T210	SYMPTOM 11000 11008	dušnosti
+T71	SYMPTOM 11011 11039	edematizace dolních končetin
+T159	SYMPTOM 11066 11073	diurézy
+T72	SYMPTOM 11936 11948	širokého QRS
+T73	SYMPTOM 11960 11971	asynchronie
+T145	SYMPTOM 12704 12718	asymptomatický

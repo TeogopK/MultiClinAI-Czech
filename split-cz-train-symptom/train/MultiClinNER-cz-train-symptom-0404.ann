@@ -1,0 +1,25 @@
+T2	SYMPTOM 111 122	tachykardií
+T4	SYMPTOM 226 251	tupé bolesti v levém boku
+T1	SYMPTOM 254 268	mikrohematurie
+T3	SYMPTOM 352 432	velký solidní útvar o rozměrech 20x16x13 cm vycházející z levého ledvinného pólu
+T5	SYMPTOM 695 708	hyperurikémii
+T6	SYMPTOM 710 745	normální rentgenový snímek hrudníku
+T25	SYMPTOM 773 816	obraz s mírně zvýšeným vychytáváním traceru
+T26	SYMPTOM 988 1045	ložiska vychytávání traceru, jedno v levé kyčelní lopatce
+T7	SYMPTOM 1587 1591	masy
+T8	SYMPTOM 1933 1938	Nádor
+T9	SYMPTOM 3625 3689	malé zvětšení měkkých tkání za ocasem pankreatu a lůžkem ledviny
+T12	SYMPTOM 3901 3941	CT vyšetření břicha, které bylo normální
+T10	SYMPTOM 3978 4036	vyšetření kostí, které neprokázalo žádný patologický nález
+T13	SYMPTOM 5637 5659	konstitučními příznaky
+T11	SYMPTOM 5690 5695	emesí
+T27	SYMPTOM 5847 5874	masou v místě chirurgického
+T15	SYMPTOM 6024 6056	Celkový stav pacienta se zhoršil
+T28	SYMPTOM 6070 6102	bolesti břicha a bederní oblasti
+T14	SYMPTOM 6143 6178	útvar o velikosti 5 cm v epigastriu
+T17	SYMPTOM 6207 6213	útvaru
+T16	SYMPTOM 6664 6674	hyperemézy
+T18	SYMPTOM 6793 6809	zvracení stolice
+T23	SYMPTOM 6864 6890	retroperitoneálního útvaru
+T19	SYMPTOM 6904 6931	postupnému zhoršování stavu
+T24	SYMPTOM 6976 6983	zemřela

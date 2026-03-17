@@ -1,0 +1,34 @@
+T1	SYMPTOM 215 230	febrilní špičku
+T2	SYMPTOM 381 388	horečka
+T13	SYMPTOM 456 499	postupující dušností při námaze až do klidu
+T14	SYMPTOM 501 530	pleuritickou bolestí na hrudi
+T15	SYMPTOM 533 555	otoky dolních končetin
+T16	SYMPTOM 597 615	celkový stav dobrý
+T17	SYMPTOM 619 637	klidu tachypnoický
+T18	SYMPTOM 642 673	mírně zvýšená náplň krčních žil
+T19	SYMPTOM 725 791	abnormální pokles systolického tlaku a amplitudy pulzu při nádechu
+T20	SYMPTOM 793 807	paradoxní pulz
+T3	SYMPTOM 812 821	Afebrilní
+T21	SYMPTOM 825 861	Kardiorespirační auskultace rytmická
+T4	SYMPTOM 867 874	šelestů
+T5	SYMPTOM 876 887	tachykardie
+T7	SYMPTOM 914 950	dýchaní čísté alveolární oboustranně
+T22	SYMPTOM 961 990	basálním krepitem bilaterálně
+T23	SYMPTOM 993 1018	levou bazální hypofonézou
+T24	SYMPTOM 1022 1073	Břicho měkké a stlačitelné, při palpaci nebolestivé
+T25	SYMPTOM 1080 1094	visceromegalie
+T8	SYMPTOM 1098 1142	Dolní končetiny s mírným pretibiálním edémem
+T6	SYMPTOM 1242 1253	tachykardie
+T26	SYMPTOM 1287 1311	nízky R kmit od V1 do V3
+T9	SYMPTOM 1334 1378	biochemie s normálními ionty a funkcí ledvin
+T10	SYMPTOM 1452 1462	lymfopenie
+T11	SYMPTOM 1693 1718	Generalizovaná hypokineze
+T27	SYMPTOM 1721 1757	těžce sníženou ejekční frakcí (LVEF)
+T28	SYMPTOM 2200 2220	inspiračního kolapsu
+T29	SYMPTOM 3699 3715	febrilní špičkou
+T30	SYMPTOM 3914 3957	pozitivita antinukleárních protilátek (ANA)
+T31	SYMPTOM 3959 3978	pozitivita anti-DNA
+T32	SYMPTOM 3980 4007	snížená hladina komplementu
+T12	SYMPTOM 4065 4086	hypergamagrobulinémie
+T33	SYMPTOM 4088 4099	zvýšená LDH
+T34	SYMPTOM 4102 4128	pozitivita Coombsova testu

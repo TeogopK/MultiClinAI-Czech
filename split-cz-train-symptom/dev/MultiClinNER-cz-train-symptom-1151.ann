@@ -1,0 +1,35 @@
+T19	SYMPTOM 495 515	anginózních příznaků
+T1	SYMPTOM 858 872	asymptomatický
+T2	SYMPTOM 992 1007	bolest na hrudi
+T3	SYMPTOM 1063 1078	Bledost sliznic
+T22	SYMPTOM 1080 1097	Normoperfundovaný
+T23	SYMPTOM 1100 1116	normohydratovaný
+T4	SYMPTOM 1341 1350	Afebrilní
+T5	SYMPTOM 1352 1377	zvýšená náplň krčních žil
+T24	SYMPTOM 1387 1410	Akce srdeční pravidelná
+T6	SYMPTOM 1416 1423	šelestů
+T25	SYMPTOM 1429 1442	třecích zvuků
+T26	SYMPTOM 1461 1488	zeslabený vezikulární šeles
+T27	SYMPTOM 1493 1504	krepitacemi
+T7	SYMPTOM 1527 1543	výdechové sípání
+T28	SYMPTOM 1546 1553	chrůpky
+T8	SYMPTOM 1555 1572	Břicho: nepopsané
+T29	SYMPTOM 1574 1600	Dolní končetiny: bez otoku
+T30	SYMPTOM 1602 1648	Pozitivní a symetrické pulzy na všech úrovních
+T9	SYMPTOM 1684 1699	sinusový rytmus
+T10	SYMPTOM 1701 1712	Normální PR
+T31	SYMPTOM 1730 1785	ST vzestupně 4 mm V3-V4, 1-2 mm inferiorně a 1 mm ve V5
+T32	SYMPTOM 1787 1806	ST pod úrovní ve V6
+T33	SYMPTOM 1817 1830	T ostré V3-V4
+T34	SYMPTOM 2232 2257	RTG hrudníku: zvýšená CTI
+T35	SYMPTOM 2273 2304	Výrazná hilarita s redistribucí
+T41	SYMPTOM 2345 2360	Nedilatovaná LK
+T11	SYMPTOM 2373 2391	Silně snížená LVEF
+T16	SYMPTOM 2403 2452	Akineze dolních, apikálních a septálních segmentů
+T42	SYMPTOM 2454 2504	Hypokineze bazálních a předních středních segmentů
+T12	SYMPTOM 2506 2519	Normální CCDD
+T13	SYMPTOM 2550 2567	Normální kořen Ao
+T37	SYMPTOM 3284 3309	přední a dolní elevaci ST
+T36	SYMPTOM 3335 3420	akinezi dolního, apikálního a septálního segmentu s těžce sníženou systolickou funkcí
+T14	SYMPTOM 4579 4585	zemřel
+T15	SYMPTOM 5111 5117	Exitus

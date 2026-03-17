@@ -1,0 +1,39 @@
+T57	PROCEDURE 0 8	ANAMNÉZA
+T1	PROCEDURE 10 28	nynější onemocnění
+T42	PROCEDURE 31 50	FYZIKÁLNÍ VYŠETŘENÍ
+T75	PROCEDURE 137 153	Rodinná anamnéza
+T76	PROCEDURE 746 768	Kardiologická anamnéza
+T24	PROCEDURE 863 882	Srdeční katetrizace
+T123	PROCEDURE 989 1020	perkutánní koronární intervence
+T67	PROCEDURE 1022 1025	PCI
+T25	PROCEDURE 1127 1141	Echokardiogram
+T120	PROCEDURE 1298 1320	kardiální rehabilitace
+T136	PROCEDURE 1660 1681	laboratorní vyšetření
+T107	PROCEDURE 2116 2134	elektrokardiogramu
+T26	PROCEDURE 2136 2139	EKG
+T62	PROCEDURE 2191 2209	Echokardiografické
+T139	PROCEDURE 2234 2260	zátěžovou echokardiografii
+T3	PROCEDURE 2284 2315	jednofotonová emisní tomografie
+T29	PROCEDURE 2317 2322	SPECT
+T43	PROCEDURE 2540 2559	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 2717 2744	Kardiopulmonální auskultace
+T66	PROCEDURE 2941 2974	KATETRIZACE SRDCE; koronarografie
+T34	PROCEDURE 3052 3101	Perkutánní transluminální koronární angioplastika
+T35	PROCEDURE 3103 3107	PTCA
+T36	PROCEDURE 3111 3137	implantace lékového stentu
+T44	PROCEDURE 3300 3321	laboratorní vyšetření
+T37	PROCEDURE 3337 3349	krevní obraz
+T39	PROCEDURE 3436 3449	jaterní testy
+T27	PROCEDURE 3537 3540	EKG
+T30	PROCEDURE 3707 3712	SPECT
+T7	PROCEDURE 3738 3751	zátěžový test
+T28	PROCEDURE 4008 4011	EKG
+T8	PROCEDURE 4013 4032	Tomografické snímky
+T38	PROCEDURE 4164 4175	gated-SPECT
+T18	PROCEDURE 4410 4430	medikamentózní léčba
+T121	PROCEDURE 4489 4511	kardiální rehabilitace
+T41	PROCEDURE 4737 4799	léčbu inhibitory proprotein konvertázy subtilizin/kexin typu 9
+T109	PROCEDURE 5416 5437	hypolipidemická léčba
+T40	PROCEDURE 5553 5566	jaterní testy
+T32	PROCEDURE 5583 5598	SPECT vyšetření
+T122	PROCEDURE 5958 5983	kompletní revaskularizací

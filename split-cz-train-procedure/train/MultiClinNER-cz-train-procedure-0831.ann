@@ -1,0 +1,40 @@
+T58	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T63	PROCEDURE 158 177	Chirurgické zákroky
+T64	PROCEDURE 179 204	oboustranná prsní protéza
+T45	PROCEDURE 871 888	elektrokardiogram
+T97	PROCEDURE 1123 1132	Vyšetření
+T46	PROCEDURE 1254 1281	Kardiopulmonální auskultace
+T151	PROCEDURE 1556 1565	sledování
+T125	PROCEDURE 1716 1734	elektrokardiogramu
+T47	PROCEDURE 1810 1824	echokardiogram
+T123	PROCEDURE 1955 2028	elektrofyziologické vyšetření, při kterém byla po perfuzi izoproterenolem
+T49	PROCEDURE 2331 2337	ablace
+T113	PROCEDURE 2360 2373	betablokátory
+T50	PROCEDURE 2397 2400	EKG
+T51	PROCEDURE 2730 2733	EKG
+T71	PROCEDURE 2901 2913	Krevní obraz
+T92	PROCEDURE 3218 3228	Srážlivost
+T7	PROCEDURE 3239 3251	RTG hrudníku
+T48	PROCEDURE 3314 3330	Echokardiografie
+T54	PROCEDURE 4123 4132	MRI srdce
+T52	PROCEDURE 4341 4373	Koronarografie: radiální přístup
+T53	PROCEDURE 4414 4430	Ventrikulografie
+T75	PROCEDURE 4519 4548	Elektrofyziologické vyšetření
+T10	PROCEDURE 4729 4752	perfuzi izoproterenolem
+T11	PROCEDURE 5155 5169	Kultivace krve
+T12	PROCEDURE 5172 5176	moči
+T60	PROCEDURE 5189 5198	Sérologie
+T61	PROCEDURE 5249 5258	sérologie
+T13	PROCEDURE 5323 5337	TVMS vyšetření
+T140	PROCEDURE 5580 5606	magnetické rezonance srdce
+T56	PROCEDURE 5618 5632	koronarografie
+T121	PROCEDURE 5719 5748	echokardiografickém vyšetření
+T57	PROCEDURE 5902 5932	sérologie na Trypanosoma cruzi
+T154	PROCEDURE 6074 6095	sérologické vyšetření
+T59	PROCEDURE 6098 6101	PCR
+T16	PROCEDURE 6265 6304	jícnového a gastroduodenálního tranzitu
+T124	PROCEDURE 6364 6393	elektrofyziologické vyšetření
+T17	PROCEDURE 6415 6426	ablaci SMVT
+T18	PROCEDURE 6512 6594	Radiofrekvenční aplikace byly provedeny v anterolaterální oblasti mitrálního anulu
+T20	PROCEDURE 6685 6729	implantaci samoimplantabilního defibrilátoru
+T22	PROCEDURE 7031 7061	Implantace jednokomorového ICD

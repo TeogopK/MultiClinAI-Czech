@@ -1,0 +1,12 @@
+T2	PROCEDURE 43 98	CT vyšetření diagnostikován stenózující nádor sigmoidea
+T5	PROCEDURE 197 217	endoskopická biopsie
+T1	PROCEDURE 306 355	paliativní střelnou kolostomií v příčném tračníku
+T6	PROCEDURE 358 400	chemoterapií první linie protokolem FOLFOX
+T7	PROCEDURE 394 441	FOLFOX (oxaliplatina-5-fluorouracil-leukovorin)
+T8	PROCEDURE 787 812	CT vyšetření krční páteře
+T9	PROCEDURE 958 965	biopsie
+T11	PROCEDURE 1153 1181	imunohistochemických technik
+T3	PROCEDURE 1389 1437	chemoterapie druhé linie podle protokolu FOLFORI
+T10	PROCEDURE 1430 1471	FOLFORI (CPT11-5 fluorouracil-leukovorin)
+T12	PROCEDURE 1474 1510	gingivální analgetickou radioterapii
+T4	PROCEDURE 1669 1678	nekropsie

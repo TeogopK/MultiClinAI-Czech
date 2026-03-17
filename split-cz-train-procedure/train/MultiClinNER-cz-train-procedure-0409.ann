@@ -1,0 +1,15 @@
+T1	PROCEDURE 437 456	Fyzikální vyšetření
+T6	PROCEDURE 558 585	kardiorespirační auskultace
+T15	PROCEDURE 670 677	palpaci
+T3	PROCEDURE 810 819	analgezie
+T17	PROCEDURE 839 844	NSAID
+T4	PROCEDURE 910 917	biopsie
+T2	PROCEDURE 939 958	fyzikální vyšetření
+T11	PROCEDURE 1063 1096	hematologie, vzorec, krevní obraz
+T10	PROCEDURE 1104 1113	biochemie
+T12	PROCEDURE 1116 1160	funkčními testy jater, ledvin a štítné žlázy
+T9	PROCEDURE 1162 1174	proteinogram
+T7	PROCEDURE 1332 1358	rentgenový snímek hrudníku
+T8	PROCEDURE 1386 1393	Mantoux
+T13	PROCEDURE 1431 1460	sérologie viru Epsteina Barra
+T5	PROCEDURE 1578 1585	Biopsie

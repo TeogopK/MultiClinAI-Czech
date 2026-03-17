@@ -1,0 +1,34 @@
+T41	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 266 295	echokardiografickém vyšetření
+T5	PROCEDURE 301 311	ergometrii
+T6	PROCEDURE 353 367	antikoagulován
+T8	PROCEDURE 558 579	Počítačová tomografie
+T7	PROCEDURE 581 583	CT
+T12	PROCEDURE 929 953	bronchoskopii s aspirací
+T11	PROCEDURE 956 986	pozitronovou emisní tomografii
+T36	PROCEDURE 988 991	PET
+T55	PROCEDURE 1302 1334	Anatomicko-patologické vyšetření
+T37	PROCEDURE 1371 1388	genetická analýza
+T38	PROCEDURE 1602 1618	paliativní léčba
+T39	PROCEDURE 1688 1700	chemoterapie
+T57	PROCEDURE 1719 1721	CT
+T60	PROCEDURE 2157 2169	CT vyšetření
+T61	PROCEDURE 2673 2685	CT vyšetření
+T40	PROCEDURE 2916 2942	léčba kličkovým diuretikem
+T42	PROCEDURE 3038 3057	Fyzikální vyšetření
+T43	PROCEDURE 3179 3198	Fyzikální vyšetření
+T44	PROCEDURE 3307 3323	Auskultace srdce
+T45	PROCEDURE 3408 3425	Elektrokardiogram
+T63	PROCEDURE 3556 3572	krevních testech
+T64	PROCEDURE 3915 3931	diuretické léčby
+T35	PROCEDURE 4052 4066	echokardiogram
+T70	PROCEDURE 4858 4876	echokardiografický
+T51	PROCEDURE 5132 5145	funkce ledvin
+T52	PROCEDURE 5325 5338	funkce ledvin
+T50	PROCEDURE 5496 5510	jaterní enzymy
+T80	PROCEDURE 5647 5659	CT vyšetření
+T46	PROCEDURE 5844 5859	kortikosteroidy
+T47	PROCEDURE 5861 5871	analgetika
+T48	PROCEDURE 6053 6072	kličkové diuretikum
+T82	PROCEDURE 6503 6542	Holterovské monitorování krevního tlaku
+T49	PROCEDURE 6611 6630	Kličkové diuretikum

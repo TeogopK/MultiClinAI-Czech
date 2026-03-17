@@ -1,0 +1,10 @@
+T1	SYMPTOM 200 206	zdraví
+T2	SYMPTOM 292 299	zemřeli
+T3	SYMPTOM 342 349	zemřeli
+T5	SYMPTOM 366 387	respirační onemocnění
+T6	SYMPTOM 413 439	přiměřený váhový přírůstek
+T4	SYMPTOM 423 439	váhový přírůstek
+T7	SYMPTOM 530 539	zemřelých
+T8	SYMPTOM 630 687	snížené absolutní hladiny imunoglobulinů a jejich podtříd
+T10	SYMPTOM 829 857	absolutní pokles B lymfocytů
+T9	SYMPTOM 876 906	relativní převahou T lymfocytů

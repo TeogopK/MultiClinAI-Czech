@@ -1,0 +1,18 @@
+T2	PROCEDURE 62 75	hysterektomie
+T11	PROCEDURE 131 195	transuretrální resekci infiltrujícího karcinomu močového měchýře
+T12	PROCEDURE 218 235	radioterapeutická
+T13	PROCEDURE 405 417	chemoterapií
+T14	PROCEDURE 513 525	CT vyšetření
+T17	PROCEDURE 528 546	scintigrafii kostí
+T15	PROCEDURE 788 806	potřebou transfuzí
+T1	PROCEDURE 823 843	celková kolonoskopie
+T16	PROCEDURE 966 1004	léčba byla provedena argonovou plazmou
+T5	PROCEDURE 1006 1009	APC
+T8	PROCEDURE 1085 1149	steroidními klystýry, kyselinou 5-aminosalicylovou a sukralfátem
+T7	PROCEDURE 1187 1211	terapeutické rektoskopie
+T6	PROCEDURE 1329 1378	transfuzi celkem 21 koncentrátů červených krvinek
+T10	PROCEDURE 1446 1483	perorální a intravenózní ferroterapie
+T3	PROCEDURE 1613 1631	spinální anestezie
+T4	PROCEDURE 1634 1649	anální dilatace
+T18	PROCEDURE 1916 1938	požadavků na transfuzi
+T9	PROCEDURE 1997 2009	kolonoskopie

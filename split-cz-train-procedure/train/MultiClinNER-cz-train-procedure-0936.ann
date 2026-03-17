@@ -1,0 +1,28 @@
+T1	PROCEDURE 0 17	Klinická anamnéza
+T51	PROCEDURE 418 433	osobní anamnéza
+T27	PROCEDURE 636 655	Fyzikální vyšetření
+T2	PROCEDURE 785 814	přívodem O2 v nosních brýlích
+T28	PROCEDURE 902 924	neurologické vyšetření
+T3	PROCEDURE 1121 1128	palpaci
+T29	PROCEDURE 1252 1278	Rentgenový snímek hrudníku
+T30	PROCEDURE 1345 1362	Elektrokardiogram
+T31	PROCEDURE 1465 1473	Hemogram
+T36	PROCEDURE 1558 1567	Koagulace
+T37	PROCEDURE 1613 1622	Biochemie
+T47	PROCEDURE 1748 1768	Venózní krevní plyny
+T32	PROCEDURE 1838 1853	Močový sediment
+T98	PROCEDURE 1982 2003	analytickém vyšetření
+T4	PROCEDURE 2006 2036	elektrokardiografickému nálezu
+T33	PROCEDURE 2123 2139	echokardiografie
+T34	PROCEDURE 2498 2521	CT angiografie hrudníku
+T38	PROCEDURE 2778 2798	Antikoagulační léčba
+T99	PROCEDURE 2865 2893	žilní dopplerovské vyšetření
+T65	PROCEDURE 3056 3099	dopplerovském echokardiografickém vyšetření
+T100	PROCEDURE 3241 3262	vyšetření autoimunity
+T5	PROCEDURE 3324 3340	Vyšetření železa
+T48	PROCEDURE 3342 3364	Vyšetření štítné žlázy
+T6	PROCEDURE 3366 3384	nádorových markerů
+T35	PROCEDURE 3402 3414	proteinogram
+T7	PROCEDURE 3497 3523	vyšetřením 24hodinové moči
+T52	PROCEDURE 3581 3594	antikoagulaci
+T14	PROCEDURE 3681 3717	implantace filtru do dolní duté žíly

@@ -1,0 +1,42 @@
+T1	DISEASE 77 93	lékových alergií
+T2	DISEASE 95 107	hypertonička
+T4	DISEASE 1061 1066	STEMI
+T6	DISEASE 1807 1820	Dilatovaná LS
+T7	DISEASE 1841 1862	Mitrální insuficience
+T8	DISEASE 1865 1867	TI
+T46	DISEASE 2414 2427	Dilatovaná LS
+T47	DISEASE 2435 2456	mitrální insuficience
+T48	DISEASE 2459 2485	trikuspidální insuficience
+T9	DISEASE 2509 2570	ischemické léze postihující obě mozkové a mozečkové hemisféry
+T10	DISEASE 2598 2624	intraparenchymové krvácení
+T52	DISEASE 3463 3523	středně těžkého až těžkého difuzního encefalického postižení
+T51	DISEASE 3549 3630	hlavních lobárních ani segmentálních tepnách nebyla zjištěna plicní tromboembolie
+T11	DISEASE 3632 3668	Bronchiektázie předního segmentu LSI
+T22	DISEASE 3859 3881	Globální kardiomegalie
+T53	DISEASE 3893 3926	ztluštěním myokardu v levé komoře
+T23	DISEASE 3970 4009	oboustranný laminární pleurální výpotek
+T12	DISEASE 4011 4035	Prevaskulární adenopatie
+T54	DISEASE 4079 4103	mediastinální adenopatie
+T55	DISEASE 4120 4148	retroperitoneální adenopatie
+T13	DISEASE 4166 4201	Oboustranné kortikální cysty ledvin
+T14	DISEASE 4218 4241	digmoidní divertikulóza
+T56	DISEASE 4402 4415	Dilatovaná LS
+T58	DISEASE 4442 4463	mitrální insuficience
+T57	DISEASE 4466 4468	TI
+T59	DISEASE 4581 4607	eozinofilní kardiomyopatií
+T60	DISEASE 4647 4695	cévní mozkovou příhodu s levostrannou hemiplegií
+T61	DISEASE 4770 4807	infarkty v obou mozkových hemisférách
+T62	DISEASE 4906 4933	hypereozinofilního syndromu
+T63	DISEASE 5044 5064	eozinofilní leukemii
+T64	DISEASE 5249 5307	hypereozinofilii se systémovými důsledky (kardiální a CNS)
+T19	DISEASE 5645 5706	polymikrobiální infekce dekubitu, při které byl izolován SAMS
+T65	DISEASE 5755 5765	rektoragie
+T68	DISEASE 5949 5961	rektorrhagie
+T70	DISEASE 6132 6210	Primární hypersinofilní syndrom s těžkým kardiálním a neurologickým postižením
+T15	DISEASE 6211 6237	Eozinofilní kardiomyopatie
+T16	DISEASE 6249 6276	mozkové ischemické infarkty
+T17	DISEASE 6277 6291	Selhání ledvin
+T18	DISEASE 6292 6307	Trombocytopenie
+T20	DISEASE 6308 6331	Polymikrobiální infekce
+T21	DISEASE 6332 6382	Krvácení z dolní části gastrointestinálního traktu
+T71	DISEASE 6383 6386	AHT

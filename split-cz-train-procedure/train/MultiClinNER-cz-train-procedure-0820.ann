@@ -1,0 +1,33 @@
+T41	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T42	PROCEDURE 1122 1141	Fyzikální vyšetření
+T43	PROCEDURE 1412 1428	Auskultace srdce
+T44	PROCEDURE 1460 1485	Auskultace dýchacích cest
+T45	PROCEDURE 1723 1745	Neurologické vyšetření
+T46	PROCEDURE 1869 1891	Perimetrické vyšetření
+T2	PROCEDURE 2033 2043	slyšitelný
+T47	PROCEDURE 2265 2282	Elektrokardiogram
+T3	PROCEDURE 2378 2390	Krevní testy
+T48	PROCEDURE 2593 2602	Koagulace
+T58	PROCEDURE 2715 2724	Biochemie
+T73	PROCEDURE 2956 2998	Posteroanteriorní a laterální RTG hrudníku
+T65	PROCEDURE 3244 3276	CT vyšetření lebky bez kontrastu
+T59	PROCEDURE 3279 3293	angio-CT mozku
+T67	PROCEDURE 3318 3326	CT lebky
+T49	PROCEDURE 3715 3776	CT angiografie supraaortálních kmenů mozku a Willisova okruhu
+T114	PROCEDURE 4111 4144	mozku magnetickou rezonancí (MRI)
+T10	PROCEDURE 4147 4156	angio-MRI
+T70	PROCEDURE 4195 4205	podání IVC
+T75	PROCEDURE 4545 4558	Vyšetření cév
+T50	PROCEDURE 4673 4679	Holter
+T51	PROCEDURE 5065 5096	Transtorakální echokardiografie
+T52	PROCEDURE 5530 5563	Transezofageální echokardiografie
+T14	PROCEDURE 5565 5592	transezofageální endoskopie
+T126	PROCEDURE 5606 5612	sedaci
+T15	PROCEDURE 5923 5952	podání fyziologického roztoku
+T54	PROCEDURE 5994 6018	transtorakální vyšetření
+T55	PROCEDURE 6322 6348	magnetická rezonance mozku
+T56	PROCEDURE 6600 6634	elektrokardiografické monitorování
+T18	PROCEDURE 6635 6643	Holterem
+T57	PROCEDURE 6730 6780	transtorakální a transezofageální echokardiografie
+T125	PROCEDURE 7126 7140	resekci nádoru
+T39	PROCEDURE 7154 7168	opravy chlopně

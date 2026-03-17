@@ -1,0 +1,36 @@
+T46	PROCEDURE 94 96	AP
+T3	PROCEDURE 253 266	arteriografii
+T4	PROCEDURE 269 311	embolizaci obou vnitřních čelistních tepen
+T6	PROCEDURE 389 391	CT
+T32	PROCEDURE 393 396	MRI
+T33	PROCEDURE 399 402	EEG
+T9	PROCEDURE 710 724	renální funkce
+T50	PROCEDURE 727 732	ionty
+T10	PROCEDURE 772 785	Jaterní testy
+T34	PROCEDURE 818 830	krevní obraz
+T35	PROCEDURE 834 837	EKG
+T37	PROCEDURE 937 949	RTG hrudníku
+T38	PROCEDURE 1027 1043	Echokardiografie
+T42	PROCEDURE 1413 1427	Koronarografie
+T43	PROCEDURE 1692 1706	Angio-CT aorty
+T54	PROCEDURE 2009 2025	diuretické léčbě
+T55	PROCEDURE 2293 2325	operaci náhrady aortální chlopně
+T56	PROCEDURE 2327 2369	opravu vzestupné aorty (chlopenní trubice)
+T44	PROCEDURE 2372 2388	koronární bypass
+T47	PROCEDURE 2464 2488	kardiochirurgický zákrok
+T58	PROCEDURE 2645 2649	NIMV
+T36	PROCEDURE 2829 2832	EKG
+T51	PROCEDURE 2852 2877	enzymy poškození myokardu
+T39	PROCEDURE 2903 2919	echokardiografie
+T62	PROCEDURE 3161 3178	kardiochirurgické
+T61	PROCEDURE 3218 3236	kardiochirurgickém
+T40	PROCEDURE 3409 3425	echokardiografie
+T45	PROCEDURE 3832 3892	resekce aortální chlopně: biologická protéza Mitroflow č. 25
+T65	PROCEDURE 4003 4023	mamární bypass k ADA
+T48	PROCEDURE 4053 4074	Levá pleurální drenáž
+T52	PROCEDURE 4081 4100	mediastinální drény
+T67	PROCEDURE 4287 4303	vyčištění dutiny
+T41	PROCEDURE 4550 4566	echokardiografie
+T71	PROCEDURE 5062 5093	dieta bez tuku pro zdravé srdce
+T72	PROCEDURE 5314 5332	inzulinové terapie
+T49	PROCEDURE 5551 5610	Náhrada aortální chlopně biologickou protézou Mitflow č. 25

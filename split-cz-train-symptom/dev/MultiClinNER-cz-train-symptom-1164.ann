@@ -1,0 +1,88 @@
+T1	SYMPTOM 70 85	bolest na hrudi
+T22	SYMPTOM 88 95	synkopa
+T14	SYMPTOM 172 185	kožní vyrážka
+T117	SYMPTOM 513 529	bolestí na hrudi
+T109	SYMPTOM 623 637	asymptomatická
+T35	SYMPTOM 743 762	kmen ACS bez stenoz
+T36	SYMPTOM 790 809	RC a ACD bez stenoz
+T37	SYMPTOM 1073 1109	Velikost LK a kontraktilita normální
+T38	SYMPTOM 1142 1148	únavou
+T118	SYMPTOM 1175 1212	bolestí na hrudi při minimální námaze
+T24	SYMPTOM 1289 1309	sinusová tachykardie
+T39	SYMPTOM 1383 1398	anginu pectoris
+T115	SYMPTOM 1401 1410	bolestivý
+T3	SYMPTOM 1548 1576	dušnost při minimální námaze
+T137	SYMPTOM 1678 1695	hrudní diskomfort
+T40	SYMPTOM 1898 1906	synkopou
+T119	SYMPTOM 1923 1939	bolestí na hrudi
+T5	SYMPTOM 1998 2037	bolest v hrudníku vyzařující do čelisti
+T135	SYMPTOM 2067 2075	dušností
+T157	SYMPTOM 2099 2113	ztrátou vědomí
+T6	SYMPTOM 2115 2121	Bolest
+T156	SYMPTOM 2248 2258	zmatenosti
+T2	SYMPTOM 2298 2313	bolest na hrudi
+T84	SYMPTOM 2400 2409	Afebrilní
+T41	SYMPTOM 2489 2495	klidný
+T151	SYMPTOM 2496 2510	spolupracující
+T8	SYMPTOM 2512 2515	BEG
+T30	SYMPTOM 2517 2519	NC
+T31	SYMPTOM 2522 2524	NH
+T90	SYMPTOM 2526 2535	Eupnoický
+T32	SYMPTOM 2542 2545	RCR
+T160	SYMPTOM 2551 2558	šelestů
+T136	SYMPTOM 2561 2577	vedlejších zvuků
+T9	SYMPTOM 2583 2585	IY
+T99	SYMPTOM 2587 2626	Palpovatelné a symetrické pedální pulzy
+T42	SYMPTOM 2628 2669	palpovatelné a symetrické femorální pulzy
+T103	SYMPTOM 2675 2678	VCM
+T148	SYMPTOM 2683 2702	vedlejších fenomenů
+T10	SYMPTOM 2704 2727	břicho: měkké prohmatné
+T144	SYMPTOM 2733 2748	zvětšení orgánů
+T147	SYMPTOM 2761 2784	peritoneálního dráždění
+T159	SYMPTOM 2792 2799	šelesty
+T11	SYMPTOM 2801 2823	zachovaná peristaltika
+T19	SYMPTOM 2847 2854	SR/s.r.
+T12	SYMPTOM 2872 2883	normální PR
+T13	SYMPTOM 2885 2893	úzké QRS
+T43	SYMPTOM 2938 2956	CTI v mezích normy
+T44	SYMPTOM 2958 2981	mediastinum nerozšířené
+T45	SYMPTOM 2983 3002	brániční úhly volné
+T33	SYMPTOM 3247 3277	Biomarkerová křivka: negativní
+T46	SYMPTOM 3641 3675	celkově normální systolická funkce
+T98	SYMPTOM 3677 3706	Normální velikost levé komory
+T15	SYMPTOM 3708 3746	Normální globální systolická funkce LK
+T27	SYMPTOM 3763 3796	abnormality segmentální kontrakce
+T16	SYMPTOM 3917 3944	Levá síň normální velikosti
+T17	SYMPTOM 3946 3977	Pravá komora normální velikosti
+T47	SYMPTOM 4011 4061	stent v proximální přední sestupné tepně průchodný
+T116	SYMPTOM 4235 4258	prekordiálními bolestmi
+T48	SYMPTOM 4263 4283	angiografických změn
+T158	SYMPTOM 4338 4354	náhradním rytmem
+T23	SYMPTOM 4384 4399	sinusový rytmus
+T18	SYMPTOM 4512 4532	Normální klidové EKG
+T50	SYMPTOM 4540 4564	omezená funkční kapacita
+T49	SYMPTOM 4596 4602	únavou
+T120	SYMPTOM 4605 4621	bolestí na hrudi
+T29	SYMPTOM 4877 4890	ANA negativní
+T34	SYMPTOM 5548 5575	PFR (červen 2014): normální
+T20	SYMPTOM 5648 5650	SR
+T26	SYMPTOM 5699 5728	záchvaty sinusové tachykardie
+T51	SYMPTOM 5863 5874	tachykardie
+T25	SYMPTOM 5910 5930	sinusová tachykardie
+T21	SYMPTOM 5956 5965	hypotenze
+T150	SYMPTOM 5999 6007	slabosti
+T143	SYMPTOM 6009 6019	malátnosti
+T52	SYMPTOM 6021 6027	nauzey
+T110	SYMPTOM 6029 6037	bledosti
+T53	SYMPTOM 6039 6059	hrudního dyskomfortu
+T54	SYMPTOM 6061 6077	distální cyanózy
+T139	SYMPTOM 6080 6098	intenzivní astenií
+T55	SYMPTOM 6101 6114	zhoršené řečí
+T56	SYMPTOM 6151 6172	sinusovou tachykardií
+T28	SYMPTOM 6423 6474	funkce komor, plnící tlaky a normální srdeční výdej
+#T8	AnnotatorNotes T8	?? uknown abbreviation
+#T30	AnnotatorNotes T30	?? uknown abbreviation
+#T31	AnnotatorNotes T31	?? uknown abbreviation
+#T32	AnnotatorNotes T32	?? uknown abbreviation
+#T9	AnnotatorNotes T9	?? uknown abbreviation
+#T103	AnnotatorNotes T103	?? uknown abbreviation

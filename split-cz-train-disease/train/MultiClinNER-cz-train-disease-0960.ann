@@ -1,0 +1,59 @@
+T23	DISEASE 87 101	lékové alergie
+T53	DISEASE 103 117	Toxické návyky
+T1	DISEASE 119 126	kuřačka
+T25	DISEASE 217 238	arteriální hypertenze
+T73	DISEASE 240 243	AHT
+T26	DISEASE 252 269	diabetes mellitus
+T27	DISEASE 271 273	DM
+T51	DISEASE 276 318	Dyslipidemie, jako je hypertriglyceridemie
+T28	DISEASE 393 411	Jaterní hemangiomy
+T29	DISEASE 453 483	Primární biliární cholangitida
+T30	DISEASE 513 544	Generalizovaná úzkostná porucha
+T2	DISEASE 1076 1093	katarální příhodu
+T3	DISEASE 1532 1539	synkopu
+T31	DISEASE 2223 2245	hluboké žilní trombózy
+T32	DISEASE 2247 2250	HŽT
+T5	DISEASE 3341 3360	pleurálního výpotku
+T6	DISEASE 3585 3628	Středně těžká až těžká systolická dysfunkce
+T7	DISEASE 3792 3827	středně těžkou mitrální regurgitaci
+T8	DISEASE 4047 4090	Mírná až střední trikuspidální insuficience
+T33	DISEASE 4125 4146	perikardiální výpotek
+T54	DISEASE 4148 4174	Dilatovaná dolní dutá žíla
+T10	DISEASE 4360 4377	apikálního trombu
+T35	DISEASE 4698 4733	Středně těžká mitrální insuficience
+T36	DISEASE 4874 4896	intrakavitární trombus
+T44	DISEASE 4941 4959	poškození myokardu
+T11	DISEASE 5456 5493	Mírná centrální mitrální insuficience
+T12	DISEASE 5657 5706	mírně až středně těžká trikuspidální insuficience
+T34	DISEASE 5903 5924	perikardiální výpotek
+T37	DISEASE 5958 5971	edém myokardu
+T14	DISEASE 6020 6032	myokarditidu
+T15	DISEASE 6048 6075	ischemickou chorobu srdeční
+T17	DISEASE 6401 6419	respirační infekce
+T38	DISEASE 6515 6539	námahová angina pectoris
+T45	DISEASE 6684 6702	poškození myokardu
+T19	DISEASE 6996 7078	středně těžkou systolickou dysfunkci levé komory v důsledku středoapikální akineze
+T20	DISEASE 7102 7147	významnou mitrální regurgitací v důsledku SAM
+T21	DISEASE 7162 7203	aliasingu ve výtokovém traktu levé komory
+T22	DISEASE 7263 7330	inferolaterální akutní koronární syndrom s elevací úseku ST (STEMI)
+T82	DISEASE 7324 7329	STEMI
+T81	DISEASE 7332 7345	perikarditidu
+T40	DISEASE 7365 7383	tako-tsubo syndrom
+T43	DISEASE 7511 7525	koronární léze
+T41	DISEASE 7610 7628	tako-tsubo syndrom
+T46	DISEASE 7671 7689	poškození myokardu
+T83	DISEASE 7747 7761	perikarditidou
+T84	DISEASE 7852 7872	arteriální hypotenzi
+T87	DISEASE 8080 8098	arytmických příhod
+T93	DISEASE 8530 8543	perikarditidy
+T39	DISEASE 8932 8951	tako-tsubo syndromu
+T48	DISEASE 8975 9017	poškození myokardu v důsledku myokarditidy
+T47	DISEASE 9023 9049	ischemické choroby srdeční
+T42	DISEASE 9061 9079	Tako-tsubo syndrom
+T49	DISEASE 9081 9101	Akutní perikarditida
+T24	DISEASE 9116 9128	myokarditidy
+T98	DISEASE 9171 9229	středně těžká až těžká mitrální regurgitace v důsledku SAM
+T99	DISEASE 9238 9257	tako-tsubo syndromu
+T100	DISEASE 9364 9384	tako-tsubo syndromem
+T50	DISEASE 9508 9521	aktivní kuřák
+T52	DISEASE 9523 9535	dyslipidémie

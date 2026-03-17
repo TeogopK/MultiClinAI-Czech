@@ -1,0 +1,30 @@
+T48	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 360 375	antikoagulována
+T49	PROCEDURE 1288 1307	Fyzikální vyšetření
+T35	PROCEDURE 1312 1332	fyzikálním vyšetření
+T50	PROCEDURE 1790 1807	Elektrokardiogram
+T38	PROCEDURE 1929 1941	Krevní testy
+T51	PROCEDURE 2034 2057	arteriální krevní plyny
+T52	PROCEDURE 2289 2301	RTG hrudníku
+T53	PROCEDURE 2427 2456	Transtorakální echokardiogram
+T45	PROCEDURE 3478 3522	neinvazivní ventilační podpora pomocí Bi-PAP
+T46	PROCEDURE 3524 3546	intravenózní diuretika
+T47	PROCEDURE 3808 3821	betablokátory
+T31	PROCEDURE 4017 4045	echokardiografické vyšetření
+T56	PROCEDURE 4346 4360	koronarografie
+T54	PROCEDURE 4740 4754	beta-blokátory
+T63	PROCEDURE 5064 5080	elektrofyziology
+T57	PROCEDURE 5188 5229	endovaskulární elektrofyziologická studie
+T58	PROCEDURE 5278 5300	elektrická kardioverze
+T59	PROCEDURE 5854 5857	EKG
+T60	PROCEDURE 5991 6012	neinvazivní ventilace
+T11	PROCEDURE 6086 6099	betablokátorů
+T30	PROCEDURE 6275 6294	tachykardiomyopatii
+T67	PROCEDURE 6472 6489	antikoagulovaného
+T68	PROCEDURE 6545 6616	implantaci kardiostimulátoru-srdeční resynchronizační terapie (CCP-CRT)
+T69	PROCEDURE 6631 6663	ablaci atrioventrikulárního uzlu
+T70	PROCEDURE 6696 6754	implantována endokavární levostranná endokardiální CRT-PCM
+T62	PROCEDURE 7216 7248	ablace atrioventrikulárního uzlu
+T71	PROCEDURE 7472 7502	echokardiografickým vyšetřením
+T61	PROCEDURE 7765 7828	Implantace kardiostimulátoru - srdeční resynchronizační terapie
+T72	PROCEDURE 7831 7846	uzlinová ablace

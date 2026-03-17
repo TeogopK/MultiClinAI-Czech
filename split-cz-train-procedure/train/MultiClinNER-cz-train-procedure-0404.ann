@@ -1,0 +1,38 @@
+T7	PROCEDURE 70 85	císařského řezu
+T2	PROCEDURE 270 279	Ultrazvuk
+T8	PROCEDURE 291 336	břišní a břišní počítačová axiální tomografie
+T9	PROCEDURE 338 340	CT
+T11	PROCEDURE 586 607	rozšiřující vyšetření
+T10	PROCEDURE 610 627	celkovým rozborem
+T3	PROCEDURE 718 744	rentgenový snímek hrudníku
+T12	PROCEDURE 746 757	kostní sken
+T13	PROCEDURE 1215 1253	vyšetření magnetickou rezonancí břicha
+T25	PROCEDURE 1280 1282	CT
+T14	PROCEDURE 1379 1413	radikální levostrannou nefrektomii
+T32	PROCEDURE 1415 1573	odstranění veškerého pararenálního tuku a levé nadledviny a paraaortální a interaortokavální lymfadenektomii od renální tepny do 3 cm od společné ilické tepny
+T33	PROCEDURE 1575 1590	Odstranění masy
+T34	PROCEDURE 1716 1747	anatomo-patologického vyšetření
+T35	PROCEDURE 1749 1781	Anatomicko-patologické vyšetření
+T5	PROCEDURE 2046 2059	mikroskopicky
+T4	PROCEDURE 2184 2206	Imunofenotypový profil
+T6	PROCEDURE 2416 2467	paraaortálního řetězce bylo izolováno 16 adenopatií
+T15	PROCEDURE 2592 2648	V interaortokaválním řetězci bylo izolováno 6 adenopatií
+T36	PROCEDURE 3223 3245	radikálně resekovaného
+T16	PROCEDURE 3285 3303	scintigrafie kostí
+T37	PROCEDURE 3427 3462	doplňkovou chemoterapeutickou léčbu
+T17	PROCEDURE 3609 3621	CT vyšetření
+T18	PROCEDURE 3833 3840	operaci
+T38	PROCEDURE 3926 3945	CT vyšetření břicha
+T19	PROCEDURE 4003 4018	vyšetření kostí
+T21	PROCEDURE 4139 4155	rentgen hrudníku
+T22	PROCEDURE 4241 4254	CT vyšetřením
+T20	PROCEDURE 4433 4472	levostranné videotorakoskopie s biopsií
+T1	PROCEDURE 4628 4640	chemoterapie
+T23	PROCEDURE 4679 4697	chemoterapeutickým
+T24	PROCEDURE 5297 5314	CT vyšetření těla
+T29	PROCEDURE 5812 5825	CT vyšetřením
+T30	PROCEDURE 5963 5975	CT vyšetření
+T31	PROCEDURE 6134 6154	fyzikálním vyšetření
+T26	PROCEDURE 6310 6322	chemoterapii
+T27	PROCEDURE 6328 6345	imunoterapeutická
+T28	PROCEDURE 6413 6444	léčbu lipozomálním adriamycinem

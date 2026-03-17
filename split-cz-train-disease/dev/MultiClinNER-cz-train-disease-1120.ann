@@ -1,0 +1,26 @@
+T1	DISEASE 92 108	toxických návyků
+T40	DISEASE 519 542	akutní aortální syndrom
+T42	DISEASE 1216 1219	HŽT
+T41	DISEASE 1996 2019	akutní aortální syndrom
+T5	DISEASE 2059 2104	Levá hlavní koronární tepna (LMCA): subokluze
+T6	DISEASE 2326 2359	Cx: ostiální a proximální disekce
+T43	DISEASE 2568 2595	trvalá komorová tachykardie
+T44	DISEASE 3072 3098	Těžká systolická dysfunkce
+T45	DISEASE 3256 3293	Inferoapikální dyskinetické aneuryzma
+T12	DISEASE 3714 3716	TI
+T13	DISEASE 3784 3840	Mírný perikardiální výpotek přiléhající k pravým dutinám
+T14	DISEASE 3976 3993	apikálního trombu
+T50	DISEASE 4023 4051	inferoapikálního aneuryzmatu
+T51	DISEASE 4088 4105	kardiogenním šoku
+T52	DISEASE 4110 4132	akutním plicním edémem
+T57	DISEASE 4248 4251	SVT
+T59	DISEASE 4435 4454	mírnou dysfunkci LK
+T60	DISEASE 4648 4667	těžkou dysfunkci LK
+T46	DISEASE 4699 4736	inferoapikální dyskinetické aneuryzma
+T61	DISEASE 4749 4770	systémového přetížení
+T62	DISEASE 4785 4807	chlopenní srdeční vady
+T48	DISEASE 5326 5343	srdečního selhání
+T69	DISEASE 5418 5496	Akutní koronární syndrom s elevací úseku ST (STEACS) anterolaterální Killip IV
+T70	DISEASE 5463 5469	STEACS
+T49	DISEASE 5498 5536	Spontánní disekce koronární tepny LMCA
+T47	DISEASE 5611 5629	Těžká dysfunkce LK

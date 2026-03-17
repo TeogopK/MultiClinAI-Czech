@@ -1,0 +1,19 @@
+T8	PROCEDURE 164 182	lékařské vyšetření
+T13	PROCEDURE 209 217	anamnéze
+T1	PROCEDURE 300 311	Klidové EKG
+T4	PROCEDURE 583 586	EKG
+T3	PROCEDURE 643 652	ablovanou
+T2	PROCEDURE 667 678	klidové EKG
+T16	PROCEDURE 809 825	echokardiografií
+T5	PROCEDURE 827 852	Holter 24hodinového rytmu
+T9	PROCEDURE 899 951	Zátěžový test na běžícím pásu s Bruceovým protokolem
+T19	PROCEDURE 1112 1143	elektrofyziologickému vyšetření
+T12	PROCEDURE 1148 1149	)
+T14	PROCEDURE 1152 1173	ablaci anomální dráhy
+T10	PROCEDURE 1207 1263	elektrokatetrů: jeden pro diagnostiku s Hisovým záznamem
+T15	PROCEDURE 1276 1323	mapování a ablaci v oblasti perihilózního septa
+T23	PROCEDURE 1382 1396	radiofrekvence
+T11	PROCEDURE 1382 1474	radiofrekvence (RF) byla aplikována přes obousměrnou atrioventrikulární (AV) akcesorní dráhu
+T24	PROCEDURE 1778 1784	ablací
+T6	PROCEDURE 1834 1837	EKG
+T7	PROCEDURE 1840 1857	24hodinový holter

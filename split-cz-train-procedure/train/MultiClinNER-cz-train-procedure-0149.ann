@@ -1,0 +1,14 @@
+T9	PROCEDURE 311 338	Celkové fyzikální vyšetření
+T5	PROCEDURE 374 392	Rektální vyšetření
+T2	PROCEDURE 502 518	biopsie prostaty
+T7	PROCEDURE 572 588	Ultrazvuk břicha
+T3	PROCEDURE 809 852	jednoduché a kontrastní CT vyšetření ledvin
+T16	PROCEDURE 887 897	ultrazvuku
+T17	PROCEDURE 987 996	kontrastu
+T4	PROCEDURE 1079 1105	Rentgenový snímek hrudníku
+T6	PROCEDURE 1108 1126	scintigrafie kostí
+T10	PROCEDURE 1318 1366	laparotomie pro akutní perforovanou apendicitidu
+T11	PROCEDURE 1505 1555	tenkojehlovou aspirační biopsii léze pravé ledviny
+T1	PROCEDURE 1761 1773	analogy LHRH
+T8	PROCEDURE 1776 1789	antiandrogeny
+T12	PROCEDURE 1859 1878	CT vyšetření ledvin

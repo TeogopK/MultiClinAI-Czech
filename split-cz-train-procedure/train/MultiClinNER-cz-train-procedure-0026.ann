@@ -1,0 +1,22 @@
+T10	PROCEDURE 140 161	Laboratorní vyšetření
+T6	PROCEDURE 236 252	Ultrazvuk břicha
+T1	PROCEDURE 301 305	ERCP
+T16	PROCEDURE 365 389	provedena sfinkterotomie
+T13	PROCEDURE 500 509	vyšetření
+T14	PROCEDURE 629 638	vyšetření
+T15	PROCEDURE 640 661	Laboratorní vyšetření
+T7	PROCEDURE 772 789	CT břicha a pánve
+T11	PROCEDURE 1100 1111	analgetický
+T12	PROCEDURE 1121 1123	CT
+T9	PROCEDURE 1298 1305	operace
+T3	PROCEDURE 1424 1452	perioperační cholangiografie
+T4	PROCEDURE 1517 1533	cholecystektomie
+T5	PROCEDURE 1536 1552	evakuace abscesu
+T8	PROCEDURE 1566 1602	drénu v pravém subfrenickém prostoru
+T2	PROCEDURE 1653 1685	širokospektrá antibiotická léčba
+T17	PROCEDURE 1687 1707	Kultivace v tekutině
+T25	PROCEDURE 1727 1738	hemokultury
+T18	PROCEDURE 1763 1801	podány 4 koncentráty červených krvinek
+T26	PROCEDURE 1803 1825	Ultrazvukové vyšetření
+T19	PROCEDURE 1836 1842	snímky
+T20	PROCEDURE 1898 1916	zavedení pig-tailu

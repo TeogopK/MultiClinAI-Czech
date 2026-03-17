@@ -1,0 +1,19 @@
+T3	PROCEDURE 529 548	Fyzikální vyšetření
+T7	PROCEDURE 688 715	Kardiopulmonální auskultace
+T20	PROCEDURE 892 904	Krevní testy
+T5	PROCEDURE 906 918	Krevní obraz
+T22	PROCEDURE 921 931	srážlivost
+T23	PROCEDURE 970 984	Jaterní profil
+T9	PROCEDURE 986 998	Transaminázy
+T10	PROCEDURE 1034 1049	Železitý profil
+T11	PROCEDURE 1052 1063	autoimunita
+T13	PROCEDURE 1075 1106	Sérologie viru hepatitidy B a C
+T4	PROCEDURE 1118 1134	Ultrazvuk břicha
+T2	PROCEDURE 1363 1373	MRI břicha
+T1	PROCEDURE 1637 1649	Gastroskopie
+T14	PROCEDURE 1714 1723	insuflaci
+T6	PROCEDURE 1837 1852	jaterní biopsie
+T12	PROCEDURE 2079 2091	PAS diastáza
+T8	PROCEDURE 2486 2496	histologie
+T33	PROCEDURE 2560 2570	analytické
+T34	PROCEDURE 2632 2647	množství železa

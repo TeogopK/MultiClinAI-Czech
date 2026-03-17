@@ -1,0 +1,24 @@
+T26	PROCEDURE 0 8	ANAMNÉZA
+T18	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 249 270	imunosupresivní léčbu
+T77	PROCEDURE 293 319	transplantaci kostní dřeně
+T44	PROCEDURE 369 377	anamnéza
+T17	PROCEDURE 580 589	transfuze
+T19	PROCEDURE 737 756	Fyzikální vyšetření
+T20	PROCEDURE 901 917	Auskultace srdce
+T74	PROCEDURE 962 972	slyšitelné
+T21	PROCEDURE 988 1003	Auskultace plic
+T69	PROCEDURE 1156 1163	palpaci
+T3	PROCEDURE 1314 1326	Krevní obraz
+T31	PROCEDURE 1592 1603	hemokultury
+T35	PROCEDURE 1673 1685	RTG hrudníku
+T22	PROCEDURE 1721 1735	Echokardiogram
+T40	PROCEDURE 2686 2717	Transezofageální echokardiogram
+T39	PROCEDURE 2765 2768	TTE
+T47	PROCEDURE 3339 3357	antibiotické léčbě
+T76	PROCEDURE 3360 3369	transfuzi
+T78	PROCEDURE 3512 3555	transtorakální echokardiografické vyšetření
+T37	PROCEDURE 3646 3649	TEE
+T24	PROCEDURE 3665 3697	širokospektrá antibiotická léčba
+T46	PROCEDURE 3767 3785	antibiotické léčby
+T9	PROCEDURE 3842 3863	imunosupresivní léčbu

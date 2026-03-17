@@ -1,0 +1,25 @@
+T1	PROCEDURE 173 192	Fyzikální vyšetření
+T2	PROCEDURE 366 381	Renální biopsie
+T10	PROCEDURE 609 632	Přímá imunofluorescence
+T13	PROCEDURE 692 715	elektronová mikroskopie
+T4	PROCEDURE 965 980	jaterní biopsie
+T5	PROCEDURE 1581 1650	antiproteinurická léčba blokádou systému renin-angiotenzin-aldosteron
+T6	PROCEDURE 1751 1762	hemodialýza
+T7	PROCEDURE 1846 1886	transplantace ledviny od zemřelého dárce
+T8	PROCEDURE 2047 2113	imunosuprese kortikosteroidy, kyselinou mykofenolovou a takrolimem
+T38	PROCEDURE 2194 2207	transplantaci
+T39	PROCEDURE 2335 2356	Vyšetření autoimunity
+T11	PROCEDURE 2358 2393	dárcovských specifických protilátek
+T16	PROCEDURE 2444 2498	(polymerázová řetězová reakce enzymů) séra na BK virus
+T15	PROCEDURE 2445 2480	polymerázová řetězová reakce enzymů
+T9	PROCEDURE 2516 2545	dopplerovský ultrazvuk ledvin
+T3	PROCEDURE 2643 2658	renální biopsie
+T18	PROCEDURE 2660 2680	Světelná mikroskopie
+T12	PROCEDURE 2796 2813	Imunofluorescence
+T14	PROCEDURE 2867 2890	elektronová mikroskopie
+T19	PROCEDURE 2983 3006	Imunohistochemie na C4d
+T20	PROCEDURE 3077 3082	štěpu
+T46	PROCEDURE 3104 3119	kortikosteroidů
+T21	PROCEDURE 3193 3264	antiproteinurické léčby s blokádou systému renin-angiotenzin-aldosteron
+T22	PROCEDURE 3272 3312	antagonisty receptoru pro angiotenzin II
+T17	PROCEDURE 3314 3317	ARB

@@ -1,0 +1,18 @@
+T5	PROCEDURE 647 681	somatická a neurologická vyšetření
+T6	PROCEDURE 932 967	hodnoty arteriálních krevních plynů
+T10	PROCEDURE 1023 1049	Rentgenový snímek hrudníku
+T11	PROCEDURE 1197 1226	ultrazvukové vyšetření břicha
+T7	PROCEDURE 1229 1256	CT hrudníku, břicha a pánve
+T8	PROCEDURE 1530 1573	transtorakální echokardiografické vyšetření
+T16	PROCEDURE 1759 1780	mechanickou ventilaci
+T2	PROCEDURE 1839 1859	mechanická ventilace
+T3	PROCEDURE 1999 2013	CT a MRI lebky
+T4	PROCEDURE 2326 2359	FNAB supraklavikulární adenopatie
+T9	PROCEDURE 2520 2532	virová nálož
+T12	PROCEDURE 2614 2700	Mikrobiologická vyšetření krve, moči, sputa, brokoaspirátu a punkce lymfatických uzlin
+T13	PROCEDURE 2752 2783	Barvení vzorků z dýchacích cest
+T14	PROCEDURE 2828 2876	Sérologie na toxoplasmu, hepatotropní viry a RPR
+T1	PROCEDURE 3150 3176	biopsie lymfatických uzlin
+T25	PROCEDURE 3179 3197	nádorových markerů
+T15	PROCEDURE 3430 3458	rozšířené nádorové vyšetření
+T17	PROCEDURE 3470 3492	léčbu polychemoterapií

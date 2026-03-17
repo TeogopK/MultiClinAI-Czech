@@ -1,0 +1,29 @@
+T8	PROCEDURE 189 223	levostrannou subtotální kolektomii
+T5	PROCEDURE 226 253	ileosigmoidální anastomózou
+T6	PROCEDURE 255 303	Anatomopatologické vyšetření vzorku z kolektomie
+T3	PROCEDURE 293 303	kolektomie
+T4	PROCEDURE 546 575	drenáž abscesu v břišní stěně
+T9	PROCEDURE 644 656	krevní testy
+T1	PROCEDURE 724 738	vyšetření moči
+T7	PROCEDURE 823 825	CT
+T11	PROCEDURE 1054 1064	kolektomii
+T10	PROCEDURE 1152 1181	ultrazvukové vyšetření varlat
+T12	PROCEDURE 1372 1381	Vyšetření
+T17	PROCEDURE 1536 1579	chirurgické exploraci ve spinální anestezii
+T14	PROCEDURE 1561 1579	spinální anestezii
+T13	PROCEDURE 1606 1623	inguinální incize
+T15	PROCEDURE 1625 1674	extrakce pravého varlete a spermatického provazce
+T2	PROCEDURE 2104 2125	intraoperační biopsie
+T16	PROCEDURE 2240 2306	radikální pravostrannou orchiektomii včetně spermatického provazce
+T18	PROCEDURE 2352 2374	patologicko-anatomická
+T20	PROCEDURE 2790 2797	operaci
+T19	PROCEDURE 2867 2896	doplňující léčbě chemoterapií
+T22	PROCEDURE 2884 2896	chemoterapií
+T23	PROCEDURE 2952 2964	CT vyšetření
+T25	PROCEDURE 2989 3001	orchiektomii
+T26	PROCEDURE 3120 3145	zobrazovacích vyšetřeních
+T21	PROCEDURE 3147 3149	CT
+T27	PROCEDURE 3212 3222	anastomózy
+T28	PROCEDURE 3263 3284	zobrazovací vyšetření
+T29	PROCEDURE 3298 3305	operaci
+T24	PROCEDURE 3334 3352	léčbu chemoterapií

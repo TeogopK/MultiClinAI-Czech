@@ -1,0 +1,35 @@
+T1	PROCEDURE 121 128	očkován
+T38	PROCEDURE 312 333	antibiotickou terapií
+T70	PROCEDURE 608 617	vyšetření
+T3	PROCEDURE 636 656	saturace hemoglobinu
+T4	PROCEDURE 702 724	volným průtokem maskou
+T30	PROCEDURE 1046 1068	neurologické vyšetření
+T71	PROCEDURE 1232 1253	laboratorní vyšetření
+T72	PROCEDURE 1521 1546	bakteriologické vyšetření
+T73	PROCEDURE 1576 1585	vyšetření
+T8	PROCEDURE 1630 1658	polymerázové řetězové reakce
+T31	PROCEDURE 1660 1663	PCR
+T26	PROCEDURE 1714 1733	elektroencefalogram
+T27	PROCEDURE 1735 1738	EEG
+T36	PROCEDURE 2062 2071	Vyšetření
+T13	PROCEDURE 2515 2536	laboratorní vyšetření
+T54	PROCEDURE 2644 2660	jaterních enzymů
+T34	PROCEDURE 2723 2732	Kultivace
+T59	PROCEDURE 2748 2759	hemokultury
+T60	PROCEDURE 2820 2847	kultivace mozkomíšního moku
+T32	PROCEDURE 2850 2853	PCR
+T43	PROCEDURE 3067 3108	dopplerovské echokardiografické vyšetření
+T37	PROCEDURE 3315 3346	Zobrazení magnetickou rezonancí
+T35	PROCEDURE 3348 3351	MRI
+T40	PROCEDURE 3486 3491	Léčba
+T28	PROCEDURE 3709 3725	echokardiografie
+T33	PROCEDURE 3775 3803	Echokardiografické vyšetření
+T42	PROCEDURE 3956 3959	MRI
+T55	PROCEDURE 4087 4112	kardiochirurgická operace
+T47	PROCEDURE 4121 4137	vyčistit chlopeň
+T48	PROCEDURE 4154 4172	opravit perikardem
+T49	PROCEDURE 4213 4231	mechanická chlopeň
+T50	PROCEDURE 4234 4269	antikoagulační léčba; antikoagulace
+T57	PROCEDURE 4309 4319	kortikoidy
+T51	PROCEDURE 4322 4344	zevní kardiostimulátor
+T29	PROCEDURE 4440 4452	fyzioterapie

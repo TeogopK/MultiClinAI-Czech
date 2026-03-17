@@ -1,0 +1,46 @@
+T1	DISEASE 79 89	hypertenze
+T9	DISEASE 91 103	dyslipidemie
+T10	DISEASE 105 110	CHOPN
+T2	DISEASE 112 144	ischemické cévní mozkové příhody
+T3	DISEASE 194 239	dilatační srdeční choroby ischemického původu
+T11	DISEASE 267 286	inferolaterální AMI
+T5	DISEASE 361 420	těžce dilatovanou levou komoru s těžkou komorovou dysfunkcí
+T6	DISEASE 518 546	mírnou mitrální insuficiencí
+T7	DISEASE 571 583	valvulopatií
+T58	DISEASE 1488 1501	plicní proces
+T16	DISEASE 1607 1625	respirační infekce
+T17	DISEASE 1628 1658	dekompenzace srdečního selhání
+T22	DISEASE 1672 1711	chronickou ischemickou chorobou srdeční
+T61	DISEASE 1928 1941	plicní proces
+T12	DISEASE 2050 2102	Těžká mitrální insuficience s restrikcí zadního cípu
+T27	DISEASE 2147 2204	Těžká dilatace levé komory mírně až středně hypertrofická
+T33	DISEASE 2296 2328	Středně těžká dilatace levé síně
+T19	DISEASE 2410 2436	trikuspidální insuficience
+T20	DISEASE 2483 2504	perikardiální výpotek
+T13	DISEASE 2539 2618	těžká sekundární mitrální insuficience v důsledku restrikce pohybu zadního cípu
+T28	DISEASE 2621 2656	prolapsu předního cípu na úrovni A2
+T37	DISEASE 2667 2680	ruptury chord
+T63	DISEASE 2761 2817	přední sestupné tepny: dlouhý vývoj, velmi kalcifikovaná
+T64	DISEASE 2856 2888	cirkumflexu: velmi kalcifikovaný
+T65	DISEASE 2918 2951	pravé koronární tepny: okludovaná
+T23	DISEASE 3302 3317	srdeční selhání
+T68	DISEASE 3354 3372	kardiogenního šoku
+T39	DISEASE 3484 3512	těžkou mitrální insuficienci
+T71	DISEASE 3548 3571	prolapsem předního cípu
+T14	DISEASE 3604 3625	mitrální insuficience
+T40	DISEASE 3687 3767	těžkou mitrální insuficienci sekundárně způsobenou restrikcí pohybu zadního cípu
+T72	DISEASE 3770 3806	prolapsem předního cípu na úrovni A2
+T73	DISEASE 3817 3830	ruptury chord
+T74	DISEASE 3857 3903	středně závažné postižení levé koronární tepny
+T75	DISEASE 3906 3947	chronickým uzávěrem pravé koronární tepny
+T76	DISEASE 4025 4056	refrakterním kardiogenním šokem
+T88	DISEASE 4773 4775	IM
+T24	DISEASE 4979 4996	srdečního selhání
+T30	DISEASE 5273 5293	srdeční dekompenzace
+T31	DISEASE 5305 5349	Komunitní pneumonie pravého středního laloku
+T32	DISEASE 5351 5394	Srdeční selhání s biventrikulární dysfunkcí
+T26	DISEASE 5396 5411	Kardiogenní šok
+T21	DISEASE 5413 5496	Těžká mitrální insuficience sekundárně způsobená restriktivním pohybem zadního cípu
+T15	DISEASE 5499 5535	prolapsem předního cípu na úrovni A2
+T25	DISEASE 5546 5672	ruptury chord (Due to continuity of annotating this term I decided to annotate it, while in original text it is not annotated)
+T18	DISEASE 5674 5710	Chronická ischemická choroba srdeční

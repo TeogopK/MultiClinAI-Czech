@@ -1,0 +1,22 @@
+T9	PROCEDURE 57 82	perorálními hypoglykemiky
+T2	PROCEDURE 567 586	Fyzikální vyšetření
+T10	PROCEDURE 627 670	palpaci v hypogastriu a pravém hypochondriu
+T13	PROCEDURE 721 742	Biochemické vyšetření
+T16	PROCEDURE 1003 1015	Krevní obraz
+T11	PROCEDURE 1140 1167	Systematické vyšetření moči
+T18	PROCEDURE 1225 1240	Močový sediment
+T1	PROCEDURE 1323 1354	prostý rentgenový snímek břicha
+T4	PROCEDURE 1499 1515	ultrazvuk břicha
+T6	PROCEDURE 1716 1730	Kultivace moči
+T23	PROCEDURE 2033 2064	intravenózní antibiotická léčba
+T12	PROCEDURE 2091 2109	močová katetrizace
+T3	PROCEDURE 2112 2150	přísná kontrola hladiny glukózy v krvi
+T8	PROCEDURE 2166 2183	CT břicha a pánve
+T14	PROCEDURE 2269 2305	retrográdní cholangiopankreatografii
+T15	PROCEDURE 2308 2335	endoskopické sfinkterotomii
+T17	PROCEDURE 2353 2376	ultrazvukovém vyšetření
+T27	PROCEDURE 2468 2499	intravenózní antibiotické léčby
+T19	PROCEDURE 2594 2624	perorální antibiotickou léčbou
+T5	PROCEDURE 2683 2696	močový katétr
+T7	PROCEDURE 2721 2735	kultivace moči
+T20	PROCEDURE 2779 2806	CT vyšetření břicha a pánve

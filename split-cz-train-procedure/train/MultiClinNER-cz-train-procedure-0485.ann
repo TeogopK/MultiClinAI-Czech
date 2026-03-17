@@ -1,0 +1,27 @@
+T13	PROCEDURE 67 79	dietní léčby
+T9	PROCEDURE 122 142	dekortikace hlasivek
+T2	PROCEDURE 222 241	Fyzikální vyšetření
+T1	PROCEDURE 263 281	Rektální vyšetření
+T4	PROCEDURE 408 420	krevní testy
+T17	PROCEDURE 422 434	Krevní obraz
+T14	PROCEDURE 643 663	Koagulační vyšetření
+T20	PROCEDURE 678 699	Biochemické vyšetření
+T11	PROCEDURE 728 741	systémová moč
+T12	PROCEDURE 826 834	Sediment
+T15	PROCEDURE 866 880	cytologií moči
+T16	PROCEDURE 919 953	prostým rentgenovým snímkem břicha
+T24	PROCEDURE 1001 1019	ultrazvukem břicha
+T18	PROCEDURE 1252 1256	IVUS
+T19	PROCEDURE 1514 1523	Cystogram
+T7	PROCEDURE 1580 1591	cystoskopie
+T21	PROCEDURE 1750 1778	Löwensteinova kultivace moči
+T5	PROCEDURE 1791 1819	TUR útvaru v močovém měchýři
+T22	PROCEDURE 1865 1867	PA
+T23	PROCEDURE 1928 1950	Lowensteinův test moči
+T8	PROCEDURE 2119 2142	tuberkulostatická léčba
+T25	PROCEDURE 2410 2450	exsudátem v levém varleti, jejíž barvení
+T26	PROCEDURE 2482 2494	Lowensteinem
+T27	PROCEDURE 2508 2525	lokálním převazem
+T10	PROCEDURE 2550 2566	ultrazvuk varlat
+T28	PROCEDURE 2675 2679	IVUS
+T6	PROCEDURE 3157 3171	kultivace moči

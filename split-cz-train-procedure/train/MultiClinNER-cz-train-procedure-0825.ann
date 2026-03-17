@@ -1,0 +1,42 @@
+T86	PROCEDURE 0 8	ANAMNÉZA
+T62	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T114	PROCEDURE 60 68	anamnéza
+T115	PROCEDURE 157 165	anamnéza
+T134	PROCEDURE 421 444	elektrickou kardioverzi
+T94	PROCEDURE 446 474	Echokardiografické vyšetření
+T77	PROCEDURE 726 733	operace
+T61	PROCEDURE 736 748	radioterapie
+T143	PROCEDURE 1128 1139	kardioverzi
+T159	PROCEDURE 1155 1186	transezofageální echokardiogram
+T108	PROCEDURE 1533 1566	ablaci istmu trikuspidální dutiny
+T91	PROCEDURE 1794 1806	CT vyšetření
+T63	PROCEDURE 1882 1901	Fyzikální vyšetření
+T64	PROCEDURE 2016 2043	Kardiopulmonální auskultace
+T2	PROCEDURE 2075 2082	palpaci
+T90	PROCEDURE 2322 2334	Krevní obraz
+T65	PROCEDURE 2495 2498	EKG
+T104	PROCEDURE 2594 2625	Transezofageální echokardiogram
+T105	PROCEDURE 2976 3007	Transezofageální echokardiogram
+T66	PROCEDURE 3356 3359	EKG
+T138	PROCEDURE 3604 3612	glykémie
+T67	PROCEDURE 3642 3651	CT břicha
+T145	PROCEDURE 3814 3838	intravenózního kontrastu
+T69	PROCEDURE 4050 4063	antikoagulace
+T4	PROCEDURE 4121 4147	krvácení bylo embolizováno
+T68	PROCEDURE 4181 4224	byly podány 2 koncentráty červených krvinek
+T88	PROCEDURE 4591 4611	Antikoagulační léčba
+T116	PROCEDURE 4674 4682	anamnéze
+T78	PROCEDURE 4733 4768	kontinuální infuze heparinu sodného
+T158	PROCEDURE 4919 4964	transezofageální echokardiografické vyšetření
+T133	PROCEDURE 4936 4964	echokardiografické vyšetření
+T70	PROCEDURE 5131 5145	ablace AV uzlu
+T72	PROCEDURE 5148 5181	implantace kardiostimulátoru DDDR
+T7	PROCEDURE 5544 5587	mitrální chlopeň nahrazena 27mm bioprotézou
+T74	PROCEDURE 5620 5654	chirurgický podvaz ouška levé síně
+T109	PROCEDURE 5716 5722	ablací
+T75	PROCEDURE 5886 5931	Náhrada chlopně biologickou mitrální protézou
+T8	PROCEDURE 5969 6003	Chirurgická ligace ouška levé síně
+T117	PROCEDURE 6092 6105	antikoagulací
+T76	PROCEDURE 6142 6176	Embolizace levé epigastrické tepny
+T71	PROCEDURE 6178 6192	Ablace AV uzlu
+T73	PROCEDURE 6194 6227	Implantace kardiostimulátoru DDDR

@@ -1,0 +1,27 @@
+T18	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T22	PROCEDURE 377 386	vyšetření
+T49	PROCEDURE 561 578	Elektrokardiogram
+T59	PROCEDURE 689 703	echokardiogram
+T55	PROCEDURE 796 824	echokardiografické vyšetření
+T34	PROCEDURE 826 829	TTE
+T35	PROCEDURE 832 835	TTE
+T27	PROCEDURE 1538 1556	vyšetření plicnice
+T1	PROCEDURE 1594 1612	barevným dopplerem
+T72	PROCEDURE 1798 1801	TTE
+T2	PROCEDURE 1882 1894	koronární CT
+T74	PROCEDURE 1906 1918	Koronární CT
+T76	PROCEDURE 2232 2254	koronární reimplantace
+T77	PROCEDURE 2265 2289	operace mitrální chlopně
+T78	PROCEDURE 2372 2375	TTE
+T79	PROCEDURE 2421 2443	koronární reimplantaci
+T81	PROCEDURE 2445 2455	Intervence
+T82	PROCEDURE 2476 2487	sternotomii
+T14	PROCEDURE 2561 2568	resekce
+T83	PROCEDURE 2599 2610	anastomózou
+T31	PROCEDURE 2644 2659	uzávěr plicnice
+T3	PROCEDURE 2673 2788	mitrální plastika se sešitím přední komisury do jedné třetiny mitrální chlopně a sešitím pseudoklíčů zadního lístku
+T85	PROCEDURE 2951 2954	TTE
+T87	PROCEDURE 3156 3159	TTE
+T89	PROCEDURE 3395 3411	mitrální plikaci
+T94	PROCEDURE 3738 3760	Koronární reimplantace
+T95	PROCEDURE 3763 3780	mitrální plastika

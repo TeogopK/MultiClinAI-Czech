@@ -1,0 +1,25 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T51	PROCEDURE 341 361	fyzikálním vyšetření
+T22	PROCEDURE 453 469	Auskultace srdce
+T40	PROCEDURE 534 543	VYŠETŘENÍ
+T2	PROCEDURE 544 561	Laboratorní testy
+T23	PROCEDURE 563 575	krevní obraz
+T24	PROCEDURE 578 587	biochemie
+T25	PROCEDURE 597 617	Hormony štítné žlázy
+T26	PROCEDURE 628 645	Elektrokardiogram
+T36	PROCEDURE 713 725	RTG hrudníku
+T38	PROCEDURE 780 809	Transtorakální echokardiogram
+T37	PROCEDURE 1120 1151	Transezofageální echokardiogram
+T35	PROCEDURE 1716 1742	Magnetická rezonance srdce
+T31	PROCEDURE 1744 1747	CMR
+T59	PROCEDURE 1969 1985	podání gadolinia
+T4	PROCEDURE 2088 2124	CT vyšetření kraniohrudníku a břicha
+T54	PROCEDURE 2436 2445	kontrastu
+T6	PROCEDURE 2527 2557	CT vyšetření koronárních tepen
+T27	PROCEDURE 2586 2613	Patologická anatomie nádoru
+T60	PROCEDURE 2892 2935	transtorakální echokardiografické vyšetření
+T67	PROCEDURE 3027 3048	zobrazovací vyšetření
+T8	PROCEDURE 3166 3193	resekce nádoru v pravé síni
+T46	PROCEDURE 3196 3217	intraoperační biopsií
+T28	PROCEDURE 3602 3623	intraoperační biopsie
+T49	PROCEDURE 4050 4067	echokardiogramech

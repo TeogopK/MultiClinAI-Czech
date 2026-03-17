@@ -1,0 +1,34 @@
+T39	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 433 459	Rentgenový snímek hrudníku
+T37	PROCEDURE 461 478	elektrokardiogram
+T3	PROCEDURE 481 514	vyšetření srdečních enzymů v séru
+T4	PROCEDURE 985 1020	nesteroidních protizánětlivých léků
+T7	PROCEDURE 1118 1128	auskultaci
+T40	PROCEDURE 1198 1217	FYZIKÁLNÍ VYŠETŘENÍ
+T34	PROCEDURE 1551 1577	Rentgenový snímek hrudníku
+T35	PROCEDURE 1660 1686	Rentgenový snímek hrudníku
+T38	PROCEDURE 1765 1782	Elektrokardiogram
+T41	PROCEDURE 1784 1787	EKG
+T42	PROCEDURE 1934 1963	Transtorakální echokardiogram
+T44	PROCEDURE 3213 3232	studiu břišní aorty
+T43	PROCEDURE 3364 3381	Angio-CT hrudníku
+T45	PROCEDURE 4473 4487	echokardiogram
+T48	PROCEDURE 4923 4955	Angio-CT torakoabdominální aorty
+T59	PROCEDURE 5745 5773	echokardiografické vyšetření
+T62	PROCEDURE 6659 6678	Genetické vyšetření
+T49	PROCEDURE 7005 7013	angio-CT
+T65	PROCEDURE 7098 7123	kardiochirurgická operace
+T36	PROCEDURE 7253 7279	rentgenový snímek hrudníku
+T67	PROCEDURE 7352 7369	rentgenovém snímk
+T50	PROCEDURE 7395 7403	Angio-CT
+T52	PROCEDURE 7581 7607	kardiovaskulární chirurgie
+T70	PROCEDURE 7645 7719	kořen aorty byl nahrazen chlopenní trubicí pomocí Bono-Bentallovy techniky
+T71	PROCEDURE 7722 7779	reimplantací koronární tepny a stentováním sestupné aorty
+T72	PROCEDURE 8004 8034	hrudní a břišní CT angiografie
+T73	PROCEDURE 8272 8290	CT vyšetření lebky
+T46	PROCEDURE 8324 8338	echokardiogram
+T75	PROCEDURE 8573 8627	implantaci implantabilního kardioverteru-defibrilátoru
+T76	PROCEDURE 9109 9128	genetické vyšetření
+T79	PROCEDURE 9272 9298	kardiovaskulární chirurgií
+T51	PROCEDURE 9324 9361	sestupné hrudní aorty pomocí angio-CT
+T81	PROCEDURE 9731 9755	náhradou aorty a chlopně

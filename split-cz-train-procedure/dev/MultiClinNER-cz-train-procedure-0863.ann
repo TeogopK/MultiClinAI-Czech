@@ -1,0 +1,36 @@
+T45	PROCEDURE 0 8	ANAMNÉZA
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 560 577	elektrokardiogram
+T2	PROCEDURE 729 752	urgentní koronarografii
+T34	PROCEDURE 769 783	koronarografie
+T4	PROCEDURE 934 957	podání kontrastní látky
+T5	PROCEDURE 1219 1234	nosními brýlemi
+T32	PROCEDURE 1259 1278	Fyzikální vyšetření
+T6	PROCEDURE 1435 1446	katetrizaci
+T36	PROCEDURE 1594 1609	Lipidový profil
+T37	PROCEDURE 1711 1738	profil jater a štítné žlázy
+T52	PROCEDURE 1829 1847	Revmatoidní faktor
+T38	PROCEDURE 1864 1876	proteinogram
+T7	PROCEDURE 1878 1888	komplement
+T8	PROCEDURE 1890 1893	ACE
+T39	PROCEDURE 1895 1911	mikroalbumimurie
+T9	PROCEDURE 1923 1943	hormonální vyšetření
+T35	PROCEDURE 2458 2469	Katetrizace
+T10	PROCEDURE 2730 2757	injekce s kontrastní látkou
+T40	PROCEDURE 2864 2880	Echokardiografie
+T43	PROCEDURE 3429 3453	Angio-CT renálních tepen
+T50	PROCEDURE 4077 4085	anamnézu
+T14	PROCEDURE 4289 4311	perorální antikoncepci
+T46	PROCEDURE 4389 4404	Těhotenský test
+T15	PROCEDURE 4763 4821	test s vyšetřením lipidů, štítné žlázy a jaterního profilu
+T16	PROCEDURE 4856 4877	vyšetření autoimunity
+T53	PROCEDURE 4879 4897	revmatoidní faktor
+T17	PROCEDURE 4952 4992	vyšetření a antifosfolipidové protilátky
+T44	PROCEDURE 5015 5039	Angio-CT renálních tepen
+T41	PROCEDURE 5194 5210	Echokardiografie
+T20	PROCEDURE 5438 5461	protidestičkovou léčbou
+T48	PROCEDURE 5500 5522	kardiální rehabilitace
+T51	PROCEDURE 5668 5678	ergometrie
+T42	PROCEDURE 5809 5825	Echokardiografie
+T47	PROCEDURE 6269 6295	autoimunologické vyšetření
+T49	PROCEDURE 6330 6352	kardiální rehabilitace

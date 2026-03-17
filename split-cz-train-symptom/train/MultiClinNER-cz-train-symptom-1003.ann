@@ -1,0 +1,53 @@
+T1	SYMPTOM 470 521	nevyzařující, tísnivou, centrální bolest v hrudníku
+T2	SYMPTOM 569 575	Bolest
+T135	SYMPTOM 593 603	nevolností
+T141	SYMPTOM 605 612	pocením
+T142	SYMPTOM 615 631	pocitem dušnosti
+T112	SYMPTOM 708 715	horečky
+T87	SYMPTOM 718 732	bolesti hltanu
+T3	SYMPTOM 804 831	elektrokardiografické změny
+T10	SYMPTOM 834 890	zvýšené markery poškození myokardu v infarktovém rozsahu
+T4	SYMPTOM 1007 1025	Dobrý celkový stav
+T151	SYMPTOM 1027 1037	při vědomí
+T138	SYMPTOM 1040 1070	orientovaný ve všech 3 sférách
+T5	SYMPTOM 1072 1094	Hemodynamicky stabilní
+T74	SYMPTOM 1096 1113	V klidu eupnoický
+T69	SYMPTOM 1115 1129	Normální barva
+T98	SYMPTOM 1131 1163	dobře hydratovaný a perfundovaný
+T60	SYMPTOM 1165 1174	Afebrilní
+T6	SYMPTOM 1296 1337	Auskultace srdce: akce srdeční pravidelná
+T155	SYMPTOM 1362 1369	šelestů
+T102	SYMPTOM 1375 1384	extratonů
+T76	SYMPTOM 1386 1404	dýchání alveolární
+T63	SYMPTOM 1446 1501	Břicho: měkké a stlačitelné, při palpaci není bolestivé
+T19	SYMPTOM 1509 1554	známky obranného nebo peritoneálního dráždění
+T16	SYMPTOM 1556 1581	Dolní končetiny bez otoků
+T7	SYMPTOM 1666 1681	sinusový rytmus
+T8	SYMPTOM 1699 1710	Normální PR
+T20	SYMPTOM 1726 1758	Elevace J bodu < 1 mm od V4 k V6
+T9	SYMPTOM 1760 1788	Negativní vlna T od V4 do V6
+T21	SYMPTOM 1932 1961	funkce ledvin a iontů v normě
+T136	SYMPTOM 2095 2117	RTG hrudníku: normální
+T22	SYMPTOM 2119 2149	Kardiotorakální index normální
+T23	SYMPTOM 2157 2179	známky plicní kongesce
+T24	SYMPTOM 2181 2191	kondenzace
+T17	SYMPTOM 2222 2260	angiograficky normální koronární tepny
+T13	SYMPTOM 2351 2411	Sérologie: negativní na HIV, syfilis a Mycoplasma pneumoniae
+T25	SYMPTOM 2413 2503	Pozitivní na proběhlou infekci adenovirem, CMV, Echovirem, EBV, parvovirem B19 a Coxsackie
+T26	SYMPTOM 2553 2582	funkce ledvin a iontů v normě
+T27	SYMPTOM 2600 2630	hepatobiliární profil bez změn
+T11	SYMPTOM 2808 2844	Hormony štítné žlázy a HbA1c v normě
+T28	SYMPTOM 2846 2869	CBC: tři normální série
+T120	SYMPTOM 2905 2950	levá komora není dilatovaná ani hypertrofická
+T29	SYMPTOM 2955 3001	zachovanou globální a segmentální pohyblivostí
+T15	SYMPTOM 3176 3193	Hmotnost myokardu
+T134	SYMPTOM 3244 3287	Pravá komora nedilatovaná ani hypertrofická
+T30	SYMPTOM 3292 3338	zachovanou globální i segmentální pohyblivostí
+T14	SYMPTOM 3493 3520	Obě síně normální velikosti
+T18	SYMPTOM 3831 3854	defekty bazální perfuze
+T152	SYMPTOM 4131 4164	zachovanou biventrikulární funkcí
+T83	SYMPTOM 4318 4332	asymptomatický
+T133	SYMPTOM 4596 4622	mírnou globální hypokinezi
+T31	SYMPTOM 5021 5065	Obě komory měly normální morfologii a objemy
+T12	SYMPTOM 5123 5171	biventrikulární systolická funkce byla zachována
+T153	SYMPTOM 6273 6306	zachovanou biventrikulární funkcí

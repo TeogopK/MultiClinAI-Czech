@@ -1,0 +1,37 @@
+T16	DISEASE 62 67	Kuřák
+T1	DISEASE 85 111	Těžká mitrální regurgitace
+T15	DISEASE 85 142	Těžká mitrální regurgitace sekundárně po ruptuře chordózy
+T125	DISEASE 374 387	tříselné kýly
+T99	DISEASE 517 541	kardiorespirační zástavě
+T4	DISEASE 769 790	zástavu srdce a dechu
+T100	DISEASE 905 924	komorovou fibrilaci
+T74	DISEASE 926 928	SS
+T95	DISEASE 1647 1692	hluboké žilní trombózy na dolních končetinách
+T17	DISEASE 1908 1929	komorové extrasystoly
+T19	DISEASE 2066 2097	polytopní komorové extrasystoly
+T61	DISEASE 2132 2135	LVH
+T9	DISEASE 2912 2948	intrakraniálních hematických kolekcí
+T10	DISEASE 2985 2996	zlomeninách
+T20	DISEASE 3040 3055	akutní ischemie
+T11	DISEASE 3148 3156	aspirace
+T12	DISEASE 3201 3224	nedislokované zlomeniny
+T13	DISEASE 3267 3287	Distendovaný žaludek
+T113	DISEASE 3392 3411	pleurálního výpotku
+T121	DISEASE 3490 3616	ruptury chord (Due to continuity of annotating this term I decided to annotate it, while in original text it is not annotated)
+T18	DISEASE 3758 3809	Levá komora (LK) značně zvětšeného průměru a objemu
+T126	DISEASE 3894 3906	valvulopatií
+T85	DISEASE 3914 3933	dilatovaná levá síň
+T21	DISEASE 4033 4050	plicní hypertenze
+T54	DISEASE 4239 4242	CMP
+T22	DISEASE 4245 4265	plicní tromboembolie
+T64	DISEASE 4267 4270	PTE
+T78	DISEASE 4277 4305	akutního aortálního syndromu
+T35	DISEASE 4797 4815	ozsáhlý prolaps P2
+T46	DISEASE 4817 4853	ruptura chlopně a rozštěp mezi P1-P2
+T106	DISEASE 4922 4942	mitrální regurgitaci
+T62	DISEASE 4944 4946	MR
+T24	DISEASE 5016 5030	fibrilace síní
+T56	DISEASE 5032 5036	FiSi
+T82	DISEASE 5403 5421	arytmických příhod
+T25	DISEASE 5433 5465	Maligní prolaps mitrální chlopně
+T23	DISEASE 5496 5573	Těžká mitrální insuficience v důsledku prolapsu P2 v důsledku ruptury chlopně

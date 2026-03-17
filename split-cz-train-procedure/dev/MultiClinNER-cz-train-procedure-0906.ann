@@ -1,0 +1,31 @@
+T56	PROCEDURE 7 40	Kardiovaskulární rizikové faktory
+T32	PROCEDURE 464 525	závažným třícívním onemocněním chirurgicky revaskularizovaným
+T41	PROCEDURE 539 560	štěpy AMI-DA a VSI-OM
+T5	PROCEDURE 633 696	Paroxyzmální fibrilace síní (FS) antikoagulovaná acenokumarolem
+T59	PROCEDURE 1370 1440	chronickou ischemickou chorobou srdeční, chirurgicky revaskularizovaný
+T63	PROCEDURE 1653 1677	mechanickou trombektomií
+T64	PROCEDURE 1680 1722	implantací destentu v úrovni levé karotidy
+T65	PROCEDURE 1844 1853	sledování
+T66	PROCEDURE 1878 1894	diuretické léčbě
+T42	PROCEDURE 1897 1916	Fyzikální vyšetření
+T67	PROCEDURE 2239 2283	nízkoprůtokové oxygenoterapii (nosní kanyly)
+T43	PROCEDURE 2285 2301	Auskultace srdce
+T44	PROCEDURE 2377 2392	Auskultace plic
+T45	PROCEDURE 2567 2584	Elektrokardiogram
+T46	PROCEDURE 2586 2589	EKG
+T47	PROCEDURE 2699 2711	RTG hrudníku
+T69	PROCEDURE 2868 2889	Biochemické vyšetření
+T48	PROCEDURE 3179 3187	Hemogram
+T50	PROCEDURE 3593 3602	Koagulace
+T12	PROCEDURE 3750 3802	Krevní testy s kardiovaskulárními rizikovými faktory
+T51	PROCEDURE 4137 4166	Transtorakální echokardiogram
+T53	PROCEDURE 4412 4426	Koronarografie
+T13	PROCEDURE 4464 4542	přední sestupné tepny (ADA), která je revaskularizována pomocí lékového stentu
+T55	PROCEDURE 4544 4562	Mamární anastomóza
+T14	PROCEDURE 4922 4938	diuretické léčby
+T52	PROCEDURE 5054 5087	transtorakální echokardiografické
+T54	PROCEDURE 5269 5283	koronarografie
+T17	PROCEDURE 5337 5397	LAD, která byla revaskularizována implantací lékového stentu
+T18	PROCEDURE 5445 5466	antitrombotické léčbě
+T23	PROCEDURE 6190 6301	proximální přední sestupné tepny, revaskularizovaná perkutánně pomocí implantátu dsetent, který uvolňuje léčivo
+T24	PROCEDURE 6356 6408	levé krční tepny, revaskularizovaná zavedením stentu

@@ -1,0 +1,17 @@
+T10	PROCEDURE 240 259	Fyzikální vyšetření
+T2	PROCEDURE 384 411	Kardiorespirační auskultace
+T16	PROCEDURE 427 448	Laboratorní vyšetření
+T11	PROCEDURE 679 701	Jaterní virové markery
+T3	PROCEDURE 718 744	Rentgenový snímek hrudníku
+T4	PROCEDURE 789 805	ultrazvuk břicha
+T1	PROCEDURE 945 986	Počítačová axiální tomografie (CT) břicha
+T12	PROCEDURE 976 978	CT
+T21	PROCEDURE 1225 1246	léčba kortikosteroidy
+T13	PROCEDURE 1248 1265	enterální výživou
+T14	PROCEDURE 1268 1300	empirickou antibiotickou terapií
+T24	PROCEDURE 1447 1464	Laboratorní testy
+T9	PROCEDURE 1753 1769	anti-TNF terapie
+T6	PROCEDURE 1820 1824	MARS
+T7	PROCEDURE 2050 2073	femorální žilní přístup
+T8	PROCEDURE 2075 2145	Přidruženou technikou náhrady ledvin byla kontinuální veno-venózní HDF
+T5	PROCEDURE 2147 2160	Antikoagulace

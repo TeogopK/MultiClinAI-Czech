@@ -1,0 +1,34 @@
+T43	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 227 237	ergometrií
+T45	PROCEDURE 248 262	koronarografie
+T6	PROCEDURE 300 378	přední sestupné tepny, která byla revaskularizována implantací lékového stentu
+T7	PROCEDURE 427 448	operaci tříselné kýly
+T44	PROCEDURE 1183 1202	Fyzikální vyšetření
+T46	PROCEDURE 1302 1329	Kardiopulmonální auskultace
+T47	PROCEDURE 1497 1514	elektrokardiogram
+T49	PROCEDURE 1619 1631	RTG hrudníku
+T60	PROCEDURE 1771 1780	Biochemie
+T13	PROCEDURE 1944 1968	autoimunitního vyšetření
+T14	PROCEDURE 1978 1988	komplement
+T50	PROCEDURE 1998 2014	nádorové markery
+T51	PROCEDURE 2026 2035	Sérologie
+T52	PROCEDURE 2047 2055	Hemogram
+T53	PROCEDURE 2119 2128	Koagulace
+T54	PROCEDURE 2148 2162	Echokardiogram
+T62	PROCEDURE 2602 2611	MRI srdce
+T55	PROCEDURE 2821 2836	Perfuzní studie
+T56	PROCEDURE 2936 2959	Angio-CT plicních tepen
+T28	PROCEDURE 2996 3008	CT vyšetření
+T57	PROCEDURE 3539 3555	diuretická léčba
+T70	PROCEDURE 3725 3758	angio-CT vyšetření plicních tepen
+T58	PROCEDURE 4015 4027	kolonoskopie
+T48	PROCEDURE 4192 4209	elektrokardiogram
+T75	PROCEDURE 4406 4454	pravou krční žílu implantována dočasná elektroda
+T76	PROCEDURE 4487 4508	chronotropní medikace
+T77	PROCEDURE 4583 4641	implantován dvoukomorový permanentní kardiostimulátor DDDR
+T79	PROCEDURE 4885 4898	CT vyšetřením
+T81	PROCEDURE 4978 4989	spirometrií
+T82	PROCEDURE 5049 5065	elektromyogramem
+T59	PROCEDURE 5148 5161	kožní biopsie
+T89	PROCEDURE 5842 5859	diuretickou léčbu
+T25	PROCEDURE 6126 6188	Implantace dvoukomorového definitivního kardiostimulátoru DDDR

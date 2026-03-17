@@ -1,0 +1,21 @@
+T32	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 210 238	echokardiografické vyšetření
+T29	PROCEDURE 933 936	EKG
+T33	PROCEDURE 1097 1116	Fyzikální vyšetření
+T40	PROCEDURE 1203 1219	auskultace srdce
+T41	PROCEDURE 1282 1284	AP
+T34	PROCEDURE 1520 1546	Rentgenový snímek hrudníku
+T42	PROCEDURE 1564 1575	Autoimunita
+T25	PROCEDURE 1631 1645	Echokardiogram
+T26	PROCEDURE 1725 1739	echokardiogram
+T35	PROCEDURE 1766 1776	ergometrie
+T30	PROCEDURE 1916 1919	EKG
+T27	PROCEDURE 2281 2305	Echokardiogram po výkonu
+T12	PROCEDURE 2523 2552	Elektrofyziologické vyšetření
+T31	PROCEDURE 2563 2566	EKG
+T14	PROCEDURE 2630 2670	punkce pravé femorální žíly (5F zaváděč)
+T37	PROCEDURE 2831 2857	Elektrofyziologická studie
+T43	PROCEDURE 3018 3029	monitorován
+T39	PROCEDURE 3100 3129	Transtorakální echokardiogram
+T36	PROCEDURE 3235 3245	ergometrie
+T38	PROCEDURE 3318 3344	elektrofyziologická studie

@@ -1,0 +1,41 @@
+T26	SYMPTOM 674 693	zrudnutí v obličeji
+T1	SYMPTOM 695 701	pocení
+T2	SYMPTOM 703 720	celková malátnost
+T3	SYMPTOM 723 730	bledost
+T4	SYMPTOM 738 754	bolesti na hrudi
+T5	SYMPTOM 756 763	dušnost
+T6	SYMPTOM 768 777	palpitace
+T7	SYMPTOM 1080 1098	Dobrý celkový stav
+T8	SYMPTOM 1104 1110	vědomí
+T27	SYMPTOM 1113 1124	orientovaný
+T9	SYMPTOM 1160 1169	Afebrilní
+T28	SYMPTOM 1171 1178	Potí se
+T29	SYMPTOM 1180 1209	Jugulární žilní tlak normální
+T30	SYMPTOM 1229 1252	akce srdeční pravidelná
+T10	SYMPTOM 1258 1277	vedlejších fenomenů
+T11	SYMPTOM 1296 1314	dýchání alveolární
+T31	SYMPTOM 1341 1363	otoky dolních končetin
+T12	SYMPTOM 1445 1467	Krevní obraz: normální
+T24	SYMPTOM 1527 1556	normální ionty a transaminázy
+T23	SYMPTOM 1870 1890	sinusová tachykardie
+T13	SYMPTOM 1909 1917	Úzké QRS
+T32	SYMPTOM 1953 1981	plochou vlnou T v DIII a aVF
+T33	SYMPTOM 2014 2075	Diskrétní elevace (maximálně 1 mm ve V5) úseku ST od V3 do V6
+T14	SYMPTOM 2093 2108	sinusový rytmus
+T34	SYMPTOM 2128 2149	vysokou vlnou R ve V2
+T35	SYMPTOM 2152 2186	negativními vlnami T v dolní části
+T15	SYMPTOM 2204 2250	levá komora (LK) normální velikosti a tloušťky
+T16	SYMPTOM 2252 2279	zachovaná systolická funkce
+T36	SYMPTOM 2292 2315	mírnou dolní hypokinezí
+T37	SYMPTOM 2317 2354	Levá síň (LK) a pravá komora normální
+T18	SYMPTOM 2362 2392	významné chlopenní abnormality
+T19	SYMPTOM 2419 2449	Kořen aorty normální velikosti
+T22	SYMPTOM 3056 3076	arteriální hypotenze
+T40	SYMPTOM 3126 3157	deprese ST segmentů od V3 do V6
+T42	SYMPTOM 3198 3217	elevace ST segmentů
+T41	SYMPTOM 3721 3737	elevací ST úseku
+T20	SYMPTOM 3792 3806	asymptomatický
+T44	SYMPTOM 3845 3877	zachovalou systolickou funkci LK
+T45	SYMPTOM 3887 3903	dolní hypokinezí
+T21	SYMPTOM 4990 5020	Zachovaná systolická funkce LK
+T17	SYMPTOM 5023 5039	dolní hypokinezí

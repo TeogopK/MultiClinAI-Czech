@@ -1,0 +1,39 @@
+T37	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 236 258	mitrální anuloplastiky
+T6	PROCEDURE 395 430	nesteroidních protizánětlivých léků
+T39	PROCEDURE 450 483	transtorakální echokardiografické
+T41	PROCEDURE 762 789	nízká přední resekce střeva
+T42	PROCEDURE 1624 1651	Kardiopulmonální auskultace
+T10	PROCEDURE 1772 1784	Krevní testy
+T9	PROCEDURE 1786 1807	Biochemické vyšetření
+T55	PROCEDURE 2354 2366	Krevní obraz
+T43	PROCEDURE 2765 2774	Hemostáza
+T44	PROCEDURE 2879 2896	Elektrokardiogram
+T58	PROCEDURE 3069 3081	RTG hrudníku
+T59	PROCEDURE 3188 3204	Krevní kultivace
+T40	PROCEDURE 3350 3379	Transtorakální echokardiogram
+T46	PROCEDURE 3465 3496	Transezofageální echokardiogram
+T38	PROCEDURE 3830 3852	Mitrální anuloplastika
+T47	PROCEDURE 3958 3995	Zobrazení mozku magnetickou rezonancí
+T48	PROCEDURE 4198 4237	transfuze koncentrátu červených krvinek
+T63	PROCEDURE 4254 4268	depleční léčba
+T65	PROCEDURE 4661 4680	výtěry z nosohltanu
+T66	PROCEDURE 4715 4730	krevních kultur
+T45	PROCEDURE 5010 5024	krevní kultury
+T69	PROCEDURE 5039 5067	empirická antibiotická léčba
+T49	PROCEDURE 5099 5110	antibiogram
+T70	PROCEDURE 5204 5232	kardiochirurgickému oddělení
+T50	PROCEDURE 5286 5312	magnetická rezonance mozku
+T71	PROCEDURE 5397 5418	odebrat další exsudát
+T56	PROCEDURE 5422 5436	PCR SARS-CoV-2
+T72	PROCEDURE 5916 5944	oxygenoterapii s rezervoárem
+T51	PROCEDURE 6058 6094	náhrada chlopně mechanickou protézou
+T74	PROCEDURE 6277 6294	mimotělním oběhem
+T75	PROCEDURE 6312 6334	orotracheální intubaci
+T52	PROCEDURE 6375 6391	Echokardiografie
+T54	PROCEDURE 6697 6716	vazoaktivní podpora
+T53	PROCEDURE 6729 6737	extubace
+T76	PROCEDURE 6768 6801	neinvazivní mechanickou ventilaci
+T77	PROCEDURE 7181 7198	mimotělním oběhem
+T33	PROCEDURE 7211 7242	invazivní mechanickou ventilaci
+T14	PROCEDURE 7245 7264	vazoaktivní podporu

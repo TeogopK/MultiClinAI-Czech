@@ -1,0 +1,33 @@
+T13	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T15	PROCEDURE 187 190	EKG
+T17	PROCEDURE 279 287	anamnéze
+T14	PROCEDURE 667 686	Fyzikální vyšetření
+T1	PROCEDURE 745 773	echokardiografické vyšetření
+T2	PROCEDURE 874 901	magnetickou rezonancí srdce
+T3	PROCEDURE 903 906	CMR
+T19	PROCEDURE 1132 1140	CT mozku
+T32	PROCEDURE 1222 1225	CMR
+T25	PROCEDURE 1354 1368	koronarografie
+T20	PROCEDURE 1473 1504	Transtorakální echokardiografie
+T21	PROCEDURE 1846 1872	Rentgenový snímek hrudníku
+T16	PROCEDURE 1904 1907	EKG
+T22	PROCEDURE 1973 1981	Hemogram
+T29	PROCEDURE 2049 2058	Biochemie
+T23	PROCEDURE 2126 2141	Lipidový profil
+T18	PROCEDURE 2225 2239	Jaterní profil
+T24	PROCEDURE 2366 2375	MRI srdce
+T42	PROCEDURE 2536 2550	KORONAROGRAFIE
+T46	PROCEDURE 3168 3178	telemetrii
+T26	PROCEDURE 3234 3247	antikoagulace
+T49	PROCEDURE 3462 3474	CT vyšetření
+T50	PROCEDURE 3476 3513	Transkraniální dopplerovské vyšetření
+T52	PROCEDURE 3614 3634	mediánní sternotomie
+T53	PROCEDURE 3647 3664	mimotělního oběhu
+T54	PROCEDURE 3670 3702	resekována aneuryzmatická oblast
+T55	PROCEDURE 3704 3794	odstraněn intraventrikulární trombus a dolní stěna byla rekonstruována dakronovou záplatou
+T27	PROCEDURE 3843 3865	bypass AMI-DA a AMI-OM
+T56	PROCEDURE 3908 3945	antegrádní a retrográdní kardioplegií
+T57	PROCEDURE 3947 3975	odstranění mimotělního oběhu
+T58	PROCEDURE 4013 4045	vysoké dávky vazoaktivních aminů
+T62	PROCEDURE 4405 4435	resekci aneuryzmatické oblasti
+T28	PROCEDURE 4438 4460	bypass AMI-DA a AMI-OM

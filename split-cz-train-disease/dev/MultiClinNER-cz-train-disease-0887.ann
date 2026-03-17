@@ -1,0 +1,42 @@
+T1	DISEASE 45 72	onemocnění mitrální chlopně
+T33	DISEASE 99 119	selhání levého srdce
+T14	DISEASE 266 280	lékové alergie
+T15	DISEASE 324 345	arteriální hypertenze
+T2	DISEASE 347 350	AHT
+T28	DISEASE 418 420	DL
+T16	DISEASE 441 458	diabetes mellitus
+T17	DISEASE 460 462	DM
+T18	DISEASE 489 516	onemocnění aortální chlopně
+T19	DISEASE 879 923	mitrální insuficience degenerativního původu
+T20	DISEASE 932 946	fibrilace síní
+T8	DISEASE 948 950	FS
+T21	DISEASE 1012 1035	Těžká plicní hypertenze
+T23	DISEASE 1099 1132	chronická obstrukční plicní nemoc
+T11	DISEASE 2427 2485	chronická žilní insuficience s trofickými poruchami v kůži
+T24	DISEASE 2519 2536	pleurální výpotek
+T12	DISEASE 2608 2628	laminární atelektáza
+T26	DISEASE 2645 2665	laminární atelektáza
+T13	DISEASE 2692 2696	FiSi
+T29	DISEASE 2728 2731	LVH
+T30	DISEASE 3013 3039	těžce dilatovaná pravá síň
+T50	DISEASE 3041 3070	Silně dilatovaná pravá komora
+T22	DISEASE 3072 3095	Těžká plicní hypertenze
+T49	DISEASE 3097 3100	PHT
+T51	DISEASE 3120 3217	Funkční trikuspidální insuficience v důsledku dilatace anulu a roztažení chordae tendineae, těžká
+T31	DISEASE 3219 3244	Mírně dilatovaná levá síň
+T52	DISEASE 3406 3439	retence vody v pravém hemithoraxu
+T53	DISEASE 3441 3459	evanescentní tumor
+T54	DISEASE 3462 3514	subakutní/chronická disekce aorty, Standfordův typ A
+T25	DISEASE 3939 3982	středně velký levostranný pleurální výpotek
+T55	DISEASE 4040 4070	výpotek v pravé velké štěrbině
+T56	DISEASE 4072 4090	evanescentní tumor
+T57	DISEASE 4275 4321	pravostranným a levostranným srdečním selháním
+T59	DISEASE 4656 4668	retenci vody
+T60	DISEASE 4684 4702	evanescentní tumor
+T61	DISEASE 4715 4769	subakutní/chronickou disekci aorty Standfordova typu A
+T34	DISEASE 5461 5475	disekce typu A
+T65	DISEASE 5539 5581	Subakutní disekce aorty Stanfordova typu A
+T27	DISEASE 5701 5710	Těžká PHT
+T67	DISEASE 5712 5723	Trvalá FiSi
+T66	DISEASE 5725 5728	AHT
+T32	DISEASE 5730 5733	DLP

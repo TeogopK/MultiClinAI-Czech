@@ -1,0 +1,19 @@
+T25	PROCEDURE 0 8	Anamnéza
+T18	PROCEDURE 32 51	fyzikální vyšetření
+T42	PROCEDURE 189 216	farmakologickou kardioverzí
+T32	PROCEDURE 397 412	Osobní anamnéza
+T33	PROCEDURE 670 686	Rodinná anamnéza
+T19	PROCEDURE 872 891	Fyzikální vyšetření
+T20	PROCEDURE 1077 1092	Auskultace plic
+T21	PROCEDURE 1130 1146	auskultace srdce
+T22	PROCEDURE 1348 1365	Elektrokardiogram
+T29	PROCEDURE 1498 1510	RTG hrudníku
+T30	PROCEDURE 1620 1649	Transtorakální echokardiogram
+T26	PROCEDURE 1978 2011	Hrudní abdominální CT angiografie
+T50	PROCEDURE 2232 2275	Angiografie nukleární magnetickou rezonancí
+T27	PROCEDURE 2628 2656	hrudně-břišní CT angiografie
+T23	PROCEDURE 2832 2871	angiografie magnetickou rezonancí mozku
+T34	PROCEDURE 2935 2951	rodinné anamnéze
+T35	PROCEDURE 2973 2986	karyotypizace
+T39	PROCEDURE 2989 3013	hybridizační studie FISH
+T41	PROCEDURE 3296 3303	operaci

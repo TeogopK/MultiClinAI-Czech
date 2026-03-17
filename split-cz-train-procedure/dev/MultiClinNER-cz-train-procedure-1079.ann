@@ -1,0 +1,37 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 228 248	Bentall-Bono operaci
+T4	PROCEDURE 251 299	implantací protézy bikuspidální aortální chlopně
+T26	PROCEDURE 1114 1133	Fyzikální vyšetření
+T27	PROCEDURE 1134 1150	Auskultace srdce
+T28	PROCEDURE 1233 1248	Auskultace plic
+T7	PROCEDURE 1510 1520	auskultaci
+T31	PROCEDURE 1566 1583	Elektrokardiogram
+T32	PROCEDURE 1585 1588	EKG
+T33	PROCEDURE 1672 1686	Echokardiogram
+T37	PROCEDURE 2023 2054	Transezofageální echokardiogram
+T29	PROCEDURE 2253 2280	implantaci mitrálního klipu
+T30	PROCEDURE 2340 2361	fyzikálního vyšetření
+T34	PROCEDURE 2409 2427	CT vyšetření aorty
+T41	PROCEDURE 2475 2487	CT vyšetření
+T49	PROCEDURE 2926 2943	reparační operace
+T35	PROCEDURE 2987 3001	echokardiogram
+T39	PROCEDURE 3049 3078	katetrizace koronárních tepen
+T51	PROCEDURE 3115 3126	aortografií
+T40	PROCEDURE 3268 3292	kardiochirurgický zákrok
+T45	PROCEDURE 3316 3352	mitrální valvuloplastika s prstencem
+T53	PROCEDURE 3354 3401	Operace byla provedena s hypotermickou zástavou
+T42	PROCEDURE 3477 3488	sternotomie
+T55	PROCEDURE 3545 3589	anastomózy chlopenní trubice s kořenem aorty
+T56	PROCEDURE 3620 3659	nahrazena biologickou chlopenní trubicí
+T57	PROCEDURE 3681 3705	prstenčitá anuloplastika
+T58	PROCEDURE 3769 3797	echokardiografické vyšetření
+T59	PROCEDURE 3846 3868	mitrální anuloplastiku
+T38	PROCEDURE 4036 4069	transezofageální echokardiografie
+T62	PROCEDURE 4105 4127	mitrální anuloplastiku
+T67	PROCEDURE 4789 4820	invazivní mechanickou ventilaci
+T68	PROCEDURE 4894 4903	extubován
+T43	PROCEDURE 5036 5056	Bentall-Bono operace
+T69	PROCEDURE 5059 5097	implantací mechanické aortální protézy
+T44	PROCEDURE 5262 5282	Bentall-Bono operace
+T70	PROCEDURE 5285 5323	implantací biologické aortální protézy
+T71	PROCEDURE 5347 5374	valvuloplastického prstence

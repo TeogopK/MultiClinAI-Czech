@@ -1,0 +1,16 @@
+T6	PROCEDURE 126 145	Fyzikální vyšetření
+T2	PROCEDURE 279 303	Oftalmologické vyšetření
+T1	PROCEDURE 319 340	Počítačová tomografie
+T7	PROCEDURE 342 344	CT
+T9	PROCEDURE 602 618	podání kontrastu
+T3	PROCEDURE 634 654	Magnetická rezonance
+T8	PROCEDURE 656 659	MRI
+T10	PROCEDURE 884 893	gadolinia
+T11	PROCEDURE 899 920	radiologické diagnóze
+T5	PROCEDURE 954 971	chirurgická léčba
+T12	PROCEDURE 1017 1096	provedena makroskopicky kompletní excize pravostranným transciliárním přístupem
+T4	PROCEDURE 1098 1118	Patologická anatomie
+T16	PROCEDURE 1163 1179	imunohistochemií
+T17	PROCEDURE 1215 1222	operaci
+T14	PROCEDURE 1373 1381	operační
+T13	PROCEDURE 1419 1422	MRI

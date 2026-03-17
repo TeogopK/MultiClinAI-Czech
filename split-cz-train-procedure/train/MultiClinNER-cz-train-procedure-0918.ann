@@ -1,0 +1,37 @@
+T19	PROCEDURE 115 172	Náhrada mitrální chlopně mechanickou protézou Bjork č. 31
+T20	PROCEDURE 211 239	Implantace kardiostimulátoru
+T105	PROCEDURE 308 326	výměnou generátoru
+T51	PROCEDURE 446 449	TTE
+T70	PROCEDURE 1001 1029	empirické antibiotické léčbě
+T81	PROCEDURE 1202 1220	krevních kulturách
+T31	PROCEDURE 1223 1242	FYZIKÁLNÍ VYŠETŘENÍ
+T91	PROCEDURE 1340 1355	nosními brýlemi
+T21	PROCEDURE 1506 1522	Auskultace srdce
+T22	PROCEDURE 1582 1597	Auskultace plic
+T23	PROCEDURE 1725 1728	EKG
+T49	PROCEDURE 1794 1813	RTG snímek hrudníku
+T1	PROCEDURE 1858 1865	ANALÝZA
+T24	PROCEDURE 1867 1875	Hemogram
+T34	PROCEDURE 1968 1977	Biochemie
+T32	PROCEDURE 2166 2175	Koagulace
+T33	PROCEDURE 2217 2229	Krevní plyny
+T25	PROCEDURE 2279 2310	Transtorakální echokardiografie
+T52	PROCEDURE 2312 2315	TTE
+T26	PROCEDURE 2319 2352	transezofageální echokardiografie
+T50	PROCEDURE 2354 2357	TEE
+T28	PROCEDURE 3180 3195	PET-CT hrudníku
+T4	PROCEDURE 3471 3500	náhradou mechanickou protézou
+T82	PROCEDURE 3717 3726	kultivaci
+T53	PROCEDURE 3817 3820	TTE
+T27	PROCEDURE 3998 4004	PET/CT
+T5	PROCEDURE 4164 4186	chirurgické intervenci
+T35	PROCEDURE 4422 4452	Absces byl uzavřen dvěma stehy
+T36	PROCEDURE 4460 4524	implantována biologická mitrální protéza Perimount Edwards č. 27
+T37	PROCEDURE 4532 4550	náhrada generátoru
+T29	PROCEDURE 4606 4612	PET-CT
+T59	PROCEDURE 4689 4707	antibiotické léčby
+T80	PROCEDURE 4747 4763	krevní kultivace
+T101	PROCEDURE 4940 4961	ambulantním sledování
+T60	PROCEDURE 4973 4991	antibiotické léčby
+T40	PROCEDURE 5188 5278	Výměna mechanické mitrální protézy za biologickou mitrální protézu Perimount Edwards č. 27
+T30	PROCEDURE 5280 5315	Výměna generátoru kardiostimulátoru

@@ -1,0 +1,17 @@
+T9	PROCEDURE 389 401	gastroskopii
+T10	PROCEDURE 675 695	fyzikálním vyšetření
+T4	PROCEDURE 834 850	auskultace srdce
+T15	PROCEDURE 961 968	palpaci
+T16	PROCEDURE 1150 1162	Krevní testy
+T6	PROCEDURE 1285 1308	arteriální krevní plyny
+T5	PROCEDURE 1564 1573	Koagulace
+T2	PROCEDURE 1584 1601	Elektrokardiogram
+T3	PROCEDURE 1703 1729	Rentgenový snímek hrudníku
+T11	PROCEDURE 1790 1810	korekci hyperkalémie
+T7	PROCEDURE 1980 2017	náhrada objemu fyziologickým roztokem
+T12	PROCEDURE 2069 2153	aktokortinem (100 mg i.v. bolus následovaný 400 mg v kontinuální intravenózní infuzi
+T13	PROCEDURE 2204 2234	vazopresorickou perfuzi aminem
+T23	PROCEDURE 2345 2366	léčby kortikosteroidy
+T8	PROCEDURE 2370 2396	stanovení funkce nadledvin
+T14	PROCEDURE 2462 2540	Stanovení protilátek proti kapsidě nadledvin v séru nepřímou imunofluorescencí
+T1	PROCEDURE 2703 2712	CT břicha

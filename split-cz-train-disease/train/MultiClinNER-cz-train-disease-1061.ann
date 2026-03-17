@@ -1,0 +1,48 @@
+T59	DISEASE 97 118	arteriální hypertenze
+T1	DISEASE 120 123	AHT
+T60	DISEASE 126 138	Dyslipidemie
+T62	DISEASE 140 147	Obezita
+T64	DISEASE 149 174	Diabetes mellitus 2. typu
+T66	DISEASE 176 181	Kuřák
+T2	DISEASE 203 225	Chronický alkoholismus
+T69	DISEASE 251 265	fibrilace síní
+T67	DISEASE 314 358	chronická bronchitida bez obstrukčního vzoru
+T4	DISEASE 360 393	syndrom spánkové apnoe s hypopnoí
+T68	DISEASE 395 399	SAHS
+T70	DISEASE 1785 1799	fibrilace síní
+T74	DISEASE 2564 2593	Oboustranný pleurální výpotek
+T9	DISEASE 2705 2777	středně těžkou komorovou dysfunkcí sekundární generalizovanou hypokinezí
+T10	DISEASE 2822 2841	Dilatovaná levá síň
+T11	DISEASE 2843 2870	Mírná mitrální insuficience
+T12	DISEASE 2872 2874	MI
+T13	DISEASE 2900 2923	Dilatovaná pravá komora
+T14	DISEASE 2957 3006	Mírná až středně těžká trikuspidální insuficience
+T15	DISEASE 3008 3010	TI
+T16	DISEASE 3091 3114	perikardiálního výpotku
+T17	DISEASE 3116 3142	Dilatovaná dolní dutá žíla
+T18	DISEASE 3144 3147	IVC
+T19	DISEASE 3217 3242	trombem v oušku levé síně
+T20	DISEASE 3265 3279	fibrilaci síní
+T21	DISEASE 3460 3479	Dilatovaná levá síň
+T22	DISEASE 3487 3503	infarkt myokardu
+T23	DISEASE 3591 3613	Mírně středně těžký TR
+T24	DISEASE 3661 3684	perikardiálního výpotku
+T25	DISEASE 3828 3879	Epikardiální koronární tepny s difuzní ateromatózou
+T26	DISEASE 3928 3961	dekompenzovaným srdečním selháním
+T71	DISEASE 3964 4024	komorovou dysfunkcí pravděpodobné multifaktoriální etiologie
+T77	DISEASE 4050 4093	fibrilace síní s rychlou komorovou odpovědí
+T75	DISEASE 4142 4167	trombus v oušku levé síně
+T32	DISEASE 4467 4501	alkoholového deprivačního syndromu
+T33	DISEASE 4641 4655	fibrilací síní
+T34	DISEASE 5453 5459	kouřit
+T35	DISEASE 5462 5484	abstinoval od alkoholu
+T72	DISEASE 5872 5886	fibrilace síní
+T76	DISEASE 5898 5928	Dekompenzované srdeční selhání
+T78	DISEASE 5945 5969	Dilatační kardiomyopatie
+T73	DISEASE 6009 6037	Přetrvávající fibrilace síní
+T63	DISEASE 6039 6046	Obezita
+T65	DISEASE 6048 6073	Diabetes mellitus 2. typu
+T36	DISEASE 6075 6085	HYPERTENZE
+T61	DISEASE 6087 6099	Dyslipidémie
+T80	DISEASE 6101 6118	Nedostatek železa
+T79	DISEASE 6120 6149	Chronická makrocytární anémie

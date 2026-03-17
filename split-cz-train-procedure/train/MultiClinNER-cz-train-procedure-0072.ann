@@ -1,0 +1,21 @@
+T1	PROCEDURE 55 67	gastrektomie
+T7	PROCEDURE 89 120	rekonstrukcí podle Billrotha II
+T12	PROCEDURE 180 189	Roux-en-Y
+T13	PROCEDURE 289 314	operaci střevní obstrukce
+T8	PROCEDURE 566 596	operaci kvůli stenóze močovodu
+T17	PROCEDURE 836 860	měl močový katétr s močí
+T9	PROCEDURE 1022 1076	nasazeny hyperkalorické/hyperproteinové doplňky stravy
+T5	PROCEDURE 1078 1086	Fortimel
+T3	PROCEDURE 1135 1167	biochemických nutričních markerů
+T16	PROCEDURE 1205 1228	podávání doplňků výživy
+T18	PROCEDURE 1299 1327	katetrizaci močového měchýře
+T10	PROCEDURE 1338 1354	kontroly diurézy
+T19	PROCEDURE 1466 1490	katétru močového měchýře
+T20	PROCEDURE 1676 1708	katetrovém vaku močového měchýře
+T11	PROCEDURE 1716 1735	antibiotickou léčbu
+T21	PROCEDURE 1955 1978	Biochemický rozbor moči
+T4	PROCEDURE 2073 2081	sediment
+T22	PROCEDURE 2224 2242	Reakce na dusitany
+T6	PROCEDURE 2259 2273	Kultivace moči
+T15	PROCEDURE 2381 2393	antibiogramu
+T2	PROCEDURE 2405 2428	katétr močového měchýře

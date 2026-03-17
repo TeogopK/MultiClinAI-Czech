@@ -1,0 +1,49 @@
+T65	SYMPTOM 351 360	dyspepsii
+T92	SYMPTOM 477 509	tísnivé centrální hrudní bolesti
+T1	SYMPTOM 559 565	Bolest
+T87	SYMPTOM 663 677	mírným pocením
+T2	SYMPTOM 1280 1298	Dobrý celkový stav
+T97	SYMPTOM 1300 1310	Při vědomí
+T85	SYMPTOM 1312 1323	orientovaný
+T90	SYMPTOM 1325 1339	spolupracující
+T48	SYMPTOM 1341 1358	V klidu eupnoický
+T70	SYMPTOM 1365 1376	hydratovaný
+T39	SYMPTOM 1378 1392	Normální barva
+T38	SYMPTOM 1394 1423	Jugulární žilní tlak normální
+T46	SYMPTOM 1425 1450	pulzace karotických tepen
+T101	SYMPTOM 1456 1463	šelestů
+T89	SYMPTOM 1465 1506	Auskultace srdce: akce srdeční pravidelná
+T102	SYMPTOM 1512 1519	šelestů
+T93	SYMPTOM 1521 1534	třecích zvuků
+T59	SYMPTOM 1551 1611	Auskultace plic: dýchání alveolární, bez vedlejších fenoménů
+T10	SYMPTOM 1613 1638	Břicho bez nápadných změn
+T11	SYMPTOM 1640 1664	Dolní končetiny normální
+T42	SYMPTOM 1666 1703	Periferní pulzy přítomny a symetrické
+T3	SYMPTOM 1741 1756	sinusový rytmus
+T4	SYMPTOM 1774 1785	normální PR
+T5	SYMPTOM 1787 1795	úzké QRS
+T12	SYMPTOM 1797 1821	bez repolarizačních změn
+T13	SYMPTOM 1899 1914	normální vzorec
+T14	SYMPTOM 2188 2239	Rentgenový snímek hrudníku na pohotovosti: normální
+T99	SYMPTOM 2266 2324	levá komora normální velikosti a celkové systolické funkce
+T15	SYMPTOM 2326 2362	bez změn v segmentální kontraktilitě
+T6	SYMPTOM 2364 2415	Pravá komora normální velikosti a systolické funkce
+T41	SYMPTOM 2416 2429	Normální síně
+T7	SYMPTOM 2518 2536	Normální osrdečník
+T40	SYMPTOM 2663 2706	Normální krevní tlak a chronotropní odpověď
+T56	SYMPTOM 2861 2877	bolesti na hrudi
+T8	SYMPTOM 2902 2918	elevace úseku ST
+T52	SYMPTOM 3323 3337	asymptomatický
+T9	SYMPTOM 3340 3362	hemodynamicky stabilní
+T18	SYMPTOM 3364 3413	Sériové markery poškození myokardu byly negativní
+T17	SYMPTOM 3470 3536	echokardiografické vyšetření, při němž nebyly zjištěny žádné změny
+T55	SYMPTOM 3781 3788	bolesti
+T86	SYMPTOM 3823 3834	palpitacemi
+T100	SYMPTOM 3836 3845	závratěmi
+T16	SYMPTOM 3850 3858	synkopou
+T19	SYMPTOM 3926 3953	přechodnou elevaci úseku ST
+T57	SYMPTOM 3979 3995	bolesti na hrudi
+T54	SYMPTOM 4132 4146	bolestem hlavy
+T66	SYMPTOM 4182 4191	dyspepsii
+T20	SYMPTOM 4323 4377	ergometrie, která byla klinicky i elektricky negativní
+T21	SYMPTOM 4908 4943	Koronární tepny bez významných lézí

@@ -1,0 +1,37 @@
+T29	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T28	PROCEDURE 344 365	domácí oxygenoterapie
+T30	PROCEDURE 1239 1258	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 1352 1367	nosními brýlemi
+T6	PROCEDURE 1383 1402	bronchodilatanciích
+T31	PROCEDURE 1404 1420	Auskultace srdce
+T32	PROCEDURE 1444 1459	Auskultace plic
+T33	PROCEDURE 1516 1532	Vyšetření břicha
+T34	PROCEDURE 1753 1779	Rentgenový snímek hrudníku
+T8	PROCEDURE 1973 1985	Krevní obraz
+T9	PROCEDURE 2069 2081	koagulačních
+T35	PROCEDURE 2442 2456	imunoglobuliny
+T36	PROCEDURE 2466 2478	Proteinogram
+T47	PROCEDURE 2646 2666	Lehké řetězce v séru
+T48	PROCEDURE 2771 2791	Lehké řetězce v moči
+T38	PROCEDURE 2897 2914	Elektrokardiogram
+T39	PROCEDURE 2916 2919	EKG
+T40	PROCEDURE 3147 3178	Transtorakální echokardiografie
+T55	PROCEDURE 3993 4019	Magnetická rezonance srdce
+T49	PROCEDURE 4021 4024	MRI
+T57	PROCEDURE 4830 4860	intravenózním podání kontrastu
+T42	PROCEDURE 5217 5243	Pyrofosfátová scintigrafie
+T43	PROCEDURE 5404 5418	Genetický test
+T59	PROCEDURE 5671 5710	vyšetření hrudníku výpočetní tomografií
+T60	PROCEDURE 5712 5714	CT
+T41	PROCEDURE 5858 5889	transtorakální echokardiografie
+T62	PROCEDURE 6027 6053	magnetická rezonance srdce
+T44	PROCEDURE 6138 6150	biopsie tuku
+T64	PROCEDURE 6167 6180	biopsii rekta
+T65	PROCEDURE 6205 6224	48hodinový Holterův
+T37	PROCEDURE 6242 6254	proteinogram
+T45	PROCEDURE 6257 6294	detekce lehkých řetězců v séru a moči
+T46	PROCEDURE 6319 6358	scintigrafie techneciem-99-difosfonátem
+T66	PROCEDURE 6555 6574	genetické vyšetření
+T50	PROCEDURE 6824 6857	antagonisté osy renin-angiotenzin
+T68	PROCEDURE 6893 6906	funkci ledvin
+T70	PROCEDURE 7242 7256	renální funkce

@@ -1,0 +1,19 @@
+T10	PROCEDURE 104 107	EKG
+T35	PROCEDURE 138 162	předoperačního vyšetření
+T1	PROCEDURE 165 187	operaci pravého ramene
+T20	PROCEDURE 222 230	Anamnéza
+T12	PROCEDURE 254 273	fyzikální vyšetření
+T13	PROCEDURE 802 821	Fyzikální vyšetření
+T24	PROCEDURE 918 934	auskultaci srdce
+T11	PROCEDURE 1100 1103	EKG
+T14	PROCEDURE 1160 1191	transtorakální echokardiografie
+T26	PROCEDURE 1212 1249	implantace trvalého kardiostimulátoru
+T38	PROCEDURE 1293 1302	vyšetření
+T15	PROCEDURE 1305 1336	Transtorakální echokardiografie
+T16	PROCEDURE 1525 1548	CT angiografie hrudníku
+T17	PROCEDURE 1604 1637	Transezofageální echokardiografie
+T18	PROCEDURE 1740 1765	traumatologické vyšetření
+T29	PROCEDURE 2157 2176	genetické vyšetření
+T22	PROCEDURE 2277 2296	Genetické vyšetření
+T48	PROCEDURE 2417 2424	operaci
+T49	PROCEDURE 2467 2498	autologní perikardiální záplaty

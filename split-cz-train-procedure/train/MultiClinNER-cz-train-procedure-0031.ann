@@ -1,0 +1,19 @@
+T1	PROCEDURE 144 152	Anamnéza
+T2	PROCEDURE 291 310	Fyzikální vyšetření
+T10	PROCEDURE 403 433	hygienicko-dietními opatřeními
+T12	PROCEDURE 623 635	prokinetikum
+T3	PROCEDURE 815 818	EDA
+T7	PROCEDURE 891 926	Kartáčkem byly odebrány vzorky lézí
+T6	PROCEDURE 929 964	patologickému vyšetření a kultivaci
+T17	PROCEDURE 1317 1325	anamnézy
+T18	PROCEDURE 1327 1348	fyzikálního vyšetření
+T19	PROCEDURE 1362 1376	krevních testů
+T5	PROCEDURE 1391 1426	funkce štítné žlázy, jater a ledvin
+T8	PROCEDURE 1428 1448	diabetického profilu
+T9	PROCEDURE 1450 1470	imunologického stavu
+T21	PROCEDURE 1481 1504	sérologického vyšetření
+T11	PROCEDURE 1512 1552	rentgenového vyšetření hrudníku a břicha
+T14	PROCEDURE 1674 1700	inhibitory protonové pumpy
+T13	PROCEDURE 1702 1705	PPI
+T4	PROCEDURE 1847 1851	PPIs
+T15	PROCEDURE 2004 2007	DSA

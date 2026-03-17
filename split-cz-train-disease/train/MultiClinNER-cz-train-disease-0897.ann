@@ -1,0 +1,36 @@
+T15	DISEASE 81 95	lékové alergie
+T16	DISEASE 132 144	dyslipidemie
+T17	DISEASE 173 193	Aktivní kuřák konopí
+T18	DISEASE 213 232	bývalý kuřák tabáku
+T35	DISEASE 275 296	arteriální hypertenze
+T68	DISEASE 298 301	AHT
+T19	DISEASE 308 325	diabetes mellitus
+T20	DISEASE 327 329	DM
+T1	DISEASE 382 398	Karcinom varlete
+T21	DISEASE 409 416	seminom
+T23	DISEASE 545 572	Ankylopoetická spondylitida
+T125	DISEASE 1699 1721	hluboké žilní trombózy
+T76	DISEASE 1723 1726	HŽT
+T30	DISEASE 1782 1800	poškození myokardu
+T24	DISEASE 2526 2546	sinusová bradykardie
+T154	DISEASE 2722 2739	srdečního selhání
+T25	DISEASE 2875 2897	intraluminální trombus
+T158	DISEASE 3298 3304	trombu
+T159	DISEASE 3499 3516	komorového trombu
+T112	DISEASE 3524 3552	chlopenní srdeční onemocnění
+T26	DISEASE 3560 3581	perikardiální výpotek
+T157	DISEASE 3684 3720	arteriálními trombotickými příhodami
+T29	DISEASE 3960 3965	kuřák
+T123	DISEASE 3968 3980	dyslipidemik
+T3	DISEASE 3994 4010	seminomu varlete
+T31	DISEASE 4165 4183	poškození myokardu
+T4	DISEASE 4235 4282	akutní infarkt myokardu bez elevací ST segmentu
+T86	DISEASE 4284 4289	STEMI
+T32	DISEASE 4548 4605	organizovaný trombus ve středním segmentu LAD se stenózou
+T160	DISEASE 5004 5010	trombu
+T7	DISEASE 5401 5418	karcinomu varlete
+T8	DISEASE 5546 5586	akutním koronárním trombotickým příhodám
+T87	DISEASE 5669 5674	STEMI
+T9	DISEASE 5676 5743	Akutní přední descendentní trombóza sekundárně po léčbě cisplatinou
+T10	DISEASE 5843 5871	aterosklerotického postižení
+T22	DISEASE 5898 5905	seminom

@@ -1,0 +1,32 @@
+T13	SYMPTOM 616 635	elevace segmentu ST
+T110	SYMPTOM 1381 1415	svíravé bolesti uprostřed na hrudi
+T14	SYMPTOM 1605 1638	bolestí na hrudi při mírné námaze
+T83	SYMPTOM 1785 1792	dušnost
+T103	SYMPTOM 1794 1816	otoky dolních končetin
+T2	SYMPTOM 1818 1827	palpitace
+T85	SYMPTOM 1833 1850	infekční příznaky
+T3	SYMPTOM 1994 2012	Dobrý celkový stav
+T15	SYMPTOM 2014 2024	Při vědomí
+T102	SYMPTOM 2027 2038	orientovaný
+T109	SYMPTOM 2040 2054	spolupracující
+T100	SYMPTOM 2056 2072	normohydratovaný
+T101	SYMPTOM 2075 2096	normálně perfundovaný
+T4	SYMPTOM 2098 2122	akce srdeční: pravidelná
+T117	SYMPTOM 2128 2135	šelestů
+T5	SYMPTOM 2154 2172	alveolární dýchání
+T76	SYMPTOM 2180 2197	vedlejší fenomeny
+T6	SYMPTOM 2199 2256	Břicho: hydroaerické zvuky zachovány, měkké a stlačitelné
+T16	SYMPTOM 2207 2235	hydroaerické zvuky zachovány
+T11	SYMPTOM 2283 2309	Dolní končetiny: bez otoků
+T17	SYMPTOM 2311 2335	distální pulzy zachovány
+T73	SYMPTOM 2759 2775	bolestí na hrudi
+T7	SYMPTOM 2777 2792	sinusový rytmus
+T1	SYMPTOM 2810 2826	Elevace úseku ST
+T8	SYMPTOM 2920 2935	sinusový rytmus
+T12	SYMPTOM 3176 3203	Cx dobrého kalibru a vývoje
+T18	SYMPTOM 3485 3523	Dominantní DC dobrého kalibru a vývoje
+T9	SYMPTOM 3771 3824	nedilatovaná levá komora se zachovanou ejekční frakcí
+T115	SYMPTOM 3838 3868	změn segmentální kontraktility
+T10	SYMPTOM 3901 3941	Pravá komora normální velikosti a funkce
+T71	SYMPTOM 4335 4351	bolesti na hrudi
+T19	SYMPTOM 4927 4951	poklesu hmotnosti o 8 kg

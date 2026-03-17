@@ -1,0 +1,44 @@
+T1	SYMPTOM 94 110	bolesti na hrudi
+T6	SYMPTOM 291 305	asymptomatický
+T20	SYMPTOM 359 392	vystřelujícími bolestmi v čelisti
+T21	SYMPTOM 485 506	vegetativního kortexu
+T8	SYMPTOM 766 788	hemodynamicky stabilní
+T22	SYMPTOM 904 934	orientovaná ve všech 3 sférách
+T10	SYMPTOM 936 953	Eupnoický v klidu
+T11	SYMPTOM 955 972	dobře hydratovaný
+T23	SYMPTOM 974 984	vyživovaný
+T24	SYMPTOM 987 999	perfundovaný
+T12	SYMPTOM 1005 1013	rytmické
+T13	SYMPTOM 1018 1025	šelestů
+T25	SYMPTOM 1028 1037	extratonů
+T29	SYMPTOM 1043 1093	vezikulární šelest zachován v obou plicních polích
+T30	SYMPTOM 1098 1111	dalších zvuků
+T14	SYMPTOM 1113 1155	Břicho: přítomny hydroaerické zvuky, měkké
+T26	SYMPTOM 1245 1250	otoků
+T27	SYMPTOM 1256 1266	známek DVT
+T28	SYMPTOM 1268 1313	Základní neurologické vyšetření bylo normální
+T15	SYMPTOM 1342 1357	sinusový rytmus
+T31	SYMPTOM 1375 1419	Slabý nárůst vlny R v prekordiálních svodech
+T32	SYMPTOM 1614 1664	normální globální a segmentální systolickou funkcí
+T19	SYMPTOM 1666 1686	Normální kořen aorty
+T16	SYMPTOM 2703 2728	Kultivace MRSA: negativní
+T17	SYMPTOM 2792 2827	LK se zachovanou systolickou funkcí
+T33	SYMPTOM 3114 3135	LCT, LAD a DC v normě
+T34	SYMPTOM 3174 3178	LVEF
+T35	SYMPTOM 3200 3209	zachována
+T3	SYMPTOM 3320 3336	bolesti na hrudi
+T9	SYMPTOM 3541 3563	hemodynamicky stabilní
+T7	SYMPTOM 3565 3579	asymptomatický
+T36	SYMPTOM 3585 3607	poruch srdečního rytmu
+T2	SYMPTOM 3719 3734	bolest na hrudi
+T37	SYMPTOM 3878 3910	zvýšení transamináz a bilirubinu
+T38	SYMPTOM 4205 4223	celkovou malátnost
+T18	SYMPTOM 4225 4232	myalgie
+T39	SYMPTOM 4235 4253	dystermické pocity
+T40	SYMPTOM 4256 4264	horečkou
+T4	SYMPTOM 4364 4380	bolesti na hrudi
+T41	SYMPTOM 4406 4444	zvýšených markerech poškození myokardu
+T5	SYMPTOM 4569 4585	bolesti na hrudi
+T42	SYMPTOM 4673 4688	zachovalou LVEF
+T43	SYMPTOM 4693 4737	změn globální nebo segmentální kontraktility
+T44	SYMPTOM 4999 5013	Zachovalá LVEF

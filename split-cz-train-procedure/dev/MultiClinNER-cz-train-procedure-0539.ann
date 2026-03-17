@@ -1,0 +1,25 @@
+T6	PROCEDURE 629 648	Fyzikální vyšetření
+T10	PROCEDURE 914 932	Srdeční auskultace
+T11	PROCEDURE 978 995	Plicní auskultace
+T13	PROCEDURE 1088 1111	neurologickém vyšetření
+T8	PROCEDURE 1259 1280	urologickém vyšetření
+T16	PROCEDURE 1388 1395	palpaci
+T17	PROCEDURE 1449 1463	transiluminací
+T19	PROCEDURE 1512 1520	hemogram
+T2	PROCEDURE 1624 1633	Koagulace
+T1	PROCEDURE 1657 1666	Biochemie
+T7	PROCEDURE 1842 1855	Moč: sediment
+T23	PROCEDURE 1892 1903	hemokultury
+T9	PROCEDURE 1928 1959	specifická sérologie na brucelu
+T26	PROCEDURE 2034 2055	zobrazovací vyšetření
+T27	PROCEDURE 2057 2073	rentgen hrudníku
+T3	PROCEDURE 2075 2091	ultrazvuk břicha
+T4	PROCEDURE 2093 2101	CT lebky
+T30	PROCEDURE 2103 2132	transtorakální echokardiogram
+T12	PROCEDURE 2185 2202	ultrazvuku varlat
+T5	PROCEDURE 2474 2486	antipyretika
+T14	PROCEDURE 2488 2507	protizánětlivé léky
+T15	PROCEDURE 2509 2513	klid
+T18	PROCEDURE 2516 2531	elevace varlete
+T35	PROCEDURE 2546 2564	antibiotická léčba
+T36	PROCEDURE 2800 2818	antibiotické léčby

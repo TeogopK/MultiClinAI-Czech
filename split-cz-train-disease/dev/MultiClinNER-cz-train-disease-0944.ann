@@ -1,0 +1,52 @@
+T1	DISEASE 90 114	farmakologických alergií
+T48	DISEASE 137 167	diabetes mellitus (DM) 2. typu
+T49	DISEASE 156 158	DM
+T2	DISEASE 191 214	diabetickou retinopatií
+T3	DISEASE 250 287	chronické onemocnění ledvin 4. stupně
+T4	DISEASE 327 330	AHT
+T50	DISEASE 333 335	DM
+T51	DISEASE 425 453	benigní hyperplazie prostaty
+T52	DISEASE 777 799	tonicko-klonické křeče
+T6	DISEASE 869 881	hypoglykémií
+T7	DISEASE 977 1035	kranioencefalické poranění s řezně-kontuzní ranou na hlavě
+T53	DISEASE 1930 1952	hluboké žilní trombózy
+T54	DISEASE 2038 2089	Atrioventrikulární blokáda druhého stupně, Mobitz 1
+T55	DISEASE 2207 2233	Atrioventrikulární blokáda
+T9	DISEASE 2694 2722	Kortikosubkortikální atrofie
+T10	DISEASE 2735 2776	Kalcifikace epifýzy a choroidálního plexu
+T11	DISEASE 2917 2943	angiografického onemocnění
+T12	DISEASE 2945 2990	Přední sestupná (AD): velmi závažné postižení
+T13	DISEASE 3168 3215	Cirkumflexní (CX): závažné proximální postižení
+T14	DISEASE 3427 3460	Akutní trombotická okluzivní léze
+T19	DISEASE 4096 4138	atrioventrikulární blokádou prvního stupně
+T21	DISEASE 4376 4392	infarkt myokardu
+T22	DISEASE 4431 4433	TI
+T61	DISEASE 4446 4478	středně těžkou plicní hypertenzí
+T57	DISEASE 4486 4507	perikardiální výpotek
+T56	DISEASE 4562 4584	AV blok prvního stupně
+T62	DISEASE 4621 4628	synkopě
+T64	DISEASE 4714 4749	AV blokádu (AVB) 2. stupně Mobitz I
+T66	DISEASE 4866 4876	infarktový
+T67	DISEASE 4893 4913	STEMI v dolní frontě
+T68	DISEASE 4970 5016	posttraumatického kranioencefalického krvácení
+T70	DISEASE 5263 5305	atrioventrikulární blokády vysokého stupně
+T71	DISEASE 5312 5341	AVB II. stupně typu Mobitz II
+T72	DISEASE 5373 5397	AVB II. stupně Mobitz I.
+T73	DISEASE 5453 5511	akutní trombotickou okluzivní lézi v pravé koronární tepně
+T74	DISEASE 5836 5874	atrioventrikulární blok prvního stupně
+T75	DISEASE 5920 5946	atrioventrikulární blokády
+T59	DISEASE 6178 6184	anémie
+T78	DISEASE 6186 6215	chronického onemocnění ledvin
+T79	DISEASE 6218 6252	difuzního distálního postižení LAD
+T80	DISEASE 6399 6414	anginy pectoris
+T81	DISEASE 6451 6530	Akutní koronární syndrom s elevacemi úseku ST (STEACS) inferoposterior Killip I
+T82	DISEASE 6498 6504	STEACS
+T60	DISEASE 6532 6590	Pravá koronární tepna s akutní trombotickou okluzivní lézí
+T83	DISEASE 6697 6739	Atrioventrikulární blok 2. stupně Mobitz i
+T84	DISEASE 6749 6854	atrioventrikulární blokády vysokého stupně ischemického původu v důsledku postižení pravé koronární tepny
+T85	DISEASE 6876 6914	atrioventrikulární blok prvního stupně
+T58	DISEASE 6916 6923	Synkopa
+T86	DISEASE 6947 6975	kranioencefalickým traumatem
+T87	DISEASE 6981 7018	akutních mozkových hemoragických lézí
+T88	DISEASE 7020 7053	Poranění hlavy s incizí a kontuzí
+T89	DISEASE 7055 7113	Těžká ischemická vícesegmentová ischemická choroba srdeční

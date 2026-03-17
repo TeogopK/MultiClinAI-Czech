@@ -1,0 +1,29 @@
+T12	PROCEDURE 496 499	NOT
+T15	PROCEDURE 501 504	NOT
+T16	PROCEDURE 531 534	NOT
+T5	PROCEDURE 559 574	Vyšetření fundu
+T17	PROCEDURE 604 623	CT vyšetření očnice
+T19	PROCEDURE 876 907	vyšetření magnetickou rezonancí
+T6	PROCEDURE 1111 1130	chirurgická biopsie
+T14	PROCEDURE 1144 1173	Anatomopatologickým výsledkem
+T13	PROCEDURE 1174 1181	biopsie
+T18	PROCEDURE 1405 1424	imunohistochemickou
+T20	PROCEDURE 1542 1557	Cílená anamnéza
+T2	PROCEDURE 1644 1663	Fyzikální vyšetření
+T1	PROCEDURE 1664 1682	Rektální vyšetření
+T3	PROCEDURE 1816 1846	Transrektální biopsie prostaty
+T21	PROCEDURE 1919 1938	Kostní scan s Tc99m
+T22	PROCEDURE 2337 2366	kompletní hormonální blokádou
+T11	PROCEDURE 2422 2434	bisfosfonáty
+T23	PROCEDURE 2494 2512	androgenní blokády
+T24	PROCEDURE 2717 2742	výplachu močového měchýře
+T7	PROCEDURE 2768 2788	TUR močového měchýře
+T8	PROCEDURE 2883 2903	Patologická anatomie
+T25	PROCEDURE 2904 2914	resekčních
+T26	PROCEDURE 3003 3020	hormonální léčbou
+T34	PROCEDURE 3171 3187	renálních funkcí
+T27	PROCEDURE 3215 3254	torakoabdominálně-pelvické CT vyšetření
+T28	PROCEDURE 3517 3543	pravostranná pleurocentéza
+T9	PROCEDURE 3545 3573	cytologie pleurální tekutiny
+T4	PROCEDURE 3617 3639	Perkutánní nefrostomie
+T10	PROCEDURE 3691 3706	paliativní péče

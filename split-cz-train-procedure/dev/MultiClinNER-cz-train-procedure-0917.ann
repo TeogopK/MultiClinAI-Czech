@@ -1,0 +1,24 @@
+T33	PROCEDURE 32 51	fyzikální vyšetření
+T3	PROCEDURE 786 806	fyzikálním vyšetření
+T34	PROCEDURE 1084 1100	Auskultace srdce
+T35	PROCEDURE 1170 1185	Auskultace plic
+T36	PROCEDURE 1876 1893	Elektrokardiogram
+T37	PROCEDURE 2055 2067	RTG hrudníku
+T6	PROCEDURE 2354 2380	hodnoty arteriálních plynů
+T38	PROCEDURE 2434 2465	Transtorakální echokardiografie
+T9	PROCEDURE 3082 3091	MRI srdce
+T43	PROCEDURE 3865 3877	Koronografie
+T39	PROCEDURE 4187 4212	Multislice CT angiografie
+T40	PROCEDURE 4334 4350	Diuretická léčba
+T41	PROCEDURE 4370 4412	vazodilatační léčby a léčby beta-blokátory
+T51	PROCEDURE 4450 4478	intravenózní infuzi diuretik
+T52	PROCEDURE 4513 4539	perorálních inhibitorů ACE
+T53	PROCEDURE 4552 4565	antikoagulaci
+T54	PROCEDURE 4649 4662	betablokátorů
+T55	PROCEDURE 4996 5009	betablokátorů
+T57	PROCEDURE 5193 5201	diuretik
+T42	PROCEDURE 5242 5256	beta-blokátory
+T58	PROCEDURE 5371 5398	kardiovaskulárních chirurgů
+T59	PROCEDURE 5891 5925	diuretickou léčbou, betablokátorem
+T60	PROCEDURE 5957 5971	antikoagulační
+T61	PROCEDURE 5974 5996	antihypertenzní léčbou

@@ -1,0 +1,33 @@
+T18	PROCEDURE 187 207	fyzikálním vyšetření
+T17	PROCEDURE 287 306	rektálním vyšetření
+T13	PROCEDURE 408 420	Krevní testy
+T19	PROCEDURE 423 438	krevním obrazem
+T14	PROCEDURE 440 449	biochemie
+T4	PROCEDURE 451 460	koagulace
+T6	PROCEDURE 476 490	Vyšetření moči
+T7	PROCEDURE 501 516	Močový sediment
+T15	PROCEDURE 557 571	Kultivace moči
+T1	PROCEDURE 587 601	Cytologie moči
+T5	PROCEDURE 660 705	ultrazvuk ledvin, močového měchýře a prostaty
+T2	PROCEDURE 809 831	Intravenózní urografie
+T8	PROCEDURE 989 1006	Cystouretrografie
+T3	PROCEDURE 1052 1063	Cystoskopie
+T20	PROCEDURE 1103 1130	Břišně-pánevní CT vyšetření
+T30	PROCEDURE 1373 1396	podání kontrastní látky
+T31	PROCEDURE 1465 1485	magnetická rezonance
+T32	PROCEDURE 1700 1720	magnetické rezonance
+T33	PROCEDURE 1896 1920	intravenózního kontrastu
+T21	PROCEDURE 1932 1936	FNAB
+T12	PROCEDURE 2053 2070	odstranění nádoru
+T22	PROCEDURE 2076 2094	bimanuální palpaci
+T23	PROCEDURE 2109 2126	stlačení prostaty
+T24	PROCEDURE 2154 2187	středního infraumbilikálního řezu
+T25	PROCEDURE 2190 2218	extraperitoneálního přístupu
+T16	PROCEDURE 2337 2365	otevření endopelvické fascie
+T26	PROCEDURE 2381 2411	sekce tenké prostatické stopky
+T9	PROCEDURE 2441 2462	Intraoperační biopsie
+T10	PROCEDURE 2591 2605	prostatektomie
+T27	PROCEDURE 2655 2682	histopatologickém vyšetření
+T11	PROCEDURE 2928 2941	Mikroskopicky
+T38	PROCEDURE 3404 3420	Imunohistochemie
+T28	PROCEDURE 3764 3767	MRI

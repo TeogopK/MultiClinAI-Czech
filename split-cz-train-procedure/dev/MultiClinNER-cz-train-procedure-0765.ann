@@ -1,0 +1,37 @@
+T39	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 364 376	rehabilitací
+T5	PROCEDURE 514 525	hemodialýzu
+T40	PROCEDURE 878 897	Fyzikální vyšetření
+T41	PROCEDURE 1061 1077	Auskultace srdce
+T42	PROCEDURE 1155 1170	Auskultace plic
+T43	PROCEDURE 1300 1308	hemogram
+T61	PROCEDURE 1412 1421	Biochemie
+T10	PROCEDURE 1584 1601	Kardiální markery
+T44	PROCEDURE 1658 1669	Antigenurie
+T45	PROCEDURE 1759 1773	PCR SARS-CoV-2
+T46	PROCEDURE 1786 1812	Rentgenový snímek hrudníku
+T48	PROCEDURE 1922 1925	EKG
+T49	PROCEDURE 2105 2124	sérový proteinogram
+T32	PROCEDURE 2544 2563	Autoimunitní profil
+T33	PROCEDURE 2576 2590	Vyšetření moči
+T50	PROCEDURE 2727 2756	Transtorakální echokardiogram
+T51	PROCEDURE 3230 3256	Magnetická rezonance srdce
+T34	PROCEDURE 3258 3261	CMR
+T57	PROCEDURE 4141 4167	Magnetická rezonance mozku
+T62	PROCEDURE 4169 4172	MRI
+T64	PROCEDURE 4285 4311	Pyrofosfátový srdeční sken
+T52	PROCEDURE 4346 4383	Biopsie břišní podkožní buněčné tkáně
+T53	PROCEDURE 4434 4454	Biopsie kostní dřeně
+T67	PROCEDURE 4780 4791	antibiotika
+T47	PROCEDURE 4956 4982	rentgenový snímek hrudníku
+T69	PROCEDURE 5137 5166	echokardiografickém vyšetření
+T70	PROCEDURE 5393 5410	diuretickou léčbu
+T71	PROCEDURE 5412 5440	Echokardiografické vyšetření
+T74	PROCEDURE 5631 5634	CMR
+T56	PROCEDURE 5773 5799	pyrofosfátová scintigrafie
+T58	PROCEDURE 5854 5866	proteinogram
+T59	PROCEDURE 5869 5894	imunofixace v krvi a moči
+T60	PROCEDURE 5947 5968	Biopsie břišního tuku
+T77	PROCEDURE 5971 5996	barvením konžskou červení
+T54	PROCEDURE 6047 6067	biopsie kostní dřeně
+T80	PROCEDURE 6177 6198	biopsie slinných žláz

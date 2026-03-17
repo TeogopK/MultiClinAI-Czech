@@ -1,0 +1,43 @@
+T1	SYMPTOM 379 386	horečka
+T2	SYMPTOM 397 405	zvracení
+T3	SYMPTOM 408 415	závratě
+T13	SYMPTOM 459 479	suchý dráždivý kašel
+T14	SYMPTOM 505 509	rýmy
+T4	SYMPTOM 515 522	otalgie
+T67	SYMPTOM 530 545	mikční příznaky
+T5	SYMPTOM 553 569	změny ve stolici
+T51	SYMPTOM 636 642	bolest
+T15	SYMPTOM 645 683	nepříjemné pocity v oblasti rezervoáru
+T16	SYMPTOM 686 706	erytematózní oblastí
+T17	SYMPTOM 709 734	zvýšenou lokální teplotou
+T81	SYMPTOM 857 863	vědomí
+T68	SYMPTOM 865 876	orientovaný
+T18	SYMPTOM 878 892	spolupracující
+T19	SYMPTOM 894 904	Glasgow 15
+T72	SYMPTOM 924 947	akce srdeční pravidelná
+T6	SYMPTOM 949 960	tachykardie
+T89	SYMPTOM 982 989	šelesty
+T7	SYMPTOM 1008 1026	dýchání alveolární
+T20	SYMPTOM 1028 1053	Oboustranná PPR negativní
+T50	SYMPTOM 1072 1081	bez otoků
+T28	SYMPTOM 1099 1123	břicho: měkké, prohmatné
+T21	SYMPTOM 1125 1157	bolestivé při palpaci epigastria
+T83	SYMPTOM 1165 1171	útvary
+T22	SYMPTOM 1176 1190	visceromegalie
+T34	SYMPTOM 1201 1222	peristaltika přítomná
+T70	SYMPTOM 1237 1248	peritonismu
+T8	SYMPTOM 1250 1277	Blumberg a Murphy negativní
+T23	SYMPTOM 1574 1631	Krevní kultivace: pozitivní na Staphylococcus epidermidis
+T9	SYMPTOM 1724 1737	normální LVEF
+T10	SYMPTOM 1746 1768	kontraktilní asymetrie
+T11	SYMPTOM 1770 1787	Normální diastola
+T24	SYMPTOM 1809 1846	MV s jemnými cípy, zachovalá kinetika
+T26	SYMPTOM 1856 1881	trojcípá jemná ao chlopeň
+T27	SYMPTOM 1973 1990	zachovanou funkcí
+T84	SYMPTOM 2141 2147	útvary
+T85	SYMPTOM 2280 2286	útvary
+T88	SYMPTOM 2836 2842	útvarů
+T86	SYMPTOM 2900 2906	útvary
+T87	SYMPTOM 3115 3121	útvary
+T82	SYMPTOM 3235 3240	útvar
+#T20	AnnotatorNotes T20	?? uknown abbreviation

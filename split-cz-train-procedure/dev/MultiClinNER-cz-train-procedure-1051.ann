@@ -1,0 +1,25 @@
+T38	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T111	PROCEDURE 244 258	koronarografií
+T99	PROCEDURE 452 482	echokardiografickým vyšetřením
+T36	PROCEDURE 1482 1499	elektrokardiogram
+T39	PROCEDURE 1574 1593	Fyzikální vyšetření
+T40	PROCEDURE 1885 1912	Kardiopulmonální auskultace
+T3	PROCEDURE 2037 2049	Krevní testy
+T45	PROCEDURE 2051 2060	Biochemie
+T46	PROCEDURE 2450 2462	Krevní obraz
+T41	PROCEDURE 2842 2851	Hemostáza
+T37	PROCEDURE 2995 3012	Elektrokardiogram
+T42	PROCEDURE 3014 3017	EKG
+T4	PROCEDURE 3241 3253	RTG hrudníku
+T32	PROCEDURE 3337 3353	Echokardiografie
+T6	PROCEDURE 3575 3607	barevném dopplerovském vyšetření
+T70	PROCEDURE 3639 3668	Transtorakální echokardiogram
+T43	PROCEDURE 4037 4056	Srdeční katetrizace
+T44	PROCEDURE 4429 4438	MRI srdce
+T9	PROCEDURE 5256 5275	enzymovou sérologii
+T34	PROCEDURE 5372 5388	echokardiografie
+T10	PROCEDURE 5456 5482	markerů poškození myokardu
+T31	PROCEDURE 5713 5727	koronarografie
+T132	PROCEDURE 6010 6039	transtorakální echokardiogram
+T117	PROCEDURE 6076 6102	magnetická rezonance srdce
+T131	PROCEDURE 6362 6372	telemetrii

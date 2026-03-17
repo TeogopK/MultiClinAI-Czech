@@ -1,0 +1,30 @@
+T50	PROCEDURE 0 8	ANAMNÉZA
+T33	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T51	PROCEDURE 53 68	OSOBNÍ ANAMNÉZA
+T34	PROCEDURE 498 517	FYZIKÁLNÍ VYŠETŘENÍ
+T41	PROCEDURE 518 532	Životní funkce
+T35	PROCEDURE 742 758	Auskultace srdce
+T36	PROCEDURE 783 798	Auskultace plic
+T37	PROCEDURE 941 963	Neurologické vyšetření
+T2	PROCEDURE 1144 1156	Krevní testy
+T40	PROCEDURE 1421 1445	Antinukleární protilátky
+T44	PROCEDURE 1447 1450	ANA
+T3	PROCEDURE 1519 1530	HIV (Elisa)
+T38	PROCEDURE 1572 1589	Elektrokardiogram
+T63	PROCEDURE 1657 1669	RTG hrudníku
+T88	PROCEDURE 1759 1793	Multimodální počítačová tomografie
+T53	PROCEDURE 1795 1797	CT
+T54	PROCEDURE 1800 1808	CT lebky
+T42	PROCEDURE 1932 1942	CT-perfuze
+T43	PROCEDURE 1997 2021	Angio-CT: extrakraniální
+T5	PROCEDURE 2201 2209	MR mozku
+T65	PROCEDURE 2447 2476	Transtorakální echokardiogram
+T64	PROCEDURE 2807 2838	Transezofageální echokardiogram
+T11	PROCEDURE 3319 3343	perkutánního uzávěru PFO
+T39	PROCEDURE 3408 3433	perkutánní uzávěr defektu
+T71	PROCEDURE 3437 3454	celkové anestezii
+T77	PROCEDURE 3461 3490	echokardiografickou kontrolou
+T14	PROCEDURE 3561 3604	Do levé síně byl přes PFO zaveden MP katétr
+T13	PROCEDURE 3607 3665	do levé horní plicní žíly byl zaveden podpůrný vodicí drát
+T78	PROCEDURE 3860 3904	transezofageálním echokardiografickém snímku
+T16	PROCEDURE 4028 4076	Uzávěr PFO pomocí zařízení Figulla Flex 30-27 mm

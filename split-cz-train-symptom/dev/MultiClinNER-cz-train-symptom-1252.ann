@@ -1,0 +1,58 @@
+T21	SYMPTOM 126 133	bolesti
+T23	SYMPTOM 216 233	bolesti v bedrech
+T22	SYMPTOM 272 281	lumbalgie
+T24	SYMPTOM 414 437	generalizovanou astenií
+T25	SYMPTOM 439 447	horečkou
+T26	SYMPTOM 478 498	ztuhlým krkem a zády
+T27	SYMPTOM 543 550	bolestí
+T28	SYMPTOM 553 577	zarudnutím levého kolena
+T29	SYMPTOM 579 596	úbytkem hmotnosti
+T30	SYMPTOM 628 647	celkovou malátností
+T33	SYMPTOM 1066 1092	pozitivní krevní kultivace
+T1	SYMPTOM 1221 1239	Dobrý celkový stav
+T2	SYMPTOM 1245 1251	vědomí
+T34	SYMPTOM 1267 1288	Krk: výrazná ztuhlost
+T35	SYMPTOM 1319 1340	rytmické srdeční ozvy
+T3	SYMPTOM 1346 1353	šelestů
+T4	SYMPTOM 1372 1400	zachovalý vezikulární šelest
+T5	SYMPTOM 1413 1433	mírný periferní edém
+T6	SYMPTOM 1496 1527	Kerning a Brudzinski: negativní
+T66	SYMPTOM 1745 1772	kultivace likvoru negativní
+T7	SYMPTOM 1774 1811	Kultivace krve: Staphylococcus aureus
+T36	SYMPTOM 2269 2312	Velikost a morfologie ledvin jsou zachovány
+T8	SYMPTOM 2377 2408	Břišní aorta normálního kalibru
+T37	SYMPTOM 2448 2497	Zesílená stěna colon s nadměrným střevním obsahem
+T38	SYMPTOM 2520 2547	volné tekutiny v malé pánvi
+T39	SYMPTOM 2560 2597	postupnému zhoršování celkového stavu
+T10	SYMPTOM 2680 2704	pozitivní kultivace krve
+T11	SYMPTOM 2818 2860	nedilatovaná LK s normální tloušťkou stěny
+T40	SYMPTOM 2862 2876	Zachovalá LVEF
+T18	SYMPTOM 2882 2917	segmentální asymetrie kontraktility
+T41	SYMPTOM 2919 2953	Diastolický obraz poruchy relaxace
+T12	SYMPTOM 2955 2985	RV normální velikosti a funkce
+T13	SYMPTOM 3566 3592	Výrazná Eustachova chlopeň
+T42	SYMPTOM 3670 3696	hemodynamické kompromitace
+T14	SYMPTOM 3770 3808	LK normální velikosti a tloušťky stěny
+T19	SYMPTOM 3816 3864	systolická funkce a žádné kontraktilní asymetrie
+T43	SYMPTOM 3944 4019	proximálnímu mitrálnímu subvalvulárnímu aparátu je vizualizována silná masa
+T20	SYMPTOM 4202 4230	mitrální chlopeň: jemné cípy
+T44	SYMPTOM 4467 4511	Aortální chlopeň: trojcípá, s tenkými lístky
+T45	SYMPTOM 4673 4706	hmoty vycházející ze stěny komory
+T46	SYMPTOM 4934 4949	Dobrá funkce PK
+T47	SYMPTOM 4983 5035	roviny trikuspidální chlopně se nacházel silný útvar
+T48	SYMPTOM 5328 5341	cípy TV tenké
+T15	SYMPTOM 5442 5473	Plicní chlopeň s tenkými lístky
+T9	SYMPTOM 5614 5649	postupné zhoršování celkového stavu
+T49	SYMPTOM 5651 5688	Hodnoty krevního tlaku byly adekvátní
+T50	SYMPTOM 5702 5715	tachykardická
+T51	SYMPTOM 5717 5729	tachypnoická
+T52	SYMPTOM 5734 5759	špatným celkovým vzhledem
+T58	SYMPTOM 5945 5955	hypotenzní
+T59	SYMPTOM 5957 5969	tachypnoická
+T60	SYMPTOM 5972 5980	zakalená
+T61	SYMPTOM 5984 6011	hemodynamickou nestabilitou
+T16	SYMPTOM 6877 6902	hemodynamická nestabilita
+T62	SYMPTOM 7127 7138	hemoragické
+T64	SYMPTOM 7358 7390	oboustranné mydriasis arreactiva
+T17	SYMPTOM 7506 7512	zemřel
+T65	SYMPTOM 7750 7758	exitusem

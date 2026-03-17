@@ -1,0 +1,15 @@
+T4	SYMPTOM 90 97	horečku
+T5	SYMPTOM 99 117	celkovou malátnost
+T1	SYMPTOM 119 133	bolesti břicha
+T2	SYMPTOM 135 144	nevolnost
+T6	SYMPTOM 147 163	zvracení potravy
+T3	SYMPTOM 227 252	hemodynamická nestabilita
+T10	SYMPTOM 256 277	sinusovou tachykardií
+T11	SYMPTOM 286 306	arteriální hypotenzí
+T12	SYMPTOM 445 460	distenzi břicha
+T7	SYMPTOM 463 490	difuzní bolestivostí břicha
+T8	SYMPTOM 511 537	útvaru v úrovni epigastria
+T9	SYMPTOM 612 649	leukocytózu s výrazným posunem doleva
+T13	SYMPTOM 651 664	hyperglykémii
+T14	SYMPTOM 667 714	diskrétní zvýšení bilirubinu i jaterních enzymů
+T18	SYMPTOM 1276 1295	hnisavého materiálu

@@ -1,0 +1,70 @@
+T32	SYMPTOM 753 760	horečce
+T33	SYMPTOM 763 781	celkové malátnosti
+T34	SYMPTOM 794 830	zánětlivou bolestí v bederní oblasti
+T35	SYMPTOM 874 888	potíže v břiše
+T36	SYMPTOM 903 921	pocitem nevolnosti
+T1	SYMPTOM 981 997	bolesti na hrudi
+T2	SYMPTOM 999 1006	dušnost
+T3	SYMPTOM 1008 1017	palpitace
+T37	SYMPTOM 1177 1202	zvýšené zánětlivé markery
+T38	SYMPTOM 1213 1241	leukocytózu s posunem doleva
+T27	SYMPTOM 1864 1911	růst Enterococcus faecalis v krevních kulturách
+T4	SYMPTOM 2155 2177	hemodynamicky stabilní
+T41	SYMPTOM 2181 2208	velmi mírnou dechovou prací
+T42	SYMPTOM 2213 2232	chrupkami na bázích
+T43	SYMPTOM 2248 2281	petechiemi na dolních končetinách
+T5	SYMPTOM 2672 2678	vědomí
+T44	SYMPTOM 2680 2691	orientovaný
+T45	SYMPTOM 2694 2708	spolupracující
+T6	SYMPTOM 2710 2730	Dobrý stav hydratace
+T7	SYMPTOM 2732 2750	Mírná bledost kůže
+T46	SYMPTOM 2758 2767	bolestivá
+T8	SYMPTOM 2775 2798	Mírná tachypnoe v klidu
+T47	SYMPTOM 2806 2825	mezižeberní škubání
+T9	SYMPTOM 2827 2863	Hlava a krk: žádná krční ingurgitace
+T10	SYMPTOM 2866 2898	negativní hepatojugulární reflux
+T48	SYMPTOM 2900 2925	Karotický puls symetrický
+T11	SYMPTOM 2932 2939	šelestů
+T12	SYMPTOM 2958 2986	zachovalý vezikulární šelest
+T49	SYMPTOM 2989 3023	krepitantními chrůpky v pravé bázi
+T50	SYMPTOM 3043 3064	rytmické srdeční ozvy
+T13	SYMPTOM 3066 3092	Aortální systolický šelest
+T51	SYMPTOM 3102 3122	zachovalým 2. zvukem
+T52	SYMPTOM 3135 3161	protodiastolickým šelestem
+T53	SYMPTOM 3206 3235	Zachovalé hydroaerické zvuky.
+T54	SYMPTOM 3260 3291	nepříjemných pocitů při palpaci
+T55	SYMPTOM 3333 3393	Dolní končetiny: končetiny teplé a s dobrou kapilární náplní
+T56	SYMPTOM 3433 3479	Radiální a pedální pulzy přítomny a symetrické
+T57	SYMPTOM 3530 3535	otoky
+T14	SYMPTOM 4432 4448	růst Gram + koků
+T15	SYMPTOM 4649 4664	sinusový rytmus
+T16	SYMPTOM 4682 4720	Vlna P normální velikosti a morfologie
+T28	SYMPTOM 4722 4743	Interval PR v rozmezí
+T17	SYMPTOM 4761 4769	Úzké QRS
+T18	SYMPTOM 4848 4863	Normální vlna T
+T29	SYMPTOM 4865 4897	Interval QTc v normálním rozmezí
+T58	SYMPTOM 4968 5000	silueta srdce normální velikosti
+T59	SYMPTOM 5104 5136	uskřípnutí kostofrenických dutin
+T19	SYMPTOM 5334 5356	Žlučové cesty bez lézí
+T60	SYMPTOM 5358 5374	Ledviny normální
+T20	SYMPTOM 5589 5602	plicní uzliny
+T61	SYMPTOM 5905 5939	Pankreas, nadledviny jsou normální
+T62	SYMPTOM 6050 6081	levá komora není ani dilatovaná
+T63	SYMPTOM 6154 6169	zachovalou LVEF
+T30	SYMPTOM 6251 6291	Pravá komora normální velikosti a funkce
+T64	SYMPTOM 6377 6408	Dolní dutá žíla není dilatovaná
+T65	SYMPTOM 6751 6780	Aortální kořen není dilatován
+T66	SYMPTOM 6960 6986	septa síní jsou neporušená
+T67	SYMPTOM 7141 7190	Trikuspidální chlopeň normální struktury i funkce
+T74	SYMPTOM 7869 7875	edémem
+T21	SYMPTOM 8101 8137	změny v hustotě mozkového parenchymu
+T22	SYMPTOM 9483 9537	Difuzní a homogenní zvýšení metabolismu v kostní dřeni
+T75	SYMPTOM 10128 10134	edémem
+T76	SYMPTOM 11116 11142	koronárních tepen bez lézí
+T24	SYMPTOM 12468 12476	krvácení
+T26	SYMPTOM 13319 13333	asymptomatický
+T23	SYMPTOM 13418 13425	horečky
+T77	SYMPTOM 13606 13631	zhoršení renálních funkcí
+T31	SYMPTOM 14410 14437	Epikardiální tepny bez lézí
+T25	SYMPTOM 14801 14809	krvácení
+T78	SYMPTOM 14828 14850	zhoršení funkce ledvin

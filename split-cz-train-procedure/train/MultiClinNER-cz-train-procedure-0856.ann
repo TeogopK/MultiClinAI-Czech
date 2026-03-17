@@ -1,0 +1,11 @@
+T25	PROCEDURE 486 512	rentgenový snímek hrudníku
+T26	PROCEDURE 615 634	Fyzikální vyšetření
+T1	PROCEDURE 709 725	Auskultace srdce
+T31	PROCEDURE 780 782	AP
+T27	PROCEDURE 883 886	EKG
+T28	PROCEDURE 1064 1080	Echokardiografie
+T29	PROCEDURE 1791 1817	magnetická rezonance srdce
+T5	PROCEDURE 1954 1980	magnetické rezonance srdce
+T6	PROCEDURE 2400 2417	echokardiografií,
+T30	PROCEDURE 2424 2427	MRI
+T7	PROCEDURE 2430 2464	kardiopulmonálním zátěžovým testem

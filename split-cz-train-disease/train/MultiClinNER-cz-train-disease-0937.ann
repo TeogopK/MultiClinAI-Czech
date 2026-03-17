@@ -1,0 +1,29 @@
+T12	DISEASE 240 254	lékové alergie
+T13	DISEASE 301 308	obezita
+T14	DISEASE 311 336	diabetes mellitus 2. typu
+T1	DISEASE 389 421	časné ischemické choroby srdeční
+T2	DISEASE 427 455	náhlé kardiovaskulární smrti
+T4	DISEASE 1485 1548	kompletní atrioventrikulární blokáda (AVB) s širokým únikem QRS
+T5	DISEASE 1523 1526	AVB
+T6	DISEASE 1562 1582	bloku levého raménka
+T7	DISEASE 1584 1588	LBBB
+T8	DISEASE 1633 1637	LBBB
+T9	DISEASE 1696 1714	plicního překrvení
+T20	DISEASE 2098 2116	poškození myokardu
+T11	DISEASE 2583 2648	Mitrální chlopeň se sklerotizovanými lístky a mírnou insuficiencí
+T35	DISEASE 2691 2773	syndromem přechodné apikální dyskineze se středně depresivní systolickou dysfunkcí
+T36	DISEASE 2811 2884	1-cévní koronární onemocnění v důsledku závažné stenózy malé diagonály 1a
+T37	DISEASE 2920 2984	středně závažná stenóza ve střední třetině přední sestupné tepny
+T38	DISEASE 3034 3052	dilatovanou komoru
+T16	DISEASE 3140 3158	tako-tsubo syndrom
+T17	DISEASE 3746 3764	tako-tsubo syndrom
+T42	DISEASE 4054 4092	syndromem přechodné apikální dyskineze
+T44	DISEASE 4227 4300	jednosměrnou koronární nemoc v důsledku závažné stenózy malé diagonály 1a
+T45	DISEASE 4354 4428	středně závažná stenóza ve střední třetině přední sestupné koronární tepny
+T46	DISEASE 4488 4505	dilatovaná komora
+T18	DISEASE 4595 4613	tako-tsubo syndrom
+T48	DISEASE 4713 4741	přechodné apikální dyskineze
+T49	DISEASE 4842 4855	kompletní AVB
+T19	DISEASE 4935 4971	Syndrom přechodné apikální dyskineze
+T15	DISEASE 4999 5012	Kompletní BAV
+T51	DISEASE 5082 5130	Koronární onemocnění 1 cévy: významná stenóza D1

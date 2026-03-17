@@ -1,0 +1,55 @@
+T93	PROCEDURE 114 126	splenektomii
+T50	PROCEDURE 128 177	biopsii jater a mezenterických lymfatických uzlin
+T90	PROCEDURE 211 232	radioterapií hrudníku
+T1	PROCEDURE 260 278	hemityreoidektomii
+T19	PROCEDURE 555 571	Ultrazvuk břicha
+T2	PROCEDURE 574 612	jednoduchá hrudní a bederní radiologie
+T20	PROCEDURE 643 660	Elektrokardiogram
+T3	PROCEDURE 869 881	Krevní testy
+T28	PROCEDURE 1072 1087	Močový sediment
+T4	PROCEDURE 1170 1184	kultivace krve
+T82	PROCEDURE 1187 1201	kultivace moči
+T22	PROCEDURE 1244 1272	záchranná tekutinová terapie
+T47	PROCEDURE 1284 1302	antibiotická léčba
+T5	PROCEDURE 1432 1461	intravenózním podáním tekutin
+T67	PROCEDURE 1479 1487	intubaci
+T79	PROCEDURE 1490 1511	mechanickou ventilaci
+T21	PROCEDURE 1513 1530	Elektrokardiogram
+T41	PROCEDURE 1615 1646	Transezofageální echokardiogram
+T32	PROCEDURE 1876 1894	dopaminová perfuze
+T48	PROCEDURE 1942 1960	antibiotická léčba
+T58	PROCEDURE 2048 2056	extubaci
+T37	PROCEDURE 2181 2209	Echokardiografické vyšetření
+T36	PROCEDURE 2408 2442	Angiografie počítačovou tomografií
+T23	PROCEDURE 2631 2649	otevření perikardu
+T75	PROCEDURE 2714 2723	kultivaci
+T33	PROCEDURE 2940 2961	Hematom byl kanylován
+T34	PROCEDURE 2973 2983	debridován
+T29	PROCEDURE 3001 3024	vypuštění hojného hnisu
+T81	PROCEDURE 3133 3150	mimotělního oběhu
+T35	PROCEDURE 3153 3168	zaškrcení aorty
+T38	PROCEDURE 3174 3198	otevřena vzestupná aorta
+T44	PROCEDURE 3395 3445	resekována vegetace ukotvená k membranóznímu septu
+T49	PROCEDURE 3450 3562	vyčištění septa povidon jodem byl z důvodu podezření na komunikaci s pravou síní zaveden teflonem vyztužený steh
+T51	PROCEDURE 3564 3627	Část stěny aorty včetně mykotického aneuryzmatu byla resekována
+T52	PROCEDURE 3643 3691	přímý uzávěr aorty respektující aortální chlopeň
+T53	PROCEDURE 3708 3731	pravostranná atriotomie
+T55	PROCEDURE 3890 3914	Vegetace byla resekována
+T56	PROCEDURE 3916 3935	vyčištěna Betadinem
+T59	PROCEDURE 3938 3967	komisura byla zpevněna stehem
+T61	PROCEDURE 3979 4008	otevřeno interatriální septum
+T60	PROCEDURE 4029 4082	resekována velká vegetace na předním mitrálním lístku
+T31	PROCEDURE 4093 4100	operace
+T25	PROCEDURE 4101 4177	byl nad pravou komorou implantován definitivní epikardiální kardiostimulátor
+T39	PROCEDURE 4180 4194	Kultivace krve
+T83	PROCEDURE 4197 4211	kultivace moči
+T26	PROCEDURE 4228 4260	Kultivace perikardiální tekutiny
+T74	PROCEDURE 4301 4319	kultivace vegetací
+T27	PROCEDURE 4340 4368	polymerázová řetězová reakce
+T30	PROCEDURE 4370 4373	PCR
+T24	PROCEDURE 4477 4491	echokardiogram
+T62	PROCEDURE 4572 4579	operaci
+T70	PROCEDURE 4669 4684	krevních kultur
+T63	PROCEDURE 4737 4756	antimykotické léčbě
+T64	PROCEDURE 4777 4784	operaci
+T68	PROCEDURE 4833 4838	Pitva

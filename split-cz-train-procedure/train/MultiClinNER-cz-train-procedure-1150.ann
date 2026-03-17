@@ -1,0 +1,36 @@
+T39	PROCEDURE 0 8	ANAMNÉZA
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T55	PROCEDURE 171 186	antikoagulovaný
+T37	PROCEDURE 594 613	intravenózní infuze
+T24	PROCEDURE 808 835	Kardiopulmonální auskultace
+T26	PROCEDURE 846 865	fyzikální vyšetření
+T50	PROCEDURE 1063 1072	VYŠETŘENÍ
+T27	PROCEDURE 1073 1076	EKG
+T28	PROCEDURE 1269 1272	EKG
+T107	PROCEDURE 1291 1312	Laboratorní vyšetření
+T29	PROCEDURE 1329 1341	krevní obraz
+T36	PROCEDURE 1343 1352	biochemie
+T35	PROCEDURE 1355 1364	koagulace
+T1	PROCEDURE 1374 1387	kardiomarkery
+T46	PROCEDURE 1493 1496	RTG
+T47	PROCEDURE 1557 1586	Transtorakální echokardiogram
+T34	PROCEDURE 1731 1740	MRI srdce
+T30	PROCEDURE 1964 1972	Angio-CT
+T3	PROCEDURE 2257 2276	Centrální laboratoř
+T4	PROCEDURE 2821 2878	léčbě betablokátory, perorálními nitráty a inhibitory ACE
+T102	PROCEDURE 2893 2940	transtorakálního echokardiografického vyšetření
+T90	PROCEDURE 3034 3054	magnetické rezonance
+T31	PROCEDURE 3262 3270	angio-CT
+T5	PROCEDURE 3389 3414	zobrazovacích vyšetřeních
+T51	PROCEDURE 3782 3791	Vyšetření
+T32	PROCEDURE 3864 3882	angio-CT vyšetření
+T9	PROCEDURE 4163 4179	urgentní operaci
+T10	PROCEDURE 4187 4205	operačního zákroku
+T11	PROCEDURE 4382 4414	nahrazena 32mm dakronovým štěpem
+T33	PROCEDURE 4541 4557	vazoaktivní léky
+T78	PROCEDURE 4571 4583	hemofiltraci
+T76	PROCEDURE 4621 4630	extubován
+T101	PROCEDURE 4788 4797	sledování
+T99	PROCEDURE 4812 4826	rehabilitačním
+T91	PROCEDURE 4948 4974	magnetické rezonanci srdce
+T44	PROCEDURE 5134 5148	CT angiografie

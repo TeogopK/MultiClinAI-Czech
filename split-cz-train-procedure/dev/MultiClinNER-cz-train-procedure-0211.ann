@@ -1,0 +1,19 @@
+T6	PROCEDURE 220 330	Prostý rentgenový snímek a CT vyšetření s intravenózní kontrastní látkou a trojrozměrnou rekonstrukcí hrudníku
+T9	PROCEDURE 518 539	laboratorní vyšetření
+T7	PROCEDURE 587 656	imunoglobulinovými vyšetřeními (IgG, IgA, IgM a beta 2 mikroglobulin)
+T8	PROCEDURE 673 677	FNAB
+T2	PROCEDURE 680 699	chirurgická biopsie
+T3	PROCEDURE 719 728	cytologie
+T5	PROCEDURE 756 768	histologický
+T10	PROCEDURE 774 802	Imunohistochemická vyšetření
+T11	PROCEDURE 985 1003	Scintigrafie kostí
+T4	PROCEDURE 1105 1125	Biopsie kostní dřeně
+T14	PROCEDURE 1164 1178	vyšetření moči
+T1	PROCEDURE 1243 1289	široké en bloc odstranění sternálního manubria
+T12	PROCEDURE 1292 1374	částečná resekce obou klíčních kostí, prvních dvou žeber a těla sterna včetně kůže
+T13	PROCEDURE 1453 1495	defekt byl překryt polypropylenovou síťkou
+T15	PROCEDURE 1498 1535	sešitím prsních svalů ve střední čáře
+T19	PROCEDURE 1704 1732	Anatomicko-patologický popis
+T20	PROCEDURE 1825 1844	imunohistochemickou
+T17	PROCEDURE 2011 2023	radioterapií
+T16	PROCEDURE 2135 2147	tomografické

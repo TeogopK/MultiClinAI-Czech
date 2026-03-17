@@ -1,0 +1,53 @@
+T30	SYMPTOM 430 478	tísnivou nevyzařující centrální bolestí hrudníku
+T31	SYMPTOM 481 500	vegetativní krustou
+T20	SYMPTOM 582 629	elektrokardiogram (EKG) s patologickými změnami
+T1	SYMPTOM 906 929	Přijatelný celkový stav
+T2	SYMPTOM 935 941	vědomí
+T36	SYMPTOM 943 954	orientovaná
+T37	SYMPTOM 973 990	V klidu eupnoická
+T38	SYMPTOM 992 1009	Normální hmotnost
+T39	SYMPTOM 1066 1095	Jugulární žilní tlak normální
+T40	SYMPTOM 1097 1147	Auskultace srdce: rytmické tóny s dobrou frekvencí
+T3	SYMPTOM 1155 1162	šelesty
+T41	SYMPTOM 1199 1227	zachovalý vezikulární šelest
+T42	SYMPTOM 1263 1317	Břicho měkké a stlačitelné, při palpaci není bolestivé
+T43	SYMPTOM 1339 1345	útvary
+T4	SYMPTOM 1350 1360	zvětšeniny
+T44	SYMPTOM 1362 1389	Hydroaerické zvuky přítomny
+T45	SYMPTOM 1397 1419	otoky dolních končetin
+T46	SYMPTOM 1432 1494	Radiální, femorální a pedální pulzy byly oboustranně zachovány
+T5	SYMPTOM 1531 1551	sinusová tachykardie
+T8	SYMPTOM 1664 1675	normální PR
+T11	SYMPTOM 1677 1685	úzké QRS
+T47	SYMPTOM 1687 1738	elevace ST segmentu 2 mm ve V1 a aVR a 1 mm ve V2-3
+T48	SYMPTOM 1742 1791	poklesem ST o 1-2 mm v dolní frontě a od V4 po V6
+T49	SYMPTOM 1880 1891	neutrofilií
+T14	SYMPTOM 2370 2421	nedilatovaná levá komora s normální tloušťkou stěny
+T21	SYMPTOM 2423 2458	těžká hypokineze apikálního uzávěru
+T50	SYMPTOM 2461 2559	hypokineze apikálních segmentů a středního segmentu inferolaterální, laterální a anteriorní plochy
+T51	SYMPTOM 2731 2752	Nedilatované předsíně
+T22	SYMPTOM 3186 3228	torakoabdominální aorta normálního kalibru
+T6	SYMPTOM 4135 4155	sinusová tachykardie
+T9	SYMPTOM 4157 4168	Normální PR
+T12	SYMPTOM 4170 4178	Úzké QRS
+T52	SYMPTOM 4192 4200	QS V1-V3
+T23	SYMPTOM 4202 4210	QR v aVL
+T53	SYMPTOM 4226 4257	elevace ST-segmentu v aVL, V1-3
+T54	SYMPTOM 4259 4301	deprese ST-segmentu 1 mm v dolních svodech
+T15	SYMPTOM 4384 4441	levá komora normálních rozměrů s normální tloušťkou stěny
+T55	SYMPTOM 4443 4468	Mírná globální hypokineze
+T16	SYMPTOM 4604 4631	Levá síň normálních rozměrů
+T56	SYMPTOM 4633 4660	Kořen aorty není dilatovaný
+T24	SYMPTOM 4692 4730	Pravá komora s normální kontraktilitou
+T25	SYMPTOM 4798 4832	Dolní dutá žíla normálního kalibru
+T57	SYMPTOM 5007 5033	Normální antegrádní průtok
+T17	SYMPTOM 5097 5112	sinusový rytmus
+T10	SYMPTOM 5130 5141	Normální PR
+T18	SYMPTOM 5143 5165	Úzké QRS s QS ve V1-V3
+T13	SYMPTOM 5167 5198	Milimetrové podrovnání ST ve V3
+T58	SYMPTOM 5200 5229	Negativní T v DI, aVL a V1-V5
+T59	SYMPTOM 5357 5375	Srážlivost v normě
+T60	SYMPTOM 5596 5606	hypotenzní
+T61	SYMPTOM 5730 5746	bolestí na hrudi
+T19	SYMPTOM 6507 6516	hypotenze
+T66	SYMPTOM 7491 7541	kardiovaskulárního hlediska zůstala asymptomatická

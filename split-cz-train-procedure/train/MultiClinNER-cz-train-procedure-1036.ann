@@ -1,0 +1,23 @@
+T26	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T60	PROCEDURE 428 435	biopsií
+T93	PROCEDURE 1031 1040	vyšetření
+T27	PROCEDURE 1113 1129	Auskultace srdce
+T28	PROCEDURE 1168 1183	Auskultace plic
+T29	PROCEDURE 1497 1500	EKG
+T31	PROCEDURE 1638 1672	Echo-Doppler pravé dolní končetiny
+T50	PROCEDURE 1738 1767	Transtorakální echokardiogram
+T48	PROCEDURE 2439 2470	Transezofageální echokardiogram
+T5	PROCEDURE 2765 2787	Koronární CT vyšetření
+T34	PROCEDURE 2926 2940	Koronarografie
+T57	PROCEDURE 3303 3318	antikoagulancii
+T36	PROCEDURE 3321 3335	prostaglandiny
+T30	PROCEDURE 3355 3358	EKG
+T69	PROCEDURE 3420 3450	echokardiografickému vyšetření
+T49	PROCEDURE 3605 3636	Transezofageální echokardiogram
+T10	PROCEDURE 3649 3664	krevní kulturou
+T33	PROCEDURE 3726 3738	Koronární CT
+T35	PROCEDURE 3741 3755	koronarografie
+T19	PROCEDURE 3897 3906	MRI mozku
+T37	PROCEDURE 4102 4125	pulzy metylprednisolonu
+T56	PROCEDURE 4219 4232	antikoagulací
+T59	PROCEDURE 4300 4313	betablokátorů

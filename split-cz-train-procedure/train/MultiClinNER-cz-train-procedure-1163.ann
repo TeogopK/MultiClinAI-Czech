@@ -1,0 +1,44 @@
+T36	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 717 732	nosními brýlemi
+T37	PROCEDURE 756 775	fyzikální vyšetření
+T39	PROCEDURE 832 849	elektrokardiogram
+T7	PROCEDURE 1364 1378	koronarografii
+T40	PROCEDURE 1494 1508	Koronarografie
+T10	PROCEDURE 1877 1936	provedena PCI do proximálně-mediální DC s implantací stentu
+T42	PROCEDURE 2023 2053	transtorakální ultrazvuk srdce
+T54	PROCEDURE 2194 2244	implantována intraaortální balónková kontrapulzace
+T38	PROCEDURE 2409 2428	Fyzikální vyšetření
+T45	PROCEDURE 2511 2527	Auskultace srdce
+T12	PROCEDURE 2631 2652	Respirační auskultace
+T46	PROCEDURE 2761 2764	EKG
+T41	PROCEDURE 3178 3192	koronarografie
+T15	PROCEDURE 3788 3817	kanylace ústí DC katétrem AR2
+T16	PROCEDURE 3819 3873	průchod vodicího drátu distálně od zadní sestupné tepn
+T18	PROCEDURE 3953 3970	implantován stent
+T55	PROCEDURE 4072 4103	PCI do proximálně-mediálního DC
+T43	PROCEDURE 4116 4146	Transtorakální ultrazvuk srdce
+T53	PROCEDURE 4264 4301	Transtorakální echokardiografie srdce
+T44	PROCEDURE 4967 4997	transtorakální ultrazvuk srdce
+T47	PROCEDURE 5255 5338	implantován periferní žilně-arteriální systém ECMO (mimotělní membránová oxygenace)
+T63	PROCEDURE 5358 5378	korekční operaci VSD
+T56	PROCEDURE 5461 5480	vazoaktivní aminové
+T48	PROCEDURE 5514 5518	ECMO
+T64	PROCEDURE 5555 5637	uzávěr VSD bazálního a středního zadního septa pomocí hovězí perikardiální záplaty
+T66	PROCEDURE 5640 5695	bypassu vnitřní mamární tepny na přední sestupnou tepnu
+T67	PROCEDURE 5723 5751	echokardiografické vyšetření
+T49	PROCEDURE 5763 5782	podporu pomocí ECMO
+T50	PROCEDURE 6076 6088	podpoře ECMO
+T51	PROCEDURE 6183 6187	ECMO
+T52	PROCEDURE 6258 6271	vysazení ECMO
+T69	PROCEDURE 6362 6386	vysazení IABC a inotropů
+T70	PROCEDURE 6398 6428	perorální léčby beta-blokátory
+T71	PROCEDURE 6430 6444	ACE inhibitory
+T72	PROCEDURE 6447 6484	antagonisty aldosteronových receptorů
+T74	PROCEDURE 6565 6584	respirační odvykání
+T75	PROCEDURE 6597 6621	perkutánní tracheostomii
+T76	PROCEDURE 6640 6662	orotracheální intubaci
+T81	PROCEDURE 6971 6992	neurohormonální léčbu
+T82	PROCEDURE 7038 7046	diuretik
+T83	PROCEDURE 7102 7124	ultrazvukové vyšetření
+T90	PROCEDURE 7696 7732	Uzávěr hovězí perikardiální záplatou
+T91	PROCEDURE 7734 7769	Bypass vnitřní mamární tepny do LAD

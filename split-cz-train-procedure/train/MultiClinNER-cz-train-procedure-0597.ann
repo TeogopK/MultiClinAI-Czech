@@ -1,0 +1,11 @@
+T3	PROCEDURE 199 208	Vyšetření
+T1	PROCEDURE 323 326	EKG
+T4	PROCEDURE 388 417	ultrazvukové vyšetření břicha
+T2	PROCEDURE 554 576	CT břicha s kontrastem
+T6	PROCEDURE 778 789	Krevní test
+T7	PROCEDURE 927 950	zobrazovacích vyšetření
+T8	PROCEDURE 968 992	provést urgentní operaci
+T9	PROCEDURE 998 1009	laparotomii
+T10	PROCEDURE 1046 1056	ultrazvuku
+T5	PROCEDURE 1059 1061	CT
+T13	PROCEDURE 1092 1131	segmentektomie, laváže a drenáže dutiny

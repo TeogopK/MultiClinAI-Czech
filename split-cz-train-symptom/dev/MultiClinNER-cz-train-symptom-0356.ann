@@ -1,0 +1,22 @@
+T14	SYMPTOM 385 398	bolesti hlavy
+T6	SYMPTOM 437 447	při vědomí
+T7	SYMPTOM 449 460	orientovaný
+T8	SYMPTOM 463 471	febrilní
+T9	SYMPTOM 523 533	při vědomí
+T10	SYMPTOM 535 546	orientovaný
+T11	SYMPTOM 549 557	febrilní
+T5	SYMPTOM 571 589	zarudnutí obličeje
+T12	SYMPTOM 592 620	oboustranná injekce spojivek
+T1	SYMPTOM 964 975	meningismus
+T2	SYMPTOM 980 999	hepatosplenomegalie
+T13	SYMPTOM 1179 1209	normálními krevními destičkami
+T15	SYMPTOM 1264 1274	lymfopenií
+T18	SYMPTOM 1304 1326	aktivovaných lymfocytů
+T4	SYMPTOM 1383 1412	Koagulační testy byly v normě
+T19	SYMPTOM 1482 1501	transaminitidou ALT
+T20	SYMPTOM 1510 1549	Hrubá dna a krevní nátěr byly negativní
+T21	SYMPTOM 1593 1619	negativní MgIgAc proti CMV
+T23	SYMPTOM 1621 1655	negativní HBcAc, HBsAgAg a HBsAgAg
+T24	SYMPTOM 1657 1693	negativní MgIgAc proti P. falciparum
+T22	SYMPTOM 1696 1731	pozitivní MgIgAc proti dengue (IFA)
+T3	SYMPTOM 1772 1800	přítomnost krevních parazitů

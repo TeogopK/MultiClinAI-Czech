@@ -1,0 +1,33 @@
+T39	PROCEDURE 54 75	transrektální biopsie
+T2	PROCEDURE 204 235	léčbě perorálními antidiabetiky
+T40	PROCEDURE 416 430	koronarografie
+T3	PROCEDURE 433 560	perkutánní transluminální koronární angioplastiky (PTCA) na proximální přední sestupné tepně (LAD) s implantací lékového stentu
+T5	PROCEDURE 795 808	betablokátory
+T7	PROCEDURE 906 935	echokardiografickém vyšetření
+T52	PROCEDURE 2190 2209	FYZIKÁLNÍ VYŠETŘENÍ
+T42	PROCEDURE 2547 2563	Auskultace srdce
+T43	PROCEDURE 2587 2604	Plicní auskultace
+T44	PROCEDURE 2655 2672	Auskultace břicha
+T13	PROCEDURE 2785 2799	palpaci břicha
+T45	PROCEDURE 3749 3766	Elektrokardiogram
+T46	PROCEDURE 3768 3771	EKG
+T15	PROCEDURE 3945 3954	MRI srdce
+T47	PROCEDURE 4489 4505	Ultrazvuk břicha
+T59	PROCEDURE 5267 5280	Cholangio-MRI
+T54	PROCEDURE 5617 5626	Sérologie
+T53	PROCEDURE 5784 5794	Imunologie
+T60	PROCEDURE 5972 5991	Paraziti ve stolici
+T62	PROCEDURE 6311 6329	profilu cholestázy
+T57	PROCEDURE 6432 6453	reaktanty akutní fáze
+T66	PROCEDURE 6584 6607	etiologického vyšetření
+T48	PROCEDURE 6772 6802	sérologie na hepatotropní viry
+T55	PROCEDURE 6804 6833	stanovení parazitů ve stolici
+T49	PROCEDURE 6836 6854	imunologické testy
+T67	PROCEDURE 6949 6962	cholangio-MRI
+T70	PROCEDURE 7281 7288	statinů
+T56	PROCEDURE 7455 7468	léčby statiny
+T72	PROCEDURE 8047 8063	inhibitorů PCSK9
+T41	PROCEDURE 8248 8262	echokardiogram
+T73	PROCEDURE 8265 8285	magnetická rezonance
+T50	PROCEDURE 8600 8614	implantace ICD
+T51	PROCEDURE 8885 8899	Implantace ICD

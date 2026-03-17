@@ -1,0 +1,35 @@
+T24	DISEASE 81 95	lékové alergie
+T40	DISEASE 97 110	Aktivní kuřák
+T117	DISEASE 201 211	hypertenze
+T75	DISEASE 213 215	HT
+T112	DISEASE 219 231	dyslipidémie
+T26	DISEASE 239 264	diabetes mellitus 2. typu
+T27	DISEASE 266 269	DM2
+T28	DISEASE 272 299	Úzkostně-depresivní syndrom
+T29	DISEASE 325 343	levá tříselná kýla
+T1	DISEASE 346 358	apendicitida
+T30	DISEASE 379 405	ischemická choroba srdeční
+T3	DISEASE 988 1021	interkurentní infekční onemocnění
+T146	DISEASE 1057 1074	srdečního selhání
+T126	DISEASE 1894 1902	ischemii
+T5	DISEASE 2045 2090	akutní koronární syndrom bez elevací úseku ST
+T79	DISEASE 2092 2098	NSTEMI
+T115	DISEASE 2655 2677	hluboké žilní trombózy
+T139	DISEASE 3010 3025	plicní kongesce
+T140	DISEASE 3040 3052	pneumotoraxu
+T31	DISEASE 3809 3830	perikardiální výpotek
+T33	DISEASE 3859 3871	valvulopatie
+T32	DISEASE 4629 4650	perikardiální výpotek
+T34	DISEASE 4673 4690	plicní hypertenze
+T81	DISEASE 4692 4694	PH
+T8	DISEASE 4735 4790	Ektatická pravá koronární tepna (RCA) s těžkou stenózou
+T35	DISEASE 4957 5018	Mírná ateromatóza přední sestupné tepny (ADA) a okružní tepny
+T41	DISEASE 5306 5323	arytmické příhody
+T12	DISEASE 5419 5448	lézi ve středním segmentu RCA
+T125	DISEASE 5657 5683	ischemické choroby srdeční
+T136	DISEASE 5699 5715	odvykání kouření
+T37	DISEASE 6161 6194	Přechodná elevace ST typu NSTEACS
+T15	DISEASE 6216 6234	lézi středního RCA
+T76	DISEASE 6296 6306	Hypertenze
+T25	DISEASE 6309 6321	dyslipidemie
+T39	DISEASE 6323 6328	Kuřák

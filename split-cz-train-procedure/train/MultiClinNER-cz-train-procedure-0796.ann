@@ -1,0 +1,44 @@
+T23	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 120 132	dietní léčbě
+T4	PROCEDURE 662 691	základní resuscitační manévry
+T24	PROCEDURE 720 723	CVE
+T6	PROCEDURE 779 792	Pokročilá KPR
+T7	PROCEDURE 1014 1025	katetrizaci
+T10	PROCEDURE 1168 1181	rozšířená KPR
+T47	PROCEDURE 1201 1223	orotracheální intubací
+T25	PROCEDURE 1288 1354	implantován přechodný kardiostimulátor přes pravou femorální tepnu
+T38	PROCEDURE 1372 1391	srdeční katetrizace
+T30	PROCEDURE 1473 1498	kompletní revaskularizace
+T12	PROCEDURE 1516 1554	zavedena intraaortální balónková pumpa
+T26	PROCEDURE 1578 1589	katetrizace
+T33	PROCEDURE 1590 1621	je zavedena nazogastrická sonda
+T55	PROCEDURE 1707 1726	intravenózní infuzi
+T27	PROCEDURE 1846 1857	katetrizace
+T56	PROCEDURE 1934 1952	vazoaktivních léků
+T57	PROCEDURE 1966 1987	mechanickou ventilaci
+T60	PROCEDURE 2063 2081	Byla resuscitována
+T34	PROCEDURE 2248 2270	Neurologické vyšetření
+T35	PROCEDURE 2322 2339	Plicní auskultace
+T36	PROCEDURE 2367 2383	Auskultace srdce
+T37	PROCEDURE 2537 2540	EKG
+T39	PROCEDURE 2658 2677	srdeční katetrizace
+T31	PROCEDURE 2791 2855	Kompletní revaskularizace pomocí 2 stentů v LAD, 1 v OM a 1 v DC
+T40	PROCEDURE 2857 2883	Rentgenový snímek hrudníku
+T29	PROCEDURE 2910 2932	orotracheální intubace
+T41	PROCEDURE 2975 2989	Echokardiogram
+T53	PROCEDURE 3990 4009	Funkce štítné žlázy
+T28	PROCEDURE 4234 4252	vazoaktivních léků
+T48	PROCEDURE 4454 4475	mechanickou ventilaci
+T68	PROCEDURE 4517 4541	kardiorespirační podpory
+T50	PROCEDURE 4551 4572	venoarteriálního ECMO
+T43	PROCEDURE 4589 4604	kardiochirurgie
+T51	PROCEDURE 4655 4668	zavedení ECMO
+T69	PROCEDURE 4725 4754	vysazením vazoaktivních látek
+T42	PROCEDURE 5009 5025	Echokardiografie
+T71	PROCEDURE 5404 5439	léčbu betablokátory, inhibitory ACE
+T44	PROCEDURE 5888 5904	inhibitory PCSK9
+T45	PROCEDURE 5968 5990	kardiální rehabilitace
+T46	PROCEDURE 6135 6157	kardiální rehabilitace
+T32	PROCEDURE 6517 6542	kompletní revaskularizace
+T52	PROCEDURE 6609 6613	ECMO
+T54	PROCEDURE 6685 6695	anti-PCSK9

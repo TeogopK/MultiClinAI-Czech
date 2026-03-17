@@ -1,0 +1,60 @@
+T22	DISEASE 110 122	bývalý kuřák
+T23	DISEASE 124 145	arteriální hypertenze
+T1	DISEASE 147 150	AHT
+T24	DISEASE 153 173	hypercholesterolemie
+T2	DISEASE 186 202	cukrovka 2. typu
+T3	DISEASE 204 232	Těžký syndrom apnoe-hypopnoe
+T25	DISEASE 291 322	Periferní arteriální onemocnění
+T5	DISEASE 367 390	těžkou aortální stenózu
+T6	DISEASE 1154 1198	mírnou koncentrickou hypertrofii levé komory
+T7	DISEASE 1200 1203	LVH
+T8	DISEASE 1300 1352	mírnou-středně těžkou centrální mitrální regurgitaci
+T9	DISEASE 1354 1368	dilatovanou LK
+T10	DISEASE 1407 1430	perikardiálního výpotku
+T11	DISEASE 1454 1471	infekční oddělení
+T27	DISEASE 2097 2123	atrioventrikulární blokáda
+T15	DISEASE 2711 2713	SS
+T16	DISEASE 2750 2777	atrioventrikulární blokádou
+T17	DISEASE 2930 2940	mírnou LVH
+T44	DISEASE 3117 3190	Ztluštělá a sklerotizovaná mitrální chlopeň s těžkou mitrální regurgitací
+T29	DISEASE 3410 3430	aortální regurgitace
+T20	DISEASE 3476 3549	Pravá komora mírně dilatovaná, hypokinetická, s mírnou globální dysfunkcí
+T18	DISEASE 3551 3583	Těžká trikuspidální insuficience
+T19	DISEASE 3585 3587	TI
+T26	DISEASE 3620 3641	perikardiální výpotek
+T21	DISEASE 3674 3697	aortální endokarditidou
+T39	DISEASE 3725 3767	Těžká mitrální a trikuspidální regurgitace
+T78	DISEASE 3805 3982	Těžká dvoucívní ischemická choroba srdeční: okluze střední distální přední sestupné tepny (AD), subokluzivní léze v distální cirkumflexní tepně (Cx), okluze zadní sestupné tepny
+T30	DISEASE 4276 4282	absces
+T80	DISEASE 4337 4355	mitrálním abscesem
+T79	DISEASE 4401 4410	těžkou TI
+T32	DISEASE 4486 4509	endokardiální bradavice
+T81	DISEASE 4524 4568	středně těžká až těžká mitrální insuficience
+T84	DISEASE 5167 5176	hypotenzí
+T87	DISEASE 5467 5513	atrioventrikulární blokádu (AVB) 2. stupně 2:1
+T88	DISEASE 5495 5498	AVB
+T89	DISEASE 5729 5764	endokarditidu nad aortální protézou
+T43	DISEASE 6008 6017	hypotenze
+T95	DISEASE 6509 6562	infekční endokarditidy na protetické aortální chlopni
+T96	DISEASE 6576 6636	mitroaortálním abscesem, rozšířením na trikuspidální chlopeň
+T97	DISEASE 6638 6641	AVB
+T98	DISEASE 6643 6670	septickou koronární embolií
+T99	DISEASE 6673 6701	kardiogenním/septickým šokem
+T31	DISEASE 6980 7003	akutního selhání ledvin
+T103	DISEASE 7058 7087	akutního respiračního selhání
+T104	DISEASE 7089 7163	pneumonie spojené s mechanickou ventilací způsobené gramnegativním bacilem
+T28	DISEASE 7165 7213	akutní tracheobronchitidy způsobené A. fumigatus
+T33	DISEASE 7215 7242	přetrvávající kompletní AVB
+T106	DISEASE 7244 7319	bakteriémie způsobená C. parapsilopsis spojená s centrálním žilním katétrem
+T34	DISEASE 7321 7342	ischemická hepatitida
+T35	DISEASE 7344 7361	paralytický ileus
+T36	DISEASE 7363 7393	multifaktoriální encefalopatie
+T37	DISEASE 7414 7421	hypoxie
+T107	DISEASE 7424 7483	významným poškozením kmene a dlaně s přetrvávajícím kómatem
+T108	DISEASE 7510 7608	Časná endokarditida na mechanické protetické aortální chlopni způsobená Staphylococcus epidermidis
+T38	DISEASE 7610 7672	Absces v mitrální junkci s rozšířením na trikuspidální chlopeň
+T40	DISEASE 7674 7716	Těžká mitrální a trikuspidální regurgitace
+T41	DISEASE 7718 7748	Atrioventrikulární blokáda 2:1
+T109	DISEASE 7750 7792	Akutní infarkt myokardu s nižší elevací ST
+T110	DISEASE 7794 7880	Septická koronární embolie v dominantní cirkumflexní a přední sestupné koronární tepně
+T42	DISEASE 7937 7969	Smíšený kardiogenní/septický šok

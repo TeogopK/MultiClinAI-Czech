@@ -1,0 +1,55 @@
+T18	SYMPTOM 475 506	normálním fyzikálním vyšetřením
+T19	SYMPTOM 508 531	krevními testy bez změn
+T1	SYMPTOM 835 846	bradykardie
+T20	SYMPTOM 954 983	příznaky prekordiálního tlaku
+T2	SYMPTOM 985 994	palpitace
+T21	SYMPTOM 997 1015	profuzní diaforézy
+T120	SYMPTOM 1037 1072	rytmickou tachykardii s širokým QRS
+T116	SYMPTOM 1203 1219	sinusového rytmu
+T128	SYMPTOM 1383 1393	Při vědomí
+T111	SYMPTOM 1395 1406	orientovaný
+T106	SYMPTOM 1408 1422	normální barva
+T105	SYMPTOM 1424 1440	normohydratovaný
+T3	SYMPTOM 1442 1464	dobrá distální perfuze
+T115	SYMPTOM 1484 1507	akce srdeční pravidelná
+T131	SYMPTOM 1512 1519	šelestů
+T4	SYMPTOM 1538 1556	dýchání alveolární
+T56	SYMPTOM 1558 1579	Břicho bylo nepopsané
+T5	SYMPTOM 1581 1600	Končetiny bez otoků
+T7	SYMPTOM 1675 1690	sinusový rytmus
+T6	SYMPTOM 1723 1731	Úzké QRS
+T22	SYMPTOM 1733 1812	Deprese úseku ST ve svodech V3-V5 a ve svodech III a avF s negativními vlnami T
+T8	SYMPTOM 1847 1862	sinusový rytmus
+T23	SYMPTOM 1914 1937	retrokondukovaná vlna P
+T17	SYMPTOM 1947 1959	uzlové údery
+T24	SYMPTOM 2062 2080	Hemogram beze změn
+T94	SYMPTOM 2097 2126	Funkce ledvin a ionty v normě
+T9	SYMPTOM 2128 2152	Jaterní profil beze změn
+T10	SYMPTOM 2208 2246	LK normální velikosti a tloušťky stěny
+T25	SYMPTOM 2286 2324	Globální systolická funkce LK normální
+T28	SYMPTOM 2330 2365	segmentální asymetrie kontraktility
+T26	SYMPTOM 2367 2394	Diastolický obraz: normální
+T11	SYMPTOM 2396 2423	Levá síň normálních rozměrů
+T27	SYMPTOM 2425 2456	Pravá komora normálních rozměrů
+T29	SYMPTOM 2458 2478	RV normokontraktilní
+T30	SYMPTOM 2480 2558	Kořen aorty a vizualizovaná část proximální vzestupné aorty normálních rozměrů
+T31	SYMPTOM 2560 2576	MV: tenké lístky
+T32	SYMPTOM 2705 2724	IVC není dilatovaná
+T108	SYMPTOM 2727 2757	normálním inspiračním kolapsem
+T33	SYMPTOM 2759 2782	Odhadované normální PAP
+T93	SYMPTOM 2823 2846	intrakavitálních útvarů
+T12	SYMPTOM 2884 2918	levá komora na horní hranici normy
+T107	SYMPTOM 2935 2962	normální systolickou funkcí
+T34	SYMPTOM 3062 3073	normální EF
+T13	SYMPTOM 3075 3092	Nedilatované síně
+T16	SYMPTOM 3151 3198	koronární tepny s normálním anatomickým původem
+T114	SYMPTOM 3346 3365	repolarizační změny
+T35	SYMPTOM 3476 3503	sinosovým a nodálním rytmem
+T36	SYMPTOM 3566 3584	prekordiální tíseň
+T77	SYMPTOM 3821 3835	asymptomatický
+T37	SYMPTOM 4383 4432	elektrofyziologickou studii, která byla negativní
+T38	SYMPTOM 4758 4772	tíseň na hrudi
+T39	SYMPTOM 4775 4810	přidruženými vegetativními příznaky
+T40	SYMPTOM 4812 4830	jasné změny na EKG
+T14	SYMPTOM 4833 4867	zvýšené markery poškození myokardu
+T15	SYMPTOM 4890 4924	zvýšení markerů poškození myokardu

@@ -1,0 +1,27 @@
+T13	PROCEDURE 438 443	porod
+T1	PROCEDURE 694 729	vyšetření, neurologické i systémové
+T19	PROCEDURE 746 758	Krevní testy
+T20	PROCEDURE 766 775	biochemii
+T21	PROCEDURE 778 787	hemogramu
+T22	PROCEDURE 803 812	biochemii
+T23	PROCEDURE 958 966	Hemogram
+T12	PROCEDURE 1316 1335	T-kusovou ventilaci
+T5	PROCEDURE 1618 1640	Neurologické vyšetření
+T6	PROCEDURE 1752 1784	počítačová tomografie (CT) lebky
+T14	PROCEDURE 1775 1777	CT
+T10	PROCEDURE 1786 1801	lumbální punkce
+T15	PROCEDURE 1803 1819	toxikologie moči
+T11	PROCEDURE 1903 1922	elektroencefalogram
+T2	PROCEDURE 1924 1927	EEG
+T16	PROCEDURE 2027 2090	sérologie mozkomíšního moku (CSF) na enterovirus a herpes virus
+T7	PROCEDURE 2107 2328	Sérologie byla rovněž získána na více původců, jako jsou toxoplasma, zarděnky, lupus, herpes simplex 1 a 2, varicella-zoster virus, mykoplazma, adenovirus, příušnice, parvovirus, spalničky, Coxsackie, ECHO virus a borélie
+T37	PROCEDURE 2530 2539	sérologii
+T8	PROCEDURE 2705 2742	vyšetření mozku magnetickou rezonancí
+T17	PROCEDURE 2744 2747	MRI
+T18	PROCEDURE 2944 2980	antigenů chřipky A v nosním exsudátu
+T24	PROCEDURE 3207 3290	sérologie na cytomegalovirus (CMV), virus Ebstein-Barrové (EBV), herpes a chřipku A
+T43	PROCEDURE 3328 3337	MRI mozku
+T9	PROCEDURE 3376 3413	oligoklonální pásy v mozkomíšním moku
+T25	PROCEDURE 3439 3461	autoimunitní vyšetření
+T3	PROCEDURE 3781 3784	EEG
+T4	PROCEDURE 4065 4068	EEG

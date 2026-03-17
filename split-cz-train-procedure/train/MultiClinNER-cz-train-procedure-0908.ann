@@ -1,0 +1,55 @@
+T60	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 322 348	perkutánní revaskularizací
+T3	PROCEDURE 390 463	implantace dvou lékových stentů do pravé koronární tepny a obvodové tepny
+T56	PROCEDURE 605 619	antikoagulovat
+T57	PROCEDURE 983 995	hemofiltrace
+T58	PROCEDURE 1617 1624	biopsie
+T59	PROCEDURE 1655 1690	počítačová tomografie (CT) hrudníku
+T7	PROCEDURE 1678 1680	CT
+T61	PROCEDURE 2622 2641	Fyzikální vyšetření
+T8	PROCEDURE 2751 2766	nosními brýlemi
+T62	PROCEDURE 2880 2896	Auskultace srdce
+T63	PROCEDURE 2993 3008	Auskultace plic
+T64	PROCEDURE 3144 3161	Elektrokardiogram
+T65	PROCEDURE 3163 3166	EKG
+T66	PROCEDURE 3367 3370	EKG
+T9	PROCEDURE 3384 3396	Krevní testy
+T68	PROCEDURE 3877 3892	Lipidový profil
+T10	PROCEDURE 3975 3988	Profil železa
+T11	PROCEDURE 4106 4131	Mikrobiologické vyšetření
+T69	PROCEDURE 4133 4147	Krevní kultury
+T12	PROCEDURE 4179 4200	Nosohltanový exsudát:
+T70	PROCEDURE 4229 4243	Kultivace moči
+T85	PROCEDURE 4256 4293	Antigeny legionel a pneumokoků v moči
+T71	PROCEDURE 4306 4332	Rentgenový snímek hrudníku
+T72	PROCEDURE 4549 4578	Transtorakální echokardiogram
+T73	PROCEDURE 5358 5385	Diagnostická koronarografie
+T80	PROCEDURE 6020 6122	Terapeutická koronarografie: přístup přes pravou femorální tepnu pod ultrazvukovou kontrolou, kontrast
+T74	PROCEDURE 6131 6173	Intervencionsimo na levém koronárním kmeni
+T79	PROCEDURE 6239 6256	DK-Crush technika
+T88	PROCEDURE 6258 6296	Implantát uvolňující léčivo při TCI-Cx
+T89	PROCEDURE 6298 6343	Do LMCA-AD je implantován první kissing-balon
+T90	PROCEDURE 6346 6375	druhý stent uvolňující léčivo
+T86	PROCEDURE 6394 6409	kissing-balloon
+T75	PROCEDURE 6433 6437	IVUS
+T91	PROCEDURE 6448 6482	Uzavření cévy perkutánním uzávěrem
+T76	PROCEDURE 6537 6549	fluoroskopie
+T92	PROCEDURE 6579 6592	echo-Doppleru
+T67	PROCEDURE 6958 6961	EKG
+T96	PROCEDURE 7000 7026	markerů poškození myokardu
+T98	PROCEDURE 7122 7162	podány dva koncentráty červených krvinek
+T99	PROCEDURE 7178 7205	intravenózní depleční léčba
+T77	PROCEDURE 7285 7327	empirická širokospektrá antibiotická léčba
+T101	PROCEDURE 7383 7404	protidestičková léčba
+T78	PROCEDURE 7463 7476	antikoagulace
+T81	PROCEDURE 7478 7492	Koronarografie
+T104	PROCEDURE 7971 7983	CT vyšetření
+T105	PROCEDURE 8066 8077	hematologem
+T108	PROCEDURE 8417 8426	transfuzi
+T111	PROCEDURE 8762 8793	perkutánní revaskularizaci LMCA
+T82	PROCEDURE 8815 8857	koronarografie přes pravou femorální tepnu
+T109	PROCEDURE 8860 8932	implantací dvou lékových stentů do LMCA-AD a LMCA-Cx technikou DK-Crusch
+T83	PROCEDURE 9042 9063	antitrombotická léčba
+T112	PROCEDURE 9064 9100	jednoduchou protidestičkovou terapií
+T84	PROCEDURE 9468 9542	Revaskularizace distální levé hlavní koronární tepny dvěma lékovými stenty
+T115	PROCEDURE 9601 9659	Koronární onemocnění částečně revaskularizované perkutánně

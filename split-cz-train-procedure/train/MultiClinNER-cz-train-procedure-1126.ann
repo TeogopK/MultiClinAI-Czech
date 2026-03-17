@@ -1,0 +1,31 @@
+T44	PROCEDURE 99 118	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 720 732	antibiotická
+T3	PROCEDURE 735 752	kortikoidní léčba
+T28	PROCEDURE 1194 1210	Auskultace srdce
+T29	PROCEDURE 1238 1253	Auskultace plic
+T4	PROCEDURE 1361 1391	hluboké nebo povrchové palpaci
+T30	PROCEDURE 1572 1575	EKG
+T32	PROCEDURE 1709 1721	Krevní obraz
+T33	PROCEDURE 1777 1786	Hemostáza
+T42	PROCEDURE 1821 1830	Biochemie
+T34	PROCEDURE 2100 2123	Arteriální krevní plyny
+T35	PROCEDURE 2177 2189	RTG hrudníku
+T40	PROCEDURE 2282 2296	echokardiogram
+T31	PROCEDURE 2598 2601	EKG
+T43	PROCEDURE 2747 2756	Biochemie
+T37	PROCEDURE 2870 2879	Sérologie
+T53	PROCEDURE 2980 3002	Katetrizační vyšetření
+T36	PROCEDURE 3041 3053	RTG hrudníku
+T38	PROCEDURE 3114 3124	Test chůze
+T45	PROCEDURE 3158 3172	6minutový test
+T46	PROCEDURE 3262 3271	MRI srdce
+T56	PROCEDURE 3471 3525	léčba betablokátory, antialdosteronem a inhibitory ACE
+T57	PROCEDURE 3669 3686	inotropní podporu
+T58	PROCEDURE 3704 3741	intravenózní depleční léčbu diuretiky
+T59	PROCEDURE 3806 3828	monitorován telemetrií
+T47	PROCEDURE 3897 3925	echokardiografické vyšetření
+T41	PROCEDURE 4110 4124	koronarografie
+T61	PROCEDURE 4273 4286	betablokátorů
+T64	PROCEDURE 4488 4508	magnetická rezonance
+T65	PROCEDURE 4604 4632	echokardiografické vyšetření
+T39	PROCEDURE 4694 4704	test chůze

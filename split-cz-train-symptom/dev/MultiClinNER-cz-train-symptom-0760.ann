@@ -1,0 +1,87 @@
+T31	SYMPTOM 429 440	palpitacemi
+T27	SYMPTOM 723 731	dušností
+T28	SYMPTOM 753 773	intolerancí dekubitů
+T29	SYMPTOM 775 783	oligurií
+T30	SYMPTOM 786 821	ulcerovanými otoky dolních končetin
+T1	SYMPTOM 880 889	Afebrilní
+T32	SYMPTOM 984 1005	Celkový stav normální
+T33	SYMPTOM 1007 1021	spolupracující
+T2	SYMPTOM 1028 1034	vědomí
+T35	SYMPTOM 1036 1058	Dostatečně hydratovaný
+T34	SYMPTOM 1086 1101	akrální zimnicí
+T36	SYMPTOM 1103 1115	Tachypnoický
+T37	SYMPTOM 1119 1143	supraklavikulárním tahem
+T4	SYMPTOM 1145 1153	Ortopnoe
+T38	SYMPTOM 1162 1182	zduřením krčních žil
+T5	SYMPTOM 1209 1239	rychlé a rytmické srdeční tóny
+T6	SYMPTOM 1245 1252	šelestů
+T39	SYMPTOM 1258 1269	zvuků navíc
+T40	SYMPTOM 1271 1298	Vezikulární šelest zachován
+T41	SYMPTOM 1301 1324	prasklinami u obou bází
+T42	SYMPTOM 1326 1378	Břicho: měkké a stlačitelné, při palpaci nebolestivé
+T43	SYMPTOM 1393 1404	peritonismu
+T44	SYMPTOM 1412 1417	hmoty
+T7	SYMPTOM 1422 1430	megality
+T45	SYMPTOM 1446 1473	Přítomny hydroaerické zvuky
+T46	SYMPTOM 1510 1544	otok až ke kořeni dolních končetin
+T47	SYMPTOM 1664 1705	Pulzy na nohách nejsou hmatné kvůli otoku
+T14	SYMPTOM 2211 2227	dvojitého obrysu
+T8	SYMPTOM 2243 2264	plicní žilní kongesce
+T48	SYMPTOM 2334 2376	levá komora s normálními vnitřními průměry
+T9	SYMPTOM 2423 2450	Závažná globální hypokineze
+T49	SYMPTOM 2452 2468	Těžce snížená EF
+T50	SYMPTOM 2501 2542	Velká masa v apikální oblasti levé komory
+T51	SYMPTOM 2736 2764	Levá síň v normálních mezích
+T52	SYMPTOM 2766 2824	Pravá komora normálního vnitřního průměru a tloušťky stěny
+T53	SYMPTOM 2852 2877	Vizuální EF mírně snížená
+T54	SYMPTOM 2879 2908	Pravá síň v normálních mezích
+T10	SYMPTOM 2910 2953	Mitrální chlopeň s mírným ztluštěním lístků
+T55	SYMPTOM 3027 3052	Aortální chlopeň bez změn
+T56	SYMPTOM 3054 3102	Pravá chlopeň bez významných strukturálních změn
+T22	SYMPTOM 3138 3175	Hrudní aorta bez patologického nálezu
+T57	SYMPTOM 3177 3205	Dolní dutá žíla nedilatovaná
+T11	SYMPTOM 3269 3293	Odhadovaný normální PSAP
+T12	SYMPTOM 3303 3327	nedilatovaná levá komora
+T58	SYMPTOM 3330 3356	těžkou globální hypokinezí
+T59	SYMPTOM 3359 3376	těžce sníženou EF
+T60	SYMPTOM 3407 3445	pozitivní sérologie na jaterní virus C
+T61	SYMPTOM 3550 3686	negativní (enterovirus PCR, HIV, HBV, HSV, Parvovirus B19, Brucella, Rickettsia, Mycoplasma, Chlamydia pneumoniae, Borrelia burgdorferi)
+T25	SYMPTOM 4793 4842	levá komora s mírně zmenšenými vnitřními průměry.
+T15	SYMPTOM 4935 4954	globální hypokineze
+T13	SYMPTOM 4956 4984	Mírně snížená ejekční frakce
+T23	SYMPTOM 5174 5212	Pravá komora normálního průměru a stěn
+T24	SYMPTOM 5649 5703	Kořen aorty a vzestupná aorta bez patologického nálezu
+T62	SYMPTOM 5735 5764	sníženým inspiračním kolapsem
+T63	SYMPTOM 5820 5851	Volná tekutina v dutině břišní.
+T19	SYMPTOM 5860 5898	Levá komora s mírně zesílenými stěnami
+T16	SYMPTOM 5952 5971	Globální hypokineze
+T64	SYMPTOM 5974 6002	mírně sníženou ejekční frakc
+T65	SYMPTOM 6012 6043	pokročilé diastolické dysfunkce
+T66	SYMPTOM 6045 6086	Pravá komora s normální stěnou a průměrem
+T67	SYMPTOM 6089 6112	sníženou ejekční frakcí
+T68	SYMPTOM 6223 6252	negativní lupus antikoagulant
+T17	SYMPTOM 6254 6276	normální protein C a S
+T69	SYMPTOM 6320 6388	normální koagulační faktory V, VII a von Willebrandův a antitrombin.
+T18	SYMPTOM 6395 6485	mutace v protrombinových genech, genu pro faktor V Leiden, genu MTHFR, genu pro faktor XII
+T70	SYMPTOM 6487 6555	Normální antikardiolipinové a anti-beta-2 glykoproteinové protilátky
+T71	SYMPTOM 6573 6629	: rektální sliznice bez relevantních morfologických změn
+T72	SYMPTOM 6724 6759	pozorována žádná abnormální ložiska
+T73	SYMPTOM 7038 7077	levá komora s mírně ztluštělými stěnami
+T74	SYMPTOM 7165 7184	Globální hypokinéza
+T75	SYMPTOM 7187 7216	těžce sníženou ejekční frakcí
+T76	SYMPTOM 7265 7280	Masa ve vrcholu
+T77	SYMPTOM 7305 7342	Pravá komora normální stěny a průměru
+T78	SYMPTOM 7345 7368	sníženou ejekční frakcí
+T20	SYMPTOM 9248 9280	mutace m.3243A>Gen v genu MT-TL1
+T79	SYMPTOM 9691 9700	hypotenzí
+T26	SYMPTOM 10640 10646	ospalý
+T3	SYMPTOM 10668 10674	vědomí
+T82	SYMPTOM 10807 10815	polyurií
+T83	SYMPTOM 11095 11137	trvale zvýšenými hladinami troponinů a BNP
+T84	SYMPTOM 11609 11664	zvýšených srdečních markerech a reaktantech akutní fáze
+T85	SYMPTOM 11679 11727	sérologické testy s pozitivitou jaterního viru C
+T21	SYMPTOM 11851 11887	krevní kultury, které byly negativní
+T86	SYMPTOM 12089 12114	hemodynamickou stabilitou
+T87	SYMPTOM 12446 12481	zmenšenou velikostí komorové dutiny
+T88	SYMPTOM 13480 13503	abnormální depozita TTR
+T90	SYMPTOM 15061 15091	mutaci m.3243A>G v genu MT-TL1

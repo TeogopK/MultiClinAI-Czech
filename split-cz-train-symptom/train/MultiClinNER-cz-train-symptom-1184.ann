@@ -1,0 +1,44 @@
+T77	SYMPTOM 418 432	bolestem hlavy
+T78	SYMPTOM 434 470	pulzujícím frontálním bolestem hlavy
+T91	SYMPTOM 523 548	dušnosti při mírné námaze
+T1	SYMPTOM 589 604	bolest na hrudi
+T2	SYMPTOM 606 613	závratě
+T18	SYMPTOM 624 649	kardiovaskulární příznaky
+T138	SYMPTOM 763 773	Při vědomí
+T121	SYMPTOM 775 786	orientovaná
+T127	SYMPTOM 788 802	spolupracující
+T19	SYMPTOM 804 834	Neurologické vyšetření v normě
+T3	SYMPTOM 836 861	Normální krční žilní puls
+T68	SYMPTOM 863 884	Rytmické srdeční ozvy
+T128	SYMPTOM 888 908	systolickým šelestem
+T20	SYMPTOM 956 1020	Auskultace plic, břicha a dolních končetin bez relevantních změn
+T5	SYMPTOM 1064 1079	sinusový rytmus
+T6	SYMPTOM 1923 1970	SÉROLOGIE: Mycoplasma pneumoniae IgM: negativní
+T7	SYMPTOM 1972 2009	Legionella pneumophila IgM: negativní
+T8	SYMPTOM 2011 2048	Legionella pneumophila IgG: negativní
+T21	SYMPTOM 2050 2076	Influenza B IgM: negativní
+T22	SYMPTOM 2078 2104	Influenza A IgM: negativní
+T13	SYMPTOM 2106 2124	CMV IgM: negativní
+T14	SYMPTOM 2126 2144	CMV IgG: pozitivní
+T15	SYMPTOM 2146 2186	Borrelia burgdorferi IgM-Lyme: negativní
+T16	SYMPTOM 2188 2228	Borrelia burgdorferi IgG-Lyme: negativní
+T139	SYMPTOM 2642 2671	zachovanou systolickou funkcí
+T63	SYMPTOM 2673 2710	Prodloužený vzor diastolické relaxace
+T23	SYMPTOM 3025 3063	Pravá komora (RV) se zachovalou funkcí
+T17	SYMPTOM 3218 3236	Normální dutá žíla
+T24	SYMPTOM 3256 3278	pravostranná dominance
+T25	SYMPTOM 3280 3331	Koronární tepny bez významných angiografických lézí
+T26	SYMPTOM 3395 3427	LK normální velikosti a tloušťky
+T60	SYMPTOM 3500 3527	normální diastolická funkce
+T9	SYMPTOM 3545 3575	RV normální velikosti a funkce
+T27	SYMPTOM 3950 3971	LK: normální velikost
+T10	SYMPTOM 4105 4139	Normální segmentální kontraktilita
+T11	SYMPTOM 4141 4167	Normální hmotnost myokardu
+T28	SYMPTOM 4573 4595	Kontraktilita normální
+T29	SYMPTOM 4597 4639	Levá síň: plocha 19 cm2, normální velikost
+T12	SYMPTOM 4641 4689	Pravá síň (RA): plocha 19 cm2, normální velikost
+T30	SYMPTOM 5196 5226	LK normální velikosti a funkce
+T31	SYMPTOM 5396 5492	markery poškození myokardu (kreatinkináza a ultrasenzitivní troponin T) s elevací těchto markerů
+T32	SYMPTOM 5727 5759	těžkou koncentrickou hypertrofii
+T4	SYMPTOM 6988 7005	systolický šelest
+T34	SYMPTOM 7283 7315	LK normální velikosti a tloušťky

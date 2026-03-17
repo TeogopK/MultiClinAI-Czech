@@ -1,0 +1,21 @@
+T1	PROCEDURE 30 47	klinické anamnézy
+T9	PROCEDURE 273 292	Fyzikální vyšetření
+T10	PROCEDURE 399 418	Elektroencefalogram
+T11	PROCEDURE 421 447	rentgenový snímek hrudníku
+T2	PROCEDURE 669 691	sériové kultivaci krve
+T12	PROCEDURE 762 776	krevní kultury
+T13	PROCEDURE 788 807	Barvení podle Grama
+T40	PROCEDURE 907 922	krevních kultur
+T14	PROCEDURE 930 964	hmotnostní spektrometrie MALDI-TOF
+T15	PROCEDURE 1029 1045	echokardiografie
+T17	PROCEDURE 1612 1636	sekvenování genu 16S RNA
+T6	PROCEDURE 1693 1719	Epsilometrický antibiogram
+T18	PROCEDURE 1721 1727	E-test
+T25	PROCEDURE 2060 2093	kombinované antimikrobiální léčby
+T19	PROCEDURE 2138 2153	krevní kulturou
+T20	PROCEDURE 2206 2232	kardiochirurgickém zákroku
+T21	PROCEDURE 2566 2587	antimikrobiální léčbě
+T23	PROCEDURE 2723 2767	kardiochirurgický zákrok na aortální chlopni
+T24	PROCEDURE 2769 2782	Rossův zákrok
+T16	PROCEDURE 2895 2921	magnetická rezonance mozku
+T41	PROCEDURE 3161 3179	krevních kulturách

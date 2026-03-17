@@ -1,0 +1,44 @@
+T58	SYMPTOM 867 886	celkovou malátností
+T72	SYMPTOM 893 900	horečky
+T21	SYMPTOM 1069 1101	intenzivní svědění kůže na hlavě
+T87	SYMPTOM 1115 1122	pocením
+T22	SYMPTOM 1124 1138	kožní vyrážkou
+T55	SYMPTOM 1140 1196	tísnivou nevyzařující bolestí v centrální části hrudníku
+T65	SYMPTOM 1199 1218	intenzivní dušností
+T23	SYMPTOM 1305 1313	je dušný
+T60	SYMPTOM 1326 1340	dechovou tísní
+T74	SYMPTOM 1342 1352	hypotenzní
+T1	SYMPTOM 1609 1631	hemodynamicky stabilní
+T90	SYMPTOM 1641 1657	respirační tísni
+T97	SYMPTOM 1865 1875	Při vědomí
+T85	SYMPTOM 1877 1888	orientovaný
+T3	SYMPTOM 1890 1912	dobrá distální perfuze
+T38	SYMPTOM 1914 1923	Eupnoický
+T24	SYMPTOM 1969 1990	Hrudník emfyzematózní
+T70	SYMPTOM 2018 2043	hepatojugulárního refluxu
+T4	SYMPTOM 2045 2069	akce srdeční: pravidelná
+T93	SYMPTOM 2075 2095	slyšitelných šelestů
+T12	SYMPTOM 2114 2135	Celková hypoventilace
+T35	SYMPTOM 2137 2191	Břicho: měkké, stlačitelné, při palpaci není bolestivé
+T5	SYMPTOM 2193 2213	Končetiny: bez otoků
+T6	SYMPTOM 2298 2313	sinusový rytmus
+T7	SYMPTOM 2342 2350	úzké QRS
+T25	SYMPTOM 2361 2391	Dolní elevace suprasegmentu ST
+T8	SYMPTOM 2451 2459	úzké QRS
+T82	SYMPTOM 2516 2546	normální kardiotorakální index
+T13	SYMPTOM 2558 2576	cévní redistribuce
+T39	SYMPTOM 3112 3140	Hormony štítné žlázy v normě
+T14	SYMPTOM 3306 3355	koronární tepny bez angiograficky významných lézí
+T78	SYMPTOM 3372 3396	levá komora nedilatovaná
+T26	SYMPTOM 3423 3449	zachovanou globální funkcí
+T53	SYMPTOM 3450 3488	bez segmentálních poruch kontraktility
+T9	SYMPTOM 3515 3555	Pravá komora normální velikosti a funkce
+T81	SYMPTOM 3614 3676	Dolní dutá žíla nedilatovaná s přiměřeným inspiračním kolapsem
+T10	SYMPTOM 3707 3731	Normální aortální oblouk
+T50	SYMPTOM 3796 3810	asymptomatický
+T2	SYMPTOM 3848 3870	hemodynamicky stabilní
+T27	SYMPTOM 3874 3906	normalizací repolarizačních změn
+T11	SYMPTOM 3996 4020	koronární tepny bez lézí
+T28	SYMPTOM 4068 4094	komoru zachovalé velikosti
+T29	SYMPTOM 4097 4128	funkce bez poruch kontraktility
+T51	SYMPTOM 4506 4520	asymptomatický

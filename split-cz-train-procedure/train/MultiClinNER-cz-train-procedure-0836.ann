@@ -1,0 +1,31 @@
+T41	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 555 566	Ventimaskem
+T43	PROCEDURE 594 597	EKG
+T42	PROCEDURE 644 663	Fyzikální vyšetření
+T2	PROCEDURE 699 724	auskultaci dýchacích cest
+T76	PROCEDURE 727 743	auskultaci srdce
+T44	PROCEDURE 866 869	EKG
+T45	PROCEDURE 961 964	EKG
+T3	PROCEDURE 1091 1114	arteriální krevní plyny
+T4	PROCEDURE 1265 1277	krevní testy
+T5	PROCEDURE 1393 1405	Krevní testy
+T47	PROCEDURE 1537 1556	profil štítné žlázy
+T48	PROCEDURE 1577 1603	Rentgenový snímek hrudníku
+T49	PROCEDURE 1671 1702	Transtorakální echokardiografie
+T65	PROCEDURE 2462 2488	Magnetická rezonance srdce
+T50	PROCEDURE 2762 2773	Katetrizace
+T56	PROCEDURE 2948 2977	intravenózní diuretická léčba
+T51	PROCEDURE 2979 3011	neinvazivní mechanická ventilace
+T74	PROCEDURE 3013 3031	antibiotická léčba
+T52	PROCEDURE 3033 3050	bronchodilatancia
+T6	PROCEDURE 3053 3076	intravenózní kortikoidy
+T7	PROCEDURE 3153 3181	vysazením ventilační podpory
+T114	PROCEDURE 3232 3250	ventilační podpory
+T46	PROCEDURE 3286 3289	EKG
+T88	PROCEDURE 3392 3420	echokardiografické vyšetření
+T9	PROCEDURE 3570 3599	dvojitá protidestičková léčba
+T54	PROCEDURE 3602 3615	antikoagulace
+T89	PROCEDURE 3833 3862	echokardiografickém vyšetření
+T55	PROCEDURE 3928 3942	koronarografie
+T103	PROCEDURE 4062 4088	magnetická rezonance srdce
+T10	PROCEDURE 4242 4278	vysazení dvojí protidestičkové léčby

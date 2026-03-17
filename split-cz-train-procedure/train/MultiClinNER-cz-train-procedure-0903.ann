@@ -1,0 +1,19 @@
+T27	PROCEDURE 61 69	Anamnéza
+T16	PROCEDURE 93 112	fyzikální vyšetření
+T32	PROCEDURE 114 130	Rodinná anamnéza
+T33	PROCEDURE 263 271	anamnéza
+T34	PROCEDURE 319 337	elektrokardiogramu
+T18	PROCEDURE 339 342	EKG
+T17	PROCEDURE 448 465	Elektrokardiogram
+T22	PROCEDURE 568 596	implantace kardiostimulátoru
+T46	PROCEDURE 677 686	vyšetření
+T19	PROCEDURE 689 692	EKG
+T20	PROCEDURE 776 779	EKG
+T5	PROCEDURE 921 942	laboratorní vyšetření
+T25	PROCEDURE 953 958	ionty
+T26	PROCEDURE 961 974	funkce ledvin
+T23	PROCEDURE 1054 1085	Transtorakální echokardiografie
+T24	PROCEDURE 1765 1791	Rentgenový snímek hrudníku
+T35	PROCEDURE 1940 1968	implantaci kardiostimulátoru
+T21	PROCEDURE 1989 1992	EKG
+T30	PROCEDURE 2148 2171	trvalou kardiostimulaci

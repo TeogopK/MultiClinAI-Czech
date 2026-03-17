@@ -1,0 +1,35 @@
+T20	DISEASE 41 55	lékové alergie
+T8	DISEASE 93 110	Behçetova choroba
+T1	DISEASE 112 142	plicní aneurysma v pravé plíci
+T10	DISEASE 166 188	Chronická hepatitida B
+T2	DISEASE 433 444	pre/synkopy
+T88	DISEASE 437 444	synkopy
+T21	DISEASE 844 857	organomegalie
+T73	DISEASE 894 916	hluboké žilní trombózy
+T22	DISEASE 940 966	AV blokáda vysokého stupně
+T12	DISEASE 1012 1084	Bifascikulární blok (BRDHH + HAI) s ventrikulofázickou sinusovou arytmií
+T4	DISEASE 1033 1038	BRDHH
+T3	DISEASE 1041 1044	HAI
+T5	DISEASE 1048 1084	ventrikulofázickou sinusovou arytmií
+T13	DISEASE 1111 1144	akutní pleuropulmonální patologie
+T6	DISEASE 1320 1369	Anulární kalcifikace vystupující na siluetu srdce
+T7	DISEASE 1691 1769	Trojcípá aortální chlopeň, s dobrým otevíráním a mírnou centrální insuficiencí
+T14	DISEASE 1835 1867	diastolická mitrální regurgitace
+T15	DISEASE 1965 1991	trikuspidální insuficience
+T16	DISEASE 1999 2020	perikardiální výpotek
+T17	DISEASE 2068 2122	Přední sestupný: kalcifikovaná aneuryzmatická dilatace
+T18	DISEASE 2171 2279	Cirkumflexní: velká aneuryzmatická dilatace na proximální úrovni, kalcifikovaná, s částečnou trombózou lumen
+T19	DISEASE 2386 2409	aneuryzmatická dilatace
+T11	DISEASE 2425 2499	koronární vakovitá aneuryzmata v cirkumflexní tepně (částečně trombózovaná
+T23	DISEASE 2588 2613	dysplastickém úseku tepny
+T37	DISEASE 2678 2706	AV blokádu 2:1 s širokým QRS
+T81	DISEASE 2752 2778	námahovou anginou pectoris
+T38	DISEASE 2827 2891	přední sestupnou tepnu s kalcifikovanou aneuryzmatickou dilatací
+T39	DISEASE 2943 3045	proximální cirkumflexní tepnu s velkou aneuryzmatickou dilatací, kalcifikovanou, s částečnou trombózou
+T41	DISEASE 3589 3612	infra-Hisovu AV blokádu
+T54	DISEASE 3844 3846	VF
+T60	DISEASE 4215 4246	předního sestupného aneuryzmatu
+T9	DISEASE 4320 4337	Behçetova choroba
+T24	DISEASE 4339 4385	Infra-Hisianova atrioventrikulární blokáda 2:1
+T57	DISEASE 4445 4505	Ischemická choroba srdeční v důsledku koronárních aneuryzmat
+T61	DISEASE 4609 4640	předního sestupného aneuryzmatu

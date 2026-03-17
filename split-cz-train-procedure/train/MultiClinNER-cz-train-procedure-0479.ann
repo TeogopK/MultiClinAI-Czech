@@ -1,0 +1,26 @@
+T1	PROCEDURE 100 113	hysterektomie
+T6	PROCEDURE 135 152	korekci cystokély
+T2	PROCEDURE 246 262	cholecystektomie
+T7	PROCEDURE 312 335	bilaterální nefrektomie
+T9	PROCEDURE 437 458	náhradní léčbě ledvin
+T8	PROCEDURE 466 509	kontinuální ambulantní peritoneální dialýzy
+T10	PROCEDURE 511 515	CAPD
+T5	PROCEDURE 821 840	Fyzikální vyšetření
+T11	PROCEDURE 877 916	palpaci, převážně v pravé kyčelní jamce
+T13	PROCEDURE 1041 1058	laboratorní testy
+T14	PROCEDURE 1060 1068	hemogram
+T4	PROCEDURE 1070 1079	biochemie
+T12	PROCEDURE 1082 1102	plyny z venózní krve
+T15	PROCEDURE 1105 1126	RTG hrudníku a břicha
+T16	PROCEDURE 1154 1177	peritoneální dialyzační
+T3	PROCEDURE 1154 1184	peritoneální dialyzační katétr
+T17	PROCEDURE 1251 1287	CT vyšetření s perorálním kontrastem
+T21	PROCEDURE 1549 1569	peritoneální dialýzy
+T18	PROCEDURE 1723 1754	tekutiny na kultivaci a analýzu
+T23	PROCEDURE 1901 1916	absolutní dieta
+T24	PROCEDURE 1919 1930	léčba sérem
+T25	PROCEDURE 1995 2015	peritoneální dialýzy
+T26	PROCEDURE 2072 2092	peritoneální dialýzy
+T27	PROCEDURE 2111 2118	drenáži
+T19	PROCEDURE 2119 2161	uloží pacientku do Trendelemburgovy polohy
+T20	PROCEDURE 2214 2236	radiologická vyšetření

@@ -1,0 +1,19 @@
+T3	PROCEDURE 170 202	cervikální boční teleradiografii
+T7	PROCEDURE 367 394	Celkové fyzikální vyšetření
+T9	PROCEDURE 416 448	extraorálním klinickém vyšetření
+T4	PROCEDURE 502 521	Intraorální palpace
+T8	PROCEDURE 599 633	konvenčním radiologickém vyšetření
+T11	PROCEDURE 1111 1141	počítačovou axiální tomografií
+T10	PROCEDURE 1379 1505	Pořízení snímků bylo zpracováno pomocí softwaru Dentascan®, čímž byly získány axiální, panorexové a transverzální rekonstrukce
+T12	PROCEDURE 1788 1811	radiologickém vyšetření
+T14	PROCEDURE 1819 1836	lokální anestezii
+T2	PROCEDURE 1847 1862	incizní biopsie
+T6	PROCEDURE 2332 2353	histologická diagnóza
+T13	PROCEDURE 2428 2549	Enucleace léze byla provedena v celkové anestezii s použitím extraorálního přístupu na úrovni pravého mandibulárního úhlu
+T17	PROCEDURE 2460 2477	celkové anestezii
+T15	PROCEDURE 2588 2617	umístění rigidní osteosyntézy
+T16	PROCEDURE 2685 2737	zmenšeného vestibulárního stolu, který byl odstraněn
+T19	PROCEDURE 2810 2838	kyretáží chirurgického lůžka
+T18	PROCEDURE 2905 2976	umístění rekonstrukční destičky 2,4 na úrovni úhlu a těla dolní čelisti
+T5	PROCEDURE 3056 3060	štěp
+T1	PROCEDURE 3102 3128	Histopatologické vyšetření

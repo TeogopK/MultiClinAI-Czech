@@ -1,0 +1,37 @@
+T1	SYMPTOM 88 104	febrilní syndrom
+T6	SYMPTOM 187 213	pozitivní sérologií na EBV
+T20	SYMPTOM 215 248	pozitivní VCA IgG, VCA IgM a EBNA
+T7	SYMPTOM 327 334	horečky
+T8	SYMPTOM 338 345	zimnicí
+T9	SYMPTOM 347 354	astenií
+T10	SYMPTOM 357 376	celkovou malátností
+T21	SYMPTOM 393 419	pozitivní sérologií na EBV
+T27	SYMPTOM 462 496	splenomegalii s hypoechogenní lézí
+T11	SYMPTOM 634 646	bez příznaků
+T12	SYMPTOM 699 707	horečkou
+T13	SYMPTOM 721 728	zimnicí
+T14	SYMPTOM 730 743	bolestí hlavy
+T15	SYMPTOM 745 755	odynofagií
+T16	SYMPTOM 758 775	úbytkem hmotnosti
+T17	SYMPTOM 856 874	celkovou malátnost
+T18	SYMPTOM 876 898	bledost kůže a sliznic
+T28	SYMPTOM 1005 1016	trombopenii
+T29	SYMPTOM 1042 1063	normální bílé krvinky
+T30	SYMPTOM 1078 1119	neutrofilií (77 %) a levostrannou deviací
+T5	SYMPTOM 1130 1156	mírně zvýšené transaminázy
+T3	SYMPTOM 1173 1190	enzymy cholestázy
+T2	SYMPTOM 1250 1312	koagulační vyšetření a elementární vyšetření moči byly v normě
+T19	SYMPTOM 1328 1391	stanovení imunoglobulinů a imunologické vyšetření byly normální
+T31	SYMPTOM 1448 1637	sérologie na viry hepatitidy (A, B a C), retroviry (HIV-1 a 2), břišní tyfus, brucellu, mykoplazmu, legionelu (se stanovením antigenu v moči), herpes, CMV a toxoplazmu, která byla negativní
+T32	SYMPTOM 1681 1723	IgG anti-VCA IgG a IgG anti-EBNA pozitivní
+T33	SYMPTOM 1726 1748	IgM anti-VCA negativní
+T34	SYMPTOM 1785 1872	kultivace krve, sputa a moči, která zahrnovala i vyšetření mykobakterií) byla negativní
+T35	SYMPTOM 1997 2045	zvětšené lymfatické uzliny v paraaortální úrovni
+T4	SYMPTOM 2102 2196	výsledky (mikrobiologické a histopatologické) získané z biopsie jater a kostní dřeně negativní
+T36	SYMPTOM 2638 2699	ložiskové ztluštění jaterního pouzdra levého jaterního laloku
+T37	SYMPTOM 2706 2753	peritoneální uzlík v mezenteriu distálního ilea
+T23	SYMPTOM 2894 2899	uzlin
+T22	SYMPTOM 2936 2957	lymfatických uzlinách
+T24	SYMPTOM 3155 3175	subkapsulární uzlina
+T25	SYMPTOM 3222 3269	Zbývající tkáň sleziny byla překrveného vzhledu
+T26	SYMPTOM 3579 3593	asymptomatická

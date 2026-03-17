@@ -1,0 +1,40 @@
+T57	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T27	PROCEDURE 491 512	genetickým vyšetřením
+T51	PROCEDURE 652 695	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 697 700	TTE
+T20	PROCEDURE 955 1043	implantovat v rámci primární prevence implantabilní kardioverter-defibrilátor (ICD) DDDR
+T52	PROCEDURE 1971 1988	elektrokardiogram
+T53	PROCEDURE 1990 1993	EKG
+T60	PROCEDURE 2052 2078	markery poškození myokardu
+T58	PROCEDURE 2144 2163	Fyzikální vyšetření
+T32	PROCEDURE 2408 2425	kyslíkové terapie
+T59	PROCEDURE 2427 2454	Kardiorespirační auskultace
+T33	PROCEDURE 2547 2565	Valsalvově manévru
+T69	PROCEDURE 2915 2924	Biochemie
+T70	PROCEDURE 3021 3029	Ionogram
+T34	PROCEDURE 3040 3058	Abdominální profil
+T61	PROCEDURE 3197 3223	markery poškození myokardu
+T62	PROCEDURE 3235 3250	Lipidový profil
+T35	PROCEDURE 3365 3367	KO
+T63	PROCEDURE 3456 3474	Elektrokardiogramy
+T54	PROCEDURE 3476 3479	EKG
+T55	PROCEDURE 3491 3494	EKG
+T56	PROCEDURE 3585 3588	EKG
+T36	PROCEDURE 3736 3739	TTE
+T64	PROCEDURE 4138 4169	Transezofageální echokardiogram
+T38	PROCEDURE 4171 4174	TEE
+T65	PROCEDURE 4778 4792	Koronarografie
+T23	PROCEDURE 4834 4907	Druhá septální větev (většího kalibru a rozvoje) je selektivně kanylována
+T41	PROCEDURE 5018 5049	podání ultrazvukového kontrastu
+T42	PROCEDURE 5050 5053	TTE
+T43	PROCEDURE 5150 5159	MRI srdce
+T66	PROCEDURE 6531 6548	Perfuzní sekvence
+T49	PROCEDURE 7085 7098	betablokátorů
+T67	PROCEDURE 7266 7280	beta-blokátory
+T71	PROCEDURE 7609 7628	antagonistů vápníku
+T72	PROCEDURE 7744 7766	ablace septa alkoholem
+T73	PROCEDURE 7772 7789	Morrowova operace
+T74	PROCEDURE 7967 7989	ablaci septa alkoholem
+T75	PROCEDURE 7995 8019	chirurgickou myomektomii
+T77	PROCEDURE 8278 8300	ablaci septa alkoholem
+T68	PROCEDURE 8309 8332	chirurgická myomektomie

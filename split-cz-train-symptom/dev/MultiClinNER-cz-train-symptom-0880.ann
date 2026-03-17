@@ -1,0 +1,30 @@
+T11	SYMPTOM 281 315	necitlivosti pravé horní končetiny
+T75	SYMPTOM 394 400	vědomí
+T67	SYMPTOM 402 413	orientovaná
+T47	SYMPTOM 415 420	bdělá
+T36	SYMPTOM 422 434	Normální řeč
+T12	SYMPTOM 436 448	Normální EOM
+T1	SYMPTOM 450 472	normální hlavové nervy
+T13	SYMPTOM 474 480	Paréza
+T14	SYMPTOM 499 510	hypoestezie
+T2	SYMPTOM 512 533	Rytmické srdeční tóny
+T76	SYMPTOM 538 545	šelestu
+T69	SYMPTOM 564 583	vedlejších fenomenů
+T68	SYMPTOM 591 613	otoky dolních končetin
+T3	SYMPTOM 653 674	normální krevní obraz
+T4	SYMPTOM 676 694	normální koagulace
+T5	SYMPTOM 805 820	sinusový rytmus
+T7	SYMPTOM 838 850	normální osa
+T15	SYMPTOM 856 876	repolarizačních změn
+T16	SYMPTOM 997 1013	hypodenzní obraz
+T44	SYMPTOM 1667 1694	Zachovaná systolická funkce
+T33	SYMPTOM 1700 1704	LVEF
+T17	SYMPTOM 1825 1873	žádné bubliny procházející interatriálním septem
+T56	SYMPTOM 1977 2001	hypoestezie v pravé paži
+T18	SYMPTOM 2208 2231	vertiginózním příznakům
+T6	SYMPTOM 2233 2241	zvracení
+T19	SYMPTOM 2243 2251	dysartri
+T64	SYMPTOM 2255 2272	nestabilitě chůze
+T20	SYMPTOM 2434 2471	Kardiologické vyšetření bylo normální
+T8	SYMPTOM 3032 3073	časný průchod mikrobublin do levých dutin
+#T12	AnnotatorNotes T12	? unknown abbreviation

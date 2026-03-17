@@ -1,0 +1,35 @@
+T10	DISEASE 49 70	arteriální hypertenze
+T1	DISEASE 72 74	HT
+T11	DISEASE 106 175	diabetes mellitus (DM) 2. typu s makro- a mikrovaskulárním postižením
+T2	DISEASE 177 180	LBP
+T29	DISEASE 182 195	aktivní kuřák
+T3	DISEASE 219 257	Chronické onemocnění ledvin II. stupně
+T30	DISEASE 424 494	Chronická ischemická choroba srdeční se závažným třícívním onemocněním
+T4	DISEASE 600 631	mírnou systolickou dysfunkcí LK
+T6	DISEASE 633 660	Paroxyzmální fibrilace síní
+T7	DISEASE 662 666	FiSi
+T8	DISEASE 700 770	Ischemická cévní mozková příhoda v teritoriu pravé zadní mozkové tepny
+T9	DISEASE 818 865	Středně těžký syndrom spánkové apnoe a hypopnoe
+T31	DISEASE 867 871	SAHS
+T57	DISEASE 874 928	Chronická ischemie IIA stupně na pravé dolní končetině
+T60	DISEASE 1350 1368	cévního onemocnění
+T58	DISEASE 1372 1411	chronickou ischemickou chorobou srdeční
+T61	DISEASE 1465 1489	systolickou dysfunkcí LK
+T62	DISEASE 1536 1640	ischemickou cévní mozkovou příhodu aterotrombotické etiologie v oblasti levé střední mozkové tepny (MCA)
+T40	DISEASE 1771 1801	dekompenzace srdečního selhání
+T68	DISEASE 2684 2699	akutní ischemii
+T33	DISEASE 2728 2757	Oboustranný pleurální výpotek
+T26	DISEASE 4354 4379	Mírně dilatovaná levá síň
+T25	DISEASE 4381 4412	Středně těžká plicní hypertenze
+T34	DISEASE 4430 4487	závažná léze v proximálním segmentu přední sestupné tepny
+T15	DISEASE 5018 5038	metabolické alkalóze
+T16	DISEASE 5302 5342	závažnou stenózu v proximálním úseku LAD
+T19	DISEASE 5620 5630	DM 2. typu
+T20	DISEASE 5758 5781	akutnímu selhání ledvin
+T35	DISEASE 5838 5848	nefropatie
+T36	DISEASE 5952 5976	Městnavé srdeční selhání
+T37	DISEASE 5989 6024	Středně těžká dysfunkce levé komory
+T38	DISEASE 6026 6051	Diabetes mellitus 2. typu
+T21	DISEASE 6151 6176	Třícípá koronární choroba
+T22	DISEASE 6178 6224	těžká stenóza proximální přední sestupné tepny
+T39	DISEASE 6305 6374	Ischemická cévní mozková příhoda sekundární k okluzi levé krční tepny

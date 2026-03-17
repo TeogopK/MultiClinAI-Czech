@@ -1,0 +1,34 @@
+T42	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 360 391	léčbě perorálními antidiabetiky
+T30	PROCEDURE 550 569	cystoprostatektomie
+T40	PROCEDURE 572 600	Brickerova ureteroileostomie
+T32	PROCEDURE 612 614	QT
+T46	PROCEDURE 893 904	kardioverzí
+T47	PROCEDURE 907 945	kontinuální žilní perfuzi prokainamidu
+T50	PROCEDURE 1070 1117	nadměrně stimulována femorálním elektrokatétrem
+T33	PROCEDURE 1183 1197	koronarografie
+T52	PROCEDURE 1354 1371	kardiochirurgická
+T53	PROCEDURE 1403 1434	elektrofyziologickému vyšetření
+T54	PROCEDURE 1436 1439	EPS
+T55	PROCEDURE 1443 1470	ablaci komorové tachykardie
+T59	PROCEDURE 1585 1588	EPS
+T60	PROCEDURE 1622 1691	implantaci dvoukomorového implantabilního kardioverteru-defibrilátoru
+T34	PROCEDURE 2633 2644	HEMOKULTURY
+T65	PROCEDURE 2913 2925	RTG hrudníku
+T35	PROCEDURE 3121 3127	PET-CT
+T69	PROCEDURE 3480 3509	radikální cystoprostatektomii
+T68	PROCEDURE 3512 3531	Brickerovým zkratem
+T70	PROCEDURE 3591 3594	TEE
+T73	PROCEDURE 4009 4025	Krevní kultivace
+T37	PROCEDURE 4099 4134	transezofageální echokardiografické
+T36	PROCEDURE 4199 4205	PET-CT
+T76	PROCEDURE 4317 4329	antibiogramu
+T77	PROCEDURE 4592 4612	explantaci přístroje
+T78	PROCEDURE 4797 4817	antibiotická terapie
+T39	PROCEDURE 5007 5027	kultivační sérologii
+T80	PROCEDURE 5041 5070	echokardiografickém vyšetření
+T81	PROCEDURE 5109 5136	implantaci nového přístroje
+T38	PROCEDURE 5215 5246	transvenózní implantace ICD-DDD
+T83	PROCEDURE 5539 5553	implantaci ICD
+T31	PROCEDURE 5728 5747	Cystoprostatektomie
+T41	PROCEDURE 5750 5778	Brickerova ureteroileostomie

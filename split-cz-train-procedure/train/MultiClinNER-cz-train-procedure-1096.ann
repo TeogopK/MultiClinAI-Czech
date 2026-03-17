@@ -1,0 +1,35 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T45	PROCEDURE 292 322	implantací jednokomorového ICD
+T46	PROCEDURE 577 598	výměně generátoru ICD
+T47	PROCEDURE 1053 1061	Anamnézu
+T26	PROCEDURE 1136 1155	Fyzikální vyšetření
+T6	PROCEDURE 1511 1513	AS
+T42	PROCEDURE 1558 1560	AP
+T8	PROCEDURE 1956 1978	odběrem krevní kultury
+T34	PROCEDURE 1964 1978	krevní kultury
+T43	PROCEDURE 2105 2107	AP
+T27	PROCEDURE 2203 2215	RTG hrudníku
+T28	PROCEDURE 2280 2288	CT lebky
+T29	PROCEDURE 2525 2545	CT hrudníku a břicha
+T48	PROCEDURE 3193 3221	empirická antibiotická léčba
+T13	PROCEDURE 3379 3391	Krevní testy
+T30	PROCEDURE 3626 3629	EKG
+T31	PROCEDURE 3767 3798	Transtorakální echokardiografie
+T32	PROCEDURE 4246 4277	Transezofageální echokardiogram
+T37	PROCEDURE 4375 4393	antibiotická léčba
+T44	PROCEDURE 4413 4441	odebrány nové krevní kultury
+T35	PROCEDURE 4427 4441	krevní kultury
+T36	PROCEDURE 4784 4798	krevní kultury
+T40	PROCEDURE 4812 4830	Antibiotická léčba
+T38	PROCEDURE 4938 4949	CT hrudníku
+T33	PROCEDURE 5085 5120	transezofageální echokardiografické
+T55	PROCEDURE 5440 5458	antibiotická léčba
+T56	PROCEDURE 5493 5521	renálních a jaterních funkcí
+T57	PROCEDURE 5523 5535	koagulačních
+T58	PROCEDURE 5538 5557	zánětlivých markerů
+T59	PROCEDURE 5573 5599	magnetická rezonance srdce
+T39	PROCEDURE 5724 5735	CT hrudníku
+T63	PROCEDURE 5790 5818	echokardiografická vyšetření
+T64	PROCEDURE 5883 5901	antibiotické léčby
+T65	PROCEDURE 5982 6016	implantován nový jednokomorový ICD
+T41	PROCEDURE 6235 6280	Explantace a reimplantace jednokomorového ICD

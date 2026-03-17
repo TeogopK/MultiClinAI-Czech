@@ -1,0 +1,53 @@
+T1	SYMPTOM 487 502	bolest na hrudi
+T116	SYMPTOM 581 589	horečkou
+T111	SYMPTOM 744 751	dušnost
+T3	SYMPTOM 753 762	palpitace
+T97	SYMPTOM 796 812	bolesti na hrudi
+T12	SYMPTOM 821 836	angíně pectoris
+T4	SYMPTOM 964 982	Dobrý celkový stav
+T24	SYMPTOM 984 999	dobrá hydratace
+T26	SYMPTOM 1002 1016	barva končetin
+T5	SYMPTOM 1018 1035	Eupnoický v klidu
+T6	SYMPTOM 1037 1061	akce srdeční: pravidelná
+T166	SYMPTOM 1067 1074	šelestů
+T145	SYMPTOM 1080 1101	perikardiálního tření
+T7	SYMPTOM 1120 1138	alveolární dýchání
+T99	SYMPTOM 1143 1172	vedlejších dechových fenoménů
+T143	SYMPTOM 1237 1259	otoky dolních končetin
+T27	SYMPTOM 1261 1312	Distální pulzy na končetinách přítomny a symetrické
+T28	SYMPTOM 1729 1751	Jaterní profil v normě
+T8	SYMPTOM 1859 1874	sinusový rytmus
+T9	SYMPTOM 1917 1925	úzké QRS
+T29	SYMPTOM 1928 1941	normální osou
+T30	SYMPTOM 1943 1945	QS
+T31	SYMPTOM 1957 1977	negativními vlnami T
+T75	SYMPTOM 2029 2058	Kardiotorakální index v normě
+T19	SYMPTOM 2060 2087	Plicní parenchym bez nálezu
+T20	SYMPTOM 2089 2113	Volné kostofrenní dutiny
+T137	SYMPTOM 2146 2191	levá komora není dilatovaná ani hypertrofická
+T21	SYMPTOM 2314 2398	Nedilatovaná, nehypertrofická pravá komora se zachovanou podélnou systolickou funkcí
+T16	SYMPTOM 2400 2427	Předsíně normální velikosti
+T162	SYMPTOM 2474 2495	perikardiální výpotek
+T10	SYMPTOM 2508 2562	levá komora s globální kontraktilitou na hranici normy
+T15	SYMPTOM 2576 2603	Hypokineze apikálního septa
+T11	SYMPTOM 2778 2843	Pravá komora normální velikosti a morfologie se zachovanou funkcí
+T17	SYMPTOM 2873 2920	Koronární tepny s normálním anatomickým původem
+T18	SYMPTOM 2922 2937	Pravá dominance
+T32	SYMPTOM 2939 2995	Kmen levé koronární tepny: céva dobře vyvinutá, bez lézí
+T33	SYMPTOM 3487 3556	Obvodová tepna: proximální a střední segment cévy jsou dobře vyvinuté
+T34	SYMPTOM 3605 3638	ramus marginalis dobrého průsvitu
+T23	SYMPTOM 3671 3739	Pravá koronární céva: dominantní céva velmi dobře vyvinutá, bez lézí
+T35	SYMPTOM 3741 3788	Posterolaterální větev dobrého vývoje, bez lézí
+T36	SYMPTOM 3790 3841	Posteriorní sestupná větev dobře vyvinutá, bez lézí
+T37	SYMPTOM 4054 4091	Levá koronární tepna: kmen bez stenoz
+T38	SYMPTOM 4219 4259	ramus circumflexus bez významných stenoz
+T13	SYMPTOM 4588 4594	Bolest
+T2	SYMPTOM 4597 4604	horečka
+T39	SYMPTOM 4792 4870	apikální akineze a akineze přední plochy a předního septa ve středním segmentu
+T96	SYMPTOM 4914 4921	bolesti
+T40	SYMPTOM 4924 4957	elevaci enzymů poškození myokardu
+T14	SYMPTOM 5374 5396	hemodynamicky stabilní
+T41	SYMPTOM 5726 5735	hypotenzi
+T22	SYMPTOM 5943 5975	subendokardiální perfuzní defekt
+T25	SYMPTOM 6330 6338	stabilní
+T93	SYMPTOM 6341 6355	asymptomatický

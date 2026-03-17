@@ -1,0 +1,59 @@
+T58	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 423 457	oboustrannou částečnou mastektomií
+T59	PROCEDURE 1270 1289	FYZIKÁLNÍ VYŠETŘENÍ
+T60	PROCEDURE 1634 1650	Auskultace srdce
+T61	PROCEDURE 1721 1738	Plicní auskultace
+T3	PROCEDURE 1887 1894	palpaci
+T62	PROCEDURE 2155 2158	EKG
+T63	PROCEDURE 2337 2363	Rentgenový snímek hrudníku
+T5	PROCEDURE 2642 2662	Venózní krevní plyny
+T101	PROCEDURE 2982 2991	Biochemie
+T65	PROCEDURE 3330 3342	Krevní obraz
+T66	PROCEDURE 3707 3716	Koagulace
+T67	PROCEDURE 3863 3889	Markery poškození myokardu
+T68	PROCEDURE 3970 3983	Mikrobiologie
+T69	PROCEDURE 3985 4007	PCR na respirační viry
+T70	PROCEDURE 4088 4117	transtorakální echokardiogram
+T71	PROCEDURE 4391 4420	Transtorakální echokardiogram
+T72	PROCEDURE 5352 5381	Transtorakální echokardiogram
+T86	PROCEDURE 5388 5406	odpojování od ECMO
+T87	PROCEDURE 5535 5539	ECMO
+T75	PROCEDURE 6420 6446	Magnetická rezonance srdce
+T94	PROCEDURE 6448 6451	CMR
+T12	PROCEDURE 7012 7025	sekvenci STIR
+T79	PROCEDURE 7379 7424	Patologická anatomie endomyokardiální biopsie
+T77	PROCEDURE 7400 7424	endomyokardiální biopsie
+T18	PROCEDURE 7858 7869	léčba sérem
+T73	PROCEDURE 8019 8052	transtorakální echokardiografické
+T21	PROCEDURE 8332 8347	sérovou terapii
+T23	PROCEDURE 8453 8463	monitoraci
+T24	PROCEDURE 8484 8502	vazoaktivních léků
+T80	PROCEDURE 8595 8632	výtěr z nosohltanu na respirační viry
+T25	PROCEDURE 8685 8716	empirická antimikrobiální léčba
+T100	PROCEDURE 8870 8892	vazopresorická podpora
+T81	PROCEDURE 9024 9088	Invazivní hemodynamické monitorování pomocí Swan-Ganzova katétru
+T74	PROCEDURE 9241 9270	transtorakální echokardiogram
+T102	PROCEDURE 9837 9891	implantaci intraaortálního balónkového kontrapulzátoru
+T29	PROCEDURE 10027 10049	vazopresorické podpory
+T30	PROCEDURE 10187 10202	kardiochirurgii
+T88	PROCEDURE 10213 10255	urgentní implantace veno-arteriálního ECMO
+T82	PROCEDURE 10328 10350	orotracheální intubace
+T89	PROCEDURE 10358 10373	ECMO implantace
+T84	PROCEDURE 10715 10766	kanylace femorální tepny za účelem distální perfuze
+T85	PROCEDURE 10811 10819	kanylace
+T78	PROCEDURE 10849 10873	endomyokardiální biopsie
+T90	PROCEDURE 10965 10969	ECMO
+T98	PROCEDURE 10970 10984	echokardiogram
+T32	PROCEDURE 11054 11083	echokardiografickou kontrolou
+T33	PROCEDURE 11233 11249	echokardiografii
+T64	PROCEDURE 11337 11363	Rentgenový snímek hrudníku
+T99	PROCEDURE 11366 11380	ultrazvuk plic
+T36	PROCEDURE 11438 11450	torakentézou
+T91	PROCEDURE 11628 11641	ECMO vysazeno
+T95	PROCEDURE 11737 11750	polytransfuzi
+T92	PROCEDURE 11771 11790	vazoaktivní podpory
+T96	PROCEDURE 11830 11865	odstranění kontrapulzačního balonku
+T76	PROCEDURE 12079 12105	magnetická rezonance srdce
+T104	PROCEDURE 12230 12250	funkční rehabilitace
+T83	PROCEDURE 12555 12574	implantace ECMO V-A
+T93	PROCEDURE 12903 12920	kanylaci ECMO V-A

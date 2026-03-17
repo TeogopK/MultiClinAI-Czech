@@ -1,0 +1,27 @@
+T18	PROCEDURE 505 525	fyzikálním vyšetření
+T19	PROCEDURE 636 651	auskultaci plic
+T20	PROCEDURE 700 716	auskultaci srdce
+T1	PROCEDURE 1038 1082	Základní hodnoty arteriálních krevních plynů
+T14	PROCEDURE 1147 1156	biochemie
+T2	PROCEDURE 1181 1207	Rentgenový snímek hrudníku
+T17	PROCEDURE 1312 1355	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 1561 1594	neinvazivní mechanickou ventilací
+T4	PROCEDURE 1601 1615	echokardiogram
+T30	PROCEDURE 1662 1679	perikardiocentéza
+T13	PROCEDURE 2083 2090	Mantoux
+T15	PROCEDURE 2103 2122	Profil štítné žlázy
+T5	PROCEDURE 2137 2169	Kultivace perikardiální tekutiny
+T6	PROCEDURE 2202 2213	hemokultury
+T7	PROCEDURE 2215 2258	Patologická anatomie perikardiální tekutiny
+T21	PROCEDURE 2502 2628	sérologické testy na virus lidského imunodeficitu, Mycoplasma pneumoniae, cytomegalovirus, Epstein Barr a Chlamydia pneumoniae
+T8	PROCEDURE 2695 2706	CT hrudníku
+T10	PROCEDURE 3181 3194	bronchoskopie
+T11	PROCEDURE 3379 3402	bronchoalveolární laváž
+T44	PROCEDURE 3514 3520	punkci
+T22	PROCEDURE 3536 3560	transbronchiální biopsii
+T16	PROCEDURE 3562 3603	Patologicko-anatomické vyšetření výplachu
+T3	PROCEDURE 4246 4272	Rentgenový snímek hrudníku
+T9	PROCEDURE 4318 4329	CT hrudníku
+T12	PROCEDURE 4443 4457	plicní biopsie
+T23	PROCEDURE 4752 4775	Histochemická vyšetření
+T24	PROCEDURE 4831 4854	podstupuje chemoterapii

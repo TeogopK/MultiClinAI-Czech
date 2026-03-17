@@ -1,0 +1,62 @@
+T78	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 406 430	Vyšetření na trombofilii
+T63	PROCEDURE 586 602	cholecystektomie
+T65	PROCEDURE 837 850	antikoagulace
+T66	PROCEDURE 857 877	antikoagulační léčba
+T4	PROCEDURE 1185 1220	nesteroidních protizánětlivých léků
+T67	PROCEDURE 1408 1425	elektrokardiogram
+T68	PROCEDURE 1427 1430	EKG
+T80	PROCEDURE 1588 1671	emergentní katetrizace levou radiální cestou podle obvyklé techniky se 6F zaváděčem
+T74	PROCEDURE 1768 1782	tromboaspirace
+T8	PROCEDURE 1862 1894	Léze byla predilatována balónkem
+T9	PROCEDURE 1900 1932	implantován farmakoaktivní stent
+T10	PROCEDURE 1935 1987	proximální segment stentu byl postdilatován balónkem
+T12	PROCEDURE 2176 2241	manipulaci s balonkem/vodičem při perkutánní koronární intervenci
+T11	PROCEDURE 2243 2246	PCI
+T86	PROCEDURE 2363 2386	elektrickou kardioverzi
+T14	PROCEDURE 2389 2408	vazoaktivní podporu
+T16	PROCEDURE 2557 2579	protidestičkovou léčbu
+T76	PROCEDURE 2715 2755	přenosná transtorakální echokardiografie
+T18	PROCEDURE 2888 2904	antikoagulačních
+T77	PROCEDURE 3096 3110	koronarografie
+T75	PROCEDURE 3465 3479	tromboaspirace
+T79	PROCEDURE 3561 3580	FYZIKÁLNÍ VYŠETŘENÍ
+T19	PROCEDURE 3659 3682	Ventimaskou s FiO2 50 %
+T69	PROCEDURE 3905 3908	EKG
+T70	PROCEDURE 3923 3926	EKG
+T71	PROCEDURE 4089 4092	EKG
+T20	PROCEDURE 4105 4116	katetrizaci
+T72	PROCEDURE 4324 4327	EKG
+T73	PROCEDURE 4348 4351	EKG
+T81	PROCEDURE 4434 4446	RTG hrudníku
+T21	PROCEDURE 4556 4568	Krevní testy
+T94	PROCEDURE 4737 4746	Biochemie
+T95	PROCEDURE 4801 4810	hemostáza
+T82	PROCEDURE 4945 4960	Lipidový profil
+T83	PROCEDURE 5070 5099	Glykemicko-metabolický profil
+T22	PROCEDURE 5169 5183	Hodnoty železa
+T23	PROCEDURE 5340 5361	Trombofilní parametry
+T84	PROCEDURE 5869 5885	Nádorové markery
+T85	PROCEDURE 6053 6072	Imunologický profil
+T96	PROCEDURE 6167 6184	imunofluorescence
+T25	PROCEDURE 6242 6245	IFA
+T87	PROCEDURE 6419 6433	Echokardiogram
+T88	PROCEDURE 7203 7229	Magnetická rezonance srdce
+T28	PROCEDURE 7231 7234	CMR
+T89	PROCEDURE 7543 7556	Sekvence STIR
+T90	PROCEDURE 7788 7803	Perfuzní studie
+T91	PROCEDURE 7954 7976	Studie detekce nekrózy
+T99	PROCEDURE 8588 8603	Celkové CT těla
+T92	PROCEDURE 8605 8616	CT hrudníku
+T100	PROCEDURE 8761 8796	pleurální ani perikardiální výpotek
+T93	PROCEDURE 8798 8815	CT břicha a pánve
+T64	PROCEDURE 9134 9150	Cholecystektomie
+T103	PROCEDURE 9556 9575	vazoaktivní podporu
+T104	PROCEDURE 9630 9684	implantaci intraaortálního balónkového kontrapulzátoru
+T105	PROCEDURE 9711 9743	odpojování hemodynamické podpory
+T106	PROCEDURE 9768 9812	balónková kontrapulzace a dobutamin vysazeny
+T97	PROCEDURE 9957 9969	monitorování
+T107	PROCEDURE 10103 10123	magnetická rezonance
+T111	PROCEDURE 10923 10954	kompletní trombofilní vyšetření
+T113	PROCEDURE 10990 11016	CT břicha a břicha a pánve
+T116	PROCEDURE 11832 11871	Primární angioplastika s implantací DES

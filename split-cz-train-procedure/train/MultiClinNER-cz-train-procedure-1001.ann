@@ -1,0 +1,60 @@
+T2	PROCEDURE 107 139	léčený perorálními antidiabetiky
+T4	PROCEDURE 584 657	imunosupresivní léčba, hemoreologická léčba a podávání antagonistů kalcia
+T39	PROCEDURE 1332 1349	elektrokardiogram
+T40	PROCEDURE 1351 1354	EKG
+T8	PROCEDURE 1457 1473	povrchové sedaci
+T9	PROCEDURE 1475 1518	implantaci transkutánního kardiostimulátoru
+T41	PROCEDURE 1694 1697	EKG
+T11	PROCEDURE 1825 1835	telemetrii
+T47	PROCEDURE 1997 2016	Fyzikální vyšetření
+T48	PROCEDURE 2359 2381	neurologické vyšetření
+T49	PROCEDURE 2408 2426	Auskultace karotid
+T16	PROCEDURE 2442 2458	auskultace srdce
+T50	PROCEDURE 2495 2510	Auskultace plic
+T71	PROCEDURE 2806 2815	biochemie
+T51	PROCEDURE 3213 3226	jaterní testy
+T72	PROCEDURE 3319 3339	Hormony štítné žlázy
+T52	PROCEDURE 3349 3372	Arteriální krevní plyny
+T65	PROCEDURE 3581 3593	Krevní obraz
+T53	PROCEDURE 3742 3759	Koagulační studie
+T73	PROCEDURE 3804 3818	Imunoglobuliny
+T68	PROCEDURE 3877 3888	Autoimunita
+T69	PROCEDURE 4072 4081	Sérologie
+T74	PROCEDURE 4108 4123	Močový sediment
+T54	PROCEDURE 4230 4248	Elektroforéza moči
+T55	PROCEDURE 4353 4369	Imunofixace moči
+T42	PROCEDURE 4416 4419	EKG
+T43	PROCEDURE 4573 4576	EKG
+T44	PROCEDURE 4669 4672	EKG
+T46	PROCEDURE 4785 4795	Telemetrie
+T45	PROCEDURE 4891 4894	EKG
+T56	PROCEDURE 5014 5026	RTG hrudníku
+T57	PROCEDURE 5199 5211	RTG hrudníku
+T58	PROCEDURE 5455 5467	RTG hrudníku
+T59	PROCEDURE 5705 5734	Transtorakální echokardiogram
+T76	PROCEDURE 5736 5739	TTE
+T78	PROCEDURE 6171 6187	Abdominální echo
+T61	PROCEDURE 6246 6257	CT hrudníku
+T62	PROCEDURE 6621 6635	Koronarografie
+T63	PROCEDURE 6752 6767	Renální biopsie
+T86	PROCEDURE 7367 7384	Imunofluorescence
+T87	PROCEDURE 7745 7811	přes pravou jugulární žílu implantován provizorní kardiostimulátor
+T88	PROCEDURE 7864 7874	telemetrii
+T89	PROCEDURE 7953 7978	základními krevními plyny
+T60	PROCEDURE 8062 8093	Transtorakální echokardiografie
+T90	PROCEDURE 8095 8098	TTE
+T91	PROCEDURE 8389 8422	implantována DDDR definitivní MCP
+T70	PROCEDURE 8494 8506	monitorování
+T96	PROCEDURE 8897 8926	neinvazivní ventilace s BIPAP
+T97	PROCEDURE 8939 8956	diuretickou léčbu
+T67	PROCEDURE 8958 8978	intravenózní nitráty
+T98	PROCEDURE 9008 9023	antihypertenziv
+T100	PROCEDURE 9140 9143	TTE
+T101	PROCEDURE 9278 9308	vysazena neinvazivní ventilace
+T66	PROCEDURE 9319 9335	diuretická léčba
+T105	PROCEDURE 10139 10191	zavedení pravého femorálního katétru pro hemodialýzu
+T106	PROCEDURE 10180 10191	hemodialýzu
+T64	PROCEDURE 10217 10232	renální biopsie
+T109	PROCEDURE 10380 10419	zaveden pravý jugulární tunelový katétr
+T110	PROCEDURE 10494 10516	hemodialyzační program
+T111	PROCEDURE 10595 10606	hemodialýze

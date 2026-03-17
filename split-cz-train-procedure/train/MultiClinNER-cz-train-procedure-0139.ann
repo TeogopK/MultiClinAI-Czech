@@ -1,0 +1,12 @@
+T2	PROCEDURE 301 320	Fyzikální vyšetření
+T3	PROCEDURE 569 605	palpaci pravého žvýkače a pterygoidů
+T6	PROCEDURE 620 651	panoramatický rentgenový snímek
+T1	PROCEDURE 702 751	Magnetická rezonance (MRI) obou čelistních kloubů
+T4	PROCEDURE 724 727	MRI
+T5	PROCEDURE 1024 1084	vyšetření počítačovou tomografií (CT) obou čelistních kloubů
+T7	PROCEDURE 1058 1060	CT
+T8	PROCEDURE 1223 1240	odlehčovací dlahy
+T9	PROCEDURE 1242 1262	svalových relaxancií
+T10	PROCEDURE 1264 1285	protizánětlivých léků
+T13	PROCEDURE 1287 1302	lokálního tepla
+T14	PROCEDURE 1305 1316	měkké diety

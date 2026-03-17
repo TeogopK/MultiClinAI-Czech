@@ -1,0 +1,42 @@
+T3	PROCEDURE 248 267	srdeční katetrizací
+T5	PROCEDURE 358 382	implantován lékový stent
+T19	PROCEDURE 437 480	Transtorakální echokardiografické vyšetření
+T6	PROCEDURE 482 485	TTE
+T9	PROCEDURE 752 782	chronicky léčen imunosupresivy
+T20	PROCEDURE 940 959	fyzikální vyšetření
+T22	PROCEDURE 1160 1173	zátěžový test
+T23	PROCEDURE 1175 1188	Zátěžový test
+T45	PROCEDURE 1304 1319	zátěžovém testu
+T47	PROCEDURE 1584 1600	auskultaci srdce
+T24	PROCEDURE 1950 1962	Krevní obraz
+T39	PROCEDURE 2031 2040	Koagulace
+T43	PROCEDURE 2068 2082	biochemie krve
+T44	PROCEDURE 2220 2239	Kompletní biochemie
+T48	PROCEDURE 2504 2526	Imunologické vyšetření
+T25	PROCEDURE 2615 2632	Elektrokardiogram
+T26	PROCEDURE 2726 2738	RTG hrudníku
+T28	PROCEDURE 2779 2827	Transtorakální a transezofageální echokardiogram
+T18	PROCEDURE 3591 3610	Srdeční katetrizace
+T35	PROCEDURE 3787 3808	Angio-CT hrudní aorty
+T40	PROCEDURE 4146 4164	Infekční sérologie
+T27	PROCEDURE 4218 4243	Biopsie (aortální chlopeň
+T41	PROCEDURE 4469 4520	revaskularizované perkutánně pomocí lékového stentu
+T21	PROCEDURE 4578 4597	Fyzikální vyšetření
+T62	PROCEDURE 4753 4768	echokardiogramu
+T30	PROCEDURE 5281 5284	EKG
+T66	PROCEDURE 5336 5351	echokardiogramu
+T31	PROCEDURE 5395 5409	koronarografie
+T32	PROCEDURE 5571 5586	revaskularizace
+T72	PROCEDURE 5846 5870	imunologických vyšetření
+T73	PROCEDURE 5872 5893	reaktantů akutní fáze
+T42	PROCEDURE 5902 5911	sérologie
+T34	PROCEDURE 5931 5951	CT angiografie aorty
+T36	PROCEDURE 5979 5987	Angio-CT
+T76	PROCEDURE 6190 6225	Léčba byla zahájena glukokortikoidy
+T77	PROCEDURE 6531 6558	perorálními glukokortikoidy
+T37	PROCEDURE 6574 6621	náhrada aortální chlopně kovovou protézou č. 21
+T38	PROCEDURE 6624 6759	koronární revaskularizace pomocí aortokoronárního bypassu ze safény do střední přední sestupné tepny a proximální pravé koronární tepny
+T33	PROCEDURE 7005 7010	aminů
+T78	PROCEDURE 7013 7051	intraaortální balónkovou kontrapulzaci
+T80	PROCEDURE 7214 7228	vysazení aminů
+T81	PROCEDURE 7231 7249	odstranění balonku

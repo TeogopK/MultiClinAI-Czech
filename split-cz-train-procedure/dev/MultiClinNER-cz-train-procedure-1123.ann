@@ -1,0 +1,35 @@
+T40	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 383 411	echokardiografické vyšetření
+T60	PROCEDURE 841 862	perorální rehydratace
+T61	PROCEDURE 865 883	antiemetická léčba
+T45	PROCEDURE 1129 1146	elektrokardiogram
+T4	PROCEDURE 1231 1243	krevní testy
+T6	PROCEDURE 1260 1283	markery srdeční nekrózy
+T41	PROCEDURE 1627 1646	Fyzikální vyšetření
+T62	PROCEDURE 1647 1661	Životní funkce
+T47	PROCEDURE 1771 1793	Neurologické vyšetření
+T48	PROCEDURE 1952 1967	Auskultace plic
+T49	PROCEDURE 2022 2038	Auskultace srdce
+T8	PROCEDURE 2457 2471	jaterní enzymy
+T50	PROCEDURE 2604 2615	Haptoglobin
+T51	PROCEDURE 2664 2676	Krevní obraz
+T63	PROCEDURE 2754 2763	Hemostáza
+T46	PROCEDURE 2803 2820	Elektrokardiogram
+T52	PROCEDURE 2822 2825	EKG
+T53	PROCEDURE 2952 2964	RTG hrudníku
+T54	PROCEDURE 3044 3060	Ultrazvuk břicha
+T55	PROCEDURE 3500 3529	transtorakální echokardiogram
+T42	PROCEDURE 4460 4487	ultrazvukovém nálezu břicha
+T56	PROCEDURE 4564 4593	transtorakální echokardiogram
+T44	PROCEDURE 4861 4891	léčba intravenózními diuretiky
+T64	PROCEDURE 5085 5127	kontinuální diuretická a inotropní perfuze
+T57	PROCEDURE 5144 5172	intravenózní kortikosteroidy
+T58	PROCEDURE 5203 5227	endomyokardiální biopsie
+T65	PROCEDURE 5232 5258	magnetická rezonance srdce
+T43	PROCEDURE 5311 5367	lůžka pacienta byla provedena kontrolní echokardiografie
+T67	PROCEDURE 5539 5584	implantována aortální balónková kontrapulzace
+T59	PROCEDURE 5700 5719	transplantace srdce
+T68	PROCEDURE 5750 5765	implantaci ECMO
+T71	PROCEDURE 5896 5911	implantaci BACP
+T72	PROCEDURE 5929 5944	implantaci ECMO
+T77	PROCEDURE 6176 6189	pokročilé KPR

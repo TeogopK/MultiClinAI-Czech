@@ -1,0 +1,42 @@
+T62	SYMPTOM 241 255	asymptomatický
+T88	SYMPTOM 271 280	palpitací
+T98	SYMPTOM 291 298	závratí
+T8	SYMPTOM 300 317	uvolněním svěračů
+T9	SYMPTOM 323 345	tonicko-klonické křeče
+T85	SYMPTOM 347 364	kousání do jazyka
+T97	SYMPTOM 367 380	ztráty vědomí
+T95	SYMPTOM 532 538	vědomí
+T92	SYMPTOM 571 582	tachykardii
+T10	SYMPTOM 609 619	elevací ST
+T96	SYMPTOM 1037 1043	vědomí
+T87	SYMPTOM 1046 1057	orientovaný
+T79	SYMPTOM 1071 1080	eupnoický
+T35	SYMPTOM 1100 1123	akce srdeční pravidelná
+T99	SYMPTOM 1129 1136	šelestů
+T5	SYMPTOM 1155 1169	normoventilace
+T11	SYMPTOM 1177 1192	známky městnání
+T1	SYMPTOM 1216 1231	sinusový rytmus
+T12	SYMPTOM 1239 1275	elevace J bodu a anteroseptálního ST
+T91	SYMPTOM 1652 1673	proteinogram normální
+T13	SYMPTOM 2099 2136	Koronární tepny bez významných stenóz
+T14	SYMPTOM 2138 2163	Koronární průtok normální
+T15	SYMPTOM 2165 2188	Společný kmen: Bez lézí
+T16	SYMPTOM 2268 2297	ramus circumflexus bez stenoz
+T17	SYMPTOM 2299 2314	ACD: bez stenoz
+T2	SYMPTOM 2334 2368	správná globální systolická funkce
+T18	SYMPTOM 2370 2393	Žádné segmentální změny
+T19	SYMPTOM 2579 2629	Levá komora (LK) není dilatovaná ani hypertrofická
+T38	SYMPTOM 2631 2667	Globální systolická funkce zachována
+T20	SYMPTOM 2682 2706	bez segmentálních defekt
+T21	SYMPTOM 2709 2775	Levá síň velikosti na horní hranici normy, stejně jako kořen aorty
+T22	SYMPTOM 2923 2954	Dolní dutá žíla není dilatovaná
+T3	SYMPTOM 3007 3024	Normální mitrální
+T4	SYMPTOM 3042 3100	normální diastolický tok; tvar diastolické křivky normální
+T6	SYMPTOM 3102 3147	Plicní tepna s velmi mírným zvětšením průměru
+T23	SYMPTOM 3295 3316	LK normální velikosti
+T86	SYMPTOM 3320 3347	normální systolickou funkcí
+T7	SYMPTOM 3448 3498	Žádné ložiskové oblasti pozdního zesílení myokardu
+T48	SYMPTOM 3500 3526	Předsíně nejsou dilatované
+T63	SYMPTOM 3729 3743	asymptomatický
+T25	SYMPTOM 3828 3846	normální funkci LK
+T27	SYMPTOM 4343 4378	Koronární tepny bez významných lézí

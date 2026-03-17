@@ -1,0 +1,38 @@
+T130	SYMPTOM 605 618	ztráty vědomí
+T1	SYMPTOM 1015 1030	sinusový rytmus
+T14	SYMPTOM 1205 1227	hemodynamicky stabilní
+T4	SYMPTOM 1411 1434	pravidelné srdeční ozvy
+T5	SYMPTOM 1448 1465	systolický šelest
+T6	SYMPTOM 1494 1512	alveolární dýchání
+T116	SYMPTOM 1514 1530	chrupky v bázích
+T7	SYMPTOM 1532 1557	Břicho: měkké a prohmatné
+T84	SYMPTOM 1559 1583	bez bolesti při palpaci.
+T132	SYMPTOM 1590 1596	útvary
+T105	SYMPTOM 1601 1616	zvětšené orgány
+T111	SYMPTOM 1624 1629	otoky
+T16	SYMPTOM 1634 1663	známky hluboké žilní trombózy
+T83	SYMPTOM 1715 1737	žádná reakce na bolest
+T17	SYMPTOM 1739 1768	středně fotoreaktivní zornice
+T2	SYMPTOM 1858 1873	sinusový rytmus
+T8	SYMPTOM 1936 1944	Úzké QRS
+T18	SYMPTOM 1947 1960	normální osou
+T19	SYMPTOM 1962 1986	bez repolarizačních změn
+T3	SYMPTOM 2012 2027	sinusový rytmus
+T10	SYMPTOM 2041 2052	normální PR
+T9	SYMPTOM 2093 2101	úzké QRS
+T20	SYMPTOM 2102 2117	s normální osou
+T21	SYMPTOM 2131 2166	bez významných repolarizačních změn
+T11	SYMPTOM 2750 2788	PCR SARS VOC 2 při příjezdu: negativní
+T22	SYMPTOM 2824 2859	velikost komorového systému v normě
+T23	SYMPTOM 2861 2881	bez výrazné dilatace
+T24	SYMPTOM 3051 3085	Středočárové prvky jsou centrované
+T25	SYMPTOM 3096 3118	městnání v obou bázích
+T26	SYMPTOM 3263 3283	Distendovaný žaludek
+T12	SYMPTOM 3341 3359	cévní redistribuce
+T108	SYMPTOM 3698 3731	mírně sníženou systolickou funkcí
+T129	SYMPTOM 3821 3886	Pravá komora s normálními průměry a zachovanou systolickou funkcí
+T27	SYMPTOM 3956 3987	Dolní dutá žíla není dilatovaná
+T15	SYMPTOM 4336 4371	hemodynamicky a respiračně stabilní
+T13	SYMPTOM 4395 4417	neurologické postižení
+T28	SYMPTOM 4494 4517	alveolárních infiltrátů
+T94	SYMPTOM 4937 4962	hemodynamické nestabilitě

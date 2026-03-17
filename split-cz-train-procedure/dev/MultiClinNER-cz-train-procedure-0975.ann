@@ -1,0 +1,40 @@
+T29	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T86	PROCEDURE 663 682	echokardiografickým
+T47	PROCEDURE 692 706	Životní funkce
+T30	PROCEDURE 829 848	FYZIKÁLNÍ VYŠETŘENÍ
+T32	PROCEDURE 925 941	Auskultace srdce
+T63	PROCEDURE 1003 1020	Plicní auskultace
+T33	PROCEDURE 1190 1207	Elektrokardiogram
+T34	PROCEDURE 1209 1212	EKG
+T65	PROCEDURE 1398 1410	RTG hrudníku
+T125	PROCEDURE 1508 1537	transtorakální echokardiogram
+T35	PROCEDURE 2250 2258	CT aorty
+T4	PROCEDURE 2758 2775	Laboratorní testy
+T106	PROCEDURE 2784 2810	markerů poškození myokardu
+T48	PROCEDURE 2975 2984	biochemie
+T92	PROCEDURE 2986 3000	krevním obraze
+T102	PROCEDURE 3003 3013	koagulační
+T5	PROCEDURE 3050 3072	zperfuzujících nitrátů
+T88	PROCEDURE 3258 3273	echokardiogramu
+T6	PROCEDURE 3285 3318	markerům myokardiálního poškození
+T36	PROCEDURE 3443 3472	dvojitá protidestičková léčba
+T50	PROCEDURE 3474 3478	DAPT
+T37	PROCEDURE 3530 3551	protidestičková léčba
+T38	PROCEDURE 3634 3648	koronarografie
+T101	PROCEDURE 3723 3759	katetrizaci levého koronárního kmene
+T39	PROCEDURE 3949 3976	diagnostické koronarografie
+T124	PROCEDURE 4369 4402	transezofageální echokardiografií
+T98	PROCEDURE 4711 4738	chirurgické revaskularizace
+T7	PROCEDURE 4925 4945	antianginózními léky
+T49	PROCEDURE 4949 4975	markery poškození myokardu
+T8	PROCEDURE 5088 5122	koronární revaskularizační operaci
+T42	PROCEDURE 5529 5579	náhrada aortální chlopně (AVR) mechanickou chlopní
+T10	PROCEDURE 5555 5558	AVR
+T45	PROCEDURE 5598 5656	dvojitý koronární bypass (saféna do ADAp a saféna do ACDp)
+T111	PROCEDURE 5666 5717	kořene aorty byly odeslány na patologickou anatomii
+T87	PROCEDURE 5792 5838	transtorakálním echokardiografickým vyšetřením
+T11	PROCEDURE 5986 5993	operaci
+T112	PROCEDURE 6084 6104	patologické anatomie
+T76	PROCEDURE 6231 6254	Excizní biopsie chlopně
+T44	PROCEDURE 6466 6490	Náhrada aortální chlopně
+T46	PROCEDURE 6493 6517	dvojitý koronární bypass

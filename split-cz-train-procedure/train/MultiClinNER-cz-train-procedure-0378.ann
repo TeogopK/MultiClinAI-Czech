@@ -1,0 +1,16 @@
+T4	PROCEDURE 157 179	Radiologické vyšetření
+T5	PROCEDURE 271 290	chirurgické korekci
+T2	PROCEDURE 345 362	chirurgická léčba
+T6	PROCEDURE 375 405	odstranění "folikulární cysty"
+T7	PROCEDURE 408 430	kyretáží kostní dutiny
+T8	PROCEDURE 433 460	extrakcí zařazeného špičáku
+T9	PROCEDURE 473 495	výplní kostí "Bio-oss"
+T12	PROCEDURE 565 573	kyretáží
+T13	PROCEDURE 723 732	exodoncií
+T10	PROCEDURE 734 756	Histologické vyšetření
+T3	PROCEDURE 1516 1519	PAS
+T11	PROCEDURE 1545 1560	konžskou červeň
+T1	PROCEDURE 1829 1857	imunohistochemické vyšetření
+T14	PROCEDURE 2228 2253	Proliferační marker Ki-67
+T15	PROCEDURE 2382 2426	Detekce melaninových diferenciačních markerů
+T16	PROCEDURE 2479 2531	hormonálních receptorů estrogenu (ER) a progesteronu

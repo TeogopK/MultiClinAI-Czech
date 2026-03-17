@@ -1,0 +1,16 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 976 990	depleční léčby
+T26	PROCEDURE 1018 1037	Fyzikální vyšetření
+T27	PROCEDURE 1128 1144	Auskultace srdce
+T28	PROCEDURE 1276 1293	Plicní auskultace
+T29	PROCEDURE 1508 1516	hemogram
+T30	PROCEDURE 1736 1739	EKG
+T31	PROCEDURE 1900 1912	RTG hrudníku
+T32	PROCEDURE 1972 2001	Transtorakální echokardiogram
+T24	PROCEDURE 2564 2578	depleční léčbu
+T35	PROCEDURE 2624 2640	valvuloplastikou
+T37	PROCEDURE 2713 2759	náhradou mitrální chlopně biologickou protézou
+T33	PROCEDURE 2766 2793	trikuspidální anuloplastika
+T34	PROCEDURE 2833 2849	vazoaktivní léky
+T38	PROCEDURE 2852 2873	plicní vazodilatancia
+T39	PROCEDURE 3038 3065	echokardiografická kontrola

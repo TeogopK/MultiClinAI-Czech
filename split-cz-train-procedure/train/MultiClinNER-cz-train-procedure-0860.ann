@@ -1,0 +1,45 @@
+T34	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 313 343	echokardiografickým vyšetřením
+T8	PROCEDURE 603 617	implantaci ICD
+T54	PROCEDURE 643 646	CRT
+T35	PROCEDURE 877 896	Fyzikální vyšetření
+T55	PROCEDURE 1074 1109	Arteriální krevní plyny s Fi02 24 %
+T56	PROCEDURE 1197 1218	reaktantů akutní fáze
+T53	PROCEDURE 1293 1306	funkce ledvin
+T57	PROCEDURE 1355 1364	iontogram
+T42	PROCEDURE 1366 1392	Rentgenový snímek hrudníku
+T44	PROCEDURE 1503 1506	EKG
+T59	PROCEDURE 1570 1573	CRT
+T46	PROCEDURE 1744 1760	diuretická léčba
+T60	PROCEDURE 1763 1783	antibiotická terapie
+T43	PROCEDURE 1807 1833	Rentgenový snímek hrudníku
+T45	PROCEDURE 1943 1946	EKG
+T62	PROCEDURE 2003 2006	CRT
+T36	PROCEDURE 2008 2022	Echokardiogram
+T47	PROCEDURE 2508 2539	Transezofageální echokardiogram
+T49	PROCEDURE 2691 2705	Koronarografie
+T38	PROCEDURE 3010 3024	Echokardiogram
+T66	PROCEDURE 3043 3116	implantace dvou MitraClipů (x2) na úrovni segmentů A2 P2 mitrální chlopně
+T51	PROCEDURE 3185 3197	Fluoroskopie
+T67	PROCEDURE 3199 3224	implantace 2 ks MitraClip
+T69	PROCEDURE 3399 3432	neinvazivní mechanickou ventilaci
+T70	PROCEDURE 3435 3452	inotropní podporu
+T52	PROCEDURE 3454 3483	Transtorakální echokardiogram
+T48	PROCEDURE 3649 3680	transezofageální echokardiogram
+T50	PROCEDURE 3844 3858	Koronarografie
+T77	PROCEDURE 4110 4132	orotracheální intubaci
+T78	PROCEDURE 4134 4165	invazivní mechanickou ventilaci
+T79	PROCEDURE 4168 4211	implantaci aortální balónkové kontrapulzace
+T80	PROCEDURE 4244 4285	kardiochirurgickým a hemodynamickým týmem
+T81	PROCEDURE 4344 4365	implantaci MitraClipu
+T82	PROCEDURE 4405 4423	inotropní podporou
+T83	PROCEDURE 4437 4468	aortální balónkovou kontrapulzí
+T84	PROCEDURE 4470 4492	orotracheální intubací
+T85	PROCEDURE 4495 4516	mechanickou ventilací
+T86	PROCEDURE 4535 4568	transezofageální echokardiografií
+T87	PROCEDURE 4571 4581	skiagrafií
+T91	PROCEDURE 4871 4903	odstranit kontrapulzační balonek
+T92	PROCEDURE 4905 4915	ionotropní
+T93	PROCEDURE 4918 4936	ventilační podporu
+T41	PROCEDURE 5010 5024	Echokardiogram
+T94	PROCEDURE 5071 5137	implantaci MitraClip (x2) v úrovni segmentu A2 P2 mitrální chlopně

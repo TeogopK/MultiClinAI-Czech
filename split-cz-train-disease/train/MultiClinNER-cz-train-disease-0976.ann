@@ -1,0 +1,47 @@
+T11	DISEASE 87 101	lékové alergie
+T1	DISEASE 120 145	konzumaci toxických látek
+T2	DISEASE 168 184	ledvinové koliky
+T3	DISEASE 210 239	ektázií na úrovni pyelokalice
+T12	DISEASE 332 353	arteriální hypertenze
+T4	DISEASE 355 358	AHT
+T13	DISEASE 362 374	dyslipidémie
+T14	DISEASE 400 412	Bývalý kuřák
+T15	DISEASE 457 474	diabetes mellitus
+T5	DISEASE 476 504	Známá blokáda levého raménka
+T6	DISEASE 506 510	LBBB
+T16	DISEASE 513 540	Chronický koronární syndrom
+T7	DISEASE 570 573	AIM
+T9	DISEASE 720 746	nestabilní anginy pectoris
+T53	DISEASE 1054 1089	závažná stenóza 70 % v distálním TK
+T18	DISEASE 1188 1241	dilatační kardiomyopatie s těžkou komorovou dysfunkcí
+T56	DISEASE 1257 1313	středně těžkou mitrální insuficiencí v důsledku tentingu
+T57	DISEASE 1316 1340	mírnou plicní hypertenzí
+T19	DISEASE 1389 1441	těžce dilatovaná levá komora (LK) s těžkou dysfunkcí
+T20	DISEASE 1772 1793	mitrální insuficience
+T22	DISEASE 2018 2033	srdeční selhání
+T60	DISEASE 2122 2137	anginy pectoris
+T61	DISEASE 2583 2598	anginy pectoris
+T27	DISEASE 2714 2721	infekce
+T63	DISEASE 3179 3212	dekompenzovaným srdečním selháním
+T29	DISEASE 3967 4025	ischemická dilatační kardiomyopatie s těžce dilatovanou LK
+T30	DISEASE 4027 4036	Mírná LVH
+T21	DISEASE 4089 4141	Těžká mitrální insuficience (MI) v důsledku tentingu
+T67	DISEASE 4118 4120	MI
+T65	DISEASE 4179 4183	LBBB
+T33	DISEASE 4185 4225	Středně těžká trikuspidální insuficience
+T66	DISEASE 4227 4229	TI
+T68	DISEASE 4251 4283	středně těžkou plicní hypertenzí
+T69	DISEASE 4285 4287	PH
+T72	DISEASE 5302 5312	ferropenii
+T73	DISEASE 5329 5335	anémie
+T74	DISEASE 5382 5399	srdečním selháním
+T23	DISEASE 5796 5813	srdečního selhání
+T24	DISEASE 5942 5959	srdečního selhání
+T77	DISEASE 6018 6063	mírnou až středně těžkou mitrální regurgitací
+T78	DISEASE 6171 6190	mikrocytární anémií
+T25	DISEASE 6306 6323	srdečního selhání
+T79	DISEASE 6352 6358	anémií
+T32	DISEASE 6724 6764	Chronické dekompenzované srdeční selhání
+T34	DISEASE 6790 6825	Ischemická dilatační kardiomyopatie
+T17	DISEASE 6827 6896	Chronický koronární syndrom s triviálním postižením koronárních tepen
+T35	DISEASE 6955 7003	Mikrocytární anémie s profilem nedostatku železa

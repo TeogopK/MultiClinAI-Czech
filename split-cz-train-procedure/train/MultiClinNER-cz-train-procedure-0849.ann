@@ -1,0 +1,24 @@
+T1	PROCEDURE 66 113	revaskularizovanou ischemickou chorobou srdeční
+T2	PROCEDURE 315 345	hygienicko-dietními opatřeními
+T3	PROCEDURE 484 523	vysoce aktivní antiretrovirovou terapií
+T4	PROCEDURE 525 530	HAART
+T46	PROCEDURE 719 738	Chirurgické zákroky
+T116	PROCEDURE 1422 1439	katetrizaci srdce
+T44	PROCEDURE 1442 1461	FYZIKÁLNÍ VYŠETŘENÍ
+T36	PROCEDURE 1785 1801	Auskultace srdce
+T37	PROCEDURE 1826 1841	Auskultace plic
+T38	PROCEDURE 2057 2074	ELEKTROKARDIOGRAM
+T39	PROCEDURE 2076 2079	EKG
+T45	PROCEDURE 2237 2249	krevní obraz
+T7	PROCEDURE 2688 2700	RTG HRUDNÍKU
+T9	PROCEDURE 2778 2796	KARDIOKATETERIZACE
+T41	PROCEDURE 2999 3063	primární perkutánní koronární intervence (PCI) s aspirací trombu
+T10	PROCEDURE 3041 3044	PCI
+T11	PROCEDURE 3066 3083	implantací stentu
+T42	PROCEDURE 3165 3179	Echokardiogram
+T81	PROCEDURE 3687 3709	primární angioplastice
+T40	PROCEDURE 4065 4068	EKG
+T12	PROCEDURE 4566 4583	laboratorní testy
+T13	PROCEDURE 4636 4661	jaterními funkčními testy
+T14	PROCEDURE 4805 4816	krevní test
+T43	PROCEDURE 4940 4996	Primární angioplastika na proximální pravé věnčité tepně

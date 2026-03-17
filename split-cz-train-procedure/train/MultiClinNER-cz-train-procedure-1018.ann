@@ -1,0 +1,35 @@
+T29	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 225 258	léčbu vysokými dávkami kortikoidů
+T30	PROCEDURE 1128 1147	Fyzikální vyšetření
+T31	PROCEDURE 1371 1387	Auskultace srdce
+T32	PROCEDURE 1452 1467	Auskultace plic
+T33	PROCEDURE 2520 2537	elektrokardiogram
+T34	PROCEDURE 2539 2542	EKG
+T7	PROCEDURE 2747 2772	RTG hrudníku, přenosný AP
+T35	PROCEDURE 2934 2954	Sérologie SARS-CoV-2
+T37	PROCEDURE 3086 3116	Analýza perikardiální tekutiny
+T38	PROCEDURE 3270 3284	echokardiogram
+T39	PROCEDURE 3857 3871	Echokardiogram
+T40	PROCEDURE 4919 4933	echokardiogram
+T42	PROCEDURE 5214 5234	Torakoabdominální CT
+T19	PROCEDURE 5649 5682	Magnetická rezonance (MRI) ramene
+T46	PROCEDURE 5671 5674	MRI
+T20	PROCEDURE 5715 5750	Magnetická rezonance bederní páteře
+T22	PROCEDURE 6776 6792	krevní kultivace
+T23	PROCEDURE 6794 6822	Echokardiografické vyšetření
+T36	PROCEDURE 6956 6970	Krevní kultury
+T26	PROCEDURE 7038 7073	subxifoidální perikardiální drenáži
+T25	PROCEDURE 7090 7110	antibiotická terapie
+T44	PROCEDURE 7139 7171	Kultivace perikardiální tekutiny
+T27	PROCEDURE 7271 7277	drenáž
+T45	PROCEDURE 7340 7375	transezofageální echokardiografické
+T28	PROCEDURE 7387 7390	TEE
+T57	PROCEDURE 7467 7470	TEE
+T43	PROCEDURE 7749 7769	torakoabdominální CT
+T67	PROCEDURE 7772 7822	magnetickou rezonanci obou ramen a bederní oblasti
+T90	PROCEDURE 8124 8138	antibioterapii
+T91	PROCEDURE 8139 8170	abscesy v psoas svalu drénovány
+T93	PROCEDURE 8175 8184	kultivaci
+T41	PROCEDURE 8228 8242	echokardiogram
+T95	PROCEDURE 8485 8499	kultivace krve
+T96	PROCEDURE 8542 8576	intravenózního podávání antibiotik

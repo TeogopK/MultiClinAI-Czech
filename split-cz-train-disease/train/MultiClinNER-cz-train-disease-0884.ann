@@ -1,0 +1,48 @@
+T2	DISEASE 68 82	lékové alergie
+T3	DISEASE 119 144	diabetes mellitus 2. typu
+T33	DISEASE 146 156	hypertenze
+T4	DISEASE 158 170	dyslipidémie
+T5	DISEASE 178 192	toxické návyky
+T6	DISEASE 218 244	ischemická choroba srdeční
+T34	DISEASE 282 411	závažného onemocnění kmene a tří cév, proximální přední descendentní, proximálně-mediální cirkumflexní a zadní interventrikulární
+T1	DISEASE 501 556	levá komora se středně těžkou koncentrickou hypertrofií
+T29	DISEASE 625 637	valvulopatie
+T8	DISEASE 672 699	Paroxysmální fibrilace síní
+T9	DISEASE 818 868	vertebrobazilární ischemická cévní mozková příhoda
+T10	DISEASE 896 923	Chronické onemocnění ledvin
+T18	DISEASE 925 928	CKD
+T12	DISEASE 960 978	nefroangioskleróza
+T30	DISEASE 980 1004	Polypóza tlustého střeva
+T13	DISEASE 1043 1056	Hyperurikémie
+T38	DISEASE 1059 1071	dnavou krizí
+T40	DISEASE 1147 1156	katarakta
+T41	DISEASE 1914 1940	námahovou anginou pectoris
+T14	DISEASE 3928 3970	těžká koncentrická hypertrofie levé komory
+T15	DISEASE 4144 4174	Triviální mitrální regurgitace
+T16	DISEASE 4176 4203	Mírná aortální insuficience
+T31	DISEASE 4205 4229	Mírná dilatace levé síně
+T17	DISEASE 4284 4310	trikuspidální insuficience
+T43	DISEASE 4312 4314	TI
+T45	DISEASE 4440 4454	fibrilaci síní
+T46	DISEASE 4456 4460	FiSi
+T32	DISEASE 4809 4828	mírný edém myokardu
+T47	DISEASE 5089 5114	Levá síň mírně dilatovaná
+T49	DISEASE 5374 5426	subendokardiální nekróze na úrovni předního segmentu
+T50	DISEASE 5429 5458	difuzní epikardiální fibrózou
+T51	DISEASE 5596 5629	difuzní intramyokardiální fibróze
+T52	DISEASE 5633 5657	subendokardiálním RV LGE
+T19	DISEASE 5982 5999	srdečního selhání
+T20	DISEASE 6319 6336	srdečního selhání
+T23	DISEASE 6390 6416	anémie z nedostatku železa
+T82	DISEASE 6513 6545	závažnou hypertrofii levé komory
+T83	DISEASE 6594 6622	infiltrativní kardiomyopatií
+T84	DISEASE 6710 6720	amyloidózu
+T85	DISEASE 6850 6863	AL amyloidózy
+T22	DISEASE 6881 6906	amyloidózu způsobenou TTR
+T21	DISEASE 7074 7091	srdečního selhání
+T24	DISEASE 7267 7292	amyloidózy v důsledku TTR
+T25	DISEASE 7441 7471	Dekompenzované srdeční selhání
+T26	DISEASE 7473 7507	Srdeční amyloidóza způsobená wtTTR
+T11	DISEASE 7526 7566	Exacerbované chronické onemocnění ledvin
+T27	DISEASE 7568 7608	Normocytární anémie s nedostatkem železa
+T28	DISEASE 7610 7646	Chronická ischemická choroba srdeční

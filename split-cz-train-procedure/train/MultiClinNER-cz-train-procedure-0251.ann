@@ -1,0 +1,18 @@
+T3	PROCEDURE 98 107	vyšetření
+T7	PROCEDURE 247 260	hysterektomii
+T2	PROCEDURE 432 452	urologické vyšetření
+T4	PROCEDURE 471 504	cystoskopii s mnohočetnou biopsií
+T11	PROCEDURE 507 536	anatomopatologickým výsledkem
+T1	PROCEDURE 614 623	cytologie
+T5	PROCEDURE 626 669	kontrolních cystoskopií se studenou biopsií
+T6	PROCEDURE 653 669	studenou biopsií
+T15	PROCEDURE 754 776	ultrazvukové vyšetření
+T16	PROCEDURE 872 884	CT vyšetření
+T8	PROCEDURE 886 904	CT vyšetření pánve
+T19	PROCEDURE 1462 1469	operace
+T9	PROCEDURE 1484 1509	střední laparotomický řez
+T12	PROCEDURE 1512 1585	resekcí prevezikálního nádorového procesu spojený s parciální cystektomií
+T10	PROCEDURE 1564 1585	parciální cystektomií
+T21	PROCEDURE 1587 1610	Makroskopické vyšetření
+T22	PROCEDURE 1782 1805	Mikroskopické vyšetření
+T23	PROCEDURE 2108 2118	resekčních

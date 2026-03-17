@@ -1,0 +1,79 @@
+T23	SYMPTOM 424 431	dušnost
+T24	SYMPTOM 572 602	progresivní námahovou dušností
+T25	SYMPTOM 839 861	otoky dolních končetin
+T3	SYMPTOM 864 885	zvětšený obvod břicha
+T26	SYMPTOM 888 903	pocitem plnosti
+T4	SYMPTOM 905 914	nevolnost
+T5	SYMPTOM 917 925	zvracení
+T6	SYMPTOM 962 970	ortopnoe
+T2	SYMPTOM 1001 1009	oligurii
+T1	SYMPTOM 1017 1026	bendopnoe
+T27	SYMPTOM 1034 1060	anginózní bolesti na hrudi
+T7	SYMPTOM 1062 1090	Občasné palpitace při námaze
+T8	SYMPTOM 1211 1220	Afebrilní
+T31	SYMPTOM 1222 1248	Auskultace srdce: rytmický
+T29	SYMPTOM 1250 1263	tachykardický
+T30	SYMPTOM 1265 1322	hrubý systolický šelest v levém parasternálním ohraničení
+T10	SYMPTOM 1366 1384	alveolární dýchání
+T20	SYMPTOM 1396 1417	praskoty v pravé base
+T28	SYMPTOM 1419 1450	Otoky s foveou v obou malíčcích
+T34	SYMPTOM 1452 1472	Břicho: distendované
+T35	SYMPTOM 1485 1508	peritoneálního dráždění
+T21	SYMPTOM 1600 1620	sinusová tachykardie
+T11	SYMPTOM 1639 1650	Normální PR
+T13	SYMPTOM 1652 1660	Úzké QRS
+T32	SYMPTOM 1662 1674	normální osa
+T9	SYMPTOM 1682 1708	akutní repolarizační změny
+T15	SYMPTOM 1730 1732	SR
+T12	SYMPTOM 1750 1761	Normální PR
+T14	SYMPTOM 1763 1771	Úzké QRS
+T36	SYMPTOM 1781 1816	T negativní ve II, III, aVF, V4- V6
+T16	SYMPTOM 2837 2859	rozšířený srdeční stín
+T33	SYMPTOM 2915 2959	Cévní redistribuce v horních plicních polích
+T37	SYMPTOM 3019 3060	Plicní parenchym s nespecifickými změnami
+T42	SYMPTOM 3385 3414	mírná excentrická hypertrofie
+T38	SYMPTOM 3458 3491	Pseudonormální diastolická funkce
+T47	SYMPTOM 3553 3597	parametry systolické funkce na hranici normy
+T52	SYMPTOM 3740 3835	Mitrální chlopeň s lístky nezřetelně ztluštělými nebo kalcifikovanými, se zachovaným otevíráním
+T51	SYMPTOM 3961 4009	Morfologicky a funkčně normální aortální chlopeň
+T53	SYMPTOM 4149 4171	perikardiální tekutiny
+T39	SYMPTOM 4291 4342	LK je normální velikosti s vysokým srdečním výdejem
+T54	SYMPTOM 4647 4687	difuzní subendokardiální perfuzní defekt
+T55	SYMPTOM 4691 4726	subendokardiálním pozdním zesílením
+T56	SYMPTOM 4737 4799	Pravá komora je normální velikosti se středně těžkou dysfunkcí
+T57	SYMPTOM 4814 4833	globální hypokinezí
+T58	SYMPTOM 4838 4883	patrná rektifikace interventrikulárního septa
+T59	SYMPTOM 4897 4917	tlakové přetížení RV
+T60	SYMPTOM 5108 5130	Intaktní síňové septum
+T40	SYMPTOM 6017 6112	LK není dilatovaná ani hypertrofická s funkcí na dolní hranici normy a vysokým srdečním výdejem
+T61	SYMPTOM 6114 6162	Subendokardiální enhancement ve všech segmentech
+T17	SYMPTOM 6949 6971	jaterní žilní kongesce
+T41	SYMPTOM 6988 7024	krevní hemokultury (2/1): E. cloacae
+T18	SYMPTOM 7026 7065	Kultivace moči (4/1): kontaminovaná moč
+T62	SYMPTOM 7067 7098	Krevní kultury (18/1): sterilní
+T19	SYMPTOM 7100 7131	Kultivace moči (19/1) negativní
+T22	SYMPTOM 7144 7165	Syfilis IgG negativní
+T63	SYMPTOM 7167 7191	toxoplasma IgG negativní
+T64	SYMPTOM 7193 7215	zarděnky IgG pozitivní
+T65	SYMPTOM 7217 7249	HSV IgG negativní, IgM negativní
+T66	SYMPTOM 7251 7273	varicella IgG pochybná
+T67	SYMPTOM 7275 7304	cytomegalovirus IgG pozitivní
+T68	SYMPTOM 7306 7319	IgM negativní
+T69	SYMPTOM 7321 7353	HAV IgM negativní, IgG pozitivní
+T70	SYMPTOM 7355 7371	HBs Ag negativní
+T71	SYMPTOM 7373 7394	anti-HBs Ag negativní
+T72	SYMPTOM 7396 7423	anti-HBs hraničně pozitivní
+T73	SYMPTOM 7425 7442	HAV IgG pozitivní
+T74	SYMPTOM 7444 7461	HIV 1/2 negativní
+T75	SYMPTOM 7463 7486	spalničky IgG pozitivní
+T76	SYMPTOM 7488 7511	příušnice IgG pozitivní
+T77	SYMPTOM 7750 7778	mírnou dysfunkcí levé komory
+T43	SYMPTOM 7940 7949	hypotenzi
+T78	SYMPTOM 7978 8009	známky nízkého srdečního výdeje
+T44	SYMPTOM 8023 8049	zhoršením renálních funkcí
+T45	SYMPTOM 8052 8076	elevací jaterních enzymů
+T46	SYMPTOM 8079 8096	porucha koagulace
+T48	SYMPTOM 8185 8200	febrilní špička
+T49	SYMPTOM 8203 8212	třesavkou
+T50	SYMPTOM 8215 8237	zhoršením hemodynamiky
+T79	SYMPTOM 8938 8961	nízkým srdečním výdejem

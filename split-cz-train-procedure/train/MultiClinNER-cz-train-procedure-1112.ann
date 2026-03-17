@@ -1,0 +1,42 @@
+T49	PROCEDURE 773 792	FYZIKÁLNÍ VYŠETŘENÍ
+T31	PROCEDURE 898 920	Neurologické vyšetření
+T32	PROCEDURE 1178 1194	Auskultace srdce
+T33	PROCEDURE 1236 1251	Auskultace plic
+T2	PROCEDURE 1447 1468	Laboratorní vyšetření
+T3	PROCEDURE 2039 2050	krevní test
+T34	PROCEDURE 2626 2629	EKG
+T36	PROCEDURE 2827 2853	Rentgenový snímek hrudníku
+T37	PROCEDURE 2954 2985	Transtorakální echokardiografie
+T39	PROCEDURE 3349 3357	CT mozku
+T116	PROCEDURE 3428 3448	magnetické rezonanci
+T6	PROCEDURE 3450 3453	MRI
+T66	PROCEDURE 3541 3567	Magnetická rezonance srdce
+T57	PROCEDURE 3569 3572	CMR
+T52	PROCEDURE 3959 3978	kyselina gadoterová
+T7	PROCEDURE 4061 4104	Morfologické (bez kontrastu a s kontrastem)
+T9	PROCEDURE 4134 4287	Elektrofyziologická studie: V lokální anestezii a pod fluoroskopickou kontrolou jsou zavedeny tři kvadripolární elektrokatétry přes pravou femorální žílu
+T8	PROCEDURE 4164 4181	lokální anestezii
+T10	PROCEDURE 4578 4652	Programovaná stimulace síní (zvyšující se frekvence a extrastimulační test
+T40	PROCEDURE 4632 4652	extrastimulační test
+T11	PROCEDURE 4712 4747	Masáž pravé a levé karotické dutiny
+T12	PROCEDURE 4835 4855	Perfuze prokainamidu
+T13	PROCEDURE 4928 4947	Implantovaný Holter
+T41	PROCEDURE 5070 5084	Koronarografie
+T43	PROCEDURE 5140 5157	Flekainidový test
+T50	PROCEDURE 5314 5345	Genetické testování náhlé smrti
+T53	PROCEDURE 5593 5613	vyšetření etoiologie
+T55	PROCEDURE 5630 5657	zobrazovací vyšetření srdce
+T38	PROCEDURE 5665 5696	transtorakální echokardiografie
+T58	PROCEDURE 5699 5702	CMR
+T45	PROCEDURE 5853 5871	CT vyšetření lebky
+T100	PROCEDURE 6012 6035	etiologického vyšetření
+T98	PROCEDURE 6038 6067	elektrofyziologické vyšetření
+T59	PROCEDURE 6206 6297	implantaci podkožního Holterova přístroje (Reveal®) pro kontinuální ambulantní monitorování
+T48	PROCEDURE 6310 6324	monitorovacích
+T60	PROCEDURE 6379 6410	dotazování na subkutánní Holter
+T35	PROCEDURE 6740 6743	EKG
+T44	PROCEDURE 6757 6774	flekainidový test
+T42	PROCEDURE 6968 6982	koronarografie
+T63	PROCEDURE 7037 7116	genetické vyšetření pro studium náhlé smrti bez strukturálního onemocnění srdce
+T106	PROCEDURE 7384 7438	implantaci implantabilního kardioverteru-defibrilátoru
+T51	PROCEDURE 7878 7892	Implantace ICD

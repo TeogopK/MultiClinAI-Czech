@@ -1,0 +1,63 @@
+T15	DISEASE 117 131	lékové alergie
+T16	DISEASE 140 154	toxické návyky
+T110	DISEASE 182 203	arteriální hypertenzi
+T130	DISEASE 206 218	dyslipidémii
+T40	DISEASE 219 244	Diabetes mellitus 2. typu
+T19	DISEASE 282 293	Hypotyreóza
+T2	DISEASE 327 417	Ischemická cévní mozková příhoda (2015) v teritoriu levého MCA, aterotrombotické etiologie
+T3	DISEASE 477 496	benigní nádor mozku
+T21	DISEASE 504 513	meningeom
+T22	DISEASE 516 546	Atrofie levého zrakového nervu
+T23	DISEASE 613 649	chronická ischemická choroba srdeční
+T4	DISEASE 661 718	anginou pectoris v roce 2003, s TC a 3 cévním onemocněním
+T105	DISEASE 910 925	anginy pectoris
+T148	DISEASE 1152 1178	nestabilní anginy pectoris
+T6	DISEASE 1350 1381	těžká léze v distálním TC a DAp
+T7	DISEASE 1383 1422	chronická nedokrevnost v proximálním CF
+T8	DISEASE 1424 1467	chronická kompletní okluze v proximálním CD
+T42	DISEASE 1469 1491	okludovaný štěp AMI-DA
+T106	DISEASE 2278 2293	anginy pectoris
+T142	DISEASE 2308 2328	koronární onemocnění
+T67	DISEASE 2634 2638	FiSi
+T79	DISEASE 2702 2706	LBBB
+T28	DISEASE 3774 3776	FS
+T80	DISEASE 3796 3800	LBBB
+T81	DISEASE 3841 3845	LBBB
+T31	DISEASE 3853 3872	síňové extrasystoly
+T82	DISEASE 3914 3918	LBBB
+T12	DISEASE 4025 4075	závažná léze na úrovni distálního společného kmene
+T13	DISEASE 4121 4141	LAD s významnou lézí
+T14	DISEASE 4192 4255	Významná léze na úrovni střední distální třetiny bisekční větve
+T25	DISEASE 4287 4306	CX se závažnou lézí
+T26	DISEASE 4337 4379	Kritická léze na úrovni bifurkace CX-1. OM
+T32	DISEASE 4411 4444	Dominantní DC s chronickou okluzí
+T45	DISEASE 4721 4744	mírná hypertrofie septa
+T46	DISEASE 5018 5042	Levá síň mírně rozšířená
+T47	DISEASE 5068 5122	Trojcípá aortální chlopeň, se ztluštěním a kalcifikací
+T48	DISEASE 5219 5312	Mitrální chlopeň s mírně ztluštělými lístky, zachované otevírání, mírná centrální regurgitace
+T43	DISEASE 5339 5382	Trikuspidální chlopeň s mírnou insuficiencí
+T33	DISEASE 5488 5509	perikardiální výpotek
+T44	DISEASE 5834 5846	valvulopatie
+T34	DISEASE 5851 5872	perikardiální výpotek
+T68	DISEASE 5892 5896	FiSi
+T86	DISEASE 6023 6029	NSTEMI
+T69	DISEASE 6032 6049	paroxyzmální FiSi
+T83	DISEASE 6196 6200	LBBB
+T35	DISEASE 6203 6234	supraventrikulární extrasystoly
+T50	DISEASE 6395 6417	lézi/okluzi VS bypassu
+T36	DISEASE 6643 6682	Hematom v souvislosti s radiální punkcí
+T74	DISEASE 6822 6829	infarkt
+T151	DISEASE 6856 6883	paroxyzmální fibrilace síní
+T78	DISEASE 7418 7428	meningeomu
+T84	DISEASE 7431 7450	hematomu pravé paže
+T107	DISEASE 7769 7784	anginy pectoris
+T37	DISEASE 7885 7912	Paroxysmální fibrilace síní
+T85	DISEASE 7913 7944	Infarkt myokardu bez elevace ST
+T24	DISEASE 7953 7989	Chronická ischemická choroba srdeční
+T38	DISEASE 7991 8024	Koronární onemocnění LMCA a 3 cév
+T27	DISEASE 8092 8118	Ischemická choroba srdeční
+T134	DISEASE 8156 8188	ischemické cévní mozkové příhody
+T17	DISEASE 8190 8211	Arteriální hypertenze
+T18	DISEASE 8213 8225	Dyslipidemie
+T41	DISEASE 8227 8252	Diabetes mellitus 2. typu
+T20	DISEASE 8253 8264	Hypotyreóza

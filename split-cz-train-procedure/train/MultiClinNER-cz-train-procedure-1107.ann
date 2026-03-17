@@ -1,0 +1,34 @@
+T47	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 332 353	genetickým vyšetřením
+T48	PROCEDURE 1102 1121	Fyzikální vyšetření
+T4	PROCEDURE 1354 1373	auskultaci krkavice
+T49	PROCEDURE 1389 1405	Auskultace srdce
+T50	PROCEDURE 1459 1474	Auskultace plic
+T51	PROCEDURE 1548 1564	Vyšetření břicha
+T52	PROCEDURE 1656 1668	Krevní obraz
+T65	PROCEDURE 1827 1836	Biochemie
+T5	PROCEDURE 2311 2331	Toxické látky v moči
+T54	PROCEDURE 2404 2421	Elektrokardiogram
+T55	PROCEDURE 2602 2616	Koronarografie
+T57	PROCEDURE 2798 2811	Angioplastika
+T6	PROCEDURE 3017 3062	implantace lékem protékajícího stentu Synergy
+T7	PROCEDURE 3154 3184	postdilatace pomocí NC balonku
+T59	PROCEDURE 3349 3381	tromboaspirace přístrojem Pronto
+T9	PROCEDURE 3430 3443	angiografický
+T10	PROCEDURE 3456 3470	tromboaspiraci
+T60	PROCEDURE 3496 3510	Echokardiogram
+T66	PROCEDURE 3745 3779	Sériové markery poškození myokardu
+T53	PROCEDURE 3951 3970	Genetické vyšetření
+T61	PROCEDURE 4064 4078	Chromatografie
+T63	PROCEDURE 4081 4094	elektroforéza
+T62	PROCEDURE 4132 4146	chromatografie
+T68	PROCEDURE 4232 4243	Toxikologie
+T67	PROCEDURE 4278 4287	Sérologie
+T56	PROCEDURE 4967 4981	koronarografie
+T64	PROCEDURE 5095 5137	angioplastika s implantací lékového stentu
+T58	PROCEDURE 5160 5199	aspirací zbytků trombotického materiálu
+T12	PROCEDURE 5680 5698	lipidového profilu
+T13	PROCEDURE 5826 5839	toxiny v moči
+T14	PROCEDURE 5880 5902	vyšetření koagulopatií
+T15	PROCEDURE 6108 6126	lipidového profilu
+T70	PROCEDURE 6589 6657	Perkutánní totální revaskularizace pomocí stentu uvolňujícího léčivo

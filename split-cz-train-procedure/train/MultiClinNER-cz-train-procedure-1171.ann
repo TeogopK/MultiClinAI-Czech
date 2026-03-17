@@ -1,0 +1,49 @@
+T46	PROCEDURE 0 8	ANAMNÉZA
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T76	PROCEDURE 53 68	Osobní anamnéza
+T1	PROCEDURE 188 215	minimálně invazivní operací
+T2	PROCEDURE 217 274	modifikovaná pravostranná minitorakotomie typu Heart Port
+T29	PROCEDURE 563 582	Fyzikální vyšetření
+T30	PROCEDURE 924 940	Auskultace srdce
+T31	PROCEDURE 967 982	Auskultace plic
+T32	PROCEDURE 1109 1126	Elektrokardiogram
+T33	PROCEDURE 1128 1131	EKG
+T51	PROCEDURE 1224 1236	Krevní obraz
+T96	PROCEDURE 1408 1416	glykémie
+T3	PROCEDURE 1504 1527	Plyny v arteriální krvi
+T68	PROCEDURE 1606 1618	RTG hrudníku
+T73	PROCEDURE 1766 1814	Transtorakální a transezofageální echokardiogram
+T34	PROCEDURE 1816 1842	transezofageální vyšetření
+T35	PROCEDURE 1848 1854	sedace
+T7	PROCEDURE 2418 2437	Injekce gelafundinu
+T36	PROCEDURE 2517 2525	Angio-CT
+T41	PROCEDURE 2919 2951	Ventilační/perfuzní scintigrafie
+T114	PROCEDURE 2953 2977	scintigrafické vyšetření
+T37	PROCEDURE 3014 3025	Spirometrie
+T63	PROCEDURE 3073 3099	Magnetická rezonance srdce
+T8	PROCEDURE 3188 3199	hypertrofie
+T9	PROCEDURE 3572 3587	3D cévní studii
+T86	PROCEDURE 3724 3730	drenáž
+T92	PROCEDURE 3733 3740	drenáží
+T87	PROCEDURE 3785 3791	drenáž
+T75	PROCEDURE 3806 3815	Vyšetření
+T12	PROCEDURE 3845 3857	LGE myokardu
+T88	PROCEDURE 3914 3920	drenáž
+T93	PROCEDURE 3923 3930	drenáží
+T38	PROCEDURE 4134 4165	transtorakální echokardiografie
+T72	PROCEDURE 4167 4170	TTE
+T39	PROCEDURE 4174 4207	transezofageální echokardiografie
+T71	PROCEDURE 4209 4212	TEE
+T115	PROCEDURE 4254 4263	vyšetření
+T40	PROCEDURE 4340 4393	Kontrastní látka byla podána přes obě horní končetiny
+T54	PROCEDURE 4491 4493	CT
+T116	PROCEDURE 4501 4530	ventilačně-perfuzní vyšetření
+T104	PROCEDURE 4636 4663	magnetickou rezonancí srdce
+T52	PROCEDURE 4665 4668	CMR
+T89	PROCEDURE 4702 4708	drenáž
+T15	PROCEDURE 4785 4803	anatomická korekce
+T45	PROCEDURE 4832 4839	operace
+T90	PROCEDURE 4997 5003	drenáž
+T77	PROCEDURE 5139 5166	arteriálních krevních plynů
+T44	PROCEDURE 5169 5185	echokardiografie
+T17	PROCEDURE 5245 5265	chirurgické reparaci

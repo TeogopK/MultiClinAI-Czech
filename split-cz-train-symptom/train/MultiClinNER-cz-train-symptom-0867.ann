@@ -1,0 +1,43 @@
+T1	SYMPTOM 116 132	bolesti na hrudi
+T3	SYMPTOM 134 141	dušnost
+T22	SYMPTOM 232 246	srdečních změn
+T5	SYMPTOM 612 623	hypoestezie
+T2	SYMPTOM 904 919	bolest na hrudi
+T4	SYMPTOM 921 928	dušnost
+T6	SYMPTOM 1124 1142	Dobrý celkový stav
+T7	SYMPTOM 1144 1161	dobře hydratovaný
+T23	SYMPTOM 1164 1176	perfundovaný
+T8	SYMPTOM 1244 1253	Afebrilní
+T9	SYMPTOM 1255 1272	Eupnoický v klidu
+T24	SYMPTOM 1274 1303	Jugulární žilní tlak normální
+T25	SYMPTOM 1305 1331	Auskultace srdce: rytmická
+T10	SYMPTOM 1353 1360	šelestů
+T11	SYMPTOM 1379 1407	zachovalý vezikulární šelest
+T12	SYMPTOM 1409 1425	Břicho beze změn
+T13	SYMPTOM 1427 1453	Dolní končetiny: bez otoků
+T26	SYMPTOM 1455 1470	pulzy zachovány
+T14	SYMPTOM 1508 1523	sinusový rytmus
+T15	SYMPTOM 1553 1561	Úzké QRS
+T27	SYMPTOM 1682 1712	normální kardiotorakální index
+T28	SYMPTOM 2137 2175	Kyselina listová a vitamin B12 v normě
+T29	SYMPTOM 2177 2199	Autoimunita: negativní
+T30	SYMPTOM 2201 2220	Komplement normální
+T31	SYMPTOM 2222 2251	Hormony štítné žlázy normální
+T32	SYMPTOM 2266 2308	Faktor Leiden a faktor II 20,210 negativní
+T33	SYMPTOM 2310 2330	Homocystein normální
+T34	SYMPTOM 2332 2353	Proteinogram normální
+T19	SYMPTOM 2355 2432	Sérologie: HIV, Herpes simplex, EBV, CMV, Brucella, Lues a Borrelia negativní
+T35	SYMPTOM 2486 2505	těžkou depresí LVEF
+T36	SYMPTOM 2519 2558	rozsáhlou apikální akinezí a remodelací
+T37	SYMPTOM 2560 2630	rozsáhlou přední akinezí, nižší středoapikální a středoapikální septum
+T38	SYMPTOM 3400 3462	LK normální velikosti s akinézou střední apikální přední části
+T39	SYMPTOM 3538 3612	Těžká hypokineze mediálního septa, mediální laterální, mediální inferiorní
+T20	SYMPTOM 4016 4052	Pravá komora (PK) normální velikosti
+T40	SYMPTOM 4054 4077	Normální pravá síň (PK)
+T16	SYMPTOM 4355 4379	Normální komorový systém
+T17	SYMPTOM 4396 4443	Echo doppler supraaortálních kmenů: žádné změny
+T21	SYMPTOM 4482 4505	dilatovaná LK s akinezí
+T18	SYMPTOM 4699 4752	Normální velikost RV se zachovanou systolickou funkcí
+T41	SYMPTOM 4906 4923	Normální perikard
+T42	SYMPTOM 5314 5333	těžkou depresí LVEF
+T45	SYMPTOM 6419 6442	sníženou ejekční frakcí

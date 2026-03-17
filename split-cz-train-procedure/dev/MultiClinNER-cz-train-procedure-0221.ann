@@ -1,0 +1,25 @@
+T8	PROCEDURE 24 49	jednostranné adnexektomie
+T5	PROCEDURE 177 212	nesteroidních protizánětlivých léků
+T6	PROCEDURE 214 219	NSAID
+T7	PROCEDURE 404 423	antipyretická léčba
+T2	PROCEDURE 426 443	domácí pozorování
+T3	PROCEDURE 656 675	Fyzikální vyšetření
+T9	PROCEDURE 791 824	palpovat periferní radiální pulzy
+T10	PROCEDURE 893 910	Laboratorní testy
+T11	PROCEDURE 913 935	analýza krevních plynů
+T13	PROCEDURE 1119 1140	léčbu kortikosteroidy
+T12	PROCEDURE 1143 1177	intravenózní antibiotickou terapii
+T14	PROCEDURE 1215 1258	kardiopulmonálních resuscitačních manévrech
+T23	PROCEDURE 1345 1352	Pitevní
+T24	PROCEDURE 1384 1400	zevním vyšetření
+T15	PROCEDURE 1563 1607	vnitřním vyšetření byl pacient makroskopicky
+T16	PROCEDURE 2105 2417	Vzorky mozku, plic, jater, sleziny, nadledvin, srdce, periferní krve, sklivce, perikardiální tekutiny, střevního obsahu, bronchiálního výtěru, pleurálního výpotku a tamponu napuštěného podkožním exsudátem z pravého prsního svalu byly předloženy k toxikologickému, mikrobiologickému a histopatologickému vyšetření
+T17	PROCEDURE 2428 2453	mikrobiologické vyšetření
+T18	PROCEDURE 2471 2490	antigenních technik
+T19	PROCEDURE 2492 2501	kultivace
+T20	PROCEDURE 2504 2532	polymerázové řetězové reakce
+T4	PROCEDURE 2534 2537	PCR
+T25	PROCEDURE 2685 2721	epidemiologická charakterizace kmene
+T1	PROCEDURE 2724 2798	vyšetření rezistence k antibiotikům pomocí minimální inhibiční koncentrace
+T21	PROCEDURE 2806 2822	Histopatologické
+T22	PROCEDURE 3161 3184	Toxikologické vyšetření

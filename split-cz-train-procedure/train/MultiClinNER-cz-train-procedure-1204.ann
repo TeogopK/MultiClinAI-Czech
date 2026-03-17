@@ -1,0 +1,20 @@
+T26	PROCEDURE 693 712	Fyzikální vyšetření
+T27	PROCEDURE 784 800	Auskultace srdce
+T28	PROCEDURE 878 895	Plicní auskultace
+T29	PROCEDURE 1095 1098	EKG
+T31	PROCEDURE 1309 1326	24hodinový Holter
+T32	PROCEDURE 1739 1751	RTG hrudníku
+T33	PROCEDURE 1858 1889	Transtorakální echokardiografie
+T36	PROCEDURE 2188 2197	MRI srdce
+T34	PROCEDURE 2603 2620	sérologické testy
+T39	PROCEDURE 2702 2707	ELISA
+T35	PROCEDURE 2712 2729	imunofluorescence
+T10	PROCEDURE 2819 2841	baryový tranzit jícnem
+T11	PROCEDURE 2844 2871	rentgenové vyšetření břicha
+T15	PROCEDURE 2937 2960	sérologického vyšetření
+T30	PROCEDURE 2962 2965	EKG
+T13	PROCEDURE 2967 3014	transtorakálního echokardiografického vyšetření
+T14	PROCEDURE 3017 3043	magnetické rezonance srdce
+T40	PROCEDURE 3397 3417	resuscitační manévry
+T37	PROCEDURE 3525 3537	soudní pitva
+T38	PROCEDURE 3539 3584	Makroskopické a mikroskopické vyšetření srdce

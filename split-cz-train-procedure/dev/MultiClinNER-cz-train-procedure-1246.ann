@@ -1,0 +1,21 @@
+T10	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 310 338	echokardiografické vyšetření
+T11	PROCEDURE 921 940	Fyzikální vyšetření
+T26	PROCEDURE 1127 1144	plicní auskultaci
+T14	PROCEDURE 1274 1284	Holter-ECG
+T15	PROCEDURE 1286 1312	magnetická rezonance srdce
+T16	PROCEDURE 1314 1345	transezofageální echokardiogram
+T20	PROCEDURE 1348 1367	genetické vyšetření
+T18	PROCEDURE 1391 1408	Elektrokardiogram
+T19	PROCEDURE 1410 1413	EKG
+T12	PROCEDURE 1522 1541	24hodinovém Holteru
+T30	PROCEDURE 1760 1769	MRI srdce
+T17	PROCEDURE 2164 2195	Transezofageální echokardiogram
+T13	PROCEDURE 2351 2370	Genetické vyšetření
+T36	PROCEDURE 2716 2735	genetické vyšetření
+T38	PROCEDURE 2936 2955	genetické vyšetření
+T40	PROCEDURE 3162 3169	Holteru
+T42	PROCEDURE 3247 3265	elektrokardiogramu
+T44	PROCEDURE 3388 3426	implantaci automatického defibrilátoru
+T45	PROCEDURE 3466 3500	medikamentózní léčby betablokátory
+T21	PROCEDURE 3569 3583	implantace ICD

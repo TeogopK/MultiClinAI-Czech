@@ -1,0 +1,50 @@
+T1	SYMPTOM 70 77	dušnost
+T26	SYMPTOM 202 225	útvar v hlavě pankreatu
+T27	SYMPTOM 548 582	ztluštění parietální části žaludku
+T2	SYMPTOM 1400 1472	progredující námahovou dušnost s 1měsíčním vývojem až do klidového stavu
+T4	SYMPTOM 1493 1501	ortopnoe
+T3	SYMPTOM 1504 1530	paroxyzmální noční dušnost
+T5	SYMPTOM 1532 1555	noční dekubitální kašel
+T31	SYMPTOM 1558 1566	nykturii
+T32	SYMPTOM 1580 1602	zvětšení obvodu břicha
+T33	SYMPTOM 1605 1627	otoky dolních končetin
+T34	SYMPTOM 1629 1661	dyskomfort v pravém hypochondriu
+T6	SYMPTOM 1711 1727	bolesti na hrudi
+T7	SYMPTOM 1772 1781	palpitace
+T8	SYMPTOM 1870 1877	horečka
+T10	SYMPTOM 1885 1896	expektorace
+T11	SYMPTOM 1904 1913	nevolnost
+T12	SYMPTOM 1921 1929	zvracení
+T9	SYMPTOM 2032 2041	afebrilní
+T13	SYMPTOM 2073 2076	BEG
+T35	SYMPTOM 2078 2092	Barva normální
+T36	SYMPTOM 2094 2107	normoperfuzní
+T37	SYMPTOM 2110 2126	normohydratovaný
+T14	SYMPTOM 2141 2158	krční ingurgitace
+T15	SYMPTOM 2164 2177	rytmické tóny
+T16	SYMPTOM 2183 2190	šelestů
+T38	SYMPTOM 2265 2290	Břicho: měkké, depresivní
+T39	SYMPTOM 2292 2320	bolest v pravém hypochondriu
+T40	SYMPTOM 2325 2348	peritoneálního dráždění
+T41	SYMPTOM 2366 2372	útvarů
+T42	SYMPTOM 2405 2438	otok s foveou až ke kořeni stehen
+T17	SYMPTOM 2456 2479	pozitivní pedální pulzy
+T24	SYMPTOM 3009 3029	ANA a ANCA negativní
+T18	SYMPTOM 3031 3061	Sérologie: HBV a HCV negativní
+T19	SYMPTOM 3545 3556	proteinurie
+T20	SYMPTOM 3593 3667	Bence Jonesova proteinurie (kappa a lambda lehké řetězce v moči) negativní
+T43	SYMPTOM 3683 3727	kardiotorakální index na horní hranici normy
+T44	SYMPTOM 3729 3762	mediastinum a oba hilusy normální
+T45	SYMPTOM 3764 3788	ztluštění větší štěrbiny
+T21	SYMPTOM 3871 3886	sinusový rytmus
+T46	SYMPTOM 4016 4025	palpitací
+T47	SYMPTOM 4137 4153	sinusovému rytmu
+T48	SYMPTOM 4384 4412	mírnou systolickou dysfunkcí
+T49	SYMPTOM 4572 4610	Odhadovaná globální LVEF mírně snížená
+T22	SYMPTOM 4703 4761	Nedilatovaná pravá komora se zachovanou systolickou funkcí
+T50	SYMPTOM 5001 5031	normálním inspiračním kolapsem
+T51	SYMPTOM 5033 5064	Neporušené interatriální septum
+T52	SYMPTOM 6857 6887	Mírně snížená funkční kapacita
+T23	SYMPTOM 7128 7191	mírný defekt perfuze v bazálním a středním segmentu dolní stěny
+T25	SYMPTOM 8148 8174	Absence žlučníku a sleziny
+T53	SYMPTOM 8418 8472	V dutině břišní nebyla pozorována žádná volná tekutina

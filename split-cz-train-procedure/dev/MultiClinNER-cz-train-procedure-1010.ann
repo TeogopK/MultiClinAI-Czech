@@ -1,0 +1,30 @@
+T27	PROCEDURE 103 111	ANAMNÉZA
+T29	PROCEDURE 135 154	FYZIKÁLNÍ VYŠETŘENÍ
+T26	PROCEDURE 386 401	cévní chirurgie
+T2	PROCEDURE 403 425	Chirurgické intervence
+T45	PROCEDURE 427 454	endoprotéza vzestupné aorty
+T3	PROCEDURE 501 545	levostranným karoticko-podklíčkovým bypassem
+T4	PROCEDURE 548 579	uzávěrem levé podklíčkové tepny
+T5	PROCEDURE 599 654	infrarenální aorto-bi-iliakální abdominální endoprotéza
+T28	PROCEDURE 966 974	Anamnéza
+T30	PROCEDURE 1495 1514	FYZIKÁLNÍ VYŠETŘENÍ
+T31	PROCEDURE 1665 1681	Auskultace srdce
+T32	PROCEDURE 1718 1733	Auskultace plic
+T93	PROCEDURE 1918 1925	palpaci
+T43	PROCEDURE 2089 2108	Laboratorní hodnoty
+T42	PROCEDURE 2115 2124	biochemie
+T33	PROCEDURE 2282 2290	Hemogram
+T34	PROCEDURE 2384 2393	Koagulace
+T35	PROCEDURE 2413 2430	ELEKTROKARDIOGRAM
+T36	PROCEDURE 2432 2435	EKG
+T64	PROCEDURE 2521 2537	RTG hrudníku P-A
+T56	PROCEDURE 2631 2660	CT vyšetření lebky (urgentní)
+T37	PROCEDURE 2824 2838	ECHOkardiogram
+T38	PROCEDURE 3114 3165	Hrudní ANGIO-CT (urgentní): provedeno bez kontrastu
+T39	PROCEDURE 3758 3777	ANGIO-CT sken aorty
+T40	PROCEDURE 4629 4649	Hrudní ARTERIOGRAFIE
+T70	PROCEDURE 5242 5264	antihypertenzní léčbou
+T109	PROCEDURE 5266 5310	transfuzí dvou koncentrátů červených krvinek
+T108	PROCEDURE 5313 5328	sérovou terapií
+T59	PROCEDURE 5441 5455	CT angiografie
+T41	PROCEDURE 5655 5675	hrudní arteriografie

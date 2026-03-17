@@ -1,0 +1,32 @@
+T9	PROCEDURE 573 604	Transtorakální echokardiografie
+T3	PROCEDURE 606 609	TTE
+T31	PROCEDURE 1155 1158	TTE
+T33	PROCEDURE 1320 1347	kardiochirurgickému zákroku
+T11	PROCEDURE 1362 1376	koronarografie
+T36	PROCEDURE 1492 1558	aortokoronární bypass: z levé vnitřní mammy do předního sestupného
+T12	PROCEDURE 1561 1620	náhrada mitrální chlopně biologickou protézou Labcor No. 31
+T37	PROCEDURE 1822 1854	depleční a protizánětlivou léčbu
+T38	PROCEDURE 1931 1960	echokardiografickém vyšetření
+T15	PROCEDURE 2078 2098	Antikoagulační léčba
+T40	PROCEDURE 2218 2232	sérové kultury
+T17	PROCEDURE 2266 2294	empirická antibiotická léčba
+T41	PROCEDURE 2334 2354	antikoagulační léčby
+T42	PROCEDURE 2370 2408	kontrolní echokardiografické vyšetření
+T16	PROCEDURE 2642 2662	antikoagulační léčba
+T20	PROCEDURE 2689 2705	parametry zánětu
+T45	PROCEDURE 2708 2722	sérové kultury
+T46	PROCEDURE 2842 2856	sérové kultury
+T47	PROCEDURE 2869 2872	TEE
+T51	PROCEDURE 3206 3209	TEE
+T18	PROCEDURE 3224 3252	empirická antibiotická léčba
+T52	PROCEDURE 3254 3263	Kultivace
+T21	PROCEDURE 3292 3301	sérologie
+T19	PROCEDURE 3334 3340	PET-CT
+T54	PROCEDURE 3447 3450	TEE
+T57	PROCEDURE 3599 3618	vyčerpávající léčbu
+T59	PROCEDURE 3669 3687	krevními kulturami
+T60	PROCEDURE 3717 3723	kultur
+T22	PROCEDURE 3734 3743	sérologie
+T23	PROCEDURE 3825 3834	Sérologie
+T61	PROCEDURE 3956 3974	antibiotická léčba
+T10	PROCEDURE 4232 4263	transtorakální echokardiografie

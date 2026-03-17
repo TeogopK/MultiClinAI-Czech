@@ -1,0 +1,30 @@
+T22	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 297 348	chronické léčbě nesteroidními protizánětlivými léky
+T4	PROCEDURE 704 729	Ventimaskem při 50 % FiO2
+T23	PROCEDURE 742 761	Fyzikální vyšetření
+T24	PROCEDURE 830 857	kardiopulmonální auskultace
+T25	PROCEDURE 1469 1484	močový sediment
+T26	PROCEDURE 1508 1520	krevní plyny
+T27	PROCEDURE 1559 1576	ELEKTROKARDIOGRAM
+T28	PROCEDURE 1578 1581	EKG
+T6	PROCEDURE 1639 1651	RTG HRUDNÍKU
+T29	PROCEDURE 1713 1744	Transtorakální echokardiografie
+T33	PROCEDURE 2153 2189	VYSOKOREZOLUČNÍ VÝPOČETNÍ TOMOGRAFIE
+T37	PROCEDURE 2191 2195	HRCT
+T40	PROCEDURE 2353 2367	KORONAROGRAFIE
+T42	PROCEDURE 2600 2615	podporu dýchání
+T43	PROCEDURE 2623 2655	neinvazivní mechanické ventilace
+T34	PROCEDURE 2798 2827	intravenózní diuretické léčby
+T31	PROCEDURE 2856 2877	náhradní léčba ledvin
+T44	PROCEDURE 2878 2890	hemofiltrací
+T30	PROCEDURE 3017 3048	transtorakální echokardiografie
+T32	PROCEDURE 3269 3292	koronarografická studie
+T47	PROCEDURE 3407 3425	ventilační podpory
+T48	PROCEDURE 3436 3457	hemodialyzační sezení
+T51	PROCEDURE 3580 3609	echokardiografickém vyšetření
+T53	PROCEDURE 3702 3724	imunologické vyšetření
+T54	PROCEDURE 3839 3859	výpočetní tomografie
+T35	PROCEDURE 3969 4037	léčba glukokortikoidy a inhibitory angiotenzin konvertujícího enzymu
+T57	PROCEDURE 4039 4053	ACE inhibitory
+T56	PROCEDURE 4074 4099	hemodialyzačních sezeních
+T58	PROCEDURE 4109 4137	echokardiografické sledování

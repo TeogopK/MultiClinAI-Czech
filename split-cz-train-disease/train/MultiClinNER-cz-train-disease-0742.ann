@@ -1,0 +1,17 @@
+T3	DISEASE 35 40	kuřák
+T1	DISEASE 54 64	hypertenze
+T5	DISEASE 66 78	dyslipidémie
+T6	DISEASE 81 107	ischemické choroby srdeční
+T7	DISEASE 119 145	akutního infarktu myokardu
+T4	DISEASE 216 241	neoplazii tlustého střeva
+T16	DISEASE 216 288	neoplazii tlustého střeva s anatomopatologickým výsledkem adenokarcinomu
+T10	DISEASE 722 752	infekci dolních cest dýchacích
+T8	DISEASE 1204 1231	těžkým respiračním selháním
+T9	DISEASE 1379 1395	těžkou pneumonii
+T15	DISEASE 1520 1540	plicní tromboembolii
+T11	DISEASE 1715 1770	těžké respirační selhání sekundární komunitní pneumonie
+T17	DISEASE 1751 1770	komunitní pneumonie
+T2	DISEASE 1799 1836	plicní toxicita způsobená cytostatiky
+T12	DISEASE 1848 1884	syndromem respirační tísně dospělých
+T13	DISEASE 2073 2115	difuzní složku intersticiální pneumonitidy
+T14	DISEASE 2296 2322	plicní toxicitu cytostatik

@@ -1,0 +1,16 @@
+T7	PROCEDURE 27 46	transplantace jater
+T9	PROCEDURE 225 244	fyzikální vyšetření
+T8	PROCEDURE 295 314	transplantace jater
+T14	PROCEDURE 570 598	dopplerovská ultrasonografie
+T24	PROCEDURE 674 695	antikoagulační léčbou
+T10	PROCEDURE 924 932	CT mozku
+T11	PROCEDURE 946 949	EKG
+T21	PROCEDURE 1104 1133	Transtorakální echokardiogram
+T12	PROCEDURE 1325 1336	katetrizace
+T26	PROCEDURE 1353 1376	mechanická trombektomie
+T13	PROCEDURE 1661 1672	katetrizace
+T40	PROCEDURE 1997 2040	transtorakální echokardiografické vyšetření
+T20	PROCEDURE 2187 2190	TEE
+T17	PROCEDURE 2332 2349	CT vyšetření těla
+T22	PROCEDURE 2425 2449	Vyšetření hyperkoagulace
+T39	PROCEDURE 2490 2520	perorální antikoagulační léčbu

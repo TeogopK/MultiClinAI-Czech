@@ -1,0 +1,29 @@
+T105	PROCEDURE 0 8	ANAMNÉZA
+T93	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T106	PROCEDURE 53 61	Anamnéza
+T127	PROCEDURE 341 363	Kardiologická anamnéza
+T1	PROCEDURE 402 428	elektrickými kardioverzemi
+T128	PROCEDURE 461 481	chirurgická anamnéza
+T2	PROCEDURE 1806 1818	defibriloval
+T154	PROCEDURE 1874 1892	elektrokardiogramu
+T110	PROCEDURE 1933 1976	kardiopulmonální resuscitační (KPR) manévry
+T3	PROCEDURE 1964 1967	KPR
+T4	PROCEDURE 2485 2521	implantovat dočasný kardiostimulátor
+T96	PROCEDURE 2566 2578	monitorování
+T94	PROCEDURE 2610 2629	Fyzikální vyšetření
+T97	PROCEDURE 2833 2860	Kardiopulmonální auskultace
+T103	PROCEDURE 3428 3446	Elektrokardiogramy
+T98	PROCEDURE 3448 3451	EKG
+T7	PROCEDURE 4000 4012	Krevní testy
+T99	PROCEDURE 4161 4170	Koagulace
+T104	PROCEDURE 4244 4253	Biochemie
+T121	PROCEDURE 4970 4999	Transtorakální echokardiogram
+T100	PROCEDURE 5569 5595	Rentgenový snímek hrudníku
+T101	PROCEDURE 5905 5919	Koronarografie
+T95	PROCEDURE 6040 6057	elektrokardiogram
+T10	PROCEDURE 6352 6364	krevní testy
+T12	PROCEDURE 6568 6600	doplnit hořčík, vápník a draslík
+T187	PROCEDURE 6654 6663	sledování
+T150	PROCEDURE 6884 6900	echokardiografii
+T102	PROCEDURE 6958 6972	koronarografie
+T188	PROCEDURE 7823 7859	ambulantním kardiologickém sledování

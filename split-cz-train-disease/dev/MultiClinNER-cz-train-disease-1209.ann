@@ -1,0 +1,15 @@
+T7	DISEASE 253 273	Alergie na penicilin
+T1	DISEASE 285 300	intoxikace léky
+T2	DISEASE 673 704	užití toxických látek a kokainu
+T55	DISEASE 813 837	špatné periferní perfuze
+T49	DISEASE 893 910	srdečního selhání
+T12	DISEASE 1146 1164	poškození myokardu
+T8	DISEASE 1292 1325	akutní pleuropulmonální patologie
+T56	DISEASE 1564 1579	stav před šokem
+T24	DISEASE 1615 1639	AIM s elevacemi úseku ST
+T9	DISEASE 2179 2209	supraventrikulární tachykardie
+T5	DISEASE 2219 2239	komorové tachykardie
+T10	DISEASE 2381 2390	asystolie
+T36	DISEASE 2488 2497	asystolii
+T6	DISEASE 2571 2584	rupturu srdce
+T11	DISEASE 2655 2724	Akutní infarkt myokardu s elevací úseku ST v důsledku užívání kokainu

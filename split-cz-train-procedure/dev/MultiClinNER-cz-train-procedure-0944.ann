@@ -1,0 +1,37 @@
+T23	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T25	PROCEDURE 223 248	perorálními antidiabetiky
+T5	PROCEDURE 288 308	arteriosklerotického
+T26	PROCEDURE 470 504	levostrannou tříselnou herniafázii
+T8	PROCEDURE 1287 1295	anamnézy
+T24	PROCEDURE 1484 1503	Fyzikální vyšetření
+T27	PROCEDURE 1716 1732	Auskultace srdce
+T28	PROCEDURE 1769 1784	Auskultace plic
+T29	PROCEDURE 1971 1974	EKG
+T30	PROCEDURE 2154 2157	EKG
+T31	PROCEDURE 2348 2351	EKG
+T35	PROCEDURE 2646 2664	CT vyšetření lebky
+T37	PROCEDURE 2861 2875	koronarografie
+T40	PROCEDURE 3631 3662	Perkutánní koronární intervence
+T15	PROCEDURE 3664 3696	predilatace nízkotlakým balonkem
+T16	PROCEDURE 3717 3758	implantace dvou lékových stentů v tandemu
+T17	PROCEDURE 3805 3852	pakovanými intrakoronárními bolusy nitroprusidu
+T18	PROCEDURE 3855 3900	dilatací vícesegmentovým nízkotlakým balonkem
+T20	PROCEDURE 3967 4019	ošetřená dalším stentem uvolňujícím léčivo v tandemu
+T43	PROCEDURE 4140 4169	Transtorakální echokardiogram
+T32	PROCEDURE 4509 4512	EKG
+T63	PROCEDURE 4639 4647	anamnéze
+T33	PROCEDURE 4695 4698	EKG
+T65	PROCEDURE 4836 4860	defibrilátorem-monitorem
+T36	PROCEDURE 4951 4969	CT vyšetření lebky
+T69	PROCEDURE 5080 5101	protidestičkové léčby
+T38	PROCEDURE 5152 5166	koronarografie
+T39	PROCEDURE 5434 5448	koronarografie
+T45	PROCEDURE 5567 5651	perkutánní koronární intervence s implantací 3 lékových stentů po balónkové dilataci
+T44	PROCEDURE 5653 5686	Transtorakální echokardiografické
+T34	PROCEDURE 5779 5782	EKG
+T41	PROCEDURE 5962 5981	koronární reperfuzi
+T46	PROCEDURE 5989 6017	implantace kardiostimulátoru
+T76	PROCEDURE 6057 6069	hemodynamiky
+T77	PROCEDURE 6083 6150	revaskularizaci závažného postižení přední sestupné a okružní tepny
+T47	PROCEDURE 6635 6707	Perkutánní koronární intervence s implantací 3 lékových stentů v tandemu
+T42	PROCEDURE 6871 6886	revaskularizaci

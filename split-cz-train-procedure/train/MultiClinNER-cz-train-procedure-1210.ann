@@ -1,0 +1,30 @@
+T65	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T41	PROCEDURE 370 486	osteosyntézou peroneálního malleolu s 6otvorovou trubicovou třetí deskou a osteosyntézou tibiálního malleolu šroubem
+T43	PROCEDURE 677 726	léčený kontinuálním přetlakem v dýchacích cestách
+T67	PROCEDURE 728 732	CPAP
+T44	PROCEDURE 736 752	domácím kyslíkem
+T45	PROCEDURE 813 825	radioterapií
+T46	PROCEDURE 828 847	hormonální blokádou
+T47	PROCEDURE 980 1010	Abdomino-pelvické CT vyšetření
+T49	PROCEDURE 1504 1532	Echokardiografické vyšetření
+T69	PROCEDURE 1642 1656	Koronarografie
+T51	PROCEDURE 1791 1845	implantaci implantabilního kardioverteru-defibrilátoru
+T52	PROCEDURE 1849 1891	srdeční resynchronizační terapií (ICD-CRT)
+T56	PROCEDURE 2041 2053	revizích ICD
+T70	PROCEDURE 2327 2360	transtorakální echokardiografické
+T72	PROCEDURE 3635 3654	transplantace srdce
+T66	PROCEDURE 4143 4162	Fyzikální vyšetření
+T64	PROCEDURE 4402 4420	Srdeční auskultace
+T73	PROCEDURE 4488 4503	Auskultace plic
+T74	PROCEDURE 4739 4756	elektrokardiogram
+T75	PROCEDURE 4878 4904	Rentgenový snímek hrudníku
+T68	PROCEDURE 5029 5042	SARS-CoV2 PCR
+T71	PROCEDURE 5059 5088	Transtorakální echokardiogram
+T83	PROCEDURE 6598 6610	Krevní testy
+T76	PROCEDURE 6938 6953	Lipidový profil
+T84	PROCEDURE 7081 7095	Hodnoty železa
+T77	PROCEDURE 7229 7241	Krevní obraz
+T78	PROCEDURE 7534 7554	Hormony štítné žlázy
+T85	PROCEDURE 7839 7859	bariatrickou operaci
+T86	PROCEDURE 9301 9321	antidiabetické léčby
+T87	PROCEDURE 10041 10060	transplantaci srdce

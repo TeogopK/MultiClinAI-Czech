@@ -1,0 +1,45 @@
+T39	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T79	PROCEDURE 498 511	betablokátory
+T64	PROCEDURE 530 558	Echokardiografické vyšetření
+T94	PROCEDURE 740 749	diuretiky
+T40	PROCEDURE 902 921	Fyzikální vyšetření
+T43	PROCEDURE 967 983	Auskultace srdce
+T44	PROCEDURE 1061 1076	Auskultace plic
+T3	PROCEDURE 1210 1222	Krevní testy
+T45	PROCEDURE 1451 1454	EKG
+T4	PROCEDURE 1596 1608	RTG hrudníku
+T5	PROCEDURE 1719 1745	MID dopplerovský ultrazvuk
+T7	PROCEDURE 2062 2086	Ultrazvukový doppler MII
+T8	PROCEDURE 2189 2212	dopplerovském vyšetření
+T10	PROCEDURE 2323 2363	Kraniální/perfuzní počítačová tomografie
+T53	PROCEDURE 2526 2534	Angio-CT
+T41	PROCEDURE 2651 2667	Echokardiografie
+T13	PROCEDURE 2880 2932	dopplerovské ultrazvukové vyšetření dolních končetin
+T46	PROCEDURE 3333 3356	mechanická embolektomie
+T18	PROCEDURE 3359 3396	disekcí pravého femorálního trojnožky
+T47	PROCEDURE 3399 3436	MID embolektomie s Fogartyho katétrem
+T27	PROCEDURE 3447 3466	výplachem heparinem
+T28	PROCEDURE 3468 3478	hemostázou
+T125	PROCEDURE 3581 3603	ultrazvukové vyšetření
+T78	PROCEDURE 3686 3706	antikoagulační léčby
+T77	PROCEDURE 3890 3903	antikoagulaci
+T32	PROCEDURE 3906 3921	antivitamínom K
+T55	PROCEDURE 4214 4245	echo dopplerovské vyšetření MII
+T57	PROCEDURE 4429 4453	perfuze heparinem sodným
+T59	PROCEDURE 4688 4725	intravenózní perfuzí heparinem sodným
+T50	PROCEDURE 4741 4759	CT vyšetření lebky
+T60	PROCEDURE 5000 5021	aktivován Stroke Code
+T51	PROCEDURE 5109 5117	CT mozku
+T54	PROCEDURE 5245 5263	Angio-CT vyšetření
+T73	PROCEDURE 5518 5625	primární mechanickou intraarteriální trombektomii s aspirací krčního trombu a fragmentů na úrovni LMCA-ICCA
+T62	PROCEDURE 5637 5649	CT vyšetření
+T52	PROCEDURE 6140 6163	arteriální trombektomie
+T69	PROCEDURE 6166 6202	disekcí levého femorálního trojnožky
+T70	PROCEDURE 6205 6296	extrakcí trombotického materiálu na levé femoro-popliteální úrovni pomocí Fogartyho katétru
+T93	PROCEDURE 6431 6439	diuretik
+T68	PROCEDURE 6442 6454	beta-blokády
+T42	PROCEDURE 6471 6487	echokardiografie
+T113	PROCEDURE 7023 7072	mechanickou trombektomií pomocí Fogartyho katétru
+T114	PROCEDURE 7114 7159	mechanickou trombektomií s Fogartyho katétrem
+T49	PROCEDURE 7308 7321	antikoagulace
+T63	PROCEDURE 7324 7339	antivitaminem K

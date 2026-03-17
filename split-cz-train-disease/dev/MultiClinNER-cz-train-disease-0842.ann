@@ -1,0 +1,52 @@
+T31	DISEASE 64 76	bývalý kuřák
+T28	DISEASE 80 126	inzulin dependentním diabetes mellitus 2. typu
+T1	DISEASE 128 138	hypertenzí
+T2	DISEASE 140 152	dyslipidémií
+T3	DISEASE 154 167	hyperurikémií
+T4	DISEASE 170 178	obezitou
+T5	DISEASE 182 216	periferním arteriálním onemocněním
+T30	DISEASE 218 255	bilaterální femoropopliteální stenóza
+T14	DISEASE 351 377	ischemická choroba srdeční
+T7	DISEASE 418 448	anteroseptální AIM fibrinolýza
+T19	DISEASE 489 510	posteroinferiorní AIM
+T9	DISEASE 549 595	chronický uzávěr střední přední sestupné tepny
+T11	DISEASE 601 630	lézi v posterolaterální tepně
+T10	DISEASE 636 675	lézi v proximální pravé koronární tepně
+T12	DISEASE 682 716	lézi v obturující marginální tepně
+T62	DISEASE 2046 2052	ascitu
+T26	DISEASE 2196 2202	anémie
+T66	DISEASE 2334 2361	těžkou dilataci levé komory
+T67	DISEASE 2385 2420	těžkou funkční mitrální regurgitaci
+T27	DISEASE 2468 2481	kardiomegalie
+T35	DISEASE 2653 2688	porucha intraventrikulárního vedení
+T36	DISEASE 2718 2749	sekundární poruchy repolarizace
+T68	DISEASE 3300 3371	Mitrální chlopeň s mírným zesílením listů a mírnou kalcifikací prstence
+T69	DISEASE 3373 3409	Těžká centrální mitrální regurgitace
+T70	DISEASE 3538 3563	Těžce dilatovaná levá síň
+T24	DISEASE 3676 3715	Středně těžká trikuspidální regurgitace
+T71	DISEASE 3745 3752	výpotku
+T72	DISEASE 3866 3937	Přední sestupná tepna se středně těžkou proximální difuzní ateromatózou
+T73	DISEASE 4110 4145	Cirkumflex s těžkou proximální lézí
+T37	DISEASE 4272 4315	Pravá koronární tepna s chronickým uzávěrem
+T74	DISEASE 4334 4386	Chronicky okludovaná pravá saféna na koronární tepnu
+T13	DISEASE 4439 4474	těžká dilatace levé komory s těžkou
+T20	DISEASE 4976 4993	srdečního selhání
+T21	DISEASE 6326 6343	srdečního selhání
+T84	DISEASE 6360 6380	respiračním infektem
+T87	DISEASE 6836 6843	diabetu
+T88	DISEASE 6845 6852	obezitě
+T89	DISEASE 6855 6890	perifernímu arteriálnímu onemocnění
+T94	DISEASE 7719 7756	závažnou funkční mitrální regurgitaci
+T97	DISEASE 7968 7975	obezitě
+T33	DISEASE 8055 8076	mitrální insuficience
+T22	DISEASE 8236 8251	Srdeční selhání
+T15	DISEASE 8268 8294	Ischemická choroba srdeční
+T23	DISEASE 8349 8383	Těžká funkční mitrální regurgitace
+T99	DISEASE 8385 8419	Těžké onemocnění 3 koronárních cév
+T29	DISEASE 8422 8472	okluzí bypassu ze safény na pravou koronární tepnu
+T32	DISEASE 8475 8563	průchodným bypassem z mammy na přední sestupnou tepnu a ze safény na první obtuzní okraj
+T16	DISEASE 8587 8632	Diabetes mellitus 2. typu závislý na inzulínu
+T18	DISEASE 8634 8655	Arteriální hypertenze
+T17	DISEASE 8657 8669	Dyslipidemie
+T34	DISEASE 8671 8688	Obezita 2. stupně
+T25	DISEASE 8690 8725	Chronická ischemie dolních končetin

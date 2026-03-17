@@ -1,0 +1,22 @@
+T3	PROCEDURE 122 141	Fyzikální vyšetření
+T14	PROCEDURE 384 406	Předoperační vyšetření
+T2	PROCEDURE 415 432	elektrokardiogram
+T8	PROCEDURE 489 497	hemogram
+T9	PROCEDURE 595 609	jaterní funkce
+T10	PROCEDURE 611 630	CT vyšetření břicha
+T7	PROCEDURE 830 837	operace
+T4	PROCEDURE 886 939	laparoskopická ručně asistovaná radikální nefrektomie
+T5	PROCEDURE 977 1027	Operační výkon byl proveden se zavedením 4 trokarů
+T11	PROCEDURE 1141 1205	Dva 5mm trokary jsou umístěny také v epigastriu k oddělení jater
+T6	PROCEDURE 1224 1267	zavedena šikmým řezem v pravé kyčelní jamce
+T13	PROCEDURE 1269 1290	Radikální nefrektomie
+T12	PROCEDURE 1346 1425	Ledvina je uložena do polyethylenového sáčku a odstraněna řezem v kyčelní jamce
+T1	PROCEDURE 1676 1686	analgetika
+T27	PROCEDURE 1748 1755	operaci
+T28	PROCEDURE 1790 1797	operaci
+T30	PROCEDURE 1936 1943	biopsii
+T31	PROCEDURE 2537 2560	histologickém vyšetření
+T32	PROCEDURE 3177 3190	chirurgického
+T33	PROCEDURE 3256 3267	patologické
+T34	PROCEDURE 3471 3484	funkcí ledvin
+T35	PROCEDURE 3497 3504	operaci

@@ -1,0 +1,78 @@
+T218	SYMPTOM 105 110	úmrtí
+T136	SYMPTOM 699 715	bolesti na hrudi
+T137	SYMPTOM 755 777	bolest uprostřed hrudi
+T205	SYMPTOM 855 878	vegetativního doprovodu
+T39	SYMPTOM 948 1001	elektrokardiogram, který neprokázal žádné abnormality
+T1	SYMPTOM 1022 1030	zvracení
+T40	SYMPTOM 1033 1052	průjmovitou stolici
+T2	SYMPTOM 1076 1082	bolest
+T41	SYMPTOM 1227 1270	intenzivnější, bodavou, nevyzařující bolest
+T206	SYMPTOM 1347 1370	vegetativního doprovodu
+T154	SYMPTOM 1374 1382	horečkou
+T135	SYMPTOM 1576 1583	bolesti
+T3	SYMPTOM 1703 1726	prekordiálními obtížemi
+T42	SYMPTOM 1950 1985	zvýšení ultrasenzitivního troponinu
+T43	SYMPTOM 2056 2107	difuzní elevaci ST segmentu v dolní a přední frontě
+T44	SYMPTOM 2160 2249	levou komoru, která nebyla ani dilatovaná, ani hypertrofická, s apikální septální akinezí
+T4	SYMPTOM 2467 2490	Přijatelný celkový stav
+T182	SYMPTOM 2492 2508	normohydratovaný
+T183	SYMPTOM 2510 2527	normoperfundovaný
+T204	SYMPTOM 2529 2546	v klidu eupnoický
+T5	SYMPTOM 2554 2567	krční pulzace
+T6	SYMPTOM 2569 2593	akce srdeční: pravidelná
+T220	SYMPTOM 2599 2606	šelestů
+T213	SYMPTOM 2641 2668	zachován vezikulární šelest
+T138	SYMPTOM 2676 2693	vedlejší fenomeny
+T7	SYMPTOM 2695 2721	Dolní končetiny: bez otoků
+T8	SYMPTOM 2758 2780	dobrá distální perfuze
+T45	SYMPTOM 2782 2798	symetrické pulzy
+T166	SYMPTOM 3049 3062	ionty v normě
+T151	SYMPTOM 3310 3326	hemogram v normě
+T194	SYMPTOM 3328 3358	renální funkce a ionty v normě
+T46	SYMPTOM 3384 3406	Prokalcitonin normální
+T9	SYMPTOM 3439 3454	sinusový rytmus
+T11	SYMPTOM 3485 3493	úzké QRS
+T13	SYMPTOM 3495 3507	normální osa
+T47	SYMPTOM 3509 3535	Amputovaná vlna R ve V4-V5
+T48	SYMPTOM 3537 3580	Difuzní elevace ST ve V2-V5 a v dolní části
+T10	SYMPTOM 3616 3631	sinusový rytmus
+T12	SYMPTOM 3657 3665	úzké QRS
+T14	SYMPTOM 3667 3679	normální osa
+T49	SYMPTOM 3681 3722	elevace ST úseku ve V2-5 a dolním aspektu
+T50	SYMPTOM 3725 3762	negativní vlnou T ve stejných svodech
+T168	SYMPTOM 3804 3840	kardiotorakální index v mezích normy
+T26	SYMPTOM 3842 3866	volné kostofrenické uhly
+T15	SYMPTOM 3879 3897	cévní redistribuce
+T51	SYMPTOM 3903 3924	parenchymových opacit
+T52	SYMPTOM 3926 3982	PCR SARS-CoV-2 při přijetí a po 8 dnech: nedetekovatelný
+T16	SYMPTOM 3984 4034	Sérologie SARS-CoV-2: IgG negativní; IgM pozitivní
+T53	SYMPTOM 4082 4166	nedilatovaná, nehypertrofická levá komora, se zachovanou globální systolickou funkcí
+T54	SYMPTOM 4168 4280	Akineze apexu a apikálních segmentů dolního septa a dolní stěny a apikálního a středního segmentu předního septa
+T17	SYMPTOM 4335 4375	Pravá komora normální velikosti a funkce
+T55	SYMPTOM 4377 4440	Akineze nejvyšších apikálních segmentů volné stěny pravé komory
+T19	SYMPTOM 4442 4469	Předsíně normální velikosti
+T23	SYMPTOM 4651 4698	Koronární tepny s normálním anatomickým původem
+T25	SYMPTOM 4700 4715	Pravá dominance
+T56	SYMPTOM 4717 4773	Kmen levé koronární tepny: céva dobře vyvinutá, bez lézí
+T57	SYMPTOM 4993 5032	Diagonály: 2 středně vyvinuté, bez lézí
+T58	SYMPTOM 5069 5115	Cirkumflex (CX): dobře vyvinutá céva, bez lézí
+T59	SYMPTOM 5223 5293	Pravá koronární tepna (RC): dominantní céva s dobrým vývojem, bez lézí
+T60	SYMPTOM 5295 5355	Zadní sestupná plicní tepna (PVI): špatně vyvinutá, bez lézí
+T61	SYMPTOM 5500 5516	Kmen: žádné léze
+T62	SYMPTOM 5763 5786	CX: žádné významné léze
+T27	SYMPTOM 5788 5802	CD: dominantní
+T63	SYMPTOM 6005 6041	Levá koronární tepna (LMCA) bez lézí
+T64	SYMPTOM 6566 6621	Cirkumflex dobrého kalibru a vývoje bez významných lézí
+T28	SYMPTOM 6623 6700	Dominantní pravá koronární tepna dobrého kalibru a vývoje bez významných lézí
+T65	SYMPTOM 7135 7219	nedilatovaná, nehypertrofická levá komora, se zachovanou globální systolickou funkcí
+T66	SYMPTOM 7221 7267	Akineze apikálních segmentů a striktního hrotu
+T18	SYMPTOM 7397 7437	Pravá komora normální velikosti a funkce
+T20	SYMPTOM 7439 7466	Předsíně normální velikosti
+T189	SYMPTOM 7593 7614	perikardiální výpotek
+T67	SYMPTOM 7745 7780	pozitivnímu výsledku Sars-Cov-2 PCR
+T131	SYMPTOM 8622 8636	asymptomatická
+T21	SYMPTOM 8639 8661	hemodynamicky stabilní
+T70	SYMPTOM 8934 8974	hrudní diskomfort se zánětlivým profilem
+T216	SYMPTOM 8979 9009	zvýšením reaktantů akutní fáze
+T24	SYMPTOM 10712 10728	Apikální akineze
+T22	SYMPTOM 10750 10798	Zachovaná globální systolická funkce levé komory

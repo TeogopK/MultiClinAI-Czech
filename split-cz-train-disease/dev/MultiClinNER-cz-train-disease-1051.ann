@@ -1,0 +1,31 @@
+T16	DISEASE 80 94	lékové alergie
+T103	DISEASE 189 199	hypertenze
+T1	DISEASE 274 381	středně závažným postižením ve středním úseku přední sestupné tepny a ve středním úseku pravé věnčité tepny
+T17	DISEASE 394 418	stabilní angina pectoris
+T18	DISEASE 420 447	chronický koronární syndrom
+T20	DISEASE 538 565	chronické onemocnění ledvin
+T22	DISEASE 625 635	gastritida
+T23	DISEASE 637 664	infekce Helicobacter pylori
+T24	DISEASE 692 706	hiátová hernie
+T2	DISEASE 708 727	Schatzkiho prstenec
+T25	DISEASE 730 743	divertikulóza
+T102	DISEASE 1989 2011	hluboké žilní trombózy
+T63	DISEASE 2013 2016	HŽT
+T126	DISEASE 3302 3317	plicní kongesce
+T5	DISEASE 3538 3559	Mitrální insuficience
+T7	DISEASE 4160 4216	Přední sestupná tepna s mírným plakem stabilního vzhledu
+T8	DISEASE 4294 4343	edominantní pravá koronární tepna s mírným plakem
+T100	DISEASE 4510 4524	edému myokardu
+T84	DISEASE 5200 5229	chronickým onemocněním ledvin
+T11	DISEASE 5507 5548	akutního infarktu myokardu bez ST elevací
+T30	DISEASE 5760 5774	koronární léze
+T26	DISEASE 5812 5862	infarkt myokardu bez obstrukčních koronárních lézí
+T27	DISEASE 5864 5870	MINOCA
+T73	DISEASE 6141 6161	akutní myokarditidou
+T106	DISEASE 6406 6432	ischemické choroby srdeční
+T28	DISEASE 6678 6683	COVID
+T12	DISEASE 6684 6696	myokarditida
+T21	DISEASE 6734 6761	chronické onemocnění ledvin
+T19	DISEASE 6811 6838	Chronický koronární syndrom
+T13	DISEASE 6857 6885	dvoucípou koronární chorobou
+T29	DISEASE 6887 6907	Hypercholesterolemie

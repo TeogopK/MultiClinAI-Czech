@@ -1,0 +1,77 @@
+T1	SYMPTOM 144 171	elektrokardiografické změny
+T25	SYMPTOM 173 207	zvýšené markery poškození myokardu
+T26	SYMPTOM 1143 1168	defekt plnění levé komory
+T105	SYMPTOM 1335 1351	bolesti na hrudi
+T27	SYMPTOM 1362 1387	kardiovaskulární příznaky
+T135	SYMPTOM 1468 1487	apikální hypokinezi
+T136	SYMPTOM 1490 1507	těžkou hypokinezi
+T28	SYMPTOM 1575 1601	ejekční frakcí levé komory
+T76	SYMPTOM 1603 1607	LVEF
+T123	SYMPTOM 1812 1846	elevaci markerů poškození myokardu
+T127	SYMPTOM 2006 2042	respirační a hemodynamické stability
+T182	SYMPTOM 2295 2301	vědomí
+T153	SYMPTOM 2303 2337	orientovaný ve všech třech sférách
+T166	SYMPTOM 2340 2354	spolupracující
+T2	SYMPTOM 2356 2378	normální kožní kolorit
+T149	SYMPTOM 2380 2396	normohydratovaný
+T152	SYMPTOM 2399 2420	normálně perfundovaný
+T3	SYMPTOM 2422 2439	Eupnoický v klidu
+T116	SYMPTOM 2443 2468	dobrou dechovou dynamikou
+T29	SYMPTOM 2470 2491	toleruje polohu vleže
+T162	SYMPTOM 2511 2532	rytmické srdeční ozvy
+T185	SYMPTOM 2569 2575	šelest
+T125	SYMPTOM 2580 2594	přídatné zvuky
+T186	SYMPTOM 2637 2643	šelest
+T30	SYMPTOM 2682 2698	přídatných zvuků
+T133	SYMPTOM 2708 2735	hydroaerické zvuky přítomny
+T161	SYMPTOM 2784 2807	při palpaci nebolestivé
+T184	SYMPTOM 2813 2819	útvarů
+T5	SYMPTOM 2825 2838	organomegalie
+T155	SYMPTOM 2857 2870	pedální pulzy
+T154	SYMPTOM 2912 2917	otoků
+T31	SYMPTOM 2971 2995	absence distálního pulzu
+T6	SYMPTOM 3053 3068	sinusový rytmus
+T7	SYMPTOM 3086 3097	Normální PR
+T8	SYMPTOM 3099 3107	Úzké QRS
+T9	SYMPTOM 3109 3140	Generalizované negativní vlny T
+T24	SYMPTOM 3142 3167	Prodloužení intervalu QTc
+T32	SYMPTOM 3318 3334	defekt náplně LK
+T33	SYMPTOM 3377 3398	Postižení pravé plíce
+T34	SYMPTOM 3515 3546	evá komora (LK) není dilatovaná
+T35	SYMPTOM 3572 3591	apikální hypokineze
+T77	SYMPTOM 3649 3653	LVEF
+T82	SYMPTOM 3746 3794	Nedilatovaná pravá komora (RV) normokontraktilní
+T18	SYMPTOM 3796 3835	Morfologicky a funkčně normální chlopně
+T36	SYMPTOM 4926 4966	Koronární tepny bez angiografických změn
+T164	SYMPTOM 5084 5099	sinusovém rytmu
+T81	SYMPTOM 5117 5141	Levá komora nedilatovaná
+T163	SYMPTOM 5143 5169	s normální tloušťkou stěny
+T137	SYMPTOM 5199 5249	hypokinezí hrotu a laterálního apikálního segmentu
+T10	SYMPTOM 5251 5278	Zachovaná systolická funkce
+T78	SYMPTOM 5280 5284	LVEF
+T11	SYMPTOM 5322 5349	Normální diastolická funkce
+T12	SYMPTOM 5351 5406	Nedilatovaná pravá komora s normální systolickou funkcí
+T14	SYMPTOM 5408 5435	Normální velikost levé síně
+T15	SYMPTOM 5437 5465	Pravá síň normální velikosti
+T37	SYMPTOM 5467 5516	Aortální chlopeň: morfologicky i funkčně normální
+T38	SYMPTOM 5518 5567	Mitrální chlopeň: morfologicky i funkčně normální
+T16	SYMPTOM 5569 5613	Trikuspidální chlopeň: morfologicky normální
+T39	SYMPTOM 5722 5753	Dolní dutá žíla není dilatovaná
+T40	SYMPTOM 5784 5832	Kořen aorty a aortální oblouk normální velikosti
+T41	SYMPTOM 5851 5875	Neporušené síňové septum
+T21	SYMPTOM 5941 5992	Perikard normální tloušťky a lomivosti, bez výpotku
+T42	SYMPTOM 6515 6550	Nadledviny bez pozoruhodných nálezů
+T146	SYMPTOM 6588 6633	levá komora není dilatovaná ani hypertrofická
+T17	SYMPTOM 6635 6661	Normální systolická funkce
+T13	SYMPTOM 6663 6718	Nedilatovaná pravá komora s normální systolickou funkcí
+T183	SYMPTOM 6726 6757	změny segmentální kontraktility
+T89	SYMPTOM 6759 6785	Předsíně nejsou dilatované
+T19	SYMPTOM 6787 6826	Morfologicky a funkčně normální chlopně
+T43	SYMPTOM 6834 6859	perikardiální abnormality
+T20	SYMPTOM 6911 6915	edém
+T23	SYMPTOM 7873 7901	subendokardiální hypoperfuze
+T79	SYMPTOM 8068 8072	LVEF
+T22	SYMPTOM 8308 8332	normální koronární tepny
+T80	SYMPTOM 8812 8816	LVEF
+T44	SYMPTOM 8878 8896	klinické stabilitě
+T66	SYMPTOM 9533 9547	Asymptomatický

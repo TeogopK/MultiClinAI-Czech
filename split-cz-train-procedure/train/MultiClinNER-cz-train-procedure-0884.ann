@@ -1,0 +1,39 @@
+T59	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T61	PROCEDURE 246 260	trojitý bypass
+T62	PROCEDURE 450 481	transtorakální echokardiografie
+T76	PROCEDURE 483 486	TTE
+T35	PROCEDURE 748 771	elektrickou kardioverzi
+T36	PROCEDURE 773 776	ECV
+T37	PROCEDURE 980 1041	Polypóza tlustého střeva s mnohočetnými endoskopickými excesy
+T63	PROCEDURE 1094 1110	koronární bypass
+T39	PROCEDURE 1112 1145	pravostranná tříselná herniorafie
+T60	PROCEDURE 2241 2260	Fyzikální vyšetření
+T64	PROCEDURE 2343 2362	O2 přes nosní brýle
+T65	PROCEDURE 2484 2500	Auskultace srdce
+T66	PROCEDURE 2540 2555	Auskultace plic
+T67	PROCEDURE 2741 2758	Elektrokardiogram
+T68	PROCEDURE 2760 2763	EKG
+T69	PROCEDURE 2921 2933	RTG hrudníku
+T81	PROCEDURE 3075 3086	sternotomie
+T70	PROCEDURE 3112 3120	hemogram
+T80	PROCEDURE 3378 3387	Biochemie
+T71	PROCEDURE 3595 3604	Hemostáza
+T72	PROCEDURE 3682 3701	Sérový proteinogram
+T42	PROCEDURE 3923 3926	TTE
+T44	PROCEDURE 4426 4435	Vyšetření
+T78	PROCEDURE 4484 4493	MRI srdce
+T48	PROCEDURE 5262 5299	Vyšetření nekrózy a detekce viability
+T53	PROCEDURE 5657 5679	Celotělový kostní sken
+T54	PROCEDURE 5837 5856	Genetické vyšetření
+T55	PROCEDURE 5858 5876	vyšetření genu TTR
+T56	PROCEDURE 6020 6044	intravenózními diuretiky
+T75	PROCEDURE 6094 6108	oxygenoterapii
+T57	PROCEDURE 6236 6250	depleční léčbě
+T58	PROCEDURE 6358 6366	diuretik
+T77	PROCEDURE 6484 6500	Echokardiografie
+T74	PROCEDURE 6639 6665	magnetická rezonance srdce
+T73	PROCEDURE 6739 6758	sérový proteinogram
+T79	PROCEDURE 6761 6806	detekce volných lehkých řetězců v séru a moči
+T86	PROCEDURE 6919 6954	vyšetření kostí pomocí bisfosfonátů
+T87	PROCEDURE 7124 7136	scintigrafii
+T7	PROCEDURE 7307 7326	genetické vyšetření

@@ -1,0 +1,25 @@
+T9	DISEASE 64 76	bývalý kuřák
+T1	DISEASE 142 153	resuscitaci
+T35	DISEASE 270 293	Ventrikulární fibrilace
+T27	DISEASE 364 367	KPR
+T57	DISEASE 556 573	srdečního selhání
+T33	DISEASE 575 577	SS
+T3	DISEASE 716 729	dolní nekróze
+T6	DISEASE 1326 1387	Tenké lístky mitrální chlopně s mírnou centrální insuficiencí
+T10	DISEASE 1526 1543	plicní hypertenze
+T13	DISEASE 1545 1582	Dolní dutá žíla (IVC) mírně rozšířená
+T11	DISEASE 1683 1704	perikardiální výpotek
+T8	DISEASE 1754 1773	LK mírně dilatovaná
+T22	DISEASE 2089 2109	akutní fází infarktu
+T12	DISEASE 2160 2183	akutní infarkt myokardu
+T20	DISEASE 2185 2188	AIM
+T23	DISEASE 2203 2206	CRA
+T24	DISEASE 2242 2253	primární VF
+T25	DISEASE 2343 2364	infarktem akutní fáze
+T51	DISEASE 2425 2448	neurologických následků
+T31	DISEASE 2698 2701	CRP
+T37	DISEASE 2704 2727	Ventrikulární fibrilace
+T21	DISEASE 2747 2750	AIM
+#T27	AnnotatorNotes T27	?
+#T23	AnnotatorNotes T23	?
+#T31	AnnotatorNotes T31	?

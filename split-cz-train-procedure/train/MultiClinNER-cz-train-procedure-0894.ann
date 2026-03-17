@@ -1,0 +1,35 @@
+T3	PROCEDURE 0 8	ANAMNÉZA
+T4	PROCEDURE 10 28	nynější onemocnění
+T5	PROCEDURE 31 50	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 52 60	Anamnéza
+T9	PROCEDURE 120 153	Kardiovaskulární rizikové faktory
+T16	PROCEDURE 249 275	perkutánní revaskularizací
+T59	PROCEDURE 631 647	osobní anamnézou
+T65	PROCEDURE 775 806	transtorakální echokardiografii
+T89	PROCEDURE 849 863	koronarografii
+T21	PROCEDURE 866 885	Fyzikální vyšetření
+T23	PROCEDURE 1131 1151	poslech srdce a plic
+T24	PROCEDURE 1306 1323	Elektrokardiogram
+T107	PROCEDURE 1460 1469	vyšetření
+T83	PROCEDURE 1516 1524	glykemie
+T25	PROCEDURE 1549 1564	Lipidový profil
+T62	PROCEDURE 1680 1709	Transtorakální echokardiogram
+T27	PROCEDURE 2281 2300	Srdeční katetrizace
+T28	PROCEDURE 2552 2560	hemogram
+T61	PROCEDURE 2562 2576	Renální funkce
+T32	PROCEDURE 2621 2626	ionty
+T26	PROCEDURE 2643 2658	Lipidový profil
+T22	PROCEDURE 2909 2923	koronarografie
+T56	PROCEDURE 3084 3101	chirurgické léčby
+T29	PROCEDURE 3121 3136	kardiochirurgie
+T57	PROCEDURE 3201 3226	revaskularizačnímu výkonu
+T60	PROCEDURE 3228 3252	Revaskularizační operace
+T64	PROCEDURE 3290 3314	aortokoronárním bypassem
+T67	PROCEDURE 3522 3529	operaci
+T69	PROCEDURE 3644 3662	lipidovým profilem
+T70	PROCEDURE 3851 3880	léčbu vysoce účinnými statiny
+T33	PROCEDURE 4264 4280	odvykání kouření
+T108	PROCEDURE 4563 4572	vyšetření
+T87	PROCEDURE 4651 4668	jaterního profilu
+T34	PROCEDURE 4983 4999	odvykání kouření
+T31	PROCEDURE 5364 5432	Chirurgická revaskularizace pomocí čtyřnásobného koronárního bypassu

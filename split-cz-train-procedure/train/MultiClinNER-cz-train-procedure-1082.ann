@@ -1,0 +1,29 @@
+T27	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 252 280	Echokardiografické vyšetření
+T6	PROCEDURE 482 509	magnetickou rezonancí srdce
+T31	PROCEDURE 741 758	elektrokardiogram
+T34	PROCEDURE 1047 1069	elektrická kardioverze
+T8	PROCEDURE 1411 1434	elektrickou kardioverzi
+T9	PROCEDURE 1438 1446	anamnéze
+T28	PROCEDURE 1502 1521	Fyzikální vyšetření
+T36	PROCEDURE 1669 1696	Kardiopulmonální auskultace
+T37	PROCEDURE 1847 1873	Rentgenový snímek hrudníku
+T10	PROCEDURE 1875 1887	krevní testy
+T12	PROCEDURE 1917 1930	funkci ledvin
+T13	PROCEDURE 1933 1938	iontů
+T39	PROCEDURE 1978 2007	Transtorakální echokardiogram
+T32	PROCEDURE 2153 2170	Elektrokardiogram
+T33	PROCEDURE 2320 2337	Elektrokardiogram
+T38	PROCEDURE 2589 2615	rentgenový snímek hrudníku
+T44	PROCEDURE 2791 2800	koagulace
+T40	PROCEDURE 2950 2979	Transtorakální echokardiogram
+T41	PROCEDURE 3619 3633	Koronarografie
+T46	PROCEDURE 3675 3684	MRI srdce
+T42	PROCEDURE 3800 3828	Vyšetření funkce levé komory
+T43	PROCEDURE 3922 3951	Vyšetření funkce pravé komory
+T48	PROCEDURE 4443 4462	kontrastní látce iv
+T50	PROCEDURE 4722 4745	elektrickou kardioverzi
+T51	PROCEDURE 4855 4878	elektrokardiografických
+T52	PROCEDURE 4881 4907	zobrazovacích nálezů srdce
+T54	PROCEDURE 5021 5047	bikamerální bibovinový ICD
+T55	PROCEDURE 5554 5573	genetické vyšetření

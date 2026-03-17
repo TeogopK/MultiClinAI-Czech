@@ -1,0 +1,61 @@
+T1	SYMPTOM 608 617	palpitace
+T13	SYMPTOM 670 709	nepravidelnou tachykardii s širokým QRS
+T130	SYMPTOM 769 778	palpitací
+T159	SYMPTOM 796 803	závratí
+T3	SYMPTOM 898 905	závratě
+T158	SYMPTOM 982 995	ztráty vědomí
+T103	SYMPTOM 1048 1060	bušení srdce
+T4	SYMPTOM 1069 1084	bolest na hrudi
+T109	SYMPTOM 1086 1093	dušnost
+T131	SYMPTOM 1137 1146	palpitací
+T132	SYMPTOM 1316 1325	palpitací
+T5	SYMPTOM 1493 1511	dobrý celkový stav
+T98	SYMPTOM 1513 1527	barva normální
+T126	SYMPTOM 1529 1545	normohydratovaný
+T151	SYMPTOM 1547 1564	v klidu eupnoický
+T156	SYMPTOM 1684 1694	při vědomí
+T128	SYMPTOM 1697 1708	orientovaný
+T99	SYMPTOM 1710 1715	bdělý
+T142	SYMPTOM 1717 1731	spolupracující
+T21	SYMPTOM 1787 1819	nepravidelné tachykardické zvuky
+T162	SYMPTOM 1827 1834	šelesty
+T6	SYMPTOM 1836 1864	Zachovalý vezikulární šelest
+T139	SYMPTOM 1876 1895	vedlejších fenomenů
+T72	SYMPTOM 1897 1922	Břicho měkké, stlačitelné
+T160	SYMPTOM 1928 1934	útvarů
+T120	SYMPTOM 1940 1955	zvětšení orgánů
+T102	SYMPTOM 1963 1981	bolest při palpaci
+T133	SYMPTOM 1996 2019	peritoneálního dráždění
+T23	SYMPTOM 2021 2047	Dolní končetiny: bez otoků
+T2	SYMPTOM 2153 2192	nepravidelná tachykardie se širokým QRS
+T27	SYMPTOM 2282 2299	úseky s úzkým QRS
+T7	SYMPTOM 2313 2328	sinusový rytmus
+T28	SYMPTOM 2374 2395	pozitivní delta vlnou
+T29	SYMPTOM 2431 2456	repolarizační abnormality
+T8	SYMPTOM 2478 2493	sinusový rytmus
+T10	SYMPTOM 2519 2527	Úzké QRS
+T30	SYMPTOM 2532 2552	repolarizačních změn
+T31	SYMPTOM 2569 2604	kardiotorakální index (KTI) v normě
+T24	SYMPTOM 2610 2618	městnání
+T112	SYMPTOM 3119 3183	levá komora se zachovanými průměry a globální systolickou funkcí
+T157	SYMPTOM 3193 3231	změn segmentální kontraktility v klidu
+T11	SYMPTOM 3303 3348	Pravá komora se zachovanou velikostí a funkcí
+T22	SYMPTOM 3436 3460	Normální dolní dutá žíla
+T14	SYMPTOM 3944 3955	tachykardie
+T15	SYMPTOM 4008 4019	tachykardie
+T16	SYMPTOM 4073 4084	tachykardie
+T12	SYMPTOM 4135 4165	excentrické retrográdní vedení
+T17	SYMPTOM 4168 4179	tachykardie
+T18	SYMPTOM 4474 4527	přetrvávající nepravidelné tachykardie se širokým QRS
+T113	SYMPTOM 4541 4564	hemodynamické stabilitě
+T19	SYMPTOM 4592 4603	tachykardie
+T20	SYMPTOM 4687 4698	tachykardie
+T141	SYMPTOM 4848 4864	sinusového rytmu
+T9	SYMPTOM 4901 4916	sinusový rytmus
+T33	SYMPTOM 4919 4929	krátkým PR
+T34	SYMPTOM 4932 4973	vlnou delta + v dolních a bočních svodech
+T96	SYMPTOM 5195 5209	asymptomatický
+T25	SYMPTOM 5700 5711	preexcitace
+T97	SYMPTOM 5767 5781	asymptomatický
+T26	SYMPTOM 5827 5838	preexcitace
+T82	SYMPTOM 5954 5996	Normální ejekční frakce levé komory (LVEF)

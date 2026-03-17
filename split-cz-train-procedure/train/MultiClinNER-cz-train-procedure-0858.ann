@@ -1,0 +1,17 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T64	PROCEDURE 583 604	vyšetření krve a moči
+T76	PROCEDURE 628 658	ultrazvukovém vyšetření břicha
+T3	PROCEDURE 743 760	měřil krevní tlak
+T26	PROCEDURE 1141 1160	Fyzikální vyšetření
+T53	PROCEDURE 1250 1265	antihypertenziv
+T4	PROCEDURE 1356 1373	Plicní auskultace
+T27	PROCEDURE 1648 1651	EKG
+T45	PROCEDURE 1816 1828	RTG hrudníku
+T28	PROCEDURE 1888 1902	Echokardiogram
+T30	PROCEDURE 2722 2754	Kontinuální doppler břišní aorty
+T31	PROCEDURE 2980 3003	CT angiografie hrudníku
+T52	PROCEDURE 3285 3293	anamnézy
+T59	PROCEDURE 3307 3327	fyzikálním vyšetření
+T29	PROCEDURE 3341 3355	echokardiogram
+T40	PROCEDURE 3563 3584	hrudní CT angiografie
+T34	PROCEDURE 3715 3736	perkutánní intervence

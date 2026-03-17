@@ -1,0 +1,36 @@
+T10	DISEASE 79 86	alergie
+T11	DISEASE 136 148	bývalý kuřák
+T12	DISEASE 169 190	arteriální hypertenze
+T1	DISEASE 192 195	AHT
+T13	DISEASE 198 210	Dyslipidemie
+T14	DISEASE 237 250	Hyperurikémie
+T2	DISEASE 252 298	Syndrom obstrukční spánkové apnoe a hypertenze
+T29	DISEASE 300 305	OSAHS
+T4	DISEASE 393 405	polyglobulie
+T15	DISEASE 459 496	lymfocytární lymfom s delecí genu p53
+T6	DISEASE 498 539	Degenerativní artropatie ramenního kloubu
+T16	DISEASE 542 573	akromioklavikulární osteofytóza
+T17	DISEASE 645 658	tříselná kýla
+T8	DISEASE 1285 1306	lymfocytární leukemií
+T18	DISEASE 1579 1597	běžný flutter síní
+T20	DISEASE 1730 1747	srdečního selhání
+T24	DISEASE 1983 2016	kompletní blokáda pravého raménka
+T50	DISEASE 2018 2022	RBBB
+T31	DISEASE 2428 2464	Sklerokalcifikovaná aortální chlopeň
+T32	DISEASE 2485 2537	Sklerotizovaná mitrální chlopeň s mírnou regurgitací
+T52	DISEASE 2539 2570	Levá síň (LAS) mírně dilatovaná
+T22	DISEASE 2620 2646	Trikuspidální insuficience
+T53	DISEASE 2648 2650	TI
+T54	DISEASE 2717 2734	plicní hypertenzi
+T23	DISEASE 2763 2784	perikardiální výpotek
+T19	DISEASE 2804 2822	běžný flutter síní
+T21	DISEASE 2953 2970	srdečního selhání
+T25	DISEASE 3006 3019	flutteru síní
+T55	DISEASE 3109 3119	hypertenzi
+T58	DISEASE 3393 3441	fibrilaci síní (FS) s rychlou komorovou odpovědí
+T59	DISEASE 3409 3411	FS
+T26	DISEASE 4151 4166	VF flutter síní
+T27	DISEASE 4613 4615	AF
+T28	DISEASE 4618 4643	paroxyzmální flutter síní
+T62	DISEASE 4681 4697	VF flutteru síní
+T30	DISEASE 4755 4774	Lymfocytární lymfom

@@ -1,0 +1,40 @@
+T37	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 191 223	Hypotyreóza na substituční léčbě
+T38	PROCEDURE 459 480	imunosupresivní léčba
+T44	PROCEDURE 475 496	léčba kortikosteroidy
+T6	PROCEDURE 680 703	Hemodynamické vyšetření
+T43	PROCEDURE 742 768	Magnetická rezonance srdce
+T9	PROCEDURE 1267 1321	implantace implantabilního kardioverteru defibrilátoru
+T11	PROCEDURE 1424 1435	antibiotika
+T18	PROCEDURE 1989 2008	transplantaci srdce
+T40	PROCEDURE 2158 2180	léčbou kortikosteroidy
+T19	PROCEDURE 2216 2260	operaci oboustranné náhrady kyčelního kloubu
+T59	PROCEDURE 2617 2639	bolusy kortikosteroidů
+T61	PROCEDURE 2710 2717	biopsii
+T63	PROCEDURE 2820 2851	léčená nadměrnou stimulací síní
+T45	PROCEDURE 2863 2870	biopsie
+T64	PROCEDURE 3285 3305	fyzikálním vyšetření
+T65	PROCEDURE 3424 3440	auskultaci srdce
+T66	PROCEDURE 3508 3515	palpaci
+T46	PROCEDURE 3628 3645	Elektrokardiogram
+T47	PROCEDURE 3647 3650	EKG
+T48	PROCEDURE 3774 3777	EKG
+T49	PROCEDURE 3884 3887	EKG
+T52	PROCEDURE 3948 3960	krevní obraz
+T53	PROCEDURE 4075 4084	Koagulace
+T57	PROCEDURE 4161 4170	Biochemie
+T58	PROCEDURE 4376 4420	Sériové stanovení markerů poškození myokardu
+T54	PROCEDURE 4492 4506	Koronarografie
+T55	PROCEDURE 4651 4682	perkutánní koronární intervence
+T69	PROCEDURE 4684 4687	PCI
+T70	PROCEDURE 4721 4784	balónkovou angioplastikou s cílem rekanalizovat koronární tepnu
+T50	PROCEDURE 5036 5039	EKG
+T51	PROCEDURE 5258 5261	EKG
+T42	PROCEDURE 5387 5407	hemodynamická studie
+T56	PROCEDURE 5409 5420	Katetrizace
+T75	PROCEDURE 5553 5556	PCI
+T76	PROCEDURE 5587 5626	dilataci pomocí balónkové angioplastiky
+T80	PROCEDURE 5860 5863	KPR
+T41	PROCEDURE 6232 6247	kortikosteroidy
+T89	PROCEDURE 6432 6454	imunosupresivní léčbou
+T90	PROCEDURE 6501 6522	Srdeční transplantace

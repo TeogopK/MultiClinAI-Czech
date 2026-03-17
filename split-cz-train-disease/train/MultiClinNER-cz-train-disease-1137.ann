@@ -1,0 +1,60 @@
+T16	DISEASE 138 152	lékové alergie
+T17	DISEASE 154 166	Bývalý kuřák
+T1	DISEASE 168 184	Bývalý alkoholik
+T18	DISEASE 186 214	Hyperurikémie s dnavou krizí
+T2	DISEASE 216 226	HYPERTENZE
+T19	DISEASE 228 240	Dyslipidemie
+T20	DISEASE 253 278	diabetes mellitus 2. typu
+T21	DISEASE 346 387	Chronické onemocnění ledvin ve stadiu III
+T4	DISEASE 422 454	akutní kalkulózní cholecystitidu
+T5	DISEASE 466 483	nefritické koliky
+T22	DISEASE 550 577	Úzkostně-depresivní syndrom
+T23	DISEASE 824 834	sarkoidóza
+T8	DISEASE 922 948	mediastinálních adenopatií
+T25	DISEASE 1192 1247	dilatační kardiomyopatie s těžkou systolickou dysfunkcí
+T43	DISEASE 1316 1332	koronární stenóz
+T27	DISEASE 1418 1438	srdečního onemocnění
+T10	DISEASE 1502 1521	alkoholového návyku
+T11	DISEASE 1641 1674	kompletní blokádou levého raménka
+T12	DISEASE 1676 1680	LBBB
+T13	DISEASE 1850 1885	významná stenóza koronárního stromu
+T15	DISEASE 1948 2009	mírně dilatovanou levou komoru s mírnou systolickou dysfunkcí
+T28	DISEASE 2067 2094	paroxysmální fibrilace síní
+T77	DISEASE 2097 2110	flutteru síní
+T30	DISEASE 2437 2454	srdečního selhání
+T83	DISEASE 2630 2663	kompletní blokáda pravého raménka
+T84	DISEASE 2665 2670	RBBBH
+T85	DISEASE 2705 2754	nespecifickou poruchu intraventrikulárního vedení
+T36	DISEASE 5029 5077	nespecifická porucha intraventrikulárního vedení
+T87	DISEASE 5115 5120	HRBBB
+T88	DISEASE 5122 5169	Blokáda levého předního rozdělení Hisova svazku
+T89	DISEASE 5171 5175	LADB
+T37	DISEASE 5184 5215	supraventrikulární extrasystoly
+T90	DISEASE 5269 5297	silně dilatovaná levá komora
+T38	DISEASE 5561 5573	valvulopatie
+T39	DISEASE 5581 5602	perikardiální výpotek
+T40	DISEASE 5610 5636	trikuspidální insuficience
+T91	DISEASE 5665 5682	plicní hypertenzi
+T41	DISEASE 5777 5798	intrakardiální zkraty
+T42	DISEASE 5834 5854	dilatace levé komory
+T94	DISEASE 6046 6061	blokádu ramének
+T31	DISEASE 6486 6503	srdečního selhání
+T95	DISEASE 6552 6596	alveolo-intersticiálním edémem v bazích plic
+T32	DISEASE 6809 6826	srdečního selhání
+T99	DISEASE 7030 7054	mediastinální adenopatie
+T100	DISEASE 7086 7104	srdeční sarkoidózu
+T44	DISEASE 7138 7162	dilatační kardiomyopatie
+T101	DISEASE 7191 7215	závažným poruchám vedení
+T102	DISEASE 7230 7234	LBBB
+T34	DISEASE 7237 7286	nespecifických intraventrikulárních poruch vedení
+T103	DISEASE 7287 7298	LBBB-CCRDHH
+T104	DISEASE 7309 7340	nesetrvalých komorových arytmií
+T45	DISEASE 7374 7440	neischemické dilatační kardiomyopatie s těžkou komorovou dysfunkcí
+T105	DISEASE 7531 7551	bloku levého raménka
+T33	DISEASE 7678 7695	srdečního selhání
+T108	DISEASE 8140 8156	tachykardie síní
+T29	DISEASE 8159 8171	flutter síní
+T47	DISEASE 8309 8339	dekompenzované srdeční selhání
+T48	DISEASE 8630 8657	Srdeční a plicní sarkoidóza
+T49	DISEASE 8659 8726	Dilatační kardiomyopatie s těžkou systolickou dysfunkcí levé komory
+T35	DISEASE 8728 8743	Srdeční selhání

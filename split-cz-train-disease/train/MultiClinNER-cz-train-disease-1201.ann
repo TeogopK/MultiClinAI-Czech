@@ -1,0 +1,56 @@
+T20	DISEASE 86 100	lékové alergie
+T112	DISEASE 219 234	anginy pectoris
+T153	DISEASE 259 270	náhlé smrti
+T179	DISEASE 276 308	časné ischemické choroby srdeční
+T93	DISEASE 312 317	kuřák
+T21	DISEASE 365 386	arteriální hypertenze
+T69	DISEASE 388 391	AHT
+T160	DISEASE 484 502	srdeční onemocnění
+T22	DISEASE 527 543	úzkostná porucha
+T23	DISEASE 1239 1253	fibrilace síní
+T82	DISEASE 1255 1259	FiSi
+T132	DISEASE 1694 1718	kardiorespirační zástavy
+T181	DISEASE 2303 2317	žilní trombózy
+T5	DISEASE 2381 2396	fibrilace komor
+T24	DISEASE 2433 2447	fibrilace síní
+T39	DISEASE 2981 2999	poškození myokardu
+T25	DISEASE 3298 3310	valvulopatie
+T26	DISEASE 3354 3375	perikardiální výpotek
+T7	DISEASE 3957 4017	Mitrální chlopeň normálního vzhledu s minimální insuficiencí
+T28	DISEASE 4019 4062	Trikuspidální chlopeň s mírnou insuficiencí
+T27	DISEASE 4184 4205	perikardiální výpotek
+T29	DISEASE 4377 4421	Mírná-středně těžká koncentrická hypertrofie
+T129	DISEASE 4620 4648	hypertenzní srdeční chorobou
+T9	DISEASE 4734 4754	syndromu dlouhého QT
+T40	DISEASE 4915 4932	arytmické příhody
+T134	DISEASE 4946 4996	katecholaminergní polymorfní komorovou tachykardií
+T10	DISEASE 5016 5034	Brugadova syndromu
+T135	DISEASE 5338 5373	monomorfních komorových extrasystol
+T118	DISEASE 5387 5408	bloku pravého raménka
+T97	DISEASE 5410 5414	RBBB
+T113	DISEASE 5859 5877	arytmických příhod
+T30	DISEASE 6044 6055	kanálopatie
+T14	DISEASE 6061 6081	koronární vazospazmy
+T114	DISEASE 6256 6274	arytmických příhod
+T15	DISEASE 6405 6420	srdeční zástavy
+T38	DISEASE 6425 6433	Ischemie
+T34	DISEASE 6657 6677	plicní tromboembolie
+T95	DISEASE 6679 6682	PTE
+T161	DISEASE 6689 6706	srdeční tamponády
+T35	DISEASE 6821 6835	kardiomyopatie
+T31	DISEASE 6840 6851	Kanálopatie
+T17	DISEASE 6883 6902	syndrom dlouhého QT
+T18	DISEASE 6904 6919	Brugada syndrom
+T19	DISEASE 6922 6972	katecholaminergní polymorfní komorovou tachykardii
+T33	DISEASE 7062 7083	Koronární vazospazmus
+T152	DISEASE 7243 7254	náhlou smrt
+T131	DISEASE 7259 7293	časnou ischemickou chorobu srdeční
+T156	DISEASE 7308 7334	permanentní fibrilaci síní
+T155	DISEASE 7343 7370	paroxyzmální fibrilaci síní
+T159	DISEASE 7475 7490	srdeční choroby
+T55	DISEASE 7555 7582	idiopatické fibrilace komor
+T64	DISEASE 7771 7799	mimonemocniční zástava rytmu
+T36	DISEASE 7830 7857	Idiopatická fibrilace komor
+T37	DISEASE 7903 7932	strukturální onemocnění srdce
+T32	DISEASE 7999 8010	kanálopatie
+T72	DISEASE 8013 8023	vazospazmu

@@ -1,0 +1,31 @@
+T35	PROCEDURE 0 8	ANAMNÉZA
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T37	PROCEDURE 208 221	léčená dietou
+T46	PROCEDURE 244 252	anamnéza
+T59	PROCEDURE 591 609	elektrokardiogramu
+T19	PROCEDURE 611 614	EKG
+T21	PROCEDURE 779 795	pulzní oxymetrie
+T22	PROCEDURE 860 876	plicní ventilace
+T47	PROCEDURE 949 960	auskultačně
+T73	PROCEDURE 968 978	slyšitelné
+T45	PROCEDURE 1074 1083	VYŠETŘENÍ
+T20	PROCEDURE 1092 1095	EKG
+T29	PROCEDURE 1308 1334	markery poškození myokardu
+T36	PROCEDURE 1576 1588	Dopplerovský
+T58	PROCEDURE 1589 1603	echokardiogram
+T56	PROCEDURE 1976 1994	barevným dopplerem
+T31	PROCEDURE 2104 2130	magnetická rezonance srdce
+T23	PROCEDURE 2427 2454	Diagnostická koronarografie
+T65	PROCEDURE 2457 2477	koronární intervence
+T43	PROCEDURE 2554 2557	PCI
+T5	PROCEDURE 2560 2588	implantace 2 lékových stentů
+T24	PROCEDURE 2605 2630	neuromuskulární vyšetření
+T76	PROCEDURE 2997 3018	laboratorní vyšetření
+T30	PROCEDURE 3020 3029	Biochemie
+T61	PROCEDURE 3031 3039	glykémie
+T60	PROCEDURE 3233 3249	glykemie nalačno
+T6	PROCEDURE 3252 3257	HbA1C
+T62	PROCEDURE 3466 3488	kardiální rehabilitace
+T25	PROCEDURE 3752 3762	ergometrie
+T26	PROCEDURE 4268 4317	Perkutánní transluminální koronární angioplastika
+T27	PROCEDURE 4320 4351	implantace dvou lékových stentů

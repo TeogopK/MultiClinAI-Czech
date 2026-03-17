@@ -1,0 +1,39 @@
+T61	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 417 434	léčbě nočním CPAP
+T4	PROCEDURE 560 590	pravostrannou dolní lobektomií
+T62	PROCEDURE 1327 1346	Fyzikální vyšetření
+T63	PROCEDURE 1546 1562	Auskultace srdce
+T64	PROCEDURE 1626 1641	Auskultace plic
+T65	PROCEDURE 1922 1939	Elektrokardiogram
+T66	PROCEDURE 2091 2103	RTG hrudníku
+T9	PROCEDURE 2205 2227	pravé dolní lobektomie
+T67	PROCEDURE 2338 2367	Transtorakální echokardiogram
+T70	PROCEDURE 3491 3522	Transezofageální echokardiogram
+T68	PROCEDURE 4574 4603	transtorakální echokardiogram
+T71	PROCEDURE 4605 4636	Transezofageální echokardiogram
+T84	PROCEDURE 4652 4664	monitorování
+T73	PROCEDURE 4667 4715	Transseptální punkce pod ultrazvukovou kontrolou
+T74	PROCEDURE 5169 5183	3D planimetrie
+T81	PROCEDURE 5262 5275	dopplerovským
+T69	PROCEDURE 5478 5507	Transtorakální echokardiogram
+T85	PROCEDURE 5583 5635	Uzávěr mitrální chlopně pomocí dvou mitrálních klipů
+T86	PROCEDURE 6061 6156	Uzávěr defektu septa síní (ASD) sekundárně po intervenci pomocí perkutánního zařízení Amplatzer
+T75	PROCEDURE 6496 6518	léčba mitrální chlopně
+T92	PROCEDURE 6714 6747	perkutánní léčbu mitrální chlopně
+T93	PROCEDURE 6833 6850	celkové anestezii
+T94	PROCEDURE 6853 6864	monitorován
+T95	PROCEDURE 6865 6898	transezofageální echokardiografií
+T82	PROCEDURE 7145 7163	odstranění katétru
+T97	PROCEDURE 7194 7221	arteriálních krevních plynů
+T98	PROCEDURE 7272 7286	vitální funkce
+T72	PROCEDURE 7305 7336	Transezofageální echokardiogram
+T101	PROCEDURE 7521 7541	transseptální punkci
+T99	PROCEDURE 7571 7583	dopplerovský
+T104	PROCEDURE 7902 7967	perkutánním uzavření defektu septa síní pomocí zařízení Amplatzer
+T106	PROCEDURE 7980 7989	oxygenace
+T107	PROCEDURE 8076 8085	extubován
+T108	PROCEDURE 8216 8232	renálních funkcí
+T83	PROCEDURE 8294 8308	echokardiogram
+T109	PROCEDURE 8331 8357	umístění mitrálních svorek
+T111	PROCEDURE 8728 8771	perkutánně implantací dvou mitrálních klipů
+T114	PROCEDURE 8917 8964	Účinný uzávěr defektu pomocí zařízení Amplatzer

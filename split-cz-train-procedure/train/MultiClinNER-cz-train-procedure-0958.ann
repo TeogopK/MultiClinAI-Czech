@@ -1,0 +1,36 @@
+T36	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 175 206	hypotyreózy v substituční léčbě
+T35	PROCEDURE 209 238	operace náhrady levého kolena
+T37	PROCEDURE 957 976	FYZIKÁLNÍ VYŠETŘENÍ
+T38	PROCEDURE 1199 1215	Auskultace srdce
+T39	PROCEDURE 1286 1301	Auskultace plic
+T40	PROCEDURE 1559 1562	EKG
+T9	PROCEDURE 1702 1737	Přenosný rentgenový snímek hrudníku
+T41	PROCEDURE 1851 1859	Hemogram
+T56	PROCEDURE 1956 1965	Biochemie
+T58	PROCEDURE 2041 2046	ionty
+T57	PROCEDURE 2066 2092	markery poškození myokardu
+T42	PROCEDURE 2212 2221	Koagulace
+T43	PROCEDURE 2295 2324	Transtorakální echokardiogram
+T44	PROCEDURE 2624 2655	Transezofageální echokardiogram
+T52	PROCEDURE 2880 2903	Hemodynamické vyšetření
+T47	PROCEDURE 3301 3317	Ventrikulografie
+T48	PROCEDURE 3456 3469	Angioplastika
+T51	PROCEDURE 3523 3571	implantován stent 2,75 x 15 mm uvolňující léčivo
+T62	PROCEDURE 3582 3597	angiografickými
+T64	PROCEDURE 3608 3655	Střední léze LAD je poté predilatována balónkem
+T65	PROCEDURE 3661 3685	implantován lékový stent
+T66	PROCEDURE 3717 3731	angiografickým
+T49	PROCEDURE 3897 3915	ventilační podpora
+T67	PROCEDURE 3916 3949	neinvazivní mechanickou ventilací
+T50	PROCEDURE 3952 3984	diuretická a vazodilatační léčba
+T68	PROCEDURE 4077 4105	Echokardiografické vyšetření
+T46	PROCEDURE 4260 4280	hemodynamická studie
+T72	PROCEDURE 4457 4475	kardiochirurgickým
+T73	PROCEDURE 4518 4554	perkutánní revaskularizaci OM1 a ADA
+T75	PROCEDURE 4613 4639	perkutánní revaskularizaci
+T53	PROCEDURE 4865 4934	perkutánní léčbě patologie mitrální chlopně pomocí zařízení MitraClip
+T77	PROCEDURE 5014 5082	mitrální pozice implantován jeden klip, naváděný pomocí fluoroskopie
+T45	PROCEDURE 5085 5118	transezofageální echokardiografie
+T54	PROCEDURE 5575 5648	Částečná perkutánní revaskularizace (přední sestupná [AD] a okružní [Cx])
+T55	PROCEDURE 5714 5774	Perkutánní oprava mitrální chlopně pomocí zařízení MitraClip

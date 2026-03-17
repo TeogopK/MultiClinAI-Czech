@@ -1,0 +1,34 @@
+T34	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T35	PROCEDURE 658 677	Fyzikální vyšetření
+T36	PROCEDURE 959 981	hepatojugulární reflux
+T37	PROCEDURE 983 999	Auskultace srdce
+T38	PROCEDURE 1033 1048	Auskultace plic
+T51	PROCEDURE 1174 1191	Elektrokardiogram
+T39	PROCEDURE 1193 1196	EKG
+T40	PROCEDURE 1199 1202	EKG
+T41	PROCEDURE 1362 1365	EKG
+T14	PROCEDURE 1572 1584	Krevní testy
+T54	PROCEDURE 1818 1847	Biomarkery poškození myokardu
+T71	PROCEDURE 1969 1988	RT-PCR na SARS-CoV2
+T8	PROCEDURE 2001 2013	RTG hrudníku
+T15	PROCEDURE 2162 2216	Transtorakální echokardiogram: Přenosný echokardiogram
+T61	PROCEDURE 2603 2631	Echokardiografické vyšetření
+T44	PROCEDURE 2718 2730	Hemodynamika
+T45	PROCEDURE 2762 2776	koronarografie
+T46	PROCEDURE 3108 3122	koronarografie
+T112	PROCEDURE 3318 3329	katetrizací
+T49	PROCEDURE 3562 3570	Angio-CT
+T47	PROCEDURE 4044 4058	Koronarografie
+T52	PROCEDURE 5032 5049	elektrokardiogram
+T53	PROCEDURE 5146 5173	Diagnostická koronarografie
+T31	PROCEDURE 5382 5414	dvojitou protidestičkovou léčbou
+T85	PROCEDURE 5417 5430	antikoagulací
+T90	PROCEDURE 5540 5569	biomarkerů poškození myokardu
+T119	PROCEDURE 5897 5911	koronarografii
+T91	PROCEDURE 6185 6214	biomarkerů poškození myokardu
+T33	PROCEDURE 6217 6239	elektrokardiografickým
+T42	PROCEDURE 6322 6354	dvojitou protidestičkovou léčbou
+T48	PROCEDURE 6690 6708	angio-CT vyšetření
+T55	PROCEDURE 6784 6796	CT vyšetření
+T58	PROCEDURE 7087 7113	perorálních beta-blokátorů
+T59	PROCEDURE 7149 7156	nitrátů

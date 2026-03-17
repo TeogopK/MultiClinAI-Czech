@@ -1,0 +1,81 @@
+T30	SYMPTOM 586 602	bolestí na hrudi
+T31	SYMPTOM 729 753	nedilatovaná levá komora
+T33	SYMPTOM 821 863	normální ejekční frakcí levé komory (LVEF)
+T32	SYMPTOM 865 897	pseudonormální diastolický obraz
+T34	SYMPTOM 980 1043	Pravá komora (RV) není dilatovaná s normální systolickou funkcí
+T35	SYMPTOM 1134 1187	Odhadovaný normální systolický tlak v plicnici (PSAP)
+T2	SYMPTOM 1236 1243	dušnost
+T36	SYMPTOM 1269 1299	Normální dechové funkční testy
+T39	SYMPTOM 1960 1968	dušnosti
+T40	SYMPTOM 2025 2034	tachypnoí
+T41	SYMPTOM 2046 2060	dechovou tísní
+T3	SYMPTOM 2107 2114	dušnost
+T42	SYMPTOM 2172 2179	sípáním
+T43	SYMPTOM 2230 2238	dušností
+T44	SYMPTOM 2241 2255	dechovou prací
+T5	SYMPTOM 2279 2292	epigastralgie
+T6	SYMPTOM 2366 2371	kašel
+T45	SYMPTOM 2374 2378	rýmu
+T46	SYMPTOM 2383 2390	horečky
+T1	SYMPTOM 2399 2415	bolesti na hrudi
+T47	SYMPTOM 2433 2438	kašli
+T8	SYMPTOM 2445 2454	palpitace
+T9	SYMPTOM 2456 2464	Ortopnoe
+T10	SYMPTOM 2469 2495	paroxysmální noční dušnost
+T4	SYMPTOM 2574 2590	sníženou diurézu
+T48	SYMPTOM 2595 2617	otoky dolních končetin
+T7	SYMPTOM 2877 2886	afebrilní
+T11	SYMPTOM 3097 3103	vědomí
+T51	SYMPTOM 3105 3133	orientovaný ve třech sférách
+T52	SYMPTOM 3154 3181	pravidelným celkovým stavem
+T53	SYMPTOM 3183 3194	Tachyonický
+T54	SYMPTOM 3197 3209	přetahováním
+T55	SYMPTOM 3260 3267	šelesty
+T56	SYMPTOM 3272 3283	extratonusy
+T57	SYMPTOM 3298 3311	dechové zvuky
+T12	SYMPTOM 3332 3378	zachovalý vezikulární šelest (CVM) oboustranně
+T58	SYMPTOM 3381 3390	praskáním
+T59	SYMPTOM 3414 3434	roztroušeným sípáním
+T61	SYMPTOM 3444 3471	přítomny hydroaerické zvuky
+T60	SYMPTOM 3529 3552	peritoneálního dráždění
+T62	SYMPTOM 3560 3566	útvary
+T63	SYMPTOM 3571 3585	visceromegalie
+T64	SYMPTOM 3587 3609	Končetiny: žádné otoky
+T65	SYMPTOM 3621 3628	flogózy
+T66	SYMPTOM 4717 4758	vlnou Q ve III a amputací vlny R až do V5
+T13	SYMPTOM 4802 4832	Difuzní zploštění repolarizace
+T14	SYMPTOM 4856 4871	sinusový rytmus
+T67	SYMPTOM 4884 4911	Q vlna ve III a aVF i V1-V3
+T68	SYMPTOM 4978 4995	vodního přetížení
+T69	SYMPTOM 4998 5020	intersticiální kresbou
+T17	SYMPTOM 5143 5145	RS
+T70	SYMPTOM 5384 5412	mírnou systolickou dysfunkcí
+T19	SYMPTOM 7626 7662	Mikrobiologie: antigenurie negativní
+T20	SYMPTOM 7675 7688	RSV pozitivní
+T15	SYMPTOM 7729 7744	sinusový rytmus
+T71	SYMPTOM 7811 7834	Q dolní obličej a V1-V4
+T26	SYMPTOM 7837 7855	R amputované V5-V6
+T72	SYMPTOM 7857 7890	Negativní T prekordiální, I a aVL
+T73	SYMPTOM 7985 8003	nekrózu DIII a aVF
+T74	SYMPTOM 8072 8112	ST podúroveň v přední a laterální frontě
+T75	SYMPTOM 8115 8149	asymetrickými negativními vlnami T
+T16	SYMPTOM 8158 8173	sinusový rytmus
+T76	SYMPTOM 8233 8251	nekrózu DIII a aVF
+T77	SYMPTOM 8288 8345	s elevací ST segmentu v přední a laterální části obličeje
+T78	SYMPTOM 8348 8382	asymetrickými negativními T vlnami
+T27	SYMPTOM 9358 9394	nedilatovaná LK s normální tloušťkou
+T28	SYMPTOM 9460 9518	akineze bazálního a středního a dolního bazálního segmentu
+T21	SYMPTOM 9562 9594	RV s normální systolickou funkcí
+T18	SYMPTOM 9830 9855	Dutá žíla není dilatovaná
+T79	SYMPTOM 9946 9967	LK normální velikosti
+T23	SYMPTOM 10019 10038	Globální hypokineze
+T80	SYMPTOM 10040 10102	Těžká hypokineze v bazálním-středním inferolaterálním segmentu
+T24	SYMPTOM 10262 10312	Normální velikost RV s normální systolickou funkcí
+T22	SYMPTOM 11121 11150	zvýšené jaterní funkční testy
+T82	SYMPTOM 11421 11442	respiračním příznakům
+T83	SYMPTOM 11448 11527	odebrána virová sérologie, která byla pozitivní na respirační syncytiální virus
+T84	SYMPTOM 11835 11851	sinusovému rytmu
+T86	SYMPTOM 12181 12210	s elevacemi ST v dolní frontě
+T25	SYMPTOM 12772 12781	anhedonie
+T88	SYMPTOM 12783 12789	abulie
+T90	SYMPTOM 13520 13542	psychotickými příznaky

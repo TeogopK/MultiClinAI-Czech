@@ -1,0 +1,90 @@
+T66	DISEASE 68 82	lékové alergie
+T67	DISEASE 84 102	Tuberózní skleróza
+T68	DISEASE 105 114	epilepsie
+T69	DISEASE 351 360	Rabdomyom
+T39	DISEASE 383 416	Oboustranné angiomyolipomy ledvin
+T99	DISEASE 418 441	Obličejové angiofibromy
+T70	DISEASE 443 474	Obří subependymální astrocytomy
+T100	DISEASE 483 508	mozkové korové tuberozity
+T101	DISEASE 510 524	Toxické návyky
+T255	DISEASE 1292 1307	zvětšené orgány
+T219	DISEASE 1348 1370	hluboké žilní trombózy
+T71	DISEASE 2740 2760	erozivní ezofagitida
+T253	DISEASE 3499 3508	varicella
+T3	DISEASE 3588 3591	HSV
+T254	DISEASE 3593 3609	varicella zoster
+T4	DISEASE 3611 3626	cytomegalovirus
+T5	DISEASE 3628 3640	Epstein-Baar
+T6	DISEASE 3643 3655	hepatitidu A
+T235	DISEASE 3815 3822	litiázy
+T72	DISEASE 4027 4042	ledvinové cysty
+T74	DISEASE 4073 4090	pleurální výpotek
+T230	DISEASE 4160 4177	jaterním selhaním
+T75	DISEASE 4184 4201	pleurální výpotek
+T64	DISEASE 4380 4393	kardiomegalie
+T78	DISEASE 4584 4605	Perikardiální výpotek
+T76	DISEASE 4642 4659	pleurální výpotek
+T84	DISEASE 4742 4769	Oboustranné ledvinové cysty
+T85	DISEASE 5014 5030	pneumoperitoneum
+T86	DISEASE 6004 6007	AVB
+T8	DISEASE 6043 6080	poruchami intraventrikulárního vedení
+T103	DISEASE 6167 6185	dilatace levé síně
+T241	DISEASE 6226 6245	pleurálního výpotku
+T118	DISEASE 6564 6583	Dilatovaná levá síň
+T154	DISEASE 6628 6650	diastolickou dysfunkcí
+T9	DISEASE 6740 6749	koarktace
+T136	DISEASE 6784 6796	dysfunkcí RV
+T228	DISEASE 6818 6844	trikuspidální insuficience
+T229	DISEASE 6928 6949	mitrální insuficience
+T79	DISEASE 6971 6992	perikardiální výpotek
+T87	DISEASE 7026 7050	dilatační kardiomyopatie
+T115	DISEASE 7052 7056	DKMP
+T149	DISEASE 7060 7085	biventrikulární dysfunkcí
+T90	DISEASE 7087 7105	Těžká dysfunkce LK
+T102	DISEASE 7107 7128	Diastolická dysfunkce
+T92	DISEASE 7155 7172	Plicní hypertenze
+T132	DISEASE 7174 7176	PH
+T93	DISEASE 7179 7206	Mírný perikardiální výpotek
+T12	DISEASE 7384 7390	stenóz
+T11	DISEASE 7488 7504	kalciových plátů
+T10	DISEASE 7579 7586	stenózy
+T96	DISEASE 7728 7735	trombus
+T94	DISEASE 7738 7765	Mírný perikardiální výpotek
+T105	DISEASE 7767 7784	Dilatace plicnice
+T97	DISEASE 7807 7827	plicní tromboembolie
+T133	DISEASE 7829 7836	EP, EAP
+T243	DISEASE 7860 7874	plicního edému
+T77	DISEASE 7922 7939	pleurální výpotek
+T232	DISEASE 7970 7986	koronárních lézí
+T13	DISEASE 8062 8111	Levá komora výrazně dilatovaná s těžkou dysfunkcí
+T134	DISEASE 8203 8252	Pravá komora stejně dilatovaná s těžkou dysfunkcí
+T65	DISEASE 8397 8415	Zvětšení obou síní
+T14	DISEASE 8475 8487	Dilatace VCI
+T95	DISEASE 8497 8524	Mírný perikardiální výpotek
+T214	DISEASE 8540 8554	edému myokardu
+T239	DISEASE 8666 8692	nekompaktní kardiomyopatii
+T98	DISEASE 8893 8923	těžká dilatační kardiomyopatie
+T251	DISEASE 8926 8958	těžkou biventrikulární dysfunkcí
+T104	DISEASE 9128 9146	dilatace levé síně
+T15	DISEASE 9154 9175	alveolární infiltráty
+T242	DISEASE 9187 9206	pleurálního výpotku
+T156	DISEASE 9974 9998	dilatační kardiomyopatií
+T157	DISEASE 10147 10171	dilatační kardiomyopatií
+T119	DISEASE 10511 10530	Dilatovaná levá síň
+T138	DISEASE 10667 10669	TR
+T83	DISEASE 10755 10776	perikardiální výpotek
+T116	DISEASE 10785 10789	DKMP
+T150	DISEASE 10792 10817	biventrikulární dysfunkcí
+T91	DISEASE 10819 10837	Těžká dysfunkce LK
+T155	DISEASE 11101 11125	dilatační kardiomyopatii
+T252	DISEASE 11128 11160	těžkou biventrikulární dysfunkcí
+T238	DISEASE 11262 11274	myokarditidu
+T117	DISEASE 11596 11600	DKMP
+T249	DISEASE 11768 11785	srdečního selhání
+T211	DISEASE 12696 12717	dysfunkcí levé komory
+T18	DISEASE 12720 12731	asynchronií
+T158	DISEASE 12958 12982	dilatační kardiomyopatií
+T89	DISEASE 13131 13155	Dilatační kardiomyopatie
+T19	DISEASE 13169 13188	tuberózní sklerózou
+T212	DISEASE 13254 13275	dysfunkcí levé komory
+T20	DISEASE 13278 13289	asynchronií

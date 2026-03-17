@@ -1,0 +1,16 @@
+T4	PROCEDURE 234 256	intraorálním vyšetření
+T5	PROCEDURE 259 266	analýze
+T10	PROCEDURE 259 301	analýze periapikálního rentgenového snímku
+T12	PROCEDURE 322 353	odstraněna tkáň postižená kazem
+T14	PROCEDURE 371 433	preparace dutiny I. třídy Black a vyplněna stříbrným amalgámem
+T6	PROCEDURE 573 594	Intraorální vyšetření
+T15	PROCEDURE 708 747	stoličkou obnovenou stříbrným amalgámem
+T16	PROCEDURE 1032 1050	amalgámová náhrada
+T7	PROCEDURE 1237 1266	stříbrnou amalgámovou náhradu
+T8	PROCEDURE 1422 1446	histologickému potvrzení
+T1	PROCEDURE 1470 1477	biopsie
+T9	PROCEDURE 1484 1518	Patologické vyšetření biopsie léze
+T13	PROCEDURE 1947 1974	Anatomopatologická diagnóza
+T3	PROCEDURE 2026 2038	histologický
+T2	PROCEDURE 2202 2229	stříbrné amalgámové náhrady
+T11	PROCEDURE 2345 2403	Výplně ostatních zubů byly zhotoveny kompozitní pryskyřicí

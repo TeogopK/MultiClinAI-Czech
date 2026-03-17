@@ -1,0 +1,36 @@
+T3	PROCEDURE 796 818	bronchodilatační léčbě
+T66	PROCEDURE 1108 1127	FYZIKÁLNÍ VYŠETŘENÍ
+T50	PROCEDURE 1222 1238	Auskultace srdce
+T51	PROCEDURE 1347 1364	Plicní auskultace
+T52	PROCEDURE 1573 1590	Elektrokardiogram
+T53	PROCEDURE 1592 1595	EKG
+T54	PROCEDURE 1720 1723	EKG
+T55	PROCEDURE 2807 2833	Rentgenový snímek hrudníku
+T64	PROCEDURE 3094 3123	Transtorakální echokardiogram
+T56	PROCEDURE 4291 4317	Magnetická rezonance srdce
+T10	PROCEDURE 4319 4322	CMR
+T11	PROCEDURE 4328 4350	Morfologické vyšetření
+T14	PROCEDURE 4585 4601	podání kontrastu
+T18	PROCEDURE 5050 5066	podání kontrastu
+T21	PROCEDURE 5346 5368	Vyšetření funkce komor
+T22	PROCEDURE 5765 5785	Kvantifikace průtoku
+T57	PROCEDURE 6488 6512	Endomyokardiální biopsie
+T76	PROCEDURE 6692 6716	Pravostranná katetrizace
+T59	PROCEDURE 6985 7001	Ultrazvuk břicha
+T67	PROCEDURE 7034 7047	Mikrobiologie
+T60	PROCEDURE 7049 7063	krevní kultury
+T62	PROCEDURE 7083 7097	Kultivace moči
+T61	PROCEDURE 7124 7138	Krevní kultury
+T63	PROCEDURE 7157 7171	Kultivace moči
+T68	PROCEDURE 7190 7199	Sérologie
+T78	PROCEDURE 7673 7687	depleční léčba
+T79	PROCEDURE 7731 7759	echokardiografické vyšetření
+T83	PROCEDURE 8090 8106	renálních funkcí
+T84	PROCEDURE 8117 8133	jaterních enzymů
+T85	PROCEDURE 8136 8146	koagulační
+T86	PROCEDURE 8345 8362	inotropní podporu
+T69	PROCEDURE 8596 8605	diuretika
+T88	PROCEDURE 8635 8638	CMR
+T58	PROCEDURE 8811 8835	endomyokardiální biopsie
+T92	PROCEDURE 8885 8910	katetrizace pravého srdce
+T65	PROCEDURE 9108 9147	předtransplantační kardiologická studie

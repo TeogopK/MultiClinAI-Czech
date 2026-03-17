@@ -1,0 +1,29 @@
+T27	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T25	PROCEDURE 422 434	apendektomie
+T26	PROCEDURE 436 452	cholecystektomie
+T28	PROCEDURE 974 993	Fyzikální vyšetření
+T4	PROCEDURE 1236 1238	AS
+T5	PROCEDURE 1319 1321	AP
+T29	PROCEDURE 1581 1584	EKG
+T30	PROCEDURE 1681 1693	RTG hrudníku
+T6	PROCEDURE 1785 1821	Skřípnutí obou kostofrenických dutin
+T31	PROCEDURE 1837 1860	arteriální krevní plyny
+T38	PROCEDURE 1907 1916	Biochemie
+T7	PROCEDURE 2071 2085	Hemocytometrie
+T37	PROCEDURE 2188 2197	Koagulace
+T32	PROCEDURE 2283 2306	Angio-CT plicních tepen
+T33	PROCEDURE 2713 2742	Transtorakální echokardiogram
+T34	PROCEDURE 3209 3223	Koronarografie
+T36	PROCEDURE 4123 4138	kardiochirurgie
+T35	PROCEDURE 4210 4224	koronarografie
+T42	PROCEDURE 4296 4340	oxygenoterapie se 100% kyslíkovým zásobníkem
+T39	PROCEDURE 4342 4365	intravenózní diuretikum
+T43	PROCEDURE 4380 4394	inhibitorů ACE
+T44	PROCEDURE 4532 4548	mimotělním oběhu
+T45	PROCEDURE 4561 4624	aortokoronární safénový bypass do střední pravé koronární tepny
+T48	PROCEDURE 4882 4947	výměně mitrální chlopně, a to implantací biologické protézy č. 27
+T49	PROCEDURE 4982 5005	výměna mitrální chlopně
+T51	PROCEDURE 5207 5224	inotropní podpory
+T50	PROCEDURE 5236 5274	intraaortální balónkovou kontrapulzaci
+T54	PROCEDURE 5778 5799	fyzickou rehabilitací
+T55	PROCEDURE 5920 5935	kardiochirurgem

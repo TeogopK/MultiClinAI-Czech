@@ -1,0 +1,25 @@
+T11	PROCEDURE 119 141	Valsalvových manévrech
+T12	PROCEDURE 192 201	analgetik
+T9	PROCEDURE 341 373	Celkové a neurologické vyšetření
+T6	PROCEDURE 423 447	Oftalmologické vyšetření
+T7	PROCEDURE 504 525	Vnitřní oční motilita
+T13	PROCEDURE 527 554	vyšetření předního segmentu
+T17	PROCEDURE 593 616	Funduskopické vyšetření
+T5	PROCEDURE 652 678	Fluoresceinová angiografie
+T14	PROCEDURE 727 834	Vyšetření vrstvy nervových vláken (rychlá strategie RNFL) pomocí optické koherentní tomografie (Stratus OCT
+T15	PROCEDURE 792 821	optické koherentní tomografie
+T8	PROCEDURE 823 834	Stratus OCT
+T16	PROCEDURE 971 990	Orbitální ultrazvuk
+T2	PROCEDURE 992 1021	počítačová axiální tomografie
+T4	PROCEDURE 1024 1046	automatická perimetrie
+T1	PROCEDURE 1077 1092	lumbální punkce
+T18	PROCEDURE 1149 1187	složením mozkomíšního moku a sérologií
+T19	PROCEDURE 1189 1222	Analytická a koagulační vyšetření
+T25	PROCEDURE 1261 1281	hormonů štítné žlázy
+T26	PROCEDURE 1284 1312	antityreoidálních protilátek
+T27	PROCEDURE 1329 1349	Magnetická rezonance
+T3	PROCEDURE 1351 1354	MRI
+T20	PROCEDURE 1358 1372	fleborezonance
+T21	PROCEDURE 1571 1611	venografie a manometrie kraniální dutiny
+T22	PROCEDURE 1822 1851	dilatace pomocí angioplastiky
+T10	PROCEDURE 1854 1864	stentování

@@ -1,0 +1,16 @@
+T12	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T20	PROCEDURE 266 298	implantaci DDD kardiostimulátoru
+T21	PROCEDURE 483 491	anamnéze
+T13	PROCEDURE 552 571	Fyzikální vyšetření
+T14	PROCEDURE 701 717	Auskultace srdce
+T15	PROCEDURE 741 756	Auskultace plic
+T22	PROCEDURE 916 930	Kultivace krve
+T23	PROCEDURE 979 1027	Transtorakální a transezofageální echokardiogram
+T16	PROCEDURE 1227 1235	CT srdce
+T17	PROCEDURE 1334 1340	PET/CT
+T26	PROCEDURE 1578 1601	operaci náhrady chlopně
+T18	PROCEDURE 1632 1638	PET/CT
+T28	PROCEDURE 1830 1860	kardiostimulátor neodstraňovat
+T27	PROCEDURE 1895 1913	antibiotická léčba
+T29	PROCEDURE 1966 1994	echokardiografické vyšetření
+T19	PROCEDURE 2255 2278	Operace náhrady chlopně

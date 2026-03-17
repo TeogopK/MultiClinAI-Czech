@@ -1,0 +1,69 @@
+T78	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 273 294	kochleární implantací
+T3	PROCEDURE 324 343	elektrokardiogramem
+T77	PROCEDURE 345 348	EKG
+T5	PROCEDURE 473 502	elektrofyziologické vyšetření
+T6	PROCEDURE 505 528	ablaci akcesorních drah
+T79	PROCEDURE 860 879	Fyzikální vyšetření
+T80	PROCEDURE 1178 1201	Auskultace srdce a plic
+T7	PROCEDURE 1351 1358	palpaci
+T81	PROCEDURE 2044 2072	Plynová analýza venózní krve
+T82	PROCEDURE 2121 2147	Rentgenový snímek hrudníku
+T83	PROCEDURE 2306 2322	echokardiografie
+T86	PROCEDURE 3386 3395	Sérologie
+T87	PROCEDURE 3407 3438	sérologie na virus hepatitidy C
+T111	PROCEDURE 3566 3569	PCR
+T88	PROCEDURE 3681 3695	Koronarografie
+T92	PROCEDURE 3823 3835	krevní obraz
+T90	PROCEDURE 4168 4180	proteinogram
+T10	PROCEDURE 4362 4375	Lehké řetězce
+T11	PROCEDURE 4432 4457	Bílkoviny v 24 sběru moči
+T12	PROCEDURE 4537 4549	Krevní obraz
+T84	PROCEDURE 4757 4773	Echokardiografie
+T19	PROCEDURE 6190 6225	Vyšetření trombofilie a autoimunity
+T20	PROCEDURE 6333 6351	koagulační faktory
+T93	PROCEDURE 6561 6577	Rektální biopsie
+T21	PROCEDURE 6638 6663	obarvení konžskou červení
+T94	PROCEDURE 6765 6788	Biopsie podkožního tuku
+T22	PROCEDURE 6825 6852	techniky s konžskou červení
+T85	PROCEDURE 6977 6993	Echokardiografie
+T95	PROCEDURE 7458 7464	PET-CT
+T98	PROCEDURE 8003 8006	PET
+T119	PROCEDURE 8156 8172	DPD scintigrafie
+T97	PROCEDURE 8242 8256	kostního skenu
+T100	PROCEDURE 9107 9155	Genetické vyšetření mitochondriálního onemocnění
+T101	PROCEDURE 9367 9391	Endomyokardiální biopsie
+T108	PROCEDURE 9802 9828	markerů poškození myokardu
+T124	PROCEDURE 9853 9880	infuzi objemových expandérů
+T126	PROCEDURE 9892 9934	oxygenoterapie pomocí Ventimasku FiO2 31 %
+T125	PROCEDURE 9942 9962	antibiotické terapie
+T128	PROCEDURE 10089 10107	vazoaktivními léky
+T129	PROCEDURE 10172 10200	echokardiografické vyšetření
+T110	PROCEDURE 10371 10384	antikoagulace
+T89	PROCEDURE 10440 10454	koronarografie
+T134	PROCEDURE 10771 10790	vazoaktivní podporu
+T112	PROCEDURE 10808 10821	funkce ledvin
+T136	PROCEDURE 10880 10896	nosními kanylami
+T137	PROCEDURE 10935 10957	kontrolou plynů v krvi
+T138	PROCEDURE 11081 11101	vazoaktivních lécích
+T139	PROCEDURE 11103 11106	VAD
+T140	PROCEDURE 11323 11377	metatarzofalangeální amputaci druhé-čtvrté falangy MII
+T143	PROCEDURE 11635 11654	srdečních markerech
+T144	PROCEDURE 11657 11680	reaktantech akutní fáze
+T104	PROCEDURE 11695 11712	sérologické testy
+T105	PROCEDURE 11867 11881	krevní kultury
+T145	PROCEDURE 11919 11934	kardioMRI s LGE
+T76	PROCEDURE 11972 11992	kochleární implantát
+T146	PROCEDURE 12143 12161	vazoaktivních léků
+T103	PROCEDURE 12228 12242	echokardiogram
+T149	PROCEDURE 12828 12849	etiologické vyšetření
+T150	PROCEDURE 12965 12985	koagulační vyšetření
+T91	PROCEDURE 13223 13235	Proteinogram
+T113	PROCEDURE 13243 13263	lehké řetězce v moči
+T106	PROCEDURE 13281 13340	biopsie rekta a podkožního tuku s barvením konžskou červení
+T99	PROCEDURE 13435 13471	vyšetření technecium-99 difosfonátem
+T96	PROCEDURE 13573 13625	celotělové PET-CT vyšetření s 18 fluorodeoxyglukózou
+T107	PROCEDURE 14553 14569	diuretická léčba
+T161	PROCEDURE 14998 15017	genetické vyšetření
+T102	PROCEDURE 15526 15550	endomyokardiální biopsie
+T109	PROCEDURE 16026 16055	amputace dolních článků prstů

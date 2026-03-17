@@ -1,0 +1,48 @@
+T15	SYMPTOM 517 535	celkové malátnosti
+T16	SYMPTOM 537 545	dušnosti
+T17	SYMPTOM 548 570	suprasternální bolesti
+T18	SYMPTOM 573 584	palpitacemi
+T19	SYMPTOM 1257 1275	Běžný celkový stav
+T1	SYMPTOM 1281 1287	vědomí
+T20	SYMPTOM 1289 1313	orientovaný ve 3 sférách
+T21	SYMPTOM 1316 1330	spolupracující
+T3	SYMPTOM 1332 1346	Normální barva
+T22	SYMPTOM 1348 1364	normohydratovaný
+T23	SYMPTOM 1367 1384	normoperfundovaný
+T25	SYMPTOM 1388 1416	klidu diskrétně tachypnoický
+T24	SYMPTOM 1427 1445	dechovou dynamikou
+T4	SYMPTOM 1473 1494	jugulární ingurgitace
+T5	SYMPTOM 1550 1586	rytmické, tachykardické srdeční ozvy
+T26	SYMPTOM 1608 1615	šelesty
+T27	SYMPTOM 1620 1631	zvuky navíc
+T6	SYMPTOM 1650 1699	zachovalý vezikulární šelest v obou hemithoraxech
+T28	SYMPTOM 1707 1718	extra zvuky
+T29	SYMPTOM 1728 1760	hydroaerické zvuky jsou přítomny
+T30	SYMPTOM 1814 1859	nebolestivé při povrchové ani hluboké palpaci
+T31	SYMPTOM 1872 1895	peritoneálního dráždění
+T32	SYMPTOM 1914 1956	pulzy na nohách jsou přítomny a symetrické
+T7	SYMPTOM 1964 1968	otok
+T33	SYMPTOM 2073 2090	zvýšený NT proBNP
+T34	SYMPTOM 2227 2272	hypodenzní masa zabírající levou plicní tepnu
+T35	SYMPTOM 2373 2429	masa podobných charakteristik v pravé interlobární tepně
+T12	SYMPTOM 2635 2657	přetížení pravé komory
+T37	SYMPTOM 3117 3153	intraluminálních hmot v plicní tepně
+T36	SYMPTOM 3156 3181	vnějším útlakem duté žíly
+T8	SYMPTOM 3183 3210	Normální funkce levé komory
+T38	SYMPTOM 3315 3361	sérologie na hydatidózu, která byla pozitivní,
+T40	SYMPTOM 3444 3458	praziquantelem
+T13	SYMPTOM 3520 3529	hypoxémie
+T9	SYMPTOM 3702 3724	hemodynamicky stabilní
+T10	SYMPTOM 3764 3781	zvýšení NT-proBNP
+T41	SYMPTOM 3871 3882	neutrofilií
+T14	SYMPTOM 3940 3973	Pozitivní sérologie na hydatidózu
+T42	SYMPTOM 4184 4223	intraluminálními hmotami v plicní tepně
+T43	SYMPTOM 4226 4254	mimotělním útlakem duté žíly
+T44	SYMPTOM 4264 4291	normální funkci levé komory
+T47	SYMPTOM 4952 4962	adrenalinu
+T48	SYMPTOM 5350 5373	zhoršování hemodynamiky
+T54	SYMPTOM 6939 6948	hypotenzí
+T55	SYMPTOM 7053 7068	plicní kongescí
+T56	SYMPTOM 7136 7157	zhoršení hemodynamiky
+T2	SYMPTOM 7445 7467	zhoršením hemodynamiky
+T11	SYMPTOM 7654 7667	ztráta vědomí

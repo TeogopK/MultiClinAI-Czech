@@ -1,0 +1,17 @@
+T1	PROCEDURE 115 134	fyzikální vyšetření
+T6	PROCEDURE 137 154	laboratorní testy
+T5	PROCEDURE 173 195	Radiologické vyšetření
+T7	PROCEDURE 242 262	CT břicha a hrudníku
+T2	PROCEDURE 323 335	Gastroskopie
+T9	PROCEDURE 337 351	baryové klyzma
+T3	PROCEDURE 353 388	ultrazvuk břicha, varlat a prostaty
+T8	PROCEDURE 447 494	biopsie kostní dřeně z hřebene kyčelního kloubu
+T10	PROCEDURE 496 521	Mikroskopicky kostní dřeň
+T12	PROCEDURE 891 919	Imunohistochemické vyšetření
+T13	PROCEDURE 1259 1284	barvením konžskou červení
+T11	PROCEDURE 1681 1758	ultrazvukově nalezen malý solidní uzel štítné žlázy s vápníkem v levém laloku
+T14	PROCEDURE 1772 1781	odstraněn
+T15	PROCEDURE 1872 1900	chemoterapie (CDDP-ADR-VP16)
+T16	PROCEDURE 1964 2019	paliativní radioterapie na dorzální část bederní páteře
+T17	PROCEDURE 2069 2092	chemoterapie (CTX-DTIC)
+T18	PROCEDURE 2285 2290	pitvě

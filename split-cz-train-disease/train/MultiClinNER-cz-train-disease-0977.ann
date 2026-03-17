@@ -1,0 +1,35 @@
+T32	DISEASE 132 146	lékové alergie
+T34	DISEASE 183 195	bývalý kuřák
+T20	DISEASE 218 239	Arteriální hypertenze
+T21	DISEASE 253 265	Dyslipidemie
+T125	DISEASE 533 569	středně těžkou mitrální insuficienci
+T83	DISEASE 665 693	Těžký syndrom spánkové apnoe
+T22	DISEASE 726 746	Chronická gastritida
+T23	DISEASE 749 763	hiátová hernie
+T24	DISEASE 765 783	Depresivní syndrom
+T25	DISEASE 816 836	somatoformní poruchy
+T1	DISEASE 838 899	Ochrnutí levé hlasivky po prolongované orotracheální intubaci
+T2	DISEASE 904 921	virovou pneumonii
+T3	DISEASE 952 1008	lokalizované neoplazie prostaty bez vzdáleného rozšíření
+T4	DISEASE 1270 1283	zástavě oběhu
+T33	DISEASE 2951 2964	kardiomegalie
+T119	DISEASE 3041 3056	plicní kongesce
+T30	DISEASE 3135 3155	Levý přední hemiblok
+T27	DISEASE 3274 3305	akutní intrakraniální patologie
+T19	DISEASE 3421 3478	Levá komora (LK) normální velikosti a mírně hypertrofická
+T9	DISEASE 3627 3688	Mitrální regurgitace nejméně středně těžká, velmi excentrická
+T28	DISEASE 3770 3791	perikardiální výpotek
+T10	DISEASE 4004 4097	Mitrální insuficience minimálně středně těžká (pravděpodobně těžká) s prolapsem zadních listů
+T11	DISEASE 4159 4220	těžká mitrální insuficience způsobená prolapsem zadních listů
+T129	DISEASE 4334 4393	mitrální prolaps s přidruženou těžkou mitrální insuficiencí
+T13	DISEASE 4395 4408	Dilatovaná LK
+T109	DISEASE 4820 4844	kardiorespirační zástavy
+T14	DISEASE 4944 4973	maligního mitrálního prolapsu
+T115	DISEASE 5051 5093	nesetrvalé monomorfní komorové tachykardie
+T94	DISEASE 5120 5141	bloku pravého raménka
+T15	DISEASE 5163 5198	mitrální insuficienci s dilatací LK
+T29	DISEASE 5816 5848	Maligní prolaps mitrální chlopně
+T80	DISEASE 5850 5888	Resuscitovaná kardiorespirační zástava
+T26	DISEASE 5917 5976	Těžká mitrální regurgitace sekundární k mitrálnímu prolapsu
+T35	DISEASE 5978 5998	Dilatace levé komory
+T31	DISEASE 6000 6043	Neudržované monoformní komorové tachykardie

@@ -1,0 +1,29 @@
+T12	PROCEDURE 64 83	fyzikální vyšetření
+T1	PROCEDURE 135 155	Osteosyntéza při EID
+T3	PROCEDURE 429 440	antibiotiky
+T14	PROCEDURE 540 543	EKG
+T13	PROCEDURE 546 565	Fyzikální vyšetření
+T17	PROCEDURE 673 689	Auskultace srdce
+T18	PROCEDURE 714 729	Auskultace plic
+T15	PROCEDURE 921 924	EKG
+T25	PROCEDURE 1026 1048	Katetrizační vyšetření
+T19	PROCEDURE 1050 1064	Koronarografie
+T21	PROCEDURE 1111 1132	Levá ventrikulografie
+T22	PROCEDURE 1224 1238	Echokardiogram
+T23	PROCEDURE 1441 1450	MRI srdce
+T24	PROCEDURE 1801 1827	Elektrofyziologická studie
+T30	PROCEDURE 1836 1884	digitálního anatomického rekonstrukčního systému
+T31	PROCEDURE 2203 2265	radiofrekvenčních aplikací v okolí proleženin v sinusovém rytm
+T16	PROCEDURE 2309 2312	EKG
+T33	PROCEDURE 2390 2396	sedaci
+T32	PROCEDURE 2425 2428	EKV
+T20	PROCEDURE 2597 2611	koronarografie
+T34	PROCEDURE 2749 2785	léčba inhibitory ACE a betablokátory
+T35	PROCEDURE 2831 2849	echokardiografické
+T36	PROCEDURE 2919 2935	ventrikulografií
+T37	PROCEDURE 2962 2988	magnetická rezonance srdce
+T39	PROCEDURE 3040 3070	elektrofyziologickém vyšetření
+T40	PROCEDURE 3087 3102	implantován ICD
+T42	PROCEDURE 3134 3148	inhibitory ACE
+T41	PROCEDURE 3151 3164	betablokátory
+T26	PROCEDURE 3248 3251	CVE

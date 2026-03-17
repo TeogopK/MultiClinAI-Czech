@@ -1,0 +1,35 @@
+T14	DISEASE 79 93	lékové alergie
+T1	DISEASE 111 116	kouří
+T2	DISEASE 176 186	hypertenze
+T3	DISEASE 188 190	HT
+T15	DISEASE 193 205	dyslipidémie
+T16	DISEASE 227 244	diabetes mellitus
+T17	DISEASE 246 248	DM
+T18	DISEASE 251 286	Recidivující nádor močového měchýře
+T19	DISEASE 331 379	Prostatická neoplazie s metastatickým postižením
+T8	DISEASE 1771 1805	chronické obstrukční plicní nemoci
+T20	DISEASE 1807 1812	CHOPN
+T21	DISEASE 1835 1846	pneumotorax
+T22	DISEASE 1848 1861	Kardiomegalie
+T23	DISEASE 1863 1894	Kalcifikovaná ateromatóza aorty
+T24	DISEASE 1918 1935	pleurální výpotek
+T10	DISEASE 2197 2245	Pravá koronární tepna (RCA): dominantní, klikatá
+T11	DISEASE 2305 2326	trombotickým uzávěrem
+T12	DISEASE 2436 2505	defekt komorového septa v důsledku ruptury interventrikulárního septa
+T36	DISEASE 2725 2760	dilatace pravé komory a levé komory
+T35	DISEASE 2903 2943	Aortální chlopeň je mírně sklerotizovaná
+T13	DISEASE 2969 3066	Mitrální chlopeň vykazuje známky prstencové fibrózy, zachovalé otevírání a centrální insuficienci
+T25	DISEASE 3170 3196	trikuspidální insuficience
+T47	DISEASE 3198 3200	TI
+T26	DISEASE 3302 3323	perikardiální výpotek
+T48	DISEASE 3409 3435	akutního infarktu myokardu
+T27	DISEASE 3493 3536	trombotický uzávěr ve středním segmentu RCA
+T49	DISEASE 3575 3605	infarkt považován za subakutní
+T28	DISEASE 3692 3709	srdečního selhání
+T50	DISEASE 3754 3778	rupturu komorového septa
+T34	DISEASE 3808 3823	levopravý zkrat
+T29	DISEASE 4259 4276	srdečního selhání
+T33	DISEASE 4373 4402	akutní dolní infarkt myokardu
+T30	DISEASE 4404 4472	Trombotický uzávěr nerevaskularizované střední pravé koronární tepny
+T31	DISEASE 4474 4498	Ruptura komorového septa
+T32	DISEASE 4500 4527	Refrakterní srdeční selhání

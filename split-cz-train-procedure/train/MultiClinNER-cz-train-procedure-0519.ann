@@ -1,0 +1,24 @@
+T14	PROCEDURE 64 85	antiretrovirové léčby
+T5	PROCEDURE 348 365	léčba antibiotiky
+T18	PROCEDURE 368 403	nesteroidními protizánětlivými léky
+T8	PROCEDURE 612 627	kortikosteroidy
+T10	PROCEDURE 719 737	chirurgická drenáž
+T11	PROCEDURE 794 804	analgetika
+T22	PROCEDURE 823 841	antibiotický režim
+T24	PROCEDURE 1064 1084	fyzikálním vyšetření
+T7	PROCEDURE 1410 1450	submandibulární adenomegalie byla hmatná
+T2	PROCEDURE 1523 1542	fyzikální vyšetření
+T9	PROCEDURE 1587 1613	Rentgenový snímek hrudníku
+T32	PROCEDURE 1955 1972	Sérologické testy
+T34	PROCEDURE 2215 2244	Ultrazvukové vyšetření břicha
+T3	PROCEDURE 2362 2377	excizní biopsie
+T4	PROCEDURE 2379 2405	histopatologické vyšetření
+T6	PROCEDURE 2677 2693	Imunohistochemie
+T38	PROCEDURE 2919 2944	Mikrobiologická vyšetření
+T13	PROCEDURE 3027 3052	histopatologická diagnóza
+T12	PROCEDURE 3084 3104	Biopsie kostní dřeně
+T43	PROCEDURE 3160 3179	Barvení podle Grama
+T15	PROCEDURE 3181 3189	Grocotta
+T16	PROCEDURE 3192 3206	Ziehl Neelsena
+T1	PROCEDURE 3254 3266	chemoterapie
+T17	PROCEDURE 3273 3289	schématu EPOCH-R

@@ -1,0 +1,27 @@
+T3	PROCEDURE 356 369	antiagregační
+T6	PROCEDURE 825 866	palpaci pravého hypochondria a epigastria
+T8	PROCEDURE 1107 1116	analgetik
+T9	PROCEDURE 1232 1260	echokardiografické vyšetření
+T44	PROCEDURE 1299 1332	Transtorakální echokardiografické
+T45	PROCEDURE 1592 1603	CT hrudníku
+T47	PROCEDURE 1784 1814	podávání protizánětlivých léků
+T48	PROCEDURE 1863 1882	Fyzikální vyšetření
+T56	PROCEDURE 2073 2086	nosní kanylou
+T49	PROCEDURE 2202 2218	Auskultace srdce
+T50	PROCEDURE 2425 2442	Plicní auskultace
+T58	PROCEDURE 2613 2650	hluboké palpaci v pravém hypochondriu
+T51	PROCEDURE 3075 3078	EKG
+T60	PROCEDURE 3181 3183	KO
+T61	PROCEDURE 3303 3312	biochemie
+T52	PROCEDURE 3385 3397	RTG hrudníku
+T43	PROCEDURE 3502 3516	Echokardiogram
+T46	PROCEDURE 4556 4567	CT hrudníku
+T80	PROCEDURE 7061 7081	antikoagulační léčby
+T81	PROCEDURE 7132 7182	žilní echo-dopplerovské vyšetření dolních končetin
+T82	PROCEDURE 7258 7285	implantaci kaválního filtru
+T83	PROCEDURE 7351 7372	antikoagulační léčbou
+T85	PROCEDURE 7570 7617	pokročilé kardiopulmonální resuscitační manévry
+T86	PROCEDURE 7657 7685	echokardiografické vyšetření
+T88	PROCEDURE 7727 7741	angio-CT aorty
+T89	PROCEDURE 8008 8044	Bentallův zákrok s chlopenní trubicí
+T90	PROCEDURE 8056 8096	anuloplastika s Carpentierovým prstencem

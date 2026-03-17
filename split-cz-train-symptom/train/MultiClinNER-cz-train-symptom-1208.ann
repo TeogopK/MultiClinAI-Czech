@@ -1,0 +1,39 @@
+T1	SYMPTOM 1643 1661	Dobrý celkový stav
+T21	SYMPTOM 1663 1673	Při vědomí
+T108	SYMPTOM 1675 1686	orientovaný
+T117	SYMPTOM 1689 1703	spolupracující
+T77	SYMPTOM 1717 1726	afebrilní
+T2	SYMPTOM 1728 1750	Hemodynamicky stabilní
+T66	SYMPTOM 1813 1841	Eupnoický v klidu a při řeči
+T3	SYMPTOM 1875 1888	krční pulzace
+T4	SYMPTOM 1905 1928	pravidelná srdeční akce
+T22	SYMPTOM 1946 1953	šelestů
+T129	SYMPTOM 1955 1973	dýchaní alveolární
+T110	SYMPTOM 1978 2007	přidaných patologických zvuků
+T23	SYMPTOM 2009 2056	Dolní končetiny s mírným perimaleolárním otokem
+T5	SYMPTOM 2186 2194	Úzké QRS
+T105	SYMPTOM 2379 2390	levé komory
+T6	SYMPTOM 2564 2584	Kulovitá levá komora
+T13	SYMPTOM 2783 2805	Tenká mitrální chlopeň
+T24	SYMPTOM 2893 2924	Tenká trojcípá aortální chlopeň
+T14	SYMPTOM 3058 3100	Hypokontraktilita v laterálních segmentech
+T25	SYMPTOM 3102 3130	Elektrokatétr v pravé komoře
+T15	SYMPTOM 3227 3251	normální koronární tepny
+T26	SYMPTOM 3528 3576	pseudonodulárních hypodenzních oblastí v játrech
+T27	SYMPTOM 3836 3870	Protilátky anti-HLA I-II negativní
+T18	SYMPTOM 3883 3909	hepatitida C IgG negativní
+T17	SYMPTOM 3911 3937	hepatitida A IgG pozitivní
+T7	SYMPTOM 3939 3971	hepatitida B S antigen negativní
+T16	SYMPTOM 3973 3995	anti-HBs IgG negativní
+T28	SYMPTOM 3997 4019	anti-HBc IgG negativní
+T20	SYMPTOM 4021 4141	Pozitivní IgG protilátky proti viru příušnic, zarděnek, spalniček, herpes viru typu 1, varicella zoster a cytomegaloviru
+T8	SYMPTOM 4143 4167	IgG toxoplasma pozitivní
+T19	SYMPTOM 4169 4193	IgM toxoplasma negativní
+T29	SYMPTOM 4195 4216	IgG tetanus pozitivní
+T9	SYMPTOM 4218 4235	HIV 1-2 negativní
+T10	SYMPTOM 4237 4283	IgG Epstein Bar virus negativní, IgM negativní
+T30	SYMPTOM 4285 4312	Screening syfilis negativní
+T11	SYMPTOM 4314 4341	Nádorové markery: negativní
+T31	SYMPTOM 4382 4432	renální funkce, abdominální profil a ionty v normě
+T12	SYMPTOM 4642 4670	Normální profil štítné žlázy
+T102	SYMPTOM 5863 5873	krvácivých

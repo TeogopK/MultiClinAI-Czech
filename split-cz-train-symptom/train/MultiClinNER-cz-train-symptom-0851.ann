@@ -1,0 +1,51 @@
+T1	SYMPTOM 327 351	dušnost při mírné námaze
+T24	SYMPTOM 405 412	závratí
+T23	SYMPTOM 415 433	rozmazaného vidění
+T3	SYMPTOM 523 536	ztrátu vědomí
+T25	SYMPTOM 903 979	transtorakální echokardiografie, která byla shledána jako odpovídající normě
+T26	SYMPTOM 1186 1204	Celkový stav dobrý
+T4	SYMPTOM 1210 1216	vědomí
+T27	SYMPTOM 1218 1229	orientovaný
+T28	SYMPTOM 1247 1256	eupnoický
+T5	SYMPTOM 1259 1268	afebrilní
+T6	SYMPTOM 1270 1303	Jugulární žilní tlak není zvýšený
+T29	SYMPTOM 1305 1332	Rytmická srdeční auskultace
+T30	SYMPTOM 1336 1394	systolickým šelestem v mitrálním a aortálním ložisku II/VI
+T7	SYMPTOM 1396 1447	Plicní auskultace s normálním vezikulárním šelestem
+T31	SYMPTOM 1453 1468	přidaných zvuků
+T34	SYMPTOM 1470 1528	Břicho měkké, stlačitelné, nebolestivé při hluboké palpaci
+T32	SYMPTOM 1534 1540	útvarů
+T33	SYMPTOM 1546 1560	visceromegalie
+T8	SYMPTOM 1562 1629	Pozitivní a symetrické periferní pulzy na všech čtyřech končetinách
+T9	SYMPTOM 1631 1656	Dolní končetiny bez otoků
+T10	SYMPTOM 1727 1744	sinusová aktivita
+T11	SYMPTOM 1832 1840	úzké QRS
+T35	SYMPTOM 1846 1866	repolarizačních změn
+T36	SYMPTOM 1874 1881	bolestí
+T12	SYMPTOM 1883 1898	sinusový rytmus
+T37	SYMPTOM 1969 2020	Konkávní elevace ST od V2 do V6 a v dolních svodech
+T13	SYMPTOM 2064 2079	sinusový rytmus
+T14	SYMPTOM 2097 2108	Normální PR
+T38	SYMPTOM 2486 2508	RTG hrudníku: normální
+T39	SYMPTOM 2645 2666	LK normální velikosti
+T15	SYMPTOM 2736 2771	Normální globální systolická funkce
+T40	SYMPTOM 2777 2807	změn segmentální kontraktility
+T16	SYMPTOM 2863 2904	RV normální velikosti a systolické funkce
+T17	SYMPTOM 3011 3045	Dolní dutá žíla normální velikosti
+T41	SYMPTOM 3112 3129	Normální perikard
+T42	SYMPTOM 3223 3271	zachovanou kontraktilitou v bazálních segmentech
+T43	SYMPTOM 3287 3320	mírně sníženou systolickou funkci
+T18	SYMPTOM 3386 3412	normální systolická funkce
+T44	SYMPTOM 3438 3467	změn v kontraktilitě segmentů
+T45	SYMPTOM 3526 3556	Levá komora s mediální akinezí
+T2	SYMPTOM 3752 3759	závratě
+T46	SYMPTOM 3762 3780	dušnost při námaze
+T19	SYMPTOM 3993 4007	asymptomatický
+T48	SYMPTOM 4277 4315	silné tísnivé centrální hrudní bolesti
+T49	SYMPTOM 4331 4352	vegetativními křečemi
+T50	SYMPTOM 4477 4531	změny kontraktility ve středních apikálních segmentech
+T51	SYMPTOM 4535 4571	středně oslabenou systolickou funkcí
+T52	SYMPTOM 4732 4739	bolesti
+T53	SYMPTOM 4782 4824	zlepšením změn v segmentální kontraktilitě
+T20	SYMPTOM 4898 4912	asymptomatický
+T21	SYMPTOM 5307 5346	akineze středního a apikálního segmentu

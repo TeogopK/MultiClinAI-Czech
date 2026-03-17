@@ -1,0 +1,25 @@
+T9	PROCEDURE 282 290	anamnéze
+T11	PROCEDURE 713 736	neurologickém vyšetření
+T15	PROCEDURE 1276 1293	Celkové vyšetření
+T6	PROCEDURE 1332 1357	hlezenní brachiální index
+T10	PROCEDURE 1359 1362	ABI
+T16	PROCEDURE 1429 1450	laboratorní vyšetření
+T17	PROCEDURE 1461 1483	imunologické vyšetření
+T5	PROCEDURE 1495 1504	sérologie
+T12	PROCEDURE 1506 1556	Rentgenový snímek hrudníku a lumbosakrální oblasti
+T4	PROCEDURE 1676 1690	elektromyogram
+T1	PROCEDURE 1692 1695	EMG
+T13	PROCEDURE 1697 1715	elektroneurografii
+T7	PROCEDURE 1717 1720	ENG
+T14	PROCEDURE 2078 2119	kraniálně-medulární magnetickou rezonancí
+T18	PROCEDURE 2127 2151	neurofyziologické studie
+T19	PROCEDURE 2435 2464	neurofyziologickým vyšetřením
+T2	PROCEDURE 2522 2525	EMG
+T3	PROCEDURE 2637 2652	svalová biopsie
+T20	PROCEDURE 3200 3219	logopedická terapie
+T21	PROCEDURE 3234 3274	dechová rehabilitace v domácím prostředí
+T25	PROCEDURE 3242 3254	rehabilitace
+T26	PROCEDURE 3413 3444	invazivní mechanickou ventilaci
+T27	PROCEDURE 3446 3458	tracheotomii
+T22	PROCEDURE 3461 3491	perkutánní výživu gastrostomií
+T8	PROCEDURE 3493 3496	PEG

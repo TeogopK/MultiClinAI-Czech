@@ -1,0 +1,25 @@
+T3	PROCEDURE 422 431	Ultrazvuk
+T5	PROCEDURE 575 590	nosních brýlích
+T14	PROCEDURE 592 633	neinvazivní střední arteriální tlak (MAP)
+T15	PROCEDURE 629 632	MAP
+T20	PROCEDURE 793 810	objemovou expanzi
+T6	PROCEDURE 812 820	intubaci
+T21	PROCEDURE 823 856	napojení na mechanickou ventilaci
+T22	PROCEDURE 858 860	MV
+T8	PROCEDURE 914 923	extubován
+T9	PROCEDURE 1075 1085	reintubaci
+T7	PROCEDURE 1088 1103	připojení na MV
+T23	PROCEDURE 1170 1232	Vyšetření na respirační syncytiální virus (RSV) v nosním hlenu
+T10	PROCEDURE 1513 1526	Invazivní MAT
+T11	PROCEDURE 1664 1674	auskultaci
+T24	PROCEDURE 1783 1801	Pronační ventilace
+T25	PROCEDURE 1914 1948	pozitivního tlaku na konci výdechu
+T4	PROCEDURE 1950 1954	PEEP
+T12	PROCEDURE 2047 2058	ultrazvukem
+T26	PROCEDURE 2412 2428	perfuze dopaminu
+T1	PROCEDURE 2453 2479	Rentgenový snímek hrudníku
+T2	PROCEDURE 2553 2576	Bronchoalveolární laváž
+T16	PROCEDURE 2626 2644	antibiotická léčba
+T13	PROCEDURE 2737 2780	léčba přípravky nahrazujícími funkci ledvin
+T17	PROCEDURE 2861 2884	postupné vysazování ONI
+T19	PROCEDURE 2992 3001	extubován

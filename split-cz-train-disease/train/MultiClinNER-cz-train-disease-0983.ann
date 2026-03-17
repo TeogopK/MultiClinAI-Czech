@@ -1,0 +1,51 @@
+T1	DISEASE 157 173	arytmickou bouři
+T27	DISEASE 281 286	Kuřák
+T7	DISEASE 288 309	Arteriální hypertenze
+T2	DISEASE 311 314	AHT
+T9	DISEASE 317 329	dyslipidemie
+T10	DISEASE 331 356	diabetes mellitus 2. typu
+T4	DISEASE 393 396	OAD
+T25	DISEASE 399 445	Chronické onemocnění ledvin (CKD) ve stadiu 3A
+T5	DISEASE 428 431	CKD
+T6	DISEASE 447 486	Těžká chronická obstrukční plicní nemoc
+T11	DISEASE 488 493	CHOPN
+T16	DISEASE 496 521	Novotvar močového měchýře
+T13	DISEASE 640 676	chronická ischemická choroba srdeční
+T15	DISEASE 678 701	akutní infarkt myokardu
+T43	DISEASE 703 706	AIM
+T44	DISEASE 806 821	arytmické bouři
+T45	DISEASE 835 855	arytmického problému
+T48	DISEASE 972 1003	nesetrvalé komorové tachykardii
+T49	DISEASE 1005 1009	NSVT
+T29	DISEASE 1120 1140	arytmogenní aktivita
+T51	DISEASE 1215 1269	difuzní ischemickou chorobu srdeční s postižením 3 cév
+T56	DISEASE 1450 1470	komorové tachykardie
+T57	DISEASE 1472 1474	VT
+T58	DISEASE 1512 1554	kompletní atrioventrikulární (AV) blokádou
+T61	DISEASE 1711 1738	ischemickou chorobu srdeční
+T62	DISEASE 1780 1796	arytmickou bouři
+T63	DISEASE 1800 1826	těžkou komorovou dysfunkcí
+T64	DISEASE 2243 2258	anginu pectoris
+T18	DISEASE 2261 2277	komorové arytmie
+T66	DISEASE 3234 3252	infekčnímu procesu
+T67	DISEASE 3267 3278	bakteriémii
+T19	DISEASE 3449 3478	oboustranný pleurální výpotek
+T71	DISEASE 3637 3667	těžkou depresí funkce myokardu
+T72	DISEASE 3816 3852	vegetací závislou na svodu přístroje
+T74	DISEASE 4171 4192	vegetaci na přístroji
+T75	DISEASE 4242 4260	infekci ICD vodiče
+T20	DISEASE 4374 4393	infekce katétru ICD
+T79	DISEASE 4873 4877	NSVT
+T17	DISEASE 5365 5474	Endokarditida způsobená S. aureus citlivým na meticilin na nativní trikuspidální chlopni spojená se zařízením
+T12	DISEASE 5476 5506	Kompletní AV blokáda po ablaci
+T82	DISEASE 5517 5532	arytmické bouře
+T14	DISEASE 5564 5600	Chronická ischemická choroba srdeční
+T21	DISEASE 5602 5626	Mírná komorová dysfunkce
+T22	DISEASE 5628 5659	Středně těžká plicní hypertenze
+T28	DISEASE 5661 5672	Těžká CHOPN
+T23	DISEASE 5674 5714	Chronické onemocnění ledvin ve stadiu 3A
+T84	DISEASE 5792 5818	neoplazii močového měchýře
+T24	DISEASE 5833 5855	adenokarcinom prostaty
+T8	DISEASE 5857 5878	Arteriální hypertenze
+T26	DISEASE 5880 5897	Diabetes mellitus
+T85	DISEASE 5899 5911	Dyslipidémie

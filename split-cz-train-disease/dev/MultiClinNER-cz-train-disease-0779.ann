@@ -1,0 +1,52 @@
+T1	DISEASE 76 83	alergií
+T16	DISEASE 176 183	obezita
+T46	DISEASE 205 218	Aktivní kuřák
+T17	DISEASE 253 263	Hypertenze
+T18	DISEASE 293 305	Dyslipidemie
+T19	DISEASE 336 366	Diabetes mellitus (DM) 2. typu
+T48	DISEASE 355 357	DM
+T40	DISEASE 461 484	diabetickou retinopatii
+T28	DISEASE 487 509	diabetickou nefropatii
+T21	DISEASE 511 544	Chronická obstrukční plicní nemoc
+T22	DISEASE 546 551	CHOPN
+T2	DISEASE 562 595	syndrom spánkové apnoe s hypopnoí
+T23	DISEASE 597 601	SAHS
+T24	DISEASE 733 760	perzistující fibrilace síní
+T3	DISEASE 771 790	tachykardiomyopatií
+T27	DISEASE 2292 2314	hluboké žilní trombózy
+T5	DISEASE 2316 2319	HŽT
+T29	DISEASE 3702 3716	fibrilace síní
+T7	DISEASE 3748 3783	sekundárními poruchami repolarizace
+T8	DISEASE 3878 3892	rozšíření síní
+T33	DISEASE 3938 3973	Porucha intraventrikulárního vedení
+T34	DISEASE 4185 4200	srdeční selhání
+T11	DISEASE 4260 4282	dilatovaná levá komora
+T47	DISEASE 4260 4374	dilatovaná levá komora (DTd 6,3 cm; VolTd 203 ml), mírně hypertrofická, s těžkou systolickou dysfunkcí levé komory
+T44	DISEASE 4551 4573	Biaurikulární dilatace
+T12	DISEASE 4590 4612	chlopenní srdeční vada
+T37	DISEASE 4620 4641	perikardiální výpotek
+T13	DISEASE 4659 4697	koronární tepny s difuzní ateromatózou
+T30	DISEASE 5906 5927	rychlé fibrilace síní
+T66	DISEASE 5940 5959	tachykardiomyopatií
+T49	DISEASE 6273 6283	diabetička
+T67	DISEASE 6370 6399	kardiovaskulárním onemocněním
+T35	DISEASE 7030 7047	srdečního selhání
+T69	DISEASE 7123 7217	dilatovanou levou komoru (DTd 6,3 cm; VolTd 203 ml) s těžkou systolickou dysfunkcí levé komory
+T45	DISEASE 7390 7412	Biaurikulární dilatace
+T70	DISEASE 7429 7451	chlopenní srdeční vada
+T38	DISEASE 7459 7480	perikardiální výpotek
+T71	DISEASE 7515 7548	ateromatózy v koronárních tepnách
+T72	DISEASE 7614 7690	apriorní neischemickou dilatační kardiomyopatii dekompenzovanou rychlou FiSi
+T31	DISEASE 7863 7877	fibrilace síní
+T74	DISEASE 7997 8019	metabolickým syndromem
+T75	DISEASE 8022 8039	diabetem mellitem
+T77	DISEASE 8804 8817	funkci ledvin
+T79	DISEASE 8948 8951	CKD
+T20	DISEASE 8972 8993	diabetická nefropatie
+T42	DISEASE 9352 9377	diabetes mellitus 2. typu
+T39	DISEASE 9379 9398	Metabolický syndrom
+T36	DISEASE 9400 9415	Srdeční selhání
+T43	DISEASE 9434 9497	Neischemická dilatační kardiomyopatie dekompenzovaná rychlou AF
+T26	DISEASE 9517 9536	tachykardiomyopatie
+T25	DISEASE 9552 9579	perzistující fibrilace síní
+T32	DISEASE 9631 9673	Chronické onemocnění ledvin stadia IIIb A2

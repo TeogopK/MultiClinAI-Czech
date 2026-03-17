@@ -1,0 +1,44 @@
+T9	DISEASE 127 141	lékové alergie
+T10	DISEASE 178 209	systémová arteriální hypertenze
+T12	DISEASE 211 241	diabetes mellitus (DM) 2. typu
+T13	DISEASE 230 232	DM
+T15	DISEASE 243 255	dyslipidémie
+T17	DISEASE 281 317	chronická ischemická choroba srdeční
+T1	DISEASE 329 352	akutní infarkt myokardu
+T2	DISEASE 354 357	AMI
+T19	DISEASE 519 562	Reinfarkt v roce 2008 v důsledku okluze LAD
+T6	DISEASE 705 707	IM
+T20	DISEASE 784 798	fibrilace síní
+T7	DISEASE 800 804	FiSi
+T21	DISEASE 855 899	Oboustranná segmentální plicní tromboembolie
+T8	DISEASE 943 1002	dilatací a středně těžkou reziduální dysfunkcí pravé komory
+T43	DISEASE 1059 1061	IM
+T22	DISEASE 1146 1174	těžká dysfunkce pravé komory
+T45	DISEASE 1274 1285	Trvalá FiSi
+T23	DISEASE 1337 1385	chronické onemocnění ledvin diabetické etiologie
+T24	DISEASE 1435 1448	hyperurikémie
+T25	DISEASE 1450 1457	deprese
+T26	DISEASE 1460 1470	gonartróza
+T47	DISEASE 1510 1529	kognitivních poruch
+T48	DISEASE 2032 2059	paroxyzmální noční dušností
+T49	DISEASE 2061 2064	PND
+T31	DISEASE 2381 2388	arytmie
+T32	DISEASE 2464 2477	hepatomegalie
+T51	DISEASE 3010 3014	FiSi
+T52	DISEASE 3067 3099	kompletního bloku levého raménka
+T53	DISEASE 3273 3302	Pravá komora těžce dilatovaná
+T54	DISEASE 3336 3400	Mitrální chlopeň s degenerativními změnami a mírnou insuficiencí
+T55	DISEASE 3402 3455	Sklerotizovaná aortální chlopeň s mírnou insuficiencí
+T56	DISEASE 3457 3516	Trikuspidální chlopeň s mírnou až středně těžkou regurgitac
+T33	DISEASE 3573 3599	Dilatovaná dolní dutá žíla
+T27	DISEASE 3632 3653	perikardiální výpotek
+T57	DISEASE 3778 3793	dekompenzaci IM
+T58	DISEASE 3996 4009	chronickým IM
+T60	DISEASE 4689 4706	Dekompenzovaný IM
+T18	DISEASE 4846 4882	Chronická ischemická choroba srdeční
+T28	DISEASE 4938 4955	plicní hypertenze
+T30	DISEASE 5034 5056	Trvalá nevalvulární AF
+T29	DISEASE 5085 5145	Chronické onemocnění ledvin v důsledku diabetické nefropatie
+T11	DISEASE 5147 5178	Systémová arteriální hypertenze
+T16	DISEASE 5180 5192	Dyslipidemie
+T14	DISEASE 5194 5204	DM 2. typu

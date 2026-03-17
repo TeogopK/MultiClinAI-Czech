@@ -1,0 +1,13 @@
+T8	PROCEDURE 11 28	resuscitovaný CPR
+T13	PROCEDURE 150 170	protokolu hypotermie
+T7	PROCEDURE 242 250	CT lebky
+T1	PROCEDURE 479 501	neurologické vyšetření
+T4	PROCEDURE 568 605	odpojení přístrojů pro podporu života
+T5	PROCEDURE 625 633	darování
+T6	PROCEDURE 660 664	LSTL
+T14	PROCEDURE 667 683	řízené asystolie
+T15	PROCEDURE 742 761	terminální extubaci
+T10	PROCEDURE 792 800	extubaci
+T2	PROCEDURE 844 855	laparotomie
+T9	PROCEDURE 857 897	kanylace a intraoperační studená perfuze
+T3	PROCEDURE 930 959	Obě ledviny byly explantovány

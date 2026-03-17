@@ -1,0 +1,26 @@
+T18	PROCEDURE 1190 1198	hemogram
+T12	PROCEDURE 1200 1209	koagulace
+T13	PROCEDURE 1211 1252	jaterní testy, ledviny, štítná žláza, moč
+T14	PROCEDURE 1288 1304	tomografie mozku
+T21	PROCEDURE 1319 1332	Toxiny v moči
+T7	PROCEDURE 1349 1364	Lumbální punkce
+T15	PROCEDURE 1366 1368	LP
+T8	PROCEDURE 1822 1919	Sérologie na HIV, brucellu, cytomegalovirus, herpes simplex, syfilis, toxoplazmózu a Epstein Barr
+T20	PROCEDURE 2063 2065	LP
+T16	PROCEDURE 2102 2177	sérologie a kultivace mozkomíšního moku (CSF) na Brucella, Lúes a Borrellia
+T29	PROCEDURE 2195 2232	Zobrazení mozku magnetickou rezonancí
+T17	PROCEDURE 2234 2237	MRI
+T10	PROCEDURE 2254 2267	Antidepresiva
+T1	PROCEDURE 2327 2346	elektroencefalogram
+T3	PROCEDURE 2348 2351	EEG
+T11	PROCEDURE 2741 2772	Transtorakální echokardiografie
+T33	PROCEDURE 2811 2826	kortikosteroidů
+T34	PROCEDURE 2958 2964	sedaci
+T35	PROCEDURE 2967 2990	endotracheální intubaci
+T19	PROCEDURE 3114 3183	LP, přičemž polymerázová řetězová reakce na mykoplazmu a mykobakterie
+T2	PROCEDURE 3233 3239	sedace
+T6	PROCEDURE 3337 3345	extubace
+T4	PROCEDURE 3347 3350	EEG
+T9	PROCEDURE 3459 3482	Gynekologický ultrazvuk
+T5	PROCEDURE 3563 3579	ultrazvuk břicha
+T22	PROCEDURE 3733 3788	LP s hledáním přítomnosti paraneoplastických protilátek

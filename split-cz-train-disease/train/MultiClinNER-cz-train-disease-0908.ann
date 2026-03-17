@@ -1,0 +1,59 @@
+T19	DISEASE 86 100	lékové alergie
+T1	DISEASE 144 154	hypertenze
+T20	DISEASE 156 168	Dyslipidemie
+T21	DISEASE 170 182	Bývalý kuřák
+T22	DISEASE 218 254	Chronická ischemická choroba srdeční
+T51	DISEASE 272 309	dvoužilová ischemická choroba srdeční
+T24	DISEASE 350 376	Nestabilní angina pectoris
+T25	DISEASE 465 490	Skleróza aortální chlopně
+T26	DISEASE 526 540	fibrilace síní
+T31	DISEASE 571 587	Hodgkinův lymfom
+T27	DISEASE 677 691	fibrilace síní
+T50	DISEASE 814 829	anginy pectoris
+T36	DISEASE 831 866	Infrarenální aneuryzma břišní aorty
+T35	DISEASE 903 971	akutním selháním ledvin sekundárně v důsledku ischemie pravé ledviny
+T46	DISEASE 1018 1092	Chronické onemocnění ledvin ve 3. stadiu, sekundárně ischemická nefropatie
+T4	DISEASE 1094 1125	funkční anulování pravé ledviny
+T37	DISEASE 1128 1155	Sekundární hyperparatyreóza
+T5	DISEASE 1157 1184	Opakované nefritické koliky
+T32	DISEASE 1210 1250	Hodgkinův lymfom typu nodulární sklerózy
+T6	DISEASE 1448 1485	febrilní neutropenie břišního ložiska
+T38	DISEASE 2898 2919	arytmická tachykardie
+T28	DISEASE 3179 3193	fibrilace síní
+T13	DISEASE 4214 4221	chřipku
+T14	DISEASE 4474 4491	srdečním selháním
+T15	DISEASE 4799 4824	Levá síň mírně dilatovaná
+T16	DISEASE 4933 4970	Aortální chlopeň mírně sklerotizovaná
+T17	DISEASE 5094 5137	trikuspidální chlopeň s mírnou insuficiencí
+T41	DISEASE 5274 5295	perikardiální výpotek
+T18	DISEASE 5449 5513	Levá hlavní koronární tepna (LMCA) ateromatózní s významnou lézí
+T87	DISEASE 5848 5905	Pravá koronární tepna (RCA): dominantní, chronický uzávěr
+T29	DISEASE 6670 6693	anginy pectoris v klidu
+T39	DISEASE 6732 6766	dekompenzovaného srdečního selhání
+T42	DISEASE 6769 6790	rychlá fibrilace síní
+T93	DISEASE 6852 6875	hematologické patologie
+T94	DISEASE 6886 6906	respiračního infektu
+T95	DISEASE 6909 6915	anémie
+T44	DISEASE 6975 6989	onemocnění TCI
+T97	DISEASE 7008 7026	poškození myokardu
+T100	DISEASE 7219 7237	respirační infekci
+T102	DISEASE 7509 7533	chronického uzávěru LMCA
+T103	DISEASE 7545 7568	distální postižení LMCA
+T33	DISEASE 7838 7854	Hodgkinův lymfom
+T106	DISEASE 8145 8205	chronickou multifaktoriální normocytární-normochromní anémii
+T45	DISEASE 8207 8231	hematologické onemocnění
+T47	DISEASE 8252 8279	chronické onemocnění ledvin
+T107	DISEASE 8384 8390	anémie
+T52	DISEASE 8591 8627	minimální námahovou anginou pectoris
+T110	DISEASE 8979 8994	anginy pectoris
+T113	DISEASE 9277 9292	anginy pectoris
+T49	DISEASE 9342 9376	plicní progrese Hodgkinova lymfomu
+T114	DISEASE 9417 9455	Akutní infarkt myokardu bez elevací ST
+T23	DISEASE 9544 9580	Chronická ischemická choroba srdeční
+T53	DISEASE 9661 9699	chronický uzávěr pravé koronární tepny
+T30	DISEASE 9701 9729	Přetrvávající fibrilace síní
+T40	DISEASE 9731 9772	Dekompenzace srdečního selhání sekundárně
+T43	DISEASE 9800 9818	Respirační infekce
+T54	DISEASE 9850 9896	Chronická multifaktoriální exacerbovaná anémie
+T34	DISEASE 9898 9951	Hodgkinův lymfom ve stadiu IV z důvodu postižení plic
+T55	DISEASE 9953 9992	Chronické onemocnění ledvin ve stadiu 3

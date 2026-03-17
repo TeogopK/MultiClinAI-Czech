@@ -1,0 +1,73 @@
+T18	DISEASE 75 93	Vysoký krevní tlak
+T58	DISEASE 95 119	Změněná bazální glykémie
+T1	DISEASE 121 141	Chlopenní vada srdce
+T46	DISEASE 156 197	těžké degenerativní mitrální insuficience
+T36	DISEASE 199 231	těžké trikuspidální insuficience
+T50	DISEASE 234 257	těžké plicní hypertenze
+T21	DISEASE 297 318	Trvalá fibrilace síní
+T3	DISEASE 320 376	Středně těžká až těžká chronická obstrukční plicní nemoc
+T23	DISEASE 378 411	Syndrom spánkové apnoe a hypopnoe
+T24	DISEASE 436 517	Chronické onemocnění ledvin ve stadiu 3a sekundárně způsobené nefroangiosklerózou
+T25	DISEASE 519 540	Bronchiální karcinoid
+T26	DISEASE 629 651	Polymyalgia rheumatica
+T27	DISEASE 653 668	Dnavá artritida
+T28	DISEASE 1167 1189	dekompenzované selhání
+T5	DISEASE 1195 1219	námahové anginy pectoris
+T6	DISEASE 1768 1774	ascitu
+T7	DISEASE 1857 1902	hluboké žilní trombózy na dolních končetinách
+T29	DISEASE 1958 1972	fibrilace síní
+T8	DISEASE 2162 2194	zlomenými kalvy kostních oblouků
+T10	DISEASE 2254 2272	plicní konsolidace
+T31	DISEASE 2319 2336	pleurální výpotek
+T11	DISEASE 2382 2405	perikardiálního výpotku
+T77	DISEASE 2407 2435	Levá komora mírně dilatovaná
+T59	DISEASE 2566 2590	Těžká dilatace obou síní
+T12	DISEASE 2592 2615	Dilatovaná pravá komora
+T56	DISEASE 2704 2749	Trojcípá aortální chlopeň se sklerózou lístků
+T34	DISEASE 2784 2828	Mírná až středně těžká aortální insuficience
+T13	DISEASE 2830 2874	Mitrální chlopeň se ztluštěním předního cípu
+T35	DISEASE 3029 3078	Mitrální insuficience, která se jeví jako závažná
+T37	DISEASE 3284 3310	trikuspidální insuficience
+T14	DISEASE 3347 3412	Aortální kořen (43 mm) a vzestupná aorta (41 mm) mírně dilatované
+T15	DISEASE 3414 3446	Silně dilatovaná dolní dutá žíla
+T78	DISEASE 3538 3572	mírná kalcifikace mitrálního anulu
+T48	DISEASE 3738 3763	ruptury chordae tendineae
+T39	DISEASE 3779 3806	Těžká mitrální insuficience
+T57	DISEASE 4092 4188	Trojcípá aortální chlopeň s mírně ztluštělými lístky, normálním otevíráním a mírnou insuficiencí
+T16	DISEASE 4190 4257	Trikuspidální chlopeň s normální strukturou a velkou dilatací anulu
+T17	DISEASE 4384 4418	intrakavitární hmoty a/nebo tromby
+T79	DISEASE 5192 5213	defekt síňového septa
+T76	DISEASE 5451 5474	perikardiálního výpotku
+T80	DISEASE 5526 5551	silně dilatovaná levá síň
+T49	DISEASE 5553 5579	Těžce dilatovaná pravá síň
+T40	DISEASE 5694 5721	těžká mitrální insuficience
+T41	DISEASE 5724 5746	mírná mitrální stenóza
+T51	DISEASE 5748 5782	Pravá komora je středně dilatovaná
+T60	DISEASE 5817 5858	Levá komora se středně těžkou hypertrofií
+T20	DISEASE 5921 5953	Vzestupná aorta mírně dilatovaná
+T42	DISEASE 5963 5984	léze aortální chlopně
+T38	DISEASE 5998 6024	trikuspidální insuficience
+T43	DISEASE 6026 6057	Středně těžká plicní hypertenze
+T87	DISEASE 6066 6084	defektu septa síní
+T88	DISEASE 6086 6089	ASD
+T32	DISEASE 6186 6207	perikardiální výpotek
+T89	DISEASE 6278 6300	chlopenní srdeční vadu
+T90	DISEASE 6315 6342	těžké mitrální insuficienci
+T44	DISEASE 6450 6465	srdeční selhání
+T91	DISEASE 6632 6669	těžkým chronickým plicním onemocněním
+T96	DISEASE 6948 6994	mitrální regurgitace na mírný až středně těžký
+T33	DISEASE 7445 7466	perikardiální výpotek
+T100	DISEASE 7477 7495	defektu septa síní
+T103	DISEASE 7631 7651	mitrální regurgitace
+T52	DISEASE 7711 7728	plicní hypertenze
+T102	DISEASE 7731 7756	trikuspidální regurgitace
+T105	DISEASE 7921 7939	defektu septa síní
+T45	DISEASE 8250 8267	srdečního selhání
+T110	DISEASE 8557 8574	srdečním selháním
+T54	DISEASE 8659 8710	Těžká organická, degenerativní mitrální regurgitace
+T113	DISEASE 8783 8847	Reziduální mitrální regurgitace II. stupně (mírná-středně těžká)
+T112	DISEASE 8849 8890	Významný defekt pravolevé síňové přepážky
+T55	DISEASE 8893 8913	sekundární hypoxémie
+T19	DISEASE 8964 8995	Těžká trikuspidální regurgitace
+T53	DISEASE 9005 9022	plicní hypertenze
+T22	DISEASE 9054 9075	Trvalá fibrilace síní

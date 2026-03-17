@@ -1,0 +1,22 @@
+T2	PROCEDURE 148 158	endoskopii
+T6	PROCEDURE 230 248	podstoupil operaci
+T5	PROCEDURE 273 333	totální transhiatální ezofagektomie s cervikální anastomózou
+T7	PROCEDURE 335 381	vytvořením tubulizovaného žaludečního konduitu
+T8	PROCEDURE 394 403	vagotomií
+T18	PROCEDURE 409 423	pyloroplastiky
+T1	PROCEDURE 588 605	Orální endoskopie
+T19	PROCEDURE 693 708	dilatace pyloru
+T3	PROCEDURE 819 848	gastroskopu pylorovým kanálem
+T9	PROCEDURE 907 923	vyšetření baryem
+T10	PROCEDURE 1041 1049	dilataci
+T4	PROCEDURE 1104 1166	dilatace pyloru, v tomto případě vynucená, pomocí 35mm balonku
+T11	PROCEDURE 1239 1253	hluboké sedaci
+T12	PROCEDURE 1278 1319	endoskopickou a fluoroskopickou kontrolou
+T20	PROCEDURE 1321 1398	Endoskop byl zaveden do sestupného duodena s ponecháním radiooptického vodiče
+T21	PROCEDURE 1400 1469	Pylorus byl na několika místech označen submukózní kontrastní injekcí
+T22	PROCEDURE 1471 1492	Po vytažení endoskopu
+T23	PROCEDURE 1497 1582	balónek pod fluoroskopickou kontrolou posouván po vodiči, dokud nebyl správně umístěn
+T24	PROCEDURE 1605 1675	balónek nafouknut vzduchem o tlaku 300 mmHg, s manometrickou kontrolou
+T13	PROCEDURE 1739 1748	dilatován
+T25	PROCEDURE 1777 1804	prostá rentgenologie břicha
+T14	PROCEDURE 2055 2085	radiologická kontrola s baryem

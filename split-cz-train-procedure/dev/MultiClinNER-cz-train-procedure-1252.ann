@@ -1,0 +1,32 @@
+T2	PROCEDURE 65 82	léčená kortikoidy
+T3	PROCEDURE 95 133	akupunkturní léčbu pro tlumení bolesti
+T4	PROCEDURE 339 353	rentgen páteře
+T53	PROCEDURE 749 777	empirická antibiotická léčba
+T34	PROCEDURE 822 830	CT mozku
+T7	PROCEDURE 832 879	lumbální punkce a vyšetření synoviální tekutiny
+T35	PROCEDURE 1053 1067	echokardiogram
+T9	PROCEDURE 1080 1096	krevní kultivace
+T38	PROCEDURE 1099 1118	Fyzikální vyšetření
+T39	PROCEDURE 1305 1321	Auskultace srdce
+T40	PROCEDURE 1359 1374	Auskultace plic
+T41	PROCEDURE 1789 1803	Kultivace krve
+T43	PROCEDURE 1850 1870	CT hrudníku a břicha
+T42	PROCEDURE 2695 2709	kultivace krve
+T36	PROCEDURE 2781 2784	TTE
+T15	PROCEDURE 2787 2790	TEE
+T44	PROCEDURE 2792 2821	Transtorakální echokardiogram
+T45	PROCEDURE 3742 3773	Transezofageální echokardiogram
+T54	PROCEDURE 5837 5855	antibiotická léčba
+T55	PROCEDURE 5912 5928	urgentní operace
+T56	PROCEDURE 6064 6089	infuzi vazoaktivních léků
+T60	PROCEDURE 6489 6526	výměně chlopně za mechanickou protézu
+T63	PROCEDURE 6623 6703	rekonstrukce tkáně, s použitím prolenových stehů podpořených teflonovou záplatou
+T46	PROCEDURE 6799 6835	náhrada chlopně mechanickou protézou
+T47	PROCEDURE 6990 7001	okno sedace
+T48	PROCEDURE 7069 7075	sedace
+T68	PROCEDURE 7077 7097	antikoagulační léčba
+T50	PROCEDURE 7102 7110	CT lebky
+T72	PROCEDURE 7303 7315	hemofiltrací
+T49	PROCEDURE 7413 7419	sedace
+T51	PROCEDURE 7443 7446	EEG
+T52	PROCEDURE 7473 7489	Vazoaktivní léky

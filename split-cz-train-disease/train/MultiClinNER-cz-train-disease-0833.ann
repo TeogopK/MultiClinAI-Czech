@@ -1,0 +1,23 @@
+T6	DISEASE 106 113	kouření
+T1	DISEASE 115 125	hypertenze
+T2	DISEASE 127 166	diabetes mellitus závislého na inzulínu
+T3	DISEASE 169 176	obezity
+T4	DISEASE 215 242	ischemickou chorobu srdeční
+T32	DISEASE 348 375	těžké mitrální insuficience
+T7	DISEASE 523 546	akutní infarkt myokardu
+T34	DISEASE 548 551	AIM
+T35	DISEASE 577 620	fibrilací síní s rychlou komorovou odpovědí
+T38	DISEASE 733 781	aneuryzmatu levého kyčelního a stehenního kloubu
+T40	DISEASE 845 873	těžkou dysfunkci levé komory
+T42	DISEASE 926 953	periprotetické insuficience
+T43	DISEASE 956 992	středně těžkou aortální insuficienci
+T45	DISEASE 1518 1615	kritickou ischemii pravé dolní končetiny v důsledku trombózy pravého femoro-popliteálního bypassu
+T46	DISEASE 1570 1614	trombózy pravého femoro-popliteálního bypass
+T8	DISEASE 2152 2175	akutního plicního edému
+T52	DISEASE 2534 2547	hepatomegalií
+T9	DISEASE 2668 2682	fibrilace síní
+T56	DISEASE 3590 3596	trombu
+T57	DISEASE 4079 4097	chlopenním trombem
+T10	DISEASE 4591 4598	trombus
+T64	DISEASE 5614 5694	Těžká mitrální stenóza v důsledku velmi pozdní trombózy protézy mitrální chlopně
+T66	DISEASE 5745 5785	Dekompenzované chronické srdeční selhání

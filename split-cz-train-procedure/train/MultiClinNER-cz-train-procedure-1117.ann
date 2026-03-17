@@ -1,0 +1,23 @@
+T43	PROCEDURE 204 212	ANAMNÉZA
+T1	PROCEDURE 214 232	nynější onemocnění
+T19	PROCEDURE 235 254	FYZIKÁLNÍ VYŠETŘENÍ
+T46	PROCEDURE 256 264	Anamnéza
+T47	PROCEDURE 630 638	Anamnéza
+T20	PROCEDURE 743 757	prostatektomie
+T21	PROCEDURE 1123 1140	Elektrokardiogram
+T22	PROCEDURE 1142 1145	EKG
+T23	PROCEDURE 1433 1454	Koronární katetrizace
+T6	PROCEDURE 1971 1993	Primární angioplastika
+T7	PROCEDURE 1996 2027	implantací dvou lékových stentů
+T26	PROCEDURE 2080 2096	echokardiografie
+T61	PROCEDURE 2178 2187	Vyšetření
+T9	PROCEDURE 2598 2619	laboratorní vyšetření
+T24	PROCEDURE 2789 2810	Koronární katetrizace
+T25	PROCEDURE 2812 2833	koronární katetrizace
+T59	PROCEDURE 3277 3306	Transtorakální echokardiogram
+T58	PROCEDURE 3308 3311	TTE
+T18	PROCEDURE 3831 3848	Laboratorní testy
+T44	PROCEDURE 4232 4269	kontrolních laboratorních vyšetřeních
+T83	PROCEDURE 4607 4632	selfmonitoringem glykémie
+T101	PROCEDURE 4712 4727	množství železa
+T45	PROCEDURE 4730 4747	vyšetřením železa

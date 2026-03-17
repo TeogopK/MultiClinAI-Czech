@@ -1,0 +1,22 @@
+T6	PROCEDURE 114 128	vyšetření krve
+T9	PROCEDURE 134 164	ultrazvukovém vyšetření břicha
+T7	PROCEDURE 304 363	vyšetření břišní vícesnímkové počítačové axiální tomografie
+T8	PROCEDURE 365 367	CT
+T10	PROCEDURE 481 530	podání intravenózního kontrastu v arteriální fázi
+T11	PROCEDURE 536 561	vymýváním v portální fázi
+T12	PROCEDURE 741 771	Aspirační punkce tenkou jehlou
+T16	PROCEDURE 741 825	Aspirační punkce tenkou jehlou (FNA) léze byla provedena pod ultrazvukovou kontrolou
+T13	PROCEDURE 773 776	FNA
+T14	PROCEDURE 802 825	ultrazvukovou kontrolou
+T19	PROCEDURE 897 926	imunohistochemickém vyšetření
+T15	PROCEDURE 929 954	Systematické krevní testy
+T1	PROCEDURE 981 995	jaterní funkce
+T18	PROCEDURE 997 1011	imunoglobuliny
+T2	PROCEDURE 1013 1023	protilátky
+T4	PROCEDURE 1026 1042	nádorové markery
+T5	PROCEDURE 1044 1058	Virové markery
+T21	PROCEDURE 1118 1341	hepatomu na necirhotických játrech bylo rozhodnuto o chirurgické resekci. Segmenty 2 a 3 byly resekovány laparoskopicky pomocí dvou portů č. 12, periumbilikálně a v pravém hypochondriu, a gelového portu v levém hypochondriu
+T17	PROCEDURE 1343 1378	Perioperační histologické vyšetření
+T20	PROCEDURE 1427 1448	histologických známek
+T24	PROCEDURE 1519 1548	anatomopatologickém vyšetření
+T3	PROCEDURE 1785 1805	Patologická diagnóza

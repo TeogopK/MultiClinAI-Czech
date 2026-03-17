@@ -1,0 +1,22 @@
+T32	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 243 260	antikoagulovaného
+T6	PROCEDURE 295 308	antikoagulans
+T21	PROCEDURE 433 513	náhradou chlopně v roce 2004 mechanickými protézami v mitrální a aortální poloze
+T22	PROCEDURE 552 566	koronarografii
+T24	PROCEDURE 737 761	neurohormonální medikace
+T33	PROCEDURE 994 1013	Fyzikální vyšetření
+T34	PROCEDURE 1314 1330	Auskultace srdce
+T35	PROCEDURE 1409 1426	Plicní auskultace
+T25	PROCEDURE 1992 2006	depleční léčbě
+T36	PROCEDURE 2486 2503	Elektrokardiogram
+T37	PROCEDURE 2505 2508	EKG
+T38	PROCEDURE 2630 2656	Rentgenový snímek hrudníku
+T26	PROCEDURE 2670 2697	středně velké sternotomické
+T39	PROCEDURE 2822 2851	Transtorakální echokardiogram
+T41	PROCEDURE 3284 3313	intravenózní diuretická léčba
+T31	PROCEDURE 3471 3487	renálních funkcí
+T44	PROCEDURE 3687 3708	neurohormonální léčbu
+T42	PROCEDURE 3932 3938	ARA-II
+T43	PROCEDURE 4493 4535	antagonista mineralkortikoidních receptorů
+T40	PROCEDURE 5357 5386	transtorakální echokardiogram
+T19	PROCEDURE 5909 5930	neurohormonální léčby

@@ -1,0 +1,51 @@
+T39	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 262 272	vasektomii
+T38	PROCEDURE 745 766	hrudní CT angiografie
+T40	PROCEDURE 911 930	Fyzikální vyšetření
+T41	PROCEDURE 1121 1137	Auskultace srdce
+T42	PROCEDURE 1169 1184	Auskultace plic
+T43	PROCEDURE 1362 1379	elektrokardiogram
+T44	PROCEDURE 1381 1384	EKG
+T45	PROCEDURE 1497 1509	RTG hrudníku
+T46	PROCEDURE 1623 1635	Krevní obraz
+T4	PROCEDURE 1637 1663	parametry renálních funkcí
+T5	PROCEDURE 1666 1675	iontogram
+T48	PROCEDURE 1697 1706	Koagulace
+T49	PROCEDURE 1783 1800	normální hemogram
+T50	PROCEDURE 1815 1829	Biochemie krve
+T51	PROCEDURE 1840 1852	transaminázy
+T52	PROCEDURE 1855 1860	ionty
+T47	PROCEDURE 1880 1894	hodnoty železa
+T71	PROCEDURE 1895 1909	Imunoglobuliny
+T53	PROCEDURE 2064 2073	Sérologie
+T54	PROCEDURE 2117 2160	Patologická anatomie perikardiální tekutiny
+T55	PROCEDURE 2172 2181	cytologie
+T67	PROCEDURE 2196 2224	Imunohistochemické vyšetření
+T56	PROCEDURE 2451 2494	Průtoková cytometrie perikardiální tekutiny
+T57	PROCEDURE 2722 2754	Kultivace perikardiální tekutiny
+T68	PROCEDURE 2783 2820	Patologická anatomie ilického hřebene
+T72	PROCEDURE 2822 2836	kostní biopsie
+T58	PROCEDURE 2892 2903	CT hrudníku
+T59	PROCEDURE 3140 3146	PET-CT
+T62	PROCEDURE 3712 3728	Ultrazvuk varlat
+T7	PROCEDURE 3802 3817	levé vazektomii
+T69	PROCEDURE 3819 3854	Patologická anatomie levého varlete
+T8	PROCEDURE 3865 3882	levé orchiektomie
+T63	PROCEDURE 4053 4082	Transtorakální echokardiogram
+T64	PROCEDURE 4333 4362	transtorakální echokardiogram
+T10	PROCEDURE 4550 4574	hematologického oddělení
+T9	PROCEDURE 4619 4633	depleční léčbu
+T70	PROCEDURE 4882 4895	antikoagulace
+T65	PROCEDURE 4974 5005	transtorakální echokardiografie
+T11	PROCEDURE 5099 5142	diagnosticko-terapeutická perikardiocentéza
+T12	PROCEDURE 5273 5286	mikrobiologii
+T13	PROCEDURE 5289 5311	patologickou anatomii,
+T60	PROCEDURE 5519 5525	PET-CT
+T76	PROCEDURE 5848 5858	vasektomii
+T77	PROCEDURE 5966 6051	odběr biopsie z perikardu nebo mediastinálních lymfatických uzlin pomocí torakoskopie
+T61	PROCEDURE 6131 6137	PET-CT
+T79	PROCEDURE 6291 6303	orchiektomii
+T81	PROCEDURE 6430 6464	chemoterapeutickou léčbu R-CHOP/21
+T66	PROCEDURE 6598 6631	transtorakální echokardiografické
+T83	PROCEDURE 6750 6769	hematologické léčbě
+T84	PROCEDURE 6908 6923	biopsie varlete

@@ -1,0 +1,37 @@
+T21	SYMPTOM 383 392	v důchodu
+T1	SYMPTOM 814 841	levá síň hraniční velikosti
+T22	SYMPTOM 844 858	zachovalá LVEF
+T2	SYMPTOM 1344 1351	arytmie
+T25	SYMPTOM 1688 1697	palpitací
+T3	SYMPTOM 1943 1951	ortopnoe
+T4	SYMPTOM 1953 1979	paroxysmální noční dušnost
+T26	SYMPTOM 1981 1984	PND
+T27	SYMPTOM 1990 2012	otoky dolních končetin
+T5	SYMPTOM 2031 2046	bolest na hrudi
+T28	SYMPTOM 2085 2095	synkopální
+T20	SYMPTOM 2100 2113	presynkopální
+T29	SYMPTOM 2224 2239	sinusovém rytmu
+T7	SYMPTOM 2442 2460	Dobrý celkový stav
+T8	SYMPTOM 2560 2569	Afebrilní
+T30	SYMPTOM 2588 2607	zduření krčních žil
+T9	SYMPTOM 2609 2650	Auskultace srdce: akce srdeční pravidelná
+T10	SYMPTOM 2666 2673	šelestů
+T11	SYMPTOM 2675 2710	Auskultace plic: normální ventilace
+T12	SYMPTOM 2731 2748	Břicho: nepopsané
+T13	SYMPTOM 2750 2776	Dolní končetiny: bez otoků
+T6	SYMPTOM 2855 2870	sinusový rytmus
+T14	SYMPTOM 2899 2907	úzké QRS
+T31	SYMPTOM 2929 2949	repolarizačních změn
+T15	SYMPTOM 2951 2963	Normální QTc
+T32	SYMPTOM 3258 3271	absence vln P
+T16	SYMPTOM 3475 3541	tenký cíp mitrální chlopně se zachovalou pohyblivostí a otevíráním
+T33	SYMPTOM 3734 3767	mírně sníženou systolickou funkcí
+T34	SYMPTOM 3956 4008	Chlopenní anulus a aortální kořen normálních rozměrů
+T35	SYMPTOM 4010 4063	Pravá komora není dilatovaná; zachovaná kontraktilita
+T17	SYMPTOM 4081 4137	Trikuspidální chlopeň s dobrým otevíráním a pohyblivostí
+T36	SYMPTOM 4224 4261	Dolní dutá žíla (IVC) není dilatovaná
+T18	SYMPTOM 5022 5084	Levá komora s mírně středně těžkou depresí kontraktilní funkce
+T38	SYMPTOM 8665 8696	segmentální změny kontraktility
+T39	SYMPTOM 8727 8742	sinusovém rytmu
+T19	SYMPTOM 10459 10470	tachykardie
+T44	SYMPTOM 10515 10530	sinusovém rytmu

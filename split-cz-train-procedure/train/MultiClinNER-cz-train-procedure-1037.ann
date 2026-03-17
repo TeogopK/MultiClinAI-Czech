@@ -1,0 +1,33 @@
+T30	PROCEDURE 213 226	tonzilektomie
+T1	PROCEDURE 239 252	meniskektomie
+T2	PROCEDURE 716 725	analgezii
+T3	PROCEDURE 1001 1017	Auskultace srdce
+T4	PROCEDURE 1053 1068	Auskultace plic
+T5	PROCEDURE 1229 1239	Tapotement
+T31	PROCEDURE 1292 1314	neurologické vyšetření
+T32	PROCEDURE 1352 1355	EKG
+T6	PROCEDURE 1519 1539	elektrokardiogramech
+T7	PROCEDURE 1541 1564	Přenosný echokardiogram
+T35	PROCEDURE 1777 1789	Krevní obraz
+T34	PROCEDURE 1911 1920	Hemostáza
+T45	PROCEDURE 1942 1951	Biochemie
+T42	PROCEDURE 2323 2336	Sérové enzymy
+T36	PROCEDURE 2473 2485	RTG hrudníku
+T43	PROCEDURE 2534 2543	Sérologie
+T37	PROCEDURE 2717 2731	Kultivace MRSA
+T9	PROCEDURE 2744 2775	Zobrazení magnetickou rezonancí
+T38	PROCEDURE 2777 2780	MRI
+T39	PROCEDURE 3112 3126	Koronarografie
+T12	PROCEDURE 3197 3213	ventrikulografii
+T15	PROCEDURE 3466 3505	léčba dvojitou protidestičkovou terapií
+T16	PROCEDURE 3508 3521	antikoagulací
+T41	PROCEDURE 3523 3530	statiny
+T17	PROCEDURE 3533 3546	betablokátory
+T19	PROCEDURE 3639 3683	Sériové vyšetření markerů poškození myokardu
+T40	PROCEDURE 3765 3779	koronarografie
+T44	PROCEDURE 4018 4034	virové sérologie
+T46	PROCEDURE 4057 4071	koronarografii
+T51	PROCEDURE 4633 4661	Echokardiografické vyšetření
+T33	PROCEDURE 4801 4804	EKG
+T53	PROCEDURE 4839 4859	léčbě ACE inhibitory
+T54	PROCEDURE 4890 4910	magnetická rezonance

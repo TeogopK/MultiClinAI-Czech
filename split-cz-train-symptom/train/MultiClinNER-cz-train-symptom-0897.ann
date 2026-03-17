@@ -1,0 +1,54 @@
+T108	SYMPTOM 735 751	bolestí na hrudi
+T161	SYMPTOM 873 896	vegetativního doprovodu
+T15	SYMPTOM 974 1005	Žádná předchozí angina pectoris
+T1	SYMPTOM 1007 1026	Kašel s expektorací
+T126	SYMPTOM 1046 1053	horečky
+T103	SYMPTOM 1055 1067	bez dušnosti
+T2	SYMPTOM 1073 1087	bolesti břicha
+T16	SYMPTOM 1093 1114	změn střevních návyků
+T3	SYMPTOM 1246 1264	Dobrý celkový stav
+T164	SYMPTOM 1266 1276	Při vědomí
+T140	SYMPTOM 1278 1289	orientovaný
+T153	SYMPTOM 1292 1306	spolupracující
+T84	SYMPTOM 1308 1324	Normohydratovaný
+T136	SYMPTOM 1327 1341	normální barvy
+T90	SYMPTOM 1343 1360	V klidu eupnoický
+T135	SYMPTOM 1366 1394	ložiskový neurologický nález
+T77	SYMPTOM 1396 1425	Jugulární žilní tlak normální
+T73	SYMPTOM 1427 1468	Auskultace srdce: akce srdeční pravidelná
+T168	SYMPTOM 1474 1481	šelestů
+T4	SYMPTOM 1500 1518	vezikulární šelest
+T149	SYMPTOM 1530 1549	vedlejších fenomenů
+T74	SYMPTOM 1551 1606	Břicho: normální hydroaerické zvuky, měkké a depresivní
+T106	SYMPTOM 1608 1630	bez bolesti při palpac
+T143	SYMPTOM 1646 1669	peritoneálního dráždění
+T5	SYMPTOM 1671 1703	Dolní končetiny: pulzy zachovány
+T104	SYMPTOM 1705 1714	bez otoků
+T6	SYMPTOM 2594 2605	Normální PR
+T8	SYMPTOM 2607 2631	Úzké QRS s normální osou
+T92	SYMPTOM 2637 2666	akutních repolarizačních změn
+T17	SYMPTOM 2682 2694	normální CTI
+T166	SYMPTOM 2700 2706	útvarů
+T18	SYMPTOM 2712 2737	parenchymových kondenzací
+T19	SYMPTOM 2798 2828	Levá koronární tepna: bez lézí
+T20	SYMPTOM 2830 2895	Přední sestupná tepna (LAD): dlouhá céva dobrého kalibru a vývoje
+T12	SYMPTOM 3066 3118	Cirkumflexa: céva dobrého kalibru a vývoje, bez lézí
+T21	SYMPTOM 3120 3162	Pravá koronární céva: dominantní, bez lézí
+T24	SYMPTOM 3249 3298	koronární tepny bez angiograficky významných lézí
+T13	SYMPTOM 3399 3445	levá komora (LK) normální velikosti a tloušťky
+T22	SYMPTOM 3447 3471	zachovaná ejekční frakce
+T23	SYMPTOM 3480 3513	bez změn regionální kontraktility
+T10	SYMPTOM 3837 3852	sinusový rytmus
+T7	SYMPTOM 3870 3881	Normální PR
+T14	SYMPTOM 3889 3907	patologické Q vlny
+T9	SYMPTOM 3909 3933	Úzké QRS s normální osou
+T25	SYMPTOM 3935 3959	bez repolarizačních změn
+T107	SYMPTOM 4156 4172	bolesti na hrudi
+T26	SYMPTOM 4175 4212	mobilizací markerů poškození myokardu
+T27	SYMPTOM 4292 4319	elevací ST segmentu (STEMI)
+T82	SYMPTOM 5187 5202	zachovanou LVEF
+T102	SYMPTOM 5226 5240	asymptomatický
+T11	SYMPTOM 5242 5264	hemodynamicky stabilní
+T29	SYMPTOM 5269 5290	klesajícími troponiny
+T32	SYMPTOM 5841 5900	Koronární tepny bez základního aterosklerotického postižení
+T83	SYMPTOM 5902 5916	Zachovalá LVEF

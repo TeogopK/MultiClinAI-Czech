@@ -1,0 +1,45 @@
+T30	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T32	PROCEDURE 303 318	vaginální porod
+T33	PROCEDURE 582 599	elektrokardiogram
+T34	PROCEDURE 601 604	EKG
+T31	PROCEDURE 886 905	Fyzikální vyšetření
+T38	PROCEDURE 1097 1113	Auskultace srdce
+T39	PROCEDURE 1180 1197	Plicní auskultace
+T35	PROCEDURE 1524 1527	EKG
+T2	PROCEDURE 1791 1803	Krevní testy
+T41	PROCEDURE 1924 1933	Koagulace
+T60	PROCEDURE 1955 1964	Biochemie
+T42	PROCEDURE 2159 2174	Lipidový profil
+T43	PROCEDURE 2307 2323	Echokardiografie
+T5	PROCEDURE 2800 2818	barevného dopplera
+T47	PROCEDURE 2928 2942	koronarografie
+T53	PROCEDURE 3168 3182	CT angiografie
+T51	PROCEDURE 3694 3725	revaskularizační koronarografie
+T52	PROCEDURE 3727 3758	sondáž levého koronárního kmene
+T48	PROCEDURE 3841 3858	nástřik kontrastu
+T10	PROCEDURE 3944 4044	implantace lékového stentu Onyx Resolute 4 x 26 mm při 16 atm v kmeni směrem k přední sestupné tepně
+T11	PROCEDURE 4063 4077	angiografickým
+T36	PROCEDURE 4113 4116	EKG
+T54	PROCEDURE 4332 4363	transtorakální echokardiografie
+T37	PROCEDURE 5075 5078	EKG
+T44	PROCEDURE 5229 5241	Krevní testy
+T40	PROCEDURE 5258 5270	Krevní obraz
+T13	PROCEDURE 5359 5369	Srážlivost
+T61	PROCEDURE 5386 5395	Biochemie
+T14	PROCEDURE 5687 5702	nosními brýlemi
+T45	PROCEDURE 5759 5775	echokardiografie
+T16	PROCEDURE 5925 5939	koronarografii
+T49	PROCEDURE 5941 5955	Koronarografie
+T55	PROCEDURE 6160 6175	revaskularizace
+T18	PROCEDURE 6189 6209	CT angiografií aorty
+T57	PROCEDURE 6262 6288	perkutánní revaskularizace
+T50	PROCEDURE 6337 6351	koronarografie
+T56	PROCEDURE 6357 6440	levé koronární tepny směrem k přední sestupné koronární tepně byl implantován stent
+T19	PROCEDURE 6451 6466	angiografickými
+T20	PROCEDURE 6759 6774	revaskularizaci
+T58	PROCEDURE 6865 6886	protidestičková léčba
+T21	PROCEDURE 7050 7061	katetrizaci
+T22	PROCEDURE 7081 7108	echokardiografické kontrole
+T59	PROCEDURE 7371 7393	kardiální rehabilitace
+T46	PROCEDURE 7554 7570	echokardiografie
+T27	PROCEDURE 8057 8109	lékovým stentem v levé přední sestupné věnčité tepně

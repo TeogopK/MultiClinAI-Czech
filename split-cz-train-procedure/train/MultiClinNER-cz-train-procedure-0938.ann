@@ -1,0 +1,24 @@
+T28	PROCEDURE 0 8	ANAMNÉZA
+T22	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T39	PROCEDURE 151 173	kardiologické anamnézy
+T1	PROCEDURE 199 232	pravostrannou hemithyreoidektomii
+T2	PROCEDURE 256 283	Anatomopatologická diagnóza
+T29	PROCEDURE 413 425	CT vyšetření
+T12	PROCEDURE 554 581	jednostranná adrenalektomie
+T19	PROCEDURE 583 599	levá nefrektomie
+T20	PROCEDURE 601 613	splenektomie
+T27	PROCEDURE 616 644	paraaortální lymfadenektomie
+T56	PROCEDURE 646 674	Anatomopatologické vyšetření
+T38	PROCEDURE 764 780	Rodinná anamnéza
+T30	PROCEDURE 1067 1079	CT vyšetření
+T23	PROCEDURE 1416 1435	FYZIKÁLNÍ VYŠETŘENÍ
+T24	PROCEDURE 1497 1524	Kardiopulmonální auskultace
+T31	PROCEDURE 1586 1614	CT hrudníku a břicha a pánve
+T25	PROCEDURE 1883 1900	ELEKTROKARDIOGRAM
+T26	PROCEDURE 1902 1905	EKG
+T35	PROCEDURE 1968 1997	Transtorakální echokardiogram
+T34	PROCEDURE 2337 2345	MR SRDCE
+T40	PROCEDURE 2737 2781	Masa a její implantační báze byly resekovány
+T41	PROCEDURE 2784 2825	defekt byl uzavřen perikardiální záplatou
+T54	PROCEDURE 2878 2921	transtorakální echokardiografické vyšetření
+T60	PROCEDURE 3024 3052	Anatomopatologické vyšetření

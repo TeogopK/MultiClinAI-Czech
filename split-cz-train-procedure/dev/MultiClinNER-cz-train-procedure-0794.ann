@@ -1,0 +1,23 @@
+T60	PROCEDURE 9 17	anamnéza
+T2	PROCEDURE 208 239	trojité antiretrovirové terapii
+T3	PROCEDURE 261 264	ART
+T5	PROCEDURE 372 395	chemoterapeutická léčba
+T31	PROCEDURE 459 477	léčba chemoterapií
+T98	PROCEDURE 1506 1515	vyšetření
+T32	PROCEDURE 1518 1537	Fyzikální vyšetření
+T57	PROCEDURE 1754 1772	Srdeční auskultace
+T33	PROCEDURE 1927 1930	EKG
+T47	PROCEDURE 2017 2038	laboratorní vyšetření
+T55	PROCEDURE 2178 2181	RTG
+T34	PROCEDURE 2241 2255	Echokardiogram
+T35	PROCEDURE 2520 2534	Echokardiogram
+T38	PROCEDURE 2616 2668	evakuační perikardiocentéza subxifoidálním přístupem
+T11	PROCEDURE 2710 2738	Barvení tekutiny podle Grama
+T80	PROCEDURE 2770 2779	kultivace
+T54	PROCEDURE 2824 2835	hemokultura
+T61	PROCEDURE 2906 2924	antibiotická léčba
+T36	PROCEDURE 2979 2993	echokardiogram
+T92	PROCEDURE 3292 3301	sledování
+T37	PROCEDURE 3448 3462	Echokardiogram
+T40	PROCEDURE 3522 3549	evakuační perikardiocentéza
+T41	PROCEDURE 3622 3640	drenáž s odsáváním

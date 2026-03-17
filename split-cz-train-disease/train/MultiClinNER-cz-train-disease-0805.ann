@@ -1,0 +1,36 @@
+T52	DISEASE 168 191	akutní infarkt myokardu
+T99	DISEASE 224 263	chronickou ischemickou chorobou srdeční
+T2	DISEASE 371 393	vrozenou srdeční vadou
+T53	DISEASE 515 529	lékové alergie
+T54	DISEASE 566 571	kuřák
+T106	DISEASE 616 626	hypertenze
+T55	DISEASE 628 636	diabetes
+T56	DISEASE 641 653	dyslipidemie
+T3	DISEASE 955 962	synkopa
+T138	DISEASE 1559 1571	užívání drog
+T105	DISEASE 2037 2059	hluboké žilní trombózy
+T98	DISEASE 2729 2751	chlopenní srdeční vada
+T76	DISEASE 2774 2777	PAH
+T57	DISEASE 2817 2838	perikardiální výpotek
+T58	DISEASE 2920 2944	fibróza/nekróza myokardu
+T62	DISEASE 2986 3007	Komorové extrasystoly
+T83	DISEASE 3009 3012	KES
+T117	DISEASE 3145 3176	nesetrvalé komorové tachykardie
+T4	DISEASE 3178 3182	NSKT
+T72	DISEASE 3341 3345	LBBB
+T103	DISEASE 4006 4017	extrasystol
+T60	DISEASE 4045 4061	komorové arytmie
+T132	DISEASE 4308 4315	synkopy
+T133	DISEASE 4511 4518	synkopy
+T61	DISEASE 4547 4576	strukturální onemocnění srdce
+T84	DISEASE 4782 4785	KES
+T73	DISEASE 5099 5103	LBBB
+T92	DISEASE 5486 5493	arytmií
+T108	DISEASE 5650 5668	komorových arytmií
+T10	DISEASE 6024 6035	kanálopatií
+T11	DISEASE 6041 6053	náhlou smrtí
+T134	DISEASE 6146 6163	Opakované synkopy
+T12	DISEASE 6175 6206	polymorfní komorové tachykardie
+T109	DISEASE 6234 6259	komorovými extrasystolami
+T104	DISEASE 6318 6329	extrasystol
+T131	DISEASE 6412 6443	strukturální srdeční onemocnění

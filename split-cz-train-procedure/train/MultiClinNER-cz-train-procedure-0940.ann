@@ -1,0 +1,29 @@
+T22	PROCEDURE 0 8	ANAMNÉZA
+T15	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T24	PROCEDURE 210 218	Anamnéza
+T65	PROCEDURE 569 591	ultrazvukové vyšetření
+T32	PROCEDURE 648 664	rodinné anamnéze
+T1	PROCEDURE 736 743	operaci
+T14	PROCEDURE 901 904	EKG
+T34	PROCEDURE 1003 1016	angioplastice
+T46	PROCEDURE 1127 1147	fyzikálním vyšetření
+T30	PROCEDURE 1199 1208	VYŠETŘENÍ
+T66	PROCEDURE 1213 1236	urgentní koronarografii
+T2	PROCEDURE 1261 1273	katetrizovat
+T4	PROCEDURE 1367 1380	katetrizována
+T6	PROCEDURE 1893 1928	intrakoronární zobrazovací techniky
+T59	PROCEDURE 2017 2047	optickou koherentní tomografii
+T16	PROCEDURE 2049 2052	OCT
+T21	PROCEDURE 2058 2099	sondáži OM1 dvěma angioplastickými vodiči
+T17	PROCEDURE 2109 2112	OCT
+T53	PROCEDURE 2182 2191	kontrastu
+T23	PROCEDURE 2684 2696	krevní testy
+T62	PROCEDURE 2699 2715	rentgen hrudníku
+T25	PROCEDURE 2741 2772	Transtorakální echokardiografie
+T19	PROCEDURE 2922 2947	vyšetření funkce myokardu
+T55	PROCEDURE 2984 3011	magnetickou rezonanci srdce
+T31	PROCEDURE 3085 3120	pozdního gadoliniového enhancementu
+T33	PROCEDURE 3214 3228	angiografickým
+T18	PROCEDURE 3231 3234	OCT
+T61	PROCEDURE 3535 3565	duální protidestičkovou léčbou
+T63	PROCEDURE 3673 3682	sledování

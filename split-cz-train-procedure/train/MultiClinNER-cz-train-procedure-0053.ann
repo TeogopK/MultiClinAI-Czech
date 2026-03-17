@@ -1,0 +1,16 @@
+T2	PROCEDURE 127 139	Kolonoskopie
+T3	PROCEDURE 206 218	gastroskopie
+T9	PROCEDURE 283 299	odebrány biopsie
+T4	PROCEDURE 301 329	Histologie žaludeční biopsie
+T6	PROCEDURE 412 428	imunohistochemie
+T15	PROCEDURE 512 529	Laboratorní testy
+T8	PROCEDURE 755 763	sediment
+T5	PROCEDURE 853 868	renální biopsie
+T10	PROCEDURE 979 1009	gastrointestinálních biopsiích
+T19	PROCEDURE 1045 1075	echokardiografickým vyšetřením
+T1	PROCEDURE 1091 1139	léčba selektivním inhibitorem tyrozinkinázy cKit
+T11	PROCEDURE 1239 1262	chirurgickém odstranění
+T12	PROCEDURE 1279 1330	pozitronové emisní tomografii/počítačové tomografii
+T7	PROCEDURE 1363 1383	Patologická anatomie
+T13	PROCEDURE 1404 1459	excidovaného žaludku a slezinné flexury tlustého střeva
+T14	PROCEDURE 1673 1702	pravidelného hemodialyzačního

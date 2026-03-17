@@ -1,0 +1,40 @@
+T38	PROCEDURE 95 107	chemoterapie
+T44	PROCEDURE 176 195	FYZIKÁLNÍ VYŠETŘENÍ
+T32	PROCEDURE 656 670	segmentektomie
+T2	PROCEDURE 673 704	vyprázdnění axily úrovně I a II
+T34	PROCEDURE 788 811	adjuvantní chemoterapie
+T58	PROCEDURE 844 847	FEC
+T35	PROCEDURE 955 967	radioterapie
+T39	PROCEDURE 1026 1054	Echokardiografické vyšetření
+T40	PROCEDURE 1070 1082	chemoterapie
+T41	PROCEDURE 1360 1372	chemoterapie
+T59	PROCEDURE 1377 1380	FEC
+T45	PROCEDURE 1965 1984	Fyzikální vyšetření
+T3	PROCEDURE 2172 2197	doplňkovou oxygenoterapii
+T46	PROCEDURE 2212 2228	Auskultace srdce
+T47	PROCEDURE 2266 2281	Auskultace plic
+T48	PROCEDURE 2427 2444	elektrokardiogram
+T49	PROCEDURE 2607 2619	RTG hrudníku
+T50	PROCEDURE 2740 2748	hemogram
+T62	PROCEDURE 2812 2825	Funkce ledvin
+T63	PROCEDURE 2828 2833	ionty
+T51	PROCEDURE 2905 2914	Koagulace
+T53	PROCEDURE 2936 2956	Kardiální biomarkery
+T4	PROCEDURE 3031 3053	Kardiální monitorování
+T36	PROCEDURE 3123 3137	Echokardiogram
+T54	PROCEDURE 3924 3938	Koronarografie
+T56	PROCEDURE 3997 4023	Magnetická rezonance srdce
+T8	PROCEDURE 4389 4417	Echokardiografické vyšetření
+T33	PROCEDURE 4765 4779	segmentektomie
+T10	PROCEDURE 4782 4811	odstranění lymfatických uzlin
+T42	PROCEDURE 4883 4895	chemoterapie
+T60	PROCEDURE 4896 4899	FEC
+T64	PROCEDURE 5034 5060	markery poškození myokardu
+T11	PROCEDURE 5062 5085	elektrokardiografickými
+T52	PROCEDURE 5162 5191	echokardiografickém vyšetření
+T55	PROCEDURE 5208 5222	koronarografie
+T57	PROCEDURE 5337 5363	magnetická rezonance srdce
+T43	PROCEDURE 5750 5762	chemoterapie
+T61	PROCEDURE 5765 5768	FEC
+T37	PROCEDURE 5923 5937	echokardiogram
+T68	PROCEDURE 6057 6080	chemoterapeutické léčby

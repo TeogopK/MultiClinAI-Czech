@@ -1,0 +1,25 @@
+T1	PROCEDURE 200 222	antimikrobiálními léky
+T2	PROCEDURE 395 453	srdeční frekvence regulována přechodným kardiostimulátorem
+T3	PROCEDURE 476 504	implantován trvalý generátor
+T4	PROCEDURE 561 604	Transtorakální echokardiografické vyšetření
+T5	PROCEDURE 606 609	TTE
+T12	PROCEDURE 672 691	Fyzikální vyšetření
+T13	PROCEDURE 855 872	elektrokardiogram
+T14	PROCEDURE 916 942	rentgenový snímek hrudníku
+T15	PROCEDURE 1076 1109	Transezofageální echokardiografie
+T18	PROCEDURE 1111 1114	TEE
+T16	PROCEDURE 1401 1415	Koronarografie
+T20	PROCEDURE 1529 1556	podélné střední sternotomii
+T21	PROCEDURE 1558 1606	arteriální a venózní kanylaci pro mimotělní oběh
+T22	PROCEDURE 1608 1611	ECC
+T23	PROCEDURE 1614 1637	pravostranné atriotomii
+T24	PROCEDURE 1639 1654	aortální svorce
+T25	PROCEDURE 1657 1673	anoxické zástavě
+T26	PROCEDURE 1676 1712	izotermickou hematickou kardioplegií
+T27	PROCEDURE 1713 1779	otevřena mezisíňová přepážka (AIS) s rozšířením na strop levé síně
+T29	PROCEDURE 1993 2046	Nádor byl kompletně resekován vedle mitrálního lístku
+T17	PROCEDURE 2049 2124	byla implantována dvoudisková mechanická protéza Sorin/Carbomedics Standard
+T32	PROCEDURE 2205 2220	aortální svorky
+T31	PROCEDURE 2233 2259	kardiopulmonálního bypassu
+T33	PROCEDURE 2339 2348	extubován
+T34	PROCEDURE 2511 2514	TTE

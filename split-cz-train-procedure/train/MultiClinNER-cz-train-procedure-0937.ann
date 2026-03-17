@@ -1,0 +1,22 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 1022 1042	fyzikálním vyšetření
+T22	PROCEDURE 1224 1240	Auskultace srdce
+T23	PROCEDURE 1468 1471	EKG
+T24	PROCEDURE 1639 1651	RTG hrudníku
+T25	PROCEDURE 1784 1796	krevní obraz
+T26	PROCEDURE 1863 1872	Koagulace
+T32	PROCEDURE 1891 1900	Biochemie
+T33	PROCEDURE 2094 2120	markery poškození myokardu
+T27	PROCEDURE 2175 2204	Transtorakální echokardiogram
+T10	PROCEDURE 2206 2209	TTE
+T30	PROCEDURE 2790 2813	hemodynamické vyšetření
+T28	PROCEDURE 3006 3022	ventrikulografie
+T39	PROCEDURE 3164 3190	Magnetická rezonance srdce
+T34	PROCEDURE 3192 3195	MRI
+T40	PROCEDURE 3829 3847	elektrokardiogramu
+T41	PROCEDURE 3978 4006	echokardiografické vyšetření
+T43	PROCEDURE 4195 4215	hemodynamické studie
+T29	PROCEDURE 4450 4466	ventrikulografie
+T47	PROCEDURE 4667 4694	magnetickou rezonanci srdce
+T50	PROCEDURE 4885 4927	implantaci trvalého kardiostimulátoru DDDR
+T31	PROCEDURE 5051 5084	Implantace kardiostimulátoru DDDR

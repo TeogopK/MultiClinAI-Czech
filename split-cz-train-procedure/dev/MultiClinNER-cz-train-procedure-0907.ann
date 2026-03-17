@@ -1,0 +1,19 @@
+T26	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T27	PROCEDURE 496 515	Fyzikální vyšetření
+T28	PROCEDURE 638 654	Auskultace srdce
+T42	PROCEDURE 786 803	Plicní auskultace
+T35	PROCEDURE 931 946	Dolní končetiny
+T29	PROCEDURE 1012 1015	EKG
+T1	PROCEDURE 1179 1191	Krevní testy
+T2	PROCEDURE 1503 1515	RTG hrudníku
+T30	PROCEDURE 1659 1675	Echokardiografie
+T32	PROCEDURE 2169 2176	Doppler
+T33	PROCEDURE 2847 2880	perkutánní mitrální komisurotomie
+T8	PROCEDURE 2882 2885	PMC
+T9	PROCEDURE 3086 3089	PMC
+T71	PROCEDURE 3124 3147	operaci náhrady chlopně
+T34	PROCEDURE 3186 3195	ultrazvuk
+T10	PROCEDURE 3487 3520	perkutánní mitrální komisurotomii
+T11	PROCEDURE 3522 3574	Komissurotomie byla provedena pomocí Inoueho balonku
+T44	PROCEDURE 3576 3596	Transseptální punkcí
+T31	PROCEDURE 3896 3912	echokardiografie

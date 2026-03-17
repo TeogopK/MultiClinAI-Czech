@@ -1,0 +1,44 @@
+T58	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 240 252	dietní léčbě
+T59	PROCEDURE 817 836	Fyzikální vyšetření
+T60	PROCEDURE 1003 1019	Auskultace srdce
+T61	PROCEDURE 1057 1072	Auskultace plic
+T62	PROCEDURE 1105 1121	Vyšetření břicha
+T63	PROCEDURE 1288 1305	elektrokardiogram
+T65	PROCEDURE 1307 1310	EKG
+T64	PROCEDURE 1542 1559	Elektrokardiogram
+T66	PROCEDURE 2746 2772	Markery poškození myokardu
+T67	PROCEDURE 2821 2847	Rentgenový snímek hrudníku
+T68	PROCEDURE 2896 2925	Transtorakální echokardiogram
+T4	PROCEDURE 2927 2930	TTE
+T8	PROCEDURE 3229 3267	Aortální chlopeň trojcípá, sklerotická
+T69	PROCEDURE 3404 3433	Transtorakální echokardiogram
+T71	PROCEDURE 3655 3669	Koronarografie
+T9	PROCEDURE 3787 3827	intravaskulárním ultrazvukovém vyšetření
+T73	PROCEDURE 3829 3833	IVUS
+T81	PROCEDURE 3857 3889	Revaskularizace: pravá koronární
+T10	PROCEDURE 3874 3940	pravá koronární tepna: přímá implantace stentu uvolňujícího léčivo
+T11	PROCEDURE 4001 4014	angiografický
+T76	PROCEDURE 4025 4095	Elektrofyziologická studie (EEF): s pravým femorálním žilním přístupem
+T74	PROCEDURE 4053 4056	EEF
+T16	PROCEDURE 4431 4434	TEE
+T75	PROCEDURE 4485 4507	elektrická kardioverze
+T17	PROCEDURE 4509 4512	EKV
+T82	PROCEDURE 5188 5199	elektrogram
+T48	PROCEDURE 5235 5305	Ablaci pravého raménka jsme provedli pomocí konvenčního 4mm FJ katétru
+T49	PROCEDURE 5419 5472	implantován dvoukomorový kardiostimulátor DDDR Boston
+T56	PROCEDURE 5557 5570	betablokátory
+T57	PROCEDURE 5626 5636	telemetrií
+T70	PROCEDURE 5704 5733	transtorakální echokardiogram
+T72	PROCEDURE 5890 5904	koronarografie
+T86	PROCEDURE 5989 6027	revaskularizace pomocí lékového stentu
+T89	PROCEDURE 6114 6132	elektrokardiogramu
+T77	PROCEDURE 6356 6382	elektrofyziologická studie
+T83	PROCEDURE 6550 6561	elektrogram
+T78	PROCEDURE 6725 6747	ablace pravého raménka
+T51	PROCEDURE 6750 6782	implantace DDD kardiostimulátoru
+T80	PROCEDURE 7138 7152	elektromyogram
+T95	PROCEDURE 7155 7174	genetické vyšetření
+T96	PROCEDURE 7363 7389	implantací lékového stentu
+T79	PROCEDURE 7391 7413	Ablace pravého raménka
+T97	PROCEDURE 7415 7460	Implantace bostonského kardiostimulátoru DDDR

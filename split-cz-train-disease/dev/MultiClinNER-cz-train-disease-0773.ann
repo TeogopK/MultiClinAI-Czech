@@ -1,0 +1,33 @@
+T10	DISEASE 33 47	lékové alergie
+T11	DISEASE 48 66	Vysoký krevní tlak
+T1	DISEASE 68 70	HT
+T2	DISEASE 72 92	Hypercholesterolémie
+T24	DISEASE 93 110	Bronchiální astma
+T12	DISEASE 113 123	zápal plic
+T13	DISEASE 136 166	Chronická atrofická gastritida
+T3	DISEASE 169 224	chronické onemocnění jater způsobené virem hepatitidy C
+T14	DISEASE 226 229	HCV
+T25	DISEASE 231 247	Chondrokalcinóza
+T4	DISEASE 248 288	Kalcifikující tendinitida pravého ramene
+T26	DISEASE 289 300	Osteoporóza
+T15	DISEASE 301 317	Hyperparatyreóza
+T16	DISEASE 351 392	Oboustranná senzorineurální ztráta sluchu
+T17	DISEASE 393 412	Syndrom suchého oka
+T18	DISEASE 830 845	srdeční selhání
+T9	DISEASE 848 867	hemolytickou anémii
+T39	DISEASE 884 917	pozdní periprotetickou dehiscencí
+T42	DISEASE 1169 1241	symptomatického onemocnění sinusového uzlu s paroxyzmální fibrilací síní
+T19	DISEASE 1334 1349	srdeční selhání
+T20	DISEASE 1432 1449	srdečního selhání
+T45	DISEASE 1607 1682	mitrálních periprotetických netěsností (jedné septální a jedné posteriorní)
+T50	DISEASE 2054 2079	zadní mitrální netěsnosti
+T21	DISEASE 3653 3671	apikální aneuryzma
+T27	DISEASE 3771 3819	Mechanická aortální protéza s mírnou regurgitací
+T55	DISEASE 3853 3874	Středně dilatovaná LA
+T56	DISEASE 3876 3899	Dilatovaná pravá komora
+T28	DISEASE 3901 3946	Pravá komora (RV) se středně těžkou dysfunkcí
+T22	DISEASE 3948 3987	Středně těžká trikuspidální regurgitace
+T23	DISEASE 4073 4094	perikardiální výpotek
+T58	DISEASE 4114 4168	mitrální protéza se dvěma periprotetickými netěsnostmi
+T60	DISEASE 4402 4446	mírnou periprotetickou mitrální insuficienci
+T61	DISEASE 4458 4507	Netěsnost nebo periprotetická mitrální dehiscence

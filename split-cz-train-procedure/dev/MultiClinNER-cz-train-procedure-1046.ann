@@ -1,0 +1,33 @@
+T27	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T28	PROCEDURE 218 233	vaginální porod
+T90	PROCEDURE 1084 1101	kyslíkové terapie
+T72	PROCEDURE 1107 1117	auskultaci
+T92	PROCEDURE 1195 1212	plicní auskultaci
+T1	PROCEDURE 1474 1491	Laboratorní testy
+T2	PROCEDURE 1493 1507	renální funkce
+T42	PROCEDURE 1542 1547	ionty
+T54	PROCEDURE 1559 1572	Jaterní testy
+T29	PROCEDURE 1611 1619	Hemogram
+T30	PROCEDURE 1679 1688	Koagulace
+T3	PROCEDURE 1701 1713	RTG hrudníku
+T31	PROCEDURE 1802 1819	Elektrokardiogram
+T32	PROCEDURE 1821 1824	EKG
+T34	PROCEDURE 1957 1988	Transtorakální echokardiografie
+T65	PROCEDURE 1990 1993	TTE
+T73	PROCEDURE 2792 2810	barevného dopplera
+T45	PROCEDURE 3015 3038	Angiografické vyšetření
+T77	PROCEDURE 3057 3074	celkové anestezii
+T84	PROCEDURE 3111 3138	injekce s kontrastní látkou
+T9	PROCEDURE 3152 3173	předozadní plnění RCA
+T37	PROCEDURE 3522 3530	anamnéza
+T33	PROCEDURE 3600 3603	EKG
+T35	PROCEDURE 3662 3693	Transtorakální echokardiografie
+T74	PROCEDURE 3762 3780	barevného dopplera
+T70	PROCEDURE 4149 4160	aortografii
+T78	PROCEDURE 4184 4201	celkové anestezii
+T93	PROCEDURE 4206 4229	podání kontrastní látky
+T14	PROCEDURE 4487 4516	vazoaktivní/inotropní podporu
+T40	PROCEDURE 4527 4543	echokardiografie
+T15	PROCEDURE 4594 4619	mechanickou podporu oběhu
+T16	PROCEDURE 4905 4930	revaskularizačnímu výkonu
+T17	PROCEDURE 4954 4976	koronární CT vyšetření

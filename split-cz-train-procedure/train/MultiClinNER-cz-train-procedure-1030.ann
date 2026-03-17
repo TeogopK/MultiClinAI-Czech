@@ -1,0 +1,16 @@
+T19	PROCEDURE 0 8	Anamnéza
+T5	PROCEDURE 32 51	fyzikální vyšetření
+T7	PROCEDURE 299 302	EKG
+T6	PROCEDURE 342 361	Fyzikální vyšetření
+T9	PROCEDURE 399 413	Echokardiogram
+T36	PROCEDURE 415 431	rentgen hrudníku
+T1	PROCEDURE 434 451	laboratorní testy
+T46	PROCEDURE 487 502	zátěžovém testu
+T30	PROCEDURE 692 716	holterovské monitorování
+T21	PROCEDURE 972 996	Holterovské monitorování
+T38	PROCEDURE 1095 1104	sledování
+T15	PROCEDURE 1237 1268	elektrofyziologickým vyšetřením
+T20	PROCEDURE 1290 1305	polysomnografií
+T13	PROCEDURE 1425 1434	analgezie
+T14	PROCEDURE 1730 1774	implantace jednokomorového kardiostimulátoru
+T12	PROCEDURE 1834 1860	Holterovo monitorování EKG

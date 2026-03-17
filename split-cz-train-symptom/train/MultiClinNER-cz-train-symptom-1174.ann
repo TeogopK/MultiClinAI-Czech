@@ -1,0 +1,58 @@
+T78	SYMPTOM 347 363	bolesti na hrudi
+T1	SYMPTOM 390 426	ischemický test, který byl negativní
+T107	SYMPTOM 764 778	náhlé dušnosti
+T20	SYMPTOM 781 805	generalizovaným pruritem
+T21	SYMPTOM 808 862	svíravým pocitem na hrudi vyzařujícím do obou končetin
+T22	SYMPTOM 879 897	synkopální příhodu
+T122	SYMPTOM 935 954	špatný celkový stav
+T23	SYMPTOM 1041 1053	ostré vlny T
+T90	SYMPTOM 1056 1070	elevací bodu J
+T24	SYMPTOM 1174 1192	elevacemi úseku ST
+T25	SYMPTOM 1345 1353	spavostí
+T18	SYMPTOM 1523 1562	Ventrikulografie bez segmentálních změn
+T26	SYMPTOM 1567 1587	kompetentní mitrální
+T2	SYMPTOM 1614 1626	kožní erytém
+T27	SYMPTOM 1702 1718	zploštěním vln T
+T3	SYMPTOM 1880 1899	zvýšení troponinu I
+T119	SYMPTOM 2184 2190	vědomí
+T108	SYMPTOM 2193 2204	orientovaný
+T103	SYMPTOM 2222 2238	normohydratovaný
+T113	SYMPTOM 2258 2281	akce srdeční pravidelná
+T121	SYMPTOM 2287 2294	šelestů
+T4	SYMPTOM 2302 2315	krční pulzace
+T14	SYMPTOM 2317 2352	Auskultace plic: normální ventilace
+T53	SYMPTOM 2354 2405	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T120	SYMPTOM 2413 2419	útvary
+T101	SYMPTOM 2424 2439	zvětšené orgány
+T110	SYMPTOM 2454 2477	peritoneálního dráždění
+T65	SYMPTOM 2479 2500	peristaltika přítomná
+T97	SYMPTOM 2502 2530	Dolní končetiny: žádné otoky
+T29	SYMPTOM 2766 2803	RTG hrudníku: bez relevantních nálezů
+T5	SYMPTOM 2816 2831	sinusový rytmus
+T7	SYMPTOM 2845 2860	hrotnaté T vlny
+T91	SYMPTOM 2863 2877	elevací bodu J
+T6	SYMPTOM 2917 2932	sinusový rytmus
+T30	SYMPTOM 2961 2979	T negativní ve III
+T8	SYMPTOM 2981 3006	ST rektilineární ve V5-V6
+T9	SYMPTOM 3023 3075	levá komora (LK) normálních rozměrů a tloušťky stěny
+T10	SYMPTOM 3077 3112	Normální globální systolická funkce
+T114	SYMPTOM 3118 3155	segmentálních asymetrií kontraktility
+T11	SYMPTOM 3157 3184	Normální diastolické plnění
+T12	SYMPTOM 3186 3213	Levá síň normálních rozměrů
+T31	SYMPTOM 3215 3244	Normální rozměry pravé komory
+T32	SYMPTOM 3246 3280	normálně kontraktilní pravá komora
+T102	SYMPTOM 3571 3605	Dolní dutá žíla (IVC) nedilatovaná
+T106	SYMPTOM 3608 3638	normálním inspiračním kolapsem
+T33	SYMPTOM 3640 3693	Normální odhadovaný systolický tlak v plicnici (PAPs)
+T34	SYMPTOM 3708 3731	perikardiálního výpotku
+T94	SYMPTOM 3734 3755	nitrosrdečních útvarů
+T35	SYMPTOM 3800 3826	koronární tepny bez stenoz
+T13	SYMPTOM 3922 3946	Dobrá funkce levé komory
+T36	SYMPTOM 3975 3999	funkční mitrální chlopní
+T16	SYMPTOM 4044 4052	stabilní
+T76	SYMPTOM 4068 4082	asymptomatický
+T104	SYMPTOM 4138 4165	normální systolickou funkci
+T105	SYMPTOM 4245 4272	normální systolickou funkcí
+T51	SYMPTOM 4425 4439	Asymptomatický
+T17	SYMPTOM 4442 4450	stabilní
+T15	SYMPTOM 4595 4646	koronární tepny bez významných angiografických lézí

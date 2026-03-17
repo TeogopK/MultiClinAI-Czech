@@ -1,0 +1,62 @@
+T43	SYMPTOM 114 131	nestabilitě chůze
+T44	SYMPTOM 327 358	normální elektrokardiogram (EKG
+T46	SYMPTOM 497 504	synkopy
+T47	SYMPTOM 704 721	nestabilitu chůze
+T49	SYMPTOM 843 861	presynkopu/synkopu
+T1	SYMPTOM 1038 1053	bolest na hrudi
+T2	SYMPTOM 1061 1068	dušnost
+T4	SYMPTOM 1070 1078	ortopnoe
+T50	SYMPTOM 1083 1110	paroxyzmální noční dušnost.
+T5	SYMPTOM 1156 1163	horečka
+T7	SYMPTOM 1239 1273	zvýšené markery poškození myokardu
+T8	SYMPTOM 1276 1300	změny elektrokardiogramu
+T9	SYMPTOM 1407 1413	vědomí
+T3	SYMPTOM 1416 1427	orientovaný
+T51	SYMPTOM 1429 1447	celkový stav dobrý
+T52	SYMPTOM 1449 1469	Eupnoický v dekubitu
+T53	SYMPTOM 1475 1488	dechové práce
+T54	SYMPTOM 1508 1516	rytmický
+T55	SYMPTOM 1518 1567	systolický šelest v levém dolním sternálním okraj
+T10	SYMPTOM 1587 1615	zachovalý vezikulární šelest
+T56	SYMPTOM 1620 1635	přidaných zvuků
+T11	SYMPTOM 1637 1663	Dolní končetiny: bez otoků
+T12	SYMPTOM 1665 1696	Normální neurologické vyšetření
+T13	SYMPTOM 1737 1752	sinusový rytmus
+T15	SYMPTOM 1770 1781	Normální PR
+T18	SYMPTOM 1783 1791	Úzké QRS
+T17	SYMPTOM 1783 1807	Úzké QRS s normální osou
+T57	SYMPTOM 1809 1818	přední QS
+T58	SYMPTOM 1820 1882	elevace ST 1-2 mm v prekordiu a submilimetrická v dolní frontě
+T59	SYMPTOM 1884 1903	negativní T v I-aVL
+T60	SYMPTOM 1925 1972	Elevace ST ve svodech V2-V6 až 3 mm ve svodu V3
+T61	SYMPTOM 1975 2023	negativní vlnou T ve všech prekordiálních svodec
+T14	SYMPTOM 2071 2086	sinusový rytmus
+T16	SYMPTOM 2104 2115	normální PR
+T19	SYMPTOM 2117 2125	úzké QRS
+T62	SYMPTOM 2127 2195	hluboká a symetrická negativní vlna T v dolním líci, I a aVL a V2-V6
+T20	SYMPTOM 3040 3065	PCR SARS-CoV-2: negativní
+T63	SYMPTOM 3308 3363	levá komora není dilatovaná, s normální tloušťkou stěny
+T64	SYMPTOM 3365 3422	Akineze středních a distálních segmentů všech čel a hrotu
+T21	SYMPTOM 3424 3454	Hyperkineze bazálních segmentů
+T22	SYMPTOM 3456 3496	Mírně snížená globální systolická funkce
+T65	SYMPTOM 3587 3613	Pravá síň není dilatovaná.
+T66	SYMPTOM 3724 3792	Pravá komora není dilatovaná, s normální globální systolickou funkcí
+T23	SYMPTOM 3845 3897	levá komora: a) velikost a funkce: normální velikost
+T67	SYMPTOM 3921 3969	Hypokineze distálních segmentů všech čel a hrotu
+T68	SYMPTOM 4260 4352	Pravá komora: a) Velikost a funkce: normální velikost, není hypertrofická, normokontraktilní
+T69	SYMPTOM 4462 4486	Levá síň není dilatovaná
+T27	SYMPTOM 4488 4516	Pravá síň normální velikosti
+T24	SYMPTOM 4518 4571	Mitrální chlopeň s tenkými lístky, normální otevírání
+T28	SYMPTOM 4573 4616	Trojcípá aortální chlopeň, funkčně normální
+T29	SYMPTOM 4937 4985	Celková systolická funkce na dolní hranici normy
+T70	SYMPTOM 5177 5202	normální osmolaritou moči
+T25	SYMPTOM 5403 5417	hypomagnezémie
+T73	SYMPTOM 5456 5479	zvýšené plato troponinu
+T74	SYMPTOM 5506 5515	přední QS
+T75	SYMPTOM 5518 5539	reziduální elevací ST
+T76	SYMPTOM 5586 5617	změnami v segmentální kontrakci
+T77	SYMPTOM 6506 6520	asymptomatický
+T6	SYMPTOM 6522 6531	afebrilní
+T26	SYMPTOM 6533 6555	hemodynamicky stabilní
+T30	SYMPTOM 6750 6774	Koronární tepny bez lézí
+T78	SYMPTOM 6776 6805	Komorová funkce těžce snížená

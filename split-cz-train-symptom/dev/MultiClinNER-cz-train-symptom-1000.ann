@@ -1,0 +1,36 @@
+T1	SYMPTOM 595 601	sípání
+T16	SYMPTOM 604 620	zvýšenou sekreci
+T17	SYMPTOM 671 689	kardiální příznaky
+T3	SYMPTOM 699 715	námahová dušnost
+T18	SYMPTOM 717 732	angina pectoris
+T4	SYMPTOM 734 743	palpitace
+T19	SYMPTOM 749 756	synkopa
+T83	SYMPTOM 779 789	Při vědomí
+T70	SYMPTOM 791 802	orientovaná
+T78	SYMPTOM 804 818	spolupracující
+T49	SYMPTOM 820 838	Celkový stav dobrý
+T50	SYMPTOM 840 857	Dobře hydratovaná
+T72	SYMPTOM 860 872	perfundovaná
+T56	SYMPTOM 874 891	V klidu eupnoická
+T5	SYMPTOM 899 912	krční pulzace
+T9	SYMPTOM 914 937	akce srdeční pravidelná
+T84	SYMPTOM 942 949	šelestů
+T54	SYMPTOM 951 967	Rozšířené sípání
+T73	SYMPTOM 969 986	periferní pulzace
+T71	SYMPTOM 994 998	otok
+T6	SYMPTOM 1024 1039	Sinusový rytmus
+T7	SYMPTOM 1057 1068	Normální PR
+T20	SYMPTOM 1070 1078	Levá osa
+T21	SYMPTOM 1117 1167	Anomální průběh R v pravých prekordiálních svodech
+T68	SYMPTOM 1185 1215	normální kardiotorakální index
+T10	SYMPTOM 1223 1240	prodloužení aorty
+T22	SYMPTOM 1242 1263	Zvětšený plicní hilus
+T14	SYMPTOM 1384 1414	mírná dilatace plicnice na RTG
+T12	SYMPTOM 1449 1478	známky městnání v malém oběhu
+T13	SYMPTOM 1588 1634	Levá komora normální velikosti a kontraktility
+T11	SYMPTOM 1636 1663	Levá síň normální velikosti
+T23	SYMPTOM 1665 1705	Pravá komora normální velikosti a funkce
+T24	SYMPTOM 1707 1733	Pravá AV chlopeň beze změn
+T25	SYMPTOM 1989 2055	Systémová komora se zvýšenými objemy a funkcí na hranici normality
+T15	SYMPTOM 2057 2123	Subpulmonální komora se sníženým objemem a normální kontraktilitou
+T8	SYMPTOM 2275 2298	Plicní chlopeň bez změn

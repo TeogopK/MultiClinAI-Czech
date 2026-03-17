@@ -1,0 +1,24 @@
+T5	PROCEDURE 78 96	antibiotická léčba
+T3	PROCEDURE 168 184	biopsie prostaty
+T8	PROCEDURE 186 204	Anatomopatologický
+T1	PROCEDURE 303 333	nukleární magnetické rezonance
+T10	PROCEDURE 376 388	apendektomii
+T6	PROCEDURE 391 412	tříselnou herniafázii
+T4	PROCEDURE 428 445	chirurgická léčba
+T7	PROCEDURE 453 559	radikální prostatektomie s přístupem retropubickou a extraperitoneální cestou za použití Walshovy techniky
+T13	PROCEDURE 562 569	operace
+T14	PROCEDURE 801 828	rentgenové vyšetření břicha
+T9	PROCEDURE 1062 1081	CT vyšetření břicha
+T17	PROCEDURE 1437 1448	Ultrazvukem
+T11	PROCEDURE 1437 1465	Ultrazvukem byl zaveden drén
+T12	PROCEDURE 1491 1509	kultivace tekutiny
+T19	PROCEDURE 1645 1673	empirické antibiotické léčbě
+T20	PROCEDURE 1695 1701	kultur
+T15	PROCEDURE 1717 1736	nazogastrická sonda
+T2	PROCEDURE 1739 1791	perorální výživa byla nahrazena parenterální výživou
+T23	PROCEDURE 1825 1836	ultrazvukem
+T16	PROCEDURE 1870 1919	použitím kontrastu při gastroduodenálním tranzitu
+T25	PROCEDURE 1939 1944	drénu
+T18	PROCEDURE 2041 2066	drenážní sonda odstraněna
+T27	PROCEDURE 2101 2108	operaci
+T21	PROCEDURE 2152 2172	nedetekovatelným PSA

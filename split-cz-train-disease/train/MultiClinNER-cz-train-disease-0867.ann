@@ -1,0 +1,37 @@
+T1	DISEASE 72 101	přechodných ischemických atak
+T22	DISEASE 372 386	lékové alergie
+T35	DISEASE 388 402	Toxické návyky
+T23	DISEASE 404 409	kuřák
+T2	DISEASE 626 654	parestezie v pravém podžebří
+T3	DISEASE 736 760	parézy v pravé hemisféře
+T24	DISEASE 1725 1742	srdečního selhání
+T34	DISEASE 2371 2385	Herpes simplex
+T36	DISEASE 2407 2411	Lues
+T4	DISEASE 2450 2483	Levá komora (LK) mírně dilatovaná
+T5	DISEASE 2632 2652	Mitrální regurgitace
+T27	DISEASE 2665 2693	Pohyblivý trombus v apexu LK
+T26	DISEASE 2770 2791	koronární kalcifikace
+T7	DISEASE 2793 2820	Koronární onemocnění 1 cévy
+T8	DISEASE 2872 2909	Přední sestupná okludovaná na začátku
+T9	DISEASE 3059 3089	hematomu přední sestupné tepny
+T28	DISEASE 3984 3991	trombus
+T12	DISEASE 4079 4109	Levá síň (LS) mírně dilatovaná
+T13	DISEASE 4226 4243	ischemickým lézím
+T14	DISEASE 4318 4353	ischemických lézí v zadní cirkulaci
+T15	DISEASE 4482 4495	dilatovaná LK
+T30	DISEASE 4639 4685	Středně těžká systolická dysfunkce levé komory
+T16	DISEASE 4760 4771	dilatace LK
+T17	DISEASE 4773 4811	Protomezystolická mitrální regurgitace
+T18	DISEASE 4942 4948	trombu
+T19	DISEASE 5018 5029	aneuryzmatu
+T20	DISEASE 5088 5094	trombu
+T21	DISEASE 5157 5203	embolické cévní mozkové příhody levé hemisféry
+T57	DISEASE 5285 5311	předního infarktu myokardu
+T58	DISEASE 5336 5402	mobilním apikálním trombem, v důsledku spontánní koronární disekce
+T63	DISEASE 6142 6188	Embolická cévní mozková příhoda levé hemisféry
+T29	DISEASE 6199 6206	trombus
+T32	DISEASE 6239 6265	Ischemická choroba srdeční
+T64	DISEASE 6267 6334	Okluze přední sestupné koronární tepny v důsledku spiroidní disekce
+T31	DISEASE 6345 6368	přední infarkt myokardu
+T33	DISEASE 6370 6398	Apikální aneuryzma s trombem
+T25	DISEASE 6400 6415	Srdeční selhání

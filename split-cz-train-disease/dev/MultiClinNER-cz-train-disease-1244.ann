@@ -1,0 +1,30 @@
+T3	DISEASE 77 93	toxických návyků
+T4	DISEASE 106 116	hypertenze
+T5	DISEASE 119 131	dyslipidémie
+T6	DISEASE 137 154	diabetes mellitus
+T7	DISEASE 156 178	Zlomenina 5. metakarpu
+T8	DISEASE 180 208	Reaktivní depresivní syndrom
+T9	DISEASE 235 252	NSTEMI, nonST ACS
+T10	DISEASE 257 273	koronárních lézí
+T12	DISEASE 321 335	fibrilace síní
+T41	DISEASE 783 809	tachykardie se širokým QRS
+T77	DISEASE 1462 1465	DVT
+T79	DISEASE 1502 1528	tachykardie se širokým QRS
+T80	DISEASE 1559 1562	BRD
+T44	DISEASE 2775 2794	LA mírně dilatovaná
+T61	DISEASE 2950 2973	perikardiálního výpotku
+T39	DISEASE 3061 3080	akutní myokarditida
+T99	DISEASE 3088 3094	edémem
+T68	DISEASE 3207 3215	fibrózou
+T101	DISEASE 3417 3447	Středně dilatovaná levá komora
+T102	DISEASE 3552 3560	Mírná AI
+T104	DISEASE 3629 3644	akcesorní dráhy
+T106	DISEASE 3650 3670	dvojité uzlové dráhy
+T108	DISEASE 3706 3722	komorové arytmie
+T109	DISEASE 3791 3798	arytmií
+T112	DISEASE 3846 3860	edému myokardu
+T114	DISEASE 3882 3901	akutní myokarditidu
+T115	DISEASE 3935 3942	arytmií
+T119	DISEASE 4372 4399	Trvalá komorová tachykardie
+T120	DISEASE 4408 4427	akutní myokarditidy
+#T102	AnnotatorNotes T102	?

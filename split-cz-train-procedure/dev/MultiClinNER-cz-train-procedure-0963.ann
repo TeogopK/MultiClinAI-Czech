@@ -1,0 +1,40 @@
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T30	PROCEDURE 380 404	náhrada mitrální chlopně
+T32	PROCEDURE 485 530	Náhrada mitrální chlopně biologickou protézou
+T33	PROCEDURE 565 621	Náhrada mitrální a aortální chlopně biologickou protézou
+T48	PROCEDURE 831 844	funkce ledvin
+T6	PROCEDURE 1014 1028	koronarografii
+T8	PROCEDURE 1256 1312	léčby kontinuálním pozitivním tlakem v dýchacích cestách
+T34	PROCEDURE 1314 1318	CPAP
+T35	PROCEDURE 1347 1361	Prostatektomie
+T23	PROCEDURE 2267 2302	náhrady mitrální a aortální chlopně
+T50	PROCEDURE 2427 2458	nesteroidní protizánětlivé léky
+T31	PROCEDURE 2460 2465	NSAID
+T29	PROCEDURE 2566 2585	FYZIKÁLNÍ VYŠETŘENÍ
+T52	PROCEDURE 2654 2669	brýlemi na nose
+T36	PROCEDURE 2715 2731	Auskultace srdce
+T37	PROCEDURE 2755 2770	Auskultace plic
+T53	PROCEDURE 2935 2948	Profil železa
+T39	PROCEDURE 3055 3058	EKG
+T40	PROCEDURE 3147 3159	RTG hrudníku
+T41	PROCEDURE 3246 3257	sternotomie
+T42	PROCEDURE 3259 3273	Echokardiogram
+T45	PROCEDURE 3948 3968	kličkového diuretika
+T58	PROCEDURE 4218 4234	renálních funkcí
+T59	PROCEDURE 4626 4658	kombinované diuretické strategii
+T60	PROCEDURE 4675 4694	kličkových diuretik
+T44	PROCEDURE 4775 4795	thiazidová diuretika
+T43	PROCEDURE 4819 4854	diuretika inhibující karboanhydrázu
+T47	PROCEDURE 5007 5043	nutriční doplňky bohaté na bílkoviny
+T62	PROCEDURE 5269 5286	ventilační podpor
+T63	PROCEDURE 5288 5321	neinvazivní mechanickou ventilací
+T64	PROCEDURE 5457 5478	thiazidových diuretik
+T65	PROCEDURE 5544 5572	perfuzí kličkovým diuretikem
+T66	PROCEDURE 5695 5718	hemodiafiltrační sezení
+T38	PROCEDURE 6146 6163	plicní auskultace
+T67	PROCEDURE 6194 6212	srdeční auskultace
+T68	PROCEDURE 6277 6293	renálních funkcí
+T17	PROCEDURE 6505 6510	NSAID
+T69	PROCEDURE 6596 6611	antikoagulovaná
+T49	PROCEDURE 6637 6650	funkce ledvin
+T75	PROCEDURE 6781 6791	diuretické

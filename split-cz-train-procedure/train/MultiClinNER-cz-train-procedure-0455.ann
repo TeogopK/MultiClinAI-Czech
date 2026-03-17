@@ -1,0 +1,15 @@
+T1	PROCEDURE 112 130	cykly chemoterapie
+T3	PROCEDURE 193 282	supraglotická laryngektomie s modifikovaným levostranným neúplným radikálním vyprázdněním
+T4	PROCEDURE 284 293	Patologie
+T6	PROCEDURE 512 524	radioterapii
+T7	PROCEDURE 600 607	operaci
+T5	PROCEDURE 817 849	Magnetická rezonance (MRI) mozku
+T19	PROCEDURE 839 842	MRI
+T8	PROCEDURE 1041 1056	kostním okně CT
+T9	PROCEDURE 1138 1174	Torakoabdomino-pelvické CT vyšetření
+T10	PROCEDURE 1294 1362	biopsie transylvijským přístupem k laterální stěně kavernózního sinu
+T11	PROCEDURE 1428 1455	Anatomopatologický výsledek
+T12	PROCEDURE 1505 1541	paliativní léčba podána radioterapie
+T17	PROCEDURE 1556 1563	operaci
+T13	PROCEDURE 1661 1699	Vyšetření magnetickou rezonancí páteře
+T2	PROCEDURE 1788 1811	Radioterapeutická léčba

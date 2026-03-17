@@ -1,0 +1,41 @@
+T10	DISEASE 81 95	lékové alergie
+T11	DISEASE 139 160	arteriální hypertenze
+T1	DISEASE 162 165	AHT
+T12	DISEASE 168 180	dyslipidémie
+T13	DISEASE 182 195	hyperurikémie
+T14	DISEASE 208 220	bývalý kuřák
+T15	DISEASE 246 278	revmatická aortální insuficience
+T16	DISEASE 296 310	hemochromatóza
+T17	DISEASE 361 368	glaukom
+T18	DISEASE 391 407	hydatidová cysta
+T2	DISEASE 910 925	angina pectoris
+T19	DISEASE 1539 1552	Hepatomegalie
+T34	DISEASE 1765 1771	BIRDHH
+T3	DISEASE 1884 1916	oboustranným pleurálním výpotkem
+T6	DISEASE 2746 2771	hypertrofická levá komora
+T20	DISEASE 2985 3009	Mírná dilatace levé síně
+T7	DISEASE 3011 3083	Trikuspidální aortální chlopeň s fibrózními lístky a těžkou insuficiencí
+T8	DISEASE 3085 3117	Mírná trikuspidální insuficience
+T9	DISEASE 3135 3138	PHT
+T53	DISEASE 3479 3527	RV normální velikosti (33 mm) s mírnou dysfunkcí
+T54	DISEASE 3868 3887	Dilatovaná levá síň
+T55	DISEASE 3898 3948	Trojcípá aortální chlopeň se sklerotizovanými cípy
+T56	DISEASE 4010 4031	aortální insuficienci
+T57	DISEASE 4033 4036	AIo
+T58	DISEASE 4103 4121	srdeční amyloidózu
+T59	DISEASE 4287 4332	amyloidózou způsobenou depozity transtyretinu
+T61	DISEASE 4405 4463	oboustranným syndromem karpálního tunelu střední intenzity
+T64	DISEASE 4924 4955	monomorfní komorové tachykardie
+T65	DISEASE 4957 4962	NSMVT
+T24	DISEASE 5039 5054	srdeční selhání
+T69	DISEASE 5118 5128	amyloidózy
+T27	DISEASE 5504 5541	oboustranný syndrom karpálního tunelu
+T71	DISEASE 5633 5647	polyneuropatii
+T22	DISEASE 5671 5692	aortální insuficience
+T30	DISEASE 5854 5874	dilatace levé komory
+T25	DISEASE 6113 6128	Srdeční selhání
+T26	DISEASE 6146 6182	Amyloidóza způsobená transthyretinem
+T31	DISEASE 6207 6234	Těžká aortální insuficience
+T28	DISEASE 6256 6293	Oboustranný syndrom karpálního tunelu
+T32	DISEASE 6295 6331	Chronické selhání ledvin, stadium 3A
+T33	DISEASE 6339 6363	periferní polyneuropatie

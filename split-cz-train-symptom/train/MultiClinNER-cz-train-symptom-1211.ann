@@ -1,0 +1,41 @@
+T61	SYMPTOM 299 315	bolestí na hrudi
+T44	SYMPTOM 408 472	Bolesti označuje jako tísnivé, vyzařující do levé paže a čelisti
+T96	SYMPTOM 491 514	vegetativního doprovodu
+T62	SYMPTOM 622 638	bolestí na hrudi
+T101	SYMPTOM 835 845	při vědomí
+T84	SYMPTOM 848 859	orientovaný
+T13	SYMPTOM 861 892	neurologické vyšetření normální
+T102	SYMPTOM 913 931	dýchání alveolární
+T14	SYMPTOM 933 967	Auskultace srdečních ozev normální
+T103	SYMPTOM 973 980	šelestů
+T69	SYMPTOM 986 995	extratonů
+T85	SYMPTOM 1001 1022	perikardiálního tření
+T1	SYMPTOM 1051 1082	Břicho bez patologického nálezu
+T2	SYMPTOM 1084 1109	Dolní končetiny bez otoků
+T3	SYMPTOM 1403 1418	sinusový rytmus
+T15	SYMPTOM 1436 1487	malý nárůst vlny R v pravých prekordiálních svodech
+T16	SYMPTOM 1489 1526	Žádné další repolarizační abnormality
+T82	SYMPTOM 1542 1563	normální srdeční stín
+T4	SYMPTOM 1638 1668	levá komora normálních rozměrů
+T5	SYMPTOM 1695 1722	Zachovaná systolická funkce
+T91	SYMPTOM 1727 1759	segmentálních změn kontraktility
+T9	SYMPTOM 1761 1788	Normální diastolický vzorec
+T6	SYMPTOM 1790 1807	Normální levá síň
+T18	SYMPTOM 1838 1880	Aortální kořen a aortální chlopeň normální
+T17	SYMPTOM 1882 1903	Normální pravá komora
+T12	SYMPTOM 1998 2018	dominance pravé ruky
+T19	SYMPTOM 2020 2054	Levý společný kmen (LMCA) bez lézí
+T10	SYMPTOM 2056 2091	Přední sestupná tepna (AD) bez lézí
+T11	SYMPTOM 2363 2427	epikardiální koronární tepny bez významných hagiografických lézí
+T57	SYMPTOM 2546 2560	asymptomatický
+T7	SYMPTOM 2562 2595	fyzikální vyšetření bylo normální
+T20	SYMPTOM 2614 2640	žádné změny v repolarizaci
+T8	SYMPTOM 2655 2719	základní transtorakální echokardiogram (TTE), který byl normální
+T77	SYMPTOM 2724 2762	zachovanou globální funkcí levé komory
+T58	SYMPTOM 3071 3085	asymptomatický
+T21	SYMPTOM 3100 3124	příznaky anginy pectoris
+T22	SYMPTOM 3202 3240	Parametry krevních testů byly normální
+T24	SYMPTOM 3479 3535	pseudoléze s podobou těžkého plátu v úrovni střední LMCA
+T60	SYMPTOM 3562 3578	bolesti na hrudi
+T23	SYMPTOM 3612 3643	elevaci segmentu ST ve svodu II
+T90	SYMPTOM 3853 3872	repolarizační změny

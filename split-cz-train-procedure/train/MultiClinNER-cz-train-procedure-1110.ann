@@ -1,0 +1,30 @@
+T39	PROCEDURE 0 8	Anamnéza
+T40	PROCEDURE 56 64	anamnéza
+T2	PROCEDURE 227 248	amputací obou halluxů
+T38	PROCEDURE 305 337	Operace náhrady aortální chlopně
+T3	PROCEDURE 339 342	AVR
+T5	PROCEDURE 409 442	revaskularizační operací myokardu
+T25	PROCEDURE 590 620	perorální antibiotická terapie
+T26	PROCEDURE 663 675	antibiotikum
+T27	PROCEDURE 983 985	CV
+T28	PROCEDURE 1217 1238	amputace obou halluxů
+T36	PROCEDURE 1320 1324	RxTx
+T37	PROCEDURE 1497 1509	Krevní plyny
+T10	PROCEDURE 1541 1550	iontogram
+T29	PROCEDURE 1554 1557	EKG
+T41	PROCEDURE 1609 1625	Krevní kultivace
+T31	PROCEDURE 1707 1738	Transezofageální echokardiogram
+T42	PROCEDURE 1740 1743	TEE
+T32	PROCEDURE 2044 2053	CT břicha
+T30	PROCEDURE 2094 2097	EKG
+T46	PROCEDURE 2150 2166	nutností dialýzy
+T33	PROCEDURE 2603 2633	Amputace druhého prstu na noze
+T54	PROCEDURE 2660 2697	vyžadující přechodný kardiostimulátor
+T55	PROCEDURE 2701 2704	TEE
+T58	PROCEDURE 3016 3041	Kardiochirurgická operace
+T59	PROCEDURE 3050 3064	PreQ profylaxe
+T34	PROCEDURE 3097 3121	Náhrada aortální chlopně
+T35	PROCEDURE 3124 3151	vegektomie mitrální chlopně
+T60	PROCEDURE 3154 3197	Kultivace aortálního protetického materiálu
+T63	PROCEDURE 3281 3311	Kardiostimulátor byl odstraněn
+T64	PROCEDURE 3445 3463	antibiotická léčba

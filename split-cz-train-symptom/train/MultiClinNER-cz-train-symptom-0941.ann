@@ -1,0 +1,30 @@
+T10	SYMPTOM 283 291	závratím
+T90	SYMPTOM 293 303	palpitacím
+T11	SYMPTOM 306 335	elektrokardiografickým změnám
+T14	SYMPTOM 847 855	závratím
+T1	SYMPTOM 955 970	bolest na hrudi
+T77	SYMPTOM 975 982	dušnost
+T89	SYMPTOM 1000 1009	palpitací
+T7	SYMPTOM 1113 1124	tachykardie
+T15	SYMPTOM 1128 1139	širokým QRS
+T66	SYMPTOM 1385 1399	asymptomatický
+T2	SYMPTOM 1402 1424	hemodynamicky stabilní
+T16	SYMPTOM 1523 1533	Při vědomí
+T88	SYMPTOM 1535 1546	orientovaný
+T101	SYMPTOM 1548 1562	spolupracující
+T56	SYMPTOM 1564 1580	Normohydratovaný
+T87	SYMPTOM 1583 1597	normální barvy
+T4	SYMPTOM 1603 1621	alveolární dýchání
+T92	SYMPTOM 1661 1682	rytmické srdeční ozvy
+T5	SYMPTOM 1767 1782	MMII: bez otoku
+T17	SYMPTOM 1879 1894	normální vzorec
+T18	SYMPTOM 2175 2190	Nedilatovaná LK
+T19	SYMPTOM 2263 2277	Zachovaná LVEF
+T6	SYMPTOM 2812 2824	potíže plodu
+T64	SYMPTOM 2858 2872	asymptomatická
+T3	SYMPTOM 2875 2897	hemodynamicky stabilní
+T8	SYMPTOM 3206 3217	tachykardie
+T9	SYMPTOM 3444 3459	sinusový rytmus
+T95	SYMPTOM 3585 3601	sinusového rytmu
+T97	SYMPTOM 3872 3888	sinusovým rytmem
+T96	SYMPTOM 4103 4118	sinusovém rytmu

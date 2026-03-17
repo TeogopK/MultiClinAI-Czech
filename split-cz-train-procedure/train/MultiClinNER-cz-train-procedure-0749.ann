@@ -1,0 +1,19 @@
+T1	PROCEDURE 186 205	Fyzikální vyšetření
+T8	PROCEDURE 365 386	Intraorální vyšetření
+T3	PROCEDURE 493 515	vyšetření hlavy a krku
+T7	PROCEDURE 557 599	provedena biopsie s intraorálním přístupem
+T6	PROCEDURE 601 613	Histologicky
+T4	PROCEDURE 904 930	Imunohistochemická analýza
+T13	PROCEDURE 972 1003	vyšetření magnetickou rezonancí
+T9	PROCEDURE 1005 1008	MRI
+T15	PROCEDURE 1258 1274	podání gadolinia
+T10	PROCEDURE 1471 1500	celotělového PET-CT vyšetření
+T11	PROCEDURE 1530 1561	biopsií a aspirací kostní dřeně
+T12	PROCEDURE 1594 1617	protokolu Euro-EWING 99
+T14	PROCEDURE 1629 1632	MRI
+T21	PROCEDURE 1831 1847	podání kontrastu
+T5	PROCEDURE 1869 1886	chirurgická léčba
+T16	PROCEDURE 1914 1968	resekcí postižené obličejové svaloviny a měkkých tkání
+T17	PROCEDURE 2045 2060	rentgenologicky
+T2	PROCEDURE 2202 2222	Histologická analýza
+T18	PROCEDURE 2323 2326	MRI

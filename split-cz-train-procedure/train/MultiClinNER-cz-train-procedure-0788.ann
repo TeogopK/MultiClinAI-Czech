@@ -1,0 +1,66 @@
+T76	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 1084 1108	anamnéze podle přístrojů
+T8	PROCEDURE 1300 1313	betablokátory
+T77	PROCEDURE 1378 1397	Fyzikální vyšetření
+T78	PROCEDURE 1919 1935	Auskultace srdce
+T79	PROCEDURE 2035 2050	Auskultace plic
+T80	PROCEDURE 2375 2387	RTG hrudníku
+T81	PROCEDURE 2478 2495	Elektrokardiogram
+T119	PROCEDURE 2896 2917	Jaterní funkční testy
+T82	PROCEDURE 3036 3051	Lipidový profil
+T120	PROCEDURE 3137 3150	Profil anémie
+T83	PROCEDURE 3303 3315	Proteinogram
+T121	PROCEDURE 3419 3430	Autoimunita
+T126	PROCEDURE 3507 3535	Antifosfolipidové protilátky
+T84	PROCEDURE 3547 3560	Kryoglobuliny
+T86	PROCEDURE 3627 3651	Sérologie HIV, HBV a HCV
+T87	PROCEDURE 3664 3678	Quantiferon TB
+T88	PROCEDURE 3703 3734	Transtorakální echokardiografie
+T89	PROCEDURE 4381 4408	Diagnostická koronarografie
+T19	PROCEDURE 4729 4763	Angiografie počítačovou tomografií
+T90	PROCEDURE 5310 5339	Pozitronová emisní tomografie
+T91	PROCEDURE 5476 5491	kortikosteroidy
+T92	PROCEDURE 5537 5540	PET
+T23	PROCEDURE 5759 5773	kolonoskopicky
+T98	PROCEDURE 5814 5871	Dopplerovské ultrazvukové vyšetření supraaortálních kmenů
+T75	PROCEDURE 6150 6160	RTG břicha
+T99	PROCEDURE 6257 6285	Počítačová tomografie břicha
+T108	PROCEDURE 6501 6507	PET-CT
+T96	PROCEDURE 6751 6763	Kolonoskopie
+T100	PROCEDURE 7007 7068	Biopsie kůže, podkožní buněčné tkáně, svalu a surálního nervu
+T122	PROCEDURE 7124 7142	Elektroneurografie
+T101	PROCEDURE 7143 7159	elektromyografie
+T103	PROCEDURE 7299 7315	Echokardiografie
+T133	PROCEDURE 7710 7731	injekci echokontrastu
+T135	PROCEDURE 8280 8322	oxygenoterapie s vysokoprůtokovými brýlemi
+T104	PROCEDURE 8530 8546	echokardiografie
+T106	PROCEDURE 8549 8563	koronarografie
+T137	PROCEDURE 8577 8590	katetrizačním
+T140	PROCEDURE 8737 8759	bolusy kortikosteroidů
+T141	PROCEDURE 8813 8828	imunosupresivem
+T94	PROCEDURE 9093 9096	PET
+T143	PROCEDURE 9210 9233	elektrickou kardioverzi
+T144	PROCEDURE 9392 9406	betablokátorem
+T107	PROCEDURE 9659 9668	CT břicha
+T97	PROCEDURE 9671 9683	kolonoskopie
+T145	PROCEDURE 9725 9744	nasogastrické sondě
+T146	PROCEDURE 9747 9765	antibiotické léčbě
+T148	PROCEDURE 10077 10110	počítačová tomografie angiografie
+T123	PROCEDURE 10437 10440	ENA
+T125	PROCEDURE 10442 10446	ANCA
+T85	PROCEDURE 10448 10461	kryoglobuliny
+T127	PROCEDURE 10463 10491	antifosfolipidové protilátky
+T128	PROCEDURE 10493 10517	sérologie HBV, HCV a HIV
+T109	PROCEDURE 10559 10565	PET-CT
+T113	PROCEDURE 10980 11016	biopsie kůže, podkožní tkáně a nervu
+T110	PROCEDURE 11019 11050	elektromyogram/elektroneurogram
+T95	PROCEDURE 11109 11160	arteriální biopsii z ilického/femorálního teritoria
+T111	PROCEDURE 11271 11286	cévní chirurgie
+T114	PROCEDURE 11402 11409	Biopsie
+T116	PROCEDURE 11462 11476	elektromyogram
+T150	PROCEDURE 11571 11615	implantaci automatického defibrilátoru (ICD)
+T152	PROCEDURE 11776 11797	protizánětlivých léků
+T153	PROCEDURE 12051 12085	imunosupresivní a steroidní léčbou
+T117	PROCEDURE 12141 12148	statiny
+T129	PROCEDURE 12667 12681	Implantace ICD
+T118	PROCEDURE 12758 12784	farmakologická kardioverze

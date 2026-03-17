@@ -1,0 +1,29 @@
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 258 283	perorálními antidiabetiky
+T2	PROCEDURE 349 364	antikoagulovaná
+T5	PROCEDURE 502 560	Náhrada mitrální a aortální chlopně mechanickými protézami
+T6	PROCEDURE 632 673	transfuzi 1 koncentrátu červených krvinek
+T7	PROCEDURE 845 860	hematologických
+T8	PROCEDURE 1068 1093	operaci chlopenní náhrady
+T32	PROCEDURE 1438 1457	Fyzikální vyšetření
+T33	PROCEDURE 1732 1759	Kardiorespirační auskultace
+T34	PROCEDURE 1863 1879	plicní ventilace
+T9	PROCEDURE 2004 2019	hluboké palpaci
+T35	PROCEDURE 2164 2172	Hemogram
+T36	PROCEDURE 2262 2271	Koagulace
+T43	PROCEDURE 2283 2292	Biochemie
+T45	PROCEDURE 2303 2316	funkce ledvin
+T10	PROCEDURE 2319 2328	iontogram
+T44	PROCEDURE 2391 2416	enzymy poškození myokardu
+T37	PROCEDURE 2475 2492	Elektrokardiogram
+T38	PROCEDURE 2682 2713	Transtorakální echokardiografie
+T40	PROCEDURE 3453 3482	intravenózní diuretické léčbě
+T46	PROCEDURE 3485 3512	transfuzi krevních derivátů
+T39	PROCEDURE 3807 3847	protilátky proti destičkovému faktoru IV
+T49	PROCEDURE 4031 4051	antikoagulační léčby
+T50	PROCEDURE 4174 4202	echokardiografické vyšetření
+T41	PROCEDURE 4395 4409	kultivace moči
+T54	PROCEDURE 4597 4632	implantace dvou mechanických protéz
+T55	PROCEDURE 4657 4683	širokospektrou ATB terapii
+T42	PROCEDURE 5070 5083	kožní biopsie
+T23	PROCEDURE 5627 5646	podání karbapenemik

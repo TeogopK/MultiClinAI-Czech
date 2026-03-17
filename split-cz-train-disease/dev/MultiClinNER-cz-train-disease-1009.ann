@@ -1,0 +1,49 @@
+T12	DISEASE 90 97	alergie
+T13	DISEASE 99 111	Bývalý kuřák
+T14	DISEASE 191 209	vysoký krevní tlak
+T15	DISEASE 211 256	diabetes mellitus 2. typu závislý na inzulínu
+T1	DISEASE 278 290	dyslipidémii
+T2	DISEASE 324 346	trvalou fibrilaci síní
+T4	DISEASE 426 446	mitrální regurgitaci
+T16	DISEASE 571 586	srdeční selhání
+T24	DISEASE 613 637	chronické selhání ledvin
+T25	DISEASE 774 800	periferní cévní onemocnění
+T5	DISEASE 803 831	intermitentními klaudikacemi
+T26	DISEASE 834 857	multifaktoriální anémie
+T27	DISEASE 1953 1967	fibrilace síní
+T28	DISEASE 2285 2298	kardiomegalie
+T42	DISEASE 2300 2317	Prodloužení aorty
+T29	DISEASE 2319 2348	Oboustranný pleurální výpotek
+T8	DISEASE 2512 2568	dilatovaná levá komora (LVED 60 mm) s mírnou hypertrofií
+T11	DISEASE 2802 2828	Závažná dilatace levé síně
+T30	DISEASE 2845 2870	Skleróza aortální chlopně
+T9	DISEASE 2872 2970	Mitrální chlopeň s normálně se otevírajícími sklerotizovanými cípy a mírnou centrální regurgitací.
+T31	DISEASE 2977 3003	trikuspidální insuficience
+T10	DISEASE 3005 3007	TI
+T44	DISEASE 3050 3073	perikardiálního výpotku
+T43	DISEASE 3075 3112	Dilatovaná dutá žíla (24 mm) s plegií
+T45	DISEASE 3165 3180	plicní kongesci
+T47	DISEASE 3296 3353	dilatovaná levá komora s excentrickým obrazem hypertrofie
+T48	DISEASE 3458 3477	Dilatovaná levá síň
+T32	DISEASE 3489 3497	ischemie
+T50	DISEASE 3539 3555	nekrózy myokardu
+T33	DISEASE 3557 3582	Intramyokardiální fibróza
+T34	DISEASE 3697 3727	dekompenzované srdeční selhání
+T17	DISEASE 3744 3764	respiračním infektem
+T51	DISEASE 3767 3789	rychlou fibrilací síní
+T35	DISEASE 3842 3860	mírná hyperkalémie
+T37	DISEASE 3894 3940	dilatační kardiomyopatii neischemického původu
+T52	DISEASE 4008 4030	chlopenní srdeční vady
+T18	DISEASE 4281 4296	srdeční selhání
+T19	DISEASE 4444 4474	dekompenzaci srdečního selhání
+T55	DISEASE 4477 4496	těžkou hyperkalémii
+T57	DISEASE 4665 4677	hyperkalemie
+T20	DISEASE 4789 4806	srdečního selhání
+T21	DISEASE 5364 5379	srdeční selhání
+T60	DISEASE 5401 5434	oboustrannému pleurálnímu výpotku
+T36	DISEASE 5837 5867	dekompenzace srdečního selhání
+T39	DISEASE 6079 6111	Srdeční selhání se sníženou LVEF
+T40	DISEASE 6113 6150	Neischemická dilatační kardiomyopatie
+T41	DISEASE 6152 6179	Chronické onemocnění ledvin
+T22	DISEASE 6181 6202	Kardiovenální syndrom
+T38	DISEASE 6204 6216	Hyperkalémie

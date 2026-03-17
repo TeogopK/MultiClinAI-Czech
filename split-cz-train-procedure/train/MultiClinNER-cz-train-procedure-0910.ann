@@ -1,0 +1,39 @@
+T96	PROCEDURE 46 65	elektrokardiogramem
+T37	PROCEDURE 67 70	EKG
+T119	PROCEDURE 114 141	magnetickou rezonancí srdce
+T41	PROCEDURE 143 145	MR
+T61	PROCEDURE 297 305	ANAMNÉZA
+T54	PROCEDURE 329 348	FYZIKÁLNÍ VYŠETŘENÍ
+T62	PROCEDURE 350 358	Anamnéza
+T82	PROCEDURE 365 381	rodinná anamnéza
+T38	PROCEDURE 899 902	EKG
+T94	PROCEDURE 946 962	echokardiogramem
+T48	PROCEDURE 1140 1150	ergometrie
+T120	PROCEDURE 1244 1270	magnetická rezonance srdce
+T39	PROCEDURE 1609 1612	EKG
+T83	PROCEDURE 1689 1702	antikoagulaci
+T53	PROCEDURE 1747 1769	elektrická kardioverze
+T2	PROCEDURE 1835 1888	ablace kavotrikuspidálního istmu (CTI) systémem CARTO
+T93	PROCEDURE 2109 2136	sériových echokardiogramech
+T59	PROCEDURE 2238 2257	chirurgické zákroky
+T40	PROCEDURE 2608 2611	EKG
+T92	PROCEDURE 2763 2791	echokardiografické vyšetření
+T5	PROCEDURE 3134 3187	elektrokardiografickému a echokardiografickému nálezu
+T49	PROCEDURE 3253 3261	MR srdce
+T50	PROCEDURE 3389 3397	MR srdce
+T55	PROCEDURE 3419 3438	Fyzikální vyšetření
+T56	PROCEDURE 3504 3518	oxygenoterapie
+T57	PROCEDURE 3577 3593	Auskultace srdce
+T78	PROCEDURE 3668 3686	Valsalvově manévru
+T51	PROCEDURE 3874 3882	MR srdce
+T36	PROCEDURE 4248 4265	Elektrokardiogram
+T46	PROCEDURE 4553 4567	Echokardiogram
+T52	PROCEDURE 5224 5232	MR srdce
+T145	PROCEDURE 5897 5934	vyšetření magnetickou rezonancí srdce
+T143	PROCEDURE 6547 6568	genetického vyšetření
+T47	PROCEDURE 6789 6805	echokardiografie
+T121	PROCEDURE 6813 6839	magnetické rezonance srdce
+T8	PROCEDURE 6888 6926	24hodinovým holterovským monitorováním
+T122	PROCEDURE 7024 7050	magnetické rezonance srdce
+T58	PROCEDURE 7132 7149	Účinná ablace CTI
+T9	PROCEDURE 7162 7172	skiagrafie

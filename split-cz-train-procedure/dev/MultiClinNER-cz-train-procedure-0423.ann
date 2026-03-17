@@ -1,0 +1,30 @@
+T12	PROCEDURE 423 452	ultrazvukové vyšetření břicha
+T14	PROCEDURE 526 567	antibiotickou léčbu (širokospektré krytí)
+T5	PROCEDURE 812 831	Fyzikální vyšetření
+T15	PROCEDURE 916 933	Laboratorní testy
+T13	PROCEDURE 1250 1270	koagulační vyšetření
+T16	PROCEDURE 1273 1299	elementární vyšetření moči
+T10	PROCEDURE 1314 1326	Proteinogram
+T6	PROCEDURE 1328 1352	stanovení imunoglobulinů
+T23	PROCEDURE 1355 1377	imunologické vyšetření
+T17	PROCEDURE 1414 1457	mikrobiologická vyšetření, včetně sérologie
+T18	PROCEDURE 1548 1589	legionelu (se stanovením antigenu v moči)
+T19	PROCEDURE 1648 1675	sérologického vyšetření EBV
+T20	PROCEDURE 1758 1783	mikrobiologická vyšetření
+T28	PROCEDURE 1785 1799	kultivace krve
+T29	PROCEDURE 1801 1816	kultivace sputa
+T21	PROCEDURE 1819 1833	kultivace moči
+T22	PROCEDURE 1854 1879	vyšetření na mykobakterie
+T31	PROCEDURE 1897 1918	Zobrazovací vyšetření
+T7	PROCEDURE 1930 1939	CT břicha
+T24	PROCEDURE 2125 2170	výsledky (mikrobiologické a histopatologické)
+T8	PROCEDURE 2181 2209	biopsie jater a kostní dřeně
+T34	PROCEDURE 2305 2323	antibiotická léčba
+T4	PROCEDURE 2560 2584	diagnostická laparotomie
+T36	PROCEDURE 2587 2604	celkové anestezii
+T37	PROCEDURE 2616 2623	zákroku
+T2	PROCEDURE 2867 2879	splenektomie
+T1	PROCEDURE 2881 2922	Histologické vyšetření lymfatických uzlin
+T3	PROCEDURE 3101 3113	splenektomie
+T9	PROCEDURE 3326 3347	Mikroskopická analýza
+T11	PROCEDURE 3492 3512	patologická diagnóza

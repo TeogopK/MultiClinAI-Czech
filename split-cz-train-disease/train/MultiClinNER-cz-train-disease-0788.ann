@@ -1,0 +1,87 @@
+T28	DISEASE 97 102	Kuřák
+T71	DISEASE 194 199	piják
+T29	DISEASE 255 278	Bývalý uživatel kokainu
+T30	DISEASE 304 325	Arteriální hypertenze
+T31	DISEASE 385 392	obezita
+T32	DISEASE 422 429	nadváha
+T1	DISEASE 489 521	časné ischemické choroby srdeční
+T34	DISEASE 564 572	psoriáza
+T33	DISEASE 589 599	artropatie
+T2	DISEASE 615 627	erytrodermie
+T3	DISEASE 679 687	psoriázy
+T35	DISEASE 997 1012	angina pectoris
+T5	DISEASE 1128 1140	kožních lézí
+T6	DISEASE 1157 1165	lupénkou
+T7	DISEASE 1168 1181	kožních strií
+T9	DISEASE 1640 1652	erytrodermie
+T10	DISEASE 1718 1758	psoriázu) na trupu a horních končetinách
+T24	DISEASE 1760 1791	Strie na břiše, pažích a nohách
+T11	DISEASE 2216 2253	chronické žilní insuficience s varixy
+T12	DISEASE 2268 2276	psoriázy
+T25	DISEASE 2389 2402	kardiomegalie
+T36	DISEASE 2509 2531	neobvyklý flutter síní
+T13	DISEASE 2661 2694	starým předním a dolním infarktem
+T14	DISEASE 3736 3783	levá komora normální tloušťky, mírně dilatovaná
+T15	DISEASE 3998 4025	Středně dilatovaná levá síň
+T16	DISEASE 4084 4189	Mitrální chlopeň s mírně ztluštělými lístky, s centrálním regurgitačním proudem středně těžké insuficienc
+T47	DISEASE 4249 4281	Mírná trikuspidální insuficience
+T17	DISEASE 4325 4352	intraventrikulárního trombu
+T18	DISEASE 4410 4595	Závažné koronární postižení tří cév: střední a distální přední sestupné tepny, první diagonální větve, distální cirkumflexní tepny, distální pravé koronární tepny a posterolatérní větve
+T20	DISEASE 5283 5308	vaskulitidu středních cév
+T21	DISEASE 5430 5441	vaskulitidu
+T22	DISEASE 5546 5586	vaskulitidy středních a malých cév nižší
+T50	DISEASE 5786 5812	maligní nádorové patologie
+T102	DISEASE 6162 6195	dilatované kličky tlustého střeva
+T59	DISEASE 6219 6254	volvulus céka v pravém hypochondriu
+T60	DISEASE 6287 6300	volvulus céka
+T105	DISEASE 6347 6409	Muralní endoluminální polypy ve slezinném úhlu tlustého střeva
+T93	DISEASE 6545 6610	vaskulitidy celiakálního kmene a horní a dolní mezenterické tepny
+T124	DISEASE 6723 6749	stenózou femorálních tepen
+T130	DISEASE 6825 6829	afty
+T131	DISEASE 6863 6884	ischemickou kolitidou
+T132	DISEASE 6906 6969	polypy: jeden z nich o velikosti asi 15 mm v sestupném tračníku
+T112	DISEASE 7111 7122	vaskulitidy
+T41	DISEASE 7275 7297	mononeuritis multiplex
+T43	DISEASE 7600 7626	Těžká systolická dysfunkce
+T44	DISEASE 7690 7706	apikální trombus
+T134	DISEASE 7733 7774	Restriktivní vzorec diastolické dysfunkce
+T72	DISEASE 7804 7830	Závažná dilatace levé síně
+T73	DISEASE 7832 7857	Mírná dilatace pravé síně
+T45	DISEASE 7912 7946	Těžká funkční mitrální regurgitace
+T46	DISEASE 8115 8136	aortální insuficience
+T48	DISEASE 8144 8170	trikuspidální insuficience
+T49	DISEASE 8172 8197	Plicní hypertenze v klidu
+T136	DISEASE 8400 8408	flutteru
+T138	DISEASE 8658 8675	vaskulitický stav
+T139	DISEASE 8689 8705	koronárních lézí
+T52	DISEASE 9127 9142	arytmická bouře
+T142	DISEASE 9162 9191	setrvalé komorové tachykardie
+T74	DISEASE 9431 9448	arytmické příhody
+T54	DISEASE 9515 9532	srdečního selhání
+T58	DISEASE 9571 9588	paralytický ileus
+T61	DISEASE 9616 9629	volvulus céka
+T147	DISEASE 9872 9931	erytrodermií, která byla sekundárním projevem jeho psoriázy
+T149	DISEASE 10138 10199	vaskulitidy ve viscerálních tepnách a v obou ilických tepnách
+T62	DISEASE 10700 10740	vaskulitida velkých cév Takayasuova typu
+T38	DISEASE 10900 10925	vaskulitidu středních cév
+T26	DISEASE 10937 10957	polyarteritis nodosa
+T63	DISEASE 11358 11366	ischemie
+T64	DISEASE 11374 11382	krvácení
+T115	DISEASE 11445 11456	vaskulitidu
+T42	DISEASE 11490 11512	mononeuritis multiplex
+T151	DISEASE 11728 11752	mnohočetné mononeuritidě
+T27	DISEASE 11862 11882	polyarteritis nodosa
+T65	DISEASE 11947 11962	užívání kokainu
+T66	DISEASE 12012 12031	časná ateroskleróza
+T55	DISEASE 12179 12196	srdečního selhání
+T56	DISEASE 12262 12279	srdečního selhání
+T67	DISEASE 12291 12384	Vaskulitida typu PAN s postižením koronárních, celiakálních, mezenterických a femorálních cév
+T68	DISEASE 12386 12452	Ischemická dilatační kardiomyopatie s těžkou dysfunkcí levé komory
+T57	DISEASE 12454 12469	Srdeční selhání
+T39	DISEASE 12474 12495	akutním plicním edému
+T154	DISEASE 12537 12588	Nerevaskularizovatelné třícípé koronární onemocnění
+T69	DISEASE 12590 12619	difuzní arteriální onemocnění
+T155	DISEASE 12635 12647	vaskulitidou
+T53	DISEASE 12650 12665	Arytmická bouře
+T70	DISEASE 12705 12756	Neobvyklý flutter síní s rychlou komorovou odpovědí
+T40	DISEASE 12806 12825	Ischemická kolitida

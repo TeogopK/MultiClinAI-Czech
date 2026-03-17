@@ -1,0 +1,28 @@
+T34	PROCEDURE 168 180	císařský řez
+T25	PROCEDURE 559 578	Fyzikální vyšetření
+T26	PROCEDURE 817 844	Kardiorespirační auskultace
+T27	PROCEDURE 1194 1211	Elektrokardiogram
+T28	PROCEDURE 1213 1216	EKG
+T40	PROCEDURE 1320 1329	biochemie
+T38	PROCEDURE 1343 1348	ionty
+T3	PROCEDURE 1351 1364	funkcí ledvin
+T29	PROCEDURE 1366 1374	Hemogram
+T37	PROCEDURE 1450 1459	Koagulace
+T30	PROCEDURE 1472 1484	RTG hrudníku
+T32	PROCEDURE 1533 1564	Transtorakální echokardiografie
+T7	PROCEDURE 2247 2269	léčba s podáváním séra
+T8	PROCEDURE 2271 2312	transfuzí 2 koncentrátů červených krvinek
+T9	PROCEDURE 2369 2416	perorálních nesteroidních protizánětlivých léků
+T10	PROCEDURE 2418 2423	NSAID
+T35	PROCEDURE 2441 2495	elektivní perikardiocentéza levou parasternální cestou
+T11	PROCEDURE 2640 2653	betablokátorů
+T12	PROCEDURE 2656 2700	inhibitorů angiotenzin konvertujícího enzymu
+T42	PROCEDURE 2836 2866	intravenózní aplikace diuretik
+T31	PROCEDURE 2868 2894	Rentgenový snímek hrudníku
+T36	PROCEDURE 2964 3001	diagnosticko-terapeutická torakentéza
+T44	PROCEDURE 3082 3123	předtransplantačního studijního protokolu
+T33	PROCEDURE 3150 3181	transtorakální echokardiografie
+T53	PROCEDURE 3913 3939	antinukleárních protilátek
+T39	PROCEDURE 3958 3966	anti-DNA
+T54	PROCEDURE 4011 4042	antikardiolipinových protilátek
+T55	PROCEDURE 4092 4107	Coombsova testu

@@ -1,0 +1,20 @@
+T3	PROCEDURE 66 87	medikamentózní léčbou
+T2	PROCEDURE 89 99	Endoskopie
+T5	PROCEDURE 217 224	Biopsie
+T8	PROCEDURE 294 320	gastrointestinální tranzit
+T7	PROCEDURE 322 325	GIT
+T6	PROCEDURE 329 350	počítačová tomografie
+T9	PROCEDURE 352 354	CT
+T10	PROCEDURE 489 528	endoskopických ultrazvukových vyšetření
+T11	PROCEDURE 530 533	EUS
+T14	PROCEDURE 754 768	ultrazvukových
+T12	PROCEDURE 828 831	FNA
+T13	PROCEDURE 1001 1025	chirurgického odstranění
+T15	PROCEDURE 1027 1063	Excize byla provedena laparoskopicky
+T1	PROCEDURE 1090 1114	intraoperační endoskopie
+T16	PROCEDURE 1117 1142	barvení čínským inkoustem
+T18	PROCEDURE 1148 1155	operací
+T4	PROCEDURE 1172 1191	přední gastrostomie
+T17	PROCEDURE 1194 1250	resekce byla provedena pomocí 45mm lineárního endograftu
+T19	PROCEDURE 1287 1338	gastrostomie uzavřena kontinuálním hedvábným stehem
+T20	PROCEDURE 1422 1447	Mikroskopickým vyšetřením

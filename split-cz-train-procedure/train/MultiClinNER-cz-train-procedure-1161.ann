@@ -1,0 +1,22 @@
+T37	PROCEDURE 0 8	ANAMNÉZA
+T24	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T25	PROCEDURE 486 505	Fyzikální vyšetření
+T26	PROCEDURE 605 621	Auskultace srdce
+T27	PROCEDURE 647 662	Auskultace plic
+T28	PROCEDURE 690 741	Neurologické vyšetření, vyšetření břicha a končetin
+T40	PROCEDURE 791 812	Biochemické vyšetření
+T29	PROCEDURE 892 904	Krevní obraz
+T30	PROCEDURE 907 916	koagulace
+T31	PROCEDURE 986 1018	Základní arteriální krevní plyny
+T32	PROCEDURE 1068 1071	EKG
+T42	PROCEDURE 1156 1168	RTG hrudníku
+T33	PROCEDURE 1220 1243	Angio-CT plicních tepen
+T34	PROCEDURE 1561 1574	Bronchoskopie
+T64	PROCEDURE 1861 1904	transtorakální echokardiografické vyšetření
+T54	PROCEDURE 2243 2270	katetrizační tlaková studie
+T4	PROCEDURE 2410 2428	zaveden katétr AL2
+T6	PROCEDURE 2764 2786	uzavření foramen ovale
+T63	PROCEDURE 2804 2837	transezofageální echokardiografií
+T36	PROCEDURE 2860 2882	balónkový okluzní test
+T7	PROCEDURE 2966 3032	patentní foramen ovale uzavřeno pomocí 18mm zařízení Amplatzer ASD
+T43	PROCEDURE 3044 3047	TEE

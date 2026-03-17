@@ -1,0 +1,46 @@
+T13	DISEASE 90 104	fibrilace síní
+T1	DISEASE 106 110	FiSi
+T2	DISEASE 113 136	intrakavitárním trombem
+T3	DISEASE 139 195	absolutní kontraindikací dlouhodobé antikoagulační léčby
+T15	DISEASE 260 274	lékové alergie
+T5	DISEASE 318 328	Hypertenze
+T16	DISEASE 331 343	dyslipidémie
+T17	DISEASE 357 365	diabetes
+T6	DISEASE 383 428	hypertenzní srdeční choroba s mírnou ischémií
+T7	DISEASE 533 549	koronárních lézí
+T10	DISEASE 598 613	paroxyzmální AF
+T18	DISEASE 663 696	Cévní onemocnění mozku malých cév
+T11	DISEASE 756 771	Hiatální hernie
+T12	DISEASE 773 791	Hemoroidní syndrom
+T47	DISEASE 1616 1657	pravý frontální intraparenchymový hematom
+T50	DISEASE 2006 2027	amyloidové angiopatie
+T14	DISEASE 2319 2333	fibrilace síní
+T20	DISEASE 2897 2900	DVT
+T53	DISEASE 2991 2993	AF
+T54	DISEASE 3036 3068	kompletní blokády levého raménka
+T55	DISEASE 3070 3074	LBBB
+T30	DISEASE 3249 3262	kardiomegalie
+T58	DISEASE 3304 3319	plicní kongesce
+T60	DISEASE 3411 3433	Dilatovaná levá komora
+T61	DISEASE 3661 3681	mitrální regurgitaci
+T62	DISEASE 3683 3685	MR
+T21	DISEASE 3802 3828	Trikuspidální insuficience
+T63	DISEASE 3830 3832	TI
+T22	DISEASE 4031 4052	perikardiální výpotek
+T66	DISEASE 4111 4152	pravý frontální intraparenchymový hematom
+T68	DISEASE 4223 4261	krvácení do pravého frontálního laloku
+T23	DISEASE 4264 4287	vaskulopatie malých cév
+T69	DISEASE 4325 4347	amyloidovou angiopatií
+T70	DISEASE 4649 4662	Dilatovaná LK
+T25	DISEASE 4829 4861	ouška levé síně je vidět trombus
+T74	DISEASE 5039 5063	trombu v oušku levé síně
+T75	DISEASE 5311 5317	trombu
+T77	DISEASE 5529 5535	trombu
+T26	DISEASE 6047 6054	trombus
+T79	DISEASE 6091 6105	kardiomyopatii
+T80	DISEASE 6117 6143	těžkou komorovou dysfunkcí
+T29	DISEASE 6351 6404	Dilatační kardiomyopatie s těžkou komorovou dysfunkcí
+T28	DISEASE 6418 6440	Trvalá fibrilace srdce
+T19	DISEASE 6495 6515	amyloidní angiopatie
+T83	DISEASE 6526 6579	pravostrannému lobárnímu intraparenchymovému hematomu
+T24	DISEASE 6581 6606	Trombus v oušku levé síně

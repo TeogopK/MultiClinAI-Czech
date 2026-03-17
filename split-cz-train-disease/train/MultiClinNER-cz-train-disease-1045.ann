@@ -1,0 +1,50 @@
+T1	DISEASE 101 117	lékových alergií
+T2	DISEASE 123 139	toxických návyků
+T22	DISEASE 191 202	Hypotyreóza
+T4	DISEASE 361 443	sarkoidóza s postižením plic II. stupně s přidruženou bronchiální hyperreaktivitou
+T5	DISEASE 525 565	trvalou monomorfní komorovou tachykardii
+T36	DISEASE 625 678	dilatovaná levá komora s těžkou systolickou dysfunkcí
+T7	DISEASE 779 799	dilataci levé komory
+T8	DISEASE 988 1016	těžkou systolickou dysfunkcí
+T10	DISEASE 1360 1385	infekci operační rány ICD
+T23	DISEASE 1542 1569	trikuspidální endokarditida
+T12	DISEASE 1583 1597	plicní embolií
+T13	DISEASE 1646 1676	refrakterním srdečním selháním
+T14	DISEASE 1708 1753	neudržitelné a udržované komorové tachykardie
+T15	DISEASE 1755 1757	VT
+T32	DISEASE 1823 1889	kardiorespirační zástavu (KRA) v důsledku primární fibrilace komor
+T16	DISEASE 1849 1852	KRA
+T17	DISEASE 1891 1893	VF
+T24	DISEASE 2096 2126	avaskulární nekróza obou kyčlí
+T25	DISEASE 2311 2330	infekční komplikace
+T27	DISEASE 2332 2345	plicní absces
+T28	DISEASE 2359 2379	hrudní herpes zoster
+T20	DISEASE 2393 2424	opakované infekce močových cest
+T29	DISEASE 2426 2442	gastroenteritida
+T21	DISEASE 2564 2600	kompletní atrioventrikulární blokádu
+T39	DISEASE 2602 2605	AVB
+T60	DISEASE 2671 2674	AVB
+T62	DISEASE 2799 2818	síňového deflutteru
+T67	DISEASE 3889 3941	kompletní zaklínění VAB v kontextu ischemie myokardu
+T35	DISEASE 4402 4420	poškození myokardu
+T30	DISEASE 4508 4531	třícípá koronární nemoc
+T68	DISEASE 4583 4643	trombotickým uzávěrem proximální pravé koronární tepny (RCA)
+T71	DISEASE 4914 4933	akutní myokarditidu
+T31	DISEASE 4941 4977	akutní koronární syndrom typu NSTEMI
+T72	DISEASE 5344 5357	kompletní AVB
+T73	DISEASE 5430 5456	třícípou koronární chorobu
+T74	DISEASE 5508 5545	trombotickým uzávěrem proximálního DC
+T77	DISEASE 5710 5723	kompletní AVB
+T78	DISEASE 5726 5757	těžkým hemodynamickým zhoršením
+T79	DISEASE 5784 5799	fibrilaci komor
+T81	DISEASE 5934 5986	Akutní koronární syndrom s elevací úseku ST (STEACS)
+T82	DISEASE 6004 6046	Kompletní AVB v důsledku ischemie myokardu
+T83	DISEASE 6048 6065	CRP v důsledku VF
+T33	DISEASE 6067 6123	Cévní onemocnění štěpu u pacientů po transplantaci srdce
+T84	DISEASE 6125 6159	Trombotická okluze proximálního DC
+T85	DISEASE 6179 6221	Sarkoidóza s plicním a srdečním postižením
+T86	DISEASE 6249 6316	Infiltrativní kardiomyopatie v dilatační fázi v důsledku sarkoidózy
+T87	DISEASE 6320 6348	těžkou systolickou dysfunkcí
+T88	DISEASE 6368 6371	CHF
+T26	DISEASE 6384 6403	infekční komplikace
+T34	DISEASE 6456 6499	Akutní trikuspidální infekční endokarditida

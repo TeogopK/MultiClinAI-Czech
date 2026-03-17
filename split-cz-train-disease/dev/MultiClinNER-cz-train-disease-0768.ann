@@ -1,0 +1,41 @@
+T7	DISEASE 67 88	Arteriální hypertenze
+T8	DISEASE 90 102	Dyslipidemie
+T9	DISEASE 104 121	Diabetes mellitus
+T10	DISEASE 133 169	Chronická ischemická choroba srdeční
+T16	DISEASE 171 221	Akutní infarkt myokardu s elevací úseku ST (STEMI)
+T17	DISEASE 260 287	refrakterní anginy pectoris
+T2	DISEASE 366 420	trombotickým uzávěrem proximální pravé koronární tepny
+T3	DISEASE 422 479	Chronická nedokrevnost neošetřené první obtuózní okrajové
+T4	DISEASE 546 616	mírně dilatovanou levou komoru (LK) s mírnou koncentrickou hypertrofií
+T5	DISEASE 707 724	pseudoaneuryzmatu
+T36	DISEASE 959 982	intrakavitárního trombu
+T12	DISEASE 1044 1084	chronické onemocnění ledvin ve stadiu 3B
+T13	DISEASE 1086 1117	Periferní arteriální onemocnění
+T14	DISEASE 1145 1170	Demence Alzheimerova typu
+T15	DISEASE 1456 1488	Středně těžká kognitivní porucha
+T37	DISEASE 1532 1558	akutním infarktem myokardu
+T38	DISEASE 1560 1563	AIM
+T39	DISEASE 1639 1665	ischemické choroby srdeční
+T19	DISEASE 2236 2258	hluboké žilní trombózy
+T40	DISEASE 2260 2263	HŽT
+T20	DISEASE 2918 2957	dolní bazální a zadní bazální dyskineze
+T41	DISEASE 2959 2990	akineze středního zadního septa
+T42	DISEASE 3085 3102	pseudoaneuryzmatu
+T43	DISEASE 3247 3258	aneuryzmatu
+T21	DISEASE 3349 3367	Dilatace levé síně
+T44	DISEASE 3369 3432	Mírný perikardiální výpotek v oblasti přiléhající k zadní stěně
+T45	DISEASE 3596 3622	systémové žilní hypertenze
+T47	DISEASE 3851 3872	pseudoaneuryzmatem LK
+T49	DISEASE 4121 4128	trombem
+T50	DISEASE 4249 4275	Středně těžká dysfunkce LK
+T22	DISEASE 4289 4326	Mírná aortální a mitrální regurgitace
+T52	DISEASE 4459 4476	pseudoaneuryzmatu
+T23	DISEASE 4640 4657	srdečního selhání
+T24	DISEASE 4659 4675	komorové arytmie
+T53	DISEASE 4690 4705	anginy pectoris
+T55	DISEASE 4905 4932	intraventrikulárního trombu
+T11	DISEASE 5307 5343	Chronická ischemická choroba srdeční
+T18	DISEASE 5345 5366	Pokročilá horší STEMI
+T58	DISEASE 5444 5471	Pseudoaneuryzma levé komory
+T59	DISEASE 5482 5505	intrakavitárního trombu
+T25	DISEASE 5507 5539	Středně těžká komorová dysfunkce

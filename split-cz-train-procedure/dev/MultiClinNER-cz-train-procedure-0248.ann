@@ -1,0 +1,36 @@
+T18	PROCEDURE 24 37	hysterektomii
+T21	PROCEDURE 24 83	hysterektomii a oboustrannou adnexektomii a lymfadenektomii
+T19	PROCEDURE 190 224	kardiostimulátor pro kompletní AVB
+T4	PROCEDURE 268 307	noční neinvazivní mechanickou ventilaci
+T5	PROCEDURE 309 312	NIV
+T17	PROCEDURE 491 510	chirurgické zákroky
+T20	PROCEDURE 512 540	cholecystektomie laparotomií
+T22	PROCEDURE 556 585	oboustranná operace katarakty
+T1	PROCEDURE 609 612	EKG
+T23	PROCEDURE 652 669	kardiostimulátoru
+T29	PROCEDURE 707 719	RTG hrudníku
+T2	PROCEDURE 773 784	Spirometrie
+T3	PROCEDURE 848 871	Arteriální krevní plyny
+T32	PROCEDURE 928 936	Hemogram
+T14	PROCEDURE 1010 1019	Koagulace
+T16	PROCEDURE 1171 1191	02 v nosních brýlích
+T8	PROCEDURE 1223 1237	benzodiazepiny
+T24	PROCEDURE 1278 1300	intratekální anestezii
+T9	PROCEDURE 1507 1537	tekutinová terapie s ohřívačem
+T11	PROCEDURE 1578 1600	resekce dělohy a adnex
+T26	PROCEDURE 1631 1671	iliakální a paraaortální lymfadenektomií
+T25	PROCEDURE 1729 1763	aplikaci 10 mg bolusového ketaminu
+T41	PROCEDURE 1784 1798	benzodiazepinů
+T42	PROCEDURE 1800 1807	morfinu
+T43	PROCEDURE 1884 1893	analgezii
+T44	PROCEDURE 1966 1973	operace
+T27	PROCEDURE 1993 2010	dechovou podporou
+T13	PROCEDURE 2016 2030	oxygenoterapie
+T15	PROCEDURE 2065 2085	O2 v nosních brýlích
+T6	PROCEDURE 2193 2196	NIV
+T7	PROCEDURE 2198 2202	CPAP
+T28	PROCEDURE 2217 2270	oboustranná perkutánní transabdominální blokáda (TAP)
+T10	PROCEDURE 2346 2376	blokáda přímého břišního svalu
+T12	PROCEDURE 2437 2446	Analgezie
+T50	PROCEDURE 2496 2503	opioidů
+T52	PROCEDURE 2650 2657	operaci

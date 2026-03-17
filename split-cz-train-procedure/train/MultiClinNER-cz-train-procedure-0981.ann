@@ -1,0 +1,26 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T14	PROCEDURE 451 468	elektrokardiogram
+T15	PROCEDURE 470 473	EKG
+T5	PROCEDURE 627 648	protidestičkové léčby
+T6	PROCEDURE 687 701	koronarografii
+T19	PROCEDURE 879 900	perkutánní intervence
+T20	PROCEDURE 916 927	fibrinolýza
+T7	PROCEDURE 966 977	fibrinolýze
+T30	PROCEDURE 1098 1136	neinvazivním a periferním monitorování
+T21	PROCEDURE 1158 1172	Echokardiogram
+T23	PROCEDURE 1363 1371	angio-CT
+T33	PROCEDURE 1428 1511	intervenční radiologie dosaženo cévního přístupu do pravého brachycefalického kmene
+T18	PROCEDURE 1513 1527	Koronarografie
+T35	PROCEDURE 1584 1650	přední sestupné tepny, kde byl implantován stent uvolňující léčivo
+T26	PROCEDURE 1964 1983	FYZIKÁLNÍ VYŠETŘENÍ
+T27	PROCEDURE 2094 2110	Auskultace srdce
+T39	PROCEDURE 2321 2361	Imunologické vyšetření na autoprotilátky
+T29	PROCEDURE 2425 2443	revmatoidní faktor
+T40	PROCEDURE 2510 2527	sérologické testy
+T41	PROCEDURE 2551 2583	MARKERY MYOKARDIÁLNÍHO POŠKOZENÍ
+T16	PROCEDURE 2657 2660	EKG
+T17	PROCEDURE 2756 2759	EKG
+T22	PROCEDURE 2858 2872	Echokardiogram
+T28	PROCEDURE 3104 3142	ANGIO-CT aorty a supraaortálních kmenů
+T24	PROCEDURE 3512 3556	rekanalizace v primitivních ilických tepnách
+T45	PROCEDURE 3558 3572	KORONAROGRAFIE

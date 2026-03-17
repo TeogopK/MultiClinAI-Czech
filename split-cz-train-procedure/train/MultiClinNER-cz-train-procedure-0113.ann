@@ -1,0 +1,14 @@
+T1	PROCEDURE 116 140	Oftalmologické vyšetření
+T7	PROCEDURE 583 602	systémové vyšetření
+T2	PROCEDURE 634 667	Magnetická rezonance (MRI) očnice
+T8	PROCEDURE 656 659	MRI
+T3	PROCEDURE 804 825	léčba kortikosteroidy
+T9	PROCEDURE 1097 1110	řezná biopsie
+T10	PROCEDURE 1162 1184	Histologické vyšetření
+T11	PROCEDURE 1370 1427	Imunohistochemické barvení na histiocytární buňky (CD 68)
+T4	PROCEDURE 1566 1586	CT břicha a hrudníku
+T5	PROCEDURE 1588 1605	CT lebky a očnice
+T18	PROCEDURE 1607 1619	RTG hrudníku
+T6	PROCEDURE 1621 1645	ultrazvuk břicha a pánve
+T12	PROCEDURE 1648 1679	kostní sken s Tc 99m difosfátem
+T13	PROCEDURE 1858 1879	léčbě kortikosteroidy

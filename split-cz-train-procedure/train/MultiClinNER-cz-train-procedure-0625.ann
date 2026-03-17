@@ -1,0 +1,21 @@
+T1	PROCEDURE 356 375	Fyzikální vyšetření
+T8	PROCEDURE 454 471	transluminiscencí
+T9	PROCEDURE 679 708	ultrazvukové vyšetření varlat
+T12	PROCEDURE 836 847	rozbor krve
+T13	PROCEDURE 850 868	nádorovými markery
+T10	PROCEDURE 870 899	rentgenové vyšetření hrudníku
+T15	PROCEDURE 946 954	Hemogram
+T7	PROCEDURE 966 975	biochemie
+T2	PROCEDURE 1031 1057	Rentgenový snímek hrudníku
+T11	PROCEDURE 1297 1326	ultrazvukové vyšetření varlat
+T3	PROCEDURE 1592 1636	radikální pravostranná tříselná orchiektomie
+T14	PROCEDURE 1638 1660	Patologicko-anatomické
+T22	PROCEDURE 1848 1856	resekční
+T16	PROCEDURE 1948 2000	vyšetření počítačovou tomografií (CT) břicha a pánve
+T26	PROCEDURE 2437 2444	operaci
+T29	PROCEDURE 2716 2732	adjuvantní léčby
+T4	PROCEDURE 2846 2858	radioterapie
+T5	PROCEDURE 2864 2876	chemoterapie
+T32	PROCEDURE 3003 3015	CT vyšetření
+T34	PROCEDURE 3229 3241	CT vyšetření
+T6	PROCEDURE 3253 3269	nádorové markery

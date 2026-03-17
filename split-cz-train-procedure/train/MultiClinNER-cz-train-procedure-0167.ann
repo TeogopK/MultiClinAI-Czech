@@ -1,0 +1,15 @@
+T1	PROCEDURE 427 449	chirurgická gastropexe
+T11	PROCEDURE 548 554	zákrok
+T12	PROCEDURE 570 590	fyzikálním vyšetření
+T2	PROCEDURE 678 696	Rektální vyšetření
+T14	PROCEDURE 736 744	Hemogram
+T3	PROCEDURE 747 756	biochemie
+T4	PROCEDURE 771 802	Prostý rentgenový snímek břicha
+T8	PROCEDURE 883 904	počítačové tomografii
+T9	PROCEDURE 906 908	CT
+T17	PROCEDURE 920 934	baryové klyzma
+T5	PROCEDURE 1067 1092	terapeutická kolonoskopie
+T6	PROCEDURE 1116 1149	segment tlustého střeva rozvolnit
+T7	PROCEDURE 1440 1452	Kolonoskopie
+T22	PROCEDURE 1535 1542	operaci
+T10	PROCEDURE 1560 1605	resekce nadbytečného segmentu tlustého střeva

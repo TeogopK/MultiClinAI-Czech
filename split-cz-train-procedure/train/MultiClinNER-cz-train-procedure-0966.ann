@@ -1,0 +1,36 @@
+T22	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T23	PROCEDURE 958 981	Auskultace srdce a plic
+T24	PROCEDURE 1285 1294	CT břicha
+T37	PROCEDURE 1297 1314	PCR na SARSCoV- 2
+T26	PROCEDURE 1624 1632	Hemogram
+T48	PROCEDURE 1874 1888	Vyšetření moči
+T38	PROCEDURE 1955 1972	PCR na SARS-CoV-2
+T25	PROCEDURE 2079 2088	CT břicha
+T27	PROCEDURE 2079 2102	CT břicha bez kontrastu
+T11	PROCEDURE 3060 3158	vyšetření hepatotropních virů a HIV, protilátek proti transglutamináze a thiopurinmetyltransferáze
+T28	PROCEDURE 3311 3328	Kultivace stolice
+T29	PROCEDURE 3771 3788	elektrokardiogram
+T30	PROCEDURE 3936 3953	Elektrokardiogram
+T31	PROCEDURE 4126 4143	Elektrokardiogram
+T12	PROCEDURE 4353 4381	echokardiografické vyšetření
+T34	PROCEDURE 5151 5165	echokardiogram
+T39	PROCEDURE 5307 5310	PCR
+T40	PROCEDURE 5336 5349	izolace COVID
+T41	PROCEDURE 5388 5428	sérologie s pozitivním IgG na SARS-CoV-2
+T42	PROCEDURE 5738 5759	reaktanty akutní fáze
+T43	PROCEDURE 5762 5788	markery poškození myokardu
+T32	PROCEDURE 5790 5807	elektrokardiogram
+T35	PROCEDURE 5835 5849	echokardiogram
+T16	PROCEDURE 5894 5907	betablokátory
+T17	PROCEDURE 5954 5962	sledován
+T46	PROCEDURE 6182 6198	léčba inhibitory
+T19	PROCEDURE 6234 6248	inhibitory ACE
+T44	PROCEDURE 6252 6266	beta-blokátory
+T36	PROCEDURE 6278 6292	echokardiogram
+T33	PROCEDURE 6432 6449	elektrokardiogram
+T45	PROCEDURE 6607 6621	beta-blokátory
+T21	PROCEDURE 6637 6645	sledován
+T47	PROCEDURE 6653 6663	telemetrie
+T61	PROCEDURE 6926 6956	empirickou antibiotickou léčbu
+T62	PROCEDURE 7121 7142	myokardiálních enzymů
+T63	PROCEDURE 7180 7201	reaktantů akutní fáze

@@ -1,0 +1,39 @@
+T12	DISEASE 16 67	Alergie na sulfonamidy a kyselinu acetylsalicylovou
+T13	DISEASE 104 116	dyslipidémie
+T14	DISEASE 149 166	diabetes mellitus
+T15	DISEASE 174 195	arteriální hypertenze
+T1	DISEASE 197 200	AHT
+T30	DISEASE 209 223	toxické návyky
+T2	DISEASE 249 285	těžká symptomatická aortální stenóza
+T16	DISEASE 501 518	Bronchiální astma
+T17	DISEASE 560 578	Makulární trombóza
+T4	DISEASE 581 613	odchlípení sklivce na pravém oku
+T18	DISEASE 643 658	Zlomenina pánve
+T6	DISEASE 711 736	Zlomenina L1 impingementu
+T8	DISEASE 838 874	zlomenině krčku pravé stehenní kosti
+T19	DISEASE 2172 2194	hluboké žilní trombózy
+T20	DISEASE 2196 2199	DVT
+T50	DISEASE 2594 2616	Blokáda levého raménka
+T51	DISEASE 2618 2622	LBBB
+T21	DISEASE 2690 2703	kardiomegalie
+T22	DISEASE 2705 2734	Oboustranný pleurální výpotek
+T52	DISEASE 2760 2774	plicnímu edému
+T53	DISEASE 2815 2854	levá komora s koncentrickou hypertrofií
+T54	DISEASE 3121 3210	Fibrokalcifikovaná mitrální chlopeň převážně vzadu s minimálně středně těžkou regurgitací
+T55	DISEASE 3302 3311	mírnou TR
+T23	DISEASE 3351 3372	perikardiální výpotek
+T56	DISEASE 3585 3598	Těžká stenóza
+T24	DISEASE 3651 3686	Středně těžká mitrální insuficience
+T57	DISEASE 3876 3898	akutním plicním edémem
+T59	DISEASE 4000 4107	těžkou aortální stenózou a insuficiencí sekundárně způsobenou dysfunkcí mechanické protézy aortální chlopně
+T61	DISEASE 4244 4276	kutní-subakutní trombózu protézy
+T63	DISEASE 4551 4569	kardiogenního šoku
+T69	DISEASE 5059 5077	komorové fibrilace
+T73	DISEASE 5287 5315	těžkou dysfunkcí levé komory
+T75	DISEASE 5507 5525	kardiogenního šoku
+T76	DISEASE 5595 5618	multiorgánovému selhání
+T28	DISEASE 5645 5660	Srdeční selhání
+T25	DISEASE 5671 5694	akutního plicního edému
+T77	DISEASE 5696 5829	Akutní trombóza mechanické aortální protézy se stenózou a těžkou insuficiencí sekundárně v důsledku nedostatečné antikoagulační léčby
+T29	DISEASE 5906 5933	Refrakterní kardiogenní šok
+T27	DISEASE 5952 5973	Multiorgánové selhání

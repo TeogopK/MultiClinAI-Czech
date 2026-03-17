@@ -1,0 +1,34 @@
+T1	SYMPTOM 461 475	bolesti břicha
+T2	SYMPTOM 585 600	sinusový rytmus
+T11	SYMPTOM 626 650	s pravostrannou osou QRS
+T12	SYMPTOM 752 790	poruchami repolarizace v oblasti V1-V4
+T13	SYMPTOM 891 933	prominenci plicních tepen a oblouku azygos
+T14	SYMPTOM 1271 1308	vysoký střední tlak v plicnici (mPAP)
+T15	SYMPTOM 1311 1347	normální plicní kapilární tlak (PCP)
+T16	SYMPTOM 1980 2024	opětovné otevření PDA s reziduálním průtokem
+T101	SYMPTOM 2151 2181	normální dechové funkční testy
+T77	SYMPTOM 2269 2285	noční desaturaci
+T17	SYMPTOM 2502 2509	cyanózy
+T18	SYMPTOM 2687 2764	Ergospirometrie ukazuje funkční třídu I se středně sníženou funkční kapacitou
+T19	SYMPTOM 2767 2796	normálním krevním tlakem (TK)
+T88	SYMPTOM 3357 3365	dušností
+T90	SYMPTOM 3994 4003	hemoptýzy
+T25	SYMPTOM 4015 4047	pocit dušení v levém hemithoraxu
+T91	SYMPTOM 4187 4196	hemoptýzy
+T4	SYMPTOM 4342 4364	hemodynamicky stabilní
+T3	SYMPTOM 4541 4556	sinusový rytmus
+T6	SYMPTOM 4569 4580	normální PR
+T10	SYMPTOM 4582 4591	pravá osa
+T109	SYMPTOM 4634 4695	sekundárními repolarizačními změnami v prekordiálních svodech
+T26	SYMPTOM 5415 5440	prominencí plicních tepen
+T27	SYMPTOM 5447 5497	levá komora (LK) není dilatovaná ani hypertrofická
+T28	SYMPTOM 5501 5527	zachovanou globální funkcí
+T9	SYMPTOM 5529 5558	velmi výrazné zploštění septa
+T29	SYMPTOM 5570 5600	přetížení pravostrannými tlaky
+T7	SYMPTOM 5642 5674	Mitrální chlopeň je normofunkční
+T30	SYMPTOM 6024 6055	Dolní dutá žíla není dilatovaná
+T31	SYMPTOM 6239 6273	systolickým průtokem zprava doleva
+T5	SYMPTOM 6421 6443	hemodynamicky stabilní
+T92	SYMPTOM 6464 6473	hemoptýzy
+T93	SYMPTOM 7179 7188	hemoptýzy
+T8	SYMPTOM 7430 7472	Funkce pravé komory na dolní hranici normy

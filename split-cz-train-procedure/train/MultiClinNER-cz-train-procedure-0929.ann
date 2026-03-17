@@ -1,0 +1,51 @@
+T48	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T46	PROCEDURE 550 585	počítačová axiální tomografie lebky
+T47	PROCEDURE 587 590	CAT
+T44	PROCEDURE 649 664	lumbální punkce
+T2	PROCEDURE 676 685	biochemií
+T3	PROCEDURE 721 732	PCR na viry
+T6	PROCEDURE 888 896	anamnéze
+T49	PROCEDURE 1316 1335	Fyzikální vyšetření
+T9	PROCEDURE 1356 1377	vyšetřen neurologicky
+T50	PROCEDURE 1732 1754	neurologické vyšetření
+T11	PROCEDURE 1889 1913	kyslíkem nosními brýlemi
+T51	PROCEDURE 1930 1946	Auskultace srdce
+T52	PROCEDURE 2020 2037	Plicní auskultace
+T13	PROCEDURE 2237 2261	vyšetření moči na toxiny
+T14	PROCEDURE 2263 2308	krevní vyšetření na enteroviry, RSV a chřipku
+T54	PROCEDURE 2406 2423	Elektrokardiogram
+T55	PROCEDURE 2565 2577	RTG hrudníku
+T18	PROCEDURE 2712 2724	Krevní testy
+T53	PROCEDURE 3136 3149	toxiny v moči
+T45	PROCEDURE 3151 3166	Lumbální punkce
+T79	PROCEDURE 3168 3177	biochemie
+T56	PROCEDURE 3259 3263	Gram
+T19	PROCEDURE 3298 3319	Bakteriální kultivace
+T57	PROCEDURE 3331 3344	Mikrobiologie
+T58	PROCEDURE 3346 3364	výtěr z nosohltanu
+T59	PROCEDURE 3431 3444	Rektální stěr
+T60	PROCEDURE 3471 3479	CT mozku
+T22	PROCEDURE 3703 3739	Echokardiografické vyšetření u lůžka
+T28	PROCEDURE 4370 4402	Magnetická rezonance (MRI) mozku
+T29	PROCEDURE 4392 4395	MRI
+T61	PROCEDURE 5267 5276	MRI srdce
+T63	PROCEDURE 5754 5768	Echokardiogram
+T66	PROCEDURE 6606 6630	Levá a pravá katetrizace
+T67	PROCEDURE 6706 6730	Endomyokardiální biopsie
+T72	PROCEDURE 6732 6735	EMB
+T69	PROCEDURE 6997 7007	Virová PCR
+T64	PROCEDURE 7019 7033	Echokardiogram
+T74	PROCEDURE 7572 7592	magnetická rezonance
+T70	PROCEDURE 7666 7669	EEG
+T93	PROCEDURE 7759 7779	kognitivních testech
+T94	PROCEDURE 8064 8092	neuropsychologická vyšetření
+T62	PROCEDURE 8604 8613	MRI srdce
+T75	PROCEDURE 8728 8744	podání gadolinia
+T71	PROCEDURE 8811 8825	koronarografie
+T68	PROCEDURE 8843 8867	pravostranná katetrizace
+T73	PROCEDURE 8908 8935	endomyokardiální biopsie RV
+T76	PROCEDURE 8937 8944	Biopsie
+T65	PROCEDURE 9097 9111	Echokardiogram
+T77	PROCEDURE 9212 9233	neurohormonální léčba
+T102	PROCEDURE 9323 9353	echokardiografického vyšetření
+T78	PROCEDURE 9457 9460	EKG

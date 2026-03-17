@@ -1,0 +1,27 @@
+T7	PROCEDURE 308 321	Angiograficky
+T11	PROCEDURE 407 448	farmakologické léčbě pětinásobnou terapií
+T4	PROCEDURE 450 494	inhibitory angiotenzin konvertujícího enzymu
+T5	PROCEDURE 496 510	beta-blokátory
+T15	PROCEDURE 512 530	antagonisté kalcia
+T6	PROCEDURE 532 541	diuretika
+T12	PROCEDURE 544 558	alfa-blokátory
+T14	PROCEDURE 732 769	zavedení stentu do levé renální tepny
+T13	PROCEDURE 772 796	lokoregionální anestezii
+T8	PROCEDURE 799 840	kontinuálním monitorováním krevního tlaku
+T9	PROCEDURE 848 855	operace
+T24	PROCEDURE 1122 1140	elektrokardiogramu
+T16	PROCEDURE 1154 1171	srdečních markerů
+T17	PROCEDURE 1281 1321	arteriografie přes levou femorální tepnu
+T18	PROCEDURE 1371 1381	trombolýzu
+T19	PROCEDURE 1407 1444	stentu, který byl neúspěšně reponován
+T30	PROCEDURE 1508 1526	vazoaktivních léků
+T1	PROCEDURE 1529 1545	krevní transfuze
+T20	PROCEDURE 1608 1633	zaveden dialyzační katétr
+T32	PROCEDURE 1658 1676	vazoaktivních léků
+T21	PROCEDURE 1694 1709	hemodiafiltraci
+T33	PROCEDURE 1766 1794	echokardiografické vyšetření
+T35	PROCEDURE 1951 1971	mechanické ventilaci
+T22	PROCEDURE 1973 2009	Počítačová axiální tomografie břicha
+T3	PROCEDURE 2086 2097	laparotomie
+T2	PROCEDURE 2174 2190	vazoaktivní léky
+T23	PROCEDURE 2334 2347	cévní operace

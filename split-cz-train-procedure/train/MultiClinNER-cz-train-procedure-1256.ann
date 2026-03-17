@@ -1,0 +1,22 @@
+T38	PROCEDURE 0 8	ANAMNÉZA
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T57	PROCEDURE 240 262	kardiologická anamnéza
+T58	PROCEDURE 281 289	anamnéza
+T22	PROCEDURE 643 662	Fyzikální vyšetření
+T1	PROCEDURE 867 878	kampimetrie
+T89	PROCEDURE 1177 1198	Laboratorní vyšetření
+T36	PROCEDURE 1212 1221	biochemie
+T25	PROCEDURE 1331 1340	Koagulace
+T26	PROCEDURE 1385 1393	Hemogram
+T27	PROCEDURE 1467 1470	EKG
+T28	PROCEDURE 1531 1553	CT lebky bez kontrastu
+T30	PROCEDURE 2135 2143	CT lebky
+T55	PROCEDURE 2907 2936	Transtorakální echokardiogram
+T31	PROCEDURE 3637 3655	CT vyšetření lebky
+T43	PROCEDURE 3933 3945	CT vyšetření
+T33	PROCEDURE 4099 4113	Echokardiogram
+T37	PROCEDURE 4690 4714	provést urgentní operaci
+T34	PROCEDURE 4745 4767	excize síňového útvaru
+T39	PROCEDURE 4770 4790	resekcí fossa ovalis
+T40	PROCEDURE 4793 4828	rekonstrukcí perikardiální záplatou
+T35	PROCEDURE 4904 4924	Patologická anatomie

@@ -1,0 +1,32 @@
+T34	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T113	PROCEDURE 208 219	mastektomií
+T76	PROCEDURE 221 233	chemoterapií
+T124	PROCEDURE 236 248	radioterapií
+T123	PROCEDURE 399 430	přímo působícím antikoagulancii
+T4	PROCEDURE 520 536	ozáření hrudníku
+T39	PROCEDURE 545 616	perkutánní náhrada transfemorálním TAVI implantátem Corevalve Evolut 26
+T69	PROCEDURE 1037 1055	antibiotické léčby
+T136	PROCEDURE 1498 1507	vyšetření
+T119	PROCEDURE 1609 1624	nosními brýlemi
+T72	PROCEDURE 1693 1703	auskultaci
+T28	PROCEDURE 2145 2162	Elektrokardiogram
+T29	PROCEDURE 2285 2311	Rentgenový snímek hrudníku
+T40	PROCEDURE 2328 2332	TAVI
+T32	PROCEDURE 2525 2534	Biochemie
+T35	PROCEDURE 2646 2666	Hormony štítné žlázy
+T57	PROCEDURE 2676 2697	Jaterní funkční testy
+T60	PROCEDURE 2822 2835	Profil železa
+T37	PROCEDURE 2929 2945	Infekční markery
+T30	PROCEDURE 2976 2984	Hemogram
+T33	PROCEDURE 3055 3064	Koagulace
+T31	PROCEDURE 3085 3099	Krevní kultury
+T38	PROCEDURE 3208 3211	Moč
+T36	PROCEDURE 3373 3382	Sérologie
+T7	PROCEDURE 3436 3458	Autoimunitní vyšetření
+T63	PROCEDURE 3533 3562	Transtorakální echokardiogram
+T62	PROCEDURE 3934 3965	Transezofageální echokardiogram
+T68	PROCEDURE 4263 4300	empiricky zahájena antibiotická léčba
+T131	PROCEDURE 4506 4535	transtorakální echokardiogram
+T130	PROCEDURE 4569 4603	transezofageálním echokardiogramem
+T112	PROCEDURE 4695 4710	krevní kulturou
+T14	PROCEDURE 5173 5188	náhrada chlopně

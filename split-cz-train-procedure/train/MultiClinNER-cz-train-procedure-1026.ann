@@ -1,0 +1,27 @@
+T59	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 265 288	sledovaný hematologicky
+T54	PROCEDURE 704 751	provedení chirurgické koronární revaskularizace
+T11	PROCEDURE 754 778	náhrady aortální chlopně
+T55	PROCEDURE 811 856	náhrada aortální chlopně mechanickou protézou
+T12	PROCEDURE 867 963	aortokoronární bypass s revaskularizací LAD s IMA a PD a 1. marginální se dvěma fragmenty safény
+T13	PROCEDURE 1232 1260	echokardiografické vyšetření
+T60	PROCEDURE 2524 2543	FYZIKÁLNÍ VYŠETŘENÍ
+T61	PROCEDURE 2796 2812	Auskultace srdce
+T62	PROCEDURE 2911 2926	Auskultace plic
+T63	PROCEDURE 3244 3247	EKG
+T19	PROCEDURE 3579 3591	RTG HRUDNÍKU
+T64	PROCEDURE 3650 3669	střední sternotomie
+T65	PROCEDURE 3842 3871	Transtorakální echokardiogram
+T56	PROCEDURE 4531 4543	dopplerovský
+T67	PROCEDURE 5650 5681	Transezofageální echokardiogram
+T57	PROCEDURE 5845 5857	dopplerovský
+T84	PROCEDURE 6904 6918	ECHOKARDIOGRAM
+T91	PROCEDURE 7729 7781	intravenózní perfuzi kličkovým diuretikem a inotropy
+T92	PROCEDURE 7907 7936	ultrazvukové vyšetření břicha
+T58	PROCEDURE 8025 8039	Echokardiogram
+T96	PROCEDURE 8100 8103	TEE
+T97	PROCEDURE 8119 8133	depleční léčbě
+T100	PROCEDURE 8372 8414	perkutánní uzavření periprotetického úniku
+T68	PROCEDURE 8443 8481	uzávěr paravalvulární netěsnosti aorty
+T102	PROCEDURE 8576 8653	částečného uzávěru netěsnosti bylo dosaženo pomocí zařízení pro uzávěr dučeje
+T66	PROCEDURE 8801 8834	transtorakální echokardiografické

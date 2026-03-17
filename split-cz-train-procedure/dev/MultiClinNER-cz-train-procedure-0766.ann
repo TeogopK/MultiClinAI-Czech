@@ -1,0 +1,28 @@
+T25	PROCEDURE 289 310	Zobrazovací vyšetření
+T32	PROCEDURE 437 465	echokardiografické vyšetření
+T1	PROCEDURE 555 569	krevní kultuře
+T2	PROCEDURE 572 593	bronchiálním aspirátu
+T34	PROCEDURE 645 663	krevních kulturách
+T24	PROCEDURE 766 775	izolovány
+T27	PROCEDURE 812 819	kultury
+T29	PROCEDURE 903 916	antibiotickou
+T28	PROCEDURE 919 939	antikoagulační léčbu
+T14	PROCEDURE 990 1006	echokardiografie
+T35	PROCEDURE 1122 1170	kompletní chirurgické resekci v mimotělním oběhu
+T31	PROCEDURE 1180 1186	zákrok
+T15	PROCEDURE 1226 1238	žilní drenáž
+T16	PROCEDURE 1253 1287	perkutánní kanylace femorální žíly
+T17	PROCEDURE 1325 1349	kanylace horní duté žíly
+T33	PROCEDURE 1355 1390	resekci báze pedikulární implantace
+T18	PROCEDURE 1406 1430	pravá podélná atriotomie
+T19	PROCEDURE 1433 1475	dočasné uvolnění turniketu dolní duté žíly
+T23	PROCEDURE 1477 1493	Resekovaný útvar
+T42	PROCEDURE 1653 1663	resekována
+T44	PROCEDURE 1668 1675	operaci
+T20	PROCEDURE 1726 1751	Mikrobiologické vyšetření
+T41	PROCEDURE 1768 1794	histopatologické vyšetření
+T21	PROCEDURE 1875 1895	antikoagulační léčba
+T22	PROCEDURE 1909 1942	intravenózní antibiotická terapie
+T37	PROCEDURE 1992 2004	rehabilitaci
+T13	PROCEDURE 2064 2078	echokardiogram
+T43	PROCEDURE 2123 2144	zobrazovací vyšetření

@@ -1,0 +1,62 @@
+T1	DISEASE 75 97	alergický na penicilin
+T2	DISEASE 100 133	netolerující tramadol a metformin
+T3	DISEASE 146 168	metabolického syndromu
+T4	DISEASE 172 190	centrální obezitou
+T5	DISEASE 229 239	hypertenze
+T6	DISEASE 241 243	HT
+T15	DISEASE 246 258	dyslipidemie
+T16	DISEASE 260 263	DLP
+T17	DISEASE 267 270	DM2
+T20	DISEASE 320 332	Bývalý kuřák
+T22	DISEASE 365 392	chronické onemocnění ledvin
+T7	DISEASE 394 397	CKD
+T23	DISEASE 438 471	chronická obstrukční plicní nemoc
+T24	DISEASE 473 478	CHOPN
+T25	DISEASE 482 504	syndrom spánkové apnoe
+T8	DISEASE 506 511	OSAHS
+T12	DISEASE 658 690	polypů tlustého střeva (benigní)
+T26	DISEASE 781 807	ischemická choroba srdeční
+T13	DISEASE 820 823	AIM
+T51	DISEASE 827 856	onemocněním 3 koronárních cév
+T55	DISEASE 1153 1155	IM
+T56	DISEASE 1234 1252	komorové dysfunkce
+T58	DISEASE 1370 1403	okluzí štěpu podkožní žíly do ACx
+T59	DISEASE 1502 1504	IM
+T60	DISEASE 1563 1577	flutterem síní
+T62	DISEASE 1715 1733	arytmických příhod
+T63	DISEASE 1972 1974	IM
+T64	DISEASE 2174 2186	retence vody
+T65	DISEASE 2517 2527	hypertenzi
+T66	DISEASE 2701 2708	obezity
+T30	DISEASE 5413 5433	sinusová bradykardie
+T67	DISEASE 5731 5750	pleurálního výpotku
+T68	DISEASE 5828 5836	obezitou
+T38	DISEASE 5838 5862	Dilatační kardiomyopatie
+T69	DISEASE 5866 5899	středně dilatovanou levou komorou
+T39	DISEASE 5997 6018	Diastolická dysfunkce
+T31	DISEASE 6020 6045	Skleróza aortální chlopně
+T32	DISEASE 6096 6117	mitrální insuficience
+T70	DISEASE 6119 6121	MI
+T71	DISEASE 6168 6226	těžké plicní hypertenzi (PHT) v důsledku plicní akcelerace
+T72	DISEASE 6193 6196	PHT
+T33	DISEASE 6383 6404	perikardiální výpotek
+T74	DISEASE 6612 6614	IM
+T78	DISEASE 7263 7265	IM
+T79	DISEASE 7455 7457	IM
+T80	DISEASE 7691 7706	dekompenzaci IM
+T81	DISEASE 7881 7898	bederní patologií
+T82	DISEASE 8299 8306	obezity
+T18	DISEASE 9055 9058	DM2
+T85	DISEASE 9060 9068	obezitou
+T86	DISEASE 9367 9369	IM
+T87	DISEASE 9680 9692	retenci vody
+T28	DISEASE 9879 9886	obezita
+T88	DISEASE 10308 10310	IM
+T34	DISEASE 10439 10518	Středně těžká systolická dysfunkce levé komory (LVEF 35 %) ischemické etiologie
+T35	DISEASE 10550 10586	chronická ischemická choroba srdeční
+T27	DISEASE 10689 10712	okluzí safénového štěpu
+T36	DISEASE 10840 10870	Metabolický syndrom s obezitou
+T29	DISEASE 11032 11039	obezita
+T19	DISEASE 11066 11069	DM2
+T37	DISEASE 11121 11134	chronická CKD
+T21	DISEASE 11187 11199	Bývalý kuřák

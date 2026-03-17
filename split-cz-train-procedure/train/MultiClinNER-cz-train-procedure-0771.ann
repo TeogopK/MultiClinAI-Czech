@@ -1,0 +1,28 @@
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 174 206	ablací kavotrikuspidálního istmu
+T3	PROCEDURE 208 240	Implantace VDD kardiostimulátoru
+T6	PROCEDURE 345 359	koronarografií
+T23	PROCEDURE 842 869	echokardiografická kontrola
+T25	PROCEDURE 1495 1521	diuretickou oxygenoterapií
+T32	PROCEDURE 2059 2078	Fyzikální vyšetření
+T35	PROCEDURE 2313 2330	Plicní auskultace
+T26	PROCEDURE 2457 2485	echokardiografické vyšetření
+T38	PROCEDURE 2717 2734	Elektrokardiogram
+T39	PROCEDURE 2872 2898	Rentgenový snímek hrudníku
+T28	PROCEDURE 3046 3095	Normálně umístěný elektrokatétr kardiostimulátoru
+T29	PROCEDURE 3106 3118	krevní testy
+T30	PROCEDURE 3120 3122	KO
+T43	PROCEDURE 3524 3533	Biochemie
+T40	PROCEDURE 3835 3844	Hemostáza
+T46	PROCEDURE 3987 3999	Krevní testy
+T36	PROCEDURE 4070 4084	Echokardiogram
+T33	PROCEDURE 4705 4719	Koronarografie
+T41	PROCEDURE 5616 5641	vyšetřen kardiostimulátor
+T37	PROCEDURE 5686 5704	kardiostimulátorem
+T42	PROCEDURE 5785 5814	transtorakální echokardiogram
+T34	PROCEDURE 6454 6468	koronarografie
+T59	PROCEDURE 6581 6635	transkatetrová implantace chlopně přes femorální tepnu
+T44	PROCEDURE 6637 6641	TAVI
+T60	PROCEDURE 6685 6706	perkutánní valvotomie
+T45	PROCEDURE 6865 6869	TAVI
+T62	PROCEDURE 6948 6966	kardiostimulátorem

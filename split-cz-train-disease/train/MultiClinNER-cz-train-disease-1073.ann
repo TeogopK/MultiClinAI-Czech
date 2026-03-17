@@ -1,0 +1,25 @@
+T4	DISEASE 99 120	arteriální hypertenze
+T2	DISEASE 154 174	kompletní AV blokády
+T22	DISEASE 218 234	tamponádou srdce
+T23	DISEASE 303 336	zápal plic v pravém horním laloku
+T24	DISEASE 407 426	kognitivních poruch
+T26	DISEASE 1187 1202	mírná hematurie
+T15	DISEASE 1238 1251	kardiomegalie
+T28	DISEASE 1260 1275	plicní kongesce
+T3	DISEASE 1424 1470	levá komora s těžkou koncentrickou hypertrofií
+T5	DISEASE 1511 1541	Degenerativní aortální stenóza
+T29	DISEASE 1728 1754	trikuspidální insuficiencí
+T6	DISEASE 1813 1834	perikardiální výpotek
+T30	DISEASE 1837 1865	těžký levý pleurální výpotek
+T31	DISEASE 2036 2080	endokarditidy na elektrodě kardiostimulátoru
+T34	DISEASE 2246 2254	plné AVB
+T36	DISEASE 2509 2554	endokarditidou na elektrodě kardiostimulátoru
+T7	DISEASE 2762 2769	Infekce
+T8	DISEASE 3252 3271	Hematogenní infekce
+T12	DISEASE 3348 3359	bakteriémie
+T13	DISEASE 3552 3566	akutní infekce
+T9	DISEASE 3650 3666	pozdních infekcí
+T14	DISEASE 3802 3825	polymikrobiální infekce
+T10	DISEASE 3848 3856	diabetem
+T11	DISEASE 3911 3975	infekce kardiostimulátoru sekundární k levostranné endokarditidě
+T37	DISEASE 4053 4068	infekci chlopně

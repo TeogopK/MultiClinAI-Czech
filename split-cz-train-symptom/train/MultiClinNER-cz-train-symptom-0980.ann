@@ -1,0 +1,58 @@
+T102	SYMPTOM 418 432	asymptomatický
+T21	SYMPTOM 556 577	Nebyl zaznamenán puls
+T1	SYMPTOM 983 998	sinusový rytmus
+T22	SYMPTOM 1001 1044	elevací úseku ST ve svodech V1-V5, DI a aVL
+T23	SYMPTOM 1308 1372	epikardiální koronární tepny bez angiograficky významných stenóz
+T65	SYMPTOM 1811 1820	Afebrilní
+T5	SYMPTOM 1899 1912	krční pulzace
+T24	SYMPTOM 1914 1946	Hepatojugulární reflux negativní
+T89	SYMPTOM 2045 2066	Rytmické srdeční ozvy
+T172	SYMPTOM 2071 2078	šelestů
+T26	SYMPTOM 2080 2119	Chrůpky přítomné v obou plicních polích
+T67	SYMPTOM 2121 2147	Břicho měkké a stlačitelné
+T106	SYMPTOM 2164 2189	Dolní končetiny bez otoku
+T27	SYMPTOM 2193 2287	oboustranně přítomnými a symetrickými femorálními, popliteálními, tibiálními a pedálními pulzy
+T156	SYMPTOM 2289 2313	Radiální pulzy zachovány
+T2	SYMPTOM 2425 2440	sinusový rytmus
+T28	SYMPTOM 2509 2550	elevace segmentů ST od V1 po V5, DI a aVL
+T3	SYMPTOM 2657 2672	sinusový rytmus
+T6	SYMPTOM 2690 2698	úzké QRS
+T29	SYMPTOM 2701 2714	normální osou
+T30	SYMPTOM 2716 2727	bez změn ST
+T7	SYMPTOM 2729 2769	zploštělá vlna T v končetinových svodech
+T8	SYMPTOM 3619 3648	levá komora s normální funkcí
+T20	SYMPTOM 3701 3732	trojcípá aorta bez insuficience
+T31	SYMPTOM 3778 3809	Vzestupná aorta není dilatovaná
+T32	SYMPTOM 3925 3976	Kmen plicní tepny a hrudní aorty normální velikosti
+T33	SYMPTOM 4513 4532	nahromadění sekretu
+T19	SYMPTOM 4667 4701	Sekrety v proximální části trachey
+T9	SYMPTOM 4711 4760	dilatace žaludeční komory s hydroaerální hladinou
+T14	SYMPTOM 4798 4855	CT mozku bez kontrastu (při přijetí): bez významných změn
+T10	SYMPTOM 4873 4915	levá komora normálních rozměrů a geometrie
+T169	SYMPTOM 4920 4945	zachovanou ejekční frakcí
+T11	SYMPTOM 4959 4990	Pravá komora normálních rozměrů
+T152	SYMPTOM 4994 5021	normální systolickou funkcí
+T15	SYMPTOM 5023 5052	Morfologicky normální chlopně
+T151	SYMPTOM 5156 5186	normální kardiotorakální index
+T34	SYMPTOM 5188 5239	plicní parenchym a bronchovaskulární trakt bez změn
+T4	SYMPTOM 5309 5324	sinusový rytmus
+T35	SYMPTOM 5329 5349	repolarizačních změn
+T12	SYMPTOM 5408 5424	elevace úseku ST
+T36	SYMPTOM 5561 5593	normalizací repolarizačních změn
+T159	SYMPTOM 5618 5677	žádné globální ani segmentální změny kontraktility myokardu
+T37	SYMPTOM 5717 5770	Normální perfuzní studie myokardu při prvním průchodu
+T141	SYMPTOM 5866 5894	Funkce levé komory zachována
+T16	SYMPTOM 6309 6336	elektrokardiografické změny
+T17	SYMPTOM 6432 6456	koronární tepny bez lézí
+T38	SYMPTOM 6686 6719	levou komoru se zachovalou funkcí
+T39	SYMPTOM 6722 6750	bez abnormalit kontraktility
+T40	SYMPTOM 6752 6771	bez významných změn
+T41	SYMPTOM 6811 6863	náhlý vzestup ST segmentu zaznamenaný v jednom svodu
+T42	SYMPTOM 7002 7026	hemodynamického ohrožení
+T43	SYMPTOM 7224 7248	hydroelektrolytové změny
+T120	SYMPTOM 7371 7386	febrilní špička
+T45	SYMPTOM 7776 7833	provedena magnetická rezonance srdce, která byla normální
+T18	SYMPTOM 8047 8055	stabilní
+T103	SYMPTOM 8058 8072	asymptomatický
+T13	SYMPTOM 8164 8191	Strukturálně normální srdce
+T46	SYMPTOM 8220 8252	nepřetrvávající elevací úseku ST

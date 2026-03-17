@@ -1,0 +1,29 @@
+T33	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 318 347	echokardiografickém vyšetření
+T31	PROCEDURE 523 537	koronarografie
+T7	PROCEDURE 696 715	transplantaci srdce
+T8	PROCEDURE 937 959	transuretrální resekcí
+T11	PROCEDURE 1044 1059	srdeční operace
+T32	PROCEDURE 1065 1084	transplantace srdce
+T34	PROCEDURE 1864 1883	Fyzikální vyšetření
+T35	PROCEDURE 2054 2076	Neurologické vyšetření
+T48	PROCEDURE 2088 2106	Srdeční auskultace
+T36	PROCEDURE 2202 2219	plicní auskultace
+T37	PROCEDURE 2260 2276	vyšetření břicha
+T38	PROCEDURE 2495 2512	Elektrokardiogram
+T39	PROCEDURE 3055 3081	rentgenový snímek hrudníku
+T42	PROCEDURE 3342 3367	Mikrobiologické vyšetření
+T43	PROCEDURE 3369 3397	rychlý test na chřipku A a B
+T50	PROCEDURE 3410 3438	pneumokokové antigeny v moči
+T51	PROCEDURE 3451 3478	legionelové antigeny v moči
+T52	PROCEDURE 3507 3535	PCR na koronavirus SARS-CoV2
+T44	PROCEDURE 3948 3968	Kardiální biomarkery
+T45	PROCEDURE 4065 4078	Profil anémie
+T40	PROCEDURE 4203 4215	RTG hrudníku
+T54	PROCEDURE 4737 4751	lymfocytopenii
+T55	PROCEDURE 4782 4803	reaktantů akutní fáze
+T41	PROCEDURE 5138 5164	rentgenový snímek hrudníku
+T59	PROCEDURE 5318 5328	izolačního
+T46	PROCEDURE 5540 5556	diuretická léčba
+T61	PROCEDURE 5655 5707	sériová elektrokardiografická a analytická stanovení
+T62	PROCEDURE 5794 5807	hodnot železa

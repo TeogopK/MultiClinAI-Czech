@@ -1,0 +1,35 @@
+T1	DISEASE 100 132	aneuryzma vzestupné hrudní aorty
+T2	DISEASE 135 215	těžkou aortální insuficienci sekundárně způsobenou bikuspidální aortální chlopní
+T11	DISEASE 455 477	anteroseptální infarkt
+T5	DISEASE 492 518	těžké systolické dysfunkci
+T6	DISEASE 981 998	srdečním selháním
+T13	DISEASE 1444 1451	infekce
+T8	DISEASE 1608 1630	Blokáda levého raménka
+T9	DISEASE 1688 1710	dilatovaná levá komora
+T15	DISEASE 1792 1835	Středně těžká funkční mitrální insuficience
+T14	DISEASE 1934 1960	trikuspidální insuficience
+T10	DISEASE 1962 1964	TI
+T16	DISEASE 2077 2098	mitrální insuficience
+T17	DISEASE 2100 2143	středně těžká funkční mitrální insuficience
+T46	DISEASE 2496 2587	kožní lézi v přední mediastinální oblasti, která byla v kontaktu s vzestupnou hrudní aortou
+T47	DISEASE 2808 2818	kožní lézi
+T48	DISEASE 2859 2876	pseudoaneuryzmatu
+T50	DISEASE 3025 3027	MR
+T52	DISEASE 3445 3462	pseudoaneuryzmatu
+T54	DISEASE 3490 3505	Pseudoaneuryzma
+T60	DISEASE 3881 3883	MR
+T61	DISEASE 3920 3934	dilatovanou LK
+T36	DISEASE 4086 4088	MR
+T63	DISEASE 4130 4147	těžkou funkční MR
+T18	DISEASE 4167 4194	Dehiscence mitrálního anulu
+T64	DISEASE 4543 4564	mitrální insuficienci
+T65	DISEASE 4624 4666	pneumonie způsobená koronavirem SARS-CoV-2
+T66	DISEASE 4705 4726	syndrom dechové tísně
+T19	DISEASE 4978 5007	Bikuspidální aortální chlopeň
+T20	DISEASE 5009 5034	Aneurysma vzestupné aorty
+T21	DISEASE 5099 5122	Infarkt myokardu typu V
+T12	DISEASE 5148 5163	Srdeční selhání
+T22	DISEASE 5187 5219	Pseudoaneuryzma aortální chlopně
+T23	DISEASE 5221 5255	Těžká funkční mitrální regurgitace
+T72	DISEASE 5325 5397	Dehiscence mitrálního valvuloplastického prstence s těžkou reziduální MR
+T24	DISEASE 5399 5437	Těžká oboustranná pneumonie SARS-CoV-2

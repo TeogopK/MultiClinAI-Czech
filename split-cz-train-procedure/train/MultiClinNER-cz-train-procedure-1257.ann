@@ -1,0 +1,37 @@
+T23	PROCEDURE 32 51	fyzikální vyšetření
+T1	PROCEDURE 271 293	antipyretické medikace
+T2	PROCEDURE 505 517	připojen ICD
+T25	PROCEDURE 568 579	defibrilace
+T26	PROCEDURE 582 610	kardiopulmonální resuscitace
+T55	PROCEDURE 749 758	intubován
+T3	PROCEDURE 760 767	sedován
+T75	PROCEDURE 910 915	porod
+T24	PROCEDURE 1235 1254	Fyzikální vyšetření
+T46	PROCEDURE 1366 1373	Sedován
+T63	PROCEDURE 1386 1407	mechanickou ventilaci
+T34	PROCEDURE 1451 1454	ACP
+T27	PROCEDURE 1588 1591	EKG
+T28	PROCEDURE 1764 1780	Echokardiografie
+T29	PROCEDURE 2241 2267	Angio CT koronárních tepen
+T36	PROCEDURE 2546 2558	monitorování
+T64	PROCEDURE 2572 2593	mechanickou ventilaci
+T54	PROCEDURE 2595 2605	hypotermie
+T79	PROCEDURE 2608 2622	sérová terapie
+T65	PROCEDURE 2667 2688	mechanickou ventilaci
+T7	PROCEDURE 2831 2861	pomalým stahováním FiO2 a PEEP
+T8	PROCEDURE 2898 2927	kontinuální perfuze dopaminem
+T9	PROCEDURE 2984 2994	hypotermii
+T21	PROCEDURE 3154 3195	kontinuální perfuzi hluboké sedoanalgezie
+T80	PROCEDURE 3242 3265	terapeutické hypotermie
+T38	PROCEDURE 3349 3373	kontinuální monitorování
+T30	PROCEDURE 3407 3410	EEG
+T40	PROCEDURE 3491 3507	Opětovné zahřátí
+T41	PROCEDURE 3540 3573	Postupné vysazování sedoanalgezie
+T35	PROCEDURE 3807 3820	funkce ledvin
+T42	PROCEDURE 3833 3853	echokardiografickému
+T31	PROCEDURE 3876 3898	koronární CT vyšetření
+T32	PROCEDURE 4072 4091	srdeční katetrizace
+T45	PROCEDURE 4120 4143	koronárním CT vyšetření
+T43	PROCEDURE 4164 4206	reimplantaci levé koronární tepny do aorty
+T33	PROCEDURE 4414 4456	Reimplantace levé koronární tepny do aorty
+T66	PROCEDURE 4493 4514	mechanickou ventilací

@@ -1,0 +1,19 @@
+T1	PROCEDURE 60 72	apendektomie
+T2	PROCEDURE 226 245	Fyzikální vyšetření
+T10	PROCEDURE 282 314	hmatné útvary ani visceromegalie
+T13	PROCEDURE 358 379	laboratorní vyšetření
+T3	PROCEDURE 458 493	Rentgenové snímky hrudníku a břicha
+T15	PROCEDURE 528 544	Horní endoskopie
+T11	PROCEDURE 685 721	z antra a těla byly odebrány biopsie
+T17	PROCEDURE 821 851	ultrazvukovém vyšetření břicha
+T7	PROCEDURE 1079 1105	léčbou antisekrečními léky
+T4	PROCEDURE 1198 1248	endoskopie horní části gastrointestinálního traktu
+T12	PROCEDURE 1421 1442	pulzační enteroskopii
+T9	PROCEDURE 1557 1574	průchod endoskopu
+T8	PROCEDURE 1604 1611	biopsie
+T5	PROCEDURE 1645 1660	střevní tranzit
+T6	PROCEDURE 1768 1786	Rozšiřující studie
+T14	PROCEDURE 1801 1821	CT vyšetřením břicha
+T23	PROCEDURE 2188 2213	zobrazovacích vyšetřeních
+T24	PROCEDURE 2232 2249	chirurgické léčbě
+T16	PROCEDURE 2252 2308	resekcí nádoru a následnou duodeno-jejunální anastomózou

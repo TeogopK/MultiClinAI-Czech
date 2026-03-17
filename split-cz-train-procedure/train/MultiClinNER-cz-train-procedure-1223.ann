@@ -1,0 +1,25 @@
+T53	PROCEDURE 9 17	anamnéza
+T54	PROCEDURE 124 139	Osobní anamnéza
+T35	PROCEDURE 295 307	apendektomie
+T24	PROCEDURE 649 652	EKG
+T33	PROCEDURE 688 702	srdeční enzymy
+T26	PROCEDURE 704 723	Fyzikální vyšetření
+T36	PROCEDURE 820 851	plicní auskultace; poslech plic
+T25	PROCEDURE 921 924	EKG
+T4	PROCEDURE 997 1014	Laboratorní testy
+T27	PROCEDURE 1243 1255	krevní obraz
+T28	PROCEDURE 1277 1291	Koronarografie
+T56	PROCEDURE 1293 1306	angiograficky
+T29	PROCEDURE 1385 1399	Echokardiogram
+T30	PROCEDURE 1737 1746	MRI srdce
+T66	PROCEDURE 2030 2069	léčba dvojitou protidestičkovou terapií
+T31	PROCEDURE 2103 2123	Léčba beta-blokátory
+T55	PROCEDURE 2151 2159	anamnéze
+T5	PROCEDURE 2297 2320	elektrokardiografickému
+T32	PROCEDURE 2445 2464	srdeční katetrizace
+T57	PROCEDURE 2482 2495	angiograficky
+T75	PROCEDURE 2603 2619	ventrikulografii
+T62	PROCEDURE 2625 2641	echokardiografii
+T67	PROCEDURE 2658 2684	magnetická rezonance srdce
+T6	PROCEDURE 2702 2727	pozdní gadoliniové sycení
+T43	PROCEDURE 2788 2801	Angiograficky

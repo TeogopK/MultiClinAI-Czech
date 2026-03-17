@@ -1,0 +1,53 @@
+T26	DISEASE 87 101	lékové alergie
+T27	DISEASE 109 123	toxické návyky
+T28	DISEASE 125 146	Arteriální hypertenze
+T29	DISEASE 587 594	synkopa
+T30	DISEASE 609 626	srdečního selhání
+T45	DISEASE 720 745	tachykardie s širokým QRS
+T31	DISEASE 1313 1362	fibrilace síní s kontrolovanou komorovou odpovědí
+T32	DISEASE 1376 1411	poruchy intraventrikulárního vedení
+T33	DISEASE 1426 1441	akutní ischemie
+T2	DISEASE 1462 1533	komorových extrasystol (VE) s morfologií výtokového traktu pravé komory
+T3	DISEASE 1486 1488	VE
+T46	DISEASE 1579 1601	široká QRS tachykardie
+T47	DISEASE 1616 1648	kompletního bloku levého raménka
+T35	DISEASE 1744 1787	extrasystoly výtokového traktu pravé komory
+T24	DISEASE 2945 3018	nedilatovaná levá komora (LK) se středně těžkou koncentrickou hypertrofií
+T5	DISEASE 3020 3052	Středně těžká komorová dysfunkce
+T6	DISEASE 3140 3165	Mírně dilatovaná levá síň
+T7	DISEASE 3167 3227	Strukturálně normální mitrální chlopeň s mírnou insuficiencí
+T36	DISEASE 3381 3402	perikardiální výpotek
+T25	DISEASE 3451 3510	nedilatovaná LK se středně těžkou koncentrickou hypertrofií
+T37	DISEASE 3848 3855	stenóza
+T12	DISEASE 4107 4131	fibrilace síní (FS) s EV
+T54	DISEASE 4123 4125	FS
+T13	DISEASE 4145 4165	bloku levého raménka
+T14	DISEASE 4167 4171	LBBB
+T15	DISEASE 4239 4243	LBBB
+T38	DISEASE 4277 4279	HV
+T40	DISEASE 4445 4463	tromby v levé síni
+T19	DISEASE 4578 4599	komorovou tachykardii
+T18	DISEASE 4665 4677	AV disociací
+T20	DISEASE 4714 4718	LBBB
+T21	DISEASE 4806 4838	komorovou tachykardii s větvením
+T22	DISEASE 4840 4844	BRVT
+T23	DISEASE 5131 5135	RRVT
+T50	DISEASE 5525 5536	tachykardie
+T84	DISEASE 5761 5788	těžké globální dysfunkce LK
+T85	DISEASE 5921 5972	intermediární lézi ve střední pravé koronární tepně
+T34	DISEASE 6096 6111	akutní ischemie
+T87	DISEASE 6201 6228	globální komorové dysfunkce
+T43	DISEASE 6252 6259	arytmie
+T88	DISEASE 6289 6331	dysfunkci sekundární k tachykardiomyopatii
+T90	DISEASE 6429 6450	komorovou tachykardii
+T91	DISEASE 6462 6474	VA disociace
+T92	DISEASE 6527 6548	komorovou tachykardii
+T39	DISEASE 6805 6807	HV
+T44	DISEASE 6884 6900	recidivě arytmie
+T93	DISEASE 7008 7033	nervosvalového onemocnění
+T52	DISEASE 7074 7085	tachykardie
+T94	DISEASE 7101 7121	srdečního onemocnění
+T42	DISEASE 7216 7244	Větvená komorová tachykardie
+T41	DISEASE 7246 7250	BRVT
+T55	DISEASE 7253 7272	Tachykardiomyopatie
+T53	DISEASE 7319 7345	Střední léze ve střední DC

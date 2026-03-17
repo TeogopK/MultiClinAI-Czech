@@ -1,0 +1,26 @@
+T18	PROCEDURE 178 201	subtotální gastrektomii
+T19	PROCEDURE 204 263	rekonstrukcí tranzitu pomocí gastrojejunostomie Billroth II
+T9	PROCEDURE 276 283	operaci
+T20	PROCEDURE 326 338	umělé výživy
+T21	PROCEDURE 355 388	podávání TPN přes centrální linku
+T1	PROCEDURE 521 546	multivitaminový přípravek
+T2	PROCEDURE 548 551	PMV
+T6	PROCEDURE 567 580	stopové prvky
+T22	PROCEDURE 620 639	parenterální výživy
+T23	PROCEDURE 800 838	doplněný stejným PMV a stopovými prvky
+T8	PROCEDURE 865 873	vitamíny
+T3	PROCEDURE 899 916	infuze této diety
+T10	PROCEDURE 1062 1084	ztrátu centrální linky
+T12	PROCEDURE 1164 1171	operaci
+T11	PROCEDURE 1221 1245	explorativní laparotomii
+T13	PROCEDURE 1285 1288	TPN
+T24	PROCEDURE 1319 1361	diety Kabiven® doplněné o výše zmíněné PMV
+T4	PROCEDURE 1500 1503	TPN
+T15	PROCEDURE 1698 1730	antibiotické a analgetické léčby
+T14	PROCEDURE 1747 1762	absolutní dieta
+T16	PROCEDURE 1795 1803	anamnéze
+T25	PROCEDURE 1821 1824	TPN
+T26	PROCEDURE 1831 1868	podáván roztok aminokyselin a glukózy
+T27	PROCEDURE 1974 2005	centrálně přidána emulze lipidů
+T5	PROCEDURE 2130 2133	PMV
+T7	PROCEDURE 2138 2151	stopové prvky

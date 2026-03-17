@@ -1,0 +1,33 @@
+T72	SYMPTOM 547 554	dušnost
+T18	SYMPTOM 556 571	bolest na hrudi
+T19	SYMPTOM 573 580	horečka
+T115	SYMPTOM 672 678	vědomí
+T97	SYMPTOM 680 691	orientovaný
+T75	SYMPTOM 693 702	eupnoický
+T78	SYMPTOM 704 715	hydratovaný
+T20	SYMPTOM 718 732	normální barvy
+T21	SYMPTOM 763 781	alveolární dýchání
+T66	SYMPTOM 782 815	bez vedlejších dechových fenoménů
+T118	SYMPTOM 847 872	systolický ejekční šelest
+T27	SYMPTOM 929 946	systolický šelest
+T22	SYMPTOM 1008 1051	Břicho a končetiny bez pozoruhodných nálezů
+T114	SYMPTOM 1128 1135	výpotek
+T84	SYMPTOM 1143 1153	infiltráty
+T26	SYMPTOM 1158 1169	konsolidace
+T23	SYMPTOM 1192 1207	sinusový rytmus
+T49	SYMPTOM 1524 1541	Koagulace v normě
+T1	SYMPTOM 1571 1610	Biochemie a funkce štítné žlázy v normě
+T24	SYMPTOM 1612 1642	ANA, anti-DNA a ANCA negativní
+T2	SYMPTOM 1644 1693	Vyšetření hyperkoagulace bez patologického nálezu
+T25	SYMPTOM 1695 1770	Sérologie (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella a HBV) negativní
+T3	SYMPTOM 1772 1893	Fundus pravého oka: červeno-třešňová makula, bělavý edém v důsledku ischemie, zúžení retinálních arterií a bělavý exsudát
+T93	SYMPTOM 2323 2346	hypertrofie levé komory
+T50	SYMPTOM 2349 2364	zachovalá LVEF.
+T4	SYMPTOM 2575 2639	Nezávislá kultivace krve x3: pozitivní na Streptococcus viridans
+T116	SYMPTOM 3462 3499	zachovanou ejekční frakcí levé komory
+T62	SYMPTOM 3575 3584	afebrilní
+T5	SYMPTOM 3605 3675	krevní kultury, přičemž ve všech vzorcích rostl Streptococcus viridans
+T63	SYMPTOM 3899 3908	afebrilní
+T6	SYMPTOM 3912 3947	negativní kontrolní krevní kulturou
+T42	SYMPTOM 4619 4633	Asymptomatická
+T52	SYMPTOM 4660 4675	zachovanou LVEF

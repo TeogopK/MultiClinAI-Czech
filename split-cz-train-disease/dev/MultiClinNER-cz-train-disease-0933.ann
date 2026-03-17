@@ -1,0 +1,52 @@
+T13	DISEASE 119 133	lékové alergie
+T14	DISEASE 170 182	bývalý kuřák
+T15	DISEASE 231 249	Vysoký krevní tlak
+T1	DISEASE 251 254	HBP
+T16	DISEASE 303 333	Diabetes mellitus (DM) 2. typu
+T17	DISEASE 322 324	DM
+T18	DISEASE 378 390	Dyslipidemie
+T2	DISEASE 425 441	návyk na alkohol
+T3	DISEASE 550 610	degenerativní choroba aortální chlopně s dvojitým postižením
+T19	DISEASE 612 634	těžká aortální stenóza
+T20	DISEASE 637 672	středně těžká aortální insuficience
+T4	DISEASE 675 700	aneuryzma vzestupné aorty
+T5	DISEASE 711 744	1cévní ischemická choroba srdeční
+T21	DISEASE 1086 1101	Duodenální vřed
+T8	DISEASE 1157 1191	neoplazie dolní části rekta a plic
+T11	DISEASE 1290 1379	Chronická ischemie dolních končetin II. stupně v důsledku femoropopliteální obstrukce MID
+T12	DISEASE 1382 1415	distální popliteální stenózy MMII
+T51	DISEASE 1417 1449	Neurinom levého akustického nerv
+T52	DISEASE 1463 1485	hypoakuzi v levém uchu
+T53	DISEASE 2113 2137	blokádou pravého raménka
+T54	DISEASE 2139 2143	RBBB
+T55	DISEASE 2199 2213	infarktový kód
+T57	DISEASE 2298 2334	kompletní atrioventrikulární blokáda
+T58	DISEASE 2347 2368	prolongované asystoli
+T61	DISEASE 2679 2713	100% stenózu přední sestupné tepny
+T63	DISEASE 3032 3049	palpebrální ptóza
+T22	DISEASE 3059 3067	diplopie
+T23	DISEASE 4199 4221	hluboké žilní trombózy
+T24	DISEASE 4369 4450	Hypodenzní léze v periventrikulární bílé hmotě se subakutním ischemickým vzhledem
+T69	DISEASE 4814 4819	HRBBB
+T71	DISEASE 5009 5038	Přední sestupná: 100% stenóza
+T74	DISEASE 5726 5780	Biologická protéza v aortální poloze s velkou vegetací
+T75	DISEASE 5878 5906	Mírná chlopenní insuficience
+T76	DISEASE 5993 6023	Perivalvulární aortální absces
+T77	DISEASE 6066 6152	Středně těžká mitrální insuficience v důsledku de-strukturalizace chlopenního prstence
+T78	DISEASE 6169 6201	abscesem v mitro-aortální junkci
+T25	DISEASE 6354 6375	perikardiální výpotek
+T80	DISEASE 6520 6524	šoku
+T81	DISEASE 6549 6571	infekční endokarditidu
+T82	DISEASE 6661 6687	léze přední sestupné tepny
+T83	DISEASE 6856 6886	infekční endokarditidy protézy
+T86	DISEASE 7078 7096	kardiogenního šoku
+T90	DISEASE 7271 7286	šokovou situaci
+T27	DISEASE 7297 7318	Akutní selhání ledvin
+T91	DISEASE 7391 7414	multiorgánového selhání
+T92	DISEASE 7467 7537	protetické infekční endokarditidy způsobené Staphylococcus epidermidis
+T93	DISEASE 7563 7568	STEMI
+T94	DISEASE 7611 7653	kardiogenní šok (mistake in original text)
+T28	DISEASE 7694 7740	Chronický uzávěr pravé střední koronární tepny
+T29	DISEASE 7742 7791	Embolický uzávěr proximální přední sestupné tepny
+T36	DISEASE 7846 7890	Těžce narušená systolická funkce levé komory
+T26	DISEASE 7892 7936	Šok smíšeného původu, kardiogenní a septický

@@ -1,0 +1,25 @@
+T38	PROCEDURE 674 691	elektrokardiogram
+T40	PROCEDURE 1044 1063	FYZIKÁLNÍ VYŠETŘENÍ
+T41	PROCEDURE 1179 1195	Auskultace srdce
+T42	PROCEDURE 1220 1235	Auskultace plic
+T39	PROCEDURE 1343 1360	Elektrokardiogram
+T43	PROCEDURE 1362 1365	EKG
+T45	PROCEDURE 1480 1492	RTG hrudníku
+T46	PROCEDURE 1901 1915	Koronarografie
+T3	PROCEDURE 2048 2071	angioplastickým vodičem
+T47	PROCEDURE 2260 2274	tromboaspirace
+T5	PROCEDURE 2413 2427	tromboaspiraci
+T6	PROCEDURE 2430 2454	balónkovou angioplastiku
+T7	PROCEDURE 2519 2540	protidestičkové léčbě
+T49	PROCEDURE 2603 2616	antikoagulace
+T50	PROCEDURE 2656 2670	Echokardiogram
+T8	PROCEDURE 2674 2685	katetrizaci
+T44	PROCEDURE 3117 3120	EKG
+T51	PROCEDURE 3421 3433	Monitorování
+T55	PROCEDURE 3617 3638	reaktanty akutní fáze
+T11	PROCEDURE 3696 3724	echokardiografické vyšetření
+T13	PROCEDURE 4661 4675	podán kontrast
+T14	PROCEDURE 4703 4732	echokardiografickém vyšetření
+T52	PROCEDURE 4748 4765	perikardiocentéza
+T48	PROCEDURE 5042 5056	tromboaspirace
+T54	PROCEDURE 5165 5192	Evakuační perikardiocentéza

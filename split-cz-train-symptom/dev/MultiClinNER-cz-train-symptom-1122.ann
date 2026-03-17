@@ -1,0 +1,55 @@
+T97	SYMPTOM 425 449	centrální hrudní bolesti
+T1	SYMPTOM 486 515	tísnivou, nevyzařující bolest
+T135	SYMPTOM 531 552	vegetativními křečemi
+T2	SYMPTOM 618 655	anginu pectoris ani infekční příznaky
+T12	SYMPTOM 870 887	Eupnoický v klidu
+T13	SYMPTOM 893 901	ortopnoe
+T3	SYMPTOM 907 916	platypnoe
+T64	SYMPTOM 918 947	Jugulární žilní tlak normální
+T14	SYMPTOM 949 981	Negativní hepatojugulární reflex
+T15	SYMPTOM 1001 1018	pravidelný rytmus
+T144	SYMPTOM 1024 1031	šelestů
+T16	SYMPTOM 1050 1068	alveolární dýchání
+T17	SYMPTOM 1084 1104	Končetiny: bez otoků
+T69	SYMPTOM 1106 1144	Periferní pulzy zachovány a symetrické
+T4	SYMPTOM 1291 1319	Elevace ST segmentů ve V3-V5
+T18	SYMPTOM 1321 1340	Q vlny v DIII a aVF
+T19	SYMPTOM 1377 1393	negativní vlny T
+T5	SYMPTOM 1487 1509	ztráta R vlny ve V3-V4
+T6	SYMPTOM 1511 1539	Elevace segmentu ST ve V3-V5
+T7	SYMPTOM 1542 1560	bifázickou vlnou T
+T20	SYMPTOM 1959 1989	RT-PCR na SARS-CoV2: negativní
+T21	SYMPTOM 2005 2043	centrovaná kardiomediastinální silueta
+T8	SYMPTOM 2088 2109	Plicní pole průsvitná
+T33	SYMPTOM 2140 2148	městnání
+T9	SYMPTOM 2240 2294	nedilatovaná levá komora, s rozsáhlou septální akinezí
+T142	SYMPTOM 2308 2338	změn segmentální kontraktility
+T140	SYMPTOM 2343 2381	zachovanou globální systolickou funkcí
+T22	SYMPTOM 2383 2441	Nedilatovaná pravá komora se zachovanou systolickou funkcí
+T32	SYMPTOM 2443 2464	Normální plnicí tlaky
+T25	SYMPTOM 2512 2556	Aortální kořen a levá síň normálního průměru
+T60	SYMPTOM 2669 2704	Celková systolická funkce zachována
+T10	SYMPTOM 2766 2780	Kmen: normální
+T26	SYMPTOM 3041 3084	Pravá koronární tepna: dominantní, normální
+T11	SYMPTOM 3133 3150	Truncus: normální
+T27	SYMPTOM 3505 3548	Pravá koronární tepna: dominantní, normální
+T34	SYMPTOM 3560 3593	srdeční dutiny normální velikosti
+T28	SYMPTOM 3595 3647	Vzestupná a sestupná hrudní aorta normálního kalibru
+T35	SYMPTOM 3668 3708	Břišní aorta vysokého normálního kalibru
+T36	SYMPTOM 3931 3978	Jaterní, slezinné a mezenterické tepny bez změn
+T23	SYMPTOM 3980 4002	Normální renální tepny
+T37	SYMPTOM 4048 4095	levý koronární kmen normálního kalibru a původu
+T29	SYMPTOM 4117 4166	Přední sestupná tepna normálního kalibru a původu
+T30	SYMPTOM 4275 4317	Obvodová tepna normálního kalibru a původu
+T38	SYMPTOM 4339 4378	Okrajová obtuózní větev dobrého kalibru
+T39	SYMPTOM 4405 4429	známek cévního postižení
+T31	SYMPTOM 4431 4480	Pravá koronární tepna normálního kalibru a původu
+T40	SYMPTOM 4584 4608	známek cévního postižení
+T41	SYMPTOM 5052 5087	elevaci ST úseku v předních svodech
+T86	SYMPTOM 5489 5503	asymptomatický
+T43	SYMPTOM 5615 5680	hlubokých negativních vln T v anterolaterálním a inferiorním líci
+T44	SYMPTOM 5758 5814	centrální hrudní bolesti podobné angině pectoris v klidu
+T42	SYMPTOM 5817 5854	elevacemi úseku ST v předních svodech
+T95	SYMPTOM 6128 6144	bolestí na hrudi
+T94	SYMPTOM 7219 7235	bolesti na hrudi
+T24	SYMPTOM 7436 7466	Zachovaná systolická funkce LK

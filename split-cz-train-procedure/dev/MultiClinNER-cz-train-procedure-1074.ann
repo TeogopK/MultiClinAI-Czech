@@ -1,0 +1,49 @@
+T49	PROCEDURE 0 8	ANAMNÉZA
+T27	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T50	PROCEDURE 53 68	OSOBNÍ ANAMNÉZA
+T73	PROCEDURE 229 251	kardiologická anamnéza
+T100	PROCEDURE 291 318	magnetickou rezonanci mozku
+T48	PROCEDURE 379 398	chirurgické zákroky
+T112	PROCEDURE 753 765	resuscitační
+T56	PROCEDURE 767 770	KPR
+T1	PROCEDURE 893 898	výboj
+T113	PROCEDURE 993 999	sedaci
+T2	PROCEDURE 1002 1011	anestezii
+T103	PROCEDURE 1015 1037	orotracheální intubací
+T101	PROCEDURE 1041 1061	mechanické ventilaci
+T3	PROCEDURE 1091 1104	podpory oběhu
+T28	PROCEDURE 1107 1126	FYZIKÁLNÍ VYŠETŘENÍ
+T46	PROCEDURE 1222 1236	Životní funkce
+T29	PROCEDURE 1428 1444	Auskultace srdce
+T30	PROCEDURE 1471 1486	Auskultace plic
+T31	PROCEDURE 1807 1824	Elektrokardiogram
+T33	PROCEDURE 1826 1829	EKG
+T4	PROCEDURE 1930 1942	krevní testy
+T90	PROCEDURE 2081 2089	glykémie
+T47	PROCEDURE 2177 2203	Markery poškození myokardu
+T66	PROCEDURE 2231 2243	RTG hrudníku
+T67	PROCEDURE 2356 2385	Transtorakální echokardiogram
+T70	PROCEDURE 2827 2836	Vyšetření
+T34	PROCEDURE 2856 2870	Koronarografie
+T107	PROCEDURE 3068 3084	podání kontrastu
+T36	PROCEDURE 3137 3161	Koronární CT angiografie
+T37	PROCEDURE 3587 3597	ergometrie
+T86	PROCEDURE 3792 3810	elektrokardiogramu
+T41	PROCEDURE 3906 3920	echokardiogram
+T39	PROCEDURE 3933 3962	zátěžový test cykloergometrem
+T32	PROCEDURE 4389 4406	elektrokardiogram
+T84	PROCEDURE 4503 4531	echokardiografické vyšetření
+T121	PROCEDURE 4702 4722	rentgenové vyšetření
+T13	PROCEDURE 4755 4786	arteriální Astrup; krevní plyny
+T43	PROCEDURE 4880 4912	počítačová tomografie (CT) mozku
+T122	PROCEDURE 5008 5017	vyšetření
+T35	PROCEDURE 5057 5071	koronarografie
+T72	PROCEDURE 5328 5343	oběhové podpory
+T87	PROCEDURE 5426 5434	extubací
+T54	PROCEDURE 5509 5511	CT
+T44	PROCEDURE 5789 5796	operace
+T51	PROCEDURE 5799 5827	implantací dvojitého bypassu
+T52	PROCEDURE 5983 6006	ambulantních kontrolách
+T38	PROCEDURE 6056 6066	ergometrie
+T45	PROCEDURE 6069 6094	zátěžová echokardiografie
+T55	PROCEDURE 6319 6364	Chirurgická revaskularizace dvojitým bypassem

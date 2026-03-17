@@ -1,0 +1,14 @@
+T3	PROCEDURE 434 454	fyzikálním vyšetření
+T6	PROCEDURE 738 747	vyšetření
+T1	PROCEDURE 820 823	EKG
+T7	PROCEDURE 826 838	RTG hrudníku
+T8	PROCEDURE 862 874	krevní testy
+T4	PROCEDURE 877 900	biochemickým vyšetřením
+T9	PROCEDURE 902 917	krevním obrazem
+T10	PROCEDURE 920 942	koagulačním vyšetřením
+T5	PROCEDURE 984 1002	CT vyšetření lebky
+T11	PROCEDURE 1269 1299	vyšetření elektroencefalogramu
+T2	PROCEDURE 1301 1304	EEG
+T13	PROCEDURE 1328 1337	MRI lebky
+T12	PROCEDURE 1399 1423	rentgenový snímek stehna
+T14	PROCEDURE 1745 1767	antiepileptickou léčbu

@@ -1,0 +1,38 @@
+T40	PROCEDURE 0 8	ANAMNÉZA
+T16	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T7	PROCEDURE 93 109	osobní anamnézou
+T1	PROCEDURE 191 274	operaci Tyronovou-Davidovou technikou (náhrada vzestupné aorty s plastikou chlopně)
+T2	PROCEDURE 306 340	implantací kovové aortální protézy
+T62	PROCEDURE 350 365	antikoagulována
+T17	PROCEDURE 1251 1273	Neurologické vyšetření
+T4	PROCEDURE 1403 1421	srdeční auskultace
+T102	PROCEDURE 1456 1477	respirační auskultace
+T18	PROCEDURE 1679 1696	elektrokardiogram
+T19	PROCEDURE 1698 1701	EKG
+T5	PROCEDURE 1854 1861	analýzy
+T20	PROCEDURE 1984 1987	EKG
+T107	PROCEDURE 2069 2098	transtorakální echokardiogram
+T106	PROCEDURE 2197 2228	transezofageální echokardiogram
+T6	PROCEDURE 2316 2368	echokardiografickým a elektrokardiografickým nálezům
+T23	PROCEDURE 2497 2511	koronarografie
+T104	PROCEDURE 2571 2594	nepřetržitému sledování
+T21	PROCEDURE 2626 2629	EKG
+T22	PROCEDURE 2742 2745	EKG
+T43	PROCEDURE 2929 2941	Krevní obraz
+T25	PROCEDURE 2943 2951	hemogram
+T26	PROCEDURE 3137 3146	Koagulace
+T35	PROCEDURE 3254 3263	Biochemie
+T54	PROCEDURE 3601 3630	Transtorakální echokardiogram
+T53	PROCEDURE 4209 4240	Transezofageální echokardiogram
+T52	PROCEDURE 4242 4245	TEE
+T24	PROCEDURE 4394 4408	koronarografie
+T112	PROCEDURE 4840 4858	CT vyšetření aorty
+T105	PROCEDURE 5332 5341	sledování
+T83	PROCEDURE 5348 5362	koronarografií
+T13	PROCEDURE 5578 5597	ukončit těhotenství
+T80	PROCEDURE 5671 5682	katetrizaci
+T29	PROCEDURE 5818 5838	porodnický ultrazvuk
+T45	PROCEDURE 5903 5923	CT angiografie aorty
+T30	PROCEDURE 6156 6169	antikoagulace
+T32	PROCEDURE 6249 6269	Antikoagulační léčba
+T31	PROCEDURE 7427 7440	antikoagulace

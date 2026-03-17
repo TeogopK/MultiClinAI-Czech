@@ -1,0 +1,35 @@
+T39	PROCEDURE 0 8	ANAMNÉZA
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T41	PROCEDURE 53 61	Anamnéza
+T1	PROCEDURE 206 235	dvoukomorový kardiostimulátor
+T71	PROCEDURE 470 498	echokardiografické vyšetření
+T5	PROCEDURE 831 838	operaci
+T6	PROCEDURE 882 906	kompletní resekce myxomu
+T72	PROCEDURE 1074 1102	echokardiografické vyšetření
+T101	PROCEDURE 1127 1149	dopplerovské vyšetření
+T96	PROCEDURE 1260 1281	protidestičkové léčby
+T73	PROCEDURE 1571 1599	echokardiografické vyšetření
+T26	PROCEDURE 1669 1688	Fyzikální vyšetření
+T57	PROCEDURE 1885 1912	Vyšetření kraniálních nervů
+T58	PROCEDURE 1966 2006	Vyšetření povrchové a hluboké citlivosti
+T27	PROCEDURE 2077 2102	Test prst-nos a prst-prst
+T28	PROCEDURE 2305 2321	Auskultace srdce
+T48	PROCEDURE 2363 2380	Plicní auskultace
+T10	PROCEDURE 2464 2471	palpaci
+T29	PROCEDURE 2703 2720	Elektrokardiogram
+T30	PROCEDURE 2722 2725	EKG
+T11	PROCEDURE 2810 2822	Krevní testy
+T35	PROCEDURE 2824 2833	biochemie
+T31	PROCEDURE 2920 2928	Hemogram
+T32	PROCEDURE 2996 3005	Koagulace
+T51	PROCEDURE 3046 3058	RTG hrudníku
+T37	PROCEDURE 3222 3225	MCP
+T33	PROCEDURE 3269 3288	střední sternotomie
+T34	PROCEDURE 3310 3342	Počítačová tomografie (CT) mozku
+T13	PROCEDURE 3333 3335	CT
+T54	PROCEDURE 3479 3510	Transezofageální echokardiogram
+T60	PROCEDURE 4440 4460	antikoagulační léčba
+T38	PROCEDURE 4501 4525	chirurgická reintervence
+T36	PROCEDURE 4555 4574	srdeční katetrizace
+T42	PROCEDURE 4716 4731	provést operaci
+T98	PROCEDURE 4976 4985	sledování

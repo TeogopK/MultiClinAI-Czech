@@ -1,0 +1,20 @@
+T24	PROCEDURE 0 8	ANAMNÉZA
+T15	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T32	PROCEDURE 68 76	anamnézy
+T31	PROCEDURE 203 219	rodinné anamnéze
+T7	PROCEDURE 527 554	Kardiopulmonální auskultace
+T55	PROCEDURE 634 663	povrchové ani hluboké palpaci
+T2	PROCEDURE 940 952	Krevní testy
+T8	PROCEDURE 979 1005	rentgenový snímek hrudníku
+T9	PROCEDURE 1161 1178	Elektrokardiogram
+T39	PROCEDURE 1304 1322	elektrokardiogramu
+T61	PROCEDURE 1371 1414	transtorakální echokardiografické vyšetření
+T10	PROCEDURE 1582 1619	Holterův 24hodinový elektrokardiogram
+T60	PROCEDURE 2051 2061	telemetrií
+T27	PROCEDURE 2176 2218	Transtorakální echokardiogram s kontrastem
+T38	PROCEDURE 2389 2411	dopplerovským průtokem
+T11	PROCEDURE 2476 2516	jednoduchá ergometrie bez beta-blokátorů
+T13	PROCEDURE 2849 2859	ergometrie
+T47	PROCEDURE 3003 3029	magnetická rezonance srdce
+T14	PROCEDURE 3310 3329	Genetické vyšetření
+T41	PROCEDURE 3826 3847	genetickým vyšetřením

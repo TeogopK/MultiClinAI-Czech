@@ -1,0 +1,35 @@
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 135 149	tyreoidektomii
+T68	PROCEDURE 618 638	fyzikálním vyšetření
+T29	PROCEDURE 807 834	Kardiopulmonální auskultace
+T30	PROCEDURE 1082 1104	Neurologické vyšetření
+T31	PROCEDURE 1229 1254	přenosný rentgen hrudníku
+T32	PROCEDURE 1257 1274	elektrokardiogram
+T66	PROCEDURE 1369 1397	echokardiografické vyšetření
+T80	PROCEDURE 1496 1509	monitorováním
+T4	PROCEDURE 1533 1550	Laboratorní testy
+T44	PROCEDURE 1661 1670	koagulace
+T49	PROCEDURE 1822 1835	toxiny v moči
+T33	PROCEDURE 1853 1872	profil štítné žlázy
+T51	PROCEDURE 1887 1922	Přenosný rentgenový snímek hrudníku
+T35	PROCEDURE 2006 2009	EKG
+T102	PROCEDURE 2177 2206	Transtorakální echokardiogram
+T36	PROCEDURE 2755 2758	EKG
+T53	PROCEDURE 2879 2891	Telemetrické
+T76	PROCEDURE 2926 2953	kardioverzí při 100 joulech
+T52	PROCEDURE 2955 2967	RTG hrudníku
+T6	PROCEDURE 2971 3060	dvoukomorovým implantabilním kardioverterem-defibrilátorem s normálním umístěním elektrod
+T37	PROCEDURE 3062 3065	EKG
+T78	PROCEDURE 3125 3144	léčby betablokátory
+T38	PROCEDURE 3197 3200	EKG
+T39	PROCEDURE 3699 3710	kardioverze
+T42	PROCEDURE 3821 3827	sedace
+T95	PROCEDURE 3915 3937	hlubokou sedoanalgezii
+T89	PROCEDURE 3940 3962	orotracheální intubaci
+T43	PROCEDURE 3978 3992	beta-blokátory
+T81	PROCEDURE 4185 4206	detekcí toxinů v moči
+T34	PROCEDURE 4232 4251	profil štítné žlázy
+T12	PROCEDURE 4486 4556	implantaci dvoukomorového endovaskulárního automatického defibrilátoru
+T60	PROCEDURE 4670 4683	betablokátoru
+T69	PROCEDURE 4735 4772	krevní testy ke genetickému vyšetření
+T47	PROCEDURE 5138 5155	Implantace DR ICD

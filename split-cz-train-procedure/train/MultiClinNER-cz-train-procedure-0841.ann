@@ -1,0 +1,27 @@
+T19	PROCEDURE 144 147	EKG
+T25	PROCEDURE 305 324	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 849 871	radiofrekvenční ablací
+T20	PROCEDURE 1030 1033	EKG
+T21	PROCEDURE 1209 1212	EKG
+T26	PROCEDURE 1363 1382	Fyzikální vyšetření
+T10	PROCEDURE 1457 1482	srdeční auskultační nález
+T27	PROCEDURE 1516 1533	Plicní auskultace
+T22	PROCEDURE 1649 1652	EKG
+T28	PROCEDURE 2200 2212	krevní obraz
+T29	PROCEDURE 2305 2319	Echokardiogram
+T34	PROCEDURE 3087 3096	MRI srdce
+T32	PROCEDURE 3560 3586	Rentgenový snímek hrudníku
+T30	PROCEDURE 3770 3793	Zátěžový echokardiogram
+T23	PROCEDURE 4610 4613	EKG
+T24	PROCEDURE 4798 4828	kontinuálním monitorováním EKG
+T48	PROCEDURE 4947 5004	implantaci definitivního dvoukomorového kardiostimulátoru
+T49	PROCEDURE 5017 5044	magnetickou rezonancí srdce
+T31	PROCEDURE 5337 5358	genetickému vyšetření
+T53	PROCEDURE 5540 5568	implantaci kardiostimulátoru
+T33	PROCEDURE 5664 5687	zátěžový echokardiogram
+T55	PROCEDURE 6023 6051	implantaci kardiostimulátoru
+T57	PROCEDURE 6241 6276	implantován trvalý kardiostimulátor
+T59	PROCEDURE 6442 6470	implantaci kardiostimulátoru
+T60	PROCEDURE 6495 6512	genetické analýzy
+T35	PROCEDURE 6738 6762	implantace defibrilátoru
+T36	PROCEDURE 7115 7139	Implantace defibrilátoru

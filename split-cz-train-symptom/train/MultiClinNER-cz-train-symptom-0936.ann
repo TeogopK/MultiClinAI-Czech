@@ -1,0 +1,35 @@
+T78	SYMPTOM 191 205	mírnou dušnost
+T54	SYMPTOM 221 237	bolesti na hrudi
+T82	SYMPTOM 243 252	palpitací
+T70	SYMPTOM 337 344	horečky
+T64	SYMPTOM 346 354	dušnosti
+T102	SYMPTOM 357 364	závratí
+T1	SYMPTOM 657 675	dobrý celkový stav
+T8	SYMPTOM 677 711	klinická a hemodynamická stabilita
+T2	SYMPTOM 835 852	Eupnoický v klidu
+T3	SYMPTOM 893 924	Normální neurologické vyšetření
+T89	SYMPTOM 926 949	akce srdeční pravidelná
+T93	SYMPTOM 957 970	tachykardické
+T104	SYMPTOM 976 983	šelestů
+T66	SYMPTOM 989 998	extratonů
+T4	SYMPTOM 1000 1035	Celkově oslabené alveolární dýchání
+T92	SYMPTOM 1052 1089	sípavými dechy v obou plicních polích
+T5	SYMPTOM 1091 1141	Břicho měkké, stlačitelné, při palpaci nebolestivé
+T9	SYMPTOM 1147 1161	visceromegalie
+T81	SYMPTOM 1169 1195	otok obou dolních končetin
+T10	SYMPTOM 1298 1322	rozšířeným plicním hilem
+T6	SYMPTOM 1361 1376	sinusový rytmus
+T11	SYMPTOM 1389 1400	P pulmonale
+T12	SYMPTOM 1402 1456	Asymetrická negativní vlna T ve III, aVF a od V1 do V4
+T13	SYMPTOM 1719 1741	normálním celkovým CPK
+T14	SYMPTOM 1873 1893	Hojné hyalinní válce
+T101	SYMPTOM 2221 2250	zachovanou systolickou funkcí
+T7	SYMPTOM 2252 2309	dilatovaná pravá komora s výraznou hypokinezí volné stěny
+T15	SYMPTOM 2312 2349	oploštěním interventrikulárního septa
+T16	SYMPTOM 2352 2380	mírnou systolickou dysfunkcí
+T18	SYMPTOM 2527 2571	částečný defekt replece v pravé plicní tepně
+T17	SYMPTOM 2682 2701	emfyzematózní obraz
+T53	SYMPTOM 2757 2771	asymptomatický
+T19	SYMPTOM 3236 3317	vyšetření autoimunity (ANA, ANCA, AntiDNA, antikardiolipin), které bylo negativní
+T20	SYMPTOM 3319 3413	Vyšetření železa, štítné žlázy, nádorových markerů, HIV, HBV, HCV a proteinogram byly normální
+T21	SYMPTOM 3582 3602	cílovou hodnotou INR

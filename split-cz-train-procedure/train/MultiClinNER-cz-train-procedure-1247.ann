@@ -1,0 +1,22 @@
+T25	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 250 281	léčbě perorálními antidiabetiky
+T28	PROCEDURE 434 448	Koronarografie
+T27	PROCEDURE 510 535	zátěžová echokardiografie
+T35	PROCEDURE 603 676	revaskularizováno lékovými stenty do proximálního LAD, středního DC a OM1
+T36	PROCEDURE 743 769	zátěžovou echokardiografií
+T37	PROCEDURE 894 909	antikoagulována
+T38	PROCEDURE 926 954	echokardiografické vyšetření
+T26	PROCEDURE 2092 2111	Fyzikální vyšetření
+T29	PROCEDURE 2188 2204	Auskultace srdce
+T30	PROCEDURE 2303 2318	Auskultace plic
+T31	PROCEDURE 2906 2923	elektrokardiogram
+T32	PROCEDURE 3078 3090	RTG hrudníku
+T33	PROCEDURE 3245 3274	Transtorakální echokardiogram
+T44	PROCEDURE 3826 3854	Vyšetření deformace myokardu
+T45	PROCEDURE 4041 4052	Kostní scan
+T49	PROCEDURE 4733 4759	kontroly srdeční frekvence
+T51	PROCEDURE 4885 4899	beta-blokátoru
+T52	PROCEDURE 5141 5171	echokardiografického vyšetření
+T34	PROCEDURE 5397 5418	imunofixační techniky
+T56	PROCEDURE 5731 5750	kostní scintigrafie
+T57	PROCEDURE 5975 5996	biopsií břišního tuku

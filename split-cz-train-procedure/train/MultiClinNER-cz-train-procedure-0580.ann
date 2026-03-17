@@ -1,0 +1,16 @@
+T7	PROCEDURE 172 205	Podstupuje chemoterapii mFOLFOX 6
+T1	PROCEDURE 196 205	mFOLFOX 6
+T8	PROCEDURE 321 374	5-FU 1.200 mg/m2/den ve 48hodinové kontinuální infuzi
+T2	PROCEDURE 883 895	Chemoterapie
+T11	PROCEDURE 1284 1292	Hemogram
+T6	PROCEDURE 1400 1430	respirační a kontaktní izolace
+T12	PROCEDURE 1446 1460	sérová terapie
+T9	PROCEDURE 1463 1511	léčba širokospektrými intravenózními antibiotiky
+T15	PROCEDURE 1756 1767	hemokultury
+T10	PROCEDURE 1951 1985	podány 2 trombocytární koncentráty
+T13	PROCEDURE 1997 2024	totální parenterální výživa
+T3	PROCEDURE 2060 2069	analgezie
+T19	PROCEDURE 2091 2096	NSAID
+T4	PROCEDURE 2175 2188	Lokální léčba
+T5	PROCEDURE 2272 2291	Fyzikální vyšetření
+T22	PROCEDURE 2555 2566	krevní test

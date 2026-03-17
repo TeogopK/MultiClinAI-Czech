@@ -1,0 +1,25 @@
+T24	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 209 222	antikoagulace
+T5	PROCEDURE 576 596	fyzikálním vyšetření
+T6	PROCEDURE 782 798	auskultaci srdce
+T25	PROCEDURE 960 977	Elektrokardiogram
+T27	PROCEDURE 1042 1068	rentgenový snímek hrudníku
+T9	PROCEDURE 1187 1202	beta-blokátorem
+T10	PROCEDURE 1206 1232	kontrole srdeční frekvence
+T11	PROCEDURE 1311 1339	Echokardiografické vyšetření
+T26	PROCEDURE 1662 1679	Elektrokardiogram
+T28	PROCEDURE 1819 1831	RTG hrudníku
+T29	PROCEDURE 1919 1933	Echokardiogram
+T30	PROCEDURE 2364 2378	Echokardiogram
+T31	PROCEDURE 2570 2584	Echokardiogram
+T44	PROCEDURE 2802 2828	kontroly srdeční frekvence
+T33	PROCEDURE 2859 2892	transtorakální echokardiografické
+T34	PROCEDURE 3223 3245	elektrická kardioverze
+T35	PROCEDURE 3338 3359	hemodynamická podpora
+T36	PROCEDURE 3376 3398	orotracheální intubace
+T37	PROCEDURE 3401 3420	invazivní ventilace
+T32	PROCEDURE 3432 3446	echokardiogram
+T49	PROCEDURE 3594 3607	betablokátory
+T50	PROCEDURE 3655 3689	hemodynamické a ventilační podpory
+T38	PROCEDURE 3691 3705	Koronarografie
+T51	PROCEDURE 3805 3833	echokardiografické vyšetření

@@ -1,0 +1,83 @@
+T1	SYMPTOM 211 220	dyspepsie
+T37	SYMPTOM 487 503	bolestí na hrudi
+T2	SYMPTOM 565 581	bolesti na hrudi
+T3	SYMPTOM 789 805	bolesti na hrudi
+T6	SYMPTOM 861 866	kašel
+T38	SYMPTOM 869 888	bělavou expektoraci
+T39	SYMPTOM 960 978	Celkový stav dobrý
+T40	SYMPTOM 980 996	normohydratovaný
+T41	SYMPTOM 998 1012	barva normální
+T42	SYMPTOM 1016 1031	klidu eupnoický
+T43	SYMPTOM 1036 1056	známek dechové tísně
+T8	SYMPTOM 1082 1105	akce srdeční pravidelná
+T10	SYMPTOM 1110 1117	šelestů
+T45	SYMPTOM 1119 1137	dýchání alveolární
+T52	SYMPTOM 1140 1175	basálně vlhké krepitace bilaterálně
+T44	SYMPTOM 1177 1215	Břicho: měkké, pod niveau, nebolestivé
+T53	SYMPTOM 1241 1246	otoku
+T46	SYMPTOM 1331 1349	Celkový stav dobrý
+T47	SYMPTOM 1351 1367	normohydratovaný
+T48	SYMPTOM 1369 1383	normální barva
+T49	SYMPTOM 1387 1402	klidu eupnoický
+T50	SYMPTOM 1407 1427	známek dechové tísně
+T51	SYMPTOM 1429 1452	netoleruje polohu vleže
+T9	SYMPTOM 1514 1537	akce srdeční pravidelná
+T11	SYMPTOM 1555 1562	šelestů
+T12	SYMPTOM 1564 1590	Snížený vezikulární šelest
+T54	SYMPTOM 1592 1621	basálně krepitace bilaterálně
+T55	SYMPTOM 1624 1643	roztroušené chrupky
+T56	SYMPTOM 1645 1683	Břicho: měkké, pod niveau, nebolestivé
+T57	SYMPTOM 1701 1718	zvětšených orgánů
+T58	SYMPTOM 1724 1735	peritonismu
+T13	SYMPTOM 1737 1771	Blumberg, psoas a Murphy negativní
+T59	SYMPTOM 1773 1794	peristaltika přítomná
+T60	SYMPTOM 1796 1809	PPR negativní
+T61	SYMPTOM 1821 1826	otoku
+T62	SYMPTOM 1863 1901	Periferní pulzy zachovány a symetrické
+T14	SYMPTOM 1990 2005	sinusový rytmus
+T63	SYMPTOM 2008 2027	elevací ST segmentu
+T64	SYMPTOM 2069 2085	negativní T vlny
+T15	SYMPTOM 3189 3204	sinusový rytmus
+T20	SYMPTOM 3235 3247	Normální osa
+T67	SYMPTOM 3260 3279	elevací segmentu ST
+T16	SYMPTOM 3351 3366	sinusový rytmus
+T21	SYMPTOM 3390 3402	Normální osa
+T68	SYMPTOM 3467 3487	negativními vlnami T
+T69	SYMPTOM 3655 3668	Ionty v normě
+T70	SYMPTOM 3670 3693	Jaterní funkce normální
+T71	SYMPTOM 3951 3995	kardiotorakální index na horní hranici normy
+T72	SYMPTOM 4070 4077	výpotek
+T22	SYMPTOM 4100 4111	konsolidace
+T23	SYMPTOM 4131 4176	nedilatovaná levá komora s apikální dyskinezí
+T17	SYMPTOM 4330 4345	sinusový rytmus
+T19	SYMPTOM 4392 4408	Negativní vlny T
+T24	SYMPTOM 4781 4813	kondenzace v levém dolním laloku
+T25	SYMPTOM 4824 4844	Legionella negativní
+T26	SYMPTOM 4846 4884	Ag streptococcus pneumoniane negativní
+T73	SYMPTOM 4886 4930	Kultivace sputa: rozvoj orofaryngeální flóry
+T74	SYMPTOM 5077 5103	Uzel v levém horním laloku
+T75	SYMPTOM 5415 5491	dilatovaná levá komora se ztenčenou apikální oblastí, akinetická a rozšířená
+T27	SYMPTOM 5785 5802	Normální levá síň
+T29	SYMPTOM 5865 5883	Normální pravá síň
+T30	SYMPTOM 6431 6449	Normální koagulace
+T76	SYMPTOM 6488 6518	funkce ledvin a iontů normální
+T18	SYMPTOM 6525 6540	sinusový rytmus
+T31	SYMPTOM 7033 7061	Mírně snížená ejekční frakce
+T32	SYMPTOM 7167 7199	Normální levá síň a pravá komora
+T35	SYMPTOM 7356 7380	Normální dolní dutá žíla
+T28	SYMPTOM 7436 7469	tísnivá bolest uprostřed hrudníku
+T77	SYMPTOM 7496 7503	pocením
+T78	SYMPTOM 7610 7618	bolestmi
+T79	SYMPTOM 8270 8279	dyspepsii
+T81	SYMPTOM 8773 8789	bolestí na hrudi
+T82	SYMPTOM 9017 9024	bolesti
+T4	SYMPTOM 9211 9227	bolesti na hrudi
+T83	SYMPTOM 9247 9254	dušnost
+T33	SYMPTOM 9356 9384	dušnost při minimální námaze
+T34	SYMPTOM 9386 9394	ortopnoe
+T84	SYMPTOM 9397 9423	paroxyzmální noční dušnost
+T7	SYMPTOM 9437 9442	kašel
+T85	SYMPTOM 9445 9464	bělavou expektorací
+T86	SYMPTOM 9483 9490	horečky
+T5	SYMPTOM 9956 9972	bolesti na hrudi
+T87	SYMPTOM 10603 10612	dyspepsii

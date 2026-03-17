@@ -1,0 +1,42 @@
+T1	DISEASE 123 133	hypertenze
+T8	DISEASE 135 147	dyslipidémie
+T9	DISEASE 150 165	aktivní kouření
+T2	DISEASE 300 326	permanentní fibrilaci síní
+T4	DISEASE 404 423	emboligenním debutu
+T5	DISEASE 447 477	tranzitorní ischemické příhody
+T6	DISEASE 482 505	neurologických následků
+T10	DISEASE 524 551	chronické onemocnění ledvin
+T33	DISEASE 554 597	středně těžkou polyartikulární osteoartrózu
+T34	DISEASE 1055 1089	paroxyzmální noční dušnostní krize
+T36	DISEASE 1723 1737	mírnému ascitu
+T37	DISEASE 1831 1855	atypickým flutterem síní
+T12	DISEASE 1921 1927	BCRDHH
+T13	DISEASE 2334 2363	Oboustranný pleurální výpotek
+T39	DISEASE 2366 2394	oboustranný hilový infiltrát
+T40	DISEASE 2610 2628	Mírná insuficience
+T41	DISEASE 2731 2749	Mírná insuficience
+T42	DISEASE 2887 2932	Levá komora nedilatovaná, mírně hypertrofická
+T43	DISEASE 3127 3152	Mírně dilatovaná levá síň
+T27	DISEASE 3154 3179	Mírně rozšířená pravá síň
+T44	DISEASE 3181 3228	Dilatovaná pravá komora, těžce hypokontraktilní
+T14	DISEASE 3250 3271	perikardiální výpotek
+T28	DISEASE 3295 3321	Dilatovaná dolní dutá žíla
+T29	DISEASE 3909 3921	flutter síní
+T15	DISEASE 4135 4166	těžká biventrikulární dysfunkce
+T55	DISEASE 4387 4415	onemocnění koronárních tepen
+T17	DISEASE 4456 4480	globální srdeční selhání
+T18	DISEASE 4483 4539	biventrikulární dysfunkcí sekundární tachykardiomyopatií
+T64	DISEASE 5340 5358	atypickém flutteru
+T19	DISEASE 5485 5502	srdečního selhání
+T20	DISEASE 5636 5653	srdečního selhání
+T65	DISEASE 5742 5769	globálním srdečním selháním
+T7	DISEASE 5866 5894	stejný atypický flutter síní
+T21	DISEASE 6228 6262	dekompenzovaného srdečního selhání
+T32	DISEASE 6306 6338	těžkou biventrikulární dysfunkcí
+T66	DISEASE 6382 6390	flutteru
+T22	DISEASE 6913 6939	akutního srdečního selhání
+T23	DISEASE 7391 7406	srdeční selhání
+T24	DISEASE 7440 7457	srdečního selhání
+T25	DISEASE 7644 7730	Tachykardiomyopatie sekundární k atypickému flutteru síní s rychlou komorovou odpovědí
+T16	DISEASE 7732 7763	Těžká biventrikulární dysfunkce
+T26	DISEASE 7848 7877	Revmatické onemocnění chlopní

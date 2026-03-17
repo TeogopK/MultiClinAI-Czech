@@ -1,0 +1,30 @@
+T13	PROCEDURE 37 71	radikální levostrannou mastektomii
+T15	PROCEDURE 74 98	axilární lymfadenektomií
+T9	PROCEDURE 262 282	chirurgickém zákroku
+T10	PROCEDURE 298 407	okamžitá rekonstrukce umístěním expanzní protézy (anatomický Becker) s texturovanou vrstvou silikonového gelu
+T7	PROCEDURE 435 442	expanze
+T11	PROCEDURE 468 475	operaci
+T1	PROCEDURE 573 645	chemoterapie podle sekvenčního schématu adriamycin-cyklofosfamid a taxan
+T6	PROCEDURE 776 802	Doplňková hormonální léčba
+T8	PROCEDURE 865 877	rekonstrukce
+T12	PROCEDURE 915 993	nahrazením expanderové protézy prsním implantátem s texturou silikonového gelu
+T14	PROCEDURE 1286 1375	tukového štěpu z tukové tkáně získané z oblasti břicha a zpracované Colemanovou technikou
+T22	PROCEDURE 1380 1396	infiltraci jizvy
+T25	PROCEDURE 1403 1423	lokálního anestetika
+T26	PROCEDURE 1561 1599	infiltrováno celkem 5 cm3 tukové tkáně
+T16	PROCEDURE 1697 1718	zobrazovací vyšetření
+T4	PROCEDURE 1866 1876	mamografie
+T27	PROCEDURE 1881 1907	ultrazvukové kontroly prsu
+T28	PROCEDURE 2019 2033	ultrazvuk prsu
+T29	PROCEDURE 2175 2196	magnetickou rezonanci
+T17	PROCEDURE 2697 2719	chirurgickou exploraci
+T2	PROCEDURE 2750 2774	odstranění prsní protézy
+T19	PROCEDURE 2955 2962	operaci
+T18	PROCEDURE 3208 3257	odebrat biopsii z oblasti vstříknuté tukové tkáně
+T5	PROCEDURE 3264 3271	biopsie
+T23	PROCEDURE 3285 3308	histologickém vyšetření
+T20	PROCEDURE 3356 3371	vyndali protézu
+T3	PROCEDURE 3566 3579	vpichy jehlou
+T21	PROCEDURE 3739 3757	vyjmutí implantátu
+T24	PROCEDURE 3872 3901	anatomopatologickém vyšetření
+T30	PROCEDURE 3906 3942	analyzovaný vzorek z vnitřku protézy

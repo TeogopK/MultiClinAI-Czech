@@ -1,0 +1,25 @@
+T3	DISEASE 244 262	respirační selhání
+T2	DISEASE 359 382	oboustranný pneumotorax
+T4	DISEASE 385 402	pneumomediastinem
+T5	DISEASE 734 747	chřipky A a B
+T8	DISEASE 861 872	HIV infekce
+T6	DISEASE 922 950	závažnou komunitní pneumonii
+T9	DISEASE 1440 1453	histoplazmózy
+T7	DISEASE 1701 1723	organizující pneumonie
+T11	DISEASE 1729 1740	vaskulitidy
+T10	DISEASE 1789 1805	progresivnímu IR
+T12	DISEASE 1820 1835	septickému šoku
+T17	DISEASE 1838 1851	nefrotoxicitě
+T21	DISEASE 2097 2137	autoimunitního renopulmonálního syndromu
+T22	DISEASE 2609 2678	adenovirová pneumonie se syndromem sekundární akutní respirační tísně
+T23	DISEASE 2634 2678	syndromem sekundární akutní respirační tísně
+T13	DISEASE 2720 2731	akutnímu IR
+T1	DISEASE 3659 3665	anémie
+T14	DISEASE 3678 3704	intraalveolárním krvácením
+T15	DISEASE 3714 3776	hematotoxicita mohla být posílena předchozí léčbou linezolidem
+T16	DISEASE 3896 3917	těžkém selhání ledvin
+T18	DISEASE 4593 4606	nefrotoxicity
+T24	DISEASE 5322 5337	virovou infekci
+T19	DISEASE 5431 5510	refrakterním respiračním selháním sekundárním syndromem akutní respirační tísně
+T20	DISEASE 5477 5510	syndromem akutní respirační tísně
+T25	DISEASE 5637 5674	fibrózní složkou v plicním parenchymu

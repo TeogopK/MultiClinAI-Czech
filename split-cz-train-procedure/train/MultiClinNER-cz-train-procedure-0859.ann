@@ -1,0 +1,52 @@
+T35	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 382 455	revaskularizována proximální přední sestupná tepna pomocí lékového stentu
+T5	PROCEDURE 572 607	ošetřená stentem uvolňujícím léčivo
+T37	PROCEDURE 900 922	elektrická kardioverze
+T7	PROCEDURE 924 927	EKV
+T38	PROCEDURE 965 981	echokardiografie
+T11	PROCEDURE 1676 1688	nočního CPAP
+T14	PROCEDURE 1973 1991	gastrokolonoskopií
+T41	PROCEDURE 2092 2104	kolonoskopie
+T15	PROCEDURE 3333 3344	nočním CPAP
+T21	PROCEDURE 3729 3743	Depleční léčba
+T48	PROCEDURE 3793 3841	neinvazivní mechanickou ventilací v režimu BiPAP
+T22	PROCEDURE 3947 3971	pravostranná torakentéza
+T23	PROCEDURE 4223 4227	NIMV
+T39	PROCEDURE 4259 4283	bedside echokardiografie
+T36	PROCEDURE 4378 4397	Fyzikální vyšetření
+T49	PROCEDURE 4444 4463	NIMV v režimu BiPAP
+T43	PROCEDURE 4607 4623	Auskultace srdce
+T44	PROCEDURE 4668 4685	Plicní auskultace
+T25	PROCEDURE 4900 4918	AP snímek hrudníku
+T45	PROCEDURE 5062 5079	elektrokardiogram
+T26	PROCEDURE 5277 5314	Transtorakální echokardiogram u lůžka
+T28	PROCEDURE 5979 5991	Krevní testy
+T29	PROCEDURE 5998 6010	Krevní obraz
+T46	PROCEDURE 6153 6162	Hemostáza
+T58	PROCEDURE 6194 6203	Biochemie
+T30	PROCEDURE 6389 6412	Plyny v arteriální krvi
+T31	PROCEDURE 6427 6437	Ventimasce
+T32	PROCEDURE 6509 6532	Plyny v arteriální krvi
+T50	PROCEDURE 6553 6558	BiPAP
+T33	PROCEDURE 6703 6716	Krevní rozbor
+T34	PROCEDURE 6728 6730	KO
+T47	PROCEDURE 6977 6986	Hemostáza
+T59	PROCEDURE 7161 7170	Biochemie
+T60	PROCEDURE 7711 7725	Hodnoty železa
+T51	PROCEDURE 7882 7897	Lipidový profil
+T52	PROCEDURE 8009 8012	Moč
+T110	PROCEDURE 8187 8232	RT PCR SARS-CoV-2 v nazofaryngeálním exsudátu
+T53	PROCEDURE 8245 8256	Katetrizace
+T114	PROCEDURE 8535 8579	angioplastika s implantací stentu ULTIMASTER
+T115	PROCEDURE 8951 9022	implantací stentu ULTIMASTER TANSEI (3x12) se stopper balónkem v TCI-DA
+T117	PROCEDURE 9112 9154	PTCA na SIRS s implantací DES se sirolimem
+T54	PROCEDURE 9397 9429	neinvazivní mechanická ventilace
+T42	PROCEDURE 9431 9434	NIV
+T119	PROCEDURE 9559 9573	echokardiogram
+T40	PROCEDURE 9752 9768	echokardiografie
+T55	PROCEDURE 9884 9898	koronarografie
+T124	PROCEDURE 9982 10008	stentem uvolňujícím léčivo
+T56	PROCEDURE 10174 10202	koncentrát červených krvinek
+T61	PROCEDURE 11176 11181	HbA1c
+T132	PROCEDURE 11459 11474	léčba inzulinem
+T57	PROCEDURE 11652 11689	In-stent restenóza cirkumflexní tepny

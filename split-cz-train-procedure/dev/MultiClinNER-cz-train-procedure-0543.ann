@@ -1,0 +1,23 @@
+T4	PROCEDURE 328 347	Fyzikální vyšetření
+T11	PROCEDURE 483 492	vyšetření
+T12	PROCEDURE 550 559	vyšetření
+T3	PROCEDURE 964 990	Rentgenový snímek hrudníku
+T14	PROCEDURE 1005 1021	ultrazvuk břicha
+T15	PROCEDURE 1024 1036	CT vyšetření
+T2	PROCEDURE 1304 1313	diuretiky
+T17	PROCEDURE 1339 1360	antibiotickou terapií
+T5	PROCEDURE 1395 1418	odebrání krevní kultury
+T19	PROCEDURE 1609 1626	Laboratorní testy
+T6	PROCEDURE 1876 1890	Kultivace krve
+T7	PROCEDURE 1967 1991	intravenózní atb terapie
+T10	PROCEDURE 2179 2193	anestezií kůže
+T24	PROCEDURE 2270 2301	invazivní mechanickou ventilaci
+T8	PROCEDURE 2303 2320	vazoaktivní aminy
+T13	PROCEDURE 2323 2360	kontinuální veno-venózní hemofiltraci
+T9	PROCEDURE 2386 2404	chirurgický zákrok
+T16	PROCEDURE 2430 2451	skrotální debridement
+T18	PROCEDURE 2453 2491	debridement fascie až ke kořeni stehna
+T20	PROCEDURE 2494 2527	otevřená suprakondylická amputace
+T1	PROCEDURE 2665 2696	hemodynamická podpůrná opatření
+T30	PROCEDURE 2701 2720	antibiotickou léčbu
+T31	PROCEDURE 2743 2750	operaci

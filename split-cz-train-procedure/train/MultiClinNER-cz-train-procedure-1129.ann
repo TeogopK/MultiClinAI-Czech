@@ -1,0 +1,19 @@
+T31	PROCEDURE 120 139	fyzikální vyšetření
+T6	PROCEDURE 855 872	Celkové vyšetření
+T37	PROCEDURE 1058 1074	Auskultace srdce
+T38	PROCEDURE 1141 1143	AP
+T32	PROCEDURE 1386 1389	EKG
+T9	PROCEDURE 1467 1479	RTG hrudníku
+T39	PROCEDURE 1587 1596	Biochemie
+T33	PROCEDURE 1599 1613	hemacytometrie
+T41	PROCEDURE 1633 1652	Chagasova sérologie
+T11	PROCEDURE 1665 1685	Toxické látky v moči
+T34	PROCEDURE 1710 1726	Echokardiografie
+T43	PROCEDURE 1945 1982	podání echokardiografického kontrastu
+T48	PROCEDURE 2551 2554	MRI
+T27	PROCEDURE 3466 3475	diuretiky
+T40	PROCEDURE 3477 3491	inhibitory ACE
+T42	PROCEDURE 3493 3507	beta-blokátory
+T36	PROCEDURE 3509 3531	inhibitory aldosteronu
+T28	PROCEDURE 3534 3561	perorálními antikoagulancii
+T35	PROCEDURE 3829 3869	echokardiografie a genetického vyšetření

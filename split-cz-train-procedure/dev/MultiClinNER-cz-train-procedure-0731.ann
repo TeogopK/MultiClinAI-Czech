@@ -1,0 +1,17 @@
+T8	PROCEDURE 394 412	chirurgickou léčbu
+T10	PROCEDURE 415 445	radioterapii reziduálního prsu
+T1	PROCEDURE 505 524	Fyzikální vyšetření
+T9	PROCEDURE 809 849	hemogram, celkovou biochemii a hemostázu
+T2	PROCEDURE 859 875	nádorové markery
+T15	PROCEDURE 979 1005	neurozobrazovací vyšetření
+T11	PROCEDURE 1013 1074	počítačové tomografie (CT) a magnetické rezonance (MRI) mozku
+T12	PROCEDURE 1216 1242	v odběru mozkomíšního moku
+T20	PROCEDURE 1392 1408	Hrudně-břišní CT
+T3	PROCEDURE 1410 1420	mamografie
+T13	PROCEDURE 1422 1447	magnetická rezonance prsu
+T14	PROCEDURE 1450 1468	scintigrafie kostí
+T4	PROCEDURE 1509 1538	Pozitronová emisní tomografie
+T5	PROCEDURE 1540 1543	PET
+T6	PROCEDURE 1747 1758	laparotomie
+T7	PROCEDURE 1761 1768	biopsie
+T24	PROCEDURE 1770 1798	Anatomopatologické vyšetření

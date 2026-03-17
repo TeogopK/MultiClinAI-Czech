@@ -1,0 +1,60 @@
+T66	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 438 445	operaci
+T61	PROCEDURE 447 471	radikální prostatektomie
+T63	PROCEDURE 491 507	Biopsie prostaty
+T64	PROCEDURE 674 699	inguinální hernioplastika
+T4	PROCEDURE 1112 1149	torakoabdomino-pelvickém CT vyšetření
+T101	PROCEDURE 1165 1196	staging adenokarcinomu prostaty
+T67	PROCEDURE 1374 1393	FYZIKÁLNÍ VYŠETŘENÍ
+T68	PROCEDURE 1733 1749	Auskultace srdce
+T69	PROCEDURE 1778 1793	auskultace plic
+T213	PROCEDURE 1859 1868	vyšetření
+T76	PROCEDURE 1985 1997	Krevní obraz
+T100	PROCEDURE 2066 2079	Funkce ledvin
+T70	PROCEDURE 2138 2153	Močový sediment
+T72	PROCEDURE 2156 2174	elektrolyty v moči
+T74	PROCEDURE 2185 2200	Lipidový profil
+T6	PROCEDURE 2301 2320	Prostatické markery
+T77	PROCEDURE 2401 2409	Hemogram
+T79	PROCEDURE 2412 2421	koagulace
+T81	PROCEDURE 2432 2435	EKG
+T8	PROCEDURE 2594 2621	RTG hrudníku PA + laterální
+T83	PROCEDURE 2743 2797	CT hrudníku, břicha a pánve s intravenózním kontrastem
+T84	PROCEDURE 2919 2950	Transtorakální echokardiografie
+T85	PROCEDURE 3593 3628	Elektrokardiografický zátěžový test
+T87	PROCEDURE 4165 4179	Koronarografie
+T89	PROCEDURE 4635 4713	Perkutánní koronární intervence s balónkovou angioplastikou na první diagonále
+T11	PROCEDURE 4716 4797	implantací dvou překrývajících se stentů (BioFreedom) do proximální a střední RCA
+T12	PROCEDURE 4822 4850	duální protidestičkové léčby
+T13	PROCEDURE 4905 4917	Krevní testy
+T140	PROCEDURE 4951 4965	Renální funkce
+T71	PROCEDURE 5024 5039	Močový sediment
+T73	PROCEDURE 5042 5060	elektrolyty v moči
+T75	PROCEDURE 5071 5086	Lipidový profil
+T90	PROCEDURE 5185 5197	Transaminázy
+T102	PROCEDURE 5200 5217	enzymy cholestázy
+T78	PROCEDURE 5257 5265	Hemogram
+T80	PROCEDURE 5268 5277	koagulace
+T170	PROCEDURE 5426 5454	echokardiografické vyšetření
+T86	PROCEDURE 5495 5530	elektrokardiografický zátěžový test
+T92	PROCEDURE 6032 6048	Echokardiografie
+T219	PROCEDURE 6160 6175	zátěžovém testu
+T16	PROCEDURE 6194 6214	elektrokardiogramové
+T82	PROCEDURE 6216 6219	EKG
+T96	PROCEDURE 6376 6389	zátěžový test
+T19	PROCEDURE 6590 6611	testu na běžícím pásu
+T182	PROCEDURE 6634 6648	koronarografii
+T20	PROCEDURE 6681 6702	chirurgického zákroku
+T97	PROCEDURE 6793 6819	perkutánní revaskularizace
+T28	PROCEDURE 6831 6860	dvojité protidestičkové léčby
+T88	PROCEDURE 6862 6876	Koronarografie
+T30	PROCEDURE 6985 7078	implantací dvou překrývajících se stentů uvolňujících léčiva v proximální a střední části LAD
+T31	PROCEDURE 7081 7143	balónkovou angioplastikou uvolňující léčiva v diagonální větvi
+T32	PROCEDURE 7238 7267	dvojité protidestičkové léčby
+T33	PROCEDURE 7334 7377	operaci, kterou vyžaduje patologie prostaty
+T35	PROCEDURE 7860 7907	dvojité protidestičkové léčby ASA + klopidogrel
+T36	PROCEDURE 7925 7957	prostá protidestičková léčba ASA
+T62	PROCEDURE 7960 7984	radikální prostatektomie
+T98	PROCEDURE 8163 8189	Perkutánní revaskularizace
+T40	PROCEDURE 8191 8233	balónková angioplastika v diagonální větvi
+T41	PROCEDURE 8236 8278	implantace dvou stentů uvolňujících léčiva

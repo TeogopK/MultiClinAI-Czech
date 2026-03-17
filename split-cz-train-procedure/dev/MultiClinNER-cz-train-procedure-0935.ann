@@ -1,0 +1,21 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T23	PROCEDURE 227 262	Perkutánní mitrální valvuloplastika
+T22	PROCEDURE 428 447	Fyzikální vyšetření
+T17	PROCEDURE 458 466	sedovaná
+T58	PROCEDURE 469 502	napojená na mechanickou ventilaci
+T24	PROCEDURE 522 538	Auskultace srdce
+T41	PROCEDURE 562 579	Plicní auskultace
+T20	PROCEDURE 891 930	aktivaci kódu pro cévní mozkové příhody
+T25	PROCEDURE 1027 1074	CT vyšetření lebky bez intravenózního kontrastu
+T32	PROCEDURE 1176 1225	Angio-CT supraaortálních kmenů a Willisova okruhu
+T34	PROCEDURE 1576 1612	CT angiografie hrudní a břišní aorty
+T36	PROCEDURE 1614 1635	Perfuzní CT vyšetření
+T31	PROCEDURE 1803 1835	Angio-CT torakoabdominální aorty
+T26	PROCEDURE 2157 2171	Echokardiogram
+T46	PROCEDURE 2878 2922	intravenózní léčbu antihypertenzivy a sedaci
+T27	PROCEDURE 2978 2984	sedace
+T38	PROCEDURE 3047 3075	Echokardiografické vyšetření
+T50	PROCEDURE 3267 3276	diuretiky
+T28	PROCEDURE 3279 3287	extubace
+T29	PROCEDURE 3471 3492	beta a alfa blokátory
+T37	PROCEDURE 3548 3586	CT angiografie torakoabdominální aorty

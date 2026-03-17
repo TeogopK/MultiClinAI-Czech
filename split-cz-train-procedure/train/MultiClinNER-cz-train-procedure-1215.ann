@@ -1,0 +1,37 @@
+T81	PROCEDURE 0 8	ANAMNÉZA
+T61	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T149	PROCEDURE 238 271	neinvazivní zobrazovací vyšetření
+T136	PROCEDURE 344 371	rentgenovém snímku hrudníku
+T141	PROCEDURE 436 479	transtorakální echokardiografické vyšetření
+T2	PROCEDURE 1336 1384	Průtoková analýza břišní a sestupné hrudní aorty
+T124	PROCEDURE 1564 1584	magnetická rezonance
+T5	PROCEDURE 2060 2080	chirurgického řešení
+T62	PROCEDURE 2405 2424	Fyzikální vyšetření
+T65	PROCEDURE 2825 2841	Auskultace srdce
+T66	PROCEDURE 3202 3214	Krevní obraz
+T67	PROCEDURE 3216 3225	biochemie
+T68	PROCEDURE 3228 3237	koagulace
+T69	PROCEDURE 3249 3266	Elektrokardiogram
+T64	PROCEDURE 3268 3294	Rentgenový snímek hrudníku
+T90	PROCEDURE 3296 3344	Transtorakální a transezofageální echokardiogram
+T70	PROCEDURE 4360 4375	barevný doppler
+T7	PROCEDURE 4377 4397	Dopplerovská analýza
+T87	PROCEDURE 4499 4513	Koronarografie
+T147	PROCEDURE 4854 4885	Angio-CT vyšetření hrudní aorty
+T23	PROCEDURE 5647 5654	operaci
+T30	PROCEDURE 5732 5746	výměně chlopně
+T46	PROCEDURE 5785 5807	endovaskulární terapie
+T47	PROCEDURE 5813 5834	chirurgického zákroku
+T50	PROCEDURE 6597 6612	náhrada chlopně
+T51	PROCEDURE 6615 6627	resekce cípů
+T132	PROCEDURE 6708 6729	perkutánní intervencí
+T125	PROCEDURE 6777 6794	mimotělního oběhu
+T71	PROCEDURE 6851 6883	antegrádní a retrográdní perfuze
+T54	PROCEDURE 6900 6921	dvojí náhrada chlopně
+T56	PROCEDURE 7051 7079	resekce subaortálního lístku
+T73	PROCEDURE 7563 7577	echokardiogram
+T94	PROCEDURE 7722 7744	antihypertenzní léčbou
+T133	PROCEDURE 7772 7795	perorální antikoagulací
+T57	PROCEDURE 7956 7983	perkutánní řešení koarktace
+T60	PROCEDURE 7985 7998	angioplastika
+T63	PROCEDURE 8001 8018	implantace stentu

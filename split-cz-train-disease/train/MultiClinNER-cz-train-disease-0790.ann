@@ -1,0 +1,57 @@
+T1	DISEASE 287 297	hypertenze
+T2	DISEASE 299 301	HT
+T26	DISEASE 304 316	dyslipidémie
+T27	DISEASE 319 344	diabetes mellitus 2. typu
+T28	DISEASE 346 349	DM2
+T29	DISEASE 391 405	toxické návyky
+T4	DISEASE 483 496	kompletní AVB
+T39	DISEASE 599 680	těžká komorová dysfunkce s výraznou asynchronií v důsledku komorové stimulace MCP
+T5	DISEASE 707 714	arytmií
+T30	DISEASE 814 847	Syndrom obstrukční spánkové apnoe
+T7	DISEASE 849 852	OSA
+T31	DISEASE 922 928	Anémie
+T14	DISEASE 2770 2790	bloku levého raménka
+T32	DISEASE 2824 2845	Komorové extrasystoly
+T15	DISEASE 2981 3000	pleurálního výpotku
+T21	DISEASE 4456 4501	axilární, mediastinální ani hilové adenopatie
+T33	DISEASE 4573 4590	pleurální výpotek
+T34	DISEASE 4681 4707	chronické onemocnění jater
+T83	DISEASE 4753 4788	Oboustranné jednoduché cysty ledvin
+T84	DISEASE 4790 4813	Litiáza v pravé ledvině
+T37	DISEASE 4858 4871	Splenomegalie
+T85	DISEASE 4934 4980	retroperitoneální nebo mezenterická adenopatie
+T86	DISEASE 5016 5037	Divertikulóza sigmatu
+T35	DISEASE 5121 5166	levá komora s mírnou excentrickou hypertrofií
+T50	DISEASE 5381 5402	dilatace kořene aorty
+T41	DISEASE 5426 5466	endokarditida nad nativní plicní chlopní
+T87	DISEASE 5444 5496	nativní plicní chlopní: rozsáhlá stopkovitá vegetace
+T51	DISEASE 5790 5824	endokarditida nad mitrální chlopní
+T36	DISEASE 5835 5871	vegetace na předním mitrálním lístku
+T40	DISEASE 5891 6011	Středně těžká mitrální insuficience (ORE podle PISA 0,3 cm2) v důsledku mírné everze lístku s rupturou chordae tendineae
+T49	DISEASE 6189 6211	Biaurikulární dilatace
+T42	DISEASE 6308 6310	TR
+T88	DISEASE 6351 6368	středně těžká PHT
+T89	DISEASE 6449 6485	přední sestupné tepny: těžká stenóza
+T23	DISEASE 6782 6799	srdečního selhání
+T90	DISEASE 6813 6835	konstitučnímu syndromu
+T92	DISEASE 6900 6918	souběžné neoplazie
+T93	DISEASE 6959 6980	nádorovým onemocněním
+T38	DISEASE 7001 7014	splenomegalie
+T94	DISEASE 7025 7041	infarktu sleziny
+T96	DISEASE 7110 7128	komorové dysfunkce
+T57	DISEASE 7244 7279	středně těžkou mitrální insuficienc
+T76	DISEASE 7324 7338	endokarditidou
+T99	DISEASE 7738 7755	septickou embolii
+T44	DISEASE 7945 7968	akutního plicního edému
+T100	DISEASE 8075 8084	anemizaci
+T102	DISEASE 8546 8569	makulopapulózní vyrážka
+T104	DISEASE 8994 9042	závažnou lézi v proximální přední sestupné tepně
+T24	DISEASE 10267 10284	srdečního selhání
+T117	DISEASE 10296 10303	arytmií
+T45	DISEASE 10315 10365	Endokarditida na nativní plicní a mitrální chlopni
+T43	DISEASE 10369 10466	středně těžkou mitrální insuficiencí s everzí předního listu v důsledku ruptury chordae tendineae
+T25	DISEASE 10468 10483	Srdeční selhání
+T118	DISEASE 10573 10634	Infarkty sleziny sekundárně v důsledku infekční endokarditidy
+T46	DISEASE 10636 10650	Agranulocytóza
+T48	DISEASE 10653 10664	trombopenie
+T119	DISEASE 10696 10730	Toxikodermie způsobená meropenemem

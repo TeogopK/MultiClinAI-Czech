@@ -1,0 +1,26 @@
+T19	PROCEDURE 0 8	ANAMNÉZA
+T8	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T42	PROCEDURE 148 186	implantací biologické aortální protézy
+T27	PROCEDURE 258 273	osobní anamnéze
+T38	PROCEDURE 563 583	fyzikálním vyšetření
+T9	PROCEDURE 688 715	Kardiopulmonální auskultace
+T63	PROCEDURE 956 972	krevní vyšetření
+T17	PROCEDURE 1060 1081	reaktanty akutní fáze
+T10	PROCEDURE 1141 1158	Elektrokardiogram
+T44	PROCEDURE 1260 1302	odebrány 4 série sériových krevních kultur
+T11	PROCEDURE 1386 1400	antibioterapie
+T59	PROCEDURE 1528 1571	transtorakální echokardiografické vyšetření
+T24	PROCEDURE 1573 1576	TTE
+T12	PROCEDURE 1715 1748	Transezofageální echokardiografie
+T22	PROCEDURE 1750 1753	TEE
+T49	PROCEDURE 1934 1990	pozitronovou emisní tomografii s 18F-fluorodeoxyglukózou
+T21	PROCEDURE 1992 2006	18F-FDG-PET/CT
+T23	PROCEDURE 2224 2227	TEE
+T29	PROCEDURE 2487 2507	antibiotické terapie
+T6	PROCEDURE 2520 2535	krevní kulturou
+T13	PROCEDURE 2551 2574	operace náhrady chlopně
+T14	PROCEDURE 2577 2629	oprava aorto-atriální píštěle perikardiální záplatou
+T15	PROCEDURE 2631 2683	Mikrobiologická analýza excidované chirurgické tkáně
+T18	PROCEDURE 2696 2715	barvení podle Grama
+T45	PROCEDURE 2768 2777	kultivace
+T16	PROCEDURE 2968 3000	Antibiotická a chirurgická léčba

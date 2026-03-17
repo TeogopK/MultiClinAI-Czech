@@ -1,0 +1,52 @@
+T109	PROCEDURE 25 42	FYZICKÉ VYŠETŘENÍ
+T39	PROCEDURE 185 190	pitva
+T187	PROCEDURE 407 414	očkován
+T68	PROCEDURE 551 573	perorální antikoncepce
+T40	PROCEDURE 950 967	elektrokardiogram
+T3	PROCEDURE 1924 1941	Laboratorní testy
+T41	PROCEDURE 2024 2041	elektrokardiogram
+T62	PROCEDURE 2120 2136	echokardiografie
+T38	PROCEDURE 2335 2354	Fyzikální vyšetření
+T44	PROCEDURE 2573 2589	Auskultace srdce
+T45	PROCEDURE 2614 2629	Auskultace plic
+T105	PROCEDURE 2823 2835	Krevní obraz
+T106	PROCEDURE 3299 3311	Krevní obraz
+T46	PROCEDURE 3328 3336	hemogram
+T4	PROCEDURE 3346 3360	renální funkce
+T48	PROCEDURE 3363 3368	ionty
+T42	PROCEDURE 3426 3443	Elektrokardiogram
+T43	PROCEDURE 3600 3617	Elektrokardiogram
+T49	PROCEDURE 3782 3808	Rentgenový snímek hrudníku
+T50	PROCEDURE 3944 3958	PCR SARS-CoV-2
+T51	PROCEDURE 4002 4022	Sérologie SARS-CoV-2
+T116	PROCEDURE 4054 4083	Transtorakální echokardiogram
+T52	PROCEDURE 4594 4614	CT koronárních tepen
+T53	PROCEDURE 5375 5395	Vizualizace hrudníku
+T7	PROCEDURE 5452 5517	Katetrizace 2. den přijetí: (video 3 a 4) pravý radiální přístup.
+T55	PROCEDURE 5930 5941	Katetrizace
+T11	PROCEDURE 5962 5982	angiografická revize
+T56	PROCEDURE 5985 6014	optická koherentní tomografie
+T57	PROCEDURE 6016 6019	OCT
+T58	PROCEDURE 6300 6303	OCT
+T14	PROCEDURE 6802 6817	OCT nebylo u CD
+T60	PROCEDURE 6999 7002	OCT
+T130	PROCEDURE 7083 7104	antitrombotické léčbě
+T117	PROCEDURE 7106 7135	Transtorakální echokardiogram
+T146	PROCEDURE 7368 7397	echokardiografickém vyšetření
+T21	PROCEDURE 7721 7751	respirační a kontaktní izolaci
+T70	PROCEDURE 7784 7798	Sars-Cov-2 PCR
+T144	PROCEDURE 7921 7949	echokardiografické vyšetření
+T65	PROCEDURE 8041 8061	antikoagulační léčba
+T22	PROCEDURE 8116 8131	echokardiografu
+T23	PROCEDURE 8209 8239	CT vyšetření koronárních tepen
+T66	PROCEDURE 8302 8316	Koronarografie
+T191	PROCEDURE 8538 8563	perorálními kontraceptivy
+T129	PROCEDURE 8792 8813	antikoagulační léčbou
+T27	PROCEDURE 8816 8848	dvojitou protidestičkovou léčbou
+T173	PROCEDURE 9338 9352	koronarografii
+T61	PROCEDURE 9453 9456	OCT
+T30	PROCEDURE 9580 9595	angiografickému
+T31	PROCEDURE 9645 9686	intrakoronárních zobrazovacích technikách
+T145	PROCEDURE 9764 9792	echokardiografické vyšetření
+T33	PROCEDURE 10185 10208	trombofilního vyšetření
+T69	PROCEDURE 10252 10275	hormonální antikoncepce

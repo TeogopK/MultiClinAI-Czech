@@ -1,0 +1,27 @@
+T3	PROCEDURE 122 156	intravenózní indukční chemoterapie
+T1	PROCEDURE 159 208	profylaktická intratekální chemoterapie pomocí PL
+T2	PROCEDURE 350 365	lumbální punkce
+T10	PROCEDURE 370 397	intratekální chemoprofylaxi
+T11	PROCEDURE 414 449	Opakované analýzy mozkomíšního moku
+T7	PROCEDURE 686 688	LP
+T12	PROCEDURE 712 732	transfuze trombocytů
+T13	PROCEDURE 795 813	cyklu chemoterapie
+T14	PROCEDURE 838 864	transplantaci kostní dřeně
+T15	PROCEDURE 871 873	LP
+T16	PROCEDURE 946 996	transfundováno několik trombocytárních koncentrátů
+T18	PROCEDURE 1097 1106	transfuzí
+T17	PROCEDURE 1229 1231	LP
+T24	PROCEDURE 1577 1611	dorzolumbální magnetická rezonance
+T20	PROCEDURE 1757 1787	intravenózním podání gadolinia
+T5	PROCEDURE 1886 1924	dekompresivní laminektomie od L1 do L4
+T6	PROCEDURE 1927 1944	podélná durotomie
+T22	PROCEDURE 2141 2150	Vyšetření
+T19	PROCEDURE 2270 2324	Arachnoidální membrána byla následně podélně naříznuta
+T21	PROCEDURE 2330 2397	oddělení dorzálních kořenů cauda equina byla sraženina zpřístupněna
+T25	PROCEDURE 2375 2459	sraženina zpřístupněna. Bylo možné dosáhnout pouze subtotálního odstranění sraženiny
+T8	PROCEDURE 2609 2627	Chirurgický zákrok
+T23	PROCEDURE 2640 2694	uzavřením durální roviny pomocí lyofilizované plastiky
+T9	PROCEDURE 2975 2992	onkologická léčba
+T4	PROCEDURE 2995 3021	transplantace kostní dřeně
+T27	PROCEDURE 3147 3154	operaci
+T26	PROCEDURE 3167 3203	magnetickou rezonanci bederní páteře

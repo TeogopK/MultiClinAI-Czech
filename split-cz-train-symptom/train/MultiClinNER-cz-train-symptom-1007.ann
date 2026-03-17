@@ -1,0 +1,53 @@
+T16	SYMPTOM 325 350	nositelem mutace Val26Ala
+T17	SYMPTOM 401 408	zemřelo
+T1	SYMPTOM 692 725	kardiovaskulární rizikové faktory
+T18	SYMPTOM 976 1029	pravá komora (PK) s mírně sníženou systolickou funkcí
+T19	SYMPTOM 1418 1443	zhoršení renálních funkcí
+T20	SYMPTOM 1482 1522	Přetrvávající zvýšené hodnoty biomarkerů
+T22	SYMPTOM 2415 2456	progresivního zhoršování renálních funkcí
+T2	SYMPTOM 2701 2723	hemodynamicky stabilní
+T24	SYMPTOM 2836 2844	dušnosti
+T3	SYMPTOM 2850 2858	ortopnoe
+T23	SYMPTOM 2860 2869	bendopnoe
+T5	SYMPTOM 2871 2874	DPN
+T25	SYMPTOM 2882 2904	otoky dolních končetin
+T26	SYMPTOM 2912 2934	zvětšení obvodu břicha
+T27	SYMPTOM 2942 2958	váhový přírůstek
+T28	SYMPTOM 2984 3008	pokles rychlosti diurézy
+T6	SYMPTOM 3292 3298	vědomí
+T29	SYMPTOM 3300 3305	bdělý
+T30	SYMPTOM 3308 3319	orientovaný
+T7	SYMPTOM 3341 3356	Dobře prokrvený
+T8	SYMPTOM 3358 3371	PVC: normální
+T31	SYMPTOM 3373 3401	auskultace srdce: pravidelná
+T32	SYMPTOM 3403 3467	systolický šelest II-III/VI nad trikuspidálním a mitrálním ústím
+T9	SYMPTOM 3492 3510	dýchaní alveolární
+T33	SYMPTOM 3511 3516	(VCM)
+T34	SYMPTOM 3517 3550	bez vedlejších dechových fenoménů
+T10	SYMPTOM 3552 3584	Břicho: RHA+, měkké, stlačitelné
+T35	SYMPTOM 3590 3609	palpaci nebolestivé
+T36	SYMPTOM 3615 3621	útvarů
+T37	SYMPTOM 3627 3637	rezistencí
+T38	SYMPTOM 3652 3675	peritoneálního dráždění
+T39	SYMPTOM 3677 3705	Dolní končetiny: žádné otoky
+T40	SYMPTOM 3747 3786	plantární pulzace přítomné a symetrické
+T41	SYMPTOM 5080 5115	zvýšený kardiotorakální index (KTI)
+T11	SYMPTOM 5117 5132	městnavá kresba
+T14	SYMPTOM 5268 5283	sinusový rytmus
+T42	SYMPTOM 5531 5551	Snížený tepový objem
+T43	SYMPTOM 5763 5795	Středně zvýšené tlaky v plicnici
+T44	SYMPTOM 5985 6008	Tlak v RA mírně zvýšený
+T45	SYMPTOM 6019 6030	Zvýšený PCP
+T12	SYMPTOM 6042 6063	Snížený srdeční výdej
+T46	SYMPTOM 6153 6176	hemodynamické stability
+T47	SYMPTOM 6252 6275	Renální funkce stabilní
+T49	SYMPTOM 6901 6934	mutace Val26Ala v genu pro emerin
+T50	SYMPTOM 7675 7693	mírnou proteinurií
+T13	SYMPTOM 7969 8007	kultivace sputa a rhinovirus negativní
+T51	SYMPTOM 8021 8029	dušností
+T52	SYMPTOM 8090 8098	ortopnoí
+T53	SYMPTOM 8103 8123	periferního městnání
+T54	SYMPTOM 8244 8273	nízkém postprandiálním výdeji
+T73	SYMPTOM 8787 8797	euvolentní
+T4	SYMPTOM 8803 8811	ortopnoe
+T15	SYMPTOM 9532 9558	mutace Val26Ala v genu EMD

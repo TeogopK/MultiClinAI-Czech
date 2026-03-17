@@ -1,0 +1,45 @@
+T1	SYMPTOM 530 537	dušnost
+T3	SYMPTOM 640 648	ortopnoe
+T2	SYMPTOM 651 677	paroxyzmální noční dušnost
+T23	SYMPTOM 691 717	postupným poklesem diurézy
+T24	SYMPTOM 720 752	zvýšeným otokem dolních končetin
+T4	SYMPTOM 754 770	Bolesti na hrudi
+T5	SYMPTOM 779 795	Febrilní syndrom
+T25	SYMPTOM 875 908	oboustrannému otoku příušní žlázy
+T6	SYMPTOM 980 986	vědomí
+T26	SYMPTOM 988 999	orientovaný
+T27	SYMPTOM 1020 1041	dobrém celkovém stavu
+T28	SYMPTOM 1045 1069	dobrou periferní perfuzí
+T29	SYMPTOM 1083 1107	otok obou příušních žláz
+T30	SYMPTOM 1174 1185	PVY v normě
+T31	SYMPTOM 1191 1212	rytmické srdeční ozvy
+T7	SYMPTOM 1214 1256	holodiastolický šelest v aortálním ložisku
+T8	SYMPTOM 1262 1290	zachovalý vezikulární šelest
+T32	SYMPTOM 1292 1308	Břicho nepopsané
+T9	SYMPTOM 1316 1343	edém s foveou až ke kolenům
+T10	SYMPTOM 2594 2609	sinusový rytmus
+T33	SYMPTOM 2712 2741	kardiotorakální index v normě
+T34	SYMPTOM 2836 2880	Volné kardiophrenické a kostofrenické dutiny
+T35	SYMPTOM 3022 3039	LS mírně zvětšená
+T36	SYMPTOM 3057 3075	LK není dilatovaná
+T37	SYMPTOM 3255 3275	Celková EF zachována
+T19	SYMPTOM 3378 3389	Normální AD
+T38	SYMPTOM 3391 3402	Normální PK
+T18	SYMPTOM 3989 4011	Normální trikuspidální
+T39	SYMPTOM 4067 4084	Normální perikard
+T11	SYMPTOM 6058 6086	zvětšení obou příušních žláz
+T40	SYMPTOM 6509 6546	Normální velikost submaxilárních žláz
+T12	SYMPTOM 6570 6600	Normální velikost štítné žlázy
+T41	SYMPTOM 6839 6901	levém laloku je smíšená, převážně solidní, izoechogenní uzlina
+T20	SYMPTOM 7267 7299	Normální žlučník a žlučové cesty
+T42	SYMPTOM 7548 7568	špatné funkci ledvin
+T13	SYMPTOM 7772 7797	peribronchiální ztluštění
+T14	SYMPTOM 8793 8827	Normální segmentální kontraktilita
+T15	SYMPTOM 8829 8855	Normální hmotnost myokardu
+T16	SYMPTOM 8919 8949	Mírná koncentrická hypertrofie
+T43	SYMPTOM 9152 9173	PK: normální velikost
+T17	SYMPTOM 9334 9356	Normální kontraktilita
+T44	SYMPTOM 9600 9623	perikardiální ztluštění
+T45	SYMPTOM 10066 10095	zachovanou systolickou funkcí
+T46	SYMPTOM 10407 10427	zvýšenou hladinu ACE
+T47	SYMPTOM 10517 10546	prominenci obou plicních hilů

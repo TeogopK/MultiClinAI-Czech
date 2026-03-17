@@ -1,0 +1,19 @@
+T26	PROCEDURE 0 8	ANAMNÉZA
+T18	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 157 165	anamnéze
+T68	PROCEDURE 444 453	vyšetření
+T29	PROCEDURE 656 673	Plicní auskultace
+T66	PROCEDURE 720 738	srdeční auskultace
+T1	PROCEDURE 800 823	Plyny v arteriální krvi
+T19	PROCEDURE 921 938	Elektrokardiogram
+T20	PROCEDURE 940 943	EKG
+T30	PROCEDURE 1116 1128	RTG hrudníku
+T27	PROCEDURE 1338 1359	laboratorní vyšetření
+T52	PROCEDURE 1403 1416	Jaterní testy
+T21	PROCEDURE 1635 1667	Nasofaryngeální PCR na SARS-CoV2
+T60	PROCEDURE 1882 1896	oxygenoterapií
+T3	PROCEDURE 2169 2195	markerů poškození myokardu
+T67	PROCEDURE 2289 2334	transtorakálním echokardiografickém vyšetření
+T22	PROCEDURE 2615 2641	markery poškození myokardu
+T69	PROCEDURE 2782 2791	vyšetření
+T23	PROCEDURE 2928 2954	markery poškození myokardu

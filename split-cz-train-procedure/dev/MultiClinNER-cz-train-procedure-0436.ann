@@ -1,0 +1,30 @@
+T6	PROCEDURE 50 60	peniciliny
+T1	PROCEDURE 122 150	punkční biopsii dutiny čelní
+T7	PROCEDURE 231 285	chirurgicky vyříznut pomocí řezu v úrovni levého obočí
+T2	PROCEDURE 288 318	osteotomie přední stěny dutiny
+T9	PROCEDURE 364 391	anatomopatologickou analýzu
+T8	PROCEDURE 456 507	histopatologická analýza excidované sliznice dutiny
+T10	PROCEDURE 652 670	Scintigrafie kostí
+T11	PROCEDURE 845 857	chemoterapie
+T17	PROCEDURE 1096 1119	chemoterapeutické léčby
+T12	PROCEDURE 1223 1232	vyšetření
+T5	PROCEDURE 1382 1415	Byly odebrány vzorky na kultivaci
+T3	PROCEDURE 1418 1429	antibiogram
+T15	PROCEDURE 1471 1494	Rentgenový snímek lebky
+T13	PROCEDURE 1546 1548	CT
+T14	PROCEDURE 1551 1554	MRI
+T23	PROCEDURE 1845 1862	chirurgické léčby
+T16	PROCEDURE 1868 1908	proveden motýlkový řez v oblasti glabely
+T18	PROCEDURE 1939 1954	oddělení laloku
+T19	PROCEDURE 2046 2096	stěny dutiny byly vyvložkovány rotačním materiálem
+T20	PROCEDURE 2098 2191	Z pravé proximální tibie byl pomocí trokaru odebrán 50 cm3 kortiko-kanelózního kostního štěpu
+T21	PROCEDURE 2302 2331	odebráno 250 cm3 venózní krve
+T22	PROCEDURE 2319 2382	venózní krve, která byla centrifugována dvoustupňovou technikou
+T24	PROCEDURE 2526 2570	sraženina PRP aktivována chloridem vápenatým
+T25	PROCEDURE 2622 2657	kompletně vyplněny obě dutiny dutin
+T4	PROCEDURE 2659 2684	Operační rána byla sešita
+T26	PROCEDURE 2687 2741	na jizvu byla umístěna plazma chudá na růstové faktory
+T30	PROCEDURE 2744 2811	Kyretážní materiál z obou dutin byl odeslán na patologickou analýzu
+T27	PROCEDURE 3194 3201	operaci
+T28	PROCEDURE 3217 3229	CT vyšetření
+T31	PROCEDURE 3247 3274	úplné vyplnění dutiny čelní

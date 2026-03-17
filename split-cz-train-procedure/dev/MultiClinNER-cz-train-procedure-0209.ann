@@ -1,0 +1,43 @@
+T1	PROCEDURE 204 216	apendektomie
+T2	PROCEDURE 534 553	Fyzikální vyšetření
+T4	PROCEDURE 642 669	kardiorespirační auskultace
+T34	PROCEDURE 937 946	bílkoviny
+T8	PROCEDURE 1087 1101	Krevní kultury
+T6	PROCEDURE 1118 1133	Močový sediment
+T5	PROCEDURE 1148 1171	Okultní krev ve stolici
+T9	PROCEDURE 1188 1214	Rentgenový snímek hrudníku
+T11	PROCEDURE 1284 1308	Gastroduodenální tranzit
+T12	PROCEDURE 1323 1339	Ultrazvuk břicha
+T13	PROCEDURE 1342 1351	CT břicha
+T14	PROCEDURE 1367 1379	Gastroskopie
+T16	PROCEDURE 1410 1432	biopsie spánkové tepny
+T3	PROCEDURE 2247 2266	Fyzikální vyšetření
+T52	PROCEDURE 2389 2410	Biochemické vyšetření
+T25	PROCEDURE 2513 2525	Proteinogram
+T24	PROCEDURE 2536 2556	Hormony štítné žlázy
+T28	PROCEDURE 2627 2646	přímý Coombsův test
+T7	PROCEDURE 2648 2663	Močový sediment
+T58	PROCEDURE 2675 2689	kultivace krve
+T35	PROCEDURE 2691 2711	kultivace ze stolice
+T36	PROCEDURE 2714 2728	kultivace moči
+T26	PROCEDURE 2730 2739	Sérologie
+T27	PROCEDURE 2938 2974	Sérologie virů HIV, hepatitidy B a C
+T32	PROCEDURE 2986 2995	Sputum ZN
+T18	PROCEDURE 3007 3021	Mantouxův test
+T37	PROCEDURE 3193 3216	Test okultního krvácení
+T10	PROCEDURE 3233 3259	Rentgenový snímek hrudníku
+T38	PROCEDURE 3284 3308	Rentgenový snímek páteře
+T19	PROCEDURE 3348 3365	CT bederní páteře
+T65	PROCEDURE 3402 3432	ultrazvukovém vyšetření břicha
+T66	PROCEDURE 3472 3488	Hrudně-břišní CT
+T15	PROCEDURE 3526 3538	Gastroskopie
+T20	PROCEDURE 3555 3567	kolonoskopie
+T21	PROCEDURE 3611 3614	EKG
+T22	PROCEDURE 3702 3716	Echokardiogram
+T23	PROCEDURE 3854 3871	perikardiocentéza
+T33	PROCEDURE 3982 4012	analýza perikardiální tekutiny
+T30	PROCEDURE 4129 4161	kultivace perikardiální tekutiny
+T31	PROCEDURE 4177 4187	barvení ZN
+T29	PROCEDURE 4199 4208	cytologie
+T39	PROCEDURE 4358 4388	perfuzní scintigrafií myokardu
+T17	PROCEDURE 4480 4502	Biopsie spánkové tepny

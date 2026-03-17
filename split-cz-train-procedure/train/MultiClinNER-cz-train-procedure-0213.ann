@@ -1,0 +1,16 @@
+T8	PROCEDURE 403 431	gastrointestinální vyšetření
+T3	PROCEDURE 433 445	gastroskopie
+T4	PROCEDURE 447 459	kolonoskopie
+T5	PROCEDURE 461 475	echoendoskopie
+T1	PROCEDURE 499 518	Fyzikální vyšetření
+T15	PROCEDURE 588 610	ultrazvukové vyšetření
+T9	PROCEDURE 812 848	pozitivní bilaterální transiluminace
+T10	PROCEDURE 950 980	Vzdálená zobrazovací vyšetření
+T11	PROCEDURE 982 984	CT
+T12	PROCEDURE 986 989	MRI
+T13	PROCEDURE 1021 1048	germinální nádorové markery
+T14	PROCEDURE 1093 1129	radikální orchiektomie levého třísla
+T7	PROCEDURE 1131 1150	Makroskopický popis
+T2	PROCEDURE 1370 1391	Mikroskopická analýza
+T6	PROCEDURE 2125 2152	Imunohistochemické techniky
+T16	PROCEDURE 2663 2692	Sérové a zobrazovací kontroly

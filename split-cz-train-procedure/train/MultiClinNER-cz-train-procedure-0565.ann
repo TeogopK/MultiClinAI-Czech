@@ -1,0 +1,24 @@
+T9	PROCEDURE 30 34	TURP
+T2	PROCEDURE 258 277	Fyzikální vyšetření
+T1	PROCEDURE 414 435	uretrální katetrizace
+T7	PROCEDURE 443 471	zaveden cystostomický katétr
+T8	PROCEDURE 451 464	cystostomický
+T11	PROCEDURE 494 506	krevní testy
+T6	PROCEDURE 548 563	močový sediment
+T13	PROCEDURE 629 647	antibiotické léčbě
+T10	PROCEDURE 690 701	analytickém
+T15	PROCEDURE 726 755	ultrazvukové vyšetření břicha
+T12	PROCEDURE 820 855	cystografii cystostomickým katétrem
+T14	PROCEDURE 974 988	kultivací moči
+T16	PROCEDURE 1113 1134	protizánětlivými léky
+T21	PROCEDURE 1148 1171	anatomicko-patologickou
+T22	PROCEDURE 1181 1194	chirurgického
+T18	PROCEDURE 1458 1479	rozšiřující vyšetření
+T19	PROCEDURE 1481 1501	Magnetická rezonance
+T17	PROCEDURE 1608 1639	Hrudně-abdominální CT vyšetření
+T3	PROCEDURE 1880 1887	Biopsie
+T20	PROCEDURE 1981 2036	paliativní polychemoterapie cisplatina + 5-fluorouracil
+T5	PROCEDURE 2212 2224	chemoterapie
+T24	PROCEDURE 2326 2349	paliativní radioterapii
+T23	PROCEDURE 2521 2529	morfinem
+T4	PROCEDURE 2548 2563	paliativní péče

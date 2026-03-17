@@ -1,0 +1,19 @@
+T10	PROCEDURE 307 319	Krevní testy
+T1	PROCEDURE 501 518	Elektrokardiogram
+T3	PROCEDURE 520 523	EKG
+T9	PROCEDURE 683 704	přetížením tekutinami
+T8	PROCEDURE 706 723	výplachem žaludku
+T12	PROCEDURE 856 865	intubován
+T13	PROCEDURE 930 937	sedován
+T11	PROCEDURE 940 961	mechanicky ventilován
+T14	PROCEDURE 967 987	fyzikálním vyšetření
+T15	PROCEDURE 1458 1489	Hodnoty plynů v arteriální krvi
+T2	PROCEDURE 1568 1594	Rentgenový snímek hrudníku
+T4	PROCEDURE 1608 1611	EKG
+T5	PROCEDURE 1775 1778	EKG
+T18	PROCEDURE 2001 2022	hemodialyzační sezení
+T16	PROCEDURE 2050 2066	plicním katétrem
+T17	PROCEDURE 2268 2295	agresivní objemovou expanzí
+T6	PROCEDURE 2632 2635	EKG
+T7	PROCEDURE 3075 3089	Částečná pitva
+T19	PROCEDURE 3099 3118	histologické známky

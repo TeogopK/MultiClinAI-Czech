@@ -1,0 +1,40 @@
+T99	SYMPTOM 774 798	tísnivé bolesti na hrudi
+T100	SYMPTOM 840 863	vegetativním doprovodem
+T64	SYMPTOM 935 949	asymptomatický
+T25	SYMPTOM 1028 1044	izoelektrický ST
+T1	SYMPTOM 1059 1081	hemodynamicky stabilní
+T69	SYMPTOM 1160 1184	centrální hrudní bolesti
+T26	SYMPTOM 1208 1218	elevace ST
+T79	SYMPTOM 1468 1475	dušnost
+T66	SYMPTOM 1581 1588	bolesti
+T27	SYMPTOM 1591 1601	elevací ST
+T65	SYMPTOM 1813 1827	asymptomatický
+T54	SYMPTOM 2129 2147	Celkový stav dobrý
+T90	SYMPTOM 2149 2165	normohydratovaný
+T91	SYMPTOM 2167 2184	normoperfundovaný
+T105	SYMPTOM 2190 2196	vědomí
+T93	SYMPTOM 2199 2210	orientovaný
+T52	SYMPTOM 2260 2301	Auskultace srdce. akce srdeční pravidelná
+T109	SYMPTOM 2307 2314	šelestů
+T58	SYMPTOM 2316 2353	Periferní pulzy přítomny a symetrické
+T4	SYMPTOM 2382 2400	alveolární dýchání
+T5	SYMPTOM 2402 2454	Břicho: normální vyšetření, bez patologického nálezu
+T68	SYMPTOM 2499 2506	bolestí
+T6	SYMPTOM 2508 2523	sinusový rytmus
+T8	SYMPTOM 2541 2552	normální PR
+T9	SYMPTOM 2554 2566	úzká osa QRS
+T10	SYMPTOM 2577 2587	elevace ST
+T67	SYMPTOM 2649 2656	bolesti
+T7	SYMPTOM 2675 2690	sinusový rytmus
+T11	SYMPTOM 2860 2891	kondenzace v plicním parenchymu
+T29	SYMPTOM 2904 2921	plicního městnání
+T12	SYMPTOM 3282 3307	PCR SARS-CoV-2: negativní
+T30	SYMPTOM 3555 3577	krevní obraz beze změn
+T31	SYMPTOM 3778 3829	levá komora (LK) není dilatovaná ani hypertrofovaná
+T92	SYMPTOM 3832 3859	normální systolickou funkcí
+T86	SYMPTOM 3903 3948	Pravá komora nedilatovaná a normokontraktilní
+T13	SYMPTOM 3950 3967	Normální předsíně
+T32	SYMPTOM 4023 4043	Normální plicní tlak
+T104	SYMPTOM 4051 4072	perikardiální výpotek
+T2	SYMPTOM 4257 4279	hemodynamicky stabilní
+T14	SYMPTOM 4952 4982	Zachovaná systolická funkce LK

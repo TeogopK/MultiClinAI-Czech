@@ -1,0 +1,12 @@
+T2	PROCEDURE 511 523	operaci krku
+T3	PROCEDURE 995 1007	Krevní testy
+T22	PROCEDURE 1018 1026	hemogram
+T26	PROCEDURE 1029 1038	biochemie
+T23	PROCEDURE 1042 1045	EKG
+T25	PROCEDURE 1192 1214	Holterovo EKG/24 hodin
+T27	PROCEDURE 1478 1495	TT echokardiogram
+T7	PROCEDURE 1718 1746	MRI srdce: funkční vyšetření
+T8	PROCEDURE 1765 1824	ECO T2 gradientových sekvencí CINE se srdeční synchronizací
+T51	PROCEDURE 1840 1856	podání kontrastu
+T9	PROCEDURE 1858 1886	Pozdní enhancement vyšetření
+T24	PROCEDURE 2288 2301	zátěžový test

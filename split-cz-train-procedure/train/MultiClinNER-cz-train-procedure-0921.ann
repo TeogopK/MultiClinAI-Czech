@@ -1,0 +1,34 @@
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T29	PROCEDURE 314 327	tonzilektomie
+T30	PROCEDURE 339 351	císařský řez
+T31	PROCEDURE 354 367	hysterektomie
+T6	PROCEDURE 726 746	fyzikálním vyšetření
+T7	PROCEDURE 845 860	nosními brýlemi
+T8	PROCEDURE 887 897	auskultaci
+T33	PROCEDURE 1107 1124	Elektrokardiogram
+T34	PROCEDURE 1126 1129	EKG
+T35	PROCEDURE 1285 1297	RTG hrudníku
+T47	PROCEDURE 1392 1401	Biochemie
+T36	PROCEDURE 1622 1643	jaterní funkční testy
+T37	PROCEDURE 1645 1665	Hormony štítné žlázy
+T10	PROCEDURE 1676 1678	KO
+T38	PROCEDURE 1798 1807	Koagulace
+T11	PROCEDURE 1886 1888	CT
+T39	PROCEDURE 2371 2400	Transtorakální echokardiogram
+T40	PROCEDURE 2944 2975	Transezofageální echokardiogram
+T50	PROCEDURE 3394 3417	Hemodynamické vyšetření
+T51	PROCEDURE 3634 3636	CT
+T16	PROCEDURE 3879 3881	CT
+T32	PROCEDURE 3894 3916	patologické auskultace
+T42	PROCEDURE 3980 4015	transezofageální echokardiografické
+T54	PROCEDURE 4226 4241	kardiochirurgii
+T55	PROCEDURE 4262 4279	odstranění útvaru
+T56	PROCEDURE 4410 4461	kompletní excize včetně části interatriálního septa
+T57	PROCEDURE 4474 4524	uzavřením defektu záplatou z autologního perikardu
+T41	PROCEDURE 4603 4636	transezofageální echokardiografie
+T45	PROCEDURE 4664 4681	odstranění útvaru
+T58	PROCEDURE 4724 4734	extubována
+T59	PROCEDURE 4776 4796	patologické anatomie
+T61	PROCEDURE 4960 4988	echokardiografické vyšetření
+T18	PROCEDURE 5209 5222	Excize útvaru
+T46	PROCEDURE 5225 5260	oprava septa perikardiální záplatou

@@ -1,0 +1,64 @@
+T32	SYMPTOM 406 437	Trombofilní vyšetření negativní
+T35	SYMPTOM 963 988	tísnivou bolestí na hrudi
+T36	SYMPTOM 1016 1100	epigastralgie střední intenzity s následným ozářením centrální hrudní oblasti a krku
+T37	SYMPTOM 1111 1132	vegetativními křečemi
+T1	SYMPTOM 1225 1232	dušnost
+T2	SYMPTOM 1276 1292	bolesti na hrudi
+T38	SYMPTOM 1320 1328	bolestem
+T4	SYMPTOM 2320 2347	hemodynamickou nestabilitou
+T42	SYMPTOM 2946 2953	bolesti
+T3	SYMPTOM 2987 3003	elevace úseku ST
+T43	SYMPTOM 3044 3066	hemodynamické výstrahy
+T5	SYMPTOM 3680 3701	Rytmické srdeční tóny
+T44	SYMPTOM 3732 3760	Vezikulárny šelest zachovaná
+T6	SYMPTOM 3795 3820	Dolní končetiny bez otoků
+T45	SYMPTOM 3822 3860	periferní pulzy zachovány a symetrické
+T121	SYMPTOM 3940 3960	sinusová tachykardie
+T7	SYMPTOM 3979 3990	normální PR
+T10	SYMPTOM 3992 4000	Úzké QRS
+T13	SYMPTOM 4002 4025	Q vlna ve II, III a aVF
+T27	SYMPTOM 4034 4046	vzestupem ST
+T46	SYMPTOM 4130 4137	bolesti
+T28	SYMPTOM 4139 4159	sinusová tachykardie
+T8	SYMPTOM 4173 4184	normální PR
+T11	SYMPTOM 4186 4194	Úzké QRS
+T47	SYMPTOM 4196 4231	Elevace ST ve svodech II, III a aVF
+T48	SYMPTOM 4252 4284	vlnou Q ve svodech II, III a aVF
+T49	SYMPTOM 4287 4323	poklesem ST ve svodech I, aVL, V1-V2
+T14	SYMPTOM 4354 4369	Sinusový rytmus
+T9	SYMPTOM 4388 4399	normální PR
+T12	SYMPTOM 4401 4409	Úzké QRS
+T50	SYMPTOM 4435 4490	RTG hrudníku při přijetí (snímek 3): CTI v mezích normy
+T51	SYMPTOM 4498 4529	uskřípnutí kostofrenického sinu
+T15	SYMPTOM 4537 4555	cévní redistribuce
+T16	SYMPTOM 5526 5555	antikardiolipin IgG negativní
+T52	SYMPTOM 5557 5586	antikardiolipin IgM negativní
+T29	SYMPTOM 5681 5716	beta 2-glykoprotein-I IgG negativní
+T30	SYMPTOM 5718 5753	beta 2-glykoprotein-I IgM negativní
+T17	SYMPTOM 5792 5817	faktor V Leiden negativní
+T31	SYMPTOM 5819 5855	faktor II (mutace G20210A) negativní
+T53	SYMPTOM 6220 6264	homogenní IFA vzorec ENA screening negativní
+T54	SYMPTOM 6456 6523	akineze všech apikálních, předních a středních laterálních segmentů
+T55	SYMPTOM 6587 6637	PK normální velikosti se zachovanou kontraktilitou
+T56	SYMPTOM 6866 6938	výrazné hypokineze předního, laterálního a septálního středního segmentu
+T18	SYMPTOM 7133 7154	Normální pravá komora
+T57	SYMPTOM 7225 7247	LK s normálními objemy
+T58	SYMPTOM 7468 7518	těžkým snížením globální systolické funkce v klidu
+T19	SYMPTOM 7595 7610	Nedilatovaná PK
+T59	SYMPTOM 7644 7682	zachovanou globální systolickou funkcí
+T20	SYMPTOM 7748 7775	Předsíně normálních rozměrů
+T21	SYMPTOM 8353 8371	zachovalými objemy
+T61	SYMPTOM 8407 8429	kontraktilními změnami
+T60	SYMPTOM 8431 8437	edémem
+T62	SYMPTOM 8642 8679	gangliových útvarů významné velikosti
+T22	SYMPTOM 8712 8718	uzliny
+T63	SYMPTOM 8723 8733	kondenzace
+T65	SYMPTOM 8806 8834	heterogenní děloha, zvětšená
+T64	SYMPTOM 9200 9297	V břišně-pánevních řetězcích nebyly pozorovány žádné útvary lymfatických uzlin významné velikosti
+T23	SYMPTOM 9299 9343	Normální kalibr a rozložení střevních kliček
+T24	SYMPTOM 9502 9524	hemodynamická labilita
+T25	SYMPTOM 9895 9904	hypotenze
+T69	SYMPTOM 10374 10390	bolestí na hrudi
+T70	SYMPTOM 10424 10449	dušností při mírné námaze
+T26	SYMPTOM 10524 10533	palpitace
+T71	SYMPTOM 10535 10545	synkopální

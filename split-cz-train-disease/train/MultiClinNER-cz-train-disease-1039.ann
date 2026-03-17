@@ -1,0 +1,51 @@
+T19	DISEASE 87 108	nežádoucí účinky léků
+T161	DISEASE 145 155	hypertenze
+T20	DISEASE 187 234	Diabetes mellitus 2. typu nezávislý na inzulínu
+T149	DISEASE 266 286	Smíšená dyslipidemie
+T21	DISEASE 325 339	toxické návyky
+T178	DISEASE 365 392	paroxyzmální fibrilace síní
+T22	DISEASE 483 501	depresivní porucha
+T23	DISEASE 503 527	esenciální trombocytemie
+T24	DISEASE 539 571	těžký neurotrofický vřed rohovky
+T190	DISEASE 1634 1651	srdečního selhání
+T163	DISEASE 1683 1708	infekční klinické projevy
+T26	DISEASE 1838 1863	bezpulzní fibrilace komor
+T42	DISEASE 2140 2165	rytmus torsade de Pointes
+T50	DISEASE 2167 2170	TdP
+T27	DISEASE 2396 2403	arytmie
+T5	DISEASE 2818 2831	dechové tísně
+T159	DISEASE 3126 3148	hluboké žilní trombózy
+T28	DISEASE 3150 3153	HŽT
+T167	DISEASE 3538 3571	kompletní blokády pravého raménka
+T6	DISEASE 3573 3578	CRBBB
+T29	DISEASE 3746 3786	polymorfní komorová tachykardie typu TdP
+T43	DISEASE 3899 3904	CRBBB
+T30	DISEASE 5000 5036	koncentrická hypertrofie levé komory
+T31	DISEASE 5177 5211	Středně těžká mitrální regurgitace
+T44	DISEASE 5278 5304	Závažná dilatace levé síně
+T32	DISEASE 5391 5417	trikuspidální insuficience
+T8	DISEASE 5419 5421	TI
+T179	DISEASE 5543 5566	perikardiálního výpotku
+T33	DISEASE 5810 5823	Kardiomegalie
+T34	DISEASE 5825 5856	Kalcifikace aortálního knoflíku
+T9	DISEASE 5858 5902	Degenerativní změny v oblasti hřbetní páteře
+T52	DISEASE 6190 6193	TdP
+T35	DISEASE 6430 6449	poruchy elektrolytů
+T11	DISEASE 6472 6496	prodloužení QT intervalu
+T122	DISEASE 6792 6863	VF s těžkou komorovou dysfunkcí se středně těžkou mitrální insuficiencí
+T13	DISEASE 6865 6867	MI
+T36	DISEASE 6991 7015	dilatační kardiomyopatie
+T191	DISEASE 7279 7296	srdečního selhání
+T16	DISEASE 7333 7352	SS se sníženou LVEF
+T123	DISEASE 7921 7923	VF
+T124	DISEASE 7976 7978	VF
+T39	DISEASE 8084 8121	neischemická dilatační kardiomyopatie
+T48	DISEASE 8136 8155	tachykardiomyopatie
+T45	DISEASE 8213 8256	Iatrogenně získané prodloužení QT intervalu
+T14	DISEASE 8298 8319	arytmickými příhodami
+T15	DISEASE 8329 8360	polymorfní komorové tachykardie
+T47	DISEASE 8362 8380	torsade de Pointes
+T166	DISEASE 8393 8417	kardiorespirační zástavy
+T41	DISEASE 8419 8451	Srdeční selhání se sníženou LVEF
+T174	DISEASE 8463 8500	neischemické dilatační kardiomyopatie
+T49	DISEASE 8519 8538	tachykardiomyopatie

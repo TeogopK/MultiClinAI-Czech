@@ -1,0 +1,20 @@
+T2	PROCEDURE 403 432	transkutánní ultrazvuk břicha
+T3	PROCEDURE 434 446	gastroskopie
+T4	PROCEDURE 448 460	kolonoskopie
+T5	PROCEDURE 463 472	CT břicha
+T8	PROCEDURE 530 576	magnetická rezonanční cholangiopankreatografie
+T9	PROCEDURE 578 582	MRCP
+T10	PROCEDURE 918 967	endoskopické retrográdní cholangiopankreatografie
+T6	PROCEDURE 969 973	ERCP
+T11	PROCEDURE 1051 1076	profylaxe glukokortikoidy
+T12	PROCEDURE 1080 1100	endoskopickém obraze
+T7	PROCEDURE 1129 1159	Žlučovod byl hluboce kanylován
+T13	PROCEDURE 1129 1243	Žlučovod byl hluboce kanylován a k zajištění přístupu do společného žlučovodu byl zaveden 0,025palcový vodicí drát
+T1	PROCEDURE 1245 1292	Zavedení kontrastu pro cholangiopankreatografii
+T14	PROCEDURE 1344 1350	vpichu
+T19	PROCEDURE 1392 1412	endoskopickém obraze
+T20	PROCEDURE 1418 1433	cholangiografii
+T15	PROCEDURE 1487 1514	injekce s kontrastní látkou
+T16	PROCEDURE 1569 1587	rentgenovém snímku
+T21	PROCEDURE 1624 1697	choledochokély a byla provedena její sekce pomocí biliární sfinkterotomie
+T17	PROCEDURE 1736 1757	endoskopickém zákroku

@@ -1,0 +1,53 @@
+T28	DISEASE 68 82	lékové alergie
+T29	DISEASE 90 104	toxické návyky
+T30	DISEASE 141 162	Arteriální hypertenze
+T31	DISEASE 164 176	Dyslipidemie
+T1	DISEASE 237 240	PAF
+T32	DISEASE 242 278	Chronická ischemická choroba srdeční
+T33	DISEASE 303 327	námahová angina pectoris
+T133	DISEASE 454 480	nestabilní anginu pectoris
+T34	DISEASE 640 655	Spondyloartróza
+T4	DISEASE 657 676	Prostatický syndrom
+T35	DISEASE 678 703	Oboustranná ztráta sluchu
+T5	DISEASE 726 764	Pertrochanterická zlomenina levé kyčle
+T6	DISEASE 1448 1474	akutních ischemických změn
+T7	DISEASE 1490 1507	okluze velké cévy
+T120	DISEASE 1801 1879	infarktu s novým výskytem hypodenzního ložiska v pravé čočce a radiální koruně
+T36	DISEASE 2200 2210	kožní léze
+T115	DISEASE 2985 3007	hluboké žilní trombózy
+T37	DISEASE 3046 3066	sinusová bradykardie
+T119	DISEASE 3659 3679	ložiskovým infarktem
+T139	DISEASE 4291 4310	plicní insuficience
+T38	DISEASE 4382 4403	perikardiální výpotek
+T8	DISEASE 4531 4555	perikardiální tekutinový
+T9	DISEASE 4828 4846	mitrální obstrukci
+T145	DISEASE 5061 5067	trombu
+T10	DISEASE 5115 5182	Sestupná hrudní aorta s několika nekomplikovanými ateromovými pláty
+T12	DISEASE 5915 5986	koronárních tepen kalcifikacemi v proximálním průběhu koronárních tepen
+T103	DISEASE 6043 6123	ateromatózou s převahou kalcifikací v oblouku a na počátku supraaortálních kmenů
+T52	DISEASE 6204 6216	adenomegalie
+T39	DISEASE 6292 6299	kouření
+T13	DISEASE 6442 6445	LOE
+T14	DISEASE 6611 6652	postpelonefritickými kortikálními jizvami
+T106	DISEASE 6655 6692	parapelvickými a kortikálními cystami
+T15	DISEASE 6798 6824	Mírná hypertrofie prostaty
+T40	DISEASE 6935 6975	Středně těžká aortoiliakální ateromatóza
+T53	DISEASE 6983 7006	inguinální adenomegalie
+T41	DISEASE 7028 7039	Osteoporóza
+T16	DISEASE 7126 7149	Zlomenina levého femuru
+T18	DISEASE 7341 7362	metastatického šíření
+T42	DISEASE 7735 7740	myxom
+T107	DISEASE 7870 7891	cévní mozkové příhody
+T43	DISEASE 8269 8274	myxom
+T46	DISEASE 8531 8537	sarkom
+T20	DISEASE 8653 8674	metastatického šíření
+T128	DISEASE 8818 8840	koronárního onemocnění
+T50	DISEASE 9016 9054	dna levé síně s implantací báze tumoru
+T51	DISEASE 9458 9463	nádor
+T44	DISEASE 9504 9509	myxom
+T23	DISEASE 9630 9661	hemiparézy levé dolní končetiny
+T49	DISEASE 9737 9808	Ischemická cévní mozková příhoda v pravé cévní tepně embolického původu
+T48	DISEASE 9810 9867	Pedunkulovaný myxom síní implantovaný do stropu levé síně
+T131	DISEASE 9888 9904	myxomu levé síně
+T24	DISEASE 9950 10020	Stabilní chronický koronární syndrom s onemocněním dvou cév (Cx a LAD)
+T125	DISEASE 10118 10150	ischemické cévní mozkové příhody

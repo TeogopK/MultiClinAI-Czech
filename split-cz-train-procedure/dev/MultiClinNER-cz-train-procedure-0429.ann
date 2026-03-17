@@ -1,0 +1,19 @@
+T10	PROCEDURE 93 100	operace
+T5	PROCEDURE 182 201	Fyzikální vyšetření
+T13	PROCEDURE 255 263	Hemogram
+T7	PROCEDURE 516 539	V nátěru periferní krve
+T9	PROCEDURE 623 687	Sérologie na hepatotropní viry, HIV, toxoplasmu, cytomegalovirus
+T8	PROCEDURE 786 810	sérologie na schistosomu
+T11	PROCEDURE 854 878	Kultivace stolice a moči
+T12	PROCEDURE 881 900	parazitů ve stolici
+T1	PROCEDURE 917 933	Ultrazvuk břicha
+T3	PROCEDURE 1056 1106	Endoskopie horní části gastrointestinálního traktu
+T6	PROCEDURE 1303 1315	kolonoskopie
+T14	PROCEDURE 1362 1409	polypem o velikosti 0,6 cm, který byl odstraněn
+T24	PROCEDURE 1411 1432	Patologické vyšetření
+T15	PROCEDURE 1433 1446	biopsie rekta
+T16	PROCEDURE 1955 1981	parametrů jaterních funkcí
+T28	PROCEDURE 1984 1998	krevním obraze
+T4	PROCEDURE 2000 2050	Endoskopie horní části gastrointestinálního traktu
+T2	PROCEDURE 2053 2069	ultrazvuk břicha
+T32	PROCEDURE 2129 2143	ultrazvukových

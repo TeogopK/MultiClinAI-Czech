@@ -1,0 +1,66 @@
+T34	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T1	PROCEDURE 255 270	hemodialyzačním
+T122	PROCEDURE 347 368	Transplantace ledviny
+T133	PROCEDURE 690 709	antibiotickou léčbu
+T134	PROCEDURE 1216 1234	antibiotické léčby
+T36	PROCEDURE 1417 1428	CT hrudníku
+T173	PROCEDURE 1610 1626	krevní kultivace
+T39	PROCEDURE 1628 1642	kultivace moči
+T41	PROCEDURE 1645 1654	sérologie
+T3	PROCEDURE 1674 1782	zjištěna PCR detekce cytomegaloviru, Pneumocystis jirovecii (v bronchoalveolární laváži) a respiračních virů
+T42	PROCEDURE 1794 1811	mikroskopie stěru
+T44	PROCEDURE 1813 1858	PCR na tuberkulózu v bronchoalveolární laváži
+T5	PROCEDURE 1861 1876	bronchoaspirátu
+T45	PROCEDURE 1889 1911	kultivace mykobakterií
+T47	PROCEDURE 1988 2020	PCR na leishmanie v kostní dřeni
+T135	PROCEDURE 2091 2109	antibiotické léčbě
+T35	PROCEDURE 2216 2235	Fyzikální vyšetření
+T48	PROCEDURE 2426 2452	Auskultace srdce a dýchání
+T71	PROCEDURE 2654 2669	Dolní končetiny
+T6	PROCEDURE 2861 2873	Krevní testy
+T68	PROCEDURE 3015 3024	Biochemie
+T7	PROCEDURE 3368 3382	vyšetření moči
+T49	PROCEDURE 3471 3479	Sediment
+T50	PROCEDURE 3554 3571	Elektrokardiogram
+T37	PROCEDURE 3721 3732	CT hrudníku
+T8	PROCEDURE 3851 3865	Kultivace krve
+T182	PROCEDURE 3867 3881	kultivace moči
+T9	PROCEDURE 3884 3899	kultivace sputa
+T10	PROCEDURE 3912 3926	Mantouxův test
+T54	PROCEDURE 3939 3953	Echokardiogram
+T55	PROCEDURE 4836 4852	echokardiografie
+T56	PROCEDURE 4854 4880	Rentgenový snímek hrudníku
+T190	PROCEDURE 4884 4901	perikardiocentéze
+T57	PROCEDURE 5054 5084	Analýza perikardiální tekutiny
+T12	PROCEDURE 5273 5305	Patologie perikardiální tekutiny
+T59	PROCEDURE 5307 5339	cytologie perikardiální tekutiny
+T60	PROCEDURE 5575 5588	Mikrobiologie
+T13	PROCEDURE 5590 5619	Kultivace sputa a antibiogram
+T61	PROCEDURE 5632 5660	Kultivace moči a antibiogram
+T14	PROCEDURE 5674 5708	aciloskopie perikardiální tekutiny
+T66	PROCEDURE 5721 5753	Kultivace perikardiální tekutiny
+T132	PROCEDURE 5756 5767	antibiogram
+T15	PROCEDURE 5780 5836	PCR extrapulmonální tuberkulózy v perikardiální tekutině
+T72	PROCEDURE 5877 5935	Mutace Mycobacterium tuberculosis v perikardiální tekutině
+T62	PROCEDURE 6015 6062	Kultivace mykobakterií v perikardiální tekutině
+T16	PROCEDURE 6137 6149	Krevní testy
+T69	PROCEDURE 6297 6306	Biochemie
+T138	PROCEDURE 6740 6750	diuretické
+T136	PROCEDURE 6753 6771	antibiotické léčbě
+T17	PROCEDURE 6773 6787	Kultivace krve
+T184	PROCEDURE 6789 6803	kultivace moči
+T18	PROCEDURE 6805 6830	kultivace sputa a Mantoux
+T123	PROCEDURE 6847 6890	Transtorakální echokardiografické vyšetření
+T169	PROCEDURE 7077 7099	imunosupresivní léčbou
+T38	PROCEDURE 7146 7157	CT hrudníku
+T53	PROCEDURE 7206 7213	Mantoux
+T21	PROCEDURE 7331 7362	diagnostickou perikardiocentézu
+T211	PROCEDURE 7644 7653	vyšetření
+T63	PROCEDURE 7655 7697	Biochemická analýza perikardiální tekutiny
+T65	PROCEDURE 7729 7738	Cytologie
+T23	PROCEDURE 7856 7880	mikrobiologickém rozboru
+T178	PROCEDURE 7886 7895	kultivace
+T170	PROCEDURE 8284 8306	imunosupresivní léčbou
+T67	PROCEDURE 8595 8627	kultivace perikardiální tekutiny
+T208	PROCEDURE 8703 8746	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 9025 9046	transplantací ledviny

@@ -1,0 +1,28 @@
+T27	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T28	PROCEDURE 883 902	Fyzikální vyšetření
+T3	PROCEDURE 1013 1030	plicní auskultaci
+T29	PROCEDURE 1050 1067	Elektrokardiogram
+T30	PROCEDURE 1069 1072	EKG
+T31	PROCEDURE 1245 1271	Rentgenový snímek hrudníku
+T32	PROCEDURE 1328 1357	Transtorakální echokardiogram
+T7	PROCEDURE 1784 1825	Počítačová axiální tomografie (CAT) lebky
+T46	PROCEDURE 1815 1818	CAT
+T37	PROCEDURE 1961 2004	Zobrazení magnetickou rezonancí (MRI) lebky
+T36	PROCEDURE 1994 1997	MRI
+T33	PROCEDURE 2346 2355	MRI srdce
+T35	PROCEDURE 2688 2715	Diagnostická koronarografie
+T50	PROCEDURE 2754 2773	Genetické vyšetření
+T40	PROCEDURE 2863 2879	diuretické léčbě
+T45	PROCEDURE 3089 3101	monitorování
+T38	PROCEDURE 3286 3289	MRI
+T51	PROCEDURE 3314 3368	implantaci implantabilního kardioverteru-defibrilátoru
+T53	PROCEDURE 3437 3451	koronarografií
+T54	PROCEDURE 3485 3506	genetickým vyšetřením
+T56	PROCEDURE 3610 3632	antitrombotickou léčbu
+T41	PROCEDURE 3660 3680	antikoagulační léčba
+T44	PROCEDURE 3681 3708	nízkomolekulárními hepariny
+T42	PROCEDURE 3823 3849	magnetická rezonance mozku
+T60	PROCEDURE 3989 4012	antiretrovirovou léčbou
+T43	PROCEDURE 4028 4051	perorální antikoagulace
+T62	PROCEDURE 4316 4336	antikoagulační léčby
+T34	PROCEDURE 4347 4356	MRI srdce

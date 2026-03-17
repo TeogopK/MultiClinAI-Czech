@@ -1,0 +1,19 @@
+T5	PROCEDURE 409 430	Extraorální vyšetření
+T12	PROCEDURE 514 521	palpaci
+T6	PROCEDURE 635 666	funkční vyšetření dolní čelisti
+T10	PROCEDURE 687 709	intraorálním vyšetření
+T15	PROCEDURE 862 869	palpaci
+T11	PROCEDURE 906 940	panoramatickém zobrazení Cone Beam
+T3	PROCEDURE 1640 1655	incizní biopsie
+T13	PROCEDURE 1662 1723	Histopatologické vyšetření s barvením hematoxylinem a eozinem
+T14	PROCEDURE 1700 1723	hematoxylinem a eozinem
+T7	PROCEDURE 2084 2109	Histopatologická diagnóza
+T8	PROCEDURE 2168 2175	operace
+T20	PROCEDURE 2179 2196	celkové anestezii
+T1	PROCEDURE 2378 2388	osteotomie
+T9	PROCEDURE 2476 2491	sešití Vycrilem
+T2	PROCEDURE 2530 2540	osteotomie
+T4	PROCEDURE 2564 2573	enukleace
+T16	PROCEDURE 2613 2634	antibiotickou terapii
+T25	PROCEDURE 2647 2656	analgezii
+T17	PROCEDURE 2677 2691	měkkou stravou

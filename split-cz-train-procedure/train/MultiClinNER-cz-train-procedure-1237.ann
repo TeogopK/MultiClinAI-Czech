@@ -1,0 +1,37 @@
+T42	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T43	PROCEDURE 882 901	FYZIKÁLNÍ VYŠETŘENÍ
+T44	PROCEDURE 1179 1195	Auskultace srdce
+T45	PROCEDURE 1245 1260	Auskultace plic
+T6	PROCEDURE 1342 1371	hluboké ani povrchové palpaci
+T46	PROCEDURE 1488 1491	EKG
+T47	PROCEDURE 1593 1605	RTG hrudníku
+T8	PROCEDURE 1656 1668	Krevní testy
+T60	PROCEDURE 1670 1679	biochemie
+T9	PROCEDURE 2053 2100	Transtorakální echokardiogram (s echokontrastem
+T48	PROCEDURE 2875 2899	Katetrizace levého srdce
+T49	PROCEDURE 2901 2917	ventrikulografie
+T50	PROCEDURE 3002 3016	Koronarografie
+T62	PROCEDURE 3113 3137	Respirační funkční testy
+T51	PROCEDURE 3139 3150	spirometrie
+T52	PROCEDURE 3253 3274	Bronchodilatační test
+T53	PROCEDURE 3328 3345	Elektrokardiogram
+T65	PROCEDURE 3678 3707	echokardiografickém vyšetření
+T66	PROCEDURE 3871 3910	depleční léčbě intravenózními diuretiky
+T67	PROCEDURE 4037 4082	echokardiografické vyšetření s echokontrastem
+T69	PROCEDURE 4100 4118	echokardiografické
+T61	PROCEDURE 4245 4263	etiologická studie
+T70	PROCEDURE 4273 4287	koronarografií
+T54	PROCEDURE 4867 4881	beta-blokátory
+T73	PROCEDURE 4944 4958	beta-blokátorů
+T74	PROCEDURE 4961 4977	antialdosteronik
+T55	PROCEDURE 5249 5256	statiny
+T56	PROCEDURE 5363 5373	léčba CPAP
+T57	PROCEDURE 5530 5543	antikoagulace
+T58	PROCEDURE 5670 5683	antikoagulace
+T59	PROCEDURE 5712 5734	elektrická kardioverze
+T79	PROCEDURE 5779 5799	antikoagulační léčby
+T80	PROCEDURE 5857 5860	VKA
+T81	PROCEDURE 5943 5957	hematologickou
+T83	PROCEDURE 6479 6502	elektrickou kardioverzi
+T84	PROCEDURE 6528 6554	kontrole srdeční frekvence
+T85	PROCEDURE 6604 6620	echokardiografii

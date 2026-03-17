@@ -1,0 +1,32 @@
+T33	PROCEDURE 0 8	ANAMNÉZA
+T17	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T50	PROCEDURE 215 231	rodinná anamnéza
+T51	PROCEDURE 296 304	anamnéza
+T52	PROCEDURE 592 600	anamnézy
+T18	PROCEDURE 681 700	Fyzikální vyšetření
+T19	PROCEDURE 823 839	Auskultace srdce
+T20	PROCEDURE 892 907	Auskultace plic
+T21	PROCEDURE 1330 1339	koagulace
+T46	PROCEDURE 1350 1362	RTG hrudníku
+T22	PROCEDURE 1427 1444	Elektrokardiogram
+T23	PROCEDURE 1446 1449	EKG
+T24	PROCEDURE 1562 1565	EKG
+T47	PROCEDURE 1568 1597	Transtorakální echokardiogram
+T25	PROCEDURE 2317 2336	Srdeční katetrizace
+T53	PROCEDURE 2406 2419	angiograficky
+T54	PROCEDURE 2914 2927	angiograficky
+T73	PROCEDURE 3012 3043	perkutánní koronární intervence
+T40	PROCEDURE 3045 3048	PCI
+T26	PROCEDURE 3094 3125	Predilatace konvenčním balónkem
+T6	PROCEDURE 3137 3206	Implantace dvou překrývajících se lékových stentů, everolimus-eluting
+T55	PROCEDURE 3240 3253	angiografický
+T27	PROCEDURE 3264 3303	PD: katétr AR2 a hydrofilní vodicí drát
+T7	PROCEDURE 3305 3357	Implantace lékového stentu 2,75 x 26 mm s everolimem
+T56	PROCEDURE 3365 3378	angiografický
+T57	PROCEDURE 3481 3500	antiagregační léčba
+T28	PROCEDURE 3546 3574	antikoagulace fondaparinuxem
+T89	PROCEDURE 3608 3627	srdeční katetrizaci
+T29	PROCEDURE 3908 3937	překrývající se lékové stenty
+T10	PROCEDURE 3970 3982	lékový stent
+T88	PROCEDURE 4139 4161	ambulantního sledování
+T30	PROCEDURE 4536 4595	Kompletní perkutánní revaskularizace pomocí lékových stentů

@@ -1,0 +1,22 @@
+T4	PROCEDURE 171 202	bifemorálním aortálním bypassem
+T5	PROCEDURE 310 349	urgentní revaskularizaci s trombektomií
+T7	PROCEDURE 374 385	hemodialýze
+T6	PROCEDURE 491 518	levého radiocefalického AVF
+T8	PROCEDURE 541 581	zaveden levý jugulární temporální katétr
+T9	PROCEDURE 650 680	levého humerus cefalického AVF
+T3	PROCEDURE 691 707	zavedení katétru
+T1	PROCEDURE 816 834	odstranění katétru
+T2	PROCEDURE 952 985	bakteriologická kontrola monitoru
+T23	PROCEDURE 1054 1067	antipyretikem
+T24	PROCEDURE 1251 1290	vyšetření, rentgenu a ultrazvuku břicha
+T10	PROCEDURE 1536 1559	mikrobiologickém nálezu
+T15	PROCEDURE 1584 1602	antibiotická léčba
+T16	PROCEDURE 1620 1651	vyšetření magnetickou rezonancí
+T11	PROCEDURE 1653 1656	MRI
+T12	PROCEDURE 1782 1831	Analgetická léčba byla zahájena léky první úrovně
+T13	PROCEDURE 1844 1867	transdermálními opioidy
+T19	PROCEDURE 2030 2051	reaktantů akutní fáze
+T20	PROCEDURE 2064 2076	hemokulturou
+T21	PROCEDURE 2106 2137	intravenózní antibiotické léčby
+T22	PROCEDURE 2301 2310	analgezií
+T14	PROCEDURE 2359 2362	MRI

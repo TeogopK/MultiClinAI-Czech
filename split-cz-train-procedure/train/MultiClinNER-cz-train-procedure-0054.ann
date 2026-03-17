@@ -1,0 +1,39 @@
+T16	PROCEDURE 188 199	cystoskopii
+T15	PROCEDURE 212 215	TUR
+T18	PROCEDURE 291 310	intravezikálním BCG
+T12	PROCEDURE 325 328	TUR
+T13	PROCEDURE 344 347	BCG
+T25	PROCEDURE 531 552	radikální cystektomii
+T17	PROCEDURE 555 612	odvedením moči pomocí ureterosigmoidostomie typu Mainz II
+T5	PROCEDURE 614 634	Patologická anatomie
+T19	PROCEDURE 822 829	operaci
+T29	PROCEDURE 965 987	intravenózní hydrataci
+T20	PROCEDURE 990 1010	antibiotické terapii
+T28	PROCEDURE 1043 1066	perorálními antibiotiky
+T22	PROCEDURE 1251 1272	Biochemické vyšetření
+T23	PROCEDURE 1275 1287	krevní obraz
+T24	PROCEDURE 1338 1368	ultrazvukovém vyšetření břicha
+T8	PROCEDURE 1424 1432	CT mozku
+T21	PROCEDURE 1476 1508	širokospektré antibiotické léčby
+T30	PROCEDURE 1511 1529	tekutinové terapie
+T27	PROCEDURE 1972 1989	Laboratorní testy
+T14	PROCEDURE 2043 2055	transaminázy
+T1	PROCEDURE 2057 2076	Elektroencefalogram
+T9	PROCEDURE 2183 2191	CT mozku
+T26	PROCEDURE 2322 2341	tekutinovou terapií
+T32	PROCEDURE 2344 2360	absolutní dietou
+T34	PROCEDURE 2591 2600	vyšetřena
+T31	PROCEDURE 2632 2641	vyšetření
+T35	PROCEDURE 2939 3006	adjuvantní chemoterapie s taxolem v dávce 175 mg/m2 a karboplatinou
+T6	PROCEDURE 3029 3052	elektrolytové parametry
+T33	PROCEDURE 3093 3130	analýza krevních plynů z venózní krve
+T10	PROCEDURE 3148 3156	CT mozku
+T11	PROCEDURE 3159 3185	rentgenový snímek hrudníku
+T4	PROCEDURE 3329 3340	cystektomie
+T2	PROCEDURE 3652 3670	tekutinová terapie
+T36	PROCEDURE 3672 3687	absolutní dieta
+T3	PROCEDURE 3689 3709	laktulózové klystýry
+T7	PROCEDURE 3758 3769	hemodialýza
+T37	PROCEDURE 3776 3789	hemodialýzách
+T38	PROCEDURE 3922 3984	ureterosigmoidostomie chirurgicky převedena na ileální konduit
+T39	PROCEDURE 4022 4056	adjuvantní chemoterapeutické léčbě

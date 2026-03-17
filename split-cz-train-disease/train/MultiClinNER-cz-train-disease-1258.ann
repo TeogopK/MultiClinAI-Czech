@@ -1,0 +1,47 @@
+T7	DISEASE 85 106	Arteriální hypertenze
+T8	DISEASE 108 120	Dyslipidemie
+T9	DISEASE 122 204	Dilatační kardiomyopatie ischemického původu se středně těžkou komorovou dysfunkcí
+T10	DISEASE 226 262	chronická ischemická choroba srdeční
+T2	DISEASE 264 285	Trvalá fibrilace síní
+T3	DISEASE 287 291	FiSi
+T11	DISEASE 325 363	Revmatické onemocnění mitrální chlopně
+T12	DISEASE 960 983	akutního plicního edému
+T6	DISEASE 1772 1774	AF
+T16	DISEASE 1814 1818	LBBB
+T43	DISEASE 1905 1980	dilatovaná levá síň a levá komora s mírnou-středně těžkou hypertrofií komor
+T44	DISEASE 2105 2165	Mechanická mitrální protéza s mírně-středně těžkou obstrukcí
+T45	DISEASE 2221 2283	Trojcípá aortální chlopeň, mírně zesílená s mírnou regurgitací
+T46	DISEASE 2285 2317	Vzestupná aorta mírně dilatovaná
+T47	DISEASE 2367 2434	Strukturálně normální trikuspidální chlopeň s triviální regurgitací
+T48	DISEASE 2436 2468	Velmi dilatovaná dolní dutá žíla
+T49	DISEASE 2478 2501	perikardiálního výpotku
+T15	DISEASE 2626 2661	středně těžkou mitrální regurgitaci
+T51	DISEASE 2826 2870	Léze z 90 % ve střední přední sestupné tepně
+T52	DISEASE 2895 2936	Dlouhá léze ve střední cirkumflexní tepně
+T53	DISEASE 2938 3000	Léze 90 % v proximální, střední a distální pravé věnčité tepně
+T13	DISEASE 3176 3216	periprotetická paravalvulární dehiscence
+T57	DISEASE 3249 3294	středně těžkou až těžkou mitrální regurgitaci
+T59	DISEASE 3419 3441	periprotetického úniku
+T60	DISEASE 3643 3665	periprotetického úniku
+T62	DISEASE 3822 3844	periprotetického úniku
+T14	DISEASE 3922 3955	mitrální periprotetická netěsnost
+T21	DISEASE 3980 4008	závažné mitrální regurgitaci
+T64	DISEASE 4035 4053	třícípé onemocnění
+T69	DISEASE 4295 4325	dekompenzované srdeční selhání
+T70	DISEASE 4327 4329	SS
+T71	DISEASE 4333 4352	hemolytickou anémii
+T73	DISEASE 4464 4504	periprotetické paravalvulární dehiscence
+T74	DISEASE 4539 4574	středně těžkou mitrální regurgitaci
+T76	DISEASE 4792 4817	periprotetické netěsnosti
+T42	DISEASE 4923 4947	paravalvulární netěsnost
+T77	DISEASE 4959 5006	mírnou až středně závažnou mitrální regurgitaci
+T78	DISEASE 5278 5295	dekompenzovaný KV
+T79	DISEASE 5340 5365	periprotetické dehiscence
+T80	DISEASE 5468 5512	recidivujícími paravalvulárními dehiscencemi
+T82	DISEASE 5919 5943	paravalvulární netěsnost
+T17	DISEASE 6109 6135	Ischemická choroba srdeční
+T83	DISEASE 6137 6160	Třícípá koronární nemoc
+T18	DISEASE 6193 6219	Mírná systolická dysfunkce
+T20	DISEASE 6222 6242	dilatace levé komory
+T19	DISEASE 6249 6308	Revmatické onemocnění chlopní s postižením mitrální chlopně
+T85	DISEASE 6367 6414	recidivující periprotetické mitrální netěsnosti

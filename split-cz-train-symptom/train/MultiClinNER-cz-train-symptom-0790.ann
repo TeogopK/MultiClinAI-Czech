@@ -1,0 +1,51 @@
+T22	SYMPTOM 431 460	držitel kardiostimulátoru VDD
+T1	SYMPTOM 931 946	polykací potíže
+T2	SYMPTOM 990 1027	Gastroskopie a kolonoskopie negativní
+T3	SYMPTOM 1500 1507	dušnost
+T5	SYMPTOM 1652 1680	dušnost při minimální námaze
+T4	SYMPTOM 1682 1708	subjektivní pokles diurézy
+T23	SYMPTOM 1711 1719	nokturii
+T6	SYMPTOM 1725 1733	ortopnoe
+T24	SYMPTOM 1735 1759	paroxysmy noční dušnosti
+T25	SYMPTOM 1761 1766	otoků
+T26	SYMPTOM 1823 1830	astenii
+T27	SYMPTOM 1833 1854	občasné poruchy nálad
+T28	SYMPTOM 1858 1873	bytek hmotnosti
+T7	SYMPTOM 2107 2116	Afebrilní
+T9	SYMPTOM 2118 2136	Dobrý celkový stav
+T10	SYMPTOM 2142 2148	vědomí
+T29	SYMPTOM 2151 2162	orientovaný
+T11	SYMPTOM 2164 2176	Bledost kůže
+T12	SYMPTOM 2178 2198	bez klidové dušnosti
+T30	SYMPTOM 2224 2239	krčních uzávěrů
+T13	SYMPTOM 2259 2282	pravidelné srdeční ozvy
+T31	SYMPTOM 2284 2355	systolický šelest III/VI v levém sternálním ohraničení a mitrální fokus
+T32	SYMPTOM 2374 2403	basálně krepitace bilaterálně
+T14	SYMPTOM 2413 2431	alveolární dýchání
+T33	SYMPTOM 2433 2459	Břicho měkké a stlačitelné
+T34	SYMPTOM 2474 2480	útvarů
+T35	SYMPTOM 2486 2501	zvětšení orgánů
+T36	SYMPTOM 2507 2530	peritoneálního dráždění
+T15	SYMPTOM 2532 2554	zachovaná peristaltika
+T16	SYMPTOM 2556 2600	na dolních končetinách otoky kotníků a lýtek
+T17	SYMPTOM 2661 2676	sinusový rytmus
+T37	SYMPTOM 2889 2949	mírně zvýšený kardiotorakální index (KTI), prominující hilus
+T38	SYMPTOM 2955 2977	alveolární konsolidace
+T18	SYMPTOM 3821 3862	Bakteriální a virová sérologie: negativní
+T39	SYMPTOM 3884 3959	ANA, ANCA, revmatoidního faktoru, antifosfolipidových protilátek: negativní
+T21	SYMPTOM 3984 4026	LDH, haptoglobin a retikulocyty: negativní
+T40	SYMPTOM 4122 4178	Mikrobiologické kultivace a vyšetření parazitů negativní
+T41	SYMPTOM 4180 4272	Kultivace resekovaného materiálu chlopně a explantovaného drátu kardiostimulátoru: negativní
+T42	SYMPTOM 4524 4560	oslabené dýchání bilaterálně bazálně
+T43	SYMPTOM 4704 4746	Slinivka břišní a nadledviny jsou normální
+T44	SYMPTOM 4983 5009	volná nitrobřišní tekutina
+T45	SYMPTOM 5238 5272	depresí globální systolické funkce
+T19	SYMPTOM 6208 6281	Pravá komora normálního průměru se zachovanou globální systolickou funkcí
+T46	SYMPTOM 7203 7236	pohyblivý útvar na plicní chlopni
+T49	SYMPTOM 7636 7665	dušností při minimální námaze
+T50	SYMPTOM 7678 7692	náhlé dušnosti
+T8	SYMPTOM 7705 7714	afebrilní
+T20	SYMPTOM 8184 8217	závažná neutropenie a trombopenie
+T51	SYMPTOM 8453 8464	neutropenii
+T53	SYMPTOM 9091 9187	Všechny krevní kultury na standardních a speciálních médiích na plísně a bakterie byly negativní
+T54	SYMPTOM 10481 10504	sníženou ejekční frakcí

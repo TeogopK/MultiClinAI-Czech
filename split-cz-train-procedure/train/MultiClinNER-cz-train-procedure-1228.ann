@@ -1,0 +1,54 @@
+T82	PROCEDURE 0 8	ANAMNÉZA
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T83	PROCEDURE 67 75	Anamnéza
+T102	PROCEDURE 143 162	Porodnická anamnéza
+T1	PROCEDURE 193 214	asistované reprodukce
+T23	PROCEDURE 246 282	Hysterektomie a dvojitá adnexektomie
+T24	PROCEDURE 626 643	elektrokardiogram
+T25	PROCEDURE 645 648	EKG
+T3	PROCEDURE 729 762	sérové markery poškození myokardu
+T22	PROCEDURE 839 858	Fyzikální vyšetření
+T31	PROCEDURE 994 1021	kardiorespirační auskultace
+T84	PROCEDURE 1133 1145	Krevní obraz
+T32	PROCEDURE 1246 1255	Koagulace
+T58	PROCEDURE 1284 1293	Biochemie
+T5	PROCEDURE 1568 1616	Detekce SARS-CoV-2 RNA (nazofaryngeální exsudát)
+T26	PROCEDURE 1642 1645	EKG
+T97	PROCEDURE 1843 1855	RTG hrudníku
+T27	PROCEDURE 1994 1997	EKG
+T33	PROCEDURE 2174 2185	katetrizace
+T45	PROCEDURE 2568 2588	Angioplastika na RCA
+T35	PROCEDURE 2662 2687	intravaskulární ultrazvuk
+T36	PROCEDURE 2689 2693	IVUS
+T37	PROCEDURE 2958 2962	IVUS
+T54	PROCEDURE 3194 3232	Angio-CT supraaortálních kmenů a aorty
+T28	PROCEDURE 3368 3371	EKG
+T34	PROCEDURE 3683 3694	katetrizace
+T38	PROCEDURE 3761 3765	IVUS
+T93	PROCEDURE 3974 3977	PCI
+T39	PROCEDURE 4017 4021	IVUS
+T94	PROCEDURE 4259 4262	PCI
+T10	PROCEDURE 4419 4444	jednoduchým balonkem v Cx
+T50	PROCEDURE 4517 4541	Koronární CT angiografie
+T51	PROCEDURE 4560 4584	Koronární CT angiografie
+T52	PROCEDURE 4855 4879	koronární CT angiografie
+T29	PROCEDURE 5392 5395	EKG
+T43	PROCEDURE 5469 5483	koronarografie
+T40	PROCEDURE 5500 5504	IVUS
+T13	PROCEDURE 5662 5697	Po průchodu angioplastického vodiče
+T59	PROCEDURE 5702 5719	implantace stentu
+T55	PROCEDURE 5823 5866	Angio-CT supraaortálního a aortálního kmene
+T48	PROCEDURE 5940 5956	echokardiografie
+T144	PROCEDURE 6121 6142	protidestičkové léčby
+T49	PROCEDURE 6145 6158	antikoagulace
+T61	PROCEDURE 6245 6266	studie hyperkoagulace
+T30	PROCEDURE 6438 6441	EKG
+T44	PROCEDURE 6504 6518	koronarografie
+T41	PROCEDURE 6559 6563	IVUS
+T46	PROCEDURE 6675 6688	angioplastika
+T42	PROCEDURE 6779 6807	koronární angio-CT vyšetření
+T143	PROCEDURE 7126 7155	dvojitá protidestičková léčba
+T16	PROCEDURE 7482 7537	nízkotlaké balónkové angioplastiky a koronárního vodiče
+T60	PROCEDURE 7542 7559	implantace stentu
+T47	PROCEDURE 7640 7706	Primární balónková angioplastika v tupé okrajově-okružní bifurkaci
+T57	PROCEDURE 7762 7770	Angio-CT

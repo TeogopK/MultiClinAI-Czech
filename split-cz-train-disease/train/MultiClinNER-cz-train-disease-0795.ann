@@ -1,0 +1,37 @@
+T1	DISEASE 15 31	lékových alergií
+T19	DISEASE 33 43	hypertenze
+T2	DISEASE 133 147	renální koliku
+T3	DISEASE 149 165	biliární litiázu
+T4	DISEASE 168 180	prostatitidu
+T5	DISEASE 628 652	špatné periferní perfuze
+T20	DISEASE 932 945	akutní břicho
+T21	DISEASE 986 1007	akutní selhání ledvin
+T7	DISEASE 1050 1071	metabolickou acidózou
+T8	DISEASE 1408 1430	akutním plicním edémem
+T9	DISEASE 1476 1535	nekrózou a proudem z inferoposteriorní subepikardiální léze
+T10	DISEASE 1808 1882	středně těžkou dysfunkci levé komory v důsledku globální hypokontraktility
+T11	DISEASE 1908 1931	perikardiálního výpotku
+T22	DISEASE 1957 1980	inferoposteriorní STEMI
+T13	DISEASE 2088 2154	postižení 2 cév s uzávěrem pravé koronární tepny v distální úrovni
+T14	DISEASE 2390 2399	hypotenzí
+T17	DISEASE 2970 2986	nekrózy myokardu
+T23	DISEASE 3231 3251	sinusová tachykardie
+T18	DISEASE 3479 3556	systolická funkce LK přinejmenším středně snížená globální hypokontraktilitou
+T56	DISEASE 3597 3620	perikardiálního výpotku
+T57	DISEASE 3650 3690	onemocnění koronárních tepen se 2 cévami
+T58	DISEASE 3692 3731	Přední sestupná: s difuzní ateromatózou
+T27	DISEASE 3816 3861	Pravá koronární céva: ektatická céva s okluzí
+T60	DISEASE 4038 4083	obstrukci horního střeva v levém hypochondriu
+T61	DISEASE 4208 4252	obstrukčním střevním ileem biliárního původu
+T65	DISEASE 4819 4837	distribučnímu šoku
+T67	DISEASE 5338 5364	střevní okluzivní symptomy
+T71	DISEASE 5677 5721	obstrukčním střevním ileem biliárního původu
+T76	DISEASE 6132 6158	sepsí abdominálního původu
+T24	DISEASE 6556 6570	biliární ileus
+T79	DISEASE 6584 6612	bodové perforaci jejuno-ilea
+T82	DISEASE 6855 6914	mírnou systolickou dysfunkci LK v důsledku dolní hypokinézy
+T25	DISEASE 7201 7265	Septický šok s multiorgánovou dysfunkcí, sekundární peritonitida
+T85	DISEASE 7253 7320	peritonitida v důsledku střevní perforace způsobené biliárním ileem
+T86	DISEASE 7322 7364	Bakteriémie způsobená Bacteroides vulgatus
+T87	DISEASE 7366 7400	Akutní inferiorní infarkt myokardu
+T26	DISEASE 7491 7525	Středně těžká systolická dysfunkce

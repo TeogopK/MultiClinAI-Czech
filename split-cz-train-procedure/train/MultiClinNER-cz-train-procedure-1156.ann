@@ -1,0 +1,23 @@
+T41	PROCEDURE 0 8	Anamnéza
+T19	PROCEDURE 309 317	CT mozku
+T23	PROCEDURE 332 363	fibrinolytická léčba alteplázou
+T20	PROCEDURE 490 498	CT mozku
+T24	PROCEDURE 597 616	Fyzikální vyšetření
+T25	PROCEDURE 714 730	Auskultace srdce
+T78	PROCEDURE 822 839	plicní auskultaci
+T26	PROCEDURE 904 926	Neurologické vyšetření
+T82	PROCEDURE 1102 1131	transtorakální echokardiogram
+T65	PROCEDURE 1422 1451	echokardiografickém vyšetření
+T29	PROCEDURE 1488 1511	perorální antikoagulace
+T85	PROCEDURE 1563 1572	vyšetření
+T30	PROCEDURE 1606 1629	Arteriální krevní plyny
+T31	PROCEDURE 1686 1703	Elektrokardiogram
+T21	PROCEDURE 1771 1779	CT mozku
+T32	PROCEDURE 1791 1814	CT mozku po fibrinolýze
+T57	PROCEDURE 1894 1925	Transezofageální echokardiogram
+T53	PROCEDURE 2288 2291	RTG
+T34	PROCEDURE 2366 2387	Hrudní CT angiografie
+T33	PROCEDURE 2448 2477	Echo-Doppler dolních končetin
+T77	PROCEDURE 2759 2773	oxygenoterapií
+T35	PROCEDURE 3047 3068	Hrudní CT angiografie
+T46	PROCEDURE 3586 3623	operace náhrady trikuspidální chlopně

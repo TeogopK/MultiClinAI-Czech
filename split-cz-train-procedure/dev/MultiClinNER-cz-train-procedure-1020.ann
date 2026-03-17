@@ -1,0 +1,33 @@
+T48	PROCEDURE 0 8	ANAMNÉZA
+T1	PROCEDURE 10 28	nynější onemocnění
+T29	PROCEDURE 31 50	FYZIKÁLNÍ VYŠETŘENÍ
+T117	PROCEDURE 428 435	palpaci
+T3	PROCEDURE 757 767	endodoncie
+T30	PROCEDURE 1174 1201	Kardiopulmonální auskultace
+T31	PROCEDURE 1297 1313	Vyšetření břicha
+T119	PROCEDURE 1366 1396	povrchové nebo hluboké palpaci
+T5	PROCEDURE 1735 1747	krevní obraz
+T43	PROCEDURE 1873 1882	biochemie
+T32	PROCEDURE 2006 2019	funkce ledvin
+T33	PROCEDURE 2030 2035	ionty
+T34	PROCEDURE 2047 2056	koagulace
+T124	PROCEDURE 2069 2095	rentgenový snímek hrudníku
+T35	PROCEDURE 2264 2281	Elektrokardiogram
+T36	PROCEDURE 2411 2422	Katetrizace
+T65	PROCEDURE 2707 2736	Transtorakální echokardiogram
+T38	PROCEDURE 3694 3717	Kardio-MRI s gadoliniem
+T123	PROCEDURE 3978 3999	protidestičkové léčby
+T10	PROCEDURE 4011 4045	antianginózní medikamentózní léčba
+T37	PROCEDURE 4142 4153	katetrizace
+T39	PROCEDURE 4387 4401	Tromboaspirace
+T40	PROCEDURE 4406 4429	koronární angioplastika
+T121	PROCEDURE 4505 4528	protidestičkovou léčbou
+T74	PROCEDURE 4531 4544	antikoagulací
+T44	PROCEDURE 4606 4634	kontrolní kardioenzymy a EKG
+T64	PROCEDURE 4636 4679	Transtorakální echokardiografické vyšetření
+T15	PROCEDURE 5911 5925	zubní extrakci
+T41	PROCEDURE 6016 6035	lokální anestetikum
+T101	PROCEDURE 6121 6147	magnetická rezonance srdce
+T17	PROCEDURE 6474 6500	režimová a dietní opatření
+T122	PROCEDURE 6511 6534	protidestičkovou léčbou
+T88	PROCEDURE 6720 6749	echokardiografickém vyšetření

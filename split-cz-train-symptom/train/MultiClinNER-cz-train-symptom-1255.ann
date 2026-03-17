@@ -1,0 +1,43 @@
+T85	SYMPTOM 710 745	Normální ejekční frakce levé komory
+T8	SYMPTOM 874 898	normální vzestupná aorta
+T134	SYMPTOM 986 998	nedilatovaná
+T144	SYMPTOM 1004 1034	změn segmentální kontraktility
+T79	SYMPTOM 1040 1055	zachovanou LVEF
+T11	SYMPTOM 1057 1090	Diastolický obraz špatné relaxace
+T12	SYMPTOM 1200 1255	Mitrální chlopeň s dobrým otevíráním a bez insuficience
+T13	SYMPTOM 1257 1278	Normální pravá komora
+T1	SYMPTOM 1422 1458	Normální dolní dutá žíla a osrdečník
+T129	SYMPTOM 1547 1564	krvácivých příhod
+T141	SYMPTOM 1931 1963	tísnivé centrální hrudní bolesti
+T117	SYMPTOM 1976 1984	dušností
+T143	SYMPTOM 1987 2010	vegetativním doprovodem
+T66	SYMPTOM 2369 2378	Afebrilní
+T2	SYMPTOM 2385 2388	BEG
+T73	SYMPTOM 2430 2459	Jugulární žilní tlak normální
+T67	SYMPTOM 2461 2484	akce srdeční pravidelná
+T3	SYMPTOM 2486 2512	aortální systolický šelest
+T14	SYMPTOM 2521 2543	zesílenou druhou ozvou
+T4	SYMPTOM 2564 2582	alveolární dýchání
+T68	SYMPTOM 2584 2622	Břicho měkké, stlačitelné, nebolestivé
+T145	SYMPTOM 2628 2634	útvarů
+T131	SYMPTOM 2640 2655	zvětšení orgánů
+T5	SYMPTOM 2657 2682	Dolní končetiny bez otoků
+T15	SYMPTOM 2719 2758	slabými, ale přítomnými pedálními pulzy
+T16	SYMPTOM 3109 3126	normálním vzorcem
+T6	SYMPTOM 3829 3844	sinusový rytmus
+T86	SYMPTOM 4031 4061	Normální kardiotorakální index
+T17	SYMPTOM 4075 4116	snížené transparenci kostofrenického úhlu
+T106	SYMPTOM 4122 4140	cévní redistribuci
+T18	SYMPTOM 4148 4170	pneumonická kondenzace
+T7	SYMPTOM 4196 4211	sinusový rytmus
+T135	SYMPTOM 4310 4339	Levá komora (LK) nedilatovaná
+T80	SYMPTOM 4364 4379	zachovalou LVEF
+T19	SYMPTOM 4431 4476	Pravá komora (PK) normální velikosti a funkce
+T20	SYMPTOM 5664 5683	elevace segmentu ST
+T21	SYMPTOM 5741 5771	stabilní hemodynamické situace
+T147	SYMPTOM 5808 5826	aortálnímu šelestu
+T81	SYMPTOM 6055 6070	zachovanou LVEF
+T9	SYMPTOM 6508 6547	LDL cholesterol je mimo cílovou hodnotu
+T82	SYMPTOM 7008 7022	Zachovalá LVEF
+T10	SYMPTOM 7238 7274	LDL cholesterol mimo cílovou hodnotu
+#T2	AnnotatorNotes T2	?? uknown abbreviation

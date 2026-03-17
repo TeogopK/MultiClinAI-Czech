@@ -1,0 +1,17 @@
+T10	PROCEDURE 64 92	trikuspidální anuloplastikou
+T1	PROCEDURE 399 417	Klinické vyšetření
+T12	PROCEDURE 639 651	Krevní testy
+T2	PROCEDURE 760 786	Rentgenový snímek hrudníku
+T3	PROCEDURE 824 846	sériové krevní kultury
+T17	PROCEDURE 1322 1353	Transtorakální echokardiografie
+T7	PROCEDURE 1355 1358	TTE
+T18	PROCEDURE 1362 1395	transezofageální echokardiografie
+T11	PROCEDURE 1397 1400	TEE
+T13	PROCEDURE 1553 1571	CT vyšetření lebky
+T5	PROCEDURE 1743 1756	antikoagulace
+T6	PROCEDURE 1843 1856	antikoagulace
+T8	PROCEDURE 1909 1926	léčba antibiotiky
+T14	PROCEDURE 1954 1972	CT vyšetření mozku
+T26	PROCEDURE 2236 2264	echokardiografické vyšetření
+T4	PROCEDURE 2267 2275	CT lebky
+T9	PROCEDURE 2396 2419	perorální antikoagulace

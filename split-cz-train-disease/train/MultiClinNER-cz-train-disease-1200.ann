@@ -1,0 +1,61 @@
+T56	DISEASE 28 42	lékové alergie
+T21	DISEASE 79 100	arteriální hypertenze
+T1	DISEASE 102 104	HT
+T22	DISEASE 107 119	Dyslipidemie
+T2	DISEASE 132 139	nekuřák
+T23	DISEASE 165 201	chronická ischemická choroba srdeční
+T54	DISEASE 203 264	Koronární onemocnění levého koronárního kmene (LMCA) a 3 cévy
+T52	DISEASE 351 377	nestabilní anginu pectoris
+T53	DISEASE 384 399	postižením LMCA
+T55	DISEASE 401 412	okluzí LMAD
+T38	DISEASE 415 431	okluzí CXp a CDp
+T50	DISEASE 552 576	stabilní anginy pectoris
+T5	DISEASE 648 656	ischemii
+T42	DISEASE 769 832	Přetrvávající fibrilace síní s kontrolovanou komorovou odpovědí
+T26	DISEASE 890 907	bronchiální astma
+T7	DISEASE 1057 1091	Chronické selhání ledvin 3. stupně
+T8	DISEASE 1128 1146	nefroangiosklerózy
+T27	DISEASE 1148 1175	Sekundární hyperparatyreóza
+T28	DISEASE 1177 1204	Sekundární chronická anémie
+T29	DISEASE 1206 1219	Hyperurikémie
+T30	DISEASE 1221 1249	Benigní hyperplazie prostaty
+T25	DISEASE 1336 1360	Stabilní angina pectoris
+T35	DISEASE 2009 2022	kardiomegalie
+T31	DISEASE 2383 2398	plicní krvácení
+T32	DISEASE 2648 2667	alveolární krvácení
+T14	DISEASE 2905 2918	kardiomegalii
+T36	DISEASE 2939 2954	srdeční selhání
+T51	DISEASE 3001 3010	pneumonii
+T41	DISEASE 3472 3494	hluboké žilní trombózy
+T15	DISEASE 3496 3499	HŽT
+T43	DISEASE 3525 3539	fibrilace síní
+T45	DISEASE 3969 3986	pleurální výpotek
+T17	DISEASE 4327 4368	lcerovaný plát v levé společné ilické ose
+T18	DISEASE 4505 4526	LK středně dilatovaná
+T19	DISEASE 4536 4555	PK mírně dilatovaná
+T20	DISEASE 4626 4646	mitrální regurgitace
+T86	DISEASE 4691 4734	centrální 2/4 IT s mírnou plicní hypertenzí
+T87	DISEASE 4736 4739	PHT
+T46	DISEASE 4742 4805	Sklerokalcifikovaná aortální chlopeň s těžkou aortální stenózou
+T88	DISEASE 4898 4918	aortální regurgitace
+T47	DISEASE 4982 5003	perikardiální výpotek
+T90	DISEASE 5094 5173	mírně kalcifikovaná aortální chlopeň s těžkou stenózou a centrální insuficiencí
+T92	DISEASE 5309 5338	insuficience mitrální chlopně
+T91	DISEASE 5351 5385	insuficience trikuspidální chlopně
+T48	DISEASE 5442 5463	perikardiální výpotek
+T37	DISEASE 5895 5925	dekompenzaci srdečního selhání
+T33	DISEASE 6119 6138	alveolární krvácení
+T49	DISEASE 6314 6321	infekce
+T57	DISEASE 6353 6383	dekompenzace srdečního selhání
+T96	DISEASE 6395 6417	těžké aortální stenózy
+T39	DISEASE 7551 7581	dekompenzaci srdečního selhání
+T58	DISEASE 7793 7862	Symptomatická těžká aortální stenóza s dekompenzací srdečního selhání
+T34	DISEASE 7864 7922	Difuzní alveolární krvácení sekundární k srdečnímu selhání
+T40	DISEASE 8081 8112	Mírná trikuspidální regurgitace
+T103	DISEASE 8120 8123	PHT
+T24	DISEASE 8134 8170	chronická ischemická choroba srdeční
+T104	DISEASE 8172 8198	LMCA a třícívní onemocnění
+T44	DISEASE 8316 8337	Trvalá fibrilace síní
+T106	DISEASE 8339 8343	FiSi
+T108	DISEASE 8416 8419	AHT
+T109	DISEASE 8421 8433	Dyslipidemie

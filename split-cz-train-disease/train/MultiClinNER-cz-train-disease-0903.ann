@@ -1,0 +1,23 @@
+T1	DISEASE 147 160	paréza jazyka
+T9	DISEASE 165 182	ochrnutí obličeje
+T2	DISEASE 212 234	Steinertovým syndromem
+T38	DISEASE 407 439	kompletní blokády levého raménka
+T28	DISEASE 441 445	BLTR
+T3	DISEASE 486 499	poruch vedení
+T44	DISEASE 614 621	synkopu
+T43	DISEASE 623 633	presynkopu
+T15	DISEASE 768 772	BCRI
+T4	DISEASE 883 917	změny v intraventrikulárním vedení
+T10	DISEASE 981 987	anémie
+T6	DISEASE 992 1002	leukopenie
+T7	DISEASE 1004 1019	Trombocytopenie
+T8	DISEASE 1172 1186	ztluštění cípů
+T36	DISEASE 1213 1225	insuficience
+T11	DISEASE 1504 1529	trikuspidální regurgitace
+T42	DISEASE 1656 1675	plicní insuficience
+T12	DISEASE 1721 1742	perikardiální výpotek
+T13	DISEASE 1855 1872	pleurální výpotek
+T29	DISEASE 1974 1987	poruch vedení
+T41	DISEASE 2034 2065	strukturálním onemocněním srdce
+T14	DISEASE 2077 2115	Steinertova choroba s poruchami vedení
+#T15	AnnotatorNotes T15	? neznámá zkratka

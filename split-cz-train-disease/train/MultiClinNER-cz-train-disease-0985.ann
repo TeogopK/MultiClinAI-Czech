@@ -1,0 +1,33 @@
+T1	DISEASE 104 114	hypertenze
+T2	DISEASE 116 118	HT
+T18	DISEASE 121 126	kuřák
+T19	DISEASE 134 151	diabetes mellitus
+T20	DISEASE 153 155	DM
+T21	DISEASE 164 176	dyslipidémie
+T22	DISEASE 178 180	DL
+T3	DISEASE 221 271	zotavení z mimonemocniční kardiorespirační zástavy
+T4	DISEASE 273 276	CRA
+T25	DISEASE 302 317	fibrilace komor
+T6	DISEASE 582 604	koronárního vazospazmu
+T8	DISEASE 826 874	akutní koronární syndrom bez elevace ST segmentu
+T9	DISEASE 876 883	NSTEACS
+T10	DISEASE 1522 1540	mimonemocniční CRA
+T11	DISEASE 1676 1679	KPR
+T14	DISEASE 1828 1846	komorová fibrilace
+T28	DISEASE 2566 2580	fibrilace síní
+T32	DISEASE 2802 2819	Prodloužení aorty
+T29	DISEASE 2994 3011	pleurální výpotek
+T24	DISEASE 3137 3139	dl
+T61	DISEASE 3522 3544	chlopenní srdeční vada
+T30	DISEASE 3552 3573	perikardiální výpotek
+T26	DISEASE 4169 4184	fibrilace komor
+T67	DISEASE 4319 4330	asystolický
+T68	DISEASE 4740 4762	komorových extrasystol
+T35	DISEASE 4831 4864	extrasystola s fenoménem R-over-T
+T69	DISEASE 4884 4902	komorové fibrilace
+T33	DISEASE 4914 4985	Mimonemocniční kardiorespirační zástava s prvním rytmem fibrilace komor
+T31	DISEASE 4994 5000	MINOCA
+T70	DISEASE 5002 5080	akutní infarkt myokardu s koronárními tepnami bez významných obstrukčních lézí
+T27	DISEASE 5113 5135	koronárním vazospazmem
+T34	DISEASE 5148 5172	kardiorespirační zástava
+T72	DISEASE 5232 5250	komorové fibrilace

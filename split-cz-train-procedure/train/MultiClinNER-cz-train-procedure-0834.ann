@@ -1,0 +1,29 @@
+T54	PROCEDURE 0 8	ANAMNÉZA
+T31	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T71	PROCEDURE 67 83	Rodinná anamnéza
+T72	PROCEDURE 185 200	Osobní anamnéza
+T73	PROCEDURE 483 491	anamnéza
+T102	PROCEDURE 565 585	magnetické rezonance
+T74	PROCEDURE 588 610	Kardiologická anamnéza
+T1	PROCEDURE 706 722	test na ischemii
+T25	PROCEDURE 807 826	srdeční katetrizace
+T3	PROCEDURE 1038 1086	perkutánní revaskularizace dvěma lékovými stenty
+T27	PROCEDURE 1305 1337	Předoperační srdeční katetrizace
+T6	PROCEDURE 1468 1496	intravaskulárního ultrazvuku
+T28	PROCEDURE 1498 1502	IVUS
+T61	PROCEDURE 1774 1799	Kardiochirurgická operace
+T29	PROCEDURE 1814 1859	náhrada aortální chlopně mechanickou protézou
+T30	PROCEDURE 1877 1909	bypass levé mamární tepny na RIA
+T32	PROCEDURE 2337 2356	FYZIKÁLNÍ VYŠETŘENÍ
+T33	PROCEDURE 2596 2612	Auskultace srdce
+T65	PROCEDURE 2652 2669	Plicní auskultace
+T34	PROCEDURE 2924 2941	ELEKTROKARDIOGRAM
+T35	PROCEDURE 2943 2946	EKG
+T39	PROCEDURE 3055 3076	laboratorní vyšetření
+T38	PROCEDURE 3111 3124	funkce ledvin
+T37	PROCEDURE 3249 3261	Transaminázy
+T36	PROCEDURE 3359 3389	léčba snižující hladinu lipidů
+T110	PROCEDURE 3844 3853	sledování
+T93	PROCEDURE 3971 3992	hypolipidemická léčba
+T108	PROCEDURE 4191 4233	revaskularizovaná perkutánně a chirurgicky
+T40	PROCEDURE 4328 4374	náhradou aortální chlopně mechanickou protézou

@@ -1,0 +1,22 @@
+T14	DISEASE 146 160	lékové alergie
+T61	DISEASE 325 330	úrazu
+T57	DISEASE 388 395	synkopu
+T55	DISEASE 1347 1366	pleurálního výpotku
+T17	DISEASE 1823 1829	BCRDHH
+T2	DISEASE 1831 1834	IAH
+T22	DISEASE 1837 1855	biaurikulární růst
+T18	DISEASE 1960 1993	Defekt atrioventrikulárního septa
+T35	DISEASE 2043 2097	defekt komorového septa s uzavírajícím se aneuryzmatem
+T3	DISEASE 2099 2147	Široký defekt přívodného septa a ostium secundum
+T4	DISEASE 2149 2164	Levopravý zkrat
+T19	DISEASE 2199 2214	cor triatriatum
+T56	DISEASE 2394 2416	rozšířená pravá komora
+T21	DISEASE 2853 2896	Pravá AV chlopeň s defektem koaptace lístků
+T15	DISEASE 2898 2934	Středně těžká centrální insuficience
+T16	DISEASE 3039 3060	perikardiální výpotek
+T5	DISEASE 3160 3195	široký defekt interatriálního septa
+T20	DISEASE 3676 3691	Cor triatriatum
+T6	DISEASE 3692 3750	Částečný atrioventrikulární defekt (typ ASD ostium primum)
+#T17	AnnotatorNotes T17	? neznámá zkratka
+#T2	AnnotatorNotes T2	? neznámá zkratka
+#T22	AnnotatorNotes T22	? neznámý pojem

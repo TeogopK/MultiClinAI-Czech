@@ -1,0 +1,17 @@
+T5	PROCEDURE 263 279	vyšetření břicha
+T6	PROCEDURE 401 422	zobrazovací vyšetření
+T1	PROCEDURE 424 440	ultrazvuk břicha
+T8	PROCEDURE 442 458	rentgen hrudníku
+T7	PROCEDURE 460 480	descendentní urogram
+T2	PROCEDURE 483 512	počítačová axiální tomografie
+T10	PROCEDURE 517 535	rentgenovém snímku
+T11	PROCEDURE 607 632	zobrazovacích vyšetřeních
+T9	PROCEDURE 901 912	chirurgické
+T12	PROCEDURE 913 969	excizi torakoabdominální cestou se sevřením hrudní aorty
+T4	PROCEDURE 1014 1028	resekce nádoru
+T13	PROCEDURE 1044 1067	levostranná nefrektomie
+T3	PROCEDURE 1070 1120	en bloc splenektomie se svazky hilových adenopatií
+T14	PROCEDURE 1123 1139	Excidovaný nádor
+T18	PROCEDURE 1205 1228	Makroskopické vyšetření
+T15	PROCEDURE 1369 1391	Histologické vyšetření
+T17	PROCEDURE 1503 1510	operaci

@@ -1,0 +1,49 @@
+T38	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 269 284	revaskularizaci
+T41	PROCEDURE 299 314	cévní chirurgie
+T42	PROCEDURE 451 465	koronarografie
+T8	PROCEDURE 525 539	koronarografií
+T40	PROCEDURE 718 746	Echokardiografické vyšetření
+T47	PROCEDURE 783 810	chirurgická revaskularizace
+T61	PROCEDURE 813 953	bypassem vnitřní mamární tepny do přední sestupné tepny, podkožní tepny do obtuzní marginální tepny a podkožní tepny do zadní sestupné tepny
+T48	PROCEDURE 1009 1049	implantace jednokomorového defibrilátoru
+T39	PROCEDURE 1670 1689	Fyzikální vyšetření
+T49	PROCEDURE 2113 2139	Rentgenový snímek hrudníku
+T51	PROCEDURE 2141 2158	elektrokardiogram
+T63	PROCEDURE 2161 2173	krevní testy
+T64	PROCEDURE 2220 2233	funkci ledvin
+T60	PROCEDURE 2244 2249	ionty
+T65	PROCEDURE 2267 2287	srdečních biomarkerů
+T45	PROCEDURE 2298 2327	transtorakálny echokardiogram
+T50	PROCEDURE 2443 2469	Rentgenový snímek hrudníku
+T52	PROCEDURE 2601 2618	Elektrokardiogram
+T59	PROCEDURE 2861 2870	koagulace
+T46	PROCEDURE 3067 3081	Echokardiogram
+T43	PROCEDURE 3813 3827	Koronarografie
+T75	PROCEDURE 4423 4440	Adenosinový SPECT
+T76	PROCEDURE 4886 4901	antialdosteronu
+T44	PROCEDURE 5060 5074	koronarografie
+T77	PROCEDURE 5092 5173	patentní bypassy z mamární do přední sestupné a ze safény do obtuózní okrajové 1a
+T78	PROCEDURE 5193 5231	uzávěr safény na pravé koronární tepně
+T79	PROCEDURE 5370 5397	test viability pomocí SPECT
+T80	PROCEDURE 5720 5729	inzulinem
+T81	PROCEDURE 5836 5858	resynchronizační léčbu
+T53	PROCEDURE 5893 5903	venografie
+T83	PROCEDURE 6159 6175	angioplastických
+T82	PROCEDURE 6191 6245	srdeční resynchronizační terapii perkutánním přístupem
+T55	PROCEDURE 6419 6428	diuretika
+T85	PROCEDURE 6573 6592	transplantaci srdce
+T86	PROCEDURE 6609 6634	katetrizace pravého srdce
+T54	PROCEDURE 6726 6741	ergospirometrie
+T90	PROCEDURE 6926 6945	transplantaci srdce
+T91	PROCEDURE 7201 7229	renálních a iontových funkcí
+T56	PROCEDURE 7375 7384	diuretika
+T92	PROCEDURE 7406 7428	resynchronizační léčba
+T57	PROCEDURE 7506 7549	implantace elektrod do epikardu levé komory
+T93	PROCEDURE 7557 7584	kardiochirurgického zákroku
+T95	PROCEDURE 7769 7810	pravostranného saféno-koronárního bypassu
+T96	PROCEDURE 7876 7893	mitrální reparaci
+T58	PROCEDURE 7901 7917	koronární bypass
+T98	PROCEDURE 8028 8049	implantace Mitraclipu
+T100	PROCEDURE 8432 8475	bypassu ze safény na pravou koronární tepnu
+T101	PROCEDURE 8489 8566	bypassem z mammy na přední sestupnou tepnu a ze safény na první obtuzní okraj

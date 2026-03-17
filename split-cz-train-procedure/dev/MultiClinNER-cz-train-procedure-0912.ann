@@ -1,0 +1,35 @@
+T9	PROCEDURE 233 252	Fyzikální vyšetření
+T10	PROCEDURE 298 308	Auskultace
+T1	PROCEDURE 571 599	Echokardiografické vyšetření
+T23	PROCEDURE 848 873	odebrány 3 krevní kultury
+T11	PROCEDURE 859 873	krevní kultury
+T26	PROCEDURE 890 911	sérologické vyšetření
+T25	PROCEDURE 928 943	léčba diuretiky
+T12	PROCEDURE 1015 1029	krevní kultury
+T24	PROCEDURE 1063 1081	antibiotické léčbě
+T27	PROCEDURE 1138 1153	operaci chlopně
+T28	PROCEDURE 1155 1207	aortální chlopeň byla nahrazena mechanickou protézou
+T29	PROCEDURE 1210 1240	mitrální chlopeň byla opravena
+T30	PROCEDURE 1242 1259	Kultivace chlopně
+T31	PROCEDURE 1434 1474	anatomicko-patologické vyšetření chlopně
+T13	PROCEDURE 1502 1516	krevní kultury
+T32	PROCEDURE 1601 1619	krevními kulturami
+T14	PROCEDURE 1693 1707	krevní kultury
+T33	PROCEDURE 1757 1775	antibiotická léčba
+T34	PROCEDURE 1781 1808	kultivačním vyšetřením krve
+T16	PROCEDURE 2181 2192	antibiotika
+T35	PROCEDURE 2287 2308	Sérologické vyšetření
+T36	PROCEDURE 2502 2544	empirická širokospektrá antibiotická léčba
+T17	PROCEDURE 2652 2666	kultivace krve
+T38	PROCEDURE 2683 2701	antibiotické léčby
+T15	PROCEDURE 2727 2741	krevní kultury
+T18	PROCEDURE 2812 2826	kultivace krve
+T19	PROCEDURE 2876 2885	sérologie
+T39	PROCEDURE 3292 3316	univerzální 16S rRNA PCR
+T40	PROCEDURE 3413 3423	sekvenován
+T41	PROCEDURE 3627 3667	specifická PCR oblasti hsp65 T. whipplei
+T43	PROCEDURE 3796 3811	krevní kulturou
+T44	PROCEDURE 3821 3835	odebráno sérum
+T45	PROCEDURE 3839 3886	sérologické vyšetření na uvedené mikroorganismy
+T20	PROCEDURE 3973 4002	univerzální PCR genu 16S rRNA
+T47	PROCEDURE 4146 4204	speciálních barvení: Gram, Wartin-Starry (Bartonella), PAS

@@ -1,0 +1,34 @@
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 223 304	implantací tří paklitaxelových stentů do střední a distální pravé koronární tepny
+T5	PROCEDURE 362 466	podruhé dva další stenty (Luc-Chopin®: 3x12 mm a 2,5x12 mm) do proximální přední sestupné (AD) a střední
+T7	PROCEDURE 626 652	perkutanní revaskularizace
+T8	PROCEDURE 655 811	implantací tří everolimus-eluting stentů (XIENCE PRIME®), jednoho do proximálního LAD (3x18 mm) a dvou překrývajících se stentů do středního a distálního DC
+T9	PROCEDURE 896 918	protidestičkovou léčbu
+T29	PROCEDURE 1034 1053	Fyzikální vyšetření
+T30	PROCEDURE 1388 1404	Auskultace srdce
+T31	PROCEDURE 1448 1463	Auskultace plic
+T32	PROCEDURE 1669 1672	EKG
+T48	PROCEDURE 1866 1875	biochemie
+T34	PROCEDURE 2010 2019	Koagulace
+T36	PROCEDURE 2031 2043	Krevní obraz
+T37	PROCEDURE 2234 2246	RTG hrudníku
+T35	PROCEDURE 2317 2345	echokardiografické vyšetření
+T46	PROCEDURE 2590 2627	Urgentní katetrizace (pravá radiální)
+T39	PROCEDURE 2957 2975	PCI s trombektomií
+T15	PROCEDURE 2978 3090	balónkovou PTCA při trombóze středního a distálního DC stentu a při trombóze proximálního a středního LAD stentu
+T50	PROCEDURE 3092 3135	PCI s přímou implantací stentu XIENCE PRIME
+T33	PROCEDURE 3274 3277	EKG
+T38	PROCEDURE 3313 3327	echokardiogram
+T40	PROCEDURE 3445 3459	koronarografie
+T42	PROCEDURE 3576 3588	trombektomie
+T52	PROCEDURE 3591 3659	balónková angioplastika na proximálním LAD a středním a distálním DC
+T54	PROCEDURE 3870 3884	implantaci DES
+T44	PROCEDURE 3958 3979	studie hyperkoagulace
+T41	PROCEDURE 4179 4193	koronarografie
+T57	PROCEDURE 4391 4418	chirurgické revaskularizaci
+T59	PROCEDURE 4441 4494	koronární bypass z vnitřní mamární tepny (IMA) do LAD
+T47	PROCEDURE 4672 4683	katetrizace
+T43	PROCEDURE 4762 4774	Trombektomie
+T61	PROCEDURE 4776 4825	PTCA na středním a distálním DC a proximálním LAD
+T62	PROCEDURE 4827 4925	Implantace stentu potaženého everolimem na úrovni restenózy distálního okraje stentu středního LAD
+T45	PROCEDURE 5038 5083	Chirurgická revaskularizace pomocí IMA do LAD

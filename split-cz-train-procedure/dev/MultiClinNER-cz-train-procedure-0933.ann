@@ -1,0 +1,42 @@
+T37	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 824 880	náhrada chlopně biologickou aortální protézou Magna Ease
+T7	PROCEDURE 1114 1145	gastrektomii podle Billrotha II
+T9	PROCEDURE 1218 1245	radioterapie a chemoterapie
+T30	PROCEDURE 1256 1273	plicní lobektomie
+T10	PROCEDURE 1276 1289	resekce rekta
+T56	PROCEDURE 2240 2261	antitrombotické léčby
+T31	PROCEDURE 2423 2445	orotracheální intubace
+T59	PROCEDURE 2460 2481	mechanickou ventilaci
+T60	PROCEDURE 2580 2635	pravou stehenní žílu zaveden přechodný kardiostimulátor
+T32	PROCEDURE 2648 2662	koronarografie
+T34	PROCEDURE 2772 2785	angioplastika
+T62	PROCEDURE 2788 2824	implantace farmakologického destentu
+T38	PROCEDURE 2922 2941	Fyzikální vyšetření
+T39	PROCEDURE 2969 2991	Neurologické vyšetření
+T40	PROCEDURE 3184 3199	Auskultace plic
+T64	PROCEDURE 3252 3272	Kardiální auskultace
+T65	PROCEDURE 3708 3721	sedoanalgezii
+T41	PROCEDURE 3803 3818	Auskultace plic
+T66	PROCEDURE 3871 3891	Kardiální auskultace
+T67	PROCEDURE 3985 3992	palpaci
+T68	PROCEDURE 4247 4279	CT vyšetření lebky bez kontrastu
+T50	PROCEDURE 4476 4490	biochemie krve
+T42	PROCEDURE 4683 4692	Koagulace
+T43	PROCEDURE 4738 4755	Elektrokardiogram
+T44	PROCEDURE 4757 4760	EKG
+T33	PROCEDURE 4871 4885	koronarografie
+T70	PROCEDURE 4887 4966	Implantace přechodného balónkového kardiostimulátoru přes pravou femorální žílu
+T35	PROCEDURE 5273 5286	angioplastika
+T72	PROCEDURE 5486 5519	implantace zařízení Resolute Onyx
+T45	PROCEDURE 5607 5640	Transezofageální echokardiografie
+T73	PROCEDURE 5705 5725	mechanické ventilaci
+T79	PROCEDURE 6379 6395	Krevní kultivace
+T47	PROCEDURE 6744 6775	transtorakální echokardiografie
+T46	PROCEDURE 6793 6826	transezofageální echokardiografie
+T84	PROCEDURE 6915 6930	krevních kultur
+T85	PROCEDURE 7032 7059	kardiochirurgickým zákrokem
+T87	PROCEDURE 7141 7159	antibiotické léčbě
+T88	PROCEDURE 7161 7170	inotropům
+T89	PROCEDURE 7199 7247	implantaci intraaortální balónkové kontrapulzace
+T48	PROCEDURE 7349 7361	hemofiltrace
+T49	PROCEDURE 7770 7821	primární angioplastika s implantací lékového stentu

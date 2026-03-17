@@ -1,0 +1,37 @@
+T28	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T96	PROCEDURE 190 222	léčený perorálními antidiabetiky
+T2	PROCEDURE 318 361	třícívní léze chirurgicky revaskularizovaná
+T3	PROCEDURE 374 389	endarterektomií
+T4	PROCEDURE 392 445	resekcí endoteliální membrány levého koronárního ústí
+T5	PROCEDURE 448 497	safénovým bypassem do přední sestupné tepny (LAD)
+T9	PROCEDURE 669 825	perkutánními revaskularizacemi: levá hlavní koronární tepna (LMCA), první marginální větev (MB), cirkumflexní bifurkace (Cx)-první MB, pravá koronární tepna
+T10	PROCEDURE 1257 1325	chronickou ischemickou chorobou srdeční, s četnými revaskularizacemi
+T29	PROCEDURE 1865 1884	Fyzikální vyšetření
+T40	PROCEDURE 1885 1899	Životní funkce
+T30	PROCEDURE 2100 2116	Auskultace srdce
+T31	PROCEDURE 2141 2156	Auskultace plic
+T11	PROCEDURE 2270 2277	palpaci
+T12	PROCEDURE 2362 2383	Laboratorní vyšetření
+T17	PROCEDURE 2643 2650	Analýza
+T32	PROCEDURE 2741 2758	Elektrokardiogram
+T33	PROCEDURE 2760 2763	EKG
+T34	PROCEDURE 2900 2903	EKG
+T35	PROCEDURE 2998 3012	Koronarografie
+T41	PROCEDURE 3184 3243	Cx dobrého kalibru a vývoje se stentem ve středním segmentu
+T42	PROCEDURE 3280 3310	stentem v první okrajové větvi
+T44	PROCEDURE 3400 3463	hodnocenou pomocí tlakového vodiče a intrakoronárního adenosinu
+T46	PROCEDURE 3418 3434	tlakového vodiče
+T45	PROCEDURE 3437 3463	intrakoronárního adenosinu
+T48	PROCEDURE 3587 3650	hodnoceným pomocí tlakového vodiče a intrakoronárního adenosinu
+T49	PROCEDURE 3605 3621	tlakového vodiče
+T50	PROCEDURE 3624 3650	intrakoronárního adenosinu
+T37	PROCEDURE 3763 3777	Echokardiogram
+T53	PROCEDURE 4106 4128	antianginózní medikace
+T36	PROCEDURE 4157 4171	koronarografie
+T55	PROCEDURE 4207 4288	1. MVO (hodnoceno tlakovým vodičem), která byla revaskularizována lékovým stentem
+T56	PROCEDURE 4215 4241	hodnoceno tlakovým vodičem
+T57	PROCEDURE 4676 4689	agonisty GLP1
+T91	PROCEDURE 4897 4919	kardiální rehabilitace
+T38	PROCEDURE 5112 5232	OM hodnocená tlakovým vodičem (FFR 0,77) revaskularizovaná perkutánně pomocí farmakologického destentingového implantátu
+T60	PROCEDURE 5125 5141	tlakovým vodičem
+T39	PROCEDURE 5290 5372	Komplexní chronická ischemická choroba srdeční, revaskularizovaná ve smíšené formě

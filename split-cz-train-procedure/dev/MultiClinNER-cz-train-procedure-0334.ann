@@ -1,0 +1,15 @@
+T7	PROCEDURE 68 91	ultrazvukovém vyšetření
+T5	PROCEDURE 242 264	Radiologické vyšetření
+T1	PROCEDURE 265 280	PA a L hrudníku
+T2	PROCEDURE 378 387	CT břicha
+T8	PROCEDURE 563 579	podání kontrastu
+T9	PROCEDURE 933 944	Kostní scan
+T6	PROCEDURE 1187 1212	nefrektomie vpravo nahoře
+T10	PROCEDURE 1309 1317	resekční
+T16	PROCEDURE 1347 1369	anatomické patologické
+T11	PROCEDURE 1446 1474	Imunohistochemické vyšetření
+T12	PROCEDURE 1874 1901	CT vyšetření krční a hrudní
+T3	PROCEDURE 2251 2322	totální tyreoidektomie a vyprázdnění funkčních lymfatických uzlin vlevo
+T4	PROCEDURE 2325 2346	totální laryngektomie
+T13	PROCEDURE 2348 2366	Anatomopatologická
+T14	PROCEDURE 2477 2509	sezení s ablační dávkou jódu-131

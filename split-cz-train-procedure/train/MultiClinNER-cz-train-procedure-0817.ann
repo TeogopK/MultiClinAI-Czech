@@ -1,0 +1,26 @@
+T21	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T22	PROCEDURE 387 406	Fyzikální vyšetření
+T23	PROCEDURE 895 912	Elektrokardiogram
+T24	PROCEDURE 914 917	EKG
+T27	PROCEDURE 1188 1197	koagulace
+T4	PROCEDURE 1199 1213	renální funkce
+T28	PROCEDURE 1216 1221	ionty
+T29	PROCEDURE 1231 1257	Markery poškození myokardu
+T30	PROCEDURE 1334 1353	Srdeční katetrizace
+T31	PROCEDURE 1488 1517	Transtorakální echokardiogram
+T32	PROCEDURE 1691 1703	RTG hrudníku
+T36	PROCEDURE 1841 1852	CT hrudníku
+T25	PROCEDURE 1955 1958	EKG
+T34	PROCEDURE 2112 2126	koronarografie
+T35	PROCEDURE 2239 2252	angioplastika
+T26	PROCEDURE 2387 2390	EKG
+T38	PROCEDURE 2462 2490	echokardiografické vyšetření
+T39	PROCEDURE 2625 2649	kardiovaskulární operaci
+T33	PROCEDURE 2651 2677	Rentgenový snímek hrudníku
+T40	PROCEDURE 2774 2785	CT hrudníku
+T44	PROCEDURE 3105 3132	uzavřením krčku aneuryzmatu
+T46	PROCEDURE 3134 3161	umístěním dakronové záplaty
+T47	PROCEDURE 3164 3199	prolenové výztuže na okraji ruptury
+T48	PROCEDURE 3382 3398	inotropních léků
+T37	PROCEDURE 3435 3449	echokardiogram
+T52	PROCEDURE 3762 3780	chirurgické řešení

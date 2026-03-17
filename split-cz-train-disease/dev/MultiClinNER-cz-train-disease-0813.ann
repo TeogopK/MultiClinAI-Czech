@@ -1,0 +1,63 @@
+T1	DISEASE 99 110	náhlé úmrtí
+T167	DISEASE 127 154	ischemickou chorobu srdeční
+T71	DISEASE 236 244	COVID-19
+T73	DISEASE 259 273	lékové alergie
+T74	DISEASE 292 314	astmatická bronchitida
+T2	DISEASE 316 332	thalasemie minor
+T75	DISEASE 357 373	infekce COVID-19
+T77	DISEASE 381 388	infekce
+T79	DISEASE 416 430	Toxické návyky
+T80	DISEASE 432 447	aktivní kouření
+T81	DISEASE 467 492	každodenní užívání konopí
+T124	DISEASE 1872 1887	anginu pectoris
+T153	DISEASE 2734 2756	hluboké žilní trombózy
+T82	DISEASE 4282 4313	Apikální intrakavitární trombus
+T83	DISEASE 4477 4503	trikuspidální insuficience
+T5	DISEASE 4516 4531	chlopenních vad
+T102	DISEASE 4888 4929	léze o délce asi 5 mm, která zužuje lumen
+T6	DISEASE 4958 4971	měkkým plakem
+T85	DISEASE 5379 5403	trombus v srdečním hrotu
+T86	DISEASE 5411 5432	perikardiální výpotek
+T8	DISEASE 5518 5573	LAD: normálně vyvinutá, s excentrickou fokální stenózou
+T9	DISEASE 5640 5659	parietálnímu trombu
+T10	DISEASE 5725 5742	embolizaci trombu
+T196	DISEASE 5882 5889	trombem
+T12	DISEASE 6043 6125	Přední sestupná tepna dobrého kalibru a vývoje s angiograficky mírnou ateromatózou
+T200	DISEASE 6260 6266	trombu
+T13	DISEASE 6346 6450	lipidového plaku ve střední části LAD, s tenkovrstevným fibroateromem a velmi fokální intimální rupturou
+T201	DISEASE 6558 6564	trombu
+T89	DISEASE 6730 6737	trombus
+T15	DISEASE 6798 6846	CD provedeno z důvodu ostiálního spasmu katétrem
+T16	DISEASE 6855 6968	apikální infarkt sekundárně v důsledku trombotické léze ve střední části LAD s embolizací trombu do distální cévy
+T91	DISEASE 6945 6968	trombu do distální cévy
+T17	DISEASE 7009 7052	koronární embolie z trombu v apexu LK do DC
+T165	DISEASE 7279 7302	intrakavitárním trombem
+T84	DISEASE 7478 7504	trikuspidální insuficience
+T18	DISEASE 7517 7532	chlopenních vad
+T92	DISEASE 7555 7572	plicní hypertenze
+T19	DISEASE 7593 7615	perikardiální tekutiny
+T20	DISEASE 7821 7845	virovou myoperikarditidu
+T164	DISEASE 7943 7966	intrakavitárního trombu
+T24	DISEASE 8250 8283	středně závažnou lézi v tepně LAD
+T25	DISEASE 8310 8333	intrakoronární trombózu
+T26	DISEASE 8349 8415	aterosklerotických lézí ve střední a distální LAD a proximální RCA
+T94	DISEASE 8473 8492	protrombotický stav
+T175	DISEASE 8504 8511	kuřačka
+T161	DISEASE 8557 8574	infekcí SARS-CoV2
+T190	DISEASE 9045 9068	perikardiálního výpotku
+T96	DISEASE 9085 9109	bakteriální superinfekce
+T28	DISEASE 9407 9434	předchozí tromby v LAD a DC
+T29	DISEASE 9450 9550	lipidový plát ve střední části LAD s tenkovrstevným fibroateromem a velmi fokální intimální rupturou
+T32	DISEASE 9710 9735	léze ve střední části LAD
+T97	DISEASE 9815 9833	trombus ve vrcholu
+T34	DISEASE 10168 10181	trombofilního
+T174	DISEASE 10217 10223	kouřit
+T98	DISEASE 10292 10309	infekce SARS-CoV2
+T99	DISEASE 10382 10423	Akutní perikarditida způsobená SARS-CoV-2
+T35	DISEASE 10425 10469	Akutní koronární syndrom předního typu STEMI
+T36	DISEASE 10471 10512	trombóza ve střední přední sestupné tepně
+T37	DISEASE 10536 10575	ateromového plátu s distální embolizací
+T100	DISEASE 10577 10629	Embolický infarkt v proximální pravé koronární tepně
+T101	DISEASE 10691 10711	ateromatózní stenózy
+T47	DISEASE 10732 10749	apikálním trombem
+T54	DISEASE 10814 10825	trombofilii

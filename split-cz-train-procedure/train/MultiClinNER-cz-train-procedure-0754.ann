@@ -1,0 +1,25 @@
+T76	PROCEDURE 269 281	radioterapii
+T26	PROCEDURE 576 593	elektrokardiogram
+T27	PROCEDURE 595 598	EKG
+T44	PROCEDURE 842 864	primární angioplastiku
+T37	PROCEDURE 1042 1053	katetrizace
+T28	PROCEDURE 1126 1129	EKG
+T30	PROCEDURE 1131 1150	Fyzikální vyšetření
+T40	PROCEDURE 1436 1453	Laboratorní testy
+T31	PROCEDURE 1623 1639	Echokardiografie
+T29	PROCEDURE 1951 1954	EKG
+T38	PROCEDURE 2100 2132	Kultivace perikardiální tekutiny
+T32	PROCEDURE 2135 2146	hemokultury
+T33	PROCEDURE 2176 2200	CT hrudníku s kontrastem
+T34	PROCEDURE 2554 2561	CT krku
+T4	PROCEDURE 2951 2982	terapeutickou perikardiocentézu
+T43	PROCEDURE 3199 3230	CT vyšetřením hrudníku a břicha
+T68	PROCEDURE 3341 3350	kultivaci
+T58	PROCEDURE 3482 3489	drenáži
+T8	PROCEDURE 3647 3678	intravenózní antibiotická léčba
+T9	PROCEDURE 3715 3727	antibiogramu
+T59	PROCEDURE 3744 3770	kompletní drenáži tekutiny
+T49	PROCEDURE 3792 3810	antibiotické léčbě
+T35	PROCEDURE 3867 3893	Urgentní perikardiocentéza
+T5	PROCEDURE 3896 3914	perikardiální okno
+T36	PROCEDURE 3966 3978	torakoskopie

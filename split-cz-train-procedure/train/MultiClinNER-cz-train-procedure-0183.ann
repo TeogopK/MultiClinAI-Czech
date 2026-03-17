@@ -1,0 +1,12 @@
+T3	PROCEDURE 221 232	laparotomie
+T4	PROCEDURE 237 263	diagnostickou laparoskopii
+T5	PROCEDURE 343 399	počítačovou tomografií s žilním a arteriálním kontrastem
+T8	PROCEDURE 553 562	analgetik
+T1	PROCEDURE 727 746	Fyzikální vyšetření
+T13	PROCEDURE 1063 1090	povrchové i hluboké palpaci
+T2	PROCEDURE 1171 1190	fyzikální vyšetření
+T6	PROCEDURE 1372 1379	opioidy
+T15	PROCEDURE 1469 1487	antagonisté kalcia
+T16	PROCEDURE 1489 1496	nitráty
+T18	PROCEDURE 1631 1644	antikoagulaci
+T7	PROCEDURE 1681 1704	protidestičkových látek

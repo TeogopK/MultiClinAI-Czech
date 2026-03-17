@@ -1,0 +1,36 @@
+T1	SYMPTOM 125 143	kognitivní poruchy
+T20	SYMPTOM 717 734	námahové dušnosti
+T2	SYMPTOM 737 745	ortopnoe
+T21	SYMPTOM 773 781	anorexií
+T22	SYMPTOM 783 790	astenií
+T23	SYMPTOM 793 802	závratěmi
+T24	SYMPTOM 873 880	horečku
+T3	SYMPTOM 902 911	palpitace
+T25	SYMPTOM 1039 1064	zvýšená náplň krčních žil
+T26	SYMPTOM 1134 1157	Pravidelná srdeční akce
+T4	SYMPTOM 1162 1169	šelestů
+T27	SYMPTOM 1222 1243	vlhké chrůpky basálně
+T28	SYMPTOM 1245 1287	Otoky s oboustranným pretibiálními důlkama
+T5	SYMPTOM 1359 1374	sinusový rytmus
+T7	SYMPTOM 1392 1403	normální PR
+T29	SYMPTOM 1442 1478	sekundárními repolarizačními změnami
+T30	SYMPTOM 1529 1560	kardiotorakální index nezvýšen,
+T8	SYMPTOM 1561 1594	oboustranné perihilární ztluštění
+T31	SYMPTOM 1597 1615	cévní redistribucí
+T32	SYMPTOM 2131 2187	levá komora nedilatovaná ani hypertrofická, normofunkční
+T33	SYMPTOM 2190 2250	hypokinezí bazálního a mediálního inferolaterálního segmentu
+T9	SYMPTOM 2296 2317	Nedilatovaná levá síň
+T34	SYMPTOM 2319 2340	Normální pravá komora
+T10	SYMPTOM 2342 2367	Normální mitrální chlopeň
+T35	SYMPTOM 2568 2599	Dolní dutá žíla není dilatovaná
+T36	SYMPTOM 2647 2712	levá komora normální velikosti, s mírně zvětšenou tloušťkou stěny
+T12	SYMPTOM 3213 3245	CD68 pozitivní a HLA-1 pozitivní
+T13	SYMPTOM 3289 3302	CD3 negativní
+T6	SYMPTOM 3410 3425	sinusový rytmus
+T37	SYMPTOM 3444 3456	normálním PR
+T38	SYMPTOM 3459 3486	normálně uloženým úzkým QRS
+T39	SYMPTOM 4174 4190	metylprednisolon
+T41	SYMPTOM 4322 4350	elektrokardiografických změn
+T40	SYMPTOM 4574 4607	zachovalou biventrikulární funkci
+T11	SYMPTOM 4693 4697	edém
+T44	SYMPTOM 5398 5423	normálním EKG a troponiny

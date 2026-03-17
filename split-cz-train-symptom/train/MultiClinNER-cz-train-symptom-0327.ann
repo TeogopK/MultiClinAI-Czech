@@ -1,0 +1,19 @@
+T10	SYMPTOM 110 184	meningokokem typu B, který byl izolován v kultuře krve a mozkomíšního moku
+T1	SYMPTOM 350 358	horečkou
+T11	SYMPTOM 417 435	infekčního ložiska
+T2	SYMPTOM 632 654	hemodynamicky stabilní
+T3	SYMPTOM 657 680	v dobrém celkovém stavu
+T4	SYMPTOM 682 689	horečku
+T12	SYMPTOM 855 890	neurologické vyšetření bylo v normě
+T14	SYMPTOM 1085 1209	Sérologické vyšetření na virus hepatitidy B a C, HIV, EBV, CMV, HSV typ 1 a 2, Coxiella burnetti a rickettsie bylo negativní
+T13	SYMPTOM 1211 1297	autoimunita s ANA, ANCA, revmatoidní faktor, imunoglobuliny a komplement byly normální
+T15	SYMPTOM 1314 1346	Mantouxova reakce byla negativní
+T16	SYMPTOM 1348 1432	kultivace krve přes centrální katétr, periferní krve a moči byly opakovaně negativní
+T5	SYMPTOM 1483 1494	proteinurie
+T17	SYMPTOM 1552 1661	Vyšetření fundu, elektrokardiogram, echokardiografie a CT hrudníku a břicha s kontrastem byly rovněž normální
+T18	SYMPTOM 1727 1765	generalizované meningeální vychytávání
+T7	SYMPTOM 1995 2030	vychytáváním prstencového kontrastu
+T6	SYMPTOM 2045 2067	perilesionálním edémem
+T8	SYMPTOM 2565 2584	febrilních příznaků
+T9	SYMPTOM 2870 2877	horečky
+T19	SYMPTOM 2903 2924	normalizaci CRP a ESR

@@ -1,0 +1,31 @@
+T26	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 437 493	třícípou koronární chorobou opakovaně revaskularizovanou
+T4	PROCEDURE 529 591	dolní věnčité tepny revaskularizovaným primární angioplastikou
+T15	PROCEDURE 705 842	perkutánní revaskularizace pomocí stentů uvolňujících léčiva v přední sestupné (DA), nativní pravé věnčité (CD) a cirkumflexní (Cx) tepně
+T33	PROCEDURE 867 892	revaskularizačnímu výkonu
+T40	PROCEDURE 1022 1039	implantaci stentu
+T42	PROCEDURE 1218 1237	antianginózní léčbu
+T44	PROCEDURE 1648 1664	léčen inhalátory
+T75	PROCEDURE 1666 1682	domácím kyslíkem
+T35	PROCEDURE 1707 1711	CPAP
+T28	PROCEDURE 1750 1803	amputace 4. a 5. levého metatarzofalangeálního kloubu
+T46	PROCEDURE 1998 2005	opioidů
+T27	PROCEDURE 2007 2026	Fyzikální vyšetření
+T38	PROCEDURE 2080 2094	Životní funkce
+T39	PROCEDURE 2153 2155	GN
+T29	PROCEDURE 2177 2204	Kardiopulmonální auskultace
+T30	PROCEDURE 2442 2445	EKG
+T50	PROCEDURE 2609 2621	Krevní testy
+T31	PROCEDURE 2790 2804	Echokardiogram
+T32	PROCEDURE 3293 3307	Koronarografie
+T99	PROCEDURE 3467 3482	revaskularizaci
+T53	PROCEDURE 3510 3539	lokální léčba diabetické nohy
+T37	PROCEDURE 3550 3569	antibiotický cyklus
+T55	PROCEDURE 3582 3604	antianginózní medikace
+T57	PROCEDURE 3746 3759	analgetického
+T34	PROCEDURE 4174 4276	léčba míšní stimulací pomocí dvou zadních epidurálních elektrod v krční (C7-T4), resp. bederní (T9-L2)
+T59	PROCEDURE 4368 4424	generátor umístěn do podkožní kapsy v úrovni levého boku
+T64	PROCEDURE 4649 4714	smíšenou perkutánní a chirurgickou revaskularizací třícípé nemoci
+T65	PROCEDURE 4868 4895	chronickým domácím kyslíkem
+T36	PROCEDURE 4904 4908	CPAP
+T66	PROCEDURE 5062 5092	levé infrapopliteální amputace

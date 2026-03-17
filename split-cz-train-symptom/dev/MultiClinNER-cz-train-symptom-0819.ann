@@ -1,0 +1,78 @@
+T1	SYMPTOM 507 514	závratě
+T25	SYMPTOM 526 539	ztrátou zraku
+T175	SYMPTOM 628 643	ztratila vědomí
+T2	SYMPTOM 694 710	uvolnění svěračů
+T26	SYMPTOM 716 741	tonicko-klonických pohybů
+T27	SYMPTOM 818 836	synkopální epizody
+T3	SYMPTOM 842 851	palpitace
+T28	SYMPTOM 874 896	Celkový zdravotní stav
+T86	SYMPTOM 898 915	Dobře hydratovaná
+T150	SYMPTOM 918 930	perfundovaná
+T4	SYMPTOM 951 968	Eupnoický v klidu
+T5	SYMPTOM 1084 1097	krční pulzace
+T6	SYMPTOM 1117 1141	akce srdeční: pravidelná
+T178	SYMPTOM 1169 1176	šelesty
+T117	SYMPTOM 1181 1203	slyšitelné extratonusy
+T7	SYMPTOM 1222 1240	alveolární dýchání
+T8	SYMPTOM 1242 1268	Břicho: měkké, nebolestivé
+T176	SYMPTOM 1274 1280	útvarů
+T139	SYMPTOM 1286 1301	zvětšení orgánů
+T133	SYMPTOM 1303 1331	Dolní končetiny: žádné otoky
+T85	SYMPTOM 1391 1432	Distální pulzy jsou přítomny a symetrické
+T10	SYMPTOM 1494 1506	normální osa
+T29	SYMPTOM 1508 1517	krátký PR
+T30	SYMPTOM 1542 1607	pozitivní delta vlna v I, dolní frontě a z V1-V6, negativní v avL
+T12	SYMPTOM 1610 1620	široké QRS
+T33	SYMPTOM 1675 1709	s výraznými repolarizačními změnam
+T31	SYMPTOM 1713 1727	podrovnáním ST
+T32	SYMPTOM 1730 1774	negativními vlnami T ve II, III, aVF a V1-V6
+T145	SYMPTOM 1790 1820	normální kardiotorakální index
+T34	SYMPTOM 1848 1858	kondenzaci
+T35	SYMPTOM 1860 1884	volné kostofrenické úhly
+T13	SYMPTOM 1886 1911	Normální plicní parenchym
+T125	SYMPTOM 2069 2082	ionty v normě
+T124	SYMPTOM 2084 2137	Hepatobiliární profil a hormony štítné žlázy normální
+T136	SYMPTOM 2169 2196	levá komora není dilatovaná
+T90	SYMPTOM 2450 2471	LVEF na hranici normy
+T36	SYMPTOM 2565 2594	normální transmitrální vzorec
+T148	SYMPTOM 2744 2805	Pravá komora normální velikosti s normální systolickou funkcí
+T14	SYMPTOM 2821 2838	Normální levá síň
+T15	SYMPTOM 2840 2858	Normální pravá síň
+T37	SYMPTOM 2860 2890	Normální velikost hrudní aorty
+T16	SYMPTOM 2912 2944	Perikard bez relevantních nálezů
+T9	SYMPTOM 2952 2984	intrakavitální útvary ani tromby
+T17	SYMPTOM 3173 3188	bolest na hrudi
+T113	SYMPTOM 3194 3201	dušnost
+T156	SYMPTOM 3312 3348	sekundárními repolarizačními změnami
+T154	SYMPTOM 3412 3431	repolarizační změny
+T38	SYMPTOM 3505 3525	repolarizačních změn
+T18	SYMPTOM 3777 3779	RS
+T164	SYMPTOM 3869 3883	junkční rytmus
+T173	SYMPTOM 4189 4236	Globální a segmentální pohyblivost je zachována
+T39	SYMPTOM 4421 4567	Hluboké krypty se nacházely na dolním spojení obou komor, další ve středním anteroseptálním segmentu a třetí na úrovni apikálního dolního segmentu
+T40	SYMPTOM 4569 4650	Pravá komora nebyla ani dilatovaná, ani hypertrofická, s výraznou hypertrabekulou
+T174	SYMPTOM 4652 4696	Globální a segmentální pohyblivost zachována
+T19	SYMPTOM 4741 4768	síně mají normální velikost
+T20	SYMPTOM 5022 5054	Zachovaná biventrikulární funkce
+T21	SYMPTOM 5107 5127	sinusová tachykardie
+T11	SYMPTOM 5146 5158	normální osa
+T22	SYMPTOM 5171 5179	úzké QRS
+T41	SYMPTOM 5181 5216	nepatologická q vlna v dolní frontě
+T42	SYMPTOM 5258 5285	negativním T v dolní frontě
+T23	SYMPTOM 5287 5299	normální QTc
+T44	SYMPTOM 5390 5408	synkopální epizody
+T157	SYMPTOM 5444 5459	sinusovém rytmu
+T43	SYMPTOM 5462 5472	krátkým PR
+T45	SYMPTOM 5475 5547	výraznou pozitivní delta vlnou v dolní aspekci a V1-V6 a negativní v aVL
+T46	SYMPTOM 5612 5682	laboratorní testy a rentgenový snímek hrudníku, které odpovídaly normě
+T142	SYMPTOM 5730 5756	nedilatovanou levou komoru
+T91	SYMPTOM 5910 5925	zachovanou LVEF
+T47	SYMPTOM 5927 6000	pravou komorou normální morfologie a funkce a bez významných valvulopatií
+T48	SYMPTOM 6616 6762	Hluboké krypty se nacházejí na dolním spojení obou komor, další ve středním anteroseptálním segmentu a třetí na úrovni apikálního dolního segmentu
+T171	SYMPTOM 6801 6846	zachovanou biventrikulární systolickou funkcí
+T106	SYMPTOM 8418 8432	asymptomatický
+T158	SYMPTOM 8512 8527	sinusovém rytmu
+T24	SYMPTOM 8581 8618	výrazné změny v komorové repolarizaci
+T50	SYMPTOM 8673 8732	která identifikovala dosud nepopsanou variantu v genu ACTC1
+T172	SYMPTOM 9022 9051	zachovanou systolickou funkcí
+T51	SYMPTOM 9185 9238	Varianta nejistého významu v genu ACTC1 (p.Pro260Leu)
