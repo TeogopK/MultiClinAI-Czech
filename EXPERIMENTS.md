@@ -103,39 +103,98 @@
 
 ---
 
-## Planned Experiments
+## Planned / In-Progress Experiments
 
-### Exp 6: + Back-Translation (CZ→EN→CZ)
+### Exp 6: Training Strategies (from NOWJ @ BioCreative IX winning team, arxiv 2602.09469)
 
-- MarianMT round-trip translation with entity marker preservation
-- Pipeline ready in `src/translate.py`
-- Expected: +1-3% from paraphrased context around entities
+**Status: READY TO RUN** — code implemented in `src/train.py` and `src/data.py`
 
-### Exp 6: RobeCzech + Augmentation
+The winning team achieved F1=0.94 with BERT+CRF + 3 training strategies addressing class imbalance (most tokens are O, few B-/I-). No new data needed — test on existing augmented data first.
 
-- Combine best augmentation strategy with RobeCzech
-- May or may not help given Exp 2 results
+- **6a: Label-Weighted Loss** — higher weight on entity tokens (B-/I-) vs O tokens. Inverse-frequency weighting in CrossEntropyLoss. Flag: `--label_weighted_loss`
+- **6b: Data Oversampling** — duplicate entity-containing documents N times. Flag: `--oversample N`
+- **6c: Weighted Random Sampling** — sample batches with higher probability for entity-containing docs. Flag: `--weighted_sampling`
+- **6d: Data Mixing Cap** — prevent augmented data from overwhelming originals (inverted-U from research). Flag: `--max_extra_ratio X`
+
+**Ablation plan:**
+```bash
+# Baseline (current best)
+python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease
+# + Label-Weighted Loss
+python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease --label_weighted_loss
+# + Oversampling
+python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease --oversample 2
+# + Weighted Sampling
+python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease --weighted_sampling
+# + All three combined
+python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease --label_weighted_loss --oversample 2 --weighted_sampling
+```
+
+### Exp 7: LLM Paraphrase Augmentation (BioSynNER approach)
+
+**Status: IN PROGRESS** — disease paraphrasing running via GPT-4.1-mini
+
+Based on BioSynNER (2024): paraphrasing real annotated documents beats generating from scratch. LLM rewrites surrounding context while preserving entity annotations exactly (inline [TYPE]...[/TYPE] tags).
+
+- **Pipeline**: `src/generate_synthetic.py` — tag insertion → GPT-4.1-mini paraphrase → tag extraction → validation
+- **Config**: 1 variant per doc, temperature=0.8, rare entities only (≤5 count)
+- **Cost**: ~$3.30 for disease (1004 docs × 1 variant with GPT-4.1-mini)
+- **Resume**: script skips already-generated docs (safe to restart)
+
+```bash
+python src/generate_synthetic.py --entity_type disease --output_dir data/paraphrase-disease --n_variants 1 --model gpt-4.1-mini --verify
+```
+
+### Exp 8: Cross-Lingual Transfer (ES→CZ)
+
+**Status: CODE READY** — `src/translate_external.py`, needs external datasets + license check
+
+Kamath & Vajjala (2025): "High-quality data + cross-lingual transfer always outperforms pure synthetic data."
+
+- **DisTEMIST** (ES) → DISEASE: ~1,000 docs, BRAT format, ENFERMEDAD→DISEASE
+- **SympTEMIST** (ES) → SYMPTOM: ~1,000 docs, BRAT format, SINTOMA→SYMPTOM
+- Translation chain: ES→EN→CZ via MarianMT with entity marker preservation
+
+**TODO:** Check dataset licenses (DisTEMIST, SympTEMIST) and competition rules on external data before using.
+
+```bash
+python src/translate_external.py --input_dir /path/to/distemist --output_dir data/external-disease --source_lang es --entity_type disease --type_map ENFERMEDAD=DISEASE
+```
+
+### Exp 9: Sentence-Level Training & Evaluation
+
+**Status: IDEA** — proposed by colleague
+
+Instead of training on full documents (which can be very long, truncated at 512 tokens, mostly O tokens), split into individual sentences:
+
+- **Training**: Tokenize documents into sentences, train on individual sentences. Benefits:
+  - Higher entity density per example (less O token padding)
+  - No truncation issues (sentences fit in 512 tokens easily)
+  - Natural data oversampling — sentences with entities can be weighted/duplicated more granularly
+  - Faster training (shorter sequences)
+- **Evaluation**: Predict per-sentence, then reassemble document-level annotations by tracking sentence offsets
+- **Considerations**:
+  - Sentence segmentation in clinical Czech may be noisy (abbreviations, lists, lab values)
+  - Loses cross-sentence context (entities spanning sentence boundaries, coreference)
+  - Need to handle offset mapping: sentence offset within document → document-level entity offsets
+  - Could combine with document-level: train on sentences, fine-tune on full docs
 
 ### Other Ideas — Model & Training
 
 - **Joint multi-entity training** — train one model for all 3 types simultaneously
 - **Ensemble** — combine CRF + softmax, or multiple checkpoints
 - **Sliding window** — handle documents truncated at 512 tokens
-- **Label smoothing / focal loss** — address O vs B/I class imbalance
 - **Larger model on Colab** — XLM-RoBERTa-large (560M) doesn't fit on RTX A2000 8GB, but fits on Colab T4/A100
 
-### Other Ideas — External Data & Synthetic Generation
+### Other Ideas — External Data
 
-- **LLM-generated synthetic clinical notes** — use GPT-4 / Claude to generate Czech clinical texts with annotated entities. Prompt with entity lists from training data + synonym dicts. Could massively expand training set for rare entities.
 - **Cross-lingual transfer from existing NER datasets**:
   - **n2c2 / i2b2** (English clinical NER) — large, well-annotated, translate to Czech
   - **MEDDOCAN** (Spanish clinical NER) — translate to Czech
   - **CRAFT corpus** (English biomedical) — translate to Czech
-  - **WikiNER / WikiANN** — multilingual NER, has Czech, but general domain
-- **Previous competition data**: SocialDisNER, DisTEMIST, SympTEMIST (Spanish clinical NER) — similar entity types, could translate
-- **UMLS-based entity generation** — sample entity mentions from UMLS Czech terms, embed them into template clinical sentences
+- **UMLS-based entity generation** — sample entity mentions from UMLS Czech terms, embed in template clinical sentences
 - **HeTop ontology** — richer synonym source (Czech + all 7 competition languages)
-- ~~Translzte competition training data from other languages~~ — NOT useful: all 7 languages are translations of the same source documents
+- ~~Translate competition training data from other languages~~ — NOT useful: all 7 languages are translations of the same source documents (see organizer note in Notes.md)
 
 ---
 

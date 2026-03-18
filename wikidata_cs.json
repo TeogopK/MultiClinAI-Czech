@@ -1,0 +1,6398 @@
+{
+  "head" : {
+    "vars" : [ "item", "label", "alias" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81867"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albinismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albínka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81867"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albinismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albinizmus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81867"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albinismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "albín"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q112670"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mastocytóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127664"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "febrilní křeče"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "convulsiones febriles"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132971"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dyslexie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q170990"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "artritida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "artritis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184489"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dermatitis digitalis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Digital Dermatitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184489"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dermatitis digitalis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "DD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q185034"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "srpkovitá anémie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "srpková anémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q431643"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mikrocefalie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q452368"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koxartróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "coxarthrosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q492129"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "porencefalie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q493103"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "kongenitální paramyotonie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q500695"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "retinoblastom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q504790"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nefrotický syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q511372"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Krabbeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Krabbeho leukodystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q548984"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dentinogenesis imperfecta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q558077"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Williamsův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q558623"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "afakie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q581592"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "paragangliom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q585285"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "trombocytopenie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q612693"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "xeroderma pigmentosum"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "XP"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q616667"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "temporální epilepsie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q727436"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Lesch-Nyhanův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749409"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "osteogenesis imperfecta"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "osteopsathyrosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749409"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "osteogenesis imperfecta"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fragilitas ossium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q756289"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Wilmsův nádor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q774483"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Galaktosemie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q775593"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dysfázie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q799615"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Osteitis fibrosa cystica"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q815819"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fibrilace síní"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "síňová fibrilace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q865794"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chřadnutí hrušně"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q924421"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "septická artritida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "septická artritis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1076086"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chondropatie čéšky"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1196503"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom počítačového vidění"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1274464"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyartritida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zánět kloubů"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1274464"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyartritida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyartritis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1404470"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Feltyho syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1420459"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rybí tuberkulóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1479494"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Paroxysmální noční hemoglobinurie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1506216"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Heřmanského-Pudlákův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1527888"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pankreatitida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pankreatitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1585081"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "maligní hypertermie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1585753"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zúžení močové trubice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Uretrostenóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1585753"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zúžení močové trubice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Urethrostenosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1585753"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zúžení močové trubice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Strictura urethrae"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1609755"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "intolerance fruktózy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1777118"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "gonartróza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4740761"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Amazia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "regionální enteritida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1485"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "systémový lupus erythematodes"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "SLE"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11085"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Parkinsonova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Parkinsonova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16499"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypertyreóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hyperthyreóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18576"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pickova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pickova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49989"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Creutzfeldt-Jakobova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61335"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "preeklampsie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117121"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Wilsonova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127556"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "osteochondritis dissecans"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134003"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hemofilie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hemofílie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q180614"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "melanom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zhoubný melanom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q180614"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "melanom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "maligní melanom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Budd–Chiariho syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Buddův–Chiariho syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183392"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "křivice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rachitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q183392"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "křivice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rachitida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186676"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koktavost"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koktání"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186676"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koktavost"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "balbutismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186676"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koktavost"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "balbuties"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q186676"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koktavost"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "balbutik"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q187542"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom Li-Fraumeni"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189167"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Zellwegerův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q189580"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "akromegalie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190564"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Huntingtonova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Huntingtonova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q190564"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Huntingtonova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Huntingtonova chorea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q193003"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hydrocephalus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hydrocefalus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q194041"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fenylketonurie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Føllingova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q194041"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fenylketonurie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Føllingova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q461854"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "amelogenesis imperfecta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q523893"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ichtyóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ichtyosis vulgaris"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q525642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "DiGeorgův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q531019"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aortální stenóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Zúžení aortální chlopně"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q531019"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aortální stenóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Stenóza aortální chlopně"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q535364"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Angelmanův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q536269"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "feochromocytom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q580506"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Darierova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594013"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Praderův-Williho syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Prader-Williho syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q594013"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Praderův-Williho syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "PWS"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q622828"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypokalemická periodická paralýza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypokalemická periodická obrna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q631904"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Atypický teratoidní rhabdoidní tumor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q656199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Primární generalizovaná dystonie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dystonie DYT1"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q656199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Primární generalizovaná dystonie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dystonie DYT-1"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q656199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Primární generalizovaná dystonie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dystonia musculorum deformans"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657193"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "metabolický syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q741315"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "von Hippelova-Lindauova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Von Hippel-Lindauova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q744790"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Treacher Collinsův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q757749"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "defekt síňového septa"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "defekt atriálního septa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q779250"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crouzonův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q781618"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "kleidokraniální dysplazie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q830308"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "věkem podmíněná makulární degenerace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q838139"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "defekt komorového septa"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "defekt ventrikulárního septa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q861224"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "juvenilní idiopatická artritida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "juvenilní idiopatická artritis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q863861"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Morbus Hailey-Hailey"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q881855"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Zásněť hroznová"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mola hydatidosa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q922411"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypopituitarismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928424"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Bart syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1505689"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tenosynovitida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zánět šlach"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1505689"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tenosynovitida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tenosynovitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1507379"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nemalinová myopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1550521"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vezikoureterální reflux"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1570013"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "trombofilie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1641399"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom hypoplastického levého srdce"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1648484"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchennova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchennova svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1648484"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchennova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchenneova svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1648484"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchennova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Duchenneova muskulární dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1652102"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekróza hlavice femuru"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekróza hlavice stehenní kosti"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1652102"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekróza hlavice femuru"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekróza hlavice kosti stehenní"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1660341"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "impingement syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "impigment syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1707822"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pendredův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10859907"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bakteriální skvrnitost čiroku"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18579"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "frontotemporální lobární degenerace"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "FTLD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18583"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "agramatická varianta primární progresivní afázie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18592"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "frontotemporální demence"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q32778"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bronchiektázie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q157008"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mor skotu"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dobytčí mor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191779"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Touretteův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tourretův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q191779"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Touretteův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tourettův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q200985"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hartnupova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hartnupova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q206901"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "amyotrofická laterální skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Lou Gehrigova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q206901"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "amyotrofická laterální skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Lou Gehrigova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q206901"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "amyotrofická laterální skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ALS"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q208562"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Marfanův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Progerie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220551"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "diabetes insipidus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q266421"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Harlequin Type Ichthyosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q283108"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Brutonova agamaglubulinémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q283656"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dilatační kardiomyopatie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "městnavá kardiomyopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q283656"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dilatační kardiomyopatie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dilatovaná kardiomypatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q340594"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "achondroplázie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Chondrodystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q341999"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hidradenitis suppurativa"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Acne inversa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q351708"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Adams-Oliverův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q366868"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vrozená adrenální hyperplazie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q559082"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chondrokalcinóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q560337"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q560337"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q560337"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachs"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q560337"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "GM2 gangliozidóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q560337"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tay-Sachsova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "TSD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q608259"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Trichotilomanie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q611984"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Keratokonus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "keratokonus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q638729"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "idiopatická trombocytopenická purpura"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ITP"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q638729"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "idiopatická trombocytopenická purpura"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "trombocytopenická purpura"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q638729"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "idiopatická trombocytopenická purpura"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "morbus maculosus Werlhofi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q651680"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "alkaptonurie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q669435"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "renální ageneze"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ageneze ledvin"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q669822"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Laronův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q703961"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Transmisivní spongiformní encefalopatie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Spongiformní encefalopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q703961"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Transmisivní spongiformní encefalopatie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Prionová choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708165"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "artrogrypóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "arthrogryposis multiplex congenita"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q846316"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aplastická anémie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dřeňový útlum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q847605"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "neurofibromatóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858426"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficience enzymu steroidní 5-α-reduktázy"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pseudovaginální perineoskrotální hypospadie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858426"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficience enzymu steroidní 5-α-reduktázy"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mužský pseudohermafroditismus způsobený deficitem 5-alfa-reduktázy 2"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858426"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficience enzymu steroidní 5-α-reduktázy"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "46, XY DSD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q858426"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficience enzymu steroidní 5-α-reduktázy"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficit 5-alfa-reduktázy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q861645"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Gaucherova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q895930"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Kývavá nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q911136"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Degosova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q916398"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lymfedém"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917357"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Rettův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q917399"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Usherův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q939364"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vrozená srdeční vada"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vrozené srdeční vady"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q945930"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "progresivní supranukleární obrna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q954831"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "prolaktinom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q957751"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "XY gonadální dysgeneze"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q974928"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pyknodysostóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q979129"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ondinina kletba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1022718"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "CADASIL"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1052687"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Charcotova–Marieho–Toothova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hereditární motorická a senzitivní polyneuropatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1052687"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Charcotova–Marieho–Toothova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hereditární motorická a senzitivní neuropatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1052687"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Charcotova–Marieho–Toothova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "CMT"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1052687"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Charcotova–Marieho–Toothova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Charcot-Marie-Tooth"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1120682"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "metachromatická leukodystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1125121"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom předsunuté spánkové fáze"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1126831"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Fallotova tetralogie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1129007"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "angioedém"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1544416"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lisencefalie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1757915"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "sick sinus syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1758730"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Transpozice velkých cév"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1760461"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom ovariální hyperstimulace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1779987"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "X-vázaná hypofosfatemická rachitida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1995327"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bulbospinální svalová atrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q203601"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pneumotorax"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pneumothorax"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205214"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guillain-Barrého syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom Guillain-Barré"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205214"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guillain-Barrého syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guillainův-Barrého syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q205214"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guillain-Barrého syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Guillain-Barré"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221472"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom fragilního X"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q222634"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rozštěp"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q303123"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Aarskogův-Scottův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q332293"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom karpálního tunelu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q338857"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Choroba Minamata"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Minamatská choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q366964"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "adrenoleukodystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q371520"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polydaktylie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q387082"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom Louis-Barové"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ataxia telangiectasia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q692536"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myopatie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nemoci svalů"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q994859"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "homocystinurie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q998273"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Smithův–Lemliův–Opitzův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1016605"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Burkitův lymfom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1071707"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Arnold Chiariho malformace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1076421"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chorea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1138580"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ewingův sarkom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ewing sarkom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1140000"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Criglerův-Najjarův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144618"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Familiární středomořská horečka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Rodinná středozemní horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144618"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Familiární středomořská horečka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Rodinná středomořská horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144618"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Familiární středomořská horečka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "FMF"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1144618"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Familiární středomořská horečka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Familiární středozemní horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1145668"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hemolytická anémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162164"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pes equinovarus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1200239"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dermatofibrosarcoma protuberans"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1227139"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Diphallus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1235785"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "stiff-person syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom ztuhlého člověka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1235785"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "stiff-person syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "stiff-man syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1255956"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom Dravetové"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "SMEI"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1333608"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Meduloblastom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "svalová dystrofie Emery-Dreifuss"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "muskulární dystrofie Emery-Dreifuss"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emeryho-Dreifussova svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emeryho-Dreifussova muskulární dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335642"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Emery-Dreifussova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "EDMD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1344835"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hyperparatyreóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1598909"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Supraventrikulární tachykardie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1827028"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ektopie čočky"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ectopia lentis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1848471"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myositida s inkluzními tělísky"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myozitida s inkluzními tělísky"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1848471"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myositida s inkluzními tělísky"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myositis s inkluzními tělísky"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1860507"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "myotonická dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1886238"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "sturge-weber syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1915681"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Meckelův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1947302"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Castlemanova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1956682"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Myoglubinurie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2035074"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pagetova kostní nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2067267"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Niemannova-Pickova choroba typu C"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Niemann-Pickova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2067267"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Niemannova-Pickova choroba typu C"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Niemann-Pickova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2163245"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vrozená brániční kýla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2336873"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hyper-IgE syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2349546"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nemoc Canavanové"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom Canavanové"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18554268"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hemoragická horečka dengue"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18928476"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fuzarióza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fuzariózy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18975243"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koronavirové onemocnění"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koronavirová nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19000581"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Klasický mor prasat"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q84081576"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pandemie covidu-19 ve Švédsku v roce 2020"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2840"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chřipka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6853"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hepatitida B"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "žloutenka typu B"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12125"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nachlazení"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12195"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dětská obrna"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "poliomyelitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12195"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dětská obrna"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "poliomyelitida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12195"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dětská obrna"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dětská přenosná obrna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "AIDS"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom získaného selhání imunity"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "AIDS"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Acquired Immune Deficiency Syndrome"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "AIDS"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syndrom získaného selhání imunity"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12199"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "AIDS"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Acquired Immune Deficiency Syndrome"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Progerie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q101896"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "kapavka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154874"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "žlutá zimnice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q181843"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekrofilie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekrofil"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207133"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Klinefelterův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q267907"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypersexualita"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "závislost na sexu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q337554"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "úžeh"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486851"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "spánková paralýza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1104126"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dětský autismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362721"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tuberózní skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tuberous sclerosis complex"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362721"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tuberózní skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tuberous sclerosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1362721"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tuberózní skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "TSC"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1364270"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hypertrofická kardiomyopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Morbus Pompe"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Glykogenóza typu II"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Deficit kyselé maltázy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1365789"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Pompeho nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1369011"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "familiární adenomatózní polypóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410831"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fibrodysplasia ossificans progressiva"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Nemoc zkamenělých lidí"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410831"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fibrodysplasia ossificans progressiva"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "FOP"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1410851"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "fibromatóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1433936"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hyperprolaktinémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1456403"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Perthesova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1462309"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "kolobom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472818"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "běžná variabilní imunodeficience"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1473749"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mayer-Rokitansky-Kuster-Hauserův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom Rokitansky-Küster-Häusner"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1473749"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mayer-Rokitansky-Kuster-Hauserův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mayerův-Rokitanského-Küsterův-Hauserův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1473749"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mayer-Rokitansky-Kuster-Hauserův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mayer-Von Rokitansky-Kuster-Hauserův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2092492"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Renfieldův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2484592"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Beckerova muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Beckerova svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2711291"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "familiární hypercholesterolémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2964438"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syndrom hypoplastických chrupavek a vlasů"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3042171"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "okulofaryngeální muskulární dystrofie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "okulofaryngeální svalová dystrofie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3046513"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "omoraši"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "omorashi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3501154"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Larsenův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4505896"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cisvestitismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Cisvestitismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18169108"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bibliofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18351141"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "démonofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18553951"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Koňské encefalomyelitidy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27991457"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Papafobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q63137979"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Kakofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q105200376"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Metafóbie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12090"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cholera"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12192"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zápal plic"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pneumonie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12192"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zápal plic"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bronchopneumonie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12214"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pravé neštovice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "černé neštovice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17583"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "miliární tuberkulóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q26352"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Philofóbie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28971"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "impetigo"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30953"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dengue"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "horečka dengue"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31798"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "měkký vřed"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ulcus molle"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31798"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "měkký vřed"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nesyfilitický venerický vřed"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31798"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "měkký vřed"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chankroid"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31798"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "měkký vřed"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chancroid"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36855"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chřipka prasat"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "prasečí chřipka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36956"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lepra"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "malomocenství"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36956"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lepra"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hansenova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q36956"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lepra"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "malomocný"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38579"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Kynofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39222"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vzteklina"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41083"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "uherská nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41083"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41083"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "příjice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41083"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lues venerea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41083"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "syfilis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "lues"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41398"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "morgellony"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "morgellons"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41398"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "morgellony"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Morgellonova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q44727"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "plané neštovice"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "varicella"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47790"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tetanus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tetan"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47790"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tetanus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "strnutí šíje"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51993"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ebola"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q371520"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polydaktylie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q531019"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aortální stenóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Zúžení aortální chlopně"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q531019"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aortální stenóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Stenóza aortální chlopně"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q535364"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Angelmanův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q741315"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "von Hippelova-Lindauova choroba"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Von Hippel-Lindauova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q779250"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crouzonův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708165"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "artrogrypóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "arthrogryposis multiplex congenita"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154874"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "žlutá zimnice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q558077"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Williamsův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q76973"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "frambézie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83319"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "břišní tyfus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114085"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rýma"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rinitida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114085"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rýma"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rhinitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q114085"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rýma"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rhinitida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "záškrt"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mázdřivka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "záškrt"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "diftérie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "záškrt"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "difterie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q152401"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "slintavka a kulhavka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "SLAK"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153861"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tularémie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zaječí nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q153861"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tularémie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tularemie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154865"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "botulismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154869"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hepatitida C"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "žloutenka typu C"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154878"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "toxoplazmóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "toxoplasmóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154878"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "toxoplazmóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nemoc šílených koťat"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155857"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zarděnky"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rubeolla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155857"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "zarděnky"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "rubeola"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vlnivá horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "vlnitá horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "maltská horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "infekční zmetání skotu"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelosa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucellosis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q156050"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "brucelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Bangova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "skvrnitý tyf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "skvrnitý tyfus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160653"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "listerióza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "listerioza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169922"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "trypanofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "strach z jehel"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q169922"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "trypanofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "belonefobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q175844"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "emetofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207783"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Akrofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Akrofobik"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q207783"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Akrofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Acrofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213410"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyploidie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Polyploidizace"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213410"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyploidie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Oktaploidie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q213410"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "polyploidie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dekaploidie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220783"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Arachnofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Arachnofóbie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q267602"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "XYY syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q277452"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ebsteinova anomálie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q281115"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Proteův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q281928"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "sociální fobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q331283"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Leishmanióza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Leišmanióza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q331283"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Leishmanióza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Leishmaniózy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q366886"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "psychopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q420724"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hexakosioihexekontahexafobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "666 fobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q453166"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tetraploidie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q457737"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Edwardsův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Trizomie 18"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q457737"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Edwardsův syndrom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Edwardův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q489412"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ponorková nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q489412"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ponorková nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q524095"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "makroglosie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "macroglossia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q572201"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Autofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Monofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q574485"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Antropofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q596505"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ofidiofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q612851"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Telefobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "telefonofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q616066"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "koarktace aorty"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q619261"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ornitofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q624590"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "arachnoidální cysta"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "arachnoidální cysty"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633859"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Polandův syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q659033"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "biliární atrézie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "atrézie žlučových cest"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q662185"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "choanální atrézie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "atrézie choan"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q736715"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "chronické renální selhání"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q749342"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "botrytické víno"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q768727"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nekrofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q813705"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Beckerův névus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q886731"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hematofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1431258"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tréma"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1477048"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Gelotofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3269843"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hyperkalemická periodická paralýza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hyperkalemická periodická obrna"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3589131"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "dystrofická epidermolysis bullosa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6491969"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "laryngokéla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12156"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "malárie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43987"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ptačí chřipka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ptačí mor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43987"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ptačí chřipka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "HPAIV"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43987"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ptačí chřipka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "HPAI"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43987"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ptačí chřipka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aviární influenza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "regionální enteritida"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1472"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Crohnova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q49989"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Creutzfeldt-Jakobova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1485"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "systémový lupus erythematodes"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "SLE"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18579"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "frontotemporální lobární degenerace"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "FTLD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q657193"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "metabolický syndrom"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "skvrnitý tyf"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160649"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "tyfus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "skvrnitý tyfus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184489"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dermatitis digitalis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Digital Dermatitis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184489"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dermatitis digitalis"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "DD"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117121"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Wilsonova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129104"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anthrax"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "uhlák"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129104"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anthrax"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "sněť slezinná"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129104"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anthrax"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "snět slezinná"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129104"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anthrax"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "antrax"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129279"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "úplavice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q154882"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "legionelóza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "legionářská nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "leptospiróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Weilova žloutenka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "leptospiróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Weilova nemoc"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q155098"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "leptospiróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Krysí žloutenka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q157661"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hepatitida A"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q162262"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "katarální horečka ovcí"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q164655"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "absces"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hlíza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q164818"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Q-horečka"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Q horečka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q167178"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "svrab"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q167264"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Hemoragická horečka Marburg"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q178061"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "šok"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q178275"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "španělská chřipka"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q567694"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anorchismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anorchizmus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q567694"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anorchismus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "anorchie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q624497"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "akutní horská nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "AHN"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q642548"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "jaterní encefalopatie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1010522"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "gymnofobie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Gymnofóbie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1042900"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Technofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1063123"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Antikatolicismus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1066591"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nomofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1127417"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aviofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335831"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Paruréza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Parureza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1423683"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Mysofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1640850"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "hyperaktivita"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1678024"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "neofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1773212"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "coulrofobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1796703"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Tafefobie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1883030"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Megabakterióza ptáků"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Megabakterióza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1883030"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Megabakterióza ptáků"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Makrorhabdióza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2336418"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dysaethesia aethiopica"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2351339"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Drapetomanie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2709115"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Ženská hysterie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Female hysteria"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3616648"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "aneurisma"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3705799"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Chronická mukokutánní kandidóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4064296"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "gelsolinová amyloidóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4167713"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Drunkorexia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4420121"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dentova nemoc"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Dentova choroba"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4684715"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "nádory nadledvin"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4684712"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "adrenální únava"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7355063"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Vrozený strmý talus"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "kolébkovitá noha"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12046613"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Povrchové zaplísnění ryb"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15975063"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Syngamóza"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55790495"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "virové onemocnění dýchací soustavy"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q61478087"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Extraskeletální myxoidní chondrosarkom"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "EMC"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q64513386"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Bulimie"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "bulimie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1477"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ulcerózní kolitida"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "UC"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8277"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "roztroušená skleróza"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "RS"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8388"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "pedofilie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mrtvice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mozková mrtvice"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mozková apoplexie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "infarkt mozku"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "iktus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ictus cerebri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ictus apoplecticus cerebri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ictus apoplecticus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "ictus"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "CVI"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "CMP"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "apoplexia cerebri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "mozkový infarkt"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12202"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "cévní mozková příhoda"
+      },
+      "alias" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "CVA"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28814"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "autoimunní hemolytická anémie"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13"
+      },
+      "label" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "triskaidekafobie"
+      }
+    } ]
+  }
+}
