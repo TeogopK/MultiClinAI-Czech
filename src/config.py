@@ -73,4 +73,20 @@ def parse_args() -> argparse.Namespace:
         default=[],
         help="Additional BRAT data directories (augmented/back-translated) to merge with training data",
     )
+    parser.add_argument(
+        "--label_weighted_loss", action="store_true",
+        help="Use inverse-frequency label weighting for loss function",
+    )
+    parser.add_argument(
+        "--oversample", type=int, default=0,
+        help="Duplicate entity-containing docs N extra times (e.g. 2)",
+    )
+    parser.add_argument(
+        "--weighted_sampling", action="store_true",
+        help="Use WeightedRandomSampler (higher prob for entity-rich docs)",
+    )
+    parser.add_argument(
+        "--max_extra_ratio", type=float, default=0,
+        help="Cap extra (augmented) docs to this multiple of originals (0=no cap)",
+    )
     return parser.parse_args()

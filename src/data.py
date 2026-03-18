@@ -130,27 +130,55 @@ def build_dataset(
     model_name: str = MODEL_NAME,
     max_length: int = MAX_LENGTH,
     extra_data_dirs: list[str] | None = None,
+    oversample_factor: int = 0,
+    max_extra_ratio: float = 0,
 ) -> Dataset:
     """Build a HuggingFace Dataset for the given entity type and split.
 
     If extra_data_dirs is provided (and split == "train"), documents from
     those directories are merged into the training set. This is used to
     include augmented / back-translated data.
+
+    Args:
+        oversample_factor: If > 0, duplicate documents that contain entities
+            this many extra times (e.g. 2 = add 2 copies). Only for train.
+        max_extra_ratio: If > 0, cap extra (augmented) docs to this multiple
+            of original count (e.g. 4.0 = max 4x originals). 0 = no cap.
     """
+    import random
+
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     directory = data_dir(entity_type, split)
     docs = load_documents(directory, entity_type)
+    n_original = len(docs)
 
     # Merge extra data directories (only for training)
+    extra_docs_all = []
     if extra_data_dirs and split == "train":
         for extra_dir in extra_data_dirs:
             extra_path = Path(extra_dir)
             if extra_path.exists():
                 extra_docs = load_documents(extra_path, entity_type)
                 print(f"  Loaded {len(extra_docs)} extra docs from {extra_path}")
-                docs.extend(extra_docs)
+                extra_docs_all.extend(extra_docs)
             else:
                 print(f"  WARNING: extra data dir not found: {extra_path}")
+
+        # Apply mixing cap: limit extra docs to max_extra_ratio * originals
+        if max_extra_ratio > 0 and extra_docs_all:
+            max_extra = int(n_original * max_extra_ratio)
+            if len(extra_docs_all) > max_extra:
+                print(f"  Mixing cap: sampling {max_extra} from {len(extra_docs_all)} extra docs")
+                extra_docs_all = random.Random(42).sample(extra_docs_all, max_extra)
+
+        docs.extend(extra_docs_all)
+
+    # Oversampling: duplicate entity-containing docs (only for training)
+    if oversample_factor > 0 and split == "train":
+        entity_docs = [d for d in docs if len(d["entities"]) > 0]
+        n_added = len(entity_docs) * oversample_factor
+        docs.extend(entity_docs * oversample_factor)
+        print(f"  Oversampling: added {n_added} copies of {len(entity_docs)} entity-containing docs")
 
     all_input_ids = []
     all_attention_mask = []
