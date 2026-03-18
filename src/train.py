@@ -278,6 +278,8 @@ def main():
 
     # Compute label weights if requested
     label_weights = None
+    if args.label_weighted_loss and use_crf:
+        print("WARNING: --label_weighted_loss has no effect with --use_crf (CRF uses its own loss)")
     if args.label_weighted_loss and not use_crf:
         label_weights = compute_label_weights(train_ds, len(l2id))
         print(f"Label weights: {dict(zip(i2l.values(), label_weights.tolist()))}")
@@ -321,7 +323,7 @@ def main():
     )
 
     # Set sample weights for weighted sampling trainers
-    if sample_weights and hasattr(trainer, '_sample_weights'):
+    if sample_weights and isinstance(trainer, WeightedSamplingMixin):
         trainer._sample_weights = sample_weights
 
     trainer.train()

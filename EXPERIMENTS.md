@@ -15,8 +15,10 @@
 | 3   | XLM-RoBERTa-base (CRF)     | morphological synonyms    | **0.697**  | —          | —            | **+4.0% over baseline**                   |
 | 4   | XLM-RoBERTa-base (CRF)     | morph + Wikidata synonyms | 0.693      | —          | —            | Wikidata added noise, slightly worse than Exp 3 |
 | 5   | GPT-4.1 (zero-shot)        | none (few-shot prompt)    | 0.548/0.43 | 0.587*     | 0.631*       | *overlap F1; exact F1 much lower due to span boundary mismatches |
-| 6   | XLM-RoBERTa-base (CRF)     | morph + back-translation  | —          | —          | —            | TODO                                      |
-| 6   | RobeCzech (CRF)            | morph synonyms            | —          | —          | —            | TODO                                      |
+| 6   | XLM-RoBERTa-base (CRF)     | morph syn + oversample 2x + weighted sampling | 0.690 | — | — | Oversampling 2x too aggressive, peaked epoch 3 then dropped |
+| 7   | XLM-RoBERTa-large (CRF)    | none                      | —          | —          | —            | IN PROGRESS — running on 4090             |
+| 8   | XLM-RoBERTa-large (CRF)    | morph syn + oversample 1x + weighted sampling | — | — | — | TODO — after Exp 7 baseline |
+| 9   | XLM-RoBERTa-large (CRF)    | morph syn + LLM paraphrase | —         | —          | —            | TODO — after paraphrase data ready        |
 
 ---
 
@@ -103,11 +105,31 @@
 
 ---
 
+### Exp 6: XLM-RoBERTa-base + Training Strategies (oversample 2x + weighted sampling)
+
+- **Model**: `xlm-roberta-base`, CRF head
+- **Data**: 1,006 original + 2,271 augmented (morph synonyms) + 6,554 oversampled = 9,831 total
+- **Training strategies**: oversample 2x, weighted random sampling (label-weighted loss skipped for CRF)
+- **Results**:
+  | Entity | Precision | Recall | F1 |
+  |--------|-----------|--------|----|
+  | DISEASE | 0.637 | 0.752 | 0.690 |
+- **Per-epoch progression**:
+  | Epoch | P | R | F1 |
+  |-------|-------|-------|-------|
+  | 1 | 0.605 | 0.697 | 0.648 |
+  | 2 | 0.634 | 0.728 | 0.678 |
+  | 3 (best) | 0.637 | 0.752 | 0.690 |
+  | 4 | 0.638 | 0.740 | 0.685 |
+- **Notes**: 2x oversampling was too aggressive — inflated dataset to 9,831 (3x original+aug), peaked at epoch 3 then dropped. F1=0.690 is below Exp 3 (0.697). Recommendation: use oversample 1x instead.
+
+---
+
 ## Planned / In-Progress Experiments
 
-### Exp 6: Training Strategies (from NOWJ @ BioCreative IX winning team, arxiv 2602.09469)
+### Training Strategies (from NOWJ @ BioCreative IX winning team, arxiv 2602.09469)
 
-**Status: READY TO RUN** — code implemented in `src/train.py` and `src/data.py`
+Code implemented in `src/train.py` and `src/data.py`.
 
 The winning team achieved F1=0.94 with BERT+CRF + 3 training strategies addressing class imbalance (most tokens are O, few B-/I-). No new data needed — test on existing augmented data first.
 

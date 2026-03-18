@@ -152,6 +152,14 @@ def build_dataset(
     docs = load_documents(directory, entity_type)
     n_original = len(docs)
 
+    # Oversampling: duplicate ORIGINAL entity-containing docs (only for training)
+    # Done before merging extra data so we only oversample originals, not augmented
+    if oversample_factor > 0 and split == "train":
+        entity_docs = [d for d in docs if len(d["entities"]) > 0]
+        n_added = len(entity_docs) * oversample_factor
+        docs.extend(entity_docs * oversample_factor)
+        print(f"  Oversampling: added {n_added} copies of {len(entity_docs)} original entity-containing docs")
+
     # Merge extra data directories (only for training)
     extra_docs_all = []
     if extra_data_dirs and split == "train":
@@ -172,13 +180,6 @@ def build_dataset(
                 extra_docs_all = random.Random(42).sample(extra_docs_all, max_extra)
 
         docs.extend(extra_docs_all)
-
-    # Oversampling: duplicate entity-containing docs (only for training)
-    if oversample_factor > 0 and split == "train":
-        entity_docs = [d for d in docs if len(d["entities"]) > 0]
-        n_added = len(entity_docs) * oversample_factor
-        docs.extend(entity_docs * oversample_factor)
-        print(f"  Oversampling: added {n_added} copies of {len(entity_docs)} entity-containing docs")
 
     all_input_ids = []
     all_attention_mask = []
