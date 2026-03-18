@@ -22,7 +22,7 @@ XLM-RoBERTa,symptom,Romanian,fine-tuned token classification,,,,,,,Monika,,
 ,disease,Romanian,fine-tuned token classification,,,,,,,,,
 XLM-RoBERTa-base,disease,Czech,fine-tuned token classification,,,,0.6039,0.7194,0.6566,Teodor,,baseline; 3 separate models (1 per entity type)
 ,symptom,Czech,fine-tuned token classification,,,,0.5628,0.6561,0.6059,,,
-,procedure,Czech,fine-tuned token classification,,,,,,,,,queued
+,procedure,Czech,fine-tuned token classification,,,,0.6389,0.7002,0.6682,,,
 BioBIT,symptom,Italian,fine-tuned token classification,,,,,,,Daniel,https://huggingface.co/IVN-RIN/bioBIT,
 ,procedure,Italian,fine-tuned token classification,,,,,,,,,
 ,disease,Italian,fine-tuned token classification,0.8864,0.8938,0.8901,0.7355,0.7507,0.743,,,

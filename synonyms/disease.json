@@ -67,6 +67,7 @@
   "metastáza": [
     "metastáz",
     "metastázami",
+    "metastáze",
     "metastázy"
   ],
   "metastázami": [
@@ -77,7 +78,8 @@
   "metastázy": [
     "metastáz",
     "metastáza",
-    "metastázami"
+    "metastázami",
+    "metastáze"
   ],
   "myelom": [
     "myelomu"
@@ -160,7 +162,8 @@
   "hypertenze": [
     "hypertenzi",
     "hypertenzní",
-    "hypertenzí"
+    "hypertenzí",
+    "vysoký tlak"
   ],
   "hypertenzi": [
     "hypertenze",
@@ -248,6 +251,9 @@
     "hypercholesterolemií"
   ],
   "tuberózní skleróza": [
+    "tsc",
+    "tuberous sclerosis",
+    "tuberous sclerosis complex",
     "tuberózní sklerózou",
     "tuberózní sklerózu"
   ],
@@ -565,7 +571,8 @@
     "abscesových",
     "abscesu",
     "abscesy",
-    "abscesů"
+    "abscesů",
+    "hlíza"
   ],
   "abscesových": [
     "absces",
@@ -962,6 +969,8 @@
     "zlomenině"
   ],
   "zlomenina": [
+    "fractura",
+    "infrakce",
     "zlomenin",
     "zlomeninu",
     "zlomeniny",
@@ -998,6 +1007,9 @@
     "hypertenzní krizi"
   ],
   "revmatoidní artritida": [
+    "progresivní polyartritida",
+    "progresivní polyartritis",
+    "ra",
     "revmatoidní artritidy"
   ],
   "revmatoidní artritidy": [
@@ -1034,6 +1046,7 @@
     "jaterní steatózu"
   ],
   "hypertyreóza": [
+    "hyperthyreóza",
     "hypertyreózou",
     "hypertyreózy"
   ],
@@ -1290,6 +1303,7 @@
     "liposarkomem"
   ],
   "sarkoidóza": [
+    "besnier-boeckova choroba",
     "sarkoidóze",
     "sarkoidózou",
     "sarkoidózy"
@@ -1470,6 +1484,7 @@
     "pneumoperitonea"
   ],
   "potrat": [
+    "abort",
     "potratu",
     "potraty",
     "potratů"
@@ -1732,6 +1747,7 @@
     "kopřivka"
   ],
   "varicella": [
+    "plané neštovice",
     "varicelle"
   ],
   "varicelle": [
@@ -1956,8 +1972,11 @@
     "normocytární anémie"
   ],
   "sepse": [
+    "otrava krve",
     "sepsi",
-    "sepsí"
+    "sepsí",
+    "septikémie",
+    "sirs"
   ],
   "sepsi": [
     "sepse",
@@ -2102,6 +2121,7 @@
     "ulcerací"
   ],
   "ulcerózní kolitida": [
+    "uc",
     "ulcerózní kolitidou",
     "ulcerózní kolitidy"
   ],
@@ -2114,7 +2134,11 @@
     "ulcerózní kolitidou"
   ],
   "lues": [
-    "lúes"
+    "lues venerea",
+    "lúes",
+    "příjice",
+    "syfilida",
+    "uherská nemoc"
   ],
   "lúes": [
     "lues"
@@ -2207,7 +2231,8 @@
   ],
   "plicní tuberkulóza": [
     "plicní tuberkulózu",
-    "plicní tuberkulózy"
+    "plicní tuberkulózy",
+    "pulmonální tuberkulóza"
   ],
   "plicní tuberkulózu": [
     "plicní tuberkulóza",
@@ -2272,7 +2297,9 @@
     "feochromocytom"
   ],
   "pneumonie": [
-    "pneumonii"
+    "bronchopneumonie",
+    "pneumonii",
+    "zápal plic"
   ],
   "pneumonii": [
     "pneumonie"
@@ -2396,6 +2423,8 @@
     "myokarditidu"
   ],
   "tuberkulóza": [
+    "souchotiny",
+    "tbc",
     "tuberkulózou",
     "tuberkulózu",
     "tuberkulózy"
@@ -2446,7 +2475,8 @@
     "malnutrice"
   ],
   "hepatitida b": [
-    "hepatitidu b"
+    "hepatitidu b",
+    "žloutenka typu b"
   ],
   "hepatitidu b": [
     "hepatitida b"
@@ -2538,7 +2568,9 @@
     "serpiginózní choroiditida"
   ],
   "autoimunitní hepatitida": [
-    "autoimunitní hepatitidy"
+    "autoimunitní hepatitidy",
+    "autoimunní hepatitida",
+    "autoimunní hepatitis"
   ],
   "autoimunitní hepatitidy": [
     "autoimunitní hepatitida"
@@ -2647,7 +2679,8 @@
   ],
   "hepatosplenomegalie": [
     "hepatosplenomegalii",
-    "hepatosplenomegalií"
+    "hepatosplenomegalií",
+    "zvětšení jater a sleziny"
   ],
   "hepatosplenomegalii": [
     "hepatosplenomegalie",
@@ -2682,7 +2715,10 @@
     "těžkou sepsi"
   ],
   "artróza": [
-    "artrózu"
+    "artroza",
+    "artrózu",
+    "osteoartritida",
+    "osteoartróza"
   ],
   "artrózu": [
     "artróza"
@@ -3022,6 +3058,7 @@
     "osteomyelitidu"
   ],
   "embolie": [
+    "embolizace",
     "embolií"
   ],
   "embolií": [
@@ -3060,6 +3097,8 @@
     "tromby"
   ],
   "toxoplazmóza": [
+    "nemoc šílených koťat",
+    "toxoplasmóza",
     "toxoplazmózu"
   ],
   "toxoplazmózu": [
@@ -3240,7 +3279,8 @@
     "fibrózu"
   ],
   "hepatitida c": [
-    "hepatitidy c"
+    "hepatitidy c",
+    "žloutenka typu c"
   ],
   "hepatitidy c": [
     "hepatitida c"
@@ -3252,6 +3292,7 @@
     "normocytární normochromní anémie"
   ],
   "pneumotorax": [
+    "pneumothorax",
     "pneumotoraxem",
     "pneumotoraxu"
   ],
@@ -3337,7 +3378,9 @@
   ],
   "dilatační kardiomyopatie": [
     "dilatační kardiomyopatii",
-    "dilatační kardiomyopatií"
+    "dilatační kardiomyopatií",
+    "dilatovaná kardiomypatie",
+    "městnavá kardiomyopatie"
   ],
   "dilatační kardiomyopatii": [
     "dilatační kardiomyopatie",
@@ -3454,7 +3497,8 @@
   "atrioventrikulární blokáda": [
     "atrioventrikulární blokádou",
     "atrioventrikulární blokádu",
-    "atrioventrikulární blokády"
+    "atrioventrikulární blokády",
+    "av blokáda"
   ],
   "atrioventrikulární blokádou": [
     "atrioventrikulární blokáda",
@@ -3568,6 +3612,7 @@
     "tako-tsubo syndromem"
   ],
   "av blokáda": [
+    "atrioventrikulární blokáda",
     "av blokády"
   ],
   "av blokády": [
@@ -5224,5 +5269,269 @@
   ],
   "subakutní ischemickou lézí": [
     "subakutní ischemickou lézi"
+  ],
+  "močová inkontinence": [
+    "inkontinence",
+    "pomočování"
+  ],
+  "lymfogranuloma venereum": [
+    "lymfogranulom venerum",
+    "lymphogranuloma venereum",
+    "venerický lymfogranulom"
+  ],
+  "schizofrenie": [
+    "dementia praecox"
+  ],
+  "konjunktivitida": [
+    "zánět spojivek"
+  ],
+  "rs": [
+    "roztroušená skleróza"
+  ],
+  "cukrovka": [
+    "diabetes",
+    "diabetes mellitus"
+  ],
+  "defekt síňového septa": [
+    "defekt atriálního septa"
+  ],
+  "flutter síní": [
+    "kmitání síní"
+  ],
+  "steroidní myopatie": [
+    "glukokortikoidní myopatie"
+  ],
+  "cmp": [
+    "apoplexia cerebri",
+    "cva",
+    "cvi",
+    "cévní mozková příhoda",
+    "ictus apoplecticus",
+    "ictus apoplecticus cerebri",
+    "ictus cerebri",
+    "infarkt mozku",
+    "mozková apoplexie",
+    "mozková mrtvice",
+    "mozkový infarkt",
+    "mrtvice"
+  ],
+  "rinitida": [
+    "rhinitida",
+    "rýma"
+  ],
+  "plané neštovice": [
+    "varicella"
+  ],
+  "rubeola": [
+    "rubeolla",
+    "zarděnky"
+  ],
+  "ischemická hepatitida": [
+    "ischemická hepatitis"
+  ],
+  "als": [
+    "amyotrofická laterální skleróza",
+    "lou gehrigova choroba",
+    "lou gehrigova nemoc"
+  ],
+  "poranění páteře": [
+    "spinální trauma",
+    "zranění páteře"
+  ],
+  "otitis externa": [
+    "externí otitida"
+  ],
+  "nádor močového měchýře": [
+    "nádory močového měchýře"
+  ],
+  "sirs": [
+    "otrava krve",
+    "sepse",
+    "septikémie"
+  ],
+  "aortální stenóza": [
+    "stenóza aortální chlopně",
+    "zúžení aortální chlopně"
+  ],
+  "uc": [
+    "ulcerózní kolitida"
+  ],
+  "herpes zoster": [
+    "pásový opar"
+  ],
+  "pda": [
+    "ductus arteriosus patens",
+    "otevřená botallova dučej",
+    "otevřená botallova tepenná dučej"
+  ],
+  "krvácení do mozku": [
+    "intracerebrální hematom"
+  ],
+  "brd": [
+    "bovine respiratory disease",
+    "respirační syndrom skotu"
+  ],
+  "ra": [
+    "progresivní polyartritida",
+    "progresivní polyartritis",
+    "revmatoidní artritida"
+  ],
+  "systémový lupus erythematodes": [
+    "sle"
+  ],
+  "spinocerebelární ataxie": [
+    "spinocerebellar ataxia"
+  ],
+  "sle": [
+    "systémový lupus erythematodes"
+  ],
+  "syndrom opařené kůže": [
+    "lyellův syndrom",
+    "ten",
+    "toxická epidermální nekrolýza"
+  ],
+  "diabetes": [
+    "cukrovka",
+    "diabetes mellitus"
+  ],
+  "cva": [
+    "apoplexia cerebri",
+    "cmp",
+    "cvi",
+    "cévní mozková příhoda",
+    "ictus apoplecticus",
+    "ictus apoplecticus cerebri",
+    "ictus cerebri",
+    "infarkt mozku",
+    "mozková apoplexie",
+    "mozková mrtvice",
+    "mozkový infarkt",
+    "mrtvice"
+  ],
+  "infekce močových cest": [
+    "zánět močových cest"
+  ],
+  "crohnova choroba": [
+    "crohnova nemoc",
+    "regionální enteritida"
+  ],
+  "myopatie": [
+    "nemoci svalů"
+  ],
+  "akutní břicho": [
+    "náhlá příhoda břišní"
+  ],
+  "aneuryzma": [
+    "aneurysma"
+  ],
+  "fibrilace komor": [
+    "kf",
+    "komorová fibrilace"
+  ],
+  "behçetova choroba": [
+    "behçetova nemoc"
+  ],
+  "sezónní alergická rýma": [
+    "sezónní alergická rhinitis"
+  ],
+  "zarděnky": [
+    "rubeola",
+    "rubeolla"
+  ],
+  "spalničky": [
+    "morbilli"
+  ],
+  "idiopatická trombocytopenická purpura": [
+    "itp",
+    "morbus maculosus werlhofi",
+    "trombocytopenická purpura"
+  ],
+  "cushingův syndrom": [
+    "cushing"
+  ],
+  "mozkový absces": [
+    "absces mozku"
+  ],
+  "cévní mozková příhoda": [
+    "apoplexia cerebri",
+    "cmp",
+    "cva",
+    "cvi",
+    "ictus apoplecticus",
+    "ictus apoplecticus cerebri",
+    "ictus cerebri",
+    "infarkt mozku",
+    "mozková apoplexie",
+    "mozková mrtvice",
+    "mozkový infarkt",
+    "mrtvice"
+  ],
+  "takayasuova choroba": [
+    "takayasuova arteritida",
+    "takayasuova nemoc"
+  ],
+  "poruchy autistického spektra": [
+    "autistické spektrum",
+    "pas"
+  ],
+  "kandidóza": [
+    "candidóza"
+  ],
+  "ageneze ledvin": [
+    "renální ageneze"
+  ],
+  "jaterní selhání": [
+    "selhání jater"
+  ],
+  "parazitární infekce": [
+    "parazitární onemocnění",
+    "parazitóza"
+  ],
+  "uzel štítné žlázy": [
+    "thyroideální uzel",
+    "tyroideální uzel"
+  ],
+  "tbc": [
+    "souchotiny",
+    "tuberkulóza"
+  ],
+  "kryptokokóza": [
+    "kryptokokální meningitida"
+  ],
+  "komorová fibrilace": [
+    "fibrilace komor",
+    "kf"
+  ],
+  "covid-19": [
+    "cov-19",
+    "koronavirová infekce",
+    "koronavirová nemoc",
+    "kovid",
+    "wuchanská chřipka",
+    "čínská chřipka"
+  ],
+  "zápal plic": [
+    "bronchopneumonie",
+    "pneumonie"
+  ],
+  "defekt komorového septa": [
+    "defekt ventrikulárního septa"
+  ],
+  "ectopia lentis": [
+    "ektopie čočky"
+  ],
+  "chagasova choroba": [
+    "chagas",
+    "chagasova nemoc"
+  ],
+  "fibrilace síní": [
+    "síňová fibrilace"
+  ],
+  "nádor žaludku": [
+    "nádory žaludku"
+  ],
+  "diabetes mellitus": [
+    "cukrovka",
+    "diabetes"
   ]
 }

@@ -1,6 +1,10 @@
 # Model weights and checkpoints (too large for git)
 models/
 
+# For now
+data/
+output/
+
 # Claude Code local config
 .claude/
 
