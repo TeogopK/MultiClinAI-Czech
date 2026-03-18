@@ -66,4 +66,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--epochs", type=int, default=NUM_EPOCHS)
     parser.add_argument("--max_length", type=int, default=MAX_LENGTH)
     parser.add_argument("--use_crf", action="store_true", help="Use CRF layer on top of transformer")
+    parser.add_argument(
+        "--extra_data_dirs",
+        type=str,
+        nargs="*",
+        default=[],
+        help="Additional BRAT data directories (augmented/back-translated) to merge with training data",
+    )
     return parser.parse_args()

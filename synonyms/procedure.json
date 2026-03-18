@@ -1,0 +1,4516 @@
+{
+  "vyšetření": [
+    "vyšetřeních"
+  ],
+  "vyšetřeních": [
+    "vyšetření"
+  ],
+  "biochemie": [
+    "biochemii",
+    "biochemií"
+  ],
+  "biochemii": [
+    "biochemie",
+    "biochemií"
+  ],
+  "biochemií": [
+    "biochemie",
+    "biochemii"
+  ],
+  "hemogram": [
+    "hemogramem",
+    "hemogramu"
+  ],
+  "hemogramem": [
+    "hemogram",
+    "hemogramu"
+  ],
+  "hemogramu": [
+    "hemogram",
+    "hemogramem"
+  ],
+  "koagulace": [
+    "koagulaci",
+    "koagulací",
+    "koagulační",
+    "koagulačních"
+  ],
+  "koagulaci": [
+    "koagulace",
+    "koagulací",
+    "koagulační",
+    "koagulačních"
+  ],
+  "koagulací": [
+    "koagulace",
+    "koagulaci",
+    "koagulační",
+    "koagulačních"
+  ],
+  "koagulační": [
+    "koagulace",
+    "koagulaci",
+    "koagulací",
+    "koagulačních"
+  ],
+  "koagulačních": [
+    "koagulace",
+    "koagulaci",
+    "koagulací",
+    "koagulační"
+  ],
+  "zobrazovacích vyšetření": [
+    "zobrazovacích vyšetřeních"
+  ],
+  "zobrazovacích vyšetřeních": [
+    "zobrazovacích vyšetření"
+  ],
+  "operace": [
+    "operaci",
+    "operací"
+  ],
+  "operaci": [
+    "operace",
+    "operací"
+  ],
+  "operací": [
+    "operace",
+    "operaci"
+  ],
+  "kolonoskopie": [
+    "kolonoskopii",
+    "kolonoskopií"
+  ],
+  "kolonoskopii": [
+    "kolonoskopie",
+    "kolonoskopií"
+  ],
+  "kolonoskopií": [
+    "kolonoskopie",
+    "kolonoskopii"
+  ],
+  "proteinogram": [
+    "proteinogramem",
+    "proteinogramu"
+  ],
+  "proteinogramem": [
+    "proteinogram",
+    "proteinogramu"
+  ],
+  "proteinogramu": [
+    "proteinogram",
+    "proteinogramem"
+  ],
+  "kraniektomie": [
+    "kraniektomii"
+  ],
+  "kraniektomii": [
+    "kraniektomie"
+  ],
+  "serologie": [
+    "sérologie",
+    "sérologii"
+  ],
+  "sérologie": [
+    "serologie",
+    "sérologii"
+  ],
+  "sérologii": [
+    "serologie",
+    "sérologie"
+  ],
+  "ct vyšetření": [
+    "ct vyšetřeních",
+    "ct vyšetřením"
+  ],
+  "ct vyšetřeních": [
+    "ct vyšetření",
+    "ct vyšetřením"
+  ],
+  "ct vyšetřením": [
+    "ct vyšetření",
+    "ct vyšetřeních"
+  ],
+  "orl vyšetření": [
+    "orl vyšetřením"
+  ],
+  "orl vyšetřením": [
+    "orl vyšetření"
+  ],
+  "hysterektomie": [
+    "hysterektomii"
+  ],
+  "hysterektomii": [
+    "hysterektomie"
+  ],
+  "chemoterapie": [
+    "chemoterapii",
+    "chemoterapií"
+  ],
+  "chemoterapii": [
+    "chemoterapie",
+    "chemoterapií"
+  ],
+  "chemoterapií": [
+    "chemoterapie",
+    "chemoterapii"
+  ],
+  "scintigrafii kostí": [
+    "scintigrafií kostí"
+  ],
+  "scintigrafií kostí": [
+    "scintigrafii kostí"
+  ],
+  "spinální anestezie": [
+    "spinální anestezii"
+  ],
+  "spinální anestezii": [
+    "spinální anestezie"
+  ],
+  "parenterální výživa": [
+    "parenterální výživy"
+  ],
+  "parenterální výživy": [
+    "parenterální výživa"
+  ],
+  "lipidy": [
+    "lipidů"
+  ],
+  "lipidů": [
+    "lipidy"
+  ],
+  "fyzikálním vyšetření": [
+    "fyzikálním vyšetřením"
+  ],
+  "fyzikálním vyšetřením": [
+    "fyzikálním vyšetření"
+  ],
+  "radiologické kontrole": [
+    "radiologické kontroly"
+  ],
+  "radiologické kontroly": [
+    "radiologické kontrole"
+  ],
+  "adjuvantní chemoterapie": [
+    "adjuvantní chemoterapii",
+    "adjuvantní chemoterapií"
+  ],
+  "adjuvantní chemoterapii": [
+    "adjuvantní chemoterapie",
+    "adjuvantní chemoterapií"
+  ],
+  "adjuvantní chemoterapií": [
+    "adjuvantní chemoterapie",
+    "adjuvantní chemoterapii"
+  ],
+  "transplantace ledvin": [
+    "transplantace ledviny",
+    "transplantaci ledviny",
+    "transplantací ledviny"
+  ],
+  "transplantace ledviny": [
+    "transplantace ledvin",
+    "transplantaci ledviny",
+    "transplantací ledviny"
+  ],
+  "transplantaci ledviny": [
+    "transplantace ledvin",
+    "transplantace ledviny",
+    "transplantací ledviny"
+  ],
+  "transplantací ledviny": [
+    "transplantace ledvin",
+    "transplantace ledviny",
+    "transplantaci ledviny"
+  ],
+  "nefrektomie": [
+    "nefrektomii"
+  ],
+  "nefrektomii": [
+    "nefrektomie"
+  ],
+  "palpace": [
+    "palpaci",
+    "palpací",
+    "palpační",
+    "palpačních"
+  ],
+  "palpaci": [
+    "palpace",
+    "palpací",
+    "palpační",
+    "palpačních"
+  ],
+  "palpací": [
+    "palpace",
+    "palpaci",
+    "palpační",
+    "palpačních"
+  ],
+  "palpační": [
+    "palpace",
+    "palpaci",
+    "palpací",
+    "palpačních"
+  ],
+  "palpačních": [
+    "palpace",
+    "palpaci",
+    "palpací",
+    "palpační"
+  ],
+  "explorativní laparotomie": [
+    "explorativní laparotomii"
+  ],
+  "explorativní laparotomii": [
+    "explorativní laparotomie"
+  ],
+  "cystoskopie": [
+    "cystoskopii",
+    "cystoskopií"
+  ],
+  "cystoskopii": [
+    "cystoskopie",
+    "cystoskopií"
+  ],
+  "cystoskopií": [
+    "cystoskopie",
+    "cystoskopii"
+  ],
+  "kultivace": [
+    "kultivaci",
+    "kultivací"
+  ],
+  "kultivaci": [
+    "kultivace",
+    "kultivací"
+  ],
+  "kultivací": [
+    "kultivace",
+    "kultivaci"
+  ],
+  "instilace": [
+    "instilaci",
+    "instilací",
+    "instilacích"
+  ],
+  "instilaci": [
+    "instilace",
+    "instilací",
+    "instilacích"
+  ],
+  "instilací": [
+    "instilace",
+    "instilaci",
+    "instilacích"
+  ],
+  "instilacích": [
+    "instilace",
+    "instilaci",
+    "instilací"
+  ],
+  "cytologie": [
+    "cytologií"
+  ],
+  "cytologií": [
+    "cytologie"
+  ],
+  "kultivaci moči": [
+    "kultivací moči"
+  ],
+  "kultivací moči": [
+    "kultivaci moči"
+  ],
+  "sediment": [
+    "sedimentem",
+    "sedimentu"
+  ],
+  "sedimentem": [
+    "sediment",
+    "sedimentu"
+  ],
+  "sedimentu": [
+    "sediment",
+    "sedimentem"
+  ],
+  "ultrazvuk": [
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukem": [
+    "ultrazvuk",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvuková": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukové": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukového": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukovém": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukovému": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukový",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukový": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukových",
+    "ultrazvuku"
+  ],
+  "ultrazvukových": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvuku"
+  ],
+  "ultrazvuku": [
+    "ultrazvuk",
+    "ultrazvukem",
+    "ultrazvuková",
+    "ultrazvukové",
+    "ultrazvukového",
+    "ultrazvukovém",
+    "ultrazvukovému",
+    "ultrazvukový",
+    "ultrazvukových"
+  ],
+  "implantátu": [
+    "implantáty",
+    "implantátů"
+  ],
+  "implantáty": [
+    "implantátu",
+    "implantátů"
+  ],
+  "implantátů": [
+    "implantátu",
+    "implantáty"
+  ],
+  "chirurgické léčby": [
+    "chirurgické léčbě"
+  ],
+  "chirurgické léčbě": [
+    "chirurgické léčby"
+  ],
+  "kožní biopsie": [
+    "kožní biopsii"
+  ],
+  "kožní biopsii": [
+    "kožní biopsie"
+  ],
+  "antikoagulační léčba": [
+    "antikoagulační léčbou",
+    "antikoagulační léčbu",
+    "antikoagulační léčby",
+    "antikoagulační léčbě"
+  ],
+  "antikoagulační léčbou": [
+    "antikoagulační léčba",
+    "antikoagulační léčbu",
+    "antikoagulační léčby",
+    "antikoagulační léčbě"
+  ],
+  "antikoagulační léčbu": [
+    "antikoagulační léčba",
+    "antikoagulační léčbou",
+    "antikoagulační léčby",
+    "antikoagulační léčbě"
+  ],
+  "antikoagulační léčby": [
+    "antikoagulační léčba",
+    "antikoagulační léčbou",
+    "antikoagulační léčbu",
+    "antikoagulační léčbě"
+  ],
+  "antikoagulační léčbě": [
+    "antikoagulační léčba",
+    "antikoagulační léčbou",
+    "antikoagulační léčbu",
+    "antikoagulační léčby"
+  ],
+  "magnetické rezonance": [
+    "magnetické rezonanci"
+  ],
+  "magnetické rezonanci": [
+    "magnetické rezonance"
+  ],
+  "histologie": [
+    "histologií"
+  ],
+  "histologií": [
+    "histologie"
+  ],
+  "transplantace": [
+    "transplantaci",
+    "transplantací",
+    "transplantační"
+  ],
+  "transplantaci": [
+    "transplantace",
+    "transplantací",
+    "transplantační"
+  ],
+  "transplantací": [
+    "transplantace",
+    "transplantaci",
+    "transplantační"
+  ],
+  "transplantační": [
+    "transplantace",
+    "transplantaci",
+    "transplantací"
+  ],
+  "kavografie": [
+    "kavografií"
+  ],
+  "kavografií": [
+    "kavografie"
+  ],
+  "sternotomie": [
+    "sternotomii"
+  ],
+  "sternotomii": [
+    "sternotomie"
+  ],
+  "scintigrafie": [
+    "scintigrafii",
+    "scintigrafií"
+  ],
+  "scintigrafii": [
+    "scintigrafie",
+    "scintigrafií"
+  ],
+  "scintigrafií": [
+    "scintigrafie",
+    "scintigrafii"
+  ],
+  "analgetik": [
+    "analgetika",
+    "analgetiky"
+  ],
+  "analgetika": [
+    "analgetik",
+    "analgetiky"
+  ],
+  "analgetiky": [
+    "analgetik",
+    "analgetika"
+  ],
+  "krevním obraze": [
+    "krevním obrazem"
+  ],
+  "krevním obrazem": [
+    "krevním obraze"
+  ],
+  "anamnéza": [
+    "anamnéze",
+    "anamnézou",
+    "anamnézu",
+    "anamnézy"
+  ],
+  "anamnéze": [
+    "anamnéza",
+    "anamnézou",
+    "anamnézu",
+    "anamnézy"
+  ],
+  "anamnézou": [
+    "anamnéza",
+    "anamnéze",
+    "anamnézu",
+    "anamnézy"
+  ],
+  "anamnézu": [
+    "anamnéza",
+    "anamnéze",
+    "anamnézou",
+    "anamnézy"
+  ],
+  "anamnézy": [
+    "anamnéza",
+    "anamnéze",
+    "anamnézou",
+    "anamnézu"
+  ],
+  "elektromyogram": [
+    "elektromyogramem"
+  ],
+  "elektromyogramem": [
+    "elektromyogram"
+  ],
+  "elektroneurografie": [
+    "elektroneurografii"
+  ],
+  "elektroneurografii": [
+    "elektroneurografie"
+  ],
+  "rehabilitace": [
+    "rehabilitaci",
+    "rehabilitační",
+    "rehabilitačním"
+  ],
+  "rehabilitaci": [
+    "rehabilitace",
+    "rehabilitační",
+    "rehabilitačním"
+  ],
+  "rehabilitační": [
+    "rehabilitace",
+    "rehabilitaci",
+    "rehabilitačním"
+  ],
+  "rehabilitačním": [
+    "rehabilitace",
+    "rehabilitaci",
+    "rehabilitační"
+  ],
+  "invazivní mechanickou ventilaci": [
+    "invazivní mechanickou ventilací"
+  ],
+  "invazivní mechanickou ventilací": [
+    "invazivní mechanickou ventilaci"
+  ],
+  "tracheotomie": [
+    "tracheotomii"
+  ],
+  "tracheotomii": [
+    "tracheotomie"
+  ],
+  "elektrolyty": [
+    "elektrolytů"
+  ],
+  "elektrolytů": [
+    "elektrolyty"
+  ],
+  "lalok": [
+    "laloku",
+    "laloků"
+  ],
+  "laloku": [
+    "lalok",
+    "laloků"
+  ],
+  "laloků": [
+    "lalok",
+    "laloku"
+  ],
+  "lokální anestezie": [
+    "lokální anestezii"
+  ],
+  "lokální anestezii": [
+    "lokální anestezie"
+  ],
+  "cholecystektomie": [
+    "cholecystektomii",
+    "cholecystektomií"
+  ],
+  "cholecystektomii": [
+    "cholecystektomie",
+    "cholecystektomií"
+  ],
+  "cholecystektomií": [
+    "cholecystektomie",
+    "cholecystektomii"
+  ],
+  "hemokultur": [
+    "hemokultura",
+    "hemokulturou",
+    "hemokultury",
+    "hemokultuře"
+  ],
+  "hemokultura": [
+    "hemokultur",
+    "hemokulturou",
+    "hemokultury",
+    "hemokultuře"
+  ],
+  "hemokulturou": [
+    "hemokultur",
+    "hemokultura",
+    "hemokultury",
+    "hemokultuře"
+  ],
+  "hemokultury": [
+    "hemokultur",
+    "hemokultura",
+    "hemokulturou",
+    "hemokultuře"
+  ],
+  "hemokultuře": [
+    "hemokultur",
+    "hemokultura",
+    "hemokulturou",
+    "hemokultury"
+  ],
+  "protizánětlivé léčby": [
+    "protizánětlivé léčbě"
+  ],
+  "protizánětlivé léčbě": [
+    "protizánětlivé léčby"
+  ],
+  "léčba": [
+    "léčbě"
+  ],
+  "léčbě": [
+    "léčba"
+  ],
+  "splenektomie": [
+    "splenektomii",
+    "splenektomií"
+  ],
+  "splenektomii": [
+    "splenektomie",
+    "splenektomií"
+  ],
+  "splenektomií": [
+    "splenektomie",
+    "splenektomii"
+  ],
+  "radioterapie": [
+    "radioterapii",
+    "radioterapií"
+  ],
+  "radioterapii": [
+    "radioterapie",
+    "radioterapií"
+  ],
+  "radioterapií": [
+    "radioterapie",
+    "radioterapii"
+  ],
+  "rentgen": [
+    "rentgenem"
+  ],
+  "rentgenem": [
+    "rentgen"
+  ],
+  "patologie": [
+    "patologii"
+  ],
+  "patologii": [
+    "patologie"
+  ],
+  "mikrobiologie": [
+    "mikrobiologii"
+  ],
+  "mikrobiologii": [
+    "mikrobiologie"
+  ],
+  "biopsie": [
+    "biopsii",
+    "biopsií"
+  ],
+  "biopsii": [
+    "biopsie",
+    "biopsií"
+  ],
+  "biopsií": [
+    "biopsie",
+    "biopsii"
+  ],
+  "krevní test": [
+    "krevní testy"
+  ],
+  "krevní testy": [
+    "krevní test"
+  ],
+  "rektálním vyšetření": [
+    "rektálním vyšetřením"
+  ],
+  "rektálním vyšetřením": [
+    "rektálním vyšetření"
+  ],
+  "gastroskopie": [
+    "gastroskopii",
+    "gastroskopií"
+  ],
+  "gastroskopii": [
+    "gastroskopie",
+    "gastroskopií"
+  ],
+  "gastroskopií": [
+    "gastroskopie",
+    "gastroskopii"
+  ],
+  "leoch": [
+    "leochem"
+  ],
+  "leochem": [
+    "leoch"
+  ],
+  "thorakocentéza": [
+    "thorakocentéze"
+  ],
+  "thorakocentéze": [
+    "thorakocentéza"
+  ],
+  "intravenózní antibiotické léčby": [
+    "intravenózní antibiotické léčbě"
+  ],
+  "intravenózní antibiotické léčbě": [
+    "intravenózní antibiotické léčby"
+  ],
+  "analgezie": [
+    "analgezii",
+    "analgezií"
+  ],
+  "analgezii": [
+    "analgezie",
+    "analgezií"
+  ],
+  "analgezií": [
+    "analgezie",
+    "analgezii"
+  ],
+  "kultivaci krve": [
+    "kultivací krve"
+  ],
+  "kultivací krve": [
+    "kultivaci krve"
+  ],
+  "antibiotické léčby": [
+    "antibiotické léčbě"
+  ],
+  "antibiotické léčbě": [
+    "antibiotické léčby"
+  ],
+  "rehabilitační léčbu": [
+    "rehabilitační léčbě"
+  ],
+  "rehabilitační léčbě": [
+    "rehabilitační léčbu"
+  ],
+  "osteosyntéze": [
+    "osteosyntézy"
+  ],
+  "osteosyntézy": [
+    "osteosyntéze"
+  ],
+  "očkován": [
+    "očkována"
+  ],
+  "očkována": [
+    "očkován"
+  ],
+  "perorální enterální výživa": [
+    "perorální enterální výživou"
+  ],
+  "perorální enterální výživou": [
+    "perorální enterální výživa"
+  ],
+  "kolostomie": [
+    "kolostomii"
+  ],
+  "kolostomii": [
+    "kolostomie"
+  ],
+  "sérové terapie": [
+    "sérové terapii"
+  ],
+  "sérové terapii": [
+    "sérové terapie"
+  ],
+  "kortikosteroidy": [
+    "kortikosteroidů"
+  ],
+  "kortikosteroidů": [
+    "kortikosteroidy"
+  ],
+  "ablace": [
+    "ablaci",
+    "ablací",
+    "ablační"
+  ],
+  "ablaci": [
+    "ablace",
+    "ablací",
+    "ablační"
+  ],
+  "ablací": [
+    "ablace",
+    "ablaci",
+    "ablační"
+  ],
+  "ablační": [
+    "ablace",
+    "ablaci",
+    "ablací"
+  ],
+  "antibiotik": [
+    "antibiotika",
+    "antibiotikem",
+    "antibiotiky"
+  ],
+  "antibiotika": [
+    "antibiotik",
+    "antibiotikem",
+    "antibiotiky"
+  ],
+  "antibiotikem": [
+    "antibiotik",
+    "antibiotika",
+    "antibiotiky"
+  ],
+  "antibiotiky": [
+    "antibiotik",
+    "antibiotika",
+    "antibiotikem"
+  ],
+  "imunohistochemickou": [
+    "imunohistochemicky"
+  ],
+  "imunohistochemicky": [
+    "imunohistochemickou"
+  ],
+  "lumbální punkce": [
+    "lumbální punkci"
+  ],
+  "lumbální punkci": [
+    "lumbální punkce"
+  ],
+  "renální biopsie": [
+    "renální biopsii"
+  ],
+  "renální biopsii": [
+    "renální biopsie"
+  ],
+  "intravenózní hydrataci": [
+    "intravenózní hydratací"
+  ],
+  "intravenózní hydratací": [
+    "intravenózní hydrataci"
+  ],
+  "antibiotické terapie": [
+    "antibiotické terapii"
+  ],
+  "antibiotické terapii": [
+    "antibiotické terapie"
+  ],
+  "tekutinovou terapii": [
+    "tekutinovou terapií",
+    "tekutinové terapie",
+    "tekutinové terapii"
+  ],
+  "tekutinovou terapií": [
+    "tekutinovou terapii",
+    "tekutinové terapie",
+    "tekutinové terapii"
+  ],
+  "tekutinové terapie": [
+    "tekutinovou terapii",
+    "tekutinovou terapií",
+    "tekutinové terapii"
+  ],
+  "tekutinové terapii": [
+    "tekutinovou terapii",
+    "tekutinovou terapií",
+    "tekutinové terapie"
+  ],
+  "transamináz": [
+    "transaminázy"
+  ],
+  "transaminázy": [
+    "transamináz"
+  ],
+  "elektroencefalogram": [
+    "elektroencefalogramem"
+  ],
+  "elektroencefalogramem": [
+    "elektroencefalogram"
+  ],
+  "absolutní dieta": [
+    "absolutní dietou",
+    "absolutní dietě"
+  ],
+  "absolutní dietou": [
+    "absolutní dieta",
+    "absolutní dietě"
+  ],
+  "absolutní dietě": [
+    "absolutní dieta",
+    "absolutní dietou"
+  ],
+  "vyšetřena": [
+    "vyšetřeni"
+  ],
+  "vyšetřeni": [
+    "vyšetřena"
+  ],
+  "cystektomie": [
+    "cystektomii"
+  ],
+  "cystektomii": [
+    "cystektomie"
+  ],
+  "hemodialýza": [
+    "hemodialýze",
+    "hemodialýzou",
+    "hemodialýzu",
+    "hemodialýzy",
+    "hemodialýzách"
+  ],
+  "hemodialýze": [
+    "hemodialýza",
+    "hemodialýzou",
+    "hemodialýzu",
+    "hemodialýzy",
+    "hemodialýzách"
+  ],
+  "hemodialýzou": [
+    "hemodialýza",
+    "hemodialýze",
+    "hemodialýzu",
+    "hemodialýzy",
+    "hemodialýzách"
+  ],
+  "hemodialýzu": [
+    "hemodialýza",
+    "hemodialýze",
+    "hemodialýzou",
+    "hemodialýzy",
+    "hemodialýzách"
+  ],
+  "hemodialýzy": [
+    "hemodialýza",
+    "hemodialýze",
+    "hemodialýzou",
+    "hemodialýzu",
+    "hemodialýzách"
+  ],
+  "hemodialýzách": [
+    "hemodialýza",
+    "hemodialýze",
+    "hemodialýzou",
+    "hemodialýzu",
+    "hemodialýzy"
+  ],
+  "mantoux": [
+    "mantouxu"
+  ],
+  "mantouxu": [
+    "mantoux"
+  ],
+  "ortopantomografie": [
+    "ortopantomografii"
+  ],
+  "ortopantomografii": [
+    "ortopantomografie"
+  ],
+  "koagulační test": [
+    "koagulační testy"
+  ],
+  "koagulační testy": [
+    "koagulační test"
+  ],
+  "hemostáza": [
+    "hemostáze",
+    "hemostázu"
+  ],
+  "hemostáze": [
+    "hemostáza",
+    "hemostázu"
+  ],
+  "hemostázu": [
+    "hemostáza",
+    "hemostáze"
+  ],
+  "katetrizace": [
+    "katetrizaci",
+    "katetrizační",
+    "katetrizačním"
+  ],
+  "katetrizaci": [
+    "katetrizace",
+    "katetrizační",
+    "katetrizačním"
+  ],
+  "katetrizační": [
+    "katetrizace",
+    "katetrizaci",
+    "katetrizačním"
+  ],
+  "katetrizačním": [
+    "katetrizace",
+    "katetrizaci",
+    "katetrizační"
+  ],
+  "intravenózní urografie": [
+    "intravenózní urografii",
+    "intravenózní urografií"
+  ],
+  "intravenózní urografii": [
+    "intravenózní urografie",
+    "intravenózní urografií"
+  ],
+  "intravenózní urografií": [
+    "intravenózní urografie",
+    "intravenózní urografii"
+  ],
+  "apendektomie": [
+    "apendektomii",
+    "apendektomií"
+  ],
+  "apendektomii": [
+    "apendektomie",
+    "apendektomií"
+  ],
+  "apendektomií": [
+    "apendektomie",
+    "apendektomii"
+  ],
+  "gonioskopie": [
+    "gonioskopii"
+  ],
+  "gonioskopii": [
+    "gonioskopie"
+  ],
+  "počítačovou tomografii": [
+    "počítačovou tomografií",
+    "počítačové tomografie",
+    "počítačové tomografii"
+  ],
+  "počítačovou tomografií": [
+    "počítačovou tomografii",
+    "počítačové tomografie",
+    "počítačové tomografii"
+  ],
+  "počítačové tomografie": [
+    "počítačovou tomografii",
+    "počítačovou tomografií",
+    "počítačové tomografii"
+  ],
+  "počítačové tomografii": [
+    "počítačovou tomografii",
+    "počítačovou tomografií",
+    "počítačové tomografie"
+  ],
+  "beta-blokátor": [
+    "beta-blokátorem",
+    "beta-blokátoru",
+    "beta-blokátory",
+    "beta-blokátorů"
+  ],
+  "beta-blokátorem": [
+    "beta-blokátor",
+    "beta-blokátoru",
+    "beta-blokátory",
+    "beta-blokátorů"
+  ],
+  "beta-blokátoru": [
+    "beta-blokátor",
+    "beta-blokátorem",
+    "beta-blokátory",
+    "beta-blokátorů"
+  ],
+  "beta-blokátory": [
+    "beta-blokátor",
+    "beta-blokátorem",
+    "beta-blokátoru",
+    "beta-blokátorů"
+  ],
+  "beta-blokátorů": [
+    "beta-blokátor",
+    "beta-blokátorem",
+    "beta-blokátoru",
+    "beta-blokátory"
+  ],
+  "katetrizaci močového měchýře": [
+    "katetrizací močového měchýře"
+  ],
+  "katetrizací močového měchýře": [
+    "katetrizaci močového měchýře"
+  ],
+  "antibiotickou léčbou": [
+    "antibiotickou léčbu"
+  ],
+  "antibiotickou léčbu": [
+    "antibiotickou léčbou"
+  ],
+  "antibiogram": [
+    "antibiogramem",
+    "antibiogramu"
+  ],
+  "antibiogramem": [
+    "antibiogram",
+    "antibiogramu"
+  ],
+  "antibiogramu": [
+    "antibiogram",
+    "antibiogramem"
+  ],
+  "fibrinolytické léčby": [
+    "fibrinolytické léčbě"
+  ],
+  "fibrinolytické léčbě": [
+    "fibrinolytické léčby"
+  ],
+  "intervence": [
+    "intervenci"
+  ],
+  "intervenci": [
+    "intervence"
+  ],
+  "počítačové axiální tomografie": [
+    "počítačové axiální tomografii"
+  ],
+  "počítačové axiální tomografii": [
+    "počítačové axiální tomografie"
+  ],
+  "hormonální substituční léčba": [
+    "hormonální substituční léčbou"
+  ],
+  "hormonální substituční léčbou": [
+    "hormonální substituční léčba"
+  ],
+  "intravenózní analgezie": [
+    "intravenózní analgezii"
+  ],
+  "intravenózní analgezii": [
+    "intravenózní analgezie"
+  ],
+  "chirurgické drenáže": [
+    "chirurgické drenáži"
+  ],
+  "chirurgické drenáži": [
+    "chirurgické drenáže"
+  ],
+  "hematologem": [
+    "hematologie",
+    "hematologii"
+  ],
+  "hematologie": [
+    "hematologem",
+    "hematologii"
+  ],
+  "hematologii": [
+    "hematologem",
+    "hematologie"
+  ],
+  "evakuaci hematomu": [
+    "evakuací hematomu"
+  ],
+  "evakuací hematomu": [
+    "evakuaci hematomu"
+  ],
+  "subokcipitální kraniektomie": [
+    "subokcipitální kraniektomii"
+  ],
+  "subokcipitální kraniektomii": [
+    "subokcipitální kraniektomie"
+  ],
+  "resekce": [
+    "resekci",
+    "resekcí",
+    "resekční",
+    "resekčních",
+    "resekčního"
+  ],
+  "resekci": [
+    "resekce",
+    "resekcí",
+    "resekční",
+    "resekčních",
+    "resekčního"
+  ],
+  "resekcí": [
+    "resekce",
+    "resekci",
+    "resekční",
+    "resekčních",
+    "resekčního"
+  ],
+  "resekční": [
+    "resekce",
+    "resekci",
+    "resekcí",
+    "resekčních",
+    "resekčního"
+  ],
+  "resekčních": [
+    "resekce",
+    "resekci",
+    "resekcí",
+    "resekční",
+    "resekčního"
+  ],
+  "resekčního": [
+    "resekce",
+    "resekci",
+    "resekcí",
+    "resekční",
+    "resekčních"
+  ],
+  "dialýzu": [
+    "dialýzy"
+  ],
+  "dialýzy": [
+    "dialýzu"
+  ],
+  "rentgenovém snímk": [
+    "rentgenovém snímku"
+  ],
+  "rentgenovém snímku": [
+    "rentgenovém snímk"
+  ],
+  "orotracheální intubace": [
+    "orotracheální intubaci",
+    "orotracheální intubací"
+  ],
+  "orotracheální intubaci": [
+    "orotracheální intubace",
+    "orotracheální intubací"
+  ],
+  "orotracheální intubací": [
+    "orotracheální intubace",
+    "orotracheální intubaci"
+  ],
+  "mechanickou ventilaci": [
+    "mechanickou ventilací"
+  ],
+  "mechanickou ventilací": [
+    "mechanickou ventilaci"
+  ],
+  "bronchoalveolární laváž": [
+    "bronchoalveolární laváže"
+  ],
+  "bronchoalveolární laváže": [
+    "bronchoalveolární laváž"
+  ],
+  "bakteriologickou kultivaci": [
+    "bakteriologickou kultivací"
+  ],
+  "bakteriologickou kultivací": [
+    "bakteriologickou kultivaci"
+  ],
+  "ct angiografie": [
+    "ct angiografii"
+  ],
+  "ct angiografii": [
+    "ct angiografie"
+  ],
+  "sedace": [
+    "sedaci",
+    "sedací"
+  ],
+  "sedaci": [
+    "sedace",
+    "sedací"
+  ],
+  "sedací": [
+    "sedace",
+    "sedaci"
+  ],
+  "extubován": [
+    "extubována"
+  ],
+  "extubována": [
+    "extubován"
+  ],
+  "intubace": [
+    "intubaci"
+  ],
+  "intubaci": [
+    "intubace"
+  ],
+  "perkutánní tracheostomie": [
+    "perkutánní tracheostomii"
+  ],
+  "perkutánní tracheostomii": [
+    "perkutánní tracheostomie"
+  ],
+  "ultrafiltrace": [
+    "ultrafiltraci",
+    "ultrafiltrací"
+  ],
+  "ultrafiltraci": [
+    "ultrafiltrace",
+    "ultrafiltrací"
+  ],
+  "ultrafiltrací": [
+    "ultrafiltrace",
+    "ultrafiltraci"
+  ],
+  "dialyzát": [
+    "dialyzátu"
+  ],
+  "dialyzátu": [
+    "dialyzát"
+  ],
+  "b-mode ultrazvuk": [
+    "b-mode ultrazvuku"
+  ],
+  "b-mode ultrazvuku": [
+    "b-mode ultrazvuk"
+  ],
+  "angiografie": [
+    "angiografii",
+    "angiografií"
+  ],
+  "angiografii": [
+    "angiografie",
+    "angiografií"
+  ],
+  "angiografií": [
+    "angiografie",
+    "angiografii"
+  ],
+  "hormonální léčba": [
+    "hormonální léčbu",
+    "hormonální léčby",
+    "hormonální léčbě"
+  ],
+  "hormonální léčbu": [
+    "hormonální léčba",
+    "hormonální léčby",
+    "hormonální léčbě"
+  ],
+  "hormonální léčby": [
+    "hormonální léčba",
+    "hormonální léčbu",
+    "hormonální léčbě"
+  ],
+  "hormonální léčbě": [
+    "hormonální léčba",
+    "hormonální léčbu",
+    "hormonální léčby"
+  ],
+  "dialyzačních technik": [
+    "dialyzačních technikách"
+  ],
+  "dialyzačních technikách": [
+    "dialyzačních technik"
+  ],
+  "antibioterapie": [
+    "antibioterapii",
+    "antibioterapií"
+  ],
+  "antibioterapii": [
+    "antibioterapie",
+    "antibioterapií"
+  ],
+  "antibioterapií": [
+    "antibioterapie",
+    "antibioterapii"
+  ],
+  "drén": [
+    "drénu"
+  ],
+  "drénu": [
+    "drén"
+  ],
+  "kultur": [
+    "kulturou",
+    "kulturách",
+    "kultuře"
+  ],
+  "kulturou": [
+    "kultur",
+    "kulturách",
+    "kultuře"
+  ],
+  "kulturách": [
+    "kultur",
+    "kulturou",
+    "kultuře"
+  ],
+  "kultuře": [
+    "kultur",
+    "kulturou",
+    "kulturách"
+  ],
+  "imunosupresivní léčba": [
+    "imunosupresivní léčbou",
+    "imunosupresivní léčbu",
+    "imunosupresivní léčby",
+    "imunosupresivní léčbě"
+  ],
+  "imunosupresivní léčbou": [
+    "imunosupresivní léčba",
+    "imunosupresivní léčbu",
+    "imunosupresivní léčby",
+    "imunosupresivní léčbě"
+  ],
+  "imunosupresivní léčbu": [
+    "imunosupresivní léčba",
+    "imunosupresivní léčbou",
+    "imunosupresivní léčby",
+    "imunosupresivní léčbě"
+  ],
+  "imunosupresivní léčby": [
+    "imunosupresivní léčba",
+    "imunosupresivní léčbou",
+    "imunosupresivní léčbu",
+    "imunosupresivní léčbě"
+  ],
+  "imunosupresivní léčbě": [
+    "imunosupresivní léčba",
+    "imunosupresivní léčbou",
+    "imunosupresivní léčbu",
+    "imunosupresivní léčby"
+  ],
+  "debridement": [
+    "debridementové",
+    "debridementu"
+  ],
+  "debridementové": [
+    "debridement",
+    "debridementu"
+  ],
+  "debridementu": [
+    "debridement",
+    "debridementové"
+  ],
+  "imunosupresiv": [
+    "imunosupresivem",
+    "imunosupresivy"
+  ],
+  "imunosupresivem": [
+    "imunosupresiv",
+    "imunosupresivy"
+  ],
+  "imunosupresivy": [
+    "imunosupresiv",
+    "imunosupresivem"
+  ],
+  "intraoperační biopsie": [
+    "intraoperační biopsii"
+  ],
+  "intraoperační biopsii": [
+    "intraoperační biopsie"
+  ],
+  "disekce": [
+    "disekci"
+  ],
+  "disekci": [
+    "disekce"
+  ],
+  "horní endoskopie": [
+    "horní endoskopii"
+  ],
+  "horní endoskopii": [
+    "horní endoskopie"
+  ],
+  "rtg hrudník": [
+    "rtg hrudníku"
+  ],
+  "rtg hrudníku": [
+    "rtg hrudník"
+  ],
+  "transbronchiální biopsie": [
+    "transbronchiální biopsií"
+  ],
+  "transbronchiální biopsií": [
+    "transbronchiální biopsie"
+  ],
+  "plicní biopsie": [
+    "plicní biopsií"
+  ],
+  "plicní biopsií": [
+    "plicní biopsie"
+  ],
+  "drenáž": [
+    "drenáže",
+    "drenáži",
+    "drenáží"
+  ],
+  "drenáže": [
+    "drenáž",
+    "drenáži",
+    "drenáží"
+  ],
+  "drenáži": [
+    "drenáž",
+    "drenáže",
+    "drenáží"
+  ],
+  "drenáží": [
+    "drenáž",
+    "drenáže",
+    "drenáži"
+  ],
+  "mechanické ventilace": [
+    "mechanické ventilaci"
+  ],
+  "mechanické ventilaci": [
+    "mechanické ventilace"
+  ],
+  "transplantační operace": [
+    "transplantační operaci"
+  ],
+  "transplantační operaci": [
+    "transplantační operace"
+  ],
+  "nukleární magnetické rezonance": [
+    "nukleární magnetické rezonanci"
+  ],
+  "nukleární magnetické rezonanci": [
+    "nukleární magnetické rezonance"
+  ],
+  "enterální výživa": [
+    "enterální výživou",
+    "enterální výživu",
+    "enterální výživy"
+  ],
+  "enterální výživou": [
+    "enterální výživa",
+    "enterální výživu",
+    "enterální výživy"
+  ],
+  "enterální výživu": [
+    "enterální výživa",
+    "enterální výživou",
+    "enterální výživy"
+  ],
+  "enterální výživy": [
+    "enterální výživa",
+    "enterální výživou",
+    "enterální výživu"
+  ],
+  "extubace": [
+    "extubaci",
+    "extubací"
+  ],
+  "extubaci": [
+    "extubace",
+    "extubací"
+  ],
+  "extubací": [
+    "extubace",
+    "extubaci"
+  ],
+  "transuretrální resekce": [
+    "transuretrální resekci",
+    "transuretrální resekcí"
+  ],
+  "transuretrální resekci": [
+    "transuretrální resekce",
+    "transuretrální resekcí"
+  ],
+  "transuretrální resekcí": [
+    "transuretrální resekce",
+    "transuretrální resekci"
+  ],
+  "embolizaci": [
+    "embolizací"
+  ],
+  "embolizací": [
+    "embolizaci"
+  ],
+  "pitva": [
+    "pitvy",
+    "pitvě"
+  ],
+  "pitvy": [
+    "pitva",
+    "pitvě"
+  ],
+  "pitvě": [
+    "pitva",
+    "pitvy"
+  ],
+  "výkon": [
+    "výkonu"
+  ],
+  "výkonu": [
+    "výkon"
+  ],
+  "hydratace": [
+    "hydratačním"
+  ],
+  "hydratačním": [
+    "hydratace"
+  ],
+  "opioidu": [
+    "opioidy",
+    "opioidů"
+  ],
+  "opioidy": [
+    "opioidu",
+    "opioidů"
+  ],
+  "opioidů": [
+    "opioidu",
+    "opioidy"
+  ],
+  "orchiektomie": [
+    "orchiektomii",
+    "orchiektomií"
+  ],
+  "orchiektomii": [
+    "orchiektomie",
+    "orchiektomií"
+  ],
+  "orchiektomií": [
+    "orchiektomie",
+    "orchiektomii"
+  ],
+  "bimanuální palpaci": [
+    "bimanuální palpací"
+  ],
+  "bimanuální palpací": [
+    "bimanuální palpaci"
+  ],
+  "zmrazovací biopsie": [
+    "zmrazovací biopsii"
+  ],
+  "zmrazovací biopsii": [
+    "zmrazovací biopsie"
+  ],
+  "endoskopem": [
+    "endoskopie",
+    "endoskopii",
+    "endoskopu"
+  ],
+  "endoskopie": [
+    "endoskopem",
+    "endoskopii",
+    "endoskopu"
+  ],
+  "endoskopii": [
+    "endoskopem",
+    "endoskopie",
+    "endoskopu"
+  ],
+  "endoskopu": [
+    "endoskopem",
+    "endoskopie",
+    "endoskopii"
+  ],
+  "cévní reparace": [
+    "cévní reparaci"
+  ],
+  "cévní reparaci": [
+    "cévní reparace"
+  ],
+  "kardiopulmonální auskultace": [
+    "kardiopulmonální auskultaci"
+  ],
+  "kardiopulmonální auskultaci": [
+    "kardiopulmonální auskultace"
+  ],
+  "kontinuální ambulantní peritoneální dialýza": [
+    "kontinuální ambulantní peritoneální dialýzy"
+  ],
+  "kontinuální ambulantní peritoneální dialýzy": [
+    "kontinuální ambulantní peritoneální dialýza"
+  ],
+  "peritoneální dialýze": [
+    "peritoneální dialýzou",
+    "peritoneální dialýzu",
+    "peritoneální dialýzy"
+  ],
+  "peritoneální dialýzou": [
+    "peritoneální dialýze",
+    "peritoneální dialýzu",
+    "peritoneální dialýzy"
+  ],
+  "peritoneální dialýzu": [
+    "peritoneální dialýze",
+    "peritoneální dialýzou",
+    "peritoneální dialýzy"
+  ],
+  "peritoneální dialýzy": [
+    "peritoneální dialýze",
+    "peritoneální dialýzou",
+    "peritoneální dialýzu"
+  ],
+  "elektrokardiografickém": [
+    "elektrokardiografickému"
+  ],
+  "elektrokardiografickému": [
+    "elektrokardiografickém"
+  ],
+  "jaterní biopsie": [
+    "jaterní biopsii",
+    "jaterní biopsií"
+  ],
+  "jaterní biopsii": [
+    "jaterní biopsie",
+    "jaterní biopsií"
+  ],
+  "jaterní biopsií": [
+    "jaterní biopsie",
+    "jaterní biopsii"
+  ],
+  "antivirotika": [
+    "antivirotiky"
+  ],
+  "antivirotiky": [
+    "antivirotika"
+  ],
+  "antiandrogeny": [
+    "antiandrogenů"
+  ],
+  "antiandrogenů": [
+    "antiandrogeny"
+  ],
+  "hygienicko-dietních opatření": [
+    "hygienicko-dietních opatřeních"
+  ],
+  "hygienicko-dietních opatřeních": [
+    "hygienicko-dietních opatření"
+  ],
+  "ionty": [
+    "iontů"
+  ],
+  "iontů": [
+    "ionty"
+  ],
+  "jaterní enzymy": [
+    "jaterní enzýmy"
+  ],
+  "jaterní enzýmy": [
+    "jaterní enzymy"
+  ],
+  "komplement": [
+    "komplementu"
+  ],
+  "komplementu": [
+    "komplement"
+  ],
+  "axilární lymfadenektomie": [
+    "axilární lymfadenektomií"
+  ],
+  "axilární lymfadenektomií": [
+    "axilární lymfadenektomie"
+  ],
+  "zákrok": [
+    "zákroku"
+  ],
+  "zákroku": [
+    "zákrok"
+  ],
+  "kostní denzitometrie": [
+    "kostní denzitometrii"
+  ],
+  "kostní denzitometrii": [
+    "kostní denzitometrie"
+  ],
+  "echokardiogram": [
+    "echokardiogramem",
+    "echokardiogramu",
+    "echokardiogramy"
+  ],
+  "echokardiogramem": [
+    "echokardiogram",
+    "echokardiogramu",
+    "echokardiogramy"
+  ],
+  "echokardiogramu": [
+    "echokardiogram",
+    "echokardiogramem",
+    "echokardiogramy"
+  ],
+  "echokardiogramy": [
+    "echokardiogram",
+    "echokardiogramem",
+    "echokardiogramu"
+  ],
+  "totální tyreoidektomie": [
+    "totální tyreoidektomii"
+  ],
+  "totální tyreoidektomii": [
+    "totální tyreoidektomie"
+  ],
+  "radikální pravostranné nefrektomie": [
+    "radikální pravostranné nefrektomii"
+  ],
+  "radikální pravostranné nefrektomii": [
+    "radikální pravostranné nefrektomie"
+  ],
+  "antihistaminik": [
+    "antihistaminika",
+    "antihistaminiky"
+  ],
+  "antihistaminika": [
+    "antihistaminik",
+    "antihistaminiky"
+  ],
+  "antihistaminiky": [
+    "antihistaminik",
+    "antihistaminika"
+  ],
+  "benzodiazepin": [
+    "benzodiazepiny",
+    "benzodiazepinů"
+  ],
+  "benzodiazepiny": [
+    "benzodiazepin",
+    "benzodiazepinů"
+  ],
+  "benzodiazepinů": [
+    "benzodiazepin",
+    "benzodiazepiny"
+  ],
+  "psychiatrické léčby": [
+    "psychiatrické léčbě"
+  ],
+  "psychiatrické léčbě": [
+    "psychiatrické léčby"
+  ],
+  "antipyretik": [
+    "antipyretika",
+    "antipyretiky"
+  ],
+  "antipyretika": [
+    "antipyretik",
+    "antipyretiky"
+  ],
+  "antipyretiky": [
+    "antipyretik",
+    "antipyretika"
+  ],
+  "katétrem": [
+    "katétru"
+  ],
+  "katétru": [
+    "katétrem"
+  ],
+  "anastomózou": [
+    "anastomózy"
+  ],
+  "anastomózy": [
+    "anastomózou"
+  ],
+  "anestezie": [
+    "anestezii"
+  ],
+  "anestezii": [
+    "anestezie"
+  ],
+  "přední biomikroskopie": [
+    "přední biomikroskopií"
+  ],
+  "přední biomikroskopií": [
+    "přední biomikroskopie"
+  ],
+  "exodonci": [
+    "exodoncie",
+    "exodoncii",
+    "exodoncií"
+  ],
+  "exodoncie": [
+    "exodonci",
+    "exodoncii",
+    "exodoncií"
+  ],
+  "exodoncii": [
+    "exodonci",
+    "exodoncie",
+    "exodoncií"
+  ],
+  "exodoncií": [
+    "exodonci",
+    "exodoncie",
+    "exodoncii"
+  ],
+  "laparotomie": [
+    "laparotomii",
+    "laparotomií"
+  ],
+  "laparotomii": [
+    "laparotomie",
+    "laparotomií"
+  ],
+  "laparotomií": [
+    "laparotomie",
+    "laparotomii"
+  ],
+  "nitráty": [
+    "nitrátů"
+  ],
+  "nitrátů": [
+    "nitráty"
+  ],
+  "antikoagulace": [
+    "antikoagulaci",
+    "antikoagulací",
+    "antikoagulační",
+    "antikoagulačních"
+  ],
+  "antikoagulaci": [
+    "antikoagulace",
+    "antikoagulací",
+    "antikoagulační",
+    "antikoagulačních"
+  ],
+  "antikoagulací": [
+    "antikoagulace",
+    "antikoagulaci",
+    "antikoagulační",
+    "antikoagulačních"
+  ],
+  "antikoagulační": [
+    "antikoagulace",
+    "antikoagulaci",
+    "antikoagulací",
+    "antikoagulačních"
+  ],
+  "antikoagulačních": [
+    "antikoagulace",
+    "antikoagulaci",
+    "antikoagulací",
+    "antikoagulační"
+  ],
+  "diuretickou léčbou": [
+    "diuretickou léčbu"
+  ],
+  "diuretickou léčbu": [
+    "diuretickou léčbou"
+  ],
+  "evakuační paracentézou": [
+    "evakuační paracentézy"
+  ],
+  "evakuační paracentézy": [
+    "evakuační paracentézou"
+  ],
+  "torakoabdominální ct": [
+    "torakoabdominálním ct"
+  ],
+  "torakoabdominálním ct": [
+    "torakoabdominální ct"
+  ],
+  "dietní léčbou": [
+    "dietní léčbu",
+    "dietní léčby",
+    "dietní léčbě"
+  ],
+  "dietní léčbu": [
+    "dietní léčbou",
+    "dietní léčby",
+    "dietní léčbě"
+  ],
+  "dietní léčby": [
+    "dietní léčbou",
+    "dietní léčbu",
+    "dietní léčbě"
+  ],
+  "dietní léčbě": [
+    "dietní léčbou",
+    "dietní léčbu",
+    "dietní léčby"
+  ],
+  "magnetickou rezonanci": [
+    "magnetickou rezonancí"
+  ],
+  "magnetickou rezonancí": [
+    "magnetickou rezonanci"
+  ],
+  "elektrokardiogram": [
+    "elektrokardiogramem",
+    "elektrokardiogramové",
+    "elektrokardiogramu",
+    "elektrokardiogramy"
+  ],
+  "elektrokardiogramem": [
+    "elektrokardiogram",
+    "elektrokardiogramové",
+    "elektrokardiogramu",
+    "elektrokardiogramy"
+  ],
+  "elektrokardiogramové": [
+    "elektrokardiogram",
+    "elektrokardiogramem",
+    "elektrokardiogramu",
+    "elektrokardiogramy"
+  ],
+  "elektrokardiogramu": [
+    "elektrokardiogram",
+    "elektrokardiogramem",
+    "elektrokardiogramové",
+    "elektrokardiogramy"
+  ],
+  "elektrokardiogramy": [
+    "elektrokardiogram",
+    "elektrokardiogramem",
+    "elektrokardiogramové",
+    "elektrokardiogramu"
+  ],
+  "echokardiografickém": [
+    "echokardiografickému"
+  ],
+  "echokardiografickému": [
+    "echokardiografickém"
+  ],
+  "operován": [
+    "operována"
+  ],
+  "operována": [
+    "operován"
+  ],
+  "transfuze": [
+    "transfuzemi",
+    "transfuzi",
+    "transfuzí"
+  ],
+  "transfuzemi": [
+    "transfuze",
+    "transfuzi",
+    "transfuzí"
+  ],
+  "transfuzi": [
+    "transfuze",
+    "transfuzemi",
+    "transfuzí"
+  ],
+  "transfuzí": [
+    "transfuze",
+    "transfuzemi",
+    "transfuzi"
+  ],
+  "chemoterapeutickou léčbou": [
+    "chemoterapeutickou léčbu"
+  ],
+  "chemoterapeutickou léčbu": [
+    "chemoterapeutickou léčbou"
+  ],
+  "chirurgické resekce": [
+    "chirurgické resekci"
+  ],
+  "chirurgické resekci": [
+    "chirurgické resekce"
+  ],
+  "chemoembolizace": [
+    "chemoembolizací"
+  ],
+  "chemoembolizací": [
+    "chemoembolizace"
+  ],
+  "infiltrace": [
+    "infiltraci",
+    "infiltrací"
+  ],
+  "infiltraci": [
+    "infiltrace",
+    "infiltrací"
+  ],
+  "infiltrací": [
+    "infiltrace",
+    "infiltraci"
+  ],
+  "porod": [
+    "porodem",
+    "porodu"
+  ],
+  "porodem": [
+    "porod",
+    "porodu"
+  ],
+  "porodu": [
+    "porod",
+    "porodem"
+  ],
+  "biopsii kostní dřeně": [
+    "biopsií kostní dřeně"
+  ],
+  "biopsií kostní dřeně": [
+    "biopsii kostní dřeně"
+  ],
+  "antidepresiv": [
+    "antidepresiva",
+    "antidepresivní",
+    "antidepresivy"
+  ],
+  "antidepresiva": [
+    "antidepresiv",
+    "antidepresivní",
+    "antidepresivy"
+  ],
+  "antidepresivní": [
+    "antidepresiv",
+    "antidepresiva",
+    "antidepresivy"
+  ],
+  "antidepresivy": [
+    "antidepresiv",
+    "antidepresiva",
+    "antidepresivní"
+  ],
+  "totální kolektomie": [
+    "totální kolektomii",
+    "totální kolektomií"
+  ],
+  "totální kolektomii": [
+    "totální kolektomie",
+    "totální kolektomií"
+  ],
+  "totální kolektomií": [
+    "totální kolektomie",
+    "totální kolektomii"
+  ],
+  "infuze": [
+    "infuzí"
+  ],
+  "infuzí": [
+    "infuze"
+  ],
+  "salicyláty": [
+    "salicylátů"
+  ],
+  "salicylátů": [
+    "salicyláty"
+  ],
+  "nekropsie": [
+    "nekropsii"
+  ],
+  "nekropsii": [
+    "nekropsie"
+  ],
+  "hemodialyzační léčbu": [
+    "hemodialyzační léčbě"
+  ],
+  "hemodialyzační léčbě": [
+    "hemodialyzační léčbu"
+  ],
+  "klystýr": [
+    "klystýru",
+    "klystýry"
+  ],
+  "klystýru": [
+    "klystýr",
+    "klystýry"
+  ],
+  "klystýry": [
+    "klystýr",
+    "klystýru"
+  ],
+  "kortikoterapie": [
+    "kortikoterapií"
+  ],
+  "kortikoterapií": [
+    "kortikoterapie"
+  ],
+  "oboustrannou adnexektomii": [
+    "oboustrannou adnexektomií"
+  ],
+  "oboustrannou adnexektomií": [
+    "oboustrannou adnexektomii"
+  ],
+  "brachyterapii": [
+    "brachyterapií"
+  ],
+  "brachyterapií": [
+    "brachyterapii"
+  ],
+  "vitaminového": [
+    "vitamíny"
+  ],
+  "vitamíny": [
+    "vitaminového"
+  ],
+  "vitrektomie": [
+    "vitrektomii"
+  ],
+  "vitrektomii": [
+    "vitrektomie"
+  ],
+  "bilaterální nefrektomie": [
+    "bilaterální nefrektomii"
+  ],
+  "bilaterální nefrektomii": [
+    "bilaterální nefrektomie"
+  ],
+  "dialyzační": [
+    "dialyzačního"
+  ],
+  "dialyzačního": [
+    "dialyzační"
+  ],
+  "antibiotickou terapii": [
+    "antibiotickou terapií"
+  ],
+  "antibiotickou terapií": [
+    "antibiotickou terapii"
+  ],
+  "anamnéze přístroje": [
+    "anamnéze přístrojem"
+  ],
+  "anamnéze přístrojem": [
+    "anamnéze přístroje"
+  ],
+  "bariatrickou operaci": [
+    "bariatrickou operací"
+  ],
+  "bariatrickou operací": [
+    "bariatrickou operaci"
+  ],
+  "optickou koherentní tomografii": [
+    "optickou koherentní tomografií"
+  ],
+  "optickou koherentní tomografií": [
+    "optickou koherentní tomografii"
+  ],
+  "angiografickým": [
+    "angiografickými"
+  ],
+  "angiografickými": [
+    "angiografickým"
+  ],
+  "mimotělním oběhem": [
+    "mimotělním oběhu"
+  ],
+  "mimotělním oběhu": [
+    "mimotělním oběhem"
+  ],
+  "transezofageální echokardiografie": [
+    "transezofageální echokardiografii",
+    "transezofageální echokardiografií"
+  ],
+  "transezofageální echokardiografii": [
+    "transezofageální echokardiografie",
+    "transezofageální echokardiografií"
+  ],
+  "transezofageální echokardiografií": [
+    "transezofageální echokardiografie",
+    "transezofageální echokardiografii"
+  ],
+  "intubován": [
+    "intubována"
+  ],
+  "intubována": [
+    "intubován"
+  ],
+  "fibrobronchoskopie": [
+    "fibrobronchoskopii",
+    "fibrobronchoskopií"
+  ],
+  "fibrobronchoskopii": [
+    "fibrobronchoskopie",
+    "fibrobronchoskopií"
+  ],
+  "fibrobronchoskopií": [
+    "fibrobronchoskopie",
+    "fibrobronchoskopii"
+  ],
+  "funkci ledvin": [
+    "funkcí ledvin"
+  ],
+  "funkcí ledvin": [
+    "funkci ledvin"
+  ],
+  "štěp": [
+    "štěpem",
+    "štěpu"
+  ],
+  "štěpem": [
+    "štěp",
+    "štěpu"
+  ],
+  "štěpu": [
+    "štěp",
+    "štěpem"
+  ],
+  "auskultace": [
+    "auskultaci",
+    "auskultací",
+    "auskultační",
+    "auskultačním"
+  ],
+  "auskultaci": [
+    "auskultace",
+    "auskultací",
+    "auskultační",
+    "auskultačním"
+  ],
+  "auskultací": [
+    "auskultace",
+    "auskultaci",
+    "auskultační",
+    "auskultačním"
+  ],
+  "auskultační": [
+    "auskultace",
+    "auskultaci",
+    "auskultací",
+    "auskultačním"
+  ],
+  "auskultačním": [
+    "auskultace",
+    "auskultaci",
+    "auskultací",
+    "auskultační"
+  ],
+  "tonometrie": [
+    "tonometrii"
+  ],
+  "tonometrii": [
+    "tonometrie"
+  ],
+  "gastrostomie": [
+    "gastrostomií"
+  ],
+  "gastrostomií": [
+    "gastrostomie"
+  ],
+  "analytickém": [
+    "analytickému"
+  ],
+  "analytickému": [
+    "analytickém"
+  ],
+  "bisfosfonáty": [
+    "bisfosfonátů"
+  ],
+  "bisfosfonátů": [
+    "bisfosfonáty"
+  ],
+  "levostrannou nefrektomii": [
+    "levostrannou nefrektomií"
+  ],
+  "levostrannou nefrektomií": [
+    "levostrannou nefrektomii"
+  ],
+  "kardiopulmonální resuscitace": [
+    "kardiopulmonální resuscitací"
+  ],
+  "kardiopulmonální resuscitací": [
+    "kardiopulmonální resuscitace"
+  ],
+  "vasektomie": [
+    "vasektomii"
+  ],
+  "vasektomii": [
+    "vasektomie"
+  ],
+  "hemodialyzačních sezení": [
+    "hemodialyzačních sezeních"
+  ],
+  "hemodialyzačních sezeních": [
+    "hemodialyzačních sezení"
+  ],
+  "bronchodilatancii": [
+    "bronchodilatancií"
+  ],
+  "bronchodilatancií": [
+    "bronchodilatancii"
+  ],
+  "patologickou anatomii": [
+    "patologickou anatomií"
+  ],
+  "patologickou anatomií": [
+    "patologickou anatomii"
+  ],
+  "adjuvantní léčbu": [
+    "adjuvantní léčby"
+  ],
+  "adjuvantní léčby": [
+    "adjuvantní léčbu"
+  ],
+  "paliativní léčba": [
+    "paliativní léčbou"
+  ],
+  "paliativní léčbou": [
+    "paliativní léčba"
+  ],
+  "plicní auskultace": [
+    "plicní auskultaci",
+    "plicní auskultací"
+  ],
+  "plicní auskultaci": [
+    "plicní auskultace",
+    "plicní auskultací"
+  ],
+  "plicní auskultací": [
+    "plicní auskultace",
+    "plicní auskultaci"
+  ],
+  "oxygenoterapie": [
+    "oxygenoterapii",
+    "oxygenoterapií"
+  ],
+  "oxygenoterapii": [
+    "oxygenoterapie",
+    "oxygenoterapií"
+  ],
+  "oxygenoterapií": [
+    "oxygenoterapie",
+    "oxygenoterapii"
+  ],
+  "prostatektomie": [
+    "prostatektomii"
+  ],
+  "prostatektomii": [
+    "prostatektomie"
+  ],
+  "kortikosteroidní léčba": [
+    "kortikosteroidní léčbu"
+  ],
+  "kortikosteroidní léčbu": [
+    "kortikosteroidní léčba"
+  ],
+  "diuretik": [
+    "diuretika",
+    "diuretikem",
+    "diuretiky"
+  ],
+  "diuretika": [
+    "diuretik",
+    "diuretikem",
+    "diuretiky"
+  ],
+  "diuretikem": [
+    "diuretik",
+    "diuretika",
+    "diuretiky"
+  ],
+  "diuretiky": [
+    "diuretik",
+    "diuretika",
+    "diuretikem"
+  ],
+  "excize": [
+    "excizí"
+  ],
+  "excizí": [
+    "excize"
+  ],
+  "lokální léčba": [
+    "lokální léčbou",
+    "lokální léčby"
+  ],
+  "lokální léčbou": [
+    "lokální léčba",
+    "lokální léčby"
+  ],
+  "lokální léčby": [
+    "lokální léčba",
+    "lokální léčbou"
+  ],
+  "tonzilektomie": [
+    "tonzilektomii"
+  ],
+  "tonzilektomii": [
+    "tonzilektomie"
+  ],
+  "koagulačním vyšetření": [
+    "koagulačním vyšetřením"
+  ],
+  "koagulačním vyšetřením": [
+    "koagulačním vyšetření"
+  ],
+  "srdeční katetrizac": [
+    "srdeční katetrizace",
+    "srdeční katetrizaci",
+    "srdeční katetrizací"
+  ],
+  "srdeční katetrizace": [
+    "srdeční katetrizac",
+    "srdeční katetrizaci",
+    "srdeční katetrizací"
+  ],
+  "srdeční katetrizaci": [
+    "srdeční katetrizac",
+    "srdeční katetrizace",
+    "srdeční katetrizací"
+  ],
+  "srdeční katetrizací": [
+    "srdeční katetrizac",
+    "srdeční katetrizace",
+    "srdeční katetrizaci"
+  ],
+  "radikální orchiektomie": [
+    "radikální orchiektomii"
+  ],
+  "radikální orchiektomii": [
+    "radikální orchiektomie"
+  ],
+  "ventilační/perfuzní scintigrafie": [
+    "ventilační/perfuzní scintigrafií"
+  ],
+  "ventilační/perfuzní scintigrafií": [
+    "ventilační/perfuzní scintigrafie"
+  ],
+  "bronchoskopie": [
+    "bronchoskopii"
+  ],
+  "bronchoskopii": [
+    "bronchoskopie"
+  ],
+  "spirometrie": [
+    "spirometrii"
+  ],
+  "spirometrii": [
+    "spirometrie"
+  ],
+  "difuze": [
+    "difúze"
+  ],
+  "difúze": [
+    "difuze"
+  ],
+  "plicní funkce": [
+    "plicní funkci"
+  ],
+  "plicní funkci": [
+    "plicní funkce"
+  ],
+  "imunofluorescence": [
+    "imunofluorescenci"
+  ],
+  "imunofluorescenci": [
+    "imunofluorescence"
+  ],
+  "angioplastika": [
+    "angioplastikou",
+    "angioplastiky"
+  ],
+  "angioplastikou": [
+    "angioplastika",
+    "angioplastiky"
+  ],
+  "angioplastiky": [
+    "angioplastika",
+    "angioplastikou"
+  ],
+  "koronarografie": [
+    "koronarografii",
+    "koronarografií"
+  ],
+  "koronarografii": [
+    "koronarografie",
+    "koronarografií"
+  ],
+  "koronarografií": [
+    "koronarografie",
+    "koronarografii"
+  ],
+  "sériové kultivace krve": [
+    "sériové kultivaci krve"
+  ],
+  "sériové kultivaci krve": [
+    "sériové kultivace krve"
+  ],
+  "echokardiografi": [
+    "echokardiografie",
+    "echokardiografii",
+    "echokardiografií"
+  ],
+  "echokardiografie": [
+    "echokardiografi",
+    "echokardiografii",
+    "echokardiografií"
+  ],
+  "echokardiografii": [
+    "echokardiografi",
+    "echokardiografie",
+    "echokardiografií"
+  ],
+  "echokardiografií": [
+    "echokardiografi",
+    "echokardiografie",
+    "echokardiografii"
+  ],
+  "injekci": [
+    "injekcí"
+  ],
+  "injekcí": [
+    "injekci"
+  ],
+  "kortikoidy": [
+    "kortikoidů"
+  ],
+  "kortikoidů": [
+    "kortikoidy"
+  ],
+  "virovou nálož": [
+    "virovou náloží"
+  ],
+  "virovou náloží": [
+    "virovou nálož"
+  ],
+  "axilární drenáž": [
+    "axilární drenáže"
+  ],
+  "axilární drenáže": [
+    "axilární drenáž"
+  ],
+  "tracheostomie": [
+    "tracheostomii"
+  ],
+  "tracheostomii": [
+    "tracheostomie"
+  ],
+  "antihypertenzní léčba": [
+    "antihypertenzní léčbou",
+    "antihypertenzní léčby",
+    "antihypertenzní léčbě"
+  ],
+  "antihypertenzní léčbou": [
+    "antihypertenzní léčba",
+    "antihypertenzní léčby",
+    "antihypertenzní léčbě"
+  ],
+  "antihypertenzní léčby": [
+    "antihypertenzní léčba",
+    "antihypertenzní léčbou",
+    "antihypertenzní léčbě"
+  ],
+  "antihypertenzní léčbě": [
+    "antihypertenzní léčba",
+    "antihypertenzní léčbou",
+    "antihypertenzní léčby"
+  ],
+  "rekonstrukční operace": [
+    "rekonstrukční operaci"
+  ],
+  "rekonstrukční operaci": [
+    "rekonstrukční operace"
+  ],
+  "dekompresivní terapie": [
+    "dekompresivní terapii"
+  ],
+  "dekompresivní terapii": [
+    "dekompresivní terapie"
+  ],
+  "kyretáž": [
+    "kyretáží"
+  ],
+  "kyretáží": [
+    "kyretáž"
+  ],
+  "ergometrie": [
+    "ergometrii",
+    "ergometrií"
+  ],
+  "ergometrii": [
+    "ergometrie",
+    "ergometrií"
+  ],
+  "ergometrií": [
+    "ergometrie",
+    "ergometrii"
+  ],
+  "paliativní radioterapie": [
+    "paliativní radioterapii"
+  ],
+  "paliativní radioterapii": [
+    "paliativní radioterapie"
+  ],
+  "protituberkulózní léčbu": [
+    "protituberkulózní léčby",
+    "protituberkulózní léčbě"
+  ],
+  "protituberkulózní léčby": [
+    "protituberkulózní léčbu",
+    "protituberkulózní léčbě"
+  ],
+  "protituberkulózní léčbě": [
+    "protituberkulózní léčbu",
+    "protituberkulózní léčby"
+  ],
+  "dieta": [
+    "diety"
+  ],
+  "diety": [
+    "dieta"
+  ],
+  "punkce": [
+    "punkci"
+  ],
+  "punkci": [
+    "punkce"
+  ],
+  "pulzní oxymetrie": [
+    "pulzní oxymetrii",
+    "pulzní oxymetrií"
+  ],
+  "pulzní oxymetrii": [
+    "pulzní oxymetrie",
+    "pulzní oxymetrií"
+  ],
+  "pulzní oxymetrií": [
+    "pulzní oxymetrie",
+    "pulzní oxymetrii"
+  ],
+  "bronchodilatancia": [
+    "bronchodilatanciích"
+  ],
+  "bronchodilatanciích": [
+    "bronchodilatancia"
+  ],
+  "skiagrafie": [
+    "skiagrafií"
+  ],
+  "skiagrafií": [
+    "skiagrafie"
+  ],
+  "kyretáži kostní dutiny": [
+    "kyretáží kostní dutiny"
+  ],
+  "kyretáží kostní dutiny": [
+    "kyretáži kostní dutiny"
+  ],
+  "imunologie": [
+    "imunologii"
+  ],
+  "imunologii": [
+    "imunologie"
+  ],
+  "steroidní": [
+    "steroidy",
+    "steroidů"
+  ],
+  "steroidy": [
+    "steroidní",
+    "steroidů"
+  ],
+  "steroidů": [
+    "steroidní",
+    "steroidy"
+  ],
+  "pravostrannou inguinální orchiektomii": [
+    "pravostrannou inguinální orchiektomií"
+  ],
+  "pravostrannou inguinální orchiektomií": [
+    "pravostrannou inguinální orchiektomii"
+  ],
+  "hormonální substituční terapii": [
+    "hormonální substituční terapií"
+  ],
+  "hormonální substituční terapií": [
+    "hormonální substituční terapii"
+  ],
+  "asistovanou ventilaci": [
+    "asistovanou ventilací"
+  ],
+  "asistovanou ventilací": [
+    "asistovanou ventilaci"
+  ],
+  "redukce": [
+    "redukci"
+  ],
+  "redukci": [
+    "redukce"
+  ],
+  "arteriografie": [
+    "arteriografii",
+    "arteriografií"
+  ],
+  "arteriografii": [
+    "arteriografie",
+    "arteriografií"
+  ],
+  "arteriografií": [
+    "arteriografie",
+    "arteriografii"
+  ],
+  "obřízku": [
+    "obřízky"
+  ],
+  "obřízky": [
+    "obřízku"
+  ],
+  "elektromyografie": [
+    "elektromyografii",
+    "elektromyografií"
+  ],
+  "elektromyografii": [
+    "elektromyografie",
+    "elektromyografií"
+  ],
+  "elektromyografií": [
+    "elektromyografie",
+    "elektromyografii"
+  ],
+  "měkkou stravou": [
+    "měkkou stravu"
+  ],
+  "měkkou stravu": [
+    "měkkou stravou"
+  ],
+  "plazmaferézou": [
+    "plazmaferézy"
+  ],
+  "plazmaferézy": [
+    "plazmaferézou"
+  ],
+  "alfa-blokátorem": [
+    "alfa-blokátory"
+  ],
+  "alfa-blokátory": [
+    "alfa-blokátorem"
+  ],
+  "samopalpaci": [
+    "samopalpací"
+  ],
+  "samopalpací": [
+    "samopalpaci"
+  ],
+  "vakcína": [
+    "vakcínu",
+    "vakcíny",
+    "vakcíně"
+  ],
+  "vakcínu": [
+    "vakcína",
+    "vakcíny",
+    "vakcíně"
+  ],
+  "vakcíny": [
+    "vakcína",
+    "vakcínu",
+    "vakcíně"
+  ],
+  "vakcíně": [
+    "vakcína",
+    "vakcínu",
+    "vakcíny"
+  ],
+  "očkovací": [
+    "očkovacím"
+  ],
+  "očkovacím": [
+    "očkovací"
+  ],
+  "radiologickou": [
+    "radiologicky"
+  ],
+  "radiologicky": [
+    "radiologickou"
+  ],
+  "epidurální anestezie": [
+    "epidurální anestezií"
+  ],
+  "epidurální anestezií": [
+    "epidurální anestezie"
+  ],
+  "fyzioterapie": [
+    "fyzioterapii"
+  ],
+  "fyzioterapii": [
+    "fyzioterapie"
+  ],
+  "kontinuální venovenózní hemofiltrace": [
+    "kontinuální venovenózní hemofiltrací"
+  ],
+  "kontinuální venovenózní hemofiltrací": [
+    "kontinuální venovenózní hemofiltrace"
+  ],
+  "vazodilatancii": [
+    "vazodilatancií"
+  ],
+  "vazodilatancií": [
+    "vazodilatancii"
+  ],
+  "krevní kultura": [
+    "krevní kulturou",
+    "krevní kultury",
+    "krevní kultuře",
+    "krevních kultur",
+    "krevních kulturách"
+  ],
+  "krevní kulturou": [
+    "krevní kultura",
+    "krevní kultury",
+    "krevní kultuře",
+    "krevních kultur",
+    "krevních kulturách"
+  ],
+  "krevní kultury": [
+    "krevní kultura",
+    "krevní kulturou",
+    "krevní kultuře",
+    "krevních kultur",
+    "krevních kulturách"
+  ],
+  "krevní kultuře": [
+    "krevní kultura",
+    "krevní kulturou",
+    "krevní kultury",
+    "krevních kultur",
+    "krevních kulturách"
+  ],
+  "krevních kultur": [
+    "krevní kultura",
+    "krevní kulturou",
+    "krevní kultury",
+    "krevní kultuře",
+    "krevních kulturách"
+  ],
+  "krevních kulturách": [
+    "krevní kultura",
+    "krevní kulturou",
+    "krevní kultury",
+    "krevní kultuře",
+    "krevních kultur"
+  ],
+  "intravenózní antibioterapie": [
+    "intravenózní antibioterapii"
+  ],
+  "intravenózní antibioterapii": [
+    "intravenózní antibioterapie"
+  ],
+  "analýza": [
+    "analýze",
+    "analýzu",
+    "analýzy",
+    "analýzách"
+  ],
+  "analýze": [
+    "analýza",
+    "analýzu",
+    "analýzy",
+    "analýzách"
+  ],
+  "analýzu": [
+    "analýza",
+    "analýze",
+    "analýzy",
+    "analýzách"
+  ],
+  "analýzy": [
+    "analýza",
+    "analýze",
+    "analýzu",
+    "analýzách"
+  ],
+  "analýzách": [
+    "analýza",
+    "analýze",
+    "analýzu",
+    "analýzy"
+  ],
+  "neurozobrazení": [
+    "neurozobrazením"
+  ],
+  "neurozobrazením": [
+    "neurozobrazení"
+  ],
+  "střední laparotomie": [
+    "střední laparotomii"
+  ],
+  "střední laparotomii": [
+    "střední laparotomie"
+  ],
+  "autoimunita": [
+    "autoimunitní",
+    "autoimunity"
+  ],
+  "autoimunitní": [
+    "autoimunita",
+    "autoimunity"
+  ],
+  "autoimunity": [
+    "autoimunita",
+    "autoimunitní"
+  ],
+  "magnetické rezonance srdce": [
+    "magnetické rezonanci srdce"
+  ],
+  "magnetické rezonanci srdce": [
+    "magnetické rezonance srdce"
+  ],
+  "atb léčby": [
+    "atb léčbě"
+  ],
+  "atb léčbě": [
+    "atb léčby"
+  ],
+  "světelnou mikroskopii": [
+    "světelnou mikroskopií"
+  ],
+  "světelnou mikroskopií": [
+    "světelnou mikroskopii"
+  ],
+  "intradurální anestezii": [
+    "intradurální anestezií"
+  ],
+  "intradurální anestezií": [
+    "intradurální anestezii"
+  ],
+  "nátěr": [
+    "nátěry"
+  ],
+  "nátěry": [
+    "nátěr"
+  ],
+  "mastektomie": [
+    "mastektomii",
+    "mastektomií"
+  ],
+  "mastektomii": [
+    "mastektomie",
+    "mastektomií"
+  ],
+  "mastektomií": [
+    "mastektomie",
+    "mastektomii"
+  ],
+  "antiretrovirové léčby": [
+    "antiretrovirové léčbě"
+  ],
+  "antiretrovirové léčbě": [
+    "antiretrovirové léčby"
+  ],
+  "subtotální kolektomie": [
+    "subtotální kolektomii",
+    "subtotální kolektomií"
+  ],
+  "subtotální kolektomii": [
+    "subtotální kolektomie",
+    "subtotální kolektomií"
+  ],
+  "subtotální kolektomií": [
+    "subtotální kolektomie",
+    "subtotální kolektomii"
+  ],
+  "ileostomie": [
+    "ileostomii",
+    "ileostomií"
+  ],
+  "ileostomii": [
+    "ileostomie",
+    "ileostomií"
+  ],
+  "ileostomií": [
+    "ileostomie",
+    "ileostomii"
+  ],
+  "domácí oxygenoterapie": [
+    "domácí oxygenoterapii"
+  ],
+  "domácí oxygenoterapii": [
+    "domácí oxygenoterapie"
+  ],
+  "radikální cystoprostatektomie": [
+    "radikální cystoprostatektomii"
+  ],
+  "radikální cystoprostatektomii": [
+    "radikální cystoprostatektomie"
+  ],
+  "betablokátorem": [
+    "betablokátoru",
+    "betablokátory",
+    "betablokátorů"
+  ],
+  "betablokátoru": [
+    "betablokátorem",
+    "betablokátory",
+    "betablokátorů"
+  ],
+  "betablokátory": [
+    "betablokátorem",
+    "betablokátoru",
+    "betablokátorů"
+  ],
+  "betablokátorů": [
+    "betablokátorem",
+    "betablokátoru",
+    "betablokátory"
+  ],
+  "morfinem": [
+    "morfinu"
+  ],
+  "morfinu": [
+    "morfinem"
+  ],
+  "statin": [
+    "statinem",
+    "statinu",
+    "statiny",
+    "statinů"
+  ],
+  "statinem": [
+    "statin",
+    "statinu",
+    "statiny",
+    "statinů"
+  ],
+  "statinu": [
+    "statin",
+    "statinem",
+    "statiny",
+    "statinů"
+  ],
+  "statiny": [
+    "statin",
+    "statinem",
+    "statinu",
+    "statinů"
+  ],
+  "statinů": [
+    "statin",
+    "statinem",
+    "statinu",
+    "statiny"
+  ],
+  "elektrokardiografickým": [
+    "elektrokardiografickými"
+  ],
+  "elektrokardiografickými": [
+    "elektrokardiografickým"
+  ],
+  "implantaci icd": [
+    "implantací icd"
+  ],
+  "implantací icd": [
+    "implantaci icd"
+  ],
+  "cystogastrostomie": [
+    "cystogastrostomií"
+  ],
+  "cystogastrostomií": [
+    "cystogastrostomie"
+  ],
+  "fotokoagulace": [
+    "fotokoagulaci"
+  ],
+  "fotokoagulaci": [
+    "fotokoagulace"
+  ],
+  "empirickou antibioterapii": [
+    "empirickou antibioterapií"
+  ],
+  "empirickou antibioterapií": [
+    "empirickou antibioterapii"
+  ],
+  "osobní anamnéza": [
+    "osobní anamnéze",
+    "osobní anamnézou"
+  ],
+  "osobní anamnéze": [
+    "osobní anamnéza",
+    "osobní anamnézou"
+  ],
+  "osobní anamnézou": [
+    "osobní anamnéza",
+    "osobní anamnéze"
+  ],
+  "antikoagulovaná": [
+    "antikoagulovaného"
+  ],
+  "antikoagulovaného": [
+    "antikoagulovaná"
+  ],
+  "monitorování": [
+    "monitorováním"
+  ],
+  "monitorováním": [
+    "monitorování"
+  ],
+  "radikální nefrektomie": [
+    "radikální nefrektomii"
+  ],
+  "radikální nefrektomii": [
+    "radikální nefrektomie"
+  ],
+  "diuretické léčby": [
+    "diuretické léčbě"
+  ],
+  "diuretické léčbě": [
+    "diuretické léčby"
+  ],
+  "bronchoaspirát": [
+    "bronchoaspirátem",
+    "bronchoaspirátu"
+  ],
+  "bronchoaspirátem": [
+    "bronchoaspirát",
+    "bronchoaspirátu"
+  ],
+  "bronchoaspirátu": [
+    "bronchoaspirát",
+    "bronchoaspirátem"
+  ],
+  "kožní test": [
+    "kožní testy"
+  ],
+  "kožní testy": [
+    "kožní test"
+  ],
+  "medikamentózní léčba": [
+    "medikamentózní léčbou",
+    "medikamentózní léčbu"
+  ],
+  "medikamentózní léčbou": [
+    "medikamentózní léčba",
+    "medikamentózní léčbu"
+  ],
+  "medikamentózní léčbu": [
+    "medikamentózní léčba",
+    "medikamentózní léčbou"
+  ],
+  "kolektomie": [
+    "kolektomii"
+  ],
+  "kolektomii": [
+    "kolektomie"
+  ],
+  "resuscitace": [
+    "resuscitaci",
+    "resuscitační",
+    "resuscitačním"
+  ],
+  "resuscitaci": [
+    "resuscitace",
+    "resuscitační",
+    "resuscitačním"
+  ],
+  "resuscitační": [
+    "resuscitace",
+    "resuscitaci",
+    "resuscitačním"
+  ],
+  "resuscitačním": [
+    "resuscitace",
+    "resuscitaci",
+    "resuscitační"
+  ],
+  "radikální prostatektomie": [
+    "radikální prostatektomii"
+  ],
+  "radikální prostatektomii": [
+    "radikální prostatektomie"
+  ],
+  "srdeční auskultace": [
+    "srdeční auskultaci"
+  ],
+  "srdeční auskultaci": [
+    "srdeční auskultace"
+  ],
+  "transezofageální echokardiogram": [
+    "transezofageální echokardiogramy"
+  ],
+  "transezofageální echokardiogramy": [
+    "transezofageální echokardiogram"
+  ],
+  "dvojitou adnexektomii": [
+    "dvojitou adnexektomií"
+  ],
+  "dvojitou adnexektomií": [
+    "dvojitou adnexektomii"
+  ],
+  "laboratorní": [
+    "laboratoř",
+    "laboratoři"
+  ],
+  "laboratoř": [
+    "laboratorní",
+    "laboratoři"
+  ],
+  "laboratoři": [
+    "laboratorní",
+    "laboratoř"
+  ],
+  "perorální antikoagulační léčbu": [
+    "perorální antikoagulační léčby"
+  ],
+  "perorální antikoagulační léčby": [
+    "perorální antikoagulační léčbu"
+  ],
+  "hypotermie": [
+    "hypotermii"
+  ],
+  "hypotermii": [
+    "hypotermie"
+  ],
+  "duodenální biopsie": [
+    "duodenální biopsii",
+    "duodenální biopsií"
+  ],
+  "duodenální biopsii": [
+    "duodenální biopsie",
+    "duodenální biopsií"
+  ],
+  "duodenální biopsií": [
+    "duodenální biopsie",
+    "duodenální biopsii"
+  ],
+  "lymfadenektomie": [
+    "lymfadenektomii",
+    "lymfadenektomií"
+  ],
+  "lymfadenektomii": [
+    "lymfadenektomie",
+    "lymfadenektomií"
+  ],
+  "lymfadenektomií": [
+    "lymfadenektomie",
+    "lymfadenektomii"
+  ],
+  "katetrizován": [
+    "katetrizována"
+  ],
+  "katetrizována": [
+    "katetrizován"
+  ],
+  "chirurgické intervence": [
+    "chirurgické intervenci"
+  ],
+  "chirurgické intervenci": [
+    "chirurgické intervence"
+  ],
+  "transtorakální echokardiografie": [
+    "transtorakální echokardiografii",
+    "transtorakální echokardiografií"
+  ],
+  "transtorakální echokardiografii": [
+    "transtorakální echokardiografie",
+    "transtorakální echokardiografií"
+  ],
+  "transtorakální echokardiografií": [
+    "transtorakální echokardiografie",
+    "transtorakální echokardiografii"
+  ],
+  "endotracheální intubace": [
+    "endotracheální intubaci"
+  ],
+  "endotracheální intubaci": [
+    "endotracheální intubace"
+  ],
+  "urokultura": [
+    "urokulturou",
+    "urokultuře"
+  ],
+  "urokulturou": [
+    "urokultura",
+    "urokultuře"
+  ],
+  "urokultuře": [
+    "urokultura",
+    "urokulturou"
+  ],
+  "sledování": [
+    "sledováním"
+  ],
+  "sledováním": [
+    "sledování"
+  ],
+  "tt echokardiogram": [
+    "tt echokardiogramu"
+  ],
+  "tt echokardiogramu": [
+    "tt echokardiogram"
+  ],
+  "holter": [
+    "holterem",
+    "holteru"
+  ],
+  "holterem": [
+    "holter",
+    "holteru"
+  ],
+  "holteru": [
+    "holter",
+    "holterem"
+  ],
+  "vazoaktivní podpora": [
+    "vazoaktivní podporu",
+    "vazoaktivní podpory"
+  ],
+  "vazoaktivní podporu": [
+    "vazoaktivní podpora",
+    "vazoaktivní podpory"
+  ],
+  "vazoaktivní podpory": [
+    "vazoaktivní podpora",
+    "vazoaktivní podporu"
+  ],
+  "ventrikulografie": [
+    "ventrikulografii",
+    "ventrikulografií"
+  ],
+  "ventrikulografii": [
+    "ventrikulografie",
+    "ventrikulografií"
+  ],
+  "ventrikulografií": [
+    "ventrikulografie",
+    "ventrikulografii"
+  ],
+  "neinvazivní mechanickou ventilaci": [
+    "neinvazivní mechanickou ventilací"
+  ],
+  "neinvazivní mechanickou ventilací": [
+    "neinvazivní mechanickou ventilaci"
+  ],
+  "ventilační podpora": [
+    "ventilační podporu",
+    "ventilační podpory"
+  ],
+  "ventilační podporu": [
+    "ventilační podpora",
+    "ventilační podpory"
+  ],
+  "ventilační podpory": [
+    "ventilační podpora",
+    "ventilační podporu"
+  ],
+  "primární angioplastika": [
+    "primární angioplastiku"
+  ],
+  "primární angioplastiku": [
+    "primární angioplastika"
+  ],
+  "intravenózní diuretické léčby": [
+    "intravenózní diuretické léčbě"
+  ],
+  "intravenózní diuretické léčbě": [
+    "intravenózní diuretické léčby"
+  ],
+  "ergospirometrie": [
+    "ergospirometrii",
+    "ergospirometrií"
+  ],
+  "ergospirometrii": [
+    "ergospirometrie",
+    "ergospirometrií"
+  ],
+  "ergospirometrií": [
+    "ergospirometrie",
+    "ergospirometrii"
+  ],
+  "neurohormonální léčba": [
+    "neurohormonální léčbu",
+    "neurohormonální léčby",
+    "neurohormonální léčbě"
+  ],
+  "neurohormonální léčbu": [
+    "neurohormonální léčba",
+    "neurohormonální léčby",
+    "neurohormonální léčbě"
+  ],
+  "neurohormonální léčby": [
+    "neurohormonální léčba",
+    "neurohormonální léčbu",
+    "neurohormonální léčbě"
+  ],
+  "neurohormonální léčbě": [
+    "neurohormonální léčba",
+    "neurohormonální léčbu",
+    "neurohormonální léčby"
+  ],
+  "extrarenální depurace": [
+    "extrarenální depuraci"
+  ],
+  "extrarenální depuraci": [
+    "extrarenální depurace"
+  ],
+  "hemofiltrace": [
+    "hemofiltraci",
+    "hemofiltrací"
+  ],
+  "hemofiltraci": [
+    "hemofiltrace",
+    "hemofiltrací"
+  ],
+  "hemofiltrací": [
+    "hemofiltrace",
+    "hemofiltraci"
+  ],
+  "pet vyšetření": [
+    "pet vyšetřením"
+  ],
+  "pet vyšetřením": [
+    "pet vyšetření"
+  ],
+  "koronární ct": [
+    "koronárním ct"
+  ],
+  "koronárním ct": [
+    "koronární ct"
+  ],
+  "telemetrie": [
+    "telemetrii",
+    "telemetrií"
+  ],
+  "telemetrii": [
+    "telemetrie",
+    "telemetrií"
+  ],
+  "telemetrií": [
+    "telemetrie",
+    "telemetrii"
+  ],
+  "magnetickou rezonanci srdce": [
+    "magnetickou rezonancí srdce"
+  ],
+  "magnetickou rezonancí srdce": [
+    "magnetickou rezonanci srdce"
+  ],
+  "bronchodilatační léčbou": [
+    "bronchodilatační léčbě"
+  ],
+  "bronchodilatační léčbě": [
+    "bronchodilatační léčbou"
+  ],
+  "protidestičkovou léčbou": [
+    "protidestičkovou léčbu",
+    "protidestičkové léčby",
+    "protidestičkové léčbě"
+  ],
+  "protidestičkovou léčbu": [
+    "protidestičkovou léčbou",
+    "protidestičkové léčby",
+    "protidestičkové léčbě"
+  ],
+  "protidestičkové léčby": [
+    "protidestičkovou léčbou",
+    "protidestičkovou léčbu",
+    "protidestičkové léčbě"
+  ],
+  "protidestičkové léčbě": [
+    "protidestičkovou léčbou",
+    "protidestičkovou léčbu",
+    "protidestičkové léčby"
+  ],
+  "kardiostimulátor": [
+    "kardiostimulátorem"
+  ],
+  "kardiostimulátorem": [
+    "kardiostimulátor"
+  ],
+  "implantaci kardiostimulátoru": [
+    "implantací kardiostimulátoru"
+  ],
+  "implantací kardiostimulátoru": [
+    "implantaci kardiostimulátoru"
+  ],
+  "profil želez": [
+    "profil železa"
+  ],
+  "profil železa": [
+    "profil želez"
+  ],
+  "neinvazivní mechanické ventilace": [
+    "neinvazivní mechanické ventilaci"
+  ],
+  "neinvazivní mechanické ventilaci": [
+    "neinvazivní mechanické ventilace"
+  ],
+  "ace inhibitory": [
+    "ace inhibitorů"
+  ],
+  "ace inhibitorů": [
+    "ace inhibitory"
+  ],
+  "léčba betablokátorem": [
+    "léčba betablokátory",
+    "léčby betablokátorem",
+    "léčby betablokátory"
+  ],
+  "léčba betablokátory": [
+    "léčba betablokátorem",
+    "léčby betablokátorem",
+    "léčby betablokátory"
+  ],
+  "léčby betablokátorem": [
+    "léčba betablokátorem",
+    "léčba betablokátory",
+    "léčby betablokátory"
+  ],
+  "léčby betablokátory": [
+    "léčba betablokátorem",
+    "léčba betablokátory",
+    "léčby betablokátorem"
+  ],
+  "kardioverze": [
+    "kardioverzi",
+    "kardioverzí"
+  ],
+  "kardioverzi": [
+    "kardioverze",
+    "kardioverzí"
+  ],
+  "kardioverzí": [
+    "kardioverze",
+    "kardioverzi"
+  ],
+  "aortografie": [
+    "aortografii"
+  ],
+  "aortografii": [
+    "aortografie"
+  ],
+  "biomarkery": [
+    "biomarkerů"
+  ],
+  "biomarkerů": [
+    "biomarkery"
+  ],
+  "glykemie": [
+    "glykémie"
+  ],
+  "glykémie": [
+    "glykemie"
+  ],
+  "inotropní podpora": [
+    "inotropní podporou",
+    "inotropní podporu",
+    "inotropní podpory"
+  ],
+  "inotropní podporou": [
+    "inotropní podpora",
+    "inotropní podporu",
+    "inotropní podpory"
+  ],
+  "inotropní podporu": [
+    "inotropní podpora",
+    "inotropní podporou",
+    "inotropní podpory"
+  ],
+  "inotropní podpory": [
+    "inotropní podpora",
+    "inotropní podporou",
+    "inotropní podporu"
+  ],
+  "intravenózní depleční léčba": [
+    "intravenózní depleční léčbu"
+  ],
+  "intravenózní depleční léčbu": [
+    "intravenózní depleční léčba"
+  ],
+  "kardiochirurgem": [
+    "kardiochirurgie",
+    "kardiochirurgii",
+    "kardiochirurgií",
+    "kardiochirurgy"
+  ],
+  "kardiochirurgie": [
+    "kardiochirurgem",
+    "kardiochirurgii",
+    "kardiochirurgií",
+    "kardiochirurgy"
+  ],
+  "kardiochirurgii": [
+    "kardiochirurgem",
+    "kardiochirurgie",
+    "kardiochirurgií",
+    "kardiochirurgy"
+  ],
+  "kardiochirurgií": [
+    "kardiochirurgem",
+    "kardiochirurgie",
+    "kardiochirurgii",
+    "kardiochirurgy"
+  ],
+  "kardiochirurgy": [
+    "kardiochirurgem",
+    "kardiochirurgie",
+    "kardiochirurgii",
+    "kardiochirurgií"
+  ],
+  "pozitronovou emisní tomografii": [
+    "pozitronovou emisní tomografií"
+  ],
+  "pozitronovou emisní tomografií": [
+    "pozitronovou emisní tomografii"
+  ],
+  "cévní chirurgie": [
+    "cévní chirurgii",
+    "cévní chirurgií"
+  ],
+  "cévní chirurgii": [
+    "cévní chirurgie",
+    "cévní chirurgií"
+  ],
+  "cévní chirurgií": [
+    "cévní chirurgie",
+    "cévní chirurgii"
+  ],
+  "echokardiografickém nálezu": [
+    "echokardiografickému nálezu"
+  ],
+  "echokardiografickému nálezu": [
+    "echokardiografickém nálezu"
+  ],
+  "chirurgické revaskularizac": [
+    "chirurgické revaskularizaci"
+  ],
+  "chirurgické revaskularizaci": [
+    "chirurgické revaskularizac"
+  ],
+  "zátěžové echokardiografi": [
+    "zátěžové echokardiografii"
+  ],
+  "zátěžové echokardiografii": [
+    "zátěžové echokardiografi"
+  ],
+  "kompletní revaskularizace": [
+    "kompletní revaskularizací"
+  ],
+  "kompletní revaskularizací": [
+    "kompletní revaskularizace"
+  ],
+  "intravenózní infuze": [
+    "intravenózní infuzi"
+  ],
+  "intravenózní infuzi": [
+    "intravenózní infuze"
+  ],
+  "implantace": [
+    "implantaci",
+    "implantací"
+  ],
+  "implantaci": [
+    "implantace",
+    "implantací"
+  ],
+  "implantací": [
+    "implantace",
+    "implantaci"
+  ],
+  "perkutánní koronární intervence": [
+    "perkutánní koronární intervenci"
+  ],
+  "perkutánní koronární intervenci": [
+    "perkutánní koronární intervence"
+  ],
+  "rodinné anamnéz": [
+    "rodinné anamnéze",
+    "rodinné anamnézy"
+  ],
+  "rodinné anamnéze": [
+    "rodinné anamnéz",
+    "rodinné anamnézy"
+  ],
+  "rodinné anamnézy": [
+    "rodinné anamnéz",
+    "rodinné anamnéze"
+  ],
+  "endomyokardiální biopsie": [
+    "endomyokardiální biopsii",
+    "endomyokardiální biopsií"
+  ],
+  "endomyokardiální biopsii": [
+    "endomyokardiální biopsie",
+    "endomyokardiální biopsií"
+  ],
+  "endomyokardiální biopsií": [
+    "endomyokardiální biopsie",
+    "endomyokardiální biopsii"
+  ],
+  "těžkou systolickou dysfunkci": [
+    "těžkou systolickou dysfunkcí"
+  ],
+  "těžkou systolickou dysfunkcí": [
+    "těžkou systolickou dysfunkci"
+  ],
+  "steroidní léčba": [
+    "steroidní léčbu"
+  ],
+  "steroidní léčbu": [
+    "steroidní léčba"
+  ],
+  "antianginózní léčba": [
+    "antianginózní léčbu",
+    "antianginózní léčby"
+  ],
+  "antianginózní léčbu": [
+    "antianginózní léčba",
+    "antianginózní léčby"
+  ],
+  "antianginózní léčby": [
+    "antianginózní léčba",
+    "antianginózní léčbu"
+  ],
+  "farmakologické kardioverze": [
+    "farmakologické kardioverzi"
+  ],
+  "farmakologické kardioverzi": [
+    "farmakologické kardioverze"
+  ],
+  "elektrogram": [
+    "elektrogramem"
+  ],
+  "elektrogramem": [
+    "elektrogram"
+  ],
+  "implantaci lékového stentu": [
+    "implantací lékového stentu"
+  ],
+  "implantací lékového stentu": [
+    "implantaci lékového stentu"
+  ],
+  "koronární intervence": [
+    "koronární intervenci"
+  ],
+  "koronární intervenci": [
+    "koronární intervence"
+  ],
+  "podávání antibiotik": [
+    "podávání antibiotika"
+  ],
+  "podávání antibiotika": [
+    "podávání antibiotik"
+  ],
+  "antikoagulovanou": [
+    "antikoagulován",
+    "antikoagulována"
+  ],
+  "antikoagulován": [
+    "antikoagulovanou",
+    "antikoagulována"
+  ],
+  "antikoagulována": [
+    "antikoagulovanou",
+    "antikoagulován"
+  ],
+  "inguinální hernioplastika": [
+    "inguinální hernioplastiku"
+  ],
+  "inguinální hernioplastiku": [
+    "inguinální hernioplastika"
+  ],
+  "duální protidestičkovou léčbou": [
+    "duální protidestičkové léčby"
+  ],
+  "duální protidestičkové léčby": [
+    "duální protidestičkovou léčbou"
+  ],
+  "perkutánní revaskularizace": [
+    "perkutánní revaskularizaci",
+    "perkutánní revaskularizací"
+  ],
+  "perkutánní revaskularizaci": [
+    "perkutánní revaskularizace",
+    "perkutánní revaskularizací"
+  ],
+  "perkutánní revaskularizací": [
+    "perkutánní revaskularizace",
+    "perkutánní revaskularizaci"
+  ],
+  "trikuspidální anuloplastika": [
+    "trikuspidální anuloplastikou",
+    "trikuspidální anuloplastiku"
+  ],
+  "trikuspidální anuloplastikou": [
+    "trikuspidální anuloplastika",
+    "trikuspidální anuloplastiku"
+  ],
+  "trikuspidální anuloplastiku": [
+    "trikuspidální anuloplastika",
+    "trikuspidální anuloplastikou"
+  ],
+  "fibrinolýza": [
+    "fibrinolýze",
+    "fibrinolýzou",
+    "fibrinolýzu",
+    "fibrinolýzách"
+  ],
+  "fibrinolýze": [
+    "fibrinolýza",
+    "fibrinolýzou",
+    "fibrinolýzu",
+    "fibrinolýzách"
+  ],
+  "fibrinolýzou": [
+    "fibrinolýza",
+    "fibrinolýze",
+    "fibrinolýzu",
+    "fibrinolýzách"
+  ],
+  "fibrinolýzu": [
+    "fibrinolýza",
+    "fibrinolýze",
+    "fibrinolýzou",
+    "fibrinolýzách"
+  ],
+  "fibrinolýzách": [
+    "fibrinolýza",
+    "fibrinolýze",
+    "fibrinolýzou",
+    "fibrinolýzu"
+  ],
+  "urgentní koronarografie": [
+    "urgentní koronarografii"
+  ],
+  "urgentní koronarografii": [
+    "urgentní koronarografie"
+  ],
+  "chirurgickou revaskularizaci": [
+    "chirurgickou revaskularizací"
+  ],
+  "chirurgickou revaskularizací": [
+    "chirurgickou revaskularizaci"
+  ],
+  "ablaci atrioventrikulárního uzlu": [
+    "ablací atrioventrikulárního uzlu"
+  ],
+  "ablací atrioventrikulárního uzlu": [
+    "ablaci atrioventrikulárního uzlu"
+  ],
+  "amputaci pravé nohy": [
+    "amputací pravé nohy"
+  ],
+  "amputací pravé nohy": [
+    "amputaci pravé nohy"
+  ],
+  "ventimask": [
+    "ventimaskem"
+  ],
+  "ventimaskem": [
+    "ventimask"
+  ],
+  "radiofrekvenční ablace": [
+    "radiofrekvenční ablaci",
+    "radiofrekvenční ablací"
+  ],
+  "radiofrekvenční ablaci": [
+    "radiofrekvenční ablace",
+    "radiofrekvenční ablací"
+  ],
+  "radiofrekvenční ablací": [
+    "radiofrekvenční ablace",
+    "radiofrekvenční ablaci"
+  ],
+  "perkutánní transluminální koronární angioplastika": [
+    "perkutánní transluminální koronární angioplastikou",
+    "perkutánní transluminální koronární angioplastiku",
+    "perkutánní transluminální koronární angioplastiky"
+  ],
+  "perkutánní transluminální koronární angioplastikou": [
+    "perkutánní transluminální koronární angioplastika",
+    "perkutánní transluminální koronární angioplastiku",
+    "perkutánní transluminální koronární angioplastiky"
+  ],
+  "perkutánní transluminální koronární angioplastiku": [
+    "perkutánní transluminální koronární angioplastika",
+    "perkutánní transluminální koronární angioplastikou",
+    "perkutánní transluminální koronární angioplastiky"
+  ],
+  "perkutánní transluminální koronární angioplastiky": [
+    "perkutánní transluminální koronární angioplastika",
+    "perkutánní transluminální koronární angioplastikou",
+    "perkutánní transluminální koronární angioplastiku"
+  ],
+  "respirační auskultace": [
+    "respirační auskultaci"
+  ],
+  "respirační auskultaci": [
+    "respirační auskultace"
+  ],
+  "vazoaktivní aminové": [
+    "vazoaktivní aminy"
+  ],
+  "vazoaktivní aminy": [
+    "vazoaktivní aminové"
+  ],
+  "antialdosteronik": [
+    "antialdosteroniky"
+  ],
+  "antialdosteroniky": [
+    "antialdosteronik"
+  ],
+  "implantaci stentu": [
+    "implantací stentu"
+  ],
+  "implantací stentu": [
+    "implantaci stentu"
+  ],
+  "elektroneurogram": [
+    "elektroneurogramem"
+  ],
+  "elektroneurogramem": [
+    "elektroneurogram"
+  ],
+  "elektrofyziologie": [
+    "elektrofyziology"
+  ],
+  "elektrofyziology": [
+    "elektrofyziologie"
+  ],
+  "neinvazivní ventilace": [
+    "neinvazivní ventilaci"
+  ],
+  "neinvazivní ventilaci": [
+    "neinvazivní ventilace"
+  ],
+  "antihypertenziv": [
+    "antihypertenziva",
+    "antihypertenzivy"
+  ],
+  "antihypertenziva": [
+    "antihypertenziv",
+    "antihypertenzivy"
+  ],
+  "antihypertenzivy": [
+    "antihypertenziv",
+    "antihypertenziva"
+  ],
+  "perkutánní intervence": [
+    "perkutánní intervencí"
+  ],
+  "perkutánní intervencí": [
+    "perkutánní intervence"
+  ],
+  "depleční léčba": [
+    "depleční léčbu",
+    "depleční léčby",
+    "depleční léčbě"
+  ],
+  "depleční léčbu": [
+    "depleční léčba",
+    "depleční léčby",
+    "depleční léčbě"
+  ],
+  "depleční léčby": [
+    "depleční léčba",
+    "depleční léčbu",
+    "depleční léčbě"
+  ],
+  "depleční léčbě": [
+    "depleční léčba",
+    "depleční léčbu",
+    "depleční léčby"
+  ],
+  "srdeční resynchronizační terapie": [
+    "srdeční resynchronizační terapii",
+    "srdeční resynchronizační terapií"
+  ],
+  "srdeční resynchronizační terapii": [
+    "srdeční resynchronizační terapie",
+    "srdeční resynchronizační terapií"
+  ],
+  "srdeční resynchronizační terapií": [
+    "srdeční resynchronizační terapie",
+    "srdeční resynchronizační terapii"
+  ],
+  "antikoagulancii": [
+    "antikoagulancií"
+  ],
+  "antikoagulancií": [
+    "antikoagulancii"
+  ],
+  "kardiovaskulární chirurgie": [
+    "kardiovaskulární chirurgii",
+    "kardiovaskulární chirurgií"
+  ],
+  "kardiovaskulární chirurgii": [
+    "kardiovaskulární chirurgie",
+    "kardiovaskulární chirurgií"
+  ],
+  "kardiovaskulární chirurgií": [
+    "kardiovaskulární chirurgie",
+    "kardiovaskulární chirurgii"
+  ],
+  "elektrofyziologické studie": [
+    "elektrofyziologické studii"
+  ],
+  "elektrofyziologické studii": [
+    "elektrofyziologické studie"
+  ],
+  "perorální antikoagulace": [
+    "perorální antikoagulaci",
+    "perorální antikoagulací"
+  ],
+  "perorální antikoagulaci": [
+    "perorální antikoagulace",
+    "perorální antikoagulací"
+  ],
+  "perorální antikoagulací": [
+    "perorální antikoagulace",
+    "perorální antikoagulaci"
+  ],
+  "diuretické terapie": [
+    "diuretické terapii"
+  ],
+  "diuretické terapii": [
+    "diuretické terapie"
+  ],
+  "chemoterapeutické léčby": [
+    "chemoterapeutické léčbě"
+  ],
+  "chemoterapeutické léčbě": [
+    "chemoterapeutické léčby"
+  ],
+  "farmakologickou kardioverzi": [
+    "farmakologickou kardioverzí"
+  ],
+  "farmakologickou kardioverzí": [
+    "farmakologickou kardioverzi"
+  ],
+  "echo-dopplerem": [
+    "echo-doppleru"
+  ],
+  "echo-doppleru": [
+    "echo-dopplerem"
+  ],
+  "defibrilace": [
+    "defibrilaci",
+    "defibrilací"
+  ],
+  "defibrilaci": [
+    "defibrilace",
+    "defibrilací"
+  ],
+  "defibrilací": [
+    "defibrilace",
+    "defibrilaci"
+  ],
+  "doppler": [
+    "dopplera",
+    "dopplerem"
+  ],
+  "dopplera": [
+    "doppler",
+    "dopplerem"
+  ],
+  "dopplerem": [
+    "doppler",
+    "dopplera"
+  ],
+  "perikardiocentéza": [
+    "perikardiocentéze",
+    "perikardiocentézu"
+  ],
+  "perikardiocentéze": [
+    "perikardiocentéza",
+    "perikardiocentézu"
+  ],
+  "perikardiocentézu": [
+    "perikardiocentéza",
+    "perikardiocentéze"
+  ],
+  "léčba beta-blokátorem": [
+    "léčba beta-blokátory"
+  ],
+  "léčba beta-blokátory": [
+    "léčba beta-blokátorem"
+  ],
+  "antiarytmické léčby": [
+    "antiarytmické léčbě"
+  ],
+  "antiarytmické léčbě": [
+    "antiarytmické léčby"
+  ],
+  "elektrické kardioverze": [
+    "elektrické kardioverzi"
+  ],
+  "elektrické kardioverzi": [
+    "elektrické kardioverze"
+  ],
+  "invazivní ventilac": [
+    "invazivní ventilace"
+  ],
+  "invazivní ventilace": [
+    "invazivní ventilac"
+  ],
+  "kontinuální venovenózní hemodiafiltrace": [
+    "kontinuální venovenózní hemodiafiltraci"
+  ],
+  "kontinuální venovenózní hemodiafiltraci": [
+    "kontinuální venovenózní hemodiafiltrace"
+  ],
+  "vyšetření koagulopatie": [
+    "vyšetření koagulopatií"
+  ],
+  "vyšetření koagulopatií": [
+    "vyšetření koagulopatie"
+  ],
+  "mitrální anuloplastika": [
+    "mitrální anuloplastiku"
+  ],
+  "mitrální anuloplastiku": [
+    "mitrální anuloplastika"
+  ],
+  "tromboaspirace": [
+    "tromboaspiraci",
+    "tromboaspirací"
+  ],
+  "tromboaspiraci": [
+    "tromboaspirace",
+    "tromboaspirací"
+  ],
+  "tromboaspirací": [
+    "tromboaspirace",
+    "tromboaspiraci"
+  ],
+  "implantaci trvalého kardiostimulátoru": [
+    "implantací trvalého kardiostimulátoru"
+  ],
+  "implantací trvalého kardiostimulátoru": [
+    "implantaci trvalého kardiostimulátoru"
+  ],
+  "neurohormonální medikace": [
+    "neurohormonální medikaci"
+  ],
+  "neurohormonální medikaci": [
+    "neurohormonální medikace"
+  ],
+  "sedoanalgezie": [
+    "sedoanalgezii"
+  ],
+  "sedoanalgezii": [
+    "sedoanalgezie"
+  ],
+  "terapeutické hypotermie": [
+    "terapeutické hypotermii"
+  ],
+  "terapeutické hypotermii": [
+    "terapeutické hypotermie"
+  ],
+  "mechanickou trombektomii": [
+    "mechanickou trombektomií"
+  ],
+  "mechanickou trombektomií": [
+    "mechanickou trombektomii"
+  ],
+  "intravenózní diuretickou léčbou": [
+    "intravenózní diuretickou léčbu"
+  ],
+  "intravenózní diuretickou léčbu": [
+    "intravenózní diuretickou léčbou"
+  ],
+  "intravenózní ferroterapie": [
+    "intravenózní ferroterapií"
+  ],
+  "intravenózní ferroterapií": [
+    "intravenózní ferroterapie"
+  ],
+  "intravenózní feroterapie": [
+    "intravenózní feroterapií"
+  ],
+  "intravenózní feroterapií": [
+    "intravenózní feroterapie"
+  ],
+  "chirurgickou tracheostomi": [
+    "chirurgickou tracheostomii"
+  ],
+  "chirurgickou tracheostomii": [
+    "chirurgickou tracheostomi"
+  ],
+  "perikardiektomie": [
+    "perikardiektomii"
+  ],
+  "perikardiektomii": [
+    "perikardiektomie"
+  ],
+  "revaskularizace": [
+    "revaskularizaci",
+    "revaskularizací"
+  ],
+  "revaskularizaci": [
+    "revaskularizace",
+    "revaskularizací"
+  ],
+  "revaskularizací": [
+    "revaskularizace",
+    "revaskularizaci"
+  ],
+  "koagulační studie": [
+    "koagulační studií"
+  ],
+  "koagulační studií": [
+    "koagulační studie"
+  ],
+  "antitrombotickou léčbou": [
+    "antitrombotickou léčbu"
+  ],
+  "antitrombotickou léčbu": [
+    "antitrombotickou léčbou"
+  ],
+  "koronární katetrizace": [
+    "koronární katetrizaci"
+  ],
+  "koronární katetrizaci": [
+    "koronární katetrizace"
+  ],
+  "echokardiografické kontrole": [
+    "echokardiografické kontroly"
+  ],
+  "echokardiografické kontroly": [
+    "echokardiografické kontrole"
+  ],
+  "chirurgicky revaskularizovaná": [
+    "chirurgicky revaskularizovaným"
+  ],
+  "chirurgicky revaskularizovaným": [
+    "chirurgicky revaskularizovaná"
+  ],
+  "urgentní operace": [
+    "urgentní operaci"
+  ],
+  "urgentní operaci": [
+    "urgentní operace"
+  ],
+  "reoperace": [
+    "reoperací"
+  ],
+  "reoperací": [
+    "reoperace"
+  ],
+  "embolektomii": [
+    "embolektomií"
+  ],
+  "embolektomií": [
+    "embolektomii"
+  ],
+  "lobektomie": [
+    "lobektomií"
+  ],
+  "lobektomií": [
+    "lobektomie"
+  ],
+  "transseptální punkce": [
+    "transseptální punkci",
+    "transseptální punkcí"
+  ],
+  "transseptální punkci": [
+    "transseptální punkce",
+    "transseptální punkcí"
+  ],
+  "transseptální punkcí": [
+    "transseptální punkce",
+    "transseptální punkci"
+  ],
+  "rotační aterektomii": [
+    "rotační aterektomií"
+  ],
+  "rotační aterektomií": [
+    "rotační aterektomii"
+  ],
+  "koronární reimplantace": [
+    "koronární reimplantaci"
+  ],
+  "koronární reimplantaci": [
+    "koronární reimplantace"
+  ],
+  "trombektomie": [
+    "trombektomii"
+  ],
+  "trombektomii": [
+    "trombektomie"
+  ],
+  "hyperventilační test": [
+    "hyperventilačním testem"
+  ],
+  "hyperventilačním testem": [
+    "hyperventilační test"
+  ],
+  "radiální punkce": [
+    "radiální punkcí"
+  ],
+  "radiální punkcí": [
+    "radiální punkce"
+  ],
+  "antiarytmik": [
+    "antiarytmika"
+  ],
+  "antiarytmika": [
+    "antiarytmik"
+  ],
+  "cévní protéza": [
+    "cévní protézy"
+  ],
+  "cévní protézy": [
+    "cévní protéza"
+  ],
+  "transfuzi krevních přípravků": [
+    "transfuzí krevních přípravků"
+  ],
+  "transfuzí krevních přípravků": [
+    "transfuzi krevních přípravků"
+  ],
+  "neinvazivní koronarografie": [
+    "neinvazivní koronarografii",
+    "neinvazivní koronarografií"
+  ],
+  "neinvazivní koronarografii": [
+    "neinvazivní koronarografie",
+    "neinvazivní koronarografií"
+  ],
+  "neinvazivní koronarografií": [
+    "neinvazivní koronarografie",
+    "neinvazivní koronarografii"
+  ],
+  "aferézních": [
+    "aferézního",
+    "aferézy"
+  ],
+  "aferézního": [
+    "aferézních",
+    "aferézy"
+  ],
+  "aferézy": [
+    "aferézních",
+    "aferézního"
+  ],
+  "subkutánní icd": [
+    "subkutánního icd"
+  ],
+  "subkutánního icd": [
+    "subkutánní icd"
+  ],
+  "emergentní koronární katetrizace": [
+    "emergentní koronární katetrizaci"
+  ],
+  "emergentní koronární katetrizaci": [
+    "emergentní koronární katetrizace"
+  ],
+  "t2-stir sekvencí": [
+    "t2-stir sekvencích"
+  ],
+  "t2-stir sekvencích": [
+    "t2-stir sekvencí"
+  ]
+}

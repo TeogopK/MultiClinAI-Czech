@@ -118,7 +118,10 @@ def main():
     print(f"Model: {args.model_name}, BS: {args.batch_size}, LR: {args.lr}, Epochs: {args.epochs}")
 
     # Load data
-    train_ds = build_dataset(et, "train", args.model_name, args.max_length)
+    extra_dirs = getattr(args, "extra_data_dirs", [])
+    if extra_dirs:
+        print(f"Extra data dirs: {extra_dirs}")
+    train_ds = build_dataset(et, "train", args.model_name, args.max_length, extra_dirs)
     dev_ds = build_dataset(et, "dev", args.model_name, args.max_length)
     print(f"Train: {len(train_ds)} examples, Dev: {len(dev_ds)} examples")
 

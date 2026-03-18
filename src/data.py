@@ -129,11 +129,28 @@ def build_dataset(
     split: str = "train",
     model_name: str = MODEL_NAME,
     max_length: int = MAX_LENGTH,
+    extra_data_dirs: list[str] | None = None,
 ) -> Dataset:
-    """Build a HuggingFace Dataset for the given entity type and split."""
+    """Build a HuggingFace Dataset for the given entity type and split.
+
+    If extra_data_dirs is provided (and split == "train"), documents from
+    those directories are merged into the training set. This is used to
+    include augmented / back-translated data.
+    """
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     directory = data_dir(entity_type, split)
     docs = load_documents(directory, entity_type)
+
+    # Merge extra data directories (only for training)
+    if extra_data_dirs and split == "train":
+        for extra_dir in extra_data_dirs:
+            extra_path = Path(extra_dir)
+            if extra_path.exists():
+                extra_docs = load_documents(extra_path, entity_type)
+                print(f"  Loaded {len(extra_docs)} extra docs from {extra_path}")
+                docs.extend(extra_docs)
+            else:
+                print(f"  WARNING: extra data dir not found: {extra_path}")
 
     all_input_ids = []
     all_attention_mask = []
