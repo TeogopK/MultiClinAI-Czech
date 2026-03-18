@@ -1,0 +1,10 @@
+T1	PROCEDURE 180 201	Intraorální vyšetření
+T2	PROCEDURE 232 257	rentgenologické vyšetření
+T3	PROCEDURE 265 282	Ortopantomografie
+T4	PROCEDURE 285 287	CT
+T5	PROCEDURE 453 460	biopsie
+T6	PROCEDURE 462 484	Histologické vyšetření
+T7	PROCEDURE 609 620	kostní sken
+T8	PROCEDURE 800 826	Hrudně-břišní CT vyšetření
+T9	PROCEDURE 976 1021	kombinovaná léčba radioterapií a chemoterapií
+T10	PROCEDURE 1061 1066	pitvě

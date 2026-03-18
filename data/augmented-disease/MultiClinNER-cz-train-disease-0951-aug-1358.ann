@@ -1,0 +1,48 @@
+T1	DISEASE 28 42	lékové alergie
+T2	DISEASE 44 58	Toxické návyky
+T3	DISEASE 60 72	bývalý kuřák
+T4	DISEASE 163 184	arteriální hypertenze
+T5	DISEASE 186 188	HT
+T6	DISEASE 236 248	dyslipidémie
+T7	DISEASE 250 252	DL
+T8	DISEASE 255 286	diabetes mellitus (DM) II. typu
+T9	DISEASE 274 276	DM
+T10	DISEASE 312 348	chronická ischemická choroba srdeční
+T11	DISEASE 363 397	okluze předního sestupného raménka
+T12	DISEASE 427 447	difuzní ateromatózou
+T13	DISEASE 537 554	Paroxyzmální FiSi
+T14	DISEASE 605 627	psoriatická artropatie
+T15	DISEASE 673 698	chřipkovou infekci typu A
+T16	DISEASE 701 719	respirační selhání
+T17	DISEASE 1436 1443	synkopu
+T18	DISEASE 1985 2010	komorovými extrasystolami
+T19	DISEASE 2144 2164	sinusová bradykardie
+T20	DISEASE 2192 2213	komorové extrasystoly
+T21	DISEASE 3022 3038	nekrózy myokardu
+T22	DISEASE 3552 3598	levá komora nedilatovaná, mírně hypertrofovaná
+T23	DISEASE 3720 3741	mitrální insuficience
+T24	DISEASE 3862 3908	Trojcípá aortální chlopeň, sklerokalcifikovaná
+T25	DISEASE 4007 4028	aortální insuficience
+T26	DISEASE 4030 4054	Levá síň mírně rozšířená
+T27	DISEASE 4215 4241	Pravá síň mírně dilatovaná
+T28	DISEASE 4282 4307	Mírná plicní insuficience
+T29	DISEASE 4315 4337	stenóza plicní chlopně
+T30	DISEASE 4384 4431	Jemná trikuspidální chlopeň, mírná insuficience
+T31	DISEASE 4546 4569	perikardiálního výpotku
+T32	DISEASE 4600 4682	ateromatózní levá hlavní koronární tepna (LMCA) s excentrickou kalcifikovanou lézí
+T33	DISEASE 4711 4755	významné stenóze v distální úrovni v LMCA-Cx
+T34	DISEASE 4816 4830	LAD okludována
+T35	DISEASE 4917 5013	Cirkumflex (CX) difuzně kalcifikovaný, se závažnou lézí na ostiální (TCI-CX) a proximální úrovni
+T36	DISEASE 5015 5075	Dominantní pravá koronární tepna (RCA) s difuzní kalcifikací
+T37	DISEASE 5158 5196	krvácejících lézí na viditelné sliznic
+T38	DISEASE 5270 5281	Léze Cx-LCT
+T39	DISEASE 5432 5439	CX léze
+T40	DISEASE 5611 5637	nestabilní anginu pectoris
+T41	DISEASE 5745 5773	chlopenní srdeční onemocnění
+T42	DISEASE 5833 5870	okluzi ostiální přední sestupné tepny
+T43	DISEASE 5885 5947	významnou lézi v distálním kmeni postihující cirkumflexní ústí
+T44	DISEASE 5988 6020	mírná anémie z nedostatku železa
+T45	DISEASE 6110 6116	anémie
+T46	DISEASE 6197 6214	komorovou bigemii
+T47	DISEASE 6267 6283	komorové arytmie
+T48	DISEASE 6583 6589	anémie

@@ -1,0 +1,48 @@
+T1	DISEASE 75 95	Alergie na penicilin
+T2	DISEASE 111 116	kuřák
+T3	DISEASE 122 140	konzumace alkoholu
+T4	DISEASE 142 152	Hypertenze
+T5	DISEASE 160 168	diabetes
+T6	DISEASE 173 185	dyslipidemie
+T7	DISEASE 221 241	srdečního onemocnění
+T8	DISEASE 356 374	katarální příznaky
+T9	DISEASE 497 515	akutní bronchitidu
+T10	DISEASE 745 749	LBBB
+T11	DISEASE 963 980	srdečního selhání
+T12	DISEASE 1445 1448	HŽT
+T13	DISEASE 1825 1838	neúplným LBBB
+T14	DISEASE 1882 1895	kardiomegalie
+T15	DISEASE 1946 1963	pleurální výpotek
+T16	DISEASE 2035 2071	dilatace LK s těžce oslabenou funkcí
+T17	DISEASE 2157 2173	Mírná funkční MR
+T18	DISEASE 2175 2196	Diastolická dysfunkce
+T19	DISEASE 2237 2269	Dilatovaná PK s mírnou dysfunkcí
+T20	DISEASE 2271 2279	Mírná TR
+T21	DISEASE 2322 2334	dysfunkci PK
+T22	DISEASE 2373 2394	perikardiální výpotek
+T23	DISEASE 2427 2445	angiografické léze
+T24	DISEASE 2467 2480	dilatovaná LK
+T25	DISEASE 2683 2696	Dilatovaná LS
+T26	DISEASE 2698 2731	Dilatovaná PK s depresivní funkcí
+T27	DISEASE 2733 2746	Dilatovaná PS
+T28	DISEASE 2760 2768	mírná MR
+T29	DISEASE 2780 2801	perikardiální výpotek
+T30	DISEASE 2914 2938	Dilatační kardiomyopatie
+T31	DISEASE 2941 2967	těžkou komorovou dysfunkcí
+T32	DISEASE 3068 3091	ischemických lézí mozku
+T33	DISEASE 3099 3114	akutní krvácení
+T34	DISEASE 3116 3185	Okluze zadního komunikujícího segmentu (P2) pravé zadní mozkové tepny
+T35	DISEASE 3216 3231	ischemické léze
+T36	DISEASE 3323 3355	ložisko hemoragické transformace
+T37	DISEASE 3605 3619	kardiomyopatii
+T38	DISEASE 3622 3654	těžkou biventrikulární dysfunkcí
+T39	DISEASE 3657 3688	hypertrabekulární levou komorou
+T40	DISEASE 3895 3909	koronární léze
+T41	DISEASE 4023 4047	dilatační kardiomyopatie
+T42	DISEASE 4050 4076	těžkou komorovou dysfunkcí
+T43	DISEASE 4498 4530	ischemická cévní mozková příhoda
+T44	DISEASE 4924 4941	srdečního selhání
+T45	DISEASE 4988 5005	srdečního selhání
+T46	DISEASE 5007 5033	Nekompaktní kardiomyopatie
+T47	DISEASE 5036 5061	biventrikulární dysfunkci
+T48	DISEASE 5063 5095	Ischemická cévní mozková příhoda

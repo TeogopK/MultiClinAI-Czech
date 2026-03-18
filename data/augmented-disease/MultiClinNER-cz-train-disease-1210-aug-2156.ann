@@ -1,0 +1,56 @@
+T1	DISEASE 87 111	alergické reakce na léky
+T2	DISEASE 148 169	arteriální hypertenze
+T3	DISEASE 171 188	Obezita 2. stupně
+T4	DISEASE 234 251	diabetes mellitus
+T5	DISEASE 256 268	dyslipidemie
+T6	DISEASE 276 290	toxické návyky
+T7	DISEASE 339 367	zlomeninu levého trimalleolu
+T8	DISEASE 514 561	Středně těžká chronická obstrukční plicní nemoc
+T9	DISEASE 563 568	CHOPN
+T10	DISEASE 636 669	Syndrom spánkové apnoe a hypopnoe
+T11	DISEASE 671 675	SAHS
+T12	DISEASE 754 776	Adenokarcinom prostaty
+T13	DISEASE 1288 1325	neischemická dilatační kardiomyopatie
+T14	DISEASE 1357 1385	těžkou dysfunkcí levé komory
+T15	DISEASE 1553 1583	těžce dilatovanou levou komoru
+T16	DISEASE 1919 1930	náhlé smrti
+T17	DISEASE 1985 2027	nesetrvalé monomorfní komorové tachykardie
+T18	DISEASE 2029 2034	NSMVT
+T19	DISEASE 2082 2122	setrvalé monomorfní komorové tachykardie
+T20	DISEASE 2124 2128	SMVT
+T21	DISEASE 2217 2237	komorová tachykardie
+T22	DISEASE 2239 2241	VT
+T23	DISEASE 2409 2439	těžce dilatovanou levou komoru
+T24	DISEASE 2563 2582	Dilatovaná levá síň
+T25	DISEASE 2593 2614	Diastolická dysfunkce
+T26	DISEASE 2673 2736	Mitrální chlopeň s mírnou regurgitací v důsledku dilatace anulu
+T27	DISEASE 2799 2820	aortální insuficience
+T28	DISEASE 2828 2854	trikuspidální insuficience
+T29	DISEASE 2940 2963	Dilatovaná pravá komora
+T30	DISEASE 3035 3056	perikardiální výpotek
+T31	DISEASE 3603 3632	pokročilého srdečního selhání
+T32	DISEASE 3727 3782	dilatační kardiomyopatie s těžkou dysfunkcí levé komory
+T33	DISEASE 4391 4398	obezity
+T34	DISEASE 4675 4697	hluboké žilní trombózy
+T35	DISEASE 4770 4790	sinusová bradykardie
+T36	DISEASE 5129 5136	obezity
+T37	DISEASE 5138 5169	Levá komora je těžce dilatovaná
+T38	DISEASE 5767 5791	Mírná dilatace levé síně
+T39	DISEASE 5845 5887	Mitrální chlopeň s degenerativními změnami
+T40	DISEASE 5898 5941	mírná až středně těžká mitrální regurgitace
+T41	DISEASE 6278 6304	trikuspidální insuficience
+T42	DISEASE 6336 6353	plicní hypertenze
+T43	DISEASE 6355 6358	PHT
+T44	DISEASE 6575 6596	perikardiální výpotek
+T45	DISEASE 7890 7908	neoplazie prostaty
+T46	DISEASE 8040 8057	diabetes mellitus
+T47	DISEASE 8368 8385	srdečního selhání
+T48	DISEASE 9106 9113	nadváha
+T49	DISEASE 9544 9551	obezita
+T50	DISEASE 9655 9662	nadváha
+T51	DISEASE 9809 9829	srdečním onemocněním
+T52	DISEASE 10008 10033	pokročilé srdeční selhání
+T53	DISEASE 10139 10201	Srdeční selhání se závažně sníženou ejekční frakcí levé komory
+T54	DISEASE 10203 10240	Neischemická dilatační kardiomyopatie
+T55	DISEASE 10259 10266	Obezita
+T56	DISEASE 10278 10303	Diabetes mellitus 2. typu

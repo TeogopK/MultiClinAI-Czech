@@ -1,0 +1,45 @@
+T1	DISEASE 94 110	lékových alergií
+T2	DISEASE 112 124	hypertonička
+T3	DISEASE 126 132	obézní
+T4	DISEASE 134 148	dyslipidemička
+T5	DISEASE 151 161	diabetičky
+T6	DISEASE 175 186	hypotyreózy
+T7	DISEASE 286 306	srdečního onemocnění
+T8	DISEASE 312 325	náhlého úmrtí
+T9	DISEASE 690 705	anginy pectoris
+T10	DISEASE 1457 1464	ascites
+T11	DISEASE 1751 1764	kardiomegalie
+T12	DISEASE 1766 1793	Oboustranný alveolární edém
+T13	DISEASE 1801 1818	pleurální výpotek
+T14	DISEASE 2074 2092	poškození myokardu
+T15	DISEASE 2326 2348	dilatovaná levá komora
+T16	DISEASE 2450 2472	Dysfunkce pravé komory
+T17	DISEASE 2488 2515	Těžká mitrální insuficience
+T18	DISEASE 2553 2604	Mírná trikuspidální regurgitace s plicní hypertenzí
+T19	DISEASE 2657 2709	mitrální chlopeň s kalcifikací anulu, fibróza lístků
+T20	DISEASE 2754 2771	těžké regurgitaci
+T21	DISEASE 2802 2827	trikuspidální regurgitace
+T22	DISEASE 2829 2851	Dysfunkce pravé komory
+T23	DISEASE 2872 2878	trombu
+T24	DISEASE 2905 2931	třicévní koronární choroba
+T25	DISEASE 2955 2973	Koronární anomálie
+T26	DISEASE 2996 3074	všechny koronární tepny vycházejí z pravého Valsalvova sinu s nezávislým ústím
+T27	DISEASE 3076 3125	Těžká stenóza střední přední sestupné tepny (ADA)
+T28	DISEASE 3127 3169	těžká stenóza v prvním obloukovitém okraji
+T29	DISEASE 3178 3237	okluze chronického vzhledu v distální pravé koronární tepně
+T30	DISEASE 3320 3348	těžce dilatovaná levá komora
+T31	DISEASE 3825 3843	akutní plicní edém
+T32	DISEASE 4117 4144	těžkou mitrální regurgitaci
+T33	DISEASE 4298 4393	koronární anomálii spočívající v tom, že levý koronární strom vychází z pravého Valsalvova sinu
+T34	DISEASE 4397 4431	závažnou koronární chorobu tří cév
+T35	DISEASE 4581 4602	mitrální insuficience
+T36	DISEASE 4604 4606	MI
+T37	DISEASE 4698 4714	srdečním selhání
+T38	DISEASE 4882 4908	patologie mitrální chlopně
+T39	DISEASE 5181 5224	postimplantační reziduální mitrální stenózy
+T40	DISEASE 5316 5401	Dilatační kardiomyopatie ischemické etiologie se středně těžkou dysfunkcí levé komory
+T41	DISEASE 5410 5438	Starý dolní infarkt myokardu
+T42	DISEASE 5440 5458	Koronární anomálie
+T43	DISEASE 5460 5536	počátek všech koronárních tepen v pravém sinus Valsalva, s nezávislým ostiem
+T44	DISEASE 5539 5575	Těžké onemocnění tří koronárních cév
+T45	DISEASE 5652 5678	Těžká mitrální regurgitace

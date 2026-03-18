@@ -1,0 +1,61 @@
+T1	SYMPTOM 840 849	hypotenzi
+T2	SYMPTOM 889 900	tachykardii
+T3	SYMPTOM 1036 1126	apikální akineze, přední septální a střední segmenty dolní, přední a posteroseptální stěny
+T4	SYMPTOM 1504 1512	anorexii
+T5	SYMPTOM 1514 1521	astenii
+T6	SYMPTOM 1524 1592	trvalé bolesti v pravém hypochondriu nesouvisející s příjmem potravy
+T7	SYMPTOM 1610 1623	pocit plnosti
+T8	SYMPTOM 1639 1645	nauzeu
+T9	SYMPTOM 1647 1655	zvracení
+T10	SYMPTOM 1657 1665	cholurii
+T11	SYMPTOM 1668 1675	acholie
+T12	SYMPTOM 1681 1712	zřetelného dystermického pocitu
+T13	SYMPTOM 1726 1750	změny střevního tranzitu
+T14	SYMPTOM 2123 2137	asymptomatický
+T15	SYMPTOM 2157 2165	dušnosti
+T16	SYMPTOM 2381 2412	Pacient v dobrém celkovém stavu
+T17	SYMPTOM 2414 2431	Dobře hydratovaný
+T18	SYMPTOM 2433 2443	vyživovaný
+T19	SYMPTOM 2446 2458	perfundovaný
+T20	SYMPTOM 2460 2477	Eupnoický v klidu
+T21	SYMPTOM 2492 2508	žlutavé spojivky
+T22	SYMPTOM 2510 2545	Jugulární žilní puls (PVY) normální
+T23	SYMPTOM 2547 2573	Auskultace srdce: rytmická
+T24	SYMPTOM 2578 2585	šelestů
+T25	SYMPTOM 2606 2634	zachovalý vezikulární šelest
+T26	SYMPTOM 2640 2653	dalších zvuků
+T27	SYMPTOM 2674 2701	přítomny hydroaerické zvuky
+T28	SYMPTOM 2719 2745	břicho měkké a stlačitelné
+T29	SYMPTOM 2747 2799	nebolestivé při povrchové ani hluboké palpaci břicha
+T30	SYMPTOM 2812 2835	peritoneálního dráždění
+T31	SYMPTOM 2837 2862	PPR negativní oboustranně
+T32	SYMPTOM 2928 2933	otoky
+T33	SYMPTOM 2935 2965	Zachovalé pulzy na obou nohách
+T34	SYMPTOM 3781 3783	RS
+T35	SYMPTOM 3801 3812	normální PR
+T36	SYMPTOM 3814 3822	úzké QRS
+T37	SYMPTOM 3824 3852	QS na anterolaterální straně
+T38	SYMPTOM 3857 3892	progrese R v prekordiálních svodech
+T39	SYMPTOM 3894 3950	přetrvávající elevace úseku ST na anterolaterální straně
+T40	SYMPTOM 5077 5113	Homogenní slezina normální velikosti
+T41	SYMPTOM 5258 5272	volná tekutina
+T42	SYMPTOM 5352 5379	Žlučovod má normální kalibr
+T43	SYMPTOM 5624 5654	Sérologie: HAV a HCV negativní
+T44	SYMPTOM 5803 5977	protilátky proti parietálním buňkám, anti LC1, antiLKM, anti mitochondriální, proti hladkému svalu, anti retikulin, cANCA, anti glomerulární bazální membrána, pANCA negativní
+T45	SYMPTOM 5979 6009	Paraziti ve stolici: negativní
+T46	SYMPTOM 6133 6140	astenii
+T47	SYMPTOM 6142 6150	anorexii
+T48	SYMPTOM 6152 6161	žloutenku
+T49	SYMPTOM 6163 6171	cholurii
+T50	SYMPTOM 6174 6181	acholii
+T51	SYMPTOM 6228 6236	horečkou
+T52	SYMPTOM 6279 6299	zvýšené transaminázy
+T53	SYMPTOM 6394 6405	leukocytózu
+T54	SYMPTOM 6408 6419	eozinofilii
+T55	SYMPTOM 6429 6460	zvýšenými reaktanty akutní fáze
+T56	SYMPTOM 7632 7643	eozinofilie
+T57	SYMPTOM 7806 7823	břišních příznaků
+T58	SYMPTOM 7848 7856	cholurie
+T59	SYMPTOM 7859 7866	acholie
+T60	SYMPTOM 7932 7963	vysoké hladiny LDL cholesterolu
+T61	SYMPTOM 8115 8188	transamináz a enzymů cytolýzy byly v kontrolních analýzách v mezích normy

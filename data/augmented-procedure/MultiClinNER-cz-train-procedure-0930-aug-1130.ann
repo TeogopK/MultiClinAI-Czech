@@ -1,0 +1,56 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 542 573	transtorakální echokardiografii
+T3	PROCEDURE 575 578	TTE
+T4	PROCEDURE 614 641	farmakologickou kardioverzi
+T5	PROCEDURE 657 676	ablaci plicních žil
+T6	PROCEDURE 718 737	antiarytmické léčbě
+T7	PROCEDURE 825 838	antikoagulaci
+T8	PROCEDURE 1008 1077	reablaci substrátu levé síně, střechové linie síní a mitrálního istmu
+T9	PROCEDURE 1153 1176	elektrickou kardioverzi
+T10	PROCEDURE 1219 1238	antiarytmická léčba
+T11	PROCEDURE 1725 1762	vyšetření magnetickou rezonancí lebky
+T12	PROCEDURE 2186 2202	renálních funkcí
+T13	PROCEDURE 2409 2437	kauterizace nitrátem stříbra
+T14	PROCEDURE 2440 2480	umístění spogostanu a baktrobanové fólie
+T15	PROCEDURE 2538 2573	perkutánním uzávěru ouška levé síně
+T16	PROCEDURE 2764 2785	protidestičková léčba
+T17	PROCEDURE 2814 2835	protidestičková léčba
+T18	PROCEDURE 3288 3307	FYZIKÁLNÍ VYŠETŘENÍ
+T19	PROCEDURE 3585 3601	Auskultace srdce
+T20	PROCEDURE 3645 3662	Plicní auskultace
+T21	PROCEDURE 3820 3835	hluboké palpaci
+T22	PROCEDURE 4461 4478	Elektrokardiogram
+T23	PROCEDURE 4545 4587	Posteroanteriorní a laterální RTG hrudníku
+T24	PROCEDURE 4673 4721	perkutánním zařízením pro uzávěr ouška levé síně
+T25	PROCEDURE 4887 4890	TTE
+T26	PROCEDURE 5451 5472	uzávěr síňového ouška
+T27	PROCEDURE 5474 5509	Počítačová tomografie (CT) hrudníku
+T28	PROCEDURE 5953 5975	uzávěr ouška levé síně
+T29	PROCEDURE 6238 6251	Bronchoskopie
+T30	PROCEDURE 6263 6286	Bronchoalveolární laváž
+T31	PROCEDURE 6354 6374	patologické anatomie
+T32	PROCEDURE 6397 6421	Respirační funkční testy
+T33	PROCEDURE 6506 6527	Test chůze na 6 minut
+T34	PROCEDURE 6535 6559	Respirační funkční testy
+T35	PROCEDURE 6601 6625	respirační funkční testy
+T36	PROCEDURE 6744 6768	Šestiminutový test chůze
+T37	PROCEDURE 6801 6812	CT hrudníku
+T38	PROCEDURE 7118 7134	uzávěr levé síně
+T39	PROCEDURE 8136 8147	CT hrudníku
+T40	PROCEDURE 8389 8410	Funkční dechové testy
+T41	PROCEDURE 8512 8534	6minutovém testu chůze
+T42	PROCEDURE 8629 8642	bronchoskopii
+T43	PROCEDURE 8694 8717	bronchoalveolární laváž
+T44	PROCEDURE 8790 8811	patologickou anatomií
+T45	PROCEDURE 8969 8991	kortikosteroidní léčba
+T46	PROCEDURE 9074 9109	ultrazvukové vyšetření štítné žlázy
+T47	PROCEDURE 9162 9181	funkcí štítné žlázy
+T48	PROCEDURE 9280 9294	léčbě steroidy
+T49	PROCEDURE 9672 9693	dechové funkční testy
+T50	PROCEDURE 9831 9852	testu 6minutové chůze
+T51	PROCEDURE 9922 9933	CT hrudníku
+T52	PROCEDURE 10112 10124	CT vyšetření
+T53	PROCEDURE 10626 10649	perorální antikoagulací
+T54	PROCEDURE 10685 10706	uzávěr síňového ouška
+T55	PROCEDURE 10718 10754	jednoduchou protidestičkovou terapií
+T56	PROCEDURE 10791 10810	funkce štítné žlázy

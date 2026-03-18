@@ -1,0 +1,30 @@
+T1	PROCEDURE 417 434	Elektrokardiogram
+T2	PROCEDURE 549 561	RTG hrudníku
+T3	PROCEDURE 654 666	Krevní testy
+T4	PROCEDURE 940 958	CT vyšetření lebky
+T5	PROCEDURE 1025 1034	MRI mozku
+T6	PROCEDURE 1249 1278	Transtorakální echokardiogram
+T7	PROCEDURE 1684 1715	Transezofageální echokardiogram
+T8	PROCEDURE 1908 1922	echokardiogram
+T9	PROCEDURE 1924 1950	barevný dopplerovský obraz
+T10	PROCEDURE 2163 2179	Ultrazvuk břicha
+T11	PROCEDURE 2280 2296	Krevní kultivace
+T12	PROCEDURE 2370 2384	kultivace krve
+T13	PROCEDURE 2541 2558	objemovou podporu
+T14	PROCEDURE 2561 2580	vazoaktivní aminové
+T15	PROCEDURE 2623 2625	CT
+T16	PROCEDURE 2699 2728	transtorakální echokardiogram
+T17	PROCEDURE 2801 2835	transezofageálním echokardiogramem
+T18	PROCEDURE 3079 3095	krevní kultivace
+T19	PROCEDURE 3159 3177	antibiotický režim
+T20	PROCEDURE 3237 3264	magnetickou rezonanci mozku
+T21	PROCEDURE 3562 3571	diuretika
+T22	PROCEDURE 3677 3704	transfemorální embolektomie
+T23	PROCEDURE 3726 3742	Ultrazvuk břicha
+T24	PROCEDURE 3910 3919	CT břicha
+T25	PROCEDURE 3931 3959	echokardiografické vyšetření
+T26	PROCEDURE 4316 4332	renálních funkcí
+T27	PROCEDURE 4619 4638	antibiotickou léčbu
+T28	PROCEDURE 4744 4776	operace náhrady mitrální chlopně
+T29	PROCEDURE 4790 4808	antibiotické léčby
+T30	PROCEDURE 5359 5386	transfemorální embolektomie

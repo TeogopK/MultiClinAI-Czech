@@ -1,0 +1,36 @@
+T1	SYMPTOM 569 585	bolesti na hrudi
+T2	SYMPTOM 703 723	progredující dušnost
+T3	SYMPTOM 930 962	celkový stav pacienta přijatelný
+T4	SYMPTOM 975 984	eupnoický
+T5	SYMPTOM 987 1008	toleruje polohu vleže
+T6	SYMPTOM 1039 1050	Tachykardie
+T7	SYMPTOM 1065 1074	Afebrilní
+T8	SYMPTOM 1082 1107	zvýšená náplň krčních žil
+T9	SYMPTOM 1207 1258	Kardiopulmonální auskultace byla bez pozoruhodností
+T10	SYMPTOM 1260 1284	břicho měkké, pod niveau
+T11	SYMPTOM 1351 1373	mukopurulentní sekrecí
+T12	SYMPTOM 1375 1400	Dolní končetiny bez otoku
+T13	SYMPTOM 1485 1518	generalizovaným zploštěním vlny T
+T14	SYMPTOM 1641 1668	zvýšený C-reaktivní protein
+T15	SYMPTOM 1679 1690	leukocytózy
+T16	SYMPTOM 1692 1710	D-dimery negativní
+T17	SYMPTOM 2012 2035	funkce ledvin zachována
+T18	SYMPTOM 2043 2054	leukocytóza
+T19	SYMPTOM 2059 2070	neutrofilie
+T20	SYMPTOM 2122 2140	D-dimery negativní
+T21	SYMPTOM 2186 2216	normální kardiotorakální index
+T22	SYMPTOM 2368 2388	sinusová tachykardie
+T23	SYMPTOM 2407 2418	Normální PR
+T24	SYMPTOM 2420 2428	Úzké QRS
+T25	SYMPTOM 2430 2475	Generalizované zploštění vlny T. Normální QTc
+T26	SYMPTOM 2516 2543	levá síň normálních rozměrů
+T27	SYMPTOM 2558 2591	Mitrální chlopeň s jemnými lístky
+T28	SYMPTOM 2648 2683	Levá komora (LK) normálních rozměrů
+T29	SYMPTOM 2903 2932	Generalizovaná hypokontraktil
+T30	SYMPTOM 3132 3198	Pravá komora (RV) normálních rozměrů s normální systolickou funkcí
+T31	SYMPTOM 3462 3472	hypokinézu
+T32	SYMPTOM 3543 3561	Silně snížená LVEF
+T33	SYMPTOM 4874 4892	hypokontraktilitou
+T34	SYMPTOM 6981 6997	bolesti na hrudi
+T35	SYMPTOM 7536 7550	asymptomatický
+T36	SYMPTOM 7572 7588	bolesti na hrudi

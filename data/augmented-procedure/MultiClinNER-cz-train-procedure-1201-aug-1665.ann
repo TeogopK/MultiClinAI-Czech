@@ -1,0 +1,66 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 65 73	Anamnéza
+T4	PROCEDURE 242 258	rodinná anamnéza
+T5	PROCEDURE 510 525	osobní anamnéza
+T6	PROCEDURE 955 958	KPR
+T7	PROCEDURE 1040 1050	výboje AED
+T8	PROCEDURE 1151 1167	podán nový výboj
+T9	PROCEDURE 1207 1225	elektrokardiogramu
+T10	PROCEDURE 1227 1230	EKG
+T11	PROCEDURE 1393 1415	orotracheální intubace
+T12	PROCEDURE 1417 1420	OTI
+T13	PROCEDURE 1629 1643	koronarografii
+T14	PROCEDURE 1650 1677	zahájen protokol hypotermie
+T15	PROCEDURE 1760 1779	Fyzikální vyšetření
+T16	PROCEDURE 1956 1971	sedativní léčbě
+T17	PROCEDURE 2006 2015	Intubován
+T18	PROCEDURE 2036 2046	ventilátor
+T19	PROCEDURE 2140 2158	srdeční auskultace
+T20	PROCEDURE 2181 2198	plicní auskultace
+T21	PROCEDURE 2396 2399	EKG
+T22	PROCEDURE 2549 2552	EKG
+T23	PROCEDURE 2785 2792	analýza
+T24	PROCEDURE 2844 2862	lipidového profilu
+T25	PROCEDURE 2939 2947	hemogram
+T26	PROCEDURE 2950 2959	koagulace
+T27	PROCEDURE 2971 2997	markery poškození myokardu
+T28	PROCEDURE 3109 3127	Test toxicity moči
+T29	PROCEDURE 3153 3169	echokardiografie
+T30	PROCEDURE 3419 3440	Koronární angiografie
+T31	PROCEDURE 3468 3476	CT mozku
+T32	PROCEDURE 3479 3511	torakoabdominální CT angiografie
+T33	PROCEDURE 3536 3565	Transtorakální echokardiogram
+T34	PROCEDURE 4206 4232	Magnetická rezonance srdce
+T35	PROCEDURE 4234 4236	MR
+T36	PROCEDURE 4753 4756	EKG
+T37	PROCEDURE 4793 4806	zátěžový test
+T38	PROCEDURE 4875 4891	zátěžového testu
+T39	PROCEDURE 5046 5049	EKG
+T40	PROCEDURE 5494 5502	anamnézu
+T41	PROCEDURE 5517 5520	EKG
+T42	PROCEDURE 5545 5581	provedení echokardiografického testu
+T43	PROCEDURE 5710 5724	koronarografii
+T44	PROCEDURE 5726 5745	CT mozku a hrudníku
+T45	PROCEDURE 5748 5751	TTE
+T46	PROCEDURE 5878 5888	telemetrii
+T47	PROCEDURE 5989 6016	pokročilým zobrazením srdce
+T48	PROCEDURE 6019 6078	provokačními testy na kanálopatie nebo koronární vazospazmy
+T49	PROCEDURE 6204 6233	monitorován pomocí telemetrie
+T50	PROCEDURE 6299 6302	EKG
+T51	PROCEDURE 6459 6482	urgentní koronarografie
+T52	PROCEDURE 6484 6510	Magnetická rezonance srdce
+T53	PROCEDURE 6599 6615	echokardiografii
+T54	PROCEDURE 6621 6623	CT
+T55	PROCEDURE 6715 6746	transtorakální echokardiografii
+T56	PROCEDURE 6752 6778	magnetické rezonanci srdce
+T57	PROCEDURE 6850 6876	negativní provokační testy
+T58	PROCEDURE 6972 6975	EKG
+T59	PROCEDURE 7084 7120	ergobazinový echokardiografický test
+T60	PROCEDURE 7215 7231	rodinné anamnéze
+T61	PROCEDURE 7483 7486	EKG
+T62	PROCEDURE 7489 7518	transtorakální echokardiogram
+T63	PROCEDURE 7616 7678	zaveden podkožní implantabilní kardioverter-defibrilátor (ICD)
+T64	PROCEDURE 7674 7677	ICD
+T65	PROCEDURE 7693 7748	ambulantně monitorován na elektrofyziologickém oddělení
+T66	PROCEDURE 7943 8002	Farmakologické testy k demaskování kanálopatie a vazospazmu

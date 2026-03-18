@@ -1,0 +1,28 @@
+T1	PROCEDURE 73 86	tonzilektomii
+T2	PROCEDURE 89 103	adenoidektomii
+T3	PROCEDURE 160 166	porodu
+T4	PROCEDURE 527 536	vyšetření
+T5	PROCEDURE 690 717	Srdeční a plicní auskultace
+T6	PROCEDURE 1077 1088	biochemické
+T7	PROCEDURE 1131 1145	renální funkce
+T8	PROCEDURE 1148 1157	iontogram
+T9	PROCEDURE 1386 1402	Ultrazvuk břicha
+T10	PROCEDURE 1482 1512	Torakoabdominální CT vyšetření
+T11	PROCEDURE 1545 1568	Cytogenetická vyšetření
+T12	PROCEDURE 1585 1609	virová jaterní sérologie
+T13	PROCEDURE 1621 1628	mantoux
+T14	PROCEDURE 1640 1660	hormonální vyšetření
+T15	PROCEDURE 1670 1697	metabolity kyseliny listové
+T16	PROCEDURE 1717 1737	koagulační vyšetření
+T17	PROCEDURE 1794 1841	polyspecifické přímé coombsovy testy erytrocytů
+T18	PROCEDURE 1853 1865	proteinogram
+T19	PROCEDURE 1983 1999	Nádorové markery
+T20	PROCEDURE 2056 2066	mamografie
+T21	PROCEDURE 2068 2080	kolonoskopie
+T22	PROCEDURE 2082 2101	cytologie genitálií
+T23	PROCEDURE 2103 2123	biopsie kostní dřeně
+T24	PROCEDURE 2155 2219	transfuzi 450 cm3 deleukocytárního koncentrátu červených krvinek
+T25	PROCEDURE 2287 2297	analgetiky
+T26	PROCEDURE 2364 2413	splenektomie, která byla provedena laparoskopicky
+T27	PROCEDURE 2560 2577	odstraněním drénu
+T28	PROCEDURE 2579 2597	Anatomopatologická

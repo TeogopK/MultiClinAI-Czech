@@ -1,0 +1,27 @@
+T1	SYMPTOM 331 340	palpitací
+T2	SYMPTOM 342 349	závratí
+T3	SYMPTOM 352 359	synkopu
+T4	SYMPTOM 430 449	prekordiální bolest
+T5	SYMPTOM 452 461	palpitace
+T6	SYMPTOM 471 512	ztrátou posturálního tonu a úrovně vědomí
+T7	SYMPTOM 736 749	krční pulzace
+T8	SYMPTOM 751 777	Auskultace srdce: rytmická
+T9	SYMPTOM 783 790	šelestů
+T10	SYMPTOM 809 827	normální ventilace
+T11	SYMPTOM 829 842	bez krepitací
+T12	SYMPTOM 844 860	Břicho nepopsané
+T13	SYMPTOM 862 887	Dolní končetiny bez otoků
+T14	SYMPTOM 913 947	normoreaktivní izochorické zornice
+T15	SYMPTOM 949 973	Normální kraniální nervy
+T16	SYMPTOM 975 987	Normální řeč
+T17	SYMPTOM 989 1015	Síla a citlivost zachovány
+T18	SYMPTOM 1017 1031	Normální chůze
+T19	SYMPTOM 1192 1207	sinusový rytmus
+T20	SYMPTOM 1209 1244	Atrioventrikulární vedení zachováno
+T21	SYMPTOM 1270 1292	Počáteční Q vlna v aVL
+T22	SYMPTOM 1294 1337	Negativní vlna T v DIII-aVF, DI-aVL a V5-V6
+T23	SYMPTOM 1418 1433	sinusový rytmus
+T24	SYMPTOM 1693 1728	Levá komora (LK) normálního průměru
+T25	SYMPTOM 1991 2010	pozdní sycení (LGE)
+T26	SYMPTOM 3037 3052	sinusovém rytmu
+T27	SYMPTOM 3176 3208	zachovanou systolickou funkci LK

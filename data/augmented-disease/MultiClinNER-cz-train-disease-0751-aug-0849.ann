@@ -1,0 +1,63 @@
+T1	DISEASE 93 107	lékové alergie
+T2	DISEASE 109 112	AHT
+T3	DISEASE 133 145	dyslipidemik
+T4	DISEASE 156 161	kuřák
+T5	DISEASE 182 194	Bývalý piják
+T6	DISEASE 196 209	Hyperurikémie
+T7	DISEASE 211 243	Chronická bronchitida typu CHOPN
+T8	DISEASE 276 313	středně těžkou dvojitou aortální lézi
+T9	DISEASE 316 340	mírnou plicní hypertenzi
+T10	DISEASE 496 519	tachykardii s úzkým QRS
+T11	DISEASE 688 708	arteriální hypotenzí
+T12	DISEASE 903 946	biventrikulární dilataci s těžkou dysfunkcí
+T13	DISEASE 973 1009	středně těžkou mitrální insuficienci
+T14	DISEASE 1011 1048	středně těžkou dvojitou aortální lézi
+T15	DISEASE 1051 1092	středně těžkou trikuspidální insuficienci
+T16	DISEASE 1143 1158	kardiogenní šok
+T17	DISEASE 1209 1229	plicní tromboembolie
+T18	DISEASE 1277 1295	kardiogenního šoku
+T19	DISEASE 1578 1621	středně těžkou funkční mitrální regurgitaci
+T20	DISEASE 1624 1646	dvojitou aortální lézi
+T21	DISEASE 1649 1676	těžkou aortální regurgitací
+T22	DISEASE 1724 1751	těžké aortální insuficienci
+T23	DISEASE 1798 1833	prolapsem pravého koronárního plátu
+T24	DISEASE 1908 1948	perforací báze pravého koronárního plátu
+T25	DISEASE 2350 2393	fibrilace síní s rychlou komorovou odpovědí
+T26	DISEASE 2636 2639	PTE
+T27	DISEASE 2654 2692	mediastinální nebo axilární adenopatie
+T28	DISEASE 2918 2935	srdečním selháním
+T29	DISEASE 3013 3048	hypertrofii levého jaterního laloku
+T30	DISEASE 3087 3104	jaterním selhaním
+T31	DISEASE 3113 3116	PTE
+T32	DISEASE 3150 3221	středně těžce dilatovaná levá komora s mírnou koncentrickou hypertrofií
+T33	DISEASE 3351 3364	LA dilatovaná
+T34	DISEASE 3452 3465	Dilatovaná RA
+T35	DISEASE 3717 3730	endokarditidu
+T36	DISEASE 3732 3830	Trikuspidální aortální chlopeň, fibrosklerotická, s výrazným ztluštěním pravého koronárního lístku
+T37	DISEASE 3953 3966	endokarditidy
+T38	DISEASE 3978 4011	prolaps pravého koronárního plátu
+T39	DISEASE 4047 4050	AoI
+T40	DISEASE 4191 4226	prolapsem pravého koronárního plátu
+T41	DISEASE 4353 4361	Mírná TR
+T42	DISEASE 4399 4413	Dilatovaná VCI
+T43	DISEASE 4478 4497	plicní valvulopatie
+T44	DISEASE 4550 4571	perikardiální výpotek
+T45	DISEASE 4622 4631	těžká AoI
+T46	DISEASE 4794 4828	prolapsu pravého koronárního plátu
+T47	DISEASE 4900 4941	perforací báze pravého koronárního lístku
+T48	DISEASE 4953 4955	MR
+T49	DISEASE 5145 5158	endokarditidu
+T50	DISEASE 5177 5183	trombu
+T51	DISEASE 5250 5283	endokarditidu na aortální chlopni
+T52	DISEASE 5285 5294	těžká AoI
+T53	DISEASE 5296 5305	mírná AoE
+T54	DISEASE 5307 5323	Infarkt myokardu
+T55	DISEASE 5585 5622	postižení endokardu Coxiella burnetii
+T56	DISEASE 5682 5695	flutteru síní
+T57	DISEASE 5722 5746	těžká komorová dysfunkce
+T58	DISEASE 5763 5767	NSVT
+T59	DISEASE 5804 5811	arytmií
+T60	DISEASE 5969 5984	Kardiogenní šok
+T61	DISEASE 5993 6012	tachykardiomyopatie
+T62	DISEASE 6024 6045	rychlé fibrilace síní
+T63	DISEASE 6085 6141	Mitro-aortální endokarditida způsobená Coxiella burnetii

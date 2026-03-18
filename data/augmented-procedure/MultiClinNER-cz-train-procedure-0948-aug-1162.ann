@@ -1,0 +1,40 @@
+T1	PROCEDURE 0 8	Anamnéza
+T2	PROCEDURE 32 51	fyzikální vyšetření
+T3	PROCEDURE 642 662	resuscitační manévry
+T4	PROCEDURE 803 822	vazoaktivní podpora
+T5	PROCEDURE 825 847	orotracheální intubace
+T6	PROCEDURE 864 886	resuscitačních manévrů
+T7	PROCEDURE 887 890	EKG
+T8	PROCEDURE 1059 1070	fibrinolýze
+T9	PROCEDURE 1253 1257	PTCA
+T10	PROCEDURE 1260 1279	Fyzikální vyšetření
+T11	PROCEDURE 1308 1330	mechanicky ventilovaný
+T12	PROCEDURE 1357 1375	vazoaktivních léků
+T13	PROCEDURE 1473 1489	Auskultace srdce
+T14	PROCEDURE 1776 1788	Krevní obraz
+T15	PROCEDURE 2030 2035	ionty
+T16	PROCEDURE 2088 2114	Markery poškození myokardu
+T17	PROCEDURE 2234 2246	Krevní plyny
+T18	PROCEDURE 2306 2323	Elektrokardiogram
+T19	PROCEDURE 2408 2420	fibrinolýzou
+T20	PROCEDURE 2422 2448	Rentgenový snímek hrudníku
+T21	PROCEDURE 2548 2577	Transtorakální echokardiogram
+T22	PROCEDURE 2579 2598	vazoaktivní podpora
+T23	PROCEDURE 2601 2621	mechanická ventilace
+T24	PROCEDURE 2845 2859	koronarografií
+T25	PROCEDURE 2864 2941	implantován přechodný intravenózní kardiostimulátor přes pravou stehenní žílu
+T26	PROCEDURE 2944 2993	balónková kontrapulzace přes levou stehenní tepnu
+T27	PROCEDURE 2995 3009	Koronarografie
+T28	PROCEDURE 3341 3394	přímá implantace stentu do proximálního DC až k ostiu
+T29	PROCEDURE 3455 3482	intrakoronární vazodilataci
+T30	PROCEDURE 3487 3490	EKG
+T31	PROCEDURE 3504 3508	PTCA
+T32	PROCEDURE 4191 4201	hypotermii
+T33	PROCEDURE 4275 4310	hemodynamickou a ventilační podporu
+T34	PROCEDURE 4339 4373	hemodynamické a ventilační podpory
+T35	PROCEDURE 4515 4542	kontinuální hemodiafiltraci
+T36	PROCEDURE 4608 4611	EKG
+T37	PROCEDURE 5299 5337	rozšířená kardiopulmonální resuscitace
+T38	PROCEDURE 5419 5430	Fibrinolýza
+T39	PROCEDURE 5459 5473	záchranná PTCA
+T40	PROCEDURE 5515 5554	kontinuální venovenózní hemodiafiltraci

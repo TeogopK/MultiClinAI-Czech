@@ -1,0 +1,24 @@
+T1	PROCEDURE 812 821	analgetik
+T2	PROCEDURE 823 842	Fyzikální vyšetření
+T3	PROCEDURE 934 946	Krevní testy
+T4	PROCEDURE 1054 1059	ionty
+T5	PROCEDURE 1061 1075	jaterní enzymy
+T6	PROCEDURE 1078 1084	lipidy
+T7	PROCEDURE 1096 1113	Celkové bílkoviny
+T8	PROCEDURE 1115 1127	proteinogram
+T9	PROCEDURE 1129 1143	imunoglobuliny
+T10	PROCEDURE 1146 1157	komplementu
+T11	PROCEDURE 1607 1621	Vyšetření moči
+T12	PROCEDURE 1718 1733	Močový sediment
+T13	PROCEDURE 1744 1779	Rentgenové snímky hrudníku a páteře
+T14	PROCEDURE 1801 1841	Ultrazvuk břicha, ledvin a močových cest
+T15	PROCEDURE 1917 1938	Laboratorní vyšetření
+T16	PROCEDURE 2178 2261	železa a vitaminů B12 a kyseliny listové byl částečně korigován perorálními doplňky
+T17	PROCEDURE 2422 2482	endoskopické vyšetření gastrointestinálního traktu s biopsií
+T18	PROCEDURE 2843 2855	kongo červeň
+T19	PROCEDURE 2858 2874	imunohistochemie
+T20	PROCEDURE 3033 3059	perkutánní renální biopsie
+T21	PROCEDURE 3376 3388	kongo červeň
+T22	PROCEDURE 3435 3451	imunohistochemie
+T23	PROCEDURE 3913 3959	blokátoru systému renin-angiotenzin-aldosteron
+T24	PROCEDURE 4004 4021	zánětlivé markery

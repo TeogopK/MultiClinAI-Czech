@@ -1,0 +1,44 @@
+T1	DISEASE 69 100	Alergická reakce na sulfonamidy
+T2	DISEASE 109 123	toxické návyky
+T3	DISEASE 167 188	arteriální hypertenze
+T4	DISEASE 190 193	AHT
+T5	DISEASE 196 220	Karcinosarkom endometria
+T6	DISEASE 456 498	Infiltrující adenokarcinom tlustého střeva
+T7	DISEASE 503 522	tubulárním adenomem
+T8	DISEASE 586 615	Chronická normocytární anémie
+T9	DISEASE 697 719	polypu tlustého střeva
+T10	DISEASE 733 758	oboustranná tříselná kýla
+T11	DISEASE 1977 1998	komorová extrasystola
+T12	DISEASE 2185 2210	lézí zabírajících prostor
+T13	DISEASE 2711 2784	normální velikost levé komory se středně těžkou koncentrickou hypertrofií
+T14	DISEASE 2913 2965	Mírná aortální insuficience na degenerativní chlopni
+T15	DISEASE 3070 3096	trikuspidální insuficience
+T16	DISEASE 3098 3100	TI
+T17	DISEASE 3195 3216	perikardiální výpotek
+T18	DISEASE 3252 3291	levá komora s koncentrickou hypertrofií
+T19	DISEASE 3508 3549	subendokardiální a intramyokardiální edém
+T20	DISEASE 3880 3896	nekrózy myokardu
+T21	DISEASE 4058 4079	perikardiální výpotek
+T22	DISEASE 4109 4148	akutní myokarditidy s pseudohypertrofií
+T23	DISEASE 4160 4189	multifokálního edému myokardu
+T24	DISEASE 4404 4423	normocytární anémie
+T25	DISEASE 4976 4996	aplazie kostní dřeně
+T26	DISEASE 5380 5428	akutní koronární syndrom bez elevací ST segmentu
+T27	DISEASE 5430 5436	NSTEMI
+T28	DISEASE 5506 5533	ischemickou chorobu srdeční
+T29	DISEASE 5644 5650	MINOCA
+T30	DISEASE 5652 5724	akutní infarkt myokardu bez obstrukční aterosklerotické koronární nemoci
+T31	DISEASE 6089 6101	bradyarytmií
+T32	DISEASE 6216 6233	srdečním selháním
+T33	DISEASE 6262 6278	hypereozinofilii
+T34	DISEASE 6328 6352	eozinofilní myokarditidu
+T35	DISEASE 6851 6867	hypereozinofilie
+T36	DISEASE 7184 7201	srdečního selhání
+T37	DISEASE 7207 7229	arytmických komplikací
+T38	DISEASE 7250 7268	poškození myokardu
+T39	DISEASE 7524 7555	Akutní eozinofilní myokarditida
+T40	DISEASE 7557 7573	Hypereozinofilie
+T41	DISEASE 7592 7613	Arteriální hypertenze
+T42	DISEASE 7615 7631	Chronická anémie
+T43	DISEASE 7633 7653	Karcinosarkom dělohy
+T44	DISEASE 7670 7699	Adenokarcinom tlustého střeva

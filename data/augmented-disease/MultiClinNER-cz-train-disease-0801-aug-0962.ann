@@ -1,0 +1,57 @@
+T1	DISEASE 135 150	těžká anafylaxe
+T2	DISEASE 295 317	nízkém srdečním výdeji
+T3	DISEASE 341 355	lékové alergie
+T4	DISEASE 392 404	bývalý kuřák
+T5	DISEASE 406 416	hypertenze
+T6	DISEASE 418 420	HT
+T7	DISEASE 423 448	diabetes mellitus 2. typu
+T8	DISEASE 450 453	DM2
+T9	DISEASE 456 540	hyperurikémie (as said in original text, this translation means high blood pressure)
+T10	DISEASE 554 572	srdeční onemocnění
+T11	DISEASE 578 590	bronchopatie
+T12	DISEASE 592 642	Chronický ischemický syndrom obou dolních končetin
+T13	DISEASE 880 901	katarakta pravého oka
+T14	DISEASE 1525 1540	anginy pectoris
+T15	DISEASE 1758 1771	otokem jazyka
+T16	DISEASE 1999 2010	otok jazyka
+T17	DISEASE 2399 2419	arteriální hypotenzí
+T18	DISEASE 2553 2621	akutní koronární syndrom s elevacemi úseku ST (STEMI) anteroseptálně
+T19	DISEASE 2600 2605	STEMI
+T20	DISEASE 2647 2661	infarktový kód
+T21	DISEASE 2943 2963	arteriální hypotenzi
+T22	DISEASE 4089 4109	blok pravého raménka
+T23	DISEASE 4111 4115	RBBB
+T24	DISEASE 5582 5611	subtotální ostiální léze v AD
+T25	DISEASE 5613 5646	zbytek cévy s mírnou ateromatózou
+T26	DISEASE 5665 5727	1. a 2. diagonále je přítomna středně závažná ostiální stenóza
+T27	DISEASE 5729 5813	Cirkumflex (Cx): proximální středně těžká léze a distální středně dlouhá ateromatóza
+T28	DISEASE 5855 5946	Mírná proximálně-středně těžká ateromatóza a těžká krátká léze na úrovni křížové kosti IVP.
+T29	DISEASE 5961 5984	těžká léze ostiální LAD
+T30	DISEASE 6536 6567	Sklerotizovaná aortální chlopeň
+T31	DISEASE 6614 6645	Sklerotizovaná mitrální chlopeň
+T32	DISEASE 6682 6710	mírnou mitrální insuficiencí
+T33	DISEASE 6797 6830	mírnou mitrální insuficiencí (MI)
+T34	DISEASE 6827 6829	MI
+T35	DISEASE 6953 6970	plicní hypertenze
+T36	DISEASE 6979 7000	perikardiální výpotek
+T37	DISEASE 7396 7442	PVI distálně od stentu je difuzně ateromatózní
+T38	DISEASE 7587 7675	závažné bivaskulární postižení koronárních tepen s akutní trombotickou lézí ostiální LAD
+T39	DISEASE 8049 8058	anafylaxi
+T40	DISEASE 8060 8071	otok jazyka
+T41	DISEASE 8298 8315	svědění genitálií
+T42	DISEASE 8318 8330	otoku jazyka
+T43	DISEASE 9101 9127	středně těžká dysfunkce LK
+T44	DISEASE 9242 9257	mírné hypotenze
+T45	DISEASE 9374 9395	mírné srdeční selhání
+T46	DISEASE 9644 9651	infekce
+T47	DISEASE 9965 9972	infekce
+T48	DISEASE 10462 10468	STEACS
+T49	DISEASE 10470 10494	Kounisův syndrom typu II
+T50	DISEASE 10497 10521	Těžká anafylaxe Anisakis
+T51	DISEASE 10563 10613	Těžká dvoucípá ischemická choroba srdeční: DA a CD
+T52	DISEASE 10615 10680	Akutní trombotická léze v ostiální části LAD se závažnou stenózou
+T53	DISEASE 10884 10896	bývalý kuřák
+T54	DISEASE 10898 10901	AHT
+T55	DISEASE 10903 10906	DM2
+T56	DISEASE 10908 10934	Syndrom chronické ischemie
+T57	DISEASE 10971 10998	infrakondylická amputace DK

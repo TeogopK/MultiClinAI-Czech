@@ -1,0 +1,47 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 280 312	léčený perorálními antidiabetiky
+T3	PROCEDURE 389 405	Cholecystektomie
+T4	PROCEDURE 764 790	rentgenový snímek hrudníku
+T5	PROCEDURE 857 903	hrudní axiální tomografií s vysokým rozlišením
+T6	PROCEDURE 905 910	TACAR
+T7	PROCEDURE 914 972	biopsií mediastinálních adenopatií pomocí mediastinoskopie
+T8	PROCEDURE 989 1016	perorálními kortikosteroidy
+T9	PROCEDURE 1274 1288	koronarografie
+T10	PROCEDURE 1615 1632	elektrokardiogram
+T11	PROCEDURE 1634 1637	EKG
+T12	PROCEDURE 1804 1818	koronarografie
+T13	PROCEDURE 1902 1930	echokardiografické vyšetření
+T14	PROCEDURE 2120 2140	antikoagulační léčba
+T15	PROCEDURE 2229 2240	dikumarinik
+T16	PROCEDURE 2470 2520	léčba inhibitory angiotenzin konvertujícího enzymu
+T17	PROCEDURE 2522 2536	ACE inhibitory
+T18	PROCEDURE 2539 2552	betablokátory
+T19	PROCEDURE 2555 2578	antagonisty aldosteronu
+T20	PROCEDURE 2619 2622	EKG
+T21	PROCEDURE 3636 3655	Fyzikální vyšetření
+T22	PROCEDURE 3804 3820	přívodem kyslíku
+T23	PROCEDURE 3844 3855	nosní brýle
+T24	PROCEDURE 4175 4183	hemogram
+T25	PROCEDURE 4306 4315	Koagulace
+T26	PROCEDURE 4351 4360	Biochemie
+T27	PROCEDURE 4487 4500	jaterní testy
+T28	PROCEDURE 4634 4654	hormony štítné žlázy
+T29	PROCEDURE 4720 4746	Rentgenový snímek hrudníku
+T30	PROCEDURE 4936 4953	Elektrokardiogram
+T31	PROCEDURE 5217 5267	Transtorakální dopplerovský barevný echokardiogram
+T32	PROCEDURE 5729 5743	dopplerovského
+T33	PROCEDURE 5800 5826	Magnetická rezonance srdce
+T34	PROCEDURE 5828 5831	MRI
+T35	PROCEDURE 6063 6078	Perfuzní studie
+T36	PROCEDURE 6399 6425	Rentgenový snímek hrudníku
+T37	PROCEDURE 6691 6736	diuretické a intravenózní vazodilatační léčby
+T38	PROCEDURE 6897 6925	echokardiografické vyšetření
+T39	PROCEDURE 6928 6955	magnetickou rezonanci srdce
+T40	PROCEDURE 7022 7054	biopsie mediastinální adenopatie
+T41	PROCEDURE 7347 7359	monitorování
+T42	PROCEDURE 7572 7599	implantaci zařízení ICD-CRT
+T43	PROCEDURE 7601 7633	srdeční resynchronizační terapií
+T44	PROCEDURE 7714 7727	betablokátorů
+T45	PROCEDURE 8064 8067	EKG
+T46	PROCEDURE 8392 8421	intravenózní diuretické léčbě
+T47	PROCEDURE 8599 8618	transplantaci srdce

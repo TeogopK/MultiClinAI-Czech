@@ -1,0 +1,34 @@
+T1	PROCEDURE 226 245	fyzikální vyšetření
+T2	PROCEDURE 821 840	Fyzikální vyšetření
+T3	PROCEDURE 1059 1078	fyzikální vyšetření
+T4	PROCEDURE 1123 1126	EKG
+T5	PROCEDURE 1357 1381	markery nekrózy myokardu
+T6	PROCEDURE 1434 1446	RTG hrudníku
+T7	PROCEDURE 1500 1514	CT angiografie
+T8	PROCEDURE 1793 1822	Transtorakální echokardiogram
+T9	PROCEDURE 2196 2205	MRI srdce
+T10	PROCEDURE 2922 2954	Diagnostická srdeční katetrizace
+T11	PROCEDURE 2974 2985	aortografii
+T12	PROCEDURE 3169 3200	Transezofageální echokardiogram
+T13	PROCEDURE 3614 3628	Jaterní enzymy
+T14	PROCEDURE 3690 3711	biochemické vyšetření
+T15	PROCEDURE 3714 3722	hemogram
+T16	PROCEDURE 3789 3803	CT angiografie
+T17	PROCEDURE 3944 3958	CT angiografie
+T18	PROCEDURE 4069 4113	markery nekrózy myokardu a srdečního selhání
+T19	PROCEDURE 4275 4287	hemokulturou
+T20	PROCEDURE 4351 4396	transtorakálním echokardiografickém vyšetření
+T21	PROCEDURE 4412 4438	transezofageální vyšetření
+T22	PROCEDURE 4848 4851	EKG
+T23	PROCEDURE 4911 4929	zátěžové MRI srdce
+T24	PROCEDURE 4991 4994	MRI
+T25	PROCEDURE 5307 5339	diagnostická srdeční katetrizace
+T26	PROCEDURE 5541 5582	farmakologickou a elektrickou kardioverzí
+T27	PROCEDURE 5731 5743	hemokulturou
+T28	PROCEDURE 5945 5967	orotracheální intubaci
+T29	PROCEDURE 5970 5991	mechanickou ventilaci
+T30	PROCEDURE 5999 6035	inotropní podporu vazoaktivními léky
+T31	PROCEDURE 6041 6049	intubaci
+T32	PROCEDURE 6074 6109	transezofageální echokardiografické
+T33	PROCEDURE 6273 6299	kardiovaskulární chirurgií
+T34	PROCEDURE 6831 6860	echokardiografickém vyšetření

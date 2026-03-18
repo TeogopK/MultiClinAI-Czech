@@ -1,0 +1,30 @@
+T1	PROCEDURE 70 89	fyzikální vyšetření
+T2	PROCEDURE 124 143	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 704 725	protizánětlivou léčbu
+T4	PROCEDURE 1152 1171	Fyzikální vyšetření
+T5	PROCEDURE 1392 1408	Auskultace srdce
+T6	PROCEDURE 1471 1488	Plicní auskultace
+T7	PROCEDURE 1672 1689	Elektrokardiogram
+T8	PROCEDURE 1691 1694	EKG
+T9	PROCEDURE 1872 1884	RTG hrudníku
+T10	PROCEDURE 2128 2140	Krevní testy
+T11	PROCEDURE 2142 2154	Krevní obraz
+T12	PROCEDURE 2266 2275	Koagulace
+T13	PROCEDURE 2316 2325	Biochemie
+T14	PROCEDURE 2400 2405	ionty
+T15	PROCEDURE 2448 2467	profil štítné žlázy
+T16	PROCEDURE 2500 2529	Transtorakální echokardiogram
+T17	PROCEDURE 3239 3269	echokardiografického vyšetření
+T18	PROCEDURE 3290 3299	MRI srdce
+T19	PROCEDURE 3718 3742	Katetrizace levého srdce
+T20	PROCEDURE 3796 3821	Katetrizace pravého srdce
+T21	PROCEDURE 4108 4124	Ventrikulografie
+T22	PROCEDURE 4292 4303	rozbor krve
+T23	PROCEDURE 4386 4400	echokardiogram
+T24	PROCEDURE 4541 4567	magnetická rezonance srdce
+T25	PROCEDURE 4866 4889	hemodynamické vyšetření
+T26	PROCEDURE 4959 4984	katetrizace pravého srdce
+T27	PROCEDURE 5069 5087	kardiochirurgickou
+T28	PROCEDURE 5402 5432	interfrenická perikardiektomie
+T29	PROCEDURE 5440 5461	patologickou anatomii
+T30	PROCEDURE 5773 5803	interfrenická perikardiektomie

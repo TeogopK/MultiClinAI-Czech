@@ -1,0 +1,27 @@
+T1	PROCEDURE 367 389	radikální radioterapie
+T2	PROCEDURE 879 891	gastrostomie
+T3	PROCEDURE 903 939	parenterální výživy periferní cestou
+T4	PROCEDURE 941 969	empirická antibiotická léčba
+T5	PROCEDURE 996 1012	náhrada natremie
+T6	PROCEDURE 1013 1028	sérovou terapií
+T7	PROCEDURE 1219 1231	analytickému
+T8	PROCEDURE 1341 1379	natremickou substituci sérovou terapií
+T9	PROCEDURE 1738 1752	kultivace krve
+T10	PROCEDURE 1799 1815	krevní kultivace
+T11	PROCEDURE 1937 1955	antibiotická léčba
+T12	PROCEDURE 2007 2034	katétrem, který byl vysazen
+T13	PROCEDURE 2049 2078	transtorakální echokardiogram
+T14	PROCEDURE 2119 2130	hemokultury
+T15	PROCEDURE 2480 2497	v extrakci vzorku
+T16	PROCEDURE 2559 2585	farmakokinetické vyšetření
+T17	PROCEDURE 3550 3568	antibiotické léčby
+T18	PROCEDURE 3604 3620	enterální výživu
+T19	PROCEDURE 3672 3691	natremickou korekci
+T20	PROCEDURE 3733 3747	sérové terapie
+T21	PROCEDURE 3750 3768	vynucenou diurézou
+T22	PROCEDURE 3850 3862	gastrostomie
+T23	PROCEDURE 4157 4177	fyziologické roztoky
+T24	PROCEDURE 4336 4362	rentgenový snímek hrudníku
+T25	PROCEDURE 4514 4528	sérová terapie
+T26	PROCEDURE 4822 4858	enterální stravy pomocí gastrostomie
+T27	PROCEDURE 4861 4873	radioterapie

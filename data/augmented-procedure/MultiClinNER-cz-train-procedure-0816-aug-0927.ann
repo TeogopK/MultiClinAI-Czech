@@ -1,0 +1,29 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 102 128	markery poškození myokardu
+T4	PROCEDURE 131 146	OSOBNÍ ANAMNÉZA
+T5	PROCEDURE 371 379	anamnéza
+T6	PROCEDURE 381 400	Chirurgické zákroky
+T7	PROCEDURE 402 414	splenektomie
+T8	PROCEDURE 965 984	FYZIKÁLNÍ VYŠETŘENÍ
+T9	PROCEDURE 996 1007	krevní tlak
+T10	PROCEDURE 1283 1299	Auskultace srdce
+T11	PROCEDURE 1332 1347	Auskultace plic
+T12	PROCEDURE 1597 1614	Elektrokardiogram
+T13	PROCEDURE 1748 1765	Laboratorní testy
+T14	PROCEDURE 2080 2106	Rentgenový snímek hrudníku
+T15	PROCEDURE 2175 2204	Transtorakální echokardiogram
+T16	PROCEDURE 2773 2810	magnetická rezonance srdce; MRI srdce
+T17	PROCEDURE 3051 3071	CT koronárních tepen
+T18	PROCEDURE 3081 3095	kalciové skóre
+T19	PROCEDURE 3297 3306	sledování
+T20	PROCEDURE 3356 3379	kardiologické vyšetření
+T21	PROCEDURE 3395 3438	transtorakální echokardiografické vyšetření
+T22	PROCEDURE 3472 3498	magnetická rezonance srdce
+T23	PROCEDURE 3500 3503	CMR
+T24	PROCEDURE 3705 3726	laboratorní vyšetření
+T25	PROCEDURE 3822 3829	analýzy
+T26	PROCEDURE 3910 3922	imunologické
+T27	PROCEDURE 3924 3951	virové a infekční sérologii
+T28	PROCEDURE 4018 4030	CT vyšetření
+T29	PROCEDURE 4304 4330	markerů poškození myokardu

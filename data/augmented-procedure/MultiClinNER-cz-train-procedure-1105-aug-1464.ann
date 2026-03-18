@@ -1,0 +1,43 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 656 689	laparoskopickou kolektomií vpravo
+T3	PROCEDURE 692 715	adjuvantní chemoterapie
+T4	PROCEDURE 820 834	kolonoskopiemi
+T5	PROCEDURE 1275 1294	Fyzikální vyšetření
+T6	PROCEDURE 1426 1442	Auskultace srdce
+T7	PROCEDURE 1528 1543	Auskultace plic
+T8	PROCEDURE 1629 1636	palpaci
+T9	PROCEDURE 1811 1845	Echokardiografie provedená u lůžka
+T10	PROCEDURE 2056 2073	Elektrokardiogram
+T11	PROCEDURE 2269 2295	Rentgenový snímek hrudníku
+T12	PROCEDURE 2586 2595	Hemostáza
+T13	PROCEDURE 2640 2649	Biochemie
+T14	PROCEDURE 2799 2828	biomarkerů poškození myokardu
+T15	PROCEDURE 2882 2896	Echokardiogram
+T16	PROCEDURE 3478 3492	Koronarografie
+T17	PROCEDURE 3819 3845	Magnetická rezonance srdce
+T18	PROCEDURE 3847 3850	MRI
+T19	PROCEDURE 4062 4077	sekvencích STIR
+T20	PROCEDURE 4618 4640	Studie detekce nekrózy
+T21	PROCEDURE 4878 4892	Koronarografie
+T22	PROCEDURE 4966 5014	Angiografie se provádí levým radiálním přístupem
+T23	PROCEDURE 5054 5085	jsou implantovány lékové stenty
+T24	PROCEDURE 5187 5199	IVUS aostika
+T25	PROCEDURE 5273 5362	Léze byla ošetřena v první tupé okrajové oblasti konstantním everolimus uvolňujícím lékem
+T26	PROCEDURE 5447 5486	predilatace léze v proximálním segmentu
+T27	PROCEDURE 5489 5526	implantace stentu uvolňujícího léčivo
+T28	PROCEDURE 5575 5602	zařízení Impella odstraněno
+T29	PROCEDURE 5620 5689	Femorální hemostáza pomocí intravaskulárního šicího zařízení Proglide
+T30	PROCEDURE 5770 5784	depleční léčba
+T31	PROCEDURE 5932 5946	echokardiogram
+T32	PROCEDURE 6132 6174	etiologického vyšetření komorové dysfunkce
+T33	PROCEDURE 6200 6214	koronarografie
+T34	PROCEDURE 6539 6567	chirurgickou revaskularizaci
+T35	PROCEDURE 6591 6646	perkutánní revaskularizace s asistencí zařízení Impella
+T36	PROCEDURE 7342 7360	elektrokardiogramu
+T37	PROCEDURE 7477 7503	farmakologické kardioverze
+T38	PROCEDURE 7706 7783	perkutánní revaskularizace s mechanickou asistencí pomocí zařízení Impella CP
+T39	PROCEDURE 8081 8096	revaskularizaci
+T40	PROCEDURE 8357 8385	echokardiografické vyšetření
+T41	PROCEDURE 8594 8603	MRI srdce
+T42	PROCEDURE 8720 8789	Vysoce riziková přístrojem asistovaná PCI pomocí přístroje Impella CP
+T43	PROCEDURE 8792 8859	kompletní revaskularizací (proximální LAD, střední LAD, distální DC

@@ -1,0 +1,34 @@
+T1	SYMPTOM 468 483	zachovanou LVEF
+T2	SYMPTOM 1248 1256	dušnosti
+T3	SYMPTOM 1288 1319	příznaky horních cest dýchacích
+T4	SYMPTOM 1322 1328	kašlem
+T5	SYMPTOM 1340 1351	expektoraci
+T6	SYMPTOM 1667 1673	vědomí
+T7	SYMPTOM 1675 1686	orientovaný
+T8	SYMPTOM 1689 1703	spolupracující
+T9	SYMPTOM 1705 1722	Dobře hydratovaný
+T10	SYMPTOM 1725 1737	perfundovaný
+T11	SYMPTOM 1739 1760	Tachypnoický při řeči
+T12	SYMPTOM 1762 1785	Netoleruje polohu vleže
+T13	SYMPTOM 1805 1828	akce srdeční pravidelná
+T14	SYMPTOM 1830 1855	zvuk arteficiální chlopně
+T15	SYMPTOM 1859 1879	systolickým šelestem
+T16	SYMPTOM 1889 1927	systolický šelest nad mitrální chlopní
+T17	SYMPTOM 1956 1971	hrubé krepitace
+T18	SYMPTOM 1994 2032	Břicho: měkké, při palpaci nebolestivé
+T19	SYMPTOM 2038 2048	palpačních
+T20	SYMPTOM 2049 2055	útvarů
+T21	SYMPTOM 2061 2076	zvětšení orgánů
+T22	SYMPTOM 2078 2099	peristaltika přítomna
+T23	SYMPTOM 2101 2128	Normální perkusní vyšetření
+T24	SYMPTOM 2147 2169	měkké otoky ke kolenům
+T25	SYMPTOM 2573 2588	sinusový rytmus
+T26	SYMPTOM 2883 2905	abnormální pohyb septa
+T27	SYMPTOM 2908 2921	akinezí septa
+T28	SYMPTOM 2924 2970	středně postiženou globální systolickou funkcí
+T29	SYMPTOM 3750 3784	středně narušená systolická funkce
+T30	SYMPTOM 3957 4009	středně postiženou ejekční frakci levé komory (LVEF)
+T31	SYMPTOM 4480 4504	hemodynamicky nestabilní
+T32	SYMPTOM 5259 5296	nedostatečnou hemodynamickou odpovědí
+T33	SYMPTOM 5640 5645	úmrtí
+T34	SYMPTOM 5987 5991	Smrt

@@ -1,0 +1,45 @@
+T1	DISEASE 76 86	hypertenzí
+T2	DISEASE 88 100	dyslipidémií
+T3	DISEASE 103 111	obezitou
+T4	DISEASE 179 204	diabetem mellitem 2. typu
+T5	DISEASE 337 352	bývalým kuřákem
+T6	DISEASE 396 464	chronickou ischemickou chorobu srdeční s třícípou koronární chorobou
+T7	DISEASE 519 548	infarktem dolní věnčité tepny
+T8	DISEASE 625 666	infarktu myokardu bez elevace segmentu ST
+T9	DISEASE 668 674	NSTEMI
+T10	DISEASE 902 937	špatného distálního cévního řečiště
+T11	DISEASE 1069 1123	restenóze stentu dříve implantovaného do proximální Cx
+T12	DISEASE 1180 1195	anginu pectoris
+T13	DISEASE 1323 1372	mikro- a makrovaskulární metadiabetické postižení
+T14	DISEASE 1384 1398	polyneuropatie
+T15	DISEASE 1400 1427	chronické onemocnění ledvin
+T16	DISEASE 1442 1478	chronickou ischemii dolních končetin
+T17	DISEASE 1583 1603	středně těžkou CHOPN
+T18	DISEASE 1632 1643	těžkým SAHS
+T19	DISEASE 1828 1843	diabetické nohy
+T20	DISEASE 1914 1937	klidové anginy pectoris
+T21	DISEASE 2265 2364	otok a na 1. a 2. prstu levé ruky byla prokázána erytrocyanóza spolu s nekrotickými lézemi na apexu
+T22	DISEASE 2369 2405	3. prstu byla rovněž nekrotická léze
+T23	DISEASE 2480 2493	AVB 1. stupně
+T24	DISEASE 2508 2512	HBAI
+T25	DISEASE 3144 3166	chlopenní srdeční vada
+T26	DISEASE 3241 3262	perikardiální výpotek
+T27	DISEASE 3345 3375	Vícecevní koronární onemocnění
+T28	DISEASE 3378 3404	chudými distálními ložisky
+T29	DISEASE 3523 3538	diabetické nohy
+T30	DISEASE 3968 3998	mírná námahová angina pectoris
+T31	DISEASE 4287 4302	anginu pectoris
+T32	DISEASE 4305 4343	diabetickou nohu s chronickou ischemií
+T33	DISEASE 4518 4533	anginy pectoris
+T34	DISEASE 4608 4644	Chronická ischemická choroba srdeční
+T35	DISEASE 4747 4774	Refrakterní angina pectoris
+T36	DISEASE 4776 4811	Chronická ischemie dolních končetin
+T37	DISEASE 4813 4828	Diabetická noha
+T38	DISEASE 4830 4857	Chronické onemocnění ledvin
+T39	DISEASE 4859 4864	CHOPN
+T40	DISEASE 4896 4900	SAHS
+T41	DISEASE 4909 4945	Diabetes 2. typu závislý na inzulínu
+T42	DISEASE 4947 4957	HYPERTENZE
+T43	DISEASE 4959 4971	Dyslipidemie
+T44	DISEASE 4973 4980	Obezita
+T45	DISEASE 5007 5031	stabilní anginu pectoris

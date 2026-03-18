@@ -1,0 +1,72 @@
+T1	SYMPTOM 404 421	námahovou dušnost
+T2	SYMPTOM 531 539	ortopnoí
+T3	SYMPTOM 552 579	paroxysmální noční dušnosti
+T4	SYMPTOM 581 584	PND
+T5	SYMPTOM 595 624	píchavým hrudním diskomfortem
+T6	SYMPTOM 627 654	sebeomezujícími palpitacemi
+T7	SYMPTOM 674 684	kurtováním
+T8	SYMPTOM 706 713	synkopu
+T9	SYMPTOM 715 724	palpitace
+T10	SYMPTOM 928 957	Dojem dobrého celkového stavu
+T11	SYMPTOM 963 969	vědomí
+T12	SYMPTOM 971 982	orientovaný
+T13	SYMPTOM 1010 1030	Normálně hydratovaný
+T14	SYMPTOM 1032 1053	normálně perfundovaný
+T15	SYMPTOM 1055 1072	normálně zbarvený
+T16	SYMPTOM 1074 1109	Centrální žilní tlak (CVP) nezvýšen
+T17	SYMPTOM 1244 1255	další zvuky
+T18	SYMPTOM 1263 1277	dechová námaha
+T19	SYMPTOM 1282 1302	známky dechové tísně
+T20	SYMPTOM 1322 1330	rytmický
+T21	SYMPTOM 1332 1375	levý parasternální diastolický šelest IV/VI
+T22	SYMPTOM 1377 1402	Břicho: měkké, depresivní
+T23	SYMPTOM 1404 1430	Při palpaci není bolestivé
+T24	SYMPTOM 1452 1458	útvary
+T25	SYMPTOM 1463 1471	megalitů
+T26	SYMPTOM 1473 1509	Murphy, Blumberg a Rovsing negativní
+T27	SYMPTOM 1524 1547	peritoneálního dráždění
+T28	SYMPTOM 1549 1603	Horní končetiny: distální pulzy zachovány a symetrické
+T29	SYMPTOM 1605 1636	Dolní končetiny: distální chlad
+T30	SYMPTOM 1642 1647	otoků
+T31	SYMPTOM 1690 1746	Pulzy na dolních končetinách byly zachovalé a symetrické
+T32	SYMPTOM 2101 2116	sinusový rytmus
+T33	SYMPTOM 2134 2145	normální PR
+T34	SYMPTOM 2147 2159	normální osa
+T35	SYMPTOM 2240 2268	asymetrické negativní vlny T
+T36	SYMPTOM 2568 2594	Autoimunita byla negativní
+T37	SYMPTOM 2663 2694	normálním profilem štítné žlázy
+T38	SYMPTOM 2844 2863	Globální hypokinéza
+T39	SYMPTOM 2936 2960	Normální mitrální plnění
+T40	SYMPTOM 3526 3591	Distální vzestupná, oblouková a sestupná aorta normálního kalibru
+T41	SYMPTOM 3616 3659	Mitrální chlopeň s balónkem předního lístku
+T42	SYMPTOM 3710 3735	Nedilatovaná pravá komora
+T43	SYMPTOM 3738 3761	normální ejekční frakcí
+T44	SYMPTOM 3763 3780	Nedilatované síně
+T45	SYMPTOM 3909 3925	asymetrií lístků
+T46	SYMPTOM 4563 4601	Vyšetření břicha bez významných nálezů
+T47	SYMPTOM 4741 4813	Aorta prověšená, sestupná hrudní aorta a břišní aorta normálního kalibru
+T48	SYMPTOM 5011 5045	Biomikroskopie AO rohovka normální
+T49	SYMPTOM 5047 5064	krystalická čočka
+T50	SYMPTOM 5213 5238	Globální těžká hypokinéza
+T51	SYMPTOM 5240 5271	Těžce snížená systolická funkce
+T52	SYMPTOM 5309 5345	Restriktivní obraz mitrálního plnění
+T53	SYMPTOM 5347 5372	Nedilatovaná pravá komora
+T54	SYMPTOM 5720 5772	Morfologicky normální sestupná hrudní a břišní aorta
+T55	SYMPTOM 5795 5841	Mitrální chlopeň s prodlouženým předním listem
+T56	SYMPTOM 5843 5866	zachovanou pohyblivostí
+T57	SYMPTOM 5911 5951	Trikuspidální chlopeň normálního vzhledu
+T58	SYMPTOM 6324 6355	Mírně snížená systolická funkce
+T59	SYMPTOM 6383 6405	Abnormální pohyb septa
+T60	SYMPTOM 6407 6431	Bazální dolní hypokineze
+T61	SYMPTOM 6433 6450	Zhoršená relaxace
+T62	SYMPTOM 6452 6485	Pravá komora (PK) není dilatovaná
+T63	SYMPTOM 6487 6513	normální systolická funkce
+T64	SYMPTOM 6542 6567	pravá síň není dilatovaná
+T65	SYMPTOM 6775 6821	Mitrální chlopeň s prodlouženým předním listem
+T66	SYMPTOM 6960 6995	Normální akcelerační čas v plicnici
+T67	SYMPTOM 7033 7064	Dolní dutá žíla není dilatovaná
+T68	SYMPTOM 7265 7287	hemodynamicky stabilní
+T69	SYMPTOM 7603 7674	aortální oblouk, sestupná hrudní a břišní aorta byly normálního kalibru
+T70	SYMPTOM 7852 7877	dlouhých horních končetin
+T71	SYMPTOM 7879 7893	kloubní laxity
+T72	SYMPTOM 9595 9623	patogenní mutace v genu FBN1

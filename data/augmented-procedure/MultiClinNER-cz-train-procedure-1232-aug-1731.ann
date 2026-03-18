@@ -1,0 +1,48 @@
+T1	PROCEDURE 318 350	Počítačová tomografie (CT) mozku
+T2	PROCEDURE 341 343	CT
+T3	PROCEDURE 419 431	auskultačním
+T4	PROCEDURE 455 486	transtorakální echokardiografie
+T5	PROCEDURE 488 491	TTE
+T6	PROCEDURE 757 810	implantací 24mm bidiskové mechanické aortální protézy
+T7	PROCEDURE 1312 1328	normálním fundem
+T8	PROCEDURE 1331 1339	CT mozku
+T9	PROCEDURE 1521 1546	mikrobiologické kultivace
+T10	PROCEDURE 1619 1649	empirická antibiotická terapie
+T11	PROCEDURE 1773 1792	antibiotickou léčbu
+T12	PROCEDURE 1821 1835	krevní kultury
+T13	PROCEDURE 1837 1846	Patologie
+T14	PROCEDURE 1993 1996	TTE
+T15	PROCEDURE 2214 2251	implantaci trvalého kardiostimulátoru
+T16	PROCEDURE 2253 2256	TTE
+T17	PROCEDURE 2259 2292	transezofageální echokardiografie
+T18	PROCEDURE 2294 2297	TEE
+T19	PROCEDURE 2583 2594	CT hrudníku
+T20	PROCEDURE 2956 2974	explantaci protézy
+T21	PROCEDURE 3082 3107	kompletní transekci aorty
+T22	PROCEDURE 3109 3161	Pseudoaneuryzma bylo opraveno perikardiální záplatou
+T23	PROCEDURE 3232 3283	implantována nová 18mm bidisková mechanická protéza
+T24	PROCEDURE 3404 3429	empirickou antibioterapií
+T25	PROCEDURE 3630 3655	mikrobiologické kultivace
+T26	PROCEDURE 3657 3666	sérologie
+T27	PROCEDURE 3669 3695	detekce nukleových kyselin
+T28	PROCEDURE 3824 3842	duodenální biopsii
+T29	PROCEDURE 3895 3910	biopsii žaludku
+T30	PROCEDURE 3987 3996	hemostáze
+T31	PROCEDURE 4014 4025	autoimunity
+T32	PROCEDURE 4036 4039	TTE
+T33	PROCEDURE 4211 4214	TTE
+T34	PROCEDURE 4464 4518	implantací aortálního homograftu v subkoronární poloze
+T35	PROCEDURE 4521 4547	uzávěrem pseudoaneuryzmatu
+T36	PROCEDURE 4587 4590	TEE
+T37	PROCEDURE 4640 4643	TTE
+T38	PROCEDURE 4977 5007	empirické antibiotické terapie
+T39	PROCEDURE 5110 5119	kultivace
+T40	PROCEDURE 5122 5125	TEE
+T41	PROCEDURE 5338 5348	hrudním CT
+T42	PROCEDURE 5350 5399	Polymerázová řetězová reakce chirurgického vzorku
+T43	PROCEDURE 5769 5772	TTE
+T44	PROCEDURE 5775 5787	CT vyšetření
+T45	PROCEDURE 6133 6151	antibiotické léčby
+T46	PROCEDURE 6201 6210	kultivaci
+T47	PROCEDURE 6260 6281	sérologické vyšetření
+T48	PROCEDURE 6423 6463	vyšetření polymerázovou řetězovou reakcí

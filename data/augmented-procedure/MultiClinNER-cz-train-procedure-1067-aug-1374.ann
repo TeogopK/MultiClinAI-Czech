@@ -1,0 +1,25 @@
+T1	PROCEDURE 240 248	Anamnéza
+T2	PROCEDURE 272 291	fyzikální vyšetření
+T3	PROCEDURE 729 748	Fyzikální vyšetření
+T4	PROCEDURE 938 958	fyzikálním vyšetření
+T5	PROCEDURE 1241 1268	Kardiopulmonální auskultace
+T6	PROCEDURE 1573 1596	etiologickému vyšetření
+T7	PROCEDURE 1749 1767	CT vyšetření lebky
+T8	PROCEDURE 1941 1944	EKG
+T9	PROCEDURE 2012 2037	základní krevní vyšetření
+T10	PROCEDURE 2049 2057	hemogram
+T11	PROCEDURE 2060 2069	koagulací
+T12	PROCEDURE 2176 2202	rentgenový snímek hrudníku
+T13	PROCEDURE 2297 2308	hemokultury
+T14	PROCEDURE 2359 2379	laboratorním nálezům
+T15	PROCEDURE 2421 2445	výměně kardiostimulátoru
+T16	PROCEDURE 2479 2510	transtorakální echokardiografie
+T17	PROCEDURE 2584 2598	Echokardiogram
+T18	PROCEDURE 3094 3118	Echokardiografický nález
+T19	PROCEDURE 3147 3180	transezofageální echokardiografií
+T20	PROCEDURE 3459 3473	kultivace krve
+T21	PROCEDURE 4019 4050	transtorakální echokardiografie
+T22	PROCEDURE 4117 4139	odběru krevních kultur
+T23	PROCEDURE 4154 4172	antibiotická léčba
+T24	PROCEDURE 4254 4278	výměnu kardiostimulátoru
+T25	PROCEDURE 4429 4474	transezofageální echokardiografické vyšetření

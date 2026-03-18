@@ -1,0 +1,59 @@
+T1	DISEASE 171 199	hypertrofické kardiomyopatie
+T2	DISEASE 202 235	Wolff-Parkinson-Whiteova syndromu
+T3	DISEASE 284 292	synkopou
+T4	DISEASE 421 444	hypertrofie levé komory
+T5	DISEASE 562 598	těžká koncentrická hypertrofie komor
+T6	DISEASE 752 766	fibrilace síní
+T7	DISEASE 768 772	FiSi
+T8	DISEASE 1243 1277	akutní trombóza ve femorální tepně
+T9	DISEASE 1304 1342	sekundární embolie s paroxyzmální FiSi
+T10	DISEASE 1475 1509	těžkou biventrikulární hypertrofii
+T11	DISEASE 1711 1731	komorové tachykardie
+T12	DISEASE 1743 1764	komorové extrasystoly
+T13	DISEASE 1781 1785	FiSi
+T14	DISEASE 1924 1938	kardiomyopatii
+T15	DISEASE 1957 1975	srdeční onemocnění
+T16	DISEASE 2235 2257	hluboké žilní trombózy
+T17	DISEASE 2281 2291	kožní léze
+T18	DISEASE 2305 2368	kardio-kutánní syndromy, jako je Fabryho nebo Leopardův syndrom
+T19	DISEASE 2392 2412	sinusová bradykardie
+T20	DISEASE 2668 2686	preexcitované FiSi
+T21	DISEASE 2701 2726	tachykardie s širokým QRS
+T22	DISEASE 2848 2872	koncentrická hypertrofie
+T23	DISEASE 2881 2906	obliterace střední kavity
+T24	DISEASE 2937 2956	Dilatovaná levá síň
+T25	DISEASE 2969 3005	Středně těžká dysfunkce pravé komory
+T26	DISEASE 3051 3085	těžkou biventrikulární hypertrofii
+T27	DISEASE 3310 3331	Komorové extrasystoly
+T28	DISEASE 3357 3376	síňové extrasystoly
+T29	DISEASE 3391 3409	komorových arytmií
+T30	DISEASE 3415 3419	FiSi
+T31	DISEASE 3909 3916	arytmie
+T32	DISEASE 3974 4027	dilatovaná levá komora (LK), koncentrická hypertrofie
+T33	DISEASE 4150 4191	Mírná-středně těžká mitrální insuficience
+T34	DISEASE 4193 4195	MI
+T35	DISEASE 4198 4220	biaurikulární dilatace
+T36	DISEASE 4222 4241	těžce dilatovaná PK
+T37	DISEASE 4273 4313	středně těžká trikuspidální insuficience
+T38	DISEASE 4315 4317	TI
+T39	DISEASE 4523 4540	těžké hypertrofie
+T40	DISEASE 4552 4574	biaurikulární dilatace
+T41	DISEASE 4930 4978	těžkou koncentrickou biventrikulární hypertrofií
+T42	DISEASE 5059 5063	FiSi
+T43	DISEASE 5092 5103	preexcitace
+T44	DISEASE 5142 5226	hypertrofické kardiomyopatie vzhledem k patogenním variantám v sarkomerických genech
+T45	DISEASE 5419 5474	těžká sinusová bradykardie s kompletní paroxyzmální AVB
+T46	DISEASE 5543 5576	těžká biventrikulární hypertrofie
+T47	DISEASE 5578 5598	systolická dysfunkce
+T48	DISEASE 5600 5613	dilatovaná LS
+T49	DISEASE 5712 5730	preexcitované FiSi
+T50	DISEASE 5733 5752	kardiogenní synkopa
+T51	DISEASE 6218 6251	Rozsáhlá fibróza myokardu při CMR
+T52	DISEASE 6253 6331	Wolffův-Parkinsonův-Whiteův syndrom podle levé posteromediální akcesorní dráhy
+T53	DISEASE 6341 6357	preexcitované AF
+T54	DISEASE 6359 6378	Kardiogenní synkopa
+T55	DISEASE 6402 6420	preexcitovaná FiSi
+T56	DISEASE 6424 6426	VT
+T57	DISEASE 6456 6476	systolická dysfunkce
+T58	DISEASE 6502 6531	Embolie pravé femorální tepny
+T59	DISEASE 6571 6575	FiSi

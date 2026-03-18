@@ -1,0 +1,49 @@
+T1	DISEASE 119 133	lékové alergie
+T2	DISEASE 141 155	toxické návyky
+T3	DISEASE 157 178	Arteriální hypertenze
+T4	DISEASE 180 183	AHT
+T5	DISEASE 186 198	Dyslipidemie
+T6	DISEASE 200 207	Obezita
+T7	DISEASE 235 251	Jaterní steatóza
+T8	DISEASE 253 281	Benigní hyperplazie prostaty
+T9	DISEASE 337 426	akutní ischemickou cévní mozkovou příhodu v pravém středním mozkovém arteriálním prostoru
+T10	DISEASE 573 598	oboustranná tříselná kýla
+T11	DISEASE 614 623	hydrokéla
+T12	DISEASE 649 679	středně těžká aortální stenóza
+T13	DISEASE 699 711	valvulopatie
+T14	DISEASE 1483 1505	arytmické srdeční ozvy
+T15	DISEASE 1690 1702	peritonitidy
+T16	DISEASE 2177 2181	FiSi
+T17	DISEASE 2593 2629	posterobazální infarkt myokardu v LK
+T18	DISEASE 2631 2658	Laminární pleurální výpotek
+T19	DISEASE 2713 2756	Hypodenzní kortikální léze v obou ledvinách
+T20	DISEASE 2787 2801	infarkt ledvin
+T21	DISEASE 2803 2860	Dorzolumbální spondylóza se stenózou kanálů L3-L4 a L4-L5
+T22	DISEASE 2994 3028	těžká stenóza v pravé ilické tepně
+T23	DISEASE 3031 3064	mírná stenóza v levé ilické tepně
+T24	DISEASE 3066 3108	Oboustranná femoro-popliteální ateromatóza
+T25	DISEASE 3129 3179	středně těžká koncentrická hypertrofie levé komory
+T26	DISEASE 3181 3184	HLK
+T27	DISEASE 3263 3332	Závažná kalcifikace aorty se středně závažným omezením otevření aorty
+T28	DISEASE 3385 3406	aortální insuficience
+T29	DISEASE 3408 3466	Kalcifikace mitrální chlopně s mírnou mitrální regurgitací
+T30	DISEASE 3549 3580	mírná trikuspidální regurgitace
+T31	DISEASE 3582 3584	TI
+T32	DISEASE 3634 3662	onemocnění koronárních tepen
+T33	DISEASE 3704 3747	trombem v distálním prvním obtuózním okraji
+T34	DISEASE 3974 4012	Porucha kontraktility dolních segmentů
+T35	DISEASE 4014 4055	Kalcifikované onemocnění aortální chlopně
+T36	DISEASE 4074 4098	stenóza aortální chlopně
+T37	DISEASE 4212 4257	akutní infarkt myokardu (AMI) s dolní vlnou Q
+T38	DISEASE 4237 4240	AMI
+T39	DISEASE 4269 4305	akutní ischémií levé dolní končetiny
+T40	DISEASE 4359 4373	fibrilace síní
+T41	DISEASE 4539 4567	distálním trombem v první OM
+T42	DISEASE 4659 4688	ischemie levé dolní končetiny
+T43	DISEASE 4779 4796	ischemie myokardu
+T44	DISEASE 4899 4942	Akutní koronární syndrom s elevací úseku ST
+T45	DISEASE 4944 4949	STEMI
+T46	DISEASE 4967 4998	Periferní arteriální onemocnění
+T47	DISEASE 5000 5036	akutní ischemie levé dolní končetiny
+T48	DISEASE 5038 5065	Oboustranný infarkt ledviny
+T49	DISEASE 5078 5092	fibrilace síní

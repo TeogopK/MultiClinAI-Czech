@@ -1,0 +1,53 @@
+T1	DISEASE 16 38	Astmatická bronchitida
+T2	DISEASE 40 51	Hypotyreóza
+T3	DISEASE 53 71	Vysoký krevní tlak
+T4	DISEASE 73 93	Hypercholesterolémie
+T5	DISEASE 95 111	Jaterní steatóza
+T6	DISEASE 113 134	Divertikulóza sigmatu
+T7	DISEASE 136 161	Syndrom karpálního tunelu
+T8	DISEASE 162 190	Benigní hypertrofie prostaty
+T9	DISEASE 192 206	Hiatová hernie
+T10	DISEASE 253 267	Alergická rýma
+T11	DISEASE 417 431	lékové alergie
+T12	DISEASE 601 606	STEMI
+T13	DISEASE 836 851	srdeční selhání
+T14	DISEASE 904 922	respirační infekce
+T15	DISEASE 1260 1282	hluboké žilní trombózy
+T16	DISEASE 1819 1841	hluboké žilní trombózy
+T17	DISEASE 2879 2908	Střední pravá koronární tepna
+T18	DISEASE 2926 2955	Střední přední sestupná tepna
+T19	DISEASE 4040 4057	pleurální výpotek
+T20	DISEASE 4994 5037	aneuryzmatem/pseudoaneuryzmatem levé komory
+T21	DISEASE 5052 5055	PTE
+T22	DISEASE 5178 5208	Laminární bibasální atelektáza
+T23	DISEASE 5228 5295	levá komora s rozsáhlým apikálním aneuryzmatem a pseudoaneuryzmatem
+T24	DISEASE 5306 5321	srdeční ruptura
+T25	DISEASE 5395 5417	dilatovaná levá komora
+T26	DISEASE 5473 5491	apikální aneuryzma
+T27	DISEASE 5494 5575	Neokalita na úrovni anterolaterální apikální oblasti komunikující s levou komorou
+T28	DISEASE 5666 5683	pseudoaneuryzmatu
+T29	DISEASE 5687 5708	apikálním aneuryzmatu
+T30	DISEASE 5903 5957	mírnou/středně těžkou sekundární mitrální insuficiencí
+T31	DISEASE 6108 6128	odchlípení perikardu
+T32	DISEASE 7252 7300	Aortální kořen a vzestupná aorta mírně rozšířené
+T33	DISEASE 7310 7333	perikardiálního výpotku
+T34	DISEASE 7793 7798	STEMI
+T35	DISEASE 8002 8014	Přední STEMI
+T36	DISEASE 8091 8115	Těžká komorová dysfunkce
+T37	DISEASE 8218 8246	benigní hypertrofii prostaty
+T38	DISEASE 8650 8672	astmatické bronchitidě
+T39	DISEASE 8880 8910	dekompenzace srdečního selhání
+T40	DISEASE 8893 8910	srdečního selhání
+T41	DISEASE 9316 9333	srdečním selháním
+T42	DISEASE 9515 9524	pneumonii
+T43	DISEASE 9570 9579	pneumonie
+T44	DISEASE 9659 9674	pseudoaneuryzma
+T45	DISEASE 9678 9699	apikálním aneuryzmatu
+T46	DISEASE 10070 10092	komorového aneuryzmatu
+T47	DISEASE 10179 10196	pseudoaneuryzmatu
+T48	DISEASE 10375 10409	dekompenzovaného srdečního selhání
+T49	DISEASE 10552 10580	benigní hypertrofii prostaty
+T50	DISEASE 10594 10605	hypotyreózu
+T51	DISEASE 10944 10959	srdeční ruptura
+T52	DISEASE 10961 10976	pseudoaneuryzma
+T53	DISEASE 10981 11003	apikálním aneuryzmatem

@@ -1,0 +1,42 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 259 290	léčbě perorálními antidiabetiky
+T4	PROCEDURE 1370 1387	elektrokardiogram
+T5	PROCEDURE 1461 1487	rentgenový snímek hrudníku
+T6	PROCEDURE 1632 1657	přenosná echokardiografie
+T7	PROCEDURE 1889 1898	sledování
+T8	PROCEDURE 1901 1916	sérovou terapií
+T9	PROCEDURE 1955 2002	perikardiocentézu pod fluoroskopickou kontrolou
+T10	PROCEDURE 2171 2257	emergentní perikardiocentézy řízené echokardiograficky pomocí subxifoidálního přístupu
+T11	PROCEDURE 2502 2508	drenáž
+T12	PROCEDURE 2539 2550	monitorován
+T13	PROCEDURE 2553 2572	Fyzikální vyšetření
+T14	PROCEDURE 2870 2897	Kardiopulmonální auskultace
+T15	PROCEDURE 3178 3190	Krevní obraz
+T16	PROCEDURE 3551 3568	Elektrokardiogram
+T17	PROCEDURE 3732 3744	RTG hrudníku
+T18	PROCEDURE 3799 3824	Přenosná echokardiografie
+T19	PROCEDURE 3993 4022	Transtorakální echokardiogram
+T20	PROCEDURE 4026 4043	perikardiocentéze
+T21	PROCEDURE 4483 4502	barvení podle Grama
+T22	PROCEDURE 4540 4565	bakteriologická kultivace
+T23	PROCEDURE 4627 4643	Nádorové markery
+T24	PROCEDURE 4645 4656	autoimunita
+T25	PROCEDURE 4658 4667	sérologie
+T26	PROCEDURE 4770 4844	Sérologie hepatotropních virů, CMV, Treponema pallidum a Coxiella burnetii
+T27	PROCEDURE 4875 4902	CT hrudníku, břicha a pánve
+T28	PROCEDURE 5220 5234	Echokardiogram
+T29	PROCEDURE 5711 5721	telemetrii
+T30	PROCEDURE 5803 5813	auskultaci
+T31	PROCEDURE 5839 5868	transtorakální echokardiogram
+T32	PROCEDURE 6115 6132	drenáž odstraněna
+T33	PROCEDURE 6148 6207	empirická léčba nesteroidními protizánětlivými léky (NSAID)
+T34	PROCEDURE 6551 6576	bakteriologická kultivace
+T35	PROCEDURE 6629 6654	mykobakteriální vyšetření
+T36	PROCEDURE 6668 6735	analytické vyšetření se stanovením nádorových markerů a autoimunity
+T37	PROCEDURE 6811 6891	Sérologie na hepatotropní viry, HIV, CMV, Treponema pallidum a Coxiella burnetii
+T38	PROCEDURE 6938 6956	rozšiřující studie
+T39	PROCEDURE 6972 7005	CT vyšetření hrudník-břicho-pánev
+T40	PROCEDURE 7181 7208	echokardiografické kontroly
+T41	PROCEDURE 7590 7599	sledování
+T42	PROCEDURE 8188 8205	perikardiocentéza

@@ -1,0 +1,38 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 97 105	Anamnéza
+T4	PROCEDURE 343 367	neurologickému vyšetření
+T5	PROCEDURE 375 406	výpočetní tomografie (CT) lebky
+T6	PROCEDURE 1068 1087	Fyzikální vyšetření
+T7	PROCEDURE 1202 1229	Kardiopulmonální auskultace
+T8	PROCEDURE 1312 1329	Elektrokardiogram
+T9	PROCEDURE 1331 1334	EKG
+T10	PROCEDURE 1495 1507	RTG hrudníku
+T11	PROCEDURE 1596 1608	Krevní obraz
+T12	PROCEDURE 1867 1881	pet vyšetřením
+T13	PROCEDURE 2099 2113	Echokardiogram
+T14	PROCEDURE 2963 2992	EKG se zprůměrovaným signálem
+T15	PROCEDURE 3088 3114	studie průměrování signálu
+T16	PROCEDURE 3116 3142	Magnetická rezonance srdce
+T17	PROCEDURE 3144 3146	MR
+T18	PROCEDURE 3625 3642	Perfuzní sekvence
+T19	PROCEDURE 3689 3709	sekvencích viability
+T20	PROCEDURE 4040 4066	Elektrofyziologická studie
+T21	PROCEDURE 4152 4181	implantován subkutánní Holter
+T22	PROCEDURE 4208 4220	Koronární CT
+T23	PROCEDURE 4747 4755	angio-CT
+T24	PROCEDURE 4831 4834	EKG
+T25	PROCEDURE 4855 4869	echokardiogram
+T26	PROCEDURE 4949 4951	MR
+T27	PROCEDURE 4969 4983	echokardiogram
+T28	PROCEDURE 5146 5156	telemetrií
+T29	PROCEDURE 5278 5295	Vyšetření synkopy
+T30	PROCEDURE 5312 5315	EKG
+T31	PROCEDURE 5342 5359	flekainidový test
+T32	PROCEDURE 5362 5391	elektrofyziologické vyšetření
+T33	PROCEDURE 5488 5515	implantován podkožní Holter
+T34	PROCEDURE 5539 5569	CT vyšetření koronárních tepen
+T35	PROCEDURE 5663 5689	rentgenový snímek hrudníku
+T36	PROCEDURE 5862 5891	elektrofyziologické vyšetření
+T37	PROCEDURE 5893 5912	Implantovaný Holter
+T38	PROCEDURE 5914 5936	Koronární CT vyšetření

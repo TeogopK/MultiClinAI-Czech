@@ -1,0 +1,32 @@
+T1	SYMPTOM 680 686	má ICD
+T2	SYMPTOM 950 976	zhoršením renálních funkcí
+T3	SYMPTOM 1154 1161	dušnost
+T4	SYMPTOM 1238 1254	bolestí na hrudi
+T5	SYMPTOM 1266 1305	inspiračními pohyby v levém hemithoraxu
+T6	SYMPTOM 1524 1549	zvýšená náplň krčních žil
+T7	SYMPTOM 1569 1605	pozitivním hepatojugulárním refluxem
+T8	SYMPTOM 1636 1680	kontinuální průtokový šum komorové asistence
+T9	SYMPTOM 1693 1710	systolický šelest
+T10	SYMPTOM 1754 1787	hypoventilací v levém hemithoraxu
+T11	SYMPTOM 1827 1856	otok kotníků dolních končetin
+T12	SYMPTOM 1929 1936	hnisání
+T13	SYMPTOM 1939 1945	erytém
+T14	SYMPTOM 2346 2354	Nižší QS
+T15	SYMPTOM 2356 2366	Široké QRS
+T16	SYMPTOM 2384 2401	negativní vlnou T
+T17	SYMPTOM 2593 2614	ICD normoimplantovány
+T18	SYMPTOM 2942 2983	Levá komora s dyskinetickým pohybem septa
+T19	SYMPTOM 2985 3028	Globální funkce se jeví jako těžce oslabená
+T20	SYMPTOM 3068 3096	Pravá komora není dilatovaná
+T21	SYMPTOM 3108 3135	normální systolickou funkcí
+T22	SYMPTOM 3319 3362	vysokým vrcholovým end-systolickým průtokem
+T23	SYMPTOM 3749 3773	Levá komora nedilatovaná
+T24	SYMPTOM 3775 3815	mírně snížená globální systolická funkce
+T25	SYMPTOM 3900 3958	Nedilatovaná pravá komora s mírně sníženou globální funkcí
+T26	SYMPTOM 4023 4080	Interventrikulární septum s mírným vyklenutím směrem k LK
+T27	SYMPTOM 4995 5019	vysokým srdečním výdejem
+T28	SYMPTOM 5282 5332	interventrikulárním septem mírně vychýleným doleva
+T29	SYMPTOM 5398 5445	Pravá komora přetrvává s dobrou radiální funkcí
+T30	SYMPTOM 6216 6224	dušnosti
+T31	SYMPTOM 6227 6243	bolesti na hrudi
+T32	SYMPTOM 6651 6710	Oběhové asistenční zařízení typu HeartMate II, normofunkční

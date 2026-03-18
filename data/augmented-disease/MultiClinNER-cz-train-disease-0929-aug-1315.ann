@@ -1,0 +1,54 @@
+T1	DISEASE 136 151	Aktivní kouření
+T2	DISEASE 179 193	toxické návyky
+T3	DISEASE 621 645	infarkt levého subtalamu
+T4	DISEASE 767 792	cerebrovaskulární příhodu
+T5	DISEASE 794 797	CMP
+T6	DISEASE 942 976	mírný katar horních cest dýchacích
+T7	DISEASE 1232 1254	kardiální dekompenzací
+T8	DISEASE 1858 1878	sinusové tachykardii
+T9	DISEASE 2101 2107	ascitu
+T10	DISEASE 2109 2122	hepatomegalie
+T11	DISEASE 2281 2288	chřipku
+T12	DISEASE 2503 2526	hypertrofii levé komory
+T13	DISEASE 2579 2592	kardiomegalie
+T14	DISEASE 2691 2710	pleurálním výpotkem
+T15	DISEASE 3378 3385	chřipku
+T16	DISEASE 3684 3700	hemoragické léze
+T17	DISEASE 3761 3783	dilatovaná levá komora
+T18	DISEASE 3830 3854	těžká komorová dysfunkce
+T19	DISEASE 3948 3987	Mitrální chlopeň (MV): ztluštělé lístky
+T20	DISEASE 4047 4067	mitrální regurgitaci
+T21	DISEASE 4174 4182	Těžká PI
+T22	DISEASE 4190 4192	TR
+T23	DISEASE 4235 4261	Dilatovaná dolní dutá žíla
+T24	DISEASE 4296 4327	středně těžká plicní hypertenze
+T25	DISEASE 4339 4361	perikardiální výtoková
+T26	DISEASE 4750 4792	lakunární infarkt lentikulostriální tepnou
+T27	DISEASE 4840 4857	subakutní infarkt
+T28	DISEASE 5113 5141	akutním kortikálním infarktu
+T29	DISEASE 5150 5202	subakutní lakunární infarkt v levé talamické oblasti
+T30	DISEASE 5205 5264	akutní kortikální mikroinfarkty v levé zadní frontální kůře
+T31	DISEASE 5370 5383	Dilatovaná LK
+T32	DISEASE 5713 5734	Perikardiální výpotek
+T33	DISEASE 5784 5835	středně dilatovaná levá komora s normální tloušťkou
+T34	DISEASE 5876 5913	Středně těžká systolická dysfunkce LK
+T35	DISEASE 6022 6041	mírně dilatovaná LS
+T36	DISEASE 6043 6069	MI: ztluštělé hrotové cípy
+T37	DISEASE 6152 6154	MI
+T38	DISEASE 6520 6522	TR
+T39	DISEASE 7067 7097	LK indexovaná mírně dilatovaná
+T40	DISEASE 7309 7311	MI
+T41	DISEASE 7354 7377	perikardiálního výpotku
+T42	DISEASE 7626 7658	infarktem levého předního talamu
+T43	DISEASE 8165 8184	kognitivních poruch
+T44	DISEASE 8221 8250	thalamické vaskulární demence
+T45	DISEASE 8283 8321	otevřeným srdečním selháním s ortopnoí
+T46	DISEASE 8323 8355	oboustranným pleurálním výpotkem
+T47	DISEASE 8357 8370	hepatomegalií
+T48	DISEASE 8523 8525	IM
+T49	DISEASE 8559 8589	infekce horních cest dýchacích
+T50	DISEASE 8677 8691	edému myokardu
+T51	DISEASE 9477 9540	Dilatační kardiomyopatie s obnovenou těžkou komorovou dysfunkcí
+T52	DISEASE 9555 9574	akutní myokarditidy
+T53	DISEASE 9587 9611	Městnavé srdeční selhání
+T54	DISEASE 9633 9695	Levá thalamická cévní mozková příhoda kardioembolického původu

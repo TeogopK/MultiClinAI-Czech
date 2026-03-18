@@ -1,0 +1,39 @@
+T1	DISEASE 86 93	alergie
+T2	DISEASE 124 128	CVRF
+T3	DISEASE 130 140	hypertenze
+T4	DISEASE 142 149	obezita
+T5	DISEASE 151 175	Stenóza bederního kanálu
+T6	DISEASE 212 223	hypernefrom
+T7	DISEASE 236 254	hernie disku L5-S1
+T8	DISEASE 292 313	Trvalá fibrilace síní
+T9	DISEASE 314 343	Revmatické onemocnění chlopní
+T10	DISEASE 353 384	mitrální léze s těžkou stenózou
+T11	DISEASE 386 401	těžkou TR a PHT
+T12	DISEASE 736 743	lumbago
+T13	DISEASE 746 771	neurogenními klaudikacemi
+T14	DISEASE 1169 1199	dekompenzace srdečního selhání
+T15	DISEASE 1353 1362	hypotenzi
+T16	DISEASE 1389 1408	kontinuální perfuzi
+T17	DISEASE 1496 1499	PET
+T18	DISEASE 1517 1547	infarkt levé ledviny a sleziny
+T19	DISEASE 2221 2243	akutním plicním edémem
+T20	DISEASE 2449 2452	PTE
+T21	DISEASE 2462 2478	srdečním selhání
+T22	DISEASE 2481 2508	infarktech ledvin a sleziny
+T23	DISEASE 2515 2517	AF
+T24	DISEASE 3098 3181	levá komora není dilatovaná ani hypertrofická, se středně těžkou globální dysfunkcí
+T25	DISEASE 3474 3499	Silně dilatovaná levá síň
+T26	DISEASE 3539 3560	perikardiální výpotek
+T27	DISEASE 3841 3847	trombu
+T28	DISEASE 3879 3903	ilně dilatovaná levá síň
+T29	DISEASE 3959 3966	trombus
+T30	DISEASE 4327 4354	středně těžkou dysfunkci LK
+T31	DISEASE 4357 4376	obstrukčním trombem
+T32	DISEASE 4786 4792	trombu
+T33	DISEASE 4806 4823	systémové embolie
+T34	DISEASE 4838 4860	trombu v síňovém oušku
+T35	DISEASE 5153 5197	septický šok sekundárně v důsledku pneumonie
+T36	DISEASE 5486 5498	hypernefromu
+T37	DISEASE 5500 5539	Trombóza na mechanické mitrální protéze
+T38	DISEASE 5603 5629	Sekundární kardiogenní šok
+T39	DISEASE 5678 5732	Septický šok v důsledku pravostranné bazální pneumonie

@@ -1,0 +1,67 @@
+T1	SYMPTOM 90 106	bolesti na hrudi
+T2	SYMPTOM 482 505	Sérologie HIV negativní
+T3	SYMPTOM 871 895	centrální hrudní bolesti
+T4	SYMPTOM 1006 1014	dušností
+T5	SYMPTOM 1026 1036	diaforézou
+T6	SYMPTOM 1181 1196	bolest na hrudi
+T7	SYMPTOM 1319 1366	markery poškození myokardu, které byly normální
+T8	SYMPTOM 1530 1540	Při vědomí
+T9	SYMPTOM 1543 1554	orientovaný
+T10	SYMPTOM 1556 1579	Přijatelný celkový stav
+T11	SYMPTOM 1581 1592	kachektický
+T12	SYMPTOM 1614 1628	normální barva
+T13	SYMPTOM 1630 1647	Eupnoický v klidu
+T14	SYMPTOM 1653 1675	kongestivních příznaků
+T15	SYMPTOM 1677 1701	akce srdeční: pravidelná
+T16	SYMPTOM 1730 1737	šelestů
+T17	SYMPTOM 1743 1752	extratonů
+T18	SYMPTOM 1771 1789	alveolární dýchání
+T19	SYMPTOM 1823 1863	Vyšetření břicha bylo bez pozoruhodností
+T20	SYMPTOM 1865 1890	Dolní končetiny bez otoku
+T21	SYMPTOM 1967 1982	sinusový rytmus
+T22	SYMPTOM 2014 2022	Úzké QRS
+T23	SYMPTOM 2074 2106	poruchy vedení nebo repolarizace
+T24	SYMPTOM 2108 2120	Normální QTc
+T25	SYMPTOM 2215 2253	Elevace ST segmentu 2 mm v dolní části
+T26	SYMPTOM 2255 2294	Deprese segmentu ST ve V1-V4, aVR a aVL
+T27	SYMPTOM 2319 2358	hlubokými negativními vlnami T ve V1-V3
+T28	SYMPTOM 2379 2419	normální hemogram a koagulační vyšetření
+T29	SYMPTOM 2432 2462	funkce ledvin a iontů normální
+T30	SYMPTOM 2464 2510	Hepatobiliární profil bez patologického nálezu
+T31	SYMPTOM 2512 2533	Autoimunita negativní
+T32	SYMPTOM 2535 2578	Testy toxicity: pozitivní na benzodiazepiny
+T33	SYMPTOM 2606 2644	Proteinogram s monoklonálním IgM/Kappa
+T34	SYMPTOM 2792 2822	normální kardiotorakální index
+T35	SYMPTOM 2824 2848	Volné kostofrenní dutiny
+T36	SYMPTOM 2856 2867	konsolidace
+T37	SYMPTOM 2872 2895	parenchymové infiltráty
+T38	SYMPTOM 3037 3093	drobným kalibrálním postižením celého koronárního stromu
+T39	SYMPTOM 3184 3230	srdeční dutiny normální velikosti a morfologie
+T40	SYMPTOM 3232 3283	Mitrální chlopeň s velmi nadbytečným předním listem
+T41	SYMPTOM 3393 3439	Normální segmentální kontraktilita levé komory
+T42	SYMPTOM 3543 3571	Normální funkce pravé komory
+T43	SYMPTOM 3573 3590	Normální perikard
+T44	SYMPTOM 3707 3722	sinusový rytmus
+T45	SYMPTOM 3740 3748	Úzké QRS
+T46	SYMPTOM 3750 3780	Hluboké negativní vlny T V2-V6
+T47	SYMPTOM 3782 3846	Negativní vlny T menšího rozsahu v dolní části obličeje, I a aVL
+T48	SYMPTOM 4022 4049	ztluštění duodenální papily
+T49	SYMPTOM 4210 4258	Nespecifický mikronodulus v pravém dolním laloku
+T50	SYMPTOM 4435 4450	bolest na hrudi
+T51	SYMPTOM 4472 4498	elevace ST v dolním laloku
+T52	SYMPTOM 4622 4678	drobným kalibrálním postižením celého koronárního stromu
+T53	SYMPTOM 4892 4927	markery poškození myokardu normální
+T54	SYMPTOM 5164 5184	prekordiální bolesti
+T55	SYMPTOM 6048 6106	funkce ledvin a ionty, včetně draslíku a hořčíku, normální
+T56	SYMPTOM 6188 6213	hemodynamické nestability
+T57	SYMPTOM 6518 6528	vazospazmů
+T58	SYMPTOM 7024 7032	ospalost
+T59	SYMPTOM 7091 7139	proteinogramu zjištěn monoklonální IgM Kappa pás
+T60	SYMPTOM 7226 7236	vazospazmů
+T61	SYMPTOM 7436 7450	asymptomatický
+T62	SYMPTOM 7470 7486	bolesti na hrudi
+T63	SYMPTOM 7492 7502	vazospazmů
+T64	SYMPTOM 7639 7650	vazospazmem
+T65	SYMPTOM 7796 7812	krizí vazospazmů
+T66	SYMPTOM 7906 7920	asymptomatický
+T67	SYMPTOM 7923 7945	hemodynamicky stabilní

@@ -1,0 +1,32 @@
+T1	PROCEDURE 185 204	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 310 327	léčbě pomocí CPAP
+T3	PROCEDURE 928 945	diuretickou léčbu
+T4	PROCEDURE 956 986	empirickou antibiotickou léčbu
+T5	PROCEDURE 1145 1164	Fyzikální vyšetření
+T6	PROCEDURE 1420 1422	AC
+T7	PROCEDURE 1469 1471	PA
+T8	PROCEDURE 1654 1657	EKG
+T9	PROCEDURE 2053 2065	RTG hrudníku
+T10	PROCEDURE 2117 2146	Transtorakální echokardiogram
+T11	PROCEDURE 2571 2574	TEE
+T12	PROCEDURE 2760 2791	Transezofageální echokardiogram
+T13	PROCEDURE 3172 3199	intravenózní depleční léčba
+T14	PROCEDURE 3306 3406	transtorakální echokardiografické vyšetření a následně transezofageální echokardiografické vyšetření
+T15	PROCEDURE 3584 3602	panbakteriální PCR
+T16	PROCEDURE 3605 3619	kultivace krve
+T17	PROCEDURE 3622 3636	kultivace moči
+T18	PROCEDURE 3744 3760	renálním funkcím
+T19	PROCEDURE 3785 3820	transezofageální echokardiografické
+T20	PROCEDURE 3950 3959	kultivace
+T21	PROCEDURE 3961 3975	kultivace krve
+T22	PROCEDURE 3978 3992	kultivace moči
+T23	PROCEDURE 4023 4052	intravenózní diuretické léčby
+T24	PROCEDURE 4217 4231	kardiochirurgy
+T25	PROCEDURE 4259 4304	náhradu aortální chlopně biologickou protézou
+T26	PROCEDURE 4319 4337	antibiotické léčby
+T27	PROCEDURE 4439 4448	sérologie
+T28	PROCEDURE 4579 4597	antibiotické léčby
+T29	PROCEDURE 4890 4917	intravenózní depleční léčbu
+T30	PROCEDURE 4919 4930	toracentézu
+T31	PROCEDURE 4963 4996	telemonitoringu srdečního selhání
+T32	PROCEDURE 5306 5359	Operace náhrady aortální chlopně biologickou protézou

@@ -1,0 +1,24 @@
+T1	PROCEDURE 270 300	léčba perorálními dikumariniky
+T2	PROCEDURE 471 490	Urologická anamnéza
+T3	PROCEDURE 506 568	Fyzikální vyšetření odhalilo bolestivý útvar v pravém podžebří
+T4	PROCEDURE 613 630	Laboratorní testy
+T5	PROCEDURE 713 763	biochemické testy, testy moči a nádorových markerů
+T6	PROCEDURE 779 795	Ultrazvuk břicha
+T7	PROCEDURE 952 981	počítačová axiální tomografie
+T8	PROCEDURE 983 989	C.A.T.
+T9	PROCEDURE 1159 1166	operací
+T10	PROCEDURE 1223 1288	arteriografie a selektivní embolizace renální tepny pomocí kolise
+T11	PROCEDURE 1323 1362	radikální nefrektomie předním přístupem
+T12	PROCEDURE 1461 1492	Histologicky byla makroskopicky
+T13	PROCEDURE 1608 1621	Mikroskopicky
+T14	PROCEDURE 1835 1842	operaci
+T15	PROCEDURE 1945 1952	operaci
+T16	PROCEDURE 1973 1985	CT vyšetření
+T17	PROCEDURE 2230 2285	aspirační punkce tenkou jehlou (F.N.A.P.) s ultrazvukem
+T18	PROCEDURE 2332 2354	Celotělový kostní sken
+T19	PROCEDURE 2434 2438	FNAB
+T20	PROCEDURE 2513 2522	vyšetření
+T21	PROCEDURE 2592 2604	CT vyšetření
+T22	PROCEDURE 2703 2766	explorativní laparotomie, evakuace retroperitoneálního hematomu
+T23	PROCEDURE 2769 2847	excize hemoragického cystického tumoru, přiloženého ke kaudálnímu laloku jater
+T24	PROCEDURE 2861 2882	intraoperační biopsie

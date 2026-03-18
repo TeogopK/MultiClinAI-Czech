@@ -1,0 +1,55 @@
+T1	SYMPTOM 443 459	bolesti na hrudi
+T2	SYMPTOM 463 486	koronarografií bez lézí
+T3	SYMPTOM 955 962	synkopa
+T4	SYMPTOM 989 1006	pocitem palpitací
+T5	SYMPTOM 1020 1048	nepříjemným pocitem na hrudi
+T6	SYMPTOM 1075 1101	nepříjemné pocity na hrudi
+T7	SYMPTOM 1103 1112	nevolnost
+T8	SYMPTOM 1114 1126	bolest hlavy
+T9	SYMPTOM 1129 1145	celkovou slabost
+T10	SYMPTOM 1157 1175	uvolnění sfinkterů
+T11	SYMPTOM 1367 1387	vegetatívní doprovod
+T12	SYMPTOM 1460 1469	palpitací
+T13	SYMPTOM 1635 1649	asymptomatická
+T14	SYMPTOM 1656 1678	neurologického ložiska
+T15	SYMPTOM 1680 1702	Hemodynamicky stabilní
+T16	SYMPTOM 1795 1806	Orientovaný
+T17	SYMPTOM 1809 1823	spolupracující
+T18	SYMPTOM 1829 1842	krční pulzace
+T19	SYMPTOM 1844 1885	Auskultace srdce: akce srdeční pravidelná
+T20	SYMPTOM 1886 1897	bez šelestu
+T21	SYMPTOM 1916 1934	alveolární dýchání
+T22	SYMPTOM 1936 1962	Břicho: měkké, nebolestivé
+T23	SYMPTOM 1968 1974	útvarů
+T24	SYMPTOM 1980 1995	zvětšení orgánů
+T25	SYMPTOM 1997 2023	Dolní končetiny: bez otoků
+T26	SYMPTOM 2250 2265	sinusový rytmus
+T27	SYMPTOM 2283 2295	normální osa
+T28	SYMPTOM 2297 2308	normální PR
+T29	SYMPTOM 2310 2318	úzké QRS
+T30	SYMPTOM 2326 2351	repolarizační abnormality
+T31	SYMPTOM 2392 2422	normální kardiotorakální index
+T32	SYMPTOM 2424 2448	volné kostofrenické úhly
+T33	SYMPTOM 2474 2484	infiltráty
+T34	SYMPTOM 2486 2506	Normální mediastinum
+T35	SYMPTOM 2541 2620	levá komora (LK) normální velikosti, tloušťky a systolické i diastolické funkce
+T36	SYMPTOM 2622 2667	Pravá komora (PK) normální velikosti a funkce
+T37	SYMPTOM 2669 2718	Levá síň (LA) a pravá síň (RA) normální velikosti
+T38	SYMPTOM 2776 2806	Kořen aorty normální velikosti
+T39	SYMPTOM 2848 2900	komory se zachovalou morfologií a systolickou funkcí
+T40	SYMPTOM 2908 2912	edém
+T41	SYMPTOM 2966 2981	sinusový rytmus
+T42	SYMPTOM 3181 3190	palpitace
+T43	SYMPTOM 3198 3217	synkopální příznaky
+T44	SYMPTOM 4028 4078	test indukce komorové arytmie, který byl negativní
+T45	SYMPTOM 4080 4108	Flekainidový test: negativní
+T46	SYMPTOM 4304 4311	synkopy
+T47	SYMPTOM 4507 4514	synkopy
+T48	SYMPTOM 4657 4666	palpitací
+T49	SYMPTOM 4674 4692	synkopální epizoda
+T50	SYMPTOM 4856 4873	fenoménu R-over-T
+T51	SYMPTOM 5153 5194	flekainidového testu, který byl negativní
+T52	SYMPTOM 5343 5385	magnetickou rezonancí srdce (MRI) bez změn
+T53	SYMPTOM 5807 5818	palpitacemi
+T54	SYMPTOM 6088 6102	asymptomatický
+T55	SYMPTOM 6151 6158	synkopy

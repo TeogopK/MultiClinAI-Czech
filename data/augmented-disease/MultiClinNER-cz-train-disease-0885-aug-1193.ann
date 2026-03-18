@@ -1,0 +1,48 @@
+T1	DISEASE 50 115	srdečního selhání se sníženou ejekční frakcí ischemické etiologie
+T2	DISEASE 378 388	hypertenze
+T3	DISEASE 391 403	dyslipidémie
+T4	DISEASE 411 425	toxické návyky
+T5	DISEASE 427 448	Trvalá fibrilace síní
+T6	DISEASE 450 454	FiSi
+T7	DISEASE 488 551	Srdeční selhání se sníženou ejekční frakcí ischemické etiologie
+T8	DISEASE 553 600	Akutní infarkt myokardu bez elevace segmentu ST
+T9	DISEASE 602 608	NSTEMI
+T10	DISEASE 624 642	postižením tří cév
+T11	DISEASE 645 671	těžkou komorovou dysfunkcí
+T12	DISEASE 901 929	těžce dilatovaná levá komora
+T13	DISEASE 932 960	těžkou systolickou dysfunkcí
+T14	DISEASE 1091 1118	Těžká mitrální insuficience
+T15	DISEASE 1120 1122	MI
+T16	DISEASE 1160 1187	Těžká dilatace pravé komory
+T17	DISEASE 1215 1239	Těžká dilatace obou síní
+T18	DISEASE 1241 1271	Středně těžká aortální stenóza
+T19	DISEASE 1273 1313	Středně těžká trikuspidální insuficience
+T20	DISEASE 1315 1317	TI
+T21	DISEASE 1386 1417	Periferní arteriální onemocnění
+T22	DISEASE 1479 1492	Hyperurikémie
+T23	DISEASE 1956 1959	PND
+T24	DISEASE 2135 2144	hypotenze
+T25	DISEASE 2725 2739	fibrilace síní
+T26	DISEASE 2821 2834	kardiomegalie
+T27	DISEASE 3667 3688	mitrální insuficience
+T28	DISEASE 3707 3732	Trombus v oušku levé síně
+T29	DISEASE 3734 3750	Středně těžká IT
+T30	DISEASE 3764 3794	Středně těžká aortální stenóza
+T31	DISEASE 4030 4041	stázu jater
+T32	DISEASE 4053 4070	srdečního selhání
+T33	DISEASE 4240 4250	závažný IM
+T34	DISEASE 4360 4382	IM ischemického původu
+T35	DISEASE 4418 4443	trombem v oušku levé síně
+T36	DISEASE 4619 4636	nedostatku železa
+T37	DISEASE 4945 4954	ortostázy
+T38	DISEASE 5548 5569	mitrální insuficience
+T39	DISEASE 5596 5620	trombu v oušku levé síně
+T40	DISEASE 5791 5800	anemizace
+T41	DISEASE 5882 5888	melény
+T42	DISEASE 5959 5965	anémie
+T43	DISEASE 6093 6144	Srdeční selhání se sníženou EF ischemické etiologie
+T44	DISEASE 6200 6237	Těžká ischemická mitrální regurgitace
+T45	DISEASE 6239 6278	Středně těžká trikuspidální regurgitace
+T46	DISEASE 6292 6302	Ferropenie
+T47	DISEASE 6336 6357	Trvalá fibrilace síní
+T48	DISEASE 6359 6384	Trombus v oušku levé síně

@@ -1,0 +1,68 @@
+T1	SYMPTOM 392 399	dušnost
+T2	SYMPTOM 785 846	tísnivou bolestí na hrudi, vyzařující do levé horní končetiny
+T3	SYMPTOM 863 883	vegetativní doprovod
+T4	SYMPTOM 975 1011	mírný dyskomfort v levém hemithoraxu
+T5	SYMPTOM 1132 1141	afebrilní
+T6	SYMPTOM 1143 1153	Při vědomí
+T7	SYMPTOM 1155 1166	orientovaný
+T8	SYMPTOM 1168 1182	normální barvy
+T9	SYMPTOM 1185 1200	dobře prokrvený
+T10	SYMPTOM 1219 1244	zvýšená náplň krčních žil
+T11	SYMPTOM 1246 1270	akce srdeční: pravidelná
+T12	SYMPTOM 1276 1283	šelestů
+T13	SYMPTOM 1302 1320	alveolární dýchání
+T14	SYMPTOM 1322 1339	Břicho: nepopsané
+T15	SYMPTOM 1416 1455	Pravý pedální puls přítomen, levý chybí
+T16	SYMPTOM 1457 1466	Bez otoků
+T17	SYMPTOM 1579 1587	Úzké QRS
+T18	SYMPTOM 1605 1625	repolarizačních změn
+T19	SYMPTOM 1627 1639	Normální QTc
+T20	SYMPTOM 2145 2174	Sérové chylomikrony negativní
+T21	SYMPTOM 2216 2246	normální kardiotorakální index
+T22	SYMPTOM 2254 2269	známky městnání
+T23	SYMPTOM 2277 2308	kondenzace v plicním parenchymu
+T24	SYMPTOM 2310 2334	Volné kostofrenní dutiny
+T25	SYMPTOM 2386 2415	levá komora (LK) nedilatovaná
+T26	SYMPTOM 2468 2508	Mírně snížená globální systolická funkce
+T27	SYMPTOM 2532 2539	akineze
+T28	SYMPTOM 2648 2677	Aortální kořen není dilatován
+T29	SYMPTOM 2730 2751	zachovaným otevíráním
+T30	SYMPTOM 2891 2940	Pravá komora (PK) nedilatovaná, normokontraktilní
+T31	SYMPTOM 3167 3174	bolesti
+T32	SYMPTOM 3229 3244	Q vlna ve V3-V4
+T33	SYMPTOM 3247 3266	elevací ST ve V3-V5
+T34	SYMPTOM 3288 3313	negativní T vlna ve V2-V6
+T35	SYMPTOM 3411 3447	Normální levá hlavní koronární tepna
+T36	SYMPTOM 3547 3592	Pravá cirkumflexní a koronární tepna bez lézí
+T37	SYMPTOM 3788 3818	levá komora normální velikosti
+T38	SYMPTOM 3952 3979	Akineze apikálních segmentů
+T39	SYMPTOM 4219 4247	nedilatovaná dolní dutá žíla
+T40	SYMPTOM 4346 4379	Aortální kořen normální velikosti
+T41	SYMPTOM 4825 4861	Hluboké negativní vlny T od V2 do V6
+T42	SYMPTOM 4876 4892	negativní vlny T
+T43	SYMPTOM 4967 4987	repolarizačních změn
+T44	SYMPTOM 4989 5024	ultrasenzitivní elevace troponinu T
+T45	SYMPTOM 5027 5043	apikální akineze
+T46	SYMPTOM 5393 5407	asymptomatická
+T47	SYMPTOM 5427 5434	bolesti
+T48	SYMPTOM 5436 5471	hemodynamicky a respiračně stabilní
+T49	SYMPTOM 5523 5541	klinické stability
+T50	SYMPTOM 5738 5754	bolesti na hrudi
+T51	SYMPTOM 5818 5851	elevacemi segmentů ST od V3 do V5
+T52	SYMPTOM 6340 6348	stabilní
+T53	SYMPTOM 6377 6402	náhle začala cítit špatně
+T54	SYMPTOM 6407 6428	sinusovou tachykardií
+T55	SYMPTOM 6431 6440	hypotenzí
+T56	SYMPTOM 6478 6501	zhoršením úrovně vědomí
+T57	SYMPTOM 6602 6627	s postižením pravé komory
+T58	SYMPTOM 6730 6783	perikardiocentéze s malým výdejem krvácející tekutiny
+T59	SYMPTOM 7111 7159	aktivního krvácení v apikální infarktové oblasti
+T60	SYMPTOM 7183 7191	krvácení
+T61	SYMPTOM 7604 7612	krvácení
+T62	SYMPTOM 8181 8187	anurie
+T63	SYMPTOM 8369 8413	rychlého hematického výdeje v hrudní drenáži
+T64	SYMPTOM 8776 8785	krvácením
+T65	SYMPTOM 8897 8917	arteriální hypotenze
+T66	SYMPTOM 10083 10097	asymptomatický
+T67	SYMPTOM 10609 10612	PEA
+T68	SYMPTOM 10803 10821	Mírně snížená LVEF

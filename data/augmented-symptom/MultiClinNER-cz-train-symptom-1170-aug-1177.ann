@@ -1,0 +1,65 @@
+T1	SYMPTOM 104 120	bolesti na hrudi
+T2	SYMPTOM 388 409	Solitární plicní uzel
+T3	SYMPTOM 790 806	bolesti na hrudi
+T4	SYMPTOM 851 915	Transtorakální echokardiografické vyšetření (TTE) bez abnormalit
+T5	SYMPTOM 917 931	zachovaná LVEF
+T6	SYMPTOM 1091 1110	elevace st segmentů
+T7	SYMPTOM 1398 1412	zachovalá LVEF
+T8	SYMPTOM 2386 2408	Vyšší funkce zachovány
+T9	SYMPTOM 2646 2686	tísnivým centrálním hrudním diskomfortem
+T10	SYMPTOM 2761 2808	náhle vzniklé bolesti, vyzařující do zad a krku
+T11	SYMPTOM 2847 2853	melénu
+T12	SYMPTOM 2855 2863	zvracení
+T13	SYMPTOM 2868 2890	makroskopické krvácení
+T14	SYMPTOM 2935 2942	bolesti
+T15	SYMPTOM 2968 2988	arteriální hypotenzi
+T16	SYMPTOM 2990 2999	tachypnoe
+T17	SYMPTOM 3002 3025	špatné distální perfuzi
+T18	SYMPTOM 3066 3082	depresi úseku ST
+T19	SYMPTOM 3085 3096	elevací aVR
+T20	SYMPTOM 3487 3495	krvácení
+T21	SYMPTOM 3681 3690	afebrilní
+T22	SYMPTOM 3696 3702	vědomí
+T23	SYMPTOM 3705 3716	orientovaný
+T24	SYMPTOM 3718 3733	Bledost sliznic
+T25	SYMPTOM 3735 3758	špatná distální perfuze
+T26	SYMPTOM 3760 3772	tachypnoický
+T27	SYMPTOM 3794 3819	Auskultace srdce rytmická
+T28	SYMPTOM 3825 3845	slyšitelných šelestů
+T29	SYMPTOM 3865 3899	oboustrannými plicními krepitacemi
+T30	SYMPTOM 3922 3961	Břicho: měkké, stlačitelné, nebolestivé
+T31	SYMPTOM 3973 4012	lividita na dolních končetinách a rukou
+T32	SYMPTOM 4027 4040	pedální pulzy
+T33	SYMPTOM 4048 4053	otoky
+T34	SYMPTOM 4144 4159	sinusový rytmus
+T35	SYMPTOM 4177 4188	normální PR
+T36	SYMPTOM 4207 4231	difuzní deprese úseku ST
+T37	SYMPTOM 4258 4298	elevací úseku ST 1 mm ve V1 a 2 mm v aVR
+T38	SYMPTOM 4522 4543	Q vlny v dolní frontě
+T39	SYMPTOM 4574 4601	zvýšená perihilární denzita
+T40	SYMPTOM 4976 4987	neutrofilie
+T41	SYMPTOM 4990 5019	Koagulace v normálním rozmezí
+T42	SYMPTOM 5273 5303	Sérologie SARS-CoV2: negativní
+T43	SYMPTOM 5377 5437	nosním vzorku izolován S. aureus rezistentní vůči meticilinu
+T44	SYMPTOM 5449 5504	sputu byly izolovány kolonie gramnegativních kokobacilů
+T45	SYMPTOM 5507 5536	růstem Haemophilus influenzae
+T46	SYMPTOM 5542 5602	kultivaci sakrálního vředu byly izolovány grampozitivní koky
+T47	SYMPTOM 5728 5773	Středně až těžce snížená systolická funkce LK
+T48	SYMPTOM 5786 5870	v důsledku akineze apexu, středoapikálního předního septa, laterální a přední plochy
+T49	SYMPTOM 5913 5940	Kořen aorty není dilatovaný
+T50	SYMPTOM 7662 7670	krvácení
+T51	SYMPTOM 7953 7962	hypotenze
+T52	SYMPTOM 8595 8610	sinusový rytmus
+T53	SYMPTOM 8897 8919	kongestivních příznaků
+T54	SYMPTOM 9043 9065	kongestivních příznaků
+T55	SYMPTOM 9386 9395	afebrilní
+T56	SYMPTOM 9432 9469	negativní PCR a sérologií na COVID-19
+T57	SYMPTOM 9520 9564	normální hodnotou prokalcitoninu a leukocytů
+T58	SYMPTOM 9637 9651	izolující MRSA
+T59	SYMPTOM 9737 9745	febrilní
+T60	SYMPTOM 9762 9768	kašlem
+T61	SYMPTOM 9771 9782	expektorací
+T62	SYMPTOM 10187 10195	krvácení
+T63	SYMPTOM 10402 10410	krvácení
+T64	SYMPTOM 10947 10955	krvácení
+T65	SYMPTOM 11447 11455	krvácení

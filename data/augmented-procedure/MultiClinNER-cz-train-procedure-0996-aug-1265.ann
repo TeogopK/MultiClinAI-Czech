@@ -1,0 +1,52 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 427 449	Katetrizační vyšetření
+T3	PROCEDURE 685 733	Perkutánní koronární intervence (PCI) s balónkem
+T4	PROCEDURE 736 798	implantací 2 stentů do proximální RCA a proximálně-střední LAD
+T5	PROCEDURE 800 856	Implantace definitivního bikamerálního kardiostimulátoru
+T6	PROCEDURE 970 998	echokardiografické vyšetření
+T7	PROCEDURE 1152 1171	Chirurgické zákroky
+T8	PROCEDURE 1173 1185	apendektomie
+T9	PROCEDURE 1187 1203	cholecystektomie
+T10	PROCEDURE 1954 1973	Fyzikální vyšetření
+T11	PROCEDURE 2213 2229	Auskultace srdce
+T12	PROCEDURE 2291 2306	Auskultace plic
+T13	PROCEDURE 2488 2505	Elektrokardiogram
+T14	PROCEDURE 2507 2510	EKG
+T15	PROCEDURE 2579 2591	RTG hrudníku
+T16	PROCEDURE 2703 2715	Krevní obraz
+T17	PROCEDURE 2808 2818	Srážlivost
+T18	PROCEDURE 2831 2840	Biochemie
+T19	PROCEDURE 2914 2919	Ionty
+T20	PROCEDURE 2929 2943	jaterní funkce
+T21	PROCEDURE 2969 2987	Lipidové vyšetření
+T22	PROCEDURE 3070 3089	Metabolismus železa
+T23	PROCEDURE 3136 3165	Biomarkery poškození myokardu
+T24	PROCEDURE 3227 3252	Markery srdečního selhání
+T25	PROCEDURE 3301 3329	Echokardiografické vyšetření
+T26	PROCEDURE 3913 3948	Koronarografie, levá radiální tepna
+T27	PROCEDURE 4063 4078	revaskularizaci
+T28	PROCEDURE 4119 4131	Krevní obraz
+T29	PROCEDURE 4134 4143	koagulace
+T30	PROCEDURE 4216 4225	koagulace
+T31	PROCEDURE 4237 4246	Biochemie
+T32	PROCEDURE 4363 4368	Ionty
+T33	PROCEDURE 4380 4394	Jaterní funkce
+T34	PROCEDURE 4405 4423	Lipidové vyšetření
+T35	PROCEDURE 4508 4527	Metabolismus železa
+T36	PROCEDURE 4573 4598	Markery srdečního selhání
+T37	PROCEDURE 4639 4653	Echokardiogram
+T38	PROCEDURE 5018 5030	Krevní obraz
+T39	PROCEDURE 5033 5042	koagulace
+T40	PROCEDURE 5054 5063	Biochemie
+T41	PROCEDURE 5180 5185	Ionty
+T42	PROCEDURE 5197 5211	Jaterní funkce
+T43	PROCEDURE 5222 5240	Lipidové vyšetření
+T44	PROCEDURE 5325 5344	Metabolismus železa
+T45	PROCEDURE 5390 5415	Markery srdečního selhání
+T46	PROCEDURE 5456 5470	Echokardiogram
+T47	PROCEDURE 6264 6294	depleční a antianginózní léčba
+T48	PROCEDURE 6401 6415	Koronarografie
+T49	PROCEDURE 6964 6988	intravenózní feroterapie
+T50	PROCEDURE 7351 7383	srdeční resynchronizační terapii
+T51	PROCEDURE 7385 7388	CRT
+T52	PROCEDURE 7489 7503	implantace CRT

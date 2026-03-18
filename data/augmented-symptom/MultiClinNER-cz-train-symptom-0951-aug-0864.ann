@@ -1,0 +1,39 @@
+T1	SYMPTOM 448 486	Pozitivní ergometrie při vysoké zátěži
+T2	SYMPTOM 1152 1168	bolesti na hrudi
+T3	SYMPTOM 1248 1265	centrálního tlaku
+T4	SYMPTOM 1287 1323	dušností vyvolanou minimální námahou
+T5	SYMPTOM 1422 1431	palpitace
+T6	SYMPTOM 1442 1458	sníženou diurézu
+T7	SYMPTOM 1464 1494	zvýšený obvod dolních končetin
+T8	SYMPTOM 1573 1582	Afebrilní
+T9	SYMPTOM 1627 1630	IVY
+T10	SYMPTOM 1646 1671	hepatojugulárního refluxu
+T11	SYMPTOM 1673 1699	Auskultace srdce: rytmická
+T12	SYMPTOM 1705 1712	šelestů
+T13	SYMPTOM 1733 1781	zachovalý vezikulární šelest bez přidaných zvuků
+T14	SYMPTOM 1783 1802	hypofonie na bazích
+T15	SYMPTOM 1818 1826	prasklin
+T16	SYMPTOM 1828 1879	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T17	SYMPTOM 1881 1907	Dolní končetiny: bez otoků
+T18	SYMPTOM 1956 1971	sinusový rytmus
+T19	SYMPTOM 2057 2092	rektifikace ST segmentu od V2 po V6
+T20	SYMPTOM 2261 2295	mediastinální struktury centrované
+T21	SYMPTOM 2297 2344	Kardioperikardiální silueta normální morfologie
+T22	SYMPTOM 2346 2375	Plicní hilae cévní morfologie
+T23	SYMPTOM 2377 2409	Volné kostodiafragmatické dutiny
+T24	SYMPTOM 2431 2473	známek aktivních pleuroparenchymových lézí
+T25	SYMPTOM 3003 3046	Sériové markery nekrózy myokardu: negativní
+T26	SYMPTOM 3464 3511	Test na okultní krvácení ve stolici: negativní.
+T27	SYMPTOM 3631 3658	Zachovaná systolická funkce
+T28	SYMPTOM 3740 3775	Normální transmitrální plnicí obraz
+T29	SYMPTOM 3868 3930	aortální chlopeň, sklerokalcifikovaná se zachovaným otevíráním
+T30	SYMPTOM 4084 4110	Vzestupná síň nedilatovaná
+T31	SYMPTOM 4119 4144	Nedilatovaná pravá komora
+T32	SYMPTOM 4257 4277	Tenká plicní chlopeň
+T33	SYMPTOM 5097 5149	Kolonoskopie a horní endoskopie: bez známek krvácení
+T34	SYMPTOM 5688 5733	zachovalou biventrikulární systolickou funkci
+T35	SYMPTOM 6126 6136	krvácivých
+T36	SYMPTOM 6297 6367	digestivní endoskopie bez dokumentace potenciálně krvácejících ložisek
+T37	SYMPTOM 6458 6466	krvácení
+T38	SYMPTOM 6565 6573	krvácení
+T39	SYMPTOM 6823 6841	klinické stability

@@ -1,0 +1,49 @@
+T1	SYMPTOM 954 974	progresivní dušnosti
+T2	SYMPTOM 1076 1083	astenií
+T3	SYMPTOM 1086 1094	slabostí
+T4	SYMPTOM 1114 1130	bolesti na hrudi
+T5	SYMPTOM 1144 1149	kašle
+T6	SYMPTOM 1155 1166	expektorace
+T7	SYMPTOM 1172 1179	horečky
+T8	SYMPTOM 1185 1205	dystermických pocitů
+T9	SYMPTOM 1228 1253	Celkový stav byl normální
+T10	SYMPTOM 1255 1271	normohydratovaný
+T11	SYMPTOM 1273 1295	normální kožní kolorit
+T12	SYMPTOM 1297 1314	V klidu eupnoický
+T13	SYMPTOM 1351 1357	vědomí
+T14	SYMPTOM 1359 1370	orientovaný
+T15	SYMPTOM 1536 1570	Auskultace srdce: pravidelné zvuky
+T16	SYMPTOM 1572 1583	tachykardie
+T17	SYMPTOM 1602 1621	vedlejších fenomenů
+T18	SYMPTOM 1640 1668	generalizovaná hypoventilace
+T19	SYMPTOM 1676 1683	chrůpků
+T20	SYMPTOM 1691 1713	otoky dolních končetin
+T21	SYMPTOM 1865 1880	sinusový rytmus
+T22	SYMPTOM 1898 1909	normální PR
+T23	SYMPTOM 1911 1919	úzké QRS
+T24	SYMPTOM 1933 1945	podúroveň ST
+T25	SYMPTOM 2120 2152	kondenzace alveolárního prostoru
+T26	SYMPTOM 2154 2199	Normální mediastinální silueta a plicní hilus
+T27	SYMPTOM 2586 2611	Ventrikulografie normální
+T28	SYMPTOM 2731 2760	normální velikost levé komory
+T29	SYMPTOM 2818 2850	změn v segmentální kontraktilitě
+T30	SYMPTOM 2856 2885	zachovanou systolickou funkcí
+T31	SYMPTOM 3027 3052	Nedilatovaná pravá komora
+T32	SYMPTOM 3055 3082	normální systolickou funkcí
+T33	SYMPTOM 3449 3498	segmentální a globální systolickou funkcí v normě
+T34	SYMPTOM 3695 3722	systolická funkce zachovány
+T35	SYMPTOM 3736 3777	Předsíně a velké cévy zachovalých rozměrů
+T36	SYMPTOM 4211 4240	zachovanou systolickou funkcí
+T37	SYMPTOM 4325 4354	anizopoikilocytóza erytrocytů
+T38	SYMPTOM 4713 4745	Vyšetření na parazity: negativní
+T39	SYMPTOM 4758 4798	pozitivní pouze na Toxoplasma gondii IgG
+T40	SYMPTOM 5113 5130	změny ST segmentů
+T41	SYMPTOM 5429 5448	elevací ST segmentu
+T42	SYMPTOM 5832 5841	astenická
+T43	SYMPTOM 5891 5902	eozinofilií
+T44	SYMPTOM 6486 6507	periferní eozinofilie
+T45	SYMPTOM 6517 6555	poklesem ultrasenzitivního troponinu T
+T46	SYMPTOM 6938 6959	negativní autoimunita
+T47	SYMPTOM 6961 6981	negativní biopsie OM
+T48	SYMPTOM 6983 7001	negativní paraziti
+T49	SYMPTOM 7159 7173	asymptomatická

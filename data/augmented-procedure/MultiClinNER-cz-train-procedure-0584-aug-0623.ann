@@ -1,0 +1,15 @@
+T1	PROCEDURE 142 147	porod
+T2	PROCEDURE 356 371	střevní biopsie
+T3	PROCEDURE 694 713	Fyzikální vyšetření
+T4	PROCEDURE 811 823	krevní testy
+T5	PROCEDURE 825 842	normální hemogram
+T6	PROCEDURE 845 854	koagulace
+T7	PROCEDURE 981 1004	imunologickém vyšetření
+T8	PROCEDURE 1133 1163	Sérologie proti HBV, HCV a HIV
+T9	PROCEDURE 1175 1220	Protilátky proti tkáňové transglutamináze IgA
+T10	PROCEDURE 1292 1300	sediment
+T11	PROCEDURE 1340 1356	Ultrazvuk ledvin
+T12	PROCEDURE 1450 1476	perkutánní biopsie ledviny
+T13	PROCEDURE 1562 1586	léčen bezlepkovou dietou
+T14	PROCEDURE 1624 1632	statinem
+T15	PROCEDURE 1634 1671	aspirinem v protidestičkových dávkách

@@ -1,0 +1,38 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 146 159	hysterektomie
+T3	PROCEDURE 162 183	dvojitou adnexektomii
+T4	PROCEDURE 548 567	fyzikální vyšetření
+T5	PROCEDURE 626 635	Ventimask
+T6	PROCEDURE 748 764	Auskultace srdce
+T7	PROCEDURE 838 853	Auskultace plic
+T8	PROCEDURE 1071 1074	EKG
+T9	PROCEDURE 1125 1137	RTG hrudníku
+T10	PROCEDURE 1248 1260	Krevní testy
+T11	PROCEDURE 1282 1305	arteriální krevní plyny
+T12	PROCEDURE 1365 1374	Biochemie
+T13	PROCEDURE 1519 1527	Hemogram
+T14	PROCEDURE 1644 1653	Koagulace
+T15	PROCEDURE 1714 1762	Transtorakální a transezofageální echokardiogram
+T16	PROCEDURE 2929 2939	Kardio-MRI
+T17	PROCEDURE 3499 3515	podání kontrastu
+T18	PROCEDURE 3736 3755	Srdeční katetrizace
+T19	PROCEDURE 3922 3938	mimotělním oběhu
+T20	PROCEDURE 3940 3943	ECC
+T21	PROCEDURE 3949 3972	resekován objemný tumor
+T22	PROCEDURE 4077 4118	náhrada mitrální chlopně kovovou protézou
+T23	PROCEDURE 4121 4152	uzávěr defektu septa perikardem
+T24	PROCEDURE 4212 4233	hluboké sedoanalgezii
+T25	PROCEDURE 4314 4317	AKS
+T26	PROCEDURE 4419 4438	kontinuální perfuzi
+T27	PROCEDURE 4450 4485	kontinuální náhradní terapií ledvin
+T28	PROCEDURE 4487 4491	CRRT
+T29	PROCEDURE 4515 4528	ultrafiltrace
+T30	PROCEDURE 4613 4627	vysadit sedaci
+T31	PROCEDURE 4638 4670	odpojení od mechanické ventilace
+T32	PROCEDURE 4689 4698	extubován
+T33	PROCEDURE 4789 4821	oxygenoterapii středními průtoky
+T34	PROCEDURE 4885 4888	TTE
+T35	PROCEDURE 4964 4990	rentgenový snímek hrudníku
+T36	PROCEDURE 5073 5083	reintubaci
+T37	PROCEDURE 5403 5417	resekci nádoru
+T38	PROCEDURE 5420 5448	mechanickou mitrální protézu

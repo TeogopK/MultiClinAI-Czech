@@ -1,0 +1,21 @@
+T1	SYMPTOM 106 119	epigastralgie
+T2	SYMPTOM 121 127	melény
+T3	SYMPTOM 130 137	astenii
+T4	SYMPTOM 176 184	dysfagii
+T5	SYMPTOM 186 197	pálení žáhy
+T6	SYMPTOM 202 224	změnu střevních návyků
+T7	SYMPTOM 226 259	Fyzikální vyšetření bylo normální
+T8	SYMPTOM 289 295	útvary
+T9	SYMPTOM 422 428	anémie
+T10	SYMPTOM 454 522	Rentgenové snímky hrudníku a břicha neprokázaly žádné zajímavé změny
+T11	SYMPTOM 551 565	normální jícen
+T12	SYMPTOM 567 606	žaludeční dutinu bez hematických zbytků
+T13	SYMPTOM 609 626	normální sliznicí
+T14	SYMPTOM 640 679	edematózní sliznici v duodenálním bulbu
+T15	SYMPTOM 778 811	helicobacter pylori nebyl zjištěn
+T16	SYMPTOM 853 887	játra, žlučník a slinivka normální
+T17	SYMPTOM 1166 1172	melény
+T18	SYMPTOM 1261 1322	normální jícen, sliznici žaludeční dutiny a duodenální bulbus
+T19	SYMPTOM 1325 1385	izolovanými hematickými zbytky na úrovni druhé porce duodena
+T20	SYMPTOM 1455 1501	drobivý, ulcerovaný nádor v proximálním jejunu
+T21	SYMPTOM 1845 1870	masy v proximálním jejunu

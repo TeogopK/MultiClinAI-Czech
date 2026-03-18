@@ -1,0 +1,30 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 1016 1049	transtorakální echokardiografické
+T3	PROCEDURE 1223 1234	katetrizaci
+T4	PROCEDURE 1237 1256	Fyzikální vyšetření
+T5	PROCEDURE 1446 1462	Auskultace srdce
+T6	PROCEDURE 1487 1502	Auskultace plic
+T7	PROCEDURE 1676 1693	elektrokardiogram
+T8	PROCEDURE 1695 1698	EKG
+T9	PROCEDURE 2238 2250	RTG hrudníku
+T10	PROCEDURE 2299 2327	Echokardiografické vyšetření
+T11	PROCEDURE 2494 2508	Koronarografie
+T12	PROCEDURE 2663 2694	perkutánní koronární intervence
+T13	PROCEDURE 2696 2699	PCI
+T14	PROCEDURE 2703 2747	implantace překrývajících se lékových stentů
+T15	PROCEDURE 2804 2860	první tupý okraj (OM1) léčená implantací lékového stentu
+T16	PROCEDURE 2909 2923	Koronarografie
+T17	PROCEDURE 2954 3007	Cx s novou implantací dvou stentů uvolňujících léčivo
+T18	PROCEDURE 3009 3023	Echokardiogram
+T19	PROCEDURE 3200 3218	Katetrizační výkon
+T20	PROCEDURE 3394 3430	perkutánní koronární revaskularizace
+T21	PROCEDURE 3506 3520	Koronarografie
+T22	PROCEDURE 3708 3732	revaskularizace LAD a Cx
+T23	PROCEDURE 3997 4039	oxygenoterapii s vysokoprůtokovými brýlemi
+T24	PROCEDURE 4127 4143	renálních funkcí
+T25	PROCEDURE 4475 4502	diagnostické koronarografii
+T26	PROCEDURE 4597 4618	protidestičkové léčby
+T27	PROCEDURE 4771 4787	renálních funkcí
+T28	PROCEDURE 4836 4858	antitrombotickou léčbu
+T29	PROCEDURE 5290 5309	srdeční katetrizace
+T30	PROCEDURE 5336 5371	Perkutánní revaskularizace LAD a Cx

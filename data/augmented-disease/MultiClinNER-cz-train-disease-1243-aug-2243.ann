@@ -1,0 +1,49 @@
+T1	DISEASE 109 119	hypertenze
+T2	DISEASE 195 212	diabetes mellitus
+T3	DISEASE 217 229	dyslipidemie
+T4	DISEASE 237 251	toxické návyky
+T5	DISEASE 253 280	Chronické onemocnění ledvin
+T6	DISEASE 292 355	intersticiální nefropatie v důsledku vezikoureterálního refluxu
+T7	DISEASE 596 620	arteriovenózních píštělí
+T8	DISEASE 596 626	arteriovenózních píštělí (AVF)
+T9	DISEASE 707 730	Multifaktoriální anémie
+T10	DISEASE 768 807	Rezistentní sekundární hyperparatyreóza
+T11	DISEASE 810 832	renální osteodystrofií
+T12	DISEASE 835 863	adenomem příštítných tělísek
+T13	DISEASE 903 932	strukturální onemocnění srdce
+T14	DISEASE 939 970	středně těžké hypertrofie komor
+T15	DISEASE 1366 1392	tachykardie se širokým QRS
+T16	DISEASE 1508 1555	setrvalá monomorfní komorová tachykardie (SMVT)
+T17	DISEASE 1550 1554	SMVT
+T18	DISEASE 1634 1657	tachykardie s úzkým QRS
+T19	DISEASE 1680 1698	síňová tachykardie
+T20	DISEASE 3065 3084	Kalcifikovaná aorta
+T21	DISEASE 3142 3178	pravidelná tachykardie s širokým QRS
+T22	DISEASE 3209 3230	bloku pravého raménka
+T23	DISEASE 3232 3236	RBBB
+T24	DISEASE 3357 3425	nedilatovaná levá komora se středně těžkou koncentrickou hypertrofií
+T25	DISEASE 3493 3520	Středně dilatovaná levá síň
+T26	DISEASE 3586 3608	Mitroaortální skleróza
+T27	DISEASE 3634 3655	mitrální insuficience
+T28	DISEASE 3691 3728	Minimální zadní perikardiální výpotek
+T29	DISEASE 4091 4109	síňové tachykardie
+T30	DISEASE 4657 4671	fibrilace síní
+T31	DISEASE 4868 4893	koncentrickou hypertrofii
+T32	DISEASE 4969 4995	tachykardie se širokým QRS
+T33	DISEASE 5030 5050	komorová tachykardie
+T34	DISEASE 5110 5114	BPRT
+T35	DISEASE 5262 5288	tachykardie se širokým QRS
+T36	DISEASE 5383 5398	rozšíření komor
+T37	DISEASE 5419 5444	levého předního hemibloku
+T38	DISEASE 5446 5449	LAH
+T39	DISEASE 5771 5797	tachykardie se širokým QRS
+T40	DISEASE 5832 5836	SMVT
+T41	DISEASE 5884 5904	komorové hypertrofie
+T42	DISEASE 5928 5939	preexcitaci
+T43	DISEASE 6311 6322	preexcitaci
+T44	DISEASE 6425 6471	akcesorní dráha v zadní části mitrálního anulu
+T45	DISEASE 6504 6515	preexcitace
+T46	DISEASE 6555 6659	Preexcitovaná síňová tachykardie způsobená akcesorní dráhou lokalizovanou v zadní části mitrálního anulu
+T47	DISEASE 6693 6720	Hypertenzní srdeční choroba
+T48	DISEASE 6723 6744	diastolickou dysfunkc
+T49	DISEASE 6746 6773	Chronické onemocnění ledvin

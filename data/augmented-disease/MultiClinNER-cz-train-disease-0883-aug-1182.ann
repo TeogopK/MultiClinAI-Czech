@@ -1,0 +1,52 @@
+T1	DISEASE 34 50	lékových alergií
+T2	DISEASE 93 103	hypertenze
+T3	DISEASE 105 117	dyslipidemie
+T4	DISEASE 119 126	obezita
+T5	DISEASE 131 140	epilepsií
+T6	DISEASE 153 200	sekundární hypotyreózou v důsledku tyreoiditidy
+T7	DISEASE 203 229	chronickým selháním ledvin
+T8	DISEASE 322 350	městnavého srdečního selhání
+T9	DISEASE 374 425	bikuspidální aortální chlopeň s těžkou insuficiencí
+T10	DISEASE 428 455	středně těžkou dysfunkcí LK
+T11	DISEASE 563 577	koronární léze
+T12	DISEASE 726 769	flutterem síní s vysokou komorovou odpovědí
+T13	DISEASE 818 832	selhání ledvin
+T14	DISEASE 884 937	generalizovanou tonicko-klonickou záchvatovou epizodu
+T15	DISEASE 1002 1052	retroperitoneální hematom v hlavě a těle pankreatu
+T16	DISEASE 1207 1226	LK mírně dilatovaná
+T17	DISEASE 1263 1295	Centrální mírný infarkt myokardu
+T18	DISEASE 1337 1341	RBBB
+T19	DISEASE 2153 2160	synkopa
+T20	DISEASE 2165 2175	presynkopu
+T21	DISEASE 2812 2815	HŽT
+T22	DISEASE 3180 3197	kompletní AV blok
+T23	DISEASE 3233 3237	RBBB
+T24	DISEASE 3306 3337	ateromatóza a prodloužení aorty
+T25	DISEASE 3357 3370	kardiomegalie
+T26	DISEASE 3743 3764	akutní cholecystitidu
+T27	DISEASE 3848 3864	stresový žlučník
+T28	DISEASE 3882 3899	srdečním selháním
+T29	DISEASE 3907 3933	akalkulózní cholecystitidu
+T30	DISEASE 3935 3945	diabetický
+T31	DISEASE 4292 4313	akutní cholecystitidy
+T32	DISEASE 4912 4915	AVB
+T33	DISEASE 5130 5182	MV: mírně fibrózní listy s kalciem v mitrálním anulu
+T34	DISEASE 5190 5202	centrální MI
+T35	DISEASE 5230 5263	endokarditidu na mitrální chlopni
+T36	DISEASE 5512 5533	endokarditický proces
+T37	DISEASE 5595 5619	aorto-aurikulární píštěl
+T38	DISEASE 5689 5691	TR
+T39	DISEASE 5764 5785	perikardiální výpotek
+T40	DISEASE 6167 6190	pravostranná hemiplegie
+T41	DISEASE 6267 6324	akutní mozkový hematom v pravé parieto-temporální oblasti
+T42	DISEASE 6434 6457	intraventrikulární krve
+T43	DISEASE 6462 6488	akutní hemoragické příhodě
+T44	DISEASE 6573 6592	septickými příznaky
+T45	DISEASE 6800 6822	multiorgánovém selhání
+T46	DISEASE 6835 6856	Akutní cholecystitida
+T47	DISEASE 6903 6924	kompletní AV blokádou
+T48	DISEASE 6927 6989	ndokarditida vyvolaná Streptococcus gallolyticus na AV protéze
+T49	DISEASE 7003 7038	aortokavitární píštělí do levé síně
+T50	DISEASE 7040 7080	Akutní hemoragická cévní mozková příhoda
+T51	DISEASE 7114 7126	Septický šok
+T52	DISEASE 7176 7197	multiorgánové selhání

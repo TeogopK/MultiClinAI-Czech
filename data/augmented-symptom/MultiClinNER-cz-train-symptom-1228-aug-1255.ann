@@ -1,0 +1,41 @@
+T1	SYMPTOM 469 515	intenzivního a dlouhotrvajícího tlaku na hrudi
+T2	SYMPTOM 528 567	vyzařujícího do krku a horních končetin
+T3	SYMPTOM 580 620	bez přidruženého vegetativního doprovodu
+T4	SYMPTOM 730 771	zvýšené sérové markery poškození myokardu
+T5	SYMPTOM 881 903	hemodynamicky stabilní
+T6	SYMPTOM 971 992	překrvení krčních žil
+T7	SYMPTOM 994 1030	Normální kardiorespirační auskultace
+T8	SYMPTOM 1038 1045	šelesty
+T9	SYMPTOM 1047 1072	Dolní končetiny bez otoků
+T10	SYMPTOM 1074 1122	Radiální a femorální pulzy přítomny a symetrické
+T11	SYMPTOM 1227 1244	normálním vzorcem
+T12	SYMPTOM 1576 1627	SARS-CoV-2 RNA (nazofaryngeální exsudát): negativní
+T13	SYMPTOM 1647 1662	sinusový rytmus
+T14	SYMPTOM 1680 1704	Normální a konstantní PR
+T15	SYMPTOM 1706 1714	Úzké QRS
+T16	SYMPTOM 1716 1728	normální osa
+T17	SYMPTOM 1872 1902	normální kardiotorakální index
+T18	SYMPTOM 1904 1928	volné kostofrenické úhly
+T19	SYMPTOM 1934 1959	parenchymových infiltrátů
+T20	SYMPTOM 2045 2060	sinusový rytmus
+T21	SYMPTOM 2078 2102	Normální a konstantní PR
+T22	SYMPTOM 2104 2112	Úzké QRS
+T23	SYMPTOM 2187 2230	levá hlavní koronární tepna (LMCA) bez léze
+T24	SYMPTOM 2232 2287	Přední sestupná tepna (ADA) s difuzním postižením lumen
+T25	SYMPTOM 2399 2453	Obvodová tepna (Cx) rovněž s difuzním postižením lumen
+T26	SYMPTOM 2495 2566	Pravá koronární tepna (RCA) dominantní, bez lézí a s hladkými konturami
+T27	SYMPTOM 3114 3130	bolesti na hrudi
+T28	SYMPTOM 3133 3149	izoelektrický ST
+T29	SYMPTOM 3194 3248	Angio-CT supraaortálních kmenů a aorty: studie v normě
+T30	SYMPTOM 3250 3353	Vzestupná aorta, oblouk aorty a sestupná aorta a jejich viscerální větve nevykazovaly žádné abnormality
+T31	SYMPTOM 3391 3406	sinusový rytmus
+T32	SYMPTOM 3426 3450	Normální a konstantní PR
+T33	SYMPTOM 3452 3460	Úzké QRS
+T34	SYMPTOM 5205 5245	ACD: bez známek léze nebo obrazu disekce
+T35	SYMPTOM 5247 5269	DP a PL větve bez lézí
+T36	SYMPTOM 5365 5388	vegetativním doprovodem
+T37	SYMPTOM 5983 6008	zachovanou ejekční frakcí
+T38	SYMPTOM 6356 6411	tísnivou bolest na hrudi vyzařující do horních končetin
+T39	SYMPTOM 6414 6435	vegetativním kortexem
+T40	SYMPTOM 7722 7762	Zachovaná biventrikulární ejekční frakce
+T41	SYMPTOM 7817 7828	Prediabetes

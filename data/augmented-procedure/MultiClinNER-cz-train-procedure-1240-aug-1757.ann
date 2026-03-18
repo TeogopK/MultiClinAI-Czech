@@ -1,0 +1,24 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 344 351	palpaci
+T3	PROCEDURE 1122 1149	Kardiopulmonální auskultace
+T4	PROCEDURE 1216 1232	Vyšetření břicha
+T5	PROCEDURE 1286 1313	povrchové i hluboké palpaci
+T6	PROCEDURE 1637 1649	Krevní testy
+T7	PROCEDURE 1767 1776	biochemii
+T8	PROCEDURE 1829 1842	funkci ledvin
+T9	PROCEDURE 1853 1858	ionty
+T10	PROCEDURE 1870 1879	koagulaci
+T11	PROCEDURE 1881 1927	Přenosný předozadní rentgenový snímek hrudníku
+T12	PROCEDURE 2092 2109	Elektrokardiogram
+T13	PROCEDURE 2111 2114	EKG
+T14	PROCEDURE 2322 2325	EKG
+T15	PROCEDURE 2420 2440	enzymová serializace
+T16	PROCEDURE 2443 2446	EKG
+T17	PROCEDURE 2463 2482	antianginózní léčby
+T18	PROCEDURE 2484 2517	Transtorakální echokardiografické
+T19	PROCEDURE 3734 3748	beta-blokátorů
+T20	PROCEDURE 3946 3957	katetrizace
+T21	PROCEDURE 4272 4291	léčby betablokátory
+T22	PROCEDURE 4499 4522	protidestičkovou léčbou
+T23	PROCEDURE 4524 4537	betablokátory
+T24	PROCEDURE 4627 4643	echokardiografie

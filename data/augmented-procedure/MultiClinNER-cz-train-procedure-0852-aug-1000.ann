@@ -1,0 +1,29 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 206 225	genetické vyšetření
+T3	PROCEDURE 748 764	echokardiografii
+T4	PROCEDURE 874 893	transplantaci srdce
+T5	PROCEDURE 1116 1133	inotropní podporu
+T6	PROCEDURE 1178 1212	implantaci balónkové kontrapulzace
+T7	PROCEDURE 1252 1275	srdečních transplantací
+T8	PROCEDURE 1314 1350	transplantace srdce technikou bicave
+T9	PROCEDURE 1509 1517	extubace
+T10	PROCEDURE 1858 1870	Imunosuprese
+T11	PROCEDURE 1970 1984	kortikoterapie
+T12	PROCEDURE 2312 2321	biopsiích
+T13	PROCEDURE 2337 2369	echokardiografickými vyšetřeními
+T14	PROCEDURE 2587 2611	endomyokardiální biopsii
+T15	PROCEDURE 3000 3014	benzodiazepiny
+T16	PROCEDURE 3605 3617	Krevní testy
+T17	PROCEDURE 3701 3710	Koagulace
+T18	PROCEDURE 3743 3752	Biochemie
+T19	PROCEDURE 3808 3822	Renální funkce
+T20	PROCEDURE 3881 3886	Ionty
+T21	PROCEDURE 3944 3964	Venózní krevní plyny
+T22	PROCEDURE 4032 4040	CT lebky
+T23	PROCEDURE 4210 4219	MRI mozku
+T24	PROCEDURE 4796 4798	CT
+T25	PROCEDURE 4804 4807	MRI
+T26	PROCEDURE 5213 5227	kortikoterapie
+T27	PROCEDURE 5417 5441	endomyokardiální biopsii
+T28	PROCEDURE 5637 5640	MRI
+T29	PROCEDURE 5890 5921	ortotopická transplantace srdce

@@ -1,0 +1,34 @@
+T1	SYMPTOM 87 94	horečky
+T2	SYMPTOM 113 124	polymyalgií
+T3	SYMPTOM 126 140	osteoartralgií
+T4	SYMPTOM 142 170	bolestí krční páteře a hlavy
+T5	SYMPTOM 244 251	Horečka
+T6	SYMPTOM 473 480	horečky
+T7	SYMPTOM 499 510	polymyalgií
+T8	SYMPTOM 512 526	osteoartralgií
+T9	SYMPTOM 528 556	bolestí krční páteře a hlavy
+T10	SYMPTOM 580 590	Při vědomí
+T11	SYMPTOM 592 597	bdělý
+T12	SYMPTOM 600 611	orientovaný
+T13	SYMPTOM 648 671	Špatná distální perfuze
+T14	SYMPTOM 674 695	chladem v končetinách
+T15	SYMPTOM 701 727	Tachykardické srdeční ozvy
+T16	SYMPTOM 753 760	šelestů
+T17	SYMPTOM 766 818	dýchání alveolární bez vedlejších dechových fenoménů
+T18	SYMPTOM 820 845	Břicho: měkké, depresivní
+T19	SYMPTOM 851 857	útvarů
+T20	SYMPTOM 863 871	megalitů
+T21	SYMPTOM 879 900	peritoneální dráždění
+T22	SYMPTOM 919 955	Artralgie ve všech kloubech končetin
+T23	SYMPTOM 967 973	zánětu
+T24	SYMPTOM 1003 1023	meningeální příznaky
+T25	SYMPTOM 1033 1076	fyzikální vyšetření bylo bez pozoruhodností
+T26	SYMPTOM 1238 1277	Vyšetření moči: Bakteriurie a leukocyty
+T27	SYMPTOM 1299 1325	Rentgen hrudníku: normální
+T28	SYMPTOM 1329 1355	Ultrazvuk břicha: normální
+T29	SYMPTOM 1359 1377	CT mozku: Normální
+T30	SYMPTOM 1474 1485	oligoanurii
+T31	SYMPTOM 2118 2161	rozsáhlým obrazem vegetací na zadním plátku
+T32	SYMPTOM 2298 2386	v krevní kultuře prokázán růst Staphylococcus aureus citlivého na ampicilin a vankomycin
+T33	SYMPTOM 2836 2859	hemodynamické stabilitě
+T34	SYMPTOM 2879 2883	smrt

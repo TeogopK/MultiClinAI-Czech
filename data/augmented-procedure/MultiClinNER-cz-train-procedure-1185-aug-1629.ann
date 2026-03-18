@@ -1,0 +1,27 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 864 883	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 910 937	Kardiopulmonální auskultace
+T4	PROCEDURE 953 975	Neurologické vyšetření
+T5	PROCEDURE 1136 1145	vyšetření
+T6	PROCEDURE 1189 1220	Transtorakální echokardiografie
+T7	PROCEDURE 1767 1770	EKG
+T8	PROCEDURE 1954 1962	holterem
+T9	PROCEDURE 2135 2156	Laboratorní vyšetření
+T10	PROCEDURE 2158 2167	biochemie
+T11	PROCEDURE 2169 2177	Hemogram
+T12	PROCEDURE 2180 2189	koagulace
+T13	PROCEDURE 2202 2221	GENETICKÉ VYŠETŘENÍ
+T14	PROCEDURE 2657 2675	Holterově monitoru
+T15	PROCEDURE 2793 2810	vyšetření převodu
+T16	PROCEDURE 2813 2830	epinefrinový test
+T17	PROCEDURE 2842 2859	epinefrinový test
+T18	PROCEDURE 3020 3136	Elektrofyziologická studie: diagnostické kvadripolární katétry jsou umístěny do pravé síně, His a hrotu pravé komory
+T19	PROCEDURE 3360 3429	implantaci dvoukomorového implantabilního kardioverteru-defibrilátoru
+T20	PROCEDURE 3431 3434	ICD
+T21	PROCEDURE 3439 3476	vyšetření magnetickou rezonancí srdce
+T22	PROCEDURE 3478 3481	CMR
+T23	PROCEDURE 3508 3522	implantaci ICD
+T24	PROCEDURE 3581 3607	Magnetická rezonance srdce
+T25	PROCEDURE 3981 4012	Transtorakální echokardiografie
+T26	PROCEDURE 4015 4024	MRI srdce
+T27	PROCEDURE 4202 4231	implantací dvoukomorového ICD

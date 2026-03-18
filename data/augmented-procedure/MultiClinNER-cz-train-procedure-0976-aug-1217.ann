@@ -1,0 +1,36 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 250 263	funkce ledvin
+T3	PROCEDURE 577 694	chirurgickou revaskularizací s dvojitým aortokoronárním můstkem (marginální saféna-obtuse a přední saféna-descendent)
+T4	PROCEDURE 770 796	perkutánní revaskularizací
+T5	PROCEDURE 798 829	perkutánní koronární intervence
+T6	PROCEDURE 831 834	PCI
+T7	PROCEDURE 838 972	implantací lékového stentu do LAD distálně od safény, dvou stentů do první proximálně-mediální diagonální větve a stentu do střední DC
+T8	PROCEDURE 1016 1030	koronarografie
+T9	PROCEDURE 1087 1110	TK, se zavedením stentu
+T10	PROCEDURE 1151 1179	echokardiografické vyšetření
+T11	PROCEDURE 1342 1368	Magnetická rezonance srdce
+T12	PROCEDURE 1370 1373	MRI
+T13	PROCEDURE 2156 2178	kardiální rehabilitace
+T14	PROCEDURE 2633 2661	hygienicko-dietních opatření
+T15	PROCEDURE 2745 2764	Fyzikální vyšetření
+T16	PROCEDURE 2933 2949	Auskultace srdce
+T17	PROCEDURE 3356 3359	EKG
+T18	PROCEDURE 3452 3464	RTG hrudníku
+T19	PROCEDURE 3626 3641	jaterní baterie
+T20	PROCEDURE 3727 3736	Koagulace
+T21	PROCEDURE 3836 3856	feritinovým profilem
+T22	PROCEDURE 3926 3955	Transtorakální echokardiogram
+T23	PROCEDURE 4434 4465	intravenózní diuretickou léčbou
+T24	PROCEDURE 4565 4581	diuretické léčby
+T25	PROCEDURE 4763 4784	neurohormonální léčbě
+T26	PROCEDURE 5561 5586	intravenózní ferroterapií
+T27	PROCEDURE 5701 5731	hygienicko-dietních opatřeních
+T28	PROCEDURE 5972 5986	echokardiogram
+T29	PROCEDURE 6402 6426	intravenózní feroterapie
+T30	PROCEDURE 6558 6591	vyšetření okultní krve ve stolici
+T31	PROCEDURE 6908 6954	chirurgickými a perkutánními revaskularizacemi
+T32	PROCEDURE 7017 7043	vyšetření trávicího traktu
+T33	PROCEDURE 7064 7122	první implantace automatického kardioverteru-defibrilátoru
+T34	PROCEDURE 7126 7158	srdeční resynchronizační terapií
+T35	PROCEDURE 7159 7167	(ICD-CRT
+T36	PROCEDURE 7191 7216	intravenózní ferroterapie

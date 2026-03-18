@@ -1,0 +1,57 @@
+T1	SYMPTOM 899 919	bolestí v epigastriu
+T2	SYMPTOM 922 947	difuzními bolestmi břicha
+T3	SYMPTOM 1038 1058	vegetativní doprovod
+T4	SYMPTOM 1080 1087	dušnost
+T5	SYMPTOM 1089 1104	bolest na hrudi
+T6	SYMPTOM 1110 1117	synkopu
+T7	SYMPTOM 1135 1142	horečka
+T8	SYMPTOM 1158 1182	infekční symptomatologie
+T9	SYMPTOM 1252 1281	klinické příznaky nestability
+T10	SYMPTOM 1285 1300	změnami chování
+T11	SYMPTOM 1456 1465	Afebrilní
+T12	SYMPTOM 1467 1477	Při vědomí
+T13	SYMPTOM 1479 1490	orientovaný
+T14	SYMPTOM 1492 1508	normohydratovaný
+T15	SYMPTOM 1511 1520	prokrvený
+T16	SYMPTOM 1522 1539	v klidu eupnoický
+T17	SYMPTOM 1541 1549	Kachexie
+T18	SYMPTOM 1578 1591	krční pulzace
+T19	SYMPTOM 1601 1625	akce srdeční: pravidelná
+T20	SYMPTOM 1646 1672	mitrální systolický šelest
+T21	SYMPTOM 1697 1715	alveolární dýchání
+T22	SYMPTOM 1717 1798	Břicho: měkké, stlačitelné, zachovalá peristaltika, bolestivé při celkové palpaci
+T23	SYMPTOM 1811 1834	peritoneálního dráždění
+T24	SYMPTOM 1840 1847	šelestů
+T25	SYMPTOM 1849 1877	Dolní končetiny: žádné otoky
+T26	SYMPTOM 1919 1941	ztráta kontinuity kůže
+T27	SYMPTOM 1977 1997	sinusová tachykardie
+T28	SYMPTOM 2016 2043	Elevace ST V1-V4 Q ve V1 V2
+T29	SYMPTOM 2065 2080	sinusový rytmus
+T30	SYMPTOM 2098 2132	s negativními vlnami T od V1 do V4
+T31	SYMPTOM 2645 2677	normální stín srdce a mediastina
+T32	SYMPTOM 3280 3296	apikální akineze
+T33	SYMPTOM 3300 3329	zachovanou systolickou funkcí
+T34	SYMPTOM 3343 3414	Na předsíňové straně předního listu mitrální chlopně vizualizován útvar
+T35	SYMPTOM 3709 3725	mitrální fibróza
+T36	SYMPTOM 3862 3934	levá komora normální velikosti a tloušťky, s hraniční systolickou funkcí
+T37	SYMPTOM 4003 4024	Normální pravá komora
+T38	SYMPTOM 4578 4630	Krevní kultivace 25/01/2020: Streptococcus anginosus
+T39	SYMPTOM 4632 4668	Kultivace moči 25/01/2020: negativní
+T40	SYMPTOM 4670 4743	PCR chřipky a respiračního syncytiálního viru (RSV) 07/02/2020: negativní
+T41	SYMPTOM 5181 5217	levý okcipitální prstencovitý uptake
+T42	SYMPTOM 5276 5340	levá okcipitální temporální kortikojuxtakortikální změna signálu
+T43	SYMPTOM 5627 5642	vrcholy horečky
+T44	SYMPTOM 5667 5691	infekční symptomatologie
+T45	SYMPTOM 5822 5882	S. anginosus v prvních 24 hodinách v obou krevních kulturách
+T46	SYMPTOM 5971 5987	apikální akinezi
+T47	SYMPTOM 5991 6006	zachovalým LVEF
+T48	SYMPTOM 6775 6791	bolesti na hrudi
+T49	SYMPTOM 6793 6854	Reziduální systolická funkce LK byla při propuštění zachována
+T50	SYMPTOM 6857 6873	apikální akinezi
+T51	SYMPTOM 7020 7036	alterace chování
+T52	SYMPTOM 7039 7061	difuzní bolestí břicha
+T53	SYMPTOM 7199 7250	CT břicha, kde nebyly zjištěny žádné významné změny
+T54	SYMPTOM 7453 7478	negativní krevní kulturou
+T55	SYMPTOM 7967 8008	zachovalou systolickou funkcí levé komory
+T56	SYMPTOM 8896 8936	Hraniční reziduální systolická funkce LK
+T57	SYMPTOM 8951 8967	apikální akinezí

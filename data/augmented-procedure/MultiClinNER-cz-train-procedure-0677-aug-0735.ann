@@ -1,0 +1,24 @@
+T1	PROCEDURE 67 94	radiologické změny hrudníku
+T2	PROCEDURE 526 543	bronchodilatancií
+T3	PROCEDURE 751 771	fyzikálním vyšetření
+T4	PROCEDURE 896 923	Kardiopulmonální auskultace
+T5	PROCEDURE 939 965	Rentgenový snímek hrudníku
+T6	PROCEDURE 1093 1105	krevní testy
+T7	PROCEDURE 1141 1153	autoimunitní
+T8	PROCEDURE 1166 1175	sérologie
+T9	PROCEDURE 1177 1201	respirační funkční testy
+T10	PROCEDURE 1203 1206	RFT
+T11	PROCEDURE 1227 1234	Mantoux
+T12	PROCEDURE 1236 1271	počítačová tomografie (CT) hrudníku
+T13	PROCEDURE 1259 1261	CT
+T14	PROCEDURE 1482 1495	bronchoskopie
+T15	PROCEDURE 1572 1632	BAL v pravém horním laloku, které byly odeslány na cytologii
+T16	PROCEDURE 1572 1651	BAL v pravém horním laloku, které byly odeslány na cytologii, mikroskopii stěru
+T17	PROCEDURE 1572 1685	BAL v pravém horním laloku, které byly odeslány na cytologii, mikroskopii stěru a vyšetření subpopulací lymfocytů
+T18	PROCEDURE 1713 1790	bronchoaspirační výtěry (BAS) na houby, pneumocysty, kultivaci a Kochův bacil
+T19	PROCEDURE 1738 1741	BAS
+T20	PROCEDURE 1825 1861	Patologická zpráva z bronchoaspirátu
+T21	PROCEDURE 1951 1967	Imunohistochemie
+T22	PROCEDURE 2041 2094	biopsie pravého horního plicního laloku z torakotomie
+T23	PROCEDURE 2096 2105	Patologie
+T24	PROCEDURE 2316 2343	rentgenovém snímku hrudníku

@@ -1,0 +1,75 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 364 386	bronchodilatační léčbě
+T3	PROCEDURE 671 685	operace kolena
+T4	PROCEDURE 704 724	antikoagulační léčbě
+T5	PROCEDURE 851 894	Transtorakální echokardiografické vyšetření
+T6	PROCEDURE 896 899	TTE
+T7	PROCEDURE 965 975	ergometrií
+T8	PROCEDURE 1123 1153	elektrokardiografickým obrazem
+T9	PROCEDURE 1282 1304	antitrombotickou léčbu
+T10	PROCEDURE 1378 1381	TTE
+T11	PROCEDURE 1713 1738	Jícnová divertikulektomie
+T12	PROCEDURE 1741 1768	antirefluxní myokardiotomií
+T13	PROCEDURE 1860 1876	Cholecystektomie
+T14	PROCEDURE 1952 1964	Gastroskopie
+T15	PROCEDURE 1967 1979	kolonoskopie
+T16	PROCEDURE 3020 3037	Elektrokardiogram
+T17	PROCEDURE 3039 3042	EKG
+T18	PROCEDURE 3168 3184	echokardiografie
+T19	PROCEDURE 3314 3328	koronarografie
+T20	PROCEDURE 3533 3552	Fyzikální vyšetření
+T21	PROCEDURE 3642 3657	nosními brýlemi
+T22	PROCEDURE 3787 3803	Auskultace srdce
+T23	PROCEDURE 3840 3855	Auskultace plic
+T24	PROCEDURE 4114 4117	EKG
+T25	PROCEDURE 4293 4296	EKG
+T26	PROCEDURE 4300 4311	katetrizaci
+T27	PROCEDURE 4417 4420	EKG
+T28	PROCEDURE 4538 4550	RTG hrudníku
+T29	PROCEDURE 4983 4992	Koagulace
+T30	PROCEDURE 5118 5128	lipidogram
+T31	PROCEDURE 5239 5264	Mikrobiologické vyšetření
+T32	PROCEDURE 5266 5285	Sérologie SARS-CoV2
+T33	PROCEDURE 5298 5311	SARS-CoV2 PCR
+T34	PROCEDURE 5535 5561	kultivaci sakrálního vředu
+T35	PROCEDURE 5611 5625	Echokardiogram
+T36	PROCEDURE 6557 6571	Echokardiogram
+T37	PROCEDURE 6705 6719	koronarografie
+T38	PROCEDURE 6875 6902	selektivní katetrizaci cévy
+T39	PROCEDURE 7156 7218	společném kmeni byla provedena perkutánní koronární intervence
+T40	PROCEDURE 7220 7223	PCI
+T41	PROCEDURE 7227 7252	implantací stentu Synergy
+T42	PROCEDURE 7364 7416	přeexpanzi proximální části stentu pomocí NC balonku
+T43	PROCEDURE 7482 7510	Kapslová endoskopická studie
+T44	PROCEDURE 7777 7789	Gastroskopie
+T45	PROCEDURE 7792 7804	kolonoskopie
+T46	PROCEDURE 7887 7913	revaskularizačního zákroku
+T47	PROCEDURE 8063 8089	oxygenoterapie s FiO2 50 %
+T48	PROCEDURE 8559 8578	vazoaktivní podpory
+T49	PROCEDURE 8671 8698	kontrolu komorové frekvence
+T50	PROCEDURE 8700 8716	Echokardiografie
+T51	PROCEDURE 8762 8765	TTE
+T52	PROCEDURE 8985 9000	nosními brýlemi
+T53	PROCEDURE 9063 9083	fyzikálním vyšetření
+T54	PROCEDURE 9118 9137	forsírovaná diuréza
+T55	PROCEDURE 9138 9148	diuretikem
+T56	PROCEDURE 9287 9303	renálních funkcí
+T57	PROCEDURE 9403 9421	antibiotické léčby
+T58	PROCEDURE 9435 9462	PCR a sérologií na COVID-19
+T59	PROCEDURE 9564 9616	odebrány vzorky z tlakového vředu v sakrální oblasti
+T60	PROCEDURE 9803 9818	kultivaci sputa
+T61	PROCEDURE 9839 9851	antibiogramu
+T62	PROCEDURE 9861 9885	perorální antibioterapie
+T63	PROCEDURE 10245 10294	podány 2 transfuzní koncentráty červených krvinek
+T64	PROCEDURE 10464 10479	absolutní dietě
+T65	PROCEDURE 10557 10577	antikoagulační léčbě
+T66	PROCEDURE 10661 10682	protidestičkové léčby
+T67	PROCEDURE 10819 10839	kapslovým vyšetřením
+T68	PROCEDURE 11075 11087	gastroskopie
+T69	PROCEDURE 11088 11100	kolonoskopie
+T70	PROCEDURE 11103 11144	elektrokoagulaci angiodysplastických lézí
+T71	PROCEDURE 11488 11528	antikoagulancii s antagonisty vitaminu K
+T72	PROCEDURE 11538 11561	protidestičkovou léčbou
+T73	PROCEDURE 11680 11693	vyšetření GIT
+T74	PROCEDURE 11804 11838	Implantace lékového stentu do LMCA
+T75	PROCEDURE 11932 11959	transfuzi červených krvinek

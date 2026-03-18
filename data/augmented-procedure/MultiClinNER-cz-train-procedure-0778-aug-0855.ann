@@ -1,0 +1,31 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 312 337	testy na detekci ischemie
+T5	PROCEDURE 349 368	chirurgické zákroky
+T6	PROCEDURE 370 382	apendektomie
+T7	PROCEDURE 1345 1364	Fyzikální vyšetření
+T8	PROCEDURE 1570 1580	auskultaci
+T9	PROCEDURE 1747 1764	Elektrokardiogram
+T10	PROCEDURE 1904 1921	Laboratorní testy
+T11	PROCEDURE 1923 1932	biochemie
+T12	PROCEDURE 1961 1966	ionty
+T13	PROCEDURE 1978 1986	Hemogram
+T14	PROCEDURE 2040 2052	RTG hrudníku
+T15	PROCEDURE 2148 2179	Transtorakální echokardiografie
+T16	PROCEDURE 2758 2777	Srdeční katetrizace
+T17	PROCEDURE 2955 2966	aortografie
+T18	PROCEDURE 3035 3053	Koronární angio-CT
+T19	PROCEDURE 3486 3543	Dopplerovské ultrazvukové vyšetření supraaortálních kmenů
+T20	PROCEDURE 3821 3853	testu k detekci střední ischemie
+T21	PROCEDURE 3888 3904	zátěžového testu
+T22	PROCEDURE 4047 4050	EKG
+T23	PROCEDURE 4136 4150	koronarografii
+T24	PROCEDURE 4153 4166	zátěžový test
+T25	PROCEDURE 4183 4194	katetrizaci
+T26	PROCEDURE 4433 4461	koronární angio-CT vyšetření
+T27	PROCEDURE 4907 4928	operace této anomálie
+T28	PROCEDURE 5008 5015	disekce
+T29	PROCEDURE 5018 5052	reanostomóze pravé koronární tepny
+T30	PROCEDURE 5572 5594	Chirurgická intervence
+T31	PROCEDURE 5597 5661	reanastomózou pravé koronární tepny do aortální koronární dutiny

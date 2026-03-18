@@ -1,0 +1,62 @@
+T1	PROCEDURE 222 241	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 351 383	léčený perorálními antidiabetiky
+T3	PROCEDURE 498 515	Výměna generátoru
+T4	PROCEDURE 727 766	upgradu na tříkomorový kardiostimulátor
+T5	PROCEDURE 856 913	nočním kontinuálním pozitivním tlakem v dýchacích cestách
+T6	PROCEDURE 915 919	CPAP
+T7	PROCEDURE 983 995	Gastroskopie
+T8	PROCEDURE 998 1010	kolonoskopie
+T9	PROCEDURE 1033 1070	CT vyšetření hrudníku, břicha a pánve
+T10	PROCEDURE 1073 1092	jícnovou manometrii
+T11	PROCEDURE 1891 1899	diuretik
+T12	PROCEDURE 1927 1954	echokardiografickému nálezu
+T13	PROCEDURE 1957 1976	Fyzikální vyšetření
+T14	PROCEDURE 2055 2074	O2 přes nosní brýle
+T15	PROCEDURE 2220 2236	Auskultace srdce
+T16	PROCEDURE 2336 2351	Auskultace plic
+T17	PROCEDURE 2623 2640	Elektrokardiogram
+T18	PROCEDURE 2642 2645	EKG
+T19	PROCEDURE 2694 2745	komorovým vedením zprostředkovaným elektrostimulací
+T20	PROCEDURE 2848 2874	Rentgenový snímek hrudníku
+T21	PROCEDURE 3080 3092	Krevní obraz
+T22	PROCEDURE 3307 3316	Biochemie
+T23	PROCEDURE 3576 3585	Koagulace
+T24	PROCEDURE 3713 3735	Sériové kultivace krve
+T25	PROCEDURE 3829 3859	Bakteriální a virová sérologie
+T26	PROCEDURE 3872 3883	Autoimunita
+T27	PROCEDURE 3903 3924	revmatoidního faktoru
+T28	PROCEDURE 3969 3985	Markery hemolýzy
+T29	PROCEDURE 4036 4056	Aspirát kostní dřeně
+T30	PROCEDURE 4130 4155	Mikrobiologické kultivace
+T31	PROCEDURE 4158 4176	vyšetření parazitů
+T32	PROCEDURE 4188 4269	Kultivace resekovaného materiálu chlopně a explantovaného drátu kardiostimulátoru
+T33	PROCEDURE 4283 4323	CT hrudníku, břicha a pánve s kontrastem
+T34	PROCEDURE 5050 5083	Transezofageální echokardiografie
+T35	PROCEDURE 5085 5088	TEE
+T36	PROCEDURE 5092 5123	transtorakální echokardiografie
+T37	PROCEDURE 5125 5128	TTE
+T38	PROCEDURE 6413 6427	Koronarografie
+T39	PROCEDURE 6860 6897	CT vyšetření hrudníku, břicha a pánve
+T40	PROCEDURE 7103 7106	TTE
+T41	PROCEDURE 7365 7398	transezofageální echokardiografie
+T42	PROCEDURE 7446 7468	sériové krevní kultury
+T43	PROCEDURE 7480 7510	empirická antibiotická terapie
+T44	PROCEDURE 7781 7792	CT hrudníku
+T45	PROCEDURE 8339 8350	hematologii
+T46	PROCEDURE 8361 8408	léčba faktory stimulujícími kolonie granulocytů
+T47	PROCEDURE 8428 8455	odběr aspirátu kostní dřeně
+T48	PROCEDURE 8972 8986	koronarografie
+T49	PROCEDURE 9077 9104	chirurgické revaskularizaci
+T50	PROCEDURE 9114 9128	krevní kultury
+T51	PROCEDURE 9219 9230	sérologické
+T52	PROCEDURE 9243 9261	autoimunitní testy
+T53	PROCEDURE 9406 9434	vyšetření nukleární medicíny
+T54	PROCEDURE 9583 9641	mitrální a plicní chlopně nahrazeny biologickými protézami
+T55	PROCEDURE 9659 9709	odstraněny elektrody a generátor kardiostimulátoru
+T56	PROCEDURE 9712 9787	do AD, RV a LK byly implantovány epikardiální elektrody pro resynchronizaci
+T57	PROCEDURE 9790 9835	umístěním nového generátoru v pravém podžebří
+T58	PROCEDURE 9837 9852	Bypass přes LAD
+T59	PROCEDURE 9964 10010	perkutánní koronární intervence (PCI) přes LAD
+T60	PROCEDURE 9997 10000	PCI
+T61	PROCEDURE 10042 10104	chlopně a distální konec drátu byly odeslány na mikrobiologii.
+T62	PROCEDURE 10129 10155	kardiologickou resuscitaci

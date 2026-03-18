@@ -1,0 +1,20 @@
+T1	PROCEDURE 165 186	chirurgického zákroku
+T2	PROCEDURE 428 447	Fyzikální vyšetření
+T3	PROCEDURE 480 494	palpaci břicha
+T4	PROCEDURE 776 841	Sérologické vyšetření na hepatotropní viry, Brucellu a Echinokoka
+T5	PROCEDURE 855 877	sériové krevní kultury
+T6	PROCEDURE 890 908	nádorových markerů
+T7	PROCEDURE 938 954	Ultrazvuk břicha
+T8	PROCEDURE 1099 1153	břišně-pánevní počítačová tomografie (CT) s kontrastem
+T9	PROCEDURE 1263 1285	Aspirací tenkou jehlou
+T10	PROCEDURE 1327 1345	cytologický rozbor
+T11	PROCEDURE 1414 1439	Mikrobiologická kultivace
+T12	PROCEDURE 1442 1471	vyšetření parazitů z aspirátu
+T13	PROCEDURE 1498 1532	širokospektré antibiotické terapie
+T14	PROCEDURE 1575 1602	zavedení perkutánní drenáže
+T15	PROCEDURE 1685 1706	radiologické kontroly
+T16	PROCEDURE 1783 1795	kolonoskopie
+T17	PROCEDURE 1891 1919	anatomopatologické vyšetření
+T18	PROCEDURE 1960 1978	Rozšiřující studie
+T19	PROCEDURE 2052 2079	pravostranná hemikolektomie
+T20	PROCEDURE 2100 2123	adjuvantní chemoterapie

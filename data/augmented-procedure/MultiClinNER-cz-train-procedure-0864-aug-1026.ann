@@ -1,0 +1,37 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 145 153	Anamnéza
+T4	PROCEDURE 178 186	anamnézu
+T5	PROCEDURE 448 470	kardiologická anamnéza
+T6	PROCEDURE 489 497	anamnéza
+T7	PROCEDURE 620 653	lékovou balónkovou angioplastikou
+T8	PROCEDURE 1226 1245	Fyzikální vyšetření
+T9	PROCEDURE 1384 1400	Auskultace srdce
+T10	PROCEDURE 1450 1465	Auskultace plic
+T11	PROCEDURE 1548 1555	palpaci
+T12	PROCEDURE 1765 1782	elektrokardiogram
+T13	PROCEDURE 1784 1787	EKG
+T14	PROCEDURE 1928 1931	EKG
+T15	PROCEDURE 2125 2160	Přenosný rentgenový snímek hrudníku
+T16	PROCEDURE 2313 2327	koronarografie
+T17	PROCEDURE 2672 2703	perkutánní koronární intervence
+T18	PROCEDURE 2705 2708	PCI
+T19	PROCEDURE 2725 2762	predilataci semikompliantním balonkem
+T20	PROCEDURE 2775 2809	byl implantován sirolimusový stent
+T21	PROCEDURE 2867 2895	Echokardiografické vyšetření
+T22	PROCEDURE 3444 3461	laboratorní testy
+T23	PROCEDURE 3463 3475	Krevní obraz
+T24	PROCEDURE 3567 3576	Hemostáza
+T25	PROCEDURE 3601 3610	Biochemie
+T26	PROCEDURE 3901 3930	biomarkerů poškození myokardu
+T27	PROCEDURE 4021 4024	EKG
+T28	PROCEDURE 4168 4182	koronarografie
+T29	PROCEDURE 4210 4236	stentu implantovaného v CD
+T30	PROCEDURE 4238 4248	PCI na LAD
+T31	PROCEDURE 4312 4336	implantován lékový stent
+T32	PROCEDURE 4635 4649	koronarografie
+T33	PROCEDURE 4796 4826	konstantní farmakologickou PCI
+T34	PROCEDURE 4913 4926	angioplastice
+T35	PROCEDURE 5636 5692	angioplastice závažné léze střední přední sestupné tepny
+T36	PROCEDURE 5991 6042	Primární PCI se stentliberátorem uvolňujícím léčivo
+T37	PROCEDURE 6059 6117	Druhá ambulantní elektivní PCI na závažné lézi střední LAD

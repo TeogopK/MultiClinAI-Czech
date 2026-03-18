@@ -1,0 +1,39 @@
+T1	SYMPTOM 448 486	Pozitivní ergometrie při vysoké zátěži
+T2	SYMPTOM 1152 1168	bolesti na hrudi
+T3	SYMPTOM 1248 1265	centrálního tlaku
+T4	SYMPTOM 1287 1323	dušností vyvolanou minimální námahou
+T5	SYMPTOM 1422 1431	palpitace
+T6	SYMPTOM 1442 1459	sníženou diurézou
+T7	SYMPTOM 1465 1495	zvýšený obvod dolních končetin
+T8	SYMPTOM 1574 1583	Afebrilní
+T9	SYMPTOM 1628 1631	IVY
+T10	SYMPTOM 1647 1672	hepatojugulárního refluxu
+T11	SYMPTOM 1674 1700	Auskultace srdce: rytmická
+T12	SYMPTOM 1706 1713	šelestů
+T13	SYMPTOM 1734 1782	zachovalý vezikulární šelest bez přidaných zvuků
+T14	SYMPTOM 1784 1803	hypofonie na bazích
+T15	SYMPTOM 1819 1827	prasklin
+T16	SYMPTOM 1829 1880	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T17	SYMPTOM 1882 1908	Dolní končetiny: bez otoků
+T18	SYMPTOM 1957 1972	sinusový rytmus
+T19	SYMPTOM 2058 2093	rektifikace ST segmentu od V2 po V6
+T20	SYMPTOM 2262 2296	mediastinální struktury centrované
+T21	SYMPTOM 2298 2345	Kardioperikardiální silueta normální morfologie
+T22	SYMPTOM 2347 2376	Plicní hilae cévní morfologie
+T23	SYMPTOM 2378 2410	Volné kostodiafragmatické dutiny
+T24	SYMPTOM 2432 2474	známek aktivních pleuroparenchymových lézí
+T25	SYMPTOM 3004 3047	Sériové markery nekrózy myokardu: negativní
+T26	SYMPTOM 3465 3512	Test na okultní krvácení ve stolici: negativní.
+T27	SYMPTOM 3632 3659	Zachovaná systolická funkce
+T28	SYMPTOM 3741 3776	Normální transmitrální plnicí obraz
+T29	SYMPTOM 3869 3931	aortální chlopeň, sklerokalcifikovaná se zachovaným otevíráním
+T30	SYMPTOM 4085 4111	Vzestupná síň nedilatovaná
+T31	SYMPTOM 4120 4145	Nedilatovaná pravá komora
+T32	SYMPTOM 4258 4278	Tenká plicní chlopeň
+T33	SYMPTOM 5098 5150	Kolonoskopie a horní endoskopie: bez známek krvácení
+T34	SYMPTOM 5689 5734	zachovalou biventrikulární systolickou funkci
+T35	SYMPTOM 6127 6137	krvácivých
+T36	SYMPTOM 6298 6368	digestivní endoskopie bez dokumentace potenciálně krvácejících ložisek
+T37	SYMPTOM 6459 6467	krvácení
+T38	SYMPTOM 6566 6574	krvácení
+T39	SYMPTOM 6824 6842	klinické stabilitě

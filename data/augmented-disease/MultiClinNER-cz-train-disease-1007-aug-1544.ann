@@ -1,0 +1,56 @@
+T1	DISEASE 142 160	srdeční onemocnění
+T2	DISEASE 292 312	srdečním onemocněním
+T3	DISEASE 442 445	DCM
+T4	DISEASE 504 522	srdeční onemocnění
+T5	DISEASE 580 598	srdeční onemocnění
+T6	DISEASE 635 649	lékové alergie
+T7	DISEASE 651 665	Toxické návyky
+T8	DISEASE 667 674	nekuřák
+T9	DISEASE 677 684	nepiják
+T10	DISEASE 727 739	fibromyalgii
+T11	DISEASE 741 788	Chronická žilní nedostatečnost dolních končetin
+T12	DISEASE 814 838	Dilatační kardiomyopatie
+T13	DISEASE 952 962	těžká LVSD
+T14	DISEASE 1031 1047	těžká funkční MR
+T15	DISEASE 1049 1088	těžká funkční trikuspidální regurgitace
+T16	DISEASE 1100 1144	Plicní hypertenze (PH) nejméně středně těžká
+T17	DISEASE 1119 1121	PH
+T18	DISEASE 1156 1171	srdeční selhání
+T19	DISEASE 1368 1389	Kardiorenální syndrom
+T20	DISEASE 1587 1609	Blokáda levého raménka
+T21	DISEASE 1611 1615	LBBB
+T22	DISEASE 1725 1745	komorovými arytmiemi
+T23	DISEASE 1761 1781	komorové tachykardie
+T24	DISEASE 1783 1785	VT
+T25	DISEASE 1807 1822	Paroxysmální AF
+T26	DISEASE 2227 2229	KV
+T27	DISEASE 3696 3718	hluboké žilní trombózy
+T28	DISEASE 3720 3723	HŽT
+T29	DISEASE 5314 5346	monomorfní komorové extrasystoly
+T30	DISEASE 5406 5433	levá komora (LK) dilatovaná
+T31	DISEASE 5451 5479	těžkou systolickou dysfunkcí
+T32	DISEASE 5539 5604	Pravá komora (PK) mírně dilatovaná s mírnou systolickou dysfunkcí
+T33	DISEASE 5606 5640	Těžká funkční mitrální regurgitace
+T34	DISEASE 5642 5644	MR
+T35	DISEASE 5647 5687	Středně těžká trikuspidální insuficience
+T36	DISEASE 5689 5691	TI
+T37	DISEASE 5789 5810	aortální insuficience
+T38	DISEASE 5908 5953	středně těžká postkapilární plicní hypertenze
+T39	DISEASE 6190 6208	dekompenzovaném KV
+T40	DISEASE 6620 6666	středně těžkou postkapilární plicní hypertenzí
+T41	DISEASE 6747 6749	IC
+T42	DISEASE 6856 6871	srdeční choroby
+T43	DISEASE 7580 7596	srdečním selhání
+T44	DISEASE 7655 7658	CKD
+T45	DISEASE 7710 7734	kardiorenálním syndromem
+T46	DISEASE 7932 7953	katarálních projevech
+T47	DISEASE 8545 8561	těžkého infarktu
+T48	DISEASE 8667 8702	mírného až středně těžkého infarktu
+T49	DISEASE 9409 9517	Pokročilé chronické srdeční selhání CF III NYHA - INTERMACS 6 v důsledku familiární dilatační kardiomyopatie
+T50	DISEASE 9564 9575	těžkým LVSD
+T51	DISEASE 9666 9701	Těžká funkční mitrální insuficience
+T52	DISEASE 9704 9752	středně těžká funkční trikuspidální insuficience
+T53	DISEASE 9771 9816	Středně těžká postkapilární plicní hypertenze
+T54	DISEASE 9862 9867	NSMVT
+T55	DISEASE 9880 9907	Paroxyzmální fibrilace síní
+T56	DISEASE 9909 9976	Chronické selhání ledvin (G3A2) v důsledku kardiorenálního syndromu

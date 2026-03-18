@@ -1,0 +1,49 @@
+T1	DISEASE 127 141	toxické návyky
+T2	DISEASE 168 175	potratu
+T3	DISEASE 287 315	endocervikální adenokarcinom
+T4	DISEASE 666 703	inferolaterální subendokardiální lézi
+T5	DISEASE 791 835	akutní infarkt myokardu (AMI) bez elevace ST
+T6	DISEASE 816 819	AMI
+T7	DISEASE 1767 1804	inferolaterální subendokardiální léze
+T8	DISEASE 1808 1832	subepikardiální ischemií
+T9	DISEASE 2105 2125	Subepikardiální léze
+T10	DISEASE 2223 2287	Přední sestupná tepna (ADA) s difuzním postižením lumen a okluzí
+T11	DISEASE 2362 2388	spontánní disekci hematomu
+T12	DISEASE 2717 2746	koronární disekci s hematomem
+T13	DISEASE 3030 3069	disekcí ADA ve střední distální třetině
+T14	DISEASE 3463 3483	Subepikardiální léze
+T15	DISEASE 3525 3549	subepikardiální ischemií
+T16	DISEASE 3584 3605	subendokardiální léze
+T17	DISEASE 3624 3648	subepikardiální ischemií
+T18	DISEASE 3718 3741	intramurálního hematomu
+T19	DISEASE 3836 3865	LAD s intramurálním hematomem
+T20	DISEASE 4014 4042	Cx s intramurálním hematomem
+T21	DISEASE 4167 4210	Dominantní ACD, typ intramurálního hematomu
+T22	DISEASE 4468 4476	hematomu
+T23	DISEASE 4613 4621	trombóza
+T24	DISEASE 4747 4755	trombózy
+T25	DISEASE 4773 4784	Cx Trombóza
+T26	DISEASE 4987 4995	trombózy
+T27	DISEASE 5171 5178	disekce
+T28	DISEASE 5229 5236	disekce
+T29	DISEASE 5338 5353	angina pectoris
+T30	DISEASE 5394 5414	subepikardiální léze
+T31	DISEASE 5510 5543	spontánní disekce koronární tepny
+T32	DISEASE 5552 5600	muralním hematomem šířícím se z LMCA směrem k Cx
+T33	DISEASE 5805 5812	disekce
+T34	DISEASE 5885 5914	extrakoronárních cévních lézí
+T35	DISEASE 6035 6063	antifosfolipidového syndromu
+T36	DISEASE 6443 6463	subepikardiální léze
+T37	DISEASE 6480 6483	AIM
+T38	DISEASE 6521 6528	disekce
+T39	DISEASE 6556 6576	intramurální hematom
+T40	DISEASE 6610 6654	pseudookluzi marginální větve (culprit léze)
+T41	DISEASE 6880 6903	intramurálního hematomu
+T42	DISEASE 6983 6992	trombózou
+T43	DISEASE 7215 7274	Spontánní disekce koronární tepny v levém koronárním stromu
+T44	DISEASE 7286 7309	intramurálního hematomu
+T45	DISEASE 7312 7355	Akutní infarkt myokardu s přední elevací ST
+T46	DISEASE 7357 7390	Spontánní disekce koronární tepny
+T47	DISEASE 7580 7629	akutního infarktu myokardu s laterální elevací ST
+T48	DISEASE 7766 7804	extrakoronárních arteriálních anomálií
+T49	DISEASE 7806 7817	Prediabetes

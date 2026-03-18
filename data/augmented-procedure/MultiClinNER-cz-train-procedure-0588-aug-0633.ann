@@ -1,0 +1,12 @@
+T1	PROCEDURE 205 208	EKG
+T2	PROCEDURE 437 456	Fyzikální vyšetření
+T3	PROCEDURE 501 528	kardiopulmonální auskultaci
+T4	PROCEDURE 590 612	elektrokardiografickým
+T5	PROCEDURE 711 759	krevní testy s hemogramem, biochemie a koagulace
+T6	PROCEDURE 761 803	boční a posteroanteriorní rentgen hrudníku
+T7	PROCEDURE 810 839	echokardiografickém vyšetření
+T8	PROCEDURE 964 980	Holterův monitor
+T9	PROCEDURE 1101 1110	MRI srdce
+T10	PROCEDURE 1407 1420	betablokátory
+T11	PROCEDURE 1620 1634	implantaci ICD
+T12	PROCEDURE 1728 1750	kardiální rehabilitace

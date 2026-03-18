@@ -1,0 +1,30 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 1003 1012	sledování
+T4	PROCEDURE 1099 1118	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 1434 1448	oxygenoterapie
+T6	PROCEDURE 1454 1464	auskultaci
+T7	PROCEDURE 1596 1612	Vyšetření břicha
+T8	PROCEDURE 1774 1777	EKG
+T9	PROCEDURE 2009 2012	EKG
+T10	PROCEDURE 2016 2047	perkutánní koronární intervenci
+T11	PROCEDURE 2202 2214	Krevní testy
+T12	PROCEDURE 2313 2328	Lipidový profil
+T13	PROCEDURE 2498 2524	Markery poškození myokardu
+T14	PROCEDURE 2570 2578	Hemogram
+T15	PROCEDURE 2657 2677	koagulační vyšetření
+T16	PROCEDURE 2679 2705	Rentgenový snímek hrudníku
+T17	PROCEDURE 2846 2877	Transtorakální echokardiografie
+T18	PROCEDURE 3640 3654	Koronarografie
+T19	PROCEDURE 3934 3957	přímá implantace stentu
+T20	PROCEDURE 4402 4429	Sériové analytické kontroly
+T21	PROCEDURE 4641 4655	koronarografie
+T22	PROCEDURE 4779 4817	léze byla perkutánně revaskularizována
+T23	PROCEDURE 4824 4848	implantován lékový stent
+T24	PROCEDURE 4933 4950	elektrokardiogram
+T25	PROCEDURE 5034 5055	zobrazovací vyšetření
+T26	PROCEDURE 5057 5073	echokardiografie
+T27	PROCEDURE 5221 5241	koronární intervence
+T28	PROCEDURE 5368 5390	kardiální rehabilitace
+T29	PROCEDURE 5657 5736	Perkutánní koronární intervence (PCI) s přímým stentem uvolňujícím léčivo (DES)
+T30	PROCEDURE 5690 5693	PCI

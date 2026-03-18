@@ -1,0 +1,48 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 215 223	anamnéza
+T3	PROCEDURE 397 408	spirometrie
+T4	PROCEDURE 574 602	plastiku pravé tříselné kýly
+T5	PROCEDURE 621 657	retropubickou adenomectomii prostaty
+T6	PROCEDURE 944 960	operaci prostaty
+T7	PROCEDURE 1690 1709	Fyzikální vyšetření
+T8	PROCEDURE 1929 1945	auskultaci srdce
+T9	PROCEDURE 1973 1990	Plicní auskultace
+T10	PROCEDURE 2208 2225	Elektrokardiogram
+T11	PROCEDURE 2409 2429	Venózní krevní plyny
+T12	PROCEDURE 2476 2485	Biochemie
+T13	PROCEDURE 3002 3011	Koagulace
+T14	PROCEDURE 3052 3067	Lipidový profil
+T15	PROCEDURE 3234 3248	Hodnoty železa
+T16	PROCEDURE 3446 3455	Sérologie
+T17	PROCEDURE 3594 3620	Rentgenový snímek hrudníku
+T18	PROCEDURE 3731 3743	RTG hrudníku
+T19	PROCEDURE 3844 3873	Transtorakální echokardiogram
+T20	PROCEDURE 3875 3878	TTE
+T21	PROCEDURE 4055 4067	Dopplerovský
+T22	PROCEDURE 4677 4714	Zobrazení magnetickou rezonancí srdce
+T23	PROCEDURE 4716 4719	MRI
+T24	PROCEDURE 5156 5194	Katetrizace přes pravou radiální tepnu
+T25	PROCEDURE 5196 5215	Levá koronarografie
+T26	PROCEDURE 5533 5560	Pravá koronární angiografie
+T27	PROCEDURE 6106 6126	Koronární intervence
+T28	PROCEDURE 6136 6193	stenóza ve středním segmentu DC je predilatována balonkem
+T29	PROCEDURE 6223 6257	implantací farmakologického stentu
+T30	PROCEDURE 6260 6281	postdilatací balonkem
+T31	PROCEDURE 6346 6433	predilataci 4,0mm balonkem implantován další lékový stent nad popsanou ulcerovanou lézí
+T32	PROCEDURE 6624 6684	stenty byly postdilatovány balónkem 4,5 NC při vysokém tlaku
+T33	PROCEDURE 6848 6874	plánované operaci prostaty
+T34	PROCEDURE 6904 6920	diuretická léčba
+T35	PROCEDURE 7114 7135	neurohormonální léčba
+T36	PROCEDURE 7356 7372	renálních funkcí
+T37	PROCEDURE 7404 7432	Echokardiografické vyšetření
+T38	PROCEDURE 7552 7571	etiologické studium
+T39	PROCEDURE 7609 7617	anamnéza
+T40	PROCEDURE 7833 7844	katetrizace
+T41	PROCEDURE 7858 7884	magnetické rezonance srdce
+T42	PROCEDURE 7908 7927	srdeční katetrizace
+T43	PROCEDURE 7961 8035	pravé koronární tepny, do níž byly implantovány tři léky uvolňující stenty
+T44	PROCEDURE 8080 8106	magnetická rezonance srdce
+T45	PROCEDURE 8392 8420	test okultní krve ve stolici
+T46	PROCEDURE 9283 9304	neurohormonální léčba
+T47	PROCEDURE 9493 9519	perorální diuretické léčby
+T48	PROCEDURE 10412 10442	implantací tří lékových stentů

@@ -1,0 +1,73 @@
+T1	DISEASE 77 91	lékové alergie
+T2	DISEASE 93 118	Nesnášenlivost amlodipinu
+T3	DISEASE 142 156	toxické návyky
+T4	DISEASE 193 214	arteriální hypertenze
+T5	DISEASE 216 219	AHT
+T6	DISEASE 222 234	Dyslipidemie
+T7	DISEASE 242 250	diabetes
+T8	DISEASE 262 283	Mitrální insuficience
+T9	DISEASE 323 340	srdečního selhání
+T10	DISEASE 416 443	Paroxyzmální fibrilace síní
+T11	DISEASE 445 482	Mírně středně těžká plicní hypertenze
+T12	DISEASE 484 551	Mírně-středně těžká stenóza střední přední sestupné koronární tepny
+T13	DISEASE 553 600	Středně těžká chronická obstrukční plicní nemoc
+T14	DISEASE 610 626	bronchiektáziemi
+T15	DISEASE 641 657	Anxiózní syndrom
+T16	DISEASE 806 825	kognitivních poruch
+T17	DISEASE 893 915	roztroušenou sklerózou
+T18	DISEASE 969 987	mentální retardaci
+T19	DISEASE 1663 1700	parciální záchvaty v levé ruce a noze
+T20	DISEASE 1889 1928	kardioembolickou cévní mozkovou příhodu
+T21	DISEASE 2201 2236	trombu přilnutém k mitrální protéze
+T22	DISEASE 2267 2280	endokarditidy
+T23	DISEASE 2366 2383	infekční příznaky
+T24	DISEASE 2397 2410	endokarditidy
+T25	DISEASE 2852 2865	hepatomegalie
+T26	DISEASE 2901 2916	Janewayovy léze
+T27	DISEASE 2921 2938	Oslerovy nodozity
+T28	DISEASE 3308 3355	Atrioventrikulární blokáda (AVB) prvního stupně
+T29	DISEASE 3336 3339	AVB
+T30	DISEASE 3544 3573	Kalcifikované ateromy v aortě
+T31	DISEASE 3864 3889	plicní postižení COVID 19
+T32	DISEASE 3950 3985	kalcifikovanými jaterními granulomy
+T33	DISEASE 3986 4012	Degenerativní změny páteře
+T34	DISEASE 4015 4056	kalcifikující tendinitida v pravém rameni
+T35	DISEASE 4104 4112	COVID 19
+T36	DISEASE 4145 4176	akutní intrakraniální patologie
+T37	DISEASE 4559 4599	akutními/subakutními ischemickými lézemi
+T38	DISEASE 4638 4656	srdeční onemocnění
+T39	DISEASE 4692 4700	krvácení
+T40	DISEASE 5106 5176	mnohočetné supra- a infratentoriální ischemické léze, akutní/subakutní
+T41	DISEASE 5410 5474	nedilatovaná levá komora (LK) s mírnou koncentrickou hypertrofií
+T42	DISEASE 5476 5496	anomální pohyb septa
+T43	DISEASE 5560 5584	Mírná dilatace levé síně
+T44	DISEASE 5785 5870	Nestenotická fibrotická trichomysiální fibrózní aortální chlopeň s mírnou regurgitací
+T45	DISEASE 6017 6038	perikardiální výpotek
+T46	DISEASE 6083 6106	hypertrofie levé komory
+T47	DISEASE 6130 6157	mírná aortální insuficience
+T48	DISEASE 6330 6336	trombu
+T49	DISEASE 6632 6639	trombus
+T50	DISEASE 6897 6954	kalcifikovaných ateromových plátů v sestupné hrudní aortě
+T51	DISEASE 7100 7106	trombu
+T52	DISEASE 8210 8296	středně těžká excentrická mitrální insuficience (MI) v důsledku periprotetického úniku
+T53	DISEASE 8319 8351	trombem v zadní mitrální protéze
+T54	DISEASE 8560 8625	Disekce pleuroperikardiálních adhezí v důsledku předchozí operace
+T55	DISEASE 9215 9253	Při disekci byla poškozena pravá plíce
+T56	DISEASE 10206 10238	Mírná trikuspidální insuficience
+T57	DISEASE 10271 10298	Mírný perikardiální výpotek
+T58	DISEASE 10402 10415	endokarditidy
+T59	DISEASE 10446 10463	srdečního selhání
+T60	DISEASE 10549 10567	fokálních záchvatů
+T61	DISEASE 10715 10767	mnohočetné supra- a infratentoriální ischemické léze
+T62	DISEASE 10779 10787	krvácení
+T63	DISEASE 10825 10838	endokarditidy
+T64	DISEASE 11150 11175	mírný perivalvulární únik
+T65	DISEASE 11270 11277	infekce
+T66	DISEASE 11452 11465	endokarditidu
+T67	DISEASE 11477 11485	trombóze
+T68	DISEASE 11717 11721	FiSi
+T69	DISEASE 11989 12026	Kardioembolická cévní mozková příhoda
+T70	DISEASE 12029 12090	mnohočetným supra- a infratentoriálním ischemickým postižením
+T71	DISEASE 12092 12115	Fokální motorické krize
+T72	DISEASE 12172 12198	Trombóza chlopenní protézy
+T73	DISEASE 12200 12266	Periprotetický únik se středně závažnou nově vzniklou insuficiencí

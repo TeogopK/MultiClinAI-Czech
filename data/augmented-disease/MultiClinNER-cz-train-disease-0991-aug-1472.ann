@@ -1,0 +1,41 @@
+T1	DISEASE 125 142	bronchiální astma
+T2	DISEASE 192 216	povrchové žilní trombózy
+T3	DISEASE 682 709	hypertrofickou levou komoru
+T4	DISEASE 814 836	chlopenní srdeční vady
+T5	DISEASE 840 863	perikardiálního výpotku
+T6	DISEASE 882 909	ischemickou chorobu srdeční
+T7	DISEASE 1112 1135	hypertrofii levé komory
+T8	DISEASE 2557 2583	nestabilní anginu pectoris
+T9	DISEASE 2707 2744	středně těžká hypertrofie levé komory
+T10	DISEASE 2916 2940	Levá síň mírně rozšířená
+T11	DISEASE 2954 2985	Mírně zesílená mitrální chlopeň
+T12	DISEASE 2990 2993	SAM
+T13	DISEASE 3004 3030	mírné mitrální regurgitaci
+T14	DISEASE 3032 3034	MI
+T15	DISEASE 3109 3154	Mírná-středně těžká trikuspidální regurgitace
+T16	DISEASE 4493 4511	poškození myokardu
+T17	DISEASE 4763 4776	kardiomegalie
+T18	DISEASE 4872 4922	nedilatovaná LK s mírnou koncentrickou hypertrofií
+T19	DISEASE 5157 5189	SAM s mírnou protosystolickou MI
+T20	DISEASE 5191 5216	Mírně dilatovaná levá síň
+T21	DISEASE 5268 5300	Mírná trikuspidální insuficience
+T22	DISEASE 5336 5357	perikardiální výpotek
+T23	DISEASE 5423 5511	malá LK s mírnou koncentrickou parietální hypertrofií a středně těžkou hypertrofií septa
+T24	DISEASE 5776 5801	Levá síň mírně dilatovaná
+T25	DISEASE 5821 5869	kalcifikace zadního mitrálního anulu s mírnou MI
+T26	DISEASE 5871 5903	Mírná trikuspidální insuficience
+T27	DISEASE 5905 5907	TI
+T28	DISEASE 5962 5985	Mírná plicní hypertenze
+T29	DISEASE 5987 6018	Sklerotizovaná aortální chlopeň
+T30	DISEASE 6090 6111	perikardiální výpotek
+T31	DISEASE 6195 6221	nestabilní anginy pectoris
+T32	DISEASE 6289 6309	arteriální hypotenzi
+T33	DISEASE 6773 6786	tyreotoxikózy
+T34	DISEASE 7024 7036	hypertyreózy
+T35	DISEASE 7062 7077	lymfomonocytóze
+T36	DISEASE 7101 7129	Gravesovu-Basedowovu chorobu
+T37	DISEASE 7486 7504	tako-tsubo syndrom
+T38	DISEASE 7523 7544	primární hypertyreózy
+T39	DISEASE 7693 7717	námahové anginy pectoris
+T40	DISEASE 7821 7874	Tako-tsubo syndrom sekundární k primární hypertyreóze
+T41	DISEASE 7889 7917	Gravesovu-Basedowovu chorobu

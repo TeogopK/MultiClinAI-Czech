@@ -1,0 +1,49 @@
+T1	DISEASE 97 107	hypertenze
+T2	DISEASE 109 134	diabetes mellitus 2. typu
+T3	DISEASE 136 148	bývalý kuřák
+T4	DISEASE 150 177	Paroxyzmální fibrilace síní
+T5	DISEASE 223 256	Chronická obstrukční plicní nemoc
+T6	DISEASE 258 263	CHOPN
+T7	DISEASE 266 287	Cévní mozková příhoda
+T8	DISEASE 315 390	Chronické onemocnění ledvin ve stadiu 3a (sekundární diabetická nefropatie)
+T9	DISEASE 392 431	Hluboká žilní trombóza dolních končetin
+T10	DISEASE 707 731	stabilní anginu pectoris
+T11	DISEASE 998 1005	synkopa
+T12	DISEASE 1181 1188	jizvení
+T13	DISEASE 1591 1613	hluboké žilní trombózy
+T14	DISEASE 1615 1618	DVT
+T15	DISEASE 1743 1766	blokádou levého raménka
+T16	DISEASE 1768 1772	LBBB
+T17	DISEASE 2452 2457	jizvy
+T18	DISEASE 2512 2541	vícesměrová koronární choroba
+T19	DISEASE 2543 2589	Chronický uzávěr střední pravé koronární tepny
+T20	DISEASE 2597 2655	Těžká ateromatóza proximálně-střední přední sestupné tepny
+T21	DISEASE 2749 2820	Těžká ateromatóza proximální cirkumflexní tepny (Cx) - první tupý okraj
+T22	DISEASE 2862 2884	Akutní trombóza stentu
+T23	DISEASE 2927 2956	trombóza stentu proximální Cx
+T24	DISEASE 3137 3182	Středně těžká ischemická mitrální regurgitace
+T25	DISEASE 3242 3257	anginy pectoris
+T26	DISEASE 3260 3278	komorové dysfunkce
+T27	DISEASE 3537 3559	lézi v proximálním LAD
+T28	DISEASE 3561 3589	středně těžkou lézi v Cx-OM1
+T29	DISEASE 3592 3613	chronický uzávěr LMCA
+T30	DISEASE 3758 3820	periprocedurální AMI v důsledku hyperakutní trombózy stentu Cx
+T31	DISEASE 3910 3936	akutního srdečního selhání
+T32	DISEASE 3938 3984	akutního plicního edému s arteriální hypotenzí
+T33	DISEASE 4194 4204	nefropatií
+T34	DISEASE 4291 4322	monomorfní komorové tachykardie
+T35	DISEASE 4324 4328	SMVT
+T36	DISEASE 4360 4391	nesetrvalé komorové tachykardii
+T37	DISEASE 4393 4397	NSVT
+T38	DISEASE 4512 4530	trombóza Cx stentu
+T39	DISEASE 4749 4756	arytmií
+T40	DISEASE 5133 5159	Ischemická choroba srdeční
+T41	DISEASE 5161 5250	stabilní námahová angina pectoris CCS třídy II se středně těžkou systolickou dysfunkcí LK
+T42	DISEASE 5252 5279	Paroxyzmální fibrilace síní
+T43	DISEASE 5312 5335	Třícípá koronární nemoc
+T44	DISEASE 5374 5438	Periprocedurální AMI v důsledku hyperakutní trombózy stentu v Cx
+T45	DISEASE 5440 5458	Akutní plicní edém
+T46	DISEASE 5468 5472	SMVT
+T47	DISEASE 5489 5519	subakutní trombózy stentu v Cx
+T48	DISEASE 5521 5550	Těžká systolická dysfunkce LK
+T49	DISEASE 5552 5583	Akutní chronické selhání ledvin

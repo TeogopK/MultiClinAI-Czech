@@ -1,0 +1,47 @@
+T1	SYMPTOM 267 295	elektrokardiografických změn
+T2	SYMPTOM 789 805	bolesti na hrudi
+T3	SYMPTOM 906 944	negativním nálezem inferolaterálního T
+T4	SYMPTOM 967 982	zachovanou LVEF
+T5	SYMPTOM 988 1020	segmentálních změn kontraktility
+T6	SYMPTOM 1141 1214	ergometrie s negativním výsledkem na ischemii myokardu a komorové arytmie
+T7	SYMPTOM 1585 1594	palpitací
+T8	SYMPTOM 1791 1807	sinusového rytmu
+T9	SYMPTOM 1984 1998	asymptomatický
+T10	SYMPTOM 2003 2018	sinusovém rytmu
+T11	SYMPTOM 2038 2078	negativními inferolaterálními T-segmenty
+T12	SYMPTOM 2479 2493	asymptomatický
+T13	SYMPTOM 2513 2522	palpitací
+T14	SYMPTOM 2532 2549	námahovou dušnost
+T15	SYMPTOM 2696 2754	negativní T vlnou v prekordiálních svodech a dolní oblasti
+T16	SYMPTOM 2898 2953	s přítomností v apikální úrovni větší tloušťky myokardu
+T17	SYMPTOM 2968 3019	se systolickým uzávěrem v morfologii "pikového esa"
+T18	SYMPTOM 3029 3070	hypokinezí nejvyšších apikálních segmentů
+T19	SYMPTOM 3102 3129	intraventrikulární gradient
+T20	SYMPTOM 3449 3472	Přijatelný celkový stav
+T21	SYMPTOM 3474 3491	Eupnoický v klidu
+T22	SYMPTOM 3587 3628	Auskultace srdce: akce srdeční pravidelná
+T23	SYMPTOM 3656 3674	slyšitelné šelesty
+T24	SYMPTOM 3713 3731	dýchání alveolární
+T25	SYMPTOM 3733 3756	bez vedlejších fenomenů
+T26	SYMPTOM 3758 3786	Dolní končetiny: žádné otoky
+T27	SYMPTOM 3828 3865	Distální pulzy zachovány a symetrické
+T28	SYMPTOM 3908 3991	levá komora (LK) není dilatovaná, se zachovanou globální i segmentální pohyblivostí
+T29	SYMPTOM 4166 4190	Pravá komora je normální
+T30	SYMPTOM 4192 4257	V pozdní enhancement sekvenci nebyly pozorovány žádné abnormality
+T31	SYMPTOM 4351 4359	Úzké QRS
+T32	SYMPTOM 4424 4516	bifázické T ve V1-V2, negativní v I, II, III, aVF a hluboké a asymetrické negativní ve V3-V6
+T33	SYMPTOM 4520 4551	rektifikací ST v těchto svodech
+T34	SYMPTOM 4595 4619	nedilatovaná levá komora
+T35	SYMPTOM 4695 4746	v apikální úrovni je patrná větší tloušťka myokardu
+T36	SYMPTOM 4765 4813	systolickým uzávěrem v morfologii "pikového esa"
+T37	SYMPTOM 4816 4864	mírnou hypokinezí nejvyšších apikálních segmentů
+T38	SYMPTOM 4951 4970	postižením myokardu
+T39	SYMPTOM 5132 5162	Zachovaná systolická funkce LK
+T40	SYMPTOM 5179 5233	Diastolická funkce LK a systolická funkce RV beze změn
+T41	SYMPTOM 5261 5285	nedilatovaná levá komora
+T42	SYMPTOM 5524 5578	vykazuje levá komora typickou morfologii "pikového esa
+T43	SYMPTOM 5689 5710	Pravá komora bez změn
+T44	SYMPTOM 5764 5780	perfuzní defekty
+T45	SYMPTOM 5973 5997	nedilatované levé komory
+T46	SYMPTOM 6166 6223	levá komora vykazovala typickou morfologii "pikového esa"
+T47	SYMPTOM 6440 6454	asymptomatický

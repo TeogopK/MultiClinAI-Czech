@@ -1,0 +1,15 @@
+T1	PROCEDURE 109 120	hemodialýze
+T2	PROCEDURE 205 216	transfuzemi
+T3	PROCEDURE 247 287	transplantaci ledviny od zemřelého dárce
+T4	PROCEDURE 358 406	indukce alemtuzumabem a bolusy metylprednisolonu
+T5	PROCEDURE 489 504	renálního štěpu
+T6	PROCEDURE 534 541	operace
+T7	PROCEDURE 886 899	Doppler štěpu
+T8	PROCEDURE 1046 1055	transfuzí
+T9	PROCEDURE 1071 1082	hemodialýzy
+T10	PROCEDURE 1108 1131	biopsie renálního štěpu
+T11	PROCEDURE 1445 1476	pulzní léčba metylprednisolonem
+T12	PROCEDURE 1478 1491	plazmaferézou
+T13	PROCEDURE 1521 1539	výměnnou transfuzí
+T14	PROCEDURE 1602 1615	transplantaci
+T15	PROCEDURE 1653 1674	náhradní léčba ledvin

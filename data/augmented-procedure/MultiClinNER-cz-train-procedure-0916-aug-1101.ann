@@ -1,0 +1,53 @@
+T1	PROCEDURE 183 209	stomatologickou manipulaci
+T2	PROCEDURE 211 238	osseointegrované implantáty
+T3	PROCEDURE 242 250	Anamnéza
+T4	PROCEDURE 274 293	fyzikální vyšetření
+T5	PROCEDURE 309 317	anamnéza
+T6	PROCEDURE 385 405	chirurgická anamnéza
+T7	PROCEDURE 435 447	Krevní testy
+T8	PROCEDURE 1105 1124	Fyzikální vyšetření
+T9	PROCEDURE 1273 1289	Auskultace srdce
+T10	PROCEDURE 1405 1420	Auskultace plic
+T11	PROCEDURE 1604 1626	Neurologické vyšetření
+T12	PROCEDURE 1858 1870	Krevní testy
+T13	PROCEDURE 1939 1944	ionty
+T14	PROCEDURE 2052 2066	jaterní funkce
+T15	PROCEDURE 2137 2145	hemogram
+T16	PROCEDURE 2259 2262	EKG
+T17	PROCEDURE 2361 2373	RTG hrudníku
+T18	PROCEDURE 2464 2472	CT mozku
+T19	PROCEDURE 2671 2691	Torakoabdominální CT
+T20	PROCEDURE 2771 2793	Transkraniální doppler
+T21	PROCEDURE 2796 2830	echo-doppler supraaortálních kmenů
+T22	PROCEDURE 2856 2871	Lumbální punkce
+T23	PROCEDURE 2873 2900	biochemie mozkomíšního moku
+T24	PROCEDURE 2914 2941	Sérologie mozkomíšního moku
+T25	PROCEDURE 2979 2996	Mikrobiologie CSF
+T26	PROCEDURE 2998 3013	CSF podle Grama
+T27	PROCEDURE 3053 3106	DNA viru herpes simplex a varicella zoster pomocí PCR
+T28	PROCEDURE 3120 3141	Sérologie séra/plazmy
+T29	PROCEDURE 3261 3274	Mikrobiologie
+T30	PROCEDURE 3276 3290	Kultivace krve
+T31	PROCEDURE 3482 3493	antibiotika
+T32	PROCEDURE 3495 3509	Kultivace moči
+T33	PROCEDURE 3524 3574	Transtorakální a transezofageální echokardiografie
+T34	PROCEDURE 4214 4240	echokardiografickém nálezu
+T35	PROCEDURE 4583 4605	neurologických testech
+T36	PROCEDURE 5201 5210	sledování
+T37	PROCEDURE 5395 5409	krevní kultuře
+T38	PROCEDURE 5458 5486	empirická antibiotická léčba
+T39	PROCEDURE 5692 5710	krevních kulturách
+T40	PROCEDURE 5795 5813	antibiotické léčby
+T41	PROCEDURE 5957 5975	antibiotický režim
+T42	PROCEDURE 6040 6054	krevní kultuře
+T43	PROCEDURE 6091 6111	antibiotická terapie
+T44	PROCEDURE 6129 6147	antibiotické léčby
+T45	PROCEDURE 6166 6197	transezofageální echokardiogram
+T46	PROCEDURE 6371 6389	antibiotické léčby
+T47	PROCEDURE 6437 6492	mitrální chlopeň nahrazena mechanickou protézou St Jude
+T48	PROCEDURE 6551 6557	zákrok
+T49	PROCEDURE 6709 6729	mechanické ventilace
+T50	PROCEDURE 6832 6850	antibiotické léčby
+T51	PROCEDURE 6901 6914	mikrobiologie
+T52	PROCEDURE 6954 6968	kultivací krve
+T53	PROCEDURE 7073 7102	transtorakální echokardiogram

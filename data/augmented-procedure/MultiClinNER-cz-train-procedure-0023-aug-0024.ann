@@ -1,0 +1,22 @@
+T1	PROCEDURE 513 533	vazokonstrikční léky
+T2	PROCEDURE 535 554	Fyzikální vyšetření
+T3	PROCEDURE 918 944	Kardiopulmonální vyšetření
+T4	PROCEDURE 998 1056	doplňujících testů, analytických a zobrazovacích vyšetření
+T5	PROCEDURE 1058 1070	Krevní obraz
+T6	PROCEDURE 1072 1083	elektrolytů
+T7	PROCEDURE 1085 1094	koagulace
+T8	PROCEDURE 1096 1110	jaterní funkce
+T9	PROCEDURE 1112 1126	renální funkce
+T10	PROCEDURE 1128 1151	arteriální krevní plyny
+T11	PROCEDURE 1153 1167	vyšetření moči
+T12	PROCEDURE 1169 1200	rychlost sedimentace erytrocytů
+T13	PROCEDURE 1202 1221	hladiny komplementu
+T14	PROCEDURE 1223 1245	hladiny imunoglobulinů
+T15	PROCEDURE 1247 1269	hladiny kryoaglutininů
+T16	PROCEDURE 1271 1292	hladiny kryoglobulinů
+T17	PROCEDURE 1295 1313	nádorových markerů
+T18	PROCEDURE 1329 1358	Vyšetření funkce štítné žlázy
+T19	PROCEDURE 1465 1498	Sérologie HBV, HCV, HIV a syfilis
+T20	PROCEDURE 1516 1538	Imunologické vyšetření
+T21	PROCEDURE 1702 1713	CT hrudníku
+T22	PROCEDURE 1945 1972	perorálními kortikosteroidy

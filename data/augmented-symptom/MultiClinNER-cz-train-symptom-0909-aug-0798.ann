@@ -1,0 +1,66 @@
+T1	SYMPTOM 919 963	centrální bolest v hrudníku podobnou štípání
+T2	SYMPTOM 1053 1065	noční pocení
+T3	SYMPTOM 1067 1079	artromyalgie
+T4	SYMPTOM 1081 1088	astenii
+T5	SYMPTOM 1091 1109	dystermické pocity
+T6	SYMPTOM 1112 1120	horečkou
+T7	SYMPTOM 1239 1261	změny střevních návyků
+T8	SYMPTOM 1294 1309	krev ve stolici
+T9	SYMPTOM 1407 1444	zvýšené biomarkery poškození myokardu
+T10	SYMPTOM 1720 1749	Jugulární žilní tlak normální
+T11	SYMPTOM 1769 1777	rytmická
+T12	SYMPTOM 1783 1790	šelestů
+T13	SYMPTOM 1796 1815	patologických zvuků
+T14	SYMPTOM 1834 1852	alveolární dýchání
+T15	SYMPTOM 1857 1886	vedlejších dechových fenoménů
+T16	SYMPTOM 1888 1943	Břicho: měkké a stlačitelné, při palpaci není bolestivé
+T17	SYMPTOM 1949 1955	útvarů
+T18	SYMPTOM 1961 1976	zvětšení orgánů
+T19	SYMPTOM 1978 2005	Blumberg a Murphy negativní
+T20	SYMPTOM 2007 2029	Končetiny: žádné otoky
+T21	SYMPTOM 2048 2086	periferní pulzy zachovány a symetrické
+T22	SYMPTOM 2146 2161	sinusový rytmus
+T23	SYMPTOM 2214 2246	minimální sestup J bodu ve V3-V6
+T24	SYMPTOM 2248 2267	plochá vlna T v aVF
+T25	SYMPTOM 2285 2300	sinusový rytmus
+T26	SYMPTOM 2352 2372	repolarizačních změn
+T27	SYMPTOM 2401 2418	CTI mírně zvýšené
+T28	SYMPTOM 2424 2452	plicních infiltrátů nebo mas
+T29	SYMPTOM 2458 2486	štípání kostofrenického sinu
+T30	SYMPTOM 2499 2513	žilní kongesce
+T31	SYMPTOM 2927 2986	eozinofilů se změněnou distribucí cytoplazmatické granulace
+T32	SYMPTOM 4222 4253	negativní imunofluorescence ANA
+T33	SYMPTOM 4255 4275	negativní IFA vzorec
+T34	SYMPTOM 4315 4344	negativní přímý Coombsův test
+T35	SYMPTOM 4589 4605	monoklonální pík
+T36	SYMPTOM 4795 4838	antiStrongyloides stercolaris IgG negativní
+T37	SYMPTOM 4845 4869	negativní kultivace krve
+T38	SYMPTOM 4871 4898	negativní kultivace stolice
+T39	SYMPTOM 4900 4948	negativní legionelová a pneumokoková antigenurie
+T40	SYMPTOM 4950 4964	negativní IGRA
+T41	SYMPTOM 5262 5307	obě komory normálního průměru a kontraktility
+T42	SYMPTOM 5334 5361	normální diastolická funkce
+T43	SYMPTOM 5363 5384	Normální plnicí tlaky
+T44	SYMPTOM 5386 5405	Normální LA a aorta
+T45	SYMPTOM 5421 5464	předního mitrálního lístku, bez regurgitace
+T46	SYMPTOM 5480 5492	zvýšeném PAP
+T47	SYMPTOM 5601 5613	Normální IVC
+T48	SYMPTOM 5628 5654	hemodynamické kompromitace
+T49	SYMPTOM 5672 5739	levá komora normálního průměru, objemu a globální systolické funkce
+T50	SYMPTOM 5747 5778	změny segmentální kontraktility
+T51	SYMPTOM 5788 5815	Předsíně normální velikosti
+T52	SYMPTOM 5817 5844	Normální diastolický vzorec
+T53	SYMPTOM 5892 5956	Pravá komora normálního průměru se zachovanou systolickou funkcí
+T54	SYMPTOM 6050 6074	Normální dolní dutá žíla
+T55	SYMPTOM 6334 6358	nedilatovaná levá komora
+T56	SYMPTOM 6425 6454	zachovanou systolickou funkcí
+T57	SYMPTOM 6492 6517	Nedilatovaná pravá komora
+T58	SYMPTOM 6539 6564	dobrou systolickou funkcí
+T59	SYMPTOM 6602 6619	Normální předsíně
+T60	SYMPTOM 6697 6724	zpoždění perfuze ve vrcholu
+T61	SYMPTOM 6855 6906	Pozdní transmurální gadoliniové zesílení ve vrcholu
+T62	SYMPTOM 8717 8739	hemodynamicky stabilní
+T63	SYMPTOM 8806 8818	artromyalgie
+T64	SYMPTOM 8820 8827	horečka
+T65	SYMPTOM 8884 8912	adekvátní toleranci k pohybu
+T66	SYMPTOM 8922 8936	asymptomatický

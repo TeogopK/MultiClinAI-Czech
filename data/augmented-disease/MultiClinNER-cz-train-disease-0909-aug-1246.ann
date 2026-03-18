@@ -1,0 +1,56 @@
+T1	DISEASE 69 76	Alergie
+T2	DISEASE 87 112	nesnášenlivost penicilinu
+T3	DISEASE 114 152	synkopa u mladistvých po IM penicilinu
+T4	DISEASE 155 180	toxodermie s ondasetronem
+T5	DISEASE 223 233	hypertenze
+T6	DISEASE 235 247	Dyslipidemie
+T7	DISEASE 255 272	diabetes mellitus
+T8	DISEASE 280 287	nekuřák
+T9	DISEASE 295 307	alkoholismus
+T10	DISEASE 309 316	Nadváha
+T11	DISEASE 374 395	Nososinusová polypóza
+T12	DISEASE 398 472	triádě ASA (astma, nosní polypóza a intolerance kyseliny acetylsalicylové)
+T13	DISEASE 410 415	astma
+T14	DISEASE 417 431	nosní polypóza
+T15	DISEASE 434 471	intolerance kyseliny acetylsalicylové
+T16	DISEASE 474 482	Rinitida
+T17	DISEASE 485 517	chronickou ototubaritidou vpravo
+T18	DISEASE 520 547	chronickou hypereozinofilií
+T19	DISEASE 549 571	Adenokarcinom prostaty
+T20	DISEASE 703 737	adenopatie levé paraaortální části
+T21	DISEASE 751 764	relaps nádoru
+T22	DISEASE 1169 1192	pre-synkopální příznaky
+T23	DISEASE 1423 1441	poškození myokardu
+T24	DISEASE 1483 1518	středně těžký perikardiální výpotek
+T25	DISEASE 1585 1597	myokarditidu
+T26	DISEASE 2085 2094	flebitidy
+T27	DISEASE 3949 3967	poškození myokardu
+T28	DISEASE 5390 5430	Mírný prolaps předního mitrálního lístku
+T29	DISEASE 5477 5504	Mírný perikardiální výpotek
+T30	DISEASE 5851 5873	chlopenní srdeční vady
+T31	DISEASE 5941 5972	Mírná trikuspidální regurgitace
+T32	DISEASE 6059 6103	Mírný až středně těžký perikardiální výpotek
+T33	DISEASE 6631 6646	edém ve vrcholu
+T34	DISEASE 6709 6753	Mírný až středně těžký perikardiální výpotek
+T35	DISEASE 6952 6978	intraventrikulární trombus
+T36	DISEASE 7048 7109	hypereozinofilie sekundárně způsobená nazosinusální polypózou
+T37	DISEASE 7111 7129	syndrom ASA triády
+T38	DISEASE 7285 7322	alteraci fúzních genů (tyrozinkináza)
+T39	DISEASE 7404 7453	eozinofilní endomyokarditidou (nebo Loefflerovou)
+T40	DISEASE 7456 7483	intraventrikulárního trombu
+T41	DISEASE 7642 7665	perikardiálního výpotku
+T42	DISEASE 7806 7886	erytematózním exantému s centrálním projasněním zahrnujícím obě tříselné flexury
+T43	DISEASE 7930 7936	SDRIFE
+T44	DISEASE 7938 8012	symetrický intertriginózní a flexurální exantém související s podáním léku
+T45	DISEASE 8130 8153	perikardiálního výpotku
+T46	DISEASE 8320 8379	idiopatickým hypereozinofilním syndromem s postižením srdce
+T47	DISEASE 8381 8409	eozinofilní endomyokarditida
+T48	DISEASE 8728 8746	arytmických příhod
+T49	DISEASE 8761 8787	příznaků podobných chřipce
+T50	DISEASE 9348 9390	Eozinofilní nebo Loefflerova endokarditida
+T51	DISEASE 9392 9418	Intraventrikulární trombus
+T52	DISEASE 9420 9444	Hypereozinofilní syndrom
+T53	DISEASE 9446 9456	ASA triáda
+T54	DISEASE 9458 9482	Enoxaparinová toxodermie
+T55	DISEASE 9484 9490	SDRIFE
+T56	DISEASE 9493 9515	Adenokarcinom prostaty

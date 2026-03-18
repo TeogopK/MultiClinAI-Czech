@@ -1,0 +1,56 @@
+T1	DISEASE 87 101	lékové alergie
+T2	DISEASE 109 123	toxické návyky
+T3	DISEASE 160 170	hypertenze
+T4	DISEASE 173 185	dyslipidémie
+T5	DISEASE 187 208	Trvalá fibrilace síní
+T6	DISEASE 210 214	FiSi
+T7	DISEASE 373 388	angina pectoris
+T8	DISEASE 1357 1413	trofické poruchy v důsledku chronické žilní insuficience
+T9	DISEASE 1537 1541	FiSi
+T10	DISEASE 2418 2467	s hypertrofií v úrovni interventrikulárního septa
+T11	DISEASE 2680 2774	Trojcípá aortální chlopeň, sklerokalcifikovaná, se zachovaným otevíráním a mírnou insuficiencí
+T12	DISEASE 2776 2861	Sklerokalcifikovaná mitrální chlopeň s restrikcí zadního lístku a mírnou insuficiencí
+T13	DISEASE 2863 2890	Středně dilatovaná levá síň
+T14	DISEASE 2943 2975	Mírná trikuspidální insuficience
+T15	DISEASE 3061 3078	plicní hypertenzi
+T16	DISEASE 3086 3107	perikardiální výpotek
+T17	DISEASE 3189 3193	FiSi
+T18	DISEASE 3452 3495	Disekce distální přední sestupné tepny (DA)
+T19	DISEASE 3823 3865	Bazální přední septum s těžkou hypertrofií
+T20	DISEASE 4021 4036	pseudoaneuryzma
+T21	DISEASE 4104 4145	Mírná-středně těžká mitrální insuficience
+T22	DISEASE 4147 4196	Mírná až středně těžká trikuspidální insuficience
+T23	DISEASE 4326 4347	aortální insuficience
+T24	DISEASE 4390 4411	perikardiální výpotek
+T25	DISEASE 4564 4600	Aneuryzma a apikální pseudoaneuryzma
+T26	DISEASE 4665 4686	perikardiální výpotek
+T27	DISEASE 4698 4715	pleurální výpotek
+T28	DISEASE 4718 4765	subsegmentální atelektáza v levém dolním laloku
+T29	DISEASE 4787 4791	FiSi
+T30	DISEASE 4938 4954	anginou pectoris
+T31	DISEASE 5074 5092	tako-tsubo syndrom
+T32	DISEASE 5130 5136	NSTEMI
+T33	DISEASE 5481 5499	arytmických příhod
+T34	DISEASE 5924 5989	spontánní disekci v úrovni distálního LAD s velmi distální okluzí
+T35	DISEASE 6411 6432	sinusovou tachykardii
+T36	DISEASE 6435 6444	hypotenzí
+T37	DISEASE 6555 6576	perikardiální výpotek
+T38	DISEASE 6646 6692	srdeční tamponádu sekundární k srdeční ruptuře
+T39	DISEASE 7125 7133	krvácení
+T40	DISEASE 8334 8349	těžké hypotenze
+T41	DISEASE 8468 8514	srdeční tamponádu sekundárně vzniklou výpotkem
+T42	DISEASE 8528 8551	sraženin v pravé komoře
+T43	DISEASE 8743 8789	apikální roztržení s hojným aktivním krvácením
+T44	DISEASE 8895 8921	těžká arteriální hypotenze
+T45	DISEASE 9497 9514	pseudoaneuryzmatu
+T46	DISEASE 9686 9695	aneuryzma
+T47	DISEASE 9698 9753	apikální a dolní apikální polylobulární pseudoaneuryzma
+T48	DISEASE 10465 10477	přední STEMI
+T49	DISEASE 10479 10534	Spontánní distální disekce LAD s uzávěrem distální cévy
+T50	DISEASE 10629 10646	srdeční tamponády
+T51	DISEASE 10658 10689	ruptury volné stěny levé komory
+T52	DISEASE 10737 10753	Pseudonaneurysma
+T53	DISEASE 10756 10805	apikální a dolní apikální polylobulární aneurysma
+T54	DISEASE 10827 10854	Těžké akutní selhání ledvin
+T55	DISEASE 10924 10945	Arteriální hypertenze
+T56	DISEASE 10947 10959	Dyslipidemie

@@ -1,0 +1,67 @@
+T1	SYMPTOM 382 390	horečkou
+T2	SYMPTOM 459 487	bolesti břicha v mezogastriu
+T3	SYMPTOM 614 634	ztrátě chuti k jídlu
+T4	SYMPTOM 644 653	nevolnost
+T5	SYMPTOM 659 667	zvracení
+T6	SYMPTOM 669 684	změnu hmotnosti
+T7	SYMPTOM 700 708	krvácení
+T8	SYMPTOM 714 729	močové příznaky
+T9	SYMPTOM 847 853	vědomí
+T10	SYMPTOM 855 866	orientovaný
+T11	SYMPTOM 885 894	hydratace
+T12	SYMPTOM 897 904	perfuze
+T13	SYMPTOM 912 929	v klidu eupnoický
+T14	SYMPTOM 936 957	neurologické fokality
+T15	SYMPTOM 959 1017	Auskultace srdce a plic neprokázala žádný relevantní nález
+T16	SYMPTOM 1019 1084	Břicho bylo měkké, stlačitelné, s přítomnými hydroaerickými zvuky
+T17	SYMPTOM 1090 1105	hmatných útvarů
+T18	SYMPTOM 1111 1119	zvětšení
+T19	SYMPTOM 1123 1173	intenzivní bolestí při palpaci pravé kyčelní jamky
+T20	SYMPTOM 1190 1213	peritoneálního dráždění
+T21	SYMPTOM 1651 1662	leukocytózu
+T22	SYMPTOM 1687 1698	neutrofilií
+T23	SYMPTOM 1956 1995	PCR na SARS-CoV-2, která byla pozitivní
+T24	SYMPTOM 2112 2136	normální játra a slezinu
+T25	SYMPTOM 2169 2207	žlučník normální velikosti, alliasický
+T26	SYMPTOM 2272 2307	Slinivka břišní bez významných změn
+T27	SYMPTOM 2309 2335	Ledviny normální velikosti
+T28	SYMPTOM 2374 2450	V céku, ileocekální chlopni a terminálním ileu byly zjištěny zánětlivé změny
+T29	SYMPTOM 2452 2489	Terminální ileum mělo zesílenou stěnu
+T30	SYMPTOM 2597 2659	V pravém parakolickém žlábku se nacházela amina volné tekutiny
+T31	SYMPTOM 3061 3181	vyšetření hepatotropních virů a HIV, protilátek proti transglutamináze a thiopurinmetyltransferáze, které byly negativní
+T32	SYMPTOM 3312 3395	Kultivace stolice prokázala dysbakteriózu způsobenou grampozitivními mikroorganismy
+T33	SYMPTOM 3451 3467	bolesti na hrudi
+T34	SYMPTOM 3588 3606	enzymová sérologie
+T35	SYMPTOM 3740 3758	bolestech na hrudi
+T36	SYMPTOM 3804 3825	sinusovou tachykardii
+T37	SYMPTOM 3885 3908	normální elektrická osa
+T38	SYMPTOM 3910 3935	Žádné repolarizační změny
+T39	SYMPTOM 3981 3996	sinusový rytmus
+T40	SYMPTOM 4047 4070	normální elektrická osa
+T41	SYMPTOM 4084 4125	Negativní vlna T ve III a zploštělá v aVF
+T42	SYMPTOM 4169 4184	sinusový rytmus
+T43	SYMPTOM 4230 4253	normální elektrická osa
+T44	SYMPTOM 4255 4298	Dvoufázové vlny T na inferolaterální straně
+T45	SYMPTOM 4399 4428	levá síň (LS) není dilatovaná
+T46	SYMPTOM 4441 4470	Levá komora (LK) nedilatovaná
+T47	SYMPTOM 4559 4578	Globální hypokineze
+T48	SYMPTOM 4652 4681	Normofunkční mitrální chlopeň
+T49	SYMPTOM 4715 4753	Normofunkční trojcípá aortální chlopeň
+T50	SYMPTOM 4755 4802	Kořen aorty a vzestupná aorta nejsou dilatované
+T51	SYMPTOM 4837 4895	systolická funkce pravé komory (PK) na dolní hranici normy
+T52	SYMPTOM 5224 5243	globální hypokinézy
+T53	SYMPTOM 5388 5428	sérologie s pozitivním IgG na SARS-CoV-2
+T54	SYMPTOM 5505 5529	centrální hrudní bolesti
+T55	SYMPTOM 5632 5639	pocením
+T56	SYMPTOM 5656 5665	zvracením
+T57	SYMPTOM 5728 5759	zvýšenými reaktanty akutní fáze
+T58	SYMPTOM 5811 5832	sinusovou tachykardii
+T59	SYMPTOM 5852 5872	globální hypokinézou
+T60	SYMPTOM 6122 6136	asymptomatický
+T61	SYMPTOM 6300 6329	normalizaci systolické funkce
+T62	SYMPTOM 6340 6420	bazálních segmentech septa a anterolaterální plochy přetrvávala mírná hypokineze
+T63	SYMPTOM 6457 6472	sinusový rytmus
+T64	SYMPTOM 6557 6564	synkopu
+T65	SYMPTOM 6873 6880	bolesti
+T66	SYMPTOM 7207 7248	stabilní klinické a hemodynamické situaci
+T67	SYMPTOM 7391 7461	Mírná hypokineze v bazálním septu a bazálním anterolaterálním septu LK

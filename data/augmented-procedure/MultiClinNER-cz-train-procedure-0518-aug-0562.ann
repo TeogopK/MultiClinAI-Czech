@@ -1,0 +1,42 @@
+T1	PROCEDURE 69 103	resekce fibroadenomu v pravém prsu
+T2	PROCEDURE 189 223	oboustranná subkutánní mastektomie
+T3	PROCEDURE 362 374	ultrazvukové
+T4	PROCEDURE 379 401	mamografické vyšetření
+T5	PROCEDURE 407 440	genetické vyšetření BRCA 1 nebo 2
+T6	PROCEDURE 523 546	odstranění fibroadenomu
+T7	PROCEDURE 583 615	oboustranná podkožní mastektomie
+T8	PROCEDURE 683 787	operace byly do podkoží umístěny kulaté, texturované, podkožní prsní implantáty z fyziologického roztoku
+T9	PROCEDURE 810 828	odstraňování stehů
+T10	PROCEDURE 907 927	sekundárních uzávěrů
+T11	PROCEDURE 1098 1109	mastektomie
+T12	PROCEDURE 1176 1186	implantátu
+T13	PROCEDURE 1209 1225	prsou po operaci
+T14	PROCEDURE 1315 1333	antibiotická léčba
+T15	PROCEDURE 1359 1378	chirurgický výplach
+T16	PROCEDURE 1381 1402	odstranění implantátů
+T17	PROCEDURE 1405 1451	úpravou okrajů rány, sešitím a zavedením drénů
+T18	PROCEDURE 1561 1605	umístěny kulaté, texturované prsní expandéry
+T19	PROCEDURE 1773 1800	výměna expandérů za protézy
+T20	PROCEDURE 1925 1946	odstraněním expandérů
+T21	PROCEDURE 1949 2060	umístěním implantátů ze silikonového gelu o objemu 295 cm3 , kulatých a texturovaných, periareolárním přístupem
+T22	PROCEDURE 2084 2111	uvolněny dolní mamární póly
+T23	PROCEDURE 2113 2155	zmenšena velikost komplexu bradavka-areola
+T24	PROCEDURE 2158 2201	provedena oboustranná radiální kapsulotomie
+T25	PROCEDURE 2229 2241	antibiotická
+T26	PROCEDURE 2244 2264	protizánětlivá léčba
+T27	PROCEDURE 2275 2282	operaci
+T28	PROCEDURE 2297 2311	manuální masáž
+T29	PROCEDURE 2314 2333	aplikace ultrazvuku
+T30	PROCEDURE 2387 2399	endermologií
+T31	PROCEDURE 2684 2703	zavedení implantátu
+T32	PROCEDURE 2779 2801	ultrazvukové vyšetření
+T33	PROCEDURE 3048 3066	chirurgickou léčbu
+T34	PROCEDURE 3105 3123	chirurgickou léčbu
+T35	PROCEDURE 3148 3169	odstranění implantátů
+T36	PROCEDURE 3182 3234	rekonstrukce prsu pomocí oboustranné pedikované TRAM
+T37	PROCEDURE 3250 3272	mikrochirurgická léčba
+T38	PROCEDURE 3388 3400	rekonstrukci
+T39	PROCEDURE 3438 3472	zvednutí obou pediklovaných laloků
+T40	PROCEDURE 3484 3546	umístit síťku Marlex® k překrytí defektu v přední břišní stěně
+T41	PROCEDURE 3602 3614	rekonstrukci
+T42	PROCEDURE 3638 3649	mastektomii

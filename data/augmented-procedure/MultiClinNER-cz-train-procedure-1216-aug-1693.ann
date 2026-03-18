@@ -1,0 +1,25 @@
+T1	PROCEDURE 377 405	prokázané echokardiograficky
+T2	PROCEDURE 800 831	transtorakální echokardiografie
+T3	PROCEDURE 833 836	TTE
+T4	PROCEDURE 841 874	transezofageální echokardiografie
+T5	PROCEDURE 877 880	TEE
+T6	PROCEDURE 989 1013	scintigrafické vyšetření
+T7	PROCEDURE 1057 1078	Laboratorní vyšetření
+T8	PROCEDURE 1090 1106	krevní biometrii
+T9	PROCEDURE 1108 1121	krevní chemii
+T10	PROCEDURE 1123 1138	koagulační časy
+T11	PROCEDURE 1140 1154	krevní skupinu
+T12	PROCEDURE 1156 1166	imunologie
+T13	PROCEDURE 1169 1180	hemokultury
+T14	PROCEDURE 1647 1661	krevní kultury
+T15	PROCEDURE 1752 1766	krevní kultury
+T16	PROCEDURE 2178 2188	vegektomii
+T17	PROCEDURE 2191 2229	implantaci biologické aortální chlopně
+T18	PROCEDURE 2446 2497	manuální kultivace krve metodou lýzy a centrifugace
+T19	PROCEDURE 2767 2801	mikroskopické vyšetření subkultury
+T20	PROCEDURE 2902 2930	postupy molekulární biologie
+T21	PROCEDURE 2932 2952	DNA byla extrahována
+T22	PROCEDURE 3060 3063	PCR
+T23	PROCEDURE 3186 3189	PCR
+T24	PROCEDURE 3460 3470	sekvenován
+T25	PROCEDURE 3730 3756	Histopatologické vyšetření

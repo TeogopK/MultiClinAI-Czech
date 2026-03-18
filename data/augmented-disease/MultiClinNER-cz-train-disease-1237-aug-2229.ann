@@ -1,0 +1,50 @@
+T1	DISEASE 106 122	lékových alergií
+T2	DISEASE 147 167	srdečního onemocnění
+T3	DISEASE 173 186	náhlého úmrtí
+T4	DISEASE 198 212	toxické návyky
+T5	DISEASE 219 243	mírná konzumace alkoholu
+T6	DISEASE 274 281	nekuřák
+T7	DISEASE 328 349	arteriální hypertenze
+T8	DISEASE 352 364	dyslipidemie
+T9	DISEASE 442 458	morbidní obezita
+T10	DISEASE 491 519	těžký syndrom spánkové apnoe
+T11	DISEASE 532 543	hypotyreóza
+T12	DISEASE 872 879	synkopu
+T13	DISEASE 1505 1519	fibrilace síní
+T14	DISEASE 1521 1525	FiSi
+T15	DISEASE 1622 1635	kardiomegalie
+T16	DISEASE 2113 2138	těžce dilatovaná levá síň
+T17	DISEASE 2254 2284	Středně dilatovaná levá komora
+T18	DISEASE 2484 2512	Mírně dilatovaný kořen aorty
+T19	DISEASE 2514 2540	Mírně dilatovaná pravá síň
+T20	DISEASE 2556 2579	Dilatovaná pravá komora
+T21	DISEASE 2665 2735	Trikuspidální chlopeň s dobrým otevíráním a pohyblivostí; insuficience
+T22	DISEASE 2750 2776	Dilatovaná dolní dutá žíla
+T23	DISEASE 2854 2875	perikardiální výpotek
+T24	DISEASE 2921 2974	dilatovaná levá komora s těžkou systolickou dysfunkcí
+T25	DISEASE 2982 3002	mitrální regurgitace
+T26	DISEASE 3364 3378	fibrilace síní
+T27	DISEASE 3549 3577	městnavého srdečního selhání
+T28	DISEASE 3579 3622	fibrilaci síní s rychlou komorovou odpovědí
+T29	DISEASE 3642 3675	systolickou dysfunkci levé komory
+T30	DISEASE 4180 4196	plicní hypertenz
+T31	DISEASE 4301 4346	ischemické etiologie dilatační kardiomyopatie
+T32	DISEASE 4472 4487	srdeční selhání
+T33	DISEASE 4526 4563	neischemické dilatační kardiomyopatie
+T34	DISEASE 4653 4672	tachykardiomyopatie
+T35	DISEASE 4743 4792	srdečního selhání s depresivní systolickou funkcí
+T36	DISEASE 5187 5199	pre-diabetem
+T37	DISEASE 5202 5219	morbidní obezitou
+T38	DISEASE 5384 5399	spánkovou apnoe
+T39	DISEASE 5433 5447	fibrilaci síní
+T40	DISEASE 6361 6377	srdečním selhání
+T41	DISEASE 6723 6778	Srdeční selhání s depresivní ejekční frakcí levé komory
+T42	DISEASE 6780 6817	Neischemická dilatační kardiomyopatie
+T43	DISEASE 6825 6862	toxické poškození v důsledku enolismu
+T44	DISEASE 6876 6895	tachykardiomyopatie
+T45	DISEASE 6898 6912	Fibrilace síní
+T46	DISEASE 6914 6918	FiSi
+T47	DISEASE 7002 7038	Velmi závažný syndrom spánkové apnoe
+T48	DISEASE 7040 7056	Morbidní obezita
+T49	DISEASE 7058 7079	Arteriální hypertenze
+T50	DISEASE 7115 7126	Prediabetes

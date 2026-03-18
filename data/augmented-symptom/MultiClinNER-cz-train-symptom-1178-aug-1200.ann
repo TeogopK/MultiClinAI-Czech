@@ -1,0 +1,68 @@
+T1	SYMPTOM 938 945	horečky
+T2	SYMPTOM 1009 1026	námahovou dušnost
+T3	SYMPTOM 1037 1045	ortopnoí
+T4	SYMPTOM 1047 1075	edematizací dolních končetin
+T5	SYMPTOM 1078 1084	kašlem
+T6	SYMPTOM 1087 1106	bělavou expektorací
+T7	SYMPTOM 1266 1283	mikčních příznaků
+T8	SYMPTOM 1289 1310	změn střevních návyků
+T9	SYMPTOM 1390 1414	horečku neznámého původu
+T10	SYMPTOM 1480 1583	mikronodulární intersticiální obraz s dobře ohraničenými uzlinami, bilaterálně a symetricky rozloženými
+T11	SYMPTOM 1609 1663	krevní kultivace, kultivace moči a sérologie negativní
+T12	SYMPTOM 1673 1781	zjištěna PCR detekce cytomegaloviru, Pneumocystis jirovecii (v bronchoalveolární laváži) a respiračních virů
+T13	SYMPTOM 1783 1910	Negativní mikroskopie stěru, PCR na tuberkulózu v bronchoalveolární laváži a bronchoaspirátu a negativní kultivace mykobakterií
+T14	SYMPTOM 1912 1975	Galaktomannan na aspergily v bronchoalveolární laváži negativní
+T15	SYMPTOM 1977 2019	Negativní PCR na leishmanie v kostní dřeni
+T16	SYMPTOM 2235 2253	Dobrý celkový stav
+T17	SYMPTOM 2255 2272	Eupnoický v klidu
+T18	SYMPTOM 2402 2423	jugulární ingurgitace
+T19	SYMPTOM 2453 2466	rytmické tóny
+T20	SYMPTOM 2484 2491	šelestů
+T21	SYMPTOM 2493 2531	Vezikulární šelest bez přidaných zvuků
+T22	SYMPTOM 2533 2584	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T23	SYMPTOM 2624 2651	Murphy a Blumberg negativní
+T24	SYMPTOM 2782 2840	Pravá dolní končetina s otokem v distální třetině s foveou
+T25	SYMPTOM 3367 3467	Močový systém: glukóza, bílkovina, bilirubin, hemoglobin, leukocytární esteráza a dusitany negativní
+T26	SYMPTOM 3469 3486	Sediment normální
+T27	SYMPTOM 3571 3586	sinusový rytmus
+T28	SYMPTOM 3605 3616	normální PR
+T29	SYMPTOM 3618 3626	úzké QRS
+T30	SYMPTOM 3629 3650	normální srdeční osou
+T31	SYMPTOM 3679 3698	elektrické alterace
+T32	SYMPTOM 3706 3725	repolarizační změny
+T33	SYMPTOM 3740 3789	bilaterální a difuzní mikronodulární plicní obraz
+T34	SYMPTOM 3857 3896	Kultivace krve, moči a sputa: negativní
+T35	SYMPTOM 3898 3923	Mantouxův test: negativní
+T36	SYMPTOM 3953 3980	levá síň normální velikosti
+T37	SYMPTOM 4022 4052	Levá komora normální velikosti
+T38	SYMPTOM 4084 4120	zachovaná globální systolická funkce
+T39	SYMPTOM 4268 4288	Normální kořen aorty
+T40	SYMPTOM 4290 4311	Normální pravé komory
+T41	SYMPTOM 4433 4451	Normální pravá síň
+T42	SYMPTOM 4494 4522	Dolní dutá žíla nedilatovaná
+T43	SYMPTOM 4558 4590	Nedilatované suprahepatální žíly
+T44	SYMPTOM 4889 4919	normální kardiotorakální index
+T45	SYMPTOM 4957 4986	Zvýšená perihilární cévní síť
+T46	SYMPTOM 4992 5000	městnání
+T47	SYMPTOM 5006 5036	obsazení kostofrenických dutin
+T48	SYMPTOM 5291 5346	cytologie perikardiální tekutiny negativní na malignitu
+T49	SYMPTOM 5574 5614	Kultivace sputa a antibiogram: negativní
+T50	SYMPTOM 5616 5655	Kultivace moči a antibiogram: negativní
+T51	SYMPTOM 5657 5703	Baciloskopie perikardiální tekutiny: negativní
+T52	SYMPTOM 5705 5762	Kultivace perikardiální tekutiny a antibiogram: negativní
+T53	SYMPTOM 5822 5859	PCR tuberkulózního komplexu pozitivní
+T54	SYMPTOM 5928 5962	zjištěny žádné mutace v genu RPO-B
+T55	SYMPTOM 5999 6087	Kultivace mykobakterií v perikardiální tekutině: pozitivní na Mycobacterium tuberculosis
+T56	SYMPTOM 6685 6700	vrcholů horečky
+T57	SYMPTOM 6712 6720	dušnosti
+T58	SYMPTOM 6757 6809	Kultivace krve, moči, sputa a Mantoux byly negativní
+T59	SYMPTOM 6875 6908	zachovalou biventrikulární funkci
+T60	SYMPTOM 6969 6995	hemodynamického kompromisu
+T61	SYMPTOM 7065 7090	horečkou neznámého původu
+T62	SYMPTOM 7639 7691	perikardiální tekutiny byla kompatibilní s exsudátem
+T63	SYMPTOM 7818 7883	V mikrobiologickém rozboru byla kultivace z prvních dnů negativní
+T64	SYMPTOM 7891 7928	pozitivní PCR na tuberkulózní komplex
+T65	SYMPTOM 7933 7964	přítomnosti mutací v genu RPO-B
+T66	SYMPTOM 8126 8135	afebrilní
+T67	SYMPTOM 8548 8607	pozitivita kultivace perikardiální tekutiny na mykobakterie
+T68	SYMPTOM 8855 8864	afebrilní

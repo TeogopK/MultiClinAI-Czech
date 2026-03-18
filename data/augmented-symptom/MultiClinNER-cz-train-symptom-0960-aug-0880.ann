@@ -1,0 +1,64 @@
+T1	SYMPTOM 916 967	tlak na hrudi uprostřed s propagací do levé lopatky
+T2	SYMPTOM 1002 1007	kašli
+T3	SYMPTOM 1299 1364	nevyzařující centrální hrudní tlak, který se objevoval při námaze
+T4	SYMPTOM 1462 1468	bolest
+T5	SYMPTOM 1513 1520	dušnost
+T6	SYMPTOM 1689 1695	vědomí
+T7	SYMPTOM 1698 1709	orientovaný
+T8	SYMPTOM 1745 1762	V klidu eupnoický
+T9	SYMPTOM 1781 1806	zvýšená náplň krčních žil
+T10	SYMPTOM 1808 1831	akce srdeční pravidelná
+T11	SYMPTOM 1835 1864	systolický šelest v prekordiu
+T12	SYMPTOM 1906 1918	třecí šelest
+T13	SYMPTOM 1938 1956	dýchání alveolární
+T14	SYMPTOM 1958 2008	Břicho měkké, stlačitelné, při palpaci nebolestivé
+T15	SYMPTOM 2016 2022	útvary
+T16	SYMPTOM 2027 2041	visceromegalie
+T17	SYMPTOM 2070 2093	peritoneálního dráždění
+T18	SYMPTOM 2095 2123	Zachovalé hydroaerické zvuky
+T19	SYMPTOM 2125 2173	Femorální a radiální pulzy přítomny a symetrické
+T20	SYMPTOM 2195 2200	otoků
+T21	SYMPTOM 2310 2325	sinusový rytmus
+T22	SYMPTOM 2352 2372	normální PR interval
+T23	SYMPTOM 2375 2403	deprese PR nad spodní stěnou
+T24	SYMPTOM 2406 2418	zvýšením aVR
+T25	SYMPTOM 2420 2428	Úzké QRS
+T26	SYMPTOM 2552 2585	Symetrické negativní vlny T V3-V6
+T27	SYMPTOM 2987 3018	normálním leukocytárním vzorcem
+T28	SYMPTOM 3291 3328	kardiomediastinální silueta zachována
+T29	SYMPTOM 3458 3489	levá komora není ani dilatovaná
+T30	SYMPTOM 3623 3645	Středoapikální akineze
+T31	SYMPTOM 3885 3954	Trojcípá aortální chlopeň se zachovaným otevíráním a funkčně normální
+T32	SYMPTOM 3956 3977	Pravá komora normální
+T33	SYMPTOM 3998 4038	Trikuspidální chlopeň normální struktury
+T34	SYMPTOM 4229 4259	Kořen aorty normální velikosti
+T35	SYMPTOM 4648 4676	akineza střední části komory
+T36	SYMPTOM 5041 5074	levá komora nebyla ani dilatovaná
+T37	SYMPTOM 5191 5233	Mírně až středně snížená systolická funkce
+T38	SYMPTOM 5263 5284	medioapikální akineza
+T39	SYMPTOM 5394 5432	Strukturálně normální mitrální chlopeň
+T40	SYMPTOM 5493 5562	Trojcípá aortální chlopeň se zachovaným otevíráním a funkčně normální
+T41	SYMPTOM 5610 5653	Trikuspidální chlopeň strukturálně normální
+T42	SYMPTOM 5741 5769	Dolní dutá žíla nedilatovaná
+T43	SYMPTOM 5836 5866	Kořen aorty normální velikosti
+T44	SYMPTOM 6072 6099	zachovalá funkce obou komor
+T45	SYMPTOM 6104 6134	změn segmentální kontraktility
+T46	SYMPTOM 6287 6294	bolesti
+T47	SYMPTOM 6374 6379	kašli
+T48	SYMPTOM 6421 6435	svíravá bolest
+T49	SYMPTOM 6606 6613	bolesti
+T50	SYMPTOM 6649 6683	zvýšené markery poškození myokardu
+T51	SYMPTOM 6723 6734	zvýšení CRP
+T52	SYMPTOM 6773 6799	elevace ST inferolaterálně
+T53	SYMPTOM 6802 6813	poklesem PR
+T54	SYMPTOM 6816 6832	negativní vlny T
+T55	SYMPTOM 7622 7656	elevace markerů poškození myokardu
+T56	SYMPTOM 7666 7699	změnami segmentální kontraktility
+T57	SYMPTOM 7783 7805	hemodynamicky stabilní
+T58	SYMPTOM 7819 7839	arteriální hypotenzi
+T59	SYMPTOM 8139 8159	negativními vlnami T
+T60	SYMPTOM 8264 8313	bolesti na hrudi s perikardiální charakteristikou
+T61	SYMPTOM 8658 8678	arteriální hypotenzi
+T62	SYMPTOM 8802 8834	změn v segmentální kontraktilitě
+T63	SYMPTOM 8841 8846	edému
+T64	SYMPTOM 9251 9302	Středně těžce snížená systolická funkce levé komory

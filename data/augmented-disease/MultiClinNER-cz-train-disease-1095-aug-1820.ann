@@ -1,0 +1,56 @@
+T1	DISEASE 81 95	lékové alergie
+T2	DISEASE 220 240	srdečního onemocnění
+T3	DISEASE 308 330	metabolické onemocnění
+T4	DISEASE 332 346	Toxické návyky
+T5	DISEASE 348 361	aktivní kuřák
+T6	DISEASE 430 455	Sporadické užívání konopí
+T7	DISEASE 464 482	konzumaci alkoholu
+T8	DISEASE 547 628	Biventrikulární arytmogenní dysplazie s nedávno diagnostikovanou mutací genu LMNA
+T9	DISEASE 663 691	městnavého srdečního selhání
+T10	DISEASE 693 696	MSS
+T11	DISEASE 813 838	biventrikulární dysfunkci
+T12	DISEASE 911 975	arytmogenní kardiomyopatii způsobenou mutací v exonu 3 genu LMNA
+T13	DISEASE 1046 1062	dekompenzaci MSS
+T14	DISEASE 1106 1131	pokročilé srdeční selhání
+T15	DISEASE 1352 1390	trvalé monomorfní komorové tachykardie
+T16	DISEASE 1392 1396	SMVT
+T17	DISEASE 1427 1453	Trombus v ouška pravé síně
+T18	DISEASE 1623 1656	levá komora (LK) mírně dilatovaná
+T19	DISEASE 1838 1890	Dilatovaná pravá komora (RV) s těžce sníženou funkcí
+T20	DISEASE 1953 1985	Těžká trikuspidální insuficience
+T21	DISEASE 2158 2172	chlopenní vady
+T22	DISEASE 2174 2206	Dolní dutá žíla (DDŽ) dilatovaná
+T23	DISEASE 2237 2258	perikardiální výpotek
+T24	DISEASE 2265 2319	dilatační kardiomyopatie s těžkou dysfunkcí obou komor
+T25	DISEASE 2322 2340	dilatací obou síní
+T26	DISEASE 2342 2365	Aneuryzmatická dilatace
+T27	DISEASE 2521 2546	Tromby v oušku pravé síně
+T28	DISEASE 2987 3007	nedostatek FV a FVII
+T29	DISEASE 3037 3059	nedostatkem vitaminu K
+T30	DISEASE 3508 3526	respirační infekce
+T31	DISEASE 3790 3817	trvalá komorová tachykardie
+T32	DISEASE 3902 3906	SMVT
+T33	DISEASE 3910 3929	komorovou fibrilaci
+T34	DISEASE 4043 4071	elektromechanickou disociací
+T35	DISEASE 4297 4314	kardiogenním šoku
+T36	DISEASE 5998 6036	trvalá monomorfní komorová tachykardie
+T37	DISEASE 6050 6103	bloku levého raménka, dolní osou a přechodem ve V3-V4
+T38	DISEASE 6190 6213	Blokáda pravého raménka
+T39	DISEASE 6566 6596	refrakterním kardiogenním šoku
+T40	DISEASE 6600 6615	arytmické bouři
+T41	DISEASE 6759 6763	SMVT
+T42	DISEASE 6766 6768	VF
+T43	DISEASE 7134 7140	šokové
+T44	DISEASE 7246 7267	metabolickou acidózou
+T45	DISEASE 7293 7349	multiorgánové dysfunkce s oligoanurickým selháním ledvin
+T46	DISEASE 7352 7369	jaterním selhaním
+T47	DISEASE 7372 7384	hypoglykémií
+T48	DISEASE 7396 7408	koagulopatií
+T49	DISEASE 7675 7693	refrakterního šoku
+T50	DISEASE 7695 7718	multiorgánového selhání
+T51	DISEASE 7925 7940	Arytmická bouře
+T52	DISEASE 7954 7999	arytmogenní kardiomyopatií s mutací genu LMNA
+T53	DISEASE 8002 8034	těžkou biventrikulární dysfunkcí
+T54	DISEASE 8036 8092	Refrakterní kardiogenní šok sekundární k arytmické bouři
+T55	DISEASE 8094 8128	Postanoxická difuzní encefalopatie
+T56	DISEASE 8130 8151	Multiorgánové selhání

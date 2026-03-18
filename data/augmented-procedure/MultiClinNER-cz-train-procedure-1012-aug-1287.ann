@@ -1,0 +1,48 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 52 60	Anamnéza
+T4	PROCEDURE 351 373	kardiologická anamnéza
+T5	PROCEDURE 375 383	Anamnéza
+T6	PROCEDURE 652 676	podpora vitálních funkcí
+T7	PROCEDURE 975 994	Fyzikální vyšetření
+T8	PROCEDURE 1423 1439	Auskultace srdce
+T9	PROCEDURE 1471 1486	Auskultace plic
+T10	PROCEDURE 1613 1630	Elektrokardiogram
+T11	PROCEDURE 1632 1635	EKG
+T12	PROCEDURE 1779 1800	Biochemické vyšetření
+T13	PROCEDURE 1802 1810	glykemie
+T14	PROCEDURE 2080 2083	RTG
+T15	PROCEDURE 2144 2165	počítačová tomografie
+T16	PROCEDURE 2367 2369	CT
+T17	PROCEDURE 2477 2479	CT
+T18	PROCEDURE 2481 2489	Angio-CT
+T19	PROCEDURE 2536 2567	podání intravenózního kontrastu
+T20	PROCEDURE 2778 2813	Perfuzní CT vyšetření po podání IVC
+T21	PROCEDURE 2898 2929	Zobrazení magnetickou rezonancí
+T22	PROCEDURE 2931 2934	MRI
+T23	PROCEDURE 2938 2952	MR angiografie
+T24	PROCEDURE 3091 3113	Angiografické sekvence
+T25	PROCEDURE 3321 3352	Transtorakální echokardiografie
+T26	PROCEDURE 3752 3778	Magnetická rezonance srdce
+T27	PROCEDURE 3780 3783	CMR
+T28	PROCEDURE 3786 3813	Pozdní enhancement sekvence
+T29	PROCEDURE 4072 4103	Transtorakální echokardiografie
+T30	PROCEDURE 4173 4189	echokardiografii
+T31	PROCEDURE 4250 4268	echokardiografiích
+T32	PROCEDURE 4560 4562	CT
+T33	PROCEDURE 4563 4574	angiografií
+T34	PROCEDURE 4606 4626	Fibrinolytická léčba
+T35	PROCEDURE 4728 4748	endovaskulární léčby
+T36	PROCEDURE 4822 4824	CT
+T37	PROCEDURE 4867 4869	IM
+T38	PROCEDURE 4932 4943	Angiografie
+T39	PROCEDURE 5054 5077	etiologického vyšetření
+T40	PROCEDURE 5125 5168	transtorakální echokardiografické vyšetření
+T41	PROCEDURE 5291 5300	vyšetření
+T42	PROCEDURE 5317 5344	magnetickou rezonanci srdce
+T43	PROCEDURE 5531 5539	anamnéze
+T44	PROCEDURE 5840 5853	antikoagulace
+T45	PROCEDURE 6086 6107	koronární katetrizaci
+T46	PROCEDURE 6392 6408	echokardiografie
+T47	PROCEDURE 6489 6505	echokardiografii
+T48	PROCEDURE 6599 6617	echokardiografiích

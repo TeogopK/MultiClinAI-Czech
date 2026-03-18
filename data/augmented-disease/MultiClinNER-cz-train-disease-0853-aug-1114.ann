@@ -1,0 +1,26 @@
+T1	DISEASE 102 123	nežádoucí účinky léků
+T2	DISEASE 131 140	nekouřila
+T3	DISEASE 148 166	konzumace alkoholu
+T4	DISEASE 250 270	srdečního onemocnění
+T5	DISEASE 281 316	Preexistující arteriální hypertenze
+T6	DISEASE 405 417	Dyslipidemie
+T7	DISEASE 863 873	hypertenzi
+T8	DISEASE 1823 1842	pleurálního výpotku
+T9	DISEASE 2337 2359	chlopenní srdeční vady
+T10	DISEASE 2374 2397	perikardiálního výpotku
+T11	DISEASE 2584 2611	spontánní koronární disekce
+T12	DISEASE 3768 3804	okluze v distálně-apikálním segmentu
+T13	DISEASE 3908 3926	poškození myokardu
+T14	DISEASE 4164 4186	akutním plicním edémem
+T15	DISEASE 4476 4496	úplným uzávěrem cévy
+T16	DISEASE 4603 4617	šokové situaci
+T17	DISEASE 4811 4850	disekce v distální levé koronární tepně
+T18	DISEASE 5467 5481	šokové situace
+T19	DISEASE 5655 5675	dilataci levé komory
+T20	DISEASE 5831 5876	transmurální nekrózu 4 segmentů teritoria LAD
+T21	DISEASE 5985 6002	srdečního selhání
+T22	DISEASE 6139 6195	Spontánní disekce koronární tepny spojená s těhotenstvím
+T23	DISEASE 6197 6245	Akutní koronární syndrom bez elevace segmentu ST
+T24	DISEASE 6247 6253	NSTEMI
+T25	DISEASE 6256 6299	Akutní koronární syndrom s elevací úseku ST
+T26	DISEASE 6301 6306	STEMI

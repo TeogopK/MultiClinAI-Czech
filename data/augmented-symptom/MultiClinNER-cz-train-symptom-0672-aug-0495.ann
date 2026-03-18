@@ -1,0 +1,36 @@
+T1	SYMPTOM 49 78	parestezie v palci pravé ruky
+T2	SYMPTOM 103 130	slabostí v klešťovém pohybu
+T3	SYMPTOM 167 252	paréza dorzální flexe levého chodidla a bolestivá parestezie na dorzu levého chodidla
+T4	SYMPTOM 299 305	parézu
+T5	SYMPTOM 501 596	taktilní a bolestivou hypoestezií v prvním a druhém prstu pravé ruky a na dorzu levého chodidla
+T6	SYMPTOM 602 625	v dobrém celkovém stavu
+T7	SYMPTOM 631 638	horečky
+T8	SYMPTOM 706 724	neurologické změny
+T9	SYMPTOM 739 801	paréze deltového svalu a levého tricepsu brachii 3. stupně MRC
+T10	SYMPTOM 804 846	paréze zevního líce levé paže a obou lýtek
+T11	SYMPTOM 2048 2094	absenci motorického potenciálu (MP) levého SPC
+T12	SYMPTOM 2097 2173	snížení amplitudy pravého mediánního MP při stimulaci zápěstí, lokte a axily
+T13	SYMPTOM 2275 2310	jednoduchý vzorec maximálního úsilí
+T14	SYMPTOM 2322 2385	potenciály motorických jednotek (MUP) normálních charakteristik
+T15	SYMPTOM 2392 2410	spontánní aktivity
+T16	SYMPTOM 2412 2496	V levém tibialis anterior (TA) nebyla zaznamenána žádná spontánní ani volní aktivita
+T17	SYMPTOM 2559 2600	změny v senzorickém vedení několika nervů
+T18	SYMPTOM 2656 2735	snížení amplitudy senzorického potenciálu levého povrchového peroneálního nervu
+T19	SYMPTOM 2737 2840	absence senzorických odpovědí u surálních nervů a u pravého středního nervu při stimulaci třetího prstu
+T20	SYMPTOM 2843 2905	snížení amplitudy odpovědí získaných z prvního a druhého prstu
+T21	SYMPTOM 2955 2970	PM z levého SPC
+T22	SYMPTOM 2972 3023	Amplituda PMs pravého mediánního nervu byla snížena
+T23	SYMPTOM 3141 3245	spontánní aktivitu ve formě fibrilací a pozitivních vln, hojnou v pravém SPC a řídkou v levém TA a pedio
+T24	SYMPTOM 3283 3360	H-reflex a F-vlny ulny, zadní tibie, levého mediálního a pravého CPE normální
+T25	SYMPTOM 3421 3458	bloky proximálního motorického vedení
+T26	SYMPTOM 3461 3499	normálními hodnotami až do Erbova bodu
+T27	SYMPTOM 3719 3735	svalové slabosti
+T28	SYMPTOM 3738 3760	bolestivých parestezií
+T29	SYMPTOM 3876 3909	parestezií na dolních končetinách
+T30	SYMPTOM 3912 3951	proximální síly na levé horní končetině
+T31	SYMPTOM 3964 4000	senzomotorický deficit na pravé ruce
+T32	SYMPTOM 4003 4039	výrazná paréza v levém teritoriu EPC
+T33	SYMPTOM 4163 4249	opětovného výskytu nízkoamplitudového senzorického potenciálu v pravém surálním nervu.
+T34	SYMPTOM 4268 4316	mírná spontánní aktivita v pravém PCA a levém AT
+T35	SYMPTOM 4319 4363	výrazně deficitními vzorci maximálního úsilí
+T36	SYMPTOM 4366 4455	PUM se známkami aktivní, nepravidelné (polyfázické a polyturbace) a nestabilní reinervace

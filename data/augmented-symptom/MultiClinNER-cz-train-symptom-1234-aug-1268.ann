@@ -1,0 +1,50 @@
+T1	SYMPTOM 987 1028	progredující dušnost při minimální námaze
+T2	SYMPTOM 1048 1085	postupné zhoršování námahové kapacity
+T3	SYMPTOM 1197 1205	ortopnoe
+T4	SYMPTOM 1219 1245	paroxysmální noční dušnosť
+T5	SYMPTOM 1252 1268	vykašlávání krve
+T6	SYMPTOM 1270 1286	svírání na hrudi
+T7	SYMPTOM 1330 1336	sípání
+T8	SYMPTOM 1344 1361	infekční příznaky
+T9	SYMPTOM 1388 1396	krvácení
+T10	SYMPTOM 1475 1497	Hemodynamicky stabilní
+T11	SYMPTOM 1500 1517	eupnoický v klidu
+T12	SYMPTOM 1519 1536	toleruje dekubity
+T13	SYMPTOM 1538 1563	zvýšená náplň krčních žil
+T14	SYMPTOM 1582 1614	pozitivní hepatojugulární reflux
+T15	SYMPTOM 1616 1639	akce srdeční pravidelná
+T16	SYMPTOM 1647 1668	holosystolický šelest
+T17	SYMPTOM 1707 1718	zesílení S2
+T18	SYMPTOM 1721 1742	třetí slyšitelný ozvy
+T19	SYMPTOM 1763 1781	dýchání alveolární
+T20	SYMPTOM 1874 1900	Dolní končetiny: bez otoků
+T21	SYMPTOM 2004 2015	normální PR
+T22	SYMPTOM 2017 2027	široké QRS
+T23	SYMPTOM 2085 2107	přetížení pravé komory
+T24	SYMPTOM 2114 2130	negativní vlna T
+T25	SYMPTOM 2494 2508	ANCA negativní
+T26	SYMPTOM 2510 2550	Nativní anti-DNA 2,30 IU/ml (negativní).
+T27	SYMPTOM 2551 2608	Protilátky spojené s onemocněním pojivové tkáně negativní
+T28	SYMPTOM 2610 2644	Sérologie HIV, HCV a HBV negativní
+T29	SYMPTOM 2646 2679	CMV: IgG pozitivní, IgM negativní
+T30	SYMPTOM 3148 3172	prominující plicní hilus
+T31	SYMPTOM 3204 3214	infiltrátů
+T32	SYMPTOM 3247 3271	nedilatovaná levá komora
+T33	SYMPTOM 3301 3324	Výrazné zploštění septa
+T34	SYMPTOM 3326 3360	Normální celková systolická funkce
+T35	SYMPTOM 3418 3446	změn v segmentální kontrakci
+T36	SYMPTOM 3448 3495	Transmitrální plnící vzorec s poruchou relaxace
+T37	SYMPTOM 3497 3518	Nedilatovaná levá síň
+T38	SYMPTOM 3633 3670	oslabenou globální systolickou funkcí
+T39	SYMPTOM 3672 3725	Mitrální chlopeň s kalciem v anulu a funkčně normální
+T40	SYMPTOM 3802 3832	Aortální kořen není dilatovaný
+T41	SYMPTOM 3834 3876	Proximální vzestupná aorta není dilatovaná
+T42	SYMPTOM 3878 3921	Trikuspidální chlopeň morfologicky normální
+T43	SYMPTOM 4047 4080	Systolický zářez plicního průtoku
+T44	SYMPTOM 4122 4153	Dolní dutá žíla není dilatovaná
+T45	SYMPTOM 4212 4219	výpotek
+T46	SYMPTOM 4692 4744	množství tekutiny v horních perikardiálních recesech
+T47	SYMPTOM 4897 4938	Zvýšený kalibr centrálních plicních tepen
+T48	SYMPTOM 4985 5079	hlavních, lobárních ani segmentálních plicních tepnách nebyly pozorovány žádné defekty replece
+T49	SYMPTOM 6834 6856	hemodynamicky stabilní
+T50	SYMPTOM 6880 6903	pravostranném přetížení

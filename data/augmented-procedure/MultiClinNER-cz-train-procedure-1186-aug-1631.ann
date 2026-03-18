@@ -1,0 +1,34 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 415 432	elektrokardiogram
+T3	PROCEDURE 434 437	EKG
+T4	PROCEDURE 521 552	Transtorakální echokardiografie
+T5	PROCEDURE 1029 1056	Diagnostická koronarografie
+T6	PROCEDURE 1565 1580	revaskularizaci
+T7	PROCEDURE 1596 1621	zátěžová echokardiografie
+T8	PROCEDURE 1636 1649	zátěžový test
+T9	PROCEDURE 2021 2047	chirurgické revaskularizac
+T10	PROCEDURE 2742 2781	pokročilé kardiopulmonální resuscitační
+T11	PROCEDURE 2783 2786	KPR
+T12	PROCEDURE 2845 2868	orotracheálně intubován
+T13	PROCEDURE 3023 3026	EKG
+T14	PROCEDURE 3414 3442	echokardiografické vyšetření
+T15	PROCEDURE 3685 3698	angioplastika
+T16	PROCEDURE 3728 3731	EKG
+T17	PROCEDURE 3940 3971	Transtorakální echokardiografie
+T18	PROCEDURE 4169 4200	perkutánní koronární intervence
+T19	PROCEDURE 4465 4480	revaskularizaci
+T20	PROCEDURE 4482 4567	Perkutánní koronární intervence (PCI) na levé hlavní koronární tepně (LMCA), CX a ADA
+T21	PROCEDURE 4515 4518	PCI
+T22	PROCEDURE 4646 4747	implantovat lék uvolňující stent (Resolute Onyx 3,5 x 8 mm) ostiálně a stent ve tvaru "V" směrem k Cx
+T23	PROCEDURE 4836 4882	balónková angioplastika (2,25 a 2,5 mm) do LAD
+T24	PROCEDURE 4876 4902	do LAD a implantován stent
+T25	PROCEDURE 5544 5575	Transtorakální echokardiografie
+T26	PROCEDURE 6221 6238	neurologické okno
+T27	PROCEDURE 6314 6337	terapeutické hypotermii
+T28	PROCEDURE 6395 6402	sedován
+T29	PROCEDURE 6438 6451	analgetizován
+T30	PROCEDURE 6662 6705	sedoanalgezie a relaxační medikace vysazena
+T31	PROCEDURE 6773 6806	elektroencefalografické vyšetření
+T32	PROCEDURE 6959 6962	EEG
+T33	PROCEDURE 7641 7679	PCI s implantací DES do LMCA, ADA a Cx
+T34	PROCEDURE 7681 7704	Terapeutická hypotermie

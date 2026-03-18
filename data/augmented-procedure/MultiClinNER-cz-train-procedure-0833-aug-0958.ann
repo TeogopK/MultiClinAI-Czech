@@ -1,0 +1,44 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 262 290	chirurgickou revaskularizací
+T3	PROCEDURE 293 338	náhradu mitrální chlopně mechanickou protézou
+T4	PROCEDURE 389 433	Implantace jednokomorového kardiostimulátoru
+T5	PROCEDURE 436 468	ablací atrioventrikulárního uzlu
+T6	PROCEDURE 645 664	amputaci pravé nohy
+T7	PROCEDURE 667 708	pravostranný femorálně-popliteální bypass
+T8	PROCEDURE 792 820	echokardiografické vyšetření
+T9	PROCEDURE 875 891	mitrální protézu
+T10	PROCEDURE 1240 1255	hematologických
+T11	PROCEDURE 1447 1470	chronický domácí kyslík
+T12	PROCEDURE 1579 1614	pravého femoro-popliteálního bypass
+T13	PROCEDURE 1626 1661	pravý přední femoro-tibiální bypass
+T14	PROCEDURE 1722 1735	antikoagulace
+T15	PROCEDURE 1736 1763	nízkomolekulárními hepariny
+T16	PROCEDURE 1765 1769	LMWH
+T17	PROCEDURE 2080 2106	diuretiky a vazodilatancii
+T18	PROCEDURE 2215 2234	FYZIKÁLNÍ VYŠETŘENÍ
+T19	PROCEDURE 2322 2337	nosními brýlemi
+T20	PROCEDURE 2380 2396	Auskultace srdce
+T21	PROCEDURE 2440 2457	Plicní auskultace
+T22	PROCEDURE 2610 2629	amputaci pravé nohy
+T23	PROCEDURE 2649 2666	Elektrokardiogram
+T24	PROCEDURE 2756 2759	RTG
+T25	PROCEDURE 2834 2846	Krevní testy
+T26	PROCEDURE 2848 2857	Biochemie
+T27	PROCEDURE 3019 3040	plyny ve venózní krvi
+T28	PROCEDURE 3132 3140	Hemogram
+T29	PROCEDURE 3239 3248	Koagulace
+T30	PROCEDURE 3340 3371	Transezofageální echokardiogram
+T31	PROCEDURE 3703 3727	Koronární CT angiografie
+T32	PROCEDURE 4158 4179	fibrinolytickou léčbu
+T33	PROCEDURE 4181 4192	Radioskopie
+T34	PROCEDURE 4297 4326	Transtorakální echokardiogram
+T35	PROCEDURE 4335 4348	fibrinolýzách
+T36	PROCEDURE 4424 4437	fibrinolýzách
+T37	PROCEDURE 4496 4517	antitrombotická léčba
+T38	PROCEDURE 4749 4774	operaci chlopenní náhrady
+T39	PROCEDURE 4862 4882	fibrinolytické léčbě
+T40	PROCEDURE 4958 4969	fibrinolýze
+T41	PROCEDURE 4988 5008	koronárního angio-CT
+T42	PROCEDURE 5359 5370	fibrinolýze
+T43	PROCEDURE 5723 5743	antikoagulační léčby
+T44	PROCEDURE 5876 5889	fibrinolýzách

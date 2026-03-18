@@ -1,0 +1,61 @@
+T1	DISEASE 91 98	alergie
+T2	DISEASE 178 199	arteriální hypertenze
+T3	DISEASE 201 207	HT; HN
+T4	DISEASE 254 284	Diabetes mellitus (DM) 2. typu
+T5	DISEASE 367 379	Dyslipidemie
+T6	DISEASE 409 421	Bývalý kuřák
+T7	DISEASE 488 514	Ischemická choroba srdeční
+T8	DISEASE 540 567	akutním koronárním syndromu
+T9	DISEASE 569 572	AKS
+T10	DISEASE 579 605	nestabilní anginy pectoris
+T11	DISEASE 608 624	onemocněním cévy
+T12	DISEASE 665 673	stenózou
+T13	DISEASE 779 794	anginy pectoris
+T14	DISEASE 796 818	Mírná aortální stenóza
+T15	DISEASE 902 932	Levá síň (LA) mírně dilatovaná
+T16	DISEASE 950 986	Levá komora (LK) mírně hypertrofická
+T17	DISEASE 1077 1092	špatné relaxace
+T18	DISEASE 1094 1153	Degenerativní onemocnění aortální chlopně s mírnou stenózou
+T19	DISEASE 1188 1200	insuficience
+T20	DISEASE 1245 1257	insuficience
+T21	DISEASE 1292 1318	trikuspidální insuficience
+T22	DISEASE 1462 1489	Paroxysmální fibrilace síní
+T23	DISEASE 3873 3905	kompletní blokáda levého raménka
+T24	DISEASE 3934 3938	LBBB
+T25	DISEASE 4147 4169	pneumonická kondenzace
+T26	DISEASE 4215 4233	arytmických příhod
+T27	DISEASE 4289 4307	středně dilatovaná
+T28	DISEASE 4349 4360	hypertrofií
+T29	DISEASE 4521 4548	Mírná mitrální insuficience
+T30	DISEASE 4595 4619	mírnou aortální stenózou
+T31	DISEASE 4683 4709	trikuspidální insuficience
+T32	DISEASE 4804 4812	stenózou
+T33	DISEASE 4824 4843	restenózy in-stentu
+T34	DISEASE 4912 4920	stenózou
+T35	DISEASE 4989 4997	stenózou
+T36	DISEASE 5064 5072	stenózou
+T37	DISEASE 5151 5158	stenózy
+T38	DISEASE 5276 5294	in-stent restenózy
+T39	DISEASE 5463 5470	stenózy
+T40	DISEASE 5550 5566	distální stenózu
+T41	DISEASE 5634 5682	akutní koronární syndrom bez elevace segmentu ST
+T42	DISEASE 5684 5690	NSTEMI
+T43	DISEASE 5703 5729	akutního infarktu myokardu
+T44	DISEASE 5731 5734	AIM
+T45	DISEASE 5844 5871	onemocnění aortální chlopně
+T46	DISEASE 5945 5961	závažnou stenózu
+T47	DISEASE 6018 6049	středně těžkou aortální stenózu
+T48	DISEASE 6097 6100	AKS
+T49	DISEASE 6169 6196	závažnou restenózu in-stent
+T50	DISEASE 6217 6229	závažné léze
+T51	DISEASE 6261 6285	středně závažnými lézemi
+T52	DISEASE 6607 6617	DM 2. typu
+T53	DISEASE 6757 6783	Ischemická choroba srdeční
+T54	DISEASE 6785 6791	NSTEMI
+T55	DISEASE 6798 6801	AIM
+T56	DISEASE 6818 6844	ischemická choroba srdeční
+T57	DISEASE 6869 6889	restenózou ve stentu
+T58	DISEASE 7048 7089	Degenerativní onemocnění aortální chlopně
+T59	DISEASE 7091 7127	mírná-středně těžká aortální stenóza
+T60	DISEASE 7129 7156	Paroxyzmální fibrilace síní
+T61	DISEASE 7190 7200	DM 2. typu

@@ -1,0 +1,42 @@
+T1	SYMPTOM 333 349	bolesti na hrudi
+T2	SYMPTOM 688 696	dušností
+T3	SYMPTOM 698 705	astenií
+T4	SYMPTOM 707 715	anorexií
+T5	SYMPTOM 731 748	úbytkem hmotnosti
+T6	SYMPTOM 763 771	ortopnoe
+T7	SYMPTOM 777 805	edematizace dolních končetin
+T8	SYMPTOM 836 845	palpitace
+T9	SYMPTOM 995 1011	elevaci NTproBNP
+T10	SYMPTOM 1326 1332	vědomí
+T11	SYMPTOM 1334 1345	orientovaný
+T12	SYMPTOM 1347 1361	normální barva
+T13	SYMPTOM 1381 1388	arytmie
+T14	SYMPTOM 1404 1411	šelestů
+T15	SYMPTOM 1450 1475	Břicho měkké, nebolestivé
+T16	SYMPTOM 1481 1487	útvarů
+T17	SYMPTOM 1493 1501	megalitů
+T18	SYMPTOM 1503 1526	persistaltika zachována
+T19	SYMPTOM 1528 1554	Dolní končetiny: bez otoků
+T20	SYMPTOM 1940 1968	Anti DNA a antiENA negativní
+T21	SYMPTOM 2093 2110	Hyperinflace plic
+T22	SYMPTOM 2112 2162	Reziduální impingement levého kostofrenického sinu
+T23	SYMPTOM 2444 2476	Globální kontraktilita zachována
+T24	SYMPTOM 2737 2788	Mitrální chlopeň (MV) s normálním vzhledem a funkcí
+T25	SYMPTOM 2790 2829	Cévní a nadjaterní chlopně nedilatované
+T26	SYMPTOM 3912 3960	Homogenní játra, normální velikosti a morfologie
+T27	SYMPTOM 4058 4090	Žlučové cesty normálního kalibru
+T28	SYMPTOM 4092 4126	Slinivka břišní a slezina bez změn
+T29	SYMPTOM 4128 4192	Mírné oboustranné ztluštění nadledvin s hyperplastickým vzhledem
+T30	SYMPTOM 4194 4233	Ledviny normální velikosti a morfologie
+T31	SYMPTOM 4621 4653	intraperitoneální volná tekutina
+T32	SYMPTOM 4851 4858	astenii
+T33	SYMPTOM 4860 4868	anorexii
+T34	SYMPTOM 4871 4887	úbytek hmotnosti
+T35	SYMPTOM 5192 5239	migrující artralgie (v loktech a pravém rameni)
+T36	SYMPTOM 5241 5272	přetrvávající odpolední horečku
+T37	SYMPTOM 5292 5300	hematuri
+T38	SYMPTOM 5304 5315	proteinurii
+T39	SYMPTOM 5327 5349	normální funkci ledvin
+T40	SYMPTOM 5449 5457	epistaxí
+T41	SYMPTOM 5714 5757	výraznému celkovému a systémovému postižení
+T42	SYMPTOM 5856 5886	autoprotilátek P-ANCA a C-ANCA

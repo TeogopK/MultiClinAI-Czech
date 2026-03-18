@@ -1,0 +1,36 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 122 150	chirurgickou revaskularizací
+T3	PROCEDURE 158 181	VSF-DA a VSF-CD bypassu
+T4	PROCEDURE 269 289	Holterově monitoraci
+T5	PROCEDURE 318 321	EPS
+T6	PROCEDURE 363 405	implantován programovaný jednokomorový ICD
+T7	PROCEDURE 470 490	echokardiografickému
+T8	PROCEDURE 738 777	ICD se srdeční resynchronizační terapií
+T9	PROCEDURE 779 786	ICD-CRT
+T10	PROCEDURE 870 926	implantací tetrapolární elektrody do levé postranní žíly
+T11	PROCEDURE 1429 1458	intravenózním beta-blokátorem
+T12	PROCEDURE 1573 1576	ATP
+T13	PROCEDURE 1582 1588	sedaci
+T14	PROCEDURE 1642 1658	interní KV s ICD
+T15	PROCEDURE 1787 1806	anestetické indukce
+T16	PROCEDURE 1822 1841	Fyzikální vyšetření
+T17	PROCEDURE 1993 2009	Auskultace srdce
+T18	PROCEDURE 2046 2061	Auskultace plic
+T19	PROCEDURE 2114 2121	palpaci
+T20	PROCEDURE 2305 2334	Transtorakální echokardiogram
+T21	PROCEDURE 2822 2834	RTG hrudníku
+T22	PROCEDURE 2915 2918	EKG
+T23	PROCEDURE 3058 3070	Krevní testy
+T24	PROCEDURE 3072 3087	srdeční markery
+T25	PROCEDURE 3127 3136	Biochemie
+T26	PROCEDURE 3255 3274	funkce štítné žlázy
+T27	PROCEDURE 3296 3304	Hemogram
+T28	PROCEDURE 3383 3392	Koagulace
+T29	PROCEDURE 3494 3503	sledování
+T30	PROCEDURE 3607 3680	Pomocí navigačního systému CARTO 3 byla provedena anatomická rekonstrukce
+T31	PROCEDURE 4064 4103	LP byly zrušeny aplikací radiofrekvence
+T32	PROCEDURE 4134 4162	stimulační manévry z RV a LV
+T33	PROCEDURE 4202 4240	přeprogramována bipolární stimulace LK
+T34	PROCEDURE 4366 4389	srdeční resynchronizaci
+T35	PROCEDURE 4641 4673	srdeční resynchronizační terapii
+T36	PROCEDURE 4761 4809	Radiofrekvenční ablace ischemického substrátu VT

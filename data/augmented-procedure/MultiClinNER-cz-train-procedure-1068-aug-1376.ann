@@ -1,0 +1,29 @@
+T1	PROCEDURE 0 15	osobní anamnéza
+T2	PROCEDURE 230 248	léčená bioprotézou
+T3	PROCEDURE 381 388	operaci
+T4	PROCEDURE 611 620	vyšetření
+T5	PROCEDURE 719 739	vyšetření gallium 67
+T6	PROCEDURE 900 905	léčba
+T7	PROCEDURE 1380 1403	podány až 4 koncentráty
+T8	PROCEDURE 1501 1517	krevní transfuze
+T9	PROCEDURE 1522 1541	Fyzikální vyšetření
+T10	PROCEDURE 1698 1712	Životní funkce
+T11	PROCEDURE 1793 1814	laboratorní vyšetření
+T12	PROCEDURE 1995 2012	Elektrokardiogram
+T13	PROCEDURE 2048 2051	RTG
+T14	PROCEDURE 2079 2089	Auskultace
+T15	PROCEDURE 2169 2181	Krevní plyny
+T16	PROCEDURE 2222 2233	hemokultury
+T17	PROCEDURE 2273 2321	Transtorakální a transezofageální echokardiogram
+T18	PROCEDURE 2474 2503	echokardiografickém vyšetření
+T19	PROCEDURE 2890 2900	inhalátory
+T20	PROCEDURE 2902 2916	oxygenoterapie
+T21	PROCEDURE 2924 2953	monitorování vitálních funkcí
+T22	PROCEDURE 2956 2973	saturace kyslíkem
+T23	PROCEDURE 3634 3654	podáváním antibiotik
+T24	PROCEDURE 3668 3708	podání tří koncentrátů červených krvinek
+T25	PROCEDURE 3999 4028	podání plazmatických derivátů
+T26	PROCEDURE 4658 4672	rehabilitačním
+T27	PROCEDURE 4737 4749	rehabilitace
+T28	PROCEDURE 5061 5073	rehabilitace
+T29	PROCEDURE 5216 5257	hypoglykemickou ani antihypertenzní léčbu

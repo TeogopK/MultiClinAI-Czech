@@ -1,0 +1,28 @@
+T1	PROCEDURE 152 177	perorálními antidiabetiky
+T2	PROCEDURE 228 240	chemoterapií
+T3	PROCEDURE 242 254	radioterapií
+T4	PROCEDURE 257 290	autotransplantací podmíněnou BEAM
+T5	PROCEDURE 464 490	transplantaci kostní dřeně
+T6	PROCEDURE 596 599	EKG
+T7	PROCEDURE 601 616	echokardiogramu
+T8	PROCEDURE 619 635	zátěžovým testem
+T9	PROCEDURE 1099 1118	Fyzikální vyšetření
+T10	PROCEDURE 1202 1205	EKG
+T11	PROCEDURE 1332 1353	Laboratorní vyšetření
+T12	PROCEDURE 1496 1522	markerů poškození myokardu
+T13	PROCEDURE 1709 1750	dopplerovské echokardiografické vyšetření
+T14	PROCEDURE 1855 1876	CT vyšetření hrudníku
+T15	PROCEDURE 2015 2074	empiricky podávána širokospektrá antibiotika a antimykotika
+T16	PROCEDURE 2126 2140	kultivaci moči
+T17	PROCEDURE 2143 2158	kultivaci sputa
+T18	PROCEDURE 2160 2176	Virová sérologie
+T19	PROCEDURE 2228 2254	markerů poškození myokardu
+T20	PROCEDURE 2506 2551	transezofageální echokardiografické vyšetření
+T21	PROCEDURE 2697 2713	léčba kortikoidy
+T22	PROCEDURE 2715 2729	beta-blokátory
+T23	PROCEDURE 2731 2745	inhibitory ACE
+T24	PROCEDURE 2748 2757	diuretiky
+T25	PROCEDURE 2833 2852	echokardiografickém
+T26	PROCEDURE 2995 3012	elektrokardiogram
+T27	PROCEDURE 3056 3070	echokardiogram
+T28	PROCEDURE 3349 3380	MRI srdce s adenosinovou zátěží

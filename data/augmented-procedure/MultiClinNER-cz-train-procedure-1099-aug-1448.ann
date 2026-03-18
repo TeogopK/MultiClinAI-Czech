@@ -1,0 +1,43 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 249 280	léčbě perorálními antidiabetiky
+T3	PROCEDURE 282 325	Hypotyreóza na hormonální substituční léčbě
+T4	PROCEDURE 760 880	dvojitý koronární bypass z vnitřní mamární tepny (IMA) do přední sestupné (AD) a ze safény (SV) do pravé koronární tepny
+T5	PROCEDURE 931 945	koronarografii
+T6	PROCEDURE 1093 1096	PCI
+T7	PROCEDURE 1243 1271	echokardiografické vyšetření
+T8	PROCEDURE 1327 1341	koronarografie
+T9	PROCEDURE 1559 1585	perkutánní revaskularizaci
+T10	PROCEDURE 1759 1776	perorální nitráty
+T11	PROCEDURE 2619 2622	EKG
+T12	PROCEDURE 2985 2997	Krevní testy
+T13	PROCEDURE 3328 3348	Kardiologický profil
+T14	PROCEDURE 3660 3681	laboratorní vyšetření
+T15	PROCEDURE 3755 3758	EKG
+T16	PROCEDURE 3822 3825	EKG
+T17	PROCEDURE 3884 3887	EKG
+T18	PROCEDURE 3930 3942	RTG hrudníku
+T19	PROCEDURE 4019 4033	Koronarografie
+T20	PROCEDURE 4512 4551	safénového štěpu k zadní sestupné tepně
+T21	PROCEDURE 4553 4591	Safenózní štěp do zadní sestupné tepny
+T22	PROCEDURE 4619 4650	kanylace mamárního štěpu do LAD
+T23	PROCEDURE 4689 4703	Echokardiogram
+T24	PROCEDURE 5623 5633	echoskopie
+T25	PROCEDURE 5884 5887	EKG
+T26	PROCEDURE 5983 6011	dvojí protidestičkovou léčbu
+T27	PROCEDURE 6014 6027	antikoagulaci
+T28	PROCEDURE 6122 6135	betablokátory
+T29	PROCEDURE 6189 6192	EKG
+T30	PROCEDURE 6325 6339	koronarografie
+T31	PROCEDURE 6449 6463	koronarografii
+T32	PROCEDURE 6474 6511	předchozího testu na detekci ischemie
+T33	PROCEDURE 6593 6615	revaskularizační výkon
+T34	PROCEDURE 6674 6689	radiální punkce
+T35	PROCEDURE 6721 6741	kompresivního obvazu
+T36	PROCEDURE 6930 6944	beta-blokátory
+T37	PROCEDURE 7005 7012	analýza
+T38	PROCEDURE 7071 7080	analýzách
+T39	PROCEDURE 7127 7134	statinů
+T40	PROCEDURE 7279 7295	jaterních enzymů
+T41	PROCEDURE 7474 7487	antikoagulaci
+T42	PROCEDURE 7863 7880	jaterního profilu
+T43	PROCEDURE 8041 8086	dvojitého bypassu AMI-DA (okludovaná) a VS-DP

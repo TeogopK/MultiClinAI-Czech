@@ -1,0 +1,35 @@
+T1	PROCEDURE 0 8	Anamnéza
+T2	PROCEDURE 32 51	fyzikální vyšetření
+T3	PROCEDURE 124 139	Osobní anamnéza
+T4	PROCEDURE 360 368	sledován
+T5	PROCEDURE 601 620	Fyzikální vyšetření
+T6	PROCEDURE 734 761	Kardiopulmonální auskultace
+T7	PROCEDURE 812 832	Kardiální auskultace
+T8	PROCEDURE 1065 1077	RTG hrudníku
+T9	PROCEDURE 1166 1185	Elektrokardiografie
+T10	PROCEDURE 1462 1483	laboratorní vyšetření
+T11	PROCEDURE 1537 1546	Koagulace
+T12	PROCEDURE 1584 1593	Biochemie
+T13	PROCEDURE 1596 1615	funkce štítné žlázy
+T14	PROCEDURE 1657 1681	Vyšetření hyperkoagulace
+T15	PROCEDURE 1708 1717	Sérologie
+T16	PROCEDURE 1908 1939	Transezofageální echokardiogram
+T17	PROCEDURE 2464 2500	CT angiografie supraaortálních kmenů
+T18	PROCEDURE 2530 2544	ct angiografie
+T19	PROCEDURE 2598 2609	hemokultura
+T20	PROCEDURE 2671 2680	vyšetření
+T21	PROCEDURE 2832 2841	vyšetření
+T22	PROCEDURE 2847 2866	duplexním vyšetření
+T23	PROCEDURE 2941 2959	angio-CT vyšetření
+T24	PROCEDURE 3087 3130	transtorakální echokardiografické vyšetření
+T25	PROCEDURE 3132 3135	TTE
+T26	PROCEDURE 3382 3413	transezofageální echokardiogram
+T27	PROCEDURE 3415 3418	TEE
+T28	PROCEDURE 3615 3626	hemokultury
+T29	PROCEDURE 3939 3951	hemokulturou
+T30	PROCEDURE 3978 3981	TTE
+T31	PROCEDURE 3984 3987	TEE
+T32	PROCEDURE 4164 4179	endarterektomie
+T33	PROCEDURE 4200 4209	sledování
+T34	PROCEDURE 4271 4287	operace krkavice
+T35	PROCEDURE 4342 4383	náhrada aortální chlopně kovovou protézou

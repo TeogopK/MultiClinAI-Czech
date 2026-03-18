@@ -1,0 +1,38 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 708 753	transtorakálním echokardiografickém vyšetření
+T3	PROCEDURE 755 758	TTE
+T4	PROCEDURE 762 788	magnetické rezonanci srdce
+T5	PROCEDURE 790 793	CMR
+T6	PROCEDURE 881 900	Genetické vyšetření
+T7	PROCEDURE 1468 1471	CMR
+T8	PROCEDURE 1520 1561	antikoagulace nízkomolekulárními hepariny
+T9	PROCEDURE 1563 1567	LMWH
+T10	PROCEDURE 1618 1621	TTE
+T11	PROCEDURE 2548 2591	Výpočetní tomografie (CT) koronárních tepen
+T12	PROCEDURE 2570 2572	CT
+T13	PROCEDURE 2734 2753	Genetické vyšetření
+T14	PROCEDURE 2958 2981	hematologické vyšetření
+T15	PROCEDURE 3060 3075	Domácí medikace
+T16	PROCEDURE 4085 4132	pokročilé kardiopulmonální resuscitační manévry
+T17	PROCEDURE 4179 4201	orotracheální intubace
+T18	PROCEDURE 4213 4243	invazivní mechanické ventilace
+T19	PROCEDURE 4345 4363	vazoaktivních léků
+T20	PROCEDURE 4366 4385	FYZIKÁLNÍ VYŠETŘENÍ
+T21	PROCEDURE 4461 4483	Orotracheální intubace
+T22	PROCEDURE 4485 4498	sedoanalgezii
+T23	PROCEDURE 4633 4649	Auskultace srdce
+T24	PROCEDURE 4687 4702	Auskultace plic
+T25	PROCEDURE 4970 4982	Krevní obraz
+T26	PROCEDURE 5459 5468	Biochemie
+T27	PROCEDURE 5663 5672	Koagulace
+T28	PROCEDURE 5838 5861	Plyny v arteriální krvi
+T29	PROCEDURE 5969 5986	Elektrokardiogram
+T30	PROCEDURE 5988 5991	EKG
+T31	PROCEDURE 6113 6116	EKG
+T32	PROCEDURE 6313 6325	RTG hrudníku
+T33	PROCEDURE 6671 6689	vazoaktivních léků
+T34	PROCEDURE 6826 6839	sedoanalgezii
+T35	PROCEDURE 7449 7485	extrakorporální membránová oxygenace
+T36	PROCEDURE 7487 7491	ECMO
+T37	PROCEDURE 7517 7530	transplantaci
+T38	PROCEDURE 7581 7600	transplantaci srdce

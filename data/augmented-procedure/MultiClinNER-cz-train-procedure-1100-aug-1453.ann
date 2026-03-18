@@ -1,0 +1,37 @@
+T1	PROCEDURE 95 108	antikoagulaci
+T2	PROCEDURE 111 119	ANAMNÉZA
+T3	PROCEDURE 143 162	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 164 172	Anamnéza
+T5	PROCEDURE 389 411	kardiologická anamnéza
+T6	PROCEDURE 547 569	Katetrizační vyšetření
+T7	PROCEDURE 871 879	anamnéza
+T8	PROCEDURE 928 947	chirurgické zákroky
+T9	PROCEDURE 1613 1632	Fyzikální vyšetření
+T10	PROCEDURE 1808 1835	Kardiopulmonální auskultace
+T11	PROCEDURE 2018 2035	Elektrokardiogram
+T12	PROCEDURE 2120 2146	Rentgenový snímek hrudníku
+T13	PROCEDURE 2240 2257	Laboratorní testy
+T14	PROCEDURE 2356 2370	Echokardiogram
+T15	PROCEDURE 2767 2777	ergometrie
+T16	PROCEDURE 2800 2816	Bruceův protokol
+T17	PROCEDURE 2822 2843	léčbě beta-blokátorem
+T18	PROCEDURE 3310 3319	sledování
+T19	PROCEDURE 3340 3354	Echokardiogram
+T20	PROCEDURE 3460 3474	koronarografie
+T21	PROCEDURE 4164 4195	Perkutánní koronární intervence
+T22	PROCEDURE 4240 4253	angioplastiky
+T23	PROCEDURE 4291 4313	implantací dvou stentů
+T24	PROCEDURE 4337 4365	dilataci konvenčním balonkem
+T25	PROCEDURE 4407 4439	postdilatovaný při vysokém tlaku
+T26	PROCEDURE 4554 4567	angiografický
+T27	PROCEDURE 4668 4678	ergometrie
+T28	PROCEDURE 4762 4778	echokardiografii
+T29	PROCEDURE 4838 4852	koronarografii
+T30	PROCEDURE 4854 4871	Elektrokardiogram
+T31	PROCEDURE 4967 4981	koronarografie
+T32	PROCEDURE 5137 5155	neinvazivním testu
+T33	PROCEDURE 5184 5205	perkutánní intervence
+T34	PROCEDURE 5341 5361	antikoagulační léčbu
+T35	PROCEDURE 5403 5424	protidestičkové léčby
+T36	PROCEDURE 5426 5451	koronární revaskularizace
+T37	PROCEDURE 6125 6189	Perkutánní revaskularizace cirkumflexní tepny a marginální větve

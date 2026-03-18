@@ -1,0 +1,35 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 144 153	diuretiky
+T3	PROCEDURE 230 250	antikoagulační léčbu
+T4	PROCEDURE 545 578	Transtorakální echokardiografické
+T5	PROCEDURE 898 928	vyšetření hormonů štítné žlázy
+T6	PROCEDURE 1615 1634	Fyzikální vyšetření
+T7	PROCEDURE 1923 1949	Kardiopulmonální vyšetření
+T8	PROCEDURE 2056 2073	plicní auskultaci
+T9	PROCEDURE 2246 2262	diuretické léčbě
+T10	PROCEDURE 2399 2416	Elektrokardiogram
+T11	PROCEDURE 2418 2421	EKG
+T12	PROCEDURE 2546 2572	Rentgenový snímek hrudníku
+T13	PROCEDURE 2702 2731	transtorakální echokardiogram
+T14	PROCEDURE 3006 3020	antikoagulační
+T15	PROCEDURE 3023 3052	intravenózní diuretická léčba
+T16	PROCEDURE 3398 3411	funkce ledvin
+T17	PROCEDURE 3572 3592	Vyšetření protilátek
+T18	PROCEDURE 3599 3617	revmatoidní faktor
+T19	PROCEDURE 3715 3724	sérologie
+T20	PROCEDURE 3773 3821	Ultrazvukové vyšetření dolních končetin a břicha
+T21	PROCEDURE 3994 4021	vyšetření ventilace/perfuze
+T22	PROCEDURE 4031 4060	CT angiografie plicních tepen
+T23	PROCEDURE 4204 4224	antikoagulační léčba
+T24	PROCEDURE 4226 4247	Počítačová tomografie
+T25	PROCEDURE 4303 4319	renálních funkcí
+T26	PROCEDURE 4333 4366	antikoagulační a diuretické léčby
+T27	PROCEDURE 4401 4421	hormonů štítné žlázy
+T28	PROCEDURE 4824 4912	léčba antityreoidálními léky (thiamazol), beta-blokátory (propranolol) a kortikosteroidy
+T29	PROCEDURE 4937 4965	antityreoidálních protilátek
+T30	PROCEDURE 5162 5176	antibioterapie
+T31	PROCEDURE 5445 5461	renálních funkcí
+T32	PROCEDURE 5477 5488	CT hrudníku
+T33	PROCEDURE 5693 5714	antityreoidální léčby
+T34	PROCEDURE 5740 5773	transtorakální echokardiografické
+T35	PROCEDURE 6205 6225	hormonů štítné žlázy

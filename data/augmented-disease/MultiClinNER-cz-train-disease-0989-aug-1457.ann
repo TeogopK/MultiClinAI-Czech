@@ -1,0 +1,103 @@
+T1	DISEASE 99 123	alergické reakce na léky
+T2	DISEASE 127 141	Toxické návyky
+T3	DISEASE 143 155	bývalý kuřák
+T4	DISEASE 159 169	Hypertenze
+T5	DISEASE 183 200	diabetes mellitus
+T6	DISEASE 205 217	dyslipidemie
+T7	DISEASE 368 416	aortální pseudoaneuryzma s kompresí pravé komory
+T8	DISEASE 419 458	aortální píštěl se sternální osteolýzou
+T9	DISEASE 460 466	Píštěl
+T10	DISEASE 700 712	koagulopatie
+T11	DISEASE 828 849	multiorgánové selhání
+T12	DISEASE 881 899	dehiscenci protézy
+T13	DISEASE 901 920	periprotetický únik
+T14	DISEASE 962 987	Femorální pseudoaneuryzma
+T15	DISEASE 1022 1069	Duodenální vřed s gastrointestinálním krvácením
+T16	DISEASE 1085 1158	Spontánní retroperitoneální hematom v souvislosti s antikoagulační léčbou
+T17	DISEASE 1201 1232	synkopu s kardiogenním profilem
+T18	DISEASE 1298 1336	levým předním hemiblokem Hisova svazku
+T19	DISEASE 1338 1341	LAH
+T20	DISEASE 1433 1478	mírnou-středně těžkou hypertrofií levé komory
+T21	DISEASE 1631 1682	Opakované akutní záněty středního ucha v obou uších
+T22	DISEASE 1707 1735	Benigní hyperplazie prostaty
+T23	DISEASE 1981 2009	traumatickým poraněním mozku
+T24	DISEASE 2011 2014	TBI
+T25	DISEASE 2100 2124	trauma frontální oblasti
+T26	DISEASE 2370 2405	subdurální hematom v mozkovém srpku
+T27	DISEASE 2501 2522	sinusovou bradykardii
+T28	DISEASE 2744 2765	subdurálního hematomu
+T29	DISEASE 2776 2803	subarachnoidálního krvácení
+T30	DISEASE 2872 2896	pravostrannou hemiparézu
+T31	DISEASE 2899 2917	komorovými krizemi
+T32	DISEASE 3286 3322	kompletní atrioventrikulární blokády
+T33	DISEASE 3324 3327	AVB
+T34	DISEASE 3547 3587	rána měkkých tkání v pravé čelní oblasti
+T35	DISEASE 3667 3675	hematomy
+T36	DISEASE 3680 3689	deformace
+T37	DISEASE 3717 3729	pohmožděniny
+T38	DISEASE 4041 4049	hematomu
+T39	DISEASE 4057 4067	rektoragie
+T40	DISEASE 4069 4073	Záda
+T41	DISEASE 4101 4110	deformace
+T42	DISEASE 4146 4155	deformace
+T43	DISEASE 4275 4305	ochrnutí pravé dolní končetiny
+T44	DISEASE 4716 4748	normocytární normochromní anémie
+T45	DISEASE 5204 5207	LAH
+T46	DISEASE 5238 5258	repolarizačních změn
+T47	DISEASE 5283 5318	subdurální hematom v mozkovém srpku
+T48	DISEASE 5825 5879	Mitrální chlopeň: ztluštělé lístky, mírná insuficience
+T49	DISEASE 5991 6008	plicní hypertenze
+T50	DISEASE 6219 6239	intrakardiální zkrat
+T51	DISEASE 6310 6317	výpotku
+T52	DISEASE 6507 6543	Intraprotetická lavážní insuficience
+T53	DISEASE 6685 6694	bradavici
+T54	DISEASE 6696 6780	Ztluštění zadní oblasti prstence protézy s rozšířením směrem k mitroaortální fibróze
+T55	DISEASE 6782 6812	ztluštělý přední mitrální list
+T56	DISEASE 6910 6955	Mitrální chlopeň se ztluštěním předního listu
+T57	DISEASE 6988 6996	vegetací
+T58	DISEASE 7004 7025	mitrální insuficience
+T59	DISEASE 7069 7077	vegetací
+T60	DISEASE 7094 7116	infekční endokarditidy
+T61	DISEASE 7118 7218	ztluštění na zadní úrovni aortálního prstence, mitrální fibróza a na bázi předního mitrálního lístku
+T62	DISEASE 7232 7240	flegmónu
+T63	DISEASE 7242 7321	Malá endokardiální bradavice, vizualizovaná na aortální straně aortální protézy
+T64	DISEASE 7406 7428	infkeční endokarditida
+T65	DISEASE 7578 7601	endokardiální bradavice
+T66	DISEASE 7646 7667	mitrální insuficience
+T67	DISEASE 7716 7784	akutní kortikální mikroinfarkty supra- a infratentoriální lokalizace
+T68	DISEASE 7872 7909	kontuze levého frontálního parenchymu
+T69	DISEASE 7912 7933	subdurálního hematomu
+T70	DISEASE 7993 8028	ložiskových infarktů v levé ledvině
+T71	DISEASE 8103 8171	IE s abscesem na úrovni aortálního prstence/mytroaortálního prstence
+T72	DISEASE 8173 8239	aortální protéza s normálními gradienty, zadní periprotetický únik
+T73	DISEASE 8667 8680	endokarditidy
+T74	DISEASE 8698 8797	ztluštění v zadní úrovni aortálního anulu, fibrózu mitrální stěny a báze předního mitrálního lístku
+T75	DISEASE 8811 8817	absces
+T76	DISEASE 8837 8876	aortální protéze patrná malá bradavička
+T77	DISEASE 8904 8918	endokarditidou
+T78	DISEASE 8949 8969	septických emboliích
+T79	DISEASE 9034 9102	akutní kortikální mikroinfarkty supra- a infratentoriální lokalizace
+T80	DISEASE 9173 9192	periferních embolií
+T81	DISEASE 9545 9578	aortálního perivalvulárního úniku
+T82	DISEASE 9597 9618	aortální insuficienci
+T83	DISEASE 9629 9647	aortální bradavice
+T84	DISEASE 9657 9685	bradavice na úrovni mitrální
+T85	DISEASE 9987 10008	infarktu levé ledviny
+T86	DISEASE 10119 10195	chlopenních změn s abscesem na úrovni aortálního anulu/mitroaortální fibrózy
+T87	DISEASE 10239 10257	mitrální bradavice
+T88	DISEASE 10348 10365	srdečního selhání
+T89	DISEASE 11179 11205	paroxyzmální kompletní AVB
+T90	DISEASE 11266 11279	endokarditidy
+T91	DISEASE 11417 11436	infekčním oddělením
+T92	DISEASE 11525 11590	IE způsobená Enterococcus faecalis na mechanické aortální protéze
+T93	DISEASE 11684 11764	Mitroaortální absces se sekundární mírnou a středně těžkou aortální insuficiencí
+T94	DISEASE 11777 11809	kortikální mozkové mikroinfarkty
+T95	DISEASE 11812 11849	infarkt levé ledviny sekundárně po IE
+T96	DISEASE 11851 11876	Anémie v souvislosti s IE
+T97	DISEASE 11878 11908	Traumatický subdurální hematom
+T98	DISEASE 11911 11948	kontuze levého frontálního parenchymu
+T99	DISEASE 11960 11988	traumatického poranění mozku
+T100	DISEASE 12013 12024	hemiparézou
+T101	DISEASE 12027 12058	komickými krizemi v akutní fázi
+T102	DISEASE 12060 12076	Paroxysmální AVB
+T103	DISEASE 12078 12129	Infekce močových cest vyvolaná Citrobacter freundii

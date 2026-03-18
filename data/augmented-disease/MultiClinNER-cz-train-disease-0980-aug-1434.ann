@@ -1,0 +1,43 @@
+T1	DISEASE 75 103	mimonemocniční zástavu oběhu
+T2	DISEASE 115 136	Alergie na rifampicin
+T3	DISEASE 138 148	Hypertenze
+T4	DISEASE 170 186	toxických návyků
+T5	DISEASE 251 271	srdečního onemocnění
+T6	DISEASE 277 288	náhlé smrti
+T7	DISEASE 478 496	synkopální příhoda
+T8	DISEASE 824 839	fibrilaci komor
+T9	DISEASE 1096 1120	kardiorespirační zástavy
+T10	DISEASE 1123 1156	bezpulzovou komorovou tachykardií
+T11	DISEASE 1554 1578	kardiorespirační zástavy
+T12	DISEASE 1603 1626	intrakraniální krvácení
+T13	DISEASE 1628 1648	plicní tromboembolie
+T14	DISEASE 1651 1674	akutní aortální syndrom
+T15	DISEASE 2386 2404	komorová fibrilace
+T16	DISEASE 2478 2514	poruchou intraventrikulárního vedení
+T17	DISEASE 3576 3606	angiograficky významné stenózy
+T18	DISEASE 3844 3857	disekci aorty
+T19	DISEASE 3910 3930	plicní tromboembolie
+T20	DISEASE 3991 4027	perikardiální nebo pleurální výpotek
+T21	DISEASE 4035 4052	hilová adenopatie
+T22	DISEASE 4094 4176	ipsilaterální lateroaortální a interlobární prevaskulární kalcifikovaná adenopatie
+T23	DISEASE 4471 4481	atelektázu
+T24	DISEASE 4555 4570	bronchoaspirací
+T25	DISEASE 4572 4630	Lineární subpleurální kalcifikace v zadním subsegmentu LSI
+T26	DISEASE 5063 5094	triviální mitrální insuficiencí
+T27	DISEASE 5454 5492	trvalá monomorfní komorová tachykardie
+T28	DISEASE 5550 5565	fibrilaci komor
+T29	DISEASE 6051 6072	mitrální insuficiencí
+T30	DISEASE 6074 6076	MI
+T31	DISEASE 6080 6106	trikuspidální insuficiencí
+T32	DISEASE 6108 6110	TI
+T33	DISEASE 6260 6284	kardiorespirační zástavy
+T34	DISEASE 6357 6381	akutní koronární syndrom
+T35	DISEASE 6535 6542	zástavu
+T36	DISEASE 6934 6971	záchvatem trvalé komorové tachykardie
+T37	DISEASE 6989 7004	fibrilaci komor
+T38	DISEASE 7125 7136	vazospasmus
+T39	DISEASE 7406 7413	infekce
+T40	DISEASE 7856 7885	strukturální onemocnění srdce
+T41	DISEASE 8091 8169	Mimonemocniční kardiorespirační zástava obnovená v důsledku komorové fibrilace
+T42	DISEASE 8200 8293	Akutní koronární syndrom s nepřetrvávající elevací úseku ST v důsledku koronárního vazospazmu
+T43	DISEASE 8351 8406	Respirační infekce sekundárně způsobená bronchoaspirací

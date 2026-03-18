@@ -1,0 +1,29 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 599 645	základní kardiopulmonální resuscitační manévry
+T3	PROCEDURE 948 960	JIP v sedaci
+T4	PROCEDURE 962 971	intubován
+T5	PROCEDURE 985 1006	mechanickou ventilaci
+T6	PROCEDURE 1009 1028	Fyzikální vyšetření
+T7	PROCEDURE 1746 1759	Toxiny v moči
+T8	PROCEDURE 1799 1811	RTG hrudníku
+T9	PROCEDURE 2018 2049	Transtorakální echokardiografie
+T10	PROCEDURE 2310 2318	CT lebky
+T11	PROCEDURE 2517 2543	Magnetická rezonance srdce
+T12	PROCEDURE 2792 2823	zaveden femorální žilní přístup
+T13	PROCEDURE 2828 2850	indukovanou hypotermii
+T14	PROCEDURE 2899 2928	udržován v sedaci a anestezii
+T15	PROCEDURE 3091 3101	hypotermii
+T16	PROCEDURE 3135 3156	relaxace byla stažena
+T17	PROCEDURE 3159 3188	sedace byla postupně ukončena
+T18	PROCEDURE 3350 3353	EEG
+T19	PROCEDURE 3400 3420	Antibiotická terapie
+T20	PROCEDURE 3582 3590	intubace
+T21	PROCEDURE 3592 3614	Odstavení od přístrojů
+T22	PROCEDURE 3631 3639	extubaci
+T23	PROCEDURE 3641 3659	CT vyšetření lebky
+T24	PROCEDURE 3663 3671	extubaci
+T25	PROCEDURE 3706 3718	Monitorování
+T26	PROCEDURE 3791 3805	Koronarografie
+T27	PROCEDURE 3924 3936	rehabilitaci
+T28	PROCEDURE 3938 3964	Magnetická rezonance srdce
+T29	PROCEDURE 4127 4156	implantován jednokomorový ICD

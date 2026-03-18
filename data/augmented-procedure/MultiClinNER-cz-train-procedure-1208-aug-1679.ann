@@ -1,0 +1,43 @@
+T1	PROCEDURE 269 284	ergospirometrie
+T2	PROCEDURE 401 428	antikoagulován dabigatranem
+T3	PROCEDURE 465 508	implantabilního kardioverteru defibrilátoru
+T4	PROCEDURE 510 513	ICD
+T5	PROCEDURE 1064 1083	transplantaci srdce
+T6	PROCEDURE 1295 1314	transplantaci srdce
+T7	PROCEDURE 1380 1397	elektrokardiogram
+T8	PROCEDURE 1399 1402	EKG
+T9	PROCEDURE 1405 1427	kompletní krevní testy
+T10	PROCEDURE 1430 1447	koagulační studií
+T11	PROCEDURE 1449 1465	rentgen hrudníku
+T12	PROCEDURE 1468 1494	rezerva krevních přípravků
+T13	PROCEDURE 1508 1535	antikoagulován dabigatranem
+T14	PROCEDURE 1622 1641	FYZIKÁLNÍ VYŠETŘENÍ
+T15	PROCEDURE 1898 1908	auskultaci
+T16	PROCEDURE 2178 2181	EKG
+T17	PROCEDURE 2252 2264	RTG hrudníku
+T18	PROCEDURE 2519 2550	Transtorakální echokardiografie
+T19	PROCEDURE 3226 3240	KORONAROGRAFIE
+T20	PROCEDURE 3268 3292	PRAVOSTRANNÍ KATETRIZACE
+T21	PROCEDURE 3508 3524	Hrudně-břišní CT
+T22	PROCEDURE 3765 3819	DOPLER ultrazvuk nadjaterních kmenů a dolních končetin
+T23	PROCEDURE 3860 3884	Protilátky anti-HLA I-II
+T24	PROCEDURE 3896 3905	SEROLOGIE
+T25	PROCEDURE 4309 4326	Screening syfilis
+T26	PROCEDURE 4338 4354	Nádorové markery
+T27	PROCEDURE 4367 4379	krevní obraz
+T28	PROCEDURE 4518 4527	Koagulace
+T29	PROCEDURE 4593 4608	Lipidový profil
+T30	PROCEDURE 4678 4697	profil štítné žlázy
+T31	PROCEDURE 4699 4714	KOAGULAČNÍ TEST
+T32	PROCEDURE 5029 5051	antikoagulaci zvrátila
+T33	PROCEDURE 5361 5368	operace
+T34	PROCEDURE 5371 5419	ortotopická transplantace srdce technikou bicava
+T35	PROCEDURE 5426 5458	mimotělního chirurgického výkonu
+T36	PROCEDURE 5559 5587	transfuze krevních přípravků
+T37	PROCEDURE 5589 5601	Heparinizace
+T38	PROCEDURE 5652 5698	dva mediastinální drény, které byly odstraněny
+T39	PROCEDURE 5841 5850	extubován
+T40	PROCEDURE 5933 5954	protokol imunosuprese
+T41	PROCEDURE 6072 6093	srdeční transplantace
+T42	PROCEDURE 6152 6200	ortotopické transplantaci srdce technikou bikava
+T43	PROCEDURE 6338 6351	antikoagulace

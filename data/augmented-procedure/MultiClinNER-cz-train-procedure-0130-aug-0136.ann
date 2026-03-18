@@ -1,0 +1,14 @@
+T1	PROCEDURE 308 326	bimanuální palpací
+T2	PROCEDURE 427 446	fyzikální vyšetření
+T3	PROCEDURE 546 554	CT mozku
+T4	PROCEDURE 556 581	Ultrazvukem měkkých tkání
+T5	PROCEDURE 721 751	Aspirační punkce tenkou jehlou
+T6	PROCEDURE 721 779	Aspirační punkce tenkou jehlou pod ultrazvukovou kontrolou
+T7	PROCEDURE 756 779	ultrazvukovou kontrolou
+T8	PROCEDURE 877 895	zmrazovací biopsii
+T9	PROCEDURE 877 940	zmrazovací biopsii v celkové anestezii s intraorálním přístupem
+T10	PROCEDURE 898 915	celkové anestezii
+T11	PROCEDURE 1134 1143	odstraněn
+T12	PROCEDURE 1229 1247	zmrazovací biopsii
+T13	PROCEDURE 1307 1373	Sliznice byla uzavřena samostatnými stehy z kyseliny polyglykolové
+T14	PROCEDURE 1582 1600	histologický nález

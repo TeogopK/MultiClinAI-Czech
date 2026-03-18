@@ -1,0 +1,36 @@
+T1	DISEASE 81 95	lékové alergie
+T2	DISEASE 101 122	arteriální hypertenze
+T3	DISEASE 128 145	diabetes mellitus
+T4	DISEASE 151 163	dyslipidemie
+T5	DISEASE 177 195	srdeční onemocnění
+T6	DISEASE 200 212	bronchopatie
+T7	DISEASE 214 251	Pokročilé chronické onemocnění ledvin
+T8	DISEASE 292 345	autozomálně dominantní polycystické onemocnění ledvin
+T9	DISEASE 347 399	Transplantace ledviny v květnu 2018 s akutní rejekcí
+T10	DISEASE 437 569	Proximální hluboká žilní trombóza na úrovni povrchové stehenní žíly, podkolenní žíly a hluboké a zdvojené větve levé dolní končetiny
+T11	DISEASE 622 654	Pyelonefritida ledvinového štěpu
+T12	DISEASE 1451 1478	mírný perikardiální výpotek
+T13	DISEASE 1820 1831	tuberkulózu
+T14	DISEASE 2594 2607	hepatomegalie
+T15	DISEASE 2610 2623	splenomegalie
+T16	DISEASE 2671 2726	levá dolní končetina se známkami hluboké žilní trombózy
+T17	DISEASE 3784 3819	Mírný oboustranný pleurální výpotek
+T18	DISEASE 3821 3848	Těžký perikardiální výpotek
+T19	DISEASE 4015 4075	Levá komora normální velikosti, mírná parietální hypertrofie
+T20	DISEASE 4247 4259	valvulopatie
+T21	DISEASE 4389 4391	TR
+T22	DISEASE 4585 4623	Závažný obvodový perikardiální výpotek
+T23	DISEASE 4753 4782	Závažný perikardiální výpotek
+T24	DISEASE 4927 4948	perikardiální výpotek
+T25	DISEASE 6913 6952	cirkumferenčním perikardiálním výpotkem
+T26	DISEASE 7146 7157	tuberkulózu
+T27	DISEASE 7395 7409	jaterních cyst
+T28	DISEASE 7436 7454	onemocněním ledvin
+T29	DISEASE 8007 8018	tuberkulózy
+T30	DISEASE 8320 8331	tuberkulózu
+T31	DISEASE 8722 8743	perikardiální výpotek
+T32	DISEASE 8754 8774	perikardiální zúžení
+T33	DISEASE 8819 8831	tuberkulózou
+T34	DISEASE 8893 8951	Perikardiální výpotek způsobený Mycobacterium tuberculosis
+T35	DISEASE 8963 9006	imunokompromitovaného transplantací ledviny
+T36	DISEASE 9023 9047	perikardiální konstrikce

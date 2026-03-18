@@ -1,0 +1,23 @@
+T1	SYMPTOM 70 92	bolestí levého varlete
+T2	SYMPTOM 116 133	močových příznaků
+T3	SYMPTOM 139 146	horečky
+T4	SYMPTOM 221 249	tvrdý tumor na levém varleti
+T5	SYMPTOM 261 272	nebolestivý
+T6	SYMPTOM 286 295	fluktuace
+T7	SYMPTOM 329 340	Lymfocytóza
+T8	SYMPTOM 376 382	pyurii
+T9	SYMPTOM 384 408	Kultivace moči: sterilní
+T10	SYMPTOM 410 478	Kultivace spermatu: E. coli (1.), S. Sprophiticus (2.), P. Mirabilis
+T11	SYMPTOM 503 534	CEA, alfa fetus a BHCG normální
+T12	SYMPTOM 536 558	Ultrazvuk MC: normální
+T13	SYMPTOM 590 610	tumor levého varlete
+T14	SYMPTOM 650 675	Mantouxův test s ulcerací
+T15	SYMPTOM 894 957	hnisavého exsudátu získaného intraoperačně z testikulární tkáně
+T16	SYMPTOM 959 1007	Barvení Auraminem na mykobakterie bylo negativní
+T17	SYMPTOM 1078 1092	Gram(+) bacilů
+T18	SYMPTOM 1197 1256	Genomová amplifikace (PCR) na M.tuberculosis byla negativní
+T19	SYMPTOM 1258 1306	Detekce antigenu chlamydií byla rovněž negativní
+T20	SYMPTOM 1308 1408	Kultivace na obvyklé bakterie, včetně Neiseria a Haemophilus, byly po 72 hodinách inkubace negativní
+T21	SYMPTOM 1584 1598	bacilu Gram(+)
+T22	SYMPTOM 1765 1840	sekvenování 16SrRNA a kmen byl identifikován jako Corynebacterium thomsseni
+T23	SYMPTOM 1866 1909	nokardií, mykobakterií a hub byly negativní

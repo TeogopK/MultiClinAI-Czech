@@ -1,0 +1,29 @@
+T1	PROCEDURE 237 260	Hemodynamické vyšetření
+T2	PROCEDURE 451 473	Katetrizační vyšetření
+T3	PROCEDURE 607 614	operaci
+T4	PROCEDURE 759 854	revaskularizace myokardu pomocí štěpů ze safény do CD a diagonální žíly a z mamární tepny do DA
+T5	PROCEDURE 888 891	ECC
+T6	PROCEDURE 928 938	hypotermie
+T7	PROCEDURE 1021 1031	hypotermie
+T8	PROCEDURE 1071 1095	revaskularizace myokardu
+T9	PROCEDURE 1097 1106	anestezii
+T10	PROCEDURE 1274 1330	standardní kardiopulmonální bypass s pulzujícím průtokem
+T11	PROCEDURE 1382 1393	Výkon pumpy
+T12	PROCEDURE 1581 1600	perfuzi dobutaminem
+T13	PROCEDURE 1877 1899	perfuze noradrenalinem
+T14	PROCEDURE 2041 2050	ventilaci
+T15	PROCEDURE 2052 2071	Mediastinální drény
+T16	PROCEDURE 2093 2119	rentgenový snímek hrudníku
+T17	PROCEDURE 2208 2226	elektrokardiogramu
+T18	PROCEDURE 2228 2231	EKG
+T19	PROCEDURE 2301 2312	krystaloidů
+T20	PROCEDURE 2315 2322	koloidů
+T21	PROCEDURE 2362 2384	perfuze noradrenalinem
+T22	PROCEDURE 2441 2458	Infuze dobutaminu
+T23	PROCEDURE 2495 2501	Sedace
+T24	PROCEDURE 2545 2576	Echokardiografické monitorování
+T25	PROCEDURE 2826 2840	krevní kultury
+T26	PROCEDURE 2949 3001	Hemodynamické parametry měřené katétrem plicní tepny
+T27	PROCEDURE 3007 3030	infuzí metylenové modři
+T28	PROCEDURE 3335 3362	arteriálních krevních plynů
+T29	PROCEDURE 3985 3994	extubován

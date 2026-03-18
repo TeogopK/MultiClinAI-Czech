@@ -1,0 +1,50 @@
+T1	DISEASE 97 109	bývalý kuřák
+T2	DISEASE 126 136	hypertenze
+T3	DISEASE 139 151	dyslipidémie
+T4	DISEASE 206 234	Benigní hyperplazie prostaty
+T5	DISEASE 260 307	Laterální ischemická choroba srdeční typu STEMI
+T6	DISEASE 322 356	2žilová ischemická choroba srdeční
+T7	DISEASE 621 649	Vrozená chlopenní vada srdce
+T8	DISEASE 651 680	bikuspidální aortální chlopeň
+T9	DISEASE 739 772	levá komora (LK) mírně dilatovaná
+T10	DISEASE 774 801	Mírná dysfunkce levé komory
+T11	DISEASE 871 901	Středně těžká aortální stenóza
+T12	DISEASE 910 931	aortální insuficience
+T13	DISEASE 967 992	Aneuryzma vzestupné aorty
+T14	DISEASE 1074 1078	LBBB
+T15	DISEASE 1539 1559	arteriální hypotenzi
+T16	DISEASE 1578 1635	atrioventrikulární blokádou druhého stupně (AVB) Mobitz I
+T17	DISEASE 1622 1625	AVB
+T18	DISEASE 1807 1830	akutní aortální syndrom
+T19	DISEASE 2134 2157	akutní aortální syndrom
+T20	DISEASE 2176 2196	distální hypoperfuze
+T21	DISEASE 2219 2239	arteriální hypotenzi
+T22	DISEASE 2543 2549	ascitu
+T23	DISEASE 2803 2827	akutní ischemií myokardu
+T24	DISEASE 2830 2859	pokročilou poruchou AV vedení
+T25	DISEASE 2886 2919	bikuspidální aorta, kalcifikovaná
+T26	DISEASE 2921 2956	Fusiformní dilatace vzestupné aorty
+T27	DISEASE 3022 3042	intramurální hematom
+T28	DISEASE 3047 3096	jiná akutní léze aortálního parietálního prostoru
+T29	DISEASE 3240 3281	neaterogenní okluzi přední sestupné tepny
+T30	DISEASE 3283 3303	Dilatace levé komory
+T31	DISEASE 3376 3421	kardiogenního intersticiálního plicního edému
+T32	DISEASE 3430 3459	oboustranný pleurální výpotek
+T33	DISEASE 3467 3488	perikardiální výpotek
+T34	DISEASE 3530 3552	dilatovaná levá komora
+T35	DISEASE 4007 4067	Akutní trombotický uzávěr v proximální přední sestupné tepně
+T36	DISEASE 4387 4448	akutní koronární syndrom s elevací úseku ST Killip-Kimball IV
+T37	DISEASE 4463 4471	infarktu
+T38	DISEASE 4640 4664	kardiorespirační zástava
+T39	DISEASE 4669 4684	fibrilaci komor
+T40	DISEASE 5121 5177	Embolický uzávěr proximální větve LAD a diagonální větve
+T41	DISEASE 5876 5902	nestabilní angina pectoris
+T42	DISEASE 6111 6137	Ischemická choroba srdeční
+T43	DISEASE 6139 6169	Akutní přední infarkt myokardu
+T44	DISEASE 6182 6227	Akutní embolický uzávěr přední sestupné tepny
+T45	DISEASE 6263 6287	Primární fibrilace komor
+T46	DISEASE 6289 6336	Kompletní ischemická atrioventrikulární blokáda
+T47	DISEASE 6338 6353	Kardiogenní šok
+T48	DISEASE 6363 6389	Chlopenní onemocnění srdce
+T49	DISEASE 6391 6447	bikuspidální aortální chlopeň se středně těžkou stenózou
+T50	DISEASE 6450 6474	dilatací vzestupné aorty

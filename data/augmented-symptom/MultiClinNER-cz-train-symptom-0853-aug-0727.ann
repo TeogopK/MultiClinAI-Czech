@@ -1,0 +1,44 @@
+T1	SYMPTOM 368 377	labetalol
+T2	SYMPTOM 711 731	prekordiální bolesti
+T3	SYMPTOM 760 780	vegetativní doprovod
+T4	SYMPTOM 1131 1137	vědomí
+T5	SYMPTOM 1139 1150	orientovaný
+T6	SYMPTOM 1152 1169	v klidu eupnoický
+T7	SYMPTOM 1175 1200	zvýšená náplň krčních žil
+T8	SYMPTOM 1202 1225	akce srdeční pravidelná
+T9	SYMPTOM 1232 1239	šelestů
+T10	SYMPTOM 1260 1278	dýchání alveolární
+T11	SYMPTOM 1293 1331	pulzace na periferii symetricky hmatné
+T12	SYMPTOM 1341 1358	periferního edému
+T13	SYMPTOM 1419 1426	bolestí
+T14	SYMPTOM 1428 1443	sinusový rytmus
+T15	SYMPTOM 1472 1480	úzké QRS
+T16	SYMPTOM 1496 1533	deprese úseku ST < 0,5 mm ve V4 až V6
+T17	SYMPTOM 1535 1553	zploštělé T ve III
+T18	SYMPTOM 1558 1564	bolest
+T19	SYMPTOM 1574 1589	sinusový rytmus
+T20	SYMPTOM 1613 1621	úzké QRS
+T21	SYMPTOM 1668 1712	bifázické T od V2 do V5, negativní v I a aVL
+T22	SYMPTOM 1728 1760	normální stín srdce a mediastina
+T23	SYMPTOM 2057 2104	biochemické vyšetření, krevní obraz a koagulace
+T24	SYMPTOM 2139 2163	nedilatovaná levá komora
+T25	SYMPTOM 2167 2182	zachovalou LVEF
+T26	SYMPTOM 2185 2229	hypokineza přední stěny v apikálním segmentu
+T27	SYMPTOM 2231 2284	Nedilatovaná pravá komora s dobrou systolickou funkcí
+T28	SYMPTOM 2710 2716	bolest
+T29	SYMPTOM 3060 3080	prekordiální bolesti
+T30	SYMPTOM 3134 3155	elevace kardiomarkerů
+T31	SYMPTOM 3208 3215	bolesti
+T32	SYMPTOM 3274 3290	elevaci úseku ST
+T33	SYMPTOM 3604 3627	hemodynamické stability
+T34	SYMPTOM 3638 3645	bolestí
+T35	SYMPTOM 3941 3972	intenzivní prekordiální bolesti
+T36	SYMPTOM 3985 4007	zhoršením hemodynamiky
+T37	SYMPTOM 4010 4019	hypotenzí
+T38	SYMPTOM 4063 4080	zhoršením dýchání
+T39	SYMPTOM 4168 4203	zvýšením markerů poškození myokardu
+T40	SYMPTOM 4250 4266	elevace úseku ST
+T41	SYMPTOM 5637 5676	závažnou depresí její systolické funkce
+T42	SYMPTOM 5711 5740	segmentrární poruchy kinetiky
+T43	SYMPTOM 6183 6202	elevace segmentu ST
+T44	SYMPTOM 6241 6257	elevací úseku ST

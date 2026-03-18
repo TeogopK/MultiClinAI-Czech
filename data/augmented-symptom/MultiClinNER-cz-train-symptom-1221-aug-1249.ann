@@ -1,0 +1,57 @@
+T1	SYMPTOM 226 247	normální funkci komor
+T2	SYMPTOM 266 280	asymptomatická
+T3	SYMPTOM 403 414	pT3 pN0 cM0
+T4	SYMPTOM 1140 1159	náhlé ztrátě vědomí
+T5	SYMPTOM 1668 1690	hemodynamicky stabilní
+T6	SYMPTOM 1692 1702	při vědomí
+T7	SYMPTOM 1705 1716	orientovaná
+T8	SYMPTOM 1779 1795	bolesti na hrudi
+T9	SYMPTOM 1947 1965	Celkový stav dobrý
+T10	SYMPTOM 1967 1977	při vědomí
+T11	SYMPTOM 1980 1991	orientovaný
+T12	SYMPTOM 1993 2010	v klidu eupnoický
+T13	SYMPTOM 2012 2025	Normoperfuzní
+T14	SYMPTOM 2027 2051	akce srdeční: pravidelná
+T15	SYMPTOM 2057 2064	šelestů
+T16	SYMPTOM 2070 2079	extratonů
+T17	SYMPTOM 2098 2116	alveolární dýchání
+T18	SYMPTOM 2121 2150	vedlejších dechových fenoménů
+T19	SYMPTOM 2152 2178	Dolní končetiny: bez otoků
+T20	SYMPTOM 2202 2217	sinusový rytmus
+T21	SYMPTOM 2229 2240	Normální PR
+T22	SYMPTOM 2276 2310	Žádné významné repolarizační změny
+T23	SYMPTOM 2340 2357	normální hemogram
+T24	SYMPTOM 2359 2377	Normální koagulace
+T25	SYMPTOM 2510 2532	normální funkce ledvin
+T26	SYMPTOM 2534 2552	bez iontových změn
+T27	SYMPTOM 2555 2590	s negativními reaktanty akutní fáze
+T28	SYMPTOM 2669 2681	normálním CK
+T29	SYMPTOM 2744 2774	normální kardiotorakální index
+T30	SYMPTOM 3098 3126	Levý koronární kmen bez lézí
+T31	SYMPTOM 3479 3520	Obvodová a pravá koronární tepna bez lézí
+T32	SYMPTOM 3538 3562	levá komora nedilatovaná
+T33	SYMPTOM 3564 3590	s normální tloušťkou stěny
+T34	SYMPTOM 3592 3627	Normální globální systolická funkce
+T35	SYMPTOM 3644 3683	hypokineze dolního septa a dolního čela
+T36	SYMPTOM 3685 3728	Transmitrální plnící obraz poruchy relaxace
+T37	SYMPTOM 3744 3768	Levá síň není dilatovaná
+T38	SYMPTOM 3770 3792	Nedilatovaná pravá síň
+T39	SYMPTOM 3794 3858	Nedilatovaná pravá komora s normální globální systolickou funkcí
+T40	SYMPTOM 3943 3991	Aortální chlopeň morfologicky a funkčně normální
+T41	SYMPTOM 3993 4036	Trikuspidální chlopeň morfologicky normální
+T42	SYMPTOM 4106 4137	Dolní dutá žíla není dilatovaná
+T43	SYMPTOM 4140 4174	fyziologickým inspiračním kolapsem
+T44	SYMPTOM 4205 4221	Epikardiální tuk
+T45	SYMPTOM 4223 4247	Nedilatovaný kořen aorty
+T46	SYMPTOM 4249 4301	Magnetická rezonance srdce: vyšetření v mezích normy
+T47	SYMPTOM 4317 4332	zánětu myokardu
+T48	SYMPTOM 4338 4359	ischemického zjizvení
+T49	SYMPTOM 4361 4425	Biventrikulární velikost a systolická funkce v normálních mezích
+T50	SYMPTOM 4663 4706	Ektopická céva vycházející z pravého sinusu
+T51	SYMPTOM 5994 6010	sinusového rytmu
+T52	SYMPTOM 6517 6539	hemodynamicky stabilní
+T53	SYMPTOM 6545 6561	bolesti na hrudi
+T54	SYMPTOM 6593 6623	bez iontových nebo jiných změn
+T55	SYMPTOM 6629 6753	transtorakálním echokardiografickém vyšetření byla velikost a funkce biventrikulárního systému normální, bez významných změn
+T56	SYMPTOM 6982 7016	elevace markerů poškození myokardu
+T57	SYMPTOM 9501 9527	normální funkce obou komor

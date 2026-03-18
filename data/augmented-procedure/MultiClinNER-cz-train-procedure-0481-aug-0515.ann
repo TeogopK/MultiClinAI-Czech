@@ -1,0 +1,30 @@
+T1	PROCEDURE 399 418	Fyzikální vyšetření
+T2	PROCEDURE 1099 1106	palpaci
+T3	PROCEDURE 1684 1698	Vyšetření moči
+T4	PROCEDURE 1901 1934	sérologie na hepatitidu B, C, HIV
+T5	PROCEDURE 2066 2093	glukózové toleranční křivky
+T6	PROCEDURE 2104 2117	jaterní testy
+T7	PROCEDURE 2119 2133	Kultivace krve
+T8	PROCEDURE 2119 2142	Kultivace krve, stolice
+T9	PROCEDURE 2119 2149	Kultivace krve, stolice a moči
+T10	PROCEDURE 2166 2196	Proteinurie ve 24hodinové moči
+T11	PROCEDURE 2361 2396	jádrového extrahovatelného antigenu
+T12	PROCEDURE 2398 2401	ENA
+T13	PROCEDURE 2465 2493	Antifosfolipidové protilátky
+T14	PROCEDURE 2561 2577	Virová sérologie
+T15	PROCEDURE 2594 2599	ELISA
+T16	PROCEDURE 2643 2648	ELISA
+T17	PROCEDURE 2677 2682	ELISA
+T18	PROCEDURE 2770 2827	dolní končetině ověřenou žilním dopplerovským ultrazvukem
+T19	PROCEDURE 2867 2885	rentgenem hrudníku
+T20	PROCEDURE 2887 2906	elektrokardiogramem
+T21	PROCEDURE 2908 2938	dopplerovskou echokardiografií
+T22	PROCEDURE 3007 3030	pulzy metylprednisolonu
+T23	PROCEDURE 3137 3150	antikoagulace
+T24	PROCEDURE 3350 3358	CT mozku
+T25	PROCEDURE 3361 3382	elektroencefalogramem
+T26	PROCEDURE 3407 3419	plazmaferézy
+T27	PROCEDURE 3443 3467	pulzy 1 g cyklofosfamidu
+T28	PROCEDURE 3612 3624	antivirotika
+T29	PROCEDURE 3627 3658	antihypertenzivy inhibitory ACE
+T30	PROCEDURE 3950 3955	léčbě

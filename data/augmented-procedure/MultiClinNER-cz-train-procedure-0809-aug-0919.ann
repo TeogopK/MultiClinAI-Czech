@@ -1,0 +1,44 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 240 252	dietní léčbu
+T3	PROCEDURE 817 836	Fyzikální vyšetření
+T4	PROCEDURE 1003 1019	Auskultace srdce
+T5	PROCEDURE 1057 1072	Auskultace plic
+T6	PROCEDURE 1105 1121	Vyšetření břicha
+T7	PROCEDURE 1288 1305	elektrokardiogram
+T8	PROCEDURE 1307 1310	EKG
+T9	PROCEDURE 1542 1559	Elektrokardiogram
+T10	PROCEDURE 2746 2772	Markery poškození myokardu
+T11	PROCEDURE 2821 2847	Rentgenový snímek hrudníku
+T12	PROCEDURE 2896 2925	Transtorakální echokardiogram
+T13	PROCEDURE 2927 2930	TTE
+T14	PROCEDURE 3229 3267	Aortální chlopeň trojcípá, sklerotická
+T15	PROCEDURE 3404 3433	Transtorakální echokardiogram
+T16	PROCEDURE 3655 3669	Koronarografie
+T17	PROCEDURE 3787 3827	intravaskulárním ultrazvukovém vyšetření
+T18	PROCEDURE 3829 3833	IVUS
+T19	PROCEDURE 3857 3889	Revaskularizace: pravá koronární
+T20	PROCEDURE 3874 3940	pravá koronární tepna: přímá implantace stentu uvolňujícího léčivo
+T21	PROCEDURE 4001 4014	angiografický
+T22	PROCEDURE 4025 4095	Elektrofyziologická studie (EEF): s pravým femorálním žilním přístupem
+T23	PROCEDURE 4053 4056	EEF
+T24	PROCEDURE 4431 4434	TEE
+T25	PROCEDURE 4485 4507	elektrická kardioverze
+T26	PROCEDURE 4509 4512	EKV
+T27	PROCEDURE 5188 5199	elektrogram
+T28	PROCEDURE 5235 5305	Ablaci pravého raménka jsme provedli pomocí konvenčního 4mm FJ katétru
+T29	PROCEDURE 5419 5472	implantován dvoukomorový kardiostimulátor DDDR Boston
+T30	PROCEDURE 5557 5570	betablokátory
+T31	PROCEDURE 5626 5636	telemetrií
+T32	PROCEDURE 5704 5733	transtorakální echokardiogram
+T33	PROCEDURE 5890 5904	koronarografie
+T34	PROCEDURE 5989 6027	revaskularizace pomocí lékového stentu
+T35	PROCEDURE 6114 6132	elektrokardiogramu
+T36	PROCEDURE 6356 6382	elektrofyziologická studie
+T37	PROCEDURE 6550 6561	elektrogram
+T38	PROCEDURE 6725 6747	ablace pravého raménka
+T39	PROCEDURE 6750 6782	implantace DDD kardiostimulátoru
+T40	PROCEDURE 7138 7152	elektromyogram
+T41	PROCEDURE 7155 7174	genetické vyšetření
+T42	PROCEDURE 7363 7389	implantací lékového stentu
+T43	PROCEDURE 7391 7413	Ablace pravého raménka
+T44	PROCEDURE 7415 7460	Implantace bostonského kardiostimulátoru DDDR

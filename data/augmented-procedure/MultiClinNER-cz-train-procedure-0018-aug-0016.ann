@@ -1,0 +1,36 @@
+T1	PROCEDURE 129 139	ultrazvuku
+T2	PROCEDURE 324 345	rozšiřující vyšetření
+T3	PROCEDURE 348 366	rentgenem hrudníku
+T4	PROCEDURE 368 376	hemogram
+T5	PROCEDURE 378 387	biochemií
+T6	PROCEDURE 390 431	abdomino-pelvickou počítačovou tomografií
+T7	PROCEDURE 570 602	umístit filtr do dolní duté žíly
+T8	PROCEDURE 611 649	zabránilo progresi a embolizaci trombu
+T9	PROCEDURE 709 726	chirurgické léčby
+T10	PROCEDURE 763 781	kardiochirurgickou
+T11	PROCEDURE 808 849	provedli magnetickou rezonanční urografii
+T12	PROCEDURE 851 858	Uro-MRI
+T13	PROCEDURE 862 914	angiografické vyšetření pomocí počítačové tomografie
+T14	PROCEDURE 916 924	angio-CT
+T15	PROCEDURE 928 938	kavografií
+T16	PROCEDURE 1363 1381	kardiochirurgickým
+T17	PROCEDURE 1416 1427	sternotomie
+T18	PROCEDURE 1430 1465	levostranná subkostální laparotomie
+T19	PROCEDURE 1471 1556	uvolnění slezinného úhlu tlustého střeva otevřením retroperitonea v úrovni mezenteria
+T20	PROCEDURE 1557 1590	levostranná radikální nefrektomie
+T21	PROCEDURE 1601 1614	nefrektomický
+T22	PROCEDURE 1683 1746	mimotělního oběhu s hlubokou hypotermií a mozkovou retroperfuzí
+T23	PROCEDURE 1750 1818	filtr odstraní jeho uzavřením a trakcí pod fluoroskopickou kontrolou
+T24	PROCEDURE 1879 1906	pravostrannou aurikulotomií
+T25	PROCEDURE 1987 2021	resekcí renální žíly a jejího ústí
+T26	PROCEDURE 2057 2076	trombektomií trakcí
+T27	PROCEDURE 2089 2128	opravou defektu pomocí záplaty Goretex®
+T28	PROCEDURE 2156 2189	antikoagulaci dikumarinovými léky
+T29	PROCEDURE 2226 2244	syntetického štěpu
+T30	PROCEDURE 2247 2267	Patologická anatomie
+T31	PROCEDURE 2569 2581	CT vyšetření
+T32	PROCEDURE 2665 2686	rozšířeným vyšetřením
+T33	PROCEDURE 2694 2706	scintigrafie
+T34	PROCEDURE 2709 2724	celotělového CT
+T35	PROCEDURE 2846 2858	resekce léze
+T36	PROCEDURE 2890 2901	nefrektomii

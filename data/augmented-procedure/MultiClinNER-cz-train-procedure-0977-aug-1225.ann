@@ -1,0 +1,40 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 253 279	Dyslipidemie léčená dietou
+T3	PROCEDURE 418 461	transtorakální echokardiografické vyšetření
+T4	PROCEDURE 707 711	CPAP
+T5	PROCEDURE 877 899	orotracheální intubaci
+T6	PROCEDURE 1029 1045	resekce prostaty
+T7	PROCEDURE 1336 1369	základními resuscitačními manévry
+T8	PROCEDURE 1371 1374	KPR
+T9	PROCEDURE 1378 1429	výbojem z poloautomatického externího defibrilátoru
+T10	PROCEDURE 1597 1605	intubaci
+T11	PROCEDURE 1620 1641	mechanickou ventilaci
+T12	PROCEDURE 1856 1875	FYZIKÁLNÍ VYŠETŘENÍ
+T13	PROCEDURE 1991 2013	orotracheální intubací
+T14	PROCEDURE 2027 2048	mechanickou ventilaci
+T15	PROCEDURE 2062 2080	Auskultace karotid
+T16	PROCEDURE 2134 2152	srdeční auskultace
+T17	PROCEDURE 2290 2307	Plicní auskultace
+T18	PROCEDURE 2345 2361	Vyšetření břicha
+T19	PROCEDURE 2491 2500	biochemie
+T20	PROCEDURE 2567 2572	ionty
+T21	PROCEDURE 2663 2671	Hemogram
+T22	PROCEDURE 2719 2728	Koagulace
+T23	PROCEDURE 2804 2817	toxiny v moči
+T24	PROCEDURE 2829 2852	Arteriální krevní plyny
+T25	PROCEDURE 2914 2949	Přenosný rentgenový snímek hrudníku
+T26	PROCEDURE 3058 3075	Elektrokardiogram
+T27	PROCEDURE 3077 3080	EKG
+T28	PROCEDURE 3243 3261	CT vyšetření lebky
+T29	PROCEDURE 3316 3360	perfuzní mapa a normální supraaortální kmeny
+T30	PROCEDURE 3371 3387	echokardiografie
+T31	PROCEDURE 3793 3807	Koronarografie
+T32	PROCEDURE 3904 3933	transtorakální echokardiogram
+T33	PROCEDURE 4116 4147	Transezofageální echokardiogram
+T34	PROCEDURE 4300 4326	Magnetická rezonance srdce
+T35	PROCEDURE 4328 4331	MRI
+T36	PROCEDURE 4719 4728	extubován
+T37	PROCEDURE 5209 5230	magnetickou rezonanci
+T38	PROCEDURE 5281 5315	provedení náhrady mitrální chlopně
+T39	PROCEDURE 5347 5439	implantací dvou goretexových neochorů 4/0 na P2 a AM (Physio 30 mm) plus mitrálního prstence
+T40	PROCEDURE 5504 5540	implantován automatický defibrilátor

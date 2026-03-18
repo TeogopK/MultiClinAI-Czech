@@ -1,0 +1,20 @@
+T1	PROCEDURE 98 110	chemoterapií
+T2	PROCEDURE 113 125	radioterapií
+T3	PROCEDURE 177 234	mozkové metastázy, u níž byla provedena kompletní resekce
+T4	PROCEDURE 247 273	holokraniální radioterapie
+T5	PROCEDURE 492 511	antibiotickou léčbu
+T6	PROCEDURE 732 754	orotracheální intubaci
+T7	PROCEDURE 757 778	mechanickou ventilaci
+T8	PROCEDURE 790 816	rentgenový snímek hrudníku
+T9	PROCEDURE 932 958	Katetrizace plicních tepen
+T10	PROCEDURE 1393 1411	Antibiotická léčba
+T11	PROCEDURE 1501 1516	kortikosteroidy
+T12	PROCEDURE 1668 1679	CT hrudníku
+T13	PROCEDURE 1895 1918	bronchoalveolární laváž
+T14	PROCEDURE 1931 1957	bakteriologickou kultivaci
+T15	PROCEDURE 1969 1982	Ziehl-Nielsen
+T16	PROCEDURE 2033 2088	sérologie na atypickou pneumonii (Legionella, Chlamydia
+T17	PROCEDURE 2281 2302	výtěr z nosu a hltanu
+T18	PROCEDURE 2315 2358	polymerázová řetězová reakce v reálném čase
+T19	PROCEDURE 2360 2366	RT-PCR
+T20	PROCEDURE 2495 2516	odpojení od ventilace

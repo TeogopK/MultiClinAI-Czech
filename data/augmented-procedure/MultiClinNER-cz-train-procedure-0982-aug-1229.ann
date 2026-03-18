@@ -1,0 +1,29 @@
+T1	PROCEDURE 142 161	fyzikální vyšetření
+T2	PROCEDURE 724 735	katetrizace
+T3	PROCEDURE 1191 1207	Auskultace srdce
+T4	PROCEDURE 1275 1277	AP
+T5	PROCEDURE 1468 1471	EKG
+T6	PROCEDURE 1641 1655	Echokardiogram
+T7	PROCEDURE 2367 2379	RTG hrudníku
+T8	PROCEDURE 2533 2536	EKG
+T9	PROCEDURE 2600 2626	echokardiografickém snímku
+T10	PROCEDURE 2654 2665	katetrizace
+T11	PROCEDURE 2707 2728	antiagregační terapií
+T12	PROCEDURE 2730 2743	antikoagulací
+T13	PROCEDURE 2762 2793	léky snižujícími hladinu lipidů
+T14	PROCEDURE 2795 2809	beta-blokátory
+T15	PROCEDURE 2812 2826	inhibitory ACE
+T16	PROCEDURE 2847 2870	tuberkulostatické léčby
+T17	PROCEDURE 2894 2916	Katetrizační vyšetření
+T18	PROCEDURE 2918 2950	angiografie levé koronární tepny
+T19	PROCEDURE 3129 3156	Pravá koronární angiografie
+T20	PROCEDURE 3319 3328	MRI srdce
+T21	PROCEDURE 3965 3978	antikoagulaci
+T22	PROCEDURE 4218 4232	kardiochirurgy
+T23	PROCEDURE 4294 4325	resekci aneuryzmatu levé komory
+T24	PROCEDURE 4328 4343	extrakci trombu
+T25	PROCEDURE 4356 4387	uzávěrem perikardiální záplatou
+T26	PROCEDURE 4527 4545	vazoaktivních léků
+T27	PROCEDURE 4590 4599	extubován
+T28	PROCEDURE 4893 4915	resekcí aneuryzmatu LK
+T29	PROCEDURE 4918 4954	extrakcí intraventrikulárního trombu

@@ -1,0 +1,27 @@
+T1	PROCEDURE 83 91	anamnéza
+T2	PROCEDURE 504 523	Fyzikální vyšetření
+T3	PROCEDURE 661 672	Hlava a krk
+T4	PROCEDURE 691 707	Auskultace srdce
+T5	PROCEDURE 732 747	Auskultace plic
+T6	PROCEDURE 859 868	Končetiny
+T7	PROCEDURE 935 938	EKG
+T8	PROCEDURE 1086 1098	RTG hrudníku
+T9	PROCEDURE 1408 1420	Krevní obraz
+T10	PROCEDURE 1625 1639	Echokardiogram
+T11	PROCEDURE 2031 2045	Koronarografie
+T12	PROCEDURE 2376 2387	Aortografie
+T13	PROCEDURE 2420 2432	Koronární CT
+T14	PROCEDURE 2804 2818	koronarografie
+T15	PROCEDURE 3176 3193	koronární operaci
+T16	PROCEDURE 3199 3236	implantací trvalého kardiostimulátoru
+T17	PROCEDURE 3578 3581	EPS
+T18	PROCEDURE 3653 3705	implantován definitivní bikamerální kardiostimulátor
+T19	PROCEDURE 3707 3747	Poimplantační kontroly kardiostimulátoru
+T20	PROCEDURE 3916 3942	kardiochirurgickou operaci
+T21	PROCEDURE 3983 4056	koronární revaskularizační operace s dvojitou "Y" mamární tepnou pod ECMO
+T22	PROCEDURE 4071 4172	bypass levé mamární tepny do přední sestupné tepny a pravé mamární tepny do obtuózní marginální tepny
+T23	PROCEDURE 4186 4256	provedena distální a proximální ligace předního sestupného aneuryzmatu
+T24	PROCEDURE 4258 4268	intervenci
+T25	PROCEDURE 4397 4453	Implantace definitivního bikamerálního kardiostimulátoru
+T26	PROCEDURE 4517 4610	Koronární revaskularizace s dvojitou mamární tepnou na přední sestupnou a obtuózní marginální
+T27	PROCEDURE 4612 4650	Podvaz předního sestupného aneuryzmatu

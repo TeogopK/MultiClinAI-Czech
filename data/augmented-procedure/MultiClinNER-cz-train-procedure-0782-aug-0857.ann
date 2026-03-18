@@ -1,0 +1,36 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 344 382	artroplastika pravého kyčelního kloubu
+T5	PROCEDURE 410 434	s implantovanou protézou
+T6	PROCEDURE 436 449	Tonzilektomie
+T7	PROCEDURE 731 734	EKG
+T8	PROCEDURE 890 909	Fyzikální vyšetření
+T9	PROCEDURE 1114 1130	Auskultace srdce
+T10	PROCEDURE 1176 1193	Plicní auskultace
+T11	PROCEDURE 1369 1391	Neurologické vyšetření
+T12	PROCEDURE 1726 1743	elektrokardiogram
+T13	PROCEDURE 1960 1986	Rentgenový snímek hrudníku
+T14	PROCEDURE 2046 2057	Laboratorně
+T15	PROCEDURE 2130 2139	Biochemie
+T16	PROCEDURE 2235 2244	Koagulace
+T17	PROCEDURE 2266 2276	biomarkerů
+T18	PROCEDURE 2420 2438	Monitorování srdce
+T19	PROCEDURE 2507 2536	Transtorakální echokardiogram
+T20	PROCEDURE 2538 2541	TTE
+T21	PROCEDURE 2935 2966	Multimodální CT vyšetření lebky
+T22	PROCEDURE 3460 3468	Angio-CT
+T23	PROCEDURE 3782 3804	Perfuzní angio-CT scan
+T24	PROCEDURE 4099 4119	CT koronárních tepen
+T25	PROCEDURE 4541 4555	Echokardiogram
+T26	PROCEDURE 4734 4759	intravenózní fibrinolýzou
+T27	PROCEDURE 4866 4892	neurozobrazovací vyšetření
+T28	PROCEDURE 5049 5052	EKG
+T29	PROCEDURE 5096 5099	TTE
+T30	PROCEDURE 5289 5321	CT angiografie koronárních tepen
+T31	PROCEDURE 5372 5375	TTE
+T32	PROCEDURE 5425 5447	etiologickém vyšetření
+T33	PROCEDURE 5528 5545	analytické studii
+T34	PROCEDURE 5692 5721	vyšetření lupus antikoagulans
+T35	PROCEDURE 5768 5789	protidestičková léčba
+T36	PROCEDURE 5871 5891	logopedickou terapii

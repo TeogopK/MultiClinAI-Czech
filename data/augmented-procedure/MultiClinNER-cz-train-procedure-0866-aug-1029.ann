@@ -1,0 +1,21 @@
+T1	PROCEDURE 78 99	antiretrovirové léčbě
+T2	PROCEDURE 134 153	fyzikální vyšetření
+T3	PROCEDURE 550 593	nukleosidových analogových antiretrovirotik
+T4	PROCEDURE 1071 1105	vysokoprůtokovou kyslíkovou terapi
+T5	PROCEDURE 1146 1156	Auskultace
+T6	PROCEDURE 1209 1235	Rentgenový snímek hrudníku
+T7	PROCEDURE 1342 1370	echokardiografické vyšetření
+T8	PROCEDURE 1666 1698	neinvazivní mechanická ventilace
+T9	PROCEDURE 1829 1855	markery poškození myokardu
+T10	PROCEDURE 1957 1975	krevními kulturami
+T11	PROCEDURE 1996 1999	EKG
+T12	PROCEDURE 2169 2183	Echokardiogram
+T13	PROCEDURE 2648 2660	Koronografie
+T14	PROCEDURE 3280 3295	Lipidový profil
+T15	PROCEDURE 3430 3462	neinvazivní mechanické ventilaci
+T16	PROCEDURE 3465 3497	léčbě diuretiky a vazodilatancii
+T17	PROCEDURE 3603 3637	vyšetření dilatační kardiomyopatie
+T18	PROCEDURE 3663 3689	markerů poškození myokardu
+T19	PROCEDURE 3717 3731	Koronarografie
+T20	PROCEDURE 3830 3843	angioplastiky
+T21	PROCEDURE 3846 3872	implantací lékových stentů

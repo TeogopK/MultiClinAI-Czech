@@ -1,0 +1,42 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 439 456	elektrokardiogram
+T3	PROCEDURE 614 625	fibrinolýza
+T4	PROCEDURE 637 658	protidestičková léčba
+T5	PROCEDURE 806 817	fibrinolýze
+T6	PROCEDURE 904 917	angioplastika
+T7	PROCEDURE 1198 1290	implantací tří lékových stentů v počáteční, střední a distální třetině pravé koronární tepny
+T8	PROCEDURE 1459 1478	FYZIKÁLNÍ VYŠETŘENÍ
+T9	PROCEDURE 1558 1590	oxygenoterapii v nosních brýlích
+T10	PROCEDURE 1689 1705	Auskultace srdce
+T11	PROCEDURE 1992 2014	koagulačním vyšetřením
+T12	PROCEDURE 2281 2297	echokardiografie
+T13	PROCEDURE 2740 2754	dopplerovského
+T14	PROCEDURE 2855 2872	Elektrokardiogram
+T15	PROCEDURE 2874 2877	EKG
+T16	PROCEDURE 3068 3082	Koronarografie
+T17	PROCEDURE 3123 3160	intrakoronární injekci nitroglycerinu
+T18	PROCEDURE 3695 3723	echokardiografické vyšetření
+T19	PROCEDURE 3880 3894	koronarografii
+T20	PROCEDURE 3939 3953	koronarografii
+T21	PROCEDURE 4435 4453	srdeční auskultaci
+T22	PROCEDURE 4475 4508	echokardiografie u lůžka pacienta
+T23	PROCEDURE 4852 4905	implantace extrakorporálního membránového oxygenátoru
+T24	PROCEDURE 4907 4911	ECMO
+T25	PROCEDURE 4958 5014	periferní veno-arteriální (V-A) femorálně-femorální ECMO
+T26	PROCEDURE 5179 5200	mechanickou ventilaci
+T27	PROCEDURE 5398 5417	transplantaci srdce
+T28	PROCEDURE 5430 5457	oběhové podpory pomocí ECMO
+T29	PROCEDURE 5473 5530	ortotopická transplantace srdce od dárce s mozkovou smrtí
+T30	PROCEDURE 5532 5552	Extrakorporální oběh
+T31	PROCEDURE 5572 5610	periferního V-A femoro-axilárního ECMO
+T32	PROCEDURE 5669 5673	ECMO
+T33	PROCEDURE 5702 5715	transplantaci
+T34	PROCEDURE 5828 5839	fibrinolýza
+T35	PROCEDURE 5865 5914	Perkutánní transluminální koronární angioplastika
+T36	PROCEDURE 5916 5920	PTCA
+T37	PROCEDURE 5954 5991	Implantace tří lékových stentů do RCA
+T38	PROCEDURE 6052 6056	PTCA
+T39	PROCEDURE 6149 6153	ECMO
+T40	PROCEDURE 6159 6185	mechanická oběhová podpora
+T41	PROCEDURE 6199 6212	transplantaci
+T42	PROCEDURE 6214 6245	Ortotopická transplantace srdce

@@ -1,0 +1,25 @@
+T1	DISEASE 189 210	nežádoucí účinky léků
+T2	DISEASE 258 279	arteriální hypertenze
+T3	DISEASE 281 293	dyslipidemie
+T4	DISEASE 307 332	diabetes mellitus 2. typu
+T5	DISEASE 372 386	toxické návyky
+T6	DISEASE 1242 1287	akutní koronární syndrom bez elevací úseku ST
+T7	DISEASE 1394 1410	nekrózy myokardu
+T8	DISEASE 1468 1512	akutního koronárního syndromu bez ST elevace
+T9	DISEASE 1589 1623	lézi ve střední cirkumflexní tepně
+T10	DISEASE 1876 1910	segmentálních poruch kontraktility
+T11	DISEASE 2698 2742	významnou lézí ve střední cirkumflexní tepně
+T12	DISEASE 2810 2874	nedilatovaná levá komora s mírnou koncentrickou hypertrofií stěn
+T13	DISEASE 2900 2933	segmentální poruchy kontraktility
+T14	DISEASE 3058 3080	chlopenní srdeční vady
+T15	DISEASE 3088 3109	perikardiální výpotek
+T16	DISEASE 3608 3618	diabetička
+T17	DISEASE 4106 4168	infekcí močových cest, všechny plísňového původu (C. albicans)
+T18	DISEASE 4426 4450	genitourinárních infekcí
+T19	DISEASE 5416 5442	Ischemická choroba srdeční
+T20	DISEASE 5444 5536	Akutní koronární syndrom bez elevace úseku ST, s postižením jedné cévy na cirkumflexní tepně
+T21	DISEASE 5649 5659	hypertenze
+T22	DISEASE 5661 5673	dyslipidemie
+T23	DISEASE 5687 5712	diabetes mellitus 2. typu
+T24	DISEASE 5748 5770	Intolerance metforminu
+T25	DISEASE 5772 5803	Opakované infekce močových cest

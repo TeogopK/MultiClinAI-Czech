@@ -1,0 +1,37 @@
+T1	PROCEDURE 382 396	kultivací moči
+T2	PROCEDURE 421 436	ultrasonografie
+T3	PROCEDURE 439 461	intravenózní urografie
+T4	PROCEDURE 648 666	Rektální vyšetření
+T5	PROCEDURE 824 846	transuretrální resekce
+T6	PROCEDURE 848 873	Intraoperační cystoskopie
+T7	PROCEDURE 1021 1039	Anatomopatologický
+T8	PROCEDURE 1387 1407	anatomopatologických
+T9	PROCEDURE 1410 1430	rozšiřujících studií
+T10	PROCEDURE 1449 1460	cystektomie
+T11	PROCEDURE 1483 1493	resekčních
+T12	PROCEDURE 1768 1818	proveden močový bypass, perkutánní typ nefrostomie
+T13	PROCEDURE 1792 1818	perkutánní typ nefrostomie
+T14	PROCEDURE 1924 1935	Cystoskopie
+T15	PROCEDURE 2028 2046	Bimanuální palpací
+T16	PROCEDURE 2156 2174	rozšiřující studie
+T17	PROCEDURE 2177 2213	prostým rentgenovým snímkem hrudníku
+T18	PROCEDURE 2215 2233	břišně-pánevním CT
+T19	PROCEDURE 2236 2250	kostním skenem
+T20	PROCEDURE 2471 2540	radikální cystoprostatektomie s kontinentním rezervoárem typu Indiana
+T21	PROCEDURE 2569 2597	uvolnit dno močového měchýře
+T22	PROCEDURE 2629 2647	Anatomopatologický
+T23	PROCEDURE 2721 2749	imunohistochemickým barvením
+T24	PROCEDURE 3319 3348	adjuvantní chemo-radioterapii
+T25	PROCEDURE 3364 3381	chemoterapie CDDP
+T26	PROCEDURE 3377 3381	CDDP
+T27	PROCEDURE 3384 3419	konkomitantní radioterapií na pánev
+T28	PROCEDURE 3608 3622	podávání QT/RT
+T29	PROCEDURE 3751 3778	CT vyšetření břicha a pánve
+T30	PROCEDURE 4058 4077	Fyzikální vyšetření
+T31	PROCEDURE 4131 4140	ultrazvuk
+T32	PROCEDURE 4204 4228	gastroskopické vyšetření
+T33	PROCEDURE 4394 4406	radioterapii
+T34	PROCEDURE 4451 4458	operaci
+T35	PROCEDURE 4669 4687	gastrojejunostomie
+T36	PROCEDURE 4739 4754	paliativní péče
+T37	PROCEDURE 4797 4808	cystektomii

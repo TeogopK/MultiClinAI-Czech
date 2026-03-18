@@ -1,0 +1,21 @@
+T1	PROCEDURE 152 205	dlouhodobě léčena nesteroidními protizánětlivými léky
+T2	PROCEDURE 184 205	protizánětlivými léky
+T3	PROCEDURE 207 212	NSAID
+T4	PROCEDURE 216 224	steroidy
+T5	PROCEDURE 327 347	stomatologické léčby
+T6	PROCEDURE 348 366	zubními implantáty
+T7	PROCEDURE 438 457	Fyzikální vyšetření
+T8	PROCEDURE 657 674	Laboratorní testy
+T9	PROCEDURE 746 777	jaterní profil, lipidový profil
+T10	PROCEDURE 876 903	Sérologie na HBV, HCV a HIV
+T11	PROCEDURE 915 929	Krevní kultury
+T12	PROCEDURE 1167 1183	Ultrazvuk ledvin
+T13	PROCEDURE 1207 1216	ATB léčbě
+T14	PROCEDURE 1286 1296	dialyzační
+T15	PROCEDURE 1463 1478	renální biopsie
+T16	PROCEDURE 1515 1536	světelnou mikroskopií
+T17	PROCEDURE 1604 1607	PAS
+T18	PROCEDURE 1827 1850	Přímá imunofluorescence
+T19	PROCEDURE 1852 1875	Přímá imunofluorescence
+T20	PROCEDURE 2000 2027	Ultrastrukturální vyšetření
+T21	PROCEDURE 2053 2073	Patologická diagnóza

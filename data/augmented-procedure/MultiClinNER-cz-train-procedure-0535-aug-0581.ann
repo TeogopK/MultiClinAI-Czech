@@ -1,0 +1,31 @@
+T1	PROCEDURE 93 115	intravenózní urografii
+T2	PROCEDURE 428 447	Fyzikální vyšetření
+T3	PROCEDURE 566 573	palpaci
+T4	PROCEDURE 588 606	Rektální vyšetření
+T5	PROCEDURE 616 632	hmatnou prostatu
+T6	PROCEDURE 713 725	Krevní obraz
+T7	PROCEDURE 753 767	Biochemie krve
+T8	PROCEDURE 859 886	Systematické vyšetření moči
+T9	PROCEDURE 1023 1038	Močový sediment
+T10	PROCEDURE 1083 1092	cytologie
+T11	PROCEDURE 1119 1139	Zobrazovací techniky
+T12	PROCEDURE 1140 1171	Prostý rentgenový snímek břicha
+T13	PROCEDURE 1286 1290	IVUS
+T14	PROCEDURE 1732 1743	Cystografie
+T15	PROCEDURE 1838 1866	Perkutánní pyelografie vlevo
+T16	PROCEDURE 2013 2030	CT břicha a pánve
+T17	PROCEDURE 2497 2506	MRI pánve
+T18	PROCEDURE 2594 2636	transperitoneální středočárové laparotomie
+T19	PROCEDURE 2642 2708	obnaženy ureterální trakty od lumbální až po juxtavezikální oblast
+T20	PROCEDURE 2854 2886	oboustranná podélná ureterotomie
+T21	PROCEDURE 2910 3007	dvě papilární neoformace s pedunkulovanou implantační bází, a bylo rozhodnuto o jejich odstranění
+T22	PROCEDURE 3009 3026	Umístění pig-tail
+T23	PROCEDURE 3029 3049	uzavření uretrotomie
+T24	PROCEDURE 3051 3071	Patologická anatomie
+T25	PROCEDURE 3072 3091	Makroskopický popis
+T26	PROCEDURE 3222 3241	Mikroskopický popis
+T27	PROCEDURE 3631 3639	resekátu
+T28	PROCEDURE 4215 4234	antibiotickou léčbu
+T29	PROCEDURE 4364 4384	odstranění pig-tailu
+T30	PROCEDURE 4423 4430	operaci
+T31	PROCEDURE 4515 4537	intravenózní urografii

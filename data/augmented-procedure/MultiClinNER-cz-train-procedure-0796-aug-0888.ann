@@ -1,0 +1,44 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 120 132	dietní léčbu
+T3	PROCEDURE 662 691	základní resuscitační manévry
+T4	PROCEDURE 720 723	CVE
+T5	PROCEDURE 779 792	Pokročilá KPR
+T6	PROCEDURE 1014 1025	katetrizaci
+T7	PROCEDURE 1168 1181	rozšířená KPR
+T8	PROCEDURE 1201 1223	orotracheální intubací
+T9	PROCEDURE 1288 1354	implantován přechodný kardiostimulátor přes pravou femorální tepnu
+T10	PROCEDURE 1372 1391	srdeční katetrizace
+T11	PROCEDURE 1473 1498	kompletní revaskularizace
+T12	PROCEDURE 1516 1554	zavedena intraaortální balónková pumpa
+T13	PROCEDURE 1578 1589	katetrizace
+T14	PROCEDURE 1590 1621	je zavedena nazogastrická sonda
+T15	PROCEDURE 1707 1726	intravenózní infuzi
+T16	PROCEDURE 1846 1857	katetrizace
+T17	PROCEDURE 1934 1952	vazoaktivních léků
+T18	PROCEDURE 1966 1987	mechanickou ventilaci
+T19	PROCEDURE 2063 2081	Byla resuscitována
+T20	PROCEDURE 2248 2270	Neurologické vyšetření
+T21	PROCEDURE 2322 2339	Plicní auskultace
+T22	PROCEDURE 2367 2383	Auskultace srdce
+T23	PROCEDURE 2537 2540	EKG
+T24	PROCEDURE 2658 2677	srdeční katetrizace
+T25	PROCEDURE 2791 2855	Kompletní revaskularizace pomocí 2 stentů v LAD, 1 v OM a 1 v DC
+T26	PROCEDURE 2857 2883	Rentgenový snímek hrudníku
+T27	PROCEDURE 2910 2932	orotracheální intubace
+T28	PROCEDURE 2975 2989	Echokardiogram
+T29	PROCEDURE 3990 4009	Funkce štítné žlázy
+T30	PROCEDURE 4234 4252	vazoaktivních léků
+T31	PROCEDURE 4454 4475	mechanickou ventilaci
+T32	PROCEDURE 4517 4541	kardiorespirační podpory
+T33	PROCEDURE 4551 4572	venoarteriálního ECMO
+T34	PROCEDURE 4589 4604	kardiochirurgie
+T35	PROCEDURE 4655 4668	zavedení ECMO
+T36	PROCEDURE 4725 4754	vysazením vazoaktivních látek
+T37	PROCEDURE 5009 5025	Echokardiografie
+T38	PROCEDURE 5404 5439	léčbu betablokátory, inhibitory ACE
+T39	PROCEDURE 5888 5904	inhibitory PCSK9
+T40	PROCEDURE 5968 5990	kardiální rehabilitace
+T41	PROCEDURE 6135 6157	kardiální rehabilitace
+T42	PROCEDURE 6517 6542	kompletní revaskularizace
+T43	PROCEDURE 6609 6613	ECMO
+T44	PROCEDURE 6685 6695	anti-PCSK9

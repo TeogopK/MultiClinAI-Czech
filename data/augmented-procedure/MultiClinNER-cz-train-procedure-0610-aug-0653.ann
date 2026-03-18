@@ -1,0 +1,37 @@
+T1	PROCEDURE 52 64	císařský řez
+T2	PROCEDURE 187 214	rentgenovém snímku hrudníku
+T3	PROCEDURE 267 283	mediastinoskopie
+T4	PROCEDURE 286 293	biopsie
+T5	PROCEDURE 460 492	chemoterapie podle schématu ABVD
+T6	PROCEDURE 488 492	ABVD
+T7	PROCEDURE 529 552	radioterapie mediastina
+T8	PROCEDURE 831 861	chemoterapie přípravkem ESCHAP
+T9	PROCEDURE 893 905	chemoterapie
+T10	PROCEDURE 1037 1064	perorálním podávání morfinu
+T11	PROCEDURE 1179 1188	analgezii
+T12	PROCEDURE 1271 1283	chemoterapie
+T13	PROCEDURE 1302 1317	schématu ESCHAP
+T14	PROCEDURE 1371 1451	zavedení cévního portálu, ke kterému bylo přistoupeno pravou podklíčkovou cestou
+T15	PROCEDURE 1482 1512	plánování PCA s externí pumpou
+T16	PROCEDURE 1525 1537	chemoterapie
+T17	PROCEDURE 1573 1585	Monitorování
+T18	PROCEDURE 1598 1627	kontinuálního EKG v DII svodu
+T19	PROCEDURE 1629 1645	pulzní oxymetrií
+T20	PROCEDURE 1648 1682	měření krevního tlaku oscilometrií
+T21	PROCEDURE 1724 1741	lokální anestezii
+T22	PROCEDURE 1744 1810	sedaci 2 mg intravenózního midazolamu pomocí Seldingerovy techniky
+T23	PROCEDURE 1812 1953	K pravé podklíčkové žíle bylo přistoupeno pod spojnicí mezi distální třetinou a střední klíční třetinou s uspokojivým postupem vodicího drátu
+T24	PROCEDURE 1966 1979	aspirací krve
+T25	PROCEDURE 2017 2065	provedena předozadní (A-P) radiologická kontrola
+T26	PROCEDURE 2086 2098	chemoterapie
+T27	PROCEDURE 2131 2143	chemoterapie
+T28	PROCEDURE 2204 2213	vyšetření
+T29	PROCEDURE 2303 2329	Rentgenový snímek hrudníku
+T30	PROCEDURE 2515 2534	diagnostická punkce
+T31	PROCEDURE 2635 2647	chemoterapie
+T32	PROCEDURE 2666 2687	rentgenologická série
+T33	PROCEDURE 2912 2942	umístění endopleurální drenáže
+T34	PROCEDURE 2946 2983	evakuaci torakentézy hrudní chirurgií
+T35	PROCEDURE 3100 3124	pleurální drén odstraněn
+T36	PROCEDURE 3131 3196	zaveden nový centrální žilní přístup levým podklíčkovým přístupem
+T37	PROCEDURE 3231 3249	léčba chemoterapií

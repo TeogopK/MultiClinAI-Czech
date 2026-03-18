@@ -1,0 +1,55 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 106 114	Anamnéza
+T4	PROCEDURE 204 226	kardiologická anamnéza
+T5	PROCEDURE 234 250	rodinná anamnéza
+T6	PROCEDURE 310 318	anamnéza
+T7	PROCEDURE 594 640	základní kardiopulmonální resuscitační manévry
+T8	PROCEDURE 703 725	orotracheální intubace
+T9	PROCEDURE 757 804	rozšířené kardiopulmonální resuscitační manévry
+T10	PROCEDURE 806 816	Záznam AED
+T11	PROCEDURE 847 870	defibrilačních pokusech
+T12	PROCEDURE 1194 1216	elektrické kardioverzi
+T13	PROCEDURE 1268 1291	hemodynamické vyšetření
+T14	PROCEDURE 1395 1406	katetrizace
+T15	PROCEDURE 1431 1463	CT vyšetření lebky bez kontrastu
+T16	PROCEDURE 1466 1500	CT vyšetření hrudníku s kontrastem
+T17	PROCEDURE 1677 1696	Fyzikální vyšetření
+T18	PROCEDURE 1822 1831	Intubován
+T19	PROCEDURE 1845 1866	mechanickou ventilaci
+T20	PROCEDURE 2012 2047	indukci před orotracheální intubací
+T21	PROCEDURE 2340 2384	Záznam poloautomatického defibrilátoru (AED)
+T22	PROCEDURE 2380 2383	AED
+T23	PROCEDURE 2409 2431	elektrické kardioverze
+T24	PROCEDURE 2605 2622	Elektrokardiogram
+T25	PROCEDURE 2624 2627	EKG
+T26	PROCEDURE 2778 2799	Plyny ve venózní krvi
+T27	PROCEDURE 2957 2966	Biochemie
+T28	PROCEDURE 3302 3310	Hemogram
+T29	PROCEDURE 3426 3435	Koagulace
+T30	PROCEDURE 3521 3544	Hemodynamické vyšetření
+T31	PROCEDURE 3608 3624	Ventrikulografie
+T32	PROCEDURE 3695 3706	Aortografie
+T33	PROCEDURE 3859 3883	CT hrudníku s kontrastem
+T34	PROCEDURE 4780 4803	předchozím KPR manévrům
+T35	PROCEDURE 4805 4827	CT mozku bez kontrastu
+T36	PROCEDURE 4864 4878	Echokardiogram
+T37	PROCEDURE 5121 5147	Rentgenový snímek hrudníku
+T38	PROCEDURE 5248 5294	Kontinuální elektrokardiografické monitorování
+T39	PROCEDURE 5602 5604	MR
+T40	PROCEDURE 5723 5776	Normální perfuzní studie myokardu při prvním průchodu
+T41	PROCEDURE 6406 6420	koronarografie
+T42	PROCEDURE 6464 6472	CT lebky
+T43	PROCEDURE 6475 6486	CT hrudníku
+T44	PROCEDURE 6618 6641	terapeutická hypotermie
+T45	PROCEDURE 6658 6674	echokardiografie
+T46	PROCEDURE 6870 6920	kontinuálního elektrokardiografického monitorování
+T47	PROCEDURE 7151 7174	urgentní vyšetření krve
+T48	PROCEDURE 7177 7212	analýza arteriálních krevních plynů
+T49	PROCEDURE 7270 7286	léčba hypotermií
+T50	PROCEDURE 7468 7489	antibiotickou terapií
+T51	PROCEDURE 7701 7710	extubován
+T52	PROCEDURE 7792 7818	magnetická rezonance srdce
+T53	PROCEDURE 7921 8011	implantaci jednokomorového automatického implantabilního kardioverteru defibrilátoru (ICD)
+T54	PROCEDURE 8007 8010	ICD
+T55	PROCEDURE 8294 8324	Implantace jednokomorového ICD

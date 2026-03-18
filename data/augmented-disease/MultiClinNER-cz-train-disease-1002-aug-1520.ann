@@ -1,0 +1,36 @@
+T1	DISEASE 137 154	srdečního selhání
+T2	DISEASE 167 191	dilatační kardiomyopatie
+T3	DISEASE 223 256	zneužívání různých omamných látek
+T4	DISEASE 360 365	kuřák
+T5	DISEASE 517 524	syfilis
+T6	DISEASE 669 696	paroxyzmální noční dušnosti
+T7	DISEASE 756 771	dyschromatopsie
+T8	DISEASE 1311 1326	plicní kongesce
+T9	DISEASE 1371 1430	velmi dilatovaná levá komora s těžkou systolickou dysfunkcí
+T10	DISEASE 1533 1539	tromby
+T11	DISEASE 1541 1596	Dilatovaná pravá komora, s těžkou systolickou dysfunkcí
+T12	DISEASE 1631 1666	Středně těžká mitrální insuficience
+T13	DISEASE 1668 1699	Středně těžká plicní hypertenze
+T14	DISEASE 1922 1942	ischemickou příhodou
+T15	DISEASE 2006 2021	kortikální léze
+T16	DISEASE 2072 2146	naznačující infarkty v subakutní fázi, největší vpravo bazálně okcipitální
+T17	DISEASE 2197 2208	korové léze
+T18	DISEASE 2429 2473	Mírná až středně těžká mitrální insuficience
+T19	DISEASE 2475 2501	Závažná dilatace levé síně
+T20	DISEASE 2509 2530	intrakavitární tromby
+T21	DISEASE 2813 2830	srdečního selhání
+T22	DISEASE 3124 3151	paroxyzmální fibrilace síní
+T23	DISEASE 3162 3204	nesetrvalé monomorfní komorové tachykardie
+T24	DISEASE 3413 3431	komorové dysfunkce
+T25	DISEASE 3550 3592	toxická nebo HIV asociovaná kardiomyopatie
+T26	DISEASE 3728 3751	intrakavitárních trombů
+T27	DISEASE 3754 3781	paroxyzmální fibrilaci síní
+T28	DISEASE 3856 3900	hemoragickou transformaci mozkového infarktu
+T29	DISEASE 4087 4104	srdečního selhání
+T30	DISEASE 4106 4137	Těžká biventrikulární dysfunkce
+T31	DISEASE 4176 4219	Neudržovaná monomorfní komorová tachykardie
+T32	DISEASE 4221 4248	Paroxysmální fibrilace síní
+T33	DISEASE 4250 4286	Intrakavitární trombus (levá komora)
+T34	DISEASE 4354 4419	Subakutní ischemická cévní mozková příhoda v pravém teritoriu PKS
+T35	DISEASE 4499 4510	HIV infekce
+T36	DISEASE 4542 4564	Příjem toxických látek

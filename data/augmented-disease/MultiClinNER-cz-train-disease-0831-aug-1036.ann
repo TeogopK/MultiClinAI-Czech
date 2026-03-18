@@ -1,0 +1,47 @@
+T1	DISEASE 81 95	lékové alergie
+T2	DISEASE 103 105	DM
+T3	DISEASE 107 110	DLP
+T4	DISEASE 116 119	AHT
+T5	DISEASE 129 134	kuřák
+T6	DISEASE 136 156	Chronická gastritida
+T7	DISEASE 230 243	zemřela náhle
+T8	DISEASE 292 295	AIM
+T9	DISEASE 325 344	Chagasovou chorobou
+T10	DISEASE 903 940	pravidelnou tachykardii s širokým QRS
+T11	DISEASE 1053 1066	BAV 1. stupně
+T12	DISEASE 1206 1213	úzkosti
+T13	DISEASE 1758 1775	srdečního selhání
+T14	DISEASE 1862 1890	mírnou mitrální insuficiencí
+T15	DISEASE 2038 2074	pravidelná tachykardie s širokým QRS
+T16	DISEASE 2091 2164	komorovou tachykardií bazálního a horního komorového původu v levé komoře
+T17	DISEASE 2177 2181	SMVT
+T18	DISEASE 2214 2225	náhlé smrti
+T19	DISEASE 2447 2483	pravidelná tachykardie s širokým QRS
+T20	DISEASE 2506 2539	kompletní blokády pravého raménka
+T21	DISEASE 2660 2728	komorovou tachykardií bazálního anterolaterálního původu levé komory
+T22	DISEASE 2789 2802	AVB 1. stupně
+T23	DISEASE 3284 3303	pleurálního výpotku
+T24	DISEASE 3323 3403	nedilatovaná levá komora se středně těžkou až těžkou hypertrofií na úrovni septa
+T25	DISEASE 3811 3838	mírné aortální insuficienci
+T26	DISEASE 3840 3871	Mírná trikuspidální regurgitace
+T27	DISEASE 3896 3917	perikardiální výpotek
+T28	DISEASE 3985 4093	aneuryzma v oblasti bazálního dolního-septálního, bazálního dolního a bazálního laterálního dolního segmentu
+T29	DISEASE 4125 4152	mírná dysfunkce levé komory
+T30	DISEASE 4430 4466	posterobazální aneuryzma levé komory
+T31	DISEASE 4474 4492	apikální aneuryzma
+T32	DISEASE 4588 4608	komorová preexcitace
+T33	DISEASE 4613 4633	dvojitá uzlová dráha
+T34	DISEASE 4880 4905	komorovými extrasystolami
+T35	DISEASE 5312 5316	TVMS
+T36	DISEASE 5433 5459	tachykardie se širokým QRS
+T37	DISEASE 5669 5700	strukturálního onemocnění srdce
+T38	DISEASE 5736 5760	posterobazální aneuryzma
+T39	DISEASE 5768 5786	apikální aneuryzma
+T40	DISEASE 5849 5866	Chagasovu chorobu
+T41	DISEASE 6003 6020	Chagasovy choroby
+T42	DISEASE 6170 6197	gastroezofageálního refluxu
+T43	DISEASE 6408 6412	SMVT
+T44	DISEASE 6494 6496	VT
+T45	DISEASE 6635 6652	Chagasovu chorobu
+T46	DISEASE 6906 6944	trvalá monomorfní komorová tachykardie
+T47	DISEASE 6972 7015	kardiomyopatii v důsledku Chagasovy choroby

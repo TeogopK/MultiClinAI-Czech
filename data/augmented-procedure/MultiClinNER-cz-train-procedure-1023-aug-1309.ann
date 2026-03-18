@@ -1,0 +1,22 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 470 501	Transtorakální echokardiografie
+T3	PROCEDURE 761 780	Srdeční katetrizace
+T4	PROCEDURE 1028 1057	Zátěžový test se spotřebou O2
+T5	PROCEDURE 1183 1220	Zobrazení srdce magnetickou rezonancí
+T6	PROCEDURE 1222 1225	MRI
+T7	PROCEDURE 1356 1381	Zátěžový test spotřeby O2
+T8	PROCEDURE 1519 1550	Transtorakální echokardiografie
+T9	PROCEDURE 1700 1741	Implantován resynchronizační defibrilátor
+T10	PROCEDURE 1769 1801	srdeční resynchronizační terapii
+T11	PROCEDURE 2591 2610	FYZIKÁLNÍ VYŠETŘENÍ
+T12	PROCEDURE 2771 2787	Auskultace srdce
+T13	PROCEDURE 2831 2848	Plicní auskultace
+T14	PROCEDURE 3387 3399	RTG hrudníku
+T15	PROCEDURE 3529 3546	ELEKTROKARDIOGRAM
+T16	PROCEDURE 3548 3551	EKG
+T17	PROCEDURE 3639 3670	Transtorakální echokardiografie
+T18	PROCEDURE 4162 4189	pozitivně inotropní podpory
+T19	PROCEDURE 4349 4369	diuretickou podporou
+T20	PROCEDURE 4438 4480	resynchronizační terapie zařízením ICD-CRT
+T21	PROCEDURE 4851 4873	analýza ložisek železa
+T22	PROCEDURE 4979 5012	korekce funkčního deficitu železa

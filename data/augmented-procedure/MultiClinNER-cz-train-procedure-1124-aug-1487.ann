@@ -1,0 +1,26 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 902 924	elektrická kardioverze
+T3	PROCEDURE 990 1009	Fyzikální vyšetření
+T4	PROCEDURE 1173 1188	Auskultace plic
+T5	PROCEDURE 1239 1255	Auskultace srdce
+T6	PROCEDURE 1401 1403	KO
+T7	PROCEDURE 1493 1502	Biochemie
+T8	PROCEDURE 2152 2161	Koagulace
+T9	PROCEDURE 2261 2278	Elektrokardiogram
+T10	PROCEDURE 2280 2283	EKG
+T11	PROCEDURE 2377 2380	EKG
+T12	PROCEDURE 2492 2504	RTG hrudníku
+T13	PROCEDURE 2573 2602	Transtorakální echokardiogram
+T14	PROCEDURE 2899 2941	3D angio-CT rekonstrukce koronárních tepen
+T15	PROCEDURE 2969 2995	Magnetická rezonance srdce
+T16	PROCEDURE 2997 3000	CMR
+T17	PROCEDURE 3208 3221	echo sekvence
+T18	PROCEDURE 3565 3575	imunologii
+T19	PROCEDURE 3577 3601	antinukleární protilátky
+T20	PROCEDURE 3891 3913	Elektrická kardioverze
+T21	PROCEDURE 3992 4021	transtorakální echokardiogram
+T22	PROCEDURE 4212 4242	CT vyšetření koronárních tepen
+T23	PROCEDURE 4328 4331	CMR
+T24	PROCEDURE 4456 4507	implantován implantabilní kardioverter-defibrilátor
+T25	PROCEDURE 4723 4742	genetické vyšetření
+T26	PROCEDURE 5014 5028	Implantace ICD

@@ -1,0 +1,53 @@
+T1	SYMPTOM 1435 1448	ztráty vědomí
+T2	SYMPTOM 1516 1544	pocit závratě nevalného typu
+T3	SYMPTOM 1557 1565	tinnitus
+T4	SYMPTOM 1582 1602	vegetativní doprovod
+T5	SYMPTOM 1610 1619	palpitace
+T6	SYMPTOM 1663 1679	bolesti na hrudi
+T7	SYMPTOM 1687 1712	infekční klinické projevy
+T8	SYMPTOM 2019 2035	sinusového rytmu
+T9	SYMPTOM 2188 2205	fenoménem R nad T
+T10	SYMPTOM 2246 2270	presynkopálními příznaky
+T11	SYMPTOM 2429 2444	sinusovém rytmu
+T12	SYMPTOM 2765 2783	Dobrý celkový stav
+T13	SYMPTOM 2785 2795	Při vědomí
+T14	SYMPTOM 2798 2809	orientovaný
+T15	SYMPTOM 2815 2835	známek dechové tísně
+T16	SYMPTOM 2837 2878	Auskultace srdce: akce srdeční pravidelná
+T17	SYMPTOM 2884 2904	slyšitelných šelestů
+T18	SYMPTOM 2906 2924	dýchání alveolární
+T19	SYMPTOM 2930 2949	vedlejších fenomenů
+T20	SYMPTOM 2951 2978	Břicho: měkké a stlačitelné
+T21	SYMPTOM 2984 2999	hmatných útvarů
+T22	SYMPTOM 3005 3018	organomegalie
+T23	SYMPTOM 3024 3046	palpaci není bolestivé
+T24	SYMPTOM 3061 3084	peritoneálního dráždění
+T25	SYMPTOM 3086 3112	Dolní končetiny: bez otoků
+T26	SYMPTOM 3176 3186	při vědomí
+T27	SYMPTOM 3189 3200	orientovaný
+T28	SYMPTOM 3220 3232	bradypsychií
+T29	SYMPTOM 3234 3267	Jazyk formálně i obsahově správný
+T30	SYMPTOM 3269 3294	Kraniální nervy beze změn
+T31	SYMPTOM 3296 3316	Normální oční pohyby
+T32	SYMPTOM 3318 3354	Zorničky izochorické, normoreaktivní
+T33	SYMPTOM 3356 3404	Síla a citlivost končetin zachována a symetrická
+T34	SYMPTOM 3471 3486	sinusový rytmus
+T35	SYMPTOM 3610 3647	asymetrické negativní vlny T ve V3-V6
+T36	SYMPTOM 3649 3684	zploštělé vlny T v I, II, III a aVL
+T37	SYMPTOM 3832 3847	sinusový rytmus
+T38	SYMPTOM 3936 3976	asymetrické negativní vlny T ve V1 a III
+T39	SYMPTOM 5040 5088	Zvýšené objemy levé komory s globální hypokinezí
+T40	SYMPTOM 5125 5165	těžká deprese globální systolické funkce
+T41	SYMPTOM 5251 5278	zvýšený enddiastolický tlak
+T42	SYMPTOM 5308 5385	Pravá komora s normálním průměrem a mírnou depresí globální systolické funkce
+T43	SYMPTOM 5439 5476	Dolní dutá žíla (IVC) není dilatovaná
+T44	SYMPTOM 5717 5722	edému
+T45	SYMPTOM 5786 5810	Volné kostofrenní dutiny
+T46	SYMPTOM 5922 5959	epikardiální koronární tepny bez lézí
+T47	SYMPTOM 6024 6038	asymptomatická
+T48	SYMPTOM 6068 6091	prodloužený QT interval
+T49	SYMPTOM 7089 7123	klinické a hemodynamické stabilitě
+T50	SYMPTOM 7133 7161	elektrokardiografických změn
+T51	SYMPTOM 7341 7354	sníženou LVEF
+T52	SYMPTOM 8028 8054	QT interval v mezích normy
+T53	SYMPTOM 8542 8566	Koronární tepny bez lézí

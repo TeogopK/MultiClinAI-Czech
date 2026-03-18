@@ -1,0 +1,53 @@
+T1	SYMPTOM 558 575	bolesti v bedrech
+T2	SYMPTOM 870 884	pocit dušnosti
+T3	SYMPTOM 911 951	tísnivá bolest ve střední části hrudníku
+T4	SYMPTOM 954 967	ztrátu vědomí
+T5	SYMPTOM 1254 1309	přechodnou dolní postranní a laterální elevaci úseku ST
+T6	SYMPTOM 1523 1603	hypokinezi anterolaterálního a inferolaterálního bazálního a mediálního segmentu
+T7	SYMPTOM 1854 1863	Afebrilní
+T8	SYMPTOM 1865 1892	Orofarynx mírně hyperemický
+T9	SYMPTOM 1900 1921	překrvení krčních žil
+T10	SYMPTOM 1941 1955	rytmické zvuky
+T11	SYMPTOM 1960 1967	šelestů
+T12	SYMPTOM 1973 1982	extratonů
+T13	SYMPTOM 2001 2028	minimální rozptýlené sípání
+T14	SYMPTOM 2036 2049	hypoventilace
+T15	SYMPTOM 2051 2068	Břicho: nepopsané
+T16	SYMPTOM 2070 2096	Dolní končetiny: bez otoků
+T17	SYMPTOM 2163 2178	sinusový rytmus
+T18	SYMPTOM 2196 2207	normální PR
+T19	SYMPTOM 2209 2217	úzké QRS
+T20	SYMPTOM 2234 2258	Elevace úseku ST do 4 mm
+T21	SYMPTOM 2394 2409	sinusový rytmus
+T22	SYMPTOM 2427 2438	normální PR
+T23	SYMPTOM 2440 2448	úzké QRS
+T24	SYMPTOM 2455 2479	Q vlna v dolních svodech
+T25	SYMPTOM 2493 2526	ST izoelektrický ve všech svodech
+T26	SYMPTOM 2528 2557	negativní vlna T ve III a aVF
+T27	SYMPTOM 2599 2631	normální stín srdce a mediastina
+T28	SYMPTOM 2679 2712	akutní hemodynamické dekompenzace
+T29	SYMPTOM 2736 2753	plicní kondenzace
+T30	SYMPTOM 2773 2809	zachovaná ejekční frakce levé komory
+T31	SYMPTOM 2818 2892	hypokineze bazálního a mediálního anterolaterálního a laterálního segmentu
+T32	SYMPTOM 2965 2986	nedilatovaná levá síň
+T33	SYMPTOM 3117 3138	Normální plnicí tlaky
+T34	SYMPTOM 3140 3167	Levá komora není dilatovaná
+T35	SYMPTOM 3296 3338	Trojcípá aortální chlopeň, normální průtok
+T36	SYMPTOM 3340 3370	Aortální kořen není dilatovaný
+T37	SYMPTOM 3372 3423	Nedilatované pravé komory s normální kontraktilitou
+T38	SYMPTOM 3436 3478	Trikuspidální chlopeň s normálním průtokem
+T39	SYMPTOM 3549 3610	Urgentní koronarografie (29. 6. 2018): dominance pravé komory
+T40	SYMPTOM 4899 4936	Komplementové faktory C3 a C4 v normě
+T41	SYMPTOM 4938 4972	Normální cirkulující imunokomplexy
+T42	SYMPTOM 5035 5088	Negativní na (profilin a LTP), sóju, latex a anisakis
+T43	SYMPTOM 5440 5478	Prick test proti diklofenaku pozitivní
+T44	SYMPTOM 5682 5698	bolesti na hrudi
+T45	SYMPTOM 5768 5790	anomálie kontraktility
+T46	SYMPTOM 6475 6513	testu na tryptázu, který byl pozitivní
+T47	SYMPTOM 6596 6628	elevace markerů nekrózy myokardu
+T48	SYMPTOM 6731 6747	bolesti na hrudi
+T49	SYMPTOM 6926 6962	změny v segmentální kontraktilitě LK
+T50	SYMPTOM 7079 7129	zvýšené hodnoty specifického IgE proti vosímu jedu
+T51	SYMPTOM 7132 7177	kožní test, který byl pozitivní na diklofenak
+T52	SYMPTOM 7544 7558	Zachovalá LVEF
+T53	SYMPTOM 7628 7640	diklofenakem

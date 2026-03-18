@@ -1,0 +1,44 @@
+T1	PROCEDURE 162 184	Kardiologická anamnéza
+T2	PROCEDURE 186 224	implantace mechanické aortální protézy
+T3	PROCEDURE 756 775	Fyzikální vyšetření
+T4	PROCEDURE 776 798	Neurologické vyšetření
+T5	PROCEDURE 1187 1202	nosními brýlemi
+T6	PROCEDURE 1411 1414	EKG
+T7	PROCEDURE 1471 1483	RTG hrudníku
+T8	PROCEDURE 1516 1533	Laboratorní testy
+T9	PROCEDURE 1535 1544	biochemie
+T10	PROCEDURE 1688 1696	Hemogram
+T11	PROCEDURE 1784 1793	Koagulace
+T12	PROCEDURE 1814 1822	CT lebky
+T13	PROCEDURE 2254 2272	CT mozkové perfuze
+T14	PROCEDURE 2647 2655	Angio-CT
+T15	PROCEDURE 3150 3169	Mozková angiografie
+T16	PROCEDURE 3175 3181	sedaci
+T17	PROCEDURE 3197 3246	mozková arteriografie pravým femorálním přístupem
+T18	PROCEDURE 3407 3430	mechanické trombektomie
+T19	PROCEDURE 3488 3500	rekanalizace
+T20	PROCEDURE 3646 3660	Kultivace krve
+T21	PROCEDURE 3698 3701	TTE
+T22	PROCEDURE 3704 3707	TEE
+T23	PROCEDURE 4440 4459	mozková angiografie
+T24	PROCEDURE 4566 4589	mechanická trombektomie
+T25	PROCEDURE 4616 4634	rekanalizace tepny
+T26	PROCEDURE 4690 4732	neurologickému a hemodynamickému sledování
+T27	PROCEDURE 4823 4852	transtorakální echokardiogram
+T28	PROCEDURE 4916 4934	krevních kulturách
+T29	PROCEDURE 5036 5060	echokardiografický nález
+T30	PROCEDURE 5137 5152	operace chlopně
+T31	PROCEDURE 5247 5287	motorická a foniatrická ozdravná cvičení
+T32	PROCEDURE 5407 5417	telemetrie
+T33	PROCEDURE 5507 5548	implantaci provizorního kardiostimulátoru
+T34	PROCEDURE 5748 5763	provést operaci
+T35	PROCEDURE 5785 5803	podstoupil operaci
+T36	PROCEDURE 5832 5889	extrahována kovová chlopenní protéza s vyčištěním abscesu
+T37	PROCEDURE 5892 5971	implantována biologická protéza v aortální pozici a také suprakoronární trubice
+T38	PROCEDURE 6111 6114	EKG
+T39	PROCEDURE 6167 6183	echokardiografii
+T40	PROCEDURE 6209 6255	implantaci definitivního DDD kardiostimulátoru
+T41	PROCEDURE 6583 6595	trombektomie
+T42	PROCEDURE 6645 6684	implantací kardiostimulátoru DDDR (MCP)
+T43	PROCEDURE 6686 6756	Náhrada aortální chlopně biologickou aortální protézou Perimount č. 23
+T44	PROCEDURE 6788 6822	Implantace suprakoronárního tubusu

@@ -1,0 +1,42 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 1121 1142	elektrokardiografický
+T3	PROCEDURE 1216 1234	výbuších při 100 J
+T4	PROCEDURE 1270 1289	Fyzikální vyšetření
+T5	PROCEDURE 1423 1445	Neurologické vyšetření
+T6	PROCEDURE 1456 1472	Auskultace srdce
+T7	PROCEDURE 1502 1517	auskultace plic
+T8	PROCEDURE 1543 1559	Vyšetření břicha
+T9	PROCEDURE 1579 1592	palpovatelnou
+T10	PROCEDURE 1777 1798	Laboratorní vyšetření
+T11	PROCEDURE 1876 1886	koagulační
+T12	PROCEDURE 2213 2230	elektrokardiogram
+T13	PROCEDURE 2232 2235	EKG
+T14	PROCEDURE 2264 2293	mimonemocničního monitorování
+T15	PROCEDURE 2356 2359	EKG
+T16	PROCEDURE 2809 2838	transtorakální echokardiogram
+T17	PROCEDURE 3237 3263	Magnetická rezonance srdce
+T18	PROCEDURE 3265 3268	MRI
+T19	PROCEDURE 3271 3348	MRI vyšetření s anatomickými sekvencemi v axiální rovině zesílenými v T1 a T2
+T20	PROCEDURE 3506 3526	Anatomické hodnocení
+T21	PROCEDURE 3868 3884	podání gadolinia
+T22	PROCEDURE 4225 4244	Genetické vyšetření
+T23	PROCEDURE 4246 4269	panel kanálových chorob
+T24	PROCEDURE 4447 4469	intenzivnímu sledování
+T25	PROCEDURE 4481 4492	defibrilace
+T26	PROCEDURE 4539 4570	transtorakální echokardiografie
+T27	PROCEDURE 4573 4599	magnetické rezonance srdce
+T28	PROCEDURE 4601 4604	CMR
+T29	PROCEDURE 4700 4703	EKG
+T30	PROCEDURE 4892 4935	implantabilního kardioverteru-defibrilátoru
+T31	PROCEDURE 4937 4940	ICD
+T32	PROCEDURE 5265 5285	léčba beta-blokátory
+T33	PROCEDURE 5329 5348	genetické vyšetření
+T34	PROCEDURE 5538 5541	EKG
+T35	PROCEDURE 5555 5573	provokačním testem
+T36	PROCEDURE 5629 5644	provokační test
+T37	PROCEDURE 5647 5663	genetická studie
+T38	PROCEDURE 5955 5977	morfologické vyšetření
+T39	PROCEDURE 6267 6274	výbuchy
+T40	PROCEDURE 6502 6509	výbuchy
+T41	PROCEDURE 6707 6750	implantabilního automatického defibrilátoru
+T42	PROCEDURE 6825 6848	morfologických studiích

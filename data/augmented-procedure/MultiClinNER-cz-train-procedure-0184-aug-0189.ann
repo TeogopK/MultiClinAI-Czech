@@ -1,0 +1,34 @@
+T1	PROCEDURE 284 308	explorativní laparotomie
+T2	PROCEDURE 351 394	evakuováno dvanáct litrů ascitické tekutiny
+T3	PROCEDURE 498 516	diuretickou léčbou
+T4	PROCEDURE 621 643	evakuační paracentézou
+T5	PROCEDURE 778 827	evakuováno dalších 14 litrů peritoneální tekutiny
+T6	PROCEDURE 906 918	krevní obraz
+T7	PROCEDURE 965 981	vyšetření železa
+T8	PROCEDURE 992 1010	biochemický profil
+T9	PROCEDURE 1062 1079	Celiakální profil
+T10	PROCEDURE 1096 1112	nádorové markery
+T11	PROCEDURE 1115 1122	Mantoux
+T12	PROCEDURE 1220 1239	Funkce štítné žlázy
+T13	PROCEDURE 1255 1274	Sérový proteinogram
+T14	PROCEDURE 1411 1420	kultivace
+T15	PROCEDURE 1437 1457	Torakoabdominální CT
+T16	PROCEDURE 1564 1580	Ultrazvuk břicha
+T17	PROCEDURE 1697 1714	Fibroenteroskopie
+T18	PROCEDURE 1885 1895	ileoskopie
+T19	PROCEDURE 1963 1970	biopsii
+T20	PROCEDURE 2000 2017	Kapsuloendoskopie
+T21	PROCEDURE 2137 2161	biopsii střevní sliznice
+T22	PROCEDURE 2338 2353	léčba diuretiky
+T23	PROCEDURE 2708 2740	evakuaci 14 l ascitické tekutiny
+T24	PROCEDURE 2895 2914	fyzikální vyšetření
+T25	PROCEDURE 3264 3285	biochemické vyšetření
+T26	PROCEDURE 3287 3297	lipidogram
+T27	PROCEDURE 3300 3308	hemogram
+T28	PROCEDURE 3348 3360	dietní léčbu
+T29	PROCEDURE 3376 3394	individuální dieta
+T30	PROCEDURE 3505 3536	Příjem tuků z potravy je omezen
+T31	PROCEDURE 3539 3578	lipidy jsou dodávány ve formě MCT oleje
+T32	PROCEDURE 3709 3753	hyperproteinové formule pro enterální výživu
+T33	PROCEDURE 3815 3841	vitamino-minerální doplněk
+T34	PROCEDURE 4306 4336	ultrazvukovém vyšetření břicha

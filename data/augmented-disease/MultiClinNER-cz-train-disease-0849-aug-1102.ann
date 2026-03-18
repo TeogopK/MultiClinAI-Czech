@@ -1,0 +1,30 @@
+T1	DISEASE 85 113	ischemickou chorobou srdeční
+T2	DISEASE 166 180	lékové alergie
+T3	DISEASE 188 202	toxické návyky
+T4	DISEASE 204 229	Diabetes mellitus 2. typu
+T5	DISEASE 263 301	Hypercholesterolemie typu dyslipidemie
+T6	DISEASE 411 441	Pneumocystis carinii pneumonie
+T7	DISEASE 740 768	pravostranná tříselná hernie
+T8	DISEASE 1315 1365	akutnímu koronárnímu syndromu s elevacemi ST úseku
+T9	DISEASE 1367 1372	STEMI
+T10	DISEASE 2106 2126	sinusová bradykardie
+T11	DISEASE 2743 2773	akutní pleuroparenchymové léze
+T12	DISEASE 2804 2842	jednožilová ischemická choroba srdeční
+T13	DISEASE 2844 2895	Trombotický uzávěr proximální pravé koronární tepny
+T14	DISEASE 3063 3069	trombu
+T15	DISEASE 3204 3272	nedilatovaná levá komora se středně těžkou koncentrickou hypertrofií
+T16	DISEASE 3651 3672	perikardiální výpotek
+T17	DISEASE 3821 3828	arytmií
+T18	DISEASE 3834 3851	srdečního selhání
+T19	DISEASE 3853 3871	Vysoký krevní tlak
+T20	DISEASE 3990 4000	hypertenze
+T21	DISEASE 4094 4115	sinusovou bradykardií
+T22	DISEASE 4873 4899	Ischemická choroba srdeční
+T23	DISEASE 4901 4912	Dolní STEMI
+T24	DISEASE 4914 4934	Koronární onemocnění
+T25	DISEASE 5035 5051	dolnímu infarktu
+T26	DISEASE 5118 5139	Arteriální hypertenze
+T27	DISEASE 5141 5180	Sekundární středně těžká hypertrofie LK
+T28	DISEASE 5182 5194	Dyslipidemie
+T29	DISEASE 5196 5213	Diabetes mellitus
+T30	DISEASE 5247 5258	HIV infekce

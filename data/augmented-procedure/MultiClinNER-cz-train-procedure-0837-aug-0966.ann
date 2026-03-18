@@ -1,0 +1,19 @@
+T1	PROCEDURE 47 61	echokardiogram
+T2	PROCEDURE 189 208	fyzikální vyšetření
+T3	PROCEDURE 383 395	naslouchadlo
+T4	PROCEDURE 644 657	transplantaci
+T5	PROCEDURE 702 721	Chirurgické zákroky
+T6	PROCEDURE 723 739	Cholecystektomie
+T7	PROCEDURE 741 762	Transplantace ledviny
+T8	PROCEDURE 991 1007	echokardiografii
+T9	PROCEDURE 1068 1087	Fyzikální vyšetření
+T10	PROCEDURE 1367 1395	MRI srdce bez i.v. kontrastu
+T11	PROCEDURE 1606 1624	echokardiografické
+T12	PROCEDURE 1653 1701	gradientní echo sekvence ve 4komorových rovinách
+T13	PROCEDURE 1715 1746	T2 vážené spinové echo sekvence
+T14	PROCEDURE 1749 1772	trojité IR v krátké ose
+T15	PROCEDURE 1792 1821	pozdní enhancement gadoliniem
+T16	PROCEDURE 2435 2451	podání gadolinia
+T17	PROCEDURE 3761 3792	Biochemická a genetická analýza
+T18	PROCEDURE 3794 3830	Aktivita enzymu alfa-galaktosidázy A
+T19	PROCEDURE 3859 3876	Genetická analýza

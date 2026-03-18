@@ -1,0 +1,70 @@
+T1	PROCEDURE 0 8	Anamnéza
+T2	PROCEDURE 10 28	nynější onemocnění
+T3	PROCEDURE 31 50	fyzikální vyšetření
+T4	PROCEDURE 98 114	osobní anamnézou
+T5	PROCEDURE 213 217	CPAP
+T6	PROCEDURE 259 267	anamnézu
+T7	PROCEDURE 269 276	operace
+T8	PROCEDURE 325 334	vyříznutí
+T9	PROCEDURE 905 924	Fyzikální vyšetření
+T10	PROCEDURE 926 937	krevní tlak
+T11	PROCEDURE 1071 1087	Auskultace srdce
+T12	PROCEDURE 1123 1140	Plicní auskultace
+T13	PROCEDURE 1215 1230	Doplňkové testy
+T14	PROCEDURE 1231 1234	EKG
+T15	PROCEDURE 1298 1319	laboratorní vyšetření
+T16	PROCEDURE 1330 1344	srdeční enzymy
+T17	PROCEDURE 1355 1374	funkce štítné žlázy
+T18	PROCEDURE 1420 1425	ionty
+T19	PROCEDURE 1427 1439	krevní obraz
+T20	PROCEDURE 1503 1506	RTG
+T21	PROCEDURE 1532 1546	Echokardiogram
+T22	PROCEDURE 2309 2329	Torakoabdominální CT
+T23	PROCEDURE 3537 3567	Analýza perikardiální tekutiny
+T24	PROCEDURE 3569 3590	biochemické vyšetření
+T25	PROCEDURE 3633 3642	cytologie
+T26	PROCEDURE 3814 3837	Mikrobiologická analýza
+T27	PROCEDURE 3869 3878	kultivace
+T28	PROCEDURE 3886 3903	mikroskopie stěru
+T29	PROCEDURE 3905 3927	barvení: Ziehl-Nielsen
+T30	PROCEDURE 3947 3964	mikroskopie stěru
+T31	PROCEDURE 3983 3999	barvení: auramin
+T32	PROCEDURE 4029 4070	PCR na komplex Mycobacterium tuberculosis
+T33	PROCEDURE 4082 4104	kultivace mykobakterií
+T34	PROCEDURE 4106 4113	Biopsie
+T35	PROCEDURE 4278 4280	CT
+T36	PROCEDURE 4283 4299	hrudní chirurgie
+T37	PROCEDURE 5173 5190	perikardiocentéza
+T38	PROCEDURE 5244 5253	biochemii
+T39	PROCEDURE 5255 5268	mikrobiologii
+T40	PROCEDURE 5271 5292	patologickou anatomii
+T41	PROCEDURE 5374 5383	vyšetření
+T42	PROCEDURE 5408 5417	vyšetření
+T43	PROCEDURE 5466 5477	hemokultury
+T44	PROCEDURE 5479 5501	imunologické vyšetření
+T45	PROCEDURE 5503 5510	Mantoux
+T46	PROCEDURE 5512 5529	mikroskopie stěru
+T47	PROCEDURE 5531 5551	CT hrudníku a břicha
+T48	PROCEDURE 5553 5556	RTG
+T49	PROCEDURE 5578 5592	echokardiogram
+T50	PROCEDURE 5594 5611	Laboratorní testy
+T51	PROCEDURE 5620 5639	funkce štítné žlázy
+T52	PROCEDURE 5675 5689	Mantouxův test
+T53	PROCEDURE 5692 5711	stěrová mikroskopie
+T54	PROCEDURE 5729 5786	imunologické vyšetření; vyšetření na autoimunitní choroby
+T55	PROCEDURE 5802 5822	CT hrudníku a břicha
+T56	PROCEDURE 5823 5832	vyšetření
+T57	PROCEDURE 6112 6128	hrudní chirurgie
+T58	PROCEDURE 6162 6178	mediastinoskopie
+T59	PROCEDURE 6181 6188	biopsií
+T60	PROCEDURE 6399 6420	evakuační torakentézu
+T61	PROCEDURE 6442 6449	Biopsie
+T62	PROCEDURE 6548 6571	zobrazovacích vyšetření
+T63	PROCEDURE 6573 6575	CT
+T64	PROCEDURE 6579 6595	hrudní chirurgie
+T65	PROCEDURE 6944 6953	vyšetření
+T66	PROCEDURE 7023 7041	chirurgický zákrok
+T67	PROCEDURE 7067 7076	odstranit
+T68	PROCEDURE 7102 7113	sternotomii
+T69	PROCEDURE 7319 7326	disekci
+T70	PROCEDURE 7490 7499	analgezie

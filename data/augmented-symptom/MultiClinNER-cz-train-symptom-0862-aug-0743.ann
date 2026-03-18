@@ -1,0 +1,68 @@
+T1	SYMPTOM 156 179	dobrém zdravotním stavu
+T2	SYMPTOM 319 352	tísnivá bolest uprostřed hrudníku
+T3	SYMPTOM 475 481	Bolest
+T4	SYMPTOM 524 544	vegetativní symptomy
+T5	SYMPTOM 551 558	dušnost
+T6	SYMPTOM 560 569	palpitace
+T7	SYMPTOM 575 582	synkopu
+T8	SYMPTOM 683 695	bez příznaků
+T9	SYMPTOM 782 804	difuzní bolesti břicha
+T10	SYMPTOM 807 815	zvracení
+T11	SYMPTOM 847 863	průjmové stolice
+T12	SYMPTOM 907 916	afebrilní
+T13	SYMPTOM 987 993	vědomí
+T14	SYMPTOM 995 1006	orientovaný
+T15	SYMPTOM 1008 1019	hydratovaný
+T16	SYMPTOM 1022 1031	afebrilní
+T17	SYMPTOM 1046 1086	Orofaryngeální: Bez patologického nálezu
+T18	SYMPTOM 1094 1107	krční pulzace
+T19	SYMPTOM 1127 1166	akce srdeční pravidelná/pravidelné ozvy
+T20	SYMPTOM 1184 1210	perikardiální třecí šelest
+T21	SYMPTOM 1216 1234	dýchání alveolární
+T22	SYMPTOM 1236 1262	Břicho: Měkké, nebolestivé
+T23	SYMPTOM 1268 1274	útvarů
+T24	SYMPTOM 1280 1294	visceromegalie
+T25	SYMPTOM 1299 1322	přítomnou peristaltikou
+T26	SYMPTOM 1329 1338	Bez otoků
+T27	SYMPTOM 1343 1359	normálními pulzy
+T28	SYMPTOM 1400 1415	Sinusový rytmus
+T29	SYMPTOM 1443 1450	elevací
+T30	SYMPTOM 1515 1526	sestupem PR
+T31	SYMPTOM 1545 1557	normálním qt
+T32	SYMPTOM 1589 1610	normální srdeční stín
+T33	SYMPTOM 1618 1642	pleuroparenchymové změny
+T34	SYMPTOM 1740 1755	Ionty: Normální
+T35	SYMPTOM 1883 1909	normální hladina leukocytů
+T36	SYMPTOM 2341 2423	Sérologie: negativní na HBV, HCV, EBV, CMV, HSV, VZV, enterovirus a parvovirus B19
+T37	SYMPTOM 2468 2492	Levá síň není dilatovaná
+T38	SYMPTOM 2494 2561	Jemné cípy mitrální chlopně se zachovanou pohyblivostí a otevíráním
+T39	SYMPTOM 2563 2590	normální diastolický průtok
+T40	SYMPTOM 2592 2638	Levá komora není dilatovaná ani hypertrofovaná
+T41	SYMPTOM 2642 2671	zachovanou systolickou funkcí
+T42	SYMPTOM 2678 2699	segmentální asymetrie
+T43	SYMPTOM 2754 2833	Jemná trojcípá aortální chlopeň s normálním otevíráním, pohyblivostí a průtokem
+T44	SYMPTOM 2835 2865	Aortální kořen není dilatovaný
+T45	SYMPTOM 2867 2895	Pravá komora není dilatovaná
+T46	SYMPTOM 2897 2933	kontraktilita pravé komory zachována
+T47	SYMPTOM 2935 3024	Trikuspidální chlopeň správně implantovaná, v pořádku, s dobrou pohyblivostí a otevíráním
+T48	SYMPTOM 3026 3080	Jemná plicní chlopeň s normálním otevíráním a průtokem
+T49	SYMPTOM 3102 3109	výpotek
+T50	SYMPTOM 3176 3191	Sinusový rytmus
+T51	SYMPTOM 3209 3220	Normální PR
+T52	SYMPTOM 3280 3290	elevace ST
+T53	SYMPTOM 3330 3341	Normální QT
+T54	SYMPTOM 3356 3389	Průměr a objemy LK v mezích normy
+T55	SYMPTOM 3425 3453	Globální funkce LK zachována
+T56	SYMPTOM 3479 3495	Normální masa LK
+T57	SYMPTOM 3497 3524	Normální objemy a funkce RV
+T58	SYMPTOM 3591 3595	edém
+T59	SYMPTOM 3643 3686	Pozdní subepikardiální lineární enhancement
+T60	SYMPTOM 3830 3845	Sinusový rytmus
+T61	SYMPTOM 3886 3906	významné změny rytmu
+T62	SYMPTOM 3972 3986	asymptomatický
+T63	SYMPTOM 4171 4198	akutní poruchy repolarizace
+T64	SYMPTOM 4208 4228	sinusová tachykardie
+T65	SYMPTOM 4511 4525	asymptomatický
+T66	SYMPTOM 4639 4665	zhoršení systolické funkce
+T67	SYMPTOM 4850 4864	asymptomatický
+T68	SYMPTOM 5212 5226	asymptomatický

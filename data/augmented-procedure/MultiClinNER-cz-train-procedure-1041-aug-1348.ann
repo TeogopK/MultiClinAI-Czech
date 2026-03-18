@@ -1,0 +1,45 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 319 347	echokardiografické vyšetření
+T3	PROCEDURE 1093 1109	Auskultace srdce
+T4	PROCEDURE 1252 1269	plicní auskultace
+T5	PROCEDURE 1356 1359	EKG
+T6	PROCEDURE 1443 1455	Krevní testy
+T7	PROCEDURE 1457 1465	hemogram
+T8	PROCEDURE 1482 1493	biochemické
+T9	PROCEDURE 1496 1531	renální a jaterní funkční parametry
+T10	PROCEDURE 1585 1611	markerů poškození myokardu
+T11	PROCEDURE 1679 1693	Krevní kultury
+T12	PROCEDURE 1742 1768	Rentgenový snímek hrudníku
+T13	PROCEDURE 1886 1915	transtorakální echokardiogram
+T14	PROCEDURE 1917 1920	TTE
+T15	PROCEDURE 1932 1963	transezofageální echokardiogram
+T16	PROCEDURE 1965 1968	TEE
+T17	PROCEDURE 1979 1982	TTE
+T18	PROCEDURE 2925 2928	ETE
+T19	PROCEDURE 3671 3674	TEE
+T20	PROCEDURE 4333 4336	TEE
+T21	PROCEDURE 4660 4674	Koronarografie
+T22	PROCEDURE 4893 4909	diuretická léčba
+T23	PROCEDURE 4985 5016	Transtorakální echokardiografie
+T24	PROCEDURE 5018 5021	TTE
+T25	PROCEDURE 5163 5196	transezofageální echokardiografií
+T26	PROCEDURE 5198 5201	TEE
+T27	PROCEDURE 5505 5533	Byly odebrány krevní kultury
+T28	PROCEDURE 5804 5823	echo-Dopplerovskými
+T29	PROCEDURE 5886 5947	urgentní transfemorální embolektomie pravé zevní ilické tepny
+T30	PROCEDURE 6163 6215	urgentní operace protetické náhrady mitrální chlopně
+T31	PROCEDURE 6306 6344	chirurgické vyčištění mitrální protézy
+T32	PROCEDURE 6495 6550	Aortální chlopeň byla rovněž nahrazena kovovou protézou
+T33	PROCEDURE 6653 6684	invazivní mechanickou ventilací
+T34	PROCEDURE 6938 6965	odstranění mitrální protézy
+T35	PROCEDURE 6967 6989	Intrakardiální čištění
+T36	PROCEDURE 7008 7042	implantace nové mechanické protézy
+T37	PROCEDURE 7092 7111	vazoaktivních látek
+T38	PROCEDURE 7180 7188	extubace
+T39	PROCEDURE 7286 7309	neurologickém vyšetření
+T40	PROCEDURE 7424 7442	CT vyšetření lebky
+T41	PROCEDURE 7993 8024	invazivní mechanickou ventilaci
+T42	PROCEDURE 8132 8135	TEE
+T43	PROCEDURE 8376 8407	kardiopulmonálním resuscitačním
+T44	PROCEDURE 8429 8444	analýza chlopně
+T45	PROCEDURE 8846 8858	embolektomii

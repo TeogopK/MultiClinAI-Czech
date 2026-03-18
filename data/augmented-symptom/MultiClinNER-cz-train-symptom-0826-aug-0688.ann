@@ -1,0 +1,56 @@
+T1	SYMPTOM 401 408	T1CN0MX
+T2	SYMPTOM 1223 1249	bolest na hrudi při námaze
+T3	SYMPTOM 1278 1304	nepříjemné pocity na hrudi
+T4	SYMPTOM 1319 1326	úzkostí
+T5	SYMPTOM 1414 1437	v dobrém celkovém stavu
+T6	SYMPTOM 1439 1453	normální barvy
+T7	SYMPTOM 1455 1471	normohydratovaný
+T8	SYMPTOM 1473 1490	v klidu eupnoický
+T9	SYMPTOM 1492 1502	při vědomí
+T10	SYMPTOM 1504 1515	orientovaný
+T11	SYMPTOM 1518 1532	spolupracující
+T12	SYMPTOM 1538 1566	známek neurologické fokality
+T13	SYMPTOM 1722 1731	afebrilní
+T14	SYMPTOM 1733 1765	auskultace srdce byla pravidelná
+T15	SYMPTOM 1770 1777	šelestů
+T16	SYMPTOM 1807 1835	zachovalý vezikulární šelest
+T17	SYMPTOM 1840 1855	přidaných zvuků
+T18	SYMPTOM 1893 1911	kongestivní známky
+T19	SYMPTOM 1914 1963	radiální pulzy byly hmatné, rytmické a symetrické
+T20	SYMPTOM 2068 2091	Funkce ledvin zachována
+T21	SYMPTOM 2117 2138	elektrolyty v rozmezí
+T22	SYMPTOM 2140 2185	Močový sediment a elektrolyty v moči bez změn
+T23	SYMPTOM 2403 2432	Hemogram a koagulace bez změn
+T24	SYMPTOM 2439 2454	sinusový rytmus
+T25	SYMPTOM 2472 2483	Normální PR
+T26	SYMPTOM 2502 2510	Úzké QRS
+T27	SYMPTOM 2574 2594	změny v repolarizaci
+T28	SYMPTOM 2625 2661	kardiomediastinální silueta bez změn
+T29	SYMPTOM 2663 2694	Hilové ztluštění cévního původu
+T30	SYMPTOM 2707 2718	konsolidace
+T31	SYMPTOM 2954 2984	levá komora normálního průměru
+T32	SYMPTOM 3090 3120	změn segmentální kontraktility
+T33	SYMPTOM 3122 3175	Nedilatovaná pravá komora s dobrou systolickou funkcí
+T34	SYMPTOM 3221 3237	porucha relaxace
+T35	SYMPTOM 3282 3309	Kořen aorty není dilatovaný
+T36	SYMPTOM 3311 3336	Trojcípá aortální chlopeň
+T37	SYMPTOM 3380 3416	Normálně vypadající mitrální chlopeň
+T38	SYMPTOM 3552 3593	dobrou biventrikulární systolickou funkcí
+T39	SYMPTOM 3762 3771	vyčerpání
+T40	SYMPTOM 3798 3869	depresi úseku ST 1,5 mm horizontálně v 5 svodech (II, III, aVF a V5-V6)
+T41	SYMPTOM 3937 3953	bolesti na hrudi
+T42	SYMPTOM 4183 4247	levá hlavní věnčitá tepna (LMCA): bez významných nepravidelností
+T43	SYMPTOM 4508 4567	Cirkumflexní tepna (ACx): Nedominantní, bez významných lézí
+T44	SYMPTOM 4569 4608	Pravá koronární tepna (RCA): dominantní
+T45	SYMPTOM 4953 4977	renální funkce zachovány
+T46	SYMPTOM 5003 5024	elektrolyty v rozmezí
+T47	SYMPTOM 5026 5071	Močový sediment a elektrolyty v moči bez změn
+T48	SYMPTOM 5187 5229	Transaminázy a enzymy cholestázy v rozmezí
+T49	SYMPTOM 5231 5247	CPK není zvýšená
+T50	SYMPTOM 5259 5289	Hemogram a koagulace beze změn
+T51	SYMPTOM 6061 6090	zachovalou funkci levé komory
+T52	SYMPTOM 6107 6139	změn v segmentální kontraktilitě
+T53	SYMPTOM 6300 6316	bolesti na hrudi
+T54	SYMPTOM 7428 7436	krvácení
+T55	SYMPTOM 7643 7657	asymptomatický
+T56	SYMPTOM 7999 8013	Asymptomatická

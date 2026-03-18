@@ -1,0 +1,29 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 400 429	Pyrofosfátové vyšetření srdce
+T3	PROCEDURE 608 637	Transtorakální echokardiogram
+T4	PROCEDURE 1255 1270	renální biopsie
+T5	PROCEDURE 1301 1316	biopsii ledviny
+T6	PROCEDURE 1371 1383	embolektomií
+T7	PROCEDURE 1554 1585	Chemoterapeutická léčba myelomu
+T8	PROCEDURE 1873 1896	odběru vitálních funkcí
+T9	PROCEDURE 1963 1980	elektrokardiogram
+T10	PROCEDURE 1982 1985	EKG
+T11	PROCEDURE 2049 2052	EKG
+T12	PROCEDURE 2148 2167	Fyzikální vyšetření
+T13	PROCEDURE 2263 2279	Auskultace srdce
+T14	PROCEDURE 2374 2391	Plicní auskultace
+T15	PROCEDURE 2488 2518	povrchové nebo hluboké palpaci
+T16	PROCEDURE 2686 2698	Krevní obraz
+T17	PROCEDURE 2884 2893	Biochemie
+T18	PROCEDURE 3117 3151	Sériové markery poškození myokardu
+T19	PROCEDURE 3250 3259	Koagulace
+T20	PROCEDURE 3445 3448	EKG
+T21	PROCEDURE 3628 3640	RTG hrudníku
+T22	PROCEDURE 3734 3763	Transtorakální echokardiogram
+T23	PROCEDURE 4156 4182	pyrofosfátová scintigrafie
+T24	PROCEDURE 4676 4679	EKG
+T25	PROCEDURE 5080 5094	beta-blokátory
+T26	PROCEDURE 5125 5153	echokardiografické vyšetření
+T27	PROCEDURE 5485 5498	antikoagulace
+T28	PROCEDURE 5834 5854	antikoagulační léčbu
+T29	PROCEDURE 5996 6022	farmakologická kardioverze

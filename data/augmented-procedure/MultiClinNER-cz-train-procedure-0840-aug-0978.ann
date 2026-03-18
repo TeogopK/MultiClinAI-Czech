@@ -1,0 +1,32 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 956 978	CT břicha s kontrastem
+T3	PROCEDURE 1428 1447	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 1547 1563	pulzní oxymetrii
+T5	PROCEDURE 1861 1877	Auskultace srdce
+T6	PROCEDURE 1927 1944	Plicní auskultace
+T7	PROCEDURE 2089 2106	auskultaci břicha
+T8	PROCEDURE 2278 2295	Laboratorní testy
+T9	PROCEDURE 2309 2317	Hemogram
+T10	PROCEDURE 2564 2573	Koagulace
+T11	PROCEDURE 2598 2612	Biochemie krve
+T12	PROCEDURE 2916 2930	Vyšetření moči
+T13	PROCEDURE 3082 3108	Rentgenový snímek hrudníku
+T14	PROCEDURE 3235 3252	Elektrokardiogram
+T15	PROCEDURE 3254 3257	EKG
+T16	PROCEDURE 3544 3581	Kontrastně zesílené CT břicha a pánve
+T17	PROCEDURE 4222 4253	Transtorakální echokardiografie
+T18	PROCEDURE 4929 4951	Dopplerovské vyšetření
+T19	PROCEDURE 5293 5307	Koronarografie
+T20	PROCEDURE 5358 5387	Patologická anatomie resekátu
+T21	PROCEDURE 5755 5757	CT
+T22	PROCEDURE 5792 5823	transtorakální echokardiografií
+T23	PROCEDURE 5826 5840	koronarografií
+T24	PROCEDURE 6255 6257	CT
+T25	PROCEDURE 6258 6267	vyšetření
+T26	PROCEDURE 6614 6634	Patologická anatomie
+T27	PROCEDURE 6938 6961	elektrickou kardioverzi
+T28	PROCEDURE 7271 7285	beta-blokátorů
+T29	PROCEDURE 7540 7569	elektrofyziologické vyšetření
+T30	PROCEDURE 7629 7669	úspěšná ablace kavotrikuspidálního istmu
+T31	PROCEDURE 8114 8120	ablací
+T32	PROCEDURE 8241 8283	implantace trvalého kardiostimulátoru DDDR

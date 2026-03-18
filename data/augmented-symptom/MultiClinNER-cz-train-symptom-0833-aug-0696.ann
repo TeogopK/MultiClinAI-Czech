@@ -1,0 +1,21 @@
+T1	SYMPTOM 1914 1929	klidová dušnost
+T2	SYMPTOM 1931 1957	paroxyzmální noční dušnost
+T3	SYMPTOM 1959 1967	ortopnoe
+T4	SYMPTOM 1969 1977	oligurie
+T5	SYMPTOM 1980 2002	otoky dolních končetin
+T6	SYMPTOM 2010 2026	bolesti na hrudi
+T7	SYMPTOM 2350 2378	jugulární žilní tlak zvýšený
+T8	SYMPTOM 2398 2438	rytmické srdeční ozvy s cvakáním protézy
+T9	SYMPTOM 2440 2467	Plicní auskultace: praskání
+T10	SYMPTOM 2489 2517	Břicho: kulovité, depresivní
+T11	SYMPTOM 2589 2607	otok až ke kolenům
+T12	SYMPTOM 2761 2796	zvýšený kardiotorakální index (KTI)
+T13	SYMPTOM 2800 2814	cévní cefaleou
+T14	SYMPTOM 2816 2832	Kerleyho linie B
+T15	SYMPTOM 3163 3191	leukocytární vzorec normální
+T16	SYMPTOM 4350 4382	pokles transmitrálního gradientu
+T17	SYMPTOM 5089 5111	kongestivních příznaků
+T18	SYMPTOM 5126 5143	adekvátní diuréza
+T19	SYMPTOM 5171 5207	stabilními hemodynamickými parametry
+T20	SYMPTOM 5486 5505	hemoragická příhoda
+T21	SYMPTOM 5549 5558	hematurie

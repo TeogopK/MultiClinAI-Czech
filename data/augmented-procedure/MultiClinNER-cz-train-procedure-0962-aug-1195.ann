@@ -1,0 +1,40 @@
+T1	PROCEDURE 38 54	Rodinná anamnéza
+T2	PROCEDURE 269 285	genetická studie
+T3	PROCEDURE 710 744	extrakce stoličky; extrakce moláru
+T4	PROCEDURE 849 868	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 1045 1061	Auskultace srdce
+T6	PROCEDURE 1113 1128	Auskultace plic
+T7	PROCEDURE 1178 1194	Vyšetření břicha
+T8	PROCEDURE 1318 1335	Laboratorní testy
+T9	PROCEDURE 1449 1459	Srážlivost
+T10	PROCEDURE 1733 1746	Jaterní testy
+T11	PROCEDURE 1764 1774	troponin I
+T12	PROCEDURE 1857 1860	EKG
+T13	PROCEDURE 1991 2003	RTG hrudníku
+T14	PROCEDURE 2118 2147	Transtorakální echokardiogram
+T15	PROCEDURE 2500 2509	MRI srdce
+T16	PROCEDURE 2848 2865	CT koronarografie
+T17	PROCEDURE 3897 3911	Koronarografie
+T18	PROCEDURE 4274 4305	Perkutánní koronární intervence
+T19	PROCEDURE 4351 4386	ošetřen balónkem uvolňujícím léčivo
+T20	PROCEDURE 4391 4401	stentování
+T21	PROCEDURE 4430 4447	implantován stent
+T22	PROCEDURE 4460 4477	uvolňující léčivo
+T23	PROCEDURE 4539 4556	implantace stentu
+T24	PROCEDURE 4661 4682	protizánětlivými léky
+T25	PROCEDURE 4697 4726	transtorakální echokardiogram
+T26	PROCEDURE 4941 4964	kardiospecifické enzymy
+T27	PROCEDURE 5032 5049	elektrokardiogram
+T28	PROCEDURE 5209 5225	rodinná anamnéza
+T29	PROCEDURE 5354 5363	sledování
+T30	PROCEDURE 5527 5557	léčba snižující hladinu lipidů
+T31	PROCEDURE 5889 5926	vyšetření magnetickou rezonancí srdce
+T32	PROCEDURE 5928 5931	MRI
+T33	PROCEDURE 6135 6153	angio-CT vyšetření
+T34	PROCEDURE 6417 6431	koronarografii
+T35	PROCEDURE 6517 6548	perkutánní koronární intervence
+T36	PROCEDURE 6551 6577	implantaci lékového stentu
+T37	PROCEDURE 6916 6938	kardiální rehabilitace
+T38	PROCEDURE 7191 7200	sledování
+T39	PROCEDURE 7279 7291	rehabilitaci
+T40	PROCEDURE 7746 7779	revaskularizovaný lékovým stentem

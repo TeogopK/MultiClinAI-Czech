@@ -1,0 +1,24 @@
+T1	PROCEDURE 108 127	fyzikální vyšetření
+T2	PROCEDURE 365 378	fibrinolýzách
+T3	PROCEDURE 391 410	srdeční katetrizací
+T4	PROCEDURE 849 865	cholecystektomie
+T5	PROCEDURE 867 880	tonzilektomie
+T6	PROCEDURE 882 894	apendektomie
+T7	PROCEDURE 1467 1487	fyzikálním vyšetření
+T8	PROCEDURE 1661 1663	AS
+T9	PROCEDURE 1688 1690	AP
+T10	PROCEDURE 1769 1788	fyzikální vyšetření
+T11	PROCEDURE 1833 1842	Biochemie
+T12	PROCEDURE 2114 2126	Krevní plyny
+T13	PROCEDURE 2261 2273	Krevní plyny
+T14	PROCEDURE 2365 2368	EKG
+T15	PROCEDURE 2521 2533	RTG hrudníku
+T16	PROCEDURE 2588 2599	CT hrudníku
+T17	PROCEDURE 2854 2868	Echokardiogram
+T18	PROCEDURE 3467 3489	vysokoprůtokový kyslík
+T19	PROCEDURE 3619 3630	CT hrudníku
+T20	PROCEDURE 3789 3802	betablokátorů
+T21	PROCEDURE 3885 3904	srdeční katetrizace
+T22	PROCEDURE 4260 4302	sérologické vyšetření na Trypanosoma cruzi
+T23	PROCEDURE 4326 4385	Amplifikace DNA pomocí PCR na Trypanosoma cruzi v plné krvi
+T24	PROCEDURE 4632 4683	implantován implantabilní kardioverter-defibrilátor

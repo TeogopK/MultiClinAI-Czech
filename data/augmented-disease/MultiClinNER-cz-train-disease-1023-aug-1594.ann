@@ -1,0 +1,39 @@
+T1	DISEASE 79 93	lékové alergie
+T2	DISEASE 101 115	toxické návyky
+T3	DISEASE 117 138	Arteriální hypertenze
+T4	DISEASE 140 165	Diabetes mellitus 2. typu
+T5	DISEASE 167 187	Hypercholesterolémie
+T6	DISEASE 189 200	Osteoporóza
+T7	DISEASE 202 228	Symptomatická cholelitiáza
+T8	DISEASE 231 247	jaterní steatóza
+T9	DISEASE 314 329	ovariální cysta
+T10	DISEASE 332 351	močová inkontinence
+T11	DISEASE 439 461	blokády levého raménka
+T12	DISEASE 463 467	LBBB
+T13	DISEASE 517 555	těžká systolická dysfunkce levé komory
+T14	DISEASE 589 656	Mitrální chlopeň s degenerativními změnami, středně těžkou fibrózou
+T15	DISEASE 659 687	těžkou mitrální insuficiencí
+T16	DISEASE 689 691	MI
+T17	DISEASE 694 717	Těžká plicní hypertenze
+T18	DISEASE 719 759	Středně těžká trikuspidální insuficience
+T19	DISEASE 1228 1300	dilatační kardiomyopatie nejasného původu s těžkou dysfunkcí levé komory
+T20	DISEASE 1475 1482	arytmie
+T21	DISEASE 1561 1587	těžké systolické dysfunkce
+T22	DISEASE 1601 1625	Závažný infarkt myokardu
+T23	DISEASE 1633 1650	plicní hypertenze
+T24	DISEASE 1652 1698	Mírná-středně těžká trikuspidální insuficience
+T25	DISEASE 1831 1833	SS
+T26	DISEASE 3640 3646	BCRDHH
+T27	DISEASE 3681 3725	dilatovaná LK s těžkou systolickou dysfunkcí
+T28	DISEASE 3727 3757	Těžký funkční infarkt myokardu
+T29	DISEASE 3869 3902	mírnou trikuspidální insuficienci
+T30	DISEASE 3963 3987	dilatační kardiomyopatií
+T31	DISEASE 4012 4024	chronické SS
+T32	DISEASE 4068 4092	špatné periferní perfuze
+T33	DISEASE 4228 4239	akutního SS
+T34	DISEASE 4622 4633	akutního SS
+T35	DISEASE 4698 4712	chronického SS
+T36	DISEASE 4930 4932	SS
+T37	DISEASE 5112 5180	Neischemická dilatační kardiomyopatie s těžkou dysfunkcí levé komory
+T38	DISEASE 5182 5216	Těžká funkční mitrální regurgitace
+T39	DISEASE 5218 5243	Chronické srdeční selhání

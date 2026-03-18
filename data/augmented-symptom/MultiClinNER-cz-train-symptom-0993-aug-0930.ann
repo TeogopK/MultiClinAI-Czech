@@ -1,0 +1,40 @@
+T1	SYMPTOM 466 490	Koronární tepny bez lézí
+T2	SYMPTOM 989 1032	středně těžkou až lehkou námahovou dušností
+T3	SYMPTOM 1087 1094	dušnost
+T4	SYMPTOM 1097 1112	břišní distenze
+T5	SYMPTOM 1128 1131	DPN
+T6	SYMPTOM 1133 1141	Ortopnoe
+T7	SYMPTOM 1165 1187	otoky dolních končetin
+T8	SYMPTOM 1195 1200	únavy
+T9	SYMPTOM 1203 1212	vyčerpání
+T10	SYMPTOM 1214 1245	Normální nebo nízký krevní tlak
+T11	SYMPTOM 1278 1306	závratě v důsledku hypotenze
+T12	SYMPTOM 1314 1321	synkopa
+T13	SYMPTOM 1353 1362	palpitace
+T14	SYMPTOM 1385 1414	bolesti na hrudi nebo v břiše
+T15	SYMPTOM 1485 1510	zvýšená náplň krčních žil
+T16	SYMPTOM 1512 1524	AP: normální
+T17	SYMPTOM 1526 1549	akce srdeční pravidelná
+T18	SYMPTOM 1577 1594	vedlejší fenomeny
+T19	SYMPTOM 1599 1625	perikardiální třecí šelest
+T20	SYMPTOM 1682 1687	otoků
+T21	SYMPTOM 1737 1755	hemogram: normální
+T22	SYMPTOM 2216 2241	Normální plicní parenchym
+T23	SYMPTOM 2271 2286	sinusový rytmus
+T24	SYMPTOM 2339 2374	Negativní T ve V3-V6, II, III a aVF
+T25	SYMPTOM 2519 2558	Levá komora normální velikosti a funkce
+T26	SYMPTOM 2581 2621	Pravá komora normální velikosti a funkce
+T27	SYMPTOM 2873 2898	Normální aortální chlopeň
+T28	SYMPTOM 3488 3541	Stejný pravostranný a levostranný enddiastolický tlak
+T29	SYMPTOM 3844 3868	normální koronární tepny
+T30	SYMPTOM 3942 4004	Vysoký a stejný pravostranný a levostranný enddiastolický tlak
+T31	SYMPTOM 4006 4037	Diplatační tlak v obou komorách
+T32	SYMPTOM 4045 4069	reciproční dechové změny
+T33	SYMPTOM 4447 4484	Epikardiální koronární tepny bez lézí
+T34	SYMPTOM 5192 5228	Plicní parenchym bez významných změn
+T35	SYMPTOM 5432 5489	Normální globální a segmentální kontraktilita levé komory
+T36	SYMPTOM 5491 5536	Dyskinetický pohyb interventrikulárního septa
+T37	SYMPTOM 5538 5563	Dobrá funkce pravé komory
+T38	SYMPTOM 6216 6249	zachovalou biventrikulární funkci
+T39	SYMPTOM 6609 6657	epikardiální koronární tepny bez významných lézí
+T40	SYMPTOM 6706 6763	vyrovnané pravostranné a levostranné enddiastolické tlaky

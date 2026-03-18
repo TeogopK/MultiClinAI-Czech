@@ -1,0 +1,18 @@
+T1	PROCEDURE 99 120	imunosupresivní léčbě
+T2	PROCEDURE 244 254	salicyláty
+T3	PROCEDURE 344 360	biologické léčby
+T4	PROCEDURE 436 456	fyzikálním vyšetření
+T5	PROCEDURE 780 801	laboratorní vyšetření
+T6	PROCEDURE 889 910	reaktanty akutní fáze
+T7	PROCEDURE 1015 1025	salicyláty
+T8	PROCEDURE 1059 1070	léčba sérem
+T9	PROCEDURE 1073 1100	širokospektrými antibiotiky
+T10	PROCEDURE 1472 1514	dopplerovské ultrazvukové vyšetření ledvin
+T11	PROCEDURE 1683 1697	hyperhydratací
+T12	PROCEDURE 1699 1714	alkalizací moči
+T13	PROCEDURE 1716 1728	hemodialýzou
+T14	PROCEDURE 1900 1927	CT vyšetření břicha a pánve
+T15	PROCEDURE 2399 2420	radiologickým nálezem
+T16	PROCEDURE 2481 2509	vyšetření MRI břicha a pánve
+T17	PROCEDURE 2703 2709	zemřel
+T18	PROCEDURE 2750 2759	nekropsie

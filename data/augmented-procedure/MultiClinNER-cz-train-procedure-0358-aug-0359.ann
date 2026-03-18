@@ -1,0 +1,22 @@
+T1	PROCEDURE 310 329	Fyzikální vyšetření
+T2	PROCEDURE 425 432	palpaci
+T3	PROCEDURE 606 638	vyšetření počítačovou tomografií
+T4	PROCEDURE 640 642	CT
+T5	PROCEDURE 921 936	incizní biopsie
+T6	PROCEDURE 948 964	drenážní trubice
+T7	PROCEDURE 993 1019	Histopatologické vyšetření
+T8	PROCEDURE 1340 1361	dekompresivní terapii
+T9	PROCEDURE 1592 1604	CT vyšetření
+T10	PROCEDURE 1636 1657	dekompresivní terapie
+T11	PROCEDURE 1853 1873	dekompresním zákroku
+T12	PROCEDURE 1905 1918	radiografické
+T13	PROCEDURE 1941 1952	excize léze
+T14	PROCEDURE 1958 1966	kyretáží
+T15	PROCEDURE 1969 2031	aplikace Carnoyova roztoku po dobu 30 sekund v operačním lůžku
+T16	PROCEDURE 2033 2114	Podkladový kostní defekt byl rekonstruován pomocí čelistní rekonstrukční destičky
+T17	PROCEDURE 2146 2174	histopatologickému vyšetření
+T18	PROCEDURE 2821 2842	zobrazovací vyšetření
+T19	PROCEDURE 2851 2879	rentgenového snímku hrudníku
+T20	PROCEDURE 2881 2905	celkového kostního skenu
+T21	PROCEDURE 2908 2926	scintigrafie kostí
+T22	PROCEDURE 3006 3023	onkologické léčbě

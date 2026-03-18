@@ -1,0 +1,43 @@
+T1	SYMPTOM 489 499	nevolností
+T2	SYMPTOM 502 521	celkovou malátností
+T3	SYMPTOM 549 558	palpitace
+T4	SYMPTOM 563 579	bolesti na hrudi
+T5	SYMPTOM 720 731	tachykardie
+T6	SYMPTOM 927 945	Celkový stav dobrý
+T7	SYMPTOM 947 979	Normální zbarvení kůže a sliznic
+T8	SYMPTOM 1021 1044	pravidelné srdeční ozvy
+T9	SYMPTOM 1050 1057	šelestů
+T10	SYMPTOM 1076 1094	dýchaní alveolární
+T11	SYMPTOM 1107 1130	břicho měkké, prohmatné
+T12	SYMPTOM 1136 1144	megalitů
+T13	SYMPTOM 1150 1157	bolesti
+T14	SYMPTOM 1159 1180	peristaltika přítomná
+T15	SYMPTOM 1197 1202	otoků
+T16	SYMPTOM 1207 1233	přítomné periferní pulzace
+T17	SYMPTOM 1545 1556	tachykardie
+T18	SYMPTOM 1569 1580	tachykardie
+T19	SYMPTOM 1660 1674	Pravidelné R-R
+T20	SYMPTOM 1689 1700	tachykardie
+T21	SYMPTOM 1808 1819	tachykardie
+T22	SYMPTOM 2725 2794	Markery poškození myokardu (troponin I a CK-MB) byly sériově normální
+T23	SYMPTOM 2800 2836	Rentgenový snímek hrudníku: normální
+T24	SYMPTOM 2838 2873	Kardiotorakální index (KTI) v normě
+T25	SYMPTOM 2924 2953	nedilatovaná levá komora (LK)
+T26	SYMPTOM 3068 3087	globální hypokineze
+T27	SYMPTOM 3146 3184	Strukturálně normální mitrální chlopeň
+T28	SYMPTOM 3262 3292	Normální trikuspidální chlopeň
+T29	SYMPTOM 3294 3352	Nedilatovaná pravá komora (PK) s dobrou systolickou funkcí
+T30	SYMPTOM 3430 3445	nedilatovaná LK
+T31	SYMPTOM 3491 3526	Celková systolická funkce zachována
+T32	SYMPTOM 3531 3549	změn kontraktility
+T33	SYMPTOM 3650 3681	levý plicní hilus bez patologie
+T34	SYMPTOM 3683 3721	Dominantní pravá koronární tepna (RCA)
+T35	SYMPTOM 4198 4209	širokým QRS
+T36	SYMPTOM 5510 5521	tachykardie
+T37	SYMPTOM 6051 6066	bolest na hrudi
+T38	SYMPTOM 6126 6160	elevace markerů poškození myokardu
+T39	SYMPTOM 6671 6682	tachykardie
+T40	SYMPTOM 6887 6919	Ejekční frakce zůstala zachována
+T41	SYMPTOM 7059 7070	tachykardie
+T42	SYMPTOM 7218 7229	tachykardie
+T43	SYMPTOM 7259 7287	Zachovalá funkce levé komory

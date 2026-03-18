@@ -1,0 +1,29 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 302 320	elektrokardiogramu
+T3	PROCEDURE 427 442	echokardiogramu
+T4	PROCEDURE 444 462	Holterovská studie
+T5	PROCEDURE 822 841	Fyzikální vyšetření
+T6	PROCEDURE 963 981	srdeční auskultace
+T7	PROCEDURE 1025 1040	Auskultace plic
+T8	PROCEDURE 1270 1273	EKG
+T9	PROCEDURE 1358 1366	holterem
+T10	PROCEDURE 1593 1607	Echokardiogram
+T11	PROCEDURE 2059 2068	MRI srdce
+T12	PROCEDURE 3053 3066	sekvenci STIR
+T13	PROCEDURE 3091 3102	Sekvence T2
+T14	PROCEDURE 3146 3167	Biopsie slinných žláz
+T15	PROCEDURE 3191 3210	Skenování 99mTc-DDP
+T16	PROCEDURE 3278 3302	Endomyokardiální biopsie
+T17	PROCEDURE 3305 3350	odběr vzorků ze 2 různých míst v pravé komoře
+T18	PROCEDURE 3409 3428	Genetické vyšetření
+T19	PROCEDURE 3609 3637	echokardiografické vyšetření
+T20	PROCEDURE 3834 3860	magnetická rezonance srdce
+T21	PROCEDURE 3951 3978	kvantifikace imunoglobulinů
+T22	PROCEDURE 3980 3993	elektroforéza
+T23	PROCEDURE 3996 4016	imunofixace bílkovin
+T24	PROCEDURE 4019 4051	24hodinový sběr a vyšetření moči
+T25	PROCEDURE 4108 4137	scintigrafie kostí 99 mTc-DDP
+T26	PROCEDURE 4301 4325	endomyokardiální biopsie
+T27	PROCEDURE 4380 4399	genetické vyšetření
+T28	PROCEDURE 4623 4632	diuretika
+T29	PROCEDURE 4635 4651	antihypertenziva

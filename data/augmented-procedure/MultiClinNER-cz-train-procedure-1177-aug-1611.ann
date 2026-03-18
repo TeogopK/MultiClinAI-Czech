@@ -1,0 +1,47 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 467 487	echokardiografických
+T3	PROCEDURE 493 506	MRI srdečních
+T4	PROCEDURE 642 672	CT vyšetření koronárních tepen
+T5	PROCEDURE 700 726	neinvazivní koronarografií
+T6	PROCEDURE 831 850	antiarytmické léčby
+T7	PROCEDURE 852 866	beta-blokátory
+T8	PROCEDURE 868 886	antagonisté kalcia
+T9	PROCEDURE 1488 1519	transtorakální echokardiografie
+T10	PROCEDURE 1521 1531	ergometrie
+T11	PROCEDURE 1534 1544	Holter-ECG
+T12	PROCEDURE 1547 1566	Fyzikální vyšetření
+T13	PROCEDURE 1693 1704	Hlava a krk
+T14	PROCEDURE 1733 1749	Auskultace srdce
+T15	PROCEDURE 1791 1806	Auskultace plic
+T16	PROCEDURE 1954 1971	elektrokardiogram
+T17	PROCEDURE 1973 1976	EKG
+T18	PROCEDURE 2165 2178	Holterovo EKG
+T19	PROCEDURE 2667 2722	Konvenční ergometrie: Bruceův protokol na běžeckém pásu
+T20	PROCEDURE 3334 3363	Transtorakální echokardiogram
+T21	PROCEDURE 3911 3940	Elektrofyziologické vyšetření
+T22	PROCEDURE 3965 4000	dvojitá punkce pravé femorální žíly
+T23	PROCEDURE 4002 4094	Zavedení dekapolárního diagnostického katétru do koronárního sinu a tetrapolárního do His-VD
+T24	PROCEDURE 4126 4216	proveden z báze RV při dvou frekvencích a dvou extras, bazálně a pod perfuzí izoproterolem
+T25	PROCEDURE 4290 4318	Punkce pravé femorální tepny
+T26	PROCEDURE 4321 4343	zavedení katétru Orion
+T27	PROCEDURE 4377 4409	zmapovány LVOT a aortální sinusy
+T28	PROCEDURE 4421 4424	EKG
+T29	PROCEDURE 4515 4528	mapování RVOT
+T30	PROCEDURE 4663 4674	elektrogram
+T31	PROCEDURE 4708 4749	kardiomapování z teoretického bodu ablace
+T32	PROCEDURE 4854 4908	elektroanatomické integrace s předchozím koronárním CT
+T33	PROCEDURE 4895 4908	koronárním CT
+T34	PROCEDURE 5016 5061	radiofrekvenční ablace (40 W, 48o C) katétrem
+T35	PROCEDURE 5165 5171	ablaci
+T36	PROCEDURE 5176 5195	stimulační protokol
+T37	PROCEDURE 5361 5370	vyšetření
+T38	PROCEDURE 5455 5465	Holter-ECG
+T39	PROCEDURE 5626 5642	echokardiografii
+T40	PROCEDURE 5725 5754	elektrofyziologické vyšetření
+T41	PROCEDURE 5938 5944	ablace
+T42	PROCEDURE 5978 6007	Elektrofyziologické vyšetření
+T43	PROCEDURE 6205 6230	aplikována radiofrekvence
+T44	PROCEDURE 6473 6483	Holter-ECG
+T45	PROCEDURE 6602 6622	antiarytmickou léčbu
+T46	PROCEDURE 6707 6736	Elektrofyziologické vyšetření
+T47	PROCEDURE 6741 6781	úspěšná ablace extrasystolického ložiska

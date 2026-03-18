@@ -1,0 +1,16 @@
+T1	DISEASE 65 73	diabetes
+T2	DISEASE 76 115	potransfuzní infekce virem hepatitidy C
+T3	DISEASE 296 322	karcinomu močového měchýře
+T4	DISEASE 467 494	karcinomu v močovém měchýři
+T5	DISEASE 518 563	uroteliálního karcinomu s invazí do svaloviny
+T6	DISEASE 728 787	high-grade uroteliální karcinom s infiltrací svalové vrstvy
+T7	DISEASE 790 839	postižení jedné z odstraněných lymfatických uzlin
+T8	DISEASE 896 904	metastáz
+T9	DISEASE 1035 1056	infekci močových cest
+T10	DISEASE 1462 1502	středně těžkou oboustrannou hydronefrózu
+T11	DISEASE 1881 1887	kómatu
+T12	DISEASE 1958 1978	mírnou hyperglykémii
+T13	DISEASE 2086 2111	metabolické encefalopatie
+T14	DISEASE 2606 2613	infekce
+T15	DISEASE 3186 3205	metabolické acidózy
+T16	DISEASE 3309 3338	hyperamonemické encefalopatie

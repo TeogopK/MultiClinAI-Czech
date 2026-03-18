@@ -1,0 +1,15 @@
+T1	PROCEDURE 505 532	Kardiopulmonální auskultace
+T2	PROCEDURE 852 869	laboratorní testy
+T3	PROCEDURE 1161 1183	intravenózní hydrataci
+T4	PROCEDURE 1244 1274	parenterálním podáním thiaminu
+T5	PROCEDURE 1277 1315	jaterními protiepidemickými opatřeními
+T6	PROCEDURE 1555 1573	metylketonu v moči
+T7	PROCEDURE 1625 1644	výpočet aniontu GAP
+T8	PROCEDURE 1649 1665	ketolátek v krvi
+T9	PROCEDURE 1667 1684	Elektrokardiogram
+T10	PROCEDURE 1853 1893	Hydratace pokračovala pouze 5% dextrózou
+T11	PROCEDURE 2246 2297	perfuze 5% glukosátu se 140 mEq chloridu draselného
+T12	PROCEDURE 2752 2762	Analytické
+T13	PROCEDURE 2977 3006	Počítačová axiální tomografie
+T14	PROCEDURE 3301 3320	Elektroencefalogram
+T15	PROCEDURE 3426 3440	elektromyogram

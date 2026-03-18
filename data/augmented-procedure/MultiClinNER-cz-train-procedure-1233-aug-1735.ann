@@ -1,0 +1,50 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 122 143	alergologickými testy
+T3	PROCEDURE 250 269	chirurgické zákroky
+T4	PROCEDURE 495 503	anamnéze
+T5	PROCEDURE 888 901	zubní zákroky
+T6	PROCEDURE 1158 1174	Auskultace srdce
+T7	PROCEDURE 1275 1290	Auskultace plic
+T8	PROCEDURE 1608 1630	neurologické vyšetření
+T9	PROCEDURE 1851 1863	Krevní testy
+T10	PROCEDURE 2129 2146	Elektrokardiogram
+T11	PROCEDURE 2148 2151	EKG
+T12	PROCEDURE 2261 2273	RTG hrudníku
+T13	PROCEDURE 2378 2394	Krevní kultivace
+T14	PROCEDURE 2479 2488	Sérologie
+T15	PROCEDURE 2557 2588	Transtorakální echokardiografie
+T16	PROCEDURE 2590 2593	TTE
+T17	PROCEDURE 3968 3971	TTE
+T18	PROCEDURE 4036 4039	TTE
+T19	PROCEDURE 4504 4522	CT vyšetření lebky
+T20	PROCEDURE 4885 4901	podání kontrastu
+T21	PROCEDURE 4964 4984	CT hrudníku a břicha
+T22	PROCEDURE 5725 5756	Zobrazení magnetickou rezonancí
+T23	PROCEDURE 5962 5964	CT
+T24	PROCEDURE 6170 6187	injekci gadolinia
+T25	PROCEDURE 6363 6380	difuzní vyšetření
+T26	PROCEDURE 6382 6411	Ultrazvukové vyšetření břicha
+T27	PROCEDURE 7077 7095	CT vyšetření lebky
+T28	PROCEDURE 7344 7364	fyzikálním vyšetření
+T29	PROCEDURE 7380 7383	TTE
+T30	PROCEDURE 7591 7607	krevní kultivace
+T31	PROCEDURE 7610 7619	sérologie
+T32	PROCEDURE 8273 8301	empirická antibiotická léčba
+T33	PROCEDURE 8443 8473	torakoabdominální CT vyšetření
+T34	PROCEDURE 8565 8598	transezofageální echokardiografie
+T35	PROCEDURE 8849 8875	magnetická rezonance lebky
+T36	PROCEDURE 8957 8980	funduskopické vyšetření
+T37	PROCEDURE 9203 9221	krevních kulturách
+T38	PROCEDURE 9365 9377	antibiogramu
+T39	PROCEDURE 9455 9469	antibioterapie
+T40	PROCEDURE 9792 9821	ultrazvukové vyšetření břicha
+T41	PROCEDURE 9953 9968	kardiochirurgie
+T42	PROCEDURE 10039 10057	antibiotické léčbě
+T43	PROCEDURE 10171 10173	CT
+T44	PROCEDURE 10176 10179	MRI
+T45	PROCEDURE 10190 10199	MRI mozku
+T46	PROCEDURE 10311 10336	Extrakce postiženého zubu
+T47	PROCEDURE 10399 10461	náhrada mitrální chlopně mechanickou protézou Saint Jude č. 33
+T48	PROCEDURE 10541 10561	patologické anatomie
+T49	PROCEDURE 10564 10577	mikrobiologie
+T50	PROCEDURE 11258 11320	Náhrada mitrální chlopně mechanickou protézou Saint Jude č. 33

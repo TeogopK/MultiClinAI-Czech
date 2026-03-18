@@ -1,0 +1,40 @@
+T1	DISEASE 85 92	obezity
+T2	DISEASE 218 244	nestabilní anginy pectoris
+T3	DISEASE 284 342	kritickou lézi ostiální levé hlavní koronární tepny (LMCA)
+T4	DISEASE 652 664	valvulopatií
+T5	DISEASE 712 735	autoimunitní hepatitidy
+T6	DISEASE 1220 1237	hypertenzní krize
+T7	DISEASE 1409 1432	akutnímu plicnímu edému
+T8	DISEASE 2651 2671	levý přední hemiblok
+T9	DISEASE 2674 2724	subepikardiální ischemie v anterolaterální oblasti
+T10	DISEASE 2755 2777	akutním plicním edémem
+T11	DISEASE 2829 2873	levá komora mírně dilatovaná a hypertrofická
+T12	DISEASE 3095 3123	těžkou aortální insuficienci
+T13	DISEASE 3418 3439	mitrální insuficience
+T14	DISEASE 3441 3443	MI
+T15	DISEASE 3489 3521	těžká trikuspidální insuficience
+T16	DISEASE 3523 3525	TI
+T17	DISEASE 3612 3655	okluze pravé koronární tepny na úrovni ústí
+T18	DISEASE 3853 3884	levé podklíčkové tepny s okluzí
+T19	DISEASE 3940 4009	uzávěru na počátku levé vertebrální tepny, a horní mezenterické tepny
+T20	DISEASE 4036 4074	hypertrofií pankreatoduodenální arkády
+T21	DISEASE 4092 4101	ulceracím
+T22	DISEASE 4115 4125	aneuryzmat
+T23	DISEASE 4205 4212	syfilis
+T24	DISEASE 4274 4336	aortální chlopně s přítomností myxoidních degenerativních změn
+T25	DISEASE 4452 4478	ostiálního onemocnění LMCA
+T26	DISEASE 4564 4586	akutním plicním edémem
+T27	DISEASE 4698 4716	onemocnění chlopní
+T28	DISEASE 5059 5080	aortální insuficience
+T29	DISEASE 5082 5085	AoI
+T30	DISEASE 5490 5527	okluzi ostiální pravé koronární tepny
+T31	DISEASE 5694 5717	ostiální koronární lézi
+T32	DISEASE 5720 5747	těžké aortální insuficienci
+T33	DISEASE 5786 5810	autoimunitního postižení
+T34	DISEASE 5978 5987	aortitidu
+T35	DISEASE 6154 6163	aortitidy
+T36	DISEASE 6175 6198	vaskulitidy velkých cév
+T37	DISEASE 6498 6521	akutního plicního edému
+T38	DISEASE 7099 7155	kardiogenním šoku souvisejícím s perioperačním infarktem
+T39	DISEASE 7311 7334	multiorgánového selhání
+T40	DISEASE 7362 7413	Vaskulitida velkých cév typu Takayasuovy arteritidy

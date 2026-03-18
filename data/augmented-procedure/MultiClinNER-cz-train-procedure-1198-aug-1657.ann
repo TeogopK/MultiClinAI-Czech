@@ -1,0 +1,44 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 124 132	anamnézy
+T4	PROCEDURE 149 171	kardiologické anamnézy
+T5	PROCEDURE 460 468	anamnéze
+T6	PROCEDURE 525 542	elektrokardiogram
+T7	PROCEDURE 689 702	angioplastice
+T8	PROCEDURE 704 715	Katetrizace
+T9	PROCEDURE 763 777	koronarografie
+T10	PROCEDURE 791 808	revaskularizována
+T11	PROCEDURE 809 823	tromboaspirací
+T12	PROCEDURE 826 857	implantací dvou lékových stentů
+T13	PROCEDURE 1033 1049	auskultace srdce
+T14	PROCEDURE 1229 1232	EKG
+T15	PROCEDURE 1444 1465	Biochemické vyšetření
+T16	PROCEDURE 1467 1475	glykémie
+T17	PROCEDURE 1685 1694	koagulace
+T18	PROCEDURE 1696 1709	jaterní testy
+T19	PROCEDURE 1798 1812	Koronarografie
+T20	PROCEDURE 2014 2026	Urgentní PCI
+T21	PROCEDURE 2049 2072	tromboaspirace katétrem
+T22	PROCEDURE 2074 2116	implantace stentu uvolňujícího zotarolimus
+T23	PROCEDURE 2155 2161	stentu
+T24	PROCEDURE 2227 2256	intrakoronárním nitroprusidem
+T25	PROCEDURE 2258 2289	Transtorakální echokardiografie
+T26	PROCEDURE 3263 3296	Transezofageální echokardiografie
+T27	PROCEDURE 3818 3834	echokardiografie
+T28	PROCEDURE 3906 3914	sledován
+T29	PROCEDURE 4126 4155	transtorakální echokardiogram
+T30	PROCEDURE 4321 4337	Echokardiografie
+T31	PROCEDURE 4464 4490	kardiochirurgické oddělení
+T32	PROCEDURE 4574 4593	antiagregační léčba
+T33	PROCEDURE 4642 4658	urgentní operace
+T34	PROCEDURE 4937 4957	infuze levosimendanu
+T35	PROCEDURE 4992 5023	transtorakální echokardiografie
+T36	PROCEDURE 5352 5385	transezofageální echokardiografie
+T37	PROCEDURE 5402 5435	3D TEE rekonstrukce defektu septa
+T38	PROCEDURE 5631 5648	perkutánní uzávěr
+T39	PROCEDURE 5672 5679	operaci
+T40	PROCEDURE 5681 5688	Operace
+T41	PROCEDURE 5755 5777	primární angioplastice
+T42	PROCEDURE 5780 5795	revaskularizace
+T43	PROCEDURE 5846 5861	lékových stentů
+T44	PROCEDURE 5921 5943	korigovaná chirurgicky

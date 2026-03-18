@@ -1,0 +1,27 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 303 311	anamnézy
+T4	PROCEDURE 515 534	Fyzikální vyšetření
+T5	PROCEDURE 1170 1190	Venózní krevní plyny
+T6	PROCEDURE 1249 1252	EKG
+T7	PROCEDURE 1371 1385	Echokardiogram
+T8	PROCEDURE 1760 1786	Magnetická rezonance srdce
+T9	PROCEDURE 1788 1791	CMR
+T10	PROCEDURE 2382 2419	echokardiografickém vyšetření u lůžka
+T11	PROCEDURE 2514 2517	CMR
+T12	PROCEDURE 2535 2560	echokardiografické nálezy
+T13	PROCEDURE 2769 2783	inhibitory ACE
+T14	PROCEDURE 2785 2799	beta-blokátory
+T15	PROCEDURE 2900 2919	transplantace srdce
+T16	PROCEDURE 3116 3132	vazoaktivní léky
+T17	PROCEDURE 3270 3367	implantováno komorové asistenční zařízení typu Levitronix Centrimag přes levou podklíčkovou tepnu
+T18	PROCEDURE 3377 3396	transplantace srdce
+T19	PROCEDURE 3421 3463	ortotopická transplantace technikou bicava
+T20	PROCEDURE 3511 3520	Extubován
+T21	PROCEDURE 3556 3587	Potransplantační echokardiogram
+T22	PROCEDURE 3813 3834	imunosupresivní léčbě
+T23	PROCEDURE 3835 3850	kortikosteroidy
+T24	PROCEDURE 3951 3965	Koronarografie
+T25	PROCEDURE 3968 3971	OCT
+T26	PROCEDURE 4015 4039	endomyokardiální biopsie
+T27	PROCEDURE 4159 4180	Srdeční transplantace

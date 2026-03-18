@@ -1,0 +1,31 @@
+T1	PROCEDURE 0 8	Anamnéza
+T2	PROCEDURE 32 51	fyzikální vyšetření
+T3	PROCEDURE 52 67	Osobní anamnéza
+T4	PROCEDURE 634 643	sledování
+T5	PROCEDURE 760 780	volumová resuscitace
+T6	PROCEDURE 782 808	kanylována femorální linka
+T7	PROCEDURE 857 886	transtorakální echokardiogram
+T8	PROCEDURE 1185 1196	CT hrudníku
+T9	PROCEDURE 1243 1254	monitorován
+T10	PROCEDURE 1495 1524	transtorakální echokardiogram
+T11	PROCEDURE 1693 1696	TEE
+T12	PROCEDURE 1951 1970	Fyzikální vyšetření
+T13	PROCEDURE 2227 2239	Krevní obraz
+T14	PROCEDURE 2327 2338	hemokultury
+T15	PROCEDURE 2351 2354	EKG
+T16	PROCEDURE 2418 2429	CT hrudníku
+T17	PROCEDURE 2446 2512	vyšetření s intravenózním podáním kontrastu od bazí k vrcholu plic
+T18	PROCEDURE 3148 3165	TT echokardiogram
+T19	PROCEDURE 4590 4621	Transezofageální echokardiogram
+T20	PROCEDURE 5224 5227	TTE
+T21	PROCEDURE 5450 5477	podstoupil úspěšnou operaci
+T22	PROCEDURE 5480 5525	implantací mitrální a aortální kovové protézy
+T23	PROCEDURE 5527 5578	Nativní mitrální a aortální chlopně byly odstraněny
+T24	PROCEDURE 5651 5660	sledování
+T25	PROCEDURE 5788 5794	holter
+T26	PROCEDURE 5845 5855	ablace CTI
+T27	PROCEDURE 5858 5894	implantován kardiostimulátor CRT+ADI
+T28	PROCEDURE 5910 5919	sledování
+T29	PROCEDURE 6159 6209	Implantace kovových mitrálních a aortálních protéz
+T30	PROCEDURE 6211 6229	Úspěšná ablace CTI
+T31	PROCEDURE 6231 6251	Implantace ICD + CRT

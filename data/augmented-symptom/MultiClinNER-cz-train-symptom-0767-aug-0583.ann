@@ -1,0 +1,50 @@
+T1	SYMPTOM 335 342	synkopa
+T2	SYMPTOM 348 356	prodromu
+T3	SYMPTOM 440 492	bolest v epigastriu vyzařující do levého hemithoraxu
+T4	SYMPTOM 507 527	vegetativní symptomy
+T5	SYMPTOM 550 558	synkopou
+T6	SYMPTOM 566 575	palpitace
+T7	SYMPTOM 580 587	dušnost
+T8	SYMPTOM 822 831	Afebrilní
+T9	SYMPTOM 833 851	Dobrý celkový stav
+T10	SYMPTOM 857 863	vědomí
+T11	SYMPTOM 866 877	orientovaný
+T12	SYMPTOM 879 896	Eupnoický v klidu
+T13	SYMPTOM 898 919	toleruje polohu vleže
+T14	SYMPTOM 927 952	zvýšená náplň krčních žil
+T15	SYMPTOM 972 1005	pravidelné, rytmické srdeční ozvy
+T16	SYMPTOM 1011 1018	šelestů
+T17	SYMPTOM 1024 1043	patologických zvuků
+T18	SYMPTOM 1062 1087	normální poslechový nález
+T19	SYMPTOM 1089 1113	břicho: měkké, prohmatné
+T20	SYMPTOM 1115 1126	nebolestivé
+T21	SYMPTOM 1132 1147	zvětšení orgánů
+T22	SYMPTOM 1149 1175	Dolní končetiny: bez otoků
+T23	SYMPTOM 1177 1200	distální pulzy přítomny
+T24	SYMPTOM 1290 1301	Normální PR
+T25	SYMPTOM 1303 1311	Úzké QRS
+T26	SYMPTOM 1336 1369	Elevace ST segmentu 1 mm ve V5-V6
+T27	SYMPTOM 1455 1466	Normální PR
+T28	SYMPTOM 1468 1476	úzké QRS
+T29	SYMPTOM 1488 1522	Negativní vlna T ve V4-V6, I a aVL
+T30	SYMPTOM 1528 1554	plochá vlna T ve III a aVF
+T31	SYMPTOM 1582 1612	normální kardiotorakální index
+T32	SYMPTOM 1620 1642	alveolární konsolidace
+T33	SYMPTOM 1696 1724	normální funkce štítné žlázy
+T34	SYMPTOM 2717 2726	hyperemii
+T35	SYMPTOM 2859 2895	levou komoru (LK) normální velikosti
+T36	SYMPTOM 2898 2972	akinezí všech apikálních segmentů a hyperkontraktilitou bazálních segmentů
+T37	SYMPTOM 3384 3402	apikální dyskineze
+T38	SYMPTOM 3530 3565	Pravá komora (RV) s normální funkcí
+T39	SYMPTOM 3599 3640	levá komora normální velikosti a tloušťky
+T40	SYMPTOM 3642 3677	Ejekční frakce levé komory normální
+T41	SYMPTOM 3765 3786	Pravá komora normální
+T42	SYMPTOM 3807 3851	Mitrální chlopeň normální struktury a funkce
+T43	SYMPTOM 3878 3908	Normální trikuspidální chlopeň
+T44	SYMPTOM 4038 4070	Kořen aorty má normální velikost
+T45	SYMPTOM 4370 4396	koronární tepny bez stenoz
+T46	SYMPTOM 4888 4956	akinezi apikálních segmentů s hyperkontraktilitou bazálních segmentů
+T47	SYMPTOM 5028 5050	hemodynamicky stabilní
+T48	SYMPTOM 5057 5064	bolesti
+T49	SYMPTOM 5154 5170	bolestí na hrudi
+T50	SYMPTOM 5405 5442	edém ve středním a apikálním segmentu

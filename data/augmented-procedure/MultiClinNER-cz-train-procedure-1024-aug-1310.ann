@@ -1,0 +1,26 @@
+T1	PROCEDURE 186 205	fyzikální vyšetření
+T2	PROCEDURE 224 255	transtorakální echokardiografii
+T3	PROCEDURE 604 626	Valsalvových manévrech
+T4	PROCEDURE 1101 1119	srdeční auskultace
+T5	PROCEDURE 1184 1206	Valsalvových manévrech
+T6	PROCEDURE 1318 1335	Plicní auskultace
+T7	PROCEDURE 1566 1569	EKG
+T8	PROCEDURE 1680 1683	EKG
+T9	PROCEDURE 1725 1737	RTG hrudníku
+T10	PROCEDURE 1881 1910	Transtorakální echokardiogram
+T11	PROCEDURE 2241 2262	24hodinový Holter-ECG
+T12	PROCEDURE 2523 2546	Hemodynamické vyšetření
+T13	PROCEDURE 2669 2683	Koronarografie
+T14	PROCEDURE 2778 2790	ablaci septa
+T15	PROCEDURE 2925 2948	perkutánní ablaci septa
+T16	PROCEDURE 3005 3013	sedativy
+T17	PROCEDURE 3031 3107	MCP kabel byl umístěn do pravé komory s přístupem přes pravou femorální žílu
+T18	PROCEDURE 3109 3155	Balónkový katétr byl zaveden arteriální cestou
+T19	PROCEDURE 3226 3252	echokardiografické podpory
+T20	PROCEDURE 3305 3352	okluzí první septální větve nafouknutím balonku
+T21	PROCEDURE 3375 3413	podáním echokardiografického kontrastu
+T22	PROCEDURE 4032 4056	Sériové stanovení enzymů
+T23	PROCEDURE 4108 4120	monitorování
+T24	PROCEDURE 4506 4514	diuretik
+T25	PROCEDURE 4517 4526	lusotopik
+T26	PROCEDURE 4960 4977	lusotopické léčby

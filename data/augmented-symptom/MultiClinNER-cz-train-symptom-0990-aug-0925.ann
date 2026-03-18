@@ -1,0 +1,50 @@
+T1	SYMPTOM 36 45	závratěmi
+T2	SYMPTOM 48 67	celkovou malátností
+T3	SYMPTOM 90 103	ztráta vědomí
+T4	SYMPTOM 414 432	bolestech na hrudi
+T5	SYMPTOM 434 446	bušení srdce
+T6	SYMPTOM 448 454	pocení
+T7	SYMPTOM 457 465	bledosti
+T8	SYMPTOM 761 785	centrální hrudní bolesti
+T9	SYMPTOM 797 818	vegetativními křečemi
+T10	SYMPTOM 836 845	palpitací
+T11	SYMPTOM 1068 1075	závratě
+T12	SYMPTOM 1078 1096	celkovou malátnost
+T13	SYMPTOM 1109 1123	ztrátou vědomí
+T14	SYMPTOM 1197 1228	velmi vysokou srdeční frekvenci
+T15	SYMPTOM 1237 1256	přestali puls cítit
+T16	SYMPTOM 1584 1592	úzké QRS
+T17	SYMPTOM 1829 1853	akce srdeční: pravidelná
+T18	SYMPTOM 1859 1866	šelestů
+T19	SYMPTOM 1872 1885	třecí šelesty
+T20	SYMPTOM 1925 1942	vedlejší fenomeny
+T21	SYMPTOM 1944 1971	Břicho: měkké a stlačitelné
+T22	SYMPTOM 1988 1994	útvary
+T23	SYMPTOM 1999 2014	zvětšené orgány
+T24	SYMPTOM 2016 2042	Dolní končetiny: Bez otoků
+T25	SYMPTOM 2044 2082	Periferní pulzy zachovány a symetrické
+T26	SYMPTOM 2108 2123	Sinusový rytmus
+T27	SYMPTOM 2163 2222	změny v atrioventrikulárním nebo intraventrikulárním vedení
+T28	SYMPTOM 2275 2294	repolarizační změny
+T29	SYMPTOM 2510 2545	PK se zachovanou velikostí a funkcí
+T30	SYMPTOM 2640 2675	zvýšeného centrálního žilního tlaku
+T31	SYMPTOM 2693 2723	Bibasální intersticiální obraz
+T32	SYMPTOM 2725 2747	Ztluštění pravého hilu
+T33	SYMPTOM 2858 2890	Komorový systém a sulky bez změn
+T34	SYMPTOM 2892 2925	Středočárové struktury centrované
+T35	SYMPTOM 3443 3462	mydriatické zornice
+T36	SYMPTOM 3641 3672	segmentální změny kontraktility
+T37	SYMPTOM 3685 3707	normální pravou komoru
+T38	SYMPTOM 3768 3779	preexcitace
+T39	SYMPTOM 3787 3801	prodloužení QT
+T40	SYMPTOM 3936 3961	elektrolytové abnormality
+T41	SYMPTOM 4088 4102	prodloužení QT
+T42	SYMPTOM 4132 4146	korigovaným QT
+T43	SYMPTOM 4403 4450	elevace segmentů ST >4 mm II, III, aVF, V5 a V6
+T44	SYMPTOM 4829 4847	trvalý vazospazmus
+T45	SYMPTOM 5291 5313	hemodynamicky stabilní
+T46	SYMPTOM 5390 5401	orientovaná
+T47	SYMPTOM 5407 5426	reziduální fokality
+T48	SYMPTOM 5460 5480	anterográdní amnézie
+T49	SYMPTOM 5483 5517	obtížemi při zapamatování událostí
+T50	SYMPTOM 5780 5796	bolesti na hrudi

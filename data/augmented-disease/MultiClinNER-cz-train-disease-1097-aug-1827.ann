@@ -1,0 +1,30 @@
+T1	DISEASE 75 96	nežádoucí účinky léků
+T2	DISEASE 140 147	kouření
+T3	DISEASE 164 176	dyslipidémie
+T4	DISEASE 178 200	incidentalom nadledvin
+T5	DISEASE 330 348	tako-tsubo syndrom
+T6	DISEASE 469 477	infarktu
+T7	DISEASE 739 757	tako-tsubo syndrom
+T8	DISEASE 1117 1157	infarkt myokardu bez elevace segmentu ST
+T9	DISEASE 1159 1165	NSTEMI
+T10	DISEASE 1369 1421	píštělemi z levého koronárního stromu do levé komory
+T11	DISEASE 1487 1502	akutní ischemie
+T12	DISEASE 1504 1516	myokarditidy
+T13	DISEASE 1522 1542	transmurální nekrózy
+T14	DISEASE 3822 3841	chlopenní dysfunkce
+T15	DISEASE 3954 3980	trikuspidální insuficience
+T16	DISEASE 3982 3984	TI
+T17	DISEASE 3998 4015	plicní hypertenze
+T18	DISEASE 4030 4053	perikardiálního výpotku
+T19	DISEASE 4431 4446	angina pectoris
+T20	DISEASE 4516 4523	arytmie
+T21	DISEASE 4703 4726	Koronární píštěle do LK
+T22	DISEASE 5002 5012	vazospazmy
+T23	DISEASE 5108 5156	přechodná úplná atrioventrikulární blokáda (AVB)
+T24	DISEASE 5152 5155	AVB
+T25	DISEASE 5637 5658	koronární vazospazmus
+T26	DISEASE 5705 5727	koronárního vazospazmu
+T27	DISEASE 6399 6406	kouření
+T28	DISEASE 6570 6610	Opakovaný akutní koronární syndrom (AKS)
+T29	DISEASE 6606 6609	AKS
+T30	DISEASE 6646 6675	Vazospastická angina pectoris

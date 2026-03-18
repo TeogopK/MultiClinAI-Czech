@@ -1,0 +1,48 @@
+T1	DISEASE 84 107	akutní infarkt myokardu
+T2	DISEASE 109 112	AIM
+T3	DISEASE 141 146	kuřák
+T4	DISEASE 182 200	konzumace alkoholu
+T5	DISEASE 208 218	hypertenze
+T6	DISEASE 220 237	diabetes mellitus
+T7	DISEASE 242 254	dyslipidemie
+T8	DISEASE 324 335	kardiopatie
+T9	DISEASE 1057 1064	synkopu
+T10	DISEASE 1069 1079	presynkopu
+T11	DISEASE 1980 2023	LK kulovitá, hypertrabekulární a dilatovaná
+T12	DISEASE 2041 2061	mírná hypertrofie LK
+T13	DISEASE 2159 2174	aneuryzma aorty
+T14	DISEASE 2251 2365	Trojcípá aortální chlopeň s těžkou funkční aortální insuficiencí v důsledku ztráty morfologie sinotubulární junkce
+T15	DISEASE 2595 2620	aneuryzma vzestupné aorty
+T16	DISEASE 2623 2634	AoAD typu A
+T17	DISEASE 2713 2722	Aneuryzma
+T18	DISEASE 3396 3420	dilatační kardiomyopatie
+T19	DISEASE 3776 3784	trombóza
+T20	DISEASE 3934 3951	částečné trombózy
+T21	DISEASE 4068 4075	disekce
+T22	DISEASE 4255 4284	oboustranný pleurální výpotek
+T23	DISEASE 4365 4375	hemotoraxu
+T24	DISEASE 4432 4461	oboustranný pleurální výpotek
+T25	DISEASE 4512 4561	velmi kulovitá, hypertrabekulární a dilatovaná LK
+T26	DISEASE 4791 4805	nízkého výkonu
+T27	DISEASE 4826 4874	Mírná-středně těžká funkční mitrální regurgitace
+T28	DISEASE 5292 5305	Chronická AoD
+T29	DISEASE 5471 5495	dilatační kardiomyopatie
+T30	DISEASE 5511 5546	pleurální ani perikardiální výpotek
+T31	DISEASE 5635 5638	AoD
+T32	DISEASE 6058 6079	diastolické dysfunkce
+T33	DISEASE 6495 6527	periprotetický insuficientní jet
+T34	DISEASE 6591 6617	trikuspidální insuficience
+T35	DISEASE 6641 6658	plicní hypertenze
+T36	DISEASE 6808 6819	aneuryzmatu
+T37	DISEASE 6828 6831	AoD
+T38	DISEASE 7177 7190	ruptury aorty
+T39	DISEASE 7425 7449	dilataci vzestupné aorty
+T40	DISEASE 7483 7493	typu A AoD
+T41	DISEASE 7809 7857	recidivující paralýza vlevo se sekundární afonií
+T42	DISEASE 8138 8167	oboustranný pleurální výpotek
+T43	DISEASE 8349 8406	dilatovanou a kulovitou LK s těžkou systolickou dysfunkcí
+T44	DISEASE 9008 9028	disekce aorty typu B
+T45	DISEASE 9191 9206	patologií aorty
+T46	DISEASE 9212 9238	onemocněním pojivové tkáně
+T47	DISEASE 9631 9702	Disekční aneuryzma aorty o velikosti 11 cm s disekcí Stanfordova typu A
+T48	DISEASE 9758 9798	Těžká pooperační dilatace a dysfunkce LK

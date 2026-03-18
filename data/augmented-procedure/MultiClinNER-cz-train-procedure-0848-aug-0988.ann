@@ -1,0 +1,23 @@
+T1	PROCEDURE 25 44	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 759 778	Fyzikální vyšetření
+T3	PROCEDURE 1103 1121	srdeční auskultace
+T4	PROCEDURE 1150 1167	Plicní auskultace
+T5	PROCEDURE 1363 1380	Elektrokardiogram
+T6	PROCEDURE 1565 1577	Krevní testy
+T7	PROCEDURE 1719 1728	hemostáza
+T8	PROCEDURE 1752 1773	plyny ve venózní krvi
+T9	PROCEDURE 2036 2053	Kardiální markery
+T10	PROCEDURE 2130 2142	krevní testy
+T11	PROCEDURE 2335 2348	profil železa
+T12	PROCEDURE 2426 2439	Mikrobiologie
+T13	PROCEDURE 2441 2455	SARS-CoV-2 PCR
+T14	PROCEDURE 2467 2493	Rentgenový snímek hrudníku
+T15	PROCEDURE 2795 2824	Transtorakální echokardiogram
+T16	PROCEDURE 3564 3578	Koronarografie
+T17	PROCEDURE 4487 4539	oxygenoterapií pomocí nízkoprůtokových nosních kanyl
+T18	PROCEDURE 4542 4559	diuretickou léčbu
+T19	PROCEDURE 4774 4778	ARNI
+T20	PROCEDURE 4781 4797	antialdosteronik
+T21	PROCEDURE 5278 5290	inzulinizace
+T22	PROCEDURE 5299 5324	perorálními antidiabetiky
+T23	PROCEDURE 5435 5448	Léčba diabetu

@@ -1,0 +1,56 @@
+T1	DISEASE 88 105	diabetika 2. typu
+T2	DISEASE 246 270	městnavé srdeční selhání
+T3	DISEASE 272 275	MSS
+T4	DISEASE 362 370	nadváhou
+T5	DISEASE 391 413	metabolického syndromu
+T6	DISEASE 416 426	hypertenzi
+T7	DISEASE 429 449	hypercholesterolemii
+T8	DISEASE 578 599	infarkt báze myokardu
+T9	DISEASE 670 692	trvalou fibrilaci síní
+T10	DISEASE 757 776	ischemická kolitida
+T11	DISEASE 779 793	žaludeční vřed
+T12	DISEASE 859 892	infarktem II. typu bez ST elevace
+T13	DISEASE 909 931	krvácením do konečníku
+T14	DISEASE 999 1032	postižení 3 cév koronárních tepen
+T15	DISEASE 1034 1081	okluzi proximálního předního sestupného řečiště
+T16	DISEASE 1089 1139	závažnou proximální cirkumflexní a první okrajovou
+T17	DISEASE 1152 1185	závažnou proximální bisekční lézi
+T18	DISEASE 1188 1216	okluzi pravé koronární tepny
+T19	DISEASE 1723 1726	MSS
+T20	DISEASE 1960 1984	dekompenzace těžkého CHF
+T21	DISEASE 1987 2022	akutním hypertenzním plicním edémem
+T22	DISEASE 2284 2298	fibrilaci síní
+T23	DISEASE 2679 2728	středně těžkou systolickou dysfunkci pravé komory
+T24	DISEASE 3438 3465	dekompenzací v důsledku MSS
+T25	DISEASE 3505 3524	metabolický syndrom
+T26	DISEASE 3785 3807	globální kardiomegalie
+T27	DISEASE 3894 3911	cisurální výpotek
+T28	DISEASE 3951 3965	fibrilace síní
+T29	DISEASE 4085 4115	středně dilatovaná levá komora
+T30	DISEASE 4269 4280	aneuryzmatu
+T31	DISEASE 4374 4398	Levá síň mírně rozšířená
+T32	DISEASE 4400 4426	Mírně dilatovaná pravá síň
+T33	DISEASE 4428 4457	Pravá komora silně dilatovaná
+T34	DISEASE 4526 4583	Mitrální chlopeň s kalciovým prstencem, ztluštěním lístků
+T35	DISEASE 4621 4639	Mírná insuficience
+T36	DISEASE 4641 4672	Sklerotizovaná aortální chlopeň
+T37	DISEASE 4719 4737	Mírná insuficience
+T38	DISEASE 4866 4892	Dilatovaná dolní dutá žíla
+T39	DISEASE 4937 4958	perikardiální výpotek
+T40	DISEASE 5090 5123	Přední sestupná: chronický uzávěr
+T41	DISEASE 5865 5936	těžká třícípá koronární nemoc (chronický uzávěr DA a CD), těžká léze Cx
+T42	DISEASE 5987 6015	těžce dilatovaná levá komora
+T43	DISEASE 6502 6528	Středně rozšířená levá síň
+T44	DISEASE 6562 6587	Pravá síň mírně rozšířená
+T45	DISEASE 6746 6791	dilatační kardiomyopatie ischemické etiologie
+T46	DISEASE 6960 7007	Středně těžká systolická dysfunkce pravé komory
+T47	DISEASE 7213 7216	MSS
+T48	DISEASE 7744 7769	Chronické srdeční selhání
+T49	DISEASE 7839 7909	Chronická ischemická choroba srdeční s onemocněním tří koronárních cév
+T50	DISEASE 7952 7984	Chronický dolní a přední infarkt
+T51	DISEASE 8096 8117	Trvalá fibrilace síní
+T52	DISEASE 8143 8160	Diabetes mellitus
+T53	DISEASE 8201 8222	Arteriální hypertenze
+T54	DISEASE 8224 8236	Dyslipidemie
+T55	DISEASE 8238 8250	Bývalý kuřák
+T56	DISEASE 8252 8271	Metabolický syndrom

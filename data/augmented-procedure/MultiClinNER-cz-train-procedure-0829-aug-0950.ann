@@ -1,0 +1,32 @@
+T1	PROCEDURE 33 50	FYZICKÉ VYŠETŘENÍ
+T2	PROCEDURE 426 472	náhradou mitrální chlopně mechanickou protézou
+T3	PROCEDURE 498 525	trikuspidální anuloplastiku
+T4	PROCEDURE 830 864	radikální pravostranné nefrektomii
+T5	PROCEDURE 1093 1102	hypotenzi
+T6	PROCEDURE 1219 1228	diuretika
+T7	PROCEDURE 1231 1244	antikoagulace
+T8	PROCEDURE 1343 1346	OTI
+T9	PROCEDURE 1474 1488	CT angiografie
+T10	PROCEDURE 1656 1673	FYZICKÉ VYŠETŘENÍ
+T11	PROCEDURE 1927 1943	Auskultace srdce
+T12	PROCEDURE 1980 1995	Auskultace plic
+T13	PROCEDURE 2146 2158	RTG hrudníku
+T14	PROCEDURE 2423 2431	Angio-CT
+T15	PROCEDURE 2514 2517	EKG
+T16	PROCEDURE 3071 3100	Transtorakální echokardiogram
+T17	PROCEDURE 3566 3597	Transezofageální echokardiogram
+T18	PROCEDURE 3812 3815	TTE
+T19	PROCEDURE 4039 4046	sedován
+T20	PROCEDURE 4049 4058	intubován
+T21	PROCEDURE 4079 4089	ventilátor
+T22	PROCEDURE 4273 4304	transtorakální echokardiografie
+T23	PROCEDURE 4514 4551	intraaortální balónková kontrapulzace
+T24	PROCEDURE 4614 4666	Swan-Ganzova katétru monitorovány pravostranné tlaky
+T25	PROCEDURE 4880 4891	fibrinolýza
+T26	PROCEDURE 5018 5071	náhrada chlopně biologickou protézou mitrální chlopně
+T27	PROCEDURE 5217 5226	kultivaci
+T28	PROCEDURE 5275 5296	antibiotickou terapií
+T29	PROCEDURE 5414 5439	kardiochirurgické operaci
+T30	PROCEDURE 5451 5485	Pravostranná radikální nefrektomie
+T31	PROCEDURE 5559 5591	perioperační překlenovací léčbou
+T32	PROCEDURE 5634 5679	Náhrada mitrální chlopně biologickou protézou

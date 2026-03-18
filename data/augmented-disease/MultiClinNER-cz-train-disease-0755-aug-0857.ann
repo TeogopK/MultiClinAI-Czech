@@ -1,0 +1,28 @@
+T1	DISEASE 79 95	Hodgkinův lymfom
+T2	DISEASE 283 301	folikulární adenom
+T3	DISEASE 1209 1221	těžkou sepsi
+T4	DISEASE 1381 1392	plicní edém
+T5	DISEASE 1528 1548	AV blokádu 2. stupně
+T6	DISEASE 1571 1581	av blokáda
+T7	DISEASE 1646 1686	středně těžkou trikuspidální regurgitaci
+T8	DISEASE 1688 1715	mírnou mitrální regurgitaci
+T9	DISEASE 1786 1822	vegetaci na předním mitrálním lístku
+T10	DISEASE 1904 1926	infekční endokarditidu
+T11	DISEASE 2156 2169	perikarditidy
+T12	DISEASE 2216 2237	perikardiální výpotek
+T13	DISEASE 2249 2360	endokarditidy s vegetacemi na předním mitrálním plátku, plátku trikuspidálního septa a mitrálně-aortální junkci
+T14	DISEASE 2374 2396	chlopenní insuficience
+T15	DISEASE 2443 2559	aneuryzma pravděpodobně mykotického původu na přední straně vzestupné aorty a také malou hrudní aortu a plicní tepnu
+T16	DISEASE 2594 2615	chirurgickému zákroku
+T17	DISEASE 2849 2928	přední straně aorty a na epikardiálním tuku pravé komory byl zaznamenán hematom
+T18	DISEASE 2930 2937	Hematom
+T19	DISEASE 3085 3108	mykotického aneuryzmatu
+T20	DISEASE 3173 3226	vzestupná aorta, která odhalila hojné ateromové pláty
+T21	DISEASE 3233 3252	mykotické aneuryzma
+T22	DISEASE 3350 3404	aortální chlopní byla pozorována a resekována vegetace
+T23	DISEASE 3578 3601	mykotického aneuryzmatu
+T24	DISEASE 3748 3806	vegetaci v komisuře mezi předním listem a septálním listem
+T25	DISEASE 4036 4072	vegetace na předním mitrálním lístku
+T26	DISEASE 4775 4787	septický šok
+T27	DISEASE 4790 4811	multiorgánové selhání
+T28	DISEASE 4833 4872	invazivní kandidózu v játrech a plicích

@@ -1,0 +1,23 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 383 389	bypass
+T3	PROCEDURE 471 501	perorální antikoagulační léčbu
+T4	PROCEDURE 1046 1073	Kardiopulmonální auskultace
+T5	PROCEDURE 1262 1265	CBC
+T6	PROCEDURE 1360 1393	renální, jaterní a iontový profil
+T7	PROCEDURE 1455 1467	RTG hrudníku
+T8	PROCEDURE 1563 1566	EKG
+T9	PROCEDURE 1677 1680	TTE
+T10	PROCEDURE 1987 2025	dilatace Carpentierova prstence typu I
+T11	PROCEDURE 2132 2152	Hemodynamická studie
+T12	PROCEDURE 2447 2456	diuretiky
+T13	PROCEDURE 2604 2638	katetrizaci levého a pravého srdce
+T14	PROCEDURE 2892 2921	implantaci zařízení MitraClip
+T15	PROCEDURE 2924 2955	současný uzávěr ouška levé síně
+T16	PROCEDURE 2959 2969	intervenci
+T17	PROCEDURE 3373 3440	implantováno zařízení Watchman, které uzavřelo 27mm ouška levé síně
+T18	PROCEDURE 3556 3578	elektrická kardioverze
+T19	PROCEDURE 3671 3674	TEE
+T20	PROCEDURE 3963 3970	operaci
+T21	PROCEDURE 4010 4033	perorální antikoagulace
+T22	PROCEDURE 4584 4613	Implantace zařízení MitraClip
+T23	PROCEDURE 4615 4648	Perkutánní uzávěr ouška levé síně

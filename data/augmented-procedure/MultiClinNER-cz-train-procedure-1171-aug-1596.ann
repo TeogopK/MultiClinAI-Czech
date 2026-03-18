@@ -1,0 +1,49 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 188 215	minimálně invazivní operací
+T5	PROCEDURE 217 274	modifikovaná pravostranná minitorakotomie typu Heart Port
+T6	PROCEDURE 563 582	Fyzikální vyšetření
+T7	PROCEDURE 924 940	Auskultace srdce
+T8	PROCEDURE 967 982	Auskultace plic
+T9	PROCEDURE 1109 1126	Elektrokardiogram
+T10	PROCEDURE 1128 1131	EKG
+T11	PROCEDURE 1224 1236	Krevní obraz
+T12	PROCEDURE 1408 1416	glykémie
+T13	PROCEDURE 1504 1527	Plyny v arteriální krvi
+T14	PROCEDURE 1606 1618	RTG hrudníku
+T15	PROCEDURE 1766 1814	Transtorakální a transezofageální echokardiogram
+T16	PROCEDURE 1816 1842	transezofageální vyšetření
+T17	PROCEDURE 1848 1854	sedace
+T18	PROCEDURE 2418 2437	Injekce gelafundinu
+T19	PROCEDURE 2517 2525	Angio-CT
+T20	PROCEDURE 2919 2951	Ventilační/perfuzní scintigrafie
+T21	PROCEDURE 2953 2977	scintigrafické vyšetření
+T22	PROCEDURE 3014 3025	Spirometrie
+T23	PROCEDURE 3073 3099	Magnetická rezonance srdce
+T24	PROCEDURE 3188 3199	hypertrofie
+T25	PROCEDURE 3572 3587	3D cévní studii
+T26	PROCEDURE 3724 3730	drenáž
+T27	PROCEDURE 3733 3739	drenáž
+T28	PROCEDURE 3784 3790	drenáž
+T29	PROCEDURE 3805 3814	Vyšetření
+T30	PROCEDURE 3844 3856	LGE myokardu
+T31	PROCEDURE 3913 3919	drenáž
+T32	PROCEDURE 3922 3929	drenáží
+T33	PROCEDURE 4133 4164	transtorakální echokardiografie
+T34	PROCEDURE 4166 4169	TTE
+T35	PROCEDURE 4173 4206	transezofageální echokardiografie
+T36	PROCEDURE 4208 4211	TEE
+T37	PROCEDURE 4253 4262	vyšetření
+T38	PROCEDURE 4339 4392	Kontrastní látka byla podána přes obě horní končetiny
+T39	PROCEDURE 4490 4492	CT
+T40	PROCEDURE 4500 4529	ventilačně-perfuzní vyšetření
+T41	PROCEDURE 4635 4662	magnetickou rezonancí srdce
+T42	PROCEDURE 4664 4667	CMR
+T43	PROCEDURE 4701 4707	drenáž
+T44	PROCEDURE 4784 4802	anatomická korekce
+T45	PROCEDURE 4831 4838	operace
+T46	PROCEDURE 4996 5002	drenáž
+T47	PROCEDURE 5138 5165	arteriálních krevních plynů
+T48	PROCEDURE 5168 5184	echokardiografie
+T49	PROCEDURE 5244 5264	chirurgické reparaci

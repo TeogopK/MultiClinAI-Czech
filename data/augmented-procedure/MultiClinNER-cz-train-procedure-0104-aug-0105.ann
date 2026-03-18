@@ -1,0 +1,28 @@
+T1	PROCEDURE 54 65	hemodialýze
+T2	PROCEDURE 108 129	imunosupresivní léčbě
+T3	PROCEDURE 130 174	transplantaci ledviny od kadaverózního dárce
+T4	PROCEDURE 387 411	biopsii a kultivaci lézí
+T5	PROCEDURE 397 411	kultivaci lézí
+T6	PROCEDURE 537 576	intravenózní (IV) antibiotickou terapii
+T7	PROCEDURE 587 641	okamžitý chirurgický debridement až po svalovou plochu
+T8	PROCEDURE 749 770	imunosupresivní léčbu
+T9	PROCEDURE 863 910	širokospektrou intravenózní antibiotickou léčbu
+T10	PROCEDURE 1061 1070	kultivaci
+T11	PROCEDURE 1110 1122	debridementu
+T12	PROCEDURE 1137 1175	léčba podtlakovou terapií systémem VAC
+T13	PROCEDURE 1308 1320	debridementu
+T14	PROCEDURE 1328 1379	pokryta autologními kožními štěpy částečné tloušťky
+T15	PROCEDURE 1397 1442	terapií VAC® s obvazem Granofoam při 125 mmHg
+T16	PROCEDURE 1533 1549	po transplantaci
+T17	PROCEDURE 1683 1701	antibiotické léčby
+T18	PROCEDURE 1734 1755	imunosupresivní léčby
+T19	PROCEDURE 1885 1981	ambulantních okluzivních převazů s použitím antibiotické tulgrázy a gázy napuštěné povidon jodem
+T20	PROCEDURE 2083 2099	po transplantaci
+T21	PROCEDURE 2221 2246	intravenózních antibiotik
+T22	PROCEDURE 2265 2279	imunosupresivy
+T23	PROCEDURE 2311 2332	transplantaci ledviny
+T24	PROCEDURE 2334 2360	chirurgického debridementu
+T25	PROCEDURE 2363 2374	terapie VAC
+T26	PROCEDURE 2463 2499	autologních částečných kožních štěpů
+T27	PROCEDURE 2574 2604	implantace 2 kožních expandérů
+T28	PROCEDURE 2607 2632	estetičtější rekonstrukce

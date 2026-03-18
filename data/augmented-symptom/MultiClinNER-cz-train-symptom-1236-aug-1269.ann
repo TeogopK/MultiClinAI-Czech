@@ -1,0 +1,74 @@
+T1	SYMPTOM 103 163	Marfanův syndrom u bratra s pozitivním genetickým vyšetřením
+T2	SYMPTOM 165 183	mutace v genu FBN1
+T3	SYMPTOM 263 283	marfanoidní morfotyp
+T4	SYMPTOM 489 505	bolesti na hrudi
+T5	SYMPTOM 757 773	arytmické změny,
+T6	SYMPTOM 857 942	test na detekci ischemie pomocí ergometrie, který byl klinicky i elektricky negativní
+T7	SYMPTOM 978 1006	nekoronární bolesti na hrudi
+T8	SYMPTOM 1362 1376	ztratil vědomí
+T9	SYMPTOM 1876 1902	nepříjemné pocity na hrudi
+T10	SYMPTOM 1928 1943	sinusovém rytmu
+T11	SYMPTOM 1962 1986	difuzní elevací úseku st
+T12	SYMPTOM 1990 2002	zvýšením aVR
+T13	SYMPTOM 2005 2073	přetrvávající elevaci úseku ST v postranních svodech v sériových EKG
+T14	SYMPTOM 2139 2179	koronární tepny bez angiografických lézí
+T15	SYMPTOM 2291 2384	echokardiografickém vyšetření provedeném v akutní fázi nebyly pozorovány žádné významné změny
+T16	SYMPTOM 2949 2959	Při vědomí
+T17	SYMPTOM 2962 2973	orientovaný
+T18	SYMPTOM 2975 2989	Barva normální
+T19	SYMPTOM 2991 3007	normohydratovaný
+T20	SYMPTOM 3009 3026	V klidu eupnoický
+T21	SYMPTOM 3028 3069	Auskultace srdce. akce srdeční pravidelná
+T22	SYMPTOM 3088 3095	šelesty
+T23	SYMPTOM 3097 3124	Plicní auskultace: normální
+T24	SYMPTOM 3142 3165	další patologické zvuky
+T25	SYMPTOM 3167 3184	Břicho: nepopsané
+T26	SYMPTOM 3186 3219	Dolní končetiny: symetrické pulzy
+T27	SYMPTOM 3227 3262	známky hluboké žilní trombózy (HŽT)
+T28	SYMPTOM 3865 3888	jaterní profil normální
+T29	SYMPTOM 4042 4085	Katecholaminy ve 24hodinové moči: negativní
+T30	SYMPTOM 4087 4113	RTG hrudníku: normální CTI
+T31	SYMPTOM 4115 4160	mediastinum a plicní pole bez významných změn
+T32	SYMPTOM 4178 4198	sinusová tachykardie
+T33	SYMPTOM 4217 4228	normální PR
+T34	SYMPTOM 4247 4255	úzké QRS
+T35	SYMPTOM 4257 4273	elevace úseku ST
+T36	SYMPTOM 4334 4368	s elevací úseku ST 1 mm v aVR a V1
+T37	SYMPTOM 4414 4426	Normální QTc
+T38	SYMPTOM 4450 4465	sinusový rytmus
+T39	SYMPTOM 4483 4510	normální PR bez preexcitace
+T40	SYMPTOM 4512 4547	bez poruch vedení nebo repolarizace
+T41	SYMPTOM 4549 4594	Pomalý průběh vlny R v prekordiálních svodech
+T42	SYMPTOM 4596 4608	Normální QTc
+T43	SYMPTOM 4626 4650	levá síň není dilatovaná
+T44	SYMPTOM 4652 4719	Tenký list mitrální chlopně se zachovanou pohyblivostí a otevíráním
+T45	SYMPTOM 4738 4765	Levá komora není dilatovaná
+T46	SYMPTOM 4819 4844	zachovanou ejekční frakcí
+T47	SYMPTOM 4859 4891	segmentálních změn kontraktility
+T48	SYMPTOM 4918 4985	Trojcípá aortální chlopeň, tenká s dobrým otevíráním a pohyblivostí
+T49	SYMPTOM 4987 5002	normální průtok
+T50	SYMPTOM 5004 5053	Chlopenní anulus a kořen aorty normálních rozměrů
+T51	SYMPTOM 5091 5121	Pravé komory nejsou dilatované
+T52	SYMPTOM 5123 5159	kontraktilita pravé komory zachována
+T53	SYMPTOM 5161 5216	Trikuspidální chlopeň s dobrým otevřením a pohyblivostí
+T54	SYMPTOM 5241 5274	Plicní chlopeň s dobrým otevřením
+T55	SYMPTOM 5276 5314	průtoková křivka normálního charakteru
+T56	SYMPTOM 5417 5446	žádné arytmické nebo ST změny
+T57	SYMPTOM 5486 5548	epikardiální koronární tepny bez angiograficky významných lézí
+T58	SYMPTOM 5571 5583	nedilatovaná
+T59	SYMPTOM 5588 5602	hypertrofovaná
+T60	SYMPTOM 5607 5645	zachovanou globální systolickou funkcí
+T61	SYMPTOM 5659 5691	segmentálních změn kontraktility
+T62	SYMPTOM 5716 5763	kořen aorty a vzestupná aorta nejsou dilatované
+T63	SYMPTOM 5830 5856	Ajmalinový test: negativní
+T64	SYMPTOM 5932 5948	bolestí na hrudi
+T65	SYMPTOM 6013 6095	testy katecholaminů v krvi a moči na 24hodinovou moč a krevní testy byly negativní
+T66	SYMPTOM 6190 6202	normální QTc
+T67	SYMPTOM 6204 6223	nepřítomnost vlny J
+T68	SYMPTOM 6226 6254	spontánního Brugadova vzorce
+T69	SYMPTOM 6348 6394	vzorce Brugadova syndromu, který byl negativní
+T70	SYMPTOM 7034 7054	hrudního dyskomfortu
+T71	SYMPTOM 7230 7246	bolesti na hrudi
+T72	SYMPTOM 7248 7343	výraznou přechodnou elevací úseku ST v dolní a laterální oblasti a depresi úseku ST ve V1 až V4
+T73	SYMPTOM 8054 8076	asymptomatického stavu
+T74	SYMPTOM 8454 8470	bolestí na hrudi

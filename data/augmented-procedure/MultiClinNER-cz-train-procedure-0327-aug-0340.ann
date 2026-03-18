@@ -1,0 +1,27 @@
+T1	PROCEDURE 152 184	kultuře krve a mozkomíšního moku
+T2	PROCEDURE 211 240	podpůrnou tekutinovou terapii
+T3	PROCEDURE 482 504	sériové kultivace krve
+T4	PROCEDURE 506 520	kultivace moči
+T5	PROCEDURE 522 534	RTG hrudníku
+T6	PROCEDURE 536 552	ultrazvuk břicha
+T7	PROCEDURE 555 563	CT lebky
+T8	PROCEDURE 717 759	centrální žilní přístup vpravo podklíčkový
+T9	PROCEDURE 845 877	celkové a neurologické vyšetření
+T10	PROCEDURE 892 900	Hemogram
+T11	PROCEDURE 902 911	hemostáza
+T12	PROCEDURE 913 960	renální, jaterní, tyreoidální a lipidový profil
+T13	PROCEDURE 1085 1194	Sérologické vyšetření na virus hepatitidy B a C, HIV, EBV, CMV, HSV typ 1 a 2, Coxiella burnetti a rickettsie
+T14	PROCEDURE 1211 1283	autoimunita s ANA, ANCA, revmatoidní faktor, imunoglobuliny a komplement
+T15	PROCEDURE 1236 1254	revmatoidní faktor
+T16	PROCEDURE 1256 1270	imunoglobuliny
+T17	PROCEDURE 1314 1324	Mantouxova
+T18	PROCEDURE 1348 1400	kultivace krve přes centrální katétr, periferní krve
+T19	PROCEDURE 1517 1539	mikroskopickým nátěrem
+T20	PROCEDURE 1542 1551	kultivaci
+T21	PROCEDURE 1553 1568	Vyšetření fundu
+T22	PROCEDURE 1570 1587	elektrokardiogram
+T23	PROCEDURE 1589 1605	echokardiografie
+T24	PROCEDURE 1608 1641	CT hrudníku a břicha s kontrastem
+T25	PROCEDURE 1678 1700	MRI lebky s kontrastem
+T26	PROCEDURE 2466 2482	vyšetření PET-CT
+T27	PROCEDURE 2968 2971	MRI

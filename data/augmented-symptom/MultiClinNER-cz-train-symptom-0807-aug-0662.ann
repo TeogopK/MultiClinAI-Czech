@@ -1,0 +1,44 @@
+T1	SYMPTOM 135 151	bolesti na hrudi
+T2	SYMPTOM 561 577	bolesti na hrudi
+T3	SYMPTOM 600 620	tísnivým charakterem
+T4	SYMPTOM 653 667	studeným potem
+T5	SYMPTOM 754 761	bolesti
+T6	SYMPTOM 932 941	palpitace
+T7	SYMPTOM 955 968	ztráty vědomí
+T8	SYMPTOM 991 1009	Dobrý celkový stav
+T9	SYMPTOM 1011 1025	normální barva
+T10	SYMPTOM 1028 1042	normohydratace
+T11	SYMPTOM 1044 1061	v klidu eupnoický
+T12	SYMPTOM 1063 1073	při vědomí
+T13	SYMPTOM 1075 1086	orientovaný
+T14	SYMPTOM 1089 1103	spolupracující
+T15	SYMPTOM 1246 1253	šelesty
+T16	SYMPTOM 1280 1307	zachován vezikulární šelest
+T17	SYMPTOM 1312 1331	vedlejších fenomenů
+T18	SYMPTOM 1355 1380	tele-exspiračních pískotů
+T19	SYMPTOM 1382 1441	Radiální a pedální pulzy byly hmatné, rytmické a symetrické
+T20	SYMPTOM 1494 1509	sinusový rytmus
+T21	SYMPTOM 1561 1569	Úzké QRS
+T22	SYMPTOM 1577 1596	repolarizační změny
+T23	SYMPTOM 1873 1939	levá komora normálního průměru a tloušťky stěny se zachovanou LVEF
+T24	SYMPTOM 1972 2003	segmentální změny kontraktility
+T25	SYMPTOM 2005 2040	Normální transmitrální plnicí obraz
+T26	SYMPTOM 2069 2107	LVEDP globálně hodnoceno jako normální
+T27	SYMPTOM 2110 2135	Nedilatovaná pravá komora
+T28	SYMPTOM 2211 2238	Předsíně normální velikosti
+T29	SYMPTOM 2271 2305	Dolní dutá žíla (IVC) nedilatovaná
+T30	SYMPTOM 2308 2339	přiměřeným inspiračním kolapsem
+T31	SYMPTOM 2524 2544	prekordiální bolesti
+T32	SYMPTOM 2596 2619	horizontální depresi ST
+T33	SYMPTOM 2753 2778	Normální funkční kapacita
+T34	SYMPTOM 2862 2887	levostranná preponderance
+T35	SYMPTOM 2889 2988	Levý koronární kmen, přední sestupná tepna a cirkumflexní tepna bez významných angiografických lézí
+T36	SYMPTOM 3224 3258	koronární anatomie: dominance levé
+T37	SYMPTOM 3417 3432	kmen bez stenoz
+T38	SYMPTOM 3434 3448	RIA bez stenoz
+T39	SYMPTOM 3450 3463	RC bez stenoz
+T40	SYMPTOM 3753 3842	levá komora s tloušťkou stěny, objemy a segmentální a globální systolickou funkcí v normě
+T41	SYMPTOM 3856 3902	Objem a systolická funkce pravé komory v normě
+T42	SYMPTOM 3916 3956	Předsíně a velké cévy normální velikosti
+T43	SYMPTOM 4958 4983	RIA a RC bez význ. stenoz
+T44	SYMPTOM 7138 7151	Normální LVEF

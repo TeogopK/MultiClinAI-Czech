@@ -1,0 +1,33 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 61	Anamnéza
+T4	PROCEDURE 274 309	adjuvantní chemoterapeutickou léčbu
+T5	PROCEDURE 653 703	chemoterapie 5-fluorouracilem v kontinuální infuzi
+T6	PROCEDURE 1002 1019	elektrokardiogram
+T7	PROCEDURE 1021 1024	EKG
+T8	PROCEDURE 1699 1723	perfuze 5-fluorouracilem
+T9	PROCEDURE 1828 1831	EKG
+T10	PROCEDURE 1866 1889	urgentní koronarografie
+T11	PROCEDURE 1968 1979	Aortografie
+T12	PROCEDURE 2077 2096	Fyzikální vyšetření
+T13	PROCEDURE 2240 2256	Auskultace srdce
+T14	PROCEDURE 2325 2350	Auskultace dýchacích cest
+T15	PROCEDURE 2399 2408	vyšetření
+T16	PROCEDURE 2454 2471	Elektrokardiogram
+T17	PROCEDURE 2473 2476	EKG
+T18	PROCEDURE 2621 2624	EKG
+T19	PROCEDURE 2788 2814	rentgenový snímek hrudníku
+T20	PROCEDURE 2901 2918	Laboratorní testy
+T21	PROCEDURE 2920 2940	Vstupní krevní testy
+T22	PROCEDURE 3154 3173	Myokardiální enzymy
+T23	PROCEDURE 3260 3274	PCR SARS-CoV-2
+T24	PROCEDURE 3297 3318	laboratorní vyšetření
+T25	PROCEDURE 3340 3358	Metabolický profil
+T26	PROCEDURE 3457 3471	Jaterní funkce
+T27	PROCEDURE 3533 3545	krevní obraz
+T28	PROCEDURE 3557 3571	Koronarografie
+T29	PROCEDURE 3655 3666	Aortografie
+T30	PROCEDURE 3725 3754	Transtorakální echokardiogram
+T31	PROCEDURE 4098 4119	medikamentózní léčbou
+T32	PROCEDURE 4306 4315	sledování
+T33	PROCEDURE 4521 4547	subtotální R2 gastrektomie

@@ -1,0 +1,47 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 221 258	léčbě lékem snižujícím hladinu lipidů
+T3	PROCEDURE 583 594	mastektomií
+T4	PROCEDURE 596 611	lymfadenektomii
+T5	PROCEDURE 614 631	chemoradioterapií
+T6	PROCEDURE 1154 1172	dotazu na přístroj
+T7	PROCEDURE 1210 1229	Fyzikální vyšetření
+T8	PROCEDURE 1359 1375	Auskultace srdce
+T9	PROCEDURE 1560 1575	Auskultace plic
+T10	PROCEDURE 1633 1648	hluboké palpaci
+T11	PROCEDURE 1908 1918	echoskopie
+T12	PROCEDURE 2239 2265	rentgenový snímek hrudníku
+T13	PROCEDURE 2429 2446	Elektrokardiogram
+T14	PROCEDURE 2763 2772	Hemostáza
+T15	PROCEDURE 2796 2805	Biochemie
+T16	PROCEDURE 3113 3122	Hemostáza
+T17	PROCEDURE 3144 3153	Biochemie
+T18	PROCEDURE 3344 3358	Echokardiogram
+T19	PROCEDURE 3945 3959	Koronarografie
+T20	PROCEDURE 4289 4312	Hrudní CT bez kontrastu
+T21	PROCEDURE 4478 4492	Koronarografie
+T22	PROCEDURE 4531 4580	perkutánní transluminální koronární angioplastika
+T23	PROCEDURE 4582 4586	PTCA
+T24	PROCEDURE 4590 4616	implantací lékových stentů
+T25	PROCEDURE 4667 4682	Implantace TAVI
+T26	PROCEDURE 4687 4712	balónkové valvuloplastice
+T27	PROCEDURE 4718 4756	implantována 23mm protéza SAPIEN ULTRA
+T28	PROCEDURE 5301 5320	vazoaktivní podpora
+T29	PROCEDURE 5429 5447	diuretická terapie
+T30	PROCEDURE 5584 5606	ultrafiltrační terapie
+T31	PROCEDURE 5608 5636	Echokardiografické vyšetření
+T32	PROCEDURE 5762 5776	koronarografie
+T33	PROCEDURE 5888 5912	nekontrastním hrudním CT
+T34	PROCEDURE 5987 6014	chirurgická náhrada chlopně
+T35	PROCEDURE 6255 6282	kanylace pro mimotělní oběh
+T36	PROCEDURE 6384 6409	balónková valvuloplastika
+T37	PROCEDURE 6428 6432	TAVI
+T38	PROCEDURE 6542 6585	perkutánní revaskularizací koronárních lézí
+T39	PROCEDURE 6598 6634	perkutánní náhradou aortální chlopně
+T40	PROCEDURE 6723 6740	inotropní podpora
+T41	PROCEDURE 6769 6792	vazopresorickou podporu
+T42	PROCEDURE 6849 6888	perkutánní revaskularizace lézí AD a DC
+T43	PROCEDURE 6917 6972	perkutánní náhradu chlopně cestou pravé femorální tepny
+T44	PROCEDURE 6978 6996	expanzi bioprotézy
+T45	PROCEDURE 7246 7293	pokročilé kardiopulmonální resuscitační manévry
+T46	PROCEDURE 7633 7670	PCI s implantací dvou lékových stentů
+T47	PROCEDURE 7727 7768	perkutánní implantace aortální bioprotézy

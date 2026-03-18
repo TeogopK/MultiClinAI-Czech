@@ -1,0 +1,46 @@
+T1	PROCEDURE 1221 1239	elektrokardiogramy
+T2	PROCEDURE 1241 1244	EKG
+T3	PROCEDURE 1442 1456	koronarografii
+T4	PROCEDURE 1489 1505	echokardiografie
+T5	PROCEDURE 1606 1625	FYZIKÁLNÍ VYŠETŘENÍ
+T6	PROCEDURE 1665 1684	fyzikální vyšetření
+T7	PROCEDURE 1923 1939	Auskultace srdce
+T8	PROCEDURE 1984 1999	Auskultace plic
+T9	PROCEDURE 2158 2161	EKG
+T10	PROCEDURE 2337 2340	EKG
+T11	PROCEDURE 2559 2585	Rentgenový snímek hrudníku
+T12	PROCEDURE 2759 2775	Echokardiografie
+T13	PROCEDURE 2953 2967	Echokardiogram
+T14	PROCEDURE 3562 3576	koronarografie
+T15	PROCEDURE 3856 3909	Perkutánní koronární intervence u těžké stenózy CX-MO
+T16	PROCEDURE 3917 3961	PTCA s konvenčními balónky, řezacím balónkem
+T17	PROCEDURE 3964 3983	rotační aterektomií
+T18	PROCEDURE 3994 4045	implantace lékového stentu obsahujícího zotarolimus
+T19	PROCEDURE 4100 4114	koronarografie
+T20	PROCEDURE 4144 4194	stentu uvolňujícího léčivo implantovaného na CX-MO
+T21	PROCEDURE 4196 4312	Perkutánní koronární intervence na dlouhém kalcifikovaném plátu v proximálně-střední přední sestupné koronární tepně
+T22	PROCEDURE 4320 4369	perkutánní transluminální koronární angioplastiky
+T23	PROCEDURE 4371 4375	PTCA
+T24	PROCEDURE 4379 4430	implantace lékového stentu zavádějícího zotarolimus
+T25	PROCEDURE 4432 4444	Krevní testy
+T26	PROCEDURE 4470 4478	hemogram
+T27	PROCEDURE 4553 4562	Biochemie
+T28	PROCEDURE 4978 4997	Alergologické testy
+T29	PROCEDURE 4999 5037	kožní testy na běžné trofické alergeny
+T30	PROCEDURE 5444 5454	Prick test
+T31	PROCEDURE 5494 5526	hodnoty markerů nekrózy myokardu
+T32	PROCEDURE 5681 5684	EKG
+T33	PROCEDURE 5805 5823	echokardiograficky
+T34	PROCEDURE 5884 5898	koronarografie
+T35	PROCEDURE 6157 6180	PTCA s řezacími balónky
+T36	PROCEDURE 6191 6210	rotační aterektomii
+T37	PROCEDURE 6223 6258	implantován stent uvolňující léčivo
+T38	PROCEDURE 6460 6496	provedení krevního testu na tryptázu
+T39	PROCEDURE 6600 6632	elevace markerů nekrózy myokardu
+T40	PROCEDURE 6776 6790	koronarografie
+T41	PROCEDURE 6814 6844	implantován další lékový stent
+T42	PROCEDURE 6872 6900	echokardiografické vyšetření
+T43	PROCEDURE 7032 7052	analytické vyšetření
+T44	PROCEDURE 7136 7147	kožní testy
+T45	PROCEDURE 7269 7299	imunoterapie proti vosímu jedu
+T46	PROCEDURE 7532 7547	revaskularizací

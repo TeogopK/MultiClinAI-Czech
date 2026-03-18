@@ -1,0 +1,56 @@
+T1	SYMPTOM 231 249	intenzivní dušnost
+T2	SYMPTOM 251 260	diaforéza
+T3	SYMPTOM 263 351	intenzivní tísnivá bolest v centrální části hrudníku vyzařující do obou horních končetin
+T4	SYMPTOM 412 441	záškuby v horních končetinách
+T5	SYMPTOM 443 460	třesem obou rukou
+T6	SYMPTOM 463 504	neschopností mluvit kvůli hojnému slinění
+T7	SYMPTOM 507 519	bronchorrhoe
+T8	SYMPTOM 722 746	hemodynamicky nestabilní
+T9	SYMPTOM 956 1003	elevací ST ve II-III-aVF, od V3 po V6 a V3R-V4R
+T10	SYMPTOM 1006 1039	zrcadlovým poklesem v I-aVL-V1-V2
+T11	SYMPTOM 1216 1226	elevace ST
+T12	SYMPTOM 1281 1291	Relaxovaný
+T13	SYMPTOM 1292 1300	sedovaný
+T14	SYMPTOM 1412 1421	afebrilní
+T15	SYMPTOM 1451 1456	mióza
+T16	SYMPTOM 1465 1474	sialoreou
+T17	SYMPTOM 1476 1530	Auskultace srdce: bradykardické, rytmické a pravidelné
+T18	SYMPTOM 1532 1588	Plicní pole s inspiračními a exspiračními sípavými dechy
+T19	SYMPTOM 1590 1624	praskajícími chrůpky v obou bazích
+T20	SYMPTOM 1645 1652	sekretů
+T21	SYMPTOM 1654 1689	Břicho kulovité, měkké, stlačitelné
+T22	SYMPTOM 1707 1760	Končetiny s fascikulacemi a generalizovaným myoklonem
+T23	SYMPTOM 2453 2501	kardiotorakální index na horní hranici normality
+T24	SYMPTOM 2503 2549	Intersticiální infiltrát v obou dolních polích
+T25	SYMPTOM 2627 2642	nedilatovaná LK
+T26	SYMPTOM 2664 2671	akinezí
+T27	SYMPTOM 3023 3046	pravostrannou dominanci
+T28	SYMPTOM 3048 3061	LMCA bez lézí
+T29	SYMPTOM 3512 3527	sinusový rytmus
+T30	SYMPTOM 3621 3629	změny ST
+T31	SYMPTOM 3631 3678	elevace ST ve II-III-aVF a pokles v I-aVL-V1-V2
+T32	SYMPTOM 3794 3801	dyspnoe
+T33	SYMPTOM 3803 3816	hojné slinění
+T34	SYMPTOM 3818 3831	bronchorrhoea
+T35	SYMPTOM 3833 3844	fascikulace
+T36	SYMPTOM 3846 3856	třes rukou
+T37	SYMPTOM 3859 3865	známky
+T38	SYMPTOM 3867 3872	mióza
+T39	SYMPTOM 3874 3885	sialorrhoea
+T40	SYMPTOM 3887 3901	bronchospasmus
+T41	SYMPTOM 3903 3916	bronchorrhoea
+T42	SYMPTOM 3918 3929	bradykardie
+T43	SYMPTOM 3943 3952	myoklonus
+T44	SYMPTOM 3975 3986	leukocytóza
+T45	SYMPTOM 4639 4654	sinusovém rytmu
+T46	SYMPTOM 4672 4688	QS ve II-III-aVF
+T47	SYMPTOM 4690 4709	vysoké R ve V2 a V3
+T48	SYMPTOM 4717 4741	elevace ST ve II-III-aVF
+T49	SYMPTOM 4750 4770	pokles v I-aVLV1- V2
+T50	SYMPTOM 4839 4875	neurologický stav ještě více zhoršil
+T51	SYMPTOM 4887 4896	spastický
+T52	SYMPTOM 4900 4935	hyperreaktivitou šlachových reflexů
+T53	SYMPTOM 4946 4958	dysautonomie
+T54	SYMPTOM 4961 4977	chladem končetin
+T55	SYMPTOM 5214 5220	zemřel
+T56	SYMPTOM 5716 5722	Exitus

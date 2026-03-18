@@ -1,0 +1,42 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 439 456	elektrokardiogram
+T3	PROCEDURE 614 625	fibrinolýza
+T4	PROCEDURE 637 658	protidestičková léčba
+T5	PROCEDURE 806 817	fibrinolýze
+T6	PROCEDURE 904 917	angioplastika
+T7	PROCEDURE 1198 1290	implantací tří lékových stentů v počáteční, střední a distální třetině pravé koronární tepny
+T8	PROCEDURE 1459 1478	FYZIKÁLNÍ VYŠETŘENÍ
+T9	PROCEDURE 1558 1590	oxygenoterapii v nosních brýlích
+T10	PROCEDURE 1689 1705	Auskultace srdce
+T11	PROCEDURE 1992 2013	koagulačním vyšetření
+T12	PROCEDURE 2280 2296	echokardiografie
+T13	PROCEDURE 2739 2753	dopplerovského
+T14	PROCEDURE 2854 2871	Elektrokardiogram
+T15	PROCEDURE 2873 2876	EKG
+T16	PROCEDURE 3067 3081	Koronarografie
+T17	PROCEDURE 3122 3159	intrakoronární injekci nitroglycerinu
+T18	PROCEDURE 3694 3722	echokardiografické vyšetření
+T19	PROCEDURE 3879 3893	koronarografii
+T20	PROCEDURE 3938 3952	koronarografii
+T21	PROCEDURE 4434 4452	srdeční auskultace
+T22	PROCEDURE 4474 4507	echokardiografie u lůžka pacienta
+T23	PROCEDURE 4851 4904	implantace extrakorporálního membránového oxygenátoru
+T24	PROCEDURE 4906 4910	ECMO
+T25	PROCEDURE 4957 5013	periferní veno-arteriální (V-A) femorálně-femorální ECMO
+T26	PROCEDURE 5178 5199	mechanickou ventilaci
+T27	PROCEDURE 5397 5416	transplantaci srdce
+T28	PROCEDURE 5429 5456	oběhové podpory pomocí ECMO
+T29	PROCEDURE 5472 5529	ortotopická transplantace srdce od dárce s mozkovou smrtí
+T30	PROCEDURE 5531 5551	Extrakorporální oběh
+T31	PROCEDURE 5571 5609	periferního V-A femoro-axilárního ECMO
+T32	PROCEDURE 5668 5672	ECMO
+T33	PROCEDURE 5701 5714	transplantaci
+T34	PROCEDURE 5827 5838	fibrinolýza
+T35	PROCEDURE 5864 5913	Perkutánní transluminální koronární angioplastika
+T36	PROCEDURE 5915 5919	PTCA
+T37	PROCEDURE 5953 5990	Implantace tří lékových stentů do RCA
+T38	PROCEDURE 6051 6055	PTCA
+T39	PROCEDURE 6148 6152	ECMO
+T40	PROCEDURE 6158 6184	mechanická oběhová podpora
+T41	PROCEDURE 6198 6211	transplantaci
+T42	PROCEDURE 6213 6244	Ortotopická transplantace srdce

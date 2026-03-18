@@ -1,0 +1,31 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 234 282	éčený kontinuálním přetlakem v dýchacích cestách
+T3	PROCEDURE 284 288	CPAP
+T4	PROCEDURE 402 412	manometrií
+T5	PROCEDURE 594 607	tonzilektomie
+T6	PROCEDURE 1101 1120	FYZIKÁLNÍ VYŠETŘENÍ
+T7	PROCEDURE 1363 1379	Auskultace srdce
+T8	PROCEDURE 1413 1428	Auskultace plic
+T9	PROCEDURE 1626 1638	Krevní testy
+T10	PROCEDURE 1640 1649	biochemie
+T11	PROCEDURE 1803 1822	Funkce štítné žlázy
+T12	PROCEDURE 1992 2006	Vyšetření moči
+T13	PROCEDURE 2055 2067	RTG hrudníku
+T14	PROCEDURE 2202 2205	EKG
+T15	PROCEDURE 2316 2345	Transtorakální echokardiogram
+T16	PROCEDURE 3328 3348	Torakoabdominální CT
+T17	PROCEDURE 4685 4703	elektroneurogramem
+T18	PROCEDURE 4949 4968	hypokalorické diety
+T19	PROCEDURE 5123 5156	lokálním podávání kortikosteroidů
+T20	PROCEDURE 5338 5351	funkci ledvin
+T21	PROCEDURE 5489 5519	intranazálními kortikosteroidy
+T22	PROCEDURE 5536 5564	echokardiografické vyšetření
+T23	PROCEDURE 5780 5801	reaktantů akutní fáze
+T24	PROCEDURE 5804 5815	autoimunity
+T25	PROCEDURE 6034 6049	biopsii ledviny
+T26	PROCEDURE 6140 6158	elektroneurogramem
+T27	PROCEDURE 6331 6347	léčba kortikoidy
+T28	PROCEDURE 6556 6583	kontrolou srdeční frekvence
+T29	PROCEDURE 6584 6597	betablokátory
+T30	PROCEDURE 6647 6667	antikoagulační léčby
+T31	PROCEDURE 6788 6799	kardioverze

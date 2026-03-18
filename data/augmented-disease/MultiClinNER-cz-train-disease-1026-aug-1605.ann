@@ -1,0 +1,74 @@
+T1	DISEASE 91 105	lékové alergie
+T2	DISEASE 124 136	bývalý kuřák
+T3	DISEASE 138 163	diabetes mellitus 2. typu
+T4	DISEASE 165 177	dyslipidemie
+T5	DISEASE 179 217	myelodysplastický syndrom podtypu CRDM
+T6	DISEASE 219 266	refrakterní cytopenie s multilineární dysplazií
+T7	DISEASE 293 319	Ischemická choroba srdeční
+T8	DISEASE 347 392	akutního infarktu myokardu s elevací úseku ST
+T9	DISEASE 394 399	STEMI
+T10	DISEASE 414 435	Inferiorní re-infarkt
+T11	DISEASE 467 475	synkopou
+T12	DISEASE 478 514	lakunární cerebrovaskulární příhodou
+T13	DISEASE 516 519	CVA
+T14	DISEASE 573 609	vícecevní ischemická choroba srdeční
+T15	DISEASE 660 686	závažnou aortální stenózou
+T16	DISEASE 1325 1342	hypertrofie septa
+T17	DISEASE 1579 1612	mírná periprotetická insuficience
+T18	DISEASE 1620 1646	trikuspidální insuficience
+T19	DISEASE 1648 1650	TI
+T20	DISEASE 1713 1734	perikardiální výpotek
+T21	DISEASE 2509 2524	infekční proces
+T22	DISEASE 3080 3099	ascitického nárůstu
+T23	DISEASE 3102 3115	hepatomegalií
+T24	DISEASE 3302 3306	LBBB
+T25	DISEASE 3601 3623	globální kardiomegalie
+T26	DISEASE 3770 3787	pleurální výpotek
+T27	DISEASE 3789 3848	Dorzální spondylóza s kalcifikací předního obratlového vazu
+T28	DISEASE 3893 3947	LK normální velikosti a mírná koncentrická hypertrofie
+T29	DISEASE 4205 4227	biaurikulární dilatace
+T30	DISEASE 4427 4448	mitrální insuficience
+T31	DISEASE 4450 4452	MI
+T32	DISEASE 5138 5146	Mírná TI
+T33	DISEASE 5148 5174	Dilatovaná dolní dutá žíla
+T34	DISEASE 5213 5236	Těžká plicní hypertenze
+T35	DISEASE 5238 5241	PHT
+T36	DISEASE 5250 5252	PE
+T37	DISEASE 5361 5384	perikardiálního výpotku
+T38	DISEASE 5443 5493	středně těžká koncentrická hypertrofie levé komory
+T39	DISEASE 5495 5498	LVH
+T40	DISEASE 5581 5597	infarkt myokardu
+T41	DISEASE 5599 5627	Periprotetický aortální leak
+T42	DISEASE 5646 5655	Těžká PHT
+T43	DISEASE 5703 5709	trombu
+T44	DISEASE 5737 5743	trombu
+T45	DISEASE 6164 6192	aortální periprotetický únik
+T46	DISEASE 6649 6656	abscesy
+T47	DISEASE 6759 6778	periprotetický únik
+T48	DISEASE 6805 6822	Středně těžká LVH
+T49	DISEASE 6898 6909	Závažná PHT
+T50	DISEASE 7043 7070	periprotetických netěsností
+T51	DISEASE 7281 7283	TR
+T52	DISEASE 7376 7378	PI
+T53	DISEASE 7446 7469	perikardiálního výpotku
+T54	DISEASE 7522 7543	Mírná excentrická LVH
+T55	DISEASE 7584 7587	AIo
+T56	DISEASE 7596 7613	Středně těžká PHT
+T57	DISEASE 7961 7974	hepatomegalii
+T58	DISEASE 7988 8014	chronické onemocnění jater
+T59	DISEASE 8017 8030	splenomegalii
+T60	DISEASE 8056 8084	těžkou aortální insuficienci
+T61	DISEASE 8155 8226	periprotetický aortální leak stupně IIIIV/IV s těžkou plicní hypertenzí
+T62	DISEASE 8399 8421	periprotetického úniku
+T63	DISEASE 8457 8488	paravalvulární netěsnosti aorty
+T64	DISEASE 8878 8898	aortální regurgitace
+T65	DISEASE 8918 8937	periprotetický únik
+T66	DISEASE 9068 9083	srdeční selhání
+T67	DISEASE 9138 9168	dekompenzované srdeční selhání
+T68	DISEASE 9185 9203	respirační infekci
+T69	DISEASE 9228 9252	městnavé srdeční selhání
+T70	DISEASE 9254 9297	Periprotetický aortální leak s insuficiencí
+T71	DISEASE 9358 9394	Chronická ischemická choroba srdeční
+T72	DISEASE 9396 9420	Myelodyspastický syndrom
+T73	DISEASE 9422 9428	anémie
+T74	DISEASE 9431 9442	trombopenie

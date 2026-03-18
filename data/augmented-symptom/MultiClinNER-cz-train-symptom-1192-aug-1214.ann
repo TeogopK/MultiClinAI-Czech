@@ -1,0 +1,52 @@
+T1	SYMPTOM 374 388	Asymptomatický
+T2	SYMPTOM 517 529	bušení srdce
+T3	SYMPTOM 542 557	pocitem závratě
+T4	SYMPTOM 578 587	palpitace
+T5	SYMPTOM 753 768	bolest na hrudi
+T6	SYMPTOM 773 780	dušnost
+T7	SYMPTOM 801 808	synkopu
+T8	SYMPTOM 861 883	hemodynamicky stabilní
+T9	SYMPTOM 986 1013	Krční žíly nebyly překrvené
+T10	SYMPTOM 1033 1054	rytmické srdeční ozvy
+T11	SYMPTOM 1059 1066	šelestů
+T12	SYMPTOM 1085 1103	alveolární dýchání
+T13	SYMPTOM 1105 1131	Břicho: měkké, nebolestivé
+T14	SYMPTOM 1137 1143	útvarů
+T15	SYMPTOM 1149 1164	zvětšení orgánů
+T16	SYMPTOM 1166 1192	Dolní končetiny: bez otoků
+T17	SYMPTOM 1236 1267	přítomnými a symetrickými pulzy
+T18	SYMPTOM 1306 1317	tachykardii
+T19	SYMPTOM 1320 1331	širokým QRS
+T20	SYMPTOM 1351 1402	atrioventrikulární disociací a absencí Q vlny v aVR
+T21	SYMPTOM 1605 1649	krevní obraz a koagulace v normálním rozmezí
+T22	SYMPTOM 1651 1698	Renální funkce a ionty v normálních parametrech
+T23	SYMPTOM 1744 1755	tachykardii
+T24	SYMPTOM 1757 1793	pravidelná tachykardie s širokým QRS
+T25	SYMPTOM 1808 1854	atrioventrikulární disociací a absencí Q v aVR
+T26	SYMPTOM 1886 1927	Komorový komplex s vyšší elektrickou osou
+T27	SYMPTOM 2006 2021	sinusový rytmus
+T28	SYMPTOM 2039 2047	Úzké QRS
+T29	SYMPTOM 2099 2164	Negativní vlny T v dolní frontální a laterální prekordiální části
+T30	SYMPTOM 2182 2227	levá komora není dilatovaná ani hypertrofická
+T31	SYMPTOM 2274 2349	bazálním a středním segmentu inferolaterální a laterální licny byla akineze
+T32	SYMPTOM 2351 2424	Pravá komora vykazuje zachovanou systolickou funkci s normální strukturou
+T33	SYMPTOM 2460 2491	normální morfologií u 4 chlopní
+T34	SYMPTOM 2531 2562	Dolní dutá žíla není dilatovaná
+T35	SYMPTOM 2620 2668	koronární strom s normálním rozložením a vývojem
+T36	SYMPTOM 2670 2685	Pravá dominance
+T37	SYMPTOM 2846 2875	Tukové infiltrace levé komory
+T38	SYMPTOM 2878 2911	segmentální poruchy kontraktility
+T39	SYMPTOM 3222 3244	hemodynamicky stabilní
+T40	SYMPTOM 3268 3279	tachykardii
+T41	SYMPTOM 3354 3430	akinezi v bazálním a středním segmentu na inferolaterální a laterální úrovni
+T42	SYMPTOM 3432 3508	Pravá komora si zachovala normální strukturu a zachovanou systolickou funkci
+T43	SYMPTOM 3656 3672	sinusového rytmu
+T44	SYMPTOM 3709 3724	sinusovém rytmu
+T45	SYMPTOM 3761 3775	asymptomatický
+T46	SYMPTOM 3858 3869	tachykardie
+T47	SYMPTOM 3964 3979	sinusovém rytmu
+T48	SYMPTOM 4233 4270	koronární strom s normální distribucí
+T49	SYMPTOM 4357 4371	asymptomatický
+T50	SYMPTOM 4376 4391	sinusovém rytmu
+T51	SYMPTOM 4475 4523	subepikardiální tukovou infiltraci v levé komoře
+T52	SYMPTOM 4721 4757	patogenní mutace pro ACM v genu FLNC

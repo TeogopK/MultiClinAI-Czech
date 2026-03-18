@@ -1,0 +1,33 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 661 673	imunoterapie
+T3	PROCEDURE 954 973	FYZIKÁLNÍ VYŠETŘENÍ
+T4	PROCEDURE 1154 1172	srdeční auskultace
+T5	PROCEDURE 1186 1203	Plicní auskultace
+T6	PROCEDURE 1322 1339	Elektrokardiogram
+T7	PROCEDURE 1341 1344	EKG
+T8	PROCEDURE 1507 1530	PA a boční RTG hrudníku
+T9	PROCEDURE 2115 2144	Transtorakální echokardiogram
+T10	PROCEDURE 2639 2660	MR srdce s kontrastem
+T11	PROCEDURE 3007 3033	Biopsie tricepsového svalu
+T12	PROCEDURE 3120 3131	Technika HE
+T13	PROCEDURE 3202 3218	Imunohistochemie
+T14	PROCEDURE 3394 3397	EKG
+T15	PROCEDURE 3995 4049	Protilátky proti pruhovanému svalu (imunofluorescence)
+T16	PROCEDURE 4172 4187	kortikosteroidů
+T17	PROCEDURE 4220 4241	perorálním diuretikem
+T18	PROCEDURE 4265 4292	telemetrickým monitorováním
+T19	PROCEDURE 4368 4394	markerů poškození myokardu
+T20	PROCEDURE 4507 4522	kortikosteroidů
+T21	PROCEDURE 4524 4555	Transtorakální echokardiografie
+T22	PROCEDURE 4558 4578	magnetická rezonance
+T23	PROCEDURE 4739 4755	t2-stir sekvencí
+T24	PROCEDURE 4900 4924	biopsie tricepsu brachii
+T25	PROCEDURE 5005 5019	koronarografie
+T26	PROCEDURE 5024 5048	endomyokardiální biopsie
+T27	PROCEDURE 5081 5084	EKG
+T28	PROCEDURE 5111 5132	protizánětlivými léky
+T29	PROCEDURE 5161 5177	svalovou biopsií
+T30	PROCEDURE 5188 5204	T2-STIR sekvencí
+T31	PROCEDURE 5278 5290	imunoterapie
+T32	PROCEDURE 5421 5424	EKG
+T33	PROCEDURE 5427 5436	troponiny

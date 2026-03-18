@@ -1,0 +1,51 @@
+T1	PROCEDURE 703 720	Plicní auskultace
+T2	PROCEDURE 836 843	palpaci
+T3	PROCEDURE 1110 1131	reaktanty akutní fáze
+T4	PROCEDURE 1377 1392	auskultace plic
+T5	PROCEDURE 1433 1450	elektrokardiogram
+T6	PROCEDURE 1568 1582	oxygenoterapie
+T7	PROCEDURE 1665 1697	neinvazivní mechanická ventilace
+T8	PROCEDURE 1754 1790	lůžkové echokardiografické vyšetření
+T9	PROCEDURE 2011 2032	protidestičková léčba
+T10	PROCEDURE 2056 2070	koronarografie
+T11	PROCEDURE 2180 2212	PCI s implantací lékového stentu
+T12	PROCEDURE 2465 2505	implantaci intraaortální balónkové pumpy
+T13	PROCEDURE 2619 2631	Krevní testy
+T14	PROCEDURE 2823 2831	Hemogram
+T15	PROCEDURE 2962 2986	Markery nekrózy myokardu
+T16	PROCEDURE 3049 3061	Krevní plyny
+T17	PROCEDURE 3117 3129	RTG hrudníku
+T18	PROCEDURE 3226 3229	EKG
+T19	PROCEDURE 3461 3477	Echokardiografie
+T20	PROCEDURE 3634 3648	koronarografie
+T21	PROCEDURE 3884 3957	Perkutánní koronární intervence s implantací 1 stentu uvolňujícího léčivo
+T22	PROCEDURE 4002 4016	Rentgen břicha
+T23	PROCEDURE 4085 4111	Rentgenový snímek hrudníku
+T24	PROCEDURE 4176 4185	CT břicha
+T25	PROCEDURE 4255 4280	Mikrobiologické vyšetření
+T26	PROCEDURE 4282 4297	Močový sediment
+T27	PROCEDURE 4348 4362	Krevní kultury
+T28	PROCEDURE 4386 4400	Kultivace moči
+T29	PROCEDURE 4413 4431	Tracheální aspirát
+T30	PROCEDURE 4686 4708	orotracheální intubaci
+T31	PROCEDURE 4711 4731	mechanické ventilaci
+T32	PROCEDURE 4737 4763	zaveden Swan-Ganzův katétr
+T33	PROCEDURE 5118 5136	tekutinová terapie
+T34	PROCEDURE 5194 5240	Intraaortální balónková kontrapulzační podpora
+T35	PROCEDURE 5370 5398	zavedena nazogastrická sonda
+T36	PROCEDURE 5473 5490	vazoaktivní léčby
+T37	PROCEDURE 5513 5533	Swan-Ganzova katétru
+T38	PROCEDURE 5553 5569	echokardiografie
+T39	PROCEDURE 5620 5640	torakoabdominální CT
+T40	PROCEDURE 5944 5967	odebrána krevní kultura
+T41	PROCEDURE 5981 6011	empirická antibiotická terapie
+T42	PROCEDURE 6038 6063	Mikrobiologický screening
+T43	PROCEDURE 6075 6093	krevních kulturách
+T44	PROCEDURE 6198 6231	suprainfraumbilikální laparotomie
+T45	PROCEDURE 6289 6312	protidestičkovou léčbou
+T46	PROCEDURE 6409 6444	implantaci stentu do ektatické cévy
+T47	PROCEDURE 6602 6652	jejuno-ilea, a byla provedena resekce a anastomóza
+T48	PROCEDURE 6802 6830	Echokardiografické vyšetření
+T49	PROCEDURE 6970 6991	protidestičkové léčby
+T50	PROCEDURE 7060 7081	neurohormonální léčby
+T51	PROCEDURE 7425 7490	Urgentní perkutánní revaskularizace střední pravé koronární tepny

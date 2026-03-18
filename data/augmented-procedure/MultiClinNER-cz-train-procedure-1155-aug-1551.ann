@@ -1,0 +1,31 @@
+T1	PROCEDURE 222 241	chirurgické zákroky
+T2	PROCEDURE 811 830	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 1148 1175	Kardiopulmonální auskultace
+T4	PROCEDURE 1497 1500	EKG
+T5	PROCEDURE 1621 1624	EKG
+T6	PROCEDURE 1634 1655	laboratorní vyšetření
+T7	PROCEDURE 1657 1669	Krevní obraz
+T8	PROCEDURE 1878 1887	Hemostáza
+T9	PROCEDURE 1962 1971	Biochemie
+T10	PROCEDURE 2089 2118	Biomarkery poškození myokardu
+T11	PROCEDURE 2158 2172	echokardiogram
+T12	PROCEDURE 2174 2177	TTE
+T13	PROCEDURE 2584 2598	Angio-CT aorty
+T14	PROCEDURE 3416 3419	EKG
+T15	PROCEDURE 3489 3492	TTE
+T16	PROCEDURE 3609 3627	angio-CT vyšetření
+T17	PROCEDURE 3859 3866	operace
+T18	PROCEDURE 3867 3905	mechanickou Bono-Bentallovou technikou
+T19	PROCEDURE 3939 3963	náhrady aortální chlopně
+T20	PROCEDURE 3965 4003	náhrady kořene aorty a vzestupné aorty
+T21	PROCEDURE 4013 4042	reimplantace koronárního ústí
+T22	PROCEDURE 4057 4074	operačního výkonu
+T23	PROCEDURE 4080 4097	mimotělního oběhu
+T24	PROCEDURE 4099 4130	elektromechanické zástavy srdce
+T25	PROCEDURE 4133 4185	zástavy oběhu se selektivní bikronární perfuzí mozku
+T26	PROCEDURE 4265 4322	odstranění hlavní trhliny a obnovení průtoku pravým lumen
+T27	PROCEDURE 4464 4482	Bentallově operaci
+T28	PROCEDURE 4490 4498	extubací
+T29	PROCEDURE 4684 4695	radiografie
+T30	PROCEDURE 4818 4845	vysokoprůtokové nosní brýle
+T31	PROCEDURE 5164 5222	Emergentní operace s metalickým Bono-Bentallovým nástrojem

@@ -1,0 +1,15 @@
+T1	PROCEDURE 220 233	hysterektomie
+T2	PROCEDURE 236 261	oboustrannou adnexektomií
+T3	PROCEDURE 264 287	pánevní lymfadenektomií
+T4	PROCEDURE 317 330	brachyterapií
+T5	PROCEDURE 682 696	vyšetření krve
+T6	PROCEDURE 826 837	krevní test
+T7	PROCEDURE 951 971	fyzikálním vyšetření
+T8	PROCEDURE 973 988	rentgenu břicha
+T9	PROCEDURE 991 1009	elektrokardiogramu
+T10	PROCEDURE 1073 1084	rehydratací
+T11	PROCEDURE 1439 1457	nádorovými markery
+T12	PROCEDURE 1529 1544	vyšetření kostí
+T13	PROCEDURE 1568 1588	CT hrudníku a břicha
+T14	PROCEDURE 1725 1771	transvaginální biopsie útvaru Douglasova váčku
+T15	PROCEDURE 1866 1881	paliativní péče

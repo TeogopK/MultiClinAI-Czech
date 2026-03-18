@@ -1,0 +1,23 @@
+T1	PROCEDURE 88 107	chirurgické zákroky
+T2	PROCEDURE 109 125	cholecystektomii
+T3	PROCEDURE 127 140	tonzilektomii
+T4	PROCEDURE 143 168	oboustrannou adnexektomii
+T5	PROCEDURE 351 367	horní endoskopie
+T6	PROCEDURE 427 453	inhibitory protonové pumpy
+T7	PROCEDURE 625 635	endoskopie
+T8	PROCEDURE 659 711	léze ve střední třetině jícnu, která byla bioptována
+T9	PROCEDURE 1021 1030	vyšetření
+T10	PROCEDURE 1129 1156	kardiopulmonální auskultace
+T11	PROCEDURE 1259 1276	Laboratorní testy
+T12	PROCEDURE 1322 1355	ezofagogastroduodenální vyšetření
+T13	PROCEDURE 1530 1560	CT vyšetření hrudníku a břicha
+T14	PROCEDURE 1929 1947	Fibrobronchoskopie
+T15	PROCEDURE 1997 2027	transtorakální punkční aspirát
+T16	PROCEDURE 2119 2133	Echoendoskopie
+T17	PROCEDURE 2254 2271	průchod endoskopu
+T18	PROCEDURE 2432 2439	biopsie
+T19	PROCEDURE 2497 2505	CT lebky
+T20	PROCEDURE 2524 2541	patologický nález
+T21	PROCEDURE 2582 2600	chirurgický zákrok
+T22	PROCEDURE 2651 2663	chemoterapie
+T23	PROCEDURE 2745 2763	CDDP plus etoposid

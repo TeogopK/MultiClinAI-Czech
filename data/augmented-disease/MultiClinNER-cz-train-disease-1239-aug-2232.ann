@@ -1,0 +1,31 @@
+T1	DISEASE 66 87	arteriální hypertenzi
+T2	DISEASE 89 106	diabetes II. typu
+T3	DISEASE 139 151	dyslipidémii
+T4	DISEASE 171 242	ischemickou dilatační kardiomyopatii s velmi těžkou komorovou dysfunkcí
+T5	DISEASE 255 301	sekundárně koronární onemocnění kmene a 3 cévy
+T6	DISEASE 446 459	běžný flutter
+T7	DISEASE 484 505	trvalá fibrilace síní
+T8	DISEASE 521 552	středně těžkou aortální stenózu
+T9	DISEASE 708 773	hypertyreóza v důsledku tyreoiditidy 2. typu vyvolané amiodaronem
+T10	DISEASE 811 847	trombotické ani embolické komplikace
+T11	DISEASE 936 946	hypertenzi
+T12	DISEASE 1048 1066	onemocněním ledvin
+T13	DISEASE 1803 1816	hepatomegalie
+T14	DISEASE 2286 2335	fibrilace síní s kontrolovanou komorovou odpovědí
+T15	DISEASE 2450 2467	pleurální výpotek
+T16	DISEASE 3405 3432	intraventrikulárním trombem
+T17	DISEASE 3553 3585	trombus v LVOT nebo kořeni aorty
+T18	DISEASE 3613 3619	trombu
+T19	DISEASE 3647 3683	Sklerokalcifikovaná aortální chlopeň
+T20	DISEASE 4149 4170	perikardiální výpotek
+T21	DISEASE 5561 5584	intrakavitárních trombů
+T22	DISEASE 5734 5748	nádorovou lézi
+T23	DISEASE 5753 5773	infekční konsolidaci
+T24	DISEASE 5777 5826	pasivní atelektázou levé plíce v důsledku výpotku
+T25	DISEASE 5855 5863	trombóze
+T26	DISEASE 5931 5964	vysokého výdeje srdečního selhání
+T27	DISEASE 6578 6630	Srdeční selhání v důsledku vysokého srdečního výdeje
+T28	DISEASE 6632 6660	Sekundární pleurální výpotek
+T29	DISEASE 6723 6747	Těžká komorová dysfunkce
+T30	DISEASE 6792 6827	Ischemická dilatační kardiomyopatie
+T31	DISEASE 6829 6857	Onemocnění 3 koronárních cév

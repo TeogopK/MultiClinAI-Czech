@@ -1,0 +1,35 @@
+T1	PROCEDURE 848 868	lokálními kortikoidy
+T2	PROCEDURE 928 937	vyšetření
+T3	PROCEDURE 943 970	kardiopulmonální auskultace
+T4	PROCEDURE 1152 1181	inhalačními bronchodilatancii
+T5	PROCEDURE 1184 1194	analgetiky
+T6	PROCEDURE 1298 1315	bronchodilatancií
+T7	PROCEDURE 1388 1407	bronchodilatanciích
+T8	PROCEDURE 1572 1600	kardiopulmonálním vyšetřením
+T9	PROCEDURE 1622 1633	spirometrie
+T10	PROCEDURE 1636 1652	rentgen hrudníku
+T11	PROCEDURE 1654 1665	Spirometrie
+T12	PROCEDURE 1720 1746	rentgenový snímek hrudníku
+T13	PROCEDURE 1838 1865	rentgenovém snímku hrudníku
+T14	PROCEDURE 1903 1956	vyšetření počítačovou tomografií s vysokým rozlišením
+T15	PROCEDURE 1958 1962	HRCT
+T16	PROCEDURE 2035 2052	difuzní testy CO2
+T17	PROCEDURE 2055 2079	plicní průtokovou křivku
+T18	PROCEDURE 2082 2094	CT vyšetření
+T19	PROCEDURE 2271 2288	Difuzní testy CO2
+T20	PROCEDURE 2291 2314	křivka plicního průtoku
+T21	PROCEDURE 2344 2366	kompletní krevní testy
+T22	PROCEDURE 2407 2421	radiologickému
+T23	PROCEDURE 2442 2444	CT
+T24	PROCEDURE 2566 2580	plicní biopsií
+T25	PROCEDURE 2608 2621	bronchoskopie
+T26	PROCEDURE 2650 2661	kryobiopsie
+T27	PROCEDURE 2663 2729	Kryobioptická sonda se pomocí fluoroskopie umístí 1-2 cm od pleury
+T28	PROCEDURE 2740 2749	kryosonda
+T29	PROCEDURE 2810 2828	kryoterapeutickému
+T30	PROCEDURE 3005 3029	transbronchiální biopsie
+T31	PROCEDURE 3033 3059	sonda zavádí bronchoskopem
+T32	PROCEDURE 3082 3096	aplikuje chlad
+T33	PROCEDURE 3121 3136	technice svorek
+T34	PROCEDURE 3171 3186	je nutná sedace
+T35	PROCEDURE 3421 3437	Imunohistochemie

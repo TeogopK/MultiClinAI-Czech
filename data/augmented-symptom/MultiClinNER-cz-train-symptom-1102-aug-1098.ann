@@ -1,0 +1,36 @@
+T1	SYMPTOM 601 615	Asymptomatický
+T2	SYMPTOM 669 702	středně těžkou námahovou dušností
+T3	SYMPTOM 770 777	dušnost
+T4	SYMPTOM 792 800	ortopnoí
+T5	SYMPTOM 803 816	nočním kašlem
+T6	SYMPTOM 842 865	zvýšeného obvodu břicha
+T7	SYMPTOM 867 881	otoky končetin
+T8	SYMPTOM 886 902	sníženou diurézu
+T9	SYMPTOM 927 936	palpitace
+T10	SYMPTOM 941 958	infekční příznaky
+T11	SYMPTOM 1001 1039	noční parestezie obou horních končetin
+T12	SYMPTOM 1160 1169	Afebrilní
+T13	SYMPTOM 1248 1271	pravidelné srdeční ozvy
+T14	SYMPTOM 1273 1329	diastolický šelest nad aortálním a mitrálním ústím II/IV
+T15	SYMPTOM 1350 1367	globální oslabení
+T16	SYMPTOM 1371 1397	pískoty v levém hemitoraxu
+T17	SYMPTOM 1400 1437	bez alveolárního dýchaní v pravé base
+T18	SYMPTOM 1447 1474	jizva v pravém hypochondriu
+T19	SYMPTOM 1557 1583	periferní pulzace přítomné
+T20	SYMPTOM 1585 1627	otoky s bilaterálními důlkama až po koleno
+T21	SYMPTOM 1672 1687	sinusový rytmus
+T22	SYMPTOM 1712 1720	Úzké QRS
+T23	SYMPTOM 1742 1779	přítomnost QS na dolní steně myokardu
+T24	SYMPTOM 1795 1831	Kardiotorakální index (KTI) hraniční
+T25	SYMPTOM 2468 2496	hormony štítné žlázy v normě
+T26	SYMPTOM 2625 2660	Vyšetření bílkovin v moči: normální
+T27	SYMPTOM 2781 2831	segmentálními abnormalitami apikální kontraktility
+T28	SYMPTOM 2894 2939	Pravá komora (PK) normální velikosti a funkce
+T29	SYMPTOM 3118 3173	Magnetická rezonance srdce (CMR): LK normální velikosti
+T30	SYMPTOM 3185 3204	ztluštěním myokardu
+T31	SYMPTOM 3449 3470	RV normální velikosti
+T32	SYMPTOM 3804 3822	Normální pravá síň
+T33	SYMPTOM 5388 5411	neurologickým příznakům
+T34	SYMPTOM 5716 5724	dušnosti
+T35	SYMPTOM 5789 5807	LVEF byla normální
+T36	SYMPTOM 6208 6226	Mírně snížená LVEF

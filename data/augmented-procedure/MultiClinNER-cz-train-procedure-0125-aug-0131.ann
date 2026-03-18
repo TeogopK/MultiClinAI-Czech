@@ -1,0 +1,17 @@
+T1	PROCEDURE 65 85	antikoagulační léčbě
+T2	PROCEDURE 215 232	Terapeutická ERCP
+T3	PROCEDURE 250 267	sedaci při vědomí
+T4	PROCEDURE 352 357	výkon
+T5	PROCEDURE 438 525	vyšetření břicha počítačovou axiální tomografií (CAT) s přímým intravenózním kontrastem
+T6	PROCEDURE 487 490	CAT
+T7	PROCEDURE 872 892	urgentní laparotomie
+T8	PROCEDURE 895 925	evakuací 2000 ml hemoperitonea
+T9	PROCEDURE 993 995	CT
+T10	PROCEDURE 1012 1024	splenektomie
+T11	PROCEDURE 1026 1042	cholecystektomie
+T12	PROCEDURE 1044 1057	duodenostomie
+T13	PROCEDURE 1060 1083	extrakce biliární formy
+T14	PROCEDURE 1096 1119	zavedením Kherovy sondy
+T15	PROCEDURE 1300 1312	relaprotomie
+T16	PROCEDURE 1445 1465	patologické anatomie
+T17	PROCEDURE 1476 1488	splenektomie

@@ -1,0 +1,21 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 226 241	Genetické testy
+T3	PROCEDURE 526 529	EKG
+T4	PROCEDURE 681 693	RTG hrudníku
+T5	PROCEDURE 752 766	Echokardiogram
+T6	PROCEDURE 1052 1078	Magnetická rezonance srdce
+T7	PROCEDURE 1080 1083	MRI
+T8	PROCEDURE 1251 1261	Ergometrie
+T9	PROCEDURE 1506 1520	implantaci ICD
+T10	PROCEDURE 1705 1724	Fyzikální vyšetření
+T11	PROCEDURE 1778 1795	plicní auskultaci
+T12	PROCEDURE 1892 1909	Elektrokardiogram
+T13	PROCEDURE 1956 1970	echokardiogram
+T14	PROCEDURE 2260 2275	ergospirometrie
+T15	PROCEDURE 2364 2389	katetrizace pravého srdce
+T16	PROCEDURE 2589 2610	neurohormonální léčbě
+T17	PROCEDURE 2726 2749	perorální antikoagulace
+T18	PROCEDURE 3134 3153	transplantaci srdce
+T19	PROCEDURE 3166 3194	předtransplantační vyšetření
+T20	PROCEDURE 3256 3269	transplantaci
+T21	PROCEDURE 3542 3561	transplantaci srdce

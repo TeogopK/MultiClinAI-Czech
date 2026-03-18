@@ -1,0 +1,19 @@
+T1	PROCEDURE 33 41	anamnézy
+T2	PROCEDURE 228 247	Fyzikální vyšetření
+T3	PROCEDURE 273 280	palpaci
+T4	PROCEDURE 558 567	vyšetření
+T5	PROCEDURE 583 600	Laboratorní testy
+T6	PROCEDURE 682 691	Hemostáza
+T7	PROCEDURE 694 703	biochemie
+T8	PROCEDURE 721 744	imunologickém vyšetření
+T9	PROCEDURE 750 768	revmatoidní faktor
+T10	PROCEDURE 770 794	antinukleární protilátky
+T11	PROCEDURE 796 804	anti-DNA
+T12	PROCEDURE 817 831	imunoglobuliny
+T13	PROCEDURE 834 844	komplement
+T14	PROCEDURE 868 896	sérologie na viry a bakterie
+T15	PROCEDURE 898 909	hemokultury
+T16	PROCEDURE 970 990	antibiotické terapie
+T17	PROCEDURE 1034 1060	Rentgenový snímek hrudníku
+T18	PROCEDURE 1110 1126	echokardiografie
+T19	PROCEDURE 1274 1301	intravenózní antibioterapii

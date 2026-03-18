@@ -1,0 +1,38 @@
+T1	PROCEDURE 138 160	Intravenózní urografie
+T2	PROCEDURE 163 181	močová cystografie
+T3	PROCEDURE 915 946	Laparoskopická cholecystektomie
+T4	PROCEDURE 964 977	císařské řezy
+T5	PROCEDURE 1002 1023	antihypertenzní léčby
+T6	PROCEDURE 1129 1148	Fyzikální vyšetření
+T7	PROCEDURE 1198 1246	Vyšetření hlavy, krku a srdečně-plicního systému
+T8	PROCEDURE 1355 1400	Vyšetření pánve v dorzální litotomické poloze
+T9	PROCEDURE 1699 1791	Magnetická rezonance (MRI) pánve byla provedena v axiální T1, axiální T2, tukové T2 sekvenci
+T10	PROCEDURE 1721 1724	MRI
+T11	PROCEDURE 2307 2335	Flexibilní cystouretroskopie
+T12	PROCEDURE 2338 2347	anestezii
+T13	PROCEDURE 2478 2520	cystouretroskopii s optikou 12 a 70 stupňů
+T14	PROCEDURE 2767 2778	Cystoskopie
+T15	PROCEDURE 3031 3059	uretrální divertikullektomie
+T16	PROCEDURE 3205 3226	rekonstrukční operace
+T17	PROCEDURE 3235 3252	Celková anestezie
+T18	PROCEDURE 3254 3272	Litotomická poloha
+T19	PROCEDURE 3274 3321	Sterilizace a příprava zevního genitálního pole
+T20	PROCEDURE 3341 3426	Hedvábné fixační stehy v oblasti malých stydkých pysků k obnažení přední stěny pochvy
+T21	PROCEDURE 3428 3480	Antegrádní zavedení suprapubické cystostomické sondy
+T22	PROCEDURE 3592 3607	gravitační drén
+T23	PROCEDURE 3625 3688	Zavedení 16 Fr Foleyova uretrálního katétru do močového měchýře
+T24	PROCEDURE 3705 3716	cystoskopie
+T25	PROCEDURE 3752 3858	Přední stěna pochvy byla infiltrována celkem 15 ml fyziologického roztoku s obsahem lidokainu a adrenalinu
+T26	PROCEDURE 3873 3944	řez ve tvaru obráceného U a byl vypreparován lalok přední poševní stěny
+T27	PROCEDURE 3990 4042	V periuretrální fascii byl proveden horizontální řez
+T28	PROCEDURE 4058 4133	vypreparována rovina mezi divertiklem močové trubice a periuretrální fascií
+T29	PROCEDURE 4207 4262	Divertikl byl vypreparován až do úrovně vlastního hrdla
+T30	PROCEDURE 4264 4294	Krček divertiklu byl rozříznut
+T31	PROCEDURE 4393 4495	Okraje močové trubice byly sblíženy kontinuálním sešitím sliznice močové trubice přípravkem 3-0 Vycril
+T32	PROCEDURE 4524 4580	periuretrální fascie reaproximována volnými stehy Vicryl
+T33	PROCEDURE 4745 4799	poševní řez byl uzavřen kontinuálním stehem 2-0 Vicryl
+T34	PROCEDURE 4801 4847	Foleyův uretrální katétr byl ponechán na místě
+T35	PROCEDURE 4850 4912	suprapubická cystotomie byla ponechána s drenáží pod gravitací
+T36	PROCEDURE 4938 4956	disekce divertiklu
+T37	PROCEDURE 5026 5074	disekce po celé délce divertiklu až k jeho hrdlu
+T38	PROCEDURE 5076 5087	Patologická

@@ -1,0 +1,24 @@
+T1	PROCEDURE 324 345	protizánětlivých léků
+T2	PROCEDURE 434 456	orotracheální intubace
+T3	PROCEDURE 552 606	jednoduché vyšetření počítačovou tomografií (CT) lebky
+T4	PROCEDURE 597 599	CT
+T5	PROCEDURE 758 775	evakuaci hematomu
+T6	PROCEDURE 778 811	zavedení zevního komorového drénu
+T7	PROCEDURE 816 823	operaci
+T8	PROCEDURE 891 905	CT angiografii
+T9	PROCEDURE 908 930	mozkovou arteriografii
+T10	PROCEDURE 1064 1070	sedace
+T11	PROCEDURE 1143 1165	neurologické vyšetření
+T12	PROCEDURE 1453 1463	extubována
+T13	PROCEDURE 1647 1655	intubaci
+T14	PROCEDURE 1658 1660	MV
+T15	PROCEDURE 1743 1785	magnetická rezonance (MRI) mozkového kmene
+T16	PROCEDURE 1765 1768	MRI
+T17	PROCEDURE 1828 1861	evakuací hematomu pravého mozečku
+T18	PROCEDURE 1940 1952	CT vyšetření
+T19	PROCEDURE 1982 2006	perkutánní tracheostomii
+T20	PROCEDURE 2011 2042	invazivní mechanickou ventilaci
+T21	PROCEDURE 2044 2047	IMV
+T22	PROCEDURE 2138 2159	tracheostomii uzavřít
+T23	PROCEDURE 2177 2240	neinvazivní mechanické ventilaci (NIV) pomocí nazobukální masky
+T24	PROCEDURE 2211 2214	NIV

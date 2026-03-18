@@ -1,0 +1,28 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 270 281	vitrektomii
+T3	PROCEDURE 542 570	Echokardiografické vyšetření
+T4	PROCEDURE 572 575	TTE
+T5	PROCEDURE 1122 1131	NT-proBNP
+T6	PROCEDURE 1155 1158	TTE
+T7	PROCEDURE 1846 1861	vaginální porod
+T8	PROCEDURE 2031 2043	císařský řez
+T9	PROCEDURE 2126 2140	císařském řezu
+T10	PROCEDURE 2332 2351	Fyzikální vyšetření
+T11	PROCEDURE 2507 2537	oxygenoterapii nosními brýlemi
+T12	PROCEDURE 2593 2609	Auskultace srdce
+T13	PROCEDURE 2659 2676	Plicní auskultace
+T14	PROCEDURE 2986 3003	Elektrokardiogram
+T15	PROCEDURE 3005 3008	EKG
+T16	PROCEDURE 3097 3113	Echokardiografie
+T17	PROCEDURE 3905 3926	počítačové tomografii
+T18	PROCEDURE 3928 3930	CT
+T19	PROCEDURE 4278 4290	CT vyšetření
+T20	PROCEDURE 4376 4390	oxygenoterapií
+T21	PROCEDURE 4473 4484	resuscitaci
+T22	PROCEDURE 4538 4556	diuretickou léčbou
+T23	PROCEDURE 4727 4769	oxygenoterapie s vysokoprůtokovými brýlemi
+T24	PROCEDURE 4744 4805	vysokoprůtokovými brýlemi (HFG) na NG a později její vysazení
+T25	PROCEDURE 4902 4913	resuscitaci
+T26	PROCEDURE 5363 5372	diuretika
+T27	PROCEDURE 5421 5449	echokardiografické vyšetření
+T28	PROCEDURE 5770 5800	echokardiografickým sledováním

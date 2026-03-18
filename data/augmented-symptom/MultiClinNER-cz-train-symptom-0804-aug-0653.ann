@@ -1,0 +1,37 @@
+T1	SYMPTOM 604 651	levá komora normální velikosti a tloušťky stěny
+T2	SYMPTOM 653 696	Ejekční frakce levé komory (LVEF) zachována
+T3	SYMPTOM 699 739	akinézou bazálního segmentu dolní komory
+T4	SYMPTOM 758 785	Levá síň normální velikosti
+T5	SYMPTOM 787 818	Pravá komora normální velikosti
+T6	SYMPTOM 820 863	Normální ejekční frakce pravé komory (RVEF)
+T7	SYMPTOM 865 925	Trikuspidální aortální chlopeň anatomicky i funkčně normální
+T8	SYMPTOM 1062 1102	normálního systolického tlaku v plicnici
+T9	SYMPTOM 1104 1138	Dolní dutá žíla normální velikosti
+T10	SYMPTOM 1210 1225	sinusový rytmus
+T11	SYMPTOM 1249 1260	Normální PR
+T12	SYMPTOM 1262 1270	Úzké QRS
+T13	SYMPTOM 1272 1284	Normální osa
+T14	SYMPTOM 1286 1305	Q vlna ve svodu III
+T15	SYMPTOM 1307 1339	Negativní vlny T ve svodech V4-6
+T16	SYMPTOM 1426 1434	myalgiím
+T17	SYMPTOM 1437 1444	astenii
+T18	SYMPTOM 1446 1460	bez elevace CK
+T19	SYMPTOM 1518 1542	Změněná glykémie nalačno
+T20	SYMPTOM 1822 1860	z kardiovaskulárního hlediska stabilní
+T21	SYMPTOM 1967 2004	mírně zvýšenou hladinu glukózy v krvi
+T22	SYMPTOM 2110 2117	astenie
+T23	SYMPTOM 2120 2127	myalgie
+T24	SYMPTOM 2253 2277	akce srdeční: pravidelná
+T25	SYMPTOM 2279 2290	bez šelestu
+T26	SYMPTOM 2292 2319	Plicní auskultace: normální
+T27	SYMPTOM 2325 2354	vedlejších dechových fenoménů
+T28	SYMPTOM 2362 2376	periferní edém
+T29	SYMPTOM 2625 2640	sinusový rytmus
+T30	SYMPTOM 2670 2678	Úzké QRS
+T31	SYMPTOM 2680 2693	Q vlna ve III
+T32	SYMPTOM 2695 2719	Negativní vlny T ve V4-6
+T33	SYMPTOM 2756 2801	RTG hrudníku: normální kardiothorakální index
+T34	SYMPTOM 2803 2827	kostofrenické úhly volné
+T35	SYMPTOM 2842 2852	infiltrátů
+T36	SYMPTOM 2858 2876	známek konsolidace
+T37	SYMPTOM 3163 3175	Hraniční BMI

@@ -1,0 +1,50 @@
+T1	DISEASE 177 194	diabetes mellitus
+T2	DISEASE 230 250	srdečního onemocnění
+T3	DISEASE 252 267	srdeční selhání
+T4	DISEASE 273 283	náhlá smrt
+T5	DISEASE 652 678	anginu pectoris při námaze
+T6	DISEASE 1002 1015	hepatomegalií
+T7	DISEASE 1116 1136	sinusová tachykardie
+T8	DISEASE 1171 1176	BRDHH
+T9	DISEASE 1179 1185	HBAIHH
+T10	DISEASE 1249 1271	přetížení pravé komory
+T11	DISEASE 1477 1482	BRDHH
+T12	DISEASE 1485 1491	HBAIHH
+T13	DISEASE 2070 2083	kardiomegalie
+T14	DISEASE 2365 2372	infekce
+T15	DISEASE 2566 2593	endomyokardiální fibróza LK
+T16	DISEASE 2696 2709	Dilatovaná RV
+T17	DISEASE 2789 2827	dilatace levé síně a mírná dilatace PS
+T18	DISEASE 2835 2845	funkční MR
+T19	DISEASE 2847 2863	Těžká funkční TR
+T20	DISEASE 2865 2888	Těžká plicní hypertenze
+T21	DISEASE 2909 2947	retroaurikulární perikardiální výpotek
+T22	DISEASE 3115 3129	chronickou PTE
+T23	DISEASE 3131 3165	Kardiomegalie se známkami pravé VF
+T24	DISEASE 3167 3220	Ateromatóza v aortálním oblouku a koronárních tepnách
+T25	DISEASE 3329 3356	koronární onemocnění 1 cévy
+T26	DISEASE 3358 3403	Přední descendentní s kritickou ostiální lézí
+T27	DISEASE 3619 3634	srdeční selhání
+T28	DISEASE 3679 3681	CF
+T29	DISEASE 3695 3722	restriktivní kardiomyopatie
+T30	DISEASE 3738 3801	endomyokardiální fibrózou LK, s těžkou systolickou dysfunkcí LK
+T31	DISEASE 3847 3874	dilatovanou a dysfunkční PK
+T32	DISEASE 3932 3949	plicní hypertenzi
+T33	DISEASE 4170 4183	chronické PTE
+T34	DISEASE 4218 4242	endomyokardiální fibrózy
+T35	DISEASE 4253 4283	endomyokardiálních kalcifikací
+T36	DISEASE 4297 4318	koronární ateromatózy
+T37	DISEASE 4345 4413	koronární onemocnění přední sestupné tepny s kritickou ostiální lézí
+T38	DISEASE 4505 4512	infekce
+T39	DISEASE 4543 4567	endomyokardiální fibrózy
+T40	DISEASE 4620 4635	anginy pectoris
+T41	DISEASE 4637 4687	dysfunkci LK sekundární k endomyokardiální fibróze
+T42	DISEASE 5196 5211	srdeční selhání
+T43	DISEASE 5226 5292	restriktivní kardiomyopatií v důsledku endomyokardiální fibrózy LK
+T44	DISEASE 5302 5319	plicní hypertenze
+T45	DISEASE 5321 5351	Chronická plicní tromboembolie
+T46	DISEASE 5353 5393	Těžká funkční trikuspidální insuficience
+T47	DISEASE 5395 5421	Ischemická choroba srdeční
+T48	DISEASE 5423 5453	Koronární onemocnění s 1 cévou
+T49	DISEASE 5468 5483	anginy pectoris
+T50	DISEASE 5485 5510	Diabetes mellitus 2. typu

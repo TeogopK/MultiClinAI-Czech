@@ -1,0 +1,34 @@
+T1	DISEASE 204 225	arteriální hypertenzi
+T2	DISEASE 227 244	diabetes mellitus
+T3	DISEASE 279 291	dyslipidémii
+T4	DISEASE 293 319	permanentní fibrilaci síní
+T5	DISEASE 412 457	revmatické stenózy s těžkou plicní hypertenzí
+T6	DISEASE 518 541	nefrologickou patologii
+T7	DISEASE 710 740	dekompenzace srdečního selhání
+T8	DISEASE 879 907	kalcifikaci aortální chlopně
+T9	DISEASE 910 939	těžkou dysfunkci pravé komory
+T10	DISEASE 1036 1056	periferní flebitidou
+T11	DISEASE 1306 1328	infekční endokarditidy
+T12	DISEASE 1560 1653	infekční endokarditidy způsobené S. aureus citlivým na meticilin (SAMS) na protetické chlopni
+T13	DISEASE 1868 1892	multiorgánovou dysfunkcí
+T14	DISEASE 1910 1927	srdeční tamponádu
+T15	DISEASE 1987 2010	hemodynamického selhání
+T16	DISEASE 2023 2028	sepse
+T17	DISEASE 2075 2125	akutnímu oligoanurickému zhoršení renálních funkcí
+T18	DISEASE 2701 2751	krvácení z horní části gastrointestinálního traktu
+T19	DISEASE 2830 2845	žaludeční eroze
+T20	DISEASE 2898 2974	nepuritické vyvýšené petechie na trupu, končetinách, v záhybech a na svazích
+T21	DISEASE 3373 3405	leukocytoklastickou vaskulitidou
+T22	DISEASE 3501 3507	anémie
+T23	DISEASE 3728 3752	makroskopickou hematurií
+T24	DISEASE 3882 3897	plicní krvácení
+T25	DISEASE 4052 4071	alveolární krvácení
+T26	DISEASE 4262 4303	nefritického syndromu s plicním krvácením
+T27	DISEASE 4667 4692	renopulmonálnímu syndromu
+T28	DISEASE 5365 5412	akutní glomerulonefritidu související s infekcí
+T29	DISEASE 5664 5720	IgA dominantní glomerulonefritidou související s infekcí
+T30	DISEASE 5795 5825	Henochovu-Schönleinovu purpuru
+T31	DISEASE 5958 5991	IgA-dominantní glomerulonefritidě
+T32	DISEASE 6006 6045	infekční endokarditidou způsobenou SAMS
+T33	DISEASE 6056 6083	Schönlein-Henochovy purpury
+T34	DISEASE 6182 6203	alveolárním krvácením

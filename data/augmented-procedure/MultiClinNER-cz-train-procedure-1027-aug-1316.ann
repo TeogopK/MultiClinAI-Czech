@@ -1,0 +1,51 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 426 442	vyšetření anémie
+T3	PROCEDURE 475 510	laparoskopickou rektosigmoidektomií
+T4	PROCEDURE 559 612	chemoterapeutické léčbě oxaliplatinou a kapecitabinem
+T5	PROCEDURE 820 853	biopsií paratracheální adenopatie
+T6	PROCEDURE 1136 1174	rozšířená kardiopulmonální resuscitace
+T7	PROCEDURE 1176 1179	KPR
+T8	PROCEDURE 1248 1254	šocích
+T9	PROCEDURE 1345 1367	orotracheální intubace
+T10	PROCEDURE 1369 1372	OTI
+T11	PROCEDURE 1376 1396	mechanické ventilace
+T12	PROCEDURE 1724 1743	Fyzikální vyšetření
+T13	PROCEDURE 1750 1759	vyšetření
+T14	PROCEDURE 1860 1868	sedovaný
+T15	PROCEDURE 1870 1880	relaxovaný
+T16	PROCEDURE 1886 1904	invazivní ventilac
+T17	PROCEDURE 1908 1911	OTI
+T18	PROCEDURE 2006 2009	OTI
+T19	PROCEDURE 2234 2249	laparoskopickou
+T20	PROCEDURE 2331 2338	palpaci
+T21	PROCEDURE 2455 2472	Laboratorní testy
+T22	PROCEDURE 2474 2483	Biochemie
+T23	PROCEDURE 2952 2964	Krevní obraz
+T24	PROCEDURE 3173 3182	Koagulace
+T25	PROCEDURE 3298 3311	Toxiny v moči
+T26	PROCEDURE 3465 3480	močový sediment
+T27	PROCEDURE 3492 3520	Třísvodový elektrokardiogram
+T28	PROCEDURE 3522 3525	EKG
+T29	PROCEDURE 3583 3602	Dvanáctisvodové EKG
+T30	PROCEDURE 3922 3948	Rentgenový snímek hrudníku
+T31	PROCEDURE 4218 4247	Transtorakální echokardiogram
+T32	PROCEDURE 4773 4816	Výpočetní tomografie (CT) koronárních tepen
+T33	PROCEDURE 4880 4906	Magnetická rezonance srdce
+T34	PROCEDURE 4908 4911	CMR
+T35	PROCEDURE 5142 5155	sekvenci STIR
+T36	PROCEDURE 5627 5676	Pozitronová emisní tomografie s 18F-deoxyglukózou
+T37	PROCEDURE 5678 5681	PET
+T38	PROCEDURE 6171 6181	intubovaný
+T39	PROCEDURE 6247 6256	extubován
+T40	PROCEDURE 6426 6436	telemetrii
+T41	PROCEDURE 6776 6788	chemoterapií
+T42	PROCEDURE 6801 6830	echokardiografickém vyšetření
+T43	PROCEDURE 6832 6852	CT koronárních tepen
+T44	PROCEDURE 6865 6868	CMR
+T45	PROCEDURE 7032 7039	biopsie
+T46	PROCEDURE 7176 7179	CMR
+T47	PROCEDURE 7211 7231	protizánětlivé léčbě
+T48	PROCEDURE 7276 7282	PET-CT
+T49	PROCEDURE 7438 7458	protizánětlivá léčba
+T50	PROCEDURE 7475 7541	implantován podkožní implantabilní kardioverter-defibrilátor (ICD)
+T51	PROCEDURE 7926 7951	Subkutánní implantace ICD

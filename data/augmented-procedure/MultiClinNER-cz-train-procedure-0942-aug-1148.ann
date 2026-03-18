@@ -1,0 +1,26 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 703 717	antikoagulován
+T3	PROCEDURE 975 989	koronarografie
+T4	PROCEDURE 1232 1265	Transtorakální echokardiografické
+T5	PROCEDURE 1431 1465	koronární revaskularizační operace
+T6	PROCEDURE 1496 1641	implantací čtyř cévních štěpů (mamární tepny do distální LAD, podkožní žíly ve tvaru "Y" do bisectoru a OM1 a podkožní žíly do středodistální DC)
+T7	PROCEDURE 2075 2108	neinvazivní mechanickou ventilací
+T8	PROCEDURE 2110 2114	NIMV
+T9	PROCEDURE 2118 2139	intravenózní medikací
+T10	PROCEDURE 2165 2182	inotropní podporu
+T11	PROCEDURE 2255 2272	Elektrokardiogram
+T12	PROCEDURE 2481 2495	koronarografie
+T13	PROCEDURE 2551 2577	magnetická rezonance srdce
+T14	PROCEDURE 2831 2912	implantaci podkožního jednokomorového implantabilního kardioverteru defibrilátoru
+T15	PROCEDURE 3074 3092	lipidového profilu
+T16	PROCEDURE 3341 3372	léčby perorálními antidiabetiky
+T17	PROCEDURE 3735 3791	Posteroanteriorní a laterální rentgenový snímek hrudníku
+T18	PROCEDURE 3921 3934	sternotomický
+T19	PROCEDURE 3940 3957	Elektrokardiogram
+T20	PROCEDURE 4062 4091	Transtorakální echokardiogram
+T21	PROCEDURE 5041 5055	koronarografie
+T22	PROCEDURE 5985 5993	MR srdce
+T23	PROCEDURE 7282 7298	diuretické léčby
+T24	PROCEDURE 7808 7845	vyšetření magnetickou rezonancí srdce
+T25	PROCEDURE 7914 7954	revaskularizovanou čtyřnásobným bypassem
+T26	PROCEDURE 8122 8137	antikoagulovaná

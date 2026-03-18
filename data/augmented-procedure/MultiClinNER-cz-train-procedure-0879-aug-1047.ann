@@ -1,0 +1,23 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 341 362	antihypertenzní léčby
+T3	PROCEDURE 766 785	Fyzikální vyšetření
+T4	PROCEDURE 844 846	AC
+T5	PROCEDURE 942 944	AP
+T6	PROCEDURE 1055 1058	EKG
+T7	PROCEDURE 1361 1373	RTG hrudníku
+T8	PROCEDURE 1450 1479	Transtorakální echokardiogram
+T9	PROCEDURE 1918 1941	Hemodynamické vyšetření
+T10	PROCEDURE 2316 2336	Magnetická rezonance
+T11	PROCEDURE 2338 2341	MRI
+T12	PROCEDURE 2806 2845	Scintigrafie myokardu pomocí 99mTc-HDMP
+T13	PROCEDURE 2847 2865	vyšetření hrudníku
+T14	PROCEDURE 3226 3253	telemetrickým monitorováním
+T15	PROCEDURE 3387 3399	Telemetrické
+T16	PROCEDURE 3400 3412	monitorování
+T17	PROCEDURE 3557 3600	transtorakální echokardiografické vyšetření
+T18	PROCEDURE 3622 3645	hemodynamické vyšetření
+T19	PROCEDURE 3647 3675	Echokardiografické vyšetření
+T20	PROCEDURE 3838 3860	Katetrizační vyšetření
+T21	PROCEDURE 4122 4138	diuretická léčba
+T22	PROCEDURE 4206 4209	MRI
+T23	PROCEDURE 4539 4578	scintigrafie myokardu pomocí 99mTc-HDMP

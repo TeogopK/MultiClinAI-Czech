@@ -1,0 +1,19 @@
+T1	PROCEDURE 127 135	anamnéze
+T2	PROCEDURE 149 187	stomatologické ani chirurgické zákroky
+T3	PROCEDURE 193 213	fyzikálním vyšetření
+T4	PROCEDURE 611 630	Laboratorní hodnoty
+T5	PROCEDURE 951 971	Magnetická rezonance
+T6	PROCEDURE 1033 1048	lumbální punkce
+T7	PROCEDURE 1151 1188	barvení mozkomíšního moku podle Grama
+T8	PROCEDURE 1190 1235	PCR panelu na bakteriální/virovou meningitidu
+T9	PROCEDURE 1237 1251	kultivace krve
+T10	PROCEDURE 1254 1268	kultivace moči
+T11	PROCEDURE 1399 1416	Laboratorní testy
+T12	PROCEDURE 1594 1614	fyzikálním vyšetření
+T13	PROCEDURE 1672 1699	vyšetření mozkomíšního moku
+T14	PROCEDURE 1742 1770	echokardiografické vyšetření
+T15	PROCEDURE 1895 1913	CT vyšetření lebky
+T16	PROCEDURE 2014 2025	hemokultury
+T17	PROCEDURE 2209 2251	operací srdce s kardiopulmonálním bypassem
+T18	PROCEDURE 2260 2289	trikuspidální valvuloplastiky
+T19	PROCEDURE 2370 2381	hemokultury

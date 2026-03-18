@@ -1,0 +1,72 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 253 261	Anamnéza
+T4	PROCEDURE 372 408	umístěním mechanické protézy St Jude
+T5	PROCEDURE 659 678	Chirurgické zákroky
+T6	PROCEDURE 680 692	apendektomie
+T7	PROCEDURE 708 720	císařský řez
+T8	PROCEDURE 722 746	Náhrada mitrální chlopně
+T9	PROCEDURE 1937 1951	echokardiogram
+T10	PROCEDURE 2094 2145	transezofageální echokardiografické vyšetření (TEE)
+T11	PROCEDURE 2141 2144	TEE
+T12	PROCEDURE 2313 2321	anamnéza
+T13	PROCEDURE 2571 2590	Fyzikální vyšetření
+T14	PROCEDURE 2724 2740	Auskultace srdce
+T15	PROCEDURE 2779 2794	Auskultace plic
+T16	PROCEDURE 2963 2980	laboratorní testy
+T17	PROCEDURE 3193 3207	Vyšetření moči
+T18	PROCEDURE 3247 3250	EKG
+T19	PROCEDURE 3423 3467	Posteroanteriorní rentgenový snímek hrudníku
+T20	PROCEDURE 3838 3841	PCR
+T21	PROCEDURE 4055 4109	Sérologie a PCR nasofaryngeálního aspirátu na COVID 19
+T22	PROCEDURE 4121 4129	CT lebky
+T23	PROCEDURE 4176 4208	Magnetická rezonance (MRI) mozku
+T24	PROCEDURE 4198 4201	MRI
+T25	PROCEDURE 5213 5234	Laboratorní vyšetření
+T26	PROCEDURE 5296 5317	reaktanty akutní fáze
+T27	PROCEDURE 5319 5353	Renální, jaterní a lipidový profil
+T28	PROCEDURE 5364 5393	Transtorakální echokardiogram
+T29	PROCEDURE 5395 5398	TTE
+T30	PROCEDURE 6157 6190	Transezofageální echokardiografie
+T31	PROCEDURE 6192 6195	TEE
+T32	PROCEDURE 6274 6277	TEE
+T33	PROCEDURE 7215 7226	hemokultury
+T34	PROCEDURE 7456 7459	TEE
+T35	PROCEDURE 8348 8364	Krevní kultivace
+T36	PROCEDURE 8448 8459	antibiogram
+T37	PROCEDURE 8529 8550	střední resternotomie
+T38	PROCEDURE 8619 8643	Kanylace vzestupné aorty
+T39	PROCEDURE 8680 8706	Zavedení mimotělního oběhu
+T40	PROCEDURE 8708 8711	ECC
+T41	PROCEDURE 8714 8726	Svorka aorty
+T42	PROCEDURE 8728 8743	Levá atriotomie
+T43	PROCEDURE 8745 8764	Podání kardioplegie
+T44	PROCEDURE 8795 8822	implantace mitrální protézy
+T45	PROCEDURE 8835 8854	Uzavření atriotomie
+T46	PROCEDURE 8904 8919	aortální klapka
+T47	PROCEDURE 8958 8980	Zahřátí na normotermii
+T48	PROCEDURE 8983 8998	odpojení od ECC
+T49	PROCEDURE 9000 9016	Odstranění kanyl
+T50	PROCEDURE 9018 9027	hemostáza
+T51	PROCEDURE 9092 9095	TEE
+T52	PROCEDURE 9123 9170	Drenáže: přední mediastinum a perikardiální vak
+T53	PROCEDURE 9247 9281	netěsnost byla opravena tachosilem
+T54	PROCEDURE 9441 9458	Burpovým manévrem
+T55	PROCEDURE 9460 9482	Antibiotická profylaxe
+T56	PROCEDURE 9507 9526	vazoaktivní podpory
+T57	PROCEDURE 9580 9583	ECC
+T58	PROCEDURE 9711 9758	monitorování koagulace pomocí tromboelastogramu
+T59	PROCEDURE 9761 9810	celková transfuze 4 koncentrátů červených krvinek
+T60	PROCEDURE 9936 9946	extubovaný
+T61	PROCEDURE 10025 10046	Mikrobiologie protézy
+T62	PROCEDURE 10069 10072	TTE
+T63	PROCEDURE 10663 10689	magnetická rezonance mozku
+T64	PROCEDURE 10845 10860	krevních kultur
+T65	PROCEDURE 10872 10885	antikoagulace
+T66	PROCEDURE 10912 10940	empirická antibiotická léčba
+T67	PROCEDURE 10959 10986	echokardiografické kontrole
+T68	PROCEDURE 11326 11341	krevních kultur
+T69	PROCEDURE 11504 11522	reintervenci srdce
+T70	PROCEDURE 11539 11563	náhrada mitrální chlopně
+T71	PROCEDURE 11682 11691	extubován
+T72	PROCEDURE 12267 12326	Výměna protetické chlopně za biologickou protézu Epic 25 mm

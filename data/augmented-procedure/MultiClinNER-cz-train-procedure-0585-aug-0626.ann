@@ -1,0 +1,29 @@
+T1	PROCEDURE 230 254	tuberkulinový kožní test
+T2	PROCEDURE 277 298	profylaxi isoniazidem
+T3	PROCEDURE 336 367	nesteroidní protizánětlivé léky
+T4	PROCEDURE 379 392	antidepresiva
+T5	PROCEDURE 395 421	inhibitory protonové pumpy
+T6	PROCEDURE 591 611	fyzikálním vyšetření
+T7	PROCEDURE 644 704	hmatná laterocervikální nebo retroaurikulární lymfadenopatie
+T8	PROCEDURE 707 734	kardiopulmonální auskultace
+T9	PROCEDURE 796 825	ultrazvukové vyšetření ledvin
+T10	PROCEDURE 1100 1151	Hrudní abdomino-pelvická počítačová tomografie (CT)
+T11	PROCEDURE 1331 1355	biopsie krční adenopatie
+T12	PROCEDURE 1437 1464	Barvení podle Ziehl-Nielsen
+T13	PROCEDURE 1546 1564	fibrobronchoskopie
+T14	PROCEDURE 1640 1663	Bronchoalveolární laváž
+T15	PROCEDURE 1702 1719	bronchiální laváž
+T16	PROCEDURE 1737 1803	transbronchiální aspirace tenkou jehlou z mediastinální adenopatie
+T17	PROCEDURE 1840 1856	Ziehlovo barvení
+T18	PROCEDURE 1959 1977	fibrobronchoskopií
+T19	PROCEDURE 1991 2042	test na uvolňování interferonu gama pro tuberkulózu
+T20	PROCEDURE 2044 2055	quantiFERON
+T21	PROCEDURE 2130 2153	protituberkulózní léčby
+T22	PROCEDURE 2343 2359	Virová sérologie
+T23	PROCEDURE 2457 2469	Analýza moči
+T24	PROCEDURE 2625 2638	proteinogramu
+T25	PROCEDURE 2941 2955	radiologickému
+T26	PROCEDURE 3084 3099	renální biopsie
+T27	PROCEDURE 3412 3439	barvení PAS a Ziehl-Nielsen
+T28	PROCEDURE 3484 3499	biopsii ledviny
+T29	PROCEDURE 3589 3611	antituberkulózní léčbu

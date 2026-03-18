@@ -1,0 +1,43 @@
+T1	SYMPTOM 542 562	náhlou ztrátu vědomí
+T2	SYMPTOM 630 645	bolest na hrudi
+T3	SYMPTOM 671 700	palpitací s vysokou frekvencí
+T4	SYMPTOM 753 771	celkovou malátnost
+T5	SYMPTOM 785 792	horečku
+T6	SYMPTOM 798 815	infekční příznaky
+T7	SYMPTOM 882 886	třes
+T8	SYMPTOM 926 947	neurologickému fokusu
+T9	SYMPTOM 1096 1109	ztráty vědomí
+T10	SYMPTOM 1252 1267	sinusový rytmus
+T11	SYMPTOM 1405 1421	známek tachypnoe
+T12	SYMPTOM 1423 1454	Neurologické vyšetření bez změn
+T13	SYMPTOM 1456 1488	auskultace srdce byla pravidelná
+T14	SYMPTOM 1494 1501	šelestů
+T15	SYMPTOM 1504 1543	auskultace plic bez patologických zvuků
+T16	SYMPTOM 1604 1640	hepatojugulární reflux byl negativní
+T17	SYMPTOM 1642 1672	Dolní končetiny byly bez otoků
+T18	SYMPTOM 1722 1749	Puls byl silný a symetrický
+T19	SYMPTOM 1866 1888	Žádné koagulační změny
+T20	SYMPTOM 2151 2192	toxiny v moči/drogy zneužívání: negativní
+T21	SYMPTOM 2239 2252	ztráty vědomí
+T22	SYMPTOM 2357 2388	sinusový rytmus bez preexcitace
+T23	SYMPTOM 2436 2481	QRS s morfologií Ic-oved typu Brugada pattern
+T24	SYMPTOM 2564 2576	sestupným ST
+T25	SYMPTOM 2628 2639	negativní t
+T26	SYMPTOM 2641 2675	Korigovaný interval QT je normální
+T27	SYMPTOM 2677 2711	Korigovaný QT interval je normální
+T28	SYMPTOM 2835 2862	zachovaná systolická funkce
+T29	SYMPTOM 2868 2898	změn segmentální kontraktility
+T30	SYMPTOM 2900 2942	Komory nejsou dilatované ani hypertrofické
+T31	SYMPTOM 3005 3040	Normálně fungující mitrální chlopeň
+T32	SYMPTOM 3124 3152	Dolní dutá žíla nedilatovaná
+T33	SYMPTOM 3523 3565	dutiny nebyly hypertrofické ani dilatované
+T34	SYMPTOM 3777 3796	změny kontraktility
+T35	SYMPTOM 3832 3836	edém
+T36	SYMPTOM 3844 3879	pozdní zesílení po podání gadolinia
+T37	SYMPTOM 4266 4291	Missense mutace v geSnCN5
+T38	SYMPTOM 4731 4780	spontánní Brugadův vzorec typu 1 (žraločí ploutev
+T39	SYMPTOM 5391 5418	missense mutaci v genu SCN5
+T40	SYMPTOM 5513 5537	anodickým povrchovým EKG
+T41	SYMPTOM 5540 5569	negativním provokačním testem
+T42	SYMPTOM 5625 5674	provokační test a genetická studie byly negativní
+T43	SYMPTOM 5735 5745	synkopální

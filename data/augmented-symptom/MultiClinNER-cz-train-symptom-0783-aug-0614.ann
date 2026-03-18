@@ -1,0 +1,52 @@
+T1	SYMPTOM 246 261	bolest na hrudi
+T2	SYMPTOM 483 488	mdlob
+T3	SYMPTOM 492 506	ztrátou vědomí
+T4	SYMPTOM 579 586	závratě
+T5	SYMPTOM 589 604	bolest na hrudi
+T6	SYMPTOM 636 642	vědomí
+T7	SYMPTOM 661 676	bolest na hrudi
+T8	SYMPTOM 682 710	tísnivou, vyzařující do krku
+T9	SYMPTOM 728 748	vegetativní doprovod
+T10	SYMPTOM 783 792	palpitace
+T11	SYMPTOM 801 808	dušnost
+T12	SYMPTOM 973 995	zhoršení funkční třídy
+T13	SYMPTOM 1109 1126	infekční příznaky
+T14	SYMPTOM 1158 1189	pacient v dobrém celkovém stavu
+T15	SYMPTOM 1191 1208	Eupnoický v klidu
+T16	SYMPTOM 1210 1231	toleruje polohu vleže
+T17	SYMPTOM 1233 1242	Afebrilní
+T18	SYMPTOM 1245 1267	hemodynamicky stabilní
+T19	SYMPTOM 1340 1355	známky městnání
+T20	SYMPTOM 1357 1380	akce srdeční pravidelná
+T21	SYMPTOM 1386 1393	šelestů
+T22	SYMPTOM 1421 1427	šelest
+T23	SYMPTOM 1440 1473	bez vedlejších dechových fenoménů
+T24	SYMPTOM 1475 1500	Dolní končetiny bez otoků
+T25	SYMPTOM 1565 1576	bradykardie
+T26	SYMPTOM 1594 1606	normální osa
+T27	SYMPTOM 1608 1619	normální PR
+T28	SYMPTOM 1621 1629	úzké QRS
+T29	SYMPTOM 1643 1653	ST-elevaci
+T30	SYMPTOM 1697 1722	CTI v horní hranici normy
+T31	SYMPTOM 1925 1949	glykémie a ionty v normě
+T32	SYMPTOM 1961 1972	neutrofilie
+T33	SYMPTOM 1977 1988	leukocytózy
+T34	SYMPTOM 2226 2253	Autoimunitní test negativní
+T35	SYMPTOM 2420 2447	levá síň normálních rozměrů
+T36	SYMPTOM 2476 2501	Normální mitrální chlopeň
+T37	SYMPTOM 2557 2594	Levá komora s mírně zvětšenými objemy
+T38	SYMPTOM 2673 2705	segmentálních změn kontraktility
+T39	SYMPTOM 2707 2733	Normální tloušťka myokardu
+T40	SYMPTOM 2767 2797	Normální mitrální plnící obraz
+T41	SYMPTOM 2880 2936	Trojcípá aortální chlopeň s anatomicky normálními lístky
+T42	SYMPTOM 2979 3026	Pravá komora normálních rozměrů a kontraktility
+T43	SYMPTOM 3147 3171	Normální dolní dutá žíla
+T44	SYMPTOM 3174 3205	přiměřeným inspiračním kolapsem
+T45	SYMPTOM 3249 3270	perikardiální výpotek
+T46	SYMPTOM 3602 3627	RIA bez významných stenoz
+T47	SYMPTOM 3745 3769	RC bez významných stenoz
+T48	SYMPTOM 4437 4454	Prepoderantní ACD
+T49	SYMPTOM 5235 5251	bolestí na hrudi
+T50	SYMPTOM 6116 6125	hypotenzí
+T51	SYMPTOM 6408 6439	subendokardiálního enhancementu
+T52	SYMPTOM 6839 6853	asymptomatický

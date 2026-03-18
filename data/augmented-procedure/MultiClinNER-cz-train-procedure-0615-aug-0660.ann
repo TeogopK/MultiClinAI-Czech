@@ -1,0 +1,17 @@
+T1	PROCEDURE 228 257	ultrazvukové vyšetření břicha
+T2	PROCEDURE 323 325	CT
+T3	PROCEDURE 328 331	MRI
+T4	PROCEDURE 660 681	radikální nefrektomii
+T5	PROCEDURE 684 713	kavotomií k odstranění trombu
+T6	PROCEDURE 726 768	pravostrannou aortokavální lymfadenektomii
+T7	PROCEDURE 780 814	anatomicko-patologického vyšetření
+T8	PROCEDURE 1137 1144	operaci
+T9	PROCEDURE 1216 1224	palpační
+T10	PROCEDURE 1267 1293	magnetická rezonance pánve
+T11	PROCEDURE 1455 1462	biopsie
+T12	PROCEDURE 1512 1533	histologických řezech
+T13	PROCEDURE 1828 1846	totální penektomii
+T14	PROCEDURE 1867 1925	intraoperačně potvrdit chirurgickou hranici bez onemocnění
+T15	PROCEDURE 2050 2068	CT vyšetření lebky
+T16	PROCEDURE 2164 2183	hrudní CT vyšetření
+T17	PROCEDURE 2343 2350	operaci

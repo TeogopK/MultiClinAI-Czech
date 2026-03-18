@@ -1,0 +1,58 @@
+T1	SYMPTOM 75 91	bolesti na hrudi
+T2	SYMPTOM 94 128	zvýšené markery poškození myokardu
+T3	SYMPTOM 483 535	Asymptomatický pacient z kardiovaskulárního hlediska
+T4	SYMPTOM 591 623	tísnivé centrální hrudní bolesti
+T5	SYMPTOM 713 733	vegetativní doprovod
+T6	SYMPTOM 801 821	nespecifické závratě
+T7	SYMPTOM 832 849	dystrofické pocit
+T8	SYMPTOM 870 877	horečky
+T9	SYMPTOM 885 894	palpitace
+T10	SYMPTOM 896 903	dyspnoe
+T11	SYMPTOM 909 919	synkopální
+T12	SYMPTOM 949 966	infekční příznaky
+T13	SYMPTOM 989 998	Afebrilní
+T14	SYMPTOM 1113 1119	vědomí
+T15	SYMPTOM 1121 1132	orientovaná
+T16	SYMPTOM 1135 1149	spolupracující
+T17	SYMPTOM 1151 1183	Dobře hydratovaný a perfundovaný
+T18	SYMPTOM 1185 1203	Dobrý celkový stav
+T19	SYMPTOM 1205 1222	V klidu eupnoický
+T20	SYMPTOM 1224 1253	Jugulární žilní tlak normální
+T21	SYMPTOM 1287 1311	akce srdeční: pravidelná
+T22	SYMPTOM 1317 1324	šelestů
+T23	SYMPTOM 1327 1332	tření
+T24	SYMPTOM 1351 1379	dechové zvuky byly zachovány
+T25	SYMPTOM 1410 1450	Břicho: měkké, stlačitelné a nebolestivé
+T26	SYMPTOM 1472 1478	útvary
+T27	SYMPTOM 1483 1498	zvětšené orgány
+T28	SYMPTOM 1500 1521	Peristaltika přítomna
+T29	SYMPTOM 1523 1549	Dolní končetiny: bez otoků
+T30	SYMPTOM 1551 1587	Distální pulzy přítomny a symetrické
+T31	SYMPTOM 1634 1645	bradykardie
+T32	SYMPTOM 1659 1670	Normální PR
+T33	SYMPTOM 1672 1680	Úzké QRS
+T34	SYMPTOM 1682 1721	Q vlna na hranici patologického významu
+T35	SYMPTOM 1724 1754	elevace ST 0,5 mm v dolní část
+T36	SYMPTOM 2117 2144	normální kardiohrudní index
+T37	SYMPTOM 2159 2182	pleuroparenchymové léze
+T38	SYMPTOM 2215 2239	nedilatovaná levá komora
+T39	SYMPTOM 2264 2296	změn v segmentální kontraktilitě
+T40	SYMPTOM 2298 2324	Normální systolická funkce
+T41	SYMPTOM 2342 2346	LVEF
+T42	SYMPTOM 2430 2461	Pravá komora normální velikosti
+T43	SYMPTOM 2465 2494	zachovanou systolickou funkcí
+T44	SYMPTOM 2496 2540	Mitrální chlopeň normálního vzhledu a funkce
+T45	SYMPTOM 2542 2567	Trojcípá aortální chlopeň
+T46	SYMPTOM 2600 2640	Trikuspidální chlopeň normálního vzhledu
+T47	SYMPTOM 2703 2736	Aortální kořen normální velikosti
+T48	SYMPTOM 2759 2780	perikardiální výpotek
+T49	SYMPTOM 2812 2852	komory mají zachovanou velikost a funkci
+T50	SYMPTOM 2868 2878	hypokineze
+T51	SYMPTOM 2880 2884	edém
+T52	SYMPTOM 2887 2923	pozdní intramyokardiální enhancement
+T53	SYMPTOM 3123 3191	Koronární tepny bez anatomických variant, se zachovanou průchodností
+T54	SYMPTOM 3733 3744	leukocytózu
+T55	SYMPTOM 3765 3776	eozinofilií
+T56	SYMPTOM 4262 4276	asymptomatický
+T57	SYMPTOM 4280 4318	normalizací markerů poškození myokardu
+T58	SYMPTOM 4331 4342	eozinofilii

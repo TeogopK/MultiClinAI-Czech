@@ -1,0 +1,49 @@
+T1	DISEASE 75 89	lékové alergie
+T2	DISEASE 92 99	Kuřačka
+T3	DISEASE 126 143	Obezita 2. stupně
+T4	DISEASE 152 170	vysoký krevní tlak
+T5	DISEASE 179 196	diabetes mellitus
+T6	DISEASE 199 219	Hypercholesterolémie
+T7	DISEASE 222 233	Hypotyreóza
+T8	DISEASE 236 266	Chronická žilní nedostatečnost
+T9	DISEASE 269 297	Těžká dorzolumbální skolióza
+T10	DISEASE 584 597	kardiomegalie
+T11	DISEASE 1056 1066	léze mozku
+T12	DISEASE 1237 1254	mozkovými abscesy
+T13	DISEASE 1365 1450	Mitrální chlopeň s kalcifikací v zadním prstenci, sklerózou a ztluštěním zadního cípu
+T14	DISEASE 1585 1623	mírné až střední mitrální insuficienci
+T15	DISEASE 1646 1658	valvulopatie
+T16	DISEASE 1666 1687	perikardiální výpotek
+T17	DISEASE 1866 1901	Středně těžká mitrální insuficience
+T18	DISEASE 1970 2003	perforaci zadního mitrálního cípu
+T19	DISEASE 2129 2164	Středně těžká mitrální insuficience
+T20	DISEASE 2186 2234	lékařské onemocnění ledvin s jizvením parenchymu
+T21	DISEASE 2236 2252	Infarkty sleziny
+T22	DISEASE 2254 2281	Trombóza celiakálního kmene
+T23	DISEASE 2479 2532	septickém šoku, s akutním oligurickým selháním ledvin
+T24	DISEASE 2589 2602	mozkovou lézí
+T25	DISEASE 2755 2783	vegetace na mitrální chlopni
+T26	DISEASE 2892 2927	středně těžká mitrální insuficience
+T27	DISEASE 2986 3008	mitrální endokarditidy
+T28	DISEASE 3327 3344	mozkovými abscesy
+T29	DISEASE 3523 3540	srdečního selhání
+T30	DISEASE 3614 3654	septická embolie do levé dolní končetiny
+T31	DISEASE 3774 3790	infarktů sleziny
+T32	DISEASE 3799 3833	embolu v úrovni celiakálního kmene
+T33	DISEASE 4161 4178	mozkových abscesů
+T34	DISEASE 4288 4295	infekci
+T35	DISEASE 4442 4496	emboligenní mitrální endokarditidu s mozkovými abscesy
+T36	DISEASE 4498 4515	chronickou anémii
+T37	DISEASE 4517 4537	renální insuficienci
+T38	DISEASE 4713 4729	infekčního stavu
+T39	DISEASE 4908 5013	emboligenníEndokarditida nativní mitrální chlopně, způsobená Staphylococcus aureus citlivým na kloxacilin
+T40	DISEASE 5015 5027	Septický šok
+T41	DISEASE 5059 5093	Středně těžká mitrální regurgitace
+T42	DISEASE 5095 5134	Perforace zadního cípu mitrální chlopně
+T43	DISEASE 5137 5170	Renální selhání smíšené etiologie
+T44	DISEASE 5186 5204	glomerulonefritida
+T45	DISEASE 5220 5244	Městnavé srdeční selhání
+T46	DISEASE 5247 5271	Mozková septická embolie
+T47	DISEASE 5273 5288	Mozkové abscesy
+T48	DISEASE 5306 5343	Femorální arteriální septická embolie
+T49	DISEASE 5426 5453	Embolie sleziny s infarktem

@@ -1,0 +1,17 @@
+T1	DISEASE 60 74	bronchiektázie
+T2	DISEASE 77 95	peribronchiektázie
+T3	DISEASE 96 108	pneumonitidy
+T4	DISEASE 110 140	těžkou multifaktoriální anémií
+T5	DISEASE 142 168	chronickým selháním ledvin
+T6	DISEASE 208 236	chronické difuzní gastritidě
+T7	DISEASE 316 361	zlomeninu levé pažní kosti a kyčelního kloubu
+T8	DISEASE 437 460	makroskopická hematurie
+T9	DISEASE 480 489	hypotenze
+T10	DISEASE 622 661	pneumonie rozvinuté do plicního abscesu
+T11	DISEASE 663 684	fulminantní hematurie
+T12	DISEASE 686 706	pseudomonádové sepse
+T13	DISEASE 709 736	akutní renální insuficience
+T14	DISEASE 818 845	sraženiny v močovém měchýři
+T15	DISEASE 965 983	nádorové patologie
+T16	DISEASE 1068 1095	amyloidózu močového měchýře
+T17	DISEASE 1101 1103	AA

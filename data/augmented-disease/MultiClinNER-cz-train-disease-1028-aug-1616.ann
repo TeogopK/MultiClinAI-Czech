@@ -1,0 +1,97 @@
+T1	DISEASE 136 155	kognitivních poruch
+T2	DISEASE 248 260	bývalý kuřák
+T3	DISEASE 316 328	bývalý piják
+T4	DISEASE 397 416	metabolické poruchy
+T5	DISEASE 504 524	srdečního onemocnění
+T6	DISEASE 1268 1281	splenomegalii
+T7	DISEASE 1443 1468	infarktů sleziny a ledvin
+T8	DISEASE 1575 1604	závažné aortální insuficience
+T9	DISEASE 1662 1670	vegetací
+T10	DISEASE 1726 1748	infekční endokarditidu
+T11	DISEASE 3179 3191	kožních lézí
+T12	DISEASE 3197 3202	jizev
+T13	DISEASE 3316 3329	splenomegalie
+T14	DISEASE 3393 3429	Petechiální léze na obou končetinách
+T15	DISEASE 3492 3520	chronické žilní insuficience
+T16	DISEASE 3558 3581	hlubokou žilní trombózu
+T17	DISEASE 3583 3586	HŽT
+T18	DISEASE 5079 5094	plicní kongesci
+T19	DISEASE 5148 5165	pleurální výpotek
+T20	DISEASE 5173 5194	kondenzace parenchymu
+T21	DISEASE 5200 5212	pneumotoraxu
+T22	DISEASE 5296 5310	steatóza jater
+T23	DISEASE 5400 5440	Slezina 18 cm s cystickými útvary uvnitř
+T24	DISEASE 5606 5623	hrudní adenopatie
+T25	DISEASE 5671 5704	oboustranných pleurálních výpotků
+T26	DISEASE 5863 5879	jaterní steatóza
+T27	DISEASE 5882 5902	cystickou lézí v LHI
+T28	DISEASE 6205 6230	Levá síň mírně dilatovaná
+T29	DISEASE 6306 6338	Mírná trikuspidální insuficience
+T30	DISEASE 6432 6449	plicní hypertenze
+T31	DISEASE 6499 6525	mírná mitrální regurgitace
+T32	DISEASE 6611 6624	endokarditidu
+T33	DISEASE 6626 6657	Centrální aortální insuficience
+T34	DISEASE 6897 6918	perikardiální výpotek
+T35	DISEASE 6998 7016	defektu septa síní
+T36	DISEASE 7036 7071	vegetace v předním mitrálním plátku
+T37	DISEASE 7103 7138	středně těžká mitrální insuficience
+T38	DISEASE 7218 7263	endokarditida na aortální chlopni, s vegetací
+T39	DISEASE 7296 7326	destrukcí nekoronárního lístku
+T40	DISEASE 7339 7366	těžké aortální insuficienci
+T41	DISEASE 7423 7444	perikardiální výpotek
+T42	DISEASE 7649 7662	endokarditidu
+T43	DISEASE 7664 7692	Ruptura nekoronárního lístku
+T44	DISEASE 7956 7975	hemoragický embolus
+T45	DISEASE 8014 8020	absces
+T46	DISEASE 8115 8180	mozkového parenchymu svědčící pro subakutní ischemickou patologii
+T47	DISEASE 8189 8230	encefalomalacie v pravém temporálním pólu
+T48	DISEASE 8376 8423	chronické patologie malých cév v gangliích baze
+T49	DISEASE 8440 8451	kostní léze
+T50	DISEASE 8528 8571	patologických změn glykemického metabolismu
+T51	DISEASE 8716 8730	endokarditidou
+T52	DISEASE 8903 8916	endokarditidu
+T53	DISEASE 8918 8931	Splenomegalie
+T54	DISEASE 8955 8988	rozsáhlých ametabolických ložisek
+T55	DISEASE 9135 9151	infarkty sleziny
+T56	DISEASE 9194 9206	superinfekci
+T57	DISEASE 9265 9316	extramedulární hematopoézou sekundární známé anémie
+T58	DISEASE 9565 9571	anémií
+T59	DISEASE 9902 9935	infarkty kardioembolického původu
+T60	DISEASE 9964 9991	petechiálního mikrokrvácení
+T61	DISEASE 10049 10096	Hematom velikosti 10 mm v levé sylvické oblasti
+T62	DISEASE 10391 10419	distální mykotické aneuryzma
+T63	DISEASE 10530 10537	abscesy
+T64	DISEASE 10614 10641	pseudoaneuryzma ve větvi M2
+T65	DISEASE 10719 10736	pseudoaneuryzmatu
+T66	DISEASE 10904 10970	aortální vegetace s postižením nekoronárního listu s jeho rupturou
+T67	DISEASE 10984 11011	těžké aortální insuficienci
+T68	DISEASE 11076 11111	vegetaci na úrovni mitrální chlopně
+T69	DISEASE 11234 11247	endokarditidě
+T70	DISEASE 11370 11386	infarktu sleziny
+T71	DISEASE 11461 11468	embolie
+T72	DISEASE 11602 11635	hemoragické léze v oblasti Sylvia
+T73	DISEASE 11651 11683	rupturou mykotického aneuryzmatu
+T74	DISEASE 11829 11842	splenomegalie
+T75	DISEASE 11884 11907	intrakraniální krvácení
+T76	DISEASE 12139 12212	mykotického aneuryzmatu postihujícího větev M2 levé střední mozkové tepny
+T77	DISEASE 12317 12340	neurologických následků
+T78	DISEASE 12690 12704	chlopenní vady
+T79	DISEASE 12932 12953	mitrální insuficienci
+T80	DISEASE 13343 13368	mírného srdečního selhání
+T81	DISEASE 13482 13488	anémie
+T82	DISEASE 13913 13929	břišního abscesu
+T83	DISEASE 13961 13976	chronických ran
+T84	DISEASE 14112 14182	Akutní endokarditida způsobená E. faecalis na nativní aortální chlopni
+T85	DISEASE 14184 14226	Nekoronární ruptura plátu aortální chlopně
+T86	DISEASE 14230 14269	sekundární těžkou aortální insuficiencí
+T87	DISEASE 14333 14374	Akutní srdeční selhání se zachovanou LVEF
+T88	DISEASE 14384 14406	infekční endokarditidy
+T89	DISEASE 14437 14524	Infarkty sleziny a ledviny embolického mechanismu sekundárně při infekční endokarditidě
+T90	DISEASE 14502 14524	infekční endokarditidě
+T91	DISEASE 14588 14692	Mykotické mozkové aneuryzma ve větvi M2 levé střední mozkové tepny sekundárně při infekční endokarditidě
+T92	DISEASE 14679 14692	endokarditidě
+T93	DISEASE 14706 14738	ozkového mykotického aneuryzmatu
+T94	DISEASE 14761 14797	Multifaktoriální normocytární anémie
+T95	DISEASE 14809 14824	hypersplenismus
+T96	DISEASE 14854 14892	Multifaktoriální akutní selhání ledvin
+T97	DISEASE 14894 14903	hypotenze

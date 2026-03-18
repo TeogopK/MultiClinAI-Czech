@@ -1,0 +1,17 @@
+T1	PROCEDURE 641 660	Fyzikální vyšetření
+T2	PROCEDURE 817 839	Neurologické vyšetření
+T3	PROCEDURE 1086 1105	elektroencefalogram
+T4	PROCEDURE 1107 1110	EEG
+T5	PROCEDURE 1114 1156	tomografie mozku (CT) s jodovým kontrastem
+T6	PROCEDURE 1132 1134	CT
+T7	PROCEDURE 1235 1248	Toxiny v moči
+T8	PROCEDURE 1265 1280	Lumbální punkce
+T9	PROCEDURE 1319 1328	biochemií
+T10	PROCEDURE 1331 1340	kultivaci
+T11	PROCEDURE 1395 1404	Sérologie
+T12	PROCEDURE 2073 2102	ultrazvukové vyšetření břicha
+T13	PROCEDURE 2127 2160	prostý rentgenový snímek hrudníku
+T14	PROCEDURE 2201 2212	CT hrudníku
+T15	PROCEDURE 2288 2295	operaci
+T16	PROCEDURE 2402 2441	24hodinová hladina katecholaminů v moči
+T17	PROCEDURE 2571 2578	operaci

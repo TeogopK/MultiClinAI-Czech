@@ -1,0 +1,52 @@
+T1	SYMPTOM 506 512	šelest
+T2	SYMPTOM 649 674	normální mitrální chlopeň
+T3	SYMPTOM 676 707	nedilatovanou levou komoru (LK)
+T4	SYMPTOM 711 746	zachovanou ejekční frakcí LK (LVEF)
+T5	SYMPTOM 784 797	Těhotná ve 20
+T6	SYMPTOM 1057 1081	dušnost při mírné námaze
+T7	SYMPTOM 1122 1151	NT-proBNP, který byl normální
+T8	SYMPTOM 1176 1208	nedilatovanou LK s normální LVEF
+T9	SYMPTOM 1301 1312	proteinurii
+T10	SYMPTOM 1443 1458	trombocytopenií
+T11	SYMPTOM 1474 1479	otoky
+T12	SYMPTOM 1631 1642	proteinurii
+T13	SYMPTOM 1645 1660	trombocytopenii
+T14	SYMPTOM 2248 2253	tepla
+T15	SYMPTOM 2256 2263	závratě
+T16	SYMPTOM 2269 2282	ztráty vědomí
+T17	SYMPTOM 2290 2298	dušnosti
+T18	SYMPTOM 2300 2308	ortopnoe
+T19	SYMPTOM 2314 2330	bolesti na hrudi
+T20	SYMPTOM 2362 2368	vědomí
+T21	SYMPTOM 2371 2382	orientovaná
+T22	SYMPTOM 2384 2402	dobře perfundovaná
+T23	SYMPTOM 2560 2569	eupnoická
+T24	SYMPTOM 2572 2595	tolerující polohu vleže
+T25	SYMPTOM 2597 2620	akce srdeční pravidelná
+T26	SYMPTOM 2623 2658	diastolickým a systolickým šelestem
+T27	SYMPTOM 2695 2713	dýchání alveolární
+T28	SYMPTOM 2721 2725	otok
+T29	SYMPTOM 2810 2819	hypoxémie
+T30	SYMPTOM 2822 2832	hypokapnií
+T31	SYMPTOM 2851 2857	laktát
+T32	SYMPTOM 2883 2898	ionty v rozmezí
+T33	SYMPTOM 2923 2951	leukocytoza s posunem doleva
+T34	SYMPTOM 2992 3007	sinusový rytmus
+T35	SYMPTOM 3027 3039	normálním PR
+T36	SYMPTOM 3042 3051	úzkým QRS
+T37	SYMPTOM 3056 3076	repolarizačních změn
+T38	SYMPTOM 3096 3108	nedilatovaná
+T39	SYMPTOM 3111 3148	nehypertrofická LK se zachovanou LVEF
+T40	SYMPTOM 3154 3186	změn v segmentální kontraktilitě
+T41	SYMPTOM 3243 3259	ztluštělými cípy
+T42	SYMPTOM 3601 3641	Pravá komora normální velikosti a funkce
+T43	SYMPTOM 3643 3683	Trikuspidální chlopeň normálního vzhledu
+T44	SYMPTOM 4286 4305	intenzivní dušností
+T45	SYMPTOM 4656 4664	dušnosti
+T46	SYMPTOM 5181 5219	krevní tlak zůstává prakticky normální
+T47	SYMPTOM 5287 5294	dušnost
+T48	SYMPTOM 5296 5304	ortopnoe
+T49	SYMPTOM 5309 5314	otoky
+T50	SYMPTOM 5512 5540	zachovalou funkcí obou komor
+T51	SYMPTOM 5619 5639	hemodynamických změn
+T52	SYMPTOM 5935 5951	zachovanou EF LK

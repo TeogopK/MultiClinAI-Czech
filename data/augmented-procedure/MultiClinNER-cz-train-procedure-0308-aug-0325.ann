@@ -1,0 +1,14 @@
+T1	PROCEDURE 60 77	bronchodilatancii
+T2	PROCEDURE 238 246	anamnéze
+T3	PROCEDURE 408 424	Auskultace srdce
+T4	PROCEDURE 533 550	Plicní auskultace
+T5	PROCEDURE 654 671	Laboratorní testy
+T6	PROCEDURE 730 750	Kardiální biomarkery
+T7	PROCEDURE 767 770	EKG
+T8	PROCEDURE 787 813	rentgenový snímek hrudníku
+T9	PROCEDURE 1029 1057	echokardiografické vyšetření
+T10	PROCEDURE 1228 1247	srdeční katetrizace
+T11	PROCEDURE 1279 1292	angiograficky
+T12	PROCEDURE 1358 1367	operována
+T13	PROCEDURE 1394 1407	histologickým
+T14	PROCEDURE 1436 1443	operaci

@@ -1,0 +1,27 @@
+T1	DISEASE 89 105	lékových alergií
+T2	DISEASE 124 138	toxické návyky
+T3	DISEASE 144 164	společenským pijákem
+T4	DISEASE 166 175	nekuřákem
+T5	DISEASE 1238 1250	apendicitidu
+T6	DISEASE 1727 1739	koagulopatie
+T7	DISEASE 2219 2241	akutní cholecystitidou
+T8	DISEASE 2247 2270	dilatace žlučových cest
+T9	DISEASE 2347 2354	litiázy
+T10	DISEASE 2360 2372	hydronefrózy
+T11	DISEASE 2531 2595	V pravé kyčelní jamce byly rovněž četné reaktivní lymfadenopatie
+T12	DISEASE 2875 2883	ileitidu
+T13	DISEASE 2963 2975	apendicitidu
+T14	DISEASE 4317 4329	myokarditidu
+T15	DISEASE 4583 4622	středně těžkou systolickou dysfunkcí LK
+T16	DISEASE 4931 4963	Mírná trikuspidální insuficience
+T17	DISEASE 5042 5111	Dilatovaná dolní dutá žíla (IVC) bez adekvátního inspiračního kolapsu
+T18	DISEASE 5119 5140	perikardiální výpotek
+T19	DISEASE 5345 5350	COVID
+T20	DISEASE 5979 5997	arytmických příhod
+T21	DISEASE 6150 6167	srdečního selhání
+T22	DISEASE 6500 6514	uzlového rytmu
+T23	DISEASE 6745 6762	vagovou hypotonií
+T24	DISEASE 6790 6802	myokarditidy
+T25	DISEASE 7314 7348	Myokarditida a akutní ileokolitida
+T26	DISEASE 7314 7390	Myokarditida a akutní ileokolitida v kontextu pozdní fáze infekce SARS-CoV-2
+T27	DISEASE 7372 7390	infekce SARS-CoV-2

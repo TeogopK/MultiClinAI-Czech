@@ -1,0 +1,36 @@
+T1	DISEASE 85 97	hypertoničky
+T2	DISEASE 100 110	diabetičky
+T3	DISEASE 395 421	námahovou anginou pectoris
+T4	DISEASE 725 748	95% stenóza střední RIA
+T5	DISEASE 1521 1532	Leukocytóza
+T6	DISEASE 1851 1890	akutní lézí (95 %) ve středním segmentu
+T7	DISEASE 2269 2294	Levá síň mírně dilatovaná
+T8	DISEASE 2307 2354	Mitrální chlopeň s kalcifikací zadního prstence
+T9	DISEASE 2416 2436	mitrální regurgitace
+T10	DISEASE 2575 2608	Akineze všech apikálních segmentů
+T11	DISEASE 2745 2778	defekt interventrikulárního septa
+T12	DISEASE 2794 2797	VSD
+T13	DISEASE 2948 2983	Fibrokalcifikovaná aortální chlopeň
+T14	DISEASE 3027 3039	insuficience
+T15	DISEASE 3111 3140	TR; trikuspidální regurgitace
+T16	DISEASE 3246 3267	perikardiální výpotek
+T17	DISEASE 3394 3397	VSD
+T18	DISEASE 3440 3443	VSD
+T19	DISEASE 3647 3650	VSD
+T20	DISEASE 3850 3857	akinezi
+T21	DISEASE 3940 3969	akutního koronárního syndromu
+T22	DISEASE 4208 4211	AIM
+T23	DISEASE 4227 4274	tok v apikální části interventrikulárního septa
+T24	DISEASE 4371 4388	plicní hypertenzí
+T25	DISEASE 4412 4436	defektu komorového septa
+T26	DISEASE 4438 4441	VSD
+T27	DISEASE 5031 5048	septoapikální VSD
+T28	DISEASE 5190 5222	středně těžkou plicní hypertenzí
+T29	DISEASE 5254 5257	VSD
+T30	DISEASE 5473 5476	VSD
+T31	DISEASE 5714 5717	AIM
+T32	DISEASE 5736 5741	STEMI
+T33	DISEASE 5805 5830	léze ve střední části LAD
+T34	DISEASE 5860 5877	Septoapikální VSD
+T35	DISEASE 5914 5917	AIM
+T36	DISEASE 5942 5969	akineza apikálního segmentu

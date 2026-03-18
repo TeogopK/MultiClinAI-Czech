@@ -1,0 +1,50 @@
+T1	SYMPTOM 568 581	ztrátu vědomí
+T2	SYMPTOM 926 932	vědomí
+T3	SYMPTOM 935 946	orientovaný
+T4	SYMPTOM 948 961	řeč zachována
+T5	SYMPTOM 963 997	Izochorické normoreaktivní zornice
+T6	SYMPTOM 999 1028	Normální vnější oční motilita
+T7	SYMPTOM 1064 1090	Síla a citlivost zachována
+T8	SYMPTOM 1092 1111	Koordinace normální
+T9	SYMPTOM 1113 1130	Romberg negativní
+T10	SYMPTOM 1138 1151	změny v chůzi
+T11	SYMPTOM 1159 1172	krční pulzace
+T12	SYMPTOM 1192 1215	pravidelné srdeční ozvy
+T13	SYMPTOM 1223 1230	šelesty
+T14	SYMPTOM 1249 1267	alveolární dýchání
+T15	SYMPTOM 1282 1289	pískoty
+T16	SYMPTOM 1291 1324	Břicho: žádné útvary ani megality
+T17	SYMPTOM 1326 1347	peristaltika přítomná
+T18	SYMPTOM 1355 1377	otoky dolních končetin
+T19	SYMPTOM 1379 1408	Puls je přítomný a symetrický
+T20	SYMPTOM 2616 2631	sinusový rytmus
+T21	SYMPTOM 2649 2660	Normální PR
+T22	SYMPTOM 2755 2796	V1 s koncovou náplní QRS a elevací bodu J
+T23	SYMPTOM 2840 2885	silueta srdce a mediastina normální velikosti
+T24	SYMPTOM 2901 2912	konsolidace
+T25	SYMPTOM 2972 3041	levá komora normálního průměru a tloušťky s přiměřenou kontraktilitou
+T26	SYMPTOM 3067 3118	Transkraniální průtokový obraz prodloužené relaxace
+T27	SYMPTOM 3120 3147	Levá síň normálních rozměrů
+T28	SYMPTOM 3149 3200	Drobnolistá mitrální chlopeň s normálním otevíráním
+T29	SYMPTOM 3219 3267	Trojcípá aortální chlopeň s normálním otevíráním
+T30	SYMPTOM 3286 3317	Pravá komora normálních rozměrů
+T31	SYMPTOM 3453 3466	Střední linie
+T32	SYMPTOM 3472 3496	známek akutního krvácení
+T33	SYMPTOM 3502 3507	otoku
+T34	SYMPTOM 3509 3524	Kalota bez změn
+T35	SYMPTOM 3645 3694	segmentální a globální systolickou funkcí v normě
+T36	SYMPTOM 3764 3791	systolická funkce zachována
+T37	SYMPTOM 3830 3865	zachovaná segmentální kontraktilita
+T38	SYMPTOM 3867 3908	Předsíně a velké cévy zachovalých rozměrů
+T39	SYMPTOM 4046 4117	Morfologické (bez kontrastu a s kontrastem) a funkční vyšetření v normě
+T40	SYMPTOM 4783 4813	významný pokles krevního tlaku
+T41	SYMPTOM 4878 4911	významné prodloužení HV intervalu
+T42	SYMPTOM 5012 5053	komorovou extrasystolou se spojením vln T
+T43	SYMPTOM 5095 5123	významné angiografické změny
+T44	SYMPTOM 5180 5202	zvýšení elevace bodu J
+T45	SYMPTOM 5227 5257	projevil typický Brugada typ 1
+T46	SYMPTOM 5830 5898	provedeno CT vyšetření lebky, které neprokázalo žádné významné změny
+T47	SYMPTOM 6472 6522	vyvolané komorovou extrasystolou se spojením vln T
+T48	SYMPTOM 6765 6791	zvýšením bodu J ve V1 a V2
+T49	SYMPTOM 6813 6836	typický Brugadův vzorec
+T50	SYMPTOM 6955 7008	koronarografie, která neprokázala žádné významné léze

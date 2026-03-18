@@ -1,0 +1,28 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 503 514	Katetrizace
+T3	PROCEDURE 627 711	Chirurgicky byla revaskularizována pouze LAD pomocí štěpu levé vnitřní mamární tepny
+T4	PROCEDURE 1646 1665	Fyzikální vyšetření
+T5	PROCEDURE 1666 1680	Životní funkce
+T6	PROCEDURE 1914 1930	Auskultace srdce
+T7	PROCEDURE 2027 2042	Auskultace plic
+T8	PROCEDURE 2157 2164	palpaci
+T9	PROCEDURE 2245 2257	Krevní obraz
+T10	PROCEDURE 2328 2337	hemostáza
+T11	PROCEDURE 2567 2584	Elektrokardiogram
+T12	PROCEDURE 2586 2589	EKG
+T13	PROCEDURE 2727 2730	EKG
+T14	PROCEDURE 2807 2821	Koronarografie
+T15	PROCEDURE 2868 2904	mamární můstek ke středodistální LAD
+T16	PROCEDURE 3182 3213	Most z mammarickej tepny do LAD
+T17	PROCEDURE 3338 3346	Angio-CT
+T18	PROCEDURE 3515 3529	Echokardiogram
+T19	PROCEDURE 3878 3920	mamárnímu bypassu do přední sestupné tepny
+T20	PROCEDURE 3936 3950	CT angiografie
+T21	PROCEDURE 4074 4100	perkutánní revaskularizace
+T22	PROCEDURE 4103 4116	angioplastika
+T23	PROCEDURE 4119 4164	implantací destentu do levé podklíčkové tepny
+T24	PROCEDURE 4269 4293	podáním kontrastní látky
+T25	PROCEDURE 4349 4360	léčbě sérem
+T26	PROCEDURE 4852 4867	antitrombotický
+T27	PROCEDURE 5041 5051	intervenci
+T28	PROCEDURE 5339 5428	chirurgickou revaskularizací s vnitřním mamárním bypassem vlevo na přední sestupnou tepnu

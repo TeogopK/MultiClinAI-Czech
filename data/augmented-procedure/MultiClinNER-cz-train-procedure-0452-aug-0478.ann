@@ -1,0 +1,20 @@
+T1	PROCEDURE 188 196	anamnéze
+T2	PROCEDURE 247 256	Vyšetření
+T3	PROCEDURE 531 541	auskultaci
+T4	PROCEDURE 567 609	punkce pod kontrolou počítačové tomografie
+T5	PROCEDURE 588 609	počítačové tomografie
+T6	PROCEDURE 611 613	CT
+T7	PROCEDURE 748 780	virového sérologického vyšetření
+T8	PROCEDURE 782 821	CT vyšetření s intravenózním kontrastem
+T9	PROCEDURE 1262 1279	celkové anestezii
+T10	PROCEDURE 1298 1332	supraklavikulární horizontální řez
+T11	PROCEDURE 1335 1349	řez svalem ECM
+T12	PROCEDURE 1530 1537	disekci
+T13	PROCEDURE 1617 1624	operace
+T14	PROCEDURE 1664 1685	Patologické vyšetření
+T15	PROCEDURE 1810 1838	imunohistochemických markerů
+T16	PROCEDURE 2109 2130	Molekulární vyšetření
+T17	PROCEDURE 2149 2191	PCR přítomnost lidského herpes viru typu 8
+T18	PROCEDURE 2216 2252	torakoabdomino-pelvické CT vyšetření
+T19	PROCEDURE 2285 2297	krevní testy
+T20	PROCEDURE 2299 2321	imunologie a sérologie

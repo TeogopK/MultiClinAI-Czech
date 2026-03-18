@@ -1,0 +1,33 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 413 421	konizace
+T3	PROCEDURE 1130 1147	elektrokardiogram
+T4	PROCEDURE 1221 1237	zátěžového testu
+T5	PROCEDURE 1505 1524	Fyzikální vyšetření
+T6	PROCEDURE 1731 1747	Auskultace srdce
+T7	PROCEDURE 1790 1800	slyšitelné
+T8	PROCEDURE 1816 1841	Auskultace dýchacích cest
+T9	PROCEDURE 2097 2114	Elektrokardiogram
+T10	PROCEDURE 2116 2119	EKG
+T11	PROCEDURE 2248 2260	RTG hrudníku
+T12	PROCEDURE 2461 2476	Lipidový profil
+T13	PROCEDURE 2593 2607	jaterní enzymy
+T14	PROCEDURE 2618 2638	hormony štítné žlázy
+T15	PROCEDURE 2686 2712	markerů poškození myokardu
+T16	PROCEDURE 2753 2765	Krevní obraz
+T17	PROCEDURE 2838 2847	Koagulace
+T18	PROCEDURE 2857 2873	Echokardiografie
+T19	PROCEDURE 4310 4324	Koronarografie
+T20	PROCEDURE 4421 4447	Magnetická rezonance srdce
+T21	PROCEDURE 4449 4452	MRI
+T22	PROCEDURE 5118 5121	EKG
+T23	PROCEDURE 5904 5920	echokardiografie
+T24	PROCEDURE 6053 6067	koronarografie
+T25	PROCEDURE 6143 6185	etiologickému vyšetření komorové dysfunkce
+T26	PROCEDURE 6195 6221	magnetická rezonance srdce
+T27	PROCEDURE 6408 6428	léčba beta-blokátory
+T28	PROCEDURE 6430 6474	inhibitory angiotenzin konvertujícího enzymu
+T29	PROCEDURE 6476 6490	ACE inhibitory
+T30	PROCEDURE 6494 6537	antagonisty mineralokortikoidních receptorů
+T31	PROCEDURE 6539 6542	AMR
+T32	PROCEDURE 6769 6790	antidiabetickou léčbu
+T33	PROCEDURE 7231 7250	hypoglykemické léky

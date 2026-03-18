@@ -1,0 +1,12 @@
+T1	PROCEDURE 314 329	výplach žaludku
+T2	PROCEDURE 1169 1199	bolus intravenózního diazepamu
+T3	PROCEDURE 1252 1274	orotracheální intubace
+T4	PROCEDURE 1316 1397	léčba pralidoximem (12 g/den) a atropinem (20 mg/den), obojí v kontinuální infuzi
+T5	PROCEDURE 1752 1768	enterální výživa
+T6	PROCEDURE 2076 2082	sedace
+T7	PROCEDURE 2360 2400	léčbě pralidoximem v kontinuální perfuzi
+T8	PROCEDURE 2701 2721	mechanické ventilaci
+T9	PROCEDURE 2723 2743	mechanická ventilace
+T10	PROCEDURE 2795 2820	postupné odpojování od MV
+T11	PROCEDURE 3074 3094	toleruje odpojení MV
+T12	PROCEDURE 3106 3114	extubaci

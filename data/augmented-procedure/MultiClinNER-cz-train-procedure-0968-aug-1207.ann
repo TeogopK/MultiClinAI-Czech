@@ -1,0 +1,52 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 291 309	chirurgický zákrok
+T3	PROCEDURE 576 597	protizánětlivými léky
+T4	PROCEDURE 862 899	základní kardiopulmonální resuscitaci
+T5	PROCEDURE 901 904	KPR
+T6	PROCEDURE 1049 1062	pokročilé KPR
+T7	PROCEDURE 1065 1087	orotracheální intubací
+T8	PROCEDURE 1090 1121	invazivní mechanickou ventilací
+T9	PROCEDURE 1132 1149	elektrokardiogram
+T10	PROCEDURE 1151 1154	EKG
+T11	PROCEDURE 1218 1248	nebyl aktivován infarktový kód
+T12	PROCEDURE 1317 1336	Fyzikální vyšetření
+T13	PROCEDURE 1492 1505	Sedoanalgezie
+T14	PROCEDURE 1518 1549	invazivní mechanickou ventilaci
+T15	PROCEDURE 1606 1622	Auskultace srdce
+T16	PROCEDURE 1673 1688	Auskultace plic
+T17	PROCEDURE 1811 1823	Krevní obraz
+T18	PROCEDURE 1919 1928	Biochemie
+T19	PROCEDURE 2055 2070	Lipidový profil
+T20	PROCEDURE 2380 2389	Koagulace
+T21	PROCEDURE 2536 2559	Arteriální krevní plyny
+T22	PROCEDURE 2622 2625	EKG
+T23	PROCEDURE 2774 2797	Angio-CT plicních tepen
+T24	PROCEDURE 2860 2892	CT vyšetření lebky bez kontrastu
+T25	PROCEDURE 2938 2952	Echokardiogram
+T26	PROCEDURE 3179 3193	Koronarografie
+T27	PROCEDURE 3384 3470	Perkutánní koronární intervence do LAD: zavedena intraaortální balónková kontrapulzace
+T28	PROCEDURE 3520 3524	IVUS
+T29	PROCEDURE 3566 3654	implantovány tři stenty uvolňující léčivo z distálního úseku LAD do ostiálního úseku LAD
+T30	PROCEDURE 3700 3741	Echokardiografické vyšetření s kontrastem
+T31	PROCEDURE 3917 3920	EKG
+T32	PROCEDURE 3921 3951	aktivován žádný infarktový kód
+T33	PROCEDURE 4048 4055	CT plic
+T34	PROCEDURE 4058 4066	CT lebky
+T35	PROCEDURE 4085 4101	echokardiografie
+T36	PROCEDURE 4185 4193	sedovaná
+T37	PROCEDURE 4195 4237	perfundovaná nízkými dávkami noradrenalinu
+T38	PROCEDURE 4427 4441	echokardiogram
+T39	PROCEDURE 4566 4569	EKG
+T40	PROCEDURE 4627 4650	urgentní koronarografie
+T41	PROCEDURE 4770 4875	implantovány tři lékové stenty s dobrými angiografickými výsledky a intraaortální balónková kontrapulzace
+T42	PROCEDURE 4877 4881	IABP
+T43	PROCEDURE 4947 4978	vysazení aminové podpory a IABP
+T44	PROCEDURE 5264 5285	neurohormonální léčba
+T45	PROCEDURE 5286 5330	inhibitory angiotenzin konvertujícího enzymu
+T46	PROCEDURE 5332 5346	ACE inhibitory
+T47	PROCEDURE 5350 5363	betablokátory
+T48	PROCEDURE 5390 5419	echokardiografickém vyšetření
+T49	PROCEDURE 5524 5551	kontrastní echokardiografií
+T50	PROCEDURE 5679 5708	trojitá antitrombotická léčba
+T51	PROCEDURE 5720 5744	protidestičkovou terapií
+T52	PROCEDURE 6166 6252	implantací tří překrývajících se stentů s obsahem léků od distální LAD po ostiální LAD

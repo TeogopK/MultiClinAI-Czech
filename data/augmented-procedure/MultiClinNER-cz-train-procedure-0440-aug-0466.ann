@@ -1,0 +1,12 @@
+T1	PROCEDURE 91 110	Fyzikální vyšetření
+T2	PROCEDURE 204 221	provedena biopsie
+T3	PROCEDURE 258 270	CT vyšetření
+T4	PROCEDURE 359 371	krevní testy
+T5	PROCEDURE 529 546	chemoradioterapií
+T6	PROCEDURE 566 597	hyperfrakcionované radioterapie
+T7	PROCEDURE 772 791	fyzikální vyšetření
+T8	PROCEDURE 794 806	CT vyšetření
+T9	PROCEDURE 1073 1085	Gastroskopie
+T10	PROCEDURE 1218 1225	biopsie
+T11	PROCEDURE 1351 1360	transfuze
+T12	PROCEDURE 1459 1517	paliativní radioterapeutická léčba s hemostatickým záměrem

@@ -1,0 +1,43 @@
+T1	PROCEDURE 117 129	chemoterapií
+T2	PROCEDURE 131 153	analog 5-fluorouracilu
+T3	PROCEDURE 157 182	předoperační radioterapií
+T4	PROCEDURE 208 215	operací
+T5	PROCEDURE 220 227	operaci
+T6	PROCEDURE 229 256	abdominoperineální amputace
+T7	PROCEDURE 343 361	úvodu do anestezie
+T8	PROCEDURE 417 435	sedoanalgetizována
+T9	PROCEDURE 437 447	intubována
+T10	PROCEDURE 450 464	napojena na MV
+T11	PROCEDURE 603 613	extubována
+T12	PROCEDURE 742 758	pulzní oxymetrie
+T13	PROCEDURE 779 811	neinvazivní mechanická ventilace
+T14	PROCEDURE 813 816	NIV
+T15	PROCEDURE 918 930	reintubována
+T16	PROCEDURE 991 1002	antipyretik
+T17	PROCEDURE 1039 1102	mikrobiologické vzorky (kultivace krve, moči a bronchoaspirátu)
+T18	PROCEDURE 1063 1077	kultivace krve
+T19	PROCEDURE 1063 1083	kultivace krve, moči
+T20	PROCEDURE 1086 1101	bronchoaspirátu
+T21	PROCEDURE 1104 1122	Antibiotická léčba
+T22	PROCEDURE 1301 1311	intubována
+T23	PROCEDURE 1314 1328	napojena na MV
+T24	PROCEDURE 1397 1410	radiologickým
+T25	PROCEDURE 1457 1481	mikrobiologickými odběry
+T26	PROCEDURE 1498 1507	CT břicha
+T27	PROCEDURE 1543 1550	operace
+T28	PROCEDURE 1567 1577	extubována
+T29	PROCEDURE 1606 1620	krevními plyny
+T30	PROCEDURE 1642 1665	spontánní dechové testy
+T31	PROCEDURE 1704 1712	extubace
+T32	PROCEDURE 1833 1842	kultivace
+T33	PROCEDURE 1865 1910	fibrobronchoskopie s bronchoalveolární laváží
+T34	PROCEDURE 1912 1915	BAL
+T35	PROCEDURE 1919 1956	vzorky byly odeslány na mikrobiologii
+T36	PROCEDURE 1958 1967	kultivace
+T37	PROCEDURE 1970 2006	PCR na herpes, CMV a respirační viry
+T38	PROCEDURE 2010 2031	patologickou anatomii
+T39	PROCEDURE 2048 2072	perkutánní tracheostomie
+T40	PROCEDURE 2093 2096	BAL
+T41	PROCEDURE 2162 2174	histologicky
+T42	PROCEDURE 2359 2375	antivirová léčba
+T43	PROCEDURE 2447 2480	postupným odpojováním respirátoru

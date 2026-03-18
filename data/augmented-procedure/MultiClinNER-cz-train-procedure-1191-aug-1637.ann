@@ -1,0 +1,76 @@
+T1	PROCEDURE 34 113	resynchronizačním kardiostimulátorem, která byla přijata k odstranění přístroje
+T2	PROCEDURE 173 192	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 344 374	otevřenou mitrální komezitomií
+T4	PROCEDURE 491 509	výměnou generátoru
+T5	PROCEDURE 544 572	Echokardiografické vyšetření
+T6	PROCEDURE 915 950	mechanická náhrada mitrální chlopně
+T7	PROCEDURE 953 980	trikuspidální anuloplastika
+T8	PROCEDURE 1015 1035	echokardiografickému
+T9	PROCEDURE 1372 1402	srdeční resynchronizační léčbu
+T10	PROCEDURE 1485 1511	dopplerovské vyšetření TSA
+T11	PROCEDURE 1532 1576	Totální hysterektomie + dvojitá adnexektomie
+T12	PROCEDURE 1803 1835	srdeční resynchronizační terapii
+T13	PROCEDURE 1837 1840	CRT
+T14	PROCEDURE 1951 1957	drenáž
+T15	PROCEDURE 1971 1981	dehiscencí
+T16	PROCEDURE 2000 2011	debridement
+T17	PROCEDURE 2014 2031	přiblížení okrajů
+T18	PROCEDURE 2121 2156	subpektorální implantace generátoru
+T19	PROCEDURE 2182 2205	chirurgický debridement
+T20	PROCEDURE 2243 2262	kardiochirurgických
+T21	PROCEDURE 2511 2526	kardiochirurgem
+T22	PROCEDURE 2669 2690	zobrazovací vyšetření
+T23	PROCEDURE 2725 2743	antibiotické léčby
+T24	PROCEDURE 2746 2784	odstranění resynchronizačního zařízení
+T25	PROCEDURE 2825 2844	FYZIKÁLNÍ VYŠETŘENÍ
+T26	PROCEDURE 3078 3094	Auskultace srdce
+T27	PROCEDURE 3122 3137	Auskultace plic
+T28	PROCEDURE 3330 3333	EKG
+T29	PROCEDURE 3451 3456	ionty
+T30	PROCEDURE 3536 3545	Koagulace
+T31	PROCEDURE 3558 3589	Transtorakální echokardiografie
+T32	PROCEDURE 3591 3594	TTE
+T33	PROCEDURE 4222 4255	Transezofageální echokardiografie
+T34	PROCEDURE 4257 4260	TEE
+T35	PROCEDURE 4632 4661	POSITRONOVÁ EMISNÍ TOMOGRAFIE
+T36	PROCEDURE 4663 4669	PET/CT
+T37	PROCEDURE 6584 6604	mediální sternotomie
+T38	PROCEDURE 7219 7245	ANGIO-CT koronárních tepen
+T39	PROCEDURE 7704 7723	Střední sternotomie
+T40	PROCEDURE 7726 7749	trojitá náhrada chlopně
+T41	PROCEDURE 8009 8034	MIKROBIOLOGICKÉ VYŠETŘENÍ
+T42	PROCEDURE 8036 8050	Kultivace krve
+T43	PROCEDURE 8077 8095	Panbakteriální PCR
+T44	PROCEDURE 8126 8142	Krevní kultivace
+T45	PROCEDURE 8255 8264	kulturách
+T46	PROCEDURE 8275 8293	antibiotické léčbě
+T47	PROCEDURE 8295 8322	Kultivace cévního materiálu
+T48	PROCEDURE 8516 8530	krevní kultury
+T49	PROCEDURE 8553 8588	vyjmutí kardiostimulačního zařízení
+T50	PROCEDURE 8761 8783	resynchronizační léčbu
+T51	PROCEDURE 9096 9153	reimplantace nového srdečního resynchronizačního zařízení
+T52	PROCEDURE 9198 9231	srdeční resynchronizační zařízení
+T53	PROCEDURE 9291 9311	antibiotickou léčbou
+T54	PROCEDURE 9407 9428	reaktantů akutní fáze
+T55	PROCEDURE 9595 9616	odběru krevní kultury
+T56	PROCEDURE 9631 9649	antibiotická léčba
+T57	PROCEDURE 9668 9686	antibiotické léčbě
+T58	PROCEDURE 9945 9982	odstranění resynchronizačního systému
+T59	PROCEDURE 9983 10037	implantován přechodný pravý jugulární kardiostimulátor
+T60	PROCEDURE 10053 10092	reimplantaci trvalého kardiostimulátoru
+T61	PROCEDURE 10281 10318	výměnu přechodné stimulační elektrody
+T62	PROCEDURE 10321 10364	umístěním dočasné aktivní fixační elektrody
+T63	PROCEDURE 10485 10502	diuretickou léčbu
+T64	PROCEDURE 10585 10606	antibiotického režimu
+T65	PROCEDURE 10613 10657	reimplantace definitivního kardiostimulátoru
+T66	PROCEDURE 10726 10744	antibiotické léčby
+T67	PROCEDURE 10757 10772	krevní kulturou
+T68	PROCEDURE 10785 10832	implantace resynchronizačního kardiostimulátoru
+T69	PROCEDURE 10941 11016	umístěna pouze jedna RV elektroda připojená k resynchronizačnímu generátoru
+T70	PROCEDURE 11073 11106	intravenózní antibiotická terapie
+T71	PROCEDURE 11204 11218	echokardiogram
+T72	PROCEDURE 11307 11321	antikoagulační
+T73	PROCEDURE 11577 11614	srdečního resynchronizačního zařízení
+T74	PROCEDURE 11616 11669	Odstranění celého systému (generátoru a RV a LV svodů
+T75	PROCEDURE 11672 11727	Implantace přechodného pravostranného kardiostimulátoru
+T76	PROCEDURE 11729 11811	Implantace resynchronizačního generátoru a pravostranné RV elektrody ve druhé fázi

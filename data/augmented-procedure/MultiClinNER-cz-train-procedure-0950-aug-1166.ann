@@ -1,0 +1,39 @@
+T1	PROCEDURE 123 142	fyzikální vyšetření
+T2	PROCEDURE 243 269	Dyslipidemie léčená dietou
+T3	PROCEDURE 486 508	chirurgické intervenci
+T4	PROCEDURE 510 526	cholecystektomie
+T5	PROCEDURE 529 557	plastika pravé tříselné kýly
+T6	PROCEDURE 874 891	elektrokardiogram
+T7	PROCEDURE 1244 1248	PTCA
+T8	PROCEDURE 1527 1546	fyzikální vyšetření
+T9	PROCEDURE 1732 1759	kardiopulmonální auskultaci
+T10	PROCEDURE 2141 2144	EKG
+T11	PROCEDURE 2362 2411	odebrány vzorky na sériovou kultivaci krve a moči
+T12	PROCEDURE 2390 2404	kultivaci krve
+T13	PROCEDURE 2407 2411	moči
+T14	PROCEDURE 2445 2476	Transtorakální echokardiografie
+T15	PROCEDURE 2746 2758	dopplerovské
+T16	PROCEDURE 2772 2784	analytického
+T17	PROCEDURE 2888 2891	EKG
+T18	PROCEDURE 3047 3059	Krevní obraz
+T19	PROCEDURE 3183 3192	Biochemie
+T20	PROCEDURE 3301 3327	Markery poškození myokardu
+T21	PROCEDURE 3407 3418	hemokultury
+T22	PROCEDURE 3456 3470	Kultivace moči
+T23	PROCEDURE 3503 3538	Přenosný rentgenový snímek hrudníku
+T24	PROCEDURE 3612 3643	transtorakální echokardiografie
+T25	PROCEDURE 4255 4274	Srdeční katetrizace
+T26	PROCEDURE 4860 4864	PTCA
+T27	PROCEDURE 4894 4908	tromboaspirace
+T28	PROCEDURE 4911 4946	přímá implantace konvenčního stentu
+T29	PROCEDURE 5392 5410	antibiotické léčby
+T30	PROCEDURE 5479 5494	krevních kultur
+T31	PROCEDURE 5668 5686	krevních kulturách
+T32	PROCEDURE 5692 5712	antibiotická terapie
+T33	PROCEDURE 5838 5854	echokardiografie
+T34	PROCEDURE 6036 6063	perorálních kortikosteroidů
+T35	PROCEDURE 6237 6256	zánětlivých markerů
+T36	PROCEDURE 6258 6274	echokardiografie
+T37	PROCEDURE 6427 6465	zužujícím se kortikosteroidním režimem
+T38	PROCEDURE 6521 6524	PCI
+T39	PROCEDURE 6527 6590	implantaci konvenčního stentu (x2) do proximálního segmentu LAD

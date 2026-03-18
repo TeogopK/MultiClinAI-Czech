@@ -1,0 +1,23 @@
+T1	SYMPTOM 78 87	zvracením
+T2	SYMPTOM 89 106	odmítáním potravy
+T3	SYMPTOM 125 141	nadýmáním břicha
+T4	SYMPTOM 318 336	dobrý celkový stav
+T5	SYMPTOM 339 362	bledostí kůže a sliznic
+T6	SYMPTOM 365 414	generalizovaným otokem, převážně dolních končetin
+T7	SYMPTOM 440 484	polyfokální systolický šelest IV./VI. stupně
+T8	SYMPTOM 486 542	Břicho bylo nafouklé, s přítomností povrchové žilní sítě
+T9	SYMPTOM 545 551	ascitu
+T10	SYMPTOM 617 628	leukocytózu
+T11	SYMPTOM 700 734	zvýšený cholesterol a triglyceridy
+T12	SYMPTOM 737 774	sníženou celkovou bílkovinu a albumin
+T13	SYMPTOM 782 794	hyponatrémie
+T14	SYMPTOM 796 807	hypokalémie
+T15	SYMPTOM 810 822	hypokalcémie
+T16	SYMPTOM 824 853	Parathormon byl mírně zvýšený
+T17	SYMPTOM 855 898	Proteinurie moči byla v nefrotickém rozmezí
+T18	SYMPTOM 1397 1433	mutace typu Frameshift pro gen NPHS1
+T19	SYMPTOM 1435 1465	Intronic Variant pro gen NPHS2
+T20	SYMPTOM 1468 1488	Missense pro gen WT1
+T21	SYMPTOM 1564 1583	těžkou hypokalcémií
+T22	SYMPTOM 2023 2029	zemřel
+T23	SYMPTOM 2173 2182	hypoxémie

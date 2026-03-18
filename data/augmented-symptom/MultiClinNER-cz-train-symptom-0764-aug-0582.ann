@@ -1,0 +1,66 @@
+T1	SYMPTOM 375 436	počítačové tomografie (CT) lebky, jež bylo shledáno normálním
+T2	SYMPTOM 802 818	intenzivní horko
+T3	SYMPTOM 821 828	závratě
+T4	SYMPTOM 832 846	ztrátou vědomí
+T5	SYMPTOM 906 929	tonicko-klonické pohyby
+T6	SYMPTOM 934 950	uvolnění svěračů
+T7	SYMPTOM 961 975	asymptomatický
+T8	SYMPTOM 992 1007	bolest na hrudi
+T9	SYMPTOM 1012 1021	palpitace
+T10	SYMPTOM 1029 1036	dušnost
+T11	SYMPTOM 1166 1176	Při vědomí
+T12	SYMPTOM 1179 1190	orientovaný
+T13	SYMPTOM 1192 1201	Eupnoický
+T14	SYMPTOM 1203 1239	Kardiopulmonální auskultace normální
+T15	SYMPTOM 1241 1267	Dolní končetiny: bez otoků
+T16	SYMPTOM 1269 1294	Hmatné a symetrické pulzy
+T17	SYMPTOM 1338 1353	sinusový rytmus
+T18	SYMPTOM 1380 1388	úzké QRS
+T19	SYMPTOM 1390 1413	asymetrické negativní T
+T20	SYMPTOM 1510 1528	posun srdce doleva
+T21	SYMPTOM 1530 1559	Setření pravé srdeční hranice
+T22	SYMPTOM 1880 1952	defekty replece v hlavních, lobárních ani segmentálních plicních tepnách
+T23	SYMPTOM 2043 2054	infiltrátům
+T24	SYMPTOM 2056 2063	uzlinám
+T25	SYMPTOM 2106 2156	levá komora (LK) není dilatovaná ani hypertrofická
+T26	SYMPTOM 2160 2175	zachovanou LVEF
+T27	SYMPTOM 2297 2323	Nedilatovaná levá síň (LS)
+T28	SYMPTOM 2493 2515	hypokinezí volné stěny
+T29	SYMPTOM 2518 2546	akinezí-dyskinezí na vrcholu
+T30	SYMPTOM 2548 2595	Kořen aorty a vzestupná aorta nebyly dilatovány
+T31	SYMPTOM 2597 2646	Třícípá aortální chlopeň se zachovaným otevíráním
+T32	SYMPTOM 2648 2700	Mitrální a trikuspidální chlopeň normální morfologie
+T33	SYMPTOM 2702 2739	Dolní dutá žíla (IVC) není dilatovaná
+T34	SYMPTOM 2850 2877	Normální diastolická funkce
+T35	SYMPTOM 3069 3105	Negativní studie průměrování signálu
+T36	SYMPTOM 3181 3197	nedilatovanou LK
+T37	SYMPTOM 3198 3224	s normální tloušťkou stěny
+T38	SYMPTOM 3227 3260	normální globální i regionální EF
+T39	SYMPTOM 3262 3273	Normální LK
+T40	SYMPTOM 3275 3293	RA není dilatovaná
+T41	SYMPTOM 3295 3313	RV není dilatovaná
+T42	SYMPTOM 3340 3410	Na úrovni výtokového traktu RV velmi lokalizovaná hypokinetická oblast
+T43	SYMPTOM 3497 3536	Posun srdce směrem k levému hemithoraxu
+T44	SYMPTOM 3548 3575	horizontalizací srdeční osy
+T45	SYMPTOM 3611 3615	edém
+T46	SYMPTOM 3617 3677	Perfuzní sekvence neprokazují žádné defekty prvního průchodu
+T47	SYMPTOM 3679 3734	V sekvencích viability nebylo pozorováno žádné zesílení
+T48	SYMPTOM 3793 3823	Plíce s normální vaskularizací
+T49	SYMPTOM 3929 3940	Normální LK
+T50	SYMPTOM 3942 3960	RV není dilatovaná
+T51	SYMPTOM 3964 3975	hraniční EF
+T52	SYMPTOM 4032 4076	Elektrofyziologická studie: Negativní studie
+T53	SYMPTOM 4225 4248	normální srdeční dutiny
+T54	SYMPTOM 4250 4276	Předsíně nejsou dilatované
+T55	SYMPTOM 4278 4332	Aortální chlopeň: trikuspidální, morfologicky normální
+T56	SYMPTOM 4334 4373	Mitrální chlopeň: morfologicky normální
+T57	SYMPTOM 4404 4420	Dominance: pravá
+T58	SYMPTOM 4422 4449	Normální koronární anatomie
+T59	SYMPTOM 4482 4520	Rotace srdeční siluety doleva a dozadu
+T60	SYMPTOM 4829 4840	negativní t
+T61	SYMPTOM 4873 4907	obrazem aneuryzmatu v pravé komoře
+T62	SYMPTOM 4977 5013	pravá komora byla normální velikosti
+T63	SYMPTOM 5082 5096	asymptomatický
+T64	SYMPTOM 5099 5107	stabilní
+T65	SYMPTOM 5113 5120	závratí
+T66	SYMPTOM 5844 5883	Negativní elektrofyziologické vyšetření

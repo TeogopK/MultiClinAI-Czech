@@ -1,0 +1,35 @@
+T1	DISEASE 41 55	lékové alergie
+T2	DISEASE 93 110	Behçetova choroba
+T3	DISEASE 112 142	plicní aneurysma v pravé plíci
+T4	DISEASE 166 188	Chronická hepatitida B
+T5	DISEASE 433 444	pre/synkopy
+T6	DISEASE 437 444	synkopy
+T7	DISEASE 844 857	organomegalie
+T8	DISEASE 894 916	hluboké žilní trombózy
+T9	DISEASE 940 966	AV blokáda vysokého stupně
+T10	DISEASE 1012 1084	Bifascikulární blok (BRDHH + HAI) s ventrikulofázickou sinusovou arytmií
+T11	DISEASE 1033 1038	BRDHH
+T12	DISEASE 1041 1044	HAI
+T13	DISEASE 1048 1084	ventrikulofázickou sinusovou arytmií
+T14	DISEASE 1111 1144	akutní pleuropulmonální patologie
+T15	DISEASE 1320 1369	Anulární kalcifikace vystupující na siluetu srdce
+T16	DISEASE 1691 1769	Trojcípá aortální chlopeň, s dobrým otevíráním a mírnou centrální insuficiencí
+T17	DISEASE 1835 1867	diastolická mitrální regurgitace
+T18	DISEASE 1965 1991	trikuspidální insuficience
+T19	DISEASE 1999 2020	perikardiální výpotek
+T20	DISEASE 2068 2122	Přední sestupný: kalcifikovaná aneuryzmatická dilatace
+T21	DISEASE 2171 2279	Cirkumflexní: velká aneuryzmatická dilatace na proximální úrovni, kalcifikovaná, s částečnou trombózou lumen
+T22	DISEASE 2386 2409	aneuryzmatická dilatace
+T23	DISEASE 2425 2499	koronární vakovitá aneuryzmata v cirkumflexní tepně (částečně trombózovaná
+T24	DISEASE 2588 2613	dysplastickém úseku tepny
+T25	DISEASE 2678 2706	AV blokádu 2:1 s širokým QRS
+T26	DISEASE 2752 2778	námahovou anginou pectoris
+T27	DISEASE 2827 2891	přední sestupnou tepnu s kalcifikovanou aneuryzmatickou dilatací
+T28	DISEASE 2943 3045	proximální cirkumflexní tepnu s velkou aneuryzmatickou dilatací, kalcifikovanou, s částečnou trombózou
+T29	DISEASE 3589 3612	infra-Hisovu AV blokádu
+T30	DISEASE 3844 3846	VF
+T31	DISEASE 4215 4246	předního sestupného aneuryzmatu
+T32	DISEASE 4320 4335	behçetova nemoc
+T33	DISEASE 4337 4383	Infra-Hisianova atrioventrikulární blokáda 2:1
+T34	DISEASE 4443 4503	Ischemická choroba srdeční v důsledku koronárních aneuryzmat
+T35	DISEASE 4607 4638	předního sestupného aneuryzmatu

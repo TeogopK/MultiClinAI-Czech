@@ -1,0 +1,54 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	OSOBNÍ ANAMNÉZA
+T4	PROCEDURE 112 128	rodinná anamnéza
+T5	PROCEDURE 439 461	Kardiologická anamnéza
+T6	PROCEDURE 580 591	katetrizace
+T7	PROCEDURE 737 757	koronární intervence
+T8	PROCEDURE 759 762	PCI
+T9	PROCEDURE 773 790	potahované stenty
+T10	PROCEDURE 903 952	perkutánní transluminální koronární angioplastiku
+T11	PROCEDURE 954 958	PTCA
+T12	PROCEDURE 1024 1035	katetrizace
+T13	PROCEDURE 1049 1052	PCI
+T14	PROCEDURE 1055 1088	implantací dvou potažených stentů
+T15	PROCEDURE 1162 1190	Echokardiografické vyšetření
+T16	PROCEDURE 1442 1463	protidestičková léčba
+T17	PROCEDURE 1683 1698	osobní anamnéza
+T18	PROCEDURE 1874 1882	anamnéza
+T19	PROCEDURE 2037 2058	Psychosociální profil
+T20	PROCEDURE 2406 2428	Antiretrovirální léčba
+T21	PROCEDURE 2539 2561	kardiální rehabilitace
+T22	PROCEDURE 2616 2635	FYZIKÁLNÍ VYŠETŘENÍ
+T23	PROCEDURE 2855 2858	EKG
+T24	PROCEDURE 2973 2988	Spiroergometrie
+T25	PROCEDURE 3009 3035	submaximální zátěžový test
+T26	PROCEDURE 3853 3862	biochemie
+T27	PROCEDURE 3865 3877	krevní obraz
+T28	PROCEDURE 3927 3944	laboratorní testy
+T29	PROCEDURE 4175 4188	profil železa
+T30	PROCEDURE 4192 4204	krevní obraz
+T31	PROCEDURE 4338 4351	Funkce ledvin
+T32	PROCEDURE 4406 4420	echokardiogram
+T33	PROCEDURE 4677 4692	spiroergometrie
+T34	PROCEDURE 4744 4755	spirometrie
+T35	PROCEDURE 4757 4780	Maximální zátěžový test
+T36	PROCEDURE 5263 5277	vyšetření krve
+T37	PROCEDURE 5900 5924	aerobní a silový trénink
+T38	PROCEDURE 5938 5960	monitorován telemetrií
+T39	PROCEDURE 6035 6049	Koronarografie
+T40	PROCEDURE 6564 6593	echokardiografickém vyšetření
+T41	PROCEDURE 6705 6727	kardiální rehabilitace
+T42	PROCEDURE 6750 6765	spiroergometrie
+T43	PROCEDURE 7117 7135	lipidového profilu
+T44	PROCEDURE 7285 7347	léčby inhibitory proprotein konvertázy subtilizin/kexin typu 9
+T45	PROCEDURE 7349 7355	iPCSK9
+T46	PROCEDURE 7551 7560	vyšetření
+T47	PROCEDURE 7573 7585	léčby iPCSK9
+T48	PROCEDURE 7595 7610	lipidový profil
+T49	PROCEDURE 7635 7652	kontrolní analýza
+T50	PROCEDURE 7816 7840	ultracentrifugace lipidů
+T51	PROCEDURE 8191 8226	Revaskularizace potahovanými stenty
+T52	PROCEDURE 8343 8364	antiretrovirové léčbě
+T53	PROCEDURE 8418 8440	kardiální rehabilitace
+T54	PROCEDURE 8770 8798	duální antiagregační terapie

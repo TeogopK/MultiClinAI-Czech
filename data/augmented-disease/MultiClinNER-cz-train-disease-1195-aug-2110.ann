@@ -1,0 +1,77 @@
+T1	DISEASE 257 275	vysoký krevní tlak
+T2	DISEASE 293 300	Obezita
+T3	DISEASE 326 366	Paroxyzmální paroxyzmální fibrilace síní
+T4	DISEASE 368 372	FiSi
+T5	DISEASE 533 575	atrioventrikulární blokády prvního stupně.
+T6	DISEASE 731 795	nedilatovaná levá komora (LK) s mírnou koncentrickou hypertrofií
+T7	DISEASE 953 980	onemocnění aortální chlopně
+T8	DISEASE 1047 1071	Mírná dilatace levé síně
+T9	DISEASE 1073 1100	Mírná mitrální insuficience
+T10	DISEASE 1102 1134	Mírná trikuspidální insuficience
+T11	DISEASE 1340 1347	Artróza
+T12	DISEASE 1349 1367	Depresivní syndrom
+T13	DISEASE 2689 2707	akutní plicní edém
+T14	DISEASE 2734 2756	rychlou fibrilaci síní
+T15	DISEASE 3224 3240	srdce: arytmická
+T16	DISEASE 4696 4700	FiSi
+T17	DISEASE 5040 5053	kardiomegalie
+T18	DISEASE 5194 5237	Středně dilatovaná LK s těžkou dysfunkcí LK
+T19	DISEASE 5383 5416	PK s mírnou systolickou dysfunkcí
+T20	DISEASE 5431 5530	Mírná-středně těžká mitrální insuficience smíšeného degenerativního původu a sekundární dilatace LK
+T21	DISEASE 5532 5600	Trojcípá aortální chlopeň s mírnou kalcifikací volného okraje lístků
+T22	DISEASE 5638 5659	aortální insuficience
+T23	DISEASE 5661 5664	AIo
+T24	DISEASE 5667 5707	Středně těžká trikuspidální insuficience
+T25	DISEASE 7766 7813	Atrioventrikulární blokáda (AVB) prvního stupně
+T26	DISEASE 7794 7797	AVB
+T27	DISEASE 7915 7919	FiSi
+T28	DISEASE 8422 8453	polymorfní komorové tachykardie
+T29	DISEASE 8618 8661	Středně dilatovaná LK s těžkou dysfunkcí LK
+T30	DISEASE 8807 8834	PK se systolickou dysfunkcí
+T31	DISEASE 8848 8947	Mírná-středně těžká mitrální insuficience smíšeného degenerativního původu a sekundární dilatace LK
+T32	DISEASE 8949 9017	Trojcípá aortální chlopeň s mírnou kalcifikací volného okraje lístků
+T33	DISEASE 9055 9058	AIo
+T34	DISEASE 9060 9079	Mírně dilatovaná LS
+T35	DISEASE 9081 9121	Středně těžká trikuspidální insuficience
+T36	DISEASE 9301 9305	FiSi
+T37	DISEASE 9520 9546	Středně těžká dysfunkce LK
+T38	DISEASE 9596 9648	Smíšená mírná až středně těžká mitrální insuficience
+T39	DISEASE 9650 9718	Trojcípá aortální chlopeň s mírnou kalcifikací volného okraje lístků
+T40	DISEASE 9756 9759	AoI
+T41	DISEASE 9761 9780	Mírně dilatovaná LS
+T42	DISEASE 9782 9808	Trikuspidální insuficience
+T43	DISEASE 9884 9905	mitrální insuficience
+T44	DISEASE 9946 10016	LK normální velikosti s lehkou systolickou až středně těžkou dysfunkcí
+T45	DISEASE 10240 10259	tachykardiomyopatie
+T46	DISEASE 10321 10343	posuvná hiátová hernie
+T47	DISEASE 10361 10380	tachykardiomyopatie
+T48	DISEASE 10489 10554	akutní plicní edém sekundární k FiSi s rychlou komorovou odpovědí
+T49	DISEASE 10793 10824	polymorfní komorové tachykardie
+T50	DISEASE 10948 10964	komorové arytmie
+T51	DISEASE 11269 11291	ischemickou hepatitidu
+T52	DISEASE 11371 11397	akutního srdečního selhání
+T53	DISEASE 11665 11691	těžkou komorovou dysfunkci
+T54	DISEASE 11782 11786	FiSi
+T55	DISEASE 12023 12044	dysfunkce levé komory
+T56	DISEASE 12066 12085	tachykardiomyopatie
+T57	DISEASE 12140 12183	oligosymptomatického koronárního vazospazmu
+T58	DISEASE 12216 12262	trvalými polymorfními komorovými tachykardiemi
+T59	DISEASE 12655 12680	vazospastickými epizodami
+T60	DISEASE 12760 12773	těžké deprese
+T61	DISEASE 13027 13058	Akutní městnavé srdeční selhání
+T62	DISEASE 13061 13083	akutním plicním edémem
+T63	DISEASE 13085 13129	Perzistující AF s rychlou komorovou odpovědí
+T64	DISEASE 13169 13243	Tachykardiomyopatie se středně těžkou postkardioverzní komorovou dysfunkcí
+T65	DISEASE 13245 13283	Trvalá polymorfní komorová tachykardie
+T66	DISEASE 13285 13303	torsade de pointes
+T67	DISEASE 13306 13315	Dlouhé QT
+T68	DISEASE 13334 13355	Koronární vazospazmus
+T69	DISEASE 13357 13386	Prinzmetalova angina pectoris
+T70	DISEASE 13390 13407	komorovou arytmií
+T71	DISEASE 13409 13427	Akutní bronchitida
+T72	DISEASE 13439 13457	respirační infekce
+T73	DISEASE 13459 13480	Ischemická hepatitida
+T74	DISEASE 13482 13494	cholelitiázu
+T75	DISEASE 13496 13545	Velká depresivní porucha s psychotickými příznaky
+T76	DISEASE 13547 13606	Nesnášenlivost inhibitorů angiotenzin konvertujícího enzymu
+T77	DISEASE 13625 13674	Kontraindikace beta-blokátorů z důvodu vazospazmu

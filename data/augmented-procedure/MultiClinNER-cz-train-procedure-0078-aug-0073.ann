@@ -1,0 +1,19 @@
+T1	PROCEDURE 253 266	klidový režim
+T2	PROCEDURE 269 279	analgetika
+T3	PROCEDURE 371 380	analgezii
+T4	PROCEDURE 658 675	celkové prohlídce
+T5	PROCEDURE 814 834	fyzikálním vyšetření
+T6	PROCEDURE 1201 1213	Krevní testy
+T7	PROCEDURE 1374 1395	Ultrasonografie kyčlí
+T8	PROCEDURE 1398 1425	rentgenové vyšetření břicha
+T9	PROCEDURE 1534 1556	intravenózní analgezii
+T10	PROCEDURE 1597 1647	hluboké palpaci v hypogastriu a pravé kyčelní jámě
+T11	PROCEDURE 1716 1732	ultrazvuk břicha
+T12	PROCEDURE 1848 1866	rentgenem hrudníku
+T13	PROCEDURE 1869 1893	testovacím proužkem moči
+T14	PROCEDURE 2041 2056	vyšetření kostí
+T15	PROCEDURE 2287 2325	vyšetření magnetickou rezonancí břicha
+T16	PROCEDURE 2405 2419	Kultivace krve
+T17	PROCEDURE 2443 2466	punkci abscesu na hlavě
+T18	PROCEDURE 2537 2557	antibiotická terapie
+T19	PROCEDURE 2678 2697	chirurgické drenáže

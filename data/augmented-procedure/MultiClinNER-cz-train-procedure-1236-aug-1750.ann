@@ -1,0 +1,54 @@
+T1	PROCEDURE 142 163	genetickým vyšetřením
+T2	PROCEDURE 206 230	testována na tuto mutaci
+T3	PROCEDURE 685 730	kontinuálního monitorování elektrokardiogramu
+T4	PROCEDURE 732 735	EKG
+T5	PROCEDURE 774 790	echokardiografie
+T6	PROCEDURE 857 899	test na detekci ischemie pomocí ergometrie
+T7	PROCEDURE 1088 1118	hygienicko-dietních opatřeních
+T8	PROCEDURE 1515 1558	kardiopulmonální resuscitační (KPR) manévry
+T9	PROCEDURE 1546 1549	KPR
+T10	PROCEDURE 1593 1603	monitoraci
+T11	PROCEDURE 1639 1650	defibrilací
+T12	PROCEDURE 1691 1713	orotracheální intubaci
+T13	PROCEDURE 1715 1718	OTI
+T14	PROCEDURE 1735 1766	invazivní mechanickou ventilaci
+T15	PROCEDURE 1910 1913	EKG
+T16	PROCEDURE 2070 2073	EKG
+T17	PROCEDURE 2107 2121	koronarografie
+T18	PROCEDURE 2181 2192	aortografie
+T19	PROCEDURE 2195 2211	ventrikulografie
+T20	PROCEDURE 2291 2320	echokardiografickém vyšetření
+T21	PROCEDURE 2794 2813	FYZIKÁLNÍ VYŠETŘENÍ
+T22	PROCEDURE 2814 2823	Vyšetření
+T23	PROCEDURE 3028 3044	Auskultace srdce
+T24	PROCEDURE 3280 3297	laboratorní testy
+T25	PROCEDURE 3475 3501	Markery poškození myokardu
+T26	PROCEDURE 3664 3685	laboratorní vyšetření
+T27	PROCEDURE 3687 3696	biochemie
+T28	PROCEDURE 3855 3869	jaterní profil
+T29	PROCEDURE 3952 3960	Hemogram
+T30	PROCEDURE 4032 4064	Katecholaminy ve 24hodinové moči
+T31	PROCEDURE 4077 4089	RTG hrudníku
+T32	PROCEDURE 4152 4155	EKG
+T33	PROCEDURE 4435 4438	EKG
+T34	PROCEDURE 4600 4614	Echokardiogram
+T35	PROCEDURE 5369 5397	Kontinuální monitorování EKG
+T36	PROCEDURE 5447 5467	Urgentní katetrizace
+T37	PROCEDURE 5469 5483	koronarografie
+T38	PROCEDURE 5549 5565	Ventrikulografie
+T39	PROCEDURE 5702 5713	Aortografie
+T40	PROCEDURE 5829 5844	Ajmalinový test
+T41	PROCEDURE 6012 6045	testy katecholaminů v krvi a moči
+T42	PROCEDURE 6067 6079	krevní testy
+T43	PROCEDURE 6121 6138	elektrokardiogram
+T44	PROCEDURE 6265 6275	ergometrie
+T45	PROCEDURE 6300 6315	ajmalinový test
+T46	PROCEDURE 6423 6477	implantaci implantabilního kardioverteru-defibrilátoru
+T47	PROCEDURE 6479 6482	ICD
+T48	PROCEDURE 7075 7086	betablokády
+T49	PROCEDURE 7138 7141	EKG
+T50	PROCEDURE 7166 7185	12svodového Holteru
+T51	PROCEDURE 7658 7681	vysazení beta-blokátoru
+T52	PROCEDURE 7873 7884	výbojem ICD
+T53	PROCEDURE 8555 8569	koronarografie
+T54	PROCEDURE 8900 8914	Implantace ICD

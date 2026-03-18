@@ -1,0 +1,38 @@
+T1	PROCEDURE 0 15	osobní anamnéza
+T2	PROCEDURE 156 178	kardiologická anamnéza
+T3	PROCEDURE 273 284	angiografií
+T4	PROCEDURE 1121 1140	FYZIKÁLNÍ VYŠETŘENÍ
+T5	PROCEDURE 1238 1254	pulzní oxymetrií
+T6	PROCEDURE 1302 1324	Neurologické vyšetření
+T7	PROCEDURE 1341 1357	Auskultace srdce
+T8	PROCEDURE 1386 1401	auskultace plic
+T9	PROCEDURE 1433 1449	Vyšetření břicha
+T10	PROCEDURE 1626 1635	VYŠETŘENÍ
+T11	PROCEDURE 1636 1657	biochemické vyšetření
+T12	PROCEDURE 1756 1768	koagulačních
+T13	PROCEDURE 1783 1791	glykémie
+T14	PROCEDURE 2008 2013	ionty
+T15	PROCEDURE 2030 2039	vyšetření
+T16	PROCEDURE 2040 2050	biomarkerů
+T17	PROCEDURE 2220 2241	Laboratorní parametry
+T18	PROCEDURE 2339 2348	koagulaci
+T19	PROCEDURE 2364 2372	glykémie
+T20	PROCEDURE 2595 2600	ionty
+T21	PROCEDURE 2610 2624	Imunoglobuliny
+T22	PROCEDURE 2627 2637	komplement
+T23	PROCEDURE 2659 2671	Proteinogram
+T24	PROCEDURE 2896 2913	elektrokardiogram
+T25	PROCEDURE 3088 3104	Ultrazvuk břicha
+T26	PROCEDURE 3169 3186	CT břicha a pánve
+T27	PROCEDURE 3399 3408	vyšetření
+T28	PROCEDURE 3437 3456	tomografické nálezy
+T29	PROCEDURE 3638 3652	koronarografie
+T30	PROCEDURE 3655 3681	implantací lékového stentu
+T31	PROCEDURE 3765 3778	angiograficky
+T32	PROCEDURE 3823 3854	transtorakální echokardiografie
+T33	PROCEDURE 3910 3931	protidestičkové léčbě
+T34	PROCEDURE 4056 4086	léčba snižující hladinu lipidů
+T35	PROCEDURE 4619 4640	laboratorní vyšetření
+T36	PROCEDURE 4892 4921	ultrazvukové vyšetření břicha
+T37	PROCEDURE 4924 4933	CT břicha
+T38	PROCEDURE 5535 5549	léčbou statiny

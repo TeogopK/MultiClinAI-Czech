@@ -1,0 +1,49 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 99 114	antikoagulovaná
+T4	PROCEDURE 183 200	echokardiogramech
+T5	PROCEDURE 405 414	vyšetření
+T6	PROCEDURE 429 449	fyzikálním vyšetření
+T7	PROCEDURE 488 502	koronarografii
+T8	PROCEDURE 524 534	ergometrii
+T9	PROCEDURE 554 557	EKG
+T10	PROCEDURE 639 650	biochemické
+T11	PROCEDURE 663 675	krevní obraz
+T12	PROCEDURE 687 713	Markery poškození myokardu
+T13	PROCEDURE 730 733	RTG
+T14	PROCEDURE 850 879	Transtorakální echokardiogram
+T15	PROCEDURE 881 884	TTE
+T16	PROCEDURE 1130 1138	Dopplera
+T17	PROCEDURE 1222 1232	Ergometrie
+T18	PROCEDURE 1594 1608	Koronarografie
+T19	PROCEDURE 2037 2051	koronarografie
+T20	PROCEDURE 2153 2166	angioplastice
+T21	PROCEDURE 2336 2373	překřížení léze pomocí vodicích drátů
+T22	PROCEDURE 2449 2480	koaxiálního balónkového katétru
+T23	PROCEDURE 2566 2575	kontrastu
+T24	PROCEDURE 2786 2789	EKG
+T25	PROCEDURE 2948 2985	podání intravenózního kortikosteroidu
+T26	PROCEDURE 3066 3075	sledování
+T27	PROCEDURE 3102 3145	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 3396 3406	biomarkery
+T29	PROCEDURE 3502 3531	Dvojitá protidestičková léčba
+T30	PROCEDURE 3536 3556	antikoagulační léčba
+T31	PROCEDURE 3826 3829	EKG
+T32	PROCEDURE 3866 3886	intravenózní perfuze
+T33	PROCEDURE 4032 4035	TTE
+T34	PROCEDURE 4077 4096	echokardiografickým
+T35	PROCEDURE 4243 4257	sérová terapie
+T36	PROCEDURE 4333 4350	perikardiocentéza
+T37	PROCEDURE 4353 4369	odsátím tekutiny
+T38	PROCEDURE 4421 4428	drenáží
+T39	PROCEDURE 4444 4465	antitrombotické léčby
+T40	PROCEDURE 4501 4531	zavedení perikardiálního drénu
+T41	PROCEDURE 4566 4585	echokardiografickým
+T42	PROCEDURE 4632 4646	repozici drénu
+T43	PROCEDURE 4659 4681	orotracheální intubace
+T44	PROCEDURE 4756 4784	urgentní chirurgické drenáže
+T45	PROCEDURE 4834 4883	transezofageálního echokardiografického vyšetření
+T46	PROCEDURE 5015 5022	drenáži
+T47	PROCEDURE 5025 5033	evakuaci
+T48	PROCEDURE 5347 5350	TTE
+T49	PROCEDURE 5750 5773	angioplastickým vodičem

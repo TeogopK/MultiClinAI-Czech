@@ -1,0 +1,51 @@
+T1	DISEASE 16 37	alergie na peniciliny
+T2	DISEASE 50 60	hypertenze
+T3	DISEASE 65 82	diabetes mellitus
+T4	DISEASE 84 96	Dyslipidemie
+T5	DISEASE 123 137	toxické návyky
+T6	DISEASE 139 172	Primární autoimunitní hypotyreóza
+T7	DISEASE 306 328	Hyperemesis gravidarum
+T8	DISEASE 427 439	kožního névu
+T9	DISEASE 1511 1519	trombózy
+T10	DISEASE 1570 1577	infekce
+T11	DISEASE 2556 2562	BIRDHH
+T12	DISEASE 2948 3018	Těžký pravostranný pleurální výpotek s téměř úplnou plicní atelektázou
+T13	DISEASE 3021 3064	středně těžký levostranný pleurální výpotek
+T14	DISEASE 3128 3153	biventrikulární dysfunkce
+T15	DISEASE 3186 3213	Mírná mitrální insuficience
+T16	DISEASE 3278 3301	těžké plicní hypertenze
+T17	DISEASE 3374 3396	dilatovaná levá komora
+T18	DISEASE 3445 3456	aneuryzmata
+T19	DISEASE 3470 3500	Středně těžký infarkt myokardu
+T20	DISEASE 3516 3540	Těžká komorová dysfunkce
+T21	DISEASE 3577 3616	myokardu s mírnými hypertrofickými rysy
+T22	DISEASE 3662 3684	intersticiální fibróza
+T23	DISEASE 3838 3865	Těžká dysfunkce levé komory
+T24	DISEASE 3885 3907	intramyokardiální edém
+T25	DISEASE 3957 3969	myokarditidy
+T26	DISEASE 3972 3998	ischemické choroby srdeční
+T27	DISEASE 4344 4365	akutní pyelonefritidy
+T28	DISEASE 4632 4641	hypotenze
+T29	DISEASE 4819 4833	úzkostné krizi
+T30	DISEASE 5186 5215	oboustranný pleurální výpotek
+T31	DISEASE 5289 5318	oboustranný pleurální výpotek
+T32	DISEASE 5647 5671	respiračními klaudikacem
+T33	DISEASE 5726 5798	metabolické acidózy sekundární k sepsi močového původu způsobené E. coli
+T34	DISEASE 5875 5884	hypotenzí
+T35	DISEASE 6029 6052	akutního plicního edému
+T36	DISEASE 6447 6464	kardiogenním šoku
+T37	DISEASE 6664 6676	myokarditidu
+T38	DISEASE 6677 6703	ischemickou kardiomyopatii
+T39	DISEASE 6915 6942	peripartální kardiomyopatie
+T40	DISEASE 6956 6978	sepsí močového původu.
+T41	DISEASE 7133 7166	oboustranného pleurálního výpotku
+T42	DISEASE 7576 7585	hypotenzí
+T43	DISEASE 7900 7912	hyperkalemii
+T44	DISEASE 8180 8209	akutní adrenální insuficienci
+T45	DISEASE 8370 8399	akutní adrenální insuficiencí
+T46	DISEASE 8434 8446	močové sepse
+T47	DISEASE 8479 8506	peripartální kardiomyopatie
+T48	DISEASE 9080 9131	akutní adrenální insuficienci autoimunitního původu
+T49	DISEASE 9222 9261	Močová sepse způsobená Escherichia coli
+T50	DISEASE 9262 9347	Kardiogenní šok v důsledku peripartální kardiomyopatie s těžkou systolickou dysfunkcí
+T51	DISEASE 9348 9394	Akutní adrenální insuficience-addisonská krize

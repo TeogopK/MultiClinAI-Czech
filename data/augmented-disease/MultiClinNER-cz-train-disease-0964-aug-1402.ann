@@ -1,0 +1,66 @@
+T1	DISEASE 157 171	lékové alergie
+T2	DISEASE 173 182	Nekuřačka
+T3	DISEASE 187 198	alkoholička
+T4	DISEASE 212 233	arteriální hypertenze
+T5	DISEASE 235 238	AHT
+T6	DISEASE 241 258	diabetes mellitus
+T7	DISEASE 260 262	DM
+T8	DISEASE 269 281	dyslipidemie
+T9	DISEASE 295 313	srdeční onemocnění
+T10	DISEASE 319 331	bronchopatie
+T11	DISEASE 695 716	periferní hypoperfuzí
+T12	DISEASE 1109 1130	periferní hypoperfuze
+T13	DISEASE 1357 1370	Hepatomegalie
+T14	DISEASE 1382 1422	Horní končetiny: špatná distální perfuze
+T15	DISEASE 1474 1514	Horní končetiny: špatná distální perfuze
+T16	DISEASE 1558 1580	hluboké žilní trombózy
+T17	DISEASE 1582 1585	HŽT
+T18	DISEASE 2324 2338	fibrilace síní
+T19	DISEASE 2340 2344	FiSi
+T20	DISEASE 2371 2396	komorovými extrasystolami
+T21	DISEASE 2550 2583	kompletní blokády pravého raménka
+T22	DISEASE 2585 2589	RBBB
+T23	DISEASE 3033 3048	akutní ischemie
+T24	DISEASE 3308 3337	oboustranný pleurální výpotek
+T25	DISEASE 3339 3352	Hepatomegalie
+T26	DISEASE 3644 3672	těžkou systolickou dysfunkcí
+T27	DISEASE 3706 3767	Mitrální insuficience, která se jeví jako mírná-středně těžká
+T28	DISEASE 3900 3963	edilatovaná levá komora (LK) s mírnou koncentrickou hypertrofií
+T29	DISEASE 3969 4003	segmentálních poruch kontraktility
+T30	DISEASE 4005 4026	Diastolická dysfunkce
+T31	DISEASE 4117 4187	Anatomicky normální mitrální chlopeň s centrální insuficienční tryskou
+T32	DISEASE 4489 4495	šokové
+T33	DISEASE 5063 5069	šokové
+T34	DISEASE 5175 5219	přetrvávající supraventrikulární tachykardii
+T35	DISEASE 5338 5376	AF s kontrolovanou komorovou frekvencí
+T36	DISEASE 5400 5415	kardiogenní šok
+T37	DISEASE 5580 5603	multiorgánového selhání
+T38	DISEASE 5605 5641	oligoanurické selhání jater a ledvin
+T39	DISEASE 5741 5764	tachykardie s úzkým QRS
+T40	DISEASE 5808 5842	rytmické tachykardie s širokým QRS
+T41	DISEASE 5873 5878	HRBBB
+T42	DISEASE 5962 5982	komorová tachykardie
+T43	DISEASE 6127 6153	tachykardie se širokým QRS
+T44	DISEASE 6452 6473	komorovou preexcitaci
+T45	DISEASE 6514 6531	kardiogenním šoku
+T46	DISEASE 6549 6572	multiorgánovým selháním
+T47	DISEASE 6707 6725	arytmických příhod
+T48	DISEASE 6904 6930	tachykardie se širokým QRS
+T49	DISEASE 6952 6995	flutter síní s AV vedením 2:1 a širokým QRS
+T50	DISEASE 7009 7015	BCRDHH
+T51	DISEASE 7045 7073	preexcitovaným flutterem 2:1
+T52	DISEASE 7167 7189	ortodromní tachykardie
+T53	DISEASE 7348 7365	preexcitovanou AF
+T54	DISEASE 7668 7677	fibrilaci
+T55	DISEASE 7680 7693	flutteru síní
+T56	DISEASE 8008 8012	FiSi
+T57	DISEASE 8015 8028	flutteru síní
+T58	DISEASE 8288 8339	mírnou-středně těžkou funkční mitrální insuficienci
+T59	DISEASE 8342 8364	diastolickou dysfunkci
+T60	DISEASE 8376 8411	Wolffův-Parkinsonův-Whiteův syndrom
+T61	DISEASE 8449 8471	ortodromní tachykardií
+T62	DISEASE 8473 8497	preexcitovanou fibrilaci
+T63	DISEASE 8500 8514	flutterem síní
+T64	DISEASE 8516 8546	Sekundární tachykardiomyopatie
+T65	DISEASE 8549 8577	těžkou systolickou dysfunkcí
+T66	DISEASE 8625 8666	Kardiogenní šok s multiorgánovým selháním

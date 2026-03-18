@@ -1,0 +1,27 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 73 81	anamnézy
+T4	PROCEDURE 244 247	EKG
+T5	PROCEDURE 259 261	CT
+T6	PROCEDURE 491 519	echokardiografické vyšetření
+T7	PROCEDURE 536 553	ortostatický test
+T8	PROCEDURE 556 569	masáž karotid
+T9	PROCEDURE 587 596	tilt test
+T10	PROCEDURE 714 724	implantaci
+T11	PROCEDURE 736 744	holterem
+T12	PROCEDURE 1030 1047	Reveal monitoring
+T13	PROCEDURE 1162 1171	vyšetření
+T14	PROCEDURE 1173 1192	Fyzikální vyšetření
+T15	PROCEDURE 1265 1281	Auskultace srdce
+T16	PROCEDURE 1318 1347	auskultace plic; poslech plic
+T17	PROCEDURE 1412 1433	laboratorní vyšetření
+T18	PROCEDURE 1550 1559	koagulace
+T19	PROCEDURE 1576 1593	Elektrokardiogram
+T20	PROCEDURE 1657 1674	24hodinový Holter
+T21	PROCEDURE 1868 1897	Transtorakální echokardiogram
+T22	PROCEDURE 1909 1926	Elektrokardiogram
+T23	PROCEDURE 1930 1958	implantaci kardiostimulátoru
+T24	PROCEDURE 2050 2074	nepřetržitém monitoringu
+T25	PROCEDURE 2076 2093	24hodinový Holter
+T26	PROCEDURE 2133 2147	echokardiogram
+T27	PROCEDURE 2237 2269	implantaci DDD kardiostimulátoru

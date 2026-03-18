@@ -1,0 +1,46 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 348 370	kardiologická anamnéza
+T5	PROCEDURE 442 467	pravostranné orchiektomii
+T6	PROCEDURE 1138 1157	Fyzikální vyšetření
+T7	PROCEDURE 1418 1434	Auskultace srdce
+T8	PROCEDURE 1459 1474	Auskultace plic
+T9	PROCEDURE 1596 1603	palpaci
+T10	PROCEDURE 1747 1764	Laboratorní testy
+T11	PROCEDURE 1766 1800	Sériové markery poškození myokardu
+T12	PROCEDURE 1893 1902	Biochemie
+T13	PROCEDURE 2018 2033	Lipidový profil
+T14	PROCEDURE 2139 2147	Hemogram
+T15	PROCEDURE 2346 2355	Koagulace
+T16	PROCEDURE 2501 2518	Elektrokardiogram
+T17	PROCEDURE 2520 2523	EKG
+T18	PROCEDURE 2640 2652	RTG hrudníku
+T19	PROCEDURE 2742 2756	Koronarografie
+T20	PROCEDURE 3146 3160	koronarografie
+T21	PROCEDURE 3171 3217	trojité protidestičkové a antikoagulační léčby
+T22	PROCEDURE 3306 3335	Transtorakální echokardiogram
+T23	PROCEDURE 3354 3368	koronarografií
+T24	PROCEDURE 3628 3640	chemoterapie
+T25	PROCEDURE 3760 3786	ipsilaterální radioterapie
+T26	PROCEDURE 3788 3791	EKG
+T27	PROCEDURE 4028 4040	chemoterapií
+T28	PROCEDURE 4196 4199	EKG
+T29	PROCEDURE 4344 4363	onkologickou léčbou
+T30	PROCEDURE 4379 4399	antikoagulační léčba
+T31	PROCEDURE 4430 4459	dvojitá protidestičková léčba
+T32	PROCEDURE 4511 4525	Koronarografie
+T33	PROCEDURE 4628 4636	anamnéze
+T34	PROCEDURE 4769 4782	antikoagulací
+T35	PROCEDURE 4812 4841	trojitá antitrombotická léčba
+T36	PROCEDURE 4869 4883	koronarografie
+T37	PROCEDURE 4908 4925	implantaci stentu
+T38	PROCEDURE 4947 4961	koronarografie
+T39	PROCEDURE 5062 5082	antikoagulační léčba
+T40	PROCEDURE 5106 5149	Transtorakální echokardiografické vyšetření
+T41	PROCEDURE 5331 5364	dvojitou protidestičkovou terapií
+T42	PROCEDURE 5490 5513	chemoterapeutické léčby
+T43	PROCEDURE 5606 5618	radioterapii
+T44	PROCEDURE 5765 5794	trojité protidestičkové léčbě
+T45	PROCEDURE 5797 5810	antikoagulaci
+T46	PROCEDURE 5927 5951	chemoterapeutickou léčbu

@@ -1,0 +1,32 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 465 480	revaskularizaci
+T3	PROCEDURE 504 523	srdeční katetrizace
+T4	PROCEDURE 682 715	Transtorakální echokardiografické
+T5	PROCEDURE 1030 1047	elektrokardiogram
+T6	PROCEDURE 1049 1052	EKG
+T7	PROCEDURE 1665 1688	silná analgetická léčba
+T8	PROCEDURE 1845 1853	angio-CT
+T9	PROCEDURE 1925 1944	Fyzikální vyšetření
+T10	PROCEDURE 2108 2116	angio-CT
+T11	PROCEDURE 2378 2394	Auskultace srdce
+T12	PROCEDURE 2476 2491	Auskultace plic
+T13	PROCEDURE 2719 2722	EKG
+T14	PROCEDURE 2748 2751	EKG
+T15	PROCEDURE 2861 2884	CT angiografie hrudníku
+T16	PROCEDURE 3499 3528	transtorakální echokardiogram
+T17	PROCEDURE 3803 3815	Krevní obraz
+T18	PROCEDURE 3897 3916	srdeční katetrizace
+T19	PROCEDURE 4273 4287	Tromboaspirace
+T20	PROCEDURE 4290 4340	angioplastika s použitím konvenčního 2,5mm balonku
+T21	PROCEDURE 4524 4555	zavedena centrální žilní kanyla
+T22	PROCEDURE 4567 4585	vazoaktivních léků
+T23	PROCEDURE 4723 4760	kardiopulmonální resuscitační manévry
+T24	PROCEDURE 4766 4777	defibrilaci
+T25	PROCEDURE 4819 4841	orotracheální intubace
+T26	PROCEDURE 4965 5035	implantován transkraniální kardiostimulátor přes pravou femorální žílu
+T27	PROCEDURE 5128 5205	Embolický uzávěr proximální větve LAD a diagonální větve byl revaskularizován
+T28	PROCEDURE 5308 5323	revaskularizaci
+T29	PROCEDURE 5395 5409	Echokardiogram
+T30	PROCEDURE 5712 5721	extubován
+T31	PROCEDURE 5771 5801	nízkoprůtokových nosních kanyl
+T32	PROCEDURE 5814 5827	vodní bilance

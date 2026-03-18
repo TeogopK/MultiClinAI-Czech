@@ -1,0 +1,49 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 99 114	antikoagulovaná
+T4	PROCEDURE 183 200	echokardiogramech
+T5	PROCEDURE 405 414	vyšetření
+T6	PROCEDURE 429 449	fyzikálním vyšetření
+T7	PROCEDURE 488 502	koronarografii
+T8	PROCEDURE 524 534	ergometrii
+T9	PROCEDURE 554 557	EKG
+T10	PROCEDURE 639 650	biochemické
+T11	PROCEDURE 663 675	krevní obraz
+T12	PROCEDURE 687 713	Markery poškození myokardu
+T13	PROCEDURE 730 733	RTG
+T14	PROCEDURE 850 879	Transtorakální echokardiogram
+T15	PROCEDURE 881 884	TTE
+T16	PROCEDURE 1130 1139	dopplerem
+T17	PROCEDURE 1223 1233	Ergometrie
+T18	PROCEDURE 1595 1609	Koronarografie
+T19	PROCEDURE 2038 2052	koronarografie
+T20	PROCEDURE 2154 2167	angioplastice
+T21	PROCEDURE 2337 2374	překřížení léze pomocí vodicích drátů
+T22	PROCEDURE 2450 2481	koaxiálního balónkového katétru
+T23	PROCEDURE 2567 2576	kontrastu
+T24	PROCEDURE 2787 2790	EKG
+T25	PROCEDURE 2949 2986	podání intravenózního kortikosteroidu
+T26	PROCEDURE 3067 3076	sledování
+T27	PROCEDURE 3103 3146	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 3397 3407	biomarkerů
+T29	PROCEDURE 3503 3532	Dvojitá protidestičková léčba
+T30	PROCEDURE 3537 3557	antikoagulační léčba
+T31	PROCEDURE 3827 3830	EKG
+T32	PROCEDURE 3867 3887	intravenózní perfuze
+T33	PROCEDURE 4033 4036	TTE
+T34	PROCEDURE 4078 4097	echokardiografickým
+T35	PROCEDURE 4244 4258	sérová terapie
+T36	PROCEDURE 4334 4351	perikardiocentéza
+T37	PROCEDURE 4354 4370	odsátím tekutiny
+T38	PROCEDURE 4422 4429	drenáží
+T39	PROCEDURE 4445 4466	antitrombotické léčby
+T40	PROCEDURE 4502 4532	zavedení perikardiálního drénu
+T41	PROCEDURE 4567 4586	echokardiografickým
+T42	PROCEDURE 4633 4647	repozici drénu
+T43	PROCEDURE 4660 4682	orotracheální intubace
+T44	PROCEDURE 4757 4785	urgentní chirurgické drenáže
+T45	PROCEDURE 4835 4884	transezofageálního echokardiografického vyšetření
+T46	PROCEDURE 5016 5023	drenáži
+T47	PROCEDURE 5026 5034	evakuaci
+T48	PROCEDURE 5348 5351	TTE
+T49	PROCEDURE 5751 5774	angioplastickým vodičem

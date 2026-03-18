@@ -1,0 +1,51 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 233 282	léčený kontinuálním přetlakem v dýchacích cestách
+T3	PROCEDURE 284 288	CPAP
+T4	PROCEDURE 324 362	Implantace mechanické aortální protézy
+T5	PROCEDURE 404 418	Echokardiogram
+T6	PROCEDURE 470 499	normofunkční aortální protéza
+T7	PROCEDURE 1036 1060	operace aortální chlopně
+T8	PROCEDURE 1127 1143	Echokardiografie
+T9	PROCEDURE 1474 1489	empirické léčbě
+T10	PROCEDURE 1505 1524	Fyzikální vyšetření
+T11	PROCEDURE 1570 1575	triáž
+T12	PROCEDURE 1614 1625	podání séra
+T13	PROCEDURE 1826 1842	Auskultace srdce
+T14	PROCEDURE 1906 1921	Auskultace plic
+T15	PROCEDURE 2021 2038	Elektrokardiogram
+T16	PROCEDURE 2040 2043	EKG
+T17	PROCEDURE 2663 2689	Rentgenový snímek hrudníku
+T18	PROCEDURE 2712 2715	EKG
+T19	PROCEDURE 2869 2898	transtorakální echokardiogram
+T20	PROCEDURE 3766 3777	Katetrizace
+T21	PROCEDURE 4006 4014	aspirace
+T22	PROCEDURE 4017 4048	angioplastika LAD a distální Cx
+T23	PROCEDURE 4128 4159	Transezofageální echokardiogram
+T24	PROCEDURE 4414 4440	vyšetřena mitrální chlopeň
+T25	PROCEDURE 4809 4823	Krevní kultury
+T26	PROCEDURE 4898 4926	odebrány nové krevní kultury
+T27	PROCEDURE 4912 4926	krevní kultury
+T28	PROCEDURE 4928 4930	HC
+T29	PROCEDURE 4934 4954	antibiotická terapie
+T30	PROCEDURE 5032 5047	empirická léčba
+T31	PROCEDURE 5183 5202	tekutinovou terapií
+T32	PROCEDURE 5376 5406	echokardiografického vyšetření
+T33	PROCEDURE 5446 5449	EKG
+T34	PROCEDURE 5688 5717	Transtorakální echokardiogram
+T35	PROCEDURE 5902 5913	katetrizace
+T36	PROCEDURE 5918 5933	revaskularizaci
+T37	PROCEDURE 6070 6119	transezofageálnímu echokardiografickému vyšetření
+T38	PROCEDURE 6121 6124	TEE
+T39	PROCEDURE 6197 6200	TEE
+T40	PROCEDURE 6216 6238	orotracheální intubace
+T41	PROCEDURE 6241 6283	napojení na invazivní mechanickou ventilac
+T42	PROCEDURE 6427 6470	implantován transjugulární kardiostimulátor
+T43	PROCEDURE 6727 6752	kardiochirurgické operaci
+T44	PROCEDURE 6777 6822	náhrada aortální chlopně biologickou protézou
+T45	PROCEDURE 6824 6874	náhrada trikuspidální chlopně biologickou protézou
+T46	PROCEDURE 6877 6905	nasazení mitrálního prstence
+T47	PROCEDURE 7015 7054	kontinuální venovenózní hemodiafiltraci
+T48	PROCEDURE 7107 7128	mechanickou ventilací
+T49	PROCEDURE 7880 7894	Tromboaspirace
+T50	PROCEDURE 7897 7933	balónková angioplastika nad LAD a Cx
+T51	PROCEDURE 7969 8040	Urgentní operace pro náhradu aortální, trikuspidální a mitrální chlopně

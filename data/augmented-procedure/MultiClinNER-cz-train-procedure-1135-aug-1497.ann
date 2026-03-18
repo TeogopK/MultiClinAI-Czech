@@ -1,0 +1,42 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 173 189	rodinná anamnéza
+T4	PROCEDURE 211 231	chirurgická anamnéza
+T5	PROCEDURE 456 472	vagovými manévry
+T6	PROCEDURE 518 537	Fyzikální vyšetření
+T7	PROCEDURE 666 686	léčba betablokátorem
+T8	PROCEDURE 729 749	24hodinového Holtera
+T9	PROCEDURE 752 783	transtorakální echokardiografie
+T10	PROCEDURE 785 788	TTE
+T11	PROCEDURE 966 984	vagových manévrech
+T12	PROCEDURE 1145 1148	TTE
+T13	PROCEDURE 1251 1291	test s rozrušeným fyziologickým roztokem
+T14	PROCEDURE 1395 1412	24hodinový Holter
+T15	PROCEDURE 1633 1639	ablace
+T16	PROCEDURE 1652 1679	echokardiografickému nálezu
+T17	PROCEDURE 1694 1731	vyšetření magnetickou rezonancí srdce
+T18	PROCEDURE 1733 1736	MRI
+T19	PROCEDURE 1794 1824	Elektrofyziologická konzultace
+T20	PROCEDURE 1940 1956	vagovými manévry
+T21	PROCEDURE 1985 2014	elektrofyziologické vyšetření
+T22	PROCEDURE 2017 2023	ablaci
+T23	PROCEDURE 2047 2064	Elektrokardiogram
+T24	PROCEDURE 2066 2069	EKG
+T25	PROCEDURE 2292 2295	EKG
+T26	PROCEDURE 2371 2383	Krevní obraz
+T27	PROCEDURE 2563 2580	24hodinový Holter
+T28	PROCEDURE 2582 2621	24hodinový elektrokardiografický záznam
+T29	PROCEDURE 2771 2774	TTE
+T30	PROCEDURE 3110 3113	TTE
+T31	PROCEDURE 3259 3277	Valsalvově manévru
+T32	PROCEDURE 3346 3354	MR srdce
+T33	PROCEDURE 4012 4087	Kvantifikace průtoku v kořeni aorty (kódování rychlosti fázovým kontrastem)
+T34	PROCEDURE 4170 4252	Kvantifikace průtoku v hlavní plicní tepně (kódování rychlosti fázového kontrastu)
+T35	PROCEDURE 4402 4428	elektrofyziologická studie
+T36	PROCEDURE 4536 4558	radiofrekvenční ablace
+T37	PROCEDURE 4623 4649	magnetické rezonance srdce
+T38	PROCEDURE 4936 4942	ablaci
+T39	PROCEDURE 5131 5149	chirurgická oprava
+T40	PROCEDURE 5961 5986	katetrizaci pravého srdce
+T41	PROCEDURE 6006 6026	hemodynamické studie
+T42	PROCEDURE 6300 6322	Radiofrekvenční ablace

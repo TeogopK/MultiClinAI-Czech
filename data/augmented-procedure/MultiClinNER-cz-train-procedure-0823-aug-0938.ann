@@ -1,0 +1,23 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 382 410	echokardiografické vyšetření
+T5	PROCEDURE 730 749	Fyzikální vyšetření
+T6	PROCEDURE 986 1013	kardiopulmonální auskultace
+T7	PROCEDURE 1156 1168	Krevní obraz
+T8	PROCEDURE 1376 1386	Srážlivost
+T9	PROCEDURE 1398 1419	Mikrobiální sérologie
+T10	PROCEDURE 1533 1543	imunologii
+T11	PROCEDURE 1811 1833	Periferní krevní nátěr
+T12	PROCEDURE 1860 1872	Proteinogram
+T13	PROCEDURE 1901 1908	Mantoux
+T14	PROCEDURE 1920 1937	Elektrokardiogram
+T15	PROCEDURE 2079 2105	Rentgenový snímek hrudníku
+T16	PROCEDURE 2163 2172	RTG pánve
+T17	PROCEDURE 2257 2267	RTG páteře
+T18	PROCEDURE 2300 2323	Rentgenový snímek rukou
+T19	PROCEDURE 2416 2430	Echokardiogram
+T20	PROCEDURE 3096 3110	echokardiogram
+T21	PROCEDURE 3536 3552	Hrudně-břišní CT
+T22	PROCEDURE 4430 4451	léčba kortikosteroidy
+T23	PROCEDURE 4550 4571	léčby kortikosteroidy

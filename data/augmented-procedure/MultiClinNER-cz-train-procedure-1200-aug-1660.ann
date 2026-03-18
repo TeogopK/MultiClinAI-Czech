@@ -1,0 +1,46 @@
+T1	PROCEDURE 265 326	chirurgicky revaskularizované v roce 1992 (AMII-DA a AMID-OM)
+T2	PROCEDURE 515 529	koronarografie
+T3	PROCEDURE 608 623	echokardiogramy
+T4	PROCEDURE 667 701	implantace lékových stentů na LMCA
+T5	PROCEDURE 942 953	Spirometrie
+T6	PROCEDURE 1033 1054	bronchodilatační test
+T7	PROCEDURE 1272 1288	cholecystektomie
+T8	PROCEDURE 1986 1998	RTG hrudníku
+T9	PROCEDURE 2095 2114	podávání antibiotik
+T10	PROCEDURE 2116 2130	oxygenoterapie
+T11	PROCEDURE 2132 2147	kortikosteroidů
+T12	PROCEDURE 2150 2158	diuretik
+T13	PROCEDURE 2251 2284	autoimunitní a infekční vyšetření
+T14	PROCEDURE 2310 2321	CT hrudníku
+T15	PROCEDURE 2414 2427	bronchoskopie
+T16	PROCEDURE 2492 2508	bronchoaspirátem
+T17	PROCEDURE 2861 2887	rentgenový snímek hrudníku
+T18	PROCEDURE 3063 3082	FYZIKÁLNÍ VYŠETŘENÍ
+T19	PROCEDURE 3240 3256	Auskultace srdce
+T20	PROCEDURE 3337 3352	Auskultace plic
+T21	PROCEDURE 3519 3522	EKG
+T22	PROCEDURE 3587 3599	krevní obraz
+T23	PROCEDURE 3697 3706	Biochemie
+T24	PROCEDURE 3847 3859	RTG hrudníku
+T25	PROCEDURE 4028 4054	rentgenový snímek hrudníku
+T26	PROCEDURE 4175 4189	Koronarografie
+T27	PROCEDURE 4266 4295	perkutánní implantaci protézy
+T28	PROCEDURE 4374 4388	Echokardiogram
+T29	PROCEDURE 5007 5081	Transezofageální echokardiogram monitorující transapikální implantaci TAVI
+T30	PROCEDURE 5091 5094	TEE
+T31	PROCEDURE 5479 5543	implantace protézy SAPIEN 3 o průměru 23 mm transapikální cestou
+T32	PROCEDURE 5545 5564	Postimplantační TEE
+T33	PROCEDURE 6057 6075	diuretickou léčbou
+T34	PROCEDURE 6149 6162	bronchoskopie
+T35	PROCEDURE 6560 6583	výměně aortální chlopně
+T36	PROCEDURE 6635 6674	perkutánní náhrada femorálním přístupem
+T37	PROCEDURE 6715 6726	angiografie
+T38	PROCEDURE 6886 6973	echokardiografického monitorování implantována 23mm biologická protéza Edwards SAPIEN 3
+T39	PROCEDURE 7115 7124	extubován
+T40	PROCEDURE 7204 7247	transfuzi tří koncentrátů červených krvinek
+T41	PROCEDURE 7301 7327	kardiochirurgické oddělení
+T42	PROCEDURE 7658 7673	echokardiogramy
+T43	PROCEDURE 7926 8006	Transapikální náhrada aortální chlopně biologickou protézou Edward Sapien 3 No23
+T44	PROCEDURE 8200 8273	revaskularizované chirurgicky (IAMI-AD, IAMI-OM v roce 1997) a perkutánně
+T45	PROCEDURE 8274 8302	(implantace stentu u LMCA-AD
+T46	PROCEDURE 8344 8359	antikoagulovaná

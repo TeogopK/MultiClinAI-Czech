@@ -1,0 +1,37 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 231 268	náhradou chlopně biologickou protézou
+T3	PROCEDURE 413 437	náhrada aortální chlopně
+T4	PROCEDURE 439 459	artroplastika ramene
+T5	PROCEDURE 461 474	tonzilektomie
+T6	PROCEDURE 476 496	tříselná herniorafie
+T7	PROCEDURE 989 1002	zátěžový test
+T8	PROCEDURE 1051 1088	zátěžovou magnetickou rezonanci srdce
+T9	PROCEDURE 1090 1093	CMR
+T10	PROCEDURE 1097 1116	Fyzikální vyšetření
+T11	PROCEDURE 1218 1234	Auskultace srdce
+T12	PROCEDURE 1295 1310	Auskultace plic
+T13	PROCEDURE 1510 1513	EKG
+T14	PROCEDURE 2180 2192	RTG hrudníku
+T15	PROCEDURE 2250 2279	Transtorakální echokardiogram
+T16	PROCEDURE 2856 2881	kardiochirurgické operaci
+T17	PROCEDURE 3055 3068	Zátěžový test
+T18	PROCEDURE 3320 3332	Zátěžová CMR
+T19	PROCEDURE 3982 4019	Provokace ischemie i.v. Regadenosonem
+T20	PROCEDURE 4150 4153	EKG
+T21	PROCEDURE 4533 4539	PET-CT
+T22	PROCEDURE 5339 5352	sternotomický
+T23	PROCEDURE 6552 6581	transtorakální echokardiogram
+T24	PROCEDURE 6811 6834	vysazením betablokátorů
+T25	PROCEDURE 6965 6968	CMR
+T26	PROCEDURE 7054 7066	zátěžová CMR
+T27	PROCEDURE 7479 7497	antibiotické léčby
+T28	PROCEDURE 7617 7631	kultivace krve
+T29	PROCEDURE 7634 7660	sérologie na endokarditidu
+T30	PROCEDURE 7743 7749	PET-CT
+T31	PROCEDURE 8131 8145	kardiochirurgy
+T32	PROCEDURE 8289 8307	antibiotická léčba
+T33	PROCEDURE 8563 8584	antibiotického režimu
+T34	PROCEDURE 8737 8767	léčba snižující hladinu lipidů
+T35	PROCEDURE 8823 8841	antibiotické léčby
+T36	PROCEDURE 8872 8878	PET-CT
+T37	PROCEDURE 9087 9105	antibiotické léčby

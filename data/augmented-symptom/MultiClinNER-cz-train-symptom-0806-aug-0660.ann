@@ -1,0 +1,59 @@
+T1	SYMPTOM 699 718	špatný celkový stav
+T2	SYMPTOM 721 731	s horečkou
+T3	SYMPTOM 753 773	močovým dyskomfortem
+T4	SYMPTOM 776 783	dysurií
+T5	SYMPTOM 785 796	polakisurií
+T6	SYMPTOM 864 873	nevolnost
+T7	SYMPTOM 883 891	zvracení
+T8	SYMPTOM 899 904	kašel
+T9	SYMPTOM 909 920	expektorace
+T10	SYMPTOM 1230 1245	ozvy ohraničené
+T11	SYMPTOM 1279 1286	šelesty
+T12	SYMPTOM 1305 1323	dýchaní alveolární
+T13	SYMPTOM 1325 1349	břicho měkké a prohmatné
+T14	SYMPTOM 1351 1386	bolestivé při palpaci v hypogastriu
+T15	SYMPTOM 1391 1417	pozitívní tapotment vpravo
+T16	SYMPTOM 1436 1463	otok s dulkama až ke koleni
+T17	SYMPTOM 1510 1522	zduřelé prsy
+T18	SYMPTOM 1933 1939	Pyurie
+T19	SYMPTOM 2157 2211	Protilátky proti pruhovanému svalu/myokardu: negativní
+T20	SYMPTOM 2213 2259	Protilátky proti nadledvinám: vysoce pozitivní
+T21	SYMPTOM 2279 2304	hrudníku: městnavá kresba
+T22	SYMPTOM 2426 2446	sinusová tachykardie
+T23	SYMPTOM 2476 2484	Úzké QRS
+T24	SYMPTOM 2523 2556	Negativní vlny T ve II, III a aVF
+T25	SYMPTOM 2558 2597	Hluboké vlny T v prekordiálních svodech
+T26	SYMPTOM 2625 2664	involutovaná děloha s propadlou dutinou
+T27	SYMPTOM 2710 2751	množství volné intraperitoneální tekutiny
+T28	SYMPTOM 3174 3205	Známky nízkého srdečního výdeje
+T29	SYMPTOM 3333 3397	dilatovaná levá komora s nepravidelnou konturou na spodní straně
+T30	SYMPTOM 3689 3695	zánětu
+T31	SYMPTOM 3771 3797	Tloušťka myokardu normální
+T32	SYMPTOM 3999 4024	kultivace krve: negativní
+T33	SYMPTOM 4179 4243	Sérologie parvoviru B19: Ac IgG a Ac IgM parvoviru B19 negativní
+T34	SYMPTOM 4568 4576	zvracení
+T35	SYMPTOM 4580 4589	závratěmi
+T36	SYMPTOM 4592 4601	hypotenze
+T37	SYMPTOM 4728 4735	dušnost
+T38	SYMPTOM 4847 4866	špatný celkový stav
+T39	SYMPTOM 4869 4885	bledostí sliznic
+T40	SYMPTOM 4887 4894	pocením
+T41	SYMPTOM 4897 4915	periferním chladem
+T42	SYMPTOM 4918 4929	tachykardií
+T43	SYMPTOM 4932 4941	tachypnoí
+T44	SYMPTOM 5040 5089	výrazné oslabení basálně bilaterálně v pravé bázi
+T45	SYMPTOM 5224 5251	volnou nitrobřišní tekutinu
+T46	SYMPTOM 5575 5599	hemodynamickému zhoršení
+T47	SYMPTOM 5840 5849	hypotenzí
+T48	SYMPTOM 5861 5880	tkáňové hypoperfuze
+T49	SYMPTOM 6040 6091	negativními vlnami T na dolní a prekordiální straně
+T50	SYMPTOM 6094 6131	zvýšenými markery srdečního poškození
+T51	SYMPTOM 6292 6311	globální hypokinezí
+T52	SYMPTOM 6779 6842	sérologie na parvovirus B19 a srdeční imunologie byly negativní
+T53	SYMPTOM 7519 7528	nevolnost
+T54	SYMPTOM 7531 7538	závratě
+T55	SYMPTOM 7541 7550	hypotenzí
+T56	SYMPTOM 7966 7973	závratí
+T57	SYMPTOM 7975 7985	nevolnosti
+T58	SYMPTOM 7988 7997	hypotenze
+T59	SYMPTOM 8369 8387	intenzivním stresu

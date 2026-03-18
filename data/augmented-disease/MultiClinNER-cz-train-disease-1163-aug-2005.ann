@@ -1,0 +1,48 @@
+T1	DISEASE 76 92	lékových alergií
+T2	DISEASE 106 127	arteriální hypertenze
+T3	DISEASE 148 160	dyslipidemie
+T4	DISEASE 195 215	srdečního onemocnění
+T5	DISEASE 217 234	srdečního selhání
+T6	DISEASE 240 251	náhlé smrti
+T7	DISEASE 891 907	AV blok Mobitz I
+T8	DISEASE 1110 1113	AIM
+T9	DISEASE 1518 1546	onemocnění 3 koronárních cév
+T10	DISEASE 1552 1599	závažné léze (90 %) v tandemu v přední sestupné
+T11	DISEASE 1819 1858	proximální okluze pravé koronární tepny
+T12	DISEASE 2082 2105	defekt komorového septa
+T13	DISEASE 2107 2110	VSD
+T14	DISEASE 2772 2784	BAV Mobitz I
+T15	DISEASE 3608 3627	cirkumflexe: okluze
+T16	DISEASE 3736 3769	pravé koronární tepny: okludovaná
+T17	DISEASE 3895 3901	trombu
+T18	DISEASE 4054 4072	Onemocnění tří cév
+T19	DISEASE 4114 4117	VSD
+T20	DISEASE 4150 4173	defekt komorového septa
+T21	DISEASE 4334 4379	nehypertrofická levá komora, mírně dilatovaná
+T22	DISEASE 4563 4590	mírná aortální insuficience
+T23	DISEASE 4593 4636	středně těžká funkční mitrální insuficience
+T24	DISEASE 4638 4667	Pravá komora mírně dilatovaná
+T25	DISEASE 4717 4743	trikuspidální insuficience
+T26	DISEASE 4840 4897	kardiogenního šoku refrakterního na farmakologickou léčbu
+T27	DISEASE 5102 5127	dilatovanou pravou komoru
+T28	DISEASE 5162 5185	defekt komorového septa
+T29	DISEASE 5564 5567	VSD
+T30	DISEASE 5888 5933	Nedilatovaná pravá komora, s těžkou dysfunkcí
+T31	DISEASE 5947 5973	trikuspidální insuficience
+T32	DISEASE 6024 6047	defekt komorového septa
+T33	DISEASE 6525 6552	paroxysmální fibrilaci síní
+T34	DISEASE 6677 6741	respiračního selhání sekundárně v důsledku alveolárního krvácení
+T35	DISEASE 6744 6776	syndromu akutní respirační tísně
+T36	DISEASE 6778 6867	nozokomiální pneumonii v pravém dolním laloku (Enterobacter cloacae a Citrobacter koseri)
+T37	DISEASE 6870 6929	infekci močových cest multirezistentní Serratia marcescens.
+T38	DISEASE 7150 7174	dilatovanou levou komoru
+T39	DISEASE 7363 7384	aortální insuficienci
+T40	DISEASE 7387 7431	středně těžkou funkční mitrální insuficienci
+T41	DISEASE 7433 7462	Mírně dilatovaná pravá komora
+T42	DISEASE 7464 7486	Dysfunkce pravé komory
+T43	DISEASE 7498 7540	Akutní infarkt myokardu s dolní elevací ST
+T44	DISEASE 7571 7592	trombotický uzávěr DC
+T45	DISEASE 7628 7678	nemoc tří koronárních cév (střední DA, 1. OM a CD)
+T46	DISEASE 7686 7698	defekt septa
+T47	DISEASE 7775 7834	Ischemická kardiomyopatie s těžkou systolickou dysfunkcí LK
+T48	DISEASE 7836 7887	Středně těžká a těžká funkční mitrální insuficience

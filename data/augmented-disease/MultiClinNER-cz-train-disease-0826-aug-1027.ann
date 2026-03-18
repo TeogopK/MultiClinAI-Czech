@@ -1,0 +1,47 @@
+T1	DISEASE 75 105	známé alergické reakce na léky
+T2	DISEASE 113 127	toxické návyky
+T3	DISEASE 152 184	časné ischemické choroby srdeční
+T4	DISEASE 228 238	hypertenze
+T5	DISEASE 240 242	HT
+T6	DISEASE 271 283	dyslipidemie
+T7	DISEASE 344 361	diabetes mellitus
+T8	DISEASE 363 365	DM
+T9	DISEASE 368 390	Adenokarcinom prostaty
+T10	DISEASE 523 563	infiltrujícího acinárního adenokarcinomu
+T11	DISEASE 601 621	Chronická gastritida
+T12	DISEASE 623 650	Úzkostní-depresivní syndrom
+T13	DISEASE 1067 1107	kalcifikací ve třech koronárních tepnách
+T14	DISEASE 1173 1196	adenokarcinomu prostaty
+T15	DISEASE 1319 1326	úzkosti
+T16	DISEASE 2522 2557	levého superoanteriorního hemibloku
+T17	DISEASE 2559 2563	HSAI
+T18	DISEASE 2722 2741	pleurálního výpotku
+T19	DISEASE 2837 2880	kalcifikovaná koronární ateromatóza tří cév
+T20	DISEASE 2883 2917	mírná kalcifikace aortální chlopně
+T21	DISEASE 2952 3018	levá komora normálního průměru, s mírnou koncentrickou hypertrofií
+T22	DISEASE 3189 3210	Diastolická dysfunkce
+T23	DISEASE 3246 3270	Levá síň mírně rozšířená
+T24	DISEASE 3378 3439	Normálně vypadající mitrální chlopeň s minimální insuficiencí
+T25	DISEASE 3449 3475	trikuspidální insuficience
+T26	DISEASE 3514 3547	mírná hypertenzní srdeční choroba
+T27	DISEASE 4112 4119	arytmie
+T28	DISEASE 4247 4291	Přední sestupná tepna (ADA): závažná stenóza
+T29	DISEASE 4376 4446	První diagonála dobrého kalibru s časnou bifurkací a závažnou stenózou
+T30	DISEASE 5207 5217	cholestázy
+T31	DISEASE 5573 5586	němé ischemie
+T32	DISEASE 5771 5800	kardiovaskulárním onemocněním
+T33	DISEASE 5824 5847	koronárních kalcifikací
+T34	DISEASE 6240 6257	ischemii myokardu
+T35	DISEASE 6544 6567	koronárních kalcifikací
+T36	DISEASE 6579 6587	ischemii
+T37	DISEASE 6748 6771	adenokarcinomu prostaty
+T38	DISEASE 6896 6963	stenózu v proximální a střední části LAD a v první diagonální větvi
+T39	DISEASE 7359 7377	patologie prostaty
+T40	DISEASE 7405 7420	trombózy stentu
+T41	DISEASE 8012 8038	ischemická choroba srdeční
+T42	DISEASE 8050 8063	němé ischemie
+T43	DISEASE 8065 8086	Onemocnění jedné cévy
+T44	DISEASE 8088 8161	závažná stenóza v proximální a střední části LAD a první diagonální větvi
+T45	DISEASE 8325 8337	Dyslipidemie
+T46	DISEASE 8339 8360	Arteriální hypertenze
+T47	DISEASE 8362 8384	Adenokarcinom prostaty

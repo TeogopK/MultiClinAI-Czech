@@ -1,0 +1,49 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 98 113	osobní anamnéze
+T4	PROCEDURE 115 131	Rodinná anamnéza
+T5	PROCEDURE 317 341	náhradu aortální chlopně
+T6	PROCEDURE 462 476	koronarografií
+T7	PROCEDURE 670 692	kardiologická anamnéza
+T8	PROCEDURE 1212 1220	anamnéze
+T9	PROCEDURE 1843 1859	Auskultace srdce
+T10	PROCEDURE 1896 1911	Auskultace plic
+T11	PROCEDURE 2082 2094	Krevní obraz
+T12	PROCEDURE 2234 2251	Elektrokardiogram
+T13	PROCEDURE 2253 2256	EKG
+T14	PROCEDURE 2382 2385	EKG
+T15	PROCEDURE 2387 2399	RTG hrudníku
+T16	PROCEDURE 2519 2550	Transtorakální echokardiografie
+T17	PROCEDURE 2848 2856	MR srdce
+T18	PROCEDURE 2953 2963	Telemetrie
+T19	PROCEDURE 3230 3256	Elektrofyziologická studie
+T20	PROCEDURE 3258 3261	EPS
+T21	PROCEDURE 3265 3298	ablace pomocí navigačního systému
+T22	PROCEDURE 3411 3463	trojrozměrná rekonstrukce RV pomocí echo-intrakardia
+T23	PROCEDURE 3793 3817	radiofrekvenční aplikace
+T24	PROCEDURE 4038 4067	test indukce komorové arytmie
+T25	PROCEDURE 4090 4107	Flekainidový test
+T26	PROCEDURE 4248 4251	EKG
+T27	PROCEDURE 4253 4265	RTG hrudníku
+T28	PROCEDURE 4268 4285	laboratorní testy
+T29	PROCEDURE 4395 4431	elektrokardiografickému monitorování
+T30	PROCEDURE 4526 4542	Echokardiografie
+T31	PROCEDURE 4604 4616	monitorování
+T32	PROCEDURE 4757 4767	Telemetrie
+T33	PROCEDURE 5003 5006	EPS
+T34	PROCEDURE 5015 5050	navigačně řízené ablace ložiska KES
+T35	PROCEDURE 5164 5184	flekainidového testu
+T36	PROCEDURE 5222 5304	radiofrekvenční ablace v moderátorovém pásmu (BM) řízená navigačním systémem CARTO
+T37	PROCEDURE 5306 5328	Morfologické vyšetření
+T38	PROCEDURE 5354 5381	magnetickou rezonancí srdce
+T39	PROCEDURE 5383 5385	MR
+T40	PROCEDURE 5442 5466	telemetrickému sledování
+T41	PROCEDURE 5523 5549	Holterův 24hodinový záznam
+T42	PROCEDURE 5559 5565	ablaci
+T43	PROCEDURE 5692 5723	implantaci subkutánního Holteru
+T44	PROCEDURE 5765 5771	ablaci
+T45	PROCEDURE 5845 5899	implantace implantabilního kardioverteru defibrilátoru
+T46	PROCEDURE 5901 5904	ICD
+T47	PROCEDURE 5970 5986	genetická studie
+T48	PROCEDURE 6316 6369	Ablace extrasystol v moderátorovém pásmu pravé komory
+T49	PROCEDURE 6371 6385	Implantace ICD

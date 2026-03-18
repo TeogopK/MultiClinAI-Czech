@@ -1,0 +1,52 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 529 532	EKG
+T3	PROCEDURE 712 729	infuze amiodaronu
+T4	PROCEDURE 834 846	CVE při 100J
+T5	PROCEDURE 857 861	šoku
+T6	PROCEDURE 972 992	fyzikálním vyšetření
+T7	PROCEDURE 1092 1095	EKG
+T8	PROCEDURE 1195 1198	EKG
+T9	PROCEDURE 1401 1403	TK
+T10	PROCEDURE 1417 1431	arteriální ABE
+T11	PROCEDURE 1575 1584	Biochemie
+T12	PROCEDURE 2113 2122	Koagulace
+T13	PROCEDURE 2231 2246	Enzymová křivka
+T14	PROCEDURE 2309 2319	lipidogram
+T15	PROCEDURE 2390 2409	Metabolismus železa
+T16	PROCEDURE 2465 2487	Imunologické vyšetření
+T17	PROCEDURE 2544 2564	hormony štítné žlázy
+T18	PROCEDURE 2666 2675	sérologie
+T19	PROCEDURE 2738 2767	Transtorakální echokardiogram
+T20	PROCEDURE 3012 3030	Koronární angio-CT
+T21	PROCEDURE 3066 3069	CMR
+T22	PROCEDURE 3186 3215	sekvencích potencovaných Stir
+T23	PROCEDURE 3281 3310	sekvencích s časným zesílením
+T24	PROCEDURE 3403 3433	sekvencích s pozdním zesílením
+T25	PROCEDURE 3674 3703	Elektrofyziologické vyšetření
+T26	PROCEDURE 3745 3769	Substrátová ablace s RDF
+T27	PROCEDURE 3785 3799	implantace ICD
+T28	PROCEDURE 3920 3947	sedaci propofolem a ultivou
+T29	PROCEDURE 3957 3980	systému Navex-precision
+T30	PROCEDURE 3982 4025	Levá komora byla mapována ablačním katétrem
+T31	PROCEDURE 4152 4163	pacemapping
+T32	PROCEDURE 4209 4228	indukci klinické VT
+T33	PROCEDURE 4279 4323	iv. izoproterenolu je indukována klinická VT
+T34	PROCEDURE 4326 4379	RDF je aplikován na laterální aspekt mitrálního anulu
+T35	PROCEDURE 4550 4566	elektrický výboj
+T36	PROCEDURE 4595 4673	ablaci substrátu podáním korony lézí kolem předchozí oblasti v mitrálním anulu
+T37	PROCEDURE 4876 4886	telemetrií
+T38	PROCEDURE 4903 4922	léčba betablokátory
+T39	PROCEDURE 5279 5297	koronární angio-CT
+T40	PROCEDURE 5446 5472	magnetická rezonance srdce
+T41	PROCEDURE 5474 5477	CMR
+T42	PROCEDURE 6550 6569	ablaci substrátu VT
+T43	PROCEDURE 6573 6602	elektrofyziologické vyšetření
+T44	PROCEDURE 6626 6640	radiofrekvence
+T45	PROCEDURE 6730 6746	elektrický výboj
+T46	PROCEDURE 6775 6853	ablaci substrátu podáním korony léze kolem předchozí oblasti v mitrálním anulu
+T47	PROCEDURE 6962 6990	implantace bikamerálního ICD
+T48	PROCEDURE 7018 7033	ICD implantován
+T49	PROCEDURE 7127 7141	beta-blokátory
+T50	PROCEDURE 7205 7226	elektrofyziologických
+T51	PROCEDURE 7266 7287	dálkového monitoringu
+T52	PROCEDURE 7376 7385	výboj ICD

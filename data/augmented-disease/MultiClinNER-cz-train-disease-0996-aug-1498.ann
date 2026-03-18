@@ -1,0 +1,64 @@
+T1	DISEASE 117 127	hypertenze
+T2	DISEASE 129 131	HT
+T3	DISEASE 134 144	DM 2. typu
+T4	DISEASE 209 221	Dyslipidemie
+T5	DISEASE 223 235	Bývalý kuřák
+T6	DISEASE 237 244	Obezita
+T7	DISEASE 312 348	Chronická ischemická choroba srdeční
+T8	DISEASE 362 385	akutní infarkt myokardu
+T9	DISEASE 387 390	AMI
+T10	DISEASE 487 551	Přední sestupná tepna (AD) s významnou těžce kalcifikovanou lézí
+T11	DISEASE 587 631	Pravá koronární tepna (RCA) s významnou lézí
+T12	DISEASE 664 683	onemocnění dvou cév
+T13	DISEASE 884 891	synkopy
+T14	DISEASE 894 930	atrioventrikulární blokády Mobitz II
+T15	DISEASE 1112 1124	valvulopatie
+T16	DISEASE 1136 1150	renální kolika
+T17	DISEASE 1618 1652	Chronická stabilní angina pectoris
+T18	DISEASE 2390 2412	hluboké žilní trombózy
+T19	DISEASE 2593 2606	kardiomegalie
+T20	DISEASE 3147 3165	poškození myokardu
+T21	DISEASE 3235 3252	srdečního selhání
+T22	DISEASE 3331 3359	Levá komora mírně dilatovaná
+T23	DISEASE 3491 3512	mitrální insuficience
+T24	DISEASE 3514 3545	Sklerotizovaná aortální chlopeň
+T25	DISEASE 3610 3629	Dilatovaná levá síň
+T26	DISEASE 3771 3797	trikuspidální insuficience
+T27	DISEASE 3799 3801	TI
+T28	DISEASE 3994 4029	Významná stenóza v diagonální větvi
+T29	DISEASE 4581 4598	srdečního selhání
+T30	DISEASE 4655 4683	Levá komora mírně dilatovaná
+T31	DISEASE 4852 4864	valvulopatií
+T32	DISEASE 5398 5415	srdečního selhání
+T33	DISEASE 5627 5647	mitrální regurgitace
+T34	DISEASE 5749 5751	TR
+T35	DISEASE 5824 5847	perikardiálního výpotku
+T36	DISEASE 5887 5925	chronickou ischemickou chorobu srdeční
+T37	DISEASE 5977 5992	anginy pectoris
+T38	DISEASE 6081 6108	těžké dysfunkce levé komory
+T39	DISEASE 6459 6487	onemocnění koronárních tepen
+T40	DISEASE 6563 6580	srdečního selhání
+T41	DISEASE 6690 6697	diabetu
+T42	DISEASE 6710 6718	obezitou
+T43	DISEASE 6745 6755	hypertenze
+T44	DISEASE 6769 6797	ischemickou chorobou srdeční
+T45	DISEASE 6800 6817	srdečním selháním
+T46	DISEASE 6915 6941	anémii z nedostatku železa
+T47	DISEASE 7124 7141	srdečního selhání
+T48	DISEASE 7204 7228	těžká komorová dysfunkce
+T49	DISEASE 7613 7630	srdečního selhání
+T50	DISEASE 7643 7676	plicního či periferního přetížení
+T51	DISEASE 8021 8057	Chronická ischemická choroba srdeční
+T52	DISEASE 8059 8110	Nestabilní angina pectoris Ib s poškozením myokardu
+T53	DISEASE 8121 8124	AMI
+T54	DISEASE 8126 8150	Dvoucípá koronární nemoc
+T55	DISEASE 8180 8220	neresekovatelnou lézí v diagonální větvi
+T56	DISEASE 8222 8237	Srdeční selhání
+T57	DISEASE 8297 8307	diabetická
+T58	DISEASE 8309 8319	ischemická
+T59	DISEASE 8322 8336	myokardiopatie
+T60	DISEASE 8371 8397	Anémie z nedostatku železa
+T61	DISEASE 8399 8420	Arteriální hypertenze
+T62	DISEASE 8442 8467	diabetes mellitus 2. typu
+T63	DISEASE 8469 8481	Dyslipidemie
+T64	DISEASE 8516 8523	Obezita

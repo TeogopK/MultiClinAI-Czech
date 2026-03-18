@@ -1,0 +1,72 @@
+T1	SYMPTOM 86 93	horečky
+T2	SYMPTOM 96 105	třesavkou
+T3	SYMPTOM 118 125	astenie
+T4	SYMPTOM 127 147	snížená chuť k jídlu
+T5	SYMPTOM 150 171	úbytku hmotnosti 7 kg
+T6	SYMPTOM 537 549	leukocyturii
+T7	SYMPTOM 752 759	horečky
+T8	SYMPTOM 851 867	motorická afázie
+T9	SYMPTOM 896 930	ztráta síly v levé horní končetině
+T10	SYMPTOM 932 979	neurologické příznaky byly kolísavé a opakované
+T11	SYMPTOM 981 1039	s přetrvávající reziduální slabostí v levé horní končetině
+T12	SYMPTOM 1210 1220	Při vědomí
+T13	SYMPTOM 1222 1233	orientovaný
+T14	SYMPTOM 1235 1244	reaktivní
+T15	SYMPTOM 1246 1253	vnímavý
+T16	SYMPTOM 1284 1325	Auskultace srdce: akce srdeční pravidelná
+T17	SYMPTOM 1338 1416	pansystolický šelest intenzity III/VI v mitrálním ložisku, vyzařující do axily
+T18	SYMPTOM 1435 1453	alveolární dýchání
+T19	SYMPTOM 1455 1506	Břicho: měkké, stlačitelné, při palpaci nebolestivé
+T20	SYMPTOM 1523 1529	útvary
+T21	SYMPTOM 1534 1549	zvětšené orgány
+T22	SYMPTOM 1551 1577	Dolní končetiny: bez otoků
+T23	SYMPTOM 1675 1692	motorickou afázii
+T24	SYMPTOM 1731 1758	parézu levé horní končetiny
+T25	SYMPTOM 1814 1842	velmi mírná motorická afázie
+T26	SYMPTOM 1882 1904	Normální funkce ledvin
+T27	SYMPTOM 1940 1954	normální ionty
+T28	SYMPTOM 2053 2076	Normální jaterní funkce
+T29	SYMPTOM 2274 2289	Sinusový rytmus
+T30	SYMPTOM 2307 2318	normální PR
+T31	SYMPTOM 2320 2332	normální QRS
+T32	SYMPTOM 2343 2367	bez repolarizačních změn
+T33	SYMPTOM 2385 2416	kardiothorakální stín beze změn
+T34	SYMPTOM 2422 2449	pleuroparenchymového nálezu
+T35	SYMPTOM 2531 2553	posuny ve střední čáře
+T36	SYMPTOM 2603 2636	Cévní a komorový systém beze změn
+T37	SYMPTOM 2776 2857	Transkraniální doppler a echo-doppler supraaortálních kmenů: Normální, bez nálezu
+T38	SYMPTOM 2861 2917	Lumbální punkce: biochemie mozkomíšního moku: bez nálezu
+T39	SYMPTOM 2919 2982	Sérologie mozkomíšního moku: Lúes, borélie a brucella negativní
+T40	SYMPTOM 3003 3056	CSF podle Grama: nebyly zjištěny žádné mikroorganismy
+T41	SYMPTOM 3058 3121	DNA viru herpes simplex a varicella zoster pomocí PCR negativní
+T42	SYMPTOM 3281 3333	Kultivace krve: Grampozitivní kokobacily v řetězcích
+T43	SYMPTOM 3382 3411	izolací Abiotrophia defectiva
+T44	SYMPTOM 3500 3525	Kultivace moči: negativní
+T45	SYMPTOM 3581 3605	Levá komora nedilatovaná
+T46	SYMPTOM 3607 3621	hyperdynamická
+T47	SYMPTOM 3634 3658	Levá síň není dilatovaná
+T48	SYMPTOM 3713 3760	Obraz 8x6 mm v cuspu festonu A1 předního lístku
+T49	SYMPTOM 3915 3946	obrací průtok v plicních žilách
+T50	SYMPTOM 3948 3974	Restriktivní plnící vzorec
+T51	SYMPTOM 3978 4020	zvýšenými hodnotami enddiastolického tlaku
+T52	SYMPTOM 4022 4056	Normální aortální chlopeň a průtok
+T53	SYMPTOM 4058 4091	Aortální kořen normální velikosti
+T54	SYMPTOM 4093 4114	Normální pravé komory
+T55	SYMPTOM 4403 4427	hemodynamickými důsledky
+T56	SYMPTOM 4581 4614	normálních neurologických testech
+T57	SYMPTOM 4742 4764	hemodynamicky stabilní
+T58	SYMPTOM 4803 4814	normotenzní
+T59	SYMPTOM 4819 4834	sinusovém rytmu
+T60	SYMPTOM 4858 4886	Funkce ledvin byla zachována
+T61	SYMPTOM 5368 5430	nálezu grampozitivních kokobacilů v krevní kultuře v řetězcích
+T62	SYMPTOM 5662 5669	horečky
+T63	SYMPTOM 5674 5742	identifikaci zárodku v krevních kulturách jako abiotrophia defectiva
+T64	SYMPTOM 6032 6039	horečce
+T65	SYMPTOM 6733 6755	normální funkci ledvin
+T66	SYMPTOM 6766 6773	horečky
+T67	SYMPTOM 6893 6942	negativní mikrobiologie ve vzorku srdeční chlopně
+T68	SYMPTOM 6956 7008	kultivací krve po 48 hodinách (která byla negativní)
+T69	SYMPTOM 7121 7153	normální funkci mitrální protézy
+T70	SYMPTOM 7197 7211	Asymptomatická
+T71	SYMPTOM 7214 7222	stabilní
+T72	SYMPTOM 7498 7522	hemodynamickými následky

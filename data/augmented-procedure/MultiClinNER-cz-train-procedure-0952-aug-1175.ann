@@ -1,0 +1,25 @@
+T1	PROCEDURE 228 247	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 546 562	Krevní kultivace
+T3	PROCEDURE 1057 1076	Fyzikální vyšetření
+T4	PROCEDURE 1262 1278	auskultaci srdce
+T5	PROCEDURE 1332 1349	Plicní auskultace
+T6	PROCEDURE 1450 1457	palpaci
+T7	PROCEDURE 1582 1585	EKG
+T8	PROCEDURE 1640 1652	RTG hrudníku
+T9	PROCEDURE 2007 2055	Transtorakální a transezofageální echokardiogram
+T10	PROCEDURE 2669 2683	Koronarografie
+T11	PROCEDURE 2812 2815	TEE
+T12	PROCEDURE 2967 2992	náhradu chlopně, aortální
+T13	PROCEDURE 3363 3384	anatomickou patologii
+T14	PROCEDURE 3387 3400	mikrobiologie
+T15	PROCEDURE 3404 3413	kultivaci
+T16	PROCEDURE 3658 3674	echokardiografie
+T17	PROCEDURE 3850 3853	TEE
+T18	PROCEDURE 3886 3900	sérová terapie
+T19	PROCEDURE 4248 4296	implantace intraaortální balónkové kontrapulzace
+T20	PROCEDURE 4527 4593	veno-arteriální implantace ECMO s periferním přístupem, řízená TEE
+T21	PROCEDURE 4590 4593	TEE
+T22	PROCEDURE 4762 4783	inovasoaktivních léků
+T23	PROCEDURE 4810 4863	vysazena IABP a o 24 hodin později bylo vysazeno ECMO
+T24	PROCEDURE 5125 5168	Operace náhrady mitrální a aortální chlopně
+T25	PROCEDURE 5226 5277	pomoc intraaortální balónkovou kontrapulzaci a ECMO

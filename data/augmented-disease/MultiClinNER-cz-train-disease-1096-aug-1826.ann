@@ -1,0 +1,29 @@
+T1	DISEASE 91 105	lékové alergie
+T2	DISEASE 185 203	srdeční onemocnění
+T3	DISEASE 205 289	dilatační kardiomyopatie v důsledku Chagasovy choroby s těžkou systolickou dysfunkcí
+T4	DISEASE 387 400	arytmologické
+T5	DISEASE 469 473	SMVT
+T6	DISEASE 617 719	senzorická, axonální a demyelinizační polyneuropatie středního stupně na horních a dolních končetinách
+T7	DISEASE 1788 1797	pterygium
+T8	DISEASE 1815 1868	Vřed v ráně generátoru ICD v levé podklíčkové oblasti
+T9	DISEASE 2352 2372	lakunárními infarkty
+T10	DISEASE 2429 2455	reziduální ischemickou léz
+T11	DISEASE 2471 2475	LOES
+T12	DISEASE 2477 2484	kontuze
+T13	DISEASE 2788 2804	septické embolie
+T14	DISEASE 2845 2884	pravostranný pleurální výpotek/zvětšení
+T15	DISEASE 3135 3153	těžký septický šok
+T16	DISEASE 3791 3829	dilatovaná LK s apikálním aneuryzmatem
+T17	DISEASE 3879 3915	středně těžkou systolickou dysfunkcí
+T18	DISEASE 3998 4046	Mitrální chlopeň s mírnou centrální insuficiencí
+T19	DISEASE 4962 4985	septické plicní embolie
+T20	DISEASE 4987 5020	oboustranného pleurálního výpotku
+T21	DISEASE 5034 5056	kompresivní atelektázy
+T22	DISEASE 5291 5339	menší vegetací na volném okraji septálního plátu
+T23	DISEASE 5608 5672	biventrikulární dilataci se středně těžkou systolickou dysfunkcí
+T24	DISEASE 5686 5708	apikálního aneuryzmatu
+T25	DISEASE 5744 5761	septických embolů
+T26	DISEASE 5842 5860	chlopenní vegetace
+T27	DISEASE 6019 6093	Těžký septický šok sekundární k infekční endokarditidě způsobené S. aureus
+T28	DISEASE 6121 6165	Dilatační kardiomyopatie chagasové etiologie
+T29	DISEASE 6167 6193	Těžká systolická dysfunkce

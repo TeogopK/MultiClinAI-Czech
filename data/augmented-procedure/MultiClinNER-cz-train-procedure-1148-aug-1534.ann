@@ -1,0 +1,21 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 119 128	léčbě OAC
+T3	PROCEDURE 169 172	TUR
+T4	PROCEDURE 253 286	permanentní kardiostimulátor DDDR
+T5	PROCEDURE 520 539	Fyzikální vyšetření
+T6	PROCEDURE 587 602	nosními brýlemi
+T7	PROCEDURE 616 632	Auskultace srdce
+T8	PROCEDURE 678 693	Auskultace plic
+T9	PROCEDURE 834 856	Neurologické vyšetření
+T10	PROCEDURE 894 897	EKG
+T11	PROCEDURE 980 1001	Laboratorní vyšetření
+T12	PROCEDURE 1156 1159	RTG
+T13	PROCEDURE 1234 1250	Echokardiografie
+T14	PROCEDURE 1465 1500	Počítačová tomografie (CT) hrudníku
+T15	PROCEDURE 2128 2154	kontrola kardiostimulátoru
+T16	PROCEDURE 2213 2229	Echokardiografie
+T17	PROCEDURE 2388 2399	CT hrudníku
+T18	PROCEDURE 2446 2462	urgentní operace
+T19	PROCEDURE 2483 2544	komorová elektroda byla perkutánní extrakce s repozicí v RVOT
+T20	PROCEDURE 2640 2651	hrudní drén
+T21	PROCEDURE 2857 2896	Reimplantace komorové elektrody do RVOT

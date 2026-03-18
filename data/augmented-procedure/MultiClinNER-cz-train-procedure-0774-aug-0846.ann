@@ -1,0 +1,43 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 53 61	Anamnéza
+T3	PROCEDURE 198 226	echokardiografické vyšetření
+T4	PROCEDURE 761 776	kortikosteroidy
+T5	PROCEDURE 1502 1510	anamnéza
+T6	PROCEDURE 1522 1532	NT- proBNP
+T7	PROCEDURE 1535 1568	transtorakální echokardiografické
+T8	PROCEDURE 2114 2141	magnetickou rezonancí srdce
+T9	PROCEDURE 2143 2146	MRI
+T10	PROCEDURE 2184 2203	Fyzikální vyšetření
+T11	PROCEDURE 2423 2439	Auskultace srdce
+T12	PROCEDURE 2478 2495	Plicní auskultace
+T13	PROCEDURE 2661 2676	AP RTG hrudníku
+T14	PROCEDURE 2831 2848	Elektrokardiogram
+T15	PROCEDURE 2850 2853	EKG
+T16	PROCEDURE 2968 2980	Krevní testy
+T17	PROCEDURE 2982 2984	KO
+T18	PROCEDURE 3268 3277	Hemostáza
+T19	PROCEDURE 3403 3412	Biochemie
+T20	PROCEDURE 3783 3796	Profil železa
+T21	PROCEDURE 3947 3967	Imunologické markery
+T22	PROCEDURE 4095 4110	Markery zástavy
+T23	PROCEDURE 4174 4189	Lipidový profil
+T24	PROCEDURE 4379 4397	Kalciurie 24 hodin
+T25	PROCEDURE 4416 4447	Transtorakální echokardiografie
+T26	PROCEDURE 4449 4452	TTE
+T27	PROCEDURE 4809 4817	MR srdce
+T28	PROCEDURE 5893 5921	CT plic s vysokým rozlišením
+T29	PROCEDURE 6284 6293	MRI srdce
+T30	PROCEDURE 7005 7031	magnetická rezonance srdce
+T31	PROCEDURE 7108 7119	katetrizace
+T32	PROCEDURE 7399 7419	antivirové léčby HCV
+T33	PROCEDURE 7619 7657	CT vyšetření plic s vysokým rozlišením
+T34	PROCEDURE 7801 7822	reaktantů akutní fáze
+T35	PROCEDURE 7903 7925	antivirotiky proti HCV
+T36	PROCEDURE 8240 8256	echokardiografii
+T37	PROCEDURE 8308 8329	antivirotik proti HCV
+T38	PROCEDURE 8392 8413	antivirotik proti HCV
+T39	PROCEDURE 8543 8569	magnetická rezonance srdce
+T40	PROCEDURE 8715 8746	echokardiografických kontrolách
+T41	PROCEDURE 8878 8890	kolonoskopii
+T42	PROCEDURE 9273 9294	antivirotik proti HCV
+T43	PROCEDURE 9539 9561	antivirotiky proti HCV

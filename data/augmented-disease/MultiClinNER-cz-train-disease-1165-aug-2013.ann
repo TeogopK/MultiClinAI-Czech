@@ -1,0 +1,78 @@
+T1	DISEASE 87 101	lékové alergie
+T2	DISEASE 103 117	Toxické návyky
+T3	DISEASE 119 126	kuřačka
+T4	DISEASE 181 196	Neužívá alkohol
+T5	DISEASE 255 265	hypertenze
+T6	DISEASE 267 279	dyslipidemie
+T7	DISEASE 281 307	diabetes mellitus II. typu
+T8	DISEASE 378 400	diabetické retinopatie
+T9	DISEASE 402 418	Morbidní obezita
+T10	DISEASE 494 521	Chronický koronární syndrom
+T11	DISEASE 561 585	námahové anginy pectoris
+T12	DISEASE 744 800	významné stenózy ve středodistální přední sestupné tepně
+T13	DISEASE 846 865	mírnou ateromatózou
+T14	DISEASE 932 964	středně závažná aortální stenóza
+T15	DISEASE 1001 1051	nedilatovanou, středně hypertrofickou levou komoru
+T16	DISEASE 1104 1167	Sklerokalcifikovaná aortální chlopeň se středně těžkou stenózou
+T17	DISEASE 1229 1273	Mírně až středně těžká aortální insuficience
+T18	DISEASE 1275 1328	Sklerotizovaná mitrální chlopeň s mírnou insuficiencí
+T19	DISEASE 1465 1533	Mírná trikuspidální insuficience se středně těžkou plicní hypertenzí
+T20	DISEASE 1535 1563	Středně dilatovaná pravá síň
+T21	DISEASE 1571 1592	perikardiální výpotek
+T22	DISEASE 1600 1621	dilatace kořene aorty
+T23	DISEASE 1649 1680	Opakované infekce močových cest
+T24	DISEASE 1682 1696	Steatóza jater
+T25	DISEASE 1719 1731	pupeční kýla
+T26	DISEASE 2209 2241	chronického koronárního syndromu
+T27	DISEASE 2330 2360	středně těžké aortální stenózy
+T28	DISEASE 2471 2487	anginou pectoris
+T29	DISEASE 2501 2508	synkopy
+T30	DISEASE 2764 2777	Těžká obezita
+T31	DISEASE 2952 2959	obezitě
+T32	DISEASE 3069 3115	Chronické kožní trofiky na dolních končetinách
+T33	DISEASE 3256 3279	Hypertrofie levé komory
+T34	DISEASE 3523 3606	Nedilatovaná levá komora (DVItd 44 mm), se středně těžkou koncentrickou hypertrofií
+T35	DISEASE 3742 3782	Mírná sklerokalcifikace mitrální chlopně
+T36	DISEASE 3803 3853	Trojcípá aortální chlopeň, těžká sklerokalcifikace
+T37	DISEASE 3971 4015	Mírná až středně těžká aortální insuficience
+T38	DISEASE 4017 4042	Mírně dilatovaná levá síň
+T39	DISEASE 4178 4204	trikuspidální insuficience
+T40	DISEASE 4259 4276	plicní hypertenzi
+T41	DISEASE 4343 4364	perikardiální výpotek
+T42	DISEASE 5602 5667	Kalcifikované pláty v infrarenální břišní aortě a společné ilické
+T43	DISEASE 6041 6101	Přední sestupná tepna vykazuje hustou parietální kalcifikaci
+T44	DISEASE 6252 6304	středně rozsáhlou difuzní kalcifikovanou ateromatózu
+T45	DISEASE 6343 6386	Difuzní kalcifikovaná koronární ateromatóza
+T46	DISEASE 6545 6613	nedilatovaná levá komora se středně těžkou koncentrickou hypertrofií
+T47	DISEASE 6763 6784	aortální insuficience
+T48	DISEASE 6786 6822	Sklerokalcifikovaná mitrální chlopeň
+T49	DISEASE 6897 6922	Mírně dilatovaná levá síň
+T50	DISEASE 6972 6998	trikuspidální insuficience
+T51	DISEASE 7104 7125	perikardiální výpotek
+T52	DISEASE 7220 7251	chronickým koronárním syndromem
+T53	DISEASE 7267 7327	dvojitou aortální lézí s převažující středně těžkou stenózou
+T54	DISEASE 7580 7632	dvojitou aortální lézi s převažující těžkou stenózou
+T55	DISEASE 7694 7743	závažné symptomatické onemocnění aortální chlopně
+T56	DISEASE 7997 8012	morbidně obézní
+T57	DISEASE 8092 8099	obezita
+T58	DISEASE 8395 8402	diabetu
+T59	DISEASE 8673 8680	diabetu
+T60	DISEASE 8853 8886	opakovaných infekcí močových cest
+T61	DISEASE 9493 9525	kompletní blokáda levého raménka
+T62	DISEASE 9530 9556	atrioventrikulární blokády
+T63	DISEASE 9590 9610	aortální regurgitace
+T64	DISEASE 10038 10059	arteriální hypertenzi
+T65	DISEASE 10285 10305	bloku levého raménka
+T66	DISEASE 10328 10354	atrioventrikulární blokády
+T67	DISEASE 10435 10483	mimoplicní restrikční poruchy v důsledku obezity
+T68	DISEASE 10502 10517	plicní kongescí
+T69	DISEASE 10679 10689	infekčními
+T70	DISEASE 10880 10887	hematom
+T71	DISEASE 11364 11376	valvulopatie
+T72	DISEASE 11407 11422	anginy pectoris
+T73	DISEASE 11720 11743	těžkou aortální stenózu
+T74	DISEASE 11745 11772	Chronický koronární syndrom
+T75	DISEASE 11866 11876	hypertenze
+T76	DISEASE 11878 11904	diabetes mellitus II. typu
+T77	DISEASE 11906 11918	dyslipidemie
+T78	DISEASE 11920 11927	obezita

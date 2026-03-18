@@ -1,0 +1,41 @@
+T1	DISEASE 822 829	arytmie
+T2	DISEASE 876 890	sklerózu aorty
+T3	DISEASE 1011 1025	fibrilaci síní
+T4	DISEASE 1287 1313	hemiparézu levých končetin
+T5	DISEASE 1540 1554	fibrilace síní
+T6	DISEASE 1679 1704	intrakraniálního krvácení
+T7	DISEASE 1727 1751	encefalopatie malých cév
+T8	DISEASE 1753 1767	stárnutí mozku
+T9	DISEASE 1770 1788	lakunární infarkty
+T10	DISEASE 1820 1841	ischemického infarktu
+T11	DISEASE 1900 1911	hypertrofie
+T12	DISEASE 1991 2001	hypokineze
+T13	DISEASE 2009 2030	perikardiální výpotek
+T14	DISEASE 2038 2059	dilatace kořene aorty
+T15	DISEASE 2415 2420	STEMI
+T16	DISEASE 2450 2454	FiSi
+T17	DISEASE 2487 2510	levostrannou hemiparézu
+T18	DISEASE 2516 2539	postižení lícního nervu
+T19	DISEASE 2620 2654	ischemickou cévní mozkovou příhodu
+T20	DISEASE 2655 2666	embolického
+T21	DISEASE 2852 2863	ischemickou
+T22	DISEASE 2871 2892	cévní mozkové příhody
+T23	DISEASE 2904 2927	intrakraniální krvácení
+T24	DISEASE 2939 2967	anomálie magistrálních tepen
+T25	DISEASE 2974 2981	disekce
+T26	DISEASE 3019 3040	cévní mozkové příhody
+T27	DISEASE 3366 3376	hypokinézu
+T28	DISEASE 3755 3772	koronární embolií
+T29	DISEASE 3898 3905	stenóza
+T30	DISEASE 3928 3955	aterosklerotické onemocnění
+T31	DISEASE 4025 4029	FiSi
+T32	DISEASE 4102 4119	koronární embolie
+T33	DISEASE 4133 4159	akutního infarktu myokardu
+T34	DISEASE 4254 4287	kortiko-subkortikální hypodenzitu
+T35	DISEASE 4368 4388	ischemickou příhodou
+T36	DISEASE 4409 4433	hemoragické transformace
+T37	DISEASE 4463 4477	fibrilace síní
+T38	DISEASE 4479 4511	Ischemická cévní mozková příhoda
+T39	DISEASE 4512 4523	embolického
+T40	DISEASE 4570 4575	STEMI
+T41	DISEASE 4577 4594	Koronární embolie

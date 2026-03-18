@@ -1,0 +1,30 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 1079 1098	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 1230 1246	Auskultace srdce
+T4	PROCEDURE 1350 1367	Plicní auskultace
+T5	PROCEDURE 1678 1695	Elektrokardiogram
+T6	PROCEDURE 1697 1700	EKG
+T7	PROCEDURE 1811 1823	RTG hrudníku
+T8	PROCEDURE 1939 1941	KO
+T9	PROCEDURE 2004 2013	Koagulace
+T10	PROCEDURE 2045 2054	Biochemie
+T11	PROCEDURE 2497 2517	hormony štítné žlázy
+T12	PROCEDURE 2538 2559	Imunoglobuliny v séru
+T13	PROCEDURE 2654 2679	Vyšetření bílkovin v moči
+T14	PROCEDURE 2714 2743	Transtorakální echokardiogram
+T15	PROCEDURE 3147 3173	Magnetická rezonance srdce
+T16	PROCEDURE 3175 3178	CMR
+T17	PROCEDURE 4124 4145	Scintigrafie myokardu
+T18	PROCEDURE 4335 4349	Elektromyogram
+T19	PROCEDURE 4351 4378	Neurofyziologické vyšetření
+T20	PROCEDURE 4567 4591	depleční léčbu diuretiky
+T21	PROCEDURE 4638 4685	léčbu inhibitory mineralkortikoidních receptorů
+T22	PROCEDURE 4729 4742	funkce ledvin
+T23	PROCEDURE 4879 4889	telemetrii
+T24	PROCEDURE 4987 5000	betablokátory
+T25	PROCEDURE 5105 5117	antiarytmika
+T26	PROCEDURE 5193 5224	transtorakálním echokardiogramu
+T27	PROCEDURE 5346 5370	diagnostická katetrizace
+T28	PROCEDURE 5475 5489	elektromyogram
+T29	PROCEDURE 5902 5917	náhradě chlopně
+T30	PROCEDURE 6070 6103	elektromyografii dolních končetin

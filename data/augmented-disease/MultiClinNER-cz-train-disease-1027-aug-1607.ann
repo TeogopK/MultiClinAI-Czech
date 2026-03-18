@@ -1,0 +1,54 @@
+T1	DISEASE 167 183	toxických návyků
+T2	DISEASE 189 209	metabolických poruch
+T3	DISEASE 289 309	srdečního onemocnění
+T4	DISEASE 315 328	náhlého úmrtí
+T5	DISEASE 349 400	Infiltrující adenokarcinom rektosigmoideální junkce
+T6	DISEASE 436 442	anémie
+T7	DISEASE 655 680	kardiorespirační zástavou
+T8	DISEASE 682 700	plicní sarkoidózou
+T9	DISEASE 785 800	neoplazie rekta
+T10	DISEASE 829 842	hmatné uzliny
+T11	DISEASE 852 876	kardiorespirační zástavy
+T12	DISEASE 1031 1055	kardiorespirační zástavu
+T13	DISEASE 1209 1227	komorové fibrilace
+T14	DISEASE 1516 1541	kardiorespirační zástavou
+T15	DISEASE 1583 1598	anginy pectoris
+T16	DISEASE 1614 1621	synkopy
+T17	DISEASE 1693 1710	srdečního selhání
+T18	DISEASE 2205 2245	Břicho s recentní laparoskopickou jizvou
+T19	DISEASE 2409 2423	žilní trombózy
+T20	DISEASE 3508 3540	zástava kardiorespiračního rytmu
+T21	DISEASE 3543 3561	komorová fibrilace
+T22	DISEASE 3986 4017	oboustrannou hilovou adenopatií
+T23	DISEASE 4022 4051	deviace nebo komprese trachey
+T24	DISEASE 4128 4147	pleurálního výpotku
+T25	DISEASE 4153 4165	pneumotoraxu
+T26	DISEASE 4253 4286	Levá komora (LK) mírně dilatovaná
+T27	DISEASE 4647 4673	mírnou plicní insuficiencí
+T28	DISEASE 4681 4702	perikardiální výpotek
+T29	DISEASE 4832 4859	vrozených anatomických změn
+T30	DISEASE 4895 4923	Levá komora mírně dilatovaná
+T31	DISEASE 5403 5430	intramyokardiálního jizvení
+T32	DISEASE 5499 5524	Levá síň mírně dilatovaná
+T33	DISEASE 5676 5689	hmatné uzliny
+T34	DISEASE 5716 5734	plicní sarkoidózou
+T35	DISEASE 5812 5870	akutního sarkoidotického nebo jiného zánětlivého postižení
+T36	DISEASE 5974 6014	mimonemocniční kardiorespirační zástavou
+T37	DISEASE 6035 6050	fibrilace komor
+T38	DISEASE 6529 6544	fibrilace komor
+T39	DISEASE 6546 6572	ischemická choroba srdeční
+T40	DISEASE 6574 6590	komorové arytmie
+T41	DISEASE 6642 6688	srdeční toxicity v důsledku léčby chemoterapií
+T42	DISEASE 6805 6830	intramyokardiální fibrózy
+T43	DISEASE 6861 6876	fibrilace komor
+T44	DISEASE 6899 6919	systémové sarkoidózy
+T45	DISEASE 6959 6977	srdeční sarkoidózy
+T46	DISEASE 6994 7018	kardiorespirační zástavy
+T47	DISEASE 7216 7252	intramyokardiální zánětlivé aktivity
+T48	DISEASE 7466 7477	náhlé smrti
+T49	DISEASE 7529 7547	arytmických příhod
+T50	DISEASE 7559 7628	Mimonemocniční kardiorespirační zástava v důsledku komorové fibrilace
+T51	DISEASE 7630 7648	Srdeční sarkoidóza
+T52	DISEASE 7651 7678	intramyokardiálním jizvením
+T53	DISEASE 7695 7731	aktivního intramyokardiálního zánětu
+T54	DISEASE 7804 7824	koronárních anomálií

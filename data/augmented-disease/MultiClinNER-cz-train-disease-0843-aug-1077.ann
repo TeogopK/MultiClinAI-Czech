@@ -1,0 +1,43 @@
+T1	DISEASE 81 104	Alergie na streptomycin
+T2	DISEASE 129 155	ischemické choroby srdeční
+T3	DISEASE 157 171	Toxické návyky
+T4	DISEASE 173 178	kuřák
+T5	DISEASE 244 262	Konzumace alkoholu
+T6	DISEASE 301 315	užívání konopí
+T7	DISEASE 392 402	hypertenze
+T8	DISEASE 404 406	HT
+T9	DISEASE 417 437	Smíšená dyslipidémie
+T10	DISEASE 505 549	akutní infarkt myokardu bez elevací úseku ST
+T11	DISEASE 551 567	NSTEMI; nonSTEMI
+T12	DISEASE 648 675	ischemickou chorobu srdeční
+T13	DISEASE 677 681	ICHS
+T14	DISEASE 685 717	akutní uzávěr ramus circumflexus
+T15	DISEASE 891 904	významné léze
+T16	DISEASE 1288 1314	Inferolaterální hypokinéza
+T17	DISEASE 1350 1362	valvulopatie
+T18	DISEASE 1713 1724	HIV infekce
+T19	DISEASE 1788 1799	proteinurií
+T20	DISEASE 1801 1821	jaterními hemangiomy
+T21	DISEASE 1824 1841	hypovitaminózou D
+T22	DISEASE 3062 3073	hypertenzní
+T23	DISEASE 3334 3342	ischemii
+T24	DISEASE 3522 3540	hypertenzní reakcí
+T25	DISEASE 4439 4467	Levá komora mírně dilatovaná
+T26	DISEASE 4511 4529	hypokinezí-akinezí
+T27	DISEASE 4621 4656	středně těžkou mitrální regurgitací
+T28	DISEASE 6090 6097	arytmií
+T29	DISEASE 6200 6211	rektorhagie
+T30	DISEASE 6221 6230	anemizací
+T31	DISEASE 6379 6391	dyslipidemie
+T32	DISEASE 6395 6411	zvýšeným non-HDL
+T33	DISEASE 6421 6441	hypertriglyceridemií
+T34	DISEASE 8103 8159	Inferolaterální infarkt myokardu bez elevace segmentu ST
+T35	DISEASE 8161 8167	NSTEMI
+T36	DISEASE 8194 8197	CAD
+T37	DISEASE 8336 8347	Infekce HIV
+T38	DISEASE 8517 8529	dyslipidemie
+T39	DISEASE 8595 8605	Hypertenze
+T40	DISEASE 8626 8631	Kuřák
+T41	DISEASE 8655 8662	Nadváha
+T42	DISEASE 8664 8690	Mírná renální insuficience
+T43	DISEASE 8748 8769	revmatoidní artritida

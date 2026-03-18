@@ -1,0 +1,47 @@
+T1	PROCEDURE 331 343	Krevní testy
+T2	PROCEDURE 569 595	Rentgenový snímek hrudníku
+T3	PROCEDURE 684 695	CT hrudníku
+T4	PROCEDURE 925 949	transbronchiální biopsie
+T5	PROCEDURE 1009 1023	plicní biopsie
+T6	PROCEDURE 1026 1048	histologické vyšetření
+T7	PROCEDURE 1082 1115	Mikrobiologické vyšetření biopsie
+T8	PROCEDURE 1335 1371	oboustrannou bronchoalveolární laváž
+T9	PROCEDURE 1378 1400	orotracheální intubací
+T10	PROCEDURE 1413 1431	sedován propofolem
+T11	PROCEDURE 1433 1457	analgetizován fentanylem
+T12	PROCEDURE 1460 1486	relaxován sukcinylcholinem
+T13	PROCEDURE 1488 1565	Intubace byla provedena levou Mallinckrodtovou 39F trubicí s dvojitým lumenem
+T14	PROCEDURE 1567 1635	Umístění tubusu jsme zkontrolovali pomocí dětského fibrobronchoskopu
+T15	PROCEDURE 1654 1682	udržován v sedaci a relaxaci
+T16	PROCEDURE 1683 1727	kontinuální perfuzí propofolu a cisatrakuria
+T17	PROCEDURE 1752 1796	30 minut ventilovali v režimu kontroly tlaku
+T18	PROCEDURE 1840 1874	pozitivním tlakem na konci výdechu
+T19	PROCEDURE 1876 1880	PEEP
+T20	PROCEDURE 2041 2087	změřili statickou poddajnost jednotlivých plic
+T21	PROCEDURE 2177 2195	laváž v levé plíci
+T22	PROCEDURE 2257 2266	na zádech
+T23	PROCEDURE 2268 2341	Laváž byla provedena izotonickým fyziologickým roztokem zahřátým na 37 °C
+T24	PROCEDURE 2343 2438	Z výšky 30-40 cm nad pacientem jsme infundovali jeden litr a pacienta jsme gravitačně odvodnili
+T25	PROCEDURE 2587 2594	drenáže
+T26	PROCEDURE 2603 2647	proplachované plíci provedena hrudní perkuze
+T27	PROCEDURE 2658 2689	laváže v poloze vleže na zádech
+T28	PROCEDURE 2813 2839	uložen do polohy na zádech
+T29	PROCEDURE 2876 2898	poloze vleže na zádech
+T30	PROCEDURE 2937 2944	drenáže
+T31	PROCEDURE 3028 3047	výplachu levé plíce
+T32	PROCEDURE 3087 3104	laváže levé plíce
+T33	PROCEDURE 3110 3155	obě plíce ventilovali v režimu kontroly tlaku
+T34	PROCEDURE 3170 3174	PEEP
+T35	PROCEDURE 3328 3356	ventilovat pouze levou plíci
+T36	PROCEDURE 3385 3404	výplach pravé plíce
+T37	PROCEDURE 3485 3502	laváž pravé plíce
+T38	PROCEDURE 3526 3542	poloze na zádech
+T39	PROCEDURE 3561 3565	drén
+T40	PROCEDURE 3660 3682	polohy vleže na zádech
+T41	PROCEDURE 3727 3731	drén
+T42	PROCEDURE 3782 3802	mechanické ventilace
+T43	PROCEDURE 3890 3925	vyměnili dvojitou lumenovou trubici
+T44	PROCEDURE 3965 3983	pacienta odpojovat
+T45	PROCEDURE 3993 4006	byl extubován
+T46	PROCEDURE 4051 4077	rentgenový snímek hrudníku
+T47	PROCEDURE 4222 4237	Sekvenční laváž

@@ -1,0 +1,13 @@
+T1	PROCEDURE 185 200	Močový dipstick
+T2	PROCEDURE 288 302	kultivace moči
+T3	PROCEDURE 428 436	Anamnéza
+T4	PROCEDURE 652 661	vyšetření
+T5	PROCEDURE 750 777	Kardiopulmonální auskultace
+T6	PROCEDURE 797 813	vyšetření břicha
+T7	PROCEDURE 819 827	palpační
+T8	PROCEDURE 969 978	vyšetření
+T9	PROCEDURE 1186 1200	rentgen břicha
+T10	PROCEDURE 1240 1256	ultrazvuk břicha
+T11	PROCEDURE 1493 1520	intravenózní infuze tekutin
+T12	PROCEDURE 1656 1673	celkové anestezii
+T13	PROCEDURE 1734 1746	apendektomie

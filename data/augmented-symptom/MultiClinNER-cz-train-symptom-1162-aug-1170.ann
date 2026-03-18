@@ -1,0 +1,45 @@
+T1	SYMPTOM 132 143	náhlé úmrtí
+T2	SYMPTOM 262 272	dlouhým QT
+T3	SYMPTOM 560 570	palpitacím
+T4	SYMPTOM 817 832	sinusový rytmus
+T5	SYMPTOM 1125 1151	vzestupná deprese úseku ST
+T6	SYMPTOM 1302 1316	asymptomatický
+T7	SYMPTOM 1646 1652	bolest
+T8	SYMPTOM 1902 1915	ztráty vědomí
+T9	SYMPTOM 1985 1993	chrápání
+T10	SYMPTOM 1995 2005	everzi očí
+T11	SYMPTOM 2008 2021	tonické křeče
+T12	SYMPTOM 2106 2126	prekordiálním tlakem
+T13	SYMPTOM 2329 2338	palpitace
+T14	SYMPTOM 2399 2423	dušnost při mírné námaze
+T15	SYMPTOM 2512 2530	Dobrý celkový stav
+T16	SYMPTOM 2536 2542	vědomí
+T17	SYMPTOM 2545 2556	orientovaný
+T18	SYMPTOM 2558 2567	eupnoický
+T19	SYMPTOM 2569 2587	dobře perfundovaný
+T20	SYMPTOM 2589 2613	akce srdeční: pravidelná
+T21	SYMPTOM 2619 2626	šelestů
+T22	SYMPTOM 2681 2699	dýchání alveolární
+T23	SYMPTOM 2704 2723	vedlejších fenomenů
+T24	SYMPTOM 2725 2751	Dolní končetiny: bez otoků
+T25	SYMPTOM 2862 2873	bradykardie
+T26	SYMPTOM 2891 2902	normální PR
+T27	SYMPTOM 2904 2928	úzké QRS s normální osou
+T28	SYMPTOM 2930 2946	bifázická vlna T
+T29	SYMPTOM 3403 3433	levá komora normální velikosti
+T30	SYMPTOM 3638 3674	Zachovaná globální systolická funkce
+T31	SYMPTOM 3679 3711	segmentálních změn kontraktility
+T32	SYMPTOM 3823 3837	Zachovalý RVEF
+T33	SYMPTOM 3931 3934	SAM
+T34	SYMPTOM 4238 4269	Dolní dutá žíla není dilatovaná
+T35	SYMPTOM 4305 4335	Kořen aorty normální velikosti
+T36	SYMPTOM 4431 4452	perikardiální výpotek
+T37	SYMPTOM 4616 4645	kardiotorakální index v normě
+T38	SYMPTOM 4647 4672	plicní parenchym bez změn
+T39	SYMPTOM 4739 4783	aktivita síní stimulovaná kardiostimulátorem
+T40	SYMPTOM 4801 4825	úzké QRS s normální osou
+T41	SYMPTOM 4827 4843	bifázická vlna T
+T42	SYMPTOM 5277 5295	synkopální příhody
+T43	SYMPTOM 5792 5799	Synkopa
+T44	SYMPTOM 6016 6031	angina pectoris
+T45	SYMPTOM 6044 6068	rychlé komorové odpovědi

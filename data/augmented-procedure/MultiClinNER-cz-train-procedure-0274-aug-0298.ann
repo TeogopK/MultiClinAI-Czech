@@ -1,0 +1,38 @@
+T1	PROCEDURE 409 429	tříselnou herniapsii
+T2	PROCEDURE 480 488	anamnéze
+T3	PROCEDURE 587 595	antacidy
+T4	PROCEDURE 638 657	Fyzikální vyšetření
+T5	PROCEDURE 729 769	Vyšetření hlavy, krku, hrudníku a břicha
+T6	PROCEDURE 838 859	laboratorní vyšetření
+T7	PROCEDURE 861 873	krevní obraz
+T8	PROCEDURE 876 885	biochemii
+T9	PROCEDURE 889 905	rentgen hrudníku
+T10	PROCEDURE 1128 1168	rentgenové vyšetření paranasálních dutin
+T11	PROCEDURE 1482 1499	analytický rozbor
+T12	PROCEDURE 1502 1530	test okultní krve ve stolici
+T13	PROCEDURE 1622 1636	Mantouxův test
+T14	PROCEDURE 1689 1721	sputem a Ziehlovým testem v moči
+T15	PROCEDURE 1723 1769	základní vyšetření arteriálních krevních plynů
+T16	PROCEDURE 1771 1793	funkční vyšetření plic
+T17	PROCEDURE 1795 1798	PFT
+T18	PROCEDURE 1802 1831	methacholinový challenge test
+T19	PROCEDURE 1833 1851	fibrobronchoskopii
+T20	PROCEDURE 1853 1882	hrudní počítačovou tomografii
+T21	PROCEDURE 1884 1886	CT
+T22	PROCEDURE 1964 1981	bronchodilatancii
+T23	PROCEDURE 2322 2357	Test na okultní krvácení ve stolici
+T24	PROCEDURE 2493 2505	kolonoskopii
+T25	PROCEDURE 2508 2526	neprůhledné klyzma
+T26	PROCEDURE 2882 2901	CT vyšetření břicha
+T27	PROCEDURE 3032 3044	gastroskopií
+T28	PROCEDURE 3047 3054	biopsií
+T29	PROCEDURE 3060 3086	panendoskopii dutiny ústní
+T30	PROCEDURE 3173 3194	patologickou anatomií
+T31	PROCEDURE 3195 3206	bioptického
+T32	PROCEDURE 3275 3299	explorativní laparotomie
+T33	PROCEDURE 3448 3492	Několik těchto uzlin bylo odebráno k biopsii
+T34	PROCEDURE 3485 3492	biopsii
+T35	PROCEDURE 3510 3553	parciální gastrektomie s gastrojejunostomií
+T36	PROCEDURE 3557 3564	biopsii
+T37	PROCEDURE 3770 3786	adjuvantní léčby
+T38	PROCEDURE 3934 3950	paliativní léčba

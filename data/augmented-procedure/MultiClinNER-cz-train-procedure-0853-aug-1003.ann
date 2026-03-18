@@ -1,0 +1,35 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 482 496	císařském řezu
+T3	PROCEDURE 1092 1112	fyzikálním vyšetření
+T4	PROCEDURE 1196 1212	Auskultace srdce
+T5	PROCEDURE 1248 1263	Auskultace plic
+T6	PROCEDURE 1406 1423	Elektrokardiogram
+T7	PROCEDURE 1427 1430	EKG
+T8	PROCEDURE 1596 1599	EKG
+T9	PROCEDURE 1743 1755	RTG hrudníku
+T10	PROCEDURE 1874 1900	markerů poškození myokardu
+T11	PROCEDURE 2090 2111	biochemické vyšetření
+T12	PROCEDURE 2113 2121	hemogram
+T13	PROCEDURE 2124 2133	koagulace
+T14	PROCEDURE 2150 2166	echokardiografie
+T15	PROCEDURE 2398 2414	Ultrazvuk břicha
+T16	PROCEDURE 2443 2457	Koronarografie
+T17	PROCEDURE 2848 2862	koronarografie
+T18	PROCEDURE 3282 3299	elektrokardiogram
+T19	PROCEDURE 3301 3304	EKG
+T20	PROCEDURE 3406 3420	koronarografie
+T21	PROCEDURE 3431 3445	Koronarografie
+T22	PROCEDURE 3700 3729	elektrokardiografického stavu
+T23	PROCEDURE 4086 4102	vazoaktivní léky
+T24	PROCEDURE 4187 4199	RTG hrudníku
+T25	PROCEDURE 4269 4272	EKG
+T26	PROCEDURE 4274 4277	EKG
+T27	PROCEDURE 4384 4398	koronarografie
+T28	PROCEDURE 4400 4414	Koronarografie
+T29	PROCEDURE 4652 4698	intervenci vedené intravaskulárním ultrazvukem
+T30	PROCEDURE 4700 4704	IVUS
+T31	PROCEDURE 4720 4789	angioplastického katétru a průchodu vodicího drátu na ADA a diagonálu
+T32	PROCEDURE 4945 5060	Do koronárního kmene proximální přední sestupné koronární tepny byl implantován stent 3,5 x 28 mm uvolňující léčivo
+T33	PROCEDURE 5547 5563	echokardiografie
+T34	PROCEDURE 5599 5626	magnetickou rezonanci srdce
+T35	PROCEDURE 6115 6126	zaveden ICD

@@ -1,0 +1,34 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 66 74	Anamnéza
+T4	PROCEDURE 309 328	Fyzikální vyšetření
+T5	PROCEDURE 414 430	Auskultace srdce
+T6	PROCEDURE 473 490	Plicní auskultace
+T7	PROCEDURE 556 572	ECHOKARDIOGRAFIE
+T8	PROCEDURE 586 589	RTG
+T9	PROCEDURE 610 631	Laboratorní vyšetření
+T10	PROCEDURE 633 642	biochemie
+T11	PROCEDURE 711 717	Astrup
+T12	PROCEDURE 790 802	krevní obraz
+T13	PROCEDURE 886 895	Koagulace
+T14	PROCEDURE 935 961	CT břicha s řezy hrudníkem
+T15	PROCEDURE 1177 1188	hemokultury
+T16	PROCEDURE 1222 1251	Transtorakální echokardiogram
+T17	PROCEDURE 1392 1437	transezofageální echokardiografické vyšetření
+T18	PROCEDURE 1409 1437	echokardiografické vyšetření
+T19	PROCEDURE 1439 1470	Transezofageální echokardiogram
+T20	PROCEDURE 1601 1611	hemokultur
+T21	PROCEDURE 1709 1718	CT břicha
+T22	PROCEDURE 1817 1828	hemokultury
+T23	PROCEDURE 1989 2018	transtorakální echokardiogram
+T24	PROCEDURE 2210 2228	antibiotická léčba
+T25	PROCEDURE 2319 2340	reaktantů akutní fáze
+T26	PROCEDURE 2361 2371	hemokultur
+T27	PROCEDURE 2383 2426	transtorakální echokardiografické vyšetření
+T28	PROCEDURE 2460 2480	antibiotické terapie
+T29	PROCEDURE 2582 2600	antibiotické léčby
+T30	PROCEDURE 2631 2659	echokardiografické vyšetření
+T31	PROCEDURE 2717 2731	echokardiogram
+T32	PROCEDURE 2781 2803	chirurgická intervence
+T33	PROCEDURE 2918 2928	resekována
+T34	PROCEDURE 2939 2961	uzavřen přímou suturou

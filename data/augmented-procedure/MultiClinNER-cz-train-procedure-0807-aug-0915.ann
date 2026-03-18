@@ -1,0 +1,45 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 154 162	Anamnéza
+T4	PROCEDURE 337 359	kardiologická anamnéza
+T5	PROCEDURE 367 383	rodinná anamnéza
+T6	PROCEDURE 412 420	anamnéza
+T7	PROCEDURE 971 990	Fyzikální vyšetření
+T8	PROCEDURE 1207 1223	auskultaci srdce
+T9	PROCEDURE 1260 1275	auskultaci plic
+T10	PROCEDURE 1465 1482	elektrokardiogram
+T11	PROCEDURE 1484 1487	EKG
+T12	PROCEDURE 1594 1611	Laboratorní testy
+T13	PROCEDURE 1836 1867	Transtorakální echokardiografie
+T14	PROCEDURE 2375 2385	Ergometrie
+T15	PROCEDURE 2403 2446	maximální ergometrie s Bruceovým protokolem
+T16	PROCEDURE 2668 2671	EKG
+T17	PROCEDURE 2831 2845	Koronarografie
+T18	PROCEDURE 3144 3146	CT
+T19	PROCEDURE 3168 3189	srdeční synchronizací
+T20	PROCEDURE 3756 3774	Zátěžová MRI srdce
+T21	PROCEDURE 4273 4301	echokardiografické hodnocení
+T22	PROCEDURE 4526 4542	zátěžového testu
+T23	PROCEDURE 4904 4918	koronarografie
+T24	PROCEDURE 4943 4953	kanylována
+T25	PROCEDURE 5101 5110	kanylovat
+T26	PROCEDURE 5515 5532	CT koronarografie
+T27	PROCEDURE 5561 5575	koronarografií
+T28	PROCEDURE 5700 5734	reimplantace pravé koronární tepny
+T29	PROCEDURE 5736 5754	parietální resekce
+T30	PROCEDURE 5760 5769	unroofing
+T31	PROCEDURE 5773 5779	bypass
+T32	PROCEDURE 5831 5852	zobrazovací vyšetření
+T33	PROCEDURE 5938 5945	operace
+T34	PROCEDURE 5947 5966	Antianginózní léčba
+T35	PROCEDURE 6108 6122	Beta-blokátory
+T36	PROCEDURE 6202 6205	CMR
+T37	PROCEDURE 6208 6222	vazodilatancií
+T38	PROCEDURE 6351 6366	vyvolání zátěže
+T39	PROCEDURE 6384 6396	vazodilatace
+T40	PROCEDURE 6629 6644	vyvolání zátěže
+T41	PROCEDURE 6690 6708	chirurgický zákrok
+T42	PROCEDURE 6709 6724	kardiochirurgem
+T43	PROCEDURE 6824 6844	medikamentózní léčbu
+T44	PROCEDURE 6990 7009	antianginózní léčbu
+T45	PROCEDURE 7017 7026	sledování

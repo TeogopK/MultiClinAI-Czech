@@ -1,0 +1,65 @@
+T1	DISEASE 88 108	alergii na penicilin
+T2	DISEASE 122 137	alergologickými
+T3	DISEASE 154 159	kuřák
+T4	DISEASE 184 198	toxické návyky
+T5	DISEASE 528 559	krční a axilární lymfadenopatií
+T6	DISEASE 621 641	syndrom mononukleózy
+T7	DISEASE 952 966	postižen kazem
+T8	DISEASE 1122 1156	krční a axilární lymfatické uzliny
+T9	DISEASE 1370 1383	hepatomegalií
+T10	DISEASE 1434 1446	kožních lézí
+T11	DISEASE 1506 1558	erytematózními makulárními lézemi na obou chodidlech
+T12	DISEASE 2239 2259	repolarizačních změn
+T13	DISEASE 2608 2641	Levá komora (LK) mírně dilatovaná
+T14	DISEASE 2841 2866	Mírně dilatovaná levá síň
+T15	DISEASE 3064 3103	Mitrální chlopeň (MV): ztluštělé lístky
+T16	DISEASE 3311 3337	destrukci mitrální chlopně
+T17	DISEASE 3350 3385	středně těžkou mitrální insuficienc
+T18	DISEASE 3387 3389	MI
+T19	DISEASE 3734 3756	infekční endokarditidu
+T20	DISEASE 3758 3760	IE
+T21	DISEASE 3784 3810	trikuspidální insuficience
+T22	DISEASE 3812 3814	TI
+T23	DISEASE 3944 3965	perikardiální výpotek
+T24	DISEASE 4416 4426	závažný MI
+T25	DISEASE 4495 4501	absces
+T26	DISEASE 4579 4671	dvě ložiskové léze: hyperdenzní subkortikální léze o velikosti 1 cm vedle Rolandovy štěrbiny
+T27	DISEASE 4828 4853	kompresivního hydrocefalu
+T28	DISEASE 5221 5245	paravalvulárním abscesem
+T29	DISEASE 5247 5322	Hepatomegalie s fokální hypodenzní lézí 4 mm v segmentu VII cystické povahy
+T30	DISEASE 5324 5337	Splenomegalie
+T31	DISEASE 5356 5442	periferně umístěných ložiskových hypodenzních lézí v posteroinferiorní oblasti sleziny
+T32	DISEASE 5492 5530	levé ledviny se nachází ložisková léze
+T33	DISEASE 5626 5633	abscesu
+T34	DISEASE 5885 5897	mikroembolií
+T35	DISEASE 5930 5946	hemoragická léze
+T36	DISEASE 5976 6028	hemoragickým výpotkem do subarachnoidálního prostoru
+T37	DISEASE 6223 6237	Mozečková léze
+T38	DISEASE 6335 6347	hydrocefalus
+T39	DISEASE 6449 6462	hepatomegalie
+T40	DISEASE 6576 6599	léze zabírající prostor
+T41	DISEASE 6601 6604	LOE
+T42	DISEASE 6887 6894	ascites
+T43	DISEASE 7117 7178	léze s hemoragickou složkou (jedna mozková a druhá mozečková)
+T44	DISEASE 7459 7461	MR
+T45	DISEASE 7511 7530	akutní subakutní MR
+T46	DISEASE 7626 7628	IE
+T47	DISEASE 7773 7812	embolie na úrovni mozku, mozečku a IIJS
+T48	DISEASE 7833 7853	mitrální regurgitaci
+T49	DISEASE 7916 7933	srdečního selhání
+T50	DISEASE 8082 8119	alergii na beta-laktamová antibiotika
+T51	DISEASE 8497 8539	embolie a abscesy v levé ledvině a slezině
+T52	DISEASE 8611 8641	mitrální perivalvulární absces
+T53	DISEASE 8727 8809	těžkou mitrální insuficienci v důsledku částečné ruptury zadního mitrálního lístku
+T54	DISEASE 8913 8949	infarkty s hemoragickou transformací
+T55	DISEASE 9346 9348	IE
+T56	DISEASE 9582 9603	alergie na peniciliny
+T57	DISEASE 10221 10300	snížení mikrokrvácení, mikroinfarktů a předchozího intraparenchymového krvácení
+T58	DISEASE 10312 10328	postiženého zubu
+T59	DISEASE 10480 10502	infekční endokarditidy
+T60	DISEASE 10504 10525	perivalvulární absces
+T61	DISEASE 10727 10825	Subakutní infekční endokarditida na nativní mitrální chlopni způsobená Aggregatibacter aphrophilus
+T62	DISEASE 10827 10857	Perivalvulární mitrální absces
+T63	DISEASE 10939 11021	těžkou mitrální insuficienci v důsledku částečné ruptury zadního mitrálního lístku
+T64	DISEASE 11023 11123	Mnohočetné septické embolie (mozková, mozečková, slezinná, levé ledviny, sítnice, distální končetiny
+T65	DISEASE 11151 11248	mozkových embolických lézí lokalizovaných v levé parietální konvexitě a pravé mozečkové hemisféře

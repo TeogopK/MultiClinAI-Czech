@@ -1,0 +1,38 @@
+T1	PROCEDURE 14 16	HD
+T2	PROCEDURE 67 90	bilaterální nefrektomie
+T3	PROCEDURE 162 174	apendektomie
+T4	PROCEDURE 176 192	cholecystektomie
+T5	PROCEDURE 195 228	pravostranná tříselná herniorafie
+T6	PROCEDURE 230 242	Splenektomie
+T7	PROCEDURE 268 292	pravostranné nefrektomii
+T8	PROCEDURE 351 389	femorální kanylace (dialyzační katétr)
+T9	PROCEDURE 681 697	cévního přístupu
+T10	PROCEDURE 748 775	pravého femorálního katétru
+T11	PROCEDURE 850 875	levá humero-cefalická AVF
+T12	PROCEDURE 1065 1095	pravostranná humerobazální AVF
+T13	PROCEDURE 1143 1192	implantován pravostranný humeroaxilární PTFE štěp
+T14	PROCEDURE 1346 1392	tunelový katétr do levé vnitřní jugulární žíly
+T15	PROCEDURE 1477 1496	antibiotickou léčbu
+T16	PROCEDURE 1545 1582	kanylaci pravé vnitřní jugulární žíly
+T17	PROCEDURE 1585 1627	katétr byl zaveden do pravé femorální žíly
+T18	PROCEDURE 1689 1692	AVF
+T19	PROCEDURE 1816 1870	levou femorální tepnu a žílu implantována PTFE protéza
+T20	PROCEDURE 1963 2015	pravé vnitřní krční žíly implantován tunelový katétr
+T21	PROCEDURE 2098 2112	antibioterapií
+T22	PROCEDURE 2205 2247	lokální i systémovou fibrinolytickou léčbu
+T23	PROCEDURE 2300 2313	antikoagulace
+T24	PROCEDURE 2523 2544	antikoagulační léčbou
+T25	PROCEDURE 2634 2677	pokus o výměnu katétru stejnou žilní linkou
+T26	PROCEDURE 2683 2694	nový katétr
+T27	PROCEDURE 2781 2825	do levé stehenní žíly zaveden dočasný katétr
+T28	PROCEDURE 2882 2906	funkční centrální katétr
+T29	PROCEDURE 2933 3016	pravé přední minitorakotomie zaveden tunelový katétr Split-Cath přímo do pravé síně
+T30	PROCEDURE 3031 3043	dialyzačního
+T31	PROCEDURE 3238 3259	antibiotickou terapií
+T32	PROCEDURE 3322 3395	sterilním silikonovým těsněním a umístěním PTFE návleku kolem místa úniku
+T33	PROCEDURE 3465 3497	utěsnění a použitím PTFE návleku
+T34	PROCEDURE 3598 3648	zavedení dočasného katétru do pravé stehenní tepny
+T35	PROCEDURE 3700 3778	transtorakální výměna pomocí torakotomie a byl zaveden další Split-Cath katétr
+T36	PROCEDURE 4207 4240	katétru přemístěn do hemodynamiky
+T37	PROCEDURE 4329 4370	dočasného katétru do pravé stehenní tepny
+T38	PROCEDURE 4481 4543	dialyzačním středisku prostřednictvím transtorakálního katétru

@@ -1,0 +1,78 @@
+T1	DISEASE 87 101	lékové alergie
+T2	DISEASE 103 117	Toxické návyky
+T3	DISEASE 119 126	kuřačka
+T4	DISEASE 181 196	Neužívá alkohol
+T5	DISEASE 255 265	hypertenze
+T6	DISEASE 267 279	dyslipidemie
+T7	DISEASE 281 307	diabetes mellitus II. typu
+T8	DISEASE 378 400	diabetické retinopatie
+T9	DISEASE 402 418	Morbidní obezita
+T10	DISEASE 494 521	Chronický koronární syndrom
+T11	DISEASE 561 585	námahové anginy pectoris
+T12	DISEASE 744 800	významné stenózy ve středodistální přední sestupné tepně
+T13	DISEASE 846 865	mírnou ateromatózou
+T14	DISEASE 932 964	středně závažná aortální stenóza
+T15	DISEASE 1001 1051	nedilatovanou, středně hypertrofickou levou komoru
+T16	DISEASE 1104 1167	Sklerokalcifikovaná aortální chlopeň se středně těžkou stenózou
+T17	DISEASE 1229 1273	Mírně až středně těžká aortální insuficience
+T18	DISEASE 1275 1328	Sklerotizovaná mitrální chlopeň s mírnou insuficiencí
+T19	DISEASE 1465 1533	Mírná trikuspidální insuficience se středně těžkou plicní hypertenzí
+T20	DISEASE 1535 1563	Středně dilatovaná pravá síň
+T21	DISEASE 1571 1592	perikardiální výpotek
+T22	DISEASE 1600 1621	dilatace kořene aorty
+T23	DISEASE 1649 1680	Opakované infekce močových cest
+T24	DISEASE 1682 1696	Steatóza jater
+T25	DISEASE 1719 1731	pupeční kýla
+T26	DISEASE 2209 2241	chronického koronárního syndromu
+T27	DISEASE 2330 2360	středně těžké aortální stenózy
+T28	DISEASE 2471 2487	anginou pectoris
+T29	DISEASE 2501 2508	synkopy
+T30	DISEASE 2764 2777	Těžká obezita
+T31	DISEASE 2952 2960	obezitou
+T32	DISEASE 3070 3116	Chronické kožní trofiky na dolních končetinách
+T33	DISEASE 3257 3280	Hypertrofie levé komory
+T34	DISEASE 3524 3607	Nedilatovaná levá komora (DVItd 44 mm), se středně těžkou koncentrickou hypertrofií
+T35	DISEASE 3743 3783	Mírná sklerokalcifikace mitrální chlopně
+T36	DISEASE 3804 3854	Trojcípá aortální chlopeň, těžká sklerokalcifikace
+T37	DISEASE 3972 4016	Mírná až středně těžká aortální insuficience
+T38	DISEASE 4018 4043	Mírně dilatovaná levá síň
+T39	DISEASE 4179 4205	trikuspidální insuficience
+T40	DISEASE 4260 4277	plicní hypertenzi
+T41	DISEASE 4344 4365	perikardiální výpotek
+T42	DISEASE 5603 5668	Kalcifikované pláty v infrarenální břišní aortě a společné ilické
+T43	DISEASE 6042 6102	Přední sestupná tepna vykazuje hustou parietální kalcifikaci
+T44	DISEASE 6253 6305	středně rozsáhlou difuzní kalcifikovanou ateromatózu
+T45	DISEASE 6344 6387	Difuzní kalcifikovaná koronární ateromatóza
+T46	DISEASE 6546 6614	nedilatovaná levá komora se středně těžkou koncentrickou hypertrofií
+T47	DISEASE 6764 6785	aortální insuficience
+T48	DISEASE 6787 6823	Sklerokalcifikovaná mitrální chlopeň
+T49	DISEASE 6898 6923	Mírně dilatovaná levá síň
+T50	DISEASE 6973 6999	trikuspidální insuficience
+T51	DISEASE 7105 7126	perikardiální výpotek
+T52	DISEASE 7221 7252	chronickým koronárním syndromem
+T53	DISEASE 7268 7328	dvojitou aortální lézí s převažující středně těžkou stenózou
+T54	DISEASE 7581 7633	dvojitou aortální lézi s převažující těžkou stenózou
+T55	DISEASE 7695 7744	závažné symptomatické onemocnění aortální chlopně
+T56	DISEASE 7998 8013	morbidně obézní
+T57	DISEASE 8093 8100	obezita
+T58	DISEASE 8396 8403	diabetu
+T59	DISEASE 8674 8681	diabetu
+T60	DISEASE 8854 8887	opakovaných infekcí močových cest
+T61	DISEASE 9494 9526	kompletní blokáda levého raménka
+T62	DISEASE 9531 9557	atrioventrikulární blokády
+T63	DISEASE 9591 9611	aortální regurgitace
+T64	DISEASE 10039 10060	arteriální hypertenzi
+T65	DISEASE 10286 10306	bloku levého raménka
+T66	DISEASE 10329 10355	atrioventrikulární blokády
+T67	DISEASE 10436 10484	mimoplicní restrikční poruchy v důsledku obezity
+T68	DISEASE 10503 10518	plicní kongescí
+T69	DISEASE 10680 10690	infekčními
+T70	DISEASE 10881 10889	hematomů
+T71	DISEASE 11366 11378	valvulopatie
+T72	DISEASE 11409 11424	anginy pectoris
+T73	DISEASE 11722 11745	těžkou aortální stenózu
+T74	DISEASE 11747 11774	Chronický koronární syndrom
+T75	DISEASE 11868 11878	hypertenze
+T76	DISEASE 11880 11906	diabetes mellitus II. typu
+T77	DISEASE 11908 11920	dyslipidemie
+T78	DISEASE 11922 11929	obezita

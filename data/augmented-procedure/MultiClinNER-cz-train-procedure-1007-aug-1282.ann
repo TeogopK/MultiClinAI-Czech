@@ -1,0 +1,42 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 915 944	transtorakální echokardiogram
+T3	PROCEDURE 946 949	TTE
+T4	PROCEDURE 1227 1242	Ergospirometrie
+T5	PROCEDURE 1358 1366	diuretik
+T6	PROCEDURE 1427 1443	renálních funkcí
+T7	PROCEDURE 1458 1480	neurohormonálních léků
+T8	PROCEDURE 1619 1663	implantací bostonského ICD-resynchronizátoru
+T9	PROCEDURE 2309 2326	diuretickou léčbu
+T10	PROCEDURE 2440 2456	renálních funkcí
+T11	PROCEDURE 2570 2595	předtransplantační studie
+T12	PROCEDURE 3063 3082	Fyzikální vyšetření
+T13	PROCEDURE 3373 3389	Auskultace srdce
+T14	PROCEDURE 3471 3488	Plicní auskultace
+T15	PROCEDURE 3583 3590	palpaci
+T16	PROCEDURE 3809 3811	KO
+T17	PROCEDURE 4218 4227	Koagulace
+T18	PROCEDURE 4350 4359	Biochemie
+T19	PROCEDURE 4683 4696	Profil železa
+T20	PROCEDURE 4803 4820	Glykemický profil
+T21	PROCEDURE 4886 4901	Lipidový profil
+T22	PROCEDURE 5046 5058	RTG hrudníku
+T23	PROCEDURE 5226 5243	Elektrokardiogram
+T24	PROCEDURE 5245 5248	EKG
+T25	PROCEDURE 5377 5391	Echokardiogram
+T26	PROCEDURE 5811 5827	Levá katetrizace
+T27	PROCEDURE 5888 5905	Pravá katetrizace
+T28	PROCEDURE 6237 6251	Renální funkce
+T29	PROCEDURE 6341 6357	diuretické léčbě
+T30	PROCEDURE 6359 6372	Profil železa
+T31	PROCEDURE 6546 6571	katetrizace pravého srdce
+T32	PROCEDURE 7144 7159	genetický panel
+T33	PROCEDURE 7161 7195	Genetická studie pomocí panelu NGS
+T34	PROCEDURE 7506 7536	předtransplantačního vyšetření
+T35	PROCEDURE 7847 7866	transplantaci srdce
+T36	PROCEDURE 7954 7969	kultivace sputa
+T37	PROCEDURE 8204 8219	ultrazvuku plic
+T38	PROCEDURE 8302 8318	diuretické léčbě
+T39	PROCEDURE 8578 8599	implantaci MitraClipu
+T40	PROCEDURE 8713 8744	vysazena intravenózní diuretika
+T41	PROCEDURE 9627 9646	transplantaci srdce
+T42	PROCEDURE 9870 9877	Holteru

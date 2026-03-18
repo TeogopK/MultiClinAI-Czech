@@ -1,0 +1,29 @@
+T1	DISEASE 94 111	aktivního kouření
+T2	DISEASE 128 140	dyslipidémií
+T3	DISEASE 142 166	eozinofilní ezofagitidou
+T4	DISEASE 205 222	Tarlovovou cystou
+T5	DISEASE 225 256	útlakem levého křížového kořene
+T6	DISEASE 277 303	ischemická choroba srdeční
+T7	DISEASE 490 517	ischemickou chorobu srdeční
+T8	DISEASE 544 602	závažné onemocnění pravého cirkumflexu a koronárních tepen
+T9	DISEASE 727 738	bronchitidu
+T10	DISEASE 879 897	synkopální příhodu
+T11	DISEASE 1147 1192	akutní koronární syndrom s elevacemi úseku ST
+T12	DISEASE 1194 1199	STEMI
+T13	DISEASE 1508 1521	disekce aorty
+T14	DISEASE 1792 1806	kožní vyrážkou
+T15	DISEASE 1972 1992	anafylaktického šoku
+T16	DISEASE 2032 2048	Kounisův syndrom
+T17	DISEASE 2055 2072	koronární spasmus
+T18	DISEASE 2081 2097	alergické reakce
+T19	DISEASE 2539 2561	hluboké žilní trombózy
+T20	DISEASE 3118 3155	segmentálních asymetrií kontraktility
+T21	DISEASE 3528 3554	Trikuspidální insuficience
+T22	DISEASE 3556 3558	TI
+T23	DISEASE 3708 3731	perikardiálního výpotku
+T24	DISEASE 3916 3929	disekce aorty
+T25	DISEASE 4303 4329	akutního infarktu myokardu
+T26	DISEASE 4331 4334	AIM
+T27	DISEASE 4510 4527	Anafylaktický šok
+T28	DISEASE 4552 4568	Kounisův syndrom
+T29	DISEASE 4570 4606	Chronická ischemická choroba srdeční

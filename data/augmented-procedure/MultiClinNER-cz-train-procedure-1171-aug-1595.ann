@@ -1,0 +1,49 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 68	Osobní anamnéza
+T4	PROCEDURE 188 215	minimálně invazivní operací
+T5	PROCEDURE 217 274	modifikovaná pravostranná minitorakotomie typu Heart Port
+T6	PROCEDURE 563 582	Fyzikální vyšetření
+T7	PROCEDURE 924 940	Auskultace srdce
+T8	PROCEDURE 967 982	Auskultace plic
+T9	PROCEDURE 1109 1126	Elektrokardiogram
+T10	PROCEDURE 1128 1131	EKG
+T11	PROCEDURE 1224 1236	Krevní obraz
+T12	PROCEDURE 1408 1416	glykémie
+T13	PROCEDURE 1504 1527	Plyny v arteriální krvi
+T14	PROCEDURE 1606 1618	RTG hrudníku
+T15	PROCEDURE 1766 1814	Transtorakální a transezofageální echokardiogram
+T16	PROCEDURE 1816 1842	transezofageální vyšetření
+T17	PROCEDURE 1848 1854	sedace
+T18	PROCEDURE 2418 2437	Injekce gelafundinu
+T19	PROCEDURE 2517 2525	Angio-CT
+T20	PROCEDURE 2919 2951	ventilační/perfuzní scintigrafií
+T21	PROCEDURE 2953 2977	scintigrafické vyšetření
+T22	PROCEDURE 3014 3025	Spirometrie
+T23	PROCEDURE 3073 3099	Magnetická rezonance srdce
+T24	PROCEDURE 3188 3199	hypertrofie
+T25	PROCEDURE 3572 3587	3D cévní studii
+T26	PROCEDURE 3724 3730	drenáž
+T27	PROCEDURE 3733 3740	drenáží
+T28	PROCEDURE 3785 3791	drenáž
+T29	PROCEDURE 3806 3815	Vyšetření
+T30	PROCEDURE 3845 3857	LGE myokardu
+T31	PROCEDURE 3914 3920	drenáž
+T32	PROCEDURE 3923 3930	drenáží
+T33	PROCEDURE 4134 4165	transtorakální echokardiografie
+T34	PROCEDURE 4167 4170	TTE
+T35	PROCEDURE 4174 4207	transezofageální echokardiografie
+T36	PROCEDURE 4209 4212	TEE
+T37	PROCEDURE 4254 4263	vyšetření
+T38	PROCEDURE 4340 4393	Kontrastní látka byla podána přes obě horní končetiny
+T39	PROCEDURE 4491 4493	CT
+T40	PROCEDURE 4501 4530	ventilačně-perfuzní vyšetření
+T41	PROCEDURE 4636 4663	magnetickou rezonancí srdce
+T42	PROCEDURE 4665 4668	CMR
+T43	PROCEDURE 4702 4708	drenáž
+T44	PROCEDURE 4785 4803	anatomická korekce
+T45	PROCEDURE 4832 4839	operace
+T46	PROCEDURE 4997 5003	drenáž
+T47	PROCEDURE 5139 5166	arteriálních krevních plynů
+T48	PROCEDURE 5169 5185	echokardiografie
+T49	PROCEDURE 5245 5265	chirurgické reparaci

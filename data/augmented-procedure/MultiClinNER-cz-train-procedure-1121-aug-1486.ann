@@ -1,0 +1,29 @@
+T1	PROCEDURE 537 573	Neurologické a abdominální vyšetření
+T2	PROCEDURE 602 605	EKG
+T3	PROCEDURE 868 907	léčba dvojitou protidestičkovou terapií
+T4	PROCEDURE 1563 1589	Rentgenový snímek hrudníku
+T5	PROCEDURE 1648 1664	Echokardiografie
+T6	PROCEDURE 1861 1875	Koronarografie
+T7	PROCEDURE 1938 1946	MR srdce
+T8	PROCEDURE 2641 2660	Paraziti ve stolici
+T9	PROCEDURE 2673 2686	Stanovení IgE
+T10	PROCEDURE 2783 2799	Nádorové markery
+T11	PROCEDURE 2966 2986	Aspirát kostní dřeně
+T12	PROCEDURE 2988 3008	průtoková cytometrie
+T13	PROCEDURE 3090 3119	sekvenační vyšetření TCR Beta
+T14	PROCEDURE 3169 3181	Cytogenetika
+T15	PROCEDURE 3227 3245	Sérologie helmintů
+T16	PROCEDURE 3319 3338	Elektroencefalogram
+T17	PROCEDURE 3491 3511	Torakoabdominální CT
+T18	PROCEDURE 4218 4232	Koronarografie
+T19	PROCEDURE 4281 4312	Transtorakální echokardiografie
+T20	PROCEDURE 4505 4514	MRI srdce
+T21	PROCEDURE 4683 4709	Magnetická rezonance mozku
+T22	PROCEDURE 4770 4827	Dopplerovské ultrazvukové vyšetření supraaortálních kmenů
+T23	PROCEDURE 4857 4894	vyšetření hypereozinofilního syndromu
+T24	PROCEDURE 4975 4995	Aspirát kostní dřeně
+T25	PROCEDURE 5027 5060	Parazitologická kultivace stolice
+T26	PROCEDURE 5125 5139	kortikoterapií
+T27	PROCEDURE 5751 5790	2 transfuze erytrocytárních koncentrátů
+T28	PROCEDURE 5850 5862	kolonoskopii
+T29	PROCEDURE 6020 6042	perfuzní sedoanalgezii

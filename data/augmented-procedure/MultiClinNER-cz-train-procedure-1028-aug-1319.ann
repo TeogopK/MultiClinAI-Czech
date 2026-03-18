@@ -1,0 +1,66 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 649 654	NSAID
+T3	PROCEDURE 1125 1143	ultrazvukem břicha
+T4	PROCEDURE 1204 1212	hemogram
+T5	PROCEDURE 1244 1260	ultrazvuk břicha
+T6	PROCEDURE 1371 1401	torakoabdominální CT vyšetření
+T7	PROCEDURE 1519 1548	transtorakální echokardiogram
+T8	PROCEDURE 1763 1791	empirická antibiotická léčba
+T9	PROCEDURE 1893 1911	krevních kulturách
+T10	PROCEDURE 2011 2060	transezofageálního echokardiografického vyšetření
+T11	PROCEDURE 2345 2388	transtorakální echokardiografické vyšetření
+T12	PROCEDURE 2472 2497	kardiologických vyšetření
+T13	PROCEDURE 2500 2519	Fyzikální vyšetření
+T14	PROCEDURE 2719 2728	hydratace
+T15	PROCEDURE 2939 2954	Auskultace plic
+T16	PROCEDURE 3023 3039	Auskultace srdce
+T17	PROCEDURE 4071 4073	KO
+T18	PROCEDURE 4280 4289	Koagulace
+T19	PROCEDURE 4413 4427	Kultivace krve
+T20	PROCEDURE 4584 4603	Dvanáctisvodové EKG
+T21	PROCEDURE 4896 4922	Rentgenový snímek hrudníku
+T22	PROCEDURE 5212 5228	Ultrazvuk břicha
+T23	PROCEDURE 5478 5498	CT hrudníku a břicha
+T24	PROCEDURE 5938 5971	Transtorakální echokardiografické
+T25	PROCEDURE 6918 6949	Transezofageální echokardiogram
+T26	PROCEDURE 6951 6954	TEE
+T27	PROCEDURE 7445 7453	CT srdce
+T28	PROCEDURE 7779 7787	CT mozku
+T29	PROCEDURE 8452 8501	Pozitronová emisní tomografie s 18F-deoxyglukózou
+T30	PROCEDURE 8503 8508	PETTC
+T31	PROCEDURE 8788 8807	antibiotickou léčbu
+T32	PROCEDURE 9609 9629	Cerebrální angio-MRI
+T33	PROCEDURE 10160 10173	CT vyšetřením
+T34	PROCEDURE 10364 10373	angio-MRI
+T35	PROCEDURE 10538 10562	Cerebrální arteriografie
+T36	PROCEDURE 10564 10579	arteriograficky
+T37	PROCEDURE 10751 10764	angiografický
+T38	PROCEDURE 10830 10863	transezofageální echokardiografie
+T39	PROCEDURE 10866 10874	CT srdce
+T40	PROCEDURE 11286 11305	kardiochirurgického
+T41	PROCEDURE 11554 11572	CT vyšetření lebky
+T42	PROCEDURE 11686 11692	PET-CT
+T43	PROCEDURE 11939 11957	kardiochirurgickým
+T44	PROCEDURE 12111 12124	arteriografií
+T45	PROCEDURE 12127 12211	embolizací mykotického aneuryzmatu postihujícího větev M2 levé střední mozkové tepny
+T46	PROCEDURE 12233 12268	mozkové angio- magnetické rezonance
+T47	PROCEDURE 12378 12390	splenektomie
+T48	PROCEDURE 12504 12521	mimotělním oběhem
+T49	PROCEDURE 12563 12573	embolizaci
+T50	PROCEDURE 12589 12613	splenektomie laparotomií
+T51	PROCEDURE 12649 12661	splenektomii
+T52	PROCEDURE 12720 12776	resekce aortální chlopně s implantací biologické protézy
+T53	PROCEDURE 12828 12845	intraoperační TEE
+T54	PROCEDURE 13094 13120	intravenózními antibiotiky
+T55	PROCEDURE 13516 13525	transfuze
+T56	PROCEDURE 13535 13564	koncentrátů červených krvinek
+T57	PROCEDURE 13709 13718	hydratace
+T58	PROCEDURE 13904 13928	drenáže břišního abscesu
+T59	PROCEDURE 13995 14015	laparotomického řezu
+T60	PROCEDURE 14270 14324	Náhrada aortální chlopně biologickou protézou St. Jude
+T61	PROCEDURE 14525 14537	Splenektomie
+T62	PROCEDURE 14538 14549	laparotomií
+T63	PROCEDURE 14562 14585	drenáží hnisavé kolekce
+T64	PROCEDURE 14693 14737	Embolizace mozkového mykotického aneuryzmatu
+T65	PROCEDURE 14745 14758	arteriografie
+T66	PROCEDURE 14923 14932	diuretika

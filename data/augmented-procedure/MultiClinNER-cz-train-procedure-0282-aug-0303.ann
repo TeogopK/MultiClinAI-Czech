@@ -1,0 +1,40 @@
+T1	PROCEDURE 202 211	Vyšetření
+T2	PROCEDURE 297 323	Rentgenový snímek hrudníku
+T3	PROCEDURE 404 421	Laboratorní testy
+T4	PROCEDURE 569 594	mikrobiologická vyšetření
+T5	PROCEDURE 622 636	kultivace krve
+T6	PROCEDURE 638 652	kultivace moči
+T7	PROCEDURE 654 691	antigenurie na legionely a pneumokoky
+T8	PROCEDURE 693 706	stěr z hltanu
+T9	PROCEDURE 838 903	vzorek krve na detekci HIV infekce (anti-HIV protilátky a Ag p24)
+T10	PROCEDURE 1092 1106	oxygenoterapie
+T11	PROCEDURE 1237 1259	orotracheální intubaci
+T12	PROCEDURE 1262 1283	mechanickou ventilaci
+T13	PROCEDURE 1335 1346	antibiotika
+T14	PROCEDURE 1862 1882	24hodinová CLcr moči
+T15	PROCEDURE 2061 2138	stanovení autoprotilátek k vyloučení autoimunitního renopulmonálního syndromu
+T16	PROCEDURE 2140 2203	protilátky proti cytoplazmě neutrofilů a proti bazální membráně
+T17	PROCEDURE 2221 2264	stanovení galaktomananového antigenu v krvi
+T18	PROCEDURE 2279 2303	bronchoalveolární laváže
+T19	PROCEDURE 2305 2308	BAL
+T20	PROCEDURE 2334 2366	bakteriální a plísňová kultivace
+T21	PROCEDURE 2382 2407	detekce virových antigenů
+T22	PROCEDURE 2434 2451	PCR na adenovirus
+T23	PROCEDURE 2861 2879	antibiotická léčba
+T24	PROCEDURE 3161 3182	náhrady funkce ledvin
+T25	PROCEDURE 3202 3208	HDFVVC
+T26	PROCEDURE 3417 3435	antibiotické léčby
+T27	PROCEDURE 3954 3959	CVIDH
+T28	PROCEDURE 4129 4159	nefrotoxický účinek cidofoviru
+T29	PROCEDURE 4258 4288	hemodialýzu s vysokým průtokem
+T30	PROCEDURE 4638 4647	hydratace
+T31	PROCEDURE 4713 4728	hemodiafiltraci
+T32	PROCEDURE 4808 4825	krev na kultivaci
+T33	PROCEDURE 4992 5003	antibiotika
+T34	PROCEDURE 5198 5221	PCR na adenovirus v LBA
+T35	PROCEDURE 5264 5278	plicní biopsie
+T36	PROCEDURE 5345 5361	antivirová léčba
+T37	PROCEDURE 5542 5578	extrakorporální membránové oxygenace
+T38	PROCEDURE 5580 5584	ECMO
+T39	PROCEDURE 5599 5624	mikrobiologických izolací
+T40	PROCEDURE 5698 5722	transbronchiální biopsií

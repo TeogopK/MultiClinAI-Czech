@@ -1,0 +1,74 @@
+T1	DISEASE 132 153	Alergie na peniciliny
+T2	DISEASE 184 198	Toxické návyky
+T3	DISEASE 200 212	bývalý kuřák
+T4	DISEASE 274 295	arteriální hypertenze
+T5	DISEASE 297 300	AHT
+T6	DISEASE 303 342	Mírná chronická obstrukční plicní nemoc
+T7	DISEASE 344 349	CHOPN
+T8	DISEASE 471 492	Multinodulární struma
+T9	DISEASE 519 554	Paroxysmální fibrilace/flutter síní
+T10	DISEASE 611 623	septický šok
+T11	DISEASE 765 780	křížového vředu
+T12	DISEASE 822 849	nestabilní anginou pectoris
+T13	DISEASE 990 998	ischemii
+T14	DISEASE 1062 1110	akutní koronární syndrom bez elevací st segmentu
+T15	DISEASE 1112 1118	NSTEMI
+T16	DISEASE 1169 1201	lézí levé hlavní koronární tepny
+T17	DISEASE 1452 1479	mírná dilatace kořene aorty
+T18	DISEASE 1481 1521	mírná-středně těžká mitrální regurgitace
+T19	DISEASE 1601 1635	Gastroezofageální refluxní choroba
+T20	DISEASE 1637 1641	GERD
+T21	DISEASE 1645 1665	oesofagitidou IV./IV
+T22	DISEASE 1690 1699	Achalázie
+T23	DISEASE 1796 1828	respirační infekcí P. aeruginosa
+T24	DISEASE 1830 1864	infekce sakrálního escharu E. coli
+T25	DISEASE 1887 1914	nekaménkovou cholecystitidu
+T26	DISEASE 1916 1957	Divertikulóza tlustého střeva s krvácením
+T27	DISEASE 1991 2017	anémii z nedostatku železa
+T28	DISEASE 2031 2051	chronická gastritida
+T29	DISEASE 2083 2142	Pedunkulovaný polyp ve vzdálenosti 30 cm od análního okraje
+T30	DISEASE 2204 2214	divertikly
+T31	DISEASE 2247 2291	Angiodysplazie střeva s izolovaným krvácením
+T32	DISEASE 2847 2853	melénu
+T33	DISEASE 2968 2988	arteriální hypotenzi
+T34	DISEASE 3115 3149	lézi v levé hlavní koronární tepně
+T35	DISEASE 3209 3245	středně těžkou dysfunkci levé komory
+T36	DISEASE 3735 3758	špatná distální perfuze
+T37	DISEASE 4065 4102	žilní trombózy na dolních končetinách
+T38	DISEASE 4320 4334	fibrilace síní
+T39	DISEASE 4471 4483	flutter síní
+T40	DISEASE 4559 4572	kardiomegalie
+T41	DISEASE 4632 4651	pleurálním výpotkem
+T42	DISEASE 5552 5568	sakrálního vředu
+T43	DISEASE 5646 5702	dilatovaná LK (DTD 70 mm), s mírnou hypertrofií septa LK
+T44	DISEASE 5950 6039	Sklerokalcifikovaná aortální chlopeň, trojcípá, s dobrým otevíráním a mírnou insuficiencí
+T45	DISEASE 6041 6062	Středně dilatovaná LS
+T46	DISEASE 6064 6149	Sklerokalcifikovaná mitrální chlopeň, ztluštělé lístky, se středně těžkou regurgitací
+T47	DISEASE 6253 6282	Mírně dilatovaná pravá komora
+T48	DISEASE 6354 6405	Trikuspidální insuficience (TI) mírná-středně těžká
+T49	DISEASE 6431 6469	Dolní dutá žíla (DDŽ) mírně dilatovaná
+T50	DISEASE 6541 6562	perikardiální výpotek
+T51	DISEASE 6634 6646	valvulopatie
+T52	DISEASE 6682 6699	plicní hypertenzi
+T53	DISEASE 6740 6774	společný kmen s kritickou stenózou
+T54	DISEASE 7054 7119	Anatomicky dominantní pravá koronární tepna, difuzně ateromatózní
+T55	DISEASE 7616 7640	Angiodysplazie v žaludku
+T56	DISEASE 7672 7706	Milimetrový polyp ve slepém střevě
+T57	DISEASE 7953 7962	hypotenze
+T58	DISEASE 7982 8006	špatnou distální perfuzí
+T59	DISEASE 8620 8634	fibrilace síní
+T60	DISEASE 8839 8851	valvulopatie
+T61	DISEASE 8857 8874	plicní hypertenze
+T62	DISEASE 9461 9469	COVID-19
+T63	DISEASE 9589 9623	tlakového vředu v sakrální oblasti
+T64	DISEASE 9959 9978	progredující anémie
+T65	DISEASE 10154 10160	melény
+T66	DISEASE 10591 10595	FiSi
+T67	DISEASE 10903 10934	Angiodysplazie v žaludku a céku
+T68	DISEASE 11714 11719	STEMI
+T69	DISEASE 11731 11809	Závažné koronární onemocnění levé hlavní věnčité tepny (LMCA) s kritickou lézí
+T70	DISEASE 11856 11885	těžká systolická dysfunkce LK
+T71	DISEASE 11914 11927	Akutní anémie
+T72	DISEASE 12001 12025	Angiodysplazie v žaludku
+T73	DISEASE 12034 12069	Paroxyzmální fibrilace/flutter síní
+T74	DISEASE 12071 12092	Akutní selhání ledvin

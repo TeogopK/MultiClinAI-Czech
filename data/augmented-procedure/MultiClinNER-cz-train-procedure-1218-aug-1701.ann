@@ -1,0 +1,37 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 61	Anamnéza
+T4	PROCEDURE 79 95	Rodinná anamnéza
+T5	PROCEDURE 373 391	sérologický profil
+T6	PROCEDURE 493 513	chirurgické anamnézy
+T7	PROCEDURE 990 1009	Fyzikální vyšetření
+T8	PROCEDURE 1213 1229	Auskultace srdce
+T9	PROCEDURE 1254 1269	Auskultace plic
+T10	PROCEDURE 1393 1396	EKG
+T11	PROCEDURE 1564 1581	Laboratorní testy
+T12	PROCEDURE 1967 1980	profil železa
+T13	PROCEDURE 1991 2023	Emergentní koronární katetrizace
+T14	PROCEDURE 2294 2325	Perkutánní koronární intervence
+T15	PROCEDURE 2327 2330	PCI
+T16	PROCEDURE 2394 2409	aspirací trombu
+T17	PROCEDURE 2620 2649	optická koherentní tomografie
+T18	PROCEDURE 2651 2654	OCT
+T19	PROCEDURE 2945 2974	Transtorakální echokardiogram
+T20	PROCEDURE 3432 3435	EKG
+T21	PROCEDURE 3634 3651	elektrokardiogram
+T22	PROCEDURE 3725 3757	emergentní koronární katetrizaci
+T23	PROCEDURE 3831 3845	tromboaspirace
+T24	PROCEDURE 3848 3871	balónková angioplastika
+T25	PROCEDURE 3923 3958	intrakoronární zobrazení pomocí OCT
+T26	PROCEDURE 4147 4176	transtorakální echokardiogram
+T27	PROCEDURE 4266 4287	protidestičková léčba
+T28	PROCEDURE 4290 4303	antikoagulace
+T29	PROCEDURE 4369 4392	perorální antikoagulace
+T30	PROCEDURE 4429 4444	radiální punkce
+T31	PROCEDURE 4522 4535	antikoagulace
+T32	PROCEDURE 4598 4611	antikoagulace
+T33	PROCEDURE 4658 4680	protidestičkovou léčbu
+T34	PROCEDURE 4780 4802	kardiální rehabilitace
+T35	PROCEDURE 4804 4826	Koronární CT vyšetření
+T36	PROCEDURE 4960 5006	Urgentní revaskularizace pravé koronární tepny
+T37	PROCEDURE 5113 5143	perorální antikoagulační léčby

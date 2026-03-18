@@ -1,0 +1,57 @@
+T1	SYMPTOM 230 274	negativní močové katecholaminy a metanefriny
+T2	SYMPTOM 277 294	normální kortizol
+T3	SYMPTOM 408 433	elevaci ST v dolní frontě
+T4	SYMPTOM 492 516	normální koronární tepny
+T5	SYMPTOM 562 595	akinezi všech apikálních segmentů
+T6	SYMPTOM 599 635	zachovanou kontraktilitou na počátku
+T7	SYMPTOM 703 724	apikálního balonování
+T8	SYMPTOM 1143 1162	elevace segmentu ST
+T9	SYMPTOM 1215 1259	prominující vlny T na inferolaterální straně
+T10	SYMPTOM 1261 1283	Elevace troponinu T Us
+T11	SYMPTOM 1334 1362	normálních koronárních tepen
+T12	SYMPTOM 1797 1823	centrálního hrudního tlaku
+T13	SYMPTOM 1896 1919	vegetatívním doprovodem
+T14	SYMPTOM 1929 1946	profuzního pocení
+T15	SYMPTOM 1949 1959	nevolnosti
+T16	SYMPTOM 2003 2042	mírným dyskomfortem v levém hemithoraxu
+T17	SYMPTOM 2304 2325	Celkový stav normální
+T18	SYMPTOM 2327 2337	při vědomí
+T19	SYMPTOM 2340 2351	orientovaný
+T20	SYMPTOM 2353 2367	spolupracující
+T21	SYMPTOM 2383 2407	akce srdeční: pravidelná
+T22	SYMPTOM 2413 2420	šelestů
+T23	SYMPTOM 2441 2459	alveolární dýchání
+T24	SYMPTOM 2489 2526	Dolní končetiny: symetrické bez otoků
+T25	SYMPTOM 2528 2550	hmatné periferní pulzy
+T26	SYMPTOM 2590 2597	bolestí
+T27	SYMPTOM 2599 2613	junkční rytmus
+T28	SYMPTOM 2645 2670	předchází sinusové vlně P
+T29	SYMPTOM 2700 2708	Úzké QRS
+T30	SYMPTOM 2710 2726	deprese úseku ST
+T31	SYMPTOM 3404 3519	levá komora (LK) s normálním průměrem (LVEDD 46 mm), bez hypertrofie jejích stěn a se zachovanou systolickou funkcí
+T32	SYMPTOM 3572 3605	změny v segmentální kontraktilitě
+T33	SYMPTOM 3607 3665	Nedilatovaná pravá komora se zachovanou systolickou funkcí
+T34	SYMPTOM 3667 3697	normální diastolická funkce LK
+T35	SYMPTOM 3699 3726	Předsíně normální velikosti
+T36	SYMPTOM 3728 3761	Aortální kořen normálního průměru
+T37	SYMPTOM 3843 3901	Mitrální chlopeň s lístky normální tloušťky a pohyblivosti
+T38	SYMPTOM 4164 4202	významné změny v komorové repolarizaci
+T39	SYMPTOM 4451 4467	elevace úseku ST
+T40	SYMPTOM 4525 4547	Dobrá funkční kapacita
+T41	SYMPTOM 4598 4640	levá hlavní věnčitá tepna (LMCA): bez lézí
+T42	SYMPTOM 4642 4706	Přední sestupná tepna (LAD): normální průměr a větvení, bez lézí
+T43	SYMPTOM 4733 4776	Obvodová tepna (ACX): nedominantní bez lézí
+T44	SYMPTOM 4778 4827	Pravá koronární tepna (RCA): dominantní, bez lézí
+T45	SYMPTOM 4957 5017	nebyly pozorovány žádné klinické změny na EKG ani vazospazmy
+T46	SYMPTOM 5021 5055	ACD byl pozorován významný spasmus
+T47	SYMPTOM 5177 5232	elektrokardiografické změny v inferolaterálních svodech
+T48	SYMPTOM 5421 5429	stabilní
+T49	SYMPTOM 5506 5540	ischemických změn na příjmovém EKG
+T50	SYMPTOM 5562 5596	koronarografickým snímkům bez lézí
+T51	SYMPTOM 5912 5957	pravé koronární tepny, která vyvolala spazmus
+T52	SYMPTOM 5998 6040	ischemickými změnami na elektrokardiogramu
+T53	SYMPTOM 6244 6258	bolestem hlavy
+T54	SYMPTOM 6261 6269	slabostí
+T55	SYMPTOM 6461 6475	asymptomatická
+T56	SYMPTOM 6551 6567	bolesti na hrudi
+T57	SYMPTOM 6623 6653	normálními koronárními tepnami

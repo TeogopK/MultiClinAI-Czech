@@ -1,0 +1,36 @@
+T1	PROCEDURE 123 142	fyzikální vyšetření
+T2	PROCEDURE 322 352	echokardiografickým vyšetřením
+T3	PROCEDURE 636 646	nebulizací
+T4	PROCEDURE 868 898	CT vyšetření hrudníku a břicha
+T5	PROCEDURE 1180 1199	Fyzikální vyšetření
+T6	PROCEDURE 1629 1653	tapotement pravé ledviny
+T7	PROCEDURE 1937 1952	Močový sediment
+T8	PROCEDURE 2014 2023	Ag v moči
+T9	PROCEDURE 2062 2065	EKG
+T10	PROCEDURE 2252 2264	RTG hrudníku
+T11	PROCEDURE 2286 2306	CT hrudníku a břicha
+T12	PROCEDURE 2688 2702	echokardiogram
+T13	PROCEDURE 3082 3101	Fyzikální vyšetření
+T14	PROCEDURE 3137 3154	Elektrokardiogram
+T15	PROCEDURE 3460 3474	Krevní kultury
+T16	PROCEDURE 3556 3583	implantována provizorní MCP
+T17	PROCEDURE 3596 3631	transezofageální echokardiografické
+T18	PROCEDURE 3787 3852	digitální angiografie pomocí předoperačního multidetektorového CT
+T19	PROCEDURE 4085 4137	Aortální chlopeň byla nahrazena mechanickou protézou
+T20	PROCEDURE 4156 4208	mitrální chlopeň byla nahrazena mechanickou protézou
+T21	PROCEDURE 4268 4286	Antibiotická léčba
+T22	PROCEDURE 4342 4356	Kultivace krve
+T23	PROCEDURE 4358 4400	kultivace z katétru a chirurgického vzorku
+T24	PROCEDURE 4535 4574	implantován trvalý VDD kardiostimulátor
+T25	PROCEDURE 4635 4645	auskultaci
+T26	PROCEDURE 4831 4880	perikardiocentézy levou přední subkostální cestou
+T27	PROCEDURE 5054 5080	podtlakový drenážní systém
+T28	PROCEDURE 5099 5103	ECHO
+T29	PROCEDURE 5258 5262	ECHO
+T30	PROCEDURE 5375 5379	drén
+T31	PROCEDURE 5419 5433	Echokardiogram
+T32	PROCEDURE 5437 5453	odstranění drénu
+T33	PROCEDURE 5541 5573	odstranění perikardiálního drénu
+T34	PROCEDURE 5710 5747	přenosné echokardiografické vyšetření
+T35	PROCEDURE 5907 5925	subkostální punkcí
+T36	PROCEDURE 5971 5986	kardiochirurgii

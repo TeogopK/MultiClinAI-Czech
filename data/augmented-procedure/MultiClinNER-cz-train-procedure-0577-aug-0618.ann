@@ -1,0 +1,41 @@
+T1	PROCEDURE 295 314	Fyzikální vyšetření
+T2	PROCEDURE 562 588	katetrizaci močové trubice
+T3	PROCEDURE 683 692	vyšetření
+T4	PROCEDURE 752 764	krevní obraz
+T5	PROCEDURE 767 776	koagulace
+T6	PROCEDURE 874 897	zobrazovacích vyšetření
+T7	PROCEDURE 903 910	operací
+T8	PROCEDURE 1130 1153	abdominálně-pelvické CT
+T9	PROCEDURE 1156 1244	CT-cystografii (gravitačním doplněním močového měchýře 300 cm3 zředěné kontrastní látky)
+T10	PROCEDURE 1248 1265	CT břicha a pánve
+T11	PROCEDURE 1268 1282	CT cystografie
+T12	PROCEDURE 1645 1669	explorativní laparotomie
+T13	PROCEDURE 1684 1706	poloze vleže na zádech
+T14	PROCEDURE 1722 1768	suprainfraumbilikální středočárová laparotomie
+T15	PROCEDURE 1792 1829	malá perforace v mezisíňovém prostoru
+T16	PROCEDURE 1861 1921	opravena minimální léze v úrovni levé primitivní ilické žíly
+T17	PROCEDURE 2013 2047	přední podélná mediánní cystotomie
+T18	PROCEDURE 2228 2295	indemnity levého distálního močovodu pomocí 5F ureterálního katétru
+T19	PROCEDURE 2414 2472	sešít dvojitou perforaci močového měchýře ve dvou rovinách
+T20	PROCEDURE 2477 2513	debridementu devitalizovaných okrajů
+T21	PROCEDURE 2519 2546	uvolnění distálního ureteru
+T22	PROCEDURE 2519 2572	uvolnění distálního ureteru a sekci poškozeného konce
+T23	PROCEDURE 2581 2648	reimplantaci ureteru transvezikální technikou a dvojitým J katétrem
+T24	PROCEDURE 2679 2740	uzavření, rovněž ve dvojité rovině, přední podélné cystotomie
+T25	PROCEDURE 2745 2776	ponechán uretrovezikální katétr
+T26	PROCEDURE 2779 2858	dvojitá uzavřená sací drenáž: jedna intraperitoneální a druhá extraperitoneální
+T27	PROCEDURE 2878 2899	šití močového měchýře
+T28	PROCEDURE 2917 2958	intravenózní širokospektrá antibioterapie
+T29	PROCEDURE 3209 3239	Empirická antibiotická terapie
+T30	PROCEDURE 3285 3300	krevních kultur
+T31	PROCEDURE 3420 3438	krevních kulturách
+T32	PROCEDURE 3542 3569	CT vyšetření břicha a pánve
+T33	PROCEDURE 3734 3806	počátečním odstraněním obou drénů a 10. den i uretro-vezikálního katétru
+T34	PROCEDURE 3858 3885	intravenózní antibioterapie
+T35	PROCEDURE 3961 3973	antibiogramu
+T36	PROCEDURE 3994 4015	odstranění JJ katétru
+T37	PROCEDURE 4026 4033	operaci
+T38	PROCEDURE 4071 4088	uretrocystoskopii
+T39	PROCEDURE 4091 4112	odstranění JJ katétru
+T40	PROCEDURE 4241 4314	JJ katétr, který tutoval ureteroneocystostomii, je endoskopicky odstraněn
+T41	PROCEDURE 4371 4378	operaci

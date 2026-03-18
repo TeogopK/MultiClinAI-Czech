@@ -1,0 +1,52 @@
+T1	DISEASE 108 111	AHT
+T2	DISEASE 113 117	DM-2
+T3	DISEASE 134 146	Dyslipidemie
+T4	DISEASE 148 186	Závažná degenerativní aortální stenóza
+T5	DISEASE 255 278	litiáza levého močovodu
+T6	DISEASE 280 291	Polyartróza
+T7	DISEASE 433 448	srdeční selhání
+T8	DISEASE 470 478	těžké AS
+T9	DISEASE 666 710	paroxyzmální AF s rychlou komorovou odpovědí
+T10	DISEASE 871 875	LBBB
+T11	DISEASE 1006 1024	faryngotonzilitidu
+T12	DISEASE 1322 1350	tranzitorní ischemické ataky
+T13	DISEASE 1640 1658	respirační infekce
+T14	DISEASE 2060 2079	febrilního syndromu
+T15	DISEASE 2203 2207	LBBB
+T16	DISEASE 2250 2282	těžká ischemická mikroangiopatie
+T17	DISEASE 2284 2347	Sekvence chronického ischemického infarktu levého teritoria PCA
+T18	DISEASE 2349 2387	Chronický lakunární infarkt levé čočky
+T19	DISEASE 2389 2431	Středně těžká kortikosubkortikální atrofie
+T20	DISEASE 2746 2750	LBBB
+T21	DISEASE 3126 3138	insuficience
+T22	DISEASE 3156 3164	Mírná TR
+T23	DISEASE 3166 3175	Těžká PAH
+T24	DISEASE 3338 3369	AF s rychlou komorovou odpovědí
+T25	DISEASE 3937 3964	kompletní AVB s únikovým HR
+T26	DISEASE 4113 4135	infekční endokarditidy
+T27	DISEASE 4562 4584	infekční endokarditidu
+T28	DISEASE 4839 4866	Hypertrofie bazálního septa
+T29	DISEASE 4912 4957	Závažná rozsáhlá kalcifikace mitrálního anulu
+T30	DISEASE 5026 5066	periprotetickou excentrickou regurgitací
+T31	DISEASE 5176 5184	vegetace
+T32	DISEASE 5253 5282	periannulární ztluštění aorty
+T33	DISEASE 5335 5377	periannulárním abscesem-pseudoaneuryzmatem
+T34	DISEASE 5381 5407	mikroperforací směrem k RA
+T35	DISEASE 5415 5417	TR
+T36	DISEASE 5612 5631	filiformní vegetace
+T37	DISEASE 5633 5659	Periprotetická regurgitace
+T38	DISEASE 5732 5735	BAV
+T39	DISEASE 5763 5781	BAV prvního stupně
+T40	DISEASE 6163 6191	lokální infekce přechodné MP
+T41	DISEASE 6235 6257	nozokomiální pneumonie
+T42	DISEASE 6269 6280	bicytopenie
+T43	DISEASE 6571 6616	ischemickou embolickou cévní mozkovou příhodu
+T44	DISEASE 6618 6634	septická embolie
+T45	DISEASE 6897 6919	infekční endokarditida
+T46	DISEASE 7025 7092	Periannulární absces/pseudoaneuryzma s mikroperforací do pravé síně
+T47	DISEASE 7115 7151	kompletní atrioventrikulární blokády
+T48	DISEASE 7239 7308	embolická ischemická příhoda (septická embolie) střední mozkové tepny
+T49	DISEASE 7269 7285	septická embolie
+T50	DISEASE 7390 7412	nozokomiální pneumonie
+T51	DISEASE 7432 7477	Lokální infekce přechodného kardiostimulátoru
+T52	DISEASE 7527 7574	přidruženou endokarditidu na komorové elektrodě

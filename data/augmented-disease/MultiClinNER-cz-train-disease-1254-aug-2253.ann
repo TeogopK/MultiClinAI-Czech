@@ -1,0 +1,46 @@
+T1	DISEASE 204 216	dyslipidémie
+T2	DISEASE 524 549	adenokarcinom levého prsu
+T3	DISEASE 1845 1854	flebitidy
+T4	DISEASE 1936 1994	kalcifikaci aortální chlopně s výrazně omezeným otevíráním
+T5	DISEASE 2002 2067	kalcifikaci mitrálního chlopenního aparátu s výraznou regurgitací
+T6	DISEASE 2532 2555	hypertrofie levé komory
+T7	DISEASE 2570 2615	poruchou intraventrikulárního vedení typu BRI
+T8	DISEASE 3512 3531	Dilatovaná levá síň
+T9	DISEASE 3541 3600	aortální léze na silně kalcifikované chlopni: těžká stenóza
+T10	DISEASE 3634 3659	Středně těžká regurgitace
+T11	DISEASE 3674 3750	Středně těžká mitrální regurgitace (II-III/VI) na sklerodegenerované chlopni
+T12	DISEASE 3836 3867	Mírná trikuspidální regurgitace
+T13	DISEASE 3963 3990	kalcifikace vzestupné aorty
+T14	DISEASE 3992 4067	intenzivně kalcifikované esovité tepny se sníženým otevřením, těžká stenóza
+T15	DISEASE 4130 4162	Přední sestupná tepna s 80% lézí
+T16	DISEASE 4232 4264	Pravá koronární tepna s 90% lézí
+T17	DISEASE 4322 4362	kalcifikovaná ateromatóza v hrudní aortě
+T18	DISEASE 4401 4476	Kalcifikace aortální chlopně, trikuspidální chlopně a pravé koronární tepny
+T19	DISEASE 4499 4515	lézích LAD a RCA
+T20	DISEASE 4780 4807	elektromechanické disociaci
+T21	DISEASE 4825 4841	koronární okluze
+T22	DISEASE 4879 4892	ruptury aorty
+T23	DISEASE 4898 4916	embolizace protézy
+T24	DISEASE 5152 5161	hypotenze
+T25	DISEASE 5204 5222	kardiogenního šoku
+T26	DISEASE 5658 5682	těžké komorové dysfunkce
+T27	DISEASE 5685 5707	těžké aortální stenóze
+T28	DISEASE 5711 5745	středně těžké aortální regurgitace
+T29	DISEASE 5786 5820	těžkou dvoucípou koronární chorobu
+T30	DISEASE 5838 5865	kalcifikaci vzestupné aorty
+T31	DISEASE 6198 6215	kalcifikací aorty
+T32	DISEASE 6317 6353	středně závažné aortální regurgitace
+T33	DISEASE 6569 6585	koronárních lézí
+T34	DISEASE 6876 6888	lézí AD a DC
+T35	DISEASE 7016 7068	zástavě srdce v důsledku elektromechanické disociace
+T36	DISEASE 7129 7145	koronární okluze
+T37	DISEASE 7147 7184	extravazace perikardiálního kontrastu
+T38	DISEASE 7186 7199	ruptura aorty
+T39	DISEASE 7205 7223	embolizace protézy
+T40	DISEASE 7384 7457	sklerodegenerativní léze aorty: těžká stenóza a středně těžká regurgitace
+T41	DISEASE 7459 7524	Středně těžká mitrální regurgitace na sklerodegenerativní chlopni
+T42	DISEASE 7526 7550	Těžká komorová dysfunkce
+T43	DISEASE 7564 7590	Ischemická choroba srdeční
+T44	DISEASE 7592 7626	onemocnění dvou cév: CDp 90 %, DAm
+T45	DISEASE 7685 7698	Porézní aorta
+T46	DISEASE 7700 7715	Kardiogenní šok

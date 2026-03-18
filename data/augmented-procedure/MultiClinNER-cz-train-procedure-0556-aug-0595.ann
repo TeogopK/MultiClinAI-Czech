@@ -1,0 +1,28 @@
+T1	PROCEDURE 128 147	Fyzikální vyšetření
+T2	PROCEDURE 395 416	zobrazovací vyšetření
+T3	PROCEDURE 418 447	počítačová axiální tomografie
+T4	PROCEDURE 450 459	ultrazvuk
+T5	PROCEDURE 642 668	provedena aspirační punkce
+T6	PROCEDURE 674 749	tenkou jehlou rutinní metodou 3 průchodů jehlou 23G pomocí přístroje Cameco
+T7	PROCEDURE 794 858	2 sklíčka fixována v alkoholu pro barvení technikou Papanicolaou
+T8	PROCEDURE 861 933	zbytek (6 sklíček) byl vysušen na vzduchu pro použití barvení Diff-Quick
+T9	PROCEDURE 935 951	Vyšetření nátěrů
+T10	PROCEDURE 1536 1553	Cytologický obraz
+T11	PROCEDURE 1667 1736	kvantifikaci DNA pomocí obrazové cytometrie na cytologických nátěrech
+T12	PROCEDURE 1758 1763	nátěr
+T13	PROCEDURE 1782 1788	punkci
+T14	PROCEDURE 1844 1847	FNA
+T15	PROCEDURE 1883 1905	cytometrické stanovení
+T16	PROCEDURE 1916 1942	účelem byly fixovány v 99º
+T17	PROCEDURE 1968 2012	obarveny Gillovým progresivním hematoxylinem
+T18	PROCEDURE 2015 2150	Pomocí softwaru TEXCAN® a videokamery integrované do mikroskopu, která snímá šedé škály, se stanoví nejdůležitější biologické parametry
+T19	PROCEDURE 2432 2452	cytologické diagnóze
+T20	PROCEDURE 2561 2579	chirurgický zákrok
+T21	PROCEDURE 2582 2602	excizí příušní žlázy
+T22	PROCEDURE 2607 2624	vyprázdnění krčku
+T23	PROCEDURE 2851 2870	chirurgické resekce
+T24	PROCEDURE 2898 2976	vzorku bylo zhotoveno několik paralelních řezů, které byly vloženy do parafínu
+T25	PROCEDURE 2988 3025	obarveny běžným hematoxylinem-eozinem
+T26	PROCEDURE 3027 3053	Histopatologické vyšetření
+T27	PROCEDURE 3461 3472	barvení PAS
+T28	PROCEDURE 3627 3635	resekátu

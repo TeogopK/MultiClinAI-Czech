@@ -1,0 +1,26 @@
+T1	PROCEDURE 323 340	laboratorní testy
+T2	PROCEDURE 342 345	EKG
+T3	PROCEDURE 347 355	CT mozku
+T4	PROCEDURE 439 451	RTG hrudníku
+T5	PROCEDURE 453 468	Lumbální punkce
+T6	PROCEDURE 554 557	EEG
+T7	PROCEDURE 605 614	MRI mozku
+T8	PROCEDURE 669 693	FLAIR a difuzní sekvence
+T9	PROCEDURE 708 741	podání paramagnetického kontrastu
+T10	PROCEDURE 865 886	PCR na herpes simplex
+T11	PROCEDURE 890 904	antibioterapie
+T12	PROCEDURE 1047 1067	fyzikálním vyšetření
+T13	PROCEDURE 1094 1117	neurologickém vyšetření
+T14	PROCEDURE 1463 1484	antibiotickou terapií
+T15	PROCEDURE 1616 1625	sérologie
+T16	PROCEDURE 1710 1730	torakoabdominální ct
+T17	PROCEDURE 1779 1819	bronchoskopií s bronchoalveolární laváží
+T18	PROCEDURE 1833 1891	endoskopií horní a dolní části gastrointestinálního traktu
+T19	PROCEDURE 1893 1911	střevním tranzitem
+T20	PROCEDURE 1913 1935	urologickým hodnocením
+T21	PROCEDURE 1937 1955	scintigrafií kostí
+T22	PROCEDURE 1958 1978	biopsií kostní dřeně
+T23	PROCEDURE 2052 2076	celotělové PET vyšetření
+T24	PROCEDURE 2200 2203	PET
+T25	PROCEDURE 2217 2235	CT vyšetřením krku
+T26	PROCEDURE 2238 2272	anatomicko-patologickým vyšetřením

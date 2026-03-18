@@ -1,0 +1,50 @@
+T1	SYMPTOM 622 644	difuzní bolesti břicha
+T2	SYMPTOM 660 670	nevolnosti
+T3	SYMPTOM 673 681	zvracení
+T4	SYMPTOM 760 777	dystermický pocit
+T5	SYMPTOM 823 832	diaforézy
+T6	SYMPTOM 917 946	zvýšená amyláza v krvi a moči
+T7	SYMPTOM 1224 1247	intrakardiálním útvarem
+T8	SYMPTOM 1564 1587	Přijatelný celkový stav
+T9	SYMPTOM 1589 1599	Při vědomí
+T10	SYMPTOM 1601 1612	orientovaný
+T11	SYMPTOM 1615 1629	spolupracující
+T12	SYMPTOM 1631 1653	Hemodynamicky stabilní
+T13	SYMPTOM 1655 1672	Eupnoický v klidu
+T14	SYMPTOM 1674 1688	Normální barva
+T15	SYMPTOM 1711 1737	zvýšenou tělesnou teplotou
+T16	SYMPTOM 1839 1858	zduření krčních žil
+T17	SYMPTOM 1879 1894	rytmickými tóny
+T18	SYMPTOM 1917 1924	šelestů
+T19	SYMPTOM 1947 1965	dýchání alveolární
+T20	SYMPTOM 1967 1993	Břicho měkké a stlačitelné
+T21	SYMPTOM 1997 2051	bolestí při palpaci v epigastriu a obou hypochondriích
+T22	SYMPTOM 2053 2068	Purfy negativní
+T23	SYMPTOM 2070 2125	Při auskultaci břicha byly zachovány hydroaerické zvuky
+T24	SYMPTOM 2147 2153	útvary
+T25	SYMPTOM 2158 2172	visceromegalie
+T26	SYMPTOM 2174 2213	Dolní končetiny bez malleolárního edému
+T27	SYMPTOM 2215 2243	Pulzy zachovány a symetrické
+T28	SYMPTOM 3115 3150	Zvětšení bronchovaskulárního traktu
+T29	SYMPTOM 3156 3180	zvětšení srdeční siluety
+T30	SYMPTOM 3184 3218	normálním kardiotorakálním indexem
+T31	SYMPTOM 3257 3272	sinusový rytmus
+T32	SYMPTOM 3371 3379	Úzké QRS
+T33	SYMPTOM 3483 3513	patologické změny repolarizace
+T34	SYMPTOM 3662 3669	kolekcí
+T35	SYMPTOM 3849 3879	Slezina bez patologických změn
+T36	SYMPTOM 3899 3930	intraabdominální volná tekutina
+T37	SYMPTOM 3932 3965	Hypodenzní útvar uvnitř levé síně
+T38	SYMPTOM 4128 4163	Masa prolabuje směrem k levé komoře
+T39	SYMPTOM 4240 4285	levá komora není dilatovaná ani hypertrofická
+T40	SYMPTOM 4323 4361	zachovanou globální systolickou funkcí
+T41	SYMPTOM 4414 4445	segmentální změny kontraktility
+T42	SYMPTOM 4447 4474	Kořen aorty nebyl dilatován
+T43	SYMPTOM 4538 4599	Dilatovaná levá síň (objem 81 cm3), vykazující stopkatý útvar
+T44	SYMPTOM 4842 4867	Nedilatované pravé komory
+T45	SYMPTOM 4871 4898	normofunkční pravou komorou
+T46	SYMPTOM 4914 4973	Dopplerovské vyšetření s normálními transmitrálními průtoky
+T47	SYMPTOM 5278 5309	Koronarografie: dominance vlevo
+T48	SYMPTOM 5664 5672	krvácení
+T49	SYMPTOM 7719 7742	ztráta sinusového úniku
+T50	SYMPTOM 8287 8302	sinusovém rytmu

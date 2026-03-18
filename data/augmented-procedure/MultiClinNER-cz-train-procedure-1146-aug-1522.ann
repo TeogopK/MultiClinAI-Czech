@@ -1,0 +1,48 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 111 129	Bentallovy operace
+T4	PROCEDURE 132 170	implantací mechanické aortální protézy
+T5	PROCEDURE 173 186	cévní protézy
+T6	PROCEDURE 189 214	koronární revaskularizace
+T7	PROCEDURE 242 276	bypass IMA na RIA; CABG IMA na RIA
+T8	PROCEDURE 370 378	anamnézu
+T9	PROCEDURE 667 675	anamnézy
+T10	PROCEDURE 818 823	SatO2
+T11	PROCEDURE 933 949	Auskultace srdce
+T12	PROCEDURE 981 998	Plicní auskultace
+T13	PROCEDURE 1059 1068	vyšetření
+T14	PROCEDURE 1281 1292	hemokultura
+T15	PROCEDURE 1328 1344	objemová expanze
+T16	PROCEDURE 1346 1376	empirická antibiotická terapie
+T17	PROCEDURE 1420 1438	podání vazopresorů
+T18	PROCEDURE 1505 1550	transezofageální echokardiografické vyšetření
+T19	PROCEDURE 1720 1722	CT
+T20	PROCEDURE 1723 1732	vyšetření
+T21	PROCEDURE 1887 1907	antikoagulační léčbu
+T22	PROCEDURE 2001 2011	hemokultur
+T23	PROCEDURE 2120 2139	mozková angiografie
+T24	PROCEDURE 2213 2262	transezofageálního echokardiografického vyšetření
+T25	PROCEDURE 2339 2425	pozitronová emisní tomografie/počítačová tomografie (PET/CT) s 18F-fluorodeoxyglukózou
+T26	PROCEDURE 2538 2553	Rekonstrukce CT
+T27	PROCEDURE 3007 3038	transezofageální echokardiogram
+T28	PROCEDURE 3250 3257	operace
+T29	PROCEDURE 3632 3643	hemokultury
+T30	PROCEDURE 3763 3792	ultrazvukové vyšetření břicha
+T31	PROCEDURE 4005 4019	břišní operace
+T32	PROCEDURE 4117 4129	splenektomii
+T33	PROCEDURE 4435 4444	transfuzi
+T34	PROCEDURE 4486 4507	endoskopické ošetření
+T35	PROCEDURE 4610 4630	implantací hemoklipů
+T36	PROCEDURE 4695 4711	urgentní operaci
+T37	PROCEDURE 4729 4752	parciální duodenektomie
+T38	PROCEDURE 4855 4880	kardiochirurgická operace
+T39	PROCEDURE 4949 4978	mechanickou aortální protézou
+T40	PROCEDURE 4981 4994	cévní protéza
+T41	PROCEDURE 4998 5031	odstraněném protetickém materiálu
+T42	PROCEDURE 5156 5199	transtorakální echokardiografické vyšetření
+T43	PROCEDURE 5267 5283	perikardiektomii
+T44	PROCEDURE 5371 5399	echokardiografické vyšetření
+T45	PROCEDURE 5572 5581	evakuován
+T46	PROCEDURE 5631 5651	antibiotické terapie
+T47	PROCEDURE 5932 5976	náhrada aortální chlopně a ascendentní aorty
+T48	PROCEDURE 6240 6262	Částečná duodenektomie

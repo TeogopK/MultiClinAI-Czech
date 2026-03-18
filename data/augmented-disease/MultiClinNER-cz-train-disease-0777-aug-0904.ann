@@ -1,0 +1,26 @@
+T1	DISEASE 108 131	iatrogenní hypotyreózou
+T2	DISEASE 154 175	karcinom štítné žlázy
+T3	DISEASE 966 972	ascitu
+T4	DISEASE 1064 1080	hluboké trombózy
+T5	DISEASE 1181 1194	mírnou anémii
+T6	DISEASE 1969 1988	pleurálního výpotku
+T7	DISEASE 2469 2482	dilatace síní
+T8	DISEASE 2646 2672	trikuspidální insuficience
+T9	DISEASE 2730 2753	perikardiálního výpotku
+T10	DISEASE 2813 2845	polymorfními komorovými triplety
+T11	DISEASE 2904 2923	torsades de pointes
+T12	DISEASE 3273 3305	polymorfní komorové extrasystoly
+T13	DISEASE 3308 3350	nesetrvalé polymorfní komorové tachykardie
+T14	DISEASE 3352 3356	PSVT
+T15	DISEASE 3611 3663	trvalá komorová tachykardie typu torsades de pointes
+T16	DISEASE 3769 3772	HŽT
+T17	DISEASE 3859 3880	arteriální hypertenze
+T18	DISEASE 4012 4021	arytmické
+T19	DISEASE 4112 4133	sinusovou bradykardií
+T20	DISEASE 4381 4401	syndromu dlouhého QT
+T21	DISEASE 4404 4454	kardiorespirační zástavě resuscitované trvalou DVT
+T22	DISEASE 4833 4903	syndromu dlouhého QT typu 1 s autozomálně dominantním typem dědičnosti
+T23	DISEASE 4947 4973	Syndrom dlouhého QT typu 1
+T24	DISEASE 5016 5023	synkopy
+T25	DISEASE 5025 5066	Srdeční zástava resuscitovaná pomocí PSVT
+T26	DISEASE 5092 5123	strukturálního onemocnění srdce

@@ -1,0 +1,50 @@
+T1	PROCEDURE 100 112	dietní léčbě
+T2	PROCEDURE 205 223	Euthykotický porod
+T3	PROCEDURE 414 437	odstranění kožního névu
+T4	PROCEDURE 518 524	porodu
+T5	PROCEDURE 994 1016	euthekologickém porodu
+T6	PROCEDURE 1050 1069	Fyzikální vyšetření
+T7	PROCEDURE 1224 1240	Auskultace srdce
+T8	PROCEDURE 1299 1314	Auskultace plic
+T9	PROCEDURE 1388 1409	palpaci v hypogastriu
+T10	PROCEDURE 1431 1453	perkuse pravé ledviny.
+T11	PROCEDURE 1519 1542	Gynekologické vyšetření
+T12	PROCEDURE 2295 2321	Rentgenový snímek hrudníku
+T13	PROCEDURE 2460 2463	EKG
+T14	PROCEDURE 2638 2662	Transvaginální ultrazvuk
+T15	PROCEDURE 2725 2741	Ultrazvuk břicha
+T16	PROCEDURE 3064 3095	Transtorakální echokardiografie
+T17	PROCEDURE 3301 3315	Koronarografie
+T18	PROCEDURE 3354 3370	Ventrikulografie
+T19	PROCEDURE 3540 3564	Endomyokardiální biopsie
+T20	PROCEDURE 3761 3787	Magnetická rezonance srdce
+T21	PROCEDURE 4022 4035	Mikrobiologie
+T22	PROCEDURE 4037 4051	kultivace krve
+T23	PROCEDURE 4084 4098	Kultivace moči
+T24	PROCEDURE 4217 4226	Sérologie
+T25	PROCEDURE 4394 4408	kultivace moči
+T26	PROCEDURE 4411 4422	hemokultury
+T27	PROCEDURE 4527 4541	sérová terapie
+T28	PROCEDURE 4560 4569	analgezie
+T29	PROCEDURE 4685 4689	séra
+T30	PROCEDURE 5066 5083	Plicní auskultace
+T31	PROCEDURE 5158 5174	rentgen hrudníku
+T32	PROCEDURE 5231 5247	ultrazvuk břicha
+T33	PROCEDURE 5959 5992	neinvazivní mechanickou ventilací
+T34	PROCEDURE 6074 6077	EKG
+T35	PROCEDURE 6255 6283	echokardiografické vyšetření
+T36	PROCEDURE 6301 6329	těžkou systolickou dysfunkci
+T37	PROCEDURE 6491 6509	vazoaktivními léky
+T38	PROCEDURE 6724 6743	srdeční katetrizace
+T39	PROCEDURE 6746 6762	ventrikulografií
+T40	PROCEDURE 6765 6789	endomyokardiální biopsií
+T41	PROCEDURE 6791 6817	magnetická rezonance srdce
+T42	PROCEDURE 6819 6846	sérologie na parvovirus B19
+T43	PROCEDURE 6849 6867	srdeční imunologie
+T44	PROCEDURE 7254 7272	vazoaktivních léků
+T45	PROCEDURE 7387 7401	beta-blokátorů
+T46	PROCEDURE 7448 7464	echokardiografie
+T47	PROCEDURE 7780 7799	antibiotický cyklus
+T48	PROCEDURE 7920 7934	sérová terapie
+T49	PROCEDURE 8533 8548	steroidní léčbu
+T50	PROCEDURE 8962 8978	echokardiografie

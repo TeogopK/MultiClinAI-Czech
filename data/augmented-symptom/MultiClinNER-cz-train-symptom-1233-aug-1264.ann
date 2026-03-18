@@ -1,0 +1,84 @@
+T1	SYMPTOM 344 352	horečkou
+T2	SYMPTOM 364 373	ospalostí
+T3	SYMPTOM 377 389	nemotorností
+T4	SYMPTOM 510 517	horečku
+T5	SYMPTOM 520 525	kašel
+T6	SYMPTOM 746 753	horečka
+T7	SYMPTOM 755 762	astenie
+T8	SYMPTOM 782 798	úbytek hmotnosti
+T9	SYMPTOM 1083 1091	bledostí
+T10	SYMPTOM 1099 1112	krční pulzace
+T11	SYMPTOM 1173 1194	rytmické srdeční ozvy
+T12	SYMPTOM 1198 1270	systolickým šelestem v mitrálním ložisku stupně 3/6 vyzařujícím do axily
+T13	SYMPTOM 1289 1307	alveolární dýchání
+T14	SYMPTOM 1312 1341	vedlejších dechových fenoménů
+T15	SYMPTOM 1343 1369	Břicho měkké a nebolestivé
+T16	SYMPTOM 1410 1449	Horní končetiny (EESS) bez kožních lézí
+T17	SYMPTOM 1451 1501	Dolní končetiny (LES) bez otoků s přítomnými pulzy
+T18	SYMPTOM 1579 1600	Janewayovými skvrnami
+T19	SYMPTOM 1658 1670	bradypsychie
+T20	SYMPTOM 1684 1694	somnolenci
+T21	SYMPTOM 1696 1720	kraniální nervy bez změn
+T22	SYMPTOM 1729 1760	dysmetrií pravé horní končetiny
+T23	SYMPTOM 1764 1793	zachovanou silou a citlivostí
+T24	SYMPTOM 2169 2184	sinusový rytmus
+T25	SYMPTOM 2202 2222	normální osa srdeční
+T26	SYMPTOM 2224 2235	normální PR
+T27	SYMPTOM 2237 2245	úzké QRS
+T28	SYMPTOM 2250 2270	repolarizačních změn
+T29	SYMPTOM 2298 2328	normální kardiotorakální index
+T30	SYMPTOM 2341 2363	konsolidačního ložiska
+T31	SYMPTOM 2369 2387	cévní redistribuce
+T32	SYMPTOM 2389 2472	Krevní kultivace (pozitivní po 72 hodinách od přijetí): Aggregatibacter aphrophilus
+T33	SYMPTOM 2490 2524	Sérologie: HIV, HBV, HCV negativní
+T34	SYMPTOM 2526 2566	Brucella, Coxiella, Bartonella negativní
+T35	SYMPTOM 2682 2708	s normální tloušťkou stěny
+T36	SYMPTOM 2710 2740	Zachovaná systolická funkce LK
+T37	SYMPTOM 2774 2805	segmentální změny kontraktility
+T38	SYMPTOM 2807 2840	Pseudonormální diastolický vzorec
+T39	SYMPTOM 2895 2930	Pravá komora na horní hranici normy
+T40	SYMPTOM 2968 3006	zachovanou kontraktilitou pravé komory
+T41	SYMPTOM 3075 3137	Mitrální chlopeň (MV): ztluštělé lístky, neomezené v otevírání
+T42	SYMPTOM 3163 3219	mitrálního anulu (A3-P3) hyperdenzní a heterogenní obraz
+T43	SYMPTOM 3429 3463	excentrickým regurgitačním proudem
+T44	SYMPTOM 3551 3583	zrušení průtoku v plicní chlopni
+T45	SYMPTOM 3631 3704	Aortální chlopeň (VAo): trojcípá, normální esovitá, neomezená v otevírání
+T46	SYMPTOM 3881 3948	Dolní dutá žíla (DDŽ) nedilatovaná s normálním inspiračním kolapsem
+T47	SYMPTOM 4065 4079	MV velký útvar
+T48	SYMPTOM 4454 4460	hmotou
+T49	SYMPTOM 4694 4700	edémem
+T50	SYMPTOM 4703 4759	další v pravé mozečkové hemisféře s heterogenní hustotou
+T51	SYMPTOM 4787 4828	mírným masivním efektem na čtvrtou komoru
+T52	SYMPTOM 4893 4973	Po podání kontrastu nedochází k výraznému zesílení ani k prstencovitému zvětšení
+T53	SYMPTOM 5017 5111	hypodenzní útvar o rozměrech 27 x 15 mm lokalizovaný v zadním a předním listu mitrální chlopně
+T54	SYMPTOM 5648 5696	Subpleurální plicní uzlíky v zadním segmentu LSD
+T55	SYMPTOM 5801 5881	mnohočetné malé hyperintenzivní léze v T2 sekvencích supratentoriální lokalizace
+T56	SYMPTOM 6126 6150	hemoragické mikroohnisko
+T57	SYMPTOM 6270 6300	masový efekt na čtvrtou komoru
+T58	SYMPTOM 6361 6388	Nespecifická difuzní studie
+T59	SYMPTOM 6503 6523	Porucha průchodnosti
+T60	SYMPTOM 6525 6562	Suprahepatální žíly nejsou dilatované
+T61	SYMPTOM 6619 6690	Adekvátně distendovaný žlučník se zachovalou stěnou a normálním obsahem
+T62	SYMPTOM 6692 6723	Žlučové cesty nejsou dilatované
+T63	SYMPTOM 6725 6798	Slinivka břišní a slezina zachovalé velikosti, morfologie a echostruktury
+T64	SYMPTOM 6800 6839	Ledviny normální velikosti a morfologie
+T65	SYMPTOM 6841 6875	Vylučovací soustava není rozšířená
+T66	SYMPTOM 6883 6897	břišní kolekce
+T67	SYMPTOM 6912 6959	ultrazvukové změny v gastrointestinálním traktu
+T68	SYMPTOM 7008 7030	konstitučního syndromu
+T69	SYMPTOM 7033 7055	neurologickému ložisku
+T70	SYMPTOM 7316 7347	mitrálního systolického šelestu
+T71	SYMPTOM 7419 7458	útvar závislý na zadním mitrálním listu
+T72	SYMPTOM 7476 7504	normální velikostí levé síně
+T73	SYMPTOM 7706 7745	masa závislá na zadním mitrálním lístku
+T74	SYMPTOM 7775 7782	horečka
+T75	SYMPTOM 7878 7915	hemodynamicky a neurologicky stabilní
+T76	SYMPTOM 9001 9019	postižení kandidou
+T77	SYMPTOM 9087 9094	astenie
+T78	SYMPTOM 9114 9137	neurologických příznaků
+T79	SYMPTOM 9140 9159	febrilními špičkami
+T80	SYMPTOM 9211 9266	krevních kulturách izolován Aggregatibacter aphrophilus
+T81	SYMPTOM 9741 9758	febrilních špiček
+T82	SYMPTOM 9800 9860	ultrazvukové vyšetření břicha, které bylo v souladu s normou
+T83	SYMPTOM 10109 10118	afebrilní
+T84	SYMPTOM 10674 10691	klinicky stabilní

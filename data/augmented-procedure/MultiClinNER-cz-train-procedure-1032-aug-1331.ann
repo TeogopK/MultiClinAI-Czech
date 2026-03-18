@@ -1,0 +1,72 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 53 61	Anamnéza
+T4	PROCEDURE 214 229	antikoagulovaná
+T5	PROCEDURE 259 292	Chirurgické zákroky: pravé koleno
+T6	PROCEDURE 1010 1029	Fyzikální vyšetření
+T7	PROCEDURE 1231 1247	Auskultace srdce
+T8	PROCEDURE 1272 1287	Auskultace plic
+T9	PROCEDURE 1483 1500	Elektrokardiogram
+T10	PROCEDURE 1502 1505	EKG
+T11	PROCEDURE 1638 1655	Laboratorní testy
+T12	PROCEDURE 2173 2199	Rentgenový snímek hrudníku
+T13	PROCEDURE 2333 2347	Echokardiogram
+T14	PROCEDURE 3105 3108	EKG
+T15	PROCEDURE 3349 3352	EKG
+T16	PROCEDURE 3354 3406	Urgentní srdeční katetrizace: pravý radiální přístup
+T17	PROCEDURE 3629 3660	perkutánní koronární intervenci
+T18	PROCEDURE 3662 3665	PCI
+T19	PROCEDURE 3668 3731	Balónková kontrapulzace je zavedena přes pravou femorální tepnu
+T20	PROCEDURE 3733 3747	Echokardiogram
+T21	PROCEDURE 4407 4433	Angio-CT koronárních tepen
+T22	PROCEDURE 4407 4500	Angio-CT koronárních tepen: synchronizovaná helikální studie bez a s intravenózním kontrastem
+T23	PROCEDURE 4502 4521	Střední sternotomie
+T24	PROCEDURE 4523 4556	Pooperační záplata v úrovni apexu
+T25	PROCEDURE 4761 4764	EKG
+T26	PROCEDURE 4956 4959	EKG
+T27	PROCEDURE 5183 5192	sledování
+T28	PROCEDURE 5228 5252	invazivní koronarografie
+T29	PROCEDURE 5267 5306	léčba dvojitou protidestičkovou terapií
+T30	PROCEDURE 5309 5322	antikoagulací
+T31	PROCEDURE 5496 5506	telemetrii
+T32	PROCEDURE 5597 5607	telemetrií
+T33	PROCEDURE 5663 5674	katetrizace
+T34	PROCEDURE 5871 5893	emergentní katetrizace
+T35	PROCEDURE 5895 5906	Katetrizace
+T36	PROCEDURE 6061 6115	implantaci intraaortálního balónkového kontrapulzátoru
+T37	PROCEDURE 6233 6272	léčba dvojitou protidestičkovou terapií
+T38	PROCEDURE 6295 6321	antikoagulace enoxaparinem
+T39	PROCEDURE 6359 6370	katetrizaci
+T40	PROCEDURE 6500 6516	Echokardiografie
+T41	PROCEDURE 6694 6716	orotracheální intubaci
+T42	PROCEDURE 6727 6744	perikardiocentéze
+T43	PROCEDURE 6821 6837	urgentní operace
+T44	PROCEDURE 6914 6928	sérová terapie
+T45	PROCEDURE 6931 6975	podáno několik koncentrátů červených krvinek
+T46	PROCEDURE 7054 7065	sternotomie
+T47	PROCEDURE 7068 7093	extrakcí hojných sraženin
+T48	PROCEDURE 7248 7268	přímé srdeční masáži
+T49	PROCEDURE 7271 7309	digitální tamponádě krvácejícího místa
+T50	PROCEDURE 7439 7493	apikální defekt byl reponován přímou suturou a BioGlue
+T51	PROCEDURE 7577 7590	resternotomie
+T52	PROCEDURE 7706 7714	sedovaná
+T53	PROCEDURE 7716 7784	dobře adaptovaná na ventilátor v režimu "Pressure Controlled Volume"
+T54	PROCEDURE 7918 7941	balónková kontrapulzace
+T55	PROCEDURE 8067 8075	sedovaná
+T56	PROCEDURE 8078 8088	intubovaná
+T57	PROCEDURE 8265 8277	hemofiltraci
+T58	PROCEDURE 8397 8411	hrudní drenáži
+T59	PROCEDURE 8428 8444	echokardiografie
+T60	PROCEDURE 8638 8649	sternotomie
+T61	PROCEDURE 8664 8714	extrahovány hojné sraženiny z perikardiálního vaku
+T62	PROCEDURE 9015 9026	Sternotomie
+T63	PROCEDURE 9114 9130	sternální uzávěr
+T64	PROCEDURE 9285 9314	echokardiografickém vyšetření
+T65	PROCEDURE 9630 9662	CT angiografie koronárních tepen
+T66	PROCEDURE 9821 9830	reoperace
+T67	PROCEDURE 9942 9979	plánovanými hemodialyzačními sezeními
+T68	PROCEDURE 10119 10147	echokardiografické vyšetření
+T69	PROCEDURE 10544 10564	koronární intervenci
+T70	PROCEDURE 10852 10863	hemodialýze
+T71	PROCEDURE 10865 10878	Polytransfuze
+T72	PROCEDURE 10880 10916	Trvalá antikoagulační fibrilace síní

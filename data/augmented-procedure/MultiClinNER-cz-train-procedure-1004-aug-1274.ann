@@ -1,0 +1,37 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 255 278	adjuvantní chemoterapií
+T3	PROCEDURE 387 399	radioterapii
+T4	PROCEDURE 402 415	brachyterapií
+T5	PROCEDURE 639 675	hysterektomie a dvojitá adnexektomie
+T6	PROCEDURE 689 719	resekce polypu tlustého střeva
+T7	PROCEDURE 760 783	plastika nosní přepážky
+T8	PROCEDURE 1208 1227	FYZIKÁLNÍ VYŠETŘENÍ
+T9	PROCEDURE 1528 1544	Auskultace srdce
+T10	PROCEDURE 1603 1618	Auskultace plic
+T11	PROCEDURE 1808 1825	Elektrokardiogram
+T12	PROCEDURE 1827 1830	EKG
+T13	PROCEDURE 2000 2012	RTG hrudníku
+T14	PROCEDURE 2511 2525	Koronarografie
+T15	PROCEDURE 2566 2582	Ventrikulografie
+T16	PROCEDURE 2678 2709	Transtorakální echokardiografie
+T17	PROCEDURE 3218 3244	Magnetická rezonance srdce
+T18	PROCEDURE 3246 3249	CMR
+T19	PROCEDURE 4273 4293	Nátěr periferní krve
+T20	PROCEDURE 4580 4599	Specifické proteiny
+T21	PROCEDURE 4693 4714	Vyšetření na parazity
+T22	PROCEDURE 4727 4736	Sérologie
+T23	PROCEDURE 4780 4800	Aspirát kostní dřeně
+T24	PROCEDURE 4954 4974	Biopsie kostní dřeně
+T25	PROCEDURE 5060 5063	EKG
+T26	PROCEDURE 5187 5233	vyšetření krve na vysoko senzitivní troponin T
+T27	PROCEDURE 5477 5491	koronarografie
+T28	PROCEDURE 5540 5556	ventrikulografie
+T29	PROCEDURE 5978 5997	léčba betablokátory
+T30	PROCEDURE 6259 6262	CMR
+T31	PROCEDURE 6623 6636	betablokátoru
+T32	PROCEDURE 6716 6739	hematologickém oddělení
+T33	PROCEDURE 6796 6816	biopsie kostní dřeně
+T34	PROCEDURE 6930 6941	autoimunita
+T35	PROCEDURE 6953 6963	biopsie KD
+T36	PROCEDURE 7245 7271	markerů poškození myokardu
+T37	PROCEDURE 7274 7296	elektrokardiografickou

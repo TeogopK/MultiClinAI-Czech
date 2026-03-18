@@ -1,0 +1,64 @@
+T1	SYMPTOM 163 185	vyšší funkce zachovány
+T2	SYMPTOM 201 213	bez dušnosti
+T3	SYMPTOM 710 724	Asymptomatický
+T4	SYMPTOM 762 782	náhle ztratil vědomí
+T5	SYMPTOM 1299 1326	elevací ST v I, aVL a V3-V6
+T6	SYMPTOM 1521 1547	anterolaterální elevaci st
+T7	SYMPTOM 1905 1914	afebrilní
+T8	SYMPTOM 2060 2074	normální barvy
+T9	SYMPTOM 2077 2094	dobře perfundován
+T10	SYMPTOM 2115 2140	zvýšená náplň krčních žil
+T11	SYMPTOM 2142 2183	Auskultace srdce: akce srdeční pravidelná
+T12	SYMPTOM 2188 2195	šelestů
+T13	SYMPTOM 2197 2223	Normální plicní auskultace
+T14	SYMPTOM 2225 2252	dobrá oboustranná ventilace
+T15	SYMPTOM 2254 2278	břicho měkké, pod niveau
+T16	SYMPTOM 2303 2312	bez otoků
+T17	SYMPTOM 2318 2357	známek žilní trombózy, s hmatnými pulzy
+T18	SYMPTOM 2612 2627	sinusový rytmus
+T19	SYMPTOM 2650 2661	normální PR
+T20	SYMPTOM 2663 2671	úzké QRS
+T21	SYMPTOM 2673 2684	Normální QT
+T22	SYMPTOM 2686 2727	Správný průběh R v prekordiálních svodech
+T23	SYMPTOM 2729 2767	Žádné akutní repolarizační abnormality
+T24	SYMPTOM 2775 2798	vzor časné repolarizace
+T25	SYMPTOM 2830 2911	Biochemické parametry v normě, včetně lipidového profilu, s funkcí ledvin a ionty
+T26	SYMPTOM 2954 2983	Normální hemogram a koagulace
+T27	SYMPTOM 3133 3162	Test toxicity moči: negativní
+T28	SYMPTOM 3195 3303	LK není dilatovaná ani hypertrofická se zachovanou globální a segmentální systolickou funkcí, hyperdynamická
+T29	SYMPTOM 3334 3368	RV není dilatovaná s dobrou funkcí
+T30	SYMPTOM 3466 3490	koronární tepny bez lézí
+T31	SYMPTOM 3492 3558	CT mozku a torakoabdominální CT angiografie: bez významných nálezů
+T32	SYMPTOM 3615 3662	levá komora (LK) nedilatovaná ani hypertrofická
+T33	SYMPTOM 3666 3695	zachovanou systolickou funkcí
+T34	SYMPTOM 3712 3744	změn v segmentální kontraktilitě
+T35	SYMPTOM 3746 3785	Diastolický vzorec prodloužené relaxace
+T36	SYMPTOM 3795 3812	Normální levá síň
+T37	SYMPTOM 3823 3871	Pravá komora (RV) nedilatovaná a s dobrou funkcí
+T38	SYMPTOM 3873 3943	Trojcípá aortální chlopeň se zachovaným otevíráním, bez funkčních změn
+T39	SYMPTOM 3945 3969	Kořen aorty nedilatovaný
+T40	SYMPTOM 4086 4114	Dolní dutá žíla nedilatovaná
+T41	SYMPTOM 4312 4385	nedilatovaná levá komora (LK) se zachovanou globální i segmentální funkcí
+T42	SYMPTOM 4459 4533	Nedilatovaná pravá komora (RV) se zachovanou globální a segmentální funkcí
+T43	SYMPTOM 4547 4619	V pozdních enhancement sekvencích nebyly patrné žádné patologické náběhy
+T44	SYMPTOM 4672 4703	s dobrou biventrikulární funkcí
+T45	SYMPTOM 4793 4806	normálním QTc
+T46	SYMPTOM 5075 5104	negativní pro Brugadův vzorec
+T47	SYMPTOM 5140 5167	negativní flekainidový test
+T48	SYMPTOM 5169 5201	normální bazální sinusový rytmus
+T49	SYMPTOM 5245 5257	normální QRS
+T50	SYMPTOM 5440 5450	horní osou
+T51	SYMPTOM 5528 5538	elevací ST
+T52	SYMPTOM 5580 5673	echokardiografického testu s ergobazinem: klinicky, elektricky i echokardiograficky negativní
+T53	SYMPTOM 5735 5785	koronarografii, CT mozku a hrudníku a TTE bez změn
+T54	SYMPTOM 6167 6223	po celou dobu hospitalizace kardiologicky asymptomatický
+T55	SYMPTOM 6359 6371	normální QTc
+T56	SYMPTOM 6457 6479	normální koronární síť
+T57	SYMPTOM 6555 6592	žádné patologické ischemické zvětšení
+T58	SYMPTOM 6862 6986	Kanálopatie: negativní provokační testy na syndrom dlouhého QT, Brugada a katecholaminergní polymorfní komorovou tachykardii
+T59	SYMPTOM 7048 7071	vzor časné repolarizace
+T60	SYMPTOM 7099 7145	negativní ergobazinový echokardiografický test
+T61	SYMPTOM 7156 7187	toxikologicko-metabolické změny
+T62	SYMPTOM 7863 7899	Angiograficky normální koronární síť
+T63	SYMPTOM 7938 7966	Dobrá biventrikulární funkce
+T64	SYMPTOM 7968 8037	Farmakologické testy k demaskování kanálopatie a vazospazmu negativní

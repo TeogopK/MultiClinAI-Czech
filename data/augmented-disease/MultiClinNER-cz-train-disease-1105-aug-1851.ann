@@ -1,0 +1,44 @@
+T1	DISEASE 168 189	arteriální hypertenze
+T2	DISEASE 195 212	diabetes mellitus
+T3	DISEASE 218 230	dyslipidemie
+T4	DISEASE 240 245	kuřák
+T5	DISEASE 293 300	Obezita
+T6	DISEASE 394 468	Středně těžká chronická obstrukční plicní nemoc, typ chronické bronchitidy
+T7	DISEASE 569 598	Adenokarcinom tlustého střeva
+T8	DISEASE 836 864	Benigní hypertrofie prostaty
+T9	DISEASE 1106 1118	bronchopatie
+T10	DISEASE 1800 1809	flebitidy
+T11	DISEASE 1894 1930	dilataci a biventrikulární dysfunkci
+T12	DISEASE 1943 1963	mitrální regurgitaci
+T13	DISEASE 2810 2828	poškození myokardu
+T14	DISEASE 2898 2928	středně dilatovaná levá komora
+T15	DISEASE 3106 3131	Silně dilatovaná levá síň
+T16	DISEASE 3133 3175	Středně těžká funkční mitrální regurgitace
+T17	DISEASE 3201 3246	Sklerotizovaná, normofunkční aortální chlopeň
+T18	DISEASE 3317 3335	komorová dysfunkce
+T19	DISEASE 3357 3383	trikuspidální insuficience
+T20	DISEASE 3496 3537	kalcifikovaná levá hlavní koronární tepna
+T21	DISEASE 3566 3627	LAD se závažným proximálním a středním postižením se stenózou
+T22	DISEASE 3640 3683	Hraniční léze v ostiální cirkumflexní tepně
+T23	DISEASE 3733 3766	Pravá koronární tepna se 70% lézí
+T24	DISEASE 4096 4109	edém myokardu
+T25	DISEASE 4402 4427	Levá síň mírně dilatovaná
+T26	DISEASE 4712 4746	lineární intramyokardiální fibrózu
+T27	DISEASE 5273 5321	Léze byla ošetřena v první tupé okrajové oblasti
+T28	DISEASE 5967 5994	těžké dysfunkce levé komory
+T29	DISEASE 6156 6174	komorové dysfunkce
+T30	DISEASE 6231 6247	onemocnění 3 cév
+T31	DISEASE 6366 6413	středně těžká chronická obstrukční plicní nemoc
+T32	DISEASE 6415 6420	CHOPN
+T33	DISEASE 6423 6430	obezita
+T34	DISEASE 6432 6456	těžká komorová dysfunkce
+T35	DISEASE 7223 7230	kouření
+T36	DISEASE 7386 7413	paroxyzmální fibrilace síní
+T37	DISEASE 8223 8240	srdečního selhání
+T38	DISEASE 8479 8548	Akutní srdeční selhání v důsledku ischemické dilatační kardiomyopatie
+T39	DISEASE 8551 8579	těžkou dysfunkci levé komory
+T40	DISEASE 8609 8632	Třícípá koronární nemoc
+T41	DISEASE 8658 8685	Paroxyzmální fibrilace síní
+T42	DISEASE 8905 8960	Chronická bronchitida se středně těžkým fenotypem CHOPN
+T43	DISEASE 8962 8969	Kouření
+T44	DISEASE 8983 8990	Obezita

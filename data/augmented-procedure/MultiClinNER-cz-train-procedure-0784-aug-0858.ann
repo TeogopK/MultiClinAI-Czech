@@ -1,0 +1,21 @@
+T1	PROCEDURE 173 181	Anamnéza
+T2	PROCEDURE 205 224	fyzikální vyšetření
+T3	PROCEDURE 252 267	Osobní anamnéza
+T4	PROCEDURE 559 578	Fyzikální vyšetření
+T5	PROCEDURE 697 699	AS
+T6	PROCEDURE 762 764	AP
+T7	PROCEDURE 1005 1024	fyzikální vyšetření
+T8	PROCEDURE 1082 1099	laboratorní testy
+T9	PROCEDURE 1210 1224	Vyšetření moči
+T10	PROCEDURE 1253 1267	Krevní kultury
+T11	PROCEDURE 1271 1287	Rentgen hrudníku
+T12	PROCEDURE 1301 1317	Ultrazvuk břicha
+T13	PROCEDURE 1331 1339	CT mozku
+T14	PROCEDURE 1651 1668	inotropní podpory
+T15	PROCEDURE 1683 1712	transtorakální echokardiogram
+T16	PROCEDURE 1882 1913	invazivní mechanickou ventilaci
+T17	PROCEDURE 1996 2041	transezofageální echokardiografické vyšetření
+T18	PROCEDURE 2429 2436	operaci
+T19	PROCEDURE 2648 2716	Bradavice a chlopeň byly resekovány a nahrazeny mechanickou protézou
+T20	PROCEDURE 2756 2773	inotropní podporu
+T21	PROCEDURE 2775 2779	IABP

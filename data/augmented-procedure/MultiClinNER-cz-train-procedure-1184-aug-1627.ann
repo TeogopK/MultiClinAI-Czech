@@ -1,0 +1,36 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 203 215	dietní léčby
+T4	PROCEDURE 270 293	kardiologickou anamnézu
+T5	PROCEDURE 308 326	paratyreoidektomii
+T6	PROCEDURE 650 669	Fyzikální vyšetření
+T7	PROCEDURE 803 825	Neurologické vyšetření
+T8	PROCEDURE 955 997	Auskultace plic, břicha a dolních končetin
+T9	PROCEDURE 1038 1055	ELEKTROKARDIOGRAM
+T10	PROCEDURE 1057 1060	EKG
+T11	PROCEDURE 1191 1200	BIOCHEMIE
+T12	PROCEDURE 1570 1578	Hemogram
+T13	PROCEDURE 1922 1931	SÉROLOGIE
+T14	PROCEDURE 2229 2238	KOAGULACE
+T15	PROCEDURE 2435 2449	ECHOKARDIOGRAM
+T16	PROCEDURE 3238 3252	KORONAROGRAFIE
+T17	PROCEDURE 3331 3345	ECHOKARDIOGRAM
+T18	PROCEDURE 3697 3714	Laboratorní testy
+T19	PROCEDURE 3767 3809	NUKLEÁRNÍ MAGNETICKÁ REZONANCE (MRI) srdce
+T20	PROCEDURE 3835 3851	echokardiografii
+T21	PROCEDURE 3884 3946	cine sekvencích, Stir a pozdní enhancement po podání gadolinia
+T22	PROCEDURE 4251 4264	sekvenci STIR
+T23	PROCEDURE 4689 4770	Kvantifikace průtoku kořenem aorty (kódování rychlosti pomocí fázového kontrastu)
+T24	PROCEDURE 4907 4988	Kvantifikace průtoku hlavní plicní tepnou (kódování rychlosti fázovým kontrastem)
+T25	PROCEDURE 5354 5371	elektrokardiogram
+T26	PROCEDURE 5375 5420	aboratorní testy s markery poškození myokardu
+T27	PROCEDURE 5679 5707	echokardiografické vyšetření
+T28	PROCEDURE 5825 5846	sérologické vyšetření
+T29	PROCEDURE 5956 5970	koronarografie
+T30	PROCEDURE 5993 6019	markerů poškození myokardu
+T31	PROCEDURE 6109 6130	antihypertenzní léčby
+T32	PROCEDURE 6495 6532	vyšetření magnetickou rezonancí srdce
+T33	PROCEDURE 6777 6801	antihypertenzní medikace
+T34	PROCEDURE 6954 6973	Fyzikální vyšetření
+T35	PROCEDURE 7126 7154	echokardiografické vyšetření
+T36	PROCEDURE 7239 7265	magnetická rezonance srdce

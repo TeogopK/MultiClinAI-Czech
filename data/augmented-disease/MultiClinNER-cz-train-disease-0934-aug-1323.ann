@@ -1,0 +1,49 @@
+T1	DISEASE 153 183	dekompenzace srdečního selhání
+T2	DISEASE 189 205	lékových alergií
+T3	DISEASE 249 270	esenciální hypertenze
+T4	DISEASE 276 293	diabetes mellitus
+T5	DISEASE 295 297	DM
+T6	DISEASE 304 316	dyslipidemie
+T7	DISEASE 318 332	Toxické návyky
+T8	DISEASE 334 346	bývalý kuřák
+T9	DISEASE 364 370	kouřil
+T10	DISEASE 436 457	trvalá fibrilace síní
+T11	DISEASE 547 607	Městnavé srdeční selhání označené jako hypertenzní etiologie
+T12	DISEASE 655 682	chronické onemocnění ledvin
+T13	DISEASE 717 735	nefroangioskleróza
+T14	DISEASE 785 810	Rigidně-kinetický syndrom
+T15	DISEASE 830 893	Chronická anémie z nedostatku železa v důsledku trávicích ztrát
+T16	DISEASE 895 923	Benigní hyperplazie prostaty
+T17	DISEASE 926 975	chronický glaukom s otevřeným úhlem na obou očích
+T18	DISEASE 1353 1368	srdeční selhání
+T19	DISEASE 1665 1682	infekční příznaky
+T20	DISEASE 2452 2466	fibrilace síní
+T21	DISEASE 2468 2472	FiSi
+T22	DISEASE 2505 2538	kompletní blokáda pravého raménka
+T23	DISEASE 2540 2544	RBBB
+T24	DISEASE 2627 2656	oboustranný pleurální výpotek
+T25	DISEASE 2699 2716	Kalcifikace aorty
+T26	DISEASE 2718 2733	Spondyloartróza
+T27	DISEASE 3986 4010	blokovaná fibrilace síní
+T28	DISEASE 4871 4875	FiSi
+T29	DISEASE 4898 4902	RBBB
+T30	DISEASE 4968 4970	IM
+T31	DISEASE 5179 5193	fibrilaci síní
+T32	DISEASE 5239 5243	RBBB
+T33	DISEASE 5322 5351	oboustranný pleurální výpotek
+T34	DISEASE 5400 5417	kalcifikací aorty
+T35	DISEASE 5420 5436	spondyloartrózou
+T36	DISEASE 5566 5636	nedilatovanou levou komoru se středně těžkou koncentrickou hypertrofií
+T37	DISEASE 5698 5720	chlopenní srdeční vady
+T38	DISEASE 5743 5771	dilatovanou dolní dutou žílu
+T39	DISEASE 6057 6077	fyzikálním vyšetření
+T40	DISEASE 6212 6291	fibrilace síní s kompletní atrioventrikulární blokádou (AVB) s komorovým únikem
+T41	DISEASE 6268 6271	AVB
+T42	DISEASE 7148 7183	poruchy atrioventrikulárního vedení
+T43	DISEASE 7260 7264	FiSi
+T44	DISEASE 7473 7477	FiSi
+T45	DISEASE 7551 7619	Kompletní AVB v důsledku náhodného předávkování karbidopou/levodopou
+T46	DISEASE 7621 7651	Dekompenzované srdeční selhání
+T47	DISEASE 7682 7703	Trvalá fibrilace síní
+T48	DISEASE 7732 7774	chronického onemocnění ledvin ve stadiu 3a
+T49	DISEASE 7776 7798	Stifokinetický syndrom

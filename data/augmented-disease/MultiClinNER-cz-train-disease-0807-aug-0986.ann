@@ -1,0 +1,36 @@
+T1	DISEASE 205 217	bývalý kuřák
+T2	DISEASE 253 274	arteriální hypertenze
+T3	DISEASE 276 279	AHT
+T4	DISEASE 282 299	diabetes mellitus
+T5	DISEASE 301 303	DM
+T6	DISEASE 307 319	dyslipidemie
+T7	DISEASE 384 404	srdečního onemocnění
+T8	DISEASE 422 430	glaukomu
+T9	DISEASE 432 445	peptický vřed
+T10	DISEASE 916 931	srdeční selhání
+T11	DISEASE 2254 2266	valvulopatie
+T12	DISEASE 2351 2374	perikardiálního výpotku
+T13	DISEASE 2823 2830	arytmie
+T14	DISEASE 2982 3049	Pravá koronární tepna s anomálním původem z levého koronárního sinu
+T15	DISEASE 3308 3372	Anomální pravostranný koronární odstup z levého koronárního sinu
+T16	DISEASE 3641 3689	malý divertikl v levé inferiorní stěně levé síně
+T17	DISEASE 3697 3718	intraatriální trombus
+T18	DISEASE 3742 3756	hiátová hernie
+T19	DISEASE 4009 4017	ischemie
+T20	DISEASE 4164 4171	fibrózy
+T21	DISEASE 4177 4193	nekrózy myokardu
+T22	DISEASE 4219 4241	indukovatelné ischemie
+T23	DISEASE 4329 4358	strukturální onemocnění srdce
+T24	DISEASE 4585 4593	ischemie
+T25	DISEASE 4634 4658	námahové anginy pectoris
+T26	DISEASE 4705 4713	ischemií
+T27	DISEASE 5302 5340	anomální původ v levém koronárním sinu
+T28	DISEASE 5897 5905	ischemie
+T29	DISEASE 6172 6183	bradykardii
+T30	DISEASE 6274 6290	nekrózy myokardu
+T31	DISEASE 6312 6320	ischemii
+T32	DISEASE 6466 6474	ischemie
+T33	DISEASE 6952 6967	anginu pectoris
+T34	DISEASE 7083 7101	Koronární anomálie
+T35	DISEASE 7103 7159	pravá koronární tepna s počátkem v levém koronárním sinu
+T36	DISEASE 7194 7218	Stabilní angina pectoris

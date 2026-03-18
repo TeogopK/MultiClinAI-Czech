@@ -1,0 +1,45 @@
+T1	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T2	PROCEDURE 307 332	chemoprofylaktickou léčbu
+T3	PROCEDURE 666 680	antihistaminik
+T4	PROCEDURE 740 759	léčbu betablokátory
+T5	PROCEDURE 890 923	transtorakální echokardiografické
+T6	PROCEDURE 1147 1166	Fyzikální vyšetření
+T7	PROCEDURE 1532 1548	Auskultace srdce
+T8	PROCEDURE 1633 1648	Auskultace plic
+T9	PROCEDURE 1830 1859	povrchové ani hluboké palpaci
+T10	PROCEDURE 2166 2174	Angio-CT
+T11	PROCEDURE 2705 2725	Magnetická rezonance
+T12	PROCEDURE 2727 2730	MRI
+T13	PROCEDURE 2961 2994	Transtorakální echokardiografické
+T14	PROCEDURE 3313 3336	sérologie na hydatidózu
+T15	PROCEDURE 3382 3403	antiparazitární léčba
+T16	PROCEDURE 3539 3553	oxygenoterapii
+T17	PROCEDURE 3795 3816	reaktantů akutní fáze
+T18	PROCEDURE 3948 3957	sérologie
+T19	PROCEDURE 3961 3999	hydatidózu byla potvrzena testem ELISA
+T20	PROCEDURE 4022 4055	transtorakální echokardiografické
+T21	PROCEDURE 4519 4538	kardiochirurgického
+T22	PROCEDURE 4558 4574	hrudní chirurgie
+T23	PROCEDURE 4577 4596	všeobecné chirurgie
+T24	PROCEDURE 4664 4678	extrakce cysty
+T25	PROCEDURE 4691 4703	hepatektomie
+T26	PROCEDURE 4715 4754	plicní endarterektomie hydatidové cysty
+T27	PROCEDURE 4963 4971	steroidů
+T28	PROCEDURE 4983 5012	intenzivní tekutinové terapie
+T29	PROCEDURE 5161 5185	zavedena centrální linka
+T30	PROCEDURE 5257 5290	neinvazivní mechanickou ventilaci
+T31	PROCEDURE 5425 5454	transtorakální echokardiogram
+T32	PROCEDURE 5503 5520	Elektrokardiogram
+T33	PROCEDURE 5570 5596	markerů poškození myokardu
+T34	PROCEDURE 5831 5864	implantace veno-arteriálního ECMO
+T35	PROCEDURE 6660 6674	echokardiogram
+T36	PROCEDURE 6778 6796	ventilační podpory
+T37	PROCEDURE 6990 7015	vysokoprůtokovými brýlemi
+T38	PROCEDURE 7070 7082	RTG hrudníku
+T39	PROCEDURE 7329 7347	vazoaktivních léků
+T40	PROCEDURE 7389 7412	bolusová kortikoterapie
+T41	PROCEDURE 7520 7536	echokardiografii
+T42	PROCEDURE 7685 7707	orotracheální intubaci
+T43	PROCEDURE 7809 7832	pokročilých KPR manévrů
+T44	PROCEDURE 7870 7901	transtorakální echokardiografii
+T45	PROCEDURE 8012 8017	pitvy

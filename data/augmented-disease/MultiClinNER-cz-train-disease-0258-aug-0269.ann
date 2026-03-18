@@ -1,0 +1,27 @@
+T1	DISEASE 130 140	hypertenze
+T2	DISEASE 142 159	diabetes mellitus
+T3	DISEASE 161 188	paroxyzmální fibrilace síní
+T4	DISEASE 190 215	Guillenův-Barrého syndrom
+T5	DISEASE 218 250	epidermoidní karcinom orofaryngu
+T6	DISEASE 260 345	přidruženým paraneoplastickým syndromem nedostatečné sekrece antidiuretického hormonu
+T7	DISEASE 347 352	SIADH
+T8	DISEASE 609 655	bilobární pneumonie v důsledku bronchoaspirace
+T9	DISEASE 640 655	bronchoaspirace
+T10	DISEASE 666 692	hypoosmolární hyponatrémií
+T11	DISEASE 823 831	dysfagie
+T12	DISEASE 834 867	krvácení spojené s nádorem hltanu
+T13	DISEASE 1296 1319	paraneoplastickou SIADH
+T14	DISEASE 1984 2015	bakteriemii způsobenou katétrem
+T15	DISEASE 2095 2108	endokarditidu
+T16	DISEASE 2837 2877	průjmu způsobeného Clostridium difficile
+T17	DISEASE 2984 3017	prerenální selhání s hyponatrémií
+T18	DISEASE 3289 3312	akutního selhání ledvin
+T19	DISEASE 3888 3928	průjmu způsobeného Clostridium difficile
+T20	DISEASE 4003 4013	hypertenze
+T21	DISEASE 4083 4096	hypernatrémii
+T22	DISEASE 4242 4261	metabolická acidóza
+T23	DISEASE 4301 4320	respirační alkalóza
+T24	DISEASE 4387 4404	pleurální výpotek
+T25	DISEASE 4480 4493	hypernatrémie
+T26	DISEASE 4576 4647	bakteriémie spojené s methicilin-rezistentním Streptococcus epidermidis
+T27	DISEASE 4709 4732	intoxikace vankomycinem

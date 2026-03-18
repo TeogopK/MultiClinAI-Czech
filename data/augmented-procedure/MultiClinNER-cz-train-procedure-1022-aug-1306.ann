@@ -1,0 +1,65 @@
+T1	PROCEDURE 0 8	ANAMNÉZA
+T2	PROCEDURE 32 51	FYZIKÁLNÍ VYŠETŘENÍ
+T3	PROCEDURE 65 81	osobní anamnézou
+T4	PROCEDURE 598 620	Neurologické vyšetření
+T5	PROCEDURE 883 902	fyzikální vyšetření
+T6	PROCEDURE 911 929	srdeční auskultaci
+T7	PROCEDURE 959 980	respirační auskultaci
+T8	PROCEDURE 1052 1069	elektrokardiogram
+T9	PROCEDURE 1090 1102	krevní testy
+T10	PROCEDURE 1135 1145	koagulační
+T11	PROCEDURE 1194 1233	multimodální počítačová tomografie (CT)
+T12	PROCEDURE 1230 1232	CT
+T13	PROCEDURE 1766 1783	chirurgické léčby
+T14	PROCEDURE 1831 1840	sledování
+T15	PROCEDURE 1911 1928	elektrokardiogram
+T16	PROCEDURE 1930 1933	EKG
+T17	PROCEDURE 2205 2217	Krevní obraz
+T18	PROCEDURE 2614 2636	CT lebky a perfuzní CT
+T19	PROCEDURE 3245 3260	Perfuzní studie
+T20	PROCEDURE 3381 3422	Angio-CT TSA a urgentních mozkových tepen
+T21	PROCEDURE 4137 4158	laboratorní vyšetření
+T22	PROCEDURE 4186 4194	glykémie
+T23	PROCEDURE 4722 4743	Trombofilní vyšetření
+T24	PROCEDURE 4948 4965	CT hrudníku s VSD
+T25	PROCEDURE 5887 5899	CT vyšetření
+T26	PROCEDURE 5903 5914	fibrinolýze
+T27	PROCEDURE 6043 6072	Echo doppler dolních končetin
+T28	PROCEDURE 6092 6121	Transtorakální echokardiogram
+T29	PROCEDURE 6934 6962	bublinkovým echokardiogramem
+T30	PROCEDURE 7006 7035	Transtorakální echokardiogram
+T31	PROCEDURE 7145 7176	Transezofageální echokardiogram
+T32	PROCEDURE 7287 7305	bublinkového testu
+T33	PROCEDURE 7648 7677	Elektrofyziologické vyšetření
+T34	PROCEDURE 8364 8370	ablaci
+T35	PROCEDURE 8407 8434	síňové a komorové stimulace
+T36	PROCEDURE 8700 8759	Podkožní Holter byl implantován v levé parasternální poloze
+T37	PROCEDURE 8762 8765	EKG
+T38	PROCEDURE 8769 8775	ablaci
+T39	PROCEDURE 8894 8915	Perkutánní uzávěr PFO
+T40	PROCEDURE 8917 8971	bylo implantováno 30mm kribriformní uzavírací zařízení
+T41	PROCEDURE 9006 9017	angiografie
+T42	PROCEDURE 9129 9150	hemodynamická podpora
+T43	PROCEDURE 9152 9181	kardiorespirační monitorování
+T44	PROCEDURE 9277 9287	odběr krve
+T45	PROCEDURE 9585 9618	angio-CT vyšetření plicních tepen
+T46	PROCEDURE 9694 9712	CT vyšetření lebky
+T47	PROCEDURE 9753 9764	fibrinolýze
+T48	PROCEDURE 9837 9850	antikoagulace
+T49	PROCEDURE 9928 9980	dopplerovské ultrazvukové vyšetření dolních končetin
+T50	PROCEDURE 10034 10077	transtorakální echokardiografické vyšetření
+T51	PROCEDURE 10198 10226	bublinkového echokardiografu
+T52	PROCEDURE 10229 10263	transezofageálního echokardiografu
+T53	PROCEDURE 10556 10579	ablovat akcesorní dráhu
+T54	PROCEDURE 10591 10620	implantovat subkutánní Holter
+T55	PROCEDURE 10940 10974	perkutánní uzávěr tunelovaného PFO
+T56	PROCEDURE 11045 11052	zákroku
+T57	PROCEDURE 11080 11106	hygienicko-dietní opatření
+T58	PROCEDURE 11257 11280	Profylaxe endokarditidy
+T59	PROCEDURE 11334 11366	invazivní stomatologické zákroky
+T60	PROCEDURE 11567 11580	antikoagulace
+T61	PROCEDURE 11618 11636	angio-CT vyšetření
+T62	PROCEDURE 11791 11809	podkožního Holteru
+T63	PROCEDURE 12063 12075	fibrinolýzou
+T64	PROCEDURE 12077 12129	Propustné tunelové foramen ovale uzavřeno perkutánně
+T65	PROCEDURE 12131 12157	Ablace akcesorní dráhy WPW

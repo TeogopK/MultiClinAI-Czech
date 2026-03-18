@@ -1,0 +1,27 @@
+T1	PROCEDURE 236 255	fyzikální vyšetření
+T2	PROCEDURE 544 572	polypektomie tlustého střeva
+T3	PROCEDURE 604 607	TUR
+T4	PROCEDURE 798 817	srdeční katetrizace
+T5	PROCEDURE 930 959	echokardiografickém vyšetření
+T6	PROCEDURE 1098 1120	elektrická kardioverze
+T7	PROCEDURE 1260 1282	elektrická kardioverze
+T8	PROCEDURE 2104 2117	betablokátorů
+T9	PROCEDURE 2197 2208	kardioverzi
+T10	PROCEDURE 2211 2230	Fyzikální vyšetření
+T11	PROCEDURE 2357 2373	Auskultace srdce
+T12	PROCEDURE 2412 2429	Plicní auskultace
+T13	PROCEDURE 2623 2626	EKG
+T14	PROCEDURE 2780 2792	RTG hrudníku
+T15	PROCEDURE 3059 3068	Koagulace
+T16	PROCEDURE 3288 3302	Echokardiogram
+T17	PROCEDURE 4226 4258	ablaci atrioventrikulárního uzlu
+T18	PROCEDURE 4261 4287	zavedení kardiostimulátoru
+T19	PROCEDURE 4293 4324	umístěn trvalý kardiostimulátor
+T20	PROCEDURE 4335 4355	umístit také LV svod
+T21	PROCEDURE 4360 4392	srdeční resynchronizační terapii
+T22	PROCEDURE 4394 4397	CRT
+T23	PROCEDURE 4457 4497	Nakonec byl umístěn kardiostimulátor DDD
+T24	PROCEDURE 4532 4564	ablace atrioventrikulárního uzlu
+T25	PROCEDURE 4649 4669	antikoagulační léčby
+T26	PROCEDURE 4946 4960	ablace AV uzlu
+T27	PROCEDURE 4963 4991	implantace kardiostimulátoru
