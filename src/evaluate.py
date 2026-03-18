@@ -1,6 +1,7 @@
 """Evaluate all 3 entity-type models on dev set and generate BRAT output."""
 
 import argparse
+import json
 from collections import defaultdict
 from pathlib import Path
 
@@ -22,6 +23,25 @@ from config import (
 from data import load_documents
 
 
+def _is_crf_model(model_path: Path) -> bool:
+    """Check if a saved model is a CRF model by looking for crf_config.json."""
+    return (model_path / "crf_config.json").exists()
+
+
+def _load_model(model_path: Path, device: str):
+    """Load either a standard HF model or a CRF model from the given path."""
+    if _is_crf_model(model_path):
+        from model import TransformerCRF
+        model = TransformerCRF.from_pretrained(str(model_path), device=device)
+        model.to(device)
+        model.eval()
+        return model, True
+    else:
+        model = AutoModelForTokenClassification.from_pretrained(str(model_path)).to(device)
+        model.eval()
+        return model, False
+
+
 def predict_document(
     text: str,
     tokenizer,
@@ -29,6 +49,7 @@ def predict_document(
     entity_type: str,
     max_length: int = MAX_LENGTH,
     device: str = "cuda",
+    use_crf: bool = False,
 ) -> list[tuple[int, int, str]]:
     """Run inference on a single document and return predicted entities as (start, end, type)."""
     enc = tokenizer(
@@ -43,9 +64,14 @@ def predict_document(
     special = enc.pop("special_tokens_mask")[0].tolist()
 
     enc = {k: v.to(device) for k, v in enc.items()}
+
     with torch.no_grad():
-        logits = model(**enc).logits
-    preds = torch.argmax(logits, dim=-1)[0].cpu().tolist()
+        if use_crf:
+            tag_seqs = model(input_ids=enc["input_ids"], attention_mask=enc["attention_mask"])
+            preds = tag_seqs[0]  # single example, get first sequence
+        else:
+            logits = model(**enc).logits
+            preds = torch.argmax(logits, dim=-1)[0].cpu().tolist()
 
     i2l = id2label(entity_type)
     tag = entity_type.upper()
@@ -103,8 +129,10 @@ def evaluate_entity_type(
         return None
 
     tokenizer = AutoTokenizer.from_pretrained(str(best_dir))
-    model = AutoModelForTokenClassification.from_pretrained(str(best_dir)).to(device)
-    model.eval()
+    model, use_crf = _load_model(best_dir, device)
+
+    mode_str = "CRF" if use_crf else "softmax"
+    print(f"  Loaded {mode_str} model from {best_dir}")
 
     docs = load_documents(data_dir(entity_type, "dev"), entity_type)
     ll = label_list(entity_type)
@@ -149,7 +177,7 @@ def evaluate_entity_type(
 
         # Predictions
         pred_entities = predict_document(
-            doc["text"], tokenizer, model, entity_type, MAX_LENGTH, device
+            doc["text"], tokenizer, model, entity_type, MAX_LENGTH, device, use_crf
         )
         doc_predictions[doc["doc_id"]] = pred_entities
 
