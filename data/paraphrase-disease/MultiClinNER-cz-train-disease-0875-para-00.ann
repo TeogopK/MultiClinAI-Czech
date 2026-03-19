@@ -1,0 +1,32 @@
+T1	DISEASE 120 134	lékové alergie
+T2	DISEASE 212 243	familiární hypercholesterolemie
+T3	DISEASE 363 377	toxické návyky
+T4	DISEASE 440 447	nadváze
+T5	DISEASE 482 514	časné ischemické choroby srdeční
+T6	DISEASE 2145 2196	akutní kompletní okluzi distálního společného kmene
+T7	DISEASE 2203 2235	Levá přední sestupná tepna (LAD)
+T8	DISEASE 2488 2513	závažným postižením ostií
+T9	DISEASE 2515 2543	Levá cirkumflexní tepna (CX)
+T10	DISEASE 2589 2615	Pravá koronární tepna (CD)
+T11	DISEASE 2930 2954	dilatovanou levou komoru
+T12	DISEASE 2970 2998	těžkou systolickou dysfunkcí
+T13	DISEASE 3159 3180	aortální insuficience
+T14	DISEASE 3182 3185	AIo
+T15	DISEASE 3189 3224	středně těžká mitrální insuficience
+T16	DISEASE 3226 3228	MI
+T17	DISEASE 3625 3649	dilatovanou levou komoru
+T18	DISEASE 3795 3816	aortální insuficienci
+T19	DISEASE 3818 3821	AoI
+T20	DISEASE 4119 4139	arteriální hypotenze
+T21	DISEASE 4142 4167	špatnou periferní perfuzí
+T22	DISEASE 4293 4313	respiračního selhání
+T23	DISEASE 5138 5167	pokročilého srdečního selhání
+T24	DISEASE 6217 6259	Akutní infarkt myokardu s elevací úseku ST
+T25	DISEASE 6261 6266	STEMI
+T26	DISEASE 6296 6345	Koronární onemocnění společného koronárního kmene
+T27	DISEASE 6347 6365	distální okluze TK
+T28	DISEASE 6368 6403	Ischemická dilatační kardiomyopatie
+T29	DISEASE 6405 6408	DCM
+T30	DISEASE 6446 6471	Zhoršená bazální glykémie
+T31	DISEASE 6474 6500	Anémie z nedostatku železa
+T32	DISEASE 6503 6534	Familiární hypercholesterolemie

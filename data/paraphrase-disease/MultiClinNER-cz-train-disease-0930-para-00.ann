@@ -1,0 +1,51 @@
+T1	DISEASE 98 123	alergická na propifenazon
+T2	DISEASE 155 176	arteriální hypertenze
+T3	DISEASE 179 191	dyslipidémie
+T4	DISEASE 363 390	perzistující fibrilace síní
+T5	DISEASE 403 438	mírnou hypertenzní srdeční chorobou
+T6	DISEASE 473 529	levá komora [LK] normální velikosti, mírně hypertrofická
+T7	DISEASE 566 594	mírně dilatovanou levou síní
+T8	DISEASE 1000 1016	recidivě arytmie
+T9	DISEASE 1026 1040	fibrilace síní
+T10	DISEASE 1043 1061	flutteru levé síně
+T11	DISEASE 1198 1225	recidiva flutteru levé síně
+T12	DISEASE 1705 1722	recidivou arytmie
+T13	DISEASE 1732 1746	fibrilace síní
+T14	DISEASE 1856 1889	akutní/subakutní ischemickou lézi
+T15	DISEASE 1911 1939	tranzitorní ischemické ataky
+T16	DISEASE 2426 2435	anemizací
+T17	DISEASE 3914 3936	hluboké žilní trombózy
+T18	DISEASE 4486 4506	levý přední hemiblok
+T19	DISEASE 4550 4580	ateromatóza aortálního oblouku
+T20	DISEASE 4582 4599	prodloužení aorty
+T21	DISEASE 4700 4746	bibasální konsolidace s intersticiální kresbou
+T22	DISEASE 4779 4814	mírný oboustranný pleurální výpotek
+T23	DISEASE 4878 4925	levá komora mírně dilatovaná, mírná hypertrofie
+T24	DISEASE 5129 5155	Závažná dilatace levé síně
+T25	DISEASE 5176 5207	mitrální a aortální regurgitace
+T26	DISEASE 5231 5257	trikuspidální insuficience
+T27	DISEASE 5333 5356	perikardiální patologie
+T28	DISEASE 5507 5546	plicní konsolidace s alveolárním vzorem
+T29	DISEASE 5741 5767	trakčními bronchiektáziemi
+T30	DISEASE 5825 5860	kryptogenní organizovanou pneumonií
+T31	DISEASE 5878 5897	pleurálního výpotku
+T32	DISEASE 5983 6004	multinodulární struma
+T33	DISEASE 7003 7019	Nodulární struma
+T34	DISEASE 7092 7110	Dilatace levé síně
+T35	DISEASE 7133 7172	pleurálního ani perikardiálního výpotku
+T36	DISEASE 7300 7329	oboustranný pleurální výpotek
+T37	DISEASE 7700 7717	srdečního selhání
+T38	DISEASE 7729 7754	primární plicní patologie
+T39	DISEASE 7780 7795	plicní toxicitu
+T40	DISEASE 7848 7866	plicního postižení
+T41	DISEASE 7984 8018	kryptogenní organizované pneumonii
+T42	DISEASE 8123 8159	intersticiálního plicního onemocnění
+T43	DISEASE 8487 8521	kryptogenní organizované pneumonie
+T44	DISEASE 9638 9665	Intersticiální pneumonitida
+T45	DISEASE 9694 9738	farmakologické toxicitě vyvolané amiodaronem
+T46	DISEASE 9742 9769	Hypertenzní srdeční choroba
+T47	DISEASE 9810 9827	srdečního selhání
+T48	DISEASE 9831 9862	Systémová arteriální hypertenze
+T49	DISEASE 9891 9919	Přetrvávající fibrilace síní
+T50	DISEASE 9959 9976	recidivou arytmie
+T51	DISEASE 10207 10232	Benigní uzly štítné žlázy

@@ -1,0 +1,36 @@
+T1	DISEASE 115 138	nežádoucích účinků léků
+T2	DISEASE 176 181	kuřák
+T3	DISEASE 262 300	chronickou ischemickou chorobu srdeční
+T4	DISEASE 325 328	AKS
+T5	DISEASE 411 426	angině pectoris
+T6	DISEASE 450 467	srdečního selhání
+T7	DISEASE 824 857	dilatace kořene aorty a levé síně
+T8	DISEASE 965 974	patologie
+T9	DISEASE 1053 1074	Perikardiální výpotek
+T10	DISEASE 1133 1185	Koronární kmen s nevýznamnými angiografickými lézemi
+T11	DISEASE 1189 1228	Přední sestupná tepna s těžkou stenózou
+T12	DISEASE 1387 1444	Obvodová tepna (Cx) s nevýznamnými angiografickými lézemi
+T13	DISEASE 1448 1532	Dominantní pravá koronární tepna s difuzním postižením a nevýznamnou ložiskovou lézí
+T14	DISEASE 2463 2470	synkopu
+T15	DISEASE 2608 2621	zástavu srdce
+T16	DISEASE 2691 2718	elektromechanická disociace
+T17	DISEASE 2881 2899	komorové fibrilace
+T18	DISEASE 2978 3003	nepravidelnou tachykardii
+T19	DISEASE 3377 3405	těžkou dysfunkci levé komory
+T20	DISEASE 3701 3726	nepravidelnou tachykardii
+T21	DISEASE 4013 4041	těžkou dysfunkci levé komory
+T22	DISEASE 4191 4240	difuzní postižení LAD s těžkým proximálním plátem
+T23	DISEASE 4275 4308	Cx s významným proximálním plátem
+T24	DISEASE 4330 4373	Pravá koronární tepna s difuzním postižením
+T25	DISEASE 5518 5552	segmentálních poruch kontraktility
+T26	DISEASE 5818 5830	valvulopatií
+T27	DISEASE 5832 5853	Perikardiální výpotek
+T28	DISEASE 6734 6783	mírném až středně těžkém difuzním poškození mozku
+T29	DISEASE 6895 6914	aspirační pneumonie
+T30	DISEASE 6916 6939	akutního selhání ledvin
+T31	DISEASE 6942 6990	středně těžké neurogenní orofaryngeální dysfagie
+T32	DISEASE 7196 7252	Mimo nemocnici došlo k obnovení kardiorespirační zástavy
+T33	DISEASE 7290 7332	Akutní infarkt myokardu s elevací úseku ST
+T34	DISEASE 7334 7339	STEMI
+T35	DISEASE 7373 7411	Vícesměrová ischemická choroba srdeční
+T36	DISEASE 7507 7551	Anoxicko-ischemická encefalopatie po zástavě

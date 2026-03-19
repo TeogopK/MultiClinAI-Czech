@@ -1,0 +1,48 @@
+T1	DISEASE 103 123	alergii na penicilin
+T2	DISEASE 141 148	kuřákem
+T3	DISEASE 177 195	konzumaci alkoholu
+T4	DISEASE 202 212	hypertenzí
+T5	DISEASE 225 232	diabetu
+T6	DISEASE 238 250	dyslipidemie
+T7	DISEASE 280 300	srdečního onemocnění
+T8	DISEASE 448 466	katarální příznaky
+T9	DISEASE 573 591	akutní bronchitidy
+T10	DISEASE 837 841	LBBB
+T11	DISEASE 1092 1109	srdečního selhání
+T12	DISEASE 1688 1691	HŽT
+T13	DISEASE 2132 2145	neúplným LBBB
+T14	DISEASE 2203 2216	kardiomegalii
+T15	DISEASE 2268 2287	pleurálního výpotku
+T16	DISEASE 2341 2393	dilatace levé komory s těžce sníženou kontraktilitou
+T17	DISEASE 2502 2536	Mírná funkční mitrální regurgitace
+T18	DISEASE 2538 2589	Diastolická dysfunkce II. stupně se zvýšenými LVEDP
+T19	DISEASE 2591 2631	Dilatace pravé komory s lehkou dysfunkcí
+T20	DISEASE 2633 2664	Mírná trikuspidální regurgitace
+T21	DISEASE 2738 2760	dysfunkci pravé komory
+T22	DISEASE 2824 2847	perikardiálního výpotku
+T23	DISEASE 2897 2917	angiografických lézí
+T24	DISEASE 2953 2984	dilatovanou levostrannou komoru
+T25	DISEASE 3209 3227	dilataci levé síně
+T26	DISEASE 3229 3270	dilataci pravé komory s depresivní funkcí
+T27	DISEASE 3273 3292	dilataci pravé síně
+T28	DISEASE 3306 3332	mírná mitrální regurgitace
+T29	DISEASE 3344 3365	perikardiální výpotek
+T30	DISEASE 3477 3501	dilatační kardiomyopatie
+T31	DISEASE 3504 3530	těžkou komorovou dysfunkcí
+T32	DISEASE 3642 3665	ischemických lézí mozku
+T33	DISEASE 3671 3688	akutního krvácení
+T34	DISEASE 3690 3734	Okluze P2 segmentu pravé zadní mozkové tepny
+T35	DISEASE 3769 3784	ischemické léze
+T36	DISEASE 3878 3911	ložiskem hemoragické transformace
+T37	DISEASE 4151 4165	kardiomyopatii
+T38	DISEASE 4168 4200	těžkou biventrikulární dysfunkcí
+T39	DISEASE 4203 4234	hypertrabekulární levou komorou
+T40	DISEASE 4488 4502	koronární léze
+T41	DISEASE 4585 4609	dilatační kardiomyopatii
+T42	DISEASE 4612 4638	těžkou komorovou dysfunkcí
+T43	DISEASE 5024 5056	ischemické cévní mozkové příhodě
+T44	DISEASE 5457 5474	srdečního selhání
+T45	DISEASE 5542 5559	srdečního selhání
+T46	DISEASE 5561 5587	Nekompaktní kardiomyopatie
+T47	DISEASE 5590 5615	biventrikulární dysfunkcí
+T48	DISEASE 5617 5649	Ischemická cévní mozková příhoda

@@ -1,0 +1,44 @@
+T1	DISEASE 131 143	dyslipidémie
+T2	DISEASE 146 153	nadváha
+T3	DISEASE 255 265	zápal plic
+T4	DISEASE 384 439	Chronické onemocnění jater virem hepatitidy C genotyp 1
+T5	DISEASE 805 858	Systémová sarkoidóza sekundární po léčbě interferonem
+T6	DISEASE 1075 1097	chronickou HCV infekci
+T7	DISEASE 1432 1453	presynkopální příhody
+T8	DISEASE 1610 1665	dilatační kardiomyopatii s těžkou dysfunkcí levé komory
+T9	DISEASE 1851 1877	anémii z nedostatku železa
+T10	DISEASE 1882 1914	dekompenzovaném srdečním selhání
+T11	DISEASE 1916 1918	SS
+T12	DISEASE 2712 2734	hluboké žilní trombózy
+T13	DISEASE 2736 2739	HŽT
+T14	DISEASE 3059 3062	LVH
+T15	DISEASE 4464 4529	těžce dilatovanou levá komoru (LK) s těžkou systolickou dysfunkcí
+T16	DISEASE 4632 4652	mitrální regurgitace
+T17	DISEASE 4697 4747	Pravá komora (RV) byla na počátku mírně dilatovaná
+T18	DISEASE 4795 4825	trikuspidální regurgitace (TR)
+T19	DISEASE 5142 5156	edému myokardu
+T20	DISEASE 5575 5597	fokální sarkoidní lézi
+T21	DISEASE 5623 5647	dilatační kardiomyopatii
+T22	DISEASE 5649 5653	DKMP
+T23	DISEASE 5769 5783	sarkoidní lézí
+T24	DISEASE 6096 6134	pleurálních či perikardiálních výpotků
+T25	DISEASE 6847 6868	dysfunkci levé komory
+T26	DISEASE 6977 7008	funkce komor s mírnou dysfunkcí
+T27	DISEASE 7189 7198	katarální
+T28	DISEASE 7229 7241	myokarditidy
+T29	DISEASE 7413 7424	sarkoidózou
+T30	DISEASE 7448 7502	iatrogenní sarkoidózy sekundární k užívání interferonu
+T31	DISEASE 7571 7606	plicní nebo adenopatické sarkoidózy
+T32	DISEASE 7763 7807	kardiotoxicity přímých antivirotik proti HCV
+T33	DISEASE 7847 7868	toxickou myokarditidu
+T34	DISEASE 7893 7906	toxicitě léků
+T35	DISEASE 8191 8251	dysfunkce levé komory přisuzována antivirové léčbě proti HCV
+T36	DISEASE 8618 8644	anémie z nedostatku železa
+T37	DISEASE 8698 8728	polypy v pravém tlustém střevě
+T38	DISEASE 8798 8874	těžké dysfunkce levé komory sekundární reverzibilní dilatační kardiomyopatie
+T39	DISEASE 8937 8950	myokarditidou
+T40	DISEASE 8982 9042	toxická myokarditida spojená s přímou antivirovou léčbou HCV
+T41	DISEASE 9164 9232	Neischemická dilatační kardiomyopatie s těžkou dysfunkcí levé komory
+T42	DISEASE 9264 9317	toxická myokarditida způsobená antivirotiky proti HCV
+T43	DISEASE 9321 9391	Anémie z nedostatku železa sekundárně způsobená polypy tlustého střeva
+T44	DISEASE 9395 9407	Dyslipidémie

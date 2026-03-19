@@ -1,0 +1,32 @@
+T1	DISEASE 175 189	lékové alergie
+T2	DISEASE 209 223	toxické návyky
+T3	DISEASE 270 282	dyslipidémii
+T4	DISEASE 285 301	Diabetes 2. typu
+T5	DISEASE 432 453	trvalá fibrilace síní
+T6	DISEASE 512 571	revmatickou chlopenní vadu srdce s těžkou mitrální stenózou
+T7	DISEASE 574 611	středně těžkou dvojitou aortální lézí
+T8	DISEASE 774 780	anémie
+T9	DISEASE 1446 1487	flutter síní s rychlou komorovou odpovědí
+T10	DISEASE 1949 1994	arytmický rytmus s frekvencí asi 100 tepů/min
+T11	DISEASE 2874 2937	flutter síní s variabilní komorovou odpovědí kolem 120 tepů/min
+T12	DISEASE 3143 3204	nedilatovanou levou komoru s mírnou koncentrickou hypertrofií
+T13	DISEASE 3206 3227	dilatovanou levou síň
+T14	DISEASE 3608 3642	segmentálních poruch kontraktility
+T15	DISEASE 3711 3734	perikardiálního výpotku
+T16	DISEASE 4027 4060	heparinem indukovanou trombopenii
+T17	DISEASE 4062 4065	HIT
+T18	DISEASE 4562 4570	trombózy
+T19	DISEASE 4823 4836	endokarditidy
+T20	DISEASE 4851 4909	bakteriemií po nedávné implantaci dvou mechanických protéz
+T21	DISEASE 5069 5091	nepuritické kožní léze
+T22	DISEASE 5178 5210	toxodermii vyvolanou ertapenemem
+T23	DISEASE 5305 5347	leukocytoklastickou vaskulitidu malých cév
+T24	DISEASE 5362 5381	pravé sérové nemoci
+T25	DISEASE 5449 5483	toxikodermii vyvolanou ertapenemem
+T26	DISEASE 5497 5527	Dekompenzace srdečního selhání
+T27	DISEASE 5542 5571	Subakutní normocytární anémie
+T28	DISEASE 5613 5654	Flutter síní s rychlou komorovou odpovědí
+T29	DISEASE 5658 5690	Heparinem indukovaná trombopenie
+T30	DISEASE 5692 5695	HIT
+T31	DISEASE 5700 5744	BLEE+ infekce močových cest vyvolaná E. coli
+T32	DISEASE 5748 5823	Leukocytoklastická vaskulitida malých cév sekundárně po podání karbapenemik

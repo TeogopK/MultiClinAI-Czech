@@ -1,0 +1,56 @@
+T1	DISEASE 98 118	hypercholesterolemie
+T2	DISEASE 120 150	diabetes mellitus (DM) 2. typu
+T3	DISEASE 280 287	obezita
+T4	DISEASE 307 322	bývalého kuřáka
+T5	DISEASE 366 387	arteriální hypertenzi
+T6	DISEASE 451 468	Lericheho syndrom
+T7	DISEASE 536 563	pokročilou neischemickou KV
+T8	DISEASE 618 646	plicní arteriální hypertenzí
+T9	DISEASE 683 705	trvalou fibrilaci síní
+T10	DISEASE 707 711	FiSi
+T11	DISEASE 715 737	blokádu levého raménka
+T12	DISEASE 739 743	LBBB
+T13	DISEASE 862 904	chronické onemocnění ledvin ve stadiu IIIb
+T14	DISEASE 906 954	trombofilii s mutací protrombinového genu 20210A
+T15	DISEASE 957 991	chronickou obstrukční plicní nemoc
+T16	DISEASE 993 998	CHOPN
+T17	DISEASE 1091 1132	adenokarcinom pravého horního laloku plic
+T18	DISEASE 1248 1306	séropozitivní polyartritida s postižením karpálních kloubů
+T19	DISEASE 1309 1312	dna
+T20	DISEASE 1340 1396	subklinická hypertyreóza s multinodulární štítnou žlázou
+T21	DISEASE 1398 1405	Alergie
+T22	DISEASE 2022 2035	KV onemocnění
+T23	DISEASE 2663 2685	hluboké žilní trombózy
+T24	DISEASE 2687 2690	HŽT
+T25	DISEASE 3315 3328	kardiomegalii
+T26	DISEASE 3543 3557	fibrilaci síní
+T27	DISEASE 3613 3617	LBBB
+T28	DISEASE 3686 3709	komorovou extrasystolou
+T29	DISEASE 3749 3797	středně těžkou globální systolickou dysfunkci LK
+T30	DISEASE 3950 3971	mitrální insuficience
+T31	DISEASE 3973 3975	MI
+T32	DISEASE 3979 4005	trikuspidální insuficience
+T33	DISEASE 4007 4009	TI
+T34	DISEASE 4026 4054	plicní arteriální hypertenzí
+T35	DISEASE 4056 4059	PAH
+T36	DISEASE 4157 4159	VF
+T37	DISEASE 4465 4474	trvalé AF
+T38	DISEASE 4970 5019	VF se sníženou LVEF (HFrEF) neischemického původu
+T39	DISEASE 5106 5126	Hypercholesterolemie
+T40	DISEASE 5128 5130	DM
+T41	DISEASE 5197 5216	závislý na inzulinu
+T42	DISEASE 5218 5225	Obezita
+T43	DISEASE 5237 5249	Bývalý kuřák
+T44	DISEASE 5294 5315	arteriální hypertenze
+T45	DISEASE 5338 5355	Lericheho syndrom
+T46	DISEASE 5395 5420	Pokročilá neischemická KV
+T47	DISEASE 5440 5457	plicní hypertenzí
+T48	DISEASE 5484 5486	AF
+T49	DISEASE 5489 5493	LBBB
+T50	DISEASE 5545 5563	CKD ve stadiu IIIb
+T51	DISEASE 5567 5615	Trombofilie s mutací protrombinového genu 20210A
+T52	DISEASE 5619 5624	CHOPN
+T53	DISEASE 5668 5698	LSD T1bN0M0 adenokarcinom plic
+T54	DISEASE 5779 5837	Séropozitivní polyartritida s postižením karpálních kloubů
+T55	DISEASE 5839 5842	Dna
+T56	DISEASE 5846 5902	Subklinická hypertyreóza s multinodulární štítnou žlázou

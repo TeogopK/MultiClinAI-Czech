@@ -1,0 +1,37 @@
+T1	DISEASE 145 161	lékových alergií
+T2	DISEASE 215 227	bývalý kuřák
+T3	DISEASE 283 295	bývalý piják
+T4	DISEASE 311 330	metabolické poruchy
+T5	DISEASE 366 391	antifosfolipidový syndrom
+T6	DISEASE 393 396	APS
+T7	DISEASE 413 442	systémový lupus erythematodes
+T8	DISEASE 444 447	SLE
+T9	DISEASE 471 503	segmentální plicní tromboembolie
+T10	DISEASE 505 508	PTE
+T11	DISEASE 620 667	akutní infarkt myokardu bez elevace segmentu ST
+T12	DISEASE 669 675	NSTEMI
+T13	DISEASE 696 742	2cévní ischemickou chorobou srdeční (AMD a PD)
+T14	DISEASE 852 882	mírnou hypertrofii levé komory
+T15	DISEASE 884 887	LVH
+T16	DISEASE 905 927	chlopenní srdeční vady
+T17	DISEASE 1058 1069	náhlé smrti
+T18	DISEASE 1510 1515	STEMI
+T19	DISEASE 1554 1572	anginózních příhod
+T20	DISEASE 1698 1745	setrvalou monosystolickou komorovou tachykardii
+T21	DISEASE 1747 1751	SMVT
+T22	DISEASE 2972 3008	VT s morfologií bloku levého raménka
+T23	DISEASE 3010 3014	LBBB
+T24	DISEASE 3513 3584	Levná komora (LK) byla normální velikosti s hypertrofií bazálního septa
+T25	DISEASE 3752 3762	mírnou LVH
+T26	DISEASE 3833 3835	VT
+T27	DISEASE 3913 3929	escharu myokardu
+T28	DISEASE 4107 4109	VT
+T29	DISEASE 4123 4127	LBBB
+T30	DISEASE 4321 4339	arytmických příhod
+T31	DISEASE 4364 4366	VT
+T32	DISEASE 4455 4479	arytmogenní dysplazii PK
+T33	DISEASE 4514 4548	arytmogenní dysplazie pravé komory
+T34	DISEASE 4550 4574	arytmogenní dysplazie PK
+T35	DISEASE 4588 4621	TVMS anterolaterálního aspektu PK
+T36	DISEASE 4702 4728	Koronární onemocnění 2 cév
+T37	DISEASE 4831 4855	arytmogenní dysplazii PK

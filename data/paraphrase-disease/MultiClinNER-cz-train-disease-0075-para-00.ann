@@ -1,0 +1,17 @@
+T1	DISEASE 111 136	neoplazii v levém varleti
+T2	DISEASE 308 332	zvednutí pravého varlete
+T3	DISEASE 343 354	meningitidu
+T4	DISEASE 387 419	trvalému neurologickému deficitu
+T5	DISEASE 422 443	reziduálním záchvatům
+T6	DISEASE 905 918	nádor varlete
+T7	DISEASE 940 973	mikrokalcifikací v pravém varleti
+T8	DISEASE 1032 1046	hmatných uzlin
+T9	DISEASE 1051 1059	metastáz
+T10	DISEASE 1189 1205	klasický seminom
+T11	DISEASE 1221 1260	tunicy albuginey ani semenného provazce
+T12	DISEASE 1274 1300	cévní či lymfatické invaze
+T13	DISEASE 1326 1345	klasického seminomu
+T14	DISEASE 1499 1508	neoplazie
+T15	DISEASE 1629 1650	klasický typ seminomu
+T16	DISEASE 1665 1707	intratubulární neoplazie zárodečných buněk
+T17	DISEASE 2340 2396	abdominálního adenopatického relapsu klasického seminomu

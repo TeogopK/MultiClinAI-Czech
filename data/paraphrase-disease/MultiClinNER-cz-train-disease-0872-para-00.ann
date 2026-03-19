@@ -1,0 +1,47 @@
+T1	DISEASE 52 81	akutního koronárního syndromu
+T2	DISEASE 192 208	toxických návyků
+T3	DISEASE 213 229	lékových alergií
+T4	DISEASE 271 281	hypertenze
+T5	DISEASE 313 348	středně těžká aortální insuficience
+T6	DISEASE 435 460	AV blokáda prvního stupně
+T7	DISEASE 623 642	bronchiální infekce
+T8	DISEASE 889 900	bakteriémie
+T9	DISEASE 941 961	plicní tromboembolii
+T10	DISEASE 964 992	diskordantní aneuryzma aorty
+T11	DISEASE 1216 1245	akutního koronárního syndromu
+T12	DISEASE 1567 1589	hluboké žilní trombózy
+T13	DISEASE 1851 1861	meningismu
+T14	DISEASE 2414 2444	porucha nitrokomorového vedení
+T15	DISEASE 2613 2626	kardiomegalii
+T16	DISEASE 2641 2658	srdečního selhání
+T17	DISEASE 3018 3077	vegetaci o velikosti 10 mm na bikuspidální aortální chlopni
+T18	DISEASE 3080 3108	těžkou aortální insuficienci
+T19	DISEASE 3171 3198	středně těžkou insuficiencí
+T20	DISEASE 3300 3326	trikuspidální insuficience
+T21	DISEASE 3343 3360	plicní hypertenze
+T22	DISEASE 3447 3464	srdečního selhání
+T23	DISEASE 3551 3564	endokarditidu
+T24	DISEASE 3585 3600	srdeční selhání
+T25	DISEASE 3602 3617	ruptura chlopně
+T26	DISEASE 3632 3656	absces v aortálním anulu
+T27	DISEASE 3861 3896	poruchu intraventrikulárního vedení
+T28	DISEASE 4009 4040	absces na mitro-aortální junkci
+T29	DISEASE 4219 4233	koronární léze
+T30	DISEASE 4246 4265	píštěl z LVOT do RA
+T31	DISEASE 4308 4421	vegetace na pravém koronárním a nekoronárním lístku aortální chlopně s rozšířením na přední list mitrální chlopně
+T32	DISEASE 4770 4796	atrioventrikulární blokády
+T33	DISEASE 4798 4801	AVB
+T34	DISEASE 4905 4942	pleurálního a perikardiálního výpotku
+T35	DISEASE 5070 5093	perikardiálnímu výpotku
+T36	DISEASE 5458 5481	perikardiálního výpotku
+T37	DISEASE 5816 5837	perikardiální výpotek
+T38	DISEASE 5975 5984	hypotenzí
+T39	DISEASE 6120 6143	perikardiálního výpotku
+T40	DISEASE 6218 6255	hematomu s kompresí pravé komory (RV)
+T41	DISEASE 6498 6528	Endokarditida aortální chlopně
+T42	DISEASE 6576 6604	těžkou aortální insuficiencí
+T43	DISEASE 6609 6683	mitrální insuficiencí způsobenou perforací předního listu mitrální chlopně
+T44	DISEASE 6688 6717	sekundárním srdečním selháním
+T45	DISEASE 6722 6744	periaortálním abscesem
+T46	DISEASE 6749 6823	úplnou atrioventrikulární komorovou blokádou sekundárně vyvolanou abscesem
+T47	DISEASE 6828 6910	píštělí výtokového traktu levé komory do pravé síně sekundárně způsobenou abscesem

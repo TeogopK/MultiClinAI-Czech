@@ -1,0 +1,62 @@
+T1	DISEASE 102 109	alergií
+T2	DISEASE 163 181	vysoký krevní tlak
+T3	DISEASE 183 185	HT
+T4	DISEASE 188 195	nadváha
+T5	DISEASE 207 222	bývalého kuřáka
+T6	DISEASE 241 276	syndromem spánkové apnoe a hypopnoe
+T7	DISEASE 278 282	SAHS
+T8	DISEASE 403 434	strukturálního onemocnění srdce
+T9	DISEASE 456 470	jícnové spasmy
+T10	DISEASE 499 536	poststreptokokovou glomerulonefritidu
+T11	DISEASE 557 584	nekomplikovaná cholelitiáza
+T12	DISEASE 626 635	katarakty
+T13	DISEASE 644 662	odchlípení sítnice
+T14	DISEASE 672 685	křečových žil
+T15	DISEASE 709 718	hemoroidů
+T16	DISEASE 912 930	synkopální příhody
+T17	DISEASE 990 1004	fibrilace síní
+T18	DISEASE 1142 1159	srdečního selhání
+T19	DISEASE 1407 1417	adenopatie
+T20	DISEASE 1422 1432	kožní léze
+T21	DISEASE 1704 1748	ulcerativní léze v horních cestách dýchacích
+T22	DISEASE 2246 2260	mikrohematurie
+T23	DISEASE 2286 2308	globální kardiomegalii
+T24	DISEASE 2436 2479	fibrilaci síní s rychlou komorovou odpovědí
+T25	DISEASE 2491 2523	kompletní blokádu levého raménka
+T26	DISEASE 2525 2529	LBBB
+T27	DISEASE 2588 2608	mírnou dilataci síní
+T28	DISEASE 2610 2639	normální velikost levé komory
+T29	DISEASE 2648 2671	hypertrofii levé komory
+T30	DISEASE 2673 2676	LVH
+T31	DISEASE 2784 2860	Trojcípá aortální chlopeň (VAo) se sklerózou chlopenních cípců a kalcifikací
+T32	DISEASE 3118 3153	středně těžký perikardiální výpotek
+T33	DISEASE 3398 3420	organizovaným výpotkem
+T34	DISEASE 3506 3532	axilární lymfatické uzliny
+T35	DISEASE 3734 3766	oboustranná laminární atelektáza
+T36	DISEASE 3791 3808	pleurální výpotek
+T37	DISEASE 3819 3830	atelektázou
+T38	DISEASE 4022 4043	Perikardiální výpotek
+T39	DISEASE 4280 4292	cholelitiáza
+T40	DISEASE 4523 4562	oboustranné jednoduché kortikální cysty
+T41	DISEASE 4678 4703	ektázie vylučovacích cest
+T42	DISEASE 4845 4870	sigmoidální divertikulóza
+T43	DISEASE 4918 4945	intraabdominální adenopatie
+T44	DISEASE 5006 5025	degenerativní změny
+T45	DISEASE 5067 5125	těžké senzomotorické polyneuropatii (PNP) dolních končetin
+T46	DISEASE 5368 5384	krční adenopatii
+T47	DISEASE 5438 5465	erytematopapulózními lézemi
+T48	DISEASE 5686 5695	hematurie
+T49	DISEASE 5827 5831	rýmy
+T50	DISEASE 5940 5968	chlopenní srdeční onemocnění
+T51	DISEASE 5993 6010	pleurální výpotek
+T52	DISEASE 6013 6048	středně těžký perikardiální výpotek
+T53	DISEASE 6281 6312	vaskulitidu s postižením ledvin
+T54	DISEASE 6434 6457	autoimunitní onemocnění
+T55	DISEASE 6513 6544	polyneuropatie dolních končetin
+T56	DISEASE 6566 6594	C-ANCA pozitivní vaskulitidy
+T57	DISEASE 6726 6749	perikardiálního výpotku
+T58	DISEASE 6856 6870	fibrilaci síní
+T59	DISEASE 7009 7034	autoimunitnímu onemocnění
+T60	DISEASE 7525 7553	Vaskulitida C-ANCA pozitivní
+T61	DISEASE 7555 7605	Pleuroperikardiální výpotek autoimunitní etiologie
+T62	DISEASE 7607 7621	Fibrilace síní

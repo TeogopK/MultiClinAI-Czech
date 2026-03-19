@@ -1,0 +1,22 @@
+T1	DISEASE 170 180	hypertenzi
+T2	DISEASE 182 207	diabetes mellitus 2. typu
+T3	DISEASE 209 229	hypercholesterolémii
+T4	DISEASE 235 250	bývalým kuřákem
+T5	DISEASE 260 282	trvalou fibrilaci síní
+T6	DISEASE 385 409	trombu v oušku levé síně
+T7	DISEASE 464 490	revmatickou chlopenní vadu
+T8	DISEASE 710 743	asymptomatické mírné hyperkalémii
+T9	DISEASE 1681 1703	hluboké žilní trombózy
+T10	DISEASE 1966 1996	dekompenzace srdečního selhání
+T11	DISEASE 2503 2538	fibrilaci síní s komorovou odpovědí
+T12	DISEASE 2599 2620	bloku pravého raménka
+T13	DISEASE 2622 2626	RBBB
+T14	DISEASE 2731 2746	plicní kongesce
+T15	DISEASE 2776 2809	oboustranného pleurálního výpotku
+T16	DISEASE 2852 2882	těžce dilatovanou levou komoru
+T17	DISEASE 3250 3277	periprotetické insuficience
+T18	DISEASE 3801 3816	srdeční selhání
+T19	DISEASE 4591 4603	hyperkalémie
+T20	DISEASE 5587 5653	Chronické srdeční selhání s těžce sníženou LVEF chlopenního původu
+T21	DISEASE 5715 5756	Asymptomatická středně těžká hyperkalémie
+T22	DISEASE 5796 5813	srdečního selhání

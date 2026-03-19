@@ -1,0 +1,31 @@
+T1	DISEASE 94 108	lékové alergie
+T2	DISEASE 116 128	bývalý kuřák
+T3	DISEASE 205 230	akutním infarktu myokardu
+T4	DISEASE 232 235	AIM
+T5	DISEASE 238 250	Dyslipidemie
+T6	DISEASE 349 387	chronickou ischemickou chorobu srdeční
+T7	DISEASE 390 402	dyslipidémii
+T8	DISEASE 433 489	inferiorní akutní koronární syndrom s elevacemi úseku ST
+T9	DISEASE 491 496	STEMI
+T10	DISEASE 731 757	hypertrofickou levú komoru
+T11	DISEASE 1004 1030	trikuspidální insuficience
+T12	DISEASE 1032 1034	TI
+T13	DISEASE 1083 1100	plicní hypertenze
+T14	DISEASE 1117 1138	perikardiální výpotek
+T15	DISEASE 1169 1181	bronchopatie
+T16	DISEASE 1495 1503	infarktu
+T17	DISEASE 1896 1899	AIM
+T18	DISEASE 1924 1936	dyslipidemie
+T19	DISEASE 2383 2405	hluboké žilní trombózy
+T20	DISEASE 2407 2410	HŽT
+T21	DISEASE 3014 3052	nedilatovanou, mírně hypertrofickou LK
+T22	DISEASE 3448 3465	plicní hypertenze
+T23	DISEASE 3473 3494	perikardiální výpotek
+T24	DISEASE 3528 3531	AIM
+T25	DISEASE 3564 3576	dyslipidemie
+T26	DISEASE 3708 3717	myozitidy
+T27	DISEASE 3721 3733	rabdomyolýzy
+T28	DISEASE 4312 4315	AIM
+T29	DISEASE 4764 4800	Chronická ischemická choroba srdeční
+T30	DISEASE 4802 4814	Dyslipidemie
+T31	DISEASE 4837 4856	Intolerance statinů

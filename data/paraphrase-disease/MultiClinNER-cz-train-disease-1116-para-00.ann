@@ -1,0 +1,32 @@
+T1	DISEASE 58 78	alergie na metamizol
+T2	DISEASE 80 101	arteriální hypertenze
+T3	DISEASE 103 148	diabetes mellitus 2. typu závislý na inzulínu
+T4	DISEASE 150 176	permanentní fibrilace síní
+T5	DISEASE 179 196	bronchiální astma
+T6	DISEASE 223 260	revmatické postižení mitrální chlopně
+T7	DISEASE 270 287	mitrální stenózou
+T8	DISEASE 491 521	těžká stenóza aortální chlopně
+T9	DISEASE 804 827	akutní gastroenteritida
+T10	DISEASE 1009 1031	akutní divertikulitidu
+T11	DISEASE 1291 1304	divertikulózu
+T12	DISEASE 1316 1330	akutní infekce
+T13	DISEASE 1410 1432	infekční endokarditidy
+T14	DISEASE 1434 1436	IE
+T15	DISEASE 1656 1672	Oslerových uzlin
+T16	DISEASE 1677 1692	Rothových skvrn
+T17	DISEASE 2519 2532	kardiomegalii
+T18	DISEASE 2786 2815	výrazně dilatovanou levou síň
+T19	DISEASE 2856 2862	trombu
+T20	DISEASE 3269 3290	Periannulární abscesy
+T21	DISEASE 3400 3434	Zesílená trojcípá aortální chlopeň
+T22	DISEASE 3480 3508	Pravá komora byla dilatovaná
+T23	DISEASE 3549 3628	Trikuspidální chlopeň byla ztluštěná, ale dobře pohyblivá, s těžkou regurgitací
+T24	DISEASE 3649 3680	středně těžké plicní hypertenze
+T25	DISEASE 3693 3714	perikardiální výpotek
+T26	DISEASE 3755 3830	infekční endokarditidy na protetické chlopni způsobené Bacteroides fragilis
+T27	DISEASE 4124 4146	kardiální dekompenzace
+T28	DISEASE 4312 4407	Endokarditida na mitrální kovové protéze vyvolaná anaerobními bakteriemi (Bacteroides fragilis)
+T29	DISEASE 4419 4439	protetické dysfunkce
+T30	DISEASE 4441 4475	Bakteriémie s Bacteroides fragilis
+T31	DISEASE 4520 4533	Divertikulóza
+T32	DISEASE 4545 4560	divertikulitidy

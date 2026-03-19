@@ -1,0 +1,38 @@
+T1	DISEASE 105 125	srdečního onemocnění
+T2	DISEASE 215 222	obezita
+T3	DISEASE 245 255	hypertenze
+T4	DISEASE 257 269	dyslipidemie
+T5	DISEASE 273 290	diabetes mellitus
+T6	DISEASE 356 382	srdeční amyloidózu typu AL
+T7	DISEASE 620 638	srdeční amyloidóze
+T8	DISEASE 693 723	mírnou hypertrofii levé komory
+T9	DISEASE 757 785	mírnou mitrální insuficiencí
+T10	DISEASE 809 821	valvulopatií
+T11	DISEASE 828 851	perikardiálního výpotku
+T12	DISEASE 891 915	chronickou hepatitidou C
+T13	DISEASE 1150 1163	AL amyloidózy
+T14	DISEASE 1414 1427	AL amyloidózy
+T15	DISEASE 1473 1501	retroperitoneálního hematomu
+T16	DISEASE 1725 1732	myelomu
+T17	DISEASE 1952 1972	mnohočetného myelomu
+T18	DISEASE 2449 2471	arytmické srdeční ozvy
+T19	DISEASE 2852 2874	hluboké žilní trombózy
+T20	DISEASE 2876 2879	HŽT
+T21	DISEASE 3738 3742	FiSi
+T22	DISEASE 4093 4143	normální velikost levé komory s mírnou hypertrofií
+T23	DISEASE 4228 4267	Pravá komora (PK) byla mírně dilatovaná
+T24	DISEASE 4315 4359	středně těžkou funkční mitrální insuficiencí
+T25	DISEASE 4362 4403	středně těžkou trikuspidální insuficiencí
+T26	DISEASE 4675 4693	srdeční amyloidózu
+T27	DISEASE 4737 4757	mnohočetného myelomu
+T28	DISEASE 4855 4869	fibrilace síní
+T29	DISEASE 4942 4975	FiSi s rychlou komorovou odpovědí
+T30	DISEASE 5402 5432	mírnou hypertrofii levé komory
+T31	DISEASE 5517 5552	středně těžkou mitrální regurgitací
+T32	DISEASE 5608 5636	městnavého srdečního selhání
+T33	DISEASE 5696 5717	AL srdeční amyloidózy
+T34	DISEASE 5874 5895	AL srdeční amyloidóza
+T35	DISEASE 5899 5926	Paroxysmální fibrilace síní
+T36	DISEASE 6008 6043	Středně nízká mitrální insuficience
+T37	DISEASE 6047 6092	Mnohočetný myelom s postižením srdce a ledvin
+T38	DISEASE 6148 6211	Chronické onemocnění ledvin sekundární k monoklonální gamapatii

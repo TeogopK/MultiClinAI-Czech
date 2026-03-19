@@ -1,0 +1,39 @@
+T1	DISEASE 114 135	Arteriální hypertenze
+T2	DISEASE 222 235	Běžný flutter
+T3	DISEASE 292 311	kardiogenní synkopě
+T4	DISEASE 363 407	akutního koronárního syndromu bez ST elevace
+T5	DISEASE 763 791	zhoršení kognitivních funkcí
+T6	DISEASE 829 868	aortální stenózy degenerativního původu
+T7	DISEASE 1022 1045	těžkou aortální stenózu
+T8	DISEASE 1425 1447	akutní srdeční selhání
+T9	DISEASE 1458 1478	SARS-CoV-2 pneumonií
+T10	DISEASE 2489 2512	těžkou aortální stenózu
+T11	DISEASE 2976 2995	pleurálního výpotku
+T12	DISEASE 4005 4061	nedilatovanou levou komoru se středně těžkou hypertrofií
+T13	DISEASE 4181 4209	těžkou systolickou dysfunkcí
+T14	DISEASE 4223 4284	Aortální chlopeň byla výrazně kalcifikovaná a nestrukturovaná
+T15	DISEASE 4450 4483	těžkou kritickou aortální stenózu
+T16	DISEASE 4485 4537	Trikuspidální chlopeň vykazovala mírnou insuficienci
+T17	DISEASE 4624 4654	kalcifikaci koronárního stromu
+T18	DISEASE 4656 4726	Levá hlavní koronární tepna byla dobrého kalibru s mírnou ateromatózou
+T19	DISEASE 4784 4829	proximální LAD se středně těžkou ateromatózou
+T20	DISEASE 4831 4872	střední LAD s fokální středně těžkou lézí
+T21	DISEASE 4969 5040	Nedominantní cirkumflex vykazoval středně závažnou ostiální ateromatózu
+T22	DISEASE 5042 5118	Dominantní pravá koronární tepna byla difuzně mírně ateroskleroticky změněna
+T23	DISEASE 5304 5334	dekompenzaci srdečního selhání
+T24	DISEASE 5480 5498	komorové dysfunkce
+T25	DISEASE 5597 5637	tachykardii vyvolanou kardiostimulátorem
+T26	DISEASE 5798 5854	nedilatovanou levou komoru se středně těžkou hypertrofií
+T27	DISEASE 6036 6085	Aortální chlopeň vykazovala významnou kalcifikaci
+T28	DISEASE 6234 6265	těžké kritické aortální stenóze
+T29	DISEASE 6267 6318	Trikuspidální chlopeň prokázala mírnou insuficienci
+T30	DISEASE 6458 6472	koronární léze
+T31	DISEASE 6892 6928	Těžká symptomatická aortální stenóza
+T32	DISEASE 6930 6969	Tachykardie vyvolaná kardiostimulátorem
+T33	DISEASE 6971 7012	Dekompenzace srdečního selhání sekundárně
+T34	DISEASE 7014 7052	Akutní infarkt myokardu bez elevací ST
+T35	DISEASE 7093 7133	Závažná systolická dysfunkce levé komory
+T36	DISEASE 7135 7160	Závažná plicní hypertenze
+T37	DISEASE 7162 7183	Akutní selhání ledvin
+T38	DISEASE 7191 7203	hyponatrémie
+T39	DISEASE 7205 7232	Předávkování acenokumarolem

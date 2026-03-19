@@ -1,0 +1,32 @@
+T1	DISEASE 104 119	aktivní kuřačka
+T2	DISEASE 164 190	ischemické choroby srdeční
+T3	DISEASE 245 283	akutní infarkt myokardu bez ST elevace
+T4	DISEASE 326 359	spontánní disekci koronární tepny
+T5	DISEASE 374 415	hematomu v zadní interventrikulární větvi
+T6	DISEASE 527 540	náhlého úmrtí
+T7	DISEASE 546 575	kardiovaskulárních onemocnění
+T8	DISEASE 797 804	synkopy
+T9	DISEASE 940 965	opakované anginy pectoris
+T10	DISEASE 1024 1031	infekce
+T11	DISEASE 1242 1273	polymorfní komorová tachykardie
+T12	DISEASE 1297 1312	fibrilaci komor
+T13	DISEASE 1482 1500	komorové fibrilace
+T14	DISEASE 1502 1504	FK
+T15	DISEASE 1692 1710	arytmických příhod
+T16	DISEASE 1724 1741	srdečního selhání
+T17	DISEASE 2214 2236	hluboké žilní trombózy
+T18	DISEASE 3437 3449	valvulopatie
+T19	DISEASE 4499 4519	ischemickému escharu
+T20	DISEASE 5214 5255	hematomu v zadní interventrikulární větvi
+T21	DISEASE 5465 5482	arytmické příhody
+T22	DISEASE 5647 5660	hematom v PVI
+T23	DISEASE 5684 5711	akutního poškození myokardu
+T24	DISEASE 5723 5741	komorových arytmií
+T25	DISEASE 5825 5840	fibrilace komor
+T26	DISEASE 5926 5954	ischemickou chorobou srdeční
+T27	DISEASE 5992 6004	náhlou smrtí
+T28	DISEASE 6086 6111	opakované srdeční zástavě
+T29	DISEASE 6116 6131	fibrilaci komor
+T30	DISEASE 6145 6171	ischemická choroba srdeční
+T31	DISEASE 6174 6195	infarktem dolní stěny
+T32	DISEASE 6198 6235	spontánní disekcí koronární tepny PVI

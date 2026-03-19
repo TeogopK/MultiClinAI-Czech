@@ -1,0 +1,50 @@
+T1	DISEASE 95 105	hypertenze
+T2	DISEASE 107 122	diabetu mellitu
+T3	DISEASE 125 149	chronické fibrilace síní
+T4	DISEASE 276 343	dvojité revmatické mitrální lézi s těžkou mitrální regurgitací (MR)
+T5	DISEASE 384 421	středně těžkou dvojitou aortální lézi
+T6	DISEASE 423 455	středně těžkou plicní hypertenzi
+T7	DISEASE 1578 1592	fibrilaci síní
+T8	DISEASE 1813 1831	poškození myokardu
+T9	DISEASE 2205 2246	mírnou hypertrofii a dilataci levé komory
+T10	DISEASE 2420 2439	dilatovaná levá síň
+T11	DISEASE 2473 2509	Sklerokalcifikovaná aortální chlopeň
+T12	DISEASE 2546 2567	Dvojitá aortální léze
+T13	DISEASE 2758 2793	středně těžká aortální insuficience
+T14	DISEASE 3051 3071	Dilatovaná pravá síň
+T15	DISEASE 3074 3118	mírný trikuspidální regurgitační šelest (TR)
+T16	DISEASE 3147 3185	Triviální pulmonální insuficience (IP)
+T17	DISEASE 3230 3262	Dilatovaná dolní dutá žíla (IVC)
+T18	DISEASE 3324 3345	perikardiální výpotek
+T19	DISEASE 3460 3489	mírným periprotetickým únikem
+T20	DISEASE 3871 3910	Kalcifikovaná trojcípá aortální chlopeň
+T21	DISEASE 4079 4107	Dilatovaná pravá komora (RV)
+T22	DISEASE 4138 4177	Mírný trikuspidální regurgitační šelest
+T23	DISEASE 4195 4218	intrakardiálních zkratů
+T24	DISEASE 4612 4639	periprotetická insuficience
+T25	DISEASE 4664 4721	fixovaného nástěnného trombu ve vstupu do ouška levé síně
+T26	DISEASE 5226 5279	nevýznamnou stenózu v ústí kmene levé koronární tepny
+T27	DISEASE 5393 5408	srdeční selhání
+T28	DISEASE 5599 5639	těžkou systolickou dysfunkci levé komory
+T29	DISEASE 5677 5709	středně těžkou aortální stenózou
+T30	DISEASE 5760 5814	intraventrikulární trombus vystýlající mitrální anulus
+T31	DISEASE 6175 6192	srdečního selhání
+T32	DISEASE 6345 6382	akutní ischemie pravé dolní končetiny
+T33	DISEASE 6552 6572	protetickou trombózu
+T34	DISEASE 6587 6604	periferní embolií
+T35	DISEASE 7230 7253	trombu mitrální chlopně
+T36	DISEASE 7878 7920	cystickou lézi v levém okcipitálním laloku
+T37	DISEASE 7954 7965	aspergilomu
+T38	DISEASE 8042 8134	cévní mozková příhoda v teritoriu levé zadní mozkové tepny s hemoragickou a infekční složkou
+T39	DISEASE 8163 8204	septické embolizaci způsobené Aspergillem
+T40	DISEASE 8384 8413	akutního respiračního selhání
+T41	DISEASE 8720 8740	plicní tromboembolie
+T42	DISEASE 8775 8802	elektromechanické disociace
+T43	DISEASE 9050 9061	aspergilomu
+T44	DISEASE 9136 9188	Houbová endokarditida na protetické mitrální chlopni
+T45	DISEASE 9203 9230	blokádou protetické chlopně
+T46	DISEASE 9234 9291	periferní embolií s akutní ischemii pravé dolní končetiny
+T47	DISEASE 9329 9387	cévní mozkovou příhodou v oblasti levé zadní mozkové tepny
+T48	DISEASE 9421 9431	aspergilom
+T49	DISEASE 9436 9454	kardiogenním šokem
+T50	DISEASE 9457 9485	elektromechanickou disociací

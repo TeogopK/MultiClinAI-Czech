@@ -1,0 +1,36 @@
+T1	DISEASE 77 87	hypertenze
+T2	DISEASE 89 101	dyslipidémie
+T3	DISEASE 103 110	obezity
+T4	DISEASE 113 125	bývalý kuřák
+T5	DISEASE 625 649	kardiorespirační zástavě
+T6	DISEASE 659 661	VF
+T7	DISEASE 807 830	respirační insuficience
+T8	DISEASE 980 1000	kompletní AV blokádu
+T9	DISEASE 2024 2048	generalizovaný myoklonus
+T10	DISEASE 3166 3180	chlopenní vady
+T11	DISEASE 3627 3674	DC s komplikovaným plakem a přidruženým trombem
+T12	DISEASE 4189 4206	AV blok I. stupně
+T13	DISEASE 4437 4447	AV blokáda
+T14	DISEASE 4497 4510	hyperglykémie
+T15	DISEASE 4512 4526	selhání ledvin
+T16	DISEASE 4528 4539	hypokalémie
+T17	DISEASE 4541 4556	hyperfosfatemie
+T18	DISEASE 4558 4572	hypomagnezemie
+T19	DISEASE 4574 4593	metabolická acidóza
+T20	DISEASE 4619 4639	otravy organofosfáty
+T21	DISEASE 4665 4689	kardiorespirační zástavy
+T22	DISEASE 4928 4947	metabolické acidózy
+T23	DISEASE 5019 5033	selhání ledvin
+T24	DISEASE 5085 5099	hepatotoxicity
+T25	DISEASE 5102 5139	syndromu systémové zánětlivé odpovědi
+T26	DISEASE 5316 5335	AV blokem I. stupně
+T27	DISEASE 5661 5686	syndromu respirační tísně
+T28	DISEASE 5689 5730	septického šoku způsobeného pseudomonádou
+T29	DISEASE 5816 5840	Kardiorespirační zástava
+T30	DISEASE 5853 5872	komorovou fibrilaci
+T31	DISEASE 5929 5955	Těžká otrava organofosfáty
+T32	DISEASE 5959 5983	Akutní koronární syndrom
+T33	DISEASE 6123 6144	Akutní selhání ledvin
+T34	DISEASE 6199 6216	Akutní hepatitida
+T35	DISEASE 6262 6298	Syndrom respirační tísně u dospělých
+T36	DISEASE 6302 6346	Septický šok způsobený Pseudomona aeruginosa
