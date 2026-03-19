@@ -124,6 +124,95 @@ def align_labels(
     }
 
 
+# ---------------------------------------------------------------------------
+# Sentence splitting
+# ---------------------------------------------------------------------------
+
+# Abbreviations that should NOT trigger sentence boundary when followed by
+# whitespace + uppercase letter (Czech clinical note context)
+_ABBREVS = {
+    "dr", "mudr", "phdr", "judr", "rndr", "mgr", "ing", "bc",
+    "např", "atd", "tj", "resp", "vs", "apod", "tzv", "pozn",
+    "tab", "obr", "str", "odd", "tel", "č",
+}
+
+
+def split_sentences(text: str, entities: list[tuple[int, int, str]]) -> list[dict]:
+    """Split a document into sentences with character offsets.
+
+    Returns list of dicts: {text, start, entities} where entities have
+    offsets re-based to the sentence start so align_labels() works unchanged.
+
+    Entities spanning sentence boundaries are kept in the first sentence
+    (clipped to the sentence end). Cross-boundary entities are rare in
+    Czech clinical notes.
+
+    Splitting strategy:
+    - Newlines are always sentence boundaries.
+    - Within a line, split on ./?/! followed by whitespace + uppercase letter,
+      unless preceded by a known abbreviation or a decimal number context.
+    """
+    boundaries = [0]
+    i = 0
+    while i < len(text):
+        c = text[i]
+        if c == "\n":
+            boundaries.append(i + 1)
+        elif c in ".!?":
+            # Look ahead: skip spaces, check if next char is uppercase
+            j = i + 1
+            while j < len(text) and text[j] == " ":
+                j += 1
+            if j < len(text) and text[j].isupper():
+                # Extract the alpha word immediately before the punctuation
+                word_end = i
+                word_start = word_end
+                while word_start > 0 and text[word_start - 1].isalpha():
+                    word_start -= 1
+                word = text[word_start:word_end].lower()
+
+                # Digit context: no alpha chars before punct and preceded by digit
+                # (handles "2.5" style decimals and ordinal "3.")
+                is_digit_context = (
+                    word_start == i
+                    and word_start > 0
+                    and text[word_start - 1].isdigit()
+                )
+
+                if word not in _ABBREVS and not is_digit_context:
+                    boundaries.append(j)
+        i += 1
+
+    if boundaries[-1] != len(text):
+        boundaries.append(len(text))
+
+    sentences = []
+    for idx in range(len(boundaries) - 1):
+        sent_start = boundaries[idx]
+        sent_end = boundaries[idx + 1]
+        sent_text = text[sent_start:sent_end]
+
+        if not sent_text.strip():
+            continue
+
+        # Collect entities whose start falls within this sentence
+        sent_entities = []
+        for e_start, e_end, e_type in entities:
+            if sent_start <= e_start < sent_end:
+                new_start = e_start - sent_start
+                new_end = min(e_end, sent_end) - sent_start
+                if new_start < new_end:
+                    sent_entities.append((new_start, new_end, e_type))
+
+        sentences.append({
+            "text": sent_text,
+            "start": sent_start,
+            "entities": sent_entities,
+        })
+
+    return sentences
+
+
 def build_dataset(
     entity_type: str,
     split: str = "train",
@@ -132,6 +221,7 @@ def build_dataset(
     extra_data_dirs: list[str] | None = None,
     oversample_factor: int = 0,
     max_extra_ratio: float = 0,
+    sentence_level: bool = False,
 ) -> Dataset:
     """Build a HuggingFace Dataset for the given entity type and split.
 
@@ -144,6 +234,10 @@ def build_dataset(
             this many extra times (e.g. 2 = add 2 copies). Only for train.
         max_extra_ratio: If > 0, cap extra (augmented) docs to this multiple
             of original count (e.g. 4.0 = max 4x originals). 0 = no cap.
+        sentence_level: If True, split each document into sentences and treat
+            each sentence as a separate training example. Pure-O sentences
+            (no entity tokens) are skipped during training to save compute;
+            all dev sentences are kept for realistic evaluation.
     """
     import random
 
@@ -187,13 +281,29 @@ def build_dataset(
     all_doc_ids = []
 
     for doc in docs:
-        aligned = align_labels(
-            doc["text"], doc["entities"], tokenizer, entity_type, max_length
-        )
-        all_input_ids.append(aligned["input_ids"])
-        all_attention_mask.append(aligned["attention_mask"])
-        all_labels.append(aligned["labels"])
-        all_doc_ids.append(doc["doc_id"])
+        if sentence_level:
+            sentences = split_sentences(doc["text"], doc["entities"])
+            for s_idx, sent in enumerate(sentences):
+                aligned = align_labels(
+                    sent["text"], sent["entities"], tokenizer, entity_type, max_length
+                )
+                # Skip pure-O sentences during training to reduce class imbalance
+                if split == "train" and not any(
+                    l > 0 for l in aligned["labels"] if l >= 0
+                ):
+                    continue
+                all_input_ids.append(aligned["input_ids"])
+                all_attention_mask.append(aligned["attention_mask"])
+                all_labels.append(aligned["labels"])
+                all_doc_ids.append(f"{doc['doc_id']}-s{s_idx}")
+        else:
+            aligned = align_labels(
+                doc["text"], doc["entities"], tokenizer, entity_type, max_length
+            )
+            all_input_ids.append(aligned["input_ids"])
+            all_attention_mask.append(aligned["attention_mask"])
+            all_labels.append(aligned["labels"])
+            all_doc_ids.append(doc["doc_id"])
 
     ds = Dataset.from_dict(
         {
@@ -216,9 +326,12 @@ if __name__ == "__main__":
     args = parse_args()
     et = args.entity_type
 
-    print(f"Loading {et} data...")
+    sentence_level = getattr(args, "sentence_level", False)
+    mode = "sentence-level" if sentence_level else "document-level"
+    print(f"Loading {et} data ({mode})...")
     for split in ["train", "dev"]:
-        ds = build_dataset(et, split, args.model_name, args.max_length)
+        ds = build_dataset(et, split, args.model_name, args.max_length,
+                           sentence_level=sentence_level)
         n_entities = sum(
             sum(1 for l in labels if l > 0) for labels in ds["labels"]
         )

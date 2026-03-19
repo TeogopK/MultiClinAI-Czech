@@ -223,12 +223,17 @@ def main():
     extra_dirs = getattr(args, "extra_data_dirs", [])
     if extra_dirs:
         print(f"Extra data dirs: {extra_dirs}")
+    sentence_level = getattr(args, "sentence_level", False)
+    if sentence_level:
+        print("Sentence-level training enabled: splitting documents into sentences")
     train_ds = build_dataset(
         et, "train", args.model_name, args.max_length, extra_dirs,
         oversample_factor=args.oversample,
         max_extra_ratio=args.max_extra_ratio,
+        sentence_level=sentence_level,
     )
-    dev_ds = build_dataset(et, "dev", args.model_name, args.max_length)
+    dev_ds = build_dataset(et, "dev", args.model_name, args.max_length,
+                           sentence_level=sentence_level)
     print(f"Train: {len(train_ds)} examples, Dev: {len(dev_ds)} examples")
 
     # Remove doc_id column (not a model input, breaks custom DataLoaders)

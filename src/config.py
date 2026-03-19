@@ -89,4 +89,8 @@ def parse_args() -> argparse.Namespace:
         "--max_extra_ratio", type=float, default=0,
         help="Cap extra (augmented) docs to this multiple of originals (0=no cap)",
     )
+    parser.add_argument(
+        "--sentence_level", action="store_true",
+        help="Split documents into sentences before training (better entity/O ratio, larger effective batch)",
+    )
     return parser.parse_args()
