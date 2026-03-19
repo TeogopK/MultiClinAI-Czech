@@ -24,7 +24,8 @@
 | — | XLM-R-base | softmax | none | disease | 0.604 | 0.719 | 0.657 |
 | — | XLM-R-base | softmax | none | symptom | 0.563 | 0.656 | 0.606 |
 | — | XLM-R-base | softmax | none | procedure | 0.639 | 0.700 | 0.668 |
-| — | XLM-R-base | CRF | morph synonyms | disease | 0.657 | 0.741 | **0.697** |
+| — | XLM-R-base | CRF | morph synonyms | disease | 0.657 | 0.741 | 0.697 |
+| — | XLM-R-base | CRF | morph synonyms + paraphrase | disease | 0.673 | 0.732 | **0.701** |
 
 ---
 
