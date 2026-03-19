@@ -20,6 +20,7 @@ import json
 import os
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 from config import PROJECT_ROOT, ENTITY_TYPES, data_dir
@@ -201,6 +202,40 @@ def paraphrase_document(
 # Dataset-level paraphrase
 # ---------------------------------------------------------------------------
 
+def _process_variant(
+    doc: dict,
+    variant: int,
+    output_dir: Path,
+    model: str,
+    temperature: float,
+) -> str:
+    """Process a single (doc, variant) pair. Returns 'generated', 'resumed', or 'failed'."""
+    base_name = f"{doc['doc_id']}-para-{variant:02d}"
+
+    # Resume: skip if output already exists
+    if (output_dir / f"{base_name}.txt").exists():
+        return "resumed"
+
+    t = min(temperature + (variant * 0.05), 1.0)
+    result = paraphrase_document(doc["text"], doc["entities"], model=model, temperature=t)
+
+    if result is None:
+        return "failed"
+
+    new_text, new_entities = result
+
+    txt_path = output_dir / f"{base_name}.txt"
+    txt_path.write_text(new_text, encoding="utf-8")
+
+    ann_lines = []
+    for i, (start, end, etype) in enumerate(new_entities, 1):
+        span_text = new_text[start:end]
+        ann_lines.append(f"T{i}\t{etype} {start} {end}\t{span_text}")
+    (output_dir / f"{base_name}.ann").write_text("\n".join(ann_lines), encoding="utf-8")
+
+    return "generated"
+
+
 def paraphrase_dataset(
     entity_type: str,
     output_dir: Path,
@@ -208,8 +243,9 @@ def paraphrase_dataset(
     max_count: int = 5,
     model: str = "gpt-4.1",
     temperature: float = 0.8,
-    delay: float = 0.5,
+    delay: float = 0.0,
     all_docs: bool = False,
+    workers: int = 8,
 ) -> dict:
     """Paraphrase training documents, prioritizing those with rare entities.
 
@@ -221,8 +257,9 @@ def paraphrase_dataset(
             (ignored if all_docs=True)
         model: OpenAI model name
         temperature: Sampling temperature (0.7-0.9 recommended)
-        delay: Delay between API calls in seconds
+        delay: Unused (kept for CLI compatibility)
         all_docs: If True, paraphrase all docs regardless of entity frequency
+        workers: Number of parallel threads for API calls
     """
     from augment import get_rare_entities
 
@@ -237,71 +274,49 @@ def paraphrase_dataset(
     else:
         rare = None
 
-    total_generated = 0
-    total_failed = 0
+    # Build task list: (doc, variant) pairs to process
+    tasks = []
     total_skipped = 0
-    total_resumed = 0
-
-    for doc_idx, doc in enumerate(docs):
-        # Filter: only docs with rare entities (unless all_docs)
-        if rare is not None:
-            has_rare = any(
-                doc["text"][s:e].lower() in rare
-                for s, e, _ in doc["entities"]
-            )
-            if not has_rare:
-                total_skipped += 1
-                continue
-
+    for doc in docs:
         if not doc["entities"]:
             total_skipped += 1
             continue
-
+        if rare is not None:
+            has_rare = any(doc["text"][s:e].lower() in rare for s, e, _ in doc["entities"])
+            if not has_rare:
+                total_skipped += 1
+                continue
         for variant in range(n_variants):
-            # Resume: skip if output already exists
-            base_name = f"{doc['doc_id']}-para-{variant:02d}"
-            if (output_dir / f"{base_name}.txt").exists():
+            tasks.append((doc, variant))
+
+    print(f"Tasks: {len(tasks)} ({total_skipped} docs skipped, {workers} workers)")
+
+    total_generated = 0
+    total_resumed = 0
+    total_failed = 0
+    done = 0
+
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {
+            executor.submit(_process_variant, doc, variant, output_dir, model, temperature): (doc["doc_id"], variant)
+            for doc, variant in tasks
+        }
+        for future in as_completed(futures):
+            status = future.result()
+            done += 1
+            if status == "generated":
+                total_generated += 1
+            elif status == "resumed":
                 total_resumed += 1
                 total_generated += 1
-                continue
-
-            # Vary temperature slightly per variant
-            t = temperature + (variant * 0.05)
-
-            result = paraphrase_document(
-                doc["text"], doc["entities"],
-                model=model, temperature=min(t, 1.0),
-            )
-
-            if result is None:
+            else:
                 total_failed += 1
-                continue
 
-            new_text, new_entities = result
-
-            # Write .txt
-            txt_path = output_dir / f"{base_name}.txt"
-            txt_path.write_text(new_text, encoding="utf-8")
-
-            # Write .ann
-            ann_lines = []
-            for i, (start, end, etype) in enumerate(new_entities, 1):
-                span_text = new_text[start:end]
-                ann_lines.append(f"T{i}\t{etype} {start} {end}\t{span_text}")
-            ann_path = output_dir / f"{base_name}.ann"
-            ann_path.write_text("\n".join(ann_lines), encoding="utf-8")
-
-            total_generated += 1
-
-        if (doc_idx + 1) % 25 == 0:
-            print(
-                f"  [{doc_idx + 1}/{len(docs)}] "
-                f"generated={total_generated} failed={total_failed} "
-                f"skipped={total_skipped} resumed={total_resumed}"
-            )
-
-        if delay > 0:
-            time.sleep(delay)
+            if done % 25 == 0:
+                print(
+                    f"  [{done}/{len(tasks)}] "
+                    f"generated={total_generated} failed={total_failed} resumed={total_resumed}"
+                )
 
     stats = {
         "original_docs": len(docs),
@@ -353,6 +368,10 @@ def main():
         "--all_docs", action="store_true",
         help="Paraphrase all docs, not just those with rare entities",
     )
+    parser.add_argument(
+        "--workers", type=int, default=8,
+        help="Number of parallel threads for API calls (default: 8)",
+    )
     parser.add_argument("--verify", action="store_true", help="Verify output after generation")
     args = parser.parse_args()
 
@@ -375,6 +394,7 @@ def main():
         temperature=args.temperature,
         delay=args.delay,
         all_docs=args.all_docs,
+        workers=args.workers,
     )
     print(f"\nStats: {json.dumps(stats, indent=2)}")
 
