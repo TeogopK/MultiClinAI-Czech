@@ -195,6 +195,7 @@ def translate_external_dataset(
     source_lang: str,
     entity_type_map: dict[str, str],
     device: str = "cpu",
+    en_dir: Path | None = None,
 ) -> dict:
     """Translate an external dataset directory to Czech, writing BRAT output.
 
@@ -204,10 +205,13 @@ def translate_external_dataset(
         source_lang: Source language code (es, it, ro, nl, sv)
         entity_type_map: Mapping from source entity types to target types
         device: torch device
+        en_dir: Optional directory to also save English intermediate BRAT files
 
     Returns stats dict.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
+    if en_dir:
+        en_dir.mkdir(parents=True, exist_ok=True)
 
     # Load documents with source entity types
     source_types = list(entity_type_map.keys())
@@ -223,8 +227,17 @@ def translate_external_dataset(
 
     total_translated = 0
     total_failed = 0
+    total_resumed = 0
 
     for doc_idx, doc in enumerate(docs):
+        base_name = f"ext-{source_lang}-{doc['doc_id']}"
+
+        # Resume: skip if Czech output already exists
+        if (output_dir / f"{base_name}.txt").exists():
+            total_resumed += 1
+            total_translated += 1
+            continue
+
         result = translate_external_document(
             doc["text"], doc["entities"],
             entity_type_map, src_en, en_cs, device,
@@ -235,26 +248,36 @@ def translate_external_dataset(
             continue
 
         new_text, new_entities = result
-        base_name = f"ext-{source_lang}-{doc['doc_id']}"
 
-        # Write .txt
-        txt_path = output_dir / f"{base_name}.txt"
-        txt_path.write_text(new_text, encoding="utf-8")
-
-        # Write .ann
+        # Write Czech .txt + .ann
+        (output_dir / f"{base_name}.txt").write_text(new_text, encoding="utf-8")
         ann_lines = []
         for i, (start, end, etype) in enumerate(new_entities, 1):
             span_text = new_text[start:end]
             ann_lines.append(f"T{i}\t{etype} {start} {end}\t{span_text}")
-        ann_path = output_dir / f"{base_name}.ann"
-        ann_path.write_text("\n".join(ann_lines), encoding="utf-8")
+        (output_dir / f"{base_name}.ann").write_text("\n".join(ann_lines), encoding="utf-8")
+
+        # Optionally write English intermediate .txt + .ann
+        if en_dir:
+            src_en_tok, src_en_model = src_en
+            marked_src = insert_markers(doc["text"], [
+                (s, e, entity_type_map.get(t, t)) for s, e, t in doc["entities"]
+            ])
+            en_text_marked = translate_text(marked_src, src_en_tok, src_en_model, device)
+            en_clean, en_entities = extract_markers(en_text_marked)
+            (en_dir / f"{base_name}.txt").write_text(en_clean, encoding="utf-8")
+            en_ann_lines = []
+            for i, (s, e, _) in enumerate(en_entities, 1):
+                etype = list(entity_type_map.values())[0]
+                en_ann_lines.append(f"T{i}\t{etype} {s} {e}\t{en_clean[s:e]}")
+            (en_dir / f"{base_name}.ann").write_text("\n".join(en_ann_lines), encoding="utf-8")
 
         total_translated += 1
 
         if (doc_idx + 1) % 50 == 0:
             print(
                 f"  [{doc_idx + 1}/{len(docs)}] "
-                f"translated={total_translated} failed={total_failed}"
+                f"translated={total_translated} failed={total_failed} resumed={total_resumed}"
             )
 
     stats = {
@@ -262,10 +285,11 @@ def translate_external_dataset(
         "type_map": entity_type_map,
         "original_docs": len(docs),
         "translated_docs": total_translated,
+        "resumed": total_resumed,
         "failed_docs": total_failed,
     }
     print(f"\nTranslated {total_translated} documents to {output_dir}")
-    print(f"Failed (markers lost): {total_failed}")
+    print(f"Failed (markers lost): {total_failed}, Resumed: {total_resumed}")
     return stats
 
 
@@ -302,6 +326,10 @@ def main():
         "--device",
         default="cuda" if torch.cuda.is_available() else "cpu",
     )
+    parser.add_argument(
+        "--save_en_dir", type=Path, default=None,
+        help="Optional directory to also save English intermediate BRAT files",
+    )
     parser.add_argument("--verify", action="store_true", help="Verify output")
     args = parser.parse_args()
 
@@ -314,6 +342,7 @@ def main():
         args.source_lang,
         entity_type_map,
         device=args.device,
+        en_dir=args.save_en_dir,
     )
     print(f"\nStats: {json.dumps(stats, indent=2)}")
 
