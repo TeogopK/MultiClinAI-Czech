@@ -1,9 +1,18 @@
 """Cross-lingual transfer: translate external NER datasets to Czech.
 
 Translates Spanish clinical NER datasets (DisTEMIST, SympTEMIST) to Czech
-via ES→EN→CZ chain using MarianMT, preserving entity markers for alignment.
+via ES→EN→CZ chain using MarianMT, with translate-then-align entity projection
+(Jain et al., 2019): translate full doc and each entity span separately, then
+locate the entity translation in the Czech document via string/fuzzy matching.
 
-Reuses marker insertion/extraction from translate.py.
+⚠️  KNOWN LIMITATION — FALSE NEGATIVE NOISE:
+    Entity alignment success rate is ~32% on DisTEMIST (10-doc sample).
+    Entities that fail to align are silently dropped from the annotation.
+    This means the translated documents contain unannotated disease mentions
+    (present in text but labeled O), which is false negative noise.
+    Training on this data may *hurt* model performance by teaching the model
+    to ignore disease mentions. Use with caution — filter to high-coverage
+    docs or implement masked loss over unaligned regions before training.
 
 Usage:
     python src/translate_external.py \
@@ -25,8 +34,6 @@ from config import PROJECT_ROOT, ENTITY_TYPES
 from data import load_documents
 from translate import (
     EN_CS_MODEL,
-    insert_markers,
-    extract_markers,
     translate_text,
 )
 
@@ -71,6 +78,50 @@ def load_source_models(source_lang: str, device: str = "cpu"):
 # Document translation
 # ---------------------------------------------------------------------------
 
+def _find_entity_in_text(
+    entity_text: str, doc_text: str, fuzzy_threshold: float = 0.82
+) -> tuple[int, int] | None:
+    """Find a translated entity span in the translated document.
+
+    Tries exact match first, then case-insensitive, then fuzzy substring
+    search using rapidfuzz to handle Czech inflection (e.g. 'leiomyom' vs
+    'leiomyomu'). Returns (start, end) or None if not found.
+    """
+    # Exact match
+    idx = doc_text.find(entity_text)
+    if idx != -1:
+        return idx, idx + len(entity_text)
+
+    # Case-insensitive match
+    lower_doc = doc_text.lower()
+    lower_ent = entity_text.lower()
+    idx = lower_doc.find(lower_ent)
+    if idx != -1:
+        return idx, idx + len(entity_text)
+
+    # Fuzzy substring search using rapidfuzz — efficient sliding window
+    # over chunks of similar length to the entity text (±30%)
+    from rapidfuzz import fuzz
+    ent_len = len(entity_text)
+    win_len = ent_len  # search same-length windows first
+    best_score = 0.0
+    best_start = -1
+
+    for w in range(max(1, ent_len - max(1, ent_len // 3)),
+                   min(len(doc_text) + 1, ent_len + ent_len // 3 + 1)):
+        for i in range(len(doc_text) - w + 1):
+            score = fuzz.ratio(lower_ent, doc_text[i:i + w].lower()) / 100.0
+            if score > best_score:
+                best_score = score
+                best_start = i
+                win_len = w
+
+    if best_score >= fuzzy_threshold and best_start != -1:
+        return best_start, best_start + win_len
+
+    return None
+
+
 def translate_external_document(
     text: str,
     entities: list[tuple[int, int, str]],
@@ -81,62 +132,75 @@ def translate_external_document(
 ) -> tuple[str, list[tuple[int, int, str]]] | None:
     """Translate a single external document SRC→EN→CZ with entity alignment.
 
+    Uses translate-then-align approach (Jain et al., 2019): translate the full
+    document and each entity span separately, then locate entity translations
+    in the document translation via string matching. Avoids marker corruption
+    issues that occur when embedding tags inside MT input.
+
     Args:
         text: Source language text
         entities: List of (start, end, type) from source annotations
         entity_type_map: Mapping from source types to target types
-            e.g. {"ENFERMEDAD": "DISEASE"}
         src_en: (tokenizer, model) for source→English
         en_cs: (tokenizer, model) for English→Czech
         device: torch device
 
-    Returns (czech_text, czech_entities) or None if markers lost.
+    Returns (czech_text, czech_entities) or None if no entities aligned.
     """
     src_en_tok, src_en_model = src_en
     en_cs_tok, en_cs_model = en_cs
 
-    # Map entity types
-    mapped_entities = []
     sorted_ents = sorted(entities, key=lambda e: e[0])
-    entity_types = {}
-    for i, (start, end, etype) in enumerate(sorted_ents):
-        target_type = entity_type_map.get(etype, etype)
-        mapped_entities.append((start, end, target_type))
-        entity_types[i] = target_type
 
-    # Insert markers (language-agnostic)
-    marked_src = insert_markers(text, mapped_entities)
-
-    # SRC → EN
-    en_text = translate_text(marked_src, src_en_tok, src_en_model, device)
-
-    # EN → CZ
+    # Step 1: Translate full document SRC → EN → CZ (no markers)
+    en_text = translate_text(text, src_en_tok, src_en_model, device)
+    if not en_text.strip():
+        return None
     cz_text = translate_text(en_text, en_cs_tok, en_cs_model, device)
-
-    # Extract entities from markers
-    clean_text, marker_entities = extract_markers(cz_text)
-
-    if not marker_entities:
+    if not cz_text.strip():
         return None
 
-    # Rebuild entity list with mapped types
+    # Step 2: For each entity, translate the span separately SRC → EN → CZ
+    # then find it in the Czech document via string matching
     new_entities = []
-    for start, end, marker_id in marker_entities:
-        if marker_id in entity_types:
-            new_entities.append((start, end, entity_types[marker_id]))
+    used_ranges: list[tuple[int, int]] = []
+
+    for start, end, etype in sorted_ents:
+        target_type = entity_type_map.get(etype, etype)
+        span_text = text[start:end].strip()
+        if not span_text:
+            continue
+
+        # Translate entity span
+        en_span = translate_text(span_text, src_en_tok, src_en_model, device).strip()
+        if not en_span:
+            continue
+        cz_span = translate_text(en_span, en_cs_tok, en_cs_model, device).strip()
+
+        # Try Czech translation first, fall back to English span
+        # (Czech medical texts often keep Latin/English medical terminology)
+        result = _find_entity_in_text(cz_span, cz_text) if cz_span else None
+        if result is None:
+            result = _find_entity_in_text(en_span, cz_text)
+        if result is None:
+            continue
+
+        found_start, found_end = result
+
+        # Check no overlap with already assigned entities
+        overlaps = any(found_start < u_end and found_end > u_start
+                       for u_start, u_end in used_ranges)
+        if overlaps:
+            continue
+
+        new_entities.append((found_start, found_end, target_type))
+        used_ranges.append((found_start, found_end))
 
     if not new_entities:
         return None
 
-    # Validate: no overlaps, within bounds
     new_entities.sort(key=lambda e: e[0])
-    for i, (start, end, _) in enumerate(new_entities):
-        if start < 0 or end > len(clean_text) or start >= end:
-            return None
-        if i > 0 and start < new_entities[i - 1][1]:
-            return None
-
-    return clean_text, new_entities
+    return cz_text, new_entities
 
 
 # ---------------------------------------------------------------------------
@@ -260,16 +324,19 @@ def translate_external_dataset(
         # Optionally write English intermediate .txt + .ann
         if en_dir:
             src_en_tok, src_en_model = src_en
-            marked_src = insert_markers(doc["text"], [
-                (s, e, entity_type_map.get(t, t)) for s, e, t in doc["entities"]
-            ])
-            en_text_marked = translate_text(marked_src, src_en_tok, src_en_model, device)
-            en_clean, en_entities = extract_markers(en_text_marked)
-            (en_dir / f"{base_name}.txt").write_text(en_clean, encoding="utf-8")
-            en_ann_lines = []
-            for i, (s, e, _) in enumerate(en_entities, 1):
-                etype = list(entity_type_map.values())[0]
-                en_ann_lines.append(f"T{i}\t{etype} {s} {e}\t{en_clean[s:e]}")
+            en_text = translate_text(doc["text"], src_en_tok, src_en_model, device)
+            en_entities = []
+            for s, e, t in doc["entities"]:
+                span = doc["text"][s:e].strip()
+                en_span = translate_text(span, src_en_tok, src_en_model, device).strip()
+                hit = _find_entity_in_text(en_span, en_text)
+                if hit:
+                    en_entities.append((hit[0], hit[1], entity_type_map.get(t, t)))
+            (en_dir / f"{base_name}.txt").write_text(en_text, encoding="utf-8")
+            en_ann_lines = [
+                f"T{i}\t{etype} {s} {e}\t{en_text[s:e]}"
+                for i, (s, e, etype) in enumerate(sorted(en_entities), 1)
+            ]
             (en_dir / f"{base_name}.ann").write_text("\n".join(en_ann_lines), encoding="utf-8")
 
         total_translated += 1
