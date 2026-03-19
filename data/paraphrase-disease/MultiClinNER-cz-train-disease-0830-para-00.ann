@@ -1,0 +1,34 @@
+T1	DISEASE 104 130	alergických reakcí na léky
+T2	DISEASE 139 144	kuřák
+T3	DISEASE 195 216	arteriální hypertenze
+T4	DISEASE 222 239	enolického návyku
+T5	DISEASE 283 298	srdeční selhání
+T6	DISEASE 301 341	těžkou systolickou dysfunkcí levé komory
+T7	DISEASE 450 507	dysfunkce pravé komory s těžkou trikuspidální regurgitací
+T8	DISEASE 510 533	těžká plicní hypertenze
+T9	DISEASE 573 596	transpozice velkých cév
+T10	DISEASE 668 682	koronární léze
+T11	DISEASE 938 951	hyperurikémii
+T12	DISEASE 953 989	chronické onemocnění ledvin st. 3aA1
+T13	DISEASE 991 1011	uroteliální karcinom
+T14	DISEASE 1057 1084	anxiózně depresivní syndrom
+T15	DISEASE 1117 1136	náhlé srdeční smrti
+T16	DISEASE 1201 1230	kardiovaskulárních onemocnění
+T17	DISEASE 2522 2544	hluboké žilní trombózy
+T18	DISEASE 2763 2778	akutní ischemie
+T19	DISEASE 3340 3393	parenchymový infiltrát v pravém dolním plicním laloku
+T20	DISEASE 3406 3423	pleurální výpotek
+T21	DISEASE 4509 4528	plicního infiltrátu
+T22	DISEASE 4652 4668	infekce COVID-19
+T23	DISEASE 4873 4888	trombocytopenie
+T24	DISEASE 4981 4997	průjmový syndrom
+T25	DISEASE 5189 5208	kardiální patologii
+T26	DISEASE 5249 5265	plicní infiltrát
+T27	DISEASE 5291 5299	COVID-19
+T28	DISEASE 5443 5462	plicního infiltrátu
+T29	DISEASE 5765 5782	nedostatek železa
+T30	DISEASE 6535 6563	chronickým srdečním selháním
+T31	DISEASE 6619 6642	transpozice velkých cév
+T32	DISEASE 6644 6701	Pravostranná dolní pneumonie vyvolaná SARS-CoV-2/COVID-19
+T33	DISEASE 6703 6750	Opětovné zhoršení chronického onemocnění ledvin
+T34	DISEASE 6752 6769	Nedostatek železa

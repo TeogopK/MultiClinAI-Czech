@@ -1,0 +1,26 @@
+T1	DISEASE 90 106	úzkostné poruchy
+T2	DISEASE 178 185	alergií
+T3	DISEASE 273 294	presynkopální epizody
+T4	DISEASE 306 313	úzkosti
+T5	DISEASE 647 660	splenomegalie
+T6	DISEASE 872 896	hypereozinofilní syndrom
+T7	DISEASE 983 1002	parazitární infekce
+T8	DISEASE 1004 1011	alergie
+T9	DISEASE 1014 1031	plicní onemocnění
+T10	DISEASE 1648 1661	splenomegalii
+T11	DISEASE 1862 1875	dilatace síní
+T12	DISEASE 1879 1905	apikální fibrózou myokardu
+T13	DISEASE 1908 1981	transmurální fibrózou ve středoapikální inferolaterální stěně levé komory
+T14	DISEASE 2289 2305	hypereozinofilie
+T15	DISEASE 2308 2351	biventrikulární restriktivní kardiomyopatií
+T16	DISEASE 2609 2627	laminární trombózu
+T17	DISEASE 2855 2868	splenomegalie
+T18	DISEASE 2930 2951	arteriální hypertenze
+T19	DISEASE 3454 3488	laminárními tromby na úrovni apexu
+T20	DISEASE 4191 4207	trombotické jevy
+T21	DISEASE 4307 4315	trombózy
+T22	DISEASE 4400 4477	Myeloproliferativní novotvar s eozinofilií spojený s přestavbou FIP1L1- PDGFR
+T23	DISEASE 4481 4600	Restriktivní kardiomyopatie s apikální a inferolaterální fibrózou myokardu levé komory a apikální fibrózou pravé komory
+T24	DISEASE 4618 4642	tromby apexu levé komory
+T25	DISEASE 4647 4673	hypereozinofilním syndromu
+T26	DISEASE 4677 4709	Esenciální arteriální hypertenze

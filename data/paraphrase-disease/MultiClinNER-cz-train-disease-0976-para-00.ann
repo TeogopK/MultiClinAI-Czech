@@ -1,0 +1,47 @@
+T1	DISEASE 115 129	lékové alergie
+T2	DISEASE 154 169	toxických látek
+T3	DISEASE 206 222	ledvinové koliky
+T4	DISEASE 266 295	ektázie na úrovni pyelokalice
+T5	DISEASE 421 442	arteriální hypertenzi
+T6	DISEASE 444 447	AHT
+T7	DISEASE 451 463	dyslipidémii
+T8	DISEASE 505 517	bývalý kuřák
+T9	DISEASE 562 579	Diabetes mellitus
+T10	DISEASE 614 636	blokáda levého raménka
+T11	DISEASE 638 642	LBBB
+T12	DISEASE 647 674	Chronický koronární syndrom
+T13	DISEASE 711 714	AIM
+T14	DISEASE 873 899	nestabilní anginy pectoris
+T15	DISEASE 1135 1170	závažná stenóza 70 % v distálním TK
+T16	DISEASE 1289 1342	dilatační kardiomyopatii s těžkou komorovou dysfunkcí
+T17	DISEASE 1369 1425	středně těžkou mitrální insuficiencí v důsledku tentingu
+T18	DISEASE 1428 1452	mírnou plicní hypertenzí
+T19	DISEASE 1521 1572	těžkou dilataci levé komory (LK) s těžkou dysfunkcí
+T20	DISEASE 1939 1960	mitrální insuficience
+T21	DISEASE 2184 2199	srdeční selhání
+T22	DISEASE 2316 2331	anginy pectoris
+T23	DISEASE 2837 2852	anginu pectoris
+T24	DISEASE 2970 2977	infekce
+T25	DISEASE 3532 3566	dekompenzovanému srdečnímu selhání
+T26	DISEASE 3793 3797	LBBB
+T27	DISEASE 4461 4522	ischemickou dilatační kardiomyopatii s výrazně dilatovanou LK
+T28	DISEASE 4524 4560	mírnou hypertrofii levé komory (LVH)
+T29	DISEASE 4647 4701	těžká mitrální insuficience (MI) sekundární k tentingu
+T30	DISEASE 4752 4756	LBBB
+T31	DISEASE 4777 4817	středně těžká trikuspidální insuficience
+T32	DISEASE 4819 4821	TI
+T33	DISEASE 4858 4890	středně těžkou plicní hypertenzí
+T34	DISEASE 4892 4894	PH
+T35	DISEASE 5906 5916	ferropenie
+T36	DISEASE 5933 5939	anémie
+T37	DISEASE 5961 5978	srdečního selhání
+T38	DISEASE 6384 6401	srdečního selhání
+T39	DISEASE 6524 6541	srdečního selhání
+T40	DISEASE 6610 6655	mírnou až středně těžkou mitrální regurgitací
+T41	DISEASE 6756 6775	mikrocytární anémií
+T42	DISEASE 6872 6889	srdečního selhání
+T43	DISEASE 6918 6924	anémií
+T44	DISEASE 7282 7322	Chronické dekompenzované srdeční selhání
+T45	DISEASE 7372 7407	Ischemická dilatační kardiomyopatie
+T46	DISEASE 7411 7480	Chronický koronární syndrom s minimálním postižením koronárních tepen
+T47	DISEASE 7543 7591	Mikrocytární anémie s profilem nedostatku železa

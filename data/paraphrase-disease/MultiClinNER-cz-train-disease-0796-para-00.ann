@@ -1,0 +1,28 @@
+T1	DISEASE 79 97	mírné dyslipidemie
+T2	DISEASE 180 194	toxické návyky
+T3	DISEASE 664 684	komorová tachykardie
+T4	DISEASE 828 840	asystolickém
+T5	DISEASE 1256 1260	NSVT
+T6	DISEASE 1344 1364	kompletního AV bloku
+T7	DISEASE 1668 1692	třícévní koronární nemoc
+T8	DISEASE 2252 2276	kardiorespirační zástavě
+T9	DISEASE 2290 2299	asystolii
+T10	DISEASE 2813 2835	hluboké žilní trombózy
+T11	DISEASE 3042 3070	onemocnění 3 koronárních cév
+T12	DISEASE 3091 3093	DA
+T13	DISEASE 3111 3118	CX (OM)
+T14	DISEASE 3138 3140	CD
+T15	DISEASE 4560 4577	kardiogenním šoku
+T16	DISEASE 4591 4614	nízkým srdečním výdejem
+T17	DISEASE 4736 4757	periferní hypoperfuze
+T18	DISEASE 4780 4809	oligurickou renální dysfunkci
+T19	DISEASE 4812 4853	plicní edém s těžkým respiračním selháním
+T20	DISEASE 5430 5460	středně těžkou dysfunkci komor
+T21	DISEASE 5518 5529	tetraparézu
+T22	DISEASE 6153 6173	hypercholesterolemie
+T23	DISEASE 6705 6720	anginy pectoris
+T24	DISEASE 6829 6867	Resuscitovaná kardiorespirační zástava
+T25	DISEASE 6869 6899	Akutní přední infarkt myokardu
+T26	DISEASE 6912 6940	Onemocnění 3 koronárních cév
+T27	DISEASE 6981 7026	Středně těžká a těžká systolická dysfunkce LK
+T28	DISEASE 7064 7084	Hypercholesterolemie

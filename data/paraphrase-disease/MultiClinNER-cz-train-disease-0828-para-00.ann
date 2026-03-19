@@ -1,0 +1,30 @@
+T1	DISEASE 93 117	alergické reakce na léky
+T2	DISEASE 131 138	kouření
+T3	DISEASE 180 196	morbidní obezita
+T4	DISEASE 198 219	arteriální hypertenze
+T5	DISEASE 221 258	diabetes mellitus závislý na inzulínu
+T6	DISEASE 260 272	dyslipidémie
+T7	DISEASE 274 287	hyperurikémie
+T8	DISEASE 290 301	hypotyreóza
+T9	DISEASE 319 346	chronické onemocnění ledvin
+T10	DISEASE 403 434	periferní arteriální onemocnění
+T11	DISEASE 498 524	ischemické choroby srdeční
+T12	DISEASE 558 584	nestabilní anginu pectoris
+T13	DISEASE 626 713	postižení tří cév (přední sestupná [DA], pravá koronární [CD], první obtuzní marginální
+T14	DISEASE 1437 1452	angina pectoris
+T15	DISEASE 2854 2868	fibrilaci síní
+T16	DISEASE 3258 3309	Dominantní cirkumflex (Cx) byl chronicky okludovaný
+T17	DISEASE 3390 3409	Chronická okluze DC
+T18	DISEASE 3548 3582	levé podklíčkové tepny byla okluze
+T19	DISEASE 3633 3685	chronickou stenózu proximální levé podklíčkové tepny
+T20	DISEASE 3999 4028	mírná hypertrofie levé komory
+T21	DISEASE 4090 4112	biaurikulární dilatace
+T22	DISEASE 4135 4147	valvulopatie
+T23	DISEASE 4191 4221	stenózy levé podklíčkové tepny
+T24	DISEASE 4904 4911	kouření
+T25	DISEASE 5497 5573	Nestabilní angina pectoris způsobená podklíčkovým koronárním steal syndromem
+T26	DISEASE 5588 5626	těžkým třícípým koronárním onemocněním
+T27	DISEASE 5815 5842	paroxyzmální fibrilace síní
+T28	DISEASE 5844 5865	Akutní selhání ledvin
+T29	DISEASE 5887 5916	chronického onemocnění ledvin
+T30	DISEASE 5942 5986	nefrotoxicitou jodovaného kontrastního média

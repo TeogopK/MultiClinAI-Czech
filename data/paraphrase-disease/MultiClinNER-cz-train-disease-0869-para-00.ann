@@ -1,0 +1,35 @@
+T1	DISEASE 75 88	křečové krize
+T2	DISEASE 300 314	SEPSIS SERIOUS
+T3	DISEASE 362 383	akutní selhání ledvin
+T4	DISEASE 444 463	bakteriální infekci
+T5	DISEASE 465 474	hypotenze
+T6	DISEASE 540 559	metabolická acidóza
+T7	DISEASE 632 647	trombocytopenie
+T8	DISEASE 788 812	Hypotenze vyvolaná sepsí
+T9	DISEASE 961 975	Fibrilace síní
+T10	DISEASE 1365 1378	Křečová krize
+T11	DISEASE 1473 1505	SAK; subarachnoidálního krvácení
+T12	DISEASE 1536 1551	trombocytopenii
+T13	DISEASE 1557 1568	mykotickému
+T14	DISEASE 1582 1593	aneuryzmatu
+T15	DISEASE 1674 1689	trombocytopenie
+T16	DISEASE 1747 1784	trombotické trombocytopenické purpury
+T17	DISEASE 1786 1822	heparinem indukované trombocytopenie
+T18	DISEASE 1825 1851	hemofagocytárního syndromu
+T19	DISEASE 1888 1927	idiopatickou trombocytopenickou purpuru
+T20	DISEASE 1931 1942	vaskulitidu
+T21	DISEASE 2140 2148	vegetací
+T22	DISEASE 2292 2333	vegetace na předním cípu mitrální chlopně
+T23	DISEASE 2427 2459	SAK; subarachnoidálnímu krvácení
+T24	DISEASE 2587 2651	purpurové léze (ekchymotické) pravděpodobného embolického původu
+T25	DISEASE 2812 2833	STAPHILOCOCCUS AUREUS
+T26	DISEASE 2838 2907	Těžká sepse s postižením ledvin; septické akutní selhání ledvin (AKI)
+T27	DISEASE 2959 2980	těžké trombocytopenie
+T28	DISEASE 2985 3010	Subarachnoidální krvácení
+T29	DISEASE 3028 3045	epileptická krize
+T30	DISEASE 3173 3188	kožních infekcí
+T31	DISEASE 3221 3229	impetigo
+T32	DISEASE 3231 3244	kožní abscesy
+T33	DISEASE 3246 3257	furunkulóza
+T34	DISEASE 3259 3268	mastitida
+T35	DISEASE 3270 3280	celulitida
