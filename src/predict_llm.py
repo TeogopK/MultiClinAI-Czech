@@ -170,18 +170,38 @@ def call_openai(
     model: str = "gpt-4.1",
     temperature: float = 0.0,
     max_tokens: int = 4096,
+    max_retries: int = 6,
 ) -> str:
-    """Call OpenAI API and return the response content."""
-    from openai import OpenAI
+    """Call OpenAI API and return the response content.
+
+    Retries on rate limit (429) and transient errors with exponential backoff.
+    """
+    from openai import OpenAI, RateLimitError, APIStatusError
 
     client = OpenAI()  # uses OPENAI_API_KEY env var
-    response = client.chat.completions.create(
-        model=model,
-        messages=messages,
-        temperature=temperature,
-        max_tokens=max_tokens,
-    )
-    return response.choices[0].message.content
+    wait = 5.0
+    for attempt in range(max_retries):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=messages,
+                temperature=temperature,
+                max_tokens=max_tokens,
+            )
+            return response.choices[0].message.content
+        except RateLimitError:
+            if attempt == max_retries - 1:
+                raise
+            print(f"    Rate limit hit, retrying in {wait:.0f}s...")
+            time.sleep(wait)
+            wait = min(wait * 2, 120)
+        except APIStatusError as e:
+            if e.status_code >= 500 and attempt < max_retries - 1:
+                print(f"    API error {e.status_code}, retrying in {wait:.0f}s...")
+                time.sleep(wait)
+                wait = min(wait * 2, 120)
+            else:
+                raise
 
 
 def parse_llm_response(response: str, text: str) -> list[dict]:
