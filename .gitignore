@@ -1,6 +1,10 @@
 # Model weights and checkpoints (too large for git)
 models/
 
+# Raw downloaded datasets (re-downloadable)
+distemist_raw/
+distemist_zenodo.zip
+
 # For now
 # data/
 output/
