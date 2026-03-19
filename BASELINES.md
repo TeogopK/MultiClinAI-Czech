@@ -15,7 +15,7 @@
 | 3 | XLM-R-base | softmax | morph synonyms | procedure | — | — | — | `--extra_data_dirs data/augmented-procedure --batch_size 32 --epochs 10` | TODO |
 | 4 | XLM-R-base | CRF | morph synonyms | symptom | — | — | — | `--use_crf --extra_data_dirs data/augmented-symptom --batch_size 16 --epochs 10` | TODO |
 | 5 | XLM-R-base | CRF | morph synonyms | procedure | — | — | — | `--use_crf --extra_data_dirs data/augmented-procedure --batch_size 16 --epochs 10` | TODO |
-| 6 | XLM-R-large | softmax | morph synonyms | disease | — | — | — | `--model_name xlm-roberta-large --extra_data_dirs data/augmented-disease --batch_size 16 --lr 1e-5 --epochs 10` | TODO |
+| 6 | XLM-R-large | softmax | morph synonyms | disease | 0.660 | 0.723 | 0.690 | `--model_name xlm-roberta-large --extra_data_dirs data/augmented-disease --batch_size 16 --lr 1e-5 --epochs 10` | DONE |
 
 ### Already completed (from previous experiments)
 
@@ -46,7 +46,7 @@ Compare rows 1 vs prior CRF disease (0.697). Compare rows 2–3 vs rows 4–5.
 
 Compare row 6 vs row 1. Prior large-model run (no aug) got 0.692 but overfit — LR lowered to 1e-5 here.
 
-*Results: TBD*
+**Result: marginal gain.** Large softmax (0.690) vs base softmax (0.686) = +0.4%. Not worth the 2x training time. Notably, base CRF (0.697) still beats large softmax — the CRF head on the smaller model outperforms the larger model. XLM-R-large with CRF might squeeze out more, but likely not worth it given cost.
 
 ---
 
