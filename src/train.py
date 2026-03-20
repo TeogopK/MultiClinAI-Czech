@@ -17,6 +17,7 @@ from config import (
     EARLY_STOPPING_PATIENCE,
     LEARNING_RATE,
     NUM_EPOCHS,
+    PROJECT_ROOT,
     WARMUP_RATIO,
     WEIGHT_DECAY,
     id2label,
@@ -217,6 +218,40 @@ class WeightedSamplingCRFTrainer(WeightedSamplingMixin, CRFTrainer):
     pass
 
 
+def save_run_results(args, entity_type, head, sentence_level, filter_o,
+                     extra_dirs, train_size, dev_size, metrics):
+    """Save training run metrics to a JSON file in results/."""
+    import json
+    from datetime import datetime
+
+    results_dir = PROJECT_ROOT / "results"
+    results_dir.mkdir(exist_ok=True)
+
+    run_info = {
+        "timestamp": datetime.now().isoformat(),
+        "entity_type": entity_type,
+        "model_name": args.model_name,
+        "head": head,
+        "batch_size": args.batch_size,
+        "lr": args.lr,
+        "epochs": args.epochs,
+        "sentence_level": sentence_level,
+        "filter_o_sentences": filter_o,
+        "extra_data_dirs": extra_dirs,
+        "train_size": train_size,
+        "dev_size": dev_size,
+        "metrics": {k: round(v, 4) if isinstance(v, float) else v
+                    for k, v in metrics.items()},
+    }
+
+    run_name = (f"{entity_type}_{head}"
+                f"_{'sent' if sentence_level else 'doc'}"
+                f"_{datetime.now().strftime('%Y%m%d_%H%M%S')}")
+    result_path = results_dir / f"{run_name}.json"
+    result_path.write_text(json.dumps(run_info, indent=2), encoding="utf-8")
+    print(f"Results saved to {result_path}")
+
+
 def main():
     args = parse_args()
     et = args.entity_type
@@ -367,6 +402,10 @@ def main():
     print(f"\nFinal dev metrics for {et.upper()} ({mode_str}):")
     for k, v in sorted(metrics.items()):
         print(f"  {k}: {v:.4f}" if isinstance(v, float) else f"  {k}: {v}")
+
+    # Save results to JSON
+    save_run_results(args, et, mode_str, sentence_level, filter_o, extra_dirs,
+                     len(train_ds), len(dev_ds), metrics)
 
 
 if __name__ == "__main__":
