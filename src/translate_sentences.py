@@ -5,11 +5,19 @@ entity cannot be aligned. This eliminates the false-negative noise problem of
 document-level alignment (where unaligned entities appear as unlabelled O
 tokens in the training data).
 
-Two modes:
-- es_to_cz: Translate Spanish BRAT (DisTEMIST/SympTEMIST) to Czech training data
+Three modes:
+- en_to_cz: Translate English BRAT to Czech (single hop, marker-based alignment)
+- es_to_cz: Translate Spanish BRAT to Czech (double hop ES→EN→CZ, translate-then-align)
 - cz_to_en: Translate Czech gold data to English for BioBERT/ClinicalBERT training
 
 Usage:
+    # EN→CZ (primary pipeline for external English datasets)
+    python src/translate_sentences.py \\
+        --mode en_to_cz \\
+        --input_dir data/ncbi-disease-brat \\
+        --output_dir data/ncbi-disease-cz \\
+        --type_map DISEASE=DISEASE
+
     # ES→CZ
     python src/translate_sentences.py \\
         --mode es_to_cz \\
@@ -259,6 +267,113 @@ def translate_doc_cz_to_en(
 
 
 # ---------------------------------------------------------------------------
+# EN→CZ sentence-level helpers (single hop, marker-based)
+# ---------------------------------------------------------------------------
+
+def _translate_sentence_en_to_cz(
+    sent_text: str,
+    sent_entities: list[tuple[int, int, str]],
+    entity_type_map: dict[str, str],
+    en_cs: tuple,
+    device: str = "cpu",
+) -> tuple[str, list[tuple[int, int, str]]] | None:
+    """Translate one sentence EN→CZ using entity markers.
+
+    Uses marker tags to preserve entity boundaries through translation.
+    Returns (cz_text, cz_entities) or None if markers didn't survive.
+    """
+    en_cs_tok, en_cs_model = en_cs
+
+    if not sent_entities:
+        cz_text = translate_text(sent_text, en_cs_tok, en_cs_model, device)
+        return (cz_text, []) if cz_text.strip() else None
+
+    # Map marker ID → target entity type
+    sorted_ents = sorted(sent_entities, key=lambda e: e[0])
+    entity_types = {
+        i: entity_type_map.get(etype, etype)
+        for i, (_, _, etype) in enumerate(sorted_ents)
+    }
+
+    # Insert markers and translate EN→CZ
+    marked = insert_markers(sent_text, sorted_ents)
+    cz_marked = translate_text(marked, en_cs_tok, en_cs_model, device)
+    if not cz_marked.strip():
+        return None
+
+    # Extract entities from markers
+    cz_clean, marker_entities = extract_markers(cz_marked)
+    if not cz_clean.strip():
+        return None
+
+    if not marker_entities:
+        return None
+
+    new_entities = []
+    for start, end, marker_id in marker_entities:
+        if marker_id in entity_types:
+            new_entities.append((start, end, entity_types[marker_id]))
+
+    if not new_entities:
+        return None
+
+    # Validate: no overlaps, within bounds
+    new_entities.sort(key=lambda e: e[0])
+    for i, (s, e, _) in enumerate(new_entities):
+        if s < 0 or e > len(cz_clean) or s >= e:
+            return None
+        if i > 0 and s < new_entities[i - 1][1]:
+            return None
+
+    return cz_clean, new_entities
+
+
+def translate_doc_en_to_cz(
+    doc: dict,
+    entity_type_map: dict[str, str],
+    en_cs: tuple,
+    device: str = "cpu",
+) -> tuple[str, list[tuple[int, int, str]]] | None:
+    """Translate English document to Czech sentence by sentence with markers.
+
+    Sentences where markers fail are skipped (no false negatives).
+    """
+    sentences = split_sentences(doc["text"], doc["entities"])
+    cz_parts: list[tuple[str, list]] = []
+
+    en_cs_tok, en_cs_model = en_cs
+
+    for sent in sentences:
+        if not sent["entities"]:
+            cz_text = translate_text(sent["text"], en_cs_tok, en_cs_model, device)
+            if cz_text.strip():
+                cz_parts.append((cz_text, []))
+        else:
+            result = _translate_sentence_en_to_cz(
+                sent["text"], sent["entities"], entity_type_map,
+                en_cs, device,
+            )
+            if result is not None:
+                cz_parts.append(result)
+
+    if not cz_parts or not any(ents for _, ents in cz_parts):
+        return None
+
+    combined_text = ""
+    all_entities = []
+    for i, (cz_text, ents) in enumerate(cz_parts):
+        offset = len(combined_text)
+        for start, end, etype in ents:
+            all_entities.append((offset + start, offset + end, etype))
+        combined_text += cz_text
+        if i < len(cz_parts) - 1:
+            combined_text += "\n"
+
+    all_entities.sort(key=lambda e: e[0])
+    return combined_text, all_entities
+
+
+# ---------------------------------------------------------------------------
 # Dataset-level functions
 # ---------------------------------------------------------------------------
 
@@ -273,6 +388,73 @@ def _write_brat(output_dir: Path, base_name: str, text: str,
     (output_dir / f"{base_name}.ann").write_text(
         "\n".join(ann_lines), encoding="utf-8"
     )
+
+
+def translate_dataset_en_to_cz(
+    input_dir: Path,
+    output_dir: Path,
+    entity_type_map: dict[str, str],
+    device: str = "cpu",
+) -> dict:
+    """Translate English BRAT dataset to Czech sentence by sentence (single hop)."""
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    source_types = list(entity_type_map.keys())
+    docs = load_external_documents(input_dir, source_types)
+    print(f"Loaded {len(docs)} documents with entities from {input_dir}")
+
+    if not docs:
+        return {"original_docs": 0, "translated_docs": 0, "skipped_docs": 0}
+
+    # Only need EN→CZ model
+    from translate import EN_CS_MODEL
+    from transformers import MarianMTModel, MarianTokenizer
+    print(f"Loading {EN_CS_MODEL}...")
+    en_cs_tok = MarianTokenizer.from_pretrained(EN_CS_MODEL)
+    en_cs_model = MarianMTModel.from_pretrained(EN_CS_MODEL).to(device)
+    en_cs = (en_cs_tok, en_cs_model)
+
+    total_translated = 0
+    total_skipped = 0
+    total_resumed = 0
+    total_sentences = 0
+    total_kept_sentences = 0
+
+    for doc_idx, doc in enumerate(docs):
+        base_name = f"en-cz-{doc['doc_id']}"
+
+        if (output_dir / f"{base_name}.txt").exists():
+            total_resumed += 1
+            total_translated += 1
+            continue
+
+        result = translate_doc_en_to_cz(doc, entity_type_map, en_cs, device)
+        if result is None:
+            total_skipped += 1
+            continue
+
+        cz_text, cz_entities = result
+        _write_brat(output_dir, base_name, cz_text, cz_entities)
+        total_translated += 1
+
+        if (doc_idx + 1) % 50 == 0:
+            print(
+                f"  [{doc_idx + 1}/{len(docs)}] "
+                f"translated={total_translated} skipped={total_skipped} "
+                f"resumed={total_resumed}"
+            )
+
+    stats = {
+        "source_lang": "en",
+        "type_map": entity_type_map,
+        "original_docs": len(docs),
+        "translated_docs": total_translated,
+        "skipped_docs": total_skipped,
+        "resumed": total_resumed,
+    }
+    print(f"\nGenerated {total_translated} Czech documents in {output_dir}")
+    print(f"Skipped (alignment failure): {total_skipped}  Resumed: {total_resumed}")
+    return stats
 
 
 def translate_dataset_es_to_cz(
@@ -400,7 +582,7 @@ def main():
         description="Sentence-level cross-lingual transfer for clinical NER"
     )
     parser.add_argument(
-        "--mode", required=True, choices=["es_to_cz", "cz_to_en"],
+        "--mode", required=True, choices=["en_to_cz", "es_to_cz", "cz_to_en"],
         help="Translation direction",
     )
     parser.add_argument("--output_dir", required=True, type=Path)
@@ -431,7 +613,16 @@ def main():
 
     args = parser.parse_args()
 
-    if args.mode == "es_to_cz":
+    if args.mode == "en_to_cz":
+        if not args.input_dir or not args.type_map:
+            parser.error("en_to_cz mode requires --input_dir and --type_map")
+        entity_type_map = parse_type_map(args.type_map)
+        print(f"Type mapping: {entity_type_map}")
+        stats = translate_dataset_en_to_cz(
+            args.input_dir, args.output_dir,
+            entity_type_map, args.device,
+        )
+    elif args.mode == "es_to_cz":
         missing = [f for f, v in [
             ("--input_dir", args.input_dir),
             ("--source_lang", args.source_lang),
