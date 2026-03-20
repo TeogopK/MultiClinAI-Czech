@@ -57,6 +57,31 @@ from translate_external import (
 
 
 # ---------------------------------------------------------------------------
+# Utility
+# ---------------------------------------------------------------------------
+
+def _trim_entity_spans(
+    text: str, entities: list[tuple[int, int, str]]
+) -> list[tuple[int, int, str]]:
+    """Strip leading/trailing whitespace from entity spans.
+
+    MarianMT often inserts spaces around marker tags, causing entity spans
+    to include whitespace (e.g. ' tumor ' instead of 'tumor'). This trims
+    them to the actual entity text.
+    """
+    trimmed = []
+    for start, end, etype in entities:
+        span = text[start:end]
+        lstrip = len(span) - len(span.lstrip())
+        rstrip = len(span) - len(span.rstrip())
+        new_start = start + lstrip
+        new_end = end - rstrip if rstrip > 0 else end
+        if new_start < new_end:
+            trimmed.append((new_start, new_end, etype))
+    return trimmed
+
+
+# ---------------------------------------------------------------------------
 # ES→CZ sentence-level helpers
 # ---------------------------------------------------------------------------
 
@@ -224,6 +249,7 @@ def _translate_sentence_cz_to_en(
         if marker_id in entity_types:
             new_entities.append((start, end, entity_types[marker_id]))
 
+    new_entities = _trim_entity_spans(en_clean, new_entities)
     return en_clean, new_entities
 
 
@@ -314,6 +340,11 @@ def _translate_sentence_en_to_cz(
         if marker_id in entity_types:
             new_entities.append((start, end, entity_types[marker_id]))
 
+    if not new_entities:
+        return None
+
+    # Trim whitespace from entity spans (MarianMT artifact)
+    new_entities = _trim_entity_spans(cz_clean, new_entities)
     if not new_entities:
         return None
 

@@ -56,6 +56,11 @@ def extract_markers(text: str) -> tuple[str, list[tuple[int, int, str, int]]]:
 
     Returns (clean_text, []) if markers are malformed.
     """
+    # MarianMT often inserts spaces inside marker tags (e.g. "< E0>" → "<E0>")
+    # Normalize before extraction
+    text = re.sub(r"<\s*E\s*(\d+)\s*>", r"<E\1>", text)
+    text = re.sub(r"<\s*/\s*E\s*(\d+)\s*>", r"</E\1>", text)
+
     # Find all markers and their positions
     found = []
     for match in MARKER_PATTERN.finditer(text):
