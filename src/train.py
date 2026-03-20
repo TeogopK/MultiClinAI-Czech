@@ -54,10 +54,29 @@ def compute_metrics_factory(entity_type: str, use_crf: bool = False):
             true_labels.append(true_seq)
             pred_labels.append(pred_seq_clean)
 
+        # Token-level metrics (B/I tokens only, ignoring O)
+        token_tp = token_fp = token_fn = 0
+        for pred_seq_clean, true_seq in zip(pred_labels, true_labels):
+            for p, t in zip(pred_seq_clean, true_seq):
+                p_ent = p != "O"
+                t_ent = t != "O"
+                if p_ent and t_ent:
+                    token_tp += 1
+                elif p_ent and not t_ent:
+                    token_fp += 1
+                elif not p_ent and t_ent:
+                    token_fn += 1
+        token_p = token_tp / (token_tp + token_fp) if (token_tp + token_fp) else 0.0
+        token_r = token_tp / (token_tp + token_fn) if (token_tp + token_fn) else 0.0
+        token_f1 = 2 * token_p * token_r / (token_p + token_r) if (token_p + token_r) else 0.0
+
         return {
             "precision": precision_score(true_labels, pred_labels),
             "recall": recall_score(true_labels, pred_labels),
             "f1": f1_score(true_labels, pred_labels),
+            "token_precision": token_p,
+            "token_recall": token_r,
+            "token_f1": token_f1,
         }
 
     return compute_metrics
