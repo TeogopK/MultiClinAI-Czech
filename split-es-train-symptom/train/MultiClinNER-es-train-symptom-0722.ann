@@ -1,0 +1,31 @@
+T1	SYMPTOM 208 230	dolor abdominal cólico
+T2	SYMPTOM 241 261	distensión abdominal
+T3	SYMPTOM 271 292	deposiciones líquidas
+T4	SYMPTOM 2063 2087	dilatación de asas de ID
+T5	SYMPTOM 2090 2134	engrosamiento estenosante en ileon terminal,
+T6	SYMPTOM 504 523	buen estado general
+T7	SYMPTOM 529 553	estabilidad hemodinámica
+T8	SYMPTOM 555 603	abdomen sin cicatrices, distendido y timpanizado
+T9	SYMPTOM 709 730	irritación peritoneal
+T10	SYMPTOM 737 770	palparse masas ni visceromegalias
+T11	SYMPTOM 772 796	peristaltismo disminuido
+T12	SYMPTOM 845 886	leucocitosis con predominio granulocítico
+T13	SYMPTOM 1083 1153	dilatación de asas del intestino delgado (ID), con niveles hidroaéreos
+T14	SYMPTOM 1156 1197	ausencia de gas en colon y ampolla rectal
+T15	SYMPTOM 1292 1322	gas e hiperperistaltismo en ID
+T16	SYMPTOM 1432 1456	dilatación de asas de ID
+T17	SYMPTOM 1630 1671	líquido libre a nivel del saco de Douglas
+T18	SYMPTOM 605 651	doloroso a la palpación en hemiabdomen derecho
+T19	SYMPTOM 1344 1385	líquido libre entre las asas intestinales
+T20	SYMPTOM 2041 2061	líquido libre seroso
+T21	SYMPTOM 1556 1613	colon no dilatado con opacificación con el contraste oral
+T22	SYMPTOM 937 1027	glucosa, iones, función renal, enzimas hepáticos, amilasa, sistemático de orina...) normal
+A1	RESULTADO T12
+A2	IMAGEN T13
+A3	IMAGEN T14
+A4	IMAGEN T15
+A5	IMAGEN T16
+A6	IMAGEN T17
+A7	IMAGEN T19
+A8	IMAGEN T21
+A9	RESULTADO T22

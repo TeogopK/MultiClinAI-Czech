@@ -1,0 +1,32 @@
+T1	SYMPTOM 347 359	asymptomatic
+T2	SYMPTOM 439 454	general malaise
+T3	SYMPTOM 456 464	myalgias
+T4	SYMPTOM 466 477	arthralgias
+T5	SYMPTOM 479 490	lumbar pain
+T6	SYMPTOM 492 500	vomiting
+T7	SYMPTOM 502 511	diarrhoea
+T8	SYMPTOM 516 529	febrile fever
+T11	SYMPTOM 562 574	leukocytosis
+T27	SYMPTOM 576 663	Abdominal ultrasound and simple thoracic and lumbar radiology revealed no abnormalities
+T12	SYMPTOM 694 713	normal sinus rhythm
+T28	SYMPTOM 746 759	low back pain
+T13	SYMPTOM 846 855	shivering
+T9	SYMPTOM 857 862	fever
+T14	SYMPTOM 876 887	hypotension
+T25	SYMPTOM 1119 1130	bacteriuria
+T16	SYMPTOM 1405 1421	dyspnoea at rest
+T23	SYMPTOM 1746 1775	normofunctioning aortic valve
+T17	SYMPTOM 2181 2198	retrosternal pain
+T26	SYMPTOM 2730 2772	pericardial fluid was bloody in appearance
+T22	SYMPTOM 3141 3158	arterial bleeding
+T21	SYMPTOM 3390 3402	inflammation
+T29	SYMPTOM 3409 3444	small, thin, competent aortic valve
+T18	SYMPTOM 4391 4429	Blood and urine cultures were negative
+T30	SYMPTOM 4431 4487	Pericardial fluid culture was positive for S. pneumoniae
+T31	SYMPTOM 4498 4533	culture of vegetations was negative
+T24	SYMPTOM 4539 4601	polymerase chain reaction (PCR) was positive for S. pneumoniae
+T32	SYMPTOM 4712 4739	normally functioning valves
+T19	SYMPTOM 4817 4863	progressive deterioration of general condition
+T10	SYMPTOM 4869 4874	fever
+T15	SYMPTOM 4879 4890	hypotension
+T20	SYMPTOM 4998 5002	died

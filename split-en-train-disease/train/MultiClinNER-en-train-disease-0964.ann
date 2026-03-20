@@ -1,0 +1,64 @@
+T63	DISEASE 156 170	drug allergies
+T64	DISEASE 175 181	smoker
+T65	DISEASE 185 192	drinker
+T66	DISEASE 203 215	hypertension
+T67	DISEASE 223 240	diabetes mellitus
+T68	DISEASE 242 244	DM
+T69	DISEASE 249 262	dyslipidaemia
+T70	DISEASE 273 286	heart disease
+T71	DISEASE 290 302	bronchopathy
+T114	DISEASE 680 704	peripheral hypoperfusion
+T115	DISEASE 1128 1152	peripheral hypoperfusion
+T81	DISEASE 1405 1417	Hepatomegaly
+T116	DISEASE 1434 1474	Upper extremities: poor distal perfusion
+T117	DISEASE 1526 1566	Upper extremities: poor distal perfusion
+T72	DISEASE 1610 1630	deep vein thrombosis
+T73	DISEASE 1632 1635	DVT
+T74	DISEASE 2381 2400	atrial fibrillation
+T77	DISEASE 2430 2455	ventricular extrasystoles
+T78	DISEASE 2609 2643	complete right bundle branch block
+T79	DISEASE 3075 3090	acute ischaemia
+T80	DISEASE 3354 3380	bilateral pleural effusion
+T82	DISEASE 3382 3394	Hepatomegaly
+T83	DISEASE 3732 3759	severe systolic dysfunction
+T86	DISEASE 4042 4075	segmental contractility disorders
+T108	DISEASE 4077 4098	Diastolic dysfunction
+T87	DISEASE 4576 4581	shock
+T84	DISEASE 5148 5175	severe systolic dysfunction
+T88	DISEASE 5200 5205	shock
+T92	DISEASE 5383 5422	persistent supraventricular tachycardia
+T112	DISEASE 5482 5517	AF with controlled ventricular rate
+T93	DISEASE 5549 5566	cardiogenic shock
+T89	DISEASE 5561 5566	shock
+T96	DISEASE 5740 5759	multi-organ failure
+T99	DISEASE 5761 5797	oligoanuric liver and kidney failure
+T124	DISEASE 5917 5939	narrow QRS tachycardia
+T100	DISEASE 6131 6154	ventricular tachycardia
+T125	DISEASE 6292 6312	wide QRS tachycardia
+T101	DISEASE 6601 6627	ventricular pre-excitation
+T94	DISEASE 6673 6690	cardiogenic shock
+T90	DISEASE 6685 6690	shock
+T97	DISEASE 6708 6727	multi-organ failure
+T113	DISEASE 6870 6887	arrhythmic events
+T126	DISEASE 7075 7095	wide QRS tachycardia
+T106	DISEASE 7117 7131	atrial flutter
+T102	DISEASE 7117 7167	atrial flutter with 2:1 AV conduction and wide QRS
+T118	DISEASE 7124 7131	flutter
+T111	DISEASE 7173 7179	BCRDHH
+T119	DISEASE 7236 7243	flutter
+T103	DISEASE 7267 7290	orthodromic tachycardia
+T105	DISEASE 7480 7494	pre-excited AF
+T75	DISEASE 7843 7862	atrial fibrillation
+T107	DISEASE 7867 7881	atrial flutter
+T120	DISEASE 7874 7881	flutter
+T121	DISEASE 8230 8237	flutter
+T109	DISEASE 8554 8575	diastolic dysfunction
+T123	DISEASE 8588 8618	Wolff-Parkinson-White syndrome
+T104	DISEASE 8657 8680	orthodromic tachycardia
+T76	DISEASE 8694 8713	atrial fibrillation
+T122	DISEASE 8718 8725	flutter
+T85	DISEASE 8775 8802	severe systolic dysfunction
+T95	DISEASE 8847 8864	Cardiogenic shock
+T110	DISEASE 8847 8889	Cardiogenic shock with multi-organ failure
+T91	DISEASE 8859 8864	shock
+T98	DISEASE 8870 8889	multi-organ failure

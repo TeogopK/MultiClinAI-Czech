@@ -1,0 +1,32 @@
+T1	SYMPTOM 212 226	abdominal pain
+T3	SYMPTOM 228 244	bloody diarrhoea
+T4	SYMPTOM 249 257	headache
+T24	SYMPTOM 273 310	motor deficits in the left lower limb
+T15	SYMPTOM 334 374	diffuse abdominal pain on deep palpation
+T2	SYMPTOM 376 421	Rectal examination with fresh haematic debris
+T27	SYMPTOM 432 475	functional impotence in the left lower limb
+T28	SYMPTOM 480 512	paraesthesia in both upper limbs
+T17	SYMPTOM 588 656	minimal enzyme elevation (GOT 74 IU/l, GPT 96 IU/l, GGT 182 IU/l, AP
+T12	SYMPTOM 851 898	severe mucosal involvement from the anal margin
+T30	SYMPTOM 1194 1223	increased abdominal perimeter
+T8	SYMPTOM 1242 1249	ascites
+T32	SYMPTOM 1254 1280	neurological deterioration
+T33	SYMPTOM 1282 1307	myoclonias in lower limbs
+T5	SYMPTOM 1309 1332	decreased visual acuity
+T6	SYMPTOM 1350 1369	increased cytolysis
+T13	SYMPTOM 1535 1559	Prominent hepatic artery
+T16	SYMPTOM 1561 1609	Suprahepatic with minimal flow uptake, flattened
+T21	SYMPTOM 1611 1645	Echogenic content in inferior cava
+T9	SYMPTOM 1647 1654	Ascites
+T22	SYMPTOM 1701 1739	intrahepatic cava decreased in calibre
+T23	SYMPTOM 1777 1829	Loss of signal intensity of the suprahepatic vessels
+T7	SYMPTOM 1857 1875	Patent portal vein
+T10	SYMPTOM 1891 1898	Ascites
+T25	SYMPTOM 2052 2069	Cytology negative
+T26	SYMPTOM 2100 2167	relative deficit of hepatic synthesis factors (factor V 36.63%, VII
+T18	SYMPTOM 2213 2282	antiphospholipid antibody, Ham's test and Leyden's factor V, negative
+T29	SYMPTOM 2284 2401	Prothrombin and methylenetetrahydrofolate reductase gene, homocysteine, antithrombin III, protein C and S were normal
+T20	SYMPTOM 2496 2518	Clinical deterioration
+T19	SYMPTOM 2559 2574	tension ascites
+T45	SYMPTOM 2964 2976	haemorrhagic
+T14	SYMPTOM 3077 3082	death

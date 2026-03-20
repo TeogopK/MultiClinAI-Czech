@@ -1,0 +1,23 @@
+T4	DISEASE 109 120	hematemesis
+T5	DISEASE 1028 1031	CRU
+T6	DISEASE 171 194	sangrado digestivo alto
+T10	DISEASE 248 264	proceso catarral
+T13	DISEASE 275 296	crisis renoureterales
+T14	DISEASE 2635 2661	parada cardiorrespiratoria
+T15	DISEASE 298 301	CRU
+T16	DISEASE 1192 1209	traumatismo nasal
+T17	DISEASE 319 323	asma
+T23	DISEASE 2795 2832	esofagitis aguda necrotizante erosiva
+T25	DISEASE 2857 2938	arteriosclerosis aórtica, predominantemente abdominal y en bifurcación de ilíacas
+T30	DISEASE 2944 2980	aneurisma sacular en aorta abdominal
+T31	DISEASE 1510 1532	herida en puente nasal
+T32	DISEASE 629 632	CRU
+T33	DISEASE 1547 1572	sangrado en fosas nasales
+T35	DISEASE 3027 3053	hemorragia retroperitoneal
+T43	DISEASE 850 861	hematemesis
+T44	DISEASE 1766 1773	melenas
+T48	DISEASE 2185 2196	hematemesis
+T49	DISEASE 2229 2254	hemorragia digestiva alta
+T1	DISEASE 1586 1599	posos de café
+T2	DISEASE 2384 2434	esófago con mucosa de aspecto claramente isquémico
+#1	AnnotatorNotes T15	  CRU: crisis renoureterales

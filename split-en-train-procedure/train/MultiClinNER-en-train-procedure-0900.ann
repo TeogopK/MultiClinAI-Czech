@@ -1,0 +1,14 @@
+T37	PROCEDURE 29 49	physical examination
+T39	PROCEDURE 223 252	pharmacological cardioversion
+T38	PROCEDURE 979 999	Physical examination
+T40	PROCEDURE 1172 1194	Pulmonary auscultation
+T41	PROCEDURE 1228 1248	cardiac auscultation
+T42	PROCEDURE 1446 1463	Electrocardiogram
+T43	PROCEDURE 1607 1618	Chest X-ray
+T3	PROCEDURE 1718 1746	Transthoracic echocardiogram
+T44	PROCEDURE 2110 2143	Thoracic-abdominal CT angiography
+T46	PROCEDURE 2420 2458	Nuclear magnetic resonance angiography
+T45	PROCEDURE 2843 2876	Thoracic-abdominal CT angiography
+T47	PROCEDURE 3083 3122	cerebral magnetic resonance angiography
+T48	PROCEDURE 3221 3246	karyotyping was performed
+T13	PROCEDURE 3253 3277	FISH hybridisation study

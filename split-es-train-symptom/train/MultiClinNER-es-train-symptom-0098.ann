@@ -1,0 +1,12 @@
+T1	SYMPTOM 34 74	masa adyacente al polo superior de teste
+T2	SYMPTOM 1210 1252	exploración física dentro de la normalidad
+T3	SYMPTOM 231 261	testes se presentaban normales
+T4	SYMPTOM 276 345	nódulo de 2 cm, duro e indoloro en relación al polo superior de teste
+T5	SYMPTOM 393 443	cifras normales de marcadores tumorales germinales
+T6	SYMPTOM 500 537	teste normoecógeno y de tamaño normal
+T7	SYMPTOM 1189 1201	asintomático
+T8	SYMPTOM 587 593	nódulo
+T9	SYMPTOM 769 773	masa
+A1	RESULTADO T5
+A2	IMAGEN T6
+A3	IMAGEN T8

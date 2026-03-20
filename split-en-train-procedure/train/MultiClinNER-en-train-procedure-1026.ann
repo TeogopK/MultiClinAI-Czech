@@ -1,0 +1,23 @@
+T94	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T106	PROCEDURE 280 291	haematology
+T84	PROCEDURE 729 764	surgical coronary revascularisation
+T85	PROCEDURE 769 793	aortic valve replacement
+T86	PROCEDURE 813 837	aortic valve replacement
+T87	PROCEDURE 813 864	aortic valve replacement with mechanical prosthesis
+T88	PROCEDURE 1296 1310	echocardiogram
+T95	PROCEDURE 2677 2697	PHYSICAL EXAMINATION
+T96	PROCEDURE 2940 2960	Cardiac auscultation
+T97	PROCEDURE 3050 3072	Pulmonary auscultation
+T98	PROCEDURE 3370 3373	ECG
+T99	PROCEDURE 3964 3992	Transthoracic echocardiogram
+T89	PROCEDURE 3978 3992	echocardiogram
+T101	PROCEDURE 4644 4651	Doppler
+T103	PROCEDURE 5742 5772	Transesophageal echocardiogram
+T90	PROCEDURE 5758 5772	echocardiogram
+T102	PROCEDURE 5962 5969	Doppler
+T91	PROCEDURE 7008 7022	ECHOCARDIOGRAM
+T104	PROCEDURE 8035 8055	abdominal ultrasound
+T92	PROCEDURE 8149 8163	echocardiogram
+T105	PROCEDURE 8243 8262	depletive treatment
+T100	PROCEDURE 8955 8983	transthoracic echocardiogram
+T93	PROCEDURE 8969 8983	echocardiogram

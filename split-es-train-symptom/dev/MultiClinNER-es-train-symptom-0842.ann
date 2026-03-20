@@ -1,0 +1,41 @@
+T1	SYMPTOM 1434 1498	disnea progresiva en las últimas semanas hasta hacerse de reposo
+T2	SYMPTOM 1504 1512	ortopnea
+T3	SYMPTOM 1533 1560	disnea paroxística nocturna
+T4	SYMPTOM 1577 1600	edemas en ambas piernas
+T5	SYMPTOM 1638 1651	palpitaciones
+T6	SYMPTOM 1655 1669	dolor torácico
+T7	SYMPTOM 1813 1822	taquipnea
+T8	SYMPTOM 1833 1840	afebril
+T9	SYMPTOM 1851 1896	ingurgitación yugular hasta ángulo mandibular
+T10	SYMPTOM 1898 1948	estertores crepitantes húmedos hasta campos medios
+T11	SYMPTOM 1950 1976	tonos rítmicos hipofónicos
+T12	SYMPTOM 1981 2011	soplo sistólico en foco mitral
+T13	SYMPTOM 2019 2036	abdomen globuloso
+T14	SYMPTOM 2062 2070	megalias
+T15	SYMPTOM 2096 2129	edemas tibio maleolares con fovea
+T16	SYMPTOM 2258 2295	función renal ligeramente deteriorada
+T17	SYMPTOM 2297 2311	iones normales
+T18	SYMPTOM 2314 2355	leve elevación de biomarcadores cardiacos
+T20	SYMPTOM 2452 2478	FEVI severamente deprimida
+T21	SYMPTOM 2617 2640	líquido en cisura media
+T23	SYMPTOM 2733 2746	ritmo sinusal
+T24	SYMPTOM 2831 2844	onda Q en aVL
+T25	SYMPTOM 2995 3013	coagulación normal
+T27	SYMPTOM 3310 3340	FEVI muy severamente deprimida
+T31	SYMPTOM 3817 3880	función sistólica de ventrículo derecho moderadamente deprimida
+T32	SYMPTOM 4031 4060	colapso inspiratorio reducido
+T34	SYMPTOM 5125 5152	disnea de mínimos esfuerzos
+T36	SYMPTOM 8765 8776	FE reducida
+T37	SYMPTOM 8821 8860	función sistólica severamente deprimida
+T116	SYMPTOM 3695 3727	Válvula aórtica normofuncionante
+T122	SYMPTOM 1603 1625	recorte de la diuresis
+T35	SYMPTOM 8998 9084	bypass de mamaria a descendente anterior y safena a primera obtusa marginal permeables
+T191	SYMPTOM 2668 2710	infiltrado alveolo-intersticial perihiliar
+T194	SYMPTOM 4079 4114	tronco común izquierdo sin lesiones
+T214	SYMPTOM 2642 2665	redistribución vascular
+T127	SYMPTOM 4520 4546	bypass de safena permeable
+T133	SYMPTOM 4441 4484	Vaso distal de obtusa marginal sin lesiones
+T145	SYMPTOM 3975 3997	Pericardio sin derrame
+T148	SYMPTOM 4723 4778	ventrículo izquierdo con severa y extensa hipoperfusión
+T151	SYMPTOM 5418 5502	bypass de mamaria a descendente anterior y de safena a 1a obtusa marginal permeables
+T174	SYMPTOM 5708 5762	test de viabilidad con SPECT, que no mostró viabilidad

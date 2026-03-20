@@ -1,0 +1,43 @@
+T1	SYMPTOM 395 440	elevación del ST en derivaciones precordiales
+T2	SYMPTOM 487 516	Test de acetilcolina positivo
+T3	SYMPTOM 548 559	FEVI normal
+T4	SYMPTOM 920 945	elevación del segmento ST
+T5	SYMPTOM 978 992	dolor torácico
+T6	SYMPTOM 1020 1044	descenso del ST en V1-V2
+T7	SYMPTOM 1150 1161	FEVI normal
+T8	SYMPTOM 1698 1714	malestar general
+T9	SYMPTOM 1717 1736	molestias torácicas
+T10	SYMPTOM 1975 1988	ritmo sinusal
+T11	SYMPTOM 2382 2396	Bien hidratada
+T12	SYMPTOM 2398 2405	nutrida
+T13	SYMPTOM 2408 2418	perfundida
+T14	SYMPTOM 2420 2434	Normocoloreada
+T15	SYMPTOM 2439 2460	ingurgitación yugular
+T16	SYMPTOM 2462 2492	Auscultación cardiaca: rítmica
+T17	SYMPTOM 2498 2504	soplos
+T18	SYMPTOM 2529 2558	murmullo vesicular conservado
+T19	SYMPTOM 2582 2611	edemas en miembros inferiores
+T20	SYMPTOM 2613 2642	Pulsos presentes y simétricos
+T21	SYMPTOM 2807 2819	QRS estrecho
+T22	SYMPTOM 2830 2871	alteraciones difusas de la repolarización
+T24	SYMPTOM 3122 3167	Índice cardiotorácico dentro de la normalidad
+T26	SYMPTOM 3582 3631	ventrículo izquierdo no dilatado, no hipertrófico
+T27	SYMPTOM 3637 3668	función sistólica global normal
+T28	SYMPTOM 3688 3735	Ventrículo derecho de tamaño y función normales
+T29	SYMPTOM 3737 3763	Aurículas de tamaño normal
+T30	SYMPTOM 3919 3958	Ventriculografía y aortografía normales
+T31	SYMPTOM 4186 4212	función ventricular normal
+T32	SYMPTOM 4958 4971	fallecimiento
+T33	SYMPTOM 5198 5214	elevación del ST
+T34	SYMPTOM 5639 5645	muerte
+T121	SYMPTOM 561 585	disquinesia septo apical
+T23	SYMPTOM 3670 3686	Aquinesia apical
+T123	SYMPTOM 4217 4233	aquinesia apical
+T124	SYMPTOM 5042 5057	descenso del ST
+T138	SYMPTOM 3858 3902	arterias coronarias epicárdicas sin lesiones
+T139	SYMPTOM 4095 4142	arterias coronarias sin lesiones significativas
+T144	SYMPTOM 2790 2800	eje normal
+T146	SYMPTOM 4456 4463	estable
+T127	SYMPTOM 455 485	lesión no significativa en DAm
+T128	SYMPTOM 1095 1118	coronarias sin lesiones
+T25	SYMPTOM 4687 4700	ritmo agónico

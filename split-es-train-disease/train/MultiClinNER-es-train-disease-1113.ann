@@ -1,0 +1,52 @@
+T29	DISEASE 114 121	fumador
+T30	DISEASE 187 202	hábitos tóxicos
+T31	DISEASE 236 269	fibrilación auricular paroxística
+T32	DISEASE 781 831	adenopatías hiliares homolaterales y mediastínicas
+T33	DISEASE 851 866	derrame pleural
+T34	DISEASE 920 962	atelectasia segmentaria en el lóbulo medio
+T35	DISEASE 1218 1245	neoplasia primaria pulmonar
+T36	DISEASE 1278 1289	adenopatías
+T37	DISEASE 1344 1369	adenopatía supraclavicuar
+T38	DISEASE 1382 1397	derrame pleural
+T40	DISEASE 1499 1529	adenocarcinoma (ADC) de pulmón
+T41	DISEASE 1660 1667	tumores
+T42	DISEASE 1714 1738	adenocarcinoma de pulmón
+T43	DISEASE 2046 2072	adenopatías paratraqueales
+T44	DISEASE 2092 2107	derrame pleural
+T45	DISEASE 2959 2966	síncope
+T46	DISEASE 3103 3123	derrame pleural leve
+T47	DISEASE 3128 3155	derrame pericárdico laminar
+T48	DISEASE 3380 3413	insuficiencia cardiaca congestiva
+T49	DISEASE 3918 3961	bloqueo auriculoventricular de primer grado
+T50	DISEASE 4604 4637	hipertrofia septal leve- moderada
+T51	DISEASE 4806 4852	regurgitación leve de válvula aórtica y mitral
+T52	DISEASE 4973 5003	insuficiencia tricuspidea leve
+T53	DISEASE 5008 5029	hipertensión pulmonar
+T54	DISEASE 5050 5074	derrame pericárdico leve
+T55	DISEASE 5177 5228	insuficiencia cardiaca secundaria a una bradicardia
+T57	DISEASE 5333 5355	insuficiencia cardiaca
+T58	DISEASE 5396 5418	insuficiencia cardiaca
+T59	DISEASE 5564 5596	hipertrofia septal leve-moderada
+T60	DISEASE 5622 5646	derrame pericárdico leve
+T61	DISEASE 5830 5848	síndrome nefrótico
+T62	DISEASE 5873 5889	cáncer de pulmón
+T63	DISEASE 5896 5921	síndromes paraneoplásicos
+T64	DISEASE 5966 5984	síndrome nefrótico
+T65	DISEASE 6161 6175	fallo hepático
+T66	DISEASE 6252 6260	etilismo
+T67	DISEASE 6504 6547	adenopatías abdomino-pélvicas ni inguinales
+T68	DISEASE 7174 7186	hipertensión
+T69	DISEASE 7258 7305	bradicardia sintomática secundaria a crizotinib
+T70	DISEASE 7308 7341	insuficiencia cardiaca congestiva
+T71	DISEASE 7584 7596	hipertensión
+T72	DISEASE 7778 7795	cardiopatía grave
+T73	DISEASE 8085 8107	Insuficiencia cardiaca
+T74	DISEASE 8141 8160	bradicardia sinusal
+T75	DISEASE 8162 8205	Bradicardia sinusal secundaria a crizotinib
+T76	DISEASE 8207 8231	Adenocarcinoma de pulmón
+T78	DISEASE 6414 6419	tumor
+T79	DISEASE 4734 4773	raíz de aorta estaba levemente dilatada
+T80	DISEASE 4857 4901	aurícula izquierda estaba levemente dilatada
+T1	DISEASE 1515 1518	ADC
+T56	DISEASE 5233 5301	bradicardia es un efecto adverso cardiovascular común del crizotinib
+#1	AnnotatorNotes T1	adenocarcinoma

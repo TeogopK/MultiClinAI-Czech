@@ -1,0 +1,72 @@
+T1	SYMPTOM 468 494	portador de marcapasos VDD
+T3	SYMPTOM 995 1003	disfagia
+T4	SYMPTOM 1058 1095	Gastroscopia y colonoscopia negativas
+T5	SYMPTOM 1540 1546	disnea
+T6	SYMPTOM 1703 1730	disnea de mínimos esfuerzos
+T7	SYMPTOM 1732 1774	disminución subjetiva de nivel de diuresis
+T8	SYMPTOM 1777 1785	nicturia
+T9	SYMPTOM 1791 1799	ortopnea
+T10	SYMPTOM 1801 1804	DPN
+T11	SYMPTOM 1806 1812	edemas
+T13	SYMPTOM 1854 1861	astenia
+T14	SYMPTOM 1863 1896	sensación distérmica intermitente
+T15	SYMPTOM 1899 1915	pérdida ponderal
+T16	SYMPTOM 2216 2223	Afebril
+T17	SYMPTOM 2225 2244	Buen estado general
+T18	SYMPTOM 2246 2256	Consciente
+T19	SYMPTOM 2259 2268	orientado
+T20	SYMPTOM 2270 2285	Palidez cutánea
+T21	SYMPTOM 2287 2305	Eupneico en reposo
+T22	SYMPTOM 2327 2348	ingurgitación yugular
+T23	SYMPTOM 2373 2399	ruidos cardiacos regulares
+T24	SYMPTOM 2401 2465	soplo sistólico III/VI en borde esternal izquierdo y foco mitral
+T25	SYMPTOM 2490 2511	crepitantes bibasales
+T26	SYMPTOM 2522 2573	campos pulmonares con murmullo vesicular conservado
+T27	SYMPTOM 2575 2602	Abdomen blando y depresible
+T28	SYMPTOM 2608 2613	masas
+T29	SYMPTOM 2617 2625	megalias
+T30	SYMPTOM 2640 2661	irritación peritoneal
+T31	SYMPTOM 2663 2685	peristalsis conservada
+T32	SYMPTOM 2687 2743	Miembros inferiores con discretos edemas tibiomaleolares
+T33	SYMPTOM 2807 2820	ritmo sinusal
+T34	SYMPTOM 3052 3101	índice cardiotorácico (ICT) ligeramente aumentado
+T35	SYMPTOM 3139 3165	consolidaciones alveolares
+T36	SYMPTOM 4014 4057	Serologías bacterianas y virales: negativas
+T37	SYMPTOM 4333 4390	Cultivos microbiológicos y estudio de parásitos negativos
+T38	SYMPTOM 5255 5283	líquido libre intraabdominal
+T39	SYMPTOM 5519 5565	depresión grave de la función global sistólica
+T42	SYMPTOM 6525 6605	Ventrículo derecho de diámetros normales con función global sistólica conservada
+T43	SYMPTOM 7595 7625	masa móvil en válvula pulmonar
+T44	SYMPTOM 8043 8069	disnea a mínimos esfuerzos
+T45	SYMPTOM 8085 8098	disnea súbita
+T46	SYMPTOM 8107 8114	afebril
+T47	SYMPTOM 8929 8940	neutropenia
+T49	SYMPTOM 9607 9694	hemocultivos en medios habituales y especiales para hongos y bacterias fueron negativos
+T2	SYMPTOM 4085 4153	ANA, ANCA, factor reumatoide, anticuerpos antifosfolípido: negativos
+T12	SYMPTOM 4184 4228	LDH, haptoglobina y reticulocitos: negativos
+T107	SYMPTOM 4392 4477	Cultivos de material valvular resecado y de cable de marcapasos explantado: negativos
+T190	SYMPTOM 4762 4805	hipoventilación en ambos lóbulos inferiores
+T191	SYMPTOM 4943 5001	Páncreas y glándulas suprarrenales dentro de la normalidad
+T40	SYMPTOM 8625 8657	neutropenia y trombopenia graves
+T41	SYMPTOM 11106 11136	fracción de eyección deprimida
+T201	SYMPTOM 2945 2978	alteraciones de la repolarización
+T210	SYMPTOM 1833 1843	congestión
+T211	SYMPTOM 4638 4659	defectos de repleción
+T219	SYMPTOM 6298 6312	jet excéntrico
+T236	SYMPTOM 2307 2322	tolera decúbito
+T237	SYMPTOM 5988 6000	vegetaciones
+T111	SYMPTOM 678 725	asincronía por estimulación ventricular por MCP
+T192	SYMPTOM 2890 2899	QRS ancho
+T193	SYMPTOM 3103 3121	hilios prominentes
+T181	SYMPTOM 4242 4282	médula ósea: no se observan alteraciones
+T194	SYMPTOM 4299 4331	Correcto cociente mieloeritroide
+T195	SYMPTOM 4536 4621	arterias pulmonares principales y lobares presentan una morfología y calibre normales
+T196	SYMPTOM 6383 6410	alteración de la relajación
+T197	SYMPTOM 6440 6489	aumento significativo de las presiones de llenado
+T198	SYMPTOM 6694 6723	Plétora de vena cava inferior
+T200	SYMPTOM 6731 6778	Coronariografía: Descripción del tronco: normal
+T202	SYMPTOM 6937 6956	circunfleja: normal
+T204	SYMPTOM 6970 6998	coronaria derecha: dominante
+T205	SYMPTOM 6903 6922	sistema de doble DA
+T207	SYMPTOM 9710 9786	serologías e incluso test de autoinmunidad, resultando todos ellos negativos
+T95	SYMPTOM 11149 11195	asincronía por electroestimulación ventricular

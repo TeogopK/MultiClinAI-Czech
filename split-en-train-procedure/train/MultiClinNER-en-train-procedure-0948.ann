@@ -1,0 +1,39 @@
+T75	PROCEDURE 29 49	physical examination
+T77	PROCEDURE 685 709	resuscitation manoeuvres
+T79	PROCEDURE 867 885	vasoactive support
+T81	PROCEDURE 890 912	orotracheal intubation
+T78	PROCEDURE 947 971	resuscitation manoeuvres
+T82	PROCEDURE 973 976	ECG
+T85	PROCEDURE 1128 1140	Fibrinolysis
+T88	PROCEDURE 1340 1351	rescue PTCA
+T76	PROCEDURE 1354 1374	Physical examination
+T3	PROCEDURE 1403 1426	mechanically ventilated
+T92	PROCEDURE 1455 1471	vasoactive drugs
+T4	PROCEDURE 1521 1523	MV
+T111	PROCEDURE 1525 1538	Head and neck
+T93	PROCEDURE 1573 1593	Cardiac auscultation
+T5	PROCEDURE 1888 1891	CBC
+T107	PROCEDURE 2127 2131	Ions
+T6	PROCEDURE 2184 2209	Myocardial injury markers
+T106	PROCEDURE 2329 2340	Blood gases
+T94	PROCEDURE 2396 2413	Electrocardiogram
+T86	PROCEDURE 2504 2516	fibrinolysis
+T95	PROCEDURE 2518 2529	Chest X-ray
+T8	PROCEDURE 2630 2658	Transthoracic echocardiogram
+T80	PROCEDURE 2660 2678	vasoactive support
+T91	PROCEDURE 2683 2705	mechanical ventilation
+T96	PROCEDURE 2952 2972	coronary angiography
+T97	PROCEDURE 3107 3127	Coronary angiography
+T98	PROCEDURE 3584 3610	intracoronary vasodilators
+T83	PROCEDURE 3615 3618	ECG
+T89	PROCEDURE 3625 3636	rescue PTCA
+T100	PROCEDURE 3632 3636	PTCA
+T108	PROCEDURE 4381 4392	hypothermia
+T109	PROCEDURE 4394 4408	atropinisation
+T102	PROCEDURE 4461 4497	haemodynamic and ventilatory support
+T103	PROCEDURE 4528 4564	haemodynamic and ventilatory support
+T104	PROCEDURE 4691 4720	continuous haemodiafiltration
+T84	PROCEDURE 4813 4816	ECG
+T110	PROCEDURE 5521 5559	advanced cardiopulmonary resuscitation
+T87	PROCEDURE 5664 5676	Fibrinolysis
+T105	PROCEDURE 5757 5798	Continuous veno-venous haemodiafiltration

@@ -1,0 +1,69 @@
+T10	DISEASE 1072 1099	disnea paroxística nocturna
+T42	DISEASE 6722 6776	VD no dilatado ni hipertrófico con disfunción moderada
+T56	DISEASE 91 109	síndrome depresivo
+T57	DISEASE 172 179	migraña
+T58	DISEASE 181 185	asma
+T59	DISEASE 829 833	asma
+T60	DISEASE 1672 1685	hepatomegalia
+T61	DISEASE 4373 4437	Insuficiencia tricúspide algo excéntrica, de grado leve-moderado
+T62	DISEASE 4821 4857	Insuficiencia mitral (IM) excéntrica
+T63	DISEASE 5374 5431	Insuficiencia tricuspídea (IT) que impresiona de moderada
+T64	DISEASE 5657 5675	Leve hepatomegalia
+T65	DISEASE 5720 5746	Imagen quística en la mama
+T66	DISEASE 6854 6880	miocardiopatía restrictiva
+T67	DISEASE 6914 6937	fibrosis endomiocárdica
+T68	DISEASE 7028 7051	fibrosis endomiocárdica
+T69	DISEASE 7069 7119	fibrosis extensa y engrosamiento grave endocárdico
+T70	DISEASE 7524 7550	congestión venosa hepática
+T71	DISEASE 8129 8151	insuficiencia cardiaca
+T72	DISEASE 8253 8279	miocardiopatía restrictiva
+T73	DISEASE 8402 8424	insuficiencia cardiaca
+T74	DISEASE 8929 8965	bacteriemia por Enterobacter cloacae
+T75	DISEASE 9197 9220	fibrosis endomiocárdica
+T76	DISEASE 9242 9264	trombo laminar en ápex
+T77	DISEASE 9286 9309	fibrosis endomiocárdica
+T78	DISEASE 9445 9466	hipertensión pulmonar
+T79	DISEASE 9578 9596	shock cardiogénico
+T80	DISEASE 9703 9725	insuficiencia cardiaca
+T81	DISEASE 9754 9777	fibrosis endomiocárdica
+T82	DISEASE 9779 9819	Insuficiencia mitral (IM) moderada-grave
+T83	DISEASE 9821 9860	Insuficiencia tricuspídea (IT) moderada
+T84	DISEASE 9862 9897	Hipertensión pulmonar grave grupo 2
+T85	DISEASE 9899 9919	Trombo en ápex de VI
+T86	DISEASE 9921 9939	Shock cardiogénico
+T87	DISEASE 9942 10014	shock séptico asociado secundario a bacteriemia por Enterobacter cloacae
+T88	DISEASE 10016 10072	Síndrome adaptativo con sintomatologia ansioso-depresiva
+T89	DISEASE 1913 1919	BIRDHH
+T90	DISEASE 5508 5530	Dilatación biauricular
+T91	DISEASE 6778 6800	Dilatación biauricular
+T92	DISEASE 6802 6829	IM e IT, al menos moderadas
+T93	DISEASE 8326 8343	IM moderada-grave
+T94	DISEASE 5401 5403	IT
+T95	DISEASE 9848 9850	IT
+T96	DISEASE 9726 9752	Miocardiopatía restrictiva
+T97	DISEASE 7708 7715	Sífilis
+T98	DISEASE 3810 3849	Ventrículo derecho ligeramente dilatado
+T99	DISEASE 36 44	alergias
+T100	DISEASE 5616 5655	derrame pleural bilateral y pericárdico
+T101	DISEASE 8498 8509	hipotensión
+T102	DISEASE 8032 8043	parotiditis
+T103	DISEASE 7755 7762	rubéola
+T104	DISEASE 8008 8017	sarampión
+T105	DISEASE 4974 5022	trombo laminar a lo largo de todo el ápex del VI
+T106	DISEASE 6695 6720	trombo laminar en el ápex
+T107	DISEASE 7155 7161	trombo
+T108	DISEASE 7809 7817	varicela
+T109	DISEASE 3309 3352	ventrículo izquierdo moderadamente dilatado
+T110	DISEASE 3389 3409	disfunción sistólica
+T111	DISEASE 4000 4075	Dilatación moderada-grave de la AI y ligera-moderada de la aurícula derecha
+T112	DISEASE 4843 4845	IM
+T114	DISEASE 5677 5712	Dilatación de la vena cava inferior
+T23	DISEASE 3035 3111	crecimiento fundamentalmente de aurícula izquierda (AI) y ventrículo derecho
+T38	DISEASE 4082 4215	Válvula mitral con velos no claramente engrosados ni calcificados, de apertura conservada y con insuficiencia de grado moderado-grave
+T175	DISEASE 8348 8375	hipertensión pulmonar grave
+#1	AnnotatorNotes T89	 BIRDHH Bloqueo incompleto rama derecha Haz de Hiz
+#2	AnnotatorNotes T92	 IM: insuficiencia mitral; IT : insuficiencia tricuspide
+#3	AnnotatorNotes T93	insuficiencia mitral
+#4	AnnotatorNotes T94	 IT insuficiencia tricuspídea
+#5	AnnotatorNotes T95	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T112	 insuficiencia mitral

@@ -1,0 +1,35 @@
+T14	DISEASE 37 64	Hereditary Cardiomyopathies
+T1	DISEASE 218 230	sudden death
+T25	DISEASE 238 269	complete atrioventricular block
+T2	DISEASE 277 289	complete AVB
+T15	DISEASE 294 316	dilated cardiomyopathy
+T18	DISEASE 327 339	hypertension
+T19	DISEASE 341 358	diabetes mellitus
+T20	DISEASE 362 375	dyslipidaemia
+T21	DISEASE 513 532	atrial fibrillation
+T3	DISEASE 534 536	AF
+T4	DISEASE 542 554	complete AVB
+T5	DISEASE 594 597	DCM
+T6	DISEASE 643 658	Monomorphic SVT
+T24	DISEASE 663 670	syncope
+T7	DISEASE 738 750	complete AVB
+T8	DISEASE 826 838	complete AVB
+T9	DISEASE 909 955	Mild-moderate dilatation of the left ventricle
+T10	DISEASE 1049 1061	sudden death
+T11	DISEASE 1266 1278	complete AVB
+T12	DISEASE 1521 1544	complete paroxysmal AVB
+T28	DISEASE 1578 1596	mild LV dilatation
+T13	DISEASE 1647 1674	Mild-moderate functional MR
+T29	DISEASE 1705 1707	AF
+T23	DISEASE 1735 1743	full BAV
+T30	DISEASE 1790 1792	VT
+T31	DISEASE 1999 2001	AF
+T32	DISEASE 2029 2041	complete AVB
+T22	DISEASE 2431 2450	atrial fibrillation
+T26	DISEASE 2466 2497	complete atrioventricular block
+T16	DISEASE 2499 2564	Familial dilated cardiomyopathy (DCM) with dilated left ventricle
+T33	DISEASE 2532 2535	DCM
+T27	DISEASE 2570 2604	mild-moderate systolic dysfunction
+T34	DISEASE 2679 2691	sudden death
+T35	DISEASE 2693 2705	complete AVB
+T17	DISEASE 2710 2732	dilated cardiomyopathy

@@ -1,0 +1,24 @@
+T1	DISEASE 347 366	infectious symptoms
+T39	DISEASE 491 505	drug allergies
+T38	DISEASE 507 513	Smoker
+T40	DISEASE 539 551	toxic habits
+T25	DISEASE 689 714	pulmonary thromboembolism
+T26	DISEASE 767 787	protein C deficiency
+T30	DISEASE 792 817	antiphospholipid syndrome
+T31	DISEASE 847 867	deep vein thrombosis
+T27	DISEASE 873 926	positive thrombophilia study for protein C deficiency
+T41	DISEASE 1614 1633	myocardial necrosis
+T32	DISEASE 1726 1757	acute pleuropulmonary pathology
+T5	DISEASE 2168 2190	valvular heart disease
+T33	DISEASE 2207 2238	pulmonary arterial hypertension
+T34	DISEASE 2243 2263	pericardial effusion
+T43	DISEASE 2367 2416	Stenosis of 70% of AMD at the expense of thrombus
+T44	DISEASE 2485 2493	thrombus
+T28	DISEASE 3561 3581	protein C deficiency
+T35	DISEASE 3725 3748	ischaemic heart disease
+T42	DISEASE 3920 3934	pre-excitation
+T36	DISEASE 4239 4262	Ischaemic heart disease
+T37	DISEASE 4264 4279	Iamest anterior
+T6	DISEASE 4302 4324	mid-segment thrombosis
+T29	DISEASE 4343 4363	protein C deficiency
+T45	DISEASE 4367 4388	Wolff-Parkinson-White

@@ -1,0 +1,33 @@
+T1	SYMPTOM 120 135	sudden dyspnoea
+T2	SYMPTOM 127 135	dyspnoea
+T20	SYMPTOM 242 307	echo-Doppler of supra-aortic trunks with no pathological findings
+T3	SYMPTOM 612 620	dyspnoea
+T6	SYMPTOM 693 703	orthopnoea
+T7	SYMPTOM 707 736	paroxysmal nocturnal dyspnoea
+T8	SYMPTOM 741 746	cough
+T9	SYMPTOM 748 761	expectoration
+T10	SYMPTOM 765 775	chest pain
+T11	SYMPTOM 807 826	oxygen desaturation
+T4	SYMPTOM 869 903	Jugular venous pressure was normal
+T21	SYMPTOM 905 934	Cardiac auscultation rhythmic
+T12	SYMPTOM 944 951	murmurs
+T13	SYMPTOM 955 965	extratonos
+T22	SYMPTOM 995 1030	hypophonesis in the right lung base
+T23	SYMPTOM 1043 1051	crackles
+T24	SYMPTOM 1055 1062	rhonchi
+T25	SYMPTOM 1075 1100	oedema in the extremities
+T26	SYMPTOM 1382 1400	Coagulation normal
+T14	SYMPTOM 1545 1557	sinus rhythm
+T27	SYMPTOM 1648 1674	repolarisation alterations
+T15	SYMPTOM 1734 1759	Normal cardiac silhouette
+T28	SYMPTOM 1779 1817	loss of volume in the right upper lobe
+T18	SYMPTOM 1914 1953	repletion defects in pulmonary arteries
+T29	SYMPTOM 2025 2082	left ventricle of normal dimensions and systolic function
+T30	SYMPTOM 2092 2130	segmental alterations of contractility
+T17	SYMPTOM 2132 2189	Normal right chambers with preserved ventricular function
+T16	SYMPTOM 2191 2237	Mitral and aortic valves without abnormalities
+T31	SYMPTOM 2239 2269	Hypermobile interatrial septum
+T32	SYMPTOM 2271 2296	Normal pulmonary pressure
+T19	SYMPTOM 2350 2404	massive passage of bubbles from right to left cavities
+T33	SYMPTOM 2592 2687	massive passage of bubbles with agitated physiological saline from the right to the left atrium
+T5	SYMPTOM 3708 3716	dyspnoea

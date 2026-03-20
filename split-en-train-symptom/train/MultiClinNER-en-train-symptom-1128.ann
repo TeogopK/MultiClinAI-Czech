@@ -1,0 +1,26 @@
+T1	SYMPTOM 311 321	chest pain
+T3	SYMPTOM 326 334	dyspnoea
+T5	SYMPTOM 423 452	oppressive central chest pain
+T4	SYMPTOM 518 526	dyspnoea
+T6	SYMPTOM 534 551	vegetative cortex
+T7	SYMPTOM 590 613	haemodynamically stable
+T8	SYMPTOM 673 686	well perfused
+T2	SYMPTOM 710 717	eupneic
+T9	SYMPTOM 722 744	good general condition
+T10	SYMPTOM 746 755	conscious
+T11	SYMPTOM 760 768	oriented
+T12	SYMPTOM 770 814	Carotid pulses were rhythmic and symmetrical
+T21	SYMPTOM 824 843	jugular engorgement
+T13	SYMPTOM 886 908	aortic systolic murmur
+T14	SYMPTOM 946 975	normal pulmonary auscultation
+T22	SYMPTOM 990 1041	oedema in the lower limbs and pulses were preserved
+T15	SYMPTOM 1104 1114	narrow QRS
+T23	SYMPTOM 1116 1125	left axis
+T16	SYMPTOM 1266 1283	ionic alterations
+T24	SYMPTOM 1285 1315	liver profile within normality
+T17	SYMPTOM 1408 1420	leukocytosis
+T18	SYMPTOM 1424 1436	neutrophilia
+T25	SYMPTOM 1576 1627	Left ventricular ejection fraction (LVEF) preserved
+T19	SYMPTOM 1639 1669	normal segmental contractility
+T26	SYMPTOM 1695 1722	Normal right ventricle (RV)
+T20	SYMPTOM 2915 2935	ST-segment elevation

@@ -1,0 +1,16 @@
+T11	PROCEDURE 422 450	gastrointestinal examination
+T4	PROCEDURE 452 463	gastroscopy
+T5	PROCEDURE 465 476	colonoscopy
+T6	PROCEDURE 478 491	echoendoscopy
+T1	PROCEDURE 527 547	physical examination
+T3	PROCEDURE 626 636	ultrasound
+T12	PROCEDURE 897 933	positive bilateral transillumination
+T8	PROCEDURE 1032 1052	Remote imaging tests
+T13	PROCEDURE 1054 1056	CT
+T14	PROCEDURE 1058 1061	MRI
+T19	PROCEDURE 1078 1101	Germinal tumour markers
+T15	PROCEDURE 1144 1177	Left inguinal radical orchiectomy
+T9	PROCEDURE 1197 1220	macroscopic description
+T2	PROCEDURE 1447 1467	Microscopic analysis
+T7	PROCEDURE 2225 2255	Immunohistochemical techniques
+T10	PROCEDURE 2780 2806	serum and imaging controls

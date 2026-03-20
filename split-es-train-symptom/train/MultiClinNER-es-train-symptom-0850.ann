@@ -1,0 +1,50 @@
+T1	SYMPTOM 428 442	dolor torácico
+T2	SYMPTOM 711 717	disnea
+T3	SYMPTOM 719 726	astenia
+T4	SYMPTOM 728 736	anorexia
+T5	SYMPTOM 739 754	pérdida de peso
+T6	SYMPTOM 791 799	ortopnea
+T7	SYMPTOM 803 839	edematización de miembros inferiores
+T9	SYMPTOM 871 884	palpitaciones
+T10	SYMPTOM 1042 1064	elevación del NTproBNP
+T11	SYMPTOM 1371 1381	Consciente
+T12	SYMPTOM 1383 1392	orientado
+T13	SYMPTOM 1394 1408	normocoloreado
+T14	SYMPTOM 1433 1442	arrítmico
+T15	SYMPTOM 1447 1453	soplos
+T16	SYMPTOM 1511 1538	Abdomen blando, no doloroso
+T17	SYMPTOM 1544 1549	masas
+T18	SYMPTOM 1554 1562	megalias
+T19	SYMPTOM 1564 1587	persistalsis conservada
+T20	SYMPTOM 1589 1624	Extremidades inferiores: sin edemas
+T21	SYMPTOM 2022 2050	Anti DNA y antiENA negativos
+T24	SYMPTOM 2600 2632	Contractilidad global conservada
+T25	SYMPTOM 2999 3033	Cava y suprahepáticas no dilatadas
+T27	SYMPTOM 4401 4441	Leve engrosamiento suprarrenal bilateral
+T28	SYMPTOM 4990 5019	líquido libre intraperitoneal
+T30	SYMPTOM 5225 5232	astenia
+T31	SYMPTOM 5234 5242	anorexia
+T32	SYMPTOM 5245 5260	pérdida de peso
+T33	SYMPTOM 5576 5617	artralgias migratorias (en codos y hombro
+T34	SYMPTOM 5628 5660	febrícula persistente vespertina
+T35	SYMPTOM 5686 5695	hematuria
+T36	SYMPTOM 5698 5709	proteinuria
+T37	SYMPTOM 5723 5743	función renal normal
+T38	SYMPTOM 5858 5867	epistaxis
+T39	SYMPTOM 6094 6123	afectación del estado general
+T40	SYMPTOM 6259 6300	autoanticuerpos P-ANCA y C-ANCA positivos
+T8	SYMPTOM 2185 2210	Hiperinsuflación pulmonar
+T104	SYMPTOM 2212 2264	Pinzamiento residual del seno costofrénico izquierdo
+T143	SYMPTOM 2281 2319	infiltrados parenquimatosos pulmonares
+T144	SYMPTOM 2943 2997	Válvula mitral (VM) de aspecto y funcionamiento normal
+T26	SYMPTOM 4185 4234	Hígado homogéneo, de tamaño y morfología normales
+T145	SYMPTOM 4337 4365	Vía biliar de calibre normal
+T146	SYMPTOM 4367 4399	Páncreas y bazo sin alteraciones
+T147	SYMPTOM 4467 4506	Riñones de tamaño y morfología normales
+T149	SYMPTOM 1493 1509	normoventilación
+T153	SYMPTOM 7334 7369	Estable clínica y hemodinámicamente
+T169	SYMPTOM 2429 2443	bajos voltajes
+T178	SYMPTOM 2094 2110	microalbuminuria
+T29	SYMPTOM 6221 6256	elevación significativa de PCR, VSG
+T148	SYMPTOM 3088 3098	PPs normal
+T154	SYMPTOM 4011 4046	burbuja a nivel del líquido pleural

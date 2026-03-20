@@ -1,0 +1,47 @@
+T27	PROCEDURE 365 375	blood test
+T1	PROCEDURE 601 612	Chest X-ray
+T30	PROCEDURE 697 705	Chest CT
+T8	PROCEDURE 950 971	transbronchial biopsy
+T9	PROCEDURE 999 1010	lung biopsy
+T14	PROCEDURE 1058 1076	histological study
+T34	PROCEDURE 1110 1145	microbiological study of the biopsy
+T10	PROCEDURE 1387 1419	bilateral bronchoalveolar lavage
+T3	PROCEDURE 1430 1452	orotracheal intubation
+T39	PROCEDURE 1454 1491	the patient was sedated with propofol
+T28	PROCEDURE 1493 1522	given analgesia with fentanyl
+T40	PROCEDURE 1527 1555	relaxed with succinylcholine
+T16	PROCEDURE 1557 1628	Intubation was performed with a left Mallinckrodt 39F double-lumen tube
+T29	PROCEDURE 1630 1708	We checked the location of the tube by means of a paediatric fibrobronchoscope
+T42	PROCEDURE 1731 1755	kept sedated and relaxed
+T7	PROCEDURE 1761 1811	continuous perfusion of propofol and cisatracurium
+T31	PROCEDURE 1813 1883	We initially ventilated the patient for 30 minutes in pressure control
+T22	PROCEDURE 1931 1963	positive end-expiratory pressure
+T23	PROCEDURE 1965 1969	PEEP
+T32	PROCEDURE 2134 2185	We then measured the static compliance of each lung
+T4	PROCEDURE 2277 2300	lavage in the left lung
+T17	PROCEDURE 2368 2383	supine position
+T33	PROCEDURE 2389 2454	lavage was performed with isotonic saline solution heated to 37ºC
+T35	PROCEDURE 2456 2555	We infused one litre from a height of 30-40 cm above the patient and drained the patient by gravity
+T11	PROCEDURE 2711 2719	drainage
+T36	PROCEDURE 2721 2774	thoracic percussion was performed on the lavaged lung
+T18	PROCEDURE 2794 2823	lavage in the supine position
+T25	PROCEDURE 2967 3008	patient was then placed in prone position
+T19	PROCEDURE 3052 3058	supine
+T12	PROCEDURE 3152 3160	drainage
+T37	PROCEDURE 3186 3206	lavage the left lung
+T38	PROCEDURE 3259 3275	left lung lavage
+T41	PROCEDURE 3277 3326	we ventilated both lungs in pressure control mode
+T24	PROCEDURE 3343 3347	PEEP
+T5	PROCEDURE 3498 3521	ventilate the left lung
+T43	PROCEDURE 3561 3578	right lung lavage
+T6	PROCEDURE 3669 3693	lavage of the right lung
+T26	PROCEDURE 3706 3720	prone position
+T50	PROCEDURE 3743 3748	drain
+T20	PROCEDURE 3837 3852	supine position
+T13	PROCEDURE 3933 3941	drainage
+T15	PROCEDURE 3963 3985	mechanical ventilation
+T44	PROCEDURE 4082 4142	we changed the double lumen tube to a standard number 8 tube
+T45	PROCEDURE 4147 4168	started disconnecting
+T21	PROCEDURE 4194 4207	was extubated
+T2	PROCEDURE 4262 4273	chest X-ray
+T46	PROCEDURE 4437 4454	Sequential lavage

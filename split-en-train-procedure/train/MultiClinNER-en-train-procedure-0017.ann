@@ -1,0 +1,16 @@
+T1	PROCEDURE 205 207	HD
+T13	PROCEDURE 255 271	renal transplant
+T2	PROCEDURE 349 351	HD
+T5	PROCEDURE 365 381	transplantectomy
+T7	PROCEDURE 405 420	vascular access
+T10	PROCEDURE 464 466	PD
+T11	PROCEDURE 660 662	PD
+T16	PROCEDURE 853 864	examination
+T9	PROCEDURE 1081 1101	Radiological imaging
+T8	PROCEDURE 1228 1248	antibiotic treatment
+T20	PROCEDURE 1271 1294	PD catheter was removed
+T3	PROCEDURE 1316 1333	transferred to HD
+T4	PROCEDURE 1408 1410	HD
+T6	PROCEDURE 1533 1545	paracentesis
+T21	PROCEDURE 1652 1702	Surgical treatment of the peritoneal calcification
+T12	PROCEDURE 1707 1739	amputation of the ischaemic limb

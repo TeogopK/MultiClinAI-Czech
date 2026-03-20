@@ -1,0 +1,45 @@
+T2	SYMPTOM 727 825	dolor torácico opresivo de gran intensidad, que inició en reposo, que se irradia a brazo izquierdo
+T3	SYMPTOM 970 975	dolor
+T4	SYMPTOM 1026 1062	opresión precordial con el ejercicio
+T6	SYMPTOM 1199 1206	afebril
+T7	SYMPTOM 1208 1223	normoperfundido
+T8	SYMPTOM 1246 1260	dolor torácico
+T9	SYMPTOM 1352 1369	Cuello: simétrico
+T10	SYMPTOM 1374 1395	ingurgitación yugular
+T11	SYMPTOM 1426 1432	soplos
+T12	SYMPTOM 1486 1512	ruidos cardiacos regulares
+T13	SYMPTOM 1517 1523	soplos
+T14	SYMPTOM 1526 1536	extratonos
+T15	SYMPTOM 1561 1588	murmullo vesicular presente
+T16	SYMPTOM 1618 1638	ruidos sobreañadidos
+T17	SYMPTOM 1640 1670	Exploración abdominal: anodina
+T18	SYMPTOM 1672 1703	Miembros inferiores: simétricas
+T19	SYMPTOM 1726 1732	edemas
+T20	SYMPTOM 2526 2539	ritmo sinusal
+T21	SYMPTOM 2552 2571	intervalo PR normal
+T22	SYMPTOM 2573 2585	QRS estrecho
+T24	SYMPTOM 2606 2667	elevación del segmento ST de hasta 3 mm en cara anterolateral
+T25	SYMPTOM 3568 3605	ventrículo izquierdo (VI) no dilatado
+T26	SYMPTOM 4611 4671	niveles de metanefrinas y metanefrinas en orina son normales
+T27	SYMPTOM 4717 4747	elevación de la normetanefrina
+T28	SYMPTOM 5006 5031	elevación del segmento ST
+T29	SYMPTOM 5484 5496	asintomático
+T30	SYMPTOM 6045 6079	tóxicos en orina que son negativos
+T1	SYMPTOM 324 382	hipercolesterolemia familiar con estudio genético positivo
+T5	SYMPTOM 1399 1419	reflujo hepatoyugula
+T23	SYMPTOM 3610 3659	acinesia extensa anterior, anteroseptal y lateral
+T62	SYMPTOM 4032 4092	Estudio genético para hipercolesterolemia familiar: negativo
+T105	SYMPTOM 6650 6699	acinesia extensa anterior, anteroseptal y lateral
+T109	SYMPTOM 2365 2384	Coagulación: normal
+T125	SYMPTOM 2587 2597	eje normal
+T106	SYMPTOM 2763 2786	Arteria Cx sin lesiones
+T108	SYMPTOM 2724 2747	arteria CD sin lesiones
+T110	SYMPTOM 2421 2504	orina: benzodiacepinas, opiáceos, cocaína, cannabinoides y metanfetaminas negativas
+T111	SYMPTOM 155 162	Delgado
+T112	SYMPTOM 876 894	clínica vegetativa
+T113	SYMPTOM 1590 1612	campos bien ventilados
+T118	SYMPTOM 4404 4440	anticardiolipina IgG e IgM negativos
+T119	SYMPTOM 4491 4534	antibeta2 glicoproteína IgM e IgG negativas
+T121	SYMPTOM 5930 5972	valores de colesterol total o LDL elevados
+T122	SYMPTOM 6098 6153	estudio de coagulopatías que resultan también negativos
+T123	SYMPTOM 6360 6403	lipoproteína A (Lp(a)), que resulta elevada

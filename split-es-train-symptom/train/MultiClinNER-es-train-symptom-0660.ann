@@ -1,0 +1,10 @@
+T1	SYMPTOM 218 233	pérdida de peso
+T2	SYMPTOM 235 244	hiporexia
+T3	SYMPTOM 249 255	fiebre
+T4	SYMPTOM 192 202	odinofagia
+T5	SYMPTOM 123 163	disfagia a sólidos y líquidos progresiva
+T6	SYMPTOM 296 338	región supracardial, una mucosa irregular,
+T7	SYMPTOM 446 484	estenosis parcial de la luz esofágica,
+T8	SYMPTOM 1042 1047	masas
+A1	RESULTADO T6
+A2	RESULTADO T7

@@ -1,0 +1,78 @@
+T1	SYMPTOM 116 125	fallecido
+T2	SYMPTOM 743 757	dolor torácico
+T3	SYMPTOM 792 821	dolor centrotorácico opresivo
+T4	SYMPTOM 920 938	cortejo vegetativo
+T5	SYMPTOM 1086 1093	vómitos
+T6	SYMPTOM 1096 1119	deposiciones diarreicas
+T7	SYMPTOM 1147 1152	dolor
+T8	SYMPTOM 1294 1329	dolor de mayor intensidad, punzante
+T9	SYMPTOM 1426 1444	cortejo vegetativo
+T10	SYMPTOM 1450 1459	febrícula
+T11	SYMPTOM 1658 1663	dolor
+T12	SYMPTOM 1768 1790	molestias precordiales
+T13	SYMPTOM 1868 1876	ansiedad
+T14	SYMPTOM 1992 2028	elevación de troponina ultrasensible
+T15	SYMPTOM 2095 2155	elevación difusa del segmento ST en cara inferior y anterior
+T16	SYMPTOM 2221 2298	ventrículo izquierdo no dilatado ni hipertrófico, con aquinesia septal apical
+T17	SYMPTOM 2526 2550	Aceptable estado general
+T18	SYMPTOM 2552 2566	normohidratada
+T19	SYMPTOM 2568 2583	normoperfundida
+T20	SYMPTOM 2585 2603	eupneica en reposo
+T21	SYMPTOM 2609 2630	ingurgitación yugular
+T22	SYMPTOM 2632 2662	Auscultación cardiaca: rítmica
+T23	SYMPTOM 2668 2674	soplos
+T24	SYMPTOM 2699 2748	murmullo vesicular conservado en todos los campos
+T25	SYMPTOM 2754 2774	ruidos sobreañadidos
+T26	SYMPTOM 2776 2806	Miembros inferiores: sin edema
+T27	SYMPTOM 2849 2871	buena perfusión distal
+T28	SYMPTOM 2873 2890	pulsos simétricos
+T29	SYMPTOM 3432 3448	hemograma normal
+T30	SYMPTOM 3450 3480	función renal e iones normales
+T31	SYMPTOM 3507 3528	Procalcitonina normal
+T32	SYMPTOM 3561 3574	ritmo sinusal
+T33	SYMPTOM 3598 3610	QRS estrecho
+T35	SYMPTOM 3624 3648	Onda R amputada en V4-V5
+T36	SYMPTOM 3650 3698	Elevación difusa del ST en V2-V5 y cara inferior
+T37	SYMPTOM 3734 3747	ritmo sinusal
+T38	SYMPTOM 3771 3783	QRS estrecho
+T39	SYMPTOM 3785 3795	eje normal
+T40	SYMPTOM 3797 3846	elevación del segmento ST en V2-5 y cara inferior
+T41	SYMPTOM 4043 4066	redistribución vascular
+T42	SYMPTOM 4072 4098	opacidades parenquimatosas
+T43	SYMPTOM 4156 4204	Serología SARS-CoV-2: IgG negativo; IgM positivo
+T45	SYMPTOM 4254 4344	ventrículo izquierdo no dilatado, no hipertrófico, con función sistólica global conservada
+T47	SYMPTOM 4525 4570	Ventrículo derecho de tamaño y función normal
+T48	SYMPTOM 4648 4674	Aurículas de tamaño normal
+T50	SYMPTOM 7472 7562	ventrículo izquierdo no dilatado, no hipertrófico, con función sistólica global conservada
+T52	SYMPTOM 7723 7768	Ventrículo derecho de tamaño y función normal
+T53	SYMPTOM 7770 7796	Aurículas de tamaño normal
+T56	SYMPTOM 8971 8983	asintomática
+T57	SYMPTOM 9001 9026	hemodinámicamente estable
+T58	SYMPTOM 9316 9358	molestias torácicas de perfil inflamatorio
+T60	SYMPTOM 11207 11267	Función sistólica global del ventrículo izquierdo conservada
+T34	SYMPTOM 3851 3878	negativización de la onda T
+T44	SYMPTOM 4346 4475	Aquinesia del ápex y de los segmentos apicales de septo inferior y cara inferior, y del segmento apical y medio de septo anterior
+T46	SYMPTOM 4572 4646	Aquinesia del segmento más apical de la pared libre del ventrículo derecho
+T175	SYMPTOM 4857 4895	Coronarias con origen anatómico normal
+T51	SYMPTOM 7564 7605	Acinesia de los segmentos apicales y ápex
+T176	SYMPTOM 8080 8122	resultado positivo de la PCR de Sars-Cov-2
+T179	SYMPTOM 11171 11187	Aquinesia apical
+T182	SYMPTOM 4897 4915	Dominancia derecha
+T194	SYMPTOM 9364 9399	aumento de reactantes de fase aguda
+T206	SYMPTOM 3153 3174	iones en rango normal
+T214	SYMPTOM 6063 6079	CX: sin lesiones
+T215	SYMPTOM 6327 6372	Tronco coronario izquierdo (TCI) sin lesiones
+T240	SYMPTOM 4002 4028	senos costofrénicos libres
+T183	SYMPTOM 5784 5804	Tronco: sin lesiones
+T187	SYMPTOM 1012 1058	electrocardiograma que no muestra alteraciones
+T188	SYMPTOM 3612 3622	eje normal
+T191	SYMPTOM 3940 4000	índice cardiotorácico dentro de los límites de la normalidad
+T192	SYMPTOM 4100 4154	PCR SARS-CoV-2 al ingreso y a los 8 días: indetectable
+T193	SYMPTOM 4917 4988	Tronco de la coronaria izquierda: vaso de buen desarrollo, sin lesiones
+T197	SYMPTOM 5244 5294	Diagonales: 2 de moderado desarrollo, sin lesiones
+T198	SYMPTOM 5328 5383	Circunfleja (CX): vaso de buen desarrollo, sin lesiones
+T200	SYMPTOM 5494 5565	Coronaria derecha (CD): vaso dominante de buen desarrollo, sin lesiones
+T201	SYMPTOM 5567 5630	Descendente posterior (IVP): de escaso desarrollo, sin lesiones
+T202	SYMPTOM 6096 6109	CD: dominante
+T205	SYMPTOM 6896 6964	Circunfleja de buen calibre y desarrollo sin lesiones significativas
+T207	SYMPTOM 6966 7050	Coronaria derecha dominante de buen calibre y desarrollo sin lesiones significativas

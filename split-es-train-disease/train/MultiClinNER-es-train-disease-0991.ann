@@ -1,0 +1,46 @@
+T26	DISEASE 3209 3245	Válvula mitral ligeramente engrosada
+T58	DISEASE 137 151	asma bronquial
+T59	DISEASE 211 239	trombosis venosa superficial
+T60	DISEASE 890 903	valvulopatías
+T61	DISEASE 923 942	derrame pericárdico
+T62	DISEASE 961 982	cardiopatía isquémica
+T63	DISEASE 1203 1245	hipertrofia ventricular izquierda moderada
+T64	DISEASE 2760 2775	angor inestable
+T65	DISEASE 2905 2947	hipertrofia ventricular izquierda moderada
+T66	DISEASE 3275 3305	insuficiencia mitral (IM) leve
+T67	DISEASE 5644 5674	Insuficiencia tricuspídea leve
+T68	DISEASE 5708 5727	derrame pericardico
+T69	DISEASE 5802 5880	VI pequeño con hipertrofia parietal concéntrica leve y moderada a nivel septal
+T70	DISEASE 6229 6282	calcificación del anillo posterior mitral con IM leve
+T71	DISEASE 6284 6319	Insuficiencia tricuspídea (IT) leve
+T72	DISEASE 6375 6401	Hipertensión pulmonar leve
+T73	DISEASE 6517 6536	derrame pericárdico
+T74	DISEASE 6631 6646	angor inestable
+T75	DISEASE 7218 7231	tirotoxicosis
+T76	DISEASE 7484 7504	cuadro hipertiroideo
+T77	DISEASE 7592 7620	enfermedad de Graves-Basedow
+T78	DISEASE 7997 8019	síndrome de tako-tsubo
+T79	DISEASE 8044 8068	hipertiroidismo primario
+T80	DISEASE 8201 8218	angor de esfuerzo
+T81	DISEASE 8339 8361	Síndrome de tako-tsubo
+T82	DISEASE 8413 8441	enfermedad de Graves-Basedow
+T83	DISEASE 3158 3195	Aurícula izquierda dilatada levemente
+T84	DISEASE 6171 6208	Aurícula izquierda dilatada levemente
+T85	DISEASE 5556 5593	Aurícula izquierda levemente dilatada
+T86	DISEASE 6311 6313	IT
+T87	DISEASE 3387 3425	Regurgitación tricúspide leve-moderada
+T88	DISEASE 3256 3259	SAM
+T89	DISEASE 5513 5539	SAM que condiciona IM leve
+T90	DISEASE 6403 6428	Válvula aortica esclerosa
+T91	DISEASE 5089 5102	cardiomegalia
+T92	DISEASE 4811 4826	daño miocárdico
+T93	DISEASE 6727 6747	hipotensión arterial
+T94	DISEASE 745 783	ventrículo izquierdo (VI) hipertrófico
+T95	DISEASE 5209 5260	VI no dilatado con hipertrofia concéntrica moderada
+T25	DISEASE 3299 3300	)
+T42	DISEASE 7526 7542	linfomonocitosis
+T53	DISEASE 8375 8399	hipertiroidismo primario
+#1	AnnotatorNotes T86	  insuficiencia tricuspide
+#2	AnnotatorNotes T88	SAM: movimiento anterior sistólico
+#3	AnnotatorNotes T89	  SAM: movimiento anterior sistólico, IM: insuficiencia mitral
+#4	AnnotatorNotes T25	insuficiencia mitral

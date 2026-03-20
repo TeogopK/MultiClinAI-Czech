@@ -1,0 +1,20 @@
+T1	SYMPTOM 1060 1069	lumbalgia
+T2	SYMPTOM 547 602	masa de color marrón-negro en tercio superior esofágico
+T3	SYMPTOM 414 454	efecto masa en tercio superior esofágico
+T4	SYMPTOM 954 968	masa esofágica
+T5	SYMPTOM 1140 1159	disfagia a líquidos
+T6	SYMPTOM 1200 1218	mal estado general
+T7	SYMPTOM 1220 1245	hemodinámicamente estable
+T8	SYMPTOM 1248 1255	afebril
+T9	SYMPTOM 227 239	lumbociática
+T10	SYMPTOM 283 314	sensación de nudo retroesternal
+T11	SYMPTOM 1331 1387	dolor muy importante a la palpación de la columna dorsal
+T12	SYMPTOM 338 353	pérdida de peso
+T13	SYMPTOM 793 843	Gammagrafía ósea y marcadores tumorales: negativos
+T14	SYMPTOM 1894 1935	masa tumoral en tercio superior esofágico
+T15	SYMPTOM 316 335	disfagia progresiva
+T16	SYMPTOM 1074 1102	imposibilita la deambulación
+A1	RESULTADO T2
+A2	IMAGEN T3
+A3	RESULTADO T13
+A4	IMAGEN T14

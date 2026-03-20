@@ -1,0 +1,19 @@
+T15	PROCEDURE 259 299	resection of 150 cm of jejunum and ileum
+T2	PROCEDURE 406 438	upper gastrointestinal endoscopy
+T3	PROCEDURE 534 545	Colonoscopy
+T19	PROCEDURE 627 645	capsule endoscopic
+T9	PROCEDURE 778 790	transfusions
+T13	PROCEDURE 792 813	capsule and endoscopy
+T14	PROCEDURE 804 813	endoscopy
+T21	PROCEDURE 851 893	Scintigraphy with labelled red blood cells
+T4	PROCEDURE 995 1017	mesenteric angiography
+T7	PROCEDURE 1075 1135	arteriovenous fistula and performing embolisation with coils
+T6	PROCEDURE 1231 1241	laparotomy
+T11	PROCEDURE 1280 1291	anastomosis
+T8	PROCEDURE 1317 1329	embolisation
+T27	PROCEDURE 1337 1359	resection of the ileum
+T12	PROCEDURE 1441 1453	intervention
+T1	PROCEDURE 1644 1671	red blood cell concentrates
+T10	PROCEDURE 1957 1969	transfusions
+T5	PROCEDURE 2131 2145	electromyogram
+T34	PROCEDURE 2215 2238	anticoagulant treatment

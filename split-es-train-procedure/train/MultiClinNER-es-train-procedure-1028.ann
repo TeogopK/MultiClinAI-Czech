@@ -1,0 +1,74 @@
+T78	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDURE 718 722	AINE
+T80	PROCEDURE 1262 1281	ecografía abdominal
+T81	PROCEDURE 1360 1369	hemograma
+T82	PROCEDURE 1420 1439	ecografía abdominal
+T83	PROCEDURE 1553 1571	TC toracoabdominal
+T84	PROCEDURE 1692 1720	ecocardiograma transtorácico
+T85	PROCEDURE 1924 1956	tratamiento antibiótico empírico
+T86	PROCEDURE 2044 2056	hemocultivos
+T87	PROCEDURE 2189 2218	ecocardiograma transesofágico
+T88	PROCEDURE 2512 2540	ecocardiograma transtorácico
+T89	PROCEDURE 2634 2656	estudios cardiológicos
+T90	PROCEDURE 2659 2677	Exploración física
+T91	PROCEDURE 2877 2888	hidratación
+T92	PROCEDURE 3105 3126	Auscultación pulmonar
+T93	PROCEDURE 3202 3223	Auscultación cardiaca
+T94	PROCEDURE 4352 4361	Hemograma
+T95	PROCEDURE 4563 4574	Coagulación
+T96	PROCEDURE 4707 4719	Hemocultivos
+T97	PROCEDURE 4885 4907	ECG de 12 derivaciones
+T98	PROCEDURE 5201 5221	Radiografía de tórax
+T99	PROCEDURE 5538 5557	Ecografía abdominal
+T100	PROCEDURE 5816 5834	TC toracoabdominal
+T101	PROCEDURE 6315 6343	Ecocardiograma transtorácico
+T102	PROCEDURE 7293 7322	Ecocardiograma transesofágico
+T103	PROCEDURE 7324 7327	ETE
+T104	PROCEDURE 7848 7859	TC cardiaco
+T105	PROCEDURE 8182 8193	TC cerebral
+T107	PROCEDURE 8924 8981	Tomografía de emisión de positrones con 18F-desoxiglucosa
+T108	PROCEDURE 9285 9308	tratamiento antibiótico
+T109	PROCEDURE 10156 10197	Angio-RMN cerebral: en la secuencia FLAIR
+T110	PROCEDURE 10721 10723	TC
+T111	PROCEDURE 10921 10929	angio-RM
+T112	PROCEDURE 11110 11190	Arteriografía cerebral: se identifica mediante arteriografía desde ACI izquierda
+T114	PROCEDURE 11337 11349	angiográfico
+T115	PROCEDURE 11428 11458	ecocardiografía transesofágica
+T116	PROCEDURE 11469 11480	TC cardiaca
+T118	PROCEDURE 12215 12227	TC de cráneo
+T119	PROCEDURE 12356 12362	PET-TC
+T121	PROCEDURE 12864 12882	angio-RMN cerebral
+T122	PROCEDURE 12888 12901	arteriografía
+T123	PROCEDURE 13130 13143	esplenectomía
+T124	PROCEDURE 13386 13398	embolización
+T125	PROCEDURE 13411 13440	esplenectomía por laparotomía
+T127	PROCEDURE 13514 13527	esplenectomía
+T128	PROCEDURE 13587 13653	resección de la válvula aórtica con implante de prótesis biológica
+T130	PROCEDURE 13729 13748	ETE intraoperatorio
+T131	PROCEDURE 14040 14075	tratamiento antibiótico intravenoso
+T133	PROCEDURE 14573 14630	trasfusiones repetidas de varios concentrados de hematíes
+T134	PROCEDURE 14766 14777	hidratación
+T135	PROCEDURE 15001 15029	drenaje de absceso abdominal
+T136	PROCEDURE 15112 15135	incisión de laparotomía
+T138	PROCEDURE 15700 15729	Esplenectomía por laparotomía
+T140	PROCEDURE 15744 15774	drenaje de colección purulenta
+T141	PROCEDURE 15943 15956	arteriografía
+T142	PROCEDURE 16119 16129	diuréticos
+T186	PROCEDURE 8983 8988	PETTC
+T61	PROCEDURE 12906 13006	embolización del aneurisma micótico que afectaba a la rama M2 de la arteria cerebral media izquierda
+T213	PROCEDURE 13279 13304	circulación extracorpórea
+T126	PROCEDURE 15413 15464	Remplazo valvular aórtico por prótesis biológica St
+T129	PROCEDURE 15890 15933	Embolización de aneurisma micótico cerebral
+T244	PROCEDURE 3831 3849	Analítica completa
+T246	PROCEDURE 3893 3903	Bioquímica
+T247	PROCEDURE 13306 13309	CEC
+T248	PROCEDURE 8499 8502	CIV
+T265	PROCEDURE 1250 1259	analítica
+T266	PROCEDURE 1289 1299	bioquímica
+T269	PROCEDURE 14928 14945	cirugía abdominal
+T278	PROCEDURE 2486 2497	exploración
+T287	PROCEDURE 13703 13715	intervención
+T139	PROCEDURE 2984 2999	Cabeza y cuello
+T26	PROCEDURE 3364 3371	Abdomen
+T113	PROCEDURE 11196 11300	pseudoaneurisma en rama M2.Se emboliza con técnica se sandwich con coils distales y proximales al cuello
+T120	PROCEDURE 13326 13340	heparinización

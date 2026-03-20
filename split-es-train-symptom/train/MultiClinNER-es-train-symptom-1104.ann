@@ -1,0 +1,34 @@
+T1	SYMPTOM 508 523	dolor abdominal
+T2	SYMPTOM 664 677	ritmo sinusal
+T5	SYMPTOM 2441 2481	pruebas de función respiratoria normales
+T7	SYMPTOM 2881 2889	cianosis
+T9	SYMPTOM 3185 3229	comportamiento normal de la tensión arterial
+T10	SYMPTOM 4708 4742	sensación de gorgoteo en hemitórax
+T11	SYMPTOM 4893 4903	hemoptisis
+T12	SYMPTOM 5115 5140	hemodinámicamente estable
+T13	SYMPTOM 5369 5382	ritmo sinusal
+T14	SYMPTOM 5393 5402	PR normal
+T17	SYMPTOM 6342 6395	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T18	SYMPTOM 6400 6425	función global conservada
+T20	SYMPTOM 7207 7240	flujo sistólico derecha-izquierda
+T21	SYMPTOM 7403 7428	hemodinámicamente estable
+T22	SYMPTOM 7481 7491	hemoptisis
+T23	SYMPTOM 8250 8260	hemoptisis
+T110	SYMPTOM 3889 3895	disnea
+T111	SYMPTOM 695 728	eje del QRS derivado a la derecha
+T112	SYMPTOM 859 901	alteraciones de la repolarización de V1-V4
+T3	SYMPTOM 1476 1522	presión arterial pulmonar media (PAPm) elevada
+T4	SYMPTOM 1525 1562	presión capilar pulmonar (PCP) normal
+T8	SYMPTOM 4680 4690	hemoptisis
+T15	SYMPTOM 5469 5530	alteraciones secundarias de la repolarización en precordiales
+T16	SYMPTOM 6547 6581	válvula mitral es normofuncionante
+T19	SYMPTOM 8534 8599	Función del ventrículo derecho en el límite bajo de la normalidad
+T127	SYMPTOM 6427 6446	aplanamiento septal
+T158	SYMPTOM 6963 6993	vena cava inferior no dilatada
+T118	SYMPTOM 1008 1072	prominencia de las arterias pulmonares y del cayado de la ácigos
+T121	SYMPTOM 2275 2312	reapertura del DAP con flujo residual
+T124	SYMPTOM 2586 2610	desaturaciones nocturnas
+T130	SYMPTOM 3080 3178	ergoespirometría presenta una clase funcional I con una capacidad funcional moderadamente reducida
+T45	SYMPTOM 5404 5415	eje derecho
+T117	SYMPTOM 6297 6335	prominencia de las arterias pulmonares
+T123	SYMPTOM 6463 6495	sobrecarga de presiones derechas

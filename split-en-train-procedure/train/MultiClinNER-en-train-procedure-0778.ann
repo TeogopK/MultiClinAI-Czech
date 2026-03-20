@@ -1,0 +1,29 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T3	PROCEDURE 292 317	ischaemia detection tests
+T82	PROCEDURE 328 350	surgical interventions
+T4	PROCEDURE 352 364	appendectomy
+T63	PROCEDURE 1429 1449	Physical examination
+T64	PROCEDURE 1639 1651	auscultation
+T65	PROCEDURE 1813 1830	Electrocardiogram
+T6	PROCEDURE 1960 1976	Laboratory tests
+T81	PROCEDURE 1978 1990	biochemistry
+T66	PROCEDURE 2026 2038	electrolytes
+T7	PROCEDURE 2049 2058	Haemogram
+T8	PROCEDURE 2089 2111	Serial cardiac enzymes
+T67	PROCEDURE 2133 2144	Chest X-ray
+T68	PROCEDURE 2241 2271	Transthoracic echocardiography
+T69	PROCEDURE 2843 2866	Cardiac catheterisation
+T70	PROCEDURE 3086 3097	aortography
+T71	PROCEDURE 3167 3184	Coronary angio-CT
+T73	PROCEDURE 3665 3706	Doppler ultrasound of supra-aortic trunks
+T13	PROCEDURE 4012 4051	a test to detect intermediate ischaemia
+T74	PROCEDURE 4093 4104	stress test
+T76	PROCEDURE 4256 4259	ECG
+T77	PROCEDURE 4342 4369	direct coronary angiography
+T75	PROCEDURE 4395 4406	stress test
+T79	PROCEDURE 4412 4427	catheterisation
+T72	PROCEDURE 4703 4720	coronary angio-CT
+T84	PROCEDURE 5251 5263	intervention
+T80	PROCEDURE 5312 5397	dissection and reanostomosis of the right coronary artery to the right coronary sinus
+T83	PROCEDURE 5936 5957	Surgical intervention
+T16	PROCEDURE 5963 6051	reanastomosis of the right coronary artery to the aortic coronary sinus on the same side

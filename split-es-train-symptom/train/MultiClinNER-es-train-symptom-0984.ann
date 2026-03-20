@@ -1,0 +1,59 @@
+T3	SYMPTOM 1359 1365	disnea
+T4	SYMPTOM 1466 1498	Funciones superiores conservadas
+T5	SYMPTOM 1534 1563	disnea a esfuerzos habituales
+T6	SYMPTOM 1836 1850	dolor torácico
+T7	SYMPTOM 1867 1914	disnea basal hasta hacerse de mínimos esfuerzos
+T8	SYMPTOM 1930 1938	ortopnea
+T9	SYMPTOM 1950 1977	disnea paroxística nocturna
+T10	SYMPTOM 2015 2044	edemas en miembros inferiores
+T11	SYMPTOM 2096 2121	estable hemodinámicamente
+T12	SYMPTOM 2134 2153	taquipnea de reposo
+T13	SYMPTOM 2303 2356	marcadores de daño miocárdico que resultaron normales
+T14	SYMPTOM 2412 2431	Buen estado general
+T15	SYMPTOM 2433 2443	Consciente
+T16	SYMPTOM 2446 2455	orientado
+T17	SYMPTOM 2457 2471	Normocoloreado
+T20	SYMPTOM 2502 2509	Afebril
+T21	SYMPTOM 2511 2536	Estable hemodinámicamente
+T22	SYMPTOM 2608 2626	Eupneico en reposo
+T23	SYMPTOM 2674 2722	Auscultación cardiorrespiratoria: tonos rítmicos
+T24	SYMPTOM 2747 2771	soplo sistólico panfocal
+T25	SYMPTOM 2893 2920	Abdomen blando y depresible
+T26	SYMPTOM 2935 2940	masas
+T27	SYMPTOM 2944 2952	megalias
+T29	SYMPTOM 2981 3002	irritación peritoneal
+T30	SYMPTOM 3020 3050	Miembros inferiores sin edemas
+T31	SYMPTOM 3091 3127	Pulsos pedios presentes y simétricos
+T32	SYMPTOM 3263 3279	Ionograma normal
+T33	SYMPTOM 3861 3874	ritmo sinusal
+T34	SYMPTOM 3883 3892	PR normal
+T35	SYMPTOM 3938 3948	sobrecarga
+T36	SYMPTOM 3951 3988	ondas T negativas de V4 a V6, I y aVL
+T41	SYMPTOM 5615 5683	ventrículo izquierdo no dilatado, con aumento concéntrico de su masa
+T43	SYMPTOM 5982 6015	Contractilidad segmentaria normal
+T44	SYMPTOM 6083 6114	función sistólica hiperdinámica
+T46	SYMPTOM 7026 7049	Aurícula derecha normal
+T47	SYMPTOM 7305 7370	Ventrículo izquierdo no dilatado con función sistólica conservada
+T48	SYMPTOM 7464 7477	palpitaciones
+T49	SYMPTOM 7701 7713	asintomático
+T50	SYMPTOM 7850 7856	disnea
+T53	SYMPTOM 9236 9242	disnea
+T1	SYMPTOM 1979 1998	recorte de diuresis
+T55	SYMPTOM 2810 2854	Buena ventilación en ambos campos pulmonares
+T65	SYMPTOM 3006 3018	peritonismos
+T86	SYMPTOM 3430 3478	Marcadores de daño miocárdico seriadas: normales
+T37	SYMPTOM 5150 5196	arterias coronarias angiográficamente normales
+T40	SYMPTOM 6674 6767	Ventrículo derecho no dilatado ni hipertrófico, con movilidad global y segmentaria conservada
+T42	SYMPTOM 8857 8882	síntomas anticolinérgicos
+T180	SYMPTOM 4290 4343	Función sistólica del ventrículo izquierdo conservada
+T183	SYMPTOM 6606 6621	Masa miocárdica
+T190	SYMPTOM 2473 2500	bien hidratado y perfundido
+T201	SYMPTOM 3689 3703	fórmula normal
+T18	SYMPTOM 554 585	estudio genético no concluyente
+T19	SYMPTOM 863 893	gradiente dinámico obstructivo
+T38	SYMPTOM 4162 4209	Gradiente dinámico obstructivo a nivel del TSVI
+T45	SYMPTOM 4491 4536	válvula mitral sin alteraciones estructurales
+T39	SYMPTOM 4931 4958	jet de insuficiencia mitral
+T52	SYMPTOM 6128 6176	TSVI se objetiva aceleración del flujo sistólico
+T135	SYMPTOM 7091 7172	secuencia de perfusión de primer paso no se objetivan defectos de perfusión basal
+T141	SYMPTOM 7180 7250	secuencia de realce tardío/viabilidad no presenta fibrosis ni necrosis

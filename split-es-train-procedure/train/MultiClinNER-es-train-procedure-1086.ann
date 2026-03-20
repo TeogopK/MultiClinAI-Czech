@@ -1,0 +1,46 @@
+T72	PROCEDURE 1403 1422	electrocardiogramas
+T73	PROCEDURE 1424 1427	ECG
+T74	PROCEDURE 1670 1685	coronariografía
+T75	PROCEDURE 1721 1736	ecocardioscopia
+T76	PROCEDURE 1901 1919	exploración física
+T77	PROCEDURE 2176 2197	Auscultación cardiaca
+T78	PROCEDURE 2241 2262	Auscultación pulmonar
+T79	PROCEDURE 2434 2437	ECG
+T80	PROCEDURE 2635 2638	ECG
+T81	PROCEDURE 2873 2893	Radiografía de tórax
+T82	PROCEDURE 3278 3292	Ecocardiograma
+T83	PROCEDURE 3914 3929	Coronariografía
+T84	PROCEDURE 4262 4309	ACTP con balones convencionales, balón de corte
+T86	PROCEDURE 4439 4454	Coronariografía
+T87	PROCEDURE 4666 4712	angioplastia coronaria transluminal percutánea
+T88	PROCEDURE 4714 4718	ACTP
+T89	PROCEDURE 4722 4778	implante de stent farmacoactivo liberador de zotarolimus
+T90	PROCEDURE 4822 4831	hemograma
+T91	PROCEDURE 6066 6069	ECG
+T92	PROCEDURE 6292 6307	coronariografía
+T93	PROCEDURE 6540 6565	ACTP con balones de corte
+T94	PROCEDURE 6576 6598	aterectomía rotacional
+T95	PROCEDURE 6624 6656	implantar un stent farmacoactivo
+T97	PROCEDURE 7203 7218	coronariografía
+T98	PROCEDURE 7259 7301	DA, implantándose otro stent farmacoactivo
+T99	PROCEDURE 7317 7331	ecocardiograma
+T100	PROCEDURE 7619 7631	test cutáneo
+T101	PROCEDURE 7770 7810	inmunoterapia frente al veneno de avispa
+T102	PROCEDURE 8055 8072	revascularización
+T116	PROCEDURE 4780 4799	Analítica sanguínea
+T117	PROCEDURE 4906 4916	Bioquímica
+T118	PROCEDURE 1828 1846	EXPLORACIÓN FÍSICA
+T119	PROCEDURE 3073 3088	Ecocardioscopia
+T120	PROCEDURE 4184 4252	Intervencionismo coronario percutáneo sobre estenosis grave de CX-MO
+T121	PROCEDURE 4550 4656	Intervencionismo coronario percutáneo sobre placa calcificada larga en descendente anterior proximal-media
+T122	PROCEDURE 5852 5885	Marcadores de necrosis miocárdica
+T124	PROCEDURE 6217 6232	ecocardioscopia
+T125	PROCEDURE 7047 7080	marcadores de necrosis miocárdica
+T126	PROCEDURE 5810 5820	Prick test
+T127	PROCEDURE 4312 4334	aterectomia rotacional
+T128	PROCEDURE 4336 4405	Implante posterior de un stent farmacoactivo liberador de zotarolimus
+T129	PROCEDURE 4506 4548	stent farmacoactivo implantado sobre CX-MO
+T130	PROCEDURE 5335 5351	estudio alergias
+T162	PROCEDURE 7494 7511	estudio analítico
+T174	PROCEDURE 5353 5394	pruebas cutáneas a trofoalergenos comunes
+T96	PROCEDURE 6891 6936	determinación analítica de Triptasa en sangre

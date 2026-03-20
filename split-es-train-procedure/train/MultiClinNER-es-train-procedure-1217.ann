@@ -1,0 +1,36 @@
+T83	PROCEDURE 219 237	exploración física
+T84	PROCEDURE 1935 1953	Exploración física
+T85	PROCEDURE 3332 3335	ECG
+T86	PROCEDURE 3532 3543	Rx de Tórax
+T87	PROCEDURE 3590 3604	Ecocardiograma
+T88	PROCEDURE 3857 3871	TAC coronarias
+T89	PROCEDURE 4422 4437	Coronariografía
+T90	PROCEDURE 4523 4558	colocación de stent de cromocobalto
+T91	PROCEDURE 5052 5075	monitorización cardiaca
+T92	PROCEDURE 5404 5407	ECG
+T93	PROCEDURE 5765 5768	ECG
+T94	PROCEDURE 5924 5938	monitorización
+T95	PROCEDURE 6082 6085	ECG
+T96	PROCEDURE 6580 6594	ecocardiograma
+T97	PROCEDURE 6706 6723	TAC de coronarias
+T98	PROCEDURE 6854 6869	coronariografía
+T99	PROCEDURE 6918 6935	implante de stent
+T100	PROCEDURE 7178 7198	doble antiagregación
+T101	PROCEDURE 7207 7262	tratamiento hormonal sustitutivo para el hipotiroidismo
+T102	PROCEDURE 7430 7436	holter
+T107	PROCEDURE 2163 2165	AC
+T108	PROCEDURE 2233 2235	AP
+T109	PROCEDURE 1955 1973	Constantes vitales
+T111	PROCEDURE 2810 2821	Hematología
+T112	PROCEDURE 3184 3194	Hemostasia
+T113	PROCEDURE 7346 7361	betabloqueantes
+T114	PROCEDURE 4827 4845	hormonas tiroideas
+T115	PROCEDURE 6019 6033	monitorización
+T117	PROCEDURE 504 511	Cesárea
+T149	PROCEDURE 4642 4651	Analítica
+T155	PROCEDURE 384 425	Hipotiroidismo en tratamiento sustitutivo
+T156	PROCEDURE 476 502	Intervenciones quirúrgicas
+T163	PROCEDURE 7103 7112	analítica
+T38	PROCEDURE 2284 2315	palpación de los arcos costales
+T124	PROCEDURE 6323 6370	agonista melatoninérgico (receptores MT1 y MT2)
+T125	PROCEDURE 6373 6426	antagonista de los receptores serotoninérgicos 5-HT2C

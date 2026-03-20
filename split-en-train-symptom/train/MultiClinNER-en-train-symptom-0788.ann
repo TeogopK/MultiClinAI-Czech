@@ -1,0 +1,54 @@
+T1	SYMPTOM 968 980	palpitations
+T2	SYMPTOM 1082 1091	dizziness
+T3	SYMPTOM 1492 1500	Afebrile
+T4	SYMPTOM 1882 1901	Cold hands and feet
+T5	SYMPTOM 1908 1923	thinned fingers
+T6	SYMPTOM 1946 1966	chronic malperfusion
+T7	SYMPTOM 1998 2005	murmurs
+T9	SYMPTOM 2029 2037	rhythmic
+T10	SYMPTOM 2039 2050	tachycardic
+T11	SYMPTOM 2052 2083	systolic murmur in mitral focus
+T12	SYMPTOM 2143 2159	bibasal crackles
+T13	SYMPTOM 2214 2220	masses
+T14	SYMPTOM 2224 2233	megaliths
+T15	SYMPTOM 2563 2592	bilateral alveolar infiltrate
+T16	SYMPTOM 2671 2698	Narrow QRS with normal axis
+T17	SYMPTOM 2700 2721	QS in V1-V3, QR in V4
+T18	SYMPTOM 2830 2840	Normal QTc
+T19	SYMPTOM 3627 3640	ANCA negative
+T20	SYMPTOM 3756 3791	HIV, HBV and HCV serology: negative
+T21	SYMPTOM 3805 3817	TB: positive
+T22	SYMPTOM 4104 4147	Right ventricle of normal size and function
+T23	SYMPTOM 7617 7648	severely dilated left ventricle
+T24	SYMPTOM 7674 7719	Akinesia with thinning of all apical segments
+T25	SYMPTOM 7721 7819	Medial anterior akinesia and medial anterior, medial anterolateral and medial inferolateral septum
+T26	SYMPTOM 7821 7874	Medial inferior hypokinesia and basal inferior septum
+T27	SYMPTOM 8142 8194	Normal sized right ventricle with preserved function
+T28	SYMPTOM 8684 8696	sinus rhythm
+T29	SYMPTOM 13329 13341	sinus rhythm
+T30	SYMPTOM 514 526	sudden death
+T31	SYMPTOM 1095 1102	syncope
+T32	SYMPTOM 890 900	Orthopnoea
+T33	SYMPTOM 905 924	paroxysmal dyspnoea
+T34	SYMPTOM 3705 3754	Kappa and Lambda free light chains: normal levels
+T35	SYMPTOM 3680 3703	Cryoglobulins: negative
+T36	SYMPTOM 3964 4052	severe hypokinesia of the mid anterior and lateral wall segments and all apical segments
+T37	SYMPTOM 4915 4950	thoracic aorta of normal dimensions
+T38	SYMPTOM 820 861	progressive dyspnoea until minimal effort
+T8	SYMPTOM 1968 1993	Rhythmic carotid arteries
+T39	SYMPTOM 2095 2116	preserved second soun
+T40	SYMPTOM 2161 2200	Abdomen: soft, depressible, non-painful
+T41	SYMPTOM 2235 2272	Lower limbs: symmetrical pedal pulses
+T42	SYMPTOM 2274 2290	pretibial oedema
+T43	SYMPTOM 2417 2463	nflammatory signs on the trunk and extremities
+T44	SYMPTOM 2542 2558	Kerley's B lines
+T45	SYMPTOM 2754 2774	qR in inferior leads
+T46	SYMPTOM 3131 3151	Transaminases normal
+T47	SYMPTOM 3613 3626	ANA negative.
+T48	SYMPTOM 3642 3678	Negative antiphospholipid antibodies
+T49	SYMPTOM 4195 4234	Aortic valve trivalve, normofunctioning
+T51	SYMPTOM 6275 6319	Right carotid axis with normal echostructure
+T52	SYMPTOM 10747 10801	elevation of several non-specific inflammatory markers
+T53	SYMPTOM 10848 10964	negative results in the key tests (ENA, ANCA, cryoglobulins, antiphospholipid antibodies, HBV, HCV and HIV serology.
+T54	SYMPTOM 13179 13189	Arrhythmic
+T55	SYMPTOM 13042 13051	euvolemic

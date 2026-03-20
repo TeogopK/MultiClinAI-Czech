@@ -1,0 +1,45 @@
+T100	PROCEDURE 806 826	PHYSICAL EXAMINATION
+T72	PROCEDURE 927 951	Neurological examination
+T73	PROCEDURE 1232 1252	Cardiac auscultation
+T3	PROCEDURE 1279 1286	murmurs
+T74	PROCEDURE 1288 1310	Pulmonary auscultation
+T4	PROCEDURE 1507 1523	Laboratory tests
+T5	PROCEDURE 2106 2125	Complete blood test
+T75	PROCEDURE 2702 2705	ECG
+T77	PROCEDURE 2938 2949	Chest X-ray
+T78	PROCEDURE 3049 3079	Transthoracic echocardiography
+T80	PROCEDURE 3476 3484	Brain CT
+T81	PROCEDURE 3573 3599	magnetic resonance imaging
+T8	PROCEDURE 3601 3604	MRI
+T9	PROCEDURE 3698 3724	Cardiac magnetic resonance
+T10	PROCEDURE 3726 3729	CMR
+T104	PROCEDURE 4131 4145	gadoteric acid
+T12	PROCEDURE 4238 4279	Morphological (without and with contrast)
+T82	PROCEDURE 4319 4479	Electrophysiological study: under local anaesthesia and under fluoroscopic control, three quadripolar electrocatheters are introduced via the right femoral vein
+T83	PROCEDURE 4353 4370	local anaesthesia
+T13	PROCEDURE 4801 4866	Programmed atrial pacing (increasing rates and extrastimulus test
+T84	PROCEDURE 4848 4866	extrastimulus test
+T95	PROCEDURE 4943 4985	Right and left carotid sinus massage (CSM)
+T15	PROCEDURE 5075 5097	Procainamide perfusion
+T85	PROCEDURE 5180 5198	Implantable Holter
+T86	PROCEDURE 5328 5348	Coronary angiography
+T88	PROCEDURE 5401 5416	Flecainide test
+T101	PROCEDURE 5601 5633	Genetic testing for sudden death
+T90	PROCEDURE 5872 5889	stiological study
+T102	PROCEDURE 5891 5914	Cardiac imaging studies
+T79	PROCEDURE 5935 5965	transthoracic echocardiography
+T16	PROCEDURE 5970 5973	CMR
+T91	PROCEDURE 6081 6102	continuous monitoring
+T92	PROCEDURE 6106 6121	cranial CT scan
+T17	PROCEDURE 6285 6303	aetiological study
+T94	PROCEDURE 6312 6338	electrophysiological study
+T96	PROCEDURE 6343 6364	carotid sinus massage
+T98	PROCEDURE 6487 6563	implant a subcutaneous Holter (Reveal®) for continuous ambulatory monitoring
+T99	PROCEDURE 6586 6596	monitoring
+T18	PROCEDURE 6657 6692	interrogate the subcutaneous Holter
+T76	PROCEDURE 7002 7005	ECG
+T89	PROCEDURE 7009 7024	flecainide test
+T87	PROCEDURE 7237 7257	coronary angiography
+T20	PROCEDURE 7310 7402	Genetic testing was requested for the study of sudden death without structural heart disease
+T21	PROCEDURE 7690 7728	implantable cardioverter defibrillator
+T103	PROCEDURE 8253 8269	ICD implantation

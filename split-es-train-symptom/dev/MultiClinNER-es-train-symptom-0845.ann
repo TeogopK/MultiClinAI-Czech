@@ -1,0 +1,23 @@
+T1	SYMPTOM 107 122	síndrome febril
+T2	SYMPTOM 424 439	síndrome febril
+T3	SYMPTOM 652 665	ritmo sinusal
+T5	SYMPTOM 703 732	odas T negativas en III y aVF
+T7	SYMPTOM 1023 1069	prurito intenso en toda la superficie corporal
+T9	SYMPTOM 1142 1161	opresión precordial
+T10	SYMPTOM 1320 1360	elevación del ST de 4mm en cara inferior
+T11	SYMPTOM 1363 1399	descenso especular en I, aVL y V1-V4
+T12	SYMPTOM 1710 1724	dolor torácico
+T13	SYMPTOM 1806 1854	Curva de marcadores de daño miocárdico: negativa
+T14	SYMPTOM 1978 1988	RS estable
+T15	SYMPTOM 1993 2006	FC media baja
+T17	SYMPTOM 2187 2227	Patrón diastólico de relajación alargada
+T20	SYMPTOM 2512 2524	asintomático
+T21	SYMPTOM 2562 2576	dolor torácico
+T90	SYMPTOM 2255 2287	Válvula aórtica sin alteraciones
+T91	SYMPTOM 1888 1935	arterias coronarias sin lesiones significativas
+T95	SYMPTOM 2135 2185	función sistólica global y segmentaria conservadas
+T102	SYMPTOM 2018 2039	pausas significativas
+T4	SYMPTOM 734 771	Rx tórax al ingreso: sin alteraciones
+T6	SYMPTOM 184 231	exploración física sin hallazgos significativos
+T16	SYMPTOM 2091 2132	espesores parietales levemente aumentados
+T18	SYMPTOM 2314 2328	VD no dilatado

@@ -1,0 +1,29 @@
+T59	PROCEDURE 275 293	exploración física
+T60	PROCEDURE 614 635	polipectomía colónica
+T61	PROCEDURE 663 666	RTU
+T62	PROCEDURE 839 859	cateterismo cardiaco
+T63	PROCEDURE 996 1010	ecocardiograma
+T64	PROCEDURE 1133 1156	cardioversión eléctrica
+T65	PROCEDURE 1306 1329	cardioversión eléctrica
+T66	PROCEDURE 2378 2391	cardioversión
+T67	PROCEDURE 2394 2412	Exploración física
+T68	PROCEDURE 2537 2558	Auscultación cardiaca
+T69	PROCEDURE 2617 2638	Auscultación pulmonar
+T70	PROCEDURE 2857 2860	ECG
+T71	PROCEDURE 3055 3075	Radiografía de tórax
+T72	PROCEDURE 3566 3580	Ecocardiograma
+T73	PROCEDURE 4618 4655	ablación del nodo auriculoventricular
+T74	PROCEDURE 4658 4682	colocación de marcapasos
+T75	PROCEDURE 4701 4736	colocación de marcapasos definitivo
+T76	PROCEDURE 4795 4831	terapia de resincronización cardiaca
+T77	PROCEDURE 4833 4836	TRC
+T78	PROCEDURE 4903 4938	Se colocó finalmente marcapasos DDD
+T79	PROCEDURE 4972 5009	ablación del nodo auriculoventricular
+T80	PROCEDURE 5116 5142	tratamiento anticoagulante
+T81	PROCEDURE 5492 5512	ablación del nodo AV
+T82	PROCEDURE 5515 5537	implante de marcapasos
+T99	PROCEDURE 3336 3347	Coagulación
+T100	PROCEDURE 2274 2288	betabloqueante
+T101	PROCEDURE 4758 4789	colocar electrodo también en VI
+T104	PROCEDURE 3224 3233	Analítica
+T108	PROCEDURE 553 579	Intervenciones quirúrgicas

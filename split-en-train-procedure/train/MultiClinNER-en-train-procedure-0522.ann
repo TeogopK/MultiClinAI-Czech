@@ -1,0 +1,17 @@
+T12	PROCEDURE 385 396	examination
+T14	PROCEDURE 474 516	left iliac fossa, accentuated by palpation
+T3	PROCEDURE 522 533	blood count
+T4	PROCEDURE 578 595	coagulation study
+T5	PROCEDURE 597 626	elementary blood biochemistry
+T19	PROCEDURE 628 647	urine routine tests
+T6	PROCEDURE 649 666	electrocardiogram
+T21	PROCEDURE 671 689	simple chest X-ray
+T22	PROCEDURE 707 724	abdominal CT scan
+T7	PROCEDURE 1012 1022	analgesics
+T8	PROCEDURE 1024 1043	calcium antagonists
+T9	PROCEDURE 1048 1091	angiotensin II-converting enzyme inhibitors
+T11	PROCEDURE 1486 1506	plasma metanephrines
+T10	PROCEDURE 1547 1587	urinary catecholamines and metanephrines
+T2	PROCEDURE 1596 1609	24-hour urine
+T1	PROCEDURE 2096 2120	unilateral adrenalectomy
+T29	PROCEDURE 2158 2182	histological examination

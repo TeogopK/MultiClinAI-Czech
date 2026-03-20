@@ -1,0 +1,34 @@
+T31	DISEASE 111 126	fumadora activa
+T32	DISEASE 131 160	cardiopatía isquémica crónica
+T33	DISEASE 252 299	infarto agudo de miocardio sin elevación del ST
+T34	DISEASE 395 441	hematoma en la rama interventricular posterior
+T36	DISEASE 616 641	enfermedad cardiovascular
+T37	DISEASE 873 880	síncope
+T39	DISEASE 1384 1419	taquicardia ventricular polimórfica
+T40	DISEASE 1448 1471	fibrilación ventricular
+T41	DISEASE 1624 1647	fibrilación ventricular
+T42	DISEASE 1649 1651	FV
+T43	DISEASE 1818 1840	insuficiencia cardiaca
+T44	DISEASE 2274 2299	trombosis venosa profunda
+T45	DISEASE 3406 3419	valvulopatías
+T46	DISEASE 4551 4567	escara isquémica
+T47	DISEASE 5824 5845	daño miocárdico agudo
+T48	DISEASE 5861 5884	arritmias ventriculares
+T49	DISEASE 6022 6045	fibrilación ventricular
+T50	DISEASE 6130 6151	cardiopatía isquémica
+T51	DISEASE 6189 6213	muerte súbita recuperada
+T52	DISEASE 6316 6339	fibrilación ventricular
+T53	DISEASE 6341 6370	Cardiopatía isquémica crónica
+T54	DISEASE 6372 6388	infarto inferior
+T55	DISEASE 6390 6427	Disección coronaria espontánea de IVP
+T56	DISEASE 6268 6312	Parada cardiaca intrahospitalaria recuperada
+T58	DISEASE 350 380	disección coronaria espontánea
+T59	DISEASE 1796 1814	eventos arrítmicos
+T60	DISEASE 5578 5596	eventos arrítmicos
+T61	DISEASE 5783 5798	hematoma en IVP
+T62	DISEASE 5347 5393	hematoma en la rama interventricular posterior
+T96	DISEASE 1129 1140	infecciones
+T118	DISEASE 593 606	muerte súbita
+T99	DISEASE 1031 1053	recurrencias anginosas
+#1	AnnotatorNotes T55	  IVP: intraventricular posterior
+#2	AnnotatorNotes T61	  IVP: intraventricular posterior

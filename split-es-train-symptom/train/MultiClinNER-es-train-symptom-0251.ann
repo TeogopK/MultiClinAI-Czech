@@ -1,0 +1,10 @@
+T1	SYMPTOM 2516 2528	asintomática
+T2	SYMPTOM 364 369	dolor
+T3	SYMPTOM 371 380	hematuria
+T4	SYMPTOM 1427 1442	masa prevesical
+T5	SYMPTOM 82 93	metrorragia
+T6	SYMPTOM 940 950	tumoración
+T7	SYMPTOM 846 885	imagen hipoecoica adyacente a la vejiga
+T8	SYMPTOM 567 578	inflamación
+A1	IMAGEN T6
+A2	IMAGEN T7

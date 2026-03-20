@@ -1,0 +1,37 @@
+T72	PROCEDURE 197 211	echocardiogram
+T82	PROCEDURE 327 347	PHYSICAL EXAMINATION
+T106	PROCEDURE 381 400	calcium antagonists
+T73	PROCEDURE 790 804	echocardiogram
+T80	PROCEDURE 1783 1791	diuretic
+T83	PROCEDURE 1866 1886	Physical examination
+T84	PROCEDURE 2048 2053	Chest
+T86	PROCEDURE 2076 2078	AC
+T87	PROCEDURE 2255 2264	palpation
+T88	PROCEDURE 2467 2470	ECG
+T85	PROCEDURE 2563 2568	Chest
+T89	PROCEDURE 2563 2574	Chest X-ray
+T90	PROCEDURE 3050 3078	Transthoracic echocardiogram
+T74	PROCEDURE 3064 3078	echocardiogram
+T91	PROCEDURE 3561 3591	Transesophageal echocardiogram
+T75	PROCEDURE 3577 3591	echocardiogram
+T94	PROCEDURE 4093 4113	Coronary angiography
+T98	PROCEDURE 4102 4113	angiography
+T71	PROCEDURE 4912 4943	coronary artery bypass grafting
+T76	PROCEDURE 5037 5053	echocardiography
+T92	PROCEDURE 5258 5288	transesophageal echocardiogram
+T77	PROCEDURE 5274 5288	echocardiogram
+T96	PROCEDURE 5561 5576	cardiac surgery
+T97	PROCEDURE 5719 5738	TAVI valve in valve
+T95	PROCEDURE 5741 5761	Coronary angiography
+T99	PROCEDURE 5750 5761	angiography
+T107	PROCEDURE 5788 5809	aortic CT angiography
+T100	PROCEDURE 5798 5809	angiography
+T93	PROCEDURE 6284 6316	Transesophageal echocardiography
+T78	PROCEDURE 6300 6316	echocardiography
+T102	PROCEDURE 6510 6553	Prostar closure of the right femoral access
+T101	PROCEDURE 6569 6580	angiography
+T103	PROCEDURE 6789 6797	sedation
+T81	PROCEDURE 6882 6890	diuretic
+T104	PROCEDURE 6882 6900	diuretic treatment
+T105	PROCEDURE 7224 7233	telemetry
+T79	PROCEDURE 7407 7421	echocardiogram

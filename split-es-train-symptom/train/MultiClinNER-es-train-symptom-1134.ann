@@ -1,0 +1,40 @@
+T1	SYMPTOM 367 432	disnea de esfuerzo progresiva, hasta hacerse de mínimos esfuerzos
+T2	SYMPTOM 570 583	palpitaciones
+T3	SYMPTOM 585 621	edematización de miembros inferiores
+T4	SYMPTOM 624 654	aumento de perímetro abdominal
+T5	SYMPTOM 664 672	ortopnea
+T6	SYMPTOM 675 702	disnea paroxística nocturna
+T7	SYMPTOM 755 773	eupneico en reposo
+T8	SYMPTOM 804 819	bien perfundido
+T9	SYMPTOM 844 868	tonos cardiacos rítmicos
+T10	SYMPTOM 870 882	taquicárdico
+T12	SYMPTOM 893 908	soplo sistólico
+T13	SYMPTOM 967 988	Ingurgitación yugular
+T14	SYMPTOM 1013 1042	crepitantes ligeros bibasales
+T15	SYMPTOM 1044 1062	Abdomen distendido
+T17	SYMPTOM 1096 1159	Edemas en miembros inferiores hasta muslos y en pared abdominal
+T18	SYMPTOM 1399 1416	ondas T negativas
+T20	SYMPTOM 1558 1571	ritmo sinusal
+T21	SYMPTOM 1610 1637	qR en precordiales derechas
+T24	SYMPTOM 2439 2480	Parasitemia en sangre periférica negativa
+T25	SYMPTOM 2581 2593	VIH negativo
+T26	SYMPTOM 2595 2633	VHA IgM negativo con Ac total positivo
+T27	SYMPTOM 2635 2654	VHB: HBcAc positivo
+T28	SYMPTOM 2810 2839	patrón diastólico restrictivo
+T29	SYMPTOM 2862 2873	VD dilatado
+T30	SYMPTOM 2955 2985	dilatación auricular izquierda
+T31	SYMPTOM 3326 3339	Cardiomegalia
+T32	SYMPTOM 3411 3459	Aumento de densidad de grasa en mediastino medio
+T33	SYMPTOM 4058 4090	patrón restrictivo de llenado VI
+T16	SYMPTOM 1371 1396	infradesnivelación del ST
+T19	SYMPTOM 1642 1667	infradesnivelación del ST
+T114	SYMPTOM 1670 1687	ondas T negativas
+T23	SYMPTOM 2318 2437	Serologías: Toxoplasma, Echinococcus, Trypanosoma, Treponema pallidum, Strongyloides stercoralis, Schistosoma negativos
+T125	SYMPTOM 2257 2290	Signos de redistribución vascular
+T134	SYMPTOM 2293 2316	líquido en cisura menor
+T42	SYMPTOM 1273 1307	Patrón qR en precordiales derechas
+T101	SYMPTOM 1946 1977	transferrina y ferritina normal
+T116	SYMPTOM 2482 2506	Plasmodium IgM negativos
+T118	SYMPTOM 2540 2579	Trichinella, Fasciola, Taenia negativos
+T120	SYMPTOM 2680 2696	AntiHBs positivo
+T121	SYMPTOM 2656 2677	antiHBe indeterminado

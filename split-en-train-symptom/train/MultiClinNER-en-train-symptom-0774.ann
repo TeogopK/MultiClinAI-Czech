@@ -1,0 +1,45 @@
+T1	SYMPTOM 1129 1158	dyspnoea on moderate exertion
+T2	SYMPTOM 1165 1186	two-pillow orthopnoea
+T3	SYMPTOM 1188 1213	peripheral oedematisation
+T4	SYMPTOM 1218 1262	subjective decrease in daily diuresis volume
+T5	SYMPTOM 2204 2213	Conscious
+T6	SYMPTOM 2218 2247	oriented in the three spheres
+T7	SYMPTOM 2249 2262	normohydrated
+T8	SYMPTOM 2264 2288	cutaneous-mucosal pallor
+T9	SYMPTOM 2290 2312	good general condition
+T10	SYMPTOM 2457 2464	murmurs
+T11	SYMPTOM 2490 2516	preserved vesicular murmur
+T12	SYMPTOM 2681 2698	venous congestion
+T13	SYMPTOM 2705 2738	perihilar interstitial infiltrate
+T14	SYMPTOM 2859 2861	RS
+T15	SYMPTOM 2934 2960	flattened T-waves in V5-V6
+T16	SYMPTOM 4427 4534	Transthoracic echocardiography (TTE): severely dilated left ventricle (LV) with severe systolic dysfunction
+T17	SYMPTOM 4553 4571	global hypokinesia
+T18	SYMPTOM 4984 5022	moderately depressed systolic function
+T20	SYMPTOM 5054 5065	hypokinesia
+T21	SYMPTOM 5159 5183	normal systolic function
+T22	SYMPTOM 5198 5236	Atria and great vessels of normal size
+T23	SYMPTOM 6227 6234	nodules
+T24	SYMPTOM 6236 6242	masses
+T25	SYMPTOM 6638 6672	preserved global systolic function
+T26	SYMPTOM 6744 6770	Atria of normal dimensions
+T28	SYMPTOM 7878 7887	calciuria
+T29	SYMPTOM 7891 7925	elevation of acute phase reactants
+T31	SYMPTOM 8607 8615	dyspnoea
+T30	SYMPTOM 1329 1362	chest pain at rest or on exertion
+T35	SYMPTOM 2410 2439	Cardiac auscultation: regular
+T36	SYMPTOM 2518 2521	VCM
+T37	SYMPTOM 2524 2546	humid bibasal crackles
+T38	SYMPTOM 2561 2593	tibiomalleolar oedema with fovea
+T39	SYMPTOM 2743 2775	pinching of costophrenic sinuses
+T27	SYMPTOM 4384 4424	Calciuria 24 hours: within normal limits
+T19	SYMPTOM 4573 4591	Normal sized atria
+T40	SYMPTOM 4682 4760	Right ventricle (RV) slightly dilated at baseline with preserved contractility
+T41	SYMPTOM 4792 4822	Inferior vena cava not dilated
+T42	SYMPTOM 5097 5114	Normal RV volumes
+T43	SYMPTOM 5238 5274	Lung resistance within normal values
+T44	SYMPTOM 6246 6274	intraparenchymal infiltrates
+T45	SYMPTOM 6590 6604	Non-dilated RV
+T46	SYMPTOM 6566 6588	Abnormal septal motion
+T47	SYMPTOM 6772 6808	Normal pulmonary vascular resistance
+T48	SYMPTOM 8914 8933	LVEF has normalised

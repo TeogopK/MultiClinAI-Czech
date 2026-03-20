@@ -1,0 +1,20 @@
+T1	PROCEDURE 342 402	fibroendoscopia digestiva alta (esófago, estómago y duodeno)
+T2	PROCEDURE 416 453	colonoscopia (hasta ángulo esplénico)
+T3	PROCEDURE 486 504	exploración física
+T4	PROCEDURE 683 704	auscultación pulmonar
+T5	PROCEDURE 827 896	palpación y percusión de las tres últimas apófisis espinosas dorsales
+T6	PROCEDURE 1640 1660	radiografía de tórax
+T7	PROCEDURE 1881 1900	TAC toracoabdominal
+T8	PROCEDURE 2134 2151	resonancia lumbar
+T9	PROCEDURE 2373 2394	hemocultivos seriados
+T10	PROCEDURE 2443 2481	punción aspirativa del espacio D10-D11
+T11	PROCEDURE 2631 2659	análisis del líquido pleural
+T12	PROCEDURE 3466 3480	antibioterapia
+T13	PROCEDURE 3045 3054	citología
+T14	PROCEDURE 1294 1326	dosificación de inmunoglobulinas
+T15	PROCEDURE 1279 1292	proteínograma
+T16	PROCEDURE 1387 1412	análisis general de orina
+T17	PROCEDURE 3386 3403	corsé dorsolumbar
+T18	PROCEDURE 1549 1579	intradermorreacción de Mantoux
+T19	PROCEDURE 2931 3022	tinción de auramina-rodamina como el cultivo en medio Löwenstein-Jensen del líquido pleural
+T20	PROCEDURE 3486 3498	TAC torácica

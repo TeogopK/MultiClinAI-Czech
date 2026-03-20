@@ -1,0 +1,26 @@
+T55	PROCEDURE 307 319	radioterapia
+T56	PROCEDURE 321 334	quimioterapia
+T57	PROCEDURE 337 351	hormonoterapia
+T58	PROCEDURE 478 502	ecocardiograma de estrés
+T59	PROCEDURE 644 664	cateterismo cardiaco
+T60	PROCEDURE 1048 1073	ecocardiografía de estrés
+T61	PROCEDURE 1116 1145	SPECT de reposo y de esfuerzo
+T62	PROCEDURE 1236 1256	cateterismo cardiaco
+T63	PROCEDURE 1293 1311	EXPLORACIÓN FÍSICA
+T64	PROCEDURE 1434 1455	Auscultación cardiaca
+T65	PROCEDURE 1496 1517	Auscultación pulmorar
+T66	PROCEDURE 1639 1642	ECG
+T67	PROCEDURE 1795 1798	ECG
+T68	PROCEDURE 2281 2301	RADIOGRAFÍA DE TÓRAX
+T69	PROCEDURE 2489 2518	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T70	PROCEDURE 2884 2905	maniobras de Valsalva
+T71	PROCEDURE 3735 3776	SPECT de perfusión miocárdica de esfuerzo
+T72	PROCEDURE 3779 3865	SPECT sincronizado de perfusión miocárdica de reposo: radiofármaco: 99mTc-tetrofosmina
+T73	PROCEDURE 3924 3934	Ergometría
+T74	PROCEDURE 4259 4281	SPECT/TC de baja dosis
+T75	PROCEDURE 4477 4527	CORONARIOGRAFÍA: punción de arteria radial derecha
+T77	PROCEDURE 4756 4776	cateterismo cardiaco
+T85	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T86	PROCEDURE 2118 2134	Función tiroidea
+T88	PROCEDURE 243 305	Neoplasia de mama derecha en 2004, con intervención quirúrgica
+T93	PROCEDURE 1809 1818	ANALÍTICA

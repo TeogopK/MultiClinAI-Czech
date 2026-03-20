@@ -1,0 +1,36 @@
+T60	PROCEDURE 384 421	tratamiento con antidiabéticos orales
+T61	PROCEDURE 573 592	cistoprostatectomía
+T62	PROCEDURE 639 641	QT
+T63	PROCEDURE 974 1015	perfusión venosa continua de procainamida
+T64	PROCEDURE 1121 1169	se sobreestimuló mediante electrocatéter femoral
+T65	PROCEDURE 1244 1259	coronariografía
+T66	PROCEDURE 1449 1475	estudio electrofisiológico
+T67	PROCEDURE 1477 1480	EEF
+T68	PROCEDURE 1484 1519	ablación de taquicardia ventricular
+T69	PROCEDURE 1631 1634	EEF
+T70	PROCEDURE 1658 1733	se decide implantar un desfibrilador automático implantable (DAI) bicameral
+T71	PROCEDURE 2731 2743	HEMOCULTIVOS
+T72	PROCEDURE 3011 3031	RADIOGRAFÍA DE TÓRAX
+T73	PROCEDURE 3269 3275	PET-TC
+T74	PROCEDURE 3681 3702	derivación de Bricker
+T75	PROCEDURE 3771 3774	ETE
+T76	PROCEDURE 4269 4281	hemocultivos
+T77	PROCEDURE 4343 4372	ecocardiograma transesofágico
+T78	PROCEDURE 4430 4436	PET-TC
+T79	PROCEDURE 4571 4583	antibiograma
+T81	PROCEDURE 5022 5036	antibioterapia
+T82	PROCEDURE 5298 5312	ecocardiograma
+T83	PROCEDURE 5472 5503	implante de DAI-DDD transvenoso
+T84	PROCEDURE 5859 5874	implante de DAI
+T85	PROCEDURE 6039 6058	Cistoprostatectomía
+T86	PROCEDURE 6061 6086	ureteroileostomía Bricker
+T100	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T101	PROCEDURE 423 426	ADO
+T102	PROCEDURE 595 620	ureteroileostomía Bricker
+T103	PROCEDURE 956 971	cardioversiones
+T104	PROCEDURE 1371 1387	cirugía cardiaca
+T107	PROCEDURE 3646 3676	poscistoprostatectomía radical
+T108	PROCEDURE 4834 4906	explante del dispositivo, realizándose extracción con fuentes de energía
+T109	PROCEDURE 5265 5286	seriación de cultivos
+T110	PROCEDURE 5363 5392	implante de nuevo dispositivo
+T120	PROCEDURE 2495 2504	ANALÍTICA

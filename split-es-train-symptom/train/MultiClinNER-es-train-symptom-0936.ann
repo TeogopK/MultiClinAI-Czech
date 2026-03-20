@@ -1,0 +1,34 @@
+T1	SYMPTOM 211 229	sensación disneica
+T2	SYMPTOM 234 248	dolor torácico
+T3	SYMPTOM 264 277	palpitaciones
+T4	SYMPTOM 363 369	fiebre
+T5	SYMPTOM 371 377	disnea
+T6	SYMPTOM 380 386	mareos
+T7	SYMPTOM 747 766	buen estado general
+T8	SYMPTOM 943 961	Eupneico en reposo
+T9	SYMPTOM 1017 1047	Exploración neurológica normal
+T10	SYMPTOM 1049 1089	Corazón rítmico ligeramente taquicárdico
+T11	SYMPTOM 1095 1101	soplos
+T12	SYMPTOM 1105 1115	extratonos
+T13	SYMPTOM 1117 1164	Disminución generalizada del murmullo vesicular
+T14	SYMPTOM 1169 1216	sibilantes dispersos en ambos campos pulmonares
+T15	SYMPTOM 1218 1272	Abdomen blando, depresible, no doloroso a la palpación
+T16	SYMPTOM 1279 1294	visceromegalias
+T17	SYMPTOM 1304 1339	edemas en ambos miembros inferiores
+T18	SYMPTOM 1534 1547	ritmo sinusal
+T19	SYMPTOM 1575 1626	Onda T negativa asimétrica en III, aVF y de V1 a V4
+T21	SYMPTOM 2408 2436	función sistólica preservada
+T22	SYMPTOM 2438 2505	ventrículo derecho dilatado con hipoquinesia marcada de pared libre
+T23	SYMPTOM 2552 2581	disfunción sistólica moderada
+T24	SYMPTOM 2756 2812	defecto parcial de repleción en arteria pulmonar derecha
+T25	SYMPTOM 3004 3016	asintomático
+T84	SYMPTOM 768 802	estabilidad clínica y hemodinámica
+T86	SYMPTOM 1558 1573	Onda P pulmonar
+T20	SYMPTOM 2510 2549	aplanamiento del septo interventricular
+T35	SYMPTOM 3486 3567	estudio de autoinmunidad (ANA, ANCA, AntiDNA, anticardiolipinas) que fue negativo
+T55	SYMPTOM 3573 3670	estudios de hierro, tiroides, marcadores tumorales, VIH, VHB, VHC y proteinograma fueron normales
+T88	SYMPTOM 1462 1490	hilios pulmonares engrosados
+T89	SYMPTOM 1892 1908	CPK total normal
+T90	SYMPTOM 2038 2067	Cilindros hialinos abundantes
+T85	SYMPTOM 2934 2953	patrón enfisematoso
+T91	SYMPTOM 3875 3902	INR en objetivo terapéutico

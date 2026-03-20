@@ -1,0 +1,16 @@
+T13	DISEASE 70 82	hypertensive
+T14	DISEASE 84 99	type 2 diabetic
+T1	DISEASE 101 114	dyslipidaemic
+T15	DISEASE 119 128	ex-smoker
+T2	DISEASE 819 849	Hypoxaemic respiratory failure
+T16	DISEASE 1097 1112	acute ischaemia
+T17	DISEASE 1289 1308	SARS-CoV2 infection
+T21	DISEASE 1778 1860	bilateral SARS-CoV2 pneumonia with associated acute hypoxaemic respiratory failure
+T18	DISEASE 2372 2383	myocarditis
+T5	DISEASE 2484 2533	non-dilated, slightly hypertrophic left ventricle
+T6	DISEASE 2699 2721	valvular heart disease
+T19	DISEASE 2725 2745	pericardial effusion
+T23	DISEASE 2869 2879	hypoxaemia
+T20	DISEASE 2881 2896	acute infection
+T7	DISEASE 2918 2931	heart disease
+T22	DISEASE 3054 3083	Bilateral SARS-CoV2 pneumonia

@@ -1,0 +1,20 @@
+T30	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T31	PROCEDURE 550 568	exploración física
+T32	PROCEDURE 688 709	Auscultación cardiaca
+T33	PROCEDURE 835 856	Auscultación pulmonar
+T34	PROCEDURE 1084 1087	ECG
+T35	PROCEDURE 1555 1575	Radiografía de tórax
+T36	PROCEDURE 1758 1773	Ecocardiografía
+T37	PROCEDURE 2304 2311	Doppler
+T38	PROCEDURE 2983 3014	comisurotomía mitral percutánea
+T39	PROCEDURE 3260 3291	cirugía de sustitución valvular
+T40	PROCEDURE 3313 3322	ecografía
+T41	PROCEDURE 3642 3673	comisurotomía mitral percutánea
+T42	PROCEDURE 3689 3727	comisurotomía empleando balón de Inoue
+T43	PROCEDURE 3733 3751	punción transeptal
+T44	PROCEDURE 4086 4101	ecocardiografía
+T68	PROCEDURE 3236 3239	CMP
+T70	PROCEDURE 1240 1249	Analítica
+T76	PROCEDURE 990 1009	Miembros inferiores
+T15	PROCEDURE 3016 3019	CMP
+#4	AnnotatorNotes T68	comisurotomía mitral percutánea

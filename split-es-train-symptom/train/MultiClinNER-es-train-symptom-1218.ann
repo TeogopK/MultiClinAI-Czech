@@ -1,0 +1,46 @@
+T1	SYMPTOM 657 686	dolor centrotorácico opresivo
+T2	SYMPTOM 691 709	cortejo vegetativo
+T4	SYMPTOM 870 883	palpitaciones
+T5	SYMPTOM 888 894	disnea
+T6	SYMPTOM 899 917	clínica infecciosa
+T7	SYMPTOM 1212 1231	Buen estado general
+T8	SYMPTOM 1233 1243	Consciente
+T9	SYMPTOM 1246 1255	orientado
+T10	SYMPTOM 1257 1264	Afebril
+T11	SYMPTOM 1266 1274	Sudoroso
+T12	SYMPTOM 1299 1306	rítmico
+T13	SYMPTOM 1311 1317	soplos
+T14	SYMPTOM 1342 1371	murmullo vesicular conservado
+T15	SYMPTOM 1377 1397	ruidos sobreañadidos
+T16	SYMPTOM 1399 1433	Extremidades inferiores sin edemas
+T17	SYMPTOM 1526 1535	PR normal
+T18	SYMPTOM 1537 1549	QRS estrecho
+T19	SYMPTOM 1566 1634	Elevación del ST de 3-4 mm en DII, DIII y aVF y de 1-1,5 mm en V5-V6
+T20	SYMPTOM 1636 1673	descenso del ST especular en DI y aVL
+T21	SYMPTOM 2060 2081	perfil férrico normal
+T23	SYMPTOM 3121 3152	función sistólica global normal
+T24	SYMPTOM 3281 3328	Ventrículo derecho de tamaño y función normales
+T26	SYMPTOM 3457 3497	Raíz aórtica y aorta ascendente normales
+T27	SYMPTOM 3536 3549	ritmo sinusal
+T28	SYMPTOM 3560 3569	PR normal
+T29	SYMPTOM 3571 3594	QRS estrecho con onda Q
+T30	SYMPTOM 3597 3665	ondas T negativas en cara inferior (DII, DIII, aVF) y lateral (V4-V6
+T31	SYMPTOM 3748 3764	elevación del ST
+T33	SYMPTOM 4280 4325	alteración segmentaria en el territorio de CD
+T34	SYMPTOM 5084 5118	Función sistólica de VI conservada
+T100	SYMPTOM 421 488	triple positividad de anticuerpos (AL + aCL + Antiβ2-GPI positivos)
+T22	SYMPTOM 3188 3224	Aquinesia de segmentos medio y basal
+T102	SYMPTOM 3330 3356	Aurículas de tamaño normal
+T117	SYMPTOM 4914 4958	arterias coronarias epicárdicas sin lesiones
+T118	SYMPTOM 4640 4663	coronarias sin lesiones
+T120	SYMPTOM 1554 1564	eje normal
+T121	SYMPTOM 4433 4440	estable
+T123	SYMPTOM 130 139	fallecido
+T142	SYMPTOM 3066 3115	ventrículo izquierdo no dilatado, ni hipertrófico
+T3	SYMPTOM 2139 2159	Tronco: sin lesiones
+T25	SYMPTOM 2161 2237	arteria coronaria descendente anterior (DA): normodesarrollada, sin lesiones
+T32	SYMPTOM 2253 2301	Arteria coronaria circunfleja (Cx): sin lesiones
+T103	SYMPTOM 2842 2857	rotura de placa
+T104	SYMPTOM 4126 4141	rotura de placa
+T105	SYMPTOM 4223 4277	ecocardiograma transtorácico con función global normal
+T106	SYMPTOM 4484 4518	complicaciones de la función renal

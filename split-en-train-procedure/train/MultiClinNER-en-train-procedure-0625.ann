@@ -1,0 +1,21 @@
+T1	PROCEDURE 376 396	Physical examination
+T15	PROCEDURE 489 506	transluminescence
+T2	PROCEDURE 710 731	testicular ultrasound
+T17	PROCEDURE 875 889	blood analysis
+T9	PROCEDURE 895 909	tumour markers
+T4	PROCEDURE 913 924	chest X-ray
+T23	PROCEDURE 985 1005	complete blood count
+T13	PROCEDURE 1016 1028	biochemistry
+T5	PROCEDURE 1086 1097	chest X-ray
+T3	PROCEDURE 1305 1326	testicular ultrasound
+T6	PROCEDURE 1662 1696	radical right inguinal orchiectomy
+T11	PROCEDURE 1712 1732	Pathological anatomy
+T12	PROCEDURE 1944 1953	resection
+T31	PROCEDURE 2043 2091	abdominopelvic computerised tomography (CT) scan
+T16	PROCEDURE 2483 2490	surgery
+T14	PROCEDURE 2790 2808	adjuvant treatment
+T7	PROCEDURE 2947 2959	radiotherapy
+T8	PROCEDURE 2979 2991	chemotherapy
+T18	PROCEDURE 3053 3055	CT
+T37	PROCEDURE 3327 3334	CT scan
+T10	PROCEDURE 3356 3370	tumour markers

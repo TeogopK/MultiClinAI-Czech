@@ -1,0 +1,10 @@
+T35	PROCEDURE 807 827	Physical examination
+T36	PROCEDURE 939 969	Cardiorespiratory auscultation
+T37	PROCEDURE 1255 1266	Chest X-ray
+T1	PROCEDURE 1457 1473	Laboratory tests
+T41	PROCEDURE 1715 1730	Cardiac markers
+T38	PROCEDURE 1771 1774	ECG
+T2	PROCEDURE 1831 1834	IAH
+T39	PROCEDURE 1860 1890	Transthoracic echocardiography
+T40	PROCEDURE 3215 3247	Transesophageal echocardiography
+T42	PROCEDURE 3810 3832	cardiovascular surgery

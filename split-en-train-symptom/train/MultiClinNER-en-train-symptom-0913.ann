@@ -1,0 +1,47 @@
+T1	SYMPTOM 50 58	asthenia
+T3	SYMPTOM 4698 4706	asthenia
+T4	SYMPTOM 5858 5866	asthenia
+T5	SYMPTOM 912 920	dyspnoea
+T7	SYMPTOM 1011 1020	dizziness
+T8	SYMPTOM 1082 1092	orthopnoea
+T9	SYMPTOM 1097 1126	paroxysmal nocturnal dyspnoea
+T10	SYMPTOM 1137 1145	oliguria
+T11	SYMPTOM 1150 1160	chest pain
+T12	SYMPTOM 1255 1263	Afebrile
+T13	SYMPTOM 1433 1454	rhythmic heart sounds
+T14	SYMPTOM 1514 1540	preserved vesicular murmur
+T15	SYMPTOM 1563 1589	Abdomen: soft, depressible
+T16	SYMPTOM 1624 1644	MMII: pulses present
+T17	SYMPTOM 1716 1728	sinus rhythm
+T18	SYMPTOM 1750 1760	Narrow QRS
+T19	SYMPTOM 2011 2034	vascular redistribution
+T20	SYMPTOM 2592 2621	left ventricle of normal size
+T21	SYMPTOM 2645 2672	preserved systolic function
+T22	SYMPTOM 2748 2773	Normal diastolic function
+T23	SYMPTOM 3425 3473	Right ventricle (RV) of normal size and function
+T24	SYMPTOM 3507 3535	Focal pericardial thickening
+T25	SYMPTOM 6041 6073	Preserved biventricular function
+T26	SYMPTOM 1663 1669	oedema
+T27	SYMPTOM 2224 2248	normal leukocyte formula
+T28	SYMPTOM 5791 5803	inflammation
+T29	SYMPTOM 1468 1488	protodiastolic knock
+T30	SYMPTOM 1843 1868	left ventricular overload
+T31	SYMPTOM 1870 1894	QTc within normal limits
+T32	SYMPTOM 2077 2130	Pinching of both posterior costodiaphragmatic sinuses
+T2	SYMPTOM 925 954	asthenia on moderate exertion
+T33	SYMPTOM 1128 1131	PND
+T34	SYMPTOM 1240 1253	normal colour
+T6	SYMPTOM 1227 1235	hydrated
+T35	SYMPTOM 1265 1273	Eupneic.
+T36	SYMPTOM 1315 1380	Jugular venous pressure (JVP) elevated up to the mandibular angle
+T37	SYMPTOM 1386 1409	Kussmaul's sign present
+T38	SYMPTOM 1772 1827	Asymmetric negative T wave in inferior and lateral face
+T39	SYMPTOM 1909 1961	cardiothoracic index in the upper limit of normality
+T40	SYMPTOM 2456 2467	ions normal
+T41	SYMPTOM 2501 2560	thyroid profile and cholesterol levels within normal limits
+T42	SYMPTOM 2706 2746	segmental abnormalities of contractility
+T43	SYMPTOM 2775 2803	Normal sized right ventricle
+T44	SYMPTOM 3219 3248	Pericardium apparently normal
+T45	SYMPTOM 3363 3417	left ventricle (LV) of normal size with preserved LVEF
+T46	SYMPTOM 3475 3505	Atrial chambers of normal size
+T47	SYMPTOM 4246 4263	LV of normal size

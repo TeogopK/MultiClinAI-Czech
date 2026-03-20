@@ -1,0 +1,38 @@
+T1	PROCEDURE 464 486	inguinal herniorrhaphy
+T2	PROCEDURE 541 550	anamnesis
+T26	PROCEDURE 662 670	antacids
+T3	PROCEDURE 712 732	Physical examination
+T33	PROCEDURE 808 856	Examination of the head, neck, chest and abdomen
+T36	PROCEDURE 921 937	laboratory tests
+T37	PROCEDURE 939 948	haemogram
+T25	PROCEDURE 953 965	biochemistry
+T39	PROCEDURE 973 984	chest X-ray
+T42	PROCEDURE 1257 1287	X-ray of the paranasal sinuses
+T43	PROCEDURE 1660 1668	analysis
+T4	PROCEDURE 1675 1699	faecal occult blood test
+T6	PROCEDURE 1811 1818	mantoux
+T48	PROCEDURE 1857 1886	sputum and urine Ziehl's test
+T7	PROCEDURE 1908 1937	baseline arterial blood gases
+T8	PROCEDURE 1939 1963	pulmonary function tests
+T14	PROCEDURE 1965 1968	PFT
+T9	PROCEDURE 1974 2001	methacholine challenge test
+T10	PROCEDURE 2003 2020	fibrobronchoscopy
+T52	PROCEDURE 2026 2059	thoracic computed tomography (CT)
+T29	PROCEDURE 2056 2058	CT
+T11	PROCEDURE 2136 2151	bronchodilators
+T5	PROCEDURE 2513 2537	faecal occult blood test
+T12	PROCEDURE 2675 2686	colonoscopy
+T13	PROCEDURE 2694 2706	opaque enema
+T64	PROCEDURE 3098 3115	abdominal CT scan
+T15	PROCEDURE 3248 3259	gastroscopy
+T16	PROCEDURE 3264 3270	biopsy
+T20	PROCEDURE 3279 3296	oral panendoscopy
+T24	PROCEDURE 3387 3407	pathological anatomy
+T17	PROCEDURE 3413 3419	biopsy
+T21	PROCEDURE 3488 3510	exploratory laparotomy
+T28	PROCEDURE 3667 3715	Several of these nodules were removed for biopsy
+T18	PROCEDURE 3709 3715	biopsy
+T22	PROCEDURE 3722 3764	partial gastrectomy with gastrojejunostomy
+T19	PROCEDURE 3784 3790	biopsy
+T27	PROCEDURE 4030 4048	adjuvant treatment
+T23	PROCEDURE 4137 4157	palliative treatment

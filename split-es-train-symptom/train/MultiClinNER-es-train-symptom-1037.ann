@@ -1,0 +1,59 @@
+T1	SYMPTOM 104 118	dolor torácico
+T2	SYMPTOM 303 315	Asintomático
+T3	SYMPTOM 412 458	dolores tipo pinchazos a nivel de la mandíbula
+T4	SYMPTOM 574 592	cortejo vegetativo
+T6	SYMPTOM 865 890	hemodinámicamente estable
+T7	SYMPTOM 997 1023	orientado en las 3 esferas
+T8	SYMPTOM 1025 1043	Eupneico en reposo
+T9	SYMPTOM 1045 1059	bien hidratado
+T10	SYMPTOM 1061 1068	nutrido
+T11	SYMPTOM 1071 1081	perfundido
+T12	SYMPTOM 1087 1094	rítmico
+T13	SYMPTOM 1099 1105	soplos
+T14	SYMPTOM 1109 1119	extratonos
+T15	SYMPTOM 1125 1181	murmullo vesicular conservado en ambos campos pulmonares
+T16	SYMPTOM 1186 1206	ruidos sobreañadidos
+T17	SYMPTOM 1208 1253	Abdomen: ruidos hidroaéreos presentes, blando
+T20	SYMPTOM 1360 1373	signos de TVP
+T21	SYMPTOM 1375 1426	Exploración neurológica básica dentro la normalidad
+T22	SYMPTOM 1458 1471	ritmo sinusal
+T23	SYMPTOM 1482 1525	Pobre crecimiento de onda R en precordiales
+T29	SYMPTOM 2849 2874	Cultivo de SARM: negativo
+T30	SYMPTOM 2923 2958	VI con función sistólica conservada
+T32	SYMPTOM 3468 3482	dolor torácico
+T33	SYMPTOM 3679 3704	estable hemodinámicamente
+T34	SYMPTOM 3706 3718	asintomático
+T35	SYMPTOM 3724 3755	alteraciones del ritmo cardiaco
+T36	SYMPTOM 3877 3896	leve dolor torácico
+T37	SYMPTOM 4030 4068	aumento de transaminasas y bilirrubina
+T38	SYMPTOM 4391 4407	malestar general
+T39	SYMPTOM 4409 4417	mialgias
+T40	SYMPTOM 4420 4440	sensación distermica
+T41	SYMPTOM 4445 4454	febrícula
+T42	SYMPTOM 4568 4582	dolor torácico
+T43	SYMPTOM 4623 4665	elevación de marcadores de daño miocárdico
+T44	SYMPTOM 4819 4833	dolor torácico
+T45	SYMPTOM 4937 4952	FEVI preservada
+T46	SYMPTOM 4957 4999	alteraciones en la contractibilidad global
+T47	SYMPTOM 5261 5276	FEVI conservada
+T5	SYMPTOM 1782 1805	Raíz de la aorta normal
+T24	SYMPTOM 3330 3345	FEVI preservada
+T26	SYMPTOM 3255 3288	TCI, DA y CD dentro la normalidad
+T105	SYMPTOM 1332 1355	Extremidades: no edemas
+T117	SYMPTOM 4528 4551	coronarias sin lesiones
+T118	SYMPTOM 4319 4334	cuadro catarral
+T124	SYMPTOM 2641 2668	infiltrados parenquimatosos
+T27	SYMPTOM 1258 1305	doloroso a la palpación profunda ni superficial
+T19	SYMPTOM 1527 1559	onda Q aislada en derivación III
+T28	SYMPTOM 4073 4129	alteraciones clínicas a la exploración a nivel digestivo
+T31	SYMPTOM 1307 1330	Puñopercusión renal (-)
+T102	SYMPTOM 1696 1780	VI no dilatado, ni hipertrófico, con función sistólica global y segmentaria normales
+T25	SYMPTOM 1807 1821	VD no dilatado
+T103	SYMPTOM 2681 2698	IgM VHA: negativo
+T106	SYMPTOM 2700 2722	IgG anti HBc: negativo
+T107	SYMPTOM 2724 2742	Anti VHC: negativo
+T108	SYMPTOM 2744 2766	IgM anti CMV: negativo
+T109	SYMPTOM 2768 2794	IgM frente a VCA: negativo
+T110	SYMPTOM 2796 2814	Anti VIH: negativo
+T111	SYMPTOM 2816 2847	Toxoplasmosis IgG IgM: negativo
+T112	SYMPTOM 3488 3508	elevación enzimática

@@ -1,0 +1,49 @@
+T35	SYMPTOM 195 211	long QT syndrome
+T36	SYMPTOM 1060 1080	dyspnoea on exertion
+T1	SYMPTOM 1102 1112	chest pain
+T3	SYMPTOM 1114 1126	palpitations
+T5	SYMPTOM 1161 1183	Good general condition
+T29	SYMPTOM 1185 1211	Well hydrated and perfused
+T6	SYMPTOM 1213 1228	Eupneic at rest
+T7	SYMPTOM 1330 1332	IY
+T8	SYMPTOM 1359 1391	Carotid arteries without murmurs
+T10	SYMPTOM 1384 1391	murmurs
+T9	SYMPTOM 1393 1437	Cardiac and pulmonary auscultation: rhythmic
+T11	SYMPTOM 1463 1470	murmurs
+T12	SYMPTOM 1546 1575	Abdomen: soft and depressible
+T13	SYMPTOM 1581 1601	painful on palpation
+T14	SYMPTOM 1615 1625	peritonism
+T15	SYMPTOM 1630 1636	masses
+T37	SYMPTOM 1640 1649	megaliths
+T30	SYMPTOM 1651 1673	Lower limbs: no oedema
+T16	SYMPTOM 1714 1751	Distal pulses present and symmetrical
+T31	SYMPTOM 1824 1835	normal axis
+T17	SYMPTOM 1848 1856	wide QRS
+T38	SYMPTOM 1892 1928	secondary repolarisation alterations
+T39	SYMPTOM 1997 2023	left ventricle not dilated
+T18	SYMPTOM 2108 2131	Non-dilated left atrium
+T19	SYMPTOM 2133 2169	Right ventricle of normal dimensions
+T20	SYMPTOM 2171 2190	Normal right atrium
+T40	SYMPTOM 2235 2315	Trivalve aortic valve with mild degenerative signs and jet of mild insufficiency
+T41	SYMPTOM 2352 2399	Mitral valve with normal appearance and functio
+T21	SYMPTOM 2461 2491	Preserved LV systolic function
+T28	SYMPTOM 2610 2651	asynchrony of the interventricular septum
+T43	SYMPTOM 2696 2715	impaired relaxation
+T42	SYMPTOM 2725 2754	increase in filling pressures
+T22	SYMPTOM 2756 2786	Preserved RV systolic function
+T44	SYMPTOM 2795 2825	Inferior vena cava not dilated
+T23	SYMPTOM 3004 3016	sinus rhythm
+T24	SYMPTOM 3093 3111	significant pauses
+T45	SYMPTOM 3167 3183	T wave alternans
+T33	SYMPTOM 3592 3607	ischaemic signs
+T25	SYMPTOM 3750 3794	Genetic test (channelopathy panel): negative
+T46	SYMPTOM 3990 4026	secondary repolarisation alterations
+T4	SYMPTOM 4154 4166	palpitations
+T2	SYMPTOM 4170 4180	chest pain
+T26	SYMPTOM 4304 4385	left ventricle with mild concentric hypertrophy of its walls with normal function
+T47	SYMPTOM 4676 4707	lengthening of the QTc interval
+T48	SYMPTOM 5031 5049	T wave alternation
+T49	SYMPTOM 5230 5278	genetic study was requested, but it was negative
+T32	SYMPTOM 5396 5418	negative genetic study
+T34	SYMPTOM 5534 5551	negative genetics
+T27	SYMPTOM 5581 5605	Normal systolic function

@@ -1,0 +1,43 @@
+T1	SYMPTOM 123 129	disnea
+T2	SYMPTOM 422 436	soplo cardiaco
+T4	SYMPTOM 982 998	disnea en reposo
+T5	SYMPTOM 1019 1027	ortopnea
+T6	SYMPTOM 1084 1129	disminución subjetiva del volumen de diuresis
+T7	SYMPTOM 1181 1204	dolor torácico anginoso
+T8	SYMPTOM 1423 1455	Presión venosa yugular aumentada
+T9	SYMPTOM 1465 1495	Auscultación cardiaca: rítmica
+T10	SYMPTOM 1501 1554	soplo sistólico en foco aórtico irradiado a carótidas
+T11	SYMPTOM 1566 1593	abolición del segundo ruido
+T12	SYMPTOM 1595 1643	Soplo sistólico en foco mitral irradiado a axila
+T13	SYMPTOM 1675 1699	crepitantes mediobasales
+T14	SYMPTOM 1701 1766	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T16	SYMPTOM 1771 1776	masas
+T17	SYMPTOM 1780 1788	megalias
+T20	SYMPTOM 1819 1849	Reflujo hepatoyugular positivo
+T22	SYMPTOM 1896 1939	pulsos periféricos conservados y simétricos
+T23	SYMPTOM 2476 2525	Hilios pulmonares prominentes de aspecto vascular
+T24	SYMPTOM 2527 2560	Signos de redistribución vascular
+T25	SYMPTOM 2613 2622	PR normal
+T27	SYMPTOM 2857 2869	leucocitosis
+T28	SYMPTOM 2873 2893	desviación izquierda
+T29	SYMPTOM 3225 3237	leucocitosis
+T30	SYMPTOM 3241 3261	desviación izquierda
+T31	SYMPTOM 3537 3602	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica
+T37	SYMPTOM 5395 5401	disnea
+T38	SYMPTOM 5413 5455	disminución franca del volumen de diuresis
+T39	SYMPTOM 5480 5491	hipotensión
+T43	SYMPTOM 7832 7838	exitus
+T148	SYMPTOM 1790 1817	Blumberg y Murphy negativos
+T164	SYMPTOM 2582 2601	taquicardia sinusal
+T3	SYMPTOM 2432 2474	Pinzamiento de seno costofrénico izquierdo
+T15	SYMPTOM 3611 3629	Hipocinesia global
+T19	SYMPTOM 4304 4338	Arterias coronarias: tronco normal
+T169	SYMPTOM 2624 2634	Eje normal
+T171	SYMPTOM 1851 1894	Extremidades: sin edemas en partes declives
+T192	SYMPTOM 1135 1165	edematización asociada de MMII
+T194	SYMPTOM 8345 8351	muerte
+T210	SYMPTOM 2774 2794	sobrecarga sistólica
+T26	SYMPTOM 3978 4007	VD de diámetros no aumentados
+T33	SYMPTOM 4399 4452	Arteria circunfleja con irregularidades sin estenosis
+T34	SYMPTOM 4112 4146	Vena cava inferior (VCI) pletórica
+T35	SYMPTOM 5131 5170	extravasación de contraste a pericardio

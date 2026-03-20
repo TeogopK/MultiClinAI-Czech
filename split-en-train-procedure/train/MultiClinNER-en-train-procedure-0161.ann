@@ -1,0 +1,13 @@
+T4	PROCEDURE 248 258	Rhinoscopy
+T5	PROCEDURE 509 515	biopsy
+T10	PROCEDURE 556 584	CT scan of the head and neck
+T3	PROCEDURE 683 707	MRI of the head and neck
+T13	PROCEDURE 946 967	CT scan of the thorax
+T2	PROCEDURE 974 983	bone scan
+T8	PROCEDURE 1022 1037	extension study
+T1	PROCEDURE 1091 1120	functional endoscopic surgery
+T7	PROCEDURE 1129 1149	pathological anatomy
+T20	PROCEDURE 1196 1203	CT scan
+T21	PROCEDURE 1351 1436	Adjuvant treatment with external radiotherapy was decided, using a Linear Accelerator
+T22	PROCEDURE 1468 1564	tissue compensation wedges after virtual simulation and 3D planning on individualised helical CT
+T6	PROCEDURE 1801 1812	irradiation

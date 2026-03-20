@@ -1,0 +1,83 @@
+T1	SYMPTOM 328 333	fever
+T5	SYMPTOM 354 364	drowsiness
+T55	SYMPTOM 369 399	"clumsiness" in the right hand
+T2	SYMPTOM 529 534	fever
+T6	SYMPTOM 539 544	cough
+T3	SYMPTOM 833 838	fever
+T7	SYMPTOM 840 848	asthenia
+T9	SYMPTOM 866 877	weight loss
+T35	SYMPTOM 1156 1162	Pallor
+T10	SYMPTOM 1167 1188	jugular ingurgitation
+T11	SYMPTOM 1253 1274	rhythmic heart sounds
+T56	SYMPTOM 1280 1345	systolic murmur in mitral focus grade 3/6 radiating to the axilla
+T12	SYMPTOM 1371 1397	preserved vesicular murmur
+T57	SYMPTOM 1406 1422	additional sound
+T58	SYMPTOM 1425 1453	Abdomen soft and non-painful
+T49	SYMPTOM 1496 1541	Upper extremities (EESS) without skin lesions
+T36	SYMPTOM 1543 1601	Lower extremities (LES) without oedema with pulses present
+T59	SYMPTOM 1671 1684	Janeway spots
+T13	SYMPTOM 1741 1753	bradypsychia
+T60	SYMPTOM 1771 1781	somnolence
+T14	SYMPTOM 1783 1817	cranial nerves without alterations
+T61	SYMPTOM 1829 1867	dysmetria in the right upper extremity
+T46	SYMPTOM 1873 1907	preserved strength and sensitivity
+T15	SYMPTOM 2289 2301	sinus rhythm
+T43	SYMPTOM 2313 2324	normal axis
+T16	SYMPTOM 2326 2335	normal PR
+T17	SYMPTOM 2337 2347	narrow QRS
+T62	SYMPTOM 2356 2382	repolarisation alterations
+T63	SYMPTOM 2410 2437	normal cardiothoracic index
+T64	SYMPTOM 2442 2470	signs of consolidating focus
+T18	SYMPTOM 2474 2497	vascular redistribution
+T19	SYMPTOM 2499 2581	Blood cultures (positive after 72 hours of admission): Aggregatibacter aphrophilus
+T65	SYMPTOM 2598 2630	Serology: HIV, HBV, HCV negative
+T38	SYMPTOM 2632 2671	Brucella, Coxiella, Bartonella negative
+T47	SYMPTOM 2803 2824	normal wall thickness
+T20	SYMPTOM 2826 2856	Preserved LV systolic function
+T66	SYMPTOM 2889 2924	segmental contractility alterations
+T39	SYMPTOM 2926 2956	Pseudonormal diastolic pattern
+T67	SYMPTOM 3012 3057	Right chambers at the high limit of normality
+T68	SYMPTOM 3102 3148	preserved right ventricular (RV) contractility
+T69	SYMPTOM 3220 3284	Mitral valve (MV): thickened leaflets, not limited in its openin
+T70	SYMPTOM 3307 3389	posterior region of the mitral annulus (A3-P3), hyperdense and heterogeneous image
+T48	SYMPTOM 3592 3619	eccentric regurgitation jet
+T71	SYMPTOM 3724 3764	abolition of flow in the pulmonary valve
+T72	SYMPTOM 3820 3892	Aortic valve (VAo): trivalve, normal sigmoid, not limited in its opening
+T73	SYMPTOM 4069 4138	Inferior vena cava (IVC) not dilated with normal inspiratory collapse
+T21	SYMPTOM 4256 4270	MV, large mass
+T22	SYMPTOM 4704 4708	mass
+T37	SYMPTOM 4933 4939	oedema
+T50	SYMPTOM 4944 5011	another in the right cerebellar hemisphere of heterogeneous density
+T23	SYMPTOM 5052 5085	mass effect on the fourth ventric
+T74	SYMPTOM 5169 5248	No significant enhancement or annular enhancement after contrast administration
+T29	SYMPTOM 5303 5404	hypodense mass measuring 27 x 15 mm located in the posterior and anterior leaflet of the mitral valve
+T24	SYMPTOM 5971 6035	Subpleural pulmonary nodules in the posterior segment of the LSD
+T25	SYMPTOM 6157 6235	multiple small hyperintense lesions in T2 sequences of supratentorial location
+T51	SYMPTOM 6512 6535	haemorrhagic microfocus
+T26	SYMPTOM 6669 6704	mass effect on the fourth ventricle
+T52	SYMPTOM 6772 6800	Non-specific diffusion study
+T30	SYMPTOM 6925 6940	Porta permeable
+T75	SYMPTOM 6942 6972	Suprahepatic veins not dilated
+T76	SYMPTOM 7095 7121	Bile ducts are not dilated
+T53	SYMPTOM 7123 7190	Pancreas and spleen of preserved size, morphology and echostructure
+T40	SYMPTOM 7192 7229	Kidneys of normal size and morphology
+T77	SYMPTOM 7231 7260	Excretory systems not dilated
+T42	SYMPTOM 7265 7286	abdominal collections
+T54	SYMPTOM 7299 7351	ultrasound alterations in the gastrointestinal tract
+T34	SYMPTOM 7410 7433	constitutional syndrome
+T45	SYMPTOM 7438 7459	neurological focality
+T31	SYMPTOM 7743 7765	mitral systolic murmur
+T27	SYMPTOM 7831 7877	mass dependent on the posterior mitral leaflet
+T41	SYMPTOM 7904 7928	normal-sized left atrium
+T28	SYMPTOM 8120 8166	mass dependent on the posterior mitral leaflet
+T4	SYMPTOM 8192 8197	fever
+T32	SYMPTOM 8319 8361	haemodynamically and neurologically stable
+T78	SYMPTOM 9454 9473	Candida involvement
+T8	SYMPTOM 9531 9539	asthenia
+T79	SYMPTOM 9578 9599	neurological symptoms
+T80	SYMPTOM 9604 9617	febrile peaks
+T81	SYMPTOM 9663 9729	Aggregatibacter aphrophilus was isolated in several blood cultures
+T82	SYMPTOM 10261 10274	febrile peaks
+T83	SYMPTOM 10318 10399	ultrasound scan of the abdomen was requested, which was compatible with normality
+T33	SYMPTOM 10703 10711	afebrile
+T44	SYMPTOM 11335 11352	clinically stable

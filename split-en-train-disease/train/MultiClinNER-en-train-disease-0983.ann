@@ -1,0 +1,50 @@
+T11	DISEASE 146 162	arrhythmic storm
+T50	DISEASE 279 285	Smoker
+T15	DISEASE 287 308	Arterial hypertension
+T1	DISEASE 310 313	AHT
+T20	DISEASE 316 329	dyslipidaemia
+T21	DISEASE 331 355	type 2 diabetes mellitus
+T45	DISEASE 400 431	Stage 3A chronic kidney disease
+T2	DISEASE 433 436	CKD
+T3	DISEASE 439 483	Severe chronic obstructive pulmonary disease
+T22	DISEASE 485 489	COPD
+T24	DISEASE 492 509	Bladder neoplasia
+T26	DISEASE 624 655	chronic ischaemic heart disease
+T28	DISEASE 657 684	acute myocardial infarction
+T4	DISEASE 686 689	AMI
+T12	DISEASE 810 826	arrhythmic storm
+T52	DISEASE 840 858	arrhythmic problem
+T29	DISEASE 987 1024	non-sustained ventricular tachycardia
+T5	DISEASE 1026 1030	NSVT
+T54	DISEASE 1146 1169	arrhythmogenic activity
+T30	DISEASE 1254 1308	diffuse ischaemic heart disease, with 3-vessel disease
+T32	DISEASE 1485 1508	ventricular tachycardia
+T6	DISEASE 1510 1512	VT
+T33	DISEASE 1550 1586	complete atrioventricular (AV) block
+T36	DISEASE 1740 1763	ischaemic heart disease
+T13	DISEASE 1809 1825	arrhythmic storm
+T38	DISEASE 1832 1862	severe ventricular dysfunction
+T39	DISEASE 2315 2321	angina
+T40	DISEASE 2326 2349	ventricular arrhythmias
+T53	DISEASE 3361 3379	infectious process
+T41	DISEASE 3392 3403	bacteraemia
+T42	DISEASE 3576 3602	bilateral pleural effusion
+T10	DISEASE 3767 3807	severe depression of myocardial function
+T7	DISEASE 3973 4012	vegetation dependent on the device lead
+T8	DISEASE 4324 4348	vegetation on the device
+T9	DISEASE 4392 4417	infection of the ICD lead
+T16	DISEASE 4542 4571	infection of the ICD catheter
+T31	DISEASE 5067 5071	NSVT
+T23	DISEASE 5610 5710	Endocarditis due to methicillin-sensitive S. aureus on native tricuspid valve associated with device
+T19	DISEASE 5712 5743	Complete AV block post-ablation
+T14	DISEASE 5756 5772	arrhythmic storm
+T27	DISEASE 5803 5834	Chronic ischaemic heart disease
+T43	DISEASE 5836 5864	Mild ventricular dysfunction
+T44	DISEASE 5866 5897	Moderate pulmonary hypertension
+T51	DISEASE 5899 5910	Severe COPD
+T46	DISEASE 5912 5943	Stage 3A chronic kidney disease
+T25	DISEASE 6019 6036	bladder neoplasia
+T47	DISEASE 6049 6073	prostatic adenocarcinoma
+T17	DISEASE 6075 6096	Arterial hypertension
+T49	DISEASE 6098 6115	Diabetes mellitus
+T18	DISEASE 6117 6127	Dyslipemia

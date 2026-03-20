@@ -1,0 +1,41 @@
+T59	PROCEDURE 447 503	recambio valvular aórtico (prótesis St Jude Regent No19)
+T60	PROCEDURE 506 533	injerto de aorta ascendente
+T61	PROCEDURE 692 706	ecocardiograma
+T62	PROCEDURE 1132 1166	resonancia magnética (RMN) craneal
+T63	PROCEDURE 1270 1296	Bypass gástrico (Y de Roux
+T64	PROCEDURE 1300 1314	eventroplastia
+T65	PROCEDURE 1361 1376	Colecistectomía
+T66	PROCEDURE 1379 1392	histerectomía
+T67	PROCEDURE 2083 2098	anticoagulación
+T68	PROCEDURE 2131 2149	Exploración física
+T69	PROCEDURE 2305 2326	Auscultación cardiaca
+T70	PROCEDURE 2427 2448	Auscultación pulmonar
+T71	PROCEDURE 2584 2593	Hemograma
+T72	PROCEDURE 2776 2787	Coagulación
+T73	PROCEDURE 2799 2818	Gasometría arterial
+T74	PROCEDURE 2872 2890	Electrocardiograma
+T75	PROCEDURE 2892 2895	ECG
+T76	PROCEDURE 2975 2995	Radiografía de tórax
+T77	PROCEDURE 3039 3057	esternotomía media
+T78	PROCEDURE 3106 3137	Angio-TC de arterias pulmonares
+T79	PROCEDURE 3188 3216	Ecocardiograma transtorácico
+T80	PROCEDURE 3675 3687	Fluoroscopia
+T81	PROCEDURE 3745 3774	Ecocardiograma transesofágico
+T82	PROCEDURE 4190 4210	radiografía de tórax
+T83	PROCEDURE 4276 4307	angio-TC de arterias pulmonares
+T84	PROCEDURE 4470 4498	ecocardiograma transtorácico
+T85	PROCEDURE 4657 4669	fluoroscopia
+T86	PROCEDURE 4755 4784	ecocardiograma transesofágico
+T87	PROCEDURE 5031 5052	tratamiento diurético
+T89	PROCEDURE 5309 5346	se implanta una prótesis mecánica ATS
+T90	PROCEDURE 5383 5421	implantación de una prótesis biológica
+T91	PROCEDURE 5561 5575	ecocardiograma
+T92	PROCEDURE 5814 5855	Implante de prótesis mecánica aórtica ATS
+T108	PROCEDURE 2668 2678	Bioquímica
+T109	PROCEDURE 2150 2168	Constantes vitales
+T110	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T111	PROCEDURE 1154 1157	RMN
+T112	PROCEDURE 5124 5152	sustitución valvular aórtica
+T128	PROCEDURE 2573 2582	Analítica
+T134	PROCEDURE 1242 1268	Intervenciones quirúrgicas
+#1	AnnotatorNotes T111	 Resonancia magnética nuclear

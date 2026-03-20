@@ -1,0 +1,49 @@
+T2	SYMPTOM 1075 1099	ondas Q en cara inferior
+T3	SYMPTOM 1177 1247	alteraciones de la contractilidad en cara inferior a nivel medio-basal
+T4	SYMPTOM 1762 1776	dolor torácico
+T5	SYMPTOM 1932 1951	Buen estado general
+T6	SYMPTOM 1953 1967	normohidratado
+T7	SYMPTOM 1969 1983	normocoloreado
+T8	SYMPTOM 1985 2003	Eupneico en reposo
+T9	SYMPTOM 2038 2048	Consciente
+T10	SYMPTOM 2050 2059	orientado
+T12	SYMPTOM 2079 2100	focalidad neurológica
+T13	SYMPTOM 2242 2281	Auscultación cardiaca: ruidos regulares
+T14	SYMPTOM 2287 2293	soplos
+T15	SYMPTOM 2327 2356	murmullo vesicular conservado
+T16	SYMPTOM 2362 2372	estertores
+T17	SYMPTOM 2378 2414	edematización en miembros inferiores
+T18	SYMPTOM 2416 2453	Pulsos radiales y femorales presentes
+T19	SYMPTOM 2564 2577	ritmo sinusal
+T20	SYMPTOM 2599 2611	QRS estrecho
+T21	SYMPTOM 2628 2651	onda Q en II, III y aVF
+T22	SYMPTOM 2653 2674	onda T aplanada V4-V6
+T23	SYMPTOM 2681 2723	volúmenes de ventrículo izquierdo normales
+T24	SYMPTOM 2728 2769	función sistólica moderadamente deprimida
+T25	SYMPTOM 2782 2853	Hipocinesia de segmentos basales inferoseptal, inferior e inferolateral
+T26	SYMPTOM 2855 2865	Discinesia
+T28	SYMPTOM 3148 3188	Volúmenes de ventrículo derecho normales
+T29	SYMPTOM 3194 3218	función sistólica normal
+T30	SYMPTOM 3231 3257	Aurículas de tamaño normal
+T31	SYMPTOM 3879 3916	silueta mediastínica de tamaño normal
+T36	SYMPTOM 5106 5136	Ventrículo derecho no dilatado
+T37	SYMPTOM 6283 6354	Función sistólica global de ventrículo izquierdo moderadamente reducida
+T1	SYMPTOM 267 302	electrocardiograma (ECG) patológico
+T109	SYMPTOM 1256 1325	fracción de eyección del ventrículo izquierdo moderadamente deprimida
+T27	SYMPTOM 3717 3780	función sistólica ventricular izquierda moderadamente deprimida
+T32	SYMPTOM 4398 4461	ventrículo izquierdo no dilatado, con ligera hipertrofia septal
+T33	SYMPTOM 4827 4881	Función sistólica global de VI moderadamente deprimida
+T35	SYMPTOM 6096 6129	ventrículo izquierdo con acinesia
+T116	SYMPTOM 2008 2036	uso de musculatura accesoria
+T119	SYMPTOM 3291 3362	Hipoperfusión de primer paso en reposo en los segmentos disfuncionantes
+T124	SYMPTOM 2868 2935	adelgazamiento grave (< 2 mm) localizado en segmento medio inferior
+T130	SYMPTOM 2062 2073	colaborador
+T131	SYMPTOM 8078 8112	estabilidad clínica y hemodinámica
+T38	SYMPTOM 945 984	trazado electrocardiográfico patológico
+T118	SYMPTOM 3259 3289	Grandes vasos de tamaño normal
+T120	SYMPTOM 4608 4651	defecto en la pared inferior segmento medio
+T122	SYMPTOM 4464 4519	acinesia de pared inferior e inferoseptal basal y medio
+T125	SYMPTOM 4476 4537	pared inferior e inferoseptal basal y medio (pared adelgazada
+T126	SYMPTOM 5021 5076	Válvula aórtica con gradientes transvalvulares normales
+T123	SYMPTOM 5248 5293	tronco coronario izquierdo (TCI) sin lesiones
+T127	SYMPTOM 5507 5600	Arteria circunfleja (ACx) no dominante, presenta irregularidades parietales no significativas

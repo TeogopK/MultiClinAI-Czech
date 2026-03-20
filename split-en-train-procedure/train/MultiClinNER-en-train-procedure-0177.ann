@@ -1,0 +1,21 @@
+T1	PROCEDURE 39 67	laparoscopic cholecystectomy
+T15	PROCEDURE 222 235	imaging tests
+T2	PROCEDURE 282 292	ultrasound
+T5	PROCEDURE 294 296	CT
+T21	PROCEDURE 298 322	CT with pigtail drainage
+T3	PROCEDURE 338 342	bMRI
+T4	PROCEDURE 344 359	diagnostic ERCP
+T6	PROCEDURE 375 379	ERCP
+T8	PROCEDURE 385 423	placement of a 7 cm 10 F biliary stent
+T22	PROCEDURE 727 743	Laboratory tests
+T7	PROCEDURE 980 1027	internal biliary drainage of the main bile duct
+T16	PROCEDURE 1140 1147	operate
+T9	PROCEDURE 1174 1189	cholecystectomy
+T25	PROCEDURE 1378 1414	intraoperatively did cholangiography
+T10	PROCEDURE 1445 1471	juxtahilar biliary fistula
+T26	PROCEDURE 1744 1864	Roux-en-Y loop cholangiojejunostomy with transanastomotic guidance by means of a siliconised paediatric feeding catheter
+T11	PROCEDURE 1897 1926	transcatheter cholangiography
+T13	PROCEDURE 1972 1983	anastomosis
+T29	PROCEDURE 2042 2100	transanastomotic tutor was removed one month after surgery
+T12	PROCEDURE 2116 2132	cholangiographic
+T14	PROCEDURE 2201 2212	anastomosis

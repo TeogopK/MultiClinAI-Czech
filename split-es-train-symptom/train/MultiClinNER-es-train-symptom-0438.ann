@@ -1,0 +1,23 @@
+T2	SYMPTOM 68 78	artralgias
+T3	SYMPTOM 201 211	obnubilado
+T4	SYMPTOM 217 276	rash petequial puntiforme de predominio en raíz de miembros
+T5	SYMPTOM 278 303	mala perfusión periférica
+T6	SYMPTOM 318 329	taquicardia
+T7	SYMPTOM 331 363	aumento del trabajo respiratorio
+T8	SYMPTOM 365 377	desaturación
+T9	SYMPTOM 380 391	oligoanuria
+T10	SYMPTOM 438 448	leucopenia
+T11	SYMPTOM 462 475	plaquetopenia
+T12	SYMPTOM 568 574	anuria
+T13	SYMPTOM 1055 1096	afectación alveolo-intersticial bilateral
+T14	SYMPTOM 1690 1751	S. pyogenes serotipo M1T1 en hemocultivo y aspirado bronquial
+T15	SYMPTOM 947 966	acidosis metabólica
+T16	SYMPTOM 1646 1652	éxitus
+T17	SYMPTOM 305 316	hipotensión
+T18	SYMPTOM 51 65	fiebre elevada
+A1	RESULTADO T10
+A2	RESULTADO T11
+A3	IMAGEN T13
+A4	RESULTADO T14
+A5	RESULTADO T15
+A6	EXITUS T16

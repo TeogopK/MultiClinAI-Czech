@@ -1,0 +1,33 @@
+T78	PROCEDURE 498 512	ecocardiograma
+T79	PROCEDURE 944 987	mixoma, realizándose una resección completa
+T80	PROCEDURE 1182 1196	ecocardiograma
+T81	PROCEDURE 1219 1250	Doppler de tronco supraaórticos
+T82	PROCEDURE 1335 1349	antiagregación
+T83	PROCEDURE 1670 1684	ecocardiograma
+T84	PROCEDURE 1769 1787	Exploración física
+T85	PROCEDURE 1985 2015	Exploración de pares craneales
+T86	PROCEDURE 2085 2138	Exploración de la sensibilidad superficial y profunda
+T87	PROCEDURE 2210 2239	Prueba dedo nariz y dedo-dedo
+T88	PROCEDURE 2486 2507	Auscultación cardiaca
+T89	PROCEDURE 2545 2566	Auscultación pulmonar
+T90	PROCEDURE 2672 2681	palpación
+T91	PROCEDURE 2907 2925	Electrocardiograma
+T92	PROCEDURE 2927 2930	ECG
+T93	PROCEDURE 3021 3040	Analítica de sangre
+T94	PROCEDURE 3140 3149	Hemograma
+T95	PROCEDURE 3216 3227	Coagulación
+T96	PROCEDURE 3268 3288	Radiografía de tórax
+T97	PROCEDURE 3530 3548	esternotomía media
+T98	PROCEDURE 3570 3608	Tomografía computarizada (TC) cerebral
+T99	PROCEDURE 3755 3784	Ecocardiograma transesofágico
+T100	PROCEDURE 4814 4829	anticoagulación
+T103	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T104	PROCEDURE 3042 3052	bioquímica
+T105	PROCEDURE 4908 4928	cateterismo cardiaco
+T106	PROCEDURE 3596 3598	TC
+T109	PROCEDURE 3477 3480	MCP
+T128	PROCEDURE 916 939	intervención quirúrgica
+T129	PROCEDURE 5124 5147	intervención quirúrgica
+T135	PROCEDURE 4855 4880	reintervención quirúrgica
+T22	PROCEDURE 223 243	marcapasos bicameral
+T27	PROCEDURE 348 351	VVI

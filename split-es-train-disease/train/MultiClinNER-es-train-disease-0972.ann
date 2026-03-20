@@ -1,0 +1,23 @@
+T22	DISEASE 74 77	HTA
+T23	DISEASE 82 84	DM
+T24	DISEASE 88 100	hiperlipemia
+T25	DISEASE 979 992	cardiomegalia
+T26	DISEASE 1124 1127	TEP
+T27	DISEASE 1129 1154	Derrame pleural bilateral
+T28	DISEASE 1196 1222	adenopatías paratraqueales
+T29	DISEASE 1735 1749	Hipertrofia VI
+T30	DISEASE 1791 1836	Válvula mitral engrosada con IM leve-moderada
+T31	DISEASE 1938 1961	adenopatía paratraqueal
+T34	DISEASE 2534 2562	Enfermedad de Chagas crónica
+T35	DISEASE 2565 2601	Disfunción sistólica de grado severo
+T36	DISEASE 111 119	Fumadora
+T37	DISEASE 1838 1845	IT leve
+T38	DISEASE 393 416	alergias medicamentosas
+T39	DISEASE 146 154	bebedora
+T41	DISEASE 256 261	BRIHH
+T42	DISEASE 957 962	BRIHH
+T43	DISEASE 1769 1780	AI dilatada
+T63	DISEASE 2248 2269	diagnóstico de Chagas
+T74	DISEASE 205 215	broncópata
+T75	DISEASE 191 201	cardiópata
+#1	AnnotatorNotes T37	 IT insuficiencia tricuspídea

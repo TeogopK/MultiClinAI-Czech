@@ -1,0 +1,40 @@
+T57	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 182 219	Hypothyroidism on replacement therapy
+T59	PROCEDURE 461 488	Immunosuppressive treatment
+T61	PROCEDURE 494 509	corticosteroids
+T62	PROCEDURE 730 748	haemodynamic study
+T64	PROCEDURE 792 826	Cardiac magnetic resonance imaging
+T2	PROCEDURE 1302 1359	Implantable cardioverter defibrillator (ICD) implantation
+T3	PROCEDURE 1504 1533	antibiotics were administered
+T4	PROCEDURE 2150 2168	cardiac transplant
+T65	PROCEDURE 2316 2340	corticosteroid treatment
+T5	PROCEDURE 2382 2415	bilateral hip replacement surgery
+T12	PROCEDURE 2792 2814	corticosteroid boluses
+T11	PROCEDURE 2911 2917	biopsy
+T10	PROCEDURE 3045 3067	atrial overstimulation
+T68	PROCEDURE 3079 3085	biopsy
+T58	PROCEDURE 3574 3594	physical examination
+T69	PROCEDURE 3729 3749	cardiac auscultation
+T84	PROCEDURE 3824 3833	palpation
+T70	PROCEDURE 3948 3965	Electrocardiogram
+T71	PROCEDURE 3967 3970	ECG
+T72	PROCEDURE 4084 4087	ECG
+T73	PROCEDURE 4193 4196	ECG
+T76	PROCEDURE 4263 4274	blood count
+T77	PROCEDURE 4389 4400	Coagulation
+T82	PROCEDURE 4467 4479	Biochemistry
+T13	PROCEDURE 4690 4732	Serialisation of myocardial damage markers
+T78	PROCEDURE 4803 4823	Coronary angiography
+T79	PROCEDURE 4984 5018	percutaneous coronary intervention
+T14	PROCEDURE 5020 5023	PCI
+T15	PROCEDURE 5026 5120	multiple dilatations with balloon angioplasty were attempted to recanalise the coronary artery
+T74	PROCEDURE 5375 5378	ECG
+T75	PROCEDURE 5633 5636	ECG
+T16	PROCEDURE 5736 5763	emergent haemodynamic study
+T80	PROCEDURE 5779 5794	Catheterisation
+T17	PROCEDURE 5938 5941	PCI
+T18	PROCEDURE 5943 5988	multiple dilatations with balloon angioplasty
+T81	PROCEDURE 6240 6243	CPR
+T66	PROCEDURE 6628 6652	corticosteroid treatment
+T60	PROCEDURE 6828 6855	immunosuppressive treatment
+T19	PROCEDURE 6897 6915	Cardiac transplant

@@ -1,0 +1,53 @@
+T85	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T111	PROCEDURE 409 422	anaemia study
+T80	PROCEDURE 466 497	laparoscopic rectosigmoidectomy
+T101	PROCEDURE 538 560	chemotherapy treatment
+T81	PROCEDURE 538 594	chemotherapy treatment with oxaliplatin and capecitabine
+T104	PROCEDURE 821 827	biopsy
+T4	PROCEDURE 948 990	chemotherapy (oxaliplatin and capecitabine
+T5	PROCEDURE 1164 1202	advanced cardiopulmonary resuscitation
+T82	PROCEDURE 1204 1207	CPR
+T115	PROCEDURE 1310 1316	shocks
+T83	PROCEDURE 1420 1442	orotracheal intubation
+T6	PROCEDURE 1444 1447	OTI
+T84	PROCEDURE 1453 1475	mechanical ventilation
+T86	PROCEDURE 1821 1841	Physical examination
+T7	PROCEDURE 1852 1863	examination
+T112	PROCEDURE 1959 1966	sedated
+T116	PROCEDURE 1968 1975	relaxed
+T87	PROCEDURE 1983 2003	invasive ventilation
+T8	PROCEDURE 2008 2011	OTI
+T9	PROCEDURE 2106 2109	OTI
+T11	PROCEDURE 2331 2343	laparoscopic
+T113	PROCEDURE 2427 2436	palpation
+T12	PROCEDURE 2560 2576	Laboratory tests
+T110	PROCEDURE 2578 2590	Biochemistry
+T13	PROCEDURE 3062 3065	CBC
+T88	PROCEDURE 3276 3287	Coagulation
+T14	PROCEDURE 3400 3414	Urine toxicity
+T89	PROCEDURE 3583 3597	urine sediment
+T15	PROCEDURE 3607 3637	3-lead electrocardiogram (ECG)
+T90	PROCEDURE 3633 3636	ECG
+T92	PROCEDURE 3699 3710	12-lead ECG
+T93	PROCEDURE 4032 4043	Chest X-ray
+T16	PROCEDURE 4320 4348	Transthoracic echocardiogram
+T94	PROCEDURE 4890 4932	Computed tomography (CT) coronary arteries
+T18	PROCEDURE 5008 5034	Cardiac magnetic resonance
+T20	PROCEDURE 5036 5039	CMR
+T114	PROCEDURE 5347 5360	STIR sequence
+T95	PROCEDURE 5764 5814	Positron emission tomography with 18F-deoxyglucose
+T96	PROCEDURE 5816 5819	PET
+T98	PROCEDURE 6318 6327	intubated
+T99	PROCEDURE 6400 6409	extubated
+T100	PROCEDURE 6637 6646	telemetry
+T102	PROCEDURE 6978 7000	chemotherapy treatment
+T103	PROCEDURE 7020 7043	echocardiographic study
+T25	PROCEDURE 7045 7072	CT of the coronary arteries
+T26	PROCEDURE 7092 7095	CMR
+T105	PROCEDURE 7282 7288	biopsy
+T27	PROCEDURE 7447 7450	CMR
+T106	PROCEDURE 7490 7517	anti-inflammatory treatment
+T108	PROCEDURE 7559 7565	PET-CT
+T107	PROCEDURE 7737 7764	anti-inflammatory treatment
+T28	PROCEDURE 7792 7863	subcutaneous implantable cardioverter defibrillator (ICD) was implanted
+T109	PROCEDURE 8271 8300	Subcutaneous ICD implantation

@@ -1,0 +1,50 @@
+T1	SYMPTOM 76 82	fiebre
+T2	SYMPTOM 116 127	escalofríos
+T3	SYMPTOM 129 137	tiritona
+T4	SYMPTOM 247 253	fiebre
+T5	SYMPTOM 269 276	astenia
+T6	SYMPTOM 279 303	dolores osteoarticulares
+T7	SYMPTOM 322 325	tos
+T8	SYMPTOM 330 343	expectoración
+T9	SYMPTOM 348 354	disnea
+T10	SYMPTOM 359 373	dolor torácico
+T11	SYMPTOM 378 385	nauseas
+T12	SYMPTOM 390 397	vómitos
+T13	SYMPTOM 474 491	clínica miccional
+T14	SYMPTOM 611 617	fiebre
+T15	SYMPTOM 623 639	malestar general
+T16	SYMPTOM 964 983	dolores articulares
+T17	SYMPTOM 985 1000	Pérdida de peso
+T18	SYMPTOM 2079 2093	Normocoloreado
+T19	SYMPTOM 2095 2109	Normohidratado
+T20	SYMPTOM 2114 2123	ictericia
+T21	SYMPTOM 2140 2166	Faringe normal sin exudado
+T22	SYMPTOM 2173 2184	crepitación
+T23	SYMPTOM 2199 2210	inflamación
+T24	SYMPTOM 2256 2285	Soplo de regurgitación mitral
+T25	SYMPTOM 2325 2354	Ruidos respiratorios normales
+T26	SYMPTOM 2358 2384	Abdomen: blando, deresible
+T27	SYMPTOM 2389 2397	doloroso
+T28	SYMPTOM 2412 2417	masas
+T29	SYMPTOM 2421 2436	visceromegalias
+T30	SYMPTOM 2440 2463	Extremidades sin edemas
+T31	SYMPTOM 2469 2485	pulsos palpables
+T32	SYMPTOM 2533 2566	pérdida de continuidad de la piel
+T33	SYMPTOM 2570 2580	Consciente
+T34	SYMPTOM 2582 2591	orientado
+T35	SYMPTOM 2593 2604	colaborador
+T36	SYMPTOM 2606 2621	lenguaje normal
+T37	SYMPTOM 2623 2650	moviliza las 4 extremidades
+T38	SYMPTOM 2652 2676	pares craneales normales
+T39	SYMPTOM 2678 2704	Signos meníngeos negativos
+T40	SYMPTOM 2744 2760	ritmo marcapasos
+T43	SYMPTOM 3787 3800	FE conservada
+T44	SYMPTOM 4197 4247	aumento focal de la actividad sobre válvula mitral
+T117	SYMPTOM 399 419	Deposiciones blandas
+T121	SYMPTOM 1428 1455	Portador de marcapasos DDDR
+T122	SYMPTOM 2243 2254	AC: Rítmica
+T123	SYMPTOM 2287 2317	clic valvular en soplo aórtico
+T124	SYMPTOM 3135 3178	Brucellamelitensisrosa de bengala: negativo
+T41	SYMPTOM 3955 3998	Prótesis biológica aórtica normofuncionante
+T42	SYMPTOM 4084 4105	Hemocultivospositivos
+T45	SYMPTOM 4681 4715	con válvula protésica y marcapasos

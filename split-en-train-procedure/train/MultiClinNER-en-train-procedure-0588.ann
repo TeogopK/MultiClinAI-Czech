@@ -1,0 +1,12 @@
+T3	PROCEDURE 235 238	ECG
+T6	PROCEDURE 473 493	Physical examination
+T7	PROCEDURE 542 570	cardiopulmonary auscultation
+T9	PROCEDURE 637 657	electrocardiographic
+T17	PROCEDURE 775 832	(blood tests with haemogram, biochemistry and coagulation
+T21	PROCEDURE 834 873	lateral and posteroanterior chest X-ray
+T2	PROCEDURE 880 894	echocardiogram
+T25	PROCEDURE 1027 1041	holter monitor
+T5	PROCEDURE 1160 1171	Cardiac MRI
+T28	PROCEDURE 1470 1483	beta-blockers
+T1	PROCEDURE 1708 1721	ICD implanted
+T8	PROCEDURE 1836 1858	Cardiac Rehabilitation

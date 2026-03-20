@@ -1,0 +1,26 @@
+T35	DISEASE 100 123	alergias medicamentosas
+T36	DISEASE 212 231	deterioro cognitivo
+T37	DISEASE 233 242	Exfumador
+T38	DISEASE 258 267	exbebedor
+T39	DISEASE 304 328	enfermedades metabólicas
+T40	DISEASE 386 407	fibrilación auricular
+T41	DISEASE 409 411	FA
+T42	DISEASE 555 577	cataratas (ambos ojos)
+T43	DISEASE 762 764	FA
+T45	DISEASE 1825 1850	trombosis venosa profunda
+T46	DISEASE 2225 2227	FA
+T47	DISEASE 2265 2314	bloqueo incompleto de rama derecha del haz de His
+T48	DISEASE 3302 3327	insuficiencia tricuspídea
+T49	DISEASE 3427 3448	hipertensión pulmonar
+T50	DISEASE 3562 3581	derrame pericárdico
+T51	DISEASE 3738 3744	mixoma
+T52	DISEASE 4096 4115	lesiones coronarias
+T53	DISEASE 4194 4200	mixoma
+T54	DISEASE 4263 4326	Mixoma asentado en vertiente auricular de la válvula tricúspide
+T55	DISEASE 4328 4342	FA paroxística
+T56	DISEASE 2316 2322	BIRDHH
+T57	DISEASE 2430 2436	BIRDHH
+T58	DISEASE 954 956	FA
+T59	DISEASE 2995 3022	Válvula aórtica esclerótica
+T60	DISEASE 1264 1272	síncopes
+#1	AnnotatorNotes T58	  Fibrilación auricular

@@ -1,0 +1,49 @@
+T1	SYMPTOM 371 380	dispepsia
+T2	SYMPTOM 533 562	dolor centrotorácico opresivo
+T3	SYMPTOM 626 631	dolor
+T5	SYMPTOM 767 782	sudoración leve
+T6	SYMPTOM 1391 1410	Buen estado general
+T7	SYMPTOM 1412 1422	Consciente
+T8	SYMPTOM 1424 1433	orientado
+T10	SYMPTOM 1448 1466	Eupneico en reposo
+T11	SYMPTOM 1468 1482	Normohidratado
+T12	SYMPTOM 1484 1498	Normocoloreado
+T13	SYMPTOM 1500 1529	Presión venosa yugular normal
+T14	SYMPTOM 1531 1549	Carótidas rítmicas
+T15	SYMPTOM 1555 1561	soplos
+T16	SYMPTOM 1563 1592	Auscultación cardiaca rítmica
+T17	SYMPTOM 1597 1603	soplos
+T20	SYMPTOM 1652 1681	murmullo vesicular conservado
+T23	SYMPTOM 1746 1778	Extremidades inferiores normales
+T24	SYMPTOM 1780 1821	Pulsos periféricos presentes y simétricos
+T25	SYMPTOM 1867 1880	ritmo sinusal
+T26	SYMPTOM 1891 1900	PR normal
+T27	SYMPTOM 1902 1914	QRS estrecho
+T28	SYMPTOM 1920 1953	alteraciones de la repolarización
+T29	SYMPTOM 2326 2367	Radiografía de tórax en Urgencias: normal
+T30	SYMPTOM 2400 2464	ventrículo izquierdo de tamaño y función sistólica global normal
+T31	SYMPTOM 2517 2572	Ventrículo derecho de tamaño y función sistólica normal
+T32	SYMPTOM 2685 2702	Pericardio normal
+T33	SYMPTOM 2842 2883	Respuesta tensional y cronotropa normales
+T34	SYMPTOM 3065 3079	dolor torácico
+T35	SYMPTOM 3104 3129	elevación del segmento ST
+T36	SYMPTOM 3584 3596	asintomático
+T37	SYMPTOM 3599 3624	estable hemodinámicamente
+T38	SYMPTOM 4097 4102	dolor
+T39	SYMPTOM 4181 4194	palpitaciones
+T40	SYMPTOM 4196 4201	mareo
+T41	SYMPTOM 4310 4347	elevación transitoria del segmento ST
+T42	SYMPTOM 4386 4400	dolor torácico
+T43	SYMPTOM 4566 4573	cefalea
+T44	SYMPTOM 4606 4615	dispepsia
+T54	SYMPTOM 4204 4211	síncope
+T98	SYMPTOM 2470 2515	alteraciones de la contractilidad segmentaria
+T99	SYMPTOM 1709 1733	Abdomen sin alteraciones
+T101	SYMPTOM 5429 5461	Arterias coronarias sin lesiones
+T110	SYMPTOM 1435 1446	colaborador
+T114	SYMPTOM 2036 2050	fórmula normal
+T124	SYMPTOM 1605 1610	roces
+T4	SYMPTOM 2573 2591	Aurículas normales
+T9	SYMPTOM 3646 3698	marcadores de daño miocárdico seriados son negativos
+T18	SYMPTOM 3765 3815	ecocardioscopia donde no se objetivan alteraciones
+T21	SYMPTOM 4733 4803	ergometría, que resulta concluyente, clínica y eléctricamente negativa

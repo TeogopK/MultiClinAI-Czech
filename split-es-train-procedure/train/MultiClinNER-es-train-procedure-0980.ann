@@ -1,0 +1,48 @@
+T85	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T86	PROCEDURE 692 738	maniobras de reanimación cardiopulmonar básica
+T87	PROCEDURE 812 834	intubación orotraqueal
+T88	PROCEDURE 1000 1014	desfibrilación
+T89	PROCEDURE 1426 1449	cardioversión eléctrica
+T90	PROCEDURE 1498 1518	estudio hemodinámico
+T91	PROCEDURE 1658 1669	cateterismo
+T92	PROCEDURE 1690 1715	TAC craneal sin contraste
+T93	PROCEDURE 1718 1744	TAC de tórax con contraste
+T94	PROCEDURE 1929 1947	Exploración física
+T95	PROCEDURE 2076 2144	Intubado y conectado a ventilación mecánica, SatO2 100% con FiO2 80%
+T96	PROCEDURE 2292 2314	intubación orotraqueal
+T97	PROCEDURE 2703 2726	cardioversión eléctrica
+T98	PROCEDURE 2901 2919	Electrocardiograma
+T99	PROCEDURE 2921 2924	ECG
+T100	PROCEDURE 3088 3105	Gasometría venosa
+T101	PROCEDURE 3606 3615	Hemograma
+T102	PROCEDURE 3731 3742	Coagulación
+T103	PROCEDURE 3819 3839	Estudio hemodinámico
+T104	PROCEDURE 3919 3935	Ventriculografía
+T105	PROCEDURE 4016 4027	Aortografía
+T106	PROCEDURE 4179 4205	TAC de tórax con contraste
+T107	PROCEDURE 5181 5197	maniobras de RCP
+T108	PROCEDURE 5207 5233	TAC cerebral sin contraste
+T109	PROCEDURE 5278 5292	Ecocardiograma
+T110	PROCEDURE 5571 5591	Radiografía de tórax
+T111	PROCEDURE 5694 5738	Monitorización electrocardiográfica continua
+T112	PROCEDURE 6119 6122	RMN
+T113	PROCEDURE 6277 6323	Estudio de perfusión miocárdica de primer paso
+T114	PROCEDURE 7007 7022	coronariografía
+T115	PROCEDURE 7068 7078	TC craneal
+T116	PROCEDURE 7233 7268	inducción de hipotermia terapéutica
+T117	PROCEDURE 7281 7296	ecocardioscopia
+T118	PROCEDURE 7547 7591	monitorización electrocardiográfica continua
+T119	PROCEDURE 7854 7873	gasometría arterial
+T120	PROCEDURE 7980 8002	terapia con hipotermia
+T121	PROCEDURE 8212 8226	antibioterapia
+T122	PROCEDURE 8396 8404	extubado
+T123	PROCEDURE 8536 8565	resonancia magnética cardiaca
+T124	PROCEDURE 8667 8733	implante de desfibrilador automático implantable (DAI) monocameral
+T125	PROCEDURE 9034 9061	Implante de DAI monocameral
+T137	PROCEDURE 3260 3270	Bioquímica
+T138	PROCEDURE 853 901	maniobras de reanimación cardiopulmonar avanzada
+T139	PROCEDURE 7081 7098	angio-TC torácico
+T152	PROCEDURE 7842 7851	analítica
+T26	PROCEDURE 928 941	registro DESA
+T32	PROCEDURE 2231 2314	midazolam y cisatracurio utilizados en la inducción previa a intubación orotraqueal
+T49	PROCEDURE 2623 2664	Registro del desfibrilador semiautomático

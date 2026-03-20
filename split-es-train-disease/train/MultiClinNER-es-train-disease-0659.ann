@@ -1,0 +1,17 @@
+T2	DISEASE 1001 1016	Tumores renales
+T3	DISEASE 1042 1062	Patología infecciosa
+T4	DISEASE 977 998	Tumores suprarrenales
+T5	DISEASE 938 974	Tumores retroperitoneales primitivos
+T10	DISEASE 1627 1656	quiste hidatídico calcificado
+T17	DISEASE 1714 1737	traumatismo costolumbar
+T21	DISEASE 182 192	hipoacusia
+T23	DISEASE 195 209	angor repetido
+T25	DISEASE 223 246	traumatismo costolumbar
+T27	DISEASE 2143 2188	grasa peritoneal infiltrada por tumor maligno
+T28	DISEASE 1436 1461	tumor adrenal funcionante
+T29	DISEASE 2277 2303	proceso maligno diseminado
+T30	DISEASE 2344 2367	liposarcoma pleomórfico
+T31	DISEASE 2023 2072	lesiones difusas repartidas por todo el peritoneo
+T32	DISEASE 1921 1966	lesión sobresaliente en hipocondrio izquierdo
+T1	DISEASE 383 431	próstata es de características fibroadenomatosas
+T6	DISEASE 1019 1039	Tumores metastásicos

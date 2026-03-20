@@ -1,0 +1,19 @@
+T1	SYMPTOM 503 528	bajo nivel de consciencia
+T2	SYMPTOM 1712 1738	patrón ventilatorio normal
+T3	SYMPTOM 161 196	cefalea intensa en región occipital
+T4	SYMPTOM 1769 1784	hipoventilación
+T5	SYMPTOM 212 248	disminución del nivel de consciencia
+T6	SYMPTOM 320 327	cefalea
+T7	SYMPTOM 1475 1484	dismetría
+T8	SYMPTOM 1501 1514	hiporreflexia
+T9	SYMPTOM 1323 1333	consciente
+T10	SYMPTOM 792 797	edema
+T11	SYMPTOM 1694 1702	eupneica
+T12	SYMPTOM 1541 1573	reflejo cutáneo plantar extensor
+T13	SYMPTOM 1246 1255	despierta
+T14	SYMPTOM 1263 1292	adecuado nivel de consciencia
+T15	SYMPTOM 800 829	obliteración de IV ventrículo
+T16	SYMPTOM 1065 1085	anomalías vasculares
+A1	IMAGEN T10
+A2	IMAGEN T15
+A3	IMAGEN T16

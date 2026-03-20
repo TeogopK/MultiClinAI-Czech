@@ -1,0 +1,16 @@
+T10	PROCEDURE 417 438	intraoral examination
+T3	PROCEDURE 513 545	palpation in the lingual midline
+T9	PROCEDURE 660 668	MRI scan
+T12	PROCEDURE 868 899	isotopic scintigraphy with Tc99
+T6	PROCEDURE 1076 1092	thyroid function
+T14	PROCEDURE 1136 1143	surgery
+T1	PROCEDURE 1208 1227	general anaesthesia
+T2	PROCEDURE 1231 1243	tracheostomy
+T4	PROCEDURE 1387 1413	suprahyoid mid cervicotomy
+T11	PROCEDURE 1442 1493	deperiostealisation of the mandibular lingual plate
+T13	PROCEDURE 1508 1528	lingual pull-through
+T8	PROCEDURE 1573 1582	resection
+T15	PROCEDURE 1636 1663	bloodless median glossotomy
+T5	PROCEDURE 1699 1714	tumour excision
+T7	PROCEDURE 1947 1967	pathological anatomy
+T16	PROCEDURE 2025 2028	MRI

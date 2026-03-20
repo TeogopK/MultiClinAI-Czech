@@ -1,0 +1,27 @@
+T8	SYMPTOM 300 305	cough
+T2	SYMPTOM 328 336	sneezing
+T4	SYMPTOM 340 358	feeling of fatigue
+T7	SYMPTOM 368 373	fever
+T14	SYMPTOM 390 403	expectoration
+T25	SYMPTOM 425 463	frontal headache with tension features
+T9	SYMPTOM 469 474	cough
+T5	SYMPTOM 479 497	feeling of fatigue
+T10	SYMPTOM 638 697	high level of dependence (according to the Fagerstrom test)
+T13	SYMPTOM 1053 1092	cardiopulmonary auscultation was normal
+T3	SYMPTOM 1111 1135	neurological involvement
+T11	SYMPTOM 1311 1319	headache
+T32	SYMPTOM 1557 1565	coughing
+T33	SYMPTOM 1601 1609	dyspnoea
+T34	SYMPTOM 1686 1694	coughing
+T6	SYMPTOM 1710 1728	feeling of fatigue
+T15	SYMPTOM 1737 1771	normal cardiopulmonary examination
+T16	SYMPTOM 1934 1941	nodules
+T12	SYMPTOM 2252 2283	bilateral pulmonary involvement
+T20	SYMPTOM 2325 2358	thickening of the bronchial walls
+T17	SYMPTOM 2360 2393	Scattered nodules, some cavitated
+T18	SYMPTOM 2417 2430	cystic images
+T21	SYMPTOM 2437 2511	CO2 diffusion tests and pulmonary flow curve were within normal parameters
+T42	SYMPTOM 2555 2581	ANCA and ANA were negative
+T1	SYMPTOM 3578 3621	intra-alveolar accumulations of histiocytes
+T22	SYMPTOM 3682 3706	hyperplastic pneumocytes
+T19	SYMPTOM 3751 3789	nodular clusters of CD1-positive cells

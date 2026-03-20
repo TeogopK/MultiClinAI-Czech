@@ -1,0 +1,14 @@
+T1	SYMPTOM 1541 1556	bloqueo angular
+T2	SYMPTOM 216 244	cierre angular en ambos ojos
+T3	SYMPTOM 359 373	cierre angular
+T4	SYMPTOM 535 583	configuración en iris-plateau con cierre angular
+T5	SYMPTOM 654 725	paredes hiperreflectivas delgadas con contenido líquido hiporreflectivo
+T6	SYMPTOM 1637 1666	configuración en iris plateau
+T7	SYMPTOM 1817 1845	presión intraocular adecuada
+T8	SYMPTOM 2297 2311	cierre angular
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	RESULTADO T5
+A6	RESULTADO T7

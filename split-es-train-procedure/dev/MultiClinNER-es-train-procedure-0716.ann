@@ -1,0 +1,31 @@
+T1	PROCEDURE 2719 2728	Hemograma
+T2	PROCEDURE 4163 4176	Serología VIH
+T3	PROCEDURE 2813 2828	Perfil hepático
+T4	PROCEDURE 2885 2901	Estudio hormonal
+T5	PROCEDURE 3837 3858	Estudio arritmológico
+T6	PROCEDURE 3050 3074	Espectro electroforético
+T7	PROCEDURE 4188 4196	Rx tórax
+T8	PROCEDURE 4227 4246	TAC abdominopélvico
+T9	PROCEDURE 3169 3180	TAC craneal
+T10	PROCEDURE 4608 4629	fármacos hipotensores
+T11	PROCEDURE 141 162	antidiabéticos orales
+T12	PROCEDURE 187 201	Apendicectomía
+T13	PROCEDURE 223 254	cirugía de hidrocele testicular
+T14	PROCEDURE 4064 4083	Test presor de frío
+T15	PROCEDURE 3304 3316	Colonoscopia
+T16	PROCEDURE 4422 4455	Niveles de catecolaminas en orina
+T17	PROCEDURE 1837 1869	anamnesis por órganos y aparatos
+T18	PROCEDURE 3378 3416	biopsias en colon descendente proximal
+T19	PROCEDURE 1894 1912	exploración física
+T20	PROCEDURE 680 705	se puso un marcapasos VDD
+T21	PROCEDURE 3515 3544	Biopsia de mucosa colorrectal
+T22	PROCEDURE 833 847	ECOcardiograma
+T23	PROCEDURE 3649 3663	Ecocardiograma
+T24	PROCEDURE 948 960	TC abdominal
+T25	PROCEDURE 2277 2295	exploración física
+T26	PROCEDURE 981 1004	exploración neurológica
+T27	PROCEDURE 2418 2451	exploración neurológica y general
+T28	PROCEDURE 3589 3624	tinciones especificas para amiloide
+T29	PROCEDURE 4276 4339	Niveles de catecolaminas en plasma en decúbito y en sedestación
+T30	PROCEDURE 2547 2557	bioquímica
+T33	PROCEDURE 4028 4052	estimulación ventricular

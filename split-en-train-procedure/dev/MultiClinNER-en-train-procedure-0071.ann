@@ -1,0 +1,13 @@
+T1	PROCEDURE 243 265	orotracheal intubation
+T2	PROCEDURE 270 287	thoracic drainage
+T3	PROCEDURE 289 299	Cranial CT
+T4	PROCEDURE 494 503	facial CT
+T11	PROCEDURE 670 692	ophthalmological study
+T5	PROCEDURE 728 741	Biomicroscopy
+T6	PROCEDURE 802 812	Funduscopy
+T7	PROCEDURE 939 973	study of intrinsic ocular motility
+T10	PROCEDURE 1285 1299	radiologically
+T9	PROCEDURE 1359 1377	surgical treatment
+T8	PROCEDURE 1430 1441	cranial MRI
+T18	PROCEDURE 1524 1535	examination
+T19	PROCEDURE 1874 1939	botulinum toxin (5 IU Botox) was injected into both medial rectus

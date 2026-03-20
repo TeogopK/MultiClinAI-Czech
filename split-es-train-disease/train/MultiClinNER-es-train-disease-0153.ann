@@ -1,0 +1,28 @@
+T2	DISEASE 174 203	enfermedad urológica ni renal
+T3	DISEASE 283 315	anemia por deficiencia de hierro
+T4	DISEASE 318 341	reflujo gastroesofágico
+T11	DISEASE 557 574	lesiones cutáneas
+T12	DISEASE 576 585	serositis
+T13	DISEASE 646 674	espondilitis anquilopoyética
+T14	DISEASE 758 844	enfermedad renal crónica en estadio 5 secundaria a nefropatía por abuso de analgésicos
+T15	DISEASE 809 844	nefropatía por abuso de analgésicos
+T26	DISEASE 1994 2022	espondilitis anquilopoyética
+T30	DISEASE 2460 2483	malabsorción intestinal
+T33	DISEASE 2892 2894	EC
+T37	DISEASE 3923 3951	fiebre mediterránea familiar
+T38	DISEASE 3873 3918	enfermedad inflamatoria, infecciosa o tumoral
+T39	DISEASE 3975 3977	EC
+T40	DISEASE 3980 4005	amiloidosis AA secundaria
+T41	DISEASE 4049 4051	EC
+T45	DISEASE 4463 4465	EC
+T52	DISEASE 2814 2822	abscesos
+T94	DISEASE 2262 2315	deficiencias de hierro y vitaminas B12 y ácido fólico
+T96	DISEASE 2485 2519	deficiencias de hierro y vitaminas
+T32	DISEASE 3093 3107	amiloidosis AA
+T98	DISEASE 373 381	disfagia
+T99	DISEASE 2425 2433	disfagia
+T1	DISEASE 534 555	inflamación articular
+#1	AnnotatorNotes T33	   EC: enfermedad de Crohn
+#2	AnnotatorNotes T39	   EC: enfermedad de Crohn
+#3	AnnotatorNotes T41	   EC: enfermedad de Crohn
+#4	AnnotatorNotes T45	   EC: enfermedad de Crohn

@@ -1,0 +1,24 @@
+T63	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T66	PROCEDURE 104 132	markers of myocardial damage
+T68	PROCEDURE 360 382	Surgical interventions
+T55	PROCEDURE 384 395	splenectomy
+T64	PROCEDURE 972 992	PHYSICAL EXAMINATION
+T1	PROCEDURE 1242 1250	palpable
+T56	PROCEDURE 1264 1284	Cardiac auscultation
+T57	PROCEDURE 1323 1345	Pulmonary auscultation
+T58	PROCEDURE 1593 1610	Electrocardiogram
+T3	PROCEDURE 1759 1775	Laboratory tests
+T59	PROCEDURE 2099 2110	Chest X-ray
+T4	PROCEDURE 2178 2206	Transthoracic echocardiogram
+T60	PROCEDURE 2783 2793	Cardio-MRI
+T5	PROCEDURE 3046 3069	CT of coronary arteries
+T67	PROCEDURE 3301 3311	monitoring
+T8	PROCEDURE 3359 3377	cardiological test
+T7	PROCEDURE 3381 3409	transthoracic echocardiogram
+T61	PROCEDURE 3455 3489	cardiac magnetic resonance imaging
+T6	PROCEDURE 3491 3494	CMR
+T69	PROCEDURE 3813 3821	analyses
+T65	PROCEDURE 3917 3929	autoimmunity
+T62	PROCEDURE 3941 3960	infectious serology
+T10	PROCEDURE 4019 4051	CT scan of the coronary arteries
+T9	PROCEDURE 4350 4375	myocardial damage markers

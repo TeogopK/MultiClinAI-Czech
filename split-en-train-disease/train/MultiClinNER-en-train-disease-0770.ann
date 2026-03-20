@@ -1,0 +1,30 @@
+T25	DISEASE 78 92	drug allergies
+T26	DISEASE 132 145	active smoker
+T27	DISEASE 171 190	Depressive syndrome
+T1	DISEASE 424 444	presyncopal symptoms
+T28	DISEASE 647 695	non-ST-segment elevation acute coronary syndrome
+T2	DISEASE 697 704	NSTEACS
+T29	DISEASE 1038 1058	deep vein thrombosis
+T30	DISEASE 1060 1063	DVT
+T47	DISEASE 1917 1926	haematoma
+T48	DISEASE 1939 1949	dissection
+T4	DISEASE 2224 2282	Right ventricle (RV) not dilated with normal contractility
+T31	DISEASE 2323 2339	mitral sclerosis
+T46	DISEASE 2372 2517	Trivalve aortic valve with calcium spot in non-coronary leaflet and mild sclerosis, not restricted in opening and with mild central insufficiency
+T5	DISEASE 2519 2547	Mild tricuspid insufficiency
+T32	DISEASE 2573 2601	Mild pulmonary insufficiency
+T33	DISEASE 2762 2782	pericardial effusion
+T34	DISEASE 3741 3755	angiomyolipoma
+T35	DISEASE 3760 3796	left kidney with small cortical cyst
+T36	DISEASE 3817 3840	Calcified uterine myoma
+T37	DISEASE 3842 3864	Sigmoid diverticulosis
+T38	DISEASE 3973 3996	fibromuscular dysplasia
+T49	DISEASE 4273 4304	spontaneous coronary dissection
+T42	DISEASE 4577 4591	valvulopathies
+T41	DISEASE 4616 4654	spontaneous coronary artery dissection
+T39	DISEASE 4710 4826	fibromuscular dysplasia, which was finally confirmed, with involvement of the main renal and external iliac arteries
+T43	DISEASE 4918 4925	smoking
+T51	DISEASE 5016 5133	Acute myocardial infarction without Q wave due to spontaneous coronary dissection of the third obtuse marginal branch
+T40	DISEASE 5164 5232	Fibromuscular dysplasia with involvement of renal and iliac arteries
+T44	DISEASE 5234 5241	Smoking
+T45	DISEASE 5243 5256	Dyslipidaemia

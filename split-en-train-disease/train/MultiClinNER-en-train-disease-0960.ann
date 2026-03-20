@@ -1,0 +1,60 @@
+T88	DISEASE 103 115	Toxic habits
+T38	DISEASE 117 123	smoker
+T40	DISEASE 208 229	arterial hypertension
+T5	DISEASE 231 234	AHT
+T42	DISEASE 240 257	diabetes mellitus
+T43	DISEASE 259 261	DM
+T6	DISEASE 264 307	Dyslipidaemia such as hypertriglyceridaemia
+T44	DISEASE 381 401	Hepatic haemangiomas
+T45	DISEASE 446 473	Primary biliary cholangitis
+T46	DISEASE 515 543	Generalised anxiety disorder
+T47	DISEASE 1086 1103	catarrhal episode
+T89	DISEASE 1556 1563	syncope
+T48	DISEASE 2270 2290	deep vein thrombosis
+T49	DISEASE 2292 2295	DVT
+T50	DISEASE 3452 3468	pleural effusion
+T92	DISEASE 3689 3725	Moderate-severe systolic dysfunction
+T7	DISEASE 3904 3940	moderate-severe mitral regurgitation
+T8	DISEASE 4159 4196	Mild-moderate tricuspid insufficiency
+T51	DISEASE 4229 4249	pericardial effusion
+T90	DISEASE 4251 4277	Dilated inferior vena cava
+T53	DISEASE 4434 4449	apical thrombus
+T54	DISEASE 4843 4872	Moderate mitral insufficiency
+T55	DISEASE 5028 5050	intracavitary thrombus
+T77	DISEASE 5080 5097	myocardial damage
+T9	DISEASE 5598 5631	Mild central mitral insufficiency
+T10	DISEASE 5790 5829	Tricuspid insufficiency mildly moderate
+T52	DISEASE 6021 6041	pericardial effusion
+T56	DISEASE 6072 6089	myocardial oedema
+T57	DISEASE 6135 6146	myocarditis
+T60	DISEASE 6159 6182	ischaemic heart disease
+T11	DISEASE 6539 6560	respiratory infection
+T62	DISEASE 6646 6663	exertional angina
+T78	DISEASE 6837 6854	myocardial damage
+T63	DISEASE 7183 7263	moderate-severe left ventricular systolic dysfunction due to mid-apical akinesia
+T64	DISEASE 7294 7337	significant mitral regurgitation due to SAM
+T12	DISEASE 7354 7400	aliasing in the left ventricular outflow tract
+T14	DISEASE 7462 7520	inferolateral ST-segment elevation acute coronary syndrome
+T13	DISEASE 7522 7527	STEMI
+T65	DISEASE 7530 7542	pericarditis
+T69	DISEASE 7544 7559	myopericarditis
+T70	DISEASE 7561 7580	tako-tsubo syndrome
+T76	DISEASE 7722 7738	coronary lesions
+T71	DISEASE 7825 7844	tako-tsubo syndrome
+T79	DISEASE 7896 7913	myocardial damage
+T66	DISEASE 7986 7998	pericarditis
+T81	DISEASE 8102 8122	arterial hypotension
+T91	DISEASE 8360 8377	arrhythmic events
+T67	DISEASE 8869 8881	pericarditis
+T82	DISEASE 9047 9067	arterial hypotension
+T72	DISEASE 9329 9348	tako-tsubo syndrome
+T83	DISEASE 9380 9416	myocardial damage due to myocarditis
+T61	DISEASE 9420 9443	ischaemic heart disease
+T73	DISEASE 9456 9475	Tako-tsubo syndrome
+T84	DISEASE 9477 9495	Acute pericarditis
+T59	DISEASE 9512 9523	myocarditis
+T15	DISEASE 9569 9619	moderate to severe mitral regurgitation due to SAM
+T74	DISEASE 9638 9657	tako-tsubo syndrome
+T75	DISEASE 9778 9797	tako-tsubo syndrome
+T85	DISEASE 9918 9931	active smoker
+T87	DISEASE 9933 9946	dyslipidaemia

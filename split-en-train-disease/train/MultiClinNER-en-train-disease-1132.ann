@@ -1,0 +1,54 @@
+T48	DISEASE 62 76	drug allergies
+T49	DISEASE 81 93	toxic habits
+T50	DISEASE 124 145	Arterial hypertension
+T51	DISEASE 147 160	Dyslipidaemia
+T1	DISEASE 186 189	PAF
+T52	DISEASE 221 252	Chronic ischaemic heart disease
+T53	DISEASE 271 288	exertional angina
+T54	DISEASE 421 436	unstable angina
+T55	DISEASE 623 640	Spondyloarthrosis
+T4	DISEASE 642 660	Prostatic syndrome
+T56	DISEASE 662 684	Bilateral hearing loss
+T5	DISEASE 710 750	Pertrochanteric fracture of the left hip
+T57	DISEASE 1451 1474	acute ischaemic lesions
+T7	DISEASE 1497 1524	occlusion of a large vessel
+T8	DISEASE 1824 1935	an established infarct with a new appearance of a hypodense focal area in the right lenticular and radial crown
+T58	DISEASE 2266 2278	skin lesions
+T59	DISEASE 3077 3097	deep vein thrombosis
+T60	DISEASE 3139 3156	sinus bradycardia
+T87	DISEASE 3786 3802	focal infarction
+T61	DISEASE 4434 4457	pulmonary insufficiency
+T62	DISEASE 4533 4553	pericardial effusion
+T88	DISEASE 4710 4727	pericardial fluid
+T63	DISEASE 5017 5035	mitral obstruction
+T11	DISEASE 5288 5296	thrombus
+T12	DISEASE 5338 5403	Descending thoracic aorta with some uncomplicated atheroma plaque
+T13	DISEASE 6224 6293	coronary calcium load in the proximal course of the coronary arteries
+T14	DISEASE 6357 6436	calcium-predominant atheromatosis in the arch and origin of supra-aortic trunks
+T15	DISEASE 6531 6542	adenomegaly
+T64	DISEASE 6579 6586	smoking
+T86	DISEASE 6767 6771	LOEs
+T65	DISEASE 6932 6965	post-pelonephritic cortical scars
+T66	DISEASE 6970 6999	parapelvic and cortical cysts
+T67	DISEASE 7113 7143	Moderate prostatic hypertrophy
+T68	DISEASE 7264 7297	Moderate aortoiliac atheromatosis
+T69	DISEASE 7349 7361	Osteoporosis
+T17	DISEASE 7440 7466	Fracture of the left femur
+T70	DISEASE 7679 7696	metastatic spread
+T71	DISEASE 8090 8096	myxoma
+T19	DISEASE 8211 8249	suspected embolic origin of the stroke
+T72	DISEASE 8643 8649	myxoma
+T76	DISEASE 8924 8931	sarcoma
+T21	DISEASE 9031 9055	metastatic dissemination
+T22	DISEASE 9223 9239	coronary disease
+T25	DISEASE 9447 9514	left atrium was performed with the implantation base of the tumour,
+T84	DISEASE 9587 9593	tumour
+T85	DISEASE 9961 9967	tumour
+T73	DISEASE 10005 10011	myxoma
+T77	DISEASE 10137 10159	lower limb hemiparesis
+T79	DISEASE 10263 10327	Ischaemic stroke in the right choroidal artery of embolic origin
+T80	DISEASE 10329 10396	Pedunculated atrial myxoma implanted in the roof of the left atrium
+T81	DISEASE 10419 10437	left atrial myxoma
+T75	DISEASE 10431 10437	myxoma
+T28	DISEASE 10495 10564	Stable chronic coronary syndrome with two-vessel disease (Cx and LAD)
+T29	DISEASE 10667 10682	ischemic stroke

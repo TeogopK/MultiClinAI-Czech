@@ -1,0 +1,31 @@
+T76	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T78	PROCEDURE 374 388	rehabilitation
+T79	PROCEDURE 532 545	haemodialysis
+T77	PROCEDURE 936 956	Physical examination
+T80	PROCEDURE 1110 1130	Cardiac auscultation
+T81	PROCEDURE 1202 1224	Pulmonary auscultation
+T82	PROCEDURE 1367 1376	haemogram
+T105	PROCEDURE 1481 1493	Biochemistry
+T83	PROCEDURE 1657 1672	Cardiac markers
+T84	PROCEDURE 1728 1739	Antigenuria
+T85	PROCEDURE 1851 1862	Chest X-ray
+T87	PROCEDURE 1980 1983	ECG
+T88	PROCEDURE 2166 2184	serum proteinogram
+T100	PROCEDURE 2172 2184	proteinogram
+T89	PROCEDURE 2607 2627	Autoimmunity profile
+T90	PROCEDURE 2639 2650	Urine study
+T91	PROCEDURE 2788 2816	Transthoracic echocardiogram
+T95	PROCEDURE 2802 2816	echocardiogram
+T106	PROCEDURE 4256 4259	MRI
+T92	PROCEDURE 4436 4481	Abdominal subcutaneous cellular tissue biopsy
+T93	PROCEDURE 4524 4542	Bone marrow biopsy
+T86	PROCEDURE 5114 5125	chest X-ray
+T96	PROCEDURE 5311 5325	echocardiogram
+T98	PROCEDURE 5573 5591	diuretic treatment
+T97	PROCEDURE 5597 5611	echocardiogram
+T99	PROCEDURE 5953 5979	pyrophosphate scintigraphy
+T101	PROCEDURE 6045 6057	proteinogram
+T102	PROCEDURE 6062 6095	immunofixation in blood and urine
+T103	PROCEDURE 6151 6171	Abdominal fat biopsy
+T94	PROCEDURE 6223 6241	Bone marrow biopsy
+T104	PROCEDURE 6363 6384	salivary gland biopsy

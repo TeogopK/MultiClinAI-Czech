@@ -1,0 +1,29 @@
+T2	PROCEDURE 123 143	Physical examination
+T16	PROCEDURE 428 441	imaging tests
+T4	PROCEDURE 453 482	computerised axial tomography
+T5	PROCEDURE 487 497	ultrasound
+T23	PROCEDURE 662 693	Fine needle aspiration puncture
+T24	PROCEDURE 733 834	routine method of 3 passes with a 23G needle, with the help of the Cameco® (manual aspiration device)
+T1	PROCEDURE 847 924	2 slides were fixed in alcohol to be stained using the Papanicolaou technique
+T8	PROCEDURE 933 991	rest (6 slides) were air-dried to use the Diff-Quick stain
+T26	PROCEDURE 993 1018	Examination of the smears
+T13	PROCEDURE 1629 1646	cytological image
+T7	PROCEDURE 1773 1832	DNA quantification by image cytometry on cytological smears
+T11	PROCEDURE 1849 1855	smears
+T9	PROCEDURE 1878 1886	puncture
+T17	PROCEDURE 1934 1937	FNA
+T14	PROCEDURE 1989 2013	cytometric determination
+T10	PROCEDURE 2043 2070	fixed in 99º methyl alcohol
+T18	PROCEDURE 2088 2132	stained with Gill's progressive haematoxylin
+T19	PROCEDURE 2135 2291	Using TEXCAN® software and a video camera integrated into the microscope, which captures grey scales, the most relevant biological parameters are determined
+T6	PROCEDURE 2580 2596	static cytometry
+T15	PROCEDURE 2607 2628	cytological diagnosis
+T29	PROCEDURE 2717 2724	surgery
+T30	PROCEDURE 2745 2774	excision of the parotid gland
+T3	PROCEDURE 2783 2800	cervical emptying
+T32	PROCEDURE 3038 3047	resection
+T33	PROCEDURE 3081 3158	Multiple parallel sections of the specimen were made and embedded in paraffin
+T20	PROCEDURE 3168 3229	the sections are stained with conventional haematoxylin-eosin
+T35	PROCEDURE 3231 3260	Histopathological examination
+T36	PROCEDURE 3659 3671	PAS staining
+T12	PROCEDURE 3828 3837	resection

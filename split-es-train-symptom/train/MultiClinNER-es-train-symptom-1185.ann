@@ -1,0 +1,35 @@
+T1	SYMPTOM 743 750	astenia
+T2	SYMPTOM 753 768	fatiga muscular
+T4	SYMPTOM 1019 1046	Constantes vitales normales
+T5	SYMPTOM 1048 1082	Auscultación cardiopulmonar normal
+T6	SYMPTOM 1145 1166	debilidad facial leve
+T8	SYMPTOM 1202 1228	hiporreflexia generalizada
+T9	SYMPTOM 1339 1410	ventrículo izquierdo (VI) no dilatado con espesores parietales normales
+T10	SYMPTOM 1480 1525	alteraciones de la contractilidad segmentaria
+T11	SYMPTOM 1527 1555	movimiento anómalo del septo
+T12	SYMPTOM 1600 1636	patrón de llenado transmitral normal
+T13	SYMPTOM 1638 1685	ventrículo derecho no dilatado normocrontráctil
+T14	SYMPTOM 1687 1709	aurículas no dilatadas
+T15	SYMPTOM 1970 1983	ritmo sinusal
+T16	SYMPTOM 2122 2144	T invertida de V1 a V3
+T17	SYMPTOM 2176 2189	ritmo sinusal
+T18	SYMPTOM 2411 2451	ESTUDIO GENÉTICO: negativo para QT largo
+T19	SYMPTOM 3151 3178	Test de epinefrina positivo
+T20	SYMPTOM 4042 4070	función sistólica conservada
+T21	SYMPTOM 4088 4117	realce tardío intramiocárdico
+T3	SYMPTOM 1230 1237	paresia
+T80	SYMPTOM 1244 1260	rodete miotónico
+T7	SYMPTOM 1711 1796	Válvulas aórtica, mitral, tricúspide y pulmonar morfológica y funcionalmente normales
+T81	SYMPTOM 1858 1888	Vena cava inferior no dilatada
+T82	SYMPTOM 1918 1963	Aorta no dilatada y sin aceleración del flujo
+T39	SYMPTOM 3645 3671	Ausencia de conducción V-A
+T83	SYMPTOM 4204 4242	panel de QT largo que resulta negativo
+T92	SYMPTOM 932 996	asintomática por lo demás desde el punto de vista cardiovascular
+T94	SYMPTOM 388 397	fallecido
+T101	SYMPTOM 275 281	muerte
+T79	SYMPTOM 1178 1200	cierre ocular completo
+T85	SYMPTOM 2360 2409	bioquímica, hemograma y coagulación sin hallazgos
+T86	SYMPTOM 2453 2471	MYBPC3 p.Arg726Cys
+T87	SYMPTOM 3227 3258	prolongación patológica del QTc
+T88	SYMPTOM 3502 3530	Intervalos basales anormales
+T89	SYMPTOM 3553 3583	Basalmente pobre conducción AV

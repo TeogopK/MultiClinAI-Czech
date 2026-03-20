@@ -1,0 +1,22 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 381 387	bypass
+T54	PROCEDURE 464 484	oral anticoagulation
+T56	PROCEDURE 1057 1085	Cardiopulmonary auscultation
+T1	PROCEDURE 1283 1286	CBC
+T2	PROCEDURE 1378 1408	renal, hepatic and ion profile
+T57	PROCEDURE 1469 1480	Chest X-ray
+T58	PROCEDURE 1578 1581	ECG
+T3	PROCEDURE 2018 2059	dilatation of Carpentier's type I annulus
+T59	PROCEDURE 2164 2182	Haemodynamic study
+T60	PROCEDURE 2501 2510	diuretics
+T61	PROCEDURE 2660 2696	left and right heart catheterisation
+T62	PROCEDURE 2873 2902	MitraClip device implantation
+T4	PROCEDURE 2907 2955	concomitant closure of the left atrial appendage
+T5	PROCEDURE 3049 3061	intervention
+T6	PROCEDURE 3316 3346	MitraClip device was implanted
+T64	PROCEDURE 3692 3716	electrical cardioversion
+T7	PROCEDURE 3799 3802	TEE
+T8	PROCEDURE 4146 4155	operation
+T55	PROCEDURE 4205 4225	oral anticoagulation
+T63	PROCEDURE 4787 4816	MitraClip device implantation
+T9	PROCEDURE 4818 4867	Percutaneous closure of the left atrial appendage

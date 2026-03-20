@@ -1,0 +1,20 @@
+T1	SYMPTOM 1326 1331	mareo
+T2	SYMPTOM 1336 1364	sensación de giro de objetos
+T3	SYMPTOM 956 984	hipoventilación generalizada
+T4	SYMPTOM 253 258	mareo
+T5	SYMPTOM 263 291	sensación de giro de objetos
+T6	SYMPTOM 1073 1108	edemas con fóvea hasta las rodillas
+T7	SYMPTOM 361 367	disnea
+T8	SYMPTOM 395 417	pérdida de consciencia
+T9	SYMPTOM 422 436	dolor torácico
+T10	SYMPTOM 441 448	vómitos
+T11	SYMPTOM 452 467	sudoración fría
+T12	SYMPTOM 855 861	soplos
+T13	SYMPTOM 990 1010	ruidos sobreañadidos
+T14	SYMPTOM 827 849	tonos lentos, apagados
+T15	SYMPTOM 867 915	pulsos radiales están presentes y son simétricos
+T16	SYMPTOM 1015 1062	exploración neurológica es rigurosamente normal
+T17	SYMPTOM 1798 1834	complejos QRS ahora parecen rítmicos
+T18	SYMPTOM 1856 1863	ondas P
+A1	RESULTADO T17
+A2	RESULTADO T18

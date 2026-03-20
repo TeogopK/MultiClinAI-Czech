@@ -1,0 +1,37 @@
+T81	PROCEDURE 307 321	ecocardiograma
+T82	PROCEDURE 331 341	ergometría
+T83	PROCEDURE 654 684	tomografía axial computarizada
+T84	PROCEDURE 686 688	TC
+T85	PROCEDURE 1050 1077	broncoscopia con aspiración
+T86	PROCEDURE 1084 1120	tomografía por emisión de positrones
+T87	PROCEDURE 1122 1125	PET
+T88	PROCEDURE 1462 1488	estudio anatomo-patológico
+T89	PROCEDURE 1536 1553	análisis genético
+T90	PROCEDURE 1798 1819	tratamiento paliativo
+T91	PROCEDURE 1914 1927	quimioterapia
+T92	PROCEDURE 1932 1934	TC
+T93	PROCEDURE 2420 2422	TC
+T94	PROCEDURE 3005 3007	TC
+T95	PROCEDURE 3270 3306	tratamiento con un diurético del asa
+T96	PROCEDURE 3416 3434	Exploración física
+T97	PROCEDURE 3587 3605	exploración física
+T98	PROCEDURE 3724 3745	auscultación cardiaca
+T99	PROCEDURE 3842 3860	electrocardiograma
+T100	PROCEDURE 4044 4063	analítica de sangre
+T101	PROCEDURE 4413 4434	tratamiento diurético
+T102	PROCEDURE 4571 4585	ecocardiograma
+T103	PROCEDURE 5544 5558	ecocardiograma
+T104	PROCEDURE 6554 6556	TC
+T105	PROCEDURE 6718 6729	corticoides
+T106	PROCEDURE 6731 6742	analgésicos
+T107	PROCEDURE 7519 7545	Holter de tensión arterial
+T108	PROCEDURE 7637 7653	diurético de asa
+T109	PROCEDURE 378 389	anticoaguló
+T121	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T122	PROCEDURE 6979 6996	diurético del asa
+T123	PROCEDURE 6294 6311	enzimas hepáticas
+T124	PROCEDURE 6036 6049	función renal
+T161	PROCEDURE 2363 2375	monitorizado
+T169	PROCEDURE 2504 2526	tratamiento oncológico
+T133	PROCEDURE 1856 1887	inhibidor de la tirosina kinasa
+T140	PROCEDURE 6644 6668	tratamientos oncológicos

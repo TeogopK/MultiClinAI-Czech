@@ -1,0 +1,43 @@
+T82	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T84	PROCEDURE 288 315	chemoprophylactic treatment
+T85	PROCEDURE 697 711	antihistamines
+T86	PROCEDURE 776 798	beta-blocker treatment
+T87	PROCEDURE 930 958	transthoracic echocardiogram
+T83	PROCEDURE 1190 1210	Physical examination
+T92	PROCEDURE 1562 1582	Cardiac auscultation
+T93	PROCEDURE 1656 1678	Pulmonary auscultation
+T120	PROCEDURE 2176 2188	CT angiogram
+T94	PROCEDURE 2764 2809	Magnetic resonance imaging (MRI) of the liver
+T6	PROCEDURE 2792 2795	MRI
+T88	PROCEDURE 3049 3077	Transthoracic echocardiogram
+T95	PROCEDURE 3421 3445	serology for hydatidosis
+T8	PROCEDURE 3484 3507	antiparasitic treatment
+T97	PROCEDURE 3668 3682	oxygen therapy
+T98	PROCEDURE 3936 3957	acute phase reactants
+T96	PROCEDURE 4099 4151	serology for hydatidosis was confirmed by ELISA test
+T89	PROCEDURE 4159 4187	transthoracic echocardiogram
+T99	PROCEDURE 4674 4689	cardiac surgery
+T100	PROCEDURE 4691 4707	thoracic surgery
+T101	PROCEDURE 4712 4727	general surgery
+T10	PROCEDURE 4802 4817	cyst extraction
+T102	PROCEDURE 4832 4843	hepatectomy
+T103	PROCEDURE 4861 4902	pulmonary endarterectomy of hydatid cysts
+T11	PROCEDURE 5094 5101	steroid
+T104	PROCEDURE 5137 5150	fluid therapy
+T12	PROCEDURE 5305 5330	central line was inserted
+T105	PROCEDURE 5413 5448	non-invasive mechanical ventilation
+T90	PROCEDURE 5571 5599	transthoracic echocardiogram
+T106	PROCEDURE 5664 5681	electrocardiogram
+T13	PROCEDURE 5746 5771	myocardial damage markers
+T14	PROCEDURE 6024 6058	implantation of veno-arterial ECMO
+T111	PROCEDURE 6943 6957	echocardiogram
+T114	PROCEDURE 7061 7080	ventilatory support
+T17	PROCEDURE 7319 7335	high flow oxygen
+T115	PROCEDURE 7402 7413	chest X-ray
+T116	PROCEDURE 7642 7658	vasoactive drugs
+T19	PROCEDURE 7704 7724	bolus corticotherapy
+T112	PROCEDURE 7869 7885	echocardiography
+T117	PROCEDURE 8055 8077	orotracheal intubation
+T118	PROCEDURE 8184 8196	advanced CPR
+T91	PROCEDURE 8305 8335	transthoracic echocardiography
+T119	PROCEDURE 8398 8405	autopsy

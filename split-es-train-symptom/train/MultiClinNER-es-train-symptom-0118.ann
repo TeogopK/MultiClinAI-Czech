@@ -1,0 +1,13 @@
+T1	SYMPTOM 1153 1193	lesión hipermetabólica a nivel parotídeo
+T2	SYMPTOM 633 653	tumoración parotídea
+T3	SYMPTOM 271 282	p T3b Nx M1
+T4	SYMPTOM 897 925	tumoración a nivel parotídeo
+T5	SYMPTOM 1057 1079	tumoración metastásica
+T6	SYMPTOM 1465 1469	masa
+T7	SYMPTOM 193 201	falleció
+A1	IMAGEN T1
+A2	RESULTADO T3
+A3	IMAGEN T4
+A4	IMAGEN T5
+A5	RESULTADO T6
+A6	EXITUS T7

@@ -1,0 +1,49 @@
+T88	PROCEDURE 355 369	ecocardiograma
+T89	PROCEDURE 1142 1163	Auscultación cardiaca
+T90	PROCEDURE 1292 1313	Auscultación pulmonar
+T91	PROCEDURE 1418 1421	ECG
+T92	PROCEDURE 1537 1546	hemograma
+T93	PROCEDURE 1795 1807	Hemocultivos
+T94	PROCEDURE 1868 1888	Radiografía de tórax
+T95	PROCEDURE 2014 2043	Ecocardiogramas transtorácico
+T96	PROCEDURE 2045 2048	ETT
+T97	PROCEDURE 2060 2075	transesofágicos
+T98	PROCEDURE 2077 2080	ETE
+T99	PROCEDURE 2092 2095	ETT
+T100	PROCEDURE 3083 3086	ETE
+T101	PROCEDURE 3872 3875	ETE
+T102	PROCEDURE 4582 4585	ETE
+T103	PROCEDURE 4910 4925	Coronariografía
+T104	PROCEDURE 5177 5198	tratamiento diurético
+T105	PROCEDURE 5294 5322	ecocardiograma transtorácico
+T106	PROCEDURE 5324 5327	ETT
+T107	PROCEDURE 5469 5498	ecocardiograma transesofágico
+T108	PROCEDURE 5500 5503	ETE
+T110	PROCEDURE 6197 6207	ecodoppler
+T111	PROCEDURE 6220 6287	embolectomía urgente transfemoral de arteria ilíaca externa derecha
+T112	PROCEDURE 6503 6565	intervención quirúrgica urgente sobre válvula mitral protésica
+T113	PROCEDURE 6568 6596	sustitución valvular aórtica
+T114	PROCEDURE 6647 6685	limpieza quirúrgica de prótesis mitral
+T115	PROCEDURE 6859 6909	sustitución valvular aórtica por prótesis metálica
+T116	PROCEDURE 7014 7043	ventilación mecánica invasiva
+T117	PROCEDURE 7312 7344	extracción de la prótesis mitral
+T118	PROCEDURE 7357 7379	limpieza intracardiaca
+T119	PROCEDURE 7401 7436	implante de nueva prótesis mecánica
+T120	PROCEDURE 7533 7544	vasoactivos
+T121	PROCEDURE 7558 7568	extubación
+T122	PROCEDURE 7707 7730	exploración neurológica
+T123	PROCEDURE 7835 7846	TAC craneal
+T124	PROCEDURE 8456 8485	ventilación mecánica invasiva
+T125	PROCEDURE 8581 8584	ETE
+T127	PROCEDURE 8910 8942	análisis posterior de la válvula
+T128	PROCEDURE 9371 9383	embolectomía
+T143	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T144	PROCEDURE 1688 1717	marcadores de daño miocárdico
+T145	PROCEDURE 1508 1527	Analítica de sangre
+T146	PROCEDURE 1599 1623	función renal y hepática
+T147	PROCEDURE 1572 1582	bioquímica
+T148	PROCEDURE 5806 5829	Se extraen hemocultivos
+T177	PROCEDURE 2647 2671	Prótesis mecánica mitral
+T180	PROCEDURE 234 241	cirugía
+T181	PROCEDURE 945 952	cirugía
+T199	PROCEDURE 8869 8904	reanimación cardiopulmonar avanzada

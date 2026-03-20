@@ -1,0 +1,9 @@
+T1	SYMPTOM 32 41	lumbalgia
+T2	SYMPTOM 309 396	tumoración dura en hipocondrio izquierdo que llegaba hasta el mesogastrio y fosa iliaca
+T3	SYMPTOM 116 149	pérdida de treinta libras de peso
+T4	SYMPTOM 710 714	masa
+T5	SYMPTOM 1254 1264	tumoración
+T7	SYMPTOM 1765 1778	fallecimiento
+T8	SYMPTOM 1092 1118	hemorragia transoperatoria
+T11	SYMPTOM 1389 1423	masa sólida con áreas hemorrágicas
+A1	EXITUS T7

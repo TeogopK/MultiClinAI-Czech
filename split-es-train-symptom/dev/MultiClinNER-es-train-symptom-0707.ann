@@ -1,0 +1,9 @@
+T1	SYMPTOM 83 109	tumoración en ambos testes
+T2	SYMPTOM 735 746	LDH: normal
+T3	SYMPTOM 670 681	AFP: normal
+T4	SYMPTOM 220 259	Teste derecho aumentado de consistencia
+T5	SYMPTOM 159 163	Masa
+T6	SYMPTOM 342 392	Tumoración sólida de 37x21 mm, hipoecoica en teste
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	IMAGEN T6

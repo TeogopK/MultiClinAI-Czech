@@ -1,0 +1,51 @@
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 127 148	tratamiento dietético
+T67	PROCEDURE 699 710	RCP básicas
+T68	PROCEDURE 741 752	CVE a 200 J
+T69	PROCEDURE 821 833	RCP avanzada
+T70	PROCEDURE 1067 1078	cateterismo
+T71	PROCEDURE 1225 1237	RCP avanzada
+T72	PROCEDURE 1257 1279	intubación orotraqueal
+T73	PROCEDURE 1356 1398	marcapasos transitorio vía femoral derecha
+T74	PROCEDURE 1412 1451	cateterismo cardiaco por acceso femoral
+T75	PROCEDURE 1513 1539	revascularización completa
+T76	PROCEDURE 1541 1598	Se coloca además un balón de contrapulsación intraaórtica
+T77	PROCEDURE 1630 1641	cateterismo
+T78	PROCEDURE 1643 1674	se introduce sonda nasogástrica
+T79	PROCEDURE 1783 1804	perfusión intravenosa
+T80	PROCEDURE 1938 1949	cateterismo
+T81	PROCEDURE 2005 2023	drogas vasoactivas
+T82	PROCEDURE 2037 2057	ventilación mecánica
+T83	PROCEDURE 2137 2147	Se reanima
+T84	PROCEDURE 2297 2320	Exploración neurológica
+T85	PROCEDURE 2392 2413	Auscultación pulmonar
+T86	PROCEDURE 2441 2462	Auscultación cardiaca
+T87	PROCEDURE 2638 2641	ECG
+T88	PROCEDURE 2764 2784	Cateterismo cardiaco
+T89	PROCEDURE 2991 3011	Radiografía de tórax
+T91	PROCEDURE 3099 3113	Ecocardiograma
+T92	PROCEDURE 4386 4406	fármacos vasoactivos
+T93	PROCEDURE 4630 4650	ventilación mecánica
+T95	PROCEDURE 4735 4752	ECMO venoarterial
+T96	PROCEDURE 4785 4801	Cirugía Cardiaca
+T97	PROCEDURE 4844 4862	colocación de ECMO
+T98	PROCEDURE 4900 4923	retirada de vasoactivos
+T99	PROCEDURE 5214 5229	ecocardiografía
+T101	PROCEDURE 6181 6201	inhibidores de PCSK9
+T102	PROCEDURE 6263 6286	rehabilitación cardiaca
+T103	PROCEDURE 6439 6462	rehabilitación cardiaca
+T104	PROCEDURE 6785 6835	Enfermedad coronaria de 3 vasos, revascularización
+T105	PROCEDURE 6922 6926	ECMO
+T125	PROCEDURE 4136 4152	Función tiroidea
+T126	PROCEDURE 2925 2989	Revascularización completa con 2 stents en DA, 1 en OM y 1 en CD
+T127	PROCEDURE 6967 6976	estatinas
+T128	PROCEDURE 5647 5662	betabloqueantes
+T129	PROCEDURE 7002 7013	anti- PCSK9
+T130	PROCEDURE 3556 3565	Analítica
+T131	PROCEDURE 3808 3817	Analítica
+T154	PROCEDURE 2220 2231	exploración
+T162	PROCEDURE 990 1013	perfusión de amiodarona
+T23	PROCEDURE 1292 1315	perfusión de adrenalina
+T24	PROCEDURE 1744 1761	bolo de abciximab
+T25	PROCEDURE 1964 1987	perfusión de adrenalina
+T35	PROCEDURE 5664 5668	IECA

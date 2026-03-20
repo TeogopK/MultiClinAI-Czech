@@ -1,0 +1,35 @@
+T1	SYMPTOM 507 539	ventrículo izquierdo no dilatado
+T2	SYMPTOM 566 597	fracción de eyección conservada
+T3	SYMPTOM 1278 1307	disnea de predominio nocturno
+T4	SYMPTOM 1312 1320	ortopnea
+T5	SYMPTOM 1337 1364	disnea paroxística nocturna
+T7	SYMPTOM 1408 1411	tos
+T8	SYMPTOM 1416 1429	expectoración
+T9	SYMPTOM 1470 1483	cuadro febril
+T10	SYMPTOM 1548 1572	aceptable estado general
+T11	SYMPTOM 1575 1596	levemente taquipneico
+T12	SYMPTOM 1692 1722	soplo sistólico en foco mitral
+T13	SYMPTOM 1725 1746	crepitantes bibasales
+T14	SYMPTOM 2951 2964	ritmo sinusal
+T15	SYMPTOM 2994 3008	QRS ensanchado
+T16	SYMPTOM 3204 3255	Exudado nasofaríngeo (x2): negativo para SARS-CoV-2
+T17	SYMPTOM 3730 3777	Engrosamiento de la pared posterior de la aorta
+T18	SYMPTOM 3892 3946	inversión holodiastólica en aorta torácica descendente
+T19	SYMPTOM 4438 4444	disnea
+T20	SYMPTOM 4450 4453	tos
+T21	SYMPTOM 4617 4628	pico febril
+T22	SYMPTOM 4912 4940	hemocultivos para E. faecium
+T23	SYMPTOM 6111 6129	fiebre persistente
+T25	SYMPTOM 6166 6193	disnea de mínimos esfuerzos
+T26	SYMPTOM 6203 6211	ortopnea
+T28	SYMPTOM 6267 6294	disnea paroxística nocturna
+T6	SYMPTOM 6854 6915	deterioro moderado la contractilidad del ventrículo izquierdo
+T142	SYMPTOM 5622 5649	complicaciones neurológicas
+T143	SYMPTOM 3187 3202	consolidaciones
+T27	SYMPTOM 2979 2992	eje izquierdo
+T67	SYMPTOM 3257 3315	Hemocultivos (2 sets): aislamiento de Enterococcus faecium
+T110	SYMPTOM 4134 4163	complicaciones intracraneales
+T111	SYMPTOM 4811 4858	exudados nasofaríngeos que resultaron negativos
+T53	SYMPTOM 5347 5378	positividad de los hemocultivos
+T87	SYMPTOM 5701 5778	exudado para PCR de SARS-CoV-2 como medida de precaución, resultando positivo
+T128	SYMPTOM 6831 6851	depleción de volumen

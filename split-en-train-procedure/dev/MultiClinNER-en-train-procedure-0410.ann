@@ -1,0 +1,17 @@
+T1	PROCEDURE 477 486	anamnesis
+T2	PROCEDURE 769 806	physical and neurological examination
+T11	PROCEDURE 887 900	imaging tests
+T15	PROCEDURE 917 929	Cerebral MRI
+T3	PROCEDURE 968 1044	cerebral angiography of the internal and external carotid artery territories
+T4	PROCEDURE 1380 1392	embolisation
+T18	PROCEDURE 1578 1599	surgical intervention
+T5	PROCEDURE 1607 1754	A bicoronal incision was made behind the nidus, bilaterally accessing the nourishing branches of the AVM, in order to first ligate and section them
+T20	PROCEDURE 1806 1843	make resection of the lesion possible
+T21	PROCEDURE 2062 2073	angiography
+T8	PROCEDURE 2075 2124	Radiofrequency coagulation, both mono and bipolar
+T6	PROCEDURE 2130 2171	bone wax were used to control haemorrhage
+T9	PROCEDURE 2173 2217	All subcutaneous blood vessels were resected
+T10	PROCEDURE 2288 2295	surgery
+T28	PROCEDURE 2316 2362	transfuse with two red blood cell concentrates
+T29	PROCEDURE 2370 2384	blood salvager
+T31	PROCEDURE 2451 2533	scalp was sutured in the usual way by planes and the skin was sutured with staples

@@ -1,0 +1,43 @@
+T58	PROCEDURE 1310 1330	electrocardiográfico
+T59	PROCEDURE 1454 1472	Exploración física
+T60	PROCEDURE 1619 1642	Exploración neurológica
+T61	PROCEDURE 1674 1695	auscultación cardiaca
+T62	PROCEDURE 1722 1743	auscultación pulmonar
+T63	PROCEDURE 1773 1794	exploración abdominal
+T64	PROCEDURE 2469 2487	Electrocardiograma
+T65	PROCEDURE 2489 2492	ECG
+T66	PROCEDURE 2600 2632	monitorización extrahospitalaria
+T67	PROCEDURE 2634 2637	ECG
+T68	PROCEDURE 3138 3166	Ecocardiograma transtorácico
+T69	PROCEDURE 3617 3660	Resonancia magnética nuclear (RMN) cardiaca
+T70	PROCEDURE 3673 3742	RM con secuencias anatómicas en el plano axial potenciadas en T1 y T2
+T71	PROCEDURE 3898 3918	Valoración anatómica
+T72	PROCEDURE 4360 4387	administración de gadolinio
+T73	PROCEDURE 4763 4779	Estudio genético
+T74	PROCEDURE 5039 5053	desfibrilación
+T75	PROCEDURE 5090 5119	ecocardiografía transtorácica
+T76	PROCEDURE 5122 5157	cardiorresonancia magnética nuclear
+T77	PROCEDURE 5248 5251	ECG
+T78	PROCEDURE 5424 5475	implante de un desfibrilador automático implantable
+T79	PROCEDURE 5823 5849	tratamiento betabloqueante
+T80	PROCEDURE 5893 5909	estudio genético
+T81	PROCEDURE 6087 6090	ECG
+T82	PROCEDURE 6238 6254	estudio genético
+T88	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T89	PROCEDURE 2155 2166	coagulación
+T90	PROCEDURE 5001 5025	monitorización intensiva
+T91	PROCEDURE 3647 3650	RMN
+T92	PROCEDURE 4781 4799	panel canalopatías
+T26	PROCEDURE 5159 5162	CRM
+T108	PROCEDURE 5477 5480	DAI
+T111	PROCEDURE 2034 2051	Estudio analítico
+T127	PROCEDURE 6590 6609	estudio morfológico
+T128	PROCEDURE 7564 7585	estudios morfológicos
+T94	PROCEDURE 6115 6134	test de provocación
+T97	PROCEDURE 1404 1421	descargas a 100 J
+T98	PROCEDURE 1798 1809	se palparon
+T106	PROCEDURE 6213 6232	test de provocación
+T110	PROCEDURE 6933 6942	descargas
+T112	PROCEDURE 7208 7217	descargas
+T113	PROCEDURE 7462 7498	desfibrilador automático implantable
+#1	AnnotatorNotes T26	Cardiorresonancia magnética nuclear

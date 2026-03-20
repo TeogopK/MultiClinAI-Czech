@@ -1,0 +1,29 @@
+T37	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T60	PROCEDURE 242 277	echo-Doppler of supra-aortic trunks
+T39	PROCEDURE 404 425	right upper lobectomy
+T38	PROCEDURE 777 797	Physical examination
+T40	PROCEDURE 905 925	Cardiac auscultation
+T41	PROCEDURE 967 989	Pulmonary auscultation
+T2	PROCEDURE 1123 1131	ANALYSIS
+T42	PROCEDURE 1382 1393	Coagulation
+T3	PROCEDURE 1402 1420	ARTERIAL GASOMETRY
+T43	PROCEDURE 1520 1537	ELECTROCARDIOGRAM
+T44	PROCEDURE 1539 1542	ECG
+T4	PROCEDURE 1676 1694	THORAX RADIOGRAPHY
+T45	PROCEDURE 1761 1772	THORACIC CT
+T48	PROCEDURE 1833 1842	lobectomy
+T52	PROCEDURE 1995 2023	Transthoracic echocardiogram
+T7	PROCEDURE 2298 2344	Bubble test was performed with agitated saline
+T53	PROCEDURE 2464 2494	Transesophageal echocardiogram
+T9	PROCEDURE 2624 2653	agitated physiological saline
+T51	PROCEDURE 2741 2774	oxygen therapy with nasal goggles
+T46	PROCEDURE 2825 2836	thoracic CT
+T49	PROCEDURE 2938 2947	lobectomy
+T54	PROCEDURE 3015 3029	echocardiogram
+T11	PROCEDURE 3181 3213	bubble test with agitated saline
+T55	PROCEDURE 3246 3276	transesophageal echocardiogram
+T57	PROCEDURE 3526 3540	oxygen therapy
+T13	PROCEDURE 3569 3654	urgent percutaneous closure of the PFO was decided under intracardiac echo monitoring
+T15	PROCEDURE 3662 3673	PFO closure
+T58	PROCEDURE 3807 3822	right lobectomy
+T59	PROCEDURE 3824 3875	Urgent percutaneous closure of patent foramen ovale

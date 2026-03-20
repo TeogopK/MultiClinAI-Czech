@@ -1,0 +1,14 @@
+T37	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T39	PROCEDURE 334 345	Chest X-ray
+T25	PROCEDURE 645 659	born vaginally
+T38	PROCEDURE 684 704	Physical examination
+T41	PROCEDURE 791 811	Cardiac auscultation
+T42	PROCEDURE 857 879	Pulmonary auscultation
+T43	PROCEDURE 1003 1014	Blood tests
+T40	PROCEDURE 1140 1151	Chest X-ray
+T44	PROCEDURE 1642 1659	Electrocardiogram
+T45	PROCEDURE 1661 1664	ECG
+T30	PROCEDURE 1843 1880	Portable transthoracic echocardiogram
+T46	PROCEDURE 2684 2711	right heart catheterisation
+T47	PROCEDURE 2716 2745	cardiopulmonary exercise test
+T48	PROCEDURE 2772 2803	pulmonary vasodilator treatment

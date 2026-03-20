@@ -1,0 +1,19 @@
+T14	PROCEDURE 107 114	surgery
+T6	PROCEDURE 209 229	Physical examination
+T18	PROCEDURE 286 295	haemogram
+T22	PROCEDURE 532 554	Peripheral blood smear
+T12	PROCEDURE 646 713	Serology for hepatotropic viruses, HIV, Toxoplasma, cytomegalovirus
+T13	PROCEDURE 829 853	serology for Schistosoma
+T26	PROCEDURE 900 924	Stool and urine cultures
+T27	PROCEDURE 929 944	stool parasites
+T1	PROCEDURE 960 980	Abdominal ultrasound
+T3	PROCEDURE 1111 1143	Upper gastrointestinal endoscopy
+T7	PROCEDURE 1348 1359	colonoscopy
+T8	PROCEDURE 1419 1460	polyp measuring 0.6 cm, which was removed
+T31	PROCEDURE 1462 1486	Pathological examination
+T11	PROCEDURE 1494 1509	rectal biopsies
+T5	PROCEDURE 2103 2128	liver function parameters
+T34	PROCEDURE 2133 2153	complete blood count
+T4	PROCEDURE 2155 2187	Upper gastrointestinal endoscopy
+T2	PROCEDURE 2192 2212	abdominal ultrasound
+T10	PROCEDURE 2305 2315	ultrasound

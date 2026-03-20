@@ -1,0 +1,36 @@
+T40	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T61	PROCEDURE 194 201	surgery
+T39	PROCEDURE 203 250	modified Heart Port type right mini-thoracotomy
+T41	PROCEDURE 564 584	Physical examination
+T42	PROCEDURE 905 925	Cardiac auscultation
+T43	PROCEDURE 948 970	Pulmonary auscultation
+T44	PROCEDURE 1105 1122	Electrocardiogram
+T45	PROCEDURE 1124 1127	ECG
+T3	PROCEDURE 1218 1221	CBC
+T46	PROCEDURE 1490 1510	Arterial blood gases
+T48	PROCEDURE 1589 1600	Chest X-ray
+T4	PROCEDURE 1748 1795	Transthoracic and transesophageal echocardiogra
+T49	PROCEDURE 1798 1825	transesophageal examination
+T50	PROCEDURE 1835 1843	sedation
+T7	PROCEDURE 2431 2454	Injection of gelafundin
+T51	PROCEDURE 2535 2543	Angio-CT
+T56	PROCEDURE 2931 2965	Ventilation/perfusion scintigraphy
+T10	PROCEDURE 2967 2986	scintigraphic study
+T52	PROCEDURE 3029 3039	Spirometry
+T11	PROCEDURE 3096 3122	Cardiac magnetic resonance
+T13	PROCEDURE 3615 3681	Gadoteric acid (0.15 mM/kg) was administered for 3D vascular study
+T15	PROCEDURE 3885 3913	Necrosis and viability study
+T53	PROCEDURE 4237 4267	transthoracic echocardiography
+T18	PROCEDURE 4269 4272	TTE
+T54	PROCEDURE 4278 4310	transesophageal echocardiography
+T19	PROCEDURE 4312 4315	TEE
+T55	PROCEDURE 4474 4524	Contrast was administered through both upper limbs
+T20	PROCEDURE 4624 4641	pulmonary CT scan
+T21	PROCEDURE 4648 4674	ventilation/perfusion scan
+T23	PROCEDURE 4805 4831	cardiac magnetic resonance
+T22	PROCEDURE 4833 4836	CMR
+T25	PROCEDURE 4964 5015	anatomical correction of the anomalous IVC drainage
+T62	PROCEDURE 5042 5051	operation
+T47	PROCEDURE 5380 5400	arterial blood gases
+T59	PROCEDURE 5405 5421	echocardiography
+T60	PROCEDURE 5504 5543	surgical repair of atrial septal defect

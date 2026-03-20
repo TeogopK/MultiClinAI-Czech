@@ -1,0 +1,37 @@
+T27	DISEASE 71 79	alergias
+T28	DISEASE 132 141	exfumador
+T29	DISEASE 162 183	Hipertensión arterial
+T30	DISEASE 185 188	HTA
+T31	DISEASE 207 217	Dislipemia
+T32	DISEASE 242 255	Hiperuricemia
+T33	DISEASE 257 305	Síndrome de apnea-hipopnea obstructiva del sueño
+T34	DISEASE 307 312	SAHOS
+T35	DISEASE 406 418	poliglobulia
+T36	DISEASE 484 529	linfoma linfocítico con delección del gen p53
+T37	DISEASE 531 564	Artropatía degenerativa de hombro
+T38	DISEASE 567 597	osteofitosis acromioclavicular
+T39	DISEASE 671 686	hernia inguinal
+T40	DISEASE 1375 1395	leucemia linfocítica
+T41	DISEASE 1716 1739	flutter auricular común
+T42	DISEASE 1801 1823	insuficiencia cardiaca
+T43	DISEASE 2151 2183	bloqueo completo de rama derecha
+T44	DISEASE 2185 2190	BRDHH
+T45	DISEASE 2845 2870	insuficiencia tricuspídea
+T46	DISEASE 2872 2874	IT
+T47	DISEASE 2921 2942	hipertensión pulmonar
+T48	DISEASE 2978 2997	derrame pericárdico
+T49	DISEASE 3014 3037	flutter auricular común
+T50	DISEASE 3191 3213	insuficiencia cardiaca
+T51	DISEASE 3261 3278	flutter auricular
+T52	DISEASE 3381 3384	HTA
+T53	DISEASE 3699 3758	fibrilación auricular (FA) con respuesta ventricular rápida
+T54	DISEASE 3722 3724	FA
+T55	DISEASE 4558 4578	flutter auricular IC
+T56	DISEASE 5101 5130	flutter auricular paroxístico
+T57	DISEASE 5169 5189	flutter auricular IC
+T58	DISEASE 5249 5268	Linfoma linfocítico
+T59	DISEASE 5096 5098	FA
+T60	DISEASE 2616 2650	Válvula aórtica esclerocalcificada
+T61	DISEASE 2681 2728	Válvula mitral esclerosa con regurgitación leve
+T62	DISEASE 2730 2774	Aurícula izquierda (AI) ligeramente dilatada
+#1	AnnotatorNotes T34	  Síndrome de apnea-hipopnea obstructiva del sueño

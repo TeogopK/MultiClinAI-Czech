@@ -1,0 +1,89 @@
+T39	DISEASE 101 122	hipertensión arterial
+T40	DISEASE 124 127	HTA
+T41	DISEASE 186 219	síndrome de Wolff-Parkinson-White
+T42	DISEASE 221 224	WPW
+T44	DISEASE 1529 1568	oclusión de arteria vertebral izquierda
+T45	DISEASE 1613 1625	trombo agudo
+T46	DISEASE 1636 1728	lesiones isquémicas crónicas en ganglios basales, tálamo izquierdo y hemisferios cerebelosos
+T47	DISEASE 1769 1788	déficit neurológico
+T48	DISEASE 1815 1821	trombo
+T49	DISEASE 2079 2084	Ictus
+T50	DISEASE 2532 2535	WPW
+T51	DISEASE 3082 3106	lesión isquémica crónica
+T52	DISEASE 3283 3310	infartos lacunares crónicos
+T53	DISEASE 3651 3663	trombo agudo
+T54	DISEASE 3767 3819	Quistes de retención en senos maxilares y esfenoidal
+T55	DISEASE 3955 4058	placa de ateroma calcificada plana no obstructiva en el origen de la arteria carótida interna izquierda
+T56	DISEASE 4278 4290	trombo agudo
+T57	DISEASE 4482 4492	aneurismas
+T58	DISEASE 4532 4589	trombo agudo en V3 y V4 de la arteria vertebral izquierda
+T59	DISEASE 4591 4694	Lesiones isquémicas crónicas en ganglios basales y tálamo izquierdos y en hemisferio cerebeloso derecho
+T60	DISEASE 5532 5535	TEP
+T61	DISEASE 5799 5843	tomboembolismo pulmonar (TEP) agudo bilatera
+T62	DISEASE 5824 5827	TEP
+T63	DISEASE 5980 5983	HTP
+T64	DISEASE 6078 6097	derrame pericárdico
+T65	DISEASE 6116 6182	adenopatías supraclaviculares, axilares, mediastínicas ni hiliares
+T66	DISEASE 6280 6312	Atelectasias laminares bibasales
+T67	DISEASE 6322 6350	granuloma calcificado en LSD
+T68	DISEASE 6423 6438	derrame pleural
+T69	DISEASE 6440 6469	Leve espondiloartrosis dorsal
+T70	DISEASE 6471 6484	Hernia hiatal
+T71	DISEASE 6535 6554	TEP agudo bilateral
+T72	DISEASE 6557 6560	HTP
+T73	DISEASE 6593 6688	lesión isquémica en evolución en el hemisferio cerebeloso izquierdo en el territorio de la PICA
+T74	DISEASE 6813 6816	TVP
+T75	DISEASE 6873 6878	ictus
+T76	DISEASE 6914 6932	hipertrofia septal
+T77	DISEASE 7272 7305	Valvulopatía aórtica degenerativa
+T78	DISEASE 7422 7453	Insuficiencia tricúspide ligera
+T79	DISEASE 7500 7519	derrame pericárdico
+T80	DISEASE 7607 7641	Aneurisma del septo interauricular
+T81	DISEASE 7778 7818	shunt de cavidades derechas a izquierdas
+T82	DISEASE 8061 8066	ictus
+T83	DISEASE 8068 8071	TEP
+T84	DISEASE 8129 8151	FOP de tipo tunelizado
+T85	DISEASE 8439 8477	foramen oval permeable tipo tunelizado
+T86	DISEASE 10093 10098	ictus
+T87	DISEASE 10537 10561	tromboembolismo pulmonar
+T88	DISEASE 10563 10566	TEP
+T89	DISEASE 10655 10674	TEP bilateral agudo
+T90	DISEASE 10985 11010	trombosis venosa profunda
+T91	DISEASE 11059 11091	disfunción de ventrículo derecho
+T92	DISEASE 11136 11170	aneurisma del septo interauricular
+T93	DISEASE 11292 11295	FOP
+T94	DISEASE 11375 11380	ictus
+T95	DISEASE 11383 11386	TEP
+T96	DISEASE 11393 11421	embolismo paradójico por FOP
+T97	DISEASE 11439 11442	WPW
+T98	DISEASE 11453 11461	arritmia
+T99	DISEASE 11499 11520	fibrilación auricular
+T100	DISEASE 11532 11535	WPW
+T101	DISEASE 11675 11684	arritmias
+T102	DISEASE 11717 11729	síndrome WPW
+T103	DISEASE 12335 12346	prediabetes
+T104	DISEASE 12362 12374	endocarditis
+T105	DISEASE 12768 12786	trombótico del TEP
+T106	DISEASE 12877 12898	fibrilación auricular
+T107	DISEASE 12938 12989	Ictus isquémico agudo en territorio vertebrobasilar
+T108	DISEASE 12991 13125	oclusión aguda segmento V3-4 de arteria vertebral izquierda con compromiso de arteria cerebelosa posterior inferior (PICA) ipsilateral
+T109	DISEASE 13128 13168	tromboembolismo pulmonar agudo bilateral
+T110	DISEASE 13195 13236	Foramen oval permeable de tipo tunelizado
+T111	DISEASE 5274 5285	trombofilia
+T112	DISEASE 8397 8404	trombos
+T113	DISEASE 799 827	nistagmo horizonto-rotatorio
+T114	DISEASE 12012 12034	FOP de tipo tunelizado
+T115	DISEASE 13291 13294	WPW
+T220	DISEASE 7323 7351	insuficiencia aórtica ligera
+T229	DISEASE 9094 9107	preexcitación
+T230	DISEASE 11736 11744	recidiva
+T27	DISEASE 8658 8671	Preexcitación
+#1	AnnotatorNotes T42	 síndrome de Wolff-Parkinson-White
+#2	AnnotatorNotes T50	 síndrome de Wolff-Parkinson-White
+#3	AnnotatorNotes T62	 tromboembolismo pulmonar
+#4	AnnotatorNotes T93	 FORAMEN OVAL PERMEABLE
+#5	AnnotatorNotes T97	 síndrome de Wolff-Parkinson-White
+#6	AnnotatorNotes T100	 síndrome de Wolff-Parkinson-White
+#7	AnnotatorNotes T102	 Wolff-Parkinson-White
+#8	AnnotatorNotes T114	 FOP: foramen oval permeable
+#9	AnnotatorNotes T115	 síndrome de Wolff-Parkinson-White

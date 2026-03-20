@@ -1,0 +1,9 @@
+T5	PROCEDURE 165 185	Physical examination
+T7	PROCEDURE 276 294	Rectal examination
+T4	PROCEDURE 424 451	vesico-prostatic ultrasound
+T3	PROCEDURE 491 512	testicular ultrasound
+T2	PROCEDURE 571 593	retrograde cystography
+T8	PROCEDURE 669 691	Treatment was surgical
+T6	PROCEDURE 709 758	resection of the herniated portion of the bladder
+T9	PROCEDURE 784 834	correction of the inguinal hernia with marlex mesh
+T1	PROCEDURE 856 875	TUR of the prostate

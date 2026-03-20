@@ -1,0 +1,35 @@
+T24	SYMPTOM 377 379	RS
+T1	SYMPTOM 381 408	Preserved systolic function
+T2	SYMPTOM 665 686	oppressive chest pain
+T3	SYMPTOM 697 709	palpitations
+T4	SYMPTOM 817 846	wide QRS rhythmic tachycardia
+T5	SYMPTOM 965 977	sinus rhythm
+T7	SYMPTOM 1146 1155	Conscious
+T8	SYMPTOM 1157 1165	oriented
+T26	SYMPTOM 1167 1180	normal colour
+T9	SYMPTOM 1185 1198	normohydrated
+T10	SYMPTOM 1200 1207	Eupneic
+T11	SYMPTOM 1212 1233	jugular ingurgitation
+T12	SYMPTOM 1259 1275	normoventilation
+T27	SYMPTOM 1280 1292	extra sounds
+T13	SYMPTOM 1316 1330	rhythmic tones
+T14	SYMPTOM 1332 1343	tachycardic
+T28	SYMPTOM 1345 1399	Abdomen soft and depressible, not painful on palpation
+T15	SYMPTOM 1418 1439	peritoneal irritation
+T29	SYMPTOM 1441 1462	Peristalsis preserved
+T30	SYMPTOM 1464 1492	Lower extremities: no oedema
+T6	SYMPTOM 1745 1757	sinus rhythm
+T16	SYMPTOM 1769 1779	narrow QRS
+T25	SYMPTOM 1785 1812	epolarisation abnormalities
+T17	SYMPTOM 1814 1847	Chest X-ray: preserved silhouette
+T18	SYMPTOM 1852 1868	congestive signs
+T31	SYMPTOM 2542 2587	LV dimensions at the upper limit of normality
+T32	SYMPTOM 2801 2815	LVOT elevation
+T33	SYMPTOM 2888 2914	Aortic root of normal size
+T19	SYMPTOM 3031 3051	intracavitary masses
+T20	SYMPTOM 3494 3518	normal systolic function
+T21	SYMPTOM 3531 3549	Normal RV function
+T34	SYMPTOM 3551 3568	Atria not dilated
+T22	SYMPTOM 3579 3630	Electrophysiological study: no significant findings
+T35	SYMPTOM 4209 4229	Tolerates ambulation
+T23	SYMPTOM 4368 4380	asymptomatic

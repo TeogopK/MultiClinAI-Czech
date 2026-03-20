@@ -1,0 +1,32 @@
+T37	DISEASE 85 114	comunicación interventricular
+T38	DISEASE 792 815	adenopatías periféricas
+T39	DISEASE 819 836	lesiones cutáneas
+T40	DISEASE 1660 1666	BCRIHH
+T41	DISEASE 2106 2199	endocarditis infecciosa sobre válvula aórtica, con rotura valvular que ocasiona insuficiencia
+T42	DISEASE 2210 2299	regurgitación mitral funcional grado III (tipo I de Carpentier, por dilatación del anillo
+T43	DISEASE 2339 2366	hipertensión pulmonar grave
+T44	DISEASE 2650 2661	hemorroides
+T45	DISEASE 3249 3308	endocarditis infecciosa sobre válvula tricuspídea y aórtica
+T46	DISEASE 3344 3355	VI dilatado
+T47	DISEASE 3833 3862	comunicación interventricular
+T48	DISEASE 4257 4304	Endocarditis sobre válvula aórtica y tricúspide
+T49	DISEASE 4306 4392	Insuficiencia cardiaca con fracción de eyección preservada, secundaria a valvulopatía.
+T50	DISEASE 4393 4448	Insuficiencia aórtica grado IV por destrucción valvular
+T51	DISEASE 4450 4516	Insuficiencia tricuspídea grado III por destrucción de velo septal
+T52	DISEASE 4518 4538	Insuficiencia mitral
+T53	DISEASE 4606 4633	Hipertensión pulmonar grave
+T54	DISEASE 3864 3867	CIV
+T55	DISEASE 4752 4755	CIV
+T56	DISEASE 27 50	alergias medicamentosas
+T57	DISEASE 2306 2336	dilatación auricular izquierda
+T58	DISEASE 265 280	hábitos tóxicos
+T59	DISEASE 1624 1658	bloqueo completo de rama izquierda
+T60	DISEASE 1968 2000	dilatación ventricular izquierda
+T61	DISEASE 2378 2452	Afectación de la válvula tricuspídea (velo septal) con regurgitación grave
+T62	DISEASE 4560 4604	Comunicación interventricular perimembranosa
+T63	DISEASE 2454 2523	Comunicación interventricular perimembranosa infracristal restrictiva
+T139	DISEASE 4186 4198	vegetaciones
+T25	DISEASE 1358 1378	proceso inflamatorio
+T112	DISEASE 3314 3341	insuficiencia aórtica grave
+#1	AnnotatorNotes T54	 CIV comunicación interventricular
+#2	AnnotatorNotes T55	 CIV comunicación interventricular

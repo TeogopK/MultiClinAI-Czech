@@ -1,0 +1,36 @@
+T1	SYMPTOM 660 671	sibilancias
+T2	SYMPTOM 674 696	aumento de secreciones
+T3	SYMPTOM 741 759	síntomas cardiacos
+T4	SYMPTOM 771 789	disnea de esfuerzo
+T6	SYMPTOM 798 811	palpitaciones
+T7	SYMPTOM 843 853	Consciente
+T8	SYMPTOM 855 864	orientada
+T9	SYMPTOM 866 878	colaboradora
+T10	SYMPTOM 880 899	Buen estado general
+T11	SYMPTOM 901 915	Bien hidratada
+T12	SYMPTOM 918 928	perfundida
+T13	SYMPTOM 930 948	Eupneica en reposo
+T14	SYMPTOM 953 974	ingurgitación yugular
+T16	SYMPTOM 1001 1007	soplos
+T17	SYMPTOM 1009 1032	Sibilancias diseminadas
+T18	SYMPTOM 1034 1073	Pulsos periféricos presentes simétricos
+T19	SYMPTOM 1078 1084	edemas
+T20	SYMPTOM 1118 1131	Ritmo sinusal
+T21	SYMPTOM 1142 1151	PR normal
+T22	SYMPTOM 1275 1303	Índice cardiotorácico normal
+T23	SYMPTOM 1332 1360	Hilios pulmonares aumentados
+T29	SYMPTOM 1904 1939	Válvula AV derecha sin alteraciones
+T31	SYMPTOM 2540 2573	Válvula pulmonar sin alteraciones
+T5	SYMPTOM 976 996	Auscultación rítmica
+T15	SYMPTOM 1312 1330	elongación aórtica
+T84	SYMPTOM 1818 1853	Aurícula izquierda de tamaño normal
+T88	SYMPTOM 1855 1902	Cavidades derechas de tamaño y función normales
+T89	SYMPTOM 1590 1648	Patrón en mosaico de parénquima pulmonar de causa vascular
+T94	SYMPTOM 1762 1816	Ventrículo izquierdo de tamaño y contractilidad normal
+T102	SYMPTOM 2494 2538	jets de regurgitación central grado moderado
+T26	SYMPTOM 1153 1166	Eje izquierdo
+T27	SYMPTOM 1210 1258	Progresión anómala de R en precordiales derechas
+T28	SYMPTOM 1502 1552	Cono de pulmonar discretamente aumentado de tamaño
+T85	SYMPTOM 2160 2209	Aorta anterior e izquierda respecto a la pulmonar
+T86	SYMPTOM 2234 2315	Ventrículo sistémico de volúmenes aumentados y función en límite de la normalidad
+T87	SYMPTOM 2317 2383	Ventrículo subpulmonar de volumen reducido y contractilidad normal

@@ -1,0 +1,77 @@
+T24	DISEASE 134 137	HTA
+T25	DISEASE 214 227	Hiperuricemia
+T26	DISEASE 229 257	EPOC tipo bronquitis crónica
+T27	DISEASE 326 347	hipertensión pulmonar
+T28	DISEASE 509 533	taquicardia QRS estrecho
+T29	DISEASE 725 745	hipotensión arterial
+T30	DISEASE 947 993	dilatación biventricular con disfunción severa
+T31	DISEASE 1023 1052	insuficiencia mitral moderada
+T32	DISEASE 1086 1127	insuficiencia tricuspídea moderada-severa
+T33	DISEASE 1189 1207	shock cardiogénico
+T34	DISEASE 1249 1273	tromboembolismo pulmonar
+T35	DISEASE 1313 1331	shock cardiogénico
+T36	DISEASE 1645 1684	insuficiencia mitral moderada funcional
+T37	DISEASE 1687 1740	doble lesión aórtica con insuficiencia aórtica severa
+T38	DISEASE 1802 1830	insuficiencia aórtica severa
+T39	DISEASE 1854 1890	prolapso de velo coronariano derecho
+T40	DISEASE 1971 2022	perforación de la base del velo coronariano derecho
+T41	DISEASE 2441 2495	fibrilación auricular con respuesta ventricular rápida
+T42	DISEASE 2767 2770	TEP
+T43	DISEASE 2792 2828	adenopatías mediastínicas o axilares
+T44	DISEASE 3108 3130	insuficiencia cardiaca
+T45	DISEASE 3306 3325	hepatopatía crónica
+T46	DISEASE 3351 3354	TEP
+T47	DISEASE 3932 3973	endocarditis a nivel de la válvula mitral
+T48	DISEASE 3975 4074	Válvula aórtica tricúspide, fibroesclerosada, con engrosamiento severo del velo coronariano derecho
+T49	DISEASE 4207 4230	verruga de endocarditis
+T50	DISEASE 4243 4279	prolapso de velo coronariano derecho
+T51	DISEASE 4459 4496	prolapso del velo coronariano derecho
+T52	DISEASE 4758 4779	valvulopatía pulmonar
+T53	DISEASE 4823 4842	derrame pericárdico
+T54	DISEASE 4903 4913	IAo severa
+T55	DISEASE 5099 5135	prolapso de velo coronariano derecho
+T56	DISEASE 5221 5272	perforación de la base del velo coronariano derecho
+T57	DISEASE 5475 5511	endocarditis sobre la válvula mitral
+T58	DISEASE 5610 5644	endocarditis sobre válvula aórtica
+T59	DISEASE 5958 6004	afectación endocardítica por Coxiella burnetii
+T60	DISEASE 6065 6082	flutter auricular
+T61	DISEASE 6136 6165	disfunción ventricular severa
+T63	DISEASE 6400 6418	Shock cardiogénico
+T64	DISEASE 6538 6586	Endocarditis mitro-aórtica por Coxiella burnetii
+T65	DISEASE 3811 3813	IM
+T66	DISEASE 5285 5287	IM
+T67	DISEASE 5668 5670	IM
+T68	DISEASE 4634 4641	IT leve
+T69	DISEASE 6191 6195	TVNS
+T70	DISEASE 99 122	alergias medicamentosas
+T71	DISEASE 294 323	doble lesión aórtica moderada
+T72	DISEASE 1054 1083	doble lesión aórtica moderada
+T73	DISEASE 170 177	fumador
+T74	DISEASE 156 167	dislipémico
+T75	DISEASE 203 212	Exbebedor
+T77	DISEASE 3584 3595	AI dilatada
+T78	DISEASE 3678 3689	AD dilatada
+T79	DISEASE 4296 4299	IAo
+T80	DISEASE 4685 4697	VCI dilatada
+T81	DISEASE 5646 5656	IAO severa
+T82	DISEASE 5658 5666	EAo leve
+T4	DISEASE 3227 3268	hipertrofia del lóbulo hepático izquierdo
+T16	DISEASE 3376 3460	ventrículo izquierdo moderada-severamente dilatado, con hipertrofia concéntrica leve
+T118	DISEASE 6437 6456	taquimiocardiopatía
+T119	DISEASE 6461 6489	fibrilación auricular rápida
+#1	AnnotatorNotes T24	 HTA: hipertensión arterial
+#2	AnnotatorNotes T26	 EPOC: enfermedad pulmonar obstructiva crónica
+#3	AnnotatorNotes T42	 TEP: tromboembolia pulmonar
+#4	AnnotatorNotes T46	 TEP: tromboembolia pulmonar
+#5	AnnotatorNotes T54	 IAo: insuficiencia aórtica
+#6	AnnotatorNotes T65	 IM: insuficiencia mitral
+#7	AnnotatorNotes T66	 IM: insuficiencia mitral
+#8	AnnotatorNotes T67	 IM: insuficiencia mitral
+#9	AnnotatorNotes T68	 IT: insuficiencia tricuspídea
+#10	AnnotatorNotes T69	 TVNS: Taquicardia ventricular no sostenida
+#11	AnnotatorNotes T77	 AI: aurícula izquierda
+#12	AnnotatorNotes T78	 AD: aurícula derecha
+#13	AnnotatorNotes T79	 IAo: insuficiencia aórtica
+#14	AnnotatorNotes T80	 VCI: vena cava inferior
+#15	AnnotatorNotes T81	 IAo: insuficiencia aórtica
+#16	AnnotatorNotes T82	 EAo: estenosis aórtica

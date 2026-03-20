@@ -1,0 +1,37 @@
+T59	PROCEDURE 770 783	inmunoterapia
+T60	PROCEDURE 1030 1048	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 1228 1249	Auscultación cardiaca
+T62	PROCEDURE 1270 1291	Auscultación pulmonar
+T63	PROCEDURE 1422 1440	Electrocardiograma
+T64	PROCEDURE 1442 1445	ECG
+T65	PROCEDURE 1610 1643	Radiografía de tórax PA y lateral
+T66	PROCEDURE 2227 2255	Ecocardiograma transtorácico
+T67	PROCEDURE 2783 2826	Resonancia magnética cardiaca con contraste
+T68	PROCEDURE 3255 3281	Biopsia de músculo tríceps
+T69	PROCEDURE 3383 3396	técnica de HE
+T70	PROCEDURE 3490 3516	estudio inmunohistoquímico
+T71	PROCEDURE 3705 3708	ECG
+T72	PROCEDURE 4302 4356	Anticuerpos antimúsculo estriado (inmunofluorescencia)
+T73	PROCEDURE 4486 4497	corticoides
+T74	PROCEDURE 4531 4545	diurético oral
+T75	PROCEDURE 4563 4592	monitorización con telemetría
+T76	PROCEDURE 4792 4834	pauta descendente posterior de corticoides
+T77	PROCEDURE 4850 4878	ecocardiograma transtorácico
+T78	PROCEDURE 4881 4901	resonancia magnética
+T79	PROCEDURE 5213 5240	biopsia de tríceps braquial
+T80	PROCEDURE 5339 5354	coronariografía
+T81	PROCEDURE 5358 5380	biopsia endomiocárdica
+T82	PROCEDURE 5445 5448	ECG
+T83	PROCEDURE 5479 5496	antiinflamatorios
+T84	PROCEDURE 5528 5544	biopsia muscular
+T85	PROCEDURE 5672 5685	inmunoterapia
+T86	PROCEDURE 5810 5813	ECG
+T87	PROCEDURE 5816 5826	troponinas
+T98	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T99	PROCEDURE 4703 4732	marcadores de daño miocárdico
+T100	PROCEDURE 5040 5060	ecuencias de T2-STIR
+T101	PROCEDURE 5564 5582	secuencias T2-STIR
+T117	PROCEDURE 1793 1802	Analítica
+T118	PROCEDURE 3877 3886	Analítica
+T131	PROCEDURE 5432 5442	analíticas
+T106	PROCEDURE 5510 5523	autoinmunidad

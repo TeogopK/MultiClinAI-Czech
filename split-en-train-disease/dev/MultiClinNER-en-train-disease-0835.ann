@@ -1,0 +1,19 @@
+T26	DISEASE 80 89	ex-smoker
+T27	DISEASE 295 322	acute myocardial infarction
+T1	DISEASE 324 327	AMI
+T38	DISEASE 1086 1109	erythematous oropharynx
+T2	DISEASE 1115 1151	bilateral tonsillar pustular plaques
+T28	DISEASE 1228 1245	lymphadenopathies
+T29	DISEASE 1382 1403	respiratory alkalosis
+T30	DISEASE 1625 1639	Brugada type I
+T32	DISEASE 1953 1977	structural heart disease
+T6	DISEASE 2148 2170	valvular heart disease
+T33	DISEASE 2183 2203	pericardial effusion
+T7	DISEASE 2295 2333	syncopal episodes of vasovagal profile
+T39	DISEASE 2469 2481	sudden death
+T34	DISEASE 2571 2596	acute pharyngotonsillitis
+T8	DISEASE 2621 2631	arrhythmia
+T36	DISEASE 2807 2830	ventricular arrhythmias
+T40	DISEASE 2911 2923	sudden death
+T37	DISEASE 2954 2968	Brugada type 1
+T31	DISEASE 3196 3210	Brugada type I

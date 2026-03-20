@@ -1,0 +1,26 @@
+T1	SYMPTOM 396 411	síndrome febril
+T2	SYMPTOM 913 919	fiebre
+T3	SYMPTOM 423 438	dolor abdominal
+T4	SYMPTOM 2068 2126	crecimiento polimicrobiano en el catéter con la vegetación
+T5	SYMPTOM 946 961	dolor abdominal
+T6	SYMPTOM 546 595	Staphylococcus epidermidis en varios hemocultivos
+T7	SYMPTOM 1263 1319	catéter protuyendo desde la aurícula hacia el ventrículo
+T8	SYMPTOM 1457 1507	aislamientos previos de Staphylococcus epidermidis
+T9	SYMPTOM 1842 1877	condensaciones parcheadas en pulmón
+T10	SYMPTOM 1999 2065	aislamientos: Staphylococcus epidermidis en el catéter funcionante
+T11	SYMPTOM 2141 2213	se aislaron Staphylococcus epidermidis, Ochrobactrum anthropi y un hongo
+T12	SYMPTOM 1080 1112	fragmento abandonado del catéter
+T13	SYMPTOM 1105 1183	catéter estaba situado desde la vena cava superior hasta el ventrículo derecho
+T14	SYMPTOM 1241 1270	vegetaciones sobre el catéter
+T15	SYMPTOM 1816 1840	hemorragia subaracnoidea
+A1	RESULTADO T4
+A2	RESULTADO T6
+A3	IMAGEN T7
+A4	RESULTADO T8
+A5	IMAGEN T9
+A6	RESULTADO T10
+A7	RESULTADO T11
+A8	IMAGEN T12
+A9	IMAGEN T13
+A10	IMAGEN T14
+A11	IMAGEN T15

@@ -1,0 +1,38 @@
+T1	SYMPTOM 384 393	dry cough
+T25	SYMPTOM 395 403	wheezing
+T2	SYMPTOM 408 437	dyspnoea on moderate exertion
+T3	SYMPTOM 655 678	vascular redistribution
+T5	SYMPTOM 749 761	sinus rhythm
+T7	SYMPTOM 787 794	febrile
+T8	SYMPTOM 895 903	dyspnoea
+T9	SYMPTOM 905 915	orthopnoea
+T31	SYMPTOM 920 926	oedema
+T10	SYMPTOM 1062 1071	Conscious
+T11	SYMPTOM 1076 1084	oriented
+T32	SYMPTOM 1086 1096	Tachypneic
+T12	SYMPTOM 1101 1112	tachycardic
+T14	SYMPTOM 1175 1196	Jugular ingurgitation
+T15	SYMPTOM 1201 1221	hepatojugular reflux
+T13	SYMPTOM 1245 1256	tachycardic
+T16	SYMPTOM 1262 1275	gallop rhythm
+T17	SYMPTOM 1280 1287	murmurs
+T18	SYMPTOM 1313 1329	bibasal crackles
+T19	SYMPTOM 1331 1356	ABD: soft and depressible
+T20	SYMPTOM 1361 1367	masses
+T33	SYMPTOM 1371 1380	megaliths
+T21	SYMPTOM 1408 1427	peristalsis present
+T34	SYMPTOM 1448 1484	pretibial oedema in both extremities
+T22	SYMPTOM 1503 1528	Peripheral pulses present
+T35	SYMPTOM 1676 1705	Haemogram without alterations
+T6	SYMPTOM 1820 1832	sinus rhythm
+T29	SYMPTOM 1864 1873	Normal PR
+T23	SYMPTOM 1875 1885	Narrow QRS
+T36	SYMPTOM 1908 1931	lateral negative T wave
+T4	SYMPTOM 1969 2008	vascular redistribution to upper fields
+T28	SYMPTOM 2102 2129	severely depressed function
+T37	SYMPTOM 2280 2294	elevated LVEDP
+T24	SYMPTOM 2348 2359	Normal PAPs
+T30	SYMPTOM 2407 2429	Minimally elevated PVC
+T26	SYMPTOM 3675 3680	cough
+T27	SYMPTOM 3943 3996	normal thyroid profile, autoimmunity and proteinogram
+T38	SYMPTOM 3998 4019	Normal renal function

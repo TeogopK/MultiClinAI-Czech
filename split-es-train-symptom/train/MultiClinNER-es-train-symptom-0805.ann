@@ -1,0 +1,55 @@
+T1	SYMPTOM 469 483	dolor torácico
+T2	SYMPTOM 489 517	coronariografía sin lesiones
+T3	SYMPTOM 1065 1091	sensación de palpitaciones
+T4	SYMPTOM 1094 1113	molestias torácicas
+T5	SYMPTOM 1177 1196	molestias torácicas
+T6	SYMPTOM 1198 1205	náuseas
+T7	SYMPTOM 1207 1214	cefalea
+T8	SYMPTOM 1217 1239	debilidad generalizada
+T9	SYMPTOM 1245 1269	liberación de esfínteres
+T10	SYMPTOM 1491 1509	cortejo vegetativo
+T11	SYMPTOM 1589 1602	palpitaciones
+T12	SYMPTOM 1762 1774	asintomática
+T13	SYMPTOM 1781 1802	focalidad neurológica
+T14	SYMPTOM 1804 1829	Hemodinámicamente estable
+T15	SYMPTOM 1924 1933	Orientada
+T17	SYMPTOM 1954 1975	ingurgitación yugular
+T18	SYMPTOM 2000 2025	ruidos cardiacos rítmicos
+T19	SYMPTOM 2030 2036	soplos
+T20	SYMPTOM 2061 2090	murmullo vesicular conservado
+T21	SYMPTOM 2092 2120	Abdomen: blando, no doloroso
+T22	SYMPTOM 2125 2130	masas
+T23	SYMPTOM 2135 2143	megalias
+T24	SYMPTOM 2145 2175	Miembros inferiores: no edemas
+T25	SYMPTOM 2442 2455	ritmo sinusal
+T27	SYMPTOM 2478 2487	PR normal
+T28	SYMPTOM 2489 2501	QRS estrecho
+T29	SYMPTOM 2506 2539	alteraciones de la repolarización
+T30	SYMPTOM 2595 2623	índice cardiotorácico normal
+T32	SYMPTOM 2681 2698	Mediastino normal
+T33	SYMPTOM 2731 2816	ventrículo izquierdo (VI) de tamaño, grosor y función sistólica y diastólica normales
+T34	SYMPTOM 2818 2870	Ventrículo derecho (VD) de tamaño y función normales
+T35	SYMPTOM 3077 3133	ventrículos de morfología y función sistólica conservada
+T36	SYMPTOM 3139 3144	edema
+T37	SYMPTOM 3197 3210	ritmo sinusal
+T38	SYMPTOM 3446 3459	palpitaciones
+T39	SYMPTOM 3468 3483	cuadro sincopal
+T41	SYMPTOM 4413 4478	test de inducción de arritmias ventriculares que resulta negativo
+T42	SYMPTOM 5054 5067	palpitaciones
+T43	SYMPTOM 5093 5108	cuadro sincopal
+T44	SYMPTOM 6343 6356	palpitaciones
+T93	SYMPTOM 1020 1027	síncope
+T105	SYMPTOM 4718 4725	síncope
+T107	SYMPTOM 4912 4920	síncopes
+T16	SYMPTOM 2625 2651	Senos costofrénicos libres
+T26	SYMPTOM 2872 2938	Aurícula izquierda (AI) y aurícula derecha (AD) de tamaño normales
+T31	SYMPTOM 2989 3019	Raíz de aorta de tamaño normal
+T40	SYMPTOM 4480 4508	Test de flecainida: negativo
+T117	SYMPTOM 5727 5766	test de flecainida que resulta negativo
+T112	SYMPTOM 6650 6658	Síncopes
+T125	SYMPTOM 6576 6588	Asintomática
+T140	SYMPTOM 1936 1948	colaboradora
+T141	SYMPTOM 2466 2476	eje normal
+T144	SYMPTOM 2668 2679	infiltrados
+T127	SYMPTOM 5265 5286	fenómeno de R sobre T
+T78	SYMPTOM 5807 5859	resonancia magnética (RMN) cardiaca sin alteraciones

@@ -1,0 +1,58 @@
+T79	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T81	PROCEDURE 611 635	neurological examination
+T80	PROCEDURE 908 928	physical examination
+T82	PROCEDURE 936 956	cardiac auscultation
+T83	PROCEDURE 991 1015	respiratory auscultation
+T84	PROCEDURE 1073 1090	electrocardiogram
+T2	PROCEDURE 1126 1137	blood tests
+T113	PROCEDURE 1166 1177	coagulation
+T3	PROCEDURE 1223 1253	multimodal computed tomography
+T4	PROCEDURE 1255 1257	CT
+T121	PROCEDURE 1947 1965	surgical treatment
+T85	PROCEDURE 1997 2014	electrocardiogram
+T87	PROCEDURE 2016 2019	ECG
+T8	PROCEDURE 2286 2292	ED CBC
+T9	PROCEDURE 2687 2721	Urgent cranial CT and perfusion CT
+T119	PROCEDURE 3375 3390	perfusion study
+T109	PROCEDURE 3521 3565	Angio-CT of TSA and urgent cerebral arteries
+T15	PROCEDURE 4346 4370	Routine laboratory tests
+T89	PROCEDURE 4932 4951	Thrombophilia study
+T90	PROCEDURE 5146 5163	Chest CT with VSD
+T21	PROCEDURE 6139 6141	CT
+T91	PROCEDURE 6287 6324	Echo Doppler of the lower extremities
+T23	PROCEDURE 6346 6374	Transthoracic echocardiogram
+T27	PROCEDURE 7225 7246	bubble echocardiogram
+T92	PROCEDURE 7294 7362	Transthoracic echocardiogram with bubbles: very positive bubble test
+T41	PROCEDURE 7437 7467	Transesophageal echocardiogram
+T93	PROCEDURE 7556 7567	bubble test
+T94	PROCEDURE 7945 7971	Electrophysiological study
+T123	PROCEDURE 8508 8527	35 W RF application
+T95	PROCEDURE 8792 8821	atrial and ventricular pacing
+T102	PROCEDURE 9153 9221	A subcutaneous Holter was implanted in the left parasternal position
+T88	PROCEDURE 9238 9241	ECG
+T124	PROCEDURE 9359 9386	Percutaneous closure of PFO
+T125	PROCEDURE 9383 9414	PFO: a 30 mm cribriform closure
+T96	PROCEDURE 9483 9494	angiography
+T97	PROCEDURE 9586 9606	haemodynamic support
+T98	PROCEDURE 9608 9636	cardiorespiratory monitoring
+T99	PROCEDURE 9759 9776	coagulation study
+T110	PROCEDURE 10064 10103	angio-CT scan of the pulmonary arteries
+T100	PROCEDURE 10161 10176	cranial CT scan
+T116	PROCEDURE 10237 10249	fibrinolysis
+T107	PROCEDURE 10319 10357	anticoagulation with IV sodium heparin
+T114	PROCEDURE 10397 10434	Doppler ultrasound of the lower limbs
+T127	PROCEDURE 10511 10539	transthoracic echocardiogram
+T129	PROCEDURE 10681 10702	bubble echocardiogram
+T130	PROCEDURE 10709 10739	transesophageal echocardiogram
+T135	PROCEDURE 11048 11076	ablate the accessory pathway
+T103	PROCEDURE 11091 11110	subcutaneous Holter
+T136	PROCEDURE 11469 11509	percutaneous closure of the tunneled PFO
+T120	PROCEDURE 11584 11596	intervention
+T118	PROCEDURE 11625 11650	hygienic-dietary measures
+T105	PROCEDURE 11799 11823	Endocarditis prophylaxis
+T106	PROCEDURE 11850 11876	invasive dental procedures
+T108	PROCEDURE 12095 12110	anticoagulation
+T111	PROCEDURE 12126 12134	angio-CT
+T104	PROCEDURE 12327 12346	subcutaneous Holter
+T61	PROCEDURE 12628 12683	Permeable tunnelled foramen ovale closed percutaneously
+T112	PROCEDURE 12685 12715	WPW accessory pathway ablation

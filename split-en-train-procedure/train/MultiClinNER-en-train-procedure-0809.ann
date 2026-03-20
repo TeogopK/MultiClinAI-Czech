@@ -1,0 +1,36 @@
+T86	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T88	PROCEDURE 265 282	dietary treatment
+T87	PROCEDURE 810 830	Physical examination
+T89	PROCEDURE 1000 1020	Cardiac auscultation
+T90	PROCEDURE 1056 1078	Pulmonary auscultation
+T91	PROCEDURE 1109 1130	Abdominal examination
+T92	PROCEDURE 1293 1310	electrocardiogram
+T95	PROCEDURE 1312 1315	ECG
+T93	PROCEDURE 1567 1584	Electrocardiogram
+T96	PROCEDURE 2865 2876	Chest X-ray
+T97	PROCEDURE 2928 2956	Transthoracic echocardiogram
+T98	PROCEDURE 3423 3451	Transthoracic echocardiogram
+T100	PROCEDURE 3659 3679	Coronary angiography
+T102	PROCEDURE 3819 3843	intravascular ultrasound
+T103	PROCEDURE 3845 3849	IVUS
+T119	PROCEDURE 3876 3909	Revascularisation: right coronary
+T117	PROCEDURE 3918 3949	drug-eluting stent implantation
+T104	PROCEDURE 4008 4020	angiographic
+T109	PROCEDURE 4029 4055	Electrophysiological study
+T105	PROCEDURE 4057 4060	EEF
+T106	PROCEDURE 4523 4547	electrical cardioversion
+T120	PROCEDURE 5293 5304	electrogram
+T111	PROCEDURE 5362 5390	Right bundle branch ablation
+T107	PROCEDURE 5717 5730	beta-blockers
+T108	PROCEDURE 5795 5804	telemetry
+T99	PROCEDURE 5872 5900	transthoracic echocardiogram
+T101	PROCEDURE 6075 6095	Coronary angiography
+T94	PROCEDURE 6326 6343	electrocardiogram
+T110	PROCEDURE 6575 6601	electrophysiological study
+T121	PROCEDURE 6807 6818	electrogram
+T112	PROCEDURE 7005 7033	Right bundle branch ablation
+T114	PROCEDURE 7038 7064	DDD pacemaker implantation
+T115	PROCEDURE 7449 7463	electromyogram
+T116	PROCEDURE 7468 7481	genetic study
+T118	PROCEDURE 7719 7750	drug-eluting stent implantation
+T113	PROCEDURE 7752 7780	Right bundle branch ablation

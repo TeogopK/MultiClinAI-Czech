@@ -1,0 +1,65 @@
+T44	SYMPTOM 389 451	cranial computed tomography (CT), which was found to be normal
+T39	SYMPTOM 860 864	heat
+T1	SYMPTOM 869 878	dizziness
+T3	SYMPTOM 885 906	loss of consciousness
+T4	SYMPTOM 953 975	tonic-clonic movements
+T5	SYMPTOM 979 999	sphincter relaxation
+T6	SYMPTOM 1014 1026	asymptomatic
+T8	SYMPTOM 1040 1050	chest pain
+T9	SYMPTOM 1054 1066	palpitations
+T10	SYMPTOM 1071 1079	dyspnoea
+T11	SYMPTOM 1196 1205	Conscious
+T12	SYMPTOM 1210 1218	oriented
+T13	SYMPTOM 1220 1227	Eupneic
+T37	SYMPTOM 1266 1288	Lower limbs: no oedema
+T23	SYMPTOM 1282 1288	oedema
+T14	SYMPTOM 1290 1321	Palpable and symmetrical pulses
+T15	SYMPTOM 1369 1381	sinus rhythm
+T16	SYMPTOM 1403 1413	narrow QRS
+T17	SYMPTOM 1415 1436	asymmetric negative T
+T29	SYMPTOM 1534 1559	cardiac shift to the left
+T45	SYMPTOM 1561 1596	Erasure of the right cardiac border
+T40	SYMPTOM 1928 1992	repletion defects in main, lobar or segmental pulmonary arteries
+T46	SYMPTOM 2078 2089	infiltrates
+T18	SYMPTOM 2091 2098	nodules
+T19	SYMPTOM 2136 2183	left ventricle (LV) not dilated or hypertrophic
+T30	SYMPTOM 2189 2203	preserved LVEF
+T47	SYMPTOM 2343 2371	Non-dilated left atrium (LA)
+T20	SYMPTOM 2569 2590	free wall hypokinesia
+T31	SYMPTOM 2595 2626	akinesia-dyskinesia at the apex
+T48	SYMPTOM 2628 2671	Aortic root and ascending aorta not dilated
+T49	SYMPTOM 2673 2723	Tricommissural aortic valve with preserved opening
+T32	SYMPTOM 2725 2766	Mitral and tricuspid of normal morphology
+T50	SYMPTOM 2768 2804	Inferior vena cava (IVC) not dilated
+T21	SYMPTOM 2913 2938	Normal diastolic function
+T22	SYMPTOM 3111 3142	Negative signal averaging study
+T51	SYMPTOM 3230 3244	non-dilated LV
+T33	SYMPTOM 3276 3305	normal global and regional EF
+T52	SYMPTOM 3307 3316	Normal LA
+T53	SYMPTOM 3318 3332	RA not dilated
+T54	SYMPTOM 3334 3348	RV not dilated
+T55	SYMPTOM 3395 3446	RV outflow tract, a very localised hypokinetic area
+T56	SYMPTOM 3534 3582	Cardiac displacement towards the left hemithorax
+T57	SYMPTOM 3601 3638	horizontalisation of the cardiac axis
+T24	SYMPTOM 3643 3649	oedema
+T58	SYMPTOM 3675 3729	Perfusion sequences do not show any first-pass defects
+T59	SYMPTOM 3731 3819	No enhancement indicating pathological substrate was observed in the viability sequences
+T25	SYMPTOM 3844 3877	lungs with normal vascularisation
+T60	SYMPTOM 3981 3990	Normal LV
+T61	SYMPTOM 3992 4006	RV not dilated
+T62	SYMPTOM 4013 4026	borderline EF
+T26	SYMPTOM 4086 4128	Electrophysiological study: negative study
+T34	SYMPTOM 4298 4321	normal cardiac cavities
+T63	SYMPTOM 4323 4340	Atria not dilated
+T35	SYMPTOM 4342 4389	Aortic valve: tricuspid, morphologically normal
+T27	SYMPTOM 4391 4427	Mitral valve: morphologically normal
+T36	SYMPTOM 4456 4472	Dominance: right
+T41	SYMPTOM 4474 4497	Normal coronary anatomy
+T42	SYMPTOM 4529 4575	Rotation of the cardiac silhouette to the left
+T64	SYMPTOM 4914 4925	negative T1
+T43	SYMPTOM 4961 5000	aneurysmal image in the right ventricle
+T65	SYMPTOM 5082 5116	right ventricle was of normal size
+T7	SYMPTOM 5199 5211	asymptomatic
+T38	SYMPTOM 5216 5222	stable
+T2	SYMPTOM 5232 5241	dizziness
+T28	SYMPTOM 5935 5970	Negative electrophysiological study

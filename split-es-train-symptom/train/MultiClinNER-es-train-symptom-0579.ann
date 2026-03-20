@@ -1,0 +1,23 @@
+T1	SYMPTOM 187 194	cefalea
+T2	SYMPTOM 211 226	leve odinofagia
+T3	SYMPTOM 232 238	fiebre
+T4	SYMPTOM 654 665	proteinuria
+T5	SYMPTOM 943 955	leucocitosis
+T6	SYMPTOM 1005 1029	aumento de transaminasas
+T7	SYMPTOM 1191 1197	fiebre
+T8	SYMPTOM 1328 1357	descenso de las transaminasas
+T9	SYMPTOM 357 363	edemas
+T10	SYMPTOM 668 716	cultivo de exudado faríngeo que resulta negativo
+T11	SYMPTOM 1520 1545	IgM positiva frente a VEB
+T12	SYMPTOM 291 316	edema palpebral bilateral
+T13	SYMPTOM 529 544	edema palpebral
+T14	SYMPTOM 1124 1139	edema palpebral
+T15	SYMPTOM 91 116	edema palpebral bilateral
+T16	SYMPTOM 1299 1325	hemograma sin alteraciones
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	RESULTADO T8
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T16

@@ -1,0 +1,45 @@
+T22	DISEASE 159 168	Ex-smoker
+T23	DISEASE 189 201	hypertensive
+T26	DISEASE 242 266	left bundle branch block
+T24	DISEASE 337 349	hypertensive
+T28	DISEASE 337 363	hypertensive heart disease
+T30	DISEASE 369 392	moderate LV hypertrophy
+T31	DISEASE 397 422	mild systolic dysfunction
+T57	DISEASE 402 422	systolic dysfunction
+T33	DISEASE 497 522	ventricular extrasystoles
+T61	DISEASE 509 522	extrasystoles
+T62	DISEASE 1029 1042	extrasystoles
+T36	DISEASE 1287 1307	deep vein thrombosis
+T27	DISEASE 1370 1394	left bundle branch block
+T37	DISEASE 1459 1496	Monomorphic ventricular extrasystoles
+T34	DISEASE 1471 1496	ventricular extrasystoles
+T63	DISEASE 1483 1496	extrasystoles
+T38	DISEASE 1556 1586	supraventricular extrasystoles
+T64	DISEASE 1573 1586	extrasystoles
+T39	DISEASE 1613 1641	supraventricular tachycardia
+T32	DISEASE 1910 1935	Mild systolic dysfunction
+T58	DISEASE 1915 1935	systolic dysfunction
+T54	DISEASE 1957 1978	diastolic dysfunction
+T66	DISEASE 2031 2053	Slightly dilated atria
+T40	DISEASE 2085 2105	aortic insufficiency
+T41	DISEASE 2121 2135	valvulopathies
+T42	DISEASE 2404 2433	moderate systolic dysfunction
+T59	DISEASE 2413 2433	systolic dysfunction
+T43	DISEASE 2638 2670	pericardial and pleural effusion
+T44	DISEASE 3393 3412	cardiac amyloidosis
+T25	DISEASE 3694 3706	hypertensive
+T29	DISEASE 3694 3720	hypertensive heart disease
+T47	DISEASE 3792 3818	significant LV hypertrophy
+T55	DISEASE 3820 3841	diastolic dysfunction
+T48	DISEASE 3937 3964	infiltrative cardiomyopathy
+T45	DISEASE 4059 4078	cardiac amyloidosis
+T49	DISEASE 4225 4241	multiple myeloma
+T50	DISEASE 4348 4406	senile and/or hereditary amyloidosis due to TTR deposition
+T60	DISEASE 4737 4757	systolic dysfunction
+T46	DISEASE 4866 4885	Cardiac amyloidosis
+T51	DISEASE 4866 4917	Cardiac amyloidosis due to transthyretin deposition
+T56	DISEASE 4954 4975	diastolic dysfunction
+T52	DISEASE 4995 5008	heart failure
+T53	DISEASE 5067 5090	ventricular arrhythmias
+T35	DISEASE 5092 5117	ventricular extrasystoles
+T65	DISEASE 5104 5117	extrasystoles

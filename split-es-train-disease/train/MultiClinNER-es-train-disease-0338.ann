@@ -1,0 +1,21 @@
+T1	DISEASE 21 28	ceguera
+T2	DISEASE 115 132	tumor intraocular
+T3	DISEASE 165 175	hipoacusia
+T4	DISEASE 209 226	neurofibromatosis
+T6	DISEASE 250 273	cataratas en ambos ojos
+T7	DISEASE 276 284	glaucoma
+T9	DISEASE 419 428	amaurosis
+T10	DISEASE 453 471	nistagmus pendular
+T12	DISEASE 529 545	coloboma de iris
+T13	DISEASE 571 588	seclusión pupilar
+T16	DISEASE 753 787	coloboma de retina y nervio óptico
+T18	DISEASE 868 893	desprendimiento de retina
+T23	DISEASE 1367 1413	lesión extraocular a la salida del NO quística
+T24	DISEASE 1493 1519	tumor intraocular y del NO
+T34	DISEASE 1283 1303	melanoma amelanótico
+T22	DISEASE 547 559	pseudofaquia
+T35	DISEASE 1139 1187	lesión polipoidea en temporal inferior del globo
+T36	DISEASE 2056 2111	cambios quísticos y calcificaciones en el filete óptico
+T5	DISEASE 594 637	ampolla de filtración de la trabeculectomia
+#1	AnnotatorNotes T23	   NO: nervio óptico
+#2	AnnotatorNotes T24	   NO: nervio óptico

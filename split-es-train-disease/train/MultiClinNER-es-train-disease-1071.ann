@@ -1,0 +1,52 @@
+T64	DISEASE 117 157	adenocarcinoma de próstata de bajo grado
+T65	DISEASE 201 230	diabetes mellitus (DM) tipo 2
+T66	DISEASE 220 222	DM
+T67	DISEASE 286 305	Hipercolesterolemia
+T68	DISEASE 307 316	Exfumador
+T69	DISEASE 398 414	infarto anterior
+T70	DISEASE 725 743	shock cardiogénico
+T71	DISEASE 926 937	hipotensión
+T72	DISEASE 1069 1103	aneurisma apical con trombo apical
+T73	DISEASE 1233 1267	Insuficiencia mitral leve-moderada
+T74	DISEASE 2035 2053	consumo de alcohol
+T75	DISEASE 3092 3117	trombosis venosa profunda
+T76	DISEASE 3119 3122	TVP
+T77	DISEASE 4175 4250	infarto agudo de miocardio (IAM) en territorio de la descendente anterior (
+T78	DISEASE 4304 4320	aneurisma apical
+T79	DISEASE 4417 4449	Grave disfunción sisólica del VI
+T80	DISEASE 4641 4667	trombos intraventriculares
+T81	DISEASE 4765 4778	hepatomegalia
+T82	DISEASE 5016 5062	adenopatías en hilio hepático y región celíaca
+T83	DISEASE 5924 5939	derrame pleural
+T84	DISEASE 6383 6429	miocardiopatía dilatada de etiología isquémica
+T85	DISEASE 6701 6711	colestasis
+T86	DISEASE 6716 6735	hiperbilirrubinemia
+T87	DISEASE 6855 6867	coagulopatía
+T88	DISEASE 7510 7557	adenopatías en región hiliar hepática y celiaca
+T89	DISEASE 7780 7848	hepatitis idiosincrásica secundaria a la administración de estatinas
+T90	DISEASE 7963 7987	hepatitis idiosincrásica
+T91	DISEASE 9105 9146	disfunción grave del ventrículo izquierdo
+T92	DISEASE 9187 9203	aneurisma apical
+T93	DISEASE 9271 9293	disfunción ventricular
+T94	DISEASE 9483 9562	Miocardiopatía dilatada de etiología isquémica con disfunción ventricular grave
+T95	DISEASE 9575 9637	Hepatitis idiosincrásica secundaria a la toma de atorvastatina
+T96	DISEASE 9639 9655	Infarto anterior
+T97	DISEASE 9674 9696	aneurisma anteroapical
+T98	DISEASE 9707 9730	trombo intraventricular
+T99	DISEASE 9778 9802	diabetes mellitus tipo 2
+T100	DISEASE 9804 9823	hipercolesterolemia
+T101	DISEASE 9825 9834	exfumador
+T102	DISEASE 2328 2334	angina
+T105	DISEASE 1974 1992	consumo de tóxicos
+T106	DISEASE 4203 4206	IAM
+T107	DISEASE 4669 4717	Leve disfunción sistólica del ventrículo derecho
+T108	DISEASE 5508 5535	Calcificaciones prostáticas
+T194	DISEASE 7660 7670	autoinmune
+T197	DISEASE 7576 7611	dilatación a nivel del árbol biliar
+T202	DISEASE 7648 7658	infecciosa
+T207	DISEASE 5455 5463	litiasis
+T54	DISEASE 1545 1552	infarto
+T63	DISEASE 4258 4302	ventrículo izquierdo (VI) levemente dilatado
+T167	DISEASE 4914 4941	dilatación de la vía biliar
+T172	DISEASE 5416 5444	dilataciones pielocaliciales
+#1	AnnotatorNotes T106	 infarto agudo de miocardio

@@ -1,0 +1,62 @@
+T1	SYMPTOM 290 319	dolor centrotorácico opresivo
+T2	SYMPTOM 435 453	cortejo vegetativo
+T3	SYMPTOM 549 557	ortopnea
+T4	SYMPTOM 559 586	disnea paroxística nocturna
+T5	SYMPTOM 588 601	palpitaciones
+T6	SYMPTOM 603 630	disnea de reposo o esfuerzo
+T7	SYMPTOM 632 649	edemas maleolares
+T8	SYMPTOM 653 684	reducción del ritmo de diuresis
+T9	SYMPTOM 942 949	afebril
+T10	SYMPTOM 985 995	Consciente
+T11	SYMPTOM 998 1007	orientada
+T12	SYMPTOM 1009 1028	buen estado general
+T13	SYMPTOM 1030 1048	eupnéica en reposo
+T14	SYMPTOM 1050 1064	normohidratada
+T15	SYMPTOM 1066 1080	normocoloreada
+T16	SYMPTOM 1083 1098	normoperfundida
+T17	SYMPTOM 1104 1150	pulsos carotídeos latían rítmicos y simétricos
+T18	SYMPTOM 1167 1188	ingurgitación yugular
+T19	SYMPTOM 1193 1232	auscultación cardiopulmonar era rítmica
+T20	SYMPTOM 1239 1245	soplos
+T21	SYMPTOM 1251 1280	murmullo vesicular conservado
+T22	SYMPTOM 1317 1370	abdomen blando y depresible, sin dolor a la palpación
+T24	SYMPTOM 1413 1418	masas
+T25	SYMPTOM 1422 1430	megalias
+T26	SYMPTOM 1432 1455	timpanismo generalizado
+T27	SYMPTOM 1460 1471	peritonismo
+T28	SYMPTOM 1474 1502	ruidos hidroaéreos positivos
+T29	SYMPTOM 1545 1562	edemas maleolares
+T30	SYMPTOM 1568 1627	pulsos pedios y tibiales posteriores presentes y simétricos
+T31	SYMPTOM 1811 1830	leucocitos normales
+T32	SYMPTOM 1832 1850	plaquetas normales
+T33	SYMPTOM 1852 1869	bioquímica normal
+T34	SYMPTOM 1909 1929	función renal normal
+T35	SYMPTOM 1931 1945	iones normales
+T36	SYMPTOM 1948 1966	coagulación normal
+T37	SYMPTOM 2027 2058	índice cardiotorácico aumentado
+T38	SYMPTOM 2064 2103	alteraciones de la trama broncovascular
+T39	SYMPTOM 2105 2145	infiltrados alveolares ni intersticiales
+T40	SYMPTOM 2225 2238	ritmo sinusal
+T41	SYMPTOM 2340 2401	ondas T isodifásicas de V3-V4 y negativas simétricas de V5-V6
+T42	SYMPTOM 2667 2722	ventrículo izquierdo en el límite alto de la normalidad
+T43	SYMPTOM 2863 2911	patrón diastólico de alteración de la relajación
+T44	SYMPTOM 2914 2955	función sistólica moderadamente deprimida
+T46	SYMPTOM 3058 3082	función sistólica normal
+T48	SYMPTOM 3576 3618	Válvula tricúspide morfológicamente normal
+T50	SYMPTOM 4225 4238	palpitaciones
+T51	SYMPTOM 4242 4248	disnea
+T52	SYMPTOM 4340 4381	función sistólica moderadamente deprimida
+T53	SYMPTOM 5183 5208	elevación del segmento ST
+T23	SYMPTOM 1871 1881	CPK normal
+T110	SYMPTOM 2746 2791	aquinesia anteroapical, inferoapical y apical
+T111	SYMPTOM 3117 3175	aurículas derecha e izquierda presentaban un tamaño normal
+T45	SYMPTOM 3739 3789	pericardio presentaba grosor y refringencia normal
+T47	SYMPTOM 3809 3853	vena cava inferior no se encontraba dilatada
+T112	SYMPTOM 3953 3978	cardiológicamente estable
+T49	SYMPTOM 5001 5013	asintomática
+T113	SYMPTOM 5223 5251	arterias coronarias normales
+T121	SYMPTOM 4394 4426	arterias coronarias sin lesiones
+T126	SYMPTOM 4469 4503	estabilidad clínica y hemodinámica
+T142	SYMPTOM 2991 3052	ventrículo derecho no se encontraba dilatado ni hipertrofiado
+T115	SYMPTOM 4288 4334	disquinesia anteroapical y del casquete apical
+T116	SYMPTOM 4576 4588	asintomática

@@ -1,0 +1,49 @@
+T1	SYMPTOM 518 567	ventrículo izquierdo (VI) de dimensiones normales
+T3	SYMPTOM 649 682	Válvula aórtica y mitral normales
+T4	SYMPTOM 828 844	malestar general
+T5	SYMPTOM 856 863	náuseas
+T6	SYMPTOM 866 873	vómitos
+T7	SYMPTOM 900 906	fiebre
+T8	SYMPTOM 1012 1021	hiporexia
+T10	SYMPTOM 1054 1076	debilidad generalizada
+T11	SYMPTOM 1079 1087	tos seca
+T12	SYMPTOM 1162 1177	dolor abdominal
+T13	SYMPTOM 1601 1619	mal estado general
+T16	SYMPTOM 1681 1695	dolor torácico
+T17	SYMPTOM 1702 1705	tos
+T18	SYMPTOM 1708 1726	malestar abdominal
+T19	SYMPTOM 1766 1772	disnea
+T20	SYMPTOM 1778 1810	aumento del trabajo respiratorio
+T21	SYMPTOM 1936 1946	consciente
+T22	SYMPTOM 1949 1958	orientado
+T23	SYMPTOM 2141 2162	ingurgitación yugular
+T24	SYMPTOM 2190 2205	hipoventilación
+T25	SYMPTOM 2208 2249	crepitantes en bases de campos pulmonares
+T26	SYMPTOM 2251 2289	Auscultación cardiaca: ruidos rítmicos
+T27	SYMPTOM 2303 2323	tercer tono cardiaco
+T28	SYMPTOM 2328 2344	roce pericárdico
+T29	SYMPTOM 2346 2397	Abdomen blando, ligeramente doloroso a la palpación
+T31	SYMPTOM 2468 2502	Extremidades inferiores sin edemas
+T32	SYMPTOM 2862 2884	Reticulocitos normales
+T33	SYMPTOM 3131 3144	ritmo sinusal
+T35	SYMPTOM 3297 3325	congestión vascular pulmonar
+T38	SYMPTOM 3651 3672	Bazo de tamaño normal
+T39	SYMPTOM 3803 3832	líquido libre intraperitoneal
+T40	SYMPTOM 3877 3899	VI de dimensión normal
+T44	SYMPTOM 4558 4577	congestión hepática
+T45	SYMPTOM 4757 4775	mal estado general
+T46	SYMPTOM 4922 4956	alteración de marcadores hepáticos
+T48	SYMPTOM 6462 6468	anuria
+T2	SYMPTOM 684 713	Patrón diastólico restrictivo
+T122	SYMPTOM 1303 1348	alteraciones secundarias de la repolarización
+T125	SYMPTOM 4027 4080	Función sistólica global VI deprimida en grado severo
+T126	SYMPTOM 4082 4107	hipocontractilidad global
+T90	SYMPTOM 4297 4333	Válvula aórtica de estructura normal
+T128	SYMPTOM 4160 4230	Ventrículo derecho de dimensión normal, hipocontráctil en grado severo
+T134	SYMPTOM 620 647	Cavidades derechas normales
+T147	SYMPTOM 2727 2749	Perfil hepático normal
+T155	SYMPTOM 3330 3350	focos consolidativos
+T183	SYMPTOM 6649 6655	éxitus
+T9	SYMPTOM 1394 1438	elevación de marcadores de necrosis cardiaca
+T117	SYMPTOM 3674 3707	Aorta abdominal de calibre normal
+T131	SYMPTOM 3709 3756	Riñones con buena diferenciación corticomedular

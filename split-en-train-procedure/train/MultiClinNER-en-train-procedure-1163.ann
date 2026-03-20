@@ -1,0 +1,36 @@
+T60	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T63	PROCEDURE 779 792	nasal goggles
+T61	PROCEDURE 813 833	physical examination
+T64	PROCEDURE 887 904	electrocardiogram
+T65	PROCEDURE 1474 1494	coronary angiography
+T66	PROCEDURE 1632 1652	Coronary angiography
+T68	PROCEDURE 2210 2242	transthoracic cardiac ultrasound
+T92	PROCEDURE 2232 2242	ultrasound
+T62	PROCEDURE 2674 2694	Physical examination
+T71	PROCEDURE 2773 2793	Cardiac auscultation
+T72	PROCEDURE 2899 2923	Respiratory auscultation
+T73	PROCEDURE 3033 3036	ECG
+T67	PROCEDURE 3484 3504	coronary angiography
+T69	PROCEDURE 4540 4572	Transthoracic cardiac ultrasound
+T93	PROCEDURE 4562 4572	ultrasound
+T74	PROCEDURE 4701 4739	Transthoracic cardiac echocardiography
+T82	PROCEDURE 4723 4739	echocardiography
+T70	PROCEDURE 5417 5449	transthoracic cardiac ultrasound
+T94	PROCEDURE 5439 5449	ultrasound
+T76	PROCEDURE 5724 5728	ECMO
+T75	PROCEDURE 5830 5856	corrective surgery for VSD
+T77	PROCEDURE 5986 5990	ECMO
+T83	PROCEDURE 6212 6226	Echocardiogram
+T78	PROCEDURE 6280 6284	ECMO
+T79	PROCEDURE 6561 6565	ECMO
+T84	PROCEDURE 6561 6573	ECMO support
+T80	PROCEDURE 6671 6675	ECMO
+T81	PROCEDURE 6772 6776	ECMO
+T85	PROCEDURE 6921 6954	oral treatment with beta-blockers
+T86	PROCEDURE 6975 7007	aldosterone receptor antagonists
+T87	PROCEDURE 7092 7111	respiratory weaning
+T88	PROCEDURE 7123 7148	percutaneous tracheostomy
+T89	PROCEDURE 7163 7185	orotracheal intubation
+T90	PROCEDURE 7498 7521	neurohormonal treatment
+T91	PROCEDURE 7564 7573	diuretics
+T95	PROCEDURE 7585 7595	ultrasound

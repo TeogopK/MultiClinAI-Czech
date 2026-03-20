@@ -1,0 +1,33 @@
+T47	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T48	PROCEDURE 423 440	electrocardiogram
+T49	PROCEDURE 442 445	ECG
+T52	PROCEDURE 532 562	Transthoracic echocardiography
+T63	PROCEDURE 546 562	echocardiography
+T55	PROCEDURE 1061 1092	Diagnostic coronary angiography
+T56	PROCEDURE 1629 1646	revascularisation
+T59	PROCEDURE 1648 1671	Stress echocardiography
+T64	PROCEDURE 1655 1671	echocardiography
+T60	PROCEDURE 1689 1700	stress test
+T61	PROCEDURE 2107 2133	surgical revascularisation
+T57	PROCEDURE 2116 2133	revascularisation
+T62	PROCEDURE 2863 2866	CPR
+T50	PROCEDURE 3161 3164	ECG
+T65	PROCEDURE 3530 3544	echocardiogram
+T68	PROCEDURE 3801 3812	angioplasty
+T51	PROCEDURE 3859 3862	ECG
+T53	PROCEDURE 4078 4108	Transthoracic echocardiography
+T66	PROCEDURE 4092 4108	echocardiography
+T70	PROCEDURE 4322 4356	percutaneous coronary intervention
+T58	PROCEDURE 4639 4656	revascularisation
+T71	PROCEDURE 4658 4692	Percutaneous coronary intervention
+T72	PROCEDURE 4658 4750	Percutaneous coronary intervention (PCI) on the left main coronary artery (LMCA), CX and ADA
+T69	PROCEDURE 5017 5028	angioplasty
+T54	PROCEDURE 5738 5768	Transthoracic echocardiography
+T67	PROCEDURE 5752 5768	echocardiography
+T73	PROCEDURE 6421 6440	neurological window
+T74	PROCEDURE 6522 6545	therapeutic hypothermia
+T79	PROCEDURE 6618 6625	sedated
+T76	PROCEDURE 6669 6678	analgesia
+T77	PROCEDURE 7007 7036	electroencephalographic study
+T78	PROCEDURE 7210 7213	EEG
+T75	PROCEDURE 7953 7976	Therapeutic hypothermia

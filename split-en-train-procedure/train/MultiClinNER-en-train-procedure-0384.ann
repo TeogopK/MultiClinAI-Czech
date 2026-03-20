@@ -1,0 +1,25 @@
+T20	PROCEDURE 34 49	transplantation
+T6	PROCEDURE 72 91	peritoneal dialysis
+T14	PROCEDURE 325 350	pharmacological treatment
+T4	PROCEDURE 412 465	transluminal angioplasty of the right coronary artery
+T15	PROCEDURE 511 523	stress tests
+T25	PROCEDURE 561 607	underwent surgery for bilateral cryptorchidism
+T26	PROCEDURE 612 625	tonsillectomy
+T11	PROCEDURE 640 656	Renal transplant
+T19	PROCEDURE 800 805	graft
+T12	PROCEDURE 1112 1122	transplant
+T8	PROCEDURE 1446 1466	Physical examination
+T36	PROCEDURE 1622 1648	Magnetic resonance imaging
+T3	PROCEDURE 1650 1653	MRI
+T37	PROCEDURE 1702 1736	cerebrospinal fluid (CSF) analysis
+T9	PROCEDURE 1795 1812	evoked potentials
+T16	PROCEDURE 1846 1863	serological tests
+T18	PROCEDURE 1865 1870	ELISA
+T10	PROCEDURE 1876 1901	polymerase chain reaction
+T1	PROCEDURE 1903 1906	PCR
+T2	PROCEDURE 1972 1975	PCR
+T5	PROCEDURE 1993 2003	viral load
+T13	PROCEDURE 2240 2250	transplant
+T48	PROCEDURE 2270 2284	renal function
+T7	PROCEDURE 2457 2490	radiographic and urodynamic study
+T17	PROCEDURE 2593 2607	cystolithotomy

@@ -1,0 +1,27 @@
+T1	SYMPTOM 445 482	auscultación cardiopulmonar es normal
+T2	SYMPTOM 269 288	buen estado general
+T3	SYMPTOM 487 528	abdomen es globuloso, blando y depresible
+T4	SYMPTOM 741 868	análisis rutinario bioquímico y hematológico, así como las pruebas de función suprarrenal se encuentran en rangos de normalidad
+T5	SYMPTOM 290 304	normohidratada
+T6	SYMPTOM 75 103	dolor en hipocondrio derecho
+T7	SYMPTOM 307 321	normocoloreada
+T8	SYMPTOM 357 375	hábito cushingoide
+T9	SYMPTOM 146 178	alteración del hábito intestinal
+T10	SYMPTOM 379 403	estigmas de virilización
+T11	SYMPTOM 607 657	dolor a la presión profunda en hipocondrio derecho
+T12	SYMPTOM 212 229	clínica urológica
+T13	SYMPTOM 662 689	presentando signo de Murphy
+T14	SYMPTOM 1532 1553	infiltración parietal
+T15	SYMPTOM 1038 1106	masa referida, en íntimo contacto con la pared de vena cava inferior
+T16	SYMPTOM 1578 1594	masa suprarrenal
+T17	SYMPTOM 2021 2025	masa
+T18	SYMPTOM 568 573	masas
+T19	SYMPTOM 576 590	organomegalias
+T20	SYMPTOM 192 208	síndrome general
+T21	SYMPTOM 409 440	cifras tensionales son normales
+T22	SYMPTOM 913 946	tumoración en el área suprarrenal
+T23	SYMPTOM 1770 1780	tumoración
+T24	SYMPTOM 3357 3376	libre de enfermedad
+A1	RESULTADO T4
+A2	IMAGEN T15
+A3	IMAGEN T22

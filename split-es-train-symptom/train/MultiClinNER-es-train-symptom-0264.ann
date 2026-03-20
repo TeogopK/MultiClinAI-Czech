@@ -1,0 +1,21 @@
+T1	SYMPTOM 1295 1305	hemorragia
+T2	SYMPTOM 29 58	disminución de agudeza visual
+T3	SYMPTOM 2219 2229	hemorragia
+T4	SYMPTOM 2297 2305	sangrado
+T5	SYMPTOM 1208 1233	tracción vitreorretiniana
+T6	SYMPTOM 1858 1954	flujo sanguíneo normal de la arteria central de la retina y de las arterias ciliares posteriores
+T7	SYMPTOM 1993 2025	flujo sanguíneo activo en la AHP
+T8	SYMPTOM 596 645	extremo anterior de la AHP con contenido hemático
+T9	SYMPTOM 665 686	ojo adelfo era normal
+T10	SYMPTOM 895 983	trayecto de la AHP se pudo seguir desde el nervio óptico hasta la cristaloides posterior
+T11	SYMPTOM 1266 1289	fondo del OD era normal
+T12	SYMPTOM 1702 1749	imagen lineal hiperecogénica respecto al vítreo
+T13	SYMPTOM 2031 2097	hemograma y las pruebas específicas de coagulación fueron normales
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T7
+A4	RESULTADO T8
+A5	IMAGEN T10
+A6	RESULTADO T11
+A7	IMAGEN T12
+A8	RESULTADO T13

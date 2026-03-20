@@ -1,0 +1,39 @@
+T13	DISEASE 83 104	Arterial hypertension
+T14	DISEASE 92 104	hypertension
+T15	DISEASE 106 119	Dyslipidaemia
+T16	DISEASE 121 201	Dilated cardiomyopathy of ischaemic origin with moderate ventricular dysfunction
+T17	DISEASE 222 253	chronic ischaemic heart disease
+T39	DISEASE 230 253	ischaemic heart disease
+T18	DISEASE 325 355	Rheumatic mitral valve disease
+T19	DISEASE 981 1003	acute pulmonary oedema
+T49	DISEASE 1927 2008	dilated left atrium and left ventricle with mild-moderate ventricular hypertrophy
+T50	DISEASE 2138 2197	Mitral mechanical prosthesis with mild-moderate obstruction
+T51	DISEASE 2469 2500	Very dilated inferior vena cava
+T20	DISEASE 2513 2533	pericardial effusion
+T36	DISEASE 2592 2617	periprosthetic dehiscence
+T21	DISEASE 2655 2691	moderate-severe mitral regurgitation
+T27	DISEASE 2664 2691	severe mitral regurgitation
+T23	DISEASE 3238 3276	periprosthetic paravalvular dehiscence
+T25	DISEASE 3311 3350	moderate to severe mitral regurgitation
+T28	DISEASE 3323 3350	severe mitral regurgitation
+T44	DISEASE 3497 3516	periprosthetic leak
+T45	DISEASE 3724 3743	periprosthetic leak
+T46	DISEASE 3905 3924	periprosthetic leak
+T26	DISEASE 4008 4034	mitral periprosthetic leak
+T47	DISEASE 4015 4034	periprosthetic leak
+T29	DISEASE 4056 4083	severe mitral regurgitation
+T31	DISEASE 4113 4129	3-vessel disease
+T32	DISEASE 4436 4454	haemolytic anaemia
+T24	DISEASE 4562 4600	periprosthetic paravalvular dehiscence
+T22	DISEASE 4630 4666	moderate-severe mitral regurgitation
+T30	DISEASE 4639 4666	severe mitral regurgitation
+T48	DISEASE 4870 4889	periprosthetic leak
+T33	DISEASE 5000 5017	paravalvular leak
+T35	DISEASE 5365 5381	decompensated HF
+T37	DISEASE 5423 5448	periprosthetic dehiscence
+T38	DISEASE 5547 5581	recurrent paravalvular dehiscences
+T34	DISEASE 5991 6008	paravalvular leak
+T40	DISEASE 6196 6219	Ischaemic heart disease
+T41	DISEASE 6221 6253	3-vessel coronary artery disease
+T42	DISEASE 6287 6312	Mild systolic dysfunction
+T43	DISEASE 6351 6398	Rheumatic valve disease with mitral involvement

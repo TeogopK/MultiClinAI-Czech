@@ -1,0 +1,64 @@
+T179	DISEASE 112 124	sudden death
+T117	DISEASE 140 163	ischaemic heart disease
+T118	DISEASE 221 229	COVID-19
+T120	DISEASE 260 274	drug allergies
+T121	DISEASE 294 314	asthmatic bronchitis
+T122	DISEASE 316 334	thalassaemia minor
+T123	DISEASE 359 377	COVID-19 infection
+T125	DISEASE 387 396	infection
+T128	DISEASE 414 426	Toxic habits
+T129	DISEASE 428 442	active smoking
+T1	DISEASE 460 481	daily use of cannabis
+T130	DISEASE 1812 1819	anxiety
+T131	DISEASE 1867 1873	angina
+T132	DISEASE 2745 2765	deep vein thrombosis
+T133	DISEASE 4345 4374	Apical intracavitary thrombus
+T134	DISEASE 4544 4567	tricuspid insufficiency
+T136	DISEASE 4582 4596	valvulopathies
+T177	DISEASE 4616 4633	pericardial fluid
+T6	DISEASE 4993 5047	lesion of about 5 mm in length that stenoses the lumen
+T7	DISEASE 5081 5092	soft plaque
+T144	DISEASE 5561 5589	thrombus in the cardiac apex
+T138	DISEASE 5594 5614	pericardial effusion
+T9	DISEASE 5718 5768	LAD: normodeveloped, with eccentric focal stenosis
+T140	DISEASE 5834 5851	parietal thrombus
+T141	DISEASE 5921 5942	thrombus embolisation
+T142	DISEASE 6071 6093	intracoronary thrombus
+T10	DISEASE 6270 6369	anterior descending artery of good calibre and development with angiographically mild atheromatosis
+T11	DISEASE 6611 6705	lipid plaque in the middle LAD, with a thin layer fibroatheroma and very focal intimal rupture
+T149	DISEASE 6817 6825	thrombus
+T150	DISEASE 6995 7003	thrombus
+T180	DISEASE 7110 7150	CD due to ostial spasm with the catheter
+T12	DISEASE 7164 7281	apical infarction secondary to thrombotic lesion in the middle LAD with embolisation of thrombus to the distal vessel
+T157	DISEASE 7252 7281	thrombus to the distal vessel
+T152	DISEASE 7318 7366	coronary embolism from thrombus in LV apex to DC
+T161	DISEASE 7599 7621	intracavitary thrombus
+T135	DISEASE 7774 7805	Minimal tricuspid insufficiency
+T137	DISEASE 7820 7834	valvulopathies
+T158	DISEASE 7860 7882	pulmonary hypertension
+T178	DISEASE 7902 7919	pericardial fluid
+T159	DISEASE 8139 8160	viral myopericarditis
+T162	DISEASE 8262 8284	intracavitary thrombus
+T16	DISEASE 8560 8595	a moderate lesion in the LAD artery
+T163	DISEASE 8625 8649	intracoronary thrombosis
+T17	DISEASE 8658 8738	underlying atherosclerotic lesions in the middle and distal LAD and proximal RCA
+T164	DISEASE 8798 8817	prothrombotic state
+T167	DISEASE 8827 8833	smoker
+T168	DISEASE 8877 8903	active SARS-CoV2 infection
+T139	DISEASE 9391 9411	pericardial effusion
+T169	DISEASE 9413 9437	Bacterial superinfection
+T19	DISEASE 9785 9810	thrombi in the LAD and DC
+T20	DISEASE 9843 9937	a lipid plaque in the middle LAD, with thin layer fibroatheroma and very focal intimal rupture
+T21	DISEASE 10089 10113	lesion in the middle LAD
+T155	DISEASE 10189 10209	thrombus in the apex
+T170	DISEASE 10520 10533	thrombophilia
+T166	DISEASE 10609 10616	Smoking
+T173	DISEASE 10727 10746	SARS-CoV2 infection
+T174	DISEASE 10825 10861	Acute pericarditis due to SARS-CoV-2
+T22	DISEASE 10863 10913	Acute coronary syndrome of the anterior STEMI type
+T23	DISEASE 10915 10966	thrombosis in the middle anterior descending artery
+T24	DISEASE 10974 11026	atheroma plaque instability with distal embolisation
+T175	DISEASE 11028 11080	Embolic infarction in proximal right coronary artery
+T25	DISEASE 11146 11167	atheromatous stenosis
+T176	DISEASE 11190 11205	apical thrombus
+T171	DISEASE 11270 11283	thrombophilia

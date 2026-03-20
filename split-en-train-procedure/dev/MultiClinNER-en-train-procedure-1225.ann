@@ -1,0 +1,39 @@
+T70	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T71	PROCEDURE 225 244	mitral annuloplasty
+T73	PROCEDURE 395 432	non-steroidal anti-inflammatory drugs
+T74	PROCEDURE 451 479	transthoracic echocardiogram
+T9	PROCEDURE 743 776	low anterior intestinal resection
+T76	PROCEDURE 1646 1674	Cardiopulmonary auscultation
+T10	PROCEDURE 1792 1803	Blood tests
+T100	PROCEDURE 1805 1817	Biochemistry
+T101	PROCEDURE 2375 2386	Haematology
+T77	PROCEDURE 2791 2802	Haemostasis
+T78	PROCEDURE 2910 2927	Electrocardiogram
+T11	PROCEDURE 3099 3110	Chest X-ray
+T79	PROCEDURE 3222 3236	Blood cultures
+T75	PROCEDURE 3382 3410	Transthoracic echocardiogram
+T82	PROCEDURE 3489 3519	Transesophageal echocardiogram
+T72	PROCEDURE 3901 3920	Mitral annuloplasty
+T83	PROCEDURE 4028 4067	Magnetic resonance imaging of the brain
+T84	PROCEDURE 4239 4281	transfused with red blood cell concentrate
+T102	PROCEDURE 4286 4305	depletive treatment
+T12	PROCEDURE 4723 4756	Two negative nasopharyngeal swabs
+T80	PROCEDURE 4827 4841	blood cultures
+T13	PROCEDURE 5179 5203	empirical antibiotherapy
+T81	PROCEDURE 5244 5258	blood cultures
+T85	PROCEDURE 5269 5280	antibiogram
+T86	PROCEDURE 5393 5408	cardiac surgery
+T87	PROCEDURE 5466 5475	brain MRI
+T88	PROCEDURE 5573 5593	take another exudate
+T103	PROCEDURE 5598 5612	SARS-CoV-2 PCR
+T14	PROCEDURE 6170 6201	oxygen therapy with a reservoir
+T89	PROCEDURE 6315 6359	valve replacement with mechanical prostheses
+T90	PROCEDURE 6537 6563	extracorporeal circulation
+T92	PROCEDURE 6575 6597	orotracheal intubation
+T93	PROCEDURE 6645 6660	Echocardioscopy
+T98	PROCEDURE 6984 7002	vasoactive support
+T94	PROCEDURE 7024 7034	extubation
+T95	PROCEDURE 7086 7121	non-invasive mechanical ventilation
+T91	PROCEDURE 7507 7533	extracorporeal circulation
+T97	PROCEDURE 7545 7576	invasive mechanical ventilation
+T99	PROCEDURE 7581 7599	vasoactive support

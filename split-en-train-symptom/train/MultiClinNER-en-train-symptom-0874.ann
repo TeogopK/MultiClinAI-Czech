@@ -1,0 +1,53 @@
+T33	SYMPTOM 506 533	normal physical examination
+T35	SYMPTOM 535 566	blood tests without alterations
+T1	SYMPTOM 829 840	bradycardia
+T2	SYMPTOM 979 998	precordial pressure
+T3	SYMPTOM 1000 1012	palpitations
+T4	SYMPTOM 1017 1036	profuse diaphoresis
+T36	SYMPTOM 1065 1098	rhythmic tachycardia with wide QR
+T15	SYMPTOM 1230 1242	sinus rhythm
+T5	SYMPTOM 1417 1426	Conscious
+T6	SYMPTOM 1428 1436	oriented
+T37	SYMPTOM 1438 1451	normal colour
+T7	SYMPTOM 1453 1466	normohydrated
+T8	SYMPTOM 1468 1489	good distal perfusion
+T9	SYMPTOM 1513 1534	rhythmic heart sounds
+T10	SYMPTOM 1543 1550	murmurs
+T11	SYMPTOM 1576 1599	normal vesicular murmur
+T38	SYMPTOM 1601 1623	Abdomen was nondescrip
+T12	SYMPTOM 1626 1652	Extremities without oedema
+T16	SYMPTOM 1730 1742	sinus rhythm
+T13	SYMPTOM 1769 1779	Narrow QRS
+T39	SYMPTOM 1781 1830	ST-segment depression in V3-V5 and in III and avF
+T14	SYMPTOM 1806 1852	V3-V5 and in III and avF with negative T waves
+T17	SYMPTOM 1891 1903	sinus rhythm
+T40	SYMPTOM 1964 1985	retroconducted P wave
+T34	SYMPTOM 1992 2003	nodal beats
+T41	SYMPTOM 2101 2129	Haemogram without alteration
+T42	SYMPTOM 2147 2177	Renal function and ions normal
+T43	SYMPTOM 2179 2214	Hepatic profile without alterations
+T19	SYMPTOM 2269 2305	LV of normal size and wall thickness
+T44	SYMPTOM 2351 2385	Global LV systolic function normal
+T20	SYMPTOM 2435 2460	Diastolic pattern: normal
+T21	SYMPTOM 2462 2494	Left atrium of normal dimensions
+T45	SYMPTOM 2496 2531	Right chambers of normal dimensions
+T46	SYMPTOM 2639 2656	MV: thin leaflets
+T47	SYMPTOM 2780 2795	IVC not dilated
+T22	SYMPTOM 2830 2851	Estimated normal PAPs
+T23	SYMPTOM 2889 2909	intracavitary masses
+T24	SYMPTOM 2950 2995	left ventricle at the high limit of normality
+T25	SYMPTOM 3015 3039	normal systolic function
+T48	SYMPTOM 3136 3145	normal EF
+T26	SYMPTOM 3147 3164	Non-dilated atria
+T32	SYMPTOM 3205 3252	coronary arteries with normal anatomical origin
+T49	SYMPTOM 3404 3430	repolarisation alterations
+T18	SYMPTOM 3559 3571	sinus rhythm
+T27	SYMPTOM 3576 3588	nodal rhythm
+T50	SYMPTOM 3645 3665	precordial tightness
+T28	SYMPTOM 3922 3934	asymptomatic
+T51	SYMPTOM 4479 4523	electrophysiological study that was negative
+T29	SYMPTOM 4871 4886	chest tightness
+T52	SYMPTOM 4903 4922	vegetative symptoms
+T53	SYMPTOM 4924 4952	clear alterations in the ECG
+T30	SYMPTOM 4957 4995	increased markers of myocardial damage
+T31	SYMPTOM 5036 5077	elevation of markers of myocardial damage

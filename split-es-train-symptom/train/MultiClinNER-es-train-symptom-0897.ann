@@ -1,0 +1,56 @@
+T1	SYMPTOM 754 768	dolor torácico
+T2	SYMPTOM 895 913	cortejo vegetativo
+T3	SYMPTOM 1019 1035	clínica anginosa
+T4	SYMPTOM 1044 1065	Tos con expectoración
+T6	SYMPTOM 1088 1094	fiebre
+T7	SYMPTOM 1099 1105	disnea
+T8	SYMPTOM 1110 1125	dolor abdominal
+T9	SYMPTOM 1130 1164	alteraciones del hábito intestinal
+T10	SYMPTOM 1290 1309	Buen estado general
+T11	SYMPTOM 1311 1321	Consciente
+T12	SYMPTOM 1323 1332	orientado
+T13	SYMPTOM 1335 1346	colaborador
+T14	SYMPTOM 1348 1362	Normohidratado
+T15	SYMPTOM 1365 1378	normcoloreado
+T16	SYMPTOM 1380 1398	Eupneico en reposo
+T17	SYMPTOM 1403 1424	focalidad neurológica
+T18	SYMPTOM 1426 1455	Presión venosa yugular normal
+T19	SYMPTOM 1457 1487	Auscultación cardiaca: rítmico
+T20	SYMPTOM 1493 1499	soplos
+T21	SYMPTOM 1524 1542	murmullo vesicular
+T22	SYMPTOM 1554 1574	ruidos sobreañadidos
+T23	SYMPTOM 1585 1612	ruidos hidroaéreos normales
+T24	SYMPTOM 1638 1658	dolor a la palpación
+T25	SYMPTOM 1673 1694	irritación peritoneal
+T26	SYMPTOM 1696 1739	Extremidades inferiores: pulsos conservados
+T27	SYMPTOM 1747 1752	edema
+T28	SYMPTOM 2640 2649	PR normal
+T29	SYMPTOM 2651 2678	QRS estrecho con eje normal
+T30	SYMPTOM 2684 2724	alteraciones agudas en la repolarización
+T31	SYMPTOM 2748 2758	ICT normal
+T32	SYMPTOM 2763 2768	masas
+T33	SYMPTOM 2773 2803	condensaciones parenquimatosas
+T35	SYMPTOM 3975 3988	ritmo sinusal
+T36	SYMPTOM 3999 4008	PR normal
+T37	SYMPTOM 4035 4062	QRS estrecho con eje normal
+T38	SYMPTOM 4068 4101	alteraciones de la repolarización
+T39	SYMPTOM 4349 4363	dolor torácico
+T40	SYMPTOM 5490 5505	FEVI conservada
+T41	SYMPTOM 5532 5544	asintomático
+T42	SYMPTOM 5546 5571	estable hemodinámicamente
+T43	SYMPTOM 6262 6277	FEVI conservada
+T5	SYMPTOM 3594 3632	fracción de eyección (FEVI) conservada
+T34	SYMPTOM 4368 4413	movilización de marcadores de daño miocárdico
+T141	SYMPTOM 4494 4519	elevación del segmente ST
+T154	SYMPTOM 2871 2911	Tronco coronario izquierdo: sin lesiones
+T158	SYMPTOM 3638 3680	alteraciones de la contractilidad regional
+T160	SYMPTOM 3350 3382	arterias coronarias sin lesiones
+T179	SYMPTOM 5578 5600	troponinas en descenso
+T147	SYMPTOM 1544 1547	mvc
+T148	SYMPTOM 1576 1633	Abdomen: ruidos hidroaéreos normales, blando y depresible
+T149	SYMPTOM 2913 2966	Descendente anterior (DA): vaso largo de buen calibre
+T150	SYMPTOM 3148 3208	Circunfleja: vaso de buen calibre y desarrollo, sin lesiones
+T151	SYMPTOM 3210 3252	Coronaria derecha: dominante, sin lesiones
+T153	SYMPTOM 3541 3592	ventrículo izquierdo (VI) de tamaño y grosor normal
+T155	SYMPTOM 4014 4033	ondas Q patológicas
+T145	SYMPTOM 6199 6248	Arterias coronarias sin lesiones ateroscleróticas

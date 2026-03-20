@@ -1,0 +1,42 @@
+T1	SYMPTOM 163 178	síndrome febril
+T2	SYMPTOM 224 240	malestar general
+T3	SYMPTOM 242 269	artromialgias generalizadas
+T4	SYMPTOM 271 278	cefalea
+T5	SYMPTOM 281 294	epigastralgia
+T6	SYMPTOM 428 435	diarrea
+T7	SYMPTOM 512 583	dolor torácico de tipo continuo y de características pleuropericárdicas
+T8	SYMPTOM 758 767	febrícula
+T9	SYMPTOM 799 814	palidez cutánea
+T10	SYMPTOM 817 839	regular estado general
+T11	SYMPTOM 849 868	taquicardia rítmica
+T12	SYMPTOM 969 985	soplos cardiacos
+T13	SYMPTOM 987 1009	crepitantes pulmonares
+T14	SYMPTOM 1012 1041	edemas en miembros inferiores
+T15	SYMPTOM 1253 1291	elevación del ST en cara antero-septal
+T16	SYMPTOM 1324 1334	ICT normal
+T17	SYMPTOM 1345 1368	redistribución vascular
+T19	SYMPTOM 1928 1969	función sistólica moderadamente deprimida
+T20	SYMPTOM 1995 2040	Ventrículo derecho normal en tamaño y función
+T21	SYMPTOM 2239 2262	Hemocultivos: negativos
+T22	SYMPTOM 2264 2286	Urocultivos: negativos
+T23	SYMPTOM 2288 2332	Frotis faríngeo y exudado traqueal: negativo
+T24	SYMPTOM 2334 2348	ASLO: negativo
+T25	SYMPTOM 2526 2539	ritmo sinsual
+T27	SYMPTOM 2696 2740	ventrículo izquierdo de dimensiones normales
+T28	SYMPTOM 2778 2797	hipoquinesia global
+T29	SYMPTOM 3047 3087	Contractilidad global levemente reducida
+T30	SYMPTOM 3131 3166	aumento de señal en secuencias STIR
+T32	SYMPTOM 4115 4141	inestabilidad hemodinámica
+T114	SYMPTOM 1170 1189	taquicardia sinusal
+T18	SYMPTOM 2143 2168	vena cava inferior normal
+T61	SYMPTOM 2550 2559	QRS ancho
+T102	SYMPTOM 2872 2897	Ventrículo derecho normal
+T103	SYMPTOM 2982 2992	VCI normal
+T104	SYMPTOM 3116 3128	hipoquinesia
+T94	SYMPTOM 5781 5811	fracción de eyección deprimida
+T116	SYMPTOM 3100 3114	Adelgazamiento
+T132	SYMPTOM 4867 4896	fracción de eyección reducida
+T134	SYMPTOM 1400 1411	infiltrados
+T105	SYMPTOM 938 957	Adecuada saturación
+T106	SYMPTOM 1855 1923	ventrículo izquierdo moderadamente hipertrófico de aspecto edematoso
+T26	SYMPTOM 3169 3211	realce medioventricular anteroseptal basal

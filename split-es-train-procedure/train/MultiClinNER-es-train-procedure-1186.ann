@@ -1,0 +1,39 @@
+T68	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T69	PROCEDURE 487 505	electrocardiograma
+T70	PROCEDURE 507 510	ECG
+T71	PROCEDURE 609 638	Ecocardiografía transtorácica
+T72	PROCEDURE 1159 1186	Coronariografía diagnóstica
+T73	PROCEDURE 1728 1745	revascularización
+T74	PROCEDURE 1770 1795	ecocardiografía de estrés
+T75	PROCEDURE 1808 1837	test de estrés con dobutamina
+T76	PROCEDURE 2237 2265	revascularización quirúrgica
+T78	PROCEDURE 3061 3064	RCP
+T79	PROCEDURE 3146 3168	intubación orotraqueal
+T80	PROCEDURE 3363 3366	ECG
+T81	PROCEDURE 3696 3710	ecocardiograma
+T82	PROCEDURE 3995 4007	angioplastia
+T83	PROCEDURE 4050 4053	ECG
+T84	PROCEDURE 4271 4300	Ecocardiografía transtorácica
+T85	PROCEDURE 4515 4552	Intervencionismo coronario percutáneo
+T86	PROCEDURE 4866 4883	revascularización
+T87	PROCEDURE 4885 4977	Intervencionismo coronario percutáneo (ICP) sobre tronco coronario izquierdo (TCI), CX y ADA
+T88	PROCEDURE 5054 5140	implante de un stent farmacoactivo (Resolute Onyx 3,5 x 8 mm) ostial y un stent en "V"
+T89	PROCEDURE 5291 5317	ADA y se implantó un stent
+T90	PROCEDURE 5933 5962	Ecocardiografía transtorácica
+T92	PROCEDURE 6756 6778	hipotermia terapéutica
+T93	PROCEDURE 6938 6961	analgesia con fentanilo
+T94	PROCEDURE 7174 7226	retirada de medicación de sedoanalgesia y relajación
+T95	PROCEDURE 7303 7333	estudio electroencefalográfico
+T96	PROCEDURE 7506 7509	EEG
+T97	PROCEDURE 8251 8291	ICP con implante de DES en TCI, ADA y Cx
+T98	PROCEDURE 8293 8315	Hipotermia terapéutica
+T113	PROCEDURE 6888 6907	sedado con propofol
+T115	PROCEDURE 4924 4927	ICP
+T116	PROCEDURE 5247 5294	angioplastia con balón (2,25 y 2,5 mm) a la ADA
+T120	PROCEDURE 5408 5417	Analítica
+T137	PROCEDURE 3299 3338	desfibrilado con un choque a 360 Julios
+T144	PROCEDURE 3020 3074	maniobras de reanimación cardiopulmonar (RCP) avanzada
+T153	PROCEDURE 3928 3967	perfusión de noradrenalina y dobutamina
+T156	PROCEDURE 7109 7124	recalentamiento
+T91	PROCEDURE 6909 6931	relajado con rocuronio
+#2	AnnotatorNotes T115	  intervención coronaria percutánea

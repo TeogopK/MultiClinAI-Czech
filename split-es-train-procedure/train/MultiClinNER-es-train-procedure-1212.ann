@@ -1,0 +1,39 @@
+T72	PROCEDURE 166 195	resonancia magnética cardiaca
+T73	PROCEDURE 197 200	RMC
+T74	PROCEDURE 267 285	electrocardiograma
+T75	PROCEDURE 287 290	ECG
+T76	PROCEDURE 656 694	funduplicatura de Nissen laparoscópica
+T77	PROCEDURE 991 1006	examen de salud
+T78	PROCEDURE 1058 1061	ECG
+T79	PROCEDURE 1105 1129	estudio ecocardiográfico
+T80	PROCEDURE 1365 1385	resonancia magnética
+T81	PROCEDURE 1387 1390	RMC
+T82	PROCEDURE 1688 1697	anamnesis
+T83	PROCEDURE 1913 1931	Exploración física
+T84	PROCEDURE 2242 2263	Auscultación cardiaca
+T85	PROCEDURE 2304 2325	Auscultación pulmonar
+T86	PROCEDURE 2559 2562	ECG
+T87	PROCEDURE 2676 2679	RMC
+T88	PROCEDURE 3857 3877	Radiografía de tórax
+T89	PROCEDURE 4367 4396	Ecocardiografía transtorácica
+T90	PROCEDURE 5198 5219	Cateterismo coronario
+T91	PROCEDURE 5467 5495	revascularización percutánea
+T92	PROCEDURE 5868 5896	revascularización percutánea
+T93	PROCEDURE 6041 6070	Ecocardiografía transtorácica
+T94	PROCEDURE 6576 6605	ecocardiografía transtorácica
+T95	PROCEDURE 6651 6654	RMC
+T96	PROCEDURE 6675 6696	cateterismo coronario
+T97	PROCEDURE 7406 7440	resección de la zona aneurismática
+T98	PROCEDURE 7443 7512	reconstrucción de la pared inferior con parche de pericardio autólogo
+T99	PROCEDURE 7544 7680	doble derivación aortocoronaria a ADA media con arteria mamaria izquierda y a primera diagonal con safena, ambas de tipo término-lateral
+T101	PROCEDURE 7769 7779	extubación
+T102	PROCEDURE 7873 7902	ecocardiografía transtorácica
+T103	PROCEDURE 8215 8231	cirugía cardiaca
+T104	PROCEDURE 8470 8493	resección del aneurisma
+T105	PROCEDURE 8496 8529	revascularización coronaria de DA
+T108	PROCEDURE 339 357	EXPLORACIÓN FÍSICA
+T11	PROCEDURE 3364 3398	Se administra gadolinio endovenoso
+T113	PROCEDURE 3985 3994	Analítica
+T133	PROCEDURE 7844 7856	intervención
+T134	PROCEDURE 6878 6901	intervención quirúrgica
+T137	PROCEDURE 7348 7373	derivación aortocoronaria

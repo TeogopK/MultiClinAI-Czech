@@ -1,0 +1,19 @@
+T30	PROCEDURE 165 194	dental or surgical procedures
+T17	PROCEDURE 199 219	physical examination
+T1	PROCEDURE 818 837	Cerebrospinal fluid
+T2	PROCEDURE 941 944	MRI
+T19	PROCEDURE 1026 1041	lumbar puncture
+T20	PROCEDURE 1145 1159	CSF Gram stain
+T29	PROCEDURE 1161 1201	PCR panel for bacterial/viral meningitis
+T21	PROCEDURE 1203 1216	blood culture
+T22	PROCEDURE 1221 1234	urine culture
+T3	PROCEDURE 1377 1393	Laboratory tests
+T18	PROCEDURE 1577 1597	physical examination
+T23	PROCEDURE 1656 1671	CSF examination
+T24	PROCEDURE 1676 1690	echocardiogram
+T5	PROCEDURE 1863 1878	Cranial CT scan
+T25	PROCEDURE 1967 1981	blood cultures
+T6	PROCEDURE 2172 2213	heart surgery with cardiopulmonary bypass
+T27	PROCEDURE 2225 2248	tricuspid valvuloplasty
+T28	PROCEDURE 2267 2278	Antibiotics
+T26	PROCEDURE 2320 2334	blood cultures

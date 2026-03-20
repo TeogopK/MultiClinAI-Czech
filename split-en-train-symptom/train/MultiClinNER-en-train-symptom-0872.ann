@@ -1,0 +1,32 @@
+T1	SYMPTOM 507 512	cough
+T2	SYMPTOM 733 738	cough
+T3	SYMPTOM 517 522	fever
+T4	SYMPTOM 807 812	fever
+T5	SYMPTOM 749 757	dyspnoea
+T6	SYMPTOM 1244 1266	Good general condition
+T7	SYMPTOM 1268 1277	conscious
+T8	SYMPTOM 1282 1290	oriented
+T9	SYMPTOM 1366 1389	2/4 pandiastolic murmur
+T10	SYMPTOM 1394 1396	IY
+T11	SYMPTOM 1401 1404	RHY
+T12	SYMPTOM 1409 1415	oedema
+T13	SYMPTOM 1492 1507	carotid murmurs
+T14	SYMPTOM 1594 1604	peritonism
+T15	SYMPTOM 1670 1691	neurological focality
+T16	SYMPTOM 2066 2078	Sinus rhythm
+T17	SYMPTOM 2279 2298	Condensation in LSI
+T19	SYMPTOM 2985 3003	Global hypokinesia
+T20	SYMPTOM 3540 3581	Blood cultures were negative at all times
+T21	SYMPTOM 5436 5459	haemodynamically stable
+T22	SYMPTOM 5815 5831	profuse sweating
+T23	SYMPTOM 6374 6397	negative blood cultures
+T24	SYMPTOM 360 372	preserved EF
+T25	SYMPTOM 762 784	mechanical lumbar pain
+T26	SYMPTOM 814 832	febrile equivalent
+T27	SYMPTOM 1350 1364	Regular sounds
+T28	SYMPTOM 1522 1546	Bladder murmur preserved
+T29	SYMPTOM 1606 1642	positive right renal fist percussion
+T30	SYMPTOM 1984 2008	Sputum BK (1st) negative
+T31	SYMPTOM 2011 2057	rine Ag (pneumococcus and legionella) negative
+T18	SYMPTOM 2524 2580	sub-pleural condensation in LSI with a ground-glass halo
+T33	SYMPTOM 5793 5810	intense dizziness

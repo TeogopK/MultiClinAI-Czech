@@ -1,0 +1,33 @@
+T1	SYMPTOM 500 517	episodio sincopal
+T2	SYMPTOM 568 595	sensación de visión borrosa
+T3	SYMPTOM 681 686	mareo
+T4	SYMPTOM 720 734	dolor torácico
+T5	SYMPTOM 790 820	disnea con moderados esfuerzos
+T7	SYMPTOM 940 971	soplo sistólico en foco aórtico
+T8	SYMPTOM 1007 1028	crepitantes bibasales
+T9	SYMPTOM 1030 1063	Extremidades inferiores sin edema
+T10	SYMPTOM 1065 1106	pulsos periféricos positivos y simétricos
+T11	SYMPTOM 1152 1164	QRS estrecho
+T12	SYMPTOM 1169 1210	onda T negativa de V4 a V6, II, III y aVF
+T13	SYMPTOM 1475 1488	cardiomegalia
+T14	SYMPTOM 1490 1519	patrón intersticial bilateral
+T16	SYMPTOM 1642 1677	función sistólica global conservada
+T21	SYMPTOM 2240 2255	FEVI conservada
+T24	SYMPTOM 2711 2716	edema
+T28	SYMPTOM 4004 4050	alteraciones segmentarias de la contractilidad
+T30	SYMPTOM 4358 4389	fracción de eyección preservada
+T33	SYMPTOM 5322 5342	hipotensión arterial
+T34	SYMPTOM 5371 5384	FE conservada
+T59	SYMPTOM 141 148	síncope
+T94	SYMPTOM 5290 5297	Síncope
+T64	SYMPTOM 982 1001	2o ruido conservado
+T98	SYMPTOM 1521 1547	senos costofrénicos libres
+T99	SYMPTOM 1622 1637	acinesia apical
+T19	SYMPTOM 2268 2299	aquinesia muy localizada apical
+T104	SYMPTOM 2169 2187	Dominancia derecha
+T112	SYMPTOM 2017 2040	compromiso hemodinámico
+T22	SYMPTOM 1688 1721	elevación de presiones de llenado
+T26	SYMPTOM 2064 2134	arterias coronarias con tortuosidades e irregularidades, sin estenosis
+T31	SYMPTOM 2508 2527	VI de tamaño normal
+T48	SYMPTOM 4154 4187	arterias coronarias sin estenosis
+T51	SYMPTOM 5413 5446	Arterias coronarias sin estenosis

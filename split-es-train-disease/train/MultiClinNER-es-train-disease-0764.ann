@@ -1,0 +1,38 @@
+T52	DISEASE 91 101	Hipertenso
+T53	DISEASE 104 111	fumador
+T54	DISEASE 577 597	episodios sincopales
+T55	DISEASE 703 734	traumatismo en mandíbula y boca
+T56	DISEASE 1114 1136	insuficiencia cardiaca
+T57	DISEASE 1710 1726	Pectus excavatum
+T58	DISEASE 2001 2004	TEP
+T59	DISEASE 2096 2133	adenopatías mediastínicas ni hiliares
+T60	DISEASE 2211 2226	derrame pleural
+T61	DISEASE 2445 2475	dilatación ventricular derecha
+T62	DISEASE 2961 2995	Aneurisma del septo interauricular
+T63	DISEASE 2997 3000	SIA
+T64	DISEASE 3045 3064	derrame pericárdico
+T65	DISEASE 3093 3113	Insuficiencia mitral
+T66	DISEASE 3128 3153	Insuficiencia tricuspídea
+T67	DISEASE 4398 4409	canalopatía
+T68	DISEASE 5104 5107	TEP
+T69	DISEASE 5147 5178	displasia de ventrículo derecho
+T70	DISEASE 5594 5639	extrasistolia ventricular ni supraventricular
+T71	DISEASE 5643 5652	arritmias
+T72	DISEASE 5698 5705	síncope
+T73	DISEASE 5806 5829	taquicardia ventricular
+T74	DISEASE 5962 5982	anomalías coronarias
+T75	DISEASE 5997 6049	agenesia prácticamente total de pericardio izquierda
+T76	DISEASE 6163 6185	Síncopes de repetición
+T77	DISEASE 6320 6340	anomalías coronarias
+T78	DISEASE 6342 6384	Agenesia prácticamente total de pericardio
+T79	DISEASE 3155 3157	IT
+T80	DISEASE 125 133	síncopes
+T81	DISEASE 5529 5537	síncopes
+T82	DISEASE 2556 2588	Ventrículo derecho (VD) dilatado
+T83	DISEASE 3115 3117	IM
+T133	DISEASE 201 204	ICC
+T125	DISEASE 4884 4921	ausencia prácticamente del pericardio
+#1	AnnotatorNotes T58	 tromboembolismo pulmonar
+#2	AnnotatorNotes T63	 aneurisma del septo interauricular
+#3	AnnotatorNotes T79	 IT insuficiencia tricuspídea
+#4	AnnotatorNotes T83	 insuficiencia mitral

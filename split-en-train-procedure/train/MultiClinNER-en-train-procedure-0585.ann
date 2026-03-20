@@ -1,0 +1,29 @@
+T10	PROCEDURE 236 256	tuberculin skin test
+T11	PROCEDURE 266 287	isoniazid prophylaxis
+T14	PROCEDURE 338 375	non-steroidal anti-inflammatory drugs
+T13	PROCEDURE 387 402	antidepressants
+T15	PROCEDURE 407 429	proton pump inhibitors
+T9	PROCEDURE 626 646	physical examination
+T30	PROCEDURE 672 729	palpable laterocervical or retroauricular lymphadenopathy
+T12	PROCEDURE 734 762	cardiopulmonary auscultation
+T6	PROCEDURE 813 829	renal ultrasound
+T1	PROCEDURE 1160 1213	thoraco-abdomino-pelvic computed tomography (CT) scan
+T37	PROCEDURE 1382 1416	A cervical adenopathy was biopsied
+T18	PROCEDURE 1498 1520	Ziehl-Nielsen staining
+T4	PROCEDURE 1595 1612	fibrobronchoscopy
+T7	PROCEDURE 1675 1697	Bronchoalveolar lavage
+T20	PROCEDURE 1739 1755	bronchial lavage
+T40	PROCEDURE 1775 1854	Link transbronchial fine needle aspiration punction of a mediastinal adenopathy
+T24	PROCEDURE 1895 1911	Ziehl's staining
+T5	PROCEDURE 2023 2040	fibrobronchoscopy
+T21	PROCEDURE 2045 2092	interferon gamma release assay for tuberculosis
+T17	PROCEDURE 2094 2105	quantiFERON
+T8	PROCEDURE 2188 2215	anti-tuberculosis treatment
+T23	PROCEDURE 2401 2415	Viral serology
+T47	PROCEDURE 2516 2530	Urine analysis
+T16	PROCEDURE 2695 2707	proteinogram
+T22	PROCEDURE 3025 3037	radiological
+T2	PROCEDURE 3160 3172	renal biopsy
+T19	PROCEDURE 3563 3593	PAS and Ziehl-Nielsen staining
+T3	PROCEDURE 3606 3618	renal biopsy
+T25	PROCEDURE 3728 3754	antituberculosis treatment

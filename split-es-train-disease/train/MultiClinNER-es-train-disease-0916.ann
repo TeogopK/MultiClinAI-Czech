@@ -1,0 +1,45 @@
+T8	DISEASE 964 990	parálisis facial izquierda
+T52	DISEASE 539 557	anemia normocítica
+T53	DISEASE 584 605	hematuria persistente
+T55	DISEASE 1370 1381	adenopatías
+T56	DISEASE 1726 1751	trombosis venosa profunda
+T57	DISEASE 1825 1859	parálisis facial izquierda central
+T58	DISEASE 2682 2723	lesiones isquémicas o hemorrágicas agudas
+T59	DISEASE 2863 2876	mioma uterino
+T60	DISEASE 3337 3352	hepatitis B y C
+T61	DISEASE 3852 3899	Válvula mitral: Prolapso del festón P1 del velo
+T62	DISEASE 4070 4097	Insuficiencia mitral severa
+T63	DISEASE 4385 4404	derrame pericárdico
+T64	DISEASE 4465 4498	endocarditis sobre válvula mitral
+T65	DISEASE 4484 4544	válvula mitral (con prolapso del festón P1 de velo posterior
+T66	DISEASE 4604 4631	insuficiencia mitral severa
+T67	DISEASE 4709 4744	regurgitación valvular severa aguda
+T68	DISEASE 4817 4854	embolismo periférico a nivel cerebral
+T69	DISEASE 5295 5317	insuficiencia cardiaca
+T70	DISEASE 5726 5738	endocarditis
+T71	DISEASE 6697 6724	insuficiencia mitral severa
+T72	DISEASE 6711 6748	mitral severa, prolapso del festón P1
+T73	DISEASE 6771 6802	endocarditis sobre el festón A1
+T74	DISEASE 7133 7142	arritmias
+T76	DISEASE 7713 7725	endocarditis
+T77	DISEASE 7863 7914	Endocarditis infecciosa sobre válvula mitral nativa
+T78	DISEASE 7893 7970	válvula mitral nativa (con prolapso valvular del festón p1 del velo posterior
+T79	DISEASE 8034 8061	insuficiencia mitral severa
+T80	DISEASE 8094 8120	Accidente cerebro vascular
+T82	DISEASE 2841 2861	Hepatoesplenomegalia
+T83	DISEASE 4354 4356	IT
+T84	DISEASE 3114 3118	Lúes
+T85	DISEASE 427 450	alergias medicamentosas
+T86	DISEASE 378 393	hábitos tóxicos
+T87	DISEASE 3331 3335	lúes
+T89	DISEASE 2599 2628	lesiones ocupantes de espacio
+T90	DISEASE 3243 3251	varicela
+T91	DISEASE 3376 3384	varicela
+T92	DISEASE 3227 3233	herpes
+T93	DISEASE 4044 4068	vegetación endocardítica
+T94	DISEASE 4547 4598	vegetación en cúspide de festón A1 de velo anterior
+T95	DISEASE 4758 4792	dilatación de cavidades izquierdas
+T96	DISEASE 6310 6332	reacción urticariforme
+T97	DISEASE 7973 8028	vegetación endocardítica en festón a1 del velo anterior
+T158	DISEASE 5384 5416	paresia facial izquierda central
+#1	AnnotatorNotes T83	 IT insuficiencia tricuspídea

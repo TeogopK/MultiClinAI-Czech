@@ -1,0 +1,15 @@
+T1	PROCEDURE 401 429	Ophthalmological examination
+T4	PROCEDURE 650 659	palpation
+T7	PROCEDURE 661 679	Fundus examination
+T17	PROCEDURE 839 884	orbital magnetic resonance imaging (MRI) scan
+T2	PROCEDURE 875 878	MRI
+T18	PROCEDURE 1014 1081	blood test based on routine haemogram, biochemistry and coagulation
+T23	PROCEDURE 1287 1334	evacuate the haematoma and decompress the orbit
+T3	PROCEDURE 1341 1360	general anaesthesia
+T5	PROCEDURE 1364 1390	right upper blepharoplasty
+T6	PROCEDURE 1415 1473	dissecting the orbicularis oculi muscle and the periosteum
+T8	PROCEDURE 1698 1725	evacuation of the haematoma
+T26	PROCEDURE 1789 1807	fine Penrose drain
+T10	PROCEDURE 1996 2003	surgery
+T28	PROCEDURE 2098 2118	drainage was removed
+T11	PROCEDURE 2157 2164	surgery

@@ -1,0 +1,30 @@
+T87	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T89	PROCEDURE 543 562	indication for CPAP
+T2	PROCEDURE 581 601	lumbar canal surgery
+T1	PROCEDURE 694 719	resection of colon polyps
+T90	PROCEDURE 873 893	coronary angiography
+T94	PROCEDURE 908 934	surgical revascularisation
+T95	PROCEDURE 945 1058	bypass: internal mammary artery (IMA) to anterior descending artery (ADA) and saphenous vein to circumflex artery
+T96	PROCEDURE 1315 1345	transthoracic echocardiography
+T91	PROCEDURE 1374 1394	coronary angiography
+T98	PROCEDURE 1680 1710	cavotricuspid isthmus ablation
+T3	PROCEDURE 1712 1748	Implantation of a single-chamber ICD
+T92	PROCEDURE 1913 1933	coronary angiography
+T88	PROCEDURE 2483 2503	Physical examination
+T99	PROCEDURE 2770 2782	Auscultation
+T101	PROCEDURE 5468 5485	Electrocardiogram
+T102	PROCEDURE 5658 5669	Chest X-ray
+T97	PROCEDURE 5821 5849	Transthoracic echocardiogram
+T103	PROCEDURE 6691 6715	neurohormonal medication
+T111	PROCEDURE 6786 6798	beta-blocker
+T104	PROCEDURE 7002 7039	mineralocorticoid receptor antagonist
+T4	PROCEDURE 7041 7044	MRA
+T105	PROCEDURE 7123 7143	oral anticoagulation
+T106	PROCEDURE 7180 7204	lipid-lowering treatment
+T100	PROCEDURE 8540 8552	auscultation
+T107	PROCEDURE 8817 8844	Glycaemic and lipid control
+T112	PROCEDURE 9137 9142	renal
+T108	PROCEDURE 10831 10856	Surgically revascularised
+T5	PROCEDURE 10890 10925	IMA-ADA and saphenous bypass to ACx
+T93	PROCEDURE 10946 10966	coronary angiography
+T110	PROCEDURE 11153 11170	revascularisation

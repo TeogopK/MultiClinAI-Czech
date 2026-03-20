@@ -1,0 +1,40 @@
+T33	DISEASE 81 88	syncope
+T34	DISEASE 98 120	atrioventricular block
+T1	DISEASE 122 125	AVB
+T36	DISEASE 227 241	drug allergies
+T3	DISEASE 264 277	heart disease
+T2	DISEASE 287 307	sudden cardiac death
+T37	DISEASE 312 324	toxic habits
+T38	DISEASE 405 444	Mitochondrial cytopathy phenotype MELAS
+T39	DISEASE 493 522	severe sensorineural deafness
+T40	DISEASE 555 563	myopathy
+T4	DISEASE 630 651	tonic comical seizure
+T6	DISEASE 702 714	hyponatremia
+T42	DISEASE 716 741	Right bundle branch block
+T56	DISEASE 746 769	left anterior hemiblock
+T7	DISEASE 1029 1046	severe hypoacusis
+T8	DISEASE 1356 1359	AVB
+T43	DISEASE 1400 1424	left bundle branch block
+T35	DISEASE 2172 2175	BAV
+T60	DISEASE 2481 2495	pre-excitation
+T44	DISEASE 2680 2693	heart failure
+T45	DISEASE 2697 2713	pleural effusion
+T12	DISEASE 3253 3317	non-dilated left ventricle, slightly concentrically hypertrophie
+T46	DISEASE 3376 3390	valvulopathies
+T47	DISEASE 3397 3419	pulmonary hypertension
+T48	DISEASE 3518 3532	MELAS syndrome
+T13	DISEASE 3577 3580	AVB
+T61	DISEASE 3615 3629	pre-excitation
+T14	DISEASE 3657 3676	conduction disorder
+T50	DISEASE 3720 3758	fasciculoventricular accessory pathway
+T52	DISEASE 3834 3862	mild ventricular hypertrophy
+T53	DISEASE 4058 4079	mitochondrial disease
+T54	DISEASE 4354 4369	bradyarrhythmia
+T17	DISEASE 4616 4624	AV block
+T62	DISEASE 4680 4750	ventricular pre-excitation by a fasciculoventricular accessory pathway
+T18	DISEASE 4802 4805	AVB
+T49	DISEASE 4808 4822	MELAS syndrome
+T57	DISEASE 4824 4846	mitochondrial myopathy
+T58	DISEASE 4848 4862	encephalopathy
+T55	DISEASE 4864 4879	lactic acidosis
+T59	DISEASE 4885 4891	stroke

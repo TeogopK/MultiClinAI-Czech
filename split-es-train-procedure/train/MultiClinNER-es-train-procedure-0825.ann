@@ -1,0 +1,37 @@
+T68	PROCEDURE 444 467	cardioversión eléctrica
+T69	PROCEDURE 483 497	ecocardiograma
+T70	PROCEDURE 784 796	radioterapia
+T71	PROCEDURE 1135 1150	betabloqueantes
+T73	PROCEDURE 1204 1233	ecocardiograma transesofágico
+T74	PROCEDURE 1630 1665	ablación del istmo cavo tricuspídeo
+T75	PROCEDURE 1920 1923	TAC
+T76	PROCEDURE 2001 2019	Exploración física
+T77	PROCEDURE 2148 2175	Auscultación cardiopulmonar
+T78	PROCEDURE 2652 2655	ECG
+T79	PROCEDURE 2756 2785	Ecocardiograma transesofágico
+T80	PROCEDURE 3170 3199	Ecocardiograma transesofágico
+T81	PROCEDURE 3553 3556	ECG
+T82	PROCEDURE 3861 3873	TC abdominal
+T83	PROCEDURE 4249 4319	Se revirtió la anticoagulación con vitamina K y complejo protrombínico
+T84	PROCEDURE 4297 4319	complejo protrombínico
+T85	PROCEDURE 4420 4464	se transfundieron 2 concentrados de hematíes
+T86	PROCEDURE 4838 4853	anticoagulación
+T87	PROCEDURE 5120 5149	ecocardiograma transesofágico
+T88	PROCEDURE 5344 5364	ablación del nodo AV
+T89	PROCEDURE 5367 5398	implantación de marcapasos DDDR
+T90	PROCEDURE 5784 5839	sustitución valvular mitral por bioprótesis Epic Mitral
+T91	PROCEDURE 5863 5907	ligadura quirúrgica de la orejuela izquierda
+T92	PROCEDURE 6001 6036	ablación del istmo cavo tricuspídeo
+T93	PROCEDURE 6179 6229	Sustitución valvular con prótesis mitral biológica
+T94	PROCEDURE 6271 6315	Ligadura quirúrgica de la orejuela izquierda
+T95	PROCEDURE 6412 6444	anticoagulación con acenocumarol
+T96	PROCEDURE 6474 6519	Embolización de arteria epigástrica izquierda
+T97	PROCEDURE 6521 6541	Ablación del nodo AV
+T98	PROCEDURE 6543 6570	Implante de marcapasos DDDR
+T122	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T124	PROCEDURE 2206 2215	palpación
+T125	PROCEDURE 4332 4362	se embolizó el punto sangrante
+T128	PROCEDURE 2499 2508	Analítica
+T129	PROCEDURE 3695 3704	Analítica
+T144	PROCEDURE 774 781	cirugía
+T162	PROCEDURE 4943 4980	perfusión continua de heparina sódica

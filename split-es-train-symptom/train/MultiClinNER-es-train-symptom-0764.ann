@@ -1,0 +1,65 @@
+T2	SYMPTOM 407 470	tomografía axial computarizada (TAC) craneal que resulta normal
+T7	SYMPTOM 867 872	mareo
+T8	SYMPTOM 878 899	pérdida de conciencia
+T9	SYMPTOM 958 984	movimientos tonicoclónicos
+T10	SYMPTOM 988 1012	relajación de esfínteres
+T11	SYMPTOM 1029 1041	asintomático
+T12	SYMPTOM 1057 1071	dolor torácico
+T13	SYMPTOM 1075 1088	palpitaciones
+T14	SYMPTOM 1093 1099	disnea
+T15	SYMPTOM 1236 1246	Consciente
+T16	SYMPTOM 1249 1258	orientado
+T17	SYMPTOM 1260 1268	Eupneico
+T18	SYMPTOM 1270 1304	Auscultación cardiopulmonar normal
+T20	SYMPTOM 1338 1367	Pulsos palpables y simétricos
+T21	SYMPTOM 1420 1433	ritmo sinusal
+T22	SYMPTOM 1453 1465	QRS estrecho
+T23	SYMPTOM 1467 1488	T negativa asimétrica
+T28	SYMPTOM 2200 2207	nódulos
+T29	SYMPTOM 2244 2297	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T30	SYMPTOM 2717 2743	hipocinesia de pared libre
+T31	SYMPTOM 2781 2825	Raíz aórtica y aorta ascendente no dilatadas
+T32	SYMPTOM 2827 2879	Válvula aórtica tricomisural con apertura conservada
+T33	SYMPTOM 3066 3091	Función diastólica normal
+T34	SYMPTOM 3296 3337	Estudio de promediado de señales negativo
+T35	SYMPTOM 3542 3556	VD no dilatado
+T36	SYMPTOM 3766 3815	desplazamiento cardiaco hacia hemitórax izquierdo
+T37	SYMPTOM 3832 3865	horizontalización de eje cardiaco
+T38	SYMPTOM 3904 3909	edema
+T39	SYMPTOM 4094 4128	pulmones de vascularización normal
+T41	SYMPTOM 4238 4247	VI normal
+T42	SYMPTOM 4249 4263	VD no dilatado
+T43	SYMPTOM 4340 4384	Estudio electrofisiológico: estudio negativo
+T44	SYMPTOM 4599 4621	Aurículas no dilatadas
+T45	SYMPTOM 4677 4716	Válvula mitral: morfológicamente normal
+T46	SYMPTOM 5188 5198	T negativa
+T47	SYMPTOM 5367 5405	ventrículo derecho es de tamaño normal
+T48	SYMPTOM 5491 5503	asintomático
+T49	SYMPTOM 5519 5525	mareos
+T50	SYMPTOM 6233 6268	Estudio electrofisiológico negativo
+T120	SYMPTOM 3593 3634	tracto de salida de VD zona hipoquinética
+T3	SYMPTOM 1597 1635	desplazamiento cardiaco a la izquierda
+T5	SYMPTOM 2302 2317	FEVI conservada
+T19	SYMPTOM 2746 2779	aquinesia- disquinesia en el ápex
+T24	SYMPTOM 2881 2921	Mitral y tricúspide de morfología normal
+T25	SYMPTOM 2923 2959	Vena cava inferior (VCI) no dilatada
+T26	SYMPTOM 3440 3454	VI no dilatado
+T27	SYMPTOM 3484 3513	FE global y regional normales
+T116	SYMPTOM 3515 3524	AI normal
+T117	SYMPTOM 3526 3540	AD no dilatada
+T40	SYMPTOM 4269 4278	FE límite
+T118	SYMPTOM 4550 4597	cavidades cardiacas de características normales
+T121	SYMPTOM 4623 4675	Válvula aórtica: tricúspide, morfológicamente normal
+T136	SYMPTOM 1637 1674	Borramiento de borde cardiaco derecho
+T138	SYMPTOM 4747 4766	Dominancia: derecha
+T140	SYMPTOM 1306 1336	Miembros inferiores: no edemas
+T150	SYMPTOM 5506 5513	estable
+T152	SYMPTOM 2187 2198	infiltrados
+T1	SYMPTOM 851 856	calor
+T4	SYMPTOM 2009 2091	defectos de replección en arterias pulmonares principales, lobares ni segmentarias
+T6	SYMPTOM 2477 2512	Aurícula izquierda (AI) no dilatada
+T119	SYMPTOM 3989 4034	secuencias de viabilidad no se observa realce
+T122	SYMPTOM 3918 3980	secuencias de perfusión no se observan defectos de primer paso
+T123	SYMPTOM 4768 4793	Anatomía coronaria normal
+T124	SYMPTOM 4823 4869	Rotación de la silueta cardiaca a la izquierda
+T126	SYMPTOM 5232 5274	imagen aneurismática en ventrículo derecho

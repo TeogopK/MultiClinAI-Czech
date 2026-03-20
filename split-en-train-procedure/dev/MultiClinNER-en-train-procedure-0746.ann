@@ -1,0 +1,18 @@
+T10	PROCEDURE 479 500	Extraoral examination
+T4	PROCEDURE 593 602	palpation
+T17	PROCEDURE 715 748	mandibular functional examination
+T1	PROCEDURE 765 786	intraoral examination
+T5	PROCEDURE 957 966	palpation
+T11	PROCEDURE 1000 1024	panoramic Cone Beam view
+T7	PROCEDURE 1799 1816	incisional biopsy
+T22	PROCEDURE 1846 1908	Histopathological examination with haematoxylin-eosin staining
+T24	PROCEDURE 1881 1908	haematoxylin-eosin staining
+T12	PROCEDURE 2317 2344	histopathological diagnosis
+T13	PROCEDURE 2387 2394	surgery
+T2	PROCEDURE 2414 2433	general anaesthesia
+T6	PROCEDURE 2629 2638	osteotomy
+T9	PROCEDURE 2693 2704	enucleation
+T14	PROCEDURE 2749 2769	suturing with Vycril
+T30	PROCEDURE 2825 2843	antibiotic therapy
+T3	PROCEDURE 2861 2870	analgesia
+T8	PROCEDURE 2908 2917	soft diet

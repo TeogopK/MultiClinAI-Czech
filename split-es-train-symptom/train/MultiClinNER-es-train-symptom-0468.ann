@@ -1,0 +1,10 @@
+T1	SYMPTOM 74 81	HLA B27
+T2	SYMPTOM 213 222	hematuria
+T3	SYMPTOM 267 291	masa vesical, excrecente
+T4	SYMPTOM 503 539	dolor intenso abdominal, epigástrico
+T5	SYMPTOM 584 622	vómito repentino, abundante y hemático
+T6	SYMPTOM 694 700	exitus
+T7	SYMPTOM 310 319	sangrante
+A1	RESULTADO T1
+A2	IMAGEN T3
+A3	EXITUS T6

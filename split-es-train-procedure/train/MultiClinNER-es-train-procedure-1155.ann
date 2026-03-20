@@ -1,0 +1,31 @@
+T59	PROCEDURE 1162 1189	Auscultación cardiopulmonar
+T60	PROCEDURE 1530 1533	ECG
+T61	PROCEDURE 1650 1653	ECG
+T62	PROCEDURE 1683 1692	Hemograma
+T63	PROCEDURE 2177 2191	Ecocardiograma
+T64	PROCEDURE 2193 2196	ETT
+T65	PROCEDURE 2664 2682	Angio-TAC de aorta
+T66	PROCEDURE 3663 3666	ECG
+T67	PROCEDURE 3711 3714	ETT
+T68	PROCEDURE 3843 3852	angio-TAC
+T69	PROCEDURE 4093 4143	técnica de Bono-Bentall mecánico (Carboseal 29 mm)
+T70	PROCEDURE 4206 4232	reemplazo valvular aórtico
+T71	PROCEDURE 4237 4281	reemplazo de raíz aórtica y aorta ascendente
+T72	PROCEDURE 4295 4326	reimplante de ostium coronarios
+T73	PROCEDURE 4334 4359	circulación extracorpórea
+T74	PROCEDURE 4361 4395	parada electromecánica del corazón
+T75	PROCEDURE 4398 4462	parada circulatoria con perfusión cerebral selectiva bicarotídea
+T76	PROCEDURE 4478 4523	recambio de arco aórtico ni aorta descendente
+T77	PROCEDURE 5128 5155	gafas nasales de alto flujo
+T79	PROCEDURE 1988 1998	Bioquímica
+T80	PROCEDURE 799 817	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 4772 4782	Extubación
+T82	PROCEDURE 1894 1904	Hemostasia
+T83	PROCEDURE 4046 4069	intervención quirúrgica
+T84	PROCEDURE 4978 4989	radiografía
+T86	PROCEDURE 2113 2145	Biomarcadores de daño miocárdico
+T87	PROCEDURE 4742 4760	cirugía de Bentall
+T88	PROCEDURE 5512 5555	Cirugía emergente con Bono-Bentall metálico
+T95	PROCEDURE 1664 1673	Analítica
+T120	PROCEDURE 215 241	intervenciones quirúrgicas
+T123	PROCEDURE 4179 4202	intervención quirúrgica

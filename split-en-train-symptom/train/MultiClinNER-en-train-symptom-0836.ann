@@ -1,0 +1,45 @@
+T1	SYMPTOM 274 294	non-productive cough
+T2	SYMPTOM 299 321	a feeling of dystrophy
+T3	SYMPTOM 363 386	haemodynamically stable
+T29	SYMPTOM 420 437	sinus tachycardia
+T30	SYMPTOM 450 460	tachypneic
+T37	SYMPTOM 512 519	tugging
+T4	SYMPTOM 570 578	flapping
+T5	SYMPTOM 583 591	afebrile
+T6	SYMPTOM 602 614	sinus rhythm
+T38	SYMPTOM 623 649	repolarisation alterations
+T36	SYMPTOM 773 781	rhythmic
+T9	SYMPTOM 797 804	murmurs
+T7	SYMPTOM 896 908	sinus rhythm
+T10	SYMPTOM 931 941	narrow QRS
+T25	SYMPTOM 961 987	repolarisation alterations
+T8	SYMPTOM 998 1010	sinus rhythm
+T11	SYMPTOM 1033 1043	narrow QRS
+T12	SYMPTOM 1056 1092	diffuse symmetrical negative T waves
+T13	SYMPTOM 1512 1534	Normal thyroid profile
+T14	SYMPTOM 1575 1591	hilar thickening
+T15	SYMPTOM 1710 1748	hyperdynamic symmetrical contractility
+T16	SYMPTOM 1750 1761	Normal LVEF
+T24	SYMPTOM 1763 1780	LA of normal size
+T18	SYMPTOM 1782 1812	RV of normal size and function
+T31	SYMPTOM 1814 1831	RA of normal size
+T39	SYMPTOM 1833 1851	IVC of normal size
+T40	SYMPTOM 1921 1947	Aortic root of normal size
+T41	SYMPTOM 1990 2011	MV with thin leaflets
+T43	SYMPTOM 2130 2169	LV findings of normal size and function
+T42	SYMPTOM 2171 2180	LA normal
+T19	SYMPTOM 2182 2212	RV of normal size and function
+T44	SYMPTOM 2214 2244	RA of normal size and function
+T21	SYMPTOM 2313 2332	Signs of normal PVC
+T22	SYMPTOM 2387 2445	LV of normal size, normal walls, symmetrical contractility
+T17	SYMPTOM 2447 2458	Normal LVEF
+T45	SYMPTOM 2460 2474	LA normal size
+T20	SYMPTOM 2476 2506	RV of normal size and function
+T23	SYMPTOM 2600 2606	oedema
+T35	SYMPTOM 2663 2678	right dominance
+T34	SYMPTOM 2680 2726	Coronary arteries without angiographic lesions
+T48	SYMPTOM 3188 3211	symmetrical T-negatives
+T47	SYMPTOM 3217 3230	elongated QTc
+T46	SYMPTOM 3361 3373	preserved EF
+T26	SYMPTOM 3627 3639	bronchospasm
+T33	SYMPTOM 4452 4471	severe bronchospasm

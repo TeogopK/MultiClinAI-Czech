@@ -1,0 +1,10 @@
+T1	SYMPTOM 711 737	disminución de AV en su OD
+T2	SYMPTOM 1548 1570	espesor macular normal
+T3	SYMPTOM 1090 1122	acúmulo de líquido subrretiniano
+T4	SYMPTOM 140 162	buen control tensional
+T5	SYMPTOM 992 1045	espesor retiniano de unos espacios de baja intensidad
+T6	SYMPTOM 1643 1659	depresión foveal
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	IMAGEN T5
+A4	IMAGEN T6

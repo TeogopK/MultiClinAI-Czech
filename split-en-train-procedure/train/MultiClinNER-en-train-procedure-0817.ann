@@ -1,0 +1,26 @@
+T45	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T46	PROCEDURE 396 416	Physical examination
+T47	PROCEDURE 899 916	Electrocardiogram
+T48	PROCEDURE 918 921	ECG
+T51	PROCEDURE 1203 1214	coagulation
+T64	PROCEDURE 1216 1230	renal function
+T52	PROCEDURE 1235 1247	electrolytes
+T12	PROCEDURE 1256 1281	Myocardial damage markers
+T53	PROCEDURE 1361 1384	Cardiac catheterisation
+T54	PROCEDURE 1544 1572	Transthoracic echocardiogram
+T55	PROCEDURE 1753 1764	Chest X-ray
+T11	PROCEDURE 1896 1909	Chest CT scan
+T49	PROCEDURE 2022 2025	ECG
+T57	PROCEDURE 2147 2167	coronary angiography
+T58	PROCEDURE 2291 2302	angioplasty
+T50	PROCEDURE 2446 2449	ECG
+T60	PROCEDURE 2541 2555	echocardiogram
+T62	PROCEDURE 2703 2725	cardiovascular surgery
+T56	PROCEDURE 2741 2752	Chest X-ray
+T10	PROCEDURE 2829 2842	chest CT scan
+T9	PROCEDURE 3220 3248	closure of the aneurysm neck
+T7	PROCEDURE 3250 3277	placement of a Dacron patch
+T8	PROCEDURE 3282 3330	Prolene reinforcement at the edge of the rupture
+T6	PROCEDURE 3514 3529	inotropic drugs
+T61	PROCEDURE 3557 3571	echocardiogram
+T63	PROCEDURE 3922 3937	surgical repair

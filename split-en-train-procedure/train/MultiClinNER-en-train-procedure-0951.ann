@@ -1,0 +1,34 @@
+T78	PROCEDURE 416 425	ergometry
+T77	PROCEDURE 1479 1499	PHYSICAL EXAMINATION
+T51	PROCEDURE 1635 1655	Cardiac auscultation
+T52	PROCEDURE 1679 1701	Pulmonary auscultation
+T53	PROCEDURE 1901 1918	Electrocardiogram
+T54	PROCEDURE 1920 1923	ECG
+T3	PROCEDURE 2097 2101	ECGs
+T55	PROCEDURE 2112 2115	ECG
+T57	PROCEDURE 2211 2222	Chest X-ray
+T79	PROCEDURE 2449 2460	Blood gases
+T81	PROCEDURE 2989 3016	myocardial necrosis markers
+T58	PROCEDURE 3444 3468	Faecal occult blood test
+T59	PROCEDURE 3480 3508	Transthoracic echocardiogram
+T4	PROCEDURE 3510 3513	TTE
+T61	PROCEDURE 4536 4567	Diagnostic coronary angiography
+T80	PROCEDURE 4772 4776	IVUS
+T62	PROCEDURE 5069 5080	Colonoscopy
+T63	PROCEDURE 5085 5117	upper gastrointestinal endoscopy
+T64	PROCEDURE 5183 5217	Percutaneous coronary intervention
+T16	PROCEDURE 5221 5256	guide wire is advanced to distal Cx
+T18	PROCEDURE 5262 5289	Cx-LCT lesion is predilated
+T66	PROCEDURE 5297 5321	everolimus-eluting stent
+T67	PROCEDURE 5367 5379	angiographic
+T56	PROCEDURE 5458 5528	everolimus-eluting drug-eluting stent (3*18 mm at 18 atm) is implanted
+T68	PROCEDURE 5545 5557	angiographic
+T60	PROCEDURE 5643 5671	transthoracic echocardiogram
+T82	PROCEDURE 5754 5772	coronary angiogram
+T71	PROCEDURE 6150 6175	percutaneous intervention
+T72	PROCEDURE 6177 6186	Telemetry
+T73	PROCEDURE 6241 6254	beta-blockers
+T74	PROCEDURE 6404 6424	antiplatelet therapy
+T75	PROCEDURE 6606 6626	antiplatelet therapy
+T76	PROCEDURE 6663 6729	percutaneous coronary intervention with implantation of two stents
+T69	PROCEDURE 6748 6760	angiographic

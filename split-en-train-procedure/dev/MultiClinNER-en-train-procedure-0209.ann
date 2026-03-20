@@ -1,0 +1,43 @@
+T38	PROCEDURE 198 210	appendectomy
+T1	PROCEDURE 544 564	Physical examination
+T3	PROCEDURE 670 701	cardio-respiratory auscultation
+T47	PROCEDURE 986 993	protein
+T8	PROCEDURE 1134 1148	Blood cultures
+T6	PROCEDURE 1164 1178	Urine sediment
+T4	PROCEDURE 1191 1210	Faecal occult blood
+T10	PROCEDURE 1225 1236	Chest X-ray
+T12	PROCEDURE 1310 1332	Gastroduodenal transit
+T13	PROCEDURE 1345 1365	Abdominal ultrasound
+T53	PROCEDURE 1370 1387	abdominal CT scan
+T17	PROCEDURE 1401 1412	Gastroscopy
+T19	PROCEDURE 1425 1447	Temporal artery biopsy
+T2	PROCEDURE 2289 2309	Physical examination
+T37	PROCEDURE 2430 2450	Biochemical analysis
+T31	PROCEDURE 2557 2569	Proteinogram
+T30	PROCEDURE 2585 2601	thyroid hormones
+T65	PROCEDURE 2661 2680	direct Coombs' test
+T7	PROCEDURE 2682 2696	Urine sediment
+T9	PROCEDURE 2707 2721	blood cultures
+T68	PROCEDURE 2723 2737	stool cultures
+T21	PROCEDURE 2742 2756	urine cultures
+T71	PROCEDURE 2758 2766	Serology
+T22	PROCEDURE 2969 3006	HIV, hepatitis B and C virus serology
+T35	PROCEDURE 3017 3026	Sputum ZN
+T23	PROCEDURE 3037 3049	Mantoux test
+T5	PROCEDURE 3224 3243	Faecal occult blood
+T11	PROCEDURE 3258 3269	Chest X-ray
+T78	PROCEDURE 3295 3306	spine X-ray
+T79	PROCEDURE 3362 3375	spine CT scan
+T14	PROCEDURE 3455 3475	abdominal ultrasound
+T24	PROCEDURE 3477 3498	Thoracic-abdominal CT
+T18	PROCEDURE 3535 3546	Gastroscopy
+T25	PROCEDURE 3562 3573	colonoscopy
+T26	PROCEDURE 3625 3628	ECG
+T27	PROCEDURE 3717 3731	echocardiogram
+T28	PROCEDURE 3874 3892	Pericardiocentesis
+T36	PROCEDURE 4035 4061	pericardial fluid analysis
+T34	PROCEDURE 4175 4200	pericardial fluid culture
+T15	PROCEDURE 4214 4222	ZN stain
+T32	PROCEDURE 4233 4241	cytology
+T29	PROCEDURE 4391 4424	myocardial perfusion scintigraphy
+T20	PROCEDURE 4515 4537	temporal artery biopsy

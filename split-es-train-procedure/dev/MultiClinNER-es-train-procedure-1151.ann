@@ -1,0 +1,36 @@
+T64	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 270 360	implante de tres stents liberadores de paclitaxel en coronaria derecha (CD) media y distal
+T66	PROCEDURE 713 856	implante de tres stents liberadores de everolimus (XIENCE PRIME®) uno sobre DA proximal (3x18 mm) y otros dos solapados sobre CD media y distal
+T67	PROCEDURE 958 1003	doble antiagregación con aspirina y prasugrel
+T68	PROCEDURE 1091 1109	exploración física
+T69	PROCEDURE 1279 1300	Auscultación cardiaca
+T70	PROCEDURE 1332 1353	Auscultación pulmonar
+T71	PROCEDURE 1587 1590	ECG
+T72	PROCEDURE 1882 1893	Coagulación
+T73	PROCEDURE 1903 1912	Hemograma
+T74	PROCEDURE 2109 2129	Radiografía de tórax
+T75	PROCEDURE 2201 2215	Ecocardiograma
+T76	PROCEDURE 2480 2516	Cateterismo urgente (radial derecha)
+T77	PROCEDURE 2849 2869	ICP con trombectomía
+T78	PROCEDURE 2872 2983	ACTP con balón sobre trombosis de stent en CD media y distal, y sobre trombosis de stent en DA proximal y media
+T79	PROCEDURE 2985 3047	ICP con implante de stent recubierto directo tipo XIENCE PRIME
+T80	PROCEDURE 3168 3171	ECG
+T81	PROCEDURE 3218 3232	ecocardiograma
+T82	PROCEDURE 3363 3378	coronariografía
+T84	PROCEDURE 3513 3573	angioplastia con balón sobre DA proximal y CD media y distal
+T85	PROCEDURE 3766 3781	implante de DES
+T86	PROCEDURE 3861 3891	estudio de hipercoagulabilidad
+T87	PROCEDURE 4086 4101	coronariografía
+T88	PROCEDURE 4288 4316	revascularización quirúrgica
+T89	PROCEDURE 4340 4398	derivación coronaria de arteria mamaria interna (AMI) a DA
+T90	PROCEDURE 4597 4608	Cateterismo
+T91	PROCEDURE 4689 4701	Trombectomía
+T92	PROCEDURE 4703 4741	ACTP a CD media y distal y DA proximal
+T93	PROCEDURE 4743 4845	Implante de stent recubierto de everolimus a nivel de reestenosis de borde distal de stent de DA media
+T103	PROCEDURE 4962 5003	Revascularización quirúrgica con AMI a DA
+T104	PROCEDURE 1778 1788	bioquímica
+T105	PROCEDURE 679 708	resvascularización percutánea
+T107	PROCEDURE 436 526	dos stents (Luc-Chopin®: 3x12 mm y 2,5x12 mm) a descendente anterior proximal (DA) y media
+T119	PROCEDURE 1767 1776	Analítica
+T83	PROCEDURE 3424 3510	stent en DA proximal y también de stents en CD media y distal, se realizó trombectomía
+T113	PROCEDURE 3575 3613	se administró abciximab intracoronario

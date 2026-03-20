@@ -1,0 +1,76 @@
+T1	SYMPTOM 967 1025	opresión centrotorácica irradiada hacia escápula izquierda
+T4	SYMPTOM 1372 1439	opresión centrotorácica no irradiada que acontece con los esfuerzos
+T5	SYMPTOM 1565 1570	dolor
+T6	SYMPTOM 1583 1589	disnea
+T7	SYMPTOM 1791 1801	Consciente
+T8	SYMPTOM 1804 1813	orientada
+T9	SYMPTOM 1815 1842	Bien perfundida e hidratada
+T10	SYMPTOM 1844 1862	Eupneica en reposo
+T11	SYMPTOM 1884 1905	ingurgitación yugular
+T12	SYMPTOM 1907 1937	Auscultación cardiaca: rítmica
+T13	SYMPTOM 1943 1967	soplo sistólico panfocal
+T14	SYMPTOM 2003 2008	roces
+T15	SYMPTOM 2034 2063	murmullo vesicular conservado
+T16	SYMPTOM 2065 2119	Abdomen blando, depresible, no doloroso a la palpación
+T17	SYMPTOM 2134 2139	masas
+T18	SYMPTOM 2143 2151	megalias
+T19	SYMPTOM 2166 2187	irritación peritoneal
+T20	SYMPTOM 2189 2219	Ruidos hidroaéreos conservados
+T21	SYMPTOM 2221 2271	Pulsos femorales y radiales presentes y simétricos
+T23	SYMPTOM 2442 2455	ritmo sinusal
+T24	SYMPTOM 2542 2556	ascenso en aVR
+T25	SYMPTOM 2558 2570	QRS estrecho
+T26	SYMPTOM 2700 2734	Ondas T negativas simétricas V3-V6
+T27	SYMPTOM 3454 3491	silueta cardiomediastínica conservada
+T28	SYMPTOM 3624 3656	ventrículo izquierdo no dilatado
+T29	SYMPTOM 3777 3797	Acinesia medioapical
+T31	SYMPTOM 5289 5321	ventrículo izquierdo no dilatado
+T32	SYMPTOM 5431 5477	Función sistólica leve-moderadamente deprimida
+T33	SYMPTOM 5503 5522	Acinesia mediapical
+T34	SYMPTOM 5659 5697	Válvula mitral estructuralmente normal
+T36	SYMPTOM 6327 6359	Función biventricular conservada
+T37	SYMPTOM 6572 6577	dolor
+T38	SYMPTOM 6678 6681	tos
+T39	SYMPTOM 6741 6759	dolor era opresivo
+T41	SYMPTOM 6928 6933	dolor
+T42	SYMPTOM 6973 7015	elevación de marcadores de daño miocárdico
+T43	SYMPTOM 7056 7072	elevación de PCR
+T44	SYMPTOM 7126 7173	elevación del segmento ST en cara inferolateral
+T45	SYMPTOM 7196 7213	ondas T negativas
+T46	SYMPTOM 8111 8157	elevación de los marcadores de daño miocárdico
+T47	SYMPTOM 8311 8336	hemodinámicamente estable
+T48	SYMPTOM 8356 8376	hipotensión arterial
+T50	SYMPTOM 8726 8781	ondas T negativas simétricas en precordiales anteriores
+T51	SYMPTOM 8866 8914	dolor torácico de características pericardíticas
+T52	SYMPTOM 9305 9325	hipotensión arterial
+T53	SYMPTOM 9541 9546	edema
+T84	SYMPTOM 7568 7623	aliasing en el tracto de salida de ventrículo izquierdo
+T166	SYMPTOM 8170 8215	alteraciones de la contractilidad segmentaria
+T177	SYMPTOM 3146 3173	fórmula leucocitaria normal
+T192	SYMPTOM 4201 4240	Válvula tricúspide normal en estructura
+T193	SYMPTOM 5877 5916	Válvula tricúspide normal en estructura
+T3	SYMPTOM 2273 2307	Extremidades inferiores sin edemas
+T22	SYMPTOM 2481 2502	PR de duración normal
+T161	SYMPTOM 2507 2539	descenso del PR en cara inferior
+T163	SYMPTOM 2598 2612	Ascenso del ST
+T164	SYMPTOM 4150 4175	Ventrículo derecho normal
+T165	SYMPTOM 4076 4148	Válvula aórtica trivalva con apertura conservada y funcionalmente normal
+T167	SYMPTOM 4428 4458	Raíz de aorta de tamaño normal
+T168	SYMPTOM 4881 4907	aquinesia medioventricular
+T30	SYMPTOM 5752 5824	Válvula aórtica trivalva con apertura conservada y funcionalmente normal
+T175	SYMPTOM 5993 6023	Vena cava inferior no dilatada
+T35	SYMPTOM 6089 6119	Raíz de aorta de tamaño normal
+T173	SYMPTOM 6364 6406	alteraciones de contractilidad segmentaria
+T40	SYMPTOM 7178 7193	descenso del PR
+T49	SYMPTOM 9480 9522	alteraciones de contractilidad segmentaria
+T160	SYMPTOM 9957 10028	Función sistólica de ventrículo izquierdo moderada-gravemente deprimida
+T195	SYMPTOM 10133 10180	Arterias coronarias sin lesiones significativas
+T215	SYMPTOM 3516 3565	condensaciones groseras en el parénquima pulmonar
+T2	SYMPTOM 4053 4074	relajación prolongada
+T162	SYMPTOM 4634 4689	Tronco, descendente anterior y circunfleja sin lesiones
+T170	SYMPTOM 4691 4731	Coronaria derecha dominante sin lesiones
+T172	SYMPTOM 5060 5114	defecto de repleción de contraste a nivel inferoapical
+T174	SYMPTOM 4838 4876	Ventriculografía izquierda no dilatada
+T176	SYMPTOM 5703 5706	SAM
+T178	SYMPTOM 5826 5851	Ventrículo derecho normal
+T179	SYMPTOM 8514 8517	SAM

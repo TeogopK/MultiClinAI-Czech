@@ -1,0 +1,28 @@
+T80	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T101	PROCEDURE 447 464	revascularisation
+T82	PROCEDURE 482 505	cardiac catheterisation
+T84	PROCEDURE 661 689	Transthoracic echocardiogram
+T103	PROCEDURE 675 689	echocardiogram
+T86	PROCEDURE 1005 1022	electrocardiogram
+T87	PROCEDURE 1024 1027	ECG
+T90	PROCEDURE 1796 1804	angio-CT
+T81	PROCEDURE 1893 1913	Physical examination
+T91	PROCEDURE 2069 2077	angio-CT
+T92	PROCEDURE 2338 2358	Cardiac auscultation
+T93	PROCEDURE 2436 2458	Pulmonary auscultation
+T88	PROCEDURE 2697 2700	ECG
+T89	PROCEDURE 2724 2727	ECG
+T94	PROCEDURE 2852 2875	Thoracic CT angiography
+T85	PROCEDURE 3515 3543	transthoracic echocardiogram
+T104	PROCEDURE 3529 3543	echocardiogram
+T95	PROCEDURE 3827 3836	Haemogram
+T83	PROCEDURE 3918 3941	cardiac catheterisation
+T96	PROCEDURE 4125 4142	Thromboaspiration
+T97	PROCEDURE 4526 4542	vasoactive drugs
+T98	PROCEDURE 4718 4747	cardiopulmonary resuscitation
+T99	PROCEDURE 4804 4818	defibrillation
+T100	PROCEDURE 4828 4850	Orotracheal intubation
+T102	PROCEDURE 5365 5382	revascularisation
+T105	PROCEDURE 5440 5454	Echocardiogram
+T106	PROCEDURE 5824 5847	low-flow nasal cannulae
+T107	PROCEDURE 5861 5874	water balance

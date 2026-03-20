@@ -1,0 +1,22 @@
+T3	PROCEDURE 70 86	left glossectomy
+T5	PROCEDURE 91 120	left cervical lymphadenectomy
+T15	PROCEDURE 178 204	adjuvant radiochemotherapy
+T7	PROCEDURE 217 257	three-dimensional conformal radiotherapy
+T4	PROCEDURE 422 424	CT
+T8	PROCEDURE 435 450	extension study
+T11	PROCEDURE 452 472	Pathological anatomy
+T9	PROCEDURE 636 648	chemotherapy
+T10	PROCEDURE 703 715	cervical MRI
+T24	PROCEDURE 796 898	right modified functional cervical lymphadenectomy with resection of the jugular vein and spinal nerve
+T6	PROCEDURE 943 961	interstitial HDRBT
+T26	PROCEDURE 1002 1020	surgical procedure
+T13	PROCEDURE 1028 1042	total excision
+T17	PROCEDURE 1159 1330	We used a single-plane implant with five plastic tubes (separated by 1cm to minimise the risk of vascular toxicity) and Nucletron® comfort buttons (catheter-skin fixation)
+T12	PROCEDURE 1307 1329	catheter-skin fixation
+T18	PROCEDURE 1340 1390	helical CT slices (5mm) for therapeutic simulation
+T28	PROCEDURE 1392 1401	Pathology
+T14	PROCEDURE 1533 1538	HDRBT
+T16	PROCEDURE 1733 1740	surgery
+T1	PROCEDURE 1790 1807	functional status
+T2	PROCEDURE 1809 1829	physical examination
+T33	PROCEDURE 1856 1872	cervical CT scan

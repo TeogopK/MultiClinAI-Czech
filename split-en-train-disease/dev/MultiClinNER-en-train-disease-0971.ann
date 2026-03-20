@@ -1,0 +1,45 @@
+T28	DISEASE 92 101	allergies
+T29	DISEASE 103 112	ex-smoker
+T30	DISEASE 114 126	hypertensive
+T1	DISEASE 128 141	dyslipidaemic
+T31	DISEASE 156 178	chronic kidney disease
+T2	DISEASE 180 183	CKD
+T71	DISEASE 198 218	obstructive uropathy
+T70	DISEASE 198 254	obstructive uropathy due to benign prostatic hypertrophy
+T32	DISEASE 347 371	infectious complications
+T33	DISEASE 673 721	Hyperparathyroidism and anaemia secondary to CKD
+T34	DISEASE 848 871	end-stage renal failure
+T35	DISEASE 1013 1027	severe anaemia
+T37	DISEASE 1383 1395	Hepatomegaly
+T26	DISEASE 2054 2066	cardiomegaly
+T38	DISEASE 2081 2101	pericardial effusion
+T47	DISEASE 2150 2166	pleural effusion
+T27	DISEASE 2184 2209	severely hypertrophied LV
+T11	DISEASE 2288 2307	LA severely dilated
+T68	DISEASE 2347 2361	valvulopathies
+T39	DISEASE 2377 2397	pericardial effusion
+T52	DISEASE 2754 2780	Bilateral pleural effusion
+T69	DISEASE 3120 3137	Pericardial fluid
+T40	DISEASE 3469 3489	pericardial effusion
+T49	DISEASE 3496 3512	pleural effusion
+T53	DISEASE 3554 3565	atelectasis
+T54	DISEASE 3577 3590	renal atrophy
+T13	DISEASE 3595 3609	hydronephrosis
+T55	DISEASE 3620 3633	renal tumours
+T41	DISEASE 3734 3754	pericardial effusion
+T51	DISEASE 3839 3866	severe pericardial effusion
+T14	DISEASE 3941 3950	tamponade
+T43	DISEASE 3990 4010	pericardial effusion
+T44	DISEASE 4161 4181	pericardial effusion
+T50	DISEASE 4218 4234	pleural effusion
+T45	DISEASE 4300 4320	pericardial effusion
+T56	DISEASE 4769 4778	neoplasia
+T60	DISEASE 4867 4874	anaemia
+T62	DISEASE 4876 4899	gastrointestinal losses
+T63	DISEASE 4901 4911	haemolysis
+T64	DISEASE 4915 4933	metabolic deficits
+T65	DISEASE 5035 5056	chronic renal failure
+T72	DISEASE 5064 5084	obstructive uropathy
+T66	DISEASE 5086 5116	Malignant pericardial effusion
+T36	DISEASE 5118 5167	Severe anaemia secondary to chronic renal disease
+T67	DISEASE 5169 5184	Renal neoplasia

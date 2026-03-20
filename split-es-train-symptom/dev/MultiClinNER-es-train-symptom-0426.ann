@@ -1,0 +1,9 @@
+T1	SYMPTOM 88 124	tumoración en la región preauricular
+T2	SYMPTOM 1088 1115	pedículo dependiente de ATM
+T3	SYMPTOM 232 279	dolor en región temporal, cervical y periocular
+T4	SYMPTOM 770 813	chasquido articular en ambas articulaciones
+T5	SYMPTOM 1137 1241	posición del menisco articular y desplazamiento del cóndilo mandibular con boca abierta y cerrada normal
+T6	SYMPTOM 546 552	nódulo
+T7	SYMPTOM 646 689	tumoración es de consistencia blanda, móvil
+A1	IMAGEN T2
+A2	IMAGEN T5

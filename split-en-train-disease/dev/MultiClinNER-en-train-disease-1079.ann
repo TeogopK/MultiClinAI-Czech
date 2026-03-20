@@ -1,0 +1,37 @@
+T11	DISEASE 99 133	ascending thoracic aortic aneurysm
+T12	DISEASE 138 200	severe aortic insufficiency secondary to bicuspid aortic valve
+T19	DISEASE 412 435	anteroseptal infarction
+T20	DISEASE 505 532	severe systolic dysfunction
+T21	DISEASE 1043 1056	heart failure
+T23	DISEASE 1544 1553	infection
+T24	DISEASE 1726 1750	Left bundle branch block
+T13	DISEASE 1810 1832	dilated left ventricle
+T14	DISEASE 1922 1962	Moderate functional mitral insufficiency
+T25	DISEASE 2073 2096	tricuspid insufficiency
+T15	DISEASE 2098 2100	TI
+T33	DISEASE 2214 2234	mitral insufficiency
+T16	DISEASE 2236 2276	moderate functional mitral insufficiency
+T26	DISEASE 2543 2545	it
+T17	DISEASE 2663 2755	skin lesion in the anterior mediastinal region, in contact with the ascending thoracic aorta
+T18	DISEASE 3001 3017	cutaneous lesion
+T37	DISEASE 3061 3075	pseudoaneurysm
+T27	DISEASE 3243 3245	MR
+T38	DISEASE 3650 3664	pseudoaneurysm
+T39	DISEASE 3701 3715	pseudoaneurysm
+T29	DISEASE 4089 4091	MR
+T28	DISEASE 4124 4134	dilated LV
+T30	DISEASE 4299 4301	MR
+T32	DISEASE 4342 4362	severe functional MR
+T34	DISEASE 4349 4359	functional
+T41	DISEASE 4382 4414	Dehiscence of the mitral annulus
+T35	DISEASE 4797 4817	mitral insufficiency
+T42	DISEASE 4865 4907	bilateral SARS-CoV-2 coronavirus pneumonia
+T43	DISEASE 4953 4982	respiratory distress syndrome
+T46	DISEASE 5237 5258	Bicuspid aortic valve
+T47	DISEASE 5260 5285	Ascending aortic aneurysm
+T48	DISEASE 5359 5387	Type V myocardial infarction
+T22	DISEASE 5412 5425	Heart failure
+T49	DISEASE 5456 5492	Pseudoaneurysm of valved aortic tube
+T50	DISEASE 5494 5532	Severe functional mitral regurgitation
+T31	DISEASE 5612 5675	Dehiscence of mitral valvuloplasty ring with severe residual MR
+T51	DISEASE 5677 5714	Severe bilateral SARS-CoV-2 pneumonia

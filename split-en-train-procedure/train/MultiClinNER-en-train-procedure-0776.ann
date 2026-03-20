@@ -1,0 +1,23 @@
+T49	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T51	PROCEDURE 734 755	Ventimask at 50% FiO2
+T50	PROCEDURE 767 787	Physical examination
+T52	PROCEDURE 877 905	cardiopulmonary auscultation
+T53	PROCEDURE 1518 1532	urine sediment
+T54	PROCEDURE 1608 1625	ELECTROCARDIOGRAM
+T55	PROCEDURE 1627 1630	ECG
+T56	PROCEDURE 1775 1805	Transthoracic echocardiography
+T67	PROCEDURE 1789 1805	echocardiography
+T58	PROCEDURE 2644 2663	respiratory support
+T59	PROCEDURE 2695 2730	non-invasive mechanical ventilation
+T60	PROCEDURE 2896 2926	intravenous diuretic treatment
+T61	PROCEDURE 2931 2956	renal replacement therapy
+T62	PROCEDURE 2962 2977	haemofiltration
+T57	PROCEDURE 3130 3160	transthoracic echocardiography
+T68	PROCEDURE 3144 3160	echocardiography
+T63	PROCEDURE 3382 3409	coronary angiographic study
+T64	PROCEDURE 3545 3564	ventilatory support
+T65	PROCEDURE 3578 3591	haemodialysis
+T69	PROCEDURE 3723 3739	echocardiography
+T70	PROCEDURE 3817 3836	immunological study
+T66	PROCEDURE 4200 4213	haemodialysis
+T71	PROCEDURE 4229 4257	echocardiographic monitoring

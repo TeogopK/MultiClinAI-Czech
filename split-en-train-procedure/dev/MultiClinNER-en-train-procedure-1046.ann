@@ -1,0 +1,32 @@
+T38	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 231 254	normal vaginal delivery
+T39	PROCEDURE 1187 1201	oxygen therapy
+T40	PROCEDURE 1206 1218	auscultation
+T42	PROCEDURE 1346 1368	pulmonary auscultation
+T3	PROCEDURE 1595 1611	Laboratory tests
+T65	PROCEDURE 1613 1627	renal function
+T66	PROCEDURE 1666 1678	electrolytes
+T43	PROCEDURE 1689 1702	Liver profile
+T44	PROCEDURE 1821 1832	Coagulation
+T45	PROCEDURE 1851 1862	Chest X-ray
+T46	PROCEDURE 1958 1975	Electrocardiogram
+T47	PROCEDURE 1977 1980	ECG
+T49	PROCEDURE 2104 2134	Transthoracic echocardiography
+T4	PROCEDURE 2136 2139	TTE
+T63	PROCEDURE 2960 2974	colour Doppler
+T51	PROCEDURE 3199 3217	Angiographic study
+T52	PROCEDURE 3245 3264	general anaesthesia
+T54	PROCEDURE 3288 3306	Contrast injection
+T12	PROCEDURE 3324 3354	anterograde filling of the RCA
+T55	PROCEDURE 3763 3772	anamnesis
+T48	PROCEDURE 3830 3833	ECG
+T50	PROCEDURE 3916 3946	Transthoracic echocardiography
+T64	PROCEDURE 4022 4036	colour Doppler
+T56	PROCEDURE 4424 4435	Aortography
+T53	PROCEDURE 4514 4533	general anaesthesia
+T16	PROCEDURE 4538 4566	injecting the contrast agent
+T17	PROCEDURE 4864 4893	vasoactive/inothropic support
+T59	PROCEDURE 4902 4918	echocardiography
+T60	PROCEDURE 4972 5002	mechanical circulatory support
+T61	PROCEDURE 5320 5345	revascularisation surgery
+T62	PROCEDURE 5349 5360	coronary CT

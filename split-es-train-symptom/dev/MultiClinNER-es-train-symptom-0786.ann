@@ -1,0 +1,39 @@
+T1	SYMPTOM 460 466	disnea
+T3	SYMPTOM 1350 1390	edematización en extremidades inferiores
+T4	SYMPTOM 1398 1412	dolor torácico
+T5	SYMPTOM 1414 1427	palpitaciones
+T6	SYMPTOM 1870 1904	Pulso venoso yugular (PVY) elevado
+T7	SYMPTOM 1929 1959	Auscultación cardiaca: rítmica
+T8	SYMPTOM 1961 1999	soplo sistólico paraesternal izquierdo
+T9	SYMPTOM 2030 2051	crepitantes bibasales
+T10	SYMPTOM 2053 2080	Abdomen: blando, depresible
+T13	SYMPTOM 2278 2291	ritmo sinusal
+T14	SYMPTOM 2335 2347	QRS estrecho
+T15	SYMPTOM 4117 4138	cefalización de flujo
+T16	SYMPTOM 4191 4220	pinzamiento seno costofrénico
+T18	SYMPTOM 4372 4403	fracción de eyección conservada
+T19	SYMPTOM 4899 4936	ventrículo izquierdo de tamaño normal
+T20	SYMPTOM 4949 5075	engrosamiento de la pared anterior basal (16 m), de la pared lateral basal (13 mm), del septo medio (14 mm) y del septo apical
+T21	SYMPTOM 5103 5136	alteraciones en la contractilidad
+T22	SYMPTOM 5245 5325	Ventrículo derecho de tamaño normal con engrosamiento miocárdico de forma difusa
+T24	SYMPTOM 5377 5415	Engrosamiento del septo interauricular
+T25	SYMPTOM 6552 6558	disnea
+T27	SYMPTOM 7196 7207	hipotensión
+T28	SYMPTOM 7515 7529	dolor torácico
+T30	SYMPTOM 9066 9118	Función sistólica de ventrículo izquierdo conservada
+T152	SYMPTOM 1191 1209	disnea de esfuerzo
+T156	SYMPTOM 2142 2170	edema hasta región pretibial
+T2	SYMPTOM 4432 4458	Miocardio hiperrefringente
+T12	SYMPTOM 4534 4584	Ventrículo derecho hipertrófico con función normal
+T23	SYMPTOM 6222 6257	Inmunohistoquímica: lambda positivo
+T37	SYMPTOM 6259 6318	Kappa, componente A, componente P y transtiretina negativos
+T163	SYMPTOM 5357 5375	Función conservada
+T181	SYMPTOM 3404 3482	componente monoclonal adicional en gamma media también de cadena ligera Lambda
+T29	SYMPTOM 2349 2392	Patrón de pseudoinfarto anterior (QS V1-V4)
+T147	SYMPTOM 3358 3401	banda monoclonal IgG Lambda en gamma tardía
+T148	SYMPTOM 4140 4162	líneas A y B de Kerley
+T149	SYMPTOM 5584 5731	realce difuso de la pared del miocardio del ventrículo izquierdo, del ventrículo derecho, del septo interauricular y de la pared de ambas aurículas
+T150	SYMPTOM 5937 5970	arterias coronarias sin estenosis
+T151	SYMPTOM 6059 6110	tejido adiposo con presencia de depósitos nodulares
+T153	SYMPTOM 6091 6152	depósitos nodulares que se tiñen con la tinción de rojo Congo
+T158	SYMPTOM 8434 8471	gastroscopia sin hallazgos relevantes

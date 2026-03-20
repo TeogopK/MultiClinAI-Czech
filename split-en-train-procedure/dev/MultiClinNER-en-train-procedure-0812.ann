@@ -1,0 +1,33 @@
+T68	PROCEDURE 129 146	thiazide diuretic
+T46	PROCEDURE 944 964	physical examination
+T48	PROCEDURE 966 983	electrocardiogram
+T50	PROCEDURE 985 996	chest X-ray
+T1	PROCEDURE 1008 1024	laboratory tests
+T52	PROCEDURE 1251 1281	cardiorespiratory auscultation
+T47	PROCEDURE 1455 1475	physical examination
+T49	PROCEDURE 1522 1539	Electrocardiogram
+T51	PROCEDURE 1608 1619	Chest X-ray
+T2	PROCEDURE 1669 1672	CBC
+T74	PROCEDURE 1683 1695	biochemistry
+T69	PROCEDURE 1701 1736	serial markers of myocardial damage
+T3	PROCEDURE 1745 1759	red blood coun
+T70	PROCEDURE 1765 1776	coagulation
+T53	PROCEDURE 1852 1882	transthoracic echocardiography
+T54	PROCEDURE 1981 1990	ergometry
+T56	PROCEDURE 2341 2371	post-exercise echocardiography
+T57	PROCEDURE 2440 2454	Echocardiogram
+T55	PROCEDURE 2714 2723	Ergometry
+T61	PROCEDURE 3666 3690	anti-ischaemic treatment
+T71	PROCEDURE 3692 3705	beta-blockers
+T62	PROCEDURE 3732 3743	coronary CT
+T72	PROCEDURE 3765 3793	treatment with beta-blockers
+T4	PROCEDURE 3829 3831	CT
+T73	PROCEDURE 4309 4337	treatment with beta-blockers
+T65	PROCEDURE 4384 4418	dobutamine stress echocardiography
+T63	PROCEDURE 4428 4450	beta-blocker treatment
+T5	PROCEDURE 4478 4502	test to detect ischaemia
+T66	PROCEDURE 4789 4809	coronary angiography
+T6	PROCEDURE 4906 4908	CT
+T7	PROCEDURE 4925 4945	injection of the LAD
+T67	PROCEDURE 5218 5242	hypercoagulability study
+T64	PROCEDURE 5310 5332	beta-blocker treatment

@@ -1,0 +1,55 @@
+T93	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T88	PROCEDURE 309 339	percutaneous revascularisation
+T1	PROCEDURE 366 456	implantation of two drug-eluting stents in the right coronary artery and circumflex artery
+T90	PROCEDURE 613 626	anticoagulate
+T91	PROCEDURE 986 1001	haemofiltration
+T92	PROCEDURE 1695 1737	computed tomography (CT) scan of the chest
+T2	PROCEDURE 1716 1718	CT
+T94	PROCEDURE 2702 2722	Physical examination
+T95	PROCEDURE 2829 2843	nasal cannulae
+T96	PROCEDURE 2968 2988	Cardiac auscultation
+T97	PROCEDURE 3081 3103	Pulmonary auscultation
+T98	PROCEDURE 3253 3270	Electrocardiogram
+T99	PROCEDURE 3272 3275	ECG
+T100	PROCEDURE 3502 3505	ECG
+T4	PROCEDURE 3520 3531	Blood tests
+T102	PROCEDURE 4020 4033	Lipid profile
+T3	PROCEDURE 4115 4127	Iron profile
+T103	PROCEDURE 4240 4252	Microbiology
+T104	PROCEDURE 4254 4268	Blood cultures
+T124	PROCEDURE 4303 4325	Nasopharyngeal exudate
+T105	PROCEDURE 4359 4372	Urine culture
+T125	PROCEDURE 4384 4429	Legionella and Pneumococcus antigens in urine
+T106	PROCEDURE 4441 4452	Chest X-ray
+T107	PROCEDURE 4673 4701	Transthoracic echocardiogram
+T108	PROCEDURE 5505 5536	Diagnostic coronary angiography
+T6	PROCEDURE 6203 6303	Therapeutic coronary angiography: access via the right femoral artery guided by ultrasound, contrast
+T5	PROCEDURE 6312 6355	Intervencionsimo on the left coronary trunk
+T126	PROCEDURE 6424 6442	DK-Crush technique
+T7	PROCEDURE 6444 6474	Drug-eluting implant in TCI-Cx
+T127	PROCEDURE 6482 6497	kissing-balloon
+T8	PROCEDURE 6502 6551	second drug-eluting stent is implanted in LMCA-AD
+T128	PROCEDURE 6560 6575	kissing-balloon
+T109	PROCEDURE 6612 6616	IVUS
+T110	PROCEDURE 6626 6675	Vascular closure with percutaneous closure device
+T111	PROCEDURE 6721 6732	fluoroscopy
+T129	PROCEDURE 6760 6772	echo-Doppler
+T101	PROCEDURE 7191 7194	ECG
+T123	PROCEDURE 7238 7266	markers of myocardial damage
+T9	PROCEDURE 7357 7404	two red blood cell concentrates were transfused
+T10	PROCEDURE 7406 7437	intravenous depletive treatment
+T112	PROCEDURE 7520 7565	empirical broad-spectrum antibiotic treatment
+T11	PROCEDURE 7615 7627	antiplatelet
+T113	PROCEDURE 7714 7729	anticoagulation
+T117	PROCEDURE 7731 7751	Coronary angiography
+T12	PROCEDURE 8198 8200	CT
+T122	PROCEDURE 8291 8302	haematology
+T119	PROCEDURE 8666 8677	transfusion
+T13	PROCEDURE 8963 9005	percutaneous revascularisation of the LMCA
+T14	PROCEDURE 9043 9106	coronary angiography was performed via the right femoral artery
+T15	PROCEDURE 9112 9208	implantation of two drug-eluting stents in the LMCA-AD and LMCA-Cx using the DK-Crusch technique
+T120	PROCEDURE 9305 9329	antithrombotic treatment
+T16	PROCEDURE 9350 9377	simple antiplatelet therapy
+T114	PROCEDURE 9414 9429	anticoagulation
+T121	PROCEDURE 9780 9862	Revascularisation of distal left main coronary artery with two drug-eluting stents
+T17	PROCEDURE 9917 9980	Coronary artery disease partially revascularised percutaneously

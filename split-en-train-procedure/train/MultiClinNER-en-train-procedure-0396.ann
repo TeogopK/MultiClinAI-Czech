@@ -1,0 +1,12 @@
+T1	PROCEDURE 312 332	Physical examination
+T7	PROCEDURE 350 364	deep palpation
+T9	PROCEDURE 489 501	renal Murphy
+T16	PROCEDURE 609 623	renal function
+T8	PROCEDURE 691 715	Reno-vesical radiography
+T18	PROCEDURE 779 857	Abdominal-pelvic computed axial tomography with intravenous contrast injection
+T4	PROCEDURE 1119 1142	pecutaneous nephrostomy
+T6	PROCEDURE 1208 1219	nephrostomy
+T25	PROCEDURE 1272 1317	Intravenous broad-spectrum antibiotic therapy
+T3	PROCEDURE 1422 1452	right nephrectomy by lombotomy
+T2	PROCEDURE 2060 2084	Histological examination
+T34	PROCEDURE 2735 2742	surgery

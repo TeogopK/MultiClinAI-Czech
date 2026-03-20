@@ -1,0 +1,38 @@
+T1	PROCEDURE 63 88	treatment with corticoids
+T2	PROCEDURE 99 140	acupuncture treatment for pain management
+T3	PROCEDURE 329 340	blood tests
+T4	PROCEDURE 342 354	spinal X-ray
+T87	PROCEDURE 739 769	empirical antibiotic treatment
+T62	PROCEDURE 817 837	CT scan of the brain
+T5	PROCEDURE 839 873	lumbar puncture and synovial fluid
+T63	PROCEDURE 1071 1085	echocardiogram
+T66	PROCEDURE 1099 1113	blood cultures
+T67	PROCEDURE 1116 1136	Physical examination
+T68	PROCEDURE 1303 1323	Cardiac auscultation
+T69	PROCEDURE 1360 1382	Pulmonary auscultation
+T6	PROCEDURE 1571 1574	CBC
+T70	PROCEDURE 1777 1788	CSF culture
+T71	PROCEDURE 1800 1813	Blood culture
+T7	PROCEDURE 1864 1890	Thoracic-abdominal CT scan
+T72	PROCEDURE 2756 2769	blood culture
+T8	PROCEDURE 2867 2870	TTE
+T9	PROCEDURE 2875 2878	TEE
+T74	PROCEDURE 2880 2908	Transthoracic echocardiogram
+T75	PROCEDURE 3861 3891	Transesophageal echocardiogram
+T77	PROCEDURE 6119 6139	antibiotic treatment
+T12	PROCEDURE 6206 6213	surgery
+T11	PROCEDURE 6348 6366	surgical procedure
+T10	PROCEDURE 6382 6451	infusion of vasoactive drugs (noradrenaline, dobutamine, vasopressin)
+T13	PROCEDURE 6864 6910	replace the valve with a mechanical prosthesis
+T79	PROCEDURE 7025 7105	reconstruction of the tissue, using prolene stitches supported by a Teflon patch
+T14	PROCEDURE 7335 7346	examination
+T15	PROCEDURE 7394 7412	window of sedation
+T81	PROCEDURE 7470 7478	sedation
+T16	PROCEDURE 7494 7519	anti-combustion treatment
+T17	PROCEDURE 7581 7597	cranial CAT scan
+T83	PROCEDURE 7734 7749	haemofiltration
+T82	PROCEDURE 7827 7835	sedation
+T18	PROCEDURE 7858 7878	clinical examination
+T84	PROCEDURE 7883 7886	EEG
+T86	PROCEDURE 7921 7937	Vasoactive drugs
+T19	PROCEDURE 8126 8133	surgery

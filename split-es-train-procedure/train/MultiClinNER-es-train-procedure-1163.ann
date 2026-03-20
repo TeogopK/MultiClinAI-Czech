@@ -1,0 +1,51 @@
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 829 842	gafas nasales
+T88	PROCEDURE 859 877	exploración física
+T89	PROCEDURE 939 957	electrocardiograma
+T90	PROCEDURE 1503 1518	coronariografía
+T91	PROCEDURE 1676 1691	coronariografía
+T92	PROCEDURE 2091 2153	ICP a CD próximo-medial con implante de stent no farmacoactivo
+T93	PROCEDURE 2208 2240	ecografía cardiaca transtorácica
+T94	PROCEDURE 2430 2479	se implanta balón de contrapulsación intraaórtico
+T95	PROCEDURE 2679 2697	exploración física
+T96	PROCEDURE 2776 2797	Auscultación cardiaca
+T97	PROCEDURE 2906 2931	Auscultación respiratoria
+T98	PROCEDURE 3042 3045	ECG
+T99	PROCEDURE 3498 3513	Coronariografía
+T100	PROCEDURE 4195 4230	canula ostium de CD con catéter AR2
+T101	PROCEDURE 4232 4282	se pasa guía a distalidad de descendente posterior
+T102	PROCEDURE 4381 4415	implante de stent no farmacoactivo
+T103	PROCEDURE 4516 4539	ICP a CD próximo-medial
+T104	PROCEDURE 4552 4584	Ecografía cardiaca transtorácica
+T105	PROCEDURE 4713 4751	Ecocardiografía cardiaca transtorácica
+T106	PROCEDURE 5453 5485	ecografía cardiaca transtorácica
+T107	PROCEDURE 5779 5867	implante de sistema ECMO (extracorporeal membrane oxygenation) veno- arterial periférica
+T108	PROCEDURE 5883 5908	cirugía correctora de CIV
+T109	PROCEDURE 6054 6058	ECMO
+T110	PROCEDURE 6097 6176	cierre de CIV del septo posterior basal y medio con parche de pericardio bovino
+T111	PROCEDURE 6179 6235	bypass de arteria mamaria interna a descendente anterior
+T112	PROCEDURE 6248 6262	ecocardiograma
+T113	PROCEDURE 6309 6325	soporte con ECMO
+T114	PROCEDURE 6637 6653	soporte con ECMO
+T116	PROCEDURE 6813 6825	retirar ECMO
+T117	PROCEDURE 6918 6946	retirada de BCIA e inotropos
+T118	PROCEDURE 6966 7002	tratamiento oral con betabloqueantes
+T119	PROCEDURE 7011 7059	antagonistas de los receptores de la aldosterona
+T120	PROCEDURE 7145 7165	weaning respiratorio
+T121	PROCEDURE 7191 7215	traqueostomía percutánea
+T122	PROCEDURE 7220 7242	intubación orotraqueal
+T123	PROCEDURE 7585 7610	tratamiento neurohormonal
+T124	PROCEDURE 7645 7655	diuréticos
+T125	PROCEDURE 7682 7691	ecografía
+T126	PROCEDURE 8391 8429	Cierre con parche de pericardio bovino
+T127	PROCEDURE 8431 8466	Bypass arteria mamaria interna a DA
+T136	PROCEDURE 6001 6019	aminas vasoactivas
+T138	PROCEDURE 7004 7008	IECA
+T139	PROCEDURE 3274 3283	Analítica
+T154	PROCEDURE 2648 2671	intervención quirúrgica
+T155	PROCEDURE 6271 6294	intervención quirúrgica
+T9	PROCEDURE 1231 1251	Se activa código IAM
+T143	PROCEDURE 5407 5411	BCIA
+T145	PROCEDURE 6767 6771	BCIA
+T146	PROCEDURE 6841 6845	BCIA
+T147	PROCEDURE 8265 8289	ICPP a CD proximal-media

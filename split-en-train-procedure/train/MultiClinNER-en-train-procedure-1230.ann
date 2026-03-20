@@ -1,0 +1,65 @@
+T129	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T110	PROCEDURE 399 418	thrombophilia study
+T1	PROCEDURE 533 555	surgical interventions
+T112	PROCEDURE 557 572	cholecystectomy
+T114	PROCEDURE 802 817	anticoagulation
+T2	PROCEDURE 819 844	anticoagulation treatment
+T116	PROCEDURE 1188 1225	non-steroidal anti-inflammatory drugs
+T117	PROCEDURE 1395 1412	electrocardiogram
+T118	PROCEDURE 1414 1417	ECG
+T3	PROCEDURE 1579 1697	emergent catheterisation was performed via the left radial route according to the usual technique with a 6F introducer
+T124	PROCEDURE 1799 1816	Thromboaspiration
+T4	PROCEDURE 1913 1949	lesion was predilated with a balloon
+T5	PROCEDURE 1953 1985	drug-eluting stent was implanted
+T6	PROCEDURE 1994 2055	proximal segment of the stent was post-dilated with a balloon
+T7	PROCEDURE 2193 2220	intracoronary nitroglycerin
+T8	PROCEDURE 2232 2303	percutaneous coronary intervention (PCI) balloon/guidewire manipulation
+T9	PROCEDURE 2268 2271	PCI
+T126	PROCEDURE 2427 2451	electrical cardioversion
+T147	PROCEDURE 2456 2474	vasoactive support
+T10	PROCEDURE 2621 2641	antiplatelet therapy
+T127	PROCEDURE 2774 2813	portable transthoracic echocardiography
+T11	PROCEDURE 2964 2977	anticoagulant
+T128	PROCEDURE 3160 3180	coronary angiography
+T12	PROCEDURE 3220 3290	stent in the LAD was evidenced and balloon predilatation was performed
+T125	PROCEDURE 3571 3588	thromboaspiration
+T130	PROCEDURE 3683 3703	PHYSICAL EXAMINATION
+T13	PROCEDURE 3776 3799	Ventimask with FiO2 50%
+T119	PROCEDURE 4023 4026	ECG
+T120	PROCEDURE 4038 4041	ECG
+T121	PROCEDURE 4191 4194	ECG
+T132	PROCEDURE 4209 4224	catheterisation
+T122	PROCEDURE 4418 4421	ECG
+T123	PROCEDURE 4440 4443	ECG
+T133	PROCEDURE 4516 4527	Chest X-ray
+T14	PROCEDURE 4640 4643	CBC
+T149	PROCEDURE 4812 4824	Biochemistry
+T150	PROCEDURE 4885 4896	haemostasis
+T134	PROCEDURE 5019 5032	Lipid profile
+T135	PROCEDURE 5141 5168	Glycaemic-metabolic profile
+T15	PROCEDURE 5237 5249	Iron profile
+T136	PROCEDURE 5402 5423	Thrombophilia profile
+T137	PROCEDURE 5930 5944	Tumour markers
+T138	PROCEDURE 6119 6140	Immunological profile
+T16	PROCEDURE 6234 6256	ANA immunofluorescence
+T17	PROCEDURE 6315 6318	IFA
+T140	PROCEDURE 6489 6503	Echocardiogram
+T18	PROCEDURE 7245 7271	Cardiac magnetic resonance
+T19	PROCEDURE 7273 7276	CMR
+T141	PROCEDURE 7615 7629	STIR sequences
+T20	PROCEDURE 7863 7934	Perfusion study (video 10): Gadoteric acid (0.15 mm/kg) is administered
+T21	PROCEDURE 8035 8073	Necrosis and viability detection study
+T22	PROCEDURE 8697 8710	Total Body CT
+T143	PROCEDURE 8712 8723	Thoracic CT
+T23	PROCEDURE 8908 8930	Abdominopelvic CT scan
+T113	PROCEDURE 9251 9266	Cholecystectomy
+T24	PROCEDURE 9661 9713	vasoactive support with noradrenaline and dobutamine
+T25	PROCEDURE 9736 9791	implant an intra-aortic balloon counterpulsation device
+T26	PROCEDURE 9805 9836	weaning of haemodynamic support
+T27	PROCEDURE 9856 9894	withdrawal of balloon counterpulsation
+T152	PROCEDURE 10124 10134	monitoring
+T145	PROCEDURE 10224 10227	MRI
+T146	PROCEDURE 11061 11089	complete thrombophilia study
+T28	PROCEDURE 11093 11138	CT scan of the abdomen and abdomen and pelvis
+T29	PROCEDURE 11188 11202	blood analysis
+T30	PROCEDURE 11989 12049	Primary angioplasty with DES implantation in complicated LAD

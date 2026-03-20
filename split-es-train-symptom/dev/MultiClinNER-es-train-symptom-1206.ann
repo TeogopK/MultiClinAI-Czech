@@ -1,0 +1,31 @@
+T2	SYMPTOM 353 400	disnea progresiva, llegando a mínimos esfuerzos
+T3	SYMPTOM 406 414	ortopnea
+T4	SYMPTOM 417 444	disnea paroxística nocturna
+T5	SYMPTOM 452 468	dolor precordial
+T6	SYMPTOM 470 483	palpitaciones
+T8	SYMPTOM 494 500	fiebre
+T10	SYMPTOM 590 597	Afebril
+T12	SYMPTOM 666 672	soplos
+T13	SYMPTOM 678 699	crepitantes bibasales
+T14	SYMPTOM 701 718	Abdomen globuloso
+T15	SYMPTOM 724 737	líquido libre
+T16	SYMPTOM 741 749	megalias
+T17	SYMPTOM 751 789	EEII: edemas con fóvea en 1⁄2 inferior
+T18	SYMPTOM 791 832	Pulsos periféricos presentes y simétricos
+T19	SYMPTOM 837 883	soplos a nivel carotídeo, abdominal ni femoral
+T21	SYMPTOM 910 955	Hemograma, bioquímica y coagulación: normales
+T22	SYMPTOM 1044 1053	hipoxemia
+T23	SYMPTOM 1056 1067	hipercapnia
+T24	SYMPTOM 1295 1316	VI levemente dilatado
+T25	SYMPTOM 1365 1413	función sistólica global moderadamente deprimida
+T30	SYMPTOM 2272 2284	QRS estrecho
+T31	SYMPTOM 2554 2572	desaturación grave
+T32	SYMPTOM 3180 3193	ritmo sinusal
+T107	SYMPTOM 3085 3098	ritmo sinusal
+T7	SYMPTOM 635 650	RsCs arrítmicos
+T9	SYMPTOM 988 1019	HbA1c, TSH, colesterol normales
+T11	SYMPTOM 1536 1555	AO normofuncionante
+T112	SYMPTOM 610 618	leve RHY
+T27	SYMPTOM 3257 3279	ventrículo no dilatado
+T28	SYMPTOM 503 521	clínica infecciosa
+T29	SYMPTOM 1426 1457	VD con función afecta por TAPSE

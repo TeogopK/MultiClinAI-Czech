@@ -1,0 +1,47 @@
+T1	SYMPTOM 98 104	disnea
+T2	SYMPTOM 107 122	síndrome febril
+T5	SYMPTOM 1139 1160	tos con expectoración
+T6	SYMPTOM 1228 1242	dolor torácico
+T7	SYMPTOM 1266 1269	tos
+T8	SYMPTOM 1336 1412	Disnea progresiva, inicialmente de grandes esfuerzos hasta hacerse de reposo
+T9	SYMPTOM 1443 1451	ortopnea
+T10	SYMPTOM 1467 1494	disnea paroxística nocturna
+T11	SYMPTOM 1496 1516	Sensación distérmica
+T12	SYMPTOM 1521 1527	fiebre
+T13	SYMPTOM 1717 1724	afebril
+T14	SYMPTOM 1726 1736	Consciente
+T15	SYMPTOM 1739 1748	orientado
+T16	SYMPTOM 1750 1760	Caquéctico
+T17	SYMPTOM 1766 1792	buena perfusión periférica
+T18	SYMPTOM 1849 1870	Ingurgitación yugular
+T19	SYMPTOM 1872 1901	Auscultación cardíaca rítmica
+T20	SYMPTOM 1908 1914	soplos
+T21	SYMPTOM 1916 1945	Murmullo vesicular conservado
+T22	SYMPTOM 1947 1974	Abdomen blando y depresible
+T24	SYMPTOM 1996 2029	edemas en extremidades inferiores
+T25	SYMPTOM 2109 2121	QRS estrecho
+T26	SYMPTOM 2163 2192	Analítica: urea y Cr normales
+T28	SYMPTOM 2333 2362	condensación en base pulmonar
+T29	SYMPTOM 2390 2399	VI normal
+T30	SYMPTOM 2404 2453	función sistólica global y segmentaria conservada
+T31	SYMPTOM 2455 2469	VD no dilatado
+T32	SYMPTOM 2476 2504	función sistólica conservada
+T33	SYMPTOM 2988 3017	hemocultivos fueron negativos
+T34	SYMPTOM 3023 3059	antígeno neumococo positivo en orina
+T36	SYMPTOM 3562 3574	taquicárdico
+T112	SYMPTOM 2067 2086	taquicardia sinusal
+T3	SYMPTOM 3577 3588	taquipnéico
+T117	SYMPTOM 1794 1815	Taquipnéico en reposo
+T119	SYMPTOM 2126 2159	alteraciones de la repolarización
+T121	SYMPTOM 3299 3322	compromiso hemodinámico
+T125	SYMPTOM 3396 3415	estabilidad clínica
+T126	SYMPTOM 806 819	fallecimiento
+T27	SYMPTOM 1147 1216	expectoración inicialmente mucopurulenta y posteriormente herrumbrosa
+T35	SYMPTOM 1817 1847	Múltiples zonas de venopunción
+T37	SYMPTOM 2837 2854	líquido purulento
+T59	SYMPTOM 2884 2925	líquido objetivan cocos gram + en cadenas
+T87	SYMPTOM 2932 2982	cultivo fue positivo para Streptococcus pneumoniae
+T88	SYMPTOM 3256 3284	líquido en el saco posterior
+T89	SYMPTOM 3328 3347	colapsos cavitarios
+T90	SYMPTOM 3351 3377	variaciones respirofásicas
+T91	SYMPTOM 3723 3791	pericardiocentesis evacuadora, aspirando 250 ml de líquido purulento

@@ -1,0 +1,65 @@
+T38	SYMPTOM 876 908	central thoracic pinch-like pain
+T1	SYMPTOM 1011 1023	night sweats
+T39	SYMPTOM 1025 1038	arthromyalgia
+T2	SYMPTOM 1040 1048	asthenia
+T3	SYMPTOM 1053 1075	a feeling of dystrophy
+T4	SYMPTOM 1083 1088	fever
+T40	SYMPTOM 1232 1259	alterations in bowel habits
+T41	SYMPTOM 1289 1307	blood in the stool
+T42	SYMPTOM 1404 1444	elevated biomarkers of myocardial damage
+T43	SYMPTOM 1697 1727	Jugular venous pressure normal
+T6	SYMPTOM 1751 1759	rhythmic
+T7	SYMPTOM 1764 1771	murmurs
+T44	SYMPTOM 1775 1794	pathological sounds
+T8	SYMPTOM 1820 1846	preserved vesicular murmur
+T45	SYMPTOM 1855 1867	extra sounds
+T48	SYMPTOM 1869 1924	Abdomen: soft and depressible, not painful on palpation
+T9	SYMPTOM 1929 1935	masses
+T46	SYMPTOM 1939 1948	megaliths
+T25	SYMPTOM 1950 1978	Blumberg and Murphy negative
+T26	SYMPTOM 1980 2002	Extremities: no oedema
+T47	SYMPTOM 2029 2072	peripheral pulses preserved and symmetrical
+T11	SYMPTOM 2134 2146	sinus rhythm
+T49	SYMPTOM 2213 2229	descent in V3-V6
+T50	SYMPTOM 2231 2249	flat T wave in aVF
+T12	SYMPTOM 2265 2277	sinus rhythm
+T51	SYMPTOM 2336 2362	repolarisation alterations
+T53	SYMPTOM 2391 2413	CTI slightly increased
+T54	SYMPTOM 2418 2449	pulmonary infiltrates or masses
+T52	SYMPTOM 2454 2481	costophrenic sinus pinching
+T13	SYMPTOM 2495 2512	venous congestion
+T10	SYMPTOM 2913 2977	eosinophils with altered cytoplasmic distribution of granulation
+T55	SYMPTOM 4207 4238	negative ANA immunofluorescence
+T35	SYMPTOM 4240 4260	negative IFA pattern
+T56	SYMPTOM 4298 4325	negative direct Coombs test
+T57	SYMPTOM 4549 4564	monoclonal peak
+T14	SYMPTOM 4755 4797	antiStrongyloides stercolaris IgG negative
+T15	SYMPTOM 4804 4827	negative blood cultures
+T16	SYMPTOM 4829 4852	negative stool cultures
+T59	SYMPTOM 4854 4902	negative legionella and pneumococcus antigenuria
+T58	SYMPTOM 4904 4917	negative IGRA
+T36	SYMPTOM 5220 5273	both ventricles of normal diameters and contractility
+T29	SYMPTOM 5299 5323	Normal diastolic pattern
+T31	SYMPTOM 5325 5349	Normal filling pressures
+T27	SYMPTOM 5351 5370	Normal LA and aorta
+T60	SYMPTOM 5384 5432	anterior leaflet prolapse, without regurgitation
+T61	SYMPTOM 5445 5459	increased PAPs
+T17	SYMPTOM 5593 5616	haemodynamic compromise
+T18	SYMPTOM 5632 5704	left ventricle of normal diameters, volumes and global systolic function
+T62	SYMPTOM 5709 5747	alterations of segmental contractility
+T63	SYMPTOM 5757 5777	Atria of normal size
+T30	SYMPTOM 5779 5803	Normal diastolic pattern
+T19	SYMPTOM 5852 5920	Right ventricle of normal diameters with preserved systolic function
+T32	SYMPTOM 6023 6048	Normal inferior vena cava
+T34	SYMPTOM 6320 6346	non-dilated left ventricle
+T21	SYMPTOM 6418 6445	preserved systolic function
+T33	SYMPTOM 6483 6510	Non-dilated right ventricle
+T28	SYMPTOM 6535 6557	good systolic function
+T22	SYMPTOM 6598 6610	Normal atria
+T20	SYMPTOM 6695 6725	delay of perfusion in the apex
+T64	SYMPTOM 6872 6922	Late transmural gadolinium enhancement in the apex
+T23	SYMPTOM 8709 8732	haemodynamically stable
+T65	SYMPTOM 8797 8810	arthromyalgia
+T5	SYMPTOM 8812 8817	fever
+T37	SYMPTOM 8878 8910	adequate tolerance to ambulation
+T24	SYMPTOM 8924 8936	asymptomatic

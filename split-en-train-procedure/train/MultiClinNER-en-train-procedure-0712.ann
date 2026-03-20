@@ -1,0 +1,27 @@
+T13	PROCEDURE 110 144	intravenous induction chemotherapy
+T1	PROCEDURE 149 195	prophylactic intrathecal chemotherapy using LP
+T2	PROCEDURE 310 326	lumbar punctures
+T3	PROCEDURE 331 359	intrathecal chemoprophylaxis
+T15	PROCEDURE 417 460	Repeated cerebrospinal fluid (CSF) analyses
+T4	PROCEDURE 693 713	platelet transfusion
+T14	PROCEDURE 737 739	LP
+T18	PROCEDURE 803 824	cycle of chemotherapy
+T6	PROCEDURE 858 880	bone marrow transplant
+T16	PROCEDURE 888 890	LP
+T17	PROCEDURE 944 1006	several platelet concentrates had to be trans-fused beforehand
+T11	PROCEDURE 1112 1124	transfusions
+T19	PROCEDURE 1247 1249	LP
+T8	PROCEDURE 1587 1602	dorsolumbar MRI
+T22	PROCEDURE 1768 1805	intravenous gadolinium administration
+T20	PROCEDURE 1891 1944	decompressive laminectomy was performed from L1 to L4
+T9	PROCEDURE 1951 1972	longitudinal durotomy
+T12	PROCEDURE 2164 2175	Exploration
+T21	PROCEDURE 2292 2333	arachnoid was then incised longitudinally
+T23	PROCEDURE 2338 2416	after separation of the dorsal roots of the cauda equina the clot was accessed
+T24	PROCEDURE 2452 2480	subtotal removal of the clot
+T26	PROCEDURE 2628 2646	surgical procedure
+T25	PROCEDURE 2670 2724	closure of the dural plane using a lyophilised plastia
+T28	PROCEDURE 3026 3047	oncological treatment
+T7	PROCEDURE 3052 3074	bone marrow transplant
+T30	PROCEDURE 3226 3233	surgery
+T10	PROCEDURE 3251 3261	lumbar MRI

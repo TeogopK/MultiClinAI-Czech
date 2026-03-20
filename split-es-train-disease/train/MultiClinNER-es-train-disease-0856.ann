@@ -1,0 +1,22 @@
+T20	DISEASE 2377 2401	Regurgitación tricúspide
+T22	DISEASE 29 50	Hipertensión arterial
+T23	DISEASE 52 68	Glaucoma crónico
+T24	DISEASE 562 575	cardiomegalia
+T25	DISEASE 2753 2780	Insuficiencia cardiaca leve
+T26	DISEASE 2790 2809	Anomalía de Ebstein
+T27	DISEASE 2810 2842	Regurgitación tricuspídea severa
+T28	DISEASE 2845 2875	disfunción sistólica ligera VD
+T29	DISEASE 1291 1293	IT
+T30	DISEASE 74 82	alergias
+T31	DISEASE 97 112	hábitos tóxicos
+T32	DISEASE 1027 1059	bloqueo completo de rama derecha
+T33	DISEASE 1126 1165	severa dilatación de cavidades derechas
+T34	DISEASE 1818 1821	CIA
+T35	DISEASE 2272 2302	Dilatación de cámaras derechas
+T36	DISEASE 2433 2447	malformaciones
+T59	DISEASE 1062 1107	alteraciones secundarias de la repolarización
+T54	DISEASE 958 975	crecimiento de AD
+T60	DISEASE 1533 1575	cavidades izquierdas son de tamaño pequeño
+T57	DISEASE 1866 1872	shunts
+#1	AnnotatorNotes T29	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T34	 CIA comunicación interauricular

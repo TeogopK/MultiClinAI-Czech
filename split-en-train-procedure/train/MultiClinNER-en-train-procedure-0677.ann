@@ -1,0 +1,20 @@
+T14	PROCEDURE 86 121	adiological alteration of the chest
+T11	PROCEDURE 581 596	bronchodilators
+T1	PROCEDURE 837 857	physical examination
+T5	PROCEDURE 986 1014	Cardiopulmonary auscultation
+T3	PROCEDURE 1027 1038	Chest X-ray
+T6	PROCEDURE 1183 1194	blood tests
+T12	PROCEDURE 1243 1255	autoimmunity
+T24	PROCEDURE 1269 1277	serology
+T7	PROCEDURE 1279 1305	respiratory function tests
+T15	PROCEDURE 1307 1310	RFT
+T8	PROCEDURE 1339 1346	Mantoux
+T9	PROCEDURE 1348 1385	computed tomography (CT) of the chest
+T2	PROCEDURE 1581 1593	bronchoscopy
+T32	PROCEDURE 1667 1793	BAL scans were performed in the right upper lobe, which were sent for cytology, smear microscopy and lymphocyte subpopulations
+T33	PROCEDURE 1813 1913	secretions bronchoaspirate (SBA) were performed for fungi, Pneumocystis, culture and Koch's bacillus
+T36	PROCEDURE 1946 1971	bronchoaspirate pathology
+T10	PROCEDURE 2068 2088	Immunohistochemistry
+T39	PROCEDURE 2142 2206	biopsy of the right upper lung lobe was performed by thoracotomy
+T41	PROCEDURE 2208 2217	Pathology
+T4	PROCEDURE 2449 2460	chest X-ray

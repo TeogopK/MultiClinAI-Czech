@@ -1,0 +1,9 @@
+T8	PROCEDURE 217 241	general laboratory tests
+T9	PROCEDURE 360 412	complementary tests, including microbiological tests
+T1	PROCEDURE 433 444	chest X-ray
+T2	PROCEDURE 538 551	chest CT scan
+T3	PROCEDURE 764 800	biopsy obtained by videothoracoscopy
+T7	PROCEDURE 904 924	histochemical stains
+T4	PROCEDURE 1089 1111	chemotherapy treatment
+T5	PROCEDURE 1184 1196	radiotherapy
+T6	PROCEDURE 1445 1510	autotransplantation of peripheral blood haematopoietic precursors

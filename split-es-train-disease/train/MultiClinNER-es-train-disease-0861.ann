@@ -1,0 +1,61 @@
+T18	DISEASE 68 87	Hipercolesterolemia
+T19	DISEASE 89 118	Diabetes mellitus (DM) tipo 2
+T20	DISEASE 108 110	DM
+T21	DISEASE 227 235	Obesidad
+T22	DISEASE 245 254	Exfumador
+T23	DISEASE 295 316	hipertensión arterial
+T24	DISEASE 330 349	Síndrome de Leriche
+T25	DISEASE 389 391	IC
+T26	DISEASE 434 464	hipertensión arterial pulmonar
+T27	DISEASE 522 559	Fibrilación auricular (FA) permanente
+T28	DISEASE 589 592	BRI
+T29	DISEASE 681 705	Enfermedad renal crónica
+T30	DISEASE 720 777	Trombofilia con mutación del gen de la protrombina 20210A
+T31	DISEASE 779 818	Enfermedad pulmonar obstructiva crónica
+T32	DISEASE 820 824	EPOC
+T33	DISEASE 913 955	Adenocarcinoma pulmonar de lóbulo superior
+T34	DISEASE 1056 1106	Poliartritis seropositiva con afectación de carpos
+T35	DISEASE 1114 1166	Hipertiroidismo subclínico con tiroides multinodular
+T36	DISEASE 1168 1176	Alergias
+T37	DISEASE 1814 1816	IC
+T39	DISEASE 2449 2474	trombosis venosa profunda
+T40	DISEASE 2476 2479	TVP
+T41	DISEASE 3301 3322	fibrilación auricular
+T42	DISEASE 3365 3368	BRI
+T43	DISEASE 3420 3444	extrasístole ventricular
+T44	DISEASE 3479 3524	disfunción sistólica global VI moderada-grave
+T45	DISEASE 3761 3781	Insuficiencia mitral
+T46	DISEASE 3829 3870	Hipertensión arterial pulmonar (HTP) leve
+T47	DISEASE 4285 4298	FA permanente
+T48	DISEASE 5084 5103	Hipercolesterolemia
+T49	DISEASE 5105 5115	DM tipo II
+T50	DISEASE 5181 5200	insulinodependiente
+T51	DISEASE 5202 5210	Obesidad
+T52	DISEASE 5220 5229	Exfumador
+T53	DISEASE 5261 5282	hipertensión arterial
+T54	DISEASE 5296 5315	Síndrome de Leriche
+T55	DISEASE 5355 5357	IC
+T56	DISEASE 5400 5421	hipertensión pulmonar
+T57	DISEASE 5454 5457	BRI
+T58	DISEASE 5506 5509	ERC
+T59	DISEASE 5524 5581	Trombofilia con mutación del gen de la protrombina 20210A
+T60	DISEASE 5583 5587	EPOC
+T61	DISEASE 5624 5654	Adenocarcinoma pulmonar de LSD
+T62	DISEASE 5741 5791	Poliartritis seropositiva con afectación de carpos
+T63	DISEASE 5799 5851	Hipertiroidismo subclínico con tiroides multinodular
+T64	DISEASE 5449 5451	FA
+T65	DISEASE 3861 3864	HTP
+T66	DISEASE 3994 3996	IC
+T67	DISEASE 4934 4936	IC
+T68	DISEASE 3103 3116	cardiomegalia
+T69	DISEASE 562 587	bloqueo de rama izquierda
+T70	DISEASE 3783 3785	IM
+T71	DISEASE 3789 3814	insuficiencia tricuspídea
+T72	DISEASE 3816 3818	IT
+T16	DISEASE 5793 5797	Gota
+T97	DISEASE 1108 1112	Gota
+#1	AnnotatorNotes T65	  Hipertensión arterial pulmonar
+#2	AnnotatorNotes T66	  insuficiencia cardíaca
+#3	AnnotatorNotes T67	IC: insuficiencia cardíaca
+#4	AnnotatorNotes T70	  insuficiencia mitral
+#5	AnnotatorNotes T72	  insuficiencia tricuspide

@@ -1,0 +1,18 @@
+T1	SYMPTOM 2377 2407	micción espontánea confortable
+T2	SYMPTOM 2410 2427	deposición normal
+T3	SYMPTOM 124 127	T1c
+T4	SYMPTOM 616 622	fiebre
+T5	SYMPTOM 634 649	dolor abdominal
+T6	SYMPTOM 669 678	fecaluria
+T7	SYMPTOM 763 790	líquido libre retrohepático
+T8	SYMPTOM 907 940	abundante orina y heces en pelvis
+T9	SYMPTOM 328 332	pT2c
+T10	SYMPTOM 2154 2197	fuga del contraste fuera de la vía urinaria
+T11	SYMPTOM 2441 2463	incontinencia urinaria
+T12	SYMPTOM 1420 1440	colostomía permeable
+T13	SYMPTOM 1442 1453	Orina clara
+T14	SYMPTOM 1677 1743	paso de contraste desde la unión uretrovesical a la ampolla rectal
+T15	SYMPTOM 1241 1287	abundante salida de orina a través del drenaje
+A1	IMAGEN T7
+A2	RESULTADO T10
+A3	RESULTADO T14

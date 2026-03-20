@@ -1,0 +1,20 @@
+T16	SYMPTOM 154 179	oedema of the lower limbs
+T17	SYMPTOM 181 201	abdominal distension
+T1	SYMPTOM 206 221	low-grade fever
+T3	SYMPTOM 270 278	asthenia
+T4	SYMPTOM 312 318	nausea
+T5	SYMPTOM 320 328	vomiting
+T6	SYMPTOM 333 342	diarrhoea
+T24	SYMPTOM 441 467	oedema in both lower limbs
+T7	SYMPTOM 506 514	erythema
+T13	SYMPTOM 516 525	petechiae
+T12	SYMPTOM 530 540	ecchymosis
+T29	SYMPTOM 1025 1047	Chest X-ray was normal
+T2	SYMPTOM 1561 1566	fever
+T8	SYMPTOM 1651 1655	pain
+T14	SYMPTOM 1735 1759	worsening renal function
+T9	SYMPTOM 1835 1847	leukocytosis
+T33	SYMPTOM 1887 1910	coagulation alterations
+T15	SYMPTOM 2009 2077	blood culture performed on admission isolated Streptococcus Pyogenes
+T10	SYMPTOM 2213 2237	haemodynamic instability
+T11	SYMPTOM 2910 2914	died

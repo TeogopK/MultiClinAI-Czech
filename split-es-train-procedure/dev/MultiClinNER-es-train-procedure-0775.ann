@@ -1,0 +1,37 @@
+T56	PROCEDURE 251 272	antidiabéticos orales
+T57	PROCEDURE 425 440	endarterectomía
+T58	PROCEDURE 443 505	resección de membrana endotelial de ostium coronario izquierdo
+T59	PROCEDURE 508 553	bypass de safena a descendente anterior (DA),
+T60	PROCEDURE 741 894	revascularizaciones percutáneas: tronco coronario izquierdo (TCI), primera rama marginal (OM), bifurcación circunfleja (Cx)-primera OM, coronaria derecha
+T61	PROCEDURE 1999 2017	Exploración física
+T62	PROCEDURE 2222 2243	Auscultación cardiaca
+T63	PROCEDURE 2266 2287	Auscultación pulmonar
+T64	PROCEDURE 2897 2915	Electrocardiograma
+T65	PROCEDURE 2917 2920	ECG
+T66	PROCEDURE 3078 3081	ECG
+T67	PROCEDURE 3182 3197	Coronariografía
+T68	PROCEDURE 4000 4014	Ecocardiograma
+T69	PROCEDURE 4458 4473	coronariografía
+T70	PROCEDURE 4524 4611	primera OM (valorada por guía de presión), que se revasculariza con stent farmacoactivo
+T71	PROCEDURE 5272 5295	rehabilitación cardiaca
+T72	PROCEDURE 5520 5634	OM valorada por guía de presión (FFR 0,77) revascularizada percutáneamente mediante implante destent farmacoactivo
+T73	PROCEDURE 5698 5768	Cardiopatía isquémica crónica compleja, revascularizada de forma mixta
+T91	PROCEDURE 2018 2036	Constantes vitales
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 354 406	lesión de tres vasos revascularizada quirúrgicamente
+T94	PROCEDURE 5029 5045	agonista de GLP1
+T95	PROCEDURE 2425 2434	palpación
+T114	PROCEDURE 2522 2531	Analítica
+T115	PROCEDURE 2798 2807	Analítica
+T136	PROCEDURE 4414 4437	medicación antianginosa
+T21	PROCEDURE 1328 1401	cardiopatía isquémica crónica compleja, con múltiples revascularizaciones
+T30	PROCEDURE 3374 3439	Cx de buen calibre y desarrollo con un stent en el segmento medio
+T96	PROCEDURE 3475 3507	stent en el primer ramo marginal
+T98	PROCEDURE 3628 3643	guía de presión
+T99	PROCEDURE 3646 3670	adenosina intracoronaria
+T100	PROCEDURE 3615 3670	evaluada con guía de presión y adenosina intracoronaria
+T101	PROCEDURE 3806 3861	evaluada con guía de presión y adenosina intracoronaria
+T102	PROCEDURE 3819 3834	guía de presión
+T103	PROCEDURE 3837 3861	adenosina intracoronaria
+T108	PROCEDURE 4536 4564	valorada por guía de presión
+T109	PROCEDURE 5536 5551	guía de presión

@@ -1,0 +1,50 @@
+T1	SYMPTOM 1200 1218	disnea de esfuerzo
+T2	SYMPTOM 1237 1251	dolor torácico
+T3	SYMPTOM 1253 1266	palpitaciones
+T4	SYMPTOM 1299 1318	Buen estado general
+T7	SYMPTOM 1349 1367	Eupneica en reposo
+T8	SYMPTOM 1482 1484	IY
+T9	SYMPTOM 1512 1532	Carótidas sin soplos
+T10	SYMPTOM 1534 1575	Auscultación cardiaca y pulmonar: rítmica
+T11	SYMPTOM 1600 1606	soplos
+T13	SYMPTOM 1631 1660	Murmullo vesicular conservado
+T15	SYMPTOM 1686 1714	Abdomen: blando y depresible
+T16	SYMPTOM 1719 1742	doloroso a la palpación
+T17	SYMPTOM 1758 1769	peritonismo
+T18	SYMPTOM 1774 1779	masas
+T19	SYMPTOM 1783 1791	megalias
+T21	SYMPTOM 1870 1908	Pulsos distales presentes y simétricos
+T22	SYMPTOM 2005 2014	QRS ancho
+T23	SYMPTOM 2166 2198	ventrículo izquierdo no dilatado
+T24	SYMPTOM 2285 2315	Aurícula izquierda no dilatada
+T25	SYMPTOM 2317 2359	Ventrículo derecho de dimensiones normales
+T26	SYMPTOM 2361 2384	aurícula derecha normal
+T27	SYMPTOM 2572 2606	Mitral de aspecto y función normal
+T28	SYMPTOM 2670 2705	Función sistólica del VI preservada
+T29	SYMPTOM 2994 3029	Función sistólica del VD preservada
+T30	SYMPTOM 3247 3260	ritmo sinusal
+T31	SYMPTOM 3330 3351	pausas significativas
+T32	SYMPTOM 3415 3436	alternancia de onda T
+T34	SYMPTOM 4031 4078	Test genético (panel de canalopatías): negativo
+T35	SYMPTOM 4273 4318	alteraciones secundarias de la repolarización
+T37	SYMPTOM 4457 4470	palpitaciones
+T39	SYMPTOM 4613 4702	ventrículo izquierdo con hipertrofia concéntrica ligera de sus paredes con función normal
+T40	SYMPTOM 5402 5427	alternancia de la onda T.
+T41	SYMPTOM 6019 6043	Función sistólica normal
+T123	SYMPTOM 4475 4489	dolor torácico
+T136	SYMPTOM 109 136	QT corregido (QTc) alargado
+T12	SYMPTOM 2053 2098	alteraciones secundarias de la repolarización
+T114	SYMPTOM 2754 2800	alteraciones segmentarias de la contractilidad
+T115	SYMPTOM 2835 2874	asincronía del tabique interventricular
+T117	SYMPTOM 3038 3068	Vena cava inferior no dilatada
+T33	SYMPTOM 5032 5062	alargamiento del intervalo QTc
+T138	SYMPTOM 1320 1347	Bien hidratada y perfundida
+T144	SYMPTOM 1793 1823	Miembros inferiores: no edemas
+T150	SYMPTOM 2924 2951	alteración de la relajación
+T154	SYMPTOM 2957 2992	aumento de las presiones de llenado
+T157	SYMPTOM 1982 1992	eje normal
+T159	SYMPTOM 5799 5824	estudio genético negativo
+T6	SYMPTOM 2444 2532	aórtica trivalva con signos degenerativos ligeros y jet de insuficiencia de grado ligero
+T20	SYMPTOM 3853 3870	signos isquémicos
+T38	SYMPTOM 5615 5654	estudio genético, pero resulta negativo
+T116	SYMPTOM 5971 5988	genética negativa

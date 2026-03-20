@@ -1,0 +1,35 @@
+T47	DISEASE 77 91	drug allergies
+T71	DISEASE 93 106	Active smoker
+T1	DISEASE 200 212	hypertension
+T2	DISEASE 214 216	HT
+T48	DISEASE 222 235	dyslipidaemia
+T50	DISEASE 240 264	type 2 diabetes mellitus
+T51	DISEASE 266 269	DM2
+T3	DISEASE 272 299	Anxiety-depressive syndrome
+T52	DISEASE 324 344	left inguinal hernia
+T53	DISEASE 349 361	appendicitis
+T54	DISEASE 381 404	ischaemic heart disease
+T56	DISEASE 1041 1075	intercurrent infectious conditions
+T57	DISEASE 1107 1120	heart failure
+T58	DISEASE 1952 1961	ischaemia
+T59	DISEASE 2122 2170	non-ST-segment elevation acute coronary syndrome
+T5	DISEASE 2172 2179	NSTEACS
+T60	DISEASE 2747 2767	deep vein thrombosis
+T6	DISEASE 3084 3104	pulmonary congestion
+T61	DISEASE 3121 3133	pneumothorax
+T62	DISEASE 3902 3922	pericardial effusion
+T64	DISEASE 3927 3941	valvulopathies
+T63	DISEASE 4754 4774	pericardial effusion
+T65	DISEASE 4800 4822	pulmonary hypertension
+T10	DISEASE 4824 4826	PH
+T66	DISEASE 4872 4928	Ectatic right coronary artery (RCA) with severe stenosis
+T13	DISEASE 5094 5174	Mild atheromatosis of the anterior descending artery (ADA) and circumflex artery
+T72	DISEASE 5477 5494	arrhythmic events
+T14	DISEASE 5581 5633	significant lesion in the middle segment of the RCA,
+T55	DISEASE 5870 5893	ischaemic heart disease
+T67	DISEASE 5910 5917	smoking
+T68	DISEASE 6355 6390	NSTEACS type transient ST-elevation
+T16	DISEASE 6404 6425	severe mid RCA lesion
+T18	DISEASE 6498 6510	Hypertension
+T49	DISEASE 6515 6528	dyslipidaemia
+T70	DISEASE 6530 6536	Smoker

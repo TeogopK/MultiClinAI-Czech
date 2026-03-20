@@ -1,0 +1,29 @@
+T1	SYMPTOM 95 102	vómitos
+T2	SYMPTOM 105 114	agitación
+T3	SYMPTOM 130 154	dolor en parrilla costal
+T4	SYMPTOM 169 172	tos
+T5	SYMPTOM 514 521	vómitos
+T6	SYMPTOM 524 533	agitación
+T7	SYMPTOM 549 573	dolor en parrilla costal
+T8	SYMPTOM 588 591	tos
+T9	SYMPTOM 795 805	Consciente
+T10	SYMPTOM 807 814	agitado
+T11	SYMPTOM 816 824	ansiedad
+T12	SYMPTOM 826 833	palidez
+T13	SYMPTOM 835 845	sudoración
+T15	SYMPTOM 928 934	soplos
+T16	SYMPTOM 1450 1463	Ritmo sinusal
+T17	SYMPTOM 1556 1569	Ritmo sinusal
+T18	SYMPTOM 1699 1713	dolor torácico
+T20	SYMPTOM 1802 1827	elevación del segmento ST
+T21	SYMPTOM 2835 2841	exitus
+T22	SYMPTOM 2889 2914	elevación del segmento ST
+T23	SYMPTOM 2941 2947	Exitus
+T38	SYMPTOM 1725 1750	mala perfusión periférica
+T65	SYMPTOM 2283 2304	hipoperfusión capilar
+T57	SYMPTOM 1472 1501	Supradesnivel del segmento ST
+T14	SYMPTOM 1578 1597	Supradesnivel de ST
+T19	SYMPTOM 2483 2512	actividad eléctrica sin pulso
+T58	SYMPTOM 2514 2518	AESP
+T60	SYMPTOM 1299 1367	Tóxicos en orina: Cocaína, benzodiacepinas y productos cannabinoides
+#1	AnnotatorNotes T58	actividad eléctrica sin pulso

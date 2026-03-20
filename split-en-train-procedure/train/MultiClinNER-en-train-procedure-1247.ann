@@ -1,0 +1,20 @@
+T58	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T60	PROCEDURE 262 295	treatment with oral antidiabetics
+T61	PROCEDURE 429 449	Coronary angiography
+T62	PROCEDURE 499 522	stress echocardiography
+T65	PROCEDURE 506 522	echocardiography
+T63	PROCEDURE 733 756	stress echocardiography
+T66	PROCEDURE 740 756	echocardiography
+T64	PROCEDURE 886 900	anticoagulated
+T67	PROCEDURE 921 937	echocardiography
+T59	PROCEDURE 2067 2087	Physical examination
+T68	PROCEDURE 2156 2176	Cardiac auscultation
+T69	PROCEDURE 2277 2299	Pulmonary auscultation
+T70	PROCEDURE 2888 2905	electrocardiogram
+T71	PROCEDURE 3069 3080	Chest X-ray
+T72	PROCEDURE 3231 3259	Transthoracic echocardiogram
+T73	PROCEDURE 3803 3831	Myocardial deformation study
+T74	PROCEDURE 4004 4013	Bone scan
+T77	PROCEDURE 4905 4917	beta-blocker
+T75	PROCEDURE 5169 5192	echocardiographic study
+T76	PROCEDURE 5407 5432	immunofixation techniques

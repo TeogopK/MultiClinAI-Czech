@@ -1,0 +1,35 @@
+T66	PROCEDURE 385 409	estudio ecocardiográfico
+T67	PROCEDURE 611 626	coronariografía
+T68	PROCEDURE 817 836	trasplante cardiaco
+T69	PROCEDURE 1052 1074	resección transuretral
+T70	PROCEDURE 1166 1182	cirugía cardiaca
+T71	PROCEDURE 1185 1204	trasplante cardiaco
+T72	PROCEDURE 2059 2077	Exploración física
+T73	PROCEDURE 2260 2283	Exploración neurológica
+T74	PROCEDURE 2315 2336	auscultación cardiaca
+T75	PROCEDURE 2422 2443	auscultación pulmonar
+T76	PROCEDURE 2488 2509	exploración abdominal
+T77	PROCEDURE 2764 2782	Electrocardiograma
+T78	PROCEDURE 3347 3367	Radiografía de tórax
+T79	PROCEDURE 3668 3690	Estudio microbiológico
+T80	PROCEDURE 3692 3719	test rápido influenza A y B
+T81	PROCEDURE 3731 3757	antigenuria para neumococo
+T82	PROCEDURE 3769 3796	antigenuria para Legionella
+T83	PROCEDURE 3822 3852	PCR para coronavirus SARS-CoV2
+T84	PROCEDURE 4257 4280	Biomarcadores cardiacos
+T85	PROCEDURE 4380 4394	Perfil anemias
+T86	PROCEDURE 4504 4524	Radiografía de tórax
+T87	PROCEDURE 5488 5508	radiografía de tórax
+T88	PROCEDURE 5682 5693	aislamiento
+T89	PROCEDURE 5901 5922	tratamiento diurético
+T107	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T110	PROCEDURE 6190 6204	perfil férrico
+T111	PROCEDURE 5075 5099	reactantes de fase aguda
+T112	PROCEDURE 6040 6099	determinaciones seriadas electrocardiográficas y analíticas
+T132	PROCEDURE 2947 2964	Estudio analítico
+T133	PROCEDURE 3864 3881	Estudio analítico
+T23	PROCEDURE 718 746	desfibriladorresincronizador
+T29	PROCEDURE 839 861	asistencia ventricular
+T3	PROCEDURE 2822 2866	estimulación ventricular por resincronizador
+T115	PROCEDURE 3580 3611	dispositivo de resincronización
+T60	PROCEDURE 5720 5752	toma de muestras microbiológicas

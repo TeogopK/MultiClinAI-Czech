@@ -1,0 +1,58 @@
+T1	SYMPTOM 584 738	dolor que describe punzante/opresivo en región interescapular que se irradia hacia región anterior del tórax y cara interna del miembro superior izquierdo
+T2	SYMPTOM 868 886	sensación disneica
+T3	SYMPTOM 901 914	palpitaciones
+T4	SYMPTOM 918 936	cortejo vegetativo
+T5	SYMPTOM 1201 1220	Buen estado general
+T6	SYMPTOM 1222 1232	Consciente
+T7	SYMPTOM 1235 1244	orientado
+T8	SYMPTOM 1259 1286	Bien hidratado y perfundido
+T10	SYMPTOM 1288 1295	Afebril
+T11	SYMPTOM 1297 1322	Estable hemodinámicamente
+T12	SYMPTOM 1436 1465	Eupneico en reposo y al habla
+T13	SYMPTOM 1564 1588	tonos cardiacos rítmicos
+T14	SYMPTOM 1593 1599	soplos
+T15	SYMPTOM 1610 1639	Murmullo vesicular conservado
+T16	SYMPTOM 1644 1655	crepitantes
+T17	SYMPTOM 1698 1727	Exploración abdominal anodina
+T18	SYMPTOM 1729 1759	Miembros inferiores sin edemas
+T19	SYMPTOM 1897 1910	ritmo sinusal
+T20	SYMPTOM 1921 1931	Eje normal
+T21	SYMPTOM 1946 1958	QRS estrecho
+T22	SYMPTOM 2020 2071	Ondas T negativas simétricas y profundas de V1 a V4
+T24	SYMPTOM 2162 2175	ritmo sinusal
+T26	SYMPTOM 2198 2207	PR normal
+T27	SYMPTOM 2209 2221	QRS estrecho
+T28	SYMPTOM 2276 2320	normalización de ondas T en serie precordial
+T29	SYMPTOM 2548 2585	Perfiles hepático y tiroideo normales
+T30	SYMPTOM 2703 2715	leucocitosis
+T31	SYMPTOM 2767 2796	Estudio de coagulación normal
+T32	SYMPTOM 2820 2848	índice cardiotorácico normal
+T35	SYMPTOM 2997 3029	ventrículo izquierdo no dilatado
+T36	SYMPTOM 3105 3145	función sistólica ampliamente conservada
+T37	SYMPTOM 3238 3288	Aurícula izquierda en límite alto de la normalidad
+T38	SYMPTOM 3343 3364	Válvula mitral normal
+T40	SYMPTOM 3551 3582	Cavidades derechas no dilatadas
+T41	SYMPTOM 4348 4362	dolor torácico
+T42	SYMPTOM 4398 4416	cortejo vegetativo
+T43	SYMPTOM 5401 5499	ventrículo de dimensiones y morfología dentro de la normalidad con fracción de eyección preservada
+T44	SYMPTOM 5651 5663	asintomático
+T45	SYMPTOM 5898 5910	asintomático
+T46	SYMPTOM 5994 6019	elevación del segmento ST
+T122	SYMPTOM 1664 1696	ruidos patológicos sobreañadidos
+T9	SYMPTOM 3719 3755	Vena cava inferior (VCI) no dilatada
+T23	SYMPTOM 3453 3497	Válvula aórtica trivalva con flujos normales
+T25	SYMPTOM 3499 3523	Raíz aórtica no dilatada
+T34	SYMPTOM 6241 6258	patrón de Wellens
+T125	SYMPTOM 1246 1257	Colaborador
+T134	SYMPTOM 2938 2964	Senos costofrénicos libres
+T135	SYMPTOM 3830 3869	Tronco coronario izquierdo sin lesiones
+T137	SYMPTOM 5530 5576	alteraciones segmentarias de la contractilidad
+T142	SYMPTOM 2909 2936	condensación parenquimatosa
+T144	SYMPTOM 2720 2734	fórmula normal
+T153	SYMPTOM 1467 1485	tolerando decúbito
+T154	SYMPTOM 5266 5297	trastornos de la repolarización
+T102	SYMPTOM 4684 4732	movilización de biomarcadores de daño miocárdico
+T103	SYMPTOM 2186 2196	Eje normal
+T104	SYMPTOM 2850 2871	Hilios bien definidos
+T105	SYMPTOM 3951 3993	Arteria circunfleja dominante sin lesiones
+T106	SYMPTOM 4462 4487	supradesnivelación del ST

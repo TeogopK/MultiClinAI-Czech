@@ -1,0 +1,46 @@
+T1	SYMPTOM 960 1012	disnea progresiva hasta hacerse de mínimos esfuerzos
+T2	SYMPTOM 1063 1099	edematización de miembros inferiores
+T3	SYMPTOM 1112 1120	ortopnea
+T4	SYMPTOM 1122 1149	disnea paroxística nocturna
+T5	SYMPTOM 1153 1161	oliguria
+T6	SYMPTOM 1192 1206	dolor torácico
+T7	SYMPTOM 1495 1517	regular estado general
+T8	SYMPTOM 1519 1528	taquipnea
+T9	SYMPTOM 1832 1858	ruidos cardiacos regulares
+T10	SYMPTOM 1864 1870	soplos
+T11	SYMPTOM 1904 1940	crepitantes bilaterales mediobasales
+T12	SYMPTOM 1943 1962	hipofonesis en base
+T13	SYMPTOM 1972 2002	Edemas tibiomaleolares en MMII
+T14	SYMPTOM 2088 2101	ritmo sinusal
+T15	SYMPTOM 2131 2143	QRS estrecho
+T16	SYMPTOM 2145 2196	subrectificación del segmento ST en V4-V6, II y aVF
+T17	SYMPTOM 2220 2251	índice cardiotorácico aumentado
+T19	SYMPTOM 2585 2599	Iones en rango
+T21	SYMPTOM 3027 3062	función global sistólica conservada
+T22	SYMPTOM 3097 3134	Llenado transmitral tipo pseudonormal
+T23	SYMPTOM 3160 3196	aumento de presiones telediastólicas
+T24	SYMPTOM 3442 3455	ritmo sinusal
+T25	SYMPTOM 3752 3766	dolor torácico
+T26	SYMPTOM 3906 3930	elevación de segmento ST
+T27	SYMPTOM 3933 3979	negativización leve de ondas T en V1-V3 y III)
+T28	SYMPTOM 4049 4072	opresión centrotorácica
+T29	SYMPTOM 4627 4645	edemas periféricos
+T30	SYMPTOM 4651 4657	disnea
+T31	SYMPTOM 4709 4723	dolor torácico
+T32	SYMPTOM 4877 4889	asintomático
+T33	SYMPTOM 4894 4900	disnea
+T34	SYMPTOM 4904 4918	dolor torácico
+T35	SYMPTOM 5039 5067	función sistólica conservada
+T102	SYMPTOM 287 302	FEVI conservada
+T18	SYMPTOM 2601 2634	función hepática sin alteraciones
+T20	SYMPTOM 3064 3095	Raíz y válvula aórtica normales
+T44	SYMPTOM 3231 3256	Ventrículo derecho normal
+T103	SYMPTOM 3776 3791	FEVI conservada
+T109	SYMPTOM 2485 2514	Coagulación: sin alteraciones
+T115	SYMPTOM 2253 2288	Infiltrados algodonosos bilaterales
+T125	SYMPTOM 3875 3904	cambios electrocardiográficos
+T128	SYMPTOM 2330 2344	condensaciones
+T129	SYMPTOM 3198 3219	disfunción diastólica
+T107	SYMPTOM 2422 2483	Leucocitos, fórmula leucocitaria y plaquetas sin alteraciones
+T111	SYMPTOM 3258 3287	Plétora de vena cava inferior
+T114	SYMPTOM 4241 4281	Test de acetilcolina positivo epicárdico

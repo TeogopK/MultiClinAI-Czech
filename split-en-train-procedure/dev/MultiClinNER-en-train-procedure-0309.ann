@@ -1,0 +1,23 @@
+T5	PROCEDURE 44 62	cholecystectomised
+T16	PROCEDURE 99 163	episodes of residual choledocholithiasis resolved endoscopically
+T23	PROCEDURE 407 468	residual choledocholithiasis that had resolved endoscopically
+T21	PROCEDURE 509 555	endoscopic retrograde cholangiopancreatography
+T6	PROCEDURE 557 561	ERCP
+T22	PROCEDURE 567 578	examination
+T4	PROCEDURE 605 653	right hypochondrium and epigastrium on palpation
+T11	PROCEDURE 970 984	Blood cultures
+T1	PROCEDURE 1049 1059	ultrasound
+T10	PROCEDURE 1182 1208	magnetic resonance imaging
+T34	PROCEDURE 1446 1485	dynamic study with intravenous contrast
+T12	PROCEDURE 1803 1842	Ultrasound-guided percutaneous drainage
+T18	PROCEDURE 1932 1964	intravenous antibiotic treatment
+T39	PROCEDURE 2037 2045	MRI scan
+T7	PROCEDURE 2337 2341	ERCP
+T2	PROCEDURE 2337 2406	ERCP was performed, from which two microcalcifications were extracted
+T13	PROCEDURE 2483 2500	cytological study
+T14	PROCEDURE 2576 2600	ultrasound-guided biopsy
+T44	PROCEDURE 2635 2659	Histological examination
+T15	PROCEDURE 2794 2824	immunohistochemical techniques
+T17	PROCEDURE 3322 3342	antibiotic treatment
+T8	PROCEDURE 3407 3411	ERCP
+T9	PROCEDURE 3433 3450	steroid treatment

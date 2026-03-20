@@ -1,0 +1,47 @@
+T81	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 501 518	echocardiographic
+T86	PROCEDURE 522 533	cardiac MRI
+T87	PROCEDURE 686 697	coronary CT
+T89	PROCEDURE 781 814	non-invasive coronary angiography
+T90	PROCEDURE 875 899	antiarrhythmic treatment
+T92	PROCEDURE 901 914	beta-blockers
+T94	PROCEDURE 916 935	calcium antagonists
+T95	PROCEDURE 1618 1648	transthoracic echocardiography
+T96	PROCEDURE 1650 1659	ergometry
+T98	PROCEDURE 1664 1674	Holter-ECG
+T82	PROCEDURE 1677 1697	Physical examination
+T118	PROCEDURE 1819 1832	Head and neck
+T101	PROCEDURE 1865 1885	Cardiac auscultation
+T102	PROCEDURE 1932 1954	Pulmonary auscultation
+T103	PROCEDURE 2101 2118	electrocardiogram
+T105	PROCEDURE 2120 2123	ECG
+T110	PROCEDURE 2326 2336	Holter ECG
+T97	PROCEDURE 2851 2902	Conventional ergometry: Bruce protocol on treadmill
+T84	PROCEDURE 3554 3582	Transthoracic echocardiogram
+T111	PROCEDURE 4052 4066	Blood analysis
+T112	PROCEDURE 4106 4132	Electrophysiological study
+T8	PROCEDURE 4159 4195	double right femoral venous puncture
+T9	PROCEDURE 4197 4291	Introduction of a decapolar diagnostic catheter in the coronary sinus and tetrapolar to His-VD
+T10	PROCEDURE 4293 4419	Pacing protocol was performed from the base of the RV at two frequencies and two extras, basal and under isoproterol perfusion
+T116	PROCEDURE 4490 4521	Right femoral arterial puncture
+T11	PROCEDURE 4526 4556	introduction of Orion catheter
+T12	PROCEDURE 4591 4618	map LVOT and aortic sinuses
+T107	PROCEDURE 4634 4637	ECG
+T13	PROCEDURE 4746 4758	RVOT mapping
+T117	PROCEDURE 4890 4901	electrogram
+T119	PROCEDURE 4919 4974	Pacemapping was performed from the theoretical ablation
+T15	PROCEDURE 5088 5143	electroanatomical integration with previous coronary CT
+T88	PROCEDURE 5132 5143	coronary CT
+T120	PROCEDURE 5236 5325	radiofrequency ablation was performed (40 W, 48o C) with a gold-tipped irrigated catheter
+T121	PROCEDURE 5444 5452	ablation
+T16	PROCEDURE 5458 5473	pacing protocol
+T99	PROCEDURE 5789 5799	Holter-ECG
+T85	PROCEDURE 5966 5982	echocardiography
+T113	PROCEDURE 6063 6089	electrophysiological study
+T122	PROCEDURE 6304 6312	ablation
+T114	PROCEDURE 6352 6378	electrophysiological study
+T18	PROCEDURE 6589 6615	radiofrequency was applied
+T100	PROCEDURE 6910 6920	Holter-ECG
+T91	PROCEDURE 7036 7060	antiarrhythmic treatment
+T115	PROCEDURE 7159 7185	Electrophysiological study
+T123	PROCEDURE 7190 7236	successful ablation of the extrasystolic focus

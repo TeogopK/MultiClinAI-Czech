@@ -1,0 +1,21 @@
+T13	PROCEDURE 222 242	Physical examination
+T17	PROCEDURE 346 360	deep palpation
+T20	PROCEDURE 362 381	Scrotal examination
+T22	PROCEDURE 656 666	blood test
+T1	PROCEDURE 745 780	abdominal and testicular ultrasound
+T25	PROCEDURE 985 996	Chest X-ray
+T4	PROCEDURE 1079 1092	thoracentesis
+T2	PROCEDURE 1158 1177	thoracoabdominal CT
+T28	PROCEDURE 1480 1530	Blood samples were obtained for testicular markers
+T6	PROCEDURE 1597 1608	orchiectomy
+T5	PROCEDURE 1765 1782	urgent laparotomy
+T9	PROCEDURE 1789 1809	abdominal ultrasound
+T11	PROCEDURE 1872 1882	laparotomy
+T14	PROCEDURE 2102 2113	Splenectomy
+T7	PROCEDURE 2133 2190	suture and surgicel tamponade of the bleeding liver areas
+T35	PROCEDURE 2210 2234	radical left orchiectomy
+T3	PROCEDURE 2304 2323	radical orchiectomy
+T15	PROCEDURE 2597 2623	Microscopic histopathology
+T16	PROCEDURE 2910 2920	Microscopy
+T38	PROCEDURE 3029 3038	operation
+T12	PROCEDURE 3153 3163	laparotomy

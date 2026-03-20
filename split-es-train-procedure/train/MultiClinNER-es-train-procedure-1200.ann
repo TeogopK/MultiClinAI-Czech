@@ -1,0 +1,57 @@
+T97	PROCEDURE 543 558	coronariografía
+T98	PROCEDURE 604 631	ecocardiograma de ejercicio
+T99	PROCEDURE 682 728	implante de stents farmacoactivos sobre TCI-DA
+T100	PROCEDURE 972 984	Espirometría
+T101	PROCEDURE 1049 1072	prueba broncodilatadora
+T102	PROCEDURE 1310 1325	colecistectomía
+T103	PROCEDURE 2022 2042	radiografía de tórax
+T104	PROCEDURE 2172 2195	tratamiento antibiótico
+T105	PROCEDURE 2197 2211	oxigenoterapia
+T106	PROCEDURE 2213 2223	corticoide
+T107	PROCEDURE 2384 2395	TC torácica
+T108	PROCEDURE 2498 2510	broncoscopia
+T109	PROCEDURE 2567 2581	broncoaspirado
+T110	PROCEDURE 2937 2957	radiografía de tórax
+T111	PROCEDURE 3308 3329	Auscultación cardiaca
+T112	PROCEDURE 3414 3435	Auscultación pulmonar
+T113	PROCEDURE 3623 3626	ECG
+T114	PROCEDURE 3701 3710	hemograma
+T115	PROCEDURE 3948 3968	Radiografía de tórax
+T116	PROCEDURE 4123 4143	Radiografía de tórax
+T117	PROCEDURE 4282 4297	Coronariografía
+T118	PROCEDURE 4375 4406	implante de prótesis percutánea
+T119	PROCEDURE 4485 4499	Ecocardiograma
+T120	PROCEDURE 5152 5181	Ecocardiograma transesofágico
+T121	PROCEDURE 5152 5231	Ecocardiograma transesofágico de monitorización de implante de TAVI transapical
+T122	PROCEDURE 5644 5702	implante de prótesis SAPIEN 3 de 23 mm por vía transapical
+T123	PROCEDURE 5704 5719	ETE posimplante
+T124	PROCEDURE 6245 6266	tratamiento diurético
+T125	PROCEDURE 6360 6372	broncoscopia
+T126	PROCEDURE 6815 6840	recambio valvular aórtico
+T127	PROCEDURE 6893 6931	recambio percutáneo por acceso femoral
+T128	PROCEDURE 6956 6967	angiografía
+T129	PROCEDURE 7122 7215	implante de prótesis biológica Edwards SAPIEN 3 de 23 mm bajo monitorización ecocardiográfica
+T130	PROCEDURE 7184 7215	monitorización ecocardiográfica
+T131	PROCEDURE 7280 7288	extubado
+T132	PROCEDURE 7398 7442	transfusión de tres concentrados de hematíes
+T133	PROCEDURE 7901 7916	ecocardiogramas
+T134	PROCEDURE 8474 8549	revascularizada de forma quirúrgica (AMII-DA, AMID-OM en 1997) y percutánea
+T135	PROCEDURE 8551 8578	implante de stent en TCI-DA
+T147	PROCEDURE 3801 3811	Bioquímica
+T148	PROCEDURE 5233 5236	ETE
+T149	PROCEDURE 3129 3147	EXPLORACIÓN FÍSICA
+T150	PROCEDURE 8202 8283	Recambio valvular aórtico transapical por prótesis biológica Edward Sapien 3 No23
+T151	PROCEDURE 8627 8640	anticoagulado
+T152	PROCEDURE 7513 7529	cirugía cardiaca
+T153	PROCEDURE 7564 7580	cirugía cardiaca
+T154	PROCEDURE 296 355	revascularizada quirúrgicamente en 1992 (AMII-DA y AMID-OM)
+T155	PROCEDURE 2226 2235	diurético
+T156	PROCEDURE 2326 2357	estudio autoinmune e infeccioso
+T178	PROCEDURE 3690 3699	Analítica
+T190	PROCEDURE 1282 1308	Intervenciones quirúrgicas
+T191	PROCEDURE 5630 5642	Intervención
+T205	PROCEDURE 6054 6065	exploración
+T214	PROCEDURE 7225 7237	intervención
+T160	PROCEDURE 3284 3287	CyC
+T170	PROCEDURE 7051 7095	implantar la prótesis por acceso transapical
+#6	AnnotatorNotes T148	 ecocardiografía transesofágica

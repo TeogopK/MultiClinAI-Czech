@@ -1,0 +1,28 @@
+T1	SYMPTOM 554 588	afectación pulmonar parenquimatosa
+T2	SYMPTOM 920 941	taquipnea persistente
+T3	SYMPTOM 1015 1021	fiebre
+T4	SYMPTOM 1937 1951	fiebre elevada
+T5	SYMPTOM 2284 2302	PCR VHS-1 positivo
+T6	SYMPTOM 2653 2659	fiebre
+T7	SYMPTOM 1696 1703	afebril
+T8	SYMPTOM 407 433	dificultades ventilatorias
+T9	SYMPTOM 756 787	afectación parenquimatosa basal
+T10	SYMPTOM 527 538	infiltrados
+T11	SYMPTOM 946 972	mala mecánica respiratoria
+T12	SYMPTOM 1530 1541	infiltrados
+T13	SYMPTOM 1544 1578	muestras microbiológicas negativas
+T14	SYMPTOM 1958 1987	cultivos reiterados negativos
+T15	SYMPTOM 1468 1474	fiebre
+T16	SYMPTOM 1355 1376	reacción leucocitaria
+T17	SYMPTOM 2512 2549	positividad nuclear para herpes virus
+T18	SYMPTOM 1268 1289	reacción inflamatoria
+A1	IMAGEN T1
+A2	RESULTADO T5
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	IMAGEN T12
+A6	RESULTADO T13
+A7	RESULTADO T14
+A8	RESULTADO T16
+A9	RESULTADO T17
+A10	RESULTADO T18

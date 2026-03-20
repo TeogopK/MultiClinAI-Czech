@@ -1,0 +1,27 @@
+T19	DISEASE 116 128	hypertension
+T21	DISEASE 130 143	dyslipidaemia
+T23	DISEASE 145 152	smoking
+T25	DISEASE 168 183	type 2 diabetes
+T27	DISEASE 348 362	cholelithiasis
+T1	DISEASE 560 624	acute coronary syndrome with Killip I anterolateral ST elevation
+T2	DISEASE 667 751	acute subtotal thrombotic lesion of the proximal anterior descending coronary artery
+T3	DISEASE 829 860	moderate lesions in OM1 and OM2
+T36	DISEASE 865 883	diffuse DC disease
+T28	DISEASE 907 939	moderate ventricular dysfunction
+T30	DISEASE 2278 2291	heart failure
+T4	DISEASE 2309 2361	left ventricle of normal size, slightly hypertrophic
+T29	DISEASE 2512 2544	moderate ventricular dysfunction
+T31	DISEASE 2649 2663	valvulopathies
+T32	DISEASE 2668 2688	pericardial effusion
+T5	DISEASE 2746 2817	LAD: normodeveloped of regular calibre, with subtotal thrombotic lesion
+T6	DISEASE 2951 2994	1st and 2nd OM have moderate ostial lesions
+T7	DISEASE 2996 3043	ACD: dominant, diffuse atheromatous involvement
+T8	DISEASE 3144 3161	lesion in the LAD
+T24	DISEASE 3534 3541	smoking
+T9	DISEASE 3742 3784	moderate ischaemic ventricular dysfunction
+T10	DISEASE 4256 4332	Acute ST-elevation myocardial infarction with Killip 1 anterior ST elevation
+T11	DISEASE 4334 4353	Severe proximal CAD
+T33	DISEASE 4402 4439	Moderate left ventricular dysfunction
+T34	DISEASE 4441 4462	Arterial hypertension
+T35	DISEASE 4464 4488	Type 2 diabetes mellitus
+T22	DISEASE 4508 4521	Dyslipidaemia

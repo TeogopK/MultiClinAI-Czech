@@ -1,0 +1,46 @@
+T95	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T90	PROCEDURE 410 420	spirometry
+T91	PROCEDURE 582 609	right inguinal hernioplasty
+T92	PROCEDURE 642 675	retropubic prostatic adenomectomy
+T93	PROCEDURE 996 1012	prostate surgery
+T96	PROCEDURE 1799 1819	Physical examination
+T97	PROCEDURE 2042 2062	cardiac auscultation
+T98	PROCEDURE 2097 2119	Pulmonary auscultation
+T99	PROCEDURE 2350 2367	Electrocardiogram
+T4	PROCEDURE 2539 2555	Venous blood gas
+T126	PROCEDURE 2603 2615	Biochemistry
+T100	PROCEDURE 3168 3179	Coagulation
+T101	PROCEDURE 3227 3240	Lipid profile
+T5	PROCEDURE 3408 3420	Iron profile
+T7	PROCEDURE 3619 3627	Serology
+T102	PROCEDURE 3759 3770	Chest X-ray
+T103	PROCEDURE 3892 3903	Chest X-ray
+T104	PROCEDURE 4035 4063	Transthoracic echocardiogram
+T6	PROCEDURE 4065 4068	TTE
+T105	PROCEDURE 4238 4245	Doppler
+T119	PROCEDURE 4865 4899	Cardiac magnetic resonance imaging
+T14	PROCEDURE 4901 4904	MRI
+T106	PROCEDURE 5347 5390	Catheterisation via the right radial artery
+T107	PROCEDURE 5392 5417	Left coronary angiography
+T108	PROCEDURE 5753 5779	Right coronary angiography
+T19	PROCEDURE 6406 6427	Coronary intervention
+T20	PROCEDURE 6433 6519	stenosis described in the middle segment of the DC is predilated with a 4.0 mm balloon
+T21	PROCEDURE 6536 6576	implantation of a pharmacoactive usntent
+T22	PROCEDURE 6582 6619	post-dilatation with a 4.5 mm balloon
+T23	PROCEDURE 6669 6772	predilatation with a 4.0 mm balloon, another drug-eluting stent was implanted over the ulcerated lesion
+T24	PROCEDURE 6961 7039	These last two stents were post-dilated with a 4.5 NC balloon at high pressure
+T127	PROCEDURE 7235 7259	planned prostate surgery
+T109	PROCEDURE 7279 7297	diuretic treatment
+T111	PROCEDURE 7494 7517	neurohormonal treatment
+T128	PROCEDURE 7745 7759	renal function
+T114	PROCEDURE 7791 7805	echocardiogram
+T115	PROCEDURE 7979 7988	anamnesis
+T117	PROCEDURE 8239 8254	catheterisation
+T120	PROCEDURE 8275 8309	cardiac magnetic resonance imaging
+T122	PROCEDURE 8311 8334	cardiac catheterisation
+T129	PROCEDURE 8394 8465	right coronary artery in which three drug-eluting stents were implanted
+T121	PROCEDURE 8469 8503	cardiac magnetic resonance imaging
+T123	PROCEDURE 8860 8884	faecal occult blood test
+T112	PROCEDURE 9807 9830	neurohormonal treatment
+T124	PROCEDURE 10046 10069	oral diuretic treatment
+T125	PROCEDURE 11041 11082	implantation of three drug-eluting stents

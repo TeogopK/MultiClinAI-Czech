@@ -1,0 +1,65 @@
+T117	PROCEDURE 638 716	Amputación transfalángica del segundo dedo de la extremidad inferior izquierda
+T118	PROCEDURE 741 801	Amputación del cuarto dedo de la extremidad inferior derecha
+T119	PROCEDURE 1548 1588	amputación infracondílea reciente de EID
+T120	PROCEDURE 2294 2312	electrocardiograma
+T121	PROCEDURE 2314 2317	ECG
+T122	PROCEDURE 2844 2881	intervencionismo coronario percutáneo
+T123	PROCEDURE 3180 3183	ECG
+T124	PROCEDURE 3661 3679	Exploración física
+T125	PROCEDURE 3886 3907	Auscultación cardiaca
+T126	PROCEDURE 3946 3967	Auscultación pulmonar
+T127	PROCEDURE 4038 4047	palpación
+T128	PROCEDURE 4083 4100	amputación de EID
+T129	PROCEDURE 4171 4174	ECG
+T130	PROCEDURE 4406 4409	ECG
+T131	PROCEDURE 4551 4571	Radiografía de tórax
+T132	PROCEDURE 4744 4763	Gasometría arterial
+T133	PROCEDURE 5043 5052	Hemograma
+T134	PROCEDURE 5140 5151	Coagulación
+T135	PROCEDURE 5431 5448	curva de triptasa
+T136	PROCEDURE 5675 5686	Cateterismo
+T137	PROCEDURE 6130 6133	ICP
+T138	PROCEDURE 6354 6358	ACTP
+T139	PROCEDURE 6400 6414	Ecocardiograma
+T140	PROCEDURE 7229 7232	ECG
+T141	PROCEDURE 7327 7338	Cateterismo
+T142	PROCEDURE 7361 7369	ICP a CD
+T143	PROCEDURE 7409 7489	se implanta un stent farmacoactivo directo RESOLUTE 2,5 x 15 mm en Cd distal-IVP
+T144	PROCEDURE 7804 7815	cateterismo
+T145	PROCEDURE 8530 8540	corticoide
+T146	PROCEDURE 8963 8992	glucocorticoides intravenosos
+T147	PROCEDURE 9565 9589	fármacos betabloqueantes
+T148	PROCEDURE 10103 10110	cultivo
+T149	PROCEDURE 10112 10127	hemo/urocultivo
+T151	PROCEDURE 10296 10313	amputación de EID
+T152	PROCEDURE 10442 10473	retirada de sutura intradérmica
+T153	PROCEDURE 10594 10605	cateterismo
+T154	PROCEDURE 10629 10641	ICP a CD-IVP
+T155	PROCEDURE 11213 11216	ICP
+T156	PROCEDURE 11280 11283	ICP
+T157	PROCEDURE 11306 11354	implantación de un stent farmacoactivo en CD-IVP
+T158	PROCEDURE 11541 11572	amputación infracondilea de EID
+T184	PROCEDURE 4830 4840	Bioquímica
+T185	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T186	PROCEDURE 2883 2886	ICP
+T187	PROCEDURE 9652 9656	IECA
+T189	PROCEDURE 7942 7956	stent en TC-DA
+T190	PROCEDURE 9593 9650	inhibidores de la enzima de conversión de la angiotensina
+T191	PROCEDURE 828 859	Amputación infracondilea de EID
+T195	PROCEDURE 5308 5319	Lipidograma
+T196	PROCEDURE 6205 6260	se implanta unstent ANGIOLITE 3,5/24 mm desde TC ostial
+T197	PROCEDURE 6144 6195	se predilata la lesión grave de DA ostial con balón
+T198	PROCEDURE 11230 11278	implantación de stent farmacoactivo en eje TC-DA
+T230	PROCEDURE 4697 4706	Analítica
+T234	PROCEDURE 3843 3858	Cabeza y cuello
+T240	PROCEDURE 875 901	Intervenciones quirúrgicas
+T248	PROCEDURE 8768 8797	analítica con IgE específicas
+T258	PROCEDURE 3244 3253	ecoscopia
+T268	PROCEDURE 2561 2615	perfusión continua de dobutamina (DBT) y noradrenalina
+T269	PROCEDURE 2973 3023	perfusión continua de NAD (a 0,8 mcg/kg/min) y DBT
+T203	PROCEDURE 2742 2756	código infarto
+T204	PROCEDURE 3511 3533	apertura de la arteria
+T213	PROCEDURE 8381 8417	determinaciones de triptasa seriadas
+T215	PROCEDURE 9022 9028	antiH1
+#3	AnnotatorNotes T138	Angioplastia coronaria transluminal percutánea
+#4	AnnotatorNotes T186	 intervención coronaria percutánea

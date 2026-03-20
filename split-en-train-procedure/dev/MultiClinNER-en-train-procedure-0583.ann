@@ -1,0 +1,22 @@
+T13	PROCEDURE 133 143	blood test
+T3	PROCEDURE 152 178	abdominal ultrasound study
+T15	PROCEDURE 335 391	abdominal multislice computed axial tomography (CT) scan
+T12	PROCEDURE 383 385	CT
+T16	PROCEDURE 516 571	injection of intravenous contrast in the arterial phase
+T14	PROCEDURE 582 609	washout in the portal phase
+T18	PROCEDURE 808 839	Fine needle aspiration puncture
+T19	PROCEDURE 808 898	Fine needle aspiration puncture (FNA) of the lesion was performed under ultrasound control
+T17	PROCEDURE 841 844	FNA
+T20	PROCEDURE 880 898	ultrasound control
+T2	PROCEDURE 974 999	immunohistochemical study
+T1	PROCEDURE 1002 1024	Systematic blood tests
+T9	PROCEDURE 1046 1060	liver function
+T24	PROCEDURE 1062 1077	immunoglobulins
+T6	PROCEDURE 1079 1089	antibodies
+T8	PROCEDURE 1094 1108	tumour markers
+T10	PROCEDURE 1110 1123	Viral markers
+T26	PROCEDURE 1176 1400	hepatoma on non-cirrhotic liver, surgical resection was decided. Segments 2 and 3 were resected laparoscopically, using two No. 12 ports, periumbilical and in the right hypochondrium, and a gel port in the left hypochondrium
+T4	PROCEDURE 1406 1439	intraoperative histological study
+T11	PROCEDURE 1487 1505	histological signs
+T5	PROCEDURE 1591 1616	anatomopathological study
+T7	PROCEDURE 1863 1885	pathological diagnosis

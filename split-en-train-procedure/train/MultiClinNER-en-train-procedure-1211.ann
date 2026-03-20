@@ -1,0 +1,33 @@
+T29	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T32	PROCEDURE 211 218	statins
+T30	PROCEDURE 811 831	Physical examination
+T33	PROCEDURE 937 961	neurological examination
+T34	PROCEDURE 963 985	Pulmonary auscultation
+T36	PROCEDURE 1019 1031	Auscultation
+T1	PROCEDURE 1264 1275	Blood tests
+T37	PROCEDURE 1500 1517	electrocardiogram
+T38	PROCEDURE 1519 1522	ECG
+T41	PROCEDURE 1636 1647	Chest X-ray
+T2	PROCEDURE 1713 1741	Transthoracic echocardiogram
+T42	PROCEDURE 2037 2081	Coronary angiography: right radial access 5F
+T43	PROCEDURE 2083 2106	Cardiac catheterisation
+T55	PROCEDURE 2448 2475	intracoronary nitroglycerin
+T31	PROCEDURE 2724 2744	physical examination
+T39	PROCEDURE 2764 2767	ECG
+T5	PROCEDURE 2816 2844	transthoracic echocardiogram
+T6	PROCEDURE 2846 2849	TTE
+T48	PROCEDURE 3146 3166	coronary angiography
+T44	PROCEDURE 3219 3242	cardiac catheterisation
+T40	PROCEDURE 3308 3311	ECG
+T49	PROCEDURE 3376 3386	Blood test
+T45	PROCEDURE 3411 3476	Cardiac catheterisation was performed via the right radial artery
+T8	PROCEDURE 3485 3489	LMCA
+T9	PROCEDURE 3595 3614	LMCA was cannulated
+T50	PROCEDURE 3654 3672	contrast injection
+T52	PROCEDURE 3904 3914	monitoring
+T10	PROCEDURE 4052 4080	intracoronary nitroglycerine
+T51	PROCEDURE 4185 4203	contrast injection
+T11	PROCEDURE 4320 4341	coronary angiographic
+T46	PROCEDURE 4425 4448	cardiac catheterisation
+T53	PROCEDURE 4473 4492	calcium antagonists
+T54	PROCEDURE 4497 4522	long-acting oral nitrates

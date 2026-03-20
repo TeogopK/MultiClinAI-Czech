@@ -1,0 +1,9 @@
+T1	DISEASE 75 95	silicosis complicada
+T2	DISEASE 103 112	Exfumador
+T3	DISEASE 154 175	tuberculosis pulmonar
+T14	DISEASE 713 739	insuficiencia respiratoria
+T22	DISEASE 1074 1083	silicosis
+T37	DISEASE 97 100	FMP
+T39	DISEASE 1157 1160	FMP
+T43	DISEASE 1592 1607	lesión cavitada
+#1	AnnotatorNotes T37	  FMP: Fibrosis masiva progresiva

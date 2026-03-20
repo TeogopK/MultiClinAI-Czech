@@ -1,0 +1,29 @@
+T1	SYMPTOM 127 141	microhematuria
+T2	SYMPTOM 239 245	edemas
+T3	SYMPTOM 346 373	serología positiva para VHC
+T4	SYMPTOM 999 1023	crioglobulinas positivas
+T5	SYMPTOM 411 435	crioglobulinas positivas
+T6	SYMPTOM 2573 2597	proteinuria no nefrótica
+T7	SYMPTOM 2600 2614	microhematuria
+T8	SYMPTOM 3830 3841	proteinuria
+T9	SYMPTOM 3866 3895	deterioro de la función renal
+T10	SYMPTOM 2891 2919	eco-Doppler renal fue normal
+T11	SYMPTOM 2657 2677	función renal normal
+T12	SYMPTOM 2346 2366	proteinuria negativa
+T13	SYMPTOM 2619 2638	cilindros hemáticos
+T14	SYMPTOM 2149 2158	fallecido
+T15	SYMPTOM 2690 2884	estudio de autoinmunidad, anticuerpos donante específicos, así como antigenemia para citomegalovirus y PCR (reacción en cadena de enzima polimerasa) sérica para el virus BK, que fueron negativas
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9
+A9	IMAGEN T10
+A10	RESULTADO T11
+A11	RESULTADO T12
+A12	RESULTADO T13
+A13	EXITUS T14
+A14	RESULTADO T15

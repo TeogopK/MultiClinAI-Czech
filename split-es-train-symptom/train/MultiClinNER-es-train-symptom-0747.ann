@@ -1,0 +1,9 @@
+T1	SYMPTOM 896 906	masa renal
+T2	SYMPTOM 749 784	proteinuria de bence-jones positiva
+T3	SYMPTOM 1972 1984	asintomático
+T4	SYMPTOM 228 238	masa renal
+T5	SYMPTOM 579 599	bordes mal definidos
+T6	SYMPTOM 1560 1622	engrosamiento de fascia perirrenal con desflecamiento de grasa
+A1	RESULTADO T2
+A2	IMAGEN T5
+A3	IMAGEN T6

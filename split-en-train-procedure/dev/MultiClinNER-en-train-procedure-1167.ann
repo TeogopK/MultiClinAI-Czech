@@ -1,0 +1,14 @@
+T41	PROCEDURE 170 190	physical examination
+T42	PROCEDURE 626 649	inhaled bronchodilators
+T43	PROCEDURE 1602 1611	Haemogram
+T52	PROCEDURE 1682 1694	Biochemistry
+T44	PROCEDURE 1797 1814	Electrocardiogram
+T45	PROCEDURE 1908 1919	Chest X-ray
+T46	PROCEDURE 2126 2154	Transthoracic echocardiogram
+T51	PROCEDURE 2155 2185	transesophageal echocardiogram
+T47	PROCEDURE 2559 2566	Doppler
+T50	PROCEDURE 2866 2886	depletive management
+T48	PROCEDURE 3007 3030	Cardiac catheterisation
+T6	PROCEDURE 3432 3446	Occlusion test
+T49	PROCEDURE 3692 3716	mitral valve replacement
+T8	PROCEDURE 3721 3739	closure of the ASD

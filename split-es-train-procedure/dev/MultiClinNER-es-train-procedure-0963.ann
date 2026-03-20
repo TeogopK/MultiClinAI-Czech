@@ -1,0 +1,45 @@
+T64	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 387 411	Recambio valvular mitral
+T66	PROCEDURE 509 559	Sustitución valvular mitral por prótesis biológica
+T67	PROCEDURE 596 657	Sustitución valvular mitral y aórtica por prótesis biológicas
+T68	PROCEDURE 1096 1111	coronariografía
+T69	PROCEDURE 1334 1391	tratamiento con presión positiva continua en la vía aérea
+T70	PROCEDURE 1393 1397	CPAP
+T71	PROCEDURE 1420 1434	Prostatectomía
+T72	PROCEDURE 2403 2451	cirugía de sustitución valvular mitral y aórtica
+T73	PROCEDURE 2605 2635	antiinflamatorio no esteroideo
+T74	PROCEDURE 2637 2641	AINE
+T75	PROCEDURE 2744 2762	EXPLORACION FÍSICA
+T76	PROCEDURE 2844 2857	gafas nasales
+T77	PROCEDURE 2908 2929	Auscultación cardiaca
+T78	PROCEDURE 2954 2975	Auscultación pulmonar
+T79	PROCEDURE 3146 3160	Perfil férrico
+T80	PROCEDURE 3267 3270	ECG
+T81	PROCEDURE 3369 3389	Radiografía de tórax
+T82	PROCEDURE 3469 3481	esternotomía
+T83	PROCEDURE 3490 3504	Ecocardiograma
+T85	PROCEDURE 4999 5024	combinación de diuréticos
+T86	PROCEDURE 5060 5076	diurético de asa
+T87	PROCEDURE 5147 5180	tratamiento diuréticos tiazídicos
+T88	PROCEDURE 5203 5251	diuréticos inhibidores de la anhidrasa carbónica
+T89	PROCEDURE 5413 5457	suplementos nutricionales ricos en proteínas
+T90	PROCEDURE 5693 5750	soporte ventilatorio con ventilación mecánica no invasiva
+T92	PROCEDURE 5919 5940	diuréticos tiazídicos
+T93	PROCEDURE 5997 6027	perfusión de diurético de asas
+T94	PROCEDURE 6146 6163	hemodiafiltración
+T95	PROCEDURE 6654 6675	auscultación pulmonar
+T96	PROCEDURE 6717 6738	auscultación cardiaca
+T97	PROCEDURE 7060 7064	AINE
+T98	PROCEDURE 7359 7369	diuréticos
+T117	PROCEDURE 7161 7174	anticoagulada
+T122	PROCEDURE 4524 4534	analíticas
+T124	PROCEDURE 6810 6823	función renal
+T125	PROCEDURE 7206 7219	función renal
+T126	PROCEDURE 4247 4263	diurético de asa
+T130	PROCEDURE 3030 3039	Analítica
+T134	PROCEDURE 2859 2874	Cabeza y cuello
+T135	PROCEDURE 431 465	Cirugía por estenosis mitral grave
+T182	PROCEDURE 5096 5131	perfusión intravenosa de furosemida
+T1	PROCEDURE 475 507	Prótesis mitral metálica St Jude
+T84	PROCEDURE 4315 4341	control de ingesta hídrica
+T123	PROCEDURE 6394 6459	suero fisiológico al 0,9% con adición de 1 ampolla de ClNa al 20%

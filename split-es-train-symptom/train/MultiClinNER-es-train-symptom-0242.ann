@@ -1,0 +1,7 @@
+T1	SYMPTOM 76 110	dolor, lagrimeo y secreción en ojo
+T2	SYMPTOM 700 709	hiperemia
+T3	SYMPTOM 1352 1369	síntomas oculares
+T4	SYMPTOM 138 153	ojo rojo severo
+T5	SYMPTOM 633 686	ampolla grande en sector nasal de la conjuntiva bulba
+A1	RESULTADO T2
+A2	RESULTADO T5

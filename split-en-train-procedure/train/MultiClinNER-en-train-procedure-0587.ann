@@ -1,0 +1,25 @@
+T15	PROCEDURE 387 403	laboratory tests
+T1	PROCEDURE 405 408	ECG
+T16	PROCEDURE 410 418	brain CT
+T2	PROCEDURE 490 501	chest X-ray
+T3	PROCEDURE 505 520	lumbar puncture
+T4	PROCEDURE 594 597	EEG
+T5	PROCEDURE 640 649	brain MRI
+T17	PROCEDURE 711 740	FLAIR and diffusion sequences
+T18	PROCEDURE 770 809	administration of paramagnetic contrast
+T19	PROCEDURE 914 936	PCR for herpes simplex
+T6	PROCEDURE 942 956	antibiotherapy
+T21	PROCEDURE 1168 1224	physical examination and in the neurological examination
+T7	PROCEDURE 1601 1615	antibiotherapy
+T26	PROCEDURE 1743 1751	serology
+T8	PROCEDURE 1841 1860	thoracoabdominal CT
+T28	PROCEDURE 1908 1948	bronchoscopy with bronchoalveolar lavage
+T9	PROCEDURE 1961 2003	upper and lower gastrointestinal endoscopy
+T10	PROCEDURE 2005 2023	intestinal transit
+T11	PROCEDURE 2025 2046	urological assessment
+T12	PROCEDURE 2048 2065	bone scintigraphy
+T13	PROCEDURE 2070 2088	bone marrow biopsy
+T33	PROCEDURE 2161 2180	whole-body PET scan
+T20	PROCEDURE 2346 2349	PET
+T34	PROCEDURE 2371 2390	CT scan of the neck
+T14	PROCEDURE 2398 2424	anatomo-pathological study

@@ -1,0 +1,38 @@
+T28	DISEASE 122 151	early ischaemic heart disease
+T29	DISEASE 244 258	drug allergies
+T30	DISEASE 419 428	ex-smoker
+T31	DISEASE 472 482	overweight
+T36	DISEASE 605 624	atrial fibrillation
+T33	DISEASE 702 726	structural heart disease
+T34	DISEASE 1529 1543	mild psoriasis
+T35	DISEASE 1559 1565	asthma
+T37	DISEASE 1859 1878	atrial fibrillation
+T38	DISEASE 2275 2294	atrial fibrillation
+T46	DISEASE 2911 2931	deep vein thrombosis
+T39	DISEASE 3284 3303	atrial fibrillation
+T47	DISEASE 3284 3335	atrial fibrillation with rapid ventricular response
+T40	DISEASE 3458 3477	atrial fibrillation
+T49	DISEASE 3458 3505	atrial fibrillation with rapid ventricular rate
+T50	DISEASE 3713 3726	insufficiency
+T51	DISEASE 4458 4480	pulmonary hypertension
+T52	DISEASE 4485 4505	pericardial effusion
+T27	DISEASE 4726 4748	left atrial dilatation
+T59	DISEASE 5143 5190	intracavitary thrombi and left atrial appendage
+T60	DISEASE 5276 5296	patent foramen ovale
+T53	DISEASE 5373 5393	pericardial effusion
+T41	DISEASE 6867 6886	atrial fibrillation
+T42	DISEASE 7154 7173	atrial fibrillation
+T54	DISEASE 8398 8415	phrenic paralysis
+T55	DISEASE 8553 8566	extrasystoles
+T43	DISEASE 9201 9220	atrial fibrillation
+T48	DISEASE 9201 9252	atrial fibrillation with rapid ventricular response
+T61	DISEASE 9280 9309	moderate systolic dysfunction
+T62	DISEASE 9462 9501	supraventricular extrasystolic activity
+T56	DISEASE 9619 9632	heart failure
+T57	DISEASE 9797 9825	left ventricular dysfunction
+T63	DISEASE 9845 9864	tachycardiomyopathy
+T44	DISEASE 9942 9961	atrial fibrillation
+T32	DISEASE 10073 10083	overweight
+T45	DISEASE 10451 10470	atrial fibrillation
+T58	DISEASE 11647 11660	Paroxysmal AF
+T64	DISEASE 11688 11707	tachycardiomyopathy

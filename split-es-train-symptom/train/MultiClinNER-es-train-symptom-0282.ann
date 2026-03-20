@@ -1,0 +1,31 @@
+T1	SYMPTOM 1258 1280	deterioro respiratorio
+T2	SYMPTOM 119 127	tos seca
+T3	SYMPTOM 129 151	molestias precordiales
+T4	SYMPTOM 3696 3706	linfopenia
+T5	SYMPTOM 153 169	diarreas acuosas
+T6	SYMPTOM 172 178	fiebre
+T7	SYMPTOM 208 231	crepitantes bilaterales
+T8	SYMPTOM 5074 5131	hemocultivo positivo para Estafilococo coagulasa negativo
+T9	SYMPTOM 341 367	infiltrados intersticiales
+T10	SYMPTOM 6102 6108	exitus
+T11	SYMPTOM 436 478	leucocitosis con desviación a la izquierda
+T12	SYMPTOM 1763 1785	deterioro hemodinámico
+T13	SYMPTOM 3154 3165	oligoanuria
+T14	SYMPTOM 3254 3280	inestabilidad hemodinámica
+T15	SYMPTOM 3938 3965	mejoría de la función renal
+T16	SYMPTOM 2174 2259	anticuerpos anti-citoplasma de los neutrófilos, y antimembrana basal fueron negativos
+T17	SYMPTOM 2392 2434	cultivos bacterianos y fúngicos (negativos
+T18	SYMPTOM 2265 2328	determinación del antígeno de galactomanano en sangre (negativa
+T19	SYMPTOM 1542 1558	cuadro diarreico
+T20	SYMPTOM 3708 3721	plaquetopenia
+T21	SYMPTOM 5477 5517	PCR para Adenovirus se negativizó en LBA
+T22	SYMPTOM 3756 3778	sangrado intraalveolar
+A1	RESULTADO T4
+A2	RESULTADO T8
+A3	EXITUS T10
+A4	RESULTADO T11
+A5	RESULTADO T16
+A6	RESULTADO T17
+A7	RESULTADO T18
+A8	RESULTADO T20
+A9	RESULTADO T21

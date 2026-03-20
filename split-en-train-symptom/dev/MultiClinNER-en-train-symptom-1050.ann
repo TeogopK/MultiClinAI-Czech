@@ -1,0 +1,53 @@
+T1	SYMPTOM 908 936	Acceptable general condition
+T2	SYMPTOM 938 947	Conscious
+T3	SYMPTOM 949 957	oriented
+T4	SYMPTOM 975 990	Eupneic at rest
+T5	SYMPTOM 1095 1151	Cardiac auscultation: rhythmic tones at a good frequency
+T6	SYMPTOM 1156 1163	murmurs
+T7	SYMPTOM 1203 1229	preserved vesicular murmur
+T8	SYMPTOM 1324 1330	masses
+T9	SYMPTOM 1334 1343	megaliths
+T10	SYMPTOM 1529 1546	sinus tachycardia
+T12	SYMPTOM 6701 6718	sinus tachycardia
+T13	SYMPTOM 1636 1645	normal PR
+T14	SYMPTOM 4242 4251	Normal PR
+T15	SYMPTOM 5222 5231	Normal PR
+T16	SYMPTOM 1647 1657	narrow QRS
+T17	SYMPTOM 4253 4263	Narrow QRS
+T19	SYMPTOM 1875 1887	neutrophilia
+T20	SYMPTOM 2369 2422	non-dilated left ventricle with normal wall thickness
+T21	SYMPTOM 2739 2756	Non-dilated atria
+T22	SYMPTOM 4484 4546	left ventricle of normal dimensions with normal wall thickness
+T23	SYMPTOM 4697 4729	Left atrium of normal dimensions
+T24	SYMPTOM 5198 5210	sinus rhythm
+T25	SYMPTOM 5233 5260	Narrow QRS with QS in V1-V3
+T26	SYMPTOM 5709 5720	hypotensive
+T27	SYMPTOM 5848 5858	chest pain
+T28	SYMPTOM 6685 6696	hypotension
+T29	SYMPTOM 2424 2460	severe hypokinesia of the apical cap
+T30	SYMPTOM 2465 2559	hypokinesia of apical segments and middle segment of inferolateral, lateral and anterior faces
+T31	SYMPTOM 3175 3215	thoracoabdominal aorta of normal calibre
+T32	SYMPTOM 4295 4304	QR in aVL
+T33	SYMPTOM 4784 4825	Right ventricle with normal contractility
+T34	SYMPTOM 4883 4919	Inferior vena cava of normal calibre
+T45	SYMPTOM 434 480	oppressive non-radiating central thoracic pain
+T46	SYMPTOM 486 502	vegetative crust
+T47	SYMPTOM 561 628	electrocardiogram (ECG) was performed with pathological alterations
+T49	SYMPTOM 992 1005	Normal weight
+T50	SYMPTOM 1063 1093	Jugular venous pressure normal
+T51	SYMPTOM 1265 1319	Abdomen soft and depressible, not painful on palpation
+T52	SYMPTOM 1358 1385	Hydro-aerial sounds present
+T53	SYMPTOM 1390 1415	oedema in the lower limbs
+T54	SYMPTOM 1434 1481	Radial, femoral and pedal pulses were preserved
+T55	SYMPTOM 1659 1719	ST segment elevation of 2 mm in V1 and aVR, and 1 mm in V2-3
+T56	SYMPTOM 1726 1781	ST descent of 1-2 mm in inferior face and from V4 to V6
+T11	SYMPTOM 4282 4293	QS of V1-V3
+T57	SYMPTOM 4317 4350	ST-segment elevation in aVL, V1-3
+T58	SYMPTOM 4352 4399	ST-segment depression of 1 mm in inferior leads
+T59	SYMPTOM 4548 4571	Mild global hypokinesia
+T60	SYMPTOM 4731 4754	Aortic root not dilated
+T61	SYMPTOM 5117 5138	Normal antegrade flow
+T18	SYMPTOM 5262 5293	Millimetre ST subleveling in V3
+T62	SYMPTOM 5295 5326	Negative T in DI, aVL and V1-V5
+T63	SYMPTOM 5457 5474	Coagulation norma
+T66	SYMPTOM 7725 7775	asymptomatic from the cardiovascular point of view

@@ -1,0 +1,29 @@
+T1	DISEASE 86 99	dyslipidaemic
+T16	DISEASE 106 142	non-ischaemic dilated cardiomyopathy
+T19	DISEASE 148 178	severe ventricular dysfunction
+T2	DISEASE 399 421	dilated cardiomyopathy
+T3	DISEASE 438 457	conduction disorder
+T20	DISEASE 462 485	ventricular arrhythmias
+T21	DISEASE 650 697	bicuspid aortic valve with severe insufficiency
+T22	DISEASE 740 753	heart failure
+T23	DISEASE 789 819	severe LV systolic dysfunction
+T4	DISEASE 874 895	severe decompensation
+T5	DISEASE 1089 1144	increasingly frequent decompensations due to low output
+T24	DISEASE 1629 1649	neurological deficit
+T6	DISEASE 2578 2600	valvular heart disease
+T25	DISEASE 2604 2624	pericardial effusion
+T7	DISEASE 2906 2946	tonic-clonic movements of all four limbs
+T8	DISEASE 3110 3129	generalised seizure
+T9	DISEASE 4298 4417	posterior temporal and parieto-occipital hypodense lesions, as well as right frontal and in both cerebellar hemispheres
+T10	DISEASE 4472 4617	vasogenic oedema symmetrically affecting the subcortical white matter of almost all of both occipital lobes and occipito-parieto-temporal regions
+T11	DISEASE 4856 4864	seizures
+T26	DISEASE 5007 5051	posterior reversible encephalopathy syndrome
+T28	DISEASE 5053 5057	PRES
+T12	DISEASE 5275 5292	critical episodes
+T13	DISEASE 5746 5754	seizures
+T27	DISEASE 6009 6053	Reversible posterior encephalopathy syndrome
+T29	DISEASE 6055 6059	PRES
+T14	DISEASE 6110 6143	Generalised tonic-clonic seizures
+T15	DISEASE 6245 6267	dilated cardiomyopathy
+T17	DISEASE 6273 6308	severe left ventricular dysfunction
+T33	DISEASE 6319 6330	laminopathy

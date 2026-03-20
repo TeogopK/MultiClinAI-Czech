@@ -1,0 +1,54 @@
+T92	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T133	PROCEDURE 416 423	surgery
+T89	PROCEDURE 425 446	radical prostatectomy
+T91	PROCEDURE 476 491	Prostate biopsy
+T6	PROCEDURE 1183 1214	thoraco-abdomino-pelvic CT scan
+T131	PROCEDURE 1229 1263	staging of prostate adenocarcinoma
+T93	PROCEDURE 1453 1473	PHYSICAL EXAMINATION
+T94	PROCEDURE 1805 1825	Cardiac auscultation
+T95	PROCEDURE 1859 1881	pulmonary auscultation
+T8	PROCEDURE 1971 1982	examination
+T9	PROCEDURE 2066 2069	CBC
+T129	PROCEDURE 2137 2151	Renal function
+T98	PROCEDURE 2272 2285	Lipid profile
+T100	PROCEDURE 2387 2403	Prostate markers
+T103	PROCEDURE 2705 2729	Chest X-ray PA + lateral
+T11	PROCEDURE 2865 2910	Thoracic-abdominal-pelvic CT with IV contrast
+T104	PROCEDURE 3039 3069	Transthoracic echocardiography
+T105	PROCEDURE 3732 3764	Electrocardiographic stress test
+T107	PROCEDURE 4301 4321	Coronary angiography
+T15	PROCEDURE 4801 4895	Percutaneous coronary intervention with drug-eluting balloon angioplasty on the first diagonal
+T16	PROCEDURE 4900 4982	implantation of two overlapping stents (BioFreedom) in the proximal and middle RCA
+T110	PROCEDURE 5009 5034	dual antiplatelet therapy
+T17	PROCEDURE 5114 5125	Blood tests
+T130	PROCEDURE 5156 5170	Renal function
+T96	PROCEDURE 5233 5247	Urine sediment
+T97	PROCEDURE 5252 5270	urine electrolytes
+T99	PROCEDURE 5292 5305	Lipid profile
+T111	PROCEDURE 5405 5418	Transaminases
+T132	PROCEDURE 5423 5442	cholestasis enzymes
+T18	PROCEDURE 5481 5490	Haemogram
+T101	PROCEDURE 5495 5506	coagulation
+T113	PROCEDURE 5680 5696	echocardiography
+T106	PROCEDURE 5755 5787	electrocardiographic stress test
+T114	PROCEDURE 6290 6306	Echocardiography
+T118	PROCEDURE 6435 6446	stress test
+T119	PROCEDURE 6469 6486	electrocardiogram
+T102	PROCEDURE 6488 6491	ECG
+T19	PROCEDURE 6643 6656	exercise test
+T20	PROCEDURE 6902 6916	treadmill test
+T108	PROCEDURE 6931 6951	coronary angiography
+T134	PROCEDURE 6991 6998	surgery
+T120	PROCEDURE 7085 7115	percutaneous revascularisation
+T123	PROCEDURE 7138 7158	antiplatelet therapy
+T109	PROCEDURE 7160 7180	Coronary angiography
+T23	PROCEDURE 7282 7364	implantation of two overlapping drug-eluting stents in the proximal and middle LAD
+T24	PROCEDURE 7369 7424	drug-eluting balloon angioplasty in the diagonal branch
+T124	PROCEDURE 7517 7537	antiplatelet therapy
+T135	PROCEDURE 7607 7650	surgery required by the prostatic pathology
+T125	PROCEDURE 8181 8231	double antiplatelet therapy with ASA + clopidogrel
+T127	PROCEDURE 8247 8283	simple antiplatelet therapy with ASA
+T90	PROCEDURE 8288 8309	radical prostatectomy
+T121	PROCEDURE 8488 8518	Percutaneous revascularisation
+T26	PROCEDURE 8520 8571	drug-eluting balloon angioplasty in diagonal branch
+T128	PROCEDURE 8576 8615	implantation of two drug-eluting stents

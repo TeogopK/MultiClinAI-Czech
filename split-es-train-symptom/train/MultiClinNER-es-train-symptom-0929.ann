@@ -1,0 +1,85 @@
+T1	SYMPTOM 365 388	alteración del lenguaje
+T2	SYMPTOM 394 418	dificultades nominativas
+T3	SYMPTOM 428 438	parafasias
+T4	SYMPTOM 441 475	discurso fragmentado e incoherente
+T5	SYMPTOM 501 512	somnolencia
+T6	SYMPTOM 1127 1156	tos persistente no productiva
+T7	SYMPTOM 1256 1280	intolerancia al decúbito
+T8	SYMPTOM 1291 1325	leve edematización de extremidades
+T9	SYMPTOM 1558 1578	Lenguaje hipofluente
+T10	SYMPTOM 1584 1604	trastorno nominativo
+T12	SYMPTOM 1647 1701	repetición y ejecución de órdenes complejas conservada
+T13	SYMPTOM 1703 1722	Labilidad emocional
+T14	SYMPTOM 1727 1746	tendencia al llanto
+T16	SYMPTOM 1809 1843	alteración de la memoria operativa
+T18	SYMPTOM 2168 2198	Auscultación cardiaca: rítmica
+T19	SYMPTOM 2223 2253	soplo sistólico en foco mitral
+T20	SYMPTOM 2278 2307	crepitantes hasta campo medio
+T21	SYMPTOM 2424 2445	Ingurgitación yugular
+T22	SYMPTOM 2449 2486	Leves edemas bimaleolares en decúbito
+T23	SYMPTOM 2711 2724	ritmo sinusal
+T24	SYMPTOM 2735 2744	PR normal
+T25	SYMPTOM 2804 2838	Onda T negativa en III, AVF, V5-V6
+T28	SYMPTOM 3430 3456	Tóxicos en orina negativos
+T29	SYMPTOM 3599 3628	Cultivo de bacterias negativo
+T30	SYMPTOM 3645 3728	frotis nasofaríngeo para gripe, enterovirus y virus respiratorio sincitial negativo
+T31	SYMPTOM 3730 3764	Frotis rectal enterovirus negativo
+T32	SYMPTOM 3831 3890	Sistema ventricular simétrico de tamaño y morfología normal
+T35	SYMPTOM 4191 4216	Hipocontractilidad global
+T36	SYMPTOM 4605 4633	colapso inspiratorio abolido
+T37	SYMPTOM 4749 4792	unión craneo-vertebral de morfología normal
+T38	SYMPTOM 4878 4927	Sistema ventricular de tamaño y morfología normal
+T41	SYMPTOM 5488 5538	brillo en difusión en la corteza frontal izquierda
+T43	SYMPTOM 5946 5971	Espesor miocárdico normal
+T45	SYMPTOM 6208 6234	Aurículas de tamaño normal
+T46	SYMPTOM 6301 6362	ventrículo izquierdo moderadamente dilatado con grosor normal
+T47	SYMPTOM 6476 6501	Hipocontractilidad global
+T49	SYMPTOM 6591 6606	Anillo dilatado
+T52	SYMPTOM 7129 7149	PAPs estimada normal
+T53	SYMPTOM 7251 7280	Presiones pulmonares normales
+T54	SYMPTOM 7556 7574	PCR viral negativa
+T56	SYMPTOM 7694 7729	Función sistólica global conservada
+T57	SYMPTOM 7818 7850	VD de dimensión y función normal
+T59	SYMPTOM 7888 7920	Presión pulmonar estimada normal
+T60	SYMPTOM 8291 8297	alerta
+T61	SYMPTOM 8300 8312	colaboradora
+T62	SYMPTOM 8314 8326	bradipsiquia
+T64	SYMPTOM 8563 8591	cierto pensamiento abstracto
+T65	SYMPTOM 8958 8966	ortopnea
+T67	SYMPTOM 9011 9017	edemas
+T68	SYMPTOM 9099 9117	signos congestivos
+T69	SYMPTOM 9289 9330	función ventricular severamente deprimida
+T70	SYMPTOM 9570 9605	presiones pulmonares y RVP normales
+T120	SYMPTOM 4264 4325	Válvula mitral (VM): velos engrosados, tenting de ambos velos
+T188	SYMPTOM 6015 6058	edema/inflamación en el espesor mirocárdico
+T201	SYMPTOM 7014 7039	Válvula tricúspide normal
+T118	SYMPTOM 750 767	bioquímica normal
+T11	SYMPTOM 1853 1925	tendencia a pronación sin claudicación de la extremidad superior derecha
+T15	SYMPTOM 2209 2221	tercer ruido
+T76	SYMPTOM 2519 2576	serología de enterovirus, VRS y gripe, todo ello negativo
+T26	SYMPTOM 2912 2952	Pinzamiento de ambos senos costofrénicos
+T27	SYMPTOM 3892 3974	Surcos corticales, cisternas peritronculares y de la base craneal sin alteraciones
+T33	SYMPTOM 4422 4464	Ventrículo derecho (VD) de dimensión norma
+T34	SYMPTOM 5874 5899	FEVI gravemente deprimida
+T39	SYMPTOM 6138 6199	Ventrículo derecho de dimensión normal con hipocontractilidad
+T40	SYMPTOM 6948 6962	VAo competente
+T44	SYMPTOM 6964 7012	Ventrículo derecho de dimensión y función normal
+T48	SYMPTOM 7076 7091	VCI no dilatada
+T50	SYMPTOM 7781 7816	Ambas aurículas de dimensión normal
+T204	SYMPTOM 4929 4956	Cisternas de la base libres
+T215	SYMPTOM 7184 7216	arterias coronarias sin lesiones
+T221	SYMPTOM 9507 9536	coronariografía, sin lesiones
+T247	SYMPTOM 2877 2910	signos de redistribución vascular
+T51	SYMPTOM 1612 1641	parafasias fonéticas aisladas
+T17	SYMPTOM 3559 3597	Gram: no se encuentran microorganismos
+T55	SYMPTOM 3770 3829	cerebral al ingreso: estructuras de la línea media centrada
+T58	SYMPTOM 4394 4420	Válvula aórtica competente
+T63	SYMPTOM 4809 4836	anomalías de la línea media
+T66	SYMPTOM 4838 4876	Fosa posterior de configuración normal
+T182	SYMPTOM 5008 5040	senos venosos durales permeables
+T183	SYMPTOM 5042 5099	Alteración de la señal T2 en la región talámica izquierda
+T184	SYMPTOM 5289 5461	hiperseñal T2 subcortical en la ínsula derecha, en la corteza frontal posterior, de predominio en hemisferio izquierdo y en sustancia blanca yuxtacortical occipital derecha
+T185	SYMPTOM 5974 5999	hipocontractilidad global
+T186	SYMPTOM 8251 8279	EEG sin hallazgos de interés
+T187	SYMPTOM 8509 8552	Lee, pero no logra una comprensión completa
+T190	SYMPTOM 10472 10492	afectación cognitiva

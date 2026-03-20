@@ -1,0 +1,35 @@
+T2	SYMPTOM 1032 1059	disnea de mínimos esfuerzos
+T3	SYMPTOM 1061 1069	ortopnea
+T4	SYMPTOM 1084 1111	disnea paroxística nocturna
+T5	SYMPTOM 1113 1149	disminución subjetiva de la diuresis
+T6	SYMPTOM 1152 1165	edematización
+T7	SYMPTOM 1177 1192	aumento de peso
+T8	SYMPTOM 1426 1447	Taquipneico en reposo
+T9	SYMPTOM 1449 1481	Presión venosa yugular aumentada
+T10	SYMPTOM 1483 1513	Reflejo hepatoyugular positivo
+T11	SYMPTOM 1515 1547	Auscultación cardiaca: irregular
+T12	SYMPTOM 1553 1559	soplos
+T13	SYMPTOM 1584 1603	hipofonesis bibasal
+T14	SYMPTOM 1630 1646	roncus dispersos
+T15	SYMPTOM 1662 1730	edemas tibiomaleolares hasta raíz de muslos y en miembros superiores
+T16	SYMPTOM 1732 1775	Pulsos periféricos conservados y simétricos
+T17	SYMPTOM 1865 1877	QRS estrecho
+T18	SYMPTOM 1943 1976	alteraciones de la repolarización
+T19	SYMPTOM 2378 2409	RT-PCR para SARS-CoV2: negativa
+T20	SYMPTOM 2488 2523	silueta cardiomediastínica centrada
+T22	SYMPTOM 2966 2995	Presiones de llenado normales
+T23	SYMPTOM 3452 3548	ventrículo izquierdo de diámetros y volúmenes aumentados con función global sistólica conservada
+T25	SYMPTOM 3824 3849	VCI de diámetros normales
+T26	SYMPTOM 3910 3923	ritmo sinusal
+T27	SYMPTOM 5831 5846	pérdida de peso
+T29	SYMPTOM 5936 5949	ritmo sinusal
+T30	SYMPTOM 6043 6085	función global sistólica global conservada
+T31	SYMPTOM 6127 6178	asintomático desde el punto de vista cardiovascular
+T21	SYMPTOM 2870 2901	Raíz aórtica diámetros normales
+T127	SYMPTOM 2997 3056	Ventrículo derecho dilatado con función sistólica deprimida
+T130	SYMPTOM 3561 3592	Raíz aórtica diámetros normales
+T24	SYMPTOM 3665 3734	Ventrículo derecho de diámetros normales con función sistólica normal
+T28	SYMPTOM 6314 6328	FEVI deprimida
+T142	SYMPTOM 2560 2593	Infiltrado intersticial bilateral
+T163	SYMPTOM 2598 2628	redistribución vascular apical
+T164	SYMPTOM 5869 5887	signos congestivos

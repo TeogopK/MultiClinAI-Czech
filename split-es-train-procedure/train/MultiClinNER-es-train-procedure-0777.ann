@@ -1,0 +1,35 @@
+T67	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T68	PROCEDURE 142 155	tiroidectomía
+T69	PROCEDURE 640 658	exploración física
+T70	PROCEDURE 850 877	auscultación cardiopulmonar
+T71	PROCEDURE 1115 1138	exploración neurológica
+T72	PROCEDURE 1239 1268	radiografía de tórax portátil
+T73	PROCEDURE 1271 1289	electrocardiograma
+T74	PROCEDURE 1352 1379	ecocardiograma trastorácico
+T75	PROCEDURE 1804 1820	Tóxicos en orina
+T76	PROCEDURE 1833 1848	perfil tiroideo
+T77	PROCEDURE 1857 1886	Radiografía de tórax portátil
+T78	PROCEDURE 1962 1965	ECG
+T79	PROCEDURE 2094 2122	Ecocardiograma transtorácico
+T80	PROCEDURE 2734 2737	ECG
+T81	PROCEDURE 2871 2881	telemetría
+T82	PROCEDURE 2908 2934	cardioversión a 100 julios
+T83	PROCEDURE 2936 2956	Radiografía de tórax
+T84	PROCEDURE 2962 3040	desfibrilador automático implantable bicameral con normoposición de electrodos
+T85	PROCEDURE 3042 3045	ECG
+T86	PROCEDURE 3160 3163	ECG
+T87	PROCEDURE 3728 3741	cardioversión
+T88	PROCEDURE 3853 3861	sedación
+T89	PROCEDURE 3968 3990	sedoanalgesia profunda
+T90	PROCEDURE 3993 4015	intubación orotraqueal
+T91	PROCEDURE 4030 4045	betabloqueantes
+T92	PROCEDURE 4244 4273	detección de tóxicos en orina
+T93	PROCEDURE 4293 4308	perfil tiroideo
+T94	PROCEDURE 4540 4597	implantar desfibrilador automático endovascular bicameral
+T96	PROCEDURE 5200 5218	Implante de DAI DR
+T100	PROCEDURE 3187 3217	tratamiento con betabloqueante
+T101	PROCEDURE 4712 4726	betabloqueante
+T102	PROCEDURE 1634 1645	coagulación
+T103	PROCEDURE 1483 1497	monitorización
+T104	PROCEDURE 4764 4806	se extrajo analítica para estudio genético
+T126	PROCEDURE 1524 1533	Analítica

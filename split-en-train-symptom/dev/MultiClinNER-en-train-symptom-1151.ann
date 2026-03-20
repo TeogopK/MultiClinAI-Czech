@@ -1,0 +1,35 @@
+T1	SYMPTOM 889 901	asymptomatic
+T2	SYMPTOM 1041 1051	chest pain
+T3	SYMPTOM 1111 1131	Mucocutaneous pallor
+T4	SYMPTOM 1151 1164	normohydrated
+T5	SYMPTOM 1220 1228	Afebrile
+T6	SYMPTOM 1230 1251	Jugular ingurgitation
+T7	SYMPTOM 1260 1290	Cardiac auscultation: rhythmic
+T8	SYMPTOM 1295 1302	murmurs
+T9	SYMPTOM 1407 1426	expiratory wheezing
+T10	SYMPTOM 1440 1460	Abdomen: nondescript
+T11	SYMPTOM 1462 1490	Lower extremities: no oedema
+T12	SYMPTOM 1492 1537	Positive and symmetrical pulses at all levels
+T13	SYMPTOM 1578 1590	sinus rhythm
+T14	SYMPTOM 1592 1601	Normal PR
+T15	SYMPTOM 2078 2104	Chest X-ray: increased CTI
+T16	SYMPTOM 2210 2233	Severely depressed LVEF
+T17	SYMPTOM 2390 2404	Normal Ao root
+T18	SYMPTOM 3111 3145	anterior and inferior ST elevation
+T19	SYMPTOM 4479 4483	died
+T20	SYMPTOM 5007 5013	Exitus
+T21	SYMPTOM 551 567	anginal symptoms
+T22	SYMPTOM 1133 1146	Normoperfused
+T23	SYMPTOM 1306 1321	friction sounds
+T24	SYMPTOM 1347 1374	diminished vesicular murmur
+T25	SYMPTOM 1381 1389	crackles
+T26	SYMPTOM 1431 1438	rhonchi
+T27	SYMPTOM 1621 1675	ST ascended 4 mm V3-V4, 1-2 mm inferior and 1 mm in V5
+T28	SYMPTOM 1677 1707	ST underleveled in V6, I, aAVL
+T29	SYMPTOM 1709 1722	T sharp V3-V4
+T30	SYMPTOM 2121 2159	Prominent hilarity with redistribution
+T31	SYMPTOM 2184 2198	Non-dilated LV
+T32	SYMPTOM 2245 2293	Akinesia of inferior, apical and septal segments
+T33	SYMPTOM 2295 2344	Hypokinesia of basal and anterior middle segments
+T34	SYMPTOM 2346 2357	Normal CCDD
+T35	SYMPTOM 3173 3263	akinesia of inferior, apical and septal segments with severely depressed systolic function

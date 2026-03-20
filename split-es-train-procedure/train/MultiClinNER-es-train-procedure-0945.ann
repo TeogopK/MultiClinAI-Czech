@@ -1,0 +1,44 @@
+T33	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T34	PROCEDURE 153 166	histerectomía
+T35	PROCEDURE 169 186	doble anexectomía
+T36	PROCEDURE 597 615	exploración física
+T37	PROCEDURE 672 681	Ventimask
+T38	PROCEDURE 787 808	Auscultación cardiaca
+T39	PROCEDURE 900 921	Auscultación pulmonar
+T40	PROCEDURE 1147 1150	ECG
+T41	PROCEDURE 1202 1222	Radiografía de tórax
+T42	PROCEDURE 1325 1343	Análisis sanguíneo
+T43	PROCEDURE 1364 1383	gasometría arterial
+T44	PROCEDURE 1595 1604	Hemograma
+T45	PROCEDURE 1732 1743	Coagulación
+T46	PROCEDURE 1808 1853	Ecocardiograma transtorácico y transesofágico
+T48	PROCEDURE 3037 3134	Cardio-RMN: estudio mediante secuencias TI, T2, STIR en axial, 2C, 3C, 4C y mediante contraste iv
+T50	PROCEDURE 3659 3686	administración de contraste
+T51	PROCEDURE 3928 3948	Cateterismo cardiaco
+T53	PROCEDURE 4145 4170	circulación extracorpórea
+T54	PROCEDURE 4172 4175	CEC
+T55	PROCEDURE 4188 4287	resección de tumoración voluminosa que infiltra surco aurículo-ventricular y tabique interauricular
+T56	PROCEDURE 4334 4380	recambio valvular mitral por prótesis metálica
+T57	PROCEDURE 4383 4424	cierre de defecto en septo con pericardio
+T58	PROCEDURE 4504 4526	sedoanalgesia profunda
+T59	PROCEDURE 4630 4633	CEC
+T61	PROCEDURE 4704 4758	noradrenalina (NA) y vasopresina en perfusión continua
+T62	PROCEDURE 4779 4814	terapia continua de reemplazo renal
+T63	PROCEDURE 4816 4820	TCRR
+T64	PROCEDURE 4841 4856	ultrafiltración
+T65	PROCEDURE 4939 4958	retirar la sedación
+T66	PROCEDURE 4972 5006	destete de la ventilación mecánica
+T68	PROCEDURE 5029 5037	extubada
+T69	PROCEDURE 5146 5176	oxigenoterapia a flujos medios
+T70	PROCEDURE 5259 5262	ETT
+T71	PROCEDURE 5341 5361	radiografía de tórax
+T72	PROCEDURE 5440 5452	reintubación
+T73	PROCEDURE 5791 5808	resección tumoral
+T74	PROCEDURE 5811 5835	prótesis mecánica mitral
+T17	PROCEDURE 1443 1453	Bioquímica
+T117	PROCEDURE 3136 3144	angio-RM
+T122	PROCEDURE 5540 5569	diagnóstico anatomopatológico
+T125	PROCEDURE 4107 4130	intervención quirúrgica
+T136	PROCEDURE 3148 3174	secuencia de realce tardío
+T137	PROCEDURE 3763 3802	secuencia de realce tardío con gadolino
+T81	PROCEDURE 4646 4675	expansión vigorosa de volumen

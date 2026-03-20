@@ -1,0 +1,56 @@
+T1	SYMPTOM 86 100	dolor torácico
+T2	SYMPTOM 103 145	elevación de marcadores de daño miocárdico
+T4	SYMPTOM 554 605	asintomático desde el punto de vista cardiovascular
+T5	SYMPTOM 661 719	dolor centrotorácico opresivo irradiado a ambas mandíbulas
+T7	SYMPTOM 791 809	cortejo vegetativo
+T8	SYMPTOM 877 897	mareos inespecíficos
+T9	SYMPTOM 900 920	sensación distérmica
+T10	SYMPTOM 936 942	fiebre
+T11	SYMPTOM 960 973	palpitaciones
+T12	SYMPTOM 975 981	disnea
+T13	SYMPTOM 985 1001	clínica sincopal
+T14	SYMPTOM 1056 1063	Afebril
+T15	SYMPTOM 1169 1179	Consciente
+T16	SYMPTOM 1181 1190	orientado
+T17	SYMPTOM 1193 1204	colaborador
+T18	SYMPTOM 1206 1233	Bien hidratado y perfundido
+T20	SYMPTOM 1235 1254	Buen estado general
+T21	SYMPTOM 1256 1274	Eupneico en reposo
+T22	SYMPTOM 1276 1305	Presión venosa yugular normal
+T23	SYMPTOM 1333 1363	Auscultación cardiaca: rítmica
+T24	SYMPTOM 1368 1374	soplos
+T25	SYMPTOM 1378 1383	roces
+T26	SYMPTOM 1408 1440	ruidos respiratorios preservados
+T27	SYMPTOM 1460 1501	Abdomen: blando, depresible y no doloroso
+T28	SYMPTOM 1516 1521	masas
+T29	SYMPTOM 1525 1533	megalias
+T30	SYMPTOM 1535 1557	Peristaltismo presente
+T31	SYMPTOM 1559 1593	Extremidades inferiores: sin edema
+T32	SYMPTOM 1595 1633	Pulsos distales presentes y simétricos
+T33	SYMPTOM 1710 1719	PR normal
+T34	SYMPTOM 1721 1733	QRS estrecho
+T35	SYMPTOM 1785 1823	ascenso del ST 0,5 mm en cara inferior
+T36	SYMPTOM 2178 2207	índice cardio-torácico normal
+T38	SYMPTOM 2385 2409	Función sistólica normal
+T39	SYMPTOM 2524 2592	Ventrículo derecho de tamaño normal con función sistólica conservada
+T41	SYMPTOM 2696 2758	Válvula tricúspide de aspecto normal, con insuficiencia mínima
+T43	SYMPTOM 2877 2920	ventrículos de tamaño y función conservadas
+T44	SYMPTOM 2934 2945	hipocinesia
+T45	SYMPTOM 2947 2952	edema
+T47	SYMPTOM 3530 3577	ecocardiograma transtorácico que resulta normal
+T48	SYMPTOM 3890 3902	leucocitosis
+T49	SYMPTOM 3929 3940	eosinofilia
+T50	SYMPTOM 4491 4503	asintomático
+T51	SYMPTOM 4558 4569	eosinofilia
+T93	SYMPTOM 2338 2383	alteraciones de la contractilidad segmentaria
+T6	SYMPTOM 2760 2793	Válvula pulmonar normofuncionante
+T37	SYMPTOM 4135 4165	positiva para IgM Toxocara spp
+T40	SYMPTOM 4509 4555	normalización de marcadores de daño miocárdico
+T104	SYMPTOM 2638 2662	Válvula aórtica trivalva
+T105	SYMPTOM 2594 2636	Válvula mitral de aspecto y función normal
+T112	SYMPTOM 1009 1027	clínica infecciosa
+T123	SYMPTOM 2955 2984	realce tardío intramiocárdico
+T129	SYMPTOM 2282 2314	ventrículo izquierdo no dilatado
+T19	SYMPTOM 1735 1782	Onda Q en el límite de significación patológica
+T42	SYMPTOM 2795 2824	Raíz aórtica de tamaño normal
+T46	SYMPTOM 3206 3287	Arterias coronarias sin variantes anatómicas, observando permeabilidad conservada

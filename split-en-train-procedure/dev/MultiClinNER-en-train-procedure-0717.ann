@@ -1,0 +1,16 @@
+T11	PROCEDURE 79 90	examination
+T13	PROCEDURE 469 480	examination
+T1	PROCEDURE 489 509	Physical examination
+T8	PROCEDURE 723 742	abdominal palpation
+T17	PROCEDURE 945 956	examination
+T9	PROCEDURE 961 989	cardiopulmonary auscultation
+T20	PROCEDURE 1059 1062	CBC
+T10	PROCEDURE 1299 1312	Transaminases
+T4	PROCEDURE 1345 1356	Paul Bunell
+T5	PROCEDURE 1370 1380	Urinalysis
+T25	PROCEDURE 1412 1437	chest and abdominal X-ray
+T6	PROCEDURE 1632 1650	agglutination test
+T2	PROCEDURE 1846 1857	Chest X-ray
+T7	PROCEDURE 2027 2042	aerobic culture
+T12	PROCEDURE 2044 2069	detection of Epstein Barr
+T3	PROCEDURE 2179 2190	Chest X-ray

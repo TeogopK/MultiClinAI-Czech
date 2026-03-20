@@ -1,0 +1,29 @@
+T1	SYMPTOM 649 654	fever
+T3	SYMPTOM 656 665	shivering
+T4	SYMPTOM 677 685	asthenia
+T2	SYMPTOM 829 834	fever
+T24	SYMPTOM 898 915	sinus tachycardia
+T26	SYMPTOM 981 1004	coldness of acral parts
+T7	SYMPTOM 1006 1034	High jugular venous pressure
+T8	SYMPTOM 1036 1066	Cardiac auscultation: rhythmic
+T22	SYMPTOM 1068 1085	prosthetic sounds
+T27	SYMPTOM 1111 1133	crackles in both bases
+T9	SYMPTOM 1135 1167	Lower extremities without oedema
+T10	SYMPTOM 1371 1383	neutrophilia
+T28	SYMPTOM 2194 2254	blood cultures taken were positive for Staphylococcus aureus
+T25	SYMPTOM 2738 2759	periaortic thickening
+T29	SYMPTOM 2875 2940	abnormal uptake of 18F-FDG was observed in extracardiac locations
+T11	SYMPTOM 3532 3540	afebrile
+T12	SYMPTOM 3602 3623	neurological deficits
+T13	SYMPTOM 3743 3764	sudden abdominal pain
+T5	SYMPTOM 3766 3786	arterial hypotension
+T14	SYMPTOM 4023 4049	free intra-abdominal fluid
+T15	SYMPTOM 4388 4396	bleeding
+T18	SYMPTOM 4635 4647	rectorrhagia
+T19	SYMPTOM 4665 4689	haemodynamic instability
+T16	SYMPTOM 4921 4929	bleeding
+T6	SYMPTOM 5304 5369	S. aureus growth was confirmed in the removed prosthetic material
+T20	SYMPTOM 5429 5438	dizziness
+T21	SYMPTOM 5443 5470	severe arterial hypotension
+T23	SYMPTOM 5475 5486	tachycardia
+T30	SYMPTOM 6161 6211	asymptomatic from the cardiovascular point of view

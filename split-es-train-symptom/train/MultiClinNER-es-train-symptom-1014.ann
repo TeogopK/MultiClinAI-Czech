@@ -1,0 +1,47 @@
+T1	SYMPTOM 77 83	disnea
+T2	SYMPTOM 444 473	disnea de moderados esfuerzos
+T3	SYMPTOM 592 599	náuseas
+T4	SYMPTOM 601 611	sudoración
+T5	SYMPTOM 614 620	mareos
+T6	SYMPTOM 652 658	disnea
+T7	SYMPTOM 736 743	afebril
+T8	SYMPTOM 768 782	tonos rítmicos
+T9	SYMPTOM 784 811	Soplo II/VI en foco aórtico
+T10	SYMPTOM 843 892	crepitantes teleinspiratorios en bases pulmonares
+T11	SYMPTOM 894 949	Abdomen: blando y depresible no doloroso a la palpación
+T12	SYMPTOM 954 959	masas
+T13	SYMPTOM 963 971	megalias
+T14	SYMPTOM 997 1026	edemas en miembros inferiores
+T15	SYMPTOM 1102 1104	RS
+T16	SYMPTOM 1124 1136	QRS estrecho
+T17	SYMPTOM 1159 1174	Onda T negativa
+T18	SYMPTOM 1677 1695	Hilios congestivos
+T19	SYMPTOM 1705 1747	infiltrados alveolares en bases pulmonares
+T22	SYMPTOM 2098 2145	Leve hipocinesia ínfero-posterior y septo basal
+T25	SYMPTOM 2259 2292	Aurícula derecha de tamaño normal
+T26	SYMPTOM 2455 2478	Válvula pulmonar normal
+T28	SYMPTOM 2889 2902	pausa sinusal
+T30	SYMPTOM 2942 2954	QRS estrecho
+T33	SYMPTOM 3140 3182	Función sistólica biventricular conservada
+T35	SYMPTOM 3762 3790	Test Coomb directo: negativo
+T36	SYMPTOM 3792 3825	Anticuerpos irregulares negativos
+T38	SYMPTOM 4804 4838	IEF en orina: Bence-Jones positivo
+T39	SYMPTOM 5020 5062	Anticuerpos antifactor intrínseco negativo
+T40	SYMPTOM 5064 5088	ATPasa gástrica positivo
+T41	SYMPTOM 5090 5104	ANCAS negativo
+T42	SYMPTOM 5157 5186	Serología virus: VHB negativo
+T43	SYMPTOM 5188 5200	VHC negativo
+T44	SYMPTOM 5221 5233	IgM positivo
+T45	SYMPTOM 6302 6334	elevación de enzimas miocárdicas
+T46	SYMPTOM 6385 6406	elevación de Pro- BNP
+T47	SYMPTOM 6425 6471	bajos voltajes en derivaciones de los miembros
+T48	SYMPTOM 7027 7033	mareos
+T49	SYMPTOM 7036 7052	malestar general
+T50	SYMPTOM 7081 7091	Sudoración
+T51	SYMPTOM 7093 7112	palidez mucocutánea
+T52	SYMPTOM 7115 7130	frialdad distal
+T54	SYMPTOM 7147 7159	bradicárdica
+T24	SYMPTOM 5202 5219	CMV: IgG positivo
+T144	SYMPTOM 3722 3745	Coronarias sin lesiones
+T31	SYMPTOM 4966 5012	anticuerpos anticélulas parietales G: positivo
+#5	AnnotatorNotes T15	ritmo sinusal

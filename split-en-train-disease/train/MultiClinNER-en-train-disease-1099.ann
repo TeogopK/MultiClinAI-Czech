@@ -1,0 +1,63 @@
+T35	DISEASE 120 134	drug allergies
+T36	DISEASE 143 155	toxic habits
+T37	DISEASE 187 208	arterial hypertension
+T39	DISEASE 213 226	dyslipidaemia
+T74	DISEASE 227 251	Diabetes mellitus type 2
+T41	DISEASE 290 304	Hypothyroidism
+T72	DISEASE 337 417	Ischaemic stroke (2015) in the left MCA territory, of atherothrombotic aetiology
+T43	DISEASE 498 517	benign brain tumour
+T44	DISEASE 528 538	meningioma
+T46	DISEASE 541 565	Left optic nerve atrophy
+T47	DISEASE 631 662	chronic ischaemic heart disease
+T49	DISEASE 677 721	angina in 2003, with TC and 3-vessel disease
+T50	DISEASE 947 953	angina
+T54	DISEASE 1194 1209	unstable angina
+T4	DISEASE 1401 1435	severe lesion in distal TC and DAp
+T55	DISEASE 1437 1474	chronic underocclusion in proximal CF
+T5	DISEASE 1476 1517	chronic complete occlusion in proximal CD
+T76	DISEASE 1519 1540	occluded AMI-DA graft
+T52	DISEASE 2378 2384	angina
+T6	DISEASE 2400 2416	coronary disease
+T7	DISEASE 2742 2744	AF
+T8	DISEASE 2805 2809	LBBB
+T56	DISEASE 3895 3914	atrial fibrillation
+T11	DISEASE 3935 3939	LBBB
+T12	DISEASE 3975 3979	LBBB
+T59	DISEASE 3990 4010	atrial extrasystoles
+T13	DISEASE 4044 4048	LBBB
+T14	DISEASE 4164 4217	severe lesion at the level of the distal common trunk
+T15	DISEASE 4264 4292	LAD with significant lesions
+T78	DISEASE 4346 4427	Significant lesion at the level of the middle-distal third of the bisector branch
+T16	DISEASE 4458 4479	CX with severe lesion
+T17	DISEASE 4516 4573	Critical lesion at the level of the CX-1st OM bifurcation
+T60	DISEASE 4604 4638	Dominant DC with chronic occlusion
+T61	DISEASE 4944 4971	moderate septal hypertrophy
+T20	DISEASE 5261 5289	Left atrium slightly dilated
+T34	DISEASE 5316 5372	Trivalve aortic valve, with thickening and calcification
+T21	DISEASE 5485 5577	Mitral valve with slightly thickened leaflets, preserved opening, mild central regurgitation
+T77	DISEASE 5604 5643	Tricuspid valve with mild insufficiency
+T62	DISEASE 5760 5780	pericardial effusion
+T22	DISEASE 6129 6141	valvulopathy
+T63	DISEASE 6145 6165	pericardial effusion
+T23	DISEASE 6187 6189	AF
+T25	DISEASE 6332 6338	NSTEMI
+T64	DISEASE 6343 6356	paroxysmal AF
+T26	DISEASE 6501 6505	LBBB
+T65	DISEASE 6510 6540	supraventricular extrasystoles
+T27	DISEASE 6707 6733	VS bypass lesion/occlusion
+T29	DISEASE 7002 7046	Haematoma in relation to the radial puncture
+T30	DISEASE 7197 7207	infarction
+T66	DISEASE 7240 7270	paroxysmal atrial fibrillation
+T45	DISEASE 7772 7782	meningioma
+T32	DISEASE 7791 7817	haematoma of the right arm
+T53	DISEASE 8148 8154	angina
+T67	DISEASE 8282 8312	Paroxysmal atrial fibrillation
+T33	DISEASE 8313 8351	Non-ST elevation myocardial infarction
+T48	DISEASE 8361 8392	Chronic ischaemic heart disease
+T68	DISEASE 8394 8439	Coronary artery disease of LMCA and 3 vessels
+T71	DISEASE 8504 8527	Ischaemic heart disease
+T73	DISEASE 8576 8592	ischaemic stroke
+T38	DISEASE 8594 8615	Arterial hypertension
+T40	DISEASE 8617 8630	Dyslipidaemia
+T75	DISEASE 8632 8656	Diabetes mellitus type 2
+T42	DISEASE 8657 8671	Hypothyroidism

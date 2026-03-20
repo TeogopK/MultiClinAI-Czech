@@ -1,0 +1,34 @@
+T1	SYMPTOM 968 974	disnea
+T2	SYMPTOM 977 985	ortopnea
+T3	SYMPTOM 991 997	edemas
+T4	SYMPTOM 1056 1059	tos
+T5	SYMPTOM 1064 1085	expectoración verdosa
+T6	SYMPTOM 1097 1103	fiebre
+T7	SYMPTOM 1269 1289	distensión abdominal
+T8	SYMPTOM 1295 1317	ardor tras las comidas
+T9	SYMPTOM 1357 1377	dolor a nivel facial
+T10	SYMPTOM 1410 1454	dolores en ambas rodillas de perfil mecánico
+T11	SYMPTOM 1698 1734	aumento de la presión venosa yugular
+T12	SYMPTOM 1762 1792	Auscultación cardiaca: rítmica
+T13	SYMPTOM 1799 1837	soplo sistólico III/VI en foco aórtico
+T14	SYMPTOM 1891 1922	crepitantes hasta campos medios
+T15	SYMPTOM 1925 1972	abolición del murmullo vesicular en ambas bases
+T16	SYMPTOM 1983 2014	aumento del perímetro abdominal
+T17	SYMPTOM 2028 2049	irritación peritoneal
+T18	SYMPTOM 2076 2128	edemas en ambos miembros inferiores hasta las ingles
+T20	SYMPTOM 2462 2498	Onda T negativa milimétrica en V5-V6
+T21	SYMPTOM 2528 2560	ventrículo izquierdo no dilatado
+T23	SYMPTOM 2969 2995	llenado mitral restrictivo
+T24	SYMPTOM 3238 3315	captación moderada del radiomarcador a nivel cardiaco, difusa y biventricular
+T25	SYMPTOM 3531 3548	reducción de peso
+T26	SYMPTOM 3600 3606	edemas
+T27	SYMPTOM 3728 3741	ritmo sinusal
+T28	SYMPTOM 4096 4114	recuerda pródromos
+T29	SYMPTOM 4135 4142	astenia
+T30	SYMPTOM 4409 4430	molestias abdominales
+T31	SYMPTOM 4540 4568	función sistólica preservada
+T96	SYMPTOM 2369 2382	ritmo sinusal
+T85	SYMPTOM 1739 1760	reflujo hepatoyugular
+T104	SYMPTOM 2414 2460	Voltajes bajos en derivaciones de los miembros
+T107	SYMPTOM 2402 2412	eje normal
+T19	SYMPTOM 3003 3034	aumento de presiones de llenado

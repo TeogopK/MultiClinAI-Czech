@@ -1,0 +1,64 @@
+T24	DISEASE 103 126	alergias medicamentosas
+T25	DISEASE 140 155	hábitos tóxicos
+T26	DISEASE 207 244	broncoespasmo en relación con alergia
+T27	DISEASE 745 792	bloqueo completo de rama derecha del haz de His
+T28	DISEASE 816 849	hipertrofia de ventrículo derecho
+T29	DISEASE 1191 1218	hipertensión pulmonar grave
+T30	DISEASE 1303 1331	ductus arterioso persistente
+T31	DISEASE 1441 1474	hipertensión pulmonar (HTP) grave
+T32	DISEASE 1464 1467	HTP
+T33	DISEASE 1778 1809	parálisis del nervio recurrente
+T34	DISEASE 1834 1844	neumotórax
+T35	DISEASE 1904 1928	mediastinitis fibrosante
+T36	DISEASE 2101 2143	hipertensión arterial pulmonar (HAP) grave
+T37	DISEASE 2133 2136	HAP
+T38	DISEASE 2748 2769	hipertensión pulmonar
+T39	DISEASE 2810 2813	HTP
+T40	DISEASE 2903 2938	insuficiencia cardiaca (IC) derecha
+T41	DISEASE 2927 2929	IC
+T42	DISEASE 3365 3368	HAP
+T43	DISEASE 3406 3415	HAP grave
+T44	DISEASE 3543 3546	HAP
+T46	DISEASE 4600 4603	HAP
+T47	DISEASE 6687 6708	insuficiencia aórtica
+T48	DISEASE 7541 7544	HTP
+T49	DISEASE 7607 7610	HAP
+T50	DISEASE 7877 7885	flebitis
+T51	DISEASE 8433 8490	Hipertensión arterial pulmonar severa residual poscirugía
+T52	DISEASE 8601 8625	Mediastinitis fibrosante
+T53	DISEASE 794 800	BCRDHH
+T54	DISEASE 5439 5445	BCRDHH
+T55	DISEASE 2402 2405	HTP
+T56	DISEASE 5327 5337	IC derecha
+T57	DISEASE 6587 6612	válvula aórtica bicúspide
+T58	DISEASE 851 854	HVD
+T59	DISEASE 1333 1336	DAP
+T60	DISEASE 3036 3075	VD hipertrófico con disfunción moderada
+T61	DISEASE 4289 4305	disfunción de VD
+T62	DISEASE 6713 6777	VD se encuentra moderadamente dilatado y gravemente hipertrófico
+T63	DISEASE 6824 6857	válvula tricúspide está engrosada
+T64	DISEASE 7127 7165	Tronco de la arteria pulmonar dilatado
+T65	DISEASE 8492 8520	Ductus arterioso persistente
+T66	DISEASE 931 943	poliglobulia
+T67	DISEASE 5463 5466	HVD
+T68	DISEASE 7188 7194	ductus
+T113	DISEASE 2290 2293	DAP
+T6	DISEASE 2996 3030	DAP con un flujo derecha-izquierda
+T116	DISEASE 237 261	alergia a ácaros y polen
+T119	DISEASE 1224 1284	hipertrofia moderada y dilatación leve de ventrículo derecho
+T120	DISEASE 2275 2293	reapertura del DAP
+T122	DISEASE 2550 2562	poliglobulia
+T129	DISEASE 2952 2964	poliglobulia
+T133	DISEASE 8433 8470	Hipertensión arterial pulmonar severa
+#1	AnnotatorNotes T32	 hipertensión pulmonar
+#2	AnnotatorNotes T37	 Hipertensión arterial pulmonar
+#3	AnnotatorNotes T48	 HTP hipertensión pulmonar
+#4	AnnotatorNotes T53	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#5	AnnotatorNotes T54	 BCRDHH Bloqueo completo rama derecha Haz de Hiz
+#6	AnnotatorNotes T55	 HTP hipertensión pulmonar
+#7	AnnotatorNotes T56	 insuficiencia cardiaca
+#8	AnnotatorNotes T58	 hipertrofia ventriculo derecho
+#9	AnnotatorNotes T59	 ductus arterioso persistente
+#10	AnnotatorNotes T67	 HVD: hipertrofia ventrículo derecho
+#11	AnnotatorNotes T113	ductus arterioso persistente
+#12	AnnotatorNotes T6	ductus arterioso persistente

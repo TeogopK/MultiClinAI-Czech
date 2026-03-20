@@ -1,0 +1,18 @@
+T15	PROCEDURE 171 190	medical examination
+T16	PROCEDURE 227 236	anamnesis
+T1	PROCEDURE 330 341	resting ECG
+T9	PROCEDURE 631 634	ECG
+T17	PROCEDURE 699 706	ablated
+T2	PROCEDURE 725 736	resting ECG
+T12	PROCEDURE 864 880	echocardiography
+T14	PROCEDURE 886 907	24-hour rhythm holter
+T23	PROCEDURE 964 1005	treadmill stress test with Bruce protocol
+T6	PROCEDURE 1181 1207	electrophysiological study
+T8	PROCEDURE 1209 1212	EPS
+T3	PROCEDURE 1218 1251	ablation of the anomalous pathway
+T10	PROCEDURE 1290 1344	electrocatheters: one for diagnosis with His recording
+T7	PROCEDURE 1363 1415	mapping and ablation in the perihisian septal region
+T28	PROCEDURE 1474 1568	radiofrequency (RF) was applied over the bidirectional atrioventricular (AV) accessory pathway
+T5	PROCEDURE 1919 1927	ablation
+T11	PROCEDURE 1987 1990	ECG
+T13	PROCEDURE 1995 2009	24-hour holter

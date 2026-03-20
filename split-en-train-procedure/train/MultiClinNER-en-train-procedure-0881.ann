@@ -1,0 +1,29 @@
+T39	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T40	PROCEDURE 498 518	PHYSICAL EXAMINATION
+T50	PROCEDURE 519 530	Vital signs
+T54	PROCEDURE 676 689	Head and neck
+T41	PROCEDURE 735 755	Cardiac auscultation
+T42	PROCEDURE 779 801	Pulmonary auscultation
+T43	PROCEDURE 940 964	Neurological examination
+T4	PROCEDURE 1161 1172	Blood tests
+T49	PROCEDURE 1447 1469	Antinuclear antibodies
+T53	PROCEDURE 1471 1474	ANA
+T44	PROCEDURE 1594 1611	Electrocardiogram
+T45	PROCEDURE 1676 1687	Chest X-ray
+T5	PROCEDURE 1777 1807	Multimodal computed tomography
+T6	PROCEDURE 1809 1811	CT
+T7	PROCEDURE 1814 1836	Cranial CT without VSD
+T51	PROCEDURE 1947 1959	CT-perfusion
+T52	PROCEDURE 2018 2040	Angio-CT: extracranial
+T8	PROCEDURE 2247 2256	Brain MRI
+T9	PROCEDURE 2517 2545	Transthoracic echocardiogram
+T12	PROCEDURE 2733 2748	Agitated saline
+T14	PROCEDURE 2863 2893	Transesophageal echocardiogram
+T19	PROCEDURE 3420 3451	percutaneous closure of the PFO
+T47	PROCEDURE 3526 3560	percutaneous closure of the defect
+T48	PROCEDURE 3568 3587	general anaesthesia
+T21	PROCEDURE 3592 3647	under echocardiographic control, the foramen was closed
+T22	PROCEDURE 3649 3697	Access was gained through the right femoral vein
+T25	PROCEDURE 3767 3832	support guidewire is passed into the left superior pulmonary vein
+T46	PROCEDURE 4060 4092	transesophageal echocardiography
+T56	PROCEDURE 4209 4254	PFO closure with Figulla Flex 30-27 mm device

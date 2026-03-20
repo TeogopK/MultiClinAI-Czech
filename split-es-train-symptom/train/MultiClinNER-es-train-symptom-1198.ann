@@ -1,0 +1,35 @@
+T1	SYMPTOM 263 277	dolor torácico
+T2	SYMPTOM 340 358	cortejo vegetativo
+T3	SYMPTOM 470 475	dolor
+T4	SYMPTOM 588 621	elevación del ST en cara anterior
+T5	SYMPTOM 1019 1043	estabilidad hemodinámica
+T6	SYMPTOM 1046 1065	buen estado general
+T7	SYMPTOM 1092 1106	tonos rítmicos
+T8	SYMPTOM 1111 1117	soplos
+T9	SYMPTOM 1119 1148	Murmullo vesicular conservado
+T10	SYMPTOM 1173 1203	Miembros inferiores sin edemas
+T11	SYMPTOM 1209 1230	semiología congestiva
+T12	SYMPTOM 1237 1247	bajo gasto
+T13	SYMPTOM 1305 1318	ritmo sinusal
+T14	SYMPTOM 1329 1339	Eje normal
+T15	SYMPTOM 1341 1350	PR normal
+T16	SYMPTOM 1352 1364	QRS estrecho
+T17	SYMPTOM 1384 1430	elevación significativa del ST en precordiales
+T19	SYMPTOM 1600 1612	Leucocitosis
+T20	SYMPTOM 1724 1742	Coagulación normal
+T21	SYMPTOM 1744 1797	Perfil hepático, lipídico y tiroideo sin alteraciones
+T24	SYMPTOM 3159 3206	VD no dilatado con función sistólica conservada
+T25	SYMPTOM 4239 4254	soplo sistólico
+T26	SYMPTOM 6356 6371	FEVI conservada
+T18	SYMPTOM 1872 1918	arteria descendente anterior normodesarrollada
+T81	SYMPTOM 2686 2727	Aquinesia de todos los segmentos apicales
+T62	SYMPTOM 3283 3332	VCI no dilatada con adecuado colapso inspiratorio
+T84	SYMPTOM 4066 4096	aquinesia en territorio apical
+T85	SYMPTOM 4099 4114	FEVI conservada
+T86	SYMPTOM 6320 6350	Aquinesia en territorio apical
+T92	SYMPTOM 2065 2083	Dominancia derecha
+T103	SYMPTOM 4947 4954	estable
+T89	SYMPTOM 485 512	sintomatología cardiológica
+T32	SYMPTOM 1365 1379	QS desde V1-V4
+T95	SYMPTOM 5120 5141	semiología congestiva
+T96	SYMPTOM 5353 5381	shunt de izquierda a derecha

@@ -1,0 +1,48 @@
+T1	SYMPTOM 176 187	good health
+T2	SYMPTOM 328 360	oppressive central thoracic pain
+T4	SYMPTOM 493 497	pain
+T6	SYMPTOM 558 575	vegetative cortex
+T7	SYMPTOM 577 585	dyspnoea
+T8	SYMPTOM 587 599	palpitations
+T9	SYMPTOM 720 732	asymptomatic
+T14	SYMPTOM 839 861	diffuse abdominal pain
+T3	SYMPTOM 866 882	vomiting of food
+T5	SYMPTOM 915 932	diarrhoeic stools
+T15	SYMPTOM 969 977	afebrile
+T17	SYMPTOM 1049 1054	Alert
+T18	SYMPTOM 1056 1065	conscious
+T19	SYMPTOM 1067 1075	oriented
+T20	SYMPTOM 1077 1085	hydrated
+T16	SYMPTOM 1090 1098	afebrile
+T43	SYMPTOM 1115 1154	Oropharyngeal: No pathological findings
+T21	SYMPTOM 1159 1180	jugular ingurgitation
+T22	SYMPTOM 1193 1214	Rhythmic heart sounds
+T23	SYMPTOM 1228 1248	pericardial friction
+T24	SYMPTOM 1321 1327	masses
+T25	SYMPTOM 1354 1373	peristalsis present
+T35	SYMPTOM 1383 1389	oedema
+T26	SYMPTOM 1394 1407	normal pulses
+T27	SYMPTOM 1453 1465	Sinus rhythm
+T30	SYMPTOM 1611 1620	Normal QT
+T32	SYMPTOM 1637 1662	Normal cardiac silhouette
+T38	SYMPTOM 1797 1809	Ions: Normal
+T40	SYMPTOM 2414 2497	Serology: Negative for HBV, HCV, EBV, CMV, HSV, VZV, enterovirus and parvovirus B19
+T41	SYMPTOM 2566 2627	Thin leaflet mitral valve with preserved mobility and opening
+T42	SYMPTOM 2706 2733	preserved systolic function
+T28	SYMPTOM 3199 3211	Sinus rhythm
+T33	SYMPTOM 3223 3232	Normal PR
+T31	SYMPTOM 3342 3351	Normal QT
+T44	SYMPTOM 3368 3412	LV diameter and volumes within normal limits
+T48	SYMPTOM 3449 3477	Global LV function preserved
+T47	SYMPTOM 3510 3524	Normal LV mass
+T34	SYMPTOM 3526 3556	Normal RV volumes and function
+T36	SYMPTOM 3625 3631	oedema
+T46	SYMPTOM 3681 3765	Late subepicardial linear enhancement at basal and inferobasal anterior septum level
+T29	SYMPTOM 3853 3865	Sinus rhythm
+T10	SYMPTOM 3977 3989	Asymptomatic
+T37	SYMPTOM 4188 4221	acute repolarisation disturbances
+T39	SYMPTOM 4229 4246	sinus tachycardia
+T11	SYMPTOM 4529 4541	asymptomatic
+T45	SYMPTOM 4689 4723	deterioration in systolic function
+T12	SYMPTOM 4951 4963	asymptomatic
+T13	SYMPTOM 5346 5358	asymptomatic

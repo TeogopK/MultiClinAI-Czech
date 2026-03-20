@@ -1,0 +1,42 @@
+T33	SYMPTOM 439 465	pulsating frontal headache
+T1	SYMPTOM 512 541	dyspnoea on moderate exertion
+T2	SYMPTOM 576 586	chest pain
+T3	SYMPTOM 588 597	dizziness
+T32	SYMPTOM 607 630	cardiovascular symptoms
+T4	SYMPTOM 734 743	Conscious
+T5	SYMPTOM 745 753	oriented
+T34	SYMPTOM 755 766	cooperative
+T6	SYMPTOM 815 842	Normal jugular venous pulse
+T7	SYMPTOM 844 865	Rhythmic heart sounds
+T8	SYMPTOM 871 886	systolic murmur
+T35	SYMPTOM 949 1026	Pulmonary, abdominal and lower limb auscultation without relevant alterations
+T10	SYMPTOM 1074 1086	sinus rhythm
+T11	SYMPTOM 1931 1976	SEROLOGY: Mycoplasma pneumoniae IgM: negative
+T12	SYMPTOM 1978 2014	Legionella pneumophila IgM: negative
+T13	SYMPTOM 2016 2052	Legionella pneumophila IgG: negative
+T23	SYMPTOM 2054 2079	Influenza B IgM: negative
+T24	SYMPTOM 2081 2106	Influenza A IgM: negative
+T25	SYMPTOM 2108 2125	CMV IgM: negative
+T26	SYMPTOM 2127 2144	CMV IgG: positive
+T27	SYMPTOM 2146 2185	Borrelia burgdorferi IgM-Lyme: negative
+T28	SYMPTOM 2187 2226	Borrelia burgdorferi IgG-Lyme: negative
+T21	SYMPTOM 2538 2567	severe concentric hypertrophy
+T14	SYMPTOM 2660 2687	preserved systolic function
+T16	SYMPTOM 2689 2727	Prolonged diastolic relaxation pattern
+T30	SYMPTOM 3045 3089	Right ventricle (RV) with preserved function
+T31	SYMPTOM 3266 3282	Normal vena cava
+T29	SYMPTOM 3300 3315	right dominance
+T43	SYMPTOM 3317 3375	Coronary arteries without significant angiographic lesions
+T42	SYMPTOM 3441 3472	LV of normal size and thickness
+T17	SYMPTOM 3588 3618	RV of normal size and function
+T41	SYMPTOM 3999 4014	LV: normal size
+T18	SYMPTOM 4156 4186	Normal segmental contractility
+T19	SYMPTOM 4188 4210	Normal myocardial mass
+T39	SYMPTOM 4628 4648	Contractility normal
+T20	SYMPTOM 4650 4692	Left atrium (LA): area 19 cm2, normal size
+T40	SYMPTOM 4694 4737	Right atrium (RA): area 19 cm2, normal size
+T38	SYMPTOM 5230 5260	LV of normal size and function
+T37	SYMPTOM 5442 5518	markers of myocardial damage (creatine kinase and ultrasensitive troponin T)
+T22	SYMPTOM 5804 5833	severe concentric hypertrophy
+T9	SYMPTOM 7198 7213	systolic murmur
+T36	SYMPTOM 7482 7513	LV of normal size and thickness

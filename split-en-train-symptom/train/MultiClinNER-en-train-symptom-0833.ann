@@ -1,0 +1,20 @@
+T1	SYMPTOM 1935 1951	dyspnoea at rest
+T2	SYMPTOM 1953 1982	paroxysmal nocturnal dyspnoea
+T3	SYMPTOM 1984 1994	orthopnoea
+T4	SYMPTOM 1996 2004	oliguria
+T5	SYMPTOM 2039 2049	chest pain
+T10	SYMPTOM 2380 2412	jugular venous pressure elevated
+T11	SYMPTOM 2436 2479	rhythmic heart sounds with prosthetic click
+T6	SYMPTOM 2505 2528	crackles up to midfield
+T7	SYMPTOM 2530 2560	Abdomen: globular, depressible
+T12	SYMPTOM 2641 2663	oedema up to the knees
+T13	SYMPTOM 2839 2875	increased cardiothoracic index (CTI)
+T8	SYMPTOM 2882 2904	vascular cephalisation
+T14	SYMPTOM 2906 2922	Kerley's B lines
+T15	SYMPTOM 3250 3274	leukocyte formula normal
+T16	SYMPTOM 4454 4486	decrease in transmitral gradient
+T17	SYMPTOM 5210 5226	congestive signs
+T18	SYMPTOM 5246 5263	adequate diuresis
+T19	SYMPTOM 5293 5323	stable haemodynamic parameters
+T20	SYMPTOM 5613 5631	haemorrhagic event
+T9	SYMPTOM 5664 5674	haematuria

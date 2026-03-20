@@ -1,0 +1,18 @@
+T1	SYMPTOM 67 108	disminución de fuerza en miembro inferior
+T2	SYMPTOM 204 247	parestesias en zonas distales de ambos pies
+T3	SYMPTOM 260 269	lumbalgia
+T4	SYMPTOM 300 319	dolor en la rodilla
+T5	SYMPTOM 2073 2091	masa gigante renal
+T6	SYMPTOM 476 495	marcha en "stepage"
+T7	SYMPTOM 502 558	disminución de fuerza 4/5 para la flexión dorsal del pie
+T8	SYMPTOM 2279 2290	paraparesia
+T9	SYMPTOM 1397 1441	hipoestesia en puntas de dedos de ambos pies
+T10	SYMPTOM 1449 1541	disminución de fuerza distal de 2/5 en miembro inferior derecho y de 3/5 en miembro inferior
+T11	SYMPTOM 1239 1243	masa
+T12	SYMPTOM 1645 1690	radiología de tórax fue informada como normal
+T13	SYMPTOM 1791 1795	masa
+T14	SYMPTOM 1028 1071	engrosamiento del diámetro del cono medular
+T15	SYMPTOM 2485 2511	sintomatología neurológica
+A1	IMAGEN T5
+A2	IMAGEN T12
+A3	IMAGEN T14

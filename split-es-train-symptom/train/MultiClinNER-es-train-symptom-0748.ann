@@ -1,0 +1,40 @@
+T1	SYMPTOM 1527 1545	vejiga trabeculada
+T2	SYMPTOM 2923 2931	diuresis
+T3	SYMPTOM 1965 1985	función renal normal
+T4	SYMPTOM 2895 2915	función renal normal
+T5	SYMPTOM 730 757	tumefacción escrotal sólida
+T6	SYMPTOM 1235 1255	tumefacción escrotal
+T7	SYMPTOM 2934 2971	sedimentos urinarios sin alteraciones
+T8	SYMPTOM 2603 2642	función renal bilateral está conservada
+T9	SYMPTOM 468 495	VDRL, AntHBs, VIH negativos
+T10	SYMPTOM 497 520	Toxoplasmosis no inmune
+T11	SYMPTOM 523 537	rubéola inmune
+T12	SYMPTOM 1206 1233	vejiga de paredes espesadas
+T13	SYMPTOM 1404 1423	urocultura negativa
+T14	SYMPTOM 1697 1715	alteraciones óseas
+T15	SYMPTOM 1720 1744	alteraciones vertebrales
+T16	SYMPTOM 1987 2006	urocultura negativa
+T17	SYMPTOM 2009 2026	correcta diuresis
+T18	SYMPTOM 2145 2192	uroculturas positivas para flora polimicrobiana
+T19	SYMPTOM 2326 2340	orina aséptica
+T20	SYMPTOM 2499 2523	capacidad vesical normal
+T21	SYMPTOM 2530 2559	vaciado completo de la vejiga
+T22	SYMPTOM 775 798	dolorosa a la palpación
+T25	SYMPTOM 102 107	sanos
+A1	IMAGEN T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	IMAGEN T6
+A5	RESULTADO T7
+A6	RESULTADO T8
+A7	RESULTADO T9
+A8	RESULTADO T10
+A9	RESULTADO T11
+A10	IMAGEN T12
+A11	RESULTADO T13
+A12	IMAGEN T14
+A13	IMAGEN T15
+A14	RESULTADO T16
+A15	RESULTADO T18
+A16	IMAGEN T20
+A17	IMAGEN T21

@@ -1,0 +1,45 @@
+T25	DISEASE 129 150	arterial hypertension
+T2	DISEASE 200 218	pulmonary embolism
+T31	DISEASE 647 678	moderate pulmonary hypertension
+T54	DISEASE 702 725	tricuspid insufficiency
+T4	DISEASE 727 729	TI
+T69	DISEASE 737 760	dilated right ventricle
+T32	DISEASE 1298 1311	heart failure
+T34	DISEASE 1868 1874	goitre
+T6	DISEASE 1963 1985	bilateral exophthalmos
+T68	DISEASE 2257 2269	hepatomegaly
+T7	DISEASE 2475 2484	myxoedema
+T35	DISEASE 2685 2701	pleural effusion
+T37	DISEASE 2847 2898	severe right ventricular dilatation and dysfunction
+T8	DISEASE 2903 2912	severe PH
+T38	DISEASE 2956 2986	severe tricuspid regurgitation
+T9	DISEASE 3078 3104	chronic pulmonary embolism
+T40	DISEASE 3283 3290	anaemia
+T41	DISEASE 3343 3354	cholestasis
+T42	DISEASE 3519 3531	stasis liver
+T43	DISEASE 3573 3586	hyponatraemia
+T44	DISEASE 3600 3613	hyperkalaemia
+T66	DISEASE 3907 3915	syphilis
+T45	DISEASE 4011 4031	deep vein thrombosis
+T46	DISEASE 4045 4052	ascites
+T14	DISEASE 4057 4069	liver stasis
+T17	DISEASE 4309 4348	diagnosis of chronic pulmonary embolism
+T47	DISEASE 4844 4878	primary autoimmune hyperthyroidism
+T50	DISEASE 4880 4902	Graves-Basedow disease
+T53	DISEASE 4909 4951	secondary hypoaldosteronism and cytopenias
+T21	DISEASE 5267 5329	bacteraemia due to methicillin-sensitive Staphylococcus aureus
+T67	DISEASE 5661 5679	infectious picture
+T30	DISEASE 5786 5799	lung embolism
+T22	DISEASE 5818 5856	dilatation of the right heart cavities
+T36	DISEASE 5895 5911	pleural effusion
+T57	DISEASE 6182 6205	tricuspid regurgitation
+T59	DISEASE 6396 6412	thyroid disorder
+T33	DISEASE 6562 6575	heart failure
+T60	DISEASE 6577 6613	Severe right ventricular dysfunction
+T39	DISEASE 6618 6648	severe tricuspid regurgitation
+T62	DISEASE 6667 6689	pulmonary hypertension
+T24	DISEASE 6691 6768	Severe pulmonary hypertension secondary to primary autoimmune hyperthyroidism
+T51	DISEASE 6770 6792	Graves-Basedow disease
+T49	DISEASE 6795 6829	Primary autoimmune hyperthyroidism
+T52	DISEASE 6831 6853	Graves-Basedow disease
+T65	DISEASE 6856 6875	Acute renal failure

@@ -1,0 +1,46 @@
+T1	SYMPTOM 384 446	ventrículo izquierdo (VI) con volúmenes ligeramente aumentados
+T2	SYMPTOM 449 498	moderada depresión de la función global sistólica
+T4	SYMPTOM 550 595	acinesia de todos los segmentos medioapicales
+T5	SYMPTOM 658 743	Ventrículo derecho (VD) de diámetros aumentados y función global sistólica conservada
+T6	SYMPTOM 1646 1687	disnea progresiva hasta hacerse de reposo
+T7	SYMPTOM 1703 1711	ortopnea
+T8	SYMPTOM 1729 1756	disnea paroxística nocturna
+T9	SYMPTOM 1804 1840	edematización de miembros inferiores
+T10	SYMPTOM 1843 1874	aumento del perímetro abdominal
+T11	SYMPTOM 1879 1893	dolor torácico
+T12	SYMPTOM 1910 1923	palpitaciones
+T13	SYMPTOM 1928 1934	fiebre
+T14	SYMPTOM 2227 2246	Buen estado general
+T15	SYMPTOM 2248 2258	Consciente
+T16	SYMPTOM 2261 2270	orientado
+T17	SYMPTOM 2272 2286	Normohidratado
+T18	SYMPTOM 2289 2303	normocoloreado
+T19	SYMPTOM 2305 2323	Eupneico en reposo
+T20	SYMPTOM 2325 2365	Abdomen: distendido, mate a la percusión
+T22	SYMPTOM 2388 2433	dolor a la palpación en hipocondrio izquierdo
+T23	SYMPTOM 2438 2443	masas
+T24	SYMPTOM 2447 2455	megalias
+T25	SYMPTOM 2480 2507	ruidos cardiacos arrítmicos
+T26	SYMPTOM 2524 2530	soplos
+T27	SYMPTOM 2555 2584	murmullo vesicular conservado
+T28	SYMPTOM 2589 2610	crepitantes bibasales
+T29	SYMPTOM 2633 2655	edemas tibiomaleolares
+T30	SYMPTOM 2666 2698	presión venosa yugular aumentada
+T32	SYMPTOM 3015 3024	QRS ancho
+T33	SYMPTOM 3131 3166	silueta cardiomediastínica centrada
+T35	SYMPTOM 3183 3206	redistribución vascular
+T36	SYMPTOM 4285 4307	PCR SARS-CoV2 negativa
+T38	SYMPTOM 4340 4396	diámetros aumentados con movimiento septo-apical anómalo
+T39	SYMPTOM 4399 4417	hipocinesia global
+T40	SYMPTOM 4530 4549	apertura conservada
+T41	SYMPTOM 4696 4773	VD de diámetros aumentados y función global sistólica moderadamente deprimida
+T42	SYMPTOM 5144 5186	aumento de presiones telediastólicas de VI
+T43	SYMPTOM 5231 5299	VD de diámetros aumentados y función sistólica ligeramente deprimida
+T104	SYMPTOM 5013 5040	depresión ligera de la FEVI
+T21	SYMPTOM 2840 2851	PR alargado
+T59	SYMPTOM 2860 2869	QRS ancho
+T78	SYMPTOM 4479 4509	Raíz aórtica de diámetro norma
+T116	SYMPTOM 4958 5008	VI de diámetros y volúmenes ligeramente aumentados
+T37	SYMPTOM 5364 5400	Vena cava inferior (VCI) no dilatada
+T135	SYMPTOM 1761 1794	disminución del ritmo de diuresis
+T151	SYMPTOM 1938 1959	semiología infecciosa

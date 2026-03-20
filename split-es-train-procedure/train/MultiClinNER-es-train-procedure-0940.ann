@@ -1,0 +1,24 @@
+T23	PROCEDURE 657 689	ecografía transtorácica cardiaca
+T24	PROCEDURE 1073 1076	ECG
+T25	PROCEDURE 1245 1257	angioplastia
+T26	PROCEDURE 1451 1469	exploración física
+T27	PROCEDURE 1502 1517	coronariografía
+T28	PROCEDURE 1538 1589	sondar en primer lugar la arteria coronaria derecha
+T29	PROCEDURE 1669 1735	catéter guía EBU3.5 se sondó posteriormente la coronaria izquierda
+T30	PROCEDURE 2255 2312	analizar el vaso con una técnica de imagen intracoronaria
+T31	PROCEDURE 2366 2397	tomografía óptica de coherencia
+T32	PROCEDURE 2399 2402	OCT
+T33	PROCEDURE 2444 2480	sondar con dos guías de angioplastia
+T34	PROCEDURE 2518 2521	OCT
+T35	PROCEDURE 2570 2613	administración de 16 cc de contraste yodado
+T36	PROCEDURE 3166 3185	analítica sanguínea
+T37	PROCEDURE 3191 3211	radiografía de tórax
+T38	PROCEDURE 3232 3255	ecografía transtorácica
+T39	PROCEDURE 3478 3496	función miocárdica
+T40	PROCEDURE 3529 3558	resonancia magnética cardiaca
+T41	PROCEDURE 3803 3806	OCT
+T42	PROCEDURE 4099 4139	doble antiagregación (AAS y clopidogrel)
+T49	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 4161 4167	ARA-II
+T53	PROCEDURE 1102 1129	activaron el Código Infarto
+#1	AnnotatorNotes T32	 tomografía de coherencia óptica

@@ -1,0 +1,18 @@
+T1	SYMPTOM 692 713	anisocitosis moderada
+T2	SYMPTOM 179 204	diarrea con moco y sangre
+T3	SYMPTOM 477 511	elevación de las enzimas hepáticas
+T4	SYMPTOM 718 749	polisegmentación de neutrófilos
+T5	SYMPTOM 765 781	células atípicas
+T6	SYMPTOM 965 1008	serología para Schistosoma que fue positiva
+T7	SYMPTOM 1038 1118	cultivos de heces, orina y el estudio de parásitos en heces resultaron negativos
+T8	SYMPTOM 1375 1405	mucosa gástrica muy congestiva
+T9	SYMPTOM 786 945	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus, Salmonella, Brucella, hidatidosis, leishmaniosis, fasciolosis y amebiasis resultó negativa
+T10	SYMPTOM 310 318	dolorosa
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9

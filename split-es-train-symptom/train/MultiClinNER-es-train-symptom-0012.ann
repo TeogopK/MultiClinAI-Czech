@@ -1,0 +1,19 @@
+T1	SYMPTOM 2324 2353	cultivo de orina fue negativo
+T2	SYMPTOM 903 915	asintomático
+T3	SYMPTOM 1860 1872	asintomático
+T4	SYMPTOM 313 322	hematuria
+T5	SYMPTOM 443 455	neoformación
+T6	SYMPTOM 2595 2621	Vejiga de capacidad normal
+T7	SYMPTOM 2644 2693	tejido de granulación en la cara anterior vesical
+T8	SYMPTOM 135 198	merma de la movilidad de la columna sobre todo a nivel cervical
+T9	SYMPTOM 1180 1196	cultivo negativo
+T10	SYMPTOM 2018 2074	engrosamiento significativo de la pared vesical anterior
+T11	SYMPTOM 2931 2951	mucosa muy engrosada
+T12	SYMPTOM 771 815	ecográficos y citologías urinarias negativas
+T13	SYMPTOM 2206 2225	área hiperecogénica
+T14	SYMPTOM 2764 2830	suelo vesical-cara lateral izquierda se aprecia una pseudomembrana
+A1	RESULTADO T1
+A2	RESULTADO T9
+A3	IMAGEN T10
+A4	RESULTADO T12
+A5	IMAGEN T13

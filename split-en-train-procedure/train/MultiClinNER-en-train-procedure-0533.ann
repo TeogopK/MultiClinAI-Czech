@@ -1,0 +1,18 @@
+T1	PROCEDURE 342 362	Physical examination
+T2	PROCEDURE 395 417	pulmonary auscultation
+T17	PROCEDURE 566 586	complete blood count
+T10	PROCEDURE 588 608	general biochemistry
+T3	PROCEDURE 610 639	baseline arterial blood gases
+T11	PROCEDURE 674 686	proteinogram
+T9	PROCEDURE 707 717	complement
+T4	PROCEDURE 813 831	biological markers
+T5	PROCEDURE 859 869	Spirometry
+T6	PROCEDURE 902 926	pulmonary diffusion test
+T7	PROCEDURE 1018 1035	plain chest X-ray
+T25	PROCEDURE 1079 1087	chest CT
+T8	PROCEDURE 1356 1372	open lung biopsy
+T28	PROCEDURE 1446 1512	histopathological study showed infiltration of the lung parenchyma
+T29	PROCEDURE 1606 1647	S-100 and CD1a immunohistochemical stains
+T30	PROCEDURE 1663 1682	Electron microscopy
+T31	PROCEDURE 2079 2087	chest CT
+T32	PROCEDURE 2416 2423	CT scan

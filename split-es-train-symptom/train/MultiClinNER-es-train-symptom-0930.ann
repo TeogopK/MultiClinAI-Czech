@@ -1,0 +1,89 @@
+T1	SYMPTOM 434 476	ventrículo izquierdo [VI] de tamaño normal
+T2	SYMPTOM 1443 1458	flushing facial
+T3	SYMPTOM 1461 1469	malestar
+T4	SYMPTOM 1706 1723	torpeza en pierna
+T5	SYMPTOM 2197 2210	ritmo sinusal
+T6	SYMPTOM 2459 2468	epistaxis
+T7	SYMPTOM 3280 3286	disnea
+T8	SYMPTOM 3288 3301	palpitaciones
+T9	SYMPTOM 3304 3318	dolor torácico
+T10	SYMPTOM 3389 3418	disnea de esfuerzo progresiva
+T11	SYMPTOM 3421 3429	tos seca
+T12	SYMPTOM 3601 3625	Aceptable estado general
+T13	SYMPTOM 3627 3637	Consciente
+T14	SYMPTOM 3640 3669	orientada en las tres esferas
+T15	SYMPTOM 3671 3685	Normocoloreada
+T16	SYMPTOM 3687 3701	normohidratada
+T17	SYMPTOM 3704 3719	normoperfundida
+T18	SYMPTOM 3721 3752	Carótidas rítmicas y simétricas
+T19	SYMPTOM 3757 3778	ingurgitación yugular
+T20	SYMPTOM 3803 3817	tonos rítmicos
+T21	SYMPTOM 3822 3828	soplos
+T22	SYMPTOM 3832 3842	extratonos
+T23	SYMPTOM 3867 3913	murmullo vesicular abolido en bases pulmonares
+T24	SYMPTOM 3918 3955	crepitantes secos hasta campos medios
+T26	SYMPTOM 4057 4062	masas
+T27	SYMPTOM 4066 4074	megalias
+T28	SYMPTOM 4076 4109	Extremidades inferiores: No edema
+T29	SYMPTOM 4111 4139	Pulsos periféricos presentes
+T30	SYMPTOM 4697 4710	ritmo sinusal
+T33	SYMPTOM 5201 5225	función sistólica normal
+T36	SYMPTOM 5372 5432	Ventrículo derecho con morfología y función sistólica normal
+T38	SYMPTOM 5672 5699	Vena cava de calibre normal
+T42	SYMPTOM 5970 6008	focos parcheados de vidrio deslustrado
+T44	SYMPTOM 6059 6106	patrón intersticial reticular grueso periférico
+T45	SYMPTOM 6622 6642	Broncoscopia: normal
+T46	SYMPTOM 6824 6865	anormalidad ventilatoria restrictiva leve
+T48	SYMPTOM 7009 7049	pruebas de función respiratoria normales
+T50	SYMPTOM 7354 7390	engrosamiento de septos interlobares
+T53	SYMPTOM 7803 7839	alteraciones radiológicas pulmonares
+T54	SYMPTOM 7841 7871	áreas de consolidación bibasal
+T55	SYMPTOM 8234 8254	congestión sistémica
+T56	SYMPTOM 8264 8289	pro-BNP levemente elevado
+T57	SYMPTOM 8739 8754	patrón pulmonar
+T58	SYMPTOM 9019 9060	anormalidad ventilatoria restrictiva leve
+T61	SYMPTOM 10650 10723	patrón intersticial periférico de predominio basal, en vidrio deslustrado
+T63	SYMPTOM 11293 11306	ritmo sinusal
+T197	SYMPTOM 3957 4051	Abdomen: ruidos hidroaéreos presentes, blando y depresible no doloroso a la palpación profunda
+T219	SYMPTOM 795 808	ritmo sinusal
+T198	SYMPTOM 502 561	fracción de eyección del ventrículo izquierdo [FEVI] normal
+T25	SYMPTOM 4869 4900	Índice cardiotoracico limítrofe
+T32	SYMPTOM 9722 9759	tiroidea que mostró múltiples nódulos
+T34	SYMPTOM 11523 11558	alteraciones de la función tiroidea
+T221	SYMPTOM 3262 3318	Asintomática para disnea, palpitaciones y dolor torácico
+T231	SYMPTOM 5298 5328	Patrón de llenado pseudonormal
+T235	SYMPTOM 5257 5287	anomalías de la contractilidad
+T236	SYMPTOM 7988 8027	aumento de los parámetros inflamatorios
+T237	SYMPTOM 8809 8845	cambios fibróticos de perfil crónico
+T241	SYMPTOM 9153 9165	desaturación
+T243	SYMPTOM 7759 7796	elevación de parámetros inflamatorios
+T247	SYMPTOM 9783 9806	función tiroidea normal
+T248	SYMPTOM 11024 11050	función ventricular normal
+T260	SYMPTOM 6020 6040	opacidades nodulares
+T262	SYMPTOM 5330 5359	presiones de llenado elevadas
+T35	SYMPTOM 6707 6739	sin aislamientos microbiológicos
+T37	SYMPTOM 7051 7103	Descenso moderado aislado de la cpacidad de difusión
+T39	SYMPTOM 9382 9414	sin aislamientos microbiológicos
+T43	SYMPTOM 4721 4734	Eje izquierdo
+T31	SYMPTOM 4970 4993	consolidación bibasales
+T47	SYMPTOM 4998 5037	patrón intersticial hasta campos medios
+T49	SYMPTOM 5567 5633	presión arterial pulmonar sistólica (PAPs) dentro de la normalidad
+T52	SYMPTOM 5857 5879	consolidación pulmonar
+T59	SYMPTOM 5884 5899	patrón alveolar
+T60	SYMPTOM 5902 5919	broncograma aéreo
+T41	SYMPTOM 6298 6379	Tronco principal de arteria pulmonar de 29 mm, en el límite alto de la normalidad
+T62	SYMPTOM 6470 6533	nódulo de mayor tamaño de 20 mm en el lóbulo tiroideo izquierdo
+T64	SYMPTOM 6535 6596	Aumento de atenuación del parénquima hepático de forma difusa
+T113	SYMPTOM 6644 6705	Lavado broncoalveolar con fenotipo de predominio neutrofílico
+T165	SYMPTOM 6742 6783	anatomía patológica con macrófagos grasos
+T199	SYMPTOM 6867 6909	Descenso grave de la capacidad de difusión
+T202	SYMPTOM 7507 7529	zonas de consolidación
+T203	SYMPTOM 7270 7347	patrón periférico de predominio en bases, intersticial, en vidrio deslustrado
+T205	SYMPTOM 9067 9109	descenso grave de la capacidad de difusión
+T206	SYMPTOM 9249 9300	broncoscopia que no evidenció hallazgos patológicos
+T207	SYMPTOM 9309 9380	lavado broncoalveolar que mostró un fenotipo de predominio neutrofílico
+T208	SYMPTOM 9417 9458	anatomía patológica con macrófagos grasos
+T209	SYMPTOM 10729 10765	engrosamiento de septos interlobares
+T210	SYMPTOM 10867 10889	zonas de consolidación
+T212	SYMPTOM 11256 11266	baja carga
+T213	SYMPTOM 11324 11344	epistaxis recurrente

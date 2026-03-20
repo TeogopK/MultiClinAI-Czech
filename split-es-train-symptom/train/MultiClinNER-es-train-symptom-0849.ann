@@ -1,0 +1,45 @@
+T1	SYMPTOM 21 35	dolor torácico
+T2	SYMPTOM 367 379	VIH positivo
+T3	SYMPTOM 616 632	RNA-VIH negativo
+T4	SYMPTOM 1041 1130	dolor centrotorácico de características opresivas, irradiado a miembro superior izquierdo
+T5	SYMPTOM 1146 1164	sensación nauseosa
+T6	SYMPTOM 1167 1185	sudoración profusa
+T7	SYMPTOM 1206 1211	dolor
+T8	SYMPTOM 1294 1299	dolor
+T9	SYMPTOM 1382 1416	alteraciones electrocardiográficas
+T10	SYMPTOM 1462 1487	elevación del segmento ST
+T11	SYMPTOM 1591 1598	Afebril
+T12	SYMPTOM 1742 1752	Consciente
+T13	SYMPTOM 1754 1763	orientado
+T14	SYMPTOM 1766 1777	colaborador
+T15	SYMPTOM 1779 1806	Bien hidratado y perfundido
+T17	SYMPTOM 1808 1830	Regular estado general
+T18	SYMPTOM 1848 1853	dolor
+T19	SYMPTOM 1855 1873	Eupneico en reposo
+T20	SYMPTOM 1875 1904	Presión venosa yugular normal
+T21	SYMPTOM 1929 1936	rítmico
+T22	SYMPTOM 1942 1948	soplos
+T23	SYMPTOM 1973 2023	ruidos respiratorios preservados sin sobreañadidos
+T24	SYMPTOM 2025 2066	Abdomen: blando, depresible y no doloroso
+T25	SYMPTOM 2068 2090	Peristaltismo presente
+T26	SYMPTOM 2092 2127	Extremidades inferiores: sin edemas
+T27	SYMPTOM 2129 2179	Pulsos radiales y femorales presentes y simétricos
+T28	SYMPTOM 2281 2290	PR normal
+T29	SYMPTOM 2292 2304	QRS estrecho
+T30	SYMPTOM 2306 2350	Elevación del segmento ST en DII, DIII y aVF
+T31	SYMPTOM 2355 2386	descenso del ST en aVL, V1 y V2
+T32	SYMPTOM 2849 2878	índice cardio-torácico normal
+T33	SYMPTOM 3357 3389	ventrículo izquierdo no dilatado
+T34	SYMPTOM 3428 3483	Hipocinesia de segmentos basal y medio de cara inferior
+T35	SYMPTOM 3485 3544	Función sistólica global de ventrículo izquierdo conservada
+T36	SYMPTOM 3710 3732	Válvula aórtica normal
+T37	SYMPTOM 3766 3791	Válvula tricúspide normal
+T38	SYMPTOM 3948 3953	dolor
+T39	SYMPTOM 3956 3981	hemodinámicamente estable
+T41	SYMPTOM 4349 4400	onda Q y onda T negativa en derivaciones inferiores
+T42	SYMPTOM 4748 4760	asintomático
+T43	SYMPTOM 5296 5360	Función sistólica del vetrículo izquierdo (VI) global conservada
+T112	SYMPTOM 3612 3637	Ventrículo derecho normal
+T40	SYMPTOM 4887 4923	pruebas de función hepática normales
+T115	SYMPTOM 5531 5551	carga viral negativa
+T118	SYMPTOM 3555 3610	Relajación prolongada en el patrón de flujo transmitral

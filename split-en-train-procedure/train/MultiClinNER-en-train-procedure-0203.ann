@@ -1,0 +1,26 @@
+T2	PROCEDURE 25 58	spinal cord stimulation electrode
+T15	PROCEDURE 60 63	SCS
+T12	PROCEDURE 148 175	induction of vasodilatation
+T22	PROCEDURE 251 285	amputation of the right lower limb
+T1	PROCEDURE 404 426	anticonvulsant therapy
+T3	PROCEDURE 428 443	antidepressants
+T21	PROCEDURE 454 464	analgesics
+T5	PROCEDURE 483 486	SCS
+T23	PROCEDURE 749 752	SCS
+T14	PROCEDURE 786 846	scalpel management with diathermy for endoscopic polypectomy
+T10	PROCEDURE 966 985	shortwave diathermy
+T11	PROCEDURE 990 1009	microwave diathermy
+T13	PROCEDURE 1136 1162	bipolar electrocoagulation
+T18	PROCEDURE 1217 1267	endoscopic polypectomy with bipolar electrocautery
+T19	PROCEDURE 1388 1403	total colectomy
+T20	PROCEDURE 1430 1436	biopsy
+T31	PROCEDURE 1441 1485	anatomopathological diagnosis of the lesions
+T6	PROCEDURE 1578 1581	SCS
+T16	PROCEDURE 1674 1721	endoscopic polypectomy using standard diathermy
+T7	PROCEDURE 1740 1743	SCS
+T8	PROCEDURE 2135 2138	SCS
+T17	PROCEDURE 2156 2178	endoscopic polypectomy
+T9	PROCEDURE 2251 2266	anticonvulsants
+T4	PROCEDURE 2271 2286	antidepressants
+T38	PROCEDURE 2648 2680	continuous perfusion of ketamine
+T24	PROCEDURE 2855 2864	infusions

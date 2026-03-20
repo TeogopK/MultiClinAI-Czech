@@ -1,0 +1,12 @@
+T1	PROCEDURE 313 333	Physical examination
+T7	PROCEDURE 592 638	palpation of the right masseter and pterygoids
+T11	PROCEDURE 642 662	panoramic radiograph
+T12	PROCEDURE 709 753	Magnetic resonance imaging (MRI) of both TMJ
+T2	PROCEDURE 737 740	MRI
+T14	PROCEDURE 1029 1075	computerised tomography (CT) scan of both TMJs
+T13	PROCEDURE 1054 1056	CT
+T3	PROCEDURE 1252 1267	occlusal splint
+T4	PROCEDURE 1269 1285	muscle relaxants
+T15	PROCEDURE 1287 1310	anti-inflammatory drugs
+T5	PROCEDURE 1312 1322	local heat
+T6	PROCEDURE 1329 1338	soft diet

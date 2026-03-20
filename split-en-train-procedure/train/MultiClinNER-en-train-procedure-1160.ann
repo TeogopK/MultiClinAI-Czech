@@ -1,0 +1,25 @@
+T41	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 144 167	psychological treatment
+T36	PROCEDURE 270 297	immunosuppressive treatment
+T38	PROCEDURE 325 347	bone marrow transplant
+T39	PROCEDURE 644 655	transfusion
+T42	PROCEDURE 795 815	Physical examination
+T43	PROCEDURE 953 973	Cardiac auscultation
+T44	PROCEDURE 1034 1056	Pulmonary auscultation
+T45	PROCEDURE 1092 1105	Bilateral PPR
+T54	PROCEDURE 1202 1230	palpation of the epigastrium
+T2	PROCEDURE 1367 1370	CBC
+T46	PROCEDURE 1640 1654	Blood cultures
+T47	PROCEDURE 1723 1734	Chest X-ray
+T48	PROCEDURE 1773 1787	Echocardiogram
+T49	PROCEDURE 2791 2821	Transesophageal echocardiogram
+T10	PROCEDURE 2859 2862	TTE
+T51	PROCEDURE 3478 3513	broad-spectrum antibiotic treatment
+T40	PROCEDURE 3518 3578	transfusion of irradiated products (2 HC and 1 platelet pool
+T15	PROCEDURE 3553 3558	(2 HC
+T55	PROCEDURE 3565 3578	platelet pool
+T50	PROCEDURE 3695 3709	echocardiogram
+T14	PROCEDURE 3817 3820	TEE
+T52	PROCEDURE 3822 3857	Broad-spectrum antibiotic treatment
+T13	PROCEDURE 3939 3957	antibiotic therapy
+T37	PROCEDURE 4017 4044	immunosuppressive treatment

@@ -1,0 +1,15 @@
+T10	PROCEDURE 410 421	examination
+T9	PROCEDURE 585 613	palpation in the epigastrium
+T11	PROCEDURE 657 667	blood test
+T13	PROCEDURE 739 754	abdominal X-ray
+T4	PROCEDURE 809 829	Abdominal ultrasound
+T7	PROCEDURE 1053 1074	Surgical intervention
+T6	PROCEDURE 1097 1118	anaesthetic induction
+T5	PROCEDURE 1200 1225	supraumbilical laparotomy
+T18	PROCEDURE 1322 1361	segmental resection of 30 cm of jejunum
+T19	PROCEDURE 1558 1578	Immunohistochemistry
+T20	PROCEDURE 1807 1815	Chest CT
+T1	PROCEDURE 1992 2004	Bronchoscopy
+T3	PROCEDURE 2191 2197	Biopsy
+T8	PROCEDURE 2269 2296	immunohistochemical pattern
+T2	PROCEDURE 2588 2600	chemotherapy

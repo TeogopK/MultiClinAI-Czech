@@ -1,0 +1,46 @@
+T72	DISEASE 173 185	Toxic habits
+T74	DISEASE 187 200	active smoker
+T1	DISEASE 272 284	hypertension
+T32	DISEASE 286 294	diabetes
+T33	DISEASE 298 311	dyslipidaemia
+T34	DISEASE 327 349	cardiovascular disease
+T35	DISEASE 374 393	chronic pharyngitis
+T2	DISEASE 395 428	herniated disc at C5-C6 and C7-D1
+T36	DISEASE 908 926	acute pancreatitis
+T39	DISEASE 1041 1058	mild pancreatitis
+T40	DISEASE 1282 1295	atrial myxoma
+T3	DISEASE 1801 1857	palpable lymph nodes in the cervical, axillary, inguinal
+T47	DISEASE 3631 3667	incomplete right bundle branch block
+T6	DISEASE 3807 3900	enlargement of the pancreatic head and uncinate process with infiltration of the adjacent fat
+T48	DISEASE 3949 3972	mild acute pancreatitis
+T7	DISEASE 3974 4018	Hepatic steatosis, with several simple cysts
+T8	DISEASE 4020 4039	Aliased gallbladder
+T50	DISEASE 4049 4098	intrahepatic or extrahepatic bile duct dilatation
+T73	DISEASE 4719 4775	Trivalve aortic valve with mild degenerative involvement
+T70	DISEASE 4777 4796	Dilated left atrium
+T51	DISEASE 5045 5063	left atrial myxoma
+T54	DISEASE 5333 5353	Mitral insufficiency
+T55	DISEASE 5514 5536	valvular insufficiency
+T9	DISEASE 5584 5612	lesions in coronary arteries
+T42	DISEASE 5900 5913	atrial myxoma
+T56	DISEASE 5950 5960	thrombosis
+T43	DISEASE 5987 6000	atrial myxoma
+T52	DISEASE 6150 6168	left atrial myxoma
+T11	DISEASE 6262 6281	pancreatic symptoms
+T12	DISEASE 6641 6660	pancreatic symptoms
+T45	DISEASE 7008 7021	atrial myxoma
+T57	DISEASE 7063 7073	thrombosis
+T58	DISEASE 7191 7219	supraventricular tachycardia
+T59	DISEASE 7247 7261	atrial flutter
+T62	DISEASE 7367 7382	tachyarrhythmia
+T63	DISEASE 7414 7433	atrial fibrillation
+T65	DISEASE 7560 7591	complete atrioventricular block
+T66	DISEASE 7732 7742	arrhythmia
+T68	DISEASE 7990 8021	counterclockwise atrial flutter
+T67	DISEASE 8158 8168	arrhythmia
+T53	DISEASE 8471 8489	Left atrial myxoma
+T49	DISEASE 8491 8514	Mild acute pancreatitis
+T69	DISEASE 8527 8566	Counterclockwise isthmic atrial flutter
+T61	DISEASE 8552 8566	atrial flutter
+T64	DISEASE 8603 8622	atrial fibrillation
+T71	DISEASE 8685 8702	Sinus dysfunction

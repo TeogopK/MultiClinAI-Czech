@@ -1,0 +1,25 @@
+T39	PROCEDURE 263 275	radiotherapy
+T40	PROCEDURE 598 615	electrocardiogram
+T41	PROCEDURE 617 620	ECG
+T44	PROCEDURE 899 918	primary angioplasty
+T59	PROCEDURE 1098 1113	catheterisation
+T42	PROCEDURE 1180 1183	ECG
+T45	PROCEDURE 1198 1218	Physical examination
+T3	PROCEDURE 1546 1562	Laboratory tests
+T46	PROCEDURE 1737 1753	Echocardiography
+T43	PROCEDURE 2129 2132	ECG
+T60	PROCEDURE 2268 2293	Pericardial fluid culture
+T47	PROCEDURE 2298 2312	blood cultures
+T48	PROCEDURE 2342 2364	Chest CT with contrast
+T49	PROCEDURE 2702 2709	Neck CT
+T50	PROCEDURE 3123 3153	therapeutic pericardiocentesis
+T9	PROCEDURE 3426 3458	CT scan of the chest and abdomen
+T10	PROCEDURE 3568 3575	culture
+T52	PROCEDURE 3733 3741	drainage
+T61	PROCEDURE 3776 3801	catecholaminergic support
+T54	PROCEDURE 3870 3902	intravenous antibiotic treatment
+T55	PROCEDURE 3963 3974	antibiogram
+T53	PROCEDURE 3993 4023	complete drainage of the fluid
+T57	PROCEDURE 4044 4064	antibiotic treatment
+T12	PROCEDURE 4123 4171	Urgent pericardiocentesis and pericardial window
+T58	PROCEDURE 4223 4235	thoracoscopy

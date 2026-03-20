@@ -1,0 +1,10 @@
+T1	DISEASE 56 73	diabetes mellitus
+T2	DISEASE 75 96	hipertensión arterial
+T7	DISEASE 243 265	incontinencia urinaria
+T11	DISEASE 381 410	hidrocefalia tetraventricular
+T12	DISEASE 432 435	HCA
+T23	DISEASE 928 952	hipotensión intracraneal
+T26	DISEASE 1108 1160	hematoma en vermis y hemisferio cerebeloso izquierdo
+T27	DISEASE 1166 1255	sangrado subaracnoideo en la superficie superior del cerebelo y en las folias cerebelosas
+T31	DISEASE 99 120	fibrilación auricular
+#1	AnnotatorNotes T12	  HCA: Hidrocefalia crónica del adulto

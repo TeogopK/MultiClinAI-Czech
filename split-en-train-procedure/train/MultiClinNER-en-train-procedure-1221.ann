@@ -1,0 +1,56 @@
+T74	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T65	PROCEDURE 505 520	total colectomy
+T2	PROCEDURE 549 617	adjuvant chemotherapy with Gramont scheme with 5-fluorouracil (5-FU)
+T3	PROCEDURE 666 672	CT sca
+T66	PROCEDURE 782 785	PET
+T67	PROCEDURE 819 843	chemotherapy with FOLFOX
+T4	PROCEDURE 1239 1285	cardiopulmonary resuscitation (CPR) manoeuvres
+T68	PROCEDURE 1270 1273	CPR
+T5	PROCEDURE 1348 1432	semi-automatic external defibrillator (AED) detected a shockable rhythm and 2 shocks
+T70	PROCEDURE 1498 1520	orotracheal intubation
+T71	PROCEDURE 1550 1567	electrocardiogram
+T72	PROCEDURE 1569 1572	ECG
+T73	PROCEDURE 1809 1818	anamnesis
+T75	PROCEDURE 1949 1969	Physical examination
+T76	PROCEDURE 2107 2127	Cardiac auscultation
+T77	PROCEDURE 2165 2187	Pulmonary auscultation
+T107	PROCEDURE 2283 2286	EGC
+T6	PROCEDURE 2402 2413	Blood tests
+T7	PROCEDURE 2437 2446	haemogram
+T78	PROCEDURE 2455 2466	coagulation
+T79	PROCEDURE 2494 2514	Arterial blood gases
+T104	PROCEDURE 2588 2600	biochemistry
+T80	PROCEDURE 2668 2689	acute phase reactants
+T81	PROCEDURE 2691 2706	Cardiac markers
+T82	PROCEDURE 2806 2817	Chest X-ray
+T83	PROCEDURE 2899 2910	chest X-ray
+T8	PROCEDURE 2917 2933	ICD implantation
+T91	PROCEDURE 3115 3174	Urgent coronary angiography: access via right radial artery
+T84	PROCEDURE 3709 3723	Echocardiogram
+T86	PROCEDURE 4634 4654	CT coronary arteries
+T87	PROCEDURE 4735 4749	CT angiography
+T88	PROCEDURE 5610 5627	Electrophysiology
+T90	PROCEDURE 6274 6311	Induction of ventricular fibrillation
+T112	PROCEDURE 6418 6423	shock
+T108	PROCEDURE 6610 6624	defibrillation
+T113	PROCEDURE 6781 6786	Shock
+T85	PROCEDURE 7045 7059	echocardiogram
+T92	PROCEDURE 7174 7194	coronary angiography
+T93	PROCEDURE 7584 7604	coronary angiography
+T94	PROCEDURE 7889 7900	coronary CT
+T95	PROCEDURE 8012 8023	cardiac MRI
+T96	PROCEDURE 8156 8174	cardiac monitoring
+T105	PROCEDURE 8164 8174	monitoring
+T97	PROCEDURE 8486 8501	cardiac surgery
+T98	PROCEDURE 8558 8587	implantation of an ICD device
+T109	PROCEDURE 8635 8651	subcutaneous ICD
+T111	PROCEDURE 8703 8727	central venous reservoir
+T89	PROCEDURE 8911 8928	electrophysiology
+T106	PROCEDURE 9090 9100	monitoring
+T99	PROCEDURE 9468 9486	chemotherapy agent
+T101	PROCEDURE 9711 9740	cardiopulmonary resuscitation
+T69	PROCEDURE 9742 9745	CPR
+T114	PROCEDURE 9767 9772	shock
+T110	PROCEDURE 9819 9835	Subcutaneous ICD
+T102	PROCEDURE 9819 9848	Subcutaneous ICD implantation
+T103	PROCEDURE 10097 10114	5-FU chemotherapy

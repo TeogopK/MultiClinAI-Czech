@@ -1,0 +1,55 @@
+T1	SYMPTOM 396 417	central thoracic pain
+T2	SYMPTOM 464 474	oppressive
+T3	SYMPTOM 511 530	vegetative cramping
+T4	SYMPTOM 603 632	angina or infectious symptoms
+T35	SYMPTOM 820 835	Eupneic at rest
+T36	SYMPTOM 845 855	orthopnoea
+T5	SYMPTOM 859 869	platypnoea
+T6	SYMPTOM 871 901	Jugular venous pressure normal
+T37	SYMPTOM 903 932	Negative hepatojugular reflex
+T38	SYMPTOM 956 970	regular rhythm
+T39	SYMPTOM 975 982	murmurs
+T40	SYMPTOM 1008 1034	preserved vesicular murmur
+T41	SYMPTOM 1056 1078	Extremities: no oedema
+T7	SYMPTOM 1080 1123	Peripheral pulses preserved and symmetrical
+T8	SYMPTOM 1282 1311	ST segment elevation in V3-V5
+T42	SYMPTOM 1313 1336	Q waves in DIII and aVF
+T9	SYMPTOM 1376 1391	negative T wave
+T10	SYMPTOM 1486 1509	loss of R wave in V3-V4
+T11	SYMPTOM 1511 1540	ST segment elevation in V3-V5
+T12	SYMPTOM 1546 1561	biphasic T wave
+T43	SYMPTOM 1955 1985	RT-PCR for SARS-CoV2: negative
+T44	SYMPTOM 2000 2036	centred cardiomediastinal silhouette
+T13	SYMPTOM 2080 2103	Lung fields translucent
+T62	SYMPTOM 2133 2145	condensation
+T14	SYMPTOM 2236 2294	non-dilated left ventricle, with extensive septal akinesia
+T15	SYMPTOM 2310 2348	alterations of segmental contractility
+T45	SYMPTOM 2355 2389	preserved global systolic function
+T46	SYMPTOM 2391 2451	Non-dilated right ventricle with preserved systolic function
+T61	SYMPTOM 2453 2477	Normal filling pressures
+T54	SYMPTOM 2526 2573	Aortic root and left atrium of normal diameters
+T16	SYMPTOM 2670 2704	Global systolic function preserved
+T65	SYMPTOM 2763 2776	Trunk: normal
+T55	SYMPTOM 3033 3072	Right coronary artery: dominant, normal
+T17	SYMPTOM 3134 3149	Truncus: normal
+T56	SYMPTOM 3512 3551	Right coronary artery: dominant, normal
+T18	SYMPTOM 3563 3594	cardiac cavities of normal size
+T57	SYMPTOM 3596 3653	Ascending and descending thoracic aorta of normal calibre
+T19	SYMPTOM 3675 3713	Abdominal aorta of high normal calibre
+T20	SYMPTOM 3951 4011	Hepatic, splenic and mesenteric arteries without alterations
+T47	SYMPTOM 4013 4034	Normal renal arteries
+T21	SYMPTOM 4087 4135	left coronary trunk of normal calibre and origin
+T58	SYMPTOM 4162 4217	Anterior descending artery of normal calibre and origin
+T59	SYMPTOM 4344 4390	Circumflex artery of normal calibre and origin
+T22	SYMPTOM 4417 4455	Marginal obtuse branch of good calibre
+T63	SYMPTOM 4485 4514	signs of vascular involvement
+T60	SYMPTOM 4516 4566	Right coronary artery of normal calibre and origin
+T64	SYMPTOM 4682 4711	signs of vascular involvement
+T48	SYMPTOM 5191 5229	ST-segment elevation in anterior leads
+T50	SYMPTOM 5638 5650	asymptomatic
+T23	SYMPTOM 5805 5865	deep negative T waves in the anterolateral and inferior face
+T24	SYMPTOM 5952 5985	angina-like central thoracic pain
+T49	SYMPTOM 5999 6037	ST-segment elevation in anterior leads
+T51	SYMPTOM 6341 6351	chest pain
+T52	SYMPTOM 7498 7508	chest pain
+T53	SYMPTOM 7702 7732	Preserved LV systolic function

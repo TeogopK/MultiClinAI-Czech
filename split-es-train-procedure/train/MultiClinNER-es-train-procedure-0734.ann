@@ -1,0 +1,26 @@
+T1	PROCEDURE 1311 1320	hemograma
+T2	PROCEDURE 2540 2560	electroencefalograma
+T3	PROCEDURE 3489 3497	sedación
+T4	PROCEDURE 1335 1386	pruebas de función hepática, renal, tiroidea, orina
+T5	PROCEDURE 2562 2565	EEG
+T6	PROCEDURE 3877 3896	ecografía abdominal
+T7	PROCEDURE 1419 1438	tomografía cerebral
+T8	PROCEDURE 2260 2262	PL
+T9	PROCEDURE 3609 3619	extubación
+T10	PROCEDURE 1460 1476	tóxicos en orina
+T11	PROCEDURE 3624 3627	EEG
+T12	PROCEDURE 2304 2389	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia
+T13	PROCEDURE 1498 1512	punción lumbar
+T14	PROCEDURE 1514 1516	PL
+T15	PROCEDURE 4054 4109	PL buscando la presencia de anticuerpos paraneoplásicos
+T16	PROCEDURE 2011 2110	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr
+T17	PROCEDURE 2412 2446	resonancia magnética (RM) cerebral
+T18	PROCEDURE 3745 3767	ecografía ginecológica
+T19	PROCEDURE 2434 2436	RM
+T20	PROCEDURE 2475 2488	antidepresivo
+T21	PROCEDURE 2987 3016	ecocardiografía transtorácica
+T22	PROCEDURE 3186 3194	sedación
+T23	PROCEDURE 3197 3220	intubación endotraqueal
+T24	PROCEDURE 3360 3439	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias
+T25	PROCEDURE 1322 1333	coagulación
+T26	PROCEDURE 3055 3066	corticoides

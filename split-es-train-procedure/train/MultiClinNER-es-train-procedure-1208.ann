@@ -1,0 +1,44 @@
+T54	PROCEDURE 473 521	Implante de desfibrilador automático implantable
+T56	PROCEDURE 1097 1116	trasplante cardiaco
+T57	PROCEDURE 1362 1381	trasplante cardiaco
+T58	PROCEDURE 1440 1458	electrocardiograma
+T59	PROCEDURE 1460 1463	ECG
+T60	PROCEDURE 1489 1511	estudio de coagulación
+T61	PROCEDURE 1513 1533	radiografía de tórax
+T62	PROCEDURE 2010 2022	auscultación
+T63	PROCEDURE 2309 2312	ECG
+T64	PROCEDURE 2390 2410	RADIOGRAFÍA DE TÓRAX
+T65	PROCEDURE 2741 2770	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T66	PROCEDURE 3539 3554	CORONARIOGRAFÍA
+T67	PROCEDURE 3586 3605	CATETERISMO derecho
+T68	PROCEDURE 3850 3869	TAC toracoabdominal
+T69	PROCEDURE 4109 4175	ECOGRAFÍA DOPLER de troncos supraaórticos y de miembros inferiores
+T70	PROCEDURE 5447 5474	revertir la anticoagulación
+T71	PROCEDURE 5881 5930	trasplante cardiaco ortotópico con técnica bicava
+T72	PROCEDURE 6099 6129	transfusiones de hemoderivados
+T73	PROCEDURE 6134 6148	heparinización
+T74	PROCEDURE 6189 6224	se dejan dos drenajes mediastínicos
+T75	PROCEDURE 6381 6389	extubado
+T76	PROCEDURE 6653 6672	trasplante cardiaco
+T77	PROCEDURE 6778 6827	trasplante cardiaco ortotópico con técnica bicava
+T95	PROCEDURE 289 305	ergoespirometría
+T97	PROCEDURE 1718 1736	EXPLORACIÓN FÍSICA
+T98	PROCEDURE 4226 4251	Anticuerpos anti HLA I-II
+T99	PROCEDURE 4263 4272	SEROLOGÍA
+T100	PROCEDURE 4681 4698	Screening sífilis
+T101	PROCEDURE 4709 4729	MARCADORES TUMORALES
+T102	PROCEDURE 4964 4979	Perfil lipídico
+T103	PROCEDURE 4883 4894	Coagulación
+T104	PROCEDURE 5037 5052	Perfil tiroideo
+T105	PROCEDURE 5061 5082	PRUEBA DE COAGULACIÓN
+T106	PROCEDURE 5945 5966	cirugía extracorpórea
+T107	PROCEDURE 6513 6541	protocolo de inmunosupresión
+T108	PROCEDURE 1547 1571	reserva de hemoderivados
+T109	PROCEDURE 6202 6242	drenajes mediastínicos que son retirados
+T124	PROCEDURE 4742 4751	ANALÍTICA
+T130	PROCEDURE 1466 1484	analítica completa
+T132	PROCEDURE 422 450	anticoagulada con dabigatrán
+T133	PROCEDURE 6983 6996	anticoagulada
+T141	PROCEDURE 5843 5866	intervención quirúrgica
+T125	PROCEDURE 1590 1618	anticoagulado con dabigatrán
+T126	PROCEDURE 523 526	DAI

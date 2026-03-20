@@ -1,0 +1,17 @@
+T28	PROCEDURE 265 283	exploración física
+T29	PROCEDURE 290 308	exploración física
+T30	PROCEDURE 588 609	auscultación pulmonar
+T31	PROCEDURE 708 726	Electrocardiograma
+T32	PROCEDURE 839 853	Ecocardiograma
+T33	PROCEDURE 1000 1029	Ecocardiograma transesofágico
+T34	PROCEDURE 1115 1143	ecocardiograma transtorácico
+T35	PROCEDURE 1147 1149	TC
+T36	PROCEDURE 1201 1203	TC
+T37	PROCEDURE 1367 1378	RM cardiaca
+T38	PROCEDURE 1502 1513	Cateterismo
+T39	PROCEDURE 1526 1545	cateterismo derecho
+T40	PROCEDURE 1554 1570	ventriculografía
+T41	PROCEDURE 1726 1743	doppler espectral
+T42	PROCEDURE 1986 2030	dilatación percutánea de la válvula pulmonar
+T44	PROCEDURE 1746 1749	DTI
+#1	AnnotatorNotes T44	 Proyección de imagen del tensor de la difusión

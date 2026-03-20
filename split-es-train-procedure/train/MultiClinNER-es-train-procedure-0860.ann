@@ -1,0 +1,44 @@
+T72	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T73	PROCEDURE 287 301	ecocardiograma
+T74	PROCEDURE 573 588	implante de DAI
+T75	PROCEDURE 858 876	exploración física
+T76	PROCEDURE 1070 1107	Gasometría arterial con Fi02 del 24 %
+T77	PROCEDURE 1205 1229	reactantes de fase aguda
+T78	PROCEDURE 1370 1379	ionograma
+T79	PROCEDURE 1390 1410	Radiografía de tórax
+T80	PROCEDURE 1536 1539	ECG
+T81	PROCEDURE 1764 1785	tratamiento diurético
+T82	PROCEDURE 1788 1802	antibioterapia
+T83	PROCEDURE 1829 1849	Radiografía de tórax
+T84	PROCEDURE 1972 1975	ECG
+T85	PROCEDURE 2040 2054	Ecocardiograma
+T86	PROCEDURE 2576 2605	Ecocardiograma transesofágico
+T87	PROCEDURE 2765 2780	Coronariografía
+T88	PROCEDURE 3088 3102	Ecocardiograma
+T89	PROCEDURE 3121 3196	implante de dos MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral
+T90	PROCEDURE 3268 3280	Fluoroscopia
+T91	PROCEDURE 3282 3305	implante de 2 MitraClip
+T92	PROCEDURE 3528 3560	ventilación mecánica no invasiva
+T93	PROCEDURE 3594 3622	ecocardiograma transtorácico
+T94	PROCEDURE 3819 3848	ecocardiograma transesofágico
+T95	PROCEDURE 4031 4046	coronariografía
+T96	PROCEDURE 4297 4319	intubación orotraqueal
+T97	PROCEDURE 4321 4350	ventilación mecánica invasiva
+T98	PROCEDURE 4353 4397	implante de balón de contrapulsación aórtico
+T100	PROCEDURE 4523 4544	implante de MitraClip
+T101	PROCEDURE 4594 4627	soporte inotrópico con dobutamina
+T102	PROCEDURE 4629 4661	balón de contrapulsación aórtico
+T103	PROCEDURE 4663 4685	intubación orotraqueal
+T104	PROCEDURE 4688 4708	ventilación mecánica
+T105	PROCEDURE 4747 4776	ecocardiograma transesofágico
+T106	PROCEDURE 4779 4786	escopia
+T107	PROCEDURE 5146 5216	retirarse balón de contrapulsación, soporte ionotrópico y ventilatorio
+T109	PROCEDURE 5306 5320	Ecocardiograma
+T110	PROCEDURE 5367 5440	, implante de MitraClip (x2) a nivel segmentos A2 P2 de la válvula mitral
+T111	PROCEDURE 3563 3581	soporte inotrópico
+T113	PROCEDURE 616 619	TRC
+T114	PROCEDURE 1602 1605	TRC
+T115	PROCEDURE 2035 2038	TRC
+T116	PROCEDURE 1292 1305	función renal
+T117	PROCEDURE 1171 1180	Analítica
+T128	PROCEDURE 843 846	VMK

@@ -1,0 +1,7 @@
+T1	SYMPTOM 48 54	fiebre
+T2	SYMPTOM 393 399	fiebre
+T3	SYMPTOM 578 584	fiebre
+T4	SYMPTOM 344 364	hemocultivo negativo
+T5	SYMPTOM 685 728	positiva la serología a Bartonella henselae
+A1	RESULTADO T4
+A2	RESULTADO T5

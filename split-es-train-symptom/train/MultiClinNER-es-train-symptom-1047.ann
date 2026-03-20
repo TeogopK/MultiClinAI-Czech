@@ -1,0 +1,44 @@
+T1	SYMPTOM 358 372	Nódulo mamario
+T2	SYMPTOM 1298 1334	edematización de miembros inferiores
+T3	SYMPTOM 1337 1352	aumento de peso
+T4	SYMPTOM 1395 1401	disnea
+T5	SYMPTOM 1607 1617	Consciente
+T6	SYMPTOM 1620 1658	orientada en tiempo, espacio y persona
+T7	SYMPTOM 1660 1677	Rubicundez facial
+T8	SYMPTOM 1709 1727	Eupneica en reposo
+T9	SYMPTOM 1803 1833	murmullo vesicular fisiológico
+T10	SYMPTOM 1858 1872	tonos rítmicos
+T11	SYMPTOM 1887 1905	soplo pansistólico
+T12	SYMPTOM 2029 2066	abdominal: no doloroso a la palpación
+T14	SYMPTOM 2148 2206	edemas con fóvea hasta tercio medio de miembros inferiores
+T15	SYMPTOM 2212 2252	pulsos distales conservados y simétricos
+T17	SYMPTOM 2331 2344	ritmo sinusal
+T18	SYMPTOM 2391 2425	QRS de voltaje y amplitud normales
+T19	SYMPTOM 2584 2629	índice cardiotorácico discretamente aumentado
+T21	SYMPTOM 2730 2735	masas
+T23	SYMPTOM 3269 3322	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T24	SYMPTOM 3328 3363	función sistólica global conservada
+T26	SYMPTOM 3554 3592	Válvula mitral morfológicamente normal
+T28	SYMPTOM 4682 4743	Válvula pulmonar adecuadamente visualizada, de aspecto normal
+T30	SYMPTOM 5716 5721	soplo
+T31	SYMPTOM 6101 6130	edemas en miembros inferiores
+T32	SYMPTOM 6186 6192	sofoco
+T33	SYMPTOM 6596 6609	fallecimiento
+T34	SYMPTOM 6794 6800	Exitus
+T60	SYMPTOM 3741 3769	jet de regurgitación aórtica
+T107	SYMPTOM 586 636	biopsia de ganglio centinela, que resultó negativa
+T108	SYMPTOM 853 918	captación gammagráfica positiva para análogos de la somatostatina
+T13	SYMPTOM 2634 2668	pinzamiento de senos costofrénicos
+T20	SYMPTOM 2990 3021	perfil hormonal tiroideo normal
+T22	SYMPTOM 3023 3044	Perfil férrico normal
+T94	SYMPTOM 3380 3425	alteraciones en la contractilidad segmentaria
+T25	SYMPTOM 3845 3881	Raíz aórtica de dimensiones normales
+T95	SYMPTOM 3891 3972	Aorta ascendente proximal y cayado aórtico de dimensiones dentro de la normalidad
+T97	SYMPTOM 4778 4846	Vena cava inferior de dimensiones en rango superior de la normalidad
+T117	SYMPTOM 3427 3489	Patrón de llenado transmitral tipo alteración de la relajación
+T124	SYMPTOM 2688 2702	condensaciones
+T127	SYMPTOM 2673 2684	infiltrados
+T45	SYMPTOM 3673 3724	Válvula aórtica tricúspide, sin afectación orgánica
+T98	SYMPTOM 4509 4541	jet de regurgitación tricuspídea
+T100	SYMPTOM 5391 5454	estudio gammagráfico compatible con progresión de la enfermedad
+T101	SYMPTOM 5601 5628	progresión de la enfermedad

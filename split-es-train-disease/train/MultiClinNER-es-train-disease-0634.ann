@@ -1,0 +1,13 @@
+T1	DISEASE 122 129	violada
+T6	DISEASE 2279 2286	sífilis
+T7	DISEASE 2609 2616	sífilis
+T8	DISEASE 2675 2692	inmunodeficiencia
+T9	DISEASE 2014 2030	lesiones bucales
+T19	DISEASE 569 592	secundarismo sifilítico
+T22	DISEASE 1559 1578	leucoplasia vellosa
+T23	DISEASE 1580 1582	LV
+T29	DISEASE 2150 2169	leucoplasia vellosa
+T30	DISEASE 2360 2362	LV
+T2	DISEASE 242 258	lesiones en boca
+#1	AnnotatorNotes T23	   LV: leucoplasia vellosa
+#2	AnnotatorNotes T30	   LV: leucoplasia vellosa

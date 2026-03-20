@@ -1,0 +1,38 @@
+T74	DISEASE 285 294	allergies
+T50	DISEASE 307 309	DM
+T1	DISEASE 311 314	AHT
+T52	DISEASE 316 329	dyslipidaemia
+T54	DISEASE 333 354	hypertriglyceridaemia
+T77	DISEASE 356 365	Ex-smoker
+T55	DISEASE 395 409	Hypothyroidism
+T57	DISEASE 437 456	Depressive syndrome
+T3	DISEASE 556 569	heart disease
+T58	DISEASE 617 640	ischaemic heart disease
+T59	DISEASE 692 716	cardiovascular pathology
+T51	DISEASE 737 739	DM
+T60	DISEASE 792 799	syncope
+T81	DISEASE 803 815	sudden death
+T61	DISEASE 1617 1630	heart failure
+T78	DISEASE 1691 1708	syncopal episodes
+T80	DISEASE 2434 2441	hernias
+T79	DISEASE 3693 3729	hypertrophy of the ventricular walls
+T62	DISEASE 3807 3827	pericardial effusion
+T4	DISEASE 3888 3920	LAD artery: Significant stenosis
+T5	DISEASE 4380 4444	Disease of a vessel with short stenosis of 75% in the middle LAD
+T63	DISEASE 5011 5036	ventricular extrasystoles
+T8	DISEASE 5131 5150	haemodynamic angina
+T66	DISEASE 5183 5200	sinus bradycardia
+T67	DISEASE 5216 5236	ventricular bigeminy
+T72	DISEASE 5261 5298	non-sustained ventricular tachycardia
+T75	DISEASE 5835 5852	arrhythmic events
+T9	DISEASE 5928 5951	ventricular tachycardia
+T68	DISEASE 6134 6144	arrhythmia
+T76	DISEASE 6359 6376	arrhythmic events
+T69	DISEASE 6507 6531	structural heart disease
+T13	DISEASE 6637 6713	significant stenosis in the middle portion of the anterior descending artery
+T64	DISEASE 6925 6950	ventricular extrasystoles
+T53	DISEASE 6994 7007	dyslipidaemia
+T56	DISEASE 7121 7135	hypothyroidism
+T70	DISEASE 7353 7368	Unstable angina
+T73	DISEASE 7371 7408	Non-sustained ventricular tachycardia
+T71	DISEASE 7411 7470	Significant lesion in the middle anterior descending artery

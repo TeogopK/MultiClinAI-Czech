@@ -1,0 +1,49 @@
+T31	DISEASE 99 108	allergies
+T32	DISEASE 146 165	high blood pressure
+T33	DISEASE 173 183	overweight
+T34	DISEASE 185 194	ex-smoker
+T35	DISEASE 196 227	Sleep apnoea-hypopnoea syndrome
+T36	DISEASE 229 233	SAHS
+T37	DISEASE 315 333	oesophageal spasms
+T38	DISEASE 418 442	structural heart disease
+T39	DISEASE 520 534	cholelithiasis
+T41	DISEASE 571 589	retinal detachment
+T42	DISEASE 591 605	varicose veins
+T43	DISEASE 622 634	haemorrhoids
+T75	DISEASE 826 843	syncopal episodes
+T44	DISEASE 904 923	atrial fibrillation
+T48	DISEASE 1096 1109	heart failure
+T49	DISEASE 1349 1361	skin lesions
+T30	DISEASE 2086 2101	microhaematuria
+T50	DISEASE 2118 2137	global cardiomegaly
+T45	DISEASE 2274 2293	atrial fibrillation
+T51	DISEASE 2319 2352	complete left bundle branch block
+T77	DISEASE 2408 2430	slightly dilated atria
+T78	DISEASE 2432 2466	Left ventricle (LV) of normal size
+T52	DISEASE 2473 2501	left ventricular hypertrophy
+T67	DISEASE 2996 3025	moderate pericardial effusion
+T58	DISEASE 3005 3025	pericardial effusion
+T53	DISEASE 3684 3713	Bilateral laminar atelectasis
+T56	DISEASE 3702 3713	atelectasis
+T54	DISEASE 3729 3745	pleural effusion
+T57	DISEASE 3759 3770	atelectasis
+T59	DISEASE 3970 3990	Pericardial effusion
+T40	DISEASE 4200 4214	Cholelithiasis
+T62	DISEASE 4437 4468	Bilateral simple cortical cysts
+T63	DISEASE 4581 4604	excretory tract ectasia
+T64	DISEASE 4719 4741	Sigmoid diverticulosis
+T65	DISEASE 5292 5317	erythematopapular lesions
+T76	DISEASE 5513 5523	haematuria
+T66	DISEASE 5671 5679	rhinitis
+T55	DISEASE 5847 5863	pleural effusion
+T68	DISEASE 5868 5897	moderate pericardial effusion
+T60	DISEASE 5877 5897	pericardial effusion
+T69	DISEASE 6157 6190	vasculitis with renal involvement
+T70	DISEASE 6362 6381	autoimmune diseases
+T73	DISEASE 6532 6558	C-ANCA-positive vasculitis
+T61	DISEASE 6705 6725	pericardial effusion
+T46	DISEASE 6846 6865	atrial fibrillation
+T72	DISEASE 7022 7042	autoimmune pathology
+T71	DISEASE 7630 7656	Vasculitis C-ANCA positive
+T74	DISEASE 7658 7708	Pleuropericardial effusion of autoimmune aetiology
+T47	DISEASE 7710 7729	Atrial fibrillation

@@ -1,0 +1,23 @@
+T1	SYMPTOM 1248 1282	masa subconjuntival nasal superior
+T2	SYMPTOM 1716 1741	corectopia nasal superior
+T3	SYMPTOM 1746 1772	pérdida de tejido iridiano
+T4	SYMPTOM 698 727	córnea íntegra y transparente
+T5	SYMPTOM 813 829	hipotonía del OI
+T6	SYMPTOM 1695 1714	córnea transparente
+T7	SYMPTOM 1136 1156	quemosis conjuntival
+T8	SYMPTOM 644 662	conjuntiva íntegra
+T9	SYMPTOM 607 632	edema en párpado superior
+T10	SYMPTOM 1834 1852	opacidad de medios
+T11	SYMPTOM 667 696	quemosis intensa generalizada
+T12	SYMPTOM 730 736	hipema
+T13	SYMPTOM 1073 1091	cristalino íntegro
+T14	SYMPTOM 1182 1205	hiposfagma generalizado
+T15	SYMPTOM 1310 1331	cristalino prolapsado
+T16	SYMPTOM 1412 1433	cristalino prolapsado
+T17	SYMPTOM 1573 1598	AV de movimiento de manos
+T18	SYMPTOM 1865 1902	retina in situ en la ecografia modo B
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T6
+A4	RESULTADO T10
+A5	IMAGEN T18

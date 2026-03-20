@@ -1,0 +1,19 @@
+T2	PROCEDURE 182 191	anamnesis
+T4	PROCEDURE 331 351	Physical examination
+T11	PROCEDURE 459 484	hygienic-dietary measures
+T1	PROCEDURE 678 693	prokinetic drug
+T7	PROCEDURE 851 855	UGIE
+T14	PROCEDURE 989 1034	Samples of the lesions were taken by brushing
+T19	PROCEDURE 1039 1075	pathological examination and culture
+T3	PROCEDURE 1444 1453	anamnesis
+T5	PROCEDURE 1455 1475	physical examination
+T25	PROCEDURE 1486 1497	blood tests
+T26	PROCEDURE 1504 1539	thyroid, hepatic and renal function
+T6	PROCEDURE 1541 1557	diabetic profile
+T13	PROCEDURE 1559 1579	immunological status
+T9	PROCEDURE 1596 1613	serological study
+T10	PROCEDURE 1625 1651	chest and abdominal X-rays
+T12	PROCEDURE 1785 1807	proton pump inhibitors
+T15	PROCEDURE 1809 1812	PPI
+T16	PROCEDURE 1952 1955	PPI
+T8	PROCEDURE 2134 2138	UGIE

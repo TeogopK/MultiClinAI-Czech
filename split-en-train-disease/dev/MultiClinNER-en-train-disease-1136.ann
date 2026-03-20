@@ -1,0 +1,31 @@
+T29	DISEASE 127 143	extrinsic asthma
+T30	DISEASE 1231 1265	complete right bundle branch block
+T32	DISEASE 1401 1417	pleural effusion
+T63	DISEASE 1880 1918	moderately hypertrophic left ventricle
+T33	DISEASE 2060 2096	Mildly moderate mitral regurgitation
+T34	DISEASE 2106 2129	tricuspid insufficiency
+T36	DISEASE 2134 2154	pericardial effusion
+T39	DISEASE 2535 2546	myocarditis
+T31	DISEASE 2627 2661	complete right bundle branch block
+T11	DISEASE 2663 2667	RBBB
+T45	DISEASE 2768 2797	moderate systolic dysfunction
+T46	DISEASE 2930 2950	mitral insufficiency
+T35	DISEASE 2955 2978	tricuspid insufficiency
+T37	DISEASE 2983 3003	pericardial effusion
+T40	DISEASE 3055 3066	myocarditis
+T38	DISEASE 3296 3316	pericardial effusion
+T62	DISEASE 3363 3380	myocardial damage
+T47	DISEASE 3754 3771	cardiogenic shock
+T50	DISEASE 3930 3953	lymphocytic myocarditis
+T53	DISEASE 4114 4137	ventricular tachycardia
+T54	DISEASE 4577 4596	acute renal failure
+T56	DISEASE 4860 4873	heart failure
+T64	DISEASE 4966 5012	ventricular function with moderate dysfunction
+T42	DISEASE 5076 5087	myocarditis
+T12	DISEASE 5167 5231	cardiogenic shock secondary to fulminant lymphocytic myocarditis
+T66	DISEASE 5588 5608	systolic dysfunction
+T58	DISEASE 5641 5669	Refractory cardiogenic shock
+T60	DISEASE 5752 5785	Fulminant lymphocytic myocarditis
+T57	DISEASE 5787 5800	Heart failure
+T55	DISEASE 5914 5933	Acute renal failure
+T61	DISEASE 5935 5962	Cardiorenal syndrome type I

@@ -1,0 +1,42 @@
+T1	SYMPTOM 1929 1946	dolor suprapúbico
+T2	SYMPTOM 1949 1956	astenia
+T3	SYMPTOM 1982 1989	disuria
+T4	SYMPTOM 1661 1668	astenia
+T5	SYMPTOM 2688 2703	dolor abdominal
+T6	SYMPTOM 3955 4025	hiperseñal en T2 localizada a nivel del cordón medular cervical (C5-D1
+T7	SYMPTOM 651 726	picor en cara, cuero cabelludo, tronco, extremidades superiores y genitales
+T8	SYMPTOM 2024 2035	oligoanuria
+T9	SYMPTOM 2739 2756	pérdida de fuerza
+T10	SYMPTOM 2049 2055	febril
+T11	SYMPTOM 2759 2806	debilidad progresiva de extremidades inferiores
+T12	SYMPTOM 2858 2874	rigidez cervical
+T13	SYMPTOM 2158 2183	dolor a nivel suprapúbico
+T14	SYMPTOM 4159 4179	hipointensidad en T1
+T15	SYMPTOM 2195 2208	globo vesical
+T16	SYMPTOM 2213 2253	sucusión positiva en ambas fosas renales
+T17	SYMPTOM 3113 3146	hiporreflexia rotuliana bilateral
+T18	SYMPTOM 3149 3179	abolición de reflejos aquíleos
+T19	SYMPTOM 3227 3274	Hipo-sensibilidad en metámeras por debajo de D5
+T20	SYMPTOM 3304 3329	alteraciones neurológicas
+T21	SYMPTOM 2884 2908	pares craneales normales
+T22	SYMPTOM 2556 2580	restos fecales retenidos
+T23	SYMPTOM 1730 1766	exploración fue completamente normal
+T24	SYMPTOM 1188 1241	radiografía de tórax que resultó completamente normal
+T25	SYMPTOM 2073 2122	auscultación cardiopulmonar fue totalmente normal
+T26	SYMPTOM 2396 2477	analíticas sanguíneas y de orina con resultados dentro de los parámetros normales
+T27	SYMPTOM 3181 3225	Reflejo cutáneo plantar en flexión bilateral
+T28	SYMPTOM 3480 3596	espacios de líquido cefalorraquídeo, así como la diferenciación de sustancia gris y sustancia blanca fueron normales
+T29	SYMPTOM 3628 3673	punción lumbar donde se apreció líquido claro
+T30	SYMPTOM 4614 4677	serología Virus Inmunodeficiencia Humano con resultado negativo
+T31	SYMPTOM 4553 4595	virus Varicela zóster que resultó positiva
+T32	SYMPTOM 4288 4463	serología de LCR para Borrelia, Brucella, sífilis, virus de Epstein Barr (VEB), Citomegalovirus (CMV), virus Herpes simple (VHS) y virus Varicela zóster (VVZ) fueron negativos
+A1	IMAGEN T6
+A2	IMAGEN T14
+A3	IMAGEN T22
+A4	IMAGEN T24
+A5	RESULTADO T26
+A6	IMAGEN T28
+A7	RESULTADO T29
+A8	RESULTADO T30
+A9	RESULTADO T31
+A10	RESULTADO T32

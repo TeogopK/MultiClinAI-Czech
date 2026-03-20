@@ -1,0 +1,30 @@
+T1	SYMPTOM 294 303	dizziness
+T3	SYMPTOM 305 317	palpitations
+T5	SYMPTOM 322 354	electrocardiographic alterations
+T2	SYMPTOM 868 877	dizziness
+T6	SYMPTOM 976 986	chest pain
+T7	SYMPTOM 990 998	dyspnoea
+T4	SYMPTOM 1023 1035	palpitations
+T28	SYMPTOM 1132 1140	wide QRS
+T21	SYMPTOM 1141 1152	tachycardia
+T8	SYMPTOM 1400 1412	asymptomatic
+T11	SYMPTOM 1417 1440	haemodynamically stable
+T13	SYMPTOM 1530 1539	Conscious
+T14	SYMPTOM 1541 1549	oriented
+T30	SYMPTOM 1551 1562	cooperative
+T15	SYMPTOM 1564 1577	Normohydrated
+T31	SYMPTOM 1582 1595	normal colour
+T16	SYMPTOM 1601 1627	preserved vesicular murmur
+T17	SYMPTOM 1667 1688	rhythmic heart sounds
+T18	SYMPTOM 1776 1791	MMII: no oedema
+T32	SYMPTOM 1891 1905	normal formula
+T33	SYMPTOM 2179 2193	Non-dilated LV
+T19	SYMPTOM 2278 2292	Preserved LVEF
+T20	SYMPTOM 2839 2854	foetal distress
+T9	SYMPTOM 2902 2914	asymptomatic
+T12	SYMPTOM 2932 2955	haemodynamically stable
+T23	SYMPTOM 3270 3281	tachycardia
+T24	SYMPTOM 3500 3512	sinus rhythm
+T25	SYMPTOM 3651 3663	sinus rhythm
+T26	SYMPTOM 3927 3939	sinus rhythm
+T27	SYMPTOM 4193 4205	sinus rhythm

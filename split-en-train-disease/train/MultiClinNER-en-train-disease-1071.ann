@@ -1,0 +1,43 @@
+T1	DISEASE 92 125	low-grade prostate adenocarcinoma
+T80	DISEASE 163 187	type 2 diabetes mellitus
+T43	DISEASE 189 191	DM
+T44	DISEASE 244 264	Hypercholesterolemia
+T46	DISEASE 266 275	Ex-smoker
+T48	DISEASE 355 374	anterior infarction
+T50	DISEASE 669 686	cardiogenic shock
+T51	DISEASE 864 875	hypotension
+T52	DISEASE 986 1022	apical aneurysm with apical thrombus
+T53	DISEASE 1164 1198	Mild-moderate mitral insufficiency
+T3	DISEASE 1941 1972	consumption of toxic substances
+T4	DISEASE 1941 2001	consumption of toxic substances, herbal products and alcohol
+T82	DISEASE 2256 2262	angina
+T54	DISEASE 2978 2998	deep vein thrombosis
+T55	DISEASE 3000 3003	DVT
+T5	DISEASE 4034 4155	acute myocardial infarction (AMI) in the left anterior descending (LAD) territory with mildly dilated left ventricle (LV)
+T71	DISEASE 4157 4241	apical aneurysm and akinesia of the anterior face and mid and distal anterior septum
+T56	DISEASE 4267 4297	Severe LV systolic dysfunction
+T57	DISEASE 4469 4493	intraventricular thrombi
+T6	DISEASE 4504 4552	Mild right ventricular (RV) systolic dysfunction
+T58	DISEASE 4596 4608	hepatomegaly
+T7	DISEASE 4828 4888	lymphadenopathies in the hepatic hilum and the celiac region
+T83	DISEASE 5327 5351	Prostatic calcifications
+T59	DISEASE 5706 5722	pleural effusion
+T60	DISEASE 6156 6201	dilated cardiomyopathy of ischaemic aetiology
+T62	DISEASE 6451 6462	cholestasis
+T64	DISEASE 6476 6495	hyperbilirubinaemia
+T65	DISEASE 6622 6634	coagulopathy
+T14	DISEASE 7229 7285	lymphadenopathies in the hepatic hilar and celiac region
+T66	DISEASE 7487 7553	idiosyncratic hepatitis secondary to the administration of statins
+T67	DISEASE 7671 7694	idiosyncratic hepatitis
+T63	DISEASE 8068 8079	cholestasis
+T69	DISEASE 8713 8748	severe left ventricular dysfunction
+T72	DISEASE 8792 8807	apical aneurysm
+T74	DISEASE 8840 8863	ventricular dysfunction
+T16	DISEASE 9062 9143	Dilated cardiomyopathy of ischaemic aetiology with severe ventricular dysfunction
+T77	DISEASE 9156 9212	Idiosyncratic hepatitis secondary to taking atorvastatin
+T49	DISEASE 9223 9242	anterior infarction
+T78	DISEASE 9259 9280	anteroapical aneurysm
+T79	DISEASE 9285 9310	intraventricular thrombus
+T81	DISEASE 9361 9385	type 2 diabetes mellitus
+T45	DISEASE 9387 9407	hypercholesterolemia
+T47	DISEASE 9409 9418	ex-smoker

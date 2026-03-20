@@ -1,0 +1,27 @@
+T1	PROCEDURE 133 151	blood transfusions
+T2	PROCEDURE 243 294	Omnicarbon No 29 mitral valve prosthesis (implanted
+T21	PROCEDURE 806 832	investigations for anaemia
+T57	PROCEDURE 1238 1258	PHYSICAL EXAMINATION
+T44	PROCEDURE 1398 1418	Cardiac auscultation
+T45	PROCEDURE 1498 1520	Pulmonary auscultation
+T56	PROCEDURE 1717 1729	Biochemistry
+T59	PROCEDURE 1761 1773	electrolytes
+T61	PROCEDURE 1778 1791	transaminases
+T58	PROCEDURE 1979 2010	Direct and indirect Coombs test
+T46	PROCEDURE 2147 2179	Transesophageal echocardiography
+T48	PROCEDURE 2541 2547	PET-CT
+T49	PROCEDURE 2697 2703	PET-CT
+T52	PROCEDURE 2891 2921	transesophageal echocardiogram
+T50	PROCEDURE 3079 3085	PET-CT
+T53	PROCEDURE 3261 3275	blood cultures
+T54	PROCEDURE 3323 3343	antibiotic treatment
+T55	PROCEDURE 3384 3404	antibiotic treatment
+T60	PROCEDURE 3506 3524	antibiotic regimen
+T51	PROCEDURE 3532 3538	PET-CT
+T3	PROCEDURE 3833 3855	intervene on the valve
+T62	PROCEDURE 3890 3902	open surgery
+T8	PROCEDURE 3946 3983	blood transfusions and blood products
+T9	PROCEDURE 4024 4069	percutaneous closure of the paravalvular leak
+T47	PROCEDURE 4085 4117	transesophageal echocardiography
+T10	PROCEDURE 4119 4122	TEE
+T12	PROCEDURE 4307 4350	Percutaneous closure of periprosthetic leak

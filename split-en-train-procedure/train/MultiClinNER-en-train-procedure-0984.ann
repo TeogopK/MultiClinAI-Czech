@@ -1,0 +1,40 @@
+T85	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T78	PROCEDURE 499 512	genetic study
+T79	PROCEDURE 668 696	transthoracic echocardiogram
+T38	PROCEDURE 698 701	TTE
+T39	PROCEDURE 976 1029	implant a DDDR implantable cardioverter-defibrillator
+T80	PROCEDURE 1985 2002	electrocardiogram
+T81	PROCEDURE 2004 2007	ECG
+T90	PROCEDURE 2101 2129	markers of myocardial damage
+T86	PROCEDURE 2188 2208	Physical examination
+T87	PROCEDURE 2440 2454	oxygen therapy
+T88	PROCEDURE 2456 2486	Cardiorespiratory auscultation
+T105	PROCEDURE 2580 2598	Valsalva manoeuvre
+T102	PROCEDURE 2936 2948	Biochemistry
+T103	PROCEDURE 3035 3043	Ionogram
+T89	PROCEDURE 3052 3069	Abdominal profile
+T91	PROCEDURE 3240 3253	Lipid profile
+T47	PROCEDURE 3366 3369	CBC
+T92	PROCEDURE 3459 3477	Electrocardiograms
+T82	PROCEDURE 3479 3482	ECG
+T83	PROCEDURE 3495 3498	ECG
+T84	PROCEDURE 3587 3590	ECG
+T46	PROCEDURE 3733 3736	TTE
+T106	PROCEDURE 3984 4003	Valsalva manoeuvres
+T93	PROCEDURE 4161 4191	Transesophageal echocardiogram
+T45	PROCEDURE 4193 4196	TEE
+T94	PROCEDURE 4857 4877	Coronary angiography
+T44	PROCEDURE 4926 5009	second septal branch (of greater calibre and development) is selectively cannulated
+T42	PROCEDURE 5138 5170	injection of ultrasound contrast
+T43	PROCEDURE 5172 5175	TTE
+T95	PROCEDURE 5298 5309	Cardiac MRI
+T96	PROCEDURE 6725 6743	perfusion sequence
+T97	PROCEDURE 7323 7336	beta-blockers
+T98	PROCEDURE 7461 7474	Beta-blockers
+T104	PROCEDURE 7871 7890	calcium antagonists
+T41	PROCEDURE 7965 7993	septal ablation with alcohol
+T107	PROCEDURE 7997 8011	Morrow surgery
+T40	PROCEDURE 8260 8288	septal ablation with alcohol
+T100	PROCEDURE 8292 8311	surgical myomectomy
+T99	PROCEDURE 8589 8612	alcohol septal ablation
+T101	PROCEDURE 8614 8633	surgical myomectomy

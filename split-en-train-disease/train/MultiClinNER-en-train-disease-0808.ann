@@ -1,0 +1,28 @@
+T53	DISEASE 68 82	drug allergies
+T54	DISEASE 113 120	smoking
+T55	DISEASE 136 155	alcohol consumption
+T1	DISEASE 184 192	drug use
+T56	DISEASE 197 218	arterial hypertension
+T2	DISEASE 220 223	AHT
+T57	DISEASE 229 242	dyslipidaemia
+T58	DISEASE 247 264	diabetes mellitus
+T3	DISEASE 324 355	family history of heart disease
+T74	DISEASE 359 371	sudden death
+T59	DISEASE 576 583	syncope
+T60	DISEASE 1267 1274	syncope
+T4	DISEASE 1378 1394	toxic substances
+T61	DISEASE 1533 1540	syncope
+T62	DISEASE 2137 2157	deep vein thrombosis
+T63	DISEASE 2159 2162	DVT
+T64	DISEASE 2698 2714	pleural effusion
+T65	DISEASE 2728 2740	pneumothorax
+T66	DISEASE 3331 3359	Trivial mitral insufficiency
+T68	DISEASE 3388 3402	valvulopathies
+T69	DISEASE 3460 3483	tricuspid insufficiency
+T9	DISEASE 4046 4124	orthodromic tachycardia is induced by another left posterior accessory pathway
+T70	DISEASE 5224 5264	syncopal pre-excited atrial fibrillation
+T73	DISEASE 5436 5453	arrhythmic events
+T71	DISEASE 6142 6182	Syncopal pre-excited atrial fibrillation
+T17	DISEASE 6184 6186	AF
+T67	DISEASE 6303 6331	trivial mitral regurgitation
+T18	DISEASE 6333 6335	MR

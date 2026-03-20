@@ -1,0 +1,35 @@
+T1	DISEASE 88 109	arterial hypertension
+T2	DISEASE 151 158	obesity
+T28	DISEASE 239 290	low back pain due to L4-L5 and L5-S1 facet overload
+T4	DISEASE 295 318	L4-L5 disc degeneration
+T29	DISEASE 341 417	cervical spondylosis with slight posterior protrusion C3-C4, C5-C6 and C6-C7
+T5	DISEASE 451 467	Anxiety syndrome
+T6	DISEASE 469 483	claustrophobia
+T7	DISEASE 521 543	carpal tunnel syndrome
+T26	DISEASE 578 586	abortion
+T8	DISEASE 648 675	acute myocardial infarction
+T30	DISEASE 677 680	AMI
+T31	DISEASE 1999 2021	valvular heart disease
+T9	DISEASE 2034 2054	pericardial effusion
+T11	DISEASE 2174 2191	acute myocarditis
+T13	DISEASE 2199 2222	acute coronary syndrome
+T22	DISEASE 2524 2528	Neck
+T3	DISEASE 2581 2588	obesity
+T14	DISEASE 2797 2814	venous thrombosis
+T32	DISEASE 4426 4459	Left atrium (LA) slightly dilated
+T33	DISEASE 4464 4509	structural or functional valvular alterations
+T15	DISEASE 4639 4661	pulmonary hypertension
+T34	DISEASE 4663 4665	PH
+T16	DISEASE 5176 5201	myocarditis with fibrosis
+T17	DISEASE 5385 5420	obstructive coronary artery disease
+T10	DISEASE 5586 5606	pericardial effusion
+T38	DISEASE 5778 5784	NSTEMI
+T40	DISEASE 5839 5851	hypertension
+T41	DISEASE 5853 5855	HT
+T18	DISEASE 6004 6017	heart failure
+T27	DISEASE 6037 6055	anginal recurrence
+T19	DISEASE 6068 6091	ventricular arrhythmias
+T21	DISEASE 6237 6286	anterolateral and inferior subepicardial fibrosis
+T24	DISEASE 6325 6336	myocarditis
+T20	DISEASE 6522 6545	ventricular arrhythmias
+T12	DISEASE 6609 6626	Acute myocarditis

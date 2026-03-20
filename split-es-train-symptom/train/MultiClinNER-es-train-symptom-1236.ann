@@ -1,0 +1,73 @@
+T1	SYMPTOM 556 573	dolores torácicos
+T2	SYMPTOM 764 787	alteraciones arrítmicas
+T3	SYMPTOM 1096 1143	dolor torácico de características no coronarias
+T4	SYMPTOM 1521 1543	pérdida de consciencia
+T5	SYMPTOM 2075 2092	molestia torácica
+T6	SYMPTOM 2145 2158	ritmo sinusal
+T7	SYMPTOM 2207 2221	ascenso en aVR
+T8	SYMPTOM 2240 2292	descenso persistente de ST en derivaciones laterales
+T9	SYMPTOM 3179 3189	Consciente
+T10	SYMPTOM 3203 3217	Normocoloreada
+T11	SYMPTOM 3219 3233	normohidratada
+T12	SYMPTOM 3235 3253	Eupneica en reposo
+T13	SYMPTOM 3278 3292	tonos rítmicos
+T14	SYMPTOM 3307 3313	soplos
+T15	SYMPTOM 3338 3354	normoventilacion
+T16	SYMPTOM 3360 3387	ruidos patológicos añadidos
+T17	SYMPTOM 3389 3405	Abdomen: anodino
+T18	SYMPTOM 3407 3449	Extremidades inferiores: pulsos simétricos
+T19	SYMPTOM 4094 4116	perfil hepático normal
+T20	SYMPTOM 4268 4313	Catecolaminas en orina de 24 horas: negativas
+T21	SYMPTOM 4315 4347	Radiografía de tórax: ICT normal
+T22	SYMPTOM 4459 4468	PR normal
+T23	SYMPTOM 4489 4501	QRS estrecho
+T24	SYMPTOM 4503 4518	descenso del ST
+T25	SYMPTOM 4728 4741	ritmo sinusal
+T26	SYMPTOM 4752 4779	PR normal sin preexcitación
+T27	SYMPTOM 4785 4835	alteraciones de la conducción ni de repolarización
+T28	SYMPTOM 4881 4891	QTc normal
+T34	SYMPTOM 5740 5763	alteraciones arrítmicas
+T36	SYMPTOM 5967 6002	función sistólica global preservada
+T37	SYMPTOM 6193 6219	Test de ajmalina: negativo
+T38	SYMPTOM 6291 6305	dolor torácico
+T39	SYMPTOM 6419 6502	determinación de catecolaminas en sangre y orina de 24 horas que resultan negativas
+T40	SYMPTOM 6629 6635	onda J
+T41	SYMPTOM 7498 7517	molestias torácicas
+T42	SYMPTOM 7766 7780	dolor torácico
+T43	SYMPTOM 7794 7896	supradesnivelación transitoria del ST en cara inferior y lateral e infradesnivelación de ST en V1 a V4
+T44	SYMPTOM 9043 9057	dolor torácico
+T176	SYMPTOM 4428 4447	taquicardia sinusal
+T161	SYMPTOM 195 215	mutación en gen FBN1
+T162	SYMPTOM 2181 2202	descenso de ST difuso
+T163	SYMPTOM 3192 3201	Orientada
+T164	SYMPTOM 4337 4347	ICT normal
+T165	SYMPTOM 4597 4642	supradesnivelación del ST de 1 mm en aVR y V1
+T29	SYMPTOM 5157 5203	alteraciones segmentarias de la contractilidad
+T179	SYMPTOM 5307 5361	Anillo valvular y raíz aórtica de dimensiones normales
+T181	SYMPTOM 5411 5442	Cavidades derechas no dilatadas
+T190	SYMPTOM 5027 5059	Ventrículo izquierdo no dilatado
+T191	SYMPTOM 5230 5291	Válvula aórtica trivalva, fina con buena apertura y movilidad
+T192	SYMPTOM 4941 5007	Válvula mitral de velos finos con movilidad y apertura conservadas
+T193	SYMPTOM 5564 5644	Válvula pulmonar con buena apertura; curva de flujo con características normales
+T194	SYMPTOM 5491 5540	Válvula tricúspide con buena apertura y movilidad
+T198	SYMPTOM 6086 6130	raíz aórtica y aorta ascendente no dilatadas
+T200	SYMPTOM 5833 5877	arterias coronarias epicárdicas sin lesiones
+T201	SYMPTOM 2354 2400	arterias coronarias sin lesiones angiográficas
+T202	SYMPTOM 8611 8623	asintomática
+T203	SYMPTOM 4909 4939	aurícula izquierda no dilatada
+T217	SYMPTOM 5112 5143	fracción de eyección preservada
+T228	SYMPTOM 5499 5562	tricúspide con buena apertura y movilidad; mínima regurgitación
+T31	SYMPTOM 146 193	Marfan en hermano con estudio genético positivo
+T32	SYMPTOM 307 327	morfotipo marfanoide
+T35	SYMPTOM 970 1044	isquemia mediante ergometría que resultó clínica y eléctricamente negativa
+T167	SYMPTOM 2524 2607	ecocardioscopia realizada en fase aguda no se objetivan alteraciones significativas
+T168	SYMPTOM 4349 4396	mediastino y campos pulmonares sin alteraciones
+T169	SYMPTOM 4706 4716	QTc normal
+T170	SYMPTOM 4837 4879	Lenta progresión de onda R en precordiales
+T171	SYMPTOM 5444 5489	contractilidad ventricular derecha conservada
+T172	SYMPTOM 5930 5961	VI no dilatado ni hipertrofiado
+T173	SYMPTOM 6015 6061	alteraciones segmentarias en la contractilidad
+T175	SYMPTOM 6605 6615	QTc normal
+T180	SYMPTOM 6641 6669	patrón de Brugada espontáneo
+T182	SYMPTOM 6763 6820	patrón de síndrome de Brugada oculto, resultando negativo
+T184	SYMPTOM 9693 9724	cifras de LDL fuera de objetivo

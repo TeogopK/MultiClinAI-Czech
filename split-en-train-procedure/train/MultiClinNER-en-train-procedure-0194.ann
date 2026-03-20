@@ -1,0 +1,8 @@
+T1	PROCEDURE 122 142	Physical examination
+T8	PROCEDURE 216 238	simple abdominal X-ray
+T9	PROCEDURE 243 260	abdominal CT scan
+T5	PROCEDURE 453 482	Hepatotropic virus serologies
+T2	PROCEDURE 561 592	fine needle puncture-aspiration
+T12	PROCEDURE 625 649	histological examination
+T3	PROCEDURE 710 728	surgical resection
+T4	PROCEDURE 824 841	chemoembolisation

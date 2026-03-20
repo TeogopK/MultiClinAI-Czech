@@ -1,0 +1,35 @@
+T30	DISEASE 91 103	hipertensión
+T31	DISEASE 167 177	dislipemia
+T32	DISEASE 223 233	exfumadora
+T33	DISEASE 270 297	lupus eritematoso sistémico
+T34	DISEASE 299 302	LES
+T35	DISEASE 445 473	Nefropatía lúpica clase IIIB
+T36	DISEASE 502 519	glomerulonefritis
+T37	DISEASE 1690 1732	oclusión de 2o porción de arteria poplítea
+T38	DISEASE 2151 2174	trombo intraventricular
+T39	DISEASE 2486 2499	valvulopatías
+T40	DISEASE 2505 2524	derrame pericárdico
+T41	DISEASE 2911 2977	disección trombosada del segmento medio de la descendente anterior
+T42	DISEASE 3034 3067	Trombo intraventricular izquierdo
+T43	DISEASE 3106 3184	Enfermedad de un vaso con lesión larga en tercio medio de descendente anterior
+T44	DISEASE 3309 3391	isquemia subaguda de miembro inferior derecho secundaria a trombosis infrapoplítea
+T45	DISEASE 3421 3445	síndrome antifosfolípido
+T46	DISEASE 3724 3740	infarto anterior
+T47	DISEASE 3742 3772	trombo intraventricular apical
+T48	DISEASE 3909 3948	endocarditis de Libman-Sacks embolígena
+T49	DISEASE 4067 4108	disección coronaria espontánea trombosada
+T50	DISEASE 4174 4235	lesiones isquémicas lacunares en ambos hemisferios cerebrales
+T51	DISEASE 4241 4318	aneurisma situado en la bifurcación de la carótida interna del lado izquierdo
+T52	DISEASE 4368 4371	LES
+T53	DISEASE 4500 4509	trombosis
+T54	DISEASE 4725 4733	isquemia
+T55	DISEASE 4754 4782	endocarditis de Libman-Sacks
+T56	DISEASE 4840 4867	lupus eritematoso sistémico
+T57	DISEASE 4869 4908	Endocarditis de Libman-Sacks embolígena
+T58	DISEASE 4910 4938	Trombo ventricular izquierdo
+T59	DISEASE 4940 4991	Isquemia subaguda infrapoplítea de miembro inferior
+T60	DISEASE 5001 5055	Disección coronaria espontánea de descendente anterior
+T61	DISEASE 5057 5086	Infarto de miocardio anterior
+T62	DISEASE 4024 4045	lesión larga en la DA
+T114	DISEASE 1477 1494	lesiones tróficas
+#1	AnnotatorNotes T52	 Lupus eritematoso sistémico

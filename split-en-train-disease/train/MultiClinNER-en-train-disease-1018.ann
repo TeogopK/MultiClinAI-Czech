@@ -1,0 +1,57 @@
+T86	DISEASE 87 96	allergies
+T87	DISEASE 132 144	toxic habits
+T88	DISEASE 1103 1114	L2 fracture
+T89	DISEASE 1719 1726	ascites
+T90	DISEASE 1831 1851	deep vein thrombosis
+T91	DISEASE 1853 1856	DVT
+T92	DISEASE 2911 2932	Bronchiectasis in LII
+T138	DISEASE 2946 2968	cardiac decompensation
+T93	DISEASE 3340 3367	severe pericardial effusion
+T106	DISEASE 3347 3367	pericardial effusion
+T95	DISEASE 3804 3820	pleural effusion
+T98	DISEASE 4166 4180	valvulopathies
+T100	DISEASE 4207 4219	endocarditis
+T103	DISEASE 4221 4250	Moderate pericardial effusion
+T107	DISEASE 4230 4250	pericardial effusion
+T104	DISEASE 5032 5058	Bilateral pleural effusion
+T96	DISEASE 5042 5058	pleural effusion
+T99	DISEASE 5138 5152	valvulopathies
+T101	DISEASE 5201 5213	endocarditis
+T108	DISEASE 5222 5242	pericardial effusion
+T109	DISEASE 5386 5406	pericardial effusion
+T112	DISEASE 5510 5522	pericarditis
+T117	DISEASE 5527 5546	right heart failure
+T123	DISEASE 5533 5546	heart failure
+T118	DISEASE 5552 5568	congestive liver
+T119	DISEASE 5573 5589	vesicular oedema
+T105	DISEASE 5591 5617	Bilateral pleural effusion
+T97	DISEASE 5601 5617	pleural effusion
+T120	DISEASE 5623 5653	passive lower lobe atelectasis
+T139	DISEASE 5655 5695	Multiple abscesses in both psoas muscles
+T141	DISEASE 5664 5687	abscesses in both psoas
+T140	DISEASE 5697 5753	Erosion of the upper plateau of the vertebral body of L3
+T133	DISEASE 5771 5787	spondylodiscitis
+T121	DISEASE 5791 5811	compression fracture
+T122	DISEASE 5863 5897	septic arthritis of both shoulders
+T134	DISEASE 5950 5966	spondylodiscitis
+T142	DISEASE 6153 6176	Abscesses in both psoas
+T124	DISEASE 6699 6712	heart failure
+T94	DISEASE 7054 7081	severe pericardial effusion
+T110	DISEASE 7061 7081	pericardial effusion
+T125	DISEASE 7216 7237	purulent pericarditis
+T113	DISEASE 7225 7237	pericarditis
+T102	DISEASE 7623 7635	endocarditis
+T127	DISEASE 7744 7778	effusive-constrictive pericarditis
+T114	DISEASE 7766 7778	pericarditis
+T129	DISEASE 8123 8157	septic arthritis in both shoulders
+T135	DISEASE 8159 8175	spondylodiscitis
+T130	DISEASE 8159 8184	spondylodiscitis at L2-L3
+T111	DISEASE 8525 8545	pericardial effusion
+T131	DISEASE 9122 9138	SAMS bacteraemia
+T126	DISEASE 9159 9180	purulent pericarditis
+T115	DISEASE 9168 9180	pericarditis
+T132	DISEASE 9182 9206	multiple psoas abscesses
+T136	DISEASE 9208 9224	spondylodiscitis
+T137	DISEASE 9238 9273	bilateral septic shoulder arthritis
+T128	DISEASE 9276 9310	Effusive-constrictive pericarditis
+T116	DISEASE 9298 9310	pericarditis

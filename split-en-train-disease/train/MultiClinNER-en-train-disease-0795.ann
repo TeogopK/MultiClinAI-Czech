@@ -1,0 +1,36 @@
+T30	DISEASE 26 40	drug allergies
+T3	DISEASE 42 54	hypertension
+T31	DISEASE 152 167	nephritic colic
+T32	DISEASE 169 186	biliary lithiasis
+T33	DISEASE 191 202	prostatitis
+T53	DISEASE 659 684	poor peripheral perfusion
+T34	DISEASE 971 984	acute abdomen
+T35	DISEASE 1013 1032	acute renal failure
+T51	DISEASE 1079 1097	metabolic acidosis
+T36	DISEASE 1459 1481	acute pulmonary oedema
+T4	DISEASE 1530 1595	necrosis and current from an inferoposterior subepicardial lesion
+T37	DISEASE 1859 1928	moderate left ventricular dysfunction due to global hypocontractility
+T38	DISEASE 1964 1984	pericardial effusion
+T40	DISEASE 2019 2040	inferoposterior STEMI
+T5	DISEASE 2153 2229	2-vessel disease with occlusion of the right coronary artery at distal level
+T52	DISEASE 2490 2501	hypotension
+T54	DISEASE 3087 3106	myocardial necrosis
+T42	DISEASE 3361 3378	sinus tachycardia
+T6	DISEASE 3624 3702	LV systolic function at least moderately depressed by global hypocontractility
+T39	DISEASE 3747 3767	pericardial effusion
+T7	DISEASE 3835 3882	Anterior descending: with diffuse atheromatosis
+T55	DISEASE 3955 4000	Right coronary: ectatic vessel with occlusion
+T8	DISEASE 4184 4232	intestinal obstruction in the left hypochondrium
+T9	DISEASE 4359 4405	obstructive intestinal ileus of biliary origin
+T43	DISEASE 4970 4988	distributive shock
+T10	DISEASE 5517 5546	intestinal occlusive symptoms
+T11	DISEASE 5880 5926	obstructive intestinal ileus of biliary origin
+T44	DISEASE 6341 6367	sepsis of abdominal origin
+T45	DISEASE 6744 6757	biliary ileus
+T12	DISEASE 6785 6825	punctate perforation of the jejuno-ileum
+T56	DISEASE 7084 7140	mild LV systolic dysfunction due to inferior hypokinesia
+T47	DISEASE 7437 7504	Septic shock with multi-organ dysfunction, secondary to peritonitis
+T48	DISEASE 7493 7558	peritonitis due to intestinal perforation caused by biliary ileus
+T1	DISEASE 7560 7599	Bacteraemia due to Bacteroides vulgatus
+T49	DISEASE 7601 7645	Acute infero-posterior myocardial infarction
+T50	DISEASE 7746 7775	Moderate systolic dysfunction

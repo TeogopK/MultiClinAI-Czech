@@ -1,0 +1,64 @@
+T42	DISEASE 134 143	infección
+T43	DISEASE 224 247	alergias medicamentosas
+T44	DISEASE 330 359	enfermedad valvular reumática
+T45	DISEASE 402 439	Fibrilación auricular (FA) permanente
+T46	DISEASE 484 486	FA
+T47	DISEASE 613 666	lesión mitral reumática moderada-grave, con estenosis
+T48	DISEASE 751 781	hipertensión pulmonar moderada
+T49	DISEASE 783 819	insuficiencia tricuspídea (IT) grave
+T50	DISEASE 822 889	dilatación del ventrículo derecho (VD) con disfunción leve-moderada
+T51	DISEASE 1486 1539	accidente isquémico transitorio (AIT) vertebrobasilar
+T52	DISEASE 1572 1587	Útero miomatoso
+T53	DISEASE 2946 2980	infección de la zona del generador
+T54	DISEASE 3470 3495	trombosis venosa profunda
+T55	DISEASE 3497 3500	TVP
+T56	DISEASE 4082 4102	insuficiencia mitral
+T57	DISEASE 4310 4350	Estenosis aórtica valvular leve-moderada
+T58	DISEASE 4352 4386	Insuficiencia aórtica levemoderada
+T59	DISEASE 4422 4441	derrame pericárdico
+T60	DISEASE 4622 4634	endocarditis
+T61	DISEASE 4801 4813	endocarditis
+T62	DISEASE 5413 5433	patología infecciosa
+T63	DISEASE 5742 5751	infección
+T64	DISEASE 5984 5993	infección
+T65	DISEASE 6014 6060	axila izquierda se observan varias adenopatías
+T66	DISEASE 6180 6191	adenopatías
+T67	DISEASE 6255 6265	adenopatía
+T68	DISEASE 6398 6421	adenopatía inflamatoria
+T69	DISEASE 7362 7543	patología infecciosa alrededor del generador del marcapasos, así como en el trayecto proximal subcutáneo del cable de marcapasos y en su entrada a la altura de la vena cava superior
+T70	DISEASE 8251 8264	Cardiomegalia
+T71	DISEASE 8675 8683	flebitis
+T72	DISEASE 10138 10241	bacteriemia por S. aureus meticilin-sensible, secundaria a flebitis por infección de una vía periférica
+T73	DISEASE 11202 11223	edema agudo de pulmón
+T74	DISEASE 12055 12098	descompensaciones de insuficiencia cardiaca
+T76	DISEASE 12487 12546	Infección local de dispositivo de resincronización cardiaca
+T77	DISEASE 12774 12862	Flebitis en extremidad superior derecha con bacteriemia por S. aureus meticilin-sensible
+T79	DISEASE 12864 12927	Miocardiopatía dilatada con disfunción sistólica moderada de VI
+T80	DISEASE 12929 12951	Valvulopatía reumática
+T81	DISEASE 13023 13057	Doble lesión aórtica leve-moderada
+T82	DISEASE 425 427	FA
+T83	DISEASE 3533 3535	FA
+T84	DISEASE 4104 4106	IM
+T85	DISEASE 10896 10937	descompensación de insuficiencia cardiaca
+T86	DISEASE 1963 1994	herida quirúrgica, con hematoma
+T87	DISEASE 4255 4308	válvula aórtica es trivalva, con afectación reumática
+T88	DISEASE 810 812	IT
+T89	DISEASE 1137 1175	VI levemente dilatado y disfuncionante
+T90	DISEASE 3789 3833	ventrículo izquierdo (V) gravemente dilatado
+T91	DISEASE 3953 3991	Aurícula izquierda dilatada gravemente
+T92	DISEASE 4004 4043	Aurícula derecha moderadamente dilatada
+T93	DISEASE 5994 6006	endocarditis
+T94	DISEASE 13059 13072	FA permanente
+T180	DISEASE 1519 1522	AIT
+T28	DISEASE 4176 4178	IT
+T30	DISEASE 10569 10619	ritmo ventricular propio de escape de QRS estrecho
+T184	DISEASE 2416 2433	herida quirúrgica
+T188	DISEASE 7135 7183	cabeza humeral derecha por patología insercional
+#1	AnnotatorNotes T46	 fibrilación auricular
+#2	AnnotatorNotes T82	 fibrilación auricular
+#3	AnnotatorNotes T83	 fibrilación auricular
+#4	AnnotatorNotes T84	 insuficiencia mitral
+#5	AnnotatorNotes T88	 insuficiencia tricuspide
+#6	AnnotatorNotes T94	 fibrilación auricular
+#8	AnnotatorNotes T180	accidente isquémico transitorio
+#9	AnnotatorNotes T28	Insuficiencia tricuspídea

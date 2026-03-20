@@ -1,0 +1,43 @@
+T144	PROCEDURE 105 122	dietary treatment
+T104	PROCEDURE 1089 1109	Physical examination
+T105	PROCEDURE 1262 1282	Cardiac auscultation
+T106	PROCEDURE 1326 1348	Pulmonary auscultation
+T145	PROCEDURE 1420 1449	palpation in the hypogastrium
+T108	PROCEDURE 1574 1600	Gynaecological examination
+T109	PROCEDURE 2356 2367	Chest X-ray
+T111	PROCEDURE 2514 2517	ECG
+T113	PROCEDURE 2690 2713	Transvaginal ultrasound
+T114	PROCEDURE 2780 2800	Abdominal ultrasound
+T116	PROCEDURE 3136 3166	Transthoracic echocardiography
+T130	PROCEDURE 3150 3166	echocardiography
+T117	PROCEDURE 3378 3398	Coronary angiography
+T118	PROCEDURE 3447 3463	Ventriculography
+T120	PROCEDURE 3616 3637	Endomyocardial biopsy
+T122	PROCEDURE 3839 3850	Cardiac MRI
+T146	PROCEDURE 4091 4103	Microbiology
+T124	PROCEDURE 4105 4118	blood culture
+T125	PROCEDURE 4157 4170	Urine culture
+T136	PROCEDURE 4289 4312	Parvovirus B19 serology
+T141	PROCEDURE 4304 4312	serology
+T126	PROCEDURE 4480 4494	blood cultures
+T127	PROCEDURE 4619 4630	serotherapy
+T128	PROCEDURE 4653 4662	analgesia
+T107	PROCEDURE 5222 5244	Pulmonary auscultation
+T110	PROCEDURE 5308 5319	chest X-ray
+T115	PROCEDURE 5378 5398	abdominal ultrasound
+T129	PROCEDURE 6054 6089	non-invasive mechanical ventilation
+T112	PROCEDURE 6172 6175	ECG
+T133	PROCEDURE 6620 6636	vasoactive drugs
+T135	PROCEDURE 6868 6891	cardiac catheterisation
+T119	PROCEDURE 6897 6913	ventriculography
+T121	PROCEDURE 6918 6939	endomyocardial biopsy
+T123	PROCEDURE 6941 6952	cardiac MRI
+T137	PROCEDURE 6954 6977	parvovirus B19 serology
+T142	PROCEDURE 6969 6977	serology
+T138	PROCEDURE 6982 7000	cardiac immunology
+T134	PROCEDURE 7427 7443	vasoactive drugs
+T143	PROCEDURE 7563 7576	beta-blockers
+T131	PROCEDURE 7636 7652	echocardiography
+T139	PROCEDURE 8004 8020	antibiotic cycle
+T140	PROCEDURE 8765 8782	steroid treatment
+T132	PROCEDURE 9206 9222	echocardiography

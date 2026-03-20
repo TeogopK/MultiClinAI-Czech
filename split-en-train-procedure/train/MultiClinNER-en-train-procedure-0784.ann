@@ -1,0 +1,26 @@
+T41	PROCEDURE 213 233	physical examination
+T54	PROCEDURE 356 362	ARA II
+T42	PROCEDURE 568 588	Physical examination
+T55	PROCEDURE 700 702	AC
+T56	PROCEDURE 766 768	AP
+T61	PROCEDURE 885 898	Osteomuscular
+T43	PROCEDURE 1022 1042	physical examination
+T3	PROCEDURE 1094 1110	laboratory tests
+T44	PROCEDURE 1220 1230	Urinalysis
+T45	PROCEDURE 1262 1276	Blood cultures
+T47	PROCEDURE 1280 1291	Chest X-ray
+T48	PROCEDURE 1303 1323	Abdominal ultrasound
+T49	PROCEDURE 1335 1355	CT scan of the brain
+T50	PROCEDURE 1516 1532	vascular filling
+T51	PROCEDURE 1694 1711	inotropic support
+T4	PROCEDURE 1727 1755	transthoracic echocardiogram
+T53	PROCEDURE 1967 1998	invasive mechanical ventilation
+T6	PROCEDURE 2075 2105	transesophageal echocardiogram
+T46	PROCEDURE 2360 2374	blood cultures
+T57	PROCEDURE 2489 2504	cardiac surgery
+T60	PROCEDURE 2529 2536	surgery
+T9	PROCEDURE 2774 2810	The wart and the valve were resected
+T10	PROCEDURE 2815 2853	replaced with a mechanical prosthesis.
+T52	PROCEDURE 2903 2920	inotropic support
+T11	PROCEDURE 2922 2926	IABP
+T58	PROCEDURE 3017 3020	IQx

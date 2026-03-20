@@ -1,0 +1,38 @@
+T1	SYMPTOM 2401 2430	afectación pulmonar bilateral
+T2	SYMPTOM 3896 3935	acúmulos intraalveolares de histiocitos
+T3	SYMPTOM 367 377	estornudos
+T4	SYMPTOM 1216 1238	afectación neurológica
+T5	SYMPTOM 2470 2506	engrosamiento de paredes bronquiales
+T6	SYMPTOM 379 398	sensación de fatiga
+T7	SYMPTOM 415 421	fiebre
+T8	SYMPTOM 1645 1648	tos
+T9	SYMPTOM 467 513	cefalea frontal de características tensionales
+T10	SYMPTOM 1412 1419	cefalea
+T11	SYMPTOM 1664 1670	disnea
+T12	SYMPTOM 518 521	tos
+T13	SYMPTOM 524 543	sensación de fatiga
+T14	SYMPTOM 1763 1766	tos
+T15	SYMPTOM 1769 1788	sensación de fatiga
+T16	SYMPTOM 2508 2543	Nódulos dispersos algunos cavitados
+T17	SYMPTOM 1162 1200	auscultación cardiopulmonar era normal
+T18	SYMPTOM 425 438	expectoración
+T19	SYMPTOM 330 333	tos
+T20	SYMPTOM 1803 1836	exploración cardiopulmonar normal
+T21	SYMPTOM 2031 2038	nódulos
+T22	SYMPTOM 2574 2592	imágenes quísticas
+T23	SYMPTOM 2610 2710	difusión de CO2 y curva de flujos pulmonares se encuentran dentro de los parámetros de la normalidad
+T24	SYMPTOM 2754 2793	determinaciones de ANCA y ANA negativas
+T25	SYMPTOM 3995 4018	neumocitoshiperplásicos
+T26	SYMPTOM 4056 4099	acúmulos nodulares de células CD1 positivas
+T27	SYMPTOM 752 779	test de Fagerstrom) elevado
+A1	IMAGEN T1
+A2	RESULTADO T2
+A3	IMAGEN T5
+A4	IMAGEN T16
+A5	IMAGEN T21
+A6	IMAGEN T22
+A7	RESULTADO T23
+A8	RESULTADO T24
+A9	RESULTADO T25
+A10	RESULTADO T26
+A11	RESULTADO T27

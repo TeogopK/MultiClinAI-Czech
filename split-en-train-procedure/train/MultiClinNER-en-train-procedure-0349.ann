@@ -1,0 +1,9 @@
+T5	PROCEDURE 137 157	physical examination
+T1	PROCEDURE 211 242	cardio-respiratory auscultation
+T7	PROCEDURE 306 324	rectal examination
+T3	PROCEDURE 379 400	Urological ultrasound
+T2	PROCEDURE 413 430	Cystourethroscopy
+T15	PROCEDURE 532 564	voiding urethrocystography X-ray
+T4	PROCEDURE 664 698	endoscopic study under anaesthesia
+T6	PROCEDURE 786 806	endoscopic resection
+T20	PROCEDURE 812 863	anatomopathological result of the surgical specimen

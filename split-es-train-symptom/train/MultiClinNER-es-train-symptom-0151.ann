@@ -1,0 +1,28 @@
+T1	SYMPTOM 3289 3301	asintomática
+T2	SYMPTOM 218 225	disuria
+T3	SYMPTOM 1010 1017	disuria
+T4	SYMPTOM 616 628	leucocituria
+T5	SYMPTOM 228 239	polaquiuria
+T6	SYMPTOM 1020 1031	polaquiuria
+T7	SYMPTOM 152 181	síndrome miccional irritativo
+T8	SYMPTOM 3338 3359	urocultivos negativos
+T9	SYMPTOM 424 455	urocultivos positivos a E. coli
+T10	SYMPTOM 630 675	urocultivo que fue de nuevo positivo a E.coli
+T11	SYMPTOM 253 274	urgencias miccionales
+T12	SYMPTOM 296 320	sintomatología urológica
+T13	SYMPTOM 519 554	bioquímica sanguínea que fue normal
+T14	SYMPTOM 1395 1437	ecografía urológica que también fue normal
+T15	SYMPTOM 1766 1800	urografía fue rigurosamente normal
+T16	SYMPTOM 2027 2065	estudios negativos para bacilo de Koch
+T17	SYMPTOM 3306 3335	cistoscopia de control normal
+T18	SYMPTOM 105 118	estreñimiento
+T19	SYMPTOM 1600 1605	edema
+A1	RESULTADO T4
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T10
+A5	RESULTADO T13
+A6	IMAGEN T14
+A7	IMAGEN T15
+A8	RESULTADO T16
+A9	IMAGEN T17

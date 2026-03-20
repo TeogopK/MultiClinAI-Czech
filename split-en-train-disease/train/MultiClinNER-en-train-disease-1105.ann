@@ -1,0 +1,45 @@
+T36	DISEASE 174 195	arterial hypertension
+T38	DISEASE 200 217	diabetes mellitus
+T39	DISEASE 222 235	dyslipidaemia
+T70	DISEASE 244 250	smoker
+T40	DISEASE 304 311	Obesity
+T28	DISEASE 390 461	Moderate chronic obstructive pulmonary disease, chronic bronchitis type
+T27	DISEASE 564 584	colon adenocarcinoma
+T43	DISEASE 793 821	Benign prostatic hypertrophy
+T44	DISEASE 1075 1087	bronchopathy
+T45	DISEASE 1810 1819	phlebitis
+T26	DISEASE 1899 1939	dilatation and biventricular dysfunction
+T46	DISEASE 1964 1984	mitral regurgitation
+T71	DISEASE 2814 2831	Myocardial damage
+T72	DISEASE 2918 2951	moderately dilated left ventricle
+T69	DISEASE 3134 3162	Severely dilated left atrium
+T25	DISEASE 3164 3204	Moderate functional mitral regurgitation
+T24	DISEASE 3233 3273	Sclerosed, normofunctioning aortic valve
+T48	DISEASE 3345 3368	ventricular dysfunction
+T53	DISEASE 3389 3412	tricuspid insufficiency
+T73	DISEASE 3536 3571	calcified left main coronary artery
+T23	DISEASE 3603 3660	LAD with severe proximal and middle disease with stenosis
+T22	DISEASE 3673 3722	Borderline lesion in the ostial circumflex artery
+T21	DISEASE 3782 3819	Right coronary artery with 70% lesion
+T54	DISEASE 4137 4154	myocardial oedema
+T20	DISEASE 4499 4527	Left atrium slightly dilated
+T19	DISEASE 4800 4831	linear intramyocardial fibrosis
+T18	DISEASE 5561 5591	lesion in the proximal segment
+T55	DISEASE 6132 6167	severe left ventricular dysfunction
+T50	DISEASE 6340 6363	ventricular dysfunction
+T57	DISEASE 6425 6441	3-vessel disease
+T17	DISEASE 6559 6612	moderate-severe chronic obstructive pulmonary disease
+T58	DISEASE 6614 6618	COPD
+T41	DISEASE 6621 6628	obesity
+T60	DISEASE 6630 6660	severe ventricular dysfunction
+T61	DISEASE 7442 7449	smoking
+T63	DISEASE 7590 7620	paroxysmal atrial fibrillation
+T65	DISEASE 8538 8551	heart failure
+T67	DISEASE 8771 8830	Acute heart failure due to ischaemic dilated cardiomyopathy
+T56	DISEASE 8836 8871	severe left ventricular dysfunction
+T52	DISEASE 8848 8871	ventricular dysfunction
+T68	DISEASE 8899 8935	Three-vessel coronary artery disease
+T64	DISEASE 8970 9000	Paroxysmal atrial fibrillation
+T16	DISEASE 9198 9240	Moderate COPD phenotype chronic bronchitis
+T62	DISEASE 9242 9249	Smoking
+T42	DISEASE 9264 9271	Obesity

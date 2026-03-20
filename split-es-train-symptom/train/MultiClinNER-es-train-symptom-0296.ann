@@ -1,0 +1,15 @@
+T1	SYMPTOM 696 807	masa bien delimitada localizada en el interior del ventrículo lateral derecho a nivel del atrio y asta temporal
+T2	SYMPTOM 205 237	cefalea de predominio vespertino
+T3	SYMPTOM 382 391	despierta
+T4	SYMPTOM 393 405	colaboradora
+T5	SYMPTOM 408 432	conectada ambientalmente
+T6	SYMPTOM 493 520	motilidad ocular conservada
+T7	SYMPTOM 313 321	diplopia
+T8	SYMPTOM 866 884	edema perilesional
+T9	SYMPTOM 1123 1133	tumoración
+T10	SYMPTOM 1972 1984	asintomática
+T11	SYMPTOM 523 542	nistagmo horizontal
+T12	SYMPTOM 584 658	analítica de sangre, bioquímica y radiografía de tórax resultaron normales
+A1	IMAGEN T1
+A2	IMAGEN T8
+A3	RESULTADO T12

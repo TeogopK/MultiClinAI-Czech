@@ -1,0 +1,39 @@
+T64	PROCEDURE 454 482	ecocardiograma transtorácico
+T65	PROCEDURE 761 765	CPAP
+T66	PROCEDURE 928 950	intubación orotraqueal
+T67	PROCEDURE 1114 1134	resección prostática
+T68	PROCEDURE 1471 1517	maniobras de reanimación cardiaca (RCP) básica
+T69	PROCEDURE 1506 1509	RCP
+T70	PROCEDURE 1524 1572	descarga de desfibrilador externo semiautomático
+T71	PROCEDURE 1758 1766	intubado
+T72	PROCEDURE 1781 1801	ventilación mecánica
+T73	PROCEDURE 2178 2200	intubación orotraqueal
+T74	PROCEDURE 2214 2234	ventilación mecánica
+T75	PROCEDURE 2249 2271	Auscultación carotidea
+T76	PROCEDURE 2315 2336	Auscultación cardiaca
+T77	PROCEDURE 2487 2508	Auscultación pulmonar
+T78	PROCEDURE 2544 2565	Exploración abdominal
+T79	PROCEDURE 2882 2891	Hemograma
+T80	PROCEDURE 3063 3082	Gasometría arterial
+T81	PROCEDURE 3145 3174	Radiografía de tórax portátil
+T82	PROCEDURE 3300 3318	Electrocardiograma
+T83	PROCEDURE 3320 3323	ECG
+T84	PROCEDURE 3497 3509	TC de cráneo
+T85	PROCEDURE 4070 4085	Coronariografía
+T86	PROCEDURE 4178 4206	Ecocardiograma transtorácico
+T87	PROCEDURE 4388 4417	Ecocardiograma transesofágico
+T88	PROCEDURE 4577 4611	Resonancia magnética (RM) cardiaca
+T89	PROCEDURE 5543 5545	RM
+T90	PROCEDURE 5601 5627	reparación valvular mitral
+T91	PROCEDURE 5664 5745	implante de dos neocuerdas Goretex 4/0 a P2 y AM (Physio 30 mm) más anillo mitral
+T92	PROCEDURE 5802 5838	implante de desfibrilador automático
+T103	PROCEDURE 2940 2951	Coagulación
+T104	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T105	PROCEDURE 2036 2054	EXPLORACIÓN FÍSICA
+T106	PROCEDURE 3622 3637	Ecocardioscopia
+T107	PROCEDURE 2775 2780	Iones
+T108	PROCEDURE 2706 2716	bioquímica
+T109	PROCEDURE 305 326	tratamiento dietético
+T110	PROCEDURE 3035 3051	tóxicos en orina
+T112	PROCEDURE 3567 3611	Mapa de perfusión y de troncos supraaórticos
+T113	PROCEDURE 4972 4981	extubarse

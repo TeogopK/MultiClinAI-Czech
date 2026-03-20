@@ -1,0 +1,69 @@
+T35	DISEASE 2771 2817	ventrículo izquierdo (VI) ligeramente dilatado
+T62	DISEASE 93 116	alergia a la penicilina
+T63	DISEASE 570 603	adenopatías cervicales y axilares
+T64	DISEASE 671 694	síndrome mononucleósico
+T65	DISEASE 1009 1032	muela afecta por caries
+T66	DISEASE 1209 1242	adenopatías cervicales y axilares
+T67	DISEASE 1545 1562	lesiones cutáneas
+T68	DISEASE 1637 1685	lesiones maculares eritematosas en ambas plantas
+T69	DISEASE 3623 3663	insuficiencia mitral (IM) moderada-grave
+T70	DISEASE 4040 4063	endocarditis infecciosa
+T71	DISEASE 4065 4067	EI
+T72	DISEASE 4084 4121	Insuficiencia tricuspídea (IT) ligera
+T73	DISEASE 4262 4281	derrame pericárdico
+T74	DISEASE 4855 4862	absceso
+T75	DISEASE 5205 5228	hidrocefalia compresiva
+T76	DISEASE 5618 5638	absceso paravalvular
+T77	DISEASE 5640 5727	Hepatomegalia con lesión focal hipodensa de 4 mm en segmento VII de naturaleza quística
+T78	DISEASE 5729 5743	Esplenomegalia
+T79	DISEASE 5766 5856	lesiones focales hipopdensas de localización periférica en región posteroinferior del bazo
+T80	DISEASE 6037 6044	absceso
+T81	DISEASE 6341 6356	microembolismos
+T82	DISEASE 6366 6384	lesión hemorrágica
+T83	DISEASE 6434 6512	convexidad parietal izquierda con vertido hemorrágico al espacio subaracnoideo
+T84	DISEASE 6738 6755	lesión cerebelosa
+T85	DISEASE 6867 6879	hidrocefalia
+T86	DISEASE 7406 7413	ascitis
+T88	DISEASE 7609 7676	lesiones con componente hemorrágico (una cerebral y otra cerebelosa
+T89	DISEASE 8107 8109	EI
+T90	DISEASE 8235 8281	embolismos a nivel de cerebro, cerebelo y EEII
+T91	DISEASE 8298 8318	insuficiencia mitral
+T92	DISEASE 8415 8437	insuficiencia cardiaca
+T93	DISEASE 8560 8583	alergia a betalactámico
+T95	DISEASE 8947 8994	embolismos y abscesos en riñón izquierdo y bazo
+T96	DISEASE 9060 9087	absceso perivalvular mitral
+T97	DISEASE 9180 9250	insuficiencia mitral grave por rotura parcial de velo posterior mitral
+T98	DISEASE 9365 9404	infartos con transformación hemorrágica
+T99	DISEASE 9794 9796	EI
+T100	DISEASE 10824 10888	microsangrados, microinfartos, y hemorragia intraparenquimatosas
+T101	DISEASE 11150 11173	endocarditis infecciosa
+T102	DISEASE 11175 11195	absceso perivalvular
+T103	DISEASE 11406 11498	Endocarditis infecciosa subaguda sobre válvula mitral nativa por Aggregatibacter aphrophilus
+T104	DISEASE 11500 11527	Absceso perivalvular mitral
+T105	DISEASE 11620 11690	insuficiencia mitral grave por rotura parcial de velo posterior mitral
+T106	DISEASE 11692 11809	Embolismos sépticos múltiples (cerebrales, cerebelosos, esplénicos, renal izquierdo, retina, distales en extremidades
+T107	DISEASE 11842 11945	lesiones cerebrales embólicas situadas en convexidad parietal izquierda y hemisferio cerebeloso derecho
+T108	DISEASE 158 165	Fumador
+T109	DISEASE 3645 3647	IM
+T110	DISEASE 4788 4796	IM grave
+T111	DISEASE 7924 7926	IM
+T112	DISEASE 7997 8013	IM agudasubaguda
+T113	DISEASE 4111 4113	IT
+T114	DISEASE 148 155	alergia
+T115	DISEASE 10058 10087	cuadro alérgico a penicilinas
+T116	DISEASE 1470 1483	hepatomegalia
+T117	DISEASE 6955 6973	leve hepatomegalia
+T118	DISEASE 204 219	hábitos tóxicos
+T119	DISEASE 3045 3084	Aurícula izquierda ligeramente dilatada
+T120	DISEASE 3324 3361	Válvula mitral (VM): velos engrosados
+T121	DISEASE 3574 3609	desestructuración de válvula mitral
+T122	DISEASE 4953 5015	lesiones focales: una subcortical junto a la cisura de Rolando
+T123	DISEASE 5913 5950	riñón izquierdo se observa una lesión
+T124	DISEASE 7086 7115	lesiones ocupantes de espacio
+T195	DISEASE 7117 7120	LOE
+T173	DISEASE 10913 10936	pieza dentaria afectada
+#1	AnnotatorNotes T109	 insuficiencia mitral
+#2	AnnotatorNotes T110	 IM: insuficiencia mitral
+#3	AnnotatorNotes T111	 insuficiencia mitral
+#4	AnnotatorNotes T112	 insuficiencia mitral
+#5	AnnotatorNotes T113	 IT insuficiencia tricuspídea

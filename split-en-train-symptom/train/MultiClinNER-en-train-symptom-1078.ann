@@ -1,0 +1,42 @@
+T1	SYMPTOM 523 551	sudden loss of consciousness
+T2	SYMPTOM 604 614	chest pain
+T5	SYMPTOM 678 710	palpitations at a high frequency
+T3	SYMPTOM 772 787	general malaise
+T29	SYMPTOM 800 805	fever
+T4	SYMPTOM 809 828	infectious symptoms
+T30	SYMPTOM 909 916	shaking
+T21	SYMPTOM 942 963	neurological focality
+T6	SYMPTOM 1133 1154	loss of consciousness
+T8	SYMPTOM 1313 1325	sinus rhythm
+T19	SYMPTOM 1468 1486	tachypnoea at rest
+T10	SYMPTOM 1488 1532	Neurological examination without alterations
+T24	SYMPTOM 1542 1567	auscultation was rhythmic
+T11	SYMPTOM 1577 1584	murmurs
+T31	SYMPTOM 1589 1639	pulmonary auscultation without pathological sounds
+T12	SYMPTOM 1696 1729	hepatojugular reflux was negative
+T17	SYMPTOM 1735 1766	lower limbs were free of oedema
+T32	SYMPTOM 1816 1850	Pulses were strong and symmetrical
+T33	SYMPTOM 1967 1993	No coagulation alterations
+T22	SYMPTOM 2262 2299	urine toxins/drugs of abuse: negative
+T7	SYMPTOM 2348 2369	loss of consciousness
+T13	SYMPTOM 2478 2513	sinus rhythm without pre-excitation
+T9	SYMPTOM 2557 2605	QRS with Ic-oved type Brugada pattern morphology
+T34	SYMPTOM 2700 2713	descending ST
+T35	SYMPTOM 2767 2777	negative T
+T14	SYMPTOM 2783 2814	corrected QT interval is normal
+T15	SYMPTOM 2820 2851	corrected QT interval is normal
+T16	SYMPTOM 2991 3018	preserved systolic function
+T36	SYMPTOM 3028 3066	alterations of segmental contractility
+T37	SYMPTOM 3068 3108	Chambers neither dilated nor hypertrophi
+T38	SYMPTOM 3167 3200	Normally functioning mitral valve
+T39	SYMPTOM 3278 3308	Inferior vena cava not dilated
+T41	SYMPTOM 3687 3728	cavities neither hypertrophic nor dilated
+T40	SYMPTOM 3936 3961	contractility alterations
+T18	SYMPTOM 3980 3986	oedema
+T27	SYMPTOM 4019 4067	late enhancement after gadolinium administration
+T20	SYMPTOM 4454 4482	Missense mutation in geSnCN5
+T42	SYMPTOM 4947 4993	spontaneous Brugada pattern type 1 (shark fin)
+T44	SYMPTOM 5547 5581	missense mutation in the SCN5 gene
+T43	SYMPTOM 5702 5721	anodyne surface ECG
+T23	SYMPTOM 5726 5751	negative provocation test
+T28	SYMPTOM 5820 5868	provocation test and genetic study were negative

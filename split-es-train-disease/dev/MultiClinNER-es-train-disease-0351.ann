@@ -1,0 +1,17 @@
+T30	DISEASE 1473 1499	derrame pericárdico severo
+T38	DISEASE 2157 2176	derrame pericárdico
+T44	DISEASE 2926 2951	adenopatías mediastínicas
+T45	DISEASE 3066 3091	derrame pleural bilateral
+T51	DISEASE 4049 4068	daño pulmonar agudo
+T52	DISEASE 4104 4143	enfermedad pulmonar intersticial difusa
+T53	DISEASE 4145 4149	EPID
+T54	DISEASE 4255 4276	neumonía eosinofílica
+T62	DISEASE 4731 4765	derrame pleural bilateral moderado
+T64	DISEASE 5116 5130	adenocarcinoma
+T65	DISEASE 5185 5219	origen pulmonar del adenocarcinoma
+T79	DISEASE 468 482	asma bronquial
+T82	DISEASE 436 443	fumador
+T84	DISEASE 3805 3816	adenopatías
+T85	DISEASE 1328 1341	cardiomegalia
+T1	DISEASE 4933 4981	adenocarcinoma acinar-papilar, bien diferenciado
+#1	AnnotatorNotes T53	   EPID: enfermedad pulmonar intersticial difusa

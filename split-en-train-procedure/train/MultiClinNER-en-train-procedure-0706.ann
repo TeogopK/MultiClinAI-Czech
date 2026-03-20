@@ -1,0 +1,10 @@
+T1	PROCEDURE 172 192	Physical examination
+T4	PROCEDURE 227 238	Blood tests
+T3	PROCEDURE 293 314	Intravenous urography
+T5	PROCEDURE 397 426	abdominal computed tomography
+T14	PROCEDURE 485 493	Cytology
+T2	PROCEDURE 508 532	Right nephroureterectomy
+T15	PROCEDURE 548 579	Endoscopic ureteral deinsertion
+T6	PROCEDURE 661 714	nephroureterectomy through a right subcostal incision
+T8	PROCEDURE 720 743	macroscopic description
+T7	PROCEDURE 904 919	Microscopically

@@ -1,0 +1,16 @@
+T1	DISEASE 55 68	breast cancer
+T11	DISEASE 488 494	lesion
+T12	DISEASE 536 542	lesion
+T9	DISEASE 735 773	bites by the Loxosceles reclusa spider
+T10	DISEASE 841 867	upper and lower limb bites
+T13	DISEASE 946 952	lesion
+T14	DISEASE 1177 1183	lesion
+T7	DISEASE 1413 1432	infectious diseases
+T2	DISEASE 1476 1487	spider bite
+T8	DISEASE 1530 1564	necrotic cutaneous-mucosal lesions
+T17	DISEASE 1574 1584	cellulitis
+T3	DISEASE 1586 1596	vasculitis
+T4	DISEASE 1598 1613	diabetic ulcers
+T5	DISEASE 1615 1637	vascular insufficiency
+T6	DISEASE 1639 1653	drug reactions
+T23	DISEASE 1655 1705	thermal or chemical burns, infectious or traumatic

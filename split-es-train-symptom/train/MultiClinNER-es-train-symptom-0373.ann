@@ -1,0 +1,22 @@
+T1	SYMPTOM 340 368	genitales externos atrógicos
+T2	SYMPTOM 1163 1179	cuadro miccional
+T3	SYMPTOM 478 502	función renal conservada
+T4	SYMPTOM 1194 1207	estreñimiento
+T5	SYMPTOM 529 541	leucocituria
+T6	SYMPTOM 544 553	bactiuria
+T7	SYMPTOM 924 946	desplazamiento vesical
+T8	SYMPTOM 271 305	incontinencia de patrón irritativo
+T9	SYMPTOM 255 268	estreñimiento
+T10	SYMPTOM 441 475	bioquímica con parámetros normales
+T11	SYMPTOM 370 389	test Boney negativo
+T12	SYMPTOM 558 585	urocultivo está contaminado
+T13	SYMPTOM 625 648	buena función bilateral
+T14	SYMPTOM 698 724	falta de repleción vesical
+A1	RESULTADO T3
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	IMAGEN T7
+A5	RESULTADO T10
+A6	RESULTADO T12
+A7	RESULTADO T13
+A8	RESULTADO T14

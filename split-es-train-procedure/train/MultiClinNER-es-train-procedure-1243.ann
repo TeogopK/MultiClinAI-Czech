@@ -1,0 +1,41 @@
+T12	PROCEDURE 2093 2113	injerto renal en FID
+T51	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 396 408	hemodiálisis
+T53	PROCEDURE 434 456	doble trasplante renal
+T54	PROCEDURE 544 554	trasplante
+T55	PROCEDURE 560 572	hemodiálisis
+T56	PROCEDURE 783 795	trasfusiones
+T58	PROCEDURE 1283 1295	hemodiálisis
+T59	PROCEDURE 1489 1532	electrocardiograma (ECG) de 12 derivaciones
+T60	PROCEDURE 1509 1512	ECG
+T61	PROCEDURE 1805 1823	Exploración física
+T62	PROCEDURE 1906 1927	Auscultación pulmonar
+T63	PROCEDURE 1978 1999	Auscultación cardiaca
+T65	PROCEDURE 2647 2656	Hemograma
+T66	PROCEDURE 2792 2803	Coagulación
+T67	PROCEDURE 2844 2854	Gasometría
+T68	PROCEDURE 3013 3033	Radiografía de tórax
+T69	PROCEDURE 3178 3196	Electrocardiograma
+T70	PROCEDURE 3198 3201	ECG
+T71	PROCEDURE 3416 3444	Ecocardiograma transtorácico
+T72	PROCEDURE 3893 3919	Estudio electrofisiológico
+T73	PROCEDURE 3921 3924	EEF
+T74	PROCEDURE 4570 4588	punción transeptal
+T75	PROCEDURE 4736 4754	ablación de la vía
+T76	PROCEDURE 4866 4889	cardioversión eléctrica
+T77	PROCEDURE 4997 5011	monitorización
+T78	PROCEDURE 5037 5065	ecocardiograma transtorácico
+T79	PROCEDURE 5543 5565	ECG de 12 derivaciones
+T80	PROCEDURE 5874 5877	ECG
+T81	PROCEDURE 5956 5966	telemetría
+T82	PROCEDURE 6259 6262	ECG
+T83	PROCEDURE 6462 6465	ECG
+T85	PROCEDURE 6764 6790	estudio electrofisiológico
+T86	PROCEDURE 6932 6935	ECG
+T87	PROCEDURE 7064 7097	Ablación exitosa de vía accesoria
+T92	PROCEDURE 614 638	fístulas arterio-venosas
+T93	PROCEDURE 640 643	FAV
+T64	PROCEDURE 2236 2246	Bioquímica
+T139	PROCEDURE 2214 2223	Analítica
+T111	PROCEDURE 1639 1670	bolos de 100 mg de procainamida
+T84	PROCEDURE 6810 6881	vía accesoria en porción posterior del anillo mitral que es ablacionada

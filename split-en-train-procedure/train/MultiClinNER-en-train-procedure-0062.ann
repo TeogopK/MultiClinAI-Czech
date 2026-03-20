@@ -1,0 +1,17 @@
+T1	PROCEDURE 282 302	Physical examination
+T2	PROCEDURE 362 377	finger pressure
+T14	PROCEDURE 412 460	24-hour urinary catecholamines and metanephrines
+T3	PROCEDURE 599 619	abdominal ultrasound
+T16	PROCEDURE 766 813	abdominal-pelvic computed axial tomography (CT)
+T6	PROCEDURE 810 812	CT
+T11	PROCEDURE 1057 1059	CT
+T4	PROCEDURE 1070 1080	cavography
+T12	PROCEDURE 1267 1301	beta and alpha-adrenergic blockade
+T10	PROCEDURE 1329 1350	surgical intervention
+T7	PROCEDURE 1356 1387	en bloc resection of the tumour
+T8	PROCEDURE 1389 1476	the anterior aspect of the cava was partially sectioned to remove the intracaval tumour
+T13	PROCEDURE 1445 1476	to remove the intracaval tumour
+T20	PROCEDURE 1575 1634	plasma and urine levels of catecholamines and metanephrines
+T9	PROCEDURE 1651 1680	anatomopathological diagnosis
+T15	PROCEDURE 1844 1858	123I-MIBG scan
+T5	PROCEDURE 1962 1993	adjuvant chemotherapy treatment

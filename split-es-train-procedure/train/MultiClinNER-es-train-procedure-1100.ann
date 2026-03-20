@@ -1,0 +1,29 @@
+T62	PROCEDURE 111 126	anticoagulación
+T63	PROCEDURE 578 589	Cateterismo
+T64	PROCEDURE 1683 1701	Exploración física
+T65	PROCEDURE 1885 1912	Auscultación cardiopulmonar
+T66	PROCEDURE 2119 2137	Electrocardiograma
+T67	PROCEDURE 2236 2256	Radiografía de tórax
+T68	PROCEDURE 2465 2479	Ecocardiograma
+T69	PROCEDURE 2872 2964	Ergometría pronóstica, en cinta sin fin, protocolo de Bruce, bajo tratamiento betabloqueante
+T71	PROCEDURE 3398 3413	betabloqueantes
+T72	PROCEDURE 3626 3690	Coronariografía diagnóstica y terapéutica: acceso radial derecho
+T73	PROCEDURE 4445 4513	Intervencionismo coronario percutáneo: sobre ramo marginal de la ACx
+T74	PROCEDURE 4510 4565	ACx mediante angioplastia simple con balón convencional
+T75	PROCEDURE 4580 4658	ACx mediante implante de dos stents farmacoactivos previa dilatación con balón
+T76	PROCEDURE 4979 4989	ergometría
+T77	PROCEDURE 5049 5076	ecocardiografía posesfuerzo
+T78	PROCEDURE 5152 5167	coronariografía
+T79	PROCEDURE 5191 5209	electrocardiograma
+T80	PROCEDURE 5318 5333	coronariografía
+T81	PROCEDURE 5466 5509	prueba de detección de isquemia no invasiva
+T82	PROCEDURE 5522 5603	intervencionismo percutáneo sobre el ramo marginal y sobre la arteria circunfleja
+T83	PROCEDURE 5691 5706	anticoagulación
+T84	PROCEDURE 5759 5773	antiagregación
+T85	PROCEDURE 5775 5802	revascularización coronaria
+T86	PROCEDURE 6455 6522	Revascularización percutánea de arteria circunfleja y ramo marginal
+T101	PROCEDURE 163 181	EXPLORACIÓN FÍSICA
+T102	PROCEDURE 3534 3560	Ecocardiograma posesfuerzo
+T104	PROCEDURE 2355 2364	Analítica
+T134	PROCEDURE 5410 5434	tratamiento antianginoso
+T28	PROCEDURE 994 1020	intervenciones quirúrgicas

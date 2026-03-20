@@ -1,0 +1,39 @@
+T35	PROCEDURE 6260 6295	limitación del esfuerzo terapéutico
+T49	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T50	PROCEDURE 538 558	cateterismo cardiaco
+T51	PROCEDURE 721 749	Ecocardiograma transtorácico
+T52	PROCEDURE 1090 1108	Electrocardiograma
+T53	PROCEDURE 1110 1113	ECG
+T54	PROCEDURE 1753 1783	tratamiento analgésico potente
+T55	PROCEDURE 1903 1911	angio-TC
+T56	PROCEDURE 1986 2004	Exploración física
+T57	PROCEDURE 2175 2183	angio-TC
+T58	PROCEDURE 2448 2469	Auscultación cardiaca
+T59	PROCEDURE 2543 2564	Auscultación pulmonar
+T60	PROCEDURE 2814 2817	ECG
+T61	PROCEDURE 2828 2831	ECG
+T62	PROCEDURE 2989 3006	Angio-TC torácico
+T63	PROCEDURE 3651 3679	Ecocardiograma transtorácico
+T64	PROCEDURE 3998 4007	Hemograma
+T65	PROCEDURE 4082 4102	Cateterismo cardiaco
+T66	PROCEDURE 4308 4324	tromboaspiración
+T67	PROCEDURE 4327 4349	angioplastia con balón
+T68	PROCEDURE 4638 4668	se canaliza vía venosa central
+T69	PROCEDURE 4677 4707	infusión de drogas vasoactivas
+T71	PROCEDURE 4959 4981	desfibrilación a 200 J
+T72	PROCEDURE 4994 5016	intubación orotraqueal
+T74	PROCEDURE 5128 5187	se implanta marcapasos transitorio vía vena femoral derecha
+T76	PROCEDURE 5489 5506	revascularización
+T78	PROCEDURE 5579 5593	ecocardiograma
+T79	PROCEDURE 5919 5928	se extuba
+T80	PROCEDURE 5984 6013	cánulas nasales de bajo flujo
+T81	PROCEDURE 6016 6031	balance hídrico
+T127	PROCEDURE 376 442	intervencionismo coronario percutáneo primario sobre rama diagonal
+T26	PROCEDURE 5290 5355	Se revasculariza oclusión embólica de DA proximal y rama diagonal
+T129	PROCEDURE 3865 3874	Analítica
+T154	PROCEDURE 4886 4934	maniobras de reanimación cardiopulmonar avanzada
+T157	PROCEDURE 5202 5250	perfusión continua de noradrenalina y dobutamina
+T131	PROCEDURE 4112 4208	marcapasos transitorio por vía vena femoral derecha, posicionado en ápex de ventrículo izquierdo
+T132	PROCEDURE 4611 4635	se activa código infarto
+T112	PROCEDURE 5035 5058	marcapasos transcutáneo
+T133	PROCEDURE 5061 5074	sedorrelajado

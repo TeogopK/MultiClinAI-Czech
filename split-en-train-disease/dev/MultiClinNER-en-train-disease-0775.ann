@@ -1,0 +1,29 @@
+T23	DISEASE 68 91	allergic drug reactions
+T24	DISEASE 93 107	Active smoking
+T25	DISEASE 109 123	Morbid obesity
+T26	DISEASE 160 177	Diabetes mellitus
+T28	DISEASE 211 224	Dyslipidaemia
+T29	DISEASE 235 257	chronic kidney disease
+T30	DISEASE 259 290	Chronic ischaemic heart disease
+T1	DISEASE 292 311	three-vessel lesion
+T5	DISEASE 431 509	saphenous bypass to anterior descending artery (LAD), with posterior occlusion
+T6	DISEASE 525 559	Chronic total occlusion of the LAD
+T33	DISEASE 595 643	non-ST-segment elevation acute coronary syndrome
+T7	DISEASE 645 652	NSTEACS
+T41	DISEASE 1256 1295	complex chronic ischaemic heart disease
+T31	DISEASE 1264 1295	chronic ischaemic heart disease
+T11	DISEASE 3026 3081	LMCA with a mild calcified plaque in the distal segment
+T12	DISEASE 3090 3147	Calcified LAD with total occlusion in the middle segment,
+T14	DISEASE 3392 3442	obtuse marginal branch he has a significant lesion
+T44	DISEASE 3546 3636	Dominant DC of good calibre and development with a moderate plaque in the proximal segment
+T17	DISEASE 3781 3813	under-occlusion of the PL branch
+T34	DISEASE 3964 3997	Mild left ventricular hypertrophy
+T35	DISEASE 4059 4073	valvulopathies
+T18	DISEASE 4309 4354	significant lesion was found in the first MVO
+T36	DISEASE 4776 4781	obese
+T38	DISEASE 5123 5130	smoking
+T39	DISEASE 5210 5238	NSTEACS type unstable angina
+T21	DISEASE 5240 5281	Significant lesion of 70% in the first OM
+T40	DISEASE 5403 5467	Chronic total occlusion of the middle anterior descending artery
+T42	DISEASE 5469 5508	Complex chronic ischaemic heart disease
+T43	DISEASE 5564 5588	Type 2 diabetes mellitus

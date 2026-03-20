@@ -1,0 +1,59 @@
+T42	DISEASE 5858 5869	VI dilatado
+T71	DISEASE 197 212	hábitos tóxicos
+T72	DISEASE 838 863	accidente cerebrovascular
+T73	DISEASE 865 868	ACV
+T74	DISEASE 1019 1053	cuadro catarral leve de vías altas
+T75	DISEASE 1352 1376	descompensación cardiaca
+T77	DISEASE 2094 2113	taquicardia sinusal
+T78	DISEASE 2363 2370	ascitis
+T79	DISEASE 2551 2556	gripe
+T80	DISEASE 2799 2802	HVI
+T81	DISEASE 2977 3002	derrame pleural bilateral
+T82	DISEASE 3670 3675	gripe
+T83	DISEASE 3991 4012	lesiones hemorrágicas
+T84	DISEASE 4132 4160	disfunción ventricular grave
+T85	DISEASE 4343 4369	insuficiencia mitral grave
+T86	DISEASE 4635 4674	hipertensión pulmonar de grado moderado
+T87	DISEASE 4693 4712	derrame pericárdico
+T88	DISEASE 5133 5178	infarto lacunar por arteria lenticuloestriada
+T89	DISEASE 5245 5261	infarto subagudo
+T90	DISEASE 5551 5573	infarto cortical agudo
+T91	DISEASE 5604 5665	infarto lacunar en fase subaguda en región talámica izquierda
+T92	DISEASE 5668 5738	microinfartos corticales agudos en corteza frontal posterior izquierda
+T93	DISEASE 6236 6255	Derrame pericárdico
+T94	DISEASE 6401 6433	Disfunción sistólica VI moderada
+T95	DISEASE 7934 7953	derrame pericárdico
+T96	DISEASE 8213 8248	infarto talámico anterior izquierdo
+T97	DISEASE 8795 8816	trastornos cognitivos
+T98	DISEASE 8848 8874	demencia vascular talámica
+T99	DISEASE 8924 8966	insuficiencia cardiaca franca con ortopnea
+T100	DISEASE 8968 8993	derrame pleural bilateral
+T101	DISEASE 9162 9164	IC
+T102	DISEASE 9206 9242	infección respiratoria de vías altas
+T103	DISEASE 9356 9372	edema miocárdico
+T104	DISEASE 10226 10249	Miocardiopatía dilatada
+T105	DISEASE 10307 10324	miocarditis aguda
+T106	DISEASE 10339 10372	Insuficiencia cardiaca congestiva
+T107	DISEASE 10393 10440	ACV talámico izquierdo de origen cardioembólico
+T108	DISEASE 6671 6673	IM
+T109	DISEASE 7877 7879	IM
+T110	DISEASE 4508 4516	IP grave
+T111	DISEASE 4518 4520	IT
+T112	DISEASE 7065 7067	IT
+T113	DISEASE 152 169	Tabaquismo activo
+T114	DISEASE 2862 2875	cardiomegalia
+T115	DISEASE 2372 2385	hepatomegalia
+T116	DISEASE 8995 9008	hepatomegalia
+T117	DISEASE 689 718	infarto subtalámico izquierdo
+T119	DISEASE 4055 4089	ventrículo izquierdo (VI) dilatado
+T121	DISEASE 4573 4600	Vena cava inferior dilatada
+T122	DISEASE 6301 6344	ventrículo izquierdo moderadamente dilatado
+T123	DISEASE 6524 6548	A.I ligeramente dilatada
+T124	DISEASE 6550 6570	VM: velos engrosados
+T125	DISEASE 7636 7668	VI indexado ligeramente dilatado
+T189	DISEASE 10254 10282	disfunción ventricular grave
+#1	AnnotatorNotes T108	 insuficiencia mitral
+#2	AnnotatorNotes T109	 insuficiencia mitral
+#3	AnnotatorNotes T110	 IP insuficiencia pulmonar
+#4	AnnotatorNotes T111	 IT insuficiencia tricuspídea
+#5	AnnotatorNotes T112	 IT insuficiencia tricuspídea

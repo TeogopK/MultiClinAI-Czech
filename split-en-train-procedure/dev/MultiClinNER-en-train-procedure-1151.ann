@@ -1,0 +1,36 @@
+T35	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 256 350	implantation of three paclitaxel-eluting stents in the middle and distal right coronary artery
+T2	PROCEDURE 424 525	two other stents (Luc-Chopin®: 3x12 mm and 2.5x12 mm) to proximal anterior descending (AD) and middle
+T57	PROCEDURE 652 683	percutaneous resvascularisation
+T3	PROCEDURE 703 856	implantation of three everolimus-eluting stents (XIENCE PRIME®), one in the proximal LAD (3x18 mm) and two overlapping stents in the middle and distal DC
+T4	PROCEDURE 936 990	double antiplatelet therapy with aspirin and prasugrel
+T36	PROCEDURE 1076 1096	Physical examination
+T37	PROCEDURE 1260 1280	Cardiac auscultation
+T38	PROCEDURE 1323 1345	Pulmonary auscultation
+T39	PROCEDURE 1560 1563	ECG
+T5	PROCEDURE 1740 1743	CBC
+T56	PROCEDURE 1745 1757	biochemistry
+T41	PROCEDURE 1857 1868	Coagulation
+T6	PROCEDURE 1878 1881	CBC
+T42	PROCEDURE 2078 2089	Chest X-ray
+T43	PROCEDURE 2168 2182	echocardiogram
+T7	PROCEDURE 2421 2458	Urgent catheterisation (right radial)
+T45	PROCEDURE 2790 2811	PCI with thrombectomy
+T8	PROCEDURE 2816 2912	balloon PTCA on mid and distal DC stent thrombosis, and on proximal and mid LAD stent thrombosis
+T9	PROCEDURE 2914 3015	PCI with direct stent implantation of a 2.75 mm diameter, 12 mm long XIENCE PRIME direct coated stent
+T40	PROCEDURE 3100 3103	ECG
+T44	PROCEDURE 3151 3165	echocardiogram
+T46	PROCEDURE 3283 3303	coronary angiography
+T10	PROCEDURE 3339 3423	stents in the proximal LAD and also of stents in the mid and distal DC, thrombectomy
+T11	PROCEDURE 3428 3504	balloon angioplasty were performed on the proximal LAD and mid and distal DC
+T12	PROCEDURE 3506 3546	intracoronary abciximab was administered
+T13	PROCEDURE 3709 3722	implant a DES
+T51	PROCEDURE 3786 3810	hypercoagulability study
+T47	PROCEDURE 4024 4044	coronary angiography
+T52	PROCEDURE 4249 4275	surgical revascularisation
+T14	PROCEDURE 4294 4364	single coronary bypass of the internal mammary artery (IMA) to the LAD
+T55	PROCEDURE 4572 4587	catheterisation
+T50	PROCEDURE 4674 4686	Thrombectomy
+T15	PROCEDURE 4688 4730	PTCA at mid and distal DC and proximal LAD
+T16	PROCEDURE 4732 4827	Implantation of everolimus-coated stent at the level of distal edge restenosis of mid LAD stent
+T17	PROCEDURE 4934 4976	Surgical revascularisation with IMA to LAD

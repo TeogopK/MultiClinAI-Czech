@@ -1,0 +1,20 @@
+T9	DISEASE 100 132	injuries secondary to the trauma
+T39	DISEASE 164 184	physical examination
+T23	DISEASE 213 236	allergic to penicillins
+T24	DISEASE 265 272	obesity
+T25	DISEASE 274 286	hypertension
+T27	DISEASE 291 304	dyslipidaemia
+T8	DISEASE 591 631	without injuries secondary to the trauma
+T7	DISEASE 994 1026	self-limited tonic-clonic crises
+T28	DISEASE 2490 2510	mitral insufficiency
+T29	DISEASE 2512 2537	Mild aortic insufficiency
+T30	DISEASE 2542 2573	moderate pulmonary hypertension
+T4	DISEASE 2578 2635	dynamic obstruction of the left ventricular outflow tract
+T31	DISEASE 2640 2660	pericardial effusion
+T38	DISEASE 2662 2688	Dilated inferior vena cava
+T32	DISEASE 2750 2767	cardiogenic shock
+T34	DISEASE 3050 3080	severe ventricular dysfunction
+T35	DISEASE 3093 3103	Tako-tsubo
+T3	DISEASE 3318 3382	hypoxaemic respiratory failure related to acute pulmonary oedema
+T37	DISEASE 3878 3897	Tako-tsubo syndrome
+T33	DISEASE 3913 3930	cardiogenic shock

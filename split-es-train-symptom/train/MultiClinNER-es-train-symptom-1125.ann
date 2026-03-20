@@ -1,0 +1,48 @@
+T1	SYMPTOM 56 69	disnea súbita
+T2	SYMPTOM 214 227	disnea súbita
+T3	SYMPTOM 1172 1185	disnea súbita
+T4	SYMPTOM 1244 1258	dolor torácico
+T5	SYMPTOM 1271 1277	vómito
+T6	SYMPTOM 1310 1316	disnea
+T7	SYMPTOM 1324 1330	fiebre
+T9	SYMPTOM 1501 1516	disnea nocturna
+T12	SYMPTOM 1649 1660	taquipneica
+T13	SYMPTOM 1662 1670	sudorosa
+T14	SYMPTOM 1672 1679	afebril
+T15	SYMPTOM 1697 1715	tiraje intercostal
+T16	SYMPTOM 1717 1741	intolerancia al decúbito
+T17	SYMPTOM 1747 1768	ingurgitación yugular
+T18	SYMPTOM 1774 1791	soplos carotideos
+T19	SYMPTOM 1809 1815	soplos
+T20	SYMPTOM 1821 1850	Murmullo vesicular conservado
+T21	SYMPTOM 1852 1863	sibilancias
+T22	SYMPTOM 1875 1896	crepitantes bibasales
+T23	SYMPTOM 2230 2248	Coagulación normal
+T25	SYMPTOM 2520 2533	Ritmo sinusal
+T26	SYMPTOM 2553 2563	Q inferior
+T27	SYMPTOM 2593 2602	PR normal
+T28	SYMPTOM 2604 2616	QRS estrecho
+T30	SYMPTOM 2693 2725	redistribución vascular pulmonar
+T31	SYMPTOM 2773 2803	redistribución vascular apical
+T36	SYMPTOM 3441 3457	TAPSE disminuido
+T38	SYMPTOM 3577 3594	Pericardio normal
+T39	SYMPTOM 3845 3863	D-dímeros elevados
+T41	SYMPTOM 4376 4392	disnea de reposo
+T42	SYMPTOM 4532 4583	serología de Trypanosoma cruzi que resulta positiva
+T116	SYMPTOM 1793 1804	AC: Rítmico
+T125	SYMPTOM 1400 1418	disnea de esfuerzo
+T113	SYMPTOM 621 635	FEVI deprimida
+T10	SYMPTOM 3138 3180	acinesia de todos los segmentos anteriores
+T11	SYMPTOM 3284 3317	Patrón mitral de tipo restrictivo
+T24	SYMPTOM 4641 4698	Trypanosoma cruzi en sangre total siendo también positivo
+T131	SYMPTOM 3407 3435	Cavidades derechas dilatadas
+T143	SYMPTOM 3596 3626	Vena cava inferior no dilatada
+T144	SYMPTOM 2315 2323	acidosis
+T146	SYMPTOM 1641 1647	alerta
+T147	SYMPTOM 3493 3531	alteraciones valvulares significativas
+T149	SYMPTOM 1630 1639	despierta
+T150	SYMPTOM 3991 4026	estable clínica y hemodinámicamente
+T163	SYMPTOM 2933 2962	patrón intersticial bilateral
+T29	SYMPTOM 2566 2574	QS V3-V6
+T32	SYMPTOM 2580 2591	T negativas
+T34	SYMPTOM 3459 3476	Aorta no dilatada

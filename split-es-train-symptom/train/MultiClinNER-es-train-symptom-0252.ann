@@ -1,0 +1,17 @@
+T1	SYMPTOM 1118 1143	edema en miembro inferior
+T2	SYMPTOM 1154 1183	deterioro de la función renal
+T3	SYMPTOM 1189 1215	disminución de la diuresis
+T4	SYMPTOM 1218 1271	elevación de la concentración de creatinina en plasma
+T5	SYMPTOM 1571 1602	compresión de los vasos ilíacos
+T6	SYMPTOM 1605 1631	deplazamiento de la vejiga
+T7	SYMPTOM 2122 2142	función renal normal
+T8	SYMPTOM 1299 1318	buen estado general
+T9	SYMPTOM 1340 1346	fiebre
+T10	SYMPTOM 1410 1432	colección peri-injerto
+T11	SYMPTOM 2145 2157	asintomática
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	IMAGEN T5
+A4	IMAGEN T6
+A5	RESULTADO T7
+A6	IMAGEN T10

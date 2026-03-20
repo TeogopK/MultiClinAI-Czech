@@ -1,0 +1,15 @@
+T1	SYMPTOM 98 103	fever
+T2	SYMPTOM 158 164	chills
+T3	SYMPTOM 166 174	sweating
+T4	SYMPTOM 176 184	asthenia
+T5	SYMPTOM 189 197	anorexia
+T6	SYMPTOM 267 296	rhythmic cardiac auscultation
+T10	SYMPTOM 314 340	multifocal systolic murmur
+T11	SYMPTOM 424 456	white and platelet series normal
+T7	SYMPTOM 477 499	Chest X-ray was normal
+T12	SYMPTOM 858 923	bacterial growth was detected in 3 of the 4 blood culture bottles
+T13	SYMPTOM 928 981	microorganisms were observed in the direct Gram stain
+T8	SYMPTOM 1657 1701	Serological tests for Brucella were negative
+T9	SYMPTOM 1773 1789	febrile episodes
+T14	SYMPTOM 1975 2016	rough colonies with a stellate appearance
+T15	SYMPTOM 2653 2717	late growth of gram-negative microorganisms in the blood culture

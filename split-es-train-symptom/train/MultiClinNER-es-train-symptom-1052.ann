@@ -1,0 +1,23 @@
+T1	SYMPTOM 200 206	disnea
+T2	SYMPTOM 248 254	fiebre
+T4	SYMPTOM 462 487	hemodinámicamente estable
+T5	SYMPTOM 501 523	regular estado general
+T6	SYMPTOM 682 721	crepitantes bilaterales en ambos campos
+T7	SYMPTOM 731 776	auscultación cardíaca dentro de la normalidad
+T8	SYMPTOM 783 812	edemas en miembros inferiores
+T9	SYMPTOM 990 1003	ritmo sinusal
+T10	SYMPTOM 1014 1023	PR normal
+T11	SYMPTOM 1025 1037	QRS estrecho
+T12	SYMPTOM 1051 1092	alteraciones difusas de la repolarización
+T13	SYMPTOM 1094 1132	T aplanadas en cara inferior y lateral
+T14	SYMPTOM 1189 1210	infiltrado periférico
+T15	SYMPTOM 1465 1485	alteraciones iónicas
+T16	SYMPTOM 1507 1537	leve elevación de trasaminasas
+T17	SYMPTOM 1736 1777	PCR nasofaríngea para SARS-CoV2: positiva
+T18	SYMPTOM 2298 2340	elevación de marcadores de daño miocárdico
+T19	SYMPTOM 2483 2557	ventrículo izquierdo no dilatado, levemente hipertrófico, con hipoquinesia
+T20	SYMPTOM 2628 2677	ventrículo derecho no dilatado y normofuncionante
+T21	SYMPTOM 2772 2814	elevación de marcadores de daño miocárdico
+T67	SYMPTOM 3113 3155	elevación de marcadores de daño miocárdico
+T34	SYMPTOM 2612 2623	FEVI normal
+T78	SYMPTOM 1039 1049	eje normal

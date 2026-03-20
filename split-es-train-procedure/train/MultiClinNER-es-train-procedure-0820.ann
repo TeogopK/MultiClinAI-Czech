@@ -1,0 +1,34 @@
+T62	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 1244 1262	Exploración física
+T64	PROCEDURE 1556 1577	Auscultación cardiaca
+T65	PROCEDURE 1608 1633	Auscultación respiratoria
+T66	PROCEDURE 1886 1909	Exploración neurológica
+T67	PROCEDURE 2026 2055	Campimetría por confrontación
+T68	PROCEDURE 2515 2533	Electrocardiograma
+T69	PROCEDURE 2641 2660	Analítica sanguínea
+T70	PROCEDURE 2662 2671	Hemograma
+T71	PROCEDURE 2891 2902	Coagulación
+T72	PROCEDURE 3258 3304	Radiografía de tórax posteroanterior y lateral
+T73	PROCEDURE 3557 3583	TC de cráneo sin contraste
+T74	PROCEDURE 3618 3637	TC craneal en vacío
+T75	PROCEDURE 4046 4109	Angio-TC cerebral de troncos supraaórticos y polígono de Willis
+T76	PROCEDURE 4491 4525	Resonancia magnética (RM) cerebral
+T77	PROCEDURE 4594 4615	administración de CIV
+T78	PROCEDURE 5009 5029	exploración vascular
+T79	PROCEDURE 5143 5149	Holter
+T80	PROCEDURE 5557 5586	Ecocardiografía transtorácica
+T81	PROCEDURE 6090 6120	Ecocardiografía transesofágica
+T82	PROCEDURE 6122 6148	exploración transesofágica
+T83	PROCEDURE 6181 6189	sedación
+T84	PROCEDURE 6638 6663	exploración transtorácica
+T85	PROCEDURE 7043 7072	resonancia magnética cerebral
+T86	PROCEDURE 7351 7386	monitorización electrocardiográfica
+T87	PROCEDURE 7396 7402	Holter
+T88	PROCEDURE 7479 7525	ecocardiografía transtorácica y transesofágica
+T91	PROCEDURE 7896 7915	resección del tumor
+T92	PROCEDURE 7934 7953	reparación valvular
+T129	PROCEDURE 3017 3027	Bioquímica
+T159	PROCEDURE 2234 2246	se auscultan
+T131	PROCEDURE 6568 6600	administrar suero salino agitado
+T128	PROCEDURE 3586 3603	angio-TC cerebral
+T137	PROCEDURE 4517 4536	cerebral y angio-RM

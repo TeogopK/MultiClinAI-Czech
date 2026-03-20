@@ -1,0 +1,61 @@
+T1	DISEASE 266 273	fumador
+T24	DISEASE 96 112	diabético tipo 2
+T25	DISEASE 202 235	insuficiencia cardiaca congestiva
+T26	DISEASE 237 240	ICC
+T27	DISEASE 344 353	sobrepeso
+T28	DISEASE 379 398	síndrome metabólico
+T29	DISEASE 405 415	hipertenso
+T30	DISEASE 418 438	hipercolesterolémico
+T31	DISEASE 592 621	infarto de miocardio inferior
+T32	DISEASE 800 817	colitis isquémica
+T33	DISEASE 824 839	úlcera gástrica
+T34	DISEASE 916 944	infarto sin elevación del ST
+T35	DISEASE 972 987	sangrado rectal
+T36	DISEASE 1052 1099	enfermedad arterial coronaria severa de 3 vasos
+T37	DISEASE 1101 1133	oclusión de descendente anterior
+T38	DISEASE 1149 1215	lesión severa de circunfleja proximal y de primera obtusa marginal
+T39	DISEASE 1261 1290	oclusión de coronaria derecha
+T40	DISEASE 1817 1820	ICC
+T41	DISEASE 2107 2135	descompensación de ICC grave
+T42	DISEASE 2152 2186	edema agudo de pulmón hipertensivo
+T43	DISEASE 2466 2487	fibrilación auricular
+T44	DISEASE 2918 2970	disfunción sistólica moderada del ventrículo derecho
+T45	DISEASE 3709 3734	descompensaciones por ICC
+T46	DISEASE 3774 3793	síndrome metabólico
+T47	DISEASE 4058 4078	cardiomegalia global
+T48	DISEASE 4158 4173	derrame cisural
+T49	DISEASE 4219 4240	fibrilación auricular
+T50	DISEASE 4568 4577	aneurisma
+T51	DISEASE 5011 5031	Insuficiencia ligera
+T52	DISEASE 5104 5124	Insuficiencia ligera
+T53	DISEASE 5322 5341	derrame pericárdico
+T54	DISEASE 5481 5519	Descendente anterior: oclusión crónica
+T55	DISEASE 6317 6406	enfermedad coronaria severa de 3 vasos (oclusión crónica de DA y CD), lesión severa de Cx
+T56	DISEASE 7335 7381	miocardiopatía dilatada de etiología isquémica
+T57	DISEASE 7891 7894	ICC
+T58	DISEASE 8517 8547	Insuficiencia cardiaca crónica
+T59	DISEASE 8609 8683	Cardiopatía isquémica crónica con enfermedad arterial coronaria de 3 vasos
+T60	DISEASE 8727 8762	Infarto crónico inferior y anterior
+T61	DISEASE 8948 8965	Diabetes mellitus
+T62	DISEASE 9013 9034	Hipertensión arterial
+T63	DISEASE 9036 9046	Dislipemia
+T64	DISEASE 9062 9081	Síndrome metabólico
+T65	DISEASE 7579 7631	Disfunción sistólica moderada del ventrículo derecho
+T66	DISEASE 9048 9060	Extabaquismo
+T67	DISEASE 8888 8920	Fibrilación auricular permanente
+T68	DISEASE 5033 5060	Válvula aórtica esclerosada
+T69	DISEASE 712 744	fibrilación auricular permanente
+T70	DISEASE 1223 1249	lesión severa de bisectriz
+T71	DISEASE 4360 4403	ventrículo izquierdo moderadamente dilatado
+T72	DISEASE 4695 4734	Aurícula izquierda ligeramente dilatada
+T73	DISEASE 4736 4773	Aurícula derecha ligeramente dilatada
+T74	DISEASE 4775 4814	Ventrículo derecho severamente dilatado
+T75	DISEASE 4901 4964	Válvula mitral con calcio en anillo, engrosamiento de los velos
+T76	DISEASE 5254 5281	Vena cava inferior dilatada
+T77	DISEASE 6475 6516	ventrículo izquierdo severamente dilatado
+T78	DISEASE 7057 7098	Aurícula izquierda moderadamente dilatada
+T79	DISEASE 7130 7167	Aurícula derecha ligeramente dilatada
+T135	DISEASE 6086 6112	ateromatosis ligera difusa
+T3	DISEASE 5343 5359	Grasa epicárdica
+T12	DISEASE 5865 5883	lesión calcificada
+T14	DISEASE 6020 6049	enfermedad severa calcificada

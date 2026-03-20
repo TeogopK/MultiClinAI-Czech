@@ -1,0 +1,15 @@
+T1	PROCEDURE 213 241	refraction under cycloplegia
+T2	PROCEDURE 256 285	ophthalmological examinations
+T3	PROCEDURE 333 357	visual evoked potentials
+T12	PROCEDURE 359 362	VEP
+T4	PROCEDURE 365 382	electroretinogram
+T5	PROCEDURE 384 387	ERG
+T6	PROCEDURE 390 412	angiofluoresceingraphy
+T7	PROCEDURE 414 417	AFG
+T8	PROCEDURE 420 449	computerised axial tomography
+T13	PROCEDURE 451 454	CAT
+T9	PROCEDURE 457 483	magnetic resonance imaging
+T15	PROCEDURE 485 488	MRI
+T10	PROCEDURE 856 864	crutches
+T11	PROCEDURE 898 917	lens confusion test
+T14	PROCEDURE 1017 1029	Monocular VA

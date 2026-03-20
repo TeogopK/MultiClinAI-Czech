@@ -1,0 +1,41 @@
+T1	SYMPTOM 156 169	epigastralgia
+T2	SYMPTOM 171 179	anorexia
+T3	SYMPTOM 181 196	pérdida de peso
+T4	SYMPTOM 199 206	astenia
+T5	SYMPTOM 242 278	edematización de miembros inferiores
+T6	SYMPTOM 283 289	fiebre
+T7	SYMPTOM 322 336	dolor torácico
+T8	SYMPTOM 444 450	fatiga
+T9	SYMPTOM 500 507	náuseas
+T10	SYMPTOM 512 527	dolor abdominal
+T11	SYMPTOM 647 669	Regular estado general
+T12	SYMPTOM 671 682	taquipnéico
+T13	SYMPTOM 684 691	afebril
+T14	SYMPTOM 693 702	hidratado
+T15	SYMPTOM 704 742	Neurológico: sin hallazgos patológicos
+T16	SYMPTOM 766 790	tonos cardiacos rítmicos
+T17	SYMPTOM 792 828	soplo sistólico II/VI en foco mitral
+T18	SYMPTOM 830 851	Crepitantes bibasales
+T19	SYMPTOM 853 883	Reflujo hepatoyugular positivo
+T20	SYMPTOM 894 907	hepatomegalia
+T21	SYMPTOM 940 971	Dolor a palpación en epigastrio
+T22	SYMPTOM 987 1028	pulsos periféricos presentes y simétricos
+T23	SYMPTOM 1038 1057	edemas bimaleolares
+T24	SYMPTOM 1315 1334	taquicardia sinusal
+T25	SYMPTOM 1346 1355	PR normal
+T26	SYMPTOM 1373 1405	onda T invertida en cara lateral
+T28	SYMPTOM 1490 1529	Función sistólica severamente deprimida
+T32	SYMPTOM 2098 2138	función sistólica severamente disminuida
+T33	SYMPTOM 2385 2433	depresión muy severa de la función biventricular
+T34	SYMPTOM 3145 3167	deterioro hemodinámico
+T35	SYMPTOM 3231 3249	aumento de lactato
+T37	SYMPTOM 3872 3891	buena función de VI
+T38	SYMPTOM 3905 3933	TAPSE ligeramente disminuido
+T40	SYMPTOM 4062 4074	asintomático
+T76	SYMPTOM 1964 2010	depresión muy severa de la función ventricular
+T88	SYMPTOM 4411 4459	depresión muy severa de la función biventricular
+T73	SYMPTOM 1544 1562	hipocinesia global
+T103	SYMPTOM 1608 1632	Válvula aórtica trivalva
+T77	SYMPTOM 2163 2168	edema
+T96	SYMPTOM 1356 1368	QRS estrecho
+T98	SYMPTOM 1876 1960	ventrículo izquierdo dilatado (VTDVI 139 ml/m2) con grosor de sus paredes disminuido

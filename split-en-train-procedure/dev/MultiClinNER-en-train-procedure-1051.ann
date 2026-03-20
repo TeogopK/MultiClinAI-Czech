@@ -1,0 +1,25 @@
+T71	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T64	PROCEDURE 235 255	coronary angiography
+T66	PROCEDURE 459 473	echocardiogram
+T69	PROCEDURE 1527 1544	electrocardiogram
+T72	PROCEDURE 1632 1652	Physical examination
+T73	PROCEDURE 1922 1950	Cardiopulmonary auscultation
+T3	PROCEDURE 2090 2102	Blood tests:
+T81	PROCEDURE 2103 2115	Biochemistry
+T83	PROCEDURE 2523 2534	Haematology
+T74	PROCEDURE 2925 2936	Haemostasis
+T70	PROCEDURE 3074 3091	Electrocardiogram
+T75	PROCEDURE 3093 3096	ECG
+T4	PROCEDURE 3312 3323	Chest X-ray
+T76	PROCEDURE 3419 3434	Echocardioscopy
+T82	PROCEDURE 3691 3705	colour Doppler
+T67	PROCEDURE 3707 3735	Transthoracic echocardiogram
+T78	PROCEDURE 4128 4151	Cardiac catheterisation
+T79	PROCEDURE 4562 4573	Cardiac MRI
+T7	PROCEDURE 5465 5480	enzyme serology
+T77	PROCEDURE 5597 5612	echocardioscopy
+T84	PROCEDURE 5697 5725	markers of myocardial damage
+T65	PROCEDURE 5937 5957	coronary angiography
+T68	PROCEDURE 6252 6280	transthoracic echocardiogram
+T9	PROCEDURE 6336 6362	cardiac magnetic resonance
+T80	PROCEDURE 6659 6668	telemetry

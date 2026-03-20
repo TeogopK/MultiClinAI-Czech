@@ -1,0 +1,23 @@
+T68	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T46	PROCEDURE 379 388	haemogram
+T47	PROCEDURE 1171 1184	Genetic study
+T48	PROCEDURE 1246 1260	Echocardiogram
+T51	PROCEDURE 1305 1308	ECG
+T52	PROCEDURE 1429 1449	Abdominal ultrasound
+T53	PROCEDURE 1488 1499	Thoracic CT
+T54	PROCEDURE 1532 1566	Cardiac magnetic resonance imaging
+T65	PROCEDURE 1540 1566	magnetic resonance imaging
+T59	PROCEDURE 1549 1558	resonance
+T55	PROCEDURE 1799 1833	Cardiac magnetic resonance imaging
+T66	PROCEDURE 1807 1833	magnetic resonance imaging
+T60	PROCEDURE 1816 1825	resonance
+T56	PROCEDURE 2196 2230	Cardiac magnetic resonance imaging
+T67	PROCEDURE 2204 2230	magnetic resonance imaging
+T61	PROCEDURE 2213 2222	resonance
+T57	PROCEDURE 3064 3075	Cardiac MRI
+T58	PROCEDURE 3195 3206	cardiac MRI
+T49	PROCEDURE 3653 3669	Echocardiography
+T62	PROCEDURE 3779 3794	anticoagulation
+T63	PROCEDURE 4297 4312	anticoagulation
+T50	PROCEDURE 4379 4395	echocardiography
+T64	PROCEDURE 4504 4519	anticoagulation

@@ -1,0 +1,60 @@
+T39	DISEASE 8023 8065	Función de VI límite-ligeramente deprimida
+T40	DISEASE 173 201	insuficiencia cardiaca aguda
+T41	DISEASE 281 309	insuficiencia aórtica severa
+T42	DISEASE 439 454	hábitos tóxicos
+T43	DISEASE 456 459	HTA
+T44	DISEASE 461 471	Dislipemia
+T45	DISEASE 474 489	Diabetes tipo 2
+T46	DISEASE 506 546	Valvulopatía aórtica esclerodegenerativa
+T47	DISEASE 549 576	enfermedad del tronco común
+T48	DISEASE 950 991	Calcificación severa de la válvula mitral
+T49	DISEASE 1022 1056	Insuficiencia mitral leve-moderada
+T50	DISEASE 1182 1203	Normotensión pulmonar
+T51	DISEASE 2374 2399	trombosis venosa profunda
+T52	DISEASE 2517 2522	BRIHH
+T53	DISEASE 2703 2718	edema de pulmón
+T54	DISEASE 3209 3254	Calcificación anular severa de válvula mitral
+T55	DISEASE 3413 3441	insuficiencia aórtica severa
+T56	DISEASE 3583 3592	HP severa
+T57	DISEASE 3833 3865	insuficiencia aórtica muy severa
+T58	DISEASE 3867 3901	Calcificación anular mitral severa
+T59	DISEASE 3946 4002	Insuficiencia tricuspídea moderada por dilatación anular
+T60	DISEASE 4012 4040	Hipertensión pulmonar severa
+T61	DISEASE 4140 4174	tronco común: lesión severa ostial
+T62	DISEASE 4759 4814	calcificación excéntrica focal en arteria femoral común
+T63	DISEASE 4987 5008	edema agudo de pulmón
+T64	DISEASE 5040 5068	insuficiencia aórtica severa
+T65	DISEASE 5182 5204	insuficiencia cardiaca
+T66	DISEASE 5351 5400	rotura de uno de los velos de la prótesis aórtica
+T67	DISEASE 5420 5452	insuficiencia aórtica muy severa
+T68	DISEASE 5492 5504	valvulopatía
+T69	DISEASE 6557 6578	regurgitación aórtica
+T70	DISEASE 7035 7054	fracaso renal agudo
+T71	DISEASE 7217 7222	BRIHH
+T72	DISEASE 7549 7575	estenosis aórtica moderada
+T73	DISEASE 7609 7630	insuficiencia aórtica
+T74	DISEASE 7800 7861	Insuficiencia cardiaca aguda por insuficiencia aórtica severa
+T75	DISEASE 7894 7933	insuficiencia severa por rotura de velo
+T76	DISEASE 8067 8086	Fracaso renal agudo
+T77	DISEASE 3284 3295	IM moderada
+T78	DISEASE 2624 2637	cardiomegalia
+T79	DISEASE 3511 3561	VD moderadamente dilatado con disfunción sistólica
+T80	DISEASE 7652 7701	accesos femorales arteriales, con leves hematomas
+T81	DISEASE 3120 3169	VI no dilatado con hipertrofia concéntrica severa
+T82	DISEASE 846 895	VI no dilatado con hipertrofia concéntrica severa
+T83	DISEASE 3570 3581	IT moderada
+T84	DISEASE 4042 4121	Ventrículo derecho levemente dilatado, con disfunción sistólica global moderada
+T85	DISEASE 7284 7302	eventos arrítmicos
+T131	DISEASE 235 302	rotura de uno de los velos de la prótesis con insuficiencia aórtica
+T132	DISEASE 1058 1136	Prótesis biológica Carpentier Perimount 21 con velos calcificados, degenerados
+T93	DISEASE 2052 2082	cicatriz de esternotomía media
+T22	DISEASE 2426 2450	Cicatriz de safenectomia
+T27	DISEASE 3625 3679	prótesis aórtica biológica Perimount 21 disfuncionante
+T30	DISEASE 5073 5132	rotura de uno de los velos de la prótesis aórtica biológica
+T149	DISEASE 3305 3359	Prótesis aórtica biológica Perimount 21 disfuncionante
+T38	DISEASE 390 423	Intolerancia a calcioantagonistas
+T138	DISEASE 3483 3509	rotura de uno de los velos
+T140	DISEASE 3907 3936	insuficiencia mitral moderada
+T144	DISEASE 4466 4542	aorta torácica de calibre y morfología normal con leves cambios ateromatosos
+T145	DISEASE 4544 4641	Aorta abdominal e ilíacas de calibre y morfología normal con leves-moderados cambios ateromatosos
+#1	AnnotatorNotes T83	 IT = insuficiencia tricuspídea

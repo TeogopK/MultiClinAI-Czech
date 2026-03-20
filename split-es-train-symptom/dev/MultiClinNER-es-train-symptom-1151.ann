@@ -1,0 +1,39 @@
+T1	SYMPTOM 551 567	clínica anginosa
+T2	SYMPTOM 898 910	asintomático
+T3	SYMPTOM 1037 1051	dolor torácico
+T4	SYMPTOM 1126 1145	Palidez mucocutánea
+T5	SYMPTOM 1147 1162	Normoperfundido
+T6	SYMPTOM 1165 1179	normohidratado
+T7	SYMPTOM 1241 1248	Afebril
+T8	SYMPTOM 1250 1271	Ingurgitación yugular
+T9	SYMPTOM 1279 1309	Auscultación cardiaca: rítmica
+T10	SYMPTOM 1315 1321	soplos
+T11	SYMPTOM 1325 1330	roces
+T12	SYMPTOM 1355 1384	murmullo vesicular disminuido
+T13	SYMPTOM 1390 1421	crepitantes hasta campos medios
+T14	SYMPTOM 1423 1446	sibilantes espiratorios
+T15	SYMPTOM 1449 1455	roncus
+T16	SYMPTOM 1457 1473	Abdomen: anodino
+T17	SYMPTOM 1475 1509	Extremidades inferiores: no edemas
+T18	SYMPTOM 1511 1560	Pulsos positivos y simétricos a todos los niveles
+T19	SYMPTOM 1603 1616	ritmo sinusal
+T20	SYMPTOM 1618 1627	PR normal
+T21	SYMPTOM 1644 1697	ST ascendido 4 mm V3-V4, 1-2 mm inferior y 1 mm en V5
+T22	SYMPTOM 1699 1724	ST infradesnivelado en V6
+T23	SYMPTOM 2109 2144	Radiografía de tórax: ICT aumentado
+T24	SYMPTOM 2162 2199	Hilios prominentes con redistribución
+T25	SYMPTOM 2225 2239	VI no dilatado
+T26	SYMPTOM 2253 2279	FEVI severamente deprimida
+T27	SYMPTOM 2347 2400	Hipoquinesia de segmentos basales y medios anteriores
+T28	SYMPTOM 2402 2415	CCDD normales
+T29	SYMPTOM 2447 2461	Raíz Ao normal
+T30	SYMPTOM 3179 3213	ascenso del ST anterior e inferior
+T31	SYMPTOM 3240 3294	aquinesia de segmentos inferiores, apicales y septales
+T32	SYMPTOM 4491 4499	falleció
+T118	SYMPTOM 5028 5034	Éxitus
+T108	SYMPTOM 1735 1749	T picuda V3-V4
+T109	SYMPTOM 2291 2345	Aquinesia de segmentos inferiores, apicales y septales
+T121	SYMPTOM 1882 1901	Coagulación: normal
+T126	SYMPTOM 1121 1124	REG
+T111	SYMPTOM 2767 2795	Coronaria derecha: dominante
+T114	SYMPTOM 3861 3908	estudio de hipercoagulabilidad que fue negativo

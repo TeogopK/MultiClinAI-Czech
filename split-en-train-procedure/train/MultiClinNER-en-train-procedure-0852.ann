@@ -1,0 +1,33 @@
+T34	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T35	PROCEDURE 214 227	genetic study
+T1	PROCEDURE 515 523	ablation
+T36	PROCEDURE 823 839	echocardiography
+T37	PROCEDURE 948 969	heart transplantation
+T51	PROCEDURE 1203 1220	inotropic support
+T3	PROCEDURE 1254 1295	implant a balloon counterpulsation device
+T4	PROCEDURE 1323 1341	cardiac transplant
+T2	PROCEDURE 1369 1424	heart transplantation was performed by bicave technique
+T39	PROCEDURE 1545 1565	haemodynamic support
+T40	PROCEDURE 1588 1598	extubation
+T41	PROCEDURE 1968 1985	Immunosuppression
+T42	PROCEDURE 2099 2113	corticotherapy
+T44	PROCEDURE 2444 2452	biopsies
+T45	PROCEDURE 2469 2484	echocardiograms
+T46	PROCEDURE 2702 2723	endomyocardial biopsy
+T48	PROCEDURE 3165 3180	benzodiazepines
+T5	PROCEDURE 3188 3263	diazepam), as well as levetiracetam 1,000 mg in perfusion, both intravenous
+T6	PROCEDURE 3801 3812	Blood tests
+T49	PROCEDURE 3906 3917	Coagulation
+T52	PROCEDURE 3962 3974	Biochemistry
+T53	PROCEDURE 4029 4043	Renal function
+T54	PROCEDURE 4103 4107	Ions
+T7	PROCEDURE 4172 4190	Venous blood gases
+T50	PROCEDURE 4272 4282	Cranial CT
+T8	PROCEDURE 4461 4470	Brain MRI
+T9	PROCEDURE 5065 5067	CT
+T10	PROCEDURE 5072 5075	MRI
+T43	PROCEDURE 5517 5531	corticotherapy
+T11	PROCEDURE 5585 5607	calcineurin inhibitors
+T47	PROCEDURE 5704 5725	endomyocardial biopsy
+T12	PROCEDURE 5928 5931	MRI
+T13	PROCEDURE 6185 6212	orthotopic heart transplant

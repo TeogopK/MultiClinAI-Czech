@@ -1,0 +1,15 @@
+T5	PROCEDURE 361 383	mechanical ventilation
+T12	PROCEDURE 449 479	primary suturing of the wounds
+T4	PROCEDURE 816 836	physical examination
+T11	PROCEDURE 938 947	palpation
+T10	PROCEDURE 964 976	Auscultation
+T1	PROCEDURE 1050 1068	parotid ultrasound
+T21	PROCEDURE 1174 1230	cervicofacial and cervical computed tomography (CT) scan
+T13	PROCEDURE 1222 1224	CT
+T2	PROCEDURE 1658 1669	angiography
+T6	PROCEDURE 2033 2045	embolisation
+T7	PROCEDURE 2050 2103	microcatheterisation of the internal maxillary artery
+T14	PROCEDURE 2108 2147	occlusion with a 3 × 8 mm platinum coil
+T8	PROCEDURE 2168 2188	angiographic control
+T9	PROCEDURE 2196 2247	late retrograde filling from the left facial artery
+T3	PROCEDURE 2339 2347	Angio-CT

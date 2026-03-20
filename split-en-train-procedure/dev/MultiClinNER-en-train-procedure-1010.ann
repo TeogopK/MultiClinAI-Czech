@@ -1,0 +1,30 @@
+T59	PROCEDURE 132 152	PHYSICAL EXAMINATION
+T55	PROCEDURE 384 400	vascular surgery
+T56	PROCEDURE 402 424	Surgical interventions
+T4	PROCEDURE 426 456	ascending aorta endoprosthesis
+T57	PROCEDURE 512 542	left carotid-subclavian bypass
+T5	PROCEDURE 547 583	occlusion of left subclavian artery.
+T6	PROCEDURE 584 650	He underwent an infrarenal aorto-bi-iliac abdominal endoprosthesis
+T58	PROCEDURE 997 1006	Anamnesis
+T60	PROCEDURE 1598 1618	PHYSICAL EXAMINATION
+T61	PROCEDURE 1747 1767	Cardiac auscultation
+T62	PROCEDURE 1808 1830	Pulmonary auscultation
+T76	PROCEDURE 2074 2077	NRL
+T75	PROCEDURE 2180 2189	ANALYTICS
+T74	PROCEDURE 2196 2208	biochemistry
+T8	PROCEDURE 2363 2379	Full blood count
+T63	PROCEDURE 2471 2482	Coagulation
+T64	PROCEDURE 2501 2518	ELECTROCARDIOGRAM
+T65	PROCEDURE 2520 2523	ECG
+T9	PROCEDURE 2602 2617	Chest X-ray P-A
+T66	PROCEDURE 2718 2728	Cranial CT
+T67	PROCEDURE 2920 2934	ECHOcardiogram
+T70	PROCEDURE 3207 3264	Thoracic ANGIO-CT (emergency): performed without contrast
+T71	PROCEDURE 3965 3973	ANGIO-CT
+T68	PROCEDURE 4931 5013	Thoracic ARTERIOGRAPHY (day 2 of admission): performed via the right humeral route
+T69	PROCEDURE 5602 5628	antihypertensive treatment
+T13	PROCEDURE 5630 5676	transfusion of two red blood cell concentrates
+T14	PROCEDURE 5681 5694	serum therapy
+T15	PROCEDURE 5812 5826	CT angiography
+T73	PROCEDURE 6068 6090	thoracic arteriography
+T16	PROCEDURE 6554 6614	treatment was prescribed with beta-blockers and vasodilators

@@ -1,0 +1,17 @@
+T5	PROCEDURE 667 687	Physical examination
+T7	PROCEDURE 852 876	neurological examination
+T1	PROCEDURE 1120 1140	electroencephalogram
+T2	PROCEDURE 1142 1145	EEG
+T12	PROCEDURE 1151 1193	brain tomography (CT) with iodine contrast
+T13	PROCEDURE 1169 1171	CT
+T17	PROCEDURE 1281 1293	Urine toxins
+T3	PROCEDURE 1309 1324	Lumbar puncture
+T8	PROCEDURE 1364 1376	biochemistry
+T20	PROCEDURE 1381 1389	cultures
+T21	PROCEDURE 1447 1455	Serology
+T4	PROCEDURE 2169 2189	abdominal ultrasound
+T24	PROCEDURE 2232 2250	simple chest X-ray
+T6	PROCEDURE 2294 2305	thoracic CT
+T10	PROCEDURE 2396 2403	surgery
+T9	PROCEDURE 2476 2504	24-hour urine catecholamines
+T11	PROCEDURE 2677 2684	surgery

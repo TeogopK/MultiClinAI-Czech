@@ -1,0 +1,39 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 314 328	echocardiogram
+T56	PROCEDURE 882 902	Physical examination
+T65	PROCEDURE 1218 1239	acute phase reactants
+T93	PROCEDURE 1323 1337	renal function
+T66	PROCEDURE 1389 1397	ionogram
+T67	PROCEDURE 1399 1410	Chest X-ray
+T69	PROCEDURE 1541 1544	ECG
+T71	PROCEDURE 1773 1791	Diuretic treatment
+T68	PROCEDURE 1850 1861	Chest X-ray
+T70	PROCEDURE 1990 1993	ECG
+T58	PROCEDURE 2058 2072	Echocardiogram
+T72	PROCEDURE 2578 2608	Transesophageal echocardiogram
+T59	PROCEDURE 2594 2608	echocardiogram
+T75	PROCEDURE 2787 2807	Coronary angiography
+T60	PROCEDURE 3122 3136	Echocardiogram
+T77	PROCEDURE 3302 3313	Fluoroscopy
+T78	PROCEDURE 3525 3560	non-invasive mechanical ventilation
+T82	PROCEDURE 3529 3560	invasive mechanical ventilation
+T89	PROCEDURE 3538 3560	mechanical ventilation
+T85	PROCEDURE 3565 3582	inotropic support
+T79	PROCEDURE 3586 3614	transthoracic echocardiogram
+T61	PROCEDURE 3600 3614	echocardiogram
+T73	PROCEDURE 3801 3831	transesophageal echocardiogram
+T62	PROCEDURE 3817 3831	echocardiogram
+T76	PROCEDURE 4039 4059	Coronary angiography
+T80	PROCEDURE 4313 4335	orotracheal intubation
+T83	PROCEDURE 4337 4368	invasive mechanical ventilation
+T90	PROCEDURE 4346 4368	mechanical ventilation
+T87	PROCEDURE 4389 4420	aortic balloon counterpulsation
+T84	PROCEDURE 4461 4476	Cardiac Surgery
+T86	PROCEDURE 4622 4639	inotropic support
+T88	PROCEDURE 4657 4688	aortic balloon counterpulsation
+T81	PROCEDURE 4690 4712	orotracheal intubation
+T91	PROCEDURE 4717 4739	mechanical ventilation
+T74	PROCEDURE 4769 4801	transesophageal echocardiography
+T63	PROCEDURE 4785 4801	echocardiography
+T92	PROCEDURE 5193 5227	ionotropic and ventilatory support
+T64	PROCEDURE 5304 5318	Echocardiogram

@@ -1,0 +1,35 @@
+T20	SYMPTOM 260 265	death
+T26	SYMPTOM 382 386	died
+T1	SYMPTOM 737 745	asthenia
+T2	SYMPTOM 750 764	muscle fatigue
+T19	SYMPTOM 902 960	otherwise asymptomatic from a cardiovascular point of view
+T3	SYMPTOM 985 1003	Normal vital signs
+T27	SYMPTOM 1005 1044	Cardiopulmonary auscultation was normal
+T4	SYMPTOM 1101 1121	mild facial weakness
+T28	SYMPTOM 1130 1153	complete ocular closure
+T5	SYMPTOM 1155 1179	generalised hyporeflexia
+T16	SYMPTOM 1181 1188	paresis
+T17	SYMPTOM 1197 1212	myotonic buckle
+T29	SYMPTOM 1300 1358	non-dilated left ventricle (LV) with normal wall thickness
+T30	SYMPTOM 1413 1451	alterations of segmental contractility
+T6	SYMPTOM 1453 1485	anomalous movement of the septum
+T7	SYMPTOM 1522 1556	normal transmitral filling pattern
+T31	SYMPTOM 1558 1603	non-dilated right ventricle normocrontractile
+T8	SYMPTOM 1605 1622	non-dilated atria
+T32	SYMPTOM 1624 1710	Aortic, mitral, tricuspid and pulmonary valves morphologically and functionally normal
+T33	SYMPTOM 1773 1803	Inferior vena cava not dilated
+T34	SYMPTOM 1840 1882	Aorta not dilated and no flow acceleration
+T9	SYMPTOM 1889 1901	sinus rhythm
+T11	SYMPTOM 2037 2061	inverted T from V1 to V3
+T10	SYMPTOM 2093 2105	sinus rhythm
+T35	SYMPTOM 2260 2316	biochemistry, haemogram and coagulation without findings
+T12	SYMPTOM 2318 2353	GENETIC STUDY: negative for long QT
+T23	SYMPTOM 2355 2373	MYBPC3 p.Arg726Cys
+T13	SYMPTOM 3020 3045	Positive epinephrine test
+T24	SYMPTOM 3091 3120	pathological QTc prolongation
+T25	SYMPTOM 3347 3371	Abnormal basal intervals
+T21	SYMPTOM 3394 3420	Basally poor AV conduction
+T18	SYMPTOM 3482 3507	Absence of V-A conduction
+T14	SYMPTOM 3861 3888	preserved systolic function
+T15	SYMPTOM 3907 3939	intramyocardial late enhancement
+T22	SYMPTOM 4013 4040	long QT panel was performed

@@ -1,0 +1,49 @@
+T1	DISEASE 1022 1062	ventrículo izquierdo gravemente dilatado
+T3	DISEASE 1273 1312	Dilatación grave del ventrículo derecho
+T4	DISEASE 1342 1377	Dilatación grave de ambas aurículas
+T23	DISEASE 3082 3095	cardiomegalia
+T86	DISEASE 66 145	insuficiencia cardiaca con fracción de eyección reducida de etiología isquémica
+T89	DISEASE 432 453	hipertensión arterial
+T90	DISEASE 455 458	HTA
+T91	DISEASE 462 472	dislipemia
+T92	DISEASE 478 493	hábitos tóxicos
+T93	DISEASE 495 532	Fibrilación auricular (FA) permanente
+T94	DISEASE 518 520	FA
+T95	DISEASE 565 644	Insuficiencia cardiaca con fracción de eyección reducida de etiología isquémica
+T96	DISEASE 646 702	Infarto agudo de miocardio sin elevación del segmento ST
+T97	DISEASE 704 711	IAMSEST
+T98	DISEASE 725 749	enfermedad de tres vasos
+T99	DISEASE 752 780	disfunción ventricular grave
+T100	DISEASE 1067 1093	disfunción sistólica grave
+T101	DISEASE 1212 1243	Insuficiencia mitral (IM) grave
+T102	DISEASE 1379 1405	Estenosis aórtica moderada
+T103	DISEASE 1407 1446	Insuficiencia tricuspídea (IT) moderada
+T104	DISEASE 1522 1552	Enfermedad arterial periférica
+T105	DISEASE 1626 1639	Hiperuricemia
+T107	DISEASE 2365 2376	hipotensión
+T108	DISEASE 2977 2998	fibrilación auricular
+T109	DISEASE 3953 3989	insuficiencia mitral isquémica grave
+T110	DISEASE 4015 4043	Trombo en orejuela izquierda
+T111	DISEASE 4068 4094	Estenosis aórtica moderada
+T112	DISEASE 4346 4363	hígado de estasis
+T113	DISEASE 4382 4404	insuficiencia cardiaca
+T114	DISEASE 4577 4585	IM grave
+T115	DISEASE 4693 4715	lM de origen isquémico
+T116	DISEASE 4750 4778	trombo en orejuela izquierda
+T117	DISEASE 4964 4981	déficit de hierro
+T119	DISEASE 5962 5982	insuficiencia mitral
+T120	DISEASE 6012 6040	trombo en orejuela izquierda
+T121	DISEASE 6217 6228	anemización
+T122	DISEASE 6310 6317	melenas
+T123	DISEASE 6408 6414	anemia
+T124	DISEASE 6551 6612	Insuficiencia cardiaca con FE reducida de etiología isquémica
+T126	DISEASE 6671 6707	Insuficiencia mitral grave isquémica
+T127	DISEASE 6709 6743	Insuficiencia tricuspídea moderada
+T128	DISEASE 6802 6834	Fibrilación auricular permanente
+T129	DISEASE 6836 6864	Trombo en orejuela izquierda
+T88	DISEASE 1234 1236	IM
+T131	DISEASE 1434 1436	IT
+T16	DISEASE 4045 4056	IT moderada
+T27	DISEASE 6755 6765	Ferropenia
+T146	DISEASE 178 193	descompensación
+T147	DISEASE 6629 6644	descompensación

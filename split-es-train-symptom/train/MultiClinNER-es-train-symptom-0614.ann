@@ -1,0 +1,30 @@
+T1	SYMPTOM 48 64	dolor precordial
+T2	SYMPTOM 119 132	E-ST inferior
+T3	SYMPTOM 355 399	onda J (R') manifiesta en derivaciones V1-V2
+T4	SYMPTOM 414 442	desviaciones del segmento ST
+T5	SYMPTOM 457 514	ondas R altas afectando la parte inicial del complejo QRS
+T6	SYMPTOM 674 722	inversión de la onda T en derivaciones III y aVF
+T7	SYMPTOM 728 743	onda J en V1-V2
+T8	SYMPTOM 844 850	onda J
+T9	SYMPTOM 134 160	onda J prominente en V1-V2
+T10	SYMPTOM 163 199	D-ST marcada en derivaciones V1 a V5
+T11	SYMPTOM 517 557	ondas T acuminadas en derivaciones V2-V3
+T12	SYMPTOM 750 806	E-ST cóncava con onda T positiva en derivaciones V1 a V4
+T13	SYMPTOM 856 868	E-ST cóncava
+T14	SYMPTOM 875 901	onda T positiva de V2 a V5
+T15	SYMPTOM 1025 1054	acinesia inferobasal y apical
+T16	SYMPTOM 1331 1343	asintomático
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9
+A9	RESULTADO T10
+A10	RESULTADO T11
+A11	RESULTADO T12
+A12	RESULTADO T13
+A13	RESULTADO T14
+A14	RESULTADO T15

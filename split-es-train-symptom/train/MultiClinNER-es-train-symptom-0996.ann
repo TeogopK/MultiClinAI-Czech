@@ -1,0 +1,53 @@
+T1	SYMPTOM 995 1053	función sistólica del ventrículo izquierdo (VI) conservada
+T2	SYMPTOM 1059 1104	alteraciones de la contractilidad segmentaria
+T4	SYMPTOM 1827 1877	disnea progresiva hasta hacerse de leves esfuerzos
+T5	SYMPTOM 1879 1887	ortopnea
+T6	SYMPTOM 1890 1919	edemas en miembros inferiores
+T7	SYMPTOM 2068 2087	buen estado general
+T8	SYMPTOM 2089 2107	eupneico en reposo
+T9	SYMPTOM 2230 2237	afebril
+T10	SYMPTOM 2252 2273	ingurgitación yugular
+T11	SYMPTOM 2298 2312	tonos rítmicos
+T12	SYMPTOM 2314 2351	soplo sistolico II/VI en foco aórtico
+T13	SYMPTOM 2376 2403	crepitantes leves bibasales
+T14	SYMPTOM 2405 2447	Miembros inferiores: edemas perimaleolares
+T17	SYMPTOM 2699 2731	pinzamiento de seno costofrénico
+T19	SYMPTOM 3023 3044	Iones en rango normal
+T20	SYMPTOM 3046 3079	función hepática sin alteraciones
+T22	SYMPTOM 3502 3549	hipocinesia generalizada de todos sus segmentos
+T23	SYMPTOM 3552 3597	función sistólica global gravemente deprimida
+T24	SYMPTOM 3765 3789	Patrón diastólico normal
+T25	SYMPTOM 3795 3840	incremento de las presiones de llenado del VI
+T26	SYMPTOM 4594 4627	Función hepática sin alteraciones
+T28	SYMPTOM 4934 4981	hipocinesia generalizada de todos sus segmentos
+T29	SYMPTOM 4984 5030	función sistólica global moderamente deprimida
+T30	SYMPTOM 5124 5148	Patrón diastólico normal
+T31	SYMPTOM 5150 5191	Ventrículo derecho con función conservada
+T32	SYMPTOM 5296 5337	Hemograma y coagulación: sin alteraciones
+T33	SYMPTOM 5475 5508	Función hepática sin alteraciones
+T34	SYMPTOM 5785 5837	ventrículo izquierdo no dilatado con FEVI conservada
+T38	SYMPTOM 6701 6707	disnea
+T39	SYMPTOM 6733 6747	dolor torácico
+T42	SYMPTOM 8088 8127	normalización de la función ventricular
+T43	SYMPTOM 8141 8155	dolor torácico
+T44	SYMPTOM 8218 8247	pérdida significativa de peso
+T3	SYMPTOM 3651 3734	Válvula aórtica esclerosa, con normal apertura y gradientes trasvalvulares normales
+T15	SYMPTOM 4011 4047	Vena cava inferior (VCI) no dilatada
+T16	SYMPTOM 4394 4456	Fórmula leucocitaria, plaquetas y coagulación sin alteraciones
+T18	SYMPTOM 4578 4592	Iones en rango
+T21	SYMPTOM 5193 5242	VCI no dilatada con adecuado colapso inspiratorio
+T27	SYMPTOM 5459 5473	Iones en rango
+T35	SYMPTOM 6052 6071	VD normofuncionante
+T36	SYMPTOM 6479 6494	FEVI conservada
+T37	SYMPTOM 8700 8741	fracción de eyección gravemente deprimida
+T181	SYMPTOM 2911 2940	Coagulación: sin alteraciones
+T202	SYMPTOM 5961 6009	Patrón diastólico de alteración de la relajación
+T208	SYMPTOM 6014 6050	aumento de presiones telediastólicas
+T211	SYMPTOM 1757 1793	clínica anginosa con esfuerzos leves
+T216	SYMPTOM 7474 7483	euvolemia
+T233	SYMPTOM 2494 2512	pulsos conservados
+T234	SYMPTOM 2742 2785	redistribución vascular a campos superiores
+T241	SYMPTOM 449 482	tronco coronario izquierdo normal
+T41	SYMPTOM 3842 3916	Ventrículo derecho ligeramente dilatado con función sistólica en el límite
+T179	SYMPTOM 4135 4181	stents en CD y DA permeables y sin reestenosis
+T184	SYMPTOM 8602 8619	stents permeables

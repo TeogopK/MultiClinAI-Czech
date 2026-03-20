@@ -1,0 +1,35 @@
+T6	PROCEDURE 30 89	hysterectomy plus bilateral adnexectomy and lymphadenectomy
+T7	PROCEDURE 195 221	pacemaker for complete AVB
+T31	PROCEDURE 258 309	nocturnal non-invasive mechanical ventilation (NIV)
+T9	PROCEDURE 305 308	NIV
+T26	PROCEDURE 522 544	surgical interventions
+T19	PROCEDURE 546 575	cholecystectomy by laparotomy
+T25	PROCEDURE 593 619	bilateral cataract surgery
+T1	PROCEDURE 651 654	ECG
+T8	PROCEDURE 693 702	pacemaker
+T3	PROCEDURE 741 752	Chest X-ray
+T2	PROCEDURE 807 817	Spirometry
+T4	PROCEDURE 879 899	Arterial blood gases
+T43	PROCEDURE 957 977	complete blood count
+T21	PROCEDURE 1050 1061	Coagulation
+T24	PROCEDURE 1230 1248	02 in nasal prongs
+T12	PROCEDURE 1292 1307	benzodiazepines
+T5	PROCEDURE 1347 1370	intraspinal anaesthesia
+T14	PROCEDURE 1588 1613	fluid therapy with heater
+T49	PROCEDURE 1661 1692	uterus and adnexa were resected
+T17	PROCEDURE 1736 1773	iliac and para-aortic lymphadenectomy
+T27	PROCEDURE 1824 1854	inject 10 mg of bolus ketamine
+T13	PROCEDURE 1876 1891	benzodiazepines
+T52	PROCEDURE 1893 1901	morphine
+T15	PROCEDURE 1976 1985	analgesia
+T54	PROCEDURE 2078 2087	operation
+T23	PROCEDURE 2103 2122	respiratory support
+T20	PROCEDURE 2133 2147	oxygen therapy
+T22	PROCEDURE 2187 2205	O2 in nasal prongs
+T10	PROCEDURE 2308 2311	NIV
+T11	PROCEDURE 2313 2317	CPAP
+T60	PROCEDURE 2331 2380	bilateral percutaneous transabdominal block (TAP)
+T61	PROCEDURE 2459 2481	rectus abdominis block
+T16	PROCEDURE 2571 2580	Analgesia
+T18	PROCEDURE 2628 2635	opioids
+T66	PROCEDURE 2844 2853	operation

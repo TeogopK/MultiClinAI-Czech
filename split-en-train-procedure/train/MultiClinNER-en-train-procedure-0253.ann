@@ -1,0 +1,25 @@
+T5	PROCEDURE 391 401	Ultrasound
+T11	PROCEDURE 556 568	nasal prongs
+T18	PROCEDURE 570 611	non-invasive mean arterial pressure (MAP)
+T19	PROCEDURE 607 610	MAP
+T12	PROCEDURE 764 780	volume expansion
+T7	PROCEDURE 782 792	intubation
+T13	PROCEDURE 797 833	connection to mechanical ventilation
+T20	PROCEDURE 835 837	MV
+T14	PROCEDURE 884 897	was extubated
+T8	PROCEDURE 1069 1081	reintubation
+T21	PROCEDURE 1086 1102	connection to MV
+T22	PROCEDURE 1169 1225	Respiratory syncytial virus (RSV) testing in nasal mucus
+T23	PROCEDURE 1509 1521	invasive MAP
+T9	PROCEDURE 1653 1665	auscultation
+T10	PROCEDURE 1778 1795	Prone ventilation
+T16	PROCEDURE 1917 1949	positive end-expiratory pressure
+T17	PROCEDURE 1951 1955	PEEP
+T6	PROCEDURE 2068 2078	ultrasound
+T1	PROCEDURE 2458 2476	dopamine perfusion
+T2	PROCEDURE 2496 2507	Chest X-ray
+T3	PROCEDURE 2581 2603	Bronchoalveolar lavage
+T4	PROCEDURE 2640 2660	antibiotic treatment
+T38	PROCEDURE 2772 2820	treatment with renal function replacement agents
+T24	PROCEDURE 2914 2937	progressive INO weaning
+T15	PROCEDURE 3074 3087	was extubated

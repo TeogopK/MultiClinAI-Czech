@@ -1,0 +1,25 @@
+T21	DISEASE 65 77	hypertensive
+T22	DISEASE 85 100	type 2 diabetic
+T1	DISEASE 102 115	dyslipidaemic
+T23	DISEASE 117 126	ex-smoker
+T24	DISEASE 131 142	hypothyroid
+T2	DISEASE 162 174	rectorrhagia
+T25	DISEASE 181 255	transient cerebrovascular accident in the middle cerebral artery territory
+T3	DISEASE 1089 1091	AF
+T33	DISEASE 1127 1150	left anterior hemiblock
+T26	DISEASE 1152 1191	right bundle branch conduction disorder
+T27	DISEASE 1213 1228	acute ischaemia
+T28	DISEASE 1441 1453	coagulopathy
+T7	DISEASE 1491 1566	non-dilated left ventricle (LV) with severe hypertrophy of the basal septum
+T29	DISEASE 1724 1744	Mild aortic stenosis
+T30	DISEASE 1759 1773	valvulopathies
+T31	DISEASE 1778 1798	pericardial effusion
+T9	DISEASE 1816 1872	severe lesion in the ostium of the right coronary artery
+T11	DISEASE 1964 2001	Moderate lesion in the first diagonal
+T32	DISEASE 2377 2411	AF with rapid ventricular response
+T34	DISEASE 2559 2570	haemorrhage
+T14	DISEASE 2824 2857	thrombotic or haemorrhagic events
+T16	DISEASE 2905 2957	Acute non-ST-segment elevation myocardial infarction
+T15	DISEASE 2959 2965	NSTEMI
+T17	DISEASE 2968 2996	Critical lesion in ostial DC
+T18	DISEASE 3038 3040	AF

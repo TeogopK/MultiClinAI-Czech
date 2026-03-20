@@ -1,0 +1,16 @@
+T1	SYMPTOM 229 244	síndrome febril
+T2	SYMPTOM 550 556	fiebre
+T3	SYMPTOM 567 574	astenia
+T4	SYMPTOM 576 584	anorexia
+T5	SYMPTOM 587 615	deterioro del estado general
+T6	SYMPTOM 683 708	estable hemodinámicamente
+T7	SYMPTOM 817 832	ruidos rítmicos
+T9	SYMPTOM 853 868	soplo sistólico
+T10	SYMPTOM 1085 1114	recuento leucocitario elevado
+T11	SYMPTOM 1164 1201	elevación de reactantes de fase aguda
+T12	SYMPTOM 1437 1518	hemocultivos seriados, aislándose en todos los frascos Staphylococcus epidermidis
+T14	SYMPTOM 2204 2258	aumento de captación de FDG a nivel de la raíz aórtica
+T15	SYMPTOM 2726 2748	hemocultivos negativos
+T58	SYMPTOM 1306 1325	taquicardia sinusal
+T13	SYMPTOM 3006 3033	cultivo finalmente negativo
+T8	SYMPTOM 834 847	taquicárdicos

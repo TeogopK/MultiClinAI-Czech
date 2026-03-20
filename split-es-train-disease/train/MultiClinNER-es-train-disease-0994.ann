@@ -1,0 +1,66 @@
+T27	DISEASE 77 100	alergias medicamentosas
+T28	DISEASE 151 172	hipertensión arterial
+T29	DISEASE 174 177	HTA
+T30	DISEASE 180 190	dislipemia
+T31	DISEASE 192 195	DLP
+T32	DISEASE 198 234	síndrome de apnea-hipopnea del sueño
+T33	DISEASE 236 240	SAHS
+T34	DISEASE 268 291	enfermedad diverticular
+T35	DISEASE 346 373	hallux valgus de ambos pies
+T36	DISEASE 388 401	pólipo rectal
+T37	DISEASE 818 840	insuficiencia cardiaca
+T38	DISEASE 1627 1640	cardiomegalia
+T39	DISEASE 1658 1677	derrame pericárdico
+T40	DISEASE 2024 2031	quistes
+T41	DISEASE 2337 2374	Insuficiencia aórtica ligera-moderada
+T42	DISEASE 2447 2462	Derrame pleural
+T43	DISEASE 2501 2520	derrame pericárdico
+T44	DISEASE 2749 2766	neoplasia maligna
+T45	DISEASE 2787 2810	sarcomatoso pericárdico
+T46	DISEASE 2855 2866	mesotelioma
+T47	DISEASE 2868 2875	linfoma
+T48	DISEASE 2877 2887	metástasis
+T49	DISEASE 3008 3055	Calcificaciones ganglionares traqueobronquiales
+T51	DISEASE 3144 3155	adenopatías
+T52	DISEASE 3189 3214	Derrame pleural bilateral
+T53	DISEASE 3268 3306	atelectasia pasiva del lóbulo inferior
+T54	DISEASE 3417 3435	Leve hepatomegalia
+T55	DISEASE 3482 3492	metástasis
+T56	DISEASE 3629 3703	neoplasia maligna de origen pericárdico con importante derrame pericárdico
+T57	DISEASE 3705 3730	Derrame pleural bilateral
+T58	DISEASE 3772 3797	atelectasia pasiva de LII
+T59	DISEASE 4456 4462	timoma
+T60	DISEASE 4609 4635	tumor primario pericárdico
+T61	DISEASE 4993 5010	timomas ectópicos
+T62	DISEASE 5092 5120	linfoma linfoblástico tipo T
+T63	DISEASE 5206 5212	timoma
+T64	DISEASE 5254 5273	derrame pericárdico
+T65	DISEASE 5613 5632	derrame pericárdico
+T66	DISEASE 6025 6064	neoplasia maligna de origen pericárdico
+T67	DISEASE 6150 6235	neoplasia maligna en pericardio anterior que se extendía a mediastino antero-superior
+T68	DISEASE 6470 6496	insuficiencia respiratoria
+T69	DISEASE 6517 6532	derrame pleural
+T70	DISEASE 6628 6634	timoma
+T71	DISEASE 6807 6833	tumor primario pericárdico
+T72	DISEASE 6999 7016	timomas ectópicos
+T73	DISEASE 7052 7080	linfoma linfoblástico tipo T
+T74	DISEASE 7100 7106	timoma
+T75	DISEASE 7166 7182	miastenia gravis
+T76	DISEASE 7768 7810	Timoma invasivo con afectación pericárdica
+T77	DISEASE 7825 7851	derrame pericárdico severo
+T78	DISEASE 2387 2389	IT
+T79	DISEASE 6102 6127	derrame pleural bilateral
+T80	DISEASE 7290 7295	tumor
+T81	DISEASE 327 344	neuroma de Morton
+T82	DISEASE 4930 4936	timoma
+T8	DISEASE 2261 2288	vena cava inferior dilatada
+T165	DISEASE 7420 7476	masa tumoral con infiltración de lóbulo superior derecho
+T173	DISEASE 2044 2052	necrosis
+T16	DISEASE 2891 2920	Aumento de tamaño de tiroides
+T50	DISEASE 3359 3376	Lesiones fibrosas
+T154	DISEASE 6080 6099	derrame pericárdico
+T155	DISEASE 6396 6434	masa cardiaca que infiltraba el pulmón
+#1	AnnotatorNotes T29	 HTA: hipertensión arterial
+#2	AnnotatorNotes T31	 DLP: dislipemia
+#3	AnnotatorNotes T33	 SAHS: síndrome de apnea-hipopnea del sueño
+#4	AnnotatorNotes T78	 IT: insuficiencia tricuspídea

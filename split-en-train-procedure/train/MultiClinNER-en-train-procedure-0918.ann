@@ -1,0 +1,37 @@
+T1	PROCEDURE 119 181	Mitral valve replacement by mechanical prosthesis Bjork no. 31
+T49	PROCEDURE 203 225	Pacemaker implantation
+T65	PROCEDURE 288 309	generator replacement
+T50	PROCEDURE 405 419	blood cultures
+T2	PROCEDURE 431 434	TTE
+T53	PROCEDURE 984 1014	empirical antibiotic treatment
+T51	PROCEDURE 1178 1192	blood cultures
+T67	PROCEDURE 1195 1215	PHYSICAL EXAMINATION
+T71	PROCEDURE 1310 1323	nasal goggles
+T54	PROCEDURE 1472 1492	Cardiac auscultation
+T55	PROCEDURE 1555 1577	Pulmonary auscultation
+T56	PROCEDURE 1708 1711	ECG
+T4	PROCEDURE 1767 1779	THORAX X-RAY
+T5	PROCEDURE 1831 1839	ANALYSIS
+T6	PROCEDURE 1841 1850	Haemogram
+T70	PROCEDURE 1944 1956	Biochemistry
+T68	PROCEDURE 2142 2153	Coagulation
+T69	PROCEDURE 2195 2206	Blood gases
+T57	PROCEDURE 2255 2285	Transthoracic echocardiography
+T7	PROCEDURE 2287 2290	TTE
+T58	PROCEDURE 2296 2328	transesophageal echocardiography
+T8	PROCEDURE 2330 2333	TEE
+T60	PROCEDURE 3246 3252	PET-CT
+T13	PROCEDURE 3528 3582	mitral valve with replacement by mechanical prosthesis
+T14	PROCEDURE 3799 3807	cultures
+T15	PROCEDURE 3905 3908	TTE
+T59	PROCEDURE 4117 4123	PET/CT
+T72	PROCEDURE 4268 4289	surgical intervention
+T17	PROCEDURE 4601 4637	abscess was closed with two stitches
+T18	PROCEDURE 4644 4710	Perimount Edwards No 27 biological mitral prosthesis was implanted
+T66	PROCEDURE 4725 4746	generator replacement
+T61	PROCEDURE 4789 4795	PET-CT
+T63	PROCEDURE 4863 4883	antibiotic treatment
+T52	PROCEDURE 4932 4946	blood cultures
+T64	PROCEDURE 5119 5139	antibiotic treatment
+T21	PROCEDURE 5328 5429	Replacement of mechanical mitral prosthesis with Perimount Edwards No 27 biological mitral prosthesis
+T19	PROCEDURE 5431 5465	Replacement of pacemaker generator

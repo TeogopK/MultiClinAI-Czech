@@ -1,0 +1,15 @@
+T24	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T25	PROCEDURE 645 667	Pulmonary auscultation
+T26	PROCEDURE 722 742	cardiac auscultation
+T27	PROCEDURE 798 818	Arterial blood gases
+T28	PROCEDURE 916 933	Electrocardiogram
+T29	PROCEDURE 935 938	ECG
+T30	PROCEDURE 1114 1125	Chest X-ray
+T3	PROCEDURE 1365 1368	CBC
+T31	PROCEDURE 1415 1428	liver profile
+T32	PROCEDURE 1659 1691	Nasopharyngeal PCR for SARS-CoV2
+T33	PROCEDURE 1912 1926	oxygen therapy
+T34	PROCEDURE 2298 2326	markers of myocardial damage
+T4	PROCEDURE 2433 2461	transthoracic echocardiogram
+T35	PROCEDURE 2785 2813	markers of myocardial damage
+T36	PROCEDURE 3098 3126	markers of myocardial damage

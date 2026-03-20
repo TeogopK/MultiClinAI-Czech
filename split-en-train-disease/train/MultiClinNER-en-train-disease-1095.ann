@@ -1,0 +1,47 @@
+T36	DISEASE 77 91	drug allergies
+T37	DISEASE 207 220	heart disease
+T79	DISEASE 296 308	Toxic habits
+T80	DISEASE 310 323	active smoker
+T38	DISEASE 630 654	congestive heart failure
+T39	DISEASE 670 702	severe biventricular dysfunction
+T41	DISEASE 1079 1101	advanced heart failure
+T42	DISEASE 1352 1397	sustained monomorphic ventricular tachycardia
+T44	DISEASE 1435 1466	Right atrial appendage thrombus
+T81	DISEASE 1851 1912	Dilated right ventricle (RV) with severely depressed function
+T45	DISEASE 2182 2196	valvulopathies
+T46	DISEASE 2266 2286	pericardial effusion
+T47	DISEASE 2293 2358	dilated cardiomyopathy with severe dysfunction of both ventricles
+T82	DISEASE 2363 2387	dilatation of both atria
+T48	DISEASE 2389 2410	Aneurysmal dilatation
+T63	DISEASE 3067 3069	FV
+T49	DISEASE 3067 3089	FV and FVII deficiency
+T50	DISEASE 3111 3131	vitamin K deficiency
+T51	DISEASE 3566 3587	respiratory infection
+T52	DISEASE 3863 3896	sustained ventricular tachycardia
+T53	DISEASE 4020 4044	ventricular fibrillation
+T64	DISEASE 4060 4065	shock
+T54	DISEASE 4461 4478	cardiogenic shock
+T65	DISEASE 4473 4478	shock
+T43	DISEASE 6172 6217	sustained monomorphic ventricular tachycardia
+T57	DISEASE 6376 6401	Right bundle branch block
+T58	DISEASE 6770 6798	refractory cardiogenic shock
+T55	DISEASE 6781 6798	cardiogenic shock
+T66	DISEASE 6793 6798	shock
+T60	DISEASE 6805 6821	arrhythmic storm
+T67	DISEASE 7349 7354	shock
+T70	DISEASE 7448 7466	metabolic acidosis
+T71	DISEASE 7511 7565	multi-organ dysfunction with oligoanuric renal failure
+T72	DISEASE 7570 7583	liver failure
+T73	DISEASE 7589 7602	hypoglycaemia
+T74	DISEASE 7614 7626	coagulopathy
+T75	DISEASE 7952 7968	refractory shock
+T68	DISEASE 7963 7968	shock
+T76	DISEASE 7970 7989	multi-organ failure
+T61	DISEASE 8223 8239	Arrhythmic storm
+T78	DISEASE 8258 8311	arrhythmogenic cardiomyopathy with LMNA gene mutation
+T40	DISEASE 8316 8348	severe biventricular dysfunction
+T59	DISEASE 8350 8378	Refractory cardiogenic shock
+T56	DISEASE 8361 8378	cardiogenic shock
+T69	DISEASE 8373 8378	shock
+T62	DISEASE 8392 8408	arrhythmic storm
+T77	DISEASE 8445 8464	Multi-organ failure

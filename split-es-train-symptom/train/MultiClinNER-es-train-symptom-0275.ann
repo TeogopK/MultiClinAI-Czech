@@ -1,0 +1,42 @@
+T1	SYMPTOM 944 983	emplastamiento del flanco/región lumbar
+T2	SYMPTOM 1420 1463	riñón derecho de dimensiones algo reducidas
+T3	SYMPTOM 1288 1300	leucocitosis
+T4	SYMPTOM 1302 1313	Eosinofilia
+T5	SYMPTOM 3511 3518	PT3NxMx
+T6	SYMPTOM 770 780	lumbalgias
+T7	SYMPTOM 782 789	nauseas
+T8	SYMPTOM 792 799	vómitos
+T9	SYMPTOM 831 839	anorexia
+T10	SYMPTOM 841 848	astenia
+T11	SYMPTOM 851 865	adelgazamiento
+T12	SYMPTOM 2497 2537	Mantoux (prueba de tuberculina) negativa
+T13	SYMPTOM 2668 2733	Serología para Echinococcos granulosis y multilocularis negativas
+T14	SYMPTOM 3741 3753	asintomático
+T15	SYMPTOM 998 1006	dolorosa
+T16	SYMPTOM 1106 1136	Miembros inferiores sin edemas
+T17	SYMPTOM 803 825	quejas urinarias bajas
+T18	SYMPTOM 2539 2593	Busqueda de bacilos acido-alcohol resistentes negativa
+T19	SYMPTOM 2595 2666	Cultivos de orina (multiples muestras) en médio de Lowenstein negativas
+T20	SYMPTOM 680 702	hematuria macroscópica
+T21	SYMPTOM 1167 1216	Ausculatación pulmonar sin alteraciones aparentes
+T22	SYMPTOM 2321 2373	Radiografia de tórax sin alteraciones significativas
+T23	SYMPTOM 3582 3667	endoscopia digestiva superior y colonoscopia, las cuales no evidenciaron alteraciones
+T24	SYMPTOM 598 629	material gelatinoso en la orina
+T25	SYMPTOM 871 914	síntomas respiratórios o gastrointestinales
+T26	SYMPTOM 1031 1070	circulación colateral abdominal anormal
+T27	SYMPTOM 107 126	masa quistica renal
+T28	SYMPTOM 714 722	coágulos
+T29	SYMPTOM 1480 1518	aumento de ecogenicidad del parénquima
+T30	SYMPTOM 1837 1931	calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón
+T32	SYMPTOM 2758 2771	masa quística
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	RESULTADO T18
+A7	RESULTADO T19
+A8	IMAGEN T22
+A9	RESULTADO T23
+A10	IMAGEN T29
+A11	IMAGEN T30

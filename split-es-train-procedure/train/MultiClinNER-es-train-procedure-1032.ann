@@ -1,0 +1,81 @@
+T104	PROCEDURE 295 338	Intervenciones quirúrgicas: rodilla derecha
+T105	PROCEDURE 1109 1127	Exploración física
+T106	PROCEDURE 1328 1349	Auscultación cardiaca
+T107	PROCEDURE 1372 1393	Auscultación pulmonar
+T108	PROCEDURE 1604 1622	Electrocardiograma
+T109	PROCEDURE 1624 1627	ECG
+T110	PROCEDURE 2301 2321	Radiografía de tórax
+T111	PROCEDURE 2461 2475	Ecocardiograma
+T112	PROCEDURE 3278 3281	ECG
+T113	PROCEDURE 3504 3507	ECG
+T114	PROCEDURE 3517 3568	Cateterismo cardiaco urgente: acceso radial derecho
+T115	PROCEDURE 3797 3834	intervencionismo coronario percutáneo
+T116	PROCEDURE 3836 3839	ICP
+T117	PROCEDURE 3842 3906	Se implanta balón de contrapulsación vía arteria femoral derecha
+T118	PROCEDURE 3908 3922	Ecocardiograma
+T119	PROCEDURE 4619 4716	Angio-TAC de arterias coronarias: estudio helicoidal sincronizado sin y con contraste intravenoso
+T121	PROCEDURE 4718 4736	Esternotomía media
+T122	PROCEDURE 4991 4994	ECG
+T123	PROCEDURE 5186 5189	ECG
+T124	PROCEDURE 5488 5512	coronariografía invasiva
+T125	PROCEDURE 5799 5809	telemetría
+T126	PROCEDURE 5926 5936	telemetría
+T127	PROCEDURE 5966 5977	cateterismo
+T128	PROCEDURE 6196 6217	cateterismo emergente
+T129	PROCEDURE 6225 6236	cateterismo
+T130	PROCEDURE 6390 6440	implantar un balón de contrapulsación intraaórtico
+T131	PROCEDURE 6592 6632	doble antiagregación (clopidogrel + AAS)
+T132	PROCEDURE 6635 6666	anticoagulación con enoxaparina
+T133	PROCEDURE 6724 6735	cateterismo
+T134	PROCEDURE 6901 6916	ecocardioscopia
+T135	PROCEDURE 7118 7140	intubación orotraqueal
+T136	PROCEDURE 7142 7160	pericardiocentesis
+T137	PROCEDURE 7238 7254	cirugía cardiaca
+T138	PROCEDURE 7352 7364	sueroterapia
+T139	PROCEDURE 7377 7422	se trasfunden varios concentrados de hematíes
+T140	PROCEDURE 7478 7490	esternotomía
+T141	PROCEDURE 7722 7745	masaje cardiaco directo
+T142	PROCEDURE 7909 7925	cirugía cardiaca
+T143	PROCEDURE 7939 7997	reparación del defecto apical con sutura directa y BioGlue
+T144	PROCEDURE 8520 8528	intubada
+T145	PROCEDURE 8541 8571	drogas inotropas y vasoactivas
+T146	PROCEDURE 8706 8720	hemofiltración
+T147	PROCEDURE 8899 8916	drenaje torácicos
+T148	PROCEDURE 8929 8944	ecocardioscopia
+T149	PROCEDURE 9100 9116	cirugía cardiaca
+T150	PROCEDURE 9129 9156	apertura de la esternotomía
+T151	PROCEDURE 9339 9365	sutura con apoyo de teflón
+T152	PROCEDURE 9561 9601	esternotomía abierta con bolsa de Bogotá
+T153	PROCEDURE 9664 9679	cierre esternal
+T154	PROCEDURE 9868 9882	ecocardiograma
+T155	PROCEDURE 10222 10253	angio-TC de arterias coronarias
+T156	PROCEDURE 10365 10381	cirugía cardiaca
+T157	PROCEDURE 10570 10582	hemodiálisis
+T158	PROCEDURE 10747 10761	ecocardiograma
+T159	PROCEDURE 10923 10931	diálisis
+T160	PROCEDURE 11543 11555	hemodiálisis
+T161	PROCEDURE 11557 11572	Politransfusión
+T162	PROCEDURE 11607 11620	anticoagulada
+T163	PROCEDURE 252 282	anticoagulada con acenucumarol
+T191	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T192	PROCEDURE 11205 11231	intervencionismo coronario
+T193	PROCEDURE 5418 5432	monitorización
+T194	PROCEDURE 5553 5573	doble antiagregación
+T195	PROCEDURE 7748 7790	taponamiento digital del punto de sangrado
+T196	PROCEDURE 8066 8080	reesternotomía
+T197	PROCEDURE 8511 8517	sedada
+T198	PROCEDURE 9175 9226	extrayendo abundantes coágulos del saco pericárdico
+T199	PROCEDURE 7536 7569	extracción de abundantes coágulos
+T200	PROCEDURE 9468 9509	catecolaminas (noradrenalina y adrenalina
+T225	PROCEDURE 1770 1779	Analítica
+T226	PROCEDURE 1291 1306	Cabeza y cuello
+T245	PROCEDURE 7260 7283	intervención quirúrgica
+T256	PROCEDURE 8322 8382	perfusión continua de dobutamina, noradrenalina y adrenalina
+T257	PROCEDURE 7305 7331	perfusión de noradrenalina
+T259	PROCEDURE 10409 10434	reintervención quirúrgica
+T120	PROCEDURE 4738 4774	Parche posquirúrgico a nivel de ápex
+T205	PROCEDURE 5576 5607	anticoagulación con enoxaparina
+T209	PROCEDURE 8205 8211	sedada
+T210	PROCEDURE 8230 8292	respirador en modalidad "Volumen Control Regulado por Presión"
+T211	PROCEDURE 8434 8458	balón de contrapulsación
+T216	PROCEDURE 9520 9550	bolos repetidos de fenilefrina

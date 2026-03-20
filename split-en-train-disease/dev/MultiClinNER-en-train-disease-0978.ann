@@ -1,0 +1,49 @@
+T23	DISEASE 139 170	chronic ischaemic heart disease
+T24	DISEASE 202 217	unstable angina
+T25	DISEASE 293 350	coronary artery disease of the anterior descending artery
+T26	DISEASE 425 450	gastro-oesophageal reflux
+T27	DISEASE 484 499	inguinal hernia
+T28	DISEASE 1348 1382	Raynaud's phenomenon in both hands
+T29	DISEASE 1638 1663	right bundle branch block
+T70	DISEASE 2369 2390	Diastolic dysfunction
+T30	DISEASE 2519 2541	pulmonary hypertension
+T31	DISEASE 2551 2576	Mild mitral insufficiency
+T32	DISEASE 2602 2616	valvulopathies
+T34	DISEASE 2623 2643	pericardial effusion
+T71	DISEASE 2716 2751	moderate bilateral pleural effusion
+T42	DISEASE 2735 2751	pleural effusion
+T33	DISEASE 2765 2776	atelectasis
+T35	DISEASE 2817 2837	pericardial effusion
+T40	DISEASE 3098 3123	pulmonary thromboembolism
+T43	DISEASE 3155 3171	pleural effusion
+T44	DISEASE 3181 3197	pleural effusion
+T45	DISEASE 3253 3267	bronchiectasis
+T46	DISEASE 3306 3311	cysts
+T69	DISEASE 3341 3353	Cardiomegaly
+T36	DISEASE 3358 3378	pericardial effusion
+T47	DISEASE 3430 3461	interstitial pulmonary fibrosis
+T50	DISEASE 3503 3521	systemic sclerosis
+T63	DISEASE 3601 3614	heart failure
+T37	DISEASE 3631 3651	pericardial effusion
+T53	DISEASE 3795 3812	cardiac tamponade
+T41	DISEASE 3833 3858	pulmonary thromboembolism
+T54	DISEASE 4022 4048	inflammatory bowel disease
+T55	DISEASE 4220 4246	digestive tumour pathology
+T56	DISEASE 4430 4461	complete atrioventricular block
+T60	DISEASE 4439 4461	atrioventricular block
+T48	DISEASE 5232 5263	interstitial pulmonary fibrosis
+T58	DISEASE 5398 5406	myopathy
+T59	DISEASE 5516 5527	scleroderma
+T51	DISEASE 5677 5695	systemic sclerosis
+T61	DISEASE 5721 5743	atrioventricular block
+T38	DISEASE 5745 5765	pericardial effusion
+T49	DISEASE 5779 5810	interstitial pulmonary fibrosis
+T64	DISEASE 6111 6124	heart failure
+T52	DISEASE 6264 6282	systemic sclerosis
+T66	DISEASE 6345 6369	Congestive heart failure
+T65	DISEASE 6356 6369	heart failure
+T67	DISEASE 6389 6430	Mild-moderate pleuro-pericardial effusion
+T39	DISEASE 6410 6430	pericardial effusion
+T57	DISEASE 6432 6463	Complete atrioventricular block
+T62	DISEASE 6441 6463	atrioventricular block
+T68	DISEASE 6518 6530	Thrombopenia

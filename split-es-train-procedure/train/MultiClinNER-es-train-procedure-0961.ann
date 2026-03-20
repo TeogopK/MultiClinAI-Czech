@@ -1,0 +1,22 @@
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 1132 1150	Exploración física
+T36	PROCEDURE 1241 1262	Auscultación cardiaca
+T37	PROCEDURE 1371 1392	Auscultación pulmonar
+T38	PROCEDURE 1651 1660	hemograma
+T39	PROCEDURE 1882 1885	ECG
+T40	PROCEDURE 2077 2097	Radiografía de tórax
+T41	PROCEDURE 2168 2196	Ecocardiograma transtorácico
+T42	PROCEDURE 2881 2905	valvuloplastía con balón
+T43	PROCEDURE 2981 3033	sustitución de válvula mitral por prótesis biológica
+T44	PROCEDURE 3039 3063	anuloplastía tricúspidea
+T45	PROCEDURE 3110 3128	drogas vasoactivas
+T46	PROCEDURE 3131 3157	vasodilatadores pulmonares
+T47	PROCEDURE 3313 3337	control ecocardiográfico
+T1	PROCEDURE 1074 1095	tratamiento depletivo
+T24	PROCEDURE 2810 2831	tratamiento depletivo
+T70	PROCEDURE 1640 1649	Analítica
+T71	PROCEDURE 1787 1797	Bioquímica
+T88	PROCEDURE 1107 1129	tratamiento quirúrgico
+T89	PROCEDURE 2954 2976	tratamiento quirúrgico
+T50	PROCEDURE 1210 1216	Cuello
+T55	PROCEDURE 1448 1455	Abdomen

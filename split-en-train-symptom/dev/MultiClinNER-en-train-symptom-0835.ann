@@ -1,0 +1,40 @@
+T1	SYMPTOM 382 411	sinus rhythm with normal axis
+T2	SYMPTOM 413 423	narrow QRS
+T16	SYMPTOM 432 460	repolarisation abnormalities
+T3	SYMPTOM 585 596	odynophagia
+T26	SYMPTOM 605 625	swallowing difficult
+T4	SYMPTOM 643 648	fever
+T8	SYMPTOM 684 692	dyspnoea
+T9	SYMPTOM 694 699	cough
+T10	SYMPTOM 703 725	purulent expectoration
+T27	SYMPTOM 770 808	mechanical central thoracic discomfort
+T5	SYMPTOM 894 899	fever
+T23	SYMPTOM 912 929	sinus tachycardia
+T11	SYMPTOM 963 986	haemodynamically stable
+T28	SYMPTOM 992 1015	adequate blood pressure
+T29	SYMPTOM 1020 1051	good baseline oxygen saturation
+T31	SYMPTOM 1166 1209	secretions in the posterior pharyngeal wall
+T30	SYMPTOM 1247 1286	Cardiopulmonary auscultation was normal
+T12	SYMPTOM 1319 1349	leukocytosis with neutrophilia
+T22	SYMPTOM 1351 1362	normal ions
+T6	SYMPTOM 1436 1441	fever
+T24	SYMPTOM 1452 1469	sinus tachycardia
+T13	SYMPTOM 1482 1491	normal PR
+T32	SYMPTOM 1518 1550	V1-V2 there was an image of RsR'
+T15	SYMPTOM 1556 1607	descending ST-segment elevation and negative T wave
+T17	SYMPTOM 1693 1705	sinus rhythm
+T14	SYMPTOM 1717 1726	normal PR
+T33	SYMPTOM 1753 1783	V1-V2 there is an image of RsR
+T34	SYMPTOM 1790 1821	descending ST-segment elevation
+T35	SYMPTOM 1867 1882	negative T wave
+T36	SYMPTOM 1884 1910	THORAX RADIOGRAPHY: normal
+T37	SYMPTOM 1979 2032	Non-dilated left ventricle with normal wall thickness
+T18	SYMPTOM 2037 2061	normal systolic function
+T19	SYMPTOM 2063 2123	Right ventricle of normal size with normal systolic function
+T38	SYMPTOM 2125 2143	Normal sized atria
+T39	SYMPTOM 2416 2439	cardiovascular symptoms
+T40	SYMPTOM 2668 2734	provocation test with flecainide was performed, which was positive
+T25	SYMPTOM 2834 2865	prolongation of the HV interval
+T20	SYMPTOM 3001 3008	syncope
+T7	SYMPTOM 3223 3228	fever
+T21	SYMPTOM 3230 3237	Syncope

@@ -1,0 +1,27 @@
+T30	DISEASE 99 123	cardiorespiratory arrest
+T33	DISEASE 163 187	type 2 diabetes mellitus
+T1	DISEASE 189 201	hypertension
+T34	DISEASE 203 216	dyslipidaemia
+T46	DISEASE 218 224	smoker
+T35	DISEASE 240 244	Gout
+T36	DISEASE 419 442	ischaemic heart disease
+T31	DISEASE 625 649	cardiorespiratory arrest
+T6	DISEASE 1463 1509	occlusion of the ostial circumflex artery (CX)
+T37	DISEASE 1610 1676	severe stenosis in the middle segment of the right coronary artery
+T7	DISEASE 1677 1715	(RCA) with an image of complex plaque.
+T12	DISEASE 3757 3792	atelectasis in the right upper lobe
+T38	DISEASE 3916 3938	upper lobe atelectasis
+T39	DISEASE 4013 4057	moderate-severe left ventricular dysfunction
+T40	DISEASE 4216 4241	mild mitral insufficiency
+T42	DISEASE 4246 4266	pericardial effusion
+T41	DISEASE 4473 4498	Mild mitral insufficiency
+T13	DISEASE 4642 4720	Artery CX: vessel of adequate size and development, with 100% ostial occlusion
+T14	DISEASE 4826 4905	CD artery: severely calcified dominant vessel, of adequate size and development
+T17	DISEASE 5399 5434	atelectasis in the right upper lobe
+T43	DISEASE 6212 6231	atrial fibrillation
+T47	DISEASE 6320 6339	arrhythmic episodes
+T44	DISEASE 6426 6443	bronchoaspiration
+T32	DISEASE 7178 7245	Cardio-respiratory arrest due to recovered ventricular fibrillation
+T25	DISEASE 7256 7271	inferior STEACS
+T48	DISEASE 7375 7446	Total occlusion of ostial circumflex artery with collateral circulation
+T45	DISEASE 7473 7500	Bronchoaspiration pneumonia

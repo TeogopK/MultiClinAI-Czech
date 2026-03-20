@@ -1,0 +1,21 @@
+T1	SYMPTOM 965 1002	cultivo de orina positivo para E.Coli
+T2	SYMPTOM 1831 1845	dolor perineal
+T3	SYMPTOM 69 80	polaquiuria
+T4	SYMPTOM 82 100	dolor hipogástrico
+T5	SYMPTOM 538 580	leucocitosis con desviación a la izquierda
+T6	SYMPTOM 103 109	fiebre
+T7	SYMPTOM 583 634	sedimento de orina positivo a bacilos gramnegativos
+T8	SYMPTOM 1101 1115	dolor perineal
+T9	SYMPTOM 890 928	extravasado en uretra peneana proximal
+T10	SYMPTOM 2194 2201	astenia
+T11	SYMPTOM 234 281	empeoramiento progresivo de su chorro miccional
+T12	SYMPTOM 401 439	induración dolorosa de la base peneana
+T13	SYMPTOM 2488 2502	dolor perineal
+T14	SYMPTOM 360 398	secreción serosa de la herida inguinal
+T15	SYMPTOM 338 351	globo vesical
+T16	SYMPTOM 1541 1592	colección de 3 cm entre uretra y cuerpos cavernosos
+A1	RESULTADO T1
+A2	RESULTADO T5
+A3	RESULTADO T7
+A4	IMAGEN T9
+A5	IMAGEN T16

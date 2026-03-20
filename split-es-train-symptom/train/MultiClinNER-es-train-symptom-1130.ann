@@ -1,0 +1,49 @@
+T1	SYMPTOM 127 160	factores de riesgo cardiovascular
+T2	SYMPTOM 545 553	mialgias
+T3	SYMPTOM 555 562	astenia
+T4	SYMPTOM 568 588	sensación distérmica
+T5	SYMPTOM 593 602	febrícula
+T6	SYMPTOM 649 654	mareo
+T7	SYMPTOM 659 677	cortejo vegetativo
+T8	SYMPTOM 757 771	dolor torácico
+T9	SYMPTOM 775 788	palpitaciones
+T10	SYMPTOM 806 826	episodios sincopales
+T11	SYMPTOM 850 856	disnea
+T12	SYMPTOM 858 866	ortopnea
+T13	SYMPTOM 868 876	oliguria
+T14	SYMPTOM 879 885	edemas
+T15	SYMPTOM 957 968	taquicardia
+T17	SYMPTOM 1030 1038	frialdad
+T18	SYMPTOM 1041 1051	sudoración
+T19	SYMPTOM 1053 1060	Afebril
+T20	SYMPTOM 1094 1119	ruidos cardiacos rítmicos
+T21	SYMPTOM 1125 1131	soplos
+T22	SYMPTOM 1134 1163	murmullo vesicular conservado
+T24	SYMPTOM 1188 1244	Pulsos presentes y simétricos en las cuatro extremidades
+T25	SYMPTOM 1250 1307	edema ni datos de trombosis venosa en miembros inferiores
+T26	SYMPTOM 1360 1373	ritmo sinusal
+T27	SYMPTOM 1395 1407	QRS estrecho
+T28	SYMPTOM 1422 1439	elevación punto J
+T29	SYMPTOM 1524 1558	voltajes disminuidos generalizados
+T31	SYMPTOM 2535 2570	Ventrículo derecho de tamaño normal
+T32	SYMPTOM 2615 2650	Aurícula izquierda de tamaño normal
+T33	SYMPTOM 2713 2746	Aorta ascendente de tamaño normal
+T35	SYMPTOM 2867 2896	ventrículos son tamaño normal
+T36	SYMPTOM 2901 2925	hipocinesia global grave
+T37	SYMPTOM 2939 2944	edema
+T38	SYMPTOM 2947 2956	hiperemia
+T39	SYMPTOM 3176 3196	hipotensión arterial
+T41	SYMPTOM 3676 3687	oligoanuria
+T42	SYMPTOM 3720 3755	aumento de enzimas de daño hepático
+T43	SYMPTOM 3903 3924	mala perfusión distal
+T44	SYMPTOM 3927 3943	mala ventilación
+T45	SYMPTOM 3948 3969	expectoración rosácea
+T46	SYMPTOM 4152 4163	falleciendo
+T52	SYMPTOM 689 696	síncope
+T16	SYMPTOM 1592 1620	índice cardiotorácico normal
+T23	SYMPTOM 2438 2485	depresión muy severa de la fracción de eyección
+T30	SYMPTOM 2515 2533	hipocinesia global
+T34	SYMPTOM 4346 4352	Muerte
+T111	SYMPTOM 1661 1675	condensaciones
+T40	SYMPTOM 522 541	cuadro pseudogripal
+T50	SYMPTOM 1484 1521	lenta progresión de R en precordiales

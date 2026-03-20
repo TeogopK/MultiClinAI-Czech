@@ -1,0 +1,47 @@
+T1	SYMPTOM 275 292	tos no productiva
+T2	SYMPTOM 295 315	sensación distérmica
+T3	SYMPTOM 351 376	hemodinámicamente estable
+T4	SYMPTOM 505 511	tiraje
+T5	SYMPTOM 566 574	flapping
+T6	SYMPTOM 577 584	afebril
+T7	SYMPTOM 594 607	ritmo sinusal
+T8	SYMPTOM 780 786	soplos
+T9	SYMPTOM 864 877	ritmo sinusal
+T10	SYMPTOM 927 960	alteraciones de la repolarización
+T11	SYMPTOM 974 987	ritmo sinusal
+T12	SYMPTOM 1009 1021	QRS estrecho
+T13	SYMPTOM 1034 1070	ondas T negativas simétricas difusas
+T14	SYMPTOM 1533 1555	Perfil tiroideo normal
+T15	SYMPTOM 1606 1626	engrosamiento hiliar
+T18	SYMPTOM 1756 1794	contractilidad simétrica hiperdinámica
+T19	SYMPTOM 1796 1807	FEVI normal
+T20	SYMPTOM 1833 1865	VD de dimensión y función normal
+T21	SYMPTOM 1979 2011	Raíz aórtica de dimensión normal
+T22	SYMPTOM 2062 2080	VM con velos finos
+T23	SYMPTOM 2259 2291	VD de dimensión y función normal
+T24	SYMPTOM 2386 2406	Signos de PVC normal
+T25	SYMPTOM 2463 2529	VI de dimensión normal, paredes normales, contractilidad simétrica
+T28	SYMPTOM 2531 2542	FEVI normal
+T29	SYMPTOM 2568 2600	VD de dimensión y función normal
+T30	SYMPTOM 2702 2707	edema
+T31	SYMPTOM 3320 3342	T negativas simétricas
+T32	SYMPTOM 3983 4013	función ventricular conservada
+T47	SYMPTOM 3702 3715	broncoespasmo
+T99	SYMPTOM 409 428	taquicardia sinusal
+T100	SYMPTOM 440 451	taquipnéica
+T90	SYMPTOM 612 645	alteraciones de la repolarización
+T91	SYMPTOM 1809 1831	AI de dimensión normal
+T92	SYMPTOM 1867 1889	AD de dimensión normal
+T93	SYMPTOM 1891 1911	VCI de tamaño normal
+T94	SYMPTOM 2214 2246	VI de dimensión y función normal
+T95	SYMPTOM 2248 2257	AI normal
+T96	SYMPTOM 2293 2315	AD de dimensión normal
+T97	SYMPTOM 2544 2566	AI de dimensión normal
+T26	SYMPTOM 2602 2624	AD de dimensión normal
+T27	SYMPTOM 3355 3367	QTc alargado
+T98	SYMPTOM 3472 3485	FE conservada
+T101	SYMPTOM 4581 4601	broncoespasmo severo
+T102	SYMPTOM 2788 2834	Arterias coronarias sin lesiones angiográficas
+T113	SYMPTOM 2768 2786	dominancia derecha
+T121	SYMPTOM 767 775	rítmicos
+T103	SYMPTOM 899 911	QRS estrecho

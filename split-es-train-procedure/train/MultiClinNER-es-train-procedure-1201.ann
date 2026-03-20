@@ -1,0 +1,72 @@
+T106	PROCEDURE 1062 1065	RCP
+T107	PROCEDURE 1371 1389	electrocardiograma
+T108	PROCEDURE 1391 1394	ECG
+T109	PROCEDURE 1597 1619	intubación orotraqueal
+T110	PROCEDURE 1621 1624	IOT
+T111	PROCEDURE 1817 1832	coronariografía
+T112	PROCEDURE 1872 1882	hipotermia
+T113	PROCEDURE 1974 1992	Exploración física
+T114	PROCEDURE 2231 2239	Intubado
+T115	PROCEDURE 2355 2376	Auscultación cardiaca
+T116	PROCEDURE 2397 2418	Auscultación pulmonar
+T117	PROCEDURE 2660 2663	ECG
+T118	PROCEDURE 2826 2829	ECG
+T119	PROCEDURE 3155 3170	perfil lipídico
+T120	PROCEDURE 3243 3252	Hemograma
+T121	PROCEDURE 3255 3266	coagulación
+T122	PROCEDURE 3431 3458	Estudio de tóxicos en orina
+T123	PROCEDURE 3470 3485	Ecocardioscopia
+T124	PROCEDURE 3747 3762	Coronariografía
+T125	PROCEDURE 3808 3819	TC cerebral
+T126	PROCEDURE 3879 3907	Ecocardiograma transtorácico
+T127	PROCEDURE 4597 4631	Resonancia magnética (RM) cardiaca
+T128	PROCEDURE 5163 5166	ECG
+T129	PROCEDURE 5314 5332	prueba de esfuerzo
+T130	PROCEDURE 5494 5497	ECG
+T131	PROCEDURE 5569 5587	test de flecainida
+T132	PROCEDURE 5736 5769	test farmacológico con flecainida
+T133	PROCEDURE 5997 6000	ECG
+T134	PROCEDURE 6051 6089	test de ecocardiografía con ergobasina
+T135	PROCEDURE 6211 6226	coronariografía
+T136	PROCEDURE 6228 6256	TC cerebral-toraco-abdominal
+T137	PROCEDURE 6259 6262	ETT
+T138	PROCEDURE 6406 6416	telemetría
+T139	PROCEDURE 6545 6609	pruebas de provocación para canalopatías o vasoespasmo coronario
+T140	PROCEDURE 6767 6794	monitorizado con telemetría
+T141	PROCEDURE 6851 6854	ECG
+T142	PROCEDURE 7035 7050	coronariografía
+T143	PROCEDURE 7063 7092	resonancia magnética cardiaca
+T144	PROCEDURE 7255 7258	TAC
+T145	PROCEDURE 7307 7335	ecocardiograma transtorácico
+T146	PROCEDURE 7350 7379	resonancia magnética cardiaca
+T147	PROCEDURE 7384 7420	Canalopatías: pruebas de provocación
+T148	PROCEDURE 7528 7531	ECG
+T149	PROCEDURE 7640 7678	test de ecocardiografía con ergobasina
+T150	PROCEDURE 8092 8095	ECG
+T151	PROCEDURE 8098 8126	ecocardiograma transtorácico
+T152	PROCEDURE 8208 8274	Se coloca un desfibrilador automático implantable (DAI) subcutáneo
+T153	PROCEDURE 8360 8377	electrofisiología
+T154	PROCEDURE 8583 8647	Test farmacológicos para desenmascarar canalopatía y vasoespasmo
+T160	PROCEDURE 2173 2193	tratamiento sedativo
+T163	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T164	PROCEDURE 2114 2117	IOT
+T165	PROCEDURE 3277 3306	Marcadores de daño miocárdico
+T166	PROCEDURE 3822 3847	angio-TC toraco-abdominal
+T167	PROCEDURE 3176 3189	función renal
+T168	PROCEDURE 3192 3197	iones
+T169	PROCEDURE 5210 5228	prueba de esfuerzo
+T171	PROCEDURE 4619 4621	RM
+T172	PROCEDURE 6518 6542	imagen cardiaca avanzada
+T173	PROCEDURE 7231 7240	ecoscopia
+T179	PROCEDURE 3060 3069	Analítica
+T222	PROCEDURE 2198 2229	perfusión continua de midazolam
+T49	PROCEDURE 1159 1182	descargas mediante DESA
+T51	PROCEDURE 1320 1328	descarga
+T62	PROCEDURE 2258 2268	ventilador
+T84	PROCEDURE 2685 2693	descarga
+T185	PROCEDURE 4933 4960	secuencias de realce tardío
+T45	PROCEDURE 8392 8424	PCR extrahospitalaria resucitada
+#4	AnnotatorNotes T106	 Reanimación cardiopulmonar
+#5	AnnotatorNotes T110	 Intubación orotraqueal
+#6	AnnotatorNotes T164	 Intubación orotraqueal
+#7	AnnotatorNotes T171	 Resonancia magnética

@@ -1,0 +1,12 @@
+T1	SYMPTOM 330 351	vómitos pospandriales
+T2	SYMPTOM 434 452	mal estado general
+T3	SYMPTOM 1337 1343	exitus
+T4	SYMPTOM 382 399	episodio sincopal
+T5	SYMPTOM 454 485	signos de depleción hidrosalina
+T6	SYMPTOM 981 1001	depleción de volumen
+T7	SYMPTOM 1003 1015	hiponatremia
+T8	SYMPTOM 1018 1031	hipopotasemia
+T9	SYMPTOM 1108 1135	mejoría de la función renal
+A1	EXITUS T3
+A2	RESULTADO T7
+A3	RESULTADO T8

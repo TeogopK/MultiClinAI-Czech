@@ -1,0 +1,33 @@
+T53	PROCEDURE 258 275	terapia diurética
+T54	PROCEDURE 357 375	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 533 546	anticoagulada
+T56	PROCEDURE 798 826	revascularización quirúrgica
+T57	PROCEDURE 866 932	desfibrilador implantable con terapia de resincronización cardiaca
+T58	PROCEDURE 985 988	ETT
+T60	PROCEDURE 2378 2396	Exploración física
+T61	PROCEDURE 2716 2737	Auscultación cardiaca
+T62	PROCEDURE 2762 2783	Auscultación pulmonar
+T63	PROCEDURE 2926 2944	Electrocardiograma
+T64	PROCEDURE 2946 2949	ECG
+T65	PROCEDURE 3009 3053	estimulación ventricular mediada por DAI-TRC
+T66	PROCEDURE 3055 3075	Radiografía de tórax
+T68	PROCEDURE 3277 3286	Hemograma
+T69	PROCEDURE 3765 3785	Perfil ferrocinético
+T70	PROCEDURE 3892 3922	Ecocardiografía transesofágica
+T72	PROCEDURE 4312 4331	ecografía abdominal
+T73	PROCEDURE 4515 4545	ecocardiografía transesofágica
+T74	PROCEDURE 4608 4637	ecocardiografía transtorácica
+T75	PROCEDURE 5002 5014	ferroterapia
+T76	PROCEDURE 5174 5191	terapia diurética
+T77	PROCEDURE 5356 5375	terapia antihumoral
+T78	PROCEDURE 5848 5860	TAC cardiaca
+T79	PROCEDURE 5910 5938	implante de prótesis Tendyne
+T80	PROCEDURE 6055 6075	anticoagulación oral
+T82	PROCEDURE 6420 6432	gastroscopia
+T83	PROCEDURE 6435 6447	colonoscopia
+T84	PROCEDURE 6517 6536	cápsula endoscópica
+T85	PROCEDURE 6878 6885	DAI-TRC
+T11	PROCEDURE 3357 3367	Bioquímica
+T132	PROCEDURE 3255 3264	Analítica
+T143	PROCEDURE 6186 6195	analítica
+T28	PROCEDURE 934 941	DAI-TRC

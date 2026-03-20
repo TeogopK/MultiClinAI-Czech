@@ -1,0 +1,85 @@
+T1	SYMPTOM 340 346	fiebre
+T2	SYMPTOM 372 383	somnolencia
+T3	SYMPTOM 387 403	torpeza" en mano
+T5	SYMPTOM 553 559	fiebre
+T6	SYMPTOM 562 565	tos
+T7	SYMPTOM 817 823	fiebre
+T8	SYMPTOM 835 842	astenia
+T9	SYMPTOM 845 860	pérdida de peso
+T10	SYMPTOM 1177 1198	ingurgitación yugular
+T11	SYMPTOM 1267 1292	ruidos cardiacos rítmicos
+T12	SYMPTOM 1297 1355	soplo sistólico en foco mitral grado 3/6 irradiado a axila
+T13	SYMPTOM 1380 1409	murmullo vesicular conservado
+T14	SYMPTOM 1414 1434	ruidos sobreañadidos
+T15	SYMPTOM 1436 1464	Abdomen blando y no doloroso
+T18	SYMPTOM 1564 1626	Extremidades inferiores (EEII) sin edemas con pulsos presentes
+T20	SYMPTOM 1777 1789	bradipsiquia
+T21	SYMPTOM 1806 1817	somnolencia
+T22	SYMPTOM 1819 1851	pares craneales sin alteraciones
+T23	SYMPTOM 1862 1894	dismetría en extremidad superior
+T25	SYMPTOM 2323 2336	ritmo sinusal
+T27	SYMPTOM 2359 2368	PR normal
+T28	SYMPTOM 2370 2382	QRS estrecho
+T29	SYMPTOM 2387 2420	alteraciones en la repolarización
+T30	SYMPTOM 2456 2484	índice cardiotorácico normal
+T32	SYMPTOM 2521 2544	redistribución vascular
+T33	SYMPTOM 2546 2624	Hemocultivos (positivos tras 72 horas de ingreso): Aggregatibacter aphrophilus
+T34	SYMPTOM 2644 2679	Serologías: VIH, VHB, VHC negativos
+T36	SYMPTOM 2881 2915	Función sistólica de VI conservada
+T39	SYMPTOM 3825 3863	abolición de flujo en válvula pulmonar
+T41	SYMPTOM 4817 4821	masa
+T42	SYMPTOM 5154 5191	efecto de masa sobre el IV ventrículo
+T43	SYMPTOM 5386 5473	masa hipodensa de 27 x 15 mm localizada en valva posterior y anterior de válvula mitral
+T46	SYMPTOM 6047 6108	Nódulos pulmonares subpleurales en segmento posterior del LSD
+T48	SYMPTOM 7019 7034	Porta permeable
+T52	SYMPTOM 7801 7823	soplo sistólico mitral
+T53	SYMPTOM 7878 7919	masa dependiente de velo posterior mitral
+T54	SYMPTOM 8158 8199	masa dependiente de velo posterior mitral
+T55	SYMPTOM 8226 8232	fiebre
+T56	SYMPTOM 8360 8399	estable hemodinámica y neurológicamente
+T57	SYMPTOM 9524 9531	astenia
+T58	SYMPTOM 9564 9583	clínica neurológica
+T59	SYMPTOM 9586 9600	picos febriles
+T60	SYMPTOM 10239 10253	picos febriles
+T61	SYMPTOM 10664 10671	afebril
+T87	SYMPTOM 7499 7522	síndrome constitucional
+T184	SYMPTOM 1165 1172	Palidez
+T189	SYMPTOM 5046 5051	edema
+T16	SYMPTOM 1702 1720	manchas de Janeway
+T17	SYMPTOM 2681 2721	Brucella, Coxiella, Bartonella negativos
+T19	SYMPTOM 3200 3247	contractilidad conservada de ventrículo derecho
+T26	SYMPTOM 4369 4377	VM, masa
+T31	SYMPTOM 9644 9709	aislamiento en varios hemocultivos de Aggregatibacter aphrophilus
+T201	SYMPTOM 3003 3033	Patrón diastólico pseudonormal
+T202	SYMPTOM 7293 7330	Riñones de tamaño y morfología normal
+T210	SYMPTOM 2955 3001	alteraciones segmentarias de la contractilidad
+T213	SYMPTOM 7943 7978	aurícula izquierda de tamaño normal
+T216	SYMPTOM 7381 7404	colecciones abdominales
+T217	SYMPTOM 2347 2357	eje normal
+T218	SYMPTOM 11315 11335	estable clínicamente
+T219	SYMPTOM 7525 7546	focalidad neurológica
+T220	SYMPTOM 1907 1940	fuerza y sensibilidad conservadas
+T222	SYMPTOM 2857 2879	grosor parietal normal
+T236	SYMPTOM 3689 3720	jet de regurgitación excéntrico
+T239	SYMPTOM 7036 7069	Venas suprahepáticas no dilatadas
+T37	SYMPTOM 1510 1562	Extremidades superiores (EESS) sin lesiones cutáneas
+T24	SYMPTOM 2499 2517	foco consolidativo
+T38	SYMPTOM 3103 3156	Cavidades derechas en el límite alto de la normalidad
+T44	SYMPTOM 3324 3389	Válvula mitral (VM): velos engrosados, no limitada en su apertura
+T45	SYMPTOM 3402 3461	región posterior de anillo mitral (A3-P3) imagen hiperdensa
+T47	SYMPTOM 3919 3999	Válvula aórtica (VAo): trivalva, sigmoideas normales, no limitada en su apertura
+T49	SYMPTOM 4191 4257	Vena cava inferior (VCI) no dilatada con normocolapso inspiratorio
+T40	SYMPTOM 5054 5117	otra en el hemisfero cerebeloso derecho de densidad heterogénea
+T50	SYMPTOM 5261 5337	No tienen realce significativo ni anular tras la administración de contraste
+T51	SYMPTOM 6222 6324	múltiples lesiones hiperintensas en las secuencias T2 de pequeño tamaño de localización supratentorial
+T182	SYMPTOM 6621 6642	microfoco hemorrágico
+T183	SYMPTOM 6773 6811	efecto de masa sobre el IVo ventrículo
+T185	SYMPTOM 6881 6913	Estudio de difusión inespecífico
+T187	SYMPTOM 7198 7224	Vías biliares no dilatadas
+T188	SYMPTOM 7226 7291	Páncreas y bazo de tamaño, morfología y ecoestructura conservados
+T190	SYMPTOM 7123 7196	Vesícula adecuadamente distendida con pared conservada y contenido normal
+T191	SYMPTOM 7332 7364	Sistemas excretores no dilatados
+T192	SYMPTOM 7417 7459	alteraciones ecográficas en tubo digestivo
+T94	SYMPTOM 9438 9460	afectación por Candida
+T193	SYMPTOM 10303 10359	ecografía de abdomen siendo compatible con la normalidad
+#6	AnnotatorNotes T26	VM: válvula mitral

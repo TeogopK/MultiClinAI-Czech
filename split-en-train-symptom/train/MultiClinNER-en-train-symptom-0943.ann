@@ -1,0 +1,29 @@
+T1	SYMPTOM 460 470	orthopnoea
+T2	SYMPTOM 475 504	paroxysmal nocturnal dyspnoea
+T3	SYMPTOM 519 531	palpitations
+T4	SYMPTOM 540 550	chest pain
+T5	SYMPTOM 718 739	jugular ingurgitation
+T6	SYMPTOM 768 775	murmurs
+T7	SYMPTOM 801 828	crackles in both lung bases
+T8	SYMPTOM 837 866	normal abdomen on examination
+T9	SYMPTOM 1781 1791	narrow QRS
+T10	SYMPTOM 1963 1989	non-dilated left ventricle
+T11	SYMPTOM 2674 2700	non-dilated left ventricle
+T12	SYMPTOM 2016 2030	preserved LVEF
+T14	SYMPTOM 2450 2473	severely depressed LVEF
+T15	SYMPTOM 3130 3154	haemodynamic instability
+T16	SYMPTOM 691 709	tachypnoea at rest
+T17	SYMPTOM 2200 2238	Normofunctioning trivalve aortic valve
+T18	SYMPTOM 2706 2717	normal LVEF
+T19	SYMPTOM 405 443	progressive dyspnoea on minimal effort
+T20	SYMPTOM 741 751	arrhythmic
+T21	SYMPTOM 871 937	malleolar oedema with fovea in the distal third of the lower limbs
+T22	SYMPTOM 1344 1403	left ventricular dimensions at the upper limit of normality
+T23	SYMPTOM 1802 1836	electrocardiographic abnormalities
+T24	SYMPTOM 1868 1888	pulmonary congestion
+T25	SYMPTOM 1915 1945	increased cardiothoracic index
+T26	SYMPTOM 2039 2077	segmental alterations of contractility
+T27	SYMPTOM 2079 2115	Diastolic pattern with single E wave
+T28	SYMPTOM 2726 2764	segmental alterations of contractility
+T13	SYMPTOM 2970 3021	normal left ventricular volumes with preserved LVEF
+T29	SYMPTOM 3112 3118	AF-RVR

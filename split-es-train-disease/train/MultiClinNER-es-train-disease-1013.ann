@@ -1,0 +1,43 @@
+T104	DISEASE 194 215	hipertensión arterial
+T105	DISEASE 217 227	Dislipemia
+T106	DISEASE 405 414	depresión
+T108	DISEASE 461 489	Traumatismo craneoencefálico
+T109	DISEASE 491 494	TCE
+T111	DISEASE 855 870	ánimo depresivo
+T113	DISEASE 931 970	traumatismo craneoencefálico secundario
+T114	DISEASE 2296 2299	TCE
+T115	DISEASE 3230 3252	insuficiencia cardiaca
+T116	DISEASE 3284 3312	patologia intracraneal aguda
+T117	DISEASE 3368 3403	hematoma epicraneal frontal derecho
+T118	DISEASE 3408 3423	fracturas óseas
+T119	DISEASE 3810 3843	Aneurisma del septo inteauricular
+T120	DISEASE 4921 4946	Derrame pleural bilateral
+T121	DISEASE 4999 5021	insuficiencia cardiaca
+T122	DISEASE 5060 5085	miocardiopatia por estrés
+T123	DISEASE 5087 5109	síndrome de tako-tsubo
+T124	DISEASE 5134 5150	edema miocárdico
+T125	DISEASE 5488 5518	hiponatremia grave hipoosmolar
+T126	DISEASE 5765 5779	hipomagnesemia
+T127	DISEASE 5782 5793	hipocalemia
+T128	DISEASE 6051 6072	síndrome de takotsubo
+T129	DISEASE 6396 6428	enfermedad coronaria obstructiva
+T130	DISEASE 6453 6464	cardiopatia
+T131	DISEASE 6495 6519	miocardiopatia de estrés
+T132	DISEASE 6630 6658	trastorno hidroelectrolitico
+T133	DISEASE 6710 6732	SIADH secundario a TCE
+T134	DISEASE 6806 6829	siń drome de tako-tsubo
+T135	DISEASE 6857 6875	hiponatremia grave
+T136	DISEASE 6908 6937	traumatismo creaneoencefálico
+T138	DISEASE 7143 7167	Miocardiopatia de estrés
+T139	DISEASE 7289 7330	Hiponatremia grave hipoosmolar euvolémica
+T140	DISEASE 7365 7370	SIADH
+T141	DISEASE 7373 7376	TCE
+T142	DISEASE 7378 7406	Traumatismo craneoencefálico
+T143	DISEASE 7408 7429	Hipertensión arterial
+T144	DISEASE 7431 7441	Dislipemia
+T145	DISEASE 7443 7461	Sindrome depresivo
+T33	DISEASE 3739 3778	Auricula izquierda ligeramente dilatada
+T44	DISEASE 6074 6098	miocardiopatia de estrés
+T155	DISEASE 3358 3367	Contusión
+T154	DISEASE 7181 7199	hiponatremia grave
+#1	AnnotatorNotes T133	TCE: traumatismo craneoencefálico

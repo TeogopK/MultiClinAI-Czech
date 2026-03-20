@@ -1,0 +1,27 @@
+T77	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T91	PROCEDURE 301 322	Surgical intervention
+T73	PROCEDURE 1312 1315	ECG
+T74	PROCEDURE 1671 1674	ECG
+T76	PROCEDURE 1969 1986	electrocardiogram
+T4	PROCEDURE 2003 2026	bedside echocardioscopy
+T78	PROCEDURE 2221 2241	PHYSICAL EXAMINATION
+T79	PROCEDURE 2497 2525	supplementary oxygen therapy
+T80	PROCEDURE 2566 2586	Cardiac auscultation
+T81	PROCEDURE 2624 2646	Pulmonary auscultation
+T75	PROCEDURE 2790 2793	ECG
+T82	PROCEDURE 3000 3011	Chest X-ray
+T7	PROCEDURE 3152 3155	CBC
+T90	PROCEDURE 3199 3211	electrolytes
+T83	PROCEDURE 3288 3299	Coagulation
+T8	PROCEDURE 3332 3357	Myocardial damage markers
+T84	PROCEDURE 3426 3439	Lipid profile
+T9	PROCEDURE 3550 3573	Bedside echocardioscopy
+T85	PROCEDURE 3976 3992	Echocardiography
+T86	PROCEDURE 4837 4857	Coronary angiography
+T11	PROCEDURE 4976 5019	implantation of a direct drug-eluting stent
+T12	PROCEDURE 5044 5086	post-dilatation with non-compliant balloon
+T88	PROCEDURE 5444 5465	Continuous monitoring
+T87	PROCEDURE 5504 5524	Coronary angiography
+T15	PROCEDURE 5637 5736	RCA, which was revascularised by implanting a drug-eluting stent and post-dilatation with a balloon
+T89	PROCEDURE 5973 5995	cardiac rehabilitation
+T17	PROCEDURE 6423 6472	RCA lesion revascularised by 1 drug-eluting stent

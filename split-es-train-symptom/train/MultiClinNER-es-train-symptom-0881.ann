@@ -1,0 +1,40 @@
+T1	SYMPTOM 459 466	cefalea
+T3	SYMPTOM 696 706	consciente
+T4	SYMPTOM 708 717	orientado
+T5	SYMPTOM 719 725	alerta
+T6	SYMPTOM 727 742	Normoperfundido
+T7	SYMPTOM 744 758	normohidratado
+T8	SYMPTOM 781 802	ingurgitación yugular
+T9	SYMPTOM 808 821	rigidez nucal
+T10	SYMPTOM 823 853	Auscultación cardiaca: rítmica
+T11	SYMPTOM 859 865	soplos
+T12	SYMPTOM 890 919	murmullo vesicular conservado
+T13	SYMPTOM 925 945	ruidos sobreañadidos
+T14	SYMPTOM 947 1000	Extremidades inferiores: pulsos presentes, simétricos
+T15	SYMPTOM 1005 1010	edema
+T16	SYMPTOM 1117 1148	alteraciones en pares craneales
+T17	SYMPTOM 1150 1183	Fuerza y sensibilidad conservadas
+T18	SYMPTOM 1188 1198	dismetrías
+T19	SYMPTOM 1202 1220	disdiadococinesias
+T20	SYMPTOM 1239 1255	signos meníngeos
+T21	SYMPTOM 1668 1689	VIH (Elisa): negativo
+T22	SYMPTOM 1739 1741	RS
+T23	SYMPTOM 1764 1776	QRS estrecho
+T24	SYMPTOM 1778 1807	rectificación ST cara lateral
+T25	SYMPTOM 1831 1876	índice cardiotorácico dentro de la normalidad
+T29	SYMPTOM 2751 2816	ventrículo izquierdo no dilatado con función sistólica conservada
+T30	SYMPTOM 2818 2843	Cámaras derechas normales
+T31	SYMPTOM 2845 2871	Aurículas de tamaño normal
+T32	SYMPTOM 3245 3300	Ventrículo izquierdo no dilatado con función conservada
+T33	SYMPTOM 3302 3327	Cámaras derechas normales
+T34	SYMPTOM 3329 3355	Aurículas de tamaño normal
+T2	SYMPTOM 1600 1666	Beta-2 glicoproteína (IgM, IgG) cardiolipina (IgM, IgG): negativos
+T93	SYMPTOM 1691 1717	Sífilis IgG, IgM: negativo
+T26	SYMPTOM 2930 2956	Septo auricular hipermóvil
+T111	SYMPTOM 1896 1908	condensación
+T114	SYMPTOM 1882 1892	infiltrado
+T94	SYMPTOM 1076 1111	nominación y repetición conservadas
+T95	SYMPTOM 2115 2190	TC-perfusión (imagen 4): aumento de los tiempos en región occipital derecha
+T96	SYMPTOM 2216 2247	troncos supraórticos permeables
+T98	SYMPTOM 2292 2349	Intracraneal: circulación anterior y posterior permeables
+T97	SYMPTOM 2972 3023	suero salino agitado, observándose paso de burbujas

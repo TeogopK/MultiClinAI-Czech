@@ -1,0 +1,29 @@
+T76	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T77	PROCEDURE 872 892	Physical examination
+T78	PROCEDURE 896 916	physical examination
+T79	PROCEDURE 1082 1102	Cardiac auscultation
+T80	PROCEDURE 1143 1165	Pulmonary auscultation
+T81	PROCEDURE 1357 1374	electrocardiogram
+T96	PROCEDURE 1629 1639	monitoring
+T84	PROCEDURE 1697 1708	blood count
+T85	PROCEDURE 1713 1724	coagulation
+T97	PROCEDURE 1746 1760	Renal function
+T86	PROCEDURE 1765 1777	electrolytes
+T82	PROCEDURE 1826 1843	Electrocardiogram
+T83	PROCEDURE 2104 2121	electrocardiogram
+T87	PROCEDURE 2272 2286	Echocardiogram
+T90	PROCEDURE 2724 2748	Coronary catheterisation
+T2	PROCEDURE 2872 2898	Cardiac magnetic resonance
+T3	PROCEDURE 2900 2903	CMR
+T88	PROCEDURE 3455 3471	Echocardiography
+T91	PROCEDURE 3719 3739	intravenous infusion
+T92	PROCEDURE 3808 3837	pharmacological cardioversion
+T89	PROCEDURE 4116 4132	echocardiography
+T93	PROCEDURE 4346 4366	coronary angiography
+T5	PROCEDURE 4633 4659	cardiac magnetic resonance
+T6	PROCEDURE 4661 4664	CMR
+T94	PROCEDURE 4923 4936	genetic study
+T7	PROCEDURE 5115 5167	to implant an implantable cardioverter defibrillator
+T8	PROCEDURE 5169 5172	ICD
+T9	PROCEDURE 5220 5254	start treatment with beta-blockers
+T95	PROCEDURE 5256 5292	Ablation of the arrhythmic substrate

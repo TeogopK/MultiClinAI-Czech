@@ -1,0 +1,12 @@
+T1	SYMPTOM 73 90	dificultad visual
+T2	SYMPTOM 250 280	dificultad para pensar, hablar
+T3	SYMPTOM 289 295	ve mal
+T4	SYMPTOM 618 648	biomicroscopía anterior normal
+T5	SYMPTOM 654 695	pupilas eran isocóricas y normorreactivas
+T6	SYMPTOM 700 745	estudio fundoscópico no presenta alteraciones
+T7	SYMPTOM 843 899	test de colores no presentaba alteraciones en ningún ojo
+T8	SYMPTOM 935 973	RMN) cerebral con gadolinio fue normal
+T9	SYMPTOM 1020 1054	exploración neurológica fue normal
+T10	SYMPTOM 794 838	hemianopsia homónima izquierda no congruente
+A1	RESULTADO T4
+A2	IMAGEN T8

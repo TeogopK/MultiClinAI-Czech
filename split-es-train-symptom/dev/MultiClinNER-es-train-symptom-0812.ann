@@ -1,0 +1,46 @@
+T1	SYMPTOM 339 393	dolor torácico opresivo desencadenados por el esfuerzo
+T2	SYMPTOM 661 667	disnea
+T3	SYMPTOM 1161 1180	buen estado general
+T4	SYMPTOM 1182 1190	eupneica
+T5	SYMPTOM 1233 1258	hemodinámicamente estable
+T6	SYMPTOM 1265 1291	buena perfusión periférica
+T7	SYMPTOM 1354 1368	tonos rítmicos
+T8	SYMPTOM 1373 1379	soplos
+T9	SYMPTOM 1385 1414	murmullo vesicular conservado
+T10	SYMPTOM 1419 1437	ruidos patológicos
+T11	SYMPTOM 1439 1480	Pulsos periféricos simétricos y presentes
+T12	SYMPTOM 1580 1600	ritmo sinusal normal
+T13	SYMPTOM 1614 1647	alteraciones de la repolarización
+T14	SYMPTOM 1672 1722	silueta cardiaca y parénquimas pulmonares normales
+T16	SYMPTOM 2012 2062	función sistólica global y segmentaria conservadas
+T17	SYMPTOM 2182 2201	opresión precordial
+T19	SYMPTOM 2520 2565	alteraciones de la contractilidad segmentaria
+T20	SYMPTOM 2644 2669	Aurícula izquierda normal
+T21	SYMPTOM 2671 2692	Válvula mitral normal
+T22	SYMPTOM 2744 2791	Función sistólica global y segmentaria normales
+T23	SYMPTOM 2793 2838	Llenado ventricular: patrón de llenado normal
+T25	SYMPTOM 3028 3047	opresión precordial
+T26	SYMPTOM 3179 3206	descenso del ST desde V4-V6
+T27	SYMPTOM 3620 3629	FC normal
+T15	SYMPTOM 2307 2322	descenso del ST
+T18	SYMPTOM 2583 2642	raíz aórtica, válvula aórtica y aorta postvalvular normales
+T24	SYMPTOM 3491 3506	descenso del ST
+T28	SYMPTOM 3647 3656	FC normal
+T79	SYMPTOM 1144 1156	Asintomática
+T80	SYMPTOM 2840 2867	Cavidades derechas normales
+T83	SYMPTOM 2694 2742	Ventrículo izquierdo de tamaño y grosor normales
+T86	SYMPTOM 944 956	asintomática
+T87	SYMPTOM 4043 4055	asintomática
+T88	SYMPTOM 5797 5809	asintomática
+T93	SYMPTOM 1975 2006	corazón estructuralmente normal
+T94	SYMPTOM 2246 2299	eléctricamente positiva desde el inicio de la etapa 1
+T99	SYMPTOM 4867 4878	hipocinesia
+T77	SYMPTOM 582 600	clínica vegetativa
+T75	SYMPTOM 990 1062	exploración física, electrocardiograma, Rx de tórax y analítica normales
+T81	SYMPTOM 1761 1834	marcadores de daño miocárdico seriados, serie roja y coagulación normales
+T76	SYMPTOM 2070 2110	ergometría que fue clínicamente positiva
+T85	SYMPTOM 4096 4158	arteria descendente anterior (ADA) sin lesiones significativas
+T90	SYMPTOM 4192 4242	arteria circunfleja (ACx) de muy escaso desarrollo
+T91	SYMPTOM 4276 4324	arteria coronaria derecha (ACD) muy desarrollada
+T92	SYMPTOM 5409 5444	desarrollo de circulación colateral
+T95	SYMPTOM 5479 5530	estudio de hipercoagulabilidad que resultó negativo

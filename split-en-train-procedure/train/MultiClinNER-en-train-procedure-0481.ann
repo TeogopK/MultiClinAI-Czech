@@ -1,0 +1,29 @@
+T1	PROCEDURE 419 439	Physical examination
+T27	PROCEDURE 1207 1253	fingers of the left hand, painful on palpation
+T32	PROCEDURE 1853 1870	Urine examination
+T37	PROCEDURE 2067 2099	serology for hepatitis B, C, HIV
+T2	PROCEDURE 2234 2257	glucose tolerance curve
+T3	PROCEDURE 2266 2286	liver function tests
+T4	PROCEDURE 2288 2301	Blood culture
+T5	PROCEDURE 2303 2316	stool culture
+T6	PROCEDURE 2321 2334	urine culture
+T42	PROCEDURE 2365 2378	24-hour urine
+T18	PROCEDURE 2544 2579	extractable nuclear antigen profile
+T17	PROCEDURE 2581 2584	ENA
+T19	PROCEDURE 2649 2676	Antiphospholipid antibodies
+T7	PROCEDURE 2743 2757	Viral serology
+T20	PROCEDURE 2774 2779	ELISA
+T21	PROCEDURE 2822 2827	ELISA
+T22	PROCEDURE 2857 2862	ELISA
+T8	PROCEDURE 2953 3011	left lower extremity verified by venous Doppler ultrasound
+T9	PROCEDURE 3057 3068	chest X-ray
+T10	PROCEDURE 3070 3087	electrocardiogram
+T11	PROCEDURE 3089 3113	Doppler echocardiography
+T23	PROCEDURE 3185 3217	Methylprednisolone 500 mg pulses
+T12	PROCEDURE 3352 3367	anticoagulation
+T56	PROCEDURE 3580 3588	brain CT
+T13	PROCEDURE 3593 3613	electroencephalogram
+T14	PROCEDURE 3650 3664	plasmapheresis
+T24	PROCEDURE 3687 3720	pulses of 1 g of cyclophosphamide
+T15	PROCEDURE 3856 3866	antivirals
+T16	PROCEDURE 3871 3885	ACE inhibitors

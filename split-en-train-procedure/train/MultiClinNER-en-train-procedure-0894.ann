@@ -1,0 +1,31 @@
+T36	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T48	PROCEDURE 267 284	revascularisation
+T38	PROCEDURE 799 829	transthoracic echocardiography
+T39	PROCEDURE 874 894	coronary angiography
+T37	PROCEDURE 897 917	Physical examination
+T41	PROCEDURE 1134 1164	Cardiorespiratory auscultation
+T42	PROCEDURE 1329 1346	Electrocardiogram
+T5	PROCEDURE 1467 1483	Laboratory tests
+T43	PROCEDURE 1567 1580	Lipid profile
+T46	PROCEDURE 2287 2310	Cardiac catheterisation
+T12	PROCEDURE 2553 2564	blood tests
+T13	PROCEDURE 2573 2582	haemogram
+T56	PROCEDURE 2584 2598	Renal function
+T55	PROCEDURE 2649 2661	electrolytes
+T44	PROCEDURE 2678 2691	Lipid profile
+T40	PROCEDURE 2925 2945	coronary angiography
+T61	PROCEDURE 3109 3127	surgical treatment
+T47	PROCEDURE 3145 3160	Cardiac surgery
+T49	PROCEDURE 3231 3248	revascularisation
+T50	PROCEDURE 3275 3492	Myocardial revascularisation surgery was performed with quadruple aortocoronary bypass (proximal internal mammary artery - proximal LAD, posterior descending saphenous, marginal saphenous-obtuse, saphenous-1odiagonal)
+T15	PROCEDURE 3611 3620	operation
+T45	PROCEDURE 3732 3745	lipid profile
+T16	PROCEDURE 3968 3988	high-potency statins
+T59	PROCEDURE 4042 4048	arGLP1
+T52	PROCEDURE 4056 4083	oral antidiabetic treatment
+T17	PROCEDURE 4606 4615	operation
+T18	PROCEDURE 4703 4719	laboratory tests
+T53	PROCEDURE 4820 4833	liver profile
+T58	PROCEDURE 5206 5223	smoking cessation
+T60	PROCEDURE 5397 5415	analytical control
+T54	PROCEDURE 5591 5662	Surgical revascularisation by quadruple coronary artery bypass grafting

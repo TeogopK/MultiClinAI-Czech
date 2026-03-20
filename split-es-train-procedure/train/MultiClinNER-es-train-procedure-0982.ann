@@ -1,0 +1,33 @@
+T73	PROCEDURE 174 192	exploración física
+T74	PROCEDURE 805 816	cateterismo
+T75	PROCEDURE 1564 1567	ECG
+T76	PROCEDURE 1743 1757	Ecocardiograma
+T77	PROCEDURE 2523 2534	Rx de tórax
+T78	PROCEDURE 2720 2723	ECG
+T79	PROCEDURE 2790 2804	ecocardiograma
+T80	PROCEDURE 2820 2831	cateterismo
+T81	PROCEDURE 2874 2888	antiagregación
+T82	PROCEDURE 2890 2905	anticoagulación
+T83	PROCEDURE 2939 2955	beta-bloqueantes
+T84	PROCEDURE 2980 3008	tratamiento tuberculostático
+T85	PROCEDURE 3035 3046	Cateterismo
+T86	PROCEDURE 3048 3073	Coronariografía izquierda
+T87	PROCEDURE 3295 3318	Coronariografía derecha
+T88	PROCEDURE 3475 3487	RMN cardiaca
+T89	PROCEDURE 4217 4232	anticoagulación
+T90	PROCEDURE 4575 4619	resección de aneurisma ventricular izquierdo
+T91	PROCEDURE 4622 4642	extracción de trombo
+T92	PROCEDURE 4658 4689	cierre con parche de pericardio
+T93	PROCEDURE 4873 4881	extubado
+T94	PROCEDURE 5218 5247	resección del aneurisma de VI
+T95	PROCEDURE 5250 5287	extracción de trombo intraventricular
+T105	PROCEDURE 1315 1317	AC
+T106	PROCEDURE 1370 1372	AP
+T108	PROCEDURE 4776 4794	drogas vasoactivas
+T109	PROCEDURE 2922 2937	hipolipemiantes
+T110	PROCEDURE 2958 2963	IECAs
+T111	PROCEDURE 1291 1306	Cabeza y cuello
+T113	PROCEDURE 1118 1129	Exploración
+T114	PROCEDURE 5190 5213	Intervención quirúrgica
+T127	PROCEDURE 4503 4526	intervención quirúrgica
+T35	PROCEDURE 3918 3945	secuencias de realce tardío

@@ -1,0 +1,45 @@
+T43	DISEASE 60 74	drug allergies
+T44	DISEASE 76 100	Type 2 diabetes mellitus
+T45	DISEASE 228 247	Depressive syndrome
+T46	DISEASE 455 467	splenomegaly
+T49	DISEASE 577 595	systemic sclerosis
+T78	DISEASE 1436 1467	complete atrioventricular block
+T53	DISEASE 1436 1494	complete atrioventricular block (AVB) with wide QRS escape
+T54	DISEASE 1671 1684	heart failure
+T55	DISEASE 1936 2003	polymorphic ventricular tachycardia of the torsades de pointes type
+T85	DISEASE 2288 2324	sclerodermic skin on trunk and hands
+T87	DISEASE 2329 2344	telangiectasias
+T84	DISEASE 2349 2355	ulcers
+T56	DISEASE 2360 2370	calcinosis
+T47	DISEASE 2709 2721	splenomegaly
+T57	DISEASE 2802 2822	deep vein thrombosis
+T83	DISEASE 4569 4592	left anterior hemiblock
+T86	DISEASE 4597 4633	incomplete right bundle branch block
+T79	DISEASE 4656 4687	complete atrioventricular block
+T58	DISEASE 6060 6125	Mitral valve with thickened leaflets, with moderate insufficiency
+T59	DISEASE 6127 6166	Tricuspid valve with mild insufficiency
+T60	DISEASE 6226 6246	pericardial effusion
+T48	DISEASE 6277 6289	splenomegaly
+T61	DISEASE 6374 6386	Cardiomegaly
+T62	DISEASE 6452 6474	pulmonary hypertension
+T63	DISEASE 6588 6604	pulmonary oedema
+T64	DISEASE 6621 6639	pulmonary fibrosis
+T81	DISEASE 7471 7501	glomeruli with small aneurysms
+T73	DISEASE 7755 7785	tubulointerstitial nephropathy
+T66	DISEASE 7755 7809	tubulointerstitial nephropathy with severe involvement
+T67	DISEASE 8498 8518	mitral insufficiency
+T68	DISEASE 8808 8828	chronic hypertension
+T82	DISEASE 9010 9036	bilateral pleural effusion
+T69	DISEASE 9071 9090	respiratory failure
+T70	DISEASE 9320 9337	renal dysfunction
+T71	DISEASE 9854 9882	anaemia with reticulocytosis
+T72	DISEASE 9979 9998	hypertensive crisis
+T74	DISEASE 10579 10609	tubulointerstitial nephropathy
+T75	DISEASE 11057 11113	Diffuse systemic sclerosis with scleroderma renal crisis
+T50	DISEASE 11065 11083	systemic sclerosis
+T65	DISEASE 11115 11133	Pulmonary fibrosis
+T76	DISEASE 11115 11192	Pulmonary fibrosis 2nd to pulmonary involvement of diffuse systemic sclerosis
+T51	DISEASE 11174 11192	systemic sclerosis
+T80	DISEASE 11194 11225	Complete atrioventricular block
+T77	DISEASE 11227 11246	myocardial fibrosis
+T52	DISEASE 11318 11336	systemic sclerosis

@@ -1,0 +1,22 @@
+T8	DISEASE 53 70	pérdida de visión
+T10	DISEASE 1767 1788	seudoxantoma elástico
+T24	DISEASE 1462 1465	NVC
+T30	DISEASE 2255 2280	hemorragias subretinianas
+T32	DISEASE 637 654	estrías angioides
+T36	DISEASE 872 875	NVC
+T39	DISEASE 656 658	EA
+T44	DISEASE 1670 1702	desprendimiento de neuroepitelio
+T58	DISEASE 1051 1059	lesiones
+T59	DISEASE 774 799	lesión grisácea subfoveal
+T60	DISEASE 1389 1395	lesión
+T61	DISEASE 1615 1621	lesión
+T1	DISEASE 743 767	drusas del nervio óptico
+T2	DISEASE 818 820	EA
+T3	DISEASE 1171 1195	drusas del nervio óptico
+T4	DISEASE 1331 1376	alteración del epitelio pigmentario retiniano
+T5	DISEASE 1641 1644	NVC
+#4	AnnotatorNotes T24	   NVC: Neovascularización coroidea
+#3	AnnotatorNotes T36	   NVC: Neovascularización coroidea
+#1	AnnotatorNotes T39	   EA: estrías angioides
+#2	AnnotatorNotes T2	   EA: estrías angioides
+#5	AnnotatorNotes T5	   NVC: Neovascularización coroidea

@@ -1,0 +1,55 @@
+T1	SYMPTOM 491 533	dolor centrotorácico, de carácter opresivo
+T2	SYMPTOM 601 606	dolor
+T3	SYMPTOM 624 631	náuseas
+T4	SYMPTOM 633 643	sudoración
+T5	SYMPTOM 659 665	disnea
+T6	SYMPTOM 757 763	fiebre
+T7	SYMPTOM 766 780	dolor faríngeo
+T8	SYMPTOM 856 890	alteraciones electrocardiográficas
+T10	SYMPTOM 1070 1089	Buen estado general
+T11	SYMPTOM 1091 1101	consciente
+T12	SYMPTOM 1104 1130	orientado en las 3 esferas
+T13	SYMPTOM 1132 1157	Estable hemodinámicamente
+T14	SYMPTOM 1159 1177	Eupneico en reposo
+T15	SYMPTOM 1179 1193	Normocoloreado
+T16	SYMPTOM 1195 1222	bien hidratado y perfundido
+T18	SYMPTOM 1224 1231	Afebril
+T19	SYMPTOM 1361 1402	Auscultación cardiorrespiratoria: rítmico
+T20	SYMPTOM 1427 1433	soplos
+T21	SYMPTOM 1437 1447	extratonos
+T22	SYMPTOM 1449 1478	Murmullo vesicular conservado
+T24	SYMPTOM 1518 1574	Abdomen: blando y depresible, no doloroso a la palpación
+T26	SYMPTOM 1580 1597	signos de defensa
+T27	SYMPTOM 1601 1622	irritación peritoneal
+T29	SYMPTOM 1747 1760	ritmo sinusal
+T30	SYMPTOM 1771 1780	PR normal
+T31	SYMPTOM 1796 1838	Elevación del punto J de < 1 mm de V4 a V6
+T32	SYMPTOM 1840 1866	Onda T negativa de V4 a V6
+T33	SYMPTOM 2014 2044	función renal e iones normales
+T34	SYMPTOM 2187 2215	Radiografía de tórax: normal
+T35	SYMPTOM 2217 2245	Índice cardiotorácico normal
+T38	SYMPTOM 2485 2513	Serología: negativo para VIH
+T39	SYMPTOM 2692 2722	función renal e iones normales
+T40	SYMPTOM 2740 2776	perfil hepatobiliar sin alteraciones
+T41	SYMPTOM 2954 2989	Hormonas tiroideas y HbA1c normales
+T42	SYMPTOM 2991 3022	Hemograma: tres series normales
+T43	SYMPTOM 3061 3109	ventrículo izquierdo no dilatado ni hipertrófico
+T46	SYMPTOM 4359 4391	función biventricular conservada
+T47	SYMPTOM 4578 4590	asintomático
+T48	SYMPTOM 4862 4881	hipoquinesia global
+T49	SYMPTOM 5418 5467	función sistólica biventricular estaba conservada
+T52	SYMPTOM 6667 6699	función biventricular conservada
+T145	SYMPTOM 893 935	elevación de marcadores de daño miocárdico
+T82	SYMPTOM 2260 2279	congestión pulmonar
+T9	SYMPTOM 2485 2545	Serología: negativo para VIH, sífilis yMycoplasma pneumoniae
+T25	SYMPTOM 2547 2641	Positivo para infección pasada por adenovirus, CMV, Echovirus, VEB, parvovirus B19 y Coxsackie
+T28	SYMPTOM 3672 3704	Ambas aurículas de tamaño normal
+T165	SYMPTOM 3346 3361	Masa miocárdica
+T166	SYMPTOM 1624 1654	Miembros inferiores sin edemas
+T173	SYMPTOM 2323 2369	arterias coronarias angiográficamente normales
+T182	SYMPTOM 3115 3156	movilidad global y segmentaria conservada
+T183	SYMPTOM 3464 3505	movilidad global y segmentaria conservada
+T17	SYMPTOM 3412 3458	Ventrículo derecho no dilatado ni hipertrófico
+T37	SYMPTOM 2271 2293	pulmonar, condensación
+T50	SYMPTOM 4048 4077	defectos basales de perfusión
+T51	SYMPTOM 5283 5353	Ambos ventrículos presentaban una morfología y unos volúmenes normales

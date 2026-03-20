@@ -1,0 +1,41 @@
+T2	SYMPTOM 558 597	pérdida súbita del nivel de consciencia
+T3	SYMPTOM 662 676	dolor torácico
+T4	SYMPTOM 743 774	palpitaciones a alta frecuencia
+T5	SYMPTOM 826 842	malestar general
+T6	SYMPTOM 863 879	sensación febril
+T7	SYMPTOM 882 902	síntomas infecciosos
+T10	SYMPTOM 1240 1262	pérdida de consciencia
+T11	SYMPTOM 1438 1451	ritmo sinusal
+T13	SYMPTOM 1619 1659	Exploración neurológica sin alteraciones
+T14	SYMPTOM 1674 1703	auscultación cardiaca rítmica
+T15	SYMPTOM 1709 1715	soplos
+T16	SYMPTOM 1722 1766	auscultación pulmonar sin ruidos patológicos
+T18	SYMPTOM 1829 1863	reflujo hepatoyugular fue negativo
+T19	SYMPTOM 1869 1910	miembros inferiores no presentaban edemas
+T20	SYMPTOM 1968 2007	pulsos se palpaban fuertes y simétricos
+T21	SYMPTOM 2520 2542	pérdida de consciencia
+T22	SYMPTOM 2678 2709	ritmo sinusal sin preexcitación
+T23	SYMPTOM 3009 3041	intervalo QT corregido es normal
+T24	SYMPTOM 3176 3204	función sistólica conservada
+T25	SYMPTOM 3210 3255	alteraciones de la contractilidad segmentaria
+T28	SYMPTOM 4292 4297	edema
+T29	SYMPTOM 5954 5986	mutación missense en el gen SCN5
+T93	SYMPTOM 3366 3397	Válvula mitral normofuncionante
+T107	SYMPTOM 1598 1617	taquipnea en reposo
+T1	SYMPTOM 2132 2166	Sin alteraciones de la coagulación
+T8	SYMPTOM 2918 2932	ST descendente
+T9	SYMPTOM 2994 3004	T negativa
+T12	SYMPTOM 4801 4832	Mutación missense en el geSnCN5
+T118	SYMPTOM 3481 3511	Vena cava inferior no dilatada
+T134	SYMPTOM 1022 1043	focalidad neurológica
+T27	SYMPTOM 2425 2467	tóxicos/drogas de abuso en orina: negativo
+T95	SYMPTOM 6115 6143	test de provocación negativo
+T96	SYMPTOM 973 982	sacudidas
+T99	SYMPTOM 2765 2822	QRS con morfología de patrón de Brugada tipo Ic–oved type
+T100	SYMPTOM 3257 3296	Cavidades no dilatadas ni hipertróficas
+T101	SYMPTOM 3920 3959	cavidades no hipertróficas ni dilatadas
+T102	SYMPTOM 4229 4262	alteraciones de la contractilidad
+T103	SYMPTOM 4338 4387	realce tardío tras la administración de gadolinio
+T104	SYMPTOM 5301 5358	patrón de Brugada espontáneo tipo 1 (en aleta de tiburón)
+T105	SYMPTOM 6087 6112	ECG de superficie anodino
+T109	SYMPTOM 6213 6271	test de provocación y el estudio genético fueron negativos

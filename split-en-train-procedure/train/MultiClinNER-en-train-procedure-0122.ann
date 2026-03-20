@@ -1,0 +1,17 @@
+T10	PROCEDURE 114 148	evaluation of cleft lip and palate
+T2	PROCEDURE 301 321	physical examination
+T3	PROCEDURE 371 393	Cephalometric analysis
+T8	PROCEDURE 398 413	imaging studies
+T4	PROCEDURE 424 457	multidetector computed tomography
+T11	PROCEDURE 459 463	MDCT
+T9	PROCEDURE 577 589	radiological
+T12	PROCEDURE 621 644	LeFort type 1 osteotomy
+T5	PROCEDURE 650 693	placement of internal maxillary distractors
+T13	PROCEDURE 803 822	extraction of teeth
+T18	PROCEDURE 827 862	rehabilitation with dental implants
+T14	PROCEDURE 1039 1065	bilateral anterior packing
+T21	PROCEDURE 1122 1207	MDCT after intravenous contrast injection (IVC) for vascular study of the facial mass
+T15	PROCEDURE 1573 1614	subsequent tamponade with Foley catheters
+T1	PROCEDURE 1645 1705	selective arteriography of the right external carotid artery
+T6	PROCEDURE 1875 1940	embolisation in the same intervention with 50% cyanoacrylate glue
+T7	PROCEDURE 2119 2131	embolisation

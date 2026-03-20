@@ -1,0 +1,48 @@
+T67	DISEASE 181 212	decompensation of heart failure
+T33	DISEASE 217 231	drug allergies
+T34	DISEASE 269 291	essential hypertension
+T35	DISEASE 296 313	diabetes mellitus
+T36	DISEASE 315 317	DM
+T37	DISEASE 322 335	dyslipidaemia
+T68	DISEASE 337 349	Toxic habits
+T38	DISEASE 351 360	ex-smoker
+T24	DISEASE 393 399	smoked
+T39	DISEASE 460 489	permanent atrial fibrillation
+T23	DISEASE 589 648	Congestive heart failure labelled as hypertensive aetiology
+T41	DISEASE 699 721	chronic kidney disease
+T71	DISEASE 748 768	nephroangiosclerosis
+T43	DISEASE 815 837	Rigid-kinetic syndrome
+T44	DISEASE 861 916	Chronic iron deficiency anaemia due to digestive losses
+T45	DISEASE 918 946	Benign prostatic hyperplasia
+T46	DISEASE 951 991	chronic open-angle glaucoma in both eyes
+T49	DISEASE 1386 1399	heart failure
+T22	DISEASE 1682 1701	infectious symptoms
+T52	DISEASE 2481 2500	atrial fibrillation
+T19	DISEASE 2502 2504	AF
+T20	DISEASE 2536 2570	complete right bundle branch block
+T21	DISEASE 2572 2576	RBBB
+T57	DISEASE 2647 2673	bilateral pleural effusion
+T59	DISEASE 2733 2753	Aortic calcification
+T61	DISEASE 2755 2772	Spondyloarthrosis
+T63	DISEASE 4032 4059	blocked atrial fibrillation
+T18	DISEASE 4966 4968	AF
+T17	DISEASE 4988 4996	HR-CDBHR
+T16	DISEASE 5071 5073	HF
+T54	DISEASE 5274 5293	atrial fibrillation
+T15	DISEASE 5324 5329	HRBBB
+T58	DISEASE 5396 5422	bilateral pleural effusion
+T60	DISEASE 5493 5513	aortic calcification
+T62	DISEASE 5518 5535	spondyloarthrosis
+T70	DISEASE 5657 5720	non-dilated left ventricle with moderate concentric hypertrophy
+T14	DISEASE 5791 5813	valvular heart disease
+T13	DISEASE 5838 5870	dilated inferior vena cava (IVC)
+T64	DISEASE 6342 6428	atrial fibrillation with complete atrioventricular block (AVB) with ventricular escape
+T12	DISEASE 6400 6403	AVB
+T11	DISEASE 7374 7413	atrioventricular conduction disturbance
+T10	DISEASE 7502 7504	AF
+T9	DISEASE 7726 7728	AF
+T8	DISEASE 7811 7869	Complete AVB due to accidental carbidopa/levodopa overdose
+T7	DISEASE 7871 7898	Decompensated heart failure
+T40	DISEASE 7933 7962	Permanent atrial fibrillation
+T65	DISEASE 7996 8027	stage 3a chronic kidney disease
+T66	DISEASE 8029 8051	Stiff-kinetic syndrome

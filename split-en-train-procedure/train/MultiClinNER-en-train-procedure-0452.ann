@@ -1,0 +1,20 @@
+T7	PROCEDURE 246 255	anamnesis
+T13	PROCEDURE 257 268	Examination
+T8	PROCEDURE 556 568	auscultation
+T15	PROCEDURE 572 595	computerised tomography
+T16	PROCEDURE 572 616	computerised tomography (CT)-guided puncture
+T11	PROCEDURE 597 599	CT
+T17	PROCEDURE 758 778	viral serology study
+T18	PROCEDURE 784 817	CT scan with intravenous contrast
+T1	PROCEDURE 1239 1258	general anaesthesia
+T4	PROCEDURE 1266 1301	supraclavicular horizontal incision
+T12	PROCEDURE 1306 1331	section of the SCM muscle
+T10	PROCEDURE 1500 1510	dissection
+T9	PROCEDURE 1629 1636	surgery
+T24	PROCEDURE 1682 1706	Pathological examination
+T6	PROCEDURE 1850 1877	immunohistochemical markers
+T2	PROCEDURE 2176 2191	molecular study
+T14	PROCEDURE 2207 2263	the presence of human herpes virus type 8 (HHV 8) by PCR
+T3	PROCEDURE 2267 2298	thoraco-abdomino-pelvic CT scan
+T29	PROCEDURE 2341 2352	blood tests
+T5	PROCEDURE 2354 2377	immunology and serology

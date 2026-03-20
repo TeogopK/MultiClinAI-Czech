@@ -1,0 +1,43 @@
+T95	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 273 306	treatment with oral antidiabetics
+T97	PROCEDURE 1481 1498	electrocardiogram
+T99	PROCEDURE 1569 1580	chest X-ray
+T4	PROCEDURE 1717 1740	portable echocardiocopy
+T136	PROCEDURE 1996 2006	monitoring
+T5	PROCEDURE 2011 2024	serum therapy
+T101	PROCEDURE 2054 2091	fluoroscopy-guided pericardiocentesis
+T108	PROCEDURE 2299 2381	emergent pericardiocentesis guided by echocardiography using a subxiphoid approach
+T103	PROCEDURE 2631 2639	drainage
+T7	PROCEDURE 2667 2700	patient is continuously monitored
+T96	PROCEDURE 2703 2723	Physical examination
+T105	PROCEDURE 3035 3063	Cardiopulmonary auscultation
+T9	PROCEDURE 3346 3349	CBC
+T98	PROCEDURE 3711 3728	Electrocardiogram
+T100	PROCEDURE 3885 3896	Chest X-ray
+T106	PROCEDURE 3968 3992	Portable echocardioscopy
+T122	PROCEDURE 4196 4210	echocardiogram
+T109	PROCEDURE 4217 4235	pericardiocentesis
+T111	PROCEDURE 4674 4684	Gram stain
+T112	PROCEDURE 4727 4750	bacteriological culture
+T11	PROCEDURE 4782 4794	mycobacteria
+T114	PROCEDURE 4798 4806	cytology
+T115	PROCEDURE 4808 4822	Tumour markers
+T132	PROCEDURE 4824 4836	autoimmunity
+T117	PROCEDURE 4838 4846	serology
+T118	PROCEDURE 4951 5027	Serology hepatotropic viruses, CMV, Treponema pallidum and Coxiella burnetii
+T12	PROCEDURE 5056 5084	Chest-abdomen-pelvis CT scan
+T123	PROCEDURE 5405 5419	Echocardiogram
+T125	PROCEDURE 5893 5902	telemetry
+T127	PROCEDURE 5991 6003	auscultation
+T124	PROCEDURE 6017 6045	transthoracic echocardiogram
+T128	PROCEDURE 6414 6420	NSAIDs
+T113	PROCEDURE 6820 6843	bacteriological culture
+T116	PROCEDURE 6986 7000	tumour markers
+T129	PROCEDURE 6986 7017	tumour markers and autoimmunity
+T134	PROCEDURE 7005 7017	autoimmunity
+T119	PROCEDURE 7106 7114	Serology
+T130	PROCEDURE 7106 7191	Serology for hepatotropic viruses, HIV, CMV, Treponema pallidum and Coxiella burnetii
+T135	PROCEDURE 7243 7258	extension study
+T120	PROCEDURE 7262 7298	CT scan of the thorax-abdomen-pelvis
+T131	PROCEDURE 7481 7507	echocardiographic controls
+T110	PROCEDURE 8570 8588	pericardiocentesis

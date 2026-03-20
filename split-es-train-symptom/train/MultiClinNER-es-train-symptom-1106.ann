@@ -1,0 +1,43 @@
+T3	SYMPTOM 226 328	dolor torácico de 8 horas de evolución, opresivo, irradiado a miembro superior izquierdo y a mandíbula
+T4	SYMPTOM 340 345	dolor
+T5	SYMPTOM 530 544	dolor torácico
+T6	SYMPTOM 753 766	ritmo sinusal
+T7	SYMPTOM 780 832	elevación del segmento ST en derivaciones inferiores
+T8	SYMPTOM 997 1005	sudoroso
+T9	SYMPTOM 1011 1033	regular estado general
+T10	SYMPTOM 1052 1066	dolor torácico
+T11	SYMPTOM 1076 1110	alteraciones electrocardiográficas
+T12	SYMPTOM 1225 1247	Regular estado general
+T13	SYMPTOM 1249 1279	Auscultación cardiaca: rítmico
+T14	SYMPTOM 1285 1291	soplos
+T15	SYMPTOM 1316 1345	murmullo vesicular conservado
+T16	SYMPTOM 1350 1370	ruidos sobreañadidos
+T17	SYMPTOM 1470 1483	ritmo sinusal
+T18	SYMPTOM 1506 1518	QRS estrecho
+T19	SYMPTOM 1520 1530	Eje normal
+T20	SYMPTOM 1532 1579	Elevación del segmento ST II, III, aVF, V5 y V6
+T21	SYMPTOM 1603 1633	ICT en límite de la normalidad
+T22	SYMPTOM 2807 2896	ventrículo izquierdo de tamaño normal con aquinesia inferior e hipoquinesia inferolateral
+T23	SYMPTOM 2961 2972	FEVD normal
+T24	SYMPTOM 2974 3000	Aurículas de tamaño normal
+T25	SYMPTOM 3197 3227	Cava inferior de tamaño normal
+T26	SYMPTOM 3279 3292	ritmo sinusal
+T27	SYMPTOM 3303 3312	PR normal
+T28	SYMPTOM 3531 3545	dolor torácico
+T29	SYMPTOM 3678 3692	dolor torácico
+T30	SYMPTOM 3786 3823	elevación de reactantes de fase aguda
+T31	SYMPTOM 4205 4245	Ventrículo derecho (VD) de tamaño normal
+T32	SYMPTOM 4279 4305	Aurículas de tamaño normal
+T33	SYMPTOM 4352 4394	Válvula mitral de aspecto y función normal
+T35	SYMPTOM 5185 5210	elevación del segmento ST
+T1	SYMPTOM 3314 3336	Onda Q en II,III y AVF
+T92	SYMPTOM 3361 3420	infradesnivelación del ST en dichas derivaciones y en V5-V6
+T93	SYMPTOM 4128 4156	Aquinesia lateral e inferior
+T94	SYMPTOM 4159 4176	hipocinesia grave
+T95	SYMPTOM 4311 4350	aurícula derecha con colapso diastólico
+T96	SYMPTOM 4396 4433	Válvula aórtica anatómicamente normal
+T113	SYMPTOM 1658 1675	datos congestivos
+T34	SYMPTOM 2477 2509	rama marginal permaneció ocluida
+T57	SYMPTOM 4635 4689	Vena cava inferior (VCI) en el límite de la dilatación
+T100	SYMPTOM 4814 4837	compromiso hemodinámico
+T101	SYMPTOM 4987 5052	pericardiocentesis con extraccXSión de abundante líquido hemático

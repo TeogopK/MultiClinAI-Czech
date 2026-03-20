@@ -1,0 +1,33 @@
+T37	DISEASE 690 702	skin lesions
+T55	DISEASE 1012 1044	Hypersensitivity to beta-lactams
+T62	DISEASE 1048 1060	Toxic habits
+T56	DISEASE 1066 1072	smoker
+T63	DISEASE 1074 1081	Drinker
+T1	DISEASE 1145 1148	AHT
+T2	DISEASE 1150 1154	IIDM
+T39	DISEASE 1156 1169	dyslipidaemia
+T40	DISEASE 1171 1195	hyperuricaemia with gout
+T3	DISEASE 1197 1209	permanent AF
+T41	DISEASE 1258 1289	chronic ischaemic heart disease
+T42	DISEASE 1328 1358	carotid sinus hypersensitivity
+T43	DISEASE 1526 1559	Vertebral ankylosing hyperostosis
+T45	DISEASE 1564 1568	gout
+T46	DISEASE 1650 1678	Community-acquired pneumonia
+T5	DISEASE 1952 1994	adenopathies in the main lymph node groups
+T6	DISEASE 2041 2053	Septic mouth
+T47	DISEASE 2406 2409	DVT
+T38	DISEASE 2416 2428	skin lesions
+T57	DISEASE 2672 2696	left bundle branch block
+T58	DISEASE 2713 2732	global cardiomegaly
+T8	DISEASE 2743 2746	LVI
+T48	DISEASE 3095 3117	BACTERIAL ENDOCARDITIS
+T59	DISEASE 3571 3593	left atrial dilatation
+T49	DISEASE 3673 3698	concentric LV hypertrophy
+T60	DISEASE 3700 3787	Vegetation of 12x7mm at the level of the atrial segment of the posterior mitral leaflet
+T11	DISEASE 3899 3923	endocarditic involvement
+T61	DISEASE 3939 3957	Endocarditismitral
+T50	DISEASE 4193 4202	infection
+T13	DISEASE 4269 4292	allergy to beta-lactams
+T53	DISEASE 4354 4375	allergy -> AMPICYLINE
+T54	DISEASE 4416 4441	Infection on native valve
+T52	DISEASE 4468 4477	Infection

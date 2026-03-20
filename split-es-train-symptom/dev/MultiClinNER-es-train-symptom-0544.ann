@@ -1,0 +1,48 @@
+T1	SYMPTOM 198 213	dolor abdominal
+T2	SYMPTOM 215 236	diarrea sanguinolenta
+T3	SYMPTOM 1220 1251	aumento del perímetro abdominal
+T4	SYMPTOM 239 246	cefalea
+T5	SYMPTOM 1280 1301	deterioro neurológico
+T6	SYMPTOM 1303 1336	mioclonías en miembros inferiores
+T7	SYMPTOM 1338 1370	disminución de la agudeza visual
+T8	SYMPTOM 479 519	parestesias en ambos miembros superiores
+T9	SYMPTOM 1388 1411	aumento de la citolisis
+T10	SYMPTOM 2159 2230	déficit relativo de factores de síntesis hepática (factor V 36,63%, VII
+T11	SYMPTOM 3053 3065	hemorrágicas
+T12	SYMPTOM 374 415	Tacto rectal con restos hemáticos frescos
+T13	SYMPTOM 1907 1922	Porta permeable
+T14	SYMPTOM 2093 2109	Cultivo negativo
+T15	SYMPTOM 2111 2129	Citología negativa
+T16	SYMPTOM 2349 2471	Gen de la protrombina y de la metilentetrahidrofolato reducatasa, homocisteína, antitrombina III, proteína C y S, normales
+T17	SYMPTOM 1685 1692	Ascitis
+T18	SYMPTOM 1939 1946	Ascitis
+T19	SYMPTOM 1270 1277	ascitis
+T20	SYMPTOM 872 922	afectación grave de la mucosa desde el margen anal
+T21	SYMPTOM 1564 1591	Arteria hepática prominente
+T22	SYMPTOM 3137 3150	fallecimiento
+T23	SYMPTOM 261 294	déficit motor en miembro inferior
+T24	SYMPTOM 326 372	dolor abdominal difuso a la palpación profunda
+T25	SYMPTOM 426 466	impotencia funcional en miembro inferior
+T26	SYMPTOM 1593 1647	Suprahepáticas con mínima captación de flujo, aplanado
+T27	SYMPTOM 1753 1793	cava intrahepática disminuida de calibre
+T28	SYMPTOM 1829 1884	Pérdida de la intensidad de señal de las suprahepáticas
+T29	SYMPTOM 594 668	mínima movilización enzimática (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA
+T30	SYMPTOM 1649 1683	Contenido ecógeno en cava inferior
+T31	SYMPTOM 2275 2347	anticuerpo antifosfolípidos, test de Ham y factor V de Leyden, negativos
+T32	SYMPTOM 2635 2652	ascitis a tensión
+T35	SYMPTOM 2587 2604	deterioro clínico
+A1	RESULTADO T10
+A2	IMAGEN T13
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T16
+A6	IMAGEN T17
+A7	RESULTADO T20
+A8	IMAGEN T21
+A9	EXITUS T22
+A10	IMAGEN T26
+A11	IMAGEN T27
+A12	IMAGEN T28
+A13	RESULTADO T29
+A14	IMAGEN T30
+A15	RESULTADO T31

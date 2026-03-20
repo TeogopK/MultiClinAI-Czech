@@ -1,0 +1,38 @@
+T61	PROCEDURE 113 133	physical examination
+T64	PROCEDURE 332 346	echocardiogram
+T87	PROCEDURE 648 661	nebulisations
+T4	PROCEDURE 875 895	thoraco-abdominal CT
+T62	PROCEDURE 1194 1214	Physical examination
+T5	PROCEDURE 1615 1642	right renal fist percussion
+T85	PROCEDURE 1933 1947	Urine sediment
+T7	PROCEDURE 2010 2018	Urine Ag
+T70	PROCEDURE 2061 2064	ECG
+T71	PROCEDURE 2266 2277	Chest X-ray
+T69	PROCEDURE 2302 2323	Thoracic-abdominal CT
+T72	PROCEDURE 2302 2335	Thoracic-abdominal CT angiography
+T65	PROCEDURE 2728 2742	echocardiogram
+T63	PROCEDURE 3158 3178	Physical examination
+T73	PROCEDURE 3212 3229	Electrocardiogram
+T74	PROCEDURE 3540 3554	Blood cultures
+T11	PROCEDURE 3631 3662	a provisional MCP was implanted
+T77	PROCEDURE 3669 3699	transesophageal echocardiogram
+T12	PROCEDURE 3869 3937	Non-invasive digital angiography with pre-surgical multi-detector CT
+T15	PROCEDURE 4198 4258	aortic valve was replaced with a 21 mm mechanical prosthesis
+T16	PROCEDURE 4267 4327	mitral valve was replaced with a 27 mm mechanical prosthesis
+T78	PROCEDURE 4367 4387	Antibiotic treatment
+T75	PROCEDURE 4448 4462	Blood cultures
+T79	PROCEDURE 4464 4503	catheter and surgical specimen cultures
+T18	PROCEDURE 4627 4664	permanent VDD pacemaker was implanted
+T86	PROCEDURE 4747 4759	auscultation
+T80	PROCEDURE 4922 4978	pericardiocentesis via the left anterior subcostal route
+T81	PROCEDURE 5166 5192	negative pressure drainage
+T19	PROCEDURE 5235 5239	ECHO
+T20	PROCEDURE 5418 5422	ECHO
+T21	PROCEDURE 5553 5558	drain
+T67	PROCEDURE 5606 5620	Echocardiogram
+T22	PROCEDURE 5627 5647	removal of the drain
+T23	PROCEDURE 5742 5774	removal of the pericardial drain
+T68	PROCEDURE 5917 5940	portable echocardiogram
+T83	PROCEDURE 6125 6143	subcostal puncture
+T84	PROCEDURE 6196 6211	Cardiac Surgery
+T76	PROCEDURE 6383 6397	blood cultures

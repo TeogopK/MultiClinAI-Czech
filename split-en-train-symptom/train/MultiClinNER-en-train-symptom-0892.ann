@@ -1,0 +1,78 @@
+T2	SYMPTOM 441 449	dyspnoea
+T5	SYMPTOM 594 625	progressive exertional dyspnoea
+T3	SYMPTOM 882 907	oedema in the lower limbs
+T39	SYMPTOM 912 945	increased abdominal circumference
+T6	SYMPTOM 953 972	feeling of fullness
+T7	SYMPTOM 974 980	nausea
+T8	SYMPTOM 985 993	vomiting
+T9	SYMPTOM 1026 1036	orthopnoea
+T11	SYMPTOM 1072 1080	oliguria
+T1	SYMPTOM 1089 1099	bendopnoea
+T12	SYMPTOM 1104 1122	anginal chest pain
+T4	SYMPTOM 1124 1159	Occasional palpitations on exertion
+T13	SYMPTOM 1265 1273	Afebrile
+T14	SYMPTOM 1275 1305	Cardiac auscultation: rhythmic
+T15	SYMPTOM 1307 1318	tachycardic
+T10	SYMPTOM 1320 1389	systolic murmur in the left parasternal border (EIB) and mitral focus
+T16	SYMPTOM 1415 1441	preserved vesicular murmur
+T41	SYMPTOM 1451 1477	crackles in the right base
+T42	SYMPTOM 1479 1513	Oedema with fovea in both malleoli
+T17	SYMPTOM 1515 1533	Abdomen: distended
+T18	SYMPTOM 1552 1573	peritoneal irritation
+T37	SYMPTOM 1664 1681	sinus tachycardia
+T19	SYMPTOM 1694 1703	Normal PR
+T21	SYMPTOM 1705 1715	Narrow QRS
+T40	SYMPTOM 1717 1728	normal axis
+T43	SYMPTOM 1733 1765	acute repolarisation alterations
+T23	SYMPTOM 1785 1787	RS
+T20	SYMPTOM 1799 1808	Normal PR
+T22	SYMPTOM 1810 1820	Narrow QRS
+T24	SYMPTOM 1830 1864	T negative in II, III, aVF, V4- V6
+T25	SYMPTOM 2889 2953	alteration of the morphology of the cardiomediastinal silhouette
+T49	SYMPTOM 3023 3067	Vascular redistribution in upper lung fields
+T44	SYMPTOM 3129 3179	Pulmonary parenchyma with non-specific alterations
+T50	SYMPTOM 3536 3562	mild eccentric hypertrophy
+T26	SYMPTOM 3614 3677	Pseudonormal diastolic pattern with shortened deceleration time
+T51	SYMPTOM 3746 3800	systolic function parameters at the limit of normality
+T52	SYMPTOM 3957 4042	Mitral valve with leaflets not clearly thickened or calcified, with preserved opening
+T53	SYMPTOM 4182 4234	Morphologically and functionally normal aortic valve
+T54	SYMPTOM 4376 4393	pericardial fluid
+T27	SYMPTOM 4535 4580	LV is of normal size with high cardiac output
+T55	SYMPTOM 4892 4931	Diffuse subendocardial perfusion defect
+T56	SYMPTOM 4937 5006	subendocardial late enhancement (<25%) is seen throughout the LV wall
+T57	SYMPTOM 5012 5071	right ventricle is of normal size with moderate dysfunction
+T58	SYMPTOM 5088 5106	global hypokinesia
+T59	SYMPTOM 5117 5161	rectification of the interventricular septum
+T60	SYMPTOM 5176 5196	RV pressure overload
+T61	SYMPTOM 5382 5402	Intact atrial septum
+T28	SYMPTOM 6300 6405	LV neither dilated nor hypertrophic with function at the lower limit of normality and high cardiac output
+T62	SYMPTOM 6407 6449	Subendocardial enhancement in all segments
+T29	SYMPTOM 7269 7294	hepatic venous congestion
+T30	SYMPTOM 7310 7342	blood cultures (2/1): E. cloacae
+T31	SYMPTOM 7344 7383	Urine culture (4/1): contaminated urine
+T63	SYMPTOM 7385 7415	Blood cultures (18/1): sterile
+T32	SYMPTOM 7417 7446	Urine culture (19/1) negative
+T64	SYMPTOM 7458 7479	Syphilis IgG negative
+T65	SYMPTOM 7481 7504	toxoplasma IgG negative
+T66	SYMPTOM 7506 7526	rubella IgG positive
+T67	SYMPTOM 7528 7558	HSV IgG negative, IgM negative
+T68	SYMPTOM 7560 7582	varicella IgG doubtful
+T69	SYMPTOM 7584 7626	cytomegalovirus IgG positive, IgM negative
+T70	SYMPTOM 7628 7658	HAV IgM negative, IgG positive
+T71	SYMPTOM 7660 7675	HBs Ag negative
+T72	SYMPTOM 7677 7697	anti-HBs Ag negative
+T73	SYMPTOM 7699 7727	anti-HBs borderline positive
+T74	SYMPTOM 7729 7745	HAV IgG positive
+T75	SYMPTOM 7747 7763	HIV 1/2 negative
+T33	SYMPTOM 7765 7785	measles IgG positive
+T38	SYMPTOM 7787 7805	mumps IgG positive
+T76	SYMPTOM 8031 8064	mild left ventricular dysfunction
+T34	SYMPTOM 8239 8250	hypotension
+T77	SYMPTOM 8287 8305	low cardiac output
+T45	SYMPTOM 8321 8352	deterioration of renal function
+T46	SYMPTOM 8357 8383	elevation of liver enzymes
+T47	SYMPTOM 8388 8410	coagulation alteration
+T48	SYMPTOM 8497 8507	fever peak
+T35	SYMPTOM 8543 8552	shivering
+T36	SYMPTOM 8557 8579	haemodynamic worsening
+T78	SYMPTOM 9313 9331	low cardiac output

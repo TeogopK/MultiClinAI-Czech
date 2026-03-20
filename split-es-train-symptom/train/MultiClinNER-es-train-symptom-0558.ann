@@ -1,0 +1,9 @@
+T1	SYMPTOM 344 363	buen estado general
+T2	SYMPTOM 540 557	inflamación local
+T3	SYMPTOM 571 591	dolor a la palpación
+T4	SYMPTOM 609 646	alteraciones neurovasculares distales
+T5	SYMPTOM 379 391	asintomático
+T6	SYMPTOM 650 670	impotencia funcional
+T7	SYMPTOM 1122 1126	masa
+T8	SYMPTOM 911 923	relieve óseo
+A1	IMAGEN T8

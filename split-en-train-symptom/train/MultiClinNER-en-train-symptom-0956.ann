@@ -1,0 +1,29 @@
+T1	SYMPTOM 297 317	generalised asthenia
+T2	SYMPTOM 342 364	chest pain on exertion
+T3	SYMPTOM 410 420	orthopnoea
+T4	SYMPTOM 425 454	paroxysmal nocturnal dyspnoea
+T5	SYMPTOM 475 480	fever
+T17	SYMPTOM 484 503	dysthymic sensation
+T6	SYMPTOM 586 595	Conscious
+T7	SYMPTOM 597 605	oriented
+T18	SYMPTOM 607 618	cooperative
+T8	SYMPTOM 620 642	Good general condition
+T19	SYMPTOM 644 666	Eupneic on ambient air
+T15	SYMPTOM 686 689	IVY
+T9	SYMPTOM 698 728	Cardiac auscultation: rhythmic
+T10	SYMPTOM 733 740	murmurs
+T11	SYMPTOM 766 792	preserved vesicular murmur
+T20	SYMPTOM 797 809	extra sounds
+T21	SYMPTOM 811 850	Abdomen: soft, depressible, non-painful
+T14	SYMPTOM 869 891	Extremities: no oedema
+T22	SYMPTOM 1162 1187	Loss of right lung volume
+T23	SYMPTOM 1302 1345	Cardiopericardial silhouette of normal size
+T24	SYMPTOM 1665 1691	left ventricle not dilated
+T12	SYMPTOM 1698 1725	preserved ejection fraction
+T25	SYMPTOM 1802 1825	Left atrium not dilated
+T26	SYMPTOM 1891 1914	Aortic root not dilated
+T27	SYMPTOM 1916 1942	Right chambers not dilated
+T16	SYMPTOM 2059 2094	left coronary trunk without lesions
+T28	SYMPTOM 2354 2387	Right coronary artery: no lesions
+T29	SYMPTOM 3903 3924	stable cardiovascular
+T13	SYMPTOM 3929 3941	asymptomatic

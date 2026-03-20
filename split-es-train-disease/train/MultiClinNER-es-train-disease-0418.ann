@@ -1,0 +1,23 @@
+T1	DISEASE 51 54	HTA
+T2	DISEASE 56 75	hipercolesterolemia
+T3	DISEASE 77 88	disglucosis
+T4	DISEASE 90 98	obesidad
+T5	DISEASE 100 124	síndrome coronario agudo
+T6	DISEASE 143 154	único riñón
+T8	DISEASE 183 274	enfermedad renal crónica en estadio 3 (Guías K/DOQUI) secundaria a una nefropatía isquémica
+T9	DISEASE 254 274	nefropatía isquémica
+T10	DISEASE 331 368	estenosis crítica de la arteria renal
+T23	DISEASE 1297 1318	cardiopatía isquémica
+T24	DISEASE 1344 1363	trombosis del stent
+T26	DISEASE 1431 1460	trombosis de la arteria renal
+T28	DISEASE 1510 1529	migración del stent
+T40	DISEASE 2075 2101	insuficiencia respiratoria
+T43	DISEASE 2211 2235	hematoma retroperitoneal
+T46	DISEASE 2366 2410	síndrome de respuesta inflamatoria sistémica
+T47	DISEASE 2413 2440	insuficiencia renal anúrica
+T48	DISEASE 2474 2541	fallo multiorgánico secundario a complicaciones de cirugía vascular
+T49	DISEASE 2558 2572	isquemia renal
+T52	DISEASE 2659 2664	shock
+T45	DISEASE 2313 2331	shock distributivo
+T58	DISEASE 381 393	hipertensión
+T60	DISEASE 1068 1079	hipotensión

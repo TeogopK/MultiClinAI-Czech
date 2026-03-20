@@ -1,0 +1,25 @@
+T8	DISEASE 809 829	insuficiencia mitral
+T9	DISEASE 1377 1427	shunt izquierda- derecha a través del foramen oval
+T10	DISEASE 1695 1709	fibroelastosis
+T11	DISEASE 2054 2090	origen anómalo coronario desde la AP
+T12	DISEASE 2260 2266	ALCAPA
+T13	DISEASE 2268 2324	Anomalous Left Coronary Artery from the Pulmonary Artery
+T14	DISEASE 2343 2374	síndrome de Bland-White-Garland
+T15	DISEASE 4092 4098	ALCAPA
+T16	DISEASE 4100 4156	Anomalous Left Coronary Artery from the Pulmonary Artery
+T17	DISEASE 4159 4190	Síndrome de Bland-White-Garland
+T18	DISEASE 4193 4231	Insuficiencia Mitral severa secundaria
+T19	DISEASE 831 833	IM
+T20	DISEASE 1444 1446	IM
+T21	DISEASE 3347 3349	IM
+T22	DISEASE 3824 3848	IM se catalogó como leve
+T23	DISEASE 1020 1049	ventrículo izquierdo dilatado
+T24	DISEASE 1267 1305	aurícula izquierda estaba muy dilatada
+T25	DISEASE 2178 2224	tronco coronario izquierdo emergiendo de la AP
+T26	DISEASE 3139 3167	dilatación del anillo mitral
+T57	DISEASE 727 762	crecimiento de cavidades izquierdas
+T59	DISEASE 2542 2590	lesiones presentes en el aparato valvular mitral
+T62	DISEASE 2759 2805	salida del tronco coronario izquierdo de la AP
+#1	AnnotatorNotes T12	 anomalous left coronary artery from the pulmonary artery
+#2	AnnotatorNotes T15	 anomalous left coronary artery from the pulmonary artery
+#3	AnnotatorNotes T20	 insuficiencia mitral

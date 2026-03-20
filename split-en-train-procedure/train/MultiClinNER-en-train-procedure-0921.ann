@@ -1,0 +1,33 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T64	PROCEDURE 299 312	tonsillectomy
+T65	PROCEDURE 325 342	caesarean section
+T66	PROCEDURE 347 359	hysterectomy
+T63	PROCEDURE 746 766	Physical examination
+T1	PROCEDURE 859 875	nasal spectacles
+T67	PROCEDURE 889 901	auscultation
+T69	PROCEDURE 1140 1157	Electrocardiogram
+T70	PROCEDURE 1159 1162	ECG
+T71	PROCEDURE 1327 1338	Chest X-ray
+T90	PROCEDURE 1420 1432	Biochemistry
+T72	PROCEDURE 1657 1677	liver function tests
+T73	PROCEDURE 1679 1695	Thyroid hormones
+T2	PROCEDURE 1704 1707	CBC
+T74	PROCEDURE 1825 1836	Coagulation
+T3	PROCEDURE 1904 1911	CT scan
+T75	PROCEDURE 2387 2415	Transthoracic echocardiogram
+T76	PROCEDURE 2986 3016	Transesophageal echocardiogram
+T79	PROCEDURE 3480 3498	Haemodynamic study
+T4	PROCEDURE 3723 3726	CAT
+T5	PROCEDURE 3969 3976	CT scan
+T80	PROCEDURE 3990 4015	pathological auscultation
+T78	PROCEDURE 4070 4100	transesophageal echocardiogram
+T81	PROCEDURE 4331 4346	cardiac surgery
+T6	PROCEDURE 4369 4384	remove the mass
+T7	PROCEDURE 4535 4608	complete excision was performed, including part of the interatrial septum
+T8	PROCEDURE 4626 4686	closure of the defect with a patch of autologous pericardium
+T77	PROCEDURE 4771 4803	transesophageal echocardiography
+T9	PROCEDURE 4862 4871	extubated
+T10	PROCEDURE 4965 4985	pathological anatomy
+T89	PROCEDURE 5157 5171	echocardiogram
+T11	PROCEDURE 5434 5454	Excision of the mass
+T12	PROCEDURE 5459 5502	repair of the septum with pericardial patch

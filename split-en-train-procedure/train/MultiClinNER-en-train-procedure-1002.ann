@@ -1,0 +1,28 @@
+T38	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T39	PROCEDURE 940 960	Physical examination
+T40	PROCEDURE 1084 1106	pulmonary auscultation
+T41	PROCEDURE 1129 1146	Electrocardiogram
+T42	PROCEDURE 1148 1151	ECG
+T43	PROCEDURE 1315 1326	Chest X-ray
+T44	PROCEDURE 1391 1419	Transthoracic echocardiogram
+T3	PROCEDURE 1841 1878	Cranial computerised axial tomography
+T2	PROCEDURE 1880 1883	CAT
+T4	PROCEDURE 2023 2057	Cranial magnetic resonance imaging
+T51	PROCEDURE 2059 2062	MRI
+T45	PROCEDURE 2424 2435	Cardiac MRI
+T47	PROCEDURE 2774 2805	Diagnostic coronary angiography
+T48	PROCEDURE 2854 2867	Genetic study
+T50	PROCEDURE 2976 2994	diuretic treatment
+T65	PROCEDURE 3200 3210	monitoring
+T53	PROCEDURE 3443 3446	MRI
+T5	PROCEDURE 3466 3515	implant an implantable cardioverter defibrillator
+T57	PROCEDURE 3622 3642	coronary angiography
+T49	PROCEDURE 3669 3682	genetic study
+T58	PROCEDURE 3757 3781	antithrombotic treatment
+T6	PROCEDURE 3783 3806	anticoagulant treatment
+T59	PROCEDURE 3837 3866	low molecular weight heparins
+T60	PROCEDURE 3991 4000	brain MRI
+T61	PROCEDURE 4152 4176	antiretroviral treatment
+T62	PROCEDURE 4196 4216	oral anticoagulation
+T46	PROCEDURE 4507 4518	cardiac MRI
+T64	PROCEDURE 4539 4554	anticoagulation

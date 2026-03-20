@@ -1,0 +1,44 @@
+T109	PROCEDURE 34 52	exploración física
+T110	PROCEDURE 389 404	colecistectomía
+T111	PROCEDURE 407 421	apendicectomía
+T112	PROCEDURE 635 647	gastroscopia
+T113	PROCEDURE 723 749	biopsia de cuerpo gástrico
+T114	PROCEDURE 870 877	PET-TAC
+T115	PROCEDURE 1213 1224	eco doppler
+T116	PROCEDURE 2171 2189	Exploración física
+T117	PROCEDURE 3639 3658	Gasometría arterial
+T118	PROCEDURE 3881 3901	Radiografía de tórax
+T119	PROCEDURE 4091 4109	Electrocardiograma
+T120	PROCEDURE 4316 4334	electrocardiograma
+T121	PROCEDURE 4518 4533	anticoagulación
+T122	PROCEDURE 4535 4563	Ecocardiograma transtorácico
+T123	PROCEDURE 5473 5517	PET-TAC cuerpo entero fluordesoxiglucosa-F18
+T124	PROCEDURE 6527 6530	PET
+T125	PROCEDURE 6538 6540	TC
+T126	PROCEDURE 6970 6986	Ergometría-SPECT
+T127	PROCEDURE 6988 6998	ergometría
+T128	PROCEDURE 7267 7355	SPECT gated de perfusión miocárdica tras estrés ergométrico e inyección del radiofármaco
+T131	PROCEDURE 8460 8479	Ecografía abdominal
+T132	PROCEDURE 9100 9127	coronariografía diagnóstica
+T133	PROCEDURE 9209 9224	Coronariografía
+T134	PROCEDURE 9279 9295	ventriculografía
+T135	PROCEDURE 9473 9488	coronariografía
+T136	PROCEDURE 9627 9647	resonancia magnética
+T137	PROCEDURE 10168 10183	pancreatectomía
+T138	PROCEDURE 543 555	esquema CHOP
+T150	PROCEDURE 2347 2349	AC
+T151	PROCEDURE 2378 2380	AP
+T152	PROCEDURE 3243 3253	Serologías
+T153	PROCEDURE 1789 1807	anamnesis dirigida
+T154	PROCEDURE 4500 4515	betabloqueantes
+T156	PROCEDURE 3203 3219	Auto anticuerpos
+T157	PROCEDURE 3705 3722	Orina de 24 horas
+T158	PROCEDURE 3802 3828	Proteinuria de Bence Jones
+T159	PROCEDURE 8045 8058	estudio GATED
+T162	PROCEDURE 2700 2709	Analítica
+T163	PROCEDURE 2307 2322	Cabeza y cuello
+T44	PROCEDURE 186 206	pancreatoduedectomía
+T47	PROCEDURE 336 351	espenectomizado
+T52	PROCEDURE 2578 2590	Extremidades
+T55	PROCEDURE 2452 2459	Abdomen
+T165	PROCEDURE 10199 10225	dieta sin sal y sin grasas

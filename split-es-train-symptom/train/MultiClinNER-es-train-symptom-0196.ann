@@ -1,0 +1,27 @@
+T1	SYMPTOM 75 91	asimetría facial
+T2	SYMPTOM 101 148	sensación de crepitación a nivel infraorbitario
+T3	SYMPTOM 175 226	tumoración de crecimiento progresivo de hemimaxilar
+T4	SYMPTOM 293 336	aumento de volumen en región infraorbitaria
+T5	SYMPTOM 462 494	deformación de la pirámide nasal
+T6	SYMPTOM 616 657	deformación del tabique intersinuso nasal
+T7	SYMPTOM 93 98	dolor
+T8	SYMPTOM 1158 1170	asintomática
+T9	SYMPTOM 2396 2407	crepitación
+T10	SYMPTOM 1653 1689	masa radiolúcida con trabeculaciones
+T11	SYMPTOM 1781 1797	elevando el piso
+T12	SYMPTOM 1919 1955	Expandía y adelgazaba las corticales
+T13	SYMPTOM 2990 3013	aumento de volumen óseo
+T14	SYMPTOM 3040 3062	estructura ósea normal
+T15	SYMPTOM 583 607	elevación del piso nasal
+T16	SYMPTOM 843 871	oclusión estable y repetible
+T17	SYMPTOM 1125 1136	crepitantes
+T18	SYMPTOM 1231 1268	masa radiolúcida homogénea unilocular
+T19	SYMPTOM 398 449	dificultándole la mirada hacia abajo y a la derecha
+T20	SYMPTOM 515 567	narina izquierda por disminución de la permeabilidad
+T21	SYMPTOM 765 791	corrimiento nasal anterior
+T22	SYMPTOM 946 950	masa
+T23	SYMPTOM 984 1009	mucosa sana y eritematosa
+T24	SYMPTOM 2744 2754	hueso sano
+A1	IMAGEN T10
+A2	IMAGEN T11
+A3	IMAGEN T18

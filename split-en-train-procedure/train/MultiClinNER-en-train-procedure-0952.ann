@@ -1,0 +1,28 @@
+T38	PROCEDURE 218 238	PHYSICAL EXAMINATION
+T37	PROCEDURE 554 568	Blood cultures
+T39	PROCEDURE 1106 1126	Physical examination
+T40	PROCEDURE 1312 1332	cardiac auscultation
+T41	PROCEDURE 1392 1414	Pulmonary auscultation
+T42	PROCEDURE 1534 1543	palpation
+T43	PROCEDURE 1679 1682	ECG
+T44	PROCEDURE 1714 1725	Chest X-ray
+T1	PROCEDURE 1779 1795	Laboratory tests
+T2	PROCEDURE 2095 2143	Transthoracic and transesophageal echocardiogram
+T45	PROCEDURE 2804 2824	Coronary angiography
+T3	PROCEDURE 2969 2972	TEE
+T4	PROCEDURE 3123 3230	valve replacement within 24 hours, aortic (Carbomedics Top Hat no. 21) and mitral (Bicarbon Fitline no. 27)
+T46	PROCEDURE 3236 3251	cardiac surgery
+T5	PROCEDURE 3306 3309	CPB
+T6	PROCEDURE 3565 3585	anatomical pathology
+T7	PROCEDURE 3590 3614	microbiology for culture
+T48	PROCEDURE 3851 3866	Echocardioscopy
+T8	PROCEDURE 4064 4067	TEE
+T9	PROCEDURE 4090 4103	serum therapy
+T49	PROCEDURE 4494 4544	Intra-aortic balloon counterpulsation implantation
+T10	PROCEDURE 4805 4887	veno-arterial ECMO implantation with peripheral access is indicated, guided by TEE
+T11	PROCEDURE 4884 4887	TEE
+T52	PROCEDURE 5073 5092	inovasoactive drugs
+T12	PROCEDURE 5141 5184	IABP was withdrawn and 24 hours later, ECMO
+T50	PROCEDURE 5448 5491	Mitral and aortic valve replacement surgery
+T13	PROCEDURE 5517 5532	cardiac surgery
+T14	PROCEDURE 5543 5605	assistance with intra-aortic balloon counterpulsation and ECMO

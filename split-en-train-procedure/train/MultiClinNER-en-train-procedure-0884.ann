@@ -1,0 +1,33 @@
+T89	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T92	PROCEDURE 227 240	triple bypass
+T93	PROCEDURE 444 474	transthoracic echocardiography
+T116	PROCEDURE 458 474	echocardiography
+T94	PROCEDURE 738 762	electrical cardioversion
+T95	PROCEDURE 1059 1074	coronary bypass
+T96	PROCEDURE 1076 1104	right inguinal herniorrhaphy
+T90	PROCEDURE 2223 2243	physical examination
+T91	PROCEDURE 2246 2266	Physical examination
+T97	PROCEDURE 2342 2366	O2 through nasal goggles
+T98	PROCEDURE 2492 2512	Cardiac auscultation
+T99	PROCEDURE 2548 2570	Pulmonary auscultation
+T100	PROCEDURE 2757 2774	Electrocardiogram
+T101	PROCEDURE 2776 2779	ECG
+T102	PROCEDURE 2930 2941	Chest X-ray
+T120	PROCEDURE 3072 3082	sternotomy
+T103	PROCEDURE 3111 3120	haemogram
+T119	PROCEDURE 3383 3395	Biochemistry
+T104	PROCEDURE 3607 3618	Haemostasis
+T105	PROCEDURE 3692 3710	Serum proteinogram
+T107	PROCEDURE 4447 4458	Exploration
+T108	PROCEDURE 4507 4518	Cardiac MRI
+T110	PROCEDURE 5900 5913	Genetic study
+T112	PROCEDURE 6096 6117	intravenous diuretics
+T114	PROCEDURE 6108 6117	diuretics
+T113	PROCEDURE 6169 6183	oxygen therapy
+T88	PROCEDURE 6355 6374	depletive treatment
+T115	PROCEDURE 6452 6461	diuretics
+T117	PROCEDURE 6584 6600	Echocardiography
+T109	PROCEDURE 6718 6729	cardiac MRI
+T106	PROCEDURE 6807 6825	serum proteinogram
+T118	PROCEDURE 6830 6879	detection of free light chains in serum and urine
+T111	PROCEDURE 7396 7409	genetic study

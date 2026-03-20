@@ -1,0 +1,26 @@
+T14	DISEASE 90 104	drug allergies
+T15	DISEASE 106 122	moderate drinker
+T31	DISEASE 328 340	sudden death
+T1	DISEASE 456 469	heart disease
+T32	DISEASE 473 485	sudden death
+T16	DISEASE 717 734	syncopal episodes
+T19	DISEASE 1242 1262	deep vein thrombosis
+T20	DISEASE 1264 1267	DVT
+T21	DISEASE 1844 1874	ventricular motility disorders
+T23	DISEASE 1956 2005	monomorphic non-sustained ventricular tachycardia
+T3	DISEASE 2007 2011	NSVT
+T29	DISEASE 2355 2372	arrhythmic events
+T22	DISEASE 2394 2418	ventricular fibrillation
+T7	DISEASE 2420 2422	VF
+T24	DISEASE 2428 2451	ventricular tachycardia
+T8	DISEASE 2453 2455	VT
+T17	DISEASE 2500 2517	syncopal episodes
+T33	DISEASE 2522 2560	cardiovascular history of sudden death
+T10	DISEASE 2772 2796	syncopal clinical events
+T30	DISEASE 2813 2842	symptomatic arrhythmic events
+T25	DISEASE 2886 2902	Brugada syndrome
+T26	DISEASE 3039 3055	Brugada syndrome
+T34	DISEASE 3077 3089	sudden death
+T18	DISEASE 3248 3265	syncopal episodes
+T27	DISEASE 3451 3467	Brugada syndrome
+T28	DISEASE 3537 3561	structural heart disease

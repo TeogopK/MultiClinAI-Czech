@@ -1,0 +1,18 @@
+T11	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 279 347	aortic valve replacement with a Mitroflow No23 biological prosthesis
+T13	PROCEDURE 363 393	transthoracic echocardiography
+T2	PROCEDURE 395 398	TTE
+T12	PROCEDURE 619 639	physical examination
+T14	PROCEDURE 801 804	ECG
+T3	PROCEDURE 892 895	TTE
+T15	PROCEDURE 1086 1106	Coronary angiography
+T17	PROCEDURE 1139 1147	Angio-CT
+T4	PROCEDURE 2331 2426	implant the Evolut N23 TAVI through right femoral access by means of a valve-in-valve procedure
+T5	PROCEDURE 2458 2530	placing a guidewire in the left coronary trunk during valve implantation
+T16	PROCEDURE 2535 2555	coronary angiography
+T6	PROCEDURE 2617 2635	prosthesis release
+T18	PROCEDURE 2660 2685	release of the prosthesis
+T21	PROCEDURE 2726 2737	angiography
+T22	PROCEDURE 2926 2936	extubation
+T7	PROCEDURE 2996 2999	TTE
+T8	PROCEDURE 3199 3300	Implantation of an Evolut type transcatheter aortic prosthesis by means of a valve in valve procedure

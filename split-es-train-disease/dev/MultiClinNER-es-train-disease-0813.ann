@@ -1,0 +1,64 @@
+T123	DISEASE 160 181	cardiopatía isquémica
+T124	DISEASE 263 271	COVID-19
+T125	DISEASE 278 301	alergias medicamentosas
+T126	DISEASE 338 357	bronquitis asmática
+T127	DISEASE 359 374	talasemia menor
+T128	DISEASE 411 433	infección por COVID-19
+T129	DISEASE 435 444	Infección
+T130	DISEASE 469 484	Hábitos tóxicos
+T131	DISEASE 486 509	hábito tabáquico activo
+T132	DISEASE 529 555	consumo diario de cannabis
+T133	DISEASE 1868 1876	ansiedad
+T134	DISEASE 1905 1911	angina
+T135	DISEASE 2822 2847	trombosis venosa profunda
+T136	DISEASE 4477 4505	Trombo intracavitario apical
+T137	DISEASE 4676 4700	Insuficiencia tricúspide
+T138	DISEASE 4718 4731	valvulopatías
+T139	DISEASE 5662 5685	trombo en ápex cardiaco
+T140	DISEASE 5694 5713	derrame pericárdico
+T141	DISEASE 5806 5842	DA: normodesarrollada, con estenosis
+T142	DISEASE 5925 5940	trombo parietal
+T143	DISEASE 6039 6061	embolización de trombo
+T144	DISEASE 6176 6197	trombo intracoronario
+T145	DISEASE 6374 6440	Descendente anterior de buen calibre y desarrollo con ateromatosis
+T146	DISEASE 6888 6894	trombo
+T148	DISEASE 7210 7294	infarto apical secundario a lesión trombótica en DA media con embolización de trombo
+T149	DISEASE 7288 7309	trombo al vaso distal
+T150	DISEASE 7341 7390	embolia coronaria desde trombo en ápex de VI a CD
+T151	DISEASE 7798 7829	Insuficiencia tricúspide mínima
+T152	DISEASE 7840 7853	valvulopatías
+T153	DISEASE 7879 7900	hipertensión pulmonar
+T154	DISEASE 8163 8185	miopericarditis vírica
+T155	DISEASE 8272 8293	trombo intracavitario
+T156	DISEASE 8573 8611	lesión al menos moderada en arteria DA
+T157	DISEASE 8652 8676	trombosis intracoronaria
+T158	DISEASE 8806 8826	estado protrombótico
+T159	DISEASE 8848 8856	fumadora
+T160	DISEASE 8902 8932	infección activa por SARS-CoV2
+T161	DISEASE 9437 9456	derrame pericárdico
+T162	DISEASE 9470 9495	sobreinfección bacteriana
+T163	DISEASE 10115 10136	lesión de la DA media
+T164	DISEASE 10209 10223	trombo en ápex
+T165	DISEASE 10543 10554	trombofilia
+T166	DISEASE 10631 10647	hábito tabáquico
+T167	DISEASE 10741 10764	infección por SARS-CoV2
+T168	DISEASE 10837 10870	Pericarditis aguda por SARS-CoV-2
+T169	DISEASE 10872 10918	Síndrome coronario agudo tipo IAMCEST anterior
+T170	DISEASE 10920 10959	trombosis en descendente anterior media
+T171	DISEASE 11026 11080	Infarto embólico en arteria coronaria derecha proximal
+T172	DISEASE 11114 11136	estenosis ateromatosas
+T173	DISEASE 11192 11205	trombo apical
+T174	DISEASE 11281 11292	trombofilia
+T49	DISEASE 7071 7077	trombo
+T147	DISEASE 7619 7640	trombo intracavitario
+T177	DISEASE 9818 9844	trombos previos en DA y CD
+T178	DISEASE 9872 9946	placa lipídica en DA media, con fibroateroma de capa fina y rotura intimal
+T220	DISEASE 4752 4771	líquido pericárdico
+T221	DISEASE 7921 7940	líquido pericárdico
+T223	DISEASE 130 143	muerte súbita
+T184	DISEASE 8681 8753	lesiones ateroescleróticas subyacentes a nivel de DA media y distal y CD
+T195	DISEASE 5123 5174	lesión de unos 5 mm de longitud que estenosa la luz
+T196	DISEASE 5205 5217	placa blanda
+T203	DISEASE 6693 6770	placa lipídica en la DA media, con fibroateroma de capa fina y rotura intimal
+T208	DISEASE 7160 7196	CD por espasmo ostial con el catéter
+T59	DISEASE 10984 11017	placa de ateroma con embolización

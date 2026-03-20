@@ -1,0 +1,10 @@
+T8	PROCEDURE 79 89	viral load
+T5	PROCEDURE 267 287	Physical examination
+T13	PROCEDURE 376 392	Laboratory tests
+T6	PROCEDURE 629 649	Abdominal ultrasound
+T7	PROCEDURE 765 797	Upper gastrointestinal endoscopy
+T2	PROCEDURE 1183 1203	arterial blood gases
+T3	PROCEDURE 1208 1218	spirometry
+T4	PROCEDURE 1266 1299	sonicated contrast echocardiogram
+T1	PROCEDURE 1584 1597	cauterisation
+T20	PROCEDURE 1609 1626	surgical excision

@@ -1,0 +1,35 @@
+T79	PROCEDURE 980 1002	anamnesis por aparatos
+T80	PROCEDURE 1182 1200	Exploración física
+T81	PROCEDURE 1391 1412	Auscultación cardiaca
+T82	PROCEDURE 1449 1470	Auscultación pulmonar
+T83	PROCEDURE 1901 1904	ECG
+T84	PROCEDURE 2492 2509	Gasometría venosa
+T85	PROCEDURE 2621 2630	Hemograma
+T86	PROCEDURE 2766 2776	Hemostasia
+T87	PROCEDURE 2850 2873	Radiografía de rodillas
+T88	PROCEDURE 2936 2939	ECG
+T89	PROCEDURE 3151 3184	corrección del magnesio y potasio
+T90	PROCEDURE 3308 3337	Ecocardiografía transtorácica
+T91	PROCEDURE 3386 3401	Test flecainida
+T92	PROCEDURE 3500 3538	Test genético para síndrome de Brugada
+T93	PROCEDURE 3597 3627	antiinflamatorio no esteroideo
+T94	PROCEDURE 3629 3633	AINE
+T95	PROCEDURE 3776 3779	ECG
+T96	PROCEDURE 3864 3867	ECG
+T97	PROCEDURE 4195 4213	test de flecainida
+T98	PROCEDURE 4373 4383	telemetría
+T99	PROCEDURE 4449 4464	ecocardiografía
+T100	PROCEDURE 4568 4618	estudio genético de p canalopatías/miocardiopatías
+T101	PROCEDURE 4852 4867	ecocardiografía
+T102	PROCEDURE 5252 5264	antitérmicos
+T104	PROCEDURE 2258 2268	Bioquímica
+T105	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T106	PROCEDURE 1549 1558	palpación
+T108	PROCEDURE 2209 2218	Analítica
+T123	PROCEDURE 288 298	analíticas
+T130	PROCEDURE 483 504	dieta baja en potasio
+T142	PROCEDURE 1563 1572	se palpan
+T5	PROCEDURE 1292 1307	Cabeza y cuello
+T109	PROCEDURE 3133 3136	ECG
+T112	PROCEDURE 2954 2991	corrección del magnesio y con potasio
+T110	PROCEDURE 3805 3838	corregir las alteraciones iónicas

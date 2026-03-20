@@ -1,0 +1,24 @@
+T21	PROCEDURE 305 323	directed anamnesis
+T7	PROCEDURE 774 798	neurological examination
+T16	PROCEDURE 1325 1344	General examination
+T14	PROCEDURE 1366 1386	ankle-brachial index
+T20	PROCEDURE 1388 1391	ABI
+T28	PROCEDURE 1431 1447	Laboratory tests
+T5	PROCEDURE 1482 1501	immunological study
+T12	PROCEDURE 1513 1521	serology
+T31	PROCEDURE 1523 1550	Chest and lumbosacral X-ray
+T4	PROCEDURE 1669 1683	electromyogram
+T1	PROCEDURE 1685 1688	EMG
+T17	PROCEDURE 1690 1708	electroneurography
+T15	PROCEDURE 1710 1713	ENG
+T9	PROCEDURE 2111 2155	cranial-medullary magnetic resonance imaging
+T13	PROCEDURE 2166 2192	neurolophysiological study
+T6	PROCEDURE 2491 2515	neurophysiological study
+T2	PROCEDURE 2587 2590	EMG
+T3	PROCEDURE 2684 2697	muscle biopsy
+T18	PROCEDURE 3266 3280	Speech therapy
+T41	PROCEDURE 3285 3332	physical and respiratory rehabilitation at home
+T11	PROCEDURE 3488 3519	invasive mechanical ventilation
+T10	PROCEDURE 3521 3532	tracheotomy
+T8	PROCEDURE 3535 3567	percutaneous gastrostomy feeding
+T19	PROCEDURE 3569 3572	PEG

@@ -1,0 +1,45 @@
+T17	DISEASE 140 154	drug allergies
+T18	DISEASE 185 215	systemic arterial hypertension
+T1	DISEASE 217 241	type 2 diabetes mellitus
+T20	DISEASE 243 245	DM
+T22	DISEASE 248 261	dyslipidaemia
+T24	DISEASE 286 317	chronic ischaemic heart disease
+T2	DISEASE 328 355	acute myocardial infarction
+T3	DISEASE 357 360	AMI
+T4	DISEASE 536 584	Reinfarction in 2008 due to occlusion of the LAD
+T5	DISEASE 732 734	HF
+T26	DISEASE 837 856	atrial fibrillation
+T6	DISEASE 858 860	AF
+T7	DISEASE 905 950	Bilateral segmental pulmonary thromboembolism
+T8	DISEASE 997 1059	dilatation and moderate residual right ventricular dysfunction
+T9	DISEASE 1115 1117	HF
+T27	DISEASE 1192 1228	Severe right ventricular dysfunction
+T10	DISEASE 1342 1354	Permanent AF
+T29	DISEASE 1409 1453	chronic kidney disease of diabetic aetiology
+T30	DISEASE 1507 1521	hyperuricaemia
+T31	DISEASE 1523 1533	depression
+T32	DISEASE 1538 1550	gonarthrosis
+T33	DISEASE 1587 1607	cognitive impairment
+T34	DISEASE 2131 2160	paroxysmal nocturnal dyspnoea
+T11	DISEASE 2162 2165	PND
+T12	DISEASE 2517 2527	arrhythmic
+T40	DISEASE 2612 2624	hepatomegaly
+T13	DISEASE 3174 3176	AF
+T14	DISEASE 3238 3271	complete left bundle branch block
+T15	DISEASE 3463 3495	Right ventricle severely dilated
+T16	DISEASE 3530 3591	Mitral valve with degenerative changes and mild insufficiency
+T42	DISEASE 3593 3639	Sclerosed aortic valve with mild insufficiency
+T43	DISEASE 3641 3692	Tricuspid valve with mild-to-moderate regurgitation
+T41	DISEASE 3751 3777	Dilated inferior vena cava
+T35	DISEASE 3811 3831	pericardial effusion
+T44	DISEASE 3933 3953	decompensation of HF
+T36	DISEASE 4174 4184	chronic HF
+T45	DISEASE 4897 4913	Decompensated HF
+T25	DISEASE 5041 5072	Chronic ischaemic heart disease
+T37	DISEASE 5143 5165	pulmonary hypertension
+T28	DISEASE 5221 5257	Severe right ventricular dysfunction
+T39	DISEASE 5259 5284	Permanent non-valvular AF
+T38	DISEASE 5315 5365	Chronic kidney disease due to diabetic nephropathy
+T19	DISEASE 5367 5397	Systemic arterial hypertension
+T23	DISEASE 5399 5412	Dyslipidaemia
+T21	DISEASE 5414 5423	Type 2 DM

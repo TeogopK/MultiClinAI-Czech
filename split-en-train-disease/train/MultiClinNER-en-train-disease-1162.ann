@@ -1,0 +1,53 @@
+T1	DISEASE 82 115	allergic reactions to medications
+T93	DISEASE 142 154	sudden death
+T38	DISEASE 335 362	hypertrophic cardiomyopathy
+T45	DISEASE 396 408	toxic habits
+T46	DISEASE 413 434	arterial hypertension
+T2	DISEASE 436 439	AHT
+T47	DISEASE 445 453	diabetes
+T48	DISEASE 458 471	dyslipidaemia
+T49	DISEASE 473 516	Non-obstructive hypertrophic cardiomyopathy
+T89	DISEASE 616 645	asymmetric septal hypertrophy
+T88	DISEASE 759 779	mesocardial fibrosis
+T52	DISEASE 932 962	supraventricular extrasystoles
+T53	DISEASE 1002 1027	ventricular extrasystoles
+T54	DISEASE 1413 1429	long QT syndrome
+T3	DISEASE 1431 1435	LQTS
+T40	DISEASE 1506 1533	hypertrophic cardiomyopathy
+T58	DISEASE 1604 1615	LQTS type 1
+T59	DISEASE 1670 1682	fibromyalgia
+T60	DISEASE 1684 1705	chronic low back pain
+T61	DISEASE 1774 1786	metrorrhagia
+T62	DISEASE 2067 2078	tonic spasm
+T63	DISEASE 2238 2257	atrial fibrillation
+T66	DISEASE 2329 2346	sinus bradycardia
+T68	DISEASE 2886 2906	deep vein thrombosis
+T67	DISEASE 2975 2992	sinus bradycardia
+T90	DISEASE 3544 3615	left ventricle of normal size with severe asymmetric septal hypertrophy
+T87	DISEASE 3933 3963	Moderately dilated left atrium
+T69	DISEASE 4035 4055	mitral insufficiency
+T6	DISEASE 4057 4059	MI
+T70	DISEASE 4222 4245	tricuspid insufficiency
+T7	DISEASE 4247 4249	TI
+T72	DISEASE 4349 4371	pulmonary hypertension
+T8	DISEASE 4373 4375	PH
+T9	DISEASE 4485 4522	dilatation of tubular ascending aorta
+T73	DISEASE 4565 4585	pericardial effusion
+T74	DISEASE 4814 4826	pneumothorax
+T50	DISEASE 5080 5123	non-obstructive hypertrophic cardiomyopathy
+T75	DISEASE 5141 5164	long QT syndrome type 1
+T78	DISEASE 5184 5214	syncope of cardiogenic profile
+T79	DISEASE 5331 5338	syncope
+T13	DISEASE 5361 5383	nocturnal sudden death
+T14	DISEASE 5385 5387	SD
+T82	DISEASE 5415 5429	syncopal event
+T76	DISEASE 5444 5467	long QT syndrome type 1
+T42	DISEASE 5487 5514	hypertrophic cardiomyopathy
+T83	DISEASE 5535 5554	cardiogenic syncope
+T43	DISEASE 5638 5665	hypertrophic cardiomyopathy
+T84	DISEASE 5685 5715	paroxysmal atrial fibrillation
+T81	DISEASE 5913 5945	Syncope with cardiogenic profile
+T51	DISEASE 5947 5990	Non-obstructive hypertrophic cardiomyopathy
+T77	DISEASE 6008 6031	long QT syndrome type 1
+T85	DISEASE 6084 6114	paroxysmal atrial fibrillation
+T86	DISEASE 6116 6135	haemodynamic angina

@@ -1,0 +1,36 @@
+T1	SYMPTOM 525 545	ausencia de lenguaje
+T2	SYMPTOM 548 602	pérdida de fuerza y sensibilidad en todo el hemicuerpo
+T3	SYMPTOM 786 806	sensación distérmica
+T4	SYMPTOM 888 906	responde preguntas
+T5	SYMPTOM 910 925	obedece órdenes
+T7	SYMPTOM 1183 1189	ataxia
+T8	SYMPTOM 1334 1340	soplos
+T9	SYMPTOM 1351 1366	click protésico
+T10	SYMPTOM 1381 1401	ruidos sobreañadidos
+T11	SYMPTOM 1403 1430	Abdomen: blando, depresible
+T12	SYMPTOM 1432 1447	MMII sin edemas
+T13	SYMPTOM 1497 1510	ritmo sinusal
+T18	SYMPTOM 3207 3258	Ausencia de ambas arterias comunicantes posteriores
+T19	SYMPTOM 4022 4072	Hemocultivos: positivos para Enterococcus faecalis
+T20	SYMPTOM 4367 4422	Engrosamiento de la raíz de aorta y unión mitro-aórtica
+T21	SYMPTOM 4485 4544	VI de dimensiones normales con función sistólica conservada
+T23	SYMPTOM 4546 4591	VD de dimensiones normales con función normal
+T24	SYMPTOM 5855 5878	pérdida de conocimiento
+T103	SYMPTOM 933 971	Desviación de la mirada a la izquierda
+T104	SYMPTOM 977 998	Paresia facial centra
+T105	SYMPTOM 1007 1046	Paresia 4/5 en miembro superior derecho
+T106	SYMPTOM 1052 1091	Paresia 2/5 en miembro inferior derecho
+T6	SYMPTOM 1195 1202	Mutismo
+T59	SYMPTOM 4644 4660	Vena cava normal
+T107	SYMPTOM 5309 5363	Aislamiento de Enterococo faecalis en los hemocultivos
+T118	SYMPTOM 1323 1329	RsCsRs
+T123	SYMPTOM 1578 1592	condensaciones
+T55	SYMPTOM 1372 1375	mvc
+T109	SYMPTOM 2177 2238	Morfología de surcos y ventrículos dentro de límites normales
+T110	SYMPTOM 1952 2074	pérdida de la diferenciación entre sustancia gris y sustancia blanca a nivel de la ínsula y el opérculo frontal izquierdos
+T111	SYMPTOM 2275 2313	hipodensidad periventricular bilateral
+T113	SYMPTOM 2387 2418	Cisternas de la base permeables
+T114	SYMPTOM 2365 2385	Línea media centrada
+T116	SYMPTOM 3260 3299	Ejes carotídeos discretamente elongados
+T117	SYMPTOM 3301 3355	Arterias vertebrales permeables con dominancia derecha
+T69	SYMPTOM 5782 5795	PR prolongado

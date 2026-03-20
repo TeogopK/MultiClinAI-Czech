@@ -1,0 +1,22 @@
+T1	PROCEDURE 367 387	Physical examination
+T17	PROCEDURE 493 502	palpation
+T3	PROCEDURE 668 687	computed tomography
+T9	PROCEDURE 689 691	CT
+T14	PROCEDURE 990 1007	incisional biopsy
+T21	PROCEDURE 1028 1055	drainage tube was installed
+T22	PROCEDURE 1092 1121	Histopathological examination
+T5	PROCEDURE 1457 1478	decompressive therapy
+T26	PROCEDURE 1704 1711	CT scan
+T6	PROCEDURE 1761 1782	decompressive therapy
+T10	PROCEDURE 2029 2052	decompression procedure
+T15	PROCEDURE 2099 2111	radiographic
+T11	PROCEDURE 2122 2144	excision of the lesion
+T12	PROCEDURE 2164 2173	curettage
+T16	PROCEDURE 2178 2247	application of Carnoy's solution for 30 seconds on the operative site
+T13	PROCEDURE 2253 2333	underlying bone defect was reconstructed using a mandibular reconstruction plate
+T2	PROCEDURE 2370 2393	histopathological study
+T4	PROCEDURE 3061 3074	imaging tests
+T7	PROCEDURE 3101 3112	chest X-ray
+T35	PROCEDURE 3114 3129	total bone scan
+T8	PROCEDURE 3134 3151	bone scintigraphy
+T37	PROCEDURE 3242 3263	oncological treatment

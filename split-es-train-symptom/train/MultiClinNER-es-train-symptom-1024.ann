@@ -1,0 +1,25 @@
+T1	SYMPTOM 387 414	Función sistólica VI normal
+T2	SYMPTOM 825 831	disnea
+T3	SYMPTOM 968 975	astenia
+T4	SYMPTOM 1066 1079	palpitaciones
+T5	SYMPTOM 1137 1160	soplo sistólico intenso
+T6	SYMPTOM 1326 1388	soplo de regurgitación, rudo, en foco mitral irradiado a axila
+T8	SYMPTOM 1426 1452	crepitantes hasta vértices
+T9	SYMPTOM 1455 1480	sibilancias generalizadas
+T10	SYMPTOM 1500 1539	pulso magnus y celer de forma simétrica
+T11	SYMPTOM 1567 1592	hemodinámicamente estable
+T12	SYMPTOM 1727 1740	ritmo sinusal
+T13	SYMPTOM 1758 1773	elevación de ST
+T14	SYMPTOM 1892 1932	infiltrado alveolar bilateral centrífugo
+T15	SYMPTOM 2298 2369	movimiento sistólico anterior de la valva anterior de la válvula mitral
+T16	SYMPTOM 2462 2475	ritmo sinusal
+T18	SYMPTOM 4418 4438	hemodinámica estable
+T20	SYMPTOM 5328 5348	eupneica en decúbito
+T47	SYMPTOM 530 572	Función valvular mitral con SAM incompleto
+T104	SYMPTOM 4356 4401	alternando ritmo propio y ritmo de marcapasos
+T7	SYMPTOM 116 134	padece del corazón
+T17	SYMPTOM 575 601	gradiente dinámico en TSVI
+T19	SYMPTOM 996 1037	sintomatología cardiológica ni infecciosa
+T50	SYMPTOM 1879 1889	ICT límite
+T76	SYMPTOM 4135 4182	permeable una pequeña subrama de la rama septal
+#3	AnnotatorNotes T47	SAM: movimiento anterior sistólico mitral

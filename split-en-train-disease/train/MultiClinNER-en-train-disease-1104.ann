@@ -1,0 +1,52 @@
+T20	DISEASE 109 123	drug allergies
+T21	DISEASE 127 139	toxic habits
+T1	DISEASE 193 240	bronchospasm related to mite and pollen allergy
+T54	DISEASE 217 240	mite and pollen allergy
+T22	DISEASE 668 702	complete right bundle branch block
+T2	DISEASE 704 708	RBBB
+T23	DISEASE 724 753	right ventricular hypertrophy
+T3	DISEASE 755 758	RVH
+T48	DISEASE 837 849	polyglobulia
+T24	DISEASE 1067 1096	severe pulmonary hypertension
+T55	DISEASE 1103 1166	moderate hypertrophy and mild dilatation of the right ventricle
+T26	DISEASE 1203 1227	patent ductus arteriosus
+T6	DISEASE 1229 1232	PDA
+T25	DISEASE 1305 1334	severe pulmonary hypertension
+T7	DISEASE 1336 1339	PHT
+T28	DISEASE 1635 1656	recurrent nerve palsy
+T29	DISEASE 1668 1680	pneumothorax
+T30	DISEASE 1706 1729	fibrosing mediastinitis
+T56	DISEASE 1905 1943	severe pulmonary arterial hypertension
+T9	DISEASE 1945 1948	PAH
+T10	DISEASE 2090 2110	reopening of the PDA
+T11	DISEASE 2107 2110	PDA
+T34	DISEASE 2205 2227	pulmonary hypertension
+T49	DISEASE 2328 2340	polyglobulia
+T35	DISEASE 2499 2521	pulmonary hypertension
+T36	DISEASE 2555 2577	pulmonary hypertension
+T13	DISEASE 2660 2679	right heart failure
+T14	DISEASE 2681 2683	HF
+T50	DISEASE 2695 2707	polyglobulia
+T16	DISEASE 2733 2771	PAWD is seen with a right-to-left flow
+T43	DISEASE 2778 2819	hypertrophic RV with moderate dysfunction
+T17	DISEASE 3060 3063	PAH
+T38	DISEASE 3099 3109	severe PAH
+T18	DISEASE 3236 3239	PAH
+T44	DISEASE 3929 3943	RV dysfunction
+T79	DISEASE 4200 4203	PAH
+T80	DISEASE 4850 4858	right HF
+T41	DISEASE 4942 4948	BCRDHH
+T42	DISEASE 4977 4980	HVD
+T83	DISEASE 6055 6079	aortic valve is bicuspid
+T39	DISEASE 6156 6176	aortic insufficiency
+T45	DISEASE 6182 6232	RV is moderately dilated and severely hypertrophic
+T46	DISEASE 6274 6302	tricuspid valve is thickened
+T47	DISEASE 6563 6593	Dilated pulmonary artery trunk
+T52	DISEASE 6607 6613	ductus
+T37	DISEASE 6952 6974	pulmonary hypertension
+T84	DISEASE 7043 7046	PAH
+T40	DISEASE 7320 7329	phlebitis
+T88	DISEASE 7830 7877	Severe residual pulmonary arterial hypertension
+T87	DISEASE 7830 7892	Severe residual pulmonary arterial hypertension after surgery.
+T27	DISEASE 7904 7928	patent ductus arteriosus
+T31	DISEASE 7987 8010	Fibrosing mediastinitis

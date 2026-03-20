@@ -1,0 +1,17 @@
+T1	SYMPTOM 835 973	elevación del segmento ST en las derivadas de la cara inferior (II, III y aVF) y de la cara anterior (V2-V4) con cambios recíprocos en aVL
+T2	SYMPTOM 1788 1864	QS en cara inferior y una progresión tardía de la onda R en la cara anterior
+T3	SYMPTOM 1901 1934	aumento de CK y de la fracción MB
+T4	SYMPTOM 187 204	opresión torácica
+T5	SYMPTOM 206 222	malestar general
+T6	SYMPTOM 224 231	astenia
+T7	SYMPTOM 234 244	diaforesis
+T8	SYMPTOM 2636 2641	dolor
+T9	SYMPTOM 991 1042	extensión electrocardiográfica a ventrículo derecho
+T10	SYMPTOM 539 545	angina
+T11	SYMPTOM 572 621	examen clínico y sus signos vitales eran normales
+T12	SYMPTOM 1177 1269	electrolitos, las pruebas de coagulación y los conteos de células sanguíneas fueron normales
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T9
+A5	RESULTADO T12

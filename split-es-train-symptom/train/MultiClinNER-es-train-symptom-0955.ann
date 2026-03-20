@@ -1,0 +1,62 @@
+T1	SYMPTOM 298 387	opresión centrotorácica irradiada a extremidad superior izquierda (ESI) con los esfuerzos
+T2	SYMPTOM 518 568	dolor precordial opresivo irradiado a hombro y ESI
+T3	SYMPTOM 675 680	dolor
+T4	SYMPTOM 695 708	ritmo sinusal
+T5	SYMPTOM 713 745	onda T negativa en V4-6, I y AVL
+T6	SYMPTOM 908 922	dolor torácico
+T7	SYMPTOM 1003 1008	dolor
+T8	SYMPTOM 1183 1206	alteraciones eléctricas
+T9	SYMPTOM 1212 1244	onda T negativa de V2-6, I y AVL
+T10	SYMPTOM 1276 1288	asintomática
+T11	SYMPTOM 1330 1340	consciente
+T12	SYMPTOM 1343 1352	orientada
+T13	SYMPTOM 1354 1368	normohidratada
+T14	SYMPTOM 1371 1386	bien perfundida
+T15	SYMPTOM 1388 1406	Eupneica en reposo
+T16	SYMPTOM 1421 1441	trabajo respiratorio
+T17	SYMPTOM 1446 1448	IY
+T18	SYMPTOM 1458 1476	signos congestivos
+T19	SYMPTOM 1478 1489	AC: rítmica
+T20	SYMPTOM 1514 1520	soplos
+T21	SYMPTOM 1524 1543	extratonos audibles
+T22	SYMPTOM 1587 1602	Abdomen anodino
+T23	SYMPTOM 1604 1620	EEII: sin edemas
+T24	SYMPTOM 1624 1637	signos de TVP
+T25	SYMPTOM 1671 1684	ritmo sinusal
+T26	SYMPTOM 1696 1705	PR normal
+T27	SYMPTOM 1707 1719	QRS estrecho
+T28	SYMPTOM 1721 1753	onda T negativa en V4-6, I y AVL
+T29	SYMPTOM 1762 1775	ritmo sinusal
+T30	SYMPTOM 1786 1795	PR normal
+T31	SYMPTOM 1797 1809	QRS estrecho
+T32	SYMPTOM 1815 1848	alteraciones de la repolarización
+T33	SYMPTOM 1857 1870	ritmo sinusal
+T34	SYMPTOM 1881 1890	PR normal
+T35	SYMPTOM 1892 1904	QRS estrecho
+T36	SYMPTOM 1906 1939	onda T negativa en V4-V6, I y AVL
+T37	SYMPTOM 2447 2480	silueta cardiomediastínica normal
+T38	SYMPTOM 2571 2585	VI no dilatado
+T40	SYMPTOM 2645 2680	Función sistólica global conservada
+T43	SYMPTOM 3044 3064	PAPs estimada normal
+T44	SYMPTOM 3093 3114	masas intracavitarias
+T46	SYMPTOM 4238 4262	estabilidad hemodinámica
+T47	SYMPTOM 4628 4640	asintomática
+T49	SYMPTOM 5070 5084	Dolor torácico
+T50	SYMPTOM 5257 5285	Función sistólica conservada
+T90	SYMPTOM 1549 1585	normoventilación en todos los campos
+T39	SYMPTOM 2836 2854	VD normocontráctil
+T92	SYMPTOM 2889 2903	VM velos finos
+T45	SYMPTOM 4482 4505	enfermedad angiográfica
+T96	SYMPTOM 5086 5118	Arterias coronarias sin lesiones
+T100	SYMPTOM 2792 2834	Cavidades derechas de dimensiones normales
+T108	SYMPTOM 2734 2758	Patrón diastólico normal
+T109	SYMPTOM 2486 2520	alteraciones pleuroparenquimatosas
+T84	SYMPTOM 3156 3193	tronco común izquierdo sin enfermedad
+T85	SYMPTOM 3374 3420	Circunfleja: vaso muy bucleado, sin enfermedad
+T99	SYMPTOM 3435 3463	Coronaria derecha: dominante
+T93	SYMPTOM 3293 3300	milking
+T101	SYMPTOM 3711 3718	milking
+T102	SYMPTOM 3748 3793	exploración física fue en todo momento normal
+T103	SYMPTOM 4009 4048	ecocardiograma sin hallazgos de interés
+T104	SYMPTOM 3915 3971	radiografía de tórax donde no se apreciaban alteraciones
+T105	SYMPTOM 5234 5241	milking

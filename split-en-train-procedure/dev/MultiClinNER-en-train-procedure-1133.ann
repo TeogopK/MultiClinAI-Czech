@@ -1,0 +1,31 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 456 468	Holter study
+T72	PROCEDURE 965 984	depletive treatment
+T54	PROCEDURE 1421 1441	Cardiac auscultation
+T55	PROCEDURE 1510 1532	Pulmonary auscultation
+T56	PROCEDURE 1624 1633	palpation
+T57	PROCEDURE 1638 1647	palpation
+T58	PROCEDURE 1804 1821	ELECTROCARDIOGRAM
+T59	PROCEDURE 1823 1826	ECG
+T5	PROCEDURE 1957 1967	chest xray
+T6	PROCEDURE 2069 2077	ANALYSIS
+T7	PROCEDURE 2079 2088	haemogram
+T60	PROCEDURE 2219 2230	Coagulation
+T71	PROCEDURE 2266 2278	Biochemistry
+T61	PROCEDURE 2499 2519	Arterial blood gases
+T62	PROCEDURE 2567 2581	Echocardiogram
+T65	PROCEDURE 3073 3089	spectral Doppler
+T9	PROCEDURE 3169 3197	injection of agitated saline
+T13	PROCEDURE 3576 3616	HEMODYNAMIC STUDY (right femoral artery)
+T66	PROCEDURE 3618 3634	ventriculography
+T17	PROCEDURE 3665 3713	temporary occlusion of the defect with a balloon
+T18	PROCEDURE 3834 3931	use of a 35 mm Amplatzer FOP Tribiform MF 35 mm device, the defect is almost completely occluded,
+T19	PROCEDURE 4031 4122	Under control with intracardiac echocardiography and transesophageal echocardiography (TEE)
+T67	PROCEDURE 4050 4079	intracardiac echocardiography
+T68	PROCEDURE 4084 4116	transesophageal echocardiography
+T64	PROCEDURE 4100 4116	echocardiography
+T69	PROCEDURE 4369 4392	echocardiographic study
+T70	PROCEDURE 4549 4578	percutaneous technique on PFO
+T24	PROCEDURE 4609 4674	haemodynamic response was assessed with transient balloon closure
+T23	PROCEDURE 4709 4758	Amplatzer cribriform closure device was implanted
+T29	PROCEDURE 5249 5325	Implantation of a percutaneous Amplatzer cribriform 35 mm PFO closure device

@@ -1,0 +1,46 @@
+T87	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T110	PROCEDURE 387 409	Surgical interventions
+T75	PROCEDURE 411 424	tonsillectomy
+T76	PROCEDURE 593 610	electrocardiogram
+T77	PROCEDURE 612 615	ECG
+T88	PROCEDURE 1543 1563	Physical examination
+T89	PROCEDURE 1758 1782	Neurological examination
+T90	PROCEDURE 1854 1888	Cardiac and pulmonary auscultation
+T91	PROCEDURE 2055 2064	palpation
+T5	PROCEDURE 2188 2191	ECG
+T79	PROCEDURE 2201 2204	ECG
+T80	PROCEDURE 2358 2361	ECG
+T92	PROCEDURE 2368 2371	CVE
+T81	PROCEDURE 2525 2528	ECG
+T94	PROCEDURE 2624 2635	Chest X-ray
+T6	PROCEDURE 2743 2759	Laboratory tests
+T7	PROCEDURE 2761 2764	CBC
+T106	PROCEDURE 2922 2934	Biochemistry
+T107	PROCEDURE 3108 3119	haemostasis
+T95	PROCEDURE 3186 3200	Echocardiogram
+T97	PROCEDURE 3565 3591	Electrophysiological study
+T98	PROCEDURE 3593 3596	EEF
+T82	PROCEDURE 3602 3605	ECG
+T8	PROCEDURE 3662 3711	access was gained via the retrograde aortic route
+T111	PROCEDURE 3719 3778	ablation catheter was located in the lateral mitral annulus
+T10	PROCEDURE 4046 4124	orthodromic tachycardia is induced by another left posterior accessory pathway
+T112	PROCEDURE 4129 4137	ablation
+T83	PROCEDURE 4509 4512	ECG
+T84	PROCEDURE 4611 4614	ECG
+T99	PROCEDURE 4758 4787	pharmacological cardioversion
+T11	PROCEDURE 4894 4901	sedated
+T100	PROCEDURE 4952 4976	electrical cardioversion
+T12	PROCEDURE 4978 4981	ECV
+T93	PROCEDURE 5076 5079	CVE
+T85	PROCEDURE 5080 5083	ECG
+T13	PROCEDURE 5183 5187	ECGs
+T101	PROCEDURE 5301 5322	continuous monitoring
+T109	PROCEDURE 5457 5467	monitoring
+T102	PROCEDURE 5469 5490	Morphological studies
+T103	PROCEDURE 5511 5541	transthoracic echocardiography
+T14	PROCEDURE 5543 5546	TTE
+T104	PROCEDURE 5620 5646	accessory pathway ablation
+T15	PROCEDURE 5762 5765	EPS
+T16	PROCEDURE 5769 5868	accessory pathways were located (left lateral and left posterior) and both were effectively ablated
+T86	PROCEDURE 5969 5972	ECG
+T105	PROCEDURE 6189 6247	Left lateral and left posterior accessory pathway ablation

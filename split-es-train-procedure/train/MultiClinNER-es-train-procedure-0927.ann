@@ -1,0 +1,32 @@
+T40	PROCEDURE 343 361	Exploración física
+T41	PROCEDURE 438 459	Auscultación cardiaca
+T42	PROCEDURE 496 517	Auscultación pulmonar
+T43	PROCEDURE 592 595	ECG
+T44	PROCEDURE 609 629	Radiografía de tórax
+T45	PROCEDURE 808 817	Hemograma
+T46	PROCEDURE 954 983	TC abdominal con cortes tórax
+T47	PROCEDURE 1218 1230	Hemocultivos
+T48	PROCEDURE 1262 1290	Ecocardiograma transtorácico
+T49	PROCEDURE 1424 1453	ecocardiograma transesofágico
+T50	PROCEDURE 1455 1484	Ecocardiograma transesofágico
+T51	PROCEDURE 1612 1624	hemocultivos
+T52	PROCEDURE 1689 1701	TC abdominal
+T53	PROCEDURE 1804 1816	hemocultivos
+T54	PROCEDURE 2009 2037	ecocardiograma transtorácico
+T55	PROCEDURE 2229 2243	antibioterapia
+T56	PROCEDURE 2380 2392	hemocultivos
+T57	PROCEDURE 2435 2463	ecocardiograma transtorácico
+T58	PROCEDURE 2504 2518	antibioterapia
+T59	PROCEDURE 2649 2672	tratamiento antibiótico
+T60	PROCEDURE 2693 2717	control ecocardiográfico
+T61	PROCEDURE 2757 2771	ecocardiograma
+T62	PROCEDURE 3104 3116	hemodiálisis
+T65	PROCEDURE 902 913	Coagulación
+T66	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T67	PROCEDURE 2353 2377	reactantes de fase aguda
+T68	PROCEDURE 650 660	bioquímica
+T69	PROCEDURE 730 735	Gases
+T70	PROCEDURE 2971 2997	resección de la vegetación
+T71	PROCEDURE 3000 3036	cierre con sutura directa de la CIV.
+T72	PROCEDURE 639 648	Analítica
+T82	PROCEDURE 2884 2907	intervención quirúrgica

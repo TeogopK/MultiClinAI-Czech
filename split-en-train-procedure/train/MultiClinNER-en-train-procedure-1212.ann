@@ -1,0 +1,36 @@
+T57	PROCEDURE 157 191	cardiac magnetic resonance imaging
+T1	PROCEDURE 193 196	CMR
+T58	PROCEDURE 267 284	electrocardiogram
+T59	PROCEDURE 286 289	ECG
+T67	PROCEDURE 322 342	PHYSICAL EXAMINATION
+T62	PROCEDURE 595 629	laparoscopic Nissen fundoplication
+T2	PROCEDURE 904 919	health check-up
+T60	PROCEDURE 979 982	ECG
+T63	PROCEDURE 1029 1052	echocardiographic study
+T65	PROCEDURE 1256 1282	magnetic resonance imaging
+T3	PROCEDURE 1284 1287	MRI
+T66	PROCEDURE 1603 1612	anamnesis
+T68	PROCEDURE 1785 1805	Physical examination
+T69	PROCEDURE 2089 2109	Cardiac auscultation
+T70	PROCEDURE 2147 2169	Pulmonary auscultation
+T61	PROCEDURE 2368 2371	ECG
+T4	PROCEDURE 2489 2492	CMR
+T5	PROCEDURE 3125 3147	Intravenous gadolinium
+T71	PROCEDURE 3614 3625	Chest X-ray
+T72	PROCEDURE 4132 4162	Transthoracic echocardiography
+T76	PROCEDURE 4923 4947	coronary catheterisation
+T78	PROCEDURE 5192 5222	percutaneous revascularisation
+T79	PROCEDURE 5568 5598	percutaneous revascularisation
+T73	PROCEDURE 5749 5779	Transthoracic echocardiography
+T74	PROCEDURE 6271 6301	Transthoracic echocardiography
+T6	PROCEDURE 6342 6345	CMR
+T77	PROCEDURE 6353 6377	coronary catheterisation
+T7	PROCEDURE 7011 7043	resection of the aneurysmal area
+T8	PROCEDURE 7048 7117	reconstruction of the lower wall with an autologous pericardial patch
+T9	PROCEDURE 7150 7316	double aortocoronary bypass was performed to the middle ADA with the left mammary artery and to the first diagonal with the saphenous artery, both of them end-to-side
+T80	PROCEDURE 7344 7357	resuscitation
+T81	PROCEDURE 7389 7399	extubation
+T75	PROCEDURE 7469 7499	transthoracic echocardiography
+T82	PROCEDURE 7773 7788	cardiac surgery
+T83	PROCEDURE 8020 8038	Aneurysm resection
+T10	PROCEDURE 8051 8084	coronary revascularisation of LAD

@@ -1,0 +1,44 @@
+T37	DISEASE 81 104	alergias medicamentosas
+T38	DISEASE 158 179	hipertensión arterial
+T39	DISEASE 181 184	HTA
+T40	DISEASE 187 197	dislipemia
+T41	DISEASE 199 212	hiperuricemia
+T42	DISEASE 232 241	exfumador
+T43	DISEASE 271 302	insuficiencia aórtica reumática
+T44	DISEASE 324 338	hemocromatosis
+T45	DISEASE 391 399	glaucoma
+T46	DISEASE 429 446	quiste hidatídico
+T47	DISEASE 988 993	angor
+T48	DISEASE 1662 1675	Hepatomegalia
+T49	DISEASE 2028 2053	derrame pleural bilateral
+T50	DISEASE 3185 3220	Dilatación auricular izquierda leve
+T51	DISEASE 3222 3291	Válvula aórtica tricúspide con velos fibrosados e insuficiencia grave
+T52	DISEASE 3294 3329	Insuficiencia tricuspídea (IT) leve
+T53	DISEASE 4333 4354	insuficiencia aórtica
+T54	DISEASE 4356 4359	IAo
+T55	DISEASE 4441 4461	amiloidosis cardiaca
+T56	DISEASE 4646 4688	amiloidosis por depósitos de transtiretina
+T57	DISEASE 4766 4826	síndrome del túnel carpiano bilateral de intensidad moderada
+T58	DISEASE 5336 5384	taquicardia ventricular monomórfica no sostenida
+T59	DISEASE 5503 5517	fallo cardiaco
+T60	DISEASE 5591 5602	amiloidosis
+T61	DISEASE 6015 6052	síndrome de túnel del carpo bilateral
+T62	DISEASE 6163 6177	polineuropatía
+T63	DISEASE 6208 6229	insuficiencia aórtica
+T64	DISEASE 6415 6447	dilatación ventricular izquierda
+T65	DISEASE 6589 6612	cardiopatías familiares
+T66	DISEASE 6701 6723	Insuficiencia cardiaca
+T67	DISEASE 6743 6772	Amiloidosis por transtiretina
+T68	DISEASE 6809 6836	Insuficiencia aórtica grave
+T69	DISEASE 6868 6906	Síndrome del túnel del carpo bilateral
+T70	DISEASE 6908 6947	Insuficiencia renal crónica, estadio 3A
+T71	DISEASE 6957 6982	polineuropatía periférica
+T72	DISEASE 1900 1906	BIRDHH
+T73	DISEASE 3344 3347	HTP
+T74	DISEASE 4215 4262	Válvula aórtica trivalva con velos esclerosados
+T75	DISEASE 2899 2937	ventrículo izquierdo (VI) hipertrófico
+T76	DISEASE 3718 3760	VD de tamaño normal (33 mm) con disfunción
+T77	DISEASE 4172 4204	Aurícula izquierda (AI) dilatada
+T78	DISEASE 5386 5391	TVMNS
+T134	DISEASE 6338 6360	enfermedad de depósito
+#1	AnnotatorNotes T78	  taquicardia ventricular monomórfica no sostenida

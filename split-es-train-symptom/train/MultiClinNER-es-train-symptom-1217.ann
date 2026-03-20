@@ -1,0 +1,62 @@
+T1	SYMPTOM 43 182	dolor centrotorácico que describe como opresivo, con irradiación en ocasiones a garganta y en otras ocasiones a brazo izquierdo y antebrazo
+T2	SYMPTOM 909 1048	dolor centrotorácico que describe como opresivo, con irradiación en ocasiones a garganta y en otras ocasiones a brazo izquierdo y antebrazo
+T3	SYMPTOM 1053 1071	cortejo vegetativo
+T4	SYMPTOM 1073 1079	disnea
+T5	SYMPTOM 1083 1096	palpitaciones
+T6	SYMPTOM 1101 1106	dolor
+T7	SYMPTOM 1269 1274	dolor
+T8	SYMPTOM 1515 1528	palpitaciones
+T9	SYMPTOM 1540 1545	dolor
+T10	SYMPTOM 1618 1631	cuadro febril
+T11	SYMPTOM 1635 1653	clínica infecciosa
+T13	SYMPTOM 1732 1745	palpitaciones
+T14	SYMPTOM 1834 1845	nerviosismo
+T15	SYMPTOM 2017 2027	Consciente
+T16	SYMPTOM 2030 2068	orientada en tiempo, espacio y persona
+T17	SYMPTOM 2070 2109	Pulsos carotídeos de amplitud simétrica
+T18	SYMPTOM 2129 2135	soplos
+T19	SYMPTOM 2140 2161	ingurgitación yugular
+T20	SYMPTOM 2163 2174	AC: rítmica
+T21	SYMPTOM 2176 2211	primer y segundo ruidos conservados
+T22	SYMPTOM 2216 2222	soplos
+T23	SYMPTOM 2226 2231	roces
+T24	SYMPTOM 2237 2266	Murmullo vesicular conservado
+T25	SYMPTOM 2271 2315	dolor con la palpación de los arcos costales
+T26	SYMPTOM 2328 2379	Abdomen blando, depresible, doloroso a la palpación
+T27	SYMPTOM 2411 2432	irritación peritoneal
+T28	SYMPTOM 2447 2452	masas
+T29	SYMPTOM 2465 2480	visceromegalias
+T30	SYMPTOM 2482 2510	Ruidos hidroaéreos presentes
+T31	SYMPTOM 2515 2543	edema de miembros inferiores
+T32	SYMPTOM 2545 2583	Pulsos distales palpables y simétricos
+T33	SYMPTOM 3332 3356	ECG: Bradicardia sinusal
+T34	SYMPTOM 3377 3435	Conducción auriculoventricular e intraventricular normales
+T35	SYMPTOM 3482 3515	alteraciones de la repolarización
+T36	SYMPTOM 3517 3528	IQTc normal
+T42	SYMPTOM 5018 5032	dolor torácico
+T43	SYMPTOM 5959 5983	dolor torácico en reposo
+T44	SYMPTOM 6082 6098	ECG basal normal
+T45	SYMPTOM 7026 7040	dolor torácico
+T147	SYMPTOM 5475 5501	taquicardia es monomórfica
+T148	SYMPTOM 5644 5655	taquicardia
+T37	SYMPTOM 5716 5728	taquicardias
+T166	SYMPTOM 7470 7482	asintomática
+T167	SYMPTOM 3755 3792	buena función sistólica biventricular
+T168	SYMPTOM 3670 3706	cavidades cardiacas de tamaño normal
+T172	SYMPTOM 600 610	fallecidos
+T188	SYMPTOM 740 744	sano
+T195	SYMPTOM 3794 3820	Flujos y válvulas normales
+T39	SYMPTOM 3437 3477	Adecuada progresión de R en precordiales
+T40	SYMPTOM 3532 3558	Rx de Tórax: Sin hallazgos
+T41	SYMPTOM 3893 3923	Tronco común izquierdo: Normal
+T57	SYMPTOM 3861 3891	coronarias: Dominancia derecha
+T75	SYMPTOM 4079 4116	Arterias diagonales: Sin alteraciones
+T118	SYMPTOM 4118 4155	Arteria circunfleja: Sin alteraciones
+T119	SYMPTOM 4157 4198	Arteria obtusa marginal: Sin alteraciones
+T120	SYMPTOM 4200 4246	Arteria CD: Muy desarrollada, sin alteraciones
+T121	SYMPTOM 4248 4288	Arteria aguda marginal: Sin alteraciones
+T122	SYMPTOM 4290 4342	Arteria interventricular posterior: Sin alteraciones
+T123	SYMPTOM 4344 4418	Ramo posterolateral: Dependiente de CD, muy desarrollado, sin alteraciones
+T126	SYMPTOM 6502 6531	prolongación del intervalo QT
+T127	SYMPTOM 7279 7314	cifras bajas de frecuencia cardiaca
+T128	SYMPTOM 7430 7453	holter sin alteraciones

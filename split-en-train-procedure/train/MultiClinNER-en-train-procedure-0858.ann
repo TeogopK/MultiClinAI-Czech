@@ -1,0 +1,17 @@
+T32	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T35	PROCEDURE 674 695	blood and urine tests
+T36	PROCEDURE 726 746	abdominal ultrasound
+T4	PROCEDURE 851 878	measured his blood pressure
+T33	PROCEDURE 1288 1308	Physical examination
+T5	PROCEDURE 1428 1450	antihypertensive drugs
+T37	PROCEDURE 1503 1525	Pulmonary auscultation
+T38	PROCEDURE 1788 1791	ECG
+T39	PROCEDURE 1949 1960	Chest X-ray
+T40	PROCEDURE 2024 2038	Echocardiogram
+T7	PROCEDURE 2833 2868	Continuous abdominal aortic Doppler
+T42	PROCEDURE 3085 3105	Chest CT angiography
+T43	PROCEDURE 3393 3402	anamnesis
+T34	PROCEDURE 3407 3427	physical examination
+T41	PROCEDURE 3441 3455	echocardiogram
+T8	PROCEDURE 3655 3678	Thoracic CT angiography
+T44	PROCEDURE 3838 3863	percutaneous intervention

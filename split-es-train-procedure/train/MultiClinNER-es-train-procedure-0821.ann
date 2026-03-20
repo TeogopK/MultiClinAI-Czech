@@ -1,0 +1,17 @@
+T59	PROCEDURE 188 199	TC torácico
+T60	PROCEDURE 1133 1154	auscultación cardiaca
+T61	PROCEDURE 1193 1214	auscultación pulmonar
+T62	PROCEDURE 1406 1433	ergometría en tapiz rodante
+T63	PROCEDURE 1513 1538	TC torácico sin contraste
+T64	PROCEDURE 1793 1828	Radiografía de tórax (PA y lateral)
+T65	PROCEDURE 1992 2011	Analítica sanguínea
+T66	PROCEDURE 2186 2195	hemograma
+T67	PROCEDURE 2198 2209	coagulación
+T68	PROCEDURE 2228 2231	ECG
+T69	PROCEDURE 2408 2435	Ergometría en tapiz rodante
+T70	PROCEDURE 2507 2530	Test de esfuerzo máximo
+T71	PROCEDURE 3213 3223	ergometría
+T72	PROCEDURE 3558 3586	medidas higiénico-dietéticas
+T81	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T82	PROCEDURE 3588 3598	toma de PA
+T93	PROCEDURE 3738 3747	analítica

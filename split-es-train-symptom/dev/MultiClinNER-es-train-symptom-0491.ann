@@ -1,0 +1,12 @@
+T1	SYMPTOM 22 43	molestias abdominales
+T2	SYMPTOM 547 562	dolor abdominal
+T3	SYMPTOM 269 307	dolor abdominal en hemiabdomen derecho
+T4	SYMPTOM 1414 1443	deterioro de la función renal
+T5	SYMPTOM 1015 1039	aumento del tamaño renal
+T6	SYMPTOM 680 692	asintomático
+T7	SYMPTOM 212 235	sintomatología urinaria
+T8	SYMPTOM 476 518	Sedimento de orina y urinocultivo normales
+T9	SYMPTOM 1111 1128	dilatación de vía
+A1	IMAGEN T5
+A2	RESULTADO T8
+A3	IMAGEN T9

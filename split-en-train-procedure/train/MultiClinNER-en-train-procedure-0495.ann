@@ -1,0 +1,12 @@
+T1	PROCEDURE 51 70	partial gastrectomy
+T2	PROCEDURE 414 434	Physical examination
+T11	PROCEDURE 452 487	palpation in the right femoral head
+T14	PROCEDURE 644 661	Abdominal CT scan
+T4	PROCEDURE 771 815	conventional radiology of the pelvis and hip
+T16	PROCEDURE 914 931	Bone scintigraphy
+T5	PROCEDURE 1062 1080	histological study
+T19	PROCEDURE 1084 1124	biopsy of the lesion in the femoral neck
+T6	PROCEDURE 1168 1185	Chemoembolisation
+T7	PROCEDURE 1239 1287	palliative radiotherapy on the coxofemoral joint
+T21	PROCEDURE 1395 1477	pathological subtrochanteric fracture that required ostesynthesis using a PFN nail
+T8	PROCEDURE 1507 1519	intervention

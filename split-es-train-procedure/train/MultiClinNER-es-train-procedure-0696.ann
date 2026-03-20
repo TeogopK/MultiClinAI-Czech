@@ -1,0 +1,18 @@
+T1	PROCEDURE 39 71	mastectomía con disección axilar
+T2	PROCEDURE 570 582	gastroscopia
+T3	PROCEDURE 638 645	biopsia
+T4	PROCEDURE 757 768	laparotomía
+T5	PROCEDURE 376 404	quimioterapia complementaria
+T6	PROCEDURE 913 942	citología de líquido ascítico
+T7	PROCEDURE 1019 1060	tratamiento citostático con quimioterapia
+T8	PROCEDURE 1115 1131	gammagrafía ósea
+T9	PROCEDURE 1230 1250	resonancia magnética
+T10	PROCEDURE 1287 1310	radioterapia antiálgica
+T11	PROCEDURE 1353 1366	quimioterapia
+T12	PROCEDURE 1372 1392	tratamiento hormonal
+T13	PROCEDURE 1502 1518	biopsia gástrica
+T14	PROCEDURE 424 427	FEC
+T15	PROCEDURE 91 110	informe histológico
+T16	PROCEDURE 355 367	intervención
+T19	PROCEDURE 211 240	axila se aislaron 14 ganglios
+#1	AnnotatorNotes T14	     Fluorouracilo, epirrubicina y ciclofosfamida, quimioterapia

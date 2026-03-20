@@ -1,0 +1,29 @@
+T1	PROCEDURE 159 166	scanner
+T3	PROCEDURE 171 197	magnetic resonance imaging
+T4	PROCEDURE 296 320	neurological examination
+T27	PROCEDURE 484 504	systemic examination
+T28	PROCEDURE 647 663	Laboratory tests
+T5	PROCEDURE 725 742	Electrocardiogram
+T6	PROCEDURE 744 764	transcranial Doppler
+T7	PROCEDURE 766 792	continuous carotid Doppler
+T18	PROCEDURE 797 815	fundus examination
+T35	PROCEDURE 829 881	Transthoracic and transesophageal cardiac ultrasound
+T8	PROCEDURE 1083 1113	empirical antibiotic treatment
+T14	PROCEDURE 1163 1177	blood cultures
+T9	PROCEDURE 1278 1289	chest X-ray
+T2	PROCEDURE 1364 1371	scanner
+T11	PROCEDURE 1551 1571	antibiotic treatment
+T12	PROCEDURE 1639 1653	echocardiogram
+T43	PROCEDURE 1786 1800	blood cultures
+T44	PROCEDURE 1886 1894	cultures
+T22	PROCEDURE 1914 1924	serologies
+T16	PROCEDURE 2100 2120	abdominal ultrasound
+T13	PROCEDURE 2589 2603	echocardiogram
+T49	PROCEDURE 2730 2747	echocardiographic
+T17	PROCEDURE 2794 2800	biopsy
+T21	PROCEDURE 3085 3111	Hypercoagulability studies
+T52	PROCEDURE 3210 3223	blood culture
+T23	PROCEDURE 3248 3258	serologies
+T19	PROCEDURE 3324 3338	tumour markers
+T56	PROCEDURE 3736 3781	chemotherapy treatment with palliative intent
+T20	PROCEDURE 3808 3840	palliative symptomatic treatment

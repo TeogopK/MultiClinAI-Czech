@@ -1,0 +1,8 @@
+T1	DISEASE 20 28	afáquica
+T3	DISEASE 48 57	cataratas
+T4	DISEASE 81 115	rotura capsular y salida de vítreo
+T10	DISEASE 582 633	desprendimiento y rotura de la membrana de Descemet
+T11	DISEASE 826 848	edema macular quístico
+T14	DISEASE 566 569	BML
+T15	DISEASE 267 280	edema corneal
+#1	AnnotatorNotes T14	   BML: síndrome de Brown-McLean

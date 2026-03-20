@@ -1,0 +1,21 @@
+T15	PROCEDURE 172 234	prolonged treatment with non-steroidal anti-inflammatory drugs
+T14	PROCEDURE 197 234	non-steroidal anti-inflammatory drugs
+T8	PROCEDURE 236 242	NSAIDs
+T10	PROCEDURE 248 256	steroids
+T12	PROCEDURE 387 403	dental treatment
+T2	PROCEDURE 409 424	dental implants
+T1	PROCEDURE 503 523	Physical examination
+T19	PROCEDURE 740 756	Laboratory tests
+T20	PROCEDURE 822 850	liver profile, lipid profile
+T24	PROCEDURE 958 987	Serology for HBV, HCV and HIV
+T4	PROCEDURE 998 1012	Blood cultures
+T5	PROCEDURE 1245 1261	Renal ultrasound
+T6	PROCEDURE 1324 1338	antibiotherapy
+T7	PROCEDURE 1358 1366	dialysis
+T3	PROCEDURE 1544 1556	renal biopsy
+T33	PROCEDURE 1616 1632	light microscopy
+T9	PROCEDURE 1705 1708	PAS
+T35	PROCEDURE 1939 1964	Direct immunofluorescence
+T16	PROCEDURE 1966 1969	DIF
+T13	PROCEDURE 2097 2118	Ultrastructural study
+T11	PROCEDURE 2152 2174	Pathological diagnosis

@@ -1,0 +1,57 @@
+T1	SYMPTOM 890 899	hematuria
+T2	SYMPTOM 1024 1042	disnea de esfuerzo
+T3	SYMPTOM 1133 1139	disnea
+T4	SYMPTOM 1157 1165	ortopnea
+T5	SYMPTOM 1202 1229	disnea paroxística nocturna
+T6	SYMPTOM 1245 1300	edemas bilaterales con fóvea en extremidades inferiores
+T7	SYMPTOM 1412 1435	pérdida de 3 kg de peso
+T8	SYMPTOM 1502 1527	hemodinámicamente estable
+T9	SYMPTOM 1529 1541	taquicárdico
+T11	SYMPTOM 1635 1658	hipoventilación en base
+T12	SYMPTOM 1671 1694	crepitantes bilaterales
+T14	SYMPTOM 1721 1762	edemas con fóvea bilaterales hasta muslos
+T15	SYMPTOM 1770 1793	elevación del NT-proBNP
+T16	SYMPTOM 2020 2045	hemodinámicamente estable
+T17	SYMPTOM 2088 2100	taquicárdico
+T18	SYMPTOM 2179 2194	plétora yugular
+T19	SYMPTOM 2201 2237	auscultación cardiaca estaba rítmico
+T20	SYMPTOM 2254 2260	soplos
+T21	SYMPTOM 2318 2363	disminución del murmullo vesicular en la base
+T22	SYMPTOM 2376 2399	crepitantes bilaterales
+T23	SYMPTOM 2474 2519	edemas con fóvea bilaterales hasta los muslos
+T24	SYMPTOM 2566 2579	ritmo sinusal
+T25	SYMPTOM 2591 2600	PR normal
+T26	SYMPTOM 2620 2632	QRS estrecho
+T27	SYMPTOM 2638 2655	ondas T aplanadas
+T28	SYMPTOM 3860 3872	VHC negativo
+T29	SYMPTOM 3874 3886	VIH negativo
+T30	SYMPTOM 3888 3900	CMV negativo
+T31	SYMPTOM 3902 3946	parvovirus B19 Ig-G positivo (Ig-M negativo)
+T32	SYMPTOM 3948 3968	enterovirus negativo
+T40	SYMPTOM 8018 8050	alteraciones en la función renal
+T42	SYMPTOM 9560 9569	hematuria
+T43	SYMPTOM 9842 9852	euvolémico
+T44	SYMPTOM 9858 9876	signos congestivos
+T45	SYMPTOM 10240 10252	peso estable
+T46	SYMPTOM 10262 10280	edemas en tobillos
+T48	SYMPTOM 10456 10462	disnea
+T49	SYMPTOM 10471 10514	edemas con fóvea en extremidades inferiores
+T50	SYMPTOM 10795 10803	sangrado
+T167	SYMPTOM 10217 10223	disnea
+T10	SYMPTOM 4065 4105	pinzamiento de ambos senos costofrénicos
+T13	SYMPTOM 4025 4059	índice cardiotorácico en el límite
+T166	SYMPTOM 4176 4217	pinzamiento del seno costofrénico derecho
+T33	SYMPTOM 5334 5353	hipoquinesia difusa
+T36	SYMPTOM 8996 9041	amplitud de distribución eritrocitaria normal
+T37	SYMPTOM 11336 11361	FEVI gravemente deprimida
+T186	SYMPTOM 4116 4130	condensaciones
+T189	SYMPTOM 8418 8435	dolores torácicos
+T198	SYMPTOM 4233 4240	mejoría
+T38	SYMPTOM 5704 5756	Coronariografía izquierda: tronco común sin lesiones
+T41	SYMPTOM 1615 1633	signos congestivos
+T47	SYMPTOM 5490 5565	realce intramiocárdico lineal en septo basal y puntos de inserción septales
+T171	SYMPTOM 7707 7725	signos congestivos
+T164	SYMPTOM 8208 8232	hipocinesia global grave
+T158	SYMPTOM 9055 9117	hierro, ferritina e índice de saturación de transferrina bajos
+T172	SYMPTOM 9244 9312	sangre oculta en heces realizado durante el ingreso resultó negativo
+T173	SYMPTOM 10414 10432	signos congestivos

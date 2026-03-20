@@ -1,0 +1,14 @@
+T2	DISEASE 107 125	estatus convulsivo
+T16	DISEASE 717 769	lesión de hiperseñal sobre lóbulo temporal izquierdo
+T23	DISEASE 1033 1041	neumonía
+T31	DISEASE 1369 1385	leve hemiparesia
+T33	DISEASE 1499 1520	síndrome de Korsakoff
+T39	DISEASE 1913 1937	atelectasia/neumonía LDI
+T46	DISEASE 2174 2177	ELP
+T50	DISEASE 2289 2343	a nivel faringolaríngeo, así como pequeñas adenopatías
+T52	DISEASE 2473 2513	carcinoma epidermoide del seno piriforme
+T58	DISEASE 1844 1853	neoplasia
+T60	DISEASE 1772 1776	lúes
+T63	DISEASE 24 31	fumador
+T76	DISEASE 475 492	atelectasia basal
+#1	AnnotatorNotes T46	   ELP: Encefalitis límbica paraneoplásica

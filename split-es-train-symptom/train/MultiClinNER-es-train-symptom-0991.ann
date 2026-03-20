@@ -1,0 +1,65 @@
+T1	SYMPTOM 319 358	opresión centrotorácica con el esfuerzo
+T2	SYMPTOM 378 383	mareo
+T3	SYMPTOM 385 395	sudoración
+T4	SYMPTOM 398 421	temblor de extremidades
+T5	SYMPTOM 531 562	soplo sistólico en foco aórtico
+T7	SYMPTOM 1696 1702	disnea
+T8	SYMPTOM 1705 1738	dolor torácico de leves esfuerzos
+T9	SYMPTOM 1773 1792	crepitantes en base
+T10	SYMPTOM 1803 1825	edemas en los tobillos
+T11	SYMPTOM 1870 1883	ritmo sinusal
+T12	SYMPTOM 1888 1935	ondas T negativas, simétricas y profundas V3-V6
+T13	SYMPTOM 1938 1972	ondas T negativas en cara inferior
+T14	SYMPTOM 2235 2260	hemodinámicamente estable
+T15	SYMPTOM 2333 2340	Afebril
+T16	SYMPTOM 2377 2392	Bien perfundida
+T17	SYMPTOM 2395 2416	levemente taquipneica
+T18	SYMPTOM 2469 2508	ingurgitación yugular en base de cuello
+T19	SYMPTOM 2510 2541	soplo sistólico en foco aórtico
+T20	SYMPTOM 2543 2574	crepitantes en bases pulmonares
+T21	SYMPTOM 2587 2620	edemas en extremidades inferiores
+T22	SYMPTOM 2679 2705	dolor precordial en reposo
+T24	SYMPTOM 3084 3112	Función sistólica conservada
+T27	SYMPTOM 3310 3343	ventrículo derecho (VD) es normal
+T29	SYMPTOM 3808 3814	disnea
+T30	SYMPTOM 4079 4092	ritmo sinusal
+T31	SYMPTOM 4103 4112	PR normal
+T32	SYMPTOM 4114 4126	QRS estrecho
+T33	SYMPTOM 4142 4184	ondas T negativas en V3-V6 y cara inferior
+T35	SYMPTOM 5154 5180	senos costofrénicos libres
+T36	SYMPTOM 5209 5223	VI no dilatado
+T37	SYMPTOM 5262 5297	Función sistólica global conservada
+T39	SYMPTOM 5595 5609	VD no dilatado
+T40	SYMPTOM 5614 5642	función sistólica conservada
+T41	SYMPTOM 5802 5812	VI pequeño
+T43	SYMPTOM 5882 5917	Función sistólica global conservada
+T44	SYMPTOM 5988 6023	alteraciones de la motilidad apical
+T45	SYMPTOM 6083 6123	Patrón diastólico de relajación alargada
+T47	SYMPTOM 6680 6705	hemodinámicamente estable
+T49	SYMPTOM 7032 7055	opresión centrotorácica
+T50	SYMPTOM 7071 7089	intensa sudoración
+T51	SYMPTOM 7091 7098	náuseas
+T52	SYMPTOM 7101 7124	temblor de extremidades
+T54	SYMPTOM 7509 7520	eosinofilia
+T55	SYMPTOM 8191 8197	disnea
+T56	SYMPTOM 8224 8237	palpitaciones
+T57	SYMPTOM 8246 8275	sintomatología cardiovascular
+T135	SYMPTOM 664 704	alteraciones agudas de la repolarización
+T136	SYMPTOM 6798 6843	alteraciones de la contractilidad segmentaria
+T160	SYMPTOM 630 649	taquicardia sinusal
+T6	SYMPTOM 1326 1366	acinesia de todos los segmentos apicales
+T23	SYMPTOM 2949 2957	Acinesia
+T28	SYMPTOM 3527 3569	Valvula aórtica trivalva, normofuncionante
+T132	SYMPTOM 3696 3728	raíz aórtica es de tamaño normal
+T133	SYMPTOM 3937 3945	acinesia
+T34	SYMPTOM 5313 5355	anomalías de la contractilidad segmentaria
+T38	SYMPTOM 6128 6140	VD es normal
+T176	SYMPTOM 8173 8185	asintomática
+T183	SYMPTOM 8160 8170	eutiroidea
+T187	SYMPTOM 802 840	fracción de eyección [FEVI] conservada
+T190	SYMPTOM 5750 5776	red coronaria sin lesiones
+T191	SYMPTOM 7718 7753	red arterial coronaria sin lesiones
+T199	SYMPTOM 5104 5152	leve redistribución vascular a campos superiores
+T201	SYMPTOM 7334 7354	síntomas congestivos
+T46	SYMPTOM 745 796	ventrículo izquierdo (VI) hipertrófico, no dilatado
+T48	SYMPTOM 846 886	alteraciones de la motilidad segmentaria

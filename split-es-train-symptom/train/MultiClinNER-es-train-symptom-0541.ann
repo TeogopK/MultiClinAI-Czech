@@ -1,0 +1,15 @@
+T1	SYMPTOM 488 501	inestabilidad
+T2	SYMPTOM 503 520	mareos rotatorios
+T3	SYMPTOM 459 486	cefaleas de intensidad leve
+T4	SYMPTOM 522 564	vómitos autolimitados de duración variable
+T5	SYMPTOM 567 590	nistagmus vertical leve
+T6	SYMPTOM 1782 1791	nistagmus
+T7	SYMPTOM 71 105	pérdida de visión súbita bilateral
+T8	SYMPTOM 919 943	defecto pupilar aferente
+T9	SYMPTOM 968 1037	nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media
+T10	SYMPTOM 1062 1118	hemorragia retrohialoidea premacular y vítrea bilateral,
+T11	SYMPTOM 1497 1523	sangre a la cavidad vítrea
+T12	SYMPTOM 1698 1731	membrana epirretiniana premacular
+T13	SYMPTOM 1831 1851	hemovítreo bilateral
+A1	IMAGEN T10
+A2	IMAGEN T12

@@ -1,0 +1,30 @@
+T1	SYMPTOM 315 338	expectoración purulenta
+T2	SYMPTOM 346 369	dificultad respiratoria
+T3	SYMPTOM 444 450	fiebre
+T4	SYMPTOM 461 490	cianosis central y periférica
+T5	SYMPTOM 492 528	aumento de la presión venosa yugular
+T6	SYMPTOM 530 541	taquicardia
+T7	SYMPTOM 553 588	alargamiento del tiempo espiratorio
+T8	SYMPTOM 590 601	sibilancias
+T9	SYMPTOM 604 650	roncus espiratorios en ambos campos pulmonares
+T10	SYMPTOM 692 714	hepatomegalia dolorosa
+T11	SYMPTOM 717 740	edemas en ambas piernas
+T12	SYMPTOM 1726 1732	disnea
+T13	SYMPTOM 1735 1741	fiebre
+T14	SYMPTOM 307 310	tos
+T15	SYMPTOM 1483 1521	flora habitual del tracto respiratorio
+T16	SYMPTOM 2514 2539	Nocardia otitidiscaviarum
+T17	SYMPTOM 1809 1820	falleciendo
+T18	SYMPTOM 1866 1879	fallecimiento
+T19	SYMPTOM 372 409	empeoramiento del nivel de conciencia
+T20	SYMPTOM 776 814	aumento de densidad en lóbulo inferior
+T21	SYMPTOM 1713 1724	hipotensión
+T22	SYMPTOM 1915 2007	hemocultivo como en el cultivo de esputo, ambos en medio especifico para micobacterias (MGIT
+T23	SYMPTOM 2057 2080	bacilos Ziehl positivos
+A1	RESULTADO T15
+A2	RESULTADO T16
+A3	EXITUS T17
+A4	EXITUS T18
+A5	IMAGEN T20
+A6	RESULTADO T22
+A7	RESULTADO T23

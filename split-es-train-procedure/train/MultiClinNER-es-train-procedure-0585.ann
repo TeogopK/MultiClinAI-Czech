@@ -1,0 +1,29 @@
+T1	PROCEDURE 1241 1294	tomografía computarizada (TC) tóraco-abdomino-pélvica
+T2	PROCEDURE 1499 1533	biopsia de una adenopatía cervical
+T3	PROCEDURE 3873 3886	biopsia renal
+T4	PROCEDURE 1730 1747	fibrobroncoscopia
+T5	PROCEDURE 882 897	ecografía renal
+T6	PROCEDURE 1819 1840	lavado broncoalveolar
+T7	PROCEDURE 3987 4014	tratamiento antituberculoso
+T8	PROCEDURE 682 700	exploración física
+T9	PROCEDURE 3410 3423	biopsia renal
+T10	PROCEDURE 1927 2006	punción-aspiración con aguja fina transbronquial de una adenopatía mediastínica
+T11	PROCEDURE 242 274	prueba de la tuberculina cutánea
+T12	PROCEDURE 302 327	profilaxis con isoniacida
+T13	PROCEDURE 796 823	auscultación cardiopulmonar
+T14	PROCEDURE 2211 2228	fibrobroncoscopia
+T15	PROCEDURE 2382 2409	tratamiento antituberculoso
+T16	PROCEDURE 3809 3844	tinciones de PAS y de Ziehl-Nielsen
+T17	PROCEDURE 437 451	antidepresivos
+T18	PROCEDURE 393 425	antiinflamatorios no esteroideos
+T19	PROCEDURE 454 489	inhibidores de la bomba de protones
+T20	PROCEDURE 2904 2917	proteinograma
+T21	PROCEDURE 2303 2314	quantiFERON
+T22	PROCEDURE 1631 1655	tinción de Ziehl-Nielsen
+T23	PROCEDURE 1891 1907	lavado bronquial
+T24	PROCEDURE 2060 2076	tinción de Ziehl
+T25	PROCEDURE 2243 2301	ensayo de liberación de interferón gamma para tuberculosis
+T26	PROCEDURE 2724 2740	estudio de orina
+T27	PROCEDURE 3265 3277	radiológicos
+T34	PROCEDURE 731 790	se palpaban adenopatías laterocervicales o retroauriculares
+T35	PROCEDURE 2584 2599	serología viral

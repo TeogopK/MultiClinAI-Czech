@@ -1,0 +1,36 @@
+T131	DISEASE 82 96	drug allergies
+T132	DISEASE 101 122	arterial hypertension
+T133	DISEASE 127 144	diabetes mellitus
+T169	DISEASE 149 162	dyslipidaemia
+T1	DISEASE 173 186	heart disease
+T134	DISEASE 190 202	bronchopathy
+T135	DISEASE 204 235	Advanced chronic kidney disease
+T136	DISEASE 277 321	autosomal dominant polycystic kidney disease
+T3	DISEASE 323 372	Renal transplant in May 2018 with acute rejection
+T4	DISEASE 420 547	Proximal deep vein thrombosis at the level of superficial femoral, popliteal vein and deep and twin branches of left lower limb
+T5	DISEASE 606 639	Pyelonephritis of the renal graft
+T137	DISEASE 1547 1572	mild pericardial effusion
+T138	DISEASE 1920 1932	tuberculosis
+T147	DISEASE 2728 2740	hepatomegaly
+T148	DISEASE 2745 2757	splenomegaly
+T9	DISEASE 2802 2854	left lower limb with signs of deep venous thrombosis
+T149	DISEASE 3913 3944	Mild bilateral pleural effusion
+T150	DISEASE 3946 3973	Severe pericardial effusion
+T13	DISEASE 4157 4213	Left ventricle of normal size, mild parietal hypertrophy
+T152	DISEASE 4379 4393	valvulopathies
+T14	DISEASE 4529 4531	TR
+T161	DISEASE 4733 4776	Severe circumferential pericardial effusion
+T151	DISEASE 4918 4945	severe pericardial effusion
+T157	DISEASE 5087 5107	pericardial effusion
+T162	DISEASE 7114 7157	severe circumferential pericardial effusion
+T142	DISEASE 7321 7333	tuberculosis
+T163	DISEASE 7592 7603	liver cysts
+T165	DISEASE 7620 7645	polycystic kidney disease
+T143	DISEASE 8241 8253	tuberculosis
+T144	DISEASE 8578 8590	tuberculosis
+T159	DISEASE 8945 8965	pericardial effusion
+T166	DISEASE 8982 9006	pericardial constriction
+T145	DISEASE 9052 9064	tuberculosis
+T168	DISEASE 9135 9189	Pericardial effusion due to Mycobacterium tuberculosis
+T23	DISEASE 9203 9245	immunocompromised by renal transplantation
+T167	DISEASE 9267 9291	pericardial constriction

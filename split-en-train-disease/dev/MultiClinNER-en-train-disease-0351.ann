@@ -1,0 +1,16 @@
+T13	DISEASE 437 443	smoker
+T12	DISEASE 465 481	bronchial asthma
+T20	DISEASE 1254 1266	cardiomegaly
+T1	DISEASE 1385 1412	severe pericardial effusion
+T3	DISEASE 2003 2023	pericardial effusion
+T28	DISEASE 2782 2806	mediastinal adenopathies
+T4	DISEASE 2917 2943	bilateral pleural effusion
+T30	DISEASE 3605 3617	adenopathies
+T2	DISEASE 3838 3855	acute lung damage
+T5	DISEASE 3891 3924	diffuse interstitial lung disease
+T6	DISEASE 3926 3930	DILD
+T7	DISEASE 4026 4048	eosinophilic pneumonia
+T8	DISEASE 4489 4524	moderate bilateral pleural effusion
+T9	DISEASE 4683 4733	well-differentiated acinar-papillary adenocarcinom
+T10	DISEASE 4824 4838	adenocarcinoma
+T11	DISEASE 4909 4947	pulmonary origin of the adenocarcinoma

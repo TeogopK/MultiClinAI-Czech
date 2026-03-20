@@ -1,0 +1,21 @@
+T3	PROCEDURE 71 82	gastrectomy
+T17	PROCEDURE 106 132	Billroth II reconstruction
+T18	PROCEDURE 193 202	Roux-en-Y
+T16	PROCEDURE 300 334	surgery for intestinal obstruction
+T21	PROCEDURE 597 629	surgery due to ureteral stenosis
+T24	PROCEDURE 886 940	urinary catheter with urine in a purple collection bag
+T9	PROCEDURE 1088 1148	started on hypercaloric/hyperproteic nutritional supplements
+T12	PROCEDURE 1150 1158	Fortimel
+T13	PROCEDURE 1215 1246	biochemical nutritional markers
+T10	PROCEDURE 1294 1317	nutritional supplements
+T1	PROCEDURE 1398 1421	bladder catheterisation
+T2	PROCEDURE 1426 1442	diuresis control
+T4	PROCEDURE 1592 1608	bladder catheter
+T5	PROCEDURE 1791 1807	bladder catheter
+T7	PROCEDURE 1833 1853	antibiotic treatment
+T34	PROCEDURE 2099 2132	biochemical analysis of the urine
+T11	PROCEDURE 2241 2249	sediment
+T14	PROCEDURE 2385 2401	nitrite reaction
+T15	PROCEDURE 2416 2429	Urine culture
+T8	PROCEDURE 2551 2562	antibiogram
+T6	PROCEDURE 2572 2588	bladder catheter

@@ -1,0 +1,32 @@
+T2	SYMPTOM 465 483	disnea de esfuerzo
+T3	SYMPTOM 517 531	dolor torácico
+T4	SYMPTOM 606 625	buen estado general
+T5	SYMPTOM 627 634	afebril
+T6	SYMPTOM 636 654	eupneico en reposo
+T7	SYMPTOM 714 739	ruidos cardiacos rítmicos
+T8	SYMPTOM 741 766	refuerzo del primer ruido
+T9	SYMPTOM 768 796	chasquido de apertura mitral
+T11	SYMPTOM 858 887	murmullo vesicular conservado
+T12	SYMPTOM 892 902	estertores
+T13	SYMPTOM 904 932	Abdomen: blando y depresible
+T16	SYMPTOM 974 988	organomegalias
+T17	SYMPTOM 1011 1045	pulsos pedios presentes simétricos
+T18	SYMPTOM 1051 1057	edemas
+T19	SYMPTOM 1089 1102	ritmo sinusal
+T20	SYMPTOM 1126 1185	onda P mellada en II,III y aVF y en precordiales izquierdas
+T21	SYMPTOM 1187 1214	onda q no patológica en aVL
+T22	SYMPTOM 1577 1620	índice cardiotorácico ligeramente aumentado
+T25	SYMPTOM 1825 1848	Aurícula derecha normal
+T28	SYMPTOM 2180 2216	FSVI global y segmentaria conservada
+T29	SYMPTOM 4504 4557	Función sistólica del ventrículo izquierdo conservada
+T1	SYMPTOM 1216 1238	ventriculograma normal
+T10	SYMPTOM 1695 1721	Senos costofrénicos libres
+T24	SYMPTOM 1850 1898	Raíz aórtica, aorta ascendente y cayado normales
+T63	SYMPTOM 2228 2253	Ventrículo derecho normal
+T64	SYMPTOM 2268 2302	Pericardio y sistema cava normales
+T83	SYMPTOM 1742 1756	condensaciones
+T85	SYMPTOM 1727 1738	infiltrados
+T91	SYMPTOM 1670 1693	redistribución vascular
+T57	SYMPTOM 399 434	sensación de "ruidos en el corazón"
+T69	SYMPTOM 799 833	retumbo diastólico audible en ápex
+T14	SYMPTOM 2255 2266	SIA íntegro

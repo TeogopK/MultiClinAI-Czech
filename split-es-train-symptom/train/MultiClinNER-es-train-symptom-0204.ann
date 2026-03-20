@@ -1,0 +1,31 @@
+T1	SYMPTOM 531 549	mal estado general
+T2	SYMPTOM 2743 2749	fiebre
+T3	SYMPTOM 2751 2787	disminución del nivel de consciencia
+T4	SYMPTOM 559 565	febril
+T5	SYMPTOM 575 584	hipotenso
+T6	SYMPTOM 2789 2806	disnea progresiva
+T7	SYMPTOM 602 614	taquicárdico
+T8	SYMPTOM 627 638	taquipneico
+T9	SYMPTOM 154 160	fiebre
+T10	SYMPTOM 162 181	supuración perianal
+T11	SYMPTOM 652 701	fosa iliaca derecha se le palpaba un "efecto masa
+T12	SYMPTOM 184 191	diarrea
+T13	SYMPTOM 951 988	elevación de reactantes de fase aguda
+T14	SYMPTOM 1263 1277	desorientación
+T15	SYMPTOM 1279 1288	agitación
+T16	SYMPTOM 1291 1320	deterioro de su función renal
+T17	SYMPTOM 1335 1381	alteraciones metabólicas e hidroelectrolíticas
+T18	SYMPTOM 2086 2106	masa retroperitoneal
+T19	SYMPTOM 2809 2815	anuria
+T20	SYMPTOM 1593 1636	ecografia Doppler renal que resultó anodina
+T21	SYMPTOM 1897 1929	descenso de los niveles de urato
+T22	SYMPTOM 2201 2247	conglomerado de asas fijas con pared engrosada
+T23	SYMPTOM 2817 2828	falleciendo
+A1	RESULTADO T13
+A2	RESULTADO T16
+A3	RESULTADO T17
+A4	IMAGEN T18
+A5	IMAGEN T20
+A6	RESULTADO T21
+A7	IMAGEN T22
+A8	EXITUS T23

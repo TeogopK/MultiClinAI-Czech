@@ -1,0 +1,32 @@
+T1	SYMPTOM 108 121	disnea brusca
+T2	SYMPTOM 600 606	disnea
+T3	SYMPTOM 696 704	ortopnea
+T4	SYMPTOM 708 735	disnea paroxística nocturna
+T5	SYMPTOM 741 744	tos
+T6	SYMPTOM 749 762	expectoración
+T7	SYMPTOM 766 780	dolor torácico
+T8	SYMPTOM 814 837	desaturación de oxígeno
+T9	SYMPTOM 888 917	Presión venosa yugular normal
+T10	SYMPTOM 919 948	Auscultación cardiaca rítmica
+T11	SYMPTOM 954 960	soplos
+T12	SYMPTOM 964 974	extratonos
+T13	SYMPTOM 1002 1030	hipofonesis en base pulmonar
+T14	SYMPTOM 1052 1063	crepitantes
+T15	SYMPTOM 1067 1073	roncus
+T16	SYMPTOM 1087 1109	edemas en extremidades
+T17	SYMPTOM 1564 1577	ritmo sinusal
+T18	SYMPTOM 1674 1707	alteraciones de la repolarización
+T19	SYMPTOM 1768 1791	Silueta cardiaca normal
+T20	SYMPTOM 1806 1843	pérdida de volumen en lóbulo superior
+T22	SYMPTOM 2085 2149	ventrículo izquierdo de dimensiones y función sistólica normales
+T23	SYMPTOM 2155 2201	alteraciones segmentarias de la contractilidad
+T26	SYMPTOM 2267 2306	Válvulas mitral y aórtica sin anomalías
+T27	SYMPTOM 2341 2364	Presión pulmonar normal
+T28	SYMPTOM 3832 3838	disnea
+T21	SYMPTOM 2308 2339	Septo interauricular hipermóvil
+T79	SYMPTOM 2203 2265	Cavidades derechas normales con función ventricular conservada
+T80	SYMPTOM 1395 1413	Coagulación normal
+T85	SYMPTOM 1970 2014	defectos de repleción en arterias pulmonares
+T24	SYMPTOM 228 278	eco-Doppler de troncos supraaórticos sin hallazgos
+T25	SYMPTOM 2423 2481	paso masivo de burbujas de cavidades derechas a izquierdas
+T82	SYMPTOM 2673 2767	paso masivo de burbujas con suero fisiológico agitado desde la aurícula derecha a la izquierda

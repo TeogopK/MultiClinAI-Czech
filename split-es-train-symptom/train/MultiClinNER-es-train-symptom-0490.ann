@@ -1,0 +1,12 @@
+T1	SYMPTOM 2121 2143	adecuada función renal
+T2	SYMPTOM 656 668	asintomático
+T3	SYMPTOM 703 724	función renal estable
+T4	SYMPTOM 799 874	nódulo sólido de 1,5 cm vascularizado en el polo inferior del injerto renal
+T5	SYMPTOM 2226 2237	proteinuria
+T6	SYMPTOM 1107 1127	tumoración exofítica
+T7	SYMPTOM 1678 1690	pT1a, Nx, Mx
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	IMAGEN T4
+A4	RESULTADO T5
+A5	RESULTADO T7

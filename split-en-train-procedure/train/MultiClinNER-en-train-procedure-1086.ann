@@ -1,0 +1,46 @@
+T52	PROCEDURE 1339 1357	electrocardiograms
+T53	PROCEDURE 1359 1362	ECG
+T57	PROCEDURE 1582 1602	coronary angiography
+T62	PROCEDURE 1604 1619	Echocardioscopy
+T65	PROCEDURE 1739 1759	PHYSICAL EXAMINATION
+T66	PROCEDURE 1802 1822	physical examination
+T67	PROCEDURE 2061 2081	Cardiac auscultation
+T68	PROCEDURE 2130 2152	Pulmonary auscultation
+T54	PROCEDURE 2316 2319	ECG
+T55	PROCEDURE 2490 2493	ECG
+T69	PROCEDURE 2689 2700	Chest X-ray
+T63	PROCEDURE 2877 2893	echocardiography
+T70	PROCEDURE 3069 3083	Echocardiogram
+T58	PROCEDURE 3659 3679	coronary angiography
+T8	PROCEDURE 3953 4015	Percutaneous coronary intervention on severe stenosis of CX-MO
+T72	PROCEDURE 4028 4076	PTCA with conventional balloons, cutting balloon
+T78	PROCEDURE 4081 4103	rotational atherectomy
+T87	PROCEDURE 4105 4172	Subsequent implantation of a zotarolimus-eluting drug-eluting stent
+T59	PROCEDURE 4217 4237	coronary angiography
+T88	PROCEDURE 4271 4308	drug-eluting stent implanted on CX-MO
+T10	PROCEDURE 4310 4424	Percutaneous coronary intervention on long calcified plaque in proximal-middle anterior descending coronary artery
+T73	PROCEDURE 4437 4483	percutaneous transluminal coronary angioplasty
+T75	PROCEDURE 4485 4489	PTCA
+T12	PROCEDURE 4495 4549	implantation of zotarolimus-eluting drug-eluting stent
+T13	PROCEDURE 4551 4562	Blood tests
+T14	PROCEDURE 4589 4598	haemogram
+T83	PROCEDURE 4672 4684	Biochemistry
+T15	PROCEDURE 5098 5111	Allergy tests
+T17	PROCEDURE 5113 5149	skin tests to common trophoallergens
+T86	PROCEDURE 5545 5555	Prick test
+T84	PROCEDURE 5593 5620	myocardial necrosis markers
+T56	PROCEDURE 5763 5766	ECG
+T64	PROCEDURE 5906 5922	echocardiography
+T60	PROCEDURE 5993 6013	coronary angiography
+T77	PROCEDURE 6238 6264	PTCA with cutting balloons
+T79	PROCEDURE 6274 6296	rotational atherectomy
+T21	PROCEDURE 6314 6346	drug-eluting stent was implanted
+T82	PROCEDURE 6571 6590	tryptase blood test
+T85	PROCEDURE 6713 6740	myocardial necrosis markers
+T61	PROCEDURE 6882 6902	coronary angiography
+T23	PROCEDURE 6943 6992	LAD, and another drug-eluting stent was implanted
+T71	PROCEDURE 7004 7018	echocardiogram
+T89	PROCEDURE 7170 7186	analytical study
+T80	PROCEDURE 7271 7280	skin test
+T24	PROCEDURE 7424 7455	mmunotherapy against wasp venom
+T81	PROCEDURE 7720 7737	revascularisation

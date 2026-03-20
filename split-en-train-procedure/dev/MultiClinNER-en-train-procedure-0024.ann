@@ -1,0 +1,20 @@
+T10	PROCEDURE 199 235	hysterectomy with double adnexectomy
+T13	PROCEDURE 251 264	brachytherapy
+T21	PROCEDURE 419 430	Blood tests
+T5	PROCEDURE 444 455	Chest X-ray
+T23	PROCEDURE 460 468	chest CT
+T24	PROCEDURE 528 572	biopsy of the mass was taken by bronchoscopy
+T14	PROCEDURE 616 636	imnunohistochemistry
+T16	PROCEDURE 709 724	extension study
+T4	PROCEDURE 744 755	gastroscopy
+T6	PROCEDURE 757 768	colonoscopy
+T8	PROCEDURE 773 790	abdominopelvic CT
+T2	PROCEDURE 881 900	right pneumonectomy
+T17	PROCEDURE 931 940	histology
+T3	PROCEDURE 1005 1024	right pneumonectomy
+T7	PROCEDURE 1120 1131	Colonoscopy
+T33	PROCEDURE 1222 1239	abdominal CT scan
+T9	PROCEDURE 1595 1614	right hemicolectomy
+T1	PROCEDURE 1630 1653	Histopathological study
+T11	PROCEDURE 1882 1902	immunohistochemistry
+T15	PROCEDURE 2182 2199	abdominal surgery

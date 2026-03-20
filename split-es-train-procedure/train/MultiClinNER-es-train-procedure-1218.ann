@@ -1,0 +1,39 @@
+T60	PROCEDURE 387 404	Perfil serológico
+T61	PROCEDURE 1060 1078	Exploración física
+T62	PROCEDURE 1276 1297	Auscultación cardiaca
+T63	PROCEDURE 1319 1340	Auscultación pulmonar
+T64	PROCEDURE 1478 1481	ECG
+T65	PROCEDURE 2083 2137	Cateterismo coronario emergente: acceso radial derecho
+T66	PROCEDURE 2400 2437	Intervencionismo coronario percutáneo
+T67	PROCEDURE 2721 2752	tomografía de coherencia óptica
+T68	PROCEDURE 2754 2757	OCT
+T69	PROCEDURE 3036 3064	Ecocardiograma transtorácico
+T70	PROCEDURE 3523 3526	ECG
+T71	PROCEDURE 3711 3729	electrocardiograma
+T72	PROCEDURE 3823 3844	cateterismo coronario
+T73	PROCEDURE 3931 3947	tromboaspiración
+T74	PROCEDURE 3950 3972	angioplastia con balón
+T75	PROCEDURE 4010 4049	prueba de imagen intracoronaria con OCT
+T76	PROCEDURE 4223 4251	ecocardiograma transtorácico
+T77	PROCEDURE 4337 4357	doble antiagregación
+T78	PROCEDURE 4360 4375	anticoagulación
+T79	PROCEDURE 4400 4412	monitorizado
+T80	PROCEDURE 4458 4478	anticoagulación oral
+T81	PROCEDURE 4529 4543	punción radial
+T82	PROCEDURE 4618 4633	anticoagulación
+T83	PROCEDURE 4685 4700	anticoagulación
+T84	PROCEDURE 4703 4712	estatinas
+T85	PROCEDURE 4731 4745	antiagregación
+T86	PROCEDURE 4834 4857	rehabilitación cardiaca
+T87	PROCEDURE 4862 4874	TC coronario
+T88	PROCEDURE 5036 5082	Revascularización urgente de coronaria derecha
+T89	PROCEDURE 5194 5225	tratamiento anticoagulante oral
+T93	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T94	PROCEDURE 2439 2442	ICP
+T95	PROCEDURE 2060 2074	perfil férrico
+T96	PROCEDURE 2462 2515	CD distal y se realizan varias aspiraciones de trombo
+T97	PROCEDURE 3019 3034	implantar stent
+T98	PROCEDURE 4195 4210	implantar stent
+T101	PROCEDURE 1675 1684	Analítica
+#1	AnnotatorNotes T68	 tomografía de coherencia óptica
+#2	AnnotatorNotes T94	 intervención coronaria percutánea

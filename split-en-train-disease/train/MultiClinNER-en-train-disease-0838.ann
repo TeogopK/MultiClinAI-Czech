@@ -1,0 +1,45 @@
+T2	DISEASE 101 110	amaurosis
+T39	DISEASE 130 151	allergy to penicillin
+T40	DISEASE 153 165	hypertension
+T3	DISEASE 167 180	dyslipidaemia
+T4	DISEASE 182 189	obesity
+T5	DISEASE 194 201	smoking
+T6	DISEASE 295 318	left hemispheric stroke
+T41	DISEASE 390 412	valvular heart disease
+T1	DISEASE 501 518	total visual loss
+T7	DISEASE 1102 1114	cardiomegaly
+T8	DISEASE 1119 1135	pleural effusion
+T38	DISEASE 1243 1266	Left atrial enlargement
+T31	DISEASE 1289 1317	left ventricular hypertrophy
+T28	DISEASE 1319 1342	Left anterior hemiblock
+T30	DISEASE 1749 1753	Lúes
+T46	DISEASE 1937 1990	very unstructured aortic valve with severe thickening
+T9	DISEASE 1995 2036	calcification with severe aortic stenosis
+T10	DISEASE 2067 2087	aortic insufficiency
+T37	DISEASE 2136 2141	warts
+T34	DISEASE 2218 2229	vegetations
+T11	DISEASE 2270 2295	mild mitral insufficiency
+T13	DISEASE 2307 2343	perforation of the posterior leaflet
+T15	DISEASE 2345 2380	Severe left ventricular hypertrophy
+T33	DISEASE 2412 2432	patent foramen ovale
+T16	DISEASE 2505 2528	carotid atherosclerosis
+T47	DISEASE 2570 2615	stenosis of the right internal carotid artery
+T49	DISEASE 2766 2804	right central retinal artery occlusion
+T48	DISEASE 2806 2810	RTAO
+T17	DISEASE 2895 2918	Carotid atherosclerosis
+T19	DISEASE 3207 3229	severe aortic stenosis
+T53	DISEASE 3231 3269	degenerative signs in the mitral valve
+T22	DISEASE 3280 3337	mild mitral insufficiency (MI) and calcium in its annulus
+T12	DISEASE 3307 3309	MI
+T20	DISEASE 3468 3490	severe aortic stenosis
+T35	DISEASE 3561 3623	vegetations on the MV and perforation of the posterior leaflet
+T24	DISEASE 3777 3799	infective endocarditis
+T14	DISEASE 3801 3803	IE
+T36	DISEASE 4096 4107	vegetations
+T29	DISEASE 4112 4128	mild-moderate MI
+T25	DISEASE 4166 4188	infective endocarditis
+T57	DISEASE 4332 4354	valvular heart disease
+T58	DISEASE 4664 4715	Occlusion of the central artery of the right retina
+T26	DISEASE 4717 4791	Subacute endocarditis on native mitral valve due to Streptococcus viridans
+T21	DISEASE 4806 4828	severe aortic stenosis
+T27	DISEASE 4862 4884	right carotid stenosis

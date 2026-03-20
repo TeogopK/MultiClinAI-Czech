@@ -1,0 +1,15 @@
+T13	PROCEDURE 251 271	Physical examination
+T14	PROCEDURE 523 535	auscultation
+T22	PROCEDURE 725 736	Haemostasis
+T28	PROCEDURE 741 753	biochemistry
+T15	PROCEDURE 774 793	immunological study
+T23	PROCEDURE 795 812	rheumatoid factor
+T24	PROCEDURE 814 836	antinuclear antibodies
+T27	PROCEDURE 838 846	anti-DNA
+T25	PROCEDURE 859 874	immunoglobulins
+T26	PROCEDURE 879 889	complement
+T16	PROCEDURE 912 945	serology for viruses and bacteria
+T17	PROCEDURE 947 961	Blood cultures
+T19	PROCEDURE 1095 1106	Chest X-ray
+T20	PROCEDURE 1156 1172	echocardiography
+T21	PROCEDURE 1315 1341	intravenous antibiotherapy

@@ -1,0 +1,27 @@
+T32	DISEASE 99 113	drug allergies
+T33	DISEASE 174 198	type 2 diabetes mellitus
+T1	DISEASE 227 233	smokes
+T35	DISEASE 477 499	hypertensive emergency
+T4	DISEASE 2478 2511	Left atrium (LA) slightly dilated
+T37	DISEASE 2513 2567	Left ventricle (LV) with severe concentric hypertrophy
+T38	DISEASE 3182 3202	pericardial effusion
+T39	DISEASE 3620 3645	Mild mitral insufficiency
+T5	DISEASE 3647 3684	Mild-moderate tricuspid insufficiency
+T52	DISEASE 4280 4297	myocardial oedema
+T40	DISEASE 4368 4376	fibrosis
+T41	DISEASE 4387 4414	infiltrative cardiomyopathy
+T9	DISEASE 5207 5215	effusion
+T42	DISEASE 5334 5361	infiltrative cardiomyopathy
+T43	DISEASE 5604 5644	acute myocardial infarction (AMI) type 2
+T11	DISEASE 5633 5636	AMI
+T36	DISEASE 5663 5685	hypertensive emergency
+T44	DISEASE 6461 6488	hypertrophic cardiomyopathy
+T45	DISEASE 6492 6518	hypertensive heart disease
+T46	DISEASE 6524 6559	severe left ventricular hypertrophy
+T47	DISEASE 7591 7615	structural heart disease
+T48	DISEASE 7669 7680	myocarditis
+T50	DISEASE 7709 7726	Acute myocarditis
+T34	DISEASE 7742 7766	Type 2 diabetes mellitus
+T14	DISEASE 7768 7807	Hypercholesterolemia type dyslipidaemia
+T51	DISEASE 7825 7846	arterial hypertension
+T15	DISEASE 7848 7851	AHT

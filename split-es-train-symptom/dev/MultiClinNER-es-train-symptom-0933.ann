@@ -1,0 +1,46 @@
+T1	SYMPTOM 540 563	dolor torácico opresivo
+T2	SYMPTOM 1686 1694	diplopia
+T3	SYMPTOM 1697 1725	inestabilidad para la marcha
+T4	SYMPTOM 1779 1794	pérdida de peso
+T5	SYMPTOM 1797 1804	astenia
+T6	SYMPTOM 1820 1829	febrícula
+T8	SYMPTOM 1987 2016	dolor centrotorácico opresivo
+T9	SYMPTOM 2126 2163	elevación de ST en cara anterolateral
+T10	SYMPTOM 2356 2382	inestabilidad hemodinámica
+T11	SYMPTOM 3034 3050	marcha inestable
+T12	SYMPTOM 3055 3085	lateropulsión hacia la derecha
+T13	SYMPTOM 3278 3307	murmullo vesicular conservado
+T15	SYMPTOM 3335 3365	Auscultación cardiaca: rítmico
+T16	SYMPTOM 3370 3407	soplo sistólico II/VI en foco aórtico
+T17	SYMPTOM 3409 3449	Abdomen blando, depresible y no doloroso
+T18	SYMPTOM 3454 3483	edemas en miembros inferiores
+T19	SYMPTOM 3822 3846	pupilas medias reactivas
+T20	SYMPTOM 3848 3906	Flexión de miembros superiores (MMSS) al estímulo algésico
+T21	SYMPTOM 3931 3960	murmullo vesicular conservado
+T23	SYMPTOM 4011 4018	rítmico
+T24	SYMPTOM 4023 4060	soplo sistólico II/VI en foco aórtico
+T25	SYMPTOM 4062 4090	Abdomen blando, y depresible
+T26	SYMPTOM 4123 4145	peristalsis conservada
+T27	SYMPTOM 4161 4182	irritación peritoneal
+T28	SYMPTOM 4197 4202	masas
+T29	SYMPTOM 4206 4214	megalias
+T30	SYMPTOM 4216 4256	Extremidades inferiores bien perfundidas
+T31	SYMPTOM 4262 4300	pulsos pedios conservados y simétricos
+T32	SYMPTOM 4420 4428	sangrado
+T33	SYMPTOM 4920 4934	dolor torácico
+T34	SYMPTOM 4936 4949	ritmo sinusal
+T35	SYMPTOM 4967 5005	Elevación del ST en cara anterolateral
+T37	SYMPTOM 6715 6724	febrícula
+T38	SYMPTOM 7474 7480	anuria
+T39	SYMPTOM 7566 7573	fallece
+T22	SYMPTOM 6329 6355	Disfunción sistólica grave
+T144	SYMPTOM 6360 6368	acinesia
+T36	SYMPTOM 7074 7152	hemocultivos extraídos a su ingreso, positivos para Staphylococcus epidermidis
+T145	SYMPTOM 7588 7594	Muerte
+T157	SYMPTOM 5121 5162	Tronco coronario izquierdo: sin estenosis
+T166	SYMPTOM 3313 3333	ruidos sobreañadidos
+T167	SYMPTOM 3966 3986	ruidos sobreañadidos
+T175	SYMPTOM 1758 1774	síndrome general
+T148	SYMPTOM 4447 4495	desplazamientos en las estructuras endocraneales
+T149	SYMPTOM 5241 5267	Circunfleja: sin estenosis
+T150	SYMPTOM 6540 6566	Staphylococcus epidermidis

@@ -1,0 +1,42 @@
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 783 797	ecocardiograma
+T67	PROCEDURE 951 969	EXPLORACIÓN FÍSICA
+T68	PROCEDURE 1044 1065	Auscultación cardiaca
+T69	PROCEDURE 1129 1150	Auscultación pulmonar
+T70	PROCEDURE 1340 1358	Electrocardiograma
+T71	PROCEDURE 1360 1363	ECG
+T72	PROCEDURE 1568 1588	Radiografía de tórax
+T73	PROCEDURE 1675 1703	Ecocardiograma transtorácico
+T74	PROCEDURE 2431 2442	TC de aorta
+T75	PROCEDURE 3255 3264	hemograma
+T76	PROCEDURE 3267 3278	coagulación
+T77	PROCEDURE 3331 3352	nitratos en perfusión
+T78	PROCEDURE 3547 3561	ecocardiograma
+T79	PROCEDURE 3751 3794	tratamiento antiagregante plaquetario doble
+T80	PROCEDURE 3849 3874	tratamiento antiagregante
+T81	PROCEDURE 3953 3968	coronariografía
+T82	PROCEDURE 4061 4106	cateterización del tronco coronario izquierdo
+T83	PROCEDURE 4354 4381	coronariografía diagnóstica
+T84	PROCEDURE 4882 4912	ecocardiografía transesofágica
+T86	PROCEDURE 5241 5269	revascularización quirúrgica
+T87	PROCEDURE 5564 5602	cirugía de revascularización coronaria
+T88	PROCEDURE 6106 6161	sustitución valvular aórtica (SVA) por válvula mecánica
+T89	PROCEDURE 6136 6139	SVA
+T90	PROCEDURE 6170 6223	doble bypass coronario (safena a ADAp y safena a ACDp
+T91	PROCEDURE 6239 6288	muestras de la raíz aórtica a anatomía patológica
+T92	PROCEDURE 6376 6404	ecocardiograma transtorácico
+T93	PROCEDURE 6771 6790	anatomía patológica
+T94	PROCEDURE 6808 6841	biopsia de escisión de la arteria
+T95	PROCEDURE 7000 7033	biopsia de escisión de la válvula
+T96	PROCEDURE 7291 7316	Recambio valvular aórtico
+T97	PROCEDURE 7319 7346	doble bypass aortocoronario
+T102	PROCEDURE 807 825	Constantes vitales
+T103	PROCEDURE 3243 3253	bioquímica
+T104	PROCEDURE 3031 3060	marcadores de daño miocárdico
+T105	PROCEDURE 3585 3614	marcadores de daño miocárdico
+T106	PROCEDURE 5479 5508	marcadores de daño miocárdico
+T108	PROCEDURE 5460 5473	antianginosos
+T127	PROCEDURE 3011 3020	Analítica
+T146	PROCEDURE 6627 6650	intervención quirúrgica
+T51	PROCEDURE 3796 3800	DAPT
+#1	AnnotatorNotes T89	  sustitución valvular aórtica

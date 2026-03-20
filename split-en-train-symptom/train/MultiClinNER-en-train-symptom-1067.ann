@@ -1,0 +1,39 @@
+T1	SYMPTOM 192 201	dysphasia
+T5	SYMPTOM 203 217	disorientation
+T7	SYMPTOM 219 227	headache
+T9	SYMPTOM 232 240	vomiting
+T34	SYMPTOM 428 460	normal functioning VDD pacemaker
+T2	SYMPTOM 599 608	dysphasia
+T6	SYMPTOM 610 624	disorientation
+T8	SYMPTOM 626 634	headache
+T10	SYMPTOM 639 647	vomiting
+T11	SYMPTOM 690 695	fever
+T13	SYMPTOM 807 830	haemodynamically stable
+T35	SYMPTOM 970 978	vigilant
+T14	SYMPTOM 983 988	alert
+T15	SYMPTOM 997 1013	ophthalmoparesis
+T16	SYMPTOM 1017 1039	campimetric alteration
+T17	SYMPTOM 1062 1078	global dysphasia
+T3	SYMPTOM 1087 1121	deviation of the labial commissure
+T19	SYMPTOM 1204 1237	extensor plantar cutaneous reflex
+T20	SYMPTOM 1277 1305	periprosthetic aortic sounds
+T36	SYMPTOM 1311 1324	mitral murmur
+T21	SYMPTOM 1336 1373	scattered rhonchi in both lung fields
+T37	SYMPTOM 1757 1794	hypodensity in the left basal ganglia
+T38	SYMPTOM 1965 1985	VDD pacemaker rhythm
+T30	SYMPTOM 2217 2229	condensation
+T22	SYMPTOM 2373 2389	febrile syndrome
+T39	SYMPTOM 2628 2642	preserved FEV1
+T31	SYMPTOM 2651 2679	alterations in contractility
+T28	SYMPTOM 2684 2703	normal mitral valve
+T32	SYMPTOM 2754 2768	high gradients
+T33	SYMPTOM 3406 3459	mitral valve and left ventricular function are normal
+T29	SYMPTOM 3531 3572	growth of Gram-positive cocci in clusters
+T23	SYMPTOM 3907 3919	leukocytosis
+T24	SYMPTOM 3924 3936	elevated CRP
+T25	SYMPTOM 4320 4335	general malaise
+T26	SYMPTOM 4337 4353	profuse sweating
+T40	SYMPTOM 4359 4370	fever peaks
+T27	SYMPTOM 4763 4797	right brachio-crural motor deficit
+T4	SYMPTOM 4835 4860	hemianopsia due to threat
+T18	SYMPTOM 4865 4881	global dysphasia

@@ -1,0 +1,39 @@
+T1	SYMPTOM 478 512	Ergometría positiva a altas cargas
+T2	SYMPTOM 1175 1189	dolor torácico
+T3	SYMPTOM 1290 1313	opresión centrotorácica
+T4	SYMPTOM 1325 1368	disnea desencadenados por mínimos esfuerzos
+T5	SYMPTOM 1469 1482	palpitaciones
+T7	SYMPTOM 1493 1526	disminución del ritmo de diuresis
+T8	SYMPTOM 1529 1580	incremento del perímetro de los miembros inferiores
+T9	SYMPTOM 1660 1667	Afebril
+T10	SYMPTOM 1747 1777	Auscultación cardiaca: rítmica
+T11	SYMPTOM 1783 1789	soplos
+T12	SYMPTOM 1814 1863	murmullo vesicular conservado sin ruidos añadidos
+T13	SYMPTOM 1865 1885	hipofonesis en bases
+T14	SYMPTOM 1897 1908	crepitantes
+T16	SYMPTOM 1910 1965	Abdomen: blando, depresible, no doloroso a la palpación
+T20	SYMPTOM 2446 2486	Hilios pulmonares de morfología vascular
+T21	SYMPTOM 3642 3682	Test de sangre oculta en heces: negativo
+T22	SYMPTOM 3815 3843	Función sistólica conservada
+T25	SYMPTOM 5964 6006	función sistólica biventricular preservada
+T26	SYMPTOM 6844 6852	sangrado
+T154	SYMPTOM 2051 2064	ritmo sinusal
+T155	SYMPTOM 6405 6413	sangrado
+T156	SYMPTOM 6750 6758	sangrado
+T6	SYMPTOM 3145 3198	Marcadores de necrosis miocárdica seriados: negativos
+T162	SYMPTOM 1710 1713	IVY
+T166	SYMPTOM 1967 1998	Miembros inferiores: sin edemas
+T172	SYMPTOM 3928 3964	Patrón de llenado transmitral normal
+T177	SYMPTOM 4304 4334	Ventrículo derecho no dilatado
+T178	SYMPTOM 4450 4471	Válvula pulmonar fina
+T182	SYMPTOM 7108 7127	estabilidad clínica
+T194	SYMPTOM 1724 1745	reflujo hepatoyugular
+T18	SYMPTOM 2155 2195	rectificación del segmento ST de V2 a V6
+T19	SYMPTOM 2398 2444	Silueta cardiopericárdica de morfología normal
+T23	SYMPTOM 2361 2396	estructuras mediastínicas centradas
+T24	SYMPTOM 2488 2520	Senos costodiafragmáticos libres
+T143	SYMPTOM 2539 2587	lesiones de aspecto activo pleuroparenquimatosas
+T144	SYMPTOM 4051 4111	aórtica trivalva, esclerocalcificada con apertura conservada
+T145	SYMPTOM 4270 4295	Ao ascendente no dilatada
+T146	SYMPTOM 5319 5383	Colonoscopia y endoscopia digestiva alta: no evidencia de sangre
+T91	SYMPTOM 6587 6635	endoscopias digestivas sin documentarse lesiones

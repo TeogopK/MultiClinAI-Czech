@@ -1,0 +1,37 @@
+T27	DISEASE 98 121	ischaemic heart disease
+T32	DISEASE 167 194	acute myocardial infarction
+T1	DISEASE 196 199	AMI
+T28	DISEASE 237 260	ischaemic heart disease
+T2	DISEASE 299 302	AMI
+T29	DISEASE 317 340	ischaemic heart disease
+T33	DISEASE 387 401	drug allergies
+T34	DISEASE 411 423	toxic habits
+T35	DISEASE 464 476	hypertension
+T3	DISEASE 478 480	HT
+T36	DISEASE 492 509	diabetes mellitus
+T37	DISEASE 511 513	DM
+T44	DISEASE 516 602	Heterozygous familial hypercholesterolemia with positive genetic study (M334 mutation)
+T4	DISEASE 691 732	chronic multivessel ischaemic cardiopathy
+T5	DISEASE 762 831	inferoposterior AMI with partially revascularised multivessel disease
+T6	DISEASE 894 942	chronically occluded right coronary artery (RCA)
+T39	DISEASE 1050 1065	unstable angina
+T7	DISEASE 1153 1181	Chronic occlusion of the RCA
+T8	DISEASE 1302 1332	ischaemia in the RCA territory
+T10	DISEASE 1464 1496	100% occlusion of the middle RCA
+T41	DISEASE 1627 1650	Left hemispheric stroke
+T42	DISEASE 1669 1681	Fibromyalgia
+T43	DISEASE 1695 1708	lumbar hernia
+T45	DISEASE 2062 2105	heterozygous familial hypercholesterolaemia
+T30	DISEASE 2196 2219	ischaemic heart disease
+T40	DISEASE 2538 2553	unstable angina
+T47	DISEASE 2574 2596	coronary heart disease
+T48	DISEASE 3984 4007	tricuspid insufficiency
+T14	DISEASE 4009 4011	TI
+T15	DISEASE 4042 4104	right internal carotid artery with concentric iosechoic plaque
+T16	DISEASE 4153 4205	Left internal carotid artery with hyperechoic plaque
+T17	DISEASE 4278 4322	dominant left and hypoplastic right vertebra
+T52	DISEASE 4691 4718	atheromatous irregularities
+T51	DISEASE 6060 6074	valvulopathies
+T20	DISEASE 6909 6915	angina
+T46	DISEASE 6928 7014	Heterozygous familial hypercholesterolemia with positive genetic study (M334 mutation)
+T38	DISEASE 7088 7131	chronic multivessel ischaemic heart disease

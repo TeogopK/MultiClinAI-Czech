@@ -1,0 +1,49 @@
+T3	PROCEDURE 273 327	surgically revascularised in 1992 (AMII-DA and AMID-OM
+T87	PROCEDURE 515 535	coronary angiography
+T89	PROCEDURE 602 616	echocardiogram
+T5	PROCEDURE 649 692	implantation of drug-eluting stents on LMCA
+T92	PROCEDURE 941 951	Spirometry
+T93	PROCEDURE 1024 1043	bronchodilator test
+T94	PROCEDURE 1248 1263	cholecystectomy
+T95	PROCEDURE 1983 1994	chest X-ray
+T6	PROCEDURE 2100 2111	antibiotics
+T99	PROCEDURE 2113 2127	oxygen therapy
+T7	PROCEDURE 2129 2144	corticosteroids
+T8	PROCEDURE 2149 2158	diuretics
+T125	PROCEDURE 2251 2282	autoimmune and infectious study
+T100	PROCEDURE 2326 2337	thoracic CT
+T101	PROCEDURE 2426 2438	Bronchoscopy
+T9	PROCEDURE 2517 2532	bronchoaspirate
+T96	PROCEDURE 2906 2917	chest X-ray
+T119	PROCEDURE 3092 3112	PHYSICAL EXAMINATION
+T103	PROCEDURE 3265 3285	Cardiac auscultation
+T104	PROCEDURE 3369 3391	Pulmonary auscultation
+T105	PROCEDURE 3557 3560	ECG
+T106	PROCEDURE 3624 3633	haemogram
+T118	PROCEDURE 3731 3743	Biochemistry
+T97	PROCEDURE 3882 3893	Chest X-ray
+T98	PROCEDURE 4058 4069	chest X-ray
+T88	PROCEDURE 4196 4216	Coronary angiography
+T107	PROCEDURE 4299 4335	percutaneous prosthesis implantation
+T90	PROCEDURE 4418 4432	Echocardiogram
+T108	PROCEDURE 5017 5047	Transesophageal echocardiogram
+T91	PROCEDURE 5017 5088	Transesophageal echocardiogram monitoring transapical TAVI implantation
+T15	PROCEDURE 5099 5102	TEE
+T18	PROCEDURE 5466 5531	implantation of a 23 mm SAPIEN 3 prosthesis via transapical route
+T19	PROCEDURE 5533 5554	Post-implantation TEE
+T109	PROCEDURE 6054 6072	diuretic treatment
+T102	PROCEDURE 6162 6174	bronchoscopy
+T20	PROCEDURE 6638 6662	replace the aortic valve
+T111	PROCEDURE 6693 6735	percutaneous replacement by femoral access
+T114	PROCEDURE 6786 6797	angiography
+T21	PROCEDURE 6949 7042	23 mm Edwards SAPIEN 3 biological prosthesis was implanted under echocardiographic monitoring
+T115	PROCEDURE 7014 7042	echocardiographic monitoring
+T116	PROCEDURE 7113 7122	extubated
+T22	PROCEDURE 7241 7289	transfusion of three red blood cell concentrates
+T122	PROCEDURE 7361 7376	cardiac surgery
+T123	PROCEDURE 7406 7421	cardiac surgery
+T117	PROCEDURE 7734 7749	echocardiograms
+T120	PROCEDURE 8002 8086	Transapical aortic valve replacement with biological prosthesis Edward Sapien 3 No23
+T25	PROCEDURE 8268 8339	revascularised surgically (IAMI-AD, IAMI-OM in 1997) and percutaneously
+T35	PROCEDURE 8341 8370	stent implantation in LMCA-AD
+T121	PROCEDURE 8416 8430	anticoagulated

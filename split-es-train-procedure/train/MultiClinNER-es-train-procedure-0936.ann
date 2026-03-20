@@ -1,0 +1,24 @@
+T60	PROCEDURE 727 745	Exploración física
+T61	PROCEDURE 1017 1040	Exploración neurológica
+T62	PROCEDURE 1422 1442	Radiografía de tórax
+T63	PROCEDURE 1514 1532	Electrocardiograma
+T64	PROCEDURE 1630 1639	Hemograma
+T65	PROCEDURE 1910 1927	Gasometría venosa
+T66	PROCEDURE 1995 2013	Sedimento de orina
+T67	PROCEDURE 2280 2295	ecocardiografía
+T68	PROCEDURE 2715 2733	angio-TAC de tórax
+T69	PROCEDURE 3049 3064	anticoagulación
+T70	PROCEDURE 3118 3140	estudio Doppler venoso
+T71	PROCEDURE 3309 3332	ecocardiografía-Doppler
+T72	PROCEDURE 3486 3510	estudio de autoinmunidad
+T73	PROCEDURE 3573 3601	estudios de hierro, tiroides
+T74	PROCEDURE 3641 3654	proteinograma
+T75	PROCEDURE 3757 3785	estudio de orina de 24 horas
+T76	PROCEDURE 3855 3870	anticoagulación
+T77	PROCEDURE 3965 4005	implante de filtro en vena cava inferior
+T78	PROCEDURE 4224 4246	estudio de trombofilia
+T81	PROCEDURE 894 923	aporte de O2 en gafas nasales
+T82	PROCEDURE 1724 1735	Coagulación
+T83	PROCEDURE 3603 3623	marcadores tumorales
+T87	PROCEDURE 1779 1789	Bioquímica
+T94	PROCEDURE 2159 2176	estudio analítico

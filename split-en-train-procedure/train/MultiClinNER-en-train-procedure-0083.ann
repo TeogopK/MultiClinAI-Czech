@@ -1,0 +1,27 @@
+T6	PROCEDURE 179 206	evacuation of the haematoma
+T7	PROCEDURE 211 243	resection of the vascular lesion
+T22	PROCEDURE 537 548	Examination
+T1	PROCEDURE 659 674	cranial CT scan
+T2	PROCEDURE 820 829	Brain MRI
+T19	PROCEDURE 1194 1206	radiological
+T18	PROCEDURE 1280 1305	intraoperative monitoring
+T12	PROCEDURE 1320 1368	stimulation of the surface of the rhomboid fossa
+T8	PROCEDURE 1452 1486	Intraoperative auditory potentials
+T28	PROCEDURE 1511 1638	stimulate the nuclei located in the rhomboid fossa, we used the NIM-Response® System (Medtronic, XOMED) nerve monitoring system
+T10	PROCEDURE 1835 1860	Electromyographic reading
+T11	PROCEDURE 1975 2079	Electrodes to monitor the facial nerve were placed on the orbicularis oculi muscles of the mouth and eye
+T16	PROCEDURE 2081 2166	To record the cranial nerve XII the electrodes were placed on the genioglossus muscle
+T20	PROCEDURE 2172 2235	recording of the Xth pair was performed with vocal cord sensors
+T14	PROCEDURE 2251 2262	anaesthesia
+T15	PROCEDURE 2285 2309	placed in prone position
+T3	PROCEDURE 2316 2340	suboccipital craniectomy
+T4	PROCEDURE 2345 2381	excision of the posterior arch of C1
+T5	PROCEDURE 2403 2430	dural and arachnoid opening
+T21	PROCEDURE 2619 2686	intraoperative stimulation with positive electromyographic response
+T9	PROCEDURE 2989 3002	pial incision
+T33	PROCEDURE 3017 3052	haematoma was located and evacuated
+T23	PROCEDURE 3043 3078	evacuated, as well as the cavernoma
+T17	PROCEDURE 3120 3129	resection
+T35	PROCEDURE 3135 3159	monitoring of the nuclei
+T24	PROCEDURE 3193 3210	electromyographic
+T13	PROCEDURE 3341 3360	auditory potentials

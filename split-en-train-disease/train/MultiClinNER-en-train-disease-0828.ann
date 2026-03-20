@@ -1,0 +1,29 @@
+T24	DISEASE 68 91	allergic drug reactions
+T25	DISEASE 100 107	smoking
+T27	DISEASE 130 144	Morbid obesity
+T28	DISEASE 146 167	Arterial hypertension
+T29	DISEASE 169 204	Insulin-dependent diabetes mellitus
+T30	DISEASE 206 219	Dyslipidaemia
+T31	DISEASE 221 235	Hyperuricaemia
+T32	DISEASE 237 251	Hypothyroidism
+T33	DISEASE 262 284	chronic kidney disease
+T35	DISEASE 334 361	Peripheral arterial disease
+T36	DISEASE 409 432	Ischaemic heart disease
+T37	DISEASE 447 462	unstable angina
+T1	DISEASE 497 597	severe damage to three vessels (anterior descending [DA], right coronary [CD], first obtuse marginal
+T40	DISEASE 1323 1329	angina
+T42	DISEASE 2632 2651	atrial fibrillation
+T6	DISEASE 2988 3033	Dominant circumflex (Cx) chronically occluded
+T7	DISEASE 3117 3159	Poorly developed DC with chronic occlusion
+T9	DISEASE 3448 3503	chronic stenosis of the proximal left subclavian artery
+T44	DISEASE 3793 3826	Mild left ventricular hypertrophy
+T50	DISEASE 3873 3895	Biauricular dilatation
+T10	DISEASE 3912 3926	valvulopathies
+T45	DISEASE 3962 4012	significant stenosis of the left subclavian artery
+T26	DISEASE 4726 4733	smoking
+T46	DISEASE 5393 5450	Unstable angina due to subclavian-coronary steal syndrome
+T47	DISEASE 5470 5513	severe three-vessel coronary artery disease
+T48	DISEASE 5658 5688	Paroxysmal atrial fibrillation
+T49	DISEASE 5706 5725	Acute renal failure
+T34	DISEASE 5738 5760	chronic kidney disease
+T51	DISEASE 5782 5815	iodinated contrast nephrotoxicity

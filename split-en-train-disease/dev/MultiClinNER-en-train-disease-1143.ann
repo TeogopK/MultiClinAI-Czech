@@ -1,0 +1,33 @@
+T18	DISEASE 60 84	ventricular fibrillation
+T22	DISEASE 89 113	cardiorespiratory arrest
+T25	DISEASE 216 228	hypertension
+T27	DISEASE 230 247	diabetes mellitus
+T28	DISEASE 251 264	dyslipidaemia
+T29	DISEASE 266 324	Mental and behavioural disorder due to alcohol consumption
+T30	DISEASE 375 383	rhinitis
+T48	DISEASE 388 404	bronchial asthma
+T31	DISEASE 420 425	atopy
+T32	DISEASE 457 469	drug allergy
+T23	DISEASE 1392 1416	cardiorespiratory arrest
+T19	DISEASE 1501 1525	ventricular fibrillation
+T20	DISEASE 1845 1869	ventricular fibrillation
+T34	DISEASE 2401 2435	complete right bundle branch block
+T41	DISEASE 2410 2435	right bundle branch block
+T35	DISEASE 2649 2666	pleural pathology
+T43	DISEASE 2735 2750	cerebral oedema
+T36	DISEASE 2805 2832	severe systolic dysfunction
+T39	DISEASE 2939 2962	tricuspid insufficiency
+T40	DISEASE 2983 3005	pulmonary hypertension
+T26	DISEASE 2993 3005	hypertension
+T37	DISEASE 3032 3059	Severe systolic dysfunction
+T42	DISEASE 3701 3726	right bundle branch block
+T44	DISEASE 3823 3838	cerebral oedema
+T38	DISEASE 3868 3895	severe systolic dysfunction
+T45	DISEASE 4280 4298	anaphylactic shock
+T46	DISEASE 4347 4362	Kounis syndrome
+T24	DISEASE 4412 4436	cardiorespiratory arrest
+T21	DISEASE 4440 4464	ventricular fibrillation
+T33	DISEASE 4548 4560	drug allergy
+T49	DISEASE 4565 4581	bronchial asthma
+T50	DISEASE 4583 4613	Severe LV systolic dysfunction
+T47	DISEASE 4735 4750	Kounis syndrome

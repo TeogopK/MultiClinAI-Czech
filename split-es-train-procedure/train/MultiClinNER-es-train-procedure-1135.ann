@@ -1,0 +1,40 @@
+T45	PROCEDURE 488 505	maniobras vagales
+T46	PROCEDURE 548 566	exploración física
+T47	PROCEDURE 694 724	tratamiento con betabloqueante
+T48	PROCEDURE 768 786	Holter de 24 horas
+T49	PROCEDURE 789 817	ecocardiograma transtorácico
+T50	PROCEDURE 819 822	ETT
+T51	PROCEDURE 1019 1036	maniobras vagales
+T52	PROCEDURE 1217 1220	ETT
+T53	PROCEDURE 1340 1361	test de suero agitado
+T54	PROCEDURE 1480 1498	Holter de 24 horas
+T55	PROCEDURE 1695 1712	electrofisiología
+T56	PROCEDURE 1793 1827	resonancia magnética (RM) cardiaca
+T57	PROCEDURE 1923 1940	electrofisiología
+T58	PROCEDURE 1962 1988	estudio electrofisiológico
+T59	PROCEDURE 1991 2009	ablación ante TPSV
+T60	PROCEDURE 2108 2125	maniobras vagales
+T61	PROCEDURE 2152 2170	Electrocardiograma
+T62	PROCEDURE 2172 2175	ECG
+T63	PROCEDURE 2368 2371	ECG
+T64	PROCEDURE 2648 2709	Holter de 24 horas: registro electrocardiográfico de 24 horas
+T66	PROCEDURE 2858 2861	ETT
+T67	PROCEDURE 3226 3247	ETT con suero agitado
+T68	PROCEDURE 3382 3402	maniobra de Valsalva
+T69	PROCEDURE 3465 3475	RM corazón
+T70	PROCEDURE 4366 4468	Cuantificación de flujo en arteria pulmonar principal (codificación de velocidad en contraste de fase)
+T71	PROCEDURE 4636 4662	estudio electrofisiológico
+T72	PROCEDURE 4803 4831	ablación con radiofrecuencia
+T73	PROCEDURE 4903 4914	RM cardiaca
+T74	PROCEDURE 5491 5512	reparación quirúrgica
+T75	PROCEDURE 6126 6145	cateterismo derecho
+T76	PROCEDURE 6164 6184	estudio hemodinámico
+T77	PROCEDURE 6204 6220	cirugía cardiaca
+T78	PROCEDURE 6511 6539	Ablación con radiofrecuencia
+T83	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 1815 1817	RM
+T89	PROCEDURE 2457 2466	Analítica
+T34	PROCEDURE 1732 1740	ablación
+T82	PROCEDURE 3265 3298	inyección de suero salino agitado
+T96	PROCEDURE 4193 4281	Cuantificación de flujo en raíz aórtica (codificación de velocidad en contraste de fase)
+T98	PROCEDURE 5251 5259	ablación

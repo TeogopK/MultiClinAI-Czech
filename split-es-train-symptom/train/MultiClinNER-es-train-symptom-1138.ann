@@ -1,0 +1,80 @@
+T1	SYMPTOM 439 458	disnea de esfuerzos
+T2	SYMPTOM 569 577	ortopnea
+T3	SYMPTOM 593 620	disnea paroxística nocturna
+T4	SYMPTOM 622 625	DPN
+T5	SYMPTOM 638 671	molestias torácicas tipo pinchazo
+T6	SYMPTOM 674 701	palpitaciones autolimitadas
+T7	SYMPTOM 707 714	cortejo
+T8	SYMPTOM 748 755	síncope
+T9	SYMPTOM 757 770	palpitaciones
+T10	SYMPTOM 982 1015	Impresiona de buen estado general
+T11	SYMPTOM 1017 1027	Consciente
+T12	SYMPTOM 1029 1038	orientada
+T14	SYMPTOM 1063 1077	Normohidratada
+T15	SYMPTOM 1079 1094	normoperfundida
+T16	SYMPTOM 1096 1110	normocoloreada
+T17	SYMPTOM 1115 1148	aumento de presión venosa central
+T19	SYMPTOM 1237 1258	crepitantes bibasales
+T20	SYMPTOM 1270 1290	ruidos sobreañadidos
+T21	SYMPTOM 1295 1315	trabajo respiratorio
+T22	SYMPTOM 1329 1352	dificultad respiratoria
+T23	SYMPTOM 1377 1384	rítmico
+T24	SYMPTOM 1386 1402	soplo diastólico
+T27	SYMPTOM 1503 1508	masas
+T28	SYMPTOM 1512 1520	megalias
+T31	SYMPTOM 1522 1558	Murphy, Blumberg y Rovsing negativos
+T32	SYMPTOM 1573 1594	irritación peritoneal
+T33	SYMPTOM 1596 1657	Miembros superiores: pulsos distales conservados y simétricos
+T34	SYMPTOM 1659 1707	Miembros inferiores: frialdad distal, sin edemas
+T36	SYMPTOM 1755 1793	Pulsos pedios conservados y simétricos
+T39	SYMPTOM 2147 2160	ritmo sinusal
+T40	SYMPTOM 2171 2180	PR normal
+T41	SYMPTOM 2182 2192	eje normal
+T44	SYMPTOM 2721 2743	perfil tiroideo normal
+T45	SYMPTOM 2896 2915	Hipoquinesia global
+T46	SYMPTOM 2995 3016	Llenado mitral normal
+T49	SYMPTOM 3719 3768	Válvula mitral con abombamiento del velo anterior
+T50	SYMPTOM 3824 3886	Ventrículo derecho no dilatado con fracción de eyección normal
+T51	SYMPTOM 3888 3910	Aurículas no dilatadas
+T52	SYMPTOM 4041 4063	asimetría de los velos
+T54	SYMPTOM 4778 4824	Estudio abdominal sin hallazgos significativos
+T57	SYMPTOM 5276 5298	cristalino trasparente
+T58	SYMPTOM 5451 5476	Hipoquinesia grave global
+T59	SYMPTOM 5478 5516	Función sistólica gravemente deprimida
+T60	SYMPTOM 5596 5626	Ventrículo derecho no dilatado
+T64	SYMPTOM 6003 6065	Aorta torácica descendente y abdominal morfológicamente normal
+T66	SYMPTOM 6096 6137	Válvula mitral con velo anterior elongado
+T68	SYMPTOM 6202 6238	Válvula tricúspide de aspecto normal
+T69	SYMPTOM 6614 6655	Función sistólica moderadamente deprimida
+T70	SYMPTOM 6709 6736	Hipoquinesia inferior basal
+T71	SYMPTOM 6738 6765	Alteración de la relajación
+T72	SYMPTOM 6767 6828	Ventrículo derecho (VD) no dilatado, función sistólica normal
+T75	SYMPTOM 7076 7113	Válvula mitral velo anterior elongado
+T76	SYMPTOM 7259 7296	Tiempo de aceleración pulmonar normal
+T77	SYMPTOM 7594 7619	hemodinámicamente estable
+T78	SYMPTOM 8208 8234	miembros superiores largos
+T79	SYMPTOM 8236 8253	laxitud articular
+T190	SYMPTOM 1433 1488	Abdomen: blando, depresible. No doloroso a la palpación
+T13	SYMPTOM 2290 2319	ondas T negativas asimétricas
+T18	SYMPTOM 3616 3677	Aorta ascendente distal, arco y descendente de calibre normal
+T30	SYMPTOM 4961 5039	Cayado aórtico, aorta torácica descendente y aorta abdominal de calibre normal
+T37	SYMPTOM 5243 5274	Biomicroscopia AO cornea normal
+T38	SYMPTOM 5550 5594	Patrón de llenado mitral de tipo restrictivo
+T42	SYMPTOM 6679 6707	Movimiento anómalo del septo
+T43	SYMPTOM 6869 6897	aurícula derecha no dilatada
+T47	SYMPTOM 7334 7364	Vena cava inferior no dilatada
+T48	SYMPTOM 7942 8020	cayado aórtico, aorta torácica descendente y aorta abdominal de calibre normal
+T53	SYMPTOM 9967 10027	SMF: portadora de mutación patogénica en FBN1 (p.tyr1219cys)
+T205	SYMPTOM 3966 3990	Válvula aórtica trivalva
+T208	SYMPTOM 9688 9739	asintomática desde el punto de vista cardiovascular
+T209	SYMPTOM 2531 2566	aumento de reactantes de fase aguda
+T212	SYMPTOM 1040 1052	colaboradora
+T227	SYMPTOM 7670 7694	válvula aórtica trivalva
+T61	SYMPTOM 1179 1222	buena entrada de aire bilateral y simétrica
+T35	SYMPTOM 2604 2635	hemograma y bioquímica normales
+T62	SYMPTOM 3018 3062	Válvula aórtica trivalva con normal apertura
+T29	SYMPTOM 5126 5157	compromiso radicular lumbosacro
+T65	SYMPTOM 8061 8091	autoinmunidad que fue negativa
+T67	SYMPTOM 8196 8206	talla alta
+T73	SYMPTOM 8387 8424	radiografía acetabular sin protrusión
+T74	SYMPTOM 8658 8732	mutación patogénica en el gen fibrilina 1 -FBN1- c.3656A>G [p.Tyr1219Cys])

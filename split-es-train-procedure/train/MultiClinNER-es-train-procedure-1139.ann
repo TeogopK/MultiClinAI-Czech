@@ -1,0 +1,52 @@
+T106	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T107	PROCEDURE 306 336	tratamiento quimioprofiláctico
+T108	PROCEDURE 738 754	antihistamínicos
+T109	PROCEDURE 829 855	tratamiento betabloqueante
+T110	PROCEDURE 1001 1029	ecocardiograma transtorácico
+T111	PROCEDURE 1268 1286	Exploración física
+T112	PROCEDURE 1648 1669	Auscultación cardiaca
+T113	PROCEDURE 1751 1772	Auscultación pulmonar
+T114	PROCEDURE 2934 2968	Resonancia magnética (RM) hepática
+T115	PROCEDURE 3234 3262	Ecocardiograma transtorácico
+T116	PROCEDURE 3609 3635	serología para hidatidosis
+T117	PROCEDURE 3679 3706	tratamiento antiparasitario
+T118	PROCEDURE 3855 3869	oxigenoterapia
+T119	PROCEDURE 4137 4161	reactantes de fase aguda
+T120	PROCEDURE 4312 4370	serología positiva de hidatidosis mediante prueba de ELISA
+T121	PROCEDURE 4388 4416	ecocardiograma transtorácico
+T125	PROCEDURE 5061 5081	extracción de quiste
+T126	PROCEDURE 5084 5096	hepatectomía
+T127	PROCEDURE 5125 5172	endarterectomía pulmonar de quistes hidatídicos
+T128	PROCEDURE 5373 5383	esteroides
+T129	PROCEDURE 5396 5409	fluidoterapia
+T130	PROCEDURE 5604 5627	se canaliza vía central
+T131	PROCEDURE 5704 5736	ventilación mecánica no invasiva
+T132	PROCEDURE 5872 5900	ecocardiograma transtorácico
+T133	PROCEDURE 5960 5978	electrocardiograma
+T134	PROCEDURE 6337 6367	implante de ECMO veno-arterial
+T135	PROCEDURE 7275 7289	ecocardiograma
+T136	PROCEDURE 7412 7432	soporte ventilatorio
+T137	PROCEDURE 7658 7677	gafas de alto flujo
+T138	PROCEDURE 7752 7772	radiografía de tórax
+T139	PROCEDURE 8007 8025	drogas vasoactivas
+T140	PROCEDURE 8198 8212	ecocardiograma
+T141	PROCEDURE 8388 8410	intubación orotraqueal
+T142	PROCEDURE 8524 8536	RCP avanzada
+T143	PROCEDURE 8618 8646	ecocardiograma transtorácico
+T144	PROCEDURE 8715 8723	autopsia
+T155	PROCEDURE 8064 8087	corticoterapia en bolos
+T156	PROCEDURE 2313 2321	Angio-TC
+T157	PROCEDURE 6046 6075	marcadores de daño miocárdico
+T159	PROCEDURE 2956 2958	RM
+T161	PROCEDURE 1956 1989	palpación superficial ni profunda
+T175	PROCEDURE 2167 2176	Analítica
+T177	PROCEDURE 1560 1575	Cabeza y cuello
+T195	PROCEDURE 5195 5207	intervención
+T196	PROCEDURE 6546 6569	intervención quirúrgica
+T199	PROCEDURE 5835 5853	medidas de soporte
+T213	PROCEDURE 1716 1728	se auscultan
+T214	PROCEDURE 1615 1624	se palpan
+T49	PROCEDURE 2028 2051	Extremidades inferiores
+T73	PROCEDURE 5640 5682	perfusión de adrenalina y de noradrenalina
+T122	PROCEDURE 6398 6422	implante del dispositivo
+T123	PROCEDURE 6672 6723	manipulación de vías y cánulas en territorio venoso

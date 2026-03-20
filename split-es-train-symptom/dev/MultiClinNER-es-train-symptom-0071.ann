@@ -1,0 +1,18 @@
+T1	SYMPTOM 943 986	fibras nerviosas mielinizadas en ambos ojos
+T2	SYMPTOM 698 718	clínicamente estable
+T3	SYMPTOM 992 1013	papilas eran normales
+T4	SYMPTOM 343 368	sangrado intraventricular
+T5	SYMPTOM 1146 1156	anisocoria
+T6	SYMPTOM 1161 1178	midriasis del ojo
+T7	SYMPTOM 1773 1796	petequias subcorticales
+T8	SYMPTOM 382 429	hemorragia subaracnoidea frontoparietal derecha
+T9	SYMPTOM 454 473	higromas subdurales
+T10	SYMPTOM 1376 1386	tortícolis
+T11	SYMPTOM 1397 1430	diplopía en todas las posiciones,
+T12	SYMPTOM 2282 2290	síntomas
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	IMAGEN T4
+A4	IMAGEN T7
+A5	IMAGEN T8
+A6	IMAGEN T9

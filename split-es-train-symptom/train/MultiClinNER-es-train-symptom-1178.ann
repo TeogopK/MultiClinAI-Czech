@@ -1,0 +1,68 @@
+T1	SYMPTOM 959 965	fiebre
+T2	SYMPTOM 1041 1059	disnea de esfuerzo
+T3	SYMPTOM 1070 1078	ortopnea
+T4	SYMPTOM 1080 1116	edematización de miembros inferiores
+T5	SYMPTOM 1119 1122	tos
+T6	SYMPTOM 1127 1152	expectoración blanquecina
+T7	SYMPTOM 1350 1374	sintomatología miccional
+T8	SYMPTOM 1379 1413	alteraciones del hábito intestinal
+T9	SYMPTOM 1489 1517	fiebre de origen desconocido
+T10	SYMPTOM 1600 1686	patrón intersticial micronodular con nódulos bien definidos, de distribución bilateral
+T11	SYMPTOM 1741 1789	hemocultivos, urocultivos y serologías negativas
+T12	SYMPTOM 1915 2029	Baciloscopia, PCR para tuberculosis en lavado broncoalveolar y broncoaspirado y cultivo de micobacterias negativas
+T13	SYMPTOM 2031 2095	Galactomanano para aspergillus en lavado broncoalveolar negativo
+T14	SYMPTOM 2097 2138	PCR de Leishmania en médula ósea negativo
+T15	SYMPTOM 2341 2360	Buen estado general
+T16	SYMPTOM 2362 2380	Eupneico en reposo
+T17	SYMPTOM 2516 2537	ingurgitación yugular
+T18	SYMPTOM 2577 2591	tonos rítmicos
+T19	SYMPTOM 2596 2602	soplos
+T20	SYMPTOM 2613 2656	Murmullo vesicular sin ruidos sobreañadidos
+T21	SYMPTOM 2658 2722	Abdomen: Blando, depresible, no doloroso a la palpación profunda
+T24	SYMPTOM 2765 2792	Murphy y Blumberg negativos
+T26	SYMPTOM 2945 3006	Miembro inferior derecho con edema en tercio distal con fóvea
+T27	SYMPTOM 3673 3689	Sedimento normal
+T28	SYMPTOM 3776 3789	ritmo sinusal
+T29	SYMPTOM 3801 3810	PR normal
+T30	SYMPTOM 3812 3824	QRS estrecho
+T33	SYMPTOM 3891 3924	alteraciones de la repolarización
+T35	SYMPTOM 4045 4100	Hemocultivos, urocultivo y cultivo de esputo: negativos
+T36	SYMPTOM 4102 4119	Mantoux: negativo
+T39	SYMPTOM 4291 4326	función sistólica global conservada
+T41	SYMPTOM 5141 5169	índice cardiotorácico normal
+T43	SYMPTOM 5568 5625	citología de líquido pericárdico negativa para malignidad
+T44	SYMPTOM 5864 5906	Cultivo y antibiograma de esputo: negativo
+T45	SYMPTOM 5908 5949	Cultivo y antibiograma de orina: negativo
+T46	SYMPTOM 5998 6053	Cultivo y antibiograma en liquido pericárdico: negativo
+T48	SYMPTOM 6221 6256	se detectan mutaciones en gen RPO-B
+T49	SYMPTOM 6296 6382	Cultivo de micobacterias en liquido pericárdico: positivo a Mycobacterium tuberculosis
+T50	SYMPTOM 7043 7057	picos febriles
+T51	SYMPTOM 7074 7080	disnea
+T52	SYMPTOM 7130 7200	hemocultivos, urocultivo, cultivo de esputo y Mantoux fueron negativos
+T53	SYMPTOM 7266 7298	función biventricular conservada
+T54	SYMPTOM 7362 7385	compromiso hemodinámico
+T55	SYMPTOM 7446 7484	fiebre de origen de origen desconocido
+T56	SYMPTOM 8224 8293	análisis microbiológico, el cultivo de los primeros días fue negativo
+T57	SYMPTOM 8594 8601	afebril
+T58	SYMPTOM 9009 9068	cultivo de líquido pericárdico fue positivo a micobacterium
+T59	SYMPTOM 9338 9345	afebril
+T23	SYMPTOM 4148 4183	Aurícula izquierda de tamaño normal
+T25	SYMPTOM 4480 4499	Raíz aórtica normal
+T32	SYMPTOM 4658 4681	Aurícula derecha normal
+T34	SYMPTOM 4729 4759	Vena cava inferior no dilatada
+T37	SYMPTOM 4795 4828	Venas suprahepáticas no dilatadas
+T38	SYMPTOM 5951 5996	Baciloscopia en liquido pericárdico: negativo
+T40	SYMPTOM 6113 6150	PCR del complejo tuberculoso positivo
+T47	SYMPTOM 8304 8342	PCR positiva para complejo tuberculoso
+T82	SYMPTOM 8347 8386	presencia de mutaciones en el gen RPO-B
+T115	SYMPTOM 3864 3885	alternancia eléctrica
+T184	SYMPTOM 5208 5244	Aumento de trama vascular perihiliar
+T186	SYMPTOM 4501 4528	Cavidades derechas normales
+T203	SYMPTOM 5250 5262	condensación
+T204	SYMPTOM 3829 3839	eje normal
+T226	SYMPTOM 3937 3984	patrón pulmonar micronodular bilateral y difuso
+T117	SYMPTOM 5266 5298	ocupación de senos costofrénicos
+T165	SYMPTOM 1792 1913	ausencia de detección por PCR de citomegalovirus, Pneumocystis jirovecii (en lavado broncoalveolar) y virus respiratorios
+T172	SYMPTOM 3577 3671	orina: glucosa, proteínas, bilirrubina hemoglobina, esterasa leucocitaria y nitritos negativos
+T176	SYMPTOM 4225 4262	Ventrículo izquierdo de tamaño normal
+T68	SYMPTOM 8032 8078	líquido pericárdico fue compatible con exudado

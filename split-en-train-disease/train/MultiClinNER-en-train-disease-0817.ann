@@ -1,0 +1,27 @@
+T17	DISEASE 127 139	hypertension
+T18	DISEASE 141 148	smoking
+T19	DISEASE 153 166	dyslipidaemia
+T20	DISEASE 179 200	chronic stable angina
+T21	DISEASE 924 941	sinus tachycardia
+T41	DISEASE 1248 1265	Myocardial damage
+T44	DISEASE 1599 1627	mild LV systolic dysfunction
+T1	DISEASE 1658 1704	pseudoaneurysm in the lateral aspect of the LV
+T2	DISEASE 1721 1743	valvular heart disease
+T23	DISEASE 1832 1858	ventricular pseudoaneurysm
+T27	DISEASE 1860 1886	bilateral pleural effusion
+T24	DISEASE 1966 1992	ventricular pseudoaneurysm
+T32	DISEASE 1978 1992	pseudoaneurysm
+T42	DISEASE 2072 2092	subepicardial lesion
+T29	DISEASE 2579 2649	ventricular pseudoaneurysm in the lateral aspect of the left ventricle
+T34	DISEASE 2802 2816	pseudoaneurysm
+T43	DISEASE 3028 3035	thrombi
+T3	DISEASE 3098 3114	haemopericardium
+T28	DISEASE 3119 3145	bilateral pleural effusion
+T40	DISEASE 3227 3235	aneurysm
+T36	DISEASE 3395 3412	hypovolemic shock
+T37	DISEASE 3428 3453	right ventricular failure
+T4	DISEASE 3623 3650	slight pericardial effusion
+T38	DISEASE 3663 3712	Acute coronary syndrome with ST-segment elevation
+T5	DISEASE 3714 3719	STEMI
+T39	DISEASE 3774 3800	acute thrombotic occlusion
+T26	DISEASE 3802 3828	Ventricular pseudoaneurysm

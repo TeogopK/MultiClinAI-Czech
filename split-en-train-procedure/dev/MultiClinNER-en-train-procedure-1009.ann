@@ -1,0 +1,23 @@
+T91	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T93	PROCEDURE 350 366	echocardiography
+T95	PROCEDURE 861 877	endoscopic study
+T92	PROCEDURE 1659 1679	Physical examination
+T1	PROCEDURE 1680 1691	Vital signs
+T96	PROCEDURE 1783 1803	Cardiac auscultation
+T97	PROCEDURE 1840 1862	Pulmonary auscultation
+T98	PROCEDURE 2022 2025	ECG
+T2	PROCEDURE 2150 2153	CBC
+T99	PROCEDURE 2362 2376	AP chest X-ray
+T100	PROCEDURE 2524 2554	Transthoracic echocardiography
+T3	PROCEDURE 3581 3631	Provocation of ischaemia with negative regadenoson
+T4	PROCEDURE 4018 4031	Imaging tests
+T101	PROCEDURE 4192 4222	Intravenous diuretic treatment
+T5	PROCEDURE 4493 4514	intravenous diuretics
+T103	PROCEDURE 4570 4583	oral diuretic
+T6	PROCEDURE 4709 4720	Blood tests
+T104	PROCEDURE 4854 4873	depletive treatment
+T7	PROCEDURE 5157 5173	Laboratory tests
+T8	PROCEDURE 5664 5677	thoracentesis
+T9	PROCEDURE 5694 5735	placement of a permanent pleural drainage
+T10	PROCEDURE 5881 5897	Laboratory tests
+T106	PROCEDURE 6117 6133	pleural drainage

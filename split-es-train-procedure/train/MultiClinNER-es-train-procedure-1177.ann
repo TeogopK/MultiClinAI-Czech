@@ -1,0 +1,47 @@
+T76	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T77	PROCEDURE 588 602	ecocardiograma
+T78	PROCEDURE 606 625	resonancia cardiaca
+T79	PROCEDURE 782 794	TC coronario
+T80	PROCEDURE 873 900	coronariografía no invasiva
+T81	PROCEDURE 962 987	tratamiento antiarrítmico
+T82	PROCEDURE 989 1004	betabloqueantes
+T83	PROCEDURE 1006 1024	calcioantagonistas
+T84	PROCEDURE 1666 1694	ecocardiograma transtorácico
+T85	PROCEDURE 1696 1706	ergometría
+T86	PROCEDURE 1709 1719	Holter-ECG
+T87	PROCEDURE 1722 1740	Exploración física
+T88	PROCEDURE 1912 1933	Auscultación cardiaca
+T89	PROCEDURE 1974 1995	Auscultación pulmonar
+T90	PROCEDURE 2153 2171	Electrocardiograma
+T91	PROCEDURE 2173 2176	ECG
+T92	PROCEDURE 2384 2394	Holter ECG
+T93	PROCEDURE 2936 2996	Ergometría convencional: protocolo de Bruce en tapiz rodante
+T94	PROCEDURE 3643 3671	Ecocardiograma transtorácico
+T95	PROCEDURE 4169 4188	Analítica sanguínea
+T96	PROCEDURE 4231 4257	Estudio electrofisiológico
+T97	PROCEDURE 4289 4319	punción venosa femoral derecha
+T98	PROCEDURE 4321 4406	Introducción de catéter diagnóstico decapolar en seno coronario y tetrapolar a His-VD
+T99	PROCEDURE 4419 4531	protocolo de estimulación desde base de VD a dos frecuencias y dos extras, basal y bajo perfusión de isoproterol
+T100	PROCEDURE 4605 4637	Punción arterial femoral derecha
+T101	PROCEDURE 4640 4669	introducción de catéter Orion
+T102	PROCEDURE 4706 4736	mapeo de TSVI y senos aórticos
+T103	PROCEDURE 4754 4757	ECG
+T104	PROCEDURE 4878 4891	mapeo de TSVD
+T105	PROCEDURE 5018 5030	electrograma
+T106	PROCEDURE 5077 5120	pacemapping desde teórico punto de ablación
+T107	PROCEDURE 5387 5463	ablación por radiofrecuencia (40 W, 48o C) con catéter irrigado punta de oro
+T108	PROCEDURE 6088 6102	ecocardiograma
+T109	PROCEDURE 6202 6228	estudio electrofisiológico
+T110	PROCEDURE 6487 6513	estudio electrofisiológico
+T111	PROCEDURE 6743 6772	aplicación de radiofrecuencia
+T112	PROCEDURE 7067 7077	Holter-ECG
+T113	PROCEDURE 7345 7371	Estudio electrofisiológico
+T114	PROCEDURE 7376 7416	ablación con éxito de foco extrasistolia
+T119	PROCEDURE 7206 7231	tratamiento antiarrítmico
+T120	PROCEDURE 5922 5932	Holter-ECG
+T122	PROCEDURE 5263 5275	TC coronario
+T137	PROCEDURE 1862 1877	Cabeza y cuello
+T134	PROCEDURE 5571 5579	ablación
+T136	PROCEDURE 5600 5625	protocolo de estimulación
+T139	PROCEDURE 5230 5275	integración electroanatómica con TC coronario
+T142	PROCEDURE 6439 6447	ablación

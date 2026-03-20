@@ -1,0 +1,11 @@
+T26	PROCEDURE 432 450	Exploración física
+T27	PROCEDURE 809 829	Radiografía de tórax
+T28	PROCEDURE 841 859	Electrocardiograma
+T29	PROCEDURE 964 967	ECG
+T30	PROCEDURE 1007 1021	Ecocardiograma
+T31	PROCEDURE 1537 1565	tratamiento antiinflamatorio
+T32	PROCEDURE 1570 1584	ecocardiograma
+T34	PROCEDURE 700 711	coagulación
+T35	PROCEDURE 537 540	Acp
+T36	PROCEDURE 604 613	Analítica
+#1	AnnotatorNotes T35	 auscultación cardiopulmonar

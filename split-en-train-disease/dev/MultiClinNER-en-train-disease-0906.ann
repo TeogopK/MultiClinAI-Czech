@@ -1,0 +1,36 @@
+T19	DISEASE 47 68	arterial hypertension
+T1	DISEASE 70 72	HT
+T2	DISEASE 100 170	type 2 diabetes mellitus (DM) with macro and microvascular involvement
+T3	DISEASE 172 185	dyslipidaemia
+T39	DISEASE 187 200	active smoker
+T40	DISEASE 223 254	Stage II chronic kidney disease
+T43	DISEASE 428 492	Chronic ischaemic heart disease with severe three-vessel disease
+T45	DISEASE 593 621	mild LV systolic dysfunction
+T22	DISEASE 623 653	Paroxysmal atrial fibrillation
+T21	DISEASE 655 657	AF
+T23	DISEASE 694 749	Ischaemic stroke in the right posterior cerebral artery
+T18	DISEASE 803 843	Moderate sleep apnoea-hypopnoea syndrome
+T41	DISEASE 845 849	SAHS
+T17	DISEASE 852 903	Chronic grade IIA ischaemia in the right lower limb
+T42	DISEASE 1349 1365	vascular disease
+T44	DISEASE 1372 1403	chronic ischaemic heart disease
+T15	DISEASE 1440 1477	mild residual LV systolic dysfunction
+T14	DISEASE 1527 1613	ischaemic stroke of atherothrombotic aetiology in the left middle cerebral artery (MCA
+T58	DISEASE 1765 1796	decompensation of heart failure
+T46	DISEASE 2690 2705	acute ischaemia
+T47	DISEASE 2735 2761	Bilateral pleural effusion
+T35	DISEASE 3978 3980	dl
+T59	DISEASE 4377 4405	Slightly dilated left atrium
+T48	DISEASE 4407 4445	Moderate-severe pulmonary hypertension
+T10	DISEASE 4469 4540	severe lesion in the proximal segment of the anterior descending artery
+T49	DISEASE 5115 5134	metabolic alkalosis
+T9	DISEASE 5414 5464	severe stenosis in the proximal segment of the LAD
+T7	DISEASE 5753 5762	type 2 DM
+T50	DISEASE 5896 5915	acute renal failure
+T51	DISEASE 5965 5976	nephropathy
+T52	DISEASE 6104 6128	Congestive heart failure
+T53	DISEASE 6142 6179	Moderate left ventricular dysfunction
+T55	DISEASE 6181 6205	Type 2 diabetes mellitus
+T56	DISEASE 6296 6332	Three-vessel coronary artery disease
+T5	DISEASE 6334 6392	severe stenosis of the proximal anterior descending artery
+T57	DISEASE 6468 6527	Ischaemic stroke secondary to left carotid artery occlusion

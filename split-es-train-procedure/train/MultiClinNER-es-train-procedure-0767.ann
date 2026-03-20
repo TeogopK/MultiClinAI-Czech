@@ -1,0 +1,30 @@
+T55	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T56	PROCEDURE 769 787	Exploración física
+T57	PROCEDURE 884 898	pulsioximetría
+T58	PROCEDURE 1042 1063	Auscultación cardiaca
+T59	PROCEDURE 1138 1159	Auscultación pulmonar
+T60	PROCEDURE 1357 1375	Electrocardiograma
+T61	PROCEDURE 1517 1535	Electrocardiograma
+T62	PROCEDURE 1688 1708	Radiografía de tórax
+T63	PROCEDURE 2251 2260	Hemograma
+T64	PROCEDURE 2357 2377	Cateterismo cardiaco
+T65	PROCEDURE 2379 2394	Coronariografía
+T66	PROCEDURE 2678 2720	tomografía de coherencia óptica (OCT) a DA
+T67	PROCEDURE 2711 2714	OCT
+T68	PROCEDURE 2935 2965	estudio de la microcirculación
+T69	PROCEDURE 3031 3047	ventriculografía
+T70	PROCEDURE 3267 3296	Resonancia magnética cardiaca
+T71	PROCEDURE 3804 3818	Ecocardiograma
+T72	PROCEDURE 4512 4530	electrocardiograma
+T73	PROCEDURE 4620 4635	coronariografía
+T74	PROCEDURE 4653 4673	cateterismo cardiaco
+T75	PROCEDURE 4858 4889	tomografía de coherencia óptica
+T76	PROCEDURE 4891 4894	OCT
+T77	PROCEDURE 4900 4903	OCT
+T78	PROCEDURE 4988 5008	estudio hemodinámico
+T79	PROCEDURE 5034 5050	microcirculación
+T80	PROCEDURE 5212 5228	ventriculografía
+T81	PROCEDURE 5773 5802	resonancia magnética cardiaca
+T82	PROCEDURE 5980 5994	ecocardiograma
+T123	PROCEDURE 1828 1838	bioquímica
+T3	PROCEDURE 3361 3428	secuencias potenciadas en T2-TSE-FAT SAT en eje corto y dos cámaras

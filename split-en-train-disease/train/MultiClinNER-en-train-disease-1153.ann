@@ -1,0 +1,40 @@
+T26	DISEASE 83 110	acute myocardial infarction
+T27	DISEASE 144 150	smoker
+T60	DISEASE 180 199	alcohol consumption
+T28	DISEASE 204 216	hypertension
+T30	DISEASE 218 235	diabetes mellitus
+T31	DISEASE 239 252	dyslipidaemia
+T32	DISEASE 268 280	chest trauma
+T33	DISEASE 323 336	cardiopathies
+T63	DISEASE 1083 1090	syncope
+T65	DISEASE 2038 2057	mild LV hypertrophy
+T34	DISEASE 2160 2175	aortic aneurysm
+T38	DISEASE 2167 2175	aneurysm
+T37	DISEASE 2614 2639	ascending aortic aneurysm
+T35	DISEASE 2624 2639	aortic aneurysm
+T39	DISEASE 2631 2639	aneurysm
+T40	DISEASE 2758 2766	aneurysm
+T61	DISEASE 2951 2975	type A aortic dissection
+T43	DISEASE 3573 3595	dilated cardiomyopathy
+T45	DISEASE 3991 4001	thrombosis
+T47	DISEASE 4172 4190	partial thrombosis
+T46	DISEASE 4180 4190	thrombosis
+T48	DISEASE 4543 4569	bilateral pleural effusion
+T51	DISEASE 4622 4633	haemothorax
+T49	DISEASE 4714 4740	bilateral pleural effusion
+T64	DISEASE 4802 4844	globular, hypertrabeculated and dilated LV
+T52	DISEASE 5114 5159	Mild-moderate functional mitral regurgitation
+T44	DISEASE 5800 5822	dilated cardiomyopathy
+T53	DISEASE 6407 6428	diastolic dysfunction
+T54	DISEASE 6992 7015	tricuspid insufficiency
+T55	DISEASE 7036 7058	pulmonary hypertension
+T29	DISEASE 7046 7058	hypertension
+T41	DISEASE 7212 7220	aneurysm
+T56	DISEASE 7568 7582	aortic rupture
+T50	DISEASE 8540 8566	bilateral pleural effusion
+T62	DISEASE 8775 8831	dilated and globular LV with severe systolic dysfunction
+T57	DISEASE 9465 9489	type B aortic dissection
+T58	DISEASE 9621 9637	aortic pathology
+T36	DISEASE 10111 10126	aortic aneurysm
+T42	DISEASE 10118 10126	aneurysm
+T59	DISEASE 10236 10286	Severe postoperative LV dilatation and dysfunction

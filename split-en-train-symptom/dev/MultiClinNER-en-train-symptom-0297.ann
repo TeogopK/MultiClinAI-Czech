@@ -1,0 +1,11 @@
+T2	SYMPTOM 307 312	fever
+T3	SYMPTOM 314 326	night sweats
+T4	SYMPTOM 330 341	weight loss
+T9	SYMPTOM 596 616	painful on palpation
+T17	SYMPTOM 886 935	tuberculin test was performed, which was positive
+T7	SYMPTOM 997 1045	Chest X-ray and abdominal ultrasound were normal
+T6	SYMPTOM 1048 1133	Brucella, Epstein-Barr virus (EBV) and cytomegalovirus (CMV) serologies were negative
+T5	SYMPTOM 1146 1162	normal haemogram
+T8	SYMPTOM 1219 1287	interferon-gamma release assays (IGRA) (QuantiFERON(r)) was positive
+T1	SYMPTOM 1732 1765	culture was positive for M. bovis
+T10	SYMPTOM 2032 2085	Mycobacterial cultures in gastric juice were negative

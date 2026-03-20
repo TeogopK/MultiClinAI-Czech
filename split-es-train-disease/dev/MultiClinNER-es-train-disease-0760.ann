@@ -1,0 +1,95 @@
+T60	DISEASE 7709 7730	disfunción diastólica
+T76	DISEASE 102 114	presbiacusia
+T77	DISEASE 156 166	Exfumadora
+T78	DISEASE 240 281	Sordera neurosensioral profunda bilateral
+T79	DISEASE 397 422	preexcitación ventricular
+T80	DISEASE 1569 1637	úlceras distales en segunda, tercera, cuarta y quinta falange de MII
+T81	DISEASE 1653 1678	trombosis venosa profunda
+T82	DISEASE 1680 1683	TVP
+T83	DISEASE 2825 2838	trombo apical
+T84	DISEASE 3124 3172	Insuficiencia central ligera-moderada secundaria
+T85	DISEASE 3273 3297	Insuficiencia tricúspide
+T86	DISEASE 3416 3435	derrame pericárdico
+T87	DISEASE 3564 3577	Trombo apical
+T88	DISEASE 3894 3959	estenosis no significativa de arteria descendente anterior distal
+T89	DISEASE 5434 5457	trombo intraventricular
+T90	DISEASE 5741 5828	Válvula mitral con engrosamiento ligero difuso de velos, insuficiencia central moderada
+T91	DISEASE 6138 6157	derrame pericárdico
+T92	DISEASE 6556 6593	Insuficiencia mitral central moderada
+T93	DISEASE 6595 6616	Hipertensión pulmonar
+T94	DISEASE 7769 7775	trombo
+T95	DISEASE 7864 7904	Insuficiencia mitral secundaria moderada
+T96	DISEASE 7906 7936	Insuficiencia tricúspide grave
+T97	DISEASE 7962 8036	adenopatías hipercaptantes cervicales, supraclaviculares, ni mediastínicas
+T98	DISEASE 8083 8105	sarcoidosis ganglionar
+T99	DISEASE 8122 8141	lesiones pulmonares
+T100	DISEASE 8170 8190	sarcoidosis pulmonar
+T101	DISEASE 8206 8236	derrame pleural ni pericárdico
+T102	DISEASE 8282 8291	pleuritis
+T104	DISEASE 8413 8436	miocardiopatía dilatada
+T105	DISEASE 8571 8614	sarcoidosis pulmonar, ganglionar o cardiaca
+T106	DISEASE 8616 8650	Miocardiopatía difusa inespecífica
+T107	DISEASE 8906 8949	miocardiopatía por depósito de amiloide TTR
+T108	DISEASE 9583 9606	enfermedad mitocondrial
+T109	DISEASE 9659 9696	encefalopatía mitocondrial tipo MELAS
+T110	DISEASE 10053 10086	enfermedad de origen mitocondrial
+T111	DISEASE 10148 10170	insuficiencia cardiaca
+T113	DISEASE 10602 10620	shock cardiogénico
+T114	DISEASE 10766 10806	disfunción sistólica biventricular grave
+T115	DISEASE 10822 10859	insuficiencia mitral secundaria grave
+T116	DISEASE 10865 10890	trombo ventricular apical
+T117	DISEASE 11042 11062	enfermedad coronaria
+T118	DISEASE 11090 11108	shock cardiogénico
+T119	DISEASE 11136 11153	miocarditis aguda
+T120	DISEASE 12161 12192	embolismo de trombo ventricular
+T121	DISEASE 12211 12222	miocarditis
+T122	DISEASE 13065 13088	trombo intraventricular
+T123	DISEASE 13420 13440	insuficiencia mitral
+T124	DISEASE 13646 13670	enfermedades autoinmunes
+T125	DISEASE 13712 13739	enfermedades protrombóticas
+T126	DISEASE 13980 14000	amiloidosis cardiaca
+T127	DISEASE 14211 14257	amiloidosis familiar o senil por transtiretina
+T128	DISEASE 14382 14402	sarcoidosis cardiaca
+T129	DISEASE 14692 14703	sarcoidosis
+T130	DISEASE 14776 14790	hemocromatosis
+T131	DISEASE 14875 14895	enfermedad de Wilson
+T132	DISEASE 14898 14917	enfermedad de Fabry
+T133	DISEASE 15038 15052	miocardiopatía
+T134	DISEASE 15362 15385	trombo intraventricular
+T135	DISEASE 15501 15523	insuficiencia cardiaca
+T136	DISEASE 15598 15610	cardiopatías
+T137	DISEASE 15676 15690	miocardiopatía
+T138	DISEASE 15835 15860	hipoacusia neurosensorial
+T139	DISEASE 15866 15899	síndrome de Wolff-Parkinson-White
+T140	DISEASE 15956 15961	MELAS
+T141	DISEASE 16184 16211	enfermedades mitocondriales
+T142	DISEASE 16239 16253	síndrome MELAS
+T143	DISEASE 16255 16281	encefalopatía mitocondrial
+T144	DISEASE 16283 16299	acidosis láctica
+T145	DISEASE 16302 16323	episodios stroke-like
+T146	DISEASE 16428 16439	miocarditis
+T147	DISEASE 16712 16729	miocarditis aguda
+T148	DISEASE 16736 16747	cardiopatía
+T149	DISEASE 16778 16796	shock cardiogénico
+T150	DISEASE 16846 16851	MELAS
+T151	DISEASE 16890 16936	Miocardiopatía hipertrófica secundaria a MELAS
+T152	DISEASE 16938 16976	Síndrome de WPW (vía latera izquierda)
+T153	DISEASE 16978 17012	Trombo intraventricular recurrente
+T154	DISEASE 16978 17037	Trombo intraventricular recurrente con embolismo periférico
+T155	DISEASE 5676 5724	Válvula aórtica de velos finos con regurgitación
+T157	DISEASE 10262 10286	hipoperfusión periférica
+T158	DISEASE 10248 10259	hipotensión
+T159	DISEASE 6634 6645	trombofilia
+T160	DISEASE 5459 5498	Aurícula izquierda ligeramente dilatada
+T161	DISEASE 5637 5674	Aurícula derecha ligeramente dilatada
+T162	DISEASE 6071 6098	Vena cava inferior dilatada
+T163	DISEASE 13129 13176	hipertrofia concéntrica de ventrículo izquierdo
+T164	DISEASE 15932 15955	enfermedad mitocondrial
+T165	DISEASE 16822 16845	Enfermedad mitocondrial
+T103	DISEASE 8294 8306	pericarditis
+T156	DISEASE 2194 2207	cardiomegalia
+T48	DISEASE 5924 6010	Válvula tricúspide de velos finos, con buena apertura e insuficiencia central moderada
+T112	DISEASE 13265 13286	disfunción diastólica
+T274	DISEASE 12022 12086	metatarsofalángica de segunda-cuarta falanges MII, ante necrosis
+T282	DISEASE 13473 13510	enfermedad de depósito o infiltrativa
+T284	DISEASE 13913 13936	enfermedad infiltrativa

@@ -1,0 +1,20 @@
+T1	PROCEDURE 115 127	chemotherapy
+T2	PROCEDURE 132 144	radiotherapy
+T20	PROCEDURE 208 268	brain metastasis on which complete resection was carried out
+T16	PROCEDURE 290 314	holocranial radiotherapy
+T13	PROCEDURE 520 540	antibiotic treatment
+T12	PROCEDURE 788 810	orotracheal intubation
+T4	PROCEDURE 815 837	mechanical ventilation
+T5	PROCEDURE 851 862	chest X-ray
+T6	PROCEDURE 989 1021	Pulmonary artery catheterisation
+T14	PROCEDURE 1461 1505	Antibiotic treatment was started empirically
+T10	PROCEDURE 1557 1572	corticosteroids
+T7	PROCEDURE 1741 1752	thoracic CT
+T8	PROCEDURE 1966 1988	Bronchoalveolar lavage
+T11	PROCEDURE 2017 2040	bacteriological culture
+T17	PROCEDURE 2051 2064	Ziehl-Nielsen
+T36	PROCEDURE 2102 2156	Serology for atypical pneumonia (Legionella, Chlamydia
+T9	PROCEDURE 2351 2376	nasal and pharyngeal swab
+T37	PROCEDURE 2400 2435	real-time polymerase chain reaction
+T15	PROCEDURE 2437 2443	RT-PCR
+T39	PROCEDURE 2609 2649	weaning from ventilation was carried out

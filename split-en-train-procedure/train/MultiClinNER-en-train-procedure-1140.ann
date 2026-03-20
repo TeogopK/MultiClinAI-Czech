@@ -1,0 +1,13 @@
+T25	PROCEDURE 302 322	antibiotic treatment
+T28	PROCEDURE 722 742	physical examination
+T29	PROCEDURE 1152 1163	Chest X-ray
+T31	PROCEDURE 1277 1291	blood cultures
+T33	PROCEDURE 1314 1325	antibiotics
+T30	PROCEDURE 1600 1611	chest X-ray
+T34	PROCEDURE 1774 1802	transthoracic echocardiogram
+T35	PROCEDURE 2134 2149	inotropic drugs
+T36	PROCEDURE 2189 2213	non-invasive ventilation
+T26	PROCEDURE 2237 2257	antibiotic treatment
+T37	PROCEDURE 2298 2328	transesophageal echocardiogram
+T32	PROCEDURE 2572 2586	blood cultures
+T27	PROCEDURE 2913 2933	antibiotic treatment

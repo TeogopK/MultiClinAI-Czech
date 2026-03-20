@@ -1,0 +1,22 @@
+T1	SYMPTOM 466 507	masa hiperecoica en la cortical del riñón
+T2	SYMPTOM 608 643	masa renal derecha en polo inferior
+T3	SYMPTOM 2073 2143	masa paravertebral bilateral, que infiltraba la vértebra a nivel C7-D1
+T5	SYMPTOM 392 428	radiografía de tórax fueron normales
+T6	SYMPTOM 1412 1440	dolor radicular en la pierna
+T7	SYMPTOM 1232 1237	T3bN0
+T8	SYMPTOM 1740 1807	masa extratesticular ecogénica, sólida con pequeñas áreas quísticas
+T9	SYMPTOM 224 239	tos persistente
+T10	SYMPTOM 1317 1362	imágenes nodulares en ambos campos pulmonares
+T11	SYMPTOM 1835 1892	formación de características similares en la raíz peneana
+T12	SYMPTOM 2322 2333	falleciendo
+T15	SYMPTOM 1591 1610	nódulos irregulares
+T16	SYMPTOM 552 569	tumoración sólida
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	IMAGEN T5
+A5	RESULTADO T7
+A6	IMAGEN T8
+A7	IMAGEN T10
+A8	IMAGEN T11
+A9	EXITUS T12

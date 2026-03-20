@@ -1,0 +1,53 @@
+T10	DISEASE 2211 2221	presíncope
+T53	DISEASE 37 60	alergias medicamentosas
+T54	DISEASE 111 114	HTA
+T55	DISEASE 116 126	dislipemia
+T56	DISEASE 128 136	obesidad
+T57	DISEASE 156 165	epilepsia
+T58	DISEASE 167 205	hipotiroidismo secundario a tiroiditis
+T59	DISEASE 208 235	insuficiencia renal crónica
+T60	DISEASE 329 362	insuficiencia cardiaca congestiva
+T61	DISEASE 388 447	válvula aórtica bicúspide con insuficiencia de grado severo
+T62	DISEASE 450 475	disfunción moderada de VI
+T63	DISEASE 588 607	lesiones coronarias
+T64	DISEASE 865 878	fracaso renal
+T65	DISEASE 1065 1120	hematoma retroperitoneal en cabeza y cuerpo de páncreas
+T66	DISEASE 3329 3334	BRDHH
+T67	DISEASE 3416 3449	ateromatosis y elongación aórtica
+T68	DISEASE 3469 3482	cardiomegalia
+T69	DISEASE 3881 3899	colecistitis aguda
+T70	DISEASE 4022 4044	insuficiencia cardiaca
+T71	DISEASE 4047 4070	colecistitis alitiásica
+T72	DISEASE 4078 4087	diabético
+T73	DISEASE 4456 4474	colecistitis aguda
+T74	DISEASE 5006 5018	BAV completo
+T75	DISEASE 5354 5387	endocarditis sobre válvula mitral
+T76	DISEASE 5751 5774	fístula aorto-auricular
+T77	DISEASE 5926 5945	derrame pericárdico
+T78	DISEASE 6350 6368	hemiplejía derecha
+T79	DISEASE 6430 6482	hematoma cerebral en región parieto-temporal derecha
+T80	DISEASE 6626 6647	ACV agudo hemorrágico
+T81	DISEASE 6753 6767	cuadro séptico
+T82	DISEASE 6985 7006	fracaso multiorgánico
+T83	DISEASE 7022 7040	Colecistitis aguda
+T84	DISEASE 7085 7104	bloqueo AV completo
+T85	DISEASE 7106 7169	Endocarditis por Streptococcus gallolyticus sobre VAo protésica
+T86	DISEASE 7185 7229	fístula aorto-cavitaria a aurícula izquierda
+T87	DISEASE 7231 7252	ACV hemorrágico agudo
+T88	DISEASE 7286 7299	Shock séptico
+T89	DISEASE 7345 7364	fallo multiorgánico
+T90	DISEASE 794 844	flúter auricular con respuesta ventricular elevada
+T91	DISEASE 1293 1316	VI ligeramente dilatado
+T92	DISEASE 1359 1376	IM ligera central
+T93	DISEASE 1416 1421	BRDHH
+T94	DISEASE 2877 2880	TVP
+T95	DISEASE 3279 3298	bloqueo AV completo
+T97	DISEASE 3988 4006	vesícula de estrés
+T98	DISEASE 5234 5294	VM: velos ligeramente fibrosados con calcio en anillo mitral
+T99	DISEASE 5296 5306	IM central
+T100	DISEASE 5652 5673	proceso endocardítico
+T101	DISEASE 5842 5844	IT
+T102	DISEASE 6596 6619	sangre intraventricular
+T142	DISEASE 953 987	episodio convulsivo tónico-clónico
+T144	DISEASE 2200 2207	síncope
+#1	AnnotatorNotes T101	 IT insuficiencia tricuspídea

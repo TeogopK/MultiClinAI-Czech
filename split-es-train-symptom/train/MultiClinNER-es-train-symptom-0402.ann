@@ -1,0 +1,10 @@
+T1	SYMPTOM 208 260	próstata fija, pétrea, e irregular, en ambos lóbulos
+T2	SYMPTOM 322 344	crecimiento prostático
+T3	SYMPTOM 1128 1149	orinar casi por goteo
+T4	SYMPTOM 1683 1719	uretra bulbar y prostática es normal
+T5	SYMPTOM 2530 2554	excelente estado general
+T6	SYMPTOM 972 981	hematuria
+T7	SYMPTOM 2325 2330	masas
+T8	SYMPTOM 984 1002	retención de orina
+T10	SYMPTOM 870 904	empeoramiento de su estado general
+A1	IMAGEN T2

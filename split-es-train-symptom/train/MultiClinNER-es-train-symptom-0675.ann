@@ -1,0 +1,19 @@
+T1	SYMPTOM 466 469	tos
+T2	SYMPTOM 471 477	disnea
+T3	SYMPTOM 479 490	sibilancias
+T4	SYMPTOM 493 516	expectoración purulenta
+T5	SYMPTOM 535 543	ortopnea
+T6	SYMPTOM 677 683	roncus
+T7	SYMPTOM 725 746	edemas perimaleolares
+T8	SYMPTOM 618 624	soplos
+T9	SYMPTOM 628 638	extratonos
+T10	SYMPTOM 879 933	difusión pulmonar de gases está discretamente reducida
+T11	SYMPTOM 1573 1599	función pulmonar aceptable
+T12	SYMPTOM 1359 1400	fenotipo de AAT, que demuestra el tipo ZZ
+T13	SYMPTOM 583 612	auscultación cardíaca rítmica
+T14	SYMPTOM 842 874	prueba broncodilatadora positiva
+T15	SYMPTOM 1276 1322	fibrobroncoscopia sin hallazgos significativos
+A1	RESULTADO T10
+A2	RESULTADO T12
+A3	RESULTADO T14
+A4	RESULTADO T15

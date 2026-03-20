@@ -1,0 +1,55 @@
+T1	SYMPTOM 950 965	epigastric pain
+T2	SYMPTOM 970 992	diffuse abdominal pain
+T4	SYMPTOM 1088 1105	vegetative cortex
+T5	SYMPTOM 1129 1137	dyspnoea
+T6	SYMPTOM 1139 1149	chest pain
+T35	SYMPTOM 1153 1160	syncope
+T8	SYMPTOM 1175 1180	fever
+T39	SYMPTOM 1195 1215	infectious semiology
+T37	SYMPTOM 1310 1321	instability
+T44	SYMPTOM 1327 1350	behavioural alterations
+T9	SYMPTOM 1502 1510	Afebrile
+T10	SYMPTOM 1512 1521	Conscious
+T11	SYMPTOM 1523 1531	oriented
+T12	SYMPTOM 1533 1546	normohydrated
+T13	SYMPTOM 1551 1559	perfused
+T14	SYMPTOM 1561 1576	eupneic at rest
+T15	SYMPTOM 1578 1586	Cachexia
+T16	SYMPTOM 1612 1633	jugular ingurgitation
+T17	SYMPTOM 1664 1685	rhythmic heart sounds
+T45	SYMPTOM 1693 1721	mitral II/VI systolic murmur
+T18	SYMPTOM 1747 1773	preserved vesicular murmur
+T46	SYMPTOM 1775 1853	Abdomen: soft, depressible, preserved peristalsis, painful on general palpatio
+T19	SYMPTOM 1868 1889	peritoneal irritation
+T20	SYMPTOM 1894 1901	murmurs
+T21	SYMPTOM 1903 1931	Lower extremities: no oedema
+T41	SYMPTOM 1969 1992	loss of skin continuity
+T22	SYMPTOM 2033 2050	sinus tachycardia
+T23	SYMPTOM 2063 2092	ST elevation V1-V4 Q in V1 V2
+T24	SYMPTOM 2112 2124	sinus rhythm
+T25	SYMPTOM 2141 2171	negative T waves from V1 to V4
+T26	SYMPTOM 2695 2730	normal cardiomediastinal silhouette
+T27	SYMPTOM 3377 3404	preserved systolic function
+T31	SYMPTOM 3417 3495	Mass visualised on the atrial side of the anterior leaflet in the mitral valve
+T47	SYMPTOM 3792 3812	mitroaortic fibrosis
+T28	SYMPTOM 3946 4024	left ventricle of normal size and thickness, with borderline systolic function
+T48	SYMPTOM 4100 4121	Normal right chambers
+T42	SYMPTOM 4697 4747	Blood cultures 25/01/2020: Streptococcus anginosus
+T29	SYMPTOM 4749 4783	Urine culture 25/01/2020: negative
+T30	SYMPTOM 4785 4857	PCR influenza and respiratory syncytial virus (RSV) 07/02/2020: negative
+T49	SYMPTOM 5341 5370	left occipital annular uptake
+T50	SYMPTOM 5424 5495	left occipital temporal temporal corticojuxtacortical signal alteration
+T51	SYMPTOM 5798 5811	febrile peaks
+T40	SYMPTOM 5846 5866	infectious semiology
+T52	SYMPTOM 6021 6078	S. anginosus in the first 24 hours in both blood cultures
+T32	SYMPTOM 6154 6169	apical akinesia
+T43	SYMPTOM 6175 6189	preserved LVEF
+T7	SYMPTOM 6950 6960	chest pain
+T53	SYMPTOM 6962 7005	Residual LV systolic function was preserved
+T33	SYMPTOM 7011 7026	apical akinesia
+T54	SYMPTOM 7197 7219	behavioural alteration
+T3	SYMPTOM 7232 7254	diffuse abdominal pain
+T38	SYMPTOM 7407 7463	abdominal CT where no significant alterations were found
+T36	SYMPTOM 8227 8271	preserved left ventricular systolic function
+T55	SYMPTOM 9199 9239	Borderline residual LV systolic function
+T34	SYMPTOM 9256 9271	apical akinesia

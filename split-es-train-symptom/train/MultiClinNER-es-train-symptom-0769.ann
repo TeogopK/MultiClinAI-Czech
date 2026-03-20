@@ -1,0 +1,45 @@
+T1	SYMPTOM 887 903	malestar general
+T2	SYMPTOM 910 916	fiebre
+T3	SYMPTOM 1107 1141	prurito intenso en cuero cabelludo
+T4	SYMPTOM 1154 1164	sudoración
+T6	SYMPTOM 1180 1222	dolor centrotorácico opresivo no irradiado
+T7	SYMPTOM 1225 1231	disnea
+T8	SYMPTOM 1315 1323	disneico
+T9	SYMPTOM 1340 1360	trabajo respiratorio
+T10	SYMPTOM 1362 1371	hipotenso
+T11	SYMPTOM 1642 1667	hemodinámicamente estable
+T12	SYMPTOM 1674 1694	trabajo respiratorio
+T13	SYMPTOM 1749 1791	elevación de marcadores de daño miocárdico
+T14	SYMPTOM 1966 1976	Consciente
+T15	SYMPTOM 1978 1987	orientado
+T16	SYMPTOM 1989 2011	buena perfusión distal
+T18	SYMPTOM 2137 2167	Auscultación cardiaca: rítmica
+T19	SYMPTOM 2173 2179	soplos
+T20	SYMPTOM 2213 2235	Hipoventilación global
+T23	SYMPTOM 2294 2317	Extremidades: no edemas
+T24	SYMPTOM 2412 2425	ritmo sinusal
+T25	SYMPTOM 2447 2459	QRS estrecho
+T27	SYMPTOM 2554 2566	QRS estrecho
+T28	SYMPTOM 2628 2656	índice cardiotorácico normal
+T30	SYMPTOM 3241 3290	Hormonas tiroideas dentro del rango de normalidad
+T31	SYMPTOM 3535 3567	ventrículo izquierdo no dilatado
+T32	SYMPTOM 3597 3622	función global conservada
+T33	SYMPTOM 3697 3744	Ventrículo derecho de tamaño y función normales
+T35	SYMPTOM 3896 3915	Arco aórtico normal
+T36	SYMPTOM 3997 4009	asintomático
+T37	SYMPTOM 4054 4079	hemodinámicamente estable
+T38	SYMPTOM 4106 4139	alteraciones de la repolarización
+T39	SYMPTOM 4233 4265	arterias coronarias sin lesiones
+T40	SYMPTOM 4301 4342	ventrículo de tamaño y función conservada
+T41	SYMPTOM 4751 4763	asintomático
+T102	SYMPTOM 2237 2292	Abdomen: blando, depresible, no doloroso a la palpación
+T105	SYMPTOM 2013 2038	Eupneico al aire ambiente
+T5	SYMPTOM 2066 2084	Tórax enfisematoso
+T17	SYMPTOM 2114 2135	reflujo hepatoyugular
+T21	SYMPTOM 2470 2504	Supradesnivelación del ST inferior
+T22	SYMPTOM 3627 3670	anomalías segmentarias de la contractilidad
+T26	SYMPTOM 3806 3870	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T29	SYMPTOM 4347 4377	anomalías de la contractilidad
+T113	SYMPTOM 2106 2109	IVY
+T139	SYMPTOM 2670 2693	redistribución vascular
+T34	SYMPTOM 3452 3517	arterias coronarias sin lesiones angiográficamente significativas

@@ -1,0 +1,11 @@
+T1	PROCEDURE 109 124	cholecystectomy
+T2	PROCEDURE 126 138	appendectomy
+T3	PROCEDURE 140 163	umbilical herniorrhaphy
+T4	PROCEDURE 168 185	caesarean section
+T5	PROCEDURE 227 271	bariatric surgery using the Larrad technique
+T6	PROCEDURE 424 444	Physical examination
+T17	PROCEDURE 537 548	Blood tests
+T18	PROCEDURE 683 703	complete blood count
+T19	PROCEDURE 769 787	venous blood gases
+T8	PROCEDURE 1083 1106	Hydrosaline replacement
+T7	PROCEDURE 1123 1145	electrolyte correction

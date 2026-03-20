@@ -1,0 +1,29 @@
+T59	PROCEDURE 0 9	Anamnesis
+T42	PROCEDURE 243 268	amputation of both hallux
+T58	PROCEDURE 318 350	Aortic valve replacement surgery
+T3	PROCEDURE 352 355	AVR
+T36	PROCEDURE 424 460	myocardial revascularisation surgery
+T37	PROCEDURE 595 618	oral antibiotic therapy
+T39	PROCEDURE 671 681	antibiotic
+T41	PROCEDURE 997 999	CV
+T43	PROCEDURE 1238 1263	amputation of both hallux
+T54	PROCEDURE 1338 1342	RxTx
+T55	PROCEDURE 1516 1527	Blood gases
+T56	PROCEDURE 1556 1564	ionogram
+T44	PROCEDURE 1568 1571	ECG
+T46	PROCEDURE 1617 1631	Blood cultures
+T47	PROCEDURE 1713 1743	Transesophageal echocardiogram
+T10	PROCEDURE 1745 1748	TEE
+T48	PROCEDURE 2066 2076	CT abdomen
+T45	PROCEDURE 2120 2123	ECG
+T60	PROCEDURE 2183 2203	dialysis requirement
+T16	PROCEDURE 2648 2672	Amputation of second toe
+T23	PROCEDURE 2700 2729	requiring transient pacemaker
+T38	PROCEDURE 2733 2736	TEE
+T57	PROCEDURE 3035 3050	Cardiac surgery
+T63	PROCEDURE 3061 3077	PreQ prophylaxis
+T50	PROCEDURE 3112 3136	Aortic valve replacement
+T51	PROCEDURE 3141 3163	mitral valve vegectomy
+T52	PROCEDURE 3166 3203	Culture of aortic prosthetic material
+T40	PROCEDURE 3296 3317	Pacemaker was removed
+T53	PROCEDURE 3460 3480	antibiotic treatment

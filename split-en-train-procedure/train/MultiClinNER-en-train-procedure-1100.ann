@@ -1,0 +1,29 @@
+T56	PROCEDURE 114 129	anticoagulation
+T59	PROCEDURE 161 181	PHYSICAL EXAMINATION
+T58	PROCEDURE 547 562	Catheterisation
+T79	PROCEDURE 951 973	surgical interventions
+T60	PROCEDURE 1629 1649	Physical examination
+T61	PROCEDURE 1814 1842	Cardiopulmonary auscultation
+T62	PROCEDURE 2025 2042	Electrocardiogram
+T64	PROCEDURE 2131 2142	Chest X-ray
+T3	PROCEDURE 2237 2253	Laboratory tests
+T65	PROCEDURE 2354 2368	Echocardiogram
+T68	PROCEDURE 2739 2816	Prognostic ergometry, treadmill, Bruce protocol, under beta-blocker treatment
+T69	PROCEDURE 3235 3248	beta-blockers
+T66	PROCEDURE 3351 3377	post-stress echocardiogram
+T70	PROCEDURE 3434 3502	Diagnostic and therapeutic coronary angiography: right radial access
+T8	PROCEDURE 4221 4287	Percutaneous coronary intervention: on marginal branch of the LMCA
+T10	PROCEDURE 4288 4344	by means of simple angioplasty with conventional balloon
+T9	PROCEDURE 4356 4440	CAx by implanting two drug-eluting stents after dilatation with conventional balloon
+T72	PROCEDURE 4725 4734	ergometry
+T67	PROCEDURE 4835 4851	echocardiography
+T74	PROCEDURE 4908 4928	coronary angiography
+T63	PROCEDURE 4946 4963	electrocardiogram
+T75	PROCEDURE 5059 5079	coronary angiography
+T78	PROCEDURE 5170 5191	antianginal treatment
+T76	PROCEDURE 5223 5260	non-invasive ischaemia detection test
+T13	PROCEDURE 5262 5373	percutaneous intervention was performed on the marginal branch and on the proximal and middle circumflex artery
+T57	PROCEDURE 5453 5468	anticoagulation
+T12	PROCEDURE 5522 5542	antiplatelet therapy
+T77	PROCEDURE 5544 5570	coronary revascularisation
+T11	PROCEDURE 6233 6304	Percutaneous revascularisation of circumflex artery and marginal branch

@@ -1,0 +1,36 @@
+T69	PROCEDURE 624 642	electrocardiograma
+T70	PROCEDURE 644 647	ECG
+T71	PROCEDURE 973 993	radiografía de tórax
+T72	PROCEDURE 1113 1141	ecocardiograma transtorácico
+T73	PROCEDURE 1143 1146	ETT
+T74	PROCEDURE 1390 1409	cateterismo derecho
+T75	PROCEDURE 1634 1704	sección y cierre de ambos muñones del ductus por toracotomía izquierda
+T76	PROCEDURE 1958 1980	corticoides sistémicos
+T77	PROCEDURE 2018 2059	cateterismo derecho de control poscirugía
+T78	PROCEDURE 2441 2472	pruebas de función respiratoria
+T79	PROCEDURE 2617 2631	pulsioximetría
+T80	PROCEDURE 2983 2986	ETT
+T81	PROCEDURE 3080 3096	ergoespirometría
+T82	PROCEDURE 3428 3439	cateterismo
+T83	PROCEDURE 3931 3934	ETT
+T84	PROCEDURE 4169 4172	ETT
+T85	PROCEDURE 4230 4254	resonancia (RM) cardiaca
+T86	PROCEDURE 4469 4488	cateterismo derecho
+T87	PROCEDURE 5034 5052	Exploración física
+T88	PROCEDURE 5364 5367	ECG
+T89	PROCEDURE 6244 6264	Radiografía de tórax
+T90	PROCEDURE 6337 6340	ETT
+T91	PROCEDURE 7651 7670	cateterismo derecho
+T92	PROCEDURE 8034 8069	implantación de la bomba subcutánea
+T93	PROCEDURE 8276 8290	ecocardiograma
+T105	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T106	PROCEDURE 279 307	inhaladores beta-2 miméticos
+T107	PROCEDURE 4822 4836	monitorización
+T108	PROCEDURE 2640 2657	test de la marcha
+T109	PROCEDURE 4242 4244	RM
+T114	PROCEDURE 5532 5541	Analítica
+T125	PROCEDURE 909 918	analítica
+T126	PROCEDURE 2489 2498	analítica
+T131	PROCEDURE 7691 7718	prostaciclinas intravenosas
+T132	PROCEDURE 7851 7885	cambios de vía venosa por flebitis
+T134	PROCEDURE 8492 8532	Ductus arterioso persistente intervenido

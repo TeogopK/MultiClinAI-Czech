@@ -1,0 +1,40 @@
+T23	SYMPTOM 72 79	syncope
+T38	SYMPTOM 1046 1077	disorientated in time and space
+T39	SYMPTOM 1173 1194	central thoracic pain
+T40	SYMPTOM 1199 1229	paraparesis of the lower limbs
+T2	SYMPTOM 1285 1313	diffuse abdominal discomfort
+T3	SYMPTOM 1462 1487	loss of sphincter control
+T25	SYMPTOM 1521 1569	asymptomatic from a cardiovascular point of view
+T1	SYMPTOM 1620 1649	Disoriented in time and space
+T4	SYMPTOM 1651 1658	Verbose
+T5	SYMPTOM 1712 1720	Afebrile
+T6	SYMPTOM 1725 1727	IY
+T7	SYMPTOM 1769 1790	rhythmic heart sounds
+T8	SYMPTOM 1799 1806	murmurs
+T9	SYMPTOM 1832 1859	generalised hypoventilation
+T37	SYMPTOM 1870 1887	scattered rhonchi
+T10	SYMPTOM 1889 1911	Lower limbs: no oedema
+T11	SYMPTOM 1913 1949	femoral and popliteal pulses present
+T12	SYMPTOM 1955 1978	abolished distal pulses
+T36	SYMPTOM 1980 2009	Abdomen: no pain on palpation
+T35	SYMPTOM 2011 2037	hydroaerial sounds present
+T34	SYMPTOM 2042 2072	signs of peritoneal irritation
+T33	SYMPTOM 2079 2103	Bilateral PPCC preserved
+T13	SYMPTOM 2105 2157	Strength and sensibility preserved in all four limbs
+T14	SYMPTOM 2519 2531	sinus rhythm
+T15	SYMPTOM 2554 2562	wide QRS
+T32	SYMPTOM 2638 2661	mediastinal enlargement
+T20	SYMPTOM 2938 3022	left ventricle of normal size, with preserved global and segmental systolic function
+T30	SYMPTOM 3047 3072	contractility alterations
+T31	SYMPTOM 3086 3131	Right chambers of preserved size and function
+T16	SYMPTOM 4177 4188	haemorrhage
+T27	SYMPTOM 4669 4684	collapse of LII
+T17	SYMPTOM 4726 4743	mediastinal shift
+T24	SYMPTOM 5218 5225	syncope
+T26	SYMPTOM 5389 5407	clinical stability
+T18	SYMPTOM 6035 6057	haemodynamic stability
+T21	SYMPTOM 6118 6134	contrast leakage
+T19	SYMPTOM 6207 6229	haemodynamic stability
+T29	SYMPTOM 6234 6260	neurological deterioration
+T22	SYMPTOM 6463 6486	haemodynamically stable
+T28	SYMPTOM 6491 6542	asymptomatic from the cardiovascular point of view,

@@ -1,0 +1,14 @@
+T1	PROCEDURE 530 541	Rx de tórax
+T2	PROCEDURE 584 604	Rx de abdomen simple
+T3	PROCEDURE 656 659	UIV
+T4	PROCEDURE 1832 1859	diagnóstico histopatológico
+T5	PROCEDURE 869 878	ecografía
+T6	PROCEDURE 1566 1586	estudio microscópico
+T7	PROCEDURE 219 232	examen físico
+T8	PROCEDURE 1346 1365	examen macroscópico
+T9	PROCEDURE 1144 1179	reposición hemática por transfusión
+T10	PROCEDURE 1063 1085	tratamiento quirúrgico
+T11	PROCEDURE 260 270	palpándose
+T12	PROCEDURE 565 576	Survey óseo
+T13	PROCEDURE 1187 1202	acto operatorio
+T14	PROCEDURE 1222 1322	tumoraciones en el meso del colon transverso, la mayor de 7cm, las que fueron resecadas y extirpadas

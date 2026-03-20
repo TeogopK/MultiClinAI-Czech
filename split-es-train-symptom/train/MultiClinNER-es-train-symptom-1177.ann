@@ -1,0 +1,52 @@
+T1	SYMPTOM 345 358	palpitaciones
+T2	SYMPTOM 676 737	deterioro de la fracción de eyección del ventrículo izquierdo
+T3	SYMPTOM 1078 1085	astenia
+T4	SYMPTOM 1095 1101	mareos
+T5	SYMPTOM 1104 1115	hipotensión
+T6	SYMPTOM 1193 1206	palpitaciones
+T8	SYMPTOM 1283 1297	dolor torácico
+T10	SYMPTOM 1350 1358	ortopnea
+T11	SYMPTOM 1361 1401	edematización de extremidades inferiores
+T13	SYMPTOM 1754 1773	buen estado general
+T14	SYMPTOM 1853 1860	Afebril
+T15	SYMPTOM 1882 1910	ingurgitación venosa yugular
+T16	SYMPTOM 1935 1952	ruidos arrítmicos
+T17	SYMPTOM 1966 1972	soplos
+T19	SYMPTOM 2187 2200	ritmo sinusal
+T20	SYMPTOM 2211 2220	PR normal
+T21	SYMPTOM 2222 2234	QRS estrecho
+T22	SYMPTOM 2897 2909	bradicardias
+T25	SYMPTOM 3223 3244	alteraciones en el ST
+T28	SYMPTOM 3673 3703	aurícula izquierda no dilatada
+T29	SYMPTOM 3705 3726	Válvula mitral normal
+T31	SYMPTOM 3789 3821	Ventrículo izquierdo no dilatado
+T33	SYMPTOM 4061 4096	Válvula tricúspide con flujo normal
+T34	SYMPTOM 4169 4206	Analítica sanguínea: sin alteraciones
+T35	SYMPTOM 4549 4560	taquicardia
+T37	SYMPTOM 5777 5790	ortoestatismo
+T38	SYMPTOM 5793 5800	astenia
+T39	SYMPTOM 6054 6084	deterioro de función sistólica
+T130	SYMPTOM 1997 2033	normoventilación en todos los campos
+T135	SYMPTOM 2442 2455	ritmo sinusal
+T7	SYMPTOM 2034 2050	Abdomen: anodino
+T9	SYMPTOM 2484 2515	adecuadas frecuencias cardiacas
+T26	SYMPTOM 3925 3963	Válvula aórtica trivalva, flujo normal
+T27	SYMPTOM 3965 3989	Raíz aórtica no dilatada
+T30	SYMPTOM 4219 4229	TSH normal
+T138	SYMPTOM 3991 4048	Cavidades derechas no dilatadas con contractilidad normal
+T141	SYMPTOM 2052 2087	Extremidades inferiores: sin edemas
+T143	SYMPTOM 3758 3787	Presiones de llenado normales
+T148	SYMPTOM 3064 3073	cansancio
+T18	SYMPTOM 654 673	realce de gadolinio
+T61	SYMPTOM 2351 2363	eje inferior
+T74	SYMPTOM 2366 2382	transición V1-V2
+T123	SYMPTOM 3173 3198	buena capacidad funcional
+T124	SYMPTOM 3246 3279	Adecuado comportamiento tensional
+T125	SYMPTOM 4815 4827	eje inferior
+T126	SYMPTOM 4829 4844	onda r en V1-V2
+T127	SYMPTOM 4847 4860	transición V2
+T129	SYMPTOM 4919 5012	precocidades (24 ms) con respecto al inicio del QRS entre el seno aórtico izquierdo y derecho
+T131	SYMPTOM 5018 5050	electrograma bipolar fragmentado
+T132	SYMPTOM 5053 5064	qs unipolar
+T133	SYMPTOM 5132 5166	complejos ventricular concordantes
+T140	SYMPTOM 5887 5918	aumento de carga extrasistólica

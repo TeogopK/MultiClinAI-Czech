@@ -1,0 +1,36 @@
+T1	PROCEDURE 3196 3205	criosonda
+T2	PROCEDURE 1904 1916	espirometría
+T3	PROCEDURE 4025 4043	inmunohistoquímica
+T4	PROCEDURE 1975 1995	Radiografía de tórax
+T5	PROCEDURE 1162 1189	auscultación cardiopulmonar
+T6	PROCEDURE 2610 2625	difusión de CO2
+T7	PROCEDURE 3124 3190	criobiopsia a 1-2 cm de la pleura se realiza mediante fluoroscopia
+T8	PROCEDURE 2628 2654	curva de flujos pulmonares
+T9	PROCEDURE 1521 1537	bronco-dilatador
+T10	PROCEDURE 2843 2846	TAC
+T11	PROCEDURE 3292 3303	crioterapia
+T12	PROCEDURE 1575 1592	broncodilatadores
+T13	PROCEDURE 1362 1389	broncodilatadores inhalados
+T14	PROCEDURE 2113 2133	Radiografía de tórax
+T15	PROCEDURE 1392 1403	analgésicos
+T16	PROCEDURE 2975 2991	biopsia pulmonar
+T17	PROCEDURE 3020 3032	broncoscopia
+T18	PROCEDURE 2202 2224	TAC de alta resolución
+T19	PROCEDURE 1029 1047	corticoide tópicos
+T20	PROCEDURE 3080 3091	criobiopsia
+T21	PROCEDURE 1803 1829	exploración cardiopulmonar
+T22	PROCEDURE 2319 2345	Pruebas de difusión de CO2
+T23	PROCEDURE 3553 3578	biopsias transbronquiales
+T24	PROCEDURE 2348 2374	curva de flujos pulmonares
+T25	PROCEDURE 1864 1876	espirometría
+T26	PROCEDURE 1879 1899	Radiografía de torax
+T27	PROCEDURE 3635 3653	aplicación de frío
+T28	PROCEDURE 3764 3781	se requiere sedar
+T29	PROCEDURE 2226 2231	TACAR
+T30	PROCEDURE 2383 2388	TACAR
+T31	PROCEDURE 3713 3730	técnica con pinza
+T32	PROCEDURE 2723 2732	analítica
+T33	PROCEDURE 1147 1158	exploración
+T34	PROCEDURE 2754 2783	determinaciones de ANCA y ANA
+T35	PROCEDURE 3583 3629	sonda se introduce a a través del broncoscopio
+T40	PROCEDURE 2814 2826	radiológicos

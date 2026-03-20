@@ -1,0 +1,25 @@
+T2	PROCEDURE 200 220	subtotal gastrectomy
+T16	PROCEDURE 226 299	reconstruction of the transit by means of a Billroth II gastrojejunostomy
+T17	PROCEDURE 321 328	surgery
+T4	PROCEDURE 392 412	artificial nutrition
+T18	PROCEDURE 422 464	administration of TPN via the central line
+T5	PROCEDURE 628 652	multivitamin preparation
+T6	PROCEDURE 654 657	MVP
+T10	PROCEDURE 675 689	trace elements
+T15	PROCEDURE 755 775	parenteral nutrition
+T7	PROCEDURE 952 1001	supplemented with the same MVP and trace elements
+T14	PROCEDURE 1037 1045	vitamins
+T13	PROCEDURE 1079 1100	infusion of this diet
+T11	PROCEDURE 1316 1332	withdraw the TPN
+T19	PROCEDURE 1386 1393	surgery
+T3	PROCEDURE 1455 1477	exploratory laparotomy
+T20	PROCEDURE 1537 1540	TPN
+T8	PROCEDURE 1576 1630	Kabiven® diet supplemented with the aforementioned MVP
+T21	PROCEDURE 1774 1777	TPN
+T1	PROCEDURE 1993 2027	antibiotic and analgesic treatment
+T23	PROCEDURE 2032 2045	absolute diet
+T22	PROCEDURE 2106 2109	TPN
+T24	PROCEDURE 2130 2201	amino acid and glucose solution (Aminoven®, table III) was administered
+T25	PROCEDURE 2286 2349	lipid emulsion (Intralipid® 10%, table III) was added centrally
+T9	PROCEDURE 2428 2431	MVP
+T12	PROCEDURE 2435 2449	trace elements

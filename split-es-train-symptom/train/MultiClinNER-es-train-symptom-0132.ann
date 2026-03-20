@@ -1,0 +1,13 @@
+T1	SYMPTOM 499 506	vómitos
+T2	SYMPTOM 2477 2489	asintomático
+T3	SYMPTOM 2158 2166	sangrado
+T4	SYMPTOM 2382 2414	buen paso de contraste a duodeno
+T5	SYMPTOM 676 709	retención en el conducto gástrico
+T6	SYMPTOM 211 234	reflujo gastroesofágico
+T7	SYMPTOM 1157 1185	paso filiforme del contraste
+T8	SYMPTOM 1086 1131	stop casi completo y persistente en el píloro
+T9	SYMPTOM 2290 2305	tolerancia oral
+A1	IMAGEN T4
+A2	RESULTADO T5
+A3	IMAGEN T7
+A4	IMAGEN T8

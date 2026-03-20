@@ -1,0 +1,16 @@
+T1	PROCEDURE 85 109	anuloplastia tricuspídea
+T2	PROCEDURE 450 469	exploración clínica
+T3	PROCEDURE 903 923	radiografía de tórax
+T4	PROCEDURE 962 983	hemocultivos seriados
+T5	PROCEDURE 1566 1618	Ecocardiografia Transtorácica (ETT) y Transesofágica
+T6	PROCEDURE 1597 1600	ETT
+T7	PROCEDURE 1620 1623	ETE
+T8	PROCEDURE 1828 1839	TAC craneal
+T9	PROCEDURE 2131 2146	anticoagulación
+T10	PROCEDURE 2197 2220	tratamiento antibiótico
+T11	PROCEDURE 2239 2251	TAC cerebral
+T12	PROCEDURE 2562 2586	estudio ecocardiográfico
+T13	PROCEDURE 2589 2600	TAC craneal
+T14	PROCEDURE 2732 2752	anticoagulación oral
+T15	PROCEDURE 2018 2033	anticoagulación
+T16	PROCEDURE 730 739	analítica

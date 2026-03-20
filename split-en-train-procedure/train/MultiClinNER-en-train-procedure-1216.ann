@@ -1,0 +1,25 @@
+T22	PROCEDURE 448 464	echocardiography
+T24	PROCEDURE 864 938	transthoracic echocardiography (TTEE) and transesophageal echocardiography
+T23	PROCEDURE 878 894	echocardiography
+T4	PROCEDURE 896 900	TTEE
+T5	PROCEDURE 940 944	TTEE
+T18	PROCEDURE 1046 1058	scintigraphy
+T17	PROCEDURE 1063 1075	scintigraphy
+T25	PROCEDURE 1161 1175	blood biometry
+T26	PROCEDURE 1177 1192	blood chemistry
+T33	PROCEDURE 1194 1211	coagulation times
+T36	PROCEDURE 1229 1239	immunology
+T27	PROCEDURE 1244 1258	blood cultures
+T28	PROCEDURE 1707 1721	blood cultures
+T29	PROCEDURE 1826 1840	blood cultures
+T19	PROCEDURE 2113 2117	ECTT
+T34	PROCEDURE 2294 2303	vegectomy
+T38	PROCEDURE 2308 2344	biological aortic valve implantation
+T41	PROCEDURE 2570 2642	manual blood culture was performed using the lysis-centrifugation method
+T30	PROCEDURE 2942 2983	microscopic examination of the subculture
+T37	PROCEDURE 3081 3109	molecular biology procedures
+T35	PROCEDURE 3121 3138	DNA was extracted
+T31	PROCEDURE 3264 3267	PCR
+T32	PROCEDURE 3390 3393	PCR
+T42	PROCEDURE 3889 3942	blood culture with the lysis-centrifugation technique
+T21	PROCEDURE 3984 4055	Histopathological study of the vegetations, with PAS and Grocott stains

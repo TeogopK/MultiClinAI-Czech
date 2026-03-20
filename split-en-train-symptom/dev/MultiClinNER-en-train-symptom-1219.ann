@@ -1,0 +1,75 @@
+T1	SYMPTOM 730 747	vegetative cortex
+T2	SYMPTOM 940 960	non-productive cough
+T3	SYMPTOM 973 998	generalised arthromyalgia
+T4	SYMPTOM 1000 1022	a feeling of dystrophy
+T5	SYMPTOM 1055 1065	orthopnoea
+T6	SYMPTOM 1079 1108	paroxysmal nocturnal dyspnoea
+T7	SYMPTOM 1110 1120	bendopnoea
+T8	SYMPTOM 1171 1182	weight gain
+T9	SYMPTOM 1184 1196	palpitations
+T10	SYMPTOM 1238 1252	abdominal pain
+T11	SYMPTOM 1254 1260	nausea
+T12	SYMPTOM 1262 1270	vomiting
+T13	SYMPTOM 1272 1281	diarrhoea
+T14	SYMPTOM 1485 1494	Conscious
+T15	SYMPTOM 1496 1521	oriented in the 3 spheres
+T16	SYMPTOM 1554 1567	normohydrated
+T17	SYMPTOM 1587 1602	Eupneic at rest
+T18	SYMPTOM 1733 1744	tachycardic
+T19	SYMPTOM 1762 1769	murmurs
+T20	SYMPTOM 1773 1783	extratonos
+T21	SYMPTOM 1809 1835	preserved vesicular murmur
+T22	SYMPTOM 1945 1965	painful on palpation
+T23	SYMPTOM 1979 2000	peritoneal irritation
+T24	SYMPTOM 2004 2021	ascitic semiology
+T25	SYMPTOM 2026 2032	masses
+T26	SYMPTOM 2120 2126	oedema
+T27	SYMPTOM 7123 7129	oedema
+T28	SYMPTOM 7365 7371	oedema
+T29	SYMPTOM 2197 2209	sinus rhythm
+T30	SYMPTOM 2244 2253	normal PR
+T31	SYMPTOM 2255 2265	narrow QRS
+T32	SYMPTOM 4047 4125	PCR for respiratory viruses in nasopharyngeal exudate positive for influenza A
+T33	SYMPTOM 4181 4231	non-dilated left ventricle with global hypokinesia
+T34	SYMPTOM 4246 4273	Non-dilated right ventricle
+T35	SYMPTOM 4766 4793	Non-dilated right ventricle
+T36	SYMPTOM 6658 6685	Non-dilated right ventricle
+T37	SYMPTOM 4181 4207	non-dilated left ventricle
+T38	SYMPTOM 4739 4764	Normal diastolic function
+T39	SYMPTOM 4766 4826	Non-dilated right ventricle with depressed systolic function
+T40	SYMPTOM 4213 4231	global hypokinesia
+T41	SYMPTOM 4719 4737	global hypokinesia
+T42	SYMPTOM 4913 4931	global hypokinesia
+T43	SYMPTOM 8224 8242	global hypokinesia
+T44	SYMPTOM 9552 9570	global hypokinesia
+T45	SYMPTOM 4933 4957	Normal sized left atrium
+T46	SYMPTOM 4959 4986	Right atrium of normal size
+T47	SYMPTOM 5090 5128	Tricuspid valve morphologically normal
+T48	SYMPTOM 6275 6313	Tricuspid valve morphologically normal
+T49	SYMPTOM 5835 5862	Preserved systolic function
+T50	SYMPTOM 6084 6108	normal systolic function
+T51	SYMPTOM 6691 6715	normal systolic function
+T52	SYMPTOM 6395 6421	Aortic root of normal size
+T53	SYMPTOM 6600 6645	normal global and segmental systolic function
+T54	SYMPTOM 7309 7354	normal global and segmental systolic function
+T55	SYMPTOM 6658 6715	Non-dilated right ventricle with normal systolic function
+T56	SYMPTOM 7294 7354	LV and RV with normal global and segmental systolic function
+T57	SYMPTOM 7902 7913	hypotension
+T58	SYMPTOM 8428 8439	hypotension
+T59	SYMPTOM 10104 10115	hypotension
+T60	SYMPTOM 8183 8242	severe left ventricular dysfunction with global hypokinesia
+T61	SYMPTOM 8402 8426	haemodynamic instability
+T62	SYMPTOM 8491 8511	distal hypoperfusion
+T63	SYMPTOM 8513 8530	hyperlactacidemia
+T64	SYMPTOM 8781 8811	positive for influenza A virus
+T65	SYMPTOM 9862 9870	oliguria
+T66	SYMPTOM 10097 10115	severe hypotension
+T67	SYMPTOM 11333 11345	desaturation
+T68	SYMPTOM 11900 11908	bleeding
+T69	SYMPTOM 12416 12448	preserved biventricular function
+T70	SYMPTOM 6731 6769	alterations in segmental contractility
+T71	SYMPTOM 4564 4581	sinus tachycardia
+T72	SYMPTOM 5641 5658	sinus tachycardia
+T73	SYMPTOM 2221 2242	vertical cardiac axis
+T74	SYMPTOM 4988 5050	Trivalve aortic valve, morphologically and functionally normal
+T75	SYMPTOM 6423 6473	Pericardium of normal thickness and refractoriness

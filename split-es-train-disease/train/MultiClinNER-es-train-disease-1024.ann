@@ -1,0 +1,27 @@
+T21	DISEASE 33 54	hipertensión arterial
+T22	DISEASE 57 67	tabaquismo
+T23	DISEASE 333 372	Miocardiopatía hipertrófica obstructiva
+T24	DISEASE 464 478	Hipertrofia VI
+T25	DISEASE 2156 2159	HVI
+T26	DISEASE 2623 2656	salvas de taquicardia ventricular
+T27	DISEASE 2741 2768	Miocardiopatía hipertrófica
+T28	DISEASE 2825 2852	insuficiencia mitral severa
+T29	DISEASE 4084 4104	insuficiencia mitral
+T30	DISEASE 4541 4573	arritmias ventriculares malignas
+T31	DISEASE 4729 4757	edema agudo de pulmón severo
+T32	DISEASE 4776 4790	fallo cardiaco
+T33	DISEASE 4795 4859	obstrucción severa del tracto de salida del ventrículo izquierdo
+T34	DISEASE 4862 4882	insuficiencia mitral
+T35	DISEASE 5220 5249	insuficiencia mitral moderada
+T36	DISEASE 5598 5620	Insuficiencia cardiaca
+T37	DISEASE 5634 5655	edema agudo de pulmón
+T38	DISEASE 5659 5729	Miocardiopatía hipertrófica obstructiva con obstrucción severa al TSVI
+T39	DISEASE 5871 5900	Insuficiencia mitral moderada
+T40	DISEASE 5806 5825	Bloqueo AV completo
+T41	DISEASE 374 385	IM moderada
+T42	DISEASE 2405 2423	IM moderada-severa
+T43	DISEASE 2507 2542	extrasistolia ventricular polimorfa
+T44	DISEASE 1821 1854	hipertrofia ventricular izquierda
+T45	DISEASE 1083 1091	síncopes
+T46	DISEASE 416 439	AI ligeramente dilatada
+#1	AnnotatorNotes T25	 hipertrofia ventricular izquierda

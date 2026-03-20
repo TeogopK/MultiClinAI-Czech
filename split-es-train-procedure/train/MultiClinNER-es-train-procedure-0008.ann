@@ -1,0 +1,20 @@
+T1	PROCEDURE 528 546	exploración física
+T2	PROCEDURE 984 1005	hemocultivos seriados
+T3	PROCEDURE 1095 1114	ecografía abdominal
+T4	PROCEDURE 1272 1334	tomografía computadorizada (TC) abdómino-pélvica con contraste
+T5	PROCEDURE 1478 1511	punción-aspiración con aguja fina
+T6	PROCEDURE 1554 1573	análisis citológico
+T7	PROCEDURE 1669 1691	cultivo microbiológico
+T8	PROCEDURE 1697 1732	estudio de parásitos en el aspirado
+T9	PROCEDURE 1777 1810	antibioterapia de amplio espectro
+T10	PROCEDURE 1858 1892	implantación de drenaje percutáneo
+T11	PROCEDURE 2096 2108	colonoscopia
+T12	PROCEDURE 2207 2232	estudio anatomopatológico
+T13	PROCEDURE 2414 2436	hemicolectomía derecha
+T14	PROCEDURE 2469 2492	quimioterapia adyuvante
+T15	PROCEDURE 1977 1996	control radiológico
+T16	PROCEDURE 2288 2308	estudio de extensión
+T17	PROCEDURE 910 969	serologías para virus hepatotropos, Brucella y Equinococcus
+T18	PROCEDURE 1028 1048	marcadores tumorales
+T19	PROCEDURE 192 218	intervenciones quirúrgicas
+T21	PROCEDURE 564 583	palpación abdominal

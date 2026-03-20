@@ -1,0 +1,24 @@
+T1	SYMPTOM 820 830	estuporosa
+T2	SYMPTOM 832 840	ictérica
+T3	SYMPTOM 998 1019	abdomen era globuloso
+T4	SYMPTOM 1021 1067	doloroso a la palpación en hemiabdomen derecho
+T5	SYMPTOM 965 993	Auscultación pulmonar normal
+T6	SYMPTOM 1186 1198	leucocitosis
+T7	SYMPTOM 1216 1227	neutrofilia
+T8	SYMPTOM 957 963	soplos
+T9	SYMPTOM 2283 2290	nódulos
+T10	SYMPTOM 913 942	Auscultación cardiaca rítmica
+T11	SYMPTOM 703 720	clínica digestiva
+T12	SYMPTOM 1090 1111	irritación peritoneal
+T13	SYMPTOM 2588 2653	Enterobacter cloacae, también aislado en sangre y muestra de PAAF
+T14	SYMPTOM 2160 2166	exitus
+T15	SYMPTOM 766 787	elevación de GGT y FA
+T16	SYMPTOM 1636 1678	imágenes hipodensas en parénquima hepático
+T17	SYMPTOM 847 867	hipotensión arterial
+T20	SYMPTOM 152 169	deterioro clínico
+A1	RESULTADO T6
+A2	RESULTADO T7
+A3	RESULTADO T13
+A4	EXITUS T14
+A5	RESULTADO T15
+A6	IMAGEN T16

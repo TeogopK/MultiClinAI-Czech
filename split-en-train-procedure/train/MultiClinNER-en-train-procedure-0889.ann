@@ -1,0 +1,36 @@
+T54	PROCEDURE 93 95	AP
+T36	PROCEDURE 255 268	arteriography
+T37	PROCEDURE 273 321	embolisation of both internal maxillary arteries
+T3	PROCEDURE 405 407	CT
+T38	PROCEDURE 409 412	MRI
+T39	PROCEDURE 417 420	EEG
+T61	PROCEDURE 737 751	renal function
+T62	PROCEDURE 756 768	electrolytes
+T59	PROCEDURE 813 826	liver profile
+T40	PROCEDURE 848 868	complete blood count
+T41	PROCEDURE 872 875	ECG
+T43	PROCEDURE 974 985	Chest X-ray
+T44	PROCEDURE 1075 1091	Echocardiography
+T48	PROCEDURE 1454 1474	Coronary angiography
+T49	PROCEDURE 1776 1790	Angio-CT aorta
+T50	PROCEDURE 2109 2127	diuretic treatment
+T60	PROCEDURE 2406 2438	aortic valve replacement surgery
+T12	PROCEDURE 2440 2482	repair of the ascending aorta (valved tube
+T51	PROCEDURE 2488 2518	coronary artery bypass surgery
+T55	PROCEDURE 2605 2620	cardiac surgery
+T13	PROCEDURE 2775 2779	NIMV
+T42	PROCEDURE 2987 2990	ECG
+T63	PROCEDURE 3009 3034	myocardial damage enzymes
+T45	PROCEDURE 3048 3064	Echocardiography
+T56	PROCEDURE 3295 3310	Cardiac Surgery
+T57	PROCEDURE 3400 3415	Cardiac Surgery
+T46	PROCEDURE 3562 3578	echocardiography
+T19	PROCEDURE 3986 4051	resection of aortic valve: Mitroflow biological prosthesis no. 25
+T65	PROCEDURE 4168 4209	Internal mammary artery is grafted to ADA
+T58	PROCEDURE 4240 4261	Left pleural drainage
+T64	PROCEDURE 4270 4288	mediastinal drains
+T52	PROCEDURE 4457 4472	cavity cleaning
+T47	PROCEDURE 4746 4762	echocardiography
+T27	PROCEDURE 5261 5288	fat-free heart-healthy diet
+T53	PROCEDURE 5522 5537	Insulin therapy
+T71	PROCEDURE 5786 5852	Aortic valve replacement with Mitflow biological prosthesis no. 25

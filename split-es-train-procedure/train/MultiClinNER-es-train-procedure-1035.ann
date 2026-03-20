@@ -1,0 +1,27 @@
+T45	PROCEDURE 178 196	exploración física
+T46	PROCEDURE 295 322	auscultación cardiopulmonar
+T47	PROCEDURE 486 514	ecocardiograma transtorácico
+T48	PROCEDURE 1382 1394	hemocultivos
+T49	PROCEDURE 1450 1468	electrocardiograma
+T50	PROCEDURE 1601 1631	ecocardiografía transesofágica
+T51	PROCEDURE 2192 2229	tomografía computarizada (TC) craneal
+T52	PROCEDURE 2390 2424	resonancia magnética (RM) cerebral
+T53	PROCEDURE 2640 2658	TC toracoabdominal
+T54	PROCEDURE 2916 2927	cateterismo
+T55	PROCEDURE 3016 3039	tratamiento antibiótico
+T56	PROCEDURE 3257 3285	ecocardiograma transtorácico
+T57	PROCEDURE 3633 3655	tratamiento deplectivo
+T58	PROCEDURE 3658 3690	ventilación mecánica no invasiva
+T59	PROCEDURE 3797 3894	resección de la masa auricular mediante resección de la fosa oval a través de la aurícula derecha
+T60	PROCEDURE 3897 3981	extirpación del tumor y de su base de implantación a través de la aurícula izquierda
+T61	PROCEDURE 3983 4032	Se resecó por completo el aparato valvular mitral
+T62	PROCEDURE 4035 4085	se implantó una prótesis biológica porcina St Jude
+T66	PROCEDURE 1109 1119	bioquímica
+T67	PROCEDURE 1057 1068	coagulación
+T68	PROCEDURE 1297 1315	sedimento de orina
+T69	PROCEDURE 1368 1394	Se extrajeron hemocultivos
+T70	PROCEDURE 4166 4201	Reacción en Cadena de la Polimerasa
+T71	PROCEDURE 4203 4233	PCR universal del gen 16S rARN
+T78	PROCEDURE 934 943	analítica
+T80	PROCEDURE 4114 4156	diagnóstico anatomopatológico e infeccioso
+T86	PROCEDURE 3757 3779	tratamiento quirúrgico

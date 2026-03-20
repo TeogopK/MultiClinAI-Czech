@@ -1,0 +1,44 @@
+T1	SYMPTOM 547 587	deterioro importante de su función renal
+T2	SYMPTOM 1321 1349	nódulos pulmonares múltiples
+T3	SYMPTOM 1776 1814	lesiones macroscópicas en la vía aérea
+T4	SYMPTOM 3364 3375	proteinuria
+T5	SYMPTOM 2584 2692	serología viral fue negativa para el virus de la inmunodeficiencia humana y los virus de las hepatitis B y C
+T6	SYMPTOM 3378 3392	microhematuria
+T7	SYMPTOM 242 283	prueba de la tuberculina cutánea positiva
+T8	SYMPTOM 721 727	edemas
+T9	SYMPTOM 1631 1685	tinción de Ziehl-Nielsen se observaban escasos bacilos
+T10	SYMPTOM 2303 2333	quantiFERON), que fue positivo
+T11	SYMPTOM 2697 2719	complemento fue normal
+T12	SYMPTOM 3279 3321	riñones de tamaño y ecoestructura normales
+T13	SYMPTOM 662 674	asintomática
+T14	SYMPTOM 796 834	auscultación cardiopulmonar era normal
+T15	SYMPTOM 975 1010	buena diferenciación corticomedular
+T16	SYMPTOM 1133 1155	afectación linfomatosa
+T17	SYMPTOM 1607 1623	necrosis caseosa
+T18	SYMPTOM 1557 1594	inflamación granulomatosa epitelioide
+T19	SYMPTOM 1891 1920	lavado bronquial fue negativo
+T20	SYMPTOM 1819 1886	lavado broncoalveolar evidenció una moderada cantidad de linfocitos
+T21	SYMPTOM 3769 3844	No se observaron microorganismos en las tinciones de PAS y de Ziehl-Nielsen
+T22	SYMPTOM 3008 3041	cadenas ligeras en orina negativa
+T23	SYMPTOM 2451 2579	anticuerpos antinucleares (ANA), anticitoplasma de neutrófilos (ANCA), anti-ADN y antimembrana basal glomerular fueron negativos
+T26	SYMPTOM 2045 2055	granulomas
+T28	SYMPTOM 4131 4158	mejoría de la función renal
+T29	SYMPTOM 731 790	se palpaban adenopatías laterocervicales o retroauriculares
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T9
+A8	RESULTADO T10
+A9	RESULTADO T11
+A10	IMAGEN T12
+A11	IMAGEN T15
+A12	RESULTADO T17
+A13	RESULTADO T18
+A14	RESULTADO T19
+A15	RESULTADO T20
+A16	RESULTADO T21
+A17	RESULTADO T22
+A18	RESULTADO T23

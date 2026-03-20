@@ -1,0 +1,17 @@
+T1	PROCEDURE 236 256	abdominal ultrasound
+T9	PROCEDURE 345 347	CT
+T10	PROCEDURE 352 355	MRI
+T14	PROCEDURE 694 722	anterior radical nephrectomy
+T15	PROCEDURE 728 759	cavotomy to remove the thrombus
+T4	PROCEDURE 777 810	right aorto-caval lymphadenectomy
+T7	PROCEDURE 816 836	anatomo-pathological
+T21	PROCEDURE 1176 1185	operation
+T5	PROCEDURE 1265 1274	Palpation
+T11	PROCEDURE 1306 1323	MRI of the pelvis
+T3	PROCEDURE 1489 1495	biopsy
+T8	PROCEDURE 1612 1633	histological sections
+T6	PROCEDURE 1904 1919	total penectomy
+T28	PROCEDURE 1928 1992	disease-free surgical border could be confirmed intraoperatively
+T2	PROCEDURE 2238 2253	cranial CT scan
+T31	PROCEDURE 2257 2277	CT scan of the chest
+T33	PROCEDURE 2432 2441	operation

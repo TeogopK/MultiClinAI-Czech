@@ -1,0 +1,34 @@
+T13	DISEASE 99 131	allergic reactions to medication
+T18	DISEASE 162 174	hypertension
+T19	DISEASE 176 189	dyslipidaemia
+T20	DISEASE 191 282	Chronic obstructive pulmonary disease (COPD) secondary to bilateral calcific pachypleuritis
+T21	DISEASE 230 234	COPD
+T45	DISEASE 345 363	Mild cor pulmonale
+T12	DISEASE 365 433	Ischaemic stroke in the territory of the left middle cerebral artery
+T11	DISEASE 452 483	Stage 3A chronic kidney disease
+T23	DISEASE 485 506	Spinal canal stenosis
+T24	DISEASE 1630 1637	ascites
+T25	DISEASE 2915 2950	first degree atrioventricular block
+T46	DISEASE 3018 3043	Posteroinferior hemiblock
+T10	DISEASE 3259 3309	Left ventricle not dilated, severely hypertrophied
+T26	DISEASE 3473 3498	Mild mitral insufficiency
+T43	DISEASE 3567 3586	Dilated left atrium
+T9	DISEASE 3632 3655	pulmonary insufficiency
+T44	DISEASE 3745 3777	Slightly dilated right ventricle
+T27	DISEASE 3861 3884	tricuspid insufficiency
+T28	DISEASE 3886 3921	Pericardium with posterior effusion
+T29	DISEASE 4548 4594	LV with moderate-severe concentric hypertrophy
+T47	DISEASE 4819 4838	RV with hypertrophy
+T30	DISEASE 5389 5414	transthyretin amyloidosis
+T31	DISEASE 5497 5516	cardiac amyloidosis
+T36	DISEASE 5608 5618	acute COPD
+T37	DISEASE 5823 5843	pericardial effusion
+T38	DISEASE 5857 5870	heart failure
+T32	DISEASE 5978 5997	cardiac amyloidosis
+T33	DISEASE 6128 6147	cardiac amyloidosis
+T8	DISEASE 6552 6592	cardiac amyloidosis due to transthyretin
+T40	DISEASE 6976 6989	hyperkalaemia
+T41	DISEASE 7104 7124	systolic dysfunction
+T42	DISEASE 7274 7286	dysautonomia
+T39	DISEASE 7819 7832	Heart failure
+T7	DISEASE 7854 7907	Cardiac amyloidosis due to transthyretin, senile form

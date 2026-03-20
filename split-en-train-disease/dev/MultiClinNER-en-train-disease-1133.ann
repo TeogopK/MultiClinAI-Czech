@@ -1,0 +1,35 @@
+T1	DISEASE 82 96	drug allergies
+T32	DISEASE 154 201	Ebstein's anomaly type congenital heart disease
+T33	DISEASE 236 239	WPW
+T2	DISEASE 396 447	orthodromic paroxysmal supraventricular tachycardia
+T3	DISEASE 449 453	PSVT
+T36	DISEASE 763 796	upper respiratory tract infection
+T37	DISEASE 1001 1025	congestive heart failure
+T50	DISEASE 1045 1056	hypotension
+T38	DISEASE 1727 1747	deep vein thrombosis
+T39	DISEASE 1874 1899	Right bundle branch block
+T4	DISEASE 1901 1905	RBBB
+T31	DISEASE 2591 2623	severely dilated right ventricle
+T8	DISEASE 2707 2736	Severely dilated right atrium
+T51	DISEASE 2908 2949	Tricuspid valve with Ebstein's morphology
+T11	DISEASE 3382 3402	atrial septal defect
+T10	DISEASE 3404 3407	ASD
+T12	DISEASE 3447 3450	PFO
+T40	DISEASE 3464 3481	Ebstein's disease
+T41	DISEASE 3489 3512	tricuspid regurgitation
+T43	DISEASE 3518 3541	ventricular dysfunction
+T15	DISEASE 3543 3562	right-to-left shunt
+T14	DISEASE 3579 3582	PFO
+T16	DISEASE 3649 3665	right-left shunt
+T20	DISEASE 4420 4451	right-to-left interatrial shunt
+T21	DISEASE 4466 4469	PFO
+T22	DISEASE 4475 4497	platypnoea-ortodesoxia
+T25	DISEASE 5047 5078	Platypnoea-ortodesoxia syndrome
+T26	DISEASE 5080 5083	PFO
+T27	DISEASE 5089 5129	significant spontaneous right-left shunt
+T28	DISEASE 5131 5185	Congenital heart disease of the Ebstein's anomaly type
+T45	DISEASE 5187 5245	Global respiratory failure secondary to intracardiac shunt
+T46	DISEASE 5335 5366	Massive tricuspid regurgitation
+T47	DISEASE 5384 5406	pulmonary hypertension
+T48	DISEASE 5424 5449	Intermittent WPW syndrome
+T49	DISEASE 5463 5479	orthodromic TPSV

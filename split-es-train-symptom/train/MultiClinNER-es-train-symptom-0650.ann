@@ -1,0 +1,14 @@
+T1	SYMPTOM 488 517	mucosa depapilada del duodeno
+T2	SYMPTOM 2137 2191	parestesias ocasionales y leves en miembros inferiores
+T3	SYMPTOM 2114 2126	asintomático
+T4	SYMPTOM 1261 1269	sangrado
+T5	SYMPTOM 522 537	sangrado activo
+T6	SYMPTOM 2197 2219	electromiograma normal
+T7	SYMPTOM 392 414	deposiciones melénicas
+T8	SYMPTOM 614 629	sangrado activo
+T9	SYMPTOM 712 755	equimosis en duodeno, yeyuno, íleon y ciego
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6
+A5	RESULTADO T9

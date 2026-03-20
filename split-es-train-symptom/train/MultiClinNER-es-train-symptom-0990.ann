@@ -1,0 +1,50 @@
+T1	SYMPTOM 77 82	mareo
+T2	SYMPTOM 85 101	malestar general
+T3	SYMPTOM 114 135	pérdida de conciencia
+T4	SYMPTOM 466 483	dolores torácicos
+T5	SYMPTOM 485 498	palpitaciones
+T6	SYMPTOM 500 510	sudoración
+T7	SYMPTOM 513 520	palidez
+T8	SYMPTOM 896 916	dolor centrotorácico
+T9	SYMPTOM 933 949	cortejo vegativo
+T11	SYMPTOM 965 978	palpitaciones
+T12	SYMPTOM 1241 1246	mareo
+T13	SYMPTOM 1249 1265	malestar general
+T14	SYMPTOM 1278 1299	pérdida de conciencia
+T16	SYMPTOM 1847 1859	QRS estrecho
+T17	SYMPTOM 2165 2171	soplos
+T18	SYMPTOM 2175 2180	roces
+T19	SYMPTOM 2220 2240	ruidos sobreañadidos
+T20	SYMPTOM 2242 2270	Abdomen: blando y depresible
+T21	SYMPTOM 2285 2290	masas
+T22	SYMPTOM 2294 2302	megalias
+T23	SYMPTOM 2304 2334	Miembros inferiores: No edemas
+T24	SYMPTOM 2336 2379	Pulsos periféricos conservados y simétricos
+T25	SYMPTOM 2413 2426	Ritmo sinusal
+T26	SYMPTOM 2450 2519	alteraciones en la conducción aurículoventricular ni intraventricular
+T27	SYMPTOM 2566 2599	alteraciones de la repolarización
+T29	SYMPTOM 2848 2882	VD de tamaño y función conservados
+T30	SYMPTOM 2971 3004	aumento de presión venosa central
+T31	SYMPTOM 3021 3048	Patrón intersticial bibasal
+T32	SYMPTOM 3050 3069	Engrosamiento hilio
+T34	SYMPTOM 3823 3842	pupilas midriáticas
+T36	SYMPTOM 4226 4245	alargamiento del QT
+T37	SYMPTOM 4384 4411	alteraciones electrolíticas
+T38	SYMPTOM 4548 4567	alargamiento del QT
+T39	SYMPTOM 4903 4955	elevación del segmento ST >4mm II, III, aVF, V5 y V6
+T41	SYMPTOM 5766 5791	hemodinámicamente estable
+T42	SYMPTOM 5915 5924	orientada
+T43	SYMPTOM 5938 5956	focalidad residual
+T44	SYMPTOM 5998 6017	amnesia anterógrada
+T45	SYMPTOM 6023 6078	dificultad para retener los acontecimientos posteriores
+T47	SYMPTOM 6391 6405	dolor torácico
+T136	SYMPTOM 2129 2159	Auscultación Cardiaca: Rítmica
+T10	SYMPTOM 4056 4102	alteraciones segmentarias de la contractilidad
+T15	SYMPTOM 4608 4627	QT corregido normal
+T140	SYMPTOM 3257 3296	Estructuras de la línea media centradas
+T168	SYMPTOM 4208 4221	preexcitación
+T176	SYMPTOM 5321 5342	vasoespasmo mantenido
+T177	SYMPTOM 4115 4140	ventrículo derecho normal
+T28	SYMPTOM 3210 3255	Sistema ventricular y surcos sin alteraciones
+T33	SYMPTOM 1372 1400	frecuencia cardiaca muy alta
+T35	SYMPTOM 1422 1442	dejar de notar pulso

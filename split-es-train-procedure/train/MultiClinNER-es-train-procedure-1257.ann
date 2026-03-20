@@ -1,0 +1,38 @@
+T39	PROCEDURE 34 52	exploración física
+T40	PROCEDURE 277 288	antitérmico
+T41	PROCEDURE 523 537	desfibrilación
+T42	PROCEDURE 540 566	reanimación cardiopulmonar
+T43	PROCEDURE 708 716	intubado
+T44	PROCEDURE 873 878	parto
+T45	PROCEDURE 1206 1224	exploración física
+T46	PROCEDURE 1339 1359	ventilación mecánica
+T47	PROCEDURE 1546 1549	ECG
+T48	PROCEDURE 1752 1767	Ecocardiografía
+T49	PROCEDURE 2239 2268	Angio TAC arterias coronarias
+T50	PROCEDURE 2608 2628	ventilación mecánica
+T51	PROCEDURE 2643 2655	sueroterapia
+T52	PROCEDURE 2688 2708	ventilación mecánica
+T53	PROCEDURE 3257 3301	perfusión continua de sedoanalgesia profunda
+T54	PROCEDURE 3352 3374	hipotermia terapéutica
+T55	PROCEDURE 3453 3476	monitorización continua
+T56	PROCEDURE 3481 3484	EEG
+T57	PROCEDURE 3645 3681	Retirada progresiva de sedoanalgesia
+T58	PROCEDURE 3949 3963	ecocardiograma
+T59	PROCEDURE 3975 3988	TAC coronario
+T60	PROCEDURE 4164 4184	cateterismo cardiaco
+T61	PROCEDURE 4217 4230	TAC coronario
+T62	PROCEDURE 4249 4303	reimplantación de arteria coronaria izquierda en aorta
+T63	PROCEDURE 4548 4602	Reimplantación de arteria coronaria izquierda en aorta
+T64	PROCEDURE 4641 4661	ventilación mecánica
+T69	PROCEDURE 1403 1406	ACP
+T70	PROCEDURE 3904 3917	Función renal
+T71	PROCEDURE 3593 3608	Recalentamiento
+T73	PROCEDURE 2630 2640	hipotermia
+T74	PROCEDURE 3082 3092	hipotermia
+T75	PROCEDURE 2581 2595	monitorización
+T76	PROCEDURE 447 461	se conecta DAI
+T77	PROCEDURE 718 724	sedado
+T78	PROCEDURE 1319 1325	Sedado
+T81	PROCEDURE 2912 2941	retirada lenta de FiO2 y PEEP
+T82	PROCEDURE 2982 3012	perfusión continua de dopamina
+T84	PROCEDURE 3553 3571	oximetría cerebral

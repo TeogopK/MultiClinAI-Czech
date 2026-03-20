@@ -1,0 +1,30 @@
+T1	SYMPTOM 101 115	dolor torácico
+T2	SYMPTOM 241 266	Claudicación intermitente
+T3	SYMPTOM 1154 1179	dolor en miembro inferior
+T4	SYMPTOM 1276 1305	dolor centrotorácico opresivo
+T5	SYMPTOM 1326 1344	cortejo vegetativo
+T6	SYMPTOM 1358 1373	dolor abdominal
+T7	SYMPTOM 1459 1467	Sudoroso
+T9	SYMPTOM 1598 1638	soplo sistólico eyectivo en foco aórtico
+T10	SYMPTOM 1661 1672	soplo suave
+T11	SYMPTOM 1695 1724	Murmullo vesicular conservado
+T12	SYMPTOM 1726 1729	MVC
+T13	SYMPTOM 1735 1755	ruidos sobreañadidos
+T14	SYMPTOM 1757 1787	Abdomen: globuloso, depresible
+T15	SYMPTOM 1792 1797	masas
+T16	SYMPTOM 1799 1807	doloroso
+T17	SYMPTOM 1851 1891	Miembro inferior izquierdo frío y pálido
+T18	SYMPTOM 1897 1920	ausencia de pulso pedio
+T19	SYMPTOM 2406 2484	elevación del ST menor de 1 mm en derivaciones de cara inferior y cara lateral
+T20	SYMPTOM 2541 2554	ritmo sinusal
+T21	SYMPTOM 2556 2574	ondas Q inferiores
+T22	SYMPTOM 2579 2596	ondas T negativas
+T23	SYMPTOM 2642 2673	índice cardiotorácico aumentado
+T24	SYMPTOM 2675 2734	Congestión bilateral con redistribución vascular a vértices
+T26	SYMPTOM 3718 3786	ventrículo derecho (VD) no dilatado con contractilidad global normal
+T8	SYMPTOM 2494 2517	R altas en precordiales
+T102	SYMPTOM 3431 3449	aquinesia inferior
+T103	SYMPTOM 3452 3472	hipoquinesia lateral
+T104	SYMPTOM 3477 3509	contractilidad global preservada
+T105	SYMPTOM 4164 4242	Ventrículo izquierdo (VI) de tamaño normal con contractilidad global deprimida
+T106	SYMPTOM 5013 5104	miembro inferior izquierdo (moviliza dedos con buena perfusión y presencia de pulso distal)

@@ -1,0 +1,51 @@
+T89	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 254 289	continuous positive airway pressure
+T91	PROCEDURE 291 295	CPAP
+T2	PROCEDURE 327 371	Implantation of mechanical aortic prosthesis
+T92	PROCEDURE 412 426	Echocardiogram
+T98	PROCEDURE 478 512	normofunctioning aortic prosthesis
+T100	PROCEDURE 1061 1081	aortic valve surgery
+T101	PROCEDURE 1170 1185	Echocardioscopy
+T131	PROCEDURE 1514 1533	empirical treatment
+T90	PROCEDURE 1553 1573	Physical examination
+T133	PROCEDURE 1620 1626	triage
+T3	PROCEDURE 1692 1705	serum therapy
+T102	PROCEDURE 1848 1868	Cardiac auscultation
+T103	PROCEDURE 1929 1951	Pulmonary auscultation
+T104	PROCEDURE 2057 2074	Electrocardiogram
+T105	PROCEDURE 2076 2079	ECG
+T108	PROCEDURE 2698 2709	Chest X-ray
+T106	PROCEDURE 2740 2743	ECG
+T109	PROCEDURE 2903 2931	transthoracic echocardiogram
+T111	PROCEDURE 3826 3841	Catheterisation
+T4	PROCEDURE 4028 4101	Balloon aspiration and angioplasty was performed in the LAD and distal Cx
+T5	PROCEDURE 4036 4046	aspiration
+T113	PROCEDURE 4190 4220	Transesophageal echocardiogram
+T6	PROCEDURE 4497 4522	mitral valve was explored
+T115	PROCEDURE 4944 4958	blood cultures
+T7	PROCEDURE 5011 5029	new blood cultures
+T116	PROCEDURE 5015 5029	blood cultures
+T117	PROCEDURE 5031 5033	HC
+T8	PROCEDURE 5062 5080	antibiotic therapy
+T9	PROCEDURE 5124 5153	empirical treatment for fever
+T118	PROCEDURE 5330 5343	fluid therapy
+T95	PROCEDURE 5526 5540	echocardiogram
+T107	PROCEDURE 5569 5572	ECG
+T110	PROCEDURE 5855 5883	transthoracic echocardiogram
+T112	PROCEDURE 6062 6077	catheterisation
+T119	PROCEDURE 6099 6116	revascularisation
+T114	PROCEDURE 6269 6299	transesophageal echocardiogram
+T10	PROCEDURE 6301 6304	TEE
+T12	PROCEDURE 6393 6396	TEE
+T120	PROCEDURE 6398 6420	orotracheal intubation
+T121	PROCEDURE 6425 6470	connection to invasive mechanical ventilation
+T11	PROCEDURE 6662 6698	transjugular pacemaker was implanted
+T122	PROCEDURE 6933 6948	cardiac surgery
+T123	PROCEDURE 6967 7018	aortic valve replacement with biological prosthesis
+T124	PROCEDURE 7020 7074	tricuspid valve replacement with biological prosthesis
+T125	PROCEDURE 7079 7100	mitral ring placement
+T126	PROCEDURE 7209 7249	continuous venovenous haemodiafiltration
+T128	PROCEDURE 7304 7326	mechanical ventilation
+T129	PROCEDURE 8076 8093	Thromboaspiration
+T130	PROCEDURE 8098 8133	balloon angioplasty over LAD and Cx
+T38	PROCEDURE 8167 8239	Emergent surgery for aortic, tricuspid and mitral ring valve replacement

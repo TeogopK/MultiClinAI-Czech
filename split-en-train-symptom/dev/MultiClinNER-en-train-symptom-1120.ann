@@ -1,0 +1,42 @@
+T1	SYMPTOM 277 286	dizziness
+T2	SYMPTOM 349 406	central thoracic oppression and interscapular irradiation
+T3	SYMPTOM 408 432	haemodynamic instability
+T4	SYMPTOM 2737 2761	haemodynamic instability
+T5	SYMPTOM 4374 4398	haemodynamic instability
+T6	SYMPTOM 836 845	Conscious
+T7	SYMPTOM 850 858	oriented
+T8	SYMPTOM 860 878	generalised pallor
+T9	SYMPTOM 982 990	Afebrile
+T10	SYMPTOM 992 1022	Cardiac auscultation: rhythmic
+T11	SYMPTOM 1039 1046	murmurs
+T12	SYMPTOM 1048 1059	tachycardic
+T13	SYMPTOM 1085 1103	bilateral crackles
+T14	SYMPTOM 1165 1171	masses
+T15	SYMPTOM 1175 1184	megaliths
+T16	SYMPTOM 1224 1230	oedema
+T18	SYMPTOM 1293 1305	sinus rhythm
+T19	SYMPTOM 1327 1339	ST elevation
+T20	SYMPTOM 1354 1374	subepicardial lesion
+T21	SYMPTOM 3576 3608	Left atrium of normal dimensions
+T22	SYMPTOM 3861 3882	Estimated normal PAPs
+T24	SYMPTOM 5801 5834	contractile segmental asymmetries
+T25	SYMPTOM 218 225	syncope
+T26	SYMPTOM 902 914	hypoperfused
+T27	SYMPTOM 4814 4841	akinesia of apical segments
+T32	SYMPTOM 812 834	Poor general condition
+T33	SYMPTOM 880 890	Tachypnoea
+T34	SYMPTOM 892 900	sweating
+T35	SYMPTOM 1121 1161	Abdomen: soft, depressible, non-painful,
+T36	SYMPTOM 1198 1219	peritoneal irritation
+T23	SYMPTOM 1471 1503	Concomitant ST-segment elevation
+T37	SYMPTOM 1832 1865	Vitamin B12 and folic acid normal
+T38	SYMPTOM 1867 1912	Autoimmunity and coagulation studies negative
+T39	SYMPTOM 3173 3192	LV slightly dilated
+T40	SYMPTOM 3412 3458	Medial lateral and anterior medial hypokinesia
+T41	SYMPTOM 3468 3500	segments contractility preserved
+T42	SYMPTOM 3610 3631	Normal right chambers
+T43	SYMPTOM 3633 3652	RV normocontractile
+T44	SYMPTOM 3729 3742	thin leaflets
+T45	SYMPTOM 3744 3763	mild central reflux
+T46	SYMPTOM 3818 3859	IVC not dilated with inspiratory collapse
+T17	SYMPTOM 5587 5607	ST segment elevation

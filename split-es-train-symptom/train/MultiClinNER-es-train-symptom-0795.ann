@@ -1,0 +1,57 @@
+T1	SYMPTOM 254 266	asintomático
+T2	SYMPTOM 316 326	diaforesis
+T3	SYMPTOM 329 349	sensación distérmica
+T4	SYMPTOM 384 404	vómitos alimenticios
+T5	SYMPTOM 410 416	fiebre
+T6	SYMPTOM 434 449	dolor abdominal
+T7	SYMPTOM 451 502	Asintomático desde el punto de vista cardiovascular
+T8	SYMPTOM 648 659	somnolencia
+T9	SYMPTOM 661 676	Palidez cutánea
+T10	SYMPTOM 681 690	livideces
+T12	SYMPTOM 732 756	Tonos cardiacos rítmicos
+T13	SYMPTOM 762 768	soplos
+T14	SYMPTOM 805 834	murmullo vesicular conservado
+T15	SYMPTOM 840 850	estertores
+T16	SYMPTOM 855 930	abdomen en ese momento es depresible, con dolor generalizado a la palpación
+T18	SYMPTOM 953 974	irritación peritoneal
+T19	SYMPTOM 980 1012	edema en extremidades inferiores
+T20	SYMPTOM 1197 1232	aumento de reactantes de fase aguda
+T21	SYMPTOM 1278 1290	leucocitosis
+T22	SYMPTOM 1370 1383	disnea brusca
+T24	SYMPTOM 1422 1462	leve disminución del nivel de conciencia
+T25	SYMPTOM 1464 1475	somnolencia
+T26	SYMPTOM 1828 1842	mala perfusión
+T29	SYMPTOM 2514 2525	taquicardia
+T31	SYMPTOM 3314 3340	senos costofrénicos libres
+T32	SYMPTOM 3342 3368	Parénquima pulmonar normal
+T33	SYMPTOM 3406 3415	PR normal
+T34	SYMPTOM 3417 3429	QRS estrecho
+T35	SYMPTOM 3431 3459	Patrón qR en DII, DIII y aVF
+T36	SYMPTOM 3464 3489	elevación del segmento ST
+T37	SYMPTOM 3501 3516	Descenso del ST
+T41	SYMPTOM 4570 4590	Urocultivo: negativo
+T42	SYMPTOM 4592 4619	Aspirado traqueal: negativo
+T43	SYMPTOM 4700 4726	inestabilidad hemodinámica
+T44	SYMPTOM 6208 6217	febrícula
+T74	SYMPTOM 7805 7834	Disfunción sistólica moderada
+T78	SYMPTOM 705 730	mala perfusión periférica
+T80	SYMPTOM 3631 3687	función sistólica de VI al menos moderadamente deprimida
+T179	SYMPTOM 1561 1580	taquicardia sinusal
+T11	SYMPTOM 1975 1997	hipoquinesia inferior,
+T17	SYMPTOM 3568 3589	Descenso del ST plano
+T27	SYMPTOM 3720 3748	hipoquinesia severa inferior
+T191	SYMPTOM 4294 4324	aumento de densidad perihiliar
+T198	SYMPTOM 2349 2371	deterioro hemodinámico
+T204	SYMPTOM 5843 5873	función ventricular preservada
+T205	SYMPTOM 1388 1419	importante trabajo respiratorio
+T207	SYMPTOM 6805 6832	líquido libre seropurulento
+T211	SYMPTOM 4329 4362	redistribución vascular bilateral
+T213	SYMPTOM 3279 3312	silueta cardiaca de tamaño normal
+T23	SYMPTOM 1945 1970	hipocontractilidad global
+T30	SYMPTOM 3261 3277	paucisintomático
+T38	SYMPTOM 3692 3717	hipocontractilidad global
+T40	SYMPTOM 4534 4568	Hemocultivos: Bacteroides vulgatus
+T154	SYMPTOM 5587 5651	sonda nasogástrica con débito de 1 litro de contenido fecaloideo
+T155	SYMPTOM 6340 6376	Bacteroides vulgatus en hemocultivos
+T157	SYMPTOM 7154 7185	disfunción sistólica leve de VI
+T158	SYMPTOM 7183 7210	VI por hipocinesia inferior

@@ -1,0 +1,39 @@
+T51	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 462 476	ecocardiograma
+T53	PROCEDURE 933 951	rehidratación oral
+T54	PROCEDURE 954 965	antiemético
+T55	PROCEDURE 1224 1242	electrocardiograma
+T56	PROCEDURE 1351 1370	analítica de sangre
+T57	PROCEDURE 1813 1831	Exploración física
+T58	PROCEDURE 1960 1983	Exploración neurológica
+T59	PROCEDURE 2164 2185	Auscultación pulmonar
+T60	PROCEDURE 2251 2272	Auscultación cardiaca
+T61	PROCEDURE 2727 2742	Perfil hepático
+T63	PROCEDURE 2945 2954	Hemograma
+T64	PROCEDURE 3092 3110	Electrocardiograma
+T65	PROCEDURE 3112 3115	ECG
+T66	PROCEDURE 3250 3270	Radiografía de tórax
+T67	PROCEDURE 3352 3371	Ecografía abdominal
+T68	PROCEDURE 3834 3862	Ecocardiograma transtorácico
+T69	PROCEDURE 4897 4916	ecografía abdominal
+T70	PROCEDURE 4975 5003	ecocardiograma transtorácico
+T71	PROCEDURE 5285 5315	diuréticos por vía intravenosa
+T72	PROCEDURE 5525 5568	perfusión continua de diuréticos e inotropo
+T73	PROCEDURE 5582 5606	corticoides intravenosos
+T74	PROCEDURE 5622 5644	biopsia endomiocárdica
+T75	PROCEDURE 5648 5667	resonancia cardiaca
+T76	PROCEDURE 5751 5791	ecocardiografía de control a pie de cama
+T77	PROCEDURE 6080 6099	trasplante cardiaco
+T78	PROCEDURE 6147 6163	implante de ECMO
+T79	PROCEDURE 6355 6371	implante de ECMO
+T14	PROCEDURE 1621 1630	anamnesis
+T15	PROCEDURE 1832 1846	Signos vitales
+T123	PROCEDURE 3040 3050	Hemostasia
+T130	PROCEDURE 5926 5970	se implanta balón aórtico de contrapulsacion
+T42	PROCEDURE 6622 6634	RCP avanzada
+T47	PROCEDURE 6315 6331	implante de BACP
+T132	PROCEDURE 2552 2571	Analítica de sangre
+T151	PROCEDURE 2573 2583	bioquímica
+T156	PROCEDURE 6516 6528	intervención
+T133	PROCEDURE 4960 4962	AS
+T135	PROCEDURE 5972 5976	BACP

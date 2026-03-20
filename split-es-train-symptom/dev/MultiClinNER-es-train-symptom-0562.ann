@@ -1,0 +1,8 @@
+T1	SYMPTOM 189 198	fotofobia
+T2	SYMPTOM 159 186	sensación de cuerpo extraño
+T3	SYMPTOM 727 765	botón corneal se mantiene transparente
+T4	SYMPTOM 267 280	edema corneal
+T5	SYMPTOM 771 776	edema
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5

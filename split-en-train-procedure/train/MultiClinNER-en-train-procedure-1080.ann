@@ -1,0 +1,33 @@
+T90	PROCEDURE 245 265	physical examination
+T91	PROCEDURE 863 883	Physical examination
+T92	PROCEDURE 1122 1142	physical examination
+T93	PROCEDURE 1184 1187	ECG
+T121	PROCEDURE 1404 1431	myocardial necrosis markers
+T94	PROCEDURE 1485 1496	Chest X-ray
+T9	PROCEDURE 1551 1565	CT angiography
+T95	PROCEDURE 1880 1908	Transthoracic echocardiogram
+T97	PROCEDURE 2314 2325	Cardiac MRI
+T99	PROCEDURE 3105 3139	Diagnostic cardiac catheterisation
+T101	PROCEDURE 3168 3179	aortography
+T102	PROCEDURE 3404 3434	Transesophageal echocardiogram
+T120	PROCEDURE 3842 3855	Liver enzymes
+T119	PROCEDURE 3935 3947	biochemistry
+T104	PROCEDURE 3964 3973	haemogram
+T6	PROCEDURE 4032 4046	CT angiography
+T5	PROCEDURE 4199 4213	CT angiography
+T123	PROCEDURE 4314 4362	markers of myocardial necrosis and heart failure
+T105	PROCEDURE 4556 4570	blood cultures
+T96	PROCEDURE 4638 4666	transthoracic echocardiogram
+T107	PROCEDURE 4670 4691	transesophageal study
+T98	PROCEDURE 5199 5217	stress cardiac MRI
+T4	PROCEDURE 5295 5298	MRI
+T100	PROCEDURE 5608 5642	diagnostic cardiac catheterisation
+T108	PROCEDURE 5897 5941	pharmacological and electrical cardioversion
+T106	PROCEDURE 6102 6116	blood cultures
+T109	PROCEDURE 6344 6366	orotracheal intubation
+T110	PROCEDURE 6371 6393	mechanical ventilation
+T111	PROCEDURE 6406 6445	inotropic support with vasoactive drugs
+T103	PROCEDURE 6449 6479	transesophageal echocardiogram
+T112	PROCEDURE 6511 6520	intubated
+T118	PROCEDURE 6667 6689	Cardiovascular Surgery
+T117	PROCEDURE 7340 7354	echocardiogram

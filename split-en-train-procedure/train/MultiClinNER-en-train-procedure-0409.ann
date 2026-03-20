@@ -1,0 +1,15 @@
+T1	PROCEDURE 485 505	Physical examination
+T7	PROCEDURE 597 627	cardiorespiratory auscultation
+T17	PROCEDURE 717 726	palpation
+T3	PROCEDURE 867 876	analgesia
+T4	PROCEDURE 897 903	NSAIDs
+T5	PROCEDURE 971 977	biopsy
+T2	PROCEDURE 1004 1024	physical examination
+T23	PROCEDURE 1122 1181	haematology, differential blood count, complete blood count
+T12	PROCEDURE 1191 1203	biochemistry
+T8	PROCEDURE 1209 1243	liver, kidney and thyroid function
+T11	PROCEDURE 1251 1263	proteinogram
+T9	PROCEDURE 1410 1421	chest X-ray
+T10	PROCEDURE 1473 1480	Mantoux
+T35	PROCEDURE 1517 1550	Epstein Barr virus (EBV) serology
+T6	PROCEDURE 1679 1685	biopsy

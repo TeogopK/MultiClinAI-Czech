@@ -1,0 +1,38 @@
+T1	SYMPTOM 636 644	asthenia
+T2	SYMPTOM 646 654	anorexia
+T3	SYMPTOM 656 662	nausea
+T4	SYMPTOM 664 673	dizziness
+T5	SYMPTOM 675 689	abdominal pain
+T28	SYMPTOM 701 735	stool output through the colostomy
+T29	SYMPTOM 742 780	significant increase in fistula output
+T30	SYMPTOM 766 818	fistula output, sometimes with a haematic appearance
+T14	SYMPTOM 827 835	afebrile
+T6	SYMPTOM 880 915	diffuse pain on abdominal palpation
+T7	SYMPTOM 959 991	decreased level of consciousness
+T23	SYMPTOM 1318 1329	dehydration
+T19	SYMPTOM 1352 1370	metabolic acidosis
+T39	SYMPTOM 1372 1392	severe hyponatraemia
+T20	SYMPTOM 1397 1410	hyperkalaemia
+T42	SYMPTOM 1623 1656	drop in haemoglobin concentration
+T16	SYMPTOM 1951 1960	conscious
+T17	SYMPTOM 1962 1985	haemodynamically stable
+T45	SYMPTOM 1995 2001	oedema
+T46	SYMPTOM 2022 2035	hyponatraemia
+T21	SYMPTOM 2040 2053	hyperkalaemia
+T31	SYMPTOM 2328 2372	paresthesia in the hands and perioral region
+T8	SYMPTOM 2471 2503	decreased level of consciousness
+T10	SYMPTOM 2508 2520	bradypsychia
+T32	SYMPTOM 2527 2564	preserved motility in the extremities
+T50	SYMPTOM 2642 2690	fluctuating level of consciousness deterioration
+T11	SYMPTOM 2697 2704	aphasia
+T22	SYMPTOM 2709 2727	paraparesis in LUL
+T12	SYMPTOM 2741 2750	stuporous
+T15	SYMPTOM 2760 2768	afebrile
+T13	SYMPTOM 2906 2929	Head CT scan was normal
+T33	SYMPTOM 3436 3460	severe hypophosphataemia
+T25	SYMPTOM 3466 3481	hypomagnesaemia
+T26	SYMPTOM 3486 3498	hypokalaemia
+T9	SYMPTOM 3954 3975	neurological symptoms
+T24	SYMPTOM 4290 4301	dehydration
+T18	SYMPTOM 4591 4613	normal adrenal reserve
+T27	SYMPTOM 4786 4821	good clinical and analytical status

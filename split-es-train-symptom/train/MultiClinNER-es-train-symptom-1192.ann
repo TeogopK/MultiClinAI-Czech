@@ -1,0 +1,52 @@
+T1	SYMPTOM 403 415	Asintomático
+T2	SYMPTOM 548 561	palpitaciones
+T3	SYMPTOM 602 620	sensación de mareo
+T4	SYMPTOM 651 664	palpitaciones
+T5	SYMPTOM 858 872	dolor torácico
+T6	SYMPTOM 876 882	disnea
+T7	SYMPTOM 971 996	hemodinámicamente estable
+T8	SYMPTOM 1126 1147	ingurgitación yugular
+T9	SYMPTOM 1172 1197	ruidos cardiacos rítmicos
+T10	SYMPTOM 1202 1208	soplos
+T11	SYMPTOM 1233 1262	murmullo vesicular conservado
+T12	SYMPTOM 1264 1292	Abdomen: blando, no doloroso
+T13	SYMPTOM 1298 1303	masas
+T14	SYMPTOM 1308 1316	megalias
+T15	SYMPTOM 1318 1352	Extremidades inferiores: no edemas
+T16	SYMPTOM 1404 1433	pulsos presentes y simétricos
+T17	SYMPTOM 1468 1479	taquicardia
+T19	SYMPTOM 1549 1574	ausencia de onda Q en aVR
+T20	SYMPTOM 1779 1825	hemograma y coagulación en rango de normalidad
+T21	SYMPTOM 1827 1882	Función renal e iones dentro de los parámetros normales
+T22	SYMPTOM 1928 1939	taquicardia
+T23	SYMPTOM 1941 1973	taquicardia regular de QRS ancho
+T25	SYMPTOM 2024 2044	ausencia de Q en aVR
+T27	SYMPTOM 2200 2213	ritmo sinusal
+T28	SYMPTOM 2224 2236	QRS estrecho
+T30	SYMPTOM 2290 2349	Ondas T negativas en cara inferior y precordiales laterales
+T31	SYMPTOM 2367 2415	ventrículo izquierdo no dilatado ni hipertrófico
+T32	SYMPTOM 2472 2542	acinesia en segmentos basales y medios de cara inferolateral y lateral
+T33	SYMPTOM 2547 2625	ventrículo derecho muestra función sistólica conservada, con estructura normal
+T36	SYMPTOM 3082 3122	Infiltración grasa ventricular izquierda
+T37	SYMPTOM 3125 3167	anomalías en la contractilidad segmentaria
+T38	SYMPTOM 3468 3493	estable hemodinámicamente
+T39	SYMPTOM 3518 3529	taquicardia
+T41	SYMPTOM 3690 3766	ventrículo derecho mantiene estructura normal y función sistólica conservada
+T42	SYMPTOM 3935 3948	ritmo sinusal
+T43	SYMPTOM 4031 4044	ritmo sinusal
+T44	SYMPTOM 4046 4058	asintomático
+T45	SYMPTOM 4172 4183	taquicardia
+T46	SYMPTOM 4261 4274	ritmo sinusal
+T48	SYMPTOM 4717 4729	asintomático
+T49	SYMPTOM 4735 4748	ritmo sinusal
+T50	SYMPTOM 4839 4906	ventrículo izquierdo una llamativa infiltración grasa subepicárdica
+T83	SYMPTOM 905 912	síncope
+T26	SYMPTOM 2739 2769	Vena cava inferior no dilatada
+T29	SYMPTOM 2828 2879	árbol coronario de normal distribución y desarrollo
+T35	SYMPTOM 3615 3685	acinesia en segmentos basales y medios a nivel inferolateral y lateral
+T40	SYMPTOM 4566 4619	árbol coronario de distribución normal y sin lesiones
+T47	SYMPTOM 5142 5185	mutación patogénica para MCA en el gen FLNC
+T111	SYMPTOM 2881 2899	Dominancia derecha
+T97	SYMPTOM 2073 2120	Complejo ventricular con eje eléctrico superior
+T102	SYMPTOM 2669 2704	morfología normal en las 4 válvulas
+T110	SYMPTOM 1491 1500	QRS ancho

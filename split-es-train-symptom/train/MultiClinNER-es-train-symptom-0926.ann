@@ -1,0 +1,24 @@
+T1	SYMPTOM 671 685	dolor torácico
+T2	SYMPTOM 778 796	cortejo vegetativo
+T3	SYMPTOM 846 859	palpitaciones
+T4	SYMPTOM 956 983	Inestable hemodinámicamente
+T5	SYMPTOM 1912 1930	regular perfundido
+T6	SYMPTOM 1932 1943	taquipneico
+T7	SYMPTOM 1945 1975	Auscultación cardiaca: rítmico
+T8	SYMPTOM 1977 1989	taquicárdico
+T9	SYMPTOM 2006 2012	soplos
+T10	SYMPTOM 2014 2028	tonos apagados
+T11	SYMPTOM 2053 2076	crepitantes bilaterales
+T12	SYMPTOM 2078 2109	Miembros inferiores: sin edemas
+T14	SYMPTOM 3057 3138	Función sistólica del ventrículo derecho (VD) en límite inferior de la normalidad
+T17	SYMPTOM 3639 3685	Función sistólica global severamente deprimida
+T18	SYMPTOM 3921 3978	Función sistólica global límite inferior de la normalidad
+T19	SYMPTOM 4122 4168	Función sistólica global severamente deprimida
+T27	SYMPTOM 605 612	síncope
+T26	SYMPTOM 1819 1854	estable clínica y hemodinámicamente
+T103	SYMPTOM 2420 2454	aquinesia inferior e inferolateral
+T104	SYMPTOM 2457 2493	disquinesia de los segmentos basales
+T13	SYMPTOM 2909 2928	VI con hipoquinesia
+T15	SYMPTOM 3832 3919	VD con tamaño, espesor y contractilidad global y segmentaria dentro de límites normales
+T127	SYMPTOM 1487 1519	coronaria izquierda sin lesiones
+T142	SYMPTOM 2753 2791	Árbol coronario izquierdo sin lesiones

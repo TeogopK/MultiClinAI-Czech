@@ -1,0 +1,42 @@
+T51	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T5	PROCEDURE 1174 1194	electrocardiographic
+T6	PROCEDURE 1286 1301	shocks at 100 J
+T52	PROCEDURE 1328 1348	Physical examination
+T53	PROCEDURE 1488 1512	Neurological examination
+T54	PROCEDURE 1534 1554	Cardiac auscultation
+T55	PROCEDURE 1589 1611	pulmonary auscultation
+T56	PROCEDURE 1641 1662	Abdominal examination
+T7	PROCEDURE 1673 1681	palpable
+T9	PROCEDURE 1873 1889	Laboratory tests
+T73	PROCEDURE 1970 1981	coagulation
+T57	PROCEDURE 2317 2334	electrocardiogram
+T58	PROCEDURE 2336 2339	ECG
+T62	PROCEDURE 2420 2446	out-of-hospital monitoring
+T59	PROCEDURE 2473 2476	ECG
+T11	PROCEDURE 2961 2989	transthoracic echocardiogram
+T70	PROCEDURE 3395 3429	Cardiac magnetic resonance imaging
+T75	PROCEDURE 3431 3434	MRI
+T76	PROCEDURE 3437 3513	MRI study with anatomical sequences in the axial plane enhanced in T1 and T2
+T64	PROCEDURE 3664 3685	Anatomical assessment
+T65	PROCEDURE 4042 4067	gadolinium administration
+T66	PROCEDURE 4416 4429	Genetic study
+T12	PROCEDURE 4431 4452	channelopathies panel
+T74	PROCEDURE 4647 4667	intensive monitoring
+T69	PROCEDURE 4687 4701	defibrillation
+T77	PROCEDURE 4705 4724	morphological study
+T63	PROCEDURE 4744 4774	transthoracic echocardiography
+T14	PROCEDURE 4779 4805	cardiac magnetic resonance
+T15	PROCEDURE 4807 4810	CMR
+T60	PROCEDURE 4905 4908	ECG
+T71	PROCEDURE 5051 5108	implantation of an implantable cardioverter defibrillator
+T72	PROCEDURE 5414 5436	beta-blocker treatment
+T67	PROCEDURE 5482 5495	genetic study
+T61	PROCEDURE 5718 5721	ECG
+T80	PROCEDURE 5735 5751	provocation test
+T81	PROCEDURE 5820 5836	provocation test
+T68	PROCEDURE 5841 5854	genetic study
+T78	PROCEDURE 6163 6182	morphological study
+T18	PROCEDURE 6526 6532	shocks
+T19	PROCEDURE 6766 6769	new
+T20	PROCEDURE 7001 7036	implantable automatic defibrillator
+T79	PROCEDURE 7101 7122	morphological studies

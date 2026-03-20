@@ -1,0 +1,17 @@
+T7	PROCEDURE 418 429	gastroscopy
+T3	PROCEDURE 678 698	Physical examination
+T6	PROCEDURE 833 853	cardiac auscultation
+T11	PROCEDURE 974 983	palpation
+T20	PROCEDURE 1169 1180	Blood tests
+T22	PROCEDURE 1305 1323	arterial blood gas
+T8	PROCEDURE 1600 1611	Coagulation
+T2	PROCEDURE 1637 1654	electrocardiogram
+T5	PROCEDURE 1745 1756	Chest X-ray
+T12	PROCEDURE 1823 1848	correct the hyperkalaemia
+T9	PROCEDURE 2026 2056	volume replacement with saline
+T27	PROCEDURE 2115 2198	actocortin (100 mg i.v. bolus followed by 400 mg in continuous intravenous infusion
+T10	PROCEDURE 2247 2274	vasopressor amine perfusion
+T4	PROCEDURE 2384 2408	corticosteroid treatment
+T13	PROCEDURE 2412 2438	determine adrenal function
+T31	PROCEDURE 2500 2585	Determination of serum anti-adrenal capsule antibodies by indirect immunofluorescence
+T1	PROCEDURE 2782 2794	Abdominal CT

@@ -1,0 +1,16 @@
+T19	PROCEDURE 246 266	physical examination
+T20	PROCEDURE 267 287	Physical examination
+T21	PROCEDURE 521 543	Pulmonary auscultation
+T22	PROCEDURE 636 653	Electrocardiogram
+T23	PROCEDURE 753 767	Echocardiogram
+T24	PROCEDURE 880 910	Transesophageal echocardiogram
+T25	PROCEDURE 1019 1047	transthoracic echocardiogram
+T2	PROCEDURE 1051 1053	CT
+T3	PROCEDURE 1109 1111	CT
+T26	PROCEDURE 1294 1305	Cardiac MRI
+T27	PROCEDURE 1421 1436	Catheterisation
+T29	PROCEDURE 1438 1459	Right catheterisation
+T30	PROCEDURE 1478 1494	ventriculography
+T31	PROCEDURE 1658 1674	spectral Doppler
+T32	PROCEDURE 1679 1682	DTI
+T6	PROCEDURE 1904 1950	Percutaneous dilatation of the pulmonary valve

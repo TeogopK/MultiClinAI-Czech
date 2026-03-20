@@ -1,0 +1,18 @@
+T12	PROCEDURE 97 124	immunosuppressant treatment
+T10	PROCEDURE 257 268	salicylates
+T3	PROCEDURE 391 411	biological treatment
+T1	PROCEDURE 501 521	physical examination
+T16	PROCEDURE 861 877	laboratory tests
+T8	PROCEDURE 965 986	acute phase reactants
+T11	PROCEDURE 1092 1103	salicylates
+T22	PROCEDURE 1152 1165	serum therapy
+T23	PROCEDURE 1170 1196	broad-spectrum antibiotics
+T4	PROCEDURE 1567 1591	renal Doppler ultrasound
+T5	PROCEDURE 1785 1799	hyperhydration
+T29	PROCEDURE 1801 1821	urine alkalinisation
+T6	PROCEDURE 1823 1836	haemodialysis
+T7	PROCEDURE 2019 2036	abdominopelvic CT
+T9	PROCEDURE 2529 2549	radiological finding
+T34	PROCEDURE 2605 2623	abdomino-pelvic MR
+T13	PROCEDURE 2793 2797	died
+T2	PROCEDURE 2882 2890	necropsy

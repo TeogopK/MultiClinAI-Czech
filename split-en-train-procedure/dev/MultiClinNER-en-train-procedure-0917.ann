@@ -1,0 +1,23 @@
+T61	PROCEDURE 29 49	physical examination
+T62	PROCEDURE 828 848	physical examination
+T63	PROCEDURE 1109 1129	Cardiac auscultation
+T64	PROCEDURE 1194 1216	Pulmonary auscultation
+T65	PROCEDURE 1923 1940	Electrocardiogram
+T66	PROCEDURE 2113 2124	Chest X-ray
+T67	PROCEDURE 2491 2521	Transthoracic echocardiography
+T68	PROCEDURE 3213 3224	Cardiac MRI
+T82	PROCEDURE 4101 4113	Coronography
+T69	PROCEDURE 4464 4489	Multislice CT angiography
+T76	PROCEDURE 4628 4646	Diuretic treatment
+T70	PROCEDURE 4669 4707	vasodilator and beta-blocker treatment
+T83	PROCEDURE 4749 4778	intravenous diuretic infusion
+T75	PROCEDURE 4803 4822	oral ACE inhibitors
+T71	PROCEDURE 4835 4850	anticoagulation
+T78	PROCEDURE 4949 4962	beta-blockers
+T79	PROCEDURE 5294 5307	beta-blockers
+T81	PROCEDURE 5502 5511	diuretics
+T80	PROCEDURE 5549 5562	beta-blockers
+T73	PROCEDURE 5738 5760	cardiovascular surgery
+T77	PROCEDURE 6200 6218	diuretic treatment
+T72	PROCEDURE 6265 6280	anticoagulation
+T74	PROCEDURE 6285 6301	antihypertensive

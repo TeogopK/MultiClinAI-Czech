@@ -1,0 +1,60 @@
+T84	PROCEDURE 499 521	prostatectomía radical
+T85	PROCEDURE 541 559	Biopsia prostática
+T86	PROCEDURE 747 769	hernioplastia inguinal
+T87	PROCEDURE 1255 1281	TC toraco-abdomino-pélvico
+T88	PROCEDURE 1561 1579	EXPLORACIÓN FÍSICA
+T89	PROCEDURE 1916 1937	auscultación cardiaca
+T90	PROCEDURE 1980 2001	auscultación pulmonar
+T91	PROCEDURE 2355 2373	Sedimento de orina
+T92	PROCEDURE 2376 2397	electrolitos en orina
+T93	PROCEDURE 2416 2431	Perfil lipídico
+T94	PROCEDURE 2540 2562	Marcadores prostáticos
+T95	PROCEDURE 2646 2655	Hemograma
+T96	PROCEDURE 2658 2669	coagulación
+T97	PROCEDURE 2688 2691	ECG
+T98	PROCEDURE 2864 2897	Radiografía de tórax PA + lateral
+T99	PROCEDURE 3032 3075	TC toraco-abdomino-pélvico con contraste IV
+T100	PROCEDURE 3217 3245	Ecocardografía transtorácica
+T101	PROCEDURE 3934 3973	Prueba de esfuerzo electrocardiográfica
+T103	PROCEDURE 4536 4551	Coronariografía
+T104	PROCEDURE 5047 5148	intervencionismo coronario percutáneo con angioplastia con balón farmacoactivo sobre primera diagonal
+T105	PROCEDURE 5155 5224	implante de dos stents solapados (BioFreedom) en ADA proximal y media
+T106	PROCEDURE 5252 5279	doble terapia antiagregante
+T107	PROCEDURE 5466 5484	Sedimento de orina
+T108	PROCEDURE 5487 5508	electrolitos en orina
+T109	PROCEDURE 5527 5542	Perfil lipídico
+T110	PROCEDURE 5649 5662	Transaminasas
+T111	PROCEDURE 5723 5732	Hemograma
+T112	PROCEDURE 5735 5746	coagulación
+T113	PROCEDURE 5909 5924	ecocardiografía
+T114	PROCEDURE 5986 6025	prueba de esfuerzo electrocardiográfica
+T115	PROCEDURE 6552 6567	ecocardiografía
+T116	PROCEDURE 6705 6723	prueba de esfuerzo
+T117	PROCEDURE 6759 6777	electrocardiograma
+T118	PROCEDURE 6779 6782	ECG
+T119	PROCEDURE 6922 6932	ergometría
+T120	PROCEDURE 7183 7193	ergometría
+T121	PROCEDURE 7209 7224	coronariografía
+T122	PROCEDURE 7361 7389	revascularización percutánea
+T123	PROCEDURE 7395 7415	doble antiagregación
+T124	PROCEDURE 7433 7448	coronariografía
+T125	PROCEDURE 7559 7633	implante de dos stents farmacoactivos solapados en la ADA proximal y media
+T126	PROCEDURE 7636 7691	angioplastia con balón farmacoactivo en la rama diagona
+T127	PROCEDURE 7790 7811	terapia antiagregante
+T128	PROCEDURE 8493 8542	doble terapia antiagregante con AAS + clopidogrel
+T129	PROCEDURE 8583 8612	antiagregación simple con AAS
+T130	PROCEDURE 8638 8660	prostatectomía radical
+T131	PROCEDURE 8833 8861	Revascularización percutánea
+T132	PROCEDURE 8863 8914	angioplastia con balón con fármaco en rama diagonal
+T133	PROCEDURE 8917 8954	implante de dos stents farmacoactivos
+T151	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T152	PROCEDURE 2279 2292	Función renal
+T153	PROCEDURE 5390 5403	Función renal
+T154	PROCEDURE 1297 1336	estadiaje de adenocarcinoma de próstata
+T155	PROCEDURE 5665 5686	enzimas de colestasis
+T173	PROCEDURE 2203 2212	Analítica
+T174	PROCEDURE 5349 5358	Analítica
+T191	PROCEDURE 7271 7278	cirugía
+T192	PROCEDURE 7883 7928	cirugía requerida por la patología prostática
+T201	PROCEDURE 2106 2117	exploración
+T205	PROCEDURE 474 497	intervención quirúrgica

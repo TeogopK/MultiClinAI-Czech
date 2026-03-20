@@ -1,0 +1,49 @@
+T59	PROCEDURE 640 651	cateterismo
+T60	PROCEDURE 806 878	intervención coronaria percutánea (ICP) con dos stents recubiertos en CX
+T61	PROCEDURE 1005 1051	angioplastia coronaria transluminal percutánea
+T62	PROCEDURE 1053 1057	ACTP
+T63	PROCEDURE 1086 1097	cateterismo
+T64	PROCEDURE 1135 1138	ICP
+T65	PROCEDURE 1154 1223	implantación de sendos stents recubiertos en DA, DX y otros dos en CD
+T66	PROCEDURE 1266 1280	ecocardiograma
+T67	PROCEDURE 1559 1579	doble antiagregación
+T68	PROCEDURE 1664 1681	antirretrovirales
+T69	PROCEDURE 2205 2223	Perfil psicosocial
+T70	PROCEDURE 2557 2584	Tratamiento antirretroviral
+T71	PROCEDURE 2732 2755	rehabilitación cardiaca
+T72	PROCEDURE 2824 2842	EXPLORACIÓN FÍSICA
+T73	PROCEDURE 3082 3085	ECG
+T74	PROCEDURE 3197 3213	Ergoespirometría
+T75	PROCEDURE 4085 4094	hemograma
+T76	PROCEDURE 4358 4372	Perfil férrico
+T77	PROCEDURE 4375 4384	hemograma
+T78	PROCEDURE 4582 4596	Ecocardiograma
+T79	PROCEDURE 4876 4892	Ergoespirometría
+T80	PROCEDURE 4917 4929	espirometría
+T82	PROCEDURE 6859 6873	ecocardiograma
+T83	PROCEDURE 7019 7042	rehabilitación cardiaca
+T84	PROCEDURE 7062 7078	ergoespirometría
+T85	PROCEDURE 7872 7895	rehabilitación cardiaca
+T86	PROCEDURE 8067 8082	perfil lipídico
+T87	PROCEDURE 8687 8758	Revascularización con stents recubiertos en CX (1o tiempo), DA, DX y CD
+T88	PROCEDURE 8873 8900	tratamiento antirretroviral
+T89	PROCEDURE 8952 8975	rehabilitación cardiaca
+T90	PROCEDURE 9295 9315	doble antiagregación
+T110	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T111	PROCEDURE 4519 4532	Función renal
+T113	PROCEDURE 4944 4969	Prueba de esfuerzo máxima
+T115	PROCEDURE 1768 1782	betabloqueante
+T116	PROCEDURE 4072 4082	bioquímica
+T117	PROCEDURE 6137 6200	entrenamiento aeróbico y de fuerza, monitorizado con telemetría
+T118	PROCEDURE 7747 7753	iPCSK9
+T120	PROCEDURE 7467 7482	perfil lipídico
+T121	PROCEDURE 3238 3266	prueba de esfuerzo submáxima
+T122	PROCEDURE 8039 8061	tratamiento con iPCSK9
+T123	PROCEDURE 7663 7745	tratamiento con inhibidores de la proproteína convertasa subtilisina/kexina tipo 9
+T124	PROCEDURE 841 844	ICP
+T134	PROCEDURE 3853 3862	Analítica
+T135	PROCEDURE 4395 4404	Analítica
+T136	PROCEDURE 4131 4140	Analítica
+T137	PROCEDURE 5474 5483	Analítica
+T149	PROCEDURE 7416 7425	analítica
+T150	PROCEDURE 8100 8153	analítica de control (10/10/18) con ultracentrifugado

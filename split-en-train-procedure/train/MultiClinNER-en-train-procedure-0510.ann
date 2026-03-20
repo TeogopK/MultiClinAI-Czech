@@ -1,0 +1,21 @@
+T1	PROCEDURE 152 172	abdominal ultrasound
+T2	PROCEDURE 177 203	magnetic resonance imaging
+T18	PROCEDURE 205 208	MRI
+T4	PROCEDURE 461 491	ultrasound-guided renal biopsy
+T23	PROCEDURE 654 665	Examination
+T24	PROCEDURE 738 748	blood test
+T5	PROCEDURE 819 833	Echocardiogram
+T6	PROCEDURE 838 849	cardiac MRI
+T8	PROCEDURE 917 933	Electromyography
+T9	PROCEDURE 1010 1020	sweat test
+T16	PROCEDURE 1051 1074	pilocarpine stimulation
+T14	PROCEDURE 1083 1111	ophthalmological examination
+T3	PROCEDURE 1557 1570	Genetic study
+T19	PROCEDURE 1586 1657	genomic deoxyribonucleic acid (DNA) was extracted from dried blood spot
+T15	PROCEDURE 1662 1705	coding gene fragments were amplified by PCR
+T17	PROCEDURE 1707 1797	Direct sequencing of the 7 exons of the GLA gene was performed using a capillary sequencer
+T10	PROCEDURE 2293 2320	Hormone replacement therapy
+T11	PROCEDURE 2541 2554	haemodialysis
+T12	PROCEDURE 2590 2615	living donor kidney graft
+T13	PROCEDURE 2828 2836	biopsies
+T7	PROCEDURE 3083 3094	cardiac MRI

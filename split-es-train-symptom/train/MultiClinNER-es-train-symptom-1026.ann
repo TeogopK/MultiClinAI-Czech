@@ -1,0 +1,58 @@
+T1	SYMPTOM 1225 1244	disnea de esfuerzos
+T2	SYMPTOM 1264 1304	edematización de extremidades inferiores
+T3	SYMPTOM 1357 1399	ventrículo izquierdo (VI) de tamaño normal
+T4	SYMPTOM 1428 1456	función sistólica conservada
+T5	SYMPTOM 2362 2389	disnea de mínimos esfuerzos
+T6	SYMPTOM 2391 2400	bendopnea
+T7	SYMPTOM 2402 2432	aumento de perímetro abdominal
+T8	SYMPTOM 2435 2456	edematización de EEII
+T9	SYMPTOM 2467 2475	ortopnea
+T10	SYMPTOM 2479 2482	DPN
+T11	SYMPTOM 2514 2539	dolor precordial opresivo
+T12	SYMPTOM 2602 2620	cortejo vegetativo
+T13	SYMPTOM 2835 2842	Afebril
+T14	SYMPTOM 2844 2858	Normohidratado
+T15	SYMPTOM 2863 2899	tinte ictérico de piel y conjuntivas
+T16	SYMPTOM 2901 2922	Disnea conversacional
+T17	SYMPTOM 2928 2958	trabajo respiratorio en reposo
+T18	SYMPTOM 2960 2981	Ingurgitación yugular
+T19	SYMPTOM 2983 3013	Auscultación cardiaca: rítmica
+T20	SYMPTOM 3015 3032	ruidos protésicos
+T21	SYMPTOM 3037 3084	soplo diastólico en foco aórtico y paraesternal
+T22	SYMPTOM 3128 3147	hipofonesis bibasal
+T23	SYMPTOM 3153 3164	crepitantes
+T24	SYMPTOM 3208 3252	Abdomen globuloso, con circulación colateral
+T27	SYMPTOM 3311 3372	EEII con edemas con fóvea hasta tercio medio de ambas piernas
+T28	SYMPTOM 3404 3417	ritmo sinusal
+T30	SYMPTOM 4070 4092	VI de dimensión normal
+T32	SYMPTOM 4129 4163	Función sistólica VI global normal
+T36	SYMPTOM 5581 5602	masas intracavitarias
+T37	SYMPTOM 5703 5714	FEVI normal
+T38	SYMPTOM 5745 5774	Patrón diastólico restrictivo
+T39	SYMPTOM 5873 5903	aurícula izquierda sin trombos
+T40	SYMPTOM 5920 5950	Orejuela izquierda sin trombos
+T42	SYMPTOM 7018 7029	FEVI normal
+T43	SYMPTOM 7060 7089	Patrón diastólico restrictivo
+T44	SYMPTOM 7769 7784	FEVI conservada
+T45	SYMPTOM 7890 7914	pérdida de 13 kg de peso
+T46	SYMPTOM 7916 7950	disminución de perímetro abdominal
+T47	SYMPTOM 7969 7975	edemas
+T48	SYMPTOM 8056 8065	ictericia
+T49	SYMPTOM 8975 9000	hemodinámicamente estable
+T50	SYMPTOM 9186 9217	disminución de presión pulmonar
+T60	SYMPTOM 518 525	síncope
+T166	SYMPTOM 4300 4329	Patrón diastólico restrictivo
+T161	SYMPTOM 641 712	función sistólica de ventrículo izquierdo ligeramoderadamente deprimida
+T162	SYMPTOM 1531 1558	aquinesia de pared inferior
+T163	SYMPTOM 1618 1654	Válvula mitral (VM) normofuncionante
+T25	SYMPTOM 4406 4470	Ventrículo derecho (VD) de dimensión y contractilidad conservada
+T31	SYMPTOM 7786 7807	Aquinesia inferobasal
+T178	SYMPTOM 5952 5980	Septo interauricular íntegro
+T183	SYMPTOM 3461 3506	alteraciones secundarias de la repolarización
+T193	SYMPTOM 3917 3937	focos consolidativos
+T206	SYMPTOM 4232 4250	sobrecarga derecha
+T34	SYMPTOM 4355 4373	elevación de PTDVI
+T35	SYMPTOM 8127 8153	elevación de GGT, FA y LDH
+T165	SYMPTOM 3843 3872	Aumento de trama intersticial
+T26	SYMPTOM 5522 5542	Líquido perihepático
+T33	SYMPTOM 8076 8117	cifras elevadas mantenidas de bilirrubina

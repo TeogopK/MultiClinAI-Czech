@@ -1,0 +1,25 @@
+T51	PROCEDURE 268 280	radioterapia
+T52	PROCEDURE 585 603	electrocardiograma
+T53	PROCEDURE 605 608	ECG
+T54	PROCEDURE 857 878	angioplastia primaria
+T55	PROCEDURE 1151 1154	ECG
+T56	PROCEDURE 1161 1179	exploración física
+T57	PROCEDURE 1700 1715	Ecocardiografía
+T58	PROCEDURE 2103 2106	ECG
+T59	PROCEDURE 2275 2287	hemocultivos
+T60	PROCEDURE 2317 2343	TAC de tórax con contraste
+T62	PROCEDURE 2706 2719	TAC de cuello
+T63	PROCEDURE 3113 3143	pericardiocentesis terapéutica
+T64	PROCEDURE 3425 3447	TAC de tórax y abdomen
+T65	PROCEDURE 3729 3736	drenaje
+T66	PROCEDURE 3857 3892	tratamiento antibiótico intravenoso
+T67	PROCEDURE 3929 3941	antibiograma
+T68	PROCEDURE 4044 4067	tratamiento antibiótico
+T69	PROCEDURE 4160 4208	pericardiocentesis urgente y ventana pericárdica
+T70	PROCEDURE 4260 4272	toracoscopia
+T73	PROCEDURE 1053 1064	cateterismo
+T74	PROCEDURE 4002 4030	drenaje completo del líquido
+T75	PROCEDURE 2245 2272	Cultivo líquido pericárdico
+T76	PROCEDURE 3767 3792	soporte catecolaminérgico
+T78	PROCEDURE 3566 3573	cultivo
+T79	PROCEDURE 1508 1517	Analítica

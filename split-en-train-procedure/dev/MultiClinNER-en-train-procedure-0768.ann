@@ -1,0 +1,19 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T58	PROCEDURE 286 310	percutaneous angioplasty
+T1	PROCEDURE 330 425	implantation of a stent covered by a thrombotic occlusion of the proximal right coronary artery
+T59	PROCEDURE 509 525	Echocardiography
+T60	PROCEDURE 1029 1045	echocardiography
+T63	PROCEDURE 1921 1941	PHYSICAL EXAMINATION
+T64	PROCEDURE 2061 2081	Cardiac auscultation
+T65	PROCEDURE 2118 2140	Pulmonary auscultation
+T2	PROCEDURE 2348 2357	ANALYTICS
+T66	PROCEDURE 2718 2735	ELECTROCARDIOGRAM
+T67	PROCEDURE 2737 2740	ECG
+T61	PROCEDURE 2944 2960	echocardiography
+T3	PROCEDURE 3720 3746	CARDIAC MAGNETIC RESONANCE
+T4	PROCEDURE 4024 4104	gradient echo sequence with long TI (550 ms) after administration of IV contrast
+T5	PROCEDURE 4548 4591	surgical intervention of the pseudoaneurysm
+T69	PROCEDURE 4896 4914	imaging techniques
+T68	PROCEDURE 5091 5112	anticoagulant therapy
+T6	PROCEDURE 5277 5300	anticoagulant treatment
+T7	PROCEDURE 5530 5605	Revascularisation with drug-eluting stent to proximal right coronary artery

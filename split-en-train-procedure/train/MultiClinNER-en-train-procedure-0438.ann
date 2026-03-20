@@ -1,0 +1,11 @@
+T3	PROCEDURE 997 1008	chest X-ray
+T7	PROCEDURE 1058 1067	Expansion
+T1	PROCEDURE 1107 1118	antibiotics
+T5	PROCEDURE 1152 1175	catecholamine perfusion
+T2	PROCEDURE 1249 1259	Intubation
+T8	PROCEDURE 1264 1300	connection to mechanical ventilation
+T9	PROCEDURE 1354 1373	respiratory support
+T17	PROCEDURE 1375 1412	Continuous venovenous haemofiltration
+T19	PROCEDURE 1450 1471	blood volume overload
+T4	PROCEDURE 1683 1696	blood culture
+T6	PROCEDURE 1701 1719	bronchial aspirate

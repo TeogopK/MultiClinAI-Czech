@@ -1,0 +1,52 @@
+T1	SYMPTOM 282 290	dyspnoea
+T44	SYMPTOM 292 303	diaphoresis
+T49	SYMPTOM 308 378	intense oppressive central thoracic pain radiating to both upper limbs
+T21	SYMPTOM 456 465	twitching
+T3	SYMPTOM 486 509	trembling in both hands
+T50	SYMPTOM 514 559	inability to speak due to abundant salivation
+T19	SYMPTOM 564 577	bronchorrhoea
+T4	SYMPTOM 794 819	haemodynamically unstable
+T36	SYMPTOM 1035 1088	ST elevation in II-III-aVF, from V3 to V6 and V3R-V4R
+T5	SYMPTOM 1094 1126	specular decrease in I-aVL-V1-V2
+T7	SYMPTOM 1306 1318	ST elevation
+T10	SYMPTOM 1501 1509	afebrile
+T11	SYMPTOM 1540 1546	miosis
+T13	SYMPTOM 1560 1571	sialorrhoea
+T15	SYMPTOM 1647 1682	inspiratory and expiratory wheezing
+T6	SYMPTOM 1684 1713	crackling rales in both bases
+T48	SYMPTOM 1743 1753	secretions
+T16	SYMPTOM 1755 1790	Abdomen globular, soft, depressible
+T28	SYMPTOM 1808 1865	Extremities with fasciculations and generalised myoclonus
+T51	SYMPTOM 2531 2582	cardiothoracic index at the high limit of normality
+T45	SYMPTOM 2584 2628	Interstitial infiltrate in both lower fields
+T22	SYMPTOM 2708 2722	non-dilated LV
+T46	SYMPTOM 3135 3150	right dominance
+T52	SYMPTOM 3152 3172	LMCA without lesions
+T30	SYMPTOM 3638 3650	sinus rhythm
+T17	SYMPTOM 3747 3761	ST alterations
+T18	SYMPTOM 3763 3817	ST elevation in II-III-aVF and decrease in I-aVL-V1-V2
+T2	SYMPTOM 3956 3964	dyspnoea
+T20	SYMPTOM 3975 3985	salivation
+T8	SYMPTOM 3987 4000	bronchorrhoea
+T34	SYMPTOM 4002 4016	fasciculations
+T32	SYMPTOM 4018 4029	hand tremor
+T23	SYMPTOM 4032 4037	signs
+T12	SYMPTOM 4039 4045	miosis
+T14	SYMPTOM 4047 4058	sialorrhoea
+T26	SYMPTOM 4060 4072	bronchospasm
+T37	SYMPTOM 4074 4087	bronchorrhoea
+T27	SYMPTOM 4089 4100	bradycardia
+T53	SYMPTOM 4112 4122	myoclonias
+T29	SYMPTOM 4149 4161	leukocytosis
+T31	SYMPTOM 4848 4860	sinus rhythm
+T33	SYMPTOM 4872 4888	QS in II-III-aVF
+T35	SYMPTOM 4890 4909	high R in V2 and V3
+T38	SYMPTOM 4918 4944	ST elevation in II-III-aVF
+T39	SYMPTOM 4956 4979	decrease in I-aVLV1- V2
+T25	SYMPTOM 5074 5100	neurological deterioration
+T47	SYMPTOM 5111 5118	spastic
+T40	SYMPTOM 5125 5160	hyper-reactivity of tendon reflexes
+T41	SYMPTOM 5171 5183	dysautonomia
+T9	SYMPTOM 5188 5215	coldness of the extremities
+T42	SYMPTOM 5405 5409	died
+T43	SYMPTOM 5938 5944	Exitus

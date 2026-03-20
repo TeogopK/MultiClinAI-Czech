@@ -1,0 +1,20 @@
+T7	PROCEDURE 284 288	rest
+T10	PROCEDURE 293 303	analgesics
+T13	PROCEDURE 447 456	analgesia
+T2	PROCEDURE 727 745	general inspection
+T5	PROCEDURE 900 920	physical examination
+T1	PROCEDURE 1315 1326	Blood tests
+T24	PROCEDURE 1491 1512	Ultrasound of the hip
+T25	PROCEDURE 1517 1537	abdominopelvic X-ray
+T4	PROCEDURE 1650 1671	intravenous analgesia
+T27	PROCEDURE 1714 1770	deep palpation in the hypogastrium and right iliac fossa
+T6	PROCEDURE 1831 1851	abdominal ultrasound
+T3	PROCEDURE 1984 1995	chest X-ray
+T32	PROCEDURE 2002 2018	urine test strip
+T9	PROCEDURE 2182 2191	bone scan
+T36	PROCEDURE 2429 2476	abdominal magnetic resonance imaging (MRI) scan
+T8	PROCEDURE 2467 2470	MRI
+T11	PROCEDURE 2590 2603	blood culture
+T12	PROCEDURE 2625 2654	puncture of the scalp abscess
+T15	PROCEDURE 2712 2726	antibiotherapy
+T16	PROCEDURE 2843 2860	surgical drainage

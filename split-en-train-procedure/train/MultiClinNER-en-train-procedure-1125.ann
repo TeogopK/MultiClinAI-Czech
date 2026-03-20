@@ -1,0 +1,24 @@
+T64	PROCEDURE 109 129	physical examination
+T67	PROCEDURE 393 405	fibrinolysis
+T68	PROCEDURE 421 444	cardiac catheterisation
+T70	PROCEDURE 929 944	cholecystectomy
+T71	PROCEDURE 946 959	tonsillectomy
+T72	PROCEDURE 961 973	appendectomy
+T65	PROCEDURE 1606 1626	physical examination
+T80	PROCEDURE 1796 1798	AC
+T81	PROCEDURE 1822 1824	AP
+T66	PROCEDURE 1910 1930	physical examination
+T82	PROCEDURE 1972 1984	Biochemistry
+T5	PROCEDURE 2260 2269	Blood gas
+T73	PROCEDURE 2404 2415	Blood gases
+T74	PROCEDURE 2514 2517	ECG
+T75	PROCEDURE 2661 2672	Chest X-ray
+T76	PROCEDURE 2732 2740	Chest CT
+T78	PROCEDURE 2990 3004	Echocardiogram
+T8	PROCEDURE 3641 3657	high-flow oxygen
+T77	PROCEDURE 3791 3799	chest CT
+T9	PROCEDURE 4002 4015	beta-blockers
+T69	PROCEDURE 4094 4117	cardiac catheterisation
+T10	PROCEDURE 4477 4507	serology for Trypanosoma cruzi
+T79	PROCEDURE 4529 4589	DNA amplification by PCR of Trypanosoma cruzi in whole blood
+T11	PROCEDURE 4790 4828	implantable cardioverter defibrillator

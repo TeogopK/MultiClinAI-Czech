@@ -1,0 +1,54 @@
+T1	SYMPTOM 83 91	anorexia
+T2	SYMPTOM 134 155	edema en manos y pies
+T3	SYMPTOM 183 194	rectorragia
+T4	SYMPTOM 233 317	edema con fóvea limitado a articulaciones metacarpofalángicas y metatarso falángicas
+T5	SYMPTOM 1053 1078	Serología de VIH negativa
+T6	SYMPTOM 1294 1317	colonoscopia fue normal
+T7	SYMPTOM 1409 1533	segmento posterior del LSD se apreciaba un infiltrado pulmonar que adoptaba una morfología ramificada (tree inbud) y nodular
+T8	SYMPTOM 1816 1867	vejiga urinaria con engrosamiento del suelo vesical
+T9	SYMPTOM 1950 2020	tráquea, y árbol bronquial izquierdo con signos inflamatorios crónicos
+T10	SYMPTOM 2233 2282	entrada de LM había una masa de aspecto necrótico
+T11	SYMPTOM 2369 2377	sangrado
+T12	SYMPTOM 426 431	edema
+T13	SYMPTOM 850 880	Cobalaminas y folatos normales
+T14	SYMPTOM 882 910	Beta-2-microglobulina normal
+T15	SYMPTOM 979 1021	proteína C reactiva y la VSG eran normales
+T16	SYMPTOM 1083 1192	factor reumatoide, los anticuerpos antinucleares y los anticuerpos anticitoplasma neutrófilo fueron negativos
+T17	SYMPTOM 945 974	banda monoclonal a IgA lambda
+T18	SYMPTOM 1197 1211	PSA fue normal
+T19	SYMPTOM 1225 1245	HLA-B27 fue positivo
+T20	SYMPTOM 1250 1289	proteinuria de Bence-Jones fue negativa
+T21	SYMPTOM 1541 1668	LM también se observaba un infiltrado de morfología ramificada, nodular y una condensación subsegmentaria con broncograma aéreo
+T22	SYMPTOM 1670 1710	tractos pleuroparenquimatosos biapicales
+T23	SYMPTOM 1766 1800	engrosamiento de língula, y pleura
+T24	SYMPTOM 2184 2225	entrada LM se observa infiltración mucosa
+T25	SYMPTOM 2419 2444	frotis inflamatorio agudo
+T26	SYMPTOM 2449 2522	cultivo de Löwestein del BAS fue positivo para Mycobacterium tuberculosis
+T27	SYMPTOM 2634 2655	edema de manos y pies
+T28	SYMPTOM 3003 3024	edema en manos y pies
+T29	SYMPTOM 1026 1051	interleucina 6 fue normal
+T30	SYMPTOM 674 848	bioquímica la glucosa, urea, creatinina, ácido úrico, calcio total, fosfato, colesterol, colesterol-HDL, colesterol-LDL, proteínas totales, GPT, LDH, GGT, Na, K eran normales
+T31	SYMPTOM 1711 1759	bronquiectasias cilíndricas de pared fina en LII
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	RESULTADO T9
+A6	IMAGEN T10
+A7	RESULTADO T13
+A8	RESULTADO T14
+A9	RESULTADO T15
+A10	RESULTADO T16
+A11	RESULTADO T17
+A12	RESULTADO T18
+A13	RESULTADO T19
+A14	RESULTADO T20
+A15	IMAGEN T21
+A16	IMAGEN T22
+A17	IMAGEN T23
+A18	RESULTADO T24
+A19	RESULTADO T25
+A20	RESULTADO T26
+A21	RESULTADO T29
+A22	RESULTADO T30
+A23	IMAGEN T31

@@ -1,0 +1,31 @@
+T64	DISEASE 84 99	hábitos tóxicos
+T65	DISEASE 170 188	esclerosis aórtica
+T66	DISEASE 190 214	cardiopatía hipertensiva
+T67	DISEASE 216 256	taquicardia supraventricular paroxística
+T68	DISEASE 270 284	litiasis renal
+T69	DISEASE 1702 1722	insuficiencia venosa
+T70	DISEASE 1726 1751	trombosis venosa profunda
+T71	DISEASE 3421 3442	insuficiencia aórtica
+T72	DISEASE 3444 3447	IAo
+T73	DISEASE 3711 3732	hipertensión pulmonar
+T74	DISEASE 3734 3737	HTP
+T75	DISEASE 4332 4378	oclusión trombótica de la descendente anterior
+T76	DISEASE 5651 5654	HTP
+T77	DISEASE 6656 6682	infarto agudo de miocardio
+T78	DISEASE 6684 6687	IAM
+T79	DISEASE 7063 7136	Infarto agudo de miocardio con elevación del segmento ST (IAMCEST) apical
+T80	DISEASE 7147 7214	Oclusión trombótica de arteria descendente anterior (DA) muy distal
+T81	DISEASE 7121 7128	IAMCEST
+T82	DISEASE 5954 5987	angor de reposo/ligeros esfuerzos
+T83	DISEASE 5899 5910	hipotensión
+T84	DISEASE 5481 5559	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T85	DISEASE 4639 4645	trombo
+T86	DISEASE 3498 3576	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T87	DISEASE 5428 5431	IAO
+T107	DISEASE 2609 2681	Descendente anterior de buen calibre, con oclusión trombótica muy distal
+T131	DISEASE 3263 3333	Válvula aórtica de morfología trivalva, con restricción de su apertura
+T132	DISEASE 3346 3364	estenosis moderada
+T134	DISEASE 5270 5340	Válvula aórtica de morfología trivalva, con restricción de su apertura
+T135	DISEASE 5353 5371	estenosis moderada
+#1	AnnotatorNotes T72	  insuficiencia aortica
+#2	AnnotatorNotes T87	  insuficiencia aortica

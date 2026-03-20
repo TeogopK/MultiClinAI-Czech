@@ -1,0 +1,53 @@
+T80	DISEASE 68 77	Allergies
+T38	DISEASE 154 181	toxicoderma with ondasetron
+T39	DISEASE 215 227	hypertension
+T40	DISEASE 229 242	Dyslipidaemia
+T41	DISEASE 247 264	diabetes mellitus
+T42	DISEASE 272 278	smoker
+T43	DISEASE 283 293	alcoholism
+T44	DISEASE 295 305	Overweight
+T45	DISEASE 360 381	Nasosinusal polyposis
+T86	DISEASE 385 394	ASA triad
+T47	DISEASE 396 402	asthma
+T48	DISEASE 404 419	nasal polyposis
+T49	DISEASE 424 459	intolerance to acetylsalicylic acid
+T50	DISEASE 462 470	Rhinitis
+T90	DISEASE 476 502	chronic right ototubaritis
+T51	DISEASE 508 533	chronic hypereosinophilia
+T52	DISEASE 535 559	Prostatic adenocarcinoma
+T54	DISEASE 673 697	para-aortic adenopathies
+T55	DISEASE 712 726	tumour relapse
+T56	DISEASE 1427 1444	myocardial damage
+T58	DISEASE 1483 1512	moderate pericardial effusion
+T66	DISEASE 1492 1512	pericardial effusion
+T62	DISEASE 1583 1594	myocarditis
+T63	DISEASE 2086 2095	phlebitis
+T57	DISEASE 3957 3974	myocardial damage
+T59	DISEASE 5461 5490	Moderate pericardial effusion
+T67	DISEASE 5470 5490	pericardial effusion
+T81	DISEASE 5922 5950	Mild tricuspid regurgitation
+T60	DISEASE 6058 6087	moderate pericardial effusion
+T68	DISEASE 6067 6087	pericardial effusion
+T89	DISEASE 6641 6659	oedema in the apex
+T61	DISEASE 6735 6764	moderate pericardial effusion
+T69	DISEASE 6744 6764	pericardial effusion
+T75	DISEASE 6937 6962	Intraventricular thrombus
+T64	DISEASE 7068 7120	hypereosinophilia secondary to nasosinusal polyposis
+T46	DISEASE 7099 7120	nasosinusal polyposis
+T87	DISEASE 7122 7131	ASA triad
+T65	DISEASE 7122 7140	ASA triad syndrome
+T72	DISEASE 7407 7435	eosinophilic endomyocarditis
+T76	DISEASE 7457 7482	intraventricular thrombus
+T70	DISEASE 7633 7653	pericardial effusion
+T83	DISEASE 7926 7932	SDRIFE
+T85	DISEASE 7934 7994	symmetric drug-related intertriginous and flexural exanthema
+T71	DISEASE 8136 8156	pericardial effusion
+T78	DISEASE 8336 8362	hypereosinophilic syndrome
+T73	DISEASE 8389 8417	eosinophilic endomyocarditis
+T82	DISEASE 8742 8759	arrhythmic events
+T74	DISEASE 9418 9457	Eosinophilic or Loeffler's endocarditis
+T77	DISEASE 9459 9484	Intraventricular thrombus
+T79	DISEASE 9486 9512	Hypereosinophilic syndrome
+T88	DISEASE 9514 9523	ASA triad
+T84	DISEASE 9549 9555	SDRIFE
+T53	DISEASE 9558 9582	Prostatic adenocarcinoma

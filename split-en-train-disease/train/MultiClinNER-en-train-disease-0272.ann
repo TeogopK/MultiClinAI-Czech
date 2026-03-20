@@ -1,0 +1,19 @@
+T1	DISEASE 19 25	smoker
+T2	DISEASE 53 63	ex-drinker
+T6	DISEASE 208 215	syncope
+T7	DISEASE 304 351	infective endocarditis on a myxoid mitral valve
+T9	DISEASE 368 385	valve perforation
+T10	DISEASE 390 417	severe mitral insufficiency
+T17	DISEASE 726 746	arterial hypotension
+T15	DISEASE 788 800	hepatomegaly
+T5	DISEASE 1005 1012	anaemia
+T16	DISEASE 1338 1350	hepatomegaly
+T4	DISEASE 1402 1411	steatosis
+T3	DISEASE 1594 1622	massive pericardial effusion
+T8	DISEASE 1871 1905	severe echocardiographic tamponade
+T35	DISEASE 2183 2234	effusion located at the apical level (encapsulated)
+T36	DISEASE 2312 2329	haematic effusion
+T11	DISEASE 2771 2796	mild pericardial effusion
+T12	DISEASE 3090 3109	ischaemic hepatitis
+T13	DISEASE 3151 3168	cardiac tamponade
+T14	DISEASE 3182 3243	post-pericardiotomy syndrome with haemorrhagic transformation

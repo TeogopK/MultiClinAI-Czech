@@ -1,0 +1,41 @@
+T26	DISEASE 69 81	hypertensive
+T27	DISEASE 86 106	hypercholesterolemic
+T2	DISEASE 858 869	hypotension
+T74	DISEASE 950 975	Poor peripheral perfusion
+T28	DISEASE 1242 1278	hyperlactacidemic metabolic acidosis
+T29	DISEASE 1753 1775	infective endocarditis
+T3	DISEASE 1777 1779	IE
+T35	DISEASE 1858 1875	right hemiparesis
+T6	DISEASE 1965 2057	2 x 2 cm intraparenchymal cerebral haemorrhage at the level of the left prerirolandic cortex
+T30	DISEASE 2288 2310	infective endocarditis
+T36	DISEASE 2381 2398	mycotic aneurysms
+T39	DISEASE 2488 2500	endocarditis
+T44	DISEASE 2852 2870	periaortic abscess
+T31	DISEASE 2998 3115	infective endocarditis (1 major and 3 minor criteria) due to S. aureus on the prosthetic aortic valve and valved tube
+T45	DISEASE 3228 3245	aortic vegetation
+T46	DISEASE 3444 3465	intracranial bleeding
+T47	DISEASE 3766 3786	arterial hypotension
+T49	DISEASE 3793 3809	syncopal episode
+T60	DISEASE 3858 3876	acute anaemisation
+T50	DISEASE 4066 4081	haemoperitoneum
+T52	DISEASE 4095 4112	splenic haematoma
+T53	DISEASE 4192 4205	acute abdomen
+T51	DISEASE 4280 4295	haemoperitoneum
+T55	DISEASE 4300 4321	acute splenic rupture
+T57	DISEASE 4490 4505	splenic rupture
+T69	DISEASE 4522 4537	septic embolism
+T59	DISEASE 4635 4647	rectorrhagia
+T10	DISEASE 4653 4660	anaemia
+T61	DISEASE 4810 4828	stress gastropathy
+T75	DISEASE 4843 4858	duodenal ulcers
+T32	DISEASE 5171 5193	infective endocarditis
+T62	DISEASE 5443 5470	severe arterial hypotension
+T63	DISEASE 5550 5567	cardiac tamponade
+T65	DISEASE 5786 5858	pericardial haematoma measuring 6 x 7 x 9 cm, involving the right atrium
+T33	DISEASE 6114 6153	infective endocarditis due to S. aureus
+T66	DISEASE 6224 6279	Late prosthetic infective endocarditis due to S. aureus
+T67	DISEASE 6353 6419	Intraparenchymal cerebral haemorrhage secondary to septic embolism
+T68	DISEASE 6421 6457	Acute abdomen due to splenic rupture
+T71	DISEASE 6465 6480	septic embolism
+T72	DISEASE 6482 6549	Upper gastrointestinal bleeding secondary to duodenal stress ulcers
+T73	DISEASE 6573 6604	Post-surgical cardiac tamponade

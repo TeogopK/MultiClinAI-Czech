@@ -1,0 +1,39 @@
+T11	DISEASE 1252 1265	Plaquetopenia
+T14	DISEASE 76 93	crisis convulsiva
+T15	DISEASE 223 248	Insuficiencia renal aguda
+T16	DISEASE 287 307	infección bacteriana
+T17	DISEASE 378 397	Acidosis metabólica
+T18	DISEASE 751 772	Fibrilación auricular
+T19	DISEASE 1048 1065	Crisis convulsiva
+T20	DISEASE 1104 1128	HEMORRAGIA SUBARACNOIDEA
+T21	DISEASE 1175 1193	aneurisma micótico
+T22	DISEASE 1320 1323	PTT
+T23	DISEASE 1336 1359	Síndrome Hemofagocítico
+T24	DISEASE 1376 1379	PTI
+T25	DISEASE 1387 1397	vasculitis
+T26	DISEASE 1733 1779	VERRUGA en valva anterior de la válvula mitral
+T27	DISEASE 1888 1891	HSA
+T28	DISEASE 2160 2235	ENDOCARDITIS MITRAL sobre válvula con degeneración mixomatosa por S. AUREUS
+T29	DISEASE 2240 2271	SEPSIS SEVERA con FRACASO RENAL
+T30	DISEASE 2318 2342	HEMORRAGIA SUBARACNOIDEA
+T31	DISEASE 2344 2374	CRISIS EPILÉPTICA generalizada
+T32	DISEASE 2500 2520	infecciones cutáneas
+T33	DISEASE 2535 2543	impétigo
+T34	DISEASE 2545 2562	abscesos cutáneos
+T35	DISEASE 2564 2576	forunculosis
+T36	DISEASE 2578 2586	mastitis
+T37	DISEASE 2588 2597	celulitis
+T38	DISEASE 2599 2619	infección de heridas
+T39	DISEASE 200 212	SEPSIS GRAVE
+T40	DISEASE 310 321	Hipotensión
+T41	DISEASE 610 641	Hipotensión inducida por Sepsis
+T42	DISEASE 1409 1423	cuadro séptico
+T43	DISEASE 1325 1328	TIH
+T44	DISEASE 1947 2064	lesiones purpúricas (equimóticas) de probable origen embólico en pulpejos de dedos de las manos y plantas de los pies
+T45	DISEASE 2378 2383	ACxFA
+T46	DISEASE 2522 2533	foliculitis
+T47	DISEASE 2631 2650	heridas quirúrgicas
+T69	DISEASE 1155 1168	plaquetopenia
+T70	DISEASE 2293 2313	PLAQUETOPENIA SEVERA
+T82	DISEASE 1579 1587	verrugas
+#1	AnnotatorNotes T43	 TIH trombocitopenia inducida por heparina

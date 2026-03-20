@@ -1,0 +1,48 @@
+T1	SYMPTOM 355 364	febrícula
+T2	SYMPTOM 367 373	fiebre
+T3	SYMPTOM 462 489	sudoración nocturna profusa
+T4	SYMPTOM 672 701	disnea de moderados esfuerzos
+T5	SYMPTOM 706 714	ortopnea
+T6	SYMPTOM 738 757	Buen estado general
+T7	SYMPTOM 838 868	Auscultación cardiaca: rítmica
+T8	SYMPTOM 880 901	soplo sistólico en FM
+T9	SYMPTOM 909 932	soplo sistólico aórtico
+T10	SYMPTOM 992 1013	crepitantes bibasales
+T11	SYMPTOM 1015 1041	Abdomen blando, depresible
+T12	SYMPTOM 1047 1052	masas
+T13	SYMPTOM 1056 1064	megalias
+T14	SYMPTOM 1066 1096	ruidos hidroaéreos conservados
+T15	SYMPTOM 1101 1124	doloroso a la palpación
+T16	SYMPTOM 1126 1159	Extremidades inferiores sin edema
+T17	SYMPTOM 1454 1492	Broncoaspirado: microbiología negativa
+T18	SYMPTOM 1494 1510	Mantoux negativo
+T19	SYMPTOM 1561 1574	ritmo sinusal
+T20	SYMPTOM 1585 1594	PR normal
+T21	SYMPTOM 1596 1605	QRS ancho
+T23	SYMPTOM 1893 1916	redistribución vascular
+T24	SYMPTOM 1932 1950	líquido en cisuras
+T26	SYMPTOM 2019 2032	FE conservada
+T28	SYMPTOM 2576 2596	Gastroscopia: normal
+T30	SYMPTOM 2948 2954	fiebre
+T31	SYMPTOM 2957 2963	disnea
+T32	SYMPTOM 2992 3044	hemocultivos positivos para la Abiotrophia defectiva
+T34	SYMPTOM 3408 3415	afebril
+T35	SYMPTOM 3495 3510	sangrado activo
+T36	SYMPTOM 3557 3562	masas
+T107	SYMPTOM 1380 1402	Autoinmunidad negativa
+T105	SYMPTOM 575 599	pérdida de 10 kg de peso
+T106	SYMPTOM 944 961	escape diastólico
+T22	SYMPTOM 2794 2884	Cultivo de vegetación de válvula aórtica y tricúspide: positivos para Abiotropha defectiva
+T121	SYMPTOM 2038 2081	anomalías segmentarias de la contractilidad
+T125	SYMPTOM 515 533	clínica infecciosa
+T135	SYMPTOM 554 570	síndrome general
+T136	SYMPTOM 2930 2946	síndrome general
+T137	SYMPTOM 3188 3208	síntomas congestivos
+T140	SYMPTOM 1850 1881	índice cardiotorácico aumentado
+T27	SYMPTOM 1678 1714	crecimiento del ventrículo izquierdo
+T29	SYMPTOM 1721 1748	eje desviado a la izquierda
+T33	SYMPTOM 2598 2634	Biopsias duodenales sin alteraciones
+T109	SYMPTOM 2684 2717	TC toraco-abdominal: sin lesiones
+T110	SYMPTOM 2750 2792	Arterias coronarias sin placas ni lesiones
+T111	SYMPTOM 1751 1800	Hemocultivo + antibiograma: Abiotrophia defectiva
+T113	SYMPTOM 3513 3590	TAC toraco abdomino pélvico, sin evidenciar masas ni otra patología relevante

@@ -1,0 +1,27 @@
+T40	DISEASE 17 52	Intolerance to acetylsalicylic acid
+T24	DISEASE 66 80	duodenal ulcer
+T26	DISEASE 88 95	smoking
+T25	DISEASE 160 174	duodenal ulcer
+T1	DISEASE 770 773	CHF
+T41	DISEASE 777 787	infectious
+T2	DISEASE 1572 1575	LVH
+T35	DISEASE 2086 2103	myocardial damage
+T36	DISEASE 2189 2238	left ventricle with slight concentric hypertrophy
+T28	DISEASE 2358 2378	aortic insufficiency
+T29	DISEASE 2394 2408	valvulopathies
+T30	DISEASE 2562 2587	Mild pericardial effusion
+T6	DISEASE 2612 2672	type A aortic dissection with involvement of the aortic root
+T37	DISEASE 2892 2956	Dilatation of aortic root and tubular portion of ascending aorta
+T38	DISEASE 3346 3459	type A dissection extending from the aortic root to the aortic segment proximal to the inferior mesenteric origin
+T31	DISEASE 3580 3589	ischaemia
+T8	DISEASE 3647 3700	aortic root dilatation with significant insufficiency
+T9	DISEASE 3806 3830	type A aortic dissection
+T16	DISEASE 4783 4851	postoperative acute respiratory distress syndrome (ARDS) by congruen
+T17	DISEASE 4834 4838	ARDS
+T39	DISEASE 4954 4965	Influenza A
+T32	DISEASE 5069 5088	acute renal failure
+T19	DISEASE 5338 5368	Acute type A aortic dissection
+T27	DISEASE 5415 5422	Smoking
+T33	DISEASE 5424 5445	Arterial hypertension
+T34	DISEASE 5447 5484	Acute respiratory failure due to ARDS
+T21	DISEASE 5495 5517	prerenal renal failure

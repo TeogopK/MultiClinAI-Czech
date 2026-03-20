@@ -1,0 +1,32 @@
+T41	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T43	PROCEDURE 669 715	basic cardiopulmonary resuscitation manoeuvres
+T1	PROCEDURE 824 839	detected by AED
+T2	PROCEDURE 841 903	Up to 4 shocks with the corresponding 30:2 cycles were applied
+T3	PROCEDURE 920 941	boluses of adrenaline
+T4	PROCEDURE 985 990	shock
+T5	PROCEDURE 1069 1076	sedated
+T44	PROCEDURE 1078 1087	intubated
+T45	PROCEDURE 1105 1127	mechanical ventilation
+T42	PROCEDURE 1130 1150	Physical examination
+T6	PROCEDURE 1532 1535	CBC
+T7	PROCEDURE 1862 1876	Urine toxicity
+T46	PROCEDURE 1920 1931	Chest X-ray
+T47	PROCEDURE 2137 2167	Transthoracic echocardiography
+T8	PROCEDURE 2450 2460	Cranial CT
+T9	PROCEDURE 2679 2705	Cardiac magnetic resonance
+T10	PROCEDURE 2968 3028	femoral venous access was channelled for induced hypothermia
+T52	PROCEDURE 3288 3299	hypothermia
+T11	PROCEDURE 3330 3354	relaxation was withdrawn
+T12	PROCEDURE 3359 3394	sedation was gradually discontinued
+T53	PROCEDURE 3568 3571	EEG
+T54	PROCEDURE 3637 3655	Antibiotic therapy
+T55	PROCEDURE 3787 3797	intubation
+T56	PROCEDURE 3799 3806	Weaning
+T57	PROCEDURE 3821 3831	extubation
+T48	PROCEDURE 3852 3867	cranial CT scan
+T58	PROCEDURE 3874 3884	extubation
+T60	PROCEDURE 3920 3930	Monitoring
+T13	PROCEDURE 4025 4045	Coronary angiography
+T59	PROCEDURE 4167 4181	rehabilitation
+T49	PROCEDURE 4183 4217	Cardiac magnetic resonance imaging
+T14	PROCEDURE 4374 4406	single-chamber ICD was implanted

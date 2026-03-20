@@ -1,0 +1,16 @@
+T11	PROCEDURE 122 133	examination
+T2	PROCEDURE 262 290	Ophthalmological examination
+T1	PROCEDURE 303 322	Computed tomography
+T12	PROCEDURE 324 326	CT
+T6	PROCEDURE 612 630	contrast injection
+T3	PROCEDURE 632 658	Magnetic resonance imaging
+T13	PROCEDURE 660 663	MRI
+T4	PROCEDURE 894 904	gadolinium
+T10	PROCEDURE 915 937	radiological diagnosis
+T9	PROCEDURE 960 978	surgical treatment
+T7	PROCEDURE 1044 1129	a macroscopically complete excision was performed via the right transciliary approach
+T5	PROCEDURE 1131 1151	Pathological anatomy
+T8	PROCEDURE 1196 1216	immunohistochemistry
+T22	PROCEDURE 1258 1265	surgery
+T14	PROCEDURE 1427 1436	operative
+T24	PROCEDURE 1497 1500	MRI

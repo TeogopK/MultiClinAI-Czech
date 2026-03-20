@@ -1,0 +1,34 @@
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 343 352	anamnesis
+T48	PROCEDURE 580 598	Exploración física
+T49	PROCEDURE 1220 1237	Gasometría venosa
+T50	PROCEDURE 1297 1300	ECG
+T51	PROCEDURE 1407 1421	Ecocardiograma
+T52	PROCEDURE 1839 1868	Resonancia magnética cardiaca
+T53	PROCEDURE 1870 1873	RMC
+T54	PROCEDURE 2531 2560	ecocardiografía a pie de cama
+T55	PROCEDURE 2688 2691	RMC
+T56	PROCEDURE 2725 2740	ecocardiografía
+T57	PROCEDURE 2972 2976	IECA
+T58	PROCEDURE 2978 2993	betabloqueantes
+T59	PROCEDURE 2995 3012	diuréticos de asa
+T60	PROCEDURE 3087 3106	trasplante cardiaco
+T61	PROCEDURE 3316 3334	drogas vasoactivas
+T62	PROCEDURE 3511 3614	implante de dispositivo de asistencia ventricular tipo Levitronix Centrimag por vía subclavia izquierda
+T63	PROCEDURE 3630 3649	trasplante cardiaco
+T64	PROCEDURE 3673 3713	trasplante ortotópico con técnica bicava
+T66	PROCEDURE 3781 3789	Extubado
+T67	PROCEDURE 3836 3864	Ecocardiograma postrasplante
+T68	PROCEDURE 4094 4120	tratamiento inmunosupresor
+T69	PROCEDURE 4125 4136	corticoides
+T70	PROCEDURE 4260 4284	coronariografías con OCT
+T72	PROCEDURE 4326 4350	biopsias endomiocárdicas
+T39	PROCEDURE 4481 4500	Trasplante cardiaco
+T65	PROCEDURE 3015 3033	antialdosterónicos
+T91	PROCEDURE 1084 1093	Analítica
+T111	PROCEDURE 3432 3457	perfusión de levosimendán
+T86	PROCEDURE 2172 2187	secuencias STIR
+T92	PROCEDURE 745 764	Cardiorrespiratorio
+T93	PROCEDURE 885 892	Abdomen
+T94	PROCEDURE 973 985	Extremidades
+T95	PROCEDURE 704 715	Neurológico

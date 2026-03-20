@@ -1,0 +1,33 @@
+T11	DISEASE 70 92	coronary heart disease
+T14	DISEASE 110 130	hypercholesterolemia
+T31	DISEASE 136 142	smoker
+T18	DISEASE 147 168	arterial hypertension
+T19	DISEASE 178 195	diabetes mellitus
+T20	DISEASE 197 199	DM
+T29	DISEASE 202 209	Drinker
+T1	DISEASE 276 306	familial hypercholesterolaemia
+T35	DISEASE 481 508	Intolerance to atorvastatin
+T32	DISEASE 672 683	Fatty liver
+T2	DISEASE 1289 1302	corneal arcus
+T33	DISEASE 1304 1313	xanthomas
+T34	DISEASE 1317 1329	xanthelasmas
+T30	DISEASE 1383 1419	incomplete right bundle branch block
+T23	DISEASE 2118 2132	valvulopathies
+T24	DISEASE 2152 2172	pericardial effusion
+T5	DISEASE 2722 2759	moderate stenosis (50-75%) concentric
+T6	DISEASE 2825 2854	Circumflex artery hypoplastic
+T7	DISEASE 2825 2904	Circumflex artery hypoplastic, with a slight non-calcified lesion at its origin
+T12	DISEASE 3196 3218	coronary heart disease
+T21	DISEASE 3233 3262	familial hypercholesterolemia
+T25	DISEASE 3362 3379	exertional angina
+T27	DISEASE 3581 3593	liver damage
+T49	DISEASE 4028 4044	coronary disease
+T16	DISEASE 4083 4103	hypercholesterolemia
+T36	DISEASE 4186 4231	non-significant stenoses in the coronary tree
+T10	DISEASE 4564 4594	familial hypercholesterolaemia
+T13	DISEASE 4716 4738	coronary heart disease
+T22	DISEASE 4826 4855	familial hypercholesterolemia
+T9	DISEASE 4862 4884	Intolerance to statins
+T26	DISEASE 4886 4903	Exertional angina
+T28	DISEASE 4905 4928	Coronary artery disease
+T8	DISEASE 4905 4958	Coronary artery disease with non-significant stenosis

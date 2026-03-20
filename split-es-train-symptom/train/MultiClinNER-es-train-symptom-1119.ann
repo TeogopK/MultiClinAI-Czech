@@ -1,0 +1,34 @@
+T2	SYMPTOM 740 816	disnea progresiva en los 3-4 días previos hasta hacerse de mínimos esfuerzos
+T3	SYMPTOM 828 835	astenia
+T4	SYMPTOM 867 881	dolor torácico
+T5	SYMPTOM 886 889	tos
+T6	SYMPTOM 893 906	expectoración
+T7	SYMPTOM 911 917	fiebre
+T8	SYMPTOM 921 941	sensación distérmica
+T9	SYMPTOM 964 986	Regular estado general
+T10	SYMPTOM 988 1007	palidez mucocutánea
+T11	SYMPTOM 1009 1023	normohidratado
+T12	SYMPTOM 1025 1076	Eupneico en reposo sin uso de musculatura accesoria
+T13	SYMPTOM 1078 1088	Consciente
+T14	SYMPTOM 1090 1099	orientado
+T15	SYMPTOM 1102 1113	colaborador
+T16	SYMPTOM 1118 1139	focalidad neurológica
+T17	SYMPTOM 1314 1328	tonos rítmicos
+T18	SYMPTOM 1333 1339	soplos
+T19	SYMPTOM 1373 1402	murmullo vesicular conservado
+T20	SYMPTOM 1407 1427	ruidos sobreañadidos
+T21	SYMPTOM 1432 1460	edema en miembros inferiores
+T22	SYMPTOM 1524 1537	ritmo sinusal
+T23	SYMPTOM 1570 1582	QRS estrecho
+T24	SYMPTOM 1584 1631	supradesnivel del ST de 1,5 mm en II, III y aVF
+T25	SYMPTOM 1651 1680	infradesnivel del segmento ST
+T27	SYMPTOM 2044 2059	consolidaciones
+T29	SYMPTOM 3120 3186	acinesia de la pared posterior y del septo inferior basal y medial
+T31	SYMPTOM 3411 3461	alteración de la movilidad de la pared ventricular
+T32	SYMPTOM 4649 4655	disnea
+T33	SYMPTOM 4791 4798	fallece
+T1	SYMPTOM 5026 5032	Muerte
+T114	SYMPTOM 4268 4300	sobrecarga de cavidades derechas
+T26	SYMPTOM 2097 2160	tronco coronario izquierdo (TCI): de buen calibre, sin lesiones
+T28	SYMPTOM 2162 2256	Arteria descendente anterior (ADA): de buen calibre y desarrollo, irregularidades sin lesiones
+T30	SYMPTOM 2287 2363	Arteria circunfleja (ACX): de buen calibre y escaso desarrollo, sin lesiones

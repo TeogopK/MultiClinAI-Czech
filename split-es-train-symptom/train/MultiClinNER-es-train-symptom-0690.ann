@@ -1,0 +1,40 @@
+T1	SYMPTOM 1755 1790	ataxia de predominio troncal severa
+T2	SYMPTOM 1267 1300	anomalías electroencefalográficas
+T3	SYMPTOM 129 155	inestabilidad en la marcha
+T4	SYMPTOM 2811 2817	ataxia
+T5	SYMPTOM 1829 1836	temblor
+T6	SYMPTOM 2823 2836	irritabilidad
+T7	SYMPTOM 158 177	temblor intencional
+T8	SYMPTOM 1867 1901	mioclonias de refuerzo intencional
+T9	SYMPTOM 1907 1920	irritabilidad
+T10	SYMPTOM 1391 1408	linforraquia leve
+T11	SYMPTOM 272 278	fiebre
+T12	SYMPTOM 1955 2024	movimientos oculares rápidos, sacádicos, multidireccionales, caóticos
+T13	SYMPTOM 2965 2996	leve inestabilidad de la marcha
+T14	SYMPTOM 2999 3012	irritabilidad
+T15	SYMPTOM 597 603	ataxia
+T16	SYMPTOM 641 661	irritabilidad severa
+T17	SYMPTOM 664 679	sueño irregular
+T18	SYMPTOM 2346 2372	masa torácica paraesternal
+T19	SYMPTOM 2426 2458	masa intratorácica paravertebral
+T20	SYMPTOM 787 803	signos meníngeos
+T21	SYMPTOM 805 836	signos externos de traumatismos
+T22	SYMPTOM 969 1006	ataxia de características cerebelosas
+T23	SYMPTOM 1010 1052	temblor intencional intenso y generalizado
+T24	SYMPTOM 912 927	habla escandida
+T25	SYMPTOM 1058 1150	pares craneales, fuerza, tono muscular y reflejos osteotendinosos eran normales y simétricos
+T26	SYMPTOM 1426 1444	cultivos negativos
+T27	SYMPTOM 484 528	desarrollo psicomotor seguía un curso normal
+T28	SYMPTOM 743 766	buen estado nutricional
+T29	SYMPTOM 1323 1360	tóxicos en orina resultaron negativos
+T30	SYMPTOM 1733 1752	temblor intencional
+T31	SYMPTOM 2244 2285	ecografía abdominal, con resultado normal
+T32	SYMPTOM 2614 2669	catecolaminas en orina de 24 horas, que fueron normales
+A1	RESULTADO T2
+A2	RESULTADO T10
+A3	IMAGEN T18
+A4	IMAGEN T19
+A5	RESULTADO T26
+A6	RESULTADO T29
+A7	IMAGEN T31
+A8	RESULTADO T32

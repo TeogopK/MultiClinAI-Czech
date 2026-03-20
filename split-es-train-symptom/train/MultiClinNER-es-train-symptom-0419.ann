@@ -1,0 +1,18 @@
+T1	SYMPTOM 2585 2605	distensión abdominal
+T2	SYMPTOM 990 997	diarrea
+T3	SYMPTOM 825 845	diarreas coleréticas
+T4	SYMPTOM 908 934	estado nutricional estable
+T5	SYMPTOM 4496 4559	estado nutricional estable y progresivo dentro de la normalidad
+T6	SYMPTOM 2799 2808	aerocolia
+T7	SYMPTOM 2866 2889	estabilidad nutricional
+T8	SYMPTOM 3300 3323	buen estado nutricional
+T9	SYMPTOM 3533 3544	hipolipemia
+T10	SYMPTOM 2906 2950	deposiciones de consistencia líquido-pastosa
+T11	SYMPTOM 940 970	diuresis superior al litro/día
+T12	SYMPTOM 1708 1740	fácil digestibilidad y absorción
+T13	SYMPTOM 3104 3112	diuresis
+T14	SYMPTOM 3363 3371	diuresis
+T15	SYMPTOM 3403 3453	deposiciones de consistencia pastosa o conformadas
+T16	SYMPTOM 4187 4232	depleción de la vitaminas D, B12 y ac. Fólico
+A1	RESULTADO T9
+A2	RESULTADO T16

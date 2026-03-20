@@ -1,0 +1,36 @@
+T29	PROCEDURE 942 960	topical corticoids
+T30	PROCEDURE 1040 1051	examination
+T8	PROCEDURE 1053 1081	cardiopulmonary auscultation
+T16	PROCEDURE 1264 1287	inhaled bronchodilators
+T17	PROCEDURE 1292 1302	analgesics
+T35	PROCEDURE 1426 1440	bronchodilator
+T15	PROCEDURE 1493 1508	bronchodilators
+T22	PROCEDURE 1744 1771	cardiopulmonary examination
+T2	PROCEDURE 1776 1786	spirometry
+T5	PROCEDURE 1791 1802	chest X-ray
+T3	PROCEDURE 1823 1833	spirometry
+T6	PROCEDURE 1883 1894	chest X-ray
+T7	PROCEDURE 2018 2029	chest X-ray
+T43	PROCEDURE 2050 2074	high-resolution CAT scan
+T9	PROCEDURE 2076 2080	HRCT
+T23	PROCEDURE 2185 2204	CO2 diffusion tests
+T11	PROCEDURE 2209 2229	pulmonary flow curve
+T45	PROCEDURE 2236 2240	HRCT
+T24	PROCEDURE 2433 2452	CO2 diffusion tests
+T12	PROCEDURE 2457 2477	pulmonary flow curve
+T47	PROCEDURE 2518 2529	blood tests
+T10	PROCEDURE 2551 2563	ANCA and ANA
+T27	PROCEDURE 2589 2601	radiological
+T49	PROCEDURE 2628 2635	CT scan
+T18	PROCEDURE 2763 2774	lung biopsy
+T19	PROCEDURE 2788 2800	bronchoscopy
+T20	PROCEDURE 2848 2858	cryobiopsy
+T21	PROCEDURE 2874 2942	cryobiopsy probe is located 1-2 cm from the pleura using fluoroscopy
+T1	PROCEDURE 2949 2958	cryoprobe
+T13	PROCEDURE 3036 3047	cryotherapy
+T25	PROCEDURE 3264 3287	transbronchial biopsies
+T14	PROCEDURE 3293 3337	probe is introduced through the bronchoscope
+T28	PROCEDURE 3342 3357	cold is applied
+T26	PROCEDURE 3407 3422	clamp technique
+T54	PROCEDURE 3444 3479	sedation of the patient is required
+T4	PROCEDURE 3719 3739	Immunohistochemistry

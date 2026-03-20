@@ -1,0 +1,47 @@
+T22	DISEASE 71 94	alergias medicamentosas
+T23	DISEASE 148 169	Hipertensión arterial
+T24	DISEASE 171 174	HTA
+T25	DISEASE 193 200	fumador
+T28	DISEASE 820 842	insuficiencia cardiaca
+T29	DISEASE 1029 1050	taponamiento cardiaco
+T30	DISEASE 1537 1575	estenosis crítica de coronaria derecha
+T32	DISEASE 2374 2405	disfunción biventricular severa
+T33	DISEASE 2495 2535	Insuficiencia mitral (IM) leve isquémica
+T34	DISEASE 2537 2561	Leve derrame pericárdico
+T35	DISEASE 2598 2631	CD proximal, con imagen de trombo
+T36	DISEASE 2580 2600	estenosis crítica CD
+T37	DISEASE 2889 2911	Disfunción grave de VI
+T38	DISEASE 2982 3033	aneurisma posterobasal de gran tamaño con trombosis
+T40	DISEASE 3166 3202	VI dilatado con gran pseudoaneurisma
+T41	DISEASE 3289 3304	pseudoaneurisma
+T42	DISEASE 3398 3404	trombo
+T43	DISEASE 3986 4001	Derrame pleural
+T44	DISEASE 4028 4055	VI con gran pseudoaneurisma
+T45	DISEASE 4261 4276	Derrame pleural
+T46	DISEASE 4288 4303	Pseudoaneurisma
+T47	DISEASE 4625 4652	pseudoaneurisma ventricular
+T48	DISEASE 5011 5026	pseudoaneurisma
+T49	DISEASE 5122 5128	trombo
+T50	DISEASE 5144 5163	derrame pericárdico
+T51	DISEASE 5210 5237	pseudoaneurisma ventricular
+T52	DISEASE 5326 5332	trombo
+T53	DISEASE 5361 5380	derrame pericárdico
+T54	DISEASE 5496 5550	disfunción ventricular grave con pseudoaneurisma en VI
+T55	DISEASE 5937 5952	pseudoaneurisma
+T56	DISEASE 6012 6027	pseudoaneurisma
+T57	DISEASE 6265 6311	Infarto agudo de miocardio (IAM) inferolateral
+T58	DISEASE 6327 6342	rotura cardiaca
+T59	DISEASE 6386 6401	pseudoaneurisma
+T60	DISEASE 6456 6484	rotura de pared libre del VI
+T61	DISEASE 6511 6526	pseudoaneurisma
+T62	DISEASE 6528 6556	Disfunción ventricular grave
+T63	DISEASE 2517 2519	IM
+T64	DISEASE 2842 2887	ventrículo izquierdo (VI) gravemente dilatado
+T65	DISEASE 4444 4450	Trombo
+T66	DISEASE 6293 6296	IAM
+T132	DISEASE 466 479	muerte súbita
+T20	DISEASE 1064 1079	rotura cardiaca
+T21	DISEASE 1558 1611	coronaria derecha (CD) proximal, con imagen de trombo
+T31	DISEASE 4670 4722	rotura contenida por parche quirúrgico de pericardio
+#1	AnnotatorNotes T63	 insuficiencia mitral
+#2	AnnotatorNotes T66	 Infarto agudo de miocardio

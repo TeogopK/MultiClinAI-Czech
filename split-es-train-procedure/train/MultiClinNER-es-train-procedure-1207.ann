@@ -1,0 +1,29 @@
+T63	PROCEDURE 164 179	revascularizada
+T64	PROCEDURE 331 346	coronariografía
+T66	PROCEDURE 1519 1542	cardioversión eléctrica
+T67	PROCEDURE 1544 1547	CVE
+T68	PROCEDURE 1671 1674	CVE
+T69	PROCEDURE 1901 1919	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 2102 2123	Auscultación cardiaca
+T71	PROCEDURE 2144 2165	Auscultación pulmonar
+T72	PROCEDURE 2326 2344	Electrocardiograma
+T73	PROCEDURE 2346 2349	ECG
+T74	PROCEDURE 2544 2547	ECG
+T75	PROCEDURE 2581 2600	Analítica de sangre
+T76	PROCEDURE 3156 3175	Analítica de sangre
+T77	PROCEDURE 3339 3367	Ecocardiograma transtorácico
+T78	PROCEDURE 3580 3623	Resonancia magnética cardiaca con contraste
+T79	PROCEDURE 5083 5098	Coronariografía
+T80	PROCEDURE 5656 5671	betabloqueantes
+T81	PROCEDURE 5719 5736	antihipertensivos
+T82	PROCEDURE 5741 5756	coronariografía
+T83	PROCEDURE 5887 5898	reanimación
+T84	PROCEDURE 6070 6084	DAI subcutáneo
+T85	PROCEDURE 6471 6497	Implante de DAI subcutáneo
+T91	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 3030 3075	marcadores de daño miocárdico en la seriación
+T93	PROCEDURE 1769 1783	monitorización
+T94	PROCEDURE 1229 1258	monitorización con telemetría
+T95	PROCEDURE 3946 3964	secuencias T2-STIR
+T100	PROCEDURE 1557 1582	embolada de amiodarona iv
+#3	AnnotatorNotes T68	  cardioversión eléctrica

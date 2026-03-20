@@ -1,0 +1,50 @@
+T121	PROCEDURE 858 880	intubación orotraqueal
+T122	PROCEDURE 942 960	EXPLORACIÓN FÍSICA
+T123	PROCEDURE 1197 1218	Auscultación cardiaca
+T124	PROCEDURE 1267 1288	Auscultación pulmonar
+T125	PROCEDURE 1765 1774	Hemograma
+T126	PROCEDURE 1858 1869	Coagulación
+T127	PROCEDURE 2218 2236	Electrocardiograma
+T128	PROCEDURE 2238 2241	ECG
+T129	PROCEDURE 2385 2388	ECG
+T130	PROCEDURE 2394 2407	cardioversión
+T131	PROCEDURE 2557 2560	ECG
+T132	PROCEDURE 2748 2751	ECG
+T133	PROCEDURE 2757 2796	implante de marcapasos (MP) transitorio
+T134	PROCEDURE 3010 3013	ECG
+T135	PROCEDURE 3167 3196	Radiografía de tórax portátil
+T136	PROCEDURE 3352 3391	TC de abdomen con contraste intravenoso
+T137	PROCEDURE 3973 4002	Ecocardiografía transtorácica
+T138	PROCEDURE 4835 4848	TC de abdomen
+T139	PROCEDURE 5026 5049	laparotomía exploradora
+T140	PROCEDURE 5128 5143	ecocardioscopia
+T141	PROCEDURE 5372 5408	cardioversión eléctrica (CVE) a 200J
+T142	PROCEDURE 5397 5400	CVE
+T143	PROCEDURE 5889 5903	hemofiltración
+T144	PROCEDURE 6485 6519	implante de marcapasos transitorio
+T145	PROCEDURE 6574 6621	se coloca cable de marcapasos en seno coronario
+T146	PROCEDURE 6644 6647	ECG
+T147	PROCEDURE 6903 6919	ecocardioscopias
+T148	PROCEDURE 7146 7172	estudio electrofisiológico
+T149	PROCEDURE 7174 7177	EEF
+T150	PROCEDURE 7186 7189	EEF
+T151	PROCEDURE 7680 7742	ablación efectiva sobre vía accesoria posterolateral izquierda
+T152	PROCEDURE 8181 8191	extubación
+T153	PROCEDURE 8193 8216	retirada de perfusiones
+T154	PROCEDURE 8495 8510	ecocardiografía
+T155	PROCEDURE 8940 8965	ablación de vía accesoria
+T164	PROCEDURE 1895 1905	Bioquímica
+T165	PROCEDURE 6469 6472	CVE
+T166	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T167	PROCEDURE 3661 3676	Ecocardioscopia
+T168	PROCEDURE 4661 4663	VM
+T169	PROCEDURE 5255 5274	aminas vasopresoras
+T171	PROCEDURE 8338 8352	monitorización
+T201	PROCEDURE 1736 1745	Analítica
+T213	PROCEDURE 6880 6898	aminas vasoactivas
+T230	PROCEDURE 345 371	intervenciones quirúrgicas
+T243	PROCEDURE 6273 6296	perfusión de amiodarona
+T244	PROCEDURE 5635 5658	perfusión de dobutamina
+T34	PROCEDURE 1359 1366	Abdomen
+#1	AnnotatorNotes T149	  estudio electrofisiológico
+#2	AnnotatorNotes T168	  ventilación mecánica

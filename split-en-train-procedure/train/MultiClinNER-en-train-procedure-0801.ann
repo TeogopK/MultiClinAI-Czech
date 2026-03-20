@@ -1,0 +1,53 @@
+T106	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T98	PROCEDURE 577 649	Transphalangeal amputation of the second toe of the left lower extremity
+T1	PROCEDURE 670 727	Amputation of the fourth toe of the right lower extremity
+T2	PROCEDURE 751 782	Infracondylar amputation of EID
+T3	PROCEDURE 1411 1442	infracondylar amputation of DID
+T99	PROCEDURE 2114 2131	electrocardiogram
+T100	PROCEDURE 2133 2136	ECG
+T105	PROCEDURE 2681 2715	percutaneous coronary intervention
+T4	PROCEDURE 2717 2720	PCI
+T101	PROCEDURE 2999 3002	ECG
+T107	PROCEDURE 3444 3464	Physical examination
+T108	PROCEDURE 3689 3709	Cardiac auscultation
+T109	PROCEDURE 3747 3769	Pulmonary auscultation
+T110	PROCEDURE 3832 3841	palpation
+T5	PROCEDURE 3889 3910	amputation of the DID
+T102	PROCEDURE 3989 3992	ECG
+T103	PROCEDURE 4212 4215	ECG
+T111	PROCEDURE 4358 4369	Chest X-ray
+T6	PROCEDURE 4534 4552	Arterial blood gas
+T7	PROCEDURE 4619 4631	Biochemistry
+T8	PROCEDURE 4835 4838	CBC
+T112	PROCEDURE 4924 4935	Coagulation
+T9	PROCEDURE 5080 5091	Lipid panel
+T113	PROCEDURE 5209 5223	tryptase curve
+T114	PROCEDURE 5446 5461	catheterisation
+T10	PROCEDURE 5938 5941	PCI
+T11	PROCEDURE 5947 6015	severe lesion of the ostial LAD is pre-dilated with a 3.0 mm balloon
+T12	PROCEDURE 6032 6060	ANGIOLITE stent is implanted
+T118	PROCEDURE 6184 6188	PTCA
+T120	PROCEDURE 6235 6249	Echocardiogram
+T104	PROCEDURE 7061 7064	ECG
+T115	PROCEDURE 7176 7191	catheterisation
+T13	PROCEDURE 7197 7206	PCI to CD
+T14	PROCEDURE 7256 7315	RESOLUTE 2.5 x 15 mm direct drug-eluting stent is implanted
+T116	PROCEDURE 7661 7676	catheterisation
+T15	PROCEDURE 7803 7822	stent in the LAD-CT
+T16	PROCEDURE 8397 8406	corticoid
+T17	PROCEDURE 8799 8825	intravenous glucocorticoid
+T19	PROCEDURE 9375 9388	beta-blockers
+T124	PROCEDURE 9392 9432	angiotensin-converting enzyme inhibitors
+T18	PROCEDURE 9434 9448	ACE inhibitors
+T21	PROCEDURE 9942 9949	culture
+T22	PROCEDURE 9951 9970	blood/urine culture
+T121	PROCEDURE 10075 10091	vascular surgery
+T20	PROCEDURE 10150 10167	amputation of DID
+T122	PROCEDURE 10288 10314	intradermal suture removal
+T117	PROCEDURE 10460 10475	catheterisation
+T23	PROCEDURE 10502 10516	PCI to CD-IVP,
+T24	PROCEDURE 11068 11071	PCI
+T125	PROCEDURE 11077 11122	drug-eluting stent implantation in TC-DA axis
+T25	PROCEDURE 11137 11140	PCI
+T26	PROCEDURE 11146 11187	drug-eluting stent implantation in DC-PVI
+T50	PROCEDURE 11362 11393	infracondylar amputation of DID

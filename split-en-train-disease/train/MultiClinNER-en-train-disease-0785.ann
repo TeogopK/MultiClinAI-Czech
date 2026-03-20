@@ -1,0 +1,26 @@
+T18	DISEASE 65 78	heart disease
+T19	DISEASE 241 254	Dyslipidaemia
+T20	DISEASE 256 281	Diabetes Mellitus type II
+T21	DISEASE 283 297	Morbid obesity
+T22	DISEASE 299 303	COPD
+T23	DISEASE 305 309	SAHS
+T24	DISEASE 334 362	Benign prostatic hyperplasia
+T25	DISEASE 1688 1716	chronic venous insufficiency
+T26	DISEASE 1744 1767	atypical atrial flutter
+T43	DISEASE 2153 2165	cardiomegaly
+T27	DISEASE 2167 2193	Bilateral pleural effusion
+T40	DISEASE 2675 2696	Moderately dilated LA
+T41	DISEASE 2749 2777	Mild tricuspid regurgitation
+T29	DISEASE 2840 2860	pericardial effusion
+T42	DISEASE 3172 3217	Mitral valve with mild-moderate regurgitation
+T30	DISEASE 3426 3439	heart failure
+T34	DISEASE 3576 3588	endocarditis
+T35	DISEASE 3853 3865	endocarditis
+T36	DISEASE 4764 4776	endocarditis
+T39	DISEASE 5025 5088	decompensation of heart failure with bilateral pleural effusion
+T31	DISEASE 5043 5056	heart failure
+T28	DISEASE 5062 5088	bilateral pleural effusion
+T32	DISEASE 5230 5243	heart failure
+T37	DISEASE 5422 5434	Endocarditis
+T38	DISEASE 5550 5584	Secondary congestive heart failure
+T33	DISEASE 5571 5584	heart failure

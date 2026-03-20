@@ -1,0 +1,35 @@
+T41	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T62	PROCEDURE 252 274	surgical interventions
+T42	PROCEDURE 866 886	PHYSICAL EXAMINATION
+T43	PROCEDURE 1193 1221	Cardiopulmonary auscultation
+T44	PROCEDURE 1542 1545	ECG
+T45	PROCEDURE 1659 1662	ECG
+T3	PROCEDURE 1672 1688	laboratory tests
+T4	PROCEDURE 1690 1693	CBC
+T47	PROCEDURE 1903 1914	Haemostasis
+T60	PROCEDURE 1991 2003	Biochemistry
+T61	PROCEDURE 2124 2155	Biomarkers of myocardial damage
+T48	PROCEDURE 2193 2207	echocardiogram
+T5	PROCEDURE 2209 2212	TTE
+T49	PROCEDURE 2659 2680	Angio-CT of the aorta
+T46	PROCEDURE 3620 3623	ECG
+T8	PROCEDURE 3697 3700	TTE
+T50	PROCEDURE 3828 3836	angio-CT
+T10	PROCEDURE 3926 3952	complementary examinations
+T51	PROCEDURE 3976 3991	cardiac surgery
+T11	PROCEDURE 4031 4038	surgery
+T53	PROCEDURE 4063 4096	mechanical Bono-Bentall technique
+T54	PROCEDURE 4130 4154	aortic valve replacement
+T12	PROCEDURE 4156 4199	aortic root and ascending aorta replacement
+T55	PROCEDURE 4212 4242	coronary ostium reimplantation
+T56	PROCEDURE 4282 4308	extracorporeal circulation
+T13	PROCEDURE 4310 4340	electromechanical heart arrest
+T20	PROCEDURE 4345 4410	circulatory arrest with selective bicarotídeal cerebral perfusion
+T21	PROCEDURE 4415 4465	replacement of the aortic arch or descending aorta
+T63	PROCEDURE 4548 4560	intervention
+T57	PROCEDURE 4712 4727	Bentall surgery
+T58	PROCEDURE 4735 4745	extubation
+T59	PROCEDURE 4923 4934	radiography
+T17	PROCEDURE 5024 5048	Influenza A negative PCR
+T16	PROCEDURE 5062 5088	high-flow nasal spectacles
+T14	PROCEDURE 5440 5483	Emergent surgery with metallic Bono-Bentall

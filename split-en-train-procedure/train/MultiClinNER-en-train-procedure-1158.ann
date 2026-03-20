@@ -1,0 +1,36 @@
+T47	PROCEDURE 264 287	cardiac catheterisation
+T49	PROCEDURE 377 411	a drug-eluting stent was implanted
+T50	PROCEDURE 483 511	transthoracic echocardiogram
+T62	PROCEDURE 497 511	echocardiogram
+T51	PROCEDURE 808 849	chronic treatment with immunosuppressants
+T52	PROCEDURE 1000 1020	physical examination
+T54	PROCEDURE 1227 1238	stress test
+T55	PROCEDURE 1403 1414	stress test
+T56	PROCEDURE 1683 1703	cardiac auscultation
+T57	PROCEDURE 2050 2061	Blood count
+T75	PROCEDURE 2123 2134	Coagulation
+T78	PROCEDURE 2159 2177	blood biochemistry
+T79	PROCEDURE 2312 2333	Complete biochemistry
+T58	PROCEDURE 2596 2615	Immunological study
+T59	PROCEDURE 2708 2725	Electrocardiogram
+T60	PROCEDURE 2822 2833	Chest X-ray
+T66	PROCEDURE 2893 2908	transesophageal
+T63	PROCEDURE 2909 2923	echocardiogram
+T48	PROCEDURE 3748 3771	Cardiac catheterisation
+T72	PROCEDURE 3979 3987	Angio-CT
+T76	PROCEDURE 4418 4437	Infectious serology
+T61	PROCEDURE 4493 4513	Biopsy (aortic valve
+T53	PROCEDURE 4867 4887	Physical examination
+T64	PROCEDURE 5038 5052	echocardiogram
+T67	PROCEDURE 5600 5603	ECG
+T65	PROCEDURE 5671 5685	echocardiogram
+T68	PROCEDURE 5687 5707	coronary angiography
+T69	PROCEDURE 5928 5945	revascularisation
+T71	PROCEDURE 6208 6229	aortic CT angiography
+T80	PROCEDURE 6296 6317	immunological studies
+T77	PROCEDURE 6319 6340	acute phase reactants
+T73	PROCEDURE 6361 6369	Angio-CT
+T74	PROCEDURE 6979 6999	oral glucocorticoids
+T70	PROCEDURE 7078 7095	revascularisation
+T81	PROCEDURE 7506 7512	amines
+T82	PROCEDURE 7721 7734	amine weaning

@@ -1,0 +1,27 @@
+T45	PROCEDURE 527 547	Physical examination
+T57	PROCEDURE 668 681	Head and neck
+T46	PROCEDURE 698 718	Cardiac auscultation
+T47	PROCEDURE 742 764	Pulmonary auscultation
+T58	PROCEDURE 869 880	Extremities
+T48	PROCEDURE 951 954	ECG
+T49	PROCEDURE 1101 1112	Chest X-ray
+T5	PROCEDURE 1447 1450	CBC
+T50	PROCEDURE 1649 1663	Echocardiogram
+T51	PROCEDURE 2037 2057	Coronary angiography
+T53	PROCEDURE 2389 2400	Aortography
+T54	PROCEDURE 2428 2439	Coronary CT
+T52	PROCEDURE 2803 2823	Coronary angiography
+T59	PROCEDURE 3175 3191	coronary surgery
+T9	PROCEDURE 3223 3260	implantation of a permanent pacemaker
+T10	PROCEDURE 3665 3668	EPS
+T11	PROCEDURE 3728 3785	definitive bicameral pacemaker was subsequently implanted
+T12	PROCEDURE 3809 3852	Post-implantation controls of the pacemaker
+T55	PROCEDURE 4037 4052	cardiac surgery
+T14	PROCEDURE 4074 4151	coronary revascularisation surgery with a double "Y" mammary artery under ECC
+T15	PROCEDURE 4148 4151	ECC
+T16	PROCEDURE 4167 4296	Bypass of the left mammary artery to the anterior descending artery and of the right mammary artery to the obtuse marginal artery
+T30	PROCEDURE 4312 4376	Distal and proximal ligation of the anterior descending aneurysm
+T56	PROCEDURE 4397 4409	Intervention
+T60	PROCEDURE 4549 4597	Implantation of a definitive bicameral pacemaker
+T61	PROCEDURE 4650 4746	Coronary revascularisation with double mammary artery to anterior descending and obtuse marginal
+T62	PROCEDURE 4748 4788	Ligation of anterior descending aneurysm

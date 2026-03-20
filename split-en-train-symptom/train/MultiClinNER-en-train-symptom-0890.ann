@@ -1,0 +1,57 @@
+T32	SYMPTOM 112 120	fainting
+T1	SYMPTOM 133 154	loss of consciousness
+T33	SYMPTOM 579 587	fainting
+T2	SYMPTOM 600 621	loss of consciousness
+T3	SYMPTOM 859 868	dizziness
+T6	SYMPTOM 928 948	abdominal discomfort
+T8	SYMPTOM 950 956	nausea
+T4	SYMPTOM 961 970	dizziness
+T9	SYMPTOM 1037 1045	headache
+T34	SYMPTOM 1066 1074	coughing
+T10	SYMPTOM 1108 1116	dyspnoea
+T11	SYMPTOM 1118 1128	chest pain
+T12	SYMPTOM 1132 1144	palpitations
+T13	SYMPTOM 1530 1547	syncopal episodes
+T7	SYMPTOM 1940 1960	abdominal discomfort
+T35	SYMPTOM 2324 2419	cardiac MRI was reported as normal, as well as the flecainide test and the electroencephalogram
+T37	SYMPTOM 2511 2556	cerebellar tonsils were found to be descended
+T36	SYMPTOM 2562 2612	rectification of the floor of the fourth ventricle
+T15	SYMPTOM 2734 2743	Conscious
+T16	SYMPTOM 2748 2756	oriented
+T17	SYMPTOM 2758 2771	Normohydrated
+T38	SYMPTOM 2776 2789	normoperfused
+T18	SYMPTOM 2791 2806	Eupneic at rest
+T19	SYMPTOM 2813 2827	rhythmic tones
+T20	SYMPTOM 2844 2851	murmurs
+T39	SYMPTOM 2853 2856	VCM
+T40	SYMPTOM 2865 2884	superimposed noises
+T21	SYMPTOM 2886 2912	Abdomen: soft, depressible
+T22	SYMPTOM 2922 2928	masses
+T41	SYMPTOM 2932 2940	megalith
+T23	SYMPTOM 2947 2967	painful on palpation
+T24	SYMPTOM 2969 3024	Lower extremities with preserved and symmetrical pulses
+T25	SYMPTOM 3083 3095	Sinus rhythm
+T42	SYMPTOM 3152 3195	J point elevation in right precordial leads
+T30	SYMPTOM 3200 3219	normal QTc interval
+T43	SYMPTOM 3236 3277	Cardiothoracic index within normal limits
+T26	SYMPTOM 3282 3298	congestive signs
+T44	SYMPTOM 3318 3360	Left ventricle not dilated or hypertrophic
+T45	SYMPTOM 3367 3426	global and segmental systolic function within normal limits
+T46	SYMPTOM 3428 3451	Left atrium not dilated
+T47	SYMPTOM 3453 3474	Normal right chambers
+T48	SYMPTOM 3476 3515	Normal left ventricular filling pattern
+T49	SYMPTOM 3520 3557	valvular or pericardial abnormalities
+T51	SYMPTOM 3559 3597	Normal aortic root and ascending aorta
+T50	SYMPTOM 3599 3647	Atrial septum and interventricular septum intact
+T31	SYMPTOM 3652 3680	gradient in descending aorta
+T27	SYMPTOM 3710 3726	twin contracture
+T5	SYMPTOM 3919 3928	dizziness
+T52	SYMPTOM 3945 3976	electrocardiographic alteration
+T28	SYMPTOM 4024 4051	non-dilated right ventricle
+T29	SYMPTOM 4201 4215	RV dysfunction
+T53	SYMPTOM 4222 4257	volumes and EF within normal limits
+T54	SYMPTOM 4283 4334	baseline cerebral bioelectrical activity was normal
+T55	SYMPTOM 4348 4384	generalised paroxysmal abnormalities
+T56	SYMPTOM 4416 4441	Cerebellar tonsil descent
+T57	SYMPTOM 4447 4497	rectification of the floor of the fourth ventricle
+T14	SYMPTOM 4803 4820	syncopal episodes

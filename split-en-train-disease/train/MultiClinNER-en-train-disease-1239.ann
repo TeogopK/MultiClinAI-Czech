@@ -1,0 +1,29 @@
+T22	DISEASE 70 91	arterial hypertension
+T23	DISEASE 79 91	hypertension
+T25	DISEASE 93 109	type II diabetes
+T26	DISEASE 147 160	dyslipidaemia
+T45	DISEASE 186 218	ischaemic dilated cardiomyopathy
+T27	DISEASE 186 259	ischaemic dilated cardiomyopathy with very severe ventricular dysfunction
+T43	DISEASE 229 259	severe ventricular dysfunction
+T50	DISEASE 474 488	common flutter
+T28	DISEASE 509 538	permanent atrial fibrillation
+T29	DISEASE 579 603	moderate aortic stenosis
+T30	DISEASE 879 914	thrombotic or embolic complications
+T24	DISEASE 1009 1021	hypertension
+T31	DISEASE 1134 1147	renal disease
+T49	DISEASE 1905 1917	hepatomegaly
+T32	DISEASE 2335 2391	atrial fibrillation with controlled ventricular response
+T33	DISEASE 2505 2521	pleural effusion
+T35	DISEASE 3520 3545	intraventricular thrombus
+T36	DISEASE 4263 4283	pericardial effusion
+T37	DISEASE 5742 5763	intracavitary thrombi
+T48	DISEASE 5756 5763	thrombi
+T38	DISEASE 5896 5909	tumour lesion
+T39	DISEASE 5913 5937	infectious consolidation
+T40	DISEASE 6023 6033	thrombosis
+T41	DISEASE 6113 6138	high output heart failure
+T42	DISEASE 6813 6839	Secondary pleural effusion
+T34	DISEASE 6823 6839	pleural effusion
+T44	DISEASE 6904 6934	Severe ventricular dysfunction
+T46	DISEASE 6990 7022	Ischaemic dilated cardiomyopathy
+T47	DISEASE 7024 7056	3-vessel coronary artery disease

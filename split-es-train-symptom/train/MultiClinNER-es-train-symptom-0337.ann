@@ -1,0 +1,19 @@
+T1	SYMPTOM 363 388	transiluminación positiva
+T2	SYMPTOM 1130 1182	testículo ocupado en su totalidad por una tumoración
+T3	SYMPTOM 1331 1341	tumoración
+T4	SYMPTOM 1753 1763	tumoración
+T5	SYMPTOM 1893 1940	Rx de tórax y TAC abdomino-pélvico fue negativo
+T6	SYMPTOM 1946 2010	marcadores tumorales presentaban valores dentro de la normalidad
+T7	SYMPTOM 304 357	hemiescroto izquierdo de tamaño muy grande, a tensión
+T8	SYMPTOM 605 624	buen estado general
+T9	SYMPTOM 759 790	testículo izquierdo heterogéneo
+T10	SYMPTOM 55 88	aumento progresivo de hemiescroto
+T11	SYMPTOM 897 931	Testículo derecho sin alteraciones
+T12	SYMPTOM 1228 1239	tumo-ración
+T13	SYMPTOM 2071 2090	buen estado general
+T14	SYMPTOM 2095 2115	marcadores negativos
+A1	IMAGEN T5
+A2	RESULTADO T6
+A3	IMAGEN T9
+A4	IMAGEN T11
+A5	RESULTADO T14

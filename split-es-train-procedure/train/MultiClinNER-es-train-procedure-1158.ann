@@ -1,0 +1,46 @@
+T71	PROCEDURE 272 292	cateterismo cardiaco
+T72	PROCEDURE 392 426	se implantó un stent farmacoactivo
+T73	PROCEDURE 507 535	ecocardiograma transtorácico
+T74	PROCEDURE 537 540	ETT
+T75	PROCEDURE 869 909	tratamiento crónico con inmunosupresores
+T76	PROCEDURE 1054 1072	exploración física
+T77	PROCEDURE 1295 1311	test de esfuerzo
+T78	PROCEDURE 1316 1326	ergometría
+T79	PROCEDURE 1466 1476	ergometría
+T80	PROCEDURE 1764 1785	auscultación cardiaca
+T81	PROCEDURE 2179 2188	Hemograma
+T82	PROCEDURE 2728 2748	Estudio inmunológico
+T83	PROCEDURE 2834 2852	Electrocardiograma
+T84	PROCEDURE 2950 2970	Radiografía de tórax
+T85	PROCEDURE 3010 3055	Ecocardiograma transtorácico y transesofágico
+T86	PROCEDURE 3908 3928	Cateterismo cardiaco
+T87	PROCEDURE 4118 4144	Angio-TC de aorta torácica
+T88	PROCEDURE 4659 4681	Biopsia (válvula aorta
+T89	PROCEDURE 4930 4990	revascularizada percutáneamente mediante stent farmacoactivo
+T90	PROCEDURE 5061 5079	exploración física
+T91	PROCEDURE 5222 5236	ecocardiograma
+T92	PROCEDURE 5473 5501	ecocardiograma transtorácico
+T93	PROCEDURE 5520 5534	transesofágico
+T94	PROCEDURE 5903 5906	ECG
+T95	PROCEDURE 5974 5988	ecocardiograma
+T96	PROCEDURE 6000 6015	coronariografía
+T97	PROCEDURE 6208 6225	revascularización
+T98	PROCEDURE 6509 6526	angio-TAC aórtico
+T99	PROCEDURE 6645 6654	angio-TAC
+T100	PROCEDURE 6924 6956	tratamiento con glucocorticoides
+T101	PROCEDURE 7290 7315	glucocorticoides vía oral
+T102	PROCEDURE 7327 7387	sustitución de la válvula aórtica por prótesis metálica no21
+T103	PROCEDURE 7390 7532	revascularización coronaria mediante bypass aorto-coronario de vena safena a arteria descendente anterior media y a coronaria derecha proximal
+T104	PROCEDURE 7847 7884	balón de contrapulsación intraaórtico
+T112	PROCEDURE 2250 2261	Coagulación
+T113	PROCEDURE 4586 4606	Serología infecciosa
+T114	PROCEDURE 6597 6621	reactantes de fase aguda
+T115	PROCEDURE 6630 6640	serologías
+T116	PROCEDURE 2279 2299	Bioquímica de sangre
+T117	PROCEDURE 2445 2464	Bioquímica completa
+T118	PROCEDURE 6563 6585	estudios inmunológicos
+T119	PROCEDURE 7824 7830	aminas
+T120	PROCEDURE 8100 8118	retirada del balón
+T121	PROCEDURE 8080 8097	destete de aminas
+T15	PROCEDURE 4053 4116	stent previamente implantado a nivel del tronco común izquierdo
+T126	PROCEDURE 6623 6626	RFA

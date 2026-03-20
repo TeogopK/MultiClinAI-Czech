@@ -1,0 +1,26 @@
+T51	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T73	PROCEDURE 1364 1392	markers of myocardial damage
+T52	PROCEDURE 1395 1415	Physical examination
+T74	PROCEDURE 1572 1588	supplementary O2
+T53	PROCEDURE 1590 1599	diuretics
+T54	PROCEDURE 1631 1646	bronchodilators
+T55	PROCEDURE 1746 1766	Cardiac auscultation
+T56	PROCEDURE 1810 1832	Pulmonary auscultation
+T57	PROCEDURE 1995 2012	Electrocardiogram
+T58	PROCEDURE 2014 2017	ECG
+T59	PROCEDURE 2127 2138	Chest X-ray
+T60	PROCEDURE 2272 2283	Blood count
+T61	PROCEDURE 2403 2414	Coagulation
+T70	PROCEDURE 2432 2444	Biochemistry
+T71	PROCEDURE 2503 2507	Ions
+T72	PROCEDURE 2518 2532	liver function
+T75	PROCEDURE 2606 2637	Biomarkers of myocardial damage
+T62	PROCEDURE 2772 2788	Echocardiography
+T63	PROCEDURE 3321 3368	Coronary angiography via the left radial artery
+T6	PROCEDURE 3488 3548	functional assessment of both lesions with a pressure guide,
+T64	PROCEDURE 3676 3694	acetylcholine test
+T65	PROCEDURE 4121 4139	acetylcholine test
+T66	PROCEDURE 4201 4220	depletive treatment
+T68	PROCEDURE 4268 4288	coronary angiography
+T69	PROCEDURE 4290 4312	beta-blocker treatment
+T76	PROCEDURE 4345 4383	non-dihydropyridine calcium antagonist

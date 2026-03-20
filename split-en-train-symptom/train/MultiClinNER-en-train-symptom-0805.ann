@@ -1,0 +1,55 @@
+T1	SYMPTOM 474 484	chest pain
+T2	SYMPTOM 491 527	coronary angiography without lesions
+T33	SYMPTOM 979 986	syncope
+T9	SYMPTOM 1020 1045	sensation of palpitations
+T3	SYMPTOM 1059 1075	chest discomfort
+T4	SYMPTOM 1121 1137	chest discomfort
+T5	SYMPTOM 1139 1145	nausea
+T6	SYMPTOM 1147 1155	headache
+T41	SYMPTOM 1160 1176	general weakness
+T7	SYMPTOM 1181 1198	sphincter release
+T8	SYMPTOM 1396 1413	vegetative cortex
+T10	SYMPTOM 1489 1501	palpitations
+T14	SYMPTOM 1677 1689	asymptomatic
+T16	SYMPTOM 1702 1723	neurological focality
+T17	SYMPTOM 1725 1748	Haemodynamically stable
+T18	SYMPTOM 1831 1839	Oriented
+T42	SYMPTOM 1844 1855	cooperative
+T19	SYMPTOM 1860 1881	jugular ingurgitation
+T20	SYMPTOM 1905 1926	rhythmic heart sounds
+T21	SYMPTOM 1935 1942	murmurs
+T22	SYMPTOM 1968 1994	preserved vesicular murmur
+T43	SYMPTOM 1996 2022	Abdomen: soft, non-painful
+T23	SYMPTOM 2027 2033	masses
+T24	SYMPTOM 2048 2070	Lower limbs: no oedema
+T31	SYMPTOM 2048 2070	Lower limbs: no oedema
+T25	SYMPTOM 2300 2312	sinus rhythm
+T39	SYMPTOM 2324 2335	normal axis
+T27	SYMPTOM 2337 2346	normal PR
+T28	SYMPTOM 2348 2358	narrow QRS
+T44	SYMPTOM 2363 2391	repolarisation abnormalities
+T45	SYMPTOM 2429 2456	normal cardiothoracic index
+T37	SYMPTOM 2458 2483	Free costophrenic sinuses
+T46	SYMPTOM 2488 2499	infiltrates
+T29	SYMPTOM 2515 2533	Normal mediastinum
+T47	SYMPTOM 2567 2648	left ventricle (LV) of normal size, thickness and systolic and diastolic function
+T30	SYMPTOM 2650 2698	Right ventricle (RV) of normal size and function
+T48	SYMPTOM 2700 2753	Left atrium (LA) and right atrium (RA) of normal size
+T49	SYMPTOM 2808 2834	Aortic root of normal size
+T50	SYMPTOM 2874 2932	ventricles with preserved morphology and systolic function
+T32	SYMPTOM 2937 2943	oedema
+T26	SYMPTOM 2995 3007	sinus rhythm
+T11	SYMPTOM 3244 3256	palpitations
+T51	SYMPTOM 3265 3282	syncopal symptoms
+T52	SYMPTOM 4172 4240	Ventricular arrhythmia induction test was performed and was negative
+T38	SYMPTOM 4242 4267	Flecainide test: negative
+T34	SYMPTOM 4488 4495	syncope
+T35	SYMPTOM 4703 4710	syncope
+T12	SYMPTOM 4836 4848	palpitations
+T53	SYMPTOM 4859 4875	syncopal episode
+T54	SYMPTOM 5033 5052	R-over-T phenomenon
+T55	SYMPTOM 5479 5514	flecainide test, which was negative
+T40	SYMPTOM 5559 5619	cardiac magnetic resonance imaging (MRI) without alterations
+T13	SYMPTOM 6077 6089	palpitations
+T15	SYMPTOM 6365 6377	asymptomatic
+T36	SYMPTOM 6445 6452	syncope

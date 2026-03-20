@@ -1,0 +1,21 @@
+T1	SYMPTOM 364 370	disnea
+T2	SYMPTOM 445 459	dolor torácico
+T3	SYMPTOM 461 474	palpitaciones
+T4	SYMPTOM 533 540	afebril
+T5	SYMPTOM 636 666	Auscultación cardiaca: rítmica
+T6	SYMPTOM 673 679	soplos
+T7	SYMPTOM 704 734	estridor inspiratorio moderado
+T8	SYMPTOM 1119 1126	sinusal
+T9	SYMPTOM 1236 1264	índice cardiotorácico normal
+T11	SYMPTOM 1616 1637	estridor inspiratorio
+T12	SYMPTOM 1880 1886	disnea
+T14	SYMPTOM 2045 2110	ventrículo izquierdo no dilatado con función sistólica conservada
+T15	SYMPTOM 2112 2161	ventrículo derecho no dilatado y normofuncionante
+T65	SYMPTOM 1166 1212	alteraciones de la conducción o repolarización
+T66	SYMPTOM 2416 2495	presión pulmonar, de enclavamiento y presiones en cavidades izquierdas normales
+T67	SYMPTOM 1270 1284	condensaciones
+T68	SYMPTOM 1889 1901	desaturación
+T58	SYMPTOM 483 506	sintomatología cardiaca
+T59	SYMPTOM 739 828	exploración neurológica, abdominal y de las extremidades no evidenció ninguna anormalidad
+T60	SYMPTOM 1347 1395	complicaciones locales a nivel de aorta torácica
+T61	SYMPTOM 2202 2268	paso de burbujas derecha- izquierda tras infusión de suero agitado

@@ -1,0 +1,11 @@
+T4	PROCEDURE 594 614	Physical examination
+T8	PROCEDURE 881 896	abdominal X-ray
+T9	PROCEDURE 1065 1113	ultrasound scan showed a central abdominal image
+T3	PROCEDURE 1263 1277	colour Doppler
+T2	PROCEDURE 1421 1468	magnetic resonance imaging (MRI) of the abdomen
+T11	PROCEDURE 1449 1452	MRI
+T1	PROCEDURE 1961 1975	mid laparotomy
+T15	PROCEDURE 1980 2036	a multicystic mass containing whitish liquid was excised
+T17	PROCEDURE 2061 2149	loop of the middle ileum. The loop was resected and end-to-end anastomosis was performed
+T16	PROCEDURE 2073 2108	middle ileum. The loop was resected
+T5	PROCEDURE 2384 2404	pathological anatomy

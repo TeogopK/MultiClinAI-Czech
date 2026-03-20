@@ -1,0 +1,35 @@
+T72	PROCEDURE 399 420	antidiabéticos orales
+T73	PROCEDURE 807 822	coronariografía
+T74	PROCEDURE 1035 1133	triple bypass coronario (mamaria interna izquierda a ADA, safena a obtusa marginal y safena a ACD)
+T75	PROCEDURE 1143 1158	ecocardiografía
+T76	PROCEDURE 1582 1597	ecocardiografía
+T77	PROCEDURE 2461 2489	revascularización quirúrgica
+T78	PROCEDURE 2698 2721	rehabilitación cardiaca
+T79	PROCEDURE 2944 2958	oxigenoterapia
+T80	PROCEDURE 3045 3066	Auscultación cardiaca
+T81	PROCEDURE 3344 3347	ECG
+T82	PROCEDURE 3560 3575	Ecocardiografía
+T83	PROCEDURE 4135 4144	Hemograma
+T84	PROCEDURE 4456 4465	Hemograma
+T94	PROCEDURE 4224 4234	Bioquímica
+T95	PROCEDURE 4545 4555	Bioquímica
+T96	PROCEDURE 2818 2836	EXPLORACIÓN FÍSICA
+T97	PROCEDURE 4306 4321	Perfil lipídico
+T98	PROCEDURE 4628 4643	Perfil lipídico
+T99	PROCEDURE 4876 4915	tratamiento con estatinas a altas dosis
+T100	PROCEDURE 4251 4256	iones
+T101	PROCEDURE 4572 4577	iones
+T102	PROCEDURE 1526 1555	marcadores de daño miocárdico
+T103	PROCEDURE 5154 5182	medidas higiénico-dietéticas
+T123	PROCEDURE 4108 4117	Analítica
+T124	PROCEDURE 4405 4414	Analítica
+T141	PROCEDURE 1256 1265	analítica
+T142	PROCEDURE 1890 1899	analítica
+T143	PROCEDURE 5203 5212	analítica
+T144	PROCEDURE 5749 5758	analítica
+T145	PROCEDURE 2208 2218	analíticas
+T153	PROCEDURE 5587 5604	control analítico
+T164	PROCEDURE 2285 2311	intervenciones quirúrgicas
+T172	PROCEDURE 555 605	enfermedad multivaso completamente revascularizada
+T173	PROCEDURE 5893 5959	enfermedad multivaso completamente revascularizada quirúrgicamente
+T3	PROCEDURE 4588 4607	perfil hepatobiliar

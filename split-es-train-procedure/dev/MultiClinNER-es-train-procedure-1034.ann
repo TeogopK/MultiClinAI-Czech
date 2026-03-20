@@ -1,0 +1,52 @@
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 487 527	tratamiento antianginoso y antiisquémico
+T52	PROCEDURE 541 555	ecocardiograma
+T53	PROCEDURE 689 710	cateterismo coronario
+T54	PROCEDURE 776 800	tratamiento cardiológico
+T55	PROCEDURE 813 825	ansiolíticos
+T56	PROCEDURE 828 839	analgésicos
+T57	PROCEDURE 1010 1035	tratamiento antidepresivo
+T58	PROCEDURE 1050 1061	analgésicos
+T59	PROCEDURE 1099 1120	cateterismo coronario
+T60	PROCEDURE 1584 1598	antiagregantes
+T61	PROCEDURE 1603 1612	estatinas
+T62	PROCEDURE 1628 1657	SPECT de perfusión miocárdica
+T63	PROCEDURE 1668 1696	ecocardiograma transtorácico
+T64	PROCEDURE 2492 2508	coronariografías
+T65	PROCEDURE 2885 2914	SPECT de perfusión miocárdica
+T66	PROCEDURE 2982 3001	electrocardiogramas
+T67	PROCEDURE 3189 3209	seriación enzimática
+T68	PROCEDURE 3248 3268	Radiografía de tórax
+T69	PROCEDURE 3454 3472	Exploración física
+T70	PROCEDURE 3788 3806	exploración física
+T71	PROCEDURE 3835 3850	ecocardioscopia
+T72	PROCEDURE 4134 4155	cateterismo coronario
+T73	PROCEDURE 4849 4867	Electrocardiograma
+T74	PROCEDURE 4869 4872	ECG
+T75	PROCEDURE 5013 5033	Radiografía de tórax
+T76	PROCEDURE 5177 5192	Ecocardioscopia
+T77	PROCEDURE 5309 5337	Ecocardiograma transtorácico
+T78	PROCEDURE 5678 5707	SPECT de perfusión miocárdica
+T79	PROCEDURE 5749 5752	ECG
+T80	PROCEDURE 6049 6101	Cateterismo coronario con estudio funcional invasivo
+T82	PROCEDURE 6242 6326	estudio de disfunción microvascular mediante termodilución con bolos de suero salino
+T83	PROCEDURE 6428 6469	Test de vasorreactividad con acetilcolina
+T84	PROCEDURE 6617 6635	electrocardiograma
+T85	PROCEDURE 6864 6904	tratamiento antiisquémico y antianginoso
+T86	PROCEDURE 6923 6951	ecocardiograma transtorácico
+T87	PROCEDURE 6963 7015	cateterismo coronario con estudio funcional invasivo
+T89	PROCEDURE 7020 7044	estudio ecocardiográfico
+T90	PROCEDURE 7166 7187	cateterismo coronario
+T91	PROCEDURE 7323 7349	estudio funcional completo
+T92	PROCEDURE 7386 7425	termodilución con bolos de suero salino
+T93	PROCEDURE 7428 7462	perfusión de adenosina intravenosa
+T94	PROCEDURE 7526 7552	reserva de flujo coronario
+T95	PROCEDURE 7740 7774	test de vasorreactividad coronaria
+T96	PROCEDURE 8025 8028	ECG
+T98	PROCEDURE 8195 8218	tratamiento ansiolítico
+T99	PROCEDURE 8221 8234	antidepresivo
+T100	PROCEDURE 8675 8713	medicación antidepresiva y ansiolítica
+T101	PROCEDURE 8976 9002	estudio funcional invasivo
+T103	PROCEDURE 9095 9115	test de acetilcolina
+T143	PROCEDURE 4320 4329	Analítica
+T133	PROCEDURE 5761 5787	administración regadenoson

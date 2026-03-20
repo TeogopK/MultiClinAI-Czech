@@ -1,0 +1,33 @@
+T26	SYMPTOM 349 389	Carrier of subcutaneous venous reservoir
+T1	SYMPTOM 408 413	fever
+T2	SYMPTOM 426 434	vomiting
+T3	SYMPTOM 439 448	dizziness
+T4	SYMPTOM 509 519	irritative
+T27	SYMPTOM 520 525	cough
+T5	SYMPTOM 557 568	rhinorrhoea
+T6	SYMPTOM 573 580	otalgia
+T7	SYMPTOM 610 637	alterations in stool habits
+T28	SYMPTOM 684 732	pain and discomfort in the area of the reservoir
+T29	SYMPTOM 750 767	erythematous area
+T30	SYMPTOM 772 792	increased local heat
+T8	SYMPTOM 910 919	Conscious
+T9	SYMPTOM 921 929	oriented
+T10	SYMPTOM 975 996	rhythmic heart sounds
+T11	SYMPTOM 998 1009	tachycardic
+T12	SYMPTOM 1014 1021	murmurs
+T31	SYMPTOM 1092 1114	Bilateral PPR negative
+T32	SYMPTOM 1116 1144	Lower extremities: no oedema
+T13	SYMPTOM 1163 1211	Abdomen: soft, depressible, painful on palpation
+T24	SYMPTOM 1191 1230	painful on palpation of the epigastrium
+T14	SYMPTOM 1235 1241	masses
+T33	SYMPTOM 1245 1258	visceromegaly
+T34	SYMPTOM 1269 1290	Peristalsis preserved
+T17	SYMPTOM 1304 1314	peritonism
+T18	SYMPTOM 1316 1344	Blumberg and Murphy negative
+T19	SYMPTOM 1640 1695	Blood cultures: positive for Staphylococcus epidermidis
+T20	SYMPTOM 1789 1800	normal LVEF
+T21	SYMPTOM 1808 1831	contractile asymmetries
+T22	SYMPTOM 1833 1848	Normal diastole
+T35	SYMPTOM 1866 1902	MV of fine veils, preserved kinetics
+T25	SYMPTOM 1911 1935	VAo trivalva, fine veils
+T23	SYMPTOM 2022 2040	preserved function

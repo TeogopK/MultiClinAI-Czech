@@ -1,0 +1,51 @@
+T44	DISEASE 257 280	alergias medicamentosas
+T45	DISEASE 295 297	DM
+T46	DISEASE 302 305	HTA
+T47	DISEASE 310 320	dislipemia
+T48	DISEASE 465 488	Estenosis mitral severa
+T49	DISEASE 867 934	Fibrilación auricular permanente secundaria a su patología valvular
+T50	DISEASE 1815 1838	hipotensión refractaria
+T51	DISEASE 2220 2239	trombosis protésica
+T52	DISEASE 3321 3332	adenopatías
+T53	DISEASE 3677 3702	trombosis venosa profunda
+T54	DISEASE 3991 3994	TVP
+T55	DISEASE 5068 5094	AI con imágenes de trombos
+T56	DISEASE 5506 5552	trombo móvil en desembocadura de cava inferior
+T57	DISEASE 5703 5729	Trombosis protésica mitral
+T58	DISEASE 5773 5796	Múltiples trombos en AI
+T59	DISEASE 5798 5818	Disfunción VI severa
+T60	DISEASE 5821 5838	embolia coronaria
+T61	DISEASE 6398 6411	trombos en AI
+T62	DISEASE 7452 7463	anemización
+T63	DISEASE 7771 7797	Trombosis protésica mitral
+T64	DISEASE 7920 7978	Disfunción VI severa con alteraciones de la contractilidad
+T65	DISEASE 8059 8076	embolia coronaria
+T66	DISEASE 4496 4502	BIRDHH
+T67	DISEASE 1592 1595	EAP
+T68	DISEASE 1704 1714	FA con RVR
+T69	DISEASE 2971 2973	FA
+T70	DISEASE 4448 4450	FA
+T71	DISEASE 5297 5299	FA
+T72	DISEASE 322 340	Fumador esporádico
+T73	DISEASE 774 802	Regurgitación aórtica ligera
+T74	DISEASE 379 395	bebedor habitual
+T75	DISEASE 1569 1590	edema agudo de pulmón
+T76	DISEASE 6197 6216	lesiones coronarias
+T77	DISEASE 804 831	Dilatación ligera auricular
+T78	DISEASE 3733 3749	tonos arrítmicos
+T79	DISEASE 4181 4221	suelta trombótica a cavidades izquierdas
+T80	DISEASE 7199 7227	alteración de la coagulación
+T81	DISEASE 7876 7916	suelta trombótica a cavidades izquierdas
+T82	DISEASE 8080 8146	Deterioro de la función renal secundario a situación de bajo gasto
+T155	DISEASE 6877 6896	bradicardia sinusal
+T42	DISEASE 5434 5440	trombo
+T153	DISEASE 6414 6463	trombos que ocasionaban oclusión del citado disco
+#1	AnnotatorNotes T45	 DM: diabetes mellitus
+#2	AnnotatorNotes T46	 HTA: hipertensión arterial
+#3	AnnotatorNotes T54	 TVP: trombosis venosa profunda
+#4	AnnotatorNotes T66	 BIRDHH: Bloqueo incompleto rama derecha Haz de Hiz
+#5	AnnotatorNotes T67	 EAP: edema agudo de pulmón
+#6	AnnotatorNotes T68	 FA: fibrilación auricular|RVR: respuesta ventricular rápida
+#7	AnnotatorNotes T69	FA: fibrilación auricular
+#8	AnnotatorNotes T70	 FA: fibrilación auricular
+#9	AnnotatorNotes T71	 FA: fibrilación auricular

@@ -1,0 +1,13 @@
+T10	DISEASE 38 48	ex-smoking
+T11	DISEASE 50 62	hypertension
+T12	DISEASE 64 73	type 2 DM
+T1	DISEASE 75 89	morbid obesity
+T9	DISEASE 406 422	syncopal episode
+T2	DISEASE 487 508	hydrosaline depletion
+T3	DISEASE 995 1038	pre-renal ARF secondary to volume depletion
+T4	DISEASE 1022 1038	volume depletion
+T5	DISEASE 1040 1053	hyponatraemia
+T6	DISEASE 1058 1070	hypokalaemia
+T17	DISEASE 1247 1266	respiratory failure
+T7	DISEASE 1271 1318	septic shock secondary to respiratory infection
+T8	DISEASE 1297 1318	respiratory infection

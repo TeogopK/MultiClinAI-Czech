@@ -1,0 +1,68 @@
+T1	SYMPTOM 87 101	dolor torácico
+T2	SYMPTOM 496 518	Serología VIH negativa
+T3	SYMPTOM 876 905	dolor centrotorácico opresivo
+T4	SYMPTOM 1051 1057	disnea
+T5	SYMPTOM 1060 1070	diaforesis
+T6	SYMPTOM 1224 1238	dolor torácico
+T7	SYMPTOM 1362 1426	seriación de marcadores de daño miocárdico que resultan normales
+T8	SYMPTOM 1587 1597	Consciente
+T9	SYMPTOM 1600 1609	orientado
+T10	SYMPTOM 1611 1635	Aceptable estado general
+T11	SYMPTOM 1637 1647	caquéctico
+T12	SYMPTOM 1668 1682	normocoloreado
+T13	SYMPTOM 1684 1702	Eupneico en reposo
+T14	SYMPTOM 1727 1757	Auscultación cardiaca: rítmica
+T15	SYMPTOM 1778 1784	soplos
+T16	SYMPTOM 1788 1798	extratonos
+T17	SYMPTOM 1823 1853	murmullo vesicular conservados
+T19	SYMPTOM 1892 1921	Exploración abdominal anodina
+T20	SYMPTOM 1923 1957	Extremidades inferiores sin edemas
+T21	SYMPTOM 2042 2055	ritmo sinusal
+T22	SYMPTOM 2081 2093	QRS estrecho
+T23	SYMPTOM 2202 2212	QTc normal
+T24	SYMPTOM 2297 2347	Elevación del segmento ST de 2 mm en cara inferior
+T25	SYMPTOM 2349 2384	Descenso del ST de V1-V4, aVR y aVL
+T26	SYMPTOM 2410 2446	ondas T negativas profundas en V1-V3
+T27	SYMPTOM 2514 2544	función renal e iones normales
+T28	SYMPTOM 2546 2591	Perfil hepatobiliar sin hallazgos patológicos
+T29	SYMPTOM 2617 2663	Test de tóxicos: positivo para benzodiacepinas
+T30	SYMPTOM 2888 2916	índice cardiotorácico normal
+T31	SYMPTOM 2949 2964	consolidaciones
+T32	SYMPTOM 2967 2994	infiltrados parenquimatosos
+T33	SYMPTOM 3266 3317	cavidades cardiacas de tamaño y morfología normales
+T34	SYMPTOM 3319 3366	Válvula mitral con velo anterior muy redundante
+T35	SYMPTOM 3656 3693	Función del ventrículo derecho normal
+T36	SYMPTOM 3695 3712	Pericardio normal
+T37	SYMPTOM 3830 3843	ritmo sinusal
+T38	SYMPTOM 3854 3866	QRS estrecho
+T39	SYMPTOM 3868 3901	Ondas T negativas profundas V2-V6
+T40	SYMPTOM 3903 3964	Ondas T negativas de menor magnitud en cara inferior, I y aVL
+T41	SYMPTOM 4141 4173	engrosamiento de papila duodenal
+T42	SYMPTOM 4597 4611	dolor torácico
+T43	SYMPTOM 4636 4669	elevación del ST en cara inferior
+T44	SYMPTOM 5439 5455	dolor precordial
+T47	SYMPTOM 6463 6489	inestabilidad hemodinámica
+T48	SYMPTOM 6765 6776	hipotensión
+T49	SYMPTOM 7352 7363	somnolencia
+T50	SYMPTOM 7811 7823	asintomático
+T51	SYMPTOM 7849 7863	dolor torácico
+T52	SYMPTOM 8334 8346	asintomático
+T53	SYMPTOM 8349 8374	hemodinámicamente estable
+T73	SYMPTOM 4337 4380	Micronódulo inespecífico en lóbulo inferior
+T154	SYMPTOM 2593 2615	Autoinmunidad negativa
+T18	SYMPTOM 2148 2200	alteraciones de la conducción o de la repolarización
+T61	SYMPTOM 2918 2944	Senos costofrénicos libres
+T152	SYMPTOM 3144 3183	calibre fino de todo el árbol coronario
+T153	SYMPTOM 3490 3548	Contractilidad segmentaria del ventrículo izquierdo normal
+T70	SYMPTOM 4819 4858	calibre fino de todo el árbol coronario
+T87	SYMPTOM 5105 5167	seriación de marcadores de daño miocárdico que fueron normales
+T157	SYMPTOM 6838 6849	vasoespasmo
+T160	SYMPTOM 7555 7566	vasoespasmo
+T161	SYMPTOM 7866 7877	vasoespasmo
+T164	SYMPTOM 8026 8037	vasoespasmo
+T165	SYMPTOM 8202 8223	crisis de vasoespasmo
+T190	SYMPTOM 2459 2500	hemograma y estudio de coagulación normal
+T171	SYMPTOM 1708 1725	datos congestivos
+T172	SYMPTOM 2708 2752	proteinograma con banda monoclonal IgM/Kappa
+T45	SYMPTOM 6328 6404	función renal y los iones, incluidos el potasio y el magnesio, eran normales
+T179	SYMPTOM 7428 7468	proteinograma banda monoclonal IgM Kappa

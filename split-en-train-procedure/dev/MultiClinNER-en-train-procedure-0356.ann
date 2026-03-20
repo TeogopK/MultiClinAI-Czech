@@ -1,0 +1,12 @@
+T4	PROCEDURE 380 391	antipyretic
+T1	PROCEDURE 435 455	physical examination
+T12	PROCEDURE 811 832	examination by system
+T7	PROCEDURE 1014 1037	Rumpell-Leade loop test
+T2	PROCEDURE 1102 1128	haematological examination
+T3	PROCEDURE 1395 1412	Coagulation tests
+T6	PROCEDURE 1442 1454	Biochemistry
+T18	PROCEDURE 1520 1536	Thick blood film
+T19	PROCEDURE 1541 1552	blood smear
+T5	PROCEDURE 1581 1603	immunological analysis
+T22	PROCEDURE 1762 1778	Thick blood film
+T23	PROCEDURE 1783 1794	blood smear

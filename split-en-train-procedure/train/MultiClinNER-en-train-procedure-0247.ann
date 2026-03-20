@@ -1,0 +1,10 @@
+T2	PROCEDURE 67 77	ultrasound
+T10	PROCEDURE 321 328	CT scan
+T11	PROCEDURE 513 518	renal
+T12	PROCEDURE 569 601	Bone scintigraphy with Tc99m-MDP
+T14	PROCEDURE 701 726	radical right nephrectomy
+T6	PROCEDURE 916 926	dissection
+T5	PROCEDURE 933 953	anatomo-pathological
+T4	PROCEDURE 1165 1190	immunohistochemical study
+T1	PROCEDURE 1431 1447	ultrasound scans
+T23	PROCEDURE 1459 1467	CT scans

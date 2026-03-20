@@ -1,0 +1,67 @@
+T1	SYMPTOM 938 959	oppressive chest pain
+T2	SYMPTOM 1230 1238	dyspnoea
+T5	SYMPTOM 1286 1296	chest pain
+T6	SYMPTOM 10521 10531	chest pain
+T9	SYMPTOM 1327 1331	pain
+T10	SYMPTOM 3033 3037	pain
+T11	SYMPTOM 4244 4248	pain
+T13	SYMPTOM 2392 2416	haemodynamic instability
+T14	SYMPTOM 3057 3077	ST-segment elevation
+T15	SYMPTOM 1542 1560	haemodynamic alert
+T16	SYMPTOM 3131 3149	haemodynamic alert
+T17	SYMPTOM 3801 3821	Rhythmic heart tones
+T18	SYMPTOM 3900 3932	Lower extremities without oedema
+T19	SYMPTOM 4083 4092	normal PR
+T20	SYMPTOM 4280 4289	normal PR
+T21	SYMPTOM 4470 4479	normal PR
+T22	SYMPTOM 4094 4104	Narrow QRS
+T23	SYMPTOM 4291 4301	Narrow QRS
+T24	SYMPTOM 4481 4491	Narrow QRS
+T25	SYMPTOM 4106 4131	Q wave in II, III and aVF
+T26	SYMPTOM 4359 4384	Q wave in II, III and aVF
+T27	SYMPTOM 4303 4334	ST elevation in II, III and aVF
+T28	SYMPTOM 4445 4457	Sinus rhythm
+T29	SYMPTOM 4516 4572	Chest X-ray on admission (image 3): CTI within normality
+T30	SYMPTOM 4615 4638	vascular redistribution
+T31	SYMPTOM 5634 5663	anti-cardiolipin IgM negative
+T32	SYMPTOM 5665 5694	anti-cardiolipin IgM negative
+T33	SYMPTOM 5696 5725	anti-cardiolipin IgM negative
+T34	SYMPTOM 5865 5889	factor V Leiden negative
+T35	SYMPTOM 7184 7206	Normal right ventricle
+T36	SYMPTOM 7729 7763	preserved global systolic function
+T37	SYMPTOM 7835 7861	Atria of normal dimensions
+T40	SYMPTOM 8550 8556	oedema
+T41	SYMPTOM 8765 8806	ganglionic formations of significant size
+T43	SYMPTOM 9420 9471	Normal calibre and distribution of intestinal loops
+T44	SYMPTOM 9619 9640	haemodynamic lability
+T45	SYMPTOM 10020 10031	hypotension
+T46	SYMPTOM 10559 10588	dyspnoea on moderate exertion
+T47	SYMPTOM 10661 10673	palpitations
+T48	SYMPTOM 4053 4070	sinus tachycardia
+T49	SYMPTOM 4250 4267	sinus tachycardia
+T50	SYMPTOM 5757 5791	beta 2-glycoprotein-I IgG negative
+T51	SYMPTOM 5793 5827	beta 2-glycoprotein-I IgM negative
+T52	SYMPTOM 5891 5928	factor II (G20210A mutation) negative
+T53	SYMPTOM 6303 6349	homogeneous IFA pattern ENA screening negative
+T54	SYMPTOM 7549 7602	severe depression of global systolic function at rest
+T55	SYMPTOM 390 418	Negative thrombophilia study
+T4	SYMPTOM 996 1095	moderate intensity epigastralgia with subsequent irradiation to the central thoracic region and nec
+T7	SYMPTOM 1113 1132	vegetative cramping
+T58	SYMPTOM 3851 3898	Bladder murmur preserved with no over-additions
+T38	SYMPTOM 3934 3977	peripheral pulses preserved and symmetrical
+T59	SYMPTOM 4143 4150	ST rise
+T60	SYMPTOM 4389 4416	ST descent in I, aVL, V1-V2
+T61	SYMPTOM 4577 4604	costophrenic sinus pinching
+T62	SYMPTOM 5603 5632	anti-cardiolipin IgG negative
+T63	SYMPTOM 6533 6590	akinesia of all apical, anterior and mid-lateral segments
+T64	SYMPTOM 6651 6697	RV of normal size with preserved contractility
+T65	SYMPTOM 6929 6992	marked hypokinesia of anterior, lateral and septal mid segments
+T66	SYMPTOM 7279 7301	LV with normal volumes
+T39	SYMPTOM 7679 7693	Non-dilated RV
+T67	SYMPTOM 8463 8480	preserved volumes
+T68	SYMPTOM 8526 8548	contractile alteration
+T69	SYMPTOM 8832 8845	condensations
+T42	SYMPTOM 8811 8828	pulmonary nodules
+T70	SYMPTOM 8932 8962	heterogeneous uterus, enlarged
+T71	SYMPTOM 9334 9418	lymph node formations of significant size were observed in the abdominopelvic chains
+T3	SYMPTOM 10675 10683	syncopal

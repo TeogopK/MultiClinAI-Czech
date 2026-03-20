@@ -1,0 +1,60 @@
+T116	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T117	PROCEDURE 690 713	exploración neurológica
+T118	PROCEDURE 1013 1031	exploración física
+T119	PROCEDURE 1046 1067	auscultación cardiaca
+T120	PROCEDURE 1099 1124	auscultación respiratoria
+T121	PROCEDURE 1197 1215	electrocardiograma
+T122	PROCEDURE 1234 1253	analítica sanguínea
+T123	PROCEDURE 1291 1309	electrocardiograma
+T124	PROCEDURE 1328 1347	analítica sanguínea
+T125	PROCEDURE 1447 1487	tomografía computarizada (TC) multimodal
+T126	PROCEDURE 1473 1475	TC
+T127	PROCEDURE 2204 2222	Electrocardiograma
+T128	PROCEDURE 2224 2227	ECG
+T129	PROCEDURE 2962 2987	TC craneal y de perfusión
+T130	PROCEDURE 3831 3868	Angio-TC de TSA y arterias cerebrales
+T131	PROCEDURE 5263 5285	Estudio de trombofilia
+T132	PROCEDURE 5501 5517	TC tórax con CIV
+T133	PROCEDURE 6562 6564	TC
+T134	PROCEDURE 6752 6790	Eco Doppler de extremidades inferiores
+T135	PROCEDURE 6818 6846	Ecocardiograma transtorácico
+T136	PROCEDURE 7736 7762	ecocardiograma de burbujas
+T137	PROCEDURE 7820 7892	Ecocardiograma transtorácico con burbujas: test de burbujas muy positivo
+T139	PROCEDURE 7967 7996	Ecocardiograma transesofágico
+T141	PROCEDURE 8074 8090	test de burbujas
+T142	PROCEDURE 8479 8505	Estudio electrofisiológico
+T143	PROCEDURE 9048 9069	aplicación de RF 35 W
+T144	PROCEDURE 9328 9364	estimulación auricular y ventricular
+T145	PROCEDURE 9662 9726	Se implanta Holter subcutáneo en posición paraesternal izquierda
+T146	PROCEDURE 9729 9732	ECG
+T147	PROCEDURE 9871 9895	Cierre percutáneo de FOP
+T149	PROCEDURE 9991 10002	angiografía
+T150	PROCEDURE 10112 10132	soporte hemodinámico
+T151	PROCEDURE 10134 10168	monitorización cardiorrespiratoria
+T152	PROCEDURE 10276 10298	estudio de coagulación
+T153	PROCEDURE 10595 10626	angio-TC de arterias pulmonares
+T154	PROCEDURE 10692 10702	TC craneal
+T156	PROCEDURE 10919 10953	eco Doppler de miembros inferiores
+T157	PROCEDURE 11017 11045	ecocardiograma transtorácico
+T158	PROCEDURE 11198 11225	ecocardiograma con burbujas
+T159	PROCEDURE 11231 11260	ecocardiograma transesofágico
+T160	PROCEDURE 11567 11595	ablación de la vía accesoria
+T161	PROCEDURE 11629 11646	Holter subcutáneo
+T162	PROCEDURE 11990 12034	cierre percutáneo del FOP de tipo tunelizado
+T163	PROCEDURE 12348 12374	Profilaxis de endocarditis
+T164	PROCEDURE 12416 12449	procedimientos dentales invasivos
+T165	PROCEDURE 12668 12683	anticoagulación
+T166	PROCEDURE 12726 12735	angio-TAC
+T167	PROCEDURE 12906 12923	Holter subcutáneo
+T168	PROCEDURE 13195 13260	Foramen oval permeable de tipo tunelizado cerrado percutáneamente
+T169	PROCEDURE 13262 13294	Ablación de vía accesoria de WPW
+T172	PROCEDURE 10835 10870	anticoagulación con heparina sódica
+T178	PROCEDURE 1373 1384	coagulación
+T179	PROCEDURE 10760 10772	fibrinólisis
+T180	PROCEDURE 12140 12168	medidas higiénico-dietéticas
+T181	PROCEDURE 9892 9933	FOP: se implanta un dispositivo de cierre
+T194	PROCEDURE 2537 2546	Analítica
+T195	PROCEDURE 4696 4705	Analítica
+T215	PROCEDURE 3668 3688	estudio de perfusión
+T221	PROCEDURE 12099 12111	intervención
+T240	PROCEDURE 2155 2177	tratamiento quirúrgico

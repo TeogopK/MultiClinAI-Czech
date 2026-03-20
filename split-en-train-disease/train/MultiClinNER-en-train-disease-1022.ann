@@ -1,0 +1,81 @@
+T28	DISEASE 94 115	arterial hypertension
+T1	DISEASE 117 120	AHT
+T29	DISEASE 170 200	Wolff-Parkinson-White syndrome
+T30	DISEASE 202 205	WPW
+T75	DISEASE 711 740	horizontal-rotatory nystagmus
+T5	DISEASE 1307 1345	occlusion of the left vertebral artery
+T36	DISEASE 1382 1396	acute thrombus
+T6	DISEASE 1409 1497	chronic ischaemic lesions in the basal ganglia, left thalamus and cerebellar hemispheres
+T40	DISEASE 1549 1569	neurological deficit
+T42	DISEASE 1587 1595	thrombus
+T7	DISEASE 1858 1864	Stroke
+T31	DISEASE 2281 2284	WPW
+T10	DISEASE 2810 2834	chronic ischaemic lesion
+T11	DISEASE 3019 3043	chronic lacunar infarcts
+T37	DISEASE 3355 3369	acute thrombus
+T12	DISEASE 3463 3519	Retention cysts in maxillary and left sphenoidal sinuses
+T13	DISEASE 3639 3735	non-obstructive flat calcified atheroma plaque at the origin of the left internal carotid artery
+T38	DISEASE 3936 3950	acute thrombus
+T47	DISEASE 4135 4144	aneurysms
+T48	DISEASE 4183 4239	acute thrombus in V3 and V4 of the left vertebral artery
+T14	DISEASE 4241 4344	Chronic ischaemic lesions in the left basal ganglia and thalamus and in the right cerebellar hemisphere
+T74	DISEASE 4932 4945	Thrombophilia
+T16	DISEASE 5165 5168	PET
+T72	DISEASE 5430 5471	bilateral acute pulmonary thromboembolism
+T59	DISEASE 5446 5471	pulmonary thromboembolism
+T17	DISEASE 5602 5605	PTE
+T49	DISEASE 5662 5682	pericardial effusion
+T18	DISEASE 5699 5774	significant supraclavicular, axillary, mediastinal or hilar lymphadenopathy
+T19	DISEASE 5847 5874	Laminar bibasal atelectasis
+T51	DISEASE 5882 5908	calcified granuloma in LSD
+T52	DISEASE 5972 5988	pleural effusion
+T53	DISEASE 5990 6019	Mild dorsal spondyloarthrosis
+T54	DISEASE 6021 6034	Hiatal hernia
+T55	DISEASE 6084 6103	bilateral acute PTE
+T20	DISEASE 6108 6111	PHT
+T22	DISEASE 6148 6236	evolving ischaemic lesion in the left cerebellar hemisphere in the territory of the PICA
+T56	DISEASE 6341 6344	DVT
+T24	DISEASE 6392 6398	stroke
+T57	DISEASE 6438 6456	septal hypertrophy
+T58	DISEASE 6767 6800	Degenerative aortic valve disease
+T76	DISEASE 6814 6839	mild aortic insufficiency
+T25	DISEASE 6905 6933	Mild tricuspid insufficiency
+T50	DISEASE 6982 7002	pericardial effusion
+T26	DISEASE 7086 7120	Aneurysm of the interatrial septum
+T39	DISEASE 7259 7292	shunt from right to left cavities
+T43	DISEASE 7531 7537	stroke
+T44	DISEASE 7539 7542	PTE
+T45	DISEASE 7585 7609	PFO of the tunneled type
+T46	DISEASE 7867 7875	thrombus
+T115	DISEASE 7911 7943	patent foramen ovale tunnel type
+T122	DISEASE 8133 8146	Preexcitation
+T77	DISEASE 8567 8581	pre-excitation
+T78	DISEASE 9279 9293	pre-excitation
+T126	DISEASE 9573 9579	stroke
+T60	DISEASE 10022 10047	pulmonary thromboembolism
+T86	DISEASE 10049 10052	PTE
+T62	DISEASE 10130 10149	acute bilateral PTE
+T63	DISEASE 10483 10503	deep vein thrombosis
+T64	DISEASE 10550 10579	right ventricular dysfunction
+T128	DISEASE 10613 10647	aneurysm of the interatrial septum
+T131	DISEASE 10770 10773	PFO
+T132	DISEASE 10824 10830	stroke
+T133	DISEASE 10833 10836	PTE
+T134	DISEASE 10858 10889	paradoxical embolism due to PFO
+T32	DISEASE 10908 10911	WPW
+T65	DISEASE 10936 10946	arrhythmia
+T66	DISEASE 10973 10992	atrial fibrillation
+T33	DISEASE 11009 11012	WPW
+T68	DISEASE 11148 11159	arrhythmias
+T69	DISEASE 11182 11194	WPW syndrome
+T34	DISEASE 11205 11215	recurrence
+T137	DISEASE 11497 11509	tunneled PFO
+T138	DISEASE 11779 11797	pre-diabetes stage
+T70	DISEASE 11799 11811	Endocarditis
+T139	DISEASE 12172 12202	thrombotic remnants of the PTE
+T67	DISEASE 12298 12317	atrial fibrillation
+T71	DISEASE 12359 12410	Acute ischaemic stroke in vertebrobasilar territory
+T140	DISEASE 12412 12549	acute occlusion segment V3-4 of the left vertebral artery with involvement of the ipsilateral posterior inferior cerebellar artery (PICA)
+T73	DISEASE 12554 12595	bilateral acute pulmonary thromboembolism
+T117	DISEASE 12628 12661	Permeable tunnelled foramen ovale
+T35	DISEASE 12685 12688	WPW

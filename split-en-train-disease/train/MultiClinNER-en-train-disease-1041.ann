@@ -1,0 +1,56 @@
+T20	DISEASE 86 98	hypertension
+T22	DISEASE 100 117	diabetes mellitus
+T23	DISEASE 122 149	chronic atrial fibrillation
+T1	DISEASE 257 320	double rheumatic mitral lesion with severe mitral regurgitation
+T24	DISEASE 373 402	moderate double aortic lesion
+T25	DISEASE 404 435	moderate pulmonary hypertension
+T2	DISEASE 883 902	infectious episodes
+T27	DISEASE 1321 1340	atrial fibrillation
+T53	DISEASE 1571 1588	myocardial damage
+T3	DISEASE 1983 2028	left ventricle slightly hypertrophic, dilated
+T4	DISEASE 2176 2186	Dilated LA
+T5	DISEASE 2220 2248	Sclerocalcified aortic valve
+T29	DISEASE 2285 2305	Double aortic lesion
+T30	DISEASE 2452 2481	Moderate aortic insufficiency
+T6	DISEASE 2719 2729	Dilated RA
+T7	DISEASE 2731 2742	Moderate TR
+T54	DISEASE 2771 2773	IP
+T31	DISEASE 2823 2834	Dilated IVC
+T32	DISEASE 2887 2907	pericardial effusion
+T8	DISEASE 2990 3014	Mild periprosthetic leak
+T9	DISEASE 3380 3388	thrombus
+T33	DISEASE 3390 3421	Calcified trivalve aortic valve
+T55	DISEASE 3573 3583	Dilated RV
+T10	DISEASE 3610 3621	Moderate TR
+T34	DISEASE 3626 3645	intracardiac shunts
+T12	DISEASE 4021 4029	thrombus
+T56	DISEASE 4050 4080	periprosthetic insufficiencies
+T11	DISEASE 4104 4169	fixed mural thrombus at the entrance of the left atrial appendage
+T13	DISEASE 4754 4798	non-significant stenosis in the ostial trunk
+T36	DISEASE 4968 4981	heart failure
+T38	DISEASE 5144 5188	severe left ventricular systolic dysfunction
+T39	DISEASE 5239 5270	moderate-severe aortic stenosis
+T14	DISEASE 5356 5407	intraventricular thrombus lining the mitral annulus
+T37	DISEASE 5813 5826	heart failure
+T15	DISEASE 5985 6024	acute ischaemia of the right lower limb
+T40	DISEASE 6232 6253	prosthetic thrombosis
+T41	DISEASE 6289 6308	peripheral embolism
+T17	DISEASE 6588 6596	thrombus
+T16	DISEASE 6936 6995	Aspergillus in the septifast of the "mitral valve thrombus"
+T18	DISEASE 7725 7765	cystic lesion in the left occipital lobe
+T44	DISEASE 7844 7856	aspergilloma
+T19	DISEASE 7907 8002	stroke in the left posterior cerebral artery territory with a haemorrhagic/infectious component
+T21	DISEASE 8023 8056	septic embolus due to Aspergillus
+T47	DISEASE 8245 8270	acute respiratory failure
+T26	DISEASE 8424 8468	severe depression of global LV contractility
+T48	DISEASE 8566 8591	pulmonary thromboembolism
+T28	DISEASE 8626 8656	electromechanical dissociation
+T35	DISEASE 8775 8892	dense, partially thrombosed structure anchored to the prosthetic disc, composed of thick septate and branched mycelia
+T45	DISEASE 8910 8922	aspergilloma
+T49	DISEASE 8991 9037	Fungal endocarditis on prosthetic mitral valve
+T50	DISEASE 9055 9077	Prosthetic valve block
+T42	DISEASE 9079 9143	Peripheral embolism with acute ischaemia of the right lower limb
+T51	DISEASE 9175 9225	Stroke in left posterior cerebral artery territory
+T46	DISEASE 9253 9265	aspergilloma
+T52	DISEASE 9268 9285	Cardiogenic shock
+T43	DISEASE 9287 9317	electromechanical dissociation

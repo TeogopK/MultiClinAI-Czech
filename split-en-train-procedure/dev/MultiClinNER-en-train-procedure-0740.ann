@@ -1,0 +1,21 @@
+T4	PROCEDURE 150 170	Physical examination
+T20	PROCEDURE 428 451	Preoperative evaluation
+T3	PROCEDURE 461 478	electrocardiogram
+T22	PROCEDURE 541 550	haemogram
+T6	PROCEDURE 661 675	liver function
+T26	PROCEDURE 679 701	CT scan of the abdomen
+T11	PROCEDURE 851 858	surgery
+T7	PROCEDURE 963 1009	laparoscopic hand-assisted radical nephrectomy
+T33	PROCEDURE 1071 1135	surgical procedure was performed with the placement of 4 trocars
+T8	PROCEDURE 1272 1345	Two 5 mm trocars are also placed in the epigastrium to separate the liver
+T15	PROCEDURE 1351 1432	surgeon's hand is introduced through an oblique incision in the right iliac fossa
+T9	PROCEDURE 1434 1453	Radical nephrectomy
+T10	PROCEDURE 1518 1601	kidney is placed in a polyethylene bag and removed through the iliac fossa incision
+T1	PROCEDURE 1843 1853	analgesics
+T12	PROCEDURE 1931 1938	surgery
+T13	PROCEDURE 1979 1986	surgery
+T2	PROCEDURE 2128 2134	biopsy
+T5	PROCEDURE 2775 2799	histological examination
+T49	PROCEDURE 3495 3504	pathology
+T50	PROCEDURE 3715 3729	renal function
+T14	PROCEDURE 3745 3752	surgery

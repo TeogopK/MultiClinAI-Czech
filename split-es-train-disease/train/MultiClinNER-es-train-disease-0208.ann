@@ -1,0 +1,20 @@
+T5	DISEASE 187 218	hepatopatía crónica por virus C
+T7	DISEASE 224 252	síndrome autoinmune de Evans
+T8	DISEASE 254 300	púrpura trombocitopénica autoinmune con anemia
+T9	DISEASE 583 613	catarata subcapsular posterior
+T11	DISEASE 1269 1297	adenopatías laterocervicales
+T17	DISEASE 693 803	desprendimiento neurosensorial y de epitelio pigmentario de la retina (EPR) en el polo posterior de ambos ojos
+T26	DISEASE 1600 1622	adenopatías cervicales
+T27	DISEASE 1636 1689	linfoma B difuso de célula grande con marcador CD20 +
+T30	DISEASE 1713 1757	linfoma no Hodgkin B difuso de célula grande
+T31	DISEASE 1066 1122	desprendimientos que afectaban a la mácula de ambos ojos
+T36	DISEASE 2036 2070	desprendimiento sensorial y de EPR
+T37	DISEASE 2081 2107	cicatrices retinocoroideas
+T40	DISEASE 2227 2234	linfoma
+T46	DISEASE 2518 2526	catarata
+T12	DISEASE 2414 2430	desprendimientos
+T49	DISEASE 1300 1319	diarrea persistente
+T50	DISEASE 828 836	lesiones
+T51	DISEASE 949 983	lesiones periféricas cicatriciales
+T52	DISEASE 2305 2313	lesiones
+#1	AnnotatorNotes T36	   EPR:Epitelio pigmentario retiniano

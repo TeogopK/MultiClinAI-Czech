@@ -1,0 +1,91 @@
+T2	SYMPTOM 882 905	deposiciones diarreicas
+T3	SYMPTOM 908 915	prurito
+T4	SYMPTOM 920 934	dolor torácico
+T5	SYMPTOM 939 945	disnea
+T6	SYMPTOM 950 965	dolor abdominal
+T7	SYMPTOM 970 976	fiebre
+T8	SYMPTOM 1031 1055	Aceptable estado general
+T9	SYMPTOM 1057 1075	Eupneico en reposo
+T10	SYMPTOM 1077 1092	Palidez cutánea
+T13	SYMPTOM 1167 1173	soplos
+T14	SYMPTOM 1177 1187	extratonos
+T15	SYMPTOM 1189 1218	Murmullo vesicular conservado
+T16	SYMPTOM 1223 1243	ruidos sobreañadidos
+T17	SYMPTOM 1245 1273	Abdomen: blando y depresible
+T18	SYMPTOM 1278 1301	doloroso a la palpación
+T19	SYMPTOM 1316 1337	irritación peritoneal
+T20	SYMPTOM 1352 1357	masas
+T21	SYMPTOM 1361 1376	visceromegalias
+T22	SYMPTOM 1378 1412	Extremidades inferiores: no edemas
+T23	SYMPTOM 2396 2443	Endoscopia digestiva alta (EDA): esófago normal
+T24	SYMPTOM 2569 2644	Estómago con buena motilidad y distensibilidad con mucosa de aspecto normal
+T25	SYMPTOM 2668 2693	leves petequias en fórnix
+T26	SYMPTOM 2734 2740	náusea
+T27	SYMPTOM 2771 2798	Píloro céntrico y permeable
+T28	SYMPTOM 2903 2928	Leves petequias en fórnix
+T29	SYMPTOM 3791 3818	Heces: Calprotectina normal
+T30	SYMPTOM 3841 3888	hígado de tamaño, bordes y ecogeneidad normales
+T31	SYMPTOM 4017 4050	Porta permeable de calibre normal
+T32	SYMPTOM 4117 4138	Bazo de tamaño normal
+T33	SYMPTOM 4418 4481	engrosamiento de septos interlobulillares y paredes bronquiales
+T34	SYMPTOM 4499 4527	patrón en vidrio deslustrado
+T36	SYMPTOM 4607 4649	rectificación del tabique interventricular
+T37	SYMPTOM 4852 4887	Edema del tejido celular subcutáneo
+T38	SYMPTOM 4918 4987	líquido libre en pelvis, entre asas, perihepático y en ambas gotieras
+T39	SYMPTOM 5018 5060	Aumento de calibre de venas suprahepáticas
+T40	SYMPTOM 5169 5223	engrosamiento mural edematoso en ciego y colon derecho
+T41	SYMPTOM 5322 5350	Líquido libre intraabdominal
+T42	SYMPTOM 5381 5427	engrosamiento edematoso en ciego/colon derecho
+T43	SYMPTOM 6211 6224	ritmo sinusal
+T44	SYMPTOM 6250 6273	crecimiento biauricular
+T45	SYMPTOM 6315 6324	QRS ancho
+T46	SYMPTOM 6400 6431	índice cardiotorácico aumentado
+T47	SYMPTOM 6433 6465	patrón de redistribución capilar
+T48	SYMPTOM 6477 6509	dilatación de aurícula izquierda
+T49	SYMPTOM 6514 6536	infiltrados alveolares
+T54	SYMPTOM 8266 8286	engrosamiento septal
+T56	SYMPTOM 8801 8825	Hipocinesia generalizada
+T58	SYMPTOM 9586 9617	índice cardiotorácico aumentado
+T59	SYMPTOM 9619 9651	patrón de redistribución capilar
+T60	SYMPTOM 9700 9722	infiltrados alveolares
+T62	SYMPTOM 11057 11095	Llenado ventricular izquierdo bifásico
+T63	SYMPTOM 11230 11270	ventrículo derecho (VD) nomorfuncionante
+T64	SYMPTOM 11608 11614	disnea
+T65	SYMPTOM 11623 11659	edematización de miembros inferiores
+T67	SYMPTOM 13412 13424	asintomático
+T77	SYMPTOM 1094 1161	Auscultación cardiorrespiratoria: tonos rítmicos a buena frecuencia
+T12	SYMPTOM 2221 2314	Anticuerpos antimitocondrias, anti-músculo liso, anti LKM y anti-células parietales negativos
+T185	SYMPTOM 2800 2845	Bulbo y segunda porción duodenal sin lesiones
+T187	SYMPTOM 3606 3646	IgG positivas para VHS y varicela zóster
+T188	SYMPTOM 3649 3703	negativos para citomegalovirus y virus de Epstein-Baar
+T189	SYMPTOM 3705 3789	Negativo IgM para VHS, varicela zóster, citomegalovirus, Epstein- Baar y hepatitis A
+T190	SYMPTOM 3962 3979	Vía biliar normal
+T191	SYMPTOM 3981 4015	Cava y suprahepáticas no dilatadas
+T192	SYMPTOM 4175 4198	Líquido libre en pelvis
+T193	SYMPTOM 4260 4277	líquido en pelvis
+T194	SYMPTOM 4654 4715	tronco de la arteria pulmonar se aprecia aumentado de calibre
+T196	SYMPTOM 6275 6283	PR largo
+T198	SYMPTOM 6596 6712	Ventrículo izquierdo (VI) no hipertrófico, gravemente dilatado con función sistólica global deprimida en grado grave
+T199	SYMPTOM 6717 6749	hipoquinesia global y asincronía
+T202	SYMPTOM 7045 7064	Raíz aórtica normal
+T207	SYMPTOM 7489 7518	Presiones de llenado elevadas
+T208	SYMPTOM 7698 7743	tronco coronario izquierdo (TCI) sin lesiones
+T93	SYMPTOM 7971 7994	Ramas DP y TPL normales
+T209	SYMPTOM 8288 8316	vidrio deslustrado parcheado
+T164	SYMPTOM 10932 10952	hipoquinesia general
+T215	SYMPTOM 11171 11189	Raíz aórtica norma
+T217	SYMPTOM 11362 11389	Suprahepáticas no dilatadas
+T218	SYMPTOM 12757 12766	QRS ancho
+T226	SYMPTOM 7595 7614	Dominancia: derecha
+T219	SYMPTOM 5084 5147	Páncreas, bazo, glándulas suprarrenales y riñones sin hallazgos
+T51	SYMPTOM 6931 6987	ventricular izquierdo bifásico con disfunción diastólica
+T50	SYMPTOM 7069 7089	signos de coartación
+T201	SYMPTOM 7633 7675	anomalías en salida de arterias coronarias
+T150	SYMPTOM 7745 7754	DA normal
+T224	SYMPTOM 7787 7812	ramas diagonales normales
+T227	SYMPTOM 7814 7870	Arteria circunfleja obtusa marginal (Cx-OM) sin lesiones
+T228	SYMPTOM 7922 7955	CD propia sin calcio ni estenosis
+T231	SYMPTOM 9227 9260	defectos de perfusión miocárdicos
+T232	SYMPTOM 10597 10655	variante de significado incierto c.5009G>A; p.(Arg1670His)
+T235	SYMPTOM 12781 12791	asincronía
+T111	SYMPTOM 13521 13531	asincronía

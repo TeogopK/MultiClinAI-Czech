@@ -1,0 +1,33 @@
+T1	SYMPTOM 435 532	dolor centrotorácico de características opresivas con irradiación a extremidad superior izquierda
+T2	SYMPTOM 692 705	palpitaciones
+T3	SYMPTOM 851 880	Presión venosa yugular normal
+T4	SYMPTOM 905 930	ruidos cardiacos rítmicos
+T5	SYMPTOM 936 942	soplos
+T6	SYMPTOM 946 956	extratonos
+T7	SYMPTOM 999 1030	Miembros inferiores: sin edemas
+T8	SYMPTOM 1072 1110	Pulsos distales palpables y simétricos
+T9	SYMPTOM 1420 1455	Coagulación básica sin alteraciones
+T10	SYMPTOM 1479 1507	índice cardiotorácico normal
+T11	SYMPTOM 1575 1642	ritmo sinusal con segmento ST rectificado en derivaciones laterales
+T12	SYMPTOM 1648 1682	cambios dinámicos en ECG sucesivos
+T13	SYMPTOM 1715 1772	ventrículo izquierdo de tamaño y función sistólica normal
+T14	SYMPTOM 1888 1917	Patrón de relajación alterada
+T15	SYMPTOM 1973 2003	Válvula mitral con velos finos
+T16	SYMPTOM 2065 2095	Ventrículo derecho no dilatado
+T17	SYMPTOM 2101 2125	función sistólica normal
+T18	SYMPTOM 2141 2175	Válvula tricúspide con velos finos
+T20	SYMPTOM 2297 2356	Raíz aórtica y aorta torácica ascendente visualizada normal
+T21	SYMPTOM 2394 2415	masas intracavitarias
+T22	SYMPTOM 2578 2611	Signo del miocardio no perfundido
+T23	SYMPTOM 4932 4982	Función sistólica ventricular izquierda conservada
+T28	SYMPTOM 1919 1959	Válvula aórtica trivalva con velos finos
+T77	SYMPTOM 2223 2259	Vena cava inferior (VCI) no dilatada
+T19	SYMPTOM 4541 4557	elevacion del ST
+T78	SYMPTOM 981 997	normoventilación
+T81	SYMPTOM 1864 1886	Grosor parietal normal
+T87	SYMPTOM 1513 1547	alteraciones pleuroparenquimatosas
+T88	SYMPTOM 1816 1862	alteraciones segmentarias de la contractilidad
+T79	SYMPTOM 2456 2502	tronco coronario izquierdo (TCI): sin lesiones
+T80	SYMPTOM 2504 2543	Descendente anterior (DA): sin lesiones
+T82	SYMPTOM 537 555	clínica vegetativa
+T84	SYMPTOM 2919 2952	Coronaria derecha (CD): dominante

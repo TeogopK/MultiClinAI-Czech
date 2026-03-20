@@ -1,0 +1,40 @@
+T1	SYMPTOM 254 281	consumo moderado de alcohol
+T3	SYMPTOM 720 785	disnea progresiva de 15 días de evolución hasta hacerse de reposo
+T4	SYMPTOM 797 805	ortopnea
+T5	SYMPTOM 807 838	aumento del perímetro abdominal
+T6	SYMPTOM 841 863	edemas en extremidades
+T7	SYMPTOM 876 890	dolor torácico
+T8	SYMPTOM 892 905	palpitaciones
+T9	SYMPTOM 910 915	mareo
+T10	SYMPTOM 1061 1068	Afebril
+T11	SYMPTOM 1156 1166	Consciente
+T12	SYMPTOM 1169 1178	orientado
+T13	SYMPTOM 1180 1194	normohidratado
+T14	SYMPTOM 1196 1214	eupneico en reposo
+T15	SYMPTOM 1216 1237	ingurgitación yugular
+T16	SYMPTOM 1278 1305	ruidos cardiacos arrítmicos
+T17	SYMPTOM 1320 1326	soplos
+T18	SYMPTOM 1351 1372	crepitantes bibasales
+T19	SYMPTOM 1374 1468	Abdomen: blando, depresible, muy globuloso, no doloroso a la palpación profunda ni superficial
+T21	SYMPTOM 1470 1492	peristaltismo presente
+T22	SYMPTOM 1498 1509	peritonismo
+T23	SYMPTOM 1536 1581	edemas bilaterales con fóvea hasta la rodilla
+T25	SYMPTOM 1769 1787	Edema intersticial
+T26	SYMPTOM 2079 2116	Pruebas de función hepaticas normales
+T29	SYMPTOM 2544 2582	función sistólica gravemente deprimida
+T37	SYMPTOM 6440 6452	elevado peso
+T2	SYMPTOM 3564 3597	Prueba broncodilatadora: positiva
+T20	SYMPTOM 2328 2394	Válvula mitral de velos finos con movilidad y apertura conservadas
+T24	SYMPTOM 2617 2668	Válvula aórtica fina con buena apertura y movilidad
+T27	SYMPTOM 3441 3508	moderada disminución de la función ventilatoria de tipo obstructivo
+T28	SYMPTOM 4568 4586	disfunción derecha
+T30	SYMPTOM 4892 4921	fracción de eyección reducida
+T31	SYMPTOM 7631 7678	Arterias coronarias sin lesiones significativas
+T138	SYMPTOM 2429 2458	Presiones de llenado elevadas
+T35	SYMPTOM 1688 1702	Onda Q en DIII
+T36	SYMPTOM 1704 1718	Voltajes bajos
+T131	SYMPTOM 3275 3295	dominancia izquierda
+T132	SYMPTOM 3732 3745	Onda Q en III
+T133	SYMPTOM 3747 3761	Voltajes bajos
+T134	SYMPTOM 4496 4525	elevadas presiones de llenado
+T136	SYMPTOM 7395 7449	fracción de eyección de ventrículo izquierdo deprimida

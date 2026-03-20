@@ -1,0 +1,67 @@
+T115	PROCEDURE 413 435	Estudio de trombofilia
+T116	PROCEDURE 581 596	colecistectomía
+T117	PROCEDURE 835 850	anticoagulación
+T118	PROCEDURE 888 914	tratamiento anticoagulante
+T119	PROCEDURE 1213 1245	antiinflamatorios no esteroideos
+T120	PROCEDURE 1401 1419	electrocardiograma
+T121	PROCEDURE 1421 1424	ECG
+T122	PROCEDURE 1585 1673	cateterismo emergente por vía radial izquierda según técnica habitual con introductor 6F
+T123	PROCEDURE 1774 1790	tromboaspiración
+T124	PROCEDURE 1904 1938	se implanta un stent farmacoactivo
+T125	PROCEDURE 1941 1997	se posdilata el segmento proximal del stent con un balón
+T126	PROCEDURE 2184 2248	manipulación con guía/balón de intervención coronaria percutánea
+T127	PROCEDURE 2250 2253	ICP
+T128	PROCEDURE 2389 2412	cardioversión eléctrica
+T129	PROCEDURE 2569 2583	antiagregación
+T130	PROCEDURE 2750 2788	ecocardiografía transtorácica portátil
+T131	PROCEDURE 2926 2941	anticoagulantes
+T132	PROCEDURE 3132 3147	coronariografía
+T133	PROCEDURE 3538 3554	tromboaspiración
+T134	PROCEDURE 3630 3648	EXPLORACIÓN FÍSICA
+T135	PROCEDURE 3731 3753	Ventimask con FiO2 50%
+T136	PROCEDURE 3983 3986	ECG
+T137	PROCEDURE 3988 3991	ECG
+T138	PROCEDURE 4172 4175	ECG
+T139	PROCEDURE 4196 4207	cateterismo
+T140	PROCEDURE 4402 4405	ECG
+T141	PROCEDURE 4419 4422	ECG
+T142	PROCEDURE 4497 4517	Radiografía de tórax
+T143	PROCEDURE 4655 4664	Hemograma
+T144	PROCEDURE 5037 5052	Perfil lipídico
+T145	PROCEDURE 5158 5184	Perfil glucémicometabólico
+T146	PROCEDURE 5254 5268	Perfil férrico
+T147	PROCEDURE 5431 5449	Perfil trombofilia
+T148	PROCEDURE 5886 5906	Marcadores tumorales
+T149	PROCEDURE 6081 6100	Perfil inmunológico
+T150	PROCEDURE 6458 6472	Ecocardiograma
+T151	PROCEDURE 7244 7273	Resonancia magnética cardiaca
+T152	PROCEDURE 7275 7278	RMC
+T153	PROCEDURE 7614 7629	secuencias STIR
+T154	PROCEDURE 7877 7940	Estudio de perfusión (vídeo 10): Se administra ácido gadotérico
+T156	PROCEDURE 8728 8741	TC Total Body
+T157	PROCEDURE 8743 8755	TAC torácico
+T158	PROCEDURE 8943 8962	TAC abdominopélvico
+T159	PROCEDURE 9310 9325	Colecistectomía
+T160	PROCEDURE 9810 9859	implante de balón de contrapulsación intraaórtico
+T161	PROCEDURE 9892 9924	destete del soporte hemodinámico
+T162	PROCEDURE 9930 9966	retirada de balón de contrapulsación
+T163	PROCEDURE 10306 10309	RMN
+T164	PROCEDURE 11116 11147	estudio completo de trombofilia
+T165	PROCEDURE 11160 11184	TC-toracoabdominopélvico
+T171	PROCEDURE 2415 2433	soporte vasoactivo
+T178	PROCEDURE 9739 9788	soporte vasoactivo con noradrenalina y dobutamina
+T202	PROCEDURE 4833 4843	Bioquímica
+T203	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T204	PROCEDURE 4898 4908	Hemostasia
+T205	PROCEDURE 6275 6278	IFI
+T206	PROCEDURE 6197 6220	ANA inmunofluorescencia
+T207	PROCEDURE 10191 10205	monitorización
+T208	PROCEDURE 1870 1902	Se predilata la lesión con balón
+T209	PROCEDURE 12019 12066	Angioplastia primaria con implante de DES en DA
+T232	PROCEDURE 4644 4653	Analítica
+T237	PROCEDURE 8065 8110	Estudio de detección de necrosis y viabilidad
+T243	PROCEDURE 545 571	Intervenciones quirúrgicas
+T251	PROCEDURE 11213 11222	analítica
+T220	PROCEDURE 2138 2173	nitroglicerina (NTG) intracoronaria
+T13	PROCEDURE 3191 3239	stent en DA realizándose predilatación con balón
+#2	AnnotatorNotes T205	  inmunofluorescencia indirecta

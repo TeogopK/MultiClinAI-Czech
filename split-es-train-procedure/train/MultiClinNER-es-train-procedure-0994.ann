@@ -1,0 +1,55 @@
+T83	PROCEDURE 34 52	exploración física
+T84	PROCEDURE 245 265	tratamiento con CPAP
+T85	PROCEDURE 376 401	exéresis de pólipo rectal
+T86	PROCEDURE 991 1009	Exploración física
+T87	PROCEDURE 1161 1182	Auscultación cardiaca
+T88	PROCEDURE 1225 1246	Auscultación pulmonar
+T89	PROCEDURE 1354 1357	ECG
+T90	PROCEDURE 1534 1543	Hemograma
+T91	PROCEDURE 1605 1625	Radiografía de tórax
+T92	PROCEDURE 1642 1656	Ecocardiograma
+T93	PROCEDURE 2469 2488	TAC toracoabdominal
+T94	PROCEDURE 3799 3830	Análisis de líquido pericárdico
+T95	PROCEDURE 3897 3916	Análisis citológico
+T96	PROCEDURE 4083 4106	Análisis microbiológico
+T97	PROCEDURE 4224 4278	baciloscopia tras descontaminación (tinción: auramina)
+T98	PROCEDURE 4384 4391	Biopsia
+T99	PROCEDURE 4557 4560	TAC
+T100	PROCEDURE 5342 5391	pericardiocentesis evacuadora por vía subxifoidea
+T101	PROCEDURE 5675 5699	estudio de autoinmunidad
+T102	PROCEDURE 5725 5744	TAC toracoabdominal
+T103	PROCEDURE 5746 5766	radiografía de tórax
+T104	PROCEDURE 5769 5783	ecocardiograma
+T105	PROCEDURE 5881 5896	test de Mantoux
+T106	PROCEDURE 5902 5914	baciloscopia
+T107	PROCEDURE 5941 5965	estudio de autoinmunidad
+T108	PROCEDURE 5981 6000	TAC toracoabdominal
+T109	PROCEDURE 6322 6358	mediastinoscopia con toma de biopsia
+T110	PROCEDURE 6556 6581	toracocentesis evacuadora
+T111	PROCEDURE 6609 6616	biopsia
+T112	PROCEDURE 6766 6769	TAC
+T113	PROCEDURE 6776 6792	cirugía torácica
+T114	PROCEDURE 7274 7295	extirpación del tumor
+T115	PROCEDURE 7310 7359	esternotomía media y acceso a mediastino anterior
+T116	PROCEDURE 7721 7730	analgesia
+T120	PROCEDURE 1408 1427	Analítica sanguínea
+T121	PROCEDURE 4298 4338	PCR a Mycobacterium tuberculosis complex
+T122	PROCEDURE 5645 5673	analítica sanguínea completa
+T123	PROCEDURE 1518 1523	iones
+T124	PROCEDURE 6747 6764	pruebas de imagen
+T125	PROCEDURE 311 373	intervención de neuroma de Morton, hallux valgus de ambos pies
+T126	PROCEDURE 1429 1446	enzimas cardiacas
+T127	PROCEDURE 1457 1473	función tiroidea
+T128	PROCEDURE 3832 3851	análisis bioquímico
+T129	PROCEDURE 4148 4204	baciloscopia de muestra directa (tinción: Ziehl-Nielsen)
+T130	PROCEDURE 4349 4372	cultivo de micobacteria
+T131	PROCEDURE 5701 5708	Mantoux
+T132	PROCEDURE 5710 5723	baciloscopias
+T133	PROCEDURE 5821 5837	función tiroidea
+T134	PROCEDURE 7155 7182	estudio de miastenia gravis
+T139	PROCEDURE 5447 5457	bioquímica
+T142	PROCEDURE 5459 5472	microbiología
+T143	PROCEDURE 5475 5494	anatomía patológica
+T163	PROCEDURE 7520 7529	disección
+T145	PROCEDURE 930 939	diurético
+T146	PROCEDURE 1273 1296	Extremidades inferiores

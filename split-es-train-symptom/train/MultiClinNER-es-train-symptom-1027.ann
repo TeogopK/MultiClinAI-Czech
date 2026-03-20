@@ -1,0 +1,50 @@
+T1	SYMPTOM 1794 1800	disnea
+T2	SYMPTOM 2225 2251	buen estado de hidratación
+T4	SYMPTOM 2269 2284	bien perfundido
+T5	SYMPTOM 2286 2329	Ruidos cardiacos rítmicos sin sobreañadidos
+T6	SYMPTOM 2331 2360	Murmullo vesicular conservado
+T9	SYMPTOM 2509 2514	masas
+T10	SYMPTOM 2518 2526	megalias
+T11	SYMPTOM 2542 2564	defensa a la palpación
+T12	SYMPTOM 2566 2626	Extremidades bien perfundidas, pulsos presentes y simétricos
+T14	SYMPTOM 2642 2647	edema
+T15	SYMPTOM 3697 3737	Sistemático y sedimento de orina: normal
+T17	SYMPTOM 3936 3972	Onda P de tamaño y duración normales
+T18	SYMPTOM 3974 3992	Segmento PR normal
+T19	SYMPTOM 3994 4015	Complejo QRS estrecho
+T20	SYMPTOM 4076 4105	Segmento ST sin supradesnivel
+T21	SYMPTOM 4107 4122	Onda T negativa
+T22	SYMPTOM 4217 4250	silueta cardiaca de tamaño normal
+T23	SYMPTOM 4252 4279	Ensanchamiento mediastínico
+T24	SYMPTOM 4435 4458	redistribución vascular
+T25	SYMPTOM 4491 4517	Cámara gástrica distendida
+T26	SYMPTOM 4549 4575	aurículas de tamaño normal
+T27	SYMPTOM 4641 4686	función sistólica global y segmentaria normal
+T28	SYMPTOM 4755 4790	Ventrículo derecho de tamaño normal
+T30	SYMPTOM 5064 5109	Flujo en aorta descendente y abdominal normal
+T32	SYMPTOM 5423 5447	función sistólica normal
+T35	SYMPTOM 5928 5961	aurícula derecha de tamaño normal
+T37	SYMPTOM 8610 8663	Función sistólica del ventrículo izquierdo conservada
+T38	SYMPTOM 8665 8697	Arterias coronarias sin lesiones
+T145	SYMPTOM 5566 5587	edema intramiocárdico
+T154	SYMPTOM 3905 3924	taquicardia sinusal
+T3	SYMPTOM 2365 2405	ventilación simétrica en ambos hemitórax
+T7	SYMPTOM 3541 3695	orina: negativo para benzodiacepina, cocaína, metadona, opiáceos, metanfetaminas, anfetaminas, cannabis, éxtasis, barbitúricos, antidepresivos tricíclicos
+T13	SYMPTOM 4699 4753	presiones de llenado del ventrículo izquierdo normales
+T16	SYMPTOM 4836 4923	Válvulas auriculoventriculares normofuncionantes sin datos de estenosis o insuficiencia
+T42	SYMPTOM 4925 4972	Válvula aórtica trivalva fina, normofuncionante
+T163	SYMPTOM 5808 5877	Ventrículo derecho de tamaño normal, con función sistólica conservada
+T165	SYMPTOM 5383 5416	alteraciones de la contractilidad
+T166	SYMPTOM 5162 5195	arterias epicárdicas sin lesiones
+T167	SYMPTOM 6867 6918	asintomático desde el punto de vista cardiovascular
+T170	SYMPTOM 8378 8385	estable
+T192	SYMPTOM 2412 2432	ruidos sobreañadidos
+T36	SYMPTOM 2253 2266	piel caliente
+T77	SYMPTOM 2446 2495	cicatriz de laparoscopia reciente de buen aspecto
+T139	SYMPTOM 5345 5367	masa miocárdica normal
+T140	SYMPTOM 5473 5493	áreas de hipertrofia
+T141	SYMPTOM 5629 5756	áreas de realce tardío de gadolinio (RTG) intramural en segmento anteroseptal basal y en la unión inferior de ambos ventrículos
+T142	SYMPTOM 5963 6016	Aorta, arteria pulmonar y pericardio sin alteraciones
+T143	SYMPTOM 6269 6319	focos patológicos hipermetabólicos en el miocardio
+T147	SYMPTOM 6924 6946	alteraciones del ritmo
+T148	SYMPTOM 7821 7849	actividad inflamatoria aguda

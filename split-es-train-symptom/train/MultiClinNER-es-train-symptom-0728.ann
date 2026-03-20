@@ -1,0 +1,35 @@
+T1	SYMPTOM 792 797	dolor
+T2	SYMPTOM 713 751	abdomen blando y depresible, globuloso
+T3	SYMPTOM 3293 3305	leucocitosis
+T5	SYMPTOM 1220 1234	picos febriles
+T6	SYMPTOM 816 855	Puño-percusión renal bilateral negativa
+T7	SYMPTOM 1279 1286	astenia
+T8	SYMPTOM 1045 1069	Hemostasia sin hallazgos
+T9	SYMPTOM 200 253	masa de gran tamaño (9x8x7 cm) en polo superior renal
+T10	SYMPTOM 1071 1093	Hemocultivos estériles
+T11	SYMPTOM 334 382	dolor e impotencia funcional en miembro inferior
+T12	SYMPTOM 2553 2625	líquido peritoneal para cultivo, citología y gram con resultado negativo
+T13	SYMPTOM 3203 3210	pT4G3N1
+T14	SYMPTOM 634 657	síndrome constitucional
+T15	SYMPTOM 661 676	dolor abdominal
+T16	SYMPTOM 770 775	masas
+T17	SYMPTOM 913 972	perfil hepático, proteínas totales y calcio en rango normal
+T18	SYMPTOM 1348 1376	masa sólida en polo superior
+T19	SYMPTOM 1573 1624	vena renal derecha y vena cava se encuentran libres
+T20	SYMPTOM 1676 1703	engrosamiento diafragmático
+T21	SYMPTOM 3003 3058	nódulos satélites en superficie peritoneal de diafragma
+T22	SYMPTOM 2466 2490	líquido peritoneal libre
+T23	SYMPTOM 881 908	bioquímica sin alteraciones
+T24	SYMPTOM 2346 2362	tumoración renal
+T25	SYMPTOM 1966 1982	masa heterogénea
+T32	SYMPTOM 82 96	fiebre elevada
+T33	SYMPTOM 779 787	megalias
+A1	RESULTADO T8
+A2	IMAGEN T9
+A3	RESULTADO T10
+A4	RESULTADO T12
+A5	RESULTADO T17
+A6	IMAGEN T18
+A7	IMAGEN T19
+A8	IMAGEN T20
+A9	RESULTADO T23

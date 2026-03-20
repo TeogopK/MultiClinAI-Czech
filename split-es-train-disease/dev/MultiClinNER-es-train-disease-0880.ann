@@ -1,0 +1,22 @@
+T28	DISEASE 99 120	hipertensión arterial
+T29	DISEASE 122 146	diabetes mellitus tipo 2
+T30	DISEASE 971 1042	lesión isquémica en porción más posterior del lóbulo parietal izquierdo
+T31	DISEASE 1135 1151	lesión isquémica
+T32	DISEASE 1585 1624	lesiones en territorio de ACM izquierda
+T33	DISEASE 1678 1704	lesiones isquémicas agudas
+T34	DISEASE 2043 2046	FOP
+T35	DISEASE 2196 2245	infartos cerebrales parietal y frontal izquierdos
+T36	DISEASE 2578 2626	infarto agudo en territorio de la PICA izquierda
+T37	DISEASE 2764 2815	ictus isquémico cerebeloso izquierdo criptogenético
+T38	DISEASE 3383 3408	episodios cardioembólicos
+T39	DISEASE 3446 3487	Ictus isquémico criptogenético recurrente
+T40	DISEASE 152 160	alergias
+T41	DISEASE 1410 1505	estenosis de significación en los bulbos carotídeos ni en arterias carótidas interna ni externa
+T42	DISEASE 1904 1907	HVI
+T43	DISEASE 2446 2466	nistagmus horizontal
+T44	DISEASE 3423 3445	Foramen oval permeable
+T18	DISEASE 2929 2968	Adelgazamiento del septo interauricular
+T25	DISEASE 2528 2536	infartos
+T27	DISEASE 2904 2927	dilatación de cavidades
+#1	AnnotatorNotes T34	 FOP: foramen oval permeable
+#2	AnnotatorNotes T42	 HVI: hipertrofia ventricular izquierda

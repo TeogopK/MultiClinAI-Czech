@@ -1,0 +1,62 @@
+T34	DISEASE 115 127	hypertension
+T38	DISEASE 204 217	Dyslipidaemia
+T40	DISEASE 219 228	Ex-smoker
+T41	DISEASE 230 237	Obesity
+T44	DISEASE 296 327	Chronic ischaemic heart disease
+T13	DISEASE 343 391	acute myocardial infarction (AMI) not inferior Q
+T14	DISEASE 372 375	AMI
+T15	DISEASE 464 538	Anterior descending artery (AD) with significant severely calcified lesion
+T16	DISEASE 571 622	Right coronary artery (RCA) with significant lesion
+T47	DISEASE 657 675	two-vessel disease
+T48	DISEASE 882 889	syncope
+T49	DISEASE 894 926	atrioventricular block Mobitz II
+T50	DISEASE 1102 1116	valvulopathies
+T52	DISEASE 1126 1137	renal colic
+T53	DISEASE 1589 1610	Chronic stable angina
+T54	DISEASE 2352 2372	deep vein thrombosis
+T98	DISEASE 2542 2554	cardiomegaly
+T55	DISEASE 3124 3141	myocardial damage
+T57	DISEASE 3204 3217	Heart failure
+T17	DISEASE 3290 3321	left ventricle slightly dilated
+T65	DISEASE 3448 3468	mitral insufficiency
+T92	DISEASE 3470 3492	Sclerosed aortic valve
+T86	DISEASE 3550 3569	Dilated left atrium
+T91	DISEASE 3639 3671	Slightly dilated right ventricle
+T66	DISEASE 3726 3749	tricuspid insufficiency
+T18	DISEASE 3751 3753	TI
+T19	DISEASE 3967 4006	Significant stenosis in diagonal branch
+T58	DISEASE 4567 4580	Heart failure
+T20	DISEASE 4645 4676	left ventricle slightly dilated
+T51	DISEASE 4851 4865	valvulopathies
+T59	DISEASE 5400 5413	Heart failure
+T99	DISEASE 5638 5658	mitral regurgitation
+T21	DISEASE 5779 5781	TR
+T67	DISEASE 5859 5879	pericardial effusion
+T45	DISEASE 5924 5955	chronic ischaemic heart disease
+T95	DISEASE 6010 6016	angina
+T68	DISEASE 6123 6158	severe left ventricular dysfunction
+T22	DISEASE 6527 6550	coronary artery disease
+T60	DISEASE 6602 6615	heart failure
+T69	DISEASE 6746 6754	diabetes
+T42	DISEASE 6771 6778	obesity
+T35	DISEASE 6804 6816	hypertension
+T73	DISEASE 6835 6858	ischaemic heart disease
+T61	DISEASE 6863 6876	heart failure
+T75	DISEASE 6987 7010	iron deficiency anaemia
+T62	DISEASE 7199 7212	heart failure
+T77	DISEASE 7267 7297	severe ventricular dysfunction
+T63	DISEASE 7705 7718	heart failure
+T23	DISEASE 7731 7765	pulmonary or peripheral congestion
+T46	DISEASE 8115 8146	Chronic ischaemic heart disease
+T78	DISEASE 8148 8189	Unstable angina Ib with myocardial damage
+T25	DISEASE 8193 8196	AMI
+T79	DISEASE 8204 8236	2-vessel coronary artery disease
+T26	DISEASE 8288 8313	lesion in diagonal branch
+T64	DISEASE 8315 8328	Heart failure
+T24	DISEASE 8397 8450	diabetic, ischaemic and post RV pacing myocardiopathy
+T84	DISEASE 8407 8416	ischaemic
+T76	DISEASE 8470 8493	Iron deficiency anaemia
+T36	DISEASE 8495 8516	Arterial hypertension
+T85	DISEASE 8536 8560	type 2 diabetes mellitus
+T39	DISEASE 8562 8575	Dyslipidaemia
+T43	DISEASE 8605 8612	Obesity

@@ -1,0 +1,7 @@
+T1	SYMPTOM 132 175	síntomas leves del tracto urinario inferior
+T2	SYMPTOM 230 280	imagen cálcica anular paravesical derecha pelviana
+T3	SYMPTOM 753 778	cavidad pelviana una masa
+T4	SYMPTOM 608 620	asintomático
+T5	SYMPTOM 345 378	situación retrovesical, dos masas
+A1	IMAGEN T2
+A2	IMAGEN T5

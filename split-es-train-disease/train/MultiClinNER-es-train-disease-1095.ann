@@ -1,0 +1,58 @@
+T42	DISEASE 81 104	alergias medicamentosas
+T43	DISEASE 249 260	cardiopatía
+T45	DISEASE 320 334	metabolopatías
+T46	DISEASE 454 484	Consumo esporádico de cannabis
+T47	DISEASE 561 626	Displasia arritmogénica biventricular con mutación en el gen LMNA
+T48	DISEASE 694 727	insuficiencia cardiaca congestiva
+T49	DISEASE 729 732	ICC
+T50	DISEASE 829 859	disfunción biventricular grave
+T51	DISEASE 954 1021	miocardiopatía arritmogénica por mutación en el exón 3 del gen LMNA
+T52	DISEASE 1123 1145	descompensación de ICC
+T53	DISEASE 1199 1230	insuficiencia cardiaca avanzada
+T54	DISEASE 1470 1515	taquicardia ventricular monomórfica sostenida
+T55	DISEASE 1517 1521	TVMS
+T56	DISEASE 1568 1594	Trombo en orejuela derecha
+T57	DISEASE 2191 2222	Insuficiencia tricuspídea grave
+T58	DISEASE 2400 2413	valvulopatías
+T59	DISEASE 2484 2503	derrame pericárdico
+T60	DISEASE 2510 2575	miocardiopatía dilatada con disfunción grave de ambos ventrículos
+T61	DISEASE 2609 2633	Dilatación aneurismática
+T62	DISEASE 2773 2818	Trombos en la orejuela de la aurícula derecha
+T63	DISEASE 3334 3354	déficit de FV y FVII
+T64	DISEASE 3380 3401	déficit de vitamina K
+T65	DISEASE 3843 3865	infección respiratoria
+T66	DISEASE 4179 4212	taquicardia ventricular sostenida
+T67	DISEASE 4316 4320	TVMS
+T68	DISEASE 4323 4346	fibrilación ventricular
+T69	DISEASE 4776 4794	shock cardiogénico
+T70	DISEASE 6557 6600	taquicardia ventricular monomorfa sostenida
+T71	DISEASE 6619 6680	bloqueo de rama izquierda, eje inferior y transición en V3-V4
+T72	DISEASE 6760 6798	Bloqueo de rama derecha del haz de His
+T73	DISEASE 7207 7237	shock cardiogénico refractario
+T74	DISEASE 7243 7261	tormenta arrítmica
+T75	DISEASE 7413 7417	TVMS
+T76	DISEASE 7420 7422	FV
+T77	DISEASE 7822 7827	shock
+T78	DISEASE 7906 7925	acidosis metabólica
+T79	DISEASE 7975 8030	disfunción multiorgánica con fracaso renal oligoanúrico
+T80	DISEASE 8033 8055	insuficiencia hepática
+T81	DISEASE 8067 8080	hipoglucemias
+T82	DISEASE 8083 8095	coagulopatía
+T83	DISEASE 8433 8450	shock refractario
+T84	DISEASE 8452 8471	fallo multiorgánico
+T85	DISEASE 8730 8783	miocardiopatía arritmogénica con mutación en gen LMNA
+T86	DISEASE 8786 8816	disfunción biventricular grave
+T87	DISEASE 8818 8880	Shock cardiogénico refractario secundario a tormenta arrítmica
+T88	DISEASE 8882 8914	Encefalopatía difusa postanóxica
+T89	DISEASE 8916 8937	Fracaso multiorgánico
+T90	DISEASE 346 361	Hábitos tóxicos
+T91	DISEASE 8695 8713	Tormenta arrítmica
+T92	DISEASE 4502 4529	disociación electromecánica
+T93	DISEASE 363 377	fumador activo
+T94	DISEASE 492 510	ingesta de alcohol
+T95	DISEASE 1798 1844	ventrículo izquierdo (VI) ligeramente dilatado
+T96	DISEASE 2037 2103	Ventrículo derecho (VD) dilatado, con función gravemente deprimida
+T97	DISEASE 2415 2448	Vena cava inferior (VCI) dilatada
+T98	DISEASE 2578 2607	dilatación de ambas aurículas
+T191	DISEASE 267 280	muerte súbita
+T149	DISEASE 2889 2938	anomalías en el origen de las arterias coronarias

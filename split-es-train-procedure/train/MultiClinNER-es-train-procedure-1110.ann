@@ -1,0 +1,35 @@
+T50	PROCEDURE 468 507	cirugía de revascularización miocárdica
+T51	PROCEDURE 648 671	antibioticoterapia oral
+T52	PROCEDURE 719 730	antibiótico
+T53	PROCEDURE 1062 1064	CV
+T54	PROCEDURE 1302 1328	amputación de ambos hallux
+T55	PROCEDURE 1664 1667	ECG
+T56	PROCEDURE 1722 1734	Hemocultivos
+T57	PROCEDURE 1802 1831	Ecocardiograma transesofágico
+T58	PROCEDURE 2158 2168	TC abdomen
+T59	PROCEDURE 2215 2218	ECG
+T60	PROCEDURE 2772 2802	Amputación de segundo dedo pie
+T61	PROCEDURE 3262 3287	Recambio valvular aórtico
+T62	PROCEDURE 3290 3318	vegectomía de válvula mitral
+T63	PROCEDURE 3321 3358	Cultivo de material protésico aórtico
+T64	PROCEDURE 3465 3485	Se retiró marcapasos
+T65	PROCEDURE 3639 3662	tratamiento antibiótico
+T74	PROCEDURE 265 293	amputación  de  ambos hallux
+T75	PROCEDURE 1415 1419	RxTx
+T76	PROCEDURE 1611 1621	Gasometría
+T77	PROCEDURE 1644 1653	ionograma
+T78	PROCEDURE 2832 2863	requiere marcapasos transitorio
+T79	PROCEDURE 2879 2882	ETE
+T80	PROCEDURE 3212 3255	Profilaxis preQ: amikacina 1g y vancomicina
+T81	PROCEDURE 3185 3201	Cirugía cardíaca
+T82	PROCEDURE 349 392	Cirugía  de  sustitución  valvular  aórtica
+T83	PROCEDURE 395 399	SVAo
+T84	PROCEDURE 0 9	Anamnesis
+T85	PROCEDURE 1832 1835	ETE
+T97	PROCEDURE 1192 1195	PNM
+T99	PROCEDURE 2279 2302	Requerimiento dialítico
+T105	PROCEDURE 2655 2677	tratamiento quirúrgico
+T101	PROCEDURE 1024 1026	PP
+T102	PROCEDURE 3675 3682	cirugía
+#1	AnnotatorNotes T83	sustitución valvular aórtica
+#3	AnnotatorNotes T85	Ecocardiograma transesofágico

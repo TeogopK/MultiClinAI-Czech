@@ -1,0 +1,26 @@
+T53	PROCEDURE 29 49	physical examination
+T55	PROCEDURE 750 774	volumetric resuscitation
+T4	PROCEDURE 788 817	a femoral line was cannulated
+T56	PROCEDURE 822 846	nor-adrenaline perfusion
+T5	PROCEDURE 862 890	transthoracic echocardiogram
+T7	PROCEDURE 1167 1175	Chest CT
+T8	PROCEDURE 1525 1553	transthoracic echocardiogram
+T10	PROCEDURE 1749 1752	TEE
+T54	PROCEDURE 2033 2053	Physical examination
+T66	PROCEDURE 2135 2138	ACR
+T11	PROCEDURE 2309 2312	CBC
+T58	PROCEDURE 2403 2417	Blood cultures
+T59	PROCEDURE 2429 2432	ECG
+T57	PROCEDURE 2498 2563	Thoracic CT scan: a study was performed with intravenous contrast
+T60	PROCEDURE 3255 3272	TT echocardiogram
+T75	PROCEDURE 4716 4746	Transesophageal echocardiogram
+T79	PROCEDURE 5429 5432	TTE
+T84	PROCEDURE 5686 5739	implantation of mitral and aortic metallic prosthesis
+T61	PROCEDURE 5741 5789	The native mitral and aortic valves were removed
+T67	PROCEDURE 5934 5937	CVE
+T62	PROCEDURE 6029 6035	Holter
+T63	PROCEDURE 6080 6092	CTI ablation
+T86	PROCEDURE 6111 6144	a CRT+ADI pacemaker was implanted
+T68	PROCEDURE 6422 6475	Implantation of metallic mitral and aortic prostheses
+T69	PROCEDURE 6477 6500	Successful CTI ablation
+T65	PROCEDURE 6502 6527	Implantation of ICD + CRT

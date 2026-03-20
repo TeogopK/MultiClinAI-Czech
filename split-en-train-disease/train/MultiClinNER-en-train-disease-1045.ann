@@ -1,0 +1,50 @@
+T32	DISEASE 111 125	drug allergies
+T33	DISEASE 129 141	toxic habits
+T34	DISEASE 182 196	Hypothyroidism
+T6	DISEASE 365 459	sarcoidosis with grade II pulmonary involvement, with associated bronchial hyperresponsiveness
+T7	DISEASE 561 606	sustained monomorphic ventricular tachycardia
+T56	DISEASE 658 713	dilated left ventricle with severe systolic dysfunction
+T8	DISEASE 836 858	dilated left ventricle
+T30	DISEASE 1058 1085	severe systolic dysfunction
+T9	DISEASE 1431 1473	infection of the surgical wound of the ICD
+T35	DISEASE 1649 1671	tricuspid endocarditis
+T36	DISEASE 1703 1722	pulmonary embolisms
+T37	DISEASE 1784 1808	refractory heart failure
+T21	DISEASE 1846 1897	non-sustained and sustained ventricular tachycardia
+T20	DISEASE 1899 1901	VT
+T22	DISEASE 1969 2039	cardiorespiratory arrest (CRA) due to primary ventricular fibrillation
+T23	DISEASE 1995 1998	CRA
+T24	DISEASE 2041 2043	VF
+T38	DISEASE 2263 2294	avascular necrosis of both hips
+T39	DISEASE 2487 2511	infectious complications
+T41	DISEASE 2513 2525	lung abscess
+T42	DISEASE 2535 2557	thoracic herpes zoster
+T25	DISEASE 2567 2579	repeated UTI
+T43	DISEASE 2581 2596	gastroenteritis
+T27	DISEASE 2732 2763	complete atrioventricular block
+T26	DISEASE 2765 2768	AVB
+T28	DISEASE 2866 2869	AVB
+T29	DISEASE 3014 3030	atrial deflutter
+T49	DISEASE 4198 4256	complete VAB spells in the context of myocardial ischaemia
+T55	DISEASE 4707 4724	myocardial damage
+T44	DISEASE 4825 4861	three-vessel coronary artery disease
+T63	DISEASE 4911 4974	thrombotic occlusion of the proximal right coronary artery (RCA
+T46	DISEASE 5252 5269	acute myocarditis
+T47	DISEASE 5277 5312	acute coronary syndrome type NSTEMI
+T67	DISEASE 5715 5727	complete AVB
+T45	DISEASE 5804 5840	three-vessel coronary artery disease
+T83	DISEASE 5890 5929	thrombotic occlusion of the proximal DC
+T85	DISEASE 6090 6102	complete AVB
+T86	DISEASE 6108 6141	severe haemodynamic deterioration
+T50	DISEASE 6169 6193	ventricular fibrillation
+T87	DISEASE 6335 6392	Acute coronary syndrome with ST-segment elevation (STEACS
+T88	DISEASE 6411 6451	Complete AVB due to myocardial ischaemia
+T89	DISEASE 6453 6466	CRP due to VF
+T51	DISEASE 6468 6519	Graft vascular disease in heart transplant patients
+T48	DISEASE 6521 6553	Proximal DC thrombotic occlusion
+T52	DISEASE 6573 6623	Sarcoidosis with pulmonary and cardiac involvement
+T53	DISEASE 6654 6717	Infiltrative cardiomyopathy in dilated phase due to sarcoidosis
+T31	DISEASE 6724 6751	severe systolic dysfunction
+T90	DISEASE 6769 6772	CHF
+T40	DISEASE 6783 6807	infectious complications
+T54	DISEASE 6857 6895	Acute tricuspid infective endocarditis

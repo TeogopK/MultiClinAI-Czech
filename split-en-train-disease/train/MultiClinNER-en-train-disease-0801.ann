@@ -1,0 +1,58 @@
+T58	DISEASE 131 149	severe anaphylaxis
+T96	DISEASE 307 325	low cardiac output
+T59	DISEASE 345 359	drug allergies
+T60	DISEASE 390 399	ex-smoker
+T63	DISEASE 401 413	hypertension
+T28	DISEASE 415 417	HT
+T65	DISEASE 420 444	type 2 diabetes mellitus
+T66	DISEASE 446 449	DM2
+T62	DISEASE 452 471	high blood pressure
+T68	DISEASE 482 495	heart disease
+T69	DISEASE 499 511	bronchopathy
+T29	DISEASE 513 565	Chronic ischaemia syndrome of both lower extremities
+T30	DISEASE 831 852	cataract of right eye
+T31	DISEASE 1447 1453	angina
+T54	DISEASE 1671 1684	tongue oedema
+T55	DISEASE 1947 1960	tongue oedema
+T88	DISEASE 1965 1967	it
+T70	DISEASE 2333 2353	arterial hypotension
+T32	DISEASE 2483 2548	ST-segment elevation acute coronary syndrome (STEMI) anteroseptal
+T33	DISEASE 2529 2534	STEMI
+T34	DISEASE 2564 2574	infarction
+T71	DISEASE 2892 2912	arterial hypotension
+T72	DISEASE 4080 4105	right bundle branch block
+T35	DISEASE 4107 4111	RBBB
+T36	DISEASE 5551 5583	subtotal ostial lesion in the AD
+T37	DISEASE 5581 5636	AD, with the rest of the vessel with mild atheromatosis
+T38	DISEASE 5655 5709	1st and 2nd diagonals present moderate ostial stenosis
+T39	DISEASE 5711 5791	Circumflex (Cx): proximal moderate lesion and distal moderate long atheromatosis
+T40	DISEASE 5831 5915	Mild proximal-moderate atheromatosis and severe short lesion at the level of the IVP
+T41	DISEASE 5947 5978	severe lesion of the ostial LAD
+T91	DISEASE 6570 6592	Sclerosed aortic valve
+T92	DISEASE 6649 6671	Sclerosed mitral valve
+T73	DISEASE 6725 6754	moderate mitral insufficiency
+T42	DISEASE 6855 6880	mild mitral insufficiency
+T43	DISEASE 6882 6884	MI
+T74	DISEASE 7011 7033	pulmonary hypertension
+T75	DISEASE 7039 7059	pericardial effusion
+T44	DISEASE 7488 7539	PVI, distal to the stent, is diffusely atheromatous
+T76	DISEASE 7683 7771	severe bivascular coronary artery disease with acute thrombotic lesion of the ostial LAD
+T78	DISEASE 8202 8213	anaphylaxis
+T56	DISEASE 8215 8228	tongue oedema
+T93	DISEASE 8484 8499	genital itching
+T57	DISEASE 8504 8517	tongue oedema
+T45	DISEASE 9170 9181	hypotension
+T95	DISEASE 9302 9325	moderate LV dysfunction
+T81	DISEASE 9476 9492	mild hypotension
+T82	DISEASE 9631 9649	mild heart failure
+T83	DISEASE 9908 9917	infection
+T84	DISEASE 10273 10282	infection
+T46	DISEASE 10842 10848	STEACS
+T85	DISEASE 10850 10873	Kounis syndrome type II
+T86	DISEASE 10876 10903	Severe Anisakis anaphylaxis
+T87	DISEASE 10946 10998	Severe two-vessel coronary artery disease: DA and CD
+T47	DISEASE 11000 11058	Acute thrombotic lesion in ostial LAD with severe stenosis
+T61	DISEASE 11271 11280	ex-smoker
+T48	DISEASE 11282 11285	AHT
+T67	DISEASE 11287 11290	DM2
+T49	DISEASE 11301 11339	chronic ischaemia syndrome of the LVES

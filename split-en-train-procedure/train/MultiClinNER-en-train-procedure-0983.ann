@@ -1,0 +1,35 @@
+T75	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T55	PROCEDURE 359 392	treatment with oral antidiabetics
+T34	PROCEDURE 394 397	OAD
+T56	PROCEDURE 540 558	cystoprostatectomy
+T73	PROCEDURE 561 585	Bricker ureteroileostomy
+T59	PROCEDURE 597 599	QT
+T76	PROCEDURE 905 919	cardioversions
+T60	PROCEDURE 924 967	continuous venous perfusion of procainamide
+T35	PROCEDURE 1095 1136	overstimulated by femoral electrocatheter
+T61	PROCEDURE 1206 1226	coronary angiography
+T77	PROCEDURE 1336 1351	cardiac surgery
+T62	PROCEDURE 1436 1462	electrophysiological study
+T37	PROCEDURE 1464 1467	EPS
+T48	PROCEDURE 1473 1508	ablation of ventricular tachycardia
+T80	PROCEDURE 1618 1621	EPS
+T79	PROCEDURE 1659 1723	implant a bicameral implantable cardioverter defibrillator (ICD)
+T63	PROCEDURE 2711 2723	HEMOCULTURES
+T81	PROCEDURE 2988 3006	THORAX RADIOGRAPHY
+T65	PROCEDURE 3233 3239	PET-CT
+T57	PROCEDURE 3617 3635	cystoprostatectomy
+T82	PROCEDURE 3649 3662	Bricker shunt
+T83	PROCEDURE 3724 3727	TEE
+T64	PROCEDURE 4194 4208	Blood cultures
+T67	PROCEDURE 4265 4295	transesophageal echocardiogram
+T66	PROCEDURE 4352 4358	PET-CT
+T68	PROCEDURE 4504 4515	antibiogram
+T69	PROCEDURE 4788 4809	explant of the device
+T78	PROCEDURE 4970 4988	Antibiotic therapy
+T84	PROCEDURE 5228 5244	culture serology
+T70	PROCEDURE 5259 5273	echocardiogram
+T85	PROCEDURE 5324 5344	implant a new device
+T71	PROCEDURE 5416 5448	transvenous ICD-DDD implantation
+T72	PROCEDURE 5785 5801	ICD implantation
+T58	PROCEDURE 5967 5985	Cystoprostatectomy
+T74	PROCEDURE 5990 6014	Bricker ureteroileostomy

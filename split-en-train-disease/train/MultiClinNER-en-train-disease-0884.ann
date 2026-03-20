@@ -1,0 +1,42 @@
+T2	DISEASE 62 76	drug allergies
+T3	DISEASE 107 131	type 2 diabetes mellitus
+T4	DISEASE 133 145	hypertension
+T5	DISEASE 147 160	dyslipidaemia
+T6	DISEASE 165 177	toxic habits
+T7	DISEASE 202 225	ischaemic heart disease
+T1	DISEASE 490 541	left ventricle with moderate concentric hypertrophy
+T41	DISEASE 608 622	valvulopathies
+T9	DISEASE 662 692	Paroxysmal atrial fibrillation
+T19	DISEASE 673 692	atrial fibrillation
+T10	DISEASE 806 838	vertebrobasilar ischaemic stroke
+T11	DISEASE 866 888	Chronic kidney disease
+T13	DISEASE 922 942	nephroangiosclerosis
+T14	DISEASE 1002 1016	Hyperuricaemia
+T15	DISEASE 1912 1929	exertional angina
+T16	DISEASE 4147 4175	Trivial mitral regurgitation
+T17	DISEASE 4177 4202	Mild aortic insufficiency
+T18	DISEASE 4288 4311	tricuspid insufficiency
+T20	DISEASE 4462 4481	atrial fibrillation
+T42	DISEASE 4840 4862	mild myocardial oedema
+T21	DISEASE 5471 5498	diffuse epicardial fibrosis
+T22	DISEASE 5635 5667	diffuse intramyocardial fibrosis
+T35	DISEASE 6012 6039	decompensated heart failure
+T23	DISEASE 6026 6039	heart failure
+T24	DISEASE 6417 6430	heart failure
+T27	DISEASE 6476 6499	iron deficiency anaemia
+T28	DISEASE 6608 6643	severe left ventricular hypertrophy
+T29	DISEASE 6685 6712	infiltrative cardiomyopathy
+T30	DISEASE 6781 6792	amyloidosis
+T31	DISEASE 6949 6960	amyloidosis
+T32	DISEASE 6984 6995	amyloidosis
+T25	DISEASE 7172 7185	heart failure
+T33	DISEASE 7370 7381	amyloidosis
+T36	DISEASE 7542 7569	Decompensated heart failure
+T26	DISEASE 7556 7569	heart failure
+T37	DISEASE 7571 7603	Cardiac amyloidosis due to wtTTR
+T34	DISEASE 7579 7590	amyloidosis
+T38	DISEASE 7623 7657	Exacerbated chronic kidney disease
+T12	DISEASE 7635 7657	chronic kidney disease
+T39	DISEASE 7659 7698	Normocytic anaemia with iron deficiency
+T40	DISEASE 7700 7731	Chronic ischaemic heart disease
+T8	DISEASE 7708 7731	ischaemic heart disease

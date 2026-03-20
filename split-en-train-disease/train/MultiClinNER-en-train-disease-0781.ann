@@ -1,0 +1,32 @@
+T32	DISEASE 142 156	drug allergies
+T33	DISEASE 169 181	toxic habits
+T34	DISEASE 212 225	dyslipidaemia
+T35	DISEASE 227 242	Type 2 diabetes
+T52	DISEASE 320 349	Permanent atrial fibrillation
+T36	DISEASE 380 440	Rheumatic valvular heart disease with severe mitral stenosis
+T8	DISEASE 445 474	moderate double aortic lesion
+T37	DISEASE 611 618	anaemia
+T9	DISEASE 1323 1382	atrial flutter was observed with rapid ventricular response
+T53	DISEASE 1811 1827	arrhythmic heart
+T40	DISEASE 2540 2589	atrial flutter with variable ventricular response
+T54	DISEASE 2769 2828	non-dilated left ventricle with mild concentric hypertrophy
+T50	DISEASE 2830 2849	Dilated left atrium
+T41	DISEASE 3342 3375	segmental contractility disorders
+T42	DISEASE 3435 3455	pericardial effusion
+T48	DISEASE 3706 3734	heparin-induced thrombopenia
+T10	DISEASE 3736 3739	HIT
+T43	DISEASE 4276 4286	thrombosis
+T44	DISEASE 4554 4566	endocarditis
+T11	DISEASE 4583 4654	bacteraemia due to the recent implantation of two mechanical prostheses
+T45	DISEASE 4864 4889	non-pruritic skin lesions
+T12	DISEASE 4980 5008	toxicoderma due to ertapenem
+T13	DISEASE 5147 5187	small-vessel leukocytoclastic vasculitis
+T46	DISEASE 5212 5226	serum sickness
+T14	DISEASE 5323 5352	ertapenem-induced toxicoderma
+T51	DISEASE 5365 5396	Decompensation of heart failure
+T47	DISEASE 5418 5445	Subacute normocytic anaemia
+T39	DISEASE 5479 5525	Atrial flutter with rapid ventricular response
+T49	DISEASE 5527 5555	Heparin-induced thrombopenia
+T7	DISEASE 5557 5560	HIT
+T6	DISEASE 5563 5600	BLEE+ E. coli urinary tract infection
+T5	DISEASE 5602 5687	Small vessel leukocytoclastic vasculitis secondary to administration of carbapenemics

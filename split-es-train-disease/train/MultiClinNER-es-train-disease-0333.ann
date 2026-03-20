@@ -1,0 +1,15 @@
+T2	DISEASE 145 158	metamorfopsia
+T4	DISEASE 339 375	MER centrada sobre la región macular
+T6	DISEASE 544 547	DPV
+T8	DISEASE 637 650	edema macular
+T9	DISEASE 797 811	MER idiopática
+T11	DISEASE 974 987	metamorfopsia
+T12	DISEASE 1084 1087	MER
+T13	DISEASE 1148 1162	DPV prepapilar
+T15	DISEASE 711 722	traumatismo
+T17	DISEASE 69 94	pérdida de agudeza visual
+#1	AnnotatorNotes T4	   MER: Membrana epirretiniana
+#5	AnnotatorNotes T6	   DPV: Desprendimiento posterior de vitreo
+#3	AnnotatorNotes T9	   MER: Membrana epirretiniana
+#2	AnnotatorNotes T12	   MER: Membrana epirretiniana
+#4	AnnotatorNotes T13	   DPV: Desprendimiento posterior de vitreo

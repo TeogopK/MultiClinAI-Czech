@@ -1,0 +1,30 @@
+T1	SYMPTOM 517 546	edema periorbital y palpebral
+T2	SYMPTOM 47 56	cansancio
+T3	SYMPTOM 2261 2320	aumento de densidad en LSD de distribución paramediastínica
+T4	SYMPTOM 1475 1513	condensación alveolar que afecta a LSD
+T5	SYMPTOM 598 615	Respiración bucal
+T6	SYMPTOM 620 637	obstrucción nasal
+T7	SYMPTOM 1596 1610	esplenomegalia
+T8	SYMPTOM 250 256	fiebre
+T9	SYMPTOM 285 294	resfriada
+T10	SYMPTOM 300 309	cansancio
+T11	SYMPTOM 1936 1970	condensación residual en LSD y LMD
+T12	SYMPTOM 840 857	Facies abotargada
+T13	SYMPTOM 1645 1701	test de aglutinación (mononucleosis infecciosa) positivo
+T14	SYMPTOM 876 894	Neurológico normal
+T15	SYMPTOM 957 994	auscultación cardiopulmonar es normal
+T16	SYMPTOM 68 86	exploración normal
+T17	SYMPTOM 1350 1371	Paul Bunell: negativo
+T18	SYMPTOM 1375 1402	Analítica de orina negativa
+T19	SYMPTOM 2020 2077	exudado faringoamigdalar: flora normal en cultivo aerobio
+T20	SYMPTOM 2332 2362	desplazamiento de cisura menor
+T21	SYMPTOM 696 717	amígdalas congestivas
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	IMAGEN T7
+A4	IMAGEN T11
+A5	RESULTADO T13
+A6	RESULTADO T17
+A7	RESULTADO T18
+A8	RESULTADO T19
+A9	IMAGEN T20

@@ -1,0 +1,72 @@
+T25	DISEASE 4685 4718	VD de tamaño ligeramente dilatado
+T36	DISEASE 98 119	hipertensión arterial
+T37	DISEASE 121 124	HTA
+T38	DISEASE 127 137	Dislipemia
+T39	DISEASE 198 227	Cardiopatía isquémica crónica
+T40	DISEASE 229 295	Enfermedad coronaria de tronco coronario izquierdo (TCI) y 3 vasos
+T41	DISEASE 369 385	angina inestable
+T42	DISEASE 399 424	enfermedad del 90% de TCI
+T43	DISEASE 426 441	oclusión de DAm
+T44	DISEASE 444 465	oclusión de CXp y CDp
+T45	DISEASE 577 591	angina estable
+T46	DISEASE 646 669	isquemia global extensa
+T47	DISEASE 796 829	Fibrilación auricular persistente
+T48	DISEASE 919 933	Asma bronquial
+T49	DISEASE 1092 1129	Insuficiencia renal crónica estadio 3
+T50	DISEASE 1152 1172	nefroangioesclerosis
+T51	DISEASE 1174 1204	Hiperparatiroidismo secundario
+T52	DISEASE 1206 1231	Anemia crónica secundaria
+T53	DISEASE 1233 1246	Hiperuricemia
+T54	DISEASE 1248 1279	Hiperplasia benigna de próstata
+T55	DISEASE 2466 2485	hemorragia pulmonar
+T56	DISEASE 2702 2721	hemorragia alveolar
+T57	DISEASE 2970 2983	cardiomegalia
+T58	DISEASE 3005 3027	insuficiencia cardiaca
+T59	DISEASE 3068 3076	neumonía
+T60	DISEASE 3565 3590	trombosis venosa profunda
+T61	DISEASE 3592 3595	TVP
+T62	DISEASE 3628 3649	fibrilación auricular
+T63	DISEASE 4069 4084	derrame pleural
+T64	DISEASE 4442 4472	placa ulcerada en ilíaca común
+T65	DISEASE 4774 4794	insuficiencia mitral
+T66	DISEASE 4888 4890	HP
+T67	DISEASE 4900 4963	Válvula aórtica esclerocalcificada, con estenosis aórtica grave
+T68	DISEASE 5053 5074	insuficiencia aórtica
+T69	DISEASE 5131 5150	derrame pericárdico
+T70	DISEASE 5468 5497	Insuficiencia valvular mitral
+T71	DISEASE 5512 5546	Insuficiencia valvular tricuspídea
+T72	DISEASE 5609 5628	derrame pericárdico
+T73	DISEASE 6325 6344	hemorragia alveolar
+T74	DISEASE 6562 6571	infección
+T75	DISEASE 6666 6689	estenosis aórtica grave
+T76	DISEASE 8138 8164	Hemorragia alveolar difusa
+T77	DISEASE 8360 8394	Insuficiencia tricuspídea moderada
+T78	DISEASE 8407 8444	Cardiopatía isquémica crónica estable
+T79	DISEASE 8446 8473	Enfermedad de TCI y 3 vasos
+T80	DISEASE 8589 8626	Fibrilación auricular (FA) permanente
+T81	DISEASE 8689 8692	HTA
+T82	DISEASE 1380 1394	Angina estable
+T83	DISEASE 139 141	DL
+T84	DISEASE 8694 8696	DL
+T85	DISEASE 8612 8614	FA
+T86	DISEASE 4846 4860	IT 2/4 central
+T87	DISEASE 28 51	alergias medicamentosas
+T88	DISEASE 2055 2068	cardiomegalia
+T89	DISEASE 7786 7829	descompensaciones de insuficiencia cardiaca
+T90	DISEASE 6080 6121	descompensación de insuficiencia cardiaca
+T91	DISEASE 6605 6646	descompensación de insuficiencia cardiaca
+T92	DISEASE 150 157	fumador
+T93	DISEASE 5244 5327	válvula aórtica ligeramente calcificada con estenosis grave e insuficiencia central
+T94	DISEASE 4650 4675	AI moderadamente dilatada
+T95	DISEASE 8053 8076	Estenosis aórtica grave
+T96	DISEASE 8396 8405	HP ligera
+T212	DISEASE 5798 5825	insuficiencia periprotésica
+T213	DISEASE 8002 8029	insuficiencia periprotésica
+T165	DISEASE 4865 4886	hipertensión pulmonar
+T171	DISEASE 8093 8136	descompensaciones de insuficiencia cardiaca
+T173	DISEASE 8178 8200	insuficiencia cardiaca
+#1	AnnotatorNotes T66	 hipertensión pulmonar
+#2	AnnotatorNotes T83	 DL dislipemia
+#3	AnnotatorNotes T84	 DL dislipemia
+#4	AnnotatorNotes T85	 FA fibrilación auricular
+#5	AnnotatorNotes T86	IT insuficiencia tricuspídea

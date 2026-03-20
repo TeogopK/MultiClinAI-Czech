@@ -1,0 +1,30 @@
+T10	DISEASE 51 96	endocarditis on a biological prosthetic valve
+T2	DISEASE 138 189	abscess on the valve with dehiscence of the annulus
+T30	DISEASE 216 225	allergies
+T31	DISEASE 242 251	ex-smoker
+T11	DISEASE 572 580	glaucoma
+T12	DISEASE 582 596	hyperuricaemia
+T13	DISEASE 598 603	DM II
+T3	DISEASE 608 629	hypercholesterolaemia
+T5	DISEASE 706 760	silent myocardial infarction in the inferolateral wall
+T14	DISEASE 799 828	moderate mitral insufficiency
+T6	DISEASE 830 904	dilated left ventricle (LV) (end-diastolic volume 155 ml) and hypertrophic
+T7	DISEASE 1090 1137	COPD with bilateral subpleural pulmonary bullae
+T8	DISEASE 1168 1230	established infarction of uncertain chronology inferolaterally
+T9	DISEASE 1264 1301	severe eccentric mitral regurgitation
+T15	DISEASE 1489 1533	significant 2-vessel coronary artery disease
+T20	DISEASE 1535 1577	severe stenosis in the LAD and proximal DC
+T16	DISEASE 1899 1922	postcardiotomy syndrome
+T23	DISEASE 2107 2209	19 x 11 mm thrombus was detected on the atrial side of the septal leaflet of the biological prosthesis
+T24	DISEASE 2678 2703	unilateral loss of vision
+T17	DISEASE 2762 2786	intraprosthetic thrombus
+T25	DISEASE 3054 3133	sessile and mobile endocardial wart on the anterior leaflet of the mitral valve
+T27	DISEASE 3227 3269	pseudoaneurysm of the mitral valve annulus
+T18	DISEASE 3309 3328	endocardial process
+T19	DISEASE 3354 3376	infective endocarditis
+T1	DISEASE 3548 3601	infective endocarditis on the mitral prosthetic valve
+T21	DISEASE 3675 3707	mitral valve annulus perforation
+T22	DISEASE 3709 3744	severe periprosthetic insufficiency
+T26	DISEASE 3820 3832	endocarditis
+T28	DISEASE 4226 4255	early prosthetic endocarditis
+T29	DISEASE 4525 4602	mitral perivalvular abscess with partial "disinsertion" of the mitral annulus

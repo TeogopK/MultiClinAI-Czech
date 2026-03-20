@@ -1,0 +1,24 @@
+T33	DISEASE 90 104	drug allergies
+T34	DISEASE 145 151	smoker
+T35	DISEASE 174 186	hypertensive
+T1	DISEASE 191 204	dyslipidaemic
+T36	DISEASE 235 262	anxious-depressive syndrome
+T37	DISEASE 264 282	chronic bronchitis
+T3	DISEASE 363 420	right hip fracture 5 years ago and a right ankle fracture
+T4	DISEASE 478 491	heart disease
+T46	DISEASE 495 507	sudden death
+T5	DISEASE 851 870	catarrhal condition
+T45	DISEASE 1144 1153	skin rash
+T38	DISEASE 2261 2281	deep vein thrombosis
+T13	DISEASE 3407 3458	left ventricle not dilated, with slight hypertrophy
+T14	DISEASE 3566 3609	Right ventricle of normal size and function
+T15	DISEASE 3644 3666	valvular heart disease
+T39	DISEASE 3738 3758	pericardial effusion
+T16	DISEASE 3887 3893	angina
+T40	DISEASE 4247 4266	acute renal failure
+T41	DISEASE 4273 4291	metabolic acidosis
+T42	DISEASE 4439 4466	allergic vasospastic angina
+T17	DISEASE 4470 4472	KS
+T43	DISEASE 4715 4742	Allergic vasospastic angina
+T44	DISEASE 4744 4746	SK
+T18	DISEASE 4749 4769	Allergy to quinolone

@@ -1,0 +1,10 @@
+T1	DISEASE 22 33	pharyngitis
+T7	DISEASE 304 315	hypotension
+T5	DISEASE 564 576	coagulopathy
+T4	DISEASE 766 783	liver dysfunction
+T6	DISEASE 913 931	metabolic acidosis
+T17	DISEASE 1432 1445	renal failure
+T8	DISEASE 1523 1545	multiple organ failure
+T9	DISEASE 1547 1550	MOF
+T2	DISEASE 1563 1571	asystole
+T3	DISEASE 1576 1600	cardiorespiratory arrest

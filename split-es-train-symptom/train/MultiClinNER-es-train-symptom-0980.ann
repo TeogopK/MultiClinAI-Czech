@@ -1,0 +1,57 @@
+T1	SYMPTOM 503 515	asintomático
+T2	SYMPTOM 661 678	ausencia de pulso
+T4	SYMPTOM 1152 1165	ritmo sinusal
+T5	SYMPTOM 1170 1231	elevación del segmento ST en las derivaciones V1-V5, DI y aVL
+T6	SYMPTOM 2067 2074	Afebril
+T7	SYMPTOM 2150 2171	ingurgitación yugular
+T8	SYMPTOM 2173 2203	Reflujo hepatoyugular negativo
+T9	SYMPTOM 2316 2341	Ruidos cardiacos rítmicos
+T10	SYMPTOM 2346 2352	soplos
+T11	SYMPTOM 2354 2397	Roncus dispersos en ambos campos pulmonares
+T12	SYMPTOM 2399 2426	Abdomen blando y depresible
+T13	SYMPTOM 2443 2477	Extremidades inferiores sin edemas
+T14	SYMPTOM 2483 2554	pulsos femorales, poplíteos, tibiales y pedios presentes bilateralmente
+T16	SYMPTOM 2569 2596	Pulsos radiales conservados
+T17	SYMPTOM 2728 2741	ritmo sinusal
+T18	SYMPTOM 2812 2858	elevación del segmento ST de V1 a V5, DI y aVL
+T21	SYMPTOM 2961 2974	ritmo sinusal
+T22	SYMPTOM 2985 2997	QRS estrecho
+T23	SYMPTOM 3018 3037	alteraciones del ST
+T24	SYMPTOM 3039 3086	onda T aplanada en derivaciones de los miembros
+T25	SYMPTOM 3937 3976	ventrículo izquierdo con función normal
+T27	SYMPTOM 5114 5164	dilatación de cámara gástrica con nivel hidroaéreo
+T28	SYMPTOM 5294 5348	ventrículo izquierdo de dimensiones y geometría normal
+T29	SYMPTOM 5354 5385	fracción de eyección preservada
+T30	SYMPTOM 5398 5440	Ventrículo derecho de dimensiones normales
+T31	SYMPTOM 5446 5470	función sistólica normal
+T33	SYMPTOM 5603 5631	índice cardiotorácico normal
+T34	SYMPTOM 5765 5778	ritmo sinusal
+T35	SYMPTOM 5840 5865	elevación del segmento ST
+T36	SYMPTOM 6435 6475	Función ventricular izquierda conservada
+T37	SYMPTOM 7320 7375	ventrículo izquierdo con función ventricular conservada
+T38	SYMPTOM 7476 7506	ascenso súbito del segmento ST
+T39	SYMPTOM 8112 8123	pico febril
+T40	SYMPTOM 8536 8601	resonancia magnética cardiaca que resultó dentro de la normalidad
+T41	SYMPTOM 8792 8804	asintomático
+T42	SYMPTOM 8904 8935	Corazón estructuralmente normal
+T43	SYMPTOM 8966 9006	elevación no persistente del segmento ST
+T15	SYMPTOM 4104 4132	Aorta ascendente no dilatada
+T19	SYMPTOM 4268 4330	Tronco de arteria pulmonar y aorta torácica de tamaño normales
+T20	SYMPTOM 5207 5276	TAC cerebral sin contraste (ingreso): sin alteraciones significativas
+T145	SYMPTOM 5073 5104	Secreciones en tráquea proximal
+T147	SYMPTOM 5472 5506	Válvulas morfológicamente normales
+T148	SYMPTOM 5783 5816	alteraciones de la repolarización
+T150	SYMPTOM 6921 6955	alteraciones electrocardiográficas
+T151	SYMPTOM 7907 7939	alteraciones hidroelectrolíticas
+T154	SYMPTOM 4825 4859	consolidados con broncograma aéreo
+T158	SYMPTOM 7694 7717	compromiso hemodinámico
+T160	SYMPTOM 7043 7066	coronarias sin lesiones
+T163	SYMPTOM 3002 3012	eje normal
+T164	SYMPTOM 8782 8789	estable
+T182	SYMPTOM 4921 4932	secreciones
+T3	SYMPTOM 1554 1599	arterias coronarias epicárdicas sin estenosis
+T141	SYMPTOM 4029 4061	aorta trivalva sin insuficiencia
+T142	SYMPTOM 5633 5692	parénquima pulmonar y trama broncovascular sin alteraciones
+T143	SYMPTOM 6034 6067	alteraciones de la repolarización
+T144	SYMPTOM 6160 6229	alteraciones globales ni segmentarias en la contractilidad miocárdica
+T146	SYMPTOM 6288 6330	perfusión miocárdica de primer paso normal

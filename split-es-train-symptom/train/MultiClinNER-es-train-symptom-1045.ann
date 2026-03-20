@@ -1,0 +1,49 @@
+T1	SYMPTOM 164 197	factores de riesgo cardiovascular
+T2	SYMPTOM 279 282	tos
+T3	SYMPTOM 285 291	disnea
+T4	SYMPTOM 608 634	inestabilidad hemodinámica
+T6	SYMPTOM 1034 1045	hipocinesia
+T8	SYMPTOM 1583 1598	síndrome febril
+T10	SYMPTOM 2645 2650	mareo
+T11	SYMPTOM 2652 2679	disnea de mínimos esfuerzos
+T12	SYMPTOM 3139 3192	dolor epigástrico irradiado a la espalda autolimitado
+T13	SYMPTOM 3205 3223	sensación disneica
+T14	SYMPTOM 3360 3367	astenia
+T15	SYMPTOM 3378 3407	sintomatología cardiovascular
+T16	SYMPTOM 3424 3442	clínica infecciosa
+T17	SYMPTOM 3445 3451	fiebre
+T18	SYMPTOM 3474 3480	vómito
+T19	SYMPTOM 3550 3570	buen aspecto general
+T20	SYMPTOM 3572 3597	hemodinámicamente estable
+T21	SYMPTOM 3603 3620	datos congestivos
+T22	SYMPTOM 3622 3636	eupneico basal
+T23	SYMPTOM 3671 3683	taquicárdico
+T24	SYMPTOM 3700 3706	soplos
+T25	SYMPTOM 3710 3715	roces
+T26	SYMPTOM 3717 3791	Abdomen doloroso a la palpación en hipocondrio derecho, blando, depresible
+T27	SYMPTOM 3807 3828	irritación peritoneal
+T28	SYMPTOM 3912 3921	PR normal
+T29	SYMPTOM 3923 3935	QRS estrecho
+T31	SYMPTOM 4034 4055	elevación ST inferior
+T32	SYMPTOM 4057 4081	descenso del ST de V1-V3
+T33	SYMPTOM 4083 4106	onda Q inferioposterior
+T35	SYMPTOM 5463 5469	disnea
+T36	SYMPTOM 5471 5480	taquipnea
+T37	SYMPTOM 5484 5501	cuadro vegetativo
+T38	SYMPTOM 5549 5574	elevación del ST inferior
+T39	SYMPTOM 6250 6257	fallece
+T139	SYMPTOM 4216 4243	fórmula leucocitaria normal
+T148	SYMPTOM 3881 3900	taquicardia sinusal
+T149	SYMPTOM 4003 4022	taquicardia sinusal
+T150	SYMPTOM 5282 5301	taquicardia sinusal
+T151	SYMPTOM 5525 5544	taquicardia sinusal
+T9	SYMPTOM 6301 6326	elevación del segmento ST
+T30	SYMPTOM 6510 6516	Muerte
+T157	SYMPTOM 1122 1150	Realce tardío subendocárdico
+T163	SYMPTOM 770 803	arterias coronarias sin estenosis
+T5	SYMPTOM 947 961	adelgazamiento
+T129	SYMPTOM 973 981	acinesia
+T134	SYMPTOM 3937 3966	rectificación del ST de V1-V4
+T135	SYMPTOM 3969 3996	ST convexo en cara inferior
+T137	SYMPTOM 5375 5402	ST convexo en cara inferior
+T138	SYMPTOM 5315 5372	cambios en la repolarización de rectificación ST en V1-V4

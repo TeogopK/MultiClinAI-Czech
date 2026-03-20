@@ -1,0 +1,15 @@
+T1	PROCEDURE 499 518	surgical gastropexy
+T14	PROCEDURE 545 554	operation
+T2	PROCEDURE 674 694	physical examination
+T3	PROCEDURE 794 812	Rectal examination
+T18	PROCEDURE 860 880	complete blood count
+T4	PROCEDURE 885 897	biochemistry
+T5	PROCEDURE 911 932	Plain abdominal X-ray
+T6	PROCEDURE 1020 1039	computed tomography
+T12	PROCEDURE 1041 1043	CT
+T7	PROCEDURE 1057 1069	barium enema
+T8	PROCEDURE 1209 1232	therapeutic colonoscopy
+T9	PROCEDURE 1267 1297	untwisting the colonic segment
+T10	PROCEDURE 1600 1611	colonoscopy
+T25	PROCEDURE 1700 1707	surgery
+T11	PROCEDURE 1712 1759	resection of the redundant segment of the colon

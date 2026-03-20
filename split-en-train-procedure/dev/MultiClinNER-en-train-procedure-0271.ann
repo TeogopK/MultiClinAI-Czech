@@ -1,0 +1,30 @@
+T20	PROCEDURE 30 53	radical left mastectomy
+T4	PROCEDURE 59 83	axillary lymphadenectomy
+T22	PROCEDURE 256 274	surgical procedure
+T13	PROCEDURE 276 418	immediate reconstruction was performed by placing an expander prosthesis (anatomical Becker) with a 300 cc. volume textured silicone gel layer
+T15	PROCEDURE 429 438	expansion
+T18	PROCEDURE 453 460	surgery
+T27	PROCEDURE 548 651	chemotherapy was established according to a sequential scheme of adriamycin-cyclophosphamide and taxane
+T28	PROCEDURE 761 793	Complementary hormonal treatment
+T14	PROCEDURE 883 897	reconstruction
+T16	PROCEDURE 929 1013	replacing the expander prosthesis with a 320 cc textured silicone gel breast implant
+T31	PROCEDURE 1296 1398	fat graft of adipose tissue obtained from the abdominal area and processed using the Coleman technique
+T21	PROCEDURE 1406 1430	infiltration of the scar
+T10	PROCEDURE 1444 1461	local anaesthetic
+T11	PROCEDURE 1602 1650	a total of 5 cc. of fatty tissue was infiltrated
+T19	PROCEDURE 1766 1779	imaging tests
+T6	PROCEDURE 1919 1929	mammograms
+T2	PROCEDURE 1936 1953	breast ultrasound
+T3	PROCEDURE 2114 2131	breast ultrasound
+T38	PROCEDURE 2320 2323	MRI
+T12	PROCEDURE 2872 2892	surgical exploration
+T23	PROCEDURE 2940 2971	to remove the breast prosthesis
+T41	PROCEDURE 3176 3185	operation
+T7	PROCEDURE 3479 3522	biopsy of the area of injected fatty tissue
+T8	PROCEDURE 3529 3535	biopsy
+T9	PROCEDURE 3556 3574	histological study
+T45	PROCEDURE 3632 3654	removed the prosthesis
+T5	PROCEDURE 3853 3869	needle punctures
+T24	PROCEDURE 4164 4184	implant was replaced
+T1	PROCEDURE 4232 4257	anatomopathological study
+T17	PROCEDURE 4271 4313	sample analysed from inside the prosthesis

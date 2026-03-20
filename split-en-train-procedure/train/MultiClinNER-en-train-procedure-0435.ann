@@ -1,0 +1,17 @@
+T12	PROCEDURE 271 291	Physical examination
+T4	PROCEDURE 420 450	Cardiorespiratory auscultation
+T16	PROCEDURE 463 479	Laboratory tests
+T13	PROCEDURE 703 724	Hepatic viral markers
+T5	PROCEDURE 740 751	Chest X-ray
+T6	PROCEDURE 797 817	abdominal ultrasound
+T19	PROCEDURE 964 1009	Computed axial tomography (CT) of the abdomen
+T20	PROCEDURE 991 993	CT
+T1	PROCEDURE 1266 1281	corticosteroids
+T2	PROCEDURE 1283 1300	enteral nutrition
+T3	PROCEDURE 1305 1333	empirical antibiotic therapy
+T24	PROCEDURE 1496 1512	Laboratory tests
+T11	PROCEDURE 1742 1758	anti-TNF therapy
+T8	PROCEDURE 1820 1824	MARS
+T9	PROCEDURE 2095 2116	Femoral venous access
+T10	PROCEDURE 2160 2229	associated renal replacement technique was continuous veno-venous HDF
+T7	PROCEDURE 2231 2246	Anticoagulation

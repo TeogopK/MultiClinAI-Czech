@@ -1,0 +1,66 @@
+T2	SYMPTOM 1158 1187	disnea de esfuerzos moderados
+T3	SYMPTOM 1193 1218	ortopnea de dos almohadas
+T4	SYMPTOM 1220 1244	edematización periférica
+T5	SYMPTOM 1247 1298	disminución subjetiva de volumen de diuresis diario
+T6	SYMPTOM 1370 1411	dolor torácico en reposo ni con esfuerzos
+T8	SYMPTOM 2241 2251	Consciente
+T9	SYMPTOM 2254 2283	orientada en las tres esferas
+T10	SYMPTOM 2285 2299	normohidratada
+T11	SYMPTOM 2301 2323	palidez cutáneo-mucosa
+T12	SYMPTOM 2325 2344	buen estado general
+T13	SYMPTOM 2458 2488	Auscultación cardiaca: regular
+T14	SYMPTOM 2508 2514	soplos
+T15	SYMPTOM 2539 2568	murmullo vesicular conservado
+T16	SYMPTOM 2570 2573	MVC
+T17	SYMPTOM 2576 2605	crepitantes húmedos bibasales
+T18	SYMPTOM 2621 2653	edemas tibiomaleolares con fóvea
+T19	SYMPTOM 2762 2779	congestión venosa
+T20	SYMPTOM 2785 2819	infiltrado intersticial perihiliar
+T21	SYMPTOM 2943 2945	RS
+T22	SYMPTOM 3020 3046	ondas T aplanadas en V5-V6
+T24	SYMPTOM 4534 4646	Ecocardiografía transtorácica (ETT): ventrículo izquierdo (VI) gravemente dilatado con disfución sistólica grave
+T25	SYMPTOM 4662 4680	hipocinesia global
+T26	SYMPTOM 4682 4708	Aurículas de tamaño normal
+T27	SYMPTOM 4799 4887	Ventrículo derecho (VD) ligeramente dilatado a nivel basal con contractilidad conservada
+T28	SYMPTOM 5122 5163	función sistólica moderadamente deprimida
+T29	SYMPTOM 5178 5210	Hipoquinesia ligera generalizada
+T30	SYMPTOM 5242 5263	Volúmenes VD normales
+T31	SYMPTOM 5307 5331	función sistólica normal
+T32	SYMPTOM 5346 5388	Aurículas y grandes vasos de tamaño normal
+T33	SYMPTOM 5390 5440	Resistencias pulmonares dentro de valoras normales
+T34	SYMPTOM 6456 6463	nódulos
+T35	SYMPTOM 6465 6470	masas
+T36	SYMPTOM 6473 6516	infiltrados intraparenquimatosos pulmonares
+T37	SYMPTOM 6518 6556	Árbol traqueobronquial principal libre
+T38	SYMPTOM 6770 6814	función global sistólica levemente deprimida
+T39	SYMPTOM 6854 6868	VD no dilatado
+T40	SYMPTOM 6901 6936	función global sistólica conservada
+T41	SYMPTOM 7007 7040	Aurículas de dimensiones normales
+T42	SYMPTOM 7042 7085	Resistencias vasculares pulmonares normales
+T43	SYMPTOM 8191 8200	calciuria
+T44	SYMPTOM 8203 8240	elevación de reactantes de fase aguda
+T45	SYMPTOM 8970 8976	disnea
+T147	SYMPTOM 6708 6753	alteraciones de la contractilidad segmentaria
+T1	SYMPTOM 2824 2858	pinzamiento de senos costofrénicos
+T7	SYMPTOM 4484 4531	Calciuria 24 horas: en límites de la normalidad
+T146	SYMPTOM 4918 4948	Vena cava inferior no dilatada
+T148	SYMPTOM 6827 6852	Movimiento anómalo septal
+T151	SYMPTOM 9294 9313	normalizado la FEVI
+T173	SYMPTOM 598 610	asintomática
+T174	SYMPTOM 8952 8964	asintomática
+T178	SYMPTOM 1443 1461	clínica infecciosa
+T201	SYMPTOM 5583 5604	defectos de perfusión
+T206	SYMPTOM 2490 2502	tercer ruido
+T208	SYMPTOM 6099 6127	Árbol coronario sin lesiones
+T152	SYMPTOM 6066 6097	Cateterismo: dominancia derecha
+T156	SYMPTOM 4757 4797	Válvula aórtica sin hallazgos de interés
+T157	SYMPTOM 4985 5040	volúmenes del VI en el límite superior de la normalidad
+T158	SYMPTOM 5081 5103	hipertrofia excéntrica
+T159	SYMPTOM 5621 5726	Realce tardío de gadolinio focal en el septo inferior medial en la intersección con el ventrículo derecho
+T162	SYMPTOM 6243 6271	ganglio paratraqueal derecho
+T163	SYMPTOM 6330 6402	crecimientos ganglionares reseñables en los hilios ni en huecos axilares
+T164	SYMPTOM 6592 6616	VI de volúmenes normales
+T166	SYMPTOM 6949 7005	Aorta y grandes vasos de diámetros y morfología normales
+T153	SYMPTOM 9104 9140	ventrículo izquierdo sin hipertrofia
+T169	SYMPTOM 9325 9373	diámetros en el límite superior de la normalidad
+T171	SYMPTOM 9442 9530	pólipos en colon derecho que se extirparon sin hallazgos histopatológicos significativos

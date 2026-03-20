@@ -1,0 +1,42 @@
+T1	SYMPTOM 1068 1105	disnea de moderados a leves esfuerzos
+T2	SYMPTOM 1185 1191	disnea
+T3	SYMPTOM 1194 1214	distensión abdominal
+T4	SYMPTOM 1234 1237	DPN
+T5	SYMPTOM 1267 1296	edemas en miembros inferiores
+T6	SYMPTOM 1311 1320	cansancio
+T7	SYMPTOM 1323 1336	fatigabilidad
+T8	SYMPTOM 1338 1365	Cifras tensionales normales
+T9	SYMPTOM 1395 1416	mareo por hipotensión
+T11	SYMPTOM 1444 1457	palpitaciones
+T13	SYMPTOM 1504 1531	dolor torácico ni abdominal
+T14	SYMPTOM 1574 1595	Ingurgitación yugular
+T15	SYMPTOM 1609 1620	AC: rítmica
+T16	SYMPTOM 1643 1649	soplos
+T19	SYMPTOM 1782 1799	hemograma: normal
+T22	SYMPTOM 2302 2328	Parénquima pulmonar normal
+T23	SYMPTOM 2362 2375	ritmo sinusal
+T24	SYMPTOM 2420 2454	T negativa en V3-V6, II, III y aVF
+T25	SYMPTOM 2637 2684	Ventrículo izquierdo de tamaño y función normal
+T26	SYMPTOM 2713 2758	Ventrículo derecho de tamaño y función normal
+T31	SYMPTOM 4169 4188	coronarias normales
+T32	SYMPTOM 4384 4416	cambios respiratorios recíprocos
+T35	SYMPTOM 5758 5809	Parénquima pulmonar sin alteraciones significativas
+T37	SYMPTOM 6065 6131	Contractilidad global y segmentaria de ventrículo izquierdo normal
+T38	SYMPTOM 6184 6217	Buena función ventricular derecha
+T39	SYMPTOM 6929 6961	función biventricular conservada
+T97	SYMPTOM 1421 1429	síncopes
+T90	SYMPTOM 507 539	Arterias coronarias sin lesiones
+T122	SYMPTOM 1239 1247	Ortopnea
+T10	SYMPTOM 1597 1607	AP: normal
+T12	SYMPTOM 1653 1670	knock pericárdico
+T27	SYMPTOM 3031 3053	Válvula aórtica normal
+T29	SYMPTOM 4266 4322	presiones telediastólicas derechas e izquierdas elevadas
+T30	SYMPTOM 3762 3825	Presiones telediastólicas igualadas en lado derecho e izquierdo
+T125	SYMPTOM 4336 4379	Presión en dip-plateau en ambos ventrículos
+T33	SYMPTOM 4841 4876	Coronarias epicárdicas sin lesiones
+T126	SYMPTOM 6133 6182	Movimiento discinético del septo interventricular
+T128	SYMPTOM 7346 7390	arterias coronarias epicárdicas sin lesiones
+T129	SYMPTOM 7442 7500	presiones telediastólicas derechas e izquierdas aumentadas
+T138	SYMPTOM 1710 1733	Extremidades: No edemas
+T134	SYMPTOM 108 117	fallecida
+T144	SYMPTOM 5380 5434	Cavidades ventriculares aparentemente de tamaño normal

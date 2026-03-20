@@ -1,0 +1,20 @@
+T1	SYMPTOM 37 44	astenia
+T2	SYMPTOM 46 61	pérdida de peso
+T3	SYMPTOM 64 70	fiebre
+T4	SYMPTOM 123 137	picos febriles
+T5	SYMPTOM 1433 1449	leve proteinuria
+T6	SYMPTOM 220 262	mucosidad espesa y blanquecina en el cavum
+T7	SYMPTOM 621 632	proteinuria
+T8	SYMPTOM 762 803	elevación de los reactantes de fase aguda
+T9	SYMPTOM 815 822	afebril
+T10	SYMPTOM 884 941	micropetequias en miembros inferiores y dorso de los pies
+T11	SYMPTOM 967 990	sangrado de mucosa oral
+T12	SYMPTOM 1281 1296	fiebre sin foco
+T13	SYMPTOM 189 204	hábito asténico
+T14	SYMPTOM 1321 1348	IgM parvovirus B19 positivo
+T15	SYMPTOM 1464 1484	función renal normal
+A1	RESULTADO T5
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	RESULTADO T14
+A5	RESULTADO T15

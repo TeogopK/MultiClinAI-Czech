@@ -1,0 +1,11 @@
+T7	PROCEDURE 252 263	Examination
+T2	PROCEDURE 386 389	ECG
+T5	PROCEDURE 444 464	abdominal ultrasound
+T9	PROCEDURE 607 657	abdominal CT scan was then performed with contrast
+T10	PROCEDURE 868 878	blood test
+T6	PROCEDURE 1045 1058	imaging tests
+T13	PROCEDURE 1089 1096	surgery
+T1	PROCEDURE 1101 1111	laparotomy
+T4	PROCEDURE 1141 1151	ultrasound
+T16	PROCEDURE 1156 1163	CT scan
+T17	PROCEDURE 1211 1259	segmentectomy, lavage and drainage of the cavity

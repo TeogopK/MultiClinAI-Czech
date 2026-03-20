@@ -1,0 +1,28 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 600 628	Transthoracic echocardiogram
+T59	PROCEDURE 1260 1272	renal biopsy
+T60	PROCEDURE 1329 1341	renal biopsy
+T61	PROCEDURE 1397 1408	embolectomy
+T14	PROCEDURE 1584 1617	Chemotherapy treatment of myeloma
+T15	PROCEDURE 1938 1960	vital signs were taken
+T62	PROCEDURE 2019 2036	electrocardiogram
+T63	PROCEDURE 2038 2041	ECG
+T64	PROCEDURE 2109 2112	ECG
+T56	PROCEDURE 2206 2226	Physical examination
+T67	PROCEDURE 2322 2342	Cardiac auscultation
+T68	PROCEDURE 2435 2457	Pulmonary auscultation
+T81	PROCEDURE 2550 2579	superficial or deep palpation
+T69	PROCEDURE 2746 2757	Blood count
+T80	PROCEDURE 2940 2952	Biochemistry
+T16	PROCEDURE 3173 3205	Serial myocardial damage markers
+T70	PROCEDURE 3308 3319	Coagulation
+T65	PROCEDURE 3507 3510	ECG
+T71	PROCEDURE 3670 3681	Chest X-ray
+T58	PROCEDURE 3774 3802	Transthoracic echocardiogram
+T72	PROCEDURE 4186 4212	pyrophosphate scintigraphy
+T66	PROCEDURE 4792 4795	ECG
+T73	PROCEDURE 5241 5254	beta-blockers
+T76	PROCEDURE 5276 5290	echocardiogram
+T77	PROCEDURE 5638 5653	anticoagulation
+T17	PROCEDURE 5988 6013	anticoagulation treatment
+T79	PROCEDURE 6148 6177	pharmacological cardioversion

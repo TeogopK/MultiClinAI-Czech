@@ -1,0 +1,49 @@
+T71	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T87	PROCEDURE 293 308	brain MRI scans
+T73	PROCEDURE 373 404	Bilateral renal angiomyolipomas
+T72	PROCEDURE 938 958	Physical examination
+T70	PROCEDURE 1019 1049	Cardiorespiratory auscultation
+T3	PROCEDURE 1398 1416	venous blood gases
+T4	PROCEDURE 1543 1554	Blood tests
+T74	PROCEDURE 1689 1700	Coagulation
+T100	PROCEDURE 1725 1737	Biochemistry
+T78	PROCEDURE 2323 2355	Upper gastrointestinal endoscopy
+T104	PROCEDURE 2357 2360	EDA
+T6	PROCEDURE 2865 2881	laboratory tests
+T75	PROCEDURE 3003 3014	Coagulation
+T101	PROCEDURE 3039 3051	Biochemistry
+T7	PROCEDURE 3525 3533	Serology
+T79	PROCEDURE 3749 3769	Abdominal ultrasound
+T80	PROCEDURE 4278 4313	Thoracic-abdominal CT with contrast
+T10	PROCEDURE 5344 5355	Blood tests
+T76	PROCEDURE 5500 5511	Coagulation
+T102	PROCEDURE 5536 5548	Biochemistry
+T81	PROCEDURE 6074 6091	Electrocardiogram
+T82	PROCEDURE 6250 6264	PA chest X-ray
+T83	PROCEDURE 6420 6434	Echocardiogram
+T85	PROCEDURE 7386 7403	Coronary angio-CT
+T86	PROCEDURE 8202 8268	Cardiac magnetic resonance imaging (MRI) without and with contrast
+T88	PROCEDURE 8238 8241	MRI
+T89	PROCEDURE 8914 8917	MRI
+T27	PROCEDURE 9008 9031	contrast administration
+T90	PROCEDURE 9513 9545	ICD-CRT in left upper hemithorax
+T28	PROCEDURE 9580 9591	Blood tests
+T77	PROCEDURE 9732 9743	Coagulation
+T103	PROCEDURE 9768 9780	Biochemistry
+T91	PROCEDURE 10247 10260	Genetic study
+T106	PROCEDURE 10268 10316	study of genes related to dilated cardiomyopathy
+T84	PROCEDURE 10580 10594	Echocardiogram
+T96	PROCEDURE 11281 11291	ultrasound
+T98	PROCEDURE 11481 11515	Cardiac magnetic resonance imaging
+T34	PROCEDURE 11796 11829	angio-CT of the coronary arteries
+T92	PROCEDURE 11990 12003	genetic study
+T36	PROCEDURE 12356 12394	implantable cardioverter defibrillator
+T35	PROCEDURE 12396 12399	ICD
+T99	PROCEDURE 12452 12477	resynchronisation therapy
+T37	PROCEDURE 12479 12482	CRT
+T38	PROCEDURE 12550 12567	ICD was implanted
+T32	PROCEDURE 12838 12876	implant a pacemaker with Hisian pacing
+T30	PROCEDURE 13262 13287	echocardiographic control
+T31	PROCEDURE 13323 13401	implantation of the pacemaker with physiological stimulation in the His bundle
+T93	PROCEDURE 13574 13587	genetic study
+T105	PROCEDURE 13739 13789	Hisian physiological pacing pacemaker implantation

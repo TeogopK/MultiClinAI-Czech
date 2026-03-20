@@ -1,0 +1,58 @@
+T39	DISEASE 87 109	adverse drug reactions
+T1	DISEASE 140 152	hypertension
+T40	DISEASE 183 229	Non-insulin-dependent type 2 diabetes mellitus
+T41	DISEASE 260 279	Mixed dyslipidaemia
+T42	DISEASE 317 329	toxic habits
+T43	DISEASE 354 384	paroxysmal atrial fibrillation
+T44	DISEASE 473 492	depressive disorder
+T45	DISEASE 494 519	essential thrombocythemia
+T2	DISEASE 521 554	severe neurotrophic corneal ulcer
+T46	DISEASE 1728 1741	heart failure
+T49	DISEASE 1928 1962	pulseless ventricular fibrillation
+T4	DISEASE 1964 1968	PSVF
+T85	DISEASE 2247 2265	torsade de Pointes
+T89	DISEASE 2267 2270	TdP
+T50	DISEASE 2519 2529	arrhythmia
+T51	DISEASE 2918 2938	respiratory distress
+T52	DISEASE 3213 3233	deep vein thrombosis
+T53	DISEASE 3235 3238	DVT
+T54	DISEASE 3633 3667	complete right bundle branch block
+T7	DISEASE 3669 3674	CRBBB
+T77	DISEASE 3845 3896	polymorphic ventricular tachycardia of the TdP type
+T81	DISEASE 3988 3994	BCRDHH
+T10	DISEASE 4893 4895	HF
+T55	DISEASE 5110 5149	concentric left ventricular hypertrophy
+T12	DISEASE 5151 5185	Increased left ventricular volumes
+T56	DISEASE 5304 5333	Moderate mitral regurgitation
+T82	DISEASE 5406 5435	Severe left atrial dilatation
+T58	DISEASE 5529 5552	tricuspid insufficiency
+T13	DISEASE 5554 5556	TI
+T64	DISEASE 5685 5705	pericardial effusion
+T14	DISEASE 5873 5896	pulmonary consolidation
+T65	DISEASE 5925 5937	Cardiomegaly
+T66	DISEASE 5939 5973	Calcification of the aortic button
+T67	DISEASE 5975 6015	Degenerative changes in the dorsal spine
+T91	DISEASE 6327 6330	TdP
+T68	DISEASE 6518 6530	hypokalaemia
+T69	DISEASE 6532 6547	hypomagnesaemia
+T70	DISEASE 6567 6588	electrolyte disorders
+T16	DISEASE 6608 6639	prolongation of the QT interval
+T71	DISEASE 6987 7017	severe ventricular dysfunction
+T57	DISEASE 7023 7052	moderate mitral insufficiency
+T18	DISEASE 7054 7056	MI
+T73	DISEASE 7188 7210	dilated cardiomyopathy
+T47	DISEASE 7493 7506	heart failure
+T19	DISEASE 7555 7557	HF
+T63	DISEASE 7901 7903	it
+T92	DISEASE 7951 7975	QT interval prolongation
+T20	DISEASE 8156 8158	HF
+T76	DISEASE 8344 8380	non-ischaemic dilated cardiomyopathy
+T87	DISEASE 8388 8407	tachycardiomyopathy
+T83	DISEASE 8483 8524	Iatrogenic acquired prolonged QT interval
+T84	DISEASE 8570 8587	arrhythmic events
+T78	DISEASE 8603 8638	polymorphic ventricular tachycardia
+T86	DISEASE 8640 8658	torsade de Pointes
+T79	DISEASE 8664 8698	recovered cardiorespiratory arrest
+T80	DISEASE 8700 8731	Heart failure with reduced LVEF
+T75	DISEASE 8750 8785	non-ischemic dilated cardiomyopathy
+T88	DISEASE 8809 8828	tachycardiomyopathy

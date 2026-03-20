@@ -1,0 +1,36 @@
+T91	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 363 377	apendicectomía
+T93	PROCEDURE 594 614	cateterismo cardiaco
+T94	PROCEDURE 797 817	cateterismo cardiaco
+T95	PROCEDURE 911 915	MIBI
+T96	PROCEDURE 1032 1051	colocación de stent
+T97	PROCEDURE 1092 1103	cateterismo
+T98	PROCEDURE 1538 1541	EEF
+T99	PROCEDURE 1587 1590	CRM
+T100	PROCEDURE 2601 2619	Exploración física
+T101	PROCEDURE 2878 2880	AR
+T102	PROCEDURE 3061 3064	ECG
+T103	PROCEDURE 3130 3150	Radiografía de tórax
+T104	PROCEDURE 3844 3872	Ecocardiograma transtorácico
+T105	PROCEDURE 4254 4331	Cateterismo izquierdo (junio 2014): stent en la descendente anterior proximal
+T106	PROCEDURE 4488 4506	test de ergonovina
+T107	PROCEDURE 4703 4713	Ergometría
+T108	PROCEDURE 4798 4801	ECG
+T109	PROCEDURE 5127 5151	Estudio de autoinmunidad
+T110	PROCEDURE 5274 5304	Metanefrinas en orina 24 horas
+T111	PROCEDURE 5394 5422	Cateterismo cardiaco derecho
+T112	PROCEDURE 5449 5501	cateterismo cardiaco derecho por vía yugular derecha
+T113	PROCEDURE 5964 5967	PFR
+T114	PROCEDURE 6266 6287	Test de bipedestación
+T115	PROCEDURE 7103 7124	test de bipedestación
+T116	PROCEDURE 7301 7329	desensibilización progresiva
+T127	PROCEDURE 4868 4886	prueba de esfuerzo
+T128	PROCEDURE 5064 5072	Hormonas
+T130	PROCEDURE 969 1025	se implanta stent farmacoactivo Biomatrix 11 mm en la DA
+T167	PROCEDURE 2745 2748	ACV
+T169	PROCEDURE 3276 3285	Analítica
+T170	PROCEDURE 3529 3538	Analítica
+T174	PROCEDURE 265 291	Intervenciones quirúrgicas
+T195	PROCEDURE 3495 3517	Curva de biomarcadores
+T210	PROCEDURE 2989 3001	se auscultan
+#1	AnnotatorNotes T101	 auscultación respiratoria

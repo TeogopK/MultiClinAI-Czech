@@ -1,0 +1,14 @@
+T1	SYMPTOM 123 128	fever
+T10	SYMPTOM 141 186	intense pleuritic pain in the left hemithorax
+T2	SYMPTOM 191 196	cough
+T12	SYMPTOM 202 233	abundant blackish expectoration
+T3	SYMPTOM 440 476	overall decrease in vesicular murmur
+T9	SYMPTOM 482 510	isolated areas of echophonia
+T11	SYMPTOM 566 846	haemogram, general biochemistry, baseline arterial blood gases, creatinine clearance, calciuria, proteinogram, immunoglobulin and complement dosage, C-reactive protein, rheumatoid factor, angiotensin-converting enzyme determination and biological markers, all results being normal
+T6	SYMPTOM 868 887	restrictive pattern
+T7	SYMPTOM 923 942	decreased diffusion
+T8	SYMPTOM 968 1001	reduction of the exchange surface
+T5	SYMPTOM 1034 1064	bilateral interstitial pattern
+T13	SYMPTOM 2169 2187	costal lytic image
+T4	SYMPTOM 2265 2277	asymptomatic
+T23	SYMPTOM 2310 2349	mild costal pain in the left hemithorax

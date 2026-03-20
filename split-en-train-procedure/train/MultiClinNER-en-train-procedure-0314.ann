@@ -1,0 +1,17 @@
+T4	PROCEDURE 420 440	physical examination
+T8	PROCEDURE 795 812	transillumination
+T15	PROCEDURE 869 906	testicular ultrasound, both testicles
+T7	PROCEDURE 1245 1256	chest X-ray
+T5	PROCEDURE 1258 1283	testicular tumour markers
+T19	PROCEDURE 1288 1304	general analyses
+T20	PROCEDURE 1310 1334	abdominal-pelvic CT scan
+T21	PROCEDURE 1355 1367	pathological
+T22	PROCEDURE 1394 1399	tests
+T23	PROCEDURE 1403 1465	surgical exploration was then performed via the inguinal route
+T1	PROCEDURE 1576 1583	dissect
+T3	PROCEDURE 1753 1773	perioperative biopsy
+T26	PROCEDURE 1847 1865	lesion was excised
+T6	PROCEDURE 1930 1949	radical orchiectomy
+T28	PROCEDURE 2029 2038	operation
+T2	PROCEDURE 2044 2063	anatomopathological
+T31	PROCEDURE 2201 2210	operation

@@ -1,0 +1,7 @@
+T3	PROCEDURE 300 320	Physical examination
+T1	PROCEDURE 620 631	chest X-ray
+T2	PROCEDURE 715 740	biopsy of the skin lesion
+T4	PROCEDURE 852 883	thoraco-abdomino-pelvic CT scan
+T5	PROCEDURE 1050 1061	Gastroscopy
+T7	PROCEDURE 1119 1125	Biopsy
+T8	PROCEDURE 1229 1251	chemotherapy treatment

@@ -1,0 +1,34 @@
+T1	SYMPTOM 112 120	dyspnoea
+T2	SYMPTOM 503 511	dyspnoea
+T5	SYMPTOM 543 555	palpitations
+T6	SYMPTOM 840 852	palpitations
+T7	SYMPTOM 605 634	dyspnoea on moderate exertion
+T8	SYMPTOM 662 672	orthopnoea
+T9	SYMPTOM 688 717	paroxysmal nocturnal dyspnoea
+T10	SYMPTOM 865 870	fever
+T11	SYMPTOM 932 944	asymptomatic
+T12	SYMPTOM 967 978	good health
+T13	SYMPTOM 1053 1059	murmur
+T15	SYMPTOM 1217 1225	Afebrile
+T17	SYMPTOM 1414 1462	Lower extremities: oedema with bimalleolar fovea
+T18	SYMPTOM 3385 3401	left atrial mass
+T19	SYMPTOM 3228 3277	Anatomically and functionally normal aortic valve
+T20	SYMPTOM 3522 3596	Aortic root, ascending aorta and infrarenal abdominal aorta of normal size
+T21	SYMPTOM 4579 4596	Intracardiac mass
+T3	SYMPTOM 769 790	oedema in both ankles
+T4	SYMPTOM 875 894	infectious symptoms
+T22	SYMPTOM 1227 1253	Jugular venous engorgement
+T14	SYMPTOM 1255 1287	Cardiac auscultation: arrhythmic
+T16	SYMPTOM 1289 1318	mitral systolic murmur II/IV.
+T23	SYMPTOM 1351 1373	crackles in right base
+T24	SYMPTOM 1383 1412	pulmonary auscultation normal
+T25	SYMPTOM 1782 1802	Liver profile normal
+T26	SYMPTOM 1856 1881	troponin T and CPK normal
+T27	SYMPTOM 1891 1903	serum change
+T28	SYMPTOM 1926 1978	cardiothoracic index at the upper limit of normality
+T29	SYMPTOM 2008 2046	pinching of the sinocostophrenic sinus
+T30	SYMPTOM 2048 2067	Fluid in the cisura
+T31	SYMPTOM 2603 2673	left ventricle slightly dilated (85 ml/cm2) with normal wall thickness
+T32	SYMPTOM 2675 2722	Global and segmental systolic function preserve
+T33	SYMPTOM 3081 3114	preserved ejection fraction (RVEF
+T34	SYMPTOM 3447 3520	Inferior vena cava of normal size with physiological inspiratory collapse

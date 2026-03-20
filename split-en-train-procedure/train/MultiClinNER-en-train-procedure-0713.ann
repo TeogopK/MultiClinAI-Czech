@@ -1,0 +1,35 @@
+T25	PROCEDURE 98 107	pathology
+T19	PROCEDURE 404 424	Physical examination
+T28	PROCEDURE 458 474	Laboratory tests
+T33	PROCEDURE 476 495	routine blood tests
+T3	PROCEDURE 497 525	blood and urine biochemistry
+T20	PROCEDURE 527 538	coagulation
+T1	PROCEDURE 553 574	Testicular ultrasound
+T6	PROCEDURE 610 630	abdominal ultrasound
+T8	PROCEDURE 632 658	magnetic resonance imaging
+T41	PROCEDURE 663 704	thoracoabdominal computed tomography (CT)
+T5	PROCEDURE 701 703	CT
+T2	PROCEDURE 955 964	bone scan
+T21	PROCEDURE 999 1030	fine needle puncture-aspiration
+T10	PROCEDURE 1081 1094	arteriography
+T4	PROCEDURE 1229 1248	radical nephrectomy
+T49	PROCEDURE 1254 1263	operation
+T23	PROCEDURE 1364 1371	surgery
+T26	PROCEDURE 1388 1397	pathology
+T22	PROCEDURE 1537 1560	microscopic description
+T54	PROCEDURE 1868 1877	operation
+T13	PROCEDURE 1879 1900	blood and urine tests
+T14	PROCEDURE 1902 1921	thoracoabdominal CT
+T15	PROCEDURE 2010 2029	thoracoabdominal CT
+T24	PROCEDURE 2227 2234	surgery
+T11	PROCEDURE 2374 2431	Resection of the tumour, including the affected diaphragm
+T12	PROCEDURE 2433 2476	vertical gastrectomy up to the angle of His
+T16	PROCEDURE 2478 2489	splenectomy
+T17	PROCEDURE 2495 2532	resection of the tail of the pancreas
+T18	PROCEDURE 2537 2560	splenic angle colectomy
+T27	PROCEDURE 2592 2601	pathology
+T65	PROCEDURE 2810 2864	chemotherapy (6 cycles of adriamycin/ifosfamide/mesna)
+T7	PROCEDURE 2869 2881	radiotherapy
+T67	PROCEDURE 2931 2938	CT scan
+T68	PROCEDURE 3018 3035	abdominal CT scan
+T9	PROCEDURE 3059 3081	chemotherapy treatment

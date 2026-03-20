@@ -1,0 +1,10 @@
+T32	PROCEDURE 518 536	electrocardiograma
+T33	PROCEDURE 900 911	TAC craneal
+T34	PROCEDURE 1168 1180	TAC de tórax
+T35	PROCEDURE 1219 1289	Se recogen muestras de orina, aspirado bronquial y sangre para cultivo
+T36	PROCEDURE 1366 1378	hemocultivos
+T37	PROCEDURE 1543 1566	tratamiento antibiótico
+T38	PROCEDURE 1576 1588	antibiograma
+T39	PROCEDURE 1632 1661	ecocardiograma transesofágico
+T40	PROCEDURE 1880 1910	cirugía para recambio valvular
+T44	PROCEDURE 336 382	colocarle dos stents por cardiopatía isquémica

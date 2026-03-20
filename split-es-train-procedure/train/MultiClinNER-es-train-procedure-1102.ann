@@ -1,0 +1,34 @@
+T79	PROCEDURE 1177 1195	EXPLORACIÓN FÍSICA
+T80	PROCEDURE 1334 1355	Auscultación cardiaca
+T81	PROCEDURE 1450 1471	Auscultación pulmonar
+T82	PROCEDURE 1808 1826	Electrocardiograma
+T83	PROCEDURE 1828 1831	ECG
+T84	PROCEDURE 1942 1962	Radiografía de tórax
+T85	PROCEDURE 2102 2111	hemograma
+T86	PROCEDURE 2169 2180	Coagulación
+T87	PROCEDURE 2644 2662	hormonas tiroideas
+T88	PROCEDURE 2807 2836	Estudio de proteínas en orina
+T89	PROCEDURE 2869 2897	Ecocardiograma transtorácico
+T90	PROCEDURE 3359 3388	Resonancia magnética cardiaca
+T91	PROCEDURE 3390 3393	RMC
+T92	PROCEDURE 4463 4485	Gammagrafía miocárdica
+T93	PROCEDURE 4690 4705	Electromiograma
+T94	PROCEDURE 4710 4734	estudio neurofisiológico
+T95	PROCEDURE 4958 4995	tratamiento deplectivo con diuréticos
+T96	PROCEDURE 5036 5098	tratamiento con inhibidores del receptor de mineralcorticoides
+T97	PROCEDURE 5399 5409	telemetría
+T98	PROCEDURE 5570 5584	antiarrítmicos
+T99	PROCEDURE 5685 5713	ecocardiograma transtorácico
+T100	PROCEDURE 5849 5872	cateterismo diagnóstico
+T101	PROCEDURE 5986 6001	electromiograma
+T102	PROCEDURE 6484 6504	sustitución valvular
+T103	PROCEDURE 6647 6686	electromiografía de miembros inferiores
+T108	PROCEDURE 2210 2220	Bioquímica
+T109	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T110	PROCEDURE 2683 2708	Inmunoglobulinas en suero
+T111	PROCEDURE 5441 5455	betabloqueante
+T112	PROCEDURE 5149 5162	función renal
+T115	PROCEDURE 2091 2100	Analítica
+T120	PROCEDURE 1685 1708	Extremidades inferiores
+T124	PROCEDURE 401 427	Intervenciones quirúrgicas
+T149	PROCEDURE 6247 6269	tratamiento quirúrgico

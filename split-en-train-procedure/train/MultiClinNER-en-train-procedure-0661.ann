@@ -1,0 +1,20 @@
+T3	PROCEDURE 233 245	radiotherapy
+T8	PROCEDURE 338 353	hormone therapy
+T9	PROCEDURE 370 392	radiotherapy treatment
+T11	PROCEDURE 567 587	Physical examination
+T25	PROCEDURE 797 813	Laboratory tests
+T15	PROCEDURE 1096 1120	markers of malabsorption
+T17	PROCEDURE 1122 1135	Transaminases
+T16	PROCEDURE 1140 1159	cholestasis enzymes
+T4	PROCEDURE 1275 1293	Stool parasitology
+T12	PROCEDURE 1349 1360	Chest X-ray
+T13	PROCEDURE 1396 1407	Colonoscopy
+T14	PROCEDURE 1607 1615	biopsies
+T1	PROCEDURE 1778 1826	Abdominopelvic CT scan with intravenous contrast
+T7	PROCEDURE 2027 2048	radical prostatectomy
+T5	PROCEDURE 2141 2153	radiotherapy
+T2	PROCEDURE 2195 2213	intestinal transit
+T6	PROCEDURE 2630 2642	radiotherapy
+T40	PROCEDURE 2782 2827	treatment was prescribed with corticosteroids
+T10	PROCEDURE 2925 2945	parenteral nutrition
+T43	PROCEDURE 3471 3487	laboratory tests

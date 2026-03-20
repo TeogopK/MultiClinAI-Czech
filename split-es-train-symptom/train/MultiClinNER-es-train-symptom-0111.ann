@@ -1,0 +1,11 @@
+T1	SYMPTOM 613 619	fiebre
+T2	SYMPTOM 825 845	signos inflamatorios
+T3	SYMPTOM 585 609	sintomatología miccional
+T4	SYMPTOM 265 296	molestia durante las erecciones
+T5	SYMPTOM 166 220	zona indurada en pene próxima al surco balanoprepucial
+T6	SYMPTOM 659 685	cordón indurado subcutáneo
+T7	SYMPTOM 772 821	alteraciones asociadas a nivel de la piel peneana
+T8	SYMPTOM 1112 1167	serología de enfermedades venéreas que fueron negativas
+T9	SYMPTOM 757 765	doloroso
+T10	SYMPTOM 855 889	se palpaban adenopatias inguinales
+A1	RESULTADO T8

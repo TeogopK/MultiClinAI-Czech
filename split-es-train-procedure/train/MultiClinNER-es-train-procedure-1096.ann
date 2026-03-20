@@ -1,0 +1,39 @@
+T74	PROCEDURE 309 336	implante de DAI monocameral
+T75	PROCEDURE 585 613	recambio de generador de DAI
+T76	PROCEDURE 1192 1210	Exploración física
+T77	PROCEDURE 2008 2034	extracción de hemocultivos
+T78	PROCEDURE 2281 2301	Radiografía de tórax
+T79	PROCEDURE 2372 2382	TAC cráneo
+T80	PROCEDURE 2667 2687	TAC toraco-abdominal
+T81	PROCEDURE 3797 3800	ECG
+T82	PROCEDURE 3941 3970	Ecocardiografía transtorácica
+T83	PROCEDURE 4443 4472	Ecocardiograma transesofágico
+T84	PROCEDURE 4560 4583	tratamiento antibiótico
+T85	PROCEDURE 4617 4650	extracción de nuevos hemocultivos
+T86	PROCEDURE 4653 4720	se extrae dispositivo (generador y cable de DAI, mediante tracción)
+T87	PROCEDURE 4774 4786	Hemocultivos
+T88	PROCEDURE 5039 5051	hemocultivos
+T89	PROCEDURE 5073 5096	tratamiento antibiótico
+T90	PROCEDURE 5194 5205	TC de tórax
+T91	PROCEDURE 5343 5372	ecocardiograma transesofágico
+T92	PROCEDURE 5662 5685	tratamiento antibiótico
+T93	PROCEDURE 5837 5849	RMN cardiaca
+T94	PROCEDURE 5970 5981	TC de tórax
+T95	PROCEDURE 6056 6072	ecocardiografías
+T96	PROCEDURE 6157 6180	tratamiento antibiótico
+T97	PROCEDURE 6532 6572	Explante y reimplante de DAI monocameral
+T110	PROCEDURE 1552 1554	AC
+T111	PROCEDURE 1598 1600	AP
+T112	PROCEDURE 1118 1127	Anamnesis
+T113	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 5785 5796	coagulación
+T115	PROCEDURE 3364 3396	tratamiento antibiótico empírico
+T119	PROCEDURE 5799 5823	marcadores inflamatorios
+T120	PROCEDURE 5760 5783	función renal, hepática
+T121	PROCEDURE 6232 6265	se implantó nuevo DAI monocameral
+T136	PROCEDURE 2111 2120	Analítica
+T137	PROCEDURE 3549 3558	Analítica
+T143	PROCEDURE 1289 1292	NRL
+T157	PROCEDURE 1266 1279	gafas nasales
+T170	PROCEDURE 3335 3361	perfusión de noradrenalina
+T30	PROCEDURE 516 522	choque

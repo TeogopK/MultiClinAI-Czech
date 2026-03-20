@@ -1,0 +1,36 @@
+T1	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T44	PROCEDURE 573 611	neurological and abdominal examination
+T45	PROCEDURE 634 637	ECG
+T2	PROCEDURE 886 940	Treatment was started with double antiplatelet therapy
+T3	PROCEDURE 1138 1154	Laboratory tests
+T46	PROCEDURE 1640 1651	Chest X-ray
+T47	PROCEDURE 1713 1729	Echocardiography
+T49	PROCEDURE 1930 1950	Coronary angiography
+T58	PROCEDURE 2016 2026	Cardiac MR
+T4	PROCEDURE 2318 2355	intravenous gadolinium administration
+T5	PROCEDURE 2563 2575	Cerebral MRI
+T6	PROCEDURE 2768 2786	Parasites in stool
+T7	PROCEDURE 2798 2818	Determination of IgE
+T63	PROCEDURE 2913 2927	Tumour markers
+T8	PROCEDURE 3011 3026	IF plasma/orine
+T52	PROCEDURE 3091 3111	Bone marrow aspirate
+T54	PROCEDURE 3113 3127	flow cytometry
+T64	PROCEDURE 3214 3239	TCR Beta sequencing study
+T65	PROCEDURE 3295 3307	Cytogenetics
+T66	PROCEDURE 3356 3373	Helminth serology
+T55	PROCEDURE 3446 3466	Electroencephalogram
+T56	PROCEDURE 3619 3638	Thoracoabdominal CT
+T50	PROCEDURE 4346 4366	coronary angiography
+T57	PROCEDURE 4409 4439	Transthoracic echocardiography
+T59	PROCEDURE 4615 4626	cardiac MRI
+T51	PROCEDURE 4791 4800	Brain MRI
+T9	PROCEDURE 4871 4916	Doppler ultrasound of the supra-aortic trunks
+T10	PROCEDURE 4931 4966	study of hypereosinophilic syndrome
+T11	PROCEDURE 5002 5005	IFI
+T53	PROCEDURE 5056 5076	Bone marrow aspirate
+T60	PROCEDURE 5111 5140	Parasitological stool culture
+T61	PROCEDURE 5200 5214	Corticotherapy
+T12	PROCEDURE 5385 5409	bolus methylprednisolone
+T13	PROCEDURE 5881 5926	2 red blood cell concentrates were transfused
+T62	PROCEDURE 5993 6004	colonoscopy
+T14	PROCEDURE 6187 6210	perfusion sedoanalgesia

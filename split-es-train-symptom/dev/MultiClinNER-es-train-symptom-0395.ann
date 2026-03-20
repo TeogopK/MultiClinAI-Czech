@@ -1,0 +1,30 @@
+T1	SYMPTOM 1480 1518	Hígado aumentado difusamente de tamaño
+T2	SYMPTOM 1213 1251	Hígado aumentado difusamente de tamaño
+T3	SYMPTOM 814 853	Abdomen blando, depresible, no doloroso
+T4	SYMPTOM 754 764	Consciente
+T5	SYMPTOM 434 446	asintomático
+T6	SYMPTOM 767 776	orientado
+T7	SYMPTOM 778 812	Auscultación cardiopulmonar normal
+T8	SYMPTOM 947 957	colestasis
+T9	SYMPTOM 1938 1958	colestasis disociada
+T10	SYMPTOM 2226 2236	colestasis
+T11	SYMPTOM 480 516	aumento de las enzimas de colestasis
+T12	SYMPTOM 1054 1076	Transaminasas normales
+T13	SYMPTOM 733 752	Buen estado general
+T14	SYMPTOM 878 918	Extremidades inferiores sin alteraciones
+T15	SYMPTOM 858 863	masas
+T16	SYMPTOM 868 876	megalias
+T17	SYMPTOM 1103 1143	Perfil férrico y autoinmunidad negativos
+T18	SYMPTOM 1145 1190	Serologías virus de hepatitis B y C negativas
+T19	SYMPTOM 1382 1424	Calibre y permeabilidad de la porta normal
+T20	SYMPTOM 2270 2291	PAS diastasa positivo
+T21	SYMPTOM 982 1012	Hemograma y coagulación normal
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	RESULTADO T17
+A6	RESULTADO T18
+A7	IMAGEN T19
+A8	RESULTADO T20
+A9	RESULTADO T21

@@ -1,0 +1,40 @@
+T28	DISEASE 105 119	drug allergies
+T29	DISEASE 195 223	community-acquired pneumonia
+T32	DISEASE 237 250	heart failure
+T34	DISEASE 294 313	depressive syndrome
+T35	DISEASE 315 335	vertiginous syndrome
+T36	DISEASE 496 504	diabetic
+T37	DISEASE 550 575	unspecified heart disease
+T38	DISEASE 589 608	atrial fibrillation
+T39	DISEASE 1962 1978	pleural effusion
+T42	DISEASE 2101 2125	repolarisation disorders
+T43	DISEASE 2980 3001	Diastolic dysfunction
+T45	DISEASE 3055 3082	Severe mitral insufficiency
+T48	DISEASE 3062 3082	mitral insufficiency
+T66	DISEASE 3084 3103	dilated left atrium
+T46	DISEASE 3553 3573	pericardial effusion
+T67	DISEASE 4077 4114	Slightly hypertrophic right ventricle
+T47	DISEASE 4120 4143	tricuspid insufficiency
+T49	DISEASE 4150 4170	mitral insufficiency
+T50	DISEASE 4372 4381	exostosis
+T30	DISEASE 4828 4856	community-acquired pneumonia
+T40	DISEASE 4879 4895	pleural effusion
+T41	DISEASE 5154 5170	pleural effusion
+T44	DISEASE 5690 5711	diastolic dysfunction
+T51	DISEASE 5853 5872	cardiac amyloidosis
+T57	DISEASE 5861 5872	amyloidosis
+T54	DISEASE 5920 5942	AL cardiac amyloidosis
+T52	DISEASE 5923 5942	cardiac amyloidosis
+T58	DISEASE 5931 5942	amyloidosis
+T56	DISEASE 5947 5951	ATTR
+T59	DISEASE 6210 6221	amyloidosis
+T62	DISEASE 6334 6350	multiple myeloma
+T60	DISEASE 6420 6431	amyloidosis
+T64	DISEASE 6566 6605	Acute heart failure with preserved LVEF
+T33	DISEASE 6572 6585	heart failure
+T55	DISEASE 6607 6629	AL cardiac amyloidosis
+T53	DISEASE 6610 6629	cardiac amyloidosis
+T61	DISEASE 6618 6629	amyloidosis
+T63	DISEASE 6631 6647	Multiple myeloma
+T65	DISEASE 6631 6657	Multiple myeloma IgA kappa
+T31	DISEASE 6659 6687	Community-acquired pneumonia

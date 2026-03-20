@@ -1,0 +1,38 @@
+T21	DISEASE 85 94	ex-smoker
+T1	DISEASE 144 156	hypertension
+T22	DISEASE 158 171	dyslipidaemia
+T23	DISEASE 176 190	hyperuricaemia
+T24	DISEASE 192 218	Stroke of ischaemic origin
+T2	DISEASE 320 365	critical stenosis of the right carotid artery
+T3	DISEASE 406 408	AF
+T4	DISEASE 557 598	upper and lower gastrointestinal bleeding
+T5	DISEASE 1095 1118	arrhythmic heart sounds
+T25	DISEASE 1482 1501	global cardiomegaly
+T26	DISEASE 1560 1576	pleural effusion
+T6	DISEASE 1583 1585	AF
+T7	DISEASE 1654 1657	LVH
+T27	DISEASE 1689 1744	dilated LV (Dtd 58 mm) with mild concentric hypertrophy
+T28	DISEASE 1749 1786	moderate left ventricular dysfunction
+T19	DISEASE 1862 1913	Mildly dilated RV with mild ventricular dysfunction
+T8	DISEASE 1915 1925	Dilated LA
+T9	DISEASE 1948 1973	moderate bicommissural MR
+T10	DISEASE 2061 2072	Moderate TR
+T29	DISEASE 2081 2091	Severe PHT
+T31	DISEASE 2101 2121	Pericardial effusion
+T20	DISEASE 2184 2203	severely dilated LV
+T32	DISEASE 2234 2261	severe systolic dysfunction
+T33	DISEASE 2312 2321	Severe MI
+T11	DISEASE 2323 2331	Mild PHT
+T42	DISEASE 2376 2413	Coronary arteries with calcifications
+T34	DISEASE 2537 2564	decompensated heart failure
+T36	DISEASE 2793 2817	structural heart disease
+T38	DISEASE 3427 3447	mitral insufficiency
+T12	DISEASE 3655 3657	AF
+T13	DISEASE 3869 3887	slight residual MR
+T37	DISEASE 4340 4364	structural heart disease
+T14	DISEASE 4525 4568	upper or lower gastrointestinal haemorrhage
+T40	DISEASE 4581 4603	Dilated cardiomyopathy
+T41	DISEASE 4609 4661	biventricular dysfunction of non-ischaemic aetiology
+T35	DISEASE 4679 4706	decompensated heart failure
+T15	DISEASE 4736 4767	Functional Mitral Insufficiency
+T30	DISEASE 4775 4785	Severe PHT

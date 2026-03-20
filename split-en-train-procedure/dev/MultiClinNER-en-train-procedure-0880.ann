@@ -1,0 +1,20 @@
+T24	PROCEDURE 29 49	physical examination
+T1	PROCEDURE 711 714	CBC
+T2	PROCEDURE 723 732	haemogram
+T31	PROCEDURE 741 752	coagulation
+T33	PROCEDURE 754 766	Biochemistry
+T25	PROCEDURE 861 864	ECG
+T26	PROCEDURE 934 949	Cranial CT scan
+T27	PROCEDURE 1165 1181	TSA echo-Doppler
+T5	PROCEDURE 1319 1328	angio-MRI
+T6	PROCEDURE 1345 1361	Angio-MRI of TSA
+T7	PROCEDURE 1528 1540	Cerebral MRI
+T10	PROCEDURE 1681 1709	Transthoracic echocardiogram
+T12	PROCEDURE 1848 1874	Peripheral intravenous FSS
+T28	PROCEDURE 2478 2494	cranial CAT scan
+T29	PROCEDURE 2561 2580	cardiological study
+T30	PROCEDURE 2596 2628	transesophageal echocardiography
+T35	PROCEDURE 2630 2633	TEE
+T36	PROCEDURE 2803 2806	TEE
+T32	PROCEDURE 3036 3050	colour Doppler
+T39	PROCEDURE 3052 3161	Echocontrast was performed with agitated colloidal solution both at baseline and after the Valsalva manoeuvre

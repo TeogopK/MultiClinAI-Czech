@@ -1,0 +1,34 @@
+T25	DISEASE 86 115	permanent atrial fibrillation
+T26	DISEASE 160 184	structural heart disease
+T27	DISEASE 289 295	angina
+T45	DISEASE 654 671	Myocardial damage
+T4	DISEASE 764 797	acute pleuroparenchymal pathology
+T6	DISEASE 1020 1054	Aneurysm of the interatrial septum
+T30	DISEASE 1108 1122	valvulopathies
+T31	DISEASE 1153 1173	pericardial effusion
+T28	DISEASE 1244 1250	angina
+T34	DISEASE 1444 1455	arrhythmias
+T35	DISEASE 1774 1815	Right coronary artery: severely calcified
+T7	DISEASE 2087 2133	critical stenosis of the right coronary artery
+T46	DISEASE 2665 2697	complete occlusion of the artery
+T47	DISEASE 2904 2920	generalised rash
+T48	DISEASE 2933 2962	allergy to iodinated contrast
+T32	DISEASE 3302 3322	pericardial effusion
+T10	DISEASE 3424 3441	allergic symptoms
+T12	DISEASE 3719 3747	occlusive coronary dissectio
+T29	DISEASE 3876 3882	angina
+T36	DISEASE 3958 3967	ischaemia
+T49	DISEASE 4027 4047	arterial hypotension
+T33	DISEASE 4170 4190	pericardial effusion
+T15	DISEASE 4223 4232	tamponade
+T37	DISEASE 4257 4310	fibrin deposition at the level of the right AV groove
+T18	DISEASE 4720 4750	electromechanical dissociation
+T20	DISEASE 4787 4802	retapositioning
+T38	DISEASE 5483 5516	dissection of the right AV groove
+T39	DISEASE 5643 5660	cardiac tamponade
+T41	DISEASE 5673 5694	severe RV dysfunction
+T24	DISEASE 5775 5827	RV free wall, leading to severe systolic dysfunction
+T21	DISEASE 6017 6036	Coronary dissection
+T42	DISEASE 6044 6114	iatrogenic perforation by angioplasty guidewire of the right AV groove
+T43	DISEASE 6116 6139	Acute cardiac tamponade
+T44	DISEASE 6141 6193	RV free wall haematoma with acute severe dysfunction

@@ -1,0 +1,61 @@
+T23	DISEASE 174 187	heart failure
+T67	DISEASE 227 241	drug allergies
+T63	DISEASE 245 251	Smoker
+T27	DISEASE 294 313	depressive syndrome
+T69	DISEASE 317 329	Hypertensive
+T1	DISEASE 334 347	dyslipidaemic
+T2	DISEASE 362 420	long term anti-coagulation therapy for atrial fibrillation
+T28	DISEASE 709 723	cholelithiasis
+T31	DISEASE 742 753	cholangitis
+T32	DISEASE 974 983	infection
+T24	DISEASE 1267 1280	heart failure
+T76	DISEASE 1412 1436	type A aortic dissection
+T33	DISEASE 1461 1488	severe aortic insufficiency
+T17	DISEASE 1501 1576	severe mitral insufficiency with a dilated and dysfunctional left ventricle
+T34	DISEASE 2210 2216	goitre
+T64	DISEASE 2663 2675	Hepatomegaly
+T35	DISEASE 3043 3063	venous insufficiency
+T36	DISEASE 3084 3104	deep vein thrombosis
+T39	DISEASE 3182 3201	atrial fibrillation
+T68	DISEASE 3222 3250	left ventricular hypertrophy
+T70	DISEASE 3896 3927	severely dilated left ventricle
+T40	DISEASE 4080 4115	severe left ventricular dysfunction
+T12	DISEASE 4134 4190	Tricuspid aortic valve, with severe jet of regurgitation
+T41	DISEASE 4271 4296	anterior leaflet prolapse
+T42	DISEASE 4298 4363	Sclerosed mitral valve, with eccentric holosystolic insufficiency
+T11	DISEASE 4463 4495	dilatation of the mitral annulus
+T62	DISEASE 4543 4562	Dilated left atrium
+T66	DISEASE 4578 4601	Dilated right ventricle
+T10	DISEASE 4621 4653	Moderate tricuspid insufficiency
+T71	DISEASE 4697 4714	Dilated vena cava
+T72	DISEASE 4743 4769	Aneurysmal ascending aorta
+T43	DISEASE 4918 4983	pericardial effusion at the level of the roof of the right atrium
+T44	DISEASE 5000 5040	aneurysm in the ascending thoracic aorta
+T77	DISEASE 5358 5382	Type A aortic dissection
+T73	DISEASE 5566 5575	haematoma
+T9	DISEASE 5576 5584	thrombus
+T45	DISEASE 5869 5894	pulmonary thromboembolism
+T49	DISEASE 6484 6495	atelectasis
+T50	DISEASE 6515 6541	Bilateral pleural effusion
+T65	DISEASE 6543 6555	Hepatomegaly
+T51	DISEASE 6898 6917	right heart failure
+T75	DISEASE 6919 6937	Gall bladder stone
+T29	DISEASE 6976 6990	cholelithiasis
+T30	DISEASE 7127 7141	cholelithiasis
+T78	DISEASE 7189 7213	type A aortic dissection
+T8	DISEASE 7233 7302	biventricular dysfunction with severe aortic and mitral insufficiency
+T52	DISEASE 7380 7415	bilateral pulmonary thromboembolism
+T26	DISEASE 7647 7660	heart failure
+T54	DISEASE 7695 7723	pulmonary arterial pathology
+T83	DISEASE 7821 7838	aortic dissection
+T37	DISEASE 7941 7961	deep vein thrombosis
+T47	DISEASE 8040 8065	pulmonary thromboembolism
+T55	DISEASE 8211 8269	cardiac arrest secondary to electromechanical dissociation
+T56	DISEASE 8407 8424	cardiac tamponade
+T57	DISEASE 8468 8482	aortic rupture
+T84	DISEASE 8561 8578	aortic dissection
+T59	DISEASE 8916 8930	cardiac arrest
+T79	DISEASE 8945 8969	Type A aortic dissection
+T53	DISEASE 8972 9007	Bilateral pulmonary thromboembolism
+T60	DISEASE 9010 9042	Severe biventricular dysfunction
+T61	DISEASE 9045 9083	Severe aortic and mitral regurgitation

@@ -1,0 +1,21 @@
+T38	PROCEDURE 138 160	Pulmonary auscultation
+T40	PROCEDURE 289 309	physical examination
+T51	PROCEDURE 443 457	anticoagulated
+T42	PROCEDURE 713 724	thoracic CT
+T1	PROCEDURE 960 1025	Embolisation was then performed using microcoils and embo-spheres
+T43	PROCEDURE 1106 1125	pulmonary lobectomy
+T41	PROCEDURE 1187 1207	Physical examination
+T44	PROCEDURE 1232 1252	Cardiac auscultation
+T39	PROCEDURE 1280 1302	Pulmonary auscultation
+T52	PROCEDURE 1431 1438	surgery
+T3	PROCEDURE 1442 1470	transthoracic echocardiogram
+T45	PROCEDURE 1696 1714	haemodynamic study
+T46	PROCEDURE 1719 1739	coronary angiography
+T48	PROCEDURE 1811 1834	Cardiac catheterisation
+T47	PROCEDURE 1895 1915	coronary angiography
+T6	PROCEDURE 2255 2295	embolised using a 6F AL 2 guide catheter
+T7	PROCEDURE 2325 2422	angioplasty guide (Runthrough Hipercoat, Terumo Europe, Netherlands) to introduce a microcatheter
+T49	PROCEDURE 2513 2537	release three microcoils
+T8	PROCEDURE 2604 2618	flow abolition
+T53	PROCEDURE 2620 2627	Surgery
+T50	PROCEDURE 2872 2897	percutaneous embolisation

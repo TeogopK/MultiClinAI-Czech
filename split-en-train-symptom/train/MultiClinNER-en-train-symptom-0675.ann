@@ -1,0 +1,15 @@
+T1	SYMPTOM 454 459	cough
+T2	SYMPTOM 461 469	dyspnoea
+T3	SYMPTOM 471 479	wheezing
+T4	SYMPTOM 484 506	purulent expectoration
+T5	SYMPTOM 525 535	orthopnoea
+T9	SYMPTOM 567 596	rhythmic cardiac auscultation
+T6	SYMPTOM 606 613	murmurs
+T7	SYMPTOM 617 635	extra heart sounds
+T23	SYMPTOM 677 684	rhonchi
+T24	SYMPTOM 686 706	Perimalleolar oedema
+T10	SYMPTOM 834 862	positive bronchodilator test
+T11	SYMPTOM 864 902	Lung gas diffusion is slightly reduced
+T25	SYMPTOM 1161 1221	Fibrobronchoscopy was performed with no significant findings
+T12	SYMPTOM 1246 1299	AAT phenotype was performed, which showed the ZZ type
+T8	SYMPTOM 1469 1493	acceptable lung function

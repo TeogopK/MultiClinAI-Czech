@@ -1,0 +1,51 @@
+T27	DISEASE 135 158	alergias medicamentosas
+T28	DISEASE 173 188	hábitos tóxicos
+T29	DISEASE 190 211	Hipertensión arterial
+T30	DISEASE 213 216	HTA
+T31	DISEASE 219 229	Dislipemia
+T32	DISEASE 231 239	Obesidad
+T33	DISEASE 268 287	Esteatosis hepática
+T34	DISEASE 289 320	Hiperplasia benigna de próstata
+T35	DISEASE 382 452	ictus isquémico agudo en territorio de arterial cerebral media derecha
+T36	DISEASE 627 652	hernia inguinal bilateral
+T37	DISEASE 673 682	hidrocele
+T38	DISEASE 712 738	estenosis aórtica moderada
+T39	DISEASE 767 780	valvulopatías
+T40	DISEASE 1838 1849	peritonitis
+T41	DISEASE 2802 2841	infarto de miocardio posterobasal en VI
+T42	DISEASE 2843 2866	Derrame pleural laminar
+T43	DISEASE 2927 2974	Lesiones corticales hipodensas en ambos riñones
+T44	DISEASE 3015 3031	infartos renales
+T45	DISEASE 3033 3095	Espondilosis dorsolumbar con estenosis del canal L3-L4 y L4-L5
+T46	DISEASE 3224 3265	estenosis grave en arteria ilíaca derecha
+T47	DISEASE 3268 3310	estenosis leve en arteria ilíaca izquierda
+T48	DISEASE 3312 3350	Ateromatosis fémoro-poplítea bilateral
+T49	DISEASE 3369 3429	hipertrofia ventricular izquierda (HVI) concéntrica moderada
+T50	DISEASE 3404 3407	HVI
+T51	DISEASE 3511 3538	Calcificación aórtica grave
+T52	DISEASE 3625 3646	insuficiencia aórtica
+T53	DISEASE 3655 3684	Calcificación valvular mitral
+T54	DISEASE 3802 3837	insuficiencia tricuspídea (IT) leve
+T55	DISEASE 3889 3918	enfermedad arterial coronaria
+T56	DISEASE 3963 4008	trombo en primera obtusa marginal (OM) distal
+T57	DISEASE 4269 4320	Trastorno segmentario de la contractilidad inferior
+T58	DISEASE 4322 4354	Valvulopatía aórtica calcificada
+T59	DISEASE 4356 4373	estenosis aórtica
+T60	DISEASE 4536 4562	infarto agudo de miocardio
+T61	DISEASE 4564 4567	IAM
+T62	DISEASE 4600 4635	isquemia aguda del miembro inferior
+T63	DISEASE 4863 4893	trombo distal en la primera OM
+T64	DISEASE 5000 5029	isquemia del miembro inferior
+T65	DISEASE 5132 5151	isquemia miocárdica
+T66	DISEASE 5244 5317	Síndrome coronario agudo con elevación del segmento ST (SCACEST) inferior
+T67	DISEASE 5300 5307	SCACEST
+T68	DISEASE 5328 5395	Enfermedad arterial periférica: isquemia aguda del miembro inferior
+T70	DISEASE 5407 5430	Infarto renal bilateral
+T71	DISEASE 2364 2366	FA
+T72	DISEASE 4678 4680	FA
+T73	DISEASE 5432 5434	FA
+T74	DISEASE 3829 3831	IT
+T75	DISEASE 1566 1593	ruidos cardiacos arrítmicos
+T25	DISEASE 3689 3709	insuficiencia mitral
+#1	AnnotatorNotes T50	  hipertrofia ventricular izquierda
+#2	AnnotatorNotes T74	  insuficiencia tricuspide

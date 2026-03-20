@@ -1,0 +1,13 @@
+T2	PROCEDURE 267 287	Physical examination
+T4	PROCEDURE 355 364	palpation
+T8	PROCEDURE 407 439	Cranial computed tomography (CT)
+T5	PROCEDURE 436 438	CT
+T6	PROCEDURE 472 475	MRI
+T1	PROCEDURE 709 723	hormonal study
+T11	PROCEDURE 789 806	underwent surgery
+T7	PROCEDURE 813 880	coronal incision was made, exposing the frontal bone and nasal root
+T9	PROCEDURE 927 1061	Multifragmentation and remodelling of the anterior wall of the sinus was performed, preserving the mucosa, using an ultrasonic scalpel
+T10	PROCEDURE 1063 1117	The bone defect was reconstructed with resorbable mesh
+T12	PROCEDURE 1168 1246	the parietal lesion was resected and remodelled, replacing the internal cortex
+T3	PROCEDURE 1376 1417	histological study of the parietal lesion
+T15	PROCEDURE 1612 1621	operation

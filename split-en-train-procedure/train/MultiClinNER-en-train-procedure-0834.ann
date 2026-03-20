@@ -1,0 +1,23 @@
+T48	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T40	PROCEDURE 534 560	magnetic resonance imaging
+T41	PROCEDURE 654 668	ischaemia test
+T42	PROCEDURE 757 780	cardiac catheterisation
+T5	PROCEDURE 994 1098	Percutaneous revascularisation was performed with two drug-eluting stents in the proximal and middle LAD
+T44	PROCEDURE 1318 1353	Pre-surgery cardiac catheterisation
+T45	PROCEDURE 1493 1517	intravascular ultrasound
+T46	PROCEDURE 1519 1523	IVUS
+T47	PROCEDURE 1833 1848	Cardiac surgery
+T16	PROCEDURE 1865 1889	aortic valve replacement
+T15	PROCEDURE 1937 1981	bypass of the left mammary artery to the LAD
+T49	PROCEDURE 2420 2440	PHYSICAL EXAMINATION
+T50	PROCEDURE 2664 2684	Cardiac auscultation
+T51	PROCEDURE 2722 2744	Pulmonary auscultation
+T52	PROCEDURE 2999 3016	ELECTROCARDIOGRAM
+T53	PROCEDURE 3018 3021	ECG
+T58	PROCEDURE 3123 3132	ANALYTICS
+T57	PROCEDURE 3164 3178	renal function
+T56	PROCEDURE 3302 3315	Transaminases
+T54	PROCEDURE 3396 3421	lipid-lowering treatments
+T55	PROCEDURE 3993 4017	lipid-lowering treatment
+T10	PROCEDURE 4242 4296	partially revascularised percutaneously and surgically
+T9	PROCEDURE 4389 4442	aortic valve replacement with a mechanical prosthesis

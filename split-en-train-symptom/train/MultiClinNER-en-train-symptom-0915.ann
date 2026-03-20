@@ -1,0 +1,42 @@
+T1	SYMPTOM 980 989	dry cough
+T14	SYMPTOM 1018 1024	sputum
+T19	SYMPTOM 1097 1145	baseline dyspnoea to the point of minimal effort
+T2	SYMPTOM 1183 1188	fever
+T3	SYMPTOM 1212 1218	chills
+T20	SYMPTOM 1384 1413	Cardiac auscultation rhythmic
+T4	SYMPTOM 1423 1430	murmurs
+T21	SYMPTOM 1460 1482	crackles in both bases
+T22	SYMPTOM 1501 1509	wheezing
+T23	SYMPTOM 1552 1564	organomegaly
+T5	SYMPTOM 1566 1599	hepatojugular reflux was negative
+T6	SYMPTOM 1643 1730	lower limbs were oedematous up to the middle third of the lower extremities, with fovea
+T24	SYMPTOM 1808 1838	increased cardiothoracic index
+T16	SYMPTOM 1846 1876	costophrenic sinus impingement
+T18	SYMPTOM 1878 1918	Pleural and probably pericardial plaques
+T28	SYMPTOM 1920 1951	Increased bronchoalveolar tract
+T29	SYMPTOM 2040 2063	coagulation alterations
+T30	SYMPTOM 2419 2450	immunoglobulins in normal range
+T7	SYMPTOM 2730 2758	Urine light chains: negative
+T8	SYMPTOM 2891 2903	sinus rhythm
+T9	SYMPTOM 2964 3003	intraventricular conduction disturbance
+T31	SYMPTOM 3054 3091	pseudoinfarction in the anterior face
+T25	SYMPTOM 3259 3285	Left ventricle not dilated
+T10	SYMPTOM 3316 3361	moderately depressed global systolic function
+T11	SYMPTOM 3363 3386	Generalised hypokinesia
+T26	SYMPTOM 3419 3442	Septal hyperrefringence
+T32	SYMPTOM 3444 3471	Restrictive filling pattern
+T12	SYMPTOM 3803 3830	preserved systolic function
+T27	SYMPTOM 3832 3856	Right atrium not dilated
+T33	SYMPTOM 4200 4237	circumferential pericardial fluid tab
+T34	SYMPTOM 4376 4388	LV wall mass
+T13	SYMPTOM 4738 4774	Global generalised hypocontractility
+T35	SYMPTOM 4902 4956	diffuse global subendocardial pathological enhancement
+T36	SYMPTOM 4981 5017	transmural enhancement in septobasal
+T37	SYMPTOM 5281 5333	increased uptake of the radiotracer at cardiac level
+T38	SYMPTOM 5435 5516	Genetic test: negative result for genetic variants related to cardiac amyloidosis
+T39	SYMPTOM 6328 6379	light chains in serum and urine, which was negative
+T40	SYMPTOM 6387 6463	scintigraphy with technetium-99-diphosphonate (Tc99-DPN) with intense uptake
+T41	SYMPTOM 6596 6668	genetic study was performed which did not detect any pathogenic variants
+T42	SYMPTOM 7223 7246	orthostatic hypotension
+T15	SYMPTOM 7480 7503	orthostatic hypotension
+T17	SYMPTOM 7838 7852	depressed LVEF

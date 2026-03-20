@@ -1,0 +1,20 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T54	PROCEDURE 239 253	anticoagulated
+T55	PROCEDURE 304 317	anticoagulant
+T56	PROCEDURE 581 601	coronary angiography
+T68	PROCEDURE 789 813	neurohormonal medication
+T53	PROCEDURE 1070 1090	Physical examination
+T57	PROCEDURE 1377 1397	Cardiac auscultation
+T58	PROCEDURE 1475 1497	Pulmonary auscultation
+T59	PROCEDURE 2039 2058	depletive treatment
+T60	PROCEDURE 2559 2576	Electrocardiogram
+T61	PROCEDURE 2578 2581	ECG
+T62	PROCEDURE 2713 2724	Chest X-ray
+T63	PROCEDURE 2892 2920	Transthoracic echocardiogram
+T65	PROCEDURE 3343 3373	Intravenous diuretic treatment
+T69	PROCEDURE 3574 3588	renal function
+T70	PROCEDURE 3796 3819	neurohormonal treatment
+T66	PROCEDURE 4034 4040	ARA-II
+T67	PROCEDURE 4631 4667	mineralcorticoid receptor antagonist
+T64	PROCEDURE 5541 5569	transthoracic echocardiogram
+T71	PROCEDURE 6165 6188	neurohormonal treatment

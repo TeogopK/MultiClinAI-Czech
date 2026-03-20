@@ -1,0 +1,84 @@
+T1	SYMPTOM 73 87	dolor torácico
+T2	SYMPTOM 577 591	dolor torácico
+T3	SYMPTOM 1180 1213	VI tamaño y contractilidad normal
+T4	SYMPTOM 1266 1272	fatiga
+T5	SYMPTOM 1275 1337	dolor torácico progresivamente invalidante a mínimos esfuerzos
+T6	SYMPTOM 1675 1701	disnea a mínimos esfuerzos
+T8	SYMPTOM 1817 1884	disconfort torácico de larga evolución relacionado con el ejercicio
+T9	SYMPTOM 2097 2111	dolor torácico
+T10	SYMPTOM 2141 2214	dolor centrotorácico opresivo irradiado a mandíbula y hemitórax izquierdo
+T11	SYMPTOM 2225 2231	disnea
+T12	SYMPTOM 2246 2269	pérdida de conocimiento
+T13	SYMPTOM 2298 2303	dolor
+T14	SYMPTOM 2383 2407	relajación de esfínteres
+T15	SYMPTOM 2412 2439	movimientos tónico-clónicos
+T16	SYMPTOM 2443 2465	confusión postsincopal
+T17	SYMPTOM 2503 2540	dolores torácicos diarios a esfuerzos
+T18	SYMPTOM 2620 2627	Afebril
+T20	SYMPTOM 2721 2724	BEG
+T21	SYMPTOM 2735 2743	Eupneica
+T22	SYMPTOM 2770 2776	soplos
+T23	SYMPTOM 2780 2790	extratonos
+T24	SYMPTOM 2795 2797	IY
+T25	SYMPTOM 2799 2835	Pulsos pedios palpables y simétricos
+T26	SYMPTOM 2837 2876	pulsos femorales palpables y simétricos
+T27	SYMPTOM 2882 2885	MVC
+T28	SYMPTOM 2890 2910	ruidos sobreañadidos
+T29	SYMPTOM 2912 2936	ABD: blando y depresible
+T30	SYMPTOM 2941 2949	megalias
+T31	SYMPTOM 2963 2984	irritación peritoneal
+T32	SYMPTOM 3002 3008	soplos
+T33	SYMPTOM 3010 3034	peristaltismo conservado
+T34	SYMPTOM 3079 3088	PR normal
+T35	SYMPTOM 3090 3102	QRS estrecho
+T36	SYMPTOM 3152 3194	ICT dentro de los límites de la normalidad
+T37	SYMPTOM 3887 3918	función sistólica global normal
+T38	SYMPTOM 3920 3957	Ventrículo izquierdo de tamaño normal
+T39	SYMPTOM 3959 3996	Función sistólica global de VI normal
+T40	SYMPTOM 4180 4215	Aurícula izquierda de tamaño normal
+T41	SYMPTOM 4217 4252	Ventrículo derecho de tamaño normal
+T42	SYMPTOM 4536 4552	dolor precordial
+T43	SYMPTOM 4557 4583	alteraciones angiográficas
+T45	SYMPTOM 4798 4818	ECG en reposo normal
+T46	SYMPTOM 4820 4852	capacidad funcional muy limitada
+T47	SYMPTOM 4904 4910	fatiga
+T48	SYMPTOM 4913 4927	dolor torácico
+T49	SYMPTOM 4982 5027	Taquicardización anómala con la bipedestación
+T50	SYMPTOM 6080 6082	RS
+T51	SYMPTOM 6456 6467	hipotensión
+T52	SYMPTOM 6499 6508	debilidad
+T53	SYMPTOM 6510 6518	malestar
+T54	SYMPTOM 6520 6527	nauseas
+T55	SYMPTOM 6529 6536	palidez
+T56	SYMPTOM 6538 6557	disconfort torácico
+T57	SYMPTOM 6559 6574	cianosis distal
+T58	SYMPTOM 6579 6586	astenia
+T59	SYMPTOM 90 97	síncope
+T74	SYMPTOM 2074 2081	síncope
+T157	SYMPTOM 4688 4701	ritmo sinusal
+T163	SYMPTOM 1417 1436	taquicardia sinusal
+T164	SYMPTOM 6144 6173	rachas de taquicardia sinusal
+T165	SYMPTOM 6417 6436	taquicardia sinusal
+T166	SYMPTOM 6669 6688	taquicardia sinusal
+T7	SYMPTOM 2670 2695	C y O en las tres esferas
+T19	SYMPTOM 3104 3114	T negativa
+T131	SYMPTOM 3222 3232	SCF libres
+T133	SYMPTOM 4011 4054	anormalidades de la contracción segmentaria
+T44	SYMPTOM 7003 7068	función ventricular, presiones de llenado y gasto cardiaco normal
+T168	SYMPTOM 5212 5224	ANA negativo
+T176	SYMPTOM 2726 2728	NC
+T177	SYMPTOM 2731 2733	NH
+T193	SYMPTOM 671 683	asintomática
+T196	SYMPTOM 2707 2719	colaboradora
+T197	SYMPTOM 4405 4472	Arteria circunfleja y coronaria derecha sin lesiones significativas
+T213	SYMPTOM 2697 2706	tranquila
+T135	SYMPTOM 835 851	TCI sin lesiones
+T136	SYMPTOM 2750 2753	RCR
+T137	SYMPTOM 3495 3527	Curva de biomarcadores: negativa
+T139	SYMPTOM 878 898	Cx y CD sin lesiones
+T140	SYMPTOM 3196 3220	Mediastino no ensanchado
+T141	SYMPTOM 4290 4341	stent en la descendente anterior proximal permeable
+T142	SYMPTOM 5783 5904	presiones pulmonares, gasto cardiaco, PCP, PVC, resistencias sistémicas y resistencias pulmonares dentro de la normalidad
+T143	SYMPTOM 5964 5990	PFR (junio 2014): normales
+T144	SYMPTOM 6345 6361	taquicardización
+T145	SYMPTOM 7070 7085	Stent permeable

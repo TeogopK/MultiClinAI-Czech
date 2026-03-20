@@ -1,0 +1,28 @@
+T1	SYMPTOM 187 192	fever
+T2	SYMPTOM 197 205	vomiting
+T4	SYMPTOM 218 233	general malaise
+T24	SYMPTOM 235 262	generalised aches and pains
+T25	SYMPTOM 264 284	dystrophic sensation
+T5	SYMPTOM 286 292	chills
+T6	SYMPTOM 294 302	sweating
+T3	SYMPTOM 307 315	vomiting
+T26	SYMPTOM 362 375	Normal colour
+T7	SYMPTOM 377 385	hydrated
+T8	SYMPTOM 390 398	perfused
+T9	SYMPTOM 399 406	Eupneic
+T10	SYMPTOM 413 443	Cardiac auscultation: rhythmic
+T11	SYMPTOM 449 464	systolic murmur
+T18	SYMPTOM 496 499	VCM
+T12	SYMPTOM 524 545	peritoneal irritation
+T13	SYMPTOM 585 587	RS
+T14	SYMPTOM 597 616	Chest X-ray: normal
+T22	SYMPTOM 977 991	abdomen normal
+T15	SYMPTOM 1044 1057	nodule in LID
+T16	SYMPTOM 1211 1258	Blood cultures: methicillin-sensitive S. aureus
+T17	SYMPTOM 1548 1564	febrile syndrome
+T27	SYMPTOM 1852 1921	blood cultures were taken and were positive for Staphylococcus aureus
+T23	SYMPTOM 1929 1951	isolation of S. aureus
+T19	SYMPTOM 2033 2039	murmur
+T20	SYMPTOM 2352 2360	afebrile
+T21	SYMPTOM 2362 2374	asymptomatic
+T28	SYMPTOM 2421 2450	sterile serial blood cultures

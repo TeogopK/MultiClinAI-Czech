@@ -1,0 +1,17 @@
+T1	PROCEDURE 217 223	biopsy
+T12	PROCEDURE 228 240	scintigraphy
+T2	PROCEDURE 551 591	serum levels of bone remodelling markers
+T15	PROCEDURE 722 731	bone scan
+T10	PROCEDURE 975 989	arm in a sling
+T3	PROCEDURE 1112 1132	Physical examination
+T6	PROCEDURE 1490 1496	X-rays
+T7	PROCEDURE 1635 1647	plain X-rays
+T8	PROCEDURE 1753 1759	X-rays
+T20	PROCEDURE 1810 1839	computerised axial tomography
+T11	PROCEDURE 1841 1844	CAT
+T4	PROCEDURE 1857 1883	nuclear magnetic resonance
+T13	PROCEDURE 1885 1888	NMR
+T22	PROCEDURE 1963 1970	CT scan
+T14	PROCEDURE 2024 2072	The limb was immobilised with a posterior splint
+T9	PROCEDURE 2126 2138	radiological
+T5	PROCEDURE 2621 2630	anamnesis

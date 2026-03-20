@@ -1,0 +1,13 @@
+T2	DISEASE 50 53	HTA
+T3	DISEASE 55 64	DM tipo 2
+T4	DISEASE 66 82	obesidad mórbida
+T14	DISEASE 464 485	depleción hidrosalina
+T20	DISEASE 954 1001	IRA prerrenal secundaria a depleción de volumen
+T21	DISEASE 981 1001	depleción de volumen
+T22	DISEASE 1003 1015	hiponatremia
+T23	DISEASE 1018 1031	hipopotasemia
+T26	DISEASE 1201 1227	insuficiencia respiratoria
+T27	DISEASE 1230 1279	shock séptico secundario a infección respiratoria
+T28	DISEASE 1257 1279	infección respiratoria
+T29	DISEASE 38 48	exfumadora
+T1	DISEASE 382 399	episodio sincopal

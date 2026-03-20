@@ -1,0 +1,6 @@
+T1	SYMPTOM 2533 2548	prurito cutáneo
+T2	SYMPTOM 478 498	sensación distérmica
+T3	SYMPTOM 500 506	fiebre
+T4	SYMPTOM 544 551	prurito
+T5	SYMPTOM 1224 1272	pruebas cutáneas realizadas resultaron negativas
+A1	RESULTADO T5

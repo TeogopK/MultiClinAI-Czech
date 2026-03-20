@@ -1,0 +1,35 @@
+T46	DISEASE 310 324	drug allergies
+T32	DISEASE 379 386	smoking
+T33	DISEASE 397 422	type II diabetes mellitus
+T35	DISEASE 456 470	hyperuricaemia
+T1	DISEASE 729 747	bitten by an insec
+T2	DISEASE 886 956	pruritic rash, initially on his arms, which quickly became generalised
+T3	DISEASE 1303 1324	anaphylactic symptoms
+T4	DISEASE 1872 1889	rash on the trunk
+T36	DISEASE 2265 2285	deep vein thrombosis
+T37	DISEASE 2752 2782	Calcified aortic atheromatosis
+T38	DISEASE 3046 3066	pericardial effusion
+T5	DISEASE 3109 3166	Fine mitral valve, slight posterior annular calcification
+T40	DISEASE 3602 3624	pulmonary hypertension
+T39	DISEASE 3629 3649	pericardial effusion
+T6	DISEASE 3710 3884	Ischaemic heart disease with severe stenosis of obtuse marginal ostioproximal large-calibre ostial artery (artery responsible for infarction) due to severely calcified plaque
+T7	DISEASE 3889 3950	severe stenosis of proximal-medial anterior descending artery
+T9	DISEASE 3990 4014	severe stenosis of CX-MO
+T11	DISEASE 4352 4407	calcified plaque in proximal-middle anterior descending
+T16	DISEASE 5097 5104	Allergy
+T51	DISEASE 5271 5274	IAM
+T47	DISEASE 5592 5611	myocardial necrosis
+T49	DISEASE 5960 5982	anaphylactoid reaction
+T18	DISEASE 6021 6072	severe stenosis in an ostioproximal marginal branch
+T19	DISEASE 6123 6147	severe lesion in the LAD
+T20	DISEASE 6182 6194	Cx-MO lesion
+T41	DISEASE 6522 6545	Kounis syndrome type II
+T48	DISEASE 6711 6730	myocardial necrosis
+T22	DISEASE 6920 6944	severe lesion of the LAD
+T25	DISEASE 7520 7591	Non-Q Killip I allergic infarction in the context of anaphylactic shock
+T43	DISEASE 7573 7591	anaphylactic shock
+T42	DISEASE 7593 7616	Kounis syndrome type II
+T26	DISEASE 7618 7703	Coronary artery disease of 2 main vessels (anterior descending [AD], circumflex [Cx])
+T44	DISEASE 7766 7784	Anaphylactic shock
+T50	DISEASE 7819 7846	Sensitisation to wasp venom
+T34	DISEASE 7848 7873	Type II diabetes mellitus

@@ -1,0 +1,9 @@
+T1	SYMPTOM 1037 1052	anulación renal
+T2	SYMPTOM 2087 2117	escasa funcionalidad del riñón
+T3	SYMPTOM 569 607	anulación funcional de la unidad renal
+T4	SYMPTOM 2352 2364	asintomático
+T5	SYMPTOM 770 806	escasa captación isotópica del riñón
+T6	SYMPTOM 200 235	retraso de la eliminación en la UIV
+A1	RESULTADO T3
+A2	RESULTADO T5
+A3	RESULTADO T6

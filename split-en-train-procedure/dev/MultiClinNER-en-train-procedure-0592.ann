@@ -1,0 +1,23 @@
+T15	PROCEDURE 308 319	antibiotics
+T20	PROCEDURE 324 347	anti-inflammatory drugs
+T13	PROCEDURE 429 449	clinical examination
+T1	PROCEDURE 467 485	orthopantomography
+T14	PROCEDURE 714 735	extraction manoeuvres
+T2	PROCEDURE 920 938	orthopantomography
+T25	PROCEDURE 992 999	CT scan
+T26	PROCEDURE 1089 1091	CT
+T3	PROCEDURE 1322 1333	coronectomy
+T9	PROCEDURE 1337 1386	partial extraction of the symptomatic third molar
+T10	PROCEDURE 1726 1736	extraction
+T11	PROCEDURE 2015 2025	extraction
+T4	PROCEDURE 2132 2143	coronectomy
+T5	PROCEDURE 2202 2224	antibiotic prophylaxis
+T7	PROCEDURE 2226 2242	Bayonet incision
+T8	PROCEDURE 2247 2279	lifting of a full-thickness flap
+T12	PROCEDURE 2308 2345	complete extraction of a wisdom tooth
+T17	PROCEDURE 2347 2410	Cutting of the crown with a fissure drill from the buccal table
+T18	PROCEDURE 2660 2691	further tooth tissue is removed
+T19	PROCEDURE 3029 3068	the remains of the follicle are removed
+T6	PROCEDURE 3124 3164	the wound is sutured with loose stitches
+T29	PROCEDURE 3203 3225	Radiological check-ups
+T16	PROCEDURE 3408 3420	intervention

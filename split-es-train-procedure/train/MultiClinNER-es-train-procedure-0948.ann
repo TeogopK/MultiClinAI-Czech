@@ -1,0 +1,43 @@
+T86	PROCEDURE 34 52	exploración física
+T87	PROCEDURE 704 728	maniobras de reanimación
+T88	PROCEDURE 899 917	soporte vasoactivo
+T89	PROCEDURE 920 942	intubación orotraqueal
+T90	PROCEDURE 963 987	maniobras de reanimación
+T91	PROCEDURE 1004 1007	ECG
+T92	PROCEDURE 1160 1172	fibrinólisis
+T93	PROCEDURE 1369 1384	ACTP de rescate
+T94	PROCEDURE 1387 1400	Examen físico
+T95	PROCEDURE 1430 1450	ventilación mecánica
+T96	PROCEDURE 1481 1499	drogas vasoactivas
+T97	PROCEDURE 1599 1620	Auscultación cardiaca
+T98	PROCEDURE 2477 2495	Electrocardiograma
+T99	PROCEDURE 2582 2594	fibrinólisis
+T100	PROCEDURE 2596 2616	Radiografía de tórax
+T101	PROCEDURE 2728 2756	Ecocardiograma transtorácico
+T102	PROCEDURE 2758 2776	soporte vasoactivo
+T103	PROCEDURE 2779 2799	ventilación mecánica
+T104	PROCEDURE 3031 3046	coronariografía
+T105	PROCEDURE 3047 3116	se implanta marcapaso endovenoso transitorio por vena femoral derecha
+T106	PROCEDURE 3178 3193	coronariografía
+T107	PROCEDURE 3480 3504	angioplastia a CD distal
+T108	PROCEDURE 3507 3574	se implanta stent directo recubierto en CD proximal hasta el ostium
+T109	PROCEDURE 3636 3667	vasodilatadores intracoronarios
+T110	PROCEDURE 3672 3675	ECG
+T111	PROCEDURE 3681 3685	ACTP
+T112	PROCEDURE 4516 4551	soporte hemodinámico y ventilatorio
+T113	PROCEDURE 4585 4620	soporte hemodinámico y ventilatorio
+T114	PROCEDURE 4753 4779	hemodiafiltración continua
+T115	PROCEDURE 4880 4883	ECG
+T116	PROCEDURE 5834 5872	Hemodiafiltración veno-venosa continua
+T119	PROCEDURE 5775 5805	ACTP de rescate en CD proximal
+T120	PROCEDURE 5731 5743	Fibrinólisis
+T121	PROCEDURE 2412 2422	Gasometría
+T122	PROCEDURE 2188 2193	Iones
+T123	PROCEDURE 2245 2276	Marcadores de lesión miocárdica
+T124	PROCEDURE 4387 4397	hipotermia
+T125	PROCEDURE 4449 4463	atropinización
+T126	PROCEDURE 5578 5613	Reanimación cardiopulmonar avanzada
+T143	PROCEDURE 1937 1946	Analítica
+T145	PROCEDURE 1552 1567	Cabeza y cuello
+T155	PROCEDURE 1548 1550	VM
+T132	PROCEDURE 3119 3173	balón de contrapulsación por arteria femoral izquierda

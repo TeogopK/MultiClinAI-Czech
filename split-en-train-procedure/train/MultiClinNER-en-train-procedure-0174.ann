@@ -1,0 +1,12 @@
+T11	PROCEDURE 470 481	Examination
+T2	PROCEDURE 842 870	Cardiopulmonary auscultation
+T4	PROCEDURE 872 891	abdominal palpation
+T6	PROCEDURE 896 920	neurological examination
+T16	PROCEDURE 934 950	Laboratory tests
+T9	PROCEDURE 1123 1139	Thyroid hormones
+T10	PROCEDURE 1166 1179	Imaging tests
+T5	PROCEDURE 1210 1221	chest X-ray
+T7	PROCEDURE 1289 1307	thyroid ultrasound
+T22	PROCEDURE 1404 1420	cervical CT scan
+T1	PROCEDURE 1760 1766	Biopsy
+T3	PROCEDURE 1868 1895	anterior cervical lipectomy

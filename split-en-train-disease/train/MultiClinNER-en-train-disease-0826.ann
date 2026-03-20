@@ -1,0 +1,46 @@
+T40	DISEASE 110 122	toxic habits
+T1	DISEASE 214 226	hypertension
+T2	DISEASE 228 230	HT
+T42	DISEASE 256 269	dyslipidaemia
+T3	DISEASE 271 274	LDL
+T59	DISEASE 326 343	diabetes mellitus
+T60	DISEASE 345 347	DM
+T4	DISEASE 350 373	Prostate adenocarcinoma
+T61	DISEASE 523 557	infiltrating acinar adenocarcinoma
+T62	DISEASE 607 624	Chronic gastritis
+T63	DISEASE 626 653	Anxious-depressive syndrome
+T5	DISEASE 1131 1175	calcification in the three coronary arteries
+T7	DISEASE 1240 1263	prostate adenocarcinoma
+T10	DISEASE 2627 2667	left superoanterior hemiblock morphology
+T87	DISEASE 2669 2673	HSAI
+T64	DISEASE 2847 2863	pleural effusion
+T12	DISEASE 2948 3001	calcified coronary atheromatosis of the three vessels
+T65	DISEASE 3006 3037	mild aortic valve calcification
+T13	DISEASE 3071 3141	left ventricle of normal diameters, with slight concentric hypertrophy
+T66	DISEASE 3334 3355	diastolic dysfunction
+T14	DISEASE 3387 3415	Left atrium slightly dilated
+T67	DISEASE 3515 3571	Normal appearing mitral valve with minimal insufficiency
+T68	DISEASE 3584 3607	tricuspid insufficiency
+T69	DISEASE 3657 3688	mild hypertensive heart disease
+T70	DISEASE 4216 4227	arrhythmias
+T71	DISEASE 4388 4437	Anterior descending artery (ADA): severe stenosis
+T88	DISEASE 4521 4594	First diagonal of good calibre with early bifurcation and severe stenosis
+T52	DISEASE 5201 5203	dl
+T86	DISEASE 5423 5434	cholestasis
+T72	DISEASE 5830 5846	silent ischaemia
+T74	DISEASE 6039 6061	cardiovascular disease
+T75	DISEASE 6085 6107	coronary calcification
+T77	DISEASE 6515 6535	myocardial ischaemia
+T76	DISEASE 6849 6871	coronary calcification
+T80	DISEASE 6880 6889	ischaemia
+T21	DISEASE 7031 7054	prostate adenocarcinoma
+T22	DISEASE 7188 7267	severe stenosis in the proximal and middle LAD and in the first diagonal branch
+T82	DISEASE 7631 7650	prostatic pathology
+T83	DISEASE 7689 7705	stent thrombosis
+T25	DISEASE 8336 8359	coronary artery disease
+T73	DISEASE 8377 8393	silent ischaemia
+T84	DISEASE 8395 8416	Single vessel disease
+T85	DISEASE 8418 8486	severe stenosis in proximal and middle LAD and first diagonal branch
+T43	DISEASE 8653 8666	Dyslipidaemia
+T41	DISEASE 8668 8689	Arterial hypertension
+T27	DISEASE 8691 8714	Prostate adenocarcinoma

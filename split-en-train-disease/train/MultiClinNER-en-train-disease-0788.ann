@@ -1,0 +1,90 @@
+T44	DISEASE 88 94	Smoker
+T122	DISEASE 186 193	drinker
+T123	DISEASE 240 247	drinker
+T45	DISEASE 249 268	Former cocaine user
+T46	DISEASE 293 314	Arterial hypertension
+T47	DISEASE 302 314	hypertension
+T49	DISEASE 369 376	Obesity
+T50	DISEASE 413 423	overweight
+T51	DISEASE 481 510	early ischaemic heart disease
+T52	DISEASE 543 562	cutaneous psoriasis
+T57	DISEASE 553 562	psoriasis
+T53	DISEASE 588 599	arthropathy
+T54	DISEASE 616 628	erythroderma
+T58	DISEASE 687 696	psoriasis
+T63	DISEASE 1050 1065	angina pectoris
+T64	DISEASE 1189 1201	skin lesions
+T59	DISEASE 1213 1222	psoriasis
+T55	DISEASE 1723 1735	erythroderma
+T60	DISEASE 1794 1803	psoriasis
+T38	DISEASE 1841 1880	Stretch marks on abdomen, arms and legs
+T65	DISEASE 2301 2349	chronic venous insufficiency with varicose veins
+T61	DISEASE 2359 2368	psoriasis
+T39	DISEASE 2499 2511	cardiomegaly
+T66	DISEASE 2626 2649	uncommon atrial flutter
+T97	DISEASE 2642 2649	flutter
+T68	DISEASE 2792 2828	old anterior and inferior infarction
+T40	DISEASE 3863 3915	left ventricle of normal thickness, slightly dilated
+T124	DISEASE 4149 4179	Moderately dilated left atrium
+T41	DISEASE 4236 4339	Mitral valve with slightly thickened leaflets, with central regurgitation jet of moderate insufficiency
+T94	DISEASE 4408 4431	tricuspid insufficiency
+T69	DISEASE 4481 4506	intraventricular thrombus
+T70	DISEASE 5469 5493	medium vessel vasculitis
+T71	DISEASE 5483 5493	vasculitis
+T72	DISEASE 5615 5625	vasculitis
+T82	DISEASE 5762 5796	medium and small vessel vasculitis
+T73	DISEASE 5786 5796	vasculitis
+T83	DISEASE 5993 6019	malignant tumour pathology
+T109	DISEASE 6438 6452	cecal volvulus
+T110	DISEASE 6518 6532	cecal volvulus
+T74	DISEASE 6793 6803	vasculitis
+T84	DISEASE 6793 6869	vasculitis of the celiac trunk and superior and inferior mesenteric arteries
+T85	DISEASE 6964 7013	probably significant stenosis of femoral arteries
+T86	DISEASE 7147 7164	ischaemic colitis
+T75	DISEASE 7408 7418	vasculitis
+T88	DISEASE 7562 7584	mononeuritis multiplex
+T90	DISEASE 7876 7903	Severe systolic dysfunction
+T91	DISEASE 7960 7975	apical thrombus
+T125	DISEASE 8081 8110	Severe left atrial dilatation
+T126	DISEASE 8112 8140	Mild right atrial dilatation
+T92	DISEASE 8196 8234	Severe functional mitral regurgitation
+T93	DISEASE 8397 8417	aortic insufficiency
+T95	DISEASE 8424 8447	tricuspid insufficiency
+T96	DISEASE 8449 8479	Pulmonary hypertension at rest
+T48	DISEASE 8459 8471	hypertension
+T98	DISEASE 8673 8680	flutter
+T100	DISEASE 9018 9034	coronary lesions
+T101	DISEASE 9510 9526	arrhythmic storm
+T103	DISEASE 9550 9583	sustained ventricular tachycardia
+T127	DISEASE 9845 9862	arrhythmic events
+T104	DISEASE 9914 9927	heart failure
+T108	DISEASE 9976 9991	paralytic ileus
+T111	DISEASE 10022 10036	cecal volvulus
+T56	DISEASE 10320 10332	erythroderma
+T62	DISEASE 10350 10359	psoriasis
+T76	DISEASE 10576 10586	vasculitis
+T77	DISEASE 11156 11166	vasculitis
+T78	DISEASE 11390 11400	vasculitis
+T42	DISEASE 11409 11429	polyarteritis nodosa
+T112	DISEASE 11884 11893	ischaemia
+T113	DISEASE 11901 11912	haemorrhage
+T79	DISEASE 11967 11977	vasculitis
+T89	DISEASE 12022 12044	mononeuritis multiplex
+T43	DISEASE 12418 12438	polyarteritis nodosa
+T114	DISEASE 12507 12518	cocaine use
+T115	DISEASE 12521 12542	early atherosclerosis
+T105	DISEASE 12739 12752	heart failure
+T116	DISEASE 12794 12816	advanced heart failure
+T106	DISEASE 12803 12816	heart failure
+T80	DISEASE 12843 12853	vasculitis
+T117	DISEASE 12913 12986	Ischaemic dilated cardiomyopathy with severe left ventricular dysfunction
+T107	DISEASE 12988 13001	Heart failure
+T118	DISEASE 13005 13027	acute pulmonary oedema
+T119	DISEASE 13066 13123	Non-revascularisable three-vessel coronary artery disease
+T120	DISEASE 13125 13149	diffuse arterial disease
+T81	DISEASE 13166 13176	vasculitis
+T102	DISEASE 13179 13195	Arrhythmic storm
+T67	DISEASE 13239 13262	Uncommon atrial flutter
+T121	DISEASE 13239 13294	Uncommon atrial flutter with rapid ventricular response
+T99	DISEASE 13255 13262	flutter
+T87	DISEASE 13343 13360	Ischaemic colitis

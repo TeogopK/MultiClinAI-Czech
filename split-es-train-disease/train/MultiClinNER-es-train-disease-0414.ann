@@ -1,0 +1,9 @@
+T1	DISEASE 35 38	LES
+T2	DISEASE 41 65	síndrome antifosfolípido
+T12	DISEASE 442 453	adenopatías
+T20	DISEASE 961 964	LES
+T22	DISEASE 416 436	hepatoesplenomegalia
+T23	DISEASE 657 677	hepatoesplenomegalia
+T26	DISEASE 682 690	lesiones
+#1	AnnotatorNotes T1	   LES: lupus eritematoso sistémico
+#2	AnnotatorNotes T20	   LES: lupus eritematoso sistémico

@@ -1,0 +1,20 @@
+T1	SYMPTOM 2016 2060	alteración de la estática de pies antiálgica
+T2	SYMPTOM 2094 2099	dolor
+T3	SYMPTOM 350 374	dolor en pies y tobillos
+T4	SYMPTOM 479 503	claudicación a la marcha
+T5	SYMPTOM 509 557	modificación de la estática de pies por el dolor
+T6	SYMPTOM 587 617	inflamación de tobillos y pies
+T7	SYMPTOM 602 659	tobillos y pies, con dolor a la presión y fóvea bilateral
+T8	SYMPTOM 727 779	inflamación muy marcada de tejido celular subcutáneo
+T9	SYMPTOM 1118 1148	dolor intenso con claudicación
+T10	SYMPTOM 1256 1271	edema en 2o MTT
+T11	SYMPTOM 1332 1353	edema en 3er y 4o MTT
+T12	SYMPTOM 273 313	índice de masa corporal (IMC) era normal
+T13	SYMPTOM 914 926	edema de TCS
+T14	SYMPTOM 1673 1764	función renal, calcio sérico y urinario, calcio iónico, magnesio y PTH, que fueron normales
+T15	SYMPTOM 844 891	Rx de pies, que no mostró hallazgos patológicos
+A1	IMAGEN T8
+A2	IMAGEN T10
+A3	IMAGEN T11
+A4	RESULTADO T14
+A5	IMAGEN T15

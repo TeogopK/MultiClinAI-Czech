@@ -1,0 +1,39 @@
+T1	SYMPTOM 113 119	disnea
+T2	SYMPTOM 200 208	ortopnea
+T3	SYMPTOM 211 239	edema en miembros inferiores
+T4	SYMPTOM 257 270	palpitaciones
+T5	SYMPTOM 529 531	IY
+T6	SYMPTOM 552 558	soplos
+T7	SYMPTOM 560 563	MVC
+T8	SYMPTOM 568 599	crepitantes hasta campos medios
+T9	SYMPTOM 601 631	MMII: edema hasta tercio medio
+T10	SYMPTOM 708 714	soplos
+T11	SYMPTOM 716 719	MVC
+T12	SYMPTOM 724 743	crepitantes en base
+T13	SYMPTOM 753 768	MMII: no edemas
+T15	SYMPTOM 2652 2665	ICT aumentado
+T16	SYMPTOM 2667 2690	redistribución vascular
+T19	SYMPTOM 2847 2856	VD normal
+T20	SYMPTOM 3054 3099	Ventrículo izquierdo no dilatado, hipertrofia
+T21	SYMPTOM 3112 3158	función sistólica global ligeramente deprimida
+T22	SYMPTOM 3176 3194	hipocinesia global
+T25	SYMPTOM 3553 3585	colapso inspiratorio fisiológico
+T27	SYMPTOM 3680 3692	QRS estrecho
+T29	SYMPTOM 3781 3793	QRS estrecho
+T30	SYMPTOM 3798 3831	alteraciones en la repolarización
+T31	SYMPTOM 3834 3862	PCR COVID 03/08/21: negativa
+T32	SYMPTOM 4342 4353	hipotensión
+T35	SYMPTOM 4523 4549	FEVI ligeramente deprimida
+T36	SYMPTOM 4855 4861	edemas
+T37	SYMPTOM 4863 4886	ganancia rápida de peso
+T38	SYMPTOM 4889 4895	disnea
+T39	SYMPTOM 5063 5076	dolor intenso
+T17	SYMPTOM 3697 3730	alteraciones de la repolarización
+T110	SYMPTOM 524 527	BEG
+T114	SYMPTOM 5990 6003	DOLOR INTENSO
+T143	SYMPTOM 3516 3546	Vena cava inferior no dilatada
+T144	SYMPTOM 2729 2744	consolidaciones
+T148	SYMPTOM 3668 3678	eje normal
+T149	SYMPTOM 3769 3779	eje normal
+T23	SYMPTOM 2807 2845	VI no dilatado leve-mod disfuncionante
+T28	SYMPTOM 3197 3252	movimiento del septo relacionado con sobrecarga derecha

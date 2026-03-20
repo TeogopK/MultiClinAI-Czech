@@ -1,0 +1,63 @@
+T31	DISEASE 104 126	insuficiencia cardiaca
+T32	DISEASE 146 169	alergias medicamentosas
+T33	DISEASE 220 235	hábitos tóxicos
+T34	DISEASE 237 258	Hipertensión arterial
+T35	DISEASE 260 263	HTA
+T36	DISEASE 267 277	dislipemia
+T38	DISEASE 359 380	cardiopatía isquémica
+T39	DISEASE 605 619	hipotiroidismo
+T40	DISEASE 648 669	Gammapatía monoclonal
+T41	DISEASE 741 757	mieloma múltiple
+T42	DISEASE 759 782	Diverticulosis colónica
+T43	DISEASE 815 850	pólipos con displasia de bajo grado
+T44	DISEASE 893 908	úlcera duodenal
+T45	DISEASE 935 948	endometriosis
+T46	DISEASE 1430 1437	síncope
+T47	DISEASE 1483 1507	hematomas periorbitarios
+T48	DISEASE 1906 1927	reflujo hepatoyugular
+T49	DISEASE 2172 2203	Púrpura periorbitaria bilateral
+T50	DISEASE 2302 2321	BAV de primer grado
+T51	DISEASE 4164 4179	derrame pleural
+T52	DISEASE 4260 4313	ventrículo izquierdo con hipertrofia asimétrica grave
+T53	DISEASE 4473 4500	miocardiopatía por depósito
+T54	DISEASE 4682 4702	Insuficiencia mitral
+T55	DISEASE 4713 4747	Insuficiencia tricuspídea moderada
+T56	DISEASE 5872 5913	amiloidosis por depósito de transtiretina
+T57	DISEASE 6499 6520	púrpura periorbitaria
+T58	DISEASE 6695 6717	insuficiencia cardiaca
+T59	DISEASE 6731 6762	congestión sistémica y pulmonar
+T60	DISEASE 7675 7695	enfermedad coronaria
+T61	DISEASE 7811 7825	amiloidosis AL
+T62	DISEASE 8079 8189	accidente cerebrovascular isquémico de hemisférico izquierdo en territorio de arteria cerebral media izquierda
+T63	DISEASE 8224 8254	trombo a nivel de M1 izquierda
+T64	DISEASE 8294 8327	fibrilación auricular paroxística
+T65	DISEASE 8396 8421	hemorragia digestiva baja
+T66	DISEASE 8499 8510	hemorroides
+T67	DISEASE 8542 8572	neuropatía del enfermo crítico
+T68	DISEASE 8767 8800	Insuficiencia cardiaca congestiva
+T69	DISEASE 8872 8910	Amiloidosis AL con afectación cardiaca
+T70	DISEASE 8912 8959	Accidente cerebrovascular hemisférico izquierdo
+T71	DISEASE 8995 9028	Fibrilación auricular paroxística
+T72	DISEASE 9030 9064	Polineuropatía del enfermo crítico
+T73	DISEASE 9167 9187	Insuficiencia mitral
+T74	DISEASE 9198 9233	Enfermedad renal crónica estadio 3a
+T75	DISEASE 4600 4627	Dilatación biauricular leve
+T76	DISEASE 4761 4764	HTP
+T77	DISEASE 4067 4080	cardiomegalia
+T78	DISEASE 8839 8870	congestión pulmonar y sistémica
+T79	DISEASE 7532 7573	descompensación de insuficiencia cardiaca
+T80	DISEASE 5424 5446	dilatación biauricular
+T81	DISEASE 1633 1668	hematoma alrededor de ambas órbitas
+T82	DISEASE 2082 2095	hepatomegalia
+T83	DISEASE 7196 7207	hipotensión
+T84	DISEASE 4797 4824	Vena cava inferior dilatada
+T85	DISEASE 5741 5771	derrames pleurales bilaterales
+T11	DISEASE 4502 4523	Disfunción diastólica
+T17	DISEASE 4534 4565	Ventrículo derecho hipertrófico
+T26	DISEASE 9120 9165	Disfunción diastólica tipo patrón restrictivo
+T194	DISEASE 339 352	muerte súbita
+T203	DISEASE 7239 7265	trastorno de la conducción
+T146	DISEASE 2394 2398	HBAI
+T154	DISEASE 6378 6389	amiloide AL
+T157	DISEASE 7774 7785	amiloide AL
+#1	AnnotatorNotes T76	 HTP hipertensión pulmonar

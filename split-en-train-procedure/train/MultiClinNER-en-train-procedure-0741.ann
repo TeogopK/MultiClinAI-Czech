@@ -1,0 +1,25 @@
+T7	PROCEDURE 210 242	radical retropubic prostatectomy
+T19	PROCEDURE 255 264	pathology
+T20	PROCEDURE 349 399	dissection of the posterior aspect of the prostate
+T8	PROCEDURE 400 449	2 cm opening in the anterior aspect of the rectum
+T9	PROCEDURE 451 504	Direct closure of the rectal wall with loose stitches
+T10	PROCEDURE 687 707	physical examination
+T22	PROCEDURE 712 729	abdominal CT scan
+T12	PROCEDURE 790 800	laparotomy
+T25	PROCEDURE 929 957	A new vesico-urethral suture
+T11	PROCEDURE 959 1007	resection of the perforated segment of the sigma
+T13	PROCEDURE 1012 1031	discharge colostomy
+T16	PROCEDURE 1064 1071	surgery
+T4	PROCEDURE 1143 1162	respiratory support
+T14	PROCEDURE 1271 1279	drainage
+T15	PROCEDURE 1323 1365	respiratory and haemodynamic stabilisation
+T1	PROCEDURE 1632 1643	cystography
+T6	PROCEDURE 1828 1851	bladder catheterisation
+T18	PROCEDURE 2003 2040	closure of the urethro-rectal fistula
+T21	PROCEDURE 2045 2081	transanal mucosal advancement plasty
+T17	PROCEDURE 2113 2120	surgery
+T2	PROCEDURE 2122 2133	cystography
+T39	PROCEDURE 2219 2247	bladder catheter was removed
+T3	PROCEDURE 2264 2281	colostomy closure
+T40	PROCEDURE 2286 2331	eventroplasty of the abdominal wall with mesh
+T5	PROCEDURE 2505 2533	phosphodiesterase inhibitors

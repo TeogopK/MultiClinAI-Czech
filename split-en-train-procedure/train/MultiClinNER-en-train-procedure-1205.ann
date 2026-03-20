@@ -1,0 +1,52 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T58	PROCEDURE 588 591	ECG
+T1	PROCEDURE 784 803	amiodarone infusion
+T2	PROCEDURE 915 926	CVE at 100J
+T3	PROCEDURE 962 967	shock
+T56	PROCEDURE 1076 1096	physical examination
+T59	PROCEDURE 1212 1215	ECG
+T60	PROCEDURE 1323 1326	ECG
+T4	PROCEDURE 1549 1552	CBC
+T5	PROCEDURE 1567 1579	arterial ABE
+T76	PROCEDURE 1725 1737	Biochemistry
+T62	PROCEDURE 2265 2276	Coagulation
+T77	PROCEDURE 2386 2398	Enzyme curve
+T78	PROCEDURE 2466 2476	lipidogram
+T79	PROCEDURE 2546 2561	Iron metabolism
+T63	PROCEDURE 2616 2635	Immunological study
+T64	PROCEDURE 2690 2706	thyroid hormones
+T65	PROCEDURE 2807 2817	serologies
+T66	PROCEDURE 2881 2909	Transthoracic echocardiogram
+T67	PROCEDURE 3172 3189	Coronary angio-CT
+T6	PROCEDURE 3236 3239	CMR
+T7	PROCEDURE 3365 3391	Stir potentiated sequences
+T8	PROCEDURE 3458 3485	early enhancement sequences
+T9	PROCEDURE 3579 3605	late enhancement sequences
+T69	PROCEDURE 3822 3848	Electrophysiological study
+T10	PROCEDURE 3897 3924	Substrate ablation with RDF
+T11	PROCEDURE 3926 3942	ICD implantation
+T12	PROCEDURE 4088 4121	sedation with propofol and ultiva
+T13	PROCEDURE 4135 4157	Navex-precision system
+T14	PROCEDURE 4163 4215	left ventricle was mapped with the ablation catheter
+T15	PROCEDURE 4339 4350	pacemapping
+T16	PROCEDURE 4397 4421	Induction of clinical VT
+T17	PROCEDURE 4471 4512	iv. isoproterenol, clinical VT is induced
+T18	PROCEDURE 4517 4575	RDF is applied to the lateral aspect of the mitral annulus
+T19	PROCEDURE 4738 4752	electric shock
+T20	PROCEDURE 4805 4907	substrate ablation by administering a corona of lesions around the previous area in the mitral annulus
+T72	PROCEDURE 5113 5122	telemetry
+T21	PROCEDURE 5154 5167	beta-blockers
+T22	PROCEDURE 5523 5545	coronary angio-CT scan
+T23	PROCEDURE 5693 5719	cardiac magnetic resonance
+T24	PROCEDURE 5721 5724	CMR
+T25	PROCEDURE 6831 6854	ablate the VT substrate
+T70	PROCEDURE 6863 6889	electrophysiological study
+T26	PROCEDURE 6898 6912	radiofrequency
+T27	PROCEDURE 7010 7024	electric shock
+T28	PROCEDURE 7077 7175	substrate ablation by administering a lesion corona around the previous area in the mitral annulus
+T73	PROCEDURE 7282 7313	implantation of a bicameral ICD
+T29	PROCEDURE 7356 7373	ICD was implanted
+T30	PROCEDURE 7492 7505	beta-blockers
+T74	PROCEDURE 7569 7586	electrophysiology
+T75	PROCEDURE 7630 7647	remote monitoring
+T31	PROCEDURE 7719 7732	ICD discharge

@@ -1,0 +1,35 @@
+T82	PROCEDURE 221 241	physical examination
+T2	PROCEDURE 395 435	Hypothyroidism in substitutive treatment
+T109	PROCEDURE 490 512	Surgical interventions
+T108	PROCEDURE 514 531	Caesarean section
+T83	PROCEDURE 1945 1965	Physical examination
+T103	PROCEDURE 1967 1978	Vital signs
+T101	PROCEDURE 2166 2168	AC
+T102	PROCEDURE 2244 2246	AP
+T104	PROCEDURE 2799 2810	Haematology
+T105	PROCEDURE 3175 3186	Haemostasis
+T84	PROCEDURE 3320 3323	ECG
+T88	PROCEDURE 3516 3527	Chest X-ray
+T89	PROCEDURE 3573 3587	Echocardiogram
+T97	PROCEDURE 3831 3842	Coronary CT
+T91	PROCEDURE 4358 4378	Coronary angiography
+T6	PROCEDURE 4466 4501	placing a direct chromocobalt stent
+T7	PROCEDURE 4580 4600	Ordinary blood tests
+T107	PROCEDURE 4770 4786	thyroid hormones
+T93	PROCEDURE 5040 5058	cardiac monitoring
+T85	PROCEDURE 5366 5369	ECG
+T86	PROCEDURE 5717 5720	ECG
+T95	PROCEDURE 5856 5866	monitoring
+T96	PROCEDURE 5955 5965	monitoring
+T87	PROCEDURE 6032 6035	ECG
+T10	PROCEDURE 6228 6274	melatoninergic agonist (MT1 and MT2 receptors)
+T11	PROCEDURE 6279 6317	a serotonin 5-HT2C receptor antagonist
+T90	PROCEDURE 6461 6475	echocardiogram
+T12	PROCEDURE 6597 6629	CT scan of the coronary arteries
+T92	PROCEDURE 6735 6755	coronary angiography
+T98	PROCEDURE 6825 6843	stent implantation
+T14	PROCEDURE 6975 6986	blood tests
+T15	PROCEDURE 7041 7068	double antiplatelet therapy
+T99	PROCEDURE 7089 7135	hormone replacement therapy for hypothyroidism
+T106	PROCEDURE 7202 7215	beta-blockers
+T100	PROCEDURE 7295 7301	holter

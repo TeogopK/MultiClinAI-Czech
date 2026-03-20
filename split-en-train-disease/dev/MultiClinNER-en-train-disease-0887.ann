@@ -1,0 +1,42 @@
+T16	DISEASE 59 85	mitro-aortic valve disease
+T48	DISEASE 115 133	left heart failure
+T17	DISEASE 289 303	drug allergies
+T18	DISEASE 341 362	arterial hypertension
+T1	DISEASE 364 367	AHT
+T2	DISEASE 452 454	LD
+T22	DISEASE 483 500	diabetes mellitus
+T23	DISEASE 502 504	DM
+T25	DISEASE 530 550	aortic valve disease
+T26	DISEASE 917 960	mitral insufficiency of degenerative origin
+T27	DISEASE 972 991	atrial fibrillation
+T6	DISEASE 993 995	AF
+T28	DISEASE 1068 1097	Severe pulmonary hypertension
+T30	DISEASE 1168 1205	chronic obstructive pulmonary disease
+T7	DISEASE 2500 2563	chronic venous insufficiency with trophic disorders in the skin
+T31	DISEASE 2604 2620	pleural effusion
+T33	DISEASE 2703 2722	laminar atelectasis
+T35	DISEASE 2724 2751	rounded laminar atelectasis
+T8	DISEASE 2778 2780	AF
+T9	DISEASE 2809 2812	LVH
+T50	DISEASE 3101 3130	severely dilated right atrium
+T47	DISEASE 3132 3164	Severely dilated right ventricle
+T29	DISEASE 3166 3195	Severe pulmonary hypertension
+T10	DISEASE 3197 3200	PHT
+T11	DISEASE 3222 3337	Functional tricuspid insufficiency due to dilatation of the annulus and stretching of the chordae tendineae, severe
+T51	DISEASE 3339 3367	Slightly dilated left atrium
+T12	DISEASE 3531 3570	water retention in the right hemithorax
+T36	DISEASE 3572 3589	evanescent tumour
+T13	DISEASE 3594 3646	subacute/chronic aortic dissection, Standford type A
+T39	DISEASE 4152 4197	mild right and moderate left pleural effusion
+T40	DISEASE 4246 4291	loculated effusion in the right major fissure
+T37	DISEASE 4293 4310	evanescent tumour
+T41	DISEASE 4526 4554	right and left heart failure
+T14	DISEASE 4876 4916	hemithorax, which showed water retention
+T38	DISEASE 4932 4949	evanescent tumour
+T15	DISEASE 4966 5020	subacute/chronic aortic dissection of Standford type A
+T52	DISEASE 5751 5768	type A dissection
+T19	DISEASE 5838 5880	Subacute Stanford type A aortic dissection
+T42	DISEASE 6002 6012	Severe PHT
+T24	DISEASE 6014 6026	Permanent AF
+T32	DISEASE 6028 6031	AHT
+T46	DISEASE 6033 6036	DLP

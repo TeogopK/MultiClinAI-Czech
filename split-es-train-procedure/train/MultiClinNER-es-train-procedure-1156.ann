@@ -1,0 +1,24 @@
+T60	PROCEDURE 358 370	TAC cerebral
+T61	PROCEDURE 372 374	TC
+T62	PROCEDURE 397 436	tratamiento fibrinolítico con alteplasa
+T63	PROCEDURE 554 565	TC cerebral
+T64	PROCEDURE 667 685	exploración física
+T65	PROCEDURE 795 816	auscultación cardiaca
+T66	PROCEDURE 950 971	auscultación pulmonar
+T67	PROCEDURE 979 1002	exploración neurológica
+T68	PROCEDURE 1193 1221	ecocardiograma transtorácico
+T69	PROCEDURE 1539 1553	ecocardiograma
+T70	PROCEDURE 1590 1610	anticoagulación oral
+T71	PROCEDURE 1696 1715	Gasometría arterial
+T72	PROCEDURE 1770 1788	Electrocardiograma
+T73	PROCEDURE 1841 1852	TC cerebral
+T74	PROCEDURE 1870 1897	TC cerebral posfibrinolisis
+T75	PROCEDURE 1980 2009	Ecocardiograma transesofágico
+T76	PROCEDURE 2418 2435	Radiografía tórax
+T77	PROCEDURE 2512 2528	AngioTC torácico
+T78	PROCEDURE 2593 2627	Eco-Doppler de miembros inferiores
+T79	PROCEDURE 2940 2954	oxigenoterapia
+T80	PROCEDURE 3271 3288	angio-TC torácico
+T81	PROCEDURE 3856 3899	cirugía de reparación de válvula tricúspide
+T82	PROCEDURE 3902 3915	cierre de CIA
+#6	AnnotatorNotes T82	 CIA = comunicación interauricular

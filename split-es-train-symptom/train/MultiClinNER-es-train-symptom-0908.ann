@@ -1,0 +1,52 @@
+T1	SYMPTOM 2213 2262	dolor centrotorácico opresivo de inicio en reposo
+T2	SYMPTOM 2278 2294	malestar general
+T3	SYMPTOM 2297 2307	sudoración
+T4	SYMPTOM 2503 2517	dolor torácico
+T5	SYMPTOM 2535 2546	pico febril
+T6	SYMPTOM 2601 2641	tos con expectoración escasa amarillenta
+T8	SYMPTOM 2811 2829	Eupneico en reposo
+T10	SYMPTOM 2959 2997	soplos sistólico II/IV en foco aórtico
+T11	SYMPTOM 3050 3099	crepitantes en tercio inferior de ambos hemitórax
+T12	SYMPTOM 3102 3125	sibilancias diseminadas
+T13	SYMPTOM 3127 3179	Edemas con fóvea en tercio inferior de ambas piernas
+T14	SYMPTOM 3235 3240	dolor
+T15	SYMPTOM 3301 3313	QRS estrecho
+T17	SYMPTOM 3350 3378	elevación del ST en V1 y aVR
+T19	SYMPTOM 3437 3465	alteraciones del segmento ST
+T20	SYMPTOM 3486 3491	dolor
+T21	SYMPTOM 4294 4341	Exudado nasofaríngeo: negativo para gripe y VRS
+T22	SYMPTOM 4343 4363	Urocultivo: negativo
+T23	SYMPTOM 4365 4422	Antígenos de Legionella y Pneumococco en orina: negativos
+T24	SYMPTOM 4504 4549	Engrosamiento perihiliar y peribroncovascular
+T25	SYMPTOM 4627 4650	Pulmón izquierdo blanco
+T26	SYMPTOM 4707 4739	ventrículo izquierdo no dilatado
+T27	SYMPTOM 4745 4775	hipertrofia ligera concéntrica
+T28	SYMPTOM 4777 4790	hiperdinámico
+T29	SYMPTOM 4796 4827	función sistólica global normal
+T30	SYMPTOM 4836 4880	aquinesia basal inferior y de septo inferior
+T32	SYMPTOM 4969 4997	Aurícula derecha no dilatada
+T33	SYMPTOM 4999 5044	Ventrículo derecho no dilatado, hiperdinámico
+T34	SYMPTOM 5050 5081	función sistólica global normal
+T35	SYMPTOM 5189 5225	Válvula mitral funcionalmente normal
+T36	SYMPTOM 7247 7289	elevación de marcadores de daño miocárdico
+T37	SYMPTOM 7312 7347	Asintomático ya para dolor torácico
+T39	SYMPTOM 9689 9696	fallece
+T40	SYMPTOM 9762 9778	elevación del ST
+T189	SYMPTOM 2485 2497	asintomático
+T190	SYMPTOM 9560 9584	asintomático para angina
+T207	SYMPTOM 276 287	FEVI normal
+T7	SYMPTOM 4243 4266	Hemocultivos: estériles
+T9	SYMPTOM 4446 4502	índice cardiotorácico en el límite alto de la normalidad
+T16	SYMPTOM 4552 4586	pinzamiento de senos costofrénicos
+T18	SYMPTOM 5355 5385	Vena cava inferior no dilatada
+T31	SYMPTOM 9911 9926	FEVI conservada
+T228	SYMPTOM 5481 5504	compromiso hemodinámico
+T244	SYMPTOM 1634 1649	nódulo pulmonar
+T188	SYMPTOM 1634 1681	nódulo pulmonar DS 4, biopsiado y sin hallazgos
+T192	SYMPTOM 3002 3025	segundo tono preservado
+T193	SYMPTOM 3315 3348	transición brusca de onda R en V4
+T194	SYMPTOM 3381 3403	descenso difuso del ST
+T195	SYMPTOM 4882 4926	Patrón de llenado transmitral con onda única
+T196	SYMPTOM 5510 5526	grasa epicárdica
+T199	SYMPTOM 5840 5886	Circunfleja (Cx): de buen desarrollo y calibre
+T201	SYMPTOM 5947 5969	stent previo permeable

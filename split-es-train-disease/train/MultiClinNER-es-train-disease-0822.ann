@@ -1,0 +1,37 @@
+T46	DISEASE 715 732	lesiones cutáneas
+T47	DISEASE 1193 1196	HTA
+T48	DISEASE 1198 1202	DMII
+T49	DISEASE 1204 1214	dislipemia
+T50	DISEASE 1216 1238	hiperuricemia con gota
+T51	DISEASE 1240 1253	FA permanente
+T52	DISEASE 1299 1328	cardiopatía isquémica crónica
+T53	DISEASE 1365 1401	hipersensibilidad del seno carotídeo
+T54	DISEASE 1582 1617	Hiperostosis anquilosante vertebral
+T55	DISEASE 1620 1624	gota
+T56	DISEASE 1710 1744	Neumonía adquirida en la comunidad
+T57	DISEASE 2025 2075	adenopatías en los principales grupos ganglionares
+T58	DISEASE 2501 2504	TVP
+T59	DISEASE 2511 2528	lesiones cutáneas
+T60	DISEASE 3236 3259	ENDOCARDITIS BACTERIANA
+T61	DISEASE 3815 3845	hipertrofia del VI concéntrica
+T62	DISEASE 4357 4366	infección
+T63	DISEASE 4435 4459	alergia a betalactámicos
+T64	DISEASE 4524 4545	alergia -> AMPICILINA
+T65	DISEASE 4588 4618	Infección sobre válvula nativa
+T66	DISEASE 1043 1077	Hipersensibilidad a betalactámicos
+T67	DISEASE 1101 1108	fumador
+T68	DISEASE 1510 1512	FA
+T69	DISEASE 2126 2138	Boca séptica
+T70	DISEASE 2810 2835	bloqueo de rama izquierdo
+T71	DISEASE 2849 2869	cardiomegalia global
+T72	DISEASE 2885 2888	IVI
+T73	DISEASE 3704 3734	dilatación auricular izquierda
+T74	DISEASE 3847 3924	Vegetación de 12x7mm a nivel del segmento auricular del velo posterior mitral
+T75	DISEASE 4025 4049	afectación endocardítica
+T76	DISEASE 4064 4082	Endocarditismitral
+T77	DISEASE 4649 4658	Infección
+T119	DISEASE 1081 1096	Hábitos tóxicos
+T120	DISEASE 1110 1117	Bebedor
+#1	AnnotatorNotes T58	 TVP trombosis venosa profunda
+#2	AnnotatorNotes T68	 FA fibrilación auricular
+#3	AnnotatorNotes T72	 IVI insuficiencia ventricular izquierda

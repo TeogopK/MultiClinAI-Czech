@@ -1,0 +1,40 @@
+T1	SYMPTOM 524 541	opresión torácica
+T2	SYMPTOM 619 637	cortejo vegetativo
+T4	SYMPTOM 926 951	hemodinámicamente estable
+T5	SYMPTOM 1018 1039	ingurgitación yugular
+T6	SYMPTOM 1041 1080	Auscultación cardiorrespiratoria normal
+T7	SYMPTOM 1086 1092	soplos
+T8	SYMPTOM 1094 1124	Miembros inferiores sin edemas
+T9	SYMPTOM 1126 1176	Pulsos radiales y femorales presentes y simétricos
+T10	SYMPTOM 1657 1707	ARN de SARS-CoV-2 (exudado nasofaríngeo): negativo
+T12	SYMPTOM 1751 1772	PR normal y constante
+T13	SYMPTOM 1774 1786	QRS estrecho
+T16	SYMPTOM 1944 1972	índice cardiotorácico normal
+T17	SYMPTOM 1974 2000	senos costofrénicos libres
+T18	SYMPTOM 2005 2032	infiltrados parenquimatosos
+T20	SYMPTOM 2140 2161	PR normal y constante
+T21	SYMPTOM 2163 2175	QRS estrecho
+T22	SYMPTOM 3207 3221	dolor torácico
+T23	SYMPTOM 3500 3513	ritmo sinusal
+T24	SYMPTOM 3522 3531	PR normal
+T25	SYMPTOM 3545 3557	QRS estrecho
+T26	SYMPTOM 5497 5523	Ramas DP y PL sin lesiones
+T27	SYMPTOM 5618 5636	cortejo vegetativo
+T28	SYMPTOM 6241 6272	fracción de eyección conservada
+T29	SYMPTOM 6626 6681	dolor torácico opresivo irradiado a miembros superiores
+T30	SYMPTOM 6686 6704	cortejo vegetativo
+T32	SYMPTOM 8057 8102	Fracción de eyección biventricular conservada
+T36	SYMPTOM 739 795	marcadores de daño miocárdico que se encuentran elevados
+T14	SYMPTOM 2262 2303	tronco común izquierdo (TCI) sin lesiones
+T120	SYMPTOM 3224 3239	ST isoeléctrico
+T121	SYMPTOM 3289 3363	Angio-TC de troncos supraaórticos y aorta: estudio dentro de la normalidad
+T122	SYMPTOM 3368 3469	aorta ascendente, cayado aórtico y aorta descendente y sus ramas viscerales no muestran anormalidades
+T123	SYMPTOM 2116 2129	ritmo sinusal
+T124	SYMPTOM 1727 1740	ritmo sinusal
+T135	SYMPTOM 8155 8166	Prediabetes
+T149	SYMPTOM 1788 1798	eje normal
+T152	SYMPTOM 1308 1322	fórmula normal
+T3	SYMPTOM 2593 2648	Arteria coronaria derecha (ACD) dominante, sin lesiones
+T137	SYMPTOM 2490 2536	Arteria circunfleja (Cx) con afectación difusa
+T138	SYMPTOM 2305 2380	Arteria descendente anterior (ADA) con afectación del lumen de forma difusa
+T60	SYMPTOM 5440 5470	ACD: sin evidencia de lesiones

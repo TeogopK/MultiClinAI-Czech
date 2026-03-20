@@ -1,0 +1,25 @@
+T69	PROCEDURE 272 292	physical examination
+T70	PROCEDURE 747 767	Physical examination
+T71	PROCEDURE 933 953	physical examination
+T72	PROCEDURE 1239 1267	Cardiopulmonary auscultation
+T89	PROCEDURE 1465 1476	stroke code
+T1	PROCEDURE 1554 1572	aetiological study
+T73	PROCEDURE 1718 1728	cranial CT
+T74	PROCEDURE 1928 1931	ECG
+T4	PROCEDURE 2005 2015	blood test
+T3	PROCEDURE 2026 2035	haemogram
+T88	PROCEDURE 2040 2051	coagulation
+T75	PROCEDURE 2165 2176	chest X-ray
+T76	PROCEDURE 2251 2265	Blood cultures
+T5	PROCEDURE 2324 2334	laboratory
+T78	PROCEDURE 2401 2422	pacemaker replacement
+T80	PROCEDURE 2457 2487	transthoracic echocardiography
+T81	PROCEDURE 2571 2585	echocardiogram
+T8	PROCEDURE 3131 3148	echocardiographic
+T86	PROCEDURE 3190 3222	transesophageal echocardiography
+T9	PROCEDURE 3487 3500	blood culture
+T84	PROCEDURE 3992 4020	transthoracic echocardiogram
+T87	PROCEDURE 4096 4116	antibiotic treatment
+T77	PROCEDURE 4179 4207	extraction of blood cultures
+T79	PROCEDURE 4237 4258	pacemaker replacement
+T85	PROCEDURE 4429 4459	transesophageal echocardiogram

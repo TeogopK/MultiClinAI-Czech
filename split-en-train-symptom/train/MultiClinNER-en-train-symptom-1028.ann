@@ -1,0 +1,71 @@
+T1	SYMPTOM 739 744	fever
+T2	SYMPTOM 13959 13964	fever
+T3	SYMPTOM 749 764	general malaise
+T4	SYMPTOM 883 903	abdominal discomfort
+T5	SYMPTOM 997 1007	chest pain
+T6	SYMPTOM 1009 1017	dyspnoea
+T7	SYMPTOM 1019 1031	palpitations
+T8	SYMPTOM 1253 1281	leukocytosis with left shift
+T9	SYMPTOM 2226 2249	haemodynamically stable
+T10	SYMPTOM 2293 2307	basal crackles
+T11	SYMPTOM 2716 2725	conscious
+T12	SYMPTOM 2727 2735	oriented
+T13	SYMPTOM 2753 2774	Good hydration status
+T14	SYMPTOM 2776 2794	Slight skin pallor
+T17	SYMPTOM 2799 2803	pain
+T18	SYMPTOM 2813 2836	Mild tachypnoea at rest
+T19	SYMPTOM 2862 2901	Head and neck: no jugular ingurgitation
+T20	SYMPTOM 2906 2935	negative hepatojugular reflux
+T21	SYMPTOM 2970 2977	murmurs
+T22	SYMPTOM 3003 3029	preserved vesicular murmur
+T23	SYMPTOM 3092 3113	rhythmic heart sounds
+T24	SYMPTOM 3115 3137	Aortic systolic murmur
+T25	SYMPTOM 3183 3204	protodiastolic murmur
+T26	SYMPTOM 3308 3331	discomfort on palpation
+T27	SYMPTOM 3468 3516	Radial and pedial pulses present and symmetrical
+T28	SYMPTOM 3563 3569	oedema
+T29	SYMPTOM 7947 7953	oedema
+T30	SYMPTOM 10283 10289	oedema
+T31	SYMPTOM 4479 4501	growth of Gram + cocci
+T32	SYMPTOM 4690 4702	sinus rhythm
+T33	SYMPTOM 4795 4805	Narrow QRS
+T34	SYMPTOM 5614 5631	pulmonary nodules
+T35	SYMPTOM 6199 6213	preserved LVEF
+T37	SYMPTOM 7002 7025	atrial septum is intact
+T38	SYMPTOM 8183 8233	alterations in the density of the brain parenchyma
+T39	SYMPTOM 12214 12222	bleeding
+T40	SYMPTOM 12824 12832	bleeding
+T41	SYMPTOM 15385 15393	bleeding
+T42	SYMPTOM 13815 13827	asymptomatic
+T43	SYMPTOM 4752 4772	PR interval in range
+T44	SYMPTOM 4911 4939	QTc interval in normal range
+T45	SYMPTOM 5955 5990	Pancreas, adrenal glands are normal
+T46	SYMPTOM 6295 6338	Right ventricle of normal size and function
+T47	SYMPTOM 11345 11378	coronary arteries without lesions
+T48	SYMPTOM 14986 15021	Epicardial arteries without lesions
+T15	SYMPTOM 801 839	inflammatory pain in the lumbar region
+T49	SYMPTOM 926 943	feeling of nausea
+T16	SYMPTOM 1201 1230	elevated inflammatory markers
+T50	SYMPTOM 1931 1984	growth of Enterococcus faecalis in the blood cultures
+T51	SYMPTOM 2256 2282	very mild respiratory work
+T52	SYMPTOM 2320 2348	petechiae in the lower limbs
+T53	SYMPTOM 2740 2751	cooperative
+T54	SYMPTOM 2842 2860	ntercostal tugging
+T55	SYMPTOM 2937 2962	Carotid pulse symmetrical
+T56	SYMPTOM 3035 3068	crepitant rales in the right base
+T57	SYMPTOM 3149 3168	preserved 2nd sound
+T58	SYMPTOM 3247 3276	Preserved hydro-aerial sounds
+T59	SYMPTOM 3367 3434	Lower extremities: extremities warm and with good capillary filling
+T60	SYMPTOM 4714 4751	P wave of normal size and morphology.
+T61	SYMPTOM 4896 4909	Normal T wave
+T62	SYMPTOM 4991 5025	cardiac silhouette of normal size.
+T63	SYMPTOM 5133 5169	pinching of the costophrenic sinuses
+T64	SYMPTOM 5375 5404	Biliary tract without lesions
+T65	SYMPTOM 5406 5420	Kidneys normal
+T66	SYMPTOM 6087 6117	left ventricle neither dilated
+T67	SYMPTOM 6427 6457	Inferior vena cava not dilated
+T68	SYMPTOM 6799 6822	Aortic root not dilated
+T69	SYMPTOM 7190 7238	Tricuspid valve normal in structure and function
+T70	SYMPTOM 9633 9698	Diffuse and homogeneous increase in metabolism in the bone marrow
+T71	SYMPTOM 14143 14174	deterioration of renal function
+T36	SYMPTOM 15410 15441	deterioration of renal function

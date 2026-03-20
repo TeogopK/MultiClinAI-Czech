@@ -1,0 +1,49 @@
+T28	DISEASE 3247 3313	ventrículo izquierdo de diámetros normales, con ligera hipertrofia
+T40	DISEASE 81 122	reacciones alérgicas conocidas a fármacos
+T41	DISEASE 130 145	hábitos tóxicos
+T42	DISEASE 178 199	cardiopatía isquémica
+T43	DISEASE 250 271	hipertensión arterial
+T44	DISEASE 273 276	HTA
+T45	DISEASE 309 319	dislipemia
+T46	DISEASE 321 323	DL
+T47	DISEASE 374 391	diabetes mellitus
+T48	DISEASE 393 395	DM
+T49	DISEASE 398 424	Adenocarcinoma de próstata
+T50	DISEASE 606 639	adenocarcinoma acinar infiltrante
+T51	DISEASE 674 691	Gastritis crónica
+T52	DISEASE 693 719	Síndrome ansioso-depresivo
+T53	DISEASE 1203 1248	calcificación en las tres arterias coronarias
+T54	DISEASE 1310 1336	adenocarcinoma de próstata
+T56	DISEASE 3015 3030	derrame pleural
+T57	DISEASE 3125 3177	ateromatosis coronaria calcificada de los tres vasos
+T58	DISEASE 3180 3215	leve calcificación valvular aórtica
+T59	DISEASE 3516 3537	Disfunción diastólica
+T60	DISEASE 3726 3783	Válvula mitral de aspecto normal con mínima insuficiencia
+T61	DISEASE 3797 3822	insuficiencia tricuspídea
+T62	DISEASE 3861 3890	leve cardiopatía hipertensiva
+T63	DISEASE 4460 4469	arritmias
+T64	DISEASE 4622 4673	Arteria descendente anterior (ADA): estenosis grave
+T65	DISEASE 6074 6090	isquemia silente
+T66	DISEASE 6262 6287	enfermedad cardiovascular
+T67	DISEASE 6320 6343	calcificación coronaria
+T68	DISEASE 6798 6817	isquemia miocárdica
+T69	DISEASE 7129 7152	calcificación coronaria
+T70	DISEASE 7168 7176	isquemia
+T71	DISEASE 7306 7332	adenocarcinoma de próstata
+T72	DISEASE 7461 7544	estenosis graves en la ADA a niveles proximal y medio y en la primera rama diagonal
+T73	DISEASE 7908 7928	patología prostática
+T74	DISEASE 7962 7981	trombosis del stent
+T75	DISEASE 8676 8696	Enfermedad coronaria
+T76	DISEASE 8727 8743	isquemia silente
+T77	DISEASE 8745 8766	Enfermedad de un vaso
+T78	DISEASE 8768 8831	estenosis grave en ADA proximal y media y primera rama diagonal
+T79	DISEASE 8992 9002	Dislipemia
+T80	DISEASE 9004 9025	Hipertensión arterial
+T81	DISEASE 9027 9053	Adenocarcinoma de próstata
+T82	DISEASE 3584 3623	Aurícula izquierda ligeramente dilatada
+T83	DISEASE 5676 5686	colestasis
+T9	DISEASE 2781 2817	hemibloqueo superoanterior izquierdo
+T10	DISEASE 2819 2823	HSAI
+T159	DISEASE 4756 4829	Primera diagonal de buen calibre con bifurcación precoz y estenosis grave
+#1	AnnotatorNotes T46	  dislipemia
+#2	AnnotatorNotes T10	hemibloqueo superoanterior izquierdo

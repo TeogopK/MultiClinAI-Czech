@@ -1,0 +1,54 @@
+T1	SYMPTOM 584 600	malestar general
+T2	SYMPTOM 602 608	disnea
+T3	SYMPTOM 611 630	dolor supraesternal
+T4	SYMPTOM 648 661	palpitaciones
+T6	SYMPTOM 1361 1383	Regular estado general
+T7	SYMPTOM 1385 1395	Consciente
+T8	SYMPTOM 1397 1423	orientada en las 3 esferas
+T9	SYMPTOM 1426 1438	colaboradora
+T10	SYMPTOM 1440 1454	Normocoloreada
+T11	SYMPTOM 1456 1470	normohidratada
+T12	SYMPTOM 1473 1488	normoperfundida
+T13	SYMPTOM 1504 1525	taquipneica en reposo
+T14	SYMPTOM 1531 1558	buena dinámica respiratoria
+T15	SYMPTOM 1589 1610	ingurgitación yugular
+T16	SYMPTOM 1671 1696	ruidos cardiacos rítmicos
+T18	SYMPTOM 1729 1735	soplos
+T19	SYMPTOM 1739 1749	extratonos
+T20	SYMPTOM 1774 1822	murmullo vesicular conservado en ambos hemitórax
+T21	SYMPTOM 1828 1848	ruidos sobreañadidos
+T22	SYMPTOM 1859 1887	ruidos hidroáereos presentes
+T23	SYMPTOM 1942 1989	doloroso a la palpación superficial ni profunda
+T24	SYMPTOM 2005 2026	irritación peritoneal
+T25	SYMPTOM 2053 2089	pulsos pedios presentes y simétricos
+T26	SYMPTOM 2095 2101	edemas
+T27	SYMPTOM 2207 2229	elevación de NT proBNP
+T28	SYMPTOM 2363 2417	masa hipodensa que ocupa la arteria pulmonar izquierda
+T29	SYMPTOM 2535 2598	masa de características similares en arteria interlobar derecha
+T31	SYMPTOM 3397 3437	masas intraluminales en arteria pulmonar
+T32	SYMPTOM 3440 3474	compresión extrínseca de vena cava
+T33	SYMPTOM 3476 3512	Función ventricular izquierda normal
+T34	SYMPTOM 3609 3656	serología para hidatidosis que resulta positiva
+T35	SYMPTOM 4037 4062	estable hemodinámicamente
+T36	SYMPTOM 4096 4118	elevación de NT-proBNP
+T38	SYMPTOM 4230 4241	neutrofilia
+T39	SYMPTOM 4565 4605	masas intraluminales en arteria pulmonar
+T40	SYMPTOM 4608 4642	compresión extrínseca de vena cava
+T41	SYMPTOM 4657 4693	función ventricular izquierda normal
+T42	SYMPTOM 5791 5813	deterioro hemodinámico
+T44	SYMPTOM 7584 7595	hipotensión
+T45	SYMPTOM 7729 7748	congestión pulmonar
+T46	SYMPTOM 7797 7819	deterioro hemodinámico
+T48	SYMPTOM 8118 8140	deterioro hemodinámico
+T51	SYMPTOM 8348 8371	pérdida de conocimiento
+T5	SYMPTOM 2853 2885	sobrecarga de ventrículo derecho
+T17	SYMPTOM 3830 3839	hipoxemia
+T30	SYMPTOM 4312 4345	serología positiva de hidatidosis
+T193	SYMPTOM 5449 5458	inestable
+T47	SYMPTOM 1698 1711	taquicárdicos
+T50	SYMPTOM 2729 2774	signo de menisco en lóbulo inferior izquierdo
+T53	SYMPTOM 3282 3319	disfunción ventricular derecha ligera
+T163	SYMPTOM 4096 4161	elevación de NT-proBNP (2612 pg/ml) y de reactantes de fase aguda
+T164	SYMPTOM 4172 4214	leucocitos en límite alto de la normalidad
+T158	SYMPTOM 4452 4489	disfunción ventricular derecha ligera
+T165	SYMPTOM 9112 9151	disfunción ventricular izquierda severa

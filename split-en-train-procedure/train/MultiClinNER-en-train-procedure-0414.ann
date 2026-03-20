@@ -1,0 +1,15 @@
+T1	PROCEDURE 390 410	Physical examination
+T2	PROCEDURE 479 493	Blood cultures
+T3	PROCEDURE 495 508	urine culture
+T4	PROCEDURE 513 520	mantoux
+T8	PROCEDURE 536 547	echo-Dopler
+T5	PROCEDURE 552 563	chest X-ray
+T15	PROCEDURE 577 597	thoraco-abdominal CT
+T16	PROCEDURE 677 693	Laboratory tests
+T7	PROCEDURE 857 869	proteinogram
+T20	PROCEDURE 903 911	serology
+T21	PROCEDURE 972 1013	transfuse two red blood cell concentrates
+T9	PROCEDURE 1021 1040	injections of C-GSF
+T24	PROCEDURE 1280 1288	analysis
+T6	PROCEDURE 1448 1464	sternal puncture
+T26	PROCEDURE 1717 1732	laboratory test

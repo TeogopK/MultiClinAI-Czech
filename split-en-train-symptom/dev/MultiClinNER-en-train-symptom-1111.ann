@@ -1,0 +1,60 @@
+T1	SYMPTOM 723 802	central thoracic pain, with oppressive characteristics, radiating to the throat
+T13	SYMPTOM 740 744	pain
+T47	SYMPTOM 824 832	sweating
+T2	SYMPTOM 837 843	nausea
+T3	SYMPTOM 852 860	vomiting
+T4	SYMPTOM 888 896	dyspnoea
+T5	SYMPTOM 900 912	palpitations
+T6	SYMPTOM 1079 1084	fever
+T7	SYMPTOM 1186 1209	haemodynamically stable
+T11	SYMPTOM 1272 1281	conscious
+T12	SYMPTOM 1283 1291	oriented
+T48	SYMPTOM 1296 1307	cooperative
+T19	SYMPTOM 1353 1411	ST-segment elevation of 2 mm in the inferior aspect and V6
+T14	SYMPTOM 1475 1479	pain
+T8	SYMPTOM 1613 1663	asymptomatic from the cardiovascular point of view
+T41	SYMPTOM 1882 1920	clinically and haemodynamically stable
+T49	SYMPTOM 1996 2025	normal bedside echocardioscop
+T20	SYMPTOM 2126 2146	ST-segment elevation
+T21	SYMPTOM 2198 2218	ST-segment elevation
+T15	SYMPTOM 2287 2337	asymptomatic from the cardiovascular point of view
+T22	SYMPTOM 2363 2373	chest pain
+T9	SYMPTOM 2405 2428	Haemodynamically stable
+T50	SYMPTOM 2461 2487	Eupneic at rest and speech
+T25	SYMPTOM 2527 2547	Tolerating decubitus
+T40	SYMPTOM 2556 2564	Afebrile
+T26	SYMPTOM 2588 2602	rhythmic tones
+T27	SYMPTOM 2615 2622	murmurs
+T28	SYMPTOM 2648 2674	preserved vesicular murmur
+T29	SYMPTOM 2711 2733	Lower limbs: no oedema
+T16	SYMPTOM 2799 2803	pain
+T30	SYMPTOM 2805 2817	sinus rhythm
+T46	SYMPTOM 2829 2840	normal axis
+T31	SYMPTOM 2853 2863	narrow QRS
+T51	SYMPTOM 2869 2929	ST segment elevation of maximum 2 mm in inferior face and V6
+T52	SYMPTOM 2931 2961	1 mm ST decrease in V1 and aVR
+T53	SYMPTOM 2967 2983	negative T waves
+T42	SYMPTOM 3042 3067	Free costophrenic sinuses
+T54	SYMPTOM 3137 3150	consolidation
+T32	SYMPTOM 3199 3219	ions in normal range
+T33	SYMPTOM 3224 3236	leukocytosis
+T55	SYMPTOM 3280 3311	Coagulation without alterations
+T56	SYMPTOM 3567 3646	left ventricle not appearing dilated, with normal qualitative systolic function
+T57	SYMPTOM 3665 3703	segmental alterations of contractility
+T58	SYMPTOM 3705 3762	Right ventricle with normal qualitative systolic function
+T59	SYMPTOM 3764 3787	Aortic root not dilated
+T60	SYMPTOM 3843 3873	Inferior vena cava not dilated
+T34	SYMPTOM 3986 4018	left atrium of normal dimensions
+T35	SYMPTOM 4048 4067	Normal mitral valve
+T36	SYMPTOM 4129 4163	Left ventricle with normal volumes
+T61	SYMPTOM 4230 4268	segmental alterations of contractility
+T43	SYMPTOM 4270 4297	Normal myocardial thickness
+T37	SYMPTOM 4341 4370	Normal mitral filling pattern
+T44	SYMPTOM 4411 4467	Trivalve aortic valve, with anatomically normal leaflets
+T62	SYMPTOM 4516 4570	Right ventricle of normal dimensions and contractility
+T45	SYMPTOM 4609 4646	Tricuspid valve without insufficiency
+T38	SYMPTOM 4689 4714	Normal inferior vena cava
+T10	SYMPTOM 5340 5363	haemodynamically stable
+T23	SYMPTOM 5402 5412	chest pain
+T24	SYMPTOM 6332 6342	chest pain
+T39	SYMPTOM 6466 6496	Preserved ventricular function

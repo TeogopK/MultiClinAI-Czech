@@ -1,0 +1,14 @@
+T1	PROCEDURE 421 441	physical examination
+T10	PROCEDURE 709 720	examination
+T2	PROCEDURE 803 806	ECG
+T3	PROCEDURE 811 822	chest X-ray
+T12	PROCEDURE 870 881	blood tests
+T7	PROCEDURE 887 899	biochemistry
+T14	PROCEDURE 901 921	complete blood count
+T5	PROCEDURE 926 943	coagulation tests
+T16	PROCEDURE 986 1001	cranial CT scan
+T17	PROCEDURE 1307 1327	electroencephalogram
+T4	PROCEDURE 1329 1332	EEG
+T18	PROCEDURE 1355 1366	cranial MRI
+T19	PROCEDURE 1443 1461	X-ray of the thigh
+T6	PROCEDURE 1820 1844	anti-epileptic treatment

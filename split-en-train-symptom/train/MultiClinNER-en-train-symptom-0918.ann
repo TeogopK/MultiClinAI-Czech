@@ -1,0 +1,36 @@
+T1	SYMPTOM 396 419	negative blood cultures
+T28	SYMPTOM 424 434	normal TTE
+T3	SYMPTOM 827 842	general malaise
+T4	SYMPTOM 844 852	headache
+T5	SYMPTOM 854 866	arthomyalgia
+T6	SYMPTOM 868 876	anorexia
+T7	SYMPTOM 878 883	fever
+T8	SYMPTOM 888 899	weight loss
+T9	SYMPTOM 1075 1091	febrile syndrome
+T11	SYMPTOM 1096 1117	general deterioration
+T29	SYMPTOM 1142 1192	growth of Streptococcus gordinii in blood cultures
+T12	SYMPTOM 1347 1356	Conscious
+T13	SYMPTOM 1358 1366	oriented
+T30	SYMPTOM 1371 1382	cooperative
+T14	SYMPTOM 1384 1406	Good general condition
+T15	SYMPTOM 1408 1423	Eupneic at rest
+T16	SYMPTOM 1425 1446	Good distal perfusion
+T17	SYMPTOM 1494 1515	rhythmic heart sounds
+T31	SYMPTOM 1521 1537	prosthetic click
+T18	SYMPTOM 1546 1553	murmurs
+T32	SYMPTOM 1596 1621	crackles in the left base
+T19	SYMPTOM 1623 1651	Lower extremities: no oedema
+T33	SYMPTOM 1781 1829	condensation at the level of the left upper lobe
+T34	SYMPTOM 2721 2773	Left ventricle (LV) neither dilated nor hypertrophic
+T35	SYMPTOM 2784 2816	Right ventricle (RV) not dilated
+T20	SYMPTOM 2818 2845	normal global contractility
+T22	SYMPTOM 2878 2907	Normofunctioning aortic valve
+T36	SYMPTOM 2909 2925	Tricuspid normal
+T26	SYMPTOM 3045 3073	Pericardium without effusion
+T23	SYMPTOM 3584 3594	Collection
+T10	SYMPTOM 3769 3785	febrile syndrome
+T37	SYMPTOM 3790 3849	positive cultures for multisensitive Streptococcus gordinii
+T21	SYMPTOM 4140 4196	collection in the anterior portion of the mitral annulus
+T27	SYMPTOM 4523 4529	pannus
+T2	SYMPTOM 4923 4982	negative blood cultures for control and prosthetic material
+T25	SYMPTOM 4992 5004	asymptomatic

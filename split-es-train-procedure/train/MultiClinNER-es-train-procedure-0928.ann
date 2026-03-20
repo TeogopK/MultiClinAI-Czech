@@ -1,0 +1,36 @@
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 320 343	tratamiento ansiolítico
+T48	PROCEDURE 1193 1211	Exploración física
+T49	PROCEDURE 1420 1432	auscultación
+T50	PROCEDURE 1746 1764	Electrocardiograma
+T51	PROCEDURE 1766 1769	ECG
+T52	PROCEDURE 1912 1932	Radiografía de tórax
+T53	PROCEDURE 2058 2077	Analítica sanguínea
+T55	PROCEDURE 2265 2270	iones
+T56	PROCEDURE 2377 2386	Hemograma
+T58	PROCEDURE 2624 2654	marcadores de función hepática
+T59	PROCEDURE 2665 2682	Perfil metabólico
+T60	PROCEDURE 2716 2731	Perfil lipídico
+T61	PROCEDURE 2775 2802	Marcadores de autoinmunidad
+T62	PROCEDURE 2857 2885	Ecocardiograma transtorácico
+T63	PROCEDURE 3563 3617	Angio-TAC con contraste de arterias coronarias y aorta
+T64	PROCEDURE 3792 3821	Resonancia magnética cardiaca
+T65	PROCEDURE 3823 3826	RMC
+T66	PROCEDURE 4410 4434	estudio ecocardiográfico
+T67	PROCEDURE 4496 4528	angio-TAC de arterias coronarias
+T68	PROCEDURE 5121 5124	RMC
+T69	PROCEDURE 5174 5188	ecocardiograma
+T70	PROCEDURE 5191 5203	TC coronario
+T71	PROCEDURE 5354 5441	reparación endovascular, mediante implante percutáneo de endoprótesis en aorta torácica
+T73	PROCEDURE 5517 5528	angiografía
+T74	PROCEDURE 5692 5701	angio-TAC
+T85	PROCEDURE 2228 2242	Función renal,
+T104	PROCEDURE 2243 2262	perfil hepatobiliar
+T105	PROCEDURE 2590 2600	Bioquímica
+T106	PROCEDURE 2602 2615	función renal
+T107	PROCEDURE 2616 2621	iones
+T109	PROCEDURE 2740 2764	Reactantes de fase aguda
+T118	PROCEDURE 2046 2056	Analíticas
+T119	PROCEDURE 2327 2346	Estudios analíticos
+T25	PROCEDURE 2452 2468	Perfil carencial
+T72	PROCEDURE 5492 5510	sellado de la fuga

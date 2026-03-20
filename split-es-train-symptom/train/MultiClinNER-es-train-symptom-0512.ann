@@ -1,0 +1,31 @@
+T1	SYMPTOM 80 87	astenia
+T2	SYMPTOM 431 443	edema facial
+T3	SYMPTOM 592 598	fiebre
+T4	SYMPTOM 445 460	síndrome febril
+T5	SYMPTOM 601 628	edematización submandibular
+T6	SYMPTOM 833 892	perfil hepático, lipídico, ANCA e inmunoglobulinas normales
+T7	SYMPTOM 463 486	disminución de diuresis
+T8	SYMPTOM 1577 1595	hipocomplementemia
+T9	SYMPTOM 977 1015	Serología para VHB, VHC y VIH negativa
+T10	SYMPTOM 1017 1039	Hemocultivos negativos
+T11	SYMPTOM 1252 1263	proteinuria
+T12	SYMPTOM 1293 1319	ecografía renal fue normal
+T13	SYMPTOM 1336 1345	febrícula
+T14	SYMPTOM 1387 1395	oliguria
+T15	SYMPTOM 524 552	deterioro del estado general
+T16	SYMPTOM 706 721	edemas distales
+T17	SYMPTOM 1209 1227	hipocomplementemia
+T18	SYMPTOM 1274 1288	microhematuria
+T19	SYMPTOM 1045 1128	ANA, anticuerpos anti-Ro, anti-LA y factor reumatoide (FR) se mantuvieron positivos
+T20	SYMPTOM 894 907	ANA positivos
+T21	SYMPTOM 909 927	anti-ADN negativos
+A1	RESULTADO T6
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T10
+A5	RESULTADO T11
+A6	IMAGEN T12
+A7	RESULTADO T18
+A8	RESULTADO T19
+A9	RESULTADO T20
+A10	RESULTADO T21

@@ -1,0 +1,14 @@
+T1	SYMPTOM 68 79	proteinuria
+T2	SYMPTOM 1304 1315	proteinuria
+T3	SYMPTOM 313 334	Hb glucosilada normal
+T4	SYMPTOM 1098 1128	Doppler renal sin alteraciones
+T5	SYMPTOM 414 427	Normotiroideo
+T6	SYMPTOM 1534 1546	normotensión
+T7	SYMPTOM 1614 1627	normouricemia
+T8	SYMPTOM 1630 1644	normoglucemias
+T9	SYMPTOM 51 65	microhematuria
+T10	SYMPTOM 1495 1506	proteinuria
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	IMAGEN T4
+A4	RESULTADO T10

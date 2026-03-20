@@ -1,0 +1,68 @@
+T1	SYMPTOM 110 136	inestabilidad de la marcha
+T2	SYMPTOM 532 539	sincope
+T3	SYMPTOM 736 762	inestabilidad de la marcha
+T4	SYMPTOM 1059 1073	dolor torácico
+T5	SYMPTOM 1094 1100	disnea
+T6	SYMPTOM 1102 1110	ortopnea
+T7	SYMPTOM 1114 1141	disnea paroxística nocturna
+T8	SYMPTOM 1191 1197	fiebre
+T10	SYMPTOM 1271 1313	elevación de marcadores de daño miocárdico
+T11	SYMPTOM 1316 1350	alteraciones en electrocardiograma
+T12	SYMPTOM 1459 1469	Consciente
+T13	SYMPTOM 1472 1481	orientada
+T14	SYMPTOM 1483 1502	buen estado general
+T15	SYMPTOM 1504 1524	Eupneica en decúbito
+T16	SYMPTOM 1530 1550	trabajo respiratorio
+T17	SYMPTOM 1575 1582	ritmica
+T18	SYMPTOM 1584 1617	soplo sistólico en borde esternal
+T19	SYMPTOM 1657 1686	murmullo vesicular conservado
+T21	SYMPTOM 1713 1744	Miembros inferiores: sin edemas
+T22	SYMPTOM 1746 1776	Exploración neurológica normal
+T23	SYMPTOM 1819 1832	ritmo sinusal
+T24	SYMPTOM 1843 1852	PR normal
+T25	SYMPTOM 1854 1881	QRS estrecho con eje normal
+T26	SYMPTOM 1896 1972	elevación del ST de 1-2 mm en precordiales y submilimétrica en cara inferior
+T27	SYMPTOM 2016 2061	elevación del ST de V2-V6 de hasta 3 mm en V3
+T28	SYMPTOM 2141 2154	ritmo sinusal
+T29	SYMPTOM 2165 2174	PR normal
+T30	SYMPTOM 2176 2188	QRS estrecho
+T31	SYMPTOM 2190 2263	onda T negativa profunda y simétrica en cara inferior, I y aVL y de V2-V6
+T34	SYMPTOM 3134 3158	PCR SARS-CoV-2: negativa
+T37	SYMPTOM 3587 3625	Hiperquinesia de los segmentos basales
+T38	SYMPTOM 3627 3675	Función sistólica global moderadamente deprimida
+T39	SYMPTOM 4062 4118	ventriculo izquierdo: a) tamaño y función: tamaño normal
+T41	SYMPTOM 4823 4870	Válvula mitral con velos finos, apertura normal
+T45	SYMPTOM 5563 5590	osmolaridad en orina normal
+T46	SYMPTOM 5765 5779	hipomagnesemia
+T47	SYMPTOM 5835 5867	elevación de troponina en meseta
+T48	SYMPTOM 5896 5907	QS anterior
+T49	SYMPTOM 5910 5935	elevación residual del ST
+T50	SYMPTOM 5992 6034	alteraciones de la contracción segmentaria
+T52	SYMPTOM 6948 6960	asintomática
+T53	SYMPTOM 6962 6969	afebril
+T54	SYMPTOM 6971 6996	hemodinámicamente estable
+T55	SYMPTOM 7235 7275	Función ventricular gravemente deprimida
+T95	SYMPTOM 5548 5558	euvolémica
+T112	SYMPTOM 889 896	sincope
+T146	SYMPTOM 352 383	electrocardiograma (ECG) normal
+T110	SYMPTOM 878 888	presincope
+T9	SYMPTOM 1883 1894	QS anterior
+T147	SYMPTOM 1974 1994	T negativas en I-aVL
+T148	SYMPTOM 2066 2107	onda T negativa en todas las precordiales
+T32	SYMPTOM 3519 3585	Aquinesia de segmentos medios y distales de todas las caras y ápex
+T36	SYMPTOM 3780 3808	Auricula derecha no dilatada
+T149	SYMPTOM 3942 4009	Ventriculo derecho no dilatado, con función sistólica global normal
+T150	SYMPTOM 4144 4208	Hipoquinesia de los segmentos distales de todas las caras y ápex
+T151	SYMPTOM 4561 4649	Ventriculo derecho: a) Tamaño y función: tamaño normal, no hipertrófico, normocontráctil
+T40	SYMPTOM 4756 4786	Auricula izquierda no dilatada
+T152	SYMPTOM 4788 4821	Auricula derecha de tamaño normal
+T42	SYMPTOM 4872 4919	Válvula aórtica trivalva, funcionalmente normal
+T43	SYMPTOM 5299 5363	Función sistólica global en el lim ite inferior de la normalidad
+T51	SYMPTOM 7201 7233	Arterias coronarias sin lesiones
+T163	SYMPTOM 4948 4971	Opacidades perihiliares
+T169	SYMPTOM 1201 1253	clinica infecciosa, respiratoria ni gastrointestinal
+T171	SYMPTOM 6327 6348	focalidad neurológica
+T137	SYMPTOM 1008 1051	TAC y analítica que refiere fueron normales
+T20	SYMPTOM 3426 3517	Ecocardiograma reglado: ventriculo izquierdo no dilatado, con espesores parietales normales
+T35	SYMPTOM 5393 5418	arterias coronarias lisas
+T153	SYMPTOM 5714 5739	TAC craneal sin hallazgos

@@ -1,0 +1,25 @@
+T37	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T38	PROCEDURE 331 351	Physical examination
+T39	PROCEDURE 457 477	Cardiac auscultation
+T1	PROCEDURE 549 565	Laboratory tests
+T40	PROCEDURE 567 578	blood count
+T41	PROCEDURE 583 595	biochemistry
+T42	PROCEDURE 611 627	thyroid hormones
+T43	PROCEDURE 629 646	Electrocardiogram
+T44	PROCEDURE 707 718	Chest X-ray
+T2	PROCEDURE 772 800	Transthoracic echocardiogram
+T3	PROCEDURE 1040 1096	administration of a sulphur hexafluoride ecopotentiator,
+T4	PROCEDURE 1133 1163	Transesophageal echocardiogram
+T5	PROCEDURE 1753 1779	Cardiac magnetic resonance
+T6	PROCEDURE 1781 1784	CMR
+T45	PROCEDURE 2021 2046	gadolinium administration
+T7	PROCEDURE 2166 2196	Cranio-thorax-abdomen CT scan:
+T8	PROCEDURE 2638 2666	CT scan of coronary arteries
+T46	PROCEDURE 2704 2738	Pathological anatomy of the tumour
+T10	PROCEDURE 3030 3058	transthoracic echocardiogram
+T50	PROCEDURE 3171 3184	imaging tests
+T12	PROCEDURE 3326 3369	Resection of the tumour in the right atrium
+T47	PROCEDURE 3389 3410	intraoperative biopsy
+T14	PROCEDURE 3412 3509	The right atrium and interatrial septum were reconstructed with two patches of bovine pericardium
+T48	PROCEDURE 3843 3864	intraoperative biopsy
+T49	PROCEDURE 4344 4359	echocardiograms

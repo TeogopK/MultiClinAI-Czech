@@ -1,0 +1,8 @@
+T1	SYMPTOM 42 65	parcialmente desdentado
+T2	SYMPTOM 162 203	tumoración dolorosa de 5 x 3 cm en lengua
+T3	SYMPTOM 229 244	pérdida de peso
+T4	SYMPTOM 906 914	falleció
+T5	SYMPTOM 775 788	nódulo dorsal
+T6	SYMPTOM 728 756	nódulos subcutáneos en dorso
+A1	EXITUS T4
+A2	RESULTADO T5

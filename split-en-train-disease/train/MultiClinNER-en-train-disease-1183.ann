@@ -1,0 +1,45 @@
+T50	DISEASE 68 82	drug allergies
+T51	DISEASE 84 93	Ex-smoker
+T52	DISEASE 108 115	Obesity
+T53	DISEASE 117 138	Arterial hypertension
+T54	DISEASE 230 254	type 2 diabetes mellitus
+T55	DISEASE 389 400	lung cancer
+T56	DISEASE 425 452	acute myocardial infarction
+T2	DISEASE 454 457	AMI
+T3	DISEASE 711 724	heart disease
+T57	DISEASE 1196 1209	biliary colic
+T58	DISEASE 1521 1538	sinus tachycardia
+T61	DISEASE 1612 1624	cardiomegaly
+T64	DISEASE 1695 1715	pericardial effusion
+T65	DISEASE 1794 1836	severe circumferential pericardial effusio
+T77	DISEASE 2235 2255	arterial hypotension
+T6	DISEASE 2610 2618	effusion
+T8	DISEASE 2853 2865	Hypertension
+T62	DISEASE 3910 3922	cardiomegaly
+T78	DISEASE 3994 4057	left ventricle (LV) with moderate-severe concentric hypertrophy
+T74	DISEASE 4082 4109	severe pericardial effusion
+T47	DISEASE 4237 4271	moderate concentric LV hypertrophy
+T79	DISEASE 4306 4334	LV outflow tract obstruction
+T80	DISEASE 4346 4375	Moderate pericardial effusion
+T10	DISEASE 4501 4510	tamponade
+T82	DISEASE 4515 4529	valvulopathies
+T88	DISEASE 5122 5146	neoproliferative process
+T75	DISEASE 5148 5175	Severe pericardial effusion
+T13	DISEASE 5180 5206	mild left pleural effusion
+T83	DISEASE 5327 5347	renal angiomyolipoma
+T84	DISEASE 5384 5403	chronic prostatitis
+T48	DISEASE 5434 5468	moderate concentric LV hypertrophy
+T69	DISEASE 5485 5505	pericardial effusion
+T14	DISEASE 5639 5660	valvular heart diseas
+T60	DISEASE 5845 5862	sinus tachycardia
+T49	DISEASE 6069 6103	moderate concentric LV hypertrophy
+T81	DISEASE 6145 6174	moderate pericardial effusion
+T86	DISEASE 6611 6635	paraneoplastic pathology
+T89	DISEASE 7331 7355	neoproliferative process
+T85	DISEASE 7453 7472	chronic prostatitis
+T71	DISEASE 7596 7616	pericardial effusion
+T63	DISEASE 8306 8318	cardiomegaly
+T72	DISEASE 8345 8365	pericardial effusion
+T76	DISEASE 8496 8523	Severe pericardial effusion
+T73	DISEASE 8503 8523	pericardial effusion
+T87	DISEASE 8544 8561	cardiac tamponade

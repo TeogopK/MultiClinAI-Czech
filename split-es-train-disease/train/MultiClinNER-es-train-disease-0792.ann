@@ -1,0 +1,50 @@
+T54	DISEASE 121 144	alergias medicamentosas
+T55	DISEASE 173 182	exfumador
+T56	DISEASE 268 304	Exadicto a drogas por vía parenteral
+T57	DISEASE 398 444	Infección por virus de hepatitis C genotipo 1a
+T58	DISEASE 520 548	Cirrosis hepática secundaria
+T59	DISEASE 584 615	neumonía adquirida en comunidad
+T60	DISEASE 638 664	insuficiencia respiratoria
+T62	DISEASE 1972 1997	trombosis venosa profunda
+T63	DISEASE 2109 2143	bloqueo incompleto de rama derecha
+T64	DISEASE 2244 2263	bradicardia sinusal
+T65	DISEASE 3028 3132	espasmo grave de tronco coronario izquierdo (TCI), arteria coronaria derecha (ACD) y arteria circunfleja
+T66	DISEASE 3718 3737	derrame pericárdico
+T67	DISEASE 3802 3828	parada cardiorrespiratoria
+T68	DISEASE 4028 4054	lesión ocupante de espacio
+T69	DISEASE 4056 4066	hemorragia
+T71	DISEASE 4175 4253	Adenopatías de aspecto inespecífico en saco menor, mesenterio y retroperitoneo
+T72	DISEASE 4255 4280	Derrame pleural bilateral
+T74	DISEASE 4721 4813	espasmo grave de tronco coronario izquierdo, arteria coronaria derecha y arteria circunfleja
+T75	DISEASE 5467 5530	parada cardiorrespiratoria (PCR) en disociación electromecánica
+T76	DISEASE 5727 5762	taquicardia ventricular polimórfica
+T77	DISEASE 5856 5891	taquicardia ventricular polimórfica
+T78	DISEASE 6081 6107	infarto agudo de miocardio
+T79	DISEASE 6156 6179	isquemia subendocárdica
+T80	DISEASE 7223 7278	insuficiencia suprarrenal parcial de origen hipofisario
+T81	DISEASE 8540 8571	Angina vasoespástica recurrente
+T82	DISEASE 8662 8722	infarto agudo de miocardio secundario a angina vasoespástica
+T83	DISEASE 8808 8863	Insuficiencia suprarrenal parcial de origen hipofisario
+T84	DISEASE 219 226	Bebedor
+T85	DISEASE 156 171	Hábitos tóxicos
+T86	DISEASE 8601 8627	Parada cardiorrespiratoria
+T89	DISEASE 6765 6776	hipotensión
+T90	DISEASE 1101 1109	síncopes
+T91	DISEASE 5664 5683	taquicardia sinusal
+T92	DISEASE 3583 3609	Disfunción diastólica leve
+T93	DISEASE 5495 5498	PCR
+T88	DISEASE 5980 5983	PCR
+T156	DISEASE 6320 6323	PCR
+T158	DISEASE 6909 6926	vasoespasmo grave
+T159	DISEASE 7072 7093	vasoespamo recurrente
+T162	DISEASE 7924 7927	PCR
+T163	DISEASE 7988 7991	PCR
+T191	DISEASE 4069 4093	infarto agudo o subagudo
+T46	DISEASE 6816 6849	crisis recurrentes de vasoespasmo
+T178	DISEASE 7293 7326	hiponatremia moderada hipoosmolar
+T180	DISEASE 7533 7566	crisis recurrentes de vasoespasmo
+T182	DISEASE 8202 8223	crisis de vasoespasmo
+#2	AnnotatorNotes T88	parada cardiorespiratoria
+#3	AnnotatorNotes T156	parada cardiorespiratoria
+#4	AnnotatorNotes T162	parada cardiorespiratoria
+#5	AnnotatorNotes T163	parada cardiorespiratoria

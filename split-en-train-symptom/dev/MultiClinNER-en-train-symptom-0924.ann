@@ -1,0 +1,17 @@
+T1	SYMPTOM 362 367	fever
+T2	SYMPTOM 2156 2161	fever
+T3	SYMPTOM 403 411	dyspnoea
+T5	SYMPTOM 2165 2173	dyspnoea
+T6	SYMPTOM 438 448	orthopnoea
+T7	SYMPTOM 453 482	paroxysmal nocturnal dyspnoea
+T8	SYMPTOM 646 655	Conscious
+T9	SYMPTOM 660 668	oriented
+T10	SYMPTOM 670 691	Jugular ingurgitation
+T11	SYMPTOM 693 723	Cardiac auscultation: rhythmic
+T12	SYMPTOM 732 739	murmurs
+T13	SYMPTOM 765 781	bibasal crackles
+T14	SYMPTOM 783 835	Abdomen: soft, depressible, not painful on palpation
+T15	SYMPTOM 860 900	Lower limbs: oedema with pretibial fovea
+T4	SYMPTOM 845 859	visceromegaly.
+T16	SYMPTOM 942 988	4 positive samples for Streptococcus anginosus
+T17	SYMPTOM 2352 2382	Carrier of bicameral pacemaker

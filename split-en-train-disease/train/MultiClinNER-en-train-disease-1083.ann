@@ -1,0 +1,49 @@
+T17	DISEASE 88 100	hypertension
+T18	DISEASE 102 126	type 2 diabetes mellitus
+T19	DISEASE 128 137	ex-smoker
+T20	DISEASE 139 169	Paroxysmal atrial fibrillation
+T22	DISEASE 222 259	Chronic obstructive pulmonary disease
+T23	DISEASE 261 265	COPD
+T4	DISEASE 268 274	Stroke
+T41	DISEASE 302 368	Stage 3a chronic kidney disease (secondary to diabetic nephropathy
+T24	DISEASE 371 406	Deep vein thrombosis in lower limbs
+T25	DISEASE 689 702	stable angina
+T26	DISEASE 1003 1010	syncope
+T5	DISEASE 1198 1206	scarring
+T29	DISEASE 1600 1620	deep vein thrombosis
+T30	DISEASE 1622 1625	DVT
+T31	DISEASE 1760 1784	left bundle branch block
+T6	DISEASE 1786 1790	LBBB
+T27	DISEASE 2477 2481	scar
+T32	DISEASE 2552 2587	multivessel coronary artery disease
+T8	DISEASE 2589 2642	Chronic occlusion of the middle right coronary artery
+T7	DISEASE 2650 2716	Severe atheromatosis of proximal-middle anterior descending artery
+T2	DISEASE 2817 2896	Severe atheromatosis of proximal circumflex artery (Cx) - first obtuse marginal
+T33	DISEASE 2949 2971	Acute stent thrombosis
+T9	DISEASE 3027 3055	proximal Cx stent thrombosis
+T34	DISEASE 3246 3292	Moderate-severe ischaemic mitral regurgitation
+T36	DISEASE 3348 3354	angina
+T38	DISEASE 3359 3382	ventricular dysfunction
+T10	DISEASE 3720 3746	lesion in the proximal LAD
+T11	DISEASE 3750 3782	moderate-severe lesion in Cx-OM1
+T12	DISEASE 3795 3816	occlusion of the LMCA
+T13	DISEASE 3982 4045	periprocedural AMI due to hyperacute thrombosis of the Cx stent
+T39	DISEASE 4133 4152	acute heart failure
+T40	DISEASE 4154 4202	acute pulmonary oedema with arterial hypotension
+T42	DISEASE 4419 4430	nephropathy
+T16	DISEASE 4520 4555	monomorphic ventricular tachycardia
+T15	DISEASE 4557 4561	SMVT
+T43	DISEASE 4592 4629	non-sustained ventricular tachycardia
+T14	DISEASE 4631 4635	NSVT
+T28	DISEASE 4752 4778	thrombosis of the Cx stent
+T46	DISEASE 5027 5038	arrhythmias
+T47	DISEASE 5423 5446	Ischaemic heart disease
+T48	DISEASE 5448 5523	CCS class II stable exertional angina with moderate LV systolic dysfunction
+T21	DISEASE 5525 5555	Paroxysmal atrial fibrillation
+T49	DISEASE 5591 5627	Three-vessel coronary artery disease
+T35	DISEASE 5675 5734	Periprocedural AMI due to hyperacute stent thrombosis in Cx
+T54	DISEASE 5736 5758	Acute pulmonary oedema
+T37	DISEASE 5769 5773	SMVT
+T50	DISEASE 5796 5824	subacute Cx stent thrombosis
+T51	DISEASE 5826 5856	Severe LV systolic dysfunction
+T52	DISEASE 5858 5885	Acute chronic renal failure

@@ -1,0 +1,9 @@
+T1	SYMPTOM 107 164	lesión en la mejilla derecha, algo pruriginosa y dolorosa
+T2	SYMPTOM 823 875	drenaje espontáneo de un material sanguino-purulento
+T3	SYMPTOM 345 403	mejilla derecha un nódulo eritematovioláceo, frío y blando
+T4	SYMPTOM 1481 1513	sequedad o enrojecimiento ocular
+T5	SYMPTOM 1538 1547	fotofobia
+T6	SYMPTOM 1549 1574	pérdida de agudeza visual
+T7	SYMPTOM 993 1088	cultivos para bacterias, hongos y micobacterias del exudado de drenaje resultaron ser negativos
+T8	SYMPTOM 946 952	nódulo
+A1	RESULTADO T7

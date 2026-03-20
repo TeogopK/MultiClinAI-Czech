@@ -1,0 +1,18 @@
+T1	SYMPTOM 487 499	palpitations
+T2	SYMPTOM 501 511	chest pain
+T3	SYMPTOM 513 522	dizziness
+T4	SYMPTOM 561 573	sinus rhythm
+T5	SYMPTOM 1346 1358	sinus rhythm
+T6	SYMPTOM 2073 2085	sinus rhythm
+T7	SYMPTOM 575 585	Narrow QRS
+T8	SYMPTOM 1856 1888	elevated jugular venous pressure
+T9	SYMPTOM 3048 3076	dyspnoea on minimal exertion
+T10	SYMPTOM 675 686	normal ions
+T11	SYMPTOM 3624 3635	ICD carrier
+T12	SYMPTOM 260 287	troponin I mutation (TNNI3)
+T13	SYMPTOM 800 821	LV of normal diameter
+T14	SYMPTOM 1774 1807	deterioration of functional class
+T15	SYMPTOM 1893 1901	crackles
+T16	SYMPTOM 1953 1971	elevated NT-proBNP
+T17	SYMPTOM 2219 2256	deterioration of LV systolic function
+T18	SYMPTOM 3532 3565	Mutation in the troponin I 3 gene

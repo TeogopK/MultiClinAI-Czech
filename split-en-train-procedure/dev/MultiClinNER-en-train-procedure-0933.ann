@@ -1,0 +1,42 @@
+T82	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T32	PROCEDURE 790 879	valve replacement was performed, with a number 21 Magna Ease biological aortic prosthesis
+T69	PROCEDURE 964 987	Billroth II gastrectomy
+T70	PROCEDURE 1056 1078	radio and chemotherapy
+T71	PROCEDURE 1093 1112	pulmonary lobectomy
+T72	PROCEDURE 1117 1133	rectal resection
+T73	PROCEDURE 2136 2160	antithrombotic treatment
+T74	PROCEDURE 2312 2334	orotracheal intubation
+T75	PROCEDURE 2353 2375	mechanical ventilation
+T31	PROCEDURE 2485 2542	transient pacemaker was placed via the right femoral vein
+T77	PROCEDURE 2549 2569	coronary angiography
+T79	PROCEDURE 2694 2705	angioplasty
+T30	PROCEDURE 2710 2741	drug eluting stent implantation
+T83	PROCEDURE 2846 2866	Physical examination
+T84	PROCEDURE 2894 2918	Neurological examination
+T85	PROCEDURE 3121 3143	Pulmonary auscultation
+T87	PROCEDURE 3195 3215	Cardiac auscultation
+T89	PROCEDURE 3640 3653	sedoanalgesia
+T86	PROCEDURE 3724 3746	Pulmonary auscultation
+T88	PROCEDURE 3798 3818	Cardiac auscultation
+T104	PROCEDURE 3918 3927	palpation
+T29	PROCEDURE 4176 4208	Cranial CT scan without contrast
+T103	PROCEDURE 4414 4432	blood biochemistry
+T90	PROCEDURE 4627 4638	Coagulation
+T91	PROCEDURE 4683 4700	Electrocardiogram
+T92	PROCEDURE 4702 4705	ECG
+T78	PROCEDURE 4804 4824	coronary angiography
+T28	PROCEDURE 4826 4894	Implantation of a transient balloon pacemaker via right femoral vein
+T80	PROCEDURE 5206 5217	angioplasty
+T27	PROCEDURE 5352 5422	direct implantation of a Resolute Onyx 3.5 x 22 mm drug-eluting device
+T93	PROCEDURE 5549 5581	Transesophageal echocardiography
+T76	PROCEDURE 5622 5644	mechanical ventilation
+T95	PROCEDURE 6290 6304	Blood cultures
+T97	PROCEDURE 6646 6676	Transthoracic echocardiography
+T94	PROCEDURE 6722 6754	transesophageal echocardiography
+T96	PROCEDURE 6860 6874	blood cultures
+T98	PROCEDURE 6977 6992	cardiac surgery
+T99	PROCEDURE 7077 7097	antibiotic treatment
+T26	PROCEDURE 7099 7108	inotropes
+T100	PROCEDURE 7133 7183	intra-aortic balloon counterpulsation implantation
+T101	PROCEDURE 7273 7288	Haemofiltration
+T102	PROCEDURE 7702 7758	primary angioplasty with drug-eluting stent implantation

@@ -1,0 +1,16 @@
+T9	PROCEDURE 263 274	examination
+T11	PROCEDURE 352 363	Plain X-ray
+T12	PROCEDURE 368 388	CT scan of the skull
+T13	PROCEDURE 540 573	Systemic tumour screening studies
+T14	PROCEDURE 575 595	complete blood count
+T15	PROCEDURE 597 617	haematological smear
+T1	PROCEDURE 619 633	tumour markers
+T2	PROCEDURE 635 647	proteinogram
+T18	PROCEDURE 652 686	cervico-thoracic-abdominal CT scan
+T3	PROCEDURE 705 729	bone scan with HDP-Tc99M
+T20	PROCEDURE 798 856	Percutaneous fine needle puncture-aspiration of the tumour
+T7	PROCEDURE 1109 1131	histological diagnosis
+T22	PROCEDURE 1140 1147	surgery
+T4	PROCEDURE 1344 1355	craniectomy
+T5	PROCEDURE 1489 1589	methylmethacrylate cranial plasty, which was fixed to the surrounding bone with titanium mini-plates
+T6	PROCEDURE 1647 1676	anatomopathological diagnosis

@@ -1,0 +1,9 @@
+T1	SYMPTOM 92 120	dolor y distensión abdominal
+T2	SYMPTOM 1077 1083	anuria
+T3	SYMPTOM 876 906	sangrado en sábana de la pared
+T4	SYMPTOM 290 299	hematuria
+T5	SYMPTOM 466 491	líquido y gas perivesical
+T6	SYMPTOM 1127 1133	exitus
+T7	SYMPTOM 1086 1116	alteración hemodinámica severa
+A1	IMAGEN T5
+A2	EXITUS T6

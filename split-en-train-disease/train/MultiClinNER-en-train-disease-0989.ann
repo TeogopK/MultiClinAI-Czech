@@ -1,0 +1,102 @@
+T50	DISEASE 94 117	allergic drug reactions
+T108	DISEASE 121 133	Toxic habits
+T51	DISEASE 135 144	ex-smoker
+T52	DISEASE 148 160	Hypertension
+T54	DISEASE 171 188	diabetes mellitus
+T55	DISEASE 192 205	dyslipidaemia
+T2	DISEASE 370 431	aortic pseudoaneurysm with compression of the right ventricle
+T56	DISEASE 441 488	aorto cutaneous fistula with sternal osteolysis
+T4	DISEASE 490 512	The fistula was closed
+T57	DISEASE 767 779	coagulopathy
+T58	DISEASE 882 901	multi-organ failure
+T59	DISEASE 937 965	dehiscence of the prosthesis
+T111	DISEASE 967 986	periprosthetic leak
+T60	DISEASE 1041 1063	Femoral pseudoaneurysm
+T61	DISEASE 1107 1152	Duodenal ulcer with gastrointestinal bleeding
+T62	DISEASE 1164 1235	Spontaneous retroperitoneal haematoma in the context of anticoagulation
+T9	DISEASE 1285 1317	syncope with cardiogenic profile
+T10	DISEASE 1383 1424	left anterior hemiblock of the His bundle
+T106	DISEASE 1426 1432	HARIHH
+T63	DISEASE 1529 1571	mild-moderate left ventricular hypertrophy
+T11	DISEASE 1724 1764	Repeated acute otitis media in both ears
+T64	DISEASE 1797 1825	Benign prostatic hyperplasia
+T12	DISEASE 2073 2095	traumatic brain injury
+T13	DISEASE 2097 2100	TBI
+T14	DISEASE 2197 2225	trauma to the frontal region
+T110	DISEASE 2243 2254	hypotension
+T66	DISEASE 2465 2483	subdural haematoma
+T65	DISEASE 2620 2637	sinus bradycardia
+T67	DISEASE 2861 2879	subdural haematoma
+T71	DISEASE 2892 2916	subarachnoid haemorrhage
+T72	DISEASE 3000 3017	right hemiparesis
+T16	DISEASE 3022 3036	comical crises
+T17	DISEASE 3424 3455	complete atrioventricular block
+T18	DISEASE 3457 3460	AVB
+T20	DISEASE 3695 3740	soft tissue wound in the right frontal region
+T109	DISEASE 3803 3813	haematomas
+T115	DISEASE 3817 3828	deformities
+T76	DISEASE 4185 4194	haematoma
+T80	DISEASE 4199 4211	rectorrhagia
+T118	DISEASE 4213 4217	Back
+T116	DISEASE 4242 4253	deformities
+T117	DISEASE 4288 4299	deformities
+T81	DISEASE 4416 4436	lower limb paralysis
+T22	DISEASE 4833 4864	normocytic normochromic anaemia
+T107	DISEASE 5328 5334	HARIHH
+T68	DISEASE 5422 5452	subdural haematoma in cerebral
+T24	DISEASE 5983 6035	Mitral valve: thickened leaflets, mild insufficiency
+T82	DISEASE 6143 6165	pulmonary hypertension
+T83	DISEASE 6366 6384	intracardiac shunt
+T25	DISEASE 6464 6472	effusion
+T27	DISEASE 6685 6721	Intraprosthetic lavage insufficiency
+T119	DISEASE 6868 6872	wart
+T28	DISEASE 6874 6974	Thickening of the posterior area of the prosthetic ring, with extension towards mitroaortic fibrosis
+T29	DISEASE 6976 7009	thickened anterior mitral leaflet
+T49	DISEASE 7106 7158	Mitral valve with thickening of the anterior leaflet
+T126	DISEASE 7186 7196	vegetation
+T84	DISEASE 7201 7221	mitral insufficiency
+T127	DISEASE 7269 7279	vegetation
+T30	DISEASE 7303 7305	IE
+T31	DISEASE 7307 7431	thickening at the posterior level of the aortic annulus, mitroaortic fibrosis and at the base of the anterior mitral leaflet
+T32	DISEASE 7446 7454	phlegmon
+T113	DISEASE 7456 7534	Small endocardial wart, visualised on the aortic side of the aortic prosthesis
+T34	DISEASE 7618 7620	IE
+T114	DISEASE 7806 7822	endocardial wart
+T85	DISEASE 7869 7889	mitral insufficiency
+T36	DISEASE 7924 7990	acute cortical microinfarcts of supra- and infratentorial location
+T86	DISEASE 8084 8131	left frontal parenchymal parenchymal contusions
+T69	DISEASE 8136 8154	subdural haematoma
+T37	DISEASE 8228 8261	focal infarcts in the left kidney
+T39	DISEASE 8332 8409	IE with abscessation at the level of the aortic ring/fibrous mitroaortic ring
+T112	DISEASE 8411 8481	aortic prosthesis with normal gradients, posterior periprosthetic leak
+T88	DISEASE 8922 8934	endocarditis
+T41	DISEASE 8949 9067	thickening at the posterior level of the aortic ring, mitroaortic fibrosis and the base of the anterior mitral leaflet
+T91	DISEASE 9082 9089	abscess
+T122	DISEASE 9116 9160	small wart was seen on the aortic prosthesis
+T89	DISEASE 9195 9207	endocarditis
+T93	DISEASE 9247 9263	septic embolisms
+T42	DISEASE 9308 9378	acute cortical micro-infarctions of supra- and infratentorial location
+T94	DISEASE 9447 9467	peripheral embolisms
+T95	DISEASE 9831 9855	aortic perivalvular leak
+T96	DISEASE 9867 9892	mild aortic insufficiency
+T97	DISEASE 9915 9926	aortic wart
+T124	DISEASE 9951 9971	wart at mitral level
+T46	DISEASE 10285 10318	appearance of left renal infarcts
+T98	DISEASE 10600 10611	mitral wart
+T99	DISEASE 10724 10737	heart failure
+T73	DISEASE 11613 11636	paroxysmal complete AVB
+T90	DISEASE 11698 11710	endocarditis
+T100	DISEASE 11869 11888	infectious diseases
+T75	DISEASE 11990 12053	IE due to Enterococcus faecalis on mechanical aortic prosthesis
+T92	DISEASE 12152 12221	Mitroaortic abscess with secondary mild-moderate aortic insufficiency
+T77	DISEASE 12232 12263	cortical cerebral microinfarcts
+T101	DISEASE 12268 12305	left renal infarction secondary to IE
+T102	DISEASE 12307 12335	Anaemia in the context of IE
+T103	DISEASE 12337 12365	Traumatic subdural haematoma
+T87	DISEASE 12370 12417	left frontal parenchymal parenchymal contusions
+T70	DISEASE 12436 12458	traumatic brain injury
+T105	DISEASE 12488 12499	hemiparesis
+T78	DISEASE 12504 12537	comical crises in the acute phase
+T79	DISEASE 12539 12553	Paroxysmal AVB
+T104	DISEASE 12555 12602	Urinary tract infection by Citrobacter freundii
+#T32	AnnotatorNotes T32	?abcess

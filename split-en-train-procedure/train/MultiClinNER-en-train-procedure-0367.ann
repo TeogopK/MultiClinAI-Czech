@@ -1,0 +1,26 @@
+T22	PROCEDURE 191 223	treated with various antibiotics
+T1	PROCEDURE 245 265	Physical examination
+T24	PROCEDURE 383 403	complete blood count
+T13	PROCEDURE 437 451	Urine sediment
+T2	PROCEDURE 461 474	Urine culture
+T27	PROCEDURE 485 499	Semen cultures
+T11	PROCEDURE 559 573	Tumour markers
+T3	PROCEDURE 610 628	Urinary ultrasound
+T4	PROCEDURE 638 659	Testicular ultrasound
+T10	PROCEDURE 736 743	Mantoux
+T21	PROCEDURE 797 809	radiological
+T5	PROCEDURE 823 842	radical orchiectomy
+T34	PROCEDURE 865 883	pathological study
+T20	PROCEDURE 938 950	microbiology
+T16	PROCEDURE 966 1035	purulent exudate obtained intraoperatively from the testicular tissue
+T15	PROCEDURE 1037 1071	Auramine staining for mycobacteria
+T6	PROCEDURE 1086 1090	Gram
+T17	PROCEDURE 1265 1311	Genomic amplification (PCR) for M.tuberculosis
+T7	PROCEDURE 1288 1291	PCR
+T18	PROCEDURE 1326 1353	Chlamydia antigen detection
+T37	PROCEDURE 1373 1399	Culture for usual bacteria
+T38	PROCEDURE 1518 1525	culture
+T8	PROCEDURE 1607 1611	Gram
+T19	PROCEDURE 1758 1783	Phenotypic identification
+T12	PROCEDURE 1821 1856	genetic study by 16SrRNA sequencing
+T14	PROCEDURE 1931 1976	Cultures for Nocardia, mycobacteria and fungi

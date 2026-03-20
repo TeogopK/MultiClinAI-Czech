@@ -1,0 +1,10 @@
+T1	DISEASE 48 75	insuficiencia renal crónica
+T3	DISEASE 77 80	IRC
+T4	DISEASE 94 113	artritis reumatoide
+T5	DISEASE 115 117	AR
+T8	DISEASE 222 248	hematuria total anemizante
+T11	DISEASE 869 901	lesiones vesicales macroscópicas
+T16	DISEASE 972 991	Amiloidosis vesical
+T17	DISEASE 503 518	coágulo vesical
+#1	AnnotatorNotes T3	     IRC: insuficiencia renal crónica
+#2	AnnotatorNotes T5	     AR: artritis reumatoide

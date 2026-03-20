@@ -1,0 +1,25 @@
+T28	DISEASE 201 213	hypertensive
+T29	DISEASE 215 224	Arthrosis
+T30	DISEASE 306 319	heart disease
+T37	DISEASE 468 491	acute coronary syndrome
+T31	DISEASE 468 517	acute coronary syndrome with ST-segment elevation
+T32	DISEASE 2169 2192	ventricular hypertrophy
+T33	DISEASE 3397 3420	Tricuspid insufficiency
+T34	DISEASE 3592 3612	pericardial effusion
+T51	DISEASE 4007 4030	Moderate LV dysfunction
+T47	DISEASE 4125 4143	septal hypertrophy
+T35	DISEASE 4185 4227	left ventricular outflow tract obstruction
+T48	DISEASE 4308 4334	MI with mild LA dilatation
+T49	DISEASE 4763 4765	it
+T38	DISEASE 4781 4804	acute coronary syndrome
+T39	DISEASE 4831 4850	allergic to aspirin
+T50	DISEASE 4865 4867	It
+T52	DISEASE 5321 5344	moderate LV dysfunction
+T40	DISEASE 5403 5422	tako-tsubo syndrome
+T42	DISEASE 5728 5741	heart failure
+T43	DISEASE 5863 5890	hypertrophic cardiomyopathy
+T44	DISEASE 6031 6058	hypertrophic cardiomyopathy
+T41	DISEASE 6620 6639	Tako-tsubo syndrome
+T45	DISEASE 6620 6687	Tako-tsubo syndrome with left ventricular outflow tract obstruction
+T36	DISEASE 6645 6687	left ventricular outflow tract obstruction
+T46	DISEASE 6736 6746	septal LVH

@@ -1,0 +1,40 @@
+T38	DISEASE 242 282	bloqueo aurículo-ventricular de 2o grado
+T39	DISEASE 714 725	cardiopatía
+T40	DISEASE 790 826	miocardiopatía dilatada no isquémica
+T41	DISEASE 844 873	disfunción sistólica moderada
+T42	DISEASE 955 1000	taquicardia ventricular monomorfica sostenida
+T43	DISEASE 1002 1006	TVMS
+T44	DISEASE 1219 1234	BAV de 2o grado
+T46	DISEASE 3121 3140	hipertensión venosa
+T47	DISEASE 3564 3649	fibrosis lineal mesoseptal basal con extensión a segmento medio (zona del haz de His)
+T48	DISEASE 3733 3743	neumotórax
+T49	DISEASE 4223 4250	extrasístoles ventriculares
+T50	DISEASE 4699 4707	isquemia
+T51	DISEASE 4801 4815	miocardiopatía
+T52	DISEASE 5080 5092	BAV completo
+T53	DISEASE 5401 5433	miocardiopatía dilatada familiar
+T54	DISEASE 5445 5493	trastornos de la conducción aurículo-ventricular
+T56	DISEASE 6084 6098	episodios TVNS
+T57	DISEASE 6444 6485	bloqueo aurículo- ventricular de 2o grado
+T58	DISEASE 6654 6665	cardiopatía
+T59	DISEASE 7211 7243	Miocardiopatía dilatada familiar
+T60	DISEASE 7248 7277	trastorno de la conducción AV
+T61	DISEASE 7291 7302	laminopatía
+T62	DISEASE 7308 7342	Disfunción sistólica ligera del VI
+T63	DISEASE 7359 7363	TVNS
+T64	DISEASE 1911 1917	BCRDHH
+T65	DISEASE 7114 7151	Bloqueo aurículo-ventricular completo
+T66	DISEASE 1550 1581	Auscultación cardiaca arrítmica
+T67	DISEASE 1802 1839	bloqueo aurículo-ventricular completo
+T68	DISEASE 2586 2606	disfunción sistólica
+T69	DISEASE 3510 3558	dilatación y disfunción sistólica ligeras del VI
+T70	DISEASE 2350 2373	VI ligeramente dilatado
+T71	DISEASE 2430 2451	Dilatación leve de AI
+T72	DISEASE 2967 2974	IT leve
+T73	DISEASE 3178 3223	VI de grosores normales, ligeramente dilatado
+T27	DISEASE 451 493	bebe ocasionalmente algo de vino o cerveza
+T10	DISEASE 1876 1891	EV monomórficos
+T37	DISEASE 4946 4953	bloqueo
+T104	DISEASE 6855 6893	enfermedades del sistema de conducción
+#1	AnnotatorNotes T43	 taquicardia ventricular monoforma sostenida
+#2	AnnotatorNotes T56	 TVNS: taquicardias ventriculares no sostenidas

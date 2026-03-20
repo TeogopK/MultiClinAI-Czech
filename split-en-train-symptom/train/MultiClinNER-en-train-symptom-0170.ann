@@ -1,0 +1,13 @@
+T1	SYMPTOM 115 120	fever
+T11	SYMPTOM 133 148	refusal of food
+T2	SYMPTOM 160 168	vomiting
+T3	SYMPTOM 344 364	pharyngeal hyperemia
+T5	SYMPTOM 428 465	normal erythrocyte sedimentation rate
+T6	SYMPTOM 503 614	normal sodium, potassium, chloride, magnesium, calcium (Ca), phosphorus (P), bilirubin, protein and blood gases
+T7	SYMPTOM 616 661	Blood, urine and stool cultures were negative
+T8	SYMPTOM 668 712	pharyngeal swab isolated Parainfuenzavirus 3
+T20	SYMPTOM 1209 1221	elevated ALP
+T9	SYMPTOM 1277 1330	(GGT, ALP isoenzymes, vitamin D and PTH) being normal
+T21	SYMPTOM 1374 1381	febrile
+T4	SYMPTOM 1665 1677	asymptomatic
+T24	SYMPTOM 1689 1725	strictly normal physical examination

@@ -1,0 +1,21 @@
+T1	SYMPTOM 745 752	diarrea
+T2	SYMPTOM 763 769	fiebre
+T3	SYMPTOM 154 164	colestasis
+T4	SYMPTOM 191 197	T3N1M0
+T5	SYMPTOM 951 964	cuadro febril
+T6	SYMPTOM 1094 1109	dolor abdominal
+T7	SYMPTOM 1114 1121	diarrea
+T8	SYMPTOM 405 418	Epigastralgia
+T9	SYMPTOM 1128 1159	alteraciones del ritmo cardíaco
+T10	SYMPTOM 1206 1238	debilidad de miembros inferiores
+T11	SYMPTOM 1703 1732	cifras disminuidas de 25-OH-D
+T12	SYMPTOM 1959 2015	hemocultivo, urocultivo, y coprocultivo fueron negativos
+T13	SYMPTOM 421 429	diarreas
+T14	SYMPTOM 2006 2055	negativos, al igual que la serología de VIH y CMV
+T15	SYMPTOM 2360 2416	aislamiento de Trichophyton mentagrophytes en el cultivo
+T16	SYMPTOM 2471 2498	Alternaria sp en el cultivo
+A1	RESULTADO T11
+A2	RESULTADO T12
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T16

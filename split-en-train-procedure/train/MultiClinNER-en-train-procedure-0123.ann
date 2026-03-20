@@ -1,0 +1,18 @@
+T1	PROCEDURE 134 154	physical examination
+T9	PROCEDURE 159 175	laboratory tests
+T5	PROCEDURE 197 215	radiological study
+T11	PROCEDURE 255 281	Abdominal thoracic CT scan
+T2	PROCEDURE 333 344	Gastroscopy
+T8	PROCEDURE 346 358	barium enema
+T13	PROCEDURE 360 405	abdominal, testicular and prostate ultrasound
+T14	PROCEDURE 456 505	bone marrow biopsy was taken from the iliac crest
+T3	PROCEDURE 507 539	Microscopically, the bone marrow
+T4	PROCEDURE 899 924	immunohistochemical study
+T7	PROCEDURE 1305 1323	Congo Red staining
+T19	PROCEDURE 1715 1802	small solid thyroid nodule with calcium was found ultrasonographically in the left lobe
+T20	PROCEDURE 1818 1825	removed
+T21	PROCEDURE 1918 1946	chemotherapy (CDDP-ADR-VP16)
+T22	PROCEDURE 1996 2061	Palliative radiotherapy was also given to the dorsal lumbar spine
+T23	PROCEDURE 2115 2138	chemotherapy (CTX-DTIC)
+T6	PROCEDURE 2129 2137	CTX-DTIC
+T24	PROCEDURE 2372 2379	autopsy

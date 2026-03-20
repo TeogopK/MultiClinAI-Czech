@@ -1,0 +1,29 @@
+T20	PROCEDURE 514 524	childbirth
+T19	PROCEDURE 867 912	examination, both neurological and by systems
+T26	PROCEDURE 930 941	blood tests
+T17	PROCEDURE 966 978	biochemistry
+T28	PROCEDURE 983 992	haemogram
+T18	PROCEDURE 996 1008	Biochemistry
+T31	PROCEDURE 1147 1167	complete blood count
+T6	PROCEDURE 1528 1547	T-piece ventilation
+T5	PROCEDURE 1813 1837	Neurological examination
+T38	PROCEDURE 1926 1953	cranial computed tomography
+T1	PROCEDURE 1955 1957	CT
+T12	PROCEDURE 1960 1975	lumbar puncture
+T40	PROCEDURE 1977 1991	urine toxicity
+T13	PROCEDURE 1996 2012	lithium in blood
+T14	PROCEDURE 2086 2106	electroencephalogram
+T2	PROCEDURE 2108 2111	EEG
+T7	PROCEDURE 2202 2282	Cerebrospinal fluid (CSF) serology was obtained for enterovirus and herpes virus
+T8	PROCEDURE 2299 2519	Serology was also obtained for multiple agents such as toxoplasma, rubella, syphilis, herpes simplex 1 and 2, varicella-zoster virus, Mycoplasma, adenovirus, mumps, parvovirus, measles, Coxsackie, ECHO virus and Borrelia
+T9	PROCEDURE 2861 2869	serology
+T11	PROCEDURE 2871 2916	Magnetic resonance imaging (MRI) of the brain
+T21	PROCEDURE 2899 2902	MRI
+T47	PROCEDURE 3154 3195	influenza A antigens in the nasal exudate
+T10	PROCEDURE 3432 3516	serology for cytomegalovirus (CMV), Ebstein-Barr virus (EBV), herpes and influenza A
+T22	PROCEDURE 3540 3556	MRI of the brain
+T15	PROCEDURE 3595 3616	CSF oligoclonal bands
+T16	PROCEDURE 3662 3680	autoimmunity study
+T3	PROCEDURE 3998 4001	EEG
+T55	PROCEDURE 4228 4253	anti-epileptic medication
+T4	PROCEDURE 4293 4296	EEG

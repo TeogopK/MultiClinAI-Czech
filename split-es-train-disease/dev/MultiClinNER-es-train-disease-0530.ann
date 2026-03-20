@@ -1,0 +1,17 @@
+T13	DISEASE 2392 2423	carcinoma microcítico de pulmón
+T16	DISEASE 1596 1619	síndrome paraneoplásico
+T17	DISEASE 1268 1291	neuropatía axonal en OI
+T18	DISEASE 2468 2489	carcinoma microcítico
+T25	DISEASE 1692 1732	hilio derecho, compatible con adenopatía
+T27	DISEASE 255 262	fumador
+T32	DISEASE 311 329	neoplasia pulmonar
+T40	DISEASE 1896 1906	adenopatía
+T43	DISEASE 542 573	vitritis moderada en ambos ojos
+T48	DISEASE 704 713	papilitis
+T50	DISEASE 718 726	vitritis
+T51	DISEASE 2187 2195	neuritis
+T52	DISEASE 2255 2286	carcinoma microcítico de pulmón
+T57	DISEASE 704 736	papilitis con vitritis bilateral
+T8	DISEASE 1187 1197	vasculitis
+T60	DISEASE 29 56	pérdida de visión bilateral
+#1	AnnotatorNotes T17	   OI: ojo izquierdo

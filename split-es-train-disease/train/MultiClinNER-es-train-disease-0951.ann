@@ -1,0 +1,51 @@
+T27	DISEASE 80 89	exfumador
+T28	DISEASE 182 203	hipertensión arterial
+T29	DISEASE 205 208	HTA
+T30	DISEASE 271 281	dislipemia
+T31	DISEASE 288 313	diabetes mellitus tipo II
+T32	DISEASE 315 317	DM
+T33	DISEASE 348 377	cardiopatía isquémica crónica
+T34	DISEASE 390 422	oclusión de descendente anterior
+T35	DISEASE 457 476	ateromatosis difusa
+T36	DISEASE 612 633	artropatía psoriásica
+T37	DISEASE 692 713	infección por gripe A
+T38	DISEASE 716 742	insuficiencia respiratoria
+T39	DISEASE 2069 2121	extrasistolia ventricular frecuente (en bigeminismo)
+T40	DISEASE 2242 2261	bradicardia sinusal
+T41	DISEASE 3899 3926	Insuficiencia mitral ligera
+T42	DISEASE 4043 4087	Válvula aórtica trivalva, esclerocalcificada
+T43	DISEASE 4175 4196	Insuficiencia aórtica
+T44	DISEASE 4473 4500	Insuficiencia pulmonar leve
+T45	DISEASE 4505 4532	estenosis valvular pulmonar
+T46	DISEASE 4595 4640	Válvula tricúspide fina, insuficiencia ligera
+T47	DISEASE 4772 4791	derrame pericárdico
+T48	DISEASE 4822 4896	tronco común izquierdo (TCI) ateromatoso con lesión excéntrica calcificada
+T49	DISEASE 4931 4979	estenosis significativa a nivel distal en TCI-Cx
+T50	DISEASE 5134 5226	Circunfleja (CX) difusamente calcificada, con lesión grave a nivel ostial (TCI-CX) y proxima
+T51	DISEASE 5386 5418	lesiones sangrantes de la mucosa
+T52	DISEASE 5891 5907	angina inestable
+T53	DISEASE 6013 6026	valvulopatías
+T54	DISEASE 6079 6121	oclusión de la descendente anterior ostial
+T55	DISEASE 6137 6212	lesión significativa en el tronco distal afectando al ostium de circunfleja
+T56	DISEASE 6263 6286	anemia ferropénica leve
+T57	DISEASE 6376 6382	anemia
+T58	DISEASE 6478 6501	bigeminismo ventricular
+T59	DISEASE 6542 6565	arritmias ventriculares
+T60	DISEASE 283 285	DL
+T61	DISEASE 550 564	FA paroxística
+T62	DISEASE 63 78	Hábitos tóxicos
+T63	DISEASE 28 51	alergias medicamentosas
+T64	DISEASE 6865 6876	anemización
+T65	DISEASE 2272 2305	extrasistolia ventricular aislada
+T66	DISEASE 3159 3178	necrosis miocárdica
+T67	DISEASE 1484 1491	síncope
+T68	DISEASE 4198 4237	Aurícula izquierda ligeramente dilatada
+T69	DISEASE 4396 4433	Aurícula derecha ligeramente dilatada
+T70	DISEASE 5035 5045	DA ocluida
+T71	DISEASE 5229 5286	Coronaria derecha (CD) dominante con calcificacion difusa
+T72	DISEASE 5515 5531	lesión de TCI-Cx
+T73	DISEASE 5696 5708	lesión de CX
+T15	DISEASE 3720 3779	ventrículo izquierdo no dilatado, ligeramente hipertrofiado
+T186	DISEASE 109 113	fumó
+#1	AnnotatorNotes T60	 DL dislipemia
+#2	AnnotatorNotes T61	 FA fibrilación auricular

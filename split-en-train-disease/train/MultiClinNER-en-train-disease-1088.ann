@@ -1,0 +1,45 @@
+T1	DISEASE 46 79	complete left bundle branch block
+T2	DISEASE 81 85	LBBB
+T35	DISEASE 195 211	long QT syndrome
+T3	DISEASE 213 217	LQTS
+T4	DISEASE 401 414	heart disease
+T39	DISEASE 418 430	sudden death
+T62	DISEASE 470 477	syncope
+T40	DISEASE 506 520	drug allergies
+T41	DISEASE 521 527	Smoker
+T42	DISEASE 568 575	drinker
+T43	DISEASE 577 598	Arterial hypertension
+T44	DISEASE 669 686	diabetes mellitus
+T45	DISEASE 690 703	dyslipidaemia
+T46	DISEASE 718 744	acute bacterial meningitis
+T5	DISEASE 994 998	LBBB
+T63	DISEASE 1130 1137	syncope
+T7	DISEASE 1346 1357	lymph nodes
+T47	DISEASE 1686 1706	deep vein thrombosis
+T48	DISEASE 1708 1711	DVT
+T49	DISEASE 1795 1812	sinus bradycardia
+T8	DISEASE 1871 1875	LBBB
+T9	DISEASE 1997 2072	left ventricle not dilated (DTDVI 42mm), with slight concentric hypertrophy
+T10	DISEASE 2235 2285	Trivalve aortic valve with mild degenerative signs
+T50	DISEASE 2405 2428	tricuspid insufficiency
+T11	DISEASE 2655 2659	LBBB
+T51	DISEASE 2869 2889	pericardial effusion
+T52	DISEASE 2955 2975	myocardial ischaemia
+T13	DISEASE 3022 3026	LBBB
+T53	DISEASE 3187 3210	ventricular arrhythmias
+T54	DISEASE 3466 3491	ventricular extrasystoles
+T16	DISEASE 3903 3907	LBBB
+T56	DISEASE 4135 4152	syncopal episodes
+T17	DISEASE 4304 4351	left ventricle with mild concentric hypertrophy
+T57	DISEASE 4395 4428	degenerative aortic insufficiency
+T59	DISEASE 4553 4562	ischaemia
+T36	DISEASE 4603 4619	long QT syndrome
+T18	DISEASE 4837 4872	baseline QTc and at maximum exercis
+T55	DISEASE 4896 4921	ventricular extrasystoles
+T61	DISEASE 5010 5027	arrhythmic events
+T37	DISEASE 5117 5133	long QT syndrome
+T19	DISEASE 5135 5140	LQTS)
+T21	DISEASE 5376 5380	LQTS
+T38	DISEASE 5516 5532	Long QT syndrome
+T60	DISEASE 5554 5579	Mild aortic insufficiency
+T22	DISEASE 5607 5640	Complete left bundle branch block

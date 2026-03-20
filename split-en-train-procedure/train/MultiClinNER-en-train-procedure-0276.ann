@@ -1,0 +1,20 @@
+T15	PROCEDURE 323 395	upper gastrointestinal fibroendoscopy (oesophagus, stomach and duodenum)
+T14	PROCEDURE 402 439	colonoscopy (up to the splenic angle)
+T1	PROCEDURE 489 509	Physical examination
+T2	PROCEDURE 680 702	pulmonary auscultation
+T3	PROCEDURE 805 872	palpation and percussion of the last three dorsal spinous processes
+T10	PROCEDURE 1245 1257	proteinogram
+T9	PROCEDURE 1259 1280	immunoglobulin dosage
+T11	PROCEDURE 1351 1369	general urinalysis
+T13	PROCEDURE 1490 1518	Mantoux intradermal reaction
+T4	PROCEDURE 1576 1587	Chest X-ray
+T5	PROCEDURE 1799 1818	thoracoabdominal CT
+T30	PROCEDURE 2037 2047	lumbar MRI
+T6	PROCEDURE 2266 2287	serial blood cultures
+T33	PROCEDURE 2323 2362	fine-needle biopsy of the D10-D11 space
+T7	PROCEDURE 2492 2514	Pleural fluid analysis
+T35	PROCEDURE 2749 2830	auramine-rhodamine staining and Löwenstein-Jensen medium culture of pleural fluid
+T8	PROCEDURE 2849 2857	cytology
+T12	PROCEDURE 3176 3194	dorsolumbar corset
+T37	PROCEDURE 3245 3263	antibiotic therapy
+T38	PROCEDURE 3275 3283	chest CT

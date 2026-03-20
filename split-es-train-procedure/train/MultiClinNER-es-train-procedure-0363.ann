@@ -1,0 +1,16 @@
+T1	PROCEDURE 586 604	exploración física
+T2	PROCEDURE 198 220	resección transuretral
+T3	PROCEDURE 625 646	auscultación pulmonar
+T4	PROCEDURE 655 685	puño percusión renal bilateral
+T5	PROCEDURE 292 326	instilaciones endovesicales de BCG
+T6	PROCEDURE 777 786	hemograma
+T7	PROCEDURE 872 883	Urocultivos
+T8	PROCEDURE 886 898	hemocultivos
+T9	PROCEDURE 996 1016	radiografía de tórax
+T10	PROCEDURE 1159 1189	tomografía axial computerizada
+T11	PROCEDURE 1713 1740	tratamiento antituberculoso
+T12	PROCEDURE 1787 1807	instilaciones de BCG
+T13	PROCEDURE 1815 1818	TAC
+T14	PROCEDURE 1191 1194	TAC
+T15	PROCEDURE 921 975	búsqueda de bacilos ácido alcohol resistentes en orina
+#1	AnnotatorNotes T13	     TAC: tomografía axial computerizada

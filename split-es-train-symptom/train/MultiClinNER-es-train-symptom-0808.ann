@@ -1,0 +1,60 @@
+T1	SYMPTOM 619 632	palpitaciones
+T2	SYMPTOM 686 720	taquicardia irregular de QRS ancho
+T3	SYMPTOM 793 806	palpitaciones
+T4	SYMPTOM 829 834	mareo
+T5	SYMPTOM 962 967	mareo
+T8	SYMPTOM 1071 1093	pérdida de consciencia
+T9	SYMPTOM 1178 1191	palpitaciones
+T10	SYMPTOM 1201 1215	dolor torácico
+T11	SYMPTOM 1217 1223	disnea
+T12	SYMPTOM 1275 1288	palpitaciones
+T14	SYMPTOM 1639 1658	buen estado general
+T15	SYMPTOM 1660 1674	normocoloreado
+T16	SYMPTOM 1677 1691	normohidratado
+T17	SYMPTOM 1693 1711	eupneico en reposo
+T18	SYMPTOM 1832 1842	consciente
+T19	SYMPTOM 1845 1854	orientado
+T24	SYMPTOM 1976 1982	soplos
+T25	SYMPTOM 1984 2013	Murmullo vesicular conservado
+T26	SYMPTOM 2015 2018	MVC
+T28	SYMPTOM 2047 2073	Abdomen blando, depresible
+T29	SYMPTOM 2079 2084	masas
+T30	SYMPTOM 2088 2096	megalias
+T31	SYMPTOM 2101 2124	doloroso a la palpación
+T32	SYMPTOM 2139 2160	irritación peritoneal
+T34	SYMPTOM 2430 2454	latidos con QRS estrecho
+T35	SYMPTOM 2470 2483	ritmo sinusal
+T36	SYMPTOM 2529 2548	onda delta positiva
+T37	SYMPTOM 2584 2617	alteraciones de la repolarización
+T38	SYMPTOM 2632 2645	ritmo sinusal
+T39	SYMPTOM 2666 2678	QRS estrecho
+T40	SYMPTOM 2741 2792	índice cardiotorácico (ICT) dentro de la normalidad
+T41	SYMPTOM 3303 3374	ventrículo izquierdo de diámetros y función global sistólica conservada
+T42	SYMPTOM 3514 3564	Ventrículo derecho de tamaño y función conservados
+T43	SYMPTOM 4318 4350	conducción retrógrada excéntrica
+T44	SYMPTOM 4377 4388	taquicardia
+T45	SYMPTOM 4676 4710	taquicardia irregular de QRS ancho
+T46	SYMPTOM 4718 4742	estabilidad hemodinámica
+T47	SYMPTOM 4775 4786	taquicardia
+T48	SYMPTOM 4870 4881	taquicardia
+T49	SYMPTOM 5057 5070	ritmo sinusal
+T50	SYMPTOM 5109 5122	ritmo sinusal
+T51	SYMPTOM 5140 5191	onda delta + en derivaciones inferiores y laterales
+T52	SYMPTOM 5448 5460	asintomático
+T54	SYMPTOM 6113 6125	asintomático
+T129	SYMPTOM 3388 3433	alteraciones de la contractilidad segmentaria
+T151	SYMPTOM 1467 1480	palpitaciones
+T159	SYMPTOM 2312 2346	taquicardia irregular de QRS ancho
+T161	SYMPTOM 4228 4239	taquicardia
+T166	SYMPTOM 1938 1970	ruidos irregulares taquicárdicos
+T7	SYMPTOM 3647 3672	Vena cava inferior normal
+T13	SYMPTOM 6309 6368	Fracción de eyección del ventrículo izquierdo (FEVI) normal
+T173	SYMPTOM 2162 2193	Miembros inferiores: sin edemas
+T178	SYMPTOM 1856 1862	alerta
+T183	SYMPTOM 1864 1875	colaborador
+T184	SYMPTOM 2797 2811	condensaciones
+T194	SYMPTOM 6028 6041	preexcitación
+T195	SYMPTOM 6143 6156	preexcitación
+T196	SYMPTOM 2025 2045	ruidos sobreañadidos
+T6	SYMPTOM 2683 2716	alteraciones de la repolarización
+T23	SYMPTOM 5127 5135	PR corto

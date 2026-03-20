@@ -1,0 +1,17 @@
+T26	PROCEDURE 149 163	echocardiogram
+T27	PROCEDURE 184 198	echocardiogram
+T38	PROCEDURE 226 230	diet
+T30	PROCEDURE 297 314	uterine curettage
+T31	PROCEDURE 445 456	colonoscopy
+T2	PROCEDURE 763 766	CBC
+T32	PROCEDURE 1104 1121	Electrocardiogram
+T33	PROCEDURE 1295 1306	Chest X-ray
+T28	PROCEDURE 1373 1387	Echocardiogram
+T34	PROCEDURE 1572 1579	Doppler
+T29	PROCEDURE 1791 1805	echocardiogram
+T35	PROCEDURE 1909 1929	coronary angiography
+T36	PROCEDURE 2021 2055	cardiac magnetic resonance imaging
+T6	PROCEDURE 2305 2334	dynamic study with gadolinium
+T39	PROCEDURE 2443 2481	elective surgery by transseptal access
+T37	PROCEDURE 2552 2580	complete resection of myxoma
+T40	PROCEDURE 2585 2651	performed, closing the septum with an autologous pericardium patch

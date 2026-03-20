@@ -1,0 +1,24 @@
+T1	SYMPTOM 1085 1100	dolor abdominal
+T2	SYMPTOM 1105 1112	náuseas
+T3	SYMPTOM 1114 1121	vómitos
+T4	SYMPTOM 1137 1148	rectorragia
+T5	SYMPTOM 1589 1608	tumoración en ciego
+T6	SYMPTOM 1193 1258	masa polilobulada de aspecto neoplásico en colon ascendente-ciego
+T7	SYMPTOM 319 325	disnea
+T8	SYMPTOM 355 358	tos
+T9	SYMPTOM 360 370	hemoptisis
+T10	SYMPTOM 373 389	síndrome general
+T11	SYMPTOM 1338 1388	imagen en "donuts" a nivel de íleon terminal-ciego
+T12	SYMPTOM 404 433	analítica de sangre es normal
+T13	SYMPTOM 2155 2166	falleciendo
+T14	SYMPTOM 503 518	masa parahiliar
+T15	SYMPTOM 613 623	tumoración
+T16	SYMPTOM 784 849	gastroscopia, colonoscopia y TAC abdominopélvico que fue negativo
+T18	SYMPTOM 1279 1318	dilatación de asas de intestino delgado
+A1	RESULTADO T6
+A2	IMAGEN T11
+A3	RESULTADO T12
+A4	EXITUS T13
+A5	IMAGEN T14
+A6	RESULTADO T16
+A7	IMAGEN T18

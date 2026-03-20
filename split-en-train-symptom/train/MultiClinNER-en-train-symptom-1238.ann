@@ -1,0 +1,35 @@
+T1	SYMPTOM 145 165	cognitive impairment
+T2	SYMPTOM 805 824	exertional dyspnoea
+T3	SYMPTOM 840 850	orthopnoea
+T4	SYMPTOM 862 870	anorexia
+T5	SYMPTOM 872 880	asthenia
+T6	SYMPTOM 885 894	dizziness
+T7	SYMPTOM 957 962	fever
+T8	SYMPTOM 984 996	palpitations
+T9	SYMPTOM 1233 1262	Rhythmic cardiac auscultation
+T10	SYMPTOM 1271 1278	murmurs
+T11	SYMPTOM 1489 1501	sinus rhythm
+T12	SYMPTOM 3624 3636	sinus rhythm
+T13	SYMPTOM 1513 1522	normal PR
+T14	SYMPTOM 3652 3661	normal PR
+T15	SYMPTOM 1693 1723	bilateral perihilar thickening
+T16	SYMPTOM 1729 1752	vascular redistribution
+T17	SYMPTOM 2443 2466	Non-dilated left atrium
+T18	SYMPTOM 2491 2510	Normal mitral valve
+T19	SYMPTOM 4547 4579	electrocardiographic alterations
+T20	SYMPTOM 4806 4838	preserved biventricular function
+T21	SYMPTOM 5708 5732	normal ECG and troponins
+T22	SYMPTOM 1125 1146	jugular ingurgitation
+T24	SYMPTOM 4900 4906	oedema
+T25	SYMPTOM 2338 2392	hypokinesia of basal and medial inferolateral segments
+T26	SYMPTOM 3406 3438	CD68 positive and HLA-1 positive
+T27	SYMPTOM 3496 3508	CD3 negative
+T28	SYMPTOM 1168 1188	eupneic in decubitus
+T29	SYMPTOM 1336 1363	moist crackles in the bases
+T23	SYMPTOM 1365 1402	Oedema with bilateral pretibial fovea
+T30	SYMPTOM 1657 1691	cardiothoracic index not increased
+T31	SYMPTOM 2267 2332	left ventricle neither dilated nor hypertrophic, normofunctioning
+T32	SYMPTOM 2468 2489	Normal right chambers
+T33	SYMPTOM 2707 2733	Inferior cava not dilated,
+T34	SYMPTOM 2788 2857	left ventricle of normal size, with slightly increased wall thickness
+T35	SYMPTOM 3666 3692	normopositioned narrow QRS

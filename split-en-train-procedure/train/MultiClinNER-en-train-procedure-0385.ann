@@ -1,0 +1,12 @@
+T8	PROCEDURE 241 248	surgery
+T3	PROCEDURE 254 278	partial tumour resection
+T7	PROCEDURE 298 320	chemotherapy treatment
+T9	PROCEDURE 494 524	K-ras gene was even determined
+T11	PROCEDURE 740 772	drainage in the abdominal cavity
+T12	PROCEDURE 831 838	surgery
+T4	PROCEDURE 961 989	ophthalmological examination
+T14	PROCEDURE 1228 1365	Cranial and orbital magnetic resonance imaging (MRI) was requested, with T1-weighted images and axial diffusion-weighted and FLAIR images
+T1	PROCEDURE 1276 1279	MRI
+T2	PROCEDURE 1752 1775	palliative radiotherapy
+T5	PROCEDURE 1929 1943	corticotherapy
+T6	PROCEDURE 2005 2024	palliative sedation

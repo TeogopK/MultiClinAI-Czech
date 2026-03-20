@@ -1,0 +1,26 @@
+T57	PROCEDURE 276 302	tratamiento inmunosupresor
+T58	PROCEDURE 326 351	trasplante de médula ósea
+T59	PROCEDURE 647 658	transfusión
+T60	PROCEDURE 805 823	Exploración física
+T61	PROCEDURE 978 999	Auscultación cardiaca
+T62	PROCEDURE 1067 1088	Auscultación pulmonar
+T63	PROCEDURE 1128 1141	PPR bilateral
+T64	PROCEDURE 1683 1695	Hemocultivos
+T65	PROCEDURE 1766 1786	Radiografía de tórax
+T66	PROCEDURE 1823 1837	Ecocardiograma
+T67	PROCEDURE 2833 2862	Ecocardiograma transesofágico
+T68	PROCEDURE 2900 2903	ETT
+T69	PROCEDURE 3514 3556	tratamiento antibiótico de amplio espectro
+T70	PROCEDURE 3559 3622	transfusión de productos irradiados (2 CH y 1 pool de plaquetas
+T71	PROCEDURE 3718 3746	ecocardiograma transtorácico
+T72	PROCEDURE 3834 3837	ETE
+T73	PROCEDURE 3849 3891	tratamiento antibiótico de amplio espectro
+T74	PROCEDURE 3982 3996	antibioterapia
+T75	PROCEDURE 4050 4076	tratamiento inmunosupresor
+T77	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T78	PROCEDURE 156 179	tratamiento psicológico
+T79	PROCEDURE 1229 1253	palpación del epigastrio
+T82	PROCEDURE 1400 1409	Analítica
+T97	PROCEDURE 3605 3622	pool de plaquetas
+T99	PROCEDURE 1046 1058	se auscultan
+T20	PROCEDURE 3598 3600	CH

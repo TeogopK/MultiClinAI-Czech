@@ -1,0 +1,29 @@
+T56	PROCEDURE 225 243	exploración física
+T57	PROCEDURE 604 622	Exploración física
+T58	PROCEDURE 1077 1090	examen físico
+T59	PROCEDURE 1276 1294	Analítica de orina
+T60	PROCEDURE 1324 1336	Hemocultivos
+T61	PROCEDURE 1340 1351	Rx de tórax
+T62	PROCEDURE 1363 1382	Ecografía abdominal
+T63	PROCEDURE 1394 1406	TAC cerebral
+T64	PROCEDURE 1545 1561	relleno vascular
+T65	PROCEDURE 1740 1758	soporte inotrópico
+T66	PROCEDURE 1771 1799	ecocardiograma transtorácico
+T67	PROCEDURE 2009 2038	ventilación mecánica invasiva
+T68	PROCEDURE 2143 2172	ecocardiograma transesofágico
+T69	PROCEDURE 2519 2531	hemocultivos
+T70	PROCEDURE 2861 2891	reseca la verruga y la válvula
+T71	PROCEDURE 2881 2932	la válvula y se sustituye por una prótesis mecánica
+T72	PROCEDURE 2987 3005	soporte inotrópico
+T73	PROCEDURE 385 391	ARA II
+T79	PROCEDURE 733 735	AC
+T80	PROCEDURE 805 807	AP
+T81	PROCEDURE 2586 2602	Cirugía Cardiaca
+T82	PROCEDURE 3007 3011	BCIA
+T89	PROCEDURE 3104 3107	IQx
+T93	PROCEDURE 2615 2622	cirugía
+T26	PROCEDURE 918 931	Osteomuscular
+T30	PROCEDURE 1127 1136	Analítica
+#1	AnnotatorNotes T79	 auscultación cardíaca
+#2	AnnotatorNotes T80	 auscultación pulmonar
+#3	AnnotatorNotes T82	 Balón de Contrapulsación Intraaórtico

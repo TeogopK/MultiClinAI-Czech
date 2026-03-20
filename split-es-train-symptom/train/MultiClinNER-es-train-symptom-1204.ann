@@ -1,0 +1,30 @@
+T2	SYMPTOM 485 519	alteraciones electrocardiográficas
+T3	SYMPTOM 576 589	palpitaciones
+T4	SYMPTOM 726 740	dolor torácico
+T5	SYMPTOM 743 749	disnea
+T6	SYMPTOM 798 817	Buen estado general
+T7	SYMPTOM 848 878	Auscultación cardiaca: rítmica
+T8	SYMPTOM 880 917	desdoblamiento fijo del segundo ruido
+T9	SYMPTOM 923 929	soplos
+T10	SYMPTOM 933 943	extratonos
+T11	SYMPTOM 969 998	murmullo vesicular conservado
+T12	SYMPTOM 1003 1013	estertores
+T13	SYMPTOM 1015 1043	Abdomen: blando y depresible
+T14	SYMPTOM 1048 1071	doloroso a la palpación
+T15	SYMPTOM 1076 1081	masas
+T16	SYMPTOM 1085 1099	organomegalias
+T17	SYMPTOM 1101 1132	Miembros inferiores: sin edemas
+T18	SYMPTOM 1134 1158	Pulsos pedios simétricos
+T19	SYMPTOM 1190 1203	ritmo sinusal
+T20	SYMPTOM 1353 1384	ascenso convexo del segmento ST
+T21	SYMPTOM 1387 1425	inversión de la onda T en precordiales
+T22	SYMPTOM 1876 1904	índice cardiotorácico normal
+T23	SYMPTOM 1910 1932	infiltrados pulmonares
+T26	SYMPTOM 2448 2501	función sistólica biventricular ligeramente deprimida
+T27	SYMPTOM 3718 3726	falleció
+T28	SYMPTOM 3744 3750	muerte
+T73	SYMPTOM 2104 2149	alteraciones de la contractilidad segmentaria
+T71	SYMPTOM 1962 1979	mediastino normal
+T102	SYMPTOM 1934 1960	senos costofrénicos libres
+T24	SYMPTOM 2231 2257	VD de dimensiones normales
+T25	SYMPTOM 2814 2924	pruebas serológicas para detectar anticuerpos circulantes contra Trypanosoma cruzi: ambas resultaron positivas

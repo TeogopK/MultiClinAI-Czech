@@ -1,0 +1,64 @@
+T1	SYMPTOM 106 116	chest pain
+T2	SYMPTOM 800 810	chest pain
+T3	SYMPTOM 381 406	Solitary pulmonary nodule
+T4	SYMPTOM 902 916	preserved LVEF
+T5	SYMPTOM 1401 1415	preserved LVEF
+T6	SYMPTOM 1065 1085	ST-segment elevation
+T7	SYMPTOM 4286 4306	ST-segment elevation
+T9	SYMPTOM 2662 2700	oppressive central thoracic discomfort
+T10	SYMPTOM 2809 2858	sudden onset pain, radiating to the back and neck
+T11	SYMPTOM 2884 2892	vomiting
+T12	SYMPTOM 2896 2916	macroscopic bleeding
+T18	SYMPTOM 2975 2979	pain
+T19	SYMPTOM 3009 3029	arterial hypotension
+T20	SYMPTOM 3031 3041	tachypnoea
+T21	SYMPTOM 3046 3067	poor distal perfusion
+T22	SYMPTOM 3759 3780	poor distal perfusion
+T24	SYMPTOM 3100 3129	diffuse ST-segment depression
+T25	SYMPTOM 4224 4253	diffuse ST-segment depression
+T26	SYMPTOM 3136 3152	elevation in aVR
+T27	SYMPTOM 3703 3711	afebrile
+T28	SYMPTOM 9696 9704	afebrile
+T29	SYMPTOM 3713 3722	Conscious
+T30	SYMPTOM 3727 3735	oriented
+T31	SYMPTOM 3737 3757	Mucocutaneous pallor
+T32	SYMPTOM 3846 3861	audible murmurs
+T33	SYMPTOM 3891 3919	bilateral pulmonary crackles
+T34	SYMPTOM 4063 4069	oedema
+T35	SYMPTOM 4172 4184	sinus rhythm
+T36	SYMPTOM 8815 8827	sinus rhythm
+T37	SYMPTOM 4196 4205	normal PR
+T38	SYMPTOM 4627 4654	increased perihilar density
+T39	SYMPTOM 5038 5050	neutrophilia
+T40	SYMPTOM 5053 5080	Coagulation in normal range
+T41	SYMPTOM 5315 5343	SARS-CoV2 serology: negative
+T42	SYMPTOM 5548 5580	growth of Haemophilus influenzae
+T44	SYMPTOM 8063 8074	hypotension
+T45	SYMPTOM 9170 9186	congestive signs
+T46	SYMPTOM 9325 9341	congestive signs
+T47	SYMPTOM 9839 9874	normal procalcitonin and leukocytes
+T48	SYMPTOM 10090 10095	cough
+T49	SYMPTOM 10100 10113	expectoration
+T51	SYMPTOM 3535 3543	bleeding
+T52	SYMPTOM 7757 7765	bleeding
+T55	SYMPTOM 11304 11312	bleeding
+T56	SYMPTOM 11844 11852	bleeding
+T57	SYMPTOM 9953 9967	isolating MRSA
+T15	SYMPTOM 844 900	Transthoracic echocardiogram (TTE) with no abnormalities
+T58	SYMPTOM 2387 2413	Higher functions preserved
+T17	SYMPTOM 2876 2882	melena
+T43	SYMPTOM 3782 3792	tachypneic
+T50	SYMPTOM 3812 3841	Cardiac auscultation rhythmic
+T60	SYMPTOM 3937 3977	Abdomen: soft, depressible, non-painful.
+T61	SYMPTOM 3987 4030	lividity in the lower extremities and hands
+T62	SYMPTOM 4044 4058	paedial pulses
+T63	SYMPTOM 4574 4598	Q waves in inferior face
+T8	SYMPTOM 5411 5442	methicillin-resistant S. aureus
+T64	SYMPTOM 5482 5541	Gram-negative coccobacilli colonies were isolated in sputum
+T65	SYMPTOM 5582 5632	Sacral ulcer culture isolated gram-positive cocci,
+T66	SYMPTOM 5770 5823	Moderately to severely depressed LV systolic function
+T67	SYMPTOM 5842 5917	akinesia of the apex, mid-apical anterior septum, lateral and anterior face
+T68	SYMPTOM 5962 5985	Aortic root not dilated
+T23	SYMPTOM 9767 9788	serology for COVID-19
+T69	SYMPTOM 10061 10068	febrile
+T14	SYMPTOM 10736 10744	bleeding

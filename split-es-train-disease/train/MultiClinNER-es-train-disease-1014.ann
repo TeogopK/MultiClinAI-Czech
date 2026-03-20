@@ -1,0 +1,47 @@
+T20	DISEASE 1817 1871	ventrículo izquierdo de dimensiones internas reducidas
+T55	DISEASE 151 167	diabética tipo 2
+T56	DISEASE 254 265	cardiopatía
+T57	DISEASE 268 278	neumopatía
+T58	DISEASE 1662 1675	cardiomegalia
+T59	DISEASE 2069 2096	miocardiopatía infiltrativa
+T60	DISEASE 2294 2319	Insuficiencia mitral leve
+T61	DISEASE 2321 2351	insuficiencia tricuspídea leve
+T62	DISEASE 2546 2572	Derrame pericárdico global
+T63	DISEASE 2697 2732	Colapso parcial de aurícula derecha
+T64	DISEASE 2767 2794	miocardiopatía infiltrativa
+T65	DISEASE 2817 2843	Derrame pericárdico severo
+T66	DISEASE 2845 2882	Hipertensión pulmonar moderada-severa
+T67	DISEASE 3038 3075	hipertrofia concéntrica biventricular
+T68	DISEASE 3209 3228	Derrame pericárdico
+T69	DISEASE 3615 3642	miocardiopatía infiltrativa
+T70	DISEASE 3659 3679	cardiopatía amiloide
+T71	DISEASE 4528 4569	mieloma secretor de cadenas ligeras Kappa
+T72	DISEASE 5129 5155	lesiones líticas en cráneo
+T73	DISEASE 5936 5947	amiloidosis
+T74	DISEASE 6238 6274	insuficiencia cardiaca descompensada
+T75	DISEASE 6505 6532	miocardiopatía infiltrativa
+T76	DISEASE 6624 6646	insuficiencia cardiaca
+T77	DISEASE 6668 6695	miocardiopatía infiltrativa
+T78	DISEASE 6735 6759	síndrome coronario agudo
+T79	DISEASE 7408 7434	parada cardiorrespiratoria
+T80	DISEASE 7453 7476	taquicardia ventricular
+T81	DISEASE 7493 7516	fibrilación ventricular
+T82	DISEASE 7649 7651	FV
+T83	DISEASE 7758 7811	mieloma múltiple de cadenas ligeras Kappa BJ K+ ISS:1
+T84	DISEASE 7851 7853	AL
+T85	DISEASE 8028 8050	insuficiencia cardiaca
+T86	DISEASE 7621 7623	TV
+T87	DISEASE 118 148	reacciones adversas a fármacos
+T88	DISEASE 2147 2193	Ventrículo derecho no dilatado con hipertrofia
+T89	DISEASE 2230 2257	Aurícula izquierda dilatada
+T91	DISEASE 3184 3207	Dilatación severa de IA
+T92	DISEASE 7136 7145	arrítmica
+T93	DISEASE 7829 7878	amiloidosis primaria (AL) con afectación cardiaca
+T21	DISEASE 2396 2433	Válvula aórtica ligeramente engrosada
+T149	DISEASE 2796 2799	HVI
+T150	DISEASE 1873 1896	Hipertrofia concéntrica
+T29	DISEASE 2907 2928	ritmo de escape nodal
+#1	AnnotatorNotes T82	 FV fibrilación ventricular
+#2	AnnotatorNotes T84	 AL Amiloidosis primaria
+#3	AnnotatorNotes T86	 TV taquicardia ventricular
+#4	AnnotatorNotes T91	 IAo insuficiencia aórtica

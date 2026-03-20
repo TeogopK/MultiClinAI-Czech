@@ -1,0 +1,25 @@
+T1	PROCEDURE 112 129	oral antidiabetic
+T20	PROCEDURE 345 363	vasoactive support
+T21	PROCEDURE 368 403	non-invasive mechanical ventilation
+T29	PROCEDURE 587 658	implantation of a single-chamber implantable cardioverter defibrillator
+T22	PROCEDURE 705 719	echocardiogram
+T3	PROCEDURE 990 1081	implant a 29 mm Edwards SapienTM transcatheter aortic prosthesis via the transfemoral route
+T4	PROCEDURE 1125 1167	percutaneous treatment of the mitral valve
+T23	PROCEDURE 1231 1245	echocardiogram
+T24	PROCEDURE 1395 1409	echocardiogram
+T35	PROCEDURE 1852 1882	Pacemaker pacing was increased
+T36	PROCEDURE 1921 1935	blood cultures
+T30	PROCEDURE 2058 2079	acute phase reactants
+T37	PROCEDURE 2099 2116	TAVI implantation
+T25	PROCEDURE 2161 2191	transesophageal echocardiogram
+T26	PROCEDURE 2211 2225	echocardiogram
+T34	PROCEDURE 2414 2424	TAVI stent
+T27	PROCEDURE 2711 2731	Antibiotic treatment
+T32	PROCEDURE 2895 2902	surgery
+T33	PROCEDURE 2923 2930	surgery
+T40	PROCEDURE 3022 3040	TAVI was explanted
+T41	PROCEDURE 3048 3125	aortic valve replacement with a 25 mm Magna Ease biological aortic prosthesis
+T42	PROCEDURE 3156 3226	mitral valve replacement with a 25 mm Magna Ease biological prosthesis
+T31	PROCEDURE 3243 3312	The explanted prosthesis was analysed microscopically with Gram stain
+T43	PROCEDURE 3371 3397	cultures on the prosthesis
+T28	PROCEDURE 3612 3632	antibiotic treatment

@@ -1,0 +1,47 @@
+T24	DISEASE 58 81	acute coronary syndrome
+T60	DISEASE 197 209	toxic habits
+T56	DISEASE 213 227	drug allergies
+T1	DISEASE 251 263	hypertension
+T2	DISEASE 285 321	Moderate severe aortic insufficiency
+T3	DISEASE 374 395	First degree AV block
+T26	DISEASE 562 581	bronchial infection
+T27	DISEASE 860 871	bacteraemia
+T28	DISEASE 911 936	pulmonary thromboembolism
+T29	DISEASE 941 967	discordant aortic aneurysm
+T25	DISEASE 1169 1192	acute coronary syndrome
+T30	DISEASE 1428 1448	deep vein thrombosis
+T6	DISEASE 1695 1704	meningism
+T31	DISEASE 2225 2262	intra-ventricular conduction disorder
+T58	DISEASE 2396 2408	cardiomegaly
+T32	DISEASE 2437 2450	heart failure
+T8	DISEASE 2793 2838	vegetation 10 mm in the bicuspid aortic valve
+T52	DISEASE 2840 2867	Severe aortic insufficiency
+T36	DISEASE 2876 2960	mitral valve, perforation of the anterior leaflet with moderate-severe insufficiency
+T37	DISEASE 3050 3073	tricuspid insufficiency
+T38	DISEASE 3075 3106	Moderate pulmonary hypertension
+T33	DISEASE 3197 3210	heart failure
+T39	DISEASE 3291 3303	endocarditis
+T34	DISEASE 3319 3332	heart failure
+T41	DISEASE 3334 3350	valvular rupture
+T9	DISEASE 3364 3393	abscess in the aortic annulus
+T10	DISEASE 3590 3629	intraventricular conduction disturbance
+T42	DISEASE 3730 3766	abscess at the mitro-aortic junction
+T43	DISEASE 3960 3976	coronary lesions
+T13	DISEASE 3995 4013	LVOT-to-AD fistula
+T14	DISEASE 4046 4192	vegetations in the right coronary and non-coronary leaflets of the aortic valve, with extension to the anterior mitral leaflet of the mitral valve
+T57	DISEASE 4558 4580	atrioventricular block
+T17	DISEASE 4582 4585	AVB
+T44	DISEASE 4708 4740	pleural and pericardial effusion
+T46	DISEASE 4854 4874	pericardial effusion
+T47	DISEASE 5274 5294	pericardial effusion
+T48	DISEASE 5658 5678	pericardial effusion
+T59	DISEASE 5847 5858	hypotension
+T49	DISEASE 5977 5997	pericardial effusion
+T45	DISEASE 6054 6090	haematoma with compression of the RV
+T50	DISEASE 6343 6368	Aortic valve endocarditis
+T53	DISEASE 6416 6443	Severe aortic insufficiency
+T40	DISEASE 6446 6516	Mitral insufficiency due to perforation of the anterior mitral leaflet
+T54	DISEASE 6519 6542	Secondary heart failure
+T55	DISEASE 6545 6563	Periaortic abscess
+T35	DISEASE 6566 6637	Complete atrioventricular atrial ventricular block secondary to abscess
+T51	DISEASE 6640 6714	Left ventricular outflow tract fistula to left atrium secondary to abscess

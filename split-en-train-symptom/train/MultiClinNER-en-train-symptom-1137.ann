@@ -1,0 +1,45 @@
+T1	SYMPTOM 101 109	dyspnoea
+T2	SYMPTOM 723 731	dyspnoea
+T3	SYMPTOM 3451 3459	dyspnoea
+T5	SYMPTOM 1787 1797	chest pain
+T6	SYMPTOM 3552 3562	orthopnoea
+T7	SYMPTOM 3564 3593	paroxysmal nocturnal dyspnoea
+T8	SYMPTOM 3658 3689	subjective decrease in diuresis
+T9	SYMPTOM 3705 3717	palpitations
+T10	SYMPTOM 3746 3755	dizziness
+T11	SYMPTOM 3899 3928	positive hepatojugular reflux
+T12	SYMPTOM 4041 4064	Arrhythmic heart sounds
+T13	SYMPTOM 4099 4106	murmurs
+T14	SYMPTOM 4245 4251	masses
+T15	SYMPTOM 4255 4264	megaliths
+T16	SYMPTOM 4931 4957	Bilateral hilar thickening
+T17	SYMPTOM 4959 5007	Alveolar-interstitial oedema in both lung fields
+T18	SYMPTOM 5092 5104	sinus rhythm
+T19	SYMPTOM 8517 8529	sinus rhythm
+T20	SYMPTOM 5508 5544	severely depressed systolic function
+T21	SYMPTOM 5574 5597	generalised hypokinesia
+T22	SYMPTOM 5657 5700	Right ventricle of normal size and function
+T23	SYMPTOM 6132 6150	global hypokinesia
+T24	SYMPTOM 6233 6278	Perfusion study without pathological findings
+T26	SYMPTOM 6783 6809	bilateral hilar congestion
+T27	SYMPTOM 9125 9150	reduced ejection fraction
+T28	SYMPTOM 3759 3766	syncope
+T29	SYMPTOM 3598 3608	bendopnoea
+T30	SYMPTOM 5009 5049	Bilateral costophrenic sinus impingement
+T31	SYMPTOM 5607 5644	segmental contractility abnormalities
+T4	SYMPTOM 3790 3803	Normoperfused
+T32	SYMPTOM 3805 3854	Tachypnoea at rest, with use of accessory muscles
+T33	SYMPTOM 3856 3892	Elevation of jugular venous pressure
+T34	SYMPTOM 4108 4143	Pulmonary crackles up to midfields.
+T35	SYMPTOM 4144 4195	Perimalleolar oedema with fovea in both lower limbs
+T36	SYMPTOM 4197 4235	Abdomen soft, depressible, non-painful
+T37	SYMPTOM 4271 4298	hydro-aerial sounds present
+T38	SYMPTOM 4642 4668	liver function tests norma
+T39	SYMPTOM 4794 4817	thyroid hormones normal
+T40	SYMPTOM 4899 4929	increased cardiothoracic index
+T41	SYMPTOM 5051 5071	Fluid in the fissure
+T42	SYMPTOM 6072 6113	severe deterioration of systolic function
+T25	SYMPTOM 6401 6507	Right ventricle of normal size and morphology, without abnormalities in global and segmental contractility
+T43	SYMPTOM 6152 6200	Abnormal movement of the interventricular septum
+T44	SYMPTOM 6606 6636	increased cardiothoracic index
+T45	SYMPTOM 6509 6528	Dilated left atrium

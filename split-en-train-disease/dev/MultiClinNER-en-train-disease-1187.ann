@@ -1,0 +1,42 @@
+T20	DISEASE 68 82	drug allergies
+T21	DISEASE 132 146	Obesity type 1
+T51	DISEASE 148 160	Toxic habits
+T22	DISEASE 162 171	ex-smoker
+T23	DISEASE 204 227	ischaemic heart disease
+T27	DISEASE 285 292	drinker
+T6	DISEASE 297 335	non-consumer of other toxic substances
+T28	DISEASE 337 368	Chronic ischaemic heart disease
+T7	DISEASE 393 467	acute myocardial infarction with ST-segment elevation (STEMI) anteroseptal
+T8	DISEASE 596 646	chronic occlusion of distal circumflex artery (ACx
+T30	DISEASE 681 716	very severe ventricular dysfunction
+T40	DISEASE 823 845	advanced heart failure
+T9	DISEASE 999 1098	Peripheral artery disease with 70% stenosis in the left common iliac artery due to calcified plaque
+T38	DISEASE 1114 1145	Left kidney with abundant cysts
+T39	DISEASE 1562 1626	ischaemic heart disease in dilated phase with two-vessel disease
+T10	DISEASE 1676 1760	occluded ACx at distal level) with very severe residual left ventricular dysfunction
+T41	DISEASE 1785 1807	advanced heart failure
+T43	DISEASE 2385 2400	iron deficiency
+T33	DISEASE 2981 2994	heart failure
+T45	DISEASE 3256 3276	deep vein thrombosis
+T46	DISEASE 3278 3281	DVT
+T11	DISEASE 3468 3501	complete left bundle branch block
+T12	DISEASE 3503 3507	LBBB
+T47	DISEASE 3513 3547	secondary repolarisation disorders
+T13	DISEASE 4412 4432	pulmonary congestion
+T54	DISEASE 4565 4593	slightly dilated left atrium
+T55	DISEASE 4854 4885	Severely dilated left ventricle
+T52	DISEASE 5190 5192	IP
+T14	DISEASE 5233 5241	effusion
+T15	DISEASE 5256 5325	dilated cardiomyopathy with severe left ventricular dysfunction (LVD)
+T16	DISEASE 5330 5366	mild functional mitral regurgitation
+T17	DISEASE 5368 5370	MR
+T18	DISEASE 6119 6130	Isolated EV
+T53	DISEASE 6554 6585	decompensation of heart failure
+T35	DISEASE 6661 6674	heart failure
+T19	DISEASE 6928 6940	iron deficit
+T48	DISEASE 6984 6991	anaemia
+T24	DISEASE 7178 7191	heart failure
+T49	DISEASE 7337 7358	chronic heart failure
+T50	DISEASE 7360 7390	Severe LV systolic dysfunction
+T29	DISEASE 7409 7440	chronic ischaemic heart disease
+T44	DISEASE 7555 7570	Iron deficiency

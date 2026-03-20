@@ -1,0 +1,23 @@
+T1	SYMPTOM 165 176	proteinuria
+T2	SYMPTOM 366 395	deterioro de la función renal
+T3	SYMPTOM 444 455	proteinuria
+T4	SYMPTOM 649 655	edemas
+T5	SYMPTOM 658 676	disnea de esfuerzo
+T6	SYMPTOM 2618 2623	edema
+T7	SYMPTOM 2629 2646	dolor neuropático
+T8	SYMPTOM 3255 3273	disnea de esfuerzo
+T9	SYMPTOM 828 839	proteinuria
+T10	SYMPTOM 255 290	mala diferenciación córtico-medular
+T11	SYMPTOM 2064 2174	homocigoto para una nueva mutación c.1182del (delección de un solo nucleótido) en el exón 7 del gen alfa-GLA A
+T12	SYMPTOM 3030 3041	proteinuria
+T13	SYMPTOM 1102 1138	prueba de sudor que no recogió sudor
+T14	SYMPTOM 2857 2861	vivo
+T16	SYMPTOM 2946 2967	función renal estable
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T9
+A5	IMAGEN T10
+A6	RESULTADO T11
+A7	RESULTADO T12
+A8	RESULTADO T13

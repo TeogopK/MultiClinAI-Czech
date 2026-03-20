@@ -1,0 +1,35 @@
+T53	DISEASE 81 104	alergias medicamentosas
+T54	DISEASE 223 244	hipertensión arterial
+T55	DISEASE 246 249	HTA
+T56	DISEASE 253 263	dislipemia
+T57	DISEASE 268 292	diabetes mellitus tipo 2
+T58	DISEASE 294 297	DM2
+T59	DISEASE 300 326	Síndrome ansioso-depresivo
+T60	DISEASE 353 378	hernia inguinal izquierda
+T61	DISEASE 381 392	apendicitis
+T62	DISEASE 421 442	cardiopatía isquémica
+T63	DISEASE 1059 1093	cuadros infecciosos intercurrentes
+T64	DISEASE 1118 1140	insuficiencia cardiaca
+T65	DISEASE 2033 2041	isquemia
+T67	DISEASE 2184 2238	síndrome coronario agudo sin elevación del segmento ST
+T68	DISEASE 2240 2247	SCASEST
+T69	DISEASE 2845 2870	trombosis venosa profunda
+T70	DISEASE 3240 3250	neumotórax
+T71	DISEASE 4069 4088	derrame pericárdico
+T72	DISEASE 4107 4120	valvulopatías
+T73	DISEASE 4952 4971	derrame pericárdico
+T74	DISEASE 5004 5025	hipertensión pulmonar
+T75	DISEASE 5027 5029	HP
+T76	DISEASE 5069 5129	Arteria coronaria derecha (ACD) ectásica con estenosis grave
+T77	DISEASE 5297 5376	Ateromatosis ligera de arteria descendente anterior (ADA) y arteria circunfleja
+T78	DISEASE 6117 6138	cardiopatía isquémica
+T79	DISEASE 6171 6187	hábito tabáquico
+T80	DISEASE 6635 6676	SCASEST tipo elevación transitoria del ST
+T81	DISEASE 6796 6799	HTA
+T82	DISEASE 6802 6812	dislipemia
+T83	DISEASE 6814 6821	Fumador
+T84	DISEASE 116 130	Fumador activo
+T86	DISEASE 3206 3225	congestión pulmonar
+T88	DISEASE 5706 5724	eventos arrítmicos
+T89	DISEASE 5814 5865	lesión significativa en el segmento medio de la ACD
+T66	DISEASE 6690 6715	lesión grave en ACD media

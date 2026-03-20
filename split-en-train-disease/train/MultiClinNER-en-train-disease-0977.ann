@@ -1,0 +1,35 @@
+T49	DISEASE 136 150	drug allergies
+T52	DISEASE 181 190	ex-smoker
+T30	DISEASE 209 230	Arterial hypertension
+T31	DISEASE 258 271	Dyslipidaemia
+T32	DISEASE 550 579	moderate mitral insufficiency
+T33	DISEASE 683 711	Severe sleep apnoea syndrome
+T34	DISEASE 741 758	Chronic gastritis
+T35	DISEASE 763 776	hiatal hernia
+T36	DISEASE 778 797	Depressive syndrome
+T37	DISEASE 827 847	somatoform disorders
+T2	DISEASE 849 913	Left vocal cord paralysis after prolonged orotracheal intubation
+T38	DISEASE 918 933	viral pneumonia
+T3	DISEASE 963 1017	localised prostate neoplasia without distant extension
+T39	DISEASE 1288 1312	cardiorespiratory arrest
+T51	DISEASE 3055 3067	cardiomegaly
+T8	DISEASE 3153 3173	pulmonary congestion
+T47	DISEASE 3246 3269	Left anterior hemiblock
+T42	DISEASE 3404 3432	acute intracranial pathology
+T10	DISEASE 3545 3605	Left ventricle (LV) of normal size and slightly hypertrophic
+T11	DISEASE 3765 3819	Mitral regurgitation at least moderate, very eccentric
+T43	DISEASE 3889 3909	pericardial effusion
+T13	DISEASE 4127 4215	Mitral insufficiency at least moderate (probably severe) with posterior leaflet prolapse
+T44	DISEASE 4271 4332	severe mitral insufficiency due to posterior leaflet prolapse
+T16	DISEASE 4455 4514	mitral prolapse with associated severe mitral insufficiency
+T17	DISEASE 4516 4526	Dilated LV
+T40	DISEASE 4939 4963	cardiorespiratory arrest
+T19	DISEASE 5079 5104	malignant mitral prolapse
+T20	DISEASE 5189 5238	non-sustained monomorphic ventricular tachycardia
+T50	DISEASE 5263 5288	right bundle branch block
+T21	DISEASE 5317 5363	severe mitral insufficiency with LV dilatation
+T45	DISEASE 6000 6031	Malignant mitral valve prolapse
+T41	DISEASE 6033 6070	Resuscitated cardiorespiratory arrest
+T46	DISEASE 6097 6153	Severe mitral regurgitation secondary to mitral prolapse
+T53	DISEASE 6155 6182	Left ventricular dilatation
+T48	DISEASE 6184 6231	Non-sustained monoform ventricular tachycardias

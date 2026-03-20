@@ -1,0 +1,29 @@
+T1	SYMPTOM 203 209	fiebre
+T2	SYMPTOM 212 219	vómitos
+T3	SYMPTOM 244 260	malestar general
+T4	SYMPTOM 262 283	dolores generalizados
+T5	SYMPTOM 285 305	sensación distérmica
+T6	SYMPTOM 307 318	escalofríos
+T7	SYMPTOM 320 330	sudoración
+T8	SYMPTOM 333 340	vómitos
+T10	SYMPTOM 385 399	Normocoloreado
+T11	SYMPTOM 401 410	hidratado
+T12	SYMPTOM 413 423	perfundido
+T13	SYMPTOM 424 432	Eupneico
+T14	SYMPTOM 438 468	Auscultación cardiaca: rítmica
+T15	SYMPTOM 473 488	soplo sistólico
+T17	SYMPTOM 519 522	MVC
+T18	SYMPTOM 545 566	irritación peritoneal
+T19	SYMPTOM 597 599	RS
+T20	SYMPTOM 609 637	Radiografía de tórax: normal
+T21	SYMPTOM 1062 1075	nódulo en LID
+T22	SYMPTOM 1218 1260	Hemocultivos: S. aureus meticilin sensible
+T23	SYMPTOM 1544 1559	síndrome febril
+T24	SYMPTOM 1804 1866	hemocultivos que resultan positivos para Staphylococcus aureus
+T25	SYMPTOM 1966 1971	soplo
+T26	SYMPTOM 2310 2317	afebril
+T27	SYMPTOM 2319 2331	asintomático
+T79	SYMPTOM 985 999	abdomen normal
+T9	SYMPTOM 1881 1905	aislamiento de S. aureus
+T16	SYMPTOM 2380 2422	hemocultivos de control seriados estériles
+#3	AnnotatorNotes T19	ritmo sinusal

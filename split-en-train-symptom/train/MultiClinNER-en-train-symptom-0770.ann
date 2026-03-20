@@ -1,0 +1,41 @@
+T1	SYMPTOM 376 392	chest discomfort
+T2	SYMPTOM 582 613	positive troponin determination
+T3	SYMPTOM 651 671	ST-segment elevation
+T4	SYMPTOM 882 890	Afebrile
+T5	SYMPTOM 892 922	Cardiac auscultation: rhythmic
+T6	SYMPTOM 939 946	murmurs
+T7	SYMPTOM 948 978	Pulmonary auscultation: normal
+T8	SYMPTOM 980 1000	Abdomen: nondescript
+T9	SYMPTOM 1002 1024	Lower limbs: no oedema
+T10	SYMPTOM 1092 1104	sinus rhythm
+T11	SYMPTOM 1116 1125	normal PR
+T12	SYMPTOM 1127 1137	narrow QRS
+T25	SYMPTOM 1147 1179	acute repolarisation alterations
+T26	SYMPTOM 1285 1315	Renal function and ions normal
+T27	SYMPTOM 1534 1624	cardiac silhouette, parenchyma and pulmonary vascularisation without pathological findings
+T28	SYMPTOM 1651 1679	epicardial coronary arteries
+T14	SYMPTOM 1733 1795	third obtuse marginal branch showed a sudden change in calibre
+T13	SYMPTOM 1969 2021	left ventricle (LV) with preserved systolic function
+T31	SYMPTOM 2028 2082	localised akinesia of the mid-basal inferolateral area
+T29	SYMPTOM 2100 2114	non-dilated LV
+T30	SYMPTOM 2116 2137	normal wall thickness
+T15	SYMPTOM 2139 2166	preserved systolic function
+T32	SYMPTOM 2205 2222	Atria not dilated
+T33	SYMPTOM 2240 2282	(RV) not dilated with normal contractility
+T34	SYMPTOM 2671 2707	Inferior vena cava (IVC) not dilated
+T16	SYMPTOM 2738 2749	Normal PAPs
+T23	SYMPTOM 2955 3023	Cervical segment of internal carotid artery with slight irregularity
+T22	SYMPTOM 3054 3078	Left vertebral dominance
+T41	SYMPTOM 3080 3139	Left coronary trunk and circumflex artery of normal calibre
+T40	SYMPTOM 3141 3176	Patent aorta with preserved calibre
+T39	SYMPTOM 3269 3325	Main renal arteries of arrosariado-displastic appearance
+T24	SYMPTOM 3327 3367	Patent and ectatic iliac arterial shafts
+T38	SYMPTOM 3369 3430	External iliac arteries with arrosative-dysplastic appearance
+T19	SYMPTOM 3599 3635	left adrenal with nodular thickening
+T20	SYMPTOM 3663 3699	Right kidney with small fatty nodule
+T36	SYMPTOM 4095 4152	epicardial coronary arteries without angiographic lesions
+T37	SYMPTOM 4180 4255	sudden decrease in calibre was observed in the third obtuse marginal branch
+T35	SYMPTOM 4481 4516	overall systolic function preserved
+T17	SYMPTOM 4526 4560	segmental asymmetries at discharge
+T21	SYMPTOM 4846 4864	clinical stability
+T18	SYMPTOM 5135 5162	Normal LV systolic function

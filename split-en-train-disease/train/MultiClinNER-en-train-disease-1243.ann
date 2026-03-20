@@ -1,0 +1,52 @@
+T1	DISEASE 106 118	hypertension
+T74	DISEASE 203 220	diabetes mellitus
+T108	DISEASE 224 237	dyslipidaemia
+T75	DISEASE 242 254	toxic habits
+T76	DISEASE 256 278	Chronic kidney disease
+T2	DISEASE 292 345	interstitial nephropathy due to vesicoureteral reflux
+T116	DISEASE 406 481	double kidney transplant in 1992 and 2015, both dysfunctional and embolised
+T3	DISEASE 587 639	arteriovenous fistulas (AVF) (stenosis, obstruction)
+T4	DISEASE 660 683	AVF in right upper limb
+T78	DISEASE 685 707	Multifactorial anaemia
+T79	DISEASE 760 799	Resistant secondary hyperparathyroidism
+T109	DISEASE 805 825	renal osteodystrophy
+T7	DISEASE 830 873	parathyroid adenoma in the right lower lobe
+T80	DISEASE 890 914	structural heart disease
+T81	DISEASE 922 954	moderate ventricular hypertrophy
+T70	DISEASE 1355 1375	wide QRS tachycardia
+T91	DISEASE 1503 1526	ventricular tachycardia
+T8	DISEASE 1528 1532	SMVT
+T110	DISEASE 1637 1659	narrow QRS tachycardia
+T82	DISEASE 1680 1698	atrial tachycardia
+T111	DISEASE 3067 3082	Calcified aorta
+T69	DISEASE 3145 3173	regular wide QRS tachycardia
+T13	DISEASE 3204 3229	right bundle branch block
+T12	DISEASE 3231 3235	RBBB
+T115	DISEASE 3360 3423	non-dilated left ventricle with moderate concentric hypertrophy
+T85	DISEASE 3471 3490	segmental disorders
+T15	DISEASE 3492 3522	Moderately dilated left atrium
+T87	DISEASE 3584 3605	Mitroaortic sclerosis
+T88	DISEASE 3633 3653	mitral insufficiency
+T89	DISEASE 3694 3732	Minimal posterior pericardial effusion
+T97	DISEASE 3898 3912	pre-excitation
+T83	DISEASE 4130 4148	atrial tachycardia
+T90	DISEASE 4738 4757	atrial fibrillation
+T72	DISEASE 5059 5079	wide QRS tachycardia
+T92	DISEASE 5119 5142	ventricular tachycardia
+T112	DISEASE 5199 5205	BCRDHH
+T114	DISEASE 5524 5547	left anterior hemiblock
+T113	DISEASE 5549 5555	HBAIHH
+T94	DISEASE 5660 5683	ventricular hypertrophy
+T96	DISEASE 5848 5878	supraventricular extrasystoles
+T73	DISEASE 5893 5913	wide QRS tachycardia
+T18	DISEASE 5943 5947	SMVT
+T95	DISEASE 6009 6032	ventricular hypertrophy
+T103	DISEASE 6068 6082	pre-excitation
+T117	DISEASE 6423 6453	left lateral accessory pathway
+T104	DISEASE 6520 6534	pre-excitation
+T22	DISEASE 6636 6710	accessory pathway was found in the posterior portion of the mitral annulus
+T105	DISEASE 6752 6766	pre-excitation
+T84	DISEASE 6811 6924	Pre-excited atrial tachycardia due to an accessory pathway located in the posterior portion of the mitral annulus
+T106	DISEASE 6968 6994	Hypertensive heart disease
+T107	DISEASE 7000 7021	diastolic dysfunction
+T77	DISEASE 7031 7053	chronic kidney disease

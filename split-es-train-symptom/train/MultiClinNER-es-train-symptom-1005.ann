@@ -1,0 +1,29 @@
+T1	SYMPTOM 943 993	disnea habitual hasta hacerse de mínimos esfuerzos
+T2	SYMPTOM 995 1003	ortopnea
+T3	SYMPTOM 1005 1014	bendopnea
+T4	SYMPTOM 1016 1049	disminución del ritmo de diuresis
+T5	SYMPTOM 1065 1094	edemas en miembros inferiores
+T6	SYMPTOM 1238 1262	Aceptable estado general
+T7	SYMPTOM 1264 1274	Consciente
+T8	SYMPTOM 1276 1285	orientado
+T10	SYMPTOM 1301 1315	Normocoloreado
+T11	SYMPTOM 1317 1331	normohidratado
+T12	SYMPTOM 1334 1349	normoperfundido
+T13	SYMPTOM 1365 1386	taquipneico en reposo
+T14	SYMPTOM 1392 1416	intolerancia al decúbito
+T15	SYMPTOM 1442 1469	ruidos cardiacos arrítmicos
+T16	SYMPTOM 1515 1521	soplos
+T17	SYMPTOM 1546 1589	crepitantes bilaterales hasta campos medios
+T18	SYMPTOM 1623 1684	Extremidades inferiores: pulsos pedios presentes y simétricos
+T19	SYMPTOM 1686 1729	Edemas con fóvea bilaterales hasta rodillas
+T20	SYMPTOM 2659 2668	QRS ancho
+T23	SYMPTOM 3068 3087	Hipoquinesia global
+T29	SYMPTOM 5904 5951	normalización de la función ventricular derecha
+T85	SYMPTOM 3115 3212	Ventrículo derecho de tamaño límite (Dd 40 mm), con función sistólica global gravemente deprimida
+T86	SYMPTOM 3214 3276	Prótesis mecánicas en posición mitral y aórtica bien asentadas
+T27	SYMPTOM 5971 5997	prótesis normofuncionantes
+T106	SYMPTOM 1288 1299	colaborador
+T123	SYMPTOM 2855 2878	redistribución vascular
+T124	SYMPTOM 1601 1621	ruidos sobreañadidos
+T129	SYMPTOM 3494 3514	síntomas congestivos
+T24	SYMPTOM 5772 5790	aumento de la FEVI

@@ -1,0 +1,29 @@
+T20	PROCEDURE 166 194	anti-inflammatory analgesics
+T1	PROCEDURE 774 794	physical examination
+T28	PROCEDURE 874 977	palpation in the bilateral lumbar area at L5-S1, as well as in the hypogastric area and perineal region
+T23	PROCEDURE 1028 1047	genital examination
+T11	PROCEDURE 1068 1086	rectal examination
+T13	PROCEDURE 1147 1171	neurological examination
+T33	PROCEDURE 1317 1328	blood count
+T18	PROCEDURE 1333 1345	biochemistry
+T17	PROCEDURE 1551 1561	Urinalysis
+T21	PROCEDURE 1617 1625	sediment
+T14	PROCEDURE 1661 1678	coagulation study
+T4	PROCEDURE 1790 1808	abdomino-pelvic CT
+T22	PROCEDURE 2089 2119	Empirical antibiotic treatment
+T43	PROCEDURE 2233 2310	prostatic abscess, we decided to drain the collection under control with TRUS
+T8	PROCEDURE 2315 2332	urinary diversion
+T2	PROCEDURE 2362 2377	lumbar puncture
+T7	PROCEDURE 2401 2423	intradural anaesthesia
+T46	PROCEDURE 2427 2531	cloudy-yellowish cerebrospinal fluid was observed and a sample was sent to microbiology and biochemistry
+T15	PROCEDURE 2663 2667	TRUS
+T12	PROCEDURE 2850 2876	perineal puncture-drainage
+T53	PROCEDURE 2935 2982	leaving a cystostomy tube in place for drainage
+T54	PROCEDURE 2984 3031	We diverted the urine via suprapubic cystostomy
+T55	PROCEDURE 3043 3050	culture
+T9	PROCEDURE 3241 3251	lumbar MRI
+T6	PROCEDURE 3362 3366	TRUS
+T59	PROCEDURE 3424 3485	drain again a hyperechogenic area in the right prostatic lobe
+T60	PROCEDURE 3589 3615	transesophageal echography
+T10	PROCEDURE 3686 3696	lumbar MRI
+T16	PROCEDURE 3735 3755	antibiotic treatment

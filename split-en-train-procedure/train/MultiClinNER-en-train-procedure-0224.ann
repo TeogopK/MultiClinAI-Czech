@@ -1,0 +1,19 @@
+T4	PROCEDURE 219 239	Physical examination
+T2	PROCEDURE 421 449	Cardiopulmonary auscultation
+T8	PROCEDURE 516 525	palpation
+T6	PROCEDURE 703 750	routine biochemical and haematological analysis
+T7	PROCEDURE 767 789	adrenal function tests
+T10	PROCEDURE 817 832	Ultrasonography
+T18	PROCEDURE 960 967	CT scan
+T5	PROCEDURE 1317 1320	MRI
+T11	PROCEDURE 1410 1412	CT
+T12	PROCEDURE 1557 1566	intervene
+T13	PROCEDURE 1600 1640	transperitoneal right subcostal incision
+T14	PROCEDURE 1642 1681	The right adrenal region was approached
+T9	PROCEDURE 1723 1733	Dissection
+T15	PROCEDURE 1894 1900	excise
+T16	PROCEDURE 1961 2026	suturing with polypropylene of the wall of the inferior vena cava
+T3	PROCEDURE 2175 2205	macroscopic histological study
+T1	PROCEDURE 2410 2420	Microscopy
+T23	PROCEDURE 2985 3042	consolidation radiotherapy treatment on the surgical site
+T24	PROCEDURE 3074 3083	operation

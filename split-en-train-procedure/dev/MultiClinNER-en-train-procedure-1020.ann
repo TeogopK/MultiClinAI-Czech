@@ -1,0 +1,33 @@
+T74	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T75	PROCEDURE 421 430	palpation
+T1	PROCEDURE 798 808	root canal
+T77	PROCEDURE 1185 1213	Cardiopulmonary auscultation
+T78	PROCEDURE 1307 1328	Abdominal examination
+T97	PROCEDURE 1381 1410	superficial or deep palpation
+T79	PROCEDURE 1736 1750	Blood analysis
+T95	PROCEDURE 1876 1888	biochemistry
+T80	PROCEDURE 2012 2026	renal function
+T81	PROCEDURE 2035 2047	electrolytes
+T82	PROCEDURE 2059 2070	coagulation
+T2	PROCEDURE 2072 2110	Anteroposterior chest X-ray (portable)
+T83	PROCEDURE 2262 2279	Electrocardiogram
+T84	PROCEDURE 2406 2421	Catheterisation
+T4	PROCEDURE 2744 2772	Transthoracic echocardiogram
+T86	PROCEDURE 3774 3800	Cardio-MRI with gadolinium
+T8	PROCEDURE 4057 4084	double antiplatelet therapy
+T98	PROCEDURE 4106 4135	antianginal medical treatment
+T85	PROCEDURE 4232 4247	catheterisation
+T10	PROCEDURE 4423 4439	Ventriculography
+T87	PROCEDURE 4504 4521	thromboaspiration
+T88	PROCEDURE 4526 4546	coronary angioplasty
+T11	PROCEDURE 4628 4655	double antiplatelet therapy
+T89	PROCEDURE 4660 4675	anticoagulation
+T96	PROCEDURE 4729 4777	enzymatic and electrocardiographic serialisation
+T12	PROCEDURE 4795 4823	transthoracic echocardiogram
+T90	PROCEDURE 6264 6281	local anaesthetic
+T91	PROCEDURE 6358 6408	cardiac magnetic resonance imaging with gadolinium
+T99	PROCEDURE 6733 6765	hygienic-dietary recommendations
+T18	PROCEDURE 6767 6794	double antiplatelet therapy
+T92	PROCEDURE 6796 6809	beta-blockers
+T93	PROCEDURE 6873 6880	statins
+T94	PROCEDURE 6993 7009	echocardiography

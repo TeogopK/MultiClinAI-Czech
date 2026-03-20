@@ -1,0 +1,25 @@
+T6	PROCEDURE 113 125	hysterectomy
+T1	PROCEDURE 151 174	correction of cystocele
+T8	PROCEDURE 270 285	cholecystectomy
+T10	PROCEDURE 340 361	bilateral nephrectomy
+T15	PROCEDURE 456 481	renal replacement therapy
+T11	PROCEDURE 487 528	continuous ambulatory peritoneal dialysis
+T18	PROCEDURE 530 534	CAPD
+T14	PROCEDURE 874 894	Physical examination
+T24	PROCEDURE 940 994	deep palpation, predominantly in the right iliac fossa
+T25	PROCEDURE 1092 1108	Laboratory tests
+T26	PROCEDURE 1125 1134	haemogram
+T13	PROCEDURE 1136 1148	biochemistry
+T28	PROCEDURE 1153 1171	venous blood gases
+T9	PROCEDURE 1174 1199	chest and abdominal X-ray
+T12	PROCEDURE 1222 1250	peritoneal dialysis catheter
+T35	PROCEDURE 1323 1349	CT scan with oral contrast
+T3	PROCEDURE 1628 1647	peritoneal dialysis
+T38	PROCEDURE 1805 1849	fluid was collected for culture and analysis
+T39	PROCEDURE 2011 2028	Clear-liquid diet
+T40	PROCEDURE 2033 2046	serum therapy
+T4	PROCEDURE 2115 2134	peritoneal dialysis
+T5	PROCEDURE 2202 2221	peritoneal dialysis
+T7	PROCEDURE 2271 2279	drainage
+T16	PROCEDURE 2281 2328	place the patient in the Trendelemburg position
+T17	PROCEDURE 2379 2399	radiological studies

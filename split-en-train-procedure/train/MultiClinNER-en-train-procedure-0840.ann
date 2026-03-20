@@ -1,0 +1,38 @@
+T76	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T75	PROCEDURE 972 1008	CT scan of the abdomen with contrast
+T77	PROCEDURE 1469 1489	PHYSICAL EXAMINATION
+T78	PROCEDURE 1585 1599	pulse oximetry
+T79	PROCEDURE 1905 1925	Cardiac auscultation
+T80	PROCEDURE 1983 2005	Pulmonary auscultation
+T81	PROCEDURE 2190 2212	abdominal auscultation
+T4	PROCEDURE 2364 2373	Haemogram
+T82	PROCEDURE 2648 2659	Coagulation
+T83	PROCEDURE 2698 2716	Blood biochemistry
+T102	PROCEDURE 3100 3110	Urinalysis
+T84	PROCEDURE 3267 3278	Chest X-ray
+T85	PROCEDURE 3408 3425	Electrocardiogram
+T86	PROCEDURE 3427 3430	ECG
+T5	PROCEDURE 3747 3798	Contrast-enhanced CT scan of the abdomen and pelvis
+T87	PROCEDURE 4460 4490	Transthoracic echocardiography
+T89	PROCEDURE 5179 5192	Doppler study
+T90	PROCEDURE 5538 5558	Coronary angiography
+T92	PROCEDURE 5614 5655	Pathological anatomy of the resected mass
+T10	PROCEDURE 6022 6024	CT
+T88	PROCEDURE 6059 6089	transthoracic echocardiography
+T91	PROCEDURE 6094 6114	coronary angiography
+T93	PROCEDURE 6198 6220	cardiovascular surgery
+T94	PROCEDURE 6556 6568	abdominal CT
+T13	PROCEDURE 6750 6805	Opening was performed by conventional median sternotomy
+T95	PROCEDURE 6833 6848	right atriotomy
+T14	PROCEDURE 6854 6883	left atrial mass was resected
+T15	PROCEDURE 6908 6959	closing the residual septal defect by direct suture
+T97	PROCEDURE 6961 6981	Pathological anatomy
+T98	PROCEDURE 7316 7340	electrical cardioversion
+T99	PROCEDURE 7469 7493	antiarrhythmic treatment
+T16	PROCEDURE 7650 7670	adding beta-blockers
+T100	PROCEDURE 7933 7959	electrophysiological study
+T17	PROCEDURE 8038 8089	ablation of the cavotricuspid isthmus was performed
+T18	PROCEDURE 8247 8285	placement of a transient pacing device
+T19	PROCEDURE 8294 8338	implantation of a permanent pacemaker (DDDR)
+T20	PROCEDURE 8527 8591	Counterclockwise isthmic atrial flutter with successful ablation
+T101	PROCEDURE 8717 8754	DDDR permanent pacemaker implantation

@@ -1,0 +1,32 @@
+T1	SYMPTOM 242 264	chest pain on exertion
+T2	SYMPTOM 527 539	sinus rhythm
+T3	SYMPTOM 541 551	narrow QRS
+T23	SYMPTOM 557 568	normal axis
+T4	SYMPTOM 570 591	normal repolarisation
+T11	SYMPTOM 606 652	biochemistry and haemogram parameters in range
+T25	SYMPTOM 654 692	Myocardial damage markers not elevated
+T26	SYMPTOM 707 734	normal cardiothoracic index
+T5	SYMPTOM 739 759	mediastinal widening
+T27	SYMPTOM 835 881	left ventricle neither dilated nor hypertrophi
+T6	SYMPTOM 884 936	Normal segmental contractility and systolic function
+T21	SYMPTOM 986 1018	Normal right ventricle and atria
+T7	SYMPTOM 1273 1291	anginal chest pain
+T8	SYMPTOM 1296 1304	dyspnoea
+T12	SYMPTOM 1457 1487	Normal blood pressure response
+T28	SYMPTOM 1555 1579	common trunk: no lesions
+T29	SYMPTOM 1581 1631	Anterior descending artery: vessel of good calibre
+T9	SYMPTOM 2751 2770	precordial pressure
+T10	SYMPTOM 3205 3243	normal biventricular systolic function
+T13	SYMPTOM 3377 3387	chest pain
+T22	SYMPTOM 3451 3483	discrete elevation of biomarkers
+T14	SYMPTOM 3830 3840	chest pain
+T15	SYMPTOM 3897 3915	constants in range
+T30	SYMPTOM 4016 4047	subsequent arterial hypotension
+T16	SYMPTOM 4049 4064	general malaise
+T17	SYMPTOM 4078 4091	hypoperfusion
+T31	SYMPTOM 4468 4558	urgent pericardiocentesis was performed with extraction of fluid with a haematic appearanc
+T18	SYMPTOM 4901 4927	low level of consciousness
+T24	SYMPTOM 5230 5292	pericardial drainage and evacuation of abundant haematic fluid
+T19	SYMPTOM 5384 5399	active bleeding
+T20	SYMPTOM 5585 5609	haemodynamic instability
+T32	SYMPTOM 5970 5974	died

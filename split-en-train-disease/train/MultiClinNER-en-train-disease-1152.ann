@@ -1,0 +1,40 @@
+T31	DISEASE 263 277	drug allergies
+T32	DISEASE 282 284	DM
+T1	DISEASE 289 301	hypertension
+T33	DISEASE 306 319	dyslipidaemia
+T51	DISEASE 330 336	smoker
+T53	DISEASE 374 381	drinker
+T34	DISEASE 432 454	Severe mitral stenosis
+T52	DISEASE 724 744	aortic regurgitation
+T4	DISEASE 746 768	Mild atrial dilatation
+T5	DISEASE 801 866	Permanent atrial fibrillation secondary to his valvular pathology
+T54	DISEASE 1497 1519	acute pulmonary oedema
+T6	DISEASE 1521 1524	APE
+T7	DISEASE 1629 1640	AF with RVR
+T35	DISEASE 1734 1756	refractory hypotension
+T36	DISEASE 2143 2164	prosthetic thrombosis
+T15	DISEASE 2893 2895	AF
+T39	DISEASE 3268 3285	lymphadenopathies
+T40	DISEASE 3608 3628	deep vein thrombosis
+T56	DISEASE 3650 3666	arrhythmic tones
+T41	DISEASE 3905 3908	DVT
+T18	DISEASE 4087 4126	thrombotic release to the left chambers
+T19	DISEASE 4339 4341	AF
+T50	DISEASE 4392 4398	BIRDHH
+T21	DISEASE 4939 4974	LA with images of scattered thrombi
+T22	DISEASE 5188 5190	AF
+T23	DISEASE 5375 5436	mobile thrombus can be seen at the mouth of the inferior cava
+T42	DISEASE 5567 5595	Mitral prosthetic thrombosis
+T44	DISEASE 5638 5660	Multiple thrombi in LA
+T45	DISEASE 5662 5683	Severe LV dysfunction
+T47	DISEASE 5685 5702	coronary embolism
+T55	DISEASE 6033 6049	coronary lesions
+T26	DISEASE 6178 6189	LA thrombus
+T57	DISEASE 6658 6675	sinus bradycardia
+T37	DISEASE 6989 7011	coagulation alteration
+T49	DISEASE 7252 7264	anaemisation
+T43	DISEASE 7559 7587	Mitral prosthetic thrombosis
+T38	DISEASE 7669 7708	thrombotic release to the left chambers
+T46	DISEASE 7712 7733	Severe LV dysfunction
+T48	DISEASE 7821 7838	coronary embolism
+T64	DISEASE 7842 7889	Impaired renal function secondary to low output

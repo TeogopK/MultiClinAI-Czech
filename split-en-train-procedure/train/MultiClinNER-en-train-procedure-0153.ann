@@ -1,0 +1,24 @@
+T23	PROCEDURE 804 813	analgesic
+T1	PROCEDURE 821 841	Physical examination
+T2	PROCEDURE 933 944	Blood tests
+T15	PROCEDURE 1053 1057	ions
+T19	PROCEDURE 1059 1072	liver enzymes
+T16	PROCEDURE 1077 1083	lipids
+T17	PROCEDURE 1093 1107	Total proteins
+T9	PROCEDURE 1109 1121	proteinogram
+T10	PROCEDURE 1123 1138	immunoglobulins
+T11	PROCEDURE 1143 1153	complement
+T3	PROCEDURE 1586 1596	Urinalysis
+T12	PROCEDURE 1687 1701	Urine sediment
+T4	PROCEDURE 1710 1732	Chest and spine X-rays
+T5	PROCEDURE 1766 1811	Abdominal, renal and urinary tract ultrasound
+T44	PROCEDURE 1886 1902	Laboratory tests
+T18	PROCEDURE 2139 2222	iron and vitamins B12 and folic acid were partially corrected with oral supplements
+T45	PROCEDURE 2390 2450	endoscopic study of the gastrointestinal tract with biopsies
+T13	PROCEDURE 2865 2874	congo red
+T7	PROCEDURE 2879 2899	immunohistochemistry
+T6	PROCEDURE 2968 2993	percutaneous renal biopsy
+T52	PROCEDURE 3456 3465	Congo red
+T8	PROCEDURE 3523 3543	immunohistochemistry
+T14	PROCEDURE 4041 4085	renin-angiotensin-aldosterone system blocker
+T20	PROCEDURE 4125 4145	inflammatory markers

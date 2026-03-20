@@ -1,0 +1,40 @@
+T42	DISEASE 96 120	cardiorespiratory arrest
+T47	DISEASE 131 153	Allergic to rifampicin
+T48	DISEASE 191 203	toxic habits
+T84	DISEASE 278 290	sudden death
+T83	DISEASE 494 510	syncopal episode
+T49	DISEASE 838 862	ventricular fibrillation
+T43	DISEASE 1168 1192	cardiorespiratory arrest
+T54	DISEASE 1208 1231	ventricular tachycardia
+T44	DISEASE 1671 1695	cardiorespiratory arrest
+T57	DISEASE 1708 1732	intracranial haemorrhage
+T58	DISEASE 1734 1759	pulmonary thromboembolism
+T60	DISEASE 1764 1785	acute aortic syndrome
+T50	DISEASE 2506 2530	ventricular fibrillation
+T5	DISEASE 2607 2646	intraventricular conduction disturbance
+T8	DISEASE 3661 3724	coronary arteries without angiographically significant stenosis
+T61	DISEASE 3964 3981	aortic dissection
+T59	DISEASE 4031 4056	pulmonary thromboembolism
+T62	DISEASE 4119 4150	pericardial or pleural effusion
+T63	DISEASE 4158 4174	hilar adenopathy
+T9	DISEASE 4200 4292	Small ipsilateral ipsilateral lateroaortic and interlobar prevascular calcified adenopathies
+T64	DISEASE 4616 4627	atelectasis
+T65	DISEASE 4693 4710	bronchoaspiration
+T10	DISEASE 4712 4782	Linear subpleural calcification in the posterior subsegment of the LSI
+T67	DISEASE 5250 5278	trivial mitral insufficiency
+T55	DISEASE 5637 5682	sustained monomorphic ventricular tachycardia
+T51	DISEASE 5705 5729	ventricular fibrillation
+T69	DISEASE 6288 6308	mitral insufficiency
+T11	DISEASE 6310 6312	MI
+T70	DISEASE 6318 6341	tricuspid insufficiency
+T12	DISEASE 6343 6345	TI
+T45	DISEASE 6518 6542	cardiorespiratory arrest
+T73	DISEASE 6615 6638	acute coronary syndrome
+T75	DISEASE 7265 7298	sustained ventricular tachycardia
+T52	DISEASE 7321 7345	ventricular fibrillation
+T76	DISEASE 7471 7480	vasospasm
+T78	DISEASE 7749 7758	infection
+T80	DISEASE 8209 8233	structural heart disease
+T46	DISEASE 8436 8518	Out-of-hospital cardiorespiratory arrest recovered due to ventricular fibrillation
+T81	DISEASE 8547 8637	Acute coronary syndrome with non-persistent ST-segment elevation due to coronary vasospasm
+T82	DISEASE 8697 8749	Respiratory infection secondary to bronchoaspiration

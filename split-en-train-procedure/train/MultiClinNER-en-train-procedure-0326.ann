@@ -1,0 +1,12 @@
+T8	PROCEDURE 244 279	hysterectomy and double adnexectomy
+T10	PROCEDURE 300 315	pathology study
+T13	PROCEDURE 582 623	radiotherapy with cobalt-60 in the pelvis
+T14	PROCEDURE 628 662	brachytherapy in the vaginal vault
+T2	PROCEDURE 814 832	simple chest X-ray
+T3	PROCEDURE 951 983	thoracic-abdomino-pelvic CT scan
+T5	PROCEDURE 1106 1118	Bronchoscopy
+T6	PROCEDURE 1213 1237	BAS and bronchial biopsy
+T1	PROCEDURE 1420 1432	chemotherapy
+T7	PROCEDURE 1584 1604	radiological studies
+T4	PROCEDURE 1631 1671	left upper lobectomy and lymphadenectomy
+T25	PROCEDURE 1829 1848	immunohistochemical

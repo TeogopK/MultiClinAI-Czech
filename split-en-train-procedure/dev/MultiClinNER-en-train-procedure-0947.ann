@@ -1,0 +1,12 @@
+T36	PROCEDURE 559 573	throat surgery
+T1	PROCEDURE 1101 1112	Blood tests
+T2	PROCEDURE 1121 1124	fbc
+T34	PROCEDURE 1129 1141	biochemistry
+T30	PROCEDURE 1145 1148	ECG
+T33	PROCEDURE 1306 1325	Holter ECG/24 hours
+T35	PROCEDURE 1622 1639	TT echocardiogram
+T32	PROCEDURE 1859 1907	Cardiac MRI: functional examination is performed
+T7	PROCEDURE 1914 1973	ECO T2 gradient CINE sequences with cardiac synchronisation
+T6	PROCEDURE 1991 2014	contrast administration
+T8	PROCEDURE 2016 2044	Late enhancement examination
+T10	PROCEDURE 2437 2450	exercise test

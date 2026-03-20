@@ -1,0 +1,48 @@
+T48	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T49	PROCEDURE 284 305	tratamiento dietético
+T50	PROCEDURE 921 939	Exploración física
+T51	PROCEDURE 1119 1140	Auscultación cardiaca
+T52	PROCEDURE 1180 1201	Auscultación pulmonar
+T53	PROCEDURE 1235 1256	Exploración abdominal
+T54	PROCEDURE 1426 1444	Electrocardiograma
+T55	PROCEDURE 1446 1449	ECG
+T56	PROCEDURE 1731 1749	Electrocardiograma
+T57	PROCEDURE 2969 2998	marcadores de daño miocárdico
+T58	PROCEDURE 3051 3071	Radiografía de tórax
+T59	PROCEDURE 3134 3162	Ecocardiograma transtorácico
+T60	PROCEDURE 3164 3167	ETE
+T61	PROCEDURE 3491 3528	Válvula aórtica trivalva, esclerótica
+T62	PROCEDURE 3664 3692	Ecocardiograma transtorácico
+T63	PROCEDURE 3904 3919	Coronariografía
+T64	PROCEDURE 4051 4076	ultrasonido intravascular
+T65	PROCEDURE 4078 4082	IVUS
+T66	PROCEDURE 4135 4204	coronaria derecha: se realiza implante de stent directo farmacoactivo
+T68	PROCEDURE 4283 4350	Estudio electrofisiológico (EEF): con acceso venoso femoral derecho
+T69	PROCEDURE 4311 4314	EEF
+T70	PROCEDURE 4743 4746	ETE
+T71	PROCEDURE 4810 4875	cardioversión eléctrica (CVE) con paso a RS con 200 J en bifásico
+T72	PROCEDURE 5633 5680	ablación de la rama derecha mediante catéter FJ
+T73	PROCEDURE 5816 5860	se implanta marcapasos bicameral DDDR Boston
+T74	PROCEDURE 5963 5978	betabloqueantes
+T75	PROCEDURE 6037 6047	telemetría
+T76	PROCEDURE 6125 6153	ecocardiograma transtorácico
+T77	PROCEDURE 6333 6348	coronariografía
+T78	PROCEDURE 6438 6484	revascularización mediante stent farmacoactivo
+T79	PROCEDURE 6546 6564	electrocardiograma
+T80	PROCEDURE 6854 6880	estudio electrofisiológico
+T81	PROCEDURE 7302 7329	ablación de la rama derecha
+T82	PROCEDURE 7334 7360	implante de marcapasos DDD
+T83	PROCEDURE 7755 7770	electromiograma
+T84	PROCEDURE 7773 7789	estudio genético
+T85	PROCEDURE 8013 8044	implante de stent farmacoactivo
+T86	PROCEDURE 8075 8109	Implante de marcapasos DDDR Boston
+T135	PROCEDURE 4116 4152	Revascularización: coronaria derecha
+T136	PROCEDURE 4835 4838	CVE
+T138	PROCEDURE 5545 5557	electrograma
+T118	PROCEDURE 7085 7097	electrograma
+T142	PROCEDURE 8046 8073	Ablación de la rama derecha
+T143	PROCEDURE 2101 2110	Analítica
+T145	PROCEDURE 5236 5251	tetra Josephson
+T146	PROCEDURE 5253 5265	tetra de His
+T148	PROCEDURE 5268 5289	decapolar deflectable
+T149	PROCEDURE 5313 5349	análisis de la estimulación desde AD

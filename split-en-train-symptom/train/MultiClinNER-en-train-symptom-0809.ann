@@ -1,0 +1,38 @@
+T1	SYMPTOM 503 509	nausea
+T2	SYMPTOM 514 529	general malaise
+T3	SYMPTOM 557 569	palpitations
+T4	SYMPTOM 573 583	chest pain
+T5	SYMPTOM 6279 6289	chest pain
+T6	SYMPTOM 912 934	Good general condition
+T7	SYMPTOM 982 998	jugular plethora
+T8	SYMPTOM 1022 1042	rhythmic heart tones
+T9	SYMPTOM 1047 1054	murmurs
+T10	SYMPTOM 1080 1106	preserved vesicular murmur
+T11	SYMPTOM 1154 1163	megaliths
+T12	SYMPTOM 1174 1202	preserved peristaltic sounds
+T13	SYMPTOM 1220 1226	oedema
+T14	SYMPTOM 1233 1260	preserved peripheral pulses
+T16	SYMPTOM 1592 1603	tachycardia
+T18	SYMPTOM 1750 1761	tachycardia
+T19	SYMPTOM 1872 1883	tachycardia
+T25	SYMPTOM 6961 6972	tachycardia
+T28	SYMPTOM 1715 1726	Regular R-R
+T29	SYMPTOM 2865 2884	Chest X-ray: normal
+T30	SYMPTOM 3202 3234	Structurally normal mitral valve
+T31	SYMPTOM 3312 3334	Normal tricuspid valve
+T32	SYMPTOM 3681 3715	left vascular tree without lesions
+T35	SYMPTOM 4241 4249	wide QRS
+T36	SYMPTOM 7610 7645	Preserved left ventricular function
+T37	SYMPTOM 3118 3136	global hypokinesia
+T38	SYMPTOM 3336 3396	Non-dilated right ventricle (RV) with good systolic function
+T15	SYMPTOM 936 977	Normal skin and mucous membrane colouring
+T33	SYMPTOM 1132 1149	soft, depressible
+T39	SYMPTOM 1168 1172	pain
+T17	SYMPTOM 2790 2850	Myocardial damage markers (troponin I and CK-MB) were normal
+T34	SYMPTOM 2886 2926	Cardiothoracic index (CTI) within normal
+T40	SYMPTOM 2977 3008	non-dilated left ventricle (LV)
+T41	SYMPTOM 3465 3479	non-dilated LV
+T42	SYMPTOM 3518 3552	Global systolic function preserved
+T43	SYMPTOM 3561 3586	contractility alterations
+T44	SYMPTOM 3717 3753	Dominant right coronary artery (RCA)
+T21	SYMPTOM 7205 7241	Ejection fraction remained preserved

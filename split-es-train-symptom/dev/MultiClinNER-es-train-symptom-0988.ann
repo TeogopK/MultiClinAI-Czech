@@ -1,0 +1,40 @@
+T2	SYMPTOM 648 670	pérdida de consciencia
+T3	SYMPTOM 1099 1112	ritmo sinusal
+T4	SYMPTOM 1516 1542	ruidos cardiacos regulares
+T5	SYMPTOM 1544 1559	soplo sistólico
+T6	SYMPTOM 1604 1633	murmullo vesicular conservado
+T7	SYMPTOM 1635 1655	crepitantes en bases
+T8	SYMPTOM 1657 1685	Abdomen: blando y depresible
+T9	SYMPTOM 1699 1719	dolor a la palpación
+T10	SYMPTOM 1724 1729	masas
+T11	SYMPTOM 1733 1741	megalias
+T12	SYMPTOM 1746 1752	edemas
+T13	SYMPTOM 1816 1858	Pulsos presentes, bilaterales y simétricos
+T15	SYMPTOM 1893 1910	responde al dolor
+T16	SYMPTOM 1912 1941	pupilas medias fotorreactivas
+T17	SYMPTOM 2026 2039	ritmo sinusal
+T18	SYMPTOM 2099 2111	QRS estrecho
+T19	SYMPTOM 2132 2165	alteraciones de la repolarización
+T20	SYMPTOM 2198 2211	ritmo sinusal
+T21	SYMPTOM 2223 2232	PR normal
+T23	SYMPTOM 2282 2294	QRS estrecho
+T25	SYMPTOM 2330 2363	alteraciones de la repolarización
+T26	SYMPTOM 2956 2993	PCR SARS COV 2 a la llegada: negativa
+T27	SYMPTOM 3046 3089	sistema ventricular dentro de la normalidad
+T29	SYMPTOM 3345 3391	pulmonar: se observan condensaciones bibasales
+T30	SYMPTOM 3533 3552	Estomago distendido
+T31	SYMPTOM 3619 3642	redistribución vascular
+T34	SYMPTOM 4141 4212	Ventrículo derecho de diámetros normales y función sistólica conservada
+T35	SYMPTOM 4725 4747	afectación neurológica
+T36	SYMPTOM 4844 4866	infiltrados alveolares
+T37	SYMPTOM 5348 5374	inestabilidad hemodinámica
+T123	SYMPTOM 1280 1305	estable hemodinámicamente
+T14	SYMPTOM 4007 4044	función sistólica levemente deprimida
+T24	SYMPTOM 4281 4311	Vena cava inferior no dilatada
+T32	SYMPTOM 4663 4706	estable a nivel hemodinámico y respiratorio
+T140	SYMPTOM 2116 2126	eje normal
+T141	SYMPTOM 2299 2309	eje normal
+T160	SYMPTOM 1756 1791	signos de trombosis venosa profunda
+T87	SYMPTOM 1875 1888	emite sonidos
+T98	SYMPTOM 3095 3129	dilatación significativa de surcos
+T124	SYMPTOM 3306 3340	Elementos de línea media centrados

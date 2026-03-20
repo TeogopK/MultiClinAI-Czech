@@ -1,0 +1,57 @@
+T1	SYMPTOM 158 179	pérdida de conciencia
+T3	SYMPTOM 696 717	pérdida de conciencia
+T4	SYMPTOM 955 960	mareo
+T5	SYMPTOM 1014 1032	malestar abdominal
+T6	SYMPTOM 1034 1041	náuseas
+T7	SYMPTOM 1044 1049	mareo
+T8	SYMPTOM 1107 1114	cefalea
+T9	SYMPTOM 1144 1147	tos
+T10	SYMPTOM 1174 1180	disnea
+T11	SYMPTOM 1182 1196	dolor torácico
+T12	SYMPTOM 1200 1213	palpitaciones
+T13	SYMPTOM 1602 1622	episodios sincopales
+T14	SYMPTOM 2041 2059	malestar abdominal
+T15	SYMPTOM 2837 2847	Consciente
+T16	SYMPTOM 2850 2859	orientado
+T17	SYMPTOM 2861 2875	Normohidratado
+T18	SYMPTOM 2878 2893	normoperfundido
+T19	SYMPTOM 2895 2913	Eupneico en reposo
+T20	SYMPTOM 2920 2934	tonos rítmicos
+T21	SYMPTOM 2939 2945	soplos
+T22	SYMPTOM 2956 2959	MVC
+T23	SYMPTOM 2964 2984	ruidos sobreañadidos
+T24	SYMPTOM 2986 3013	Abdomen: Blando, depresible
+T25	SYMPTOM 3019 3024	masas
+T26	SYMPTOM 3028 3036	megalias
+T27	SYMPTOM 3041 3064	doloroso a la palpación
+T28	SYMPTOM 3066 3125	Extremidades inferiores con pulsos conservados y simétricos
+T29	SYMPTOM 3189 3202	Ritmo sinusal
+T30	SYMPTOM 3253 3299	elevación del punto J en precordiales derechas
+T31	SYMPTOM 3339 3391	Índice cardiotorácico dentro de los límites normales
+T32	SYMPTOM 3396 3414	signos congestivos
+T37	SYMPTOM 3613 3660	Llenado ventricular izquierdo con patrón normal
+T38	SYMPTOM 3703 3741	Raíz aórtica y aorta ascendente normal
+T39	SYMPTOM 4092 4097	mareo
+T40	SYMPTOM 4112 4143	alteración electrocardiográfica
+T42	SYMPTOM 4487 4555	Actividad bioeléctrica cerebral de base, de características normales
+T44	SYMPTOM 4647 4680	descenso de amígdalas cerebelosas
+T45	SYMPTOM 4685 4726	rectificación del suelo del IV ventrículo
+T46	SYMPTOM 5054 5074	episodios sincopales
+T52	SYMPTOM 3857 3876	contractura gemelar
+T2	SYMPTOM 2630 2667	descenso de las amígdalas cerebelosas
+T33	SYMPTOM 3488 3550	función sistólica global y segmentaria dentro de la normalidad
+T97	SYMPTOM 3552 3582	Aurícula izquierda no dilatada
+T99	SYMPTOM 3584 3611	Cavidades derechas normales
+T107	SYMPTOM 4195 4225	Ventrículo derecho no dilatado
+T108	SYMPTOM 3434 3482	Ventrículo izquierdo no dilatado ni hipertrófico
+T110	SYMPTOM 127 142	desvanecimiento
+T111	SYMPTOM 665 680	desvanecimiento
+T34	SYMPTOM 4378 4395	disfunción del VD
+T35	SYMPTOM 4393 4460	VD, con volúmenes y FE que se encuentran dentro de límites normales
+T41	SYMPTOM 2437 2532	RNM cardiaca es informada como normal, así como el test de flecainida y el electroencefalograma
+T43	SYMPTOM 2672 2713	rectificación del suelo del IV ventrículo
+T98	SYMPTOM 3302 3322	intervalo QTc normal
+T100	SYMPTOM 3665 3701	anomalías valvulares ni pericárdicas
+T101	SYMPTOM 3743 3791	Septo interauricular e interventricular íntegros
+T102	SYMPTOM 3796 3826	gradiente en aorta descendente
+T103	SYMPTOM 4572 4619	anomalías paroxísticas focales ni generalizadas

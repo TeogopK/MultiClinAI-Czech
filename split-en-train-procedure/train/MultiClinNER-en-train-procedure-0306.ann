@@ -1,0 +1,29 @@
+T19	PROCEDURE 71 84	tonsillectomy
+T23	PROCEDURE 89 102	adenoidectomy
+T21	PROCEDURE 143 151	delivery
+T22	PROCEDURE 517 528	examination
+T2	PROCEDURE 689 723	Cardiac and pulmonary auscultation
+T18	PROCEDURE 1073 1085	biochemistry
+T29	PROCEDURE 1130 1144	renal function
+T4	PROCEDURE 1149 1157	ionogram
+T17	PROCEDURE 1160 1174	Radiologically
+T1	PROCEDURE 1442 1462	Abdominal ultrasound
+T3	PROCEDURE 1543 1562	thoracoabdominal CT
+T5	PROCEDURE 1594 1613	Cytogenetic studies
+T35	PROCEDURE 1629 1651	viral hepatic serology
+T15	PROCEDURE 1662 1669	mantoux
+T6	PROCEDURE 1687 1701	hormonal study
+T20	PROCEDURE 1710 1732	folic acid metabolites
+T7	PROCEDURE 1743 1760	coagulation study
+T39	PROCEDURE 1832 1870	erythrocyte polyspecific direct coombs
+T8	PROCEDURE 1872 1884	proteinogram
+T9	PROCEDURE 2003 2017	Tumour markers
+T10	PROCEDURE 2074 2085	mammography
+T11	PROCEDURE 2087 2098	colonoscopy
+T12	PROCEDURE 2100 2116	genital cytology
+T13	PROCEDURE 2118 2136	bone marrow biopsy
+T46	PROCEDURE 2175 2239	transfusion of 450 cc of de-leukocyte red blood cell concentrate
+T14	PROCEDURE 2327 2337	analgesics
+T49	PROCEDURE 2387 2450	splenectomy was requested, which was performed laparoscopically
+T50	PROCEDURE 2602 2622	removal of the drain
+T16	PROCEDURE 2628 2647	anatomopathological

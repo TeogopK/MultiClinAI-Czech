@@ -1,0 +1,22 @@
+T36	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T37	PROCEDURE 380 417	tratamiento habitual antihipertensivo
+T38	PROCEDURE 845 863	exploración física
+T39	PROCEDURE 915 917	AC
+T40	PROCEDURE 1003 1005	AP
+T41	PROCEDURE 1133 1136	ECG
+T42	PROCEDURE 1453 1473	Radiografía de tórax
+T43	PROCEDURE 1549 1577	Ecocardiograma transtorácico
+T44	PROCEDURE 2042 2062	Estudio hemodinámico
+T45	PROCEDURE 2472 2500	Resonancia magnética nuclear
+T46	PROCEDURE 2502 2505	RMN
+T47	PROCEDURE 3019 3111	Gammagrafía miocárdica con 99mTc-HDMP: estudio del tórax (fase tardia, planar y tomográfico)
+T49	PROCEDURE 3502 3512	telemetría
+T50	PROCEDURE 3647 3676	monitorización con telemetría
+T52	PROCEDURE 3800 3829	ecocardiografía transtorácica
+T53	PROCEDURE 3847 3867	estudio hemodinámico
+T54	PROCEDURE 3916 3940	estudio ecocardiográfico
+T55	PROCEDURE 4128 4139	cateterismo
+T56	PROCEDURE 4456 4477	tratamiento diurético
+T57	PROCEDURE 4492 4526	resonancia magnética con gadolinio
+T58	PROCEDURE 4916 4952	ammagrafía miocárdica con 99mTc-HDMP
+T100	PROCEDURE 1212 1221	Analítica

@@ -1,0 +1,25 @@
+T1	PROCEDURE 959 980	Auscultación cardíaca
+T2	PROCEDURE 1023 1044	Auscultación pulmonar
+T3	PROCEDURE 1738 1748	Bioquímica
+T4	PROCEDURE 1702 1713	Coagulación
+T5	PROCEDURE 2207 2235	Ecocardiograma transtorácico
+T6	PROCEDURE 2173 2192	Ecografía abdominal
+T7	PROCEDURE 2287 2307	Ecografía testicular
+T8	PROCEDURE 1981 1993	Hemocultivos
+T9	PROCEDURE 1592 1601	Hemograma
+T10	PROCEDURE 2163 2171	Rx tórax
+T11	PROCEDURE 2020 2056	Serologías específicas para Brucella
+T12	PROCEDURE 2194 2205	TAC craneal
+T13	PROCEDURE 2628 2645	antiinflamatorios
+T14	PROCEDURE 2614 2626	antitérmicos
+T15	PROCEDURE 668 686	exploración física
+T16	PROCEDURE 1143 1166	exploración neurológica
+T17	PROCEDURE 2647 2653	reposo
+T18	PROCEDURE 1924 1940	Orina: sedimento
+T19	PROCEDURE 1509 1525	transiluminación
+T20	PROCEDURE 2687 2710	tratamiento antibiótico
+T21	PROCEDURE 3001 3024	tratamiento antibiótico
+T22	PROCEDURE 1307 1328	exploración urológica
+T23	PROCEDURE 2656 2676	elevación testicular
+T25	PROCEDURE 1452 1461	palpación
+T27	PROCEDURE 2131 2148	pruebas de imagen

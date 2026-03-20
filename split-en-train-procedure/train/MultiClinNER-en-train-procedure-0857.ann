@@ -1,0 +1,24 @@
+T3	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T4	PROCEDURE 321 346	venous Doppler ultrasound
+T15	PROCEDURE 513 523	venography
+T5	PROCEDURE 810 826	vascular surgery
+T12	PROCEDURE 892 934	stent implantation in the venous territory
+T6	PROCEDURE 968 986	diuretic treatment
+T7	PROCEDURE 991 1006	anticoagulation
+T9	PROCEDURE 1262 1281	general anaesthesia
+T10	PROCEDURE 1287 1306	invasive monitoring
+T31	PROCEDURE 1308 1333	echocardiographic control
+T30	PROCEDURE 1391 1424	right femoral vein was cannulated
+T29	PROCEDURE 1456 1517	epicardial electrode was implanted through a left thoracotomy
+T28	PROCEDURE 1693 1742	careful dissection, the old generator was removed
+T27	PROCEDURE 1748 1848	using Cook radiofrequency sheaths and Spectranetic mechanical sheaths, the electrodes were extracted
+T11	PROCEDURE 1919 1940	removal of the sheath
+T26	PROCEDURE 2054 2145	balloon angioplasty and implantation of two self-expanding stents in the superior vena cava
+T13	PROCEDURE 2288 2306	stent implantation
+T25	PROCEDURE 2322 2386	an SSI generator was connected to the right suprapectoral neobag
+T24	PROCEDURE 2657 2680	anticoagulant treatment
+T23	PROCEDURE 2712 2714	CT
+T14	PROCEDURE 2912 2927	MP implantation
+T22	PROCEDURE 2946 2966	electrode extraction
+T16	PROCEDURE 2971 2996	venous stent implantation
+T8	PROCEDURE 2998 3031	Epicardial electrode implantation

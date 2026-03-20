@@ -1,0 +1,26 @@
+T31	PROCEDURE 184 204	Physical examination
+T32	PROCEDURE 290 318	cardiopulmonary auscultation
+T2	PROCEDURE 480 508	transthoracic echocardiogram
+T44	PROCEDURE 1015 1026	coagulation
+T43	PROCEDURE 1060 1072	Biochemistry
+T45	PROCEDURE 1240 1254	Urine sediment
+T33	PROCEDURE 1314 1328	Blood cultures
+T46	PROCEDURE 1314 1339	Blood cultures were taken
+T34	PROCEDURE 1388 1405	Electrocardiogram
+T35	PROCEDURE 1510 1542	transesophageal echocardiography
+T36	PROCEDURE 2073 2110	cranial computed tomography (CT) scan
+T6	PROCEDURE 2243 2281	brain magnetic resonance imaging (MRI)
+T37	PROCEDURE 2502 2521	thoracoabdominal CT
+T38	PROCEDURE 2779 2794	Catheterisation
+T39	PROCEDURE 2868 2888	antibiotic treatment
+T10	PROCEDURE 3125 3153	transthoracic echocardiogram
+T40	PROCEDURE 3468 3487	depletive treatment
+T41	PROCEDURE 3492 3527	non-invasive mechanical ventilation
+T48	PROCEDURE 3600 3618	surgical treatment
+T19	PROCEDURE 3628 3710	atrial mass was resected by resection of the fossa ovalis through the right atrium
+T20	PROCEDURE 3716 3786	emoval of the tumour and its implantation base through the left atrium
+T42	PROCEDURE 3788 3838	The mitral valve apparatus was completely resected
+T21	PROCEDURE 3845 3918	St Jude porcine biological prosthesis (model Epic E100-29M) was implanted
+T49	PROCEDURE 3924 3968	anatomopathological and infectious diagnosis
+T47	PROCEDURE 3972 3997	Polymerase Chain Reaction
+T50	PROCEDURE 3999 4033	universal PCR of the 16S rRNA gene

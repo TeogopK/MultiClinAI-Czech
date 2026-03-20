@@ -1,0 +1,20 @@
+T17	PROCEDURE 193 200	surgery
+T1	PROCEDURE 447 467	Physical examination
+T15	PROCEDURE 499 518	abdominal palpation
+T13	PROCEDURE 807 869	Serologies for hepatotropic viruses, Brucella and Echinococcus
+T2	PROCEDURE 882 903	serial blood cultures
+T14	PROCEDURE 925 939	tumour markers
+T3	PROCEDURE 980 1000	Abdominal ultrasound
+T27	PROCEDURE 1123 1178	Abdominal-pelvic computed tomography (CT) with contrast
+T28	PROCEDURE 1309 1331	Fine-needle aspiration
+T4	PROCEDURE 1373 1393	cytological analysis
+T5	PROCEDURE 1499 1522	Microbiological culture
+T31	PROCEDURE 1527 1563	parasite examination of the aspirate
+T6	PROCEDURE 1607 1640	broad-spectrum antibiotic therapy
+T33	PROCEDURE 1693 1730	implantation of percutaneous drainage
+T11	PROCEDURE 1833 1853	radiological control
+T7	PROCEDURE 1924 1935	colonoscopy
+T8	PROCEDURE 2050 2075	anatomopathological study
+T12	PROCEDURE 2136 2151	extension study
+T9	PROCEDURE 2229 2248	right hemicolectomy
+T10	PROCEDURE 2297 2318	adjuvant chemotherapy

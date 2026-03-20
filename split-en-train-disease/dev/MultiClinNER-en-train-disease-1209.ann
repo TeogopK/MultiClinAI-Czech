@@ -1,0 +1,15 @@
+T1	DISEASE 300 321	Allergy to penicillin
+T22	DISEASE 343 360	drug intoxication
+T2	DISEASE 735 770	use of toxic substances and cocaine
+T31	DISEASE 876 901	poor peripheral perfusion
+T23	DISEASE 957 970	heart failure
+T30	DISEASE 1201 1218	Myocardial damage
+T24	DISEASE 1356 1387	acute pleuropulmonary pathology
+T32	DISEASE 1593 1618	poor peripheral perfusion
+T7	DISEASE 1674 1703	AMI with ST-segment elevation
+T25	DISEASE 2274 2302	supraventricular tachycardia
+T26	DISEASE 2312 2335	ventricular tachycardia
+T27	DISEASE 2470 2478	asystole
+T28	DISEASE 2590 2598	asystole
+T29	DISEASE 2667 2682	cardiac rupture
+T8	DISEASE 2765 2837	Acute myocardial infarction with ST-segment elevation due to cocaine use

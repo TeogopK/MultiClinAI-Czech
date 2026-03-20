@@ -1,0 +1,7 @@
+T1	DISEASE 75 84	silicosis
+T2	DISEASE 104 113	Exfumador
+T3	DISEASE 155 176	Tuberculosis pulmonar
+T13	DISEASE 611 657	coágulo en bronquio de lóbulo superior derecho
+T14	DISEASE 99 102	FMP
+T5	DISEASE 915 953	engrosamiento pleural nodular y difuso
+#1	AnnotatorNotes T14	  FMP: Fibrosis masiva progresiva

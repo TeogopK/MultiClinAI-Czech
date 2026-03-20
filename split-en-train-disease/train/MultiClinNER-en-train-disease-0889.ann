@@ -1,0 +1,35 @@
+T1	DISEASE 111 115	IDDM
+T20	DISEASE 117 137	Diabetic retinopathy
+T31	DISEASE 158 161	DLP
+T32	DISEASE 163 169	Smoker
+T21	DISEASE 209 213	COPD
+T2	DISEASE 365 385	confusional disorder
+T4	DISEASE 500 517	exertional angina
+T5	DISEASE 520 522	HF
+T22	DISEASE 1091 1121	Moderate-severe concentric LVH
+T6	DISEASE 1212 1320	Bicuspid aortic valve severely calcified and very unstructured with significant restriction to valve opening
+T7	DISEASE 1387 1410	Ascending aorta dilated
+T8	DISEASE 1479 1501	LAD with severe lesion
+T9	DISEASE 1624 1648	ACD with moderate lesion
+T10	DISEASE 1708 1718	Severe AoS
+T11	DISEASE 1773 1841	diffuse aneurysmal dilatation of the aortic root and ascending aorta
+T23	DISEASE 2689 2716	decompensated heart failure
+T24	DISEASE 2720 2742	acute pulmonary oedema
+T14	DISEASE 2916 2927	AF with RVR
+T33	DISEASE 2990 3007	myocardial damage
+T15	DISEASE 3060 3070	severe AoS
+T16	DISEASE 3466 3528	severe bifurcated lesion of the medial LAD and diagonal branch
+T17	DISEASE 3561 3609	calcified aortic valve with very reduced opening
+T18	DISEASE 3779 3805	LV with septal hypertrophy
+T25	DISEASE 4280 4350	moderate pericardial effusion associated with haemodynamic instability
+T66	DISEASE 4408 4429	clots stuck to the LV
+T26	DISEASE 4605 4621	pleural effusion
+T67	DISEASE 4649 4651	AF
+T34	DISEASE 4738 4750	moderate LVH
+T68	DISEASE 5078 5081	PHT
+T35	DISEASE 5083 5094	dilated IVC
+T28	DISEASE 5139 5169	posterior pericardial effusion
+T29	DISEASE 5185 5209	bibasal pleural effusion
+T30	DISEASE 5555 5597	Severe aortic stenosis with bicuspid valve
+T69	DISEASE 5600 5645	Dilatation of aortic root and ascending aorta
+T70	DISEASE 5659 5717	Severe bifurcated lesion of the anterior descending artery

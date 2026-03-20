@@ -1,0 +1,26 @@
+T60	PROCEDURE 250 270	PHYSICAL EXAMINATION
+T53	PROCEDURE 608 621	valve surgery
+T3	PROCEDURE 627 673	implantation of a biological aortic prosthesis
+T4	PROCEDURE 718 752	BJORK mechanical aortic prosthesis
+T55	PROCEDURE 803 818	cardiac surgery
+T5	PROCEDURE 823 884	implantation of mechanical mitral prosthesis Omnicarbon No 27
+T58	PROCEDURE 1018 1031	cardioversion
+T59	PROCEDURE 1107 1127	mitral valve surgery
+T61	PROCEDURE 2045 2065	Physical examination
+T62	PROCEDURE 2153 2173	Cardiac auscultation
+T63	PROCEDURE 2263 2285	Pulmonary auscultation
+T64	PROCEDURE 2439 2453	deep palpation
+T65	PROCEDURE 2586 2597	Chest X-ray
+T66	PROCEDURE 2753 2770	Electrocardiogram
+T67	PROCEDURE 2772 2775	ECG
+T68	PROCEDURE 3085 3099	Echocardiogram
+T69	PROCEDURE 3521 3529	Chest CT
+T71	PROCEDURE 3742 3759	Abdomen-pelvis CT
+T72	PROCEDURE 4596 4614	diuretic treatment
+T74	PROCEDURE 4703 4708	X-ray
+T70	PROCEDURE 4815 4823	chest CT
+T56	PROCEDURE 5508 5523	cardiac surgery
+T75	PROCEDURE 5635 5649	aortic surgery
+T21	PROCEDURE 5635 5721	aortic surgery, implanting a FlowWeave Bioseal 32 mm supracoronary vascular prosthesis
+T20	PROCEDURE 5798 5825	tricuspid Vega annuloplasty
+T57	PROCEDURE 5895 5910	cardiac surgery

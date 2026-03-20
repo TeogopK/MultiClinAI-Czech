@@ -1,0 +1,68 @@
+T56	DISEASE 157 180	alergias medicamentosas
+T57	DISEASE 195 203	fumadora
+T58	DISEASE 207 215	bebedora
+T59	DISEASE 220 241	hipertensión arterial
+T60	DISEASE 243 246	HTA
+T61	DISEASE 252 269	diabetes mellitus
+T62	DISEASE 271 273	DM
+T63	DISEASE 279 289	dislipemia
+T64	DISEASE 304 315	cardiopatía
+T65	DISEASE 319 330	broncopatía
+T66	DISEASE 1647 1672	trombosis venosa profunda
+T67	DISEASE 1674 1677	TVP
+T68	DISEASE 2409 2430	fibrilación auricular
+T69	DISEASE 2432 2434	FA
+T70	DISEASE 2449 2474	extrasistolia ventricular
+T71	DISEASE 2642 2689	bloqueo completo de rama derecha del haz de His
+T72	DISEASE 3116 3130	isquemia aguda
+T73	DISEASE 3404 3429	derrame pleural bilateral
+T74	DISEASE 3431 3444	Hepatomegalia
+T75	DISEASE 3725 3812	VI de tamaño normal con marcada hipocontractilidad global y disfunción sistólica severa
+T76	DISEASE 3845 3897	Insuficiencia mitral que impresiona de leve-moderada
+T77	DISEASE 4096 4140	trastornos segmentarios de la contractilidad
+T78	DISEASE 4251 4312	Válvula mitral anatómicamente normal con jet de insuficiencia
+T79	DISEASE 4632 4637	shock
+T81	DISEASE 5245 5250	shock
+T82	DISEASE 5426 5466	taquicardia supraventricular persistente
+T83	DISEASE 5605 5623	shock cardiogénico
+T84	DISEASE 5804 5823	fallo multiorgánico
+T85	DISEASE 5825 5868	insuficiencia hepático y renal oligoanúrica
+T86	DISEASE 6227 6250	taquicardia ventricular
+T87	DISEASE 6718 6743	preexcitación ventricular
+T88	DISEASE 6805 6823	shock cardiogénico
+T89	DISEASE 6845 6864	fallo multiorgánico
+T90	DISEASE 7251 7286	flutter auricular con conducción AV
+T91	DISEASE 7354 7377	flutter 2:1 preexcitado
+T92	DISEASE 7407 7430	taquicardia ortodrómica
+T93	DISEASE 7618 7632	FA preexcitada
+T94	DISEASE 7950 7971	fibrilación auricular
+T95	DISEASE 7974 7991	flutter auricular
+T96	DISEASE 8625 8659	insuficiencia mitral leve-moderada
+T97	DISEASE 8672 8693	disfunción diastólica
+T98	DISEASE 8779 8802	taquicardia ortodrómica
+T99	DISEASE 8804 8825	fibrilación auricular
+T100	DISEASE 8828 8848	flutter preexcitados
+T101	DISEASE 8850 8869	Taquimiocardiopatía
+T102	DISEASE 8897 8923	disfunción sistólica grave
+T103	DISEASE 8967 9009	Shock cardiogénico con fallo multiorgánico
+T104	DISEASE 2691 2697	BCRDHH
+T105	DISEASE 6138 6144	BCRDHH
+T106	DISEASE 7321 7327	BCRDHH
+T107	DISEASE 4142 4163	Disfunción diastólica
+T108	DISEASE 5533 5573	FA con frecuencia ventricular controlada
+T109	DISEASE 8353 8355	FA
+T110	DISEASE 1426 1439	Hepatomegalia
+T111	DISEASE 7018 7036	eventos arrítmicos
+T113	DISEASE 1145 1169	hipoperfusión periférica
+T114	DISEASE 1455 1501	Extremidades superiores: mala perfusión distal
+T115	DISEASE 1555 1601	Extremidades superiores: mala perfusión distal
+T117	DISEASE 4018 4071	ventrículo izquierdo (VI) no dilatado con hipertrofia
+T119	DISEASE 8358 8365	flutter
+T120	DISEASE 8708 8741	Síndrome de Wolff-Parkinson-White
+T196	DISEASE 6007 6034	taquicardia de QRS estrecho
+T197	DISEASE 6077 6103	taquicardia rítmica de QRS
+T199	DISEASE 6394 6418	taquicardia de QRS ancho
+T1	DISEASE 716 740	hipoperfusión periférica
+T112	DISEASE 7218 7227	QRS ancho
+T118	DISEASE 7293 7302	QRS ancho
+T170	DISEASE 7330 7338	HV corto

@@ -1,0 +1,32 @@
+T1	SYMPTOM 219 229	odinofagia
+T2	SYMPTOM 234 240	fiebre
+T3	SYMPTOM 315 335	ruidos respiratorios
+T4	SYMPTOM 350 371	pérdida de conciencia
+T5	SYMPTOM 1361 1376	Palidez cutánea
+T6	SYMPTOM 1381 1387	edemas
+T7	SYMPTOM 1392 1401	petequias
+T8	SYMPTOM 1408 1439	Buena entrada de aire bilateral
+T9	SYMPTOM 1441 1465	Tonos cardiacos rítmicos
+T10	SYMPTOM 1467 1495	Abdomen: Blando y depresible
+T11	SYMPTOM 1500 1505	masas
+T12	SYMPTOM 1509 1517	megalias
+T13	SYMPTOM 1584 1606	descenso marcado de ST
+T14	SYMPTOM 3059 3070	bradicardia
+T17	SYMPTOM 3904 3924	Función renal normal
+T22	SYMPTOM 1946 1974	Aorta y A. pulmonar normales
+T85	SYMPTOM 4504 4544	Función ventricular izquierda conservada
+T88	SYMPTOM 1804 1822	SIA y SIV íntegros
+T92	SYMPTOM 1918 1944	Válvulas normofuncionantes
+T94	SYMPTOM 1882 1905	buena función sistólica
+T95	SYMPTOM 2855 2877	condensación neumónica
+T96	SYMPTOM 2342 2410	pase de contraste desde la coronaria izquierda a la arteria pulmonar
+T97	SYMPTOM 3809 3826	diuresis adecuada
+T107	SYMPTOM 1063 1068	soplo
+T15	SYMPTOM 1551 1581	Crecimiento de cavidades izdas
+T16	SYMPTOM 1784 1802	concordancia AV-VA
+T18	SYMPTOM 2036 2089	No se observa coronaria izquierda en su origen normal
+T79	SYMPTOM 2091 2142	Flujo a arteria pulmonar fundamentalmente sistólico
+T80	SYMPTOM 2488 2538	circulación colateral hacia la coronaria izquierda
+T83	SYMPTOM 3097 3116	alargamiento de QTc
+T86	SYMPTOM 3553 3591	oximetría cerebral estable y simétrica
+T87	SYMPTOM 3699 3730	movilidad espontánea coordinada

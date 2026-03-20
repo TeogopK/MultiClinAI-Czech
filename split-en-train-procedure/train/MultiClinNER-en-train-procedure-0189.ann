@@ -1,0 +1,20 @@
+T1	PROCEDURE 203 246	chemotherapy according to the CHOP-R scheme
+T12	PROCEDURE 233 246	CHOP-R scheme
+T15	PROCEDURE 350 371	autologous transplant
+T16	PROCEDURE 411 429	total body CT scan
+T2	PROCEDURE 486 507	osteomedullary biopsy
+T3	PROCEDURE 615 635	physical examination
+T4	PROCEDURE 782 802	physical examination
+T20	PROCEDURE 944 968	Virological examinations
+T5	PROCEDURE 984 1005	serial blood cultures
+T22	PROCEDURE 1024 1044	CT scan of the skull
+T9	PROCEDURE 1159 1185	granulocyte growth factors
+T13	PROCEDURE 1187 1198	antifungals
+T10	PROCEDURE 1203 1229	broad-spectrum antibiotics
+T6	PROCEDURE 1399 1414	lumbar puncture
+T25	PROCEDURE 1430 1461	Microscopic analysis of the CSF
+T7	PROCEDURE 1671 1711	Immunohistochemical cytological analysis
+T28	PROCEDURE 1837 1861	repeated analysis of CSF
+T14	PROCEDURE 1912 1922	spinal tap
+T11	PROCEDURE 2006 2019	blood culture
+T8	PROCEDURE 2090 2110	antibiotic treatment

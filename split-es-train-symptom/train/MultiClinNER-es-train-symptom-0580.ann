@@ -1,0 +1,26 @@
+T1	SYMPTOM 562 597	dolor y escozor en la región costal
+T2	SYMPTOM 1141 1156	dolor abdominal
+T3	SYMPTOM 1174 1189	heces melénicas
+T4	SYMPTOM 1191 1212	dolor en cavidad oral
+T5	SYMPTOM 1215 1223	disfagia
+T6	SYMPTOM 1795 1801	fiebre
+T7	SYMPTOM 1858 1872	picos febriles
+T8	SYMPTOM 2575 2608	pigmentación cutánea generalizada
+T9	SYMPTOM 2774 2799	secreciones respiratorias
+T10	SYMPTOM 1255 1262	afebril
+T11	SYMPTOM 2725 2757	empeoramiento del estado general
+T12	SYMPTOM 1411 1421	leucopenia
+T13	SYMPTOM 1804 1815	neutropenia
+T14	SYMPTOM 1461 1472	trombopenia
+T15	SYMPTOM 2258 2263	dolor
+T16	SYMPTOM 2817 2822	dolor
+T17	SYMPTOM 1910 1958	hemocultivos repetidos, que resultaron estériles
+T18	SYMPTOM 1973 2064	determinaciones de anticuerpos antimicelio, β-glucano y galactomanano, que fueron negativas
+T19	SYMPTOM 2933 2941	falleció
+T20	SYMPTOM 2611 2619	alopecia
+A1	RESULTADO T12
+A2	RESULTADO T13
+A3	RESULTADO T14
+A4	RESULTADO T17
+A5	RESULTADO T18
+A6	EXITUS T19

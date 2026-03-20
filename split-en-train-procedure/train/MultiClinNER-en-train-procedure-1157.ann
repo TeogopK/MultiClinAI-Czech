@@ -1,0 +1,34 @@
+T61	PROCEDURE 369 387	oral antidiabetics
+T2	PROCEDURE 524 549	completely revascularised
+T62	PROCEDURE 761 781	coronary angiography
+T6	PROCEDURE 996 1106	triple coronary artery bypass (left internal mammary to LAD, saphenous to obtuse marginal and saphenous to RCA
+T63	PROCEDURE 1122 1138	echocardiography
+T8	PROCEDURE 1234 1242	analysis
+T9	PROCEDURE 1501 1526	myocardial damage markers
+T10	PROCEDURE 1539 1553	echocardiogram
+T12	PROCEDURE 1860 1870	blood test
+T77	PROCEDURE 2278 2300	surgical interventions
+T65	PROCEDURE 2445 2471	surgical revascularisation
+T66	PROCEDURE 2683 2705	cardiac rehabilitation
+T72	PROCEDURE 2823 2843	PHYSICAL EXAMINATION
+T67	PROCEDURE 2952 2966	oxygen therapy
+T68	PROCEDURE 3040 3060	Cardiac auscultation
+T69	PROCEDURE 3309 3312	ECG
+T64	PROCEDURE 3517 3533	Echocardiography
+T16	PROCEDURE 4030 4033	CBC
+T17	PROCEDURE 4048 4051	CBC
+T70	PROCEDURE 4125 4137	Biochemistry
+T75	PROCEDURE 4161 4173	electrolytes
+T73	PROCEDURE 4216 4229	Lipid profile
+T18	PROCEDURE 4314 4325	Blood tests
+T19	PROCEDURE 4366 4369	CBC
+T71	PROCEDURE 4443 4455	Biochemistry
+T76	PROCEDURE 4479 4491	electrolytes
+T80	PROCEDURE 4500 4521	hepatobiliary profile
+T74	PROCEDURE 4535 4548	Lipid profile
+T20	PROCEDURE 4773 4799	high-dose statin treatment
+T22	PROCEDURE 5053 5082	hygienic and dietary measures
+T21	PROCEDURE 5096 5106	blood test
+T24	PROCEDURE 5451 5461	blood test
+T25	PROCEDURE 5597 5605	analysis
+T78	PROCEDURE 5731 5787	completely surgically revascularised multivessel disease

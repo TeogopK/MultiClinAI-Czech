@@ -1,0 +1,32 @@
+T47	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T49	PROCEDURE 324 333	anamnesis
+T48	PROCEDURE 564 584	Physical examination
+T1	PROCEDURE 691 703	Neurological
+T2	PROCEDURE 732 749	Cardiorespiratory
+T3	PROCEDURE 1073 1089	analytical tests
+T4	PROCEDURE 1203 1219	Venous blood gas
+T50	PROCEDURE 1279 1282	ECG
+T51	PROCEDURE 1384 1398	Echocardiogram
+T5	PROCEDURE 1802 1828	Cardiac magnetic resonance
+T6	PROCEDURE 1830 1833	CMR
+T7	PROCEDURE 2108 2122	STIR sequences
+T54	PROCEDURE 2472 2496	bedside echocardiography
+T8	PROCEDURE 2589 2592	CMR
+T9	PROCEDURE 2623 2640	echocardiographic
+T10	PROCEDURE 2860 2874	ACE inhibitors
+T55	PROCEDURE 2876 2889	beta-blockers
+T11	PROCEDURE 2891 2905	loop diuretics
+T12	PROCEDURE 2910 2931	antialdosterone drugs
+T56	PROCEDURE 2979 3002	cardiac transplantation
+T59	PROCEDURE 3191 3207	vasoactive drugs
+T13	PROCEDURE 3316 3338	levosimendan perfusion
+T14	PROCEDURE 3376 3472	Levitronix Centrimag type ventricular assist device was implanted via the left subclavian artery
+T57	PROCEDURE 3482 3505	cardiac transplantation
+T15	PROCEDURE 3516 3583	orthotopic transplantation was performed using the bicava technique
+T60	PROCEDURE 3650 3659	Extubated
+T16	PROCEDURE 3701 3731	Post-transplant echocardiogram
+T61	PROCEDURE 3958 3985	immunosuppressive treatment
+T62	PROCEDURE 3991 4006	corticosteroids
+T17	PROCEDURE 4114 4143	Coronary angiography with OCT
+T65	PROCEDURE 4181 4204	endomyocardial biopsies
+T58	PROCEDURE 4329 4352	Cardiac transplantation

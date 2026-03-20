@@ -1,0 +1,36 @@
+T1	SYMPTOM 23 33	chest pain
+T3	SYMPTOM 99 114	epigastric pain
+T4	SYMPTOM 196 204	vomiting
+T5	SYMPTOM 206 214	sweating
+T6	SYMPTOM 219 231	palpitations
+T7	SYMPTOM 468 480	asymptomatic
+T26	SYMPTOM 1008 1017	Conscious
+T12	SYMPTOM 1019 1027	oriented
+T25	SYMPTOM 1032 1043	cooperative
+T27	SYMPTOM 1045 1061	Normal hydration
+T28	SYMPTOM 1063 1076	normal colour
+T29	SYMPTOM 1081 1093	normal depth
+T13	SYMPTOM 1095 1110	Facial flushing
+T30	SYMPTOM 1130 1156	jugular venous engorgement
+T31	SYMPTOM 1158 1191	Carotids rhythmic and symmetrical
+T14	SYMPTOM 1200 1207	murmurs
+T19	SYMPTOM 1209 1239	Cardiac auscultation: rhythmic
+T16	SYMPTOM 1241 1252	tachycardic
+T15	SYMPTOM 1257 1264	murmurs
+T32	SYMPTOM 1268 1287	superimposed sounds
+T33	SYMPTOM 1313 1337	Bladder murmur preserved
+T17	SYMPTOM 1339 1388	Lower extremities: Pulses present and symmetrical
+T18	SYMPTOM 1393 1399	oedema
+T34	SYMPTOM 1517 1535	Coagulation normal
+T22	SYMPTOM 1888 1923	left ventricle of normal dimensions
+T35	SYMPTOM 1924 1968	Left ventricular ejection fraction preserved
+T20	SYMPTOM 2036 2059	generalised hypokinesia
+T36	SYMPTOM 2109 2151	slight depression of the ejection fraction
+T24	SYMPTOM 2562 2612	artery with TIMI III flow and no residual stenosis
+T21	SYMPTOM 2773 2802	Lupus anticoagulant: negative
+T8	SYMPTOM 3173 3185	Asymptomatic
+T2	SYMPTOM 3190 3200	chest pain
+T9	SYMPTOM 3454 3466	asymptomatic
+T23	SYMPTOM 3471 3477	stable
+T10	SYMPTOM 3836 3848	asymptomatic
+T11	SYMPTOM 4116 4128	asymptomatic

@@ -1,0 +1,31 @@
+T1	SYMPTOM 429 467	disnea progresiva de mínimos esfuerzos
+T2	SYMPTOM 495 503	ortopnea
+T3	SYMPTOM 506 533	disnea paroxística nocturna
+T4	SYMPTOM 552 565	palpitaciones
+T5	SYMPTOM 570 584	dolor torácico
+T7	SYMPTOM 761 782	ingurgitación yugular
+T8	SYMPTOM 784 793	arrítmica
+T9	SYMPTOM 798 804	soplos
+T10	SYMPTOM 854 891	crepitantes en ambas bases pulmonares
+T11	SYMPTOM 900 931	abdomen normal a la exploración
+T12	SYMPTOM 938 1002	edemas maleolares con fóvea en tercio distal miembros inferiores
+T13	SYMPTOM 1512 1579	ventrículo izquierdo de dimensiones en límite alto de la normalidad
+T14	SYMPTOM 1959 1971	QRS estrecho
+T15	SYMPTOM 1983 2016	alteraciones electrocardiografías
+T16	SYMPTOM 2061 2080	congestión pulmonar
+T17	SYMPTOM 2106 2137	índice cardiotorácico aumentado
+T18	SYMPTOM 2165 2197	ventrículo izquierdo no dilatado
+T19	SYMPTOM 2223 2238	FEVI conservada
+T20	SYMPTOM 2291 2325	Patrón diastólico con onda E única
+T22	SYMPTOM 2670 2696	FEVI severamente deprimida
+T23	SYMPTOM 2908 2940	ventrículo izquierdo no dilatado
+T24	SYMPTOM 3252 3301	ventrículo izquierdo normales con FEVI conservada
+T25	SYMPTOM 3392 3398	FA-RVR
+T26	SYMPTOM 3412 3438	inestabilidad hemodinámica
+T99	SYMPTOM 737 756	taquipnea en reposo
+T6	SYMPTOM 2243 2289	alteraciones segmentarias de la contractilidad
+T87	SYMPTOM 2410 2451	Válvula aórtica trivalva normofuncionante
+T21	SYMPTOM 2945 2956	FEVI normal
+T88	SYMPTOM 2961 3007	alteraciones segmentarias de la contractilidad
+T101	SYMPTOM 2453 2484	Cavidades derechas no dilatadas
+T107	SYMPTOM 4100 4146	arterias coronarias angiográficamente normales

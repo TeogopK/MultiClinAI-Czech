@@ -1,0 +1,23 @@
+T5	DISEASE 78 84	smoker
+T6	DISEASE 598 614	facial paralysis
+T7	DISEASE 1027 1055	structural cardiac pathology
+T8	DISEASE 1146 1172	transient ischaemic attack
+T9	DISEASE 1351 1377	ventricular pseudoaneurysm
+T12	DISEASE 1392 1400	thrombus
+T13	DISEASE 1942 1950	thrombus
+T17	DISEASE 1980 1992	cardiomegaly
+T10	DISEASE 2472 2498	ventricular pseudoaneurysm
+T14	DISEASE 2523 2531	thrombus
+T18	DISEASE 2629 2658	moderate systolic dysfunction
+T19	DISEASE 2816 2857	Anterior descending: with severe stenosis
+T27	DISEASE 3344 3361	arrhythmic events
+T20	DISEASE 3741 3768	significant stenosis in MCA
+T21	DISEASE 3955 3980	intraventricular thrombus
+T15	DISEASE 3972 3980	thrombus
+T22	DISEASE 4475 4503	refractory cardiogenic shock
+T23	DISEASE 4516 4533	Silent infarction
+T24	DISEASE 4549 4584	inferior ventricular pseudoaneurysm
+T11	DISEASE 4558 4584	ventricular pseudoaneurysm
+T25	DISEASE 4591 4605	mural thrombus
+T16	DISEASE 4597 4605	thrombus
+T26	DISEASE 4666 4703	Moderate left ventricular dysfunction

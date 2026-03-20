@@ -1,0 +1,30 @@
+T59	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T55	PROCEDURE 1021 1049	transthoracic echocardiogram
+T56	PROCEDURE 1244 1259	catheterisation
+T60	PROCEDURE 1262 1282	Physical examination
+T61	PROCEDURE 1448 1468	Cardiac auscultation
+T62	PROCEDURE 1492 1514	Pulmonary auscultation
+T63	PROCEDURE 1690 1707	electrocardiogram
+T64	PROCEDURE 1709 1712	ECG
+T65	PROCEDURE 2262 2273	Chest X-ray
+T67	PROCEDURE 2338 2352	Echocardiogram
+T69	PROCEDURE 2528 2548	Coronary angiography
+T73	PROCEDURE 2723 2757	percutaneous coronary intervention
+T3	PROCEDURE 2759 2762	PCI
+T1	PROCEDURE 2768 2815	implantation of overlapping drug-eluting stents
+T66	PROCEDURE 2875 2947	first obtuse marginal (OM1) treated with drug-eluting stent implantation
+T70	PROCEDURE 3003 3023	Coronary angiography
+T58	PROCEDURE 3036 3104	Cx stent thrombosis with new implantation of two drug-eluting stents
+T68	PROCEDURE 3106 3120	Echocardiogram
+T57	PROCEDURE 3314 3329	Catheterisation
+T74	PROCEDURE 3640 3679	percutaneous coronary revascularisation
+T71	PROCEDURE 3681 3701	Coronary angiography
+T53	PROCEDURE 3912 3947	revascularisation of the LAD and Cx
+T45	PROCEDURE 4214 4251	oxygen therapy with high-flow glasses
+T79	PROCEDURE 4322 4336	renal function
+T75	PROCEDURE 4713 4744	diagnostic coronary angiography
+T76	PROCEDURE 4853 4873	antiplatelet therapy
+T80	PROCEDURE 5060 5074	renal function
+T77	PROCEDURE 5122 5144	antithrombotic therapy
+T78	PROCEDURE 5566 5589	cardiac catheterisation
+T44	PROCEDURE 5629 5673	Percutaneous revascularisation of LAD and Cx

@@ -1,0 +1,32 @@
+T28	DISEASE 299 305	angina
+T29	DISEASE 307 314	syncope
+T30	DISEASE 344 354	infections
+T1	DISEASE 538 548	Arrhythmic
+T31	DISEASE 646 649	DVT
+T2	DISEASE 699 709	Arrhythmic
+T32	DISEASE 788 791	DVT
+T33	DISEASE 2692 2708	pleural effusion
+T4	DISEASE 2767 2769	AF
+T5	DISEASE 2842 2860	Moderate-severe TR
+T6	DISEASE 2875 2897	valvular heart disease
+T7	DISEASE 2902 2910	effusion
+T26	DISEASE 2912 2934	Biauricular dilatation
+T37	DISEASE 2936 2953	Dilated vena cava
+T8	DISEASE 3034 3036	AF
+T9	DISEASE 3230 3268	Mitral insufficiency at least moderate
+T36	DISEASE 3270 3303	Moderate dilatation of both atria
+T10	DISEASE 3305 3363	Slightly dilated right ventricle with moderate dysfunction
+T11	DISEASE 3365 3440	Moderate to severe tricuspid insufficiency due to dilatation of the annulus
+T34	DISEASE 3555 3575	pericardial effusion
+T12	DISEASE 3609 3611	AF
+T13	DISEASE 3708 3710	AF
+T14	DISEASE 3879 3934	HF in the context of AF with rapid ventricular response
+T15	DISEASE 4058 4076	atria were dilated
+T16	DISEASE 4094 4112	moderate-severe TR
+T17	DISEASE 4124 4144	at least moderate 1M
+T35	DISEASE 4316 4327	hypotension
+T18	DISEASE 4363 4365	HF
+T19	DISEASE 4367 4400	Atrial fibrillation with rapid RV
+T20	DISEASE 4416 4437	Moderate to severe TR
+T21	DISEASE 4439 4459	at least moderate 1M
+T27	DISEASE 4464 4486	biauricular dilatation

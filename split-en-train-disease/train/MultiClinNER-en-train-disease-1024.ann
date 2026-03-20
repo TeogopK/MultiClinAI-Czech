@@ -1,0 +1,29 @@
+T11	DISEASE 36 55	high blood pressure
+T12	DISEASE 60 67	smoking
+T15	DISEASE 315 342	hypertrophic cardiomyopathy
+T31	DISEASE 344 355	Moderate MI
+T1	DISEASE 386 405	Slightly dilated LA
+T2	DISEASE 429 443	LV hypertrophy
+T3	DISEASE 523 537	incomplete SAM
+T35	DISEASE 1045 1052	syncope
+T34	DISEASE 1745 1773	left ventricular hypertrophy
+T10	DISEASE 2209 2277	systolic anterior motion of the anterior leaflet of the mitral valve
+T32	DISEASE 2311 2329	moderate-severe MI
+T33	DISEASE 2418 2455	polymorphic ventricular extrasystoles
+T14	DISEASE 2527 2550	ventricular tachycardia
+T16	DISEASE 2633 2660	hypertrophic cardiomyopathy
+T17	DISEASE 2720 2747	severe mitral insufficiency
+T7	DISEASE 3438 3455	ischaemia induced
+T9	DISEASE 3647 3694	ischaemia in the desired proximal septal region
+T18	DISEASE 3939 3959	mitral regurgitation
+T21	DISEASE 4374 4407	malignant ventricular arrhythmias
+T22	DISEASE 4583 4612	severe acute pulmonary oedema
+T23	DISEASE 4631 4644	heart failure
+T27	DISEASE 4652 4708	severe obstruction of the left ventricular outflow tract
+T19	DISEASE 4724 4744	mitral insufficiency
+T25	DISEASE 5032 5061	moderate mitral regurgitation
+T24	DISEASE 5396 5409	Heart failure
+T28	DISEASE 5415 5437	acute pulmonary oedema
+T29	DISEASE 5441 5509	Hypertrophic obstructive cardiomyopathy with severe LVOT obstruction
+T30	DISEASE 5582 5599	Complete AV block
+T26	DISEASE 5646 5675	Moderate mitral insufficiency

@@ -1,0 +1,18 @@
+T14	PROCEDURE 192 199	surgery
+T16	PROCEDURE 451 481	treatment with corticosteroids
+T3	PROCEDURE 816 843	Cardiopulmonary examination
+T20	PROCEDURE 860 880	complete blood count
+T5	PROCEDURE 1028 1046	Serum biochemistry
+T13	PROCEDURE 1071 1084	transaminases
+T9	PROCEDURE 1132 1143	Chest X-ray
+T7	PROCEDURE 1156 1168	Abdominal CT
+T10	PROCEDURE 1569 1580	colonoscopy
+T27	PROCEDURE 1617 1659	radiological evaluation of the small bowel
+T1	PROCEDURE 1786 1836	liver abscess was drained under ultrasound control
+T29	PROCEDURE 1857 1896	abscess contents were taken for culture
+T2	PROCEDURE 1931 1945	Blood cultures
+T4	PROCEDURE 1960 1986	Intravenous antibiotherapy
+T11	PROCEDURE 2014 2022	Drainage
+T12	PROCEDURE 2067 2075	drainage
+T6	PROCEDURE 2162 2182	antibiotic treatment
+T35	PROCEDURE 2187 2204	abdominal CT scan

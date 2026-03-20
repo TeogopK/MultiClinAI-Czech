@@ -1,0 +1,34 @@
+T28	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T30	PROCEDURE 218 221	ECG
+T32	PROCEDURE 315 324	anamnesis
+T29	PROCEDURE 752 772	Physical examination
+T33	PROCEDURE 810 824	echocardiogram
+T1	PROCEDURE 972 998	cardiac magnetic resonance
+T2	PROCEDURE 1000 1003	CMR
+T36	PROCEDURE 1199 1219	CT scan of the brain
+T3	PROCEDURE 1300 1303	CMR
+T4	PROCEDURE 1436 1443	surgery
+T37	PROCEDURE 1448 1468	coronary angiography
+T38	PROCEDURE 1599 1629	Transthoracic echocardiography
+T39	PROCEDURE 1952 1963	CHEST X-RAY
+T31	PROCEDURE 1994 1997	ECG
+T40	PROCEDURE 2066 2075	Haemogram
+T49	PROCEDURE 2142 2154	Biochemistry
+T41	PROCEDURE 2223 2236	Lipid profile
+T42	PROCEDURE 2319 2332	Liver profile
+T35	PROCEDURE 2459 2470	Cardiac MRI
+T5	PROCEDURE 2660 2674	CORONARYGRAPHY
+T43	PROCEDURE 3365 3374	telemetry
+T44	PROCEDURE 3447 3462	anticoagulation
+T6	PROCEDURE 3684 3691	CT scan
+T45	PROCEDURE 3707 3727	transcranial Doppler
+T7	PROCEDURE 3830 3837	surgery
+T46	PROCEDURE 3851 3868	median sternotomy
+T47	PROCEDURE 3889 3915	extracorporeal circulation
+T8	PROCEDURE 3921 3949	aneurysmal area was resected
+T9	PROCEDURE 3955 4049	intraventricular thrombus was removed and the lower wall was reconstructed with a Dacron patch
+T11	PROCEDURE 4136 4200	myocardial protection with antegrade and retrograde cardioplegia
+T10	PROCEDURE 4216 4253	removal of extracorporeal circulation
+T12	PROCEDURE 4296 4342	vasoactive amines (dobutamine + noradrenaline)
+T13	PROCEDURE 4705 4749	Surgery for resection of the aneurysmal area
+T14	PROCEDURE 4752 4776	AMI-DA and AMI-OM bypass

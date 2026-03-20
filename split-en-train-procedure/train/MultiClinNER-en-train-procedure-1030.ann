@@ -1,0 +1,15 @@
+T14	PROCEDURE 29 49	physical examination
+T16	PROCEDURE 337 340	ECG
+T15	PROCEDURE 382 402	Physical examination
+T18	PROCEDURE 436 450	Echocardiogram
+T19	PROCEDURE 452 463	chest X-ray
+T2	PROCEDURE 468 484	laboratory tests
+T3	PROCEDURE 562 581	exercise stress tes
+T20	PROCEDURE 743 749	Holter
+T21	PROCEDURE 1026 1032	Holter
+T25	PROCEDURE 1148 1158	monitoring
+T27	PROCEDURE 1324 1350	electrophysiological study
+T28	PROCEDURE 1385 1400	polysomnography
+T29	PROCEDURE 1486 1495	analgesia
+T17	PROCEDURE 1773 1810	implanting a single-chamber pacemaker
+T30	PROCEDURE 1900 1910	Holter ECG

@@ -1,0 +1,17 @@
+T12	PROCEDURE 253 281	general systemic examination
+T13	PROCEDURE 330 341	examination
+T11	PROCEDURE 650 659	palpation
+T6	PROCEDURE 788 806	Orthopantomography
+T16	PROCEDURE 827 874	contrast-enhanced computed tomography (CT) scan
+T1	PROCEDURE 866 868	CT
+T7	PROCEDURE 956 981	Radiological examinations
+T9	PROCEDURE 994 1021	haematological examinations
+T8	PROCEDURE 1033 1050	coagulation tests
+T10	PROCEDURE 1099 1111	radiological
+T14	PROCEDURE 1116 1118	CT
+T3	PROCEDURE 1191 1234	incisional biopsy of the vestibular gingiva
+T22	PROCEDURE 1568 1643	resection of the lesion was decided and performed under general anaesthesia
+T4	PROCEDURE 1740 1751	Haemostasis
+T5	PROCEDURE 1813 1856	advancement of the palate and buccal mucosa
+T25	PROCEDURE 1944 1965	Pathological analysis
+T2	PROCEDURE 2014 2031	incisional biopsy

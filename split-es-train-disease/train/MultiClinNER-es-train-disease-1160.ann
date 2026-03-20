@@ -1,0 +1,21 @@
+T34	DISEASE 2103 2120	VT: engrosamiento
+T37	DISEASE 118 134	anorexia-bulimia
+T38	DISEASE 236 257	aplasia medular grave
+T39	DISEASE 1181 1184	TVP
+T40	DISEASE 2576 2600	fibrosis del subvalvular
+T41	DISEASE 3236 3257	proceso endocardítico
+T42	DISEASE 3259 3291	Insuficiencia tricuspídea severa
+T43	DISEASE 3658 3681	infección de reservorio
+T44	DISEASE 3692 3704	endocarditis
+T45	DISEASE 3766 3811	endocarditis a nivel de la válvula tricúspide
+T46	DISEASE 4011 4032	Aplasia medular grave
+T47	DISEASE 4078 4146	Endocarditis sobre válvula tricúspide por Staphylococcus epidermidis
+T48	DISEASE 185 200	hábitos tóxicos
+T49	DISEASE 1958 1960	IM
+T50	DISEASE 2003 2031	Cavidades derechas dilatadas
+T52	DISEASE 2626 2650	afectación endocardítica
+T53	DISEASE 2689 2698	IT severa
+T54	DISEASE 2718 2738	perforación de velos
+T56	DISEASE 2999 3024	formaciones abcesificadas
+#1	AnnotatorNotes T49	 IM insuficiencia mitral
+#2	AnnotatorNotes T53	 IT insuficiencia tricuspídea

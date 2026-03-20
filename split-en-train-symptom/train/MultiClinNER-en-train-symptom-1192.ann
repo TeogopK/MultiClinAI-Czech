@@ -1,0 +1,53 @@
+T1	SYMPTOM 357 369	Asymptomatic
+T4	SYMPTOM 497 509	palpitations
+T6	SYMPTOM 556 576	feeling of dizziness
+T5	SYMPTOM 615 627	palpitations
+T7	SYMPTOM 823 833	chest pain
+T8	SYMPTOM 837 845	dyspnoea
+T39	SYMPTOM 862 869	syncope
+T9	SYMPTOM 924 947	haemodynamically stable
+T44	SYMPTOM 1054 1080	jugular venous engorgement
+T11	SYMPTOM 1104 1125	rhythmic heart sounds
+T12	SYMPTOM 1134 1141	murmurs
+T13	SYMPTOM 1167 1193	preserved vesicular murmur
+T46	SYMPTOM 1195 1221	Abdomen: soft, non-painful
+T14	SYMPTOM 1226 1232	masses
+T45	SYMPTOM 1236 1245	megaliths
+T15	SYMPTOM 1247 1275	Lower extremities: no oedema
+T16	SYMPTOM 1321 1351	present and symmetrical pulses
+T42	SYMPTOM 1392 1400	wide QRS
+T17	SYMPTOM 1401 1412	tachycardia
+T18	SYMPTOM 1463 1487	absence of Q wave in aVR
+T26	SYMPTOM 1697 1744	blood count and coagulation within normal range
+T27	SYMPTOM 1746 1794	Renal function and ions within normal parameters
+T19	SYMPTOM 1839 1850	tachycardia
+T43	SYMPTOM 1853 1885	egular tachycardia with wide QRS
+T29	SYMPTOM 1937 1956	absence of Q in aVR
+T41	SYMPTOM 1988 2037	Ventricular complex with superior electrical axis
+T30	SYMPTOM 2115 2127	sinus rhythm
+T35	SYMPTOM 2139 2149	Narrow QRS
+T20	SYMPTOM 2206 2262	Negative T waves in inferior face and lateral precordial
+T28	SYMPTOM 2280 2327	left ventricle neither dilated nor hypertrophic
+T47	SYMPTOM 2381 2459	akinesia in the basal and middle segments of the inferolateral and lateral fac
+T48	SYMPTOM 2466 2538	right ventricle shows preserved systolic function, with normal structure
+T49	SYMPTOM 2584 2617	normal morphology in the 4 valves
+T50	SYMPTOM 2652 2682	Inferior vena cava not dilated
+T51	SYMPTOM 2742 2796	coronary tree with normal distribution and development
+T40	SYMPTOM 2798 2813	Right dominance
+T36	SYMPTOM 2983 3018	Left ventricular fatty infiltration
+T37	SYMPTOM 3023 3060	segmental contractility abnormalities
+T10	SYMPTOM 3391 3414	haemodynamically stable
+T21	SYMPTOM 3434 3445	tachycardia
+T52	SYMPTOM 3520 3601	akinesia in the basal and middle segments at the inferolateral and lateral levels
+T53	SYMPTOM 3607 3681	right ventricle maintained normal structure and preserved systolic functio
+T22	SYMPTOM 3777 3788	tachycardia
+T31	SYMPTOM 3845 3857	sinus rhythm
+T32	SYMPTOM 3914 3926	sinus rhythm
+T2	SYMPTOM 3950 3962	asymptomatic
+T23	SYMPTOM 4058 4069	tachycardia
+T33	SYMPTOM 4143 4155	sinus rhythm
+T54	SYMPTOM 4426 4506	coronary tree with a normal distribution and no significant angiographic lesions
+T3	SYMPTOM 4582 4594	asymptomatic
+T34	SYMPTOM 4602 4614	sinus rhythm
+T38	SYMPTOM 4681 4746	a striking subepicardial fatty infiltration in the left ventricle
+T55	SYMPTOM 4969 5013	pathogenic mutation for ACM in the FLNC gene

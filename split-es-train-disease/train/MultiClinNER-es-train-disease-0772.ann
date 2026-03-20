@@ -1,0 +1,34 @@
+T10	DISEASE 1589 1608	congestión pulmonar
+T17	DISEASE 70 86	diabética tipo 2
+T18	DISEASE 128 170	miocardiopatía hipertrófica no obstructiva
+T19	DISEASE 248 324	disfunción severa del ventrículo izquierdo y moderada del ventrículo derecho
+T20	DISEASE 387 420	síndrome de Wolff-Parkinson-White
+T21	DISEASE 467 477	bloqueo AV
+T22	DISEASE 570 592	sordera neurosensorial
+T23	DISEASE 698 704	angina
+T24	DISEASE 1532 1545	Cardiomegalia
+T25	DISEASE 1707 1745	VI no dilatado, con hipertrofia severa
+T26	DISEASE 1935 1994	VD hipertrófico, con disfunción sistólica de grado moderado
+T27	DISEASE 2108 2127	derrame pericárdico
+T28	DISEASE 2356 2366	diabéticas
+T29	DISEASE 2386 2402	implante coclear
+T30	DISEASE 2447 2457	hipoacusia
+T31	DISEASE 2460 2468	diabetes
+T32	DISEASE 2525 2552	miocardiopatía hipertrófica
+T33	DISEASE 2593 2616	enfermedad mitocondrial
+T34	DISEASE 2761 2775	síndrome MELAS
+T36	DISEASE 3370 3375	ictus
+T37	DISEASE 3960 3985	trastorno depresivo grave
+T38	DISEASE 4000 4014	Síndrome MELAS
+T39	DISEASE 4016 4075	Miocardiopatía hipertrófica no obstructiva en fase dilatada
+T40	DISEASE 4106 4156	disfunción sistólica de VI severa y de VD moderada
+T41	DISEASE 4158 4180	Insuficiencia cardiaca
+T42	DISEASE 4213 4246	Síndrome de Wolff-Parkinson-White
+T43	DISEASE 4282 4306	Bloqueo AV de alto grado
+T44	DISEASE 4365 4387	Sordera neurosensorial
+T45	DISEASE 4420 4444	Diabetes mellitus tipo 2
+T46	DISEASE 2029 2031	IM
+T47	DISEASE 2040 2043	IAo
+T48	DISEASE 2052 2054	IT
+T49	DISEASE 2997 3017	hipotensión arterial
+T80	DISEASE 2791 2854	Encephalomyopathy with Lactic Acidosis and Stroke-like episodes

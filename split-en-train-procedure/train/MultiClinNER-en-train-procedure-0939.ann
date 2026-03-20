@@ -1,0 +1,36 @@
+T86	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T81	PROCEDURE 250 280	anticoagulated with dabigatran
+T83	PROCEDURE 457 475	Gastro/colonoscopy
+T84	PROCEDURE 487 490	PET
+T85	PROCEDURE 561 581	Perirenal fat biopsy
+T87	PROCEDURE 1830 1850	Physical examination
+T116	PROCEDURE 2101 2116	Cardiopulmonary
+T88	PROCEDURE 2469 2483	AP chest X-ray
+T89	PROCEDURE 2730 2744	AP chest X-ray
+T90	PROCEDURE 2963 2980	Electrocardiogram
+T91	PROCEDURE 2982 2985	ECG
+T3	PROCEDURE 3170 3181	Blood tests
+T4	PROCEDURE 3183 3186	CBC
+T92	PROCEDURE 3473 3484	Haemostasis
+T93	PROCEDURE 3619 3630	Haemostasis
+T114	PROCEDURE 3789 3801	Biochemistry
+T5	PROCEDURE 4159 4171	Iron profile
+T95	PROCEDURE 4318 4336	Congestion markers
+T96	PROCEDURE 4400 4413	Lipid profile
+T97	PROCEDURE 4590 4620	Transthoracic echocardiography
+T6	PROCEDURE 4622 4625	TTE
+T98	PROCEDURE 5268 5298	transthoracic echocardiography
+T115	PROCEDURE 5329 5360	administer intravascular volume
+T99	PROCEDURE 5444 5457	coronary care
+T8	PROCEDURE 5534 5543	haemogram
+T94	PROCEDURE 5548 5559	haemostasis
+T101	PROCEDURE 5603 5621	pericardiocentesis
+T105	PROCEDURE 5921 5936	anticoagulation
+T9	PROCEDURE 5957 6012	haemostatic parameters was verified in control analyses
+T107	PROCEDURE 6091 6159	Diagnostic/therapeutic pericardiocentesis guided by echocardiography
+T111	PROCEDURE 6549 6563	echocardiogram
+T10	PROCEDURE 6676 6693	drain was removed
+T11	PROCEDURE 6923 6961	Reversal of dabigatran anticoagulation
+T103	PROCEDURE 6993 7011	pericardiocentesis
+T104	PROCEDURE 7013 7031	Pericardiocentesis
+T113	PROCEDURE 7102 7116	anticoagulated

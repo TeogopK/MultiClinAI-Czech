@@ -1,0 +1,52 @@
+T71	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T67	PROCEDURE 268 277	vasectomy
+T70	PROCEDURE 788 811	thoracic CT angiography
+T72	PROCEDURE 953 973	Physical examination
+T73	PROCEDURE 1171 1191	Cardiac auscultation
+T74	PROCEDURE 1223 1245	Pulmonary auscultation
+T75	PROCEDURE 1442 1459	electrocardiogram
+T76	PROCEDURE 1461 1464	ECG
+T77	PROCEDURE 1578 1589	Chest X-ray
+T78	PROCEDURE 1707 1716	Haemogram
+T80	PROCEDURE 1718 1743	renal function parameters
+T81	PROCEDURE 1748 1756	ionogram
+T82	PROCEDURE 1775 1786	Coagulation
+T83	PROCEDURE 1858 1874	normal haemogram
+T84	PROCEDURE 1896 1914	blood biochemistry
+T85	PROCEDURE 1923 1936	transaminases
+T86	PROCEDURE 1941 1945	ions
+T1	PROCEDURE 1954 1966	iron profile
+T112	PROCEDURE 1967 1982	Immunoglobulins
+T3	PROCEDURE 2137 2145	Serology
+T2	PROCEDURE 2188 2229	Pathological anatomy of pericardial fluid
+T87	PROCEDURE 2240 2248	cytology
+T88	PROCEDURE 2265 2290	Immunohistochemical study
+T89	PROCEDURE 2519 2554	Flow cytometry of pericardial fluid
+T90	PROCEDURE 2804 2829	Pericardial fluid culture
+T91	PROCEDURE 2865 2904	Pathological anatomy of the iliac crest
+T115	PROCEDURE 2906 2917	bone biopsy
+T92	PROCEDURE 2976 2984	Chest CT
+T93	PROCEDURE 3226 3232	PET-CT
+T96	PROCEDURE 3786 3807	Testicular ultrasound
+T4	PROCEDURE 3899 3913	left vasectomy
+T5	PROCEDURE 3915 3951	Left testicular pathological anatomy
+T98	PROCEDURE 3953 3969	left orchiectomy
+T99	PROCEDURE 4162 4190	Transthoracic echocardiogram
+T100	PROCEDURE 4434 4462	transthoracic echocardiogram
+T113	PROCEDURE 4694 4705	haematology
+T116	PROCEDURE 4768 4787	depletive treatment
+T111	PROCEDURE 5033 5048	anticoagulation
+T101	PROCEDURE 5145 5175	transthoracic echocardiography
+T6	PROCEDURE 5274 5315	diagnostic-therapeutic pericardiocentesis
+T114	PROCEDURE 5453 5465	microbiology
+T106	PROCEDURE 5470 5490	pathological anatomy
+T94	PROCEDURE 5701 5707	PET-CT
+T97	PROCEDURE 5887 5908	testicular ultrasound
+T69	PROCEDURE 6049 6058	vasectomy
+T7	PROCEDURE 6199 6267	biopsy of the pericardium or mediastinal lymph nodes by thoracoscopy
+T95	PROCEDURE 6352 6358	PET-CT
+T107	PROCEDURE 6390 6412	diagnostic orchiectomy
+T108	PROCEDURE 6661 6698	chemotherapy treatment with R-CHOP/21
+T102	PROCEDURE 6809 6837	transthoracic echocardiogram
+T109	PROCEDURE 6984 7008	haematological treatment
+T110	PROCEDURE 7127 7144	testicular biopsy

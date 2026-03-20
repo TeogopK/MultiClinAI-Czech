@@ -1,0 +1,18 @@
+T8	PROCEDURE 124 144	intestinal resection
+T9	PROCEDURE 173 191	terminal ileostomy
+T13	PROCEDURE 211 271	HPN was started using a fully implanted intravascular device
+T11	PROCEDURE 314 329	corticosteroids
+T12	PROCEDURE 604 618	blood cultures
+T14	PROCEDURE 620 650	The catheter was also replaced
+T15	PROCEDURE 668 736	removing only the reservoir and the proximal portion of the catheter
+T1	PROCEDURE 1016 1027	chest X-ray
+T10	PROCEDURE 1175 1189	echocardiogram
+T5	PROCEDURE 1325 1345	antibiotic treatment
+T23	PROCEDURE 1465 1519	cardiac surgery was performed to remove both catheters
+T6	PROCEDURE 1624 1644	antibiotic treatment
+T25	PROCEDURE 1660 1680	thoraco-abdominal CT
+T28	PROCEDURE 2245 2258	were isolated
+T7	PROCEDURE 2284 2304	antibiotic treatment
+T2	PROCEDURE 2468 2490	mechanical ventilation
+T4	PROCEDURE 2495 2507	tracheostomy
+T3	PROCEDURE 2535 2557	mechanical ventilation

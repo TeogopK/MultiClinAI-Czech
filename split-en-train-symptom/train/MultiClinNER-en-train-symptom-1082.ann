@@ -1,0 +1,37 @@
+T1	SYMPTOM 210 223	motor aphasia
+T2	SYMPTOM 678 693	sudden dyspnoea
+T3	SYMPTOM 698 713	general malaise
+T4	SYMPTOM 1168 1190	haemodynamic stability
+T5	SYMPTOM 815 826	tachycardia
+T6	SYMPTOM 1399 1410	tachycardia
+T10	SYMPTOM 1500 1510	chest pain
+T11	SYMPTOM 1692 1700	afebrile
+T12	SYMPTOM 1727 1748	jugular ingurgitation
+T13	SYMPTOM 1789 1802	heart murmurs
+T14	SYMPTOM 1807 1833	preserved vesicular murmur
+T15	SYMPTOM 1856 1878	Abdomen without masses
+T16	SYMPTOM 1882 1891	megaliths
+T17	SYMPTOM 1916 1922	oedema
+T18	SYMPTOM 2004 2040	mild elevation of cardiac biomarkers
+T19	SYMPTOM 2141 2164	severely depressed LVEF
+T20	SYMPTOM 3142 3165	Severely depressed LVEF
+T21	SYMPTOM 2698 2721	vascular redistribution
+T22	SYMPTOM 2853 2871	normal coagulation
+T23	SYMPTOM 3221 3259	Prolonged diastolic relaxation pattern
+T24	SYMPTOM 3329 3357	Slightly dilated left atrium
+T25	SYMPTOM 3359 3390	Severely dilated right chambers
+T26	SYMPTOM 3501 3528	depressed systolic function
+T27	SYMPTOM 1142 1154	sinus rhythm
+T28	SYMPTOM 1514 1521	syncope
+T29	SYMPTOM 806 814	wide QRS
+T31	SYMPTOM 3465 3496	RV free wall hypertrabeculation
+T32	SYMPTOM 4516 4539	apicolateral dyskinesia
+T41	SYMPTOM 2303 2332	atrioventricular dissociation
+T42	SYMPTOM 1968 1998	normal renal function and ions
+T44	SYMPTOM 2481 2510	small voltage r wave up to V6
+T46	SYMPTOM 2589 2657	negative T waves from V1 to V5 and flattened in V6 and frontal leads
+T45	SYMPTOM 2515 2558	positive deflection at the end of QRS in V1
+T52	SYMPTOM 3281 3327	Normofunctioning mitral valve and aortic valve
+T58	SYMPTOM 4328 4359	thinned, irregular lateral face
+T60	SYMPTOM 4482 4511	Middle inferolateral akinesia
+T9	SYMPTOM 364 430	left ventricular ejection fraction at the lower limit of normality

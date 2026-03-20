@@ -1,0 +1,29 @@
+T33	PROCEDURE 75 95	physical examination
+T1	PROCEDURE 148 169	Osteosynthesis in EID
+T3	PROCEDURE 468 479	antibiotics
+T35	PROCEDURE 558 561	ECG
+T34	PROCEDURE 578 598	Physical examination
+T38	PROCEDURE 694 714	Cardiac auscultation
+T39	PROCEDURE 738 760	Pulmonary auscultation
+T36	PROCEDURE 933 936	ECG
+T40	PROCEDURE 1035 1050	Catheterisation
+T41	PROCEDURE 1052 1072	Coronary angiography
+T43	PROCEDURE 1124 1145	Left ventriculography
+T44	PROCEDURE 1240 1254	Echocardiogram
+T46	PROCEDURE 1494 1505	Cardiac MRI
+T48	PROCEDURE 1871 1897	Electrophysiological study
+T50	PROCEDURE 1907 1940	digital anatomical reconstruction
+T5	PROCEDURE 2279 2347	several radiofrequency applications around the scars in sinus rhythm
+T37	PROCEDURE 2407 2410	ECG
+T51	PROCEDURE 2475 2483	sedation
+T6	PROCEDURE 2511 2514	ECV
+T42	PROCEDURE 2664 2684	coronary angiography
+T7	PROCEDURE 2844 2903	treatment was started with ACE inhibitors and beta-blockers
+T45	PROCEDURE 2937 2951	echocardiogram
+T53	PROCEDURE 3040 3056	ventriculography
+T47	PROCEDURE 3085 3096	cardiac MRI
+T49	PROCEDURE 3160 3186	electrophysiological study
+T8	PROCEDURE 3191 3208	ICD was implanted
+T9	PROCEDURE 3268 3282	ACE inhibitors
+T10	PROCEDURE 3287 3300	beta-blockers
+T54	PROCEDURE 3389 3392	CVE

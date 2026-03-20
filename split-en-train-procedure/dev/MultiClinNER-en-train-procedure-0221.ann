@@ -1,0 +1,25 @@
+T6	PROCEDURE 39 61	unilateral adnexectomy
+T8	PROCEDURE 195 232	non-steroidal anti-inflammatory drugs
+T9	PROCEDURE 234 240	NSAIDs
+T10	PROCEDURE 408 419	antipyretic
+T11	PROCEDURE 434 450	home observation
+T12	PROCEDURE 653 673	Physical examination
+T13	PROCEDURE 806 842	palpate the peripheral radial pulses
+T25	PROCEDURE 899 915	Laboratory tests
+T26	PROCEDURE 920 938	blood gas analysis
+T28	PROCEDURE 1122 1152	treatment with corticosteroids
+T14	PROCEDURE 1157 1187	intravenous antibiotic therapy
+T15	PROCEDURE 1232 1261	cardiopulmonary resuscitation
+T4	PROCEDURE 1366 1373	Autopsy
+T33	PROCEDURE 1407 1427	external examination
+T1	PROCEDURE 1621 1658	internal examination, macroscopically
+T35	PROCEDURE 2200 2539	Samples of the brain, lung, liver, liver, spleen, adrenal glands, heart, peripheral blood, vitreous humour, pericardial fluid, intestinal contents, bronchial smear, pleural effusion and swab impregnated with subcutaneous exudate from the right pectoral muscle were submitted for toxicological, microbiological and histopathological studies
+T5	PROCEDURE 2560 2581	microbiological study
+T7	PROCEDURE 2600 2620	antigenic techniques
+T39	PROCEDURE 2622 2629	culture
+T40	PROCEDURE 2644 2669	polymerase chain reaction
+T16	PROCEDURE 2671 2674	PCR
+T18	PROCEDURE 2807 2853	Epidemiological characterisation of the strain
+T42	PROCEDURE 2862 2928	study of antibiotic resistance by minimum inhibitory concentration
+T3	PROCEDURE 2953 2970	Histopathological
+T46	PROCEDURE 3346 3362	toxicology study

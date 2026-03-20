@@ -1,0 +1,56 @@
+T1	SYMPTOM 68 91	dolor torácico punzante
+T2	SYMPTOM 160 166	disnea
+T3	SYMPTOM 168 181	palpitaciones
+T4	SYMPTOM 560 583	dolor torácico punzante
+T5	SYMPTOM 652 658	disnea
+T6	SYMPTOM 660 673	palpitaciones
+T7	SYMPTOM 709 727	mal estado general
+T8	SYMPTOM 733 751	sudoración profusa
+T9	SYMPTOM 754 763	taquipnea
+T10	SYMPTOM 920 936	soplo diastólico
+T11	SYMPTOM 987 1015	hipoventilación generalizada
+T12	SYMPTOM 1020 1057	crepitantes en ambas bases pulmonares
+T13	SYMPTOM 1059 1088	edema tibiomaleolar con fóvea
+T14	SYMPTOM 1091 1132	pulsos periféricos presentes y simétricos
+T16	SYMPTOM 1225 1238	Ritmo sinusal
+T17	SYMPTOM 1249 1258	PR normal
+T18	SYMPTOM 1260 1272	QRS estrecho
+T19	SYMPTOM 1335 1361	T negativa en cara lateral
+T21	SYMPTOM 1561 1581	Engrosamiento hiliar
+T24	SYMPTOM 2238 2288	función sistólica global y segmentaria conservadas
+T26	SYMPTOM 2691 2753	función sistólica segmentaria y global dentro de la normalidad
+T27	SYMPTOM 2789 2853	ventrículo derecho era normal en dimensiones y función sistólica
+T28	SYMPTOM 2887 2892	edema
+T30	SYMPTOM 3391 3427	borramiento de los senos de Valsalva
+T31	SYMPTOM 4340 4354	dolor punzante
+T32	SYMPTOM 4357 4379	elevación de troponina
+T33	SYMPTOM 4487 4501	dolor torácico
+T34	SYMPTOM 4644 4655	pico febril
+T35	SYMPTOM 4745 4777	hemocultivos repetidos negativos
+T36	SYMPTOM 5241 5247	fiebre
+T38	SYMPTOM 5308 5322	dolor torácico
+T39	SYMPTOM 5368 5410	negativización de ondas T en cara anterior
+T40	SYMPTOM 5758 5791	elevación progresiva de troponina
+T41	SYMPTOM 5828 5868	profundización de onda T en cara lateral
+T42	SYMPTOM 6068 6079	pico febril
+T43	SYMPTOM 6344 6377	hemocultivos nuevamente negativos
+T44	SYMPTOM 6440 6452	desaturación
+T45	SYMPTOM 6454 6463	taquipnea
+T47	SYMPTOM 7324 7338	picos febriles
+T48	SYMPTOM 7463 7483	clínicamente estable
+T49	SYMPTOM 7486 7498	asintomático
+T97	SYMPTOM 5509 5538	necrosis o isquemia inducible
+T15	SYMPTOM 1423 1465	marcadores de necrosis miocárdica elevados
+T20	SYMPTOM 1541 1559	Elongación aórtica
+T23	SYMPTOM 4011 4057	enzimas hepáticas estaban ligeramente elevadas
+T25	SYMPTOM 4506 4577	elevación de marcadores de necrosis miocárdica e insuficiencia cardiaca
+T143	SYMPTOM 5251 5269	clínica infecciosa
+T152	SYMPTOM 2299 2366	ventrículo derecho como el resto de válvulas no presentan hallazgos
+T168	SYMPTOM 2896 2924	alteraciones en la perfusión
+T175	SYMPTOM 3714 3760	válvula aórtica trivalva con correcta apertura
+T29	SYMPTOM 1596 1683	Raíz aórtica y segmento proximal de aorta ascendente en el límite alto de la normalidad
+T46	SYMPTOM 2534 2540	apneas
+T136	SYMPTOM 3470 3542	arterias coronarias no presentaban lesiones angiográficas significativas
+T137	SYMPTOM 4384 4418	angio TAC es informado como normal
+T134	SYMPTOM 5543 5570	resonancia resulta negativa
+T139	SYMPTOM 5808 5826	cambios eléctricos

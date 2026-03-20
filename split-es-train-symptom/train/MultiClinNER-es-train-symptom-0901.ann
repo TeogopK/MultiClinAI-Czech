@@ -1,0 +1,40 @@
+T1	SYMPTOM 787 800	fatigabilidad
+T2	SYMPTOM 802 808	disnea
+T3	SYMPTOM 811 829	sensación de mareo
+T5	SYMPTOM 944 967	dolor torácico punzante
+T6	SYMPTOM 997 1028	dolores torácicos intermitentes
+T7	SYMPTOM 1120 1175	prueba de esfuerzo con resultado negativo para isquemia
+T8	SYMPTOM 1423 1449	ruidos cardiacos regulares
+T9	SYMPTOM 1451 1474	soplo sistólico aórtico
+T10	SYMPTOM 1505 1534	murmullo vesicular conservado
+T11	SYMPTOM 1559 1587	Abdomen: blando y depresible
+T13	SYMPTOM 1612 1617	masas
+T14	SYMPTOM 1621 1636	visceromegalias
+T15	SYMPTOM 1642 1658	edema periférico
+T16	SYMPTOM 1660 1688	Pulsos simétricos y normales
+T17	SYMPTOM 1720 1733	ritmo sinusal
+T18	SYMPTOM 1807 1819	QRS estrecho
+T20	SYMPTOM 2404 2427	silueta cardiaca normal
+T21	SYMPTOM 2497 2541	ventrículo izquierdo de dimensiones normales
+T23	SYMPTOM 2595 2630	Función sistólica global conservada
+T25	SYMPTOM 3361 3408	test de esfuerzo máximo, negativo para isquemia
+T29	SYMPTOM 4012 4038	Aurículas de tamaño normal
+T31	SYMPTOM 6151 6174	líquido libre abdominal
+T32	SYMPTOM 6774 6792	disnea de esfuerzo
+T33	SYMPTOM 6795 6800	mareo
+T34	SYMPTOM 7364 7378	dolor torácico
+T35	SYMPTOM 7565 7616	RMC de estrés, con resultado negativo para isquemia
+T12	SYMPTOM 2808 2863	Prótesis biológica en posición aórtica normofuncionante
+T19	SYMPTOM 3004 3046	Ventrículo derecho de dimensiones normales
+T24	SYMPTOM 3213 3238	Vena cava inferior normal
+T26	SYMPTOM 3816 3878	función sistólica segmentaria y global dentro de la normalidad
+T27	SYMPTOM 3958 3999	función sistólica dentro de la normalidad
+T183	SYMPTOM 8835 8842	estable
+T184	SYMPTOM 9124 9144	estable clínicamente
+T86	SYMPTOM 1855 1900	alteraciones patológicas en la repolarización
+T105	SYMPTOM 5815 5897	Parénquima hepático, esplénico, páncreas, riñones y suprarrenales sin alteraciones
+T106	SYMPTOM 5926 5983	Asas de intestino delgado con actividad metabólica difusa
+T109	SYMPTOM 6045 6146	actividad metabólica en estaciones ganglionares abdominales, retroperitoneales, pélvicas e inguinales
+T113	SYMPTOM 6434 6487	foco de hipermetabolismo en prótesis valvular aórtica
+T122	SYMPTOM 8349 8394	hipermetabolismo en prótesis valvular aórtica
+T84	SYMPTOM 9582 9612	hipermetabolismo periprotésico

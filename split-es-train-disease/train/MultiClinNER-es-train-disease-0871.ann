@@ -1,0 +1,22 @@
+T30	DISEASE 2195 2248	Defecto amplio del septo de entrada y ostium secundum
+T35	DISEASE 3441 3479	defecto amplio de septo interauricular
+T38	DISEASE 25 77	cardiopatía congénita: comunicación interventricular
+T39	DISEASE 154 177	alergias medicamentosas
+T40	DISEASE 1422 1437	derrame pleural
+T41	DISEASE 1916 1919	HAI
+T42	DISEASE 2116 2183	Comunicación interventricular cerrada espontáneamente con aneurisma
+T43	DISEASE 3186 3216	Insuficiencia central moderada
+T44	DISEASE 3325 3344	derrame pericárdico
+T45	DISEASE 435 442	síncope
+T46	DISEASE 1908 1914	BCRDHH
+T47	DISEASE 2050 2086	Defecto de septo auriculoventricular
+T50	DISEASE 2336 2351	cor triatriatum
+T51	DISEASE 2586 2627	Ventrículo derecho moderadamente dilatado
+T52	DISEASE 3131 3184	Válvula AV derecha con defecto de coaptación de velos
+T54	DISEASE 4045 4060	Cor triatriatum
+T55	DISEASE 4061 4118	Defecto parcial atrioventricular (tipo CIA ostium primum)
+T7	DISEASE 2250 2281	Cortocircuito izquierda derecha
+T76	DISEASE 1922 1945	crecimiento biauricular
+T32	DISEASE 3537 3598	Membrana que tabica la porción superior de aurícula izquierda
+#1	AnnotatorNotes T41	 HAI Hemibloqueo anterior izquierdo
+#2	AnnotatorNotes T46	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

@@ -1,0 +1,33 @@
+T71	PROCEDURE 319 339	tratamiento con CPAP
+T72	PROCEDURE 1034 1055	tratamiento diurético
+T73	PROCEDURE 1256 1274	Exploración física
+T74	PROCEDURE 1537 1539	AC
+T75	PROCEDURE 1597 1599	AP
+T76	PROCEDURE 1807 1810	ECG
+T77	PROCEDURE 2204 2224	Radiografía de tórax
+T78	PROCEDURE 2271 2299	Ecocardiograma transtorácico
+T79	PROCEDURE 2705 2708	ETE
+T80	PROCEDURE 2947 2976	Ecocardiograma transesofágico
+T81	PROCEDURE 3808 3825	PCR panbacteriana
+T82	PROCEDURE 3836 3847	hemocultivo
+T83	PROCEDURE 3850 3860	urocultivo
+T84	PROCEDURE 4004 4033	ecocardiograma transesofágico
+T85	PROCEDURE 4175 4183	cultivos
+T86	PROCEDURE 4195 4207	hemocultivos
+T87	PROCEDURE 4210 4220	urocultivo
+T88	PROCEDURE 4268 4301	tratamiento diurético intravenoso
+T90	PROCEDURE 4556 4607	sustitución valvular aórtica con prótesis biológica
+T91	PROCEDURE 4620 4643	tratamiento antibiótico
+T92	PROCEDURE 4775 4784	serología
+T93	PROCEDURE 4929 4952	tratamiento antibiótico
+T94	PROCEDURE 5261 5295	tratamiento deplectivo intravenoso
+T95	PROCEDURE 5731 5790	Cirugía de recambio valvular aórtico por prótesis biológica
+T107	PROCEDURE 199 217	EXPLORACIÓN FÍSICA
+T108	PROCEDURE 3557 3611	ecocardiograma transtorácico seguido de transesofágico
+T109	PROCEDURE 3970 3983	función renal
+T110	PROCEDURE 5355 5399	telemonitorización de insuficiencia cardiaca
+T111	PROCEDURE 5297 5311	toracocentésis
+T112	PROCEDURE 1072 1104	tratamiento antibiótico empírico
+T113	PROCEDURE 3399 3433	tratamiento deplectivo intravenoso
+T141	PROCEDURE 1941 1950	Analítica
+T149	PROCEDURE 4731 4741	analíticas

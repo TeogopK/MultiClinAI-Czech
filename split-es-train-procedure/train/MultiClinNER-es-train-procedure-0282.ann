@@ -1,0 +1,41 @@
+T1	PROCEDURE 4884 4895	hidratación
+T2	PROCEDURE 1294 1316	intubación orotraqueal
+T3	PROCEDURE 1319 1339	ventilación mecánica
+T4	PROCEDURE 5556 5572	biopsia pulmonar
+T5	PROCEDURE 4977 4994	hemodiafiltración
+T6	PROCEDURE 5881 5919	Oxigenación con Membrana Extracorpórea
+T7	PROCEDURE 5074 5085	hemocultivo
+T8	PROCEDURE 306 326	radiografía de tórax
+T9	PROCEDURE 6051 6073	biopsia transbronquial
+T10	PROCEDURE 4077 4083	HDFVVC
+T11	PROCEDURE 592 616	estudios microbiológicos
+T12	PROCEDURE 648 660	hemocultivos
+T13	PROCEDURE 662 674	urinocultivo
+T14	PROCEDURE 676 715	antigenuria para Legionella y neumococo
+T15	PROCEDURE 717 732	frotis faríngeo
+T16	PROCEDURE 4408 4434	hemodiálisis de alto flujo
+T17	PROCEDURE 2335 2356	lavado broncoalveolar
+T18	PROCEDURE 1165 1179	oxigenoterapia
+T19	PROCEDURE 2392 2423	cultivos bacterianos y fúngicos
+T20	PROCEDURE 2438 2468	detección de antígenos víricos
+T21	PROCEDURE 2911 2934	tratamiento antibiótico
+T22	PROCEDURE 3235 3241	HDFVVC
+T23	PROCEDURE 3481 3506	tratamientos antibióticos
+T24	PROCEDURE 2358 2361	LBA
+T25	PROCEDURE 5477 5517	PCR para Adenovirus se negativizó en LBA
+T26	PROCEDURE 5653 5674	tratamiento antiviral
+T27	PROCEDURE 2497 2516	PCR para Adenovirus
+T28	PROCEDURE 5921 5925	ECMO
+T29	PROCEDURE 1871 1884	orina de 24 h
+T30	PROCEDURE 1390 1401	antibiótico
+T31	PROCEDURE 5287 5298	antibiótico
+T32	PROCEDURE 2571 2597	aislamiento microbiológico
+T33	PROCEDURE 878 966	muestra sanguínea para la detección de infección por VIH (anticuerpos anti-VIH y Ag p24)
+T34	PROCEDURE 2085 2168	determinación de autoanticuerpos para descartar un síndrome renopulmonar autoinmune
+T35	PROCEDURE 2174 2242	anticuerpos anti-citoplasma de los neutrófilos, y antimembrana basal
+T36	PROCEDURE 2265 2318	determinación del antígeno de galactomanano en sangre
+T37	PROCEDURE 3177 3210	iniciar soporte renal sustitutivo
+T38	PROCEDURE 4273 4304	efecto nefrotóxico de cidofovir
+T39	PROCEDURE 5936 5964	aislamientos microbiológicos
+T40	PROCEDURE 418 427	analítica
+T41	PROCEDURE 185 196	exploración

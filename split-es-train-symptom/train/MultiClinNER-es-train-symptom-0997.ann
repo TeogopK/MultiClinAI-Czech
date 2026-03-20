@@ -1,0 +1,39 @@
+T1	SYMPTOM 543 575	debilidad en miembros inferiores
+T2	SYMPTOM 661 685	tonos cardiacos rítmicos
+T3	SYMPTOM 690 696	soplos
+T4	SYMPTOM 797 810	ritmo sinusal
+T5	SYMPTOM 825 837	QRS estrecho
+T6	SYMPTOM 843 876	alteraciones de la repolarización
+T8	SYMPTOM 1055 1087	presión arterial pulmonar normal
+T9	SYMPTOM 1250 1261	bradicardia
+T10	SYMPTOM 1336 1350	dolor torácico
+T11	SYMPTOM 1356 1415	descenso del ST en las derivaciones inferiores y de V3 a V6
+T12	SYMPTOM 1431 1471	ascenso del ST en AVR y V1- V2 , I y aVL
+T14	SYMPTOM 1522 1558	hipocinesia de los segmentos basales
+T15	SYMPTOM 1561 1594	hipercontractilidad apical del VI
+T16	SYMPTOM 1684 1698	dolor torácico
+T17	SYMPTOM 1708 1742	alteraciones electrocardiográficas
+T18	SYMPTOM 2076 2089	ritmo sinusal
+T19	SYMPTOM 2091 2100	pr normal
+T20	SYMPTOM 2102 2124	eje inferior izquierdo
+T21	SYMPTOM 2126 2138	QRS estrecho
+T22	SYMPTOM 2144 2177	alteraciones de la repolarización
+T23	SYMPTOM 2215 2230	FEVI preservada
+T24	SYMPTOM 2235 2280	alteraciones de la contractilidad segmentaria
+T26	SYMPTOM 2359 2391	presión arterial pulmonar normal
+T27	SYMPTOM 2564 2578	dolor torácico
+T28	SYMPTOM 2584 2613	cambios electrocardiográficos
+T29	SYMPTOM 2636 2707	ventricular izquierda moderada con hipocinesia de los segmentos basales
+T30	SYMPTOM 2710 2743	hipercontractilidad apical del VI
+T31	SYMPTOM 3031 3043	asintomática
+T13	SYMPTOM 1808 1839	coronarias epicárdicas normales
+T32	SYMPTOM 1960 1986	hipercontractilidad apical
+T33	SYMPTOM 1991 2023	hipocinesia de segmentos basales
+T37	SYMPTOM 2844 2870	hipercontractilidad apical
+T74	SYMPTOM 2872 2904	hipocinesia de segmentos basales
+T75	SYMPTOM 3490 3536	alteraciones segmentarias de la contractilidad
+T81	SYMPTOM 2758 2790	arterias coronarias sin lesiones
+T82	SYMPTOM 627 646	buen estado general
+T77	SYMPTOM 930 1014	buena función ventricular izquierda global y segmentaria, con grosor parietal normal
+T78	SYMPTOM 2462 2509	respuesta cronotrópica paradójicamente negativa
+T79	SYMPTOM 1186 1233	respuesta cronotrópica paradójicamente negativa

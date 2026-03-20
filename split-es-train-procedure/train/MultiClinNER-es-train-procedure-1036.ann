@@ -1,0 +1,23 @@
+T63	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T64	PROCEDURE 479 486	biopsia
+T65	PROCEDURE 1119 1140	Auscultación cardiaca
+T66	PROCEDURE 1176 1197	Auscultación pulmonar
+T67	PROCEDURE 1521 1524	ECG
+T68	PROCEDURE 1652 1688	Eco-Doppler miembro inferior derecho
+T69	PROCEDURE 1773 1801	Ecocardiograma transtorácico
+T70	PROCEDURE 2526 2555	Ecocardiograma transesofágico
+T71	PROCEDURE 2897 2909	TC coronario
+T72	PROCEDURE 3069 3084	Coronariografía
+T73	PROCEDURE 3480 3495	anticoagulación
+T74	PROCEDURE 3498 3513	prostaglandinas
+T75	PROCEDURE 3564 3567	ECG
+T76	PROCEDURE 3629 3657	ecocardiograma transtorácico
+T77	PROCEDURE 3825 3854	ecocardiograma transesofágico
+T78	PROCEDURE 3859 3871	hemocultivos
+T79	PROCEDURE 3971 3983	TC coronario
+T80	PROCEDURE 3990 4005	coronariografía
+T81	PROCEDURE 4141 4153	RMN cerebral
+T82	PROCEDURE 4514 4529	anticoagulación
+T90	PROCEDURE 4594 4608	betabloqueante
+T111	PROCEDURE 1040 1051	exploración
+T118	PROCEDURE 4376 4403	pulsos de metilprednisolona

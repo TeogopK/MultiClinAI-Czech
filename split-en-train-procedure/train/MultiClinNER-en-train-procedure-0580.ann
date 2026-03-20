@@ -1,0 +1,16 @@
+T2	PROCEDURE 180 217	chemotherapy treatment with mFOLFOX 6
+T1	PROCEDURE 208 217	mFOLFOX 6
+T11	PROCEDURE 332 381	5-FU 1200 mg/m2/day in a 48 h continuous infusion
+T3	PROCEDURE 911 923	Chemotherapy
+T15	PROCEDURE 1336 1356	complete blood count
+T16	PROCEDURE 1457 1490	Respiratory and contact isolation
+T17	PROCEDURE 1508 1521	Serum therapy
+T10	PROCEDURE 1541 1586	broad-spectrum intravenous antibiotic therapy
+T4	PROCEDURE 1838 1852	blood cultures
+T20	PROCEDURE 2047 2086	2 platelet concentrates were transfused
+T5	PROCEDURE 2091 2117	total parenteral nutrition
+T6	PROCEDURE 2152 2161	analgesia
+T7	PROCEDURE 2186 2192	NSAIDs
+T8	PROCEDURE 2287 2304	Topical treatment
+T9	PROCEDURE 2388 2408	Physical examination
+T27	PROCEDURE 2688 2698	blood test

@@ -1,0 +1,27 @@
+T65	PROCEDURE 457 470	esplenectomía
+T66	PROCEDURE 1333 1354	Auscultación cardiaca
+T67	PROCEDURE 1385 1406	Auscultación pulmonar
+T68	PROCEDURE 1660 1678	Electrocardiograma
+T69	PROCEDURE 2156 2176	Radiografía de tórax
+T70	PROCEDURE 2252 2280	Ecocardiograma transtorácico
+T71	PROCEDURE 2866 2875	Cardio-RM
+T72	PROCEDURE 3124 3150	TAC de arterias coronarias
+T73	PROCEDURE 3472 3491	prueba cardiológica
+T74	PROCEDURE 3530 3558	ecocardiograma transtorácico
+T75	PROCEDURE 3599 3628	resonancia magnética cardiaca
+T76	PROCEDURE 3630 3633	RMC
+T77	PROCEDURE 4102 4122	serología infecciosa
+T78	PROCEDURE 4194 4217	TAC arterias coronarias
+T80	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 1037 1055	EXPLORACIÓN FÍSICA
+T82	PROCEDURE 4079 4092	autoinmunidad
+T83	PROCEDURE 116 145	marcadores de daño miocárdico
+T84	PROCEDURE 4526 4555	marcadores de daño miocárdico
+T85	PROCEDURE 3411 3425	monitorización
+T94	PROCEDURE 1825 1834	Analítica
+T98	PROCEDURE 429 455	Intervenciones quirúrgicas
+T106	PROCEDURE 3853 3862	analítica
+T107	PROCEDURE 3957 3967	analíticas
+T125	PROCEDURE 1310 1319	se palpan
+T126	PROCEDURE 1506 1515	se palpan
+#1	AnnotatorNotes T76	 resonancia magnética cardíaca

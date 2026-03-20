@@ -1,0 +1,18 @@
+T1	SYMPTOM 99 125	tumoración latero-cervical
+T2	SYMPTOM 186 205	sudoración nocturna
+T3	SYMPTOM 1742 1761	tumoración vascular
+T4	SYMPTOM 572 593	auscultación negativa
+T5	SYMPTOM 1464 1474	tumoración
+T6	SYMPTOM 1597 1607	tumoración
+T7	SYMPTOM 2366 2444	se detectó mediante técnica de PCR la presencia del virus herpes humano tipo 8
+T8	SYMPTOM 2465 2527	TC toraco-abdomino-pélvico que resultó dentro de la normalidad
+T9	SYMPTOM 2552 2600	estudio inmunológico y serología fueron normales
+T10	SYMPTOM 305 413	tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
+T11	SYMPTOM 863 877	masa homogénea
+T12	SYMPTOM 1037 1068	captación de contraste moderada
+T13	SYMPTOM 1127 1141	hipercaptación
+A1	RESULTADO T7
+A2	IMAGEN T8
+A3	RESULTADO T9
+A4	IMAGEN T12
+A5	IMAGEN T13

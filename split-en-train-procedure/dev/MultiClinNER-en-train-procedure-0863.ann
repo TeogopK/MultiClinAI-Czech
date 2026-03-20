@@ -1,0 +1,31 @@
+T48	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T50	PROCEDURE 604 621	electrocardiogram
+T51	PROCEDURE 797 817	coronary angiography
+T52	PROCEDURE 819 839	Coronary angiography
+T53	PROCEDURE 1017 1036	contrast injections
+T54	PROCEDURE 1299 1312	nasal goggles
+T49	PROCEDURE 1335 1355	Physical examination
+T55	PROCEDURE 1548 1563	catheterisation
+T57	PROCEDURE 1699 1712	Lipid profile
+T58	PROCEDURE 1811 1836	liver and thyroid profile
+T77	PROCEDURE 1900 1917	Rheumatoid factor
+T59	PROCEDURE 1934 1946	proteinogram
+T60	PROCEDURE 1948 1958	complement
+T62	PROCEDURE 1965 1981	microalbumimuria
+T63	PROCEDURE 1993 2007	hormonal study
+T56	PROCEDURE 2502 2517	Catheterisation
+T65	PROCEDURE 2925 2941	Echocardiography
+T68	PROCEDURE 3455 3481	Angio-CT of renal arteries
+T75	PROCEDURE 3670 3679	Ergometry
+T69	PROCEDURE 4075 4084	anamnesis
+T70	PROCEDURE 4288 4307	oral contraceptives
+T71	PROCEDURE 4780 4812	lipid, thyroid and liver profile
+T72	PROCEDURE 4845 4863	autoimmunity study
+T78	PROCEDURE 4879 4896	rheumatoid factor
+T61	PROCEDURE 4924 4934	complement
+T64	PROCEDURE 4941 4955	hormonal study
+T66	PROCEDURE 5203 5219	Echocardiography
+T73	PROCEDURE 5527 5549	cardiac rehabilitation
+T76	PROCEDURE 5719 5728	ergometry
+T67	PROCEDURE 5860 5876	Echocardiography
+T74	PROCEDURE 6397 6419	cardiac rehabilitation

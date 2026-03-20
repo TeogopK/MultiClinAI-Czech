@@ -1,0 +1,15 @@
+T30	PROCEDURE 487 507	Physical examination
+T31	PROCEDURE 1034 1048	blood cultures
+T35	PROCEDURE 1344 1355	chest X-ray
+T7	PROCEDURE 1368 1381	chest CT scan
+T36	PROCEDURE 1559 1591	transesophageal echocardiography
+T32	PROCEDURE 1775 1789	Blood cultures
+T4	PROCEDURE 1917 1981	phenotypic identification of the species was performed in VITEK2
+T38	PROCEDURE 2311 2327	echocardiography
+T33	PROCEDURE 2425 2439	blood cultures
+T3	PROCEDURE 2674 2744	surgery for mitral valve replacement (biological valve) was considered
+T2	PROCEDURE 2801 2830	biological valve implantation
+T1	PROCEDURE 2989 3014	anticoagulation check-ups
+T34	PROCEDURE 3024 3038	blood cultures
+T39	PROCEDURE 3080 3098	antibiotic therapy
+T40	PROCEDURE 3135 3155	antibiotic treatment

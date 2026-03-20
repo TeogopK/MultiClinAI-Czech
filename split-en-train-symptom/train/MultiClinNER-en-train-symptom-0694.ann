@@ -1,0 +1,34 @@
+T4	SYMPTOM 123 158	unresponsiveness to the environment
+T5	SYMPTOM 214 224	hypertonia
+T6	SYMPTOM 226 237	sialorrhoea
+T7	SYMPTOM 242 278	movements of the corner of the mouth
+T29	SYMPTOM 385 392	myalgia
+T10	SYMPTOM 394 402	headache
+T1	SYMPTOM 407 412	fever
+T11	SYMPTOM 438 446	afebrile
+T15	SYMPTOM 792 811	post-critical state
+T20	SYMPTOM 1280 1296	afebrile seizure
+T21	SYMPTOM 1389 1396	seizure
+T16	SYMPTOM 1664 1683	post-critical state
+T8	SYMPTOM 1844 1876	hyperreflexia of the lower limbs
+T9	SYMPTOM 1883 1907	negative meningeal signs
+T47	SYMPTOM 2120 2146	global slowing of activity
+T12	SYMPTOM 2184 2279	Cerebrospinal fluid (CSF) serology was obtained for enterovirus and herpes virus, both negative
+T19	SYMPTOM 2281 2516	Serology was also obtained for multiple agents such as toxoplasma, rubella, syphilis, herpes simplex 1 and 2, varicella-zoster virus, Mycoplasma, adenovirus, mumps, parvovirus, measles, Coxsackie, ECHO virus and Borrelia, also negative
+T3	SYMPTOM 2592 2601	agitation
+T49	SYMPTOM 2607 2617	somnolence
+T51	SYMPTOM 2853 2942	Magnetic resonance imaging (MRI) of the brain was requested urgently, with normal results
+T17	SYMPTOM 2962 2970	bleeding
+T53	SYMPTOM 3017 3024	myalgia
+T2	SYMPTOM 3029 3034	fever
+T55	SYMPTOM 3085 3106	neurological symptoms
+T56	SYMPTOM 3136 3197	influenza A antigens in the nasal exudate, which was positive
+T23	SYMPTOM 3366 3384	convulsive episode
+T24	SYMPTOM 3414 3507	serology for cytomegalovirus (CMV), Ebstein-Barr virus (EBV), herpes and influenza A negative
+T60	SYMPTOM 3522 3575	MRI of the brain was performed, which remained normal
+T62	SYMPTOM 3577 3634	CSF oligoclonal bands were requested, which were negative
+T25	SYMPTOM 3668 3813	anti-DNA, anti-Ro, anti-La, anti-histone, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, and anti-neutrophil cytoplasmic antibodies (ANCA) were negative
+T18	SYMPTOM 3900 3908	seizures
+T22	SYMPTOM 3942 3958	seizure episodes
+T14	SYMPTOM 4247 4259	asymptomatic
+T13	SYMPTOM 4266 4276	normal EEG

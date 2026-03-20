@@ -1,0 +1,25 @@
+T1	PROCEDURE 210 230	Physical examination
+T2	PROCEDURE 412 424	renal biopsy
+T10	PROCEDURE 666 691	Direct immunofluorescence
+T13	PROCEDURE 744 763	electron microscopy
+T4	PROCEDURE 1020 1032	liver biopsy
+T36	PROCEDURE 1686 1762	antiproteinuric treatment with renin-angiotensin-aldosterone system blockade
+T5	PROCEDURE 1858 1871	haemodialysis
+T6	PROCEDURE 1921 1953	deceased donor kidney transplant
+T7	PROCEDURE 2157 2229	Immunosuppression with corticosteroids, mycophenolic acid and tacrolimus
+T43	PROCEDURE 2331 2346	transplantation
+T8	PROCEDURE 2478 2496	autoimmunity study
+T15	PROCEDURE 2498 2523	donor-specific antibodies
+T21	PROCEDURE 2572 2629	serum PCR (polymerase enzyme chain reaction) for BK virus
+T11	PROCEDURE 2583 2615	polymerase enzyme chain reaction
+T9	PROCEDURE 2649 2673	renal Doppler ultrasound
+T3	PROCEDURE 2775 2787	renal biopsy
+T50	PROCEDURE 2789 2805	Light microscopy
+T12	PROCEDURE 2919 2937	Immunofluorescence
+T14	PROCEDURE 2992 3011	electron microscopy
+T54	PROCEDURE 3110 3138	Immunohistochemistry for C4d
+T23	PROCEDURE 3200 3205	graft
+T18	PROCEDURE 3232 3247	corticosteroids
+T19	PROCEDURE 3341 3425	antiproteinuric treatment, with blockade of the renin-angiotensin-aldosterone system
+T16	PROCEDURE 3441 3475	angiotensin II receptor antagonist
+T20	PROCEDURE 3477 3483	ARA II

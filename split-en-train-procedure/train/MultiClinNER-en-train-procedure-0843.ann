@@ -1,0 +1,46 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T46	PROCEDURE 573 588	catheterisation
+T48	PROCEDURE 932 978	percutaneous transluminal coronary angioplasty
+T49	PROCEDURE 980 984	PTCA
+T47	PROCEDURE 1015 1030	catheterisation
+T9	PROCEDURE 1089 1092	PCI
+T10	PROCEDURE 1098 1171	implantation of two coated stents in the DA, DX and another two in the CD
+T50	PROCEDURE 1215 1229	echocardiogram
+T11	PROCEDURE 1481 1508	Double antiplatelet therapy
+T53	PROCEDURE 1609 1624	antiretrovirals
+T72	PROCEDURE 1705 1717	beta-blocker
+T54	PROCEDURE 2106 2126	Psychosocial profile
+T55	PROCEDURE 2491 2515	Antiretroviral treatment
+T57	PROCEDURE 2620 2642	cardiac rehabilitation
+T63	PROCEDURE 2700 2720	PHYSICAL EXAMINATION
+T64	PROCEDURE 2948 2951	ECG
+T65	PROCEDURE 3061 3075	Ergospirometry
+T77	PROCEDURE 3103 3125	submaximal stress test
+T73	PROCEDURE 3924 3936	biochemistry
+T14	PROCEDURE 3941 3950	haemogram
+T13	PROCEDURE 3984 4008	Control laboratory tests
+T15	PROCEDURE 4233 4245	iron profile
+T12	PROCEDURE 4250 4259	haemogram
+T16	PROCEDURE 4261 4279	Control blood test
+T71	PROCEDURE 4388 4402	Renal function
+T51	PROCEDURE 4466 4480	echocardiogram
+T66	PROCEDURE 4758 4772	ergospirometry
+T68	PROCEDURE 4801 4811	spirometry
+T18	PROCEDURE 4813 4834	Maximal exercise test
+T19	PROCEDURE 5303 5321	Control blood test
+T74	PROCEDURE 5961 6016	aerobic and strength training, monitored with telemetry
+T52	PROCEDURE 6680 6694	echocardiogram
+T59	PROCEDURE 6803 6825	cardiac rehabilitation
+T67	PROCEDURE 6858 6872	ergospirometry
+T58	PROCEDURE 7240 7248	analysis
+T69	PROCEDURE 7287 7300	lipid profile
+T24	PROCEDURE 7475 7535	treatment with proprotein convertase subtilisin/kexin type 9
+T75	PROCEDURE 7537 7543	iPCSK9
+T60	PROCEDURE 7659 7681	cardiac rehabilitation
+T76	PROCEDURE 7821 7842	treatment with iPCSK9
+T70	PROCEDURE 7851 7864	lipid profile
+T78	PROCEDURE 7880 7932	control analysis (10/10/18) with ultracentrifugation
+T84	PROCEDURE 8446 8514	Revascularisation with coated stents in CX (1st time), DA, DX and CD
+T56	PROCEDURE 8613 8637	antiretroviral treatment
+T61	PROCEDURE 8686 8708	cardiac rehabilitation
+T82	PROCEDURE 9052 9079	double antiplatelet therapy

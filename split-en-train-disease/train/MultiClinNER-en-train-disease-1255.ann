@@ -1,0 +1,52 @@
+T52	DISEASE 90 99	allergies
+T26	DISEASE 167 188	arterial hypertension
+T1	DISEASE 190 193	AHT
+T27	DISEASE 254 283	Diabetes mellitus (DM) type 2
+T54	DISEASE 273 275	DM
+T28	DISEASE 376 389	Dyslipidaemia
+T29	DISEASE 423 432	Ex-smoker
+T30	DISEASE 493 516	Ischaemic heart disease
+T32	DISEASE 539 596	acute coronary syndrome (ACS) of the unstable angina type
+T33	DISEASE 585 591	angina
+T2	DISEASE 602 675	disease of a vessel: proximal anterior descending (LAD) with 80% stenosis
+T34	DISEASE 796 802	angina
+T35	DISEASE 804 824	Mild aortic stenosis
+T4	DISEASE 900 933	Left atrium (LA) slightly dilated
+T5	DISEASE 952 993	Left ventricle (LV) slightly hypertrophic
+T37	DISEASE 1113 1165	Degenerative aortic valve disease with mild stenosis
+T38	DISEASE 1304 1327	tricuspid insufficiency
+T40	DISEASE 1481 1511	Paroxysmal atrial fibrillation
+T42	DISEASE 2785 2804	diabetic dermopathy
+T43	DISEASE 3967 4000	complete left bundle branch block
+T8	DISEASE 4029 4033	LBBB
+T53	DISEASE 4316 4333	arrhythmic events
+T11	DISEASE 4373 4408	left atrium (LA) moderately dilated
+T10	DISEASE 4410 4468	Left ventricle (LV) not dilated, with moderate hypertrophy
+T57	DISEASE 4590 4611	Fibrosed mitral valve
+T44	DISEASE 4627 4652	Mild mitral insufficiency
+T36	DISEASE 4654 4711	Calcified aortic valve, mobile, with mild aortic stenosis
+T39	DISEASE 4753 4781	Mild tricuspid insufficiency
+T13	DISEASE 4853 4883	Proximal LAD with 80% stenosis
+T58	DISEASE 4902 4921	in-stent restenosis
+T14	DISEASE 4963 4988	Mid LAD with 70% stenosis
+T15	DISEASE 5030 5057	Distal DA with 70% stenosis
+T16	DISEASE 5081 5127	Distal circumflex artery (Cx) has 60% stenosis
+T59	DISEASE 5327 5366	in-stent restenosis in the proximal LAD
+T84	DISEASE 5632 5651	distal LAD stenosis
+T45	DISEASE 5722 5770	non-ST-segment elevation acute coronary syndrome
+T49	DISEASE 5772 5779	NSTEACS
+T75	DISEASE 5788 5821	non-Q acute myocardial infarction
+T60	DISEASE 5823 5826	AMI
+T46	DISEASE 5936 5961	mild aortic valve disease
+T47	DISEASE 6087 6118	mildly moderate aortic stenosis
+T22	DISEASE 6158 6161	ACS
+T48	DISEASE 6231 6277	severe in-stent restenosis in the proximal LAD
+T23	DISEASE 6282 6322	severe lesions in the mid and distal LAD
+T24	DISEASE 6328 6361	moderate lesions in the distal Cx
+T55	DISEASE 6696 6705	type 2 DM
+T31	DISEASE 6865 6888	Ischaemic heart disease
+T21	DISEASE 6890 6907	NSTEACS non-Q AMI
+T61	DISEASE 6914 7042	2-vessel coronary artery disease: Severe proximal LAD with in-stent restenosis and severe mid and distal LAD; moderate distal Cx
+T50	DISEASE 7136 7169	Degenerative aortic valve disease
+T51	DISEASE 7171 7200	mild-moderate aortic stenosis
+T41	DISEASE 7202 7232	Paroxysmal atrial fibrillation

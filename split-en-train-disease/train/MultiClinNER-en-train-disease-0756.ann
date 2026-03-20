@@ -1,0 +1,50 @@
+T1	DISEASE 120 123	HBP
+T52	DISEASE 125 129	DM-2
+T29	DISEASE 155 168	Dyslipidaemia
+T30	DISEASE 170 205	Severe degenerative aortic stenosis
+T31	DISEASE 274 292	ureteral lithiasis
+T32	DISEASE 294 307	Polyarthrosis
+T33	DISEASE 451 464	heart failure
+T2	DISEASE 484 493	severe AS
+T34	DISEASE 688 733	paroxysmal AF with rapid ventricular response
+T4	DISEASE 923 927	LBBB
+T35	DISEASE 1045 1064	pharyngotonsillitis
+T36	DISEASE 1457 1483	transient ischaemic attack
+T37	DISEASE 1814 1835	respiratory infection
+T38	DISEASE 2271 2287	febrile syndrome
+T5	DISEASE 2402 2406	LBBB
+T39	DISEASE 2455 2487	severe ischaemic microangiopathy
+T6	DISEASE 2489 2554	Sequela of chronic ischaemic infarction of the left PCA territory
+T7	DISEASE 2556 2606	Chronic left lenticular lacunar lacunar infarction
+T53	DISEASE 2608 2643	Moderate corticosubcortical atrophy
+T8	DISEASE 2943 2947	LBBB
+T12	DISEASE 3360 3371	Moderate TR
+T40	DISEASE 3373 3383	Severe PAH
+T55	DISEASE 3554 3588	AF with rapid ventricular response
+T13	DISEASE 4202 4232	complete AVB with an escape HR
+T41	DISEASE 4376 4398	infective endocarditis
+T42	DISEASE 4880 4902	infective endocarditis
+T56	DISEASE 5153 5171	septal hypertrophy
+T43	DISEASE 5218 5270	Severe extensive calcification of the mitral annulus
+T27	DISEASE 5339 5377	periprosthetic eccentric regurgitation
+T63	DISEASE 5445 5455	vegetation
+T28	DISEASE 5528 5557	aortic periannular thickening
+T20	DISEASE 5648 5720	periannular abscess-pseudoaneurysm, with microperforation towards the RA
+T21	DISEASE 5727 5729	TR
+T64	DISEASE 5884 5945	Filiform vegetation is observed in the right coronary leaflet
+T62	DISEASE 5947 5975	Periprosthetic regurgitation
+T23	DISEASE 6066 6069	AVB
+T24	DISEASE 6080 6083	AVB
+T54	DISEASE 6501 6536	local infection of the transient MP
+T44	DISEASE 6584 6604	nosocomial pneumonia
+T57	DISEASE 6621 6632	bicytopenia
+T59	DISEASE 6995 7097	ischaemic embolic stroke (septic embolism as the first possibility) of the left middle cerebral artery
+T46	DISEASE 7021 7036	septic embolism
+T67	DISEASE 7333 7366	infective prosthetic endocarditis
+T48	DISEASE 7473 7551	Periannular abscess/pseudoaneurysm with microperforation into the right atrium
+T49	DISEASE 7580 7611	complete atrioventricular block
+T50	DISEASE 7682 7754	embolic ischaemic stroke (septic embolism) of the middle cerebral artery
+T47	DISEASE 7708 7723	septic embolism
+T45	DISEASE 7870 7890	nosocomial pneumonia
+T51	DISEASE 7913 7955	Local infection of the transient pacemaker
+T93	DISEASE 8025 8066	endocarditis on the ventricular electrode

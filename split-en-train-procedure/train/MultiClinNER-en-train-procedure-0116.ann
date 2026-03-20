@@ -1,0 +1,13 @@
+T1	PROCEDURE 310 330	antibiotic treatment
+T6	PROCEDURE 539 559	Physical examination
+T5	PROCEDURE 693 717	neurological examination
+T11	PROCEDURE 877 892	cranial CT scan
+T12	PROCEDURE 980 987	CT scan
+T13	PROCEDURE 1364 1404	primary focus (pansinusitis) was drained
+T4	PROCEDURE 1413 1456	sinuses were evacuated via a nasal approach
+T14	PROCEDURE 1462 1470	cultures
+T15	PROCEDURE 1627 1646	imaging tests (MRI)
+T7	PROCEDURE 1642 1645	MRI
+T16	PROCEDURE 1740 1751	Blood tests
+T2	PROCEDURE 1861 1881	antibiotic treatment
+T3	PROCEDURE 1885 1905	Antibiotic treatment

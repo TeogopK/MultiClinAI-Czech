@@ -1,0 +1,60 @@
+T44	DISEASE 108 117	ex-smoker
+T13	DISEASE 119 140	arterial hypertension
+T14	DISEASE 142 145	AHT
+T47	DISEASE 148 168	hypercholesterolemia
+T48	DISEASE 182 206	type 2 diabetes mellitus
+T49	DISEASE 208 240	Severe apnoea-hypopnoea syndrome
+T50	DISEASE 298 325	Peripheral arterial disease
+T51	DISEASE 376 398	severe aortic stenosis
+T15	DISEASE 1193 1237	mild concentric left ventricular hypertrophy
+T16	DISEASE 1239 1242	LVH
+T17	DISEASE 1341 1383	mild-moderate central mitral regurgitation
+T18	DISEASE 1385 1395	dilated LA
+T52	DISEASE 1431 1451	pericardial effusion
+T54	DISEASE 1485 1504	infectious diseases
+T56	DISEASE 2128 2150	atrioventricular block
+T19	DISEASE 2736 2738	HF
+T57	DISEASE 2779 2801	atrioventricular block
+T60	DISEASE 2965 2973	mild LVH
+T87	DISEASE 3179 3248	Thickened and sclerosed mitral valve with severe mitral regurgitation
+T61	DISEASE 3465 3485	aortic regurgitation
+T20	DISEASE 3532 3607	Right ventricle slightly dilated, hypokinetic, with mild global dysfunction
+T22	DISEASE 3609 3639	Severe tricuspid insufficiency
+T21	DISEASE 3641 3643	TI
+T53	DISEASE 3676 3696	pericardial effusion
+T62	DISEASE 3732 3751	aortic endocarditis
+T81	DISEASE 3783 3824	Severe mitral and tricuspid regurgitation
+T23	DISEASE 3859 4026	Severe two-vessel coronary artery disease: mid-distal anterior descending (AD) occlusion, subocclusive lesion in distal circumflex (Cx), posterior descending occlusion
+T63	DISEASE 4335 4342	abscess
+T24	DISEASE 4415 4429	mitral abscess
+T25	DISEASE 4482 4491	severe TR
+T67	DISEASE 4530 4553	endocardial vegetations
+T26	DISEASE 4599 4638	moderate to severe mitral insufficiency
+T85	DISEASE 5316 5327	hypotension
+T28	DISEASE 5601 5638	2nd degree 2:1 atrioventricular block
+T27	DISEASE 5640 5643	AVB
+T29	DISEASE 5897 5936	endocarditis over the aortic prosthesis
+T86	DISEASE 6197 6208	hypotension
+T31	DISEASE 6750 6799	infective endocarditis on prosthetic aortic valve
+T88	DISEASE 6817 6866	mitroaortic abscess, extension to tricuspid valve
+T30	DISEASE 6868 6871	AVB
+T68	DISEASE 6873 6898	septic coronary embolisms
+T70	DISEASE 6903 6927	cardiogenic/septic shock
+T72	DISEASE 7185 7204	acute renal failure
+T73	DISEASE 7257 7282	acute respiratory failure
+T32	DISEASE 7284 7362	pneumonia associated with mechanical ventilation due to gram-negative bacillus
+T74	DISEASE 7364 7407	acute tracheobronchitis due to A. fumigatus
+T33	DISEASE 7409 7432	persistent complete AVB
+T34	DISEASE 7437 7502	parapsilopsis bacteraemia associated with central venous catheter
+T75	DISEASE 7504 7523	ischaemic hepatitis
+T76	DISEASE 7525 7540	paralytic ileus
+T77	DISEASE 7542 7571	multifactorial encephalopathy
+T78	DISEASE 7604 7611	hypoxia
+T35	DISEASE 7616 7676	significant truncal-diencephalic damage with persistent coma
+T79	DISEASE 7708 7798	Early endocarditis on mechanical prosthetic aortic valve due to Staphylococcus epidermidis
+T80	DISEASE 7800 7862	Mitroaortic junction abscess with extension to tricuspid valve
+T82	DISEASE 7864 7905	Severe mitral and tricuspid regurgitation
+T83	DISEASE 7907 7933	Atrioventricular block 2:1
+T36	DISEASE 7935 7989	Acute myocardial infarction with inferior ST elevation
+T37	DISEASE 7991 8083	Septic coronary embolisms in the dominant circumflex and anterior descending coronary artery
+T84	DISEASE 8144 8174	Mixed cardiogenic/septic shock

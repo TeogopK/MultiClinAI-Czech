@@ -1,0 +1,35 @@
+T1	SYMPTOM 33 41	asténico
+T2	SYMPTOM 43 49	álgido
+T3	SYMPTOM 52 59	delgado
+T4	SYMPTOM 506 558	biopsia gástrica que resultó positiva para H. pylori
+T5	SYMPTOM 1350 1390	abdomen está excavado, timpánico, blando
+T6	SYMPTOM 1647 1674	alteraciones electrolíticas
+T7	SYMPTOM 150 176	dolor epigástrico punzante
+T8	SYMPTOM 188 195	náuseas
+T9	SYMPTOM 198 241	vómitos postprandiales que alivian el dolor
+T10	SYMPTOM 2095 2127	lentitud de vaciamiento gástrico
+T11	SYMPTOM 2132 2181	disminución del calibre en la 3a porción duodenal
+T12	SYMPTOM 980 1017	dolor agudo que cedía con los vómitos
+T13	SYMPTOM 1469 1474	masas
+T14	SYMPTOM 1491 1499	megalias
+T15	SYMPTOM 1562 1608	marcadores de respuesta inflamatoria negativos
+T16	SYMPTOM 1614 1643	alteraciones a nivel hepático
+T17	SYMPTOM 1186 1191	dolor
+T18	SYMPTOM 675 728	test de aliento negativo para infección por H. pylori
+T19	SYMPTOM 1306 1325	constantes estables
+T20	SYMPTOM 1393 1449	levemente doloroso a la palpación profunda en epigastrio
+T21	SYMPTOM 1504 1540	analítica no presentaba alteraciones
+T22	SYMPTOM 1843 1926	ecografía abdominal total en decúbito supino, sin evidencia de hallazgos relevantes
+T23	SYMPTOM 2525 2618	duodeno y a la vena renal izquierda, produciendo compresión y dilatación pre y postcompresión
+T24	SYMPTOM 2423 2437	pinza vascular
+A1	RESULTADO T4
+A2	RESULTADO T6
+A3	IMAGEN T10
+A4	IMAGEN T11
+A5	RESULTADO T15
+A6	RESULTADO T16
+A7	RESULTADO T18
+A8	RESULTADO T21
+A9	IMAGEN T22
+A10	IMAGEN T23
+A11	IMAGEN T24

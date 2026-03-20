@@ -1,0 +1,27 @@
+T1	SYMPTOM 517 554	mantiéndose hemodinámicamente estable
+T2	SYMPTOM 600 615	soplos audibles
+T3	SYMPTOM 701 714	ritmo sinusal
+T4	SYMPTOM 798 821	repolarización aplanada
+T5	SYMPTOM 863 907	TAC CRANEAL: sin alteraciones significativas
+T6	SYMPTOM 1006 1059	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T7	SYMPTOM 1175 1226	Ventrículo derecho (VD) no dilatado ni hipertrófico
+T8	SYMPTOM 1228 1256	función sistólica conservada
+T9	SYMPTOM 1291 1317	Aurículas de tamaño normal
+T10	SYMPTOM 1830 1884	VI levemente dilatado con función sistólica conservada
+T11	SYMPTOM 1886 1947	Adelgazamiento e hipocontractilidad en segmentos inferoseptal
+T12	SYMPTOM 2000 2005	edema
+T13	SYMPTOM 2007 2020	hipoperfusión
+T14	SYMPTOM 2023 2051	realce tardío subendocárdico
+T15	SYMPTOM 2085 2116	VD de tamaño y función normales
+T16	SYMPTOM 2517 2541	estabilidad hemodinámica
+T17	SYMPTOM 2836 2871	Función sistólica del VI conservada
+T61	SYMPTOM 327 340	ritmo sinusal
+T56	SYMPTOM 823 861	RADIOGRAFÍA DE TÓRAX: sin alteraciones
+T57	SYMPTOM 1061 1075	FEVI limítrofe
+T58	SYMPTOM 1086 1134	acinesia de cara inferior y septo inferior basal
+T59	SYMPTOM 1136 1160	Patrón diastólico normal
+T60	SYMPTOM 1319 1373	Válvula aórtica trivalva, velos finos normofuncionante
+T62	SYMPTOM 1437 1497	Válvula tricúspide estructuralmente normal sin insuficiencia
+T63	SYMPTOM 1694 1718	Raíz aórtica no dilatada
+T64	SYMPTOM 2796 2819	Coronarias sin lesiones
+T65	SYMPTOM 926 959	arterias coronarias sin estenosis

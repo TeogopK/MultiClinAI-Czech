@@ -1,0 +1,15 @@
+T44	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 263 297	Eradication of Helicobacter pylori
+T2	PROCEDURE 441 448	surgery
+T3	PROCEDURE 584 653	implanting a conventional stent in the proximal anterior descending A
+T4	PROCEDURE 873 947	Bypass of saphenous vein from RCA and internal mammary artery (IMA) to RCA
+T43	PROCEDURE 1091 1111	coronary angiography
+T5	PROCEDURE 1147 1203	bypass of IMA to LAD and saphenous vein to permeable RCA
+T6	PROCEDURE 1205 1249	Single-chamber defibrillator (ICD) implanted
+T45	PROCEDURE 2130 2150	Physical examination
+T46	PROCEDURE 2355 2375	Cardiac auscultation
+T47	PROCEDURE 2399 2421	Pulmonary auscultation
+T48	PROCEDURE 2639 2656	Electrocardiogram
+T49	PROCEDURE 2751 2765	Echocardiogram
+T7	PROCEDURE 3144 3147	CBC
+T50	PROCEDURE 3554 3568	renal function

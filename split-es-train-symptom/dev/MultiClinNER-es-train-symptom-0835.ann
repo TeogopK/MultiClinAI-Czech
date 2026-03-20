@@ -1,0 +1,40 @@
+T1	SYMPTOM 409 437	ritmo sinusal con eje normal
+T2	SYMPTOM 439 451	QRS estrecho
+T3	SYMPTOM 618 628	odinofagia
+T5	SYMPTOM 667 673	fiebre
+T6	SYMPTOM 722 728	disnea
+T7	SYMPTOM 730 733	tos
+T8	SYMPTOM 736 759	expectoración purulenta
+T9	SYMPTOM 795 849	molestias centrotorácicas de características mecánicas
+T10	SYMPTOM 946 952	fiebre
+T11	SYMPTOM 1007 1032	estable hemodinámicamente
+T13	SYMPTOM 1214 1253	secreciones en pared faríngea posterior
+T14	SYMPTOM 1285 1322	auscultación cardiopulmonar es normal
+T15	SYMPTOM 1360 1388	leucocitosis con neutrofilia
+T17	SYMPTOM 1483 1489	fiebre
+T18	SYMPTOM 1532 1541	PR normal
+T19	SYMPTOM 1605 1660	elevación descendente del segmento ST y onda T negativa
+T20	SYMPTOM 1748 1761	ritmo sinusal
+T21	SYMPTOM 1772 1781	PR normal
+T22	SYMPTOM 1849 1886	elevación descendente del segmento ST
+T23	SYMPTOM 1930 1945	onda T negativa
+T24	SYMPTOM 1947 1975	RADIOGRAFÍA DE TÓRAX: normal
+T25	SYMPTOM 2114 2138	función sistólica normal
+T26	SYMPTOM 2140 2204	Ventrículo derecho de tamaño normal con función sistólica normal
+T27	SYMPTOM 2206 2232	Aurículas de tamaño normal
+T28	SYMPTOM 2509 2538	sintomatología cardiovascular
+T29	SYMPTOM 2788 2843	test de provocación con flecainida que resulta positivo
+T30	SYMPTOM 3362 3368	fiebre
+T48	SYMPTOM 3370 3378	Síncopes
+T49	SYMPTOM 3124 3132	síncopes
+T77	SYMPTOM 1390 1404	iones normales
+T84	SYMPTOM 964 983	taquicardia sinusal
+T85	SYMPTOM 1501 1520	taquicardia sinusal
+T68	SYMPTOM 456 489	alteraciones en la repolarización
+T41	SYMPTOM 2956 2984	prologación del intervalo HV
+T92	SYMPTOM 2045 2111	Ventrículo izquierdo no dilatado con espesores parietales normales
+T95	SYMPTOM 1037 1065	adecuadas cifras tensionales
+T4	SYMPTOM 642 664	dificulta la deglución
+T16	SYMPTOM 1068 1101	buena saturación basal de oxígeno
+T45	SYMPTOM 1568 1599	V1-V2 se objetiva imagen de RsR
+T69	SYMPTOM 1808 1843	V1-V2 se objetiva una imagen de RsR

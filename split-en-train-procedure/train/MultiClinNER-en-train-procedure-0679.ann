@@ -1,0 +1,20 @@
+T4	PROCEDURE 168 180	renal biopsy
+T2	PROCEDURE 420 440	Physical examination
+T12	PROCEDURE 704 712	sediment
+T25	PROCEDURE 756 799	electrophoretic spectrum in blood and urine
+T10	PROCEDURE 805 824	immunological study
+T3	PROCEDURE 829 845	renal ultrasound
+T5	PROCEDURE 861 873	renal biopsy
+T17	PROCEDURE 999 1008	Congo red
+T13	PROCEDURE 1137 1165	study on the paraffin sample
+T30	PROCEDURE 1376 1457	complementary study was performed with antibodies against fibrinogen and lysozyme
+T9	PROCEDURE 1565 1578	genetic study
+T15	PROCEDURE 1745 1751	biopsy
+T11	PROCEDURE 2026 2046	immunohistochemistry
+T8	PROCEDURE 2210 2225	extension study
+T1	PROCEDURE 2246 2262	echocardiography
+T36	PROCEDURE 2267 2283	electromyography
+T16	PROCEDURE 2654 2679	renal replacement therapy
+T6	PROCEDURE 2725 2744	peritoneal dialysis
+T43	PROCEDURE 2790 2821	cadaver donor kidney transplant
+T7	PROCEDURE 2977 2988	splenectomy

@@ -1,0 +1,38 @@
+T9	PROCEDURE 131 152	Intravenous urography
+T11	PROCEDURE 157 176	voiding cystography
+T8	PROCEDURE 868 896	Laparoscopic cholecystectomy
+T10	PROCEDURE 914 932	caesarean sections
+T12	PROCEDURE 964 990	antihypertensive treatment
+T2	PROCEDURE 1094 1114	Physical examination
+T33	PROCEDURE 1153 1210	Examination of the head, neck and cardio-pulmonary system
+T13	PROCEDURE 1324 1371	Pelvic examination in dorsal lithotomy position
+T38	PROCEDURE 1635 1767	Magnetic resonance imaging (MRI) of the pelvis was performed on axial T1, axial T2, fatty T2 sequences in both right and left images
+T7	PROCEDURE 1663 1666	MRI
+T3	PROCEDURE 2339 2365	Flexible cystourethroscopy
+T4	PROCEDURE 2372 2383	anaesthesia
+T5	PROCEDURE 2511 2557	cystourethroscopy with 12 and 70 degree optics
+T14	PROCEDURE 2823 2833	Cystoscopy
+T6	PROCEDURE 3080 3105	urethral diverticulectomy
+T17	PROCEDURE 3287 3309	reconstructive surgery
+T1	PROCEDURE 3322 3341	General anaesthesia
+T19	PROCEDURE 3343 3361	Lithotomy position
+T18	PROCEDURE 3363 3424	Sterilisation and preparation of the external genitalia field
+T20	PROCEDURE 3443 3521	Silk fixation stitches in the labia minora to expose the anterior vaginal wall
+T21	PROCEDURE 3523 3584	Antegrade placement of a 16 French suprapubic cystostomy tube
+T47	PROCEDURE 3697 3710	gravity drain
+T49	PROCEDURE 3746 3814	Placement of a 16 Fr Foley urethral catheter into the urinary bladde
+T15	PROCEDURE 3817 3827	Cystoscopy
+T16	PROCEDURE 3881 3991	The anterior vaginal wall was infiltrated with a total of 15 ml of saline containing lidocaine and epinephrine
+T22	PROCEDURE 3996 4085	inverted U-shaped incision was made and a flap of the anterior vaginal wall was dissected
+T23	PROCEDURE 4131 4186	horizontal incision was made in the periurethral fascia
+T24	PROCEDURE 4191 4284	a plane between the urethral diverticulum and the periurethral fascia was carefully dissected
+T25	PROCEDURE 4369 4433	The diverticulum was dissected down to the level of its own neck
+T26	PROCEDURE 4435 4470	The diverticular neck was sectioned
+T27	PROCEDURE 4556 4659	The edges of the urethra were approximated by suturing the urethral mucosa continuously with 3-0 Vycril
+T28	PROCEDURE 4685 4754	the periurethral fascia was reapproximated with loose Vicryl stitches
+T29	PROCEDURE 4915 4989	the anterior vaginal incision was closed with continuous 2-0 Vicryl suture
+T52	PROCEDURE 4991 5036	The Foley urethral catheter was left in place
+T30	PROCEDURE 5045 5097	suprapubic cystotomy was left draining under gravity
+T53	PROCEDURE 5123 5153	dissection of the diverticulum
+T31	PROCEDURE 5233 5316	dissecting the entire length of the diverticulum up to the neck of the diverticulum
+T54	PROCEDURE 5318 5327	Pathology

@@ -1,0 +1,62 @@
+T1	SYMPTOM 775 847	dolor centrotorácico, de características opresivas, irradiado a garganta
+T2	SYMPTOM 863 878	sudoración fría
+T3	SYMPTOM 881 888	náuseas
+T4	SYMPTOM 893 900	vómitos
+T5	SYMPTOM 916 922	disnea
+T6	SYMPTOM 927 940	palpitaciones
+T7	SYMPTOM 1096 1102	fiebre
+T8	SYMPTOM 1214 1239	hemodinámicamente estable
+T9	SYMPTOM 1312 1322	consciente
+T10	SYMPTOM 1324 1333	orientado
+T12	SYMPTOM 1391 1449	elevación del segmento ST de 2 mm en la cara inferior y V6
+T13	SYMPTOM 1523 1528	dolor
+T14	SYMPTOM 1680 1731	asintomático desde el punto de vista cardiovascular
+T15	SYMPTOM 1820 1845	elevación del segmento ST
+T17	SYMPTOM 2213 2238	elevación del segmento ST
+T18	SYMPTOM 2253 2281	elevación transitoria del ST
+T19	SYMPTOM 2360 2411	asintomático desde el punto de vista cardiovascular
+T20	SYMPTOM 2437 2451	dolor torácico
+T21	SYMPTOM 2490 2515	Hemodinámicamente estable
+T22	SYMPTOM 2547 2576	Eupneico en reposo y al habla
+T23	SYMPTOM 2612 2630	Tolerando decúbito
+T24	SYMPTOM 2670 2684	tonos rítmicos
+T25	SYMPTOM 2690 2696	soplos
+T26	SYMPTOM 2730 2759	murmullo vesicular conservado
+T28	SYMPTOM 2799 2830	Miembros inferiores: sin edemas
+T29	SYMPTOM 2905 2910	dolor
+T30	SYMPTOM 2912 2925	ritmo sinusal
+T31	SYMPTOM 2959 2971	QRS estrecho
+T32	SYMPTOM 2976 3038	elevación del segmento ST de máximo 2 mm en cara inferior y V6
+T33	SYMPTOM 3040 3068	descenso 1 mm ST en V1 y aVR
+T34	SYMPTOM 3073 3090	ondas T negativas
+T35	SYMPTOM 3136 3164	índice cardiotorácico normal
+T38	SYMPTOM 3324 3345	iones en rango normal
+T39	SYMPTOM 3350 3362	leucocitosis
+T40	SYMPTOM 3700 3797	ventrículo izquierdo que no impresiona de estar dilatado, con función sistólica cualitativa norma
+T42	SYMPTOM 3861 3920	Ventrículo derecho con función sistólica cualitativa normal
+T43	SYMPTOM 4158 4200	aurícula izquierda de dimensiones normales
+T44	SYMPTOM 4231 4252	Válvula mitral normal
+T45	SYMPTOM 4307 4350	Ventrículo izquierdo con volúmenes normales
+T46	SYMPTOM 4533 4564	Patrón de llenado mitral normal
+T47	SYMPTOM 4888 4913	Vena cava inferior normal
+T48	SYMPTOM 5571 5596	hemodinámicamente estable
+T49	SYMPTOM 5622 5636	dolor torácico
+T50	SYMPTOM 6606 6620	dolor torácico
+T51	SYMPTOM 6764 6794	Función ventricular conservada
+T125	SYMPTOM 2638 2645	Afebril
+T11	SYMPTOM 1970 2005	estable clínica y hemodinámicamente
+T16	SYMPTOM 2073 2108	ecocardioscopia a pie de cama norma
+T27	SYMPTOM 3166 3192	Senos costofrénicos libres
+T36	SYMPTOM 3406 3434	Coagulación sin alteraciones
+T37	SYMPTOM 3813 3859	alteraciones segmentarias de la contractilidad
+T41	SYMPTOM 3922 3946	Raíz aórtica no dilatada
+T87	SYMPTOM 4007 4037	Vena cava inferior no dilatada
+T126	SYMPTOM 4413 4459	alteraciones segmentarias de la contractilidad
+T127	SYMPTOM 4461 4485	Grosor miocárdico normal
+T128	SYMPTOM 4707 4766	Ventrículo derecho de dimensiones y contractilidad normales
+T129	SYMPTOM 4602 4661	Válvula aórtica trivalva, con velos anatómicamente normales
+T130	SYMPTOM 4809 4845	Válvula tricúspide sin insuficiencia
+T85	SYMPTOM 6648 6676	elevación transitoria del ST
+T147	SYMPTOM 1336 1347	colaborador
+T148	SYMPTOM 3254 3269	consolidaciones
+T149	SYMPTOM 2936 2946	eje normal

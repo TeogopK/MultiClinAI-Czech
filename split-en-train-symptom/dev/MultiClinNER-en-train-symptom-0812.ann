@@ -1,0 +1,45 @@
+T1	SYMPTOM 329 372	oppressive chest pain triggered by exertion
+T29	SYMPTOM 558 577	vegetative symptoms
+T2	SYMPTOM 625 633	dyspnoea
+T20	SYMPTOM 897 909	asymptomatic
+T30	SYMPTOM 944 1024	physical examination, electrocardiogram, chest X-ray and normal laboratory tests
+T21	SYMPTOM 1106 1118	Asymptomatic
+T3	SYMPTOM 1124 1146	good general condition
+T31	SYMPTOM 1148 1155	eupneic
+T4	SYMPTOM 1188 1211	haemodynamically stable
+T5	SYMPTOM 1221 1246	good peripheral perfusion
+T6	SYMPTOM 1298 1312	rhythmic tones
+T7	SYMPTOM 1321 1328	murmurs
+T8	SYMPTOM 1335 1361	preserved vesicular murmur
+T32	SYMPTOM 1370 1389	pathological sounds
+T33	SYMPTOM 1391 1437	Peripheral pulses were symmetrical and present
+T9	SYMPTOM 1541 1560	normal sinus rhythm
+T34	SYMPTOM 1579 1605	repolarisation alterations
+T10	SYMPTOM 1621 1666	normal cardiac silhouette and lung parenchyma
+T35	SYMPTOM 1701 1776	serial markers of myocardial damage, normal red blood count and coagulation
+T25	SYMPTOM 1892 1917	structurally normal heart
+T11	SYMPTOM 1924 1972	preserved global and segmental systolic function
+T36	SYMPTOM 1981 2019	ergometry that was clinically positive
+T12	SYMPTOM 2084 2103	precordial pressure
+T37	SYMPTOM 2140 2191	electrically positive from the beginning of stage 1
+T38	SYMPTOM 2214 2232	ST-segment descent
+T14	SYMPTOM 2400 2438	alterations in segmental contractility
+T39	SYMPTOM 2469 2511	aortic valve and postvalvular aorta normal
+T15	SYMPTOM 2513 2531	Normal left atrium
+T16	SYMPTOM 2533 2552	Normal mitral valve
+T24	SYMPTOM 2554 2597	Left ventricle of normal size and thickness
+T17	SYMPTOM 2599 2644	Normal global and segmental systolic function
+T18	SYMPTOM 2646 2689	Ventricular filling: normal filling pattern
+T40	SYMPTOM 2691 2712	Normal right chambers
+T13	SYMPTOM 2872 2891	precordial pressure
+T41	SYMPTOM 3000 3025	decrease in ST from V4-V6
+T19	SYMPTOM 3283 3293	ST decline
+T42	SYMPTOM 3392 3401	Normal HR
+T43	SYMPTOM 3412 3421	Normal HR
+T22	SYMPTOM 3811 3823	asymptomatic
+T27	SYMPTOM 3870 3930	anterior descending artery (ADA) without significant lesions
+T44	SYMPTOM 3967 4019	circumflex artery (ACx) with very little development
+T26	SYMPTOM 4615 4626	hypokinesia
+T28	SYMPTOM 5159 5196	development of collateral circulation
+T45	SYMPTOM 5218 5276	hypercoagulability study was performed, which was negative
+T23	SYMPTOM 5536 5548	asymptomatic

@@ -1,0 +1,15 @@
+T1	SYMPTOM 1145 1154	febrícula
+T2	SYMPTOM 1272 1279	afebril
+T3	SYMPTOM 1320 1341	focalidad neurológica
+T4	SYMPTOM 331 337	fiebre
+T5	SYMPTOM 342 366	estado general era bueno
+T6	SYMPTOM 384 414	exploración neurológica normal
+T7	SYMPTOM 2246 2296	crecimiento de Proprionibacterium acnes (P. acnes)
+T8	SYMPTOM 861 898	cultivos bacterianos fueron negativos
+T9	SYMPTOM 1244 1263	buen estado general
+T10	SYMPTOM 283 301	material purulento
+T11	SYMPTOM 1675 1710	aire en el interior de la colección
+T12	SYMPTOM 699 727	colección purulenta epidural
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	IMAGEN T11

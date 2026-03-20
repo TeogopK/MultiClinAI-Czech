@@ -1,0 +1,36 @@
+T105	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 340 405	osteosynthesis of peroneal malleolus with 6-hole tube third plate
+T2	PROCEDURE 410 457	osteosynthesis of tibial malleolus with a screw
+T3	PROCEDURE 698 733	continuous positive airway pressure
+T107	PROCEDURE 735 739	CPAP
+T108	PROCEDURE 745 756	home oxygen
+T109	PROCEDURE 814 826	radiotherapy
+T110	PROCEDURE 831 847	hormone blockade
+T111	PROCEDURE 966 984	Abdomino-pelvic CT
+T112	PROCEDURE 1490 1504	Echocardiogram
+T115	PROCEDURE 1619 1639	Coronary angiography
+T116	PROCEDURE 1745 1796	Implantable cardioverter defibrillator implantation
+T4	PROCEDURE 1837 1844	ICD-CRT
+T5	PROCEDURE 2029 2047	reviews of the ICD
+T6	PROCEDURE 2116 2151	(SMVT) treated with overstimulation
+T7	PROCEDURE 2261 2286	appropriate ICD discharge
+T117	PROCEDURE 2352 2380	transthoracic echocardiogram
+T8	PROCEDURE 3669 3685	heart transplant
+T9	PROCEDURE 4146 4160	ICD discharges
+T106	PROCEDURE 4192 4212	Physical examination
+T119	PROCEDURE 4428 4448	Cardiac auscultation
+T120	PROCEDURE 4508 4530	Pulmonary auscultation
+T121	PROCEDURE 4765 4782	electrocardiogram
+T122	PROCEDURE 4888 4899	Chest X-ray
+T10	PROCEDURE 5024 5037	SARS-CoV2 CRP
+T11	PROCEDURE 5053 5092	Transthoracic echocardiogram at bedside
+T12	PROCEDURE 6567 6578	Blood tests
+T13	PROCEDURE 6580 6592	Biochemistry
+T123	PROCEDURE 6910 6923	Lipid profile
+T14	PROCEDURE 7052 7064	Iron profile
+T124	PROCEDURE 7197 7206	Haemogram
+T125	PROCEDURE 7488 7504	Thyroid hormones
+T127	PROCEDURE 7797 7814	bariatric surgery
+T15	PROCEDURE 8799 8815	Laboratory tests
+T126	PROCEDURE 9393 9415	antidiabetic treatment
+T16	PROCEDURE 10215 10231	heart transplant

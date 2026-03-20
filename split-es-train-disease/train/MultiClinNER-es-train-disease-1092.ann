@@ -1,0 +1,113 @@
+T21	DISEASE 4221 4234	excoriaciones
+T41	DISEASE 6918 7015	Engrosamiento de la zona posterior del anillo protésico, con extensión hacia fibrosa mitroaórtica
+T42	DISEASE 7147 7196	Válvula mitral con engrosamiento de velo anterior
+T43	DISEASE 7350 7459	engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral
+T47	DISEASE 8955 9064	engrosamiento a nivel posterior de anillo aórtico, fibrosa mitroaórtica y de la base del velo anterior mitral
+T52	DISEASE 117 129	Hipertensión
+T53	DISEASE 134 151	diabetes mellitus
+T54	DISEASE 156 167	dislipemias
+T55	DISEASE 355 379	pseudoaneurisma de aorta
+T56	DISEASE 425 446	fístula aorto cutánea
+T57	DISEASE 485 508	fístula a nivel aórtico
+T58	DISEASE 739 751	coagulopatía
+T59	DISEASE 891 912	fracaso multiorgánico
+T60	DISEASE 1048 1071	Pseudoaneurisma femoral
+T61	DISEASE 1108 1146	Úlcera duodenal con sangrado digestivo
+T62	DISEASE 1158 1182	Hematoma retroperitoneal
+T63	DISEASE 1280 1310	síncope de perfil cardiogénico
+T64	DISEASE 1534 1581	hipertrofia ventricular izquierda leve-moderada
+T65	DISEASE 1713 1759	Otitis media aguda a repetición en ambos oídos
+T66	DISEASE 1794 1825	Hiperplasia benigna de próstata
+T67	DISEASE 2073 2101	traumatismo craneoencefálico
+T68	DISEASE 2103 2106	TCE
+T69	DISEASE 2203 2232	traumatismo en región frontal
+T70	DISEASE 2472 2505	hematoma subdural en hoz cerebral
+T71	DISEASE 2615 2634	bradicardia sinusal
+T73	DISEASE 2857 2874	hematoma subdural
+T74	DISEASE 2886 2910	hemorragia subaracnoidea
+T75	DISEASE 2964 2983	hemiparesia derecha
+T76	DISEASE 2986 3003	crisis comiciales
+T77	DISEASE 3214 3221	síncope
+T80	DISEASE 3383 3425	bloqueo auriculoventricular (BAV) completo
+T81	DISEASE 3412 3415	BAV
+T82	DISEASE 3618 3663	herida de partes blandes en la región frontal
+T83	DISEASE 4371 4400	parálisis de miembro inferior
+T84	DISEASE 4851 4882	anemia normocítica normocrómica
+T85	DISEASE 5431 5464	hematoma subdural en hoz cerebral
+T86	DISEASE 6018 6071	Válvula mitral: engrosamiento de velos, insuficiencia
+T87	DISEASE 6213 6234	hipertensión pulmonar
+T88	DISEASE 6438 6457	shunt intracardiaco
+T89	DISEASE 6739 6767	insuficiencia intraprotésica
+T90	DISEASE 7241 7261	insuficiencia mitral
+T91	DISEASE 7473 7479	flemón
+T92	DISEASE 7659 7661	EI
+T93	DISEASE 7870 7890	Insuficiencia mitral
+T94	DISEASE 7932 8002	microinfartos corticales agudos de localización supra e infratentorial
+T95	DISEASE 8096 8144	contusiones parenquimatosas frontales izquierdas
+T96	DISEASE 8151 8168	hematoma subdural
+T97	DISEASE 8236 8261	infartos focales en riñón
+T98	DISEASE 8346 8348	EI
+T99	DISEASE 8925 8937	endocarditis
+T100	DISEASE 9078 9085	absceso
+T101	DISEASE 9203 9215	endocarditis
+T102	DISEASE 9257 9276	embolismos sépticos
+T103	DISEASE 9337 9408	micro infartos corticales agudos de localización supra e infratentorial
+T104	DISEASE 9472 9492	embolias periféricas
+T105	DISEASE 9833 9858	leak perivalvular aórtico
+T106	DISEASE 9878 9899	insuficiencia aórtica
+T107	DISEASE 9927 9942	verruga aórtica
+T108	DISEASE 9962 9984	verruga a nivel mitral
+T109	DISEASE 10303 10319	infartos renales
+T110	DISEASE 10461 10547	lesiones valvulares con abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica
+T111	DISEASE 10743 10765	insuficiencia cardiaca
+T112	DISEASE 10767 10774	síncope
+T113	DISEASE 11697 11721	BAV completo paroxístico
+T114	DISEASE 11785 11797	endocarditis
+T115	DISEASE 11982 12006	enfermedades infecciosas
+T116	DISEASE 12112 12172	EI por Enterococcus faecalis sobre prótesis aórtica mecánica
+T117	DISEASE 12210 12221	bacteriemia
+T118	DISEASE 12285 12305	Absceso mitroaórtico
+T119	DISEASE 12310 12358	insuficiencia aórtica ligera-moderada secundaria
+T120	DISEASE 12370 12405	microinfartos cerebrales corticales
+T121	DISEASE 12408 12448	infarto renal izquierdo secundarios a EI
+T122	DISEASE 12450 12456	Anemia
+T123	DISEASE 12478 12480	EI
+T124	DISEASE 12482 12510	Hematoma subdural traumático
+T125	DISEASE 12513 12561	contusiones parenquimatosas frontales izquierdas
+T126	DISEASE 12580 12608	traumatismo craneoencefálico
+T127	DISEASE 12637 12648	hemiparesia
+T128	DISEASE 12651 12682	crisis comiciales en fase aguda
+T129	DISEASE 12684 12699	BAV paroxístico
+T130	DISEASE 12701 12754	Infección de tracto urinario por Citrobacter freundii
+T131	DISEASE 104 113	exfumador
+T132	DISEASE 38 73	reacciones alérgicas medicamentosas
+T133	DISEASE 193 226	valvular aórtica por doble lesión
+T134	DISEASE 1374 1419	hemibloqueo anterior izquierdo del haz de His
+T135	DISEASE 1421 1427	HARIHH
+T136	DISEASE 3749 3758	hematomas
+T137	DISEASE 3800 3809	hematomas
+T138	DISEASE 4132 4140	hematoma
+T140	DISEASE 5340 5346	HARIHH
+T143	DISEASE 7481 7575	Verruga endocardítica de pequeñas dimensiones, visualizada en cara aórtica de prótesis aórtica
+T144	DISEASE 7777 7833	velo anterior mitral con imagen de verruga endocardítica
+T146	DISEASE 984 1002	leak periprotésico
+T147	DISEASE 8417 8477	prótesis aórtica con gradientes normales, fuga periprotesica
+T148	DISEASE 10613 10627	verruga mitral
+T149	DISEASE 12614 12631	episodio sincopal
+T241	DISEASE 87 102	Hábitos tóxicos
+T242	DISEASE 956 982	dehiscencia de la prótesis
+T243	DISEASE 2135 2152	episodio sincopal
+T247	DISEASE 3763 3775	deformidades
+T18	DISEASE 4190 4202	deformidades
+T139	DISEASE 4239 4251	deformidades
+T256	DISEASE 7017 7056	velo anterior mitral que está engrosado
+T257	DISEASE 7346 7348	EI
+T260	DISEASE 8353 8415	abscesificación a nivel de anillo aórtico/fibrosa mitroaórtica
+T261	DISEASE 9122 9176	verruga de pequeñas dimensiones en la prótesis aórtica
+T239	DISEASE 451 470	osteolisis esternal
+T230	DISEASE 3740 3747	heridas
+T38	DISEASE 6909 6916	verruga
+T141	DISEASE 7310 7320	vegetación
+T142	DISEASE 8505 8523	zona abscesificada
+T216	DISEASE 10527 10588	fibrosa mitroaórtica, que previamente se encontraba flemonosa
+#1	AnnotatorNotes T257	endocarditis infecciosa

@@ -1,0 +1,36 @@
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 1146 1164	Exploración física
+T67	PROCEDURE 1404 1425	auscultación cardiaca
+T68	PROCEDURE 1431 1452	auscultación pulmonar
+T69	PROCEDURE 1662 1680	Electrocardiograma
+T70	PROCEDURE 1682 1685	ECG
+T71	PROCEDURE 2039 2068	Ecocardiografía transtorácica
+T72	PROCEDURE 2593 2620	Ergometría en tapiz rodante
+T73	PROCEDURE 2622 2677	ergometría máxima con protocolo de Bruce en cinta móvil
+T74	PROCEDURE 2902 2905	ECG
+T75	PROCEDURE 3085 3100	Coronariografía
+T76	PROCEDURE 3433 3503	TC de coronarias con sincronización cardiaca y adquisición prospectiva
+T77	PROCEDURE 4120 4175	Resonancia magnética cardiaca de estrés con dipiridamol
+T78	PROCEDURE 4698 4725	valoración ecocardiográfica
+T79	PROCEDURE 4959 4986	ergometría en tapiz rodante
+T80	PROCEDURE 5363 5378	coronariografía
+T81	PROCEDURE 5403 5446	canalización del tronco coronario izquierdo
+T82	PROCEDURE 6081 6093	TC coronario
+T83	PROCEDURE 6135 6150	coronariografía
+T84	PROCEDURE 6294 6340	reimplantación de la arteria coronaria derecha
+T85	PROCEDURE 6342 6360	resección parietal
+T86	PROCEDURE 6363 6372	unroofing
+T87	PROCEDURE 6375 6403	bypass con ligadura proximal
+T88	PROCEDURE 6740 6755	betabloqueantes
+T89	PROCEDURE 6811 6856	RMC de estrés con vasodilatador (dipiridamol)
+T91	PROCEDURE 7765 7789	tratamiento antianginoso
+T96	PROCEDURE 4443 4487	Provocación de isquemia con dipiridamol i.v.
+T102	PROCEDURE 5574 5644	canalizar la arteria coronaria derecha desde el seno coronario derecho
+T104	PROCEDURE 1805 1814	Analítica
+T122	PROCEDURE 7317 7336	inducción de estrés
+T123	PROCEDURE 7540 7552	intervención
+T124	PROCEDURE 7392 7415	intervención quirúrgica
+T142	PROCEDURE 6430 6446	prueba de imagen
+T111	PROCEDURE 5749 5818	inyecciones subselectivas se observó que la arteria coronaria derecha
+T112	PROCEDURE 6561 6585	tratamiento antianginoso
+T113	PROCEDURE 6960 7031	mecanismo de inducción de estrés mediante esta técnica (vasodilatación)

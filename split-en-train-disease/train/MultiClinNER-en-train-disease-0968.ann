@@ -1,0 +1,30 @@
+T73	DISEASE 68 82	drug allergies
+T74	DISEASE 114 120	smoker
+T94	DISEASE 133 140	drinker
+T1	DISEASE 227 256	varicose veins in lower limbs
+T75	DISEASE 808 832	cardiorespiratory arrest
+T3	DISEASE 834 837	CRA
+T77	DISEASE 1193 1218	right bundle branch block
+T78	DISEASE 2818 2843	pulmonary thromboembolism
+T79	DISEASE 2847 2867	deep vein thrombosis
+T80	DISEASE 2915 2943	acute intracranial pathology
+T81	DISEASE 3149 3157	thrombus
+T86	DISEASE 3159 3184	Mild mitral insufficiency
+T95	DISEASE 3292 3347	Anterior descending artery (AD) with spiroid dissection
+T11	DISEASE 3563 3582	coronary dissection
+T82	DISEASE 3776 3834	13 x 8 mm mural thrombus in the apex of the left ventricle
+T13	DISEASE 3903 3922	out-of-hospital CRA
+T15	DISEASE 4086 4089	CRA
+T87	DISEASE 4558 4581	ventricular dysfunction
+T88	DISEASE 4800 4840	spirodial dissection of the proximal LAD
+T89	DISEASE 5334 5354	arterial hypotension
+T90	DISEASE 5359 5376	sinus tachycardia
+T91	DISEASE 5661 5676	apical thrombus
+T96	DISEASE 5813 5832	myocardial necrosis
+T84	DISEASE 6102 6110	thrombus
+T76	DISEASE 6139 6163	cardiorespiratory arrest
+T92	DISEASE 6203 6226	Ischaemic heart disease
+T21	DISEASE 6228 6272	ST-segment elevation acute coronary syndrome
+T22	DISEASE 6274 6279	STEMI
+T23	DISEASE 6282 6342	Q-wave infarction secondary to spiroid dissection of the LAD
+T93	DISEASE 6529 6554	mural thrombus in LV apex

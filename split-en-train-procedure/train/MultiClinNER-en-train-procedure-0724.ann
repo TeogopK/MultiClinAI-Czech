@@ -1,0 +1,11 @@
+T1	PROCEDURE 698 718	Physical examination
+T7	PROCEDURE 758 778	cardiac auscultation
+T8	PROCEDURE 865 887	Pulmonary auscultation
+T9	PROCEDURE 949 973	neurological examination
+T2	PROCEDURE 1382 1385	ECG
+T3	PROCEDURE 1409 1412	ECG
+T4	PROCEDURE 1547 1550	ECG
+T6	PROCEDURE 1654 1674	electrocardiographic
+T5	PROCEDURE 1825 1828	ECG
+T10	PROCEDURE 1978 2009	negative chronotropic treatment
+T24	PROCEDURE 2300 2333	permanent pacemaker was implanted

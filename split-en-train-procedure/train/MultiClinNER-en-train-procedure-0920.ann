@@ -1,0 +1,44 @@
+T50	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T52	PROCEDURE 117 150	anticoagulated with acenocoumarol
+T53	PROCEDURE 197 212	echocardiograms
+T51	PROCEDURE 418 438	physical examination
+T61	PROCEDURE 453 473	coronary angiography
+T54	PROCEDURE 481 490	ergometry
+T56	PROCEDURE 522 525	ECG
+T1	PROCEDURE 593 604	Blood tests
+T80	PROCEDURE 606 618	biochemistry
+T2	PROCEDURE 623 632	haemogram
+T3	PROCEDURE 654 679	Myocardial damage markers
+T59	PROCEDURE 694 705	Chest X-ray
+T74	PROCEDURE 813 827	echocardiogram
+T5	PROCEDURE 829 832	TTE
+T60	PROCEDURE 1084 1091	Doppler
+T55	PROCEDURE 1175 1184	Ergometry
+T62	PROCEDURE 1533 1553	Coronary angiography
+T63	PROCEDURE 2046 2066	coronary angiography
+T64	PROCEDURE 2160 2171	angioplasty
+T8	PROCEDURE 2447 2504	Support is increased with a 1.5F coaxial balloon catheter
+T57	PROCEDURE 2852 2855	ECG
+T9	PROCEDURE 3008 3070	administration of intravenous corticosteroid and antihistamine
+T75	PROCEDURE 3153 3181	transthoracic echocardiogram
+T11	PROCEDURE 3610 3637	double antiplatelet therapy
+T66	PROCEDURE 3642 3657	anticoagulation
+T58	PROCEDURE 3923 3926	ECG
+T13	PROCEDURE 3972 3997	intravenous NTG perfusion
+T14	PROCEDURE 4143 4146	TTE
+T16	PROCEDURE 4383 4396	Serum therapy
+T67	PROCEDURE 4475 4493	pericardiocentesis
+T68	PROCEDURE 4597 4605	drainage
+T71	PROCEDURE 4624 4648	antithrombotic treatment
+T17	PROCEDURE 4696 4713	pericardial drain
+T19	PROCEDURE 4757 4774	echocardiographic
+T69	PROCEDURE 4826 4849	repositioning the drain
+T77	PROCEDURE 4869 4891	orotracheal intubation
+T78	PROCEDURE 4970 4999	surgical pericardial drainage
+T76	PROCEDURE 5060 5074	echocardiogram
+T73	PROCEDURE 5230 5250	pericardial drainage
+T79	PROCEDURE 5296 5313	median sternotomy
+T40	PROCEDURE 5614 5617	TTE
+T22	PROCEDURE 5869 5891	circulatory assistance
+T23	PROCEDURE 5913 5952	was decided to limit therapeutic effort
+T65	PROCEDURE 6070 6081	angioplasty

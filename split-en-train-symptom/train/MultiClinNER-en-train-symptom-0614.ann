@@ -1,0 +1,16 @@
+T1	SYMPTOM 55 70	precordial pain
+T9	SYMPTOM 109 122	inferior E-ST
+T10	SYMPTOM 124 149	prominent J wave in V1-V2
+T11	SYMPTOM 154 183	marked D-ST in leads V1 to V5
+T12	SYMPTOM 341 367	J wave (R') in leads V1-V2
+T2	SYMPTOM 375 396	ST-segment deviations
+T13	SYMPTOM 414 472	high R-waves affecting the initial part of the QRS complex
+T14	SYMPTOM 477 509	acuminate T-waves in leads V2-V3
+T3	SYMPTOM 615 652	T-wave inversion in leads III and aVF
+T4	SYMPTOM 656 677	J-wave in leads V1-V2
+T6	SYMPTOM 684 735	concave E-ST with positive T-wave in leads V1 to V4
+T5	SYMPTOM 773 779	J-wave
+T15	SYMPTOM 783 795	concave E-ST
+T16	SYMPTOM 802 835	positive T-wave in leads V2 to V5
+T7	SYMPTOM 948 979	inferobasal and apical akinesia
+T8	SYMPTOM 1214 1226	asymptomatic

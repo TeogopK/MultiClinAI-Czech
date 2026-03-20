@@ -1,0 +1,19 @@
+T29	PROCEDURE 434 452	análisis de sangre
+T30	PROCEDURE 688 697	hemograma
+T31	PROCEDURE 854 872	electrocardiograma
+T32	PROCEDURE 935 982	radiografías de tórax y de la columna vertebral
+T33	PROCEDURE 989 1040	ecografía y la tomografía computarizada abdominales
+T34	PROCEDURE 1058 1073	ecocardiografía
+T35	PROCEDURE 1156 1168	hemocultivos
+T36	PROCEDURE 1667 1688	radiografías de tórax
+T37	PROCEDURE 1761 1776	ecocardiografía
+T38	PROCEDURE 1959 1995	tratamiento intensivo con diuréticos
+T39	PROCEDURE 1997 2012	vasodilatadores
+T40	PROCEDURE 2179 2216	implantación de un marcapaso temporal
+T44	PROCEDURE 712 723	coagulación
+T45	PROCEDURE 699 709	bioquímica
+T46	PROCEDURE 1594 1606	se auscultan
+T47	PROCEDURE 2014 2032	agentesinotrópicos
+T50	PROCEDURE 223 234	exploración
+T51	PROCEDURE 404 415	exploración
+T55	PROCEDURE 837 846	sedimento

@@ -1,0 +1,18 @@
+T30	PROCEDURE 328 351	tratamiento antibiótico
+T31	PROCEDURE 775 788	examen físico
+T32	PROCEDURE 1229 1249	Radiografía de tórax
+T33	PROCEDURE 1374 1386	hemocultivos
+T34	PROCEDURE 1393 1405	antibióticos
+T35	PROCEDURE 1688 1708	Radiografía de tórax
+T36	PROCEDURE 1871 1899	ecocardiograma transtorácico
+T37	PROCEDURE 2250 2268	drogas inotrópicas
+T38	PROCEDURE 2308 2331	ventilación no invasiva
+T39	PROCEDURE 2357 2380	tratamiento antibiótico
+T40	PROCEDURE 2430 2459	ecocardiograma transesofágico
+T41	PROCEDURE 2707 2719	hemocultivos
+T42	PROCEDURE 3048 3071	tratamiento antibiótico
+T50	PROCEDURE 703 717	se auscultaban
+T52	PROCEDURE 2792 2807	aminoglucócidos
+T71	PROCEDURE 983 1001	sedimento urinario
+T10	PROCEDURE 192 216	resucitación con volumen
+T57	PROCEDURE 300 313	hemocultivada

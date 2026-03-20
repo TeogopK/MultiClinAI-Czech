@@ -1,0 +1,55 @@
+T107	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T97	PROCEDURE 558 588	transthoracic echocardiography
+T2	PROCEDURE 590 593	TTE
+T98	PROCEDURE 612 641	pharmacological cardioversion
+T99	PROCEDURE 660 683	pulmonary vein ablation
+T100	PROCEDURE 745 769	antiarrhythmic treatment
+T102	PROCEDURE 869 884	anticoagulation
+T3	PROCEDURE 1061 1137	reablation of the left atrial substrate, atrial roof line and mitral isthmus
+T104	PROCEDURE 1210 1234	electrical cardioversion
+T101	PROCEDURE 1268 1292	antiarrhythmic treatment
+T4	PROCEDURE 1877 1888	cranial MRI
+T135	PROCEDURE 2230 2244	renal function
+T105	PROCEDURE 2484 2517	cauterisation with silver nitrate
+T5	PROCEDURE 2522 2563	placement of spogostan and bactroban film
+T6	PROCEDURE 2593 2642	percutaneous closure of the left atrial appendage
+T7	PROCEDURE 2858 2870	antiplatelet
+T8	PROCEDURE 2907 2919	antiplatelet
+T108	PROCEDURE 3411 3431	PHYSICAL EXAMINATION
+T109	PROCEDURE 3705 3725	Cardiac auscultation
+T110	PROCEDURE 3773 3795	Pulmonary auscultation
+T111	PROCEDURE 3948 3962	deep palpation
+T112	PROCEDURE 4563 4580	Electrocardiogram
+T9	PROCEDURE 4642 4681	Posteroanterior and lateral chest X-ray
+T106	PROCEDURE 4773 4815	percutaneous left atrial appendage closure
+T10	PROCEDURE 4984 4987	TTE
+T11	PROCEDURE 5554 5585	Atrial appendage closure device
+T12	PROCEDURE 5587 5617	Chest computed tomography (CT)
+T13	PROCEDURE 6051 6087	Left atrial appendage closure device
+T113	PROCEDURE 6385 6397	Bronchoscopy
+T115	PROCEDURE 6407 6429	Bronchoalveolar lavage
+T117	PROCEDURE 6505 6525	pathological anatomy
+T119	PROCEDURE 6550 6576	Respiratory function tests
+T14	PROCEDURE 6665 6683	6 minute walk test
+T120	PROCEDURE 6691 6717	Respiratory function tests
+T127	PROCEDURE 6724 6748	corticosteroid treatment
+T121	PROCEDURE 6763 6789	respiratory function tests
+T138	PROCEDURE 6920 6938	6-minute walk test
+T132	PROCEDURE 6977 6990	Chest CT scan
+T126	PROCEDURE 8399 8410	thoracic CT
+T122	PROCEDURE 8668 8694	Respiratory function tests
+T139	PROCEDURE 8798 8816	6-minute walk test
+T114	PROCEDURE 8914 8926	bronchoscopy
+T116	PROCEDURE 8973 8995	bronchoalveolar lavage
+T118	PROCEDURE 9076 9096	pathological anatomy
+T129	PROCEDURE 9232 9256	corticosteroid treatment
+T130	PROCEDURE 9362 9380	thyroid ultrasound
+T136	PROCEDURE 9445 9461	thyroid function
+T131	PROCEDURE 9578 9595	steroid treatment
+T123	PROCEDURE 9983 10009	respiratory function tests
+T140	PROCEDURE 10191 10209	6-minute walk test
+T133	PROCEDURE 10258 10271	chest CT scan
+T134	PROCEDURE 11020 11040	oral anticoagulation
+T16	PROCEDURE 11066 11097	atrial appendage closure device
+T15	PROCEDURE 11120 11139	single antiplatelet
+T137	PROCEDURE 11195 11211	thyroid function

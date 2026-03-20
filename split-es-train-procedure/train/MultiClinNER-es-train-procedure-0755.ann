@@ -1,0 +1,57 @@
+T53	PROCEDURE 149 162	esplenectomía
+T54	PROCEDURE 164 211	biopsia hepática y de los ganglios mesentéricos
+T55	PROCEDURE 257 284	radioterapia sobre el tórax
+T56	PROCEDURE 327 344	hemitiroidectomía
+T57	PROCEDURE 628 647	ecografía abdominal
+T58	PROCEDURE 653 688	radiología simple torácica y lumbar
+T59	PROCEDURE 722 740	electrocardiograma
+T60	PROCEDURE 959 978	analítica de sangre
+T61	PROCEDURE 1278 1290	hemocultivos
+T62	PROCEDURE 1293 1303	urocultivo
+T63	PROCEDURE 1362 1386	fluidoterapia de rescate
+T64	PROCEDURE 1399 1422	tratamiento antibiótico
+T65	PROCEDURE 1593 1603	intubación
+T66	PROCEDURE 1606 1626	ventilación mecánica
+T67	PROCEDURE 1634 1652	electrocardiograma
+T68	PROCEDURE 1749 1778	ecocardiograma transesofágico
+T70	PROCEDURE 2100 2123	tratamiento antibiótico
+T71	PROCEDURE 2229 2239	extubación
+T72	PROCEDURE 2407 2421	ecocardiograma
+T73	PROCEDURE 2647 2676	angiotomografía computarizada
+T74	PROCEDURE 3302 3323	desbridar el hematoma
+T75	PROCEDURE 3505 3536	apertura de la aorta ascendente
+T76	PROCEDURE 3986 4027	Se resecó la porción de la pared de aorta
+T77	PROCEDURE 4079 4135	cierre directo de la aorta respetando la válvula aórtica
+T78	PROCEDURE 4152 4173	auriculotomía derecha
+T79	PROCEDURE 4595 4670	se implantó un marcapasos epicárdico definitivo sobre el ventrículo derecho
+T80	PROCEDURE 4677 4689	hemocultivos
+T81	PROCEDURE 4692 4703	urocultivos
+T82	PROCEDURE 4729 4760	cultivo del líquido pericárdico
+T83	PROCEDURE 5065 5081	l ecocardiograma
+T84	PROCEDURE 5288 5300	hemocultivos
+T85	PROCEDURE 5362 5385	tratamiento antifúngico
+T86	PROCEDURE 5498 5516	estudio necrópsico
+T93	PROCEDURE 3443 3468	circulación extracorpórea
+T94	PROCEDURE 2989 2996	cultivo
+T95	PROCEDURE 4808 4835	cultivo de las vegetaciones
+T96	PROCEDURE 4878 4913	reacción en cadena de la polimerasa
+T97	PROCEDURE 1175 1193	sedimento urinario
+T100	PROCEDURE 3261 3270	Se canuló
+T101	PROCEDURE 3471 3487	pinzada la aorta
+T102	PROCEDURE 3775 3830	vegetación anclada al septo membranoso que fue resecada
+T103	PROCEDURE 3843 3927	pincelar el septo con povidona iodada se dio un punto de sutura reforzado con Teflon
+T105	PROCEDURE 4285 4337	vegetación resecada en la cara ventricular izquierda
+T106	PROCEDURE 4339 4362	Se resecó la vegetación
+T107	PROCEDURE 4364 4387	se pinceló con Betadine
+T108	PROCEDURE 4390 4435	se reforzó la comisura con un punto de sutura
+T109	PROCEDURE 4452 4484	se abrió el septo interauricular
+T110	PROCEDURE 4507 4564	vegetación sobre el velo anterior mitral que fue resecada
+T111	PROCEDURE 4915 4918	PCR
+T112	PROCEDURE 1551 1581	aporte de líquidos endovenosos
+T16	PROCEDURE 2896 2919	apertura del pericardio
+T136	PROCEDURE 2864 2871	cirugía
+T139	PROCEDURE 4582 4594	intervención
+T140	PROCEDURE 5183 5195	intervención
+T141	PROCEDURE 5478 5490	intervención
+T150	PROCEDURE 1979 2000	perfusión de dopamina
+T115	PROCEDURE 3324 3346	drenando abundante pus

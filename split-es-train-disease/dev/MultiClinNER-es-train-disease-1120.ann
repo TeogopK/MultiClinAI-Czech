@@ -1,0 +1,29 @@
+T87	DISEASE 92 107	hábitos tóxicos
+T89	DISEASE 529 551	síndrome aórtico agudo
+T90	DISEASE 1241 1244	TVP
+T91	DISEASE 2059 2081	síndrome aórtico agudo
+T92	DISEASE 2120 2165	Tronco coronario izquierdo (TCI): suboclusión
+T93	DISEASE 2702 2735	taquicardia ventricular sostenida
+T94	DISEASE 3194 3221	Disfunción sistólica severa
+T95	DISEASE 3377 3411	Aneurisma discinético inferoapical
+T96	DISEASE 3899 3918	Derrame pericárdico
+T97	DISEASE 4088 4101	trombo apical
+T98	DISEASE 4134 4156	aneurisma inferoapical
+T99	DISEASE 4210 4228	shock cardiogénico
+T100	DISEASE 4231 4252	edema agudo de pulmón
+T101	DISEASE 4583 4608	disfunción de VI moderada
+T102	DISEASE 4813 4833	disfunción VI severa
+T103	DISEASE 4872 4906	aneurisma discinético inferoapical
+T104	DISEASE 4921 4941	congestión sistémica
+T105	DISEASE 4945 4958	valvulopatías
+T107	DISEASE 5561 5615	Síndrome coronario agudo con elevación del segmento ST
+T108	DISEASE 5617 5624	SCACEST
+T50	DISEASE 2421 2434	Cx: disección
+T109	DISEASE 3824 3826	IT
+T111	DISEASE 4378 4381	TVS
+T115	DISEASE 5651 5702	Disección coronaria espontánea de TCI hacia DA y CX
+T116	DISEASE 5780 5800	Disfunción VI severa
+T138	DISEASE 4736 4754	eventos arrítmicos
+T119	DISEASE 2181 2301	disección espontánea a nivel medio-distal que involucra al ostium de descendente anterior (DA) y segmento proximal de CX
+T31	DISEASE 3743 3767	VM: velos finos, reflujo
+#1	AnnotatorNotes T111	Taquicardia ventricular sostenida

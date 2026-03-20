@@ -1,0 +1,27 @@
+T1	PROCEDURE 528 548	physical examination
+T2	PROCEDURE 667 689	Pulmonary auscultation
+T20	PROCEDURE 728 748	cardiac auscultation
+T3	PROCEDURE 1095 1124	Baseline arterial blood gases
+T18	PROCEDURE 1187 1199	biochemistry
+T4	PROCEDURE 1228 1239	Chest X-ray
+T32	PROCEDURE 1334 1362	transthoracic echocardiogram
+T6	PROCEDURE 1596 1631	non-invasive mechanical ventilation
+T8	PROCEDURE 1639 1653	echocardiogram
+T35	PROCEDURE 1686 1704	pericardiocentesis
+T16	PROCEDURE 2151 2158	Mantoux
+T19	PROCEDURE 2174 2189	thyroid profile
+T9	PROCEDURE 2202 2227	Pericardial fluid culture
+T10	PROCEDURE 2256 2270	blood cultures
+T43	PROCEDURE 2272 2317	Pathological anatomy of the pericardial fluid
+T44	PROCEDURE 2543 2665	serologies for human immunodeficiency virus, Mycoplasma pneumoniae, cytomegalovirus, Epstein Barr and Chlamydia pneumoniae
+T45	PROCEDURE 2736 2744	chest CT
+T11	PROCEDURE 3255 3267	Bronchoscopy
+T12	PROCEDURE 3440 3462	Bronchoalveolar lavage
+T17	PROCEDURE 3589 3597	puncture
+T13	PROCEDURE 3622 3643	transbronchial biopsy
+T51	PROCEDURE 3668 3702	pathological anatomy of the lavage
+T5	PROCEDURE 4380 4391	Chest X-ray
+T56	PROCEDURE 4416 4424	chest CT
+T14	PROCEDURE 4554 4565	lung biopsy
+T15	PROCEDURE 4875 4894	Histochemical tests
+T58	PROCEDURE 4977 4989	chemotherapy

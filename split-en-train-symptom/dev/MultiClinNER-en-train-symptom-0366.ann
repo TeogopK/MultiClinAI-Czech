@@ -1,0 +1,23 @@
+T12	SYMPTOM 272 277	cough
+T1	SYMPTOM 283 305	purulent expectoration
+T2	SYMPTOM 317 337	respiratory distress
+T19	SYMPTOM 342 374	worsening level of consciousness
+T3	SYMPTOM 406 411	fever
+T5	SYMPTOM 421 452	central and peripheral cyanosis
+T6	SYMPTOM 454 487	increased jugular venous pressure
+T7	SYMPTOM 489 500	tachycardia
+T16	SYMPTOM 513 538	prolonged expiratory time
+T8	SYMPTOM 540 548	wheezing
+T9	SYMPTOM 553 591	expiratory rhonchi in both lung fields
+T10	SYMPTOM 639 659	painful hepatomegaly
+T28	SYMPTOM 664 683	oedema in both legs
+T17	SYMPTOM 704 745	increased density in the right lower lobe
+T18	SYMPTOM 1348 1377	usual respiratory tract flora
+T15	SYMPTOM 1605 1616	hypotension
+T11	SYMPTOM 1618 1626	dyspnoea
+T4	SYMPTOM 1631 1636	fever
+T20	SYMPTOM 1714 1718	died
+T14	SYMPTOM 1771 1776	death
+T34	SYMPTOM 1789 1884	blood culture and sputum culture were observed, both in specific medium for mycobacteria (MGIT)
+T21	SYMPTOM 1938 1962	Ziehl's positive bacilli
+T13	SYMPTOM 2358 2383	Nocardia otitidiscaviarum

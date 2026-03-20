@@ -1,0 +1,14 @@
+T1	DISEASE 1497 1511	Fenilcetonuria
+T5	DISEASE 98 122	Enfermedades Metabólicas
+T6	DISEASE 175 196	enfermedad metabólica
+T8	DISEASE 1678 1681	PKU
+T10	DISEASE 256 268	microcefalia
+T11	DISEASE 271 292	retraso mental severo
+T12	DISEASE 1158 1161	PKU
+T13	DISEASE 346 367	malformación cardiaca
+T14	DISEASE 1220 1264	trastornos en el metabolismo de las pterinas
+T17	DISEASE 2609 2612	PKU
+T18	DISEASE 725 753	retraso mental leve-moderado
+#2	AnnotatorNotes T8	   PKU: Phenylketonuria
+#1	AnnotatorNotes T12	   PKU: Phenylketonuria
+#3	AnnotatorNotes T17	   PKU: Phenylketonuria

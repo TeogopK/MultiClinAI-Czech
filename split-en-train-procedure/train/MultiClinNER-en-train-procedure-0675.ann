@@ -1,0 +1,14 @@
+T11	PROCEDURE 238 260	undergone hysterectomy
+T1	PROCEDURE 266 284	double adnexectomy
+T2	PROCEDURE 537 557	Physical examination
+T3	PROCEDURE 576 596	cardiac auscultation
+T4	PROCEDURE 632 654	pulmonary auscultation
+T5	PROCEDURE 732 742	Spirometry
+T6	PROCEDURE 835 854	bronchodilator test
+T21	PROCEDURE 856 874	Lung gas diffusion
+T7	PROCEDURE 932 943	Chest X-ray
+T23	PROCEDURE 999 1006	CT scan
+T24	PROCEDURE 1100 1111	Blood tests
+T8	PROCEDURE 1153 1170	Fibrobronchoscopy
+T9	PROCEDURE 1238 1251	AAT phenotype
+T10	PROCEDURE 1472 1485	lung function

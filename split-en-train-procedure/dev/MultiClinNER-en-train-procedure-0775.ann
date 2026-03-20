@@ -1,0 +1,37 @@
+T47	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T45	PROCEDURE 191 209	oral antidiabetics
+T2	PROCEDURE 292 337	three-vessel lesion surgically revascularised
+T46	PROCEDURE 350 364	endarterectomy
+T3	PROCEDURE 369 426	resection of endothelial membrane of left coronary ostium
+T4	PROCEDURE 431 483	saphenous bypass to anterior descending artery (LAD)
+T8	PROCEDURE 671 833	multiple percutaneous revascularisations: left main coronary artery (LMCA), first marginal branch (MB), circumflex bifurcation (Cx)-first MB, right coronary arter
+T63	PROCEDURE 1256 1329	complex chronic ischaemic heart disease, with multiple revascularisations
+T48	PROCEDURE 1895 1915	Physical examination
+T59	PROCEDURE 1916 1927	Vital signs
+T49	PROCEDURE 2100 2120	Cardiac auscultation
+T50	PROCEDURE 2144 2166	Pulmonary auscultation
+T61	PROCEDURE 2290 2299	palpation
+T9	PROCEDURE 2371 2387	Laboratory tests
+T10	PROCEDURE 2662 2670	Analysis
+T51	PROCEDURE 2754 2771	Electrocardiogram
+T52	PROCEDURE 2773 2776	ECG
+T53	PROCEDURE 2919 2922	ECG
+T54	PROCEDURE 3004 3024	Coronary angiography
+T13	PROCEDURE 3191 3260	Cx of good calibre and development with a stent in the middle segment
+T64	PROCEDURE 3307 3341	stent in the first marginal branch
+T15	PROCEDURE 3451 3508	evaluated with pressure guide and intracoronary adenosine
+T65	PROCEDURE 3466 3480	pressure guide
+T67	PROCEDURE 3485 3508	intracoronary adenosine
+T16	PROCEDURE 3644 3701	evaluated with pressure guide and intracoronary adenosine
+T66	PROCEDURE 3659 3673	pressure guide
+T68	PROCEDURE 3678 3701	intracoronary adenosine
+T56	PROCEDURE 3833 3847	Echocardiogram
+T62	PROCEDURE 4228 4251	anti-anginal medication
+T55	PROCEDURE 4279 4299	coronary angiography
+T19	PROCEDURE 4309 4439	significant lesion was found in the first MVO (assessed by pressure guidewire), which was revascularised with a drug-eluting stent
+T20	PROCEDURE 4356 4386	assessed by pressure guidewire
+T60	PROCEDURE 4812 4824	GLP1 agonist
+T57	PROCEDURE 5043 5065	cardiac rehabilitation
+T58	PROCEDURE 5279 5401	OM assessed by pressure guidewire (FFR 0.77) revascularised percutaneously by means of a pharmacoactive destenting implant
+T22	PROCEDURE 5294 5312	pressure guidewire
+T32	PROCEDURE 5469 5540	Complex chronic ischaemic heart disease, revascularised in a mixed form

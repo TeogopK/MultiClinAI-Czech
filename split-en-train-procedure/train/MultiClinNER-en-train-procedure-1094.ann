@@ -1,0 +1,80 @@
+T122	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T2	PROCEDURE 360 409	placement of St. Jude No 25 mechanical prosthesis
+T172	PROCEDURE 665 687	Surgical interventions
+T5	PROCEDURE 689 701	appendectomy
+T124	PROCEDURE 714 731	caesarean section
+T160	PROCEDURE 733 757	Mitral valve replacement
+T125	PROCEDURE 2032 2046	echocardiogram
+T126	PROCEDURE 2200 2230	transesophageal echocardiogram
+T7	PROCEDURE 2232 2235	TEE
+T123	PROCEDURE 2679 2699	Physical examination
+T9	PROCEDURE 2789 2793	Neck
+T129	PROCEDURE 2821 2841	Cardiac auscultation
+T130	PROCEDURE 2879 2901	Pulmonary auscultation
+T173	PROCEDURE 2948 2955	Abdomen
+T11	PROCEDURE 3066 3082	laboratory tests
+T162	PROCEDURE 3297 3307	Urinalysis
+T131	PROCEDURE 3372 3375	ECG
+T132	PROCEDURE 3520 3548	Postero-anterior chest X-ray
+T133	PROCEDURE 3554 3564	sternotomy
+T135	PROCEDURE 3940 3943	PCR
+T137	PROCEDURE 4168 4224	Serology and PCR of nasopharyngeal aspirate for COVID 19
+T138	PROCEDURE 4235 4245	Cranial CT
+T139	PROCEDURE 4290 4335	Magnetic resonance imaging (MRI) of the brain
+T163	PROCEDURE 4318 4321	MRI
+T18	PROCEDURE 5452 5468	Laboratory tests
+T140	PROCEDURE 5545 5566	acute phase reactants
+T141	PROCEDURE 5568 5598	Renal, liver and lipid profile
+T127	PROCEDURE 5636 5650	echocardiogram
+T19	PROCEDURE 5652 5655	TTE
+T128	PROCEDURE 6413 6443	Transesophageal echocardiogram
+T21	PROCEDURE 6445 6448	TEE
+T22	PROCEDURE 6530 6533	TEE
+T142	PROCEDURE 7561 7575	Blood cultures
+T23	PROCEDURE 7810 7813	TEE
+T143	PROCEDURE 8787 8801	Blood cultures
+T146	PROCEDURE 8897 8908	antibiogram
+T165	PROCEDURE 8977 8997	median re-sternotomy
+T166	PROCEDURE 8999 9040	Dissection of pleuropericardial adhesions
+T167	PROCEDURE 9066 9131	Ascending aorta, single cavoatrial and coronary sinus cannulation
+T168	PROCEDURE 9133 9176	Establishment of extracorporeal circulation
+T26	PROCEDURE 9178 9181	ECC
+T169	PROCEDURE 9184 9199	Aortic clamping
+T147	PROCEDURE 9201 9215	Left atriotomy
+T27	PROCEDURE 9217 9247	Administration of cardioplegia
+T28	PROCEDURE 9249 9285	Explanation of the mitral prosthesis
+T29	PROCEDURE 9287 9333	implantation of a 25 mm Epic mitral prosthesis
+T149	PROCEDURE 9350 9359	atriotomy
+T30	PROCEDURE 9361 9414	Administration of enriched warm haematic cardioplegia
+T170	PROCEDURE 9419 9436	aortic declapping
+T73	PROCEDURE 9473 9495	Warmed to normothermia
+T86	PROCEDURE 9500 9521	disconnected from CPB
+T171	PROCEDURE 9523 9555	Removal of cannulae, haemostasis
+T87	PROCEDURE 9639 9642	TEE
+T88	PROCEDURE 9670 9718	Drains: anterior mediastinum and pericardial sac
+T90	PROCEDURE 9759 9836	right lung was damaged during dissection, the leak was repaired with tachosil
+T151	PROCEDURE 9789 9799	dissection
+T91	PROCEDURE 9857 9979	Anaesthetic part: induction with etomidate, rocuronium, fentanyl and maintenance with sevoflurane, propofol and rocuronium
+T174	PROCEDURE 10006 10020	Burp manoeuvre
+T152	PROCEDURE 10022 10044	Antibiotic prophylaxis
+T153	PROCEDURE 10072 10124	vasoactive support with noradrenaline and dobutamine
+T92	PROCEDURE 10139 10142	CPB
+T93	PROCEDURE 10203 10231	continuous insulin perfusion
+T154	PROCEDURE 10294 10311	thromboelastogram
+T94	PROCEDURE 10316 10366	total transfusion of 4 red blood cell concentrates
+T95	PROCEDURE 10370 10387	pool of platelets
+T175	PROCEDURE 10398 10406	octaplex
+T155	PROCEDURE 10504 10513	extubated
+T96	PROCEDURE 10515 10541	with clevidipine perfusion
+T97	PROCEDURE 10606 10629	Prosthesis microbiology
+T98	PROCEDURE 10651 10654	TTE
+T157	PROCEDURE 11276 11285	brain MRI
+T144	PROCEDURE 11475 11489	blood cultures
+T158	PROCEDURE 11491 11521	empirical antibiotic treatment
+T100	PROCEDURE 11566 11601	anticoagulation with sodium heparin
+T101	PROCEDURE 11610 11635	echocardiographic control
+T145	PROCEDURE 11997 12011	blood cultures
+T159	PROCEDURE 12195 12217	cardiac reintervention
+T161	PROCEDURE 12230 12272	Mitral valve replacement with a 25 mm Epic
+T156	PROCEDURE 12362 12371	extubated
+T104	PROCEDURE 13000 13075	Replacement of the prosthetic valve with a 25 mm Epic biological prosthesis

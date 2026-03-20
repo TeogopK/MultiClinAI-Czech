@@ -1,0 +1,58 @@
+T57	DISEASE 8633 8667	dilatación de venas suprahepáticas
+T61	DISEASE 143 146	HTA
+T62	DISEASE 155 172	Diabetes mellitus
+T63	DISEASE 272 280	ampuloma
+T64	DISEASE 301 334	pancreatitis crónica esclerosante
+T65	DISEASE 424 484	Enfermedad de Castleman multicéntrica, variante plasmocítica
+T66	DISEASE 672 690	varices esofágicas
+T67	DISEASE 704 720	varices fúndicas
+T68	DISEASE 765 782	gastritis crónica
+T69	DISEASE 1132 1177	trombosis venosa profunda de miembro inferior
+T70	DISEASE 2396 2442	derrame pleural en mitad inferior de hemitorax
+T71	DISEASE 2645 2648	TVP
+T72	DISEASE 4028 4053	derrame pleural bilateral
+T73	DISEASE 4335 4368	fibrilación auricular paroxística
+T74	DISEASE 5119 5183	Válvula mitral con velos finos sin estenosis y con insuficiencia
+T75	DISEASE 5277 5302	insuficiencia tricuspídea
+T76	DISEASE 5426 5444	derrame pericardio
+T77	DISEASE 5446 5471	Derrame pleural bilateral
+T78	DISEASE 5571 5618	adenopatía localizada en cadena mamaria interna
+T79	DISEASE 6009 6040	adenopatía en región obturatriz
+T80	DISEASE 6289 6347	lesión descrita previamente en mesenterio, a nivel pélvico
+T81	DISEASE 6860 6925	adenopatías de metabolismo detectable supra e infradiafragmáticas
+T82	DISEASE 7126 7134	isquemia
+T83	DISEASE 8263 8286	isquemia leve- moderada
+T84	DISEASE 8354 8388	disfunción transitoria ventricular
+T85	DISEASE 8941 8949	litiasis
+T86	DISEASE 9169 9191	insuficiencia cardiaca
+T87	DISEASE 9439 9459	insuficiencia mitral
+T88	DISEASE 9537 9561	macroagiopatía coronaria
+T89	DISEASE 9579 9601	disfunción ventricular
+T90	DISEASE 9675 9697	lesiones infiltrativas
+T91	DISEASE 9723 9746	enfermedad de Castleman
+T92	DISEASE 9828 9895	insuficiencia cardiaca congestiva con disfunción sistólica moderada
+T93	DISEASE 9898 9919	disfunción diastólica
+T94	DISEASE 9958 9991	fibrilación auricular paroxística
+T95	DISEASE 10098 10135	Enfermedad de Castleman multicéntrica
+T96	DISEASE 10137 10183	Diabetes mellitus secundaria a pancreatectomía
+T97	DISEASE 4129 4155	bloqueo AV de primer grado
+T98	DISEASE 151 153	DL
+T99	DISEASE 4190 4223	Extrasistolia ventricular aislada
+T100	DISEASE 108 131	alergias a medicamentos
+T101	DISEASE 6565 6590	derrame pleural bilateral
+T102	DISEASE 4158 4188	hemibloqueo anterior izquierdo
+T103	DISEASE 1811 1830	congestión hepática
+T104	DISEASE 2561 2576	visceromegalias
+T105	DISEASE 3463 3496	hipergammaglobulinemia policlonal
+T106	DISEASE 4565 4604	ventrículo izquierdo levemente dilatado
+T107	DISEASE 4955 4994	Aurícula izquierda ligeramente dilatada
+T108	DISEASE 9308 9393	ventrículo izquierdo levemente dilatado con función sistólica moderadamente deprimida
+T43	DISEASE 4999 5052	raíz aórtica y aorta ascendente ligeramente dilatadas
+T179	DISEASE 8884 8914	dilatación de la vía excretora
+T46	DISEASE 8669 8715	Ausencia de vesícula biliar y bazo por cirugía
+T56	DISEASE 6152 6170	lesiones nodulares
+T60	DISEASE 7809 7855	incremento del tamaño del ventrículo izquierdo
+#1	AnnotatorNotes T61	 HTA: hipertensión arterial
+#2	AnnotatorNotes T71	 TVP: trombosis venosa profunda
+#3	AnnotatorNotes T97	 AV: auriculo-ventricular
+#4	AnnotatorNotes T98	 DL: dislipemia

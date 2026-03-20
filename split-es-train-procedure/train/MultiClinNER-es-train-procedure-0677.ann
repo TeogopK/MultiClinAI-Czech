@@ -1,0 +1,24 @@
+T1	PROCEDURE 1085 1110	radiografía (Rx) de tórax
+T2	PROCEDURE 897 915	exploración física
+T3	PROCEDURE 1734 1746	broncoscopia
+T4	PROCEDURE 2335 2400	biopsia del lóbulo pulmonar superior derecho mediante toracotomía
+T5	PROCEDURE 101 121	radiológica de tórax
+T6	PROCEDURE 1042 1069	auscultación cardiopulmonar
+T7	PROCEDURE 1245 1263	análisis de sangre
+T8	PROCEDURE 2690 2701	Rx de tórax
+T9	PROCEDURE 1818 1897	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico
+T10	PROCEDURE 1818 1911	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia
+T11	PROCEDURE 1975 2063	broncoaspirados de secreciones (BAS) para hongos, Pneumocystis, cultivo y bacilo de Koch
+T12	PROCEDURE 1361 1392	pruebas de función respiratoria
+T13	PROCEDURE 1424 1431	Mantoux
+T14	PROCEDURE 1442 1480	tomografía computarizada (TC) de tórax
+T15	PROCEDURE 1468 1470	TC
+T16	PROCEDURE 2240 2258	inmunohistoquímica
+T17	PROCEDURE 602 619	broncodilatadores
+T18	PROCEDURE 2405 2424	anatomía patológica
+T19	PROCEDURE 1339 1349	serologías
+T20	PROCEDURE 1818 1945	BAL en el lóbulo superior derecho, que fueron remitidos para estudio citológico, baciloscopia y de subpoblaciones linfocitarias
+T21	PROCEDURE 1394 1397	PFR
+T22	PROCEDURE 2115 2151	anatomopatológico del broncoaspirado
+T23	PROCEDURE 1323 1336	autoinmunidad
+T24	PROCEDURE 2007 2010	BAS

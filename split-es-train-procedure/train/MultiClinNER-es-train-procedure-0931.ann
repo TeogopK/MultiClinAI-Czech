@@ -1,0 +1,23 @@
+T37	PROCEDURE 605 623	electrocardiograma
+T38	PROCEDURE 625 628	ECG
+T39	PROCEDURE 801 815	pulsioximetría
+T40	PROCEDURE 878 898	ventilación pulmonar
+T41	PROCEDURE 1092 1095	ECG
+T42	PROCEDURE 1616 1638	Ecocardiograma-doppler
+T43	PROCEDURE 2543 2570	Coronariografia diagnóstica
+T44	PROCEDURE 2573 2599	intervencionismo coronario
+T45	PROCEDURE 2666 2679	PCI con balón
+T46	PROCEDURE 2682 2720	implantación de 2 stent farmacoactivos
+T47	PROCEDURE 2733 2758	exploración neuromuscular
+T49	PROCEDURE 3867 3877	ergometría
+T50	PROCEDURE 4480 4526	Angioplastia coronaria transluminal percutánea
+T51	PROCEDURE 4529 4570	implantación de dos stents farmacoactivos
+T56	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T57	PROCEDURE 2068 2081	doppler color
+T58	PROCEDURE 1322 1351	marcadores de daño miocárdico
+T59	PROCEDURE 225 246	tratamiento dietético
+T60	PROCEDURE 3109 3119	Bioquímica
+T68	PROCEDURE 3098 3107	analítica
+T77	PROCEDURE 973 985	se auscultan
+T33	PROCEDURE 2199 2215	Cardioresonancia
+T65	PROCEDURE 3314 3378	determinaciones de glucemia basal en ayunas concordantes y HbA1C

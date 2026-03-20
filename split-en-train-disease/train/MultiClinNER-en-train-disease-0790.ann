@@ -1,0 +1,61 @@
+T43	DISEASE 63 99	complete atrioventricular (AV) block
+T44	DISEASE 147 160	heart failure
+T48	DISEASE 165 188	constitutional syndrome
+T50	DISEASE 279 291	hypertension
+T1	DISEASE 293 295	HT
+T51	DISEASE 298 311	dyslipidaemia
+T52	DISEASE 316 340	type 2 diabetes mellitus
+T53	DISEASE 342 345	DM2
+T54	DISEASE 383 395	toxic habits
+T2	DISEASE 457 469	complete AVB
+T3	DISEASE 559 663	severe ventricular dysfunction was observed with marked asynchrony due to ventricular stimulation by MCP
+T4	DISEASE 692 702	arrhythmia
+T55	DISEASE 803 836	Obstructive sleep apnoea syndrome
+T56	DISEASE 902 909	Anaemia
+T57	DISEASE 2805 2829	left bundle branch block
+T58	DISEASE 2869 2894	Ventricular extrasystoles
+T59	DISEASE 3018 3034	pleural effusion
+T5	DISEASE 4441 4484	axillary, mediastinal or hilar adenopathies
+T60	DISEASE 4567 4583	pleural effusion
+T61	DISEASE 4681 4702	chronic liver disease
+T62	DISEASE 4744 4772	Bilateral simple renal cysts
+T6	DISEASE 4774 4803	Lithiasis in the right kidney
+T7	DISEASE 4856 4911	Splenomegaly of 16.6 cm with several foci of infarction
+T8	DISEASE 4923 4963	retroperitoneal or mesenteric adenopathy
+T9	DISEASE 4996 5023	Diverticulosis of the sigma
+T63	DISEASE 5107 5157	left ventricle with moderate eccentric hypertrophy
+T91	DISEASE 5381 5403	aortic root dilatation
+T10	DISEASE 5431 5502	endocarditis over native pulmonary valve: large pedunculated vegetation
+T11	DISEASE 5786 5814	endocarditis on mitral valve
+T12	DISEASE 5820 5863	vegetation image on anterior mitral leaflet
+T13	DISEASE 5874 6002	Moderate mitral insufficiency (ORE by PISA 0.3 cm2) due to slight eversion of the leaflet, with rupture of the chordae tendineae
+T86	DISEASE 6204 6226	Biauricular dilatation
+T14	DISEASE 6324 6326	TR
+T87	DISEASE 6381 6393	moderate PHT
+T15	DISEASE 6482 6530	Anterior descending description: severe stenosis
+T45	DISEASE 6836 6849	heart failure
+T49	DISEASE 6866 6889	constitutional syndrome
+T64	DISEASE 6953 6974	concomitant neoplasia
+T65	DISEASE 7015 7033	neoplastic disease
+T67	DISEASE 7044 7056	splenomegaly
+T68	DISEASE 7070 7088	splenic infarction
+T70	DISEASE 7190 7213	ventricular dysfunction
+T72	DISEASE 7326 7355	moderate mitral insufficiency
+T76	DISEASE 7401 7413	endocarditis
+T16	DISEASE 7854 7869	septic embolism
+T79	DISEASE 8040 8062	acute pulmonary oedema
+T80	DISEASE 8169 8181	anaemisation
+T84	DISEASE 8294 8306	thrombopenia
+T42	DISEASE 8679 8697	maculopapular rash
+T89	DISEASE 8802 8804	it
+T90	DISEASE 8896 8898	it
+T17	DISEASE 9156 9212	severe lesion in the proximal anterior descending artery
+T46	DISEASE 10470 10483	heart failure
+T18	DISEASE 10493 10503	arrhythmia
+T81	DISEASE 10521 10571	Endocarditis on native pulmonary and mitral valves
+T19	DISEASE 10578 10685	moderate mitral insufficiency with eversion of the anterior leaflet due to rupture of the chordae tendineae
+T47	DISEASE 10687 10700	Heart failure
+T82	DISEASE 10796 10848	Splenic infarcts secondary to infective endocarditis
+T83	DISEASE 10850 10865	Agranulocytosis
+T85	DISEASE 10870 10882	thrombopenia
+T20	DISEASE 10908 10936	Toxicoderma due to meropenem

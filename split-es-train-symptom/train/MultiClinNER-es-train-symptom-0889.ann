@@ -1,0 +1,43 @@
+T1	SYMPTOM 71 77	disnea
+T2	SYMPTOM 80 94	dolor torácico
+T4	SYMPTOM 588 619	soplo sistólico en foco aórtico
+T5	SYMPTOM 624 661	reducción de componente aórtico de 2R
+T6	SYMPTOM 706 717	crepitantes
+T7	SYMPTOM 757 796	glucosa, función renal e iones normales
+T8	SYMPTOM 798 827	CK y TnT US seriadas normales
+T9	SYMPTOM 829 851	Perfil hepático normal
+T10	SYMPTOM 866 882	Hemograma normal
+T11	SYMPTOM 891 904	ritmo Sinusal
+T12	SYMPTOM 929 941	QRS estrecho
+T13	SYMPTOM 943 982	escaso crecimiento de R en precordiales
+T14	SYMPTOM 1023 1056	silueta cardiaca de tamaño normal
+T17	SYMPTOM 1225 1240	FEVI preservada
+T18	SYMPTOM 1242 1252	VD: normal
+T19	SYMPTOM 2697 2731	dolor torácico de perfil isquémico
+T20	SYMPTOM 2991 2993	RS
+T21	SYMPTOM 3017 3032	ECG sin cambios
+T22	SYMPTOM 4401 4427	inestabilidad hemodinámica
+T24	SYMPTOM 4859 4894	alteraciones septales posquirúrgica
+T25	SYMPTOM 4917 4937	engrosamiento septal
+T26	SYMPTOM 4953 4964	hipocinesia
+T27	SYMPTOM 4967 5003	pérdida de engrosamiento inferobasal
+T28	SYMPTOM 5121 5142	válvula mitral normal
+T29	SYMPTOM 5144 5171	patrón diastólico invertido
+T125	SYMPTOM 4630 4642	leucocitosis
+T127	SYMPTOM 4546 4570	punto de sangrado activo
+T128	SYMPTOM 4584 4627	secreciones purulentas por tubo orotraqueal
+T3	SYMPTOM 226 235	Epixtasis
+T23	SYMPTOM 4940 4951	hipocinesia
+T140	SYMPTOM 1182 1223	defectos de la contractilidad segmentaria
+T143	SYMPTOM 1652 1668	ACX sin lesiones
+T148	SYMPTOM 5106 5119	regurgitación
+T120	SYMPTOM 1527 1543	TCI sin lesiones
+T122	SYMPTOM 690 701	4R presente
+T123	SYMPTOM 915 927	PR constante
+T124	SYMPTOM 984 997	Eje izquierdo
+T126	SYMPTOM 1058 1094	Parénquimas pulmonares sin hallazgos
+T130	SYMPTOM 1126 1143	AI: tamaño normal
+T133	SYMPTOM 1254 1272	VM y VTr: normales
+T134	SYMPTOM 3034 3078	Enzimas de daño miocárdico seriadas normales
+T136	SYMPTOM 4199 4218	DA de buena calidad
+T144	SYMPTOM 4683 4722	Derrame pleural izquierdo (serohemático

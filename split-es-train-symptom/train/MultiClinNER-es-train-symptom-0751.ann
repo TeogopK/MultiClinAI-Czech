@@ -1,0 +1,27 @@
+T1	SYMPTOM 430 436	disnea
+T2	SYMPTOM 626 639	ritmo sinusal
+T3	SYMPTOM 697 719	deterioro hemodinámico
+T5	SYMPTOM 747 761	mala perfusión
+T6	SYMPTOM 763 781	sudoración profusa
+T7	SYMPTOM 2045 2063	mal estado general
+T8	SYMPTOM 2065 2081	Frialdad cutánea
+T9	SYMPTOM 2083 2101	Sudoración profusa
+T10	SYMPTOM 2103 2124	Ingurgitación yugular
+T11	SYMPTOM 2131 2147	tonos arrítmicos
+T12	SYMPTOM 2159 2181	Soplo sisto-diastólico
+T13	SYMPTOM 2220 2223	MVC
+T14	SYMPTOM 2228 2286	crepitantes hasta campos medios en ambos campos pulmonares
+T15	SYMPTOM 2411 2434	Hemocultivos: negativos
+T23	SYMPTOM 4781 4801	Ao ascendente normal
+T121	SYMPTOM 3189 3215	líquido libre perihepático
+T140	SYMPTOM 2963 2981	imágenes nodulares
+T18	SYMPTOM 2716 2753	defectos de repleción intravasculares
+T19	SYMPTOM 2894 2957	Parénquima pulmonar dentro de la normalidad de manera bilateral
+T20	SYMPTOM 2984 3030	alteraciones de la arquitectura parenquimatosa
+T21	SYMPTOM 2858 2892	anomalías reseñables en mediastino
+T22	SYMPTOM 3046 3089	reflujo de contraste a venas suprahepáticas
+T76	SYMPTOM 3463 3521	función sistólica global en límites bajos de la normalidad
+T115	SYMPTOM 3606 3676	VD no dilatado ni hipertrófico con función sistólica global conservada
+T116	SYMPTOM 3691 3775	Válvula mitral con velos no engrosados, sin alteraciones morfológicas significativas
+T17	SYMPTOM 4050 4107	velo coronariano derecho, que presenta una imagen nodular
+T117	SYMPTOM 5513 5538	Orejuela libre de trombos

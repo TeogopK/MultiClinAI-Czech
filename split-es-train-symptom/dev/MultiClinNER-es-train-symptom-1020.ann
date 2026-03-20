@@ -1,0 +1,78 @@
+T1	SYMPTOM 325 354	dolor centrotorácico opresivo
+T2	SYMPTOM 383 401	cortejo vegetativo
+T3	SYMPTOM 512 520	ortopnea
+T4	SYMPTOM 522 549	disnea paroxística nocturna
+T5	SYMPTOM 551 564	palpitaciones
+T6	SYMPTOM 566 591	disnea de reposo/esfuerzo
+T7	SYMPTOM 593 610	edemas maleolares
+T8	SYMPTOM 896 906	normotensa
+T9	SYMPTOM 999 1006	Afebril
+T10	SYMPTOM 1008 1018	Consciente
+T11	SYMPTOM 1021 1030	orientada
+T12	SYMPTOM 1032 1051	buen estado general
+T13	SYMPTOM 1053 1071	eupneica en reposo
+T14	SYMPTOM 1073 1087	normohidratada
+T15	SYMPTOM 1089 1103	normocoloreada
+T16	SYMPTOM 1106 1121	normoperfundida
+T17	SYMPTOM 1127 1173	pulsos carotídeos latían rítmicos y simétricos
+T18	SYMPTOM 1190 1211	ingurgitación yugular
+T19	SYMPTOM 1216 1255	auscultación cardiopulmonar era rítmica
+T20	SYMPTOM 1262 1268	soplos
+T21	SYMPTOM 1274 1340	estertores subcrepitantes de campos pulmonares medios e inferiores
+T22	SYMPTOM 1377 1454	abdomen blando y depresible, sin dolor a la palpación superficial ni profunda
+T24	SYMPTOM 1473 1478	masas
+T25	SYMPTOM 1482 1490	megalias
+T26	SYMPTOM 1492 1515	timpanismo generalizado
+T27	SYMPTOM 1520 1531	peritonismo
+T28	SYMPTOM 1534 1562	ruidos hidroaéreos positivos
+T29	SYMPTOM 1605 1622	edemas maleolares
+T30	SYMPTOM 1624 1683	pulsos pedios y tibiales posteriores presentes y simétricos
+T31	SYMPTOM 1767 1779	rash cutáneo
+T32	SYMPTOM 2077 2097	función renal normal
+T33	SYMPTOM 2099 2113	iones normales
+T34	SYMPTOM 2116 2134	coagulación normal
+T35	SYMPTOM 2185 2217	índice cardiotorácico conservado
+T37	SYMPTOM 2363 2376	ritmo sinusal
+T38	SYMPTOM 2400 2412	QRS estrecho
+T39	SYMPTOM 2853 2902	ventrículo izquierdo no dilatado ni hipertrofiado
+T40	SYMPTOM 2908 2923	acinesia apical
+T41	SYMPTOM 2925 3004	patrón diastólico de alteración de la relajación y función sistólica conservada
+T42	SYMPTOM 3037 3082	Aurícula derecha e izquierda de tamaño normal
+T43	SYMPTOM 3084 3161	Ventrículo derecho no dilatado ni hipertrofiado, con función sistólica normal
+T45	SYMPTOM 3178 3213	Válvula mitral de morfología normal
+T46	SYMPTOM 3498 3540	Válvula tricúspide morfológicamente normal
+T47	SYMPTOM 4498 4544	hipoquinesia anterior-apical e inferior-apical
+T48	SYMPTOM 4854 4903	ventrículo izquierdo no dilatado ni hipertrofiado
+T49	SYMPTOM 4909 4929	acinesia septoapical
+T50	SYMPTOM 4931 4979	patrón diastólico de alteración de la relajación
+T51	SYMPTOM 5043 5088	Aurícula derecha e izquierda de tamaño normal
+T52	SYMPTOM 5090 5137	Ventrículo derecho no dilatado ni hipertrofiado
+T53	SYMPTOM 5143 5167	función sistólica normal
+T54	SYMPTOM 5185 5220	Válvula mitral de morfología normal
+T55	SYMPTOM 5481 5523	Válvula tricúspide morfológicamente normal
+T57	SYMPTOM 5899 5910	hipotensión
+T58	SYMPTOM 5913 5920	afebril
+T60	SYMPTOM 5989 6002	palpitaciones
+T61	SYMPTOM 6006 6012	disnea
+T62	SYMPTOM 6983 7028	alteraciones de la contractilidad segmentaria
+T63	SYMPTOM 7273 7288	FEVI conservada
+T125	SYMPTOM 613 635	recorte de la diuresis
+T23	SYMPTOM 2433 2490	supradesnivelación del segmento ST en II, III, AVF, V3-V6
+T36	SYMPTOM 3741 3783	Pericardio de grosor y refringencia normal
+T44	SYMPTOM 3800 3830	vena cava inferior no dilatada
+T126	SYMPTOM 3895 3924	aquinesia anteroseptal apical
+T127	SYMPTOM 5657 5699	Pericardio de grosor y refringencia normal
+T59	SYMPTOM 6464 6493	aquinesia anteroseptal apical
+T128	SYMPTOM 7094 7119	elevación del segmento ST
+T129	SYMPTOM 7256 7271	Acinesia apical
+T136	SYMPTOM 6963 6975	asintomática
+T137	SYMPTOM 2247 2291	aumento de la trama broncovascular bilateral
+T140	SYMPTOM 5830 5855	cardiológicamente estable
+T146	SYMPTOM 2519 2537	dominancia derecha
+T148	SYMPTOM 6022 6056	estabilidad clínica y hemodinámica
+T154	SYMPTOM 2294 2332	infiltrados intersticiales bilaterales
+T166	SYMPTOM 2219 2242	redistribución vascular
+T102	SYMPTOM 2539 2607	Arteria coronaria derecha de buen calibre y desarrollo, sin lesiones
+T130	SYMPTOM 2756 2821	Circunfleja de calibre intermedio y buen desarrollo, sin lesiones
+T133	SYMPTOM 4982 5010	función sistólica conservada
+T138	SYMPTOM 5716 5746	vena cava inferior no dilatada

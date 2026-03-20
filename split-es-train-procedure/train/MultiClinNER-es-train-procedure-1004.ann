@@ -1,0 +1,40 @@
+T93	PROCEDURE 272 295	quimioterapia adyuvante
+T94	PROCEDURE 394 406	radioterapia
+T95	PROCEDURE 409 422	braquiterapia
+T96	PROCEDURE 620 653	histerectomía y doble anexectomía
+T97	PROCEDURE 663 688	resección pólipo colónico
+T98	PROCEDURE 725 743	septoplastia nasal
+T99	PROCEDURE 1199 1217	EXPLORACIÓN FÍSICA
+T100	PROCEDURE 1532 1553	Auscultación cardiaca
+T101	PROCEDURE 1608 1629	Auscultación pulmonar
+T102	PROCEDURE 1858 1876	Electrocardiograma
+T103	PROCEDURE 1878 1881	ECG
+T104	PROCEDURE 2069 2089	Radiografía de tórax
+T105	PROCEDURE 2617 2632	Coronariografía
+T106	PROCEDURE 2667 2683	Ventriculografía
+T107	PROCEDURE 2787 2816	Ecocardiografía transtorácica
+T108	PROCEDURE 3391 3420	Resonancia magnética cardiaca
+T109	PROCEDURE 3422 3425	RMC
+T110	PROCEDURE 4498 4525	Frotis de sangre periférica
+T111	PROCEDURE 4946 4967	Estudios de parásitos
+T112	PROCEDURE 4979 4988	Serología
+T113	PROCEDURE 5041 5064	Aspirado de médula ósea
+T114	PROCEDURE 5264 5286	Biopsia de médula ósea
+T115	PROCEDURE 5379 5382	ECG
+T116	PROCEDURE 5540 5592	determinación en sangre de troponina T ultrasensible
+T117	PROCEDURE 5824 5839	coronariografía
+T118	PROCEDURE 5870 5886	ventriculografía
+T119	PROCEDURE 6347 6378	tratamiento con betabloqueantes
+T120	PROCEDURE 6645 6648	RMC
+T121	PROCEDURE 6987 7001	betabloqueante
+T122	PROCEDURE 7187 7209	biopsia de médula ósea
+T123	PROCEDURE 7351 7364	biopsia de MO
+T124	PROCEDURE 7749 7769	electrocardiográfica
+T131	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T132	PROCEDURE 7327 7340	autoinmunidad
+T135	PROCEDURE 7121 7132	hematología
+T136	PROCEDURE 7691 7720	marcadores de daño miocárdico
+T137	PROCEDURE 4829 4850	Proteínas específicas
+T143	PROCEDURE 2316 2325	Analítica
+T148	PROCEDURE 4733 4760	Fórmula leucocitaria manual
+T45	PROCEDURE 262 269	cirugía

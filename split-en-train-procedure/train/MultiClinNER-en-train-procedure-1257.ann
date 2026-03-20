@@ -1,0 +1,38 @@
+T39	PROCEDURE 29 49	physical examination
+T41	PROCEDURE 270 281	antipyretic
+T1	PROCEDURE 444 464	an ICD was connected
+T42	PROCEDURE 507 521	defibrillation
+T43	PROCEDURE 526 555	cardiopulmonary resuscitation
+T44	PROCEDURE 720 729	intubated
+T66	PROCEDURE 731 738	sedated
+T2	PROCEDURE 869 878	pregnancy
+T40	PROCEDURE 1212 1232	Physical examination
+T67	PROCEDURE 1335 1342	Sedated
+T45	PROCEDURE 1357 1379	mechanical ventilation
+T59	PROCEDURE 1419 1422	ACP
+T49	PROCEDURE 1550 1553	ECG
+T50	PROCEDURE 1742 1758	Echocardiography
+T51	PROCEDURE 2226 2252	Angio CT coronary arteries
+T64	PROCEDURE 2567 2577	monitoring
+T46	PROCEDURE 2593 2615	mechanical ventilation
+T61	PROCEDURE 2617 2628	hypothermia
+T4	PROCEDURE 2633 2646	serum therapy
+T47	PROCEDURE 2710 2732	mechanical ventilation
+T68	PROCEDURE 2911 2943	slow withdrawal of FiO2 and PEEP
+T69	PROCEDURE 2976 3005	continuous dopamine perfusion
+T62	PROCEDURE 3081 3092	hypothermia
+T5	PROCEDURE 3261 3303	continuous perfusion of deep sedoanalgesia
+T52	PROCEDURE 3333 3356	Therapeutic hypothermia
+T53	PROCEDURE 3435 3456	Continuous monitoring
+T54	PROCEDURE 3483 3486	EEG
+T70	PROCEDURE 3577 3594	cerebral oximetry
+T7	PROCEDURE 3596 3605	Rewarming
+T8	PROCEDURE 3651 3690	Progressive withdrawal of sedoanalgesia
+T60	PROCEDURE 3923 3937	renal function
+T55	PROCEDURE 3954 3968	echocardiogram
+T9	PROCEDURE 3990 3998	CAT scan
+T57	PROCEDURE 4200 4223	cardiac catheterisation
+T56	PROCEDURE 4268 4279	coronary CT
+T10	PROCEDURE 4308 4363	reimplantation of the left coronary artery in the aorta
+T58	PROCEDURE 4607 4654	Reimplantation of left coronary artery in aorta
+T48	PROCEDURE 4695 4717	mechanical ventilation

@@ -1,0 +1,39 @@
+T1	SYMPTOM 390 398	headache
+T2	SYMPTOM 618 627	conscious
+T3	SYMPTOM 629 637	oriented
+T4	SYMPTOM 639 644	alert
+T27	SYMPTOM 646 659	Normoperfused
+T5	SYMPTOM 661 674	normohydrated
+T28	SYMPTOM 694 713	jugular engorgement
+T6	SYMPTOM 718 733	nuchal rigidity
+T7	SYMPTOM 735 765	Cardiac auscultation: rhythmic
+T8	SYMPTOM 770 777	murmurs
+T9	SYMPTOM 803 829	preserved vesicular murmur
+T29	SYMPTOM 834 846	extra sounds
+T10	SYMPTOM 848 894	Lower extremities: pulses present, symmetrical
+T11	SYMPTOM 899 905	oedema
+T30	SYMPTOM 966 999	preserved nomation and repetition
+T12	SYMPTOM 1004 1033	alterations in cranial nerves
+T31	SYMPTOM 1035 1069	Strength and sensitivity preserved
+T32	SYMPTOM 1074 1083	dysmetria
+T13	SYMPTOM 1087 1106	dysdiadochokinesias
+T14	SYMPTOM 1123 1138	meningeal signs
+T22	SYMPTOM 1477 1540	Beta-2 glycoprotein (IgM, IgG) cardiolipin (IgM, IgG): negative
+T15	SYMPTOM 1542 1563	HIV (Elisa): negative
+T23	SYMPTOM 1565 1592	Syphilis IgG, IgM: negative
+T16	SYMPTOM 1613 1615	RS
+T17	SYMPTOM 1638 1648	narrow QRS
+T33	SYMPTOM 1650 1674	lateral ST rectification
+T34	SYMPTOM 1689 1723	cardiothoracic index within normal
+T35	SYMPTOM 1728 1738	infiltrate
+T25	SYMPTOM 1742 1754	condensation
+T26	SYMPTOM 1947 2016	CT-perfusion (image 4): increased times in the right occipital region
+T36	SYMPTOM 2115 2173	Intracranial: anterior and posterior circulation permeable
+T18	SYMPTOM 2547 2606	non-dilated left ventricle with preserved systolic function
+T19	SYMPTOM 2608 2629	Normal right chambers
+T37	SYMPTOM 2631 2651	Atria of normal size
+T24	SYMPTOM 2706 2731	Hypermobile atrial septum
+T38	SYMPTOM 2733 2797	Agitated saline was administered and bubble passage was observed
+T21	SYMPTOM 3004 3054	Non-dilated left ventricle with preserved function
+T20	SYMPTOM 3056 3077	Normal right chambers
+T39	SYMPTOM 3079 3097	Normal sized atria

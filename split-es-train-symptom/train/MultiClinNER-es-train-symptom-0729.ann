@@ -1,0 +1,48 @@
+T1	SYMPTOM 3212 3267	exudado prostático y del pus fueron positivos a E. coli
+T2	SYMPTOM 4534 4568	incontinencia urinaria de esfuerzo
+T3	SYMPTOM 254 283	síndrome miccional irritativo
+T4	SYMPTOM 288 299	polaquiuria
+T5	SYMPTOM 301 316	tenesmo vesical
+T6	SYMPTOM 825 837	leucocitosis
+T7	SYMPTOM 319 326	disuria
+T8	SYMPTOM 862 873	neutrofilia
+T9	SYMPTOM 1043 1049	piuria
+T10	SYMPTOM 1052 1066	microhematuria
+T11	SYMPTOM 2632 2638	fiebre
+T12	SYMPTOM 1856 1891	elevación de la cifra de leucocitos
+T13	SYMPTOM 2019 2032	gran próstata
+T14	SYMPTOM 1822 1833	pico febril
+T15	SYMPTOM 2391 2405	picos febriles
+T16	SYMPTOM 1076 1149	radiografías simples de tórax y abdomen practicadas no apareció patología
+T17	SYMPTOM 1197 1244	ecografía de abdomen que no evidenció patología
+T18	SYMPTOM 3148 3166	material purulento
+T19	SYMPTOM 4631 4658	incontinencia leve-moderada
+T20	SYMPTOM 2282 2300	clínica infecciosa
+T21	SYMPTOM 683 759	próstata de tamaño III/IV, no indurada y ligeramente dolorosa a la palpación
+T22	SYMPTOM 3493 3537	aumento del tamaño de la glándula prostática
+T23	SYMPTOM 969 997	descenso del Índice de Quick
+T24	SYMPTOM 2805 2857	área mal delimitada en la periferia medial y craneal
+T25	SYMPTOM 2881 2905	ecogenicidad heterogénea
+T26	SYMPTOM 2917 2941	predominio hipoecogénico
+T27	SYMPTOM 2961 2987	flujo en el método doppler
+T28	SYMPTOM 3330 3345	clínica séptica
+T29	SYMPTOM 3546 3601	colección líquida multitabicada, localizada caudalmente
+T30	SYMPTOM 3899 3917	material purulento
+T31	SYMPTOM 3879 3896	multiloculaciones
+T32	SYMPTOM 3828 3860	desestructuración de la glándula
+A1	RESULTADO T1
+A2	RESULTADO T6
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T12
+A7	IMAGEN T16
+A8	IMAGEN T17
+A9	RESULTADO T18
+A10	IMAGEN T22
+A11	RESULTADO T23
+A12	IMAGEN T24
+A13	IMAGEN T25
+A14	IMAGEN T26
+A15	IMAGEN T27
+A16	IMAGEN T29

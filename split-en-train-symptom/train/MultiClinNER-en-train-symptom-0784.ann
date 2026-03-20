@@ -1,0 +1,35 @@
+T1	SYMPTOM 92 97	fever
+T4	SYMPTOM 125 136	polymyalgia
+T25	SYMPTOM 138 153	osteoarthralgia
+T6	SYMPTOM 155 168	cervical pain
+T8	SYMPTOM 173 181	headache
+T2	SYMPTOM 260 265	Fever
+T3	SYMPTOM 476 481	fever
+T5	SYMPTOM 509 520	polymyalgia
+T26	SYMPTOM 522 537	osteoarthralgia
+T7	SYMPTOM 539 552	cervical pain
+T9	SYMPTOM 557 565	headache
+T10	SYMPTOM 590 599	Conscious
+T27	SYMPTOM 601 619	alert and oriented
+T21	SYMPTOM 648 669	Poor distal perfusion
+T11	SYMPTOM 675 698	coldness in extremities
+T12	SYMPTOM 704 728	Tachycardic heart sounds
+T13	SYMPTOM 757 764	murmurs
+T28	SYMPTOM 770 805	Pulmonary sounds without aggregates
+T14	SYMPTOM 807 833	Abdomen: soft, depressible
+T15	SYMPTOM 838 844	masses
+T29	SYMPTOM 848 857	megaliths
+T16	SYMPTOM 862 883	peritoneal irritation
+T30	SYMPTOM 900 930	Arthralgias in all limb joints
+T17	SYMPTOM 951 963	inflammation
+T24	SYMPTOM 989 1004	meningeal signs
+T22	SYMPTOM 1232 1243	Bacteriuria
+T18	SYMPTOM 1280 1299	Chest X-ray: Normal
+T19	SYMPTOM 1303 1331	Abdominal ultrasound: Normal
+T31	SYMPTOM 1335 1363	CT scan of the brain: Normal
+T20	SYMPTOM 1477 1488	oligoanuria
+T32	SYMPTOM 2170 2211	vegetative image on the posterior leaflet
+T33	SYMPTOM 2382 2452	growth of Staphylococcus aureus sensitive to ampicillin and vancomycin
+T34	SYMPTOM 2565 2705	endocardial involvement was observed in the mural leaflet that also affected the left ventricular wall, annulus and wall of the right atrium
+T23	SYMPTOM 2949 2971	haemodynamic stability
+T35	SYMPTOM 2994 2999	death

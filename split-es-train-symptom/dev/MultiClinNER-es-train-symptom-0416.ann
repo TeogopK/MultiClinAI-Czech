@@ -1,0 +1,8 @@
+T1	SYMPTOM 2090 2113	hilo de sutura traqueal
+T2	SYMPTOM 2185 2212	sensación de cuerpo extraño
+T3	SYMPTOM 1473 1539	masa compatible con proceso neoplásico en el lóbulo medio pulmonar
+T4	SYMPTOM 2236 2239	tos
+T5	SYMPTOM 2243 2249	disnea
+T6	SYMPTOM 1670 1708	hilo de sutura en la luz de la tráquea
+T7	SYMPTOM 1986 2038	masa pulmonar resultó ser de naturaleza inflamatoria
+A1	RESULTADO T6

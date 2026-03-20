@@ -1,0 +1,42 @@
+T31	PROCEDURE 121 147	tratamiento quimioterápico
+T32	PROCEDURE 708 722	segmentectomía
+T33	PROCEDURE 725 743	vaciamiento axilar
+T34	PROCEDURE 845 868	quimioterapia adyuvante
+T35	PROCEDURE 1024 1036	radioterapia
+T36	PROCEDURE 1086 1100	Ecocardiograma
+T37	PROCEDURE 1121 1134	quimioterapia
+T38	PROCEDURE 1439 1452	quimioterapia
+T39	PROCEDURE 2056 2074	Exploración física
+T40	PROCEDURE 2254 2268	oxigenoterapia
+T41	PROCEDURE 2298 2319	Auscultación cardiaca
+T42	PROCEDURE 2360 2381	Auscultación pulmonar
+T43	PROCEDURE 2524 2542	Electrocardiograma
+T44	PROCEDURE 2701 2721	Radiografía de tórax
+T45	PROCEDURE 2852 2861	hemograma
+T46	PROCEDURE 3014 3025	Coagulación
+T47	PROCEDURE 3047 3070	Biomarcadores cardiacos
+T48	PROCEDURE 3145 3168	Monitorización cardiaca
+T49	PROCEDURE 3240 3254	Ecocardiograma
+T50	PROCEDURE 4093 4108	Coronariografía
+T51	PROCEDURE 4178 4207	Resonancia magnética cardiaca
+T52	PROCEDURE 4606 4620	Ecocardiograma
+T53	PROCEDURE 4982 4996	segmentectomía
+T54	PROCEDURE 4999 5021	vaciamiento ganglionar
+T55	PROCEDURE 5109 5122	quimioterapia
+T56	PROCEDURE 5127 5130	FEC
+T58	PROCEDURE 5426 5440	ecocardiograma
+T59	PROCEDURE 5460 5475	coronariografía
+T60	PROCEDURE 5577 5588	RM cardiaca
+T61	PROCEDURE 6046 6059	quimioterapia
+T62	PROCEDURE 6064 6067	FEC
+T63	PROCEDURE 6224 6238	ecocardiograma
+T64	PROCEDURE 6385 6411	tratamiento quimioterápico
+T85	PROCEDURE 220 238	EXPLORACIÓN FÍSICA
+T86	PROCEDURE 2925 2938	Función renal
+T87	PROCEDURE 2941 2946	iones
+T88	PROCEDURE 5298 5327	marcadores de daño miocárdico
+T89	PROCEDURE 907 910	FEC
+T90	PROCEDURE 1457 1460	FEC
+T150	PROCEDURE 2839 2850	Laboratorio
+T10	PROCEDURE 4512 4552	secuencias de realce tardío de gadolinio
+T11	PROCEDURE 4438 4453	secuencias cine

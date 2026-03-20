@@ -1,0 +1,43 @@
+T1	SYMPTOM 712 736	dolor en región cervical
+T2	SYMPTOM 760 801	sensación de acorchamiento en la hemicara
+T3	SYMPTOM 825 884	dolor precordial de intensidad moderada irradiado al hombro
+T4	SYMPTOM 905 912	vómitos
+T5	SYMPTOM 931 947	malestar general
+T6	SYMPTOM 1083 1100	parestesia facial
+T7	SYMPTOM 1137 1162	molestias centrotorácicas
+T8	SYMPTOM 1229 1253	estabilidad hemodinámica
+T9	SYMPTOM 1324 1331	afebril
+T10	SYMPTOM 1432 1459	Pares craneales conservados
+T11	SYMPTOM 1462 1498	pupilas isocóricas y normorreactivas
+T12	SYMPTOM 1513 1542	auscultación cardiaca rítmica
+T14	SYMPTOM 1567 1573	soplos
+T15	SYMPTOM 1610 1639	murmullo vesicular conservada
+T17	SYMPTOM 1669 1709	abdomen es blando, depresible e indoloro
+T18	SYMPTOM 1716 1755	miembros inferiores no presentan edemas
+T19	SYMPTOM 1863 1909	rectificación del segmento ST en cara inferior
+T20	SYMPTOM 2053 2095	elevación de marcadores de daño miocárdico
+T21	SYMPTOM 2179 2235	ondas T negativas en derivación V5-V6 y en II, III y aVF
+T22	SYMPTOM 2810 2823	ritmo sinusal
+T23	SYMPTOM 2834 2844	eje normal
+T24	SYMPTOM 2846 2861	ST isoeléctrico
+T25	SYMPTOM 2863 2893	ondas T aplanadas en III y aVF
+T26	SYMPTOM 2935 2948	ritmo sinusal
+T27	SYMPTOM 2959 2969	eje normal
+T28	SYMPTOM 2985 3031	ondas T negativas en II, III, aVF y de V3 a V6
+T29	SYMPTOM 3033 3060	Elevación de ST 1 mm en III
+T30	SYMPTOM 3063 3083	rectificación en aVF
+T31	SYMPTOM 3831 3893	ventrículo izquierdo no dilatado sin hipertrofia significativa
+T32	SYMPTOM 3895 3972	fracción de eyección de ventrículo izquierdo (FEVI) subjetivamente conservada
+T33	SYMPTOM 3977 4029	disquinesia en ápex, inferior distal y septal distal
+T34	SYMPTOM 7165 7185	parestesias faciales
+T35	SYMPTOM 7188 7202	dolor cervical
+T105	SYMPTOM 72 82	primigesta
+T46	SYMPTOM 2289 2352	defectos de la contractilidad segmentaria inferoapical y apical
+T106	SYMPTOM 4035 4059	patrón diastólico normal
+T107	SYMPTOM 4085 4115	Aurícula izquierda no dilatada
+T108	SYMPTOM 4266 4330	Ventrículo derecho (VD) no dilatado con función sistólica normal
+T109	SYMPTOM 4600 4614	VI no dilatado
+T111	SYMPTOM 4692 4732	Tronco coronario izquierdo sin estenosis
+T36	SYMPTOM 1373 1415	exploración neurológica descarta focalidad
+T13	SYMPTOM 4670 4690	dominancia izquierda
+T16	SYMPTOM 4902 4937	Arteria circunfleja de buen calibre

@@ -1,0 +1,29 @@
+T20	DISEASE 86 95	ex-smoker
+T21	DISEASE 392 411	acute heart failure
+T22	DISEASE 1661 1685	left bundle branch block
+T47	DISEASE 1734 1746	cardiomegaly
+T24	DISEASE 1751 1773	acute pulmonary oedema
+T48	DISEASE 1807 1871	non-dilated left ventricle (LV) with mild concentric hypertrophy
+T27	DISEASE 1995 2020	Mild mitral insufficiency
+T28	DISEASE 2103 2132	Moderate pericardial effusion
+T39	DISEASE 2112 2132	pericardial effusion
+T30	DISEASE 2321 2339	pulmonary fibrosis
+T32	DISEASE 2395 2417	pulmonary hypertension
+T25	DISEASE 2532 2554	acute pulmonary oedema
+T36	DISEASE 2559 2578	acute renal failure
+T38	DISEASE 3184 3230	moderate left ventricular systolic dysfunction
+T23	DISEASE 3289 3313	left bundle branch block
+T40	DISEASE 3675 3695	pericardial effusion
+T33	DISEASE 3697 3719	pulmonary hypertension
+T37	DISEASE 3744 3763	acute renal failure
+T43	DISEASE 3791 3809	autoimmune disease
+T31	DISEASE 4019 4037	pulmonary fibrosis
+T34	DISEASE 4052 4074	pulmonary hypertension
+T41	DISEASE 4297 4317	pericardial effusion
+T26	DISEASE 4427 4449	Acute pulmonary oedema
+T29	DISEASE 4451 4480	Moderate pericardial effusion
+T42	DISEASE 4460 4480	pericardial effusion
+T46	DISEASE 4482 4519	Moderate left ventricular dysfunction
+T44	DISEASE 4521 4577	Diffuse systemic sclerosis with scleroderma renal crisis
+T45	DISEASE 4579 4618	Interstitial lung disease with fibrosis
+T35	DISEASE 4623 4645	pulmonary hypertension

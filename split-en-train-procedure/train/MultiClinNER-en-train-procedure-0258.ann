@@ -1,0 +1,26 @@
+T10	PROCEDURE 386 406	radical radiotherapy
+T3	PROCEDURE 907 918	gastrostomy
+T23	PROCEDURE 934 975	parenteral nutrition via peripheral route
+T9	PROCEDURE 977 1007	empirical antibiotic treatment
+T11	PROCEDURE 1039 1060	natraemia replacement
+T25	PROCEDURE 1064 1077	serum therapy
+T27	PROCEDURE 1274 1284	analytical
+T28	PROCEDURE 1413 1460	natraemic replacement by means of serum therapy
+T13	PROCEDURE 1814 1828	Blood cultures
+T14	PROCEDURE 1876 1890	Blood cultures
+T17	PROCEDURE 2020 2040	antibiotic treatment
+T33	PROCEDURE 2088 2117	catheter, which was withdrawn
+T34	PROCEDURE 2121 2149	transthoracic echocardiogram
+T15	PROCEDURE 2201 2215	blood cultures
+T7	PROCEDURE 2565 2589	collection of the sample
+T12	PROCEDURE 2662 2683	pharmacokinetic study
+T18	PROCEDURE 3715 3735	antibiotic treatment
+T1	PROCEDURE 3773 3790	enteral nutrition
+T41	PROCEDURE 3913 3926	serum therapy
+T2	PROCEDURE 3931 3947	forcing diuresis
+T4	PROCEDURE 4040 4051	gastrostomy
+T20	PROCEDURE 4333 4349	saline solutions
+T19	PROCEDURE 4496 4507	chest X-ray
+T44	PROCEDURE 4640 4653	serum therapy
+T6	PROCEDURE 5001 5028	enteral diet by gastrostomy
+T8	PROCEDURE 5033 5045	radiotherapy

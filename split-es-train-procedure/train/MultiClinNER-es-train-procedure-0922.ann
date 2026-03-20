@@ -1,0 +1,45 @@
+T53	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T54	PROCEDURE 735 738	ECG
+T55	PROCEDURE 814 823	Anamnesis
+T56	PROCEDURE 1410 1428	Exploración física
+T57	PROCEDURE 1664 1685	Auscultación cardiaca
+T58	PROCEDURE 1755 1776	Auscultación pulmonar
+T59	PROCEDURE 2088 2091	ECG
+T60	PROCEDURE 2166 2169	ECG
+T61	PROCEDURE 2237 2270	Marcadores de necrosis miocárdica
+T62	PROCEDURE 2319 2338	Analítica sanguínea
+T63	PROCEDURE 2600 2609	Hemograma
+T64	PROCEDURE 2696 2707	Coagulación
+T65	PROCEDURE 2747 2767	Radiografía de tórax
+T66	PROCEDURE 2929 2974	Gammagrafía miocárdica de perfusión en reposo
+T67	PROCEDURE 3144 3184	Tomografía computarizada (TAC) coronario
+T68	PROCEDURE 3408 3436	Ecocardiograma transtorácico
+T69	PROCEDURE 3438 3441	ETT
+T70	PROCEDURE 4034 4048	Ecocardiograma
+T71	PROCEDURE 4797 4810	Microbiología
+T72	PROCEDURE 4812 4824	Hemocultivos
+T73	PROCEDURE 4860 4870	Urocultivo
+T74	PROCEDURE 4893 4933	PCR gripe y virus respiratorio sincitial
+T75	PROCEDURE 4962 4972	Urocultivo
+T76	PROCEDURE 5003 5015	Hemocultivos
+T77	PROCEDURE 5076 5089	TAC abdominal
+T78	PROCEDURE 5156 5176	TAC craneoencefálico
+T79	PROCEDURE 5415 5450	Resonancia magnética (RMN) cerebral
+T80	PROCEDURE 6038 6064	cultivos de sangre y orina
+T81	PROCEDURE 6066 6092	PCR de virus respiratorios
+T82	PROCEDURE 6107 6135	terapia antibiótica empírica
+T83	PROCEDURE 6219 6231	hemocultivos
+T84	PROCEDURE 6300 6303	ETT
+T85	PROCEDURE 6544 6573	ecocardiograma transesofágico
+T87	PROCEDURE 6730 6775	gammagrafía miocárdica de perfusión en reposo
+T88	PROCEDURE 6892 6905	TAC coronario
+T90	PROCEDURE 7411 7431	TAC craneoencefálico
+T91	PROCEDURE 7434 7445	RM cerebral
+T92	PROCEDURE 7522 7535	TAC abdominal
+T93	PROCEDURE 7662 7681	examen ginecológico
+T94	PROCEDURE 7810 7822	hemocultivos
+T95	PROCEDURE 7960 7974	antibioterapia
+T96	PROCEDURE 8075 8086	antibiótico
+T97	PROCEDURE 8160 8163	ETT
+T98	PROCEDURE 8640 8652	fisioterapia
+T100	PROCEDURE 9035 9049	antibioterapia

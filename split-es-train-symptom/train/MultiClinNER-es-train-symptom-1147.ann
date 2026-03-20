@@ -1,0 +1,34 @@
+T1	SYMPTOM 784 801	disnea progresiva
+T2	SYMPTOM 804 811	astenia
+T3	SYMPTOM 866 872	alerta
+T4	SYMPTOM 874 884	consciente
+T5	SYMPTOM 886 895	orientado
+T6	SYMPTOM 897 908	taquipneico
+T7	SYMPTOM 915 939	intolerancia al decúbito
+T8	SYMPTOM 970 977	Afebril
+T9	SYMPTOM 1024 1045	ingurgitación yugular
+T10	SYMPTOM 1053 1092	Auscultación cardiaca rítmica y regular
+T11	SYMPTOM 1098 1116	ruidos disminuidos
+T12	SYMPTOM 1132 1165	Campos pulmonares bien ventilados
+T13	SYMPTOM 1171 1192	ruidos sobreagregados
+T14	SYMPTOM 1194 1233	Abdomen blando, depresible, no doloroso
+T15	SYMPTOM 1235 1281	Extremidades con pulsos presentes y simétricos
+T16	SYMPTOM 1283 1300	edemas maleolares
+T18	SYMPTOM 1693 1740	aumento significativo del índice cardiotorácico
+T19	SYMPTOM 1742 1775	Seno costofrénico derecho pinzado
+T22	SYMPTOM 2623 2635	taquicárdico
+T23	SYMPTOM 2647 2659	desaturación
+T24	SYMPTOM 2741 2773	velamiento completo de hemitórax
+T25	SYMPTOM 2795 2836	patrón intersticial evidente en hemitórax
+T26	SYMPTOM 3629 3653	estabilidad respiratoria
+T27	SYMPTOM 3875 3920	cultivos para aerobios y anaerobios negativos
+T77	SYMPTOM 1561 1613	Iones y enzimas cardiacas dentro de límites normales
+T17	SYMPTOM 3924 3988	negativo para células malignas en estudio de anatomía patológica
+T86	SYMPTOM 1947 1970	compromiso hemodinámico
+T87	SYMPTOM 4046 4069	compromiso hemodinámico
+T80	SYMPTOM 1653 1676	disminución de voltajes
+T81	SYMPTOM 1887 1920	diámetros máximos en telediástole
+T82	SYMPTOM 2285 2348	líquido de drenaje presentara un importante componente hemático
+T83	SYMPTOM 2511 2542	burbujas en espacio pericárdico
+T85	SYMPTOM 2929 2994	opacificación del lóbulo superior izquierdo con broncograma aéreo
+T91	SYMPTOM 3853 3873	bacterias en el gram

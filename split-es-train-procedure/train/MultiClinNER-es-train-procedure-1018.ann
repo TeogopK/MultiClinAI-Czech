@@ -1,0 +1,41 @@
+T65	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T66	PROCEDURE 236 262	tratamiento con corticoide
+T67	PROCEDURE 341 365	tomografía computarizada
+T68	PROCEDURE 1162 1180	Exploración física
+T69	PROCEDURE 1418 1439	Auscultación cardiaca
+T70	PROCEDURE 1500 1521	Auscultación pulmonar
+T71	PROCEDURE 2617 2635	Electrocardiograma
+T72	PROCEDURE 2637 2640	ECG
+T73	PROCEDURE 2874 2907	Radiografía de tórax, portátil AP
+T76	PROCEDURE 3102 3122	Serología SARS-CoV-2
+T77	PROCEDURE 3158 3170	Hemocultivos
+T78	PROCEDURE 3248 3279	Análisis de líquido pericárdico
+T79	PROCEDURE 3417 3431	Ecocardiograma
+T80	PROCEDURE 4059 4073	Ecocardiograma
+T81	PROCEDURE 5142 5156	Ecocardiograma
+T82	PROCEDURE 5447 5465	TC toracoabdominal
+T83	PROCEDURE 5892 5936	Resonancia magnética nuclear (RMN) de hombro
+T84	PROCEDURE 5973 5983	RMN lumbar
+T85	PROCEDURE 7050 7073	se extraen hemocultivos
+T86	PROCEDURE 7081 7095	ecocardiograma
+T87	PROCEDURE 7227 7239	hemocultivos
+T88	PROCEDURE 7348 7387	drenaje pericárdico por vía subxifoidea
+T89	PROCEDURE 7400 7414	antibioterapia
+T90	PROCEDURE 7449 7481	cultivos del líquido pericárdico
+T91	PROCEDURE 7634 7665	drenaje del líquido pericárdico
+T92	PROCEDURE 7692 7721	ecocardiograma transesofágico
+T93	PROCEDURE 7723 7726	ETE
+T94	PROCEDURE 7817 7820	ETE
+T95	PROCEDURE 8120 8138	TC toracoabdominal
+T96	PROCEDURE 8141 8194	resonancia magnética de ambos hombros y región lumbar
+T97	PROCEDURE 8503 8517	antibioterapia
+T98	PROCEDURE 8542 8582	drenaje de los abscesos en músculo psoas
+T99	PROCEDURE 8610 8617	cultivo
+T101	PROCEDURE 8645 8659	ecocardiograma
+T102	PROCEDURE 8936 8948	hemocultivos
+T103	PROCEDURE 9021 9044	antibiótico intravenoso
+T167	PROCEDURE 5922 5925	RMN
+T170	PROCEDURE 2076 2085	Analítica
+T171	PROCEDURE 6353 6362	Analítica
+T182	PROCEDURE 6914 6923	analítica
+T187	PROCEDURE 8203 8221	estudios de imagen

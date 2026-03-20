@@ -1,0 +1,33 @@
+T1	SYMPTOM 1931 1942	masa hiliar
+T2	SYMPTOM 97 114	dolor epigástrico
+T3	SYMPTOM 157 164	náuseas
+T4	SYMPTOM 167 172	mareo
+T5	SYMPTOM 2132 2206	engrosamiento de la carina en su separación con el bronquio lobar superior
+T6	SYMPTOM 304 311	Astenia
+T7	SYMPTOM 2745 2764	deterioro cognitivo
+T8	SYMPTOM 314 331	anorexia moderada
+T9	SYMPTOM 337 352	pérdida de peso
+T10	SYMPTOM 437 459	palidez cutáneo-mucosa
+T11	SYMPTOM 522 543	irritación peritoneal
+T12	SYMPTOM 2417 2432	masa intestinal
+T13	SYMPTOM 552 589	doloroso a la palpación en epigastrio
+T14	SYMPTOM 775 813	asas yeyunales con niveles hidroaereos
+T15	SYMPTOM 903 937	imagen en "pseudoriñón o sandwich"
+T16	SYMPTOM 1180 1220	masa abdominal localizada en mesogastrio
+T17	SYMPTOM 1440 1450	tumoración
+T18	SYMPTOM 418 425	afebril
+T19	SYMPTOM 465 495	abdomen era blando, depresible
+T20	SYMPTOM 594 631	peristaltismo discretamente aumentado
+T21	SYMPTOM 958 998	imagen en "diana, ojo de buey o donnuts"
+T22	SYMPTOM 501 508	defensa
+T23	SYMPTOM 174 198	Hábito intestinal normal
+T24	SYMPTOM 2848 2859	falleciendo
+T25	SYMPTOM 2220 2244	tumoración endobronquial
+T26	SYMPTOM 2502 2525	buena situación clínica
+A1	IMAGEN T1
+A2	RESULTADO T5
+A3	IMAGEN T14
+A4	IMAGEN T15
+A5	IMAGEN T21
+A6	EXITUS T24
+A7	RESULTADO T25

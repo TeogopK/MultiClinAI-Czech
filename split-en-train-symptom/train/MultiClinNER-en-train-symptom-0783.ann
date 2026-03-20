@@ -1,0 +1,47 @@
+T1	SYMPTOM 234 244	chest pain
+T34	SYMPTOM 489 497	fainting
+T5	SYMPTOM 503 524	loss of consciousness
+T6	SYMPTOM 584 593	dizziness
+T2	SYMPTOM 598 608	chest pain
+T3	SYMPTOM 679 728	chest pain as oppressive, radiating to the throat
+T7	SYMPTOM 752 769	vegetative cortex
+T8	SYMPTOM 815 827	palpitations
+T35	SYMPTOM 832 840	dyspnoea
+T36	SYMPTOM 1167 1186	infectious symptoms
+T9	SYMPTOM 1245 1267	good general condition
+T10	SYMPTOM 1269 1284	Eupneic at rest
+T33	SYMPTOM 1286 1306	tolerating decubitus
+T11	SYMPTOM 1308 1316	Afebrile
+T12	SYMPTOM 1321 1344	haemodynamically stable
+T32	SYMPTOM 1406 1426	congestive semiology
+T13	SYMPTOM 1428 1478	Cardiorespiratory auscultation with rhythmic tones
+T14	SYMPTOM 1483 1490	murmurs
+T37	SYMPTOM 1492 1521	Conservative vesicular murmur
+T38	SYMPTOM 1536 1555	superimposed noises
+T15	SYMPTOM 1557 1583	Lower limbs without oedema
+T16	SYMPTOM 1673 1684	normal axis
+T17	SYMPTOM 1686 1695	normal PR
+T18	SYMPTOM 1697 1707	narrow QRS
+T39	SYMPTOM 1725 1763	ST-elevation < 1 mm in inferior aspect
+T40	SYMPTOM 1785 1820	CTI in the upper limit of normality
+T29	SYMPTOM 1822 1847	Free costophrenic sinuses
+T19	SYMPTOM 2020 2052	glucose and ions in normal range
+T20	SYMPTOM 2063 2075	neutrophilia
+T21	SYMPTOM 2084 2096	leukocytosis
+T41	SYMPTOM 2140 2171	Coagulation without alterations
+T42	SYMPTOM 2344 2369	Autoimmunity test negativ
+T22	SYMPTOM 2539 2571	left atrium of normal dimensions
+T23	SYMPTOM 2601 2620	Normal mitral valve
+T24	SYMPTOM 2683 2729	Left ventricle with slightly increased volumes
+T43	SYMPTOM 2811 2849	segmental alterations of contractility
+T30	SYMPTOM 2851 2878	Normal myocardial thickness
+T25	SYMPTOM 2922 2951	Normal mitral filling pattern
+T31	SYMPTOM 3035 3091	Trivalve aortic valve, with anatomically normal leaflets
+T44	SYMPTOM 3143 3197	Right ventricle of normal dimensions and contractility
+T26	SYMPTOM 3314 3339	Normal inferior vena cava
+T45	SYMPTOM 3798 3846	ADA without angiographically significant lesions
+T46	SYMPTOM 4782 4796	Right dominant
+T4	SYMPTOM 5671 5681	chest pain
+T27	SYMPTOM 6614 6625	hypotension
+T47	SYMPTOM 6903 6963	mild enhancement of predominantly subendocardial enhancement
+T28	SYMPTOM 7380 7392	asymptomatic

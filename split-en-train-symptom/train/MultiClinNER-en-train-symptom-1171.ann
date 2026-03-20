@@ -1,0 +1,40 @@
+T26	SYMPTOM 386 406	dyspnoea on exertion
+T1	SYMPTOM 536 544	cyanosis
+T3	SYMPTOM 744 759	Eupneic at rest
+T4	SYMPTOM 769 779	orthopnoea
+T27	SYMPTOM 783 793	platypnoea
+T5	SYMPTOM 795 815	Generalised cyanosis
+T2	SYMPTOM 817 847	Jugular venous pressure normal
+T6	SYMPTOM 849 878	Negative hepatojugular reflex
+T28	SYMPTOM 905 934	Cardiac auscultation: regular
+T7	SYMPTOM 939 946	murmurs
+T8	SYMPTOM 972 998	preserved vesicular murmur
+T9	SYMPTOM 1015 1037	Extremities: No oedema
+T29	SYMPTOM 1039 1082	Peripheral pulses preserved and symmetrical
+T10	SYMPTOM 1130 1142	sinus rhythm
+T30	SYMPTOM 1190 1216	repolarisation alterations
+T31	SYMPTOM 1602 1638	cardiomediastinal silhouette centred
+T22	SYMPTOM 1682 1705	Translucent lung fields
+T24	SYMPTOM 1734 1746	condensation
+T12	SYMPTOM 2021 2098	Left ventricle with preserved diameters, volumes and global systolic function
+T18	SYMPTOM 2103 2141	alterations in segmental contractility
+T13	SYMPTOM 2188 2239	Left ventricular diastolic pattern within normality
+T14	SYMPTOM 2241 2316	Right ventricle of normal diameters with preserved global systolic function
+T23	SYMPTOM 2390 2415	Normal inferior vena cava
+T11	SYMPTOM 2417 2429	Sinus rhythm
+T32	SYMPTOM 2431 2495	Injection of gelafundin shows no bubble passage to left cavities
+T34	SYMPTOM 2560 2638	repletion defects in main, lobar, segmental or sub-segmental pulmonary arterie
+T33	SYMPTOM 2748 2793	pulmonary nodules or pulmonary consolidations
+T15	SYMPTOM 3050 3071	pulmonary restriction
+T40	SYMPTOM 3361 3393	Non-dilated right ventricle (RV)
+T25	SYMPTOM 3473 3530	Aorta and great vessels of normal diameter and morphology
+T21	SYMPTOM 3532 3558	Atria of normal dimensions
+T39	SYMPTOM 3683 3745	aorta and pulmonary trunk with normal diameters and morphology
+T16	SYMPTOM 3853 3883	Normal pulmonary vein drainage
+T17	SYMPTOM 4401 4430	normal biventricular function
+T37	SYMPTOM 4474 4580	Contrast was administered through both upper limbs with no evidence of bubble passage to the left cavities
+T38	SYMPTOM 4624 4715	pulmonary CT scan and a ventilation/perfusion scan were performed, both with normal results
+T19	SYMPTOM 5162 5188	prominent Eustachian valve
+T36	SYMPTOM 5196 5212	erroneous suture
+T20	SYMPTOM 5355 5367	asymptomatic
+T35	SYMPTOM 5373 5421	normal arterial blood gases and echocardiography

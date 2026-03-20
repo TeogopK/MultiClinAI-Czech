@@ -1,0 +1,53 @@
+T1	SYMPTOM 425 437	asymptomatic
+T3	SYMPTOM 563 571	No pulse
+T4	SYMPTOM 1039 1051	sinus rhythm
+T8	SYMPTOM 1057 1104	ST-segment elevation in leads V1-V5, DI and aVL
+T23	SYMPTOM 1391 1465	epicardial coronary arteries without angiographically significant stenosis
+T9	SYMPTOM 1913 1921	Afebrile
+T10	SYMPTOM 2003 2024	jugular ingurgitation
+T11	SYMPTOM 2026 2055	Negative hepatojugular reflux
+T12	SYMPTOM 2171 2192	Rhythmic heart sounds
+T13	SYMPTOM 2201 2208	murmurs
+T14	SYMPTOM 2210 2247	Scattered rhonchi in both lung fields
+T42	SYMPTOM 2249 2277	Abdomen soft and depressible
+T15	SYMPTOM 2294 2326	Lower extremities without oedema
+T43	SYMPTOM 2333 2394	femoral, popliteal, tibial and pedial pulses bilaterally pres
+T44	SYMPTOM 2415 2438	Radial pulses preserved
+T5	SYMPTOM 2564 2576	sinus rhythm
+T45	SYMPTOM 2648 2694	ST segment elevation from V1 to V5, DI and aVL
+T6	SYMPTOM 2796 2808	sinus rhythm
+T16	SYMPTOM 2820 2830	narrow QRS
+T36	SYMPTOM 2836 2847	normal axis
+T17	SYMPTOM 2852 2866	ST alterations
+T46	SYMPTOM 2868 2898	flattened T wave in limb leads
+T18	SYMPTOM 3744 3779	left ventricle with normal function
+T40	SYMPTOM 3835 3871	trivalve aorta without insufficiency
+T47	SYMPTOM 3911 3938	Ascending aorta not dilated
+T48	SYMPTOM 4058 4114	Pulmonary artery trunk and thoracic aorta of normal size
+T33	SYMPTOM 4570 4603	consolidated with air bronchogram
+T38	SYMPTOM 4668 4678	secretions
+T30	SYMPTOM 4822 4852	Secretions in proximal trachea
+T29	SYMPTOM 4955 5032	CT scan of the brain without contrast (admission): no significant alterations
+T19	SYMPTOM 5050 5098	left ventricle of normal dimensions and geometry
+T20	SYMPTOM 5105 5132	preserved ejection fraction
+T21	SYMPTOM 5145 5181	Right ventricle of normal dimensions
+T22	SYMPTOM 5188 5212	normal systolic function
+T31	SYMPTOM 5214 5243	Morphologically normal valves
+T39	SYMPTOM 5329 5356	normal cardiothoracic index
+T49	SYMPTOM 5358 5419	lung parenchyma and bronchovascular tract without alterations
+T7	SYMPTOM 5491 5503	sinus rhythm
+T50	SYMPTOM 5512 5538	repolarisation alterations
+T24	SYMPTOM 5552 5572	ST-segment elevation
+T51	SYMPTOM 5752 5778	repolarisation alterations
+T52	SYMPTOM 5863 5922	global or segmental alterations in myocardial contractility
+T41	SYMPTOM 5972 6010	Normal first-pass myocardial perfusion
+T53	SYMPTOM 6114 6149	Left ventricular function preserved
+T32	SYMPTOM 6568 6600	electrocardiographic alterations
+T35	SYMPTOM 6690 6723	coronary arteries without lesions
+T26	SYMPTOM 6961 7011	left ventricle with preserved ventricular function
+T54	SYMPTOM 7130 7159	sudden rise in the ST segment
+T34	SYMPTOM 7354 7377	haemodynamic compromise
+T25	SYMPTOM 7562 7590	hydroelectrolyte alterations
+T2	SYMPTOM 7718 7730	febrile peak
+T27	SYMPTOM 8520 8545	Structurally normal heart
+T28	SYMPTOM 8576 8611	non-persistent ST-segment elevation

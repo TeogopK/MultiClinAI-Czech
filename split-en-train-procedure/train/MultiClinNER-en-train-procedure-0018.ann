@@ -1,0 +1,37 @@
+T6	PROCEDURE 142 152	ultrasound
+T24	PROCEDURE 357 372	extension study
+T14	PROCEDURE 392 403	chest X-ray
+T32	PROCEDURE 405 425	complete blood count
+T23	PROCEDURE 427 439	biochemistry
+T28	PROCEDURE 444 483	abdomino-pelvic computerised tomography
+T34	PROCEDURE 540 545	renal
+T29	PROCEDURE 628 668	place a filter in the inferior vena cava
+T19	PROCEDURE 696 724	embolisation of the thrombus
+T26	PROCEDURE 788 806	surgical treatment
+T7	PROCEDURE 845 860	cardiac surgery
+T2	PROCEDURE 906 934	magnetic resonance urography
+T3	PROCEDURE 936 943	Uro-MRI
+T4	PROCEDURE 949 994	angiographic study by computerised tomography
+T5	PROCEDURE 996 1004	angio-CT
+T9	PROCEDURE 1011 1021	cavography
+T8	PROCEDURE 1510 1525	cardiac surgery
+T10	PROCEDURE 1563 1573	sternotomy
+T11	PROCEDURE 1578 1603	left subcostal laparotomy
+T30	PROCEDURE 1615 1714	freeing the splenic angle of the colon by opening the retroperitoneum at the level of the mesentery
+T13	PROCEDURE 1716 1740	left radical nephrectomy
+T16	PROCEDURE 1750 1761	nephrectomy
+T18	PROCEDURE 1844 1920	extracorporeal circulation with deep hypothermia and cerebral retroperfusion
+T15	PROCEDURE 1922 1997	the filter is removed by closing it and traction under fluoroscopic control
+T20	PROCEDURE 2057 2075	right auriculotomy
+T21	PROCEDURE 2177 2219	resection of the renal vein and its ostium
+T51	PROCEDURE 2269 2293	thrombectomy by traction
+T31	PROCEDURE 2297 2349	subsequently repair the defect with a Goretex® patch
+T52	PROCEDURE 2373 2412	anticoagulation with dicoumarinic drugs
+T22	PROCEDURE 2455 2470	synthetic graft
+T1	PROCEDURE 2477 2497	pathological anatomy
+T57	PROCEDURE 2839 2846	CT scan
+T25	PROCEDURE 2926 2941	extension study
+T59	PROCEDURE 2947 2959	scintigraphy
+T12	PROCEDURE 2964 2977	total-body CT
+T27	PROCEDURE 3096 3119	resection of the lesion
+T17	PROCEDURE 3168 3179	nephrectomy

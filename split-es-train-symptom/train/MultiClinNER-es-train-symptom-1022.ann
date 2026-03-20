@@ -1,0 +1,44 @@
+T1	SYMPTOM 388 425	sensación de mareo tipo inestabilidad
+T2	SYMPTOM 537 561	estabilidad hemodinámica
+T3	SYMPTOM 634 648	estado afebril
+T4	SYMPTOM 734 753	lenguaje disártrico
+T5	SYMPTOM 755 777	paresia facial central
+T7	SYMPTOM 865 900	claudicación de miembros inferiores
+T8	SYMPTOM 903 956	leve hipoestesia de predominio algésico en hemicuerpo
+T9	SYMPTOM 1072 1078	soplos
+T10	SYMPTOM 1082 1092	extratonos
+T11	SYMPTOM 1129 1158	murmullo vesicular conservado
+T12	SYMPTOM 1163 1183	ruidos sobreañadidos
+T13	SYMPTOM 1328 1391	analítica sanguínea que presenta plaquetas y coagulación normal
+T14	SYMPTOM 1418 1434	dímero D elevado
+T16	SYMPTOM 2236 2249	ritmo sinusal
+T17	SYMPTOM 2273 2301	empastamiento inicial de QRS
+T18	SYMPTOM 2317 2327	onda delta
+T19	SYMPTOM 2329 2360	alteración de la repolarización
+T20	SYMPTOM 2487 2502	onda T negativa
+T21	SYMPTOM 3312 3359	Cuarto ventrículo de tamaño y morfología normal
+T24	SYMPTOM 3504 3531	sangrado intra o extraaxial
+T25	SYMPTOM 3535 3560	desviación de línea media
+T28	SYMPTOM 5263 5306	Estudio de trombofilia: resultados normales
+T30	SYMPTOM 6880 6912	ventrículo izquierdo no dilatado
+T31	SYMPTOM 6944 6972	función sistólica conservada
+T32	SYMPTOM 8082 8099	burbujas positivo
+T33	SYMPTOM 8374 8423	Orejuela izquierda sin trombos y con flujo normal
+T34	SYMPTOM 9537 9548	taquicardia
+T35	SYMPTOM 9746 9759	ritmo sinusal
+T36	SYMPTOM 9801 9832	alteración en la repolarización
+T37	SYMPTOM 10510 10516	disnea
+T183	SYMPTOM 6988 7033	alteraciones de la contractilidad segmentaria
+T191	SYMPTOM 1219 1232	ritmo sinusal
+T192	SYMPTOM 1313 1326	ritmo sinusal
+T6	SYMPTOM 2260 2268	PR corto
+T15	SYMPTOM 2376 2410	infradesnivelación del segmento ST
+T22	SYMPTOM 6020 6062	sobrecarga de cavidades cardiacas derechas
+T23	SYMPTOM 7035 7083	Ventrículo derecho no dilatado, normofuncionante
+T26	SYMPTOM 7521 7560	VCI en límite superior de la normalidad
+T196	SYMPTOM 5846 5898	Aumento de calibre del tronco de la arteria pulmonar
+T198	SYMPTOM 3386 3423	Cisternas basales libres y simétricas
+T211	SYMPTOM 4457 4478	defectos de repleción
+T227	SYMPTOM 6362 6395	parénquima pulmonar sin hallazgos
+T237	SYMPTOM 6724 6750	transformación hemorrágica
+T238	SYMPTOM 10728 10754	transformación hemorrágica

@@ -1,0 +1,26 @@
+T72	PROCEDURE 34 52	exploración física
+T73	PROCEDURE 897 915	exploración física
+T74	PROCEDURE 1201 1222	Auscultación cardiaca
+T75	PROCEDURE 1287 1308	Auscultación pulmonar
+T76	PROCEDURE 2032 2050	Electrocardiograma
+T77	PROCEDURE 2228 2248	Radiografía de tórax
+T78	PROCEDURE 2533 2552	Gasometría arterial
+T79	PROCEDURE 2612 2641	Ecocardiografía transtorácica
+T80	PROCEDURE 3334 3363	Resonancia magnética cardiaca
+T81	PROCEDURE 4651 4671	Angio-TAC multicorte
+T82	PROCEDURE 4845 4887	tratamiento vasodilatador y betabloqueante
+T83	PROCEDURE 5021 5036	anticoagulación
+T85	PROCEDURE 6462 6499	tratamiento diurético, betabloqueante
+T86	PROCEDURE 6541 6556	anticoagulación
+T87	PROCEDURE 6559 6575	antihipertensivo
+T98	PROCEDURE 4997 5010	IECA vía oral
+T99	PROCEDURE 4798 4819	Tratamiento diurético
+T100	PROCEDURE 5125 5140	betabloqueantes
+T101	PROCEDURE 5491 5506	betabloqueantes
+T102	PROCEDURE 5764 5779	betabloqueantes
+T103	PROCEDURE 5703 5713	diuréticos
+T104	PROCEDURE 4282 4294	Coronografía
+T105	PROCEDURE 4938 4971	infusión de diurético intravenoso
+T106	PROCEDURE 1655 1664	Analítica
+T110	PROCEDURE 1776 1779	EAB
+T140	PROCEDURE 6078 6101	intervención quirúrgica

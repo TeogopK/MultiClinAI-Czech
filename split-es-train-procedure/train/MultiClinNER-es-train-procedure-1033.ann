@@ -1,0 +1,53 @@
+T113	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 257 314	tratamiento con presión positiva continua en la vía aérea
+T115	PROCEDURE 316 320	CPAP
+T116	PROCEDURE 348 389	Implantación de prótesis aórtica mecánica
+T117	PROCEDURE 432 446	Ecocardiograma
+T118	PROCEDURE 491 524	prótesis aórtica normofuncionante
+T119	PROCEDURE 1087 1116	cirugía sobre válvula aórtica
+T120	PROCEDURE 1203 1218	ecocardioscopia
+T121	PROCEDURE 1619 1637	Exploración física
+T122	PROCEDURE 1765 1777	sueroterapia
+T123	PROCEDURE 1953 1974	Auscultación cardiaca
+T124	PROCEDURE 2035 2056	Auscultación pulmonar
+T125	PROCEDURE 2168 2186	Electrocardiograma
+T126	PROCEDURE 2188 2191	ECG
+T127	PROCEDURE 2804 2824	Radiografía de tórax
+T128	PROCEDURE 2856 2859	ECG
+T129	PROCEDURE 3019 3047	Ecocardiograma transtorácico
+T130	PROCEDURE 3989 4000	Cateterismo
+T131	PROCEDURE 4219 4229	aspiración
+T132	PROCEDURE 4232 4272	angioplastia con balón en DA y Cx distal
+T133	PROCEDURE 4343 4372	Ecocardiograma transesofágico
+T134	PROCEDURE 4653 4681	Se explora la válvula mitral
+T135	PROCEDURE 5086 5098	hemocultivos
+T136	PROCEDURE 5173 5185	hemocultivos
+T137	PROCEDURE 5187 5189	HC
+T138	PROCEDURE 5213 5227	antibioterapia
+T139	PROCEDURE 5481 5494	fluidoterapia
+T140	PROCEDURE 5703 5717	ecocardiograma
+T141	PROCEDURE 5751 5754	ECG
+T142	PROCEDURE 6029 6057	ecocardiograma transtorácico
+T143	PROCEDURE 6233 6244	cateterismo
+T144	PROCEDURE 6264 6281	revascularización
+T145	PROCEDURE 6463 6492	ecocardiograma transesofágico
+T146	PROCEDURE 6494 6497	ETE
+T147	PROCEDURE 6573 6576	ETE
+T148	PROCEDURE 6590 6612	intubación orotraqueal
+T149	PROCEDURE 6615 6655	conexión a ventilación mecánica invasiva
+T150	PROCEDURE 6811 6858	se implanta marcapasos transyugular transitorio
+T151	PROCEDURE 7104 7120	cirugía cardiaca
+T152	PROCEDURE 7148 7196	recambio valvular aórtico por prótesis biológica
+T153	PROCEDURE 7198 7249	recambio valvular tricúspide por prótesis biológica
+T154	PROCEDURE 7252 7279	colocación de anillo mitral
+T155	PROCEDURE 7395 7432	hemodiafiltración venovenosa continua
+T156	PROCEDURE 7488 7508	ventilación mecánica
+T157	PROCEDURE 8243 8259	Tromboaspiración
+T158	PROCEDURE 8262 8298	angioplastia con balón sobre DA y Cx
+T159	PROCEDURE 8334 8408	Cirugía emergente de recambio valvular aórtico, tricúspide y anillo mitral
+T174	PROCEDURE 1580 1600	tratamiento empírico
+T175	PROCEDURE 5262 5292	tratamiento empírico de fiebre
+T178	PROCEDURE 5155 5185	se extraen nuevos hemocultivos
+T185	PROCEDURE 2309 2318	Analítica
+T214	PROCEDURE 6676 6715	perfusión de noradrenalina y dobutamina
+T184	PROCEDURE 206 218	insulinizado

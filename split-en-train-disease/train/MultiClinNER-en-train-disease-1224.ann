@@ -1,0 +1,24 @@
+T24	DISEASE 68 131	Intolerance to acetylsalicylic acid (ASA) due to duodenal ulcer
+T25	DISEASE 139 146	smoking
+T28	DISEASE 211 225	duodenal ulcer
+T1	DISEASE 821 824	CHF
+T2	DISEASE 1624 1627	LVH
+T6	DISEASE 2259 2308	left ventricle with slight concentric hypertrophy
+T29	DISEASE 2428 2448	aortic insufficiency
+T30	DISEASE 2464 2478	valvulopathies
+T31	DISEASE 2637 2657	pericardial effusion
+T32	DISEASE 2682 2706	type A aortic dissection
+T40	DISEASE 2962 3026	Dilatation of aortic root and tubular portion of ascending aorta
+T7	DISEASE 3423 3464	dissection extending from the aortic root
+T34	DISEASE 3650 3659	ischaemia
+T9	DISEASE 3717 3770	aortic root dilatation with significant insufficiency
+T33	DISEASE 3876 3900	type A aortic dissection
+T35	DISEASE 4814 4840	global respiratory failure
+T18	DISEASE 4853 4902	postoperative acute respiratory distress syndrome
+T19	DISEASE 4904 4908	ARDS
+T36	DISEASE 5024 5035	Influenza A
+T37	DISEASE 5139 5158	acute renal failure
+T15	DISEASE 5408 5438	Type A acute aortic dissection
+T26	DISEASE 5485 5492	Smoking
+T38	DISEASE 5494 5515	Arterial hypertension
+T39	DISEASE 5517 5554	Acute respiratory failure due to ARDS

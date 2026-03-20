@@ -1,0 +1,33 @@
+T1	SYMPTOM 1268 1276	dyspnoea
+T2	SYMPTOM 1312 1338	upper respiratory symptoms
+T3	SYMPTOM 1365 1370	cough
+T4	SYMPTOM 1385 1398	expectoration
+T5	SYMPTOM 1704 1713	Conscious
+T6	SYMPTOM 1715 1723	oriented
+T7	SYMPTOM 1741 1754	Well hydrated
+T8	SYMPTOM 1759 1767	perfused
+T9	SYMPTOM 1840 1862	rhythmic heart rhythms
+T10	SYMPTOM 1895 1910	systolic murmur
+T12	SYMPTOM 1923 1954	systolic murmur in mitral focus
+T13	SYMPTOM 1990 2005	coarse crackles
+T14	SYMPTOM 2023 2062	Abdomen: soft, not painful on palpation
+T15	SYMPTOM 2080 2086	masses
+T16	SYMPTOM 2124 2141	Normal percussion
+T17	SYMPTOM 2162 2195	oedema with fovea up to the knees
+T18	SYMPTOM 2591 2603	sinus rhythm
+T19	SYMPTOM 3790 3827	moderately impaired systolic function
+T20	SYMPTOM 4535 4560	haemodynamically unstable
+T21	SYMPTOM 5280 5314	insufficient haemodynamic response
+T22	SYMPTOM 5646 5651	dying
+T23	SYMPTOM 463 477	preserved LVEF
+T24	SYMPTOM 2938 2953	septal akinesia
+T25	SYMPTOM 6009 6014	Death
+T26	SYMPTOM 1728 1739	cooperative
+T27	SYMPTOM 1769 1789	Tachypneic on speech
+T28	SYMPTOM 1864 1889	prosthetic metallic click
+T11	SYMPTOM 2067 2076	palpation
+T29	SYMPTOM 2090 2099	megaliths
+T30	SYMPTOM 2101 2122	peristalsis preserved
+T31	SYMPTOM 2910 2932	abnormal septal motion
+T32	SYMPTOM 2958 3002	moderately affected global systolic function
+T33	SYMPTOM 4014 4068	moderately affected left ventricular ejection fraction

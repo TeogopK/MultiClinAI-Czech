@@ -1,0 +1,37 @@
+T74	PROCEDURE 605 719	revascularización quirúrgica con doble puente aortocoronario (safena-obtusa marginal y safenadescendente anterior)
+T75	PROCEDURE 793 821	revascularización percutánea
+T76	PROCEDURE 871 1017	implantación de un stent farmacoactivo en DA distal al injerto de safena, dos stents en primera rama diagonal proximal-media, un stent en CD media
+T77	PROCEDURE 1044 1059	coronariografía
+T78	PROCEDURE 1123 1165	TC distal del 70%, con colocación de stent
+T79	PROCEDURE 1194 1208	ecocardiograma
+T80	PROCEDURE 1378 1412	Resonancia magnética (RM) cardiaca
+T81	PROCEDURE 2252 2275	rehabilitación cardiaca
+T82	PROCEDURE 2888 2906	Exploración física
+T83	PROCEDURE 3058 3079	Auscultación cardiaca
+T84	PROCEDURE 3489 3492	ECG
+T85	PROCEDURE 3593 3613	Radiografía de tórax
+T86	PROCEDURE 3779 3795	batería hepática
+T87	PROCEDURE 3882 3893	Coagulación
+T88	PROCEDURE 4085 4113	Ecocardiograma transtorácico
+T89	PROCEDURE 4599 4632	tratamiento diurético intravenoso
+T90	PROCEDURE 4747 4768	tratamiento diurético
+T91	PROCEDURE 4917 4942	tratamiento neurohormonal
+T93	PROCEDURE 5789 5813	ferroterapia intravenosa
+T95	PROCEDURE 6228 6242	ecocardiograma
+T96	PROCEDURE 6738 6753	ferroterapia IV
+T97	PROCEDURE 6907 6937	test de sangre oculta en heces
+T98	PROCEDURE 7290 7335	revascularizaciones quirúrgicas y percutáneas
+T99	PROCEDURE 7391 7408	estudio digestivo
+T100	PROCEDURE 7437 7478	primoimplante de desfibrilador automático
+T101	PROCEDURE 7494 7540	terapia de resincronización cardiaca (DAI-TRC)
+T102	PROCEDURE 7532 7539	DAI-TRC
+T103	PROCEDURE 7566 7590	ferroterapia intravenosa
+T113	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 253 266	Función renal
+T115	PROCEDURE 2764 2792	medidas higiénico-dietéticas
+T116	PROCEDURE 4000 4014	perfil férrico
+T117	PROCEDURE 823 860	intervencionismo coronario percutáneo
+T118	PROCEDURE 862 865	ICP
+T126	PROCEDURE 3731 3740	Analítica
+T139	PROCEDURE 6344 6353	analítica
+T125	PROCEDURE 5290 5316	implantación de un DAI-TRC

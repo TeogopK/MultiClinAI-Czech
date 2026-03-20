@@ -1,0 +1,23 @@
+T4	PROCEDURE 152 168	vaginal delivery
+T5	PROCEDURE 456 476	Physical examination
+T7	PROCEDURE 597 631	palpation in the right hemiabdomen
+T21	PROCEDURE 790 800	blood test
+T11	PROCEDURE 905 910	tests
+T24	PROCEDURE 967 980	routine urine
+T15	PROCEDURE 1005 1020	abdominal X-ray
+T10	PROCEDURE 1195 1215	Abdominal ultrasound
+T27	PROCEDURE 1324 1341	abdominal CT scan
+T13	PROCEDURE 1546 1559	oral contrast
+T1	PROCEDURE 1728 1744	nasogastric tube
+T2	PROCEDURE 1746 1759	fluid therapy
+T3	PROCEDURE 1764 1773	analgesia
+T14	PROCEDURE 1795 1807	radiological
+T32	PROCEDURE 1847 1854	surgery
+T33	PROCEDURE 1899 1932	infraumbilical midline laparotomy
+T6	PROCEDURE 2193 2211	Pelvic examination
+T35	PROCEDURE 2241 2261	Ileocaecal resection
+T8	PROCEDURE 2266 2303	mechanical latero-lateral anastomosis
+T36	PROCEDURE 2331 2383	drainage of the fluid from the cul-de-sac of Douglas
+T37	PROCEDURE 2406 2415	pathology
+T9	PROCEDURE 2420 2438	histological study
+T12	PROCEDURE 3045 3100	treatment with gonadotropin-releasing hormone analogues

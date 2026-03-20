@@ -1,0 +1,16 @@
+T1	PROCEDURE 709 729	Physical examination
+T4	PROCEDURE 771 799	left flank on deep palpation
+T5	PROCEDURE 801 819	Rectal examination
+T18	PROCEDURE 912 932	complete blood count
+T9	PROCEDURE 968 980	biochemistry
+T20	PROCEDURE 1005 1019	urine analysis
+T22	PROCEDURE 1021 1054	X-ray of the genito-urinary tract
+T7	PROCEDURE 1136 1152	Renal ultrasound
+T8	PROCEDURE 1189 1211	Abdominopelvic CT scan
+T2	PROCEDURE 1292 1328	Echinococcus/Hemag antibody serology
+T3	PROCEDURE 1422 1425	MRI
+T11	PROCEDURE 1550 1596	surgery was decided on the affected renal unit
+T12	PROCEDURE 1642 1649	surgery
+T31	PROCEDURE 1661 1679	surgical procedure
+T6	PROCEDURE 1708 1740	complete left nephroureterectomy
+T10	PROCEDURE 1852 1870	surgical treatment

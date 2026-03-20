@@ -1,0 +1,28 @@
+T74	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T3	PROCEDURE 268 284	renal transplant
+T75	PROCEDURE 294 313	peritoneal dialysis
+T4	PROCEDURE 315 317	PD
+T5	PROCEDURE 387 389	PD
+T76	PROCEDURE 532 557	renal replacement therapy
+T6	PROCEDURE 559 562	RRT
+T77	PROCEDURE 945 958	haemodialysis
+T80	PROCEDURE 963 1005	transfusion of red blood cell concentrates
+T7	PROCEDURE 1029 1040	Examination
+T81	PROCEDURE 1418 1421	ECG
+T8	PROCEDURE 1544 1555	Blood tests
+T9	PROCEDURE 1725 1742	Venous blood gase
+T10	PROCEDURE 1978 1986	Serology
+T82	PROCEDURE 2041 2052	Chest X-ray
+T83	PROCEDURE 2168 2182	Echocardiogram
+T12	PROCEDURE 3110 3118	cultures
+T85	PROCEDURE 3437 3458	Thoracic-abdominal CT
+T86	PROCEDURE 3780 3810	transthoracic echocardiography
+T87	PROCEDURE 4014 4046	tunnelled right jugular catheter
+T78	PROCEDURE 4062 4075	haemodialysis
+T15	PROCEDURE 4197 4234	Thoracentesis of the pleural effusion
+T79	PROCEDURE 4338 4351	haemodialysis
+T88	PROCEDURE 4381 4426	diagnostic and therapeutic pericardiocentesis
+T89	PROCEDURE 4430 4444	total drainage
+T90	PROCEDURE 4644 4652	cytology
+T16	PROCEDURE 4729 4747	whole body CT scan
+T91	PROCEDURE 4976 5002	treatment with darbepoetin

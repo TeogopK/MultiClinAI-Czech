@@ -1,0 +1,68 @@
+T1	SYMPTOM 79 82	tos
+T2	SYMPTOM 84 91	cefalea
+T3	SYMPTOM 168 195	expectoración mucopurulenta
+T4	SYMPTOM 198 204	fiebre
+T5	SYMPTOM 366 382	disnea de reposo
+T6	SYMPTOM 392 411	dolor retroesternal
+T7	SYMPTOM 414 427	palpitaciones
+T8	SYMPTOM 590 600	consciente
+T9	SYMPTOM 602 613	taquipneico
+T10	SYMPTOM 615 623	sudoroso
+T11	SYMPTOM 639 660	ingurgitación yugular
+T12	SYMPTOM 1020 1055	leucocitos con desviación izquierda
+T13	SYMPTOM 1354 1383	patrón intersticial bilateral
+T14	SYMPTOM 3158 3216	alteraciones bilaterales y difusas del parénquima pulmonar
+T15	SYMPTOM 4469 4475	fiebre
+T16	SYMPTOM 4479 4485	disnea
+T17	SYMPTOM 4543 4546	tos
+T18	SYMPTOM 795 801	soplos
+T19	SYMPTOM 820 849	abdomen era blando depresible
+T20	SYMPTOM 94 112	disnea de esfuerzo
+T21	SYMPTOM 4297 4318	eosinofilia en sangre
+T22	SYMPTOM 805 815	extratonos
+T23	SYMPTOM 4697 4725	patrón en vidrio deslustrado
+T24	SYMPTOM 2182 2201	patrón intersticial
+T25	SYMPTOM 4897 4924	patrón intersticial nodular
+T26	SYMPTOM 767 781	tonos rítmicos
+T27	SYMPTOM 1242 1259	Bioquímica normal
+T28	SYMPTOM 1532 1576	ventrículo izquierdo de dimensiones normales
+T29	SYMPTOM 2309 2335	perfil tiroideo fue normal
+T30	SYMPTOM 2340 2384	cultivo del líquido pericárdico fue negativo
+T31	SYMPTOM 2577 2607	negativo para células malignas
+T32	SYMPTOM 2858 2896	IgM a citomegalovirus que fue positiva
+T33	SYMPTOM 3224 3287	patrón intersticial retículo nodular septal y centro lobulillar
+T34	SYMPTOM 3553 3589	ensanchamiento en la zona subcarinal
+T35	SYMPTOM 3594 3636	árbol bronquial no presentaba alteraciones
+T36	SYMPTOM 705 736	crepitantes bilaterales difusos
+T37	SYMPTOM 889 917	extremidades no había edemas
+T38	SYMPTOM 924 962	pulsos periféricos estaban conservados
+T39	SYMPTOM 2240 2304	anticuerpos antinucleares, factor reumatoide, Mantoux, negativos
+T40	SYMPTOM 3301 3431	condensación alveolar parcheada de distribución predominante en segmento apicales de lóbulos inferiores y ambos lóbulos superiores
+T41	SYMPTOM 3498 3540	cuerdas vocales y traquea sin alteraciones
+T42	SYMPTOM 4551 4571	expectoración mucosa
+T43	SYMPTOM 2376 2412	negativo, así como tres hemocultivos
+T44	SYMPTOM 2612 2665	antígeno carcinoembrionario (CEA) se encontró elevado
+T45	SYMPTOM 2700 2848	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie, que fueron negativos
+T50	SYMPTOM 866 880	organomegalias
+A1	RESULTADO T12
+A2	IMAGEN T13
+A3	IMAGEN T14
+A4	RESULTADO T21
+A5	IMAGEN T23
+A6	IMAGEN T24
+A7	IMAGEN T25
+A8	RESULTADO T27
+A9	IMAGEN T28
+A10	RESULTADO T29
+A11	RESULTADO T30
+A12	RESULTADO T31
+A13	RESULTADO T32
+A14	IMAGEN T33
+A15	RESULTADO T34
+A16	RESULTADO T35
+A17	RESULTADO T39
+A18	IMAGEN T40
+A19	RESULTADO T41
+A20	RESULTADO T43
+A21	RESULTADO T44
+A22	RESULTADO T45

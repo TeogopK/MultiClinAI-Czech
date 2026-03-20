@@ -1,0 +1,62 @@
+T1	SYMPTOM 430 439	fallecido
+T2	SYMPTOM 534 543	fallecido
+T3	SYMPTOM 889 939	disnea progresiva que se hace de mínimos esfuerzos
+T4	SYMPTOM 988 1015	disnea paroxística nocturna
+T5	SYMPTOM 1026 1062	edematización de miembros inferiores
+T6	SYMPTOM 1092 1105	epigastralgia
+T8	SYMPTOM 1322 1329	afebril
+T11	SYMPTOM 1903 1927	estabilidad hemodinámica
+T12	SYMPTOM 2188 2220	deterioro clínico y hemodinámico
+T13	SYMPTOM 2239 2259	hipotensión arterial
+T14	SYMPTOM 2262 2271	taquipnea
+T15	SYMPTOM 2431 2459	líquido pericárdico hemático
+T16	SYMPTOM 2746 2765	Buen estado general
+T17	SYMPTOM 2767 2777	consciente
+T18	SYMPTOM 2779 2808	orientado en las tres esferas
+T19	SYMPTOM 2810 2824	normocoloreado
+T20	SYMPTOM 2827 2842	normoperfundido
+T21	SYMPTOM 2847 2875	ingurgitación venosa yugular
+T23	SYMPTOM 2915 2923	eupneico
+T24	SYMPTOM 2944 2976	aumento del trabajo respiratorio
+T25	SYMPTOM 3054 3061	afebril
+T26	SYMPTOM 3097 3135	ruidos cardiacos rítmicos de tono bajo
+T27	SYMPTOM 3141 3147	soplos
+T28	SYMPTOM 3149 3178	Murmullo vesicular conservado
+T30	SYMPTOM 3217 3307	Abdomen globuloso, blando y depresible, no doloroso a la palpación superficial ni profunda
+T31	SYMPTOM 3309 3365	Extremidades inferiores con edema y fóvea hasta rodillas
+T32	SYMPTOM 3782 3801	taquicardia sinusal
+T33	SYMPTOM 3813 3822	PR normal
+T35	SYMPTOM 3836 3849	QRS estrechos
+T37	SYMPTOM 3891 3922	ondas T negativas generalizadas
+T38	SYMPTOM 3924 3945	alternancia eléctrica
+T40	SYMPTOM 3999 4035	alteraciones del parénquima pulmonar
+T42	SYMPTOM 4133 4154	función VI conservada
+T44	SYMPTOM 4803 4834	cultivo bacteriológico negativo
+T45	SYMPTOM 4994 5016	Autoinmunidad negativa
+T46	SYMPTOM 5018 5063	elevación inespecífica de complemento C3 y C4
+T47	SYMPTOM 5340 5392	nódulo ligeramente heterogéneo en el lóbulo tiroideo
+T48	SYMPTOM 5502 5530	próstata aumentada de tamaño
+T49	SYMPTOM 5740 5781	Engrosamiento pericardio visceral en ápex
+T50	SYMPTOM 6066 6078	asintomático
+T51	SYMPTOM 6131 6147	roce pericárdico
+T53	SYMPTOM 6271 6311	función ventricular izquierda conservada
+T54	SYMPTOM 6946 6977	cultivo bacteriológico negativo
+T56	SYMPTOM 7551 7579	próstata aumentada de tamaño
+T57	SYMPTOM 8077 8089	asintomático
+T58	SYMPTOM 8208 8222	dolor punzante
+T61	SYMPTOM 8804 8844	Función ventricular izquierda conservada
+T116	SYMPTOM 1424 1436	hipertensión
+T145	SYMPTOM 7506 7548	nódulo en lóbulo inferior tiroideo derecho
+T10	SYMPTOM 2983 3003	sin tolerar decúbito
+T34	SYMPTOM 3851 3889	escasa progresión de R en precordiales
+T36	SYMPTOM 1547 1568	alternancia eléctrica
+T29	SYMPTOM 4211 4225	swinging heart
+T41	SYMPTOM 5065 5148	Serología virus hepatotropos, CMV, Treponema pallidum y Coxiella burnetii negativos
+T43	SYMPTOM 5150 5166	IgG VEB positivo
+T55	SYMPTOM 7251 7344	Serología para virus hepatotropos, VIH, CMV, Treponema pallidum y Coxiella burnetii negativos
+T74	SYMPTOM 7346 7367	IgG positiva para VEB
+T180	SYMPTOM 3824 3834	eje normal
+T7	SYMPTOM 4227 4256	Colapso de cavidades derechas
+T59	SYMPTOM 4755 4801	tinción de Gram sin observarse microorganismos
+T121	SYMPTOM 6784 6848	líquido pericárdico son muy inespecíficas: hemático con coágulos
+T124	SYMPTOM 7180 7249	elevación inespecífica de CA 125 y fracciones C3 y C4 del complemento

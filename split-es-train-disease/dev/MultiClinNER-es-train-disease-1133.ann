@@ -1,0 +1,37 @@
+T23	DISEASE 2714 2752	ventrículo derecho gravemente dilatado
+T29	DISEASE 74 96	alergia medicamentosas
+T30	DISEASE 176 222	cardiopatía congénita tipo anomalía de Ebstein
+T32	DISEASE 260 263	WPW
+T33	DISEASE 443 502	taquicardia paroxística supraventricular (TPSV) ortodrómica
+T34	DISEASE 485 489	TPSV
+T35	DISEASE 798 835	infección de vías respiratorias altas
+T36	DISEASE 1048 1081	insuficiencia cardiaca congestiva
+T37	DISEASE 1806 1831	trombosis venosa profunda
+T38	DISEASE 1978 2015	Bloqueo de rama derecha de haz de His
+T39	DISEASE 2017 2022	BRDHH
+T40	DISEASE 2852 2888	Dilatación grave de aurícula derecha
+T42	DISEASE 3565 3592	comunicación interauricular
+T43	DISEASE 3642 3663	enfermedad de Ebstein
+T44	DISEASE 3665 3690	insuficiencia tricuspídea
+T45	DISEASE 3701 3723	disfunción ventricular
+T46	DISEASE 3725 3756	cortocircuito derecha-izquierda
+T47	DISEASE 3770 3773	FOP
+T48	DISEASE 3855 3889	cortocircuito de derecha izquierda
+T50	DISEASE 4650 4696	cortocircuito derecha-izquierda interauricular
+T51	DISEASE 4710 4713	FOP
+T52	DISEASE 4736 4757	platipnea-ortodesoxia
+T53	DISEASE 5301 5334	Síndrome de platipnea-ortodesoxia
+T54	DISEASE 5336 5339	FOP
+T55	DISEASE 5355 5397	cortocircuito espontáneo derecha-izquierda
+T56	DISEASE 5399 5445	Cardiopatía congénita tipo anomalía de Ebstein
+T57	DISEASE 5447 5513	Insuficiencia respiratoria global secundaria a shunt intracardiaco
+T58	DISEASE 5605 5637	Insuficiencia tricuspídea masiva
+T59	DISEASE 5652 5673	hipertensión pulmonar
+T60	DISEASE 5692 5717	Síndrome WPW intermitente
+T61	DISEASE 5732 5748	TPSV ortodrómica
+T62	DISEASE 3594 3597	CIA
+T63	DISEASE 3625 3628	FOP
+T66	DISEASE 1101 1112	hipotensión
+T93	DISEASE 3073 3117	Válvula tricúspide con morfología de Ebstein
+#1	AnnotatorNotes T32	 Síndrome Wolff-Parkinson-White
+#2	AnnotatorNotes T34	 Taquicardia paroxística supraventricular

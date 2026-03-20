@@ -1,0 +1,67 @@
+T1	SYMPTOM 205 225	Buen estado de salud
+T2	SYMPTOM 366 407	dolor centrotorácico de carácter opresivo
+T3	SYMPTOM 549 554	dolor
+T4	SYMPTOM 612 630	cortejo vegetativo
+T5	SYMPTOM 632 638	disnea
+T6	SYMPTOM 640 653	palpitaciones
+T7	SYMPTOM 757 769	asintomático
+T8	SYMPTOM 856 878	dolor abdominal difuso
+T9	SYMPTOM 881 901	vómitos alimenticios
+T10	SYMPTOM 948 971	deposiciones diarréicas
+T11	SYMPTOM 1016 1023	afebril
+T12	SYMPTOM 1080 1086	Alerta
+T13	SYMPTOM 1088 1098	consciente
+T14	SYMPTOM 1100 1109	orientado
+T15	SYMPTOM 1111 1120	hidratado
+T16	SYMPTOM 1123 1130	afebril
+T17	SYMPTOM 1192 1213	ingurgitación yugular
+T18	SYMPTOM 1225 1250	Ruidos cardiacos rítmicos
+T19	SYMPTOM 1263 1279	roce pericárdico
+T20	SYMPTOM 1285 1314	Ruidos respiratorios normales
+T21	SYMPTOM 1316 1344	Abdomen: Blando, no doloroso
+T22	SYMPTOM 1350 1355	masas
+T23	SYMPTOM 1359 1374	visceromegalias
+T24	SYMPTOM 1381 1403	peristaltismo presente
+T25	SYMPTOM 1405 1420	EEII: No edemas
+T26	SYMPTOM 1423 1438	pulsos normales
+T27	SYMPTOM 1486 1499	Ritmo sinusal
+T28	SYMPTOM 1526 1551	supradesnivelación del ST
+T29	SYMPTOM 1663 1672	QT normal
+T30	SYMPTOM 1689 1712	Silueta cardiaca normal
+T31	SYMPTOM 2704 2748	flujo diastólico de características normales
+T36	SYMPTOM 3177 3228	Válvula pulmonar fina con apertura y flujo normales
+T37	SYMPTOM 3333 3346	Ritmo sinusal
+T38	SYMPTOM 3357 3366	PR normal
+T39	SYMPTOM 3416 3448	Ligera supradesnivelación del ST
+T40	SYMPTOM 3496 3505	QT normal
+T41	SYMPTOM 3633 3664	Función global de VI conservada
+T43	SYMPTOM 3713 3745	Volúmenes y función de VD normal
+T44	SYMPTOM 3808 3813	edema
+T45	SYMPTOM 4050 4063	Ritmo sinusal
+T46	SYMPTOM 4105 4142	alteraciones del ritmo significativas
+T47	SYMPTOM 4420 4460	alteraciones agudas de la repolarización
+T48	SYMPTOM 4791 4803	asintomático
+T49	SYMPTOM 4953 4986	deterioro de la función sistólica
+T51	SYMPTOM 5192 5204	asintomático
+T52	SYMPTOM 5642 5654	asintomático
+T94	SYMPTOM 4192 4204	Asintomático
+T95	SYMPTOM 1852 1867	Iones: Normales
+T101	SYMPTOM 4462 4481	Taquicardia sinusal
+T96	SYMPTOM 1624 1638	descenso de PR
+T32	SYMPTOM 3697 3711	Masa VI normal
+T104	SYMPTOM 2604 2634	Aurícula izquierda no dilatada
+T112	SYMPTOM 3015 3046	Cavidades derechas no dilatadas
+T120	SYMPTOM 2475 2560	Serologías: Negativas para VHB, VHC, VEB, CMV, VHS, VVZ, enterovirus y parvovirus B19
+T128	SYMPTOM 2750 2799	Ventrículo izquierdo no dilatado ni hipertrofiado
+T129	SYMPTOM 2916 2987	Válvula aórtica trivalva, fina con apertura, movilidad y flujo normales
+T130	SYMPTOM 2636 2702	Válvula mitral de velos finos con movilidad y apertura conservadas
+T133	SYMPTOM 1718 1752	alteraciones pleuroparenquimatosas
+T141	SYMPTOM 2804 2832	función sistólica conservada
+T143	SYMPTOM 1149 1187	Orofaríngeo: Sin hallazgos patológicos
+T33	SYMPTOM 1997 2036	leucocitos 9,2 mil/mm3 (fórmula normal)
+T34	SYMPTOM 2864 2914	falsos tendones y músculos papilares muy evidentes
+T35	SYMPTOM 2989 3013	Raíz aórtica no dilatada
+T42	SYMPTOM 3048 3093	contractilidad ventricular derecha conservada
+T50	SYMPTOM 3095 3175	Válvula tricúspide correctamente implantada, fina con buena movilidad y apertura
+T89	SYMPTOM 3540 3593	Diámetro y volúmenes de VI dentro de límites normales
+T93	SYMPTOM 3880 3959	Realce tardío subepicárdico lineal a nivel desepto anterior basal e inferobasal

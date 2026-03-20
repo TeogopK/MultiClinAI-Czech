@@ -1,0 +1,41 @@
+T65	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T67	PROCEDURE 430 446	cataract surgery
+T93	PROCEDURE 643 661	basic life support
+T66	PROCEDURE 1009 1029	Physical examination
+T91	PROCEDURE 1299 1325	confrontational campimetry
+T68	PROCEDURE 1453 1473	Cardiac auscultation
+T69	PROCEDURE 1507 1529	Pulmonary auscultation
+T70	PROCEDURE 1661 1678	Electrocardiogram
+T71	PROCEDURE 1680 1683	ECG
+T72	PROCEDURE 2099 2110	Chest X-ray
+T5	PROCEDURE 2150 2184	Vacuum cranial computed tomography
+T6	PROCEDURE 2186 2188	CT
+T7	PROCEDURE 2348 2350	CT
+T8	PROCEDURE 2451 2458	CT scan
+T89	PROCEDURE 2460 2555	Angio-CT of supra-aortic trunks and Willis polygon after administration of intravenous contrast
+T9	PROCEDURE 2797 2842	Perfusion CT scan after administration of IVC
+T10	PROCEDURE 2939 2965	Magnetic resonance imaging
+T11	PROCEDURE 2967 2970	MRI
+T88	PROCEDURE 2977 2986	angio-MRI
+T73	PROCEDURE 3389 3419	Transthoracic echocardiography
+T15	PROCEDURE 3837 3863	Cardiac magnetic resonance
+T16	PROCEDURE 3865 3868	CMR
+T90	PROCEDURE 3871 3896	Late enhancement sequence
+T74	PROCEDURE 4149 4179	Transthoracic echocardiography
+T17	PROCEDURE 4260 4270	echography
+T92	PROCEDURE 4618 4629	stroke code
+T83	PROCEDURE 4669 4683	CT angiography
+T20	PROCEDURE 4685 4707	Fibrinolytic treatment
+T82	PROCEDURE 4819 4841	endovascular treatment
+T21	PROCEDURE 4913 4915	CT
+T23	PROCEDURE 5023 5035	cerebral MRI
+T84	PROCEDURE 5037 5048	Angiography
+T25	PROCEDURE 5175 5207	aetiological study of the stroke
+T75	PROCEDURE 5219 5249	transthoracic echocardiography
+T76	PROCEDURE 5405 5439	cardiac magnetic resonance imaging
+T85	PROCEDURE 5631 5640	anamnesis
+T86	PROCEDURE 5887 5902	anticoagulation
+T87	PROCEDURE 6180 6204	coronary catheterisation
+T80	PROCEDURE 6522 6538	echocardiography
+T81	PROCEDURE 6640 6656	echocardiography
+T52	PROCEDURE 6771 6789	echocardiographies

@@ -1,0 +1,27 @@
+T24	DISEASE 75 98	alergias medicamentosas
+T25	DISEASE 160 169	exfumador
+T26	DISEASE 190 200	dislipemia
+T27	DISEASE 281 292	cardiopatía
+T29	DISEASE 659 666	síncope
+T30	DISEASE 668 685	angor de esfuerzo
+T31	DISEASE 1045 1070	trombosis venosa profunda
+T32	DISEASE 2370 2389	derrame pericárdico
+T33	DISEASE 2954 3016	ateromatosis difusa con dos lesiones moderadas en tándem en CD
+T34	DISEASE 3630 3637	SCASEST
+T35	DISEASE 3867 4024	arteria circunfleja subocluida con nacimiento anómalo desde seno coronario derecho adyacente a ostium de arteria coronaria derecha, con trayecto retroaórtico
+T36	DISEASE 4240 4293	lesión significativa de arteria descendente posterior
+T37	DISEASE 4374 4396	insuficiencia cardiaca
+T38	DISEASE 4512 4581	Síndrome coronario agudo sin elevacion del ST de localización lateral
+T39	DISEASE 4595 4604	IAM no Q.
+T40	DISEASE 4615 4717	Origen anómalo de arteria coronaria circunfleja desde seno coronario derecho con trayecto retroaórtico
+T41	DISEASE 4719 4865	Enfermedad coronaria de dos vasos: circunfleja subocluida en el origen, estenosis significativa en rama descendente posterior de coronaria derecha
+T42	DISEASE 4791 4865	estenosis significativa en rama descendente posterior de coronaria derecha
+T43	DISEASE 3028 3105	arteria descendente posterior (DP) presenta lesión angiográficamente moderada
+T44	DISEASE 4401 4419	eventos arrítmicos
+T45	DISEASE 2684 2814	Circunfleja (Cx): origen anómalo de su nacimiento desde seno coronario derecho adyacente a ostium de CD, con trayecto retroaórtico
+T46	DISEASE 4754 4776	circunfleja subocluida
+T76	DISEASE 2141 2190	Válvula tricúspide con velos finos, insuficiencia
+T95	DISEASE 299 312	muerte súbita
+T85	DISEASE 2816 2834	Arteria subocluida
+#1	AnnotatorNotes T33	 CD: coronaria derecha
+#2	AnnotatorNotes T43	 derrame pericárdico

@@ -1,0 +1,17 @@
+T1	PROCEDURE 21 79	mitral and aortic biological valve prostheses (Bioimplant)
+T20	PROCEDURE 234 254	Physical examination
+T2	PROCEDURE 493 503	blood test
+T21	PROCEDURE 704 721	electrocardiogram
+T22	PROCEDURE 864 875	Chest X-ray
+T23	PROCEDURE 952 982	Transthoracic echocardiography
+T24	PROCEDURE 1241 1255	blood cultures
+T6	PROCEDURE 1344 1362	antibiotic therapy
+T27	PROCEDURE 1393 1404	antibiogram
+T28	PROCEDURE 1890 1900	Cranial CT
+T29	PROCEDURE 1982 2014	Transesophageal echocardiography
+T30	PROCEDURE 2236 2256	abdominal ultrasound
+T31	PROCEDURE 2261 2284	gallium-67 scintigraphy
+T9	PROCEDURE 2593 2600	surgery
+T10	PROCEDURE 2622 2706	biological valve prostheses were replaced twice with new mechanical valve prostheses
+T26	PROCEDURE 2740 2772	antibiotherapy treatment regimen
+T25	PROCEDURE 2823 2837	blood cultures

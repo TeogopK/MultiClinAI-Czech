@@ -1,0 +1,19 @@
+T1	PROCEDURE 215 235	Physical examination
+T16	PROCEDURE 675 687	biochemistry
+T2	PROCEDURE 923 935	proteinogram
+T4	PROCEDURE 1042 1054	HIV serology
+T3	PROCEDURE 1255 1266	Colonoscopy
+T6	PROCEDURE 1279 1307	X-rays of the hands and feet
+T5	PROCEDURE 1335 1382	Thoracic CT in the posterior segment of the RUL
+T29	PROCEDURE 1719 1736	Abdominal CT scan
+T7	PROCEDURE 1836 1848	Bronchoscopy
+T8	PROCEDURE 2265 2281	bronchial biopsy
+T32	PROCEDURE 2317 2351	Cytological examination of the BAS
+T9	PROCEDURE 2383 2388	smear
+T33	PROCEDURE 2394 2422	Löwestein culture of the BAS
+T14	PROCEDURE 2419 2422	BAS
+T10	PROCEDURE 2525 2549	corticosteroid treatment
+T11	PROCEDURE 2801 2825	corticosteroid treatment
+T15	PROCEDURE 2910 2926	tuberculostatics
+T37	PROCEDURE 2931 2962	withdrawing the corticosteroids
+T12	PROCEDURE 3012 3036	corticosteroid treatment

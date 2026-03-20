@@ -1,0 +1,14 @@
+T4	DISEASE 64 95	grave retraso pondero-estatural
+T7	DISEASE 117 149	estrabismo convergente bilateral
+T8	DISEASE 152 170	mamilas invertidas
+T13	DISEASE 276 296	fallo de crecimiento
+T24	DISEASE 888 916	error innato del metabolismo
+T25	DISEASE 918 921	EIM
+T27	DISEASE 1079 1085	sepsis
+T33	DISEASE 1205 1226	hipoplasia cerebelosa
+T35	DISEASE 1276 1340	defecto congénito de la glucosilación de proteínas (CGD) tipo Ia
+T37	DISEASE 1328 1331	CGD
+T39	DISEASE 736 751	hipoalbuminemia
+T40	DISEASE 1095 1107	hipoglucemia
+#1	AnnotatorNotes T25	  EIM: error innato metabolismo
+#2	AnnotatorNotes T37	  CGD: congenital glycosylation disorder

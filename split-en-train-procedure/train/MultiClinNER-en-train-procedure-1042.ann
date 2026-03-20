@@ -1,0 +1,31 @@
+T64	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T2	PROCEDURE 202 224	dual-chamber pacemaker
+T79	PROCEDURE 326 329	VVI
+T60	PROCEDURE 446 460	echocardiogram
+T7	PROCEDURE 802 809	surgery
+T8	PROCEDURE 831 849	complete resection
+T61	PROCEDURE 1058 1072	echocardiogram
+T9	PROCEDURE 1110 1143	Doppler of the supra-aortic trunk
+T62	PROCEDURE 1529 1543	echocardiogram
+T65	PROCEDURE 1634 1654	Physical examination
+T66	PROCEDURE 1847 1876	Examination of cranial nerves
+T12	PROCEDURE 1926 1973	Examination of superficial and deep sensitivity
+T67	PROCEDURE 2043 2077	Finger-nose and finger-finger test
+T68	PROCEDURE 2297 2317	Cardiac auscultation
+T69	PROCEDURE 2359 2381	Pulmonary auscultation
+T70	PROCEDURE 2474 2483	palpation
+T71	PROCEDURE 2690 2707	Electrocardiogram
+T72	PROCEDURE 2709 2712	ECG
+T76	PROCEDURE 2806 2818	biochemistry
+T13	PROCEDURE 2906 2915	Haemogram
+T73	PROCEDURE 2982 2993	Coagulation
+T74	PROCEDURE 3033 3044	Chest X-ray
+T78	PROCEDURE 3226 3229	MCP
+T14	PROCEDURE 3269 3283	Mid sternotomy
+T16	PROCEDURE 3312 3337	Brain computed tomography
+T15	PROCEDURE 3339 3341	CT
+T63	PROCEDURE 3495 3525	Transesophageal echocardiogram
+T75	PROCEDURE 4491 4506	anticoagulation
+T19	PROCEDURE 4569 4592	surgical reintervention
+T77	PROCEDURE 4607 4630	cardiac catheterisation
+T20	PROCEDURE 4819 4826	surgery

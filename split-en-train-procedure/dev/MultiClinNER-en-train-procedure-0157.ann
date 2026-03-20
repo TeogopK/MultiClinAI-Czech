@@ -1,0 +1,14 @@
+T1	PROCEDURE 100 109	intubated
+T2	PROCEDURE 560 582	mechanical ventilation
+T8	PROCEDURE 591 603	radiological
+T3	PROCEDURE 614 631	fibrobronchoscopy
+T9	PROCEDURE 746 829	orotracheal tube was removed up to the epiglottis for better tracheal visualisation
+T13	PROCEDURE 899 997	percutaneous tracheostomy was performed under endoscopic control, placing an 8 mm diameter cannula
+T14	PROCEDURE 965 997	placing an 8 mm diameter cannula
+T4	PROCEDURE 1037 1056	respiratory weaning
+T16	PROCEDURE 1075 1107	tracheostomy cannula was changed
+T5	PROCEDURE 1236 1253	enteral nutrition
+T10	PROCEDURE 1272 1347	tracheoesophageal fistula was suspected, which was confirmed endoscopically
+T6	PROCEDURE 1353 1434	the defect was corrected via the oesophageal route with a coated metal prosthesis
+T7	PROCEDURE 1451 1487	percutaneous gastrostomy for feeding
+T19	PROCEDURE 1546 1559	catecholamine

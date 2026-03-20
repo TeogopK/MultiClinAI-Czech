@@ -1,0 +1,39 @@
+T1	SYMPTOM 208 216	disfasia
+T2	SYMPTOM 218 232	desorientación
+T3	SYMPTOM 234 241	cefalea
+T4	SYMPTOM 244 251	vómitos
+T5	SYMPTOM 636 644	disfasia
+T6	SYMPTOM 646 660	desorientación
+T7	SYMPTOM 662 669	cefalea
+T8	SYMPTOM 672 679	vómitos
+T9	SYMPTOM 712 718	fiebre
+T10	SYMPTOM 829 854	hemodinámicamente estable
+T11	SYMPTOM 1009 1014	vigil
+T12	SYMPTOM 1017 1023	alerta
+T13	SYMPTOM 1028 1042	oftalmoparesia
+T14	SYMPTOM 1046 1069	alteración campimétrica
+T15	SYMPTOM 1092 1107	disfasia global
+T16	SYMPTOM 1118 1150	desviación de la comisura labial
+T17	SYMPTOM 1221 1253	reflejo cutáneo plantar extensor
+T18	SYMPTOM 1297 1327	ruidos periprotésicos aórticos
+T19	SYMPTOM 1354 1397	roncus dispersos en ambos campos pulmonares
+T23	SYMPTOM 2438 2453	síndrome febril
+T24	SYMPTOM 2680 2695	FEV1 conservada
+T25	SYMPTOM 4012 4024	leucocitosis
+T26	SYMPTOM 4027 4038	PCR elevada
+T27	SYMPTOM 4421 4437	malestar general
+T28	SYMPTOM 4439 4457	sudoración profusa
+T29	SYMPTOM 4462 4476	picos febriles
+T31	SYMPTOM 4983 4998	disfasia global
+T88	SYMPTOM 462 493	marcapasos VDD normofuncionante
+T96	SYMPTOM 4886 4922	déficit motor derecho braquio-crural
+T91	SYMPTOM 1332 1343	soplo mitra
+T20	SYMPTOM 2736 2757	válvula mitral normal
+T21	SYMPTOM 3616 3662	crecimiento de cocos Gram positivos en racimos
+T22	SYMPTOM 4957 4980	hemianopsia por amenaza
+T102	SYMPTOM 2270 2282	condensación
+T116	SYMPTOM 1988 2011	ritmo de marcapasos VDD
+T42	SYMPTOM 1775 1818	hipodensidad en ganglios basales izquierdos
+T90	SYMPTOM 2700 2733	alteraciones en la contractilidad
+T93	SYMPTOM 2807 2826	gradientes elevados
+T95	SYMPTOM 3472 3534	válvula mitral y la función ventricular izquierda son normales

@@ -1,0 +1,19 @@
+T7	SYMPTOM 422 430	headache
+T1	SYMPTOM 472 481	conscious
+T2	SYMPTOM 483 491	oriented
+T3	SYMPTOM 496 503	febrile
+T4	SYMPTOM 535 550	facial flushing
+T5	SYMPTOM 555 587	bilateral conjunctival injection
+T8	SYMPTOM 977 988	meningismus
+T9	SYMPTOM 992 1010	hepatosplenomegaly
+T13	SYMPTOM 1200 1216	normal platelets
+T6	SYMPTOM 1278 1289	lymphopenia
+T11	SYMPTOM 1325 1346	activated lymphocytes
+T12	SYMPTOM 1398 1427	Coagulation tests were normal
+T14	SYMPTOM 1497 1521	ALT=78 U/L transaminitis
+T15	SYMPTOM 1523 1563	Thick and thin blood smear were negative
+T16	SYMPTOM 1613 1639	negative IgMAb against CMV
+T17	SYMPTOM 1641 1672	negative HBcAb, HBsAg and HBsAg
+T18	SYMPTOM 1674 1710	negative IgMAb against P. falciparum
+T19	SYMPTOM 1715 1750	positive IgMAb against dengue (IIF)
+T10	SYMPTOM 1799 1826	presence of blood parasites

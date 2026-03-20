@@ -1,0 +1,28 @@
+T16	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T18	PROCEDURE 845 873	Cardiopulmonary auscultation
+T19	PROCEDURE 1064 1067	ECG
+T17	PROCEDURE 1346 1366	physical examination
+T21	PROCEDURE 1549 1557	brain CT
+T22	PROCEDURE 1765 1773	brain CT
+T24	PROCEDURE 1966 1980	echocardiogram
+T6	PROCEDURE 2238 2247	haemogram
+T26	PROCEDURE 2249 2261	electrolytes
+T27	PROCEDURE 2263 2277	renal function
+T28	PROCEDURE 2504 2524	Electrocardiographic
+T29	PROCEDURE 2582 2596	anticoagulated
+T32	PROCEDURE 2601 2625	Neurological examination
+T12	PROCEDURE 2824 2843	antiplatelet agents
+T13	PROCEDURE 2853 2865	imaging test
+T33	PROCEDURE 2928 2957	cranial and thoracic CT scan1
+T34	PROCEDURE 3116 3140	Intravenous thrombolysis
+T41	PROCEDURE 3148 3159	Stroke Code
+T35	PROCEDURE 3326 3349	mechanical thrombectomy
+T36	PROCEDURE 3357 3377	cerebral reperfusion
+T25	PROCEDURE 3438 3452	echocardiogram
+T39	PROCEDURE 3560 3624	urgent coronary angiography was performed via the femoral artery
+T37	PROCEDURE 3914 3931	Thromboaspiration
+T38	PROCEDURE 4084 4105	No stent implantation
+T30	PROCEDURE 4140 4154	anticoagulated
+T40	PROCEDURE 4178 4198	coronary angiography
+T23	PROCEDURE 4395 4415	CT scan of the brain
+T31	PROCEDURE 4637 4651	anticoagulated

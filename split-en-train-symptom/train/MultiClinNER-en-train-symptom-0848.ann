@@ -1,0 +1,40 @@
+T1	SYMPTOM 515 525	orthopnoea
+T2	SYMPTOM 530 539	dry cough
+T3	SYMPTOM 566 573	syncope
+T4	SYMPTOM 575 585	chest pain
+T5	SYMPTOM 589 601	palpitations
+T6	SYMPTOM 727 735	Afebrile
+T7	SYMPTOM 986 1001	Mild tachypnoea
+T8	SYMPTOM 1007 1028	decubitus intolerance
+T9	SYMPTOM 1099 1128	Rhythmic cardiac auscultation
+T10	SYMPTOM 1137 1144	murmurs
+T11	SYMPTOM 1148 1158	extratonos
+T12	SYMPTOM 1188 1219	hypophonesis in both lung bases
+T13	SYMPTOM 1270 1303	Lower limbs with pretibial oedema
+T14	SYMPTOM 1305 1346	Peripheral pulses present and symmetrical
+T15	SYMPTOM 1348 1361	Well perfused
+T16	SYMPTOM 1403 1415	sinus rhythm
+T17	SYMPTOM 1460 1470	narrow QRS
+T18	SYMPTOM 2459 2482	SARS-CoV-2 PCR negative
+T19	SYMPTOM 2770 2785	hypoventilation
+T20	SYMPTOM 2971 2989	Severe hypokinesia
+T21	SYMPTOM 4470 4493	haemodynamically stable
+T22	SYMPTOM 4864 4873	euvolemia
+T23	SYMPTOM 3144 3168	Non-dilated right atrium
+T24	SYMPTOM 3170 3235	Non-dilated right ventricle, with normal global systolic function
+T25	SYMPTOM 3402 3440	Tricuspid valve morphologically normal
+T26	SYMPTOM 3685 3720	Left coronary trunk without lesions
+T27	SYMPTOM 457 498	progressive dyspnoea until minimal effort
+T28	SYMPTOM 544 561	peripheral oedema
+T29	SYMPTOM 1030 1062	Jugular venous pressure elevated
+T30	SYMPTOM 1225 1233	crackles
+T31	SYMPTOM 1500 1546	adequate R wave transition in precordial leads
+T32	SYMPTOM 1548 1582	negative T waves in I, aVL, V5, V6
+T33	SYMPTOM 2533 2563	Increased cardiothoracic index
+T34	SYMPTOM 2565 2617	Increase of the bilateral perihilar vascular network
+T35	SYMPTOM 2619 2664	pinching of both lateral costophrenic sinuses
+T36	SYMPTOM 2707 2742	Increased density in both lung base
+T37	SYMPTOM 2878 2899	normal wall thickness
+T38	SYMPTOM 2901 2969	Akinesia of inferior face, inferior septum and inferior lateral face
+T39	SYMPTOM 3348 3399	Aortic valve morphologically and functionally norma
+T40	SYMPTOM 3549 3572	Aortic root not dilated

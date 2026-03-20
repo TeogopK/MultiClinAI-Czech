@@ -1,0 +1,43 @@
+T1	SYMPTOM 128 138	chest pain
+T2	SYMPTOM 952 962	chest pain
+T3	SYMPTOM 140 148	dyspnoea
+T4	SYMPTOM 964 972	dyspnoea
+T5	SYMPTOM 635 648	hypoaesthesia
+T6	SYMPTOM 1180 1202	Good general condition
+T7	SYMPTOM 1204 1217	well hydrated
+T8	SYMPTOM 1222 1230	perfused
+T9	SYMPTOM 1289 1297	Afebrile
+T10	SYMPTOM 1299 1314	Eupneic at rest
+T11	SYMPTOM 1348 1378	Cardiac auscultation: rhythmic
+T12	SYMPTOM 1393 1400	murmurs
+T13	SYMPTOM 1426 1452	preserved vesicular murmur
+T14	SYMPTOM 1454 1481	Abdomen without alterations
+T15	SYMPTOM 1483 1505	Lower limbs: no oedema
+T16	SYMPTOM 1565 1577	sinus rhythm
+T17	SYMPTOM 1601 1611	Narrow QRS
+T18	SYMPTOM 2188 2221	Folic acid and vitamin B12 normal
+T19	SYMPTOM 2309 2352	Leiden factor and factor II 20,210 negative
+T20	SYMPTOM 4486 4511	Normal ventricular system
+T21	SYMPTOM 4530 4581	Echo Doppler of supra-aortic trunks: no alterations
+T22	SYMPTOM 4842 4890	Normal sized RV with preserved systolic function
+T23	SYMPTOM 5037 5055	Normal pericardium
+T24	SYMPTOM 6532 6557	reduced ejection fraction
+T25	SYMPTOM 2396 2473	Serology: HIV, Herpes simplex, EBV, CMV, Brucella, Lues and Borrelia negative
+T26	SYMPTOM 2533 2558	severe depression of LVEF
+T27	SYMPTOM 5487 5512	severe depression of LVEF
+T28	SYMPTOM 4098 4133	Right ventricle (RV) of normal size
+T29	SYMPTOM 4618 4642	dilated LV with akinesia
+T30	SYMPTOM 261 280	cardiac alterations
+T31	SYMPTOM 1316 1346	Jugular venous pressure normal
+T32	SYMPTOM 1507 1523	pulses preserved
+T33	SYMPTOM 1734 1761	normal cardiothoracic index
+T34	SYMPTOM 2223 2245	Autoimmunity: negative
+T35	SYMPTOM 2247 2264	Complement normal
+T36	SYMPTOM 2266 2289	Thyroid hormone normal.
+T37	SYMPTOM 2354 2373	Homocysteine normal
+T38	SYMPTOM 2375 2394	Proteinogram normal
+T39	SYMPTOM 2574 2615	extensive apical akinesia and remodelling
+T40	SYMPTOM 2617 2684	extensive anterior akinesia, lower mid-apical and mid-apical septum
+T41	SYMPTOM 3533 3584	LV of normal size with mid-apical anterior akinesia
+T42	SYMPTOM 3643 3711	Severe hypokinesia of medial septum, medial lateral, medial inferior
+T43	SYMPTOM 4135 4159	Normal right atrium (RA)

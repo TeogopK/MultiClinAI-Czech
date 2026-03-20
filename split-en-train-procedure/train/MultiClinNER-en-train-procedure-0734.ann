@@ -1,0 +1,26 @@
+T22	PROCEDURE 1289 1309	complete blood count
+T15	PROCEDURE 1311 1322	coagulation
+T24	PROCEDURE 1324 1367	liver function tests, renal, thyroid, urine
+T7	PROCEDURE 1401 1417	brain tomography
+T28	PROCEDURE 1431 1443	Urine toxins
+T9	PROCEDURE 1459 1474	Lumbar puncture
+T17	PROCEDURE 1476 1478	LP
+T10	PROCEDURE 1959 2060	Serology for HIV, Brucella, Cytomegalovirus, Herpes Simplex, Syphilis, Toxoplasmosis and Epstein Barr
+T18	PROCEDURE 2196 2198	LP
+T34	PROCEDURE 2250 2333	serology and cerebrospinal fluid (CSF) culture for Brucella, syphilis and Borrellia
+T35	PROCEDURE 2350 2388	Brain magnetic resonance imaging (MRI)
+T19	PROCEDURE 2384 2387	MRI
+T12	PROCEDURE 2405 2419	antidepressant
+T1	PROCEDURE 2490 2510	electroencephalogram
+T4	PROCEDURE 2512 2515	EEG
+T13	PROCEDURE 2915 2945	Transthoracic echocardiography
+T16	PROCEDURE 2971 2986	corticosteroids
+T2	PROCEDURE 3100 3108	sedation
+T14	PROCEDURE 3113 3136	endotracheal intubation
+T43	PROCEDURE 3264 3343	LP was repeated, with polymerase chain reaction for mycoplasma and mycobacteria
+T3	PROCEDURE 3382 3390	sedation
+T8	PROCEDURE 3492 3502	extubation
+T5	PROCEDURE 3518 3521	EEG
+T11	PROCEDURE 3633 3658	gynaecological ultrasound
+T6	PROCEDURE 3748 3768	abdominal ultrasound
+T49	PROCEDURE 3916 3985	LP was repeated looking for the presence of paraneoplastic antibodies

@@ -1,0 +1,45 @@
+T37	DISEASE 77 102	reacciones medicamentosas
+T38	DISEASE 177 188	cardiopatía
+T39	DISEASE 216 225	Exfumador
+T40	DISEASE 298 319	hipertensión arterial
+T41	DISEASE 321 324	HTA
+T42	DISEASE 330 354	diabetes mellitus tipo 2
+T43	DISEASE 356 359	DM2
+T44	DISEASE 365 375	dislipemia
+T45	DISEASE 377 389	Tuberculosis
+T46	DISEASE 406 437	Hiperplasia benigna de próstata
+T47	DISEASE 3128 3143	derrame pleural
+T48	DISEASE 3579 3582	HTP
+T49	DISEASE 4366 4374	fibrosis
+T50	DISEASE 4377 4396	necrosis miocárdica
+T51	DISEASE 5097 5106	arritmias
+T52	DISEASE 5415 5424	asistolia
+T53	DISEASE 5438 5471	taquicardia ventricular polimorfa
+T54	DISEASE 5490 5514	extrasístole ventricular
+T56	DISEASE 5982 6004	síncopes de repetición
+T57	DISEASE 6606 6613	síncope
+T58	DISEASE 6929 6952	fibrilación ventricular
+T60	DISEASE 7377 7403	taquicardias ventriculares
+T61	DISEASE 7515 7528	muerte súbita
+T63	DISEASE 7618 7637	síndrome de Brugada
+T64	DISEASE 7640 7681	taquicardia ventricular catecolaminérgica
+T65	DISEASE 7752 7774	síncopes de repetición
+T66	DISEASE 7796 7831	taquicardia ventricular polimórfica
+T67	DISEASE 7834 7857	fibrilación ventricular
+T69	DISEASE 8197 8216	síndrome de Brugada
+T70	DISEASE 8222 8246	muerte súbita recuperada
+T71	DISEASE 8364 8387	fibrilación ventricular
+T72	DISEASE 8401 8420	síndrome de Brugada
+T73	DISEASE 2913 2919	BCRDHH
+T74	DISEASE 8309 8331	Síncopes cardiogénicos
+T75	DISEASE 6965 7017	asistolia desencadenada por extrasístole ventricular
+T76	DISEASE 2865 2911	bloqueo completo de rama derecha de has de His
+T77	DISEASE 6418 6450	bloqueo completo de rama derecha
+T78	DISEASE 7090 7107	episodio sincopal
+T79	DISEASE 6280 6298	eventos arrítmicos
+T80	DISEASE 3587 3662	cerebral: leve atrofia corticosubcortical con aumento de tamaño ventricular
+T129	DISEASE 265 283	Consumo de alcohol
+T170	DISEASE 5191 5199	bloqueos
+T68	DISEASE 7361 7374	muerte súbita
+T82	DISEASE 8113 8126	muerte súbita
+#1	AnnotatorNotes T73	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

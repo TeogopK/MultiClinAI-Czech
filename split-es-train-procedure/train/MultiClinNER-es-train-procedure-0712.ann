@@ -1,0 +1,28 @@
+T1	PROCEDURE 132 183	tratamiento quimioterápico intravenoso de inducción
+T2	PROCEDURE 186 235	quimioterapia profiláctica intratecal mediante PL
+T3	PROCEDURE 397 415	punciones lumbares
+T4	PROCEDURE 433 460	quimioprofilaxis intratecal
+T5	PROCEDURE 486 531	análisis repetidos de líquido cefalorraquídeo
+T6	PROCEDURE 828 851	transfusión plaquetaria
+T7	PROCEDURE 864 866	PL
+T8	PROCEDURE 944 966	ciclo de quimioterapia
+T9	PROCEDURE 997 1023	transplante de médula ósea
+T10	PROCEDURE 1046 1048	PL
+T11	PROCEDURE 1103 1160	trans-fundir previamente varios concentrados de plaquetas
+T12	PROCEDURE 1427 1429	PL
+T13	PROCEDURE 1821 1835	RM dorsolumbar
+T14	PROCEDURE 1989 2022	administrar gadolinio intravenoso
+T15	PROCEDURE 2123 2163	laminectomía descompresiva desde L1 a L4
+T16	PROCEDURE 2170 2192	durotomía longitudinal
+T17	PROCEDURE 2557 2595	incisión longitudinal de la aracnoides
+T18	PROCEDURE 2598 2674	tras separar las raíces dorsales de la cola de caballo se accedió al coágulo
+T19	PROCEDURE 2930 2986	cierre del plano dural empleando una plastia liofilizada
+T20	PROCEDURE 3366 3392	transplante de médula ósea
+T21	PROCEDURE 3610 3619	RM lumbar
+T22	PROCEDURE 1274 1287	transfusiones
+T23	PROCEDURE 233 235	PL
+T24	PROCEDURE 3561 3584	intervención quirúrgica
+T25	PROCEDURE 3338 3360	tratamiento oncológico
+T26	PROCEDURE 2667 2726	coágulo. Sólo fue posible conseguir una extracción subtotal
+T28	PROCEDURE 2907 2922	acto quirúrgico
+T29	PROCEDURE 2396 2407	exploración

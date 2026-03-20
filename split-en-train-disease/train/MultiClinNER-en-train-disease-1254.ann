@@ -1,0 +1,46 @@
+T13	DISEASE 221 234	dyslipidaemia
+T14	DISEASE 518 551	adenocarcinoma of the left breast
+T30	DISEASE 1926 1935	phlebitis
+T15	DISEASE 2018 2081	calcification of the aortic valve with severely limited opening
+T16	DISEASE 2094 2168	calcification of the mitral valve apparatus with significant regurgitation
+T31	DISEASE 2624 2652	left ventricular hypertrophy
+T17	DISEASE 2670 2718	intraventricular conduction disturbance type BRI
+T54	DISEASE 3633 3652	Dilated left atrium
+T32	DISEASE 3661 3719	aortic lesion on severely calcified valve: severe stenosis
+T28	DISEASE 3752 3774	Moderate regurgitation
+T33	DISEASE 3789 3858	Moderate mitral regurgitation (II-III/VI) on sclerodegenerative valve
+T34	DISEASE 3947 3979	Moderate tricuspid regurgitation
+T35	DISEASE 4080 4112	calcification of ascending aorta
+T18	DISEASE 4114 4188	intensely calcified sigmoid arteries with reduced opening, severe stenosis
+T19	DISEASE 4247 4289	Anterior descending artery with 80% lesion
+T20	DISEASE 4369 4406	Right coronary artery with 90% lesion
+T21	DISEASE 4465 4510	calcified atheromatosis in the thoracic aorta
+T22	DISEASE 4561 4637	Calcification of the aortic valve, tricuspid valve and right coronary artery
+T23	DISEASE 4738 4757	LAD and RCA lesions
+T24	DISEASE 4966 4996	electromechanical dissociation
+T36	DISEASE 5017 5035	coronary occlusion
+T38	DISEASE 5080 5094	aortic rupture
+T57	DISEASE 5098 5121	prosthetic embolisation
+T55	DISEASE 5388 5399	hypotension
+T40	DISEASE 5453 5470	cardiogenic shock
+T42	DISEASE 5930 5960	severe ventricular dysfunction
+T44	DISEASE 5965 5987	severe aortic stenosis
+T45	DISEASE 5993 6022	moderate aortic regurgitation
+T47	DISEASE 6069 6110	severe two-vessel coronary artery disease
+T25	DISEASE 6135 6171	calcification of the ascending aorta
+T48	DISEASE 6516 6536	aortic calcification
+T49	DISEASE 6663 6701	at least moderate aortic regurgitation
+T50	DISEASE 6939 6955	coronary lesions
+T26	DISEASE 7273 7290	AD and DC lesions
+T51	DISEASE 7454 7506	cardiac arrest due to electromechanical dissociation
+T37	DISEASE 7568 7586	coronary occlusion
+T56	DISEASE 7588 7622	pericardial contrast extravasation
+T39	DISEASE 7624 7638	aortic rupture
+T58	DISEASE 7643 7666	prosthetic embolisation
+T52	DISEASE 7842 7918	sclerodegenerative aortic lesion: severe stenosis and moderate regurgitation
+T27	DISEASE 7920 7977	Moderate mitral regurgitation on sclerodegenerative valve
+T43	DISEASE 7979 8009	Severe ventricular dysfunction
+T53	DISEASE 8022 8045	Ischaemic heart disease
+T59	DISEASE 8047 8079	two-vessel disease: CDp 90%, DAm
+T60	DISEASE 8154 8169	Porcelain aorta
+T41	DISEASE 8171 8188	Cardiogenic shock

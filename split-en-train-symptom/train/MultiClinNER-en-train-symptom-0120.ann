@@ -1,0 +1,42 @@
+T1	SYMPTOM 461 470	conscious
+T2	SYMPTOM 475 483	oriented
+T36	SYMPTOM 485 496	hypotensive
+T3	SYMPTOM 501 512	bradycardic
+T30	SYMPTOM 525 550	muscarinic manifestations
+T4	SYMPTOM 552 568	profuse sweating
+T5	SYMPTOM 570 581	sialorrhoea
+T6	SYMPTOM 592 606	tear secretion
+T7	SYMPTOM 612 632	diffuse colicky pain
+T8	SYMPTOM 638 644	nausea
+T9	SYMPTOM 649 657	vomiting
+T50	SYMPTOM 697 711	motor deficits
+T19	SYMPTOM 731 771	perceptible fasciculation in both thighs
+T10	SYMPTOM 840 861	generalised myoclonus
+T13	SYMPTOM 863 869	miosis
+T12	SYMPTOM 874 886	desaturation
+T35	SYMPTOM 892 911	peripheral cyanosis
+T15	SYMPTOM 939 997	fasciculations of the peripheral muscles and the diaphragm
+T37	SYMPTOM 1137 1156	peripheral symptoms
+T55	SYMPTOM 1191 1205	fasciculations
+T38	SYMPTOM 1231 1247	abdominal cramps
+T39	SYMPTOM 1362 1373	convulsions
+T14	SYMPTOM 1901 1907	miosis
+T17	SYMPTOM 1912 1928	high peristalsis
+T18	SYMPTOM 1970 1979	mydriasis
+T40	SYMPTOM 1984 2023	impaired tolerance to enteral nutrition
+T31	SYMPTOM 2048 2070	absence of peristalsis
+T20	SYMPTOM 2131 2149	reactive mydriasis
+T11	SYMPTOM 2263 2284	generalised myoclonus
+T21	SYMPTOM 2289 2313	thoracic muscle weakness
+T33	SYMPTOM 2320 2328	weakness
+T61	SYMPTOM 2409 2417	agitated
+T22	SYMPTOM 2462 2478	facial myoclonus
+T62	SYMPTOM 2518 2539	neurological symptoms
+T23	SYMPTOM 2764 2799	proximal and facial muscle weakness
+T24	SYMPTOM 2813 2828	hypoventilation
+T27	SYMPTOM 2836 2850	muscle fatigue
+T67	SYMPTOM 2863 2883	respiratory symptoms
+T25	SYMPTOM 3196 3211	hypoventilation
+T28	SYMPTOM 3219 3233	muscle fatigue
+T29	SYMPTOM 3403 3424	psychomotor agitation
+T26	SYMPTOM 3526 3541	hypoventilation

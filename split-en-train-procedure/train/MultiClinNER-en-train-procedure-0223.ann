@@ -1,0 +1,38 @@
+T6	PROCEDURE 19 21	HD
+T13	PROCEDURE 87 108	bilateral nephrectomy
+T20	PROCEDURE 180 194	appendicectomy
+T10	PROCEDURE 196 211	cholecystectomy
+T12	PROCEDURE 216 244	right inguinal herniorrhaphy
+T14	PROCEDURE 246 257	Splenectomy
+T15	PROCEDURE 283 300	right nephrectomy
+T26	PROCEDURE 358 397	femoral cannulation (dialysis catheter)
+T1	PROCEDURE 638 653	vascular access
+T9	PROCEDURE 696 718	right femoral catheter
+T5	PROCEDURE 779 803	left humero-cephalic AVF
+T2	PROCEDURE 1008 1032	right humero-basilic AVF
+T34	PROCEDURE 1090 1122	right humero-axillary PTFE graft
+T37	PROCEDURE 1269 1334	tunneled catheter was implanted in the left internal jugular vein
+T39	PROCEDURE 1436 1454	antibiotic therapy
+T8	PROCEDURE 1506 1547	cannulate the right internal jugular vein
+T40	PROCEDURE 1555 1600	catheter was placed in the right femoral vein
+T41	PROCEDURE 1645 1648	AVF
+T42	PROCEDURE 1792 1862	PTFE prosthesis was implanted between the left femoral artery and vein
+T43	PROCEDURE 1965 2031	tunneled catheter was implanted in the right internal jugular vein
+T11	PROCEDURE 2120 2134	antibiotherapy
+T46	PROCEDURE 2222 2268	both local and systemic fibrinolytic treatment
+T7	PROCEDURE 2307 2322	anticoagulation
+T49	PROCEDURE 2551 2574	anticoagulant treatment
+T51	PROCEDURE 2679 2727	to replace the catheter via the same venous line
+T53	PROCEDURE 2754 2777	insert the new catheter
+T54	PROCEDURE 2857 2911	temporary catheter was placed in the left femoral vein
+T16	PROCEDURE 2943 2971	functioning central catheter
+T58	PROCEDURE 3002 3117	Split-Cath tunneled catheter was placed directly in the right atrium, by means of a right anterior mini-thoracotomy
+T3	PROCEDURE 3136 3144	dialysis
+T64	PROCEDURE 3392 3410	antibiotic therapy
+T65	PROCEDURE 3493 3573	sealing with sterile silicone and placing a PTFE sheath around the leakage point
+T67	PROCEDURE 3650 3683	sealing procedure and PTFE sheath
+T68	PROCEDURE 3794 3840	temporary catheter in the right femoral artery
+T70	PROCEDURE 3877 3977	transthoracic replacement was performed by thoracotomy, and another Split-Cath catheter was inserted
+T77	PROCEDURE 4408 4433	catheter was repositioned
+T80	PROCEDURE 4550 4596	temporary catheter in the right femoral artery
+T82	PROCEDURE 4698 4760	dialysed at his dialysis centre via the transthoracic catheter

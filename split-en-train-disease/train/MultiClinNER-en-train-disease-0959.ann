@@ -1,0 +1,33 @@
+T34	DISEASE 72 86	drug allergies
+T35	DISEASE 94 103	ex-smoker
+T36	DISEASE 141 168	acute myocardial infarction
+T1	DISEASE 170 173	AMI
+T37	DISEASE 176 189	Dyslipidaemia
+T42	DISEASE 275 306	chronic ischaemic heart disease
+T38	DISEASE 311 324	dyslipidaemia
+T3	DISEASE 335 400	inferoposterolateral ST-segment elevation acute coronary syndrome
+T2	DISEASE 402 407	STEMI
+T4	DISEASE 435 533	severe coronary artery disease in two vessels: circumflex (acute lesion) and right coronary artery
+T5	DISEASE 634 681	non-dilated, mildly hypertrophic left ventricle
+T44	DISEASE 926 949	tricuspid insufficiency
+T6	DISEASE 951 953	TI
+T46	DISEASE 1012 1034	pulmonary hypertension
+T48	DISEASE 1039 1059	pericardial effusion
+T50	DISEASE 1070 1082	bronchopathy
+T9	DISEASE 1367 1377	infarction
+T11	DISEASE 1833 1836	AMI
+T39	DISEASE 1860 1873	dyslipidaemia
+T51	DISEASE 2409 2429	deep vein thrombosis
+T52	DISEASE 2431 2434	DVT
+T55	DISEASE 2981 3016	non-dilated, mildly hypertrophic LV
+T13	DISEASE 3299 3301	TR
+T47	DISEASE 3359 3381	pulmonary hypertension
+T49	DISEASE 3386 3406	pericardial effusion
+T14	DISEASE 3438 3441	AMI
+T40	DISEASE 3474 3487	dyslipidaemia
+T53	DISEASE 3641 3649	myositis
+T54	DISEASE 3653 3667	rhabdomyolysis
+T15	DISEASE 4385 4388	AMI
+T43	DISEASE 4904 4935	Chronic ischaemic heart disease
+T41	DISEASE 4937 4950	Dyslipidaemia
+T16	DISEASE 4981 5003	Intolerance to statins

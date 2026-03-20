@@ -1,0 +1,34 @@
+T20	DISEASE 215 236	arterial hypertension
+T23	DISEASE 238 255	diabetes mellitus
+T24	DISEASE 289 302	dyslipidaemia
+T25	DISEASE 304 333	permanent atrial fibrillation
+T26	DISEASE 427 480	rheumatic stenosis with severe pulmonary hypertension
+T42	DISEASE 546 572	nephrourological pathology
+T43	DISEASE 764 795	decompensation of heart failure
+T44	DISEASE 914 940	aortic valve calcification
+T45	DISEASE 945 981	severe right ventricular dysfunction
+T11	DISEASE 1091 1111	peripheral phlebitis
+T27	DISEASE 1424 1446	infective endocarditis
+T10	DISEASE 1631 1723	infective endocarditis due to methicillin-sensitive S. aureus (SAMS) on the prosthetic valve
+T30	DISEASE 1990 2013	multi-organ dysfunction
+T31	DISEASE 2032 2049	cardiac tamponade
+T32	DISEASE 2112 2132	haemodynamic failure
+T33	DISEASE 2154 2160	sepsis
+T9	DISEASE 2211 2257	acute oligoanuric renal function deterioration
+T34	DISEASE 2881 2912	upper gastrointestinal bleeding
+T46	DISEASE 2983 2999	gastric erosions
+T8	DISEASE 3038 3122	non-pruritic raised petechiae were found on the trunk, extremities, folds and slopes
+T35	DISEASE 3528 3555	leukocytoclastic vasculitis
+T7	DISEASE 3663 3670	anaemia
+T6	DISEASE 3894 3916	macroscopic haematuria
+T36	DISEASE 4046 4067	pulmonary haemorrhage
+T38	DISEASE 4219 4239	alveolar haemorrhage
+T40	DISEASE 4451 4496	nephritic syndrome with pulmonary haemorrhage
+T47	DISEASE 5037 5059	renopulmonary syndrome
+T5	DISEASE 5662 5711	acute glomerulonephritis related to the infection
+T4	DISEASE 5999 6048	infection-related IgA-dominant glomerulonephritis
+T41	DISEASE 6129 6153	Henoch-Schönlein purpura
+T3	DISEASE 6309 6340	IgA-dominant glomerulonephritis
+T1	DISEASE 6352 6386	infective endocarditis due to SAMS
+T2	DISEASE 6410 6434	Schönlein-Henoch purpura
+T39	DISEASE 6540 6560	alveolar haemorrhage

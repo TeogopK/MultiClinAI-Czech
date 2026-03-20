@@ -1,0 +1,8 @@
+T1	SYMPTOM 89 123	dolor tipo cólico sobre fosa renal
+T2	SYMPTOM 153 169	masa intrarrenal
+T3	SYMPTOM 779 817	masa adherida a polo inferior de riñón
+T4	SYMPTOM 352 389	masa sólida en polo inferior de riñón
+T5	SYMPTOM 635 649	acúmulos oseos
+A1	IMAGEN T2
+A2	IMAGEN T4
+A3	IMAGEN T5

@@ -1,0 +1,77 @@
+T150	PROCEDURE 181 263	Sustitución valvular aórtica por doble lesión (prótesis mecánica Carbomedics no21)
+T151	PROCEDURE 527 544	exéresis esternal
+T152	PROCEDURE 547 618	plastia de ambos pectorales con desinserción de los músculos del húmero
+T154	PROCEDURE 620 652	mioplastia de pectorales mayores
+T155	PROCEDURE 1212 1227	anticoagulación
+T156	PROCEDURE 1328 1346	Electrocardiograma
+T157	PROCEDURE 1348 1351	ECG
+T158	PROCEDURE 1458 1487	monitorización con telemetría
+T159	PROCEDURE 1490 1504	ecocardiograma
+T160	PROCEDURE 1674 1703	implante de Holter subcutáneo
+T161	PROCEDURE 2448 2459	TAC craneal
+T162	PROCEDURE 2565 2582	Holter subcutáneo
+T163	PROCEDURE 2684 2706	implante de marcapasos
+T164	PROCEDURE 2828 2831	TAC
+T165	PROCEDURE 3020 3042	intubación orotraqueal
+T166	PROCEDURE 3045 3069	traqueostomía quirúrgica
+T167	PROCEDURE 3255 3281	tratamiento betabloqueante
+T168	PROCEDURE 3317 3334	Holter subcutáneo
+T169	PROCEDURE 3527 3560	implante de marcapasos definitivo
+T170	PROCEDURE 3777 3794	Tórax: Inspección
+T171	PROCEDURE 3872 3893	Auscultación pulmonar
+T172	PROCEDURE 3950 3971	Auscultación cardiaca
+T173	PROCEDURE 4281 4304	Exploración neurológica
+T174	PROCEDURE 4588 4600	hemocultivos
+T175	PROCEDURE 4651 4663	antibiograma
+T176	PROCEDURE 4784 4796	Hemocultivos
+T177	PROCEDURE 5269 5272	ECG
+T178	PROCEDURE 5407 5418	TAC CRANEAL
+T179	PROCEDURE 5647 5650	ETT
+T180	PROCEDURE 6174 6187	Doppler color
+T181	PROCEDURE 6639 6642	ETE
+T182	PROCEDURE 7612 7615	ETE
+T183	PROCEDURE 7899 7909	RM CRANEAL
+T184	PROCEDURE 8170 8208	TC abdominal con contraste intravenoso
+T185	PROCEDURE 8307 8310	ETE
+T186	PROCEDURE 8636 8648	hemocultivos
+T187	PROCEDURE 8692 8702	urocultivo
+T188	PROCEDURE 8810 8822	hemocultivos
+T189	PROCEDURE 8891 8905	ecocardiograma
+T190	PROCEDURE 9292 9309	angio-RM cerebral
+T191	PROCEDURE 9445 9448	TAC
+T192	PROCEDURE 9694 9708	ecocardiograma
+T193	PROCEDURE 9738 9752	antibioterapia
+T194	PROCEDURE 10023 10046	tratamiento antibiótico
+T195	PROCEDURE 10144 10158	antibioterapia
+T196	PROCEDURE 10263 10275	TC abdominal
+T197	PROCEDURE 10359 10373	antibioterapia
+T198	PROCEDURE 10392 10421	ecocardiograma transesofágico
+T199	PROCEDURE 10816 10834	electrocardiograma
+T200	PROCEDURE 10844 10854	telemetría
+T201	PROCEDURE 10897 10909	hemocultivos
+T202	PROCEDURE 10957 10980	tratamiento antibiótico
+T203	PROCEDURE 11001 11024	antibiótico intravenoso
+T204	PROCEDURE 11188 11202	rehabilitación
+T205	PROCEDURE 11411 11437	antibioterapia ambulatoria
+T206	PROCEDURE 11660 11672	hemocultivos
+T207	PROCEDURE 11736 11762	tratamiento betabloqueante
+T208	PROCEDURE 11812 11835	implantar un marcapasos
+T209	PROCEDURE 11867 11908	monitorización mediante Holter subcutáneo
+T227	PROCEDURE 472 508	Se cierra la fístula a nivel aórtico
+T228	PROCEDURE 691 720	reintervenciones por sangrado
+T231	PROCEDURE 1004 1044	implantándose una prótesis St. Jude no21
+T233	PROCEDURE 3563 3581	EXPLORACIÓN FÍSICA
+T234	PROCEDURE 4054 4073	Abdomen: inspección
+T237	PROCEDURE 5142 5157	perfil hepático
+T238	PROCEDURE 5160 5175	perfil tiroideo
+T240	PROCEDURE 6462 6475	Doppler color
+T7	PROCEDURE 3502 3516	monitorización
+T264	PROCEDURE 4820 4829	ANALÍTICA
+T267	PROCEDURE 5006 5016	Bioquímica
+T314	PROCEDURE 12241 12263	tratamiento quirúrgico
+T270	PROCEDURE 1072 1090	poscoronariografía
+T37	PROCEDURE 5596 5620	ESTUDIO ECOCARDIOGRÁFICO
+T153	PROCEDURE 3603 3616	Cabeza y cara
+T229	PROCEDURE 3714 3720	Cuello
+T145	PROCEDURE 9604 9611	cirugía
+T217	PROCEDURE 11230 11268	ejercicios de motricidad gruesa y fina

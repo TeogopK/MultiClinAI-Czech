@@ -1,0 +1,32 @@
+T20	DISEASE 104 117	active smoker
+T34	DISEASE 150 173	ischaemic heart disease
+T1	DISEASE 245 303	as a non-ST-elevation Killip I acute myocardial infarction
+T39	DISEASE 342 380	spontaneous coronary artery dissection
+T2	DISEASE 386 442	haematoma image in the posterior interventricular branch
+T44	DISEASE 604 616	sudden death
+T22	DISEASE 620 642	cardiovascular disease
+T23	DISEASE 862 869	syncope
+T3	DISEASE 1011 1027	recurrent angina
+T43	DISEASE 1102 1112	infections
+T24	DISEASE 1354 1389	polymorphic ventricular tachycardia
+T25	DISEASE 1420 1444	ventricular fibrillation
+T26	DISEASE 1612 1636	ventricular fibrillation
+T4	DISEASE 1638 1640	VF
+T40	DISEASE 1776 1793	arrhythmic events
+T29	DISEASE 1797 1810	heart failure
+T30	DISEASE 2231 2251	deep vein thrombosis
+T10	DISEASE 3334 3346	valvulopathy
+T31	DISEASE 4422 4438	ischaemic eschar
+T12	DISEASE 5255 5305	haematoma in the posterior interventricular branch
+T41	DISEASE 5498 5515	arrhythmic events
+T42	DISEASE 5701 5717	haematoma in PVI
+T32	DISEASE 5736 5759	acute myocardial damage
+T33	DISEASE 5778 5801	ventricular arrhythmias
+T27	DISEASE 5940 5964	ventricular fibrillation
+T35	DISEASE 6054 6077	ischaemic heart disease
+T37	DISEASE 6118 6140	recovered sudden death
+T14	DISEASE 6192 6228	In-hospital cardiac arrest recovered
+T28	DISEASE 6232 6256	ventricular fibrillation
+T21	DISEASE 6258 6289	Chronic ischaemic heart disease
+T15	DISEASE 6291 6310	inferior infarction
+T38	DISEASE 6312 6354	Spontaneous PVI coronary artery dissection

@@ -1,0 +1,20 @@
+T1	SYMPTOM 1742 1765	pérdida de 5 kg de peso
+T2	SYMPTOM 1797 1807	linfopenia
+T3	SYMPTOM 1348 1370	intolerancia digestiva
+T4	SYMPTOM 1373 1409	alteración hidroelectrolítica severa
+T5	SYMPTOM 2676 2692	disnea de reposo
+T6	SYMPTOM 421 439	disnea de esfuerzo
+T7	SYMPTOM 759 800	proteínas y linfocitos en sangre normales
+T8	SYMPTOM 2767 2800	parámetros nutricionales normales
+T9	SYMPTOM 129 138	hemotórax
+T10	SYMPTOM 251 266	ascitis quilosa
+T11	SYMPTOM 524 534	quilotórax
+T12	SYMPTOM 56 89	hemoneumotórax derecho espontáneo
+T13	SYMPTOM 1703 1737	deterioro de su estado nutricional
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	RESULTADO T7
+A4	RESULTADO T8
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T13

@@ -1,0 +1,23 @@
+T30	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 152 198	implantation of a biological aortic prosthesis
+T3	PROCEDURE 462 471	operation
+T31	PROCEDURE 615 635	physical examination
+T32	PROCEDURE 727 755	Cardiopulmonary auscultation
+T4	PROCEDURE 1009 1019	blood test
+T44	PROCEDURE 1119 1140	acute phase reactants
+T33	PROCEDURE 1213 1230	electrocardiogram
+T7	PROCEDURE 1334 1368	4 batches of serial blood cultures
+T39	PROCEDURE 1354 1368	blood cultures
+T34	PROCEDURE 1447 1461	antibiotherapy
+T35	PROCEDURE 1619 1649	transthoracic echocardiography
+T8	PROCEDURE 1651 1654	TTE
+T36	PROCEDURE 1825 1857	Transesophageal echocardiography
+T37	PROCEDURE 2047 2103	positron emission tomography with 18F-fluorodeoxyglucose
+T9	PROCEDURE 2105 2119	18F-FDG-PET/CT
+T38	PROCEDURE 2626 2644	antibiotic therapy
+T40	PROCEDURE 2659 2673	blood cultures
+T41	PROCEDURE 2675 2700	valve replacement surgery
+T18	PROCEDURE 2705 2776	repair of the aorto-atrial fistula with pericardial patch was performed
+T42	PROCEDURE 2778 2833	Microbiological analysis of the excised surgical tissue
+T45	PROCEDURE 2904 2914	Gram stain
+T43	PROCEDURE 3122 3155	Antibiotic and surgical treatment

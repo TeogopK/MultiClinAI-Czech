@@ -1,0 +1,45 @@
+T90	PROCEDURE 481 501	radiografía de tórax
+T91	PROCEDURE 503 521	electrocardiograma
+T92	PROCEDURE 524 554	seriación de enzimas cardiacas
+T93	PROCEDURE 1065 1097	antiinflamatorios no esteroideos
+T94	PROCEDURE 1215 1227	auscultación
+T95	PROCEDURE 1286 1304	EXPLORACIÓN FÍSICA
+T96	PROCEDURE 1653 1673	Radiografía de tórax
+T97	PROCEDURE 1755 1775	Radiografía de tórax
+T98	PROCEDURE 1867 1885	Electrocardiograma
+T99	PROCEDURE 1887 1890	ECG
+T100	PROCEDURE 2024 2052	Ecocardiograma transtorácico
+T101	PROCEDURE 3474 3503	estudio de la aorta abdominal
+T102	PROCEDURE 3673 3687	Angio-TC tórax
+T103	PROCEDURE 4912 4926	Ecocardiograma
+T104	PROCEDURE 5411 5445	Angio-TAC de aorta toracoabdominal
+T105	PROCEDURE 6323 6337	Ecocardiograma
+T106	PROCEDURE 7377 7390	Test genético
+T107	PROCEDURE 7790 7806	cirugía cardiaca
+T108	PROCEDURE 7938 7958	radiografía de tórax
+T109	PROCEDURE 8022 8033	radiografía
+T110	PROCEDURE 8075 8084	Angio-TAC
+T111	PROCEDURE 8284 8306	cirugía cardiovascular
+T112	PROCEDURE 8358 8437	sustitución de raíz aórtica con tubo valvulado mediante técnica de Bono-Bentall
+T113	PROCEDURE 8442 8515	reimplantación de arterias coronarias y endoprótesis en aorta descendente
+T114	PROCEDURE 8730 8756	angio-TAC toraco-abdominal
+T115	PROCEDURE 8994 9005	TAC craneal
+T116	PROCEDURE 9032 9046	ecocardiograma
+T117	PROCEDURE 9292 9341	implantar un desfibrilador automático implantable
+T118	PROCEDURE 9885 9901	estudio genético
+T119	PROCEDURE 10020 10042	cirugía cardiovascular
+T120	PROCEDURE 10079 10124	aorta torácica descendente mediante angio-TAC
+T121	PROCEDURE 10522 10562	sustitución aórtica y reemplazo valvular
+T129	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T130	PROCEDURE 7713 7722	angio-TAC
+T132	PROCEDURE 2544 2553	Analítica
+T133	PROCEDURE 2657 2682	Angio-TC toraco-abdominal
+T134	PROCEDURE 9343 9346	DAI
+T135	PROCEDURE 10676 10679	DAI
+T138	PROCEDURE 10479 10502	Intervención quirúrgica
+T159	PROCEDURE 4956 4968	intervención
+T160	PROCEDURE 5063 5075	intervención
+T161	PROCEDURE 6368 6380	intervención
+T162	PROCEDURE 8911 8923	intervención
+T163	PROCEDURE 8312 8335	intervención quirúrgica
+T164	PROCEDURE 9840 9863	intervención quirúrgica

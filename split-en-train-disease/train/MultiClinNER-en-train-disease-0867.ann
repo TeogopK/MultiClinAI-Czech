@@ -1,0 +1,37 @@
+T30	DISEASE 85 112	transient ischaemic attacks
+T31	DISEASE 396 410	drug allergies
+T55	DISEASE 412 424	Toxic habits
+T32	DISEASE 426 432	smoker
+T1	DISEASE 653 687	paraesthesia in the right hemibody
+T2	DISEASE 759 790	paresis in the right hemisphere
+T33	DISEASE 1778 1791	heart failure
+T54	DISEASE 2411 2425	Herpes simplex
+T56	DISEASE 2447 2451	Lues
+T3	DISEASE 2491 2527	left ventricle (LV) slightly dilated
+T4	DISEASE 2695 2715	mitral regurgitation
+T35	DISEASE 2717 2743	Mobile thrombus in LV apex
+T36	DISEASE 2805 2827	coronary calcification
+T5	DISEASE 2829 2857	Coronary disease of 1 vessel
+T6	DISEASE 2915 2943	Anterior descending occluded
+T7	DISEASE 3140 3165	haematoma of the anterior
+T38	DISEASE 4068 4076	thrombus
+T8	DISEASE 4161 4194	Left atrium (LA) slightly dilated
+T44	DISEASE 4330 4347	ischaemic lesions
+T9	DISEASE 4438 4484	ischaemic lesions in the posterior circulation
+T10	DISEASE 4618 4628	dilated LV
+T46	DISEASE 4783 4829	Moderate left ventricular systolic dysfunction
+T11	DISEASE 4897 4910	LA dilatation
+T57	DISEASE 4912 4948	Protomesystolic mitral regurgitation
+T39	DISEASE 5064 5072	thrombus
+T47	DISEASE 5154 5162	aneurysm
+T40	DISEASE 5238 5246	thrombus
+T12	DISEASE 5326 5357	left hemispheric embolic stroke
+T49	DISEASE 5451 5481	anterior myocardial infarction
+T13	DISEASE 5517 5579	mobile apical thrombus, due to spontaneous coronary dissection
+T14	DISEASE 6257 6288	Left hemispheric embolic stroke
+T15	DISEASE 6290 6338	Apical LV thrombus as a source of cardioembolism
+T51	DISEASE 6340 6363	Ischaemic heart disease
+T52	DISEASE 6365 6436	Anterior descending coronary artery occlusion due to spiroid dissection
+T50	DISEASE 6450 6480	anterior myocardial infarction
+T53	DISEASE 6482 6511	Apical aneurysm with thrombus
+T34	DISEASE 6513 6526	Heart failure

@@ -1,0 +1,50 @@
+T27	SYMPTOM 380 387	T1CN0MX
+T1	SYMPTOM 1293 1315	chest pain on exertion
+T2	SYMPTOM 1351 1367	chest discomfort
+T32	SYMPTOM 1379 1386	anxiety
+T3	SYMPTOM 1505 1527	good general condition
+T17	SYMPTOM 1529 1542	normal colour
+T4	SYMPTOM 1544 1557	normohydrated
+T5	SYMPTOM 1559 1574	eupneic at rest
+T6	SYMPTOM 1576 1585	conscious
+T7	SYMPTOM 1587 1595	oriented
+T40	SYMPTOM 1600 1611	cooperative
+T38	SYMPTOM 1621 1651	signs of neurological focality
+T8	SYMPTOM 1795 1803	afebrile
+T41	SYMPTOM 1805 1838	Cardiac auscultation was rhythmic
+T9	SYMPTOM 1847 1854	murmurs
+T10	SYMPTOM 1889 1915	preserved vesicular murmur
+T42	SYMPTOM 1924 1936	added sounds
+T37	SYMPTOM 1951 1967	congestive signs
+T11	SYMPTOM 1991 2043	radial pulses are palpable, rhythmic and symmetrical
+T43	SYMPTOM 2137 2161	Renal function preserved
+T34	SYMPTOM 2191 2212	electrolytes in range
+T12	SYMPTOM 2575 2584	Normal PR
+T13	SYMPTOM 2611 2621	Narrow QRS
+T14	SYMPTOM 2731 2779	cardiomediastinal silhouette without alterations
+T15	SYMPTOM 2781 2816	Hilar thickening of vascular origin
+T33	SYMPTOM 2830 2843	consolidation
+T28	SYMPTOM 3071 3105	left ventricle of normal diameters
+T24	SYMPTOM 3216 3254	alterations in segmental contractility
+T30	SYMPTOM 3256 3311	Non-dilated right ventricle with good systolic function
+T49	SYMPTOM 3357 3376	impaired relaxation
+T50	SYMPTOM 3425 3448	Aortic root not dilated
+T31	SYMPTOM 3450 3471	Trivalve aortic valve
+T16	SYMPTOM 3515 3544	Normal appearing mitral valve
+T29	SYMPTOM 3694 3730	good biventricular systolic function
+T48	SYMPTOM 3903 3989	maximum ST-segment depression of 1.5 mm horizontal in 5 leads (II, III, aVF and V5-V6)
+T18	SYMPTOM 4062 4072	chest pain
+T47	SYMPTOM 4323 4386	left main coronary artery (LMCA): no significant irregularities
+T46	SYMPTOM 4659 4725	Circumflex artery (ACx): Non-dominant, without significant lesions
+T36	SYMPTOM 4727 4764	Right coronary artery (RCA): dominant
+T45	SYMPTOM 5156 5180	Renal function preserved
+T35	SYMPTOM 5210 5231	electrolytes in range
+T39	SYMPTOM 5405 5451	Transaminases and cholestasis enzymes in range
+T20	SYMPTOM 5453 5469	CPK not elevated
+T44	SYMPTOM 5481 5526	Haemogram and coagulation without alterations
+T21	SYMPTOM 6314 6349	preserved left ventricular function
+T25	SYMPTOM 6369 6407	alterations in segmental contractility
+T19	SYMPTOM 6577 6587	chest pain
+T26	SYMPTOM 7709 7717	bleeding
+T22	SYMPTOM 7932 7944	asymptomatic
+T23	SYMPTOM 8323 8335	Asymptomatic

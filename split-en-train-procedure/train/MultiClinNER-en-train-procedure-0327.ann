@@ -1,0 +1,27 @@
+T4	PROCEDURE 181 219	blood and cerebrospinal fluid cultures
+T5	PROCEDURE 234 255	fluid therapy support
+T21	PROCEDURE 520 541	serial blood cultures
+T11	PROCEDURE 543 556	urine culture
+T13	PROCEDURE 558 569	chest X-ray
+T14	PROCEDURE 571 591	abdominal ultrasound
+T15	PROCEDURE 596 611	cranial CT scan
+T3	PROCEDURE 801 839	right subclavian central venous access
+T8	PROCEDURE 951 987	general and neurological examination
+T37	PROCEDURE 1006 1026	complete blood count
+T2	PROCEDURE 1028 1039	haemostasis
+T39	PROCEDURE 1041 1082	renal, hepatic, thyroid and lipid profile
+T41	PROCEDURE 1220 1325	Serology for hepatitis B and C virus, HIV, EBV, CMV, HSV types 1 and 2, Coxiella burnetti and Rickettsiae
+T42	PROCEDURE 1340 1418	autoimmunity with ANA, ANCA, rheumatoid factor, immunoglobulins and complement
+T22	PROCEDURE 1388 1403	immunoglobulins
+T9	PROCEDURE 1444 1451	Mantoux
+T10	PROCEDURE 1475 1528	blood cultures via central catheter, peripheral blood
+T49	PROCEDURE 1533 1547	urine cultures
+T20	PROCEDURE 1662 1678	smear microscopy
+T52	PROCEDURE 1683 1690	culture
+T16	PROCEDURE 1692 1710	Fundus examination
+T17	PROCEDURE 1712 1729	electrocardiogram
+T18	PROCEDURE 1731 1747	echocardiography
+T57	PROCEDURE 1752 1786	thoraco-abdominal CT with contrast
+T1	PROCEDURE 1807 1832	cranial MRI with contrast
+T19	PROCEDURE 2575 2581	PET-CT
+T7	PROCEDURE 3072 3075	MRI

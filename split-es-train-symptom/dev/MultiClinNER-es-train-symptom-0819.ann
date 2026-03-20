@@ -1,0 +1,78 @@
+T4	SYMPTOM 621 626	mareo
+T5	SYMPTOM 638 655	pérdida de visión
+T6	SYMPTOM 714 737	pérdida de conocimiento
+T7	SYMPTOM 789 813	relajación de esfínteres
+T8	SYMPTOM 818 844	movimientos tónicoclónicos
+T9	SYMPTOM 919 939	episodios sincopales
+T10	SYMPTOM 942 955	palpitaciones
+T11	SYMPTOM 985 1008	Adecuado estado general
+T12	SYMPTOM 1010 1037	Bien hidratado y perfundido
+T14	SYMPTOM 1060 1078	Eupneico en reposo
+T15	SYMPTOM 1197 1218	ingurgitación yugular
+T16	SYMPTOM 1236 1266	Auscultación cardiaca: rítmica
+T17	SYMPTOM 1291 1297	soplos
+T18	SYMPTOM 1301 1320	extratonos audibles
+T19	SYMPTOM 1345 1374	murmullo vesicular conservado
+T20	SYMPTOM 1376 1404	Abdomen: blando, no doloroso
+T21	SYMPTOM 1410 1415	masas
+T22	SYMPTOM 1420 1428	megalias
+T23	SYMPTOM 1430 1460	Miembros inferiores: no edemas
+T24	SYMPTOM 1525 1563	Pulsos distales presentes y simétricos
+T26	SYMPTOM 1624 1634	eje normal
+T27	SYMPTOM 1636 1644	PR corto
+T29	SYMPTOM 1672 1739	onda delta positiva en I, cara inferior y de V1-V6, negativa en avL
+T31	SYMPTOM 1742 1751	QRS ancho
+T33	SYMPTOM 1811 1853	alteraciones marcadas de la repolarización
+T34	SYMPTOM 1858 1883	infradesnivelación del ST
+T35	SYMPTOM 1951 1979	índice cardiotorácico normal
+T37	SYMPTOM 2049 2075	Parénquima pulmonar normal
+T38	SYMPTOM 2253 2267	iones normales
+T39	SYMPTOM 2351 2383	ventrículo izquierdo no dilatado
+T41	SYMPTOM 3052 3077	Aurícula izquierda normal
+T42	SYMPTOM 3079 3102	Aurícula derecha normal
+T43	SYMPTOM 3156 3191	Pericardio sin hallazgos relevantes
+T44	SYMPTOM 3207 3239	masas ni trombos intracavitarios
+T45	SYMPTOM 3460 3474	dolor torácico
+T46	SYMPTOM 3478 3484	disnea
+T47	SYMPTOM 3742 3775	alteraciones de la repolarización
+T48	SYMPTOM 3852 3885	alteraciones de la repolarización
+T49	SYMPTOM 4142 4144	RS
+T52	SYMPTOM 4609 4657	movilidad global y segmentaria están conservadas
+T53	SYMPTOM 4883 4963	profundas criptas localizadas en el punto de unión inferior de ambos ventrículos
+T54	SYMPTOM 5134 5175	movilidad global y segmentaria conservada
+T55	SYMPTOM 5226 5256	aurículas son de tamaño normal
+T56	SYMPTOM 5540 5572	Función biventricular conservada
+T58	SYMPTOM 5643 5662	taquicardia sinusal
+T59	SYMPTOM 5674 5684	eje normal
+T60	SYMPTOM 5697 5709	QRS estrecho
+T61	SYMPTOM 5711 5748	onda q no patológica en cara inferior
+T62	SYMPTOM 5800 5828	T negativas en cara inferior
+T63	SYMPTOM 5830 5840	QTc normal
+T64	SYMPTOM 5934 5951	episodio sincopal
+T65	SYMPTOM 5988 6001	ritmo sinusal
+T66	SYMPTOM 6006 6014	PR corto
+T67	SYMPTOM 6017 6087	onda delta marcada positiva en cara inferior y V1-V6 y negativa en aVL
+T69	SYMPTOM 6160 6222	analítica y radiografía de tórax compatibles con la normalidad
+T70	SYMPTOM 6270 6302	ventrículo izquierdo no dilatado
+T71	SYMPTOM 6463 6478	FEVI conservada
+T72	SYMPTOM 6480 6531	ventrículo derecho de morfología y función normales
+T74	SYMPTOM 7357 7399	función sistólica biventricular conservada
+T77	SYMPTOM 9121 9133	asintomático
+T78	SYMPTOM 9203 9216	ritmo sinusal
+T79	SYMPTOM 9274 9328	alteraciones marcadas en la repolarización ventricular
+T80	SYMPTOM 9774 9802	función sistólica conservada
+T1	SYMPTOM 1886 1927	ondas T negativas en II, III, aVF y V1-V6
+T2	SYMPTOM 2021 2047	Senos costofrénicos libres
+T30	SYMPTOM 2269 2318	Perfil hepatobiliar y hormonas tiroideas normales
+T32	SYMPTOM 2641 2675	FEVI en el límite de la normalidad
+T36	SYMPTOM 2972 3036	Ventrículo derecho de tamaño normal con función sistólica normal
+T40	SYMPTOM 3104 3135	Aorta torácica de tamaño normal
+T127	SYMPTOM 3626 3671	alteraciones secundarias de la repolarización
+T50	SYMPTOM 4230 4252	Ritmo nodal ocasional.
+T139	SYMPTOM 5051 5097	Ventrículo derecho no dilatado ni hipertrófico
+T82	SYMPTOM 9971 10033	Variante de significado incierto en el gen ACTC1 (p.Pro260Leu)
+T165	SYMPTOM 9413 9475	variante no descrita previamente en el gen ACTC1 (p.Pro260Leu)
+T3	SYMPTOM 2790 2815	patrón transmitral normal
+T184	SYMPTOM 2007 2019	condensación
+T73	SYMPTOM 7147 7217	criptas localizadas en el punto de unión inferior de ambos ventrículos
+T170	SYMPTOM 8030 8076	conducción anterógrada concéntrica decremental

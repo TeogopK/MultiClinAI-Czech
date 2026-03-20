@@ -1,0 +1,9 @@
+T10	PROCEDURE 212 228	Laboratory tests
+T4	PROCEDURE 264 284	physical examination
+T5	PROCEDURE 346 364	rectal examination
+T3	PROCEDURE 369 384	upper endoscopy
+T2	PROCEDURE 682 702	Radial echoendoscopy
+T6	PROCEDURE 1097 1121	echoendoscopic diagnosis
+T8	PROCEDURE 1341 1359	surgical treatment
+T7	PROCEDURE 1377 1416	resection and enucleation of the lesion
+T1	PROCEDURE 1418 1436	Histological study

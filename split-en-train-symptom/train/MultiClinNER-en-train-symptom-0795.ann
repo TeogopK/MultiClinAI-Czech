@@ -1,0 +1,57 @@
+T1	SYMPTOM 215 227	asymptomatic
+T3	SYMPTOM 280 291	diaphoresis
+T30	SYMPTOM 296 316	dysthermic sensation
+T31	SYMPTOM 355 374	alimentary vomiting
+T4	SYMPTOM 397 402	fever
+T6	SYMPTOM 406 420	abdominal pain
+T2	SYMPTOM 429 479	asymptomatic from the cardiovascular point of view
+T32	SYMPTOM 608 618	somnolence
+T7	SYMPTOM 620 631	Skin pallor
+T33	SYMPTOM 637 645	lividity
+T34	SYMPTOM 659 684	poor peripheral perfusion
+T8	SYMPTOM 686 706	Rhythmic heart tones
+T9	SYMPTOM 719 726	murmurs
+T10	SYMPTOM 756 782	preserved vesicular murmur
+T11	SYMPTOM 792 797	rales
+T35	SYMPTOM 803 874	abdomen at this time is depressible, with generalised pain on palpation
+T12	SYMPTOM 899 920	peritoneal irritation
+T36	SYMPTOM 925 956	oedema in the lower extremities
+T37	SYMPTOM 1129 1160	increased acute phase reactants
+T13	SYMPTOM 1205 1217	leukocytosis
+T14	SYMPTOM 1304 1319	sudden dyspnoea
+T15	SYMPTOM 1325 1353	significant respiratory work
+T38	SYMPTOM 1360 1405	slight decrease in the level of consciousness
+T39	SYMPTOM 1407 1417	somnolence
+T27	SYMPTOM 1507 1524	sinus tachycardia
+T16	SYMPTOM 1783 1797	poor perfusion
+T17	SYMPTOM 1904 1928	global hypocontractility
+T40	SYMPTOM 1934 1954	inferior hypokinesia
+T41	SYMPTOM 2348 2374	haemodynamic deterioration
+T18	SYMPTOM 2506 2517	tachycardia
+T42	SYMPTOM 3252 3268	paucisymptomatic
+T43	SYMPTOM 3270 3303	cardiac silhouette of normal size
+T20	SYMPTOM 3305 3330	free costophrenic sinuses
+T21	SYMPTOM 3332 3354	Normal lung parenchyma
+T22	SYMPTOM 3391 3400	Normal PR
+T23	SYMPTOM 3402 3412	Narrow QRS
+T19	SYMPTOM 3414 3445	QR pattern in DII, DIII and aVF
+T28	SYMPTOM 3451 3471	ST segment elevation
+T44	SYMPTOM 3483 3504	ST-segment depression
+T45	SYMPTOM 3559 3585	Flat ST-segment depression
+T46	SYMPTOM 3624 3674	LV systolic function at least moderately depressed
+T47	SYMPTOM 3678 3702	global hypocontractility
+T29	SYMPTOM 3707 3734	severe inferior hypokinesia
+T48	SYMPTOM 4247 4274	increased perihilar density
+T49	SYMPTOM 4280 4313	bilateral vascular redistribution
+T50	SYMPTOM 4488 4524	Blood cultures: Bacteroides vulgatus
+T24	SYMPTOM 4526 4549	Urine culture: negative
+T25	SYMPTOM 4551 4578	Tracheal aspirate: negative
+T26	SYMPTOM 4646 4670	haemodynamic instability
+T51	SYMPTOM 5550 5613	nasogastric tube was placed with a 1-litre fecal contents debit
+T52	SYMPTOM 5774 5804	preserved ventricular function
+T5	SYMPTOM 6107 6112	Fever
+T53	SYMPTOM 6285 6323	Bacteroides vulgatus in blood cultures
+T54	SYMPTOM 6716 6739	seropurulent free fluid
+T55	SYMPTOM 7084 7112	mild LV systolic dysfunction
+T56	SYMPTOM 7120 7140	inferior hypokinesia
+T57	SYMPTOM 7746 7775	Moderate systolic dysfunction

@@ -1,0 +1,15 @@
+T1	SYMPTOM 120 125	fever
+T11	SYMPTOM 127 142	general malaise
+T2	SYMPTOM 144 158	abdominal pain
+T3	SYMPTOM 160 166	nausea
+T14	SYMPTOM 171 187	vomiting of food
+T5	SYMPTOM 239 263	haemodynamic instability
+T6	SYMPTOM 282 299	sinus tachycardia
+T8	SYMPTOM 313 333	arterial hypotension
+T18	SYMPTOM 482 502	abdominal distension
+T19	SYMPTOM 511 534	diffuse painful abdomen
+T20	SYMPTOM 554 582	mass at the epigastric level
+T7	SYMPTOM 644 684	leukocytosis with significant left shift
+T4	SYMPTOM 686 700	hyperglycaemia
+T10	SYMPTOM 708 762	discrete elevation of both bilirubin and liver enzymes
+T9	SYMPTOM 1376 1393	purulent material

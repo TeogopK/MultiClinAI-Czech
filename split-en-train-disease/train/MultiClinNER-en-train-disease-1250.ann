@@ -1,0 +1,21 @@
+T19	DISEASE 121 142	respiratory infection
+T38	DISEASE 185 197	toxic habits
+T1	DISEASE 224 227	OSA
+T2	DISEASE 229 237	Cataract
+T21	DISEASE 411 444	lower respiratory tract infection
+T36	DISEASE 1078 1101	Left anterior hemiblock
+T37	DISEASE 1284 1310	bilateral pleural effusion
+T39	DISEASE 1409 1431	dilated left ventricle
+T22	DISEASE 1552 1572	aortic insufficiency
+T23	DISEASE 1732 1752	aortic insufficiency
+T27	DISEASE 1765 1785	mitral valve disease
+T28	DISEASE 1874 1897	tricuspid insufficiency
+T29	DISEASE 1928 1950	pulmonary hypertension
+T30	DISEASE 1985 1997	endocarditis
+T4	DISEASE 2485 2505	aortic regurgitation
+T5	DISEASE 2528 2615	severe aortic regurgitation due to severe prolapse (flail) of one of the valve leaflets
+T24	DISEASE 2724 2744	aortic insufficiency
+T31	DISEASE 2826 2853	severe aortic insufficiency
+T33	DISEASE 2949 2997	Heart failure triggered by respiratory infection
+T34	DISEASE 3017 3044	severe aortic valve disease
+T35	DISEASE 3046 3109	severe aortic insufficiency due to flail of one of the leaflets

@@ -1,0 +1,18 @@
+T49	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T46	PROCEDURE 228 244	dietary measures
+T47	PROCEDURE 525 546	right knee prosthesis
+T48	PROCEDURE 551 582	bilateral carpal tunnel surgery
+T50	PROCEDURE 1331 1351	PHYSICAL EXAMINATION
+T61	PROCEDURE 1352 1363	Vital signs
+T51	PROCEDURE 1420 1433	nasal goggles
+T52	PROCEDURE 1618 1638	Cardiac auscultation
+T53	PROCEDURE 1729 1751	Pulmonary auscultation
+T54	PROCEDURE 2177 2194	Electrocardiogram
+T55	PROCEDURE 2196 2199	ECG
+T57	PROCEDURE 2314 2330	Echocardiography
+T58	PROCEDURE 2962 2995	longitudinal deformation analysis
+T6	PROCEDURE 2997 3011	99mTc-DPD scan
+T4	PROCEDURE 3093 3119	Cardiac magnetic resonance
+T59	PROCEDURE 3245 3281	intravenous treatment with diuretics
+T60	PROCEDURE 3539 3553	oral diuretics
+T62	PROCEDURE 3937 3951	ECG monitoring

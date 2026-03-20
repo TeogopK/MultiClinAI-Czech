@@ -1,0 +1,45 @@
+T13	DISEASE 63 84	Arterial hypertension
+T14	DISEASE 72 84	hypertension
+T16	DISEASE 86 99	Dyslipidaemia
+T17	DISEASE 110 127	diabetes mellitus
+T18	DISEASE 129 160	Chronic ischaemic heart disease
+T35	DISEASE 137 160	ischaemic heart disease
+T33	DISEASE 162 189	Acute myocardial infarction
+T20	DISEASE 257 274	refractory angina
+T52	DISEASE 268 274	angina
+T21	DISEASE 722 736	pseudoaneurysm
+T22	DISEASE 794 808	pseudoaneurysm
+T27	DISEASE 1003 1025	intracavitary thrombus
+T44	DISEASE 1017 1025	thrombus
+T29	DISEASE 1091 1122	stage 3B chronic kidney disease
+T30	DISEASE 1143 1170	peripheral arterial disease
+T31	DISEASE 1172 1197	Alzheimer's type dementia
+T32	DISEASE 1486 1515	Moderate cognitive impairment
+T34	DISEASE 1562 1589	acute myocardial infarction
+T36	DISEASE 1673 1696	ischaemic heart disease
+T53	DISEASE 1715 1721	angina
+T38	DISEASE 2277 2297	deep vein thrombosis
+T39	DISEASE 2299 2302	DVT
+T23	DISEASE 3142 3156	pseudoaneurysm
+T40	DISEASE 3316 3324	aneurysm
+T41	DISEASE 3416 3438	Left atrial dilatation
+T42	DISEASE 3690 3718	systemic venous hypertension
+T15	DISEASE 3706 3718	hypertension
+T43	DISEASE 3966 3983	LV pseudoaneurysm
+T24	DISEASE 3969 3983	pseudoaneurysm
+T45	DISEASE 4234 4242	thrombus
+T48	DISEASE 4357 4387	Moderate-severe LV dysfunction
+T49	DISEASE 4400 4436	Mild aortic and mitral regurgitation
+T25	DISEASE 4577 4591	pseudoaneurysm
+T50	DISEASE 4776 4789	heart failure
+T51	DISEASE 4791 4814	ventricular arrhythmias
+T54	DISEASE 4832 4838	angina
+T55	DISEASE 5036 5061	intraventricular thrombus
+T46	DISEASE 5053 5061	thrombus
+T19	DISEASE 5471 5502	Chronic ischaemic heart disease
+T37	DISEASE 5479 5502	ischaemic heart disease
+T56	DISEASE 5612 5638	ventricular pseudoaneurysm
+T26	DISEASE 5624 5638	pseudoaneurysm
+T28	DISEASE 5644 5666	intracavitary thrombus
+T47	DISEASE 5658 5666	thrombus
+T57	DISEASE 5674 5706	Moderate ventricular dysfunction

@@ -1,0 +1,30 @@
+T1	DISEASE 160 170	infarction
+T21	DISEASE 206 229	ischaemic heart disease
+T36	DISEASE 261 270	allergies
+T23	DISEASE 275 287	toxic habits
+T24	DISEASE 292 313	arterial hypertension
+T2	DISEASE 315 318	AHT
+T25	DISEASE 323 340	diabetes mellitus
+T26	DISEASE 342 344	DM
+T27	DISEASE 347 354	Obesity
+T3	DISEASE 448 469	Hypercholesterolaemia
+T30	DISEASE 762 835	acute myocardial infarction with ST elevation (STEMI) of lateral location
+T4	DISEASE 809 814	STEMI
+T34	DISEASE 868 954	single-vessel coronary artery disease, with thrombotic occlusion of the first diagonal
+T6	DISEASE 1048 1110	intermediate stenosis in the middle anterior descending artery
+T31	DISEASE 1556 1583	acute myocardial infarction
+T7	DISEASE 1585 1589	AMI]
+T10	DISEASE 2807 2818	corneal arc
+T37	DISEASE 2823 2839	tendon xanthomas
+T11	DISEASE 3003 3016	visceromegaly
+T13	DISEASE 3121 3163	thrombotic occlusion of the first diagonal
+T14	DISEASE 3277 3337	Intermediate lesion in the middle anterior descending artery
+T32	DISEASE 4066 4072	angina
+T17	DISEASE 4349 4372	coronary artery disease
+T28	DISEASE 4427 4447	hypercholesterolemia
+T16	DISEASE 4488 4491	AMI
+T33	DISEASE 5959 5990	Chronic ischaemic heart disease
+T20	DISEASE 5992 5995	AMI
+T35	DISEASE 6005 6042	single-vessel coronary artery disease
+T19	DISEASE 6093 6128	Moderate stenosis in the middle LAD
+T29	DISEASE 6202 6222	Hypercholesterolemia

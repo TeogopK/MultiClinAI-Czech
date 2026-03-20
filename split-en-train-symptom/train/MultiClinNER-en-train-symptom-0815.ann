@@ -1,0 +1,52 @@
+T1	SYMPTOM 847 862	chest tightness
+T39	SYMPTOM 867 891	sudden onset of dyspnoea
+T2	SYMPTOM 916 935	inspiratory stridor
+T34	SYMPTOM 1081 1101	respiratory symptoms
+T3	SYMPTOM 1125 1166	precordial pressure radiating to the neck
+T4	SYMPTOM 1462 1466	pain
+T5	SYMPTOM 1505 1509	pain
+T9	SYMPTOM 1520 1540	ST-segment elevation
+T40	SYMPTOM 1678 1700	no significant lesions
+T6	SYMPTOM 1752 1756	pain
+T10	SYMPTOM 1758 1781	haemodynamically stable
+T11	SYMPTOM 1871 1897	Well perfused and hydrated
+T12	SYMPTOM 1899 1906	Eupneic
+T13	SYMPTOM 1926 1947	jugular ingurgitation
+T14	SYMPTOM 1975 2005	Cardiac auscultation: rhythmic
+T15	SYMPTOM 2010 2017	murmurs
+T16	SYMPTOM 2021 2031	extratonos
+T17	SYMPTOM 2057 2084	mild global hypoventilation
+T41	SYMPTOM 2089 2118	scattered expiratory wheezing
+T18	SYMPTOM 2120 2146	Abdomen: soft, depressible
+T43	SYMPTOM 2174 2204	Renal fist-percussion negative
+T19	SYMPTOM 2206 2234	Lower extremities: no oedema
+T42	SYMPTOM 2256 2283	symmetrical palpable pulses
+T7	SYMPTOM 2330 2334	pain
+T20	SYMPTOM 2337 2349	sinus rhythm
+T36	SYMPTOM 2361 2372	normal axis
+T22	SYMPTOM 2443 2552	cardiomediastinal silhouette, costophrenic sinuses, lung fields and bone skeleton studied without alterations
+T32	SYMPTOM 2950 2967	normal complement
+T44	SYMPTOM 3080 3127	Catheterisation: trunk: no significant stenosis
+T45	SYMPTOM 3129 3173	Anterior descending: no significant stenosis
+T46	SYMPTOM 3175 3210	Circumflex: no significant stenosis
+T38	SYMPTOM 3212 3236	Right coronary: dominant
+T21	SYMPTOM 3281 3293	sinus rhythm
+T47	SYMPTOM 3336 3362	repolarisation alterations
+T23	SYMPTOM 3407 3436	left ventricle of normal size
+T48	SYMPTOM 3442 3486	left ventricular wall shows normal thickness
+T24	SYMPTOM 3488 3532	Left ventricular systolic function is normal
+T49	SYMPTOM 3543 3581	Left ventricular wall motion is normal
+T25	SYMPTOM 3587 3646	right ventricle is normal with respect to size and function
+T33	SYMPTOM 3648 3674	Left atrial size is normal
+T50	SYMPTOM 3680 3714	size of the right atrium is normal
+T26	SYMPTOM 3720 3768	mitral valve is normal in structure and function
+T51	SYMPTOM 3825 3855	Tricuspid valve appears normal
+T52	SYMPTOM 3908 3953	Aortic valve normal in structure and function
+T27	SYMPTOM 3967 3988	normal echocardiogram
+T35	SYMPTOM 4564 4584	respiratory symptoms
+T30	SYMPTOM 4848 4902	altered tryptase serology and elevated immunoglobulins
+T28	SYMPTOM 4907 4919	eosinophilia
+T53	SYMPTOM 5044 5116	Allergic tests were positive for environmental factors, mites and pollen
+T37	SYMPTOM 5254 5265	hypokinesia
+T29	SYMPTOM 5469 5479	chest pain
+T31	SYMPTOM 5814 5825	hypotension

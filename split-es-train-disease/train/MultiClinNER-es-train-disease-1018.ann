@@ -1,0 +1,61 @@
+T104	DISEASE 89 97	alergias
+T105	DISEASE 151 166	hábitos tóxicos
+T106	DISEASE 168 199	Neumonía bilateral por COVID-19
+T107	DISEASE 369 383	fractura de L2
+T108	DISEASE 972 989	neumonía COVID-19
+T109	DISEASE 1122 1133	fractura L2
+T110	DISEASE 1737 1744	ascitis
+T111	DISEASE 1845 1870	trombosis venosa profunda
+T112	DISEASE 1872 1875	TVP
+T114	DISEASE 2996 3018	Bronquiectasias en LII
+T115	DISEASE 3441 3466	derrame pericárdico grave
+T116	DISEASE 3904 3919	derrame pleural
+T118	DISEASE 4281 4294	valvulopatías
+T119	DISEASE 4323 4335	endocarditis
+T120	DISEASE 4337 4365	Derrame pericárdico moderado
+T121	DISEASE 5115 5140	Derrame pleural bilateral
+T122	DISEASE 5292 5304	endocarditis
+T123	DISEASE 5306 5325	Derrame pericárdico
+T124	DISEASE 5467 5486	derrame pericárdico
+T125	DISEASE 5561 5573	pericarditis
+T126	DISEASE 5585 5615	insuficiencia cardiaca derecha
+T127	DISEASE 5620 5637	hígado congestivo
+T128	DISEASE 5640 5655	edema vesicular
+T129	DISEASE 5657 5682	Derrame pleural bilateral
+T130	DISEASE 5687 5727	atelectasia pasiva de lóbulos inferiores
+T131	DISEASE 5841 5864	espondilodiscitis L2-L3
+T132	DISEASE 5859 5890	L2-L3 o fractura por compresión
+T133	DISEASE 5938 5971	artritis séptica de ambos hombros
+T134	DISEASE 6008 6042	espondilodiscitis infecciosa L2-L3
+T135	DISEASE 6785 6807	insuficiencia cardiaca
+T136	DISEASE 7118 7143	derrame pericárdico grave
+T137	DISEASE 7303 7325	pericarditis purulenta
+T138	DISEASE 7759 7771	endocarditis
+T139	DISEASE 7800 7807	derrame
+T140	DISEASE 7880 7913	pericarditis efusivo-constrictiva
+T141	DISEASE 8078 8092	focos sépticos
+T142	DISEASE 8250 8283	artritis séptica en ambos hombros
+T143	DISEASE 8285 8311	espondilodiscitis en L2-L3
+T144	DISEASE 8324 8353	abscesos en psoas bilaterales
+T145	DISEASE 8386 8415	lesión en extremidad inferior
+T146	DISEASE 8441 8450	celulitis
+T147	DISEASE 8557 8582	abscesos en músculo psoas
+T148	DISEASE 8682 8701	derrame pericárdico
+T149	DISEASE 8837 8854	focos infecciosos
+T150	DISEASE 9305 9325	Bacteriemia por SAMS
+T151	DISEASE 9359 9381	pericarditis purulenta
+T152	DISEASE 9383 9410	abscesos múltiples en psoas
+T153	DISEASE 9412 9429	espondilodiscitis
+T154	DISEASE 9431 9440	celulitis
+T155	DISEASE 9442 9478	artritis séptica de hombro bilateral
+T156	DISEASE 9481 9514	Pericarditis efusivo-constrictiva
+T21	DISEASE 2007 2039	Cicatriz de venoclisis en muñeca
+T74	DISEASE 3047 3070	decompensación cardiaca
+T75	DISEASE 3074 3100	consolidaciones neumónicas
+T157	DISEASE 3610 3637	colapso de aurícula derecha
+T158	DISEASE 3645 3678	vena cava inferior (VCI) dilatada
+T163	DISEASE 4804 4821	dilatación de VCI
+T39	DISEASE 5217 5230	valvulopatías
+T165	DISEASE 5729 5771	Abscesos múltiples en ambos músculos psoas
+T166	DISEASE 5773 5829	Erosión del platillo superior del cuerpo vertebral de L3
+T168	DISEASE 6225 6248	Abscesos en ambos psoas

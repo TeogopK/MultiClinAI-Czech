@@ -1,0 +1,28 @@
+T1	SYMPTOM 31 37	disnea
+T2	SYMPTOM 40 46	fiebre
+T4	SYMPTOM 843 875	funciones superiores conservadas
+T5	SYMPTOM 972 978	Disnea
+T6	SYMPTOM 1018 1034	disnea de reposo
+T7	SYMPTOM 1057 1068	pico febril
+T8	SYMPTOM 1087 1102	dolor en cadera
+T9	SYMPTOM 1237 1246	Taquipnea
+T10	SYMPTOM 1300 1314	normocoloreada
+T11	SYMPTOM 1320 1355	buena hidratación de piel y mucosas
+T12	SYMPTOM 1389 1407	corazón es rítmico
+T13	SYMPTOM 1413 1440	soplo sistólico foco mitral
+T14	SYMPTOM 1483 1524	crepitantes en campos medios e inferiores
+T15	SYMPTOM 1527 1548	sibilancias dispersas
+T16	SYMPTOM 1553 1630	abdomen es blando y depresible, sin dolor a la palpación con ruidos presentes
+T18	SYMPTOM 1636 1679	extremidades inferiores no presentan edemas
+T19	SYMPTOM 1686 1736	pulsos pedios se encuentran presentes y simétricos
+T20	SYMPTOM 2237 2299	ventrículo izquierdo no se encuentra dilatado, ni hipertrófico
+T21	SYMPTOM 2305 2335	buena función sistólica global
+T22	SYMPTOM 2833 2871	ventrículo derecho no se está dilatado
+T23	SYMPTOM 3854 3881	hemodinámicamente inestable
+T24	SYMPTOM 4511 4519	oliguria
+T86	SYMPTOM 603 677	Hemocultivos durante dicho ingreso, positivos para Lactobacillus rhamnosus
+T109	SYMPTOM 3920 3939	taquicardia sinusal
+T130	SYMPTOM 2954 2980	red coronaria sin lesiones
+T132	SYMPTOM 4526 4598	livideces crecientes en pabellones auriculares y extremidades inferiores
+T3	SYMPTOM 1821 1876	silueta cardiaca en el límite superior de la normalidad
+T17	SYMPTOM 2576 2622	válvula aórtica presenta una imagen en el TSVI

@@ -1,0 +1,24 @@
+T10	DISEASE 2584 2628	encefalopatía lenta difusa de grado moderado
+T22	DISEASE 3989 4000	encefalitis
+T29	DISEASE 4016 4024	teratoma
+T31	DISEASE 3655 3675	encefalopatía difusa
+T32	DISEASE 1954 1973	depresión psicótica
+T36	DISEASE 3689 3711	enfermedad por priones
+T41	DISEASE 1570 1608	convulsión tónico-clónica generalizada
+T50	DISEASE 1660 1678	encefalitis vírica
+T63	DISEASE 3093 3120	porfiria aguda intermitente
+T66	DISEASE 3136 3160	crisis tónicas complejas
+T67	DISEASE 4470 4523	encefalitis contra los receptores N-metil-D-aspartato
+T70	DISEASE 4525 4533	ECR-NMDA
+T71	DISEASE 4537 4588	trastorno psicótico secundario a patología orgánica
+T74	DISEASE 4590 4598	ECR-NMDA
+T75	DISEASE 809 825	cuadro depresivo
+T65	DISEASE 1104 1127	enfermedad psiquiátrica
+T76	DISEASE 2973 2982	distonías
+T78	DISEASE 2073 2080	Sífilis
+T79	DISEASE 2082 2095	Toxoplasmosis
+T1	DISEASE 103 119	abuso de tóxicos
+T2	DISEASE 68 100	patología orgánica, psiquiátrica
+T80	DISEASE 3541 3560	mioclonías faciales
+#1	AnnotatorNotes T70	  ECR-NMDA: encefalitis contra los receptores N-metil-D-aspartato
+#2	AnnotatorNotes T74	  ECR-NMDA: encefalitis contra los receptores N-metil-D-aspartato

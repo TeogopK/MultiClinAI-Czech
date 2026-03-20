@@ -1,0 +1,36 @@
+T1	SYMPTOM 21 35	dolor torácico
+T2	SYMPTOM 93 110	dolor epigástrico
+T3	SYMPTOM 208 215	vómitos
+T4	SYMPTOM 217 227	sudoración
+T5	SYMPTOM 230 243	palpitaciones
+T6	SYMPTOM 516 528	asintomático
+T8	SYMPTOM 1099 1110	Conscicente
+T9	SYMPTOM 1112 1121	orientado
+T10	SYMPTOM 1124 1135	colaborador
+T11	SYMPTOM 1137 1151	Normohidratado
+T12	SYMPTOM 1153 1167	normocoloreado
+T13	SYMPTOM 1187 1204	Rubicundez facial
+T14	SYMPTOM 1226 1254	ingurgitación venosa yugular
+T15	SYMPTOM 1256 1287	Carótidas rítmicas y simétricas
+T16	SYMPTOM 1292 1298	soplos
+T17	SYMPTOM 1332 1344	taquicárdica
+T18	SYMPTOM 1362 1368	soplos
+T19	SYMPTOM 1372 1392	ruidos sobreañadidos
+T20	SYMPTOM 1417 1446	Murmullo vesicular conservado
+T21	SYMPTOM 1448 1502	Extremidades inferiores: Pulsos presentes y simétricos
+T22	SYMPTOM 1508 1513	edema
+T23	SYMPTOM 1644 1662	Coagulación normal
+T26	SYMPTOM 3346 3360	dolor torácico
+T27	SYMPTOM 3634 3646	asintomático
+T28	SYMPTOM 4002 4014	asintomático
+T29	SYMPTOM 4308 4320	asintomático
+T78	SYMPTOM 3328 3340	Asintomático
+T79	SYMPTOM 1300 1330	Auscultación cardiaca: Rítmica
+T7	SYMPTOM 1170 1185	normoperfundido
+T25	SYMPTOM 2162 2186	hipocinesia generalizada
+T82	SYMPTOM 2903 2934	Anticoagulante lúpico: Negativo
+T88	SYMPTOM 2035 2090	Fracción de eyección de ventrículo izquierdo conservada
+T92	SYMPTOM 1990 2034	Ventrículo izquierdo de dimensiones normales
+T93	SYMPTOM 2234 2277	depresión ligera de la fracción de eyección
+T95	SYMPTOM 3649 3656	estable
+T96	SYMPTOM 2677 2728	arteria con flujo TIMI III y sin estenosis residual

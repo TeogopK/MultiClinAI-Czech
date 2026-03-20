@@ -1,0 +1,49 @@
+T2	SYMPTOM 800 813	afasia motora
+T3	SYMPTOM 816 825	disartria
+T4	SYMPTOM 1451 1458	Afebril
+T5	SYMPTOM 1460 1490	Auscultación cardiaca: rítmica
+T6	SYMPTOM 1495 1501	soplos
+T7	SYMPTOM 1544 1559	Abdomen anodino
+T8	SYMPTOM 1561 1595	Extremidades inferiores sin edemas
+T9	SYMPTOM 1652 1688	Pulsos pedios presentes y simétricos
+T10	SYMPTOM 1715 1749	pupilas isocóricas normorreactivas
+T11	SYMPTOM 1751 1775	Pares craneales normales
+T12	SYMPTOM 1777 1790	Afasia motora
+T13	SYMPTOM 1795 1809	disartria leve
+T14	SYMPTOM 1811 1857	Fuerza y sensibilidad conservadas y simétricas
+T15	SYMPTOM 1863 1889	alteraciones campimétricas
+T16	SYMPTOM 1891 1901	dismetrías
+T17	SYMPTOM 1904 1929	alteraciones de la marcha
+T18	SYMPTOM 1961 1974	ritmo sinusal
+T19	SYMPTOM 2076 2121	índice cardiotorácico dentro de la normalidad
+T20	SYMPTOM 2123 2159	campos pulmonares sin condensaciones
+T21	SYMPTOM 2291 2345	Función tiroidea, vitamina B12 y ácido fólico normales
+T22	SYMPTOM 2421 2442	Serologías: negativas
+T23	SYMPTOM 2444 2471	Tóxicos en orina: negativos
+T24	SYMPTOM 2615 2652	ventrículo izquierdo (VI) no dilatado
+T27	SYMPTOM 2760 2787	Cavidades derechas normales
+T28	SYMPTOM 2789 2837	contractilidad de ventrículo derecho (VD) normal
+T30	SYMPTOM 3625 3653	septo interauricular íntegro
+T32	SYMPTOM 3692 3753	Válvula mitral: velos finos, movilidad y apertura conservadas
+T35	SYMPTOM 4732 4760	masa en velo anterior mitral
+T122	SYMPTOM 2670 2717	función sistólica global y segmentaria normales
+T1	SYMPTOM 1516 1542	pulmonar: normoventilación
+T113	SYMPTOM 2019 2052	alteraciones de la repolarización
+T25	SYMPTOM 3070 3106	Vena cava inferior (VCI) no dilatada
+T26	SYMPTOM 3144 3193	Presión arterial pulmonar sistólica (PAPS) normal
+T33	SYMPTOM 4410 4446	aorta ascendente de dimensión normal
+T61	SYMPTOM 4448 4490	válvula aórtica trivalva, normofuncionante
+T133	SYMPTOM 2979 3004	Válvula aórtica: trivalva
+T135	SYMPTOM 4591 4610	clínica neurológica
+T136	SYMPTOM 4068 4103	coronariografía: dominancia derecha
+T142	SYMPTOM 763 784	focalidad neurológica
+T143	SYMPTOM 2855 2923	sobre borde libre de valva anterior mitral se aprecia imagen nodular
+T144	SYMPTOM 3284 3298	imagen nodular
+T34	SYMPTOM 363 550	monitorización electrocardiograma [ECG], Doppler de troncos supraaórticos, ecocardiografía transtorácico (ETT) con test de burbujas, estudio de coagulopatía) compatibles con la normalidad
+T57	SYMPTOM 2484 2608	TROMBOFILIA: heterocigoto para el polimorfismo C677T, normal para mutaciones del factor V Leyden y de la protrombina G20210A
+T29	SYMPTOM 3755 3832	Sobre cara auricular de velo anterior mitral (festón A1-A2) se visualiza masa
+T43	SYMPTOM 4105 4165	Tronco coronario izquierdo (TCI): buen calibre, sin lesiones
+T114	SYMPTOM 4378 4395	CD: sin estenosis
+T115	SYMPTOM 4327 4376	Bisectriz: larga y de buen calibre, sin estenosis
+T116	SYMPTOM 4274 4325	Circunfleja (Cx): moderado desarrollo, sin lesiones
+T117	SYMPTOM 4167 4212	Arteria descente anterios (DA): sin estenosis

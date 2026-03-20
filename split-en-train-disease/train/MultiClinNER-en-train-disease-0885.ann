@@ -1,0 +1,43 @@
+T23	DISEASE 60 73	heart failure
+T4	DISEASE 60 127	heart failure with reduced ejection fraction of ischaemic aetiology
+T6	DISEASE 402 414	hypertension
+T7	DISEASE 419 432	dyslipidaemia
+T8	DISEASE 437 449	toxic habits
+T35	DISEASE 451 480	Permanent atrial fibrillation
+T17	DISEASE 461 480	atrial fibrillation
+T24	DISEASE 521 534	Heart failure
+T5	DISEASE 521 588	Heart failure with reduced ejection fraction of ischaemic aetiology
+T9	DISEASE 665 685	three-vessel disease
+T10	DISEASE 690 720	severe ventricular dysfunction
+T1	DISEASE 952 983	severely dilated left ventricle
+T11	DISEASE 989 1016	severe systolic dysfunction
+T29	DISEASE 1145 1165	mitral insufficiency
+T2	DISEASE 1271 1302	Severe dilatation of both atria
+T12	DISEASE 1304 1328	Moderate aortic stenosis
+T14	DISEASE 1443 1470	Peripheral arterial disease
+T15	DISEASE 1528 1542	Hyperuricaemia
+T16	DISEASE 2242 2253	hypotension
+T18	DISEASE 2827 2846	atrial fibrillation
+T3	DISEASE 2916 2928	cardiomegaly
+T30	DISEASE 3786 3806	mitral insufficiency
+T21	DISEASE 3835 3868	Thrombus in left atrial appendage
+T42	DISEASE 3870 3881	Moderate IT
+T37	DISEASE 3879 3881	IT
+T13	DISEASE 3893 3917	Moderate aortic stenosis
+T38	DISEASE 3935 3937	IT
+T25	DISEASE 4216 4229	heart failure
+T27	DISEASE 4386 4395	severe MI
+T28	DISEASE 4774 4789	iron deficiency
+T39	DISEASE 4801 4803	it
+T40	DISEASE 5213 5215	it
+T31	DISEASE 5797 5817	mitral insufficiency
+T32	DISEASE 6072 6084	anaemisation
+T41	DISEASE 6203 6205	It
+T33	DISEASE 6282 6289	anaemia
+T26	DISEASE 6408 6421	Heart failure
+T34	DISEASE 6408 6460	Heart failure with reduced EF of ischaemic aetiology
+T20	DISEASE 6520 6557	Severe ischaemic mitral regurgitation
+T43	DISEASE 6603 6613	Ferropenia
+T36	DISEASE 6646 6675	Permanent atrial fibrillation
+T19	DISEASE 6656 6675	atrial fibrillation
+T22	DISEASE 6677 6710	Thrombus in left atrial appendage

@@ -1,0 +1,17 @@
+T20	DISEASE 271 280	allergies
+T34	DISEASE 282 294	Toxic habits
+T21	DISEASE 296 302	smoker
+T22	DISEASE 333 345	pneumothorax
+T23	DISEASE 456 469	moderate COPD
+T24	DISEASE 474 495	respiratory infection
+T25	DISEASE 1684 1701	sinus tachycardia
+T27	DISEASE 2337 2360	endocardial vegetations
+T28	DISEASE 2770 2790	pericardial effusion
+T30	DISEASE 3087 3100	heart failure
+T26	DISEASE 3805 3822	sinus tachycardia
+T32	DISEASE 3899 3931	severe biventricular dysfunction
+T29	DISEASE 3962 3982	pericardial effusion
+T33	DISEASE 4648 4695	cardiogenic shock with peripheral hypoperfusion
+T35	DISEASE 4671 4695	peripheral hypoperfusion
+T36	DISEASE 5030 5054	peripheral hypoperfusion
+T31	DISEASE 5433 5446	heart failure

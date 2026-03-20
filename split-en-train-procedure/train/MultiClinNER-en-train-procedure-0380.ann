@@ -1,0 +1,17 @@
+T13	PROCEDURE 254 272	examination the VA
+T6	PROCEDURE 383 417	biomicroscopy of the anterior pole
+T7	PROCEDURE 430 444	Ophthalmoscopy
+T8	PROCEDURE 559 582	fluorescein angiography
+T14	PROCEDURE 584 587	FAG
+T9	PROCEDURE 716 745	Indocyanine green angiography
+T10	PROCEDURE 747 750	ICG
+T11	PROCEDURE 917 945	Optical coherence tomography
+T12	PROCEDURE 1024 1053	Oral corticosteroid treatment
+T3	PROCEDURE 1191 1215	corticosteroid treatment
+T20	PROCEDURE 1377 1415	nuclear magnetic resonance angiography
+T21	PROCEDURE 1417 1421	NMRA
+T1	PROCEDURE 1487 1511	histocompatibility study
+T22	PROCEDURE 1697 1708	Examination
+T5	PROCEDURE 1843 1862	Hess-Lancaster test
+T23	PROCEDURE 1867 1942	injection of botulinum toxin was made in the medial rectus of the right eye
+T4	PROCEDURE 2086 2089	OCT

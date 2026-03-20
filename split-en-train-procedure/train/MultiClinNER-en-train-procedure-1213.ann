@@ -1,0 +1,15 @@
+T21	PROCEDURE 404 415	Blood tests
+T22	PROCEDURE 649 660	blood count
+T31	PROCEDURE 662 674	biochemistry
+T30	PROCEDURE 679 690	coagulation
+T23	PROCEDURE 823 840	electrocardiogram
+T4	PROCEDURE 899 922	Chest and spine X-rays,
+T5	PROCEDURE 923 967	abdominal ultrasound and computed tomography
+T24	PROCEDURE 981 997	Echocardiography
+T26	PROCEDURE 1065 1079	Blood cultures
+T27	PROCEDURE 1520 1532	chest X-rays
+T25	PROCEDURE 1603 1619	echocardiography
+T6	PROCEDURE 1748 1782	intensive treatment with diuretics
+T28	PROCEDURE 1784 1796	vasodilators
+T7	PROCEDURE 1798 1815	synotropic agents
+T29	PROCEDURE 1944 1981	implantation of a temporary pacemaker

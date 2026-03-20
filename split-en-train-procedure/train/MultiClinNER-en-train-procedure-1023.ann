@@ -1,0 +1,25 @@
+T57	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T50	PROCEDURE 444 474	Transthoracic echocardiography
+T53	PROCEDURE 732 755	Cardiac catheterisation
+T54	PROCEDURE 1039 1070	Stress test with O2 consumption
+T1	PROCEDURE 1194 1228	Cardiac magnetic resonance imaging
+T55	PROCEDURE 1230 1233	MRI
+T2	PROCEDURE 1374 1400	O2 consumption stress test
+T51	PROCEDURE 1523 1553	Transthoracic echocardiography
+T3	PROCEDURE 1693 1778	resynchronising defibrillator (ICD-CRT [cardiac resynchronisation therapy]) implanted
+T56	PROCEDURE 1733 1766	cardiac resynchronisation therapy
+T58	PROCEDURE 2576 2596	PHYSICAL EXAMINATION
+T59	PROCEDURE 2748 2768	Cardiac auscultation
+T60	PROCEDURE 2813 2835	Pulmonary auscultation
+T4	PROCEDURE 2976 2984	ANALYSIS
+T5	PROCEDURE 3380 3433	THORAX RADIOGRAPHY: standing upright, posteroanterior
+T61	PROCEDURE 3528 3545	ELECTROCARDIOGRAM
+T62	PROCEDURE 3547 3550	ECG
+T6	PROCEDURE 3553 3600	pacemaker rhythm with biventricular stimulation
+T52	PROCEDURE 3637 3667	Transthoracic echocardiography
+T7	PROCEDURE 4138 4172	administer a pulse of levosimendan
+T63	PROCEDURE 4176 4202	positive inotropic support
+T64	PROCEDURE 4355 4371	diuretic support
+T65	PROCEDURE 4437 4484	resynchronisation therapy of the ICD-CRT device
+T8	PROCEDURE 4935 4964	analysis of the iron deposits
+T9	PROCEDURE 5116 5160	correction of the functional iron deficiency

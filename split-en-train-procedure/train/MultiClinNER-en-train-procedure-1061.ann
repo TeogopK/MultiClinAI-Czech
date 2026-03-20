@@ -1,0 +1,26 @@
+T50	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 258 272	anticoagulated
+T54	PROCEDURE 460 464	CPAP
+T51	PROCEDURE 1169 1189	Physical examination
+T55	PROCEDURE 1347 1360	nasal goggles
+T56	PROCEDURE 1470 1490	Cardiac auscultation
+T57	PROCEDURE 1515 1537	Pulmonary auscultation
+T58	PROCEDURE 1765 1768	ECG
+T59	PROCEDURE 1835 1839	AXIS
+T75	PROCEDURE 2187 2218	Biomarkers of myocardial damage
+T60	PROCEDURE 2331 2351	RT-PCR for SARS-CoV2
+T61	PROCEDURE 2363 2378	Iron metabolism
+T62	PROCEDURE 2410 2421	Chest X-ray
+T63	PROCEDURE 2628 2643	Echocardiograms
+T64	PROCEDURE 2645 2659	Echocardiogram
+T65	PROCEDURE 3324 3340	echocardiography
+T68	PROCEDURE 3818 3831	Haemodynamics
+T69	PROCEDURE 3833 3853	coronary angiography
+T71	PROCEDURE 4203 4235	transesophageal echocardiography
+T66	PROCEDURE 4219 4235	echocardiography
+T72	PROCEDURE 4256 4281	electrical cardioversions
+T70	PROCEDURE 4298 4318	Coronary angiography
+T73	PROCEDURE 4423 4444	intravenous diuretics
+T74	PROCEDURE 4446 4483	ferrotherapy with iron carboxymaltose
+T52	PROCEDURE 5592 5612	Physical examination
+T67	PROCEDURE 5770 5786	Echocardiography

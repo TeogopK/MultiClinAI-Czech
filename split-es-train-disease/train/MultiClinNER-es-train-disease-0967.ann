@@ -1,0 +1,30 @@
+T26	DISEASE 112 124	dextrocardia
+T27	DISEASE 190 197	fumador
+T28	DISEASE 199 215	bebedor moderado
+T30	DISEASE 1607 1634	Extrasístoles ventriculares
+T31	DISEASE 1837 1924	Ventrículo izquierdo (VI) de diámetro normal con hipertrofia septal asimétrica moderada
+T32	DISEASE 2044 2075	Disfunción sistólica de VI leve
+T33	DISEASE 2068 2109	VI leve (FE 55 %) y disfunción diastólica
+T34	DISEASE 2591 2593	MS
+T35	DISEASE 2732 2759	miocardiopatía hipertrófica
+T36	DISEASE 2795 2797	MS
+T37	DISEASE 3132 3159	miocardiopatía hipertrófica
+T38	DISEASE 3407 3452	VI con hipertrofia septal asimétrica moderada
+T39	DISEASE 3601 3667	Miocardiopatía hipertrófica (MCH) septal asimétrica no obstructiva
+T40	DISEASE 3696 3698	MS
+T41	DISEASE 3711 3733	Síncopes de repetición
+T42	DISEASE 3747 3783	taquicardia ventricular no sostenida
+T43	DISEASE 3785 3789	TVNS
+T44	DISEASE 170 185	Hábitos tóxicos
+T45	DISEASE 1682 1718	taquicardia ventricular no sostenida
+T46	DISEASE 2952 2954	MS
+T47	DISEASE 3110 3112	MS
+T1	DISEASE 1791 1835	aurícula izquierda (AI) ligeramente dilatada
+T24	DISEASE 3630 3633	MCH
+T65	DISEASE 1169 1181	dextrocardia
+#1	AnnotatorNotes T34	  Muerte súbita
+#2	AnnotatorNotes T36	  Muerte súbita
+#3	AnnotatorNotes T40	  Muerte súbita
+#4	AnnotatorNotes T46	  Muerte súbita
+#5	AnnotatorNotes T47	  Muerte súbita
+#6	AnnotatorNotes T24	miocardiopatía hipertrófica

@@ -1,0 +1,42 @@
+T68	PROCEDURE 235 250	revascularizada
+T70	PROCEDURE 335 385	mitral reumática con implante de prótesis mecánica
+T71	PROCEDURE 1002 1020	EXPLORACIÓN FÍSICA
+T72	PROCEDURE 1127 1148	Auscultación cardiaca
+T73	PROCEDURE 1233 1254	Auscultación pulmonar
+T74	PROCEDURE 1787 1805	ELECTROCARDIOGRAMA
+T75	PROCEDURE 1807 1810	ECG
+T76	PROCEDURE 1922 1951	Ecocardiografía transtorácica
+T77	PROCEDURE 2604 2634	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T78	PROCEDURE 2859 2879	CATETERISMO CARDIACO
+T79	PROCEDURE 3160 3215	intervención quirúrgica cardiaca, con cierre de la fuga
+T80	PROCEDURE 3218 3245	revascularización coronaria
+T81	PROCEDURE 3247 3277	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T82	PROCEDURE 3297 3318	reparación quirúrgica
+T83	PROCEDURE 3520 3540	CATETERISMO CARDIACO
+T84	PROCEDURE 3560 3645	cierre percutáneo de leak periprotésico con abordaje arterial transfemoral retrógrado
+T85	PROCEDURE 3647 3677	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T86	PROCEDURE 3840 3873	ECOCARDIOGRAFÍA TRANSESOFÁGICA 3D
+T87	PROCEDURE 4078 4108	ecocardiografía transesofágica
+T88	PROCEDURE 4205 4220	coronariografía
+T89	PROCEDURE 4296 4306	diuréticos
+T90	PROCEDURE 4370 4382	tripe bypass
+T91	PROCEDURE 4385 4430	cierre de la fuga con cuatro puntos de sutura
+T92	PROCEDURE 4465 4480	ecocardiografía
+T93	PROCEDURE 4652 4665	transfusiones
+T94	PROCEDURE 4681 4711	ecocardiografía transesofágica
+T95	PROCEDURE 4988 5004	cirugía cardiaca
+T96	PROCEDURE 5050 5136	cierre percutáneo del leak periprotésico con abordaje arterial transfemoral retrógrado
+T97	PROCEDURE 5149 5183	implante del dispositivo Amplatzer
+T98	PROCEDURE 5928 5940	toracostomía
+T99	PROCEDURE 5946 5960	punción apical
+T100	PROCEDURE 6114 6144	ecocardiografía transesofágica
+T101	PROCEDURE 6149 6179	ecocardiografía transesofágica
+T102	PROCEDURE 6513 6541	revascularización quirúrgica
+T103	PROCEDURE 6659 6698	Recambio valvular por prótesis mecánica
+T104	PROCEDURE 6783 6800	sutura quirúrgica
+T105	PROCEDURE 6803 6820	cierre percutáneo
+T116	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T117	PROCEDURE 6024 6144	Se implantó un dispositivo rectangular Occlutech PDL en la posición adecuada bajo guía de ecocardiografía transesofágica
+T119	PROCEDURE 1417 1426	ANALÍTICA
+T129	PROCEDURE 290 320	anticoagulado con acenocumarol
+T19	PROCEDURE 4326 4349	intervención quirúrgica

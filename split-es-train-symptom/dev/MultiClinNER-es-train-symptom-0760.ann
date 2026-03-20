@@ -1,0 +1,117 @@
+T1	SYMPTOM 448 461	palpitaciones
+T2	SYMPTOM 733 739	disnea
+T3	SYMPTOM 763 787	intolerancia al decúbito
+T4	SYMPTOM 789 797	oliguria
+T5	SYMPTOM 800 839	edemas ulcerados en miembros inferiores
+T6	SYMPTOM 905 912	Afebril
+T7	SYMPTOM 1007 1029	Regular estado general
+T8	SYMPTOM 1031 1041	colaborada
+T9	SYMPTOM 1044 1054	consciente
+T10	SYMPTOM 1056 1070	Normohidratada
+T11	SYMPTOM 1104 1118	frialdad acral
+T12	SYMPTOM 1120 1131	Taquipneica
+T13	SYMPTOM 1136 1158	tiraje supraclavicular
+T14	SYMPTOM 1160 1168	Ortopnea
+T15	SYMPTOM 1181 1209	ingurgitación venosa yugular
+T16	SYMPTOM 1245 1279	tonos cardiacos rápidos y rítmicos
+T17	SYMPTOM 1285 1291	soplos
+T18	SYMPTOM 1295 1305	extratonos
+T19	SYMPTOM 1307 1336	Murmullo vesicular conservado
+T20	SYMPTOM 1341 1362	crepitantes bibasales
+T21	SYMPTOM 1364 1420	Abdomen: blando y depresible, no doloroso a la palpación
+T23	SYMPTOM 1436 1447	peritonismo
+T24	SYMPTOM 1462 1467	masas
+T25	SYMPTOM 1471 1479	megalias
+T26	SYMPTOM 1481 1509	Ruidos hidroaéreos presentes
+T27	SYMPTOM 1539 1564	edemas hasta raíz de MMII
+T28	SYMPTOM 1686 1730	Pulsos pedios no palpables por edematización
+T29	SYMPTOM 2249 2273	signo del doble contorno
+T30	SYMPTOM 2293 2319	congestión venosa pulmonar
+T31	SYMPTOM 2375 2426	ventrículo izquierdo de diámetros internos normales
+T32	SYMPTOM 2478 2503	Hipoquinesia global grave
+T33	SYMPTOM 2505 2528	FE gravemente deprimida
+T34	SYMPTOM 2569 2630	masa de gran tamaño en región apical del ventrículo izquierdo
+T35	SYMPTOM 2840 2878	Aurícula izquierda en límites normales
+T36	SYMPTOM 2985 3018	FE visual moderadamente deprimida
+T37	SYMPTOM 3020 3056	Aurícula derecha en límites normales
+T38	SYMPTOM 3058 3106	Válvula mitral con ligero engrosamiento de velos
+T39	SYMPTOM 3174 3206	Válvula aórtica sin alteraciones
+T40	SYMPTOM 3437 3457	PSAP estimada normal
+T41	SYMPTOM 3473 3505	ventrículo izquierdo no dilatado
+T42	SYMPTOM 3511 3536	hipoquinesia global grave
+T43	SYMPTOM 3539 3562	FE gravemente deprimida
+T44	SYMPTOM 3590 3628	serología de virus hepático C positiva
+T45	SYMPTOM 5030 5094	ventrículo izquierdo de diámetros internos ligeramente reducidos
+T46	SYMPTOM 5252 5296	Fracción de eyección moderadamente deprimida
+T50	SYMPTOM 6103 6132	colapso inspiratorio reducido
+T51	SYMPTOM 6185 6219	Líquido libre en cavidad abdominal
+T52	SYMPTOM 6357 6376	Hipoquinesia global
+T53	SYMPTOM 6437 6467	disfunción diastólica avanzada
+T54	SYMPTOM 6663 6693	anticoagulante lúpico negativo
+T55	SYMPTOM 6695 6718	proteína C y S normales
+T56	SYMPTOM 6758 6832	factores de la coagulación V, VII y von Willebrand y antitrombina normales
+T57	SYMPTOM 6838 6923	mutaciones en genes de la protrombina, gen factor V Leiden, gen MTHFR, gen factor XII
+T58	SYMPTOM 7459 7513	ventrículo izquierdo de paredes ligeramente engrosadas
+T59	SYMPTOM 7626 7645	Hipoquinesia global
+T61	SYMPTOM 7741 7753	Masa en ápex
+T62	SYMPTOM 9733 9767	mutación m.3243A>Gen el gen MT-TL1
+T64	SYMPTOM 10248 10259	hipotensión
+T65	SYMPTOM 11260 11270	consciente
+T66	SYMPTOM 11412 11420	poliuria
+T67	SYMPTOM 11760 11813	troponinas y niveles de BNP persistentemente elevados
+T69	SYMPTOM 12298 12361	elevación de marcadores cardiacos y de reactantes de fase aguda
+T70	SYMPTOM 12378 12430	pruebas serológicas siendo virus hepático C positiva
+T71	SYMPTOM 12569 12602	hemocultivos que fueron negativos
+T72	SYMPTOM 13215 13253	cavidad ventricular de tamaño reducido
+T73	SYMPTOM 14269 14353	gammagrafía con tecnecio 99 difosfonato que no identificó depósitos anormales de TTR
+T75	SYMPTOM 16044 16076	mutación m.3243A>G en gen MT-TL1
+T251	SYMPTOM 12822 12847	estable hemodinámicamente
+T22	SYMPTOM 2880 2947	Ventrículo derecho de diámetros internos y grosor de paredes normal
+T237	SYMPTOM 3208 3256	Válvulas derechas sin alteraciones estructurales
+T238	SYMPTOM 3306 3346	Aorta torácica sin hallazgos patológicos
+T239	SYMPTOM 3348 3378	Vena cava inferior no dilatada
+T240	SYMPTOM 3739 3875	negativas (PCR enterovirus, VIH, VHB, VHS, Parvovirus B19, Brucella, Rickettsia, Mycoplasma, Chlamydia pneumoniae, Borrelia burgdorferi)
+T242	SYMPTOM 5224 5243	Hipoquinesia global
+T47	SYMPTOM 5500 5550	Ventrículo derecho de diámetros y paredes normales
+T49	SYMPTOM 6012 6069	Raíz aórtica y aorta ascendente sin hallazgos patológicos
+T243	SYMPTOM 6235 6289	ventrículo izquierdo de paredes ligeramente engrosadas
+T244	SYMPTOM 6381 6425	fracción de eyección moderadamente deprimida
+T245	SYMPTOM 6469 6519	Ventrículo derecho de paredes y diámetros normales
+T246	SYMPTOM 6524 6554	fracción de eyección deprimida
+T247	SYMPTOM 6925 6980	Ac anticardiolipina y antibeta-2 glicoproteína normales
+T248	SYMPTOM 6998 7036	mucosa rectal sin cambios morfológicos
+T249	SYMPTOM 7120 7158	mucosa rectal sin cambios morfológicos
+T250	SYMPTOM 7650 7691	fracción de eyección gravemente deprimida
+T252	SYMPTOM 7777 7827	Ventrículo derecho de paredes y diámetros normales
+T253	SYMPTOM 7832 7862	fracción de eyección deprimida
+T63	SYMPTOM 11226 11243	tendente al sueño
+T268	SYMPTOM 4374 4394	Proteinograma normal
+T276	SYMPTOM 13375 13398	alteraciones valvulares
+T302	SYMPTOM 5334 5360	llenado mitral restrictivo
+T335	SYMPTOM 14792 14863	ferritina, transferrina e índice de saturación de transferrina normales
+T74	SYMPTOM 1072 1099	retraso del llenado capilar
+T230	SYMPTOM 3620 3710	positiva, así como IgG e IgM frente a citomegalovirus e IgG frente a virus de Epstein Barr
+T257	SYMPTOM 4692 4716	cadenas ligeras normales
+T258	SYMPTOM 5096 5135	Paredes de grosor ligeramente aumentado
+T259	SYMPTOM 5381 5414	Trabécula muscular a nivel apical
+T260	SYMPTOM 6720 6756	no resistencia a proteína C activada
+T261	SYMPTOM 7283 7363	amiloide A, cadenas pesadas y ligeras de inmunoglobulinas con resultado negativo
+T263	SYMPTOM 7553 7596	diámetros absolutos dentro de la normalidad
+T264	SYMPTOM 8316 8367	Hipercaptación miocárdica difusa de intensidad leve
+T265	SYMPTOM 8723 8777	captaciones patológicas en área de proyección cardiaca
+T266	SYMPTOM 8794 8828	focos de captación ósea patológica
+T267	SYMPTOM 8871 8949	estudio negativo para detección de miocardiopatía por depósito de amiloide TTR
+T269	SYMPTOM 9848 9902	Biopsia endomiocárdica: numerosas fibras cox-negativas
+T270	SYMPTOM 9933 9975	aumento de la cardiomiocitos COX-negativos
+T271	SYMPTOM 11249 11257	reactiva
+T272	SYMPTOM 11512 11538	Aceptable perfusión distal
+T273	SYMPTOM 11592 11629	persistencia de ácido láctico elevado
+T278	SYMPTOM 12272 12295	disfunción grave global
+T279	SYMPTOM 12422 12512	positiva, así como IgG e IgM frente a citomegalovirus e IgG frente a virus de Epstein-Barr
+T281	SYMPTOM 13300 13365	aumento de presiones de llenado y de tamaño de aurícula izquierda
+T283	SYMPTOM 13683 13708	autoanticuerpos negativos
+T285	SYMPTOM 14048 14105	proteinograma y cadenas ligeras en orina fueron negativos
+T286	SYMPTOM 14121 14191	rectal y de grasa subcutánea con tinciones rojo Congo fueron negativas
+T287	SYMPTOM 14417 14500	PET-TC de cuerpo entero con 18 fluorodesoxiglucosa, que mostró una captación difusa
+T288	SYMPTOM 15256 15282	aumento de BNP y troponina
+T289	SYMPTOM 15293 15312	disminución de FEVI

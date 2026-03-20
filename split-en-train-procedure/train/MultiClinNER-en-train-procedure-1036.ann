@@ -1,0 +1,23 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T63	PROCEDURE 464 470	biopsy
+T4	PROCEDURE 1091 1102	examination
+T64	PROCEDURE 1174 1194	Cardiac auscultation
+T65	PROCEDURE 1236 1258	Pulmonary auscultation
+T66	PROCEDURE 1576 1579	ECG
+T68	PROCEDURE 1708 1737	Echo-Doppler right lower limb
+T5	PROCEDURE 1826 1853	ransthoracic echocardiogram
+T7	PROCEDURE 2563 2593	Transesophageal echocardiogram
+T69	PROCEDURE 2957 2968	Coronary CT
+T71	PROCEDURE 3148 3168	Coronary angiography
+T73	PROCEDURE 3538 3553	anticoagulation
+T75	PROCEDURE 3558 3572	prostaglandins
+T67	PROCEDURE 3620 3623	ECG
+T9	PROCEDURE 3663 3691	transthoracic echocardiogram
+T10	PROCEDURE 3856 3886	transesophageal echocardiogram
+T76	PROCEDURE 3901 3915	blood cultures
+T70	PROCEDURE 3995 4006	coronary CT
+T72	PROCEDURE 4011 4031	coronary angiography
+T12	PROCEDURE 4169 4181	cerebral MRI
+T77	PROCEDURE 4371 4396	methylprednisolone pulses
+T74	PROCEDURE 4508 4523	anticoagulation
+T17	PROCEDURE 4606 4620	beta-blockers.

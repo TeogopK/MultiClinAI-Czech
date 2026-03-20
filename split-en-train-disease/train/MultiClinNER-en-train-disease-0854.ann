@@ -1,0 +1,45 @@
+T44	DISEASE 106 120	drug allergies
+T3	DISEASE 124 137	former smoker
+T45	DISEASE 179 211	central retinal vein obstruction
+T46	DISEASE 228 248	vitreous haemorrhage
+T47	DISEASE 318 343	antiphospholipid syndrome
+T50	DISEASE 615 669	moderate aortic insufficiency (AIo) with mild stenosis
+T4	DISEASE 646 649	AIo
+T51	DISEASE 787 809	pulmonary hypertension
+T5	DISEASE 811 813	PH
+T6	DISEASE 976 998	cardiac decompensation
+T7	DISEASE 1263 1306	severe mitral (MR) and aortic insufficiency
+T8	DISEASE 1278 1280	MR
+T52	DISEASE 1328 1350	pulmonary hypertension
+T54	DISEASE 1449 1470	arterial hypertension
+T9	DISEASE 1472 1475	AHT
+T61	DISEASE 1518 1532	plateletopenia
+T58	DISEASE 1643 1662	high blood pressure
+T62	DISEASE 1722 1736	plateletopenia
+T63	DISEASE 1835 1848	pre-eclampsia
+T48	DISEASE 1881 1906	antiphospholipid syndrome
+T10	DISEASE 3063 3081	mild renal failure
+T11	DISEASE 3448 3494	Trivalve aortic valve, with thickened leaflets
+T12	DISEASE 3597 3607	severe AoI
+T68	DISEASE 3612 3625	mild stenosis
+T13	DISEASE 3627 3673	Mitral valve with diffusely thickened leaflets
+T14	DISEASE 3785 3803	moderate-severe MR
+T69	DISEASE 3975 3998	tricuspid insufficiency
+T53	DISEASE 4015 4037	pulmonary hypertension
+T70	DISEASE 4042 4062	pericardial effusion
+T71	DISEASE 4336 4355	bilateral pneumonia
+T15	DISEASE 4357 4388	Mild bilateral pleural effusion
+T74	DISEASE 4505 4530	pulmonary thromboembolism
+T16	DISEASE 4540 4576	overload of the right heart chambers
+T72	DISEASE 4845 4864	bilateral pneumonia
+T75	DISEASE 5245 5258	heart failure
+T17	DISEASE 5260 5262	HF
+T76	DISEASE 5710 5723	heart failure
+T77	DISEASE 5914 5941	severe aortic insufficiency
+T2	DISEASE 6026 6076	decompensation that occurred during the puerperium
+T64	DISEASE 6290 6302	Preeclampsia
+T78	DISEASE 6304 6328	gestational hypertension
+T80	DISEASE 6351 6363	thrombopenia
+T79	DISEASE 6366 6388	Acute pulmonary oedema
+T49	DISEASE 6463 6488	Antiphospholipid syndrome
+T1	DISEASE 6547 6566	thrombotic episodes

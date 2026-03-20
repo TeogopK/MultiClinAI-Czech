@@ -1,0 +1,38 @@
+T42	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDURE 473 522	sustitución valvular mitral por prótesis mecánica
+T44	PROCEDURE 548 572	anuloplastia tricuspídea
+T45	PROCEDURE 890 917	nefrectomía radical derecha
+T46	PROCEDURE 1341 1350	diurético
+T47	PROCEDURE 1364 1379	anticoagulación
+T48	PROCEDURE 1465 1468	IOT
+T49	PROCEDURE 1521 1539	perfusión continua
+T50	PROCEDURE 1596 1604	angio-TC
+T51	PROCEDURE 1788 1806	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 2047 2068	Auscultación cardiaca
+T53	PROCEDURE 2107 2128	Auscultación pulmonar
+T54	PROCEDURE 2286 2306	Radiografía de tórax
+T57	PROCEDURE 2585 2593	Angio-TC
+T58	PROCEDURE 2674 2677	ECG
+T59	PROCEDURE 3241 3269	Ecocardiograma transtorácico
+T60	PROCEDURE 3762 3791	Ecocardiograma transesofágico
+T61	PROCEDURE 4043 4046	ETT
+T62	PROCEDURE 4329 4335	sedada
+T63	PROCEDURE 4338 4346	intubada
+T64	PROCEDURE 4365 4375	respirador
+T66	PROCEDURE 4572 4595	ecoscopia transtorácica
+T67	PROCEDURE 4799 4847	implantar balón de contrapulsación intra-aórtico
+T68	PROCEDURE 4888 4958	se monitorizan las presiones derechas mediante un catéter de Swan-Ganz
+T69	PROCEDURE 5199 5211	fibrinolisis
+T70	PROCEDURE 5330 5380	sustitución valvular por prótesis mitral biológica
+T71	PROCEDURE 5534 5542	cultivos
+T72	PROCEDURE 5557 5575	antibioticoterapia
+T73	PROCEDURE 5721 5737	cirugía cardiaca
+T74	PROCEDURE 5752 5779	Nefrectomía radical derecha
+T23	PROCEDURE 5933 5983	Sustitución valvular mitral por prótesis biológica
+T114	PROCEDURE 2768 2777	Analítica
+T115	PROCEDURE 955 984	Anticoagulada con enoxaparina
+T116	PROCEDURE 1859 1864	BCIAo
+T121	PROCEDURE 2232 2236	EEII
+T126	PROCEDURE 271 273	IQ
+T133	PROCEDURE 1967 1973	Sedada
+T65	PROCEDURE 4440 4475	noradrenalina en perfusión continua

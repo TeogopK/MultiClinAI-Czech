@@ -1,0 +1,42 @@
+T43	DISEASE 88 102	drug allergies
+T44	DISEASE 107 119	toxic habits
+T45	DISEASE 121 142	Arterial hypertension
+T46	DISEASE 130 142	hypertension
+T47	DISEASE 588 595	syncope
+T48	DISEASE 612 625	heart failure
+T39	DISEASE 696 716	wide QRS tachycardia
+T49	DISEASE 1318 1374	atrial fibrillation with controlled ventricular response
+T50	DISEASE 1442 1457	acute ischaemia
+T40	DISEASE 1605 1625	wide QRS tachycardia
+T52	DISEASE 1646 1679	complete left bundle branch block
+T57	DISEASE 1655 1679	left bundle branch block
+T53	DISEASE 1783 1828	right ventricular outflow tract extrasystoles
+T41	DISEASE 2977 3045	non-dilated left ventricle (LV) with moderate concentric hypertrophy
+T54	DISEASE 3047 3086	Moderate-severe ventricular dysfunction
+T76	DISEASE 3172 3200	Slightly dilated left atrium
+T55	DISEASE 3401 3421	pericardial effusion
+T42	DISEASE 3465 3516	non-dilated LV with moderate concentric hypertrophy
+T56	DISEASE 3856 3864	stenosis
+T75	DISEASE 4148 4150	EV
+T58	DISEASE 4156 4180	left bundle branch block
+T59	DISEASE 4295 4297	HV
+T61	DISEASE 4635 4658	ventricular tachycardia
+T67	DISEASE 4892 4929	branch-branch ventricular tachycardia
+T62	DISEASE 4906 4929	ventricular tachycardia
+T63	DISEASE 5665 5688	ventricular tachycardia
+T70	DISEASE 6129 6181	intermediate lesion in the mid-right coronary artery
+T51	DISEASE 6303 6318	acute ischaemia
+T71	DISEASE 6408 6445	severe global ventricular dysfunction
+T72	DISEASE 6488 6498	arrhythmia
+T73	DISEASE 6517 6561	dysfunction secondary to tachycardiomyopathy
+T78	DISEASE 6542 6561	tachycardiomyopathy
+T64	DISEASE 6657 6680	ventricular tachycardia
+T68	DISEASE 6768 6805	branch-branch ventricular tachycardia
+T65	DISEASE 6782 6805	ventricular tachycardia
+T60	DISEASE 7087 7089	HV
+T77	DISEASE 7181 7203	arrhythmic recurrences
+T74	DISEASE 7330 7351	neuromuscular disease
+T69	DISEASE 7543 7580	Branch-branch ventricular tachycardia
+T66	DISEASE 7557 7580	ventricular tachycardia
+T79	DISEASE 7589 7608	Tachycardiomyopathy
+T80	DISEASE 7660 7696	Intermediate lesion in the middle DC

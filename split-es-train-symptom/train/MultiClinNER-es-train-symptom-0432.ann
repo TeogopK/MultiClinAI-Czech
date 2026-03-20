@@ -1,0 +1,31 @@
+T1	SYMPTOM 61 79	llanto persistente
+T2	SYMPTOM 81 84	tos
+T3	SYMPTOM 94 117	dificultad respiratoria
+T4	SYMPTOM 1319 1347	signo del diafragma continuo
+T5	SYMPTOM 162 169	vómitos
+T6	SYMPTOM 171 205	rechazo parcial de la alimentación
+T7	SYMPTOM 208 216	rinorrea
+T8	SYMPTOM 678 687	irritable
+T9	SYMPTOM 742 766	respiración entrecortada
+T10	SYMPTOM 772 802	tiraje subcostal e intercostal
+T11	SYMPTOM 880 916	sibilancias espiratorias bilaterales
+T12	SYMPTOM 1706 1729	dificultad respiratoria
+T13	SYMPTOM 919 938	espiración alargada
+T14	SYMPTOM 1788 1833	disminución del tamaño del aire en mediastino
+T15	SYMPTOM 980 1008	orofaringe estaba hiperémica
+T16	SYMPTOM 1024 1037	moco en cavum
+T17	SYMPTOM 1072 1101	hiperemia timpánica bilateral
+T18	SYMPTOM 649 669	buen aspecto general
+T19	SYMPTOM 854 875	buena entrada de aire
+T20	SYMPTOM 943 975	auscultación cardíaca era normal
+T21	SYMPTOM 1106 1133	reflejo luminoso conservado
+T22	SYMPTOM 1867 1905	prueba de cloruros en sudor fue normal
+T23	SYMPTOM 1262 1280	atrapamiento aéreo
+T24	SYMPTOM 1298 1317	aire anterocardíaco
+A1	IMAGEN T4
+A2	IMAGEN T14
+A3	RESULTADO T17
+A4	RESULTADO T21
+A5	RESULTADO T22
+A6	IMAGEN T23
+A7	IMAGEN T24

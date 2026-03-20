@@ -1,0 +1,39 @@
+T16	DISEASE 38 66	Miocardiopatías Hereditarias
+T18	DISEASE 240 281	bloqueo aurículo-ventricular BAV completo
+T19	DISEASE 291 314	miocardiopatía dilatada
+T20	DISEASE 319 340	hipertensión arterial
+T21	DISEASE 342 359	diabetes mellitus
+T22	DISEASE 363 374	dislipemias
+T23	DISEASE 542 563	fibrilación auricular
+T24	DISEASE 565 567	FA
+T25	DISEASE 571 583	BAV completo
+T26	DISEASE 670 683	TVS monomorfa
+T27	DISEASE 686 693	síncope
+T28	DISEASE 752 764	BAV completo
+T29	DISEASE 840 852	BAV completo
+T30	DISEASE 924 971	Dilatación leve-moderada de ventrículo izquiero
+T32	DISEASE 1299 1311	BAV completo
+T33	DISEASE 1533 1557	BAV completo paroxístico
+T34	DISEASE 1754 1766	BAV completo
+T35	DISEASE 1816 1818	TV
+T36	DISEASE 2071 2083	BAV completo
+T37	DISEASE 2508 2529	Fibrilación auricular
+T38	DISEASE 2550 2587	bloqueo aurículo-ventricular completo
+T39	DISEASE 2589 2651	Miocardiopatía (MCP) dilatada familiar con vi levente dilatado
+T40	DISEASE 2605 2608	MCP
+T41	DISEASE 2656 2690	disfunción sistólica leve-moderada
+T43	DISEASE 2786 2798	BAV completo
+T44	DISEASE 2801 2824	miocardiopatía dilatada
+T45	DISEASE 1704 1706	FA
+T46	DISEASE 2021 2023	FA
+T47	DISEASE 1664 1690	IM funcional leve-moderada
+T48	DISEASE 626 629	MCD
+T49	DISEASE 1590 1611	dilatación leve de VI
+T91	DISEASE 1075 1088	muerte súbita
+T92	DISEASE 2771 2784	muerte súbita
+T93	DISEASE 218 231	muerte súbita
+#1	AnnotatorNotes T35	 taquicardia ventricular
+#2	AnnotatorNotes T40	 mocardiopatia
+#3	AnnotatorNotes T45	 fibrilación auricular
+#4	AnnotatorNotes T46	 fibrilación auricular
+#5	AnnotatorNotes T48	 miocardiopatía dilatada

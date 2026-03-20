@@ -1,0 +1,29 @@
+T1	SYMPTOM 344 364	astenia generalizada
+T2	SYMPTOM 394 438	dolor torácico en relación con los esfuerzos
+T3	SYMPTOM 482 490	ortopnea
+T4	SYMPTOM 495 522	disnea paroxística nocturna
+T5	SYMPTOM 543 549	fiebre
+T6	SYMPTOM 552 572	sensación distérmica
+T7	SYMPTOM 652 662	Consciente
+T8	SYMPTOM 664 673	orientado
+T9	SYMPTOM 675 686	colaborador
+T10	SYMPTOM 688 707	Buen estado general
+T11	SYMPTOM 709 734	Eupneico al aire ambiente
+T12	SYMPTOM 766 796	Auscultación cardiaca: rítmica
+T13	SYMPTOM 802 808	soplos
+T14	SYMPTOM 833 862	murmullo vesicular conservado
+T15	SYMPTOM 868 888	ruidos sobreañadidos
+T16	SYMPTOM 890 930	Abdomen: blando, depresible, no doloroso
+T19	SYMPTOM 1417 1459	Silueta cardiopericárdica de tamaño normal
+T21	SYMPTOM 1825 1856	fracción de eyección preservada
+T24	SYMPTOM 4209 4221	asintomático
+T17	SYMPTOM 1263 1290	Pérdida de volumen pulmonar
+T87	SYMPTOM 1935 1965	Aurícula izquierda no dilatada
+T88	SYMPTOM 2061 2092	Cavidades derechas no dilatadas
+T89	SYMPTOM 951 974	Extremidades: no edemas
+T90	SYMPTOM 755 758	IVY
+T97	SYMPTOM 4184 4206	estable cardiovascular
+T99	SYMPTOM 2570 2601	Coronaria derecha: sin lesiones
+T107	SYMPTOM 2213 2252	tronco coronario izquierdo sin lesiones
+T109	SYMPTOM 1787 1819	ventrículo izquierdo no dilatado
+T23	SYMPTOM 2035 2059	Raíz aórtica no dilatada

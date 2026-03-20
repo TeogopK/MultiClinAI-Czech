@@ -1,0 +1,37 @@
+T1	SYMPTOM 1276 1282	disnea
+T2	SYMPTOM 1340 1373	cuadro respiratorio de vías altas
+T3	SYMPTOM 1379 1382	tos
+T4	SYMPTOM 1399 1412	expectoración
+T5	SYMPTOM 1720 1730	Consciente
+T6	SYMPTOM 1732 1741	orientada
+T7	SYMPTOM 1744 1756	colaboradora
+T8	SYMPTOM 1758 1785	Bien hidratada y perfundida
+T10	SYMPTOM 1787 1807	Taquipneica al habla
+T11	SYMPTOM 1852 1877	ritmos cardiacos rítmicos
+T12	SYMPTOM 1879 1903	click metálico protésico
+T13	SYMPTOM 1908 1923	soplo sistólico
+T14	SYMPTOM 1934 1964	soplo sistólico en foco mitral
+T15	SYMPTOM 1999 2018	crepitantes gruesos
+T16	SYMPTOM 2040 2083	Abdomen: blando, no doloroso a la palpación
+T19	SYMPTOM 2094 2099	masas
+T20	SYMPTOM 2103 2110	megalia
+T21	SYMPTOM 2112 2134	peristalsis conservada
+T22	SYMPTOM 2136 2152	Percusión normal
+T23	SYMPTOM 2179 2210	edemas con fóvea hasta rodillas
+T24	SYMPTOM 2605 2618	ritmo sinusal
+T25	SYMPTOM 2945 2972	movimiento de septo anómalo
+T28	SYMPTOM 3871 3909	función sistólica moderadamente afecta
+T29	SYMPTOM 4664 4691	hemodinámicamente inestable
+T31	SYMPTOM 6017 6028	falleciendo
+T124	SYMPTOM 471 486	FEVI conservada
+T17	SYMPTOM 2977 2992	acinesia septal
+T125	SYMPTOM 2995 3040	función sistólica global moderadamente afecta
+T26	SYMPTOM 4095 4168	fracción de eyección del ventrículo izquierdo (FEVI) moderadamente afecta
+T27	SYMPTOM 6403 6409	Muerte
+T129	SYMPTOM 3357 3392	Cavidades derechas de tamaño normal
+T142	SYMPTOM 3911 3965	Ventrículo derecho (VD) no dilatado con función normal
+T157	SYMPTOM 1812 1827	tolera decúbito
+T18	SYMPTOM 3088 3141	aórtica que se visualiza mal, con regurgitación grave
+T127	SYMPTOM 3566 3640	prótesis metálica en posición aórtica con movilidad de discos muy reducida
+T128	SYMPTOM 3653 3706	material de baja densidad ecogénica a nivel de discos
+T131	SYMPTOM 3814 3851	Ventrículo izquierdo (VI) no dilatado

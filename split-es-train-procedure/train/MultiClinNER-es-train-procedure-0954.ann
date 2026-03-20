@@ -1,0 +1,32 @@
+T71	PROCEDURE 135 151	cesárea electiva
+T72	PROCEDURE 624 642	Exploración física
+T73	PROCEDURE 913 945	Auscultación cardiorrespiratoria
+T74	PROCEDURE 1305 1323	Electrocardiograma
+T75	PROCEDURE 1325 1328	ECG
+T76	PROCEDURE 1463 1472	Hemograma
+T77	PROCEDURE 1576 1596	Radiografía de tórax
+T78	PROCEDURE 1649 1678	Ecocardiografía transtorácica
+T79	PROCEDURE 2444 2474	administración de sueroterapia
+T80	PROCEDURE 2476 2517	transfusión de 2 concentrados de hematíes
+T81	PROCEDURE 2559 2566	cesárea
+T82	PROCEDURE 2579 2637	antiinflamatorios no esteroideos (AINES) pautados vía oral
+T83	PROCEDURE 2613 2618	AINES
+T84	PROCEDURE 2650 2708	pericardiocentesis electiva por vía paraesternal izquierda
+T85	PROCEDURE 3050 3073	diuréticos intravenosos
+T86	PROCEDURE 3087 3098	Rx de tórax
+T87	PROCEDURE 3174 3212	toracocentesis diagnóstico-terapéutica
+T88	PROCEDURE 3333 3362	ecocardiografía transtorácica
+T89	PROCEDURE 1554 1565	Coagulación
+T90	PROCEDURE 4112 4137	anticuerpos antinucleares
+T91	PROCEDURE 2826 2840	betabloqueante
+T93	PROCEDURE 3299 3320	estudio pretrasplante
+T94	PROCEDURE 1439 1452	función renal
+T95	PROCEDURE 1431 1436	iones
+T96	PROCEDURE 4284 4298	test de Coombs
+T97	PROCEDURE 2857 2903	inhibidor del enzima conversor de angiotensina
+T98	PROCEDURE 4155 4163	anti-DNA
+T99	PROCEDURE 4195 4223	anticuerpos anticardiolipina
+T19	PROCEDURE 1416 1426	bioquímica
+T100	PROCEDURE 1405 1414	Analítica
+T104	PROCEDURE 307 346	microbiológico del exudado de la herida
+T105	PROCEDURE 4072 4098	determinaciones analíticas

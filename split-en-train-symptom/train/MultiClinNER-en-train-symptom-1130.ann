@@ -1,0 +1,45 @@
+T1	SYMPTOM 110 137	cardiovascular risk factors
+T2	SYMPTOM 515 523	asthenia
+T4	SYMPTOM 618 627	dizziness
+T5	SYMPTOM 644 661	vegetative cortex
+T6	SYMPTOM 749 759	chest pain
+T7	SYMPTOM 763 775	palpitations
+T8	SYMPTOM 802 819	syncopal episodes
+T9	SYMPTOM 841 849	dyspnoea
+T10	SYMPTOM 851 861	orthopnoea
+T11	SYMPTOM 863 871	oliguria
+T12	SYMPTOM 875 881	oedema
+T13	SYMPTOM 1263 1269	oedema
+T15	SYMPTOM 2912 2918	oedema
+T17	SYMPTOM 945 956	tachycardia
+T18	SYMPTOM 1038 1046	coldness
+T19	SYMPTOM 1051 1059	sweating
+T20	SYMPTOM 1061 1069	Afebrile
+T21	SYMPTOM 1105 1126	rhythmic heart sounds
+T22	SYMPTOM 1136 1143	murmurs
+T23	SYMPTOM 1148 1174	preserved vesicular murmur
+T24	SYMPTOM 1369 1381	sinus rhythm
+T25	SYMPTOM 1404 1414	narrow QRS
+T26	SYMPTOM 2598 2622	Normal sized left atrium
+T27	SYMPTOM 2838 2864	ventricles are normal size
+T29	SYMPTOM 2931 2940	hyperemia
+T31	SYMPTOM 3134 3154	arterial hypotension
+T32	SYMPTOM 3629 3640	oligoanuria
+T33	SYMPTOM 3679 3709	increased liver damage enzymes
+T34	SYMPTOM 3862 3883	poor distal perfusion
+T35	SYMPTOM 3888 3904	poor ventilation
+T36	SYMPTOM 677 684	syncope
+T37	SYMPTOM 2502 2520	global hypokinesia
+T40	SYMPTOM 4324 4329	Death
+T39	SYMPTOM 506 513	myalgia
+T41	SYMPTOM 528 548	dysthermic sensation
+T3	SYMPTOM 554 567	febrile fever
+T30	SYMPTOM 1430 1447	J point elevation
+T42	SYMPTOM 1533 1563	generalised decreased voltages
+T43	SYMPTOM 1597 1624	normal cardiothoracic index
+T14	SYMPTOM 2425 2468	very severe depression of ejection fraction
+T44	SYMPTOM 2522 2550	Normal sized right ventricle
+T45	SYMPTOM 2690 2720	Ascending aorta of normal size
+T28	SYMPTOM 2870 2895	severe global hypokinesia
+T38	SYMPTOM 3910 3931	pinkish expectoration
+T16	SYMPTOM 4133 4137	died

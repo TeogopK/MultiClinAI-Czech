@@ -1,0 +1,32 @@
+T32	PROCEDURE 631 661	Transthoracic echocardiography
+T4	PROCEDURE 663 666	TTE
+T63	PROCEDURE 1259 1262	TTE
+T46	PROCEDURE 1431 1446	cardiac surgery
+T34	PROCEDURE 1461 1481	coronary angiography
+T62	PROCEDURE 1597 1663	aortocoronary bypass: left internal mammary to anterior descending
+T61	PROCEDURE 1669 1743	replacement of the mitral valve with a Labcor No. 31 biological prosthesis
+T35	PROCEDURE 1945 1986	depletive and anti-inflammatory treatment
+T37	PROCEDURE 2064 2080	echocardiography
+T60	PROCEDURE 2211 2234	Anticoagulation therapy
+T59	PROCEDURE 2348 2363	Serial cultures
+T39	PROCEDURE 2394 2424	empirical antibiotic treatment
+T43	PROCEDURE 2404 2424	antibiotic treatment
+T57	PROCEDURE 2483 2506	anticoagulant treatment
+T58	PROCEDURE 2511 2537	echocardiographic check-up
+T56	PROCEDURE 2805 2828	anticoagulant treatment
+T47	PROCEDURE 2850 2873	inflammation parameters
+T55	PROCEDURE 2878 2893	serial cultures
+T54	PROCEDURE 2992 3007	serial cultures
+T44	PROCEDURE 3026 3029	TEE
+T40	PROCEDURE 3389 3419	empirical antibiotic treatment
+T53	PROCEDURE 3433 3441	Cultures
+T48	PROCEDURE 3465 3475	serologies
+T41	PROCEDURE 3487 3493	PET-CT
+T52	PROCEDURE 3628 3631	TEE
+T49	PROCEDURE 3775 3794	depletive treatment
+T42	PROCEDURE 3847 3861	blood cultures
+T38	PROCEDURE 3902 3910	cultures
+T50	PROCEDURE 3912 3920	serology
+T51	PROCEDURE 4019 4027	Serology
+T45	PROCEDURE 4132 4152	antibiotic treatment
+T33	PROCEDURE 4436 4466	transthoracic echocardiography

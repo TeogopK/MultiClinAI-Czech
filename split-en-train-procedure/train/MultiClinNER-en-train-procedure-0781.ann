@@ -1,0 +1,29 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 249 282	treatment with oral antidiabetics
+T58	PROCEDURE 350 364	anticoagulated
+T59	PROCEDURE 500 562	Mitral and aortic valve replacement with mechanical prostheses
+T1	PROCEDURE 634 677	transfusion of 1 red blood cell concentrate
+T80	PROCEDURE 863 874	haematology
+T60	PROCEDURE 1104 1129	valve replacement surgery
+T56	PROCEDURE 1491 1511	Physical examination
+T61	PROCEDURE 1779 1809	Cardiorespiratory auscultation
+T62	PROCEDURE 1898 1919	pulmonary ventilation
+T63	PROCEDURE 2050 2064	deep palpation
+T64	PROCEDURE 2206 2215	Haemogram
+T65	PROCEDURE 2306 2317	Coagulation
+T77	PROCEDURE 2329 2341	Biochemistry
+T79	PROCEDURE 2350 2364	renal function
+T66	PROCEDURE 2369 2377	ionogram
+T78	PROCEDURE 2438 2463	myocardial damage enzymes
+T67	PROCEDURE 2521 2538	Electrocardiogram
+T68	PROCEDURE 2737 2767	Transthoracic echocardiography
+T69	PROCEDURE 3516 3546	intravenous diuretic treatment
+T70	PROCEDURE 3551 3580	transfusion of blood products
+T2	PROCEDURE 3800 3833	antiplatelet factor IV antibodies
+T71	PROCEDURE 4017 4038	anticoagulant therapy
+T73	PROCEDURE 4156 4170	echocardiogram
+T74	PROCEDURE 4412 4425	urine culture
+T75	PROCEDURE 4606 4654	recent implantation of two mechanical prostheses
+T3	PROCEDURE 4680 4709	broad-spectrum antibiotherapy
+T76	PROCEDURE 5105 5116	skin biopsy
+T4	PROCEDURE 5656 5687	administration of carbapenemics

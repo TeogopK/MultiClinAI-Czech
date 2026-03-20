@@ -1,0 +1,13 @@
+T11	PROCEDURE 165 182	abdominal CT scan
+T2	PROCEDURE 251 266	total colectomy
+T3	PROCEDURE 272 290	terminal ileostomy
+T4	PROCEDURE 320 331	splenectomy
+T5	PROCEDURE 442 459	enteral nutrition
+T6	PROCEDURE 461 463	EN
+T7	PROCEDURE 470 479	ileostomy
+T18	PROCEDURE 552 579	abdominal haematic drainage
+T19	PROCEDURE 583 590	CT scan
+T8	PROCEDURE 879 902	bacteriological culture
+T9	PROCEDURE 936 939	PTN
+T1	PROCEDURE 1086 1104	Lymphoscintigraphy
+T10	PROCEDURE 1141 1202	Low-fat, medium-chain fatty acid (MCFA)-rich, hyperproteic EN

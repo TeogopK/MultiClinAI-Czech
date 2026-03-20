@@ -1,0 +1,10 @@
+T1	SYMPTOM 1747 1762	dolor abdominal
+T2	SYMPTOM 1782 1793	rectorragia
+T3	SYMPTOM 2420 2435	dolor abdominal
+T4	SYMPTOM 1471 1499	fiebre de origen desconocido
+T5	SYMPTOM 158 220	citología de líquido ascítico que dio positivo para malignidad
+T6	SYMPTOM 2504 2544	elevación del marcador tumoral (CA 19,9)
+T7	SYMPTOM 2791 2799	falleció
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	EXITUS T7

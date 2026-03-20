@@ -1,0 +1,31 @@
+T12	PROCEDURE 256 287	treated with oral antidiabetics
+T48	PROCEDURE 372 407	prosthetic mitral valve replacement
+T49	PROCEDURE 823 851	transthoracic echocardiogram
+T50	PROCEDURE 1116 1130	blood cultures
+T73	PROCEDURE 1166 1194	empirical antibiotic therapy
+T51	PROCEDURE 1292 1306	blood cultures
+T53	PROCEDURE 1367 1397	transesophageal echocardiogram
+T72	PROCEDURE 1824 1839	Cardiac Surgery
+T13	PROCEDURE 1873 1906	surgically replace the prosthesis
+T54	PROCEDURE 2177 2196	antibiotic coverage
+T14	PROCEDURE 2304 2326	extra-renal depuration
+T74	PROCEDURE 2330 2367	continuous venovenous haemofiltration
+T56	PROCEDURE 2673 2688	haemofiltration
+T58	PROCEDURE 2927 2943	endoscopic study
+T59	PROCEDURE 3289 3327	anti-neutrophil cytoplasmic antibodies
+T76	PROCEDURE 3340 3384	anti-glomerular basement membrane antibodies
+T60	PROCEDURE 3479 3490	skin biopsy
+T62	PROCEDURE 3713 3724	chest X-ray
+T63	PROCEDURE 4098 4115	fibrobronchoscopy
+T64	PROCEDURE 4501 4520	immunological study
+T65	PROCEDURE 4842 4857	anticoagulation
+T66	PROCEDURE 4904 4933	treatment with plasmapheresis
+T15	PROCEDURE 5087 5112	immunosuppressive regimen
+T52	PROCEDURE 5114 5128	blood cultures
+T67	PROCEDURE 5258 5272	antibiotherapy
+T16	PROCEDURE 5477 5499	extra-renal depuration
+T75	PROCEDURE 5512 5549	continuous venovenous haemofiltration
+T68	PROCEDURE 5613 5625	renal biopsy
+T69	PROCEDURE 5717 5729	renal biopsy
+T70	PROCEDURE 5848 5884	Direct immunofluorescence techniques
+T71	PROCEDURE 6188 6225	immunofluorescence of the skin biopsy

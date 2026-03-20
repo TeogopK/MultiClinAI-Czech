@@ -1,0 +1,39 @@
+T43	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T29	PROCEDURE 274 300	surgical revascularisation
+T30	PROCEDURE 305 356	mitral valve replacement with mechanical prosthesis
+T31	PROCEDURE 401 438	Single-chamber pacemaker implantation
+T32	PROCEDURE 444 474	atrioventricular node ablation
+T33	PROCEDURE 686 716	right femoral-popliteal bypass
+T34	PROCEDURE 788 802	echocardiogram
+T37	PROCEDURE 859 876	mitral prosthesis
+T67	PROCEDURE 1235 1246	haematology
+T39	PROCEDURE 1437 1456	chronic home oxygen
+T40	PROCEDURE 1697 1712	anticoagulation
+T42	PROCEDURE 1749 1753	LMWH
+T44	PROCEDURE 2258 2278	PHYSICAL EXAMINATION
+T45	PROCEDURE 2353 2366	nasal goggles
+T46	PROCEDURE 2414 2434	Cardiac auscultation
+T47	PROCEDURE 2481 2503	Pulmonary auscultation
+T48	PROCEDURE 2720 2737	Electrocardiogram
+T49	PROCEDURE 2832 2837	X-ray
+T50	PROCEDURE 2924 2935	Blood tests
+T66	PROCEDURE 2937 2949	Biochemistry
+T51	PROCEDURE 3101 3125	Basal venous blood gases
+T52	PROCEDURE 3217 3226	Haemogram
+T53	PROCEDURE 3322 3333	Coagulation
+T54	PROCEDURE 3419 3449	Transesophageal echocardiogram
+T35	PROCEDURE 3435 3449	echocardiogram
+T55	PROCEDURE 3784 3807	Coronary CT angiography
+T57	PROCEDURE 4273 4283	Radioscopy
+T38	PROCEDURE 4382 4399	mitral prosthesis
+T58	PROCEDURE 4401 4429	Transthoracic echocardiogram
+T36	PROCEDURE 4415 4429	echocardiogram
+T59	PROCEDURE 4440 4452	fibrinolysis
+T60	PROCEDURE 4521 4533	fibrinolysis
+T64	PROCEDURE 4577 4601	antithrombotic treatment
+T65	PROCEDURE 4856 4881	valve replacement surgery
+T56	PROCEDURE 5030 5047	coronary angio-CT
+T61	PROCEDURE 5100 5112	fibrinolysis
+T62	PROCEDURE 5472 5484	fibrinolysis
+T41	PROCEDURE 5844 5859	anticoagulation
+T63	PROCEDURE 5988 6000	fibrinolysis

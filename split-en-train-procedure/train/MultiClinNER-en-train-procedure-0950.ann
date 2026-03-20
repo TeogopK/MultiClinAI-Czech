@@ -1,0 +1,40 @@
+T71	PROCEDURE 126 146	physical examination
+T1	PROCEDURE 245 276	Dyslipidaemia treated with diet
+T98	PROCEDURE 498 520	Surgical interventions
+T73	PROCEDURE 522 537	cholecystectomy
+T102	PROCEDURE 542 569	right inguinal hernioplasty
+T74	PROCEDURE 923 940	electrocardiogram
+T75	PROCEDURE 1269 1273	PTCA
+T72	PROCEDURE 1629 1649	physical examination
+T77	PROCEDURE 1845 1873	cardiopulmonary auscultation
+T78	PROCEDURE 2274 2277	ECG
+T4	PROCEDURE 2513 2599	Samples were taken for serial blood and urine cultures, which were repeatedly negative
+T5	PROCEDURE 2543 2548	blood
+T6	PROCEDURE 2553 2567	urine cultures
+T84	PROCEDURE 2601 2631	Transthoracic echocardiography
+T100	PROCEDURE 2896 2903	Doppler
+T99	PROCEDURE 2923 2933	analytical
+T79	PROCEDURE 3043 3046	ECG
+T8	PROCEDURE 3206 3209	CBC
+T9	PROCEDURE 3211 3222	haemoglobin
+T96	PROCEDURE 3335 3347	Biochemistry
+T10	PROCEDURE 3460 3485	Myocardial damage markers
+T80	PROCEDURE 3558 3572	Blood cultures
+T83	PROCEDURE 3611 3624	Urine culture
+T86	PROCEDURE 3667 3678	chest X-ray
+T85	PROCEDURE 3751 3781	transthoracic echocardiography
+T87	PROCEDURE 4489 4512	Cardiac catheterisation
+T76	PROCEDURE 5126 5130	PTCA
+T101	PROCEDURE 5173 5190	thromboaspiration
+T13	PROCEDURE 5195 5236	direct implantation of conventional stent
+T88	PROCEDURE 5698 5726	empirical antibiotic therapy
+T81	PROCEDURE 5794 5808	blood cultures
+T82	PROCEDURE 6044 6058	blood cultures
+T90	PROCEDURE 6060 6078	antibiotic therapy
+T93	PROCEDURE 6228 6244	echocardiography
+T95	PROCEDURE 6440 6460	oral corticosteroids
+T97	PROCEDURE 6668 6688	inflammatory markers
+T94	PROCEDURE 6690 6706	echocardiography
+T15	PROCEDURE 6881 6912	tapering corticosteroid regimen
+T17	PROCEDURE 6969 6972	PCI
+T18	PROCEDURE 6977 7048	conventional stent implantation (x2) in the proximal segment of the LAD

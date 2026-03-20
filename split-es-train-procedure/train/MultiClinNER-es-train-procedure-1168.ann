@@ -1,0 +1,31 @@
+T60	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 597 678	infarto inferior revascularizado con angioplastia primaria a la coronaria derecha
+T62	PROCEDURE 785 921	revascularización percutánea con stents farmacoactivos en la descendente anterior (DA), coronaria derecha nativa (CD) y circunfleja (Cx)
+T63	PROCEDURE 963 991	cirugía de revascularización
+T64	PROCEDURE 1123 1141	implante de stents
+T65	PROCEDURE 1832 1859	tratamiento con inhaladores
+T66	PROCEDURE 1861 1881	oxígeno domiciliario
+T67	PROCEDURE 1901 1914	CPAP nocturna
+T68	PROCEDURE 1959 2011	amputación de 4a y 5a metatarsofalángicas izquierdas
+T69	PROCEDURE 2250 2258	opioides
+T70	PROCEDURE 2265 2283	exploración física
+T71	PROCEDURE 2434 2461	auscultación cardiopulmonar
+T72	PROCEDURE 2720 2723	ECG
+T73	PROCEDURE 2874 2893	Analítica sanguínea
+T74	PROCEDURE 3077 3091	Ecocardiograma
+T75	PROCEDURE 3633 3648	Coronariografía
+T76	PROCEDURE 3813 3830	revascularización
+T77	PROCEDURE 3857 3887	curas locales de pie diabético
+T78	PROCEDURE 4115 4125	analgésico
+T79	PROCEDURE 4536 4668	terapia de estimulación de médula espinal con dos electrodos epidurales posteriores a nivel cervicotorácico (C7-T4) y lumbar (T9-L2)
+T80	PROCEDURE 4758 4831	se coloca un generador en bolsillo subcutáneo a nivel de flanco izquierdo
+T81	PROCEDURE 5070 5130	vasos revascularizada de forma mixta percutánea y quirúrgica
+T82	PROCEDURE 5321 5325	CPAP
+T83	PROCEDURE 5492 5526	amputación infrapoplítea izquierda
+T96	PROCEDURE 3901 3918	ciclo antibiótico
+T97	PROCEDURE 2352 2370	constantes vitales
+T99	PROCEDURE 3931 3954	medicación antianginosa
+T104	PROCEDURE 5282 5310	oxígeno crónico domiciliario
+T108	PROCEDURE 2414 2416	GN
+T122	PROCEDURE 1403 1427	tratamiento antianginoso
+T105	PROCEDURE 492 542	enfermedad coronaria de tres vasos revascularizada

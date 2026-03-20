@@ -1,0 +1,37 @@
+T83	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T75	PROCEDURE 444 468	electrical cardioversion
+T76	PROCEDURE 482 496	echocardiogram
+T103	PROCEDURE 754 761	surgery
+T81	PROCEDURE 766 778	radiotherapy
+T82	PROCEDURE 1121 1134	beta-blockers
+T77	PROCEDURE 1176 1206	transesophageal echocardiogram
+T4	PROCEDURE 1602 1625	tricuspid cavus isthmus
+T5	PROCEDURE 1872 1874	CT
+T84	PROCEDURE 1965 1985	Physical examination
+T85	PROCEDURE 2105 2133	Cardiopulmonary auscultation
+T101	PROCEDURE 2161 2170	palpation
+T7	PROCEDURE 2448 2451	CBC
+T86	PROCEDURE 2599 2602	ECG
+T78	PROCEDURE 2701 2731	Transesophageal echocardiogram
+T79	PROCEDURE 3120 3150	Transesophageal echocardiogram
+T87	PROCEDURE 3510 3513	ECG
+T16	PROCEDURE 3649 3665	laboratory tests
+T88	PROCEDURE 3812 3824	Abdominal CT
+T91	PROCEDURE 4215 4258	Anticoagulation was reversed with vitamin K
+T89	PROCEDURE 4263 4282	prothrombin complex
+T102	PROCEDURE 4295 4327	the bleeding point was embolised
+T90	PROCEDURE 4373 4418	2 red blood cell concentrates were transfused
+T92	PROCEDURE 4792 4807	Anticoagulation
+T18	PROCEDURE 4926 4963	continuous infusion of sodium heparin
+T80	PROCEDURE 5114 5144	transesophageal echocardiogram
+T94	PROCEDURE 5345 5361	AV node ablation
+T96	PROCEDURE 5366 5393	DDDR pacemaker implantation
+T104	PROCEDURE 5774 5781	surgery
+T97	PROCEDURE 5855 5901	surgical ligation of the left atrial appendage
+T48	PROCEDURE 5990 6029	ablation of the tricuspid caval isthmus
+T99	PROCEDURE 6162 6213	Valve replacement with biological mitral prosthesis
+T98	PROCEDURE 6260 6306	Surgical ligation of the left atrial appendage
+T100	PROCEDURE 6408 6442	anticoagulation with acenocoumarol
+T30	PROCEDURE 6470 6512	Embolisation of the left epigastric artery
+T95	PROCEDURE 6514 6530	AV node ablation
+T19	PROCEDURE 6532 6562	Implantation of DDDR pacemaker

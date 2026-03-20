@@ -1,0 +1,28 @@
+T23	DISEASE 156 186	carcinoma escamoso de amígdala
+T24	DISEASE 788 834	infarto agudo de miocardio (IAM) inferolateral
+T25	DISEASE 816 819	IAM
+T26	DISEASE 1242 1262	hipotensión arterial
+T27	DISEASE 1548 1579	anemia normocítica normocrómica
+T28	DISEASE 1595 1612	fallo renal agudo
+T29	DISEASE 1820 1846	derrame pericárdico severo
+T30	DISEASE 2401 2417	broncoaspiración
+T31	DISEASE 2426 2441	derrame pleural
+T32	DISEASE 2506 2541	Abscesos hepáticos múltiples en LHI
+T34	DISEASE 2659 2704	adenopatías mesentéricas ni retroperitoneales
+T35	DISEASE 2744 2763	neoplasia amigdalar
+T36	DISEASE 2873 2916	neoplasia con origen en la amígdala lingual
+T37	DISEASE 3523 3541	abscesos hepáticos
+T38	DISEASE 3797 3810	shock séptico
+T39	DISEASE 4110 4136	derrame pericárdico severo
+T40	DISEASE 4287 4309	Pericarditis purulenta
+T41	DISEASE 4325 4349	taponamiento pericárdico
+T42	DISEASE 4351 4402	Shock séptico polimicrobiano con abscesos hepáticos
+T43	DISEASE 4404 4425	Carcinoma de amígdala
+T44	DISEASE 28 37	exfumador
+T45	DISEASE 112 136	consumo pasado de tabaco
+T46	DISEASE 930 939	hipotenso
+T47	DISEASE 2451 2466	Neumopericardio
+T49	DISEASE 2543 2607	LOE en LHI en relación con absceso versus enfermedad metastásica
+T50	DISEASE 2776 2802	conglomerados adenopáticos
+T48	DISEASE 3481 3500	colección purulenta
+#2	AnnotatorNotes T49	LHI lóbulo hepático izquierdo

@@ -1,0 +1,49 @@
+T1	SYMPTOM 304 359	resonancia magnética cerebral sin hallazgos patológicos
+T3	SYMPTOM 499 528	pérdida brusca de consciencia
+T4	SYMPTOM 724 758	ausencia de respiración espontánea
+T5	SYMPTOM 1159 1184	estable hemodinámicamente
+T6	SYMPTOM 1458 1487	presión venosa yugular normal
+T7	SYMPTOM 1489 1519	Reflejo hepatoyugular negativo
+T8	SYMPTOM 1521 1551	Auscultación cardiaca: regular
+T9	SYMPTOM 1557 1563	soplos
+T10	SYMPTOM 1588 1617	murmullo vesicular conservado
+T11	SYMPTOM 1634 1648	Abdomen: plano
+T12	SYMPTOM 1650 1678	Ruidos hidroaéreos presentes
+T13	SYMPTOM 1704 1719	visceromegalias
+T14	SYMPTOM 1734 1752	pupilas isocóricas
+T15	SYMPTOM 1754 1784	Reflejos pupilares conservados
+T16	SYMPTOM 1786 1835	Reflejos motores en extremidades sin alteraciones
+T18	SYMPTOM 1871 1914	Pulsos periféricos conservados y simétricos
+T19	SYMPTOM 1967 1980	ritmo sinusal
+T20	SYMPTOM 2028 2061	alteraciones de la repolarización
+T21	SYMPTOM 2393 2428	silueta cardiomediastinica centrada
+T23	SYMPTOM 2533 2616	ventrículo izquierdo de diámetros, volúmenes y función global sistólica conservados
+T24	SYMPTOM 2698 2734	Patrón de llenado transmitral normal
+T25	SYMPTOM 2778 2803	Aurícula izquierda normal
+T26	SYMPTOM 3045 3058	ritmo sinusal
+T28	SYMPTOM 4055 4083	alteraciones del segmento ST
+T29	SYMPTOM 4220 4245	Buena capacidad funcional
+T31	SYMPTOM 4660 4674	dolor torácico
+T32	SYMPTOM 4884 4914	alteraciones de repolarización
+T33	SYMPTOM 4921 4941	intervalo QTc normal
+T34	SYMPTOM 5011 5022	FEVI normal
+T35	SYMPTOM 5704 5729	estable hemodinámicamente
+T36	SYMPTOM 5758 5771	ritmo sinusal
+T37	SYMPTOM 5892 5911	déficit neurológico
+T38	SYMPTOM 6101 6113	asintomático
+T39	SYMPTOM 6116 6141	estable hemodinámicamente
+T40	SYMPTOM 6463 6475	asintomático
+T119	SYMPTOM 1845 1869	Extremidades: sin edemas
+T122	SYMPTOM 2641 2686	alteraciones de la contractilidad segmentaria
+T133	SYMPTOM 1011 1024	ritmo sinusal
+T136	SYMPTOM 4865 4878	ritmo sinusal
+T120	SYMPTOM 759 777	sin pulso palpable
+T17	SYMPTOM 2805 2830	Ventrículo derecho normal
+T138	SYMPTOM 3683 3715	Arteria circunfleja sin lesiones
+T151	SYMPTOM 5509 5542	arterias epicárdicas sin lesiones
+T153	SYMPTOM 2447 2481	Campos pulmonares sin condensación
+T22	SYMPTOM 3077 3125	arterias coronarias epicárdicas sin ateromatosis
+T2	SYMPTOM 2997 3028	Vena cava inferior (VCI) normal
+T27	SYMPTOM 5221 5236	hiperlactidemia
+T30	SYMPTOM 5263 5293	cifras de hemoglobina normales
+T41	SYMPTOM 6489 6585	ergometría y ecocardiograma de estrés resultando ambas pruebas máximas y negativas para isquemia

@@ -1,0 +1,17 @@
+T15	PROCEDURE 256 269	Examen físico
+T16	PROCEDURE 318 348	Auscultación cardiaca: rítmico
+T17	PROCEDURE 428 449	Auscultación pulmonar
+T18	PROCEDURE 807 816	marcapaso
+T19	PROCEDURE 1195 1198	ECG
+T20	PROCEDURE 1310 1330	Radiografía de tórax
+T21	PROCEDURE 1494 1508	Ecocardiograma
+T22	PROCEDURE 1629 1644	Holter 24 horas
+T23	PROCEDURE 2017 2063	evaluar la integridad del sistema de marcapaso
+T24	PROCEDURE 2281 2314	retirar el generador del bolsillo
+T25	PROCEDURE 1069 1088	Analítica sanguínea
+T26	PROCEDURE 209 229	cambios de electrodo
+T27	PROCEDURE 700 730	el marcapaso le fue implantado
+T28	PROCEDURE 904 970	cirugías que realizó hasta el momento fueron cambios de electrodos
+T37	PROCEDURE 2154 2164	marcapasos
+T35	PROCEDURE 1987 2011	procedimiento quirúrgico
+T36	PROCEDURE 2542 2633	recibió nuevo sistema de estimulación St. Jude Zephyr SR programado VVIR 70 lpm, epicárdico

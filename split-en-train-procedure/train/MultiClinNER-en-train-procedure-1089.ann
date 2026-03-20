@@ -1,0 +1,26 @@
+T38	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 447 458	examination
+T25	PROCEDURE 637 654	electrocardiogram
+T2	PROCEDURE 764 778	echocardiogram
+T7	PROCEDURE 839 867	transthoracic echocardiogram
+T6	PROCEDURE 869 872	TTE
+T9	PROCEDURE 1655 1684	study of the pulmonary artery
+T37	PROCEDURE 1724 1738	colour Doppler
+T10	PROCEDURE 1945 1948	TTE
+T26	PROCEDURE 2036 2047	coronary CT
+T27	PROCEDURE 2058 2069	coronary CT
+T28	PROCEDURE 2400 2423	coronary reimplantation
+T40	PROCEDURE 2428 2462	repair surgery on the mitral valve
+T41	PROCEDURE 2551 2554	TTE
+T29	PROCEDURE 2614 2637	coronary reimplantation
+T39	PROCEDURE 2643 2655	intervention
+T31	PROCEDURE 2674 2684	sternotomy
+T32	PROCEDURE 2752 2789	Resection of the left coronary button
+T33	PROCEDURE 2795 2851	anastomosis to the posterior wall of the ascending aorta
+T34	PROCEDURE 2856 2873	closure of the PA
+T43	PROCEDURE 2910 3048	mitral plasty with suturing of the anterior commissure to one third of the mitral valve and suturing of the posterior leaflet pseudo-cleft
+T45	PROCEDURE 3235 3238	TTE
+T47	PROCEDURE 3480 3483	TTE
+T35	PROCEDURE 3750 3766	mitral plication
+T36	PROCEDURE 4058 4089	Coronary reimplantation surgery
+T30	PROCEDURE 4094 4107	mitral plasty

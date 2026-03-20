@@ -1,0 +1,37 @@
+T1	SYMPTOM 399 454	citología de orina y sedimento: dentro de la normalidad
+T2	SYMPTOM 1674 1694	distensión abdominal
+T3	SYMPTOM 1098 1149	radiografía de tórax (que es informada como normal)
+T4	SYMPTOM 1715 1736	irritación peritoneal
+T5	SYMPTOM 1567 1587	síntomas miccionales
+T6	SYMPTOM 2214 2245	masa a nivel de uraco y ombligo
+T7	SYMPTOM 1589 1604	dolor abdominal
+T8	SYMPTOM 1606 1613	vómitos
+T9	SYMPTOM 1616 1624	anorexia
+T10	SYMPTOM 1942 1962	distensión abdominal
+T11	SYMPTOM 1413 1448	líquido libre en cavidad peritoneal
+T12	SYMPTOM 2787 2799	asintomático
+T13	SYMPTOM 213 244	próstata estaba bien delimitada
+T14	SYMPTOM 535 548	Vejiga normal
+T15	SYMPTOM 636 655	Uréteres permeables
+T16	SYMPTOM 657 670	Vejiga normal
+T17	SYMPTOM 737 783	'fuga de contraste' hacia la cavidad abdominal
+T18	SYMPTOM 2346 2401	material mucoide infiltrando toda la cavidad peritoneal
+T19	SYMPTOM 2653 2669	material mucoide
+T20	SYMPTOM 2806 2846	estudio de extensión libre de enfermedad
+T21	SYMPTOM 129 151	hematuria macroscópica
+T23	SYMPTOM 1784 1796	leucocitosis
+T24	SYMPTOM 1801 1812	neutrofilia
+T25	SYMPTOM 2035 2051	líquido ascítico
+T27	SYMPTOM 800 804	masa
+T28	SYMPTOM 1541 1552	fiebre alta
+A1	RESULTADO T1
+A2	IMAGEN T3
+A3	IMAGEN T11
+A4	IMAGEN T14
+A5	IMAGEN T15
+A6	IMAGEN T16
+A7	IMAGEN T17
+A8	RESULTADO T23
+A9	RESULTADO T24
+A10	IMAGEN T25
+A11	RESULTADO T27

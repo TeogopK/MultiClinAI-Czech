@@ -1,0 +1,58 @@
+T1	SYMPTOM 437 454	vegetative cortex
+T2	SYMPTOM 558 568	orthopnoea
+T3	SYMPTOM 570 599	paroxysmal nocturnal dyspnoea
+T4	SYMPTOM 601 613	palpitations
+T5	SYMPTOM 4010 4022	palpitations
+T6	SYMPTOM 615 646	dyspnoea at rest or on exertion
+T7	SYMPTOM 648 664	malleolar oedema
+T8	SYMPTOM 1497 1513	malleolar oedema
+T9	SYMPTOM 911 919	afebrile
+T10	SYMPTOM 964 973	conscious
+T11	SYMPTOM 978 986	oriented
+T12	SYMPTOM 991 1013	good general condition
+T13	SYMPTOM 1015 1030	eupneic at rest
+T14	SYMPTOM 1032 1045	normohydrated
+T15	SYMPTOM 1146 1167	jugular ingurgitation
+T16	SYMPTOM 1169 1210	Cardiopulmonary auscultation was rhythmic
+T17	SYMPTOM 1223 1230	murmurs
+T18	SYMPTOM 1237 1263	preserved vesicular murmur
+T19	SYMPTOM 1373 1379	masses
+T20	SYMPTOM 1383 1392	megaliths
+T21	SYMPTOM 1394 1415	generalised tympanism
+T22	SYMPTOM 1420 1430	peritonism
+T23	SYMPTOM 1739 1756	normal leukocytes
+T24	SYMPTOM 1758 1774	normal platelets
+T25	SYMPTOM 1776 1795	normal biochemistry
+T26	SYMPTOM 1857 1868	normal ions
+T27	SYMPTOM 1873 1891	normal coagulation
+T28	SYMPTOM 2132 2144	sinus rhythm
+T29	SYMPTOM 2789 2827	moderately depressed systolic function
+T30	SYMPTOM 4120 4158	moderately depressed systolic function
+T31	SYMPTOM 2923 2947	normal systolic function
+T34	SYMPTOM 4026 4034	dyspnoea
+T35	SYMPTOM 4901 4921	ST-segment elevation
+T36	SYMPTOM 1797 1807	normal CPK
+T37	SYMPTOM 2636 2682	anteroapical, inferoapical and apical akinesia
+T38	SYMPTOM 2975 3015	right and left atria were normal in size
+T40	SYMPTOM 3763 3785	cardiologically stable
+T41	SYMPTOM 4352 4364	asymptomatic
+T42	SYMPTOM 4753 4765	asymptomatic
+T43	SYMPTOM 4958 4982	normal coronary arteries
+T44	SYMPTOM 303 335	oppressive central thoracic pain
+T32	SYMPTOM 668 683	reduced diuresi
+T33	SYMPTOM 1047 1060	normal colour
+T39	SYMPTOM 1065 1077	normal depth
+T45	SYMPTOM 1079 1123	Carotid pulses were rhythmic and symmetrical
+T46	SYMPTOM 1298 1368	soft and depressible abdomen, no pain on superficial or deep palpation
+T47	SYMPTOM 1435 1463	positive hydro-aerial sounds
+T48	SYMPTOM 1520 1574	symmetrical posterior pedial and tibial pulses present
+T49	SYMPTOM 1834 1855	normal renal function
+T50	SYMPTOM 1944 1974	increased cardiothoracic index
+T51	SYMPTOM 1979 2019	alterations of the bronchovascular tract
+T52	SYMPTOM 2024 2060	alveolar or interstitial infiltrates
+T53	SYMPTOM 2232 2302	isodiphasic T waves from V3-V4 and symmetric negative waves from V5-V6
+T54	SYMPTOM 2557 2603	left ventricle at the upper limit of normality
+T55	SYMPTOM 2744 2784	diastolic pattern of impaired relaxation
+T56	SYMPTOM 3391 3429	Morphologically normal tricuspid valve
+T57	SYMPTOM 3558 3609	pericardium had normal thickness and refractoriness
+T58	SYMPTOM 3637 3721	inferior vena cava was not dilated, and collapsed adequately (>50%) with inspiration

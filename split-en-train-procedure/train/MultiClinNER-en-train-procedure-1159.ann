@@ -1,0 +1,36 @@
+T72	PROCEDURE 663 683	PHYSICAL EXAMINATION
+T47	PROCEDURE 780 800	Cardiac auscultation
+T48	PROCEDURE 912 934	Pulmonary auscultation
+T74	PROCEDURE 1265 1277	Proteinogram
+T71	PROCEDURE 1316 1328	Autoimmunity
+T3	PROCEDURE 1388 1403	Bronchoaspirate
+T2	PROCEDURE 1388 1426	Bronchoaspirate: negative microbiology
+T73	PROCEDURE 1428 1435	Mantoux
+T49	PROCEDURE 1482 1485	ECG
+T50	PROCEDURE 1648 1661	Blood culture
+T51	PROCEDURE 1664 1675	antibiogram
+T52	PROCEDURE 1728 1739	Chest X-ray
+T53	PROCEDURE 1840 1854	Echocardiogram
+T56	PROCEDURE 2451 2462	Gastroscopy
+T58	PROCEDURE 2472 2489	Duodenal biopsies
+T59	PROCEDURE 2511 2522	Colonoscopy
+T61	PROCEDURE 2557 2578	Thoracic-abdominal CT
+T62	PROCEDURE 2597 2608	Coronary CT
+T7	PROCEDURE 2673 2721	Culture of aortic and tricuspid valve vegetation
+T63	PROCEDURE 2879 2893	blood cultures
+T64	PROCEDURE 2953 2973	antibiotic treatment
+T76	PROCEDURE 3048 3066	diuretic treatment
+T54	PROCEDURE 3102 3116	echocardiogram
+T57	PROCEDURE 3312 3323	gastroscopy
+T60	PROCEDURE 3328 3339	colonoscopy
+T10	PROCEDURE 3399 3421	CT scan of the abdomen
+T67	PROCEDURE 3648 3667	mitral annuloplasty
+T69	PROCEDURE 3672 3694	tricuspid annuloplasty
+T12	PROCEDURE 3699 3739	closure of the ventricular septal defect
+T65	PROCEDURE 3836 3856	antibiotic treatment
+T66	PROCEDURE 3952 3972	Antibiotic treatment
+T55	PROCEDURE 4001 4015	echocardiogram
+T19	PROCEDURE 4514 4563	Aortic valve replacement by mechanical prosthesis
+T68	PROCEDURE 4565 4584	mitral annuloplasty
+T70	PROCEDURE 4586 4608	tricuspid annuloplasty
+T18	PROCEDURE 4613 4624	VSD closure

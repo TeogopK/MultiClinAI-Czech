@@ -1,0 +1,16 @@
+T1	SYMPTOM 1684 1736	pulmones estaban aumentados de tamaño y consistencia
+T2	SYMPTOM 1571 1678	coloración rojo violada en tercio inferior de muslos, rodillas, zona genital y porción inferior del abdomen
+T3	SYMPTOM 66 86	dolor centrotorácico
+T4	SYMPTOM 1386 1418	livideces en miembros inferiores
+T5	SYMPTOM 101 119	hormigueo en manos
+T6	SYMPTOM 687 721	dolor en ambos miembros inferiores
+T7	SYMPTOM 737 752	palidez intensa
+T8	SYMPTOM 755 772	ausencia de pulso
+T9	SYMPTOM 1214 1222	frialdad
+T10	SYMPTOM 122 129	náuseas
+T11	SYMPTOM 1341 1367	inestabilidad hemodinámica
+T12	SYMPTOM 1762 1773	crepitación
+T13	SYMPTOM 2597 2631	hígado exhibía aspecto esteatósico
+T14	SYMPTOM 1474 1480	muerte
+T15	SYMPTOM 1821 1826	Fóvea
+A1	EXITUS T14

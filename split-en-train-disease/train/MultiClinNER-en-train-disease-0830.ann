@@ -1,0 +1,35 @@
+T1	DISEASE 94 126	allergic reactions to medication
+T20	DISEASE 128 137	Ex-smoker
+T21	DISEASE 156 177	Arterial hypertension
+T24	DISEASE 182 194	enolic habit
+T25	DISEASE 228 241	heart failure
+T27	DISEASE 243 287	Severe left ventricular systolic dysfunction
+T28	DISEASE 379 444	Right ventricular dysfunction with severe tricuspid regurgitation
+T29	DISEASE 449 478	severe pulmonary hypertension
+T2	DISEASE 480 510	Transposition of great vessels
+T50	DISEASE 622 638	coronary lesions
+T30	DISEASE 865 879	hyperuricaemia
+T4	DISEASE 881 914	Stage 3aA1 chronic kidney disease
+T31	DISEASE 916 936	Urothelial carcinoma
+T5	DISEASE 985 1011	Anxiosodepressive syndrome
+T32	DISEASE 1043 1063	sudden cardiac death
+T33	DISEASE 1124 1146	cardiovascular disease
+T34	DISEASE 2497 2517	deep vein thrombosis
+T35	DISEASE 2718 2733	acute ischaemia
+T7	DISEASE 3236 3287	Parenchymal infiltrate in the right lower lung lobe
+T36	DISEASE 3318 3334	pleural effusion
+T43	DISEASE 4300 4320	pulmonary infiltrate
+T37	DISEASE 4552 4570	COVID-19 infection
+T51	DISEASE 4766 4777	lymphopenia
+T52	DISEASE 4782 4798	thrombocytopenia
+T38	DISEASE 4942 4961	diarrhoeal syndrome
+T39	DISEASE 5210 5227	cardiac pathology
+T53	DISEASE 5297 5317	pneumonic infiltrate
+T41	DISEASE 5340 5348	COVID-19
+T44	DISEASE 5600 5620	pulmonary infiltrate
+T45	DISEASE 5930 5945	iron deficiency
+T47	DISEASE 6822 6843	chronic heart failure
+T15	DISEASE 6910 6940	transposition of great vessels
+T48	DISEASE 6942 6990	Right lower pneumonia due to SARS-CoV-2/COVID-19
+T49	DISEASE 6995 7029	exacerbated chronic kidney disease
+T46	DISEASE 7031 7046	Iron deficiency

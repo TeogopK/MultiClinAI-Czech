@@ -1,0 +1,24 @@
+T1	SYMPTOM 418 466	aumento de tamaño en la cara posterior del muslo
+T2	SYMPTOM 2488 2499	parestesias
+T3	SYMPTOM 490 509	tumoración profunda
+T4	SYMPTOM 157 189	dolor y parestesias en la pierna
+T5	SYMPTOM 254 263	pie caído
+T6	SYMPTOM 266 293	dificultades para la marcha
+T7	SYMPTOM 2663 2674	parestesias
+T8	SYMPTOM 2691 2714	alteración en la marcha
+T9	SYMPTOM 1244 1290	masa desplaza posteriormente el nervio ciático
+T10	SYMPTOM 2645 2657	asintomática
+T11	SYMPTOM 2141 2153	hemorrágicas
+T12	SYMPTOM 2473 2478	dolor
+T13	SYMPTOM 2680 2685	dolor
+T14	SYMPTOM 552 560	dolorosa
+T15	SYMPTOM 914 949	muslo derecho se visualiza una masa
+T16	SYMPTOM 1596 1606	tumoración
+T17	SYMPTOM 1666 1676	tumoración
+T18	SYMPTOM 1831 1841	tumoración
+T19	SYMPTOM 1991 2001	tumoración
+T20	SYMPTOM 1770 1780	tumoración
+T21	SYMPTOM 713 723	tumoración
+A1	IMAGEN T9
+A2	IMAGEN T15
+A3	IMAGEN T16

@@ -1,0 +1,30 @@
+T47	DISEASE 176 190	drug allergies
+T48	DISEASE 224 245	arterial hypertension
+T49	DISEASE 247 255	diabetes
+T50	DISEASE 259 272	dyslipidaemia
+T51	DISEASE 277 289	toxic habits
+T52	DISEASE 1289 1309	deep vein thrombosis
+T53	DISEASE 1311 1314	DVT
+T44	DISEASE 1429 1458	atrioventricular dissociation
+T54	DISEASE 1503 1526	ventricular tachycardia
+T45	DISEASE 1903 1932	atrioventricular dissociation
+T1	DISEASE 1972 1986	monomorphic VT
+T57	DISEASE 2055 2058	BRD
+T65	DISEASE 2280 2358	left ventricle neither dilated nor hypertrophic with mild systolic dysfunction
+T58	DISEASE 2551 2565	valvulopathies
+T59	DISEASE 2630 2650	pericardial effusion
+T46	DISEASE 2898 2981	dilated left ventricle with eccentric remodelling and moderate systolic dysfunction
+T60	DISEASE 3242 3271	arrhythmogenic cardiomyopathy
+T63	DISEASE 3277 3300	chronic myopericarditis
+T64	DISEASE 3487 3515	left ventricular dysfunction
+T55	DISEASE 3765 3788	ventricular tachycardia
+T67	DISEASE 4179 4199	systolic dysfunction
+T4	DISEASE 4204 4257	segmental disorders of left ventricular contractility
+T69	DISEASE 4371 4389	coronary ischaemia
+T70	DISEASE 4851 4902	arrhythmogenic cardiomyopathy of the left ventricle
+T74	DISEASE 5192 5204	sudden death
+T10	DISEASE 5346 5357	tachycardia
+T11	DISEASE 5361 5387	appropriate ICD discharges
+T71	DISEASE 5400 5451	Arrhythmogenic cardiomyopathy of the left ventricle
+T72	DISEASE 5473 5518	Sustained monomorphic ventricular tachycardia
+T73	DISEASE 5520 5562	Mild left ventricular systolic dysfunction

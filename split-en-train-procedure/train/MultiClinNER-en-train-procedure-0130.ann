@@ -1,0 +1,14 @@
+T7	PROCEDURE 370 388	bimanual palpation
+T6	PROCEDURE 506 526	physical examination
+T13	PROCEDURE 637 657	CT scan of the brain
+T1	PROCEDURE 659 681	Soft tissue ultrasound
+T2	PROCEDURE 816 838	Fine needle aspiration
+T16	PROCEDURE 816 872	Fine needle aspiration puncture under ultrasound control
+T17	PROCEDURE 854 872	ultrasound control
+T18	PROCEDURE 970 985	freezing biopsy
+T10	PROCEDURE 970 1038	freezing biopsy under general anaesthesia with an intraoral approach
+T4	PROCEDURE 992 1011	general anaesthesia
+T8	PROCEDURE 1244 1255	was removed
+T3	PROCEDURE 1385 1398	Freeze biopsy
+T5	PROCEDURE 1459 1524	The mucosa was closed with separate stitches of polyglycolic acid
+T9	PROCEDURE 1760 1772	histological

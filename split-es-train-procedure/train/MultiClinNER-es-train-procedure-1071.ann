@@ -1,0 +1,37 @@
+T109	PROCEDURE 80 99	biopsia transrectal
+T110	PROCEDURE 250 271	antidiabéticos orales
+T111	PROCEDURE 448 463	coronariografía
+T112	PROCEDURE 477 611	angioplastia coronaria transluminal percutánea (ACTP) a arteria descendente anterior (DA) proximal con implante de stent farmacoactivo
+T113	PROCEDURE 1013 1027	ecocardiograma
+T114	PROCEDURE 2712 2733	Auscultación cardiaca
+T115	PROCEDURE 2755 2776	Auscultación pulmonar
+T116	PROCEDURE 2835 2857	Auscultación abdominal
+T117	PROCEDURE 3943 3961	Electrocardiograma
+T118	PROCEDURE 3963 3966	ECG
+T119	PROCEDURE 4144 4173	Resonancia magnética cardiaca
+T120	PROCEDURE 4735 4754	Ecografía abdominal
+T121	PROCEDURE 5574 5585	Colangio-RM
+T122	PROCEDURE 7228 7262	serologías para virus hepatotropos
+T123	PROCEDURE 7264 7299	determinación de parásitos en heces
+T124	PROCEDURE 7302 7324	pruebas de inmunología
+T125	PROCEDURE 7417 7436	ecografía abdominal
+T126	PROCEDURE 7443 7454	colangio-RM
+T127	PROCEDURE 8780 8800	inhibidores de PCSK9
+T128	PROCEDURE 8992 9006	ecocardiograma
+T129	PROCEDURE 9027 9047	resonancia magnética
+T130	PROCEDURE 9376 9391	implante de DAI
+T147	PROCEDURE 2338 2356	EXPLORACIÓN FÍSICA
+T149	PROCEDURE 6131 6142	Inmunología
+T150	PROCEDURE 6312 6330	Parásitos en heces
+T151	PROCEDURE 5956 5966	Serologías
+T153	PROCEDURE 891 906	betabloqueantes
+T154	PROCEDURE 7839 7848	estatinas
+T155	PROCEDURE 8033 8058	tratamiento con estatinas
+T159	PROCEDURE 825 880	inhibidor de la enzima de conversión de la angiotensina
+T160	PROCEDURE 2948 2967	palpación abdominal
+T162	PROCEDURE 9732 9747	Implante de DAI
+T164	PROCEDURE 3189 3198	Analítica
+T200	PROCEDURE 7385 7403	estudios de imagen
+T53	PROCEDURE 525 529	ACTP
+T179	PROCEDURE 6045 6068	vacunación frente a VHB
+T157	PROCEDURE 6905 6943	administración de 1 ampolla vitamina K

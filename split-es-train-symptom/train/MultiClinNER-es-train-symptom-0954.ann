@@ -1,0 +1,44 @@
+T1	SYMPTOM 213 228	síndrome febril
+T2	SYMPTOM 397 406	febrícula
+T3	SYMPTOM 488 541	disnea de esfuerzo progresiva hasta hacerse de reposo
+T4	SYMPTOM 543 588	dolor torácico de características pleuríticas
+T5	SYMPTOM 591 620	edemas en miembros inferiores
+T6	SYMPTOM 659 681	regular estado general
+T7	SYMPTOM 683 704	taquipneica en reposo
+T8	SYMPTOM 718 739	ingurgitación yugular
+T9	SYMPTOM 790 879	descenso anormal de la presión sistólica y de la amplitud de pulso durante la inspiración
+T10	SYMPTOM 881 897	pulso paradójico
+T11	SYMPTOM 902 909	Afebril
+T12	SYMPTOM 913 953	Auscultación cardiorrespiratoria rítmica
+T13	SYMPTOM 959 965	soplos
+T14	SYMPTOM 967 979	taquicárdica
+T15	SYMPTOM 1012 1045	buen murmullo vesicular bilateral
+T16	SYMPTOM 1058 1079	crepitantes bibasales
+T17	SYMPTOM 1082 1099	hipofonesis basal
+T18	SYMPTOM 1113 1168	Abdomen blando y depresible, no doloroso a la palpación
+T20	SYMPTOM 1175 1190	visceromegalias
+T21	SYMPTOM 1194 1244	Miembros inferiores con ligeros edemas pretibiales
+T23	SYMPTOM 1377 1401	escasa onda R de V1 a V3
+T24	SYMPTOM 1416 1461	bioquímica con iones y función renal normales
+T25	SYMPTOM 1542 1552	linfopenia
+T26	SYMPTOM 1554 1572	Coagulación normal
+T28	SYMPTOM 1805 1830	Hipoquinesia generalizada
+T33	SYMPTOM 3893 3908	síndrome febril
+T34	SYMPTOM 4112 4153	anticuerpos antinucleares (ANA) positivos
+T35	SYMPTOM 4175 4193	hipocomplementemia
+T36	SYMPTOM 4270 4281	LDH elevada
+T37	SYMPTOM 4284 4307	test de Coombs positivo
+T22	SYMPTOM 1835 1884	fracción de eyección (FEVI) severamente deprimida
+T27	SYMPTOM 4155 4173	anti-DNA positivos
+T30	SYMPTOM 4246 4268	hipergammagrobulinemia
+T107	SYMPTOM 2963 2995	aumento del trabajo respiratorio
+T31	SYMPTOM 285 346	se obtuvo aislamiento microbiológico del exudado de la herida
+T32	SYMPTOM 1362 1374	bajo voltaje
+T39	SYMPTOM 1680 1717	ventrículo izquierdo (VI) no dilatado
+T65	SYMPTOM 2113 2196	pared libre de ventrículo derecho (VD) y aurícula derecha (AD), con colapso parcial
+T92	SYMPTOM 2268 2318	variaciones respiratorias de los flujos valvulares
+T29	SYMPTOM 2320 2386	Vena cava inferior con diámetro de 20 mm, sin colapso inspiratorio
+T101	SYMPTOM 2731 2788	líquido seroso con características bioquímicas de exudado
+T102	SYMPTOM 3174 3241	toracocentesis diagnóstico-terapéutica, obteniéndose líquido seroso
+T103	SYMPTOM 3585 3594	DP mínimo
+T106	SYMPTOM 4195 4244	anticuerpos anticardiolipina en niveles moderados

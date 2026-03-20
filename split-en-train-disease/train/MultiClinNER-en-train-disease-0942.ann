@@ -1,0 +1,43 @@
+T10	DISEASE 92 107	type 2 diabetic
+T11	DISEASE 253 277	congestive heart failure
+T12	DISEASE 383 393	overweight
+T13	DISEASE 406 424	metabolic syndrome
+T16	DISEASE 436 448	hypertensive
+T18	DISEASE 623 653	inferior myocardial infarction
+T45	DISEASE 742 771	permanent atrial fibrillation
+T23	DISEASE 752 771	atrial fibrillation
+T19	DISEASE 828 845	ischaemic colitis
+T20	DISEASE 864 877	gastric ulcer
+T21	DISEASE 992 1007	rectal bleeding
+T22	DISEASE 2118 2153	acute hypertensive pulmonary oedema
+T17	DISEASE 2124 2136	hypertensive
+T24	DISEASE 2437 2456	atrial fibrillation
+T27	DISEASE 2880 2927	moderate right ventricular systolic dysfunction
+T29	DISEASE 3642 3668	decompensations due to CHF
+T14	DISEASE 3705 3723	metabolic syndrome
+T30	DISEASE 3987 4006	global cardiomegaly
+T31	DISEASE 4090 4106	cisural effusion
+T25	DISEASE 4146 4165	atrial fibrillation
+T48	DISEASE 4290 4323	moderately dilated left ventricle
+T32	DISEASE 4486 4494	aneurysm
+T49	DISEASE 4764 4822	Mitral valve with calcium ring, thickening of the leaflets
+T33	DISEASE 4873 4891	Mild insufficiency
+T47	DISEASE 4893 4915	Sclerosed aortic valve
+T34	DISEASE 4961 4979	Mild insufficiency
+T50	DISEASE 5102 5128	Dilated inferior vena cava
+T35	DISEASE 5174 5194	pericardial effusion
+T36	DISEASE 5327 5365	Anterior descending: chronic occlusion
+T51	DISEASE 6345 6376	severely dilated left ventricle
+T52	DISEASE 6892 6922	Moderately dilated left atrium
+T37	DISEASE 7142 7187	dilated cardiomyopathy of ischaemic aetiology
+T28	DISEASE 7392 7439	Moderate right ventricular systolic dysfunction
+T38	DISEASE 8267 8288	Chronic heart failure
+T39	DISEASE 8355 8424	Chronic ischaemic heart disease with 3-vessel coronary artery disease
+T40	DISEASE 8461 8501	Chronic inferior and anterior infarction
+T46	DISEASE 8639 8668	Permanent atrial fibrillation
+T26	DISEASE 8649 8668	atrial fibrillation
+T41	DISEASE 8698 8715	Diabetes mellitus
+T42	DISEASE 8762 8783	Arterial hypertension
+T43	DISEASE 8771 8783	hypertension
+T44	DISEASE 8785 8798	Dyslipidaemia
+T15	DISEASE 8813 8831	Metabolic syndrome

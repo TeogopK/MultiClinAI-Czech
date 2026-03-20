@@ -1,0 +1,60 @@
+T1	SYMPTOM 705 744	debilidad y torpeza en miembro superior
+T3	SYMPTOM 897 926	debilidad en miembro inferior
+T4	SYMPTOM 951 982	desviación de la comisura bucal
+T5	SYMPTOM 1154 1160	fiebre
+T6	SYMPTOM 1177 1197	sensación distérmica
+T7	SYMPTOM 1202 1216	dolor torácico
+T8	SYMPTOM 1218 1224	disnea
+T9	SYMPTOM 1228 1241	palpitaciones
+T10	SYMPTOM 1263 1282	Buen estado general
+T11	SYMPTOM 1284 1317	Normocoloración de piel y mucosas
+T12	SYMPTOM 1357 1366	exantemas
+T13	SYMPTOM 1370 1379	petequias
+T14	SYMPTOM 1397 1415	Eupneico en reposo
+T15	SYMPTOM 1556 1595	Auscultación cardiaca: ruidos regulares
+T16	SYMPTOM 1600 1606	soplos
+T17	SYMPTOM 1635 1664	murmullo vesicular conservado
+T19	SYMPTOM 1691 1731	Abdomen blando y depresible, no doloroso
+T20	SYMPTOM 1747 1768	irritación peritoneal
+T22	SYMPTOM 1807 1812	masas
+T23	SYMPTOM 1814 1848	Extremidades inferiores sin edemas
+T24	SYMPTOM 1855 1884	pulsos presentes y simétricos
+T25	SYMPTOM 1920 1930	Consciente
+T26	SYMPTOM 1933 1942	orientado
+T27	SYMPTOM 1947 1966	lenguaje conservado
+T28	SYMPTOM 1977 1986	disartria
+T29	SYMPTOM 1988 2024	Pupilas isocóricas y normorreactivas
+T30	SYMPTOM 2026 2062	Campimetría por confrontación normal
+T31	SYMPTOM 2064 2098	Motilidad ocular extrínseca normal
+T32	SYMPTOM 2100 2128	Desviación de comisura bucal
+T34	SYMPTOM 2247 2264	soplos carotídeos
+T35	SYMPTOM 2313 2345	Sensibilidad y reflejos normales
+T36	SYMPTOM 2347 2384	Reflejos cutáneo plantares en flexión
+T37	SYMPTOM 2393 2402	dismetría
+T38	SYMPTOM 2406 2421	adiadococinesia
+T39	SYMPTOM 2423 2439	Romberg negativo
+T40	SYMPTOM 2462 2487	alteraciones en la marcha
+T41	SYMPTOM 2535 2548	ritmo sinusal
+T42	SYMPTOM 3306 3334	índice cardiotorácico normal
+T43	SYMPTOM 3357 3405	Engrosamiento del intersticio peribroncovascular
+T45	SYMPTOM 3884 3889	edema
+T47	SYMPTOM 5151 5164	ritmo sinusal
+T49	SYMPTOM 5646 5681	función global sistólica conservada
+T50	SYMPTOM 5683 5712	Movimiento septobasal anómalo
+T51	SYMPTOM 5724 5779	alteraciones de la contractilidad segmentaria en reposo
+T54	SYMPTOM 6833 6874	debilidad de miembros inferior y superior
+T55	SYMPTOM 6886 6902	asimetría facial
+T56	SYMPTOM 8018 8030	asintomático
+T2	SYMPTOM 1319 1352	Nutrición e hidratación adecuadas
+T46	SYMPTOM 5823 5885	Patrón de llenado transmitral tipo alteración de la relajación
+T52	SYMPTOM 5962 5987	Ventrículo derecho normal
+T115	SYMPTOM 6236 6240	Masa
+T144	SYMPTOM 3432 3445	consolidación
+T145	SYMPTOM 3891 3916	desviación de línea media
+T150	SYMPTOM 6779 6800	focalidad neurológica
+T18	SYMPTOM 2150 2184	desaparición del surco nasogeniano
+T133	SYMPTOM 3639 3689	hipoatenuación de sustancia blanca periventricular
+T135	SYMPTOM 3983 4044	ocupación por restos mucosos de celdas etmoidales bilaterales
+T136	SYMPTOM 4147 4215	troncos supraaórticos y el polígono de Willis se muestran permeables
+T138	SYMPTOM 4651 4686	focos de restricción de la difusión
+T44	SYMPTOM 6463 6498	Orejuela izquierda libre de trombos

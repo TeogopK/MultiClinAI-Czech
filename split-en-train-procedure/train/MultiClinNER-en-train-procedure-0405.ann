@@ -1,0 +1,13 @@
+T4	PROCEDURE 266 286	Physical examination
+T7	PROCEDURE 371 380	palpation
+T10	PROCEDURE 566 573	CT scan
+T6	PROCEDURE 581 630	ultrasound-guided fine needle puncture-aspiration
+T13	PROCEDURE 632 637	FNAUS
+T14	PROCEDURE 680 687	CT scan
+T15	PROCEDURE 851 883	FNAUS of the right costal region
+T2	PROCEDURE 939 968	biopsy-excision of the tumour
+T3	PROCEDURE 975 992	local anaesthesia
+T18	PROCEDURE 1110 1177	subperiosteal dissection including frontalis muscle and pericranium
+T5	PROCEDURE 1249 1279	Closure of the surgical defect
+T1	PROCEDURE 1428 1453	anatomopathological study
+T23	PROCEDURE 1888 1908	Immunohistochemistry

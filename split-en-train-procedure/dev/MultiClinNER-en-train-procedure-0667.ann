@@ -1,0 +1,36 @@
+T2	PROCEDURE 198 218	Abdominal ultrasound
+T30	PROCEDURE 364 378	renal function
+T20	PROCEDURE 429 493	urinary diversion by percutaneous nephrostomy of the left kidney
+T32	PROCEDURE 568 607	positive Lowestein culture in the urine
+T6	PROCEDURE 625 636	nephrostomy
+T35	PROCEDURE 816 826	renal scan
+T3	PROCEDURE 980 1000	abdominal ultrasound
+T37	PROCEDURE 1058 1068	renal scan
+T23	PROCEDURE 1095 1115	antibiotic treatment
+T39	PROCEDURE 1218 1226	cultures
+T10	PROCEDURE 1347 1368	Intravenous urography
+T16	PROCEDURE 1479 1496	right nephrectomy
+T18	PROCEDURE 1515 1550	left uretero-vesical reimplantation
+T22	PROCEDURE 1655 1687	permanent left urinary diversion
+T42	PROCEDURE 1758 1772	renal function
+T4	PROCEDURE 1797 1815	racket nephrostomy
+T15	PROCEDURE 1957 2005	reconstruction of the excretory tract with ileum
+T44	PROCEDURE 2184 2263	freeing and defunctionalising 60 cm of ileum with opening of the left mesocolon
+T5	PROCEDURE 2273 2370	anastomosis of the proximal end of the ileum to the pelvis of the left kidney, with loose sutures
+T7	PROCEDURE 2377 2400	double J tutor catheter
+T17	PROCEDURE 2416 2426	cystectomy
+T19	PROCEDURE 2431 2443	hysterectomy
+T8	PROCEDURE 2494 2540	anastomosis between the neobladder and urethra
+T12	PROCEDURE 2561 2625	detubulation of 30 cm of distal ileum in isoperistaltic position
+T13	PROCEDURE 2637 2691	"U" shaped neobladder with modified Camey type folding
+T46	PROCEDURE 2786 2815	removal of the ureteral tutor
+T24	PROCEDURE 2830 2837	surgery
+T27	PROCEDURE 2839 2848	Cystogram
+T11	PROCEDURE 2866 2880	bladder suture
+T48	PROCEDURE 2985 3033	removal of the nephrostomy and bladder catheter,
+T21	PROCEDURE 3158 3194	Credé manoeuvre to empty the bladder
+T1	PROCEDURE 3215 3226	cystography
+T25	PROCEDURE 3446 3453	surgery
+T14	PROCEDURE 3509 3526	urinary diversion
+T26	PROCEDURE 3604 3611	surgery
+T53	PROCEDURE 3693 3760	bladder emptying at the expense of the Credé and Valsalva manoeuvre

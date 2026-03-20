@@ -1,0 +1,27 @@
+T1	SYMPTOM 469 481	VIH positivo
+T2	SYMPTOM 674 715	disnea progresiva hasta hacerse de reposo
+T3	SYMPTOM 727 735	ortopnea
+T4	SYMPTOM 751 778	disnea paroxística nocturna
+T6	SYMPTOM 839 858	cefalea retroocular
+T7	SYMPTOM 875 889	dolor torácico
+T8	SYMPTOM 891 904	palpitaciones
+T10	SYMPTOM 985 1013	ingurgitación venosa yugular
+T11	SYMPTOM 1019 1050	ritmo de galope por tercer tono
+T12	SYMPTOM 1053 1084	crepitantes hasta campos medios
+T13	SYMPTOM 1210 1222	QRS estrecho
+T14	SYMPTOM 1253 1291	Pobre crecimiento de R en precordiales
+T15	SYMPTOM 1293 1310	Ondas T aplanadas
+T16	SYMPTOM 1359 1390	índice cardiotorácico aumentado
+T22	SYMPTOM 1703 1746	Signos de elevación de presiones de llenado
+T24	SYMPTOM 2510 2562	función sistólica biventricular gravemente deprimida
+T25	SYMPTOM 2953 2979	Estudio genético: negativo
+T105	SYMPTOM 1164 1183	taquicardia sinusal
+T5	SYMPTOM 822 836	discromatopsia
+T9	SYMPTOM 1315 1335	intervalo QTc normal
+T107	SYMPTOM 4483 4530	Arterias coronarias sin lesiones significativas
+T112	SYMPTOM 2904 2951	arterias coronarias sin lesiones significativas
+T115	SYMPTOM 3153 3171	clínica congestiva
+T17	SYMPTOM 1224 1251	eje desviado a la izquierda
+T18	SYMPTOM 1941 2003	hipodensidad cortico- subcortical en territorio de ACP derecha
+T20	SYMPTOM 2703 2794	Realce tardío patológico en la región de inserción de la pared libre del ventrículo derecho
+T21	SYMPTOM 4251 4260	sangrados

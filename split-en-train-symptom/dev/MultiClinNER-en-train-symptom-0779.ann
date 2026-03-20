@@ -1,0 +1,45 @@
+T1	SYMPTOM 1447 1455	dyspnoea
+T2	SYMPTOM 1561 1569	dyspnoea
+T3	SYMPTOM 1490 1511	two-pillow orthopnoea
+T4	SYMPTOM 1513 1523	bendopnoea
+T5	SYMPTOM 1540 1569	paroxysmal nocturnal dyspnoea
+T6	SYMPTOM 1591 1610	subjective oliguria
+T7	SYMPTOM 1615 1660	progressive oedematisation of the lower limbs
+T8	SYMPTOM 1665 1677	palpitations
+T9	SYMPTOM 1681 1691	chest pain
+T10	SYMPTOM 1696 1712	loss of appetite
+T11	SYMPTOM 1728 1733	fever
+T12	SYMPTOM 1903 1912	Conscious
+T13	SYMPTOM 1914 1922	oriented
+T14	SYMPTOM 1939 1950	skin pallor
+T15	SYMPTOM 1988 2007	abdominal breathing
+T16	SYMPTOM 2012 2033	jugular ingurgitation
+T17	SYMPTOM 2057 2067	arrhythmic
+T18	SYMPTOM 2072 2083	tachycardic
+T19	SYMPTOM 2088 2103	audible murmurs
+T20	SYMPTOM 2129 2153	generalised hypophonesis
+T21	SYMPTOM 2379 2408	weak symmetrical pedal pulses
+T22	SYMPTOM 3759 3769	narrow QRS
+T23	SYMPTOM 887 899	sinus rhythm
+T24	SYMPTOM 3833 3845	sinus rhythm
+T25	SYMPTOM 8033 8045	sinus rhythm
+T26	SYMPTOM 3861 3870	normal PR
+T27	SYMPTOM 4512 4567	Right ventricle with slightly reduced systolic function
+T30	SYMPTOM 7521 7555	slightly reduced systolic function
+T31	SYMPTOM 6888 6899	weight loss
+T32	SYMPTOM 8486 8497	weight loss
+T33	SYMPTOM 8746 8757	albuminuria
+T34	SYMPTOM 9727 9739	reduced LVEF
+T35	SYMPTOM 4110 4116	masses
+T36	SYMPTOM 4217 4242	Free costophrenic sinuses
+T37	SYMPTOM 812 827	normal sized LV
+T38	SYMPTOM 1924 1931	sweatin
+T39	SYMPTOM 1961 1969	not deep
+T40	SYMPTOM 1971 1981	Tachypneic
+T41	SYMPTOM 2159 2184	bilateral crackling rales
+T42	SYMPTOM 2202 2251	Abdomen distended, soft, not painful on palpation
+T43	SYMPTOM 2256 2269	visceromegaly
+T44	SYMPTOM 2271 2298	Hydro-aerial sounds present
+T45	SYMPTOM 2300 2334	Oedema with fovea up to both knees
+T46	SYMPTOM 3872 3920	P wave widening suggestive of atrial enlargement
+T47	SYMPTOM 4072 4089	very enlarged CTI

@@ -1,0 +1,26 @@
+T22	SYMPTOM 132 144	palpitations
+T4	SYMPTOM 183 193	chest pain
+T5	SYMPTOM 197 205	dyspnoea
+T21	SYMPTOM 317 329	sudden death
+T9	SYMPTOM 380 389	conscious
+T11	SYMPTOM 394 402	oriented
+T28	SYMPTOM 421 441	respiratory distress
+T29	SYMPTOM 443 490	Cardiac auscultation shows regular heart sounds
+T6	SYMPTOM 534 541	murmurs
+T8	SYMPTOM 543 589	Peripheral pulses are rhythmic and symmetrical
+T34	SYMPTOM 591 612	Good capillary refill
+T13	SYMPTOM 1110 1122	asymptomatic
+T40	SYMPTOM 1138 1163	sensation of palpitations
+T10	SYMPTOM 1297 1306	Conscious
+T12	SYMPTOM 1311 1319	oriented
+T14	SYMPTOM 1321 1335	Good perfusion
+T18	SYMPTOM 1363 1374	tachycardia
+T7	SYMPTOM 1383 1390	murmurs
+T15	SYMPTOM 1392 1416	Normal peripheral pulses
+T19	SYMPTOM 1494 1505	tachycardia
+T20	SYMPTOM 1593 1604	tachycardia
+T1	SYMPTOM 1628 1631	gag
+T51	SYMPTOM 1744 1756	sinus rhythm
+T2	SYMPTOM 1760 1817	baseline ECG was performed, which showed no abnormalities
+T52	SYMPTOM 1838 1889	ions and myocardial enzymes within the normal range
+T54	SYMPTOM 1972 2018	echocardiogram was performed, which was normal

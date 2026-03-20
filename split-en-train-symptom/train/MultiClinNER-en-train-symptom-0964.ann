@@ -1,0 +1,51 @@
+T1	SYMPTOM 508 522	abdominal pain
+T2	SYMPTOM 709 741	lividity in all four extremities
+T3	SYMPTOM 756 782	low level of consciousness
+T4	SYMPTOM 1079 1105	low level of consciousness
+T6	SYMPTOM 1030 1043	hypoperfusion
+T8	SYMPTOM 3552 3565	hypoperfusion
+T9	SYMPTOM 4911 4924	hypoperfusion
+T10	SYMPTOM 1045 1053	afebrile
+T11	SYMPTOM 1110 1123	skin coldness
+T12	SYMPTOM 1157 1178	jugular ingurgitation
+T13	SYMPTOM 1202 1223	rhythmic heart sounds
+T14	SYMPTOM 1242 1249	murmurs
+T15	SYMPTOM 1275 1301	preserved vesicular murmur
+T16	SYMPTOM 1453 1474	poor distal perfusion
+T17	SYMPTOM 1545 1566	poor distal perfusion
+T18	SYMPTOM 1591 1597	oedema
+T19	SYMPTOM 2172 2182	TSH normal
+T20	SYMPTOM 2222 2241	regular tachycardia
+T22	SYMPTOM 2300 2310	narrow QRS
+T23	SYMPTOM 2470 2480	narrow QRS
+T29	SYMPTOM 2312 2354	ST rectification on the inferolateral side
+T30	SYMPTOM 2482 2512	inferolateral ST rectification
+T41	SYMPTOM 8281 8292	tachycardia
+T43	SYMPTOM 2979 2981	RS
+T44	SYMPTOM 3017 3050	narrow QRS without pre-excitation
+T45	SYMPTOM 3703 3727	global hypocontractility
+T46	SYMPTOM 5119 5143	global hypocontractility
+T47	SYMPTOM 3761 3791	RV of normal size and function
+T48	SYMPTOM 4133 4181	Right ventricle (RV) of normal size and function
+T50	SYMPTOM 5148 5175	severe systolic dysfunction
+T52	SYMPTOM 5253 5273	rhythmic tachycardia
+T54	SYMPTOM 5662 5686	haemodynamic instability
+T55	SYMPTOM 8414 8455	preserved biventricular systolic function
+T56	SYMPTOM 3403 3471	reduction in the calibre of the main branches of the abdominal aorta
+T57	SYMPTOM 4828 4896	reduction in the calibre of the main branches of the abdominal aorta
+T58	SYMPTOM 2514 2523	normal QT
+T59	SYMPTOM 3240 3265	Free costophrenic sinuses
+T60	SYMPTOM 4425 4500	Inferior vena cava (IVC) not dilated and with adequate inspiratory collapse
+T62	SYMPTOM 6563 6571	short PR
+T63	SYMPTOM 470 492	poor general condition
+T5	SYMPTOM 1055 1077	Poor general condition
+T7	SYMPTOM 1347 1367	abdominal distension
+T64	SYMPTOM 1374 1403	preserved hydro-aerial sounds
+T65	SYMPTOM 1496 1524	Lividity in both extremities
+T66	SYMPTOM 1638 1666	Lividity in both extremities
+T21	SYMPTOM 2542 2553	tachycardia
+T31	SYMPTOM 2797 2813	negative p waves
+T24	SYMPTOM 3186 3238	Congestive hilar with slight vascular redistribution
+T32	SYMPTOM 3094 3120	repolarisation disturbance
+T49	SYMPTOM 3971 4002	non-dilated left ventricle (LV)
+T25	SYMPTOM 8464 8502	segmental alterations of contractility

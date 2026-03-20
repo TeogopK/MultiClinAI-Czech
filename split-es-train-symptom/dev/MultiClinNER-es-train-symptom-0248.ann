@@ -1,0 +1,13 @@
+T1	SYMPTOM 2884 2889	dolor
+T2	SYMPTOM 375 395	hipertransaminasemia
+T3	SYMPTOM 1828 1833	dolor
+T4	SYMPTOM 1163 1173	normotensa
+T5	SYMPTOM 1175 1187	normotérmica
+T6	SYMPTOM 659 672	ritmo sinusal
+T7	SYMPTOM 2867 2874	estable
+T8	SYMPTOM 674 707	Captura ventricular de marcapasos
+T9	SYMPTOM 766 784	patrón restrictivo
+A1	RESULTADO T2
+A2	RESULTADO T6
+A3	RESULTADO T8
+A4	IMAGEN T9

@@ -1,0 +1,14 @@
+T1	DISEASE 44 70	trastorno afectivo bipolar
+T9	DISEASE 659 680	hipertensión arterial
+T10	DISEASE 697 710	hipopotasemia
+T13	DISEASE 782 800	retención urinaria
+T34	DISEASE 1562 1583	hipertensión arterial
+T35	DISEASE 1585 1588	HTA
+T36	DISEASE 1595 1608	hipernatremia
+T45	DISEASE 2024 2041	catatonia maligna
+T50	DISEASE 2256 2259	HTA
+T54	DISEASE 2391 2402	encefalitis
+T55	DISEASE 2468 2471	TAB
+T56	DISEASE 2482 2499	catatonia maligna
+T62	DISEASE 1223 1239	trombosis venosa
+#1	AnnotatorNotes T55	   TAB:  trastorno afectivo bipolar

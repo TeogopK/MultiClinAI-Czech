@@ -1,0 +1,50 @@
+T57	PROCEDURE 728 750	Pulmonary auscultation
+T96	PROCEDURE 865 874	palpation
+T59	PROCEDURE 1139 1160	acute phase reactants
+T58	PROCEDURE 1420 1442	pulmonary auscultation
+T60	PROCEDURE 1486 1503	electrocardiogram
+T61	PROCEDURE 1612 1626	oxygen therapy
+T62	PROCEDURE 1710 1745	non-invasive mechanical ventilation
+T24	PROCEDURE 1809 1831	bedside echocardiogram
+T23	PROCEDURE 2058 2078	antiplatelet therapy
+T63	PROCEDURE 2109 2129	coronary angiography
+T22	PROCEDURE 2240 2299	PCI was performed with implantation of a drug-eluting stent
+T21	PROCEDURE 2563 2618	implant an intra-aortic balloon counterpulsation device
+T20	PROCEDURE 2735 2746	Blood tests
+T66	PROCEDURE 2935 2944	Haemogram
+T67	PROCEDURE 3076 3106	Markers of myocardial necrosis
+T68	PROCEDURE 3170 3181	Blood gases
+T69	PROCEDURE 3239 3250	Chest X-ray
+T71	PROCEDURE 3356 3359	ECG
+T72	PROCEDURE 3607 3622	Echocardioscopy
+T64	PROCEDURE 3779 3799	coronary angiography
+T19	PROCEDURE 4024 4100	Percutaneous coronary intervention with implantation of 1 drug-eluting stent
+T73	PROCEDURE 4140 4155	Abdominal X-ray
+T70	PROCEDURE 4234 4245	Chest X-ray
+T74	PROCEDURE 4315 4332	Abdominal CT scan
+T75	PROCEDURE 4408 4420	Microbiology
+T76	PROCEDURE 4422 4438	Urinary sediment
+T77	PROCEDURE 4488 4502	Blood cultures
+T80	PROCEDURE 4526 4539	Urine culture
+T81	PROCEDURE 4551 4568	Tracheal aspirate
+T82	PROCEDURE 4813 4835	orotracheal intubation
+T84	PROCEDURE 4840 4862	mechanical ventilation
+T86	PROCEDURE 4877 4895	Swan-Ganz catheter
+T85	PROCEDURE 5277 5290	fluid therapy
+T18	PROCEDURE 5367 5426	Intra-aortic balloon counterpulsation support was decreased
+T17	PROCEDURE 5550 5577	nasogastric tube was placed
+T87	PROCEDURE 5714 5732	Swan-Ganz catheter
+T88	PROCEDURE 5749 5765	echocardiography
+T89	PROCEDURE 5808 5827	thoracoabdominal CT
+T78	PROCEDURE 6148 6162	Blood cultures
+T95	PROCEDURE 6178 6206	empirical antibiotic therapy
+T16	PROCEDURE 6252 6277	Microbiological screening
+T79	PROCEDURE 6309 6323	blood cultures
+T90	PROCEDURE 6394 6425	supra-infraumbilical laparotomy
+T15	PROCEDURE 6471 6491	antiplatelet therapy
+T91	PROCEDURE 6601 6647	recent stent implantation in an ectatic vessel
+T14	PROCEDURE 6813 6871	jejuno-ileum, and resection and anastomosis were performed
+T93	PROCEDURE 7049 7063	echocardiogram
+T13	PROCEDURE 7196 7208	antiplatelet
+T94	PROCEDURE 7283 7306	neurohormonal treatment
+T2	PROCEDURE 7671 7744	Urgent percutaneous revascularisation of the middle right coronary artery

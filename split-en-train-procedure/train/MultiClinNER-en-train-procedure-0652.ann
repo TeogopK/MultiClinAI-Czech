@@ -1,0 +1,17 @@
+T11	PROCEDURE 35 127	transurethral resection (TUR) for high-grade superficial transitional cell bladder neoplasia
+T12	PROCEDURE 340 427	abdominal computed tomography (CT) scan was performed without intravenous (IV) contrast
+T2	PROCEDURE 673 693	abdominal ultrasound
+T14	PROCEDURE 865 872	CT scan
+T15	PROCEDURE 1117 1168	magnetic resonance imaging (MRI) with IV gadolinium
+T5	PROCEDURE 1275 1287	T1 sequences
+T6	PROCEDURE 1471 1496	fat suppression technique
+T7	PROCEDURE 1759 1770	T1 sequence
+T8	PROCEDURE 1799 1814	fat suppression
+T1	PROCEDURE 1822 1847	gadolinium administration
+T10	PROCEDURE 1901 1923	radiological diagnosis
+T9	PROCEDURE 2028 2035	surgery
+T13	PROCEDURE 2049 2087	A reniform mass was surgically removed
+T20	PROCEDURE 2457 2481	pathological examination
+T4	PROCEDURE 2483 2492	Histology
+T3	PROCEDURE 2727 2744	bone marrow study
+T23	PROCEDURE 2941 2968	analysis of the bone marrow

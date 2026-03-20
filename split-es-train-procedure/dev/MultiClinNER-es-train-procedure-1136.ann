@@ -1,0 +1,41 @@
+T64	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T65	PROCEDURE 650 660	vacunación
+T66	PROCEDURE 1150 1168	Electrocardiograma
+T67	PROCEDURE 1293 1322	Radiografía de tórax portátil
+T68	PROCEDURE 1817 1845	Ecocardiograma transtorácico
+T69	PROCEDURE 2201 2211	Serologías
+T70	PROCEDURE 2239 2251	Hemocultivos
+T71	PROCEDURE 2264 2275	Urocultivos
+T72	PROCEDURE 2288 2322	Frotis faríngeo y exudado traqueal
+T73	PROCEDURE 2350 2372	Biopsia endomiocárdica
+T74	PROCEDURE 2374 2396	biopsia endomiocárdica
+T75	PROCEDURE 2513 2516	ECG
+T76	PROCEDURE 2671 2686	Ecocardiografía
+T77	PROCEDURE 2994 3006	RMN cardiaca
+T78	PROCEDURE 3858 3880	biopsia endomiocárdica
+T79	PROCEDURE 3958 3982	corticoides intravenosos
+T80	PROCEDURE 4181 4224	tratamiento con antiarrítmicos intravenosos
+T81	PROCEDURE 4246 4269	cardioversión eléctrica
+T82	PROCEDURE 4321 4371	implantar un balón de contrapulsación intraaórtico
+T83	PROCEDURE 4395 4413	canulación de ECMO
+T84	PROCEDURE 4415 4479	oxigenación por membrana extracorpórea) veno-arterial periférico
+T85	PROCEDURE 4509 4537	terapia de sustitución renal
+T86	PROCEDURE 4611 4640	soporte mecánico circulatorio
+T87	PROCEDURE 4670 4708	se retira escalonadamente ECMO y BCIAo
+T88	PROCEDURE 4810 4834	medicación neurohormonal
+T89	PROCEDURE 4901 4916	ecocardiografía
+T90	PROCEDURE 5007 5027	resonancia magnética
+T91	PROCEDURE 5273 5283	serologías
+T92	PROCEDURE 5536 5561	tratamiento neurohormonal
+T93	PROCEDURE 5672 5716	soporte mecánico circulatorio (ECMO + BCIAo)
+T95	PROCEDURE 5848 5873	tratamiento neurohormonal
+T96	PROCEDURE 3799 3845	tratamiento de soporte inotrópico y vasoactivo
+T98	PROCEDURE 3296 3319	Función renal, hepática
+T99	PROCEDURE 5295 5303	cultivos
+T100	PROCEDURE 3648 3662	monitorización
+T101	PROCEDURE 3322 3354	biomarcadores de daño miocárdico
+T117	PROCEDURE 1413 1422	Analítica
+T107	PROCEDURE 4373 4378	BCIAo
+T110	PROCEDURE 5703 5707	ECMO
+T111	PROCEDURE 5710 5715	BCIAo
+#2	AnnotatorNotes T83	 ECMO: oxigenación por membrana extracorpórea

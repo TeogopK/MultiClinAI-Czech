@@ -1,0 +1,58 @@
+T1	SYMPTOM 385 394	diarrhoea
+T2	SYMPTOM 782 808	swelling of the right knee
+T40	SYMPTOM 874 896	inflammatory semiology
+T3	SYMPTOM 1063 1071	dyspnoea
+T4	SYMPTOM 1090 1102	palpitations
+T45	SYMPTOM 1106 1125	congestive symptoms
+T38	SYMPTOM 1158 1167	conscious
+T5	SYMPTOM 1172 1180	oriented
+T39	SYMPTOM 1182 1219	Well perfused, hydrated and nourished
+T6	SYMPTOM 1221 1236	Eupneic at rest
+T46	SYMPTOM 1256 1275	jugular engorgement
+T7	SYMPTOM 1303 1333	Oropharynx without alterations
+T8	SYMPTOM 1335 1365	Cardiac auscultation: rhythmic
+T9	SYMPTOM 1370 1377	murmurs
+T10	SYMPTOM 1381 1391	extratonos
+T11	SYMPTOM 1417 1443	preserved vesicular murmur
+T34	SYMPTOM 1445 1497	Abdomen: soft, depressible, not painful on palpation
+T12	SYMPTOM 1502 1508	masses
+T47	SYMPTOM 1512 1521	megaliths
+T13	SYMPTOM 1549 1570	peritoneal irritation
+T48	SYMPTOM 1572 1601	Preserved hydro-aerial sounds
+T49	SYMPTOM 1606 1612	oedema
+T14	SYMPTOM 1686 1708	Swelling of both knees
+T15	SYMPTOM 1718 1731	skin erythema
+T50	SYMPTOM 1735 1761	local temperature increase
+T51	SYMPTOM 1763 1784	Mild pain on movement
+T16	SYMPTOM 1900 1912	sinus rhythm
+T19	SYMPTOM 1937 1946	Normal PR
+T22	SYMPTOM 1948 1958	Narrow QRS
+T52	SYMPTOM 1960 2025	ST segment elevation of 2 mm in V1-V2 with rectilinear morphology
+T53	SYMPTOM 2071 2102	negative and symmetrical T wave
+T25	SYMPTOM 2104 2114	Normal QTc
+T17	SYMPTOM 2896 2908	sinus rhythm
+T20	SYMPTOM 2933 2942	Normal PR
+T23	SYMPTOM 2944 2954	Narrow QRS
+T54	SYMPTOM 2956 2972	Negative T waves
+T26	SYMPTOM 3010 3020	Normal QTc
+T18	SYMPTOM 3077 3089	sinus rhythm
+T21	SYMPTOM 3114 3123	Normal PR
+T24	SYMPTOM 3125 3135	Narrow QRS
+T55	SYMPTOM 3140 3172	acute repolarisation alterations
+T27	SYMPTOM 3174 3184	Normal QTc
+T28	SYMPTOM 3248 3262	Preserved LVEF
+T56	SYMPTOM 3355 3377	Brugada type 1 pattern
+T35	SYMPTOM 3379 3422	Genetic test for Brugada syndrome: negative
+T32	SYMPTOM 3445 3453	gonalgia
+T36	SYMPTOM 3702 3719	ionic alterations
+T57	SYMPTOM 3819 3869	asymptomatic from the cardiovascular point of view
+T43	SYMPTOM 3980 4005	Brugada pattern phenocopy
+T37	SYMPTOM 4024 4041	ionic alterations
+T41	SYMPTOM 4191 4213	Brugada type 1 pattern
+T29	SYMPTOM 4395 4409	preserved LVEF
+T58	SYMPTOM 4458 4541	genetic study of p channelopathies/myocardiopathy was performed, which was negative
+T59	SYMPTOM 4568 4642	asymptomatic in his 73 years of life from the cardiovascular point of view
+T30	SYMPTOM 4771 4785	preserved LVEF
+T44	SYMPTOM 4875 4900	Brugada pattern phenocopy
+T33	SYMPTOM 5059 5064	fever
+T31	SYMPTOM 5266 5280	preserved LVEF

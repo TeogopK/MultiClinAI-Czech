@@ -1,0 +1,22 @@
+T1	SYMPTOM 2277 2331	agudeza visual de la paciente era prácticamente normal
+T2	SYMPTOM 138 174	cefalea hemicraneal derecha pulsátil
+T3	SYMPTOM 253 260	cefalea
+T4	SYMPTOM 421 435	visión borrosa
+T5	SYMPTOM 484 492	diplopia
+T6	SYMPTOM 604 638	defecto pupilar aferente en el ojo
+T7	SYMPTOM 653 685	disminución de la agudeza visual
+T8	SYMPTOM 1108 1168	tumoración de 4 x 3 x 3 cm. en la región del seno esferoidal
+T9	SYMPTOM 803 858	estudio hormonal no reveló ninguna alteración funcional
+T10	SYMPTOM 967 1038	erosionaba el seno esfenoidal y las paredes laterales de la silla turca
+T11	SYMPTOM 1266 1342	compresión y desplazamiento craneal de la glándula hipofisaria y del quiasma
+T12	SYMPTOM 1356 1434	isointensa en las secuencias potenciadas en T1 e hiperintensa en secuencias T2
+T13	SYMPTOM 1499 1549	realce periférico en las secuencias post-contraste
+T14	SYMPTOM 2099 2131	descompresión del quiasma óptico
+A1	RESULTADO T1
+A2	RESULTADO T7
+A3	IMAGEN T8
+A4	RESULTADO T9
+A5	IMAGEN T10
+A6	IMAGEN T11
+A7	IMAGEN T13
+A8	IMAGEN T14

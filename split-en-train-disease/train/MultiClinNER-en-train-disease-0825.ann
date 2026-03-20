@@ -1,0 +1,52 @@
+T20	DISEASE 116 128	hypertension
+T21	DISEASE 130 143	Dyslipidaemia
+T22	DISEASE 168 198	paroxysmal atrial fibrillation
+T24	DISEASE 309 333	interstitial pneumopathy
+T26	DISEASE 364 389	rapid atrial fibrillation
+T28	DISEASE 523 562	moderate rheumatic mitral regurgitation
+T1	DISEASE 580 616	severe dilatation of the left atrium
+T29	DISEASE 648 651	DVT
+T2	DISEASE 656 659	PTE
+T32	DISEASE 700 719	atrial fibrillation
+T40	DISEASE 736 752	Breast carcinoma
+T25	DISEASE 789 813	Interstitial pneumopathy
+T33	DISEASE 1076 1095	atrial fibrillation
+T3	DISEASE 1232 1269	thrombus in the left atrial appendage
+T42	DISEASE 1495 1516	common atrial flutter
+T44	DISEASE 1541 1566	atrial appendage thrombus
+T68	DISEASE 1666 1685	left atrial flutter
+T45	DISEASE 1890 1962	abdominal wall haematoma with active bleeding from the epigastric artery
+T6	DISEASE 2195 2250	haematoma in the wall at the level of the lower abdomen
+T46	DISEASE 2304 2332	chronic venous insufficiency
+T27	DISEASE 2421 2446	rapid atrial fibrillation
+T35	DISEASE 2604 2623	atrial fibrillation
+T8	DISEASE 2733 2777	mobile thrombus in the left atrial appendage
+T47	DISEASE 2802 2863	Mitral valve without stenosis and with moderate insufficiency
+T9	DISEASE 2865 2905	Aneurysmal dilatation of the left atrium
+T73	DISEASE 2907 2959	Sclerocalcified aortic valve with mild insufficiency
+T10	DISEASE 2961 2968	Mild TR
+T50	DISEASE 3104 3118	atrial flutter
+T11	DISEASE 3155 3192	thrombus in the left atrial appendage
+T12	DISEASE 3226 3291	Degenerative organic mitral lesion causing moderate insufficiency
+T13	DISEASE 3293 3325	Moderate tricuspid insufficiency
+T14	DISEASE 3327 3356	Dilatation of the left atrium
+T15	DISEASE 3467 3498	haematoma of the abdominal wall
+T36	DISEASE 3515 3534	atrial fibrillation
+T69	DISEASE 3552 3571	left atrial flutter
+T56	DISEASE 3831 3908	anterior abdominal wall haematoma, located in the left anterior rectus muscle
+T17	DISEASE 4092 4165	active arterial bleeding dependent on the left inferior epigastric artery
+T37	DISEASE 4484 4503	atrial fibrillation
+T74	DISEASE 4520 4536	atypical flutter
+T38	DISEASE 5252 5271	atrial fibrillation
+T65	DISEASE 5259 5271	fibrillation
+T52	DISEASE 5276 5290	atrial flutter
+T67	DISEASE 5684 5711	severe mitral insufficiency
+T23	DISEASE 5931 5961	Paroxysmal atrial fibrillation
+T43	DISEASE 5963 5984	Common atrial flutter
+T53	DISEASE 5970 5984	atrial flutter
+T70	DISEASE 6031 6050	Left atrial flutter
+T71	DISEASE 6052 6084	Bradycardia-tachycardia syndrome
+T34	DISEASE 6121 6160	Moderate rheumatic mitral insufficiency
+T41	DISEASE 6215 6248	Thrombus in left atrial appendage
+T72	DISEASE 6308 6391	Spontaneous haematoma of the rectum due to bleeding from the left epigastric artery
+T31	DISEASE 6461 6468	anaemia

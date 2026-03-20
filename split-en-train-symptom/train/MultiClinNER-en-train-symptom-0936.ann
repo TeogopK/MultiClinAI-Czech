@@ -1,0 +1,35 @@
+T5	SYMPTOM 199 207	dyspnoea
+T1	SYMPTOM 229 239	chest pain
+T3	SYMPTOM 243 255	palpitations
+T4	SYMPTOM 357 362	fever
+T6	SYMPTOM 364 372	dyspnoea
+T7	SYMPTOM 377 386	dizziness
+T8	SYMPTOM 704 726	good general condition
+T21	SYMPTOM 728 763	clinical and haemodynamic stability
+T9	SYMPTOM 893 908	Eupneic at rest
+T10	SYMPTOM 967 998	Normal neurological examination
+T26	SYMPTOM 1000 1036	Heart rhythmic, slightly tachycardic
+T11	SYMPTOM 1046 1053	murmurs
+T12	SYMPTOM 1057 1067	extratonos
+T13	SYMPTOM 1069 1109	Generalised decrease in vesicular murmur
+T14	SYMPTOM 1115 1153	scattered wheezing in both lung fields
+T27	SYMPTOM 1155 1206	Abdomen soft, depressible, not painful on palpation
+T28	SYMPTOM 1219 1232	visceromegaly
+T29	SYMPTOM 1241 1267	oedema in both lower limbs
+T30	SYMPTOM 1374 1402	thickened pulmonary hilarity
+T15	SYMPTOM 1452 1464	sinus rhythm
+T31	SYMPTOM 1476 1492	Pulmonary P wave
+T32	SYMPTOM 1494 1550	Asymmetric negative T wave in III, aVF and from V1 to V4
+T23	SYMPTOM 1822 1838	normal total CPK
+T24	SYMPTOM 1960 1986	Abundant hyaline cylinders
+T16	SYMPTOM 2320 2347	preserved systolic function
+T17	SYMPTOM 2349 2406	dilated right ventricle with marked free wall hypokinesia
+T22	SYMPTOM 2412 2453	flattening of the interventricular septum
+T18	SYMPTOM 2458 2487	moderate systolic dysfunction
+T2	SYMPTOM 2632 2686	partial repletion defect in the right pulmonary artery
+T25	SYMPTOM 2794 2815	emphysematous pattern
+T20	SYMPTOM 2860 2872	asymptomatic
+T19	SYMPTOM 3219 3248	moderate systolic dysfunction
+T35	SYMPTOM 3292 3400	autoimmunity study (ANA, ANCA, AntiDNA, anticardiolipin) was performed on the hospital ward and was negative
+T34	SYMPTOM 3402 3485	Studies of iron, thyroid, tumour markers, HIV, HBV, HCV and proteinogram were norma
+T33	SYMPTOM 3659 3684	INR at therapeutic target

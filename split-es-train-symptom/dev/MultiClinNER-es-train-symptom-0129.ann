@@ -1,0 +1,12 @@
+T1	SYMPTOM 86 137	dolor intermitente localizado a nivel del hemotórax
+T2	SYMPTOM 162 165	tos
+T3	SYMPTOM 168 177	febrícula
+T4	SYMPTOM 281 293	leucocitosis
+T5	SYMPTOM 620 716	masa de bordes más nítidos con áreas hipodensas en su interior localizada en mediastino anterior
+T6	SYMPTOM 350 417	pruebas complementarias incluyendo microbiológicas fueron negativas
+T7	SYMPTOM 838 842	masa
+T8	SYMPTOM 475 544	masa de bordes irregulares que borraba el contorno del hilio pulmonar
+A1	RESULTADO T4
+A2	IMAGEN T5
+A3	RESULTADO T6
+A4	IMAGEN T8

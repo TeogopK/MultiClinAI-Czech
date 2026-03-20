@@ -1,0 +1,15 @@
+T1	DISEASE 711 730	síndrome de Brugada
+T4	DISEASE 195 202	fumador
+T5	DISEASE 252 285	consumidor de bebidas alcohólicas
+T7	DISEASE 393 406	muerte súbita
+T9	DISEASE 443 451	síncopes
+T12	DISEASE 1155 1178	arritmias ventriculares
+T19	DISEASE 1479 1502	arritmias ventriculares
+T21	DISEASE 924 926	SB
+T22	DISEASE 1272 1274	SB
+T23	DISEASE 1530 1532	SB
+T25	DISEASE 296 311	hábitos tóxicos
+T26	DISEASE 759 768	Arritmias
+#1	AnnotatorNotes T21	  SB: síndrome de Brugada
+#2	AnnotatorNotes T22	  SB: síndrome de Brugada
+#3	AnnotatorNotes T23	  SB: síndrome de Brugada

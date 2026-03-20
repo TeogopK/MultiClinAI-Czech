@@ -1,0 +1,39 @@
+T1	PROCEDURE 4039 4058	anatomía patológica
+T2	PROCEDURE 519 537	exploración física
+T3	PROCEDURE 3650 3652	TC
+T4	PROCEDURE 64 85	antidiabéticos orales
+T5	PROCEDURE 3678 3697	punción transrectal
+T6	PROCEDURE 3077 3120	punción transrectal ecodirigida del absceso
+T7	PROCEDURE 1318 1353	tratamiento antibiótico intravenoso
+T8	PROCEDURE 3723 3750	prostatectomía transvesical
+T9	PROCEDURE 2193 2219	antibioterapia intravenosa
+T10	PROCEDURE 1372 1384	urinocultivo
+T11	PROCEDURE 652 664	tacto rectal
+T12	PROCEDURE 2236 2261	Adenomectomía tipo Millin
+T13	PROCEDURE 3200 3230	cultivo del exudado prostático
+T14	PROCEDURE 205 207	RT
+T15	PROCEDURE 2316 2330	antibioterapia
+T16	PROCEDURE 1588 1614	antibioterapia intravenosa
+T17	PROCEDURE 3399 3401	TC
+T18	PROCEDURE 449 472	tratamiento antibiótico
+T19	PROCEDURE 2526 2554	cultivo fraccionado de orina
+T20	PROCEDURE 3478 3480	TC
+T21	PROCEDURE 1710 1722	hemocultivos
+T22	PROCEDURE 1725 1737	urinocultivo
+T23	PROCEDURE 1076 1115	radiografías simples de tórax y abdomen
+T24	PROCEDURE 2709 2730	ecografía transrectal
+T25	PROCEDURE 1918 1944	antibioterapia intravenosa
+T26	PROCEDURE 1197 1217	ecografía de abdomen
+T27	PROCEDURE 1960 1987	ecografía vésico-prostática
+T28	PROCEDURE 2973 2987	método doppler
+T29	PROCEDURE 4147 4156	resección
+T30	PROCEDURE 1011 1029	sedimento de orina
+T31	PROCEDURE 767 785	análisis de sangre
+T32	PROCEDURE 3041 3052	ecográficos
+T33	PROCEDURE 2575 2598	tratamiento antibiótico
+T34	PROCEDURE 1545 1554	analítica
+T35	PROCEDURE 4365 4374	analítica
+T36	PROCEDURE 3758 3770	intervención
+T37	PROCEDURE 4431 4443	intervención
+T38	PROCEDURE 4592 4604	intervención
+T39	PROCEDURE 3182 3195	microbiología

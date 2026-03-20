@@ -1,0 +1,110 @@
+T2	SYMPTOM 741 794	dolor centrotorácico continuo, opresivo, no irradiado
+T3	SYMPTOM 800 818	cortejo vegetativo
+T5	SYMPTOM 972 1005	disminución del ritmo de diuresis
+T6	SYMPTOM 1052 1069	tos no productiva
+T7	SYMPTOM 1071 1098	artromialgias generalizadas
+T8	SYMPTOM 1100 1120	sensación distérmica
+T9	SYMPTOM 1123 1138	astenia intensa
+T10	SYMPTOM 1146 1154	ortopnea
+T11	SYMPTOM 1169 1196	disnea paroxística nocturna
+T12	SYMPTOM 1198 1207	bendopnea
+T13	SYMPTOM 1209 1263	aumento del perímetro de abdomen o miembros inferiores
+T14	SYMPTOM 1265 1282	ganancia ponderal
+T15	SYMPTOM 1284 1297	palpitaciones
+T16	SYMPTOM 1355 1370	dolor abdominal
+T17	SYMPTOM 1372 1379	náuseas
+T18	SYMPTOM 1381 1388	vómitos
+T19	SYMPTOM 1390 1397	diarrea
+T20	SYMPTOM 1399 1423	sintomatología miccional
+T22	SYMPTOM 1589 1611	Regular estado general
+T23	SYMPTOM 1613 1623	Consciente
+T24	SYMPTOM 1625 1651	orientada en las 3 esferas
+T25	SYMPTOM 1654 1666	colaboradora
+T26	SYMPTOM 1668 1682	Normocoloreada
+T27	SYMPTOM 1684 1698	normohidratada
+T28	SYMPTOM 1701 1716	normoperfundida
+T29	SYMPTOM 1718 1736	Eupneica en reposo
+T30	SYMPTOM 1742 1769	buena dinámica respiratoria
+T31	SYMPTOM 1788 1805	orofaringe normal
+T32	SYMPTOM 1810 1838	ingurgitación venosa yugular
+T33	SYMPTOM 1863 1888	ruidos cardiacos rítmicos
+T34	SYMPTOM 1890 1903	taquicárdicos
+T35	SYMPTOM 1909 1915	soplos
+T36	SYMPTOM 1919 1929	extratonos
+T37	SYMPTOM 1954 1983	murmullo vesicular conservado
+T38	SYMPTOM 1989 2009	ruidos sobreañadidos
+T39	SYMPTOM 2020 2078	ruidos hidroaéreos presentes y de características normales
+T40	SYMPTOM 2103 2126	doloroso a la palpación
+T41	SYMPTOM 2142 2163	irritación peritoneal
+T42	SYMPTOM 2167 2186	semiología ascítica
+T43	SYMPTOM 2201 2206	masas
+T44	SYMPTOM 2210 2224	organomegalias
+T45	SYMPTOM 2251 2287	pulsos pedios presentes y simétricos
+T46	SYMPTOM 2292 2298	edemas
+T47	SYMPTOM 2382 2395	ritmo sinusal
+T48	SYMPTOM 2429 2438	PR normal
+T49	SYMPTOM 2440 2452	QRS estrecho
+T50	SYMPTOM 2470 2513	Pobre crecimiento de onda R en precordiales
+T51	SYMPTOM 2518 2562	alteraciones de la repolarización relevantes
+T54	SYMPTOM 4193 4267	PCR para virus respiratorios en exudado nasofaríngeo positiva para gripe A
+T55	SYMPTOM 4324 4379	ventrículo izquierdo no dilatado con hipocinesia global
+T56	SYMPTOM 4394 4424	Ventrículo derecho no dilatado
+T58	SYMPTOM 4754 4786	Ventrículo izquierdo no dilatado
+T59	SYMPTOM 4814 4852	Función sistólica gravemente deprimida
+T60	SYMPTOM 4909 4934	Función diastólica normal
+T61	SYMPTOM 4936 4998	Ventrículo derecho no dilatado con función sistólica deprimida
+T63	SYMPTOM 5081 5100	hipoquinesia global
+T64	SYMPTOM 5102 5137	Aurícula izquierda de tamaño normal
+T65	SYMPTOM 5139 5172	Aurícula derecha de tamaño normal
+T66	SYMPTOM 5278 5320	Válvula tricúspide morfológicamente normal
+T67	SYMPTOM 5668 5696	función sistólica conservada
+T69	SYMPTOM 5945 6018	Contractilidad segmentaria con leve hipoquinesia de cara inferior y septo
+T70	SYMPTOM 6048 6076	Función sistólica conservada
+T72	SYMPTOM 6247 6277	Ventrículo derecho no dilatado
+T73	SYMPTOM 6300 6324	función sistólica normal
+T74	SYMPTOM 6326 6352	Aurículas de tamaño normal
+T76	SYMPTOM 6496 6538	Válvula tricúspide morfológicamente normal
+T77	SYMPTOM 6616 6645	Raíz aórtica de tamaño normal
+T78	SYMPTOM 6770 6818	ventrículo izquierdo no dilatado ni hipertrófico
+T79	SYMPTOM 6820 6865	función sistólica global y segmentaria normal
+T80	SYMPTOM 6878 6937	Ventrículo derecho no dilatado con función sistólica normal
+T81	SYMPTOM 7004 7026	Aurículas no dilatadas
+T83	SYMPTOM 7393 7398	edema
+T86	SYMPTOM 7576 7633	VI y VD con función sistólica global y segmentaria normal
+T87	SYMPTOM 7645 7703	edema y cambios inflamatorios en VI de distribución difusa
+T89	SYMPTOM 8215 8226	hipotensión
+T90	SYMPTOM 8530 8574	ventrículo izquierdo con hipoquinesia global
+T91	SYMPTOM 8721 8747	inestabilidad hemodinámica
+T92	SYMPTOM 8749 8760	hipotensión
+T93	SYMPTOM 8793 8813	hipoperfusión distal
+T94	SYMPTOM 8826 8843	hiperlactacidemia
+T95	SYMPTOM 9088 9121	positivo para virus de la gripe A
+T96	SYMPTOM 9917 9959	ventrículo derecho con hipoquinesia global
+T97	SYMPTOM 10285 10293	oliguria
+T98	SYMPTOM 10490 10507	hipotensión grave
+T100	SYMPTOM 11782 11794	desaturación
+T101	SYMPTOM 12393 12401	sangrado
+T102	SYMPTOM 12949 12981	función biventricular conservada
+T103	SYMPTOM 13119 13155	limitación a la dorsiflexión del pie
+T227	SYMPTOM 6957 7002	alteraciones de la contractilidad segmentaria
+T262	SYMPTOM 4723 4742	taquicardia sinusal
+T263	SYMPTOM 5852 5871	taquicardia sinusal
+T1	SYMPTOM 2406 2427	eje cardiaco vertical
+T4	SYMPTOM 2599 2659	Índice cardiotorácico en el límite superior de la normalidad
+T21	SYMPTOM 2706 2732	Senos costofrénicos libres
+T52	SYMPTOM 4429 4438	FE normal
+T53	SYMPTOM 4573 4603	Vena cava inferior no dilatada
+T57	SYMPTOM 5174 5235	Válvula aórtica trivalva, morfológica y funcionalmente normal
+T62	SYMPTOM 5423 5453	Vena cava inferior no dilatada
+T112	SYMPTOM 5492 5556	Raíz aórtica, aorta ascendente y cayado aórtico de tamaño normal
+T71	SYMPTOM 6354 6405	Válvula aórtica morfológica y funcionalmente normal
+T75	SYMPTOM 6647 6689	Pericardio de grosor y refringencia normal
+T288	SYMPTOM 5883 5943	Ventrículo izquierdo no dilatado, con grosor parietal normal
+T291	SYMPTOM 7028 7074	Válvulas morfológica y funcionalmente normales
+T297	SYMPTOM 2454 2468	bajos voltajes
+T302	SYMPTOM 11759 11777	clínica congestiva
+T303	SYMPTOM 5589 5612	compromiso hemodinámico
+T309	SYMPTOM 12609 12648	estabilidad respiratoria y hemodinámica
+T318	SYMPTOM 2749 2760	infiltrados
+T68	SYMPTOM 7122 7209	secuencias de realce tardío se aprecian áreas de tenue captación difusa intramiocárdica
+T99	SYMPTOM 12129 12189	toracocentesis, obteniéndose unos 1.000 ml de líquido seroso

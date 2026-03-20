@@ -1,0 +1,39 @@
+T55	PROCEDURE 257 286	implante de prótesis mecánica
+T56	PROCEDURE 362 387	circulación extracorpórea
+T57	PROCEDURE 1117 1135	Exploración física
+T58	PROCEDURE 1136 1157	Auscultación cardiaca
+T59	PROCEDURE 1234 1255	Auscultación pulmonar
+T60	PROCEDURE 1569 1581	auscultación
+T61	PROCEDURE 1632 1650	Electrocardiograma
+T62	PROCEDURE 1652 1655	ECG
+T63	PROCEDURE 1750 1764	Ecocardiograma
+T64	PROCEDURE 2118 2147	Ecocardiograma transesofágico
+T65	PROCEDURE 2344 2367	implante de clip mitral
+T66	PROCEDURE 2443 2461	exploración física
+T67	PROCEDURE 2506 2517	TC de aorta
+T68	PROCEDURE 2575 2577	TC
+T69	PROCEDURE 3075 3096	cirugía de reparación
+T70	PROCEDURE 3134 3162	ecocardiograma transeofágico
+T71	PROCEDURE 3219 3253	cateterismo de arterias coronarias
+T72	PROCEDURE 3315 3326	aortografía
+T73	PROCEDURE 3444 3460	cirugía cardiaca
+T74	PROCEDURE 3499 3531	valvuloplastia mitral con anillo
+T75	PROCEDURE 3544 3576	cirugía con parada en hipotermia
+T76	PROCEDURE 3649 3661	esternotomía
+T77	PROCEDURE 3722 3772	anastomosis del tubo valvulado con la raíz aórtica
+T78	PROCEDURE 3799 3840	se sustituye por tubo valvulado biológico
+T79	PROCEDURE 3861 3884	anuloplastia con anillo
+T80	PROCEDURE 3937 3951	ecocardiograma
+T81	PROCEDURE 4014 4033	anuloplastia mitral
+T82	PROCEDURE 4207 4237	ecocardiografía transesofágica
+T83	PROCEDURE 4284 4303	anuloplastia mitral
+T84	PROCEDURE 4990 5019	ventilación mecánica invasiva
+T85	PROCEDURE 5095 5103	extubado
+T86	PROCEDURE 5250 5273	Cirugía de Bentall-Bono
+T87	PROCEDURE 5278 5315	implante de prótesis aórtica mecánica
+T88	PROCEDURE 5540 5578	implante de prótesis aórtica biológica
+T89	PROCEDURE 5605 5626	valvuloplastia mitral
+T95	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T96	PROCEDURE 5512 5535	cirugía de Bentall-Bono
+T110	PROCEDURE 2882 2910	aorta ascendente intervenida
+T54	PROCEDURE 228 246	cirugía de Bentall

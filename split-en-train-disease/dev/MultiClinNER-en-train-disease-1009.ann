@@ -1,0 +1,51 @@
+T25	DISEASE 89 98	allergies
+T26	DISEASE 100 109	Ex-smoker
+T27	DISEASE 178 197	high blood pressure
+T28	DISEASE 199 241	insulin-dependent type 2 diabetes mellitus
+T29	DISEASE 264 277	dyslipidaemia
+T30	DISEASE 310 339	permanent atrial fibrillation
+T43	DISEASE 320 339	atrial fibrillation
+T31	DISEASE 555 568	heart failure
+T39	DISEASE 595 616	chronic renal failure
+T40	DISEASE 770 797	peripheral vascular disease
+T41	DISEASE 803 828	intermittent claudication
+T42	DISEASE 833 855	multifactorial anaemia
+T44	DISEASE 2027 2046	atrial fibrillation
+T46	DISEASE 2378 2390	cardiomegaly
+T70	DISEASE 2392 2409	Aortic elongation
+T47	DISEASE 2411 2437	Bilateral pleural effusion
+T23	DISEASE 2914 2943	Severe left atrial dilatation
+T49	DISEASE 2961 2983	Aortic valve sclerosis
+T50	DISEASE 3074 3097	tricuspid insufficiency
+T51	DISEASE 3143 3163	pericardial effusion
+T73	DISEASE 3165 3204	Dilated vena cava (24 mm) with plethora
+T24	DISEASE 3389 3446	dilated left ventricle with eccentric hypertrophy pattern
+T72	DISEASE 3560 3579	Dilated left atrium
+T52	DISEASE 3596 3605	ischaemia
+T53	DISEASE 3644 3663	myocardial necrosis
+T54	DISEASE 3665 3689	Intramyocardial fibrosis
+T55	DISEASE 3843 3870	decompensated heart failure
+T32	DISEASE 3857 3870	heart failure
+T56	DISEASE 3889 3910	respiratory infection
+T57	DISEASE 3915 3940	rapid atrial fibrillation
+T45	DISEASE 3921 3940	atrial fibrillation
+T58	DISEASE 3984 4002	mild hyperkalaemia
+T63	DISEASE 3989 4002	hyperkalaemia
+T59	DISEASE 4039 4085	dilated cardiomyopathy of non-ischaemic origin
+T33	DISEASE 4474 4487	heart failure
+T60	DISEASE 4651 4682	decompensation of heart failure
+T34	DISEASE 4669 4682	heart failure
+T62	DISEASE 4687 4707	severe hyperkalaemia
+T64	DISEASE 4694 4707	hyperkalaemia
+T65	DISEASE 4892 4905	hyperkalaemia
+T35	DISEASE 5029 5042	heart failure
+T71	DISEASE 5448 5450	It
+T36	DISEASE 5554 5567	heart failure
+T48	DISEASE 5585 5611	bilateral pleural effusion
+T37	DISEASE 6083 6096	heart failure
+T61	DISEASE 6083 6111	heart failure decompensation
+T38	DISEASE 6349 6362	Heart failure
+T67	DISEASE 6349 6380	Heart failure with reduced LVEF
+T68	DISEASE 6382 6418	Non-ischaemic dilated cardiomyopathy
+T69	DISEASE 6443 6463	Cardiorenal syndrome
+T66	DISEASE 6465 6478	Hyperkalaemia

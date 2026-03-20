@@ -1,0 +1,29 @@
+T39	DISEASE 80 94	drug allergies
+T1	DISEASE 182 194	hypertension
+T62	DISEASE 269 396	moderate lesions in the middle segment of the anterior descending artery and in the middle segment of the right coronary artery
+T40	DISEASE 411 424	stable angina
+T41	DISEASE 426 451	chronic coronary syndrome
+T43	DISEASE 537 559	chronic kidney disease
+T46	DISEASE 615 624	gastritis
+T47	DISEASE 626 655	Helicobacter pylori infection
+T48	DISEASE 672 685	hiatal hernia
+T2	DISEASE 687 702	Schatzki's ring
+T49	DISEASE 707 721	diverticulosis
+T50	DISEASE 2041 2061	deep vein thrombosis
+T51	DISEASE 2063 2066	DVT
+T5	DISEASE 3376 3396	pulmonary congestion
+T6	DISEASE 3638 3687	Mitral insufficiency, which appears mild-moderate
+T52	DISEASE 4655 4672	myocardial oedema
+T44	DISEASE 5414 5436	chronic kidney disease
+T8	DISEASE 5758 5806	acute myocardial infarction without ST elevation
+T60	DISEASE 6025 6041	coronary lesions
+T53	DISEASE 6078 6136	myocardial infarction without obstructive coronary lesions
+T54	DISEASE 6138 6144	MINOCA
+T55	DISEASE 6411 6428	acute myocarditis
+T56	DISEASE 6706 6729	coronary artery disease
+T58	DISEASE 7002 7007	COVID
+T10	DISEASE 7008 7019	myocarditis
+T45	DISEASE 7061 7083	chronic kidney disease
+T42	DISEASE 7127 7152	Chronic coronary syndrome
+T63	DISEASE 7158 7208	non-significant two-vessel coronary artery disease
+T59	DISEASE 7210 7230	Hypercholesterolemia

@@ -1,0 +1,57 @@
+T33	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T76	PROCEDURE 179 200	assisted reproduction
+T2	PROCEDURE 231 239	delivery
+T35	PROCEDURE 241 276	Hysterectomy and double adnexectomy
+T36	PROCEDURE 640 657	electrocardiogram
+T37	PROCEDURE 659 662	ECG
+T4	PROCEDURE 729 763	serum markers of myocardial damage
+T34	PROCEDURE 877 897	Physical examination
+T43	PROCEDURE 1024 1054	cardiorespiratory auscultation
+T7	PROCEDURE 1168 1171	CBC
+T8	PROCEDURE 1173 1184	haemoglobin
+T44	PROCEDURE 1273 1284	Coagulation
+T77	PROCEDURE 1313 1325	Biochemistry
+T9	PROCEDURE 1602 1651	SARS-CoV-2 RNA detection (nasopharyngeal exudate)
+T38	PROCEDURE 1673 1676	ECG
+T45	PROCEDURE 1864 1875	Chest X-ray
+T39	PROCEDURE 2021 2024	ECG
+T46	PROCEDURE 2199 2214	catheterisation
+T58	PROCEDURE 2637 2655	Angioplasty on RCA
+T48	PROCEDURE 2716 2740	Intravascular ultrasound
+T49	PROCEDURE 2742 2746	IVUS
+T50	PROCEDURE 3047 3051	IVUS
+T72	PROCEDURE 3278 3323	Angio-CT of the supra-aortic trunks and aorta
+T40	PROCEDURE 3473 3476	ECG
+T47	PROCEDURE 3773 3788	catheterisation
+T51	PROCEDURE 3849 3853	IVUS
+T13	PROCEDURE 4072 4075	PCI
+T52	PROCEDURE 4108 4112	IVUS
+T14	PROCEDURE 4364 4406	PCI is performed with simple balloon in OM
+T15	PROCEDURE 4535 4555	simple balloon in Cx
+T65	PROCEDURE 4644 4667	Coronary CT angiography
+T66	PROCEDURE 4688 4711	Coronary CT angiography
+T67	PROCEDURE 5012 5035	coronary CT angiography
+T41	PROCEDURE 5612 5615	ECG
+T56	PROCEDURE 5687 5707	coronary angiography
+T53	PROCEDURE 5745 5749	IVUS
+T59	PROCEDURE 5982 5993	angioplasty
+T78	PROCEDURE 6012 6030	stent implantation
+T73	PROCEDURE 6092 6138	Angio-CT of the supra-aortic and aortic trunks
+T63	PROCEDURE 6216 6232	echocardiography
+T20	PROCEDURE 6400 6427	double antiplatelet therapy
+T64	PROCEDURE 6432 6447	anticoagulation
+T80	PROCEDURE 6536 6560	hypercoagulability study
+T42	PROCEDURE 6744 6747	ECG
+T21	PROCEDURE 6778 6797	activating AMI code
+T57	PROCEDURE 6799 6819	Coronary angiography
+T54	PROCEDURE 6871 6875	IVUS
+T60	PROCEDURE 6981 7032	angioplasty with simple balloon and cutting balloon
+T55	PROCEDURE 7083 7100	coronary angio-CT
+T24	PROCEDURE 7427 7454	double antiplatelet therapy
+T68	PROCEDURE 7544 7551	statins
+T69	PROCEDURE 7553 7566	beta-blockers
+T70	PROCEDURE 7571 7579	nitrates
+T61	PROCEDURE 7862 7917	low-pressure balloon angioplasty and coronary guidewire
+T79	PROCEDURE 7926 7944	stent implantation
+T71	PROCEDURE 8051 8120	primary balloon angioplasty in obtuse marginal-circumflex bifurcation
+T75	PROCEDURE 8165 8173	Angio-CT

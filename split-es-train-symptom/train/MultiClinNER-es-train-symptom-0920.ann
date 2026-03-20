@@ -1,0 +1,32 @@
+T1	SYMPTOM 256 282	dolor torácico de esfuerzo
+T2	SYMPTOM 537 550	ritmo sinusal
+T3	SYMPTOM 552 564	QRS estrecho
+T4	SYMPTOM 581 602	repolarización normal
+T5	SYMPTOM 737 765	índice cardiotorácico normal
+T6	SYMPTOM 770 797	ensanchamiento mediastínico
+T7	SYMPTOM 876 924	ventrículo izquierdo no dilatado ni hipertrófico
+T8	SYMPTOM 926 981	Contractilidad segmentaria y función sistólica normales
+T10	SYMPTOM 1328 1351	dolor torácico anginoso
+T11	SYMPTOM 1354 1360	disnea
+T12	SYMPTOM 1533 1559	Respuesta tensional normal
+T13	SYMPTOM 2774 2793	opresión precordial
+T15	SYMPTOM 3190 3228	función sistólica biventricular normal
+T16	SYMPTOM 3351 3365	dolor torácico
+T17	SYMPTOM 3766 3780	dolor torácico
+T18	SYMPTOM 3833 3852	constantes en rango
+T19	SYMPTOM 3949 3979	hipotensión arterial posterior
+T20	SYMPTOM 3981 3997	malestar general
+T21	SYMPTOM 4010 4023	hipoperfusión
+T22	SYMPTOM 4822 4847	bajo nivel de consciencia
+T23	SYMPTOM 5331 5346	sangrado activo
+T24	SYMPTOM 5523 5549	inestabilidad hemodinámica
+T25	SYMPTOM 5920 5931	falleciendo
+T108	SYMPTOM 639 670	bioquímica y hemograma en rango
+T109	SYMPTOM 1030 1069	Ventrículo derecho y aurículas normales
+T116	SYMPTOM 3419 3454	discreta elevación de biomarcadores
+T120	SYMPTOM 569 579	eje normal
+T9	SYMPTOM 1625 1651	tronco común: sin lesiones
+T14	SYMPTOM 672 713	Marcadores de daño miocárdico no elevados
+T110	SYMPTOM 1654 1698	. descendente anterior: vaso de buen calibre
+T113	SYMPTOM 4397 4469	pericardiocentesis urgente con extracción de líquido de aspecto hemático
+T93	SYMPTOM 5165 5227	drenaje pericárdico y evacuación de abundante líquido hemático

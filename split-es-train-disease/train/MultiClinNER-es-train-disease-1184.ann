@@ -1,0 +1,28 @@
+T34	DISEASE 90 113	alergias medicamentosas
+T35	DISEASE 173 197	diabetes mellitus tipo 2
+T36	DISEASE 561 584	emergencia hipertensiva
+T37	DISEASE 2622 2681	Ventrículo izquierdo (VI) con hipertrofia concéntrica grave
+T38	DISEASE 3320 3339	derrame pericárdico
+T39	DISEASE 3777 3802	Insuficiencia mitral leve
+T40	DISEASE 3804 3843	Insuficiencia tricuspidea leve-moderada
+T41	DISEASE 4593 4601	fibrosis
+T42	DISEASE 4613 4640	miocardiopatía infiltrativa
+T43	DISEASE 5500 5519	derrame pericárdico
+T44	DISEASE 5657 5684	miocardiopatía infiltrativa
+T45	DISEASE 5919 5958	infarto agudo de miocardio (IAM) tipo 2
+T46	DISEASE 5947 5950	IAM
+T47	DISEASE 5977 6000	emergencia hipertensiva
+T48	DISEASE 6851 6878	miocardiopatía hipertrófica
+T49	DISEASE 6893 6917	cardiopatía hipertensiva
+T50	DISEASE 6922 6964	hipertrofia grave del ventrículo izquierdo
+T51	DISEASE 8017 8040	cardiopatía estructural
+T52	DISEASE 8085 8096	miocarditis
+T53	DISEASE 8120 8137	Miocarditis aguda
+T54	DISEASE 8153 8177	Diabetes mellitus tipo 2
+T55	DISEASE 8179 8214	Dislipemia tipo hipercolesterolemia
+T56	DISEASE 8216 8237	Hipertensión arterial
+T57	DISEASE 8239 8242	HTA
+T58	DISEASE 252 260	fumadora
+T59	DISEASE 2578 2620	Aurícula izquierda (AI) levemente dilatada
+T60	DISEASE 4501 4517	edema miocárdico
+#1	AnnotatorNotes T46	 Infarto Agudo de Miocardio

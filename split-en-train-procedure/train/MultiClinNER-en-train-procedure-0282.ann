@@ -1,0 +1,41 @@
+T36	PROCEDURE 208 219	Examination
+T8	PROCEDURE 306 317	Chest X-ray
+T38	PROCEDURE 401 417	Laboratory tests
+T11	PROCEDURE 556 579	microbiological studies
+T12	PROCEDURE 621 635	blood cultures
+T13	PROCEDURE 637 650	urine culture
+T42	PROCEDURE 652 695	antigenuria for Legionella and pneumococcus
+T14	PROCEDURE 697 712	pharyngeal swab
+T43	PROCEDURE 861 937	blood sample for detection of HIV infection (anti-HIV antibodies and Ag p24)
+T17	PROCEDURE 1143 1157	oxygen therapy
+T2	PROCEDURE 1277 1299	orotracheal intubation
+T3	PROCEDURE 1304 1326	mechanical ventilation
+T29	PROCEDURE 1348 1358	antibiotic
+T28	PROCEDURE 1924 1934	24 h urine
+T50	PROCEDURE 2124 2204	determination of autoantibodies to rule out an autoimmune renopulmonary syndrome
+T22	PROCEDURE 2206 2266	anti-neutrophil cytoplasm and anti-basal membrane antibodies
+T34	PROCEDURE 2283 2330	determination of galactomannan antigen in blood
+T16	PROCEDURE 2346 2368	bronchoalveolar lavage
+T26	PROCEDURE 2370 2373	BAL
+T18	PROCEDURE 2386 2415	bacterial and fungal cultures
+T19	PROCEDURE 2446 2473	detection of viral antigens
+T25	PROCEDURE 2495 2513	PCR for Adenovirus
+T33	PROCEDURE 2572 2597	microbiological isolation
+T20	PROCEDURE 2910 2930	antibiotic treatment
+T57	PROCEDURE 3198 3232	to start renal replacement support
+T10	PROCEDURE 3259 3265	CVVHDF
+T21	PROCEDURE 3480 3501	antibiotic treatments
+T63	PROCEDURE 4059 4065	CVVHDF
+T35	PROCEDURE 4266 4297	nephrotoxic effect of cidofovir
+T15	PROCEDURE 4404 4427	high-flux haemodialysis
+T1	PROCEDURE 4821 4830	hydration
+T5	PROCEDURE 4920 4938	haemodiafiltration
+T7	PROCEDURE 5003 5016	blood culture
+T32	PROCEDURE 5196 5206	antibiotic
+T23	PROCEDURE 5397 5435	PCR for Adenovirus was negative in LBA
+T4	PROCEDURE 5451 5462	lung biopsy
+T24	PROCEDURE 5543 5562	antiviral treatment
+T6	PROCEDURE 5757 5792	Extracorporeal Membrane Oxygenation
+T27	PROCEDURE 5794 5798	ECMO
+T30	PROCEDURE 5817 5843	microbiological isolations
+T9	PROCEDURE 5917 5938	transbronchial biopsy

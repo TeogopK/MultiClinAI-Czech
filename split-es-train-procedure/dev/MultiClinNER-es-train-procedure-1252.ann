@@ -1,0 +1,39 @@
+T97	PROCEDURE 71 98	tratamiento con corticoides
+T98	PROCEDURE 125 157	acupuntura para manejo del dolor
+T99	PROCEDURE 357 379	radiografía de columna
+T100	PROCEDURE 876 888	TAC cerebral
+T101	PROCEDURE 890 926	punción lumbar y de líquido sinovial
+T102	PROCEDURE 1109 1123	ecocardiograma
+T103	PROCEDURE 1126 1138	hemocultivos
+T104	PROCEDURE 1152 1170	Exploración física
+T105	PROCEDURE 1351 1372	Auscultación cardiaca
+T106	PROCEDURE 1412 1433	Auscultación pulmonar
+T107	PROCEDURE 1856 1870	Cultivo de LCR
+T108	PROCEDURE 1882 1893	Hemocultivo
+T109	PROCEDURE 1941 1961	TAC toraco-abdominal
+T110	PROCEDURE 2850 2861	hemocultivo
+T111	PROCEDURE 2959 2962	ETT
+T112	PROCEDURE 2965 2968	ETE
+T113	PROCEDURE 2970 2998	Ecocardiograma transtorácico
+T114	PROCEDURE 4018 4047	Ecocardiograma transesofágico
+T115	PROCEDURE 6252 6275	tratamiento antibiótico
+T116	PROCEDURE 6530 6601	infusión de drogas vasoactivas (noradrenalina, dobutamina, vasopresina)
+T117	PROCEDURE 7000 7042	sustitución valvular por prótesis mecánica
+T118	PROCEDURE 7147 7229	reconstrucción del tejido, mediante puntos de prolene apoyados en parche de teflón
+T119	PROCEDURE 7328 7370	sustitución valvular por prótesis mecánica
+T120	PROCEDURE 7524 7543	ventana de sedación
+T121	PROCEDURE 7606 7614	sedación
+T122	PROCEDURE 7616 7640	tratamiento anticomicial
+T123	PROCEDURE 7645 7656	TAC craneal
+T124	PROCEDURE 7850 7864	hemofiltración
+T125	PROCEDURE 7955 7963	sedación
+T126	PROCEDURE 7991 7994	EEG
+T127	PROCEDURE 8043 8061	drogas vasoactivas
+T135	PROCEDURE 6366 6373	cirugía
+T136	PROCEDURE 801 833	tratamiento antibiótico empírico
+T141	PROCEDURE 1641 1650	Analítica
+T154	PROCEDURE 346 355	analítica
+T157	PROCEDURE 7444 7455	exploración
+T158	PROCEDURE 7969 7988	exploración clínica
+T162	PROCEDURE 6491 6514	intervención quirúrgica
+T143	PROCEDURE 8241 8248	Cirugía

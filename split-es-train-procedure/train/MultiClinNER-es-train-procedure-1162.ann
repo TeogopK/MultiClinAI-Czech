@@ -1,0 +1,29 @@
+T87	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T88	PROCEDURE 305 308	ECG
+T89	PROCEDURE 834 845	RM cardiaca
+T90	PROCEDURE 847 853	Holter
+T91	PROCEDURE 1082 1092	Ergometría
+T92	PROCEDURE 1478 1494	Estudio genético
+T93	PROCEDURE 1802 1815	histerectomía
+T94	PROCEDURE 1818 1835	doble anexectomía
+T95	PROCEDURE 2619 2637	Exploración física
+T96	PROCEDURE 2778 2799	Auscultación cardiaca
+T97	PROCEDURE 2838 2859	maniobras de Valsalva
+T98	PROCEDURE 2861 2882	Auscultación pulmonar
+T99	PROCEDURE 3067 3070	ECG
+T100	PROCEDURE 3592 3620	Ecocardiograma transtorácico
+T101	PROCEDURE 4689 4721	Radiografía de tórax posimplante
+T102	PROCEDURE 4942 4960	Electrocardiograma
+T103	PROCEDURE 4962 4965	ECG
+T104	PROCEDURE 5337 5363	tratamiento betabloqueante
+T105	PROCEDURE 5719 5745	tratamiento betabloqueante
+T106	PROCEDURE 5756 5771	implante de DAI
+T107	PROCEDURE 5931 5957	tratamiento anticoagulante
+T108	PROCEDURE 5970 5995	implante de DAI bicameral
+T109	PROCEDURE 6381 6406	Implante de DAI bicameral
+T113	PROCEDURE 3259 3268	Analítica
+T118	PROCEDURE 1774 1800	Intervenciones quirúrgicas
+T135	PROCEDURE 1802 1835	histerectomía y doble anexectomía
+T137	PROCEDURE 5011 5021	marcapasos
+T115	PROCEDURE 4723 4775	desfibrilador automático implantable (DAI) bicameral
+T116	PROCEDURE 4761 4764	DAI

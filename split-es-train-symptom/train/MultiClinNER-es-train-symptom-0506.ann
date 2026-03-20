@@ -1,0 +1,36 @@
+T1	SYMPTOM 659 686	hemoglobinuria macroscópica
+T2	SYMPTOM 696 724	dificultad para concentrarse
+T3	SYMPTOM 1292 1323	función renal se mantuvo normal
+T4	SYMPTOM 166 183	dolor lumbar bajo
+T5	SYMPTOM 1353 1376	hemoglobinuria negativa
+T6	SYMPTOM 385 405	Función renal normal
+T7	SYMPTOM 151 163	orina oscura
+T8	SYMPTOM 548 586	excreción fraccional de fosfato normal
+T9	SYMPTOM 785 828	hipointensidad de señal en la corteza renal
+T10	SYMPTOM 1140 1163	haptoglobina disminuida
+T11	SYMPTOM 489 503	Hemoglobinuria
+T12	SYMPTOM 461 472	albuminuria
+T13	SYMPTOM 429 440	proteinuria
+T14	SYMPTOM 1329 1340	proteinuria
+T15	SYMPTOM 508 524	sedimento normal
+T16	SYMPTOM 338 383	ferritina y saturación de transferan normales
+T17	SYMPTOM 248 273	haptoglobina indetectable
+T18	SYMPTOM 727 742	dolor de cabeza
+T19	SYMPTOM 1059 1073	hemoglobinuria
+T20	SYMPTOM 526 545	glucosuria negativa
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T5
+A4	RESULTADO T6
+A5	RESULTADO T8
+A6	IMAGEN T9
+A7	RESULTADO T10
+A8	RESULTADO T11
+A9	RESULTADO T12
+A10	RESULTADO T13
+A11	RESULTADO T14
+A12	RESULTADO T15
+A13	RESULTADO T16
+A14	RESULTADO T17
+A15	RESULTADO T19
+A16	RESULTADO T20

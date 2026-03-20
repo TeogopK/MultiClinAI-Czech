@@ -1,0 +1,32 @@
+T48	PROCEDURE 895 915	cateterismo cardiaco
+T49	PROCEDURE 1025 1088	intervención coronaria percutánea (ICP) con stent farmacoactivo
+T50	PROCEDURE 1187 1201	ecocardiograma
+T51	PROCEDURE 1377 1400	rehabilitación cardiaca
+T52	PROCEDURE 2272 2290	electrocardiograma
+T53	PROCEDURE 2292 2295	ECG
+T54	PROCEDURE 2396 2451	tomografía por emisión monofotónica (SPECT) de esfuerzo
+T55	PROCEDURE 2433 2438	SPECT
+T56	PROCEDURE 2931 2958	Auscultación cardiopulmonar
+T57	PROCEDURE 3161 3181	CATETERISMO CARDIACO
+T58	PROCEDURE 3265 3311	Angioplastia coronaria transluminal percutánea
+T59	PROCEDURE 3313 3317	ACTP
+T60	PROCEDURE 3321 3352	implante de stent farmacoactivo
+T61	PROCEDURE 3563 3572	hemograma
+T62	PROCEDURE 3770 3773	ECG
+T63	PROCEDURE 3930 3947	SPECT DE ESFUERZO
+T64	PROCEDURE 3978 3988	ergometría
+T65	PROCEDURE 4220 4223	ECG
+T66	PROCEDURE 4401 4412	gated-SPECT
+T67	PROCEDURE 4736 4759	rehabilitación cardiaca
+T68	PROCEDURE 5738 5764	tratamiento hipolipemiante
+T69	PROCEDURE 5880 5897	pruebas hepáticas
+T70	PROCEDURE 5914 5919	SPECT
+T71	PROCEDURE 6308 6325	revascularización
+T86	PROCEDURE 4999 5062	inhibidores de proproteína convertasa subtilisina/kexina tipo 9
+T89	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T90	PROCEDURE 2746 2764	EXPLORACIÓN FÍSICA
+T91	PROCEDURE 2357 2381	ecocardiograma de estrés
+T99	PROCEDURE 3532 3541	ANALÍTICA
+T110	PROCEDURE 1757 1766	analítica
+T100	PROCEDURE 4232 4269	imágenes tomográficas del posesfuerzo
+#1	AnnotatorNotes T59	 angioplastia coronaria transluminal percutánea

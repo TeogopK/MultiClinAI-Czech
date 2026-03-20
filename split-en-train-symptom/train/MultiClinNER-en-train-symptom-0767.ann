@@ -1,0 +1,52 @@
+T1	SYMPTOM 362 371	prodromes
+T2	SYMPTOM 534 551	vegetative cortex
+T3	SYMPTOM 572 584	palpitations
+T4	SYMPTOM 588 596	dyspnoea
+T5	SYMPTOM 827 835	Afebrile
+T6	SYMPTOM 837 859	Good general condition
+T7	SYMPTOM 861 870	Conscious
+T8	SYMPTOM 875 883	oriented
+T9	SYMPTOM 885 900	Eupneic at rest
+T10	SYMPTOM 926 947	jugular ingurgitation
+T11	SYMPTOM 980 988	rhythmic
+T12	SYMPTOM 1006 1013	murmurs
+T13	SYMPTOM 1101 1127	Abdomen: soft, depressible
+T14	SYMPTOM 1133 1140	painful
+T15	SYMPTOM 1150 1159	megaliths
+T16	SYMPTOM 1161 1189	Lower extremities: no oedema
+T17	SYMPTOM 1191 1212	distal pulses present
+T18	SYMPTOM 1298 1307	Normal PR
+T19	SYMPTOM 1453 1462	Normal PR
+T20	SYMPTOM 1309 1319	Narrow QRS
+T21	SYMPTOM 1464 1474	narrow QRS
+T22	SYMPTOM 1690 1713	normal thyroid function
+T23	SYMPTOM 2751 2760	hyperemia
+T24	SYMPTOM 2905 2939	left ventricle (LV) of normal size
+T25	SYMPTOM 2945 3021	akinesia of all apical segments and hypercontractility of the basal segments
+T26	SYMPTOM 3574 3615	Right ventricle (RV) with normal function
+T27	SYMPTOM 3647 3690	left ventricle of normal size and thickness
+T28	SYMPTOM 3951 3973	Normal tricuspid valve
+T29	SYMPTOM 5006 5083	akinesia of the apical segments with hypercontractility of the basal segments
+T30	SYMPTOM 5156 5179	haemodynamically stable
+T32	SYMPTOM 5184 5188	pain
+T34	SYMPTOM 5272 5282	chest pain
+T35	SYMPTOM 336 352	syncopal episode
+T36	SYMPTOM 606 613	syncope
+T37	SYMPTOM 902 921	tolerates decubitus
+T38	SYMPTOM 3409 3426	apical dyskinesia
+T39	SYMPTOM 4118 4147	aortic root is of normal size
+T31	SYMPTOM 469 517	epigastric pain radiating to the left hemithorax
+T40	SYMPTOM 989 1001	heart sounds
+T41	SYMPTOM 1017 1036	pathological sounds
+T42	SYMPTOM 1062 1099	normal ventilation in all lung fields
+T43	SYMPTOM 1342 1378	ST segment elevation of 1mm in V5-V6
+T44	SYMPTOM 1488 1523	Negative T wave in V4-V6, I and aVL
+T45	SYMPTOM 1530 1556	lat T wave in III and aVF.
+T46	SYMPTOM 1582 1609	normal cardiothoracic index
+T47	SYMPTOM 1614 1636	alveolar consolidation
+T48	SYMPTOM 3692 3733	Left ventricular ejection fraction normal
+T49	SYMPTOM 3827 3849	Right ventricle normal
+T50	SYMPTOM 3877 3922	Mitral valve normal in structure and function
+T51	SYMPTOM 4323 4377	ST segment elevation of 1 mm in the lower lateral face
+T52	SYMPTOM 4471 4500	coronary tree with no lesions
+T33	SYMPTOM 5511 5551	oedema in the middle and apical segments

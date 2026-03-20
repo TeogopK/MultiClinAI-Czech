@@ -1,0 +1,31 @@
+T1	SYMPTOM 930 941	Eosinofilia
+T2	SYMPTOM 399 418	febrícula ocasional
+T3	SYMPTOM 748 772	masa en flanco izquierdo
+T4	SYMPTOM 82 88	fiebre
+T5	SYMPTOM 93 105	dolor lumbar
+T6	SYMPTOM 432 459	pesadez en flanco izquierdo
+T7	SYMPTOM 516 532	chorro aceptable
+T8	SYMPTOM 151 158	disuria
+T9	SYMPTOM 334 341	cólicos
+T10	SYMPTOM 534 541	disuria
+T11	SYMPTOM 1050 1074	masa en flanco izquierdo
+T12	SYMPTOM 2067 2079	asintomático
+T13	SYMPTOM 320 329	hematuria
+T14	SYMPTOM 69 79	sudoración
+T15	SYMPTOM 420 430	sudoración
+T16	SYMPTOM 943 960	Bioquímica normal
+T17	SYMPTOM 117 134	pesadez en flanco
+T18	SYMPTOM 494 511	clínica miccional
+T19	SYMPTOM 563 568	goteo
+T20	SYMPTOM 573 581	urgencia
+T21	SYMPTOM 655 685	sensación de vacuidad completa
+T22	SYMPTOM 976 1003	analítica de orina negativa
+T23	SYMPTOM 1309 1368	serología de Anticuerpos Echinococcus/Hemag que es POSITIVO
+T24	SYMPTOM 899 915	Hemograma normal
+T25	SYMPTOM 464 476	dolor lumbar
+A1	RESULTADO T1
+A2	IMAGEN T11
+A3	RESULTADO T16
+A4	RESULTADO T22
+A5	RESULTADO T23
+A6	RESULTADO T24

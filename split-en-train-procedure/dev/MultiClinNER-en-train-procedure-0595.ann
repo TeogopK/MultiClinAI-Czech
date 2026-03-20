@@ -1,0 +1,21 @@
+T2	PROCEDURE 256 279	inhaled corticosteroids
+T6	PROCEDURE 693 713	Clinical examination
+T8	PROCEDURE 898 935	Cardiac and neurological examinations
+T4	PROCEDURE 1464 1510	Serology for HIV and hepatitis B and C viruses
+T5	PROCEDURE 1526 1547	Serial blood cultures
+T1	PROCEDURE 1632 1662	Transthoracic echocardiography
+T14	PROCEDURE 1829 1844	finger pressure
+T16	PROCEDURE 1869 1904	Fluid was aspirated from the lesion
+T19	PROCEDURE 1910 1917	culture
+T24	PROCEDURE 1982 2007	Ultrasound of the abdomen
+T3	PROCEDURE 2020 2028	Chest CT
+T27	PROCEDURE 2300 2322	CT scan of the abdomen
+T7	PROCEDURE 2399 2408	bone scan
+T9	PROCEDURE 2534 2552	MRI of the sternum
+T15	PROCEDURE 2578 2588	gadolinium
+T11	PROCEDURE 2996 3016	antibiotic treatment
+T10	PROCEDURE 3540 3557	complement levels
+T12	PROCEDURE 3559 3596	lymphocyte subpopulations and markers
+T17	PROCEDURE 3598 3628	granulocyte oxidative capacity
+T18	PROCEDURE 3633 3652	lymphocyte function
+T13	PROCEDURE 4051 4074	Isohemagglutinin titres

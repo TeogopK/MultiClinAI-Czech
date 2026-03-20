@@ -1,0 +1,45 @@
+T77	PROCEDURE 304 333	resonancia magnética cerebral
+T78	PROCEDURE 839 842	RCP
+T79	PROCEDURE 1110 1132	intubación orotraqueal
+T80	PROCEDURE 1136 1156	ventilación mecánica
+T81	PROCEDURE 1198 1216	EXPLORACIÓN FÍSICA
+T82	PROCEDURE 1521 1542	Auscultación cardiaca
+T83	PROCEDURE 1565 1586	Auscultación pulmonar
+T84	PROCEDURE 1941 1959	Electrocardiograma
+T85	PROCEDURE 1961 1964	ECG
+T86	PROCEDURE 2371 2391	Radiografía de tórax
+T87	PROCEDURE 2503 2531	Ecocardiograma transtorácico
+T88	PROCEDURE 3030 3041	Exploración
+T89	PROCEDURE 3060 3075	Coronariografía
+T90	PROCEDURE 3304 3331	administración de contraste
+T91	PROCEDURE 3338 3356	canulación del TCI
+T92	PROCEDURE 3398 3421	Angio-TAC de coronarias
+T93	PROCEDURE 3909 3919	Ergometría
+T94	PROCEDURE 4137 4155	electrocardiograma
+T95	PROCEDURE 4247 4285	Ecocardiograma de estrés posquirúrgico
+T96	PROCEDURE 4287 4323	prueba de esfuerzo en cicloergómetro
+T97	PROCEDURE 4834 4852	electrocardiograma
+T98	PROCEDURE 4954 4968	ecocardiograma
+T99	PROCEDURE 5134 5151	radiografía tórax
+T100	PROCEDURE 5189 5208	gasometría arterial
+T101	PROCEDURE 5295 5333	Tomografía computarizada (TC) cerebral
+T102	PROCEDURE 5464 5479	coronariografía
+T103	PROCEDURE 5825 5832	weaning
+T104	PROCEDURE 5837 5847	extubación
+T105	PROCEDURE 5939 5955	TC de coronarias
+T106	PROCEDURE 6230 6348	implante de doble bypass: arteria mamaria derecha a obtusa marginal y arteria mamaria izquierda a descendente anterior
+T107	PROCEDURE 6489 6499	ergometría
+T108	PROCEDURE 6502 6526	ecocardiograma de estrés
+T109	PROCEDURE 6789 6834	Revascularización quirúrgica con doble bypass
+T110	PROCEDURE 1308 1326	Constantes vitales
+T111	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T112	PROCEDURE 2313 2342	Marcadores de daño miocárdico
+T113	PROCEDURE 1189 1195	aminas
+T114	PROCEDURE 5747 5753	aminas
+T115	PROCEDURE 798 850	maniobras de reanimación cardiopulmonar (RCP) básica
+T116	PROCEDURE 1089 1104	sedoanalgesiado
+T117	PROCEDURE 959 988	Se administra un único choque
+T118	PROCEDURE 5321 5323	TC
+T137	PROCEDURE 2063 2072	Analítica
+T157	PROCEDURE 394 420	intervenciones quirúrgicas
+#1	AnnotatorNotes T91	  TCI: tronco común izquierda

@@ -1,0 +1,17 @@
+T13	PROCEDURE 186 218	chemotherapy (escalated BEACOPP)
+T9	PROCEDURE 210 217	BEACOPP
+T2	PROCEDURE 246 258	chemotherapy
+T15	PROCEDURE 308 324	Laboratory tests
+T4	PROCEDURE 538 548	intubation
+T5	PROCEDURE 553 582	transfusion of blood products
+T6	PROCEDURE 584 599	Upper endoscopy
+T20	PROCEDURE 746 775	pathology study of the biopsy
+T22	PROCEDURE 1083 1090	CT scan
+T1	PROCEDURE 1341 1358	glycaemic control
+T10	PROCEDURE 1376 1383	surgery
+T24	PROCEDURE 1412 1429	underwent surgery
+T3	PROCEDURE 1576 1601	anatomopathological study
+T26	PROCEDURE 1609 1636	jejunum and ileum resection
+T7	PROCEDURE 2045 2048	PAS
+T8	PROCEDURE 2053 2071	methanamine silver
+T12	PROCEDURE 2134 2141	surgery

@@ -1,0 +1,31 @@
+T1	PROCEDURE 3236 3271	estudio histológico de los ganglios
+T2	PROCEDURE 2550 2573	tratamiento antibiótico
+T3	PROCEDURE 3462 3475	esplenectomía
+T4	PROCEDURE 2859 2882	laparotomía diagnóstica
+T5	PROCEDURE 2888 2905	anestesia general
+T6	PROCEDURE 471 490	ecografía abdominal
+T7	PROCEDURE 581 635	tratamiento antibiótico (cobertura de amplio espectro)
+T8	PROCEDURE 3218 3231	esplenectomía
+T9	PROCEDURE 930 948	exploración física
+T10	PROCEDURE 1402 1427	estudio de la coagulación
+T11	PROCEDURE 1433 1460	análisis elemental de orina
+T12	PROCEDURE 1499 1532	determinación de inmunoglobulinas
+T13	PROCEDURE 1538 1558	estudio inmunológico
+T14	PROCEDURE 1980 2004	estudios microbiológicos
+T15	PROCEDURE 2006 2018	hemocultivos
+T16	PROCEDURE 2020 2038	cultivos de esputo
+T17	PROCEDURE 2041 2054	urinocultivos
+T18	PROCEDURE 2073 2097	estudio de mycobacterias
+T19	PROCEDURE 2167 2180	TAC abdominal
+T20	PROCEDURE 2425 2458	biopsia hepática y de médula ósea
+T21	PROCEDURE 3714 3735	análisis microscópico
+T22	PROCEDURE 3840 3868	estudios inmunohistoquímicos
+T23	PROCEDURE 1481 1494	proteínograma
+T24	PROCEDURE 1599 1649	estudios microbiológicos que incluyeron serologías
+T25	PROCEDURE 1751 1805	legionella (con la determinación de antígeno en orina)
+T26	PROCEDURE 3923 3952	diagnóstico anatomopatológico
+T27	PROCEDURE 2128 2145	pruebas de imagen
+T28	PROCEDURE 2364 2411	resultados (microbiológicos e histopatológicos)
+T29	PROCEDURE 1876 1894	serología para VEB
+T30	PROCEDURE 1047 1056	analítica
+T33	PROCEDURE 2916 2928	intervención

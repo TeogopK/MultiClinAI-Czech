@@ -1,0 +1,55 @@
+T96	PROCEDURE 29 49	physical examination
+T2	PROCEDURE 229 248	treatment with CPAP
+T3	PROCEDURE 300 358	operation for Morton's neuroma, hallux valgus of both feet
+T4	PROCEDURE 363 389	excision of a rectal polyp
+T141	PROCEDURE 935 943	diuretic
+T97	PROCEDURE 998 1018	Physical examination
+T98	PROCEDURE 1158 1178	Cardiac auscultation
+T99	PROCEDURE 1219 1241	Pulmonary auscultation
+T143	PROCEDURE 1268 1285	Lower extremities
+T100	PROCEDURE 1336 1339	ECG
+T5	PROCEDURE 1389 1400	Blood tests
+T129	PROCEDURE 1409 1424	cardiac enzymes
+T130	PROCEDURE 1433 1449	thyroid function
+T127	PROCEDURE 1494 1506	electrolytes
+T6	PROCEDURE 1508 1517	Haemogram
+T101	PROCEDURE 1578 1589	Chest X-ray
+T103	PROCEDURE 1605 1619	Echocardiogram
+T105	PROCEDURE 2446 2465	Thoracoabdominal CT
+T108	PROCEDURE 3757 3783	Pericardial fluid analysis
+T132	PROCEDURE 3785 3805	biochemical analysis
+T109	PROCEDURE 3848 3868	Cytological analysis
+T110	PROCEDURE 4028 4052	Microbiological analysis
+T117	PROCEDURE 4094 4142	direct smear microscopy (staining: Ziehl-Nielsen
+T118	PROCEDURE 4170 4229	smear microscopy after decontamination (staining: auramine)
+T10	PROCEDURE 4265 4307	PCR for Mycobacterium tuberculosis complex
+T133	PROCEDURE 4318 4339	mycobacterial culture
+T111	PROCEDURE 4341 4347	Biopsy
+T121	PROCEDURE 4521 4537	thoracic surgery
+T11	PROCEDURE 5312 5380	evacuating pericardiocentesis was performed via the subxiphoid route
+T137	PROCEDURE 5438 5450	biochemistry
+T138	PROCEDURE 5452 5464	microbiology
+T139	PROCEDURE 5469 5489	pathological anatomy
+T126	PROCEDURE 5655 5678	complete blood analysis
+T114	PROCEDURE 5680 5698	autoimmunity study
+T134	PROCEDURE 5700 5707	Mantoux
+T119	PROCEDURE 5709 5725	smear microscopy
+T106	PROCEDURE 5727 5746	thoracoabdominal CT
+T102	PROCEDURE 5753 5764	chest X-ray
+T104	PROCEDURE 5777 5791	echocardiogram
+T131	PROCEDURE 5821 5837	thyroid function
+T116	PROCEDURE 5874 5886	Mantoux test
+T120	PROCEDURE 5891 5907	smear microscopy
+T115	PROCEDURE 5930 5948	autoimmunity study
+T107	PROCEDURE 5965 5984	thoracoabdominal CT
+T112	PROCEDURE 6326 6367	mediastinoscopy was performed with biopsy
+T14	PROCEDURE 6559 6583	evacuating thoracentesis
+T113	PROCEDURE 6616 6622	biopsy
+T128	PROCEDURE 6747 6760	imaging tests
+T15	PROCEDURE 6762 6764	CT
+T123	PROCEDURE 6770 6786	thoracic surgery
+T136	PROCEDURE 7152 7175	myasthenia gravis study
+T16	PROCEDURE 7272 7289	remove the tumour
+T17	PROCEDURE 7311 7367	median sternotomy and access to the anterior mediastinum
+T140	PROCEDURE 7525 7535	dissection
+T124	PROCEDURE 7718 7727	analgesia

@@ -1,0 +1,15 @@
+T1	SYMPTOM 1427 1437	resangrado
+T2	SYMPTOM 811 895	estudio hematológico completo y las pruebas de coagulación sanguínea fueron normales
+T3	SYMPTOM 924 978	test de enfermedad de células falciformes fue negativo
+T4	SYMPTOM 185 207	ojo derecho fue normal
+T5	SYMPTOM 406 452	valores de presión intraocular fueron normales
+T6	SYMPTOM 654 691	escotoma periférico temporal superior
+T7	SYMPTOM 339 400	ojo izquierdo hemorragias retinianas redondeadas ecuatoriales
+T8	SYMPTOM 747 806	neovascularización retiniana en el cuadrante nasal inferior
+T9	SYMPTOM 1001 1023	hemorragias retinianas
+T10	SYMPTOM 983 994	microhifema
+T11	SYMPTOM 246 257	microhifema
+T12	SYMPTOM 1377 1388	microhifema
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T5

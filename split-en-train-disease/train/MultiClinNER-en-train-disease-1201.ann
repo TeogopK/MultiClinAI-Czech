@@ -1,0 +1,62 @@
+T45	DISEASE 86 100	drug allergies
+T1	DISEASE 224 230	angina
+T92	DISEASE 253 265	sudden death
+T76	DISEASE 275 298	ischaemic heart disease
+T48	DISEASE 304 310	smoker
+T49	DISEASE 352 373	arterial hypertension
+T2	DISEASE 375 378	AHT
+T3	DISEASE 474 487	heart disease
+T50	DISEASE 521 537	anxiety disorder
+T96	DISEASE 967 970	CPR
+T97	DISEASE 1120 1123	CPR
+T51	DISEASE 1262 1281	atrial fibrillation
+T5	DISEASE 1283 1285	AF
+T7	DISEASE 1543 1546	CRA
+T55	DISEASE 1777 1801	cardiorespiratory arrest
+T56	DISEASE 2389 2431	venous thrombosis in the lower extremities
+T57	DISEASE 2491 2522	ventricular fibrillation arrest
+T52	DISEASE 2566 2585	atrial fibrillation
+T88	DISEASE 2928 2931	PCR
+T84	DISEASE 3145 3162	myocardial damage
+T58	DISEASE 3468 3482	valvulopathies
+T59	DISEASE 3522 3542	pericardial effusion
+T19	DISEASE 4161 4221	Mitral valve of normal appearance with minimal insufficiency
+T61	DISEASE 4223 4262	Tricuspid valve with mild insufficiency
+T60	DISEASE 4395 4415	pericardial effusion
+T21	DISEASE 4589 4628	Mild-moderate concentric LV hypertrophy
+T62	DISEASE 4825 4851	hypertensive heart disease
+T63	DISEASE 4953 4969	long QT syndrome
+T85	DISEASE 5139 5156	arrhythmic events
+T65	DISEASE 5173 5226	catecholaminergic polymorphic ventricular tachycardia
+T67	DISEASE 5241 5257	Brugada syndrome
+T22	DISEASE 5402 5434	atrioventricular (AV) conduction
+T68	DISEASE 5559 5596	monomorphic ventricular extrasystoles
+T69	DISEASE 5602 5627	right bundle branch block
+T23	DISEASE 5640 5644	RBBB
+T24	DISEASE 5792 5798	arrest
+T86	DISEASE 6186 6203	arrhythmic events
+T29	DISEASE 6367 6382	channelopathies
+T70	DISEASE 6386 6404	coronary vasospasm
+T87	DISEASE 6587 6604	arrhythmic events
+T72	DISEASE 6736 6750	cardiac arrest
+T83	DISEASE 6755 6764	Ischaemia
+T73	DISEASE 6939 6964	pulmonary thromboembolism
+T30	DISEASE 6966 6969	PTE
+T74	DISEASE 6974 6991	cardiac tamponade
+T75	DISEASE 7055 7069	cardiomyopathy
+T33	DISEASE 7154 7169	Channelopathies
+T64	DISEASE 7202 7227	long QT syndrome, Brugada
+T66	DISEASE 7233 7286	catecholaminergic polymorphic ventricular tachycardia
+T94	DISEASE 7319 7328	short QTc
+T71	DISEASE 7376 7394	Coronary vasospasm
+T93	DISEASE 7533 7545	sudden death
+T77	DISEASE 7549 7578	early ischaemic heart disease
+T78	DISEASE 7595 7624	permanent atrial fibrillation
+T79	DISEASE 7644 7674	paroxysmal atrial fibrillation
+T42	DISEASE 7777 7790	heart disease
+T80	DISEASE 7858 7893	idiopathic ventricular fibrillation
+T38	DISEASE 8104 8123	Out-of-hospital CRA
+T81	DISEASE 8158 8193	Idiopathic ventricular fibrillation
+T82	DISEASE 8240 8264	structural heart disease
+T35	DISEASE 8327 8340	channelopathy
+T91	DISEASE 8345 8354	vasospasm

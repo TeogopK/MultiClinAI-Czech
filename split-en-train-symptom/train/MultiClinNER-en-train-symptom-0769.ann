@@ -1,0 +1,44 @@
+T1	SYMPTOM 877 892	general malaise
+T2	SYMPTOM 900 905	fever
+T3	SYMPTOM 1092 1120	intense itching of the scalp
+T4	SYMPTOM 1134 1142	sweating
+T5	SYMPTOM 1155 1201	oppressive non-radiating central thoracic pain
+T6	SYMPTOM 1214 1222	dyspnoea
+T7	SYMPTOM 1300 1309	dyspnoeic
+T33	SYMPTOM 1328 1348	respiratory distress
+T8	SYMPTOM 1350 1361	hypotensive
+T9	SYMPTOM 1634 1657	haemodynamically stable
+T34	SYMPTOM 1669 1689	respiratory distress
+T11	SYMPTOM 1905 1914	Conscious
+T12	SYMPTOM 1916 1924	oriented
+T13	SYMPTOM 1926 1947	good distal perfusion
+T36	SYMPTOM 1949 1968	Eupneic on room air
+T35	SYMPTOM 1999 2018	Chest emphysematous
+T30	SYMPTOM 2038 2041	IVY
+T28	SYMPTOM 2046 2066	hepatojugular reflux
+T14	SYMPTOM 2068 2098	Cardiac auscultation: rhythmic
+T15	SYMPTOM 2111 2118	murmurs
+T16	SYMPTOM 2144 2166	Global hypoventilation
+T27	SYMPTOM 2168 2220	Abdomen: soft, depressible, not painful on palpation
+T17	SYMPTOM 2222 2244	Extremities: no oedema
+T18	SYMPTOM 2335 2347	sinus rhythm
+T19	SYMPTOM 2370 2380	narrow QRS
+T37	SYMPTOM 2392 2427	Inferior ST supra-segment elevation
+T20	SYMPTOM 2475 2485	narrow QRS
+T38	SYMPTOM 2540 2567	normal cardiothoracic index
+T31	SYMPTOM 2588 2611	vascular redistribution
+T39	SYMPTOM 3135 3171	Thyroid hormones within normal range
+T32	SYMPTOM 3328 3390	coronary arteries without angiographically significant lesions
+T40	SYMPTOM 3407 3433	left ventricle not dilated
+T41	SYMPTOM 3465 3490	preserved global function
+T42	SYMPTOM 3499 3539	segmental abnormalities of contractility
+T21	SYMPTOM 3566 3609	Right ventricle of normal size and function
+T43	SYMPTOM 3668 3733	Inferior vena cava not dilated with adequate inspiratory collapse
+T22	SYMPTOM 3760 3778	Normal aortic arch
+T23	SYMPTOM 3849 3861	asymptomatic
+T10	SYMPTOM 3899 3922	haemodynamically stable
+T44	SYMPTOM 3950 3976	repolarisation alterations
+T25	SYMPTOM 4072 4105	coronary arteries without lesions
+T26	SYMPTOM 4138 4178	ventricle of preserved size and function
+T29	SYMPTOM 4187 4214	contractility abnormalities
+T24	SYMPTOM 4566 4578	asymptomatic

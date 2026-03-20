@@ -1,0 +1,16 @@
+T23	DISEASE 70 80	hipertenso
+T24	DISEASE 82 98	diabético tipo 2
+T25	DISEASE 100 111	dislipémico
+T26	DISEASE 114 123	exfumador
+T27	DISEASE 859 896	Insuficiencia respiratoria hipoxémica
+T28	DISEASE 1151 1165	isquemia aguda
+T29	DISEASE 1348 1371	infección por SARS-CoV2
+T30	DISEASE 1853 1933	neumonía bilateral por SARS-CoV2 con insuficiencia respiratoria aguda hipoxémica
+T31	DISEASE 2357 2368	miocarditis
+T32	DISEASE 2693 2706	valvulopatías
+T33	DISEASE 2724 2743	derrame pericárdico
+T35	DISEASE 2882 2897	infección aguda
+T36	DISEASE 2907 2918	cardiopatía
+T37	DISEASE 3076 3108	Neumonía bilateral por SARS-CoV2
+T40	DISEASE 2871 2880	hipoxemia
+T3	DISEASE 2483 2539	ventrículo izquierdo no dilatado, levemente hipertrófico

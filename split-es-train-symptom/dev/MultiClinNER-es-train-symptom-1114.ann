@@ -1,0 +1,52 @@
+T1	SYMPTOM 560 585	elevación del segmento ST
+T2	SYMPTOM 683 731	dolor opresivo centrotorácico irradiado a cuello
+T3	SYMPTOM 944 962	cortejo vegetativo
+T4	SYMPTOM 1035 1045	presíncope
+T5	SYMPTOM 1157 1186	disnea de moderados esfuerzos
+T6	SYMPTOM 1305 1312	Afebril
+T7	SYMPTOM 1314 1332	Eupneica en reposo
+T8	SYMPTOM 1334 1364	Auscultación cardiaca: rítmica
+T9	SYMPTOM 1366 1422	soplo sistólico en borde paraesternal izquierdo inferior
+T10	SYMPTOM 1491 1519	Abdomen: blando y depresible
+T11	SYMPTOM 1525 1530	masas
+T12	SYMPTOM 1534 1542	megalias
+T13	SYMPTOM 1548 1581	edemas en extremidades inferiores
+T14	SYMPTOM 1586 1588	IY
+T15	SYMPTOM 1593 1610	soplos carotídeos
+T16	SYMPTOM 1759 1771	QRS estrecho
+T17	SYMPTOM 2152 2171	Coagulación: normal
+T18	SYMPTOM 2173 2197	Función tiroidea: normal
+T19	SYMPTOM 2288 2302	VI no dilatado
+T20	SYMPTOM 2601 2666	aceleración de flujo en tracto de salida del ventrículo izquierdo
+T25	SYMPTOM 3646 3682	Vena cava inferior (VCI) no dilatada
+T26	SYMPTOM 3817 3838	masas intracavitarias
+T28	SYMPTOM 4071 4157	hipoquinesia grave de segmentos apicales y medio de cara diafragmática y anterolateral
+T30	SYMPTOM 4257 4306	VI de tamaño normal, con función sistólica normal
+T32	SYMPTOM 4899 4930	función sistólica VI conservada
+T34	SYMPTOM 6497 6515	signos congestivos
+T35	SYMPTOM 6535 6540	soplo
+T36	SYMPTOM 6566 6589	desaparición de ondas Q
+T37	SYMPTOM 6594 6653	ondas T negativas en derivaciones inferiores y precordiales
+T45	SYMPTOM 1024 1031	síncope
+T114	SYMPTOM 4820 4843	asimetrías contráctiles
+T123	SYMPTOM 1735 1748	ritmo sinusal
+T46	SYMPTOM 1450 1489	Auscultación pulmonar: normoventilación
+T109	SYMPTOM 2199 2229	Metabolismo del hierro: normal
+T110	SYMPTOM 2496 2542	aquinesia septal media y apical e inferoapical
+T23	SYMPTOM 3002 3041	ventrículo derecho (VD) normocontráctil
+T24	SYMPTOM 3131 3163	aorta ascendente proximal normal
+T111	SYMPTOM 3720 3778	Presión arterial pulmonar sistólica (PAPs) estimada normal
+T112	SYMPTOM 4162 4202	hipercontractilidad de segmentos basales
+T125	SYMPTOM 2969 3000	Cavidades derechas no dilatadas
+T133	SYMPTOM 1637 1672	RADIOGRAFÍA DE TÓRAX: sin hallazgos
+T139	SYMPTOM 5342 5386	arterias coronarias epicárdicas sin lesiones
+T140	SYMPTOM 5786 5830	arterias coronarias epicárdicas sin lesiones
+T141	SYMPTOM 3880 3912	arterias coronarias sin lesiones
+T143	SYMPTOM 6036 6048	asintomática
+T144	SYMPTOM 6454 6466	asintomática
+T146	SYMPTOM 5708 5714	estrés
+T163	SYMPTOM 3165 3196	Válvula mitral (VM) velos finos
+T164	SYMPTOM 3484 3527	Válvula aórtica (VAo) trivalva, velos finos
+T22	SYMPTOM 4460 4507	áreas de realce tardío en el espesor miocárdico
+T113	SYMPTOM 5748 5783	elevación de marcadores de necrosis
+T115	SYMPTOM 6199 6246	áreas de realce tardío en el espesor miocárdico

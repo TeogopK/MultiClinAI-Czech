@@ -1,0 +1,55 @@
+T98	PROCEDURE 168 184	estudio genético
+T99	PROCEDURE 812 864	monitorización con electrocardiograma (ECG) continua
+T100	PROCEDURE 851 854	ECG
+T101	PROCEDURE 875 889	ecocardiograma
+T102	PROCEDURE 949 998	test de detección de isquemia mediante ergometría
+T103	PROCEDURE 1684 1724	maniobras de resucitación cardiopulmonar
+T104	PROCEDURE 1726 1729	RCP
+T105	PROCEDURE 1888 1910	intubación orotraqueal
+T106	PROCEDURE 1912 1915	IOT
+T107	PROCEDURE 1919 1959	conexión a ventilación mecánica invasiva
+T108	PROCEDURE 1961 1964	VMI
+T109	PROCEDURE 2127 2130	ECG
+T110	PROCEDURE 2227 2230	ECG
+T111	PROCEDURE 2315 2330	coronariografía
+T112	PROCEDURE 2402 2413	aortografía
+T113	PROCEDURE 2416 2432	ventriculografía
+T114	PROCEDURE 3255 3276	Auscultación cardiaca
+T115	PROCEDURE 3315 3336	Auscultación pulmonar
+T116	PROCEDURE 4188 4197	Hemograma
+T117	PROCEDURE 4315 4335	Radiografía de tórax
+T118	PROCEDURE 4413 4416	ECG
+T119	PROCEDURE 4717 4720	ECG
+T120	PROCEDURE 4893 4907	Ecocardiograma
+T121	PROCEDURE 5793 5814	Cateterismo emergente
+T122	PROCEDURE 5816 5831	coronariografía
+T123	PROCEDURE 5912 5928	Ventriculografía
+T124	PROCEDURE 6073 6084	Aortografía
+T125	PROCEDURE 6193 6209	Test de ajmalina
+T126	PROCEDURE 6534 6552	electrocardiograma
+T127	PROCEDURE 6671 6681	ergometría
+T128	PROCEDURE 6719 6735	test de ajmalina
+T129	PROCEDURE 6849 6897	implante de desfibrilador automático implantable
+T130	PROCEDURE 7651 7654	ECG
+T131	PROCEDURE 7682 7707	Holter de 12 derivaciones
+T132	PROCEDURE 9172 9187	coronariografía
+T146	PROCEDURE 3021 3039	EXPLORACIÓN FÍSICA
+T147	PROCEDURE 3734 3763	Marcadores de daño miocardico
+T148	PROCEDURE 5707 5734	Monitorización ECG continua
+T149	PROCEDURE 8244 8258	betabloqueante
+T150	PROCEDURE 3927 3937	bioquímica
+T151	PROCEDURE 2524 2539	ecocardioscopia
+T152	PROCEDURE 1224 1252	medidas higiénico-dietéticas
+T153	PROCEDURE 1765 1779	monitorización
+T154	PROCEDURE 4094 4109	perfil hepático
+T157	PROCEDURE 4268 4302	Catecolaminas en orina de 24 horas
+T158	PROCEDURE 6419 6479	determinación de catecolaminas en sangre y orina de 24 horas
+T160	PROCEDURE 9544 9559	Implante de DAI
+T177	PROCEDURE 3523 3532	Analítica
+T178	PROCEDURE 3908 3925	Analítica general
+T183	PROCEDURE 3040 3051	Exploración
+T204	PROCEDURE 7578 7589	betabloqueo
+T207	PROCEDURE 8539 8556	calcioantagonista
+T212	PROCEDURE 1824 1840	desfibrilaciones
+T33	PROCEDURE 239 268	estudiada para dicha mutación
+T166	PROCEDURE 2953 2977	cardiología monitorizada

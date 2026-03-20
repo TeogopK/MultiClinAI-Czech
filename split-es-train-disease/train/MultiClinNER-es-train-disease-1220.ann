@@ -1,0 +1,28 @@
+T17	DISEASE 322 325	HTA
+T18	DISEASE 327 329	DM
+T19	DISEASE 485 492	síncope
+T20	DISEASE 1359 1381	insuficiencia cardiaca
+T21	DISEASE 1520 1545	VI con hipertrofia severa
+T22	DISEASE 1635 1655	Obstrucción del TSVI
+T23	DISEASE 2023 2056	hipertrofia ventricular izquierda
+T24	DISEASE 2127 2166	miocardiopatía hipertrófica obstructiva
+T25	DISEASE 2238 2258	dilatación auricular
+T26	DISEASE 2261 2317	obstrucción al tracto de salida del ventrículo izquierdo
+T27	DISEASE 2437 2464	miocardiopatía hipertrófica
+T28	DISEASE 2795 2834	miocardiopatía hipertrófica obstructiva
+T29	DISEASE 2836 2843	Síncope
+T30	DISEASE 276 283	Fumador
+T31	DISEASE 74 97	alergias medicamentosas
+T32	DISEASE 501 508	síncope
+T33	DISEASE 311 318	bebedor
+T34	DISEASE 333 335	DL
+T35	DISEASE 377 395	depresión reactiva
+T36	DISEASE 1475 1500	AI moderadamente dilatada
+T37	DISEASE 1623 1633	SAM mitral
+T38	DISEASE 1694 1703	IM severa
+T39	DISEASE 1831 1839	síncopes
+T40	DISEASE 2382 2400	eventos arrítmicos
+T15	DISEASE 2490 2503	muerte súbita
+T61	DISEASE 1406 1420	crecimiento VI
+#1	AnnotatorNotes T34	 DL dislipemia
+#2	AnnotatorNotes T38	 IM insuficiencia mitral

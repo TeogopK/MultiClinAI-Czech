@@ -1,0 +1,55 @@
+T18	DISEASE 4463 4514	deterioro de función renal con componente prerrenal
+T21	DISEASE 102 123	hipertensión arterial
+T22	DISEASE 125 149	diabetes mellitus tipo 2
+T23	DISEASE 151 160	exfumador
+T24	DISEASE 162 195	Fibrilación auricular paroxística
+T25	DISEASE 248 287	Enfermedad pulmonar obstructiva crónica
+T26	DISEASE 289 293	EPOC
+T27	DISEASE 296 301	Ictus
+T28	DISEASE 332 403	Enfermedad renal crónica estadio 3a (secundaria a nefropatía diabética)
+T29	DISEASE 405 453	Trombosis venosa profunda en miembros inferiores
+T30	DISEASE 767 781	angina estable
+T31	DISEASE 1074 1081	síncope
+T32	DISEASE 1275 1283	cicatriz
+T33	DISEASE 1720 1745	trombosis venosa profunda
+T34	DISEASE 1747 1750	TVP
+T35	DISEASE 1885 1921	bloqueo rama izquierda de haz de His
+T36	DISEASE 1923 1928	BRIHH
+T37	DISEASE 2659 2667	cicatriz
+T38	DISEASE 2723 2753	enfermedad coronaria multivaso
+T39	DISEASE 2755 2803	Oclusión crónica de coronaria derecha (CD) media
+T40	DISEASE 2805 2867	Ateromatosis grave de descendente anterior (DA) proximal-media
+T41	DISEASE 2959 3040	Ateromatosis grave de arteria circunfleja (Cx) proximal - primera obtusa marginal
+T42	DISEASE 3094 3118	Trombosis aguda delstent
+T43	DISEASE 3173 3206	trombosis proximal delstent de Cx
+T44	DISEASE 3410 3464	Insuficiencia mitral isquémica de grado moderado-grave
+T45	DISEASE 3512 3518	angina
+T46	DISEASE 3521 3543	disfunción ventricular
+T47	DISEASE 3875 3902	lesión grave en DA proximal
+T48	DISEASE 3938 3960	oclusión crónica de CD
+T49	DISEASE 4107 4110	IAM
+T50	DISEASE 4256 4284	insuficiencia cardiaca aguda
+T51	DISEASE 4289 4310	edema agudo de pulmón
+T52	DISEASE 4533 4543	nefropatía
+T53	DISEASE 4605 4648	taquicardia ventricular monomorfa sostenida
+T54	DISEASE 4650 4654	TVMS
+T55	DISEASE 4697 4733	taquicardia ventricular no sostenida
+T56	DISEASE 4735 4739	TVNS
+T57	DISEASE 4845 4869	trombosis de stent de Cx
+T58	DISEASE 5117 5126	arritmias
+T59	DISEASE 5524 5545	Cardiopatía isquémica
+T60	DISEASE 5547 5564	angor de esfuerzo
+T61	DISEASE 5627 5660	Fibrilación auricular paroxística
+T62	DISEASE 5693 5730	Enfermedad coronaria de de tres vasos
+T63	DISEASE 5773 5776	IAM
+T64	DISEASE 5868 5872	TVMS
+T65	DISEASE 5894 5927	trombosis subaguda de stent de Cx
+T66	DISEASE 5929 5961	Disfunción sistólica de VI grave
+T67	DISEASE 5963 6000	Insuficiencia renal crónica agudizada
+T68	DISEASE 5836 5857	Edema agudo de pulmón
+T70	DISEASE 3904 3935	lesión moderada-grave en Cx-OM1
+T20	DISEASE 4133 4168	trombosis hiperaguda de stent de Cx
+T69	DISEASE 4315 4335	hipotensión arterial
+T133	DISEASE 5590 5625	disfunción sistólica de VI moderada
+T134	DISEASE 5799 5834	trombosis hiperaguda de stent en Cx
+#1	AnnotatorNotes T54	 taquicardia ventricular monoforma sostenida

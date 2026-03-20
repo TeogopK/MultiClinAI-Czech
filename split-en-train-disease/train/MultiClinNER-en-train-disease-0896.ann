@@ -1,0 +1,49 @@
+T17	DISEASE 125 139	drug allergies
+T18	DISEASE 144 156	toxic habits
+T19	DISEASE 158 179	Arterial hypertension
+T21	DISEASE 187 200	Dyslipidaemia
+T22	DISEASE 202 209	Obesity
+T23	DISEASE 238 255	Hepatic steatosis
+T24	DISEASE 257 285	Benign prostatic hyperplasia
+T1	DISEASE 340 406	acute ischaemic stroke in right middle cerebral arterial territory
+T25	DISEASE 570 595	bilateral inguinal hernia
+T26	DISEASE 611 620	hydrocele
+T27	DISEASE 645 669	moderate aortic stenosis
+T2	DISEASE 689 701	valvulopathy
+T44	DISEASE 1105 1107	it
+T45	DISEASE 1464 1487	arrhythmic heart sounds
+T28	DISEASE 1672 1683	peritonitis
+T3	DISEASE 2161 2163	AF
+T29	DISEASE 2558 2598	posterobasal myocardial infarction in LV
+T30	DISEASE 2600 2624	Laminar pleural effusion
+T31	DISEASE 2692 2734	Hypodense cortical lesions in both kidneys
+T4	DISEASE 2777 2793	renal infarction
+T5	DISEASE 2795 2861	Dorsolumbar spondylosis with stenosis of the L3-L4 and L4-L5 canal
+T6	DISEASE 3002 3043	severe stenosis in the right iliac artery
+T7	DISEASE 3048 3086	mild stenosis in the left iliac artery
+T8	DISEASE 3088 3128	Bilateral femoro-popliteal atheromatosis
+T9	DISEASE 3149 3197	moderate concentric left ventricular hypertrophy
+T10	DISEASE 3199 3202	LVH
+T11	DISEASE 3284 3311	Severe aortic calcification
+T33	DISEASE 3402 3422	aortic insufficiency
+T12	DISEASE 3424 3450	Mitral valve calcification
+T13	DISEASE 3461 3481	mitral regurgitation
+T14	DISEASE 3564 3592	mild tricuspid regurgitation
+T15	DISEASE 3594 3596	TR
+T34	DISEASE 3648 3671	coronary artery disease
+T16	DISEASE 3712 3752	thrombus in distal first obtuse marginal
+T35	DISEASE 4003 4041	Lower segmental contractility disorder
+T36	DISEASE 4043 4073	Calcified aortic valve disease
+T38	DISEASE 4088 4103	aortic stenosis
+T20	DISEASE 4243 4270	acute myocardial infarction
+T32	DISEASE 4272 4275	AMI
+T37	DISEASE 4308 4346	acute ischaemia of the left lower limb
+T46	DISEASE 4389 4391	AF
+T39	DISEASE 4566 4597	distal thrombus in the first OM
+T47	DISEASE 4695 4727	ischaemia of the left lower limb
+T40	DISEASE 4831 4851	myocardial ischaemia
+T41	DISEASE 4949 5013	Acute coronary syndrome with ST-segment elevation (STEACS) lower
+T48	DISEASE 5000 5006	STEACS
+T42	DISEASE 5024 5091	Peripheral arterial disease: acute ischaemia of the left lower limb
+T43	DISEASE 5093 5119	Bilateral renal infarction
+T49	DISEASE 5127 5129	AF

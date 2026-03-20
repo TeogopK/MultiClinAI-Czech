@@ -1,0 +1,55 @@
+T2	SYMPTOM 430 450	dolor centrotorácico
+T3	SYMPTOM 498 512	dolor opresivo
+T4	SYMPTOM 532 550	cortejo vegetativo
+T5	SYMPTOM 876 894	Eupneica en reposo
+T6	SYMPTOM 900 908	ortopnea
+T7	SYMPTOM 923 952	Presión venosa yugular normal
+T8	SYMPTOM 954 984	Reflejo hepatoyugular negativo
+T9	SYMPTOM 1009 1022	ritmo regular
+T10	SYMPTOM 1028 1034	soplos
+T11	SYMPTOM 1059 1088	murmullo vesicular conservado
+T13	SYMPTOM 1105 1129	Extremidades: sin edemas
+T14	SYMPTOM 1131 1174	Pulsos periféricos conservados y simétricos
+T15	SYMPTOM 1323 1357	Elevación del segmento ST en V3-V5
+T16	SYMPTOM 1359 1380	Ondas Q en DIII y aVF
+T17	SYMPTOM 1424 1441	ondas T negativas
+T19	SYMPTOM 1540 1566	pérdida de onda R en V3-V4
+T20	SYMPTOM 1568 1602	Elevación del segmento ST en V3-V5
+T21	SYMPTOM 2021 2052	RT-PCR para SARS-CoV2: negativa
+T22	SYMPTOM 2076 2111	silueta cardiomediastinica centrada
+T24	SYMPTOM 2315 2368	ventrículo izquierdo no dilatado, con acinesia septal
+T25	SYMPTOM 2388 2433	alteraciones de la contractilidad segmentaria
+T26	SYMPTOM 2439 2474	función sistólica global conservada
+T27	SYMPTOM 2476 2539	Ventrículo derecho no dilatado con función sistólica conservada
+T29	SYMPTOM 2769 2804	Función sistólica global conservada
+T31	SYMPTOM 3661 3697	cavidades cardiacas de tamaño normal
+T32	SYMPTOM 4080 4138	Arteria hepática, esplénica y mesentérica sin alteraciones
+T33	SYMPTOM 4140 4165	Arterias renales normales
+T34	SYMPTOM 5321 5373	elevación del segmento ST en derivaciones anteriores
+T35	SYMPTOM 5801 5813	asintomática
+T36	SYMPTOM 5969 6029	ondas T negativas profundas en cara anterolateral e inferior
+T37	SYMPTOM 6118 6167	dolor centrotorácico de características anginosas
+T38	SYMPTOM 6172 6224	elevación del segmento ST en derivaciones anteriores
+T39	SYMPTOM 6495 6509	dolor torácico
+T41	SYMPTOM 7606 7620	dolor torácico
+T43	SYMPTOM 7809 7843	Función sistólica de VI conservada
+T121	SYMPTOM 912 921	platipnea
+T18	SYMPTOM 1607 1622	onda T bifásica
+T23	SYMPTOM 2614 2669	Raíz aórtica y aurícula izquierda de diámetros normales
+T28	SYMPTOM 3134 3178	Arteria coronaria derecha: dominante, normal
+T30	SYMPTOM 3605 3649	Arteria coronaria derecha: dominante, normal
+T123	SYMPTOM 3699 3756	Aorta torácica ascendente y descendente de calibre normal
+T124	SYMPTOM 4214 4267	tronco coronario izquierdo de calibre y origen normal
+T125	SYMPTOM 4291 4346	Arteria descendente anterior de calibre y origen normal
+T126	SYMPTOM 4465 4511	Arteria circunfleja de calibre y origen normal
+T127	SYMPTOM 4642 4694	Arteria coronaria derecha de calibre y origen normal
+T139	SYMPTOM 2541 2570	Presiones de llenado normales
+T147	SYMPTOM 628 657	clínica anginosa o infecciosa
+T148	SYMPTOM 2209 2221	condensación
+T164	SYMPTOM 4611 4640	signos de afectación vascular
+T165	SYMPTOM 4815 4844	signos de afectación vascular
+T130	SYMPTOM 2154 2184	Campos pulmonares translúcidos
+T62	SYMPTOM 2861 2875	Tronco: normal
+T89	SYMPTOM 3233 3247	Tronco: normal
+T131	SYMPTOM 3782 3842	Aorta abdominal de calibre en límites altos de la normalidad
+T99	SYMPTOM 4548 4584	rama obtusa marginal de buen calibre

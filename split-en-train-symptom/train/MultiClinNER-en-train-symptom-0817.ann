@@ -1,0 +1,33 @@
+T1	SYMPTOM 350 373	precordial pain at rest
+T14	SYMPTOM 518 539	Jugular ingurgitation
+T2	SYMPTOM 552 572	inspiratory collapse
+T3	SYMPTOM 574 595	Rhythmic heart sounds
+T4	SYMPTOM 600 607	murmurs
+T11	SYMPTOM 609 638	Regular ventilatory mechanics
+T5	SYMPTOM 657 667	tachypnoea
+T21	SYMPTOM 672 696	use of accessory muscles
+T6	SYMPTOM 698 725	generalised hypoventilation
+T17	SYMPTOM 730 757	regular bilateral air entry
+T18	SYMPTOM 764 788	intolerance to decubitus
+T7	SYMPTOM 790 815	Good peripheral perfusion
+T8	SYMPTOM 821 848	positive symmetrical pulses
+T9	SYMPTOM 850 876	Bilateral malleolar oedema
+T15	SYMPTOM 976 1048	ST-segment depression less than 1 mm in DII, DIII, aVF and from V3 to V6
+T22	SYMPTOM 1050 1078	Initial Q wave in DI and aVL
+T10	SYMPTOM 1084 1096	ST elevation
+T19	SYMPTOM 1216 1246	renal function and ions normal
+T23	SYMPTOM 1353 1393	Cardiac catheterisation: right dominance
+T24	SYMPTOM 1395 1432	Right coronary artery without lesions
+T20	SYMPTOM 1566 1597	left ventricle (LV) not dilated
+T25	SYMPTOM 1758 1786	left paracardiac radiopacity
+T26	SYMPTOM 1903 1949	saccular image on the lateral aspect of the LV
+T16	SYMPTOM 2025 2042	sinus tachycardia
+T27	SYMPTOM 2107 2124	positive troponin
+T28	SYMPTOM 2129 2198	emergency coronary angiography was performed, showing patent arteries
+T29	SYMPTOM 2207 2278	-significant lesions in the anterior descending and circumflex arteries
+T12	SYMPTOM 2395 2410	precordial pain
+T30	SYMPTOM 2509 2528	negative biomarkers
+T31	SYMPTOM 2752 2776	left cardiac radiopacity
+T32	SYMPTOM 2844 2934	large saccular formation measuring 59 x 68 x 75 mm depending on the lateral wall of the LV
+T33	SYMPTOM 3591 3616	good ventricular function
+T13	SYMPTOM 3692 3712	ST-segment elevation

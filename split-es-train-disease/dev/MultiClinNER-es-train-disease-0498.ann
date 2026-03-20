@@ -1,0 +1,20 @@
+T6	DISEASE 1074 1100	LH tipo esclerosis nodular
+T18	DISEASE 1728 1751	adenopatías periféricas
+T20	DISEASE 786 820	adenopatías bilaterales inguinales
+T25	DISEASE 1884 1922	esclerosis de la pala ilíaca izquierda
+T28	DISEASE 362 389	osteomielitis del trocánter
+T29	DISEASE 1981 1983	LH
+T33	DISEASE 1449 1488	fibrosis asociada a infiltración por LH
+T34	DISEASE 442 476	lesión lítica en la cabeza femoral
+T37	DISEASE 1506 1539	adenopatías en la axila izquierda
+T38	DISEASE 1506 1558	adenopatías en la axila izquierda, supraclaviculares
+T39	DISEASE 1506 1570	adenopatías en la axila izquierda, supraclaviculares, mediastino
+T40	DISEASE 1506 1586	adenopatías en la axila izquierda, supraclaviculares, mediastino, retroperitoneo
+T41	DISEASE 1506 1594	adenopatías en la axila izquierda, supraclaviculares, mediastino, retroperitoneo, pelvis
+T42	DISEASE 1506 1603	adenopatías en la axila izquierda, supraclaviculares, mediastino, retroperitoneo, pelvis e ingles
+T48	DISEASE 567 601	afectación linfoproliferativa ósea
+T49	DISEASE 636 638	LH
+T1	DISEASE 724 783	masa adenopática de 7 cms de diámetro en la axila izquierda
+#3	AnnotatorNotes T29	  LH: linfoma de Hodgkin
+#2	AnnotatorNotes T33	  LH: linfoma de Hodgkin
+#1	AnnotatorNotes T49	  LH: linfoma de Hodgkin

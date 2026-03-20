@@ -1,0 +1,48 @@
+T45	DISEASE 77 91	drug allergies
+T46	DISEASE 96 98	DM
+T72	DISEASE 100 103	DLP
+T1	DISEASE 107 110	AHT
+T71	DISEASE 119 125	smoker
+T47	DISEASE 127 144	Chronic gastritis
+T80	DISEASE 222 235	died suddenly
+T2	DISEASE 287 290	AMI
+T48	DISEASE 323 337	Chagas disease
+T3	DISEASE 942 977	regular tachycardia with a wide QRS
+T4	DISEASE 1117 1131	1st degree BAV
+T53	DISEASE 1302 1309	anxiety
+T54	DISEASE 1899 1912	heart failure
+T55	DISEASE 2032 2057	mild mitral insufficiency
+T6	DISEASE 2208 2241	regular tachycardia with wide QRS
+T7	DISEASE 2271 2337	ventricular tachycardia of basal and upper left ventricular origin
+T8	DISEASE 2350 2354	SMVT
+T78	DISEASE 2393 2405	sudden death
+T10	DISEASE 2641 2673	egular tachycardia with wide QRS
+T75	DISEASE 2702 2736	complete right bundle branch block
+T11	DISEASE 2856 2931	ventricular tachycardia of basal anterolateral origin of the left ventricle
+T12	DISEASE 2986 3000	BAV 1st degree
+T56	DISEASE 3486 3502	pleural effusion
+T57	DISEASE 3522 3600	non-dilated left ventricle with moderate to severe hypertrophy at septal level
+T14	DISEASE 3899 3919	mitral regurgitation
+T59	DISEASE 3979 4004	mild aortic insufficiency
+T60	DISEASE 4006 4034	Mild tricuspid regurgitation
+T61	DISEASE 4056 4076	pericardial effusion
+T15	DISEASE 4152 4255	aneurysm in the region of the basal inferior-septal, basal inferior and basal lateral-inferior segments
+T76	DISEASE 4290 4323	mild left ventricular dysfunction
+T62	DISEASE 4606 4649	posterobasal aneurysm of the left ventricle
+T16	DISEASE 4635 4677	left ventricle and a small apical aneurysm
+T79	DISEASE 4765 4791	ventricular pre-excitation
+T17	DISEASE 4795 4816	double nodal pathway.
+T63	DISEASE 5084 5109	ventricular extrasystoles
+T74	DISEASE 5548 5552	TVMS
+T77	DISEASE 5682 5702	wide QRS tachycardia
+T64	DISEASE 5947 5971	structural heart disease
+T66	DISEASE 5997 6018	posterobasal aneurysm
+T68	DISEASE 6029 6044	apical aneurysm
+T49	DISEASE 6118 6132	Chagas disease
+T50	DISEASE 6293 6307	Chagas disease
+T69	DISEASE 6448 6473	gastro-oesophageal reflux
+T20	DISEASE 6665 6669	SMVT
+T21	DISEASE 6683 6685	VT
+T51	DISEASE 6908 6922	Chagas disease
+T23	DISEASE 7189 7234	sustained monomorphic ventricular tachycardia
+T70	DISEASE 7257 7293	cardiomyopathy due to Chagas disease

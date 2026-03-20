@@ -1,0 +1,36 @@
+T1	SYMPTOM 90 96	fiebre
+T2	SYMPTOM 133 145	polimialgias
+T3	SYMPTOM 147 162	osteoartralgias
+T4	SYMPTOM 164 178	dolor cervical
+T5	SYMPTOM 181 188	cefalea
+T6	SYMPTOM 266 272	Fiebre
+T7	SYMPTOM 503 509	fiebre
+T8	SYMPTOM 546 558	polimialgias
+T9	SYMPTOM 560 575	osteoartralgias
+T10	SYMPTOM 577 591	dolor cervical
+T11	SYMPTOM 594 601	cefalea
+T12	SYMPTOM 624 634	Consciente
+T13	SYMPTOM 636 652	alerta orientado
+T14	SYMPTOM 707 731	frialdad en extremidades
+T15	SYMPTOM 737 767	Ruidos cardiacos taquicardicos
+T17	SYMPTOM 797 803	soplos
+T18	SYMPTOM 809 840	Ruidos pulmonares sin agregados
+T19	SYMPTOM 842 868	Abdomen: Blando depresible
+T20	SYMPTOM 873 878	masas
+T21	SYMPTOM 882 890	megalias
+T22	SYMPTOM 895 916	irritación peritoneal
+T23	SYMPTOM 933 987	Artralgias en todas las articulaciones de extremidades
+T24	SYMPTOM 1003 1014	inflamación
+T27	SYMPTOM 1340 1359	Rx de tórax: Normal
+T28	SYMPTOM 1363 1390	Ecografía abdominal: Normal
+T29	SYMPTOM 1394 1414	TAC cerebral: Normal
+T31	SYMPTOM 1514 1525	oligoanuria
+T34	SYMPTOM 3075 3082	fallece
+T87	SYMPTOM 681 702	Mala perfusión distal
+T16	SYMPTOM 1296 1307	Bacteriuria
+T25	SYMPTOM 2443 2531	crecimiento de Staphylococcus aureus sensible a ampicilina y vancomicina en hemocultivos
+T95	SYMPTOM 3029 3053	estabilidad hemodinámica
+T102	SYMPTOM 1049 1065	signos meníngeos
+T32	SYMPTOM 1289 1320	orina: Bacteriuria y leucocitos
+T33	SYMPTOM 2234 2271	imagen vegetante sobre velo posterior
+T53	SYMPTOM 2662 2789	afectación endocárdica en el velo mural que también afecta a la pared ventricular izquierda, anillo y pared de aurícula derecha

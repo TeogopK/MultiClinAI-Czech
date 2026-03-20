@@ -1,0 +1,42 @@
+T1	SYMPTOM 589 602	palpitaciones
+T2	SYMPTOM 855 868	ritmo sinusal
+T4	SYMPTOM 1198 1213	descenso del ST
+T5	SYMPTOM 2045 2067	pérdida de consciencia
+T6	SYMPTOM 2128 2136	ronquido
+T7	SYMPTOM 2138 2153	eversión ocular
+T8	SYMPTOM 2156 2170	espasmo tónico
+T9	SYMPTOM 2250 2269	opresión precordial
+T10	SYMPTOM 2441 2460	opresión precordial
+T11	SYMPTOM 2470 2483	palpitaciones
+T12	SYMPTOM 2587 2616	disnea de moderados esfuerzos
+T13	SYMPTOM 2706 2725	Buen estado general
+T14	SYMPTOM 2727 2737	Consciente
+T15	SYMPTOM 2740 2749	orientada
+T16	SYMPTOM 2751 2759	eupneica
+T17	SYMPTOM 2761 2776	bien perfundida
+T18	SYMPTOM 2778 2808	Auscultación cardiaca: rítmica
+T19	SYMPTOM 2814 2830	soplos en reposo
+T20	SYMPTOM 2884 2913	murmullo vesicular conservado
+T21	SYMPTOM 2918 2938	ruidos sobreañadidos
+T22	SYMPTOM 2940 2970	Miembros inferiores: no edemas
+T23	SYMPTOM 3011 3040	pulsos presentes y simétricos
+T24	SYMPTOM 3108 3117	PR normal
+T25	SYMPTOM 3119 3131	QRS estrecho
+T26	SYMPTOM 3148 3163	onda T bifásica
+T27	SYMPTOM 3622 3659	ventrículo izquierdo de tamaño normal
+T28	SYMPTOM 3856 3891	Función sistólica global conservada
+T30	SYMPTOM 4074 4089	FEVD conservada
+T32	SYMPTOM 4639 4663	arco aórtico no dilatado
+T33	SYMPTOM 5032 5059	QRS estrecho con eje normal
+T34	SYMPTOM 5061 5097	onda T bifásica en III, aVF, V4 y V5
+T36	SYMPTOM 293 301	QT largo
+T112	SYMPTOM 3896 3942	alteraciones segmentarias de la contractilidad
+T29	SYMPTOM 4480 4510	Vena cava inferior no dilatada
+T31	SYMPTOM 4546 4575	Raíz aórtica de tamaño normal
+T145	SYMPTOM 4879 4915	parénquima pulmonar sin alteraciones
+T153	SYMPTOM 4832 4877	índice cardiotorácico dentro de la normalidad
+T3	SYMPTOM 3136 3146	eje normal
+T70	SYMPTOM 3735 3772	aceleración en tracto de salida de VI
+T114	SYMPTOM 4175 4178	SAM
+T117	SYMPTOM 4976 5021	actividad auricular estimulada por marcapasos
+T120	SYMPTOM 6350 6378	respuesta ventricular rápida

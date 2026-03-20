@@ -1,0 +1,70 @@
+T1	SYMPTOM 540 550	orthopnoea
+T2	SYMPTOM 567 596	paroxysmal nocturnal dyspnoea
+T3	SYMPTOM 690 699	courtship
+T4	SYMPTOM 723 730	syncope
+T6	SYMPTOM 732 744	palpitations
+T7	SYMPTOM 994 1003	Conscious
+T8	SYMPTOM 1005 1013	oriented
+T9	SYMPTOM 1042 1055	Normohydrated
+T10	SYMPTOM 1091 1126	increase in central venous pressure
+T11	SYMPTOM 1326 1346	respiratory distress
+T12	SYMPTOM 1370 1378	rhythmic
+T13	SYMPTOM 1380 1419	left parasternal diastolic murmur IV/VI
+T14	SYMPTOM 1453 1473	painful on palpation
+T15	SYMPTOM 1478 1484	masses
+T16	SYMPTOM 1488 1497	megaliths
+T17	SYMPTOM 1508 1545	Murphy, Blumberg and Rovsing negative
+T18	SYMPTOM 1559 1580	peritoneal irritation
+T19	SYMPTOM 1582 1634	Upper limbs: distal pulses preserved and symmetrical
+T20	SYMPTOM 1636 1664	Lower limbs: distal coldness
+T21	SYMPTOM 1669 1675	oedema
+T22	SYMPTOM 2155 2167	sinus rhythm
+T23	SYMPTOM 2179 2188	normal PR
+T24	SYMPTOM 2190 2201	normal axis
+T25	SYMPTOM 2705 2727	normal thyroid profile
+T26	SYMPTOM 2873 2891	Global hypokinesia
+T27	SYMPTOM 2960 2981	Normal mitral filling
+T28	SYMPTOM 3820 3847	Non-dilated right ventricle
+T29	SYMPTOM 5587 5614	Non-dilated right ventricle
+T30	SYMPTOM 3879 3896	Non-dilated atria
+T31	SYMPTOM 4781 4825	Abdominal study without significant findings
+T32	SYMPTOM 5482 5518	Severely depressed systolic function
+T33	SYMPTOM 5962 6024	Morphologically normal descending thoracic and abdominal aorta
+T34	SYMPTOM 6051 6095	Mitral valve with elongated anterior leaflet
+T35	SYMPTOM 6575 6613	Moderately depressed systolic function
+T36	SYMPTOM 6661 6687	Basal inferior hypokinesia
+T37	SYMPTOM 6744 6768	normal systolic function
+T38	SYMPTOM 7506 7529	haemodynamically stable
+T39	SYMPTOM 8107 8123	long upper limbs
+T40	SYMPTOM 8125 8137	joint laxity
+T41	SYMPTOM 1421 1447	Abdomen: soft, depressible
+T42	SYMPTOM 3853 3877	normal ejection fraction
+T43	SYMPTOM 7840 7916	aortic arch, descending thoracic aorta and abdominal aorta of normal calibre
+T44	SYMPTOM 9859 9886	pathogenic mutation in FBN1
+T45	SYMPTOM 414 433	exertional dyspnoea
+T46	SYMPTOM 598 601	PND
+T47	SYMPTOM 618 645	prick-like chest discomfort
+T5	SYMPTOM 650 675	self-limited palpitations
+T48	SYMPTOM 956 992	Impression of good general condition
+T49	SYMPTOM 1057 1070	normoperfused
+T50	SYMPTOM 1072 1086	normo coloured
+T51	SYMPTOM 1296 1313	work of breathing
+T52	SYMPTOM 1717 1761	Pedial pulses were preserved and symmetrical
+T53	SYMPTOM 2295 2324	asymmetrical negative T waves
+T54	SYMPTOM 2613 2638	Autoimmunity was negative
+T55	SYMPTOM 3613 3674	Distal ascending, arch and descending aorta of normal calibre
+T56	SYMPTOM 3715 3767	Mitral valve with ballooning of the anterior leaflet
+T57	SYMPTOM 4027 4052	asymmetry of the leaflets
+T58	SYMPTOM 5257 5287	Biomicroscopy AO cornea normal
+T59	SYMPTOM 5289 5311	crystalline lens clear
+T60	SYMPTOM 5455 5480	Global severe hypokinesia
+T61	SYMPTOM 5551 5585	Restrictive mitral filling pattern
+T62	SYMPTOM 6097 6115	preserved mobility
+T63	SYMPTOM 6159 6195	Tricuspid valve of normal appearance
+T64	SYMPTOM 6637 6659	Abnormal septal motion
+T65	SYMPTOM 6689 6708	Impaired relaxation
+T66	SYMPTOM 6710 6742	Right ventricle (RV) not dilated
+T67	SYMPTOM 7008 7047	Mitral valve elongated anterior leaflet
+T68	SYMPTOM 7194 7228	Normal pulmonary acceleration time
+T69	SYMPTOM 7264 7294	Inferior vena cava not dilated
+T70	SYMPTOM 9728 9731	ACE

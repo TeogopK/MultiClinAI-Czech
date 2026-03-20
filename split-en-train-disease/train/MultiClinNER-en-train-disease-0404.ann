@@ -1,0 +1,57 @@
+T14	DISEASE 95 116	arterial hypertension
+T34	DISEASE 462 479	venous thrombosis
+T36	DISEASE 481 505	Para-aortic adenopathies
+T69	DISEASE 562 574	renal tumour
+T70	DISEASE 674 708	iron-deficiency microcytic anaemia
+T18	DISEASE 713 727	hyperuricaemia
+T40	DISEASE 1187 1203	bone involvement
+T2	DISEASE 1344 1396	renal cell carcinoma with retroperitoneal adenopathy
+T3	DISEASE 1370 1396	retroperitoneal adenopathy
+T4	DISEASE 1659 1699	infiltration of the transverse mesocolon
+T25	DISEASE 1659 1724	infiltration of the transverse mesocolon and tail of the pancreas
+T35	DISEASE 1835 1857	Collision renal tumour
+T37	DISEASE 1859 1873	Leiomyosarcoma
+T15	DISEASE 1891 1921	renal carcinoma papillary type
+T42	DISEASE 2124 2143	tumour infiltration
+T43	DISEASE 2209 2228	tumour infiltration
+T44	DISEASE 2493 2541	para-aortic chain, 16 adenopathies were isolated
+T82	DISEASE 2578 2588	metastases
+T49	DISEASE 2616 2625	carcinoma
+T83	DISEASE 2637 2673	mixed metastases (sarcoma+carcinoma)
+T45	DISEASE 2655 2662	sarcoma
+T50	DISEASE 2663 2672	carcinoma
+T5	DISEASE 2679 2691	adenopathies
+T51	DISEASE 2786 2806	carcinoma metastases
+T38	DISEASE 2845 2859	leiomyosarcoma
+T57	DISEASE 2868 2926	perisuprarenal adipose tissue 4 adenopathies were isolated
+T21	DISEASE 2943 2970	metastasis of the carcinoma
+T22	DISEASE 2988 3024	mixed metastasis (carcinoma+sarcoma)
+T53	DISEASE 3006 3015	carcinoma
+T46	DISEASE 3016 3023	sarcoma
+T1	DISEASE 3148 3170	renal collision tumour
+T6	DISEASE 3196 3223	papillary type renal cancer
+T19	DISEASE 3286 3306	renal leiomyosarcoma
+T24	DISEASE 3396 3411	bone metastases
+T61	DISEASE 3725 3760	sarcomatous component of the tumour
+T32	DISEASE 4382 4412	bilateral pulmonary metastases
+T59	DISEASE 4465 4507	bilateral millimetric pulmonary metastases
+T99	DISEASE 4550 4560	metastases
+T23	DISEASE 4686 4768	metastasis of poorly differentiated carcinoma with an epithelial component (renal)
+T16	DISEASE 5008 5023	renal carcinoma
+T20	DISEASE 5352 5377	pulmonary thromboembolism
+T26	DISEASE 5574 5581	anaemia
+T60	DISEASE 5648 5668	pulmonary metastases
+T106	DISEASE 5692 5719	liver and spleen metastases
+T27	DISEASE 6033 6040	anaemia
+T63	DISEASE 6053 6059	emesis
+T109	DISEASE 6342 6352	metastases
+T12	DISEASE 6636 6642	tumour
+T17	DISEASE 6705 6720	renal carcinoma
+T62	DISEASE 6808 6843	sarcomatous component of the tumour
+T29	DISEASE 6970 6987	hypovolemic shock
+T30	DISEASE 6993 7011	metabolic acidosis
+T31	DISEASE 7016 7064	pre-renal renal failure secondary to hyperemesis
+T7	DISEASE 7053 7064	hyperemesis
+T28	DISEASE 7098 7110	anaemization
+T8	DISEASE 7184 7199	faecal vomiting
+T41	DISEASE 7352 7371	multi-organ failure

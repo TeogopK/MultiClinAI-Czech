@@ -1,0 +1,31 @@
+T21	DISEASE 78 92	drug allergies
+T22	DISEASE 97 109	toxic habits
+T23	DISEASE 366 394	supraventricular tachycardia
+T1	DISEASE 396 399	SVT
+T27	DISEASE 561 600	paroxysmal supraventricular tachycardia
+T4	DISEASE 921 924	SVT
+T7	DISEASE 1492 1509	non-sustained SVT
+T44	DISEASE 1550 1574	tachyarrhythmic episodes
+T10	DISEASE 1812 1844	dilatation of the right chambers
+T45	DISEASE 2379 2393	pre-excitation
+T12	DISEASE 2738 2743	block
+T28	DISEASE 2765 2807	non-sustained supraventricular tachycardia
+T29	DISEASE 2814 2842	right ventricular dilatation
+T14	DISEASE 2943 2982	Mild functional tricuspid regurgitation
+T30	DISEASE 3139 3153	valvulopathies
+T31	DISEASE 3326 3354	intra- or extracardiac shunt
+T34	DISEASE 3500 3510	Dilated RV
+T37	DISEASE 3555 3669	left-right shunt due to anomalous venous drainage from the right superior pulmonary vein to the superior vena cava
+T18	DISEASE 3710 3721	RV: dilated
+T36	DISEASE 3928 4018	Anomalous venous drainage from the right superior pulmonary vein to the superior vena cava
+T19	DISEASE 4020 4053	LA: area 21 cm2, slightly dilated
+T20	DISEASE 4055 4091	RA: area of 29 cm2, slightly dilated
+T32	DISEASE 4550 4649	focal atrial tachycardia, with greater precocities at the level of the superior vena cava to the RA
+T35	DISEASE 4777 4910	anomalous pulmonary venous connection (APVC) was found due to drainage of the right superior pulmonary vein to the superior vena cava
+T71	DISEASE 4816 4820	APVC
+T74	DISEASE 5015 5034	left-right conshunt
+T26	DISEASE 5121 5149	supraventricular tachycardia
+T38	DISEASE 5518 5534	left-right shunt
+T42	DISEASE 6240 6344	Anomalous pulmonary venous connection: drainage from right superior pulmonary vein to superior vena cava
+T43	DISEASE 6346 6413	Significant left-right shunt with right ventricular volume overload
+T33	DISEASE 6444 6468	Focal atrial tachycardia

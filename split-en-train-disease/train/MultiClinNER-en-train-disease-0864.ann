@@ -1,0 +1,29 @@
+T25	DISEASE 220 267	type 2 diabetes mellitus, non-insulin-dependent
+T26	DISEASE 356 377	arterial hypertension
+T1	DISEASE 502 584	peripheral vascular disease, with stenosis in the right superficial femoral artery
+T28	DISEASE 1181 1198	exertional angina
+T29	DISEASE 1716 1725	phlebitis
+T3	DISEASE 1821 1871	subepicardial lesion current in the inferior face,
+T30	DISEASE 2225 2241	pleural effusion
+T4	DISEASE 2395 2445	Anterior descending artery (AD) with severe lesion
+T5	DISEASE 2476 2502	Circumflex with 40% lesion
+T6	DISEASE 2522 2549	Right coronary artery (RCA)
+T9	DISEASE 2733 2742	DC lesion
+T12	DISEASE 2947 2985	mild left ventricular (LV) hypertrophy
+T13	DISEASE 3144 3166	valvular heart disease
+T31	DISEASE 3311 3334	tricuspid insufficiency
+T14	DISEASE 3336 3338	TI
+T34	DISEASE 3450 3470	pericardial effusion
+T40	DISEASE 3931 3948	Myocardial damage
+T22	DISEASE 4687 4697	infarction
+T23	DISEASE 4755 4872	three-vessel disease, with two severe lesions (in the MD and DCM) and a moderate lesion in the distal circumflex (DC)
+T32	DISEASE 4982 4992	infarction
+T41	DISEASE 5237 5254	arrhythmic events
+T35	DISEASE 5809 5863	severe lesion of the middle anterior descending artery
+T33	DISEASE 6035 6109	Acute myocardial infarction with ST-segment elevation of inferior location
+T56	DISEASE 6121 6198	Three-vessel coronary artery disease: Mid CD (ARI) 90%, mid DA 90%, distal Cx
+T66	DISEASE 6296 6317	severe mid LAD lesion
+T36	DISEASE 6319 6352	Mild left ventricular dysfunction
+T37	DISEASE 6365 6392	Peripheral arterial disease
+T39	DISEASE 6394 6418	Type 2 diabetes mellitus
+T27	DISEASE 6491 6512	Arterial hypertension

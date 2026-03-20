@@ -1,0 +1,8 @@
+T1	PROCEDURE 380 400	Physical examination
+T2	PROCEDURE 473 525	palpation in the epigastrium and right hypochondrium
+T5	PROCEDURE 490 541	epigastrium and right hypochondrium, with palpation
+T6	PROCEDURE 688 704	Laboratory tests
+T7	PROCEDURE 765 826	Ultrasonography revealed the presence of a large hepatic mass
+T3	PROCEDURE 894 897	MRI
+T8	PROCEDURE 960 974	viral serology
+T9	PROCEDURE 1129 1161	Symptomatic palliative treatment

@@ -1,0 +1,19 @@
+T1	SYMPTOM 708 714	fiebre
+T2	SYMPTOM 762 777	pérdida apetito
+T3	SYMPTOM 914 937	masa en reteroperitoneo
+T4	SYMPTOM 1021 1094	dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral
+T5	SYMPTOM 1121 1127	fiebre
+T6	SYMPTOM 1181 1212	sucusión renal derecha positiva
+T7	SYMPTOM 1220 1233	ritmo sinusal
+T8	SYMPTOM 1099 1106	náuseas
+T9	SYMPTOM 685 703	sensación nauseosa
+T10	SYMPTOM 1110 1117	vómitos
+T11	SYMPTOM 731 749	síndrome miccional
+T12	SYMPTOM 1247 1296	radiografía de tórax sin alteraciones patológicas
+T13	SYMPTOM 1616 1696	retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa
+T14	SYMPTOM 458 525	dolor en flanco derecho con irradiación hacia testículo ipsilateral
+T15	SYMPTOM 2957 2975	nódulo hiperecoico
+T16	SYMPTOM 2111 2131	masa retroperitoneal
+A1	IMAGEN T12
+A2	IMAGEN T13
+A3	IMAGEN T15

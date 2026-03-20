@@ -1,0 +1,30 @@
+T18	DISEASE 97 111	drug allergies
+T19	DISEASE 149 161	hypertension
+T20	DISEASE 168 185	diabetes mellitus
+T21	DISEASE 240 253	dyslipidaemia
+T22	DISEASE 280 295	Rheumatic fever
+T23	DISEASE 310 346	Rheumatic mitro-aortic valve disease
+T24	DISEASE 405 427	severe mitral stenosis
+T25	DISEASE 529 545	valve thrombosis
+T26	DISEASE 631 661	mitral prosthetic degeneration
+T27	DISEASE 666 690	moderate aortic stenosis
+T28	DISEASE 791 804	heart failure
+T30	DISEASE 903 922	Atrial fibrillation
+T39	DISEASE 1087 1109	Chronic kidney disease
+T33	DISEASE 1087 1131	Chronic kidney disease of diabetic aetiology
+T47	DISEASE 1259 1263	SAHS
+T34	DISEASE 1376 1394	prostate carcinoma
+T31	DISEASE 3138 3157	atrial fibrillation
+T46	DISEASE 3240 3252	cardiomegaly
+T35	DISEASE 3279 3305	Bilateral pleural effusion
+T43	DISEASE 3742 3744	IT
+T36	DISEASE 3940 3960	pericardial effusion
+T44	DISEASE 4522 4524	it
+T37	DISEASE 5093 5113	protein malnutrition
+T38	DISEASE 5371 5393	acute pulmonary oedema
+T45	DISEASE 5950 5952	it
+T42	DISEASE 6676 6707	Decompensation of heart failure
+T29	DISEASE 6694 6707	heart failure
+T32	DISEASE 6828 6847	Atrial fibrillation
+T40	DISEASE 6924 6946	chronic kidney disease
+T41	DISEASE 7019 7047	Diuretic resistance syndrome

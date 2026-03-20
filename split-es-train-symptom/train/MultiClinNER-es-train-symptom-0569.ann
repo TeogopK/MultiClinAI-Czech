@@ -1,0 +1,15 @@
+T1	SYMPTOM 54 61	cefalea
+T2	SYMPTOM 107 132	inestabilidad a la marcha
+T3	SYMPTOM 827 951	masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2. Se realzaba con el Gadolinio
+T4	SYMPTOM 1201 1213	asintomática
+T5	SYMPTOM 1964 1976	asintomática
+T6	SYMPTOM 276 293	dismetría derecha
+T7	SYMPTOM 300 328	maniobra de Romberg positiva
+T8	SYMPTOM 1055 1065	tumoración
+T9	SYMPTOM 1276 1286	tumoración
+T10	SYMPTOM 421 474	proceso expansivo que ocupaba hemifosa posterior dcha
+T11	SYMPTOM 773 820	edema, localizada en hemisferio cerebeloso dcho
+A1	IMAGEN T3
+A2	IMAGEN T9
+A3	IMAGEN T10
+A4	IMAGEN T11

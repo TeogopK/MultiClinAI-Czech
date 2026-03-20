@@ -1,0 +1,38 @@
+T2	PROCEDURE 76 93	caesarean section
+T6	PROCEDURE 280 290	Ultrasound
+T28	PROCEDURE 300 358	abdominal-pelvic computerised axial tomography (CAT) scans
+T9	PROCEDURE 348 351	CAT
+T17	PROCEDURE 605 620	extension study
+T32	PROCEDURE 644 661	general lab tests
+T7	PROCEDURE 739 750	chest X-ray
+T4	PROCEDURE 754 763	bone scan
+T10	PROCEDURE 1248 1261	abdominal MRI
+T37	PROCEDURE 1302 1309	CT scan
+T39	PROCEDURE 1421 1445	radical left nephrectomy
+T40	PROCEDURE 1447 1617	removal of all the pararenal fat and the left adrenal gland and para-aortic and interaortocaval lymphadenectomy from the renal artery to 3 cm from the common iliac artery
+T21	PROCEDURE 1619 1638	Removal of the mass
+T20	PROCEDURE 1785 1805	anatomo-pathological
+T12	PROCEDURE 1807 1811	A.P.
+T19	PROCEDURE 2092 2107	microscopically
+T50	PROCEDURE 2185 2190	renal
+T16	PROCEDURE 2235 2259	immunophenotypic profile
+T25	PROCEDURE 2494 2542	para-aortic chain, 16 adenopathies were isolated
+T52	PROCEDURE 2676 2735	Six adenopathies were isolated in the interaortocaval chain
+T22	PROCEDURE 3360 3378	radically resected
+T58	PROCEDURE 3426 3443	bone scintigraphy
+T59	PROCEDURE 3576 3612	complementary chemotherapy treatment
+T60	PROCEDURE 3765 3772	CT scan
+T23	PROCEDURE 4020 4027	surgery
+T63	PROCEDURE 4116 4134	abdominal CAT scan
+T5	PROCEDURE 4203 4212	bone scan
+T8	PROCEDURE 4328 4339	chest X-ray
+T11	PROCEDURE 4626 4662	left videothoracoscopy with biopsies
+T13	PROCEDURE 4833 4845	chemotherapy
+T14	PROCEDURE 4913 4925	chemotherapy
+T75	PROCEDURE 5612 5624	body CT scan
+T77	PROCEDURE 6171 6178	CT scan
+T79	PROCEDURE 6319 6326	CT scan
+T18	PROCEDURE 6488 6508	physical examination
+T15	PROCEDURE 6660 6672	chemotherapy
+T1	PROCEDURE 6676 6689	immunotherapy
+T3	PROCEDURE 6750 6796	palliative treatment with liposomal Adriamycin

@@ -1,0 +1,28 @@
+T1	DISEASE 95 107	hypertension
+T49	DISEASE 109 122	dyslipidaemia
+T50	DISEASE 124 131	obesity
+T51	DISEASE 136 145	ex-smoker
+T52	DISEASE 646 670	cardiorespiratory arrest
+T2	DISEASE 674 676	VF
+T55	DISEASE 837 862	respiratory insufficiency
+T70	DISEASE 984 1001	complete AV block
+T71	DISEASE 3820 3836	AV block grade I
+T56	DISEASE 4163 4177	hyperglycaemia
+T57	DISEASE 4208 4226	hyperphosphataemia
+T58	DISEASE 4228 4243	hypomagnesaemia
+T59	DISEASE 4245 4263	metabolic acidosis
+T61	DISEASE 4279 4304	organophosphate poisoning
+T53	DISEASE 4328 4352	cardiorespiratory arrest
+T60	DISEASE 4594 4612	metabolic acidosis
+T63	DISEASE 4731 4745	hepatotoxicity
+T64	DISEASE 4750 4789	systemic inflammatory response syndrome
+T72	DISEASE 4982 4998	AV block grade I
+T65	DISEASE 5327 5356	respiratory distress syndrome
+T54	DISEASE 5447 5471	Cardiorespiratory arrest
+T74	DISEASE 5485 5509	ventricular fibrillation
+T62	DISEASE 5568 5593	organophosphate poisoning
+T73	DISEASE 5595 5618	Acute coronary syndrome
+T67	DISEASE 5736 5755	Acute renal failure
+T68	DISEASE 5800 5815	Acute hepatitis
+T69	DISEASE 5858 5893	Adult respiratory distress syndrome
+T7	DISEASE 5895 5936	Septic shock due to Pseudomona aeruginosa

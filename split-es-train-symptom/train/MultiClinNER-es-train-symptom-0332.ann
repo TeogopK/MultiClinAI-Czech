@@ -1,0 +1,13 @@
+T1	SYMPTOM 771 796	ritmo sinusal preexcitado
+T2	SYMPTOM 1447 1460	ritmo sinusal
+T3	SYMPTOM 2017 2031	patrón sinusal
+T4	SYMPTOM 945 969	preexcitación permanente
+T5	SYMPTOM 251 334	episodios de palpitaciones, cortos y autolimitados, durante el reposo y el esfuerzo
+T6	SYMPTOM 616 628	asintomático
+T7	SYMPTOM 370 437	intervalo entre ondas P y R (intervalo PR) muy corto con onda delta
+T8	SYMPTOM 637 647	ECG normal
+T9	SYMPTOM 1623 1634	taquicardia
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T7
+A4	RESULTADO T8

@@ -1,0 +1,46 @@
+T96	PROCEDURE 1084 1100	cirugía vascular
+T97	PROCEDURE 1113 1121	angio-TC
+T98	PROCEDURE 1579 1593	ecocardiograma
+T99	PROCEDURE 1870 1905	revascularización con sonda Fogarty
+T100	PROCEDURE 2092 2107	coronariografía
+T101	PROCEDURE 2298 2333	anticoagulación con heparina sódica
+T102	PROCEDURE 2336 2354	EXPLORACIÓN FÍSICA
+T103	PROCEDURE 2677 2698	Auscultación cardiaca
+T104	PROCEDURE 2787 2808	Auscultación pulmonar
+T105	PROCEDURE 3004 3013	palpación
+T106	PROCEDURE 3261 3264	ECG
+T107	PROCEDURE 3400 3439	Angio-TC de tórax y miembros superiores
+T108	PROCEDURE 3710 3738	Ecocardiograma transtorácico
+T109	PROCEDURE 4122 4131	Hemograma
+T110	PROCEDURE 4823 4834	Coagulación
+T111	PROCEDURE 5161 5176	Coronariografía
+T112	PROCEDURE 5296 5324	Ecocardiograma transtorácico
+T113	PROCEDURE 6599 6640	Angio-TC de abdomen y miembros inferiores
+T114	PROCEDURE 6875 6905	Radiografía magnética cardiaca
+T115	PROCEDURE 6907 6910	RMC
+T116	PROCEDURE 7299 7332	secuencia de perfusión miocárdica
+T117	PROCEDURE 8138 8146	angio-TC
+T118	PROCEDURE 8228 8260	embolectomía con catéter Fogarty
+T119	PROCEDURE 8552 8566	ecocardiograma
+T120	PROCEDURE 8819 8834	coronariografía
+T121	PROCEDURE 9158 9173	anticoagulación
+T122	PROCEDURE 9306 9318	trombectomía
+T123	PROCEDURE 9370 9373	RMC
+T124	PROCEDURE 9672 9687	anticaogulación
+T126	PROCEDURE 10036 10048	embolectomía
+T127	PROCEDURE 10174 10205	tromboembolectomía transfemoral
+T132	PROCEDURE 4549 4559	Bioquímica
+T133	PROCEDURE 6205 6218	Doppler color
+T134	PROCEDURE 350 368	EXPLORACIÓN FÍSICA
+T135	PROCEDURE 4969 5011	Seriación de marcadores de daño miocárdico
+T136	PROCEDURE 205 234	marcadores de daño miocárdico
+T137	PROCEDURE 1998 2027	marcadores de daño miocárdico
+T138	PROCEDURE 262 279	pruebas de imagen
+T139	PROCEDURE 7232 7250	secuencias T2 STIR
+T165	PROCEDURE 4100 4109	Analítica
+T212	PROCEDURE 8936 8964	perfusión de heparina sódica
+T216	PROCEDURE 2752 2764	se auscultan
+T143	PROCEDURE 2037 2072	repermeabilizada la arteria humeral
+T146	PROCEDURE 3044 3063	Miembros inferiores
+T125	PROCEDURE 9191 9223	controles seriados mediante TTPa
+T153	PROCEDURE 9261 9291	infusión de la heparina sódica

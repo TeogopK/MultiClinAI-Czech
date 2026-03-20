@@ -1,0 +1,23 @@
+T32	DISEASE 77 93	syncopal episode
+T35	DISEASE 324 338	drug allergies
+T36	DISEASE 340 354	Active smoking
+T1	DISEASE 373 391	Chronic alcoholism
+T33	DISEASE 598 614	syncopal episode
+T37	DISEASE 1408 1428	deep vein thrombosis
+T38	DISEASE 1430 1433	DVT
+T39	DISEASE 1633 1650	Hyperlactacidemia
+T52	DISEASE 1659 1667	acidosis
+T51	DISEASE 1695 1714	myocardial necrosis
+T40	DISEASE 2431 2453	pulmonary hypertension
+T41	DISEASE 2486 2506	pericardial effusion
+T4	DISEASE 2656 2729	intracoronary thrombus (without complicated plaque) in proximal-medial DC
+T43	DISEASE 2787 2795	thrombus
+T47	DISEASE 3114 3134	arterial hypotension
+T34	DISEASE 3499 3515	syncopal episode
+T48	DISEASE 3771 3819	non-ST-segment elevation acute coronary syndrome
+T5	DISEASE 3821 3828	NSTEACS
+T6	DISEASE 4041 4157	thrombus in the proximal and middle DC, secondary to the acetaldehyde reaction due to alcohol-disulfiram interaction
+T45	DISEASE 4393 4401	thrombus
+T50	DISEASE 4630 4637	smoking
+T11	DISEASE 4891 5007	Acute non-Q myocardial infarction of inferior location, secondary to acetaldehyde reaction due to alcohol-disulfiram
+T12	DISEASE 5025 5083	intracoronary thrombus formation in proximal and middle DC

@@ -1,0 +1,61 @@
+T1	SYMPTOM 112 128	gait instability
+T2	SYMPTOM 686 702	gait instability
+T3	SYMPTOM 479 486	syncope
+T4	SYMPTOM 835 842	syncope
+T5	SYMPTOM 1014 1024	chest pain
+T6	SYMPTOM 1042 1050	dyspnoea
+T8	SYMPTOM 1052 1062	orthopnoea
+T9	SYMPTOM 1066 1095	paroxysmal nocturnal dyspnoea
+T10	SYMPTOM 1134 1139	fever
+T11	SYMPTOM 1217 1254	elevated markers of myocardial damage
+T12	SYMPTOM 1259 1288	electrocardiogram alterations
+T13	SYMPTOM 1388 1397	Conscious
+T14	SYMPTOM 1402 1410	oriented
+T15	SYMPTOM 1412 1434	good general condition
+T16	SYMPTOM 1461 1477	respiratory work
+T17	SYMPTOM 1579 1605	preserved vesicular murmur
+T18	SYMPTOM 1614 1626	added noises
+T19	SYMPTOM 1628 1650	Lower limbs: no oedema
+T20	SYMPTOM 1652 1683	Normal neurological examination
+T21	SYMPTOM 1724 1736	sinus rhythm
+T22	SYMPTOM 2032 2044	sinus rhythm
+T23	SYMPTOM 1748 1757	Normal PR
+T24	SYMPTOM 2056 2065	normal PR
+T25	SYMPTOM 1759 1786	Narrow QRS with normal axis
+T26	SYMPTOM 1801 1873	ST elevation of 1-2 mm in precordial and submillimetric in inferior face
+T28	SYMPTOM 2067 2077	narrow QRS
+T29	SYMPTOM 3427 3461	Hyperkinesia of the basal segments
+T30	SYMPTOM 3463 3508	Moderately depressed global systolic function
+T31	SYMPTOM 4556 4603	Mitral valve with thin leaflets, normal opening
+T32	SYMPTOM 5259 5282	normal urine osmolarity
+T33	SYMPTOM 5481 5496	hypomagnesaemia
+T34	SYMPTOM 5613 5634	residual ST elevation
+T35	SYMPTOM 6630 6642	asymptomatic
+T37	SYMPTOM 6644 6652	afebrile
+T38	SYMPTOM 6654 6677	haemodynamically stable
+T39	SYMPTOM 4527 4554	Right atrium of normal size
+T40	SYMPTOM 6876 6909	Coronary arteries without lesions
+T63	SYMPTOM 319 349	normal electrocardiogram (ECG)
+T64	SYMPTOM 824 834	presyncope
+T7	SYMPTOM 1436 1456	Eupneic in decubitus
+T65	SYMPTOM 1501 1509	rhythmic
+T66	SYMPTOM 1511 1553	systolic murmur in low left sternal border
+T27	SYMPTOM 1788 1799	anterior QS
+T67	SYMPTOM 1875 1894	negative T in I-aVL
+T68	SYMPTOM 1913 1951	ST elevation in V2-V6 up to 3 mm in V3
+T69	SYMPTOM 1957 1996	negative T wave in all precordial leads
+T51	SYMPTOM 2079 2153	deep and symmetrical negative T wave in inferior face, I and aVL and V2-V6
+T52	SYMPTOM 3021 3045	PCR SARS-CoV-2: negative
+T53	SYMPTOM 3309 3363	left ventricle not dilated, with normal wall thickness
+T57	SYMPTOM 3365 3425	Akinesia of middle and distal segments of all faces and apex
+T58	SYMPTOM 3599 3623	Right atrium not dilated
+T59	SYMPTOM 3750 3815	Right ventricle not dilated, with normal global systolic function
+T61	SYMPTOM 3864 3913	left ventricle: a) size and function: normal size
+T70	SYMPTOM 3938 3994	Hypokinesia of the distal segments of all faces and apex
+T71	SYMPTOM 4302 4388	Right ventricle: a) Size and function: normal size, not hypertrophic, normocontractile
+T72	SYMPTOM 4605 4647	Aortic valve trivalve, functionally normal
+T54	SYMPTOM 4987 5040	Global systolic function at the lower limit of normal
+T73	SYMPTOM 6911 6950	Ventricular function severely depressed
+T36	SYMPTOM 5691 5727	alterations in segmental contraction
+T56	SYMPTOM 5542 5567	elevated troponin plateau
+T74	SYMPTOM 5597 5608	anterior QS

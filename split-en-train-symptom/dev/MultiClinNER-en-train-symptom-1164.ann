@@ -1,0 +1,82 @@
+T1	SYMPTOM 75 85	chest pain
+T55	SYMPTOM 90 97	syncope
+T2	SYMPTOM 552 562	chest pain
+T67	SYMPTOM 655 667	asymptomatic
+T14	SYMPTOM 813 833	LMCA without lesions
+T15	SYMPTOM 860 885	Cx and CD without lesions
+T74	SYMPTOM 1162 1194	LV size and contractility normal
+T7	SYMPTOM 1231 1238	fatigue
+T9	SYMPTOM 1243 1297	progressively disabling chest pain on minimal exertion
+T58	SYMPTOM 1359 1376	sinus tachycardia
+T10	SYMPTOM 1625 1653	dyspnoea on minimal exertion
+T3	SYMPTOM 1749 1799	long-standing chest discomfort related to exercise
+T56	SYMPTOM 1985 1992	syncope
+T4	SYMPTOM 2011 2021	chest pain
+T11	SYMPTOM 2061 2134	oppressive central thoracic pain radiating to the jaw and left hemithorax
+T12	SYMPTOM 2149 2157	dyspnoea
+T13	SYMPTOM 2174 2195	loss of consciousness
+T19	SYMPTOM 2217 2221	pain
+T23	SYMPTOM 2292 2312	sphincter relaxation
+T24	SYMPTOM 2317 2339	tonic-clonic movements
+T16	SYMPTOM 2347 2370	post-syncopal confusion
+T5	SYMPTOM 2431 2471	chest pain on increasingly less exertion
+T25	SYMPTOM 2537 2545	Afebrile
+T17	SYMPTOM 2587 2615	C and O in all three spheres
+T69	SYMPTOM 2617 2622	quiet
+T18	SYMPTOM 2623 2634	cooperative
+T26	SYMPTOM 2636 2639	BEG
+T65	SYMPTOM 2641 2643	NC
+T66	SYMPTOM 2648 2650	NH
+T20	SYMPTOM 2652 2659	Eupneic
+T70	SYMPTOM 2666 2669	RCR
+T27	SYMPTOM 2674 2681	murmurs
+T29	SYMPTOM 2685 2695	extratonos
+T30	SYMPTOM 2700 2702	IY
+T31	SYMPTOM 2744 2783	palpable and symmetrical femoral pulses
+T47	SYMPTOM 2789 2792	VCM
+T51	SYMPTOM 2801 2820	superimposed sounds
+T32	SYMPTOM 2822 2847	ABD: soft and depressible
+T75	SYMPTOM 2852 2861	megaliths
+T33	SYMPTOM 2875 2896	peritoneal irritation
+T28	SYMPTOM 2901 2908	murmurs
+T34	SYMPTOM 2910 2931	preserved peristalsis
+T43	SYMPTOM 2959 2961	Rs
+T35	SYMPTOM 2973 2982	normal PR
+T36	SYMPTOM 2984 2994	narrow QRS
+T76	SYMPTOM 3005 3015	negative T
+T78	SYMPTOM 3036 3060	CTI within normal limits
+T72	SYMPTOM 3062 3085	Mediastinum not widened
+T71	SYMPTOM 3339 3364	Biomarker curve: negative
+T77	SYMPTOM 3723 3755	overall normal systolic function
+T79	SYMPTOM 3757 3784	Normal sized left ventricle
+T37	SYMPTOM 3786 3820	Normal LV global systolic function
+T80	SYMPTOM 3833 3871	abnormalities of segmental contraction
+T81	SYMPTOM 3988 4014	Left atrium of normal size
+T38	SYMPTOM 4016 4046	Right ventricle of normal size
+T82	SYMPTOM 4082 4151	stent in the proximal descending anterior descending artery permeable
+T68	SYMPTOM 4219 4290	Circumflex artery and right coronary artery without significant lesions
+T39	SYMPTOM 4360 4375	precordial pain
+T40	SYMPTOM 4384 4408	angiographic alterations
+T57	SYMPTOM 4516 4528	sinus rhythm
+T41	SYMPTOM 4626 4644	Normal resting ECG
+T42	SYMPTOM 4646 4678	very limited functional capacity
+T8	SYMPTOM 4719 4726	fatigue
+T6	SYMPTOM 4731 4741	chest pain
+T21	SYMPTOM 4801 4835	Abnormal tachycardia with standing
+T64	SYMPTOM 5015 5027	ANA negative
+T22	SYMPTOM 5557 5667	pulmonary pressures, cardiac output, PCP, PVC, systemic resistances and pulmonary resistances within normality
+T73	SYMPTOM 5728 5751	PFR (June 2014): normal
+T44	SYMPTOM 5833 5835	RS
+T62	SYMPTOM 5873 5899	bouts of sinus tachycardia
+T59	SYMPTOM 6045 6056	tachycardia
+T60	SYMPTOM 6094 6111	sinus tachycardia
+T45	SYMPTOM 6142 6153	hypotension
+T46	SYMPTOM 6188 6196	weakness
+T49	SYMPTOM 6207 6213	nausea
+T50	SYMPTOM 6215 6221	pallor
+T52	SYMPTOM 6223 6239	chest discomfort
+T53	SYMPTOM 6241 6256	distal cyanosis
+T54	SYMPTOM 6270 6278	asthenia
+T61	SYMPTOM 6347 6364	sinus tachycardia
+T63	SYMPTOM 6651 6716	ventricular function, filling pressures and normal cardiac output
+T48	SYMPTOM 6718 6730	Patent stent

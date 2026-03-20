@@ -1,0 +1,33 @@
+T1	SYMPTOM 573 604	pérdida del nivel de conciencia
+T2	SYMPTOM 687 710	ausencia de respiración
+T3	SYMPTOM 1070 1083	ritmo sinusal
+T4	SYMPTOM 1199 1214	Sedoanalgesiado
+T5	SYMPTOM 1225 1265	Pupilas isocóricas, mióticas y reactivas
+T6	SYMPTOM 1343 1368	Ruidos cardiacos rítmicos
+T7	SYMPTOM 1370 1383	taquicárdicos
+T8	SYMPTOM 1388 1394	soplos
+T9	SYMPTOM 1396 1440	Murmullo vesicular conservado bilateralmente
+T10	SYMPTOM 1442 1484	Abdomen ligeramente distendido y timpánico
+T11	SYMPTOM 1486 1515	Ruidos intestinales presentes
+T12	SYMPTOM 1517 1547	Miembros inferiores sin edemas
+T13	SYMPTOM 1554 1595	pulsos bilaterales presentes y simétricos
+T14	SYMPTOM 2051 2084	aumento del índice cardiotorácico
+T17	SYMPTOM 2378 2440	Función sistólica ventricular izquierda moderadamente reducida
+T18	SYMPTOM 2525 2589	Ventrículo derecho de tamaño normal con función sistólica normal
+T19	SYMPTOM 2674 2723	Sistema ventricular de tamaño y morfología normal
+T20	SYMPTOM 2854 2886	ventrículo izquierdo no dilatado
+T21	SYMPTOM 3286 3297	bradicardia
+T22	SYMPTOM 3303 3323	hipotensión arterial
+T23	SYMPTOM 3567 3588	movimientos anormales
+T24	SYMPTOM 3595 3604	tiritonas
+T25	SYMPTOM 3623 3648	aumento de la temperatura
+T91	SYMPTOM 4364 4376	asintomático
+T98	SYMPTOM 4484 4551	función ventricular izquierda se encontraba moderadamente deprimida
+T107	SYMPTOM 2280 2376	ventrículo izquierdo ligeramente hipertrófico con alteraciones segmentarias de la contractilidad
+T83	SYMPTOM 1974 2020	orina: cocaína, anfetaminas, cannabis negativo
+T15	SYMPTOM 2442 2488	Relajación prolongada del ventrículo izquierdo
+T123	SYMPTOM 4416 4451	captación parcheada intramiocárdica
+T124	SYMPTOM 4221 4259	arterias coronarias libres de lesiones
+T126	SYMPTOM 3826 3842	infiltrado basal
+T127	SYMPTOM 2102 2113	infiltrados
+T85	SYMPTOM 2934 2966	Realce intramiocárdico parcheado

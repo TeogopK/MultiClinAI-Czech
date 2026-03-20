@@ -1,0 +1,69 @@
+T65	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T67	PROCEDURE 239 252	haemodialysis
+T2	PROCEDURE 323 339	Renal transplant
+T68	PROCEDURE 676 696	antibiotic treatment
+T109	PROCEDURE 1330 1340	antibiotic
+T71	PROCEDURE 1513 1521	Chest CT
+T74	PROCEDURE 1700 1714	blood cultures
+T77	PROCEDURE 1716 1730	urine cultures
+T6	PROCEDURE 1735 1743	serology
+T83	PROCEDURE 1779 1883	detection of cytomegalovirus, Pneumocystis jirovecii (in bronchoalveolar lavage) and respiratory viruses
+T78	PROCEDURE 1894 1910	smear microscopy
+T80	PROCEDURE 1912 1958	PCR for tuberculosis in bronchoalveolar lavage
+T84	PROCEDURE 1936 1958	bronchoalveolar lavage
+T7	PROCEDURE 1963 1978	bronchoaspirate
+T81	PROCEDURE 1992 2013	mycobacterial culture
+T85	PROCEDURE 2048 2070	bronchoalveolar lavage
+T8	PROCEDURE 2090 2123	PCR for Leishmania in bone marrow
+T69	PROCEDURE 2220 2240	antibiotic treatment
+T66	PROCEDURE 2344 2364	Physical examination
+T86	PROCEDURE 2548 2584	Cardiac and respiratory auscultation
+T127	PROCEDURE 2789 2800	Lower limbs
+T10	PROCEDURE 3000 3011	Blood tests
+T11	PROCEDURE 3026 3037	haemoglobin
+T124	PROCEDURE 3159 3171	Biochemistry
+T12	PROCEDURE 3521 3533	Urine system
+T87	PROCEDURE 3619 3627	Sediment
+T88	PROCEDURE 3697 3714	Electrocardiogram
+T72	PROCEDURE 3854 3862	Chest CT
+T75	PROCEDURE 3975 3989	Blood cultures
+T89	PROCEDURE 3991 4004	urine culture
+T92	PROCEDURE 4009 4023	sputum culture
+T95	PROCEDURE 4035 4042	Mantoux
+T98	PROCEDURE 4059 4073	Echocardiogram
+T99	PROCEDURE 4984 5000	echocardiography
+T102	PROCEDURE 5002 5013	Chest X-ray
+T128	PROCEDURE 5020 5038	pericardiocentesis
+T103	PROCEDURE 5207 5233	Pericardial fluid analysis
+T15	PROCEDURE 5427 5458	Pathology of pericardial fluid:
+T104	PROCEDURE 5459 5485	pericardial fluid cytology
+T105	PROCEDURE 5720 5732	Microbiology
+T93	PROCEDURE 5734 5748	Sputum culture
+T106	PROCEDURE 5776 5805	Urine culture and antibiogram
+T79	PROCEDURE 5817 5847	Pericardial fluid bacilloscopy
+T17	PROCEDURE 5859 5900	Pericardial fluid culture and antibiogram
+T16	PROCEDURE 5877 5884	culture
+T18	PROCEDURE 5912 5967	PCR of extrapulmonary tuberculosis in pericardial fluid
+T130	PROCEDURE 6010 6067	Mycobacterium tuberculosis mutations in pericardial fluid
+T107	PROCEDURE 6149 6191	Mycobacterial culture in pericardial fluid
+T19	PROCEDURE 6268 6279	Blood tests
+T20	PROCEDURE 6300 6311	haemoglobin
+T125	PROCEDURE 6436 6448	Biochemistry
+T21	PROCEDURE 6915 6923	diuretic
+T70	PROCEDURE 6928 6948	antibiotic treatment
+T76	PROCEDURE 6950 6964	Blood cultures
+T91	PROCEDURE 6966 6979	urine culture
+T112	PROCEDURE 6981 7007	sputum culture and Mantoux
+T100	PROCEDURE 7027 7055	transthoracic echocardiogram
+T113	PROCEDURE 7227 7254	immunosuppressive treatment
+T73	PROCEDURE 7306 7314	chest CT
+T97	PROCEDURE 7356 7363	Mantoux
+T115	PROCEDURE 7491 7520	diagnostic pericardiocentesis
+T116	PROCEDURE 7764 7804	biochemical and microbiological analysis
+T118	PROCEDURE 7881 7889	Cytology
+T120	PROCEDURE 8008 8032	microbiological analysis
+T22	PROCEDURE 8038 8045	culture
+T114	PROCEDURE 8490 8517	immunosuppressive treatment
+T122	PROCEDURE 8766 8791	pericardial fluid culture
+T101	PROCEDURE 8880 8908	transthoracic echocardiogram
+T123	PROCEDURE 9224 9245	renal transplantation

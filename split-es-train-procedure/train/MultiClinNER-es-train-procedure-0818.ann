@@ -1,0 +1,53 @@
+T108	PROCEDURE 464 476	espirometría
+T109	PROCEDURE 654 684	hernioplastia inguinal derecha
+T110	PROCEDURE 722 758	adenomectomía prostática retropúbica
+T111	PROCEDURE 1099 1118	cirugía de próstata
+T112	PROCEDURE 1932 1950	Exploración física
+T113	PROCEDURE 2201 2222	auscultación cardiaca
+T114	PROCEDURE 2268 2289	auscultación pulmonar
+T115	PROCEDURE 2546 2564	Electrocardiograma
+T116	PROCEDURE 2745 2762	Gasometría venosa
+T117	PROCEDURE 3079 3088	Hemograma
+T118	PROCEDURE 3394 3405	Coagulación
+T119	PROCEDURE 3446 3461	Perfil lipídico
+T120	PROCEDURE 3623 3637	Perfil férrico
+T121	PROCEDURE 3848 3858	Serologías
+T122	PROCEDURE 3992 4012	Radiografía de tórax
+T123	PROCEDURE 4132 4152	Radiografía de tórax
+T124	PROCEDURE 4263 4291	Ecocardiograma transtorácico
+T125	PROCEDURE 4293 4296	ETT
+T126	PROCEDURE 4506 4513	Doppler
+T127	PROCEDURE 5168 5202	Resonancia magnética (RM) cardiaca
+T128	PROCEDURE 5664 5702	Cateterismo vía arteria radial derecha
+T129	PROCEDURE 5704 5729	Coronariografía izquierda
+T130	PROCEDURE 6068 6091	Coronariografía derecha
+T131	PROCEDURE 6692 6718	Intervencionismo coronario
+T132	PROCEDURE 6816 6849	implante de usntent farmacoactivo
+T134	PROCEDURE 7205 7274	Se posdilatan estos dos últimosstents con balón 4,5 NC a alta presión
+T135	PROCEDURE 7543 7564	tratamiento diurético
+T136	PROCEDURE 7765 7790	tratamiento neurohormonal
+T137	PROCEDURE 8093 8107	ecocardiograma
+T138	PROCEDURE 8309 8327	anamnesis dirigida
+T139	PROCEDURE 8581 8592	cateterismo
+T140	PROCEDURE 8622 8651	resonancia magnética cardiaca
+T141	PROCEDURE 8684 8704	cateterismo cardiaco
+T142	PROCEDURE 8864 8893	resonancia magnética cardiaca
+T143	PROCEDURE 9236 9266	test de sangre oculta en heces
+T144	PROCEDURE 10542 10568	tratamiento diurético oral
+T145	PROCEDURE 11603 11645	implantación de tres stents farmacoactivos
+T156	PROCEDURE 2810 2820	Bioquímica
+T157	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T159	PROCEDURE 10307 10332	tratamiento neurohormonal
+T160	PROCEDURE 5190 5192	RM
+T161	PROCEDURE 6720 6791	se predilata la estenosis descrita en el segmento medio de CD con balón
+T162	PROCEDURE 6854 6877	posdilatación con balón
+T163	PROCEDURE 7482 7512	cirugía programada de próstata
+T165	PROCEDURE 8746 8815	coronaria derecha en la que se implantaron tres stents farmacoactivos
+T34	PROCEDURE 6930 7033	se implanta, previa predilatación con balón de 4,0 mm, otrostent farmacoactivo sobre la lesión ulcerada
+T175	PROCEDURE 10613 10633	analítica de control
+T176	PROCEDURE 3423 3433	analíticas
+T177	PROCEDURE 8918 8928	analíticas
+T218	PROCEDURE 5452 5478	secuencia de realce tardío
+T169	PROCEDURE 6559 6588	guía de presión sin adenosina
+T170	PROCEDURE 7157 7203	stent a ese nivel que cubre el ostium del vaso
+#2	AnnotatorNotes T160	 resonancia magnética

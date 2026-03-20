@@ -1,0 +1,54 @@
+T59	DISEASE 70 93	alergias medicamentosas
+T60	DISEASE 99 114	hábitos tóxicos
+T61	DISEASE 151 172	Hipertensión arterial
+T62	DISEASE 174 184	Dislipemia
+T63	DISEASE 243 272	Cardiopatía isquémica crónica
+T64	DISEASE 293 311	angina de esfuerzo
+T65	DISEASE 444 460	angina inestable
+T66	DISEASE 635 652	Espondiloartrosis
+T67	DISEASE 654 673	Síndrome prostático
+T68	DISEASE 675 695	Hipoacusia bilateral
+T69	DISEASE 725 758	Fractura pertrocantérea de cadera
+T71	DISEASE 1512 1538	lesiones isquémicas agudas
+T72	DISEASE 1555 1576	oclusión de gran vaso
+T73	DISEASE 2300 2317	lesiones cutáneas
+T74	DISEASE 3121 3146	trombosis venosa profunda
+T75	DISEASE 3193 3212	bradicardia sinusal
+T76	DISEASE 4529 4551	Insuficiencia pulmonar
+T77	DISEASE 4634 4653	derrame pericárdico
+T78	DISEASE 5139 5157	obstrucción mitral
+T79	DISEASE 6792 6802	tabaquismo
+T80	DISEASE 7122 7164	cicatrices corticales post-pielonefríticas
+T81	DISEASE 7167 7200	quistes parapiélicos y corticales
+T82	DISEASE 7322 7353	Hipertrofia prostática moderada
+T83	DISEASE 7459 7492	Moderada ateromatosis aortoilíaca
+T84	DISEASE 7509 7533	adenomegalias inguinales
+T85	DISEASE 7554 7566	Osteoporosis
+T86	DISEASE 7662 7679	Fractura de fémur
+T87	DISEASE 7900 7924	diseminación metastásica
+T88	DISEASE 8330 8336	mixoma
+T89	DISEASE 8456 8481	origen embólico del ictus
+T90	DISEASE 8932 8938	mixoma
+T91	DISEASE 9216 9223	sarcoma
+T92	DISEASE 9334 9358	diseminación metastásica
+T93	DISEASE 9510 9530	enfermedad coronaria
+T94	DISEASE 10302 10308	mixoma
+T95	DISEASE 10438 10469	hemiparesia de miembro inferior
+T96	DISEASE 10579 10641	Ictus isquémico en arteria coroidea derecha de origen embólico
+T97	DISEASE 10643 10717	Mixoma auricular pediculado de implantación en techo de aurícula izquierda
+T98	DISEASE 10742 10768	mixoma auricular izquierdo
+T99	DISEASE 10827 10898	Síndrome coronario crónico estable con enfermedad de dos vasos (Cx y DA
+T100	DISEASE 11011 11026	ictus isquémico
+T101	DISEASE 5388 5395	trombos
+T102	DISEASE 9759 9815	aurícula izquierda con la base de implantación del tumor
+T103	DISEASE 10260 10265	tumor
+T104	DISEASE 210 213	FAP
+T105	DISEASE 5440 5494	Aorta torácica descendente con alguna placa de ateroma
+T38	DISEASE 6691 6704	adenomegalias
+T70	DISEASE 6374 6442	calcio coronario en el recorrido proximal de las arterias coronarias
+T157	DISEASE 6956 6960	LOEs
+T180	DISEASE 3839 3852	infarto focal
+T186	DISEASE 4825 4844	líquido pericárdico
+T49	DISEASE 1852 1955	infarto establecido con nueva aparición de área focal hipodensa en lenticular y corona radiada derechas
+T160	DISEASE 6505 6586	ateromatosis de predominio cálcico en el cayado y origen de troncos supraaórticos
+#1	AnnotatorNotes T104	  fibrilación auricular paroxistica

@@ -1,0 +1,15 @@
+T1	SYMPTOM 99 105	fiebre
+T2	SYMPTOM 183 214	faringe eritematosa con exudado
+T3	SYMPTOM 220 243	sintomatología catarral
+T4	SYMPTOM 694 700	fiebre
+T5	SYMPTOM 734 742	exantema
+T6	SYMPTOM 945 1004	frotis faríngeo, que es positivo para Staphylococcus aureus
+T7	SYMPTOM 1138 1145	afebril
+T8	SYMPTOM 1151 1159	exantema
+T9	SYMPTOM 1307 1313	fiebre
+T10	SYMPTOM 1336 1386	descamación de plantas y palmas "en dedo de guante
+T11	SYMPTOM 517 570	detección de Streptococcus pyogenes, que fue negativo
+T12	SYMPTOM 264 272	exantema
+T14	SYMPTOM 419 442	doloroso a la palpación
+A1	RESULTADO T6
+A2	RESULTADO T11

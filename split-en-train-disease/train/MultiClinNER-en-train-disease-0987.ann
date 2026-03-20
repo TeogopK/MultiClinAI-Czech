@@ -1,0 +1,41 @@
+T30	DISEASE 172 191	acute heart failure
+T48	DISEASE 178 191	heart failure
+T32	DISEASE 268 295	severe aortic insufficiency
+T56	DISEASE 275 295	aortic insufficiency
+T37	DISEASE 419 431	toxic habits
+T38	DISEASE 447 460	dyslipidaemia
+T39	DISEASE 465 480	type 2 diabetes
+T40	DISEASE 498 537	Sclerodegenerative aortic valve disease
+T41	DISEASE 542 562	common trunk disease
+T66	DISEASE 818 867	non-dilated LV with severe concentric hypertrophy
+T42	DISEASE 2382 2402	deep vein thrombosis
+T69	DISEASE 2427 2444	Saphenectomy scar
+T64	DISEASE 2589 2601	cardiomegaly
+T67	DISEASE 3093 3142	non-dilated LV with severe concentric hypertrophy
+T57	DISEASE 3410 3430	aortic insufficiency
+T43	DISEASE 3804 3836	very severe aortic insufficiency
+T33	DISEASE 3809 3836	severe aortic insufficiency
+T58	DISEASE 3816 3836	aortic insufficiency
+T45	DISEASE 3919 3977	Moderate tricuspid insufficiency due to annular dilatation
+T46	DISEASE 3987 4016	Severe pulmonary hypertension
+T47	DISEASE 4966 4988	acute pulmonary oedema
+T34	DISEASE 4993 5020	severe aortic insufficiency
+T59	DISEASE 5000 5020	aortic insufficiency
+T70	DISEASE 5061 5127	rupture of one of the leaflets of the biological aortic prosthesis
+T49	DISEASE 5164 5177	heart failure
+T51	DISEASE 5323 5371	rupture of one of the aortic prosthesis leaflets
+T44	DISEASE 5386 5418	very severe aortic insufficiency
+T35	DISEASE 5391 5418	severe aortic insufficiency
+T60	DISEASE 5398 5418	aortic insufficiency
+T52	DISEASE 6460 6480	aortic regurgitation
+T53	DISEASE 6925 6944	acute renal failure
+T68	DISEASE 7203 7220	arrhythmic events
+T55	DISEASE 7438 7462	moderate aortic stenosis
+T61	DISEASE 7492 7512	aortic insufficiency
+T65	DISEASE 7576 7586	haematomas
+T31	DISEASE 7681 7700	Acute heart failure
+T63	DISEASE 7681 7735	Acute heart failure due to severe aortic insufficiency
+T50	DISEASE 7687 7700	heart failure
+T36	DISEASE 7708 7735	severe aortic insufficiency
+T62	DISEASE 7715 7735	aortic insufficiency
+T54	DISEASE 7950 7969	Acute renal failure

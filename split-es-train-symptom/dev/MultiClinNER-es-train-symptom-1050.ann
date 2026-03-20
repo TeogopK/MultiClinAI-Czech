@@ -1,0 +1,57 @@
+T1	SYMPTOM 500 542	dolor centrotorácico opresivo no irradiado
+T2	SYMPTOM 547 565	cortejo vegetativo
+T3	SYMPTOM 981 1005	Aceptable estado general
+T4	SYMPTOM 1007 1017	Consciente
+T5	SYMPTOM 1019 1028	orientada
+T7	SYMPTOM 1045 1063	Eupneica en reposo
+T8	SYMPTOM 1143 1172	Presión venosa yugular normal
+T9	SYMPTOM 1174 1230	Auscultación cardiaca: tonos rítmicos a buena frecuencia
+T11	SYMPTOM 1236 1242	soplos
+T13	SYMPTOM 1281 1310	murmullo vesicular conservado
+T15	SYMPTOM 1349 1404	Abdomen blando y depresible, no doloroso a la palpación
+T16	SYMPTOM 1419 1424	masas
+T17	SYMPTOM 1428 1436	megalias
+T18	SYMPTOM 1438 1466	Ruidos hidroaéreos presentes
+T19	SYMPTOM 1483 1512	edemas en miembros inferiores
+T21	SYMPTOM 1532 1579	Pulsos radiales, femorales y pedios conservados
+T22	SYMPTOM 1634 1653	taquicardia sinusal
+T23	SYMPTOM 1746 1755	PR normal
+T24	SYMPTOM 1757 1769	QRS estrecho
+T25	SYMPTOM 1771 1832	elevación del segmento ST de 2 mm en V1 y aVR, y 1 mm en V2-3
+T26	SYMPTOM 1838 1893	descenso del ST de 1-2 mm en cara inferior y de V4 a V6
+T27	SYMPTOM 1993 2004	neutrofilia
+T28	SYMPTOM 2466 2528	ventrículo izquierdo no dilatado con espesor normal de paredes
+T31	SYMPTOM 2853 2875	Aurículas no dilatadas
+T32	SYMPTOM 4345 4354	PR normal
+T33	SYMPTOM 4356 4368	QRS estrecho
+T34	SYMPTOM 4417 4455	supradesnivelación del ST en aVL, V1-3
+T35	SYMPTOM 4457 4503	descenso ST de 1 mm en derivaciones inferiores
+T36	SYMPTOM 4579 4652	ventrículo izquierdo de dimensiones normales con grosor de paredes normal
+T37	SYMPTOM 4806 4848	Aurícula izquierda de dimensiones normales
+T39	SYMPTOM 5252 5280	Flujos anterógrados normales
+T40	SYMPTOM 5337 5350	ritmo sinusal
+T41	SYMPTOM 5361 5370	PR normal
+T42	SYMPTOM 5372 5400	QRS estrecho con QS en V1-V3
+T43	SYMPTOM 5402 5445	Supradesnivelación milimétrica del ST en V3
+T44	SYMPTOM 5447 5476	T negativa en DI, aVL y V1-V5
+T45	SYMPTOM 5609 5627	Coagulación normal
+T46	SYMPTOM 5864 5873	hipotensa
+T47	SYMPTOM 6009 6023	dolor torácico
+T49	SYMPTOM 6847 6858	hipotensión
+T51	SYMPTOM 7910 7961	asintomática desde el punto de vista cardiovascular
+T146	SYMPTOM 628 681	electrocardiograma (ECG) con alteraciones patológicas
+T6	SYMPTOM 1065 1074	Normopeso
+T12	SYMPTOM 2530 2567	hipoquinesia grave de casquete apical
+T20	SYMPTOM 3305 3344	aorta toracoabdominal de calibre normal
+T82	SYMPTOM 4397 4406	QR en aVL
+T116	SYMPTOM 4384 4395	QS de V1-V3
+T121	SYMPTOM 4654 4680	Hipoquinesia ligera global
+T122	SYMPTOM 4850 4874	Raíz aórtica no dilatada
+T147	SYMPTOM 4907 4951	Ventrículo derecho con contractilidad normal
+T148	SYMPTOM 5009 5045	Vena cava inferior de calibre normal
+T157	SYMPTOM 1031 1043	colaboradora
+T160	SYMPTOM 1246 1256	extratonos
+T162	SYMPTOM 2791 2851	Cámaras derechas de tamaño conservado con función conservada
+T170	SYMPTOM 3786 3820	líquido libre en receso de Douglas
+T14	SYMPTOM 4506 4523	T negativa en aVL
+T52	SYMPTOM 4876 4905	Cámaras derechas no dilatadas

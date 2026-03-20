@@ -1,0 +1,16 @@
+T1	SYMPTOM 1840 1866	alteraciones hemodinámicas
+T2	SYMPTOM 2170 2182	asintomático
+T3	SYMPTOM 3995 4007	asintomático
+T4	SYMPTOM 2032 2037	dolor
+T5	SYMPTOM 4018 4039	función renal estable
+T6	SYMPTOM 556 572	hemograma normal
+T7	SYMPTOM 154 159	mareo
+T8	SYMPTOM 360 392	masa en flanco derecho, indolora
+T9	SYMPTOM 1795 1803	sangrado
+T10	SYMPTOM 2816 2826	tumoración
+T11	SYMPTOM 688 711	función hepática normal
+T12	SYMPTOM 647 684	albúmina y proteínas totales normales
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	RESULTADO T11
+A4	RESULTADO T12

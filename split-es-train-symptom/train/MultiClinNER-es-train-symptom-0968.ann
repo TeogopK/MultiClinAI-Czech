@@ -1,0 +1,35 @@
+T1	SYMPTOM 485 511	dolor precordial en reposo
+T2	SYMPTOM 664 680	dolor precordial
+T4	SYMPTOM 1002 1021	ritmo desfibrilable
+T5	SYMPTOM 1033 1046	ritmo sinusal
+T7	SYMPTOM 1664 1686	Buena perfusión distal
+T8	SYMPTOM 1688 1717	Presión venosa yugular normal
+T9	SYMPTOM 1742 1767	ruidos cardiacos rítmicos
+T10	SYMPTOM 1769 1782	taquicárdicos
+T11	SYMPTOM 1788 1794	soplos
+T12	SYMPTOM 1819 1848	murmullo vesicular conservado
+T13	SYMPTOM 1850 1884	Extremidades inferiores sin edemas
+T14	SYMPTOM 1886 1935	Pulsos carotídeos, radiales y femorales presentes
+T15	SYMPTOM 2792 2805	ritmo sinusal
+T16	SYMPTOM 2807 2831	onda T negativa en V3-V5
+T17	SYMPTOM 2852 2865	ritmo sinusal
+T18	SYMPTOM 2867 2903	elevación del segmento ST de V2 a V4
+T19	SYMPTOM 4163 4188	elevación del segmento ST
+T20	SYMPTOM 4491 4504	ritmo sinusal
+T21	SYMPTOM 4511 4534	compromiso respiratorio
+T22	SYMPTOM 4536 4565	reactiva a estímulos verbales
+T23	SYMPTOM 4578 4633	movimientos coordinados con las extremidades superiores
+T24	SYMPTOM 4640 4657	pupilas reactivas
+T25	SYMPTOM 4740 4817	alteraciones segmentarias de la contractilidad en territorio de la arteria DA
+T26	SYMPTOM 4870 4904	elevación del segmento ST anterior
+T27	SYMPTOM 5360 5390	amnesia de episodios recientes
+T28	SYMPTOM 5472 5492	hipotensión arterial
+T29	SYMPTOM 5745 5770	disfunción moderada de VI
+T117	SYMPTOM 3142 3213	acinesia septoapical y de ápex, hipocinesia septal media y lateroapical
+T119	SYMPTOM 4258 4297	angio-TC pulmonar y TC craneal normales
+T120	SYMPTOM 4353 4399	alteraciones segmentarias de la contractilidad
+T31	SYMPTOM 6600 6625	FEVI moderadamente afecta
+T130	SYMPTOM 3380 3420	Tronco coronario izquierdo sin estenosis
+T132	SYMPTOM 719 748	afectación del estado general
+T6	SYMPTOM 3339 3378	arteria coronaria derecha sin estenosis
+T99	SYMPTOM 3548 3581	Arteria circunfleja sin estenosis

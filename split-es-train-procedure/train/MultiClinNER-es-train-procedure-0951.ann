@@ -1,0 +1,38 @@
+T74	PROCEDURE 1747 1768	Auscultación cardiaca
+T75	PROCEDURE 1791 1812	Auscultación pulmonar
+T76	PROCEDURE 2025 2043	Electrocardiograma
+T77	PROCEDURE 2045 2048	ECG
+T78	PROCEDURE 2212 2215	ECG
+T79	PROCEDURE 2226 2229	ECG
+T80	PROCEDURE 2339 2359	Radiografía de tórax
+T81	PROCEDURE 3642 3672	Test de sangre oculta en heces
+T82	PROCEDURE 3684 3712	Ecocardiograma transtorácico
+T83	PROCEDURE 3714 3717	ETT
+T84	PROCEDURE 4793 4820	Coronariografía diagnóstica
+T85	PROCEDURE 5319 5331	Colonoscopia
+T86	PROCEDURE 5334 5359	endoscopia digestiva alta
+T87	PROCEDURE 5428 5465	Intervencionismo coronario percutáneo
+T88	PROCEDURE 5549 5593	se implanta un stent liberador de everolimus
+T90	PROCEDURE 5720 5778	se implanta un stent farmacoactivo liberador de everolimus
+T92	PROCEDURE 5923 5951	ecocardiograma transtorácico
+T93	PROCEDURE 6051 6066	coronariografía
+T94	PROCEDURE 6423 6450	intervencionismo percutáneo
+T95	PROCEDURE 6458 6468	telemetría
+T96	PROCEDURE 6521 6536	betabloqueantes
+T97	PROCEDURE 6587 6609	endoscopias digestivas
+T98	PROCEDURE 6680 6707	doble terapia antiagregante
+T99	PROCEDURE 6930 6994	intervencionismo coronario percutáneo con implante de dos stents
+T129	PROCEDURE 1583 1601	EXPLORACIÓN FÍSICA
+T130	PROCEDURE 478 488	Ergometría
+T131	PROCEDURE 2610 2620	Gasometría
+T132	PROCEDURE 5028 5032	IVUS
+T133	PROCEDURE 3145 3187	Marcadores de necrosis miocárdica seriados
+T134	PROCEDURE 6882 6902	doble antiagregación
+T139	PROCEDURE 5467 5497	se avanza una guía a Cx distal
+T140	PROCEDURE 5499 5531	Se predilata la lesión de TCI-Cx
+T158	PROCEDURE 1690 1705	Cabeza y cuello
+T165	PROCEDURE 3200 3211	Laboratorio
+T183	PROCEDURE 6365 6382	estudio de anemia
+T17	PROCEDURE 565 590	anticoagulada con sintrom
+T89	PROCEDURE 5683 5717	se predilata lesión de CX proximal
+#3	AnnotatorNotes T132	 ultrasonido intravascular

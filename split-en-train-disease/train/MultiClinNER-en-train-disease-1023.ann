@@ -1,0 +1,35 @@
+T15	DISEASE 72 86	drug allergies
+T16	DISEASE 91 103	toxic habits
+T17	DISEASE 105 126	Arterial hypertension
+T18	DISEASE 114 126	hypertension
+T21	DISEASE 128 152	Diabetes mellitus type 2
+T22	DISEASE 154 174	Hypercholesterolemia
+T23	DISEASE 176 188	Osteoporosis
+T24	DISEASE 190 216	Symptomatic cholelithiasis
+T25	DISEASE 221 238	hepatic steatosis
+T26	DISEASE 298 310	ovarian cyst
+T27	DISEASE 315 335	urinary incontinence
+T28	DISEASE 487 536	severe left ventricular (LV) systolic dysfunction
+T29	DISEASE 571 628	Mitral valve with degenerative changes, moderate fibrosis
+T30	DISEASE 667 696	Severe pulmonary hypertension
+T35	DISEASE 674 696	pulmonary hypertension
+T19	DISEASE 684 696	hypertension
+T38	DISEASE 1236 1258	dilated cardiomyopathy
+T31	DISEASE 1236 1319	dilated cardiomyopathy of uncertain origin with severe left ventricular dysfunction
+T32	DISEASE 1478 1489	arrhythmias
+T33	DISEASE 1559 1586	severe systolic dysfunction
+T48	DISEASE 1602 1611	Severe MI
+T36	DISEASE 1618 1640	pulmonary hypertension
+T20	DISEASE 1628 1640	hypertension
+T47	DISEASE 3618 3624	BCRDHH
+T37	DISEASE 3669 3712	dilated LV with severe systolic dysfunction
+T34	DISEASE 3685 3712	severe systolic dysfunction
+T39	DISEASE 3972 3994	dilated cardiomyopathy
+T43	DISEASE 4009 4019	chronic HF
+T49	DISEASE 4062 4087	poor peripheral perfusion
+T41	DISEASE 4234 4242	acute HF
+T42	DISEASE 4672 4680	acute HF
+T44	DISEASE 4747 4757	chronic HF
+T40	DISEASE 5300 5322	dilated cardiomyopathy
+T45	DISEASE 5365 5403	Severe functional mitral regurgitation
+T46	DISEASE 5405 5426	Chronic heart failure

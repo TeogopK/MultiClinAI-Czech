@@ -1,0 +1,30 @@
+T68	PROCEDURE 467 485	Electrocardiograma
+T69	PROCEDURE 598 609	RX de tórax
+T70	PROCEDURE 1000 1011	TAC craneal
+T71	PROCEDURE 1075 1087	RMN cerebral
+T72	PROCEDURE 1299 1327	Ecocardiograma transtorácico
+T73	PROCEDURE 1735 1764	Ecocardiograma transesofágico
+T74	PROCEDURE 1932 1946	Ecocardiograma
+T75	PROCEDURE 2188 2207	Ecografía abdominal
+T76	PROCEDURE 2316 2328	Hemocultivos
+T77	PROCEDURE 2394 2406	Hemocultivos
+T78	PROCEDURE 2620 2638	aminas vasoactivas
+T79	PROCEDURE 2743 2746	TAC
+T80	PROCEDURE 2751 2779	ecocardiograma transtorácico
+T81	PROCEDURE 2881 2910	ecocardiograma transesofágico
+T82	PROCEDURE 3164 3176	hemocultivos
+T83	PROCEDURE 3323 3335	RMN cerebral
+T84	PROCEDURE 3652 3662	diuréticos
+T85	PROCEDURE 3770 3795	embolectomía transfemoral
+T86	PROCEDURE 3823 3842	ecografía abdominal
+T87	PROCEDURE 4027 4040	TAC abdominal
+T88	PROCEDURE 4056 4071	ecocardiogramas
+T89	PROCEDURE 4811 4834	tratamiento antibiótico
+T90	PROCEDURE 5564 5589	Embolectomía transfemoral
+T102	PROCEDURE 705 724	Analítica de sangre
+T103	PROCEDURE 1969 1982	Doppler color
+T104	PROCEDURE 4895 4930	cirugía de recambio valvular mitral
+T105	PROCEDURE 4476 4489	función renal
+T106	PROCEDURE 3251 3268	pauta antibiótica
+T107	PROCEDURE 4996 5013	pauta antibiótica
+T112	PROCEDURE 2600 2617	aporte de volumen

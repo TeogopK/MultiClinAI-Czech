@@ -1,0 +1,72 @@
+T1	SYMPTOM 422 429	astenia
+T2	SYMPTOM 431 439	anorexia
+T3	SYMPTOM 442 456	adelgazamiento
+T4	SYMPTOM 487 537	ANAs positivos 1/640 con patón homogéneo nucleolar
+T5	SYMPTOM 540 558	aniScl 70 positivo
+T6	SYMPTOM 1071 1078	astenia
+T7	SYMPTOM 1081 1108	disnea de mínimos esfuerzos
+T8	SYMPTOM 1260 1266	disnea
+T9	SYMPTOM 1676 1682	fiebre
+T10	SYMPTOM 1790 1799	QRS ancho
+T11	SYMPTOM 2373 2390	frotes tendinosos
+T12	SYMPTOM 2392 2431	Exploración neurológica completa normal
+T13	SYMPTOM 2436 2457	ingurgitación yugular
+T14	SYMPTOM 2487 2493	soplos
+T15	SYMPTOM 2516 2541	ruidos cardiacos rítmicos
+T16	SYMPTOM 2546 2552	soplos
+T17	SYMPTOM 2577 2606	crepitantes secos bilaterales
+T18	SYMPTOM 2646 2686	Abdomen: blando, depresible, no doloroso
+T20	SYMPTOM 2717 2767	Miembros superiores: pulsos periféricos simétricos
+T21	SYMPTOM 2769 2799	Miembros inferiores: Sin edema
+T22	SYMPTOM 2845 2869	pulsos pedios simétricos
+T23	SYMPTOM 3319 3355	pruebas de función hepática normales
+T24	SYMPTOM 3438 3465	Hormonas tiroideas normales
+T25	SYMPTOM 4051 4066	ENAS: positivos
+T27	SYMPTOM 4162 4185	VHB, VHC, VIH: negativo
+T28	SYMPTOM 4545 4558	ritmo sinusal
+T29	SYMPTOM 4791 4810	escape de QRS ancho
+T30	SYMPTOM 5201 5224	redistribución vascular
+T35	SYMPTOM 6013 6055	Patrón diastólico de relajación prolongada
+T36	SYMPTOM 6113 6154	VD de tamaño y función sistólica normales
+T40	SYMPTOM 6483 6524	Aumento de calibre de la arteria pulmonar
+T41	SYMPTOM 8214 8239	Hemodinámicamente estable
+T42	SYMPTOM 8244 8267	gasometría basal normal
+T44	SYMPTOM 9080 9093	disnea súbita
+T45	SYMPTOM 9856 9896	deterioro de las cifras de función renal
+T46	SYMPTOM 9901 9912	proteinuria
+T47	SYMPTOM 9915 9924	hematuria
+T48	SYMPTOM 9984 9997	plaquetopenia
+T49	SYMPTOM 10096 10102	disnea
+T50	SYMPTOM 10196 10204	oliguria
+T51	SYMPTOM 10571 10600	deterioro de la función renal
+T52	SYMPTOM 11229 11235	exitus
+T201	SYMPTOM 4354 4371	proteinuria mixta
+T209	SYMPTOM 5031 5050	taquicardia sinusal
+T182	SYMPTOM 478 485	Raynaud
+T183	SYMPTOM 1488 1497	QRS ancho
+T19	SYMPTOM 4068 4090	Positivos: anti-Scl-70
+T185	SYMPTOM 4092 4148	Negativos: anti- SSA/Ro60, SSA/Ro52, SSB, RNP, Sm y Jo-1
+T26	SYMPTOM 4737 4746	QRS ancho
+T31	SYMPTOM 6057 6111	Hipoquinesia severa de segmentos medio y apical septal
+T228	SYMPTOM 4462 4483	componente monoclonal
+T240	SYMPTOM 8488 8515	función sistólica levemente
+T244	SYMPTOM 8432 8486	hipoquinesia severa de segmentos medio y apical septal
+T261	SYMPTOM 5773 5820	patrón intersticial con redistribución vascular
+T276	SYMPTOM 5165 5196	índice cardiotorácico aumentado
+T277	SYMPTOM 5385 5416	índice cardiotorácico aumentado
+T278	SYMPTOM 5682 5713	índice cardiotorácico aumentado
+T34	SYMPTOM 6563 6603	Aumento densidad en "vidrio deslustrado"
+T37	SYMPTOM 6850 6895	arterias coronarias epicárdicas sin estenosis
+T38	SYMPTOM 6926 6946	Dominancia izquierda
+T39	SYMPTOM 6951 6974	CD de escaso desarrollo
+T187	SYMPTOM 2247 2257	Tez morena
+T188	SYMPTOM 3966 4013	ANA: positivo 1/640, patrón homogéneo nucleolar
+T189	SYMPTOM 4015 4049	Anti MPO, Anti MBG, ANCA: negativo
+T190	SYMPTOM 5227 5277	patrón de predominio intersticial difuso bilateral
+T191	SYMPTOM 5421 5453	patrón alveolar difuso bilateral
+T192	SYMPTOM 5735 5757	patrón alveolar difuso
+T193	SYMPTOM 5941 6011	VI de tamaño y grosor normales, con función sistólica levemente afecta
+T194	SYMPTOM 6289 6319	Raíz de Aorta de tamaño normal
+T32	SYMPTOM 8413 8427	VI no dilatado
+T33	SYMPTOM 8584 8629	cavidades derechas de tamaño y función normal
+T43	SYMPTOM 9736 9774	cifras de TA persistentemente elevadas

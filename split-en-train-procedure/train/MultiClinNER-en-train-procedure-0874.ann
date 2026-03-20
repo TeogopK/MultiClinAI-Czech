@@ -1,0 +1,42 @@
+T80	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T3	PROCEDURE 331 374	extracted by means of a scheduled operation
+T83	PROCEDURE 473 484	anaesthesia
+T81	PROCEDURE 513 533	physical examination
+T4	PROCEDURE 535 546	blood tests
+T84	PROCEDURE 601 618	electrocardiogram
+T86	PROCEDURE 620 623	ECG
+T5	PROCEDURE 705 714	procedure
+T93	PROCEDURE 851 872	anaesthetic induction
+T6	PROCEDURE 884 933	atropine was administered as an intravenous bolus
+T7	PROCEDURE 1246 1272	bolus of 200 mg amiodarone
+T82	PROCEDURE 1317 1337	Physical examination
+T94	PROCEDURE 1491 1511	Cardiac auscultation
+T95	PROCEDURE 1552 1574	Pulmonary auscultation
+T87	PROCEDURE 1708 1711	ECG
+T88	PROCEDURE 1874 1877	ECG
+T8	PROCEDURE 2005 2016	Blood tests
+T9	PROCEDURE 2101 2110	Haemogram
+T108	PROCEDURE 2147 2161	Renal function
+T96	PROCEDURE 2166 2178	electrolytes
+T10	PROCEDURE 2187 2202	Hepatic profile
+T11	PROCEDURE 2247 2275	Transthoracic echocardiogram
+T103	PROCEDURE 2945 2956	Cardiac MRI
+T97	PROCEDURE 3195 3211	Coronary angioCT
+T99	PROCEDURE 3378 3389	12-lead ECG
+T90	PROCEDURE 3692 3695	ECG
+T16	PROCEDURE 3775 3790	enzyme serology
+T100	PROCEDURE 3841 3854	Beta-blockers
+T85	PROCEDURE 4016 4033	electrocardiogram
+T102	PROCEDURE 4219 4235	Echocardiography
+T104	PROCEDURE 4240 4251	cardiac MRI
+T98	PROCEDURE 4317 4333	coronary angioCT
+T105	PROCEDURE 4487 4513	electrophysiological study
+T106	PROCEDURE 4715 4741	electrophysiological study
+T91	PROCEDURE 4957 4960	ECG
+T110	PROCEDURE 4975 5003	markers of myocardial damage
+T92	PROCEDURE 5010 5013	ECG
+T111	PROCEDURE 5057 5085	markers of myocardial damage
+T17	PROCEDURE 5293 5300	angioCT
+T107	PROCEDURE 5691 5729	coronary vasospasm provocation studies
+T109	PROCEDURE 5754 5773	calcium antagonists
+T101	PROCEDURE 5847 5860	beta-blockers

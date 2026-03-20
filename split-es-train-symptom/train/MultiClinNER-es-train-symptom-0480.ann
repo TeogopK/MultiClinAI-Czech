@@ -1,0 +1,9 @@
+T1	SYMPTOM 215 237	pierde el conocimiento
+T2	SYMPTOM 627 644	hábito marfanoide
+T3	SYMPTOM 1493 1531	adelgazamiento de la pared de la aorta
+T4	SYMPTOM 501 516	hábito atlético
+T5	SYMPTOM 595 623	signos externos de violencia
+T6	SYMPTOM 1316 1381	válvulas auriculoventriculares como las semilunares eran normales
+T7	SYMPTOM 1234 1304	endocardio subaórtico se apreciaba un área clara ligeramente engrosada
+T8	SYMPTOM 296 303	fallece
+A1	EXITUS T8

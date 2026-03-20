@@ -1,0 +1,62 @@
+T30	DISEASE 2878 2907	líquido libre intraperitoneal
+T43	DISEASE 4825 4836	hipotensión
+T70	DISEASE 24 45	Alérgica a penicilina
+T71	DISEASE 50 62	hipertensión
+T72	DISEASE 66 83	diabetes mellitus
+T73	DISEASE 95 105	Dislipemia
+T74	DISEASE 155 189	Hipotiroidismo primario autoinmune
+T75	DISEASE 325 346	Hiperémesis gravídica
+T76	DISEASE 455 468	nevus cutáneo
+T77	DISEASE 1597 1606	trombosis
+T78	DISEASE 1667 1676	infección
+T79	DISEASE 3071 3101	Severo derrame pleural derecho
+T80	DISEASE 3149 3183	derrame pleural izquierdo moderado
+T81	DISEASE 3240 3264	disfunción biventricular
+T82	DISEASE 3305 3332	Insuficiencia mitral ligera
+T83	DISEASE 3398 3426	hipertensión pulmonar severa
+T84	DISEASE 3591 3601	aneurismas
+T85	DISEASE 3641 3670	Disfunción ventricular severa
+T86	DISEASE 3919 3930	miocarditis
+T87	DISEASE 4157 4168	miocarditis
+T88	DISEASE 4171 4192	cardiopatía isquémica
+T89	DISEASE 4539 4558	pielonefritis aguda
+T90	DISEASE 5076 5094	crisis de ansiedad
+T91	DISEASE 5469 5494	derrame pleural bilateral
+T92	DISEASE 5573 5598	derrame pleural bilateral
+T93	DISEASE 5914 5933	acidosis metabólica
+T94	DISEASE 6512 6539	disfunción sistólica severa
+T95	DISEASE 6678 6696	shock cardiogénico
+T96	DISEASE 6902 6913	miocarditis
+T97	DISEASE 6914 6935	cardiopatía isquémica
+T98	DISEASE 7153 7178	miocardiopatía peripartum
+T99	DISEASE 7194 7219	sepsis de origen urinario
+T100	DISEASE 7396 7421	derrame pleural bilateral
+T101	DISEASE 8189 8203	hiperpotasemia
+T102	DISEASE 8499 8530	insuficiencia suprarrenal aguda
+T103	DISEASE 8655 8686	insuficiencia suprarrenal aguda
+T104	DISEASE 8722 8737	sepsis urinaria
+T105	DISEASE 8740 8758	shock cardiogénico
+T106	DISEASE 9394 9446	insuficiencia suprarrenal aguda de origen autoinmune
+T107	DISEASE 9541 9577	Sepsis urinaria por Escherichia Coli
+T108	DISEASE 9578 9596	Shock cardiogénico
+T109	DISEASE 9659 9709	Insuficiencia suprarrenal aguda-crisis addisoniana
+T110	DISEASE 138 153	hábitos tóxicos
+T111	DISEASE 2653 2659	BIRDHH
+T112	DISEASE 3512 3541	ventrículo izquierdo dilatado
+T113	DISEASE 3614 3625	IM moderada
+T114	DISEASE 3709 3749	miocardio con leves rasgos hipertróficos
+T115	DISEASE 4010 4049	Disfunción severa ventricular izquierda
+T116	DISEASE 4076 4097	edema intramiocárdico
+T118	DISEASE 5851 5876	claudicación respiratoria
+T119	DISEASE 6050 6061	hipotensión
+T120	DISEASE 6250 6271	edema agudo de pulmón
+T121	DISEASE 7864 7875	hipotensión
+T36	DISEASE 3038 3069	dilatación del sistema excretor
+T55	DISEASE 3106 3126	atelectasia pulmonar
+T69	DISEASE 5947 5984	sepsis de origen urinario por E. Coli
+T117	DISEASE 6564 6587	dilatación de cavidades
+T164	DISEASE 9601 9626	miocardiopatía peripartum
+T165	DISEASE 9631 9658	disfunción sistólica severa
+T166	DISEASE 8763 8788	miocardiopatía peripartum
+#1	AnnotatorNotes T111	 BIRDHH Bloqueo incompleto rama derecha Haz de Hiz
+#2	AnnotatorNotes T113	 IM insuficiencia mitral

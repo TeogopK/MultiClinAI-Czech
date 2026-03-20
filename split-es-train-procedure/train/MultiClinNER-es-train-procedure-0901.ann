@@ -1,0 +1,39 @@
+T42	PROCEDURE 4574 4608	Se administra ácido gadotérico i.v
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 275 318	sustitución valvular por prótesis biológica
+T55	PROCEDURE 466 494	sustitución valvular aórtica
+T56	PROCEDURE 496 518	artroplastia de hombro
+T57	PROCEDURE 520 534	amigdalectomía
+T58	PROCEDURE 536 557	herniorrafia inguinal
+T59	PROCEDURE 1120 1138	prueba de esfuerzo
+T60	PROCEDURE 1217 1271	resonancia magnética cardiaca (RMC) cardiaca de estrés
+T61	PROCEDURE 1248 1251	RMC
+T62	PROCEDURE 1274 1292	Exploración física
+T63	PROCEDURE 1400 1421	Auscultación cardiaca
+T64	PROCEDURE 1482 1503	Auscultación pulmonar
+T65	PROCEDURE 1715 1718	ECG
+T66	PROCEDURE 2382 2402	Radiografía de tórax
+T67	PROCEDURE 2467 2495	Ecocardiograma transtorácico
+T68	PROCEDURE 3140 3172	intervención quirúrgica cardiaca
+T70	PROCEDURE 3341 3359	Prueba de esfuerzo
+T72	PROCEDURE 3633 3646	RMC de estrés
+T73	PROCEDURE 4497 4500	ECG
+T74	PROCEDURE 4918 4924	PET-TC
+T75	PROCEDURE 5768 5780	esternotomía
+T76	PROCEDURE 7040 7068	ecocardiograma transtorácico
+T77	PROCEDURE 7311 7338	retirada de betabloqueantes
+T78	PROCEDURE 7453 7466	RMC de estrés
+T79	PROCEDURE 7565 7578	RMC de estrés
+T80	PROCEDURE 8020 8043	tratamiento antibiótico
+T81	PROCEDURE 8201 8213	hemocultivos
+T82	PROCEDURE 8216 8243	serología para endocarditis
+T83	PROCEDURE 8314 8320	PET-TC
+T85	PROCEDURE 8919 8942	tratamiento antibiótico
+T87	PROCEDURE 9402 9428	tratamiento hipolipemiante
+T88	PROCEDURE 9511 9525	antibioterapia
+T89	PROCEDURE 9543 9549	PET-TC
+T90	PROCEDURE 9777 9788	antibiótico
+T28	PROCEDURE 4354 4393	Provocación de isquemia con Regadenoson
+T149	PROCEDURE 1902 1911	Analítica
+T157	PROCEDURE 438 464	Intervenciones quirúrgicas
+T190	PROCEDURE 9228 9245	pauta antibiótica

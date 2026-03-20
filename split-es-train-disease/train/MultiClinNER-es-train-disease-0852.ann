@@ -1,0 +1,31 @@
+T4	DISEASE 2971 3025	movimientos tónico-clónicos de las cuatro extremidades
+T21	DISEASE 87 98	dislipémico
+T22	DISEASE 104 127	miocardiopatía dilatada
+T23	DISEASE 145 174	disfunción ventricular severa
+T24	DISEASE 383 406	miocardiopatía dilatada
+T25	DISEASE 431 457	trastorno de la conducción
+T26	DISEASE 460 483	arritmias ventriculares
+T27	DISEASE 668 718	válvula aórtica bicúspide con insuficiencia severa
+T28	DISEASE 776 798	insuficiencia cardiaca
+T29	DISEASE 847 880	disfunción sistólica severa de VI
+T30	DISEASE 1688 1707	déficit neurológico
+T31	DISEASE 2617 2630	valvulopatías
+T32	DISEASE 2634 2653	derrame pericárdico
+T33	DISEASE 4458 4583	lesiones hipodensas temporales posteriores y parieto-occipitales, así como frontal derecha y en ambos hemisferios cerebelosos
+T34	DISEASE 5224 5270	síndrome de encefalopatía posterior reversible
+T35	DISEASE 5272 5276	PRES
+T36	DISEASE 5995 6012	crisis comiciales
+T37	DISEASE 6289 6335	Síndrome de encefalopatía posterior reversible
+T38	DISEASE 6398 6434	Crisis tónico-clónicas generalizadas
+T39	DISEASE 6526 6549	miocardiopatía dilatada
+T40	DISEASE 6616 6627	laminopatía
+T41	DISEASE 1147 1203	descompensaciones cada vez más frecuentes por bajo gasto
+T42	DISEASE 4654 4828	edema vasogénico que afecta de manera simétrica a la sustancia blanca subcortical de la práctica totalidad de ambos lóbulos occipitales y regiones occipito-parieto-temporales
+T43	DISEASE 6337 6341	pres
+T94	DISEASE 933 957	descompensaciones graves
+T98	DISEASE 3199 3218	crisis generalizada
+T102	DISEASE 5079 5085	crisis
+T104	DISEASE 5511 5529	episodios críticos
+T106	DISEASE 6567 6606	disfunción ventricular izquierda severa
+#1	AnnotatorNotes T35	 síndrome de encefalopatía posterior reversible
+#2	AnnotatorNotes T43	 síndrome de encefalopatía posterior reversible

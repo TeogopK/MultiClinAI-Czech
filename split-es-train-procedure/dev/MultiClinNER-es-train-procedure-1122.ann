@@ -1,0 +1,33 @@
+T51	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T52	PROCEDURE 667 685	Exploración física
+T53	PROCEDURE 954 975	Reflejo hepatoyugular
+T54	PROCEDURE 986 1007	Auscultación cardiaca
+T55	PROCEDURE 1036 1057	Auscultación pulmonar
+T56	PROCEDURE 1223 1226	ECG
+T57	PROCEDURE 1229 1232	ECG
+T58	PROCEDURE 1382 1385	ECG
+T59	PROCEDURE 2021 2042	RT-PCR para SARS-CoV2
+T60	PROCEDURE 2054 2074	Radiografía de tórax
+T61	PROCEDURE 2223 2276	Ecocardiograma transtorácico: Ecocardiograma portátil
+T63	PROCEDURE 2704 2718	Ecocardiograma
+T64	PROCEDURE 2806 2818	Hemodinámica
+T65	PROCEDURE 2820 2835	Coronariografía
+T66	PROCEDURE 3399 3410	cateterismo
+T67	PROCEDURE 3651 3659	Angio-TC
+T68	PROCEDURE 4197 4212	Coronariografía
+T69	PROCEDURE 5290 5308	electrocardiograma
+T70	PROCEDURE 5434 5461	coronariografía diagnóstica
+T71	PROCEDURE 5683 5703	doble antiagregación
+T72	PROCEDURE 5706 5721	anticoagulación
+T74	PROCEDURE 6244 6259	coronariografía
+T75	PROCEDURE 6586 6606	electrocardiográfica
+T76	PROCEDURE 6675 6695	doble antiagregación
+T77	PROCEDURE 7010 7018	angio-TC
+T78	PROCEDURE 7102 7104	TC
+T79	PROCEDURE 7433 7452	betabloqueante oral
+T122	PROCEDURE 1862 1894	Biomarcadores de daño miocárdico
+T129	PROCEDURE 1624 1633	Analítica
+T133	PROCEDURE 1202 1221	Electrocardiogramas
+T143	PROCEDURE 5872 5904	biomarcadores de daño miocárdico
+T144	PROCEDURE 6541 6573	biomarcadores de daño miocárdico
+T158	PROCEDURE 7491 7499	nitratos

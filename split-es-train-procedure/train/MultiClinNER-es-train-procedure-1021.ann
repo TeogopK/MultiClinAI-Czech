@@ -1,0 +1,36 @@
+T107	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T108	PROCEDURE 581 599	indicación de CPAP
+T109	PROCEDURE 601 629	Intervenido del canal lumbar
+T110	PROCEDURE 751 780	resección de pólipos de colon
+T111	PROCEDURE 945 960	coronariografía
+T112	PROCEDURE 974 1002	revascularización quirúrgica
+T113	PROCEDURE 1012 1127	doblebypass: arteria mamaria interna (AMI) a arteria descendente anterior (ADA) y vena safena a arteria circunfleja
+T114	PROCEDURE 1364 1392	ecocardiograma transtorácico
+T115	PROCEDURE 1434 1449	coronariografía
+T116	PROCEDURE 1726 1760	ablación del istmo cavotricuspídeo
+T117	PROCEDURE 1762 1789	Implante de DAI monocameral
+T118	PROCEDURE 1947 1962	coronariografía
+T119	PROCEDURE 2547 2565	exploración física
+T120	PROCEDURE 2867 2879	auscultación
+T121	PROCEDURE 5578 5596	Electrocardiograma
+T122	PROCEDURE 5787 5807	Radiografía de tórax
+T123	PROCEDURE 5959 5987	Ecocardiograma transtorácico
+T124	PROCEDURE 6851 6875	medicación neurohormonal
+T125	PROCEDURE 7183 7222	antagonista receptor mineralocorticoide
+T126	PROCEDURE 7296 7316	anticoagulación oral
+T127	PROCEDURE 7350 7376	tratamiento hipolipemiante
+T128	PROCEDURE 8698 8710	auscultación
+T130	PROCEDURE 11070 11135	revascularizada quirúrgicamente: bypass de AMI-ADA y safena a ACx
+T132	PROCEDURE 11137 11153	Coronariografías
+T133	PROCEDURE 11351 11368	revascularización
+T166	PROCEDURE 6953 6967	betabloqueante
+T169	PROCEDURE 9342 9347	renal
+T23	PROCEDURE 7224 7227	ARM
+T193	PROCEDURE 3555 3564	Analítica
+T194	PROCEDURE 4365 4374	Analítica
+T195	PROCEDURE 4974 4983	Analítica
+T220	PROCEDURE 10493 10502	analítica
+T229	PROCEDURE 7861 7870	diurético
+T41	PROCEDURE 660 702	electroestimulador de cordones posteriores
+T178	PROCEDURE 1479 1493	bypass AMI-ADA
+#9	AnnotatorNotes T23	Antagonista receptor mineralocortecoide

@@ -1,0 +1,14 @@
+T1	PROCEDURE 511 532	auscultación cardiaca
+T2	PROCEDURE 662 683	auscultación pulmonar
+T3	PROCEDURE 920 923	ECG
+T4	PROCEDURE 943 963	radiografía de tórax
+T5	PROCEDURE 1172 1186	ecocardiograma
+T6	PROCEDURE 1391 1411	cateterismo cardiaco
+T7	PROCEDURE 111 128	broncodilatadores
+T8	PROCEDURE 1610 1620	histología
+T9	PROCEDURE 301 310	anamnesis
+T10	PROCEDURE 875 898	biomarcadores cardiacos
+T11	PROCEDURE 791 800	analítica
+T12	PROCEDURE 1460 1477	angiográficamente
+T13	PROCEDURE 1649 1661	intervención
+T14	PROCEDURE 1546 1573	intervenida quirúrgicamente

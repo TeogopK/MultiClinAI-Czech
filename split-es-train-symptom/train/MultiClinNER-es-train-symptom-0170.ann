@@ -1,0 +1,19 @@
+T1	SYMPTOM 1472 1478	febril
+T2	SYMPTOM 124 130	fiebre
+T3	SYMPTOM 146 167	rechazo de la ingesta
+T4	SYMPTOM 170 177	vómitos
+T5	SYMPTOM 364 382	hiperemia faríngea
+T6	SYMPTOM 1754 1766	asintomática
+T7	SYMPTOM 448 490	velocidad de sedimentación globular normal
+T8	SYMPTOM 527 630	sodio, potasio, cloro, magnesio, calcio (Ca), fósforo (P), bilirrubina, proteínas y gasometría normales
+T9	SYMPTOM 636 686	cultivos de sangre, orina y heces fueron negativos
+T10	SYMPTOM 695 739	frotis faríngeo se aisló Parainfuenzavirus 3
+T11	SYMPTOM 1362 1412	(GGT, isoenzimas de FA, vitamina D y PTH) normales
+T12	SYMPTOM 1773 1812	exploración física rigurosamente normal
+T13	SYMPTOM 1287 1302	elevación de FA
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T10
+A5	RESULTADO T11
+A6	RESULTADO T13

@@ -1,0 +1,16 @@
+T14	PROCEDURE 171 182	examination
+T6	PROCEDURE 334 344	local cold
+T13	PROCEDURE 349 376	anti-inflammatory treatment
+T7	PROCEDURE 562 582	Physical examination
+T20	PROCEDURE 761 772	blood tests
+T8	PROCEDURE 790 815	cerebrospinal fluid study
+T9	PROCEDURE 898 918	electroencephalogram
+T10	PROCEDURE 949 966	evoked potentials
+T11	PROCEDURE 1145 1159	Electromyogram
+T12	PROCEDURE 1324 1369	Magnetic resonance imaging (MRI) of the brain
+T15	PROCEDURE 1352 1355	MRI
+T3	PROCEDURE 1391 1401	spinal MRI
+T1	PROCEDURE 1779 1788	brain MRI
+T4	PROCEDURE 1839 1849	spinal MRI
+T5	PROCEDURE 2286 2300	plasmapheresis
+T2	PROCEDURE 2470 2484	corticotherapy

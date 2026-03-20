@@ -1,0 +1,18 @@
+T2	DISEASE 61 73	exalcohólico
+T3	DISEASE 75 84	exfumador
+T4	DISEASE 86 125	enfermedad pulmonar obstructiva crónica
+T6	DISEASE 127 131	EPOC
+T7	DISEASE 149 203	incapacidad respiratoria de tipo mixto moderado-severo
+T9	DISEASE 205 216	hepatopatía
+T10	DISEASE 218 230	poliartrosis
+T11	DISEASE 232 253	polimialgia reumática
+T12	DISEASE 256 273	esófago de Barret
+T14	DISEASE 343 380	aplastamiento osteoporótico vertebral
+T17	DISEASE 561 601	síndrome de lesión medular transversa D4
+T21	DISEASE 883 956	herida abierta, infectada y esfacelada en la región vertebral dorsal alta
+T23	DISEASE 1059 1073	lesión medular
+T24	DISEASE 1146 1152	herida
+T34	DISEASE 2102 2111	infección
+T28	DISEASE 1572 1617	iatrogénica una congestión venosa del colgajo
+T39	DISEASE 2014 2020	herida
+T1	DISEASE 743 759	lesión vertebral

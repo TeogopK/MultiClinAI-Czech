@@ -1,0 +1,7 @@
+T1	PROCEDURE 640 655	cranial CT scan
+T2	PROCEDURE 663 694	extracranial Doppler ultrasound
+T3	PROCEDURE 751 813	cranial magnetic resonance imaging (MRI) of the cervical spine
+T12	PROCEDURE 821 882	angio-MRI of the supra-aortic trunks and intracranial vessels
+T14	PROCEDURE 1229 1249	antiplatelet therapy
+T5	PROCEDURE 1324 1334	ultrasound
+T6	PROCEDURE 1338 1355	caesarean section

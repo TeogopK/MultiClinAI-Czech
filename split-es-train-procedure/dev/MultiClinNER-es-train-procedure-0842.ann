@@ -1,0 +1,54 @@
+T38	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T39	PROCEDURE 269 286	revascularización
+T41	PROCEDURE 478 493	coronariografía
+T42	PROCEDURE 533 548	coronariografía
+T43	PROCEDURE 733 747	ecocardiograma
+T44	PROCEDURE 780 808	revascularización quirúrgica
+T45	PROCEDURE 813 931	bypass de arteria mamaria interna a descendente anterior, safena a 1a obtusa marginal y safena a descendente posterior
+T46	PROCEDURE 958 995	implante de desfibrilador monocameral
+T47	PROCEDURE 1676 1694	exploración física
+T48	PROCEDURE 2164 2184	radiografía de tórax
+T49	PROCEDURE 2186 2204	electrocardiograma
+T50	PROCEDURE 2206 2225	analítica de sangre
+T51	PROCEDURE 2369 2396	ecocardiograma trastorácico
+T52	PROCEDURE 2545 2565	Radiografía de tórax
+T53	PROCEDURE 2713 2731	Electrocardiograma
+T54	PROCEDURE 4062 4077	Coronariografía
+T55	PROCEDURE 4684 4699	Adenosina SPECT
+T56	PROCEDURE 5391 5406	coronariografía
+T57	PROCEDURE 5708 5736	test de viabilidad con SPECT
+T58	PROCEDURE 6036 6051	insulinoterapia
+T59	PROCEDURE 6161 6188	terapia de resincronización
+T60	PROCEDURE 6224 6234	venografía
+T61	PROCEDURE 6508 6520	angioplastia
+T62	PROCEDURE 6560 6625	terapia de resincronización cardiaca mediante abordaje percutáneo
+T63	PROCEDURE 6973 6992	trasplante cardiaco
+T64	PROCEDURE 7002 7021	cateterismo derecho
+T65	PROCEDURE 7119 7135	ergoespirometría
+T66	PROCEDURE 7311 7330	trasplante cardiaco
+T67	PROCEDURE 7799 7809	diuréticos
+T68	PROCEDURE 7834 7861	terapia de resincronización
+T69	PROCEDURE 7944 8006	implantación de electrodo en epicardio de ventrículo izquierdo
+T70	PROCEDURE 8016 8032	cirugía cardiaca
+T71	PROCEDURE 8336 8353	reparación mitral
+T72	PROCEDURE 8362 8378	bypass coronario
+T73	PROCEDURE 8508 8529	implante de Mitraclip
+T102	PROCEDURE 3212 3239	Ecocardiograma trastorácico
+T104	PROCEDURE 2995 3006	coagulación
+T105	PROCEDURE 2258 2271	función renal
+T106	PROCEDURE 7616 7629	función renal
+T107	PROCEDURE 2297 2302	iones
+T108	PROCEDURE 7632 7637	iones
+T109	PROCEDURE 2332 2355	biomarcadores cardiacos
+T110	PROCEDURE 5202 5219	antialdosterónico
+T112	PROCEDURE 8998 9073	bypass de mamaria a descendente anterior y safena a primera obtusa marginal
+T113	PROCEDURE 8244 8275	bypass safena-coronaria derecha
+T114	PROCEDURE 5531 5570	bypass de safena a la coronaria derecha
+T115	PROCEDURE 5418 5491	bypass de mamaria a descendente anterior y de safena a 1a obtusa marginal
+T118	PROCEDURE 8959 8995	bypass de safena a coronaria derecha
+T173	PROCEDURE 2892 2901	Analítica
+T213	PROCEDURE 5000 5043	perfusión de furosemida y de nitroglicerina
+T40	PROCEDURE 431 461	IAM anteroseptal fibrinolisado
+T125	PROCEDURE 4323 4371	bypass de mamaria interna a descendente anterior
+T126	PROCEDURE 4520 4536	bypass de safena
+T176	PROCEDURE 6805 6814	diurético

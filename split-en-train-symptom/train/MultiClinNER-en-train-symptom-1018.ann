@@ -1,0 +1,57 @@
+T1	SYMPTOM 282 293	lumbar pain
+T3	SYMPTOM 567 571	pain
+T4	SYMPTOM 774 778	pain
+T10	SYMPTOM 677 697	progressive dyspnoea
+T11	SYMPTOM 985 990	fever
+T12	SYMPTOM 6968 6973	fever
+T13	SYMPTOM 8347 8352	fever
+T14	SYMPTOM 8759 8764	fever
+T15	SYMPTOM 1290 1308	tachypneic at rest
+T16	SYMPTOM 1310 1330	Mucocutaneous pallor
+T17	SYMPTOM 1332 1353	Jugular ingurgitation
+T18	SYMPTOM 1358 1387	positive hepatojugular reflux
+T19	SYMPTOM 1411 1432	rhythmic heart sounds
+T20	SYMPTOM 1437 1444	murmurs
+T21	SYMPTOM 1448 1468	pericardial friction
+T22	SYMPTOM 1651 1668	abdominal defence
+T23	SYMPTOM 1678 1699	preserved peristalsis
+T24	SYMPTOM 1740 1761	peritoneal irritation
+T25	SYMPTOM 1776 1813	bilateral tibial and malleolar oedema
+T27	SYMPTOM 2438 2474	Leukocytes 15,700 μl with left shift
+T28	SYMPTOM 2600 2617	sinus tachycardia
+T29	SYMPTOM 3985 4002	sinus tachycardia
+T30	SYMPTOM 2680 2690	Narrow QRS
+T31	SYMPTOM 2692 2754	Concave inframilimetric ST elevation in V3-V6, DI, DII and aVF
+T32	SYMPTOM 2877 2909	Normal pulmonary vascularisation
+T33	SYMPTOM 2997 3053	SARS-CoV-2 serology on admission: Ig G and Ig M positive
+T34	SYMPTOM 3833 3862	Normal biventricular function
+T35	SYMPTOM 4937 4987	respirophasic variations in suprahepatic vein flow
+T36	SYMPTOM 4994 5030	reverse diastolic flow in expiration
+T37	SYMPTOM 5154 5175	Estimated normal PSAP
+T38	SYMPTOM 6789 6823	elevation of acute phase reactants
+T39	SYMPTOM 8563 8586	haemodynamic compromise
+T40	SYMPTOM 4004 4021	Hyperdynamic LVEF
+T41	SYMPTOM 4023 4069	Paradoxical septal motion with diastolic notch
+T42	SYMPTOM 4138 4161	Slightly depressed RVEF
+T43	SYMPTOM 4832 4883	protodiastolic notch of the interventricular septum
+T2	SYMPTOM 716 741	central thoracic pressure
+T55	SYMPTOM 845 872	swelling of the lower limbs
+T56	SYMPTOM 877 906	increased abdominal perimeter
+T57	SYMPTOM 994 1013	dysthermic sensatio
+T5	SYMPTOM 1016 1052	Pain with mechanical characteristics
+T58	SYMPTOM 1266 1288	General condition fair
+T59	SYMPTOM 1590 1641	painful in the mesogastrium and right hypochondrium
+T6	SYMPTOM 1859 1898	Pain on mobilisation of the lower limbs
+T26	SYMPTOM 1904 1927	positive Lasegue's sign
+T7	SYMPTOM 1929 1982	Pain on palpation in the spinous processes of L2- L4.
+T60	SYMPTOM 2630 2678	Slightly lowered PR in inferior and lateral face
+T61	SYMPTOM 2765 2799	acute repolarisation abnormalities
+T62	SYMPTOM 3055 3140	Blood cultures on admission: positive for methicillin-sensitive Staphylococcus aureus
+T63	SYMPTOM 3867 3899	valvular alterations of interest
+T64	SYMPTOM 4104 4137	Right ventricle (RV) not dilated.
+T65	SYMPTOM 5060 5125	Control echocardiogram: biventricular systolic function preserved
+T8	SYMPTOM 6748 6769	central thoracic pain
+T66	SYMPTOM 7165 7201	Blood cultures showed growth of SAMS
+T9	SYMPTOM 7343 7382	Pericardial fluid cultures were sterile
+T67	SYMPTOM 7849 7921	pain in the upper lumbar region, both shoulders and left lower extremity
+T68	SYMPTOM 8438 8482	SAMS was again isolated in the fluid culture

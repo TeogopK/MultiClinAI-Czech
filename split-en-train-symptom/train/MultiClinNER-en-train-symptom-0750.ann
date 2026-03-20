@@ -1,0 +1,29 @@
+T1	SYMPTOM 89 98	dry cough
+T21	SYMPTOM 100 133	dyspnoea of progressive intensity
+T2	SYMPTOM 135 140	fever
+T3	SYMPTOM 142 150	asthenia
+T4	SYMPTOM 152 160	anorexia
+T5	SYMPTOM 162 168	nausea
+T13	SYMPTOM 173 181	vomiting
+T6	SYMPTOM 325 333	cachexia
+T7	SYMPTOM 384 390	thrush
+T11	SYMPTOM 392 404	acropacities
+T8	SYMPTOM 488 528	Generalised decrease in vesicular murmur
+T14	SYMPTOM 533 549	bibasal crackles
+T32	SYMPTOM 551 582	systolic murmur II/VI polyfocal
+T20	SYMPTOM 664 713	somatic and neurological examinations were normal
+T9	SYMPTOM 1063 1088	anterior mediastinal mass
+T10	SYMPTOM 1134 1176	bilateral alveolar-interstitial infiltrate
+T12	SYMPTOM 1347 1363	mediastinal mass
+T38	SYMPTOM 1424 1454	pulmonary interstitial pattern
+T22	SYMPTOM 1459 1505	thickening of the wall of the intestinal loops
+T23	SYMPTOM 1489 1539	intestinal loops with a small amount of free fluid
+T39	SYMPTOM 1529 1539	free fluid
+T24	SYMPTOM 1556 1630	transthoracic echocardiogram was performed and no abnormalities were found
+T25	SYMPTOM 2049 2165	thick-walled mass with a hypodense centre measuring 4 cm in diameter at the right temporo-parieto-occipital junction
+T18	SYMPTOM 2616 2640	normal alpha-fetoprotein
+T15	SYMPTOM 2677 2814	Microbiological studies on blood, urine, sputum, brocoaspirate and lymph node puncture were negative for bacteria, mycobacteria and fungi
+T26	SYMPTOM 2816 2889	Staining of respiratory samples was negative for P. carinii (P. jiroveci)
+T17	SYMPTOM 2891 2960	Serologies for Toxoplasma, hepatotropic viruses and RPR were negative
+T16	SYMPTOM 2962 2995	cryptococcal antigen was negative
+T19	SYMPTOM 3696 3700	died

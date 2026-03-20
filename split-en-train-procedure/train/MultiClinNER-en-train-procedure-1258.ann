@@ -1,0 +1,34 @@
+T54	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T52	PROCEDURE 207 221	revascularised
+T53	PROCEDURE 290 304	anticoagulated
+T55	PROCEDURE 1006 1026	PHYSICAL EXAMINATION
+T56	PROCEDURE 1122 1142	Cardiac auscultation
+T57	PROCEDURE 1227 1249	Pulmonary auscultation
+T58	PROCEDURE 1765 1782	electrocardiogram
+T59	PROCEDURE 1784 1787	ECG
+T60	PROCEDURE 1879 1909	Transthoracic echocardiography
+T61	PROCEDURE 2535 2567	Transesophageal echocardiography
+T68	PROCEDURE 3081 3096	cardiac surgery
+T62	PROCEDURE 3168 3200	Transesophageal echocardiography
+T70	PROCEDURE 3220 3235	surgical repair
+T82	PROCEDURE 3473 3493	percutaneous closure
+T71	PROCEDURE 3473 3563	percutaneous closure of periprosthetic leak with retrograde transfemoral arterial approach
+T63	PROCEDURE 3565 3597	Transesophageal echocardiography
+T64	PROCEDURE 3964 3996	transesophageal echocardiography
+T72	PROCEDURE 4085 4105	Coronary angiography
+T73	PROCEDURE 4168 4177	diuretics
+T74	PROCEDURE 4231 4269	closure of the leak with four stitches
+T75	PROCEDURE 4293 4323	postoperative echocardiography
+T76	PROCEDURE 4486 4498	transfusions
+T65	PROCEDURE 4500 4532	Transesophageal echocardiography
+T69	PROCEDURE 4796 4811	cardiac surgery
+T83	PROCEDURE 4842 4862	percutaneous closure
+T77	PROCEDURE 4956 4992	implantation of the Amplatzer device
+T78	PROCEDURE 5712 5724	thoracostomy
+T79	PROCEDURE 5729 5744	apical puncture
+T85	PROCEDURE 5808 5856	A rectangular Occlutech PDL device was implanted
+T66	PROCEDURE 5891 5923	transesophageal echocardiography
+T67	PROCEDURE 5942 5974	transesophageal echocardiography
+T80	PROCEDURE 6259 6285	surgical revascularisation
+T81	PROCEDURE 6522 6537	surgical suture
+T84	PROCEDURE 6542 6562	percutaneous closure

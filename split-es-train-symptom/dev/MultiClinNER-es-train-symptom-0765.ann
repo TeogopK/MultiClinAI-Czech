@@ -1,0 +1,39 @@
+T1	SYMPTOM 412 421	dorsalgia
+T2	SYMPTOM 844 898	disnea que progresa hasta hacerse de mínimos esfuerzos
+T3	SYMPTOM 903 911	ortopnea
+T4	SYMPTOM 913 940	disnea paroxística nocturna
+T5	SYMPTOM 942 945	DPN
+T6	SYMPTOM 948 979	tos con expectoración purulenta
+T8	SYMPTOM 981 1004	disminución de diuresis
+T9	SYMPTOM 1007 1027	sensación distérmica
+T10	SYMPTOM 1177 1196	Buen estado general
+T11	SYMPTOM 1202 1223	ingurgitación yugular
+T12	SYMPTOM 1248 1263	ruidos rítmicos
+T13	SYMPTOM 1268 1316	soplo sistólico intensidad II/VI en foco aórtico
+T14	SYMPTOM 1318 1367	Auscultación pulmonar: ruidos disminuidos en base
+T15	SYMPTOM 1386 1409	crepitantes bilaterales
+T16	SYMPTOM 1411 1434	Extremidades sin edemas
+T17	SYMPTOM 1859 1889	antígeno de neumococo positivo
+T18	SYMPTOM 1948 1972	PCR SARS-CoV-2: negativa
+T19	SYMPTOM 2007 2030	silueta cardiaca normal
+T20	SYMPTOM 2040 2071	infiltrado intersticial en base
+T21	SYMPTOM 2112 2125	ritmo sinusal
+T22	SYMPTOM 2136 2145	PR normal
+T26	SYMPTOM 3328 3393	Ventrículo derecho de dimensiones y función sistólica conservadas
+T30	SYMPTOM 5257 5260	tos
+T31	SYMPTOM 5291 5297	disnea
+T32	SYMPTOM 5299 5307	ortopnea
+T33	SYMPTOM 5324 5352	edema en miembros inferiores
+T34	SYMPTOM 5487 5509	elevación de NT-proBNP
+T35	SYMPTOM 5752 5758	mareos
+T36	SYMPTOM 5773 5801	edema en miembros inferiores
+T119	SYMPTOM 1891 1946	antígeno de Legionella pneumophila serogrupo 1 negativo
+T25	SYMPTOM 3834 3866	Ventrículo izquierdo no dilatado
+T27	SYMPTOM 6412 6460	tinción rojo Congo fue negativa para amiloidosis
+T148	SYMPTOM 3144 3185	defectos de la contractilidad segmentaria
+T38	SYMPTOM 4763 4782	rojo Congo negativo
+T124	SYMPTOM 3007 3054	ventrículo izquierdo de dimensiones conservadas
+T125	SYMPTOM 4398 4425	jet de aceleración del TSVI
+T129	SYMPTOM 4808 4827	rojo Congo negativo
+T39	SYMPTOM 6279 6376	proteinograma e inmunofijación en sangre y orina que detectó componente monoclonal tipo IgA kappa
+T81	SYMPTOM 6849 6864	FEVI conservada

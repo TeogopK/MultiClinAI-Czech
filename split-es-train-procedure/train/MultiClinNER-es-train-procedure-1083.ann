@@ -1,0 +1,35 @@
+T71	PROCEDURE 1093 1121	ecocardiograma transtorácico
+T72	PROCEDURE 1334 1345	cateterismo
+T73	PROCEDURE 1348 1366	Exploración física
+T74	PROCEDURE 1553 1574	Auscultación cardiaca
+T75	PROCEDURE 1597 1618	Auscultación pulmonar
+T76	PROCEDURE 1809 1827	Electrocardiograma
+T77	PROCEDURE 1829 1832	ECG
+T78	PROCEDURE 2402 2422	Radiografía de tórax
+T79	PROCEDURE 2491 2505	Ecocardiograma
+T80	PROCEDURE 2704 2719	Coronariografía
+T81	PROCEDURE 2869 2902	intervención coronaria percutánea
+T82	PROCEDURE 2904 2907	ICP
+T83	PROCEDURE 2911 2947	implante de dosstents farmacoactivos
+T84	PROCEDURE 3017 3092	primera obtusa marginal (OM1) tratada con implante de unstent farmacoactivo
+T85	PROCEDURE 3154 3169	Coronariografía
+T86	PROCEDURE 3204 3254	Cx con nuevo implante de dos stents farmacoactivos
+T87	PROCEDURE 3256 3270	Ecocardiograma
+T88	PROCEDURE 3801 3839	revascularización coronaria percutánea
+T89	PROCEDURE 3847 3862	coronariografía
+T90	PROCEDURE 4068 4096	revascularización de DA y Cx
+T91	PROCEDURE 4349 4387	oxigenoterapia con gafas de alto flujo
+T92	PROCEDURE 4804 4819	coronariografía
+T93	PROCEDURE 4945 4966	terapia antiagregante
+T94	PROCEDURE 5197 5226	triple terapia antitrombótica
+T95	PROCEDURE 5662 5682	Cateterismo cardiaco
+T96	PROCEDURE 5732 5771	Revascularización percutánea de DA y Cx
+T120	PROCEDURE 3485 3496	Cateterismo
+T121	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T124	PROCEDURE 5146 5159	función renal
+T125	PROCEDURE 4476 4489	función renal
+T130	PROCEDURE 1979 1988	Analítica
+T153	PROCEDURE 4389 4428	perfusión de furosemida y noradrenalina
+T131	PROCEDURE 4845 4891	trombosis de stent de Cx, que se revasculariza
+T132	PROCEDURE 4910 4932	perfusión de cangrelor
+#2	AnnotatorNotes T82	 Intervención coronaria percutánea

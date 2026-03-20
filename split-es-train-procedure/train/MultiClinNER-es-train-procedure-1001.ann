@@ -1,0 +1,61 @@
+T103	PROCEDURE 627 700	tratamiento inmunosupresor, hemorreológicos y con antagonistas del calcio
+T104	PROCEDURE 1383 1401	electrocardiograma
+T105	PROCEDURE 1403 1406	ECG
+T106	PROCEDURE 1519 1539	sedación superficial
+T107	PROCEDURE 1541 1576	implante de marcapasos transcutáneo
+T108	PROCEDURE 1758 1761	ECG
+T109	PROCEDURE 1888 1898	telemetría
+T110	PROCEDURE 2053 2071	Exploración física
+T111	PROCEDURE 2392 2415	Exploración neurológica
+T112	PROCEDURE 2459 2481	Auscultación carotídea
+T113	PROCEDURE 2554 2575	Auscultación pulmonar
+T114	PROCEDURE 3319 3346	pruebas de función hepática
+T115	PROCEDURE 3467 3486	Gasometría arterial
+T116	PROCEDURE 3656 3665	Hemograma
+T117	PROCEDURE 3807 3829	Estudio de coagulación
+T118	PROCEDURE 4306 4326	Electroforesis orina
+T119	PROCEDURE 4426 4446	Inmunofijación orina
+T120	PROCEDURE 4485 4488	ECG
+T121	PROCEDURE 4657 4660	ECG
+T122	PROCEDURE 4757 4760	ECG
+T123	PROCEDURE 5005 5008	ECG
+T124	PROCEDURE 5130 5150	Radiografía de tórax
+T125	PROCEDURE 5333 5353	Radiografía de tórax
+T126	PROCEDURE 5615 5635	Radiografía de tórax
+T127	PROCEDURE 5905 5933	Ecocardiograma transtorácico
+T128	PROCEDURE 5935 5938	ETT
+T129	PROCEDURE 6346 6359	Eco abdominal
+T130	PROCEDURE 6432 6443	TC de tórax
+T131	PROCEDURE 6833 6848	Coronariografía
+T132	PROCEDURE 6989 7002	Biopsia renal
+T133	PROCEDURE 8049 8103	implante de marcapasos provisional vía yugular derecha
+T134	PROCEDURE 8202 8212	telemetría
+T135	PROCEDURE 8244 8254	gasometría
+T136	PROCEDURE 8373 8402	Ecocardiografía transtorácica
+T137	PROCEDURE 8404 8407	ETT
+T138	PROCEDURE 9268 9301	ventilación no invasiva con BIPAP
+T139	PROCEDURE 9303 9324	tratamiento diurético
+T140	PROCEDURE 9336 9357	nitratos intravenosos
+T141	PROCEDURE 9376 9393	antihipertensivos
+T142	PROCEDURE 9496 9499	ETT
+T143	PROCEDURE 9645 9678	se retira ventilación no invasiva
+T144	PROCEDURE 9691 9712	tratamiento diurético
+T145	PROCEDURE 10645 10686	catéter femoral derecho para hemodiálisis
+T147	PROCEDURE 10714 10727	biopsia renal
+T148	PROCEDURE 10912 10956	Se colocó catéter tunelizado yugular derecho
+T149	PROCEDURE 11037 11049	hemodiálisis
+T150	PROCEDURE 11153 11165	hemodiálisis
+T168	PROCEDURE 3951 3964	Autoinmunidad
+T169	PROCEDURE 4151 4161	Serologías
+T170	PROCEDURE 4895 4905	Telemetría
+T171	PROCEDURE 8817 8831	monitorización
+T173	PROCEDURE 136 173	tratamiento con antidiabéticos orales
+T174	PROCEDURE 2494 2514	uscultación cardiaca
+T175	PROCEDURE 2920 2930	Bioquímica
+T176	PROCEDURE 3438 3456	Hormonas tiroideas
+T177	PROCEDURE 3876 3892	Inmunoglobulinas
+T178	PROCEDURE 4201 4219	sedimento de orina
+T179	PROCEDURE 7661 7679	Inmunoflorescencia
+T180	PROCEDURE 8701 8732	se implanta MCP definitivo DDDR
+T271	PROCEDURE 10885 10910	terapia renal sustitutiva
+T186	PROCEDURE 2207 2223	gafas de oxígeno

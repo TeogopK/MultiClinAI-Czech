@@ -1,0 +1,20 @@
+T52	PROCEDURE 55 69	echocardiogram
+T54	PROCEDURE 206 226	physical examination
+T64	PROCEDURE 397 408	hearing aid
+T56	PROCEDURE 656 666	transplant
+T63	PROCEDURE 710 732	Surgical interventions
+T58	PROCEDURE 734 749	Cholecystectomy
+T57	PROCEDURE 757 767	transplant
+T53	PROCEDURE 1004 1020	echocardiography
+T55	PROCEDURE 1085 1105	Physical examination
+T2	PROCEDURE 1387 1425	MRI without I.V. contrast of the heart
+T3	PROCEDURE 1546 1564	Renal transplanted
+T6	PROCEDURE 1634 1651	echocardiographic
+T7	PROCEDURE 1676 1725	echo sequences were performed in 4-chamber planes
+T8	PROCEDURE 1739 1770	T2-weighted spin echo sequences
+T9	PROCEDURE 1775 1798	triple IR in short axis
+T10	PROCEDURE 1820 1852	late enhancement with gadolinium
+T62	PROCEDURE 2510 2535	gadolinium administration
+T61	PROCEDURE 3795 3827	Biochemical and genetic analysis
+T65	PROCEDURE 3829 3866	Alpha-galactosidase A enzyme activity
+T60	PROCEDURE 3895 3911	Genetic analysis

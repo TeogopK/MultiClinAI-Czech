@@ -1,0 +1,39 @@
+T55	DISEASE 199 208	allergies
+T54	DISEASE 210 216	Smoker
+T59	DISEASE 237 244	alcohol
+T60	DISEASE 254 259	drugs
+T1	DISEASE 261 280	High blood pressure
+T53	DISEASE 322 340	Mild dyslipidaemia
+T2	DISEASE 363 390	Anxiety-depressive syndrome
+T3	DISEASE 392 411	Episodes of anxiety
+T31	DISEASE 759 773	cardiac arrest
+T56	DISEASE 902 909	syncope
+T4	DISEASE 996 1009	heart disease
+T35	DISEASE 1546 1570	ventricular fibrillation
+T38	DISEASE 1670 1689	atrial fibrillation
+T39	DISEASE 2653 2667	valvulopathies
+T40	DISEASE 2712 2735	tricuspid insufficiency
+T7	DISEASE 2912 2932	haematic collections
+T8	DISEASE 2936 2997	space-occupying lesions in cerebellar parenchyma or brainstem
+T41	DISEASE 3923 3938	acute ischaemia
+T12	DISEASE 4046 4059	brain lesions
+T32	DISEASE 4075 4089	cardiac arrest
+T42	DISEASE 4360 4379	Torsades de pointes
+T36	DISEASE 4394 4418	ventricular fibrillation
+T43	DISEASE 4504 4526	ventricular arrhythmia
+T15	DISEASE 4554 4604	infero-posterior and lateral subepicardial lesions
+T61	DISEASE 4832 4840	stenosis
+T44	DISEASE 4979 4993	cardiomyopathy
+T45	DISEASE 5046 5066	myocardial ischaemia
+T46	DISEASE 5071 5094	ventricular arrhythmias
+T49	DISEASE 5148 5164	coronary lesions
+T50	DISEASE 5260 5291	upper gastrointestinal bleeding
+T18	DISEASE 5306 5312	melena
+T47	DISEASE 5371 5394	ventricular arrhythmias
+T33	DISEASE 5762 5776	cardiac arrest
+T58	DISEASE 5805 5824	arrhythmic episodes
+T57	DISEASE 6060 6067	syncope
+T48	DISEASE 6082 6105	ventricular arrhythmias
+T51	DISEASE 6159 6177	Coronary vasospasm
+T37	DISEASE 6180 6204	Ventricular fibrillation
+T52	DISEASE 6209 6236	resuscitated cardiac arrest

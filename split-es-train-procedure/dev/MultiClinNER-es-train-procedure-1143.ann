@@ -1,0 +1,32 @@
+T58	PROCEDURE 782 805	cura local de la herida
+T59	PROCEDURE 818 824	sutura
+T60	PROCEDURE 827 834	vendaje
+T61	PROCEDURE 1503 1519	maniobras de RCP
+T62	PROCEDURE 1531 1534	ECG
+T63	PROCEDURE 1595 1605	se reanima
+T64	PROCEDURE 1637 1661	desfibrilaciones a 200 J
+T65	PROCEDURE 1748 1770	intubación orotraqueal
+T66	PROCEDURE 1776 1796	ventilación mecánica
+T67	PROCEDURE 1899 1917	Electrocardiograma
+T68	PROCEDURE 2252 2271	Gasometría arterial
+T69	PROCEDURE 2342 2360	Electrocardiograma
+T70	PROCEDURE 2562 2588	Radiografía de tórax en AP
+T71	PROCEDURE 2767 2786	TC de cráneo simple
+T72	PROCEDURE 2852 2866	Ecocardiograma
+T73	PROCEDURE 3240 3260	Cateterismo cardiaco
+T74	PROCEDURE 3382 3390	intubado
+T75	PROCEDURE 3527 3537	hipotermia
+T76	PROCEDURE 3576 3605	ventilación mecánica invasiva
+T77	PROCEDURE 3734 3752	electrocardiograma
+T78	PROCEDURE 3886 3898	TAC cerebral
+T79	PROCEDURE 3972 3986	ecocardiograma
+T80	PROCEDURE 4143 4157	ecocardiograma
+T81	PROCEDURE 4169 4189	cateterismo cardiaco
+T82	PROCEDURE 4362 4366	AINE
+T89	PROCEDURE 3550 3558	sedación
+T90	PROCEDURE 3607 3620	Anticoagulado
+T95	PROCEDURE 181 199	EXPLORACIÓN FÍSICA
+T97	PROCEDURE 3654 3694	doble antiagregado con AAS y clopidogrel
+T98	PROCEDURE 858 886	se administra gammaglobulina
+T102	PROCEDURE 1952 1961	Analítica
+T21	PROCEDURE 889 921	1a dosis de vacuna antitetánicas

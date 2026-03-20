@@ -1,0 +1,31 @@
+T33	DISEASE 127 150	alergias medicamentosas
+T34	DISEASE 200 221	hipertensión arterial
+T35	DISEASE 223 226	HTA
+T36	DISEASE 232 249	diabetes mellitus
+T37	DISEASE 251 253	DM
+T38	DISEASE 259 269	dislipemia
+T39	DISEASE 271 274	DLP
+T40	DISEASE 277 287	Exfumadora
+T41	DISEASE 422 435	hallux valgus
+T42	DISEASE 2039 2054	Derrame pleural
+T43	DISEASE 2146 2167	fibrilación auricular
+T44	DISEASE 2169 2171	FA
+T45	DISEASE 2187 2225	bloqueo de rama derecha del haz de His
+T58	DISEASE 2236 2266	hemibloqueo anterior izquierdo
+T60	DISEASE 2227 2232	BRDHH
+T61	DISEASE 2268 2272	HBAI
+T84	DISEASE 2320 2322	IC
+T85	DISEASE 2339 2397	FA de reciente diagnóstico con frecuencia ventricular alta
+T86	DISEASE 2681 2720	ventrículo izquierdo levemente dilatado
+T87	DISEASE 2819 2857	Aurícula izquierda gravemente dilatada
+T88	DISEASE 3238 3263	Insuficiencia tricuspídea
+T89	DISEASE 3398 3445	Válvula mitral con engrosamiento de ambos velos
+T90	DISEASE 3521 3547	Insuficiencia mitral grave
+T91	DISEASE 3733 3752	derrame pericárdico
+T92	DISEASE 4004 4009	tumor
+T93	DISEASE 4676 4691	mixoma cardiaco
+T94	DISEASE 4726 4741	Mixoma cardiaco
+T95	DISEASE 4762 4764	IC
+T96	DISEASE 4766 4825	FA de reciente diagnóstico con respuesta ventricular rápida
+T46	DISEASE 4840 4861	Hipertensión arterial
+#4	AnnotatorNotes T61	  hemibloqueo anterior izquierdo

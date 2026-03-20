@@ -1,0 +1,31 @@
+T4	SYMPTOM 1125 1132	astenia
+T5	SYMPTOM 1135 1141	disnea
+T6	SYMPTOM 1147 1161	dolor torácico
+T7	SYMPTOM 1380 1386	disnea
+T8	SYMPTOM 1553 1559	disnea
+T9	SYMPTOM 1750 1757	afebril
+T10	SYMPTOM 1797 1821	ruidos cardiaco rítmicos
+T11	SYMPTOM 1827 1851	soplo diastólico aórtico
+T12	SYMPTOM 1861 1883	soplo sistólico mitral
+T14	SYMPTOM 1955 1984	edemas en miembros inferiores
+T16	SYMPTOM 2750 2780	autoanticuerpos ANAs positivos
+T17	SYMPTOM 2854 2867	ritmo sinusal
+T19	SYMPTOM 3119 3160	función sistólica moderadamente deprimida
+T20	SYMPTOM 4146 4240	engrosamiento de la pared arterial de las arterias carótidas comunes y de la arteria subclavia
+T21	SYMPTOM 4586 4657	Serología infecciosa: HBsAg, antiVHC, VIH Ag+Ac y Sífilis G+M negativos
+T22	SYMPTOM 5122 5154	soplos en focos aórtico y mitral
+T23	SYMPTOM 5273 5301	disminución de pulsos en MSI
+T24	SYMPTOM 5575 5593	hipocinesia global
+T25	SYMPTOM 6262 6320	asimetría en pulsos y tensión en ambos miembros superiores
+T26	SYMPTOM 6668 6814	engrosamiento de la pared arterial de ambas arterias carótidas comunes y arterias subclavia izquierda, vertebral izquierda y, mesentérica superior
+T27	SYMPTOM 7785 7811	inestabilidad hemodinámica
+T28	SYMPTOM 8123 8156	inestabilidad hemodinámica severa
+T29	SYMPTOM 8211 8217	exitus
+T1	SYMPTOM 586 702	ventrículo izquierdo de tamaño y grosor normales, con función sistólica global y contractilidad segmentaria normales
+T2	SYMPTOM 7595 7693	aorta con un llamativo engrosamiento tanto de su pared como de la pared de las arterias coronarias
+T132	SYMPTOM 1903 1950	crepitantes bilaterales hasta campos superiores
+T13	SYMPTOM 3651 3684	raíz aórtica era de tamaño normal
+T18	SYMPTOM 4500 4518	depósito de calcio
+T122	SYMPTOM 5330 5401	discordancia entre tensiones sistólicas entre ambos miembros superiores
+T123	SYMPTOM 5834 5863	raíz aórtica de tamaño normal
+T125	SYMPTOM 5924 5988	alteraciones segmentarias de la contractilidad en ecocardiograma

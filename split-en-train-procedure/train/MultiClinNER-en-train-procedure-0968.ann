@@ -1,0 +1,51 @@
+T36	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T72	PROCEDURE 270 291	surgical intervention
+T2	PROCEDURE 552 575	anti-inflammatory drugs
+T4	PROCEDURE 863 904	basic cardiopulmonary resuscitation (CPR)
+T38	PROCEDURE 900 903	CPR
+T40	PROCEDURE 1056 1068	advanced CPR
+T41	PROCEDURE 1089 1111	orotracheal intubation
+T42	PROCEDURE 1116 1147	invasive mechanical ventilation
+T44	PROCEDURE 1162 1179	electrocardiogram
+T45	PROCEDURE 1181 1184	ECG
+T5	PROCEDURE 1262 1295	Infarction Code was not activated
+T37	PROCEDURE 1369 1389	Physical examination
+T6	PROCEDURE 1526 1539	Sedoanalgesia
+T43	PROCEDURE 1554 1585	invasive mechanical ventilation
+T49	PROCEDURE 1642 1662	Cardiac auscultation
+T50	PROCEDURE 1712 1734	Pulmonary auscultation
+T7	PROCEDURE 1863 1866	CBC
+T8	PROCEDURE 1868 1879	haemoglobin
+T70	PROCEDURE 1963 1975	Biochemistry
+T51	PROCEDURE 2105 2118	Lipid profile
+T52	PROCEDURE 2415 2426	Coagulation
+T9	PROCEDURE 2560 2578	Arterial blood gas
+T46	PROCEDURE 2642 2645	ECG
+T53	PROCEDURE 2771 2801	Angio-CT of pulmonary arteries
+T63	PROCEDURE 2869 2901	Cranial CT scan without contrast
+T54	PROCEDURE 2945 2959	Echocardiogram
+T59	PROCEDURE 3186 3206	Coronary angiography
+T10	PROCEDURE 3424 3522	Percutaneous coronary intervention to the LAD: intra-aortic balloon counterpulsation is implanted.
+T61	PROCEDURE 3542 3546	IVUS
+T12	PROCEDURE 3617 3695	three drug-eluting stents were implanted from the distal LAD to the ostial LAD
+T62	PROCEDURE 3746 3774	Echocardiogram with contrast
+T14	PROCEDURE 3966 3995	infarction code was activated
+T47	PROCEDURE 3999 4002	ECG
+T16	PROCEDURE 4113 4137	pulmonary CT angiography
+T17	PROCEDURE 4142 4152	cranial CT
+T64	PROCEDURE 4173 4188	echocardioscopy
+T65	PROCEDURE 4282 4289	sedated
+T18	PROCEDURE 4291 4331	perfused with low doses of noradrenaline
+T56	PROCEDURE 4492 4506	echocardiogram
+T48	PROCEDURE 4673 4676	ECG
+T60	PROCEDURE 4754 4774	coronary angiography
+T66	PROCEDURE 4915 5036	three drug-eluting stents were implanted with good angiographic results, as well as intra-aortic balloon counterpulsation
+T67	PROCEDURE 5458 5481	neurohormonal treatment
+T71	PROCEDURE 5487 5527	angiotensin-converting enzyme inhibitors
+T19	PROCEDURE 5529 5543	ACE inhibitors
+T68	PROCEDURE 5549 5562	beta-blockers
+T57	PROCEDURE 5593 5607	echocardiogram
+T58	PROCEDURE 5722 5747	contrast echocardiography
+T69	PROCEDURE 5874 5903	triple antithrombotic therapy
+T20	PROCEDURE 5924 5951	double antiplatelet therapy
+T24	PROCEDURE 6399 6482	implantation of three drug-eluting overlapping stents from distal LAD to ostial LAD

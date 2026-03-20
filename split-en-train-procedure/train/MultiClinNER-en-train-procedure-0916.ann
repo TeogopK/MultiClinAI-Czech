@@ -1,0 +1,48 @@
+T1	PROCEDURE 209 256	dental manipulation (osseo-integrated implants)
+T72	PROCEDURE 288 308	physical examination
+T74	PROCEDURE 435 446	Blood tests
+T110	PROCEDURE 559 564	urine
+T73	PROCEDURE 1164 1184	Physical examination
+T76	PROCEDURE 1321 1341	Cardiac auscultation
+T77	PROCEDURE 1456 1478	Pulmonary auscultation
+T78	PROCEDURE 1658 1682	Neurological examination
+T75	PROCEDURE 1853 1864	Blood tests
+T100	PROCEDURE 1933 1945	electrolytes
+T101	PROCEDURE 2037 2051	liver function
+T4	PROCEDURE 2124 2133	haemogram
+T79	PROCEDURE 2251 2254	ECG
+T80	PROCEDURE 2351 2362	Chest X-ray
+T81	PROCEDURE 2471 2491	CT scan of the brain
+T82	PROCEDURE 2698 2717	Thoracoabdominal CT
+T83	PROCEDURE 2815 2835	Transcranial Doppler
+T84	PROCEDURE 2840 2875	echo-Doppler of supra-aortic trunks
+T85	PROCEDURE 2900 2915	Lumbar puncture
+T6	PROCEDURE 2917 2955	Cerebrospinal fluid (CSF) biochemistry
+T99	PROCEDURE 2973 2985	CSF serology
+T86	PROCEDURE 3025 3041	CSF microbiology
+T105	PROCEDURE 3043 3051	CSF Gram
+T7	PROCEDURE 3086 3141	DNA of herpes simplex virus and varicella zoster by PCR
+T9	PROCEDURE 3154 3178	Serology of serum/plasma
+T107	PROCEDURE 3300 3312	Microbiology
+T87	PROCEDURE 3314 3328	Blood cultures
+T92	PROCEDURE 3528 3539	antibiotics
+T93	PROCEDURE 3548 3561	Urine culture
+T94	PROCEDURE 3575 3625	Transthoracic and transesophageal echocardiography
+T17	PROCEDURE 4719 4744	normal neurological tests
+T102	PROCEDURE 4927 4943	vasoactive drugs
+T109	PROCEDURE 5043 5051	diuretic
+T88	PROCEDURE 5575 5589	blood cultures
+T95	PROCEDURE 5667 5681	antibiotherapy
+T89	PROCEDURE 5903 5917	blood cultures
+T103	PROCEDURE 6007 6022	antiobiotherapy
+T19	PROCEDURE 6166 6176	antibiotic
+T90	PROCEDURE 6247 6261	blood cultures
+T21	PROCEDURE 6291 6309	antibiotic therapy
+T96	PROCEDURE 6346 6366	antibiotic treatment
+T22	PROCEDURE 6374 6404	transesophageal echocardiogram
+T24	PROCEDURE 6624 6642	antibiotic therapy
+T25	PROCEDURE 6679 6746	replace the mitral valve with a St Jude No 29 mechanical prosthesis
+T104	PROCEDURE 6944 7000	early withdrawal of inotropes and mechanical ventilation
+T97	PROCEDURE 7124 7144	antibiotic treatment
+T91	PROCEDURE 7254 7268	blood cultures
+T26	PROCEDURE 7383 7411	transthoracic echocardiogram

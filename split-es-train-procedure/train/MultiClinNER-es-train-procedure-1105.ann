@@ -1,0 +1,52 @@
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 668 700	colectomía derecha laparoscopica
+T88	PROCEDURE 703 726	quimioterapia adyuvante
+T89	PROCEDURE 807 820	colonoscopias
+T90	PROCEDURE 1345 1363	Exploración física
+T91	PROCEDURE 1497 1518	Auscultación cardiaca
+T92	PROCEDURE 1598 1619	Auscultación pulmonar
+T93	PROCEDURE 1718 1736	palpación profunda
+T94	PROCEDURE 1908 1947	ecocardioscopia realizada a pie de cama
+T95	PROCEDURE 2159 2177	Electrocardiograma
+T96	PROCEDURE 2371 2432	Radiografía de tórax a su ingreso: proyección posteroanterior
+T97	PROCEDURE 2605 2614	Hemograma
+T98	PROCEDURE 3014 3028	Ecocardiograma
+T99	PROCEDURE 3674 3689	Coronariografía
+T100	PROCEDURE 4067 4110	Resonancia magnética nuclear (RMN) cardiaca
+T101	PROCEDURE 4333 4348	secuencias STIR
+T102	PROCEDURE 4944 4989	Estudio de detección de necrosis y viabilidad
+T103	PROCEDURE 5198 5213	Coronariografía
+T104	PROCEDURE 5302 5341	angiografía por acceso radial izquierdo
+T105	PROCEDURE 5515 5527	IVUS aostium
+T106	PROCEDURE 5750 5794	predilatación de lesión en segmento proximal
+T107	PROCEDURE 5797 5856	implantación de stent farmacoactivo liberador de everolimus
+T108	PROCEDURE 5944 6011	Hemostasia femoral con dispositivo de sutura intravascular Proglide
+T109	PROCEDURE 6078 6100	tratamiento deplectivo
+T110	PROCEDURE 6288 6302	ecocardiograma
+T111	PROCEDURE 6596 6611	coronariografía
+T112	PROCEDURE 6693 6705	RMN cardiaca
+T113	PROCEDURE 7023 7051	revascularización quirúrgica
+T114	PROCEDURE 7064 7125	revascularización percutánea asistida con dispositivo Impella
+T115	PROCEDURE 7905 7923	electrocardiograma
+T116	PROCEDURE 8033 8060	cardioversión farmacológica
+T117	PROCEDURE 8274 8353	revascularización percutánea con asistencia mecánica con dispositivo Impella CP
+T118	PROCEDURE 8726 8743	revascularización
+T119	PROCEDURE 8937 8951	ecocardiograma
+T120	PROCEDURE 9171 9183	RMN cardiaca
+T121	PROCEDURE 9322 9373	ICP de alto riesgo asistido con dispositivo Impella
+T122	PROCEDURE 9381 9447	revascularización completa (DA proximal, DA media, CD distal y 1OM
+T152	PROCEDURE 2766 2776	Bioquímica
+T153	PROCEDURE 2712 2722	Hemostasia
+T155	PROCEDURE 2927 2959	biomarcadores de daño miocárdico
+T156	PROCEDURE 6537 6584	estudio etiológico de la disfunción ventricular
+T158	PROCEDURE 4097 4100	RMN
+T159	PROCEDURE 5381 5441	se implantan stents farmacoactivos liberadores de everolimus
+T160	PROCEDURE 5620 5690	primera obtusa marginal constent farmacoactivo liberador de everolimus
+T161	PROCEDURE 5897 5926	se retira dispositivo Impella
+T164	PROCEDURE 2581 2590	Analítica
+T193	PROCEDURE 5004 5031	realce tardío con gadolinio
+T168	PROCEDURE 5343 5378	Se predilatan lesiones graves de DA
+T174	PROCEDURE 5230 5289	se posiciona dispositivo Impella por acceso femoral derecho
+T176	PROCEDURE 5467 5501	Se cruza guía a circunfleja distal
+T177	PROCEDURE 5723 5748	Se cruza guía a CD distal
+T178	PROCEDURE 8066 8106	bolo intravenoso de 300 mg de amiodarona

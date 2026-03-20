@@ -1,0 +1,34 @@
+T25	PROCEDURE 260 278	exploración física
+T26	PROCEDURE 340 352	auscultación
+T27	PROCEDURE 631 645	ecocardiograma
+T30	PROCEDURE 1038 1064	tratamiento con diuréticos
+T31	PROCEDURE 1108 1120	hemocultivos
+T32	PROCEDURE 1213 1236	tratamiento antibiótico
+T33	PROCEDURE 1296 1324	cirugía de recambio valvular
+T34	PROCEDURE 1326 1383	se sustituye la válvula aórtica por una prótesis mecánica
+T35	PROCEDURE 1418 1439	cultivo de la válvula
+T36	PROCEDURE 1724 1736	hemocultivos
+T37	PROCEDURE 1830 1842	hemocultivos
+T38	PROCEDURE 1928 1940	hemocultivos
+T39	PROCEDURE 2025 2048	tratamiento antibiótico
+T40	PROCEDURE 2078 2090	hemocultivos
+T41	PROCEDURE 2480 2492	antibióticos
+T42	PROCEDURE 3030 3041	hemocultivo
+T43	PROCEDURE 3080 3112	hemocultivo, aerobio y anaerobio
+T44	PROCEDURE 3136 3159	tratamiento antibiótico
+T45	PROCEDURE 3172 3184	hemocultivos
+T46	PROCEDURE 4243 4255	hemocultivos
+T51	PROCEDURE 3683 3768	PCR universal 16S rARN realizada con el ADN extraído del tejido de la válvula aórtica
+T52	PROCEDURE 4043 4091	PCR específica de la región hsp65 de T. whipplei
+T53	PROCEDURE 3203 3212	serología
+T54	PROCEDURE 4306 4340	serología para los microorganismos
+T55	PROCEDURE 2593 2603	serologías
+T56	PROCEDURE 2810 2842	tratamiento antibiótico empírico
+T57	PROCEDURE 967 1023	se extrae una muestra de suero para estudios serológicos
+T58	PROCEDURE 1386 1413	se repara la válvula mitral
+T59	PROCEDURE 1627 1667	estudio anatomo-patológico de la válvula
+T60	PROCEDURE 3799 3811	se secuenció
+T61	PROCEDURE 4275 4291	obtener un suero
+T63	PROCEDURE 4636 4708	tinciones especiales: Gram, Wartin-Starry (Bartonella), PAS (T.whipplei)
+T66	PROCEDURE 942 965	se toman 3 hemocultivos
+T72	PROCEDURE 545 554	analítica

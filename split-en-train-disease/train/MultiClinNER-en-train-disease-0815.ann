@@ -1,0 +1,32 @@
+T1	DISEASE 68 95	Allergy to mites and pollen
+T40	DISEASE 106 120	drug allergies
+T41	DISEASE 136 142	smoker
+T2	DISEASE 160 180	Mild alcoholic habit
+T3	DISEASE 216 228	hypertension
+T43	DISEASE 233 246	dyslipidaemia
+T44	DISEASE 251 268	diabetes mellitus
+T4	DISEASE 279 292	heart disease
+T45	DISEASE 294 310	Bronchial asthma
+T46	DISEASE 674 701	acute myocardial infarction
+T5	DISEASE 703 706	AMI
+T60	DISEASE 1200 1241	inferoposterolateral subepicardial lesion
+T6	DISEASE 1961 1973	adenopathies
+T47	DISEASE 2251 2254	DVT
+T39	DISEASE 2374 2428	subepicardial lesion up to 2-3 mm inferoposterolateral
+T48	DISEASE 3857 3894	Minimal tricuspid valve insufficiency
+T8	DISEASE 4029 4058	allergic to mites and grasses
+T42	DISEASE 4060 4066	smoker
+T49	DISEASE 4068 4077	asthmatic
+T9	DISEASE 4289 4312	infero-posterior STEACS
+T50	DISEASE 4331 4352	anaphylactic reaction
+T52	DISEASE 4358 4377	severe bronchospasm
+T54	DISEASE 4382 4393	hypotension
+T63	DISEASE 4590 4610	subepicardial lesion
+T56	DISEASE 4782 4797	Kounis Syndrome
+T57	DISEASE 5027 5042	Kounis syndrome
+T58	DISEASE 5716 5731	Kounis syndrome
+T59	DISEASE 5733 5760	allergic vasospastic angina
+T51	DISEASE 5763 5784	Anaphylactic reaction
+T53	DISEASE 5790 5809	severe bronchospasm
+T55	DISEASE 5814 5825	hypotension
+T12	DISEASE 5827 5854	Allergy to mites and pollen

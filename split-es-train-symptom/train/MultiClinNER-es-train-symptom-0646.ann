@@ -1,0 +1,17 @@
+T1	SYMPTOM 399 421	presentación de nalgas
+T2	SYMPTOM 566 600	hendiduras parpebrales mongoloides
+T3	SYMPTOM 615 631	raiz nasal ancha
+T4	SYMPTOM 634 654	occipucio prominente
+T5	SYMPTOM 659 683	abdomen, globuloso, duro
+T6	SYMPTOM 746 796	masas ocupando ambas fosas renales y hemiabdomenes
+T7	SYMPTOM 863 876	masas renales
+T8	SYMPTOM 2582 2650	proliferación y dilatación, incluso quística, de los ductos biliares
+T9	SYMPTOM 520 542	tonalidad subcianótica
+T10	SYMPTOM 544 561	facies triangular
+T11	SYMPTOM 1202 1229	riñón un aspecto de esponja
+T12	SYMPTOM 1419 1489	elevación diafragmática condicionada por el gran tamaño de los riñones
+T13	SYMPTOM 56 66	fallecidos
+T14	SYMPTOM 470 478	falleció
+T15	SYMPTOM 602 613	micrognatia
+A1	EXITUS T13
+A2	EXITUS T14

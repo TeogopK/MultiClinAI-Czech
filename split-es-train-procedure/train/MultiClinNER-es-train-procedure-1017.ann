@@ -1,0 +1,29 @@
+T71	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T72	PROCEDURE 310 328	electrocardiograma
+T73	PROCEDURE 447 461	ecocardiograma
+T74	PROCEDURE 490 496	Holter
+T75	PROCEDURE 904 922	exploración física
+T76	PROCEDURE 1033 1054	Auscultación cardiaca
+T77	PROCEDURE 1114 1135	auscultación pulmonar
+T78	PROCEDURE 1385 1388	ECG
+T79	PROCEDURE 1468 1474	Holter
+T80	PROCEDURE 1719 1733	Ecocardiograma
+T81	PROCEDURE 2221 2250	Resonancia magnética cardiaca
+T82	PROCEDURE 3291 3305	secuencia STIR
+T83	PROCEDURE 3332 3344	secuencia T2
+T84	PROCEDURE 3398 3425	Biopsia de glándula salivar
+T85	PROCEDURE 3453 3478	Gammagrafía con 99mTc-DDP
+T86	PROCEDURE 3563 3657	Biopsia endomiocárdica: (extracción de muestras de 2 puntos diferentes del ventrículo derecho)
+T88	PROCEDURE 3720 3736	Estudio genético
+T89	PROCEDURE 3940 3954	ecocardiograma
+T90	PROCEDURE 4157 4186	resonancia magnética cardiaca
+T91	PROCEDURE 4284 4318	cuantificación de inmunoglobulinas
+T92	PROCEDURE 4320 4334	electroforesis
+T93	PROCEDURE 4337 4364	inmunofijación de proteínas
+T94	PROCEDURE 4367 4395	estudio de orina de 24 horas
+T95	PROCEDURE 4456 4483	gammagrafía ósea 99 mTc-DDP
+T96	PROCEDURE 4645 4667	biopsia endomiocárdica
+T97	PROCEDURE 4732 4745	test genético
+T98	PROCEDURE 4973 4983	diuréticos
+T99	PROCEDURE 4986 5003	antihipertensivos
+T116	PROCEDURE 957 972	Cabeza y cuello

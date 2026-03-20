@@ -1,0 +1,92 @@
+T1	SYMPTOM 819 836	diarrhoeal stools
+T70	SYMPTOM 841 849	pruritus
+T2	SYMPTOM 854 864	chest pain
+T3	SYMPTOM 869 877	dyspnoea
+T5	SYMPTOM 882 896	abdominal pain
+T6	SYMPTOM 901 906	fever
+T7	SYMPTOM 959 987	Acceptable general condition
+T8	SYMPTOM 989 1004	Eupneic at rest
+T9	SYMPTOM 1006 1017	Skin pallor
+T41	SYMPTOM 1019 1085	Cardiorespiratory auscultation: rhythmic tones at a good frequency
+T10	SYMPTOM 1095 1102	murmurs
+T71	SYMPTOM 1106 1116	extratones
+T72	SYMPTOM 1118 1142	Bladder murmur preserved
+T73	SYMPTOM 1151 1163	extra sounds
+T11	SYMPTOM 1165 1194	Abdomen: soft and depressible
+T12	SYMPTOM 1200 1220	painful on palpation
+T13	SYMPTOM 1239 1260	peritoneal irritation
+T14	SYMPTOM 1265 1271	masses
+T74	SYMPTOM 1275 1288	visceromegaly
+T15	SYMPTOM 1304 1332	Lower extremities: no oedema
+T42	SYMPTOM 2148 2239	Anti-mitochondrial, anti-smooth muscle, anti-LKM and anti-parietal cell antibodies negative
+T16	SYMPTOM 2323 2380	Upper gastrointestinal endoscopy (EDA): normal oesophagus
+T75	SYMPTOM 2490 2554	Stomach with good motility and distensibility with normal mucosa
+T17	SYMPTOM 2586 2616	slight petechiae in the fornix
+T19	SYMPTOM 2644 2650	nausea
+T20	SYMPTOM 2683 2712	Centric and permeable pylorus
+T43	SYMPTOM 2714 2762	Bulb and second duodenal portion without lesions
+T18	SYMPTOM 2817 2847	Slight petechiae in the fornix
+T44	SYMPTOM 3535 3576	IgG positive for HSV and varicella zoster
+T45	SYMPTOM 3581 3632	negative for cytomegalovirus and Epstein-Baar virus
+T46	SYMPTOM 3634 3719	Negative IgM for HSV, varicella zoster, cytomegalovirus, Epstein-Baar and hepatitis A
+T76	SYMPTOM 3721 3747	Stool: normal calprotectin
+T21	SYMPTOM 3771 3817	liver of normal size, borders and echogenicity
+T77	SYMPTOM 3901 3921	Normal biliary tract
+T78	SYMPTOM 3923 3962	Cava and suprahepatic ducts not dilated
+T79	SYMPTOM 3964 3994	Patent portal of normal calibr
+T22	SYMPTOM 4058 4076	Normal spleen size
+T47	SYMPTOM 4097 4117	Free fluid in pelvis
+T49	SYMPTOM 4169 4188	fluid in the pelvis
+T80	SYMPTOM 4322 4378	thickening of the interlobular septa and bronchial walls
+T81	SYMPTOM 4403 4423	ground-glass pattern
+T23	SYMPTOM 4507 4551	rectification of the interventricular septum
+T82	SYMPTOM 4557 4598	trunk of the pulmonary artery is enlarged
+T83	SYMPTOM 4739 4780	Edema of the subcutaneous cellular tissue
+T24	SYMPTOM 4812 4881	free fluid in pelvis, between loops, perihepatic and in both droplets
+T48	SYMPTOM 4906 4945	Increased calibre of suprahepatic veins
+T50	SYMPTOM 4969 5042	Pancreas, spleen, adrenal glands and kidneys without appreciable findings
+T84	SYMPTOM 5053 5108	edematous mural thickening in the cecum and right colon
+T25	SYMPTOM 5210 5236	Intra-abdominal free fluid
+T85	SYMPTOM 5268 5314	oedematous thickening in the right cecum/colon
+T26	SYMPTOM 6093 6105	sinus rhythm
+T86	SYMPTOM 6132 6155	biauricular enlargement
+T51	SYMPTOM 6157 6164	long PR
+T27	SYMPTOM 6194 6202	wide QRS
+T87	SYMPTOM 6266 6296	increased cardiothoracic index
+T29	SYMPTOM 6298 6330	capillary redistribution pattern
+T31	SYMPTOM 6341 6363	left atrial dilatation
+T33	SYMPTOM 6368 6388	alveolar infiltrates
+T88	SYMPTOM 6449 6552	non-hypertrophic left ventricle (LV), severely dilated with severely depressed global systolic function
+T52	SYMPTOM 6560 6593	global hypokinesia and asynchrony
+T55	SYMPTOM 6822 6844	high filling pressures
+T53	SYMPTOM 6866 6884	Normal aortic root
+T60	SYMPTOM 6889 6909	signs of coarctation
+T56	SYMPTOM 7305 7327	High filling pressures
+T59	SYMPTOM 7405 7421	Dominance: right
+T37	SYMPTOM 7426 7477	anomalies are visualised in coronary artery outflow
+T64	SYMPTOM 7494 7536	left coronary trunk (LMCA) without lesions
+T89	SYMPTOM 7538 7548	Normal LAD
+T61	SYMPTOM 7583 7607	normal diagonal branches
+T62	SYMPTOM 7609 7666	Marginal obtuse circumflex artery (Cx-OM) without lesions
+T90	SYMPTOM 7721 7767	own CD without calcium or significant stenosis
+T57	SYMPTOM 7769 7795	Normal DP and TPL branches
+T35	SYMPTOM 8078 8095	septal thickening
+T91	SYMPTOM 8097 8116	patchy ground glass
+T36	SYMPTOM 8587 8610	Generalised hypokinesia
+T63	SYMPTOM 8964 8992	myocardial perfusion defects
+T92	SYMPTOM 9359 9389	increased cardiothoracic index
+T30	SYMPTOM 9391 9423	capillary redistribution pattern
+T34	SYMPTOM 9461 9481	alveolar infiltrates
+T32	SYMPTOM 10320 10379	variant of uncertain significance c.5009G>A; p.(Arg1670His)
+T58	SYMPTOM 10698 10717	general hypokinesia
+T38	SYMPTOM 10812 10845	Biphasic left ventricular filling
+T54	SYMPTOM 10913 10931	Normal aortic root
+T65	SYMPTOM 10966 11002	right ventricle (RV) non-functioning
+T93	SYMPTOM 11101 11133	Suprahepatic vessels not dilated
+T66	SYMPTOM 11235 11245	asynchrony
+T4	SYMPTOM 11369 11377	dyspnoea
+T39	SYMPTOM 11382 11415	oedematisation of the lower limbs
+T28	SYMPTOM 12509 12517	wide QRS
+T67	SYMPTOM 12534 12544	asynchrony
+T40	SYMPTOM 13141 13153	asymptomatic
+T68	SYMPTOM 13244 13254	asynchrony

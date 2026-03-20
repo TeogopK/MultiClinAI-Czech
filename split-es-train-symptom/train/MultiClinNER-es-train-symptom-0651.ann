@@ -1,0 +1,23 @@
+T1	SYMPTOM 23 44	mioclonias cervicales
+T2	SYMPTOM 2778 2802	discinesias paroxísticas
+T3	SYMPTOM 2234 2310	movimientos mioclónicos de flexión cervical izquierda y elevación del hombro
+T4	SYMPTOM 2821 2826	mareo
+T5	SYMPTOM 1312 1433	movimientos bruscos, involuntarios de la cabeza hacia la izquierda; repetitivos, arrítmicos y mantenidos durante el sueño
+T6	SYMPTOM 2829 2836	náuseas
+T7	SYMPTOM 260 292	movimientos cervicales anormales
+T8	SYMPTOM 3038 3058	mioclonias espinales
+T9	SYMPTOM 1548 1565	síntoma sistémico
+T10	SYMPTOM 2501 2521	contracción muscular
+T11	SYMPTOM 3098 3140	discinesias paroxísticas no cinesiogenicas
+T12	SYMPTOM 1594 1634	sacudidas del miembro superior izquierdo
+T13	SYMPTOM 3143 3161	distonía-mioclonía
+T14	SYMPTOM 1663 1719	hipoestesia en la hemicara y porción anterior de D4 a L2
+T15	SYMPTOM 1763 1790	alteraciones del movimiento
+T16	SYMPTOM 1856 1866	mioclonías
+T17	SYMPTOM 1899 1922	movimiento involuntario
+T18	SYMPTOM 1962 1969	afebril
+T19	SYMPTOM 1972 1997	hemodinámicamente estable
+T20	SYMPTOM 2037 2151	hipoestesia nociceptiva en hemicara izquierda y parte anterolateral del tronco desde D2 a L2, y D2 a D8 en espalda
+T21	SYMPTOM 1868 1877	distonías
+A1	RESULTADO T3
+A2	RESULTADO T10

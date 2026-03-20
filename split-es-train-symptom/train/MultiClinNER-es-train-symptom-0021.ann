@@ -1,0 +1,43 @@
+T1	SYMPTOM 32 55	dificultad para caminar
+T2	SYMPTOM 100 144	debilidad y dolor en los miembros inferiores
+T3	SYMPTOM 936 961	Fasciculaciones linguales
+T4	SYMPTOM 1303 1369	Fasciculaciones en deltoides, pectorales y de forma difusa en MMII
+T5	SYMPTOM 3169 3228	Fasciculaciones difusas por diferentes segmentos corporales
+T6	SYMPTOM 893 934	Motilidad ocular interna y externa normal
+T7	SYMPTOM 614 646	calambres ocasionales en gemelos
+T8	SYMPTOM 1827 1885	denervación activa en ambos MMII, miembro superior derecho
+T9	SYMPTOM 2943 2954	denervación
+T10	SYMPTOM 2441 2462	disfagia para sólidos
+T11	SYMPTOM 500 519	labilidad emocional
+T12	SYMPTOM 203 212	lumbalgia
+T13	SYMPTOM 1021 1055	paraparesia de predominio proximal
+T14	SYMPTOM 349 397	debilidad en las manos o extremidades superiores
+T15	SYMPTOM 1108 1140	debilidad en miembros superiores
+T16	SYMPTOM 3035 3083	debilidad en la flexión dorsal del pie izquierdo
+T17	SYMPTOM 966 984	debilidad cervical
+T18	SYMPTOM 858 874	habla hipofónica
+T19	SYMPTOM 1555 1594	estudio inmunológico y serología normal
+T20	SYMPTOM 237 254	cambios en la voz
+T21	SYMPTOM 411 484	trastorno ocular, ni de control de esfínteres y tampoco a nivel sensitivo
+T22	SYMPTOM 876 891	facial centrado
+T23	SYMPTOM 1145 1162	déficit sensitivo
+T24	SYMPTOM 1206 1233	Hoffmann positivo bilateral
+T25	SYMPTOM 1236 1301	reflejo cutáneo-plantar derecho indiferente, izquierdo conservado
+T26	SYMPTOM 1596 1636	Radiografía de tórax y lumbosacra normal
+T27	SYMPTOM 1806 1822	patrón neurógeno
+T28	SYMPTOM 1887 1900	fibrilaciones
+T29	SYMPTOM 1903 1918	ondas positivas
+T30	SYMPTOM 2468 2501	afectación en miembros superiores
+T31	SYMPTOM 3773 3779	exitus
+T32	SYMPTOM 3239 3250	leve afonía
+T33	SYMPTOM 749 758	fallecido
+T34	SYMPTOM 586 592	muerte
+A1	RESULTADO T8
+A2	RESULTADO T19
+A3	IMAGEN T26
+A4	RESULTADO T27
+A5	RESULTADO T28
+A6	RESULTADO T29
+A7	EXITUS T31
+A8	EXITUS T33
+A9	EXITUS T34

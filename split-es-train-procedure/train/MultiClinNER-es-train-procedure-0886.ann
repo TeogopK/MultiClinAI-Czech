@@ -1,0 +1,23 @@
+T32	PROCEDURE 252 255	ECG
+T33	PROCEDURE 281 291	TC craneal
+T34	PROCEDURE 529 543	ecocardiograma
+T35	PROCEDURE 562 579	test ortostatismo
+T36	PROCEDURE 582 598	masaje carotideo
+T37	PROCEDURE 610 629	test de basculación
+T38	PROCEDURE 753 786	implantación de Holter subcutáneo
+T39	PROCEDURE 1114 1138	monitorización de Reveal
+T40	PROCEDURE 1273 1291	exploración física
+T41	PROCEDURE 1364 1366	AC
+T42	PROCEDURE 1405 1407	AR
+T43	PROCEDURE 1609 1620	coagulación
+T44	PROCEDURE 1646 1664	Electrocardiograma
+T45	PROCEDURE 1733 1751	Holter de 24 horas
+T46	PROCEDURE 1967 1995	Ecocardiograma transtorácico
+T47	PROCEDURE 2022 2040	Electrocardiograma
+T48	PROCEDURE 2171 2194	monitorización continua
+T49	PROCEDURE 2209 2227	Holter de 24 horas
+T50	PROCEDURE 2275 2289	ecocardiograma
+T51	PROCEDURE 2369 2395	implante de marcapasos DDD
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T55	PROCEDURE 1482 1491	Analítica
+T56	PROCEDURE 2044 2070	implantación de marcapasos

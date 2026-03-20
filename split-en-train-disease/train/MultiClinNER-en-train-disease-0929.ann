@@ -1,0 +1,54 @@
+T73	DISEASE 131 145	Active smoking
+T46	DISEASE 170 182	toxic habits
+T77	DISEASE 657 684	left subthalamic infarction
+T3	DISEASE 822 846	cerebrovascular accident
+T4	DISEASE 848 851	CVA
+T5	DISEASE 1002 1032	mild upper respiratory catarrh
+T48	DISEASE 1348 1370	cardiac decompensation
+T49	DISEASE 2038 2055	sinus tachycardia
+T50	DISEASE 2291 2298	ascites
+T75	DISEASE 2300 2312	hepatomegaly
+T8	DISEASE 2454 2463	influenza
+T9	DISEASE 2694 2697	LVH
+T74	DISEASE 2748 2760	cardiomegaly
+T51	DISEASE 2855 2881	bilateral pleural effusion
+T11	DISEASE 3540 3549	influenza
+T53	DISEASE 3840 3860	haemorrhagic lesions
+T13	DISEASE 3913 3940	dilated left ventricle (LV)
+T54	DISEASE 3982 4012	severe ventricular dysfunction
+T78	DISEASE 4105 4142	Mitral valve (MV): thickened leaflets
+T14	DISEASE 4180 4231	severe secondary or functional mitral regurgitation
+T15	DISEASE 4334 4343	Severe PI
+T16	DISEASE 4350 4352	TR
+T79	DISEASE 4400 4426	Dilated inferior vena cava
+T56	DISEASE 4464 4495	moderate pulmonary hypertension
+T57	DISEASE 4505 4525	pericardial effusion
+T60	DISEASE 4931 4976	lacunar infarction by lenticulostriate artery
+T61	DISEASE 5037 5056	subacute infarction
+T62	DISEASE 5335 5360	acute cortical infarction
+T18	DISEASE 5385 5440	subacute lacunar infarction in the left thalamic region
+T19	DISEASE 5445 5510	acute cortical microinfarcts in the left posterior frontal cortex
+T20	DISEASE 5631 5641	Dilated LV
+T58	DISEASE 5989 6009	Pericardial effusion
+T80	DISEASE 6052 6085	moderately dilated left ventricle
+T63	DISEASE 6145 6177	Moderate LV systolic dysfunction
+T22	DISEASE 6269 6290	Slightly dilated A.I.
+T21	DISEASE 6295 6318	thickened cusp leaflets
+T23	DISEASE 6406 6408	MI
+T24	DISEASE 6781 6783	TR
+T26	DISEASE 7359 7386	LV indexed slightly dilated
+T27	DISEASE 7589 7591	MI
+T59	DISEASE 7641 7661	pericardial effusion
+T64	DISEASE 7912 7945	left anterior thalamic infarction
+T30	DISEASE 8480 8499	cognitive disorders
+T65	DISEASE 8532 8558	thalamic vascular dementia
+T66	DISEASE 8600 8635	frank heart failure with orthopnoea
+T52	DISEASE 8637 8663	bilateral pleural effusion
+T76	DISEASE 8665 8677	hepatomegaly
+T31	DISEASE 8824 8826	HF
+T67	DISEASE 8872 8905	upper respiratory tract infection
+T68	DISEASE 9023 9040	myocardial oedema
+T55	DISEASE 9910 9940	severe ventricular dysfunction
+T69	DISEASE 9952 9969	acute myocarditis
+T70	DISEASE 9984 10008	Congestive heart failure
+T71	DISEASE 10028 10072	Left thalamic stroke of cardioembolic origin

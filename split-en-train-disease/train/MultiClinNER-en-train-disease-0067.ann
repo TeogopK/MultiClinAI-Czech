@@ -1,0 +1,25 @@
+T4	DISEASE 182 196	conjunctivitis
+T12	DISEASE 340 357	diabetes mellitus
+T23	DISEASE 359 371	hypertension
+T13	DISEASE 373 380	obesity
+T14	DISEASE 382 399	hepatic steatosis
+T15	DISEASE 401 416	hyperthyroidism
+T16	DISEASE 418 441	ischaemic heart disease
+T17	DISEASE 472 493	chronic renal failure
+T18	DISEASE 472 529	chronic renal failure secondary to chronic pyelonephritis
+T20	DISEASE 507 529	chronic pyelonephritis
+T6	DISEASE 1099 1113	corneal oedema
+T32	DISEASE 1196 1203	lesions
+T21	DISEASE 1387 1403	moderately obese
+T1	DISEASE 1452 1471	ocular hypertension
+T19	DISEASE 1623 1631	glaucoma
+T9	DISEASE 1700 1732	severe apnoea-hypopnoea syndrome
+T2	DISEASE 1795 1814	mild corneal oedema
+T40	DISEASE 1833 1851	punctate keratitis
+T8	DISEASE 1949 1963	corneal oedema
+T10	DISEASE 1998 2023	carotid-cavernous fistula
+T11	DISEASE 2030 2051	orbital apex syndrome
+T3	DISEASE 2571 2601	orbital and/or cranial disease
+T5	DISEASE 2617 2633	peripheral ulcer
+T45	DISEASE 3020 3041	corneal lesion healed
+T7	DISEASE 3069 3076	leukoma

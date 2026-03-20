@@ -1,0 +1,15 @@
+T1	PROCEDURE 172 177	birth
+T2	PROCEDURE 404 421	intestinal biopsy
+T3	PROCEDURE 790 810	Physical examination
+T18	PROCEDURE 918 929	Blood tests
+T19	PROCEDURE 938 947	haemogram
+T4	PROCEDURE 952 963	coagulation
+T5	PROCEDURE 1093 1112	immunological study
+T26	PROCEDURE 1235 1268	Serology against HBV, HCV and HIV
+T6	PROCEDURE 1279 1322	Anti-tissue transglutaminase IgA antibodies
+T11	PROCEDURE 1397 1405	sediment
+T7	PROCEDURE 1440 1456	Renal ultrasound
+T8	PROCEDURE 1537 1562	percutaneous renal biopsy
+T12	PROCEDURE 1668 1701	treatment with a gluten-free diet
+T10	PROCEDURE 1739 1745	statin
+T9	PROCEDURE 1747 1776	aspirin at antiplatelet doses

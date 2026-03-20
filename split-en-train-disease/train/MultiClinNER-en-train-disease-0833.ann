@@ -1,0 +1,19 @@
+T10	DISEASE 121 128	smoking
+T11	DISEASE 130 142	hypertension
+T12	DISEASE 144 179	insulin-dependent diabetes mellitus
+T13	DISEASE 184 191	obesity
+T14	DISEASE 228 251	ischaemic heart disease
+T15	DISEASE 364 391	severe mitral insufficiency
+T16	DISEASE 520 547	acute myocardial infarction
+T22	DISEASE 579 598	atrial fibrillation
+T17	DISEASE 579 630	atrial fibrillation with rapid ventricular response
+T18	DISEASE 751 777	iliac and femoral aneurysm
+T19	DISEASE 822 857	severe left ventricular dysfunction
+T20	DISEASE 947 976	moderate aortic insufficiency
+T21	DISEASE 2192 2214	acute pulmonary oedema
+T25	DISEASE 2579 2591	hepatomegaly
+T23	DISEASE 2739 2758	atrial fibrillation
+T26	DISEASE 3676 3684	thrombus
+T24	DISEASE 4170 4187	valvular thrombus
+T27	DISEASE 4179 4187	thrombus
+T28	DISEASE 4699 4707	thrombus

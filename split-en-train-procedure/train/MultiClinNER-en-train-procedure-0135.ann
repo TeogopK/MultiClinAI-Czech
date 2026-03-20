@@ -1,0 +1,12 @@
+T11	PROCEDURE 883 894	examination
+T1	PROCEDURE 896 924	cardiopulmonary auscultation
+T2	PROCEDURE 937 952	ENT examination
+T7	PROCEDURE 1045 1068	osteotendinous reflexes
+T17	PROCEDURE 1127 1138	Blood tests
+T9	PROCEDURE 1279 1291	Biochemistry
+T6	PROCEDURE 1373 1384	throat swab
+T8	PROCEDURE 1512 1532	antibiotic treatment
+T3	PROCEDURE 1924 1961	physical and neurological examination
+T4	PROCEDURE 1963 1997	Cranial magnetic resonance imaging
+T5	PROCEDURE 2002 2022	electroencephalogram
+T27	PROCEDURE 2395 2437	anti-streptolysin O (ASLO) antibody levels

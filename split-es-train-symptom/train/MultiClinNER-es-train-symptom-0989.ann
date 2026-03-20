@@ -1,0 +1,63 @@
+T1	SYMPTOM 765 773	sangrado
+T2	SYMPTOM 1410 1423	ritmo sinusal
+T3	SYMPTOM 1637 1665	función biventricular normal
+T4	SYMPTOM 2301 2312	hipotensión
+T5	SYMPTOM 2370 2415	hemodinámicamente y respiratoriamente estable
+T6	SYMPTOM 2469 2482	ritmo sinusal
+T7	SYMPTOM 2822 2850	paresia del miembro inferior
+T8	SYMPTOM 3733 3748	sangrado activo
+T9	SYMPTOM 3867 3894	buena mecánica respiratoria
+T10	SYMPTOM 3899 3926	crepitación en la palpación
+T11	SYMPTOM 3951 3980	murmullo vesicular conservado
+T12	SYMPTOM 3986 4004	ruidos patológicos
+T13	SYMPTOM 4006 4053	Auscultación cardiaca: tonos apagados, rítmicos
+T14	SYMPTOM 4055 4082	click de apertura protésico
+T15	SYMPTOM 4088 4094	soplos
+T16	SYMPTOM 4098 4108	extratonos
+T17	SYMPTOM 4131 4165	abdomen no distendido, no doloroso
+T20	SYMPTOM 4226 4242	puntos dolorosos
+T21	SYMPTOM 4260 4290	Extremidades: no excoriaciones
+T22	SYMPTOM 4312 4335	inestabilidad articular
+T23	SYMPTOM 4383 4418	Pupilas isocóricas, normorreactivas
+T24	SYMPTOM 4842 4876	Hemocultivos posteriores negativos
+T25	SYMPTOM 4958 4976	plaquetas normales
+T26	SYMPTOM 4978 4997	leucocitos normales
+T27	SYMPTOM 5003 5035	elevación de proteína C reactiva
+T28	SYMPTOM 5080 5109	perfil renal sin alteraciones
+T29	SYMPTOM 5201 5243	perfil hepático y perfil tiroideo normales
+T30	SYMPTOM 5282 5294	leucocitosis
+T31	SYMPTOM 5298 5309	neutrofilia
+T32	SYMPTOM 5346 5359	ritmo sinusal
+T33	SYMPTOM 5385 5397	QRS estrecho
+T34	SYMPTOM 5431 5464	alteraciones de la repolarización
+T35	SYMPTOM 5559 5588	desplazamiento de línea media
+T36	SYMPTOM 5590 5653	Cambios inflamatorios en oído medio izquierdo y senos maxilares
+T37	SYMPTOM 5713 5779	ventrículo izquierdo no dilatado, con función sistólica conservada
+T40	SYMPTOM 6608 6653	aumento de gradientes tranprotésicos aórticos
+T44	SYMPTOM 8663 8677	picos febriles
+T45	SYMPTOM 8679 8730	creciendo en los hemocultivos Enterococcus faecalis
+T46	SYMPTOM 8752 8797	urocultivo positivo para Citrobacter freundii
+T48	SYMPTOM 10231 10263	dolor súbito en flanco izquierdo
+T49	SYMPTOM 10268 10290	elevación de LDH y PCR
+T50	SYMPTOM 10930 10937	afebril
+T51	SYMPTOM 11692 11698	fiebre
+T79	SYMPTOM 3270 3277	síncope
+T112	SYMPTOM 10827 10834	síncope
+T117	SYMPTOM 12270 12281	bacteriemia
+T135	SYMPTOM 2191 2208	episodio sincopal
+T136	SYMPTOM 12674 12691	episodio sincopal
+T247	SYMPTOM 2315 2326	bradicardia
+T249	SYMPTOM 3292 3303	bradicardia
+T250	SYMPTOM 3415 3426	bradicardia
+T246	SYMPTOM 1668 1701	prótesis aórtica normofuncionante
+T38	SYMPTOM 6296 6326	Vena cava inferior no dilatada
+T39	SYMPTOM 6537 6579	Pericardio de grosor y refringencia normal
+T41	SYMPTOM 7637 7670	Prótesis aórtica normofuncionante
+T43	SYMPTOM 8478 8518	prótesis aórtica con gradientes normales
+T260	SYMPTOM 6452 6480	Septo interauricular íntegro
+T264	SYMPTOM 5781 5806	Ventrículo derecho normal
+T266	SYMPTOM 2213 2233	amnesia del episodio
+T281	SYMPTOM 12094 12114	estable clínicamente
+T285	SYMPTOM 4646 4704	hemocultivos (08/01/18): en dos sets Enterococcus faecalis
+T286	SYMPTOM 10957 10990	hemocultivos de control estériles
+T296	SYMPTOM 11702 11732	positivización de hemocultivos

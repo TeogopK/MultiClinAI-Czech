@@ -1,0 +1,17 @@
+T29	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T3	PROCEDURE 348 363	David technique
+T4	PROCEDURE 503 511	delivery
+T5	PROCEDURE 513 552	vaginal delivery with vacuum extraction
+T30	PROCEDURE 893 913	Physical examination
+T38	PROCEDURE 1067 1080	Head and neck
+T39	PROCEDURE 1167 1172	Chest
+T7	PROCEDURE 1174 1189	mid thoracotomy
+T31	PROCEDURE 1205 1225	cardiac auscultation
+T32	PROCEDURE 1243 1265	Pulmonary auscultation
+T36	PROCEDURE 1352 1361	palpation
+T33	PROCEDURE 1559 1573	Echocardiogram
+T10	PROCEDURE 2183 2186	MRI
+T34	PROCEDURE 2475 2499	prenatal diagnostic test
+T35	PROCEDURE 2503 2518	molecular study
+T37	PROCEDURE 2567 2585	prenatal diagnosis
+T11	PROCEDURE 2842 2875	dilatation of the ascending aorta

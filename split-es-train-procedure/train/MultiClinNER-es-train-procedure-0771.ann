@@ -1,0 +1,28 @@
+T32	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T33	PROCEDURE 215 249	ablación del istmo cavotricuspídeo
+T34	PROCEDURE 251 277	Implante de marcapasos VDD
+T35	PROCEDURE 393 408	coronariografía
+T36	PROCEDURE 927 951	control ecocardiográfico
+T37	PROCEDURE 1679 1693	oxigenoterapia
+T38	PROCEDURE 2297 2315	exploración física
+T39	PROCEDURE 2568 2589	auscultación pulmonar
+T40	PROCEDURE 2717 2731	ecocardiograma
+T41	PROCEDURE 2999 3017	Electrocardiograma
+T42	PROCEDURE 3153 3173	Radiografía torácica
+T43	PROCEDURE 3341 3386	Electrocatéter de marcapasos normoposicionado
+T44	PROCEDURE 3388 3407	Analítica sanguínea
+T45	PROCEDURE 3422 3431	Hemograma
+T46	PROCEDURE 4152 4162	Hemostasia
+T47	PROCEDURE 4313 4332	Analítica sanguínea
+T48	PROCEDURE 4421 4435	Ecocardiograma
+T49	PROCEDURE 5137 5152	Coronariografía
+T51	PROCEDURE 6072 6098	se interroga el marcapasos
+T53	PROCEDURE 6260 6288	ecocardiograma transtorácico
+T54	PROCEDURE 7013 7028	coronariografía
+T55	PROCEDURE 7143 7185	implante valvular transcatéter vía femoral
+T56	PROCEDURE 7242 7265	valvulotomía percutánea
+T13	PROCEDURE 3836 3846	Bioquímica
+T100	PROCEDURE 7187 7191	TAVI
+T128	PROCEDURE 5849 5897	tratamiento depletivo con furosemida intravenosa
+T103	PROCEDURE 1694 1703	diurético
+#1	AnnotatorNotes T100	Implante de válvula aórtica transcatéter

@@ -1,0 +1,25 @@
+T83	DISEASE 101 115	drug allergies
+T84	DISEASE 136 148	toxic habits
+T85	DISEASE 159 173	social drinker
+T86	DISEASE 179 185	smoker
+T87	DISEASE 1312 1324	appendicitis
+T89	DISEASE 1851 1863	Coagulopathy
+T90	DISEASE 2354 2373	acute cholecystitis
+T91	DISEASE 2377 2397	bile duct dilatation
+T92	DISEASE 2482 2491	lithiasis
+T93	DISEASE 2495 2509	hydronephrosis
+T94	DISEASE 2713 2764	reactive lymphadenopathies in the right iliac fossa
+T95	DISEASE 3073 3080	ileitis
+T88	DISEASE 3169 3181	appendicitis
+T96	DISEASE 4545 4556	myocarditis
+T99	DISEASE 4747 4779	moderate LV systolic dysfunction
+T105	DISEASE 5205 5275	Dilated inferior vena cava (IVC) without adequate inspiratory collapse
+T100	DISEASE 5280 5300	pericardial effusion
+T101	DISEASE 5513 5518	COVID
+T106	DISEASE 6203 6220	arrhythmic events
+T102	DISEASE 6411 6424	heart failure
+T107	DISEASE 6771 6783	nodal rhythm
+T103	DISEASE 7026 7041	vagal hypotonia
+T97	DISEASE 7083 7094	myocarditis
+T98	DISEASE 7628 7639	Myocarditis
+T104	DISEASE 7691 7711	SARS-CoV-2 infection

@@ -1,0 +1,74 @@
+T1	SYMPTOM 670 680	chest pain
+T3	SYMPTOM 722 751	oppressive central chest pain
+T4	SYMPTOM 840 857	vegetative cortex
+T2	SYMPTOM 927 973	electrocardiogram that showed no abnormalities
+T6	SYMPTOM 1006 1014	vomiting
+T7	SYMPTOM 1019 1036	diarrhoeic stools
+T9	SYMPTOM 1060 1064	pain
+T10	SYMPTOM 1217 1254	intense, stabbing, non-radiating pain
+T5	SYMPTOM 1350 1367	vegetative cortex
+T12	SYMPTOM 1376 1381	fever
+T11	SYMPTOM 1596 1600	pain
+T13	SYMPTOM 1720 1741	precordial discomfort
+T14	SYMPTOM 1812 1819	anxiety
+T8	SYMPTOM 1946 1982	elevation of ultrasensitive troponin
+T15	SYMPTOM 2479 2507	Acceptable general condition
+T16	SYMPTOM 2509 2522	normohydrated
+T53	SYMPTOM 2524 2537	normoperfused
+T17	SYMPTOM 2539 2554	eupneic at rest
+T18	SYMPTOM 2559 2580	jugular ingurgitation
+T19	SYMPTOM 2582 2612	Cardiac auscultation: rhythmic
+T20	SYMPTOM 2617 2624	murmurs
+T55	SYMPTOM 2650 2690	vesicular murmur preserved in all fields
+T54	SYMPTOM 2695 2707	extra sounds
+T21	SYMPTOM 2709 2731	Lower limbs: no oedema
+T22	SYMPTOM 2767 2788	good distal perfusion
+T23	SYMPTOM 2790 2808	symmetrical pulses
+T46	SYMPTOM 3072 3092	ions in normal range
+T56	SYMPTOM 3345 3361	haemogram normal
+T57	SYMPTOM 3363 3393	renal function and ions normal
+T58	SYMPTOM 3416 3436	Procalcitonin normal
+T24	SYMPTOM 3470 3482	sinus rhythm
+T26	SYMPTOM 3507 3517	narrow QRS
+T29	SYMPTOM 3519 3530	normal axis
+T28	SYMPTOM 3532 3557	Amputated R wave in V4-V5
+T59	SYMPTOM 3559 3607	Diffuse ST elevation in V2-V5 and inferior aspec
+T25	SYMPTOM 3644 3656	sinus rhythm
+T27	SYMPTOM 3681 3691	narrow QRS
+T30	SYMPTOM 3693 3704	normal axis
+T31	SYMPTOM 3706 3754	ST-segment elevation in V2-5 and inferior aspect
+T60	SYMPTOM 3760 3775	negative T-wave
+T61	SYMPTOM 3821 3862	cardiothoracic index within normal limits
+T47	SYMPTOM 3864 3889	free costophrenic sinuses
+T32	SYMPTOM 3906 3929	vascular redistribution
+T33	SYMPTOM 3934 3955	parenchymal opacities
+T48	SYMPTOM 3957 4012	SARS-CoV-2 PCR on admission and at 8 days: undetectable
+T34	SYMPTOM 4014 4061	SARS-CoV-2 serology: IgG negative; IgM positive
+T62	SYMPTOM 4114 4199	non-dilated, non-hypertrophic left ventricle, with preserved global systolic function
+T63	SYMPTOM 4201 4343	Akinesia of the apex and apical segments of the inferior septum and inferior face, and of the apical and middle segment of the anterior septum
+T35	SYMPTOM 4400 4443	Right ventricle of normal size and function
+T41	SYMPTOM 4445 4515	Akinesia of the most apical segment of the right ventricular free wall
+T64	SYMPTOM 4517 4537	Atria of normal size
+T42	SYMPTOM 4718 4765	Coronary arteries with normal anatomical origin
+T44	SYMPTOM 4767 4782	Right dominance
+T65	SYMPTOM 4784 4855	Left coronary artery trunk: vessel of good development, without lesions
+T66	SYMPTOM 5117 5153	Diagonals: 2 of moderate development
+T49	SYMPTOM 5207 5262	Circumflex (CX): well-developed vessel, without lesions
+T67	SYMPTOM 5383 5462	Right coronary artery (RC): dominant vessel of good development, without lesion
+T68	SYMPTOM 5465 5538	Posterior descending pulmonary artery (PVI): poorly developed, no lesions
+T69	SYMPTOM 5699 5716	Trunk: no lesions
+T70	SYMPTOM 5967 5993	CX: no significant lesions
+T50	SYMPTOM 5995 6007	CD: dominant
+T71	SYMPTOM 6221 6264	Left coronary artery (LMCA) without lesions
+T51	SYMPTOM 6827 6897	Circumflex of good calibre and development without significant lesions
+T52	SYMPTOM 6899 6989	Dominant right coronary artery of good calibre and development without significant lesions
+T72	SYMPTOM 7539 7586	Akinesia of the apical segments and strict apex
+T36	SYMPTOM 7707 7750	Right ventricle of normal size and function
+T73	SYMPTOM 7752 7772	Atria of normal size
+T74	SYMPTOM 8059 8096	positive result of the Sars-Cov-2 PCR
+T37	SYMPTOM 8936 8948	asymptomatic
+T38	SYMPTOM 8966 8989	haemodynamically stable
+T39	SYMPTOM 9268 9313	chest discomfort with an inflammatory profile
+T45	SYMPTOM 9323 9356	increase in acute phase reactants
+T43	SYMPTOM 11169 11184	Apical akinesia
+T40	SYMPTOM 11207 11258	Preserved global left ventricular systolic function

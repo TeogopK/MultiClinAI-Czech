@@ -1,0 +1,41 @@
+T1	SYMPTOM 399 409	chest pain
+T2	SYMPTOM 695 703	dyspnoea
+T3	SYMPTOM 705 713	asthenia
+T4	SYMPTOM 5051 5059	asthenia
+T5	SYMPTOM 715 723	anorexia
+T6	SYMPTOM 5061 5069	anorexia
+T7	SYMPTOM 728 739	weight loss
+T8	SYMPTOM 5074 5085	weight loss
+T9	SYMPTOM 774 784	orthopnoea
+T10	SYMPTOM 788 821	oedematisation of the lower limbs
+T11	SYMPTOM 847 859	palpitations
+T12	SYMPTOM 1363 1372	Conscious
+T13	SYMPTOM 1374 1382	oriented
+T14	SYMPTOM 1421 1431	arrhythmic
+T15	SYMPTOM 1448 1455	murmurs
+T16	SYMPTOM 1501 1526	Abdomen soft, not painful
+T17	SYMPTOM 1531 1537	masses
+T18	SYMPTOM 1541 1550	megaliths
+T19	SYMPTOM 1576 1604	Lower extremities: no oedema
+T20	SYMPTOM 1992 2021	Anti DNA and antiENA negative
+T21	SYMPTOM 4818 4844	intraperitoneal free fluid
+T22	SYMPTOM 5463 5489	persistent afternoon fever
+T23	SYMPTOM 5513 5523	haematuria
+T24	SYMPTOM 5528 5539	proteinuria
+T25	SYMPTOM 5684 5693	epistaxis
+T26	SYMPTOM 2139 2163	Pulmonary hyperinflation
+T27	SYMPTOM 4070 4115	Homogeneous liver, normal size and morphology
+T28	SYMPTOM 4216 4243	Bile duct of normal calibre
+T29	SYMPTOM 4352 4389	Kidneys of normal size and morphology
+T30	SYMPTOM 1042 1063	elevation of NTproBNP
+T31	SYMPTOM 1384 1397	normal colour
+T32	SYMPTOM 1552 1574	persistalsis preserved
+T33	SYMPTOM 2165 2216	Residual impingement of the left costophrenic sinus
+T34	SYMPTOM 2509 2540	Global contractility preserved,
+T35	SYMPTOM 2827 2880	Mitral valve (MV) with normal appearance and function
+T36	SYMPTOM 2882 2922	Cava and suprahepatic valves not dilated
+T37	SYMPTOM 4245 4284	Pancreas and spleen without alterations
+T38	SYMPTOM 4286 4350	Slight bilateral adrenal thickening with hyperplastic appearance
+T39	SYMPTOM 5405 5461	migratory arthralgias (in the elbows and right shoulder)
+T40	SYMPTOM 5554 5574	normal renal functio
+T41	SYMPTOM 6086 6126	positive P-ANCA and C-ANCA autoantibodie

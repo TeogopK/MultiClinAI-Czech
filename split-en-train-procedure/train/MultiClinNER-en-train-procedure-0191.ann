@@ -1,0 +1,17 @@
+T13	PROCEDURE 211 230	Immunological tests
+T14	PROCEDURE 337 405	Serologies for hepatotropic viruses and human immunodeficiency virus
+T1	PROCEDURE 464 484	Physical examination
+T2	PROCEDURE 585 631	thoracoabdominal computed tomography (CT) scan
+T19	PROCEDURE 623 625	CT
+T22	PROCEDURE 1048 1064	Laboratory tests
+T8	PROCEDURE 1116 1128	proteinogram
+T3	PROCEDURE 1175 1202	Serum immunoelectrophoresis
+T11	PROCEDURE 1343 1351	sediment
+T6	PROCEDURE 1404 1416	Renal biopsy
+T30	PROCEDURE 1634 1696	analytical control revealed a peripheral blood immunophenotype
+T4	PROCEDURE 1761 1781	bone marrow aspirate
+T5	PROCEDURE 1949 1961	chemotherapy
+T7	PROCEDURE 2084 2096	renal biopsy
+T9	PROCEDURE 2388 2403	plasma exchange
+T10	PROCEDURE 2422 2441	anti-CD20 treatment
+T37	PROCEDURE 2651 2723	treatment with double blockade of the renin-angiotensin-aldosterone axis

@@ -1,0 +1,13 @@
+T5	PROCEDURE 220 240	physical examination
+T11	PROCEDURE 288 296	palpable
+T1	PROCEDURE 541 552	Chest X-ray
+T9	PROCEDURE 574 585	bone survey
+T16	PROCEDURE 587 609	simple abdominal X-ray
+T10	PROCEDURE 646 650	IVUS
+T3	PROCEDURE 964 974	ultrasound
+T8	PROCEDURE 1158 1176	Surgical treatment
+T7	PROCEDURE 1245 1277	blood replacement by transfusion
+T25	PROCEDURE 1290 1299	operation
+T12	PROCEDURE 1309 1426	tumours were observed in the meso of the transverse colon, the largest measuring 7cm, which were resected and removed
+T6	PROCEDURE 1446 1469	Macroscopic examination
+T2	PROCEDURE 1845 1872	histopathological diagnosis

@@ -1,0 +1,29 @@
+T95	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T97	PROCEDURE 308 311	ECG
+T100	PROCEDURE 850 861	cardiac MRI
+T101	PROCEDURE 863 869	Holter
+T102	PROCEDURE 1086 1095	Ergometry
+T103	PROCEDURE 1438 1451	Genetic study
+T115	PROCEDURE 1707 1729	Surgical interventions
+T104	PROCEDURE 1731 1743	hysterectomy
+T116	PROCEDURE 1731 1766	hysterectomy and double adnexectomy
+T105	PROCEDURE 1748 1766	double adnexectomy
+T96	PROCEDURE 2548 2568	Physical examination
+T106	PROCEDURE 2698 2718	Cardiac auscultation
+T107	PROCEDURE 2757 2776	Valsalva manoeuvres
+T108	PROCEDURE 2778 2800	Pulmonary auscultation
+T98	PROCEDURE 2970 2973	ECG
+T4	PROCEDURE 3164 3180	Laboratory tests
+T5	PROCEDURE 3514 3542	Transthoracic echocardiogram
+T10	PROCEDURE 4587 4616	Post-implantation chest X-ray
+T12	PROCEDURE 4618 4666	bicameral implantable cardioverter defibrillator
+T11	PROCEDURE 4668 4671	ICD
+T109	PROCEDURE 4828 4845	Electrocardiogram
+T99	PROCEDURE 4847 4850	ECG
+T117	PROCEDURE 4896 4905	pacemaker
+T110	PROCEDURE 5221 5243	beta-blocker treatment
+T111	PROCEDURE 5561 5583	beta-blocker treatment
+T112	PROCEDURE 5585 5601	ICD implantation
+T16	PROCEDURE 5743 5766	anticoagulant treatment
+T114	PROCEDURE 5780 5806	Bicameral ICD implantation
+T15	PROCEDURE 6180 6209	Implantation of bicameral ICD

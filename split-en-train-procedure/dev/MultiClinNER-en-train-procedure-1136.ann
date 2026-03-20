@@ -1,0 +1,37 @@
+T67	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 705 715	vaccinated
+T68	PROCEDURE 1178 1195	Electrocardiogram
+T69	PROCEDURE 1322 1342	Portable chest X-ray
+T70	PROCEDURE 1850 1878	transthoracic echocardiogram
+T2	PROCEDURE 2237 2245	Serology
+T72	PROCEDURE 2269 2283	Blood cultures
+T73	PROCEDURE 2295 2309	Urine cultures
+T3	PROCEDURE 2321 2358	Pharyngeal smear and tracheal exudate
+T74	PROCEDURE 2386 2407	Endomyocardial biopsy
+T75	PROCEDURE 2409 2430	endomyocardial biopsy
+T77	PROCEDURE 2548 2551	ECG
+T78	PROCEDURE 2695 2711	Echocardiography
+T80	PROCEDURE 3017 3028	Cardiac MRI
+T4	PROCEDURE 3318 3344	Renal and hepatic function
+T93	PROCEDURE 3349 3380	biomarkers of myocardial damage
+T92	PROCEDURE 3682 3692	monitoring
+T5	PROCEDURE 3820 3848	vasoactive support treatment
+T76	PROCEDURE 3865 3886	endomyocardial biopsy
+T81	PROCEDURE 3988 4015	intravenous corticosteroids
+T82	PROCEDURE 4201 4243	treatment with intravenous antiarrhythmics
+T83	PROCEDURE 4268 4292	electrical cardioversion
+T6	PROCEDURE 4345 4381	implant an intra-aortic balloon pump
+T8	PROCEDURE 4406 4472	peripheral veno-arterial ECMO (extracorporeal membrane oxygenation
+T7	PROCEDURE 4431 4485	ECMO (extracorporeal membrane oxygenation) cannulation
+T84	PROCEDURE 4513 4538	renal replacement therapy
+T85	PROCEDURE 4615 4645	mechanical circulatory support
+T9	PROCEDURE 4687 4725	ECMO and IABP were gradually withdrawn
+T87	PROCEDURE 4831 4855	neurohormonal medication
+T79	PROCEDURE 4914 4930	echocardiography
+T88	PROCEDURE 5017 5043	magnetic resonance imaging
+T71	PROCEDURE 5279 5289	serologies
+T10	PROCEDURE 5300 5308	cultures
+T89	PROCEDURE 5535 5558	neurohormonal treatment
+T90	PROCEDURE 5560 5583	Neurohormonal treatment
+T86	PROCEDURE 5706 5736	mechanical circulatory support
+T91	PROCEDURE 5878 5901	neurohormonal treatment

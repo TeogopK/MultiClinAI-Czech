@@ -1,0 +1,30 @@
+T27	DISEASE 366 385	ictus de repetición
+T28	DISEASE 507 528	hipertensión arterial
+T29	DISEASE 530 540	Dislipemia
+T30	DISEASE 542 549	Fumador
+T31	DISEASE 621 653	Fibrilación auricular permanente
+T32	DISEASE 1035 1048	valvulopatías
+T33	DISEASE 1148 1173	insuficiencia tricuspídea
+T34	DISEASE 1175 1177	IT
+T35	DISEASE 1367 1397	ictus de perfil cardioembólico
+T36	DISEASE 1638 1658	ictus cardioembólico
+T37	DISEASE 2100 2105	ictus
+T38	DISEASE 2243 2263	Ictus cardioembólico
+T39	DISEASE 2308 2311	AIT
+T40	DISEASE 2544 2562	bronquitis crónica
+T41	DISEASE 2646 2667	Hernia supraumbilical
+T42	DISEASE 4045 4066	fibrilación auricular
+T43	DISEASE 4336 4366	dilatación auricular izquierda
+T45	DISEASE 4661 4674	valvulopatías
+T46	DISEASE 4810 4831	fibrilación auricular
+T47	DISEASE 5169 5251	trombosis del dispositivo Amulet (St Jude Medical) de cierre de orejuela izquierda
+T48	DISEASE 5412 5418	trombo
+T49	DISEASE 5940 5972	Fibrilación auricular permanente
+T50	DISEASE 6042 6095	accidentes cerebrovasculares de perfil cardioembólico
+T51	DISEASE 6260 6319	Trombosis sobre dispositivo de cierre de orejuela izquierda
+T52	DISEASE 4766 4768	IT
+T53	DISEASE 932 963	Aurícula izquierda muy dilatada
+T54	DISEASE 4556 4600	Ventrículo izquierdo de diámetros aumentados
+T18	DISEASE 4536 4542	trombo
+#1	AnnotatorNotes T34	  Insuficiencia tricuspídea
+#2	AnnotatorNotes T39	  accidente isquémico transitorio

@@ -1,0 +1,18 @@
+T1	SYMPTOM 1122 1132	chest pain
+T2	SYMPTOM 1141 1149	dyspnoea
+T4	SYMPTOM 1209 1221	sinus rhythm
+T5	SYMPTOM 1240 1259	negative T in V3-V4
+T10	SYMPTOM 2186 2197	normal LVEF
+T13	SYMPTOM 2241 2282	systolic murmur II/VI in the aortic focus
+T14	SYMPTOM 3454 3476	apical septal akinesia
+T6	SYMPTOM 3481 3520	mid-septal-anterior segment hypokinesia
+T15	SYMPTOM 3522 3540	Normal global LVEF
+T16	SYMPTOM 3542 3589	Normal aortic valve (AoV) and mitral valve (MV)
+T11	SYMPTOM 3599 3620	diastolic dysfunction
+T12	SYMPTOM 3647 3695	Right ventricle (RV) of normal size and function
+T17	SYMPTOM 3746 3775	central venous pressure (CVP)
+T18	SYMPTOM 3802 3828	Aortic root of normal size
+T7	SYMPTOM 3833 3852	intracardiac masses
+T8	SYMPTOM 4070 4081	chest pains
+T3	SYMPTOM 4131 4167	slight dyspnoea on moderate exertion
+T9	SYMPTOM 4845 4859	preserved LVEF

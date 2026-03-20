@@ -1,0 +1,34 @@
+T1	PROCEDURE 1604 1623	TAC toracoabdominal
+T2	PROCEDURE 2585 2611	tratamiento con diuréticos
+T3	PROCEDURE 556 577	tratamiento diurético
+T4	PROCEDURE 3781 3802	tratamiento dietético
+T5	PROCEDURE 3051 3089	evacuación de 14 L de líquido ascítico
+T6	PROCEDURE 1011 1020	hemograma
+T7	PROCEDURE 1750 1769	ecografía abdominal
+T8	PROCEDURE 3734 3743	hemograma
+T9	PROCEDURE 721 744	paracentesis evacuadora
+T10	PROCEDURE 1198 1212	perfil celíaco
+T11	PROCEDURE 1883 1900	fibroenteroscopia
+T12	PROCEDURE 862 908	se evacuan 14 litros más de líquido peritoneal
+T13	PROCEDURE 336 359	laparotomía exploradora
+T14	PROCEDURE 4859 4878	ecografía abdominal
+T15	PROCEDURE 3306 3324	exploración física
+T16	PROCEDURE 404 443	evacuaron 12 litros de líquido ascítico
+T17	PROCEDURE 2091 2101	ileoscopia
+T18	PROCEDURE 4248 4292	fórmula hiperproteica para nutrición enteral
+T19	PROCEDURE 2231 2248	capsuloendoscopia
+T20	PROCEDURE 2386 2414	biopsia de mucosa intestinal
+T21	PROCEDURE 1353 1380	Estudio de función tiroidea
+T22	PROCEDURE 2218 2226	biopsias
+T23	PROCEDURE 1579 1586	cultivo
+T24	PROCEDURE 3719 3730	lipidograma
+T25	PROCEDURE 1409 1431	proteinograma en suero
+T26	PROCEDURE 1228 1248	marcadores tumorales
+T27	PROCEDURE 3700 3710	bioquímica
+T28	PROCEDURE 4349 4379	complemento vitamínico-mineral
+T29	PROCEDURE 1066 1084	estudio del hierro
+T30	PROCEDURE 1252 1259	Mantoux
+T31	PROCEDURE 4027 4072	se aportan los lípidos en forma de aceite MCT
+T32	PROCEDURE 1103 1120	perfil bioquímico
+T33	PROCEDURE 3965 4023	aporte de grasas procedentes de los alimentos se restringe
+T34	PROCEDURE 3819 3838	dieta personalizada

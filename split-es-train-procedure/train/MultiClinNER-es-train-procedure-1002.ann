@@ -1,0 +1,30 @@
+T62	PROCEDURE 942 960	exploración física
+T63	PROCEDURE 1090 1111	auscultación pulmonar
+T64	PROCEDURE 1138 1156	Electrocardiograma
+T65	PROCEDURE 1158 1161	ECG
+T66	PROCEDURE 1337 1357	Radiografía de tórax
+T67	PROCEDURE 1423 1451	Ecocardiograma transtorácico
+T68	PROCEDURE 1882 1926	Tomografía axial computarizada (TAC) craneal
+T69	PROCEDURE 2070 2112	Resonancia magnética nuclear (RMN) craneal
+T70	PROCEDURE 2496 2508	RMN cardiaca
+T71	PROCEDURE 2875 2902	Coronariografía diagnóstica
+T72	PROCEDURE 2953 2969	Estudio genético
+T73	PROCEDURE 3096 3117	tratamiento diurético
+T74	PROCEDURE 3574 3577	RMN
+T75	PROCEDURE 3757 3772	coronariografía
+T76	PROCEDURE 3796 3812	estudio genético
+T77	PROCEDURE 3904 3930	tratamiento antitrombótico
+T78	PROCEDURE 3942 3968	tratamiento anticoagulante
+T79	PROCEDURE 3984 4016	heparinas de bajo peso molecular
+T80	PROCEDURE 4154 4166	RMN cerebral
+T81	PROCEDURE 4318 4345	tratamiento antirretroviral
+T82	PROCEDURE 4357 4377	anticoagulación oral
+T83	PROCEDURE 4682 4694	RMN cardiaca
+T84	PROCEDURE 4710 4725	anticoagulación
+T91	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 3590 3639	implantar un desfibrilador automático implantable
+T93	PROCEDURE 3353 3367	monitorización
+T94	PROCEDURE 1914 1917	TAC
+T95	PROCEDURE 2100 2104	RMN)
+T106	PROCEDURE 1811 1820	Analítica
+T108	PROCEDURE 3641 3644	DAI

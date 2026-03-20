@@ -1,0 +1,40 @@
+T25	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T26	PROCEDURE 134 162	revascularización quirúrgica
+T27	PROCEDURE 167 189	bypass VSF-DA y VSF-CD
+T28	PROCEDURE 291 308	Holter de control
+T29	PROCEDURE 339 342	EEF
+T30	PROCEDURE 376 411	Se implanta en 2003 DAI monocameral
+T31	PROCEDURE 471 485	ecocardiograma
+T32	PROCEDURE 733 777	DAI con terapia de resincronización cardiaca
+T33	PROCEDURE 779 786	DAI-TRC
+T34	PROCEDURE 927 985	implante de electrodo tetrapolar en vena lateral izquierda
+T35	PROCEDURE 1502 1528	betabloqueante intravenoso
+T36	PROCEDURE 1654 1657	ATP
+T37	PROCEDURE 1719 1737	CV interna con DAI
+T38	PROCEDURE 1831 1864	inducción anestésica con propofol
+T39	PROCEDURE 1911 1929	Exploración física
+T40	PROCEDURE 2070 2091	Auscultación cardiaca
+T41	PROCEDURE 2131 2152	Auscultación pulmonar
+T42	PROCEDURE 2217 2226	palpación
+T43	PROCEDURE 2396 2424	Ecocardiograma transtorácico
+T44	PROCEDURE 2945 2965	Radiografía de tórax
+T45	PROCEDURE 3049 3052	ECG
+T46	PROCEDURE 3189 3208	Analítica sanguínea
+T47	PROCEDURE 3210 3230	marcadores cardiacos
+T48	PROCEDURE 3439 3448	Hemograma
+T49	PROCEDURE 3530 3541	Coagulación
+T50	PROCEDURE 3756 3770	ablación de TV
+T51	PROCEDURE 3772 3870	Mediante sistema de navegación CARTO 3 se realiza reconstrucción anatómica y mapa de voltaje de VI
+T52	PROCEDURE 4249 4307	Se abolieron los LP mediante aplicación de radiofrecuencia
+T53	PROCEDURE 4344 4383	maniobras de estimulación desde VD y VI
+T54	PROCEDURE 4426 4479	se reprograma estimulación VI en bipolar desde anillo
+T55	PROCEDURE 4624 4649	resincronización cardiaca
+T56	PROCEDURE 4956 4992	terapia de resincronización cardiaca
+T57	PROCEDURE 5088 5149	Ablación mediante radiofrecuencia de sustrato de TV isquémica
+T59	PROCEDURE 1667 1701	sedación con midazolam y etomidato
+T63	PROCEDURE 3271 3281	Bioquímica
+T64	PROCEDURE 3392 3408	Función tiroidea
+T65	PROCEDURE 3648 3662	monitorización
+T131	PROCEDURE 876 888	intervención
+T134	PROCEDURE 3985 3996	pacemapping
+#1	AnnotatorNotes T36	  Estimulación antitaquicardia ventricular

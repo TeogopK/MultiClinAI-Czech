@@ -1,0 +1,14 @@
+T1	SYMPTOM 117 136	cervicalgia crónica
+T2	SYMPTOM 200 223	alteración de la marcha
+T3	SYMPTOM 226 270	pérdida progresiva de fuerza en extremidades
+T4	SYMPTOM 313 334	disfagia para sólidos
+T5	SYMPTOM 347 365	síntomas disneicos
+T6	SYMPTOM 1290 1298	disfagia
+T7	SYMPTOM 436 462	hiperreflexia generalizada
+T8	SYMPTOM 464 489	signo de Romberg positivo
+T9	SYMPTOM 492 498	ataxia
+T10	SYMPTOM 518 585	engrosamiento de partes blandas alrededor de la apófisis odontoides
+T11	SYMPTOM 821 867	deforman y obliteran parcialmente la vía aérea
+T12	SYMPTOM 1332 1354	síntomas respiratorios
+A1	IMAGEN T10
+A2	IMAGEN T11

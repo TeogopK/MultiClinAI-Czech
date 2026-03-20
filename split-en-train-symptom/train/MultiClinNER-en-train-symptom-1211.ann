@@ -1,0 +1,40 @@
+T1	SYMPTOM 350 360	chest pain
+T4	SYMPTOM 548 565	vegetative cortex
+T2	SYMPTOM 710 720	chest pain
+T5	SYMPTOM 906 915	conscious
+T6	SYMPTOM 920 928	oriented
+T7	SYMPTOM 930 961	normal neurological examination
+T8	SYMPTOM 991 1017	preserved vesicular murmur
+T28	SYMPTOM 1035 1054	heart sounds normal
+T9	SYMPTOM 1059 1066	murmurs
+T10	SYMPTOM 1070 1080	extratonos
+T11	SYMPTOM 1085 1105	pericardial friction
+T29	SYMPTOM 1111 1145	Neck without jugular ingurgitation
+T12	SYMPTOM 1147 1184	Abdomen without pathological findings
+T13	SYMPTOM 1186 1218	Lower extremities without oedema
+T14	SYMPTOM 1525 1537	sinus rhythm
+T30	SYMPTOM 1549 1595	little R wave growth in right precordial leads
+T31	SYMPTOM 1606 1634	repolarisation abnormalities
+T15	SYMPTOM 1649 1674	normal cardiac silhouette
+T16	SYMPTOM 1743 1778	left ventricle of normal dimensions
+T17	SYMPTOM 1803 1830	Preserved systolic function
+T24	SYMPTOM 1879 1903	Normal diastolic pattern
+T18	SYMPTOM 1905 1923	Normal left atrium
+T32	SYMPTOM 1952 1987	Aortic root and aortic valve normal
+T33	SYMPTOM 1989 2010	Normal right chambers
+T27	SYMPTOM 2108 2123	right dominance
+T34	SYMPTOM 2125 2165	Left common trunk (LMCA) without lesions
+T25	SYMPTOM 2167 2214	Anterior descending artery (AD) without lesions
+T26	SYMPTOM 2488 2557	epicardial coronary arteries without significant hagiographic lesions
+T19	SYMPTOM 2706 2718	asymptomatic
+T21	SYMPTOM 2724 2755	physical examination was normal
+T22	SYMPTOM 2778 2803	changes in repolarisation
+T35	SYMPTOM 2807 2850	baseline transthoracic echocardiogram (TTE)
+T23	SYMPTOM 2889 2931	preserved global left ventricular function
+T20	SYMPTOM 3260 3272	asymptomatic
+T36	SYMPTOM 3284 3302	symptoms of angina
+T37	SYMPTOM 3376 3409	Blood test parameters were normal
+T38	SYMPTOM 3676 3773	pseudo lesion with the appearance of a severe plaque was detected at the level of the middle LMCA
+T3	SYMPTOM 3810 3820	chest pain
+T39	SYMPTOM 3865 3896	ST segment elevation in lead II
+T40	SYMPTOM 4130 4156	repolarisation alterations

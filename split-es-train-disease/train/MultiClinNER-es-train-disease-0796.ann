@@ -1,0 +1,32 @@
+T36	DISEASE 90 105	dislipemia leve
+T37	DISEASE 192 207	hábitos tóxicos
+T38	DISEASE 777 786	asistolia
+T39	DISEASE 1133 1137	TVNS
+T40	DISEASE 1191 1203	BAV completo
+T41	DISEASE 1466 1497	enfermedad coronaria de 3 vasos
+T42	DISEASE 2071 2097	parada cardiorrespiratoria
+T43	DISEASE 2126 2135	asistolia
+T44	DISEASE 2586 2611	trombosis venosa profunda
+T45	DISEASE 2794 2825	enfermedad coronaria de 3 vasos
+T46	DISEASE 2839 2851	DA (oclusión
+T47	DISEASE 4294 4312	shock cardiogénico
+T48	DISEASE 4527 4553	disfunción renal oligúrica
+T49	DISEASE 4569 4583	edema pulmonar
+T50	DISEASE 5241 5272	disfunción ventricular moderada
+T51	DISEASE 5983 6002	hipercolesterolemia
+T52	DISEASE 6737 6772	Infarto agudo de miocardio anterior
+T53	DISEASE 6785 6816	Enfermedad coronaria de 3 vasos
+T54	DISEASE 6854 6896	Disfunción sistólica de VI moderada-severa
+T55	DISEASE 6928 6947	Hipercolesterolemia
+T56	DISEASE 6699 6735	Parada cardiorrespiratoria reanimada
+T57	DISEASE 659 661	TV
+T58	DISEASE 4315 4334	bajo gasto cardiaco
+T60	DISEASE 2863 2883	CX (OM con estenosis
+T61	DISEASE 2896 2908	CD (oclusión
+T62	DISEASE 4469 4493	hipoperfusión periférica
+T63	DISEASE 5342 5354	tetraparesia
+T64	DISEASE 6590 6595	ángor
+T157	DISEASE 6952 6976	intolerancia a estatinas
+T29	DISEASE 4588 4612	fallo respiratorio grave
+#1	AnnotatorNotes T39	 tquicardia ventricular no sostenida
+#2	AnnotatorNotes T57	 taquicardia ventricular

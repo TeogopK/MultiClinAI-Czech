@@ -1,0 +1,27 @@
+T25	PROCEDURE 246 266	Physical examination
+T26	PROCEDURE 324 336	Auscultation
+T27	PROCEDURE 594 608	echocardiogram
+T28	PROCEDURE 876 890	blood cultures
+T36	PROCEDURE 936 955	serological studies
+T29	PROCEDURE 1036 1050	Blood cultures
+T37	PROCEDURE 1150 1170	antibiotic treatment
+T41	PROCEDURE 1220 1245	valve replacement surgery
+T49	PROCEDURE 1548 1587	anatomo-pathological study of the valve
+T30	PROCEDURE 1643 1657	blood cultures
+T31	PROCEDURE 1744 1758	blood cultures
+T32	PROCEDURE 1843 1857	blood cultures
+T38	PROCEDURE 1901 1921	antibiotic treatment
+T43	PROCEDURE 1931 1944	blood culture
+T42	PROCEDURE 2333 2344	antibiotics
+T48	PROCEDURE 2435 2445	serologies
+T39	PROCEDURE 2642 2662	antibiotic treatment
+T44	PROCEDURE 2822 2835	blood culture
+T33	PROCEDURE 2843 2857	blood cultures
+T45	PROCEDURE 2875 2888	blood culture
+T40	PROCEDURE 2936 2956	antibiotic treatment
+T34	PROCEDURE 2977 2991	blood cultures
+T46	PROCEDURE 3006 3014	serology
+T50	PROCEDURE 3577 3590	was sequenced
+T35	PROCEDURE 3997 4011	blood cultures
+T47	PROCEDURE 4044 4052	serology
+T51	PROCEDURE 4359 4412	special stains: Gram, Wartin-Starry (Bartonella), PAS

@@ -1,0 +1,15 @@
+T4	PROCEDURE 370 390	Physical examination
+T13	PROCEDURE 467 476	palpation
+T5	PROCEDURE 547 567	physical examination
+T2	PROCEDURE 745 771	Magnetic resonance imaging
+T10	PROCEDURE 773 776	MRI
+T1	PROCEDURE 1306 1322	Electromyography
+T6	PROCEDURE 1324 1327	EMG
+T11	PROCEDURE 1496 1499	MRI
+T8	PROCEDURE 1529 1561	surgical treatment of the tumour
+T18	PROCEDURE 1576 1583	surgery
+T7	PROCEDURE 1590 1608	spinal anaesthesia
+T14	PROCEDURE 1610 1630	resecting the tumour
+T12	PROCEDURE 1635 1662	releasing the sciatic nerve
+T3	PROCEDURE 1757 1782	anatomopathological study
+T9	PROCEDURE 2004 2019	Microscopically

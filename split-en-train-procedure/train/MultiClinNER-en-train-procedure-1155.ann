@@ -1,0 +1,30 @@
+T59	PROCEDURE 201 223	surgical interventions
+T53	PROCEDURE 815 835	PHYSICAL EXAMINATION
+T42	PROCEDURE 1142 1170	Cardiopulmonary auscultation
+T43	PROCEDURE 1490 1493	ECG
+T44	PROCEDURE 1607 1610	ECG
+T3	PROCEDURE 1620 1636	laboratory tests
+T4	PROCEDURE 1641 1642	:
+T55	PROCEDURE 1851 1862	Haemostasis
+T52	PROCEDURE 1939 1951	Biochemistry
+T57	PROCEDURE 2072 2103	Biomarkers of myocardial damage
+T46	PROCEDURE 2141 2155	echocardiogram
+T5	PROCEDURE 2157 2160	TTE
+T47	PROCEDURE 2589 2610	Angio-CT of the aorta
+T45	PROCEDURE 3550 3553	ECG
+T7	PROCEDURE 3627 3630	TTE
+T48	PROCEDURE 3758 3766	angio-CT
+T10	PROCEDURE 3961 3968	surgery
+T12	PROCEDURE 3993 4044	mechanical Bono-Bentall technique (Carboseal 29 mm)
+T49	PROCEDURE 4060 4084	aortic valve replacement
+T11	PROCEDURE 4086 4129	aortic root and ascending aorta replacement
+T50	PROCEDURE 4142 4172	coronary ostium reimplantation
+T51	PROCEDURE 4212 4238	extracorporeal circulation
+T13	PROCEDURE 4240 4270	electromechanical heart arrest
+T14	PROCEDURE 4276 4340	irculatory arrest with selective bicarotídeal cerebral perfusion
+T15	PROCEDURE 4345 4395	replacement of the aortic arch or descending aorta
+T58	PROCEDURE 4642 4657	Bentall surgery
+T54	PROCEDURE 4665 4675	extubation
+T56	PROCEDURE 4853 4864	radiography
+T18	PROCEDURE 4992 5018	high-flow nasal spectacles
+T20	PROCEDURE 5370 5414	Emergent surgery with metallic Bono-Bentall.

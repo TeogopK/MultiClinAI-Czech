@@ -1,0 +1,16 @@
+T1	DISEASE 1100 1103	SNC
+T4	DISEASE 1719 1769	estatus convulsivo secundario a hipocalcemia grave
+T5	DISEASE 2292 2310	neumonía bilateral
+T6	DISEASE 2055 2121	sepsis secundaria a Staphylococcus hominis y Enterococcus faecalis
+T7	DISEASE 1751 1769	hipocalcemia grave
+T10	DISEASE 2322 2332	neumotórax
+T15	DISEASE 2393 2414	hipoxemia refractaria
+T18	DISEASE 1907 1932	quemadura de tercer grado
+T22	DISEASE 1441 1477	estenosis pulmonar valvular moderada
+T24	DISEASE 1480 1507	comunicación interauricular
+T27	DISEASE 607 614	ascitis
+T28	DISEASE 664 695	anemia normocítica normocrómica
+T30	DISEASE 879 891	hiponatremia
+T31	DISEASE 893 906	hipopotasemia
+T32	DISEASE 909 921	hipocalcemia
+#1	AnnotatorNotes T1	   SNC: síndrome nefrótico congénito

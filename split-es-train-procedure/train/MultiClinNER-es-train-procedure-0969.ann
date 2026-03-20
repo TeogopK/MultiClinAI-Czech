@@ -1,0 +1,61 @@
+T59	PROCEDURE 358 390	hernioplastia inguinal bilateral
+T60	PROCEDURE 751 790	maniobras de reanimación cardiopulmonar
+T61	PROCEDURE 792 795	RCP
+T62	PROCEDURE 911 923	RCP avanzada
+T63	PROCEDURE 926 948	intubación orotraqueal
+T64	PROCEDURE 950 953	IOT
+T65	PROCEDURE 1109 1127	electrocardiograma
+T66	PROCEDURE 1129 1132	ECG
+T67	PROCEDURE 1219 1222	ECG
+T68	PROCEDURE 1305 1333	ecocardiograma transtorácico
+T69	PROCEDURE 1335 1338	ETT
+T70	PROCEDURE 1484 1506	hipotermia terapéutica
+T71	PROCEDURE 1519 1534	coronariografía
+T72	PROCEDURE 1852 1855	ETT
+T74	PROCEDURE 1898 1983	arteria CD, por lo que se realiza angioplastia e implantación de 2 stents recubiertos
+T76	PROCEDURE 2299 2317	Exploración física
+T77	PROCEDURE 2449 2470	Auscultación pulmonar
+T78	PROCEDURE 2524 2545	Auscultación cardiaca
+T79	PROCEDURE 2854 2857	ECG
+T80	PROCEDURE 2864 2878	desfibrilación
+T81	PROCEDURE 3036 3039	ECG
+T82	PROCEDURE 3809 3821	Hemocultivos
+T83	PROCEDURE 3823 3833	urocultivo
+T84	PROCEDURE 3836 3866	cultivo del aspirado bronquial
+T85	PROCEDURE 3879 3899	Radiografía de tórax
+T86	PROCEDURE 3953 3973	Radiografía de tórax
+T87	PROCEDURE 4139 4153	Ecocardiograma
+T88	PROCEDURE 4188 4214	inducción de la hipotermia
+T89	PROCEDURE 4476 4490	Ecocardiograma
+T90	PROCEDURE 4519 4526	extubar
+T91	PROCEDURE 4713 4728	Coronariografía
+T92	PROCEDURE 5227 5348	angioplastia con balón e implante de 2 stents farmacoactivos solapados en los segmentos medio y proximal de la arteria CD
+T94	PROCEDURE 5446 5493	se inserta catéter venoso femoral de hipotermia
+T95	PROCEDURE 5805 5835	aspirado del tubo endotraqueal
+T96	PROCEDURE 5882 5904	hipotermia terapéutica
+T97	PROCEDURE 6103 6113	extubación
+T99	PROCEDURE 6503 6513	telemetría
+T100	PROCEDURE 6767 6770	IOT
+T102	PROCEDURE 6870 6900	cobertura antibiótica empírica
+T103	PROCEDURE 7142 7156	antibioterapia
+T105	PROCEDURE 7622 7711	Angioplastia e implante de stents farmacoactivos en la coronaria derecha proximal y media
+T121	PROCEDURE 6934 6942	cultivos
+T122	PROCEDURE 1008 1048	aplicando dos descargas a máxima energía
+T123	PROCEDURE 2232 2296	proceso de enfriamiento mediante suero salino fisiológico a 4 oC
+T124	PROCEDURE 3633 3666	Marcadores de necrosis miocárdica
+T125	PROCEDURE 5838 5865	movilizaciones del paciente
+T126	PROCEDURE 6038 6047	extubarlo
+T127	PROCEDURE 6796 6856	se extrajeron cultivos de sangre, orina y aspirado bronquial
+T128	PROCEDURE 6082 6097	recalentamiento
+T129	PROCEDURE 6993 7008	recalentamiento
+T130	PROCEDURE 7785 7807	Hipotermia terapéutica
+T131	PROCEDURE 5483 5493	hipotermia
+T54	PROCEDURE 2201 2216	sedoanalgesiado
+T133	PROCEDURE 2191 2199	intubado
+T145	PROCEDURE 2401 2416	Cabeza y cuello
+T180	PROCEDURE 5607 5618	radiografía
+T181	PROCEDURE 5767 5778	radiografía
+T28	PROCEDURE 2219 2227	relajado
+T55	PROCEDURE 3134 3142	Análisis
+T93	PROCEDURE 5939 5954	recalentamiento
+T98	PROCEDURE 6557 6614	cardiovirtió a ritmo sinusal tras el inicio de amiodarona

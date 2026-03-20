@@ -1,0 +1,30 @@
+T43	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T45	PROCEDURE 134 160	surgical revascularisation
+T46	PROCEDURE 296 313	Holter monitoring
+T71	PROCEDURE 303 313	monitoring
+T47	PROCEDURE 494 508	echocardiogram
+T49	PROCEDURE 748 790	ICD with cardiac resynchronisation therapy
+T62	PROCEDURE 757 782	cardiac resynchronisation
+T65	PROCEDURE 757 790	cardiac resynchronisation therapy
+T50	PROCEDURE 1502 1526	intravenous beta-blocker
+T51	PROCEDURE 1638 1641	ATP
+T68	PROCEDURE 1652 1660	sedation
+T52	PROCEDURE 1837 1858	anaesthetic induction
+T44	PROCEDURE 1917 1937	Physical examination
+T53	PROCEDURE 2080 2100	Cardiac auscultation
+T54	PROCEDURE 2141 2163	Pulmonary auscultation
+T55	PROCEDURE 2225 2234	palpation
+T56	PROCEDURE 2410 2438	Transthoracic echocardiogram
+T48	PROCEDURE 2424 2438	echocardiogram
+T57	PROCEDURE 2960 2971	Chest X-ray
+T58	PROCEDURE 3049 3052	ECG
+T59	PROCEDURE 3197 3212	cardiac markers
+T69	PROCEDURE 3252 3264	Biochemistry
+T70	PROCEDURE 3383 3399	thyroid function
+T60	PROCEDURE 3426 3435	Haemogram
+T61	PROCEDURE 3517 3528	Coagulation
+T72	PROCEDURE 3632 3642	monitoring
+T63	PROCEDURE 4526 4551	cardiac resynchronisation
+T64	PROCEDURE 4821 4846	cardiac resynchronisation
+T66	PROCEDURE 4821 4854	cardiac resynchronisation therapy
+T67	PROCEDURE 4949 4998	Radiofrequency ablation of ischaemic VT substrate

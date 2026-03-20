@@ -1,0 +1,53 @@
+T1	SYMPTOM 905 918	cuadro febril
+T2	SYMPTOM 951 957	fiebre
+T3	SYMPTOM 1170 1185	diarrea líquida
+T4	SYMPTOM 1214 1241	dolor periumbilical intenso
+T5	SYMPTOM 1286 1303	edemas en piernas
+T6	SYMPTOM 1306 1335	sensación disneica progresiva
+T7	SYMPTOM 1373 1376	tos
+T8	SYMPTOM 1379 1392	expectoración
+T9	SYMPTOM 1403 1417	dolor torácico
+T10	SYMPTOM 1419 1424	mareo
+T11	SYMPTOM 1453 1474	focalidad neurológica
+T12	SYMPTOM 1693 1702	febrícula
+T13	SYMPTOM 1722 1730	eupneica
+T15	SYMPTOM 1864 1891	soplo en foco aórtico II/VI
+T16	SYMPTOM 1932 1956	hipoventilación en bases
+T17	SYMPTOM 1959 1987	crepitantes en campos medios
+T18	SYMPTOM 1992 2052	abdomen es blando, depresible y doloroso a nivel epigástrico
+T19	SYMPTOM 2067 2088	irritación peritoneal
+T20	SYMPTOM 2092 2107	visceromegalias
+T21	SYMPTOM 2109 2166	Extremidades inferiores con edema con fóvea hasta rodilla
+T22	SYMPTOM 2199 2240	Pulsos periféricos presentes y simétricos
+T23	SYMPTOM 2372 2384	QRS estrecho
+T24	SYMPTOM 2614 2651	Ensanchamiento de mediastino superior
+T25	SYMPTOM 2828 2855	Hormonas tiroideas normales
+T26	SYMPTOM 3440 3452	leucocituria
+T27	SYMPTOM 3573 3604	Serologías: VIH y VHC negativos
+T29	SYMPTOM 4731 4776	ecocardiograma transtorácico inicial negativo
+T30	SYMPTOM 4953 4990	hemocultivos positivos para S. aureus
+T31	SYMPTOM 5132 5161	deterioro de la función renal
+T33	SYMPTOM 5277 5283	anuria
+T34	SYMPTOM 5285 5320	disminución del nivel de conciencia
+T35	SYMPTOM 5543 5554	falleciendo
+T113	SYMPTOM 3927 3970	Prótesis biológica aórtica normofuncionante
+T14	SYMPTOM 3456 3467	bacteriuria
+T114	SYMPTOM 3606 3634	Anti HBs y Anti HBc positivo
+T115	SYMPTOM 3659 3726	ANA, ANCA, Anti DNA nativo, ENAS, CH 50 y C4 normales y/o negativos
+T28	SYMPTOM 5807 5813	Muerte
+T124	SYMPTOM 1783 1815	Presión venosa yugular aumentada
+T125	SYMPTOM 2530 2553	Redistribución vascular
+T129	SYMPTOM 2386 2396	eje normal
+T137	SYMPTOM 3816 3861	función sistólica global y segmentaria normal
+T141	SYMPTOM 2556 2574	líquido en cisuras
+T143	SYMPTOM 3469 3487	nitritos negativos
+T116	SYMPTOM 1894 1914	segundo ruido normal
+T117	SYMPTOM 2398 2428	Anomalías de la repolarización
+T120	SYMPTOM 2448 2465	cubeta digitálica
+T121	SYMPTOM 2504 2528	TAVI en posición aórtica
+T119	SYMPTOM 3284 3345	Hemocultivos: dos series positivas para Staphylococcus aureus
+T122	SYMPTOM 3411 3435	Orina: aislados hematíes
+T126	SYMPTOM 3488 3571	Heces: flora habitual, sin parásitos y con toxina de Clostridium difficile negativa
+T127	SYMPTOM 3758 3811	ventrículo izquierdo de diámetros y grosores normales
+T130	SYMPTOM 4244 4260	imágenes móviles
+T110	SYMPTOM 5167 5196	caída del filtrado glomerular

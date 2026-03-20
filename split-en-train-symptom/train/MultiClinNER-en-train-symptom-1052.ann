@@ -1,0 +1,23 @@
+T1	SYMPTOM 229 237	dyspnoea
+T2	SYMPTOM 269 274	fever
+T3	SYMPTOM 468 491	haemodynamically stable
+T13	SYMPTOM 506 532	general condition was poor
+T4	SYMPTOM 675 708	bilateral crackles in both fields
+T14	SYMPTOM 715 742	normal cardiac auscultation
+T15	SYMPTOM 750 775	oedema in the lower limbs
+T5	SYMPTOM 941 953	sinus rhythm
+T6	SYMPTOM 965 974	normal PR
+T7	SYMPTOM 976 986	narrow QRS
+T12	SYMPTOM 988 999	normal axis
+T17	SYMPTOM 1001 1035	diffuse repolarisation alterations
+T16	SYMPTOM 1037 1077	flattened T in inferior and lateral face
+T8	SYMPTOM 1127 1148	peripheral infiltrate
+T9	SYMPTOM 1396 1413	ionic alterations
+T18	SYMPTOM 1434 1465	mild elevation of transaminases
+T10	SYMPTOM 1659 1701	Nasopharyngeal PCR for SARS-CoV2: positive
+T22	SYMPTOM 2298 2340	markers of myocardial damage were elevated
+T23	SYMPTOM 2484 2533	non-dilated, slightly hypertrophic left ventricle
+T11	SYMPTOM 2610 2621	normal LVEF
+T20	SYMPTOM 2625 2670	non-dilated, normofunctioning right ventricle
+T21	SYMPTOM 2776 2813	elevated markers of myocardial damage
+T19	SYMPTOM 3089 3126	elevated markers of myocardial damage

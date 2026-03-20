@@ -1,0 +1,61 @@
+T50	DISEASE 88 111	alergias medicamentosas
+T51	DISEASE 126 141	hábitos tóxicos
+T52	DISEASE 178 199	hipertensión arterial
+T53	DISEASE 202 212	dislipemia
+T54	DISEASE 214 251	Fibrilación auricular (FA) permanente
+T55	DISEASE 237 239	FA
+T56	DISEASE 1444 1517	Miembros inferiores: trastornos tróficos por insuficiencia venosa crónica
+T57	DISEASE 1655 1657	FA
+T58	DISEASE 2561 2606	hipertrofia a nivel de septo interventricular
+T59	DISEASE 2911 3004	Válvula mitral esclerocalcificada con restricción del velo posterior e insuficiencia moderada
+T60	DISEASE 3103 3132	Insuficiencia tricúspide leve
+T61	DISEASE 3231 3252	hipertensión pulmonar
+T62	DISEASE 3257 3276	derrame pericárdico
+T63	DISEASE 3354 3356	FA
+T64	DISEASE 4238 4253	pseudoaneurisma
+T65	DISEASE 4333 4367	Insuficiencia mitral leve-moderada
+T66	DISEASE 4369 4407	Insuficiencia tricúspide leve-moderada
+T67	DISEASE 4534 4555	Insuficiencia aórtica
+T68	DISEASE 4598 4617	derrame pericárdico
+T69	DISEASE 4776 4810	Aneurisma y pseudoaneurisma apical
+T70	DISEASE 4877 4896	derrame pericárdico
+T71	DISEASE 4906 4921	derrame pleural
+T72	DISEASE 4934 4979	atelectasia subsegmentaria en lóbulo inferior
+T73	DISEASE 5004 5006	FA
+T74	DISEASE 5307 5329	síndrome de tako-tsubo
+T75	DISEASE 5339 5355	SCASEST anterior
+T76	DISEASE 6929 6954	derrame pericárdico grave
+T77	DISEASE 7053 7103	taponamiento cardiaco secundario a rotura cardiaca
+T78	DISEASE 8794 8811	hipotensión grave
+T79	DISEASE 8957 8999	taponamiento cardiaco secundario a derrame
+T80	DISEASE 9418 9438	hipotensión arterial
+T81	DISEASE 10070 10085	pseudoaneurisma
+T82	DISEASE 10272 10281	aneurisma
+T83	DISEASE 10284 10324	pseudoaneurisma apical y apical inferior
+T84	DISEASE 11123 11185	Disección espontánea de DA distal con oclusión distal del vaso
+T85	DISEASE 11293 11365	taponamiento cardiaco por rotura de pared libre del ventrículo izquierdo
+T86	DISEASE 11412 11428	Pseudonaneurisma
+T87	DISEASE 11431 11465	aneurisma apical y apical inferior
+T88	DISEASE 11508 11539	Insuficiencia renal aguda grave
+T89	DISEASE 11574 11606	Fibrilación auricular permanente
+T90	DISEASE 11622 11643	Hipertensión arterial
+T91	DISEASE 11645 11655	Dislipemia
+T92	DISEASE 3006 3047	Aurícula izquierda moderadamente dilatada
+T93	DISEASE 414 419	angor
+T94	DISEASE 5169 5184	angor de reposo
+T95	DISEASE 5774 5792	eventos arrítmicos
+T96	DISEASE 6798 6809	hipotensión
+T97	DISEASE 2819 2909	Válvula aórtica trivalva, esclerocalcificada, con apertura conservada e insuficiencia leve
+T98	DISEASE 3605 3690	Disección de la arteria descendente anterior distal (DA) hasta la punta, con oclusión
+T99	DISEASE 6250 6308	disección espontanea a nivel de la DA distal, con oclusión
+T100	DISEASE 7692 7704	PCR por AESP
+T101	DISEASE 11233 11270	PCR por actividad eléctrica sin pulso
+T102	DISEASE 11096 11112	IAMCEST anterior
+T103	DISEASE 4002 4044	Septo anterior basal con hipertrofia grave
+T208	DISEASE 7611 7634	región apical infartada
+T214	DISEASE 9015 9048	coágulos sobre cavidades derechas
+T215	DISEASE 9210 9267	saco pericárdico, visualizando nuevamente desgarro apical
+#1	AnnotatorNotes T57	 Fibrilación auricular
+#2	AnnotatorNotes T63	 Fibrilación auricular
+#3	AnnotatorNotes T100	 PCR: parada cardiorespiratoria, AESP: actividad eléctrica sin pulso
+#4	AnnotatorNotes T101	 PCR: parada cardiorespiratoria

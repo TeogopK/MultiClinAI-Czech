@@ -1,0 +1,45 @@
+T1	SYMPTOM 828 833	mareo
+T2	SYMPTOM 836 858	pérdida de consciencia
+T3	SYMPTOM 1174 1180	disnea
+T4	SYMPTOM 1182 1196	dolor torácico
+T5	SYMPTOM 1213 1226	palpitaciones
+T6	SYMPTOM 1254 1260	mareos
+T7	SYMPTOM 1469 1488	Buen estado general
+T8	SYMPTOM 1490 1500	Consciente
+T9	SYMPTOM 1502 1511	orientado
+T10	SYMPTOM 1514 1525	colaborador
+T11	SYMPTOM 1527 1535	Eupneico
+T12	SYMPTOM 1537 1545	Delgadez
+T13	SYMPTOM 1548 1563	palidez cutánea
+T14	SYMPTOM 1565 1580	Bien perfundido
+T15	SYMPTOM 1605 1630	ruidos cardiacos rítmicos
+T16	SYMPTOM 1636 1642	soplos
+T17	SYMPTOM 1667 1696	murmullo vesicular conservado
+T18	SYMPTOM 1698 1753	Abdomen: blando, depresible, no doloroso a la palpación
+T19	SYMPTOM 1759 1764	masas
+T20	SYMPTOM 1768 1776	megalias
+T21	SYMPTOM 1806 1811	edema
+T22	SYMPTOM 2390 2403	ritmo sinusal
+T23	SYMPTOM 2405 2407	RS
+T24	SYMPTOM 2419 2428	PR normal
+T25	SYMPTOM 2442 2472	alteraciones de repolarización
+T26	SYMPTOM 2503 2531	índice cardiotorácico normal
+T27	SYMPTOM 2537 2551	condensaciones
+T28	SYMPTOM 2555 2578	redistribución vascular
+T29	SYMPTOM 2680 2711	función sistólica global normal
+T30	SYMPTOM 2775 2805	Ventrículo derecho no dilatado
+T31	SYMPTOM 2927 2960	elevación de presiones de llenado
+T32	SYMPTOM 2972 2993	Válvula mitral normal
+T33	SYMPTOM 3057 3083	Aurículas de tamaño normal
+T34	SYMPTOM 3907 3911	masa
+T44	SYMPTOM 1290 1313	síndrome constitucional
+T93	SYMPTOM 2728 2773	alteraciones de la contractilidad segmentaria
+T98	SYMPTOM 2823 2847	función sistólica normal
+T107	SYMPTOM 988 1001	ritmo sinusal
+T89	SYMPTOM 2329 2359	alteraciones de repolarización
+T90	SYMPTOM 2616 2648	ventrículo izquierdo no dilatado
+T91	SYMPTOM 3135 3201	Masa implantada en la vertiente auricular de la válvula tricúspide
+T92	SYMPTOM 3532 3557	Vena cava inferior normal
+T94	SYMPTOM 3652 3718	masa implantada en la vertiente auricular de la válvula tricúspide
+T114	SYMPTOM 2860 2891	Patrón de llenado mitral normal
+T86	SYMPTOM 2995 3055	Válvula aórtica esclerótica, parece trivalva, función normal

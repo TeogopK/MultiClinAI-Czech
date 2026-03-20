@@ -1,0 +1,10 @@
+T1	SYMPTOM 1983 2000	ganancia ponderal
+T2	SYMPTOM 631 655	estabilidad hemodinámica
+T3	SYMPTOM 2093 2145	estabilidad hemodinámica, ventilatoria, y metabólica
+T4	SYMPTOM 2200 2217	actividad uterina
+T5	SYMPTOM 2426 2443	actividad uterina
+T6	SYMPTOM 2220 2237	sufrimiento fetal
+T7	SYMPTOM 2446 2467	sangrado transvaginal
+T8	SYMPTOM 2534 2546	muerte fetal
+A1	RESULTADO T3
+A2	EXITUS T8

@@ -1,0 +1,51 @@
+T1	SYMPTOM 2193 2200	confusa
+T2	SYMPTOM 2213 2224	soliloquios
+T3	SYMPTOM 3541 3560	mioclonías faciales
+T4	SYMPTOM 103 119	abuso de tóxicos
+T5	SYMPTOM 1846 1853	apática
+T6	SYMPTOM 3563 3588	movimientos bucolinguales
+T7	SYMPTOM 149 173	alteraciones de conducta
+T8	SYMPTOM 2681 2688	mutista
+T9	SYMPTOM 175 189	desorientación
+T10	SYMPTOM 2690 2700	estuporosa
+T11	SYMPTOM 192 222	falta de conexión con el medio
+T12	SYMPTOM 2790 2799	agitación
+T13	SYMPTOM 3778 3816	ovario ligeramente aumentado de tamaño
+T14	SYMPTOM 2945 2970	movimientos involuntarios
+T15	SYMPTOM 2973 2982	distonías
+T16	SYMPTOM 4290 4311	agitación psicomotriz
+T17	SYMPTOM 4314 4349	ideas delirantes autorreferenciales
+T18	SYMPTOM 569 583	mirada perdida
+T19	SYMPTOM 596 616	hablar incoherencias
+T20	SYMPTOM 942 963	agitación psicomotriz
+T21	SYMPTOM 966 980	desorientación
+T22	SYMPTOM 1178 1209	desorientación espacio-temporal
+T23	SYMPTOM 1215 1224	agitación
+T24	SYMPTOM 3937 3947	consciente
+T25	SYMPTOM 1272 1293	focalidad neurológica
+T26	SYMPTOM 342 352	desanimada
+T27	SYMPTOM 354 371	poco comunicativa
+T28	SYMPTOM 2227 2244	risas inmotivadas
+T29	SYMPTOM 2412 2457	resonancia magnética (RM) cerebral fue normal
+T30	SYMPTOM 2645 2672	respondía a órdenes simples
+T31	SYMPTOM 2987 3027	ecocardiografía transtorácica fue normal
+T32	SYMPTOM 3499 3528	respondía a órdenes sencillas
+T33	SYMPTOM 3950 3958	reactiva
+T34	SYMPTOM 1311 1454	hemograma, coagulación, pruebas de función hepática, renal, tiroidea, orina, ácido fólico y vitamina B12) y tomografía cerebral fueron normales
+T35	SYMPTOM 1460 1493	tóxicos en orina fueron negativos
+T36	SYMPTOM 2011 2127	serología para VIH, Brucella, Citomegalovirus, Herpes Simple, Sífilis, Toxoplasmosis y Epstein Barr fueron negativas
+T37	SYMPTOM 2304 2406	serología y cultivo del líquido cefalorraquídeo (LCR) para Brucella, Lúes y Borrellia fueron negativos
+T38	SYMPTOM 3360 3448	PL, siendo la reacción en cadena de polimerasas para micoplasma y micobacterias normales
+T39	SYMPTOM 3846 3912	ceruloplasmina, cobre sérico y ecografía abdominal fueron normales
+T40	SYMPTOM 660 695	alteración de los ritmos biológicos
+T41	SYMPTOM 3239 3311	uroporfirinas, las coproporfirinas y el zinc estaban en límites normales
+A1	IMAGEN T13
+A2	IMAGEN T29
+A3	IMAGEN T31
+A4	RESULTADO T34
+A5	RESULTADO T35
+A6	RESULTADO T36
+A7	RESULTADO T37
+A8	RESULTADO T38
+A9	RESULTADO T39
+A10	RESULTADO T41

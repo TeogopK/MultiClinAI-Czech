@@ -1,0 +1,68 @@
+T1	SYMPTOM 746 764	mal estado general
+T2	SYMPTOM 769 775	fiebre
+T3	SYMPTOM 819 840	molestias miccionales
+T4	SYMPTOM 845 852	disuria
+T5	SYMPTOM 854 865	polaquiuria
+T6	SYMPTOM 868 890	dolor en región lumbar
+T7	SYMPTOM 939 946	náuseas
+T8	SYMPTOM 956 963	vómitos
+T9	SYMPTOM 968 971	tos
+T10	SYMPTOM 975 988	expectoración
+T11	SYMPTOM 1324 1339	ruidos rítmicos
+T12	SYMPTOM 1355 1361	soplos
+T13	SYMPTOM 1386 1415	murmullo vesicular conservado
+T14	SYMPTOM 1417 1445	Abdomen: blando y depresible
+T15	SYMPTOM 1447 1485	doloroso a la palpación en hipogastrio
+T16	SYMPTOM 1488 1525	puño percusión renal derecha positiva
+T17	SYMPTOM 1552 1582	edemas con fóvea hasta rodilla
+T18	SYMPTOM 1634 1652	mamas ingurgitadas
+T20	SYMPTOM 2059 2065	Piuria
+T21	SYMPTOM 2283 2337	Anticuerpos anti-músculo estriado/ miocardio: negativo
+T22	SYMPTOM 2339 2375	Anticuerpos anti-adrenales: positivo
+T23	SYMPTOM 2404 2422	hilios congestivos
+T26	SYMPTOM 2602 2614	QRS estrecho
+T27	SYMPTOM 2661 2695	Ondas T negativas en II, III y aVF
+T28	SYMPTOM 2697 2743	Ondas T profundas en derivaciones precordiales
+T29	SYMPTOM 2769 2810	útero involucionado con cavidad colapsada
+T31	SYMPTOM 3334 3363	Signos de bajo gasto cardiaco
+T32	SYMPTOM 3512 3580	ventrículo izquierdo dilatado de contorno irregular en cara inferior
+T35	SYMPTOM 3895 3906	inflamación
+T38	SYMPTOM 4231 4252	hemocultivo: negativo
+T39	SYMPTOM 4404 4469	Serología parvovirus B19: Ac IgG y Ac IgM parvovirus B19 negativo
+T40	SYMPTOM 4796 4803	náuseas
+T41	SYMPTOM 4805 4812	vómitos
+T42	SYMPTOM 4817 4822	mareo
+T45	SYMPTOM 5000 5018	sensación disneica
+T46	SYMPTOM 5145 5163	mal estado general
+T47	SYMPTOM 5168 5187	palidez mucocutánea
+T48	SYMPTOM 5189 5199	sudoración
+T49	SYMPTOM 5202 5221	frialdad periférica
+T50	SYMPTOM 5231 5242	taquicardia
+T51	SYMPTOM 5245 5254	taquipnea
+T52	SYMPTOM 5353 5401	hipoventilación bibasal marcada en base pulmonar
+T53	SYMPTOM 5542 5570	líquido libre intraabdominal
+T54	SYMPTOM 5809 5831	deterioro hemodinámico
+T56	SYMPTOM 6084 6105	hipoperfusión tisular
+T57	SYMPTOM 6306 6355	ondas T negativas en cara inferior y precordiales
+T58	SYMPTOM 6366 6406	elevación de marcadores de daño cardiaco
+T59	SYMPTOM 6544 6562	hipocinesia global
+T60	SYMPTOM 7029 7108	serología de parvovirus B19 e inmunología cardiaca que resultan todos negativos
+T61	SYMPTOM 7844 7851	náuseas
+T62	SYMPTOM 7854 7859	mareo
+T63	SYMPTOM 7864 7875	hipotensión
+T64	SYMPTOM 8286 8291	mareo
+T65	SYMPTOM 8293 8300	náuseas
+T66	SYMPTOM 8303 8314	hipotensión
+T68	SYMPTOM 8703 8709	estrés
+T223	SYMPTOM 2559 2578	taquicardia sinusal
+T24	SYMPTOM 3985 4009	Grosor miocárdico normal
+T33	SYMPTOM 6050 6061	hipotensión
+T243	SYMPTOM 2460 2504	Pinzamiento de senos costofrénicos bilateral
+T244	SYMPTOM 2992 3032	Riñones de tamaño y ecoestructura normal
+T254	SYMPTOM 3445 3492	arterias coronarias sin lesiones significativas
+T34	SYMPTOM 2509 2552	disminución de volumen en hemitórax derecho
+T37	SYMPTOM 1678 1723	Vagina amplia y elástica. Flujo no maloliente
+T44	SYMPTOM 2424 2458	Aumento de la trama broconvascular
+T19	SYMPTOM 4281 4309	Urocultivo: Escherichia Coli
+T67	SYMPTOM 4964 4995	afectación de su estado general
+T163	SYMPTOM 7764 7784	disfunción sistólica

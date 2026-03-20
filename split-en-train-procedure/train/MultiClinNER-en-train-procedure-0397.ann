@@ -1,0 +1,18 @@
+T2	PROCEDURE 174 189	Ultrasonography
+T4	PROCEDURE 334 366	advanced life support manoeuvres
+T7	PROCEDURE 524 554	basic and somatic life support
+T8	PROCEDURE 679 698	nutritional support
+T13	PROCEDURE 781 861	mixed nutritional and metabolic support was started, both enteral and parenteral
+T10	PROCEDURE 1045 1070	energy and protein intake
+T6	PROCEDURE 1122 1144	biochemical monitoring
+T14	PROCEDURE 1248 1285	nutritional adequacy by enteral route
+T15	PROCEDURE 1345 1421	Enteral intake was maintained at total macro- and micronutrient requirements
+T16	PROCEDURE 1430 1523	mixture of standard polymeric formula, high protein formula and modular trace element formula
+T18	PROCEDURE 1680 1721	Gestational weight was monitored serially
+T11	PROCEDURE 1732 1742	ultrasound
+T20	PROCEDURE 1747 1812	fetal well-being was monitored by biophysical profile measurement
+T3	PROCEDURE 2062 2084	tocographic monitoring
+T5	PROCEDURE 2280 2300	Obstetric ultrasound
+T9	PROCEDURE 2438 2466	vital and somatic management
+T12	PROCEDURE 2483 2560	mother's organs were explanted for donation (liver, heart, kidney and cornea)
+T1	PROCEDURE 2566 2580	foetal autopsy

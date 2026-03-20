@@ -1,0 +1,38 @@
+T73	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T78	PROCEDURE 278 295	dietary treatment
+T1	PROCEDURE 436 464	transthoracic echocardiogram
+T54	PROCEDURE 724 728	CPAP
+T55	PROCEDURE 891 913	orotracheal intubation
+T57	PROCEDURE 1026 1044	prostate resection
+T4	PROCEDURE 1364 1408	basic cardiac resuscitation manoeuvres (CPR)
+T58	PROCEDURE 1404 1407	CPR
+T5	PROCEDURE 1415 1452	semi-automatic external defibrillator
+T6	PROCEDURE 1639 1649	intubation
+T59	PROCEDURE 1668 1690	mechanical ventilation
+T74	PROCEDURE 1935 1955	PHYSICAL EXAMINATION
+T56	PROCEDURE 2065 2087	orotracheal intubation
+T60	PROCEDURE 2102 2124	mechanical ventilation
+T61	PROCEDURE 2140 2160	Carotid auscultation
+T62	PROCEDURE 2219 2239	cardiac auscultation
+T63	PROCEDURE 2385 2407	Pulmonary auscultation
+T64	PROCEDURE 2441 2462	Abdominal examination
+T77	PROCEDURE 2601 2613	biochemistry
+T76	PROCEDURE 2679 2691	electrolytes
+T72	PROCEDURE 2838 2849	Coagulation
+T7	PROCEDURE 2932 2947	toxins in urine
+T65	PROCEDURE 2958 2978	Arterial blood gases
+T66	PROCEDURE 3041 3061	Portable chest X-ray
+T67	PROCEDURE 3183 3200	Electrocardiogram
+T68	PROCEDURE 3202 3205	ECG
+T69	PROCEDURE 3380 3395	cranial CT scan
+T9	PROCEDURE 3442 3493	Normal perfusion map and normal supra-aortic trunks
+T75	PROCEDURE 3505 3520	echocardioscopy
+T70	PROCEDURE 3919 3939	Coronary angiography
+T12	PROCEDURE 4039 4067	transthoracic echocardiogram
+T14	PROCEDURE 4238 4268	Transesophageal echocardiogram
+T15	PROCEDURE 4421 4461	Cardiac magnetic resonance imaging (MRI)
+T18	PROCEDURE 4826 4835	extubated
+T22	PROCEDURE 5385 5388	MRI
+T71	PROCEDURE 5446 5465	mitral valve repair
+T23	PROCEDURE 5503 5597	implantation of two 4/0 Goretex neochords at P2 and AM (Physio 30 mm) plus a 30 mm mitral ring
+T24	PROCEDURE 5639 5676	automatic defibrillator was implanted

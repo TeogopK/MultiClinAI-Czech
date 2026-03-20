@@ -1,0 +1,26 @@
+T39	PROCEDURE 442 460	electrocardiograma
+T40	PROCEDURE 462 465	ECG
+T41	PROCEDURE 656 676	doble antiagregación
+T42	PROCEDURE 733 748	coronariografía
+T43	PROCEDURE 970 997	intervencionismo percutáneo
+T44	PROCEDURE 1030 1042	fibrinólisis
+T45	PROCEDURE 1146 1158	fibrinolisis
+T46	PROCEDURE 1233 1272	monitorización no invasiva y periférica
+T47	PROCEDURE 1299 1313	ecocardiograma
+T48	PROCEDURE 1527 1535	angio-TC
+T49	PROCEDURE 1619 1703	radiología intervencionista acceso vascular a nivel de tronco braquicefálico derecho
+T50	PROCEDURE 1716 1731	coronariografía
+T51	PROCEDURE 1786 1848	descendente anterior, donde se implanta un stent farmacoactivo
+T52	PROCEDURE 2152 2170	EXPLORACIÓN FISICA
+T53	PROCEDURE 2297 2318	Auscultación cardiaca
+T54	PROCEDURE 2748 2758	serologías
+T55	PROCEDURE 2860 2863	ECG
+T56	PROCEDURE 2970 2973	ECG
+T57	PROCEDURE 3057 3071	ECOCARDIOGRAMA
+T58	PROCEDURE 3305 3346	ANGIO-TC de aorta y troncos supraaórticos
+T60	PROCEDURE 3829 3844	CORONARIOGRAFÍA
+T66	PROCEDURE 2535 2559	ESTUDIO DE AUTOINMUNIDAD
+T67	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T68	PROCEDURE 2760 2789	MARCADORES DE DAÑO MIOCÁRDICO
+T87	PROCEDURE 678 705	se activa el código infarto
+T15	PROCEDURE 807 846	canalizar un acceso arterial periférico

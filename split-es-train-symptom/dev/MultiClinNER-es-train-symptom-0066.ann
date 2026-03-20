@@ -1,0 +1,5 @@
+T1	SYMPTOM 279 286	diarrea
+T2	SYMPTOM 616 643	alteraciones protrombóticas
+T3	SYMPTOM 380 392	muerte fetal
+A1	RESULTADO T2
+A2	EXITUS T3

@@ -1,0 +1,58 @@
+T15	SYMPTOM 995 1063	Left ventricular ejection fraction (LVEF) was preserved at discharge
+T38	SYMPTOM 1282 1326	Left ventricular systolic function preserved
+T2	SYMPTOM 1780 1790	chest pain
+T39	SYMPTOM 1840 1919	pain as central thoracic, oppressive, radiating to the neck and left upper limb
+T40	SYMPTOM 1982 2001	vegetative symptoms
+T5	SYMPTOM 2017 2033	profuse sweating
+T6	SYMPTOM 2038 2044	nausea
+T3	SYMPTOM 2331 2341	chest pain
+T41	SYMPTOM 2346 2393	significant impairment of the general condition
+T7	SYMPTOM 2395 2404	conscious
+T8	SYMPTOM 2406 2414	oriented
+T42	SYMPTOM 2419 2430	cooperative
+T9	SYMPTOM 2591 2602	Skin pallor
+T43	SYMPTOM 2604 2618	acral coldness
+T10	SYMPTOM 2620 2642	weak peripheral pulses
+T11	SYMPTOM 2666 2680	rhythmic tones
+T12	SYMPTOM 2682 2693	tachycardic
+T13	SYMPTOM 2706 2713	murmurs
+T44	SYMPTOM 2739 2775	bilateral vesicular murmur preserved
+T45	SYMPTOM 2782 2803	crackles in the bases
+T14	SYMPTOM 2805 2827	Lower limbs: no oedema
+T46	SYMPTOM 2884 2904	ST segment elevation
+T16	SYMPTOM 3126 3138	sinus rhythm
+T19	SYMPTOM 3150 3159	normal PR
+T20	SYMPTOM 3161 3224	ST segment elevation in DII, DIII, AVF (up to 7 mm) and in V4-6
+T47	SYMPTOM 3303 3341	Left main coronary artery: No stenosis
+T48	SYMPTOM 4057 4107	Right coronary artery: codominant, without lesions
+T17	SYMPTOM 4179 4191	sinus rhythm
+T21	SYMPTOM 4197 4207	narrow QRS
+T49	SYMPTOM 4209 4240	normalisation of the ST segment
+T35	SYMPTOM 4387 4399	leukocytosis
+T36	SYMPTOM 4424 4436	neutrophilia
+T50	SYMPTOM 4569 4593	Ions within normal range
+T51	SYMPTOM 4983 5047	Urinalysis with toxins: positive for cocaine and benzodiazepines
+T52	SYMPTOM 5077 5114	left ventricle of globular appearance
+T23	SYMPTOM 5121 5135	preserved LVEF
+T26	SYMPTOM 5225 5287	Right ventricle of normal size and preserved systolic function
+T53	SYMPTOM 5345 5369	Vena cava of normal size
+T18	SYMPTOM 6086 6098	sinus rhythm
+T22	SYMPTOM 6133 6143	Narrow QRS
+T54	SYMPTOM 6154 6195	Negative T waves in II, III, aVF and V4-6
+T27	SYMPTOM 6248 6274	non-dilated left ventricle
+T1	SYMPTOM 6372 6416	preserved left ventricular systolic function
+T55	SYMPTOM 6467 6515	Right ventricle not dilated and normofunctioning
+T28	SYMPTOM 6517 6543	Atria of normal dimensions
+T34	SYMPTOM 6545 6563	Normal aortic root
+T56	SYMPTOM 6629 6694	Inferior vena cava not dilated with adequate inspiratory collapse
+T29	SYMPTOM 6721 6754	normal anterograde valvular flows
+T57	SYMPTOM 6862 6880	Coagulation normal
+T58	SYMPTOM 6896 6937	glycaemia, renal function and ions normal
+T59	SYMPTOM 7184 7202	poor general state
+T30	SYMPTOM 7204 7215	hypotensive
+T31	SYMPTOM 7227 7253	low level of consciousness
+T37	SYMPTOM 8395 8411	congestive signs
+T4	SYMPTOM 8452 8462	chest pain
+T24	SYMPTOM 8472 8486	preserved LVEF
+T32	SYMPTOM 9222 9294	painful tumour in the inguinal region, coinciding with the puncture site
+T33	SYMPTOM 10732 10753	Global preserved LVEF

@@ -1,0 +1,22 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T50	PROCEDURE 420 432	appendectomy
+T51	PROCEDURE 434 449	cholecystectomy
+T53	PROCEDURE 1001 1021	Physical examination
+T64	PROCEDURE 1259 1261	AC
+T54	PROCEDURE 1594 1597	ECG
+T55	PROCEDURE 1690 1701	Chest X-ray
+T56	PROCEDURE 1797 1834	Pinching of both costophrenic sinuses
+T57	PROCEDURE 1849 1869	arterial blood gases
+T68	PROCEDURE 1915 1927	Biochemistry
+T67	PROCEDURE 2195 2206	Coagulation
+T58	PROCEDURE 2287 2317	Angio-CT of pulmonary arteries
+T59	PROCEDURE 2746 2774	Transthoracic echocardiogram
+T60	PROCEDURE 3254 3274	Coronary angiography
+T65	PROCEDURE 4187 4202	Cardiac Surgery
+T61	PROCEDURE 4294 4314	coronary angiography
+T69	PROCEDURE 4444 4464	intravenous diuretic
+T70	PROCEDURE 4478 4492	ACE inhibitors
+T71	PROCEDURE 4662 4688	extracorporeal circulation
+T62	PROCEDURE 5303 5320	inotropic support
+T63	PROCEDURE 5837 5860	physical rehabilitation
+T66	PROCEDURE 5989 6004	Cardiac Surgery

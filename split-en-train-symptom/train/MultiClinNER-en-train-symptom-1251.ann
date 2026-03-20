@@ -1,0 +1,45 @@
+T1	SYMPTOM 807 816	dizziness
+T3	SYMPTOM 821 842	loss of consciousness
+T20	SYMPTOM 960 972	sinus rhythm
+T4	SYMPTOM 1146 1154	dyspnoea
+T5	SYMPTOM 1156 1166	chest pain
+T6	SYMPTOM 1170 1182	palpitations
+T2	SYMPTOM 1207 1216	dizziness
+T30	SYMPTOM 1248 1271	constitutional syndrome
+T7	SYMPTOM 1428 1450	Good general condition
+T8	SYMPTOM 1452 1461	Conscious
+T9	SYMPTOM 1463 1471	oriented
+T34	SYMPTOM 1476 1487	cooperative
+T10	SYMPTOM 1489 1496	Eupneic
+T11	SYMPTOM 1498 1506	Thinness
+T12	SYMPTOM 1511 1522	skin pallor
+T13	SYMPTOM 1524 1537	Well perfused
+T14	SYMPTOM 1561 1582	rhythmic heart sounds
+T15	SYMPTOM 1587 1594	murmurs
+T16	SYMPTOM 1620 1646	preserved vesicular murmur
+T17	SYMPTOM 1648 1700	Abdomen: soft, depressible, not painful on palpation
+T18	SYMPTOM 1705 1711	masses
+T35	SYMPTOM 1715 1724	megaliths
+T19	SYMPTOM 1748 1754	oedema
+T36	SYMPTOM 2276 2302	repolarisation alterations
+T21	SYMPTOM 2336 2348	sinus rhythm
+T37	SYMPTOM 2350 2352	SR
+T22	SYMPTOM 2365 2374	normal PR
+T38	SYMPTOM 2385 2413	repolarisation abnormalities
+T39	SYMPTOM 2428 2455	normal cardiothoracic index
+T40	SYMPTOM 2460 2472	condensation
+T23	SYMPTOM 2476 2499	vascular redistribution
+T31	SYMPTOM 2537 2563	non-dilated left ventricle
+T24	SYMPTOM 2597 2628	normal global systolic function
+T41	SYMPTOM 2649 2687	alterations of segmental contractility
+T25	SYMPTOM 2689 2716	Non-dilated right ventricle
+T42	SYMPTOM 2723 2762	normal morphology and systolic function
+T33	SYMPTOM 2775 2804	Normal mitral filling pattern
+T43	SYMPTOM 2836 2866	elevation of filling pressures
+T26	SYMPTOM 2878 2897	Normal mitral valve
+T44	SYMPTOM 2899 2956	Aortic valve sclerotic, appears trivalve, normal function
+T45	SYMPTOM 2958 2978	Atria of normal size
+T27	SYMPTOM 3019 3075	Implanted mass on the atrial side of the tricuspid valve
+T32	SYMPTOM 3408 3433	Normal inferior vena cava
+T28	SYMPTOM 3527 3583	mass implanted on the atrial side of the tricuspid valve
+T29	SYMPTOM 3735 3739	mass

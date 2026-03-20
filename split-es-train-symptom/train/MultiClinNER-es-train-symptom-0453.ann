@@ -1,0 +1,12 @@
+T1	SYMPTOM 1188 1196	sangrado
+T2	SYMPTOM 286 310	sintomatología miccional
+T3	SYMPTOM 169 228	tumoración de 20 mm en la cara lateral derecha de la vejiga
+T4	SYMPTOM 778 788	tumoración
+T5	SYMPTOM 1048 1058	tumoración
+T6	SYMPTOM 432 472	alteración del aparato urinario superior
+T7	SYMPTOM 626 693	analíticas de sangre y orina estaban dentro de los límites normales
+T8	SYMPTOM 528 548	defecto de repleción
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	IMAGEN T6
+A4	RESULTADO T7

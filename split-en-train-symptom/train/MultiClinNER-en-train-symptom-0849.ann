@@ -1,0 +1,43 @@
+T1	SYMPTOM 22 32	chest pain
+T2	SYMPTOM 334 346	HIV positive
+T3	SYMPTOM 569 585	HIV-RNA negative
+T6	SYMPTOM 965 1031	oppressive central thoracic pain, radiating to the left upper limb
+T5	SYMPTOM 1048 1053	nause
+T4	SYMPTOM 1059 1075	profuse sweating
+T7	SYMPTOM 1097 1101	pain
+T8	SYMPTOM 1203 1207	pain
+T11	SYMPTOM 1272 1304	electrocardiographic alterations
+T12	SYMPTOM 1321 1341	ST-segment elevation
+T14	SYMPTOM 1489 1497	Afebrile
+T15	SYMPTOM 1625 1634	Conscious
+T16	SYMPTOM 1636 1644	oriented
+T35	SYMPTOM 1649 1660	cooperative
+T17	SYMPTOM 1662 1688	Well hydrated and perfused
+T36	SYMPTOM 1690 1715	Regular general condition
+T9	SYMPTOM 1729 1733	pain
+T18	SYMPTOM 1735 1750	Eupneic at rest
+T19	SYMPTOM 1806 1814	rhythmic
+T20	SYMPTOM 1819 1826	murmurs
+T37	SYMPTOM 1852 1903	respiratory sounds preserved without over-additions
+T38	SYMPTOM 1905 1947	Abdomen: soft, depressible and non-painful
+T21	SYMPTOM 1949 1968	Peristalsis present
+T22	SYMPTOM 1970 1998	Lower extremities: no oedema
+T23	SYMPTOM 2000 2049	Radial and femoral pulses present and symmetrical
+T24	SYMPTOM 2147 2156	Normal PR
+T25	SYMPTOM 2158 2168	Narrow QRS
+T26	SYMPTOM 2170 2211	ST-segment elevation in DII, DIII and aVF
+T27	SYMPTOM 2217 2256	ST-segment depression in aVL, V1 and V2
+T13	SYMPTOM 2719 2746	normal cardio-thoracic inde
+T28	SYMPTOM 3229 3255	non-dilated left ventricle
+T39	SYMPTOM 3361 3412	Global left ventricular systolic function preserved
+T40	SYMPTOM 3423 3471	Prolonged relaxation in transmitral flow pattern
+T33	SYMPTOM 3473 3495	Normal right ventricle
+T29	SYMPTOM 3569 3588	Normal aortic valve
+T30	SYMPTOM 3625 3647	Normal tricuspid valve
+T10	SYMPTOM 3798 3802	pain
+T31	SYMPTOM 3807 3830	haemodynamically stable
+T32	SYMPTOM 4179 4223	Q wave and negative T wave in inferior leads
+T41	SYMPTOM 4572 4584	asymptomatic
+T42	SYMPTOM 4716 4751	normal CPK and liver function tests
+T43	SYMPTOM 5137 5193	Preserved global left ventricular (LV) systolic function
+T34	SYMPTOM 5357 5376	negative viral load

@@ -1,0 +1,23 @@
+T4	PROCEDURE 354 374	Physical examination
+T20	PROCEDURE 580 591	examination
+T21	PROCEDURE 646 654	analysis
+T3	PROCEDURE 1015 1026	Chest X-ray
+T25	PROCEDURE 1052 1062	ultrasound
+T26	PROCEDURE 1067 1085	abdominal CT scans
+T28	PROCEDURE 1383 1392	diuretics
+T29	PROCEDURE 1420 1438	antibiotic therapy
+T30	PROCEDURE 1478 1503	blood cultures were taken
+T31	PROCEDURE 1712 1728	Laboratory tests
+T7	PROCEDURE 2010 2023	blood culture
+T8	PROCEDURE 2083 2109	intravenous antibiotherapy
+T9	PROCEDURE 2323 2339	skin anaesthesia
+T10	PROCEDURE 2429 2460	invasive mechanical ventilation
+T13	PROCEDURE 2462 2479	vasoactive amines
+T11	PROCEDURE 2484 2522	continuous veno-venous haemofiltration
+T41	PROCEDURE 2534 2541	surgery
+T12	PROCEDURE 2565 2584	scrotal debridement
+T43	PROCEDURE 2586 2639	debridement of the fascia up to the root of the thigh
+T2	PROCEDURE 2644 2673	open supracondylar amputation
+T1	PROCEDURE 2847 2876	haemodynamic support measures
+T46	PROCEDURE 2880 2898	antibiotic therapy
+T15	PROCEDURE 2931 2938	surgery

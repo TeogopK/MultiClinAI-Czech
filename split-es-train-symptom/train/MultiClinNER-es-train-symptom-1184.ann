@@ -1,0 +1,42 @@
+T2	SYMPTOM 503 544	cefalea, pulsátil de localización frontal
+T3	SYMPTOM 595 624	disnea de moderados esfuerzos
+T4	SYMPTOM 655 669	dolor torácico
+T5	SYMPTOM 671 677	mareos
+T6	SYMPTOM 685 707	clínica cardiovascular
+T7	SYMPTOM 822 832	Consciente
+T8	SYMPTOM 834 843	orientada
+T9	SYMPTOM 845 857	colaboradora
+T10	SYMPTOM 859 921	Exploración neurológica dentro de los límites de la normalidad
+T11	SYMPTOM 923 950	Pulso venoso yugular normal
+T12	SYMPTOM 952 977	Ruidos cardiacos rítmicos
+T13	SYMPTOM 982 997	soplo sistólico
+T15	SYMPTOM 1190 1203	ritmo sinusal
+T17	SYMPTOM 2032 2078	SEROLOGÍA: Mycoplasma pneumoniae IgM: negativo
+T18	SYMPTOM 2080 2116	Legionella pneumophila IgM: negativo
+T19	SYMPTOM 2118 2154	Legionella pneumophila IgG: negativo
+T20	SYMPTOM 2769 2797	función sistólica conservada
+T21	SYMPTOM 2799 2841	Patrón diastólico de relajación prolongada
+T24	SYMPTOM 3744 3775	VD de tamaño y función normales
+T25	SYMPTOM 4341 4374	Contractilidad segmentaria normal
+T26	SYMPTOM 4376 4398	Masa miocárdica normal
+T27	SYMPTOM 4855 4876	Contractilidad normal
+T28	SYMPTOM 4878 4932	Aurícula izquierda (AI): área de 19 cm2, tamaño normal
+T29	SYMPTOM 4934 4986	Aurícula derecha (AD): área de 19 cm2, tamaño normal
+T31	SYMPTOM 5549 5580	VI de tamaño y función normales
+T32	SYMPTOM 6115 6144	hipertrofia concéntrica grave
+T33	SYMPTOM 7619 7634	soplo sistólico
+T102	SYMPTOM 2156 2181	Influenza B IgM: negativo
+T103	SYMPTOM 2183 2208	Influenza A IgM: negativo
+T104	SYMPTOM 2210 2227	CMV IgM: negativo
+T105	SYMPTOM 2229 2246	CMV IgG: positivo
+T106	SYMPTOM 2248 2287	Borrelia burgdorferi IgM-Lyme: negativo
+T107	SYMPTOM 2289 2328	Borrelia burgdorferi IgG-Lyme: negativo
+T14	SYMPTOM 7897 7925	VI de tamaño y grosor normal
+T109	SYMPTOM 3464 3510	Arterias coronarias sin lesiones angiográficas
+T133	SYMPTOM 3444 3462	dominancia derecha
+T16	SYMPTOM 5771 5858	marcadores de daño miocárdico (creatincinasa y troponina T ultrasensible) con elevación
+T22	SYMPTOM 1066 1126	pulmonar, abdomen y extremidades inferiores sin alteraciones
+T30	SYMPTOM 3187 3233	Ventrículo derecho (VD) con función conservada
+T1	SYMPTOM 3409 3425	Vena cava normal
+T111	SYMPTOM 3593 3621	VI de tamaño y grosor normal
+T23	SYMPTOM 4179 4196	VI: tamaño normal

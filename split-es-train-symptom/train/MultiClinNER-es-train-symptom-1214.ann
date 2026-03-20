@@ -1,0 +1,54 @@
+T2	SYMPTOM 337 348	cervicalgia
+T6	SYMPTOM 484 502	Vértigo periférico
+T7	SYMPTOM 638 646	falleció
+T8	SYMPTOM 939 1000	dolor torácico opresivo, retroesternal de moderada intensidad
+T10	SYMPTOM 1095 1113	cortejo vegetativo
+T11	SYMPTOM 1697 1709	asintomática
+T12	SYMPTOM 1745 1756	pico febril
+T13	SYMPTOM 1856 1913	función sistólica de ventrículo izquierdo (VI) conservada
+T15	SYMPTOM 2482 2512	Condiciones generales estables
+T16	SYMPTOM 2514 2523	hidratada
+T17	SYMPTOM 2525 2533	eupneica
+T18	SYMPTOM 2543 2564	ingurgitación yugular
+T19	SYMPTOM 2627 2652	ruidos cardíacos rítmicos
+T21	SYMPTOM 2673 2679	soplos
+T22	SYMPTOM 2682 2687	roces
+T23	SYMPTOM 2712 2738	murmullo vesicular audible
+T25	SYMPTOM 2772 2806	Extremidades inferiores: no edemas
+T26	SYMPTOM 2850 2855	vigil
+T27	SYMPTOM 2857 2867	consciente
+T28	SYMPTOM 2869 2878	orientada
+T29	SYMPTOM 2880 2893	sin focalidad
+T30	SYMPTOM 2958 2972	dolor torácico
+T34	SYMPTOM 3207 3221	dolor torácico
+T35	SYMPTOM 3227 3236	febrícula
+T38	SYMPTOM 3280 3314	elevación del ST de 1mm en DI, aVL
+T39	SYMPTOM 3316 3347	DII con T negativa en III y aVF
+T42	SYMPTOM 3420 3432	QRS estrecho
+T43	SYMPTOM 3434 3454	eje eléctrico normal
+T44	SYMPTOM 3456 3519	Elevación del ST de 0,5 mm en I, aVL con rectificación inferior
+T45	SYMPTOM 3521 3534	Onda Q en aVL
+T46	SYMPTOM 3832 3876	Tóxicos en orina: positivo a benzodiazepinas
+T47	SYMPTOM 3973 3995	perfil hepático normal
+T48	SYMPTOM 4224 4252	índice cardiotorácico normal
+T49	SYMPTOM 4296 4339	senos costofrénicos y cardiofrénicos libres
+T50	SYMPTOM 4374 4472	VI no dilatado ni hipertrofiado con contractilidad global conservada y alteración de la relajación
+T55	SYMPTOM 5235 5259	Función sistólica normal
+T56	SYMPTOM 5602 5630	función biventricular normal
+T57	SYMPTOM 5636 5677	defectos de la contractilidad segmentaria
+T58	SYMPTOM 6079 6104	hemodinámicamente estable
+T59	SYMPTOM 6143 6150	afebril
+T60	SYMPTOM 6587 6607	molestia epigástrica
+T61	SYMPTOM 6633 6646	palpitaciones
+T62	SYMPTOM 6705 6740	función ventricular residual normal
+T63	SYMPTOM 6774 6854	Función sistólica ventricular izquierda conservada sin alteraciones segmentarias
+T9	SYMPTOM 1484 1527	infradesnivel del segmento ST en DIII y AVF
+T108	SYMPTOM 1429 1469	supradesnivel inframilimétrico en DI-AVL
+T20	SYMPTOM 3024 3055	supradesnivel < 0,5 mm en DI-AV
+T24	SYMPTOM 3071 3114	infradesnivel del segmento ST en DIII y AVF
+T36	SYMPTOM 4258 4294	alteraciones del parénquima pulmonar
+T137	SYMPTOM 4894 4926	Arterias coronarias sin lesiones
+T138	SYMPTOM 4590 4621	Cavidades derechas no dilatadas
+T139	SYMPTOM 4874 4892	Dominancia derecha
+T173	SYMPTOM 2654 2668	tonos apagados
+T3	SYMPTOM 431 449	compromiso medular

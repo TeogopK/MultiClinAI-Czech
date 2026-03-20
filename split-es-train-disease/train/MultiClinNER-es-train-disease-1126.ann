@@ -1,0 +1,41 @@
+T2	DISEASE 185 192	Fumador
+T29	DISEASE 2773 2809	dilatación y disfunción severa de VI
+T30	DISEASE 3279 3298	congestión pulmonar
+T69	DISEASE 3252 3265	cardiomegalia
+T89	DISEASE 2449 2452	ICC
+T90	DISEASE 2597 2608	IM moderada
+T91	DISEASE 2861 2863	IM
+T92	DISEASE 3573 3586	IM e IT leves
+T93	DISEASE 2610 2619	IT severa
+T95	DISEASE 5313 5346	Insuficiencia cardiaca congestiva
+T96	DISEASE 5348 5371	Miocardiopatía dilatada
+T98	DISEASE 1662 1665	TVP
+T100	DISEASE 1218 1229	adenopatías
+T101	DISEASE 165 173	alergias
+T102	DISEASE 216 223	bebedor
+T103	DISEASE 2365 2378	cardiomegalia
+T106	DISEASE 2624 2643	derrame pericárdico
+T108	DISEASE 2569 2595	disfunción sistólica de VD
+T109	DISEASE 4362 4382	enfermedad coronaria
+T110	DISEASE 4124 4151	extrasístoles ventriculares
+T111	DISEASE 3615 3634	fibrosis miocárdica
+T112	DISEASE 4710 4729	fibrosis miocárdica
+T114	DISEASE 769 800	infección de vías respiratorias
+T115	DISEASE 3505 3571	miocardiopatía dilatada con disfunción severa de VI y ligera de VD
+T116	DISEASE 4227 4250	miocardiopatía dilatada
+T117	DISEASE 1733 1752	taquicardia sinusal
+T118	DISEASE 4451 4470	taquicardia sinusal
+T119	DISEASE 1635 1660	trombosis venosa profunda
+T120	DISEASE 4284 4297	valvulopatías
+T66	DISEASE 255 301	exconsumidor esporádico de cocaína y marihuana
+T4	DISEASE 2487 2498	VI dilatado
+T27	DISEASE 2872 2901	Dilatación y disfunción de VD
+T32	DISEASE 5384 5404	Disfunción VI severa
+T67	DISEASE 5406 5426	Disfunción VD ligera
+T68	DISEASE 4255 4278	disfunción de VI severa
+T14	DISEASE 2487 2537	VI dilatado con disfunción sistólica global severa
+#90	AnnotatorNotes T90	IM insuficiencia mitral
+#91	AnnotatorNotes T91	IM insuficiencia mitral
+#92	AnnotatorNotes T92	IM insuficiencia mitral
+#93	AnnotatorNotes T93	IT: insuficiencia tricuspidea
+#98	AnnotatorNotes T98	TVP trombosis venosa profunda

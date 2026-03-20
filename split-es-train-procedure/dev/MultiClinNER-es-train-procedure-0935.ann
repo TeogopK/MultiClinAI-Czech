@@ -1,0 +1,21 @@
+T28	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 241 273	Valvuloplastia mitral percutánea
+T30	PROCEDURE 427 445	Exploración física
+T31	PROCEDURE 455 461	sedada
+T33	PROCEDURE 464 496	conectada a ventilación mecánica
+T34	PROCEDURE 513 534	Auscultación cardiaca
+T35	PROCEDURE 556 577	Auscultación pulmonar
+T36	PROCEDURE 1026 1061	TC cráneo sin contraste intravenoso
+T37	PROCEDURE 1164 1218	Angio-TC de troncos supraaórticos y polígono de Willis
+T38	PROCEDURE 1607 1641	angio-TC de aorta toraco-abdominal
+T39	PROCEDURE 1643 1655	TC perfusión
+T40	PROCEDURE 1866 1899	Angio-TC de aorta toracoabdominal
+T41	PROCEDURE 2241 2255	Ecocardiograma
+T42	PROCEDURE 3006 3061	tratamiento endovenoso con antihipertensivos y sedación
+T45	PROCEDURE 3129 3137	sedación
+T46	PROCEDURE 3204 3218	ecocardiograma
+T47	PROCEDURE 3467 3477	diuréticos
+T48	PROCEDURE 3508 3518	extubación
+T49	PROCEDURE 3766 3788	beta y alfabloqueantes
+T50	PROCEDURE 3829 3863	angio-TC de aorta toraco-abdominal
+T81	PROCEDURE 899 921	se activa Código Ictus

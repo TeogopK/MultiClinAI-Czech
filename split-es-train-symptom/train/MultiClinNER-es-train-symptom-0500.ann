@@ -1,0 +1,31 @@
+T1	SYMPTOM 890 896	fiebre
+T2	SYMPTOM 907 950	dolor y dificultad para movilizar el cuello
+T3	SYMPTOM 2748 2760	LCR negativo
+T4	SYMPTOM 986 1015	afectación del estado general
+T5	SYMPTOM 1018 1024	fiebre
+T6	SYMPTOM 173 195	dolor abdominal en FID
+T7	SYMPTOM 200 215	pérdida de peso
+T8	SYMPTOM 1134 1142	delgadez
+T9	SYMPTOM 1211 1221	consciente
+T10	SYMPTOM 1224 1233	orientada
+T11	SYMPTOM 1861 1873	glucorraquia
+T12	SYMPTOM 1882 1897	proteinorraquia
+T13	SYMPTOM 2037 2078	cultivo positivo a Listeria monocytogenes
+T14	SYMPTOM 1294 1346	exploración cardiorrespiratoria y abdominal normales
+T15	SYMPTOM 2805 2812	estable
+T16	SYMPTOM 767 849	anticuerpos antinucleares, radiografía de tórax y serología viral fueron negativos
+T17	SYMPTOM 1239 1278	exploración neurológica completa normal
+T18	SYMPTOM 1691 1735	elemental de orina y sedimento eran normales
+T19	SYMPTOM 1983 2034	tinción de Gram en la que no se observaron gérmenes
+T20	SYMPTOM 1280 1291	muguet oral
+T21	SYMPTOM 1727 1781	normales, así como las radiografías de tórax y abdomen
+T22	SYMPTOM 2282 2295	abdomen agudo
+T23	SYMPTOM 2407 2441	intestino delgado y colon normales
+A1	RESULTADO T3
+A2	RESULTADO T11
+A3	RESULTADO T12
+A4	RESULTADO T13
+A5	RESULTADO T16
+A6	RESULTADO T18
+A7	RESULTADO T19
+A8	IMAGEN T21

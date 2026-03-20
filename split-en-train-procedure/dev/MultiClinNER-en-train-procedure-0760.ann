@@ -1,0 +1,68 @@
+T157	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 262 283	cochlear implantation
+T153	PROCEDURE 320 337	electrocardiogram
+T154	PROCEDURE 339 342	ECG
+T155	PROCEDURE 475 501	electrophysiological study
+T156	PROCEDURE 506 532	accessory pathway ablation
+T158	PROCEDURE 857 877	Physical examination
+T159	PROCEDURE 1169 1203	Cardiac and pulmonary auscultation
+T160	PROCEDURE 1364 1373	palpation
+T2	PROCEDURE 2057 2075	Venous blood gases
+T161	PROCEDURE 2125 2136	Chest X-ray
+T162	PROCEDURE 2307 2323	echocardiography
+T165	PROCEDURE 3457 3465	Serology
+T3	PROCEDURE 3477 3504	erology for hepatic virus C
+T203	PROCEDURE 3632 3635	PCR
+T167	PROCEDURE 3747 3767	Coronary angiography
+T169	PROCEDURE 4255 4267	proteinogram
+T4	PROCEDURE 4456 4468	Light chains
+T171	PROCEDURE 4521 4542	24-hour urine protein
+T5	PROCEDURE 4617 4620	CBC
+T163	PROCEDURE 4829 4845	Echocardiography
+T6	PROCEDURE 6359 6395	Thrombophilia and autoimmunity study
+T7	PROCEDURE 6496 6515	coagulation factors
+T173	PROCEDURE 6711 6724	Rectal biopsy
+T8	PROCEDURE 6820 6843	staining with Congo red
+T174	PROCEDURE 6906 6929	Subcutaneous fat biopsy
+T176	PROCEDURE 6931 6951	Congo red techniques
+T164	PROCEDURE 7116 7132	Echocardiography
+T177	PROCEDURE 7634 7640	PET-CT
+T180	PROCEDURE 8181 8184	PET
+T182	PROCEDURE 8331 8339	DPD scan
+T9	PROCEDURE 8461 8470	bone scan
+T183	PROCEDURE 9174 9212	Genetic study of mitochondrial disease
+T184	PROCEDURE 9469 9490	Endomyocardial biopsy
+T205	PROCEDURE 9957 9985	markers of myocardial damage
+T186	PROCEDURE 9987 10015	infusion of volume expanders
+T11	PROCEDURE 10034 10072	oxygen therapy with Ventimask FiO2 31%
+T10	PROCEDURE 10077 10100	i.v. antibiotic therapy
+T187	PROCEDURE 10253 10269	vasoactive drugs
+T190	PROCEDURE 10326 10340	echocardiogram
+T201	PROCEDURE 10505 10520	anticoagulation
+T168	PROCEDURE 10604 10624	coronary angiography
+T202	PROCEDURE 10913 10931	vasoactive support
+T204	PROCEDURE 10953 10967	renal function
+T12	PROCEDURE 11057 11071	nasal cannulas
+T192	PROCEDURE 11111 11130	gasometric controls
+T188	PROCEDURE 11248 11264	vasoactive drugs
+T13	PROCEDURE 11266 11269	VAD
+T14	PROCEDURE 11516 11581	metatarsophalangeal amputation of the second-fourth MII phalanges
+T208	PROCEDURE 11852 11867	cardiac markers
+T193	PROCEDURE 11872 11893	acute phase reactants
+T194	PROCEDURE 11895 11912	serological tests
+T195	PROCEDURE 12082 12096	Blood cultures
+T15	PROCEDURE 12131 12149	CardioMRI with LGE
+T152	PROCEDURE 12190 12206	cochlear implant
+T189	PROCEDURE 12384 12400	vasoactive drugs
+T191	PROCEDURE 12458 12472	echocardiogram
+T16	PROCEDURE 13094 13112	aetiological study
+T196	PROCEDURE 13227 13244	coagulation study
+T170	PROCEDURE 13504 13516	proteinogram
+T207	PROCEDURE 13521 13539	urine light chains
+T197	PROCEDURE 13561 13619	rectal and subcutaneous fat biopsy with Congo red staining
+T17	PROCEDURE 13695 13727	technetium-99 diphosphonate scan
+T18	PROCEDURE 13849 13887	PET-CT scan with 18 fluorodeoxyglucose
+T19	PROCEDURE 14907 14915	diuretic
+T199	PROCEDURE 15355 15368	genetic study
+T185	PROCEDURE 15903 15924	endomyocardial biopsy
+T200	PROCEDURE 16436 16465	amputation of lower phalanges

@@ -1,0 +1,16 @@
+T1	DISEASE 49 69	hepatitis alcohólica
+T2	DISEASE 107 125	síndrome nefrótico
+T4	DISEASE 144 163	insuficiencia renal
+T8	DISEASE 263 309	lesiones purpúricas en los miembros inferiores
+T11	DISEASE 974 994	GNMP asociada al VHC
+T16	DISEASE 1189 1206	cirrosis hepática
+T18	DISEASE 1517 1556	pericarditis aguda con presencia de VHC
+T19	DISEASE 1790 1837	artritis inflamatoria de grandes articulaciones
+T21	DISEASE 2009 2039	insuficiencia renal progresiva
+T24	DISEASE 2167 2197	hemorragia cerebral espontánea
+T25	DISEASE 2277 2285	enolismo
+T40	DISEASE 3443 3481	GN mesangial IgA de novo en el injerto
+T65	DISEASE 1563 1582	líquido pericárdico
+T68	DISEASE 247 260	hepatomegalia
+#1	AnnotatorNotes T11	   GNMP: Glomerulonefritis membranoproliferativa
+#2	AnnotatorNotes T18	   VHC: virus hepatitis C

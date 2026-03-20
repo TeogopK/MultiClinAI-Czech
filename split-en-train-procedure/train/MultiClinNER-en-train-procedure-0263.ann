@@ -1,0 +1,14 @@
+T1	PROCEDURE 382 402	Physical examination
+T4	PROCEDURE 555 566	blood count
+T10	PROCEDURE 568 580	biochemistry
+T5	PROCEDURE 582 593	coagulation
+T6	PROCEDURE 595 608	urine culture
+T20	PROCEDURE 610 624	renal function
+T7	PROCEDURE 654 665	chest X-ray
+T8	PROCEDURE 670 673	ECG
+T9	PROCEDURE 687 703	Urinary sediment
+T2	PROCEDURE 729 749	Abdominal ultrasound
+T24	PROCEDURE 903 934	abdominal CT scan with contrast
+T13	PROCEDURE 941 951	ultrasound
+T3	PROCEDURE 1369 1385	left nephrectomy
+T11	PROCEDURE 1430 1459	anatomopathological diagnosis

@@ -1,0 +1,10 @@
+T1	PROCEDURE 422 442	Physical examination
+T11	PROCEDURE 539 582	palpation of a mass at the epigastric level
+T14	PROCEDURE 788 805	abdominal CT scan
+T2	PROCEDURE 943 964	Transgastric drainage
+T16	PROCEDURE 991 1012	endoscopic ultrasound
+T7	PROCEDURE 1100 1109	endoscope
+T3	PROCEDURE 1131 1152	percutaneous drainage
+T4	PROCEDURE 1255 1274	surgical evacuation
+T8	PROCEDURE 1278 1312	marsupialisation of the pseudocyst
+T5	PROCEDURE 1325 1341	cystogastrostomy

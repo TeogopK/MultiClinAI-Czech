@@ -1,0 +1,35 @@
+T1	SYMPTOM 659 671	asymptomatic
+T2	SYMPTOM 876 884	anasarca
+T3	SYMPTOM 1082 1091	Conscious
+T4	SYMPTOM 1096 1104	oriented
+T6	SYMPTOM 1106 1126	Rhythmic heart tones
+T7	SYMPTOM 1135 1142	murmurs
+T26	SYMPTOM 1144 1157	friction rubs
+T27	SYMPTOM 1161 1171	extratones
+T8	SYMPTOM 1173 1194	Jugular ingurgitation
+T28	SYMPTOM 1199 1241	oedema with fovea up to the genital region
+T9	SYMPTOM 1248 1274	distal pulses not palpable
+T29	SYMPTOM 1282 1288	oedema
+T10	SYMPTOM 1290 1300	Tachypnoea
+T11	SYMPTOM 1306 1326	bibasal hypophonesis
+T30	SYMPTOM 1331 1360	decreased vocal transmissions
+T12	SYMPTOM 1423 1435	sinus rhythm
+T13	SYMPTOM 1447 1456	normal PR
+T14	SYMPTOM 1458 1468	narrow QRS
+T15	SYMPTOM 1484 1506	electrical alternation
+T31	SYMPTOM 1516 1542	repolarisation alterations
+T16	SYMPTOM 1988 2017	negative for HCV, HBV and HIV
+T25	SYMPTOM 2019 2039	HBV DNA undetectable
+T32	SYMPTOM 2103 2143	Lung parenchyma without congestive signs
+T17	SYMPTOM 2215 2237	good systolic function
+T18	SYMPTOM 2242 2263	diastolic dysfunction
+T19	SYMPTOM 2782 2804	Pleural fluid: exudate
+T20	SYMPTOM 3101 3118	Negative cultures
+T24	SYMPTOM 3120 3146	Pericardial fluid: exudate
+T23	SYMPTOM 3541 3553	condensation
+T22	SYMPTOM 3647 3684	Bilateral renal cortical micronodules
+T21	SYMPTOM 3884 3907	haemodynamic compromise
+T5	SYMPTOM 4218 4269	pleural effusion was performed with exudate results
+T33	SYMPTOM 4430 4495	total drainage of 1400 ml of haematic fluid was obtained, exudate
+T34	SYMPTOM 4635 4672	negative cytology for malignant cells
+T35	SYMPTOM 4788 4846	solid tumour-like masses were observed in the right kidney

@@ -1,0 +1,40 @@
+T1	SYMPTOM 404 422	disnea de esfuerzo
+T2	SYMPTOM 553 561	cianosis
+T3	SYMPTOM 785 803	Eupneica en reposo
+T4	SYMPTOM 809 817	ortopnea
+T5	SYMPTOM 821 830	platipnea
+T6	SYMPTOM 832 853	Cianosis generalizada
+T7	SYMPTOM 855 884	Presión venosa yugular normal
+T8	SYMPTOM 886 916	Reflejo hepatoyugular negativo
+T9	SYMPTOM 943 973	Auscultación cardiaca: regular
+T10	SYMPTOM 979 985	soplos
+T11	SYMPTOM 1010 1039	murmullo vesicular conservado
+T12	SYMPTOM 1056 1080	Extremidades: Sin edemas
+T13	SYMPTOM 1082 1125	Pulsos periféricos conservados y simétricos
+T14	SYMPTOM 1178 1191	ritmo sinusal
+T15	SYMPTOM 1239 1272	alteraciones de la repolarización
+T16	SYMPTOM 1669 1704	silueta cardiomediastínica centrada
+T18	SYMPTOM 2106 2189	Ventrículo izquierdo con diámetros, volúmenes y función global sistólica conservada
+T19	SYMPTOM 2286 2351	Patrón diastólico de ventrículo izquierdo dentro de la normalidad
+T20	SYMPTOM 2353 2433	Ventrículo derecho de diámetros normales con función global sistólica conservada
+T21	SYMPTOM 2535 2548	Ritmo sinusal
+T23	SYMPTOM 2924 2961	nódulos ni consolidaciones pulmonares
+T25	SYMPTOM 3247 3267	restricción pulmonar
+T28	SYMPTOM 4070 4106	Drenaje de venas pulmonares normales
+T29	SYMPTOM 4660 4688	función biventricular normal
+T89	SYMPTOM 2206 2251	alteraciones de la contractilidad segmentaria
+T96	SYMPTOM 5468 5499	válvula de Eustaquio prominente
+T24	SYMPTOM 5689 5701	asintomática
+T27	SYMPTOM 5708 5768	gasometrías arteriales y ecocardiografía de control normales
+T98	SYMPTOM 3746 3779	Aurículas de dimensiones normales
+T99	SYMPTOM 1747 1776	Campos pulmonares traslúcidos
+T115	SYMPTOM 2508 2533	Vena cava inferior normal
+T119	SYMPTOM 1799 1811	condensación
+T120	SYMPTOM 2704 2748	defectos de repleción en arterias pulmonares
+T93	SYMPTOM 2553 2628	inyección de gelafundina no muestra paso de burbujas a cavidades izquierdas
+T26	SYMPTOM 3688 3744	Aorta y grandes vasos de diámetros y morfología normales
+T90	SYMPTOM 3573 3608	Ventrículo derecho (VD) no dilatado
+T22	SYMPTOM 3913 3969	aorta y tronco pulmonar de diámetros y morfología normal
+T94	SYMPTOM 4739 4840	contraste a través de ambos miembros superiores sin objetivar paso de burbujas a cavidades izquierdas
+T95	SYMPTOM 4899 5006	tomografía pulmonar y una gammagrafía de ventilación/perfusión ambas con resultados dentro de la normalidad
+T100	SYMPTOM 5506 5520	sutura errónea

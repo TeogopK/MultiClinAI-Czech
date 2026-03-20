@@ -1,0 +1,53 @@
+T1	SYMPTOM 496 519	episodios presincopales
+T3	SYMPTOM 685 699	dolor torácico
+T4	SYMPTOM 703 716	palpitaciones
+T5	SYMPTOM 721 727	disnea
+T6	SYMPTOM 976 986	consciente
+T7	SYMPTOM 989 998	orientado
+T8	SYMPTOM 1000 1014	normohidratado
+T9	SYMPTOM 1017 1031	normocoloreado
+T10	SYMPTOM 1033 1047	Taquipnea leve
+T11	SYMPTOM 1072 1097	ruidos cardiacos rítmicos
+T12	SYMPTOM 1102 1108	soplos
+T13	SYMPTOM 1151 1205	Abdomen blando, depresible, no doloroso a la palpación
+T14	SYMPTOM 1220 1225	masas
+T15	SYMPTOM 1229 1237	megalias
+T16	SYMPTOM 1239 1263	Peristaltismo conservado
+T17	SYMPTOM 1265 1295	Ingurgitación yugular negativa
+T18	SYMPTOM 1297 1327	Reflujo hepatoyugular negativo
+T19	SYMPTOM 1332 1346	edemas en EEII
+T22	SYMPTOM 1564 1593	alteraciones faringolaríngeas
+T25	SYMPTOM 1644 1678	edema en mucosas faringe-laríngeas
+T26	SYMPTOM 1680 1698	vía área permeable
+T27	SYMPTOM 1818 1851	alteraciones en la repolarización
+T28	SYMPTOM 1875 1898	silueta cardiaca normal
+T29	SYMPTOM 1900 1920	engrosamiento hiliar
+T30	SYMPTOM 2007 2041	alteraciones pleuroparenquimatosas
+T31	SYMPTOM 2475 2489	VI no dilatado
+T33	SYMPTOM 2527 2542	FEVI conservada
+T38	SYMPTOM 4861 4874	masa cervical
+T39	SYMPTOM 4949 4970	disfagia para sólidos
+T40	SYMPTOM 4975 4990	pérdida de peso
+T41	SYMPTOM 5582 5595	masa cervical
+T42	SYMPTOM 5688 5724	episodios sincopales y presincopales
+T43	SYMPTOM 5737 5748	bradicardia
+T44	SYMPTOM 5857 5868	bradicardia
+T45	SYMPTOM 6964 6970	disnea
+T46	SYMPTOM 6973 6981	disfagia
+T47	SYMPTOM 7127 7147	episodios sincopales
+T49	SYMPTOM 7358 7371	masa cervical
+T99	SYMPTOM 522 532	sincopales
+T117	SYMPTOM 5033 5053	episodios sincopales
+T98	SYMPTOM 771 789	asimetría cervical
+T130	SYMPTOM 1133 1149	normoventilación
+T131	SYMPTOM 3759 3793	Moderada hiperinsuflación pulmonar
+T136	SYMPTOM 2727 2754	Cavidades derechas normales
+T151	SYMPTOM 7157 7176	estabilidad clínica
+T2	SYMPTOM 1595 1615	buen espacio glótico
+T37	SYMPTOM 1617 1639	Buena movilidad cordal
+T55	SYMPTOM 3566 3619	ganglios de menor tamaño en el mediastino prevascular
+T119	SYMPTOM 3841 3871	afectación del espacio pleural
+T76	SYMPTOM 5259 5294	respuesta positiva cardioinhibidora
+T120	SYMPTOM 6336 6350	betabloqueante
+T121	SYMPTOM 6424 6437	masa cervical
+T127	SYMPTOM 7076 7089	masa cervical

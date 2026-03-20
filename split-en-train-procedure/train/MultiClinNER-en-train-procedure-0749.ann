@@ -1,0 +1,19 @@
+T1	PROCEDURE 214 234	Physical examination
+T12	PROCEDURE 464 485	Intraoral examination
+T4	PROCEDURE 635 667	examination of the head and neck
+T15	PROCEDURE 671 713	biopsy was performed with intraoral access
+T7	PROCEDURE 715 729	Histologically
+T5	PROCEDURE 1044 1072	Immunohistochemical analysis
+T3	PROCEDURE 1114 1140	magnetic resonance imaging
+T10	PROCEDURE 1142 1145	MRI
+T21	PROCEDURE 1466 1491	gadolinium administration
+T22	PROCEDURE 1673 1706	biopsy and bone marrow aspiration
+T24	PROCEDURE 1725 1746	full-body PET-CT scan
+T8	PROCEDURE 1797 1819	Euro-EWING 99 protocol
+T11	PROCEDURE 1833 1836	MRI
+T25	PROCEDURE 2064 2087	contrast administration
+T6	PROCEDURE 2089 2107	Surgical treatment
+T27	PROCEDURE 2167 2227	resection of the affected facial musculature and soft tissue
+T9	PROCEDURE 2349 2365	radiographically
+T2	PROCEDURE 2489 2510	Histological analysis
+T13	PROCEDURE 2606 2609	MRI

@@ -1,0 +1,11 @@
+T1	SYMPTOM 149 155	fiebre
+T2	SYMPTOM 305 314	sobrepeso
+T3	SYMPTOM 321 375	palpación dolorosa a nivel de la fosa iliaca izquierda
+T4	SYMPTOM 387 404	defensa abdominal
+T5	SYMPTOM 410 469	ruidos intestinales y resto de la exploración eran normales
+T6	SYMPTOM 924 978	inflamación de la grasa adyacente al colon descendente
+T7	SYMPTOM 66 96	dolor en fosa iliaca izquierda
+T8	SYMPTOM 1006 1024	apéndice epiploico
+T9	SYMPTOM 693 698	dolor
+A1	IMAGEN T6
+A2	IMAGEN T8

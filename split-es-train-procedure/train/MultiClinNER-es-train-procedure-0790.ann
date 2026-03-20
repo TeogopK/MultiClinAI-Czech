@@ -1,0 +1,68 @@
+T112	PROCEDURE 397 418	antidiabéticos orales
+T113	PROCEDURE 970 974	CPAP
+T114	PROCEDURE 1058 1070	Gastroscopia
+T115	PROCEDURE 1073 1085	colonoscopia
+T116	PROCEDURE 1110 1137	TAC toraco-abdomino-pélvico
+T117	PROCEDURE 1140 1160	manometría esofágica
+T118	PROCEDURE 1978 1988	diuréticos
+T119	PROCEDURE 2052 2067	ecocardiografía
+T120	PROCEDURE 2070 2088	Exploración física
+T121	PROCEDURE 2183 2203	O2 por gafas nasales
+T122	PROCEDURE 2350 2371	Auscultación cardiaca
+T123	PROCEDURE 2467 2488	Auscultación pulmonar
+T124	PROCEDURE 2770 2788	Electrocardiograma
+T125	PROCEDURE 2790 2793	ECG
+T126	PROCEDURE 2834 2888	conducción ventricular mediada por electroestimulación
+T127	PROCEDURE 3019 3039	Radiografía de tórax
+T128	PROCEDURE 3271 3280	Hemograma
+T129	PROCEDURE 3751 3762	Coagulación
+T130	PROCEDURE 3898 3919	Hemocultivos seriados
+T131	PROCEDURE 4014 4046	Serologías bacterianas y virales
+T132	PROCEDURE 4230 4253	Aspirado de médula ósea
+T133	PROCEDURE 4333 4357	Cultivos microbiológicos
+T134	PROCEDURE 4360 4380	estudio de parásitos
+T135	PROCEDURE 4392 4466	Cultivos de material valvular resecado y de cable de marcapasos explantado
+T136	PROCEDURE 4480 4521	TAC toraco-abdomino-pélvico con contraste
+T137	PROCEDURE 5311 5341	Ecocardiografía transesofágica
+T138	PROCEDURE 5343 5346	ETE
+T139	PROCEDURE 5350 5379	ecocardiografía transtorácica
+T140	PROCEDURE 5381 5384	ETT
+T141	PROCEDURE 6731 6746	Coronariografía
+T142	PROCEDURE 7094 7116	tratamiento deplectivo
+T143	PROCEDURE 7219 7246	TAC toraco-abdomino-pélvico
+T144	PROCEDURE 7457 7460	ETT
+T145	PROCEDURE 7733 7763	ecocardiografía transesofágica
+T147	PROCEDURE 8137 8154	angio-TC de tórax
+T148	PROCEDURE 8892 8915	aspirado de médula ósea
+T149	PROCEDURE 9419 9434	coronariografía
+T150	PROCEDURE 9567 9595	revascularización quirúrgica
+T151	PROCEDURE 9607 9619	hemocultivos
+T152	PROCEDURE 9710 9720	serologías
+T153	PROCEDURE 9731 9752	test de autoinmunidad
+T154	PROCEDURE 9863 9890	pruebas de medicina nuclear
+T155	PROCEDURE 10071 10094	intervención quirúrgica
+T156	PROCEDURE 10183 10228	extracción de cable y generador de marcapasos
+T157	PROCEDURE 10231 10306	implante de cables epicárdicos a nivel de AD, VD y VI para resincronización
+T158	PROCEDURE 10312 10379	colocación de nuevo generador en región abdominal subcostal derecha
+T159	PROCEDURE 10393 10408	bypass sobre DA
+T160	PROCEDURE 10520 10572	intervencionismo coronario percutáneo (ICP) sobre DA
+T161	PROCEDURE 10709 10729	reanimación cardiaca
+T176	PROCEDURE 4059 4072	Autoinmunidad
+T177	PROCEDURE 3483 3493	Bioquímica
+T178	PROCEDURE 237 255	EXPLORACIÓN FÍSICA
+T179	PROCEDURE 524 545	Recambio de generador
+T180	PROCEDURE 7852 7875	antibioterapia empírica
+T182	PROCEDURE 8776 8787	hematología
+T183	PROCEDURE 10609 10681	microbiología los restos valvulares así como el extremo distal del cable
+T184	PROCEDURE 787 818	upgrade a marcapasos tricameral
+T185	PROCEDURE 4155 4178	Marcadores de hemólisis
+T186	PROCEDURE 8799 8868	tratamiento con factores estimulantes de las colonias de granulocitos
+T188	PROCEDURE 928 984	presión positiva continua de vías aéreas (CPAP) nocturna
+T189	PROCEDURE 10559 10562	ICP
+T199	PROCEDURE 820 823	TRC
+T203	PROCEDURE 8462 8472	analíticas
+T208	PROCEDURE 8750 8757	cirugía
+T234	PROCEDURE 7804 7830	se extrajeron hemocultivos
+T206	PROCEDURE 8554 8581	requerimiento transfusional
+T209	PROCEDURE 10099 10163	sustitución con prótesis biológica de válvulas mitral y pulmonar
+#4	AnnotatorNotes T189	 ICP: intervencionismo coronario percutáneo

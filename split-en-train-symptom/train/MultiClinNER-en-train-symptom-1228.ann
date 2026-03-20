@@ -1,0 +1,39 @@
+T1	SYMPTOM 519 534	chest tightness
+T2	SYMPTOM 618 635	vegetative cortex
+T31	SYMPTOM 735 789	markers of myocardial damage were found to be elevated
+T5	SYMPTOM 910 933	haemodynamically stable
+T32	SYMPTOM 989 1015	jugular venous engorgement
+T6	SYMPTOM 1017 1054	Normal cardiorespiratory auscultation
+T7	SYMPTOM 1059 1066	murmurs
+T8	SYMPTOM 1068 1094	Lower limbs without oedema
+T9	SYMPTOM 1096 1145	Radial and femoral pulses present and symmetrical
+T33	SYMPTOM 1602 1661	SARS-CoV-2 RNA detection (nasopharyngeal exudate): negative
+T20	SYMPTOM 1678 1690	sinus rhythm
+T10	SYMPTOM 1702 1724	Normal and constant PR
+T13	SYMPTOM 1726 1736	Narrow QRS
+T29	SYMPTOM 1738 1749	normal axis
+T34	SYMPTOM 1905 1932	normal cardiothoracic index
+T16	SYMPTOM 1934 1959	free costophrenic sinuses
+T17	SYMPTOM 1964 1987	parenchymal infiltrates
+T21	SYMPTOM 2066 2078	sinus rhythm
+T11	SYMPTOM 2090 2112	Normal and constant PR
+T14	SYMPTOM 2114 2124	Narrow QRS
+T35	SYMPTOM 2216 2264	left main coronary artery (LMCA) without lesions
+T36	SYMPTOM 2266 2329	Anterior descending artery (ADA) with diffuse lumen involvement
+T30	SYMPTOM 2453 2500	Circumflex artery (Cx) with diffuse involvement
+T37	SYMPTOM 2562 2615	Right coronary artery (RCA) dominant, with no lesions
+T18	SYMPTOM 3193 3203	chest pain
+T27	SYMPTOM 3208 3222	isoelectric ST
+T38	SYMPTOM 3278 3354	Angio-CT of the supra-aortic trunks and aorta: study within the normal range
+T39	SYMPTOM 3360 3461	ascending aorta, aortic arch and descending aorta and their visceral branches showed no abnormalities
+T22	SYMPTOM 3491 3503	sinus rhythm
+T12	SYMPTOM 3512 3534	Normal and constant PR
+T15	SYMPTOM 3536 3546	Narrow QRS
+T40	SYMPTOM 5397 5424	ACD: no evidence of lesions
+T23	SYMPTOM 5450 5484	DP and PL branches without lesions
+T3	SYMPTOM 5583 5600	vegetative cortex
+T24	SYMPTOM 6263 6290	preserved ejection fraction
+T25	SYMPTOM 6666 6716	oppressive chest pain radiating to the upper limbs
+T4	SYMPTOM 6722 6739	vegetative cortex
+T26	SYMPTOM 8122 8163	Preserved biventricular ejection fraction
+T28	SYMPTOM 8216 8227	Prediabetes

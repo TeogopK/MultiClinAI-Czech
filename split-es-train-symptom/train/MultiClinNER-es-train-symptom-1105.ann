@@ -1,0 +1,49 @@
+T1	SYMPTOM 127 133	disnea
+T2	SYMPTOM 1073 1079	disnea
+T3	SYMPTOM 1178 1194	disnea en reposo
+T4	SYMPTOM 1207 1215	ortopnea
+T5	SYMPTOM 1257 1293	edematización de miembros inferiores
+T6	SYMPTOM 1296 1341	disminución subjetiva del volumen de diuresis
+T7	SYMPTOM 1497 1527	Auscultación cardiaca: rítmico
+T8	SYMPTOM 1533 1596	soplo sistólico piante en foco mitral III/VI, irradiado a axila
+T9	SYMPTOM 1621 1669	crepitantes bilaterales en campos medios y bases
+T10	SYMPTOM 1671 1736	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T12	SYMPTOM 1741 1746	masas
+T13	SYMPTOM 1750 1758	megalias
+T15	SYMPTOM 1805 1826	edemas hasta rodillas
+T16	SYMPTOM 1837 1880	pulsos periféricos conservados y simétricos
+T19	SYMPTOM 2179 2192	ritmo sinusal
+T20	SYMPTOM 2203 2215	QRS estrecho
+T21	SYMPTOM 2228 2252	Descenso del segmento ST
+T22	SYMPTOM 2293 2335	Onda T negativa asimétrica en cara lateral
+T23	SYMPTOM 2434 2465	Índice cardiotorácico aumentado
+T24	SYMPTOM 2495 2524	Hilios pulmonares prominentes
+T26	SYMPTOM 3030 3097	ventrículo izquierdo moderadamente dilatado, con espesores normales
+T27	SYMPTOM 3099 3117	Hipocinesia global
+T28	SYMPTOM 3190 3259	presiones telediastólicas del ventrículo izquierdo estimadas normales
+T30	SYMPTOM 3454 3494	Ventrículo derecho de diámetros normales
+T31	SYMPTOM 4112 4156	ventrículo izquierdo de volúmenes aumentados
+T32	SYMPTOM 4189 4216	hipertrofia excéntrica leve
+T33	SYMPTOM 4233 4264	hipocinesia global generalizada
+T34	SYMPTOM 4267 4313	depresión grave de la función global sistólica
+T35	SYMPTOM 4445 4491	función global sistólica ligeramente deprimida
+T37	SYMPTOM 6207 6223	disnea en reposo
+T39	SYMPTOM 7712 7727	pérdida de peso
+T40	SYMPTOM 7850 7863	palpitaciones
+T41	SYMPTOM 8821 8827	disnea
+T163	SYMPTOM 8803 8815	asintomático
+T162	SYMPTOM 623 631	p3T3N1M0
+T11	SYMPTOM 1760 1790	Reflujo hepatoyugular positivo
+T14	SYMPTOM 2276 2291	onda T negativa
+T17	SYMPTOM 2467 2493	Senos costofrénicos libres
+T18	SYMPTOM 3428 3452	Raíz aórtica no dilatada
+T25	SYMPTOM 4381 4411	Ventrículo derecho no dilatado
+T29	SYMPTOM 4496 4520	hipocinesia generalizada
+T36	SYMPTOM 4533 4593	Raíz aórtica de diámetros en el límite alto de la normalidad
+T175	SYMPTOM 2526 2579	Signos de redistribución vascular a campos superiores
+T165	SYMPTOM 3133 3185	Llenado transmitral tipo alteración de la relajación
+T166	SYMPTOM 4911 4932	defectos de perfusión
+T169	SYMPTOM 2349 2369	sobrecarga sistólica
+T170	SYMPTOM 3381 3426	Válvula aórtica esclerosada, normofuncionante
+T172	SYMPTOM 4622 4663	dilatación moderada de la porción tubular
+T173	SYMPTOM 4792 4837	Resistencias vasculares pulmonares aumentadas

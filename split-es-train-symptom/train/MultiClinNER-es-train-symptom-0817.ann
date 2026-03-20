@@ -1,0 +1,32 @@
+T1	SYMPTOM 326 352	dolor precordial en reposo
+T4	SYMPTOM 595 620	Ruidos cardiacos rítmicos
+T5	SYMPTOM 626 632	soplos
+T6	SYMPTOM 634 663	Regular mecánica ventilatoria
+T7	SYMPTOM 678 687	taquipnea
+T9	SYMPTOM 726 754	hipoventilación generalizada
+T10	SYMPTOM 757 790	regular entrada de aire bilateral
+T11	SYMPTOM 796 820	intolerancia al decúbito
+T12	SYMPTOM 822 848	Buena perfusión periférica
+T13	SYMPTOM 853 880	pulsos simétricos positivos
+T14	SYMPTOM 882 911	Edemas maleolares bilaterales
+T15	SYMPTOM 1017 1077	Descenso del ST menor de 1 mm en DII, DIII, aVF y de V3 a V6
+T16	SYMPTOM 1110 1126	elevación del ST
+T17	SYMPTOM 1250 1280	función renal e iones normales
+T18	SYMPTOM 1605 1642	ventrículo izquierdo (VI) no dilatado
+T21	SYMPTOM 2471 2487	dolor precordial
+T23	SYMPTOM 3762 3787	elevación del segmento ST
+T77	SYMPTOM 543 564	Ingurgitación yugular
+T85	SYMPTOM 2105 2124	taquicardia sinusal
+T95	SYMPTOM 1972 2012	imagen sacular en la cara lateral del VI
+T103	SYMPTOM 2186 2204	troponina positiva
+T8	SYMPTOM 1432 1470	Arteria coronaria derecha sin lesiones
+T20	SYMPTOM 2563 2586	biomarcadores negativos
+T3	SYMPTOM 690 724	utilización de músculos accesorios
+T22	SYMPTOM 1079 1105	Onda Q inicial en DI y aVL
+T75	SYMPTOM 1402 1430	cardiaco: dominancia derecha
+T76	SYMPTOM 1810 1845	radiopacidad paracardiaca izquierda
+T78	SYMPTOM 2227 2291	coronariografía de urgencia donde se observa arterias permeables
+T79	SYMPTOM 2296 2368	lesiones no significativas en arteria descendente anterior y circunfleja
+T80	SYMPTOM 2838 2874	radiopacidad para cardiaca izquierda
+T81	SYMPTOM 2951 3037	voluminosa formación sacular de 59 x 68 x 75 mm dependiente de la pared lateral del VI
+T82	SYMPTOM 3663 3688	buena función ventricular

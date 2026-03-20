@@ -1,0 +1,32 @@
+T81	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T66	PROCEDURE 216 234	radical mastectomy
+T67	PROCEDURE 236 248	chemotherapy
+T68	PROCEDURE 253 265	radiotherapy
+T1	PROCEDURE 406 446	treated with direct-acting anticoagulant
+T69	PROCEDURE 523 541	thoracic radiation
+T87	PROCEDURE 543 618	percutaneous replacement with Corevalve Evolut 26 transfemoral TAVI implant
+T70	PROCEDURE 1114 1134	antibiotic treatment
+T3	PROCEDURE 1624 1635	examination
+T86	PROCEDURE 1739 1752	nasal goggles
+T72	PROCEDURE 1826 1838	auscultation
+T73	PROCEDURE 2333 2350	Electrocardiogram
+T74	PROCEDURE 2472 2483	Chest X-ray
+T88	PROCEDURE 2499 2503	TAVI
+T79	PROCEDURE 2696 2708	Biochemistry
+T82	PROCEDURE 2820 2836	Thyroid hormones
+T83	PROCEDURE 2845 2865	Liver function tests
+T5	PROCEDURE 2989 3001	Iron profile
+T84	PROCEDURE 3094 3112	Infectious markers
+T6	PROCEDURE 3143 3152	Haemogram
+T80	PROCEDURE 3227 3238	Coagulation
+T75	PROCEDURE 3258 3272	Blood cultures
+T85	PROCEDURE 3389 3394	Urine
+T7	PROCEDURE 3548 3556	Serology
+T77	PROCEDURE 3612 3630	Autoimmunity study
+T8	PROCEDURE 3703 3731	Transthoracic echocardiogram
+T11	PROCEDURE 4122 4152	Transesophageal echocardiogram
+T71	PROCEDURE 4449 4493	antibiotic treatment was started empirically
+T12	PROCEDURE 4697 4725	transthoracic echocardiogram
+T13	PROCEDURE 4764 4794	transesophageal echocardiogram
+T76	PROCEDURE 4893 4907	blood cultures
+T78	PROCEDURE 5440 5457	valve replacement

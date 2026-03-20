@@ -1,0 +1,44 @@
+T89	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T90	PROCEDURE 476 502	tratamiento inmunosupresor
+T91	PROCEDURE 507 524	corticoesteroides
+T92	PROCEDURE 735 755	estudio hemodinámico
+T93	PROCEDURE 816 845	resonancia magnética cardiaca
+T94	PROCEDURE 1327 1375	implante de desfibrilador automático implantable
+T95	PROCEDURE 2112 2131	trasplante cardiaco
+T96	PROCEDURE 2275 2298	tratamiento corticoideo
+T97	PROCEDURE 2350 2378	prótesis de cadera bilateral
+T98	PROCEDURE 2752 2772	bolos de corticoides
+T99	PROCEDURE 2856 2863	biopsia
+T100	PROCEDURE 3037 3044	biopsia
+T101	PROCEDURE 3512 3530	exploración física
+T102	PROCEDURE 3643 3664	auscultación cardiaca
+T103	PROCEDURE 3855 3873	Electrocardiograma
+T104	PROCEDURE 3875 3878	ECG
+T105	PROCEDURE 3998 4001	ECG
+T106	PROCEDURE 4108 4111	ECG
+T107	PROCEDURE 4183 4192	hemograma
+T108	PROCEDURE 4310 4321	Coagulación
+T109	PROCEDURE 4716 4731	Coronariografía
+T110	PROCEDURE 4890 4923	intervención coronaria percutánea
+T111	PROCEDURE 4925 4928	ICP
+T112	PROCEDURE 4941 5005	recanalizar con múltiples dilataciones con balón de angioplastia
+T113	PROCEDURE 5258 5261	ECG
+T114	PROCEDURE 5509 5512	ECG
+T115	PROCEDURE 5640 5660	estudio hemodinámico
+T116	PROCEDURE 5678 5689	cateterismo
+T117	PROCEDURE 5838 5841	ICP
+T118	PROCEDURE 5853 5917	recanalizar con múltiples dilataciones con balón de angioplastia
+T119	PROCEDURE 6156 6168	RCP avanzada
+T120	PROCEDURE 6579 6607	tratamiento corticoesteroide
+T121	PROCEDURE 6792 6818	tratamiento inmunosupresor
+T122	PROCEDURE 4387 4397	Bioquímica
+T123	PROCEDURE 206 247	Hipotiroidismo en tratamiento sustitutivo
+T124	PROCEDURE 4603 4645	Seriación de marcadores de daño miocárdico
+T125	PROCEDURE 6863 6882	Trasplante cardiaco
+T126	PROCEDURE 1517 1534	ciclo antibiótico
+T127	PROCEDURE 2997 3024	sobreestimulación auricular
+T128	PROCEDURE 3739 3748	palpación
+T152	PROCEDURE 4172 4181	Analítica
+T130	PROCEDURE 1377 1380	DAI
+T131	PROCEDURE 1478 1496	DAI, explantándose
+T140	PROCEDURE 6130 6144	choques a 200J

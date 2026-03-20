@@ -1,0 +1,52 @@
+T1	SYMPTOM 140 146	edemas
+T2	SYMPTOM 1079 1087	ortopnea
+T3	SYMPTOM 1092 1098	edemas
+T4	SYMPTOM 1776 1782	afasia
+T6	SYMPTOM 1881 1887	afasia
+T8	SYMPTOM 1986 1995	dismetría
+T9	SYMPTOM 1998 2024	pérdida de fuerza en brazo
+T11	SYMPTOM 2483 2489	fiebre
+T12	SYMPTOM 2492 2500	tiritona
+T13	SYMPTOM 2768 2775	Afebril
+T14	SYMPTOM 2879 2900	ingurgitación yugular
+T15	SYMPTOM 2902 2932	Auscultación cardiaca: rítmica
+T16	SYMPTOM 2934 2960	Ruidos protésicos normales
+T17	SYMPTOM 2985 3014	murmullo vesicular conservado
+T18	SYMPTOM 3019 3030	crepitantes
+T20	SYMPTOM 3059 3089	Miembros inferiores: no edemas
+T21	SYMPTOM 3388 3402	fórmula normal
+T22	SYMPTOM 3473 3486	ritmo sinusal
+T24	SYMPTOM 3578 3595	T aplanada en III
+T28	SYMPTOM 4328 4392	Serología y PCR de aspirado nasofaríngeo para COVID 19 negativas
+T29	SYMPTOM 4790 4795	edema
+T31	SYMPTOM 5773 5830	Perfil renal, hepático y lipídico dentro de la normalidad
+T33	SYMPTOM 5949 5977	movimiento anómalo del septo
+T37	SYMPTOM 7052 7056	masa
+T38	SYMPTOM 7160 7166	fiebre
+T43	SYMPTOM 10943 11001	ventrículo izquierdo de características y función normales
+T44	SYMPTOM 11242 11248	fiebre
+T45	SYMPTOM 11642 11650	sangrado
+T46	SYMPTOM 12168 12179	inflamación
+T47	SYMPTOM 12184 12196	leucocitosis
+T48	SYMPTOM 13082 13117	alteración del nivel de consciencia
+T49	SYMPTOM 13307 13339	Función biventricular conservada
+T27	SYMPTOM 6123 6195	Presión sistólica de la arteria pulmonar (PSAP) en rango alto normalidad
+T30	SYMPTOM 6217 6247	Vena cava inferior no dilatada
+T34	SYMPTOM 6520 6544	Raíz aortica no dilatada
+T214	SYMPTOM 7831 7894	se aísla solo en uno de ellos Staphylococcus coagulasa negativo
+T117	SYMPTOM 9034 9120	Hemocultivos x3 27/01: se aísla solo en uno de ellos Staphylococcus coagulasa negativo
+T127	SYMPTOM 11014 11068	Prótesis biológica en posición mitral normofuncionante
+T235	SYMPTOM 6867 6895	Septo interauricular íntegro
+T240	SYMPTOM 11522 11534	asintomática
+T245	SYMPTOM 6071 6102	cavidades derechas no dilatadas
+T259	SYMPTOM 12198 12219	procalcitonina normal
+T261	SYMPTOM 12701 12725	repercusión hemodinámica
+T226	SYMPTOM 1905 1942	movimientos en pierna primero y brazo
+T227	SYMPTOM 2168 2211	aumento de gradiente medio protésico mitral
+T231	SYMPTOM 3404 3441	Urinanálisis urgencias: sin hallazgos
+T232	SYMPTOM 4149 4199	Imágenes de densidad calcio en hipocondrio derecho
+T233	SYMPTOM 5352 5401	polígono de Willis se visualiza de calibre normal
+T236	SYMPTOM 5098 5263	depósito de hemosiderina cortical occipital medial derecho, en la zona superior del hemisferio cerebeloso izquierdo y zona inferior del hemisferio cerebeloso derecho
+T67	SYMPTOM 10861 10919	Microbiología de la prótesis: sin crecimiento de patógenos
+T134	SYMPTOM 12255 12333	crecimiento en uno de los hemocultivos de un Staphylococcus coagulasa negativo
+T169	SYMPTOM 12849 12892	crecimiento biológico en material protésico

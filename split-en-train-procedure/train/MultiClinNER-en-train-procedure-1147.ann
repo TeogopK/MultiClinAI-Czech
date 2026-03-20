@@ -1,0 +1,30 @@
+T37	PROCEDURE 186 205	peritoneal dialysis
+T2	PROCEDURE 345 376	embolisation of the renal graft
+T38	PROCEDURE 391 410	peritoneal dialysis
+T40	PROCEDURE 511 530	total thyroidectomy
+T4	PROCEDURE 706 739	treatment with radioactive iodine
+T41	PROCEDURE 832 852	Physical examination
+T42	PROCEDURE 1056 1076	Cardiac auscultation
+T54	PROCEDURE 1537 1549	Electrolytes
+T58	PROCEDURE 1554 1569	cardiac enzymes
+T43	PROCEDURE 1594 1597	ECG
+T44	PROCEDURE 1651 1662	Chest X-ray
+T5	PROCEDURE 1809 1828	TT echocardiography
+T62	PROCEDURE 2018 2114	evacuating pericardiocentesis was performed after superficial sedation with echo-guided propofol
+T52	PROCEDURE 2068 2088	superficial sedation
+T59	PROCEDURE 2238 2246	puncture
+T6	PROCEDURE 2336 2404	echocardiographic test with agitated serum through a catheter needle
+T56	PROCEDURE 2498 2506	drainage
+T7	PROCEDURE 2627 2653	O2 supply with a reservoir
+T45	PROCEDURE 2655 2666	Chest X-ray
+T60	PROCEDURE 2673 2681	puncture
+T48	PROCEDURE 2826 2831	X-ray
+T49	PROCEDURE 2843 2851	chest CT
+T50	PROCEDURE 3387 3422	non-invasive mechanical ventilation
+T61	PROCEDURE 3427 3436	diuretics
+T51	PROCEDURE 3687 3707	pericardial drainage
+T8	PROCEDURE 3856 3890	cultures for aerobes and anaerobes
+T9	PROCEDURE 3932 3958	pathological anatomy study
+T39	PROCEDURE 4083 4102	peritoneal dialysis
+T63	PROCEDURE 4164 4182	pericardiocentesis
+T53	PROCEDURE 4226 4234	sedation

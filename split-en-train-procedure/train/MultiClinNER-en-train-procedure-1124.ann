@@ -1,0 +1,20 @@
+T46	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T48	PROCEDURE 835 859	electrical cardioversion
+T47	PROCEDURE 936 956	Physical examination
+T50	PROCEDURE 1105 1127	Pulmonary auscultation
+T51	PROCEDURE 1177 1197	Cardiac auscultation
+T63	PROCEDURE 1448 1460	Biochemistry
+T52	PROCEDURE 2104 2115	Coagulation
+T53	PROCEDURE 2204 2221	Electrocardiogram
+T54	PROCEDURE 2223 2226	ECG
+T55	PROCEDURE 2335 2338	ECG
+T56	PROCEDURE 2439 2450	Chest X-ray
+T57	PROCEDURE 2520 2548	Transthoracic echocardiogram
+T59	PROCEDURE 2848 2895	3D angio-CT reconstruction of coronary arteries
+T60	PROCEDURE 3157 3170	Gradient echo
+T61	PROCEDURE 3522 3532	Immunology
+T64	PROCEDURE 3534 3556	antinuclear antibodies
+T49	PROCEDURE 3855 3879	Electrical cardioversion
+T58	PROCEDURE 3899 3927	transthoracic echocardiogram
+T62	PROCEDURE 4742 4754	genetic test
+T65	PROCEDURE 5057 5073	ICD implantation

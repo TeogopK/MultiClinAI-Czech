@@ -1,0 +1,39 @@
+T1	SYMPTOM 707 736	disnea de moderados esfuerzos
+T2	SYMPTOM 834 842	ortopnea
+T3	SYMPTOM 845 857	tos nocturna
+T4	SYMPTOM 893 924	aumento del perímetro abdominal
+T5	SYMPTOM 926 943	edema en miembros
+T6	SYMPTOM 946 972	disminución de la diuresis
+T8	SYMPTOM 995 1008	palpitaciones
+T9	SYMPTOM 1012 1030	clínica infecciosa
+T10	SYMPTOM 1082 1132	parestesias nocturnas en ambos miembros superiores
+T11	SYMPTOM 1259 1266	Afebril
+T12	SYMPTOM 1357 1382	ruidos cardiacos rítmicos
+T13	SYMPTOM 1384 1448	Soplo diastólico en foco aórtico II/IV que irradia a foco mitral
+T14	SYMPTOM 1473 1495	hipoventilación global
+T15	SYMPTOM 1500 1524	sibilancias en hemitórax
+T16	SYMPTOM 1537 1577	abolición del murmullo vesicular en base
+T17	SYMPTOM 1596 1627	cicatriz en hipocondrio derecho
+T19	SYMPTOM 1685 1740	Extremidades inferiores: pulsos periféricos conservados
+T20	SYMPTOM 1742 1781	Edema con fóvea bilateral hasta rodilla
+T21	SYMPTOM 1834 1847	ritmo sinusal
+T22	SYMPTOM 1869 1881	QRS estrecho
+T23	SYMPTOM 2644 2671	hormonas tiroideas normales
+T24	SYMPTOM 2807 2844	Estudio de proteínas en orina: normal
+T27	SYMPTOM 3359 3415	Resonancia magnética cardiaca (RMC): VI de tamaño normal
+T28	SYMPTOM 3428 3452	engrosamiento miocárdico
+T29	SYMPTOM 3718 3737	VD de tamaño normal
+T30	SYMPTOM 4133 4161	Aurícula derecha (AD) normal
+T33	SYMPTOM 5922 5941	clínica neurológica
+T34	SYMPTOM 6298 6304	disnea
+T35	SYMPTOM 6386 6400	FEVI es normal
+T36	SYMPTOM 6838 6866	FEVI moderadamente deprimida
+T114	SYMPTOM 637 649	Asintomático
+T7	SYMPTOM 1908 1940	Presencia de QS en cara inferior
+T18	SYMPTOM 1964 1998	Índice cardiotorácico (ICT) límite
+T25	SYMPTOM 2981 3031	anomalías segmentarias de la contractilidad apical
+T113	SYMPTOM 3119 3169	Ventrículo derecho (VD) de tamaño y función normal
+T116	SYMPTOM 1290 1326	Aumento de la presión venosa central
+T128	SYMPTOM 2000 2023	Redistribución vascular
+T129	SYMPTOM 5632 5678	alteraciones segmentarias de la contractilidad
+T26	SYMPTOM 349 388	mutación: doble heterocigoto, C282YH63D

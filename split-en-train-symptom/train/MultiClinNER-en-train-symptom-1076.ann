@@ -1,0 +1,18 @@
+T1	SYMPTOM 754 759	cough
+T2	SYMPTOM 761 782	whitish expectoration
+T3	SYMPTOM 799 807	dyspnoea
+T4	SYMPTOM 3302 3310	dyspnoea
+T5	SYMPTOM 1024 1031	Eupneic
+T6	SYMPTOM 1095 1118	arrhythmic heart sounds
+T7	SYMPTOM 1127 1134	murmurs
+T8	SYMPTOM 1149 1164	hypoventilation
+T9	SYMPTOM 1512 1535	vascular redistribution
+T10	SYMPTOM 1597 1607	narrow QRS
+T11	SYMPTOM 1671 1682	LV overload
+T12	SYMPTOM 1805 1828	generalised hypokinesia
+T13	SYMPTOM 2598 2621	haemodynamically stable
+T14	SYMPTOM 3243 3264	two-pillow orthopnoea
+T15	SYMPTOM 3281 3310	paroxysmal nocturnal dyspnoea
+T16	SYMPTOM 3729 3741	sinus rhythm
+T17	SYMPTOM 1817 1828	hypokinesia
+T18	SYMPTOM 2299 2310	hypokinesia

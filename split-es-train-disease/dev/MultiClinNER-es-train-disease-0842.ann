@@ -1,0 +1,57 @@
+T19	DISEASE 2408 2450	dilatación severa del ventrículo izquierdo
+T26	DISEASE 3267 3308	Ventrículo izquierdo severamente dilatado
+T29	DISEASE 3462 3544	Válvula mitral con ligero engrosamiento de velos y ligera calcificación del anillo
+T30	DISEASE 3729 3768	Aurícula izquierda severamente dilatada
+T33	DISEASE 4701 4743	dilatación severa del ventrículo izquierdo
+T111	DISEASE 8947 8995	oclusión de bypass de safena a coronaria derecha
+T128	DISEASE 8778 8799	Cardiopatía isquémica
+T129	DISEASE 4373 4411	Circunfleja con lesión severa proximal
+T130	DISEASE 4131 4229	Descendente anterior con ateromatosis difusa moderada proximal y oclusión crónica de porción media
+T131	DISEASE 9113 9157	Diabetes mellitus tipo 2 insulinodependiente
+T132	DISEASE 9182 9194	Dislipidemia
+T134	DISEASE 8901 8942	Enfermedad coronaria severa de tres vasos
+T135	DISEASE 9159 9180	Hipertensión arterial
+T136	DISEASE 431 447	IAM anteroseptal
+T137	DISEASE 501 520	IAM posteroinferior
+T138	DISEASE 8738 8760	Insuficiencia cardiaca
+T139	DISEASE 8862 8899	Insuficiencia mitral funcional severa
+T140	DISEASE 3546 3573	Insuficiencia mitral severa
+T141	DISEASE 3919 3953	Insuficiencia tricuspídea moderada
+T142	DISEASE 9214 9253	Isquemia crónica de miembros inferiores
+T143	DISEASE 9196 9212	Obesidad grado 2
+T146	DISEASE 2250 2256	anemia
+T147	DISEASE 2086 2093	ascitis
+T149	DISEASE 2567 2615	cardiomegalia a expensas de cavidades izquierdas
+T150	DISEASE 368 406	cardiopatía isquémica en fase dilatada
+T152	DISEASE 3990 3997	derrame
+T153	DISEASE 7215 7223	diabetes
+T154	DISEASE 85 129	diabetes mellitus tipo 2 insulinodependiente
+T155	DISEASE 143 154	dislipémico
+T156	DISEASE 184 214	enfermedad arterial periférica
+T157	DISEASE 7251 7281	enfermedad arterial periférica
+T158	DISEASE 216 250	estenosis femoropoplítea bilateral
+T159	DISEASE 70 79	exfumador
+T161	DISEASE 131 141	hipertenso
+T162	DISEASE 6732 6754	infección respiratoria
+T163	DISEASE 5317 5339	insuficiencia cardiaca
+T164	DISEASE 6667 6711	descompensación de su insuficiencia cardiaca
+T165	DISEASE 2481 2518	insuficiencia mitral funcional severa
+T166	DISEASE 8553 8573	insuficiencia mitral
+T167	DISEASE 8191 8218	insuficiencia mitral severa
+T168	DISEASE 7240 7248	obesidad
+T169	DISEASE 8438 8446	obesidad
+T170	DISEASE 173 178	obeso
+T171	DISEASE 2768 2811	trastorno de la conducción intraventricular
+T172	DISEASE 2847 2890	trastornos secundarios de la repolarización
+T117	DISEASE 156 170	hiperuricémico
+T119	DISEASE 560 606	oclusión crónica de descendente anterior media
+T120	DISEASE 643 688	lesión del 40 % en coronaria derecha proximal
+T121	DISEASE 691 728	lesión del 80 % en 1a obtusa marginal
+T22	DISEASE 4548 4586	Coronaria derecha con oclusión crónica
+T28	DISEASE 3770 3812	Cavidades derechas moderadamente dilatadas
+T144	DISEASE 4292 4318	ateromatosis severa difusa
+T160	DISEASE 5505 5570	oclusión muy proximal del bypass de safena a la coronaria derecha
+T175	DISEASE 6224 6292	venografía apreciándose oclusión a varios niveles del seno coronario
+T178	DISEASE 8231 8275	oclusión del bypass safena-coronaria derecha
+#136	AnnotatorNotes T136	Infarto Agudo de Miocardio
+#137	AnnotatorNotes T137	Infarto Agudo de Miocardio

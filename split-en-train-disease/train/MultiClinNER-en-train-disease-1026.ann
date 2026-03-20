@@ -1,0 +1,50 @@
+T34	DISEASE 90 104	drug allergies
+T35	DISEASE 135 159	type 2 diabetes mellitus
+T36	DISEASE 161 174	dyslipidaemia
+T37	DISEASE 176 213	myelodysplastic syndrome subtype CRDM
+T38	DISEASE 215 263	refractory cytopenias with multilinear dysplasia
+T39	DISEASE 293 316	Ischaemic heart disease
+T41	DISEASE 576 611	multivessel coronary artery disease
+T42	DISEASE 675 697	severe aortic stenosis
+T77	DISEASE 703 705	it
+T76	DISEASE 1370 1388	septal hypertrophy
+T43	DISEASE 1668 1705	moderate periprosthetic insufficiency
+T44	DISEASE 1712 1735	tricuspid insufficiency
+T45	DISEASE 1809 1829	pericardial effusion
+T48	DISEASE 2656 2674	infectious process
+T82	DISEASE 3236 3248	hepatomegaly
+T80	DISEASE 3716 3735	global cardiomegaly
+T49	DISEASE 3872 3888	pleural effusion
+T81	DISEASE 4306 4328	biauricular dilatation
+T50	DISEASE 4530 4550	mitral insufficiency
+T78	DISEASE 5047 5049	it
+T46	DISEASE 5467 5487	pericardial effusion
+T51	DISEASE 5702 5728	aortic periprosthetic leak
+T54	DISEASE 5730 5740	Severe PHT
+T52	DISEASE 6292 6318	aortic periprosthetic leak
+T79	DISEASE 6610 6612	it
+T56	DISEASE 6753 6762	abscesses
+T53	DISEASE 6882 6908	aortic periprosthetic leak
+T57	DISEASE 6910 6922	Moderate LVH
+T55	DISEASE 6996 7006	Severe PHT
+T58	DISEASE 7140 7160	periprosthetic leaks
+T47	DISEASE 7541 7561	pericardial effusion
+T59	DISEASE 7615 7637	Moderate eccentric LVH
+T60	DISEASE 7689 7701	Moderate PHT
+T83	DISEASE 8078 8090	hepatomegaly
+T61	DISEASE 8105 8126	chronic liver disease
+T62	DISEASE 8131 8143	splenomegaly
+T63	DISEASE 8171 8198	severe aortic insufficiency
+T64	DISEASE 8588 8612	aortic paravalvular leak
+T65	DISEASE 9029 9049	aortic regurgitation
+T66	DISEASE 9238 9251	heart failure
+T69	DISEASE 9317 9344	decompensated heart failure
+T67	DISEASE 9331 9344	heart failure
+T70	DISEASE 9363 9384	respiratory infection
+T71	DISEASE 9409 9433	congestive heart failure
+T68	DISEASE 9420 9433	heart failure
+T72	DISEASE 9546 9577	Chronic ischaemic heart disease
+T40	DISEASE 9554 9577	ischaemic heart disease
+T73	DISEASE 9579 9602	Myelodyspastic syndrome
+T74	DISEASE 9604 9611	anaemia
+T75	DISEASE 9614 9626	thrombopenia

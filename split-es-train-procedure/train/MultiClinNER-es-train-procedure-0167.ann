@@ -1,0 +1,15 @@
+T1	PROCEDURE 503 525	gastropexia quirúrgica
+T2	PROCEDURE 685 703	exploración física
+T3	PROCEDURE 815 827	tacto rectal
+T4	PROCEDURE 879 888	hemograma
+T5	PROCEDURE 894 904	bioquímica
+T6	PROCEDURE 925 954	radiografía simple de abdomen
+T7	PROCEDURE 1053 1077	tomografía computerizada
+T8	PROCEDURE 1079 1081	TC
+T9	PROCEDURE 1087 1101	enema de bario
+T10	PROCEDURE 1277 1301	colonoscopia terapéutica
+T11	PROCEDURE 1327 1359	desvolvular el segmento colónico
+T12	PROCEDURE 1680 1692	colonoscopia
+T13	PROCEDURE 1813 1856	resección del segmento redundante del colon
+T14	PROCEDURE 1764 1787	intervención quirúrgica
+T15	PROCEDURE 538 553	acto operatorio

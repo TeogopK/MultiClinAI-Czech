@@ -1,0 +1,65 @@
+T1	SYMPTOM 63 69	fiebre
+T2	SYMPTOM 780 895	dolor torácico retroesternal de fuerte intensidad, características opresivas irradiado a miembro superior izquierdo
+T3	SYMPTOM 918 936	cortejo vegetativo
+T4	SYMPTOM 1011 1024	ritmo sinusal
+T5	SYMPTOM 1079 1112	descenso de ST en DII, DIII y AVF
+T6	SYMPTOM 1544 1569	hemodinámicamente estable
+T8	SYMPTOM 1754 1766	asintomático
+T9	SYMPTOM 1771 1800	adecuado nivel de consciencia
+T10	SYMPTOM 1802 1811	orientado
+T12	SYMPTOM 1854 1861	Afebril
+T13	SYMPTOM 1863 1871	eupneico
+T14	SYMPTOM 1927 1952	ruidos cardiacos rítmicos
+T15	SYMPTOM 1957 1963	soplos
+T16	SYMPTOM 1967 1983	roce pericárdico
+T17	SYMPTOM 1985 2022	murmullo vesicular presente bilateral
+T18	SYMPTOM 2035 2066	crepitantes en bases pulmonares
+T19	SYMPTOM 2068 2097	abdomen blando, no distendido
+T20	SYMPTOM 2099 2127	ruidos hidroaéreos presentes
+T21	SYMPTOM 2132 2150	edemas periféricos
+T22	SYMPTOM 2155 2174	déficit neurológico
+T23	SYMPTOM 2223 2298	dolor torácico que aumenta con la inspiración profunda y cambios de postura
+T25	SYMPTOM 2348 2361	palpitaciones
+T26	SYMPTOM 2494 2508	picos febriles
+T27	SYMPTOM 2620 2686	hemocultivos seriados y urocultivo que son repetidamente negativos
+T28	SYMPTOM 3079 3091	leucocitosis
+T29	SYMPTOM 3093 3104	neutrofilia
+T30	SYMPTOM 3106 3123	VSG y PCR elevada
+T31	SYMPTOM 3159 3172	Ritmo sinusal
+T32	SYMPTOM 3263 3276	onda T picuda
+T35	SYMPTOM 3869 3891	condensación neumónica
+T39	SYMPTOM 4342 4363	Válvula mitral normal
+T40	SYMPTOM 4365 4387	Válvula aórtica normal
+T43	SYMPTOM 5540 5546	fiebre
+T44	SYMPTOM 5998 6004	fiebre
+T46	SYMPTOM 6331 6337	fiebre
+T47	SYMPTOM 6718 6724	fiebre
+T49	SYMPTOM 6987 6999	asintomático
+T50	SYMPTOM 7223 7249	FEVI severamente deprimida
+T65	SYMPTOM 4109 4161	colapso parcial del VD en telediástole en espiración
+T80	SYMPTOM 2910 2947	colapso parcial de VD en telediástole
+T129	SYMPTOM 1029 1076	supradesnivel del segmento ST en DI, AVL, V2-V3
+T7	SYMPTOM 2761 2809	aquinesia en segmentos anteroseptales y apicales
+T130	SYMPTOM 3199 3219	Supradesnivel del ST
+T24	SYMPTOM 4533 4558	Ventrículo derecho normal
+T131	SYMPTOM 5113 5193	ACD dominante: vaso de buen calibre y desarrollo, con irregularidades parietales
+T144	SYMPTOM 4560 4596	Válvula tricúspide sin insuficiencia
+T145	SYMPTOM 3734 3760	aislamiento microbiológico
+T146	SYMPTOM 3780 3806	aislamiento microbiológico
+T147	SYMPTOM 6103 6161	ausencia de aislamiento microbiológico en los hemocultivos
+T150	SYMPTOM 4473 4498	aquinesia apical y septal
+T151	SYMPTOM 2532 2593	clínica infecciosa a nivel respiratorio, urinario y abdominal
+T152	SYMPTOM 1814 1825	colaborador
+T157	SYMPTOM 4501 4513	hipoquinesia
+T160	SYMPTOM 4622 4652	TCI sin lesiones angiográficas
+T161	SYMPTOM 5199 5236	lesiones angiográficas significativas
+T171	SYMPTOM 3847 3864	patrón congestivo
+T38	SYMPTOM 2742 2756	VI no dilatado
+T41	SYMPTOM 2952 3026	variaciones respiratorias de la velocidad doppler tricúspide y transmitral
+T37	SYMPTOM 4326 4340	AI no dilatada
+T42	SYMPTOM 4168 4257	reducción >25% de la onda E mitral en inspiración y >50% de la E tricúspide en espiración
+T45	SYMPTOM 4389 4403	VI no dilatado
+T48	SYMPTOM 4435 4471	Normoquinesia de pared inferolateral
+T133	SYMPTOM 4901 4955	Lesión bifurcada con lechos distales de escaso calibre
+T135	SYMPTOM 5007 5111	Lechos distales de buen calibre y desarrollo, no enfermos, visualizados a través de la coronaria derecha
+T136	SYMPTOM 5415 5431	Buen vaso distal

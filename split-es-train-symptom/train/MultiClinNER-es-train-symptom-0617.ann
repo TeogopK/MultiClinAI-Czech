@@ -1,0 +1,18 @@
+T1	SYMPTOM 787 796	taquipnea
+T2	SYMPTOM 824 835	taquicardia
+T3	SYMPTOM 462 468	fiebre
+T4	SYMPTOM 858 905	tumefacción y crepitación en la región cervical
+T5	SYMPTOM 486 492	disnea
+T6	SYMPTOM 625 716	dolor centrotorácico intermitente, que aumentaba con la tos y los movimientos respiratorios
+T7	SYMPTOM 1384 1397	ritmo sinusal
+T8	SYMPTOM 720 736	disnea de reposo
+T9	SYMPTOM 917 961	crepitantes finos en ambos campos pulmonares
+T10	SYMPTOM 447 460	expectoración
+T11	SYMPTOM 964 1002	crepitación a la auscultación cardíaca
+T12	SYMPTOM 1004 1019	signo de Hamman
+T13	SYMPTOM 1036 1052	pulso paradójico
+T14	SYMPTOM 417 420	tos
+T15	SYMPTOM 580 613	tumefacción en la región cervical
+T16	SYMPTOM 1888 1938	bullas aéreas de gran tamaño en el lóbulo superior
+A1	RESULTADO T7
+A2	IMAGEN T16

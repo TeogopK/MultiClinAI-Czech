@@ -1,0 +1,23 @@
+T57	DISEASE 138 144	smoker
+T58	DISEASE 176 189	dyslipidaemia
+T60	DISEASE 223 240	diabetes mellitus
+T61	DISEASE 244 265	arterial hypertension
+T62	DISEASE 1231 1241	thrombosis
+T63	DISEASE 1930 1950	mitral insufficiency
+T64	DISEASE 2015 2035	pericardial effusion
+T3	DISEASE 2216 2231	Bisector branch
+T4	DISEASE 2257 2279	Circumflex artery (Cx)
+T76	DISEASE 2310 2386	Right coronary artery (RCA) with severe pseudostenosis due to coronary spasm
+T56	DISEASE 2559 2606	Coronary vasospasm of the right coronary artery
+T59	DISEASE 3030 3043	dyslipidaemia
+T65	DISEASE 3048 3055	smoking
+T66	DISEASE 3101 3118	exertional angina
+T67	DISEASE 3179 3202	coronary artery disease
+T7	DISEASE 3522 3575	slight lesions in the bisector branch and proximal Cx
+T78	DISEASE 4009 4018	vasospasm
+T70	DISEASE 4115 4121	angina
+T71	DISEASE 4296 4302	angina
+T74	DISEASE 4377 4395	vasospastic angina
+T81	DISEASE 4401 4448	severe vasospasm during cardiac catheterisation
+T75	DISEASE 4599 4617	Vasospastic angina
+T80	DISEASE 4619 4681	Right coronary artery spasm triggered by catheter manipulation

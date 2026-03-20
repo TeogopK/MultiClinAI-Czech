@@ -1,0 +1,24 @@
+T24	DISEASE 99 108	allergies
+T14	DISEASE 184 201	allergic reaction
+T15	DISEASE 241 247	smoker
+T1	DISEASE 275 287	hypertension
+T2	DISEASE 289 297	diabetes
+T3	DISEASE 301 314	dyslipidaemia
+T16	DISEASE 387 400	moderate COPD
+T25	DISEASE 466 495	moderate obstructive disorder
+T4	DISEASE 949 965	generalised rash
+T13	DISEASE 1524 1546	rash on face and trunk
+T8	DISEASE 2750 2752	HF
+T17	DISEASE 2757 2769	pneumothorax
+T9	DISEASE 2776 2813	Fracture in the 8th right costal arch
+T23	DISEASE 2837 2866	anterior descending: stenosis
+T10	DISEASE 3033 3039	angina
+T18	DISEASE 3092 3123	fracture of the 8th costal arch
+T19	DISEASE 3298 3361	type I hypersensitivity (immediate, IgE-mediated) to metamizole
+T12	DISEASE 3540 3595	Acute coronary syndrome (ACS) with ST-elevation (STEACS
+T41	DISEASE 3565 3568	ACS
+T42	DISEASE 3589 3595	STEACS
+T20	DISEASE 3615 3636	anaphylactic reaction
+T21	DISEASE 3655 3687	1-vessel coronary artery disease
+T22	DISEASE 3689 3712	Kounis syndrome type II
+T44	DISEASE 3796 3824	Fracture 8 right costal arch

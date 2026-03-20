@@ -1,0 +1,51 @@
+T1	SYMPTOM 293 305	palpitations
+T30	SYMPTOM 572 594	gadolinium enhancement
+T3	SYMPTOM 598 649	deterioration of left ventricular ejection fraction
+T4	SYMPTOM 1011 1019	asthenia
+T6	SYMPTOM 1021 1030	dizziness
+T7	SYMPTOM 1035 1046	hypotension
+T2	SYMPTOM 1147 1159	palpitations
+T8	SYMPTOM 1236 1246	chest pain
+T9	SYMPTOM 1297 1307	orthopnoea
+T33	SYMPTOM 1311 1344	oedematisation of the lower limbs
+T10	SYMPTOM 1715 1737	good general condition
+T11	SYMPTOM 1809 1817	Afebrile
+T34	SYMPTOM 1837 1863	jugular venous engorgement
+T35	SYMPTOM 1887 1904	arrhythmic sounds
+T12	SYMPTOM 1923 1930	murmurs
+T22	SYMPTOM 1956 1986	normoventilation in all fields
+T23	SYMPTOM 1987 2007	Abdomen: nondescript
+T27	SYMPTOM 2009 2037	Lower extremities: no oedema
+T13	SYMPTOM 2126 2138	sinus rhythm
+T15	SYMPTOM 2150 2159	normal PR
+T16	SYMPTOM 2161 2171	narrow QRS
+T36	SYMPTOM 2308 2324	V1-V2 transition
+T14	SYMPTOM 2384 2396	sinus rhythm
+T24	SYMPTOM 2425 2445	adequate heart rates
+T37	SYMPTOM 2827 2839	bradycardias
+T29	SYMPTOM 2981 2988	fatigue
+T31	SYMPTOM 3091 3115	good functional capacity
+T38	SYMPTOM 3136 3157	alterations in the ST
+T39	SYMPTOM 3159 3192	Adequate blood pressure behaviour
+T40	SYMPTOM 3584 3607	left atrium not dilated
+T17	SYMPTOM 3609 3628	Normal mitral valve
+T28	SYMPTOM 3661 3685	Normal filling pressures
+T41	SYMPTOM 3687 3713	Left ventricle not dilated
+T25	SYMPTOM 3818 3852	Trivalve aortic valve, normal flow
+T42	SYMPTOM 3854 3877	Aortic root not dilated
+T43	SYMPTOM 3879 3931	Non dilated right chambers with normal contractility
+T18	SYMPTOM 3944 3976	Tricuspid valve with normal flow
+T44	SYMPTOM 4052 4082	Blood analysis: no alterations
+T26	SYMPTOM 4094 4104	normal TSH
+T19	SYMPTOM 4437 4448	tachycardia
+T45	SYMPTOM 4684 4697	inferior axis
+T46	SYMPTOM 4699 4714	r wave in V1-V2
+T47	SYMPTOM 4719 4732	V2 transition
+T48	SYMPTOM 4769 4864	precocities (24 ms) are found with respect to QRS onset between the left and right aortic sinus
+T32	SYMPTOM 4871 4901	fragmented bipolar electrogram
+T49	SYMPTOM 4906 4917	unipolar qs
+T50	SYMPTOM 4992 5038	ventricular complexes that were 98% concordant
+T21	SYMPTOM 5642 5654	orthostatism
+T5	SYMPTOM 5666 5674	asthenia
+T20	SYMPTOM 5755 5785	increase in extrasystolic load
+T51	SYMPTOM 5928 5962	deterioration of systolic function

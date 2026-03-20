@@ -1,0 +1,33 @@
+T33	DISEASE 104 119	asma extrínseca
+T34	DISEASE 1204 1236	bloqueo completo de rama derecha
+T35	DISEASE 1382 1397	derrame pleural
+T36	DISEASE 2042 2075	Insuficiencia mitral levemoderada
+T37	DISEASE 2077 2101	Insuficiencia tricúspide
+T38	DISEASE 2122 2141	derrame pericárdico
+T39	DISEASE 2500 2511	miocarditis
+T40	DISEASE 2587 2633	bloqueo completo de rama derecha de has de His
+T41	DISEASE 2746 2775	disfunción sistólica moderada
+T42	DISEASE 2899 2919	Insuficiencia mitral
+T43	DISEASE 2931 2956	insuficiencia tricuspídea
+T44	DISEASE 2961 2980	derrame pericárdico
+T45	DISEASE 3034 3045	miocarditis
+T46	DISEASE 3268 3287	Derrame pericárdico
+T47	DISEASE 3728 3746	shock cardiogénico
+T48	DISEASE 3909 3932	miocarditis linfocítica
+T49	DISEASE 4081 4104	taquicardia ventricular
+T50	DISEASE 4574 4593	fracaso renal agudo
+T51	DISEASE 4840 4862	insuficiencia cardiaca
+T52	DISEASE 5062 5073	miocarditis
+T53	DISEASE 5155 5173	shock cardiogénico
+T54	DISEASE 5602 5632	Shock cardiogénico refractario
+T55	DISEASE 5718 5752	Miocarditis linfocítica fulminante
+T56	DISEASE 5754 5776	Insuficiencia cardiaca
+T57	DISEASE 5886 5911	Insuficiencia renal aguda
+T58	DISEASE 5913 5934	síndrome Cardiorrenal
+T59	DISEASE 2635 2641	BCRDHH
+T60	DISEASE 3339 3354	daño miocárdico
+T62	DISEASE 1855 1902	ventrículo izquierdo moderadamente hipertrófico
+T63	DISEASE 4958 5001	función ventricular con disfunción moderada
+T31	DISEASE 5567 5587	disfunción sistólica
+T108	DISEASE 5187 5251	miocarditis linfocítica (diagnóstico histopatológico) fulminante
+#1	AnnotatorNotes T59	 BCRDHH Bloqueo completo rama derecha Haz de Hiz

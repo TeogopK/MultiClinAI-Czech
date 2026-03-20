@@ -1,0 +1,23 @@
+T90	PROCEDURE 235 251	diuretic therapy
+T92	PROCEDURE 336 356	PHYSICAL EXAMINATION
+T94	PROCEDURE 486 500	anticoagulated
+T95	PROCEDURE 756 782	surgical revascularisation
+T93	PROCEDURE 2255 2275	Physical examination
+T96	PROCEDURE 2557 2577	Cardiac auscultation
+T97	PROCEDURE 2609 2631	Pulmonary auscultation
+T98	PROCEDURE 2763 2780	Electrocardiogram
+T99	PROCEDURE 2782 2785	ECG
+T100	PROCEDURE 2898 2909	Chest X-ray
+T112	PROCEDURE 3183 3195	Biochemistry
+T101	PROCEDURE 3592 3612	Ferrokinetic profile
+T102	PROCEDURE 3708 3740	Transesophageal echocardiography
+T104	PROCEDURE 4134 4154	abdominal ultrasound
+T103	PROCEDURE 4314 4346	Transesophageal echocardiography
+T105	PROCEDURE 4418 4448	transthoracic echocardiography
+T91	PROCEDURE 5006 5022	diuretic therapy
+T106	PROCEDURE 5188 5208	anti-humoral therapy
+T107	PROCEDURE 5689 5699	cardiac CT
+T108	PROCEDURE 5905 5925	oral anticoagulation
+T109	PROCEDURE 6296 6307	gastroscopy
+T110	PROCEDURE 6312 6323	colonoscopy
+T111	PROCEDURE 6378 6395	capsule endoscopy

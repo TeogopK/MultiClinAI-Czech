@@ -1,0 +1,52 @@
+T1	SYMPTOM 71 86	síndrome febril
+T2	SYMPTOM 195 222	serología positiva para VEB
+T3	SYMPTOM 351 357	fiebre
+T4	SYMPTOM 362 373	escalofríos
+T5	SYMPTOM 375 382	astenia
+T6	SYMPTOM 385 401	malestar general
+T7	SYMPTOM 422 449	serología positiva para VEB
+T8	SYMPTOM 2973 3034	engrosamiento focal de la cápsula hepática de lóbulo hepático
+T9	SYMPTOM 3057 3108	nódulo peritoneal en el mesenterio del ileon distal
+T10	SYMPTOM 778 791	cuadro febril
+T11	SYMPTOM 835 846	escalofrios
+T12	SYMPTOM 848 855	cefalea
+T13	SYMPTOM 857 867	odinofagia
+T14	SYMPTOM 870 885	pérdida de peso
+T15	SYMPTOM 969 998	afectación del estado general
+T16	SYMPTOM 1000 1022	palidez cutáneo mucosa
+T17	SYMPTOM 1137 1148	trombopenia
+T18	SYMPTOM 1209 1249	neutrofilia (77%) y desviación izquierda
+T20	SYMPTOM 1402 1476	estudio de la coagulación y el análisis elemental de orina fueron normales
+T21	SYMPTOM 1499 1574	determinación de inmunoglobulinas y el estudio inmunológico fueron normales
+T22	SYMPTOM 721 733	asintomático
+T23	SYMPTOM 4064 4076	asintomático
+T24	SYMPTOM 1309 1330	enzimas de colestasis
+T25	SYMPTOM 1173 1192	leucocitos normales
+T26	SYMPTOM 1902 1943	IgG anti VCA IgG e IgG antiEBNA positivas
+T27	SYMPTOM 1946 1966	IgM antiVCA negativa
+T28	SYMPTOM 224 257	VCA IgG, VCA IgM y EBNA positivas
+T29	SYMPTOM 2006 2119	hemocultivos, cultivos de esputo y urinocultivos, que abarcaron el estudio de mycobacterias) resultaron negativos
+T30	SYMPTOM 3554 3572	nódulo subcapsular
+T31	SYMPTOM 506 542	esplenomegalia con lesión hipoecoica
+T32	SYMPTOM 1639 1853	serologías de virus de la hepatitis (A, B y C), retrovirus (VIH-1 y 2), tifo-paratíficas, brucella, mycoplasma, legionella (con la determinación de antígeno en orina), herpes, CMV, y toxoplasma que fueron negativas
+T33	SYMPTOM 2264 2312	ganglios aumentados en número a nivel paraórtico
+T34	SYMPTOM 2364 2475	resultados (microbiológicos e histopatológicos) obtenidos de biopsia hepática y de médula ósea dieron negativos
+T35	SYMPTOM 3263 3271	ganglios
+T36	SYMPTOM 3312 3331	ganglios linfáticos
+T37	SYMPTOM 3629 3680	tejido esplénico restante era de aspecto congestivo
+T38	SYMPTOM 1259 1292	ligera elevación de transaminasas
+A1	RESULTADO T2
+A2	RESULTADO T7
+A3	RESULTADO T18
+A5	RESULTADO T20
+A6	RESULTADO T21
+A7	RESULTADO T24
+A8	RESULTADO T26
+A9	RESULTADO T27
+A10	RESULTADO T28
+A11	RESULTADO T29
+A12	IMAGEN T31
+A13	RESULTADO T32
+A14	IMAGEN T33
+A15	RESULTADO T34
+A16	RESULTADO T38

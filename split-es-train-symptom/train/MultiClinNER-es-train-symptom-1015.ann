@@ -1,0 +1,29 @@
+T1	SYMPTOM 555 583	elevación transitoria del ST
+T4	SYMPTOM 1348 1376	disnea a moderados esfuerzos
+T5	SYMPTOM 1403 1416	palpitaciones
+T6	SYMPTOM 1419 1446	disnea paroxística nocturna
+T7	SYMPTOM 1524 1530	fiebre
+T8	SYMPTOM 1606 1652	despistaje microbiológico que resulta negativo
+T9	SYMPTOM 1677 1710	deterioro del nivel de conciencia
+T10	SYMPTOM 2648 2667	Buen estado general
+T11	SYMPTOM 2669 2679	Consciente
+T12	SYMPTOM 2681 2690	orientada
+T14	SYMPTOM 2707 2714	Afebril
+T15	SYMPTOM 2727 2752	Estable hemodinámicamente
+T16	SYMPTOM 2836 2865	Eupneica en reposo y al habla
+T17	SYMPTOM 2889 2910	ingurgitación yugular
+T18	SYMPTOM 2914 2936	reflujo hepato-yugular
+T19	SYMPTOM 2957 2983	tonos cardiacos arrítmicos
+T20	SYMPTOM 2988 2994	soplos
+T21	SYMPTOM 3005 3034	Murmullo vesicular conservado
+T22	SYMPTOM 3039 3060	crepitantes bibasales
+T23	SYMPTOM 3062 3092	Miembros inferiores sin edemas
+T28	SYMPTOM 4001 4050	Válvula aórtica con apertura y función conservada
+T29	SYMPTOM 4368 4405	UROCULTIVOS y HEMOCULTIVOS: negativos
+T2	SYMPTOM 3226 3235	QRS ancho
+T3	SYMPTOM 3742 3815	Fracción de eyección del ventrículo izquierdo (FEVI) gravemente deprimida
+T13	SYMPTOM 3900 3936	Válvula mitral con cierre en tenting
+T24	SYMPTOM 4052 4087	Ventrículo derecho (VD) no dilatado
+T26	SYMPTOM 4274 4342	Vena cava inferior (VCI) no dilatada con colapso inspiratorio normal
+T145	SYMPTOM 2693 2705	colaboradora
+T149	SYMPTOM 3843 3862	hipoquinesia global

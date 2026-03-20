@@ -1,0 +1,43 @@
+T1	SYMPTOM 563 570	náuseas
+T2	SYMPTOM 573 589	malestar general
+T3	SYMPTOM 628 641	palpitaciones
+T4	SYMPTOM 645 659	dolor torácico
+T6	SYMPTOM 1041 1060	Buen estado general
+T7	SYMPTOM 1062 1097	Normal coloración de piel y mucosas
+T8	SYMPTOM 1102 1117	plétora yugular
+T9	SYMPTOM 1142 1166	tonos cardiacos rítmicos
+T10	SYMPTOM 1172 1178	soplos
+T11	SYMPTOM 1203 1232	murmullo vesicular conservado
+T12	SYMPTOM 1247 1276	abdominal: blando, depresible
+T13	SYMPTOM 1282 1290	megalias
+T14	SYMPTOM 1296 1302	algias
+T15	SYMPTOM 1304 1336	ruidos peristálticos conservados
+T16	SYMPTOM 1338 1362	Extremidades: sin edemas
+T17	SYMPTOM 1368 1398	pulsos periféricos conservados
+T18	SYMPTOM 1758 1769	taquicardia
+T19	SYMPTOM 1886 1897	R-R regular
+T20	SYMPTOM 1922 1933	taquicardia
+T21	SYMPTOM 2051 2062	taquicardia
+T22	SYMPTOM 2969 3036	marcadores de daño miocárdico (troponina I y CK-MB) fueron normales
+T23	SYMPTOM 3051 3079	Radiografía de tórax: normal
+T24	SYMPTOM 3081 3132	Índice cardiotorácico (ICT) dentro de la normalidad
+T26	SYMPTOM 3426 3464	Válvula mitral estructuralmente normal
+T27	SYMPTOM 3548 3573	Válvula tricúspide normal
+T30	SYMPTOM 3759 3794	Función sistólica global conservada
+T31	SYMPTOM 3799 3832	alteraciones de la contractilidad
+T32	SYMPTOM 3921 3958	árbol vascular izquierdo sin lesiones
+T33	SYMPTOM 4490 4499	QRS ancho
+T36	SYMPTOM 6524 6538	dolor torácico
+T37	SYMPTOM 6614 6656	elevación de marcadores de daño miocárdico
+T38	SYMPTOM 7258 7269	taquicardia
+T39	SYMPTOM 7499 7545	fracción de eyección ha permanecido conservada
+T40	SYMPTOM 7902 7942	Función ventricular izquierda conservada
+T130	SYMPTOM 3181 3218	ventrículo izquierdo (VI) no dilatado
+T132	SYMPTOM 3331 3350	hipoquinesia global
+T133	SYMPTOM 3575 3638	Ventrículo derecho (VD) no dilatado con buena función sistólica
+T28	SYMPTOM 3706 3720	VI no dilatado
+T134	SYMPTOM 3960 3992	Coronaria derecha (CD) dominante
+T45	SYMPTOM 1848 1870	eje inferior izquierdo
+T67	SYMPTOM 4851 4853	RS
+T150	SYMPTOM 5545 5618	electrograma de ápex de ventrículo derecho precoz sobre el inicio del QRS
+T151	SYMPTOM 7085 7158	electrograma de ápex de ventrículo derecho precoz sobre el inicio del QRS

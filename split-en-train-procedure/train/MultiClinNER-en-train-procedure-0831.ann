@@ -1,0 +1,40 @@
+T105	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T113	PROCEDURE 146 168	Surgical interventions
+T114	PROCEDURE 170 197	bilateral breast prosthesis
+T81	PROCEDURE 900 917	electrocardiogram
+T5	PROCEDURE 1198 1209	Examination
+T83	PROCEDURE 1352 1380	Cardiopulmonary auscultation
+T111	PROCEDURE 1687 1697	monitoring
+T82	PROCEDURE 1859 1876	electrocardiogram
+T84	PROCEDURE 1942 1956	echocardiogram
+T93	PROCEDURE 2126 2206	electrophysiological study was requested in which, after isoproterenol perfusion
+T87	PROCEDURE 2520 2528	ablation
+T9	PROCEDURE 2531 2571	Treatment was started with beta-blockers
+T88	PROCEDURE 2594 2597	ECG
+T89	PROCEDURE 2933 2936	ECG
+T13	PROCEDURE 3102 3105	CBC
+T104	PROCEDURE 3410 3421	Coagulation
+T90	PROCEDURE 3430 3441	Chest X-ray
+T85	PROCEDURE 3504 3520	Echocardiography
+T98	PROCEDURE 4277 4288	Cardiac MRI
+T91	PROCEDURE 4496 4533	Coronary angiography: radial approach
+T92	PROCEDURE 4581 4597	Ventriculography
+T94	PROCEDURE 4695 4721	Electrophysiological study
+T116	PROCEDURE 4910 4933	isoproterenol perfusion
+T18	PROCEDURE 5379 5384	Blood
+T96	PROCEDURE 5389 5403	urine cultures
+T107	PROCEDURE 5415 5423	Serology
+T108	PROCEDURE 5475 5483	serology
+T97	PROCEDURE 5548 5558	TVMS study
+T99	PROCEDURE 5846 5857	cardiac MRI
+T101	PROCEDURE 5873 5893	coronary angiography
+T86	PROCEDURE 5979 5995	echocardiography
+T102	PROCEDURE 6137 6167	serology for Trypanosoma cruzi
+T110	PROCEDURE 6344 6352	serology
+T106	PROCEDURE 6357 6360	PCR
+T103	PROCEDURE 6504 6537	oesophago-gastro-duodenal transit
+T95	PROCEDURE 6598 6624	electrophysiological study
+T19	PROCEDURE 6658 6669	ablate SMVT
+T117	PROCEDURE 6727 6754	high doses of isoproterenol
+T22	PROCEDURE 6942 6982	implant a self-implantable defibrillator
+T24	PROCEDURE 7295 7331	Implantation of a single-chamber ICD

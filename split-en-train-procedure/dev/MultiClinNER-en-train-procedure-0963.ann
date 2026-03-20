@@ -1,0 +1,37 @@
+T48	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T50	PROCEDURE 348 372	Mitral valve replacement
+T51	PROCEDURE 470 494	Mitral valve replacement
+T52	PROCEDURE 470 521	Mitral valve replacement with biological prosthesis
+T80	PROCEDURE 823 837	renal function
+T53	PROCEDURE 1034 1054	coronary angiography
+T54	PROCEDURE 1326 1330	CPAP
+T55	PROCEDURE 1355 1368	Prostatectomy
+T56	PROCEDURE 2288 2331	mitral and aortic valve replacement surgery
+T57	PROCEDURE 2524 2530	NSAIDs
+T49	PROCEDURE 2632 2652	PHYSICAL EXAMINATION
+T58	PROCEDURE 2783 2803	Cardiac auscultation
+T60	PROCEDURE 2829 2851	Pulmonary auscultation
+T62	PROCEDURE 3133 3136	ECG
+T63	PROCEDURE 3227 3238	Chest X-ray
+T64	PROCEDURE 3316 3326	sternotomy
+T65	PROCEDURE 3336 3350	Echocardiogram
+T66	PROCEDURE 4077 4090	loop diuretic
+T81	PROCEDURE 4325 4339	renal function
+T82	PROCEDURE 4458 4472	renal function
+T75	PROCEDURE 4813 4822	diuretics
+T71	PROCEDURE 4897 4915	thiazide diuretics
+T76	PROCEDURE 4906 4915	diuretics
+T77	PROCEDURE 4971 4980	diuretics
+T68	PROCEDURE 5155 5191	protein-rich nutritional supplements
+T69	PROCEDURE 5445 5464	ventilatory support
+T70	PROCEDURE 5470 5505	non-invasive mechanical ventilation
+T72	PROCEDURE 5661 5679	thiazide diuretics
+T78	PROCEDURE 5670 5679	diuretics
+T67	PROCEDURE 5735 5748	loop diuretic
+T73	PROCEDURE 5735 5758	loop diuretic perfusion
+T74	PROCEDURE 5858 5876	haemodiafiltration
+T61	PROCEDURE 6347 6369	pulmonary auscultation
+T59	PROCEDURE 6406 6426	cardiac auscultation
+T83	PROCEDURE 6504 6518	renal function
+T79	PROCEDURE 6848 6862	anticoagulated
+T84	PROCEDURE 6892 6906	renal function

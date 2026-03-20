@@ -1,0 +1,47 @@
+T67	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T68	PROCEDURE 347 364	parto vía vaginal
+T69	PROCEDURE 628 646	electrocardiograma
+T70	PROCEDURE 648 651	ECG
+T71	PROCEDURE 962 980	Exploración física
+T72	PROCEDURE 1174 1195	Auscultación cardiaca
+T73	PROCEDURE 1258 1279	Auscultación pulmonar
+T74	PROCEDURE 1621 1624	ECG
+T75	PROCEDURE 1917 1926	Hemograma
+T76	PROCEDURE 2039 2050	Coagulación
+T77	PROCEDURE 2280 2295	Perfil lipídico
+T78	PROCEDURE 2424 2439	Ecocardioscopia
+T79	PROCEDURE 2918 2931	Doppler color
+T80	PROCEDURE 3020 3035	Coronariografía
+T81	PROCEDURE 3286 3295	Angio-TAC
+T83	PROCEDURE 3853 3929	Coronariografía de revascularización: se sonda el tronco coronario izquierdo
+T85	PROCEDURE 4023 4045	inyección de contraste
+T88	PROCEDURE 4304 4307	ECG
+T89	PROCEDURE 4525 4554	Ecocardiografía transtorácica
+T90	PROCEDURE 5324 5327	ECG
+T91	PROCEDURE 5478 5497	Analítica de sangre
+T92	PROCEDURE 5507 5516	Hemograma
+T93	PROCEDURE 5609 5620	Coagulación
+T94	PROCEDURE 5954 5967	gafas nasales
+T95	PROCEDURE 6036 6051	ecocardiografía
+T96	PROCEDURE 6220 6235	coronariografía
+T97	PROCEDURE 6251 6266	coronariografía
+T98	PROCEDURE 6494 6511	revascularización
+T99	PROCEDURE 6556 6574	angio-TAC de aorta
+T100	PROCEDURE 6606 6634	revascularización percutánea
+T101	PROCEDURE 6657 6672	coronariografía
+T102	PROCEDURE 6699 6773	se implanta stent en tronco coronario izquierdo hacia descendente anterior
+T103	PROCEDURE 6793 6805	angiográfico
+T106	PROCEDURE 7114 7131	revascularización
+T107	PROCEDURE 7228 7284	doble terapia antiagregante con AAS 100 mg y clopidogrel
+T108	PROCEDURE 7442 7453	cateterismo
+T109	PROCEDURE 7461 7485	control ecocardiográfico
+T110	PROCEDURE 7769 7792	rehabilitación cardiaca
+T111	PROCEDURE 7992 8007	ecocardiografía
+T112	PROCEDURE 8525 8595	stent farmacoactivo en tronco coronario izquierdo-descendente anterior
+T10	PROCEDURE 2072 2082	Bioquímica
+T30	PROCEDURE 4139 4240	se implanta stent farmacoactivo Onyx Resolute 4 x 26 mm a 16 atm en tronco hacia descendente anterior
+T38	PROCEDURE 5636 5646	Bioquímica
+T175	PROCEDURE 6894 6929	perfusión continua de noradrenalina
+T176	PROCEDURE 7015 7041	perfusión de noradrenalina
+T50	PROCEDURE 1895 1904	Analítica
+T53	PROCEDURE 7343 7381	stent en el tronco coronario izquierdo

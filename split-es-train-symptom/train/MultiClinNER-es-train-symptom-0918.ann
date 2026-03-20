@@ -1,0 +1,39 @@
+T1	SYMPTOM 377 399	hemocultivos negativos
+T2	SYMPTOM 787 803	malestar general
+T3	SYMPTOM 805 812	cefalea
+T4	SYMPTOM 814 826	artomialgias
+T5	SYMPTOM 828 836	anorexia
+T6	SYMPTOM 838 844	fiebre
+T7	SYMPTOM 847 862	pérdida de peso
+T9	SYMPTOM 1076 1091	síndrome febril
+T10	SYMPTOM 1094 1111	deterioro general
+T11	SYMPTOM 1133 1186	crecimiento en hemocultivos de Streptococcus gordinii
+T12	SYMPTOM 1352 1362	Consciente
+T13	SYMPTOM 1364 1373	orientado
+T14	SYMPTOM 1376 1387	colaborador
+T15	SYMPTOM 1389 1408	Buen estado general
+T16	SYMPTOM 1410 1428	Eupneica en reposo
+T17	SYMPTOM 1430 1452	Buena perfusión distal
+T18	SYMPTOM 1502 1527	Ruidos cardiacos rítmicos
+T19	SYMPTOM 1532 1547	click protésico
+T20	SYMPTOM 1552 1558	soplos
+T21	SYMPTOM 1583 1589	roncus
+T22	SYMPTOM 1599 1618	crepitantes en base
+T23	SYMPTOM 1630 1664	Extremidades inferiores: no edemas
+T24	SYMPTOM 1736 1779	ritmo ventricular estimulado por marcapasos
+T25	SYMPTOM 1812 1852	condensación a nivel del lóbulo superior
+T27	SYMPTOM 2833 2861	contractilidad global normal
+T28	SYMPTOM 2938 2955	Tricúspide normal
+T30	SYMPTOM 3804 3819	síndrome febril
+T31	SYMPTOM 3822 3869	cultivos positivos para Estreptococcus gordinii
+T32	SYMPTOM 4195 4245	colección en la porción anterior del anillo mitral
+T103	SYMPTOM 402 412	ETT normal
+T104	SYMPTOM 2904 2936	Válvula aórtica normofuncionante
+T106	SYMPTOM 3617 3626	Colección
+T116	SYMPTOM 2796 2831	Ventrículo derecho (VD) no dilatado
+T117	SYMPTOM 5016 5028	asintomática
+T29	SYMPTOM 3074 3096	Pericardio sin derrame
+T107	SYMPTOM 1454 1477	estado hídrico adecuado
+T108	SYMPTOM 2732 2785	Ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T109	SYMPTOM 4543 4549	pannus
+T110	SYMPTOM 4951 5008	hemocultivos de control y de material protésico negativos

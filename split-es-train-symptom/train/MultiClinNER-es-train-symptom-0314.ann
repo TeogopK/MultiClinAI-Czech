@@ -1,0 +1,25 @@
+T1	SYMPTOM 309 330	irradiación del dolor
+T2	SYMPTOM 468 477	apirético
+T3	SYMPTOM 2349 2361	asintomático
+T4	SYMPTOM 496 530	buena coloración de piel y mucosas
+T5	SYMPTOM 346 369	cortejo neurovegetativo
+T6	SYMPTOM 226 231	dolor
+T7	SYMPTOM 276 282	fiebre
+T8	SYMPTOM 1570 1589	masa paratesticular
+T9	SYMPTOM 1065 1146	masa sólida extratesticular, en contacto con el polo superior del teste izquierdo
+T10	SYMPTOM 585 590	masas
+T11	SYMPTOM 480 490	normotenso
+T12	SYMPTOM 286 304	síndrome miccional
+T13	SYMPTOM 843 868	transiluminación negativa
+T14	SYMPTOM 697 742	testículo izquierdo se aprecia una tumoración
+T15	SYMPTOM 535 565	abdomen es blando y depresible
+T16	SYMPTOM 133 171	aumento de tamaño de la bolsa escrotal
+T17	SYMPTOM 397 430	alteraciones del ritmo intestinal
+T18	SYMPTOM 596 630	fosas renales se encuentran libres
+T19	SYMPTOM 973 1017	testículos muestran una ecoestructura normal
+T20	SYMPTOM 1022 1046	flujo-doppler conservado
+T21	SYMPTOM 570 578	doloroso
+T22	SYMPTOM 2390 2409	libre de enfermedad
+A1	IMAGEN T9
+A2	IMAGEN T19
+A3	IMAGEN T20

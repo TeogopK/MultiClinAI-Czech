@@ -1,0 +1,11 @@
+T1	DISEASE 99 113	metamorfopsias
+T8	DISEASE 1301 1305	NVSR
+T9	DISEASE 1105 1109	NVSR
+T12	DISEASE 1656 1668	tuberculosis
+T13	DISEASE 1696 1703	sífilis
+T14	DISEASE 1706 1717	borreliosis
+T29	DISEASE 853 857	NVSR
+T2	DISEASE 480 501	membrana subretiniana
+#2	AnnotatorNotes T8	   MNVSR: membranas neovasculares subretinianas
+#3	AnnotatorNotes T9	   MNVSR: membranas neovasculares subretinianas
+#1	AnnotatorNotes T29	   MNVSR: membranas neovasculares subretinianas

@@ -1,0 +1,12 @@
+T1	SYMPTOM 93 135	dolor en hombro izquierdo y columna lumbar
+T2	SYMPTOM 1853 1887	nódulo tiroideo sólido, con calcio
+T3	SYMPTOM 1668 1680	PSA normales
+T4	SYMPTOM 346 426	Gastroscopia, enema opaco, ecografía abdominal, testicular y prostática normales
+T5	SYMPTOM 2301 2324	mal estado del paciente
+T6	SYMPTOM 1355 1389	amiloide con tinción de Rojo Congo
+T7	SYMPTOM 2412 2419	fallece
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T6
+A5	EXITUS T7

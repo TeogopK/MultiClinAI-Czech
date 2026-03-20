@@ -1,0 +1,40 @@
+T49	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T46	PROCEDURE 435 451	vagal manoeuvres
+T50	PROCEDURE 487 507	Physical examination
+T2	PROCEDURE 645 673	treatment with beta-blockers
+T51	PROCEDURE 716 730	24-hour Holter
+T54	PROCEDURE 735 765	transthoracic echocardiography
+T3	PROCEDURE 767 770	TTE
+T47	PROCEDURE 963 979	vagal manoeuvres
+T5	PROCEDURE 1151 1154	TTE
+T6	PROCEDURE 1270 1290	agitated saline test
+T52	PROCEDURE 1412 1426	24-hour Holter
+T55	PROCEDURE 1608 1625	electrophysiology
+T69	PROCEDURE 1655 1663	ablation
+T8	PROCEDURE 1708 1748	cardiac magnetic resonance imaging (MRI)
+T9	PROCEDURE 1744 1747	MRI
+T56	PROCEDURE 1846 1863	Electrophysiology
+T57	PROCEDURE 1907 1933	electrophysiological study
+T70	PROCEDURE 1938 1946	ablation
+T48	PROCEDURE 2069 2085	vagal manoeuvres
+T59	PROCEDURE 2108 2125	Electrocardiogram
+T60	PROCEDURE 2127 2130	ECG
+T61	PROCEDURE 2349 2352	ECG
+T11	PROCEDURE 2426 2429	CBC
+T53	PROCEDURE 2614 2628	24-hour Holter
+T13	PROCEDURE 2809 2812	TTE
+T15	PROCEDURE 3155 3179	TTE with agitated saline
+T16	PROCEDURE 3181 3209	injection of agitated saline
+T62	PROCEDURE 3289 3307	Valsalva manoeuvre
+T17	PROCEDURE 3369 3385	MRI of the heart
+T24	PROCEDURE 4093 4160	Flow quantification in aortic root (phase contrast velocity coding)
+T25	PROCEDURE 4247 4327	Quantification of flow in main pulmonary artery (phase contrast velocity coding)
+T58	PROCEDURE 4487 4513	electrophysiological study
+T63	PROCEDURE 4651 4674	Radiofrequency ablation
+T65	PROCEDURE 4761 4772	cardiac MRI
+T72	PROCEDURE 5095 5103	ablation
+T66	PROCEDURE 5310 5325	surgical repair
+T39	PROCEDURE 6101 6128	right heart catheterisation
+T67	PROCEDURE 6145 6163	haemodynamic study
+T68	PROCEDURE 6201 6216	cardiac surgery
+T64	PROCEDURE 6470 6493	Radiofrequency ablation

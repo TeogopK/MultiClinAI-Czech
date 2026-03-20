@@ -1,0 +1,53 @@
+T22	DISEASE 118 130	hypertension
+T23	DISEASE 132 145	dyslipidaemia
+T24	DISEASE 150 164	active smoking
+T25	DISEASE 325 354	permanent atrial fibrillation
+T26	DISEASE 512 533	neurological sequelae
+T27	DISEASE 561 583	chronic kidney disease
+T28	DISEASE 588 625	moderate polyarticular osteoarthritis
+T29	DISEASE 1097 1133	paroxysmal nocturnal dyspnoea crisis
+T30	DISEASE 1829 1841	mild ascites
+T31	DISEASE 1943 1966	atypical atrial flutter
+T61	DISEASE 1952 1966	atrial flutter
+T67	DISEASE 1959 1966	flutter
+T34	DISEASE 2022 2028	BCRDHH
+T35	DISEASE 2453 2479	Bilateral pleural effusion
+T57	DISEASE 2484 2510	bilateral hilar infiltrate
+T36	DISEASE 2733 2751	Mild insufficiency
+T37	DISEASE 2857 2875	Mild insufficiency
+T58	DISEASE 3267 3295	Slightly dilated left atrium
+T59	DISEASE 3297 3326	Slightly dilated right atrium
+T38	DISEASE 3396 3416	pericardial effusion
+T60	DISEASE 3438 3464	Dilated inferior vena cava
+T62	DISEASE 4032 4046	atrial flutter
+T68	DISEASE 4039 4046	flutter
+T39	DISEASE 4242 4274	severe biventricular dysfunction
+T42	DISEASE 4522 4542	global heart failure
+T45	DISEASE 4529 4542	heart failure
+T44	DISEASE 4548 4606	biventricular dysfunction secondary to tachycardiomyopathy
+T65	DISEASE 5285 5301	atypical flutter
+T69	DISEASE 5294 5301	flutter
+T66	DISEASE 5520 5536	atypical flutter
+T70	DISEASE 5529 5536	flutter
+T46	DISEASE 5656 5669	heart failure
+T47	DISEASE 5812 5825	heart failure
+T43	DISEASE 5928 5948	global heart failure
+T48	DISEASE 5935 5948	heart failure
+T21	DISEASE 6059 6087	same atypical atrial flutter
+T32	DISEASE 6064 6087	atypical atrial flutter
+T63	DISEASE 6073 6087	atrial flutter
+T71	DISEASE 6080 6087	flutter
+T53	DISEASE 6427 6454	decompensated heart failure
+T49	DISEASE 6441 6454	heart failure
+T40	DISEASE 6508 6540	severe biventricular dysfunction
+T72	DISEASE 6571 6578	flutter
+T54	DISEASE 7122 7141	acute heart failure
+T50	DISEASE 7128 7141	heart failure
+T51	DISEASE 7606 7619	heart failure
+T52	DISEASE 7670 7683	heart failure
+T55	DISEASE 7876 7964	Tachycardiomyopathy secondary to atypical atrial flutter with rapid ventricular response
+T33	DISEASE 7909 7932	atypical atrial flutter
+T64	DISEASE 7918 7932	atrial flutter
+T73	DISEASE 7925 7932	flutter
+T41	DISEASE 7966 7998	Severe biventricular dysfunction
+T56	DISEASE 8077 8100	Rheumatic valve disease

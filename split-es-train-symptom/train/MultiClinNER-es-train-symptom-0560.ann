@@ -1,0 +1,31 @@
+T1	SYMPTOM 2060 2098	masa suprarrenal izquierda funcionante
+T2	SYMPTOM 162 200	dolor abdominal intenso en flanco izdo
+T3	SYMPTOM 737 772	dolor abdominal en flanco izquierdo
+T4	SYMPTOM 202 216	heces pastosas
+T5	SYMPTOM 219 252	aumento de los ruidos abdominales
+T6	SYMPTOM 1530 1595	masa de 6,5 cm de diámetro dependiente de la glándula suprarrenal
+T7	SYMPTOM 804 814	diaforesis
+T8	SYMPTOM 816 827	nerviosismo
+T9	SYMPTOM 830 845	palidez cutánea
+T10	SYMPTOM 396 431	dolor a la palpación en hemiabdomen
+T11	SYMPTOM 448 473	aumento del peristaltismo
+T12	SYMPTOM 500 505	dolor
+T13	SYMPTOM 1081 1106	dolor en flanco izquierdo
+T14	SYMPTOM 1111 1144	sucusión renal izquierda positiva
+T15	SYMPTOM 1260 1272	leucocitosis
+T16	SYMPTOM 1288 1300	hiponatremia
+T17	SYMPTOM 1161 1189	exploración física es normal
+T18	SYMPTOM 1035 1043	sudoroso
+T19	SYMPTOM 2112 2137	elevación de metanefrinas
+T20	SYMPTOM 2770 2797	cifras tensionales normales
+T21	SYMPTOM 2802 2821	buen estado general
+T22	SYMPTOM 1195 1239	radiografías de tórax y abdomen son normales
+T23	SYMPTOM 1922 2040	lectura de más de cinco veces el valor normal para metanefrinas totales en orina y para catecolaminas libres urinarias
+T24	SYMPTOM 1430 1464	tumoración en glándula suprarrenal
+A1	IMAGEN T6
+A2	RESULTADO T15
+A3	RESULTADO T16
+A4	RESULTADO T19
+A5	IMAGEN T22
+A6	RESULTADO T23
+A7	IMAGEN T24

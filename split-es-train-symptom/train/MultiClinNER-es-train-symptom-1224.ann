@@ -1,0 +1,38 @@
+T1	SYMPTOM 472 585	dolor centrotorácico opresivo, de unos 30 min de evolución, irradiado a ambos miembros superiores (MMSS) y cuello
+T2	SYMPTOM 641 664	leve cortejo vegetativo
+T3	SYMPTOM 743 763	dolor centrotorácico
+T4	SYMPTOM 1019 1041	Regular estado general
+T5	SYMPTOM 1056 1069	dolor intenso
+T6	SYMPTOM 1071 1089	Eupneico en reposo
+T7	SYMPTOM 1091 1105	Normocoloreado
+T8	SYMPTOM 1108 1122	normohidratado
+T9	SYMPTOM 1124 1132	Sudoroso
+T10	SYMPTOM 1143 1153	consciente
+T11	SYMPTOM 1156 1165	orientado
+T13	SYMPTOM 1181 1187	alerta
+T14	SYMPTOM 1193 1214	focalidad neurológica
+T15	SYMPTOM 1216 1261	Auscultación cardiopulmonar: ruidos regulares
+T16	SYMPTOM 1263 1279	soplo diastólico
+T17	SYMPTOM 1323 1352	Murmullo vesicular conservado
+T18	SYMPTOM 1354 1357	MVC
+T19	SYMPTOM 1363 1383	ruidos sobreañadidos
+T20	SYMPTOM 1385 1413	Abdomen: blando y depresible
+T21	SYMPTOM 1419 1423	masa
+T22	SYMPTOM 1427 1435	megalias
+T23	SYMPTOM 1440 1463	doloroso a la palpación
+T24	SYMPTOM 1465 1498	MMSS: pulsos radiales asimétricos
+T25	SYMPTOM 1500 1557	Miembros inferiores: pulsos distales débiles y simétricos
+T26	SYMPTOM 1615 1628	ritmo sinusal
+T27	SYMPTOM 1650 1662	QRS estrecho
+T28	SYMPTOM 2390 2418	función sistólica conservada
+T29	SYMPTOM 2554 2601	Ventrículo derecho de tamaño y función normales
+T30	SYMPTOM 3670 3701	dolor torácico opresivo intenso
+T31	SYMPTOM 5177 5197	PCR gripe A negativa
+T32	SYMPTOM 5415 5430	sangrado activo
+T95	SYMPTOM 2435 2480	alteraciones de la contractilidad segmentaria
+T54	SYMPTOM 2686 2717	Vena cava inferior (VCI) normal
+T90	SYMPTOM 3454 3494	Aorta distal y sector iliofemoral normal
+T113	SYMPTOM 1167 1178	colaborador
+T114	SYMPTOM 5360 5367	estable
+T119	SYMPTOM 5098 5146	infiltrados dispersos en ambos campos pulmonares
+T91	SYMPTOM 807 834	clínica de ICC o infecciosa

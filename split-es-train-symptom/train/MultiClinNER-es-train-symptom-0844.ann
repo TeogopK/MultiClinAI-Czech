@@ -1,0 +1,83 @@
+T1	SYMPTOM 1112 1164	disnea progresiva hasta hacerse de mínimos esfuerzos
+T2	SYMPTOM 1177 1206	edemas en miembros inferiores
+T3	SYMPTOM 1218 1245	disnea paroxística nocturna
+T4	SYMPTOM 1247 1260	palpitaciones
+T6	SYMPTOM 1324 1369	equimosis en miembros superiores e inferiores
+T7	SYMPTOM 1372 1403	hipoestesia en miembro inferior
+T8	SYMPTOM 1421 1429	ortopnea
+T9	SYMPTOM 1443 1451	diuresis
+T10	SYMPTOM 1470 1484	dolor torácico
+T11	SYMPTOM 1499 1509	artralgias
+T12	SYMPTOM 1546 1552	fiebre
+T13	SYMPTOM 1707 1731	Aceptable estado general
+T14	SYMPTOM 1733 1743	consciente
+T15	SYMPTOM 1745 1754	orientada
+T19	SYMPTOM 1800 1814	normocoloreada
+T20	SYMPTOM 1823 1842	taquipnea en reposo
+T21	SYMPTOM 1848 1866	habla entrecortada
+T22	SYMPTOM 1919 1932	leve disfonía
+T24	SYMPTOM 1990 2004	tonos rítmicos
+T25	SYMPTOM 2028 2034	soplos
+T26	SYMPTOM 2040 2056	roce pericárdico
+T27	SYMPTOM 2107 2128	crepitantes bibasales
+T28	SYMPTOM 2139 2150	sibilancias
+T29	SYMPTOM 2164 2182	abdomen es anodino
+T30	SYMPTOM 2232 2275	pupilas isocóricas normorreactivas a la luz
+T31	SYMPTOM 2277 2304	pares craneales conservados
+T32	SYMPTOM 2306 2364	sensibilidad táctil grosera disminuida en miembro inferior
+T33	SYMPTOM 2454 2500	miembros inferiores presentan edemas con fóvea
+T34	SYMPTOM 2610 2651	pulsos periféricos presentes y simétricos
+T36	SYMPTOM 3043 3065	coagulación era normal
+T37	SYMPTOM 3145 3158	ritmo sinusal
+T39	SYMPTOM 3276 3341	ondas T aplanadas en derivaciones inferiores y negativas en V3-V6
+T41	SYMPTOM 3448 3466	hilios prominentes
+T43	SYMPTOM 4043 4052	CK normal
+T44	SYMPTOM 5212 5282	ventrículo izquierdo (VI) no dilatado con función sistólica conservada
+T46	SYMPTOM 5894 5908	VI no dilatado
+T48	SYMPTOM 6066 6101	función sistólica global conservada
+T49	SYMPTOM 6305 6323	VD normocontractil
+T50	SYMPTOM 6544 6578	Dilatación de venas suprahepáticas
+T51	SYMPTOM 6638 6661	compromiso hemodinámico
+T52	SYMPTOM 6698 6747	Válvula aórtica trivalva con movilidad conservada
+T53	SYMPTOM 6749 6769	Flujo aórtico normal
+T54	SYMPTOM 6771 6806	Válvula mitral de normal morfología
+T55	SYMPTOM 7056 7088	VI no dilatado con FE conservada
+T58	SYMPTOM 7139 7180	VD ligeramente dilatado con FE conservada
+T59	SYMPTOM 7919 7951	ventrículo izquierdo no dilatado
+T61	SYMPTOM 7983 8011	función sistólica conservada
+T62	SYMPTOM 8552 8583	fracción de eyección conservada
+T64	SYMPTOM 9372 9396	ventrículos no dilatados
+T65	SYMPTOM 9403 9431	función sistólica conservada
+T68	SYMPTOM 10359 10397	tethering del músculo papilar inferior
+T70	SYMPTOM 10455 10479	función sistólica normal
+T72	SYMPTOM 11677 11683	disnea
+T73	SYMPTOM 11685 11714	edemas en miembros inferiores
+T74	SYMPTOM 11730 11760	elevación de enzimas cardiacas
+T75	SYMPTOM 11762 11773	trombopenia
+T76	SYMPTOM 11775 11786	eosinofilia
+T77	SYMPTOM 12230 12241	eosinofilia
+T78	SYMPTOM 12558 12593	Clínica y hemodinámicamente estable
+T79	SYMPTOM 13480 13486	disnea
+T80	SYMPTOM 13547 13558	eosinofilia
+T149	SYMPTOM 2675 2720	equimosis en miembros superiores e inferiores
+T208	SYMPTOM 517 527	eutiroidea
+T16	SYMPTOM 3228 3274	descenso del ST de 1 mm en II, III, aVF, V3-V6
+T18	SYMPTOM 3501 3535	pinzamiento de senos costofrénicos
+T35	SYMPTOM 3762 3808	parénquima pulmonar no presentaba alteraciones
+T40	SYMPTOM 4263 4314	anticuerpos anticitoplasma de neutrófilos positivos
+T42	SYMPTOM 4319 4367	anticuerpos (IgG) anti mieloperoxidasa positivos
+T144	SYMPTOM 5399 5423	Raíz aórtica no dilatada
+T209	SYMPTOM 5711 5740	Patrón de flujo mitral normal
+T210	SYMPTOM 6119 6174	alteraciones evidentes de la contractilidad segmentaria
+T60	SYMPTOM 9674 9693	hipoquinesia ligera
+T63	SYMPTOM 9633 9671	tethering del músculo papilar inferior
+T66	SYMPTOM 11973 12011	ELISA de ANCA que resultaron positivos
+T214	SYMPTOM 1771 1798	Bien hidratada y perfundida
+T230	SYMPTOM 1757 1769	colaboradora
+T5	SYMPTOM 5054 5123	despistaje de VIH y resto de inmunodiagnóstico infeccioso es negativo
+T17	SYMPTOM 6468 6501	Vena cava inferior (VCI) dilatada
+T45	SYMPTOM 7022 7054	patrón de restricción miocárdica
+T47	SYMPTOM 7518 7550	TCI de buen calibre sin lesiones
+T125	SYMPTOM 7566 7630	arteria descendente anterior (ADA) de buen calibre, sin lesiones
+T202	SYMPTOM 7669 7723	arteria circunfleja (Cx) de buen calibre, sin lesiones
+T213	SYMPTOM 7763 7826	coronaria derecha (CD) dominante, de buen calibre, sin lesiones

@@ -1,0 +1,17 @@
+T1	DISEASE 37 58	alergia a penicilinas
+T4	DISEASE 60 81	hipertensión arterial
+T6	DISEASE 106 115	psoriasis
+T7	DISEASE 1096 1191	carcinoma urotelial sólido de alto grado que infiltraba la grasa perivesical, próstata y uretra
+T14	DISEASE 647 702	carcinoma urotelial indiferenciado infitrante de vejiga
+T15	DISEASE 341 361	ureterohidronefrosis
+T16	DISEASE 1312 1387	cadena iliobturatriz izquierda ganglios infiltrados por carcinoma urotelial
+T23	DISEASE 864 884	ureterohidronefrosis
+T28	DISEASE 1730 1736	anemia
+T31	DISEASE 1870 1879	hematomas
+T34	DISEASE 2130 2166	coagulación intravascular diseminada
+T35	DISEASE 2168 2171	CID
+T38	DISEASE 2340 2346	anemia
+T41	DISEASE 2407 2475	médula ósea obteniéndose células metastásicas de carcinoma urotelial
+T42	DISEASE 2493 2546	infiltración de la médula ósea por el tumor de vejiga
+T43	DISEASE 1467 1473	anemia
+#1	AnnotatorNotes T35	     CID: coagulación intravascular diseminada

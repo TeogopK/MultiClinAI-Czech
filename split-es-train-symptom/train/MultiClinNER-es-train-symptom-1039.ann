@@ -1,0 +1,55 @@
+T1	SYMPTOM 1508 1529	pérdida de conciencia
+T2	SYMPTOM 1675 1715	sensación de mareo de tipo inestabilidad
+T3	SYMPTOM 1718 1726	tinnitus
+T4	SYMPTOM 1740 1758	cortejo vegetativo
+T5	SYMPTOM 1772 1785	palpitaciones
+T6	SYMPTOM 1831 1845	dolor torácico
+T7	SYMPTOM 1850 1868	clínica infecciosa
+T8	SYMPTOM 2195 2208	ritmo sinusal
+T9	SYMPTOM 2449 2468	clínica presincopal
+T10	SYMPTOM 2694 2707	ritmo sinusal
+T11	SYMPTOM 2977 2996	Buen estado general
+T12	SYMPTOM 2998 3008	Consciente
+T13	SYMPTOM 3011 3020	orientada
+T15	SYMPTOM 3057 3093	Auscultación cardiopulmonar: regular
+T16	SYMPTOM 3099 3105	soplos
+T17	SYMPTOM 3116 3145	Murmullo vesicular conservado
+T19	SYMPTOM 3168 3196	Abdomen: blando y depresible
+T20	SYMPTOM 3202 3207	masas
+T21	SYMPTOM 3211 3225	organomegalias
+T22	SYMPTOM 3240 3263	doloroso a la palpación
+T23	SYMPTOM 3269 3297	signos irritación peritoneal
+T24	SYMPTOM 3299 3330	Miembros inferiores: sin edemas
+T25	SYMPTOM 3392 3402	consciente
+T26	SYMPTOM 3405 3414	orientada
+T28	SYMPTOM 3428 3442	Bradipsiquia l
+T29	SYMPTOM 3449 3487	Lenguaje correcto en forma y contenido
+T30	SYMPTOM 3489 3521	Pares craneales sin alteraciones
+T31	SYMPTOM 3523 3552	Movimientos oculares normales
+T32	SYMPTOM 3554 3589	Pupilas isocóricas, normorreactivas
+T33	SYMPTOM 3591 3647	Fuerza y sensibilidad de miembros conservada y simétrica
+T34	SYMPTOM 3724 3737	ritmo sinusal
+T35	SYMPTOM 3854 3892	ondas T negativas asimétricas en V3-V6
+T36	SYMPTOM 3894 3925	T aplanadas en I, II, III y aVL
+T37	SYMPTOM 4061 4074	ritmo sinusal
+T38	SYMPTOM 4156 4197	ondas T negativas asimétricas en V1 y III
+T40	SYMPTOM 5298 5365	Ventrículo izquierdo de volúmenes aumentados con hipocinesia global
+T41	SYMPTOM 5404 5450	depresión grave de la función global sistólica
+T42	SYMPTOM 5532 5564	presión telediastólica aumentada
+T46	SYMPTOM 6020 6025	edema
+T50	SYMPTOM 6223 6267	arterias coronarias epicárdicas sin lesiones
+T51	SYMPTOM 6341 6353	asintomática
+T52	SYMPTOM 6722 6735	hipopotasemia
+T53	SYMPTOM 6737 6751	hipomagnesemia
+T54	SYMPTOM 6754 6772	hipocalcemia leves
+T168	SYMPTOM 5606 5694	Ventrículo derecho de diámetros normales y depresión leve de la función global sistólica
+T43	SYMPTOM 5750 5786	Vena cava inferior (VCI) no dilatada
+T44	SYMPTOM 6089 6115	Senos costofrénicos libres
+T45	SYMPTOM 6388 6411	intervalo QT prolongado
+T49	SYMPTOM 8567 8618	intervalo QT dentro de los límites de la normalidad
+T146	SYMPTOM 9153 9185	Arterias coronarias sin lesiones
+T183	SYMPTOM 7573 7604	alteración electrocardiográfica
+T194	SYMPTOM 7522 7556	estabilidad clínica y hemodinámica
+T172	SYMPTOM 2384 2405	fenómeno de R sobre T
+T174	SYMPTOM 5932 5981	Aumento de la trama alveolar perihiliar bilateral
+T176	SYMPTOM 7807 7820	FEVI reducida

@@ -1,0 +1,9 @@
+T1	SYMPTOM 21 32	dolor en OI
+T2	SYMPTOM 35 44	fotofobia
+T3	SYMPTOM 1029 1061	hiperqueratinización conjuntival
+T4	SYMPTOM 176 188	hipocalcemia
+T5	SYMPTOM 298 326	queratinización conjuntival.
+T6	SYMPTOM 848 875	queratinización conjuntival
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6

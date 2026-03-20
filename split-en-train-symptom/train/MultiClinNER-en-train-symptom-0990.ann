@@ -1,0 +1,49 @@
+T1	SYMPTOM 55 64	dizziness
+T3	SYMPTOM 69 84	general malaise
+T5	SYMPTOM 98 119	loss of consciousness
+T7	SYMPTOM 439 450	chest pains
+T8	SYMPTOM 452 464	palpitations
+T10	SYMPTOM 466 474	sweating
+T31	SYMPTOM 479 487	paleness
+T33	SYMPTOM 837 858	central thoracic pain
+T32	SYMPTOM 877 893	vegative crusade
+T9	SYMPTOM 913 925	palpitations
+T2	SYMPTOM 1156 1165	dizziness
+T4	SYMPTOM 1170 1185	general malaise
+T6	SYMPTOM 1199 1220	loss of consciousness
+T30	SYMPTOM 1292 1312	very high heart rate
+T34	SYMPTOM 1323 1346	stopped feeling a pulse
+T11	SYMPTOM 1718 1728	narrow QRS
+T25	SYMPTOM 1989 2019	Cardiac auscultation: rhythmic
+T12	SYMPTOM 2024 2031	murmurs
+T35	SYMPTOM 2035 2048	friction rubs
+T36	SYMPTOM 2089 2101	extra sounds
+T13	SYMPTOM 2103 2132	Abdomen: soft and depressible
+T14	SYMPTOM 2137 2143	masses
+T37	SYMPTOM 2147 2156	megaliths
+T15	SYMPTOM 2167 2189	Lower limbs: No oedema
+T38	SYMPTOM 2191 2234	Peripheral pulses preserved and symmetrical
+T16	SYMPTOM 2264 2276	Sinus rhythm
+T39	SYMPTOM 2303 2365	alterations in atrioventricular or intraventricular conduction
+T40	SYMPTOM 2417 2443	repolarisation alterations
+T17	SYMPTOM 2669 2702	RV of preserved size and function
+T41	SYMPTOM 2791 2824	increased central venous pressure
+T18	SYMPTOM 2841 2869	Bibasal interstitial pattern
+T42	SYMPTOM 2877 2893	hilum thickening
+T43	SYMPTOM 2999 3047	Ventricular system and sulci without alterations
+T26	SYMPTOM 3049 3075	Midline structures centred
+T19	SYMPTOM 3605 3621	mydriatic pupils
+T44	SYMPTOM 3823 3858	segmental contractility alterations
+T29	SYMPTOM 3872 3894	normal right ventricle
+T27	SYMPTOM 3952 3966	pre-excitation
+T20	SYMPTOM 3971 3985	QT lengthening
+T45	SYMPTOM 4113 4138	electrolyte abnormalities
+T46	SYMPTOM 4314 4333	normal QT corrected
+T47	SYMPTOM 4606 4655	ST segment elevation >4mm II, III, aVF, V5 and V6
+T28	SYMPTOM 5018 5037	sustained vasospasm
+T21	SYMPTOM 5460 5483	haemodynamically stable
+T22	SYMPTOM 5607 5615	oriented
+T48	SYMPTOM 5629 5646	residual focality
+T23	SYMPTOM 5687 5706	anterograde amnesia
+T49	SYMPTOM 5713 5747	difficulty in retaining the events
+T24	SYMPTOM 6046 6056	chest pain

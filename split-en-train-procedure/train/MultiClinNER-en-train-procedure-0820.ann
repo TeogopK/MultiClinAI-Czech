@@ -1,0 +1,33 @@
+T76	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T77	PROCEDURE 1192 1212	Physical examination
+T78	PROCEDURE 1505 1525	Cardiac auscultation
+T79	PROCEDURE 1559 1583	Respiratory auscultation
+T80	PROCEDURE 1838 1862	Neurological examination
+T81	PROCEDURE 1985 2011	confrontational campimetry
+T4	PROCEDURE 2194 2205	were heard.
+T82	PROCEDURE 2427 2444	Electrocardiogram
+T6	PROCEDURE 2544 2555	Blood tests
+T7	PROCEDURE 2557 2568	haemoglobin
+T83	PROCEDURE 2771 2782	Coagulation
+T96	PROCEDURE 2891 2903	Biochemistry
+T8	PROCEDURE 3141 3180	Posteroanterior and lateral chest X-ray
+T10	PROCEDURE 3434 3471	CT scan of the skull without contrast
+T97	PROCEDURE 3476 3493	cerebral angio-CT
+T11	PROCEDURE 3523 3544	empty cranial CT scan
+T15	PROCEDURE 3924 4000	Cerebral CT angiography of the supra-aortic trunks and the polygon of Willis
+T17	PROCEDURE 4364 4416	Brain magnetic resonance imaging (MRI) and angio-MRI
+T18	PROCEDURE 4471 4492	administration of IVC
+T84	PROCEDURE 4855 4875	Vascular examination
+T85	PROCEDURE 4980 4986	Holter
+T87	PROCEDURE 5356 5386	Transthoracic echocardiography
+T88	PROCEDURE 5862 5894	Transesophageal echocardiography
+T24	PROCEDURE 5896 5923	transesophageal exploration
+T90	PROCEDURE 5942 5950	sedation
+T26	PROCEDURE 6294 6327	administration of agitated saline
+T91	PROCEDURE 6376 6401	transthoracic examination
+T27	PROCEDURE 6724 6759	cerebral magnetic resonance imaging
+T92	PROCEDURE 7004 7035	electrocardiographic monitoring
+T86	PROCEDURE 7039 7045	Holter
+T93	PROCEDURE 7131 7181	transthoracic and transesophageal echocardiography
+T94	PROCEDURE 7533 7556	resection of the tumour
+T95	PROCEDURE 7579 7591	valve repair

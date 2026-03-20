@@ -1,0 +1,35 @@
+T84	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 383 402	estudio neurológico
+T86	PROCEDURE 407 451	tomografía axial computarizada (TAC) craneal
+T87	PROCEDURE 1139 1157	Exploración física
+T88	PROCEDURE 1270 1297	Auscultación cardiopulmonar
+T89	PROCEDURE 1394 1412	Electrocardiograma
+T90	PROCEDURE 1414 1417	ECG
+T91	PROCEDURE 1575 1595	Radiografía de tórax
+T92	PROCEDURE 1987 1990	TAC
+T93	PROCEDURE 2228 2242	Ecocardiograma
+T94	PROCEDURE 3167 3192	ECG promediado de señales
+T95	PROCEDURE 3296 3328	Estudio de promediado de señales
+T96	PROCEDURE 3339 3382	Resonancia magnética nuclear (RMN) cardiaca
+T97	PROCEDURE 4340 4366	Estudio electrofisiológico
+T98	PROCEDURE 4461 4490	se implanta Holter subcutáneo
+T99	PROCEDURE 4524 4537	TAC coronario
+T100	PROCEDURE 5180 5183	ECG
+T101	PROCEDURE 5206 5220	ecocardiograma
+T102	PROCEDURE 5311 5314	RMN
+T103	PROCEDURE 5348 5362	ecocardiograma
+T104	PROCEDURE 5544 5554	telemetría
+T105	PROCEDURE 5710 5713	ECG
+T106	PROCEDURE 5737 5755	test de flecainida
+T107	PROCEDURE 5758 5784	estudio electrofisiológico
+T108	PROCEDURE 5880 5909	Se implanta Holter subcutáneo
+T109	PROCEDURE 5935 5948	TAC coronario
+T110	PROCEDURE 6051 6071	radiografía de tórax
+T111	PROCEDURE 6233 6259	Estudio electrofisiológico
+T112	PROCEDURE 6270 6288	Holter implantable
+T113	PROCEDURE 6290 6303	TAC coronario
+T114	PROCEDURE 5111 5120	angio-TAC
+T115	PROCEDURE 3369 3372	RMN
+T135	PROCEDURE 1728 1737	Analítica
+T157	PROCEDURE 3918 3941	secuencias de perfusión
+T51	PROCEDURE 3989 4013	secuencias de viabilidad

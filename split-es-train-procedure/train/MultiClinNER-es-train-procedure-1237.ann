@@ -1,0 +1,41 @@
+T88	PROCEDURE 975 993	EXPLORACIÓN FÍSICA
+T89	PROCEDURE 1255 1276	Auscultación cardiaca
+T90	PROCEDURE 1328 1349	Auscultación pulmonar
+T91	PROCEDURE 1435 1468	palpación profunda ni superficial
+T92	PROCEDURE 1608 1611	ECG
+T93	PROCEDURE 1720 1740	Radiografía de tórax
+T94	PROCEDURE 1789 1808	Analítica sanguínea
+T95	PROCEDURE 2118 2127	Hemograma
+T96	PROCEDURE 2217 2263	Ecocardiograma transtorácico (con ecocontraste
+T97	PROCEDURE 3120 3150	Cateterismo cardiaco izquierdo
+T98	PROCEDURE 3152 3168	ventriculografía
+T99	PROCEDURE 3258 3273	Coronariografía
+T100	PROCEDURE 3394 3425	Pruebas de función respiratoria
+T101	PROCEDURE 3427 3439	espirometría
+T102	PROCEDURE 3564 3587	Prueba broncodilatadora
+T103	PROCEDURE 3646 3664	Electrocardiograma
+T104	PROCEDURE 4219 4267	tratamiento deplectivo con diurético intravenoso
+T105	PROCEDURE 4354 4393	ecocardiograma reglado con ecocontraste
+T106	PROCEDURE 4647 4662	coronariografía
+T107	PROCEDURE 5319 5334	betabloqueantes
+T108	PROCEDURE 5378 5393	betabloqueantes
+T109	PROCEDURE 5729 5738	estatinas
+T110	PROCEDURE 5866 5886	tratamiento con CPAP
+T111	PROCEDURE 6041 6054	anticoagulado
+T112	PROCEDURE 6194 6209	anticoagulación
+T113	PROCEDURE 6220 6243	cardioversión eléctrica
+T114	PROCEDURE 6324 6350	tratamiento anticoagulante
+T115	PROCEDURE 7118 7141	cardioversión eléctrica
+T116	PROCEDURE 7237 7252	ecocardiografía
+T119	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T121	PROCEDURE 7044 7048	IECA
+T122	PROCEDURE 1810 1820	bioquímica
+T123	PROCEDURE 7171 7201	control de frecuencia cardiaca
+T124	PROCEDURE 3992 4007	ecocardioscopia
+T125	PROCEDURE 4462 4477	ecocardioscopia
+T126	PROCEDURE 4620 4638	estudio etiológico
+T127	PROCEDURE 6519 6530	hematología
+T128	PROCEDURE 5396 5414	antialdosterónicos
+T129	PROCEDURE 6393 6396	AVK
+T32	PROCEDURE 1511 1534	Extremidades inferiores
+T33	PROCEDURE 1374 1381	Abdomen

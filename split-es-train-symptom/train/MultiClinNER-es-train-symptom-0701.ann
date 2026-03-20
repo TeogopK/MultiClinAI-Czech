@@ -1,0 +1,17 @@
+T1	SYMPTOM 1890 1912	deterioro hemodinámico
+T2	SYMPTOM 3828 3847	tinción de la orina
+T3	SYMPTOM 188 213	elevación del segmento ST
+T4	SYMPTOM 2092 2099	afebril
+T5	SYMPTOM 4009 4039	alteraciones en la coagulación
+T6	SYMPTOM 584 635	presión telediastólica ventricular izquierda normal
+T7	SYMPTOM 2243 2270	condensación parenquimatosa
+T8	SYMPTOM 3036 3073	hemocultivos que resultaron negativos
+T9	SYMPTOM 3884 3921	valores normales de urea y creatinina
+T10	SYMPTOM 3924 3943	diuresis conservada
+T11	SYMPTOM 1918 1929	hipotensión
+A1	RESULTADO T3
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	IMAGEN T7
+A5	RESULTADO T8
+A6	RESULTADO T9

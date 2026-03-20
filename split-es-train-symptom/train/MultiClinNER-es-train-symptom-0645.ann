@@ -1,0 +1,20 @@
+T1	SYMPTOM 997 1022	masa en colon descendente
+T2	SYMPTOM 1281 1324	masa nodular dolorosa a nivel del testículo
+T3	SYMPTOM 3706 3724	nódulos pulmonares
+T4	SYMPTOM 4071 4089	nódulos pulmonares
+T5	SYMPTOM 364 374	tumoración
+T6	SYMPTOM 1660 1714	tumoración dolorosa de 1-2 centímetros en el epidídimo
+T7	SYMPTOM 1738 1789	tumoración de menor tamaño en el cordón espermático
+T8	SYMPTOM 2792 2860	tumoración de 2 centímetros de diámetro en tercio medio de epidídimo
+T9	SYMPTOM 2876 2908	tumoración en cordón espermático
+T10	SYMPTOM 3107 3177	bordes quirúrgicos y el testículo derecho estaban libres de tumoración
+T11	SYMPTOM 566 573	pT3NoMo
+T12	SYMPTOM 826 868	analítica de orina dentro de la normalidad
+T13	SYMPTOM 3548 3579	elevación significativa del CEA
+T14	SYMPTOM 3730 3790	engrosamiento de la pared del colon cercano a la anastomosis
+A1	IMAGEN T1
+A2	IMAGEN T3
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	IMAGEN T14

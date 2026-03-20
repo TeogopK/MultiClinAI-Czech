@@ -1,0 +1,11 @@
+T1	SYMPTOM 650 703	tumoración en pared abdominal, a nivel de fosa ilíaca
+T2	SYMPTOM 396 402	G3-pT1
+T3	SYMPTOM 805 875	masa sólida de 7 x 6 cms en la musculatura de pared abdominal anterior
+T4	SYMPTOM 2097 2133	citologías de orina fueron negativas
+T5	SYMPTOM 247 269	hematuria macroscópica
+T6	SYMPTOM 1914 1944	depósito focal hipermetabólico
+T7	SYMPTOM 2288 2292	vivo
+T8	SYMPTOM 2295 2314	libre de enfermedad
+A1	IMAGEN T3
+A2	RESULTADO T4
+A3	IMAGEN T6

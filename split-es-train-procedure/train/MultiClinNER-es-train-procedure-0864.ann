@@ -1,0 +1,39 @@
+T68	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T69	PROCEDURE 694 730	angioplastia con balón farmacoactivo
+T70	PROCEDURE 1323 1341	Exploración física
+T71	PROCEDURE 1468 1489	Auscultación cardiaca
+T72	PROCEDURE 1534 1555	Auscultación pulmonar
+T73	PROCEDURE 1660 1678	palpación profunda
+T74	PROCEDURE 1854 1872	electrocardiograma
+T75	PROCEDURE 1874 1877	ECG
+T76	PROCEDURE 2053 2056	ECG
+T77	PROCEDURE 2427 2442	Coronariografía
+T78	PROCEDURE 2786 2848	intervencionismo coronario percutáneo (ICP) sobre lesión de CD
+T79	PROCEDURE 3016 3030	Ecocardiograma
+T80	PROCEDURE 3614 3623	Hemograma
+T81	PROCEDURE 4188 4191	ECG
+T82	PROCEDURE 4308 4323	Coronariografía
+T83	PROCEDURE 4362 4384	stent implantado en CD
+T84	PROCEDURE 4386 4398	ICP sobre DA
+T85	PROCEDURE 4830 4845	coronariografía
+T86	PROCEDURE 4995 5039	ICP constent farmacoactivo sobre la CD media
+T87	PROCEDURE 5120 5132	angioplastia
+T88	PROCEDURE 5194 5208	betabloqueante
+T89	PROCEDURE 5857 5927	angioplastia electiva sobre la lesión grave de la descendente anterior
+T90	PROCEDURE 6043 6072	rehabilitación cardiovascular
+T91	PROCEDURE 6342 6415	ICP electiva ambulatoria en segundo tiempo sobre lesión grave en DA media
+T108	PROCEDURE 3749 3759	Bioquímica
+T109	PROCEDURE 3714 3724	Hemostasia
+T110	PROCEDURE 6283 6340	ICP primaria con stentliberador de fármaco sobre CD media
+T111	PROCEDURE 2239 2268	Radiografía de tórax portátil
+T112	PROCEDURE 4049 4081	biomarcadores de daño miocárdico
+T114	PROCEDURE 2825 2828	ICP
+T115	PROCEDURE 2906 2960	se implanta stent farmacoactivo liberador de sirolimus
+T116	PROCEDURE 4461 4516	implantandostent farmacoactivo liberador de zotarolimus
+T118	PROCEDURE 4396 4429	DA: se predilata lesión con balon
+T137	PROCEDURE 3593 3602	Analítica
+T14	PROCEDURE 2855 2890	predilatar con balón semicompliante
+T30	PROCEDURE 4791 4815	se activó código infarto
+T119	PROCEDURE 5211 5225	hipolipemiante
+#2	AnnotatorNotes T110	intervención coronaria percutánea
+#3	AnnotatorNotes T114	 Intervencionismo coronario percutáneo

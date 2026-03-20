@@ -1,0 +1,8 @@
+T1	PROCEDURE 230 250	Physical examination
+T6	PROCEDURE 276 295	abdominal palpation
+T2	PROCEDURE 715 735	abdominal ultrasound
+T3	PROCEDURE 815 828	Doppler study
+T14	PROCEDURE 833 850	abdominal CT scan
+T5	PROCEDURE 1105 1124	thrombophilia study
+T18	PROCEDURE 1400 1413	MRI angiogram
+T4	PROCEDURE 1588 1619	oral gastrointestinal endoscopy

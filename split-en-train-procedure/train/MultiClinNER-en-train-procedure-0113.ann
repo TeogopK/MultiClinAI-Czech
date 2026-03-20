@@ -1,0 +1,14 @@
+T1	PROCEDURE 132 160	Ophthalmological examination
+T10	PROCEDURE 639 659	systemic examination
+T11	PROCEDURE 708 753	Magnetic resonance imaging (MRI) of the orbit
+T8	PROCEDURE 736 739	MRI
+T2	PROCEDURE 898 922	Corticosteroid treatment
+T7	PROCEDURE 1243 1260	incisional biopsy
+T14	PROCEDURE 1328 1352	Histological examination
+T15	PROCEDURE 1526 1584	Immunohistochemical staining for histiocytic cells (CD 68)
+T3	PROCEDURE 1724 1744	abdomino-thoracic CT
+T4	PROCEDURE 1746 1768	cranial and orbital CT
+T17	PROCEDURE 1770 1781	chest X-ray
+T5	PROCEDURE 1783 1809	abdomino-pelvic ultrasound
+T6	PROCEDURE 1814 1847	bone scan with Tc 99m diphosphate
+T20	PROCEDURE 2012 2037	course of corticosteroids

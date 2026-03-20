@@ -1,0 +1,15 @@
+T1	DISEASE 1265 1267	EF
+T2	DISEASE 83 85	EF
+T7	DISEASE 309 351	múltiples quistes parapiélicos bilaterales
+T8	DISEASE 1603 1605	EF
+T14	DISEASE 565 609	moderada-grave nefritis intersticial crónica
+T17	DISEASE 703 720	lesiones cutáneas
+T20	DISEASE 933 974	miocardiopatía por enfermedad de depósito
+T22	DISEASE 1013 1042	neuropatía de fibras pequeñas
+T25	DISEASE 1215 1234	córnea verticillata
+T30	DISEASE 2713 2741	insuficiencia renal terminal
+T37	DISEASE 3305 3324	fibrosis miocárdica
+T3	DISEASE 735 758	angioqueratomas en piel
+#3	AnnotatorNotes T1	   EF: enfermedad de Fabry
+#1	AnnotatorNotes T2	   EF: enfermedad de Fabry
+#2	AnnotatorNotes T8	   EF: enfermedad de Fabry

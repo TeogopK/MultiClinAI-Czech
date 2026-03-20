@@ -1,0 +1,40 @@
+T80	PROCEDURE 475 485	conización
+T81	PROCEDURE 1247 1265	electrocardiograma
+T82	PROCEDURE 1365 1375	ergometría
+T83	PROCEDURE 1628 1646	Exploración física
+T84	PROCEDURE 1854 1875	Auscultación cardiaca
+T85	PROCEDURE 1936 1961	Auscultación Respiratoria
+T86	PROCEDURE 2239 2257	Electrocardiograma
+T87	PROCEDURE 2259 2262	ECG
+T88	PROCEDURE 2400 2420	Radiografía de tórax
+T89	PROCEDURE 2639 2654	Perfil lipídico
+T90	PROCEDURE 2758 2773	Perfil hepático
+T91	PROCEDURE 2782 2800	Hormonas tiroideas
+T92	PROCEDURE 2924 2933	Hemograma
+T93	PROCEDURE 3010 3021	Coagulación
+T94	PROCEDURE 3030 3045	Ecocardiografía
+T97	PROCEDURE 4675 4718	Resonancia magnética nuclear (RMN) cardiaca
+T98	PROCEDURE 5481 5484	ECG
+T99	PROCEDURE 6373 6388	ecocardiografía
+T100	PROCEDURE 6541 6556	coronariografía
+T101	PROCEDURE 6654 6673	resonancia cardiaca
+T102	PROCEDURE 6951 6982	tratamiento con betabloqueantes
+T103	PROCEDURE 6984 7037	inhibidores de la enzima convertidora de angiotensina
+T104	PROCEDURE 7047 7100	antagonistas de los receptores de mineralocorticoides
+T105	PROCEDURE 7354 7379	tratamiento antidiabético
+T106	PROCEDURE 7886 7911	fármacos hipoglucemiantes
+T115	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T116	PROCEDURE 6682 6729	estudio etiológico de la disfunción ventricular
+T117	PROCEDURE 2857 2886	marcadores de daño miocárdico
+T118	PROCEDURE 1915 1927	se auscultan
+T119	PROCEDURE 4705 4708	RMN
+T131	PROCEDURE 7039 7043	IECA
+T132	PROCEDURE 7102 7105	ARM
+T134	PROCEDURE 2535 2544	Analítica
+T138	PROCEDURE 4567 4605	Coronariografía: acceso radial derecho
+T146	PROCEDURE 447 473	Intervenciones quirúrgicas
+T161	PROCEDURE 8143 8160	control analítico
+T164	PROCEDURE 2193 2204	exploración
+T176	PROCEDURE 6892 6914	tratamiento deplectivo
+T22	PROCEDURE 5725 5754	secuencias de miocardio negro
+#5	AnnotatorNotes T132	antagonistas e los receptores de mineralocorticoides

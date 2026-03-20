@@ -1,0 +1,54 @@
+T33	DISEASE 163 175	toxic habits
+T1	DISEASE 179 198	metabolic disorders
+T2	DISEASE 283 296	heart disease
+T77	DISEASE 300 312	sudden death
+T34	DISEASE 330 386	Infiltrating adenocarcinoma of the rectosigmoid junction
+T35	DISEASE 409 416	anaemia
+T36	DISEASE 645 669	cardiorespiratory arrest
+T44	DISEASE 680 701	pulmonary sarcoidosis
+T46	DISEASE 780 796	rectal neoplasia
+T3	DISEASE 821 854	biopsy of paratracheal adenopathy
+T37	DISEASE 884 908	cardiorespiratory arrest
+T38	DISEASE 1076 1100	cardiorespiratory arrest
+T47	DISEASE 1274 1298	ventricular fibrillation
+T39	DISEASE 1634 1658	cardiorespiratory arrest
+T53	DISEASE 1701 1707	angina
+T54	DISEASE 1721 1728	syncope
+T55	DISEASE 1805 1818	heart failure
+T10	DISEASE 2309 2348	Abdomen with a recent laparoscopic scar
+T56	DISEASE 2519 2536	venous thrombosis
+T40	DISEASE 3639 3663	cardiorespiratory arrest
+T48	DISEASE 3673 3697	ventricular fibrillation
+T57	DISEASE 4109 4137	bilateral hilar adenopathies
+T76	DISEASE 4146 4179	tracheal deviation or compression
+T58	DISEASE 4259 4275	pleural effusion
+T59	DISEASE 4279 4291	pneumothorax
+T17	DISEASE 4371 4406	eft ventricle (LV) slightly dilated
+T60	DISEASE 4782 4810	mild pulmonary insufficiency
+T61	DISEASE 4815 4835	pericardial effusion
+T19	DISEASE 4973 5006	congenital anatomical alterations
+T21	DISEASE 5042 5073	left ventricle slightly dilated
+T62	DISEASE 5540 5564	intramyocardial scarring
+T22	DISEASE 5632 5660	Left atrium slightly dilated
+T64	DISEASE 5831 5921	hypermetabolic adenopathies located in supraclavicular, mediastinal and hilar compartments
+T45	DISEASE 5957 5978	pulmonary sarcoidosis
+T23	DISEASE 6034 6065	suspicious of acute sarcoidotic
+T65	DISEASE 6209 6249	out-of-hospital cardiorespiratory arrest
+T49	DISEASE 6267 6291	ventricular fibrillation
+T50	DISEASE 6820 6844	ventricular fibrillation
+T67	DISEASE 6846 6869	ischaemic heart disease
+T68	DISEASE 6871 6894	ventricular arrhythmias
+T24	DISEASE 6954 7000	cardiac toxicity due to chemotherapy treatment
+T69	DISEASE 7119 7143	intramyocardial fibrosis
+T51	DISEASE 7202 7226	ventricular fibrillation
+T70	DISEASE 7257 7277	systemic sarcoidosis
+T71	DISEASE 7317 7336	cardiac sarcoidosis
+T42	DISEASE 7359 7383	cardiorespiratory arrest
+T79	DISEASE 7605 7642	intramyocardial inflammatory activity
+T78	DISEASE 7892 7904	sudden death
+T74	DISEASE 7958 7975	arrhythmic events
+T66	DISEASE 7988 8061	Out-of-hospital cardiorespiratory arrest due to ventricular fibrillation.
+T72	DISEASE 8062 8081	Cardiac sarcoidosis
+T63	DISEASE 8087 8111	intramyocardial scarring
+T75	DISEASE 8131 8166	active intramyocardial inflammation
+T73	DISEASE 8251 8269	coronary anomalies

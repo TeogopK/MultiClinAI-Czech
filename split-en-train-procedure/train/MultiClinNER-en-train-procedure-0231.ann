@@ -1,0 +1,11 @@
+T7	PROCEDURE 293 300	surgery
+T8	PROCEDURE 305 359	transfusion of two units of red blood cell concentrate
+T1	PROCEDURE 368 396	ophthalmological examination
+T11	PROCEDURE 491 512	Slit-lamp examination
+T2	PROCEDURE 579 597	Fundus examination
+T3	PROCEDURE 695 723	Optical coherence tomography
+T6	PROCEDURE 1139 1142	MRI
+T18	PROCEDURE 1232 1265	serology was requested for VLHT-1
+T9	PROCEDURE 1289 1360	enzyme immunoassay (EIA) for the detection of antibodies against VLHT-1
+T4	PROCEDURE 1309 1312	EIA
+T19	PROCEDURE 1404 1447	EIA samples were tested by strip immunoblot

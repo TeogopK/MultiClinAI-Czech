@@ -1,0 +1,17 @@
+T2	DISEASE 51 124	insuficiencia renal crónica terminal secundaria a enfermedad poliquística
+T24	DISEASE 665 680	sinusitis aguda
+T28	DISEASE 768 784	proptosis ocular
+T33	DISEASE 858 875	úlcera en paladar
+T39	DISEASE 1032 1065	úlcera extensa en el paladar duro
+T40	DISEASE 1067 1083	proptosis ocular
+T41	DISEASE 1085 1098	oftalmoplejia
+T42	DISEASE 1100 1136	pérdida de la visión por ojo derecho
+T48	DISEASE 1565 1574	sinusitis
+T50	DISEASE 1587 1611	absceso cerebral frontal
+T57	DISEASE 2557 2566	infección
+T56	DISEASE 337 358	rechazo celular agudo
+T61	DISEASE 1403 1407	MROC
+T63	DISEASE 1772 1791	infección por Mucor
+T64	DISEASE 839 847	diplopía
+T65	DISEASE 849 856	epífora
+#1	AnnotatorNotes T61	   MROC: mucormicosis rino-órbito-cerebral

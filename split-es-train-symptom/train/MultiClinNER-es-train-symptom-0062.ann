@@ -1,0 +1,14 @@
+T1	SYMPTOM 120 138	sudoración profusa
+T2	SYMPTOM 140 167	enrojecimiento generalizado
+T3	SYMPTOM 169 176	cefalea
+T4	SYMPTOM 196 208	dolor lumbar
+T5	SYMPTOM 342 364	eritema malar y palmar
+T6	SYMPTOM 445 495	elevación de catecolaminas y metanefrinas en orina
+T7	SYMPTOM 905 925	masa retroperitoneal
+T8	SYMPTOM 1442 1452	tumoración
+T9	SYMPTOM 1183 1225	defecto de repleción intracava infrarrenal
+T10	SYMPTOM 691 779	masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
+A1	RESULTADO T6
+A2	IMAGEN T7
+A3	IMAGEN T9
+A4	IMAGEN T10

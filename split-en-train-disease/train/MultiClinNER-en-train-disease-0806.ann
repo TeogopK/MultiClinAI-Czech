@@ -1,0 +1,59 @@
+T49	DISEASE 17 39	Allergic to penicillin
+T50	DISEASE 50 62	hypertension
+T52	DISEASE 66 83	diabetes mellitus
+T53	DISEASE 85 98	Dyslipidaemia
+T94	DISEASE 131 143	toxic habits
+T54	DISEASE 145 178	Primary autoimmune hypothyroidism
+T55	DISEASE 318 340	Hyperemesis gravidarum
+T56	DISEASE 443 458	cutaneous nevus
+T57	DISEASE 1562 1572	thrombosis
+T58	DISEASE 1636 1645	infection
+T95	DISEASE 2600 2606	BIRDHH
+T59	DISEASE 3104 3134	moderate left pleural effusion
+T60	DISEASE 3193 3218	biventricular dysfunction
+T61	DISEASE 3262 3287	Mild mitral insufficiency
+T62	DISEASE 3347 3376	severe pulmonary hypertension
+T51	DISEASE 3364 3376	hypertension
+T96	DISEASE 3465 3487	dilated left ventricle
+T63	DISEASE 3535 3544	aneurysms
+T97	DISEASE 3557 3568	Moderate MI
+T64	DISEASE 3584 3614	Severe ventricular dysfunction
+T98	DISEASE 3651 3693	myocardium with mild hypertrophic features
+T103	DISEASE 3733 3754	interstitial fibrosis
+T65	DISEASE 3826 3837	myocarditis
+T99	DISEASE 3907 3942	Severe left ventricular dysfunction
+T100	DISEASE 3958 3980	intramyocardial oedema
+T66	DISEASE 4033 4044	myocarditis
+T68	DISEASE 4049 4072	ischaemic heart disease
+T69	DISEASE 4428 4448	acute pyelonephritis
+T45	DISEASE 4731 4742	hypotension
+T70	DISEASE 4961 4975	anxiety crisis
+T71	DISEASE 5343 5369	bilateral pleural effusion
+T72	DISEASE 5439 5465	bilateral pleural effusion
+T101	DISEASE 5726 5750	respiratory claudication
+T82	DISEASE 5832 5856	sepsis of urinary origin
+T46	DISEASE 5965 5976	hypotension
+T102	DISEASE 6145 6167	acute pulmonary oedema
+T74	DISEASE 6406 6433	severe systolic dysfunction
+T76	DISEASE 6586 6603	cardiogenic shock
+T67	DISEASE 6831 6842	myocarditis
+T79	DISEASE 7062 7087	peripartum cardiomyopathy
+T83	DISEASE 7103 7127	sepsis of urinary origin
+T73	DISEASE 7299 7325	bilateral pleural effusion
+T47	DISEASE 7790 7801	hypotension
+T84	DISEASE 8118 8131	hyperkalaemia
+T48	DISEASE 8256 8267	hypotension
+T85	DISEASE 8456 8483	acute adrenal insufficiency
+T86	DISEASE 8605 8632	acute adrenal insufficiency
+T89	DISEASE 8673 8687	urinary sepsis
+T77	DISEASE 8692 8709	cardiogenic shock
+T91	DISEASE 8692 8742	cardiogenic shock due to peripartum cardiomyopathy
+T80	DISEASE 8717 8742	peripartum cardiomyopathy
+T87	DISEASE 9354 9381	acute adrenal insufficiency
+T93	DISEASE 9354 9402	acute adrenal insufficiency of autoimmune origin
+T90	DISEASE 9507 9521	Urinary sepsis
+T78	DISEASE 9546 9563	Cardiogenic shock
+T92	DISEASE 9546 9596	Cardiogenic shock due to peripartum cardiomyopathy
+T81	DISEASE 9571 9596	peripartum cardiomyopathy
+T75	DISEASE 9602 9629	severe systolic dysfunction
+T88	DISEASE 9630 9657	Acute adrenal insufficiency

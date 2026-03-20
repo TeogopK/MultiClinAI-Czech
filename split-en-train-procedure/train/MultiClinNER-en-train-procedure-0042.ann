@@ -1,0 +1,15 @@
+T1	PROCEDURE 361 381	Physical examination
+T2	PROCEDURE 547 568	Cervical spine X-rays
+T3	PROCEDURE 685 697	Cervical MRI
+T12	PROCEDURE 782 820	cervical computed tomography (CT) scan
+T9	PROCEDURE 812 814	CT
+T4	PROCEDURE 874 890	analytical study
+T14	PROCEDURE 938 958	complete blood count
+T10	PROCEDURE 1000 1024	phosphocalcic metabolism
+T16	PROCEDURE 1028 1040	scintigraphy
+T5	PROCEDURE 1186 1204	radiographic study
+T7	PROCEDURE 1351 1354	MRI
+T19	PROCEDURE 1515 1587	surgical treatment of the disc herniation via the anterolateral approach
+T6	PROCEDURE 1607 1614	surgery
+T11	PROCEDURE 1687 1733	posterior common vertebral ligament was opened
+T8	PROCEDURE 1809 1821	pathological

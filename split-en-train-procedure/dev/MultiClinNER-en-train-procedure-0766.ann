@@ -1,0 +1,28 @@
+T39	PROCEDURE 301 314	Imaging tests
+T22	PROCEDURE 450 464	echocardiogram
+T25	PROCEDURE 575 589	blood cultures
+T27	PROCEDURE 594 612	bronchial aspirate
+T26	PROCEDURE 660 674	blood cultures
+T1	PROCEDURE 793 801	isolated
+T2	PROCEDURE 823 831	cultures
+T28	PROCEDURE 926 936	antibiotic
+T29	PROCEDURE 941 954	anticoagulant
+T24	PROCEDURE 1026 1042	echocardiography
+T31	PROCEDURE 1151 1211	complete surgical resection under extracorporeal circulation
+T44	PROCEDURE 1256 1268	intervention
+T32	PROCEDURE 1307 1322	venous drainage
+T4	PROCEDURE 1324 1368	percutaneous cannulation of the femoral vein
+T5	PROCEDURE 1425 1474	cannulation of the superior vena cava were chosen
+T33	PROCEDURE 1478 1506	right longitudinal atriotomy
+T34	PROCEDURE 1511 1565	temporary release of the inferior vena cava tourniquet
+T35	PROCEDURE 1584 1626	resection of the pedicle implantation base
+T45	PROCEDURE 1632 1645	resected mass
+T6	PROCEDURE 1806 1814	resected
+T43	PROCEDURE 1869 1876	surgery
+T8	PROCEDURE 1882 1903	microbiological study
+T36	PROCEDURE 1925 1948	histopathological study
+T30	PROCEDURE 2013 2036	anticoagulant treatment
+T37	PROCEDURE 2081 2107	intravenous antibiotherapy
+T38	PROCEDURE 2167 2181	rehabilitation
+T23	PROCEDURE 2253 2267	echocardiogram
+T40	PROCEDURE 2310 2323	imaging tests

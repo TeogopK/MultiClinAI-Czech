@@ -1,0 +1,20 @@
+T79	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T80	PROCEDURE 718 738	physical examination
+T81	PROCEDURE 801 821	Cardiac auscultation
+T82	PROCEDURE 967 989	Pulmonary auscultation
+T83	PROCEDURE 1155 1172	Electrocardiogram
+T84	PROCEDURE 1476 1493	Electrocardiogram
+T96	PROCEDURE 2033 2044	Coagulation
+T85	PROCEDURE 2130 2141	Chest X-ray
+T86	PROCEDURE 2625 2653	Transthoracic echocardiogram
+T87	PROCEDURE 3062 3089	Angio-CT pulmonary arteries
+T88	PROCEDURE 3094 3104	cardiac CT
+T89	PROCEDURE 3460 3480	Coronary angiography
+T91	PROCEDURE 4121 4137	echocardiography
+T97	PROCEDURE 4139 4158	Depletive treatment
+T92	PROCEDURE 4219 4242	neurohormonal treatment
+T93	PROCEDURE 4409 4420	thoracic CT
+T90	PROCEDURE 4548 4568	Coronary angiography
+T94	PROCEDURE 5072 5096	endomyocardial resection
+T98	PROCEDURE 5100 5104	CABG
+T95	PROCEDURE 5214 5234	Oral anticoagulation

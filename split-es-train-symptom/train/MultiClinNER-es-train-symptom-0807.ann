@@ -1,0 +1,42 @@
+T1	SYMPTOM 174 188	dolor torácico
+T2	SYMPTOM 625 691	dolor torácico en hemitórax izquierdo de características opresivas
+T3	SYMPTOM 737 752	sudoración fría
+T4	SYMPTOM 870 875	dolor
+T5	SYMPTOM 1083 1096	palpitaciones
+T6	SYMPTOM 1112 1143	pérdida del nivel de conciencia
+T7	SYMPTOM 1165 1184	Buen estado general
+T8	SYMPTOM 1186 1200	normocoloreado
+T9	SYMPTOM 1203 1217	normohidratado
+T10	SYMPTOM 1219 1237	eupneico en reposo
+T11	SYMPTOM 1240 1250	consciente
+T12	SYMPTOM 1252 1261	orientado
+T14	SYMPTOM 1391 1397	soplos
+T15	SYMPTOM 1466 1495	murmullo vesicular conservado
+T17	SYMPTOM 1533 1558	sibilante teleespiratorio
+T18	SYMPTOM 1572 1634	pulsos radiales y pedios eran palpables, rítmicos y simétricos
+T19	SYMPTOM 1694 1707	ritmo sinusal
+T20	SYMPTOM 1752 1764	QRS estrecho
+T21	SYMPTOM 1770 1803	alteraciones en la repolarización
+T22	SYMPTOM 2070 2154	ventrículo izquierdo de diámetros y grosores parietales normales con FEVI conservada
+T23	SYMPTOM 2225 2261	Patrón de llenado transmitral normal
+T24	SYMPTOM 2430 2456	Aurículas de tamaño normal
+T25	SYMPTOM 2704 2729	dolor precordial opresivo
+T28	SYMPTOM 4399 4441	Aurículas y grandes vasos de tamaño normal
+T29	SYMPTOM 8006 8017	FEVI normal
+T13	SYMPTOM 2326 2356	Ventrículo derecho no dilatado
+T16	SYMPTOM 2488 2524	Vena cava inferior (VCI) no dilatada
+T26	SYMPTOM 4312 4385	Ventrículo derecho de volumen y función sistólica dentro de la normalidad
+T27	SYMPTOM 4177 4299	ventrículo izquierdo con grosor de sus paredes, volúmenes y función sistólica segmentaria y global dentro de la normalidad
+T116	SYMPTOM 3134 3225	Tronco coronario izquierdo, arteria descendente anterior y arteria circunfleja sin lesiones
+T118	SYMPTOM 1264 1275	colaborador
+T127	SYMPTOM 3705 3752	Tronco coronario izquierdo: largo, sin lesiones
+T128	SYMPTOM 3754 3788	Descendente anterior: sin lesiones
+T129	SYMPTOM 3790 3815	Circunfleja: sin lesiones
+T131	SYMPTOM 5459 5515	arterias descendente anterior y circunfleja sin lesiones
+T103	SYMPTOM 2282 2323	PTDVI globalmente estimadas como normales
+T105	SYMPTOM 2177 2223	alteraciones segmentarias en la contractilidad
+T106	SYMPTOM 2783 2866	descenso horizontal del ST máximo de 2 mm en 5 derivaciones (II, III, aVF, V4 y V5)
+T107	SYMPTOM 2991 3017	Capacidad funcional normal
+T108	SYMPTOM 3085 3132	Coronariografía (vídeo 2): dominancia izquierda
+T109	SYMPTOM 3505 3545	anatomía coronaria: dominancia izquierda
+T110	SYMPTOM 3547 3606	Ramo intermediario como variante anatómica de la normalidad

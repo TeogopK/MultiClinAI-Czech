@@ -1,0 +1,25 @@
+T19	DISEASE 252 271	respiratory failure
+T10	DISEASE 354 376	bilateral pneumothorax
+T11	DISEASE 382 399	pneumomediastinum
+T15	DISEASE 742 759	influenza A and B
+T16	DISEASE 891 904	HIV infection
+T17	DISEASE 957 992	severe community-acquired pneumonia
+T9	DISEASE 1473 1487	histoplasmosis
+T25	DISEASE 1763 1785	organisative pneumonia
+T12	DISEASE 1789 1799	vasculitis
+T13	DISEASE 1855 1869	progressive RF
+T14	DISEASE 1884 1896	septic shock
+T1	DISEASE 1901 1915	nephrotoxicity
+T28	DISEASE 2171 2204	autoimmune renopulmonary syndrome
+T29	DISEASE 2664 2735	Adenovirus pneumonia with secondary acute respiratory distress syndrome
+T4	DISEASE 2700 2735	acute respiratory distress syndrome
+T18	DISEASE 2791 2799	acute RF
+T33	DISEASE 3721 3728	anaemia
+T8	DISEASE 3744 3767	intra-alveolar bleeding
+T6	DISEASE 3787 3857	haematotoxicity may have been enhanced by previous linezolid treatment
+T34	DISEASE 3997 4017	severe renal failure
+T2	DISEASE 4783 4797	nephrotoxicity
+T7	DISEASE 5510 5525	viral infection
+T3	DISEASE 5653 5732	refractory respiratory failure secondary to acute respiratory distress syndrome
+T5	DISEASE 5697 5732	acute respiratory distress syndrome
+T38	DISEASE 5859 5900	fibrosis component in the lung parenchyma

@@ -1,0 +1,27 @@
+T35	PROCEDURE 699 719	Physical examination
+T50	PROCEDURE 815 817	AC
+T51	PROCEDURE 871 873	AP
+T36	PROCEDURE 1011 1028	Electrocardiogram
+T37	PROCEDURE 1030 1033	ECG
+T38	PROCEDURE 1275 1303	Transthoracic echocardiogram
+T39	PROCEDURE 1883 1892	haemogram
+T52	PROCEDURE 1894 1905	coagulation
+T53	PROCEDURE 1907 1921	renal function
+T54	PROCEDURE 1923 1935	electrolytes
+T55	PROCEDURE 1937 1950	liver profile
+T4	PROCEDURE 1952 1964	iron profile
+T56	PROCEDURE 1969 1984	thyroid profile
+T40	PROCEDURE 1988 2011	Cardiac catheterisation
+T42	PROCEDURE 2013 2033	coronary angiography
+T43	PROCEDURE 2144 2155	Cardiac MRI
+T41	PROCEDURE 2336 2359	Cardiac catheterisation
+T44	PROCEDURE 2361 2395	percutaneous coronary intervention
+T45	PROCEDURE 2398 2409	angioplasty
+T5	PROCEDURE 2414 2501	implantation of 3 drug-eluting stents on proximal and middle anterior descending artery
+T46	PROCEDURE 2507 2518	angioplasty
+T47	PROCEDURE 2638 2649	angioplasty
+T6	PROCEDURE 2654 2764	implantation of 1 drug-eluting stent on the distal right coronary artery and posterior interventricular artery
+T7	PROCEDURE 2769 2814	1 drug-eluting stent at the level of the crux
+T48	PROCEDURE 3374 3404	percutaneous revascularisation
+T11	PROCEDURE 3421 3485	complete revascularisation was achieved with drug-eluting stents
+T49	PROCEDURE 3895 3959	Complete percutaneous revascularisation with drug-eluting stents

@@ -1,0 +1,37 @@
+T18	DISEASE 86 95	ex-smoker
+T19	DISEASE 389 396	syncope
+T1	DISEASE 477 540	complete atrioventricular block (AVB) with ST-segment elevation
+T2	DISEASE 510 513	AVB
+T20	DISEASE 1013 1026	atheromatosis
+T34	DISEASE 1066 1130	subtotal lesion in the middle third of the right coronary artery
+T3	DISEASE 1219 1238	coronary dissection
+T35	DISEASE 2537 2556	mild LV dysfunction
+T4	DISEASE 2614 2646	dilatation of the right chambers
+T5	DISEASE 2652 2707	very severe right ventricular (RV) systolic dysfunction
+T6	DISEASE 2809 2838	Acute tricuspid insufficiency
+T21	DISEASE 2916 2941	mild mitral insufficiency
+T22	DISEASE 2954 2974	pericardial effusion
+T7	DISEASE 3280 3301	atheromatous arteries
+T8	DISEASE 3371 3410	Right coronary artery: ostial occlusion
+T24	DISEASE 3610 3618	thrombus
+T9	DISEASE 3798 3823	acute right heart failure
+T10	DISEASE 3825 3827	HF
+T11	DISEASE 3886 3934	very severe dilatation and dysfunction of the RV
+T12	DISEASE 4184 4210	total occlusion of the RCA
+T13	DISEASE 4227 4259	subacute thrombosis of the stent
+T25	DISEASE 4380 4388	thrombus
+T14	DISEASE 4724 4774	continuity solution in the interventricular septum
+T33	DISEASE 4806 4822	left-right shunt
+T15	DISEASE 4877 4902	ventricular septal defect
+T16	DISEASE 4904 4907	VSD
+T17	DISEASE 4948 4975	acute myocardial infarction
+T23	DISEASE 4977 4980	AMI
+T27	DISEASE 5411 5430	respiratory failure
+T32	DISEASE 5876 5899	preoperative hypoxaemia
+T26	DISEASE 6054 6088	Inferior and right ventricular AMI
+T28	DISEASE 6116 6147	Thrombotic occlusion of the RCA
+T36	DISEASE 6218 6237	coronary dissection
+T37	DISEASE 6289 6343	Subacute thrombosis of the stents implanted in the RCA
+T29	DISEASE 6364 6372	Acute HF
+T30	DISEASE 6377 6418	cardiogenic shock secondary to RV failure
+T31	DISEASE 6420 6452	Ruptured interventricular septum

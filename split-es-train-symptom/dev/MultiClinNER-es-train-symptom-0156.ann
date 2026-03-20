@@ -1,0 +1,10 @@
+T1	SYMPTOM 316 327	irresecable
+T2	SYMPTOM 740 768	dolor e hinchazón mandibular
+T3	SYMPTOM 945 961	erosionaba hueso
+T4	SYMPTOM 813 865	tumoración vegetante en la encía mandibular anterior
+T5	SYMPTOM 1321 1331	tumoración
+T6	SYMPTOM 1087 1099	neoformación
+T7	SYMPTOM 1752 1758	éxitus
+T8	SYMPTOM 1723 1743	deterioro progresivo
+A1	IMAGEN T3
+A2	EXITUS T7

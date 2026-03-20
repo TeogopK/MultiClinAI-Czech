@@ -1,0 +1,39 @@
+T2	SYMPTOM 1061 1074	palpitaciones
+T3	SYMPTOM 1088 1107	sensación de disnea
+T4	SYMPTOM 1110 1148	opresión torácica irradiada a garganta
+T5	SYMPTOM 1160 1170	sudor frío
+T6	SYMPTOM 1173 1187	visión borrosa
+T7	SYMPTOM 1341 1398	onda P retrógrada inscrita en la porción terminal del QRS
+T8	SYMPTOM 1470 1483	ritmo sinusal
+T10	SYMPTOM 1743 1783	disnea hasta hacerse a mínimos esfuerzos
+T11	SYMPTOM 1817 1831	dolor torácico
+T12	SYMPTOM 1882 1895	palpitaciones
+T13	SYMPTOM 1897 1907	presíncope
+T14	SYMPTOM 2031 2060	Buen estado general en reposo
+T15	SYMPTOM 2066 2078	disnea basal
+T16	SYMPTOM 2080 2112	Funciones superiores conservadas
+T17	SYMPTOM 2114 2136	Buena perfusión distal
+T18	SYMPTOM 2138 2163	Hemodinámicamente estable
+T19	SYMPTOM 2214 2245	tonos rítmicos no taquicárdicos
+T20	SYMPTOM 2247 2262	Soplo sistólico
+T22	SYMPTOM 2403 2416	ritmo sinusal
+T23	SYMPTOM 2503 2522	ST infradesnivelado
+T24	SYMPTOM 2805 2847	aurícula izquierda de dimensiones normales
+T27	SYMPTOM 4061 4133	Ventrículo derecho de dimensiones normales, con función sistólica normal
+T36	SYMPTOM 6950 7005	mutación con clara significación patogénica, gen MYBPC3
+T37	SYMPTOM 8259 8265	disnea
+T38	SYMPTOM 8315 8323	ortopnea
+T39	SYMPTOM 8325 8344	molestias torácicas
+T40	SYMPTOM 8361 8374	palpitaciones
+T41	SYMPTOM 8408 8419	presíncopes
+T121	SYMPTOM 1299 1310	taquicardia
+T25	SYMPTOM 3747 3793	alteraciones segmentarias de la contractilidad
+T47	SYMPTOM 3605 3644	grosor miocárdico severamente aumentado
+T52	SYMPTOM 4211 4253	Vena cava inferior de dimensiones normales
+T127	SYMPTOM 3408 3452	Ventrículo izquierdo de dimensiones normales
+T129	SYMPTOM 7150 7182	arterias coronarias sin lesiones
+T132	SYMPTOM 2433 2456	crecimiento biauricular
+T29	SYMPTOM 1314 1325	QRS regular
+T35	SYMPTOM 2527 2548	T plana inferolateral
+T72	SYMPTOM 2715 2745	Complejos auriculares aislados
+T28	SYMPTOM 9521 9606	estudio genético positivo para el gen que codifica una proteína myosin-binding tipo C

@@ -1,0 +1,35 @@
+T39	DISEASE 127 139	dislipidemia
+T40	DISEASE 141 162	hipertensión arterial
+T41	DISEASE 164 173	sobrepeso
+T42	DISEASE 183 207	diabetes mellitus tipo 2
+T44	DISEASE 474 487	histiocitosis
+T45	DISEASE 756 775	EPOC fenotipo mixto
+T46	DISEASE 1548 1557	serositis
+T48	DISEASE 2468 2493	trombosis venosa profunda
+T49	DISEASE 2495 2498	TVP
+T50	DISEASE 2777 2792	derrame pleural
+T51	DISEASE 2795 2817	condensación neumónica
+T52	DISEASE 3035 3050	derrame pleural
+T53	DISEASE 3053 3075	condensación neumónica
+T54	DISEASE 3103 3124	fibrilación auricular
+T55	DISEASE 3237 3262	Extrasistolia ventricular
+T56	DISEASE 5000 5013	valvulopatías
+T57	DISEASE 5080 5105	Insuficiencia tricuspídea
+T58	DISEASE 5200 5225	Derrame pericárdico grave
+T59	DISEASE 5939 5996	shock obstructivo en el contexto de taponamiento cardiaco
+T60	DISEASE 6821 6840	derrame pericárdico
+T61	DISEASE 7049 7106	Shock obstructivo en el contexto de taponamiento cardiaco
+T62	DISEASE 7108 7133	Derrame pericárdico grave
+T63	DISEASE 7149 7170	taponamiento cardiaco
+T64	DISEASE 7387 7400	Poliserositis
+T65	DISEASE 7413 7436	Síndrome constitucional
+T66	DISEASE 7458 7485	síndrome de Erdheim-Chester
+T67	DISEASE 7487 7526	histiocitosis esclerosante poliostótica
+T68	DISEASE 7324 7356	Fibrilación auricular permanente
+T69	DISEASE 3159 3204	Hemibloqueo anterior izquierdo del haz de His
+T70	DISEASE 237 269	fibrilación auricular permanente
+T71	DISEASE 5107 5109	IT
+T72	DISEASE 5137 5164	Vena cava inferior dilatada
+T73	DISEASE 5414 5469	shock obstructivo secundario a un taponamiento cardiaco
+T171	DISEASE 6505 6524	líquido pericárdico
+#1	AnnotatorNotes T71	 insuficiencia tricuspide

@@ -1,0 +1,24 @@
+T15	PROCEDURE 391 414	anti-inflammatory drugs
+T1	PROCEDURE 467 489	orotracheal intubation
+T4	PROCEDURE 629 673	simple cranial computed tomography (CT) scan
+T6	PROCEDURE 665 667	CT
+T10	PROCEDURE 840 862	evacuate the haematoma
+T18	PROCEDURE 867 902	place an external ventricular drain
+T14	PROCEDURE 910 917	surgery
+T20	PROCEDURE 991 1005	CT angiography
+T11	PROCEDURE 1010 1032	cerebral arteriography
+T12	PROCEDURE 1204 1212	sedation
+T5	PROCEDURE 1304 1328	neurological examination
+T24	PROCEDURE 1578 1591	was extubated
+T7	PROCEDURE 1822 1832	intubation
+T16	PROCEDURE 1837 1839	MV
+T2	PROCEDURE 1905 1954	magnetic resonance imaging (MRI) of the brainstem
+T17	PROCEDURE 1933 1936	MRI
+T3	PROCEDURE 2003 2047	evacuation of the right cerebellar haematoma
+T27	PROCEDURE 2140 2147	CT scan
+T8	PROCEDURE 2177 2202	percutaneous tracheostomy
+T9	PROCEDURE 2207 2238	invasive mechanical ventilation
+T19	PROCEDURE 2240 2243	IMV
+T21	PROCEDURE 2347 2369	close the tracheostoma
+T30	PROCEDURE 2393 2455	non-invasive mechanical ventilation (NIV) with nasobuccal mask
+T13	PROCEDURE 2430 2433	NIV

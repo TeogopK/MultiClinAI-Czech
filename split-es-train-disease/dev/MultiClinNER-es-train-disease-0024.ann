@@ -1,0 +1,17 @@
+T4	DISEASE 23 46	leiomiosarcoma de colon
+T6	DISEASE 1510 1577	obstrucción de intestino delgado por invaginación de íleon terminal
+T11	DISEASE 1547 1577	invaginación de íleon terminal
+T12	DISEASE 1724 1738	leiomiosarcoma
+T13	DISEASE 82 101	metástasis pulmonar
+T19	DISEASE 870 903	leiomiosarcoma primario de pulmón
+T22	DISEASE 156 195	enfermedad pulmonar obstructiva crónica
+T27	DISEASE 613 646	tumoración de estirpe mesenquimal
+T28	DISEASE 980 994	leiomiosarcoma
+T34	DISEASE 264 292	adenocarcinoma de endometrio
+T36	DISEASE 731 745	leiomiosarcoma
+T40	DISEASE 2027 2057	tumor pulmonar era metastásico
+T41	DISEASE 1404 1427	invaginación intestinal
+T48	DISEASE 1441 1455	lesión tumoral
+T53	DISEASE 1990 1993	LMS
+T54	DISEASE 1137 1148	rectorragia
+#1	AnnotatorNotes T53	  LMS: leiomiosarcoma

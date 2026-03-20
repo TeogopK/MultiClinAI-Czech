@@ -1,0 +1,30 @@
+T78	PROCEDURE 67 105	revascularised ischaemic heart disease
+T59	PROCEDURE 307 332	hygienic-dietary measures
+T60	PROCEDURE 480 516	highly active antiretroviral therapy
+T1	PROCEDURE 518 523	HAART
+T77	PROCEDURE 715 737	Surgical interventions
+T61	PROCEDURE 739 767	right inguinal herniorrhaphy
+T62	PROCEDURE 1138 1147	analgesic
+T63	PROCEDURE 1441 1464	cardiac catheterisation
+T75	PROCEDURE 1467 1487	PHYSICAL EXAMINATION
+T64	PROCEDURE 1784 1804	Cardiac auscultation
+T65	PROCEDURE 1828 1850	Pulmonary auscultation
+T66	PROCEDURE 2072 2089	ELECTROCARDIOGRAM
+T67	PROCEDURE 2091 2094	ECG
+T76	PROCEDURE 2258 2267	ANALYTICS
+T4	PROCEDURE 2699 2717	THORAX RADIOGRAPHY
+T5	PROCEDURE 2792 2811	CARDIAC CATHETERISM
+T8	PROCEDURE 3006 3048	Primary percutaneous coronary intervention
+T7	PROCEDURE 3050 3053	PCI
+T9	PROCEDURE 3098 3179	implantation of a zotarolimus-eluting stent in the proximal right coronary artery
+T69	PROCEDURE 3213 3227	echocardiogram
+T70	PROCEDURE 3723 3742	primary angioplasty
+T73	PROCEDURE 3935 3974	angiotensin-converting enzyme inhibitor
+T11	PROCEDURE 3976 3989	ACE inhibitor
+T74	PROCEDURE 3995 4007	beta-blocker
+T68	PROCEDURE 4125 4128	ECG
+T13	PROCEDURE 4459 4479	antiretroviral drugs
+T14	PROCEDURE 4658 4674	laboratory tests
+T72	PROCEDURE 4731 4751	liver function tests
+T15	PROCEDURE 4862 4872	blood test
+T71	PROCEDURE 5027 5080	Primary angioplasty on proximal right coronary artery

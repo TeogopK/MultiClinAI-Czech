@@ -1,0 +1,75 @@
+T1	SYMPTOM 503 512	dizziness
+T2	SYMPTOM 529 543	loss of vision
+T53	SYMPTOM 657 675	lost consciousness
+T3	SYMPTOM 729 749	sphincter relaxation
+T4	SYMPTOM 753 775	tonic-clonic movements
+T5	SYMPTOM 870 887	syncopal episodes
+T6	SYMPTOM 891 903	palpitations
+T54	SYMPTOM 927 950	General state of health
+T7	SYMPTOM 952 978	Well hydrated and perfused
+T8	SYMPTOM 996 1011	Eupneic at rest
+T9	SYMPTOM 1119 1140	jugular ingurgitation
+T10	SYMPTOM 1159 1189	Cardiac auscultation: rhythmic
+T11	SYMPTOM 1215 1222	murmurs
+T55	SYMPTOM 1226 1244	audible extratonos
+T12	SYMPTOM 1270 1296	preserved vesicular murmur
+T57	SYMPTOM 1298 1324	Abdomen: soft, non-painful
+T13	SYMPTOM 1329 1335	masses
+T56	SYMPTOM 1339 1348	megaliths
+T15	SYMPTOM 1350 1372	Lower limbs: no oedema
+T16	SYMPTOM 1431 1468	Distal pulses present and symmetrical
+T17	SYMPTOM 1524 1535	normal axis
+T19	SYMPTOM 1537 1545	short PR
+T21	SYMPTOM 1574 1645	positive delta wave in I, inferior face and from V1-V6, negative in avL
+T22	SYMPTOM 1648 1656	wide QRS
+T58	SYMPTOM 1712 1745	marked repolarisation alterations
+T59	SYMPTOM 1751 1814	ST underleveling and negative T waves in II, III, aVF and V1-V6
+T60	SYMPTOM 1829 1856	normal cardiothoracic index
+T50	SYMPTOM 1882 1894	condensation
+T48	SYMPTOM 1896 1921	Free costophrenic sinuses
+T23	SYMPTOM 1923 1945	Normal lung parenchyma
+T61	SYMPTOM 2108 2119	ions normal
+T62	SYMPTOM 2121 2170	Hepatobiliary profile and thyroid hormones normal
+T63	SYMPTOM 2205 2231	left ventricle not dilated
+T49	SYMPTOM 2500 2530	LVEF at the limit of normality
+T64	SYMPTOM 2625 2651	normal transmitral pattern
+T65	SYMPTOM 2802 2862	Right ventricle of normal size with normal systolic function
+T25	SYMPTOM 2878 2896	Normal left atrium
+T26	SYMPTOM 2898 2917	Normal right atrium
+T66	SYMPTOM 2919 2945	Normal size thoracic aorta
+T27	SYMPTOM 2966 3003	Pericardium without relevant findings
+T14	SYMPTOM 3008 3039	intracavitary masses or thrombi
+T28	SYMPTOM 3241 3251	chest pain
+T29	SYMPTOM 3255 3263	dyspnoea
+T68	SYMPTOM 3398 3424	repolarisation alterations
+T67	SYMPTOM 3488 3514	repolarisation alterations
+T30	SYMPTOM 3900 3902	RS
+T69	SYMPTOM 3998 4021	Occasional nodal rhythm
+T31	SYMPTOM 4356 4399	Global and segmental mobility are preserved
+T32	SYMPTOM 4608 4671	deep crypts located at the inferior junction of both ventricles
+T51	SYMPTOM 4779 4830	right ventricle is neither dilated nor hypertrophic
+T70	SYMPTOM 4864 4903	Global and segmental mobility preserved
+T34	SYMPTOM 4958 4982	atria are of normal size
+T35	SYMPTOM 5240 5272	Preserved biventricular function
+T36	SYMPTOM 5337 5354	sinus tachycardia
+T18	SYMPTOM 5367 5378	normal axis
+T37	SYMPTOM 5391 5401	narrow QRS
+T71	SYMPTOM 5403 5443	non-pathological q wave in inferior face
+T72	SYMPTOM 5494 5521	negative T in inferior face
+T38	SYMPTOM 5523 5533	normal QTc
+T39	SYMPTOM 5652 5668	syncopal episode
+T40	SYMPTOM 5712 5724	sinus rhythm
+T20	SYMPTOM 5730 5738	short PR
+T73	SYMPTOM 5745 5819	marked positive delta wave in inferior aspect and V1-V6 and negative in aV
+T74	SYMPTOM 5886 5960	Laboratory tests and chest X-ray were performed, compatible with normality
+T24	SYMPTOM 6000 6026	non-dilated left ventricle
+T42	SYMPTOM 6199 6213	preserved LVEF
+T43	SYMPTOM 6215 6264	right ventricle of normal morphology and function
+T33	SYMPTOM 6826 6889	deep crypts located at the inferior junction of both ventricles
+T44	SYMPTOM 7048 7089	preserved biventricular systolic function
+T75	SYMPTOM 7749 7794	concentric decremental anterograde conduction
+T45	SYMPTOM 8761 8773	asymptomatic
+T41	SYMPTOM 8852 8864	sinus rhythm
+T46	SYMPTOM 8929 8977	marked alterations in ventricular repolarisation
+T47	SYMPTOM 9404 9431	preserved systolic function
+T52	SYMPTOM 9599 9663	Variant of uncertain significance in the ACTC1 gene (p.Pro260Leu

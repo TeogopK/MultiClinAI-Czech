@@ -1,0 +1,39 @@
+T99	PROCEDURE 230 248	exploración física
+T100	PROCEDURE 890 908	exploración física
+T101	PROCEDURE 1146 1164	exploración física
+T102	PROCEDURE 1209 1212	ECG
+T103	PROCEDURE 1513 1524	Rx de tórax
+T104	PROCEDURE 1585 1594	Angio TAC
+T105	PROCEDURE 1919 1947	Ecocardiograma transtorácico
+T106	PROCEDURE 2382 2411	Resonancia magnética cardiaca
+T107	PROCEDURE 3244 3264	Cateterismo cardiaco
+T108	PROCEDURE 3309 3320	aortografía
+T109	PROCEDURE 3546 3575	Ecocardiograma transesofágico
+T110	PROCEDURE 4140 4149	hemograma
+T111	PROCEDURE 4229 4238	angio TAC
+T112	PROCEDURE 4384 4393	angio TAC
+T113	PROCEDURE 4745 4757	hemocultivos
+T114	PROCEDURE 4803 4831	ecocardiograma transtorácico
+T115	PROCEDURE 4892 4914	estudio transesofágico
+T116	PROCEDURE 5344 5347	ECG
+T117	PROCEDURE 5439 5478	resonancia magnética cardiaca de estrés
+T118	PROCEDURE 5543 5553	resonancia
+T119	PROCEDURE 5882 5914	cateterismo cardiaco diagnóstico
+T120	PROCEDURE 6135 6174	cardioversión farmacológica y eléctrica
+T121	PROCEDURE 6344 6356	hemocultivos
+T122	PROCEDURE 6580 6602	intubación orotraqueal
+T123	PROCEDURE 6605 6625	ventilación mecánica
+T124	PROCEDURE 6636 6677	soporte inotrópico con drogas vasoactivas
+T125	PROCEDURE 6690 6719	ecocardiograma transesofácico
+T126	PROCEDURE 6736 6744	intubado
+T127	PROCEDURE 7569 7583	ecocardiograma
+T128	PROCEDURE 6945 6957	intervención
+T129	PROCEDURE 4116 4126	bioquímica
+T130	PROCEDURE 4011 4028	enzimas hepáticas
+T131	PROCEDURE 1423 1456	marcadores de necrosis miocárdica
+T132	PROCEDURE 4519 4577	marcadores de necrosis miocárdica e insuficiencia cardiaca
+T133	PROCEDURE 1365 1374	Analítica
+T141	PROCEDURE 7257 7264	cirugía
+T142	PROCEDURE 7429 7436	cirugía
+T170	PROCEDURE 2934 2961	realce tardío con gadolinio
+T138	PROCEDURE 4476 4501	estudio de dolor torácico

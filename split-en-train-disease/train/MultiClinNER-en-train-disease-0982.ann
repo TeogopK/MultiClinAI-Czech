@@ -1,0 +1,38 @@
+T46	DISEASE 189 208	Former cocaine user
+T43	DISEASE 210 216	Smoker
+T45	DISEASE 227 234	drinker
+T21	DISEASE 236 254	Nodal tuberculosis
+T1	DISEASE 285 349	necrotizing granulomatous lymphadenitis with tuberculous profile
+T22	DISEASE 351 359	Syphilis
+T23	DISEASE 361 388	Deep vein thrombosis of DID
+T24	DISEASE 393 419	portomesenteric thrombosis
+T2	DISEASE 428 440	anterior AMI
+T25	DISEASE 680 692	previous AMI
+T3	DISEASE 983 986	AMI
+T26	DISEASE 1408 1420	Hepatomegaly
+T27	DISEASE 1466 1469	DVT
+T4	DISEASE 1672 1691	LV slightly dilated
+T28	DISEASE 1791 1806	apical aneurysm
+T5	DISEASE 2030 2070	thrombus is observed adhered to the apex
+T6	DISEASE 2108 2156	Mitral valve with moderate central regurgitation
+T47	DISEASE 2254 2276	biauricular dilatation
+T44	DISEASE 2327 2359	Moderate tricuspid regurgitation
+T32	DISEASE 2397 2417	pericardial effusion
+T34	DISEASE 2434 2446	Cardiomegaly
+T7	DISEASE 2531 2534	AMI
+T29	DISEASE 2612 2627	apical aneurysm
+T35	DISEASE 2635 2657	intracavitary thrombus
+T36	DISEASE 3277 3295	Mild atheromatosis
+T10	DISEASE 3330 3409	Severe single-vessel coronary artery disease due to distal occlusion of the LAD
+T37	DISEASE 3424 3467	dilated LV with severe systolic dysfunction
+T48	DISEASE 3480 3524	Saccular dilatation at the level of the apex
+T38	DISEASE 4053 4066	heart failure
+T30	DISEASE 4217 4258	anterior AMI evolved with apical aneurysm
+T11	DISEASE 4303 4325	rupture of the LV wall
+T33	DISEASE 4347 4367	pericardial effusion
+T39	DISEASE 4466 4491	left ventricular aneurysm
+T13	DISEASE 4580 4607	rupture of the LV free wall
+T14	DISEASE 4947 5020	Evolved Killip II/IV anterior infarction with severe systolic dysfunction
+T40	DISEASE 5024 5072	Apical aneurysm with intraventricular thrombosis
+T41	DISEASE 5120 5131	LV aneurysm
+T42	DISEASE 5154 5179	intraventricular thrombus

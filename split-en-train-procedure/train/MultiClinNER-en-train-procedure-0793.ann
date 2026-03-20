@@ -1,0 +1,21 @@
+T45	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T37	PROCEDURE 272 284	radiotherapy
+T38	PROCEDURE 286 298	chemotherapy
+T39	PROCEDURE 303 318	hormone therapy
+T41	PROCEDURE 639 662	cardiac catheterisation
+T40	PROCEDURE 1058 1081	stress echocardiography
+T44	PROCEDURE 1109 1130	rest and stress SPECT
+T42	PROCEDURE 1233 1256	cardiac catheterisation
+T46	PROCEDURE 1295 1315	PHYSICAL EXAMINATION
+T47	PROCEDURE 1420 1440	Cardiac auscultation
+T48	PROCEDURE 1481 1503	Pulmonary auscultation
+T49	PROCEDURE 1613 1616	ECG
+T50	PROCEDURE 1750 1753	ECG
+T57	PROCEDURE 2065 2081	Thyroid function
+T51	PROCEDURE 2228 2239	Chest X-ray
+T52	PROCEDURE 2407 2437	Transthoracic echocardiography
+T53	PROCEDURE 2775 2794	Valsalva manoeuvres
+T54	PROCEDURE 3639 3726	synchronised resting myocardial perfusion SPECT: radiopharmaceutical: 99mTc-tetrofosmin
+T55	PROCEDURE 3765 3774	Ergometry
+T56	PROCEDURE 4063 4080	low-dose SPECT/CT
+T43	PROCEDURE 4536 4559	cardiac catheterisation

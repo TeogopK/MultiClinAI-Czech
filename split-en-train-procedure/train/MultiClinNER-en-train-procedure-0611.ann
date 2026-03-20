@@ -1,0 +1,20 @@
+T11	PROCEDURE 205 240	irradiation to the ipsilateral knee
+T1	PROCEDURE 558 578	Physical examination
+T5	PROCEDURE 657 682	bilateral percussion fist
+T13	PROCEDURE 718 734	Laboratory tests
+T14	PROCEDURE 939 955	laboratory tests
+T3	PROCEDURE 1027 1051	blood and urine cultures
+T17	PROCEDURE 1053 1086	joint fluid puncture and cultures
+T19	PROCEDURE 1088 1134	CT scan of the abdominal and lumbosacral spine
+T2	PROCEDURE 1136 1182	magnetic resonance imaging of the lumbar spine
+T7	PROCEDURE 1187 1220	scintigraphy with Ga-67/MDP-Tc-99
+T22	PROCEDURE 1226 1272	CT scan of the abdominal and lumbosacral spine
+T12	PROCEDURE 1465 1488	MRI of the lumbar spine
+T23	PROCEDURE 1723 1751	administration of gadolinium
+T15	PROCEDURE 1854 1885	body scan with Ga-67/MDP-Tc-99M
+T10	PROCEDURE 2192 2222	empirical antibiotic treatment
+T4	PROCEDURE 2301 2338	blood, urine and joint fluid cultures
+T8	PROCEDURE 2392 2403	antibiogram
+T30	PROCEDURE 2523 2534	antibiotics
+T6	PROCEDURE 2539 2551	antipyretics
+T9	PROCEDURE 2807 2831	resuscitation manoeuvres

@@ -1,0 +1,16 @@
+T1	SYMPTOM 93 99	fiebre
+T2	SYMPTOM 164 175	escalofríos
+T3	SYMPTOM 177 187	sudoración
+T4	SYMPTOM 189 196	astenia
+T5	SYMPTOM 199 207	anorexia
+T6	SYMPTOM 279 308	auscultación cardiaca rítmica
+T7	SYMPTOM 497 528	radiografía de tórax fue normal
+T8	SYMPTOM 929 994	crecimiento bacteriano en 3 de las 4 botellas de los hemocultivos
+T9	SYMPTOM 1751 1801	pruebas serológicas para Brucella fueron negativas
+T10	SYMPTOM 1873 1891	episodios febriles
+T83	SYMPTOM 325 351	soplo multifocal sistólico
+T85	SYMPTOM 1002 1058	tinción de Gram directa no se observaron microorganismos
+T86	SYMPTOM 2752 2816	crecimiento tardío en el hemocultivo decocobacilos gramnegativos
+T39	SYMPTOM 439 475	series blanca y plaquetaria normales
+T29	SYMPTOM 1201 1265	tinción de Gram se correspondieron con cocobacilos gramnegativos
+T87	SYMPTOM 2086 2129	microscopia óptica de bajo aumento colonias

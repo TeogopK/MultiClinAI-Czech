@@ -1,0 +1,20 @@
+T2	SYMPTOM 535 566	alteración de pruebas hepáticas
+T3	SYMPTOM 653 688	Ecografía hepática sin alteraciones
+T4	SYMPTOM 811 858	dolor torácico difuso el día anterior, opresivo
+T5	SYMPTOM 1090 1109	Buen estado general
+T6	SYMPTOM 1234 1268	Auscultación cardiopulmonar normal
+T7	SYMPTOM 1270 1301	Abdomen y extremidades normales
+T8	SYMPTOM 1390 1403	ritmo sinusal
+T9	SYMPTOM 1676 1710	transaminasas (GOT y GPT) normales
+T10	SYMPTOM 1751 1771	troponina I negativa
+T12	SYMPTOM 2109 2188	Función sistólica global y segmentaria de ventrículo izquierdo sin alteraciones
+T13	SYMPTOM 2413 2426	ECG negativos
+T14	SYMPTOM 2533 2546	ritmo sinusal
+T16	SYMPTOM 3967 3981	dolor torácico
+T83	SYMPTOM 1471 1504	alteraciones de la repolarización
+T84	SYMPTOM 1200 1232	cabeza y cuello sin alteraciones
+T82	SYMPTOM 711 727	elevación de GGT
+T78	SYMPTOM 2064 2107	cavidades cardiacas de dimensiones normales
+T79	SYMPTOM 2628 2679	Origen y trayecto de las arterias coronarias normal
+T81	SYMPTOM 2681 2748	Tronco coronario izquierdo (15 mm) sin estenosis ni calcificaciones
+T86	SYMPTOM 3066 3149	Arteria coronaria derecha dominante, sin estenosis significativa ni calcificaciones

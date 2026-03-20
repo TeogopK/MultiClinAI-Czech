@@ -1,0 +1,37 @@
+T28	DISEASE 94 117	ischaemic heart disease
+T32	DISEASE 135 162	acute myocardial infarction
+T34	DISEASE 193 224	chronic ischaemic heart disease
+T58	DISEASE 255 269	drug allergies
+T37	DISEASE 271 292	Arterial hypertension
+T39	DISEASE 321 350	Diabetes mellitus (DM) type 2
+T40	DISEASE 340 342	DM
+T1	DISEASE 455 485	familial hypercholesterolaemia
+T35	DISEASE 487 569	Chronic ischaemic heart disease with completely revascularised multivessel disease
+T42	DISEASE 644 692	non-ST-segment elevation acute coronary syndrome
+T3	DISEASE 694 701	NSTEACS
+T33	DISEASE 710 743	non-Q acute myocardial infarction
+T4	DISEASE 745 748	AMI
+T44	DISEASE 790 809	multivessel disease
+T5	DISEASE 816 904	severe lesion in the distal trunk affecting the origin of the anterior descending artery
+T46	DISEASE 915 977	severe lesion in the middle third of the right coronary artery
+T7	DISEASE 1248 1269	hypercholesterolaemia
+T49	DISEASE 1501 1518	myocardial damage
+T55	DISEASE 1629 1649	pericardial effusion
+T11	DISEASE 1833 1852	Dressler's syndrome
+T59	DISEASE 2068 2081	effort angina
+T47	DISEASE 2202 2222	hypercholesterolemia
+T50	DISEASE 2302 2314	meniscopathy
+T13	DISEASE 2430 2433	AMI
+T60	DISEASE 2535 2541	angina
+T51	DISEASE 3219 3239	deep vein thrombosis
+T52	DISEASE 3241 3244	DVT
+T53	DISEASE 3488 3503	acute ischaemia
+T14	DISEASE 3609 3637	Left atrium slightly dilated
+T15	DISEASE 3694 3716	valvular heart disease
+T54	DISEASE 3815 3848	segmental contractility disorders
+T56	DISEASE 4008 4028	pericardial effusion
+T23	DISEASE 5109 5130	hypercholesterolaemia
+T36	DISEASE 5678 5771	Chronic ischaemic heart disease with completely surgically revascularised multivessel disease
+T41	DISEASE 5831 5860	familial hypercholesterolemia
+T38	DISEASE 5888 5909	Arterial hypertension
+T57	DISEASE 5914 5938	type 2 diabetes mellitus

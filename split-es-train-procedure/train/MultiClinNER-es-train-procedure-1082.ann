@@ -1,0 +1,33 @@
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 247 261	ecocardiograma
+T36	PROCEDURE 519 546	cardiorresonancia magnética
+T37	PROCEDURE 808 826	electrocardiograma
+T38	PROCEDURE 1105 1128	cardioversión eléctrica
+T39	PROCEDURE 1474 1497	cardioversión eléctrica
+T40	PROCEDURE 1565 1574	anamnesis
+T41	PROCEDURE 1581 1599	exploración física
+T42	PROCEDURE 1773 1800	auscultación cardiopulmonar
+T43	PROCEDURE 1971 1991	radiografía de tórax
+T44	PROCEDURE 1993 2012	analítica de sangre
+T45	PROCEDURE 2123 2151	ecocardiograma transtorácico
+T46	PROCEDURE 2343 2361	Electrocardiograma
+T47	PROCEDURE 2520 2538	Electrocardiograma
+T48	PROCEDURE 2785 2814	Radiografía de tórax portátil
+T49	PROCEDURE 3155 3183	Ecocardiograma transtorácico
+T50	PROCEDURE 3932 3947	Coronariografía
+T51	PROCEDURE 3997 4007	Cardio RMN
+T52	PROCEDURE 4121 4161	Estudio de función ventricular izquierda
+T53	PROCEDURE 4258 4296	Estudio de función ventricular derecha
+T54	PROCEDURE 4807 4819	contraste iv
+T55	PROCEDURE 5131 5154	cardioversión eléctrica
+T56	PROCEDURE 5262 5283	electrocardiográficos
+T57	PROCEDURE 5416 5438	DAI bicameral bibovina
+T58	PROCEDURE 5999 6012	test genético
+T70	PROCEDURE 2987 2998	coagulación
+T71	PROCEDURE 2044 2057	función renal
+T72	PROCEDURE 2060 2065	iones
+T73	PROCEDURE 2095 2118	biomarcadores cardiacos
+T74	PROCEDURE 5289 5304	imagen cardiaca
+T75	PROCEDURE 5656 5702	inhibidor de enzima conversora de angiotensina
+T123	PROCEDURE 2878 2887	Analítica
+T143	PROCEDURE 1308 1331	perfusión de amiodarona

@@ -1,0 +1,40 @@
+T25	DISEASE 101 115	drug allergies
+T26	DISEASE 117 129	hypertensive
+T27	DISEASE 131 136	obese
+T28	DISEASE 138 150	dyslipidemic
+T29	DISEASE 155 163	diabetic
+T30	DISEASE 183 197	hypothyroidism
+T31	DISEASE 304 317	heart disease
+T32	DISEASE 321 333	sudden death
+T33	DISEASE 751 757	angina
+T34	DISEASE 1525 1532	ascites
+T57	DISEASE 1799 1811	cardiomegaly
+T54	DISEASE 1813 1838	Bilateral alveolar oedema
+T35	DISEASE 1846 1862	pleural effusion
+T58	DISEASE 2118 2135	myocardial damage
+T59	DISEASE 2370 2392	dilated left ventricle
+T36	DISEASE 2495 2524	Right ventricular dysfunction
+T38	DISEASE 2540 2567	Severe mitral insufficiency
+T49	DISEASE 2547 2567	mitral insufficiency
+T41	DISEASE 2598 2654	Mild tricuspid regurgitation with pulmonary hypertension
+T55	DISEASE 2603 2626	tricuspid regurgitation
+T64	DISEASE 2844 2864	severe regurgitation
+T56	DISEASE 2898 2921	tricuspid regurgitation
+T37	DISEASE 2923 2952	Right ventricular dysfunction
+T42	DISEASE 3014 3050	three-vessel coronary artery disease
+T61	DISEASE 3069 3085	Coronary anomaly
+T60	DISEASE 3475 3497	dilated left ventricle
+T46	DISEASE 4022 4044	acute pulmonary oedema
+T39	DISEASE 4317 4344	severe mitral regurgitation
+T62	DISEASE 4509 4525	coronary anomaly
+T47	DISEASE 4612 4655	severe three-vessel coronary artery disease
+T43	DISEASE 4619 4655	three-vessel coronary artery disease
+T50	DISEASE 4826 4846	mitral insufficiency
+T51	DISEASE 4949 4962	heart failure
+T52	DISEASE 5140 5162	mitral valve pathology
+T53	DISEASE 5617 5705	Dilated cardiomyopathy of ischaemic aetiology with moderate left ventricular dysfunction
+T63	DISEASE 5749 5765	Coronary anomaly
+T45	DISEASE 5767 5854	origin of all coronary arteries in the right sinus of Valsalva, with independent ostium
+T48	DISEASE 5857 5900	Severe three-vessel coronary artery disease
+T44	DISEASE 5864 5900	three-vessel coronary artery disease
+T40	DISEASE 5989 6016	Severe mitral regurgitation

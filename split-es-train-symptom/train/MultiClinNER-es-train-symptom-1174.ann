@@ -1,0 +1,58 @@
+T1	SYMPTOM 378 392	dolor torácico
+T2	SYMPTOM 425 462	test de isquemia que resultó negativo
+T3	SYMPTOM 826 839	disnea brusca
+T4	SYMPTOM 844 864	prurito generalizado
+T5	SYMPTOM 867 915	opresión torácica irradiada a ambas extremidades
+T6	SYMPTOM 989 1007	mal estado general
+T7	SYMPTOM 1105 1120	ondas T picudas
+T8	SYMPTOM 1125 1146	elevación del punto J
+T9	SYMPTOM 1241 1266	elevación del segmento ST
+T10	SYMPTOM 1413 1424	somnolienta
+T11	SYMPTOM 1726 1741	eritema cutáneo
+T12	SYMPTOM 1840 1889	aplanamiento de las ondas T en cara anterolateral
+T13	SYMPTOM 2061 2085	elevación de troponina I
+T14	SYMPTOM 2395 2405	Consciente
+T15	SYMPTOM 2408 2417	orientada
+T16	SYMPTOM 2419 2437	congestión cutánea
+T17	SYMPTOM 2439 2453	normohidratada
+T18	SYMPTOM 2478 2503	ruidos cardiacos rítmicos
+T19	SYMPTOM 2509 2515	soplos
+T20	SYMPTOM 2520 2541	ingurgitación yugular
+T22	SYMPTOM 2616 2639	doloroso a la palpación
+T23	SYMPTOM 2644 2649	masas
+T24	SYMPTOM 2653 2661	megalias
+T25	SYMPTOM 2676 2697	irritación peritoneal
+T26	SYMPTOM 2699 2723	Peristaltismo conservado
+T27	SYMPTOM 2725 2760	Extremidades inferiores: sin edemas
+T28	SYMPTOM 3065 3078	ritmo sinusal
+T29	SYMPTOM 3089 3108	ondas T hiperagudas
+T30	SYMPTOM 3113 3134	elevación del punto J
+T31	SYMPTOM 3171 3184	ritmo sinusal
+T32	SYMPTOM 3230 3252	ST rectilíneo en V5-V6
+T33	SYMPTOM 3270 3337	ventrículo izquierdo (VI) de dimensiones y grosor parietal normales
+T34	SYMPTOM 3339 3370	Función sistólica global normal
+T35	SYMPTOM 3422 3446	Patrón diastólico normal
+T36	SYMPTOM 3448 3490	Aurícula izquierda de dimensiones normales
+T37	SYMPTOM 3492 3519	Cavidades derechas normales
+T39	SYMPTOM 4008 4029	masas intracavitarias
+T40	SYMPTOM 4221 4256	Buena función ventricular izquierda
+T41	SYMPTOM 4414 4476	ecocardiograma de control que muestra función sistólica normal
+T42	SYMPTOM 4566 4590	función sistólica normal
+T69	SYMPTOM 936 953	episodio sincopal
+T102	SYMPTOM 2584 2639	Abdomen: blando, depresible, no doloroso a la palpación
+T105	SYMPTOM 3376 3420	asimetrías segmentarias de la contractilidad
+T103	SYMPTOM 2543 2582	Auscultación pulmonar: normoventilación
+T21	SYMPTOM 3211 3228	T negativa en III
+T104	SYMPTOM 3521 3560	ventrículo derecho (VD) normocontráctil
+T106	SYMPTOM 3843 3879	Vena cava inferior (VCI) no dilatada
+T107	SYMPTOM 3911 3969	Presión arterial pulmonar sistólica (PAPs) estimada normal
+T109	SYMPTOM 4750 4762	Asintomática
+T115	SYMPTOM 3006 3041	RADIOGRAFÍA DE TÓRAX: sin hallazgos
+T117	SYMPTOM 4919 4980	arterias coronarias sin lesiones angiográficas significativas
+T118	SYMPTOM 4373 4385	asintomática
+T123	SYMPTOM 4364 4371	estable
+T124	SYMPTOM 4765 4772	estable
+T136	SYMPTOM 4071 4110	árbol coronario sin lesiones de interés
+T110	SYMPTOM 1634 1680	Ventriculografía sin alteraciones segmentarias
+T111	SYMPTOM 1687 1704	mitral competente
+T38	SYMPTOM 4294 4311	mitral competente

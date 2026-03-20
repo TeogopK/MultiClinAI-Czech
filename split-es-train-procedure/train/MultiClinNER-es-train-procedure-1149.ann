@@ -1,0 +1,19 @@
+T27	PROCEDURE 279 300	auscultación cardiaca
+T28	PROCEDURE 497 517	radiografía de tórax
+T30	PROCEDURE 619 648	ecocardiograma transesofágico
+T31	PROCEDURE 982 994	hemocultivos
+T32	PROCEDURE 1271 1290	pruebas bioquímicas
+T33	PROCEDURE 1751 1784	pruebas serológicas para Brucella
+T34	PROCEDURE 1914 1937	tratamiento antibiótico
+T35	PROCEDURE 2086 2120	microscopia óptica de bajo aumento
+T36	PROCEDURE 2178 2238	estudio de sensibilidad se realizó por el método disco-placa
+T37	PROCEDURE 2599 2622	tratamiento antibiótico
+T38	PROCEDURE 2777 2788	hemocultivo
+T77	PROCEDURE 759 791	tratamiento antibiótico empírico
+T78	PROCEDURE 1002 1025	tinción de Gram directa
+T79	PROCEDURE 1082 1140	subcultivo realizado en agar chocolate en atmósfera de CO2
+T80	PROCEDURE 1201 1216	tinción de Gram
+T81	PROCEDURE 1557 1592	subcultivo en caldo de tioglicolato
+T84	PROCEDURE 530 565	Se extrajeron hemocultivos seriados
+T90	PROCEDURE 366 375	analítica
+T96	PROCEDURE 214 225	exploración

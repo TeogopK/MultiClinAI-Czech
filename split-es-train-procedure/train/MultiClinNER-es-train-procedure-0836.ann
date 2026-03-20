@@ -1,0 +1,31 @@
+T60	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 586 589	ECG
+T62	PROCEDURE 653 671	exploración física
+T63	PROCEDURE 685 710	auscultación respiratoria
+T64	PROCEDURE 846 849	ECG
+T65	PROCEDURE 962 965	ECG
+T66	PROCEDURE 1072 1075	GSA
+T67	PROCEDURE 1234 1253	Analítica de sangre
+T68	PROCEDURE 1394 1413	Analítica de sangre
+T69	PROCEDURE 1533 1548	Perfil tiroideo
+T70	PROCEDURE 1577 1597	Radiografía de tórax
+T71	PROCEDURE 1651 1680	Ecocardiografía transtorácica
+T72	PROCEDURE 2432 2461	Resonancia magnética cardiaca
+T73	PROCEDURE 2755 2766	Cateterismo
+T74	PROCEDURE 2987 3019	ventilación mecánica no invasiva
+T75	PROCEDURE 3021 3044	tratamiento antibiótico
+T76	PROCEDURE 3046 3063	broncodilatadores
+T77	PROCEDURE 3066 3089	corticoides endovenosos
+T78	PROCEDURE 3164 3192	retirar soporte ventilatorio
+T79	PROCEDURE 3259 3279	soporte ventilatorio
+T80	PROCEDURE 3312 3315	ECG
+T81	PROCEDURE 3413 3427	ecocardiograma
+T82	PROCEDURE 3572 3592	doble antiagregación
+T83	PROCEDURE 3595 3610	anticoagulación
+T84	PROCEDURE 3815 3829	ecocardiograma
+T85	PROCEDURE 3880 3895	coronariografía
+T86	PROCEDURE 3964 3978	ecocardiograma
+T87	PROCEDURE 4104 4133	resonancia magnética cardiaca
+T88	PROCEDURE 4284 4312	retirar doble antiagregación
+T89	PROCEDURE 2953 2985	tratamiento diurético endovenoso
+T110	PROCEDURE 550 559	Ventimask

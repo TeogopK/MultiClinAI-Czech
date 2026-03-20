@@ -1,0 +1,17 @@
+T10	PROCEDURE 82 105	anticoagulant treatment
+T3	PROCEDURE 228 244	Therapeutic ERCP
+T8	PROCEDURE 264 282	conscious sedation
+T9	PROCEDURE 393 405	intervention
+T14	PROCEDURE 464 547	abdominal computerised axial tomography (CAT) scan with direct intravenous contrast
+T15	PROCEDURE 505 508	CAT
+T7	PROCEDURE 959 976	urgent laparotomy
+T11	PROCEDURE 992 1029	evacuating 2000 ml of haemoperitoneum
+T18	PROCEDURE 1101 1108	CT scan
+T1	PROCEDURE 1110 1121	Splenectomy
+T4	PROCEDURE 1123 1138	cholecystectomy
+T5	PROCEDURE 1140 1152	duodenostomy
+T12	PROCEDURE 1157 1188	extraction of the biliary mould
+T13	PROCEDURE 1205 1229	placement of a Kher tube
+T22	PROCEDURE 1446 1459	re-laparotomy
+T6	PROCEDURE 1597 1617	pathological anatomy
+T2	PROCEDURE 1632 1643	splenectomy

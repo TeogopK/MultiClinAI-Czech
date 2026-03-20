@@ -1,0 +1,65 @@
+T1	SYMPTOM 602 608	disnea
+T2	SYMPTOM 688 696	ortopnea
+T3	SYMPTOM 699 726	disnea paroxística nocturna
+T4	SYMPTOM 774 811	disminución progresiva de la diuresis
+T5	SYMPTOM 837 865	edema en miembros inferiores
+T6	SYMPTOM 873 887	dolor torácico
+T7	SYMPTOM 900 915	síndrome febril
+T8	SYMPTOM 1106 1116	consciente
+T9	SYMPTOM 1118 1127	orientado
+T11	SYMPTOM 1146 1165	buen estado general
+T12	SYMPTOM 1167 1193	buena perfusión periférica
+T13	SYMPTOM 1204 1252	tumefacción a nivel de ambas glándulas parótidas
+T15	SYMPTOM 1316 1326	PVY normal
+T16	SYMPTOM 1332 1357	Ruidos cardiacos rítmicos
+T17	SYMPTOM 1359 1395	soplo holodiastólico en foco aórtico
+T18	SYMPTOM 1401 1430	murmullo vesicular conservado
+T19	SYMPTOM 1432 1447	Abdomen anodino
+T20	SYMPTOM 1455 1485	edema con fóvea hasta rodillas
+T21	SYMPTOM 2635 2648	ritmo sinusal
+T22	SYMPTOM 2776 2821	índice cardiotorácico dentro de la normalidad
+T23	SYMPTOM 2955 2990	Senos cardio y costofrénicos libres
+T25	SYMPTOM 3397 3417	FE global preservada
+T26	SYMPTOM 3526 3535	VD normal
+T27	SYMPTOM 4198 4215	Pericardio normal
+T28	SYMPTOM 6388 6435	aumento de tamaño de ambas glándulas parotídeas
+T30	SYMPTOM 6928 6967	Glándulas submaxilares de tamaño normal
+T31	SYMPTOM 7002 7027	Tiroides de tamaño normal
+T34	SYMPTOM 8047 8065	mala función renal
+T35	SYMPTOM 8292 8319	Engrosamiento peribronquial
+T37	SYMPTOM 9436 9469	Contractilidad segmentaria normal
+T38	SYMPTOM 9471 9493	Masa miocárdica normal
+T39	SYMPTOM 9562 9590	Leve hipertrofia concéntrica
+T40	SYMPTOM 10012 10033	Contractilidad normal
+T41	SYMPTOM 10272 10297	engrosamiento pericárdico
+T43	SYMPTOM 10776 10804	función sistólica conservada
+T45	SYMPTOM 11139 11169	elevación de las cifras de ECA
+T46	SYMPTOM 11293 11331	prominencia de ambos hilios pulmonares
+T139	SYMPTOM 4124 4141	Tricúspide normal
+T136	SYMPTOM 993 1024	tumefacción parotídea bilateral
+T10	SYMPTOM 3173 3187	VI no dilatado
+T14	SYMPTOM 3515 3524	AD normal
+T29	SYMPTOM 7781 7812	Vesícula, y vía biliar normales
+T33	SYMPTOM 9813 9830	VD: tamaño normal
+T150	SYMPTOM 8334 8353	Patrón intersticial
+T151	SYMPTOM 2823 2861	Prominencia de ambos hilios pulmonares
+T155	SYMPTOM 3001 3050	afectación intersticial reticulonodular bilateral
+T165	SYMPTOM 12646 12697	asintomático desde el punto de vista cardiovascular
+T174	SYMPTOM 1130 1141	colaborador
+T177	SYMPTOM 4239 4262	coronarias sin lesiones
+T182	SYMPTOM 8396 8441	engrosamiento de los septos interlobulillares
+T208	SYMPTOM 7814 7834	Vena porta permeable
+T212	SYMPTOM 10195 10229	Arteria pulmonar de calibre normal
+T42	SYMPTOM 7991 8014	Aorta de calibre normal
+T44	SYMPTOM 1233 1287	glándulas parótidas, la derecha de consistencia pétrea
+T48	SYMPTOM 2672 2699	signos de crecimiento de VI
+T137	SYMPTOM 2704 2752	alteraciones significativas de la repolarización
+T138	SYMPTOM 4048 4077	Aorta: raíz de calibre normal
+T142	SYMPTOM 4093 4122	Cayado y descendente normales
+T143	SYMPTOM 4169 4184	Pulmonar normal
+T144	SYMPTOM 4186 4196	VCI normal
+T145	SYMPTOM 7124 7163	lóbulo derecho se identifica una lesión
+T32	SYMPTOM 8554 8569	Vesícula normal
+T146	SYMPTOM 10144 10178	Aorta ascendente de calibre normal
+T149	SYMPTOM 10069 10102	AI: Área de 20 cm2, tamaño normal
+T152	SYMPTOM 11554 11574	patrón intersiticial

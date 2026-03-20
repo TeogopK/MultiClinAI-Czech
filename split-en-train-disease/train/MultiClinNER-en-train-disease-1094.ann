@@ -1,0 +1,73 @@
+T32	DISEASE 78 92	drug allergies
+T33	DISEASE 94 119	Intolerance to amlodipine
+T34	DISEASE 142 154	toxic habits
+T35	DISEASE 185 206	arterial hypertension
+T1	DISEASE 208 211	AHT
+T36	DISEASE 214 227	Dyslipidaemia
+T37	DISEASE 232 240	diabetes
+T38	DISEASE 251 271	Mitral insufficiency
+T40	DISEASE 310 323	heart failure
+T42	DISEASE 411 441	Paroxysmal atrial fibrillation
+T43	DISEASE 443 479	Mild-moderate pulmonary hypertension
+T3	DISEASE 481 554	Mild-moderate stenosis of the middle anterior descending coronary artery.
+T44	DISEASE 555 601	Moderate chronic obstructive pulmonary disease
+T45	DISEASE 613 627	bronchiectasis
+T4	DISEASE 647 663	Anxious syndrome
+T46	DISEASE 832 852	cognitive impairment
+T47	DISEASE 938 956	multiple sclerosis
+T48	DISEASE 1024 1042	mental retardation
+T6	DISEASE 1734 1774	partial seizures in the left arm and leg
+T49	DISEASE 1997 2017	cardioembolic stroke
+T67	DISEASE 2291 2332	thrombus adhered to the mitral prosthesis
+T51	DISEASE 2359 2371	endocarditis
+T8	DISEASE 2459 2478	infectious symptoms
+T52	DISEASE 2494 2506	endocarditis
+T56	DISEASE 2960 2972	hepatomegaly
+T10	DISEASE 3001 3016	Janeway lesions
+T80	DISEASE 3020 3033	Osler nodules
+T12	DISEASE 3401 3442	Atrioventricular block (AVB) first degree
+T13	DISEASE 3425 3428	AVB
+T81	DISEASE 3621 3653	Calcified atheromas in the aorta
+T57	DISEASE 3956 3989	pulmonary involvement by COVID 19
+T14	DISEASE 4056 4084	calcified hepatic granulomas
+T82	DISEASE 4085 4118	Degenerative changes in the spine
+T15	DISEASE 4123 4144	calcifying tendinitis
+T58	DISEASE 4216 4224	COVID 19
+T59	DISEASE 4259 4287	acute intracranial pathology
+T16	DISEASE 4290 4362	Magnetic resonance imaging (MRI) of the brain: several lesions were seen
+T60	DISEASE 4744 4776	acute/subacute ischaemic lesions
+T17	DISEASE 4807 4820	heart disease
+T61	DISEASE 4851 4862	haemorrhage
+T62	DISEASE 5342 5410	multiple supra- and infratentorial ischaemic lesions, acute/subacute
+T20	DISEASE 5664 5728	non-dilated left ventricle (LV) with mild concentric hypertrophy
+T83	DISEASE 5824 5846	left atrial dilatation
+T31	DISEASE 6049 6129	Non-stenotic fibrotic trichomysial fibrosed aortic valve with mild regurgitation
+T63	DISEASE 6261 6281	pericardial effusion
+T65	DISEASE 6326 6354	left ventricular hypertrophy
+T66	DISEASE 6385 6410	mild aortic insufficiency
+T68	DISEASE 6602 6610	thrombus
+T69	DISEASE 6878 6886	thrombus
+T84	DISEASE 7213 7267	calcified atheroma plaque in descending thoracic aorta
+T70	DISEASE 7434 7442	thrombus
+T24	DISEASE 8009 8067	periprosthetic leak at anterior level of the aortic suture
+T25	DISEASE 8650 8722	moderate eccentric mitral insufficiency (MI) due to periprosthetic leak.
+T39	DISEASE 8669 8689	mitral insufficiency
+T71	DISEASE 8745 8784	thrombus in posterior mitral prosthesis
+T89	DISEASE 9759 9799	right lung was damaged during dissection
+T99	DISEASE 10800 10828	Mild tricuspid insufficiency
+T72	DISEASE 10861 10886	Mild pericardial effusion
+T53	DISEASE 11007 11019	endocarditis
+T41	DISEASE 11058 11071	heart failure
+T64	DISEASE 11164 11178	focal seizures
+T74	DISEASE 11316 11368	multiple supra- and infratentorial ischaemic lesions
+T54	DISEASE 11438 11450	endocarditis
+T85	DISEASE 11786 11812	moderate perivalvular leak
+T76	DISEASE 11960 11969	infection
+T55	DISEASE 12147 12159	endocarditis
+T77	DISEASE 12173 12189	valve thrombosis
+T102	DISEASE 12445 12456	AF with RVR
+T50	DISEASE 12740 12760	Cardioembolic stroke
+T75	DISEASE 12766 12818	multiple supra- and infratentorial ischaemic lesions
+T78	DISEASE 12820 12838	Focal motor crises
+T79	DISEASE 12912 12939	Prosthetic valve thrombosis
+T103	DISEASE 12941 12974	Periprosthetic leak with moderate

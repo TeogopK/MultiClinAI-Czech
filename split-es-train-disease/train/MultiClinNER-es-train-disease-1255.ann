@@ -1,0 +1,55 @@
+T29	DISEASE 176 197	hipertensión arterial
+T30	DISEASE 199 202	HTA
+T31	DISEASE 263 292	Diabetes mellitus (DM) tipo 2
+T32	DISEASE 385 395	Dislipemia
+T33	DISEASE 443 452	Exfumador
+T34	DISEASE 520 541	Cardiopatía isquémica
+T35	DISEASE 569 621	síndrome coronario agudo (SCA) tipo angina inestable
+T36	DISEASE 595 598	SCA
+T37	DISEASE 626 697	enfermedad de un vaso: descendente anterior (DA) proximal con estenosis
+T38	DISEASE 836 842	angina
+T39	DISEASE 844 866	Estenosis aórtica leve
+T40	DISEASE 1180 1232	Valvulopatía aórtica degenerativa con estenosis leve
+T41	DISEASE 1367 1392	Insuficiencia tricuspídea
+T42	DISEASE 1550 1583	Fibrilación auricular paroxística
+T43	DISEASE 2901 2921	dermopatía diabética
+T44	DISEASE 4098 4132	bloqueo completo de rama izquierda
+T45	DISEASE 4161 4165	BCRI
+T46	DISEASE 4791 4816	Insuficiencia mitral leve
+T47	DISEASE 4924 4954	Insuficiencia tricuspídea leve
+T48	DISEASE 5569 5606	reestenosis intrastent en DA proximal
+T49	DISEASE 5862 5887	estenosis de la DA distal
+T50	DISEASE 5962 6016	síndrome coronario agudo sin elevación del segmento ST
+T51	DISEASE 6032 6069	infarto agudo de miocardio (IAM) no Q
+T52	DISEASE 6060 6063	IAM
+T53	DISEASE 6171 6196	valvulopatía aortica leve
+T54	DISEASE 6340 6370	estenosis aórtica levemoderada
+T55	DISEASE 6400 6403	SCA
+T56	DISEASE 6484 6527	reestenosis intrastent grave en DA proximal
+T57	DISEASE 6530 6566	lesiones graves en DA media y distal
+T58	DISEASE 6953 6962	DM tipo 2
+T59	DISEASE 7114 7135	Cardiopatía isquémica
+T60	DISEASE 7137 7158	SCASEST tipo IAM no Q
+T61	DISEASE 7165 7290	Enfermedad coronaria de 2 vasos: DA proximal severa con reestenosis intrastent y DA media y distal graves; Cx distal moderada
+T62	DISEASE 7379 7412	Valvulopatía aórtica degenerativa
+T63	DISEASE 7414 7445	estenosis aórtica leve-moderada
+T64	DISEASE 7447 7480	Fibrilación auricular paroxística
+T65	DISEASE 7514 7523	DM tipo 2
+T66	DISEASE 4818 4880	Válvula aórtica calcificada, móvil, con estenosis aórtica leve
+T67	DISEASE 90 98	alergias
+T68	DISEASE 5036 5061	DA proximal con estenosis
+T69	DISEASE 5157 5179	DA media con estenosis
+T70	DISEASE 5234 5257	DA distal con estenosis
+T71	DISEASE 5298 5349	arteria circunfleja (Cx) distal tiene una estenosis
+T72	DISEASE 4450 4468	eventos arrítmicos
+T73	DISEASE 282 284	DM
+T74	DISEASE 948 990	Aurícula izquierda (AI) levemente dilatada
+T75	DISEASE 1009 1057	Ventrículo izquierdo (VI) levemente hipertrófico
+T76	DISEASE 4507 4553	aurícula izquierda (AI) moderadamente dilatada
+T77	DISEASE 4555 4618	Ventrículo izquierdo (VI) no dilatado, con hipertrofia moderada
+T78	DISEASE 4750 4774	Válvula mitral fibrosada
+T79	DISEASE 6018 6025	SCASEST
+T80	DISEASE 6571 6592	lesión moderada en Cx
+T133	DISEASE 5088 5110	reestenosis intrastent
+#1	AnnotatorNotes T36	  síndrome coronario agudo
+#2	AnnotatorNotes T55	  síndrome coronario agudo

@@ -1,0 +1,44 @@
+T1	DISEASE 291 308	cefalea tensional
+T80	DISEASE 105 126	hipertensión arterial
+T81	DISEASE 131 141	dislipemia
+T82	DISEASE 146 163	diabetes mellitus
+T83	DISEASE 168 176	fumadora
+T84	DISEASE 187 202	hábitos tóxicos
+T85	DISEASE 265 276	hemorroides
+T86	DISEASE 278 289	fisura anal
+T87	DISEASE 1259 1278	bradicardia sinusal
+T88	DISEASE 2190 2205	derrame pleural
+T90	DISEASE 2584 2597	valvulopatías
+T91	DISEASE 2683 2702	derrame pericárdico
+T92	DISEASE 2929 2948	disección coronaria
+T93	DISEASE 3046 3111	disección coronaria espontánea a nivel de primera obtusa marginal
+T94	DISEASE 3301 3320	disección coronaria
+T95	DISEASE 3431 3439	hematoma
+T96	DISEASE 3517 3582	disección coronaria espontánea a nivel de primera obtusa marginal
+T97	DISEASE 3858 3875	arterioesclerosis
+T98	DISEASE 3946 3954	hematoma
+T101	DISEASE 4272 4289	arterioesclerosis
+T102	DISEASE 4351 4368	arterioesclerosis
+T103	DISEASE 4383 4449	hematoma en descendente anterior (DA) distal que origina estenosis
+T104	DISEASE 4516 4533	arterioesclerosis
+T105	DISEASE 4590 4607	arterioesclerosis
+T106	DISEASE 4700 4717	arterioesclerosis
+T107	DISEASE 4893 4901	hematoma
+T108	DISEASE 4954 5111	sangrado intramural (densidad contraste en zona central) localizado en el origen del tronco celiaco y en la porción distal de la arteria descendente anterior
+T109	DISEASE 5475 5586	disección coronaria espontánea en la arteria descendente anterior media (DAm) y la primera rama obtusa marginal
+T110	DISEASE 5889 5904	daño miocárdico
+T111	DISEASE 6558 6573	daño miocárdico
+T112	DISEASE 6610 6636	infarto agudo de miocardio
+T113	DISEASE 6941 6954	angina típica
+T114	DISEASE 7047 7055	hematoma
+T115	DISEASE 7068 7091	displasia fibromuscular
+T116	DISEASE 7135 7143	hematoma
+T117	DISEASE 7164 7284	sangrado intramural localizado en el origen del tronco celiaco y en la porción distal de la arteria descendente anterior
+T118	DISEASE 7678 7694	IAMCEST anterior
+T119	DISEASE 7845 7853	Hematoma
+T120	DISEASE 7874 7936	sangrado intramural localizado en el origen del tronco celiaco
+T12	DISEASE 1514 1519	ángor
+T128	DISEASE 6290 6305	disección de DA
+T40	DISEASE 7093 7096	DFM
+T42	DISEASE 7706 7807	Disección coronaria espontánea de arteria descendente anterior medio-distal y primera obtusa marginal
+#1	AnnotatorNotes T40	Displasia fibromuscular

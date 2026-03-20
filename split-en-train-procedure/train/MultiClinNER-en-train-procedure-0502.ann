@@ -1,0 +1,23 @@
+T18	PROCEDURE 145 152	surgery
+T7	PROCEDURE 365 389	neurological examination
+T9	PROCEDURE 393 419	magnetic resonance imaging
+T17	PROCEDURE 421 424	MRI
+T2	PROCEDURE 473 484	craniectomy
+T15	PROCEDURE 583 608	gadolinium administration
+T10	PROCEDURE 614 624	craniotomy
+T19	PROCEDURE 644 701	purulent epidural collection emerged, which was evacuated
+T11	PROCEDURE 715 736	microbiological study
+T14	PROCEDURE 738 766	Empirical antibiotic therapy
+T12	PROCEDURE 824 842	Bacterial cultures
+T13	PROCEDURE 890 904	oral treatment
+T6	PROCEDURE 1175 1195	physical examination
+T8	PROCEDURE 1360 1384	Anticonvulsant treatment
+T33	PROCEDURE 1403 1410	CT scan
+T34	PROCEDURE 1522 1545	contrast administration
+T1	PROCEDURE 1642 1672	Empirical antibiotic treatment
+T3	PROCEDURE 1791 1802	craniectomy
+T20	PROCEDURE 1834 1899	subdural collection with a purulent appearance that was evacuated
+T37	PROCEDURE 1901 1961	Samples were sent for microbiology from the drained material
+T4	PROCEDURE 1973 1984	craniectomy
+T16	PROCEDURE 2237 2315	subculture in solid medium and in anaerobic atmosphere of the enrichment broth
+T5	PROCEDURE 2320 2331	antibiogram

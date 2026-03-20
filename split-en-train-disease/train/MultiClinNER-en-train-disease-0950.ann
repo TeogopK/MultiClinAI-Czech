@@ -1,0 +1,34 @@
+T44	DISEASE 21 48	acute myocardial infarction
+T45	DISEASE 74 94	pericardial effusion
+T63	DISEASE 156 170	drug allergies
+T66	DISEASE 172 185	Former smoker
+T50	DISEASE 245 258	Dyslipidaemia
+T2	DISEASE 281 302	systemic hypertension
+T51	DISEASE 307 309	DM
+T52	DISEASE 311 344	Primary antiphospholipid syndrome
+T53	DISEASE 383 408	pulmonary thromboembolism
+T3	DISEASE 410 496	Chronic venous insufficiency with recurrent vascular-venous ulcers in right lower limb
+T54	DISEASE 1295 1343	culprit lesion of the anterior descending artery
+T65	DISEASE 1534 1551	arrhythmic events
+T55	DISEASE 1564 1577	heart failure
+T56	DISEASE 2313 2377	paroxysms of atrial fibrillation with rapid ventricular response
+T57	DISEASE 2720 2756	circumferential pericardial effusion
+T7	DISEASE 3072 3075	IAH
+T64	DISEASE 3460 3477	Myocardial damage
+T62	DISEASE 3680 3692	Cardiomegaly
+T58	DISEASE 3783 3819	circumferential pericardial effusion
+T67	DISEASE 4148 4174	Dilated inferior vena cava
+T69	DISEASE 4560 4584	ADA: Atheromatous vessel
+T60	DISEASE 4586 4608	Thrombotic obstruction
+T68	DISEASE 4662 4713	Non-dominant ACx: Atheromatous and calcified vessel
+T11	DISEASE 4846 4885	Chronic occlusion of the middle segment
+T12	DISEASE 5138 5172	culprit lesion of the proximal LAD
+T14	DISEASE 5468 5487	Dressler's syndrome
+T48	DISEASE 6281 6301	pericardial effusion
+T70	DISEASE 6765 6782	pericardial fluid
+T16	DISEASE 6926 6939	STEMI anterio
+T19	DISEASE 7077 7178	Coronary artery disease in mid-segment of ACx and distal segment of non-revascularised main marginal.
+T20	DISEASE 7181 7201	Post-MI pericarditis
+T59	DISEASE 7206 7242	circumferential pericardial effusion
+T21	DISEASE 7261 7280	Dressler's syndrome
+T61	DISEASE 7284 7314	Paroxysmal atrial fibrillation

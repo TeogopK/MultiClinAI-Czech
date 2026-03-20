@@ -1,0 +1,38 @@
+T80	PROCEDURE 270 286	estudio genético
+T81	PROCEDURE 757 779	extracción de un molar
+T82	PROCEDURE 1107 1128	Auscultación cardiaca
+T83	PROCEDURE 1183 1204	Auscultación pulmonar
+T84	PROCEDURE 1265 1286	exploración abdominal
+T85	PROCEDURE 1842 1857	Perfil hepático
+T86	PROCEDURE 1995 1998	ECG
+T87	PROCEDURE 2123 2143	Radiografía de tórax
+T88	PROCEDURE 2286 2314	Ecocardiograma transtorácico
+T89	PROCEDURE 2676 2705	Resonancia magnética cardiaca
+T90	PROCEDURE 3063 3094	Angio-TC de arterias coronarias
+T91	PROCEDURE 4294 4332	Coronariografía: acceso radial derecho
+T92	PROCEDURE 4708 4745	Intervencionismo coronario percutáneo
+T93	PROCEDURE 4786 4818	se trata con balón farmacoactivo
+T94	PROCEDURE 5046 5063	antiinflamatorios
+T95	PROCEDURE 5076 5104	ecocardiograma transtorácico
+T96	PROCEDURE 5437 5455	electrocardiograma
+T97	PROCEDURE 6352 6395	resonancia magnética nuclear (RMN) cardiaca
+T98	PROCEDURE 6597 6628	angio-TC de arterias coronarias
+T99	PROCEDURE 6847 6862	coronariografía
+T100	PROCEDURE 6971 7008	intervencionismo coronario percutáneo
+T101	PROCEDURE 7032 7066	implante de un stent farmacoactivo
+T102	PROCEDURE 7479 7502	rehabilitación cardiaca
+T103	PROCEDURE 7870 7893	rehabilitación cardiaca
+T104	PROCEDURE 8385 8427	revascularizada con un stent farmacoactivo
+T118	PROCEDURE 1889 1908	Troponina I seriada
+T119	PROCEDURE 4838 4912	Se implanta stent farmacoactivo de 2,5 x 38 mm en el tercio medio de la DA
+T120	PROCEDURE 4823 4836	colocar stent
+T121	PROCEDURE 5795 5824	coronaria para monitorización
+T122	PROCEDURE 6010 6036	tratamiento hipolipemiante
+T123	PROCEDURE 6045 6072	estatina de alta intensidad
+T124	PROCEDURE 7100 7113	antiagregante
+T125	PROCEDURE 7793 7814	inhibidor de la PCSK9
+T126	PROCEDURE 892 910	EXPLORACIÓN FÍSICA
+T128	PROCEDURE 1433 1442	Analítica
+T180	PROCEDURE 2145 2174	prótesis mamarias bilaterales
+T182	PROCEDURE 1142 1154	se auscultan
+T75	PROCEDURE 6382 6385	RMN

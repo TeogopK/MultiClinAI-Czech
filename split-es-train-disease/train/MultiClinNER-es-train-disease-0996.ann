@@ -1,0 +1,66 @@
+T45	DISEASE 127 148	hipertensión arterial
+T46	DISEASE 150 153	HTA
+T47	DISEASE 156 165	DM tipo 2
+T48	DISEASE 225 235	Dislipemia
+T49	DISEASE 237 246	Exfumador
+T50	DISEASE 248 256	Obesidad
+T51	DISEASE 328 357	Cardiopatía isquémica crónica
+T52	DISEASE 371 408	infarto agudo de miocardio (IAM) no Q
+T53	DISEASE 399 402	IAM
+T54	DISEASE 672 695	enfermedad de dos vasos
+T55	DISEASE 884 892	síncopes
+T56	DISEASE 895 939	bloqueo aurículo-ventricular Mobitz II y 2:1
+T57	DISEASE 1110 1123	valvulopatías
+T58	DISEASE 1148 1163	cólicos renales
+T59	DISEASE 1671 1693	Angina crónica estable
+T60	DISEASE 2467 2492	trombosis venosa profunda
+T61	DISEASE 3279 3294	daño miocárdico
+T62	DISEASE 3371 3393	insuficiencia cardiaca
+T63	DISEASE 3622 3649	Insuficiencia mitral ligera
+T64	DISEASE 3932 3969	Insuficiencia tricuspídea (IT) ligera
+T65	DISEASE 4183 4223	Estenosis significativa en rama diagonal
+T66	DISEASE 4810 4832	insuficiencia cardiaca
+T67	DISEASE 5094 5107	valvulopatías
+T68	DISEASE 5691 5713	insuficiencia cardiaca
+T69	DISEASE 6164 6183	derrame pericárdico
+T70	DISEASE 6232 6261	cardiopatía isquémica crónica
+T71	DISEASE 6427 6465	disfunción ventricular izquierda grave
+T72	DISEASE 6832 6852	enfermedad coronaria
+T73	DISEASE 6946 6968	insuficiencia cardiaca
+T74	DISEASE 7058 7066	diabetes
+T75	DISEASE 7104 7107	HTA
+T76	DISEASE 7143 7164	cardiopatía isquémica
+T77	DISEASE 7167 7189	insuficiencia cardiaca
+T78	DISEASE 7297 7315	anemia ferropénica
+T80	DISEASE 7597 7625	disfunción ventricular grave
+T81	DISEASE 8018 8040	insuficiencia cardiaca
+T82	DISEASE 8468 8497	Cardiopatía isquémica crónica
+T83	DISEASE 8510 8525	angor inestable
+T84	DISEASE 8561 8564	IAM
+T85	DISEASE 8566 8597	Enfermedad coronaria de 2 vasos
+T86	DISEASE 8628 8671	lesión no revascularizable en rama diagonal
+T87	DISEASE 8673 8695	Insuficiencia cardiaca
+T88	DISEASE 8768 8792	miocardiopatia diabética
+T89	DISEASE 8794 8803	isquémica
+T90	DISEASE 8850 8868	Anemia ferropénica
+T91	DISEASE 8870 8891	Hipertensión arterial
+T92	DISEASE 8893 8917	Diabetes mellitus tipo 2
+T93	DISEASE 8934 8944	Dislipemia
+T94	DISEASE 8975 8983	Obesidad
+T95	DISEASE 3736 3763	Aurícula izquierda dilatada
+T96	DISEASE 3959 3961	IT
+T97	DISEASE 6076 6078	IT
+T98	DISEASE 3842 3881	Ventrículo derecho ligeramente dilatado
+T99	DISEASE 3651 3676	Válvula aórtica esclerosa
+T100	DISEASE 6321 6327	angina
+T101	DISEASE 2684 2697	cardiomegalia
+T102	DISEASE 8054 8073	congestión pulmonar
+T103	DISEASE 484 586	Descendente anterior (DA) con lesión significativa gravemente calcificada en segmento proximal y medio
+T104	DISEASE 588 656	Coronaria derecha (CD) con lesión significativa en segmento proximal
+T105	DISEASE 3457 3496	ventrículo izquierdo levemente dilatado
+T106	DISEASE 4889 4928	ventrículo izquierdo levemente dilatado
+T107	DISEASE 5932 5959	Regurgitación mitral ligera
+T108	DISEASE 7093 7101	obesidad
+T182	DISEASE 8361 8378	descompensaciones
+#1	AnnotatorNotes T96	 IT insuficiencia tricuspídea
+#2	AnnotatorNotes T97	 IT insuficiencia tricuspídea

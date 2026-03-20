@@ -1,0 +1,61 @@
+T1	SYMPTOM 864 875	hypotension
+T2	SYMPTOM 925 936	tachycardia
+T3	SYMPTOM 1529 1537	anorexia
+T4	SYMPTOM 6251 6259	anorexia
+T5	SYMPTOM 1539 1547	asthenia
+T6	SYMPTOM 6241 6249	asthenia
+T7	SYMPTOM 1552 1617	continuous pain in the right hypochondrium unrelated to ingestion
+T8	SYMPTOM 1636 1655	feeling of fullness
+T9	SYMPTOM 1677 1683	nausea
+T10	SYMPTOM 1685 1693	vomiting
+T11	SYMPTOM 1695 1703	choluria
+T12	SYMPTOM 6271 6279	choluria
+T13	SYMPTOM 8224 8232	choluria
+T14	SYMPTOM 1768 1796	intestinal transit disorders
+T15	SYMPTOM 2188 2200	asymptomatic
+T16	SYMPTOM 2244 2252	dyspnoea
+T17	SYMPTOM 2464 2486	good general condition
+T18	SYMPTOM 2488 2501	Well hydrated
+T19	SYMPTOM 2503 2512	nourished
+T20	SYMPTOM 2517 2525	perfused
+T21	SYMPTOM 2527 2542	Eupneic at rest
+T22	SYMPTOM 2617 2647	Cardiac auscultation: rhythmic
+T23	SYMPTOM 2656 2663	murmurs
+T24	SYMPTOM 2689 2715	preserved vesicular murmur
+T25	SYMPTOM 2898 2919	peritoneal irritation
+T26	SYMPTOM 3009 3015	oedema
+T27	SYMPTOM 3017 3041	Preserved paedial pulses
+T28	SYMPTOM 3858 3860	RS
+T29	SYMPTOM 3872 3881	normal PR
+T30	SYMPTOM 3883 3893	narrow QRS
+T31	SYMPTOM 3895 3919	QS on anterolateral side
+T32	SYMPTOM 3966 4019	persistent ST-segment elevation in anterolateral side
+T33	SYMPTOM 5186 5219	Homogeneous spleen of normal size
+T34	SYMPTOM 5470 5498	bile duct has normal calibre
+T35	SYMPTOM 6261 6269	jaundice
+T36	SYMPTOM 6346 6351	fever
+T37	SYMPTOM 6399 6421	elevated transaminases
+T38	SYMPTOM 6543 6555	leukocytosis
+T39	SYMPTOM 6560 6572	eosinophilia
+T40	SYMPTOM 7964 7976	eosinophilia
+T41	SYMPTOM 8179 8197	abdominal symptoms
+T42	SYMPTOM 5925 6087	anti parietal cell antibodies, anti LC1, antiLKM, anti mitochondrial, anti smooth muscle, anti reticulin, cANCA, anti glomerular basement membrane, pANCA negative
+T45	SYMPTOM 1050 1152	apical akinesia, anterior septal and middle segments of the inferior, anterior and posteroseptal walls
+T46	SYMPTOM 1708 1715	acholia
+T47	SYMPTOM 1731 1751	dysthermic sensation
+T48	SYMPTOM 2559 2580	jaundiced conjunctiva
+T49	SYMPTOM 2582 2615	Jugular venous pulse (PVY) normal
+T50	SYMPTOM 2720 2732	extra sounds
+T51	SYMPTOM 2758 2785	hydro-aerial sounds present
+T52	SYMPTOM 2800 2828	abdomen soft and depressible
+T53	SYMPTOM 2834 2884	painful to superficial or deep abdominal palpation
+T54	SYMPTOM 2921 2945	PPR negative bilaterally
+T55	SYMPTOM 3928 3964	progression of R in precordial leads
+T56	SYMPTOM 5370 5380	free fluid
+T57	SYMPTOM 5738 5768	Serology: HAV and HCV negative
+T58	SYMPTOM 6089 6114	Stool parasites: negative
+T59	SYMPTOM 6284 6291	acholia
+T60	SYMPTOM 6587 6617	elevated acute phase reactants
+T61	SYMPTOM 8237 8244	acholia
+T62	SYMPTOM 8303 8330	high LDL cholesterol levels
+T63	SYMPTOM 8483 8564	transaminase and cytolysis enzyme levels within normal limits in control analyses

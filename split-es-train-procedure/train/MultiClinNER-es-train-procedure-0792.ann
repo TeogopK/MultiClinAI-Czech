@@ -1,0 +1,62 @@
+T94	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T95	PROCEDURE 496 509	Serología VIH
+T96	PROCEDURE 1335 1353	electrocardiograma
+T97	PROCEDURE 1355 1358	ECG
+T98	PROCEDURE 1375 1404	marcadores de daño miocárdico
+T99	PROCEDURE 1488 1506	Exploración física
+T100	PROCEDURE 1571 1585	oxigenoterapia
+T101	PROCEDURE 1727 1748	Auscultación cardiaca
+T102	PROCEDURE 1800 1821	Auscultación pulmonar
+T103	PROCEDURE 1892 1913	Exploración abdominal
+T104	PROCEDURE 2024 2027	ECG
+T105	PROCEDURE 2459 2468	hemograma
+T106	PROCEDURE 2471 2493	estudio de coagulación
+T107	PROCEDURE 2530 2535	iones
+T108	PROCEDURE 2546 2565	Perfil hepatobiliar
+T109	PROCEDURE 2617 2632	Test de tóxicos
+T110	PROCEDURE 2708 2721	proteinograma
+T111	PROCEDURE 2866 2886	Radiografía de tórax
+T112	PROCEDURE 2996 3016	Cateterismo cardiaca
+T113	PROCEDURE 3236 3264	Ecocardiograma transtorácico
+T114	PROCEDURE 3739 3742	ECG
+T115	PROCEDURE 3966 4009	Resonancia magnética nuclear (RMN) cerebral
+T116	PROCEDURE 4104 4139	TC de tórax y abdomen con contraste
+T117	PROCEDURE 4620 4623	ECG
+T118	PROCEDURE 4682 4697	coronariografía
+T119	PROCEDURE 5105 5147	seriación de marcadores de daño miocárdico
+T120	PROCEDURE 5280 5319	tratamiento con antagonistas del calcio
+T121	PROCEDURE 5328 5336	nitratos
+T122	PROCEDURE 5537 5585	maniobras de reanimación cardiopulmonar avanzada
+T123	PROCEDURE 5622 5644	intubación orotraqueal
+T124	PROCEDURE 5775 5798	cardioversión eléctrica
+T125	PROCEDURE 5918 5941	cardioversión eléctrica
+T126	PROCEDURE 5995 6037	seriación de marcadores de daño miocárdico
+T127	PROCEDURE 6198 6212	ecocardiograma
+T128	PROCEDURE 6348 6353	iones
+T129	PROCEDURE 6507 6541	tratamiento con aminas vasoactivas
+T130	PROCEDURE 6868 6888	electrocardiográfica
+T131	PROCEDURE 7428 7441	proteinograma
+T132	PROCEDURE 8076 8125	implantar un desfibrilador automático implantable
+T133	PROCEDURE 8724 8772	Implante de desfibrilador automático implantable
+T143	PROCEDURE 2593 2606	Autoinmunidad
+T144	PROCEDURE 2502 2512	Bioquímica
+T145	PROCEDURE 6701 6724	antagonistas del calcio
+T146	PROCEDURE 2514 2527	función renal
+T147	PROCEDURE 6328 6341	función renal
+T148	PROCEDURE 7681 7684	ACA
+T149	PROCEDURE 8398 8417	tratamiento con ACA
+T150	PROCEDURE 6727 6735	nitratos
+T151	PROCEDURE 7623 7631	nitratos
+T155	PROCEDURE 3996 3999	RMN
+T166	PROCEDURE 2448 2457	Analítica
+T167	PROCEDURE 8127 8130	DAI
+T168	PROCEDURE 8180 8183	DAI
+T169	PROCEDURE 8774 8777	DAI
+T177	PROCEDURE 6259 6268	analítica
+T206	PROCEDURE 421 486	hepatitis C genotipo 1a, curada con triple terapia con boceprevir
+T173	PROCEDURE 2814 2823	Synacthen
+T174	PROCEDURE 3205 3234	nitroglicerina intracoronaria
+T175	PROCEDURE 4880 4909	nitroglicerina intracoronaria
+T176	PROCEDURE 5321 5324	ACA
+T181	PROCEDURE 7716 7749	inhibidor de la fosfodiesterasa 3
+#1	AnnotatorNotes T148	 antagonistas del calcio

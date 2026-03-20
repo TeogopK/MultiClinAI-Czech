@@ -1,0 +1,41 @@
+T3	SYMPTOM 854 889	aurícula izquierda de tamaño límite
+T4	SYMPTOM 1525 1534	arrítmica
+T5	SYMPTOM 1884 1897	palpitaciones
+T8	SYMPTOM 2245 2253	ortopnea
+T9	SYMPTOM 2255 2282	disnea paroxística nocturna
+T10	SYMPTOM 2284 2287	DPN
+T11	SYMPTOM 2293 2333	edematización de extremidades inferiores
+T12	SYMPTOM 2338 2352	dolor torácico
+T13	SYMPTOM 2409 2425	clínica sincopal
+T14	SYMPTOM 2563 2576	ritmo sinusal
+T15	SYMPTOM 2786 2805	Buen estado general
+T16	SYMPTOM 2908 2915	Afebril
+T17	SYMPTOM 2937 2965	ingurgitación venosa yugular
+T18	SYMPTOM 2967 3005	Auscultación cardiaca: ruidos rítmicos
+T19	SYMPTOM 3019 3025	soplos
+T21	SYMPTOM 3088 3104	Abdomen: anodino
+T22	SYMPTOM 3106 3141	Extremidades inferiores: sin edemas
+T23	SYMPTOM 3229 3242	ritmo sinusal
+T24	SYMPTOM 3263 3275	QRS estrecho
+T26	SYMPTOM 3296 3329	alteraciones en la repolarización
+T27	SYMPTOM 3331 3341	QTc normal
+T28	SYMPTOM 3940 4006	Válvula mitral de velos finos con movilidad y apertura conservadas
+T30	SYMPTOM 4235 4276	función sistólica moderadamente deprimida
+T32	SYMPTOM 4510 4567	Ventrículo derecho no dilatado; contractilidad conservada
+T34	SYMPTOM 4584 4633	Válvula tricúspide con buena apertura y movilidad
+T36	SYMPTOM 5660 5734	Ventrículo izquierdo con ligeramoderada depresión de la función contráctil
+T37	SYMPTOM 9957 10003	alteraciones segmentarias de la contractilidad
+T38	SYMPTOM 10065 10078	ritmo sinusal
+T41	SYMPTOM 12056 12068	taquicardias
+T42	SYMPTOM 12121 12134	ritmo sinusal
+T132	SYMPTOM 2429 2440	presincopal
+T1	SYMPTOM 892 907	FEVI conservada
+T6	SYMPTOM 3681 3700	ausencia de ondas P
+T25	SYMPTOM 4454 4508	Anillo valvular y raíz aórtica de dimensiones normales
+T29	SYMPTOM 4723 4759	Vena cava inferior (VCI) no dilatada
+T165	SYMPTOM 4028 4076	Patrón diastólico de alteración de la relajación
+T167	SYMPTOM 5603 5631	Septo interauricular íntegro
+T180	SYMPTOM 4954 4998	arterias coronarias epicárdicas sin lesiones
+T185	SYMPTOM 3280 3290	eje normal
+T196	SYMPTOM 3050 3086	normoventilación en todos los campos
+#1	AnnotatorNotes T10	Disnea paroxística nocturna

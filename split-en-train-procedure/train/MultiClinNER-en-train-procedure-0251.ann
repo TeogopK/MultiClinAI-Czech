@@ -1,0 +1,18 @@
+T12	PROCEDURE 102 113	examination
+T7	PROCEDURE 267 279	hysterectomy
+T6	PROCEDURE 442 464	urological examination
+T2	PROCEDURE 508 539	cystoscopy with multiple biopsy
+T10	PROCEDURE 549 568	anatomopathological
+T20	PROCEDURE 676 684	cytology
+T11	PROCEDURE 689 726	control cystoscopies with cold biopsy
+T1	PROCEDURE 715 726	cold biopsy
+T5	PROCEDURE 815 831	ultrasound study
+T24	PROCEDURE 918 925	CT scan
+T25	PROCEDURE 947 961	pelvic CT scan
+T27	PROCEDURE 1525 1532	surgery
+T28	PROCEDURE 1550 1605	median laparotomy incision was performed with resection
+T3	PROCEDURE 1596 1677	resection of the prevesical neoplastic process associated with partial cystectomy
+T4	PROCEDURE 1659 1677	partial cystectomy
+T31	PROCEDURE 1679 1702	Macroscopic examination
+T32	PROCEDURE 1888 1911	Microscopic examination
+T9	PROCEDURE 2271 2280	resection

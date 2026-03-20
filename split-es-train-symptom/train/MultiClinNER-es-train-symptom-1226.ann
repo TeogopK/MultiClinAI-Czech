@@ -1,0 +1,40 @@
+T1	SYMPTOM 973 1015	elevación de marcadores de daño miocárdico
+T2	SYMPTOM 1053 1059	mareos
+T3	SYMPTOM 1061 1077	malestar general
+T5	SYMPTOM 1138 1152	dolor torácico
+T6	SYMPTOM 1311 1318	cefalea
+T7	SYMPTOM 1321 1327	mareos
+T8	SYMPTOM 1384 1394	Consciente
+T9	SYMPTOM 1396 1405	orientado
+T10	SYMPTOM 1407 1418	colaborador
+T11	SYMPTOM 1483 1498	Bien perfundido
+T12	SYMPTOM 1500 1530	Eupneico en reposo sin oxígeno
+T13	SYMPTOM 1532 1557	Ruidos cardiacos rítmicos
+T14	SYMPTOM 1563 1569	soplos
+T15	SYMPTOM 1571 1600	Murmullo vesicular conservado
+T16	SYMPTOM 1602 1630	Exploración abdominal normal
+T17	SYMPTOM 1632 1662	Miembros inferiores sin edemas
+T18	SYMPTOM 1664 1695	Pedios positivos bilateralmente
+T19	SYMPTOM 1701 1722	focalidad neurológica
+T20	SYMPTOM 2610 2659	Saturación oxihemoglobina (gas arterial) 93% bajo
+T21	SYMPTOM 2944 2957	ritmo sinusal
+T22	SYMPTOM 3094 3122	índice cardiotorácico normal
+T25	SYMPTOM 3451 3508	Ventrículo derecho de tamaño y función sistólica normales
+T26	SYMPTOM 3510 3545	Aurícula izquierda de tamaño normal
+T27	SYMPTOM 4221 4233	asintomático
+T28	SYMPTOM 4458 4470	asintomático
+T29	SYMPTOM 4673 4740	ventrículo izquierdo dilatado con alteraciones de la contractilidad
+T31	SYMPTOM 4830 4855	elevación del segmento ST
+T33	SYMPTOM 5557 5582	FEVI gravemente deprimida
+T4	SYMPTOM 2696 2745	Carboxihemoglobina tras cámara hiperbárica normal
+T23	SYMPTOM 3312 3358	aquinesia de segmento medio y apical del septo
+T24	SYMPTOM 3361 3379	hipocinesia global
+T58	SYMPTOM 3684 3714	Vena cava inferior no dilatada
+T112	SYMPTOM 5074 5121	arterias coronarias sin lesiones significativas
+T115	SYMPTOM 3128 3142	condensaciones
+T119	SYMPTOM 1080 1093	inestabilidad
+T100	SYMPTOM 4316 4342	elevación de biomarcadores
+T101	SYMPTOM 3758 3826	arterias coronarias con irregularidades, sin lesiones significativas
+T102	SYMPTOM 3845 3915	stent implantado en coronaria derecha (CD), que no muestra reestenosis
+T104	SYMPTOM 5333 5366	alteraciones de la contractilidad
+T106	SYMPTOM 5660 5724	stent farmacoactivo en CD, sin datos de trombosis ni reestenosis

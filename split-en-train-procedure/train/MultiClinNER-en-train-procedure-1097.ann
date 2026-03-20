@@ -1,0 +1,43 @@
+T81	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T64	PROCEDURE 366 383	electrocardiogram
+T66	PROCEDURE 385 388	ECG
+T94	PROCEDURE 448 491	the infarction code was initially activated
+T72	PROCEDURE 527 543	Ventriculography
+T74	PROCEDURE 548 564	echocardiography
+T76	PROCEDURE 845 858	beta-blockers
+T2	PROCEDURE 883 922	angiotensin converting enzyme inhibitor
+T1	PROCEDURE 924 937	ACE inhibitor
+T73	PROCEDURE 998 1012	echocardiogram
+T67	PROCEDURE 1192 1195	ECG
+T79	PROCEDURE 1320 1335	Catheterisation
+T6	PROCEDURE 1441 1467	Cardiac magnetic resonance
+T5	PROCEDURE 1469 1472	CMR
+T93	PROCEDURE 1603 1615	beta-blocker
+T82	PROCEDURE 2228 2248	PHYSICAL EXAMINATION
+T83	PROCEDURE 2410 2430	Cardiac auscultation
+T84	PROCEDURE 2454 2476	Pulmonary auscultation
+T68	PROCEDURE 2627 2630	ECG
+T7	PROCEDURE 2890 2906	Laboratory tests
+T91	PROCEDURE 2908 2920	Biochemistry
+T8	PROCEDURE 3171 3180	Haemogram
+T92	PROCEDURE 3292 3303	Haemostasis
+T9	PROCEDURE 3344 3369	Myocardial damage markers
+T75	PROCEDURE 3436 3452	Echocardiography
+T85	PROCEDURE 4087 4096	Ergometry
+T86	PROCEDURE 4102 4123	hyperventilation test
+T87	PROCEDURE 4125 4146	hyperventilation test
+T77	PROCEDURE 4490 4503	beta-blockers
+T89	PROCEDURE 4658 4682	Coronary catheterisation
+T56	PROCEDURE 4947 4980	Vasospasm test with acetylcholine
+T13	PROCEDURE 4982 5064	acetylcholine test was performed with increasing doses in the left coronary artery
+T69	PROCEDURE 5103 5106	ECG
+T90	PROCEDURE 5124 5127	ACD
+T70	PROCEDURE 5360 5363	ECG
+T15	PROCEDURE 5365 5398	Intracoronary nitroglycerin (NTG)
+T71	PROCEDURE 5690 5693	ECG
+T16	PROCEDURE 5716 5735	coronary angiograms
+T88	PROCEDURE 5755 5776	hyperventilation test
+T17	PROCEDURE 5852 5894	coronary vasospasm test with acetylcholine
+T18	PROCEDURE 6055 6093	injection in the right coronary artery
+T65	PROCEDURE 6193 6210	electrocardiogram
+T78	PROCEDURE 6256 6269	beta-blockers

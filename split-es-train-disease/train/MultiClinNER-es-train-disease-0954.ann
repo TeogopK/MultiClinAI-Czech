@@ -1,0 +1,34 @@
+T38	DISEASE 85 97	fibromialgia
+T40	DISEASE 250 280	infección de herida quirúrgica
+T41	DISEASE 1331 1350	taquicardia sinusal
+T42	DISEASE 1598 1611	cardiomegalia
+T43	DISEASE 1613 1628	derrame pleural
+T44	DISEASE 1950 1970	Insuficiencia mitral
+T45	DISEASE 1979 2019	Derrame pericárdico (DP) moderado-severo
+T46	DISEASE 2548 2554	anemia
+T47	DISEASE 3134 3149	derrame pleural
+T48	DISEASE 3385 3419	VI con disfunción sistólica severa
+T49	DISEASE 3728 3745	lesiones cutáneas
+T50	DISEASE 3848 3879	anemia normocítica normocrómica
+T51	DISEASE 3881 3891	linfopenia
+T52	DISEASE 3911 3938	serositis pleuropericárdica
+T53	DISEASE 3999 4058	lupus eritematoso sistémico (LES) con afectación miocárdica
+T54	DISEASE 4028 4031	LES
+T55	DISEASE 4318 4335	anemia hemolítica
+T56	DISEASE 4392 4433	brote lúpico con expresión de pancarditis
+T57	DISEASE 4422 4433	pancarditis
+T58	DISEASE 4436 4477	disfunción sistólica severa biventricular
+T59	DISEASE 4492 4533	Brote lúpico con expresión de pancarditis
+T60	DISEASE 4535 4556	taponamiento cardiaco
+T61	DISEASE 4559 4600	disfunción sistólica severa biventricular
+T62	DISEASE 1477 1509	anemia normocítica, normocrómica
+T63	DISEASE 3008 3027	congestión pulmonar
+T64	DISEASE 3445 3478	disfunción sistólica severa de VD
+T66	DISEASE 99 109	exfumadora
+T67	DISEASE 418 461	cuadro catarral de vías respiratorias altas
+T68	DISEASE 2000 2002	DP
+T69	DISEASE 3480 3504	regurgitación tricúspide
+T70	DISEASE 3506 3508	RT
+T110	DISEASE 1762 1785	hipertrofia concéntrica
+#1	AnnotatorNotes T68	 derrame pericárdico
+#2	AnnotatorNotes T70	 regurgitación tricúspide

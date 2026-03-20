@@ -1,0 +1,34 @@
+T58	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T60	PROCEDURE 145 158	thyroidectomy
+T59	PROCEDURE 647 667	physical examination
+T61	PROCEDURE 843 871	Cardiopulmonary auscultation
+T62	PROCEDURE 1112 1136	neurological examination
+T63	PROCEDURE 1267 1287	portable chest X-ray
+T65	PROCEDURE 1295 1312	electrocardiogram
+T1	PROCEDURE 1375 1401	trathoracic echocardiogram
+T89	PROCEDURE 1517 1527	monitoring
+T2	PROCEDURE 1550 1566	Laboratory tests
+T88	PROCEDURE 1675 1686	coagulation
+T66	PROCEDURE 1844 1856	Urine toxins
+T67	PROCEDURE 1875 1890	thyroid profile
+T64	PROCEDURE 1903 1923	Portable chest X-ray
+T69	PROCEDURE 2006 2009	ECG
+T70	PROCEDURE 2790 2793	ECG
+T73	PROCEDURE 2915 2924	Telemetry
+T74	PROCEDURE 2962 2989	cardioversion at 100 joules
+T78	PROCEDURE 2991 3002	Chest X-ray
+T3	PROCEDURE 3009 3090	bicameral implantable cardioverter defibrillator with normal electrode placement.
+T71	PROCEDURE 3091 3094	ECG
+T72	PROCEDURE 3205 3208	ECG
+T84	PROCEDURE 3226 3254	treatment with beta-blockers
+T80	PROCEDURE 3776 3789	cardioversion
+T81	PROCEDURE 3922 3930	sedation
+T82	PROCEDURE 4025 4043	deep sedoanalgesia
+T83	PROCEDURE 4048 4070	orotracheal intubation
+T85	PROCEDURE 4072 4085	Beta-blockers
+T86	PROCEDURE 4290 4318	detection of toxins in urine
+T68	PROCEDURE 4346 4361	thyroid profile
+T7	PROCEDURE 4590 4649	to implant a bicameral endovascular automatic defibrillator
+T87	PROCEDURE 4777 4789	beta-blocker
+T8	PROCEDURE 4841 4881	blood tests were taken for genetic study
+T9	PROCEDURE 5267 5289	Implantation of DR ICD

@@ -1,0 +1,47 @@
+T79	PROCEDURE 461 481	orquiectomía derecha
+T80	PROCEDURE 508 535	QT (cisplatino + etopósido)
+T81	PROCEDURE 1185 1203	Exploración física
+T82	PROCEDURE 1457 1478	Auscultación cardiaca
+T83	PROCEDURE 1501 1522	Auscultación pulmonar
+T84	PROCEDURE 2086 2101	Perfil lipídico
+T85	PROCEDURE 2203 2212	Hemograma
+T86	PROCEDURE 2415 2426	Coagulación
+T87	PROCEDURE 2575 2593	Electrocardiograma
+T88	PROCEDURE 2595 2598	ECG
+T89	PROCEDURE 2726 2746	Radiografía de tórax
+T90	PROCEDURE 2843 2858	Coronariografía
+T91	PROCEDURE 3255 3270	Coronariografía
+T92	PROCEDURE 3302 3330	triple terapia antiagregante
+T93	PROCEDURE 3456 3484	Ecocardiograma transtorácico
+T94	PROCEDURE 3524 3539	coronariografía
+T95	PROCEDURE 3824 3837	quimioterapia
+T96	PROCEDURE 3904 3928	radioterapia ipsilateral
+T97	PROCEDURE 3962 3965	ECG
+T98	PROCEDURE 4244 4282	quimioterapia (cisplatino + etopósido)
+T99	PROCEDURE 4432 4435	ECG
+T100	PROCEDURE 4631 4682	anticoagulación con heparina de bajo peso molecular
+T101	PROCEDURE 4685 4752	antiagregación doble con ácido acetilsalicílico (AAS) y clopidogrel
+T102	PROCEDURE 4776 4791	coronariografía
+T103	PROCEDURE 5059 5110	anticoagulación con heparina de bajo peso molecular
+T104	PROCEDURE 5112 5141	triple terapia antitrombótica
+T105	PROCEDURE 5167 5182	coronariografía
+T106	PROCEDURE 5204 5221	implante de stent
+T107	PROCEDURE 5268 5283	coronariografía
+T108	PROCEDURE 5416 5442	tratamiento anticoagulante
+T109	PROCEDURE 5450 5478	ecocardiograma transtorácico
+T110	PROCEDURE 5679 5732	doble antiagregación plaquetaria con AAS y ticagrelor
+T111	PROCEDURE 5849 5875	tratamiento quimioterápico
+T112	PROCEDURE 5972 5984	radioterapia
+T113	PROCEDURE 6158 6179	triple antiagregación
+T114	PROCEDURE 6182 6197	anticoagulación
+T115	PROCEDURE 6333 6371	quimioterapia (cisplatino + etopósido)
+T122	PROCEDURE 4631 4646	anticoagulación
+T136	PROCEDURE 1961 1971	Bioquímica
+T137	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T138	PROCEDURE 1835 1873	Marcadores de daño miocárdico seriados
+T139	PROCEDURE 4384 4413	marcadores de daño miocárdico
+T140	PROCEDURE 1649 1658	palpación
+T144	PROCEDURE 1824 1833	Analítica
+T167	PROCEDURE 4966 4988	perfusión de tirofibán
+T176	PROCEDURE 4581 4603	tratamiento oncológico
+T152	PROCEDURE 3333 3347	anticoagulante

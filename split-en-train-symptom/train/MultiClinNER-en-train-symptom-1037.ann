@@ -1,0 +1,43 @@
+T1	SYMPTOM 105 115	chest pain
+T2	SYMPTOM 3348 3358	chest pain
+T3	SYMPTOM 3777 3787	chest pain
+T4	SYMPTOM 4472 4482	chest pain
+T5	SYMPTOM 4681 4691	chest pain
+T6	SYMPTOM 261 273	Asymptomatic
+T7	SYMPTOM 3602 3614	asymptomatic
+T8	SYMPTOM 520 537	vegetative cortex
+T9	SYMPTOM 832 855	haemodynamically stable
+T10	SYMPTOM 3577 3600	haemodynamically stable
+T11	SYMPTOM 979 994	Eupneic at rest
+T12	SYMPTOM 996 1009	well hydrated
+T13	SYMPTOM 1011 1020	nourished
+T14	SYMPTOM 1025 1033	perfused
+T15	SYMPTOM 1039 1047	rhythmic
+T16	SYMPTOM 1056 1063	murmurs
+T17	SYMPTOM 1067 1077	extratonos
+T18	SYMPTOM 1152 1194	Abdomen: hydro-aerial sounds present, soft
+T19	SYMPTOM 1285 1291	oedema
+T20	SYMPTOM 1296 1308	signs of DVT
+T21	SYMPTOM 1379 1391	sinus rhythm
+T22	SYMPTOM 1637 1682	normal global and segmental systolic function
+T23	SYMPTOM 2709 2731	MRSA culture: negative
+T24	SYMPTOM 2777 2812	LV with preserved systolic function
+T25	SYMPTOM 3624 3649	heart rhythm disturbances
+T26	SYMPTOM 4293 4308	general malaise
+T27	SYMPTOM 4322 4342	dysthermic sensation
+T28	SYMPTOM 4348 4353	fever
+T29	SYMPTOM 4515 4552	elevated markers of myocardial damage
+T30	SYMPTOM 4776 4790	preserved LVEF
+T31	SYMPTOM 5104 5118	Preserved LVEF
+T32	SYMPTOM 1684 1702	Normal aortic root
+T33	SYMPTOM 378 403	shooting pains in the jaw
+T34	SYMPTOM 952 977	oriented in all 3 spheres
+T35	SYMPTOM 1138 1150	extra sounds
+T36	SYMPTOM 1083 1129	vesicular murmur preserved in both lung fields
+T37	SYMPTOM 1310 1351	Basic neurological examination was normal
+T38	SYMPTOM 1403 1441	Poor R wave growth in precordial leads
+T39	SYMPTOM 3118 3150	LCT, LAD and DC within normality
+T40	SYMPTOM 3194 3228	LVEF preserved in ventriculography
+T41	SYMPTOM 3921 3959	ncrease in transaminases and bilirubin
+T42	SYMPTOM 4310 4317	myalgia
+T43	SYMPTOM 4799 4847	alterations in global or segmental contractility

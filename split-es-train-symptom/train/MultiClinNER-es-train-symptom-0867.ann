@@ -1,0 +1,58 @@
+T1	SYMPTOM 133 147	dolor torácico
+T2	SYMPTOM 149 155	disnea
+T3	SYMPTOM 266 288	alteraciones cardiacas
+T4	SYMPTOM 704 716	hipoestesias
+T7	SYMPTOM 1001 1015	dolor torácico
+T8	SYMPTOM 1017 1023	disnea
+T9	SYMPTOM 1221 1240	Buen estado general
+T10	SYMPTOM 1242 1269	bien hidratada y perfundida
+T12	SYMPTOM 1339 1346	Afebril
+T13	SYMPTOM 1348 1366	Eupneica en reposo
+T14	SYMPTOM 1368 1397	Presión venosa yugular normal
+T15	SYMPTOM 1399 1429	Auscultación cardiaca: rítmica
+T16	SYMPTOM 1444 1450	soplos
+T17	SYMPTOM 1475 1504	murmullo vesicular conservado
+T18	SYMPTOM 1506 1530	Abdomen sin alteraciones
+T19	SYMPTOM 1532 1563	Miembros inferiores: sin edemas
+T20	SYMPTOM 1565 1583	pulsos conservados
+T21	SYMPTOM 1630 1643	ritmo sinusal
+T22	SYMPTOM 1666 1678	QRS estrecho
+T24	SYMPTOM 1813 1841	índice cardiotorácico normal
+T25	SYMPTOM 2273 2309	Ácido fólico y vitamina B12 normales
+T26	SYMPTOM 2358 2376	Tiroideas normales
+T27	SYMPTOM 2390 2431	Factor Leiden y factor II 20.210 negativo
+T28	SYMPTOM 2433 2452	Homocisteína normal
+T29	SYMPTOM 2454 2474	Proteinograma normal
+T36	SYMPTOM 4583 4609	Sistema ventricular normal
+T37	SYMPTOM 4633 4687	Eco Doppler de troncos supraaórticos: sin alteraciones
+T39	SYMPTOM 4960 5012	VD de tamaño normal con función sistólica conservada
+T42	SYMPTOM 5172 5189	Pericardio normal
+T43	SYMPTOM 6665 6694	fracción de eyección reducida
+T5	SYMPTOM 2311 2333	Autoimunidad: negativa
+T6	SYMPTOM 2335 2353	Complemento normal
+T23	SYMPTOM 2476 2550	Serología: VIH, Herpes simple, VEB, CMV, Brucela, Lues y Borrelia negativa
+T30	SYMPTOM 2619 2645	depresión grave de la FEVI
+T116	SYMPTOM 2660 2696	acinesia y remodelado extenso apical
+T31	SYMPTOM 2698 2767	acinesia anterior extensa, inferior medio-apical y septo medio-apical
+T117	SYMPTOM 3596 3628	VI de tamaño normal con acinesia
+T32	SYMPTOM 3706 3770	Hipocinesia severa de septo medio, lateral medio, inferior medio
+T118	SYMPTOM 4166 4206	Ventrículo derecho (VD) de tamaño normal
+T119	SYMPTOM 4208 4236	Aurícula derecha (AD) normal
+T33	SYMPTOM 4728 4752	VI dilatado con acinesia
+T34	SYMPTOM 5610 5636	depresión grave de la FEVI
+T131	SYMPTOM 2938 2978	Tronco coronario izquierdo sin estenosis
+T140	SYMPTOM 1949 1963	fórmula normal
+T35	SYMPTOM 1680 1705	Onda Q en V1-V4, DI y aVL
+T38	SYMPTOM 1710 1789	onda T isodifásica en V2-V4, plana en V5-V6, DI y aVL y derivaciones inferiores
+T40	SYMPTOM 2201 2226	Inmonoglubulinas normales
+T41	SYMPTOM 2863 2881	dominancia derecha
+T121	SYMPTOM 3261 3308	Circunfleja y coronaria derecha de buen calibre
+T122	SYMPTOM 3517 3549	Doble sistema arterial izquierdo
+T123	SYMPTOM 3408 3467	arteria renal derecha rectilínea con pequeñas deformaciones
+T124	SYMPTOM 3929 3965	Realce tardío muy extenso transmural
+T125	SYMPTOM 3782 3795	Hipoperfusión
+T126	SYMPTOM 4297 4395	hipodensidad corticosubcortical en convexidad parietal izquierda y en núcleos de la base izquierdo
+T127	SYMPTOM 4452 4503	hiperdensidad a nivel del top de la arteria basilar
+T128	SYMPTOM 4611 4631	Línea media centrada
+T129	SYMPTOM 4867 4894	imagen aneurismática apical
+T130	SYMPTOM 5855 5878	cifras bajas de TA y FC

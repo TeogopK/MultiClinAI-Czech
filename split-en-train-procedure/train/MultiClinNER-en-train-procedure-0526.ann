@@ -1,0 +1,19 @@
+T4	PROCEDURE 109 115	biopsy
+T5	PROCEDURE 136 153	local anaesthesia
+T14	PROCEDURE 186 206	cervical examination
+T8	PROCEDURE 290 302	radiotherapy
+T1	PROCEDURE 389 407	orthopantomography
+T20	PROCEDURE 422 459	cervicofacial computerised tomography
+T21	PROCEDURE 553 605	cytological puncture of the submandibular adenopathy
+T9	PROCEDURE 651 654	MRI
+T11	PROCEDURE 762 783	Surgical intervention
+T2	PROCEDURE 790 809	general anaesthesia
+T12	PROCEDURE 863 888	Lefort I type maxillotomy
+T6	PROCEDURE 892 940	unilateral supraomohyoid cervical nodal emptying
+T7	PROCEDURE 961 977	Tumour resection
+T13	PROCEDURE 982 1066	bone repositioning of the maxillary was performed using 1.5 mm preformed mini-plates
+T10	PROCEDURE 1098 1118	pathological anatomy
+T3	PROCEDURE 1407 1465	adjuvant radiotherapy in the right pterygomaxillary region
+T30	PROCEDURE 1480 1526	imaging controls by means of resonance imaging
+T32	PROCEDURE 1587 1651	extend the surgical margins in the right pterygomaxillary region
+T15	PROCEDURE 1656 1713	reconstruct the defect using a buccal adipose Bichat ball

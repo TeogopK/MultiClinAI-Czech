@@ -1,0 +1,29 @@
+T1	PROCEDURE 426 462	Cirugías previas: reducción de pecho
+T40	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T41	PROCEDURE 464 483	ligadura de trompas
+T42	PROCEDURE 600 610	ergometría
+T43	PROCEDURE 641 670	SPECT de perfusión miocárdica
+T44	PROCEDURE 1294 1312	electrocardiograma
+T45	PROCEDURE 1314 1317	ECG
+T46	PROCEDURE 1682 1697	coronariografía
+T47	PROCEDURE 1762 1854	arteria circunfleja media, que es revascularizada mediante implante de 1 stent farmacoactivo
+T48	PROCEDURE 2002 2017	ecocardiografía
+T49	PROCEDURE 2196 2211	perfil lipídico
+T50	PROCEDURE 2781 2784	ECG
+T51	PROCEDURE 2799 2814	Coronariografía
+T52	PROCEDURE 2977 3062	arteria circunfleja media, revascularizada mediante implante de 1 stent farmacoactivo
+T53	PROCEDURE 3064 3079	Ecocardiografía
+T54	PROCEDURE 3512 3527	Perfil lipídico
+T56	PROCEDURE 4331 4363	tratamiento hipoglucemiante oral
+T58	PROCEDURE 5169 5192	rehabilitación cardiaca
+T59	PROCEDURE 6177 6242	arteria circunfleja, revascularizada mediante implante de 1 stent
+T7	PROCEDURE 1499 1528	marcadores de daño miocárdico
+T35	PROCEDURE 4707 4730	tratamiento antifúgnico
+T89	PROCEDURE 5081 5122	tratamiento con insulinas de acción lenta
+T90	PROCEDURE 5268 5329	agonistas del receptor del péptido similar al glucagón tipo 1
+T91	PROCEDURE 5331 5337	arGLP1
+T92	PROCEDURE 3389 3398	Analítica
+T101	PROCEDURE 1396 1405	analítica
+T102	PROCEDURE 2124 2133	analítica
+T103	PROCEDURE 5836 5845	analítica
+#1	AnnotatorNotes T91	agonistas del receptor del péptido similar al glucagón tipo 1

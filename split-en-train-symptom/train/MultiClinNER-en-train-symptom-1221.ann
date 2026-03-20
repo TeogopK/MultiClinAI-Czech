@@ -1,0 +1,55 @@
+T1	SYMPTOM 224 251	normal ventricular function
+T31	SYMPTOM 256 268	asymptomatic
+T32	SYMPTOM 417 428	pT3 pN0 cM0
+T2	SYMPTOM 1164 1185	loss of consciousness
+T3	SYMPTOM 1749 1772	haemodynamically stable
+T5	SYMPTOM 1774 1783	conscious
+T7	SYMPTOM 1788 1796	oriented
+T9	SYMPTOM 1871 1881	chest pain
+T11	SYMPTOM 2027 2049	Good general condition
+T6	SYMPTOM 2051 2060	conscious
+T8	SYMPTOM 2065 2073	oriented
+T12	SYMPTOM 2075 2090	eupneic at rest
+T38	SYMPTOM 2092 2105	Normoperfused
+T13	SYMPTOM 2107 2137	Cardiac auscultation: rhythmic
+T14	SYMPTOM 2142 2149	murmurs
+T15	SYMPTOM 2153 2163	extratonos
+T16	SYMPTOM 2189 2215	preserved vesicular murmur
+T39	SYMPTOM 2224 2236	extra sounds
+T17	SYMPTOM 2238 2260	Lower limbs: no oedema
+T18	SYMPTOM 2288 2300	sinus rhythm
+T20	SYMPTOM 2311 2320	Normal PR
+T40	SYMPTOM 2362 2400	significant repolarisation alterations
+T33	SYMPTOM 2430 2446	normal haemogram
+T21	SYMPTOM 2448 2466	Normal coagulation
+T41	SYMPTOM 2601 2622	normal renal function
+T22	SYMPTOM 2632 2649	ionic alterations
+T23	SYMPTOM 2659 2689	negative acute phase reactants
+T35	SYMPTOM 2774 2783	normal CK
+T42	SYMPTOM 2832 2858	normal cardiothoracic inde
+T34	SYMPTOM 3196 3231	Left coronary trunk without lesions
+T43	SYMPTOM 3662 3707	Circumflex and right coronary without lesions
+T44	SYMPTOM 3725 3779	left ventricle not dilated, with normal wall thickness
+T24	SYMPTOM 3781 3812	Normal global systolic function
+T45	SYMPTOM 3828 3876	hypokinesia of inferior septum and inferior face
+T46	SYMPTOM 3878 3928	Transmitral filling pattern of impaired relaxation
+T47	SYMPTOM 3944 3967	Left atrium not dilated
+T26	SYMPTOM 3969 3993	Non-dilated right atrium
+T27	SYMPTOM 3995 4060	Non-dilated right ventricle, with normal global systolic function
+T25	SYMPTOM 4152 4204	Aortic valve morphologically and functionally normal
+T28	SYMPTOM 4206 4244	Tricuspid valve morphologically normal
+T48	SYMPTOM 4318 4348	Inferior vena cava not dilated
+T36	SYMPTOM 4415 4429	Epicardial fat
+T37	SYMPTOM 4431 4454	Non-dilated aortic root
+T49	SYMPTOM 4456 4510	Cardiac magnetic resonance: study within normal limits
+T50	SYMPTOM 4524 4546	myocardial inflammatio
+T51	SYMPTOM 4551 4569	ischaemic scarring
+T52	SYMPTOM 4571 4632	Biventricular size and systolic function within normal limits
+T53	SYMPTOM 4882 4927	Ectopic vessel originating in the right sinus
+T19	SYMPTOM 6373 6385	sinus rhythm
+T4	SYMPTOM 6917 6940	haemodynamically stable
+T10	SYMPTOM 6950 6960	chest pain
+T54	SYMPTOM 6996 7022	ionic or other alterations
+T29	SYMPTOM 7031 7104	transthoracic echocardiogram, biventricular size and function were normal
+T55	SYMPTOM 7354 7413	elevation of myocardial damage markers in the serialisation
+T30	SYMPTOM 10011 10040	Normal biventricular function

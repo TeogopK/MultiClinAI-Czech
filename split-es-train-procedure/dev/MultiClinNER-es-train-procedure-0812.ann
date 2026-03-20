@@ -1,0 +1,33 @@
+T44	PROCEDURE 990 1008	exploración física
+T45	PROCEDURE 1010 1028	electrocardiograma
+T46	PROCEDURE 1030 1041	Rx de tórax
+T47	PROCEDURE 1298 1330	auscultación cardiorrespiratoria
+T48	PROCEDURE 1495 1508	examen físico
+T49	PROCEDURE 1560 1578	Electrocardiograma
+T50	PROCEDURE 1650 1670	Radiografía de tórax
+T51	PROCEDURE 1931 1960	ecocardiografía transtorácica
+T52	PROCEDURE 2070 2080	ergometría
+T53	PROCEDURE 2477 2505	ecocardiografía postesfuerzo
+T54	PROCEDURE 2567 2581	Ecocardiograma
+T55	PROCEDURE 2869 2879	Ergometría
+T56	PROCEDURE 3897 3922	tratamiento antiisquémico
+T57	PROCEDURE 3959 3972	TAC coronario
+T58	PROCEDURE 3993 4024	tratamiento con betabloqueantes
+T59	PROCEDURE 4060 4063	TAC
+T60	PROCEDURE 4522 4553	tratamiento con betabloqueantes
+T61	PROCEDURE 4618 4658	ecocardiografía de estrés con dobutamina
+T62	PROCEDURE 4664 4690	tratamiento betabloqueante
+T63	PROCEDURE 5036 5051	coronariografía
+T64	PROCEDURE 5145 5148	TAC
+T65	PROCEDURE 5153 5182	inyección selectiva de la ADA
+T66	PROCEDURE 5479 5509	estudio de hipercoagulabilidad
+T67	PROCEDURE 5565 5591	tratamiento betabloqueante
+T70	PROCEDURE 129 148	diruético tiazídico
+T71	PROCEDURE 1761 1799	marcadores de daño miocárdico seriados
+T72	PROCEDURE 1814 1825	coagulación
+T73	PROCEDURE 3924 3939	betabloqueantes
+T74	PROCEDURE 4705 4736	prueba de detección de isquemia
+T78	PROCEDURE 1725 1734	Analítica
+T84	PROCEDURE 1044 1053	analítica
+T89	PROCEDURE 1746 1756	bioquímica
+T112	PROCEDURE 1801 1811	serie roja

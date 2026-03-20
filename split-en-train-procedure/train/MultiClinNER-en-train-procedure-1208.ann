@@ -1,0 +1,44 @@
+T61	PROCEDURE 242 256	ergospirometry
+T78	PROCEDURE 371 401	anticoagulated with dabigatran
+T2	PROCEDURE 425 482	Implantation of an implantable cardioverter defibrillator
+T3	PROCEDURE 484 487	ICD
+T4	PROCEDURE 1037 1058	heart transplantation
+T5	PROCEDURE 1269 1290	heart transplantation
+T50	PROCEDURE 1349 1366	electrocardiogram
+T51	PROCEDURE 1368 1371	ECG
+T6	PROCEDURE 1374 1394	complete blood tests
+T53	PROCEDURE 1400 1417	coagulation study
+T54	PROCEDURE 1419 1430	chest X-ray
+T7	PROCEDURE 1435 1456	blood product reserve
+T79	PROCEDURE 1488 1518	anticoagulated with dabigatran
+T62	PROCEDURE 1611 1631	PHYSICAL EXAMINATION
+T56	PROCEDURE 1888 1900	auscultation
+T52	PROCEDURE 2158 2161	ECG
+T55	PROCEDURE 2229 2240	Chest X-ray
+T57	PROCEDURE 2534 2564	Transthoracic echocardiography
+T11	PROCEDURE 3279 3293	CORONARYGRAPHY
+T12	PROCEDURE 3321 3338	RIGHT CATHETERISM
+T13	PROCEDURE 3572 3598	Thoracic-abdominal CT scan
+T14	PROCEDURE 3835 3895	DOPLER ultrasound of the supra-aortic trunks and lower limbs
+T63	PROCEDURE 3936 3960	Anti-HLA I-II antibodies
+T64	PROCEDURE 3971 3979	SEROLOGY
+T65	PROCEDURE 4369 4387	Syphilis screening
+T66	PROCEDURE 4398 4412	TUMOUR MARKERS
+T77	PROCEDURE 4424 4433	ANALYTICS
+T69	PROCEDURE 4566 4577	Coagulation
+T67	PROCEDURE 4646 4659	Lipid profile
+T73	PROCEDURE 4725 4740	thyroid profile
+T74	PROCEDURE 4742 4758	COAGULATION TEST
+T15	PROCEDURE 5106 5133	reverse the anticoagulation
+T16	PROCEDURE 5459 5480	surgery was performed
+T17	PROCEDURE 5485 5558	orthotopic heart transplantation was performed using the bicava technique
+T75	PROCEDURE 5564 5586	extracorporeal surgery
+T58	PROCEDURE 5724 5754	transfusions of blood products
+T59	PROCEDURE 5756 5770	Heparinisation
+T18	PROCEDURE 5808 5849	two mediastinal drains were left in place
+T19	PROCEDURE 5808 5866	two mediastinal drains were left in place and were removed
+T60	PROCEDURE 6007 6016	extubated
+T76	PROCEDURE 6123 6149	immunosuppression protocol
+T20	PROCEDURE 6239 6257	cardiac transplant
+T21	PROCEDURE 6368 6417	orthotopic heart transplant with bicava technique
+T82	PROCEDURE 6565 6579	anticoagulated

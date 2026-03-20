@@ -1,0 +1,36 @@
+T54	PROCEDURE 235 285	minitoracotomía derecha tipo Heart Port modificado
+T55	PROCEDURE 582 600	Exploración física
+T56	PROCEDURE 943 964	Auscultación cardiaca
+T57	PROCEDURE 987 1008	Auscultación pulmonar
+T58	PROCEDURE 1152 1170	Electrocardiograma
+T59	PROCEDURE 1172 1175	ECG
+T60	PROCEDURE 1549 1568	Gasometría arterial
+T61	PROCEDURE 1647 1667	Radiografía de tórax
+T62	PROCEDURE 1860 1886	exploración transesofágica
+T63	PROCEDURE 1892 1900	sedación
+T64	PROCEDURE 2676 2685	Angio-TAC
+T65	PROCEDURE 3129 3162	Gammagrafía ventilación/perfusión
+T66	PROCEDURE 3164 3184	estudio gammagráfico
+T67	PROCEDURE 3224 3236	Espirometría
+T68	PROCEDURE 3290 3319	Resonancia magnética cardiaca
+T69	PROCEDURE 3843 3911	Se administra ácido gadotérico (0,15 mM/kg) para estudio vascular 3D
+T70	PROCEDURE 4108 4153	Estudio de detección de necrosis y viabilidad
+T71	PROCEDURE 4509 4538	ecocardiografía transtorácica
+T72	PROCEDURE 4540 4543	ETT
+T73	PROCEDURE 4551 4581	ecocardiografía transesofágica
+T74	PROCEDURE 4583 4586	ETE
+T75	PROCEDURE 4725 4786	Se administró contraste a través de ambos miembros superiores
+T76	PROCEDURE 4899 4918	tomografía pulmonar
+T77	PROCEDURE 4925 4961	gammagrafía de ventilación/perfusión
+T78	PROCEDURE 5090 5119	resonancia magnética cardiaca
+T79	PROCEDURE 5121 5124	RMC
+T80	PROCEDURE 5268 5315	corrección anatómica del drenaje anómalo de VCI
+T81	PROCEDURE 5708 5730	gasometrías arteriales
+T82	PROCEDURE 5733 5748	ecocardiografía
+T83	PROCEDURE 5848 5900	reparación quirúrgica de comunicación interauricular
+T84	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 1813 1858	Ecocardiograma transtorácico y transesofágico
+T97	PROCEDURE 1274 1283	Analítica
+T118	PROCEDURE 205 212	cirugía
+T121	PROCEDURE 5328 5340	intervención
+T92	PROCEDURE 2553 2577	inyección de gelafundina

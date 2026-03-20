@@ -1,0 +1,33 @@
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 742 788	maniobras de reanimación cardiopulmonar básica
+T48	PROCEDURE 1117 1132	sedoanalgesiado
+T49	PROCEDURE 1134 1142	intubado
+T50	PROCEDURE 1157 1177	ventilación mecánica
+T51	PROCEDURE 1180 1198	Exploración física
+T52	PROCEDURE 1963 1979	Tóxicos en orina
+T53	PROCEDURE 2022 2042	Radiografía de tórax
+T55	PROCEDURE 2249 2278	Ecocardiografía transtorácica
+T56	PROCEDURE 2591 2600	TC cráneo
+T57	PROCEDURE 2825 2852	Cardiorresonancia magnética
+T58	PROCEDURE 3115 3188	se canaliza acceso venoso femoral para realización de hipotermia inducida
+T60	PROCEDURE 3422 3432	hipotermia
+T61	PROCEDURE 3473 3498	retirada de la relajación
+T62	PROCEDURE 3687 3690	EEG
+T63	PROCEDURE 3762 3781	terapia antibiótica
+T64	PROCEDURE 3916 3926	intubación
+T65	PROCEDURE 3956 3963	weaning
+T66	PROCEDURE 3973 3983	extubación
+T67	PROCEDURE 3998 4007	TC cráneo
+T68	PROCEDURE 4016 4026	extubación
+T69	PROCEDURE 4178 4208	estudio angiográfico coronario
+T70	PROCEDURE 4349 4363	rehabilitación
+T71	PROCEDURE 4381 4408	cardiorresonancia magnética
+T72	PROCEDURE 4589 4618	se le implanta DAI unicameral
+T80	PROCEDURE 4070 4084	monitorización
+T81	PROCEDURE 3227 3254	Se mantiene sedoanalgesiado
+T82	PROCEDURE 3501 3534	suspensión gradual de la sedación
+T108	PROCEDURE 1622 1631	Analítica
+T16	PROCEDURE 854 878	se detecta mediante DESA
+T26	PROCEDURE 900 928	Se aplican hasta 4 descargas
+T54	PROCEDURE 981 1000	bolos de adrenalina
+T84	PROCEDURE 1040 1048	descarga

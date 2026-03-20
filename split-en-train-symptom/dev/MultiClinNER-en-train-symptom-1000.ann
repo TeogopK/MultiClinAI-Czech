@@ -1,0 +1,36 @@
+T1	SYMPTOM 627 635	wheezing
+T3	SYMPTOM 640 660	increased secretions
+T4	SYMPTOM 706 722	cardiac symptoms
+T5	SYMPTOM 731 750	exertional dyspnoea
+T6	SYMPTOM 760 772	palpitations
+T7	SYMPTOM 807 816	Conscious
+T8	SYMPTOM 818 826	oriented
+T24	SYMPTOM 828 839	cooperative
+T9	SYMPTOM 841 863	Good general condition
+T10	SYMPTOM 865 878	Well hydrated
+T11	SYMPTOM 883 891	perfused
+T12	SYMPTOM 893 908	Eupneic at rest
+T13	SYMPTOM 913 934	jugular ingurgitation
+T20	SYMPTOM 936 957	Rhythmic auscultation
+T14	SYMPTOM 966 973	murmurs
+T15	SYMPTOM 975 996	Disseminated wheezing
+T2	SYMPTOM 988 996	wheezing
+T25	SYMPTOM 998 1035	Symmetrical peripheral pulses present
+T26	SYMPTOM 1040 1046	oedema
+T16	SYMPTOM 1076 1088	Sinus rhythm
+T17	SYMPTOM 1100 1109	Normal PR
+T27	SYMPTOM 1111 1120	Left axis
+T28	SYMPTOM 1160 1212	Anomalous progression of R in right precordial leads
+T29	SYMPTOM 1229 1256	normal cardiothoracic index
+T21	SYMPTOM 1265 1282	aortic elongation
+T30	SYMPTOM 1284 1308	Enlarged pulmonary hilum
+T31	SYMPTOM 1449 1490	Pulmonary cone slightly increased in size
+T32	SYMPTOM 1530 1586	Mosaic pattern of pulmonary parenchyma of vascular cause
+T22	SYMPTOM 1699 1746	Left ventricle of normal size and contractility
+T34	SYMPTOM 1748 1774	Left atrium of normal size
+T33	SYMPTOM 1776 1818	Right chambers of normal size and function
+T18	SYMPTOM 1820 1854	Right AV valve without alterations
+T35	SYMPTOM 2065 2123	Anterior and left aorta in relation to the pulmonary aorta
+T36	SYMPTOM 2148 2228	Systemic ventricle with increased volumes and function at the limit of normality
+T23	SYMPTOM 2230 2297	Subpulmonary ventricle with reduced volume and normal contractility
+T19	SYMPTOM 2448 2483	Pulmonary valve without alterations

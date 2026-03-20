@@ -1,0 +1,63 @@
+T36	DISEASE 85 107	allergic to penicillin
+T6	DISEASE 112 148	intolerant to tramadol and metformin
+T37	DISEASE 167 185	metabolic syndrome
+T39	DISEASE 192 207	central obesity
+T40	DISEASE 237 249	hypertension
+T7	DISEASE 251 253	HT
+T43	DISEASE 256 269	dyslipidaemia
+T44	DISEASE 271 274	DLP
+T45	DISEASE 280 283	DM2
+T48	DISEASE 345 354	Ex-smoker
+T50	DISEASE 389 411	chronic kidney disease
+T8	DISEASE 413 416	CKD
+T51	DISEASE 459 496	chronic obstructive pulmonary disease
+T52	DISEASE 498 502	COPD
+T53	DISEASE 508 529	sleep apnoea syndrome
+T9	DISEASE 531 536	OSAHS
+T10	DISEASE 707 727	colon polyps (benign
+T54	DISEASE 804 827	ischaemic heart disease
+T11	DISEASE 838 841	AMI
+T56	DISEASE 849 869	three-vessel disease
+T12	DISEASE 1203 1205	HF
+T57	DISEASE 1274 1297	ventricular dysfunction
+T13	DISEASE 1438 1482	occlusion of the saphenous vein graft to ACx
+T14	DISEASE 1588 1590	HF
+T58	DISEASE 1648 1662	atrial flutter
+T84	DISEASE 1796 1813	arrhythmic events
+T15	DISEASE 2057 2059	HF
+T59	DISEASE 2270 2285	water retention
+T16	DISEASE 2366 2376	low output
+T41	DISEASE 2592 2604	hypertension
+T62	DISEASE 2751 2758	Obesity
+T69	DISEASE 5487 5504	sinus bradycardia
+T70	DISEASE 5803 5819	pleural effusion
+T63	DISEASE 5893 5900	obesity
+T85	DISEASE 5902 5924	Dilated cardiomyopathy
+T17	DISEASE 5930 5963	moderately dilated left ventricle
+T86	DISEASE 6074 6095	Diastolic dysfunction
+T71	DISEASE 6097 6119	Aortic valve sclerosis
+T72	DISEASE 6177 6197	mitral insufficiency
+T18	DISEASE 6199 6201	MI
+T73	DISEASE 6263 6328	severe pulmonary hypertension (PHT) due to pulmonary acceleration
+T19	DISEASE 6294 6297	PHT
+T74	DISEASE 6488 6508	pericardial effusion
+T20	DISEASE 6720 6722	HF
+T80	DISEASE 7145 7147	It
+T21	DISEASE 7351 7353	HF
+T22	DISEASE 7554 7556	HF
+T23	DISEASE 7836 7856	decompensation of HF
+T75	DISEASE 8051 8067	lumbar pathology
+T64	DISEASE 8502 8509	Obesity
+T46	DISEASE 9269 9272	DM2
+T65	DISEASE 9286 9293	obesity
+T24	DISEASE 9609 9611	HF
+T60	DISEASE 9941 9956	water retention
+T66	DISEASE 10181 10188	obesity
+T25	DISEASE 10611 10613	HF
+T76	DISEASE 10749 10829	Moderate left ventricular systolic dysfunction (LVEF 35%) of ischaemic aetiology
+T77	DISEASE 10857 10888	chronic ischaemic heart disease
+T26	DISEASE 11172 11212	Metabolic syndrome with type III obesity
+T68	DISEASE 11374 11381	obesity
+T47	DISEASE 11384 11387	DM2
+T78	DISEASE 11459 11470	chronic CKD
+T49	DISEASE 11526 11535	Ex-smoker

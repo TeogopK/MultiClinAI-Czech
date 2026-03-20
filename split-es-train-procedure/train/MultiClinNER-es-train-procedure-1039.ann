@@ -1,0 +1,30 @@
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 439 465	cardioversiones eléctricas
+T95	PROCEDURE 2002 2020	electrocardiograma
+T96	PROCEDURE 2100 2139	maniobras de reanimación cardiopulmonar
+T97	PROCEDURE 2141 2144	RCP
+T99	PROCEDURE 2557 2592	implantación de marcapasos temporal
+T100	PROCEDURE 2765 2779	monitorización
+T101	PROCEDURE 2822 2840	Exploración física
+T102	PROCEDURE 3057 3084	Auscultación cardiopulmonar
+T103	PROCEDURE 3379 3390	Neurológica
+T104	PROCEDURE 3701 3704	ECG
+T105	PROCEDURE 4222 4241	Analítica sanguínea
+T106	PROCEDURE 4243 4252	Hemograma
+T107	PROCEDURE 4404 4415	Coagulación
+T108	PROCEDURE 5032 5045	Marcadores IC
+T109	PROCEDURE 5113 5132	Gasometría arterial
+T110	PROCEDURE 5221 5249	Ecocardiograma transtorácico
+T111	PROCEDURE 5882 5902	Radiografía de tórax
+T112	PROCEDURE 6206 6221	Coronariografía
+T113	PROCEDURE 6368 6387	electrocardiogramas
+T114	PROCEDURE 7045 7059	monitorización
+T115	PROCEDURE 7273 7288	ecocardiografía
+T116	PROCEDURE 7353 7368	coronariografía
+T27	PROCEDURE 4494 4504	Bioquímica
+T171	PROCEDURE 3680 3699	Electrocardiogramas
+T184	PROCEDURE 6691 6701	analíticas
+T210	PROCEDURE 2491 2539	perfusión de isoproterenol y sulfato de magnesio
+T219	PROCEDURE 6929 6973	suplementación de magnesio, calcio y potasio
+T170	PROCEDURE 2639 2665	perfusión de isoproterenol
+T94	PROCEDURE 1964 1974	desfibrila

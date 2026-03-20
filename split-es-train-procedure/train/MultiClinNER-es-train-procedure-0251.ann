@@ -1,0 +1,19 @@
+T1	PROCEDURE 901 904	TAC
+T2	PROCEDURE 912 923	TAC pélvico
+T3	PROCEDURE 497 528	citoscopia con biopsia múltiple
+T4	PROCEDURE 702 714	biopsia fría
+T5	PROCEDURE 1652 1671	cistectomía parcial
+T6	PROCEDURE 662 672	citologías
+T7	PROCEDURE 802 820	estudio ecográfico
+T8	PROCEDURE 1679 1699	estudio macroscópico
+T9	PROCEDURE 1892 1912	estudio microscópico
+T10	PROCEDURE 467 484	estudio urológico
+T11	PROCEDURE 246 259	histerectomía
+T12	PROCEDURE 1524 1547	intervención quirúrgica
+T13	PROCEDURE 1573 1604	laparotomía media con resección
+T14	PROCEDURE 1595 1671	resección del proceso neoformativo prevesical asociada a cistectomía parcial
+T15	PROCEDURE 2291 2300	resección
+T16	PROCEDURE 546 563	anatomopatológico
+T17	PROCEDURE 100 111	exploración
+T18	PROCEDURE 675 714	citoscopias de control con biopsia fría
+T19	PROCEDURE 2457 2469	intervención

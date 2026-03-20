@@ -1,0 +1,37 @@
+T64	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T66	PROCEDURE 267 284	revascularisation
+T68	PROCEDURE 305 321	vascular surgery
+T69	PROCEDURE 454 474	coronary angiography
+T70	PROCEDURE 533 553	coronary angiography
+T73	PROCEDURE 757 771	Echocardiogram
+T76	PROCEDURE 792 818	Surgical revascularisation
+T67	PROCEDURE 801 818	revascularisation
+T65	PROCEDURE 1739 1759	Physical examination
+T77	PROCEDURE 2197 2208	Chest X-ray
+T79	PROCEDURE 2210 2227	electrocardiogram
+T94	PROCEDURE 2287 2301	renal function
+T95	PROCEDURE 2310 2314	ions
+T96	PROCEDURE 2337 2355	cardiac biomarkers
+T74	PROCEDURE 2382 2396	echocardiogram
+T78	PROCEDURE 2534 2545	Chest X-ray
+T80	PROCEDURE 2698 2715	Electrocardiogram
+T93	PROCEDURE 2966 2977	coagulation
+T75	PROCEDURE 3180 3194	Echocardiogram
+T71	PROCEDURE 3963 3983	Coronary angiography
+T81	PROCEDURE 4631 4646	Adenosine SPECT
+T97	PROCEDURE 5131 5146	antialdosterone
+T72	PROCEDURE 5320 5340	coronary angiography
+T100	PROCEDURE 5497 5542	saphenous bypass to the right coronary artery
+T82	PROCEDURE 6025 6040	insulin therapy
+T83	PROCEDURE 6147 6172	resynchronisation therapy
+T86	PROCEDURE 6207 6217	venography
+T87	PROCEDURE 6493 6504	angioplasty
+T84	PROCEDURE 6524 6549	resynchronisation therapy
+T89	PROCEDURE 7082 7096	ergospirometry
+T88	PROCEDURE 7276 7297	heart transplantation
+T85	PROCEDURE 7781 7806	resynchronisation therapy
+T90	PROCEDURE 7963 7978	cardiac surgery
+T99	PROCEDURE 8216 8247	right saphenous-coronary bypass
+T92	PROCEDURE 8232 8247	coronary bypass
+T91	PROCEDURE 8320 8333	mitral repair
+T98	PROCEDURE 9006 9082	mammary to anterior descending and saphenous to first obtuse marginal bypass

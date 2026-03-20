@@ -1,0 +1,42 @@
+T1	SYMPTOM 146 173	cardiovascular risk factors
+T2	SYMPTOM 252 257	cough
+T3	SYMPTOM 274 282	dyspnoea
+T5	SYMPTOM 5583 5591	dyspnoea
+T6	SYMPTOM 612 636	haemodynamic instability
+T7	SYMPTOM 1597 1613	febrile syndrome
+T8	SYMPTOM 2688 2697	dizziness
+T9	SYMPTOM 2699 2727	dyspnoea on minimal exertion
+T10	SYMPTOM 3381 3389	asthenia
+T11	SYMPTOM 3489 3494	fever
+T12	SYMPTOM 3614 3637	good general appearance
+T13	SYMPTOM 3643 3666	haemodynamically stable
+T14	SYMPTOM 3758 3769	tachycardic
+T15	SYMPTOM 3779 3786	murmurs
+T16	SYMPTOM 3904 3925	peritoneal irritation
+T17	SYMPTOM 4003 4012	normal PR
+T18	SYMPTOM 4014 4024	narrow QRS
+T19	SYMPTOM 5667 5685	lower ST elevation
+T20	SYMPTOM 5593 5603	tachypnoea
+T21	SYMPTOM 6318 6322	died
+T22	SYMPTOM 4298 4322	normal leukocyte formula
+T23	SYMPTOM 3973 3990	sinus tachycardia
+T24	SYMPTOM 4089 4106	sinus tachycardia
+T25	SYMPTOM 5399 5416	sinus tachycardia
+T26	SYMPTOM 5644 5661	sinus tachycardia
+T27	SYMPTOM 6364 6384	ST-segment elevation
+T28	SYMPTOM 6555 6560	Death
+T29	SYMPTOM 928 990	apical inferior, anterior and lateral akinesia, medial lateral
+T30	SYMPTOM 992 1051	medial anterior hypokinesia and medial inferior hypokinesia
+T4	SYMPTOM 3466 3485	infectious symptoms
+T31	SYMPTOM 3180 3230	self-limited epigastric pain radiating to the back
+T32	SYMPTOM 3250 3275	feeling of breathlessness
+T33	SYMPTOM 3427 3450	cardiovascular symptoms
+T34	SYMPTOM 3533 3541	vomiting
+T35	SYMPTOM 3676 3695	congestive symptoms
+T36	SYMPTOM 3705 3724	eupneic at baseline
+T37	SYMPTOM 3790 3803	friction rubs
+T38	SYMPTOM 3805 3879	Abdomen painful on palpation in the right hypochondrium, soft, depressible
+T39	SYMPTOM 4119 4141	inferior ST elevation,
+T40	SYMPTOM 4142 4164	ST depression of V1-V3
+T41	SYMPTOM 4166 4191	inferior-posterior Q wave
+T42	SYMPTOM 5608 5627	vegetative symptoms

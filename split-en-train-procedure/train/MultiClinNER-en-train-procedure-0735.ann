@@ -1,0 +1,21 @@
+T1	PROCEDURE 91 110	oral contraceptives
+T2	PROCEDURE 362 386	neurological examination
+T20	PROCEDURE 530 559	computerised axial tomography
+T21	PROCEDURE 1053 1062	brain MRI
+T24	PROCEDURE 1583 1678	MRI is completed with T1 and EGD sequences with fat suppression after gadolinium administration
+T3	PROCEDURE 2057 2069	neuroimaging
+T28	PROCEDURE 2255 2266	blood tests
+T29	PROCEDURE 2268 2288	complete blood count
+T5	PROCEDURE 2290 2300	lipidogram
+T6	PROCEDURE 2302 2320	autoimmunity study
+T14	PROCEDURE 2322 2330	serology
+T15	PROCEDURE 2332 2348	thyroid hormones
+T7	PROCEDURE 2428 2453	cerebrospinal fluid study
+T8	PROCEDURE 2455 2472	electrocardiogram
+T9	PROCEDURE 2474 2499	supra-aortic trunk duplex
+T10	PROCEDURE 2501 2521	transcranial Doppler
+T11	PROCEDURE 2523 2534	bubble test
+T12	PROCEDURE 2536 2566	transthoracic echocardiography
+T13	PROCEDURE 2568 2585	arrhythmia holter
+T17	PROCEDURE 2590 2622	angioresonance of Willis polygon
+T16	PROCEDURE 3241 3248	surgery

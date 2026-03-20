@@ -1,0 +1,22 @@
+T16	PROCEDURE 123 145	surgical interventions
+T5	PROCEDURE 147 162	cholecystectomy
+T6	PROCEDURE 164 177	tonsillectomy
+T7	PROCEDURE 182 203	bilateral adnexectomy
+T21	PROCEDURE 371 386	upper endoscopy
+T10	PROCEDURE 451 473	proton pump inhibitors
+T13	PROCEDURE 672 681	endoscopy
+T23	PROCEDURE 708 762	lesion in the middle third of the oesophagus, biopsied
+T24	PROCEDURE 1113 1124	examination
+T4	PROCEDURE 1232 1260	cardiopulmonary auscultation
+T2	PROCEDURE 1425 1461	barium oesophagogastroduodenal study
+T30	PROCEDURE 1661 1681	thoraco-abdominal CT
+T8	PROCEDURE 2087 2104	Fibrobronchoscopy
+T11	PROCEDURE 2142 2173	transthoracic puncture aspirate
+T1	PROCEDURE 2251 2264	Echoendoscopy
+T12	PROCEDURE 2394 2418	passage of the endoscope
+T14	PROCEDURE 2583 2589	biopsy
+T9	PROCEDURE 2650 2660	Cranial CT
+T17	PROCEDURE 2742 2749	surgery
+T3	PROCEDURE 2768 2780	chemotherapy
+T15	PROCEDURE 2922 2926	CDDP
+T18	PROCEDURE 2922 2941	CDDP plus etoposide

@@ -1,0 +1,45 @@
+T86	PROCEDURE 85 112	doble bypass aortocoronario
+T87	PROCEDURE 209 223	ecocardiograma
+T88	PROCEDURE 590 657	cirugía de recambio valvular aórtico por prótesis aórtica biológica
+T89	PROCEDURE 675 719	doble pontaje aortocoronario (AMI-DA, SF-Cx)
+T90	PROCEDURE 817 831	ecocardiograma
+T91	PROCEDURE 1783 1792	diurético
+T92	PROCEDURE 1858 1876	Exploración física
+T94	PROCEDURE 2045 2050	Tórax
+T95	PROCEDURE 2084 2086	AC
+T96	PROCEDURE 2152 2154	AP
+T97	PROCEDURE 2264 2273	palpación
+T98	PROCEDURE 2477 2480	ECG
+T99	PROCEDURE 2591 2611	Radiografía de tórax
+T100	PROCEDURE 3079 3107	Ecocardiograma transtorácico
+T101	PROCEDURE 3594 3623	Ecocardiograma transesofágico
+T102	PROCEDURE 4123 4138	Coronariografía
+T103	PROCEDURE 4944 4971	doble bypass aortocoronario
+T104	PROCEDURE 5025 5039	ecocardiograma
+T105	PROCEDURE 5295 5324	ecocardiograma transesofágico
+T106	PROCEDURE 5594 5610	cirugía cardiaca
+T107	PROCEDURE 5636 5764	implantación de prótesis valvular aórtica dentro de la prótesis previamente implantada, de forma percutánea desde acceso femoral
+T108	PROCEDURE 5766 5785	TAVI valve in valve
+T109	PROCEDURE 5799 5814	coronariografía
+T110	PROCEDURE 5952 6009	catéter introducido por acceso arterial femoral izquierdo
+T111	PROCEDURE 6365 6395	ecocardiografía transesofágica
+T112	PROCEDURE 6530 6541	angiografía
+T113	PROCEDURE 6610 6655	cierre con Prostar del acceso femoral derecho
+T114	PROCEDURE 6660 6709	cierra el acceso femoral izquierdo con Angio-Seal
+T115	PROCEDURE 6871 6879	sedación
+T116	PROCEDURE 6964 6985	tratamiento diurético
+T117	PROCEDURE 7306 7316	telemetría
+T118	PROCEDURE 7329 7364	se retira el MP transitorio yugular
+T119	PROCEDURE 7512 7526	ecocardiograma
+T120	PROCEDURE 7935 8021	Implantación de prótesis aórtica valvular percutánea Edwards Sapien 3 (valve in valve)
+T128	PROCEDURE 346 364	EXPLORACIÓN FÍSICA
+T129	PROCEDURE 405 423	calcioantagonistas
+T130	PROCEDURE 5233 5254	diurético intravenoso
+T31	PROCEDURE 5858 5875	angio-TC de aorta
+T134	PROCEDURE 2720 2729	Analítica
+T135	PROCEDURE 4450 4464	Angio-TC aorta
+T139	PROCEDURE 2312 2316	EEII
+T159	PROCEDURE 6776 6784	extubada
+T37	PROCEDURE 47 82	prótesis valvular aórtica biológica
+T146	PROCEDURE 4906 4941	prótesis valvular aórtica biológica
+T148	PROCEDURE 7863 7889	Prótesis aórtica biológica

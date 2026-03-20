@@ -1,0 +1,44 @@
+T74	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T76	PROCEDURE 628 656	laparoscopic right colectomy
+T77	PROCEDURE 659 680	adjuvant chemotherapy
+T78	PROCEDURE 770 783	colonoscopies
+T75	PROCEDURE 1286 1306	Physical examination
+T79	PROCEDURE 1425 1445	Cardiac auscultation
+T80	PROCEDURE 1529 1551	Pulmonary auscultation
+T1	PROCEDURE 1642 1651	palpation
+T81	PROCEDURE 1821 1861	Echocardioscopy performed at the bedside
+T82	PROCEDURE 2075 2092	Electrocardiogram
+T84	PROCEDURE 2284 2295	Chest X-ray
+T105	PROCEDURE 2601 2612	Haemostasis
+T104	PROCEDURE 2656 2668	Biochemistry
+T2	PROCEDURE 2814 2841	Myocardial damage biomarker
+T85	PROCEDURE 2902 2916	Echocardiogram
+T89	PROCEDURE 3512 3532	Coronary angiography
+T3	PROCEDURE 3885 3919	Cardiac magnetic resonance imaging
+T107	PROCEDURE 3921 3924	MRI
+T92	PROCEDURE 4166 4180	STIR sequences
+T4	PROCEDURE 4706 4744	Necrosis and viability detection study
+T90	PROCEDURE 4967 4987	Coronary angiography
+T5	PROCEDURE 5058 5105	Angiography is performed via left radial access
+T6	PROCEDURE 5165 5224	drug-eluting stents 3 x 48 mm and 3.5 x 18 mm are implanted
+T93	PROCEDURE 5274 5286	IVUS aostium
+T7	PROCEDURE 5366 5464	The lesion was treated in the first obtuse marginal area with a constant everolimus-releasing drug
+T8	PROCEDURE 5540 5591	predilatation of the lesion in the proximal segment
+T9	PROCEDURE 5596 5663	implantation of a 3.5 x 15 mm everolimus-eluting drug-eluting stent
+T10	PROCEDURE 5687 5716	the Impella device is removed
+T11	PROCEDURE 5740 5801	Femoral haemostasis with Proglide intravascular suture device
+T94	PROCEDURE 5870 5889	depletive treatment
+T86	PROCEDURE 6091 6105	echocardiogram
+T12	PROCEDURE 6314 6363	aetiological study of the ventricular dysfunction
+T91	PROCEDURE 6374 6394	coronary angiography
+T96	PROCEDURE 6740 6766	surgical revascularisation
+T13	PROCEDURE 6794 6853	percutaneous revascularisation assisted with Impella device
+T83	PROCEDURE 7633 7650	electrocardiogram
+T97	PROCEDURE 7702 7731	pharmacological cardioversion
+T14	PROCEDURE 7931 8026	percutaneous revascularisation was programmed with mechanical assistance with Impella CP device
+T101	PROCEDURE 8393 8410	revascularisation
+T87	PROCEDURE 8606 8622	echocardiography
+T88	PROCEDURE 8661 8675	echocardiogram
+T95	PROCEDURE 8881 8892	cardiac MRI
+T15	PROCEDURE 9033 9085	High risk device assisted PCI with Impella CP device
+T103	PROCEDURE 9091 9151	complete revascularisation (proximal LAD, mid LAD, distal DC

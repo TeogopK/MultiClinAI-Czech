@@ -1,0 +1,11 @@
+T2	PROCEDURE 65 91	transbronchial lung biopsy
+T3	PROCEDURE 137 152	corticosteroids
+T4	PROCEDURE 201 231	continuous home oxygen therapy
+T1	PROCEDURE 734 754	Physical examination
+T5	PROCEDURE 929 949	cardiac auscultation
+T16	PROCEDURE 1156 1183	Baseline arterial blood gas
+T6	PROCEDURE 1278 1295	Electrocardiogram
+T18	PROCEDURE 1381 1391	neck X-ray
+T7	PROCEDURE 1447 1458	chest X-ray
+T20	PROCEDURE 1612 1654	computed tomography (CT) scan of the chest
+T8	PROCEDURE 1949 1970	radiological controls

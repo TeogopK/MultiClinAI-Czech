@@ -1,0 +1,20 @@
+T13	PROCEDURE 352 362	endoscopic
+T14	PROCEDURE 367 379	histological
+T1	PROCEDURE 420 428	steroids
+T19	PROCEDURE 553 560	steroid
+T4	PROCEDURE 729 740	chest X-ray
+T6	PROCEDURE 745 759	viral serology
+T2	PROCEDURE 1024 1044	Physical examination
+T5	PROCEDURE 1168 1192	neurological examination
+T7	PROCEDURE 1217 1260	cardiorespiratory and abdominal examination
+T31	PROCEDURE 1504 1530	routine urine and sediment
+T8	PROCEDURE 1552 1578	chest and abdominal X-rays
+T9	PROCEDURE 1595 1624	lumbar puncture was performed
+T12	PROCEDURE 1752 1762	Gram stain
+T36	PROCEDURE 1808 1815	culture
+T10	PROCEDURE 1904 1924	antibiotic treatment
+T11	PROCEDURE 1944 1972	immunosuppressive medication
+T39	PROCEDURE 2223 2242	Ileocecal resection
+T3	PROCEDURE 2247 2309	terminal ileostomy with mucosal fistula of the ascending colon
+T42	PROCEDURE 2339 2348	pathology
+T43	PROCEDURE 2460 2478	antibiotic therapy

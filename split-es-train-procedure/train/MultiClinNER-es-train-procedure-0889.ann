@@ -1,0 +1,50 @@
+T62	PROCEDURE 265 278	arteriografía
+T63	PROCEDURE 281 330	embolización de ambas arterias maxilares internas
+T64	PROCEDURE 415 418	TAC
+T65	PROCEDURE 420 423	RMN
+T66	PROCEDURE 426 429	EEG
+T67	PROCEDURE 866 875	Hemograma
+T68	PROCEDURE 886 889	ECG
+T69	PROCEDURE 1001 1021	Radiografía de tórax
+T70	PROCEDURE 1109 1124	Ecocardiografía
+T71	PROCEDURE 1510 1525	Coronariografía
+T72	PROCEDURE 1803 1818	Angio-TAC aorta
+T73	PROCEDURE 2134 2155	tratamiento diurético
+T74	PROCEDURE 2467 2514	reparación de aorta ascendente (tubo valvulado)
+T75	PROCEDURE 2517 2549	cirugía de bypass aortocoronario
+T76	PROCEDURE 2818 2822	VMNI
+T77	PROCEDURE 3017 3020	ECG
+T78	PROCEDURE 3090 3105	ecocardiografía
+T79	PROCEDURE 3582 3597	Ecocardiografía
+T80	PROCEDURE 4038 4066	resección de válvula aórtica
+T81	PROCEDURE 4231 4254	bypass de mamaria a ADA
+T82	PROCEDURE 4522 4541	limpieza de cavidad
+T83	PROCEDURE 4798 4813	Ecocardiografía
+T84	PROCEDURE 5609 5624	insulinoterapia
+T102	PROCEDURE 96 98	AP
+T105	PROCEDURE 4288 4313	Drenaje pleural izquierdo
+T106	PROCEDURE 829 844	Perfil hepático
+T107	PROCEDURE 5870 5935	Sustitución valvular aórtica por prótesis biológica Mitflow no 25
+T108	PROCEDURE 4437 4443	aminas
+T109	PROCEDURE 2636 2652	cirugía cardiaca
+T110	PROCEDURE 2426 2465	cirugía de sustitución valvular aórtica
+T111	PROCEDURE 766 779	función renal
+T112	PROCEDURE 782 787	iones
+T114	PROCEDURE 3034 3069	Enzimas de daño miocárdico seriadas
+T115	PROCEDURE 4320 4342	drenajes mediastínicos
+T116	PROCEDURE 5330 5368	dieta cardiosaludable exenta de grasas
+T117	PROCEDURE 5937 5951	Bypass AMI-ADA
+T129	PROCEDURE 746 755	Analítica
+T132	PROCEDURE 584 586	EF
+T146	PROCEDURE 3905 3921	prueba de imagen
+T121	PROCEDURE 125 156	Retinopatía diabética (fotocoag
+T131	PROCEDURE 2999 3015	PC de amiodarona
+T103	PROCEDURE 3511 3515	PPCC
+T104	PROCEDURE 3523 3526	CNG
+T135	PROCEDURE 3994 4006	Intervención
+T137	PROCEDURE 4272 4278	anoxia
+T138	PROCEDURE 4281 4286	bomba
+T141	PROCEDURE 4051 4102	válvula aórtica: prótesis biológica Mitroflow no 25
+T142	PROCEDURE 4446 4473	Reintervención exploratoria
+T145	PROCEDURE 4756 4772	PC de amiodarona
+#3	AnnotatorNotes T117	 AMI (arteria mamaria izquierda), ADA (arteria descendente anterior)

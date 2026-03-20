@@ -1,0 +1,42 @@
+T1	SYMPTOM 84 92	tos seca
+T2	SYMPTOM 127 133	fiebre
+T3	SYMPTOM 135 142	astenia
+T4	SYMPTOM 144 152	anorexia
+T5	SYMPTOM 154 161	náuseas
+T6	SYMPTOM 331 339	caquexia
+T7	SYMPTOM 399 405	muguet
+T8	SYMPTOM 407 418	acropaquias
+T9	SYMPTOM 506 553	Disminución generalizada del murmullo vesicular
+T10	SYMPTOM 579 610	soplo sistólico II/VI polifocal
+T11	SYMPTOM 1103 1129	masa mediastínica anterior
+T12	SYMPTOM 1178 1219	infiltrado alveolo-intersticial bilateral
+T13	SYMPTOM 1386 1403	masa mediastínica
+T14	SYMPTOM 1447 1475	patrón intersticial pulmonar
+T15	SYMPTOM 1492 1535	engrosamiento de pared de asas intestinales
+T16	SYMPTOM 164 171	vómitos
+T17	SYMPTOM 556 577	crepitantes bibasales
+T18	SYMPTOM 1518 1573	asas intestinales con pequeña cantidad de líquido libre
+T19	SYMPTOM 2731 2872	estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos
+T20	SYMPTOM 3040 3074	antígeno criptocócico fue negativo
+T21	SYMPTOM 2966 3035	serologías para Toxoplasma, virus hepatotropos y RPR fueron negativas
+T22	SYMPTOM 1598 1667	ecocardiograma transtorácico en el que no se encontraron alteraciones
+T23	SYMPTOM 2669 2692	alfafetoproteina normal
+T24	SYMPTOM 3795 3803	falleció
+T25	SYMPTOM 688 738	exploración somática y neurológica fueron normales
+T26	SYMPTOM 94 125	disnea de intensidad progresiva
+T27	SYMPTOM 2118 2226	masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+T28	SYMPTOM 2878 2959	tinciones de muestras respiratorias fueron negativas para P. carinii (P. jiroveci
+A1	IMAGEN T11
+A2	IMAGEN T12
+A3	IMAGEN T13
+A4	IMAGEN T14
+A5	IMAGEN T15
+A6	IMAGEN T18
+A7	RESULTADO T19
+A8	RESULTADO T20
+A9	RESULTADO T21
+A10	IMAGEN T22
+A11	RESULTADO T23
+A12	EXITUS T24
+A13	IMAGEN T27
+A14	RESULTADO T28

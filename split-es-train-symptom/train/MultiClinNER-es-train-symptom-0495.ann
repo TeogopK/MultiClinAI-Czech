@@ -1,0 +1,16 @@
+T1	SYMPTOM 232 345	dolor en cadera derecha de varias semanas de evolución, irradiado por cara ántero-lateral del muslo hasta rodilla
+T2	SYMPTOM 452 490	dolor a la palpación en cabeza femoral
+T3	SYMPTOM 394 410	pérdida ponderal
+T4	SYMPTOM 366 389	síndrome constitucional
+T5	SYMPTOM 903 980	imagen lítica de patrón apolillado a nivel de cuello y cabeza femoral derecha
+T6	SYMPTOM 1022 1116	acúmulo patológico de radiotrazador a dicho nivel, así como en región supraorbitaria izquierda
+T7	SYMPTOM 1560 1571	falleciendo
+T8	SYMPTOM 210 217	melenas
+T9	SYMPTOM 177 197	hemorragia digestiva
+T10	SYMPTOM 550 612	datos bioquímicos y hematimétricos básicos resultaron normales
+T11	SYMPTOM 725 772	masa de 8 x 7 x 5 cm en lóbulo hepático derecho
+A1	IMAGEN T5
+A2	RESULTADO T6
+A3	EXITUS T7
+A4	RESULTADO T10
+A5	RESULTADO T11

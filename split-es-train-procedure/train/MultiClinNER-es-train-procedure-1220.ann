@@ -1,0 +1,19 @@
+T41	PROCEDURE 219 239	inducción anestésica
+T42	PROCEDURE 737 755	Exploración física
+T43	PROCEDURE 844 865	Auscultación cardiaca
+T44	PROCEDURE 1019 1040	Auscultación pulmonar
+T45	PROCEDURE 1221 1230	Hemograma
+T46	PROCEDURE 1276 1296	Radiografía de tórax
+T47	PROCEDURE 1383 1386	ECG
+T48	PROCEDURE 1445 1473	Ecocardiograma transtorácico
+T49	PROCEDURE 1857 1869	auscultación
+T50	PROCEDURE 2002 2005	ECG
+T51	PROCEDURE 2204 2218	ecocardiograma
+T52	PROCEDURE 2319 2347	Se monitoriza con telemetría
+T53	PROCEDURE 2570 2602	implantación de un desfibrilador
+T54	PROCEDURE 2648 2667	implantación de DAI
+T55	PROCEDURE 2678 2720	extracción de sangre para estudio genético
+T59	PROCEDURE 1245 1256	coagulación
+T60	PROCEDURE 1716 1726	Telemetría
+T67	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T76	PROCEDURE 1232 1242	bioquímica

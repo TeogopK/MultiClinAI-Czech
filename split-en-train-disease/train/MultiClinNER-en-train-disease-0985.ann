@@ -1,0 +1,28 @@
+T30	DISEASE 97 109	hypertension
+T31	DISEASE 116 122	smoker
+T32	DISEASE 127 144	diabetes mellitus
+T33	DISEASE 146 148	DM
+T34	DISEASE 154 167	dyslipidaemia
+T35	DISEASE 169 171	DL
+T54	DISEASE 220 244	cardiorespiratory arrest
+T38	DISEASE 285 309	ventricular fibrillation
+T44	DISEASE 572 590	coronary vasospasm
+T46	DISEASE 845 893	non-ST-segment elevation acute coronary syndrome
+T39	DISEASE 1869 1893	ventricular fibrillation
+T47	DISEASE 2664 2683	atrial fibrillation
+T53	DISEASE 2898 2915	Aortic elongation
+T48	DISEASE 3092 3108	pleural effusion
+T36	DISEASE 3170 3172	dl
+T37	DISEASE 3248 3250	dl
+T49	DISEASE 3654 3674	pericardial effusion
+T40	DISEASE 4345 4369	ventricular fibrillation
+T50	DISEASE 4498 4506	asystole
+T51	DISEASE 4976 5001	ventricular extrasystoles
+T57	DISEASE 5077 5114	extrasystole with R-over-T phenomenon
+T41	DISEASE 5139 5163	ventricular fibrillation
+T55	DISEASE 5192 5216	cardiorespiratory arrest
+T42	DISEASE 5228 5252	ventricular fibrillation
+T52	DISEASE 5278 5284	MINOCA
+T45	DISEASE 5399 5417	coronary vasospasm
+T56	DISEASE 5431 5455	cardiorespiratory arrest
+T43	DISEASE 5520 5544	ventricular fibrillation

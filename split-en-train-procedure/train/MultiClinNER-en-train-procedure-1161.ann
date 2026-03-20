@@ -1,0 +1,23 @@
+T41	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T42	PROCEDURE 527 547	Physical examination
+T43	PROCEDURE 635 655	Cardiac auscultation
+T44	PROCEDURE 687 709	Pulmonary auscultation
+T1	PROCEDURE 745 796	neurological, abdominal and extremities examination
+T53	PROCEDURE 843 855	Biochemistry
+T45	PROCEDURE 935 946	Blood count
+T46	PROCEDURE 951 962	coagulation
+T47	PROCEDURE 1033 1062	Baseline arterial blood gases
+T48	PROCEDURE 1112 1115	ECG
+T49	PROCEDURE 1203 1214	Chest X-ray
+T50	PROCEDURE 1262 1292	Angio-CT of pulmonary arteries
+T51	PROCEDURE 1605 1617	Bronchoscopy
+T2	PROCEDURE 1676 1690	bronchodilator
+T3	PROCEDURE 1695 1719	corticosteroid treatment
+T4	PROCEDURE 1915 1943	transthoracic echocardiogram
+T6	PROCEDURE 2150 2177	infusion of agitated saline
+T7	PROCEDURE 2270 2320	catheterisation was requested for a pressure study
+T8	PROCEDURE 2438 2482	AL2 catheter was passed into the left atrium
+T9	PROCEDURE 2906 2958	procedure guided by transesophageal echocardiography
+T52	PROCEDURE 2962 2984	balloon occlusion test
+T10	PROCEDURE 3095 3162	patent foramen ovale was closed using an 18 mm Amplatzer ASD device
+T11	PROCEDURE 3172 3175	TEE

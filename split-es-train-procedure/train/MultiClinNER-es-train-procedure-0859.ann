@@ -1,0 +1,63 @@
+T69	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 392 462	se revasculariza descendente anterior proximal con stent farmacoactivo
+T72	PROCEDURE 909 932	cardioversión eléctrica
+T73	PROCEDURE 981 996	ecocardiografía
+T74	PROCEDURE 1761 1774	CPAP nocturna
+T75	PROCEDURE 2162 2174	colonoscopia
+T76	PROCEDURE 4010 4056	ventilación mecánica no invasiva en modo BiPAP
+T77	PROCEDURE 4160 4182	toracocentesis derecha
+T78	PROCEDURE 4451 4455	VMNI
+T79	PROCEDURE 4470 4499	ecocardiografía a pie de cama
+T80	PROCEDURE 4609 4627	Exploración física
+T81	PROCEDURE 4675 4693	VMNI en modo BiPAP
+T83	PROCEDURE 4850 4871	Auscultación cardiaca
+T84	PROCEDURE 4914 4935	Auscultación pulmonar
+T85	PROCEDURE 5164 5187	Radiografía de tórax AP
+T86	PROCEDURE 5329 5363	Electrocardiograma 12 derivaciones
+T87	PROCEDURE 5563 5605	Ecocardiograma transtorácico a pie de cama
+T88	PROCEDURE 6349 6368	Analítica sanguínea
+T89	PROCEDURE 6382 6391	Hemograma
+T90	PROCEDURE 6537 6547	Hemostasia
+T91	PROCEDURE 6773 6792	Gasometría arterial
+T92	PROCEDURE 6806 6815	Ventimask
+T93	PROCEDURE 6888 6907	Gasometría arterial
+T94	PROCEDURE 6924 6929	BiPAP
+T95	PROCEDURE 7076 7095	Analítica sanguínea
+T96	PROCEDURE 7109 7118	Hemograma
+T97	PROCEDURE 7364 7374	Hemostasia
+T98	PROCEDURE 8105 8119	Perfil férrico
+T99	PROCEDURE 8282 8297	Perfil lipídico
+T100	PROCEDURE 8404 8409	Orina
+T101	PROCEDURE 8585 8623	Exudado nasofaríngeo RT PCR SARS-CoV-2
+T102	PROCEDURE 8635 8646	Cateterismo
+T104	PROCEDURE 8971 9058	angioplastia con implante de stent farmacoactivo ULTIMASTER TANSEI- sirolimus 3,0/12 mm
+T107	PROCEDURE 9425 9498	implante de stent ULTIMASTER TANSEI (3x12) con balón de stopper en TCI-DA
+T108	PROCEDURE 9598 9648	ACTP sobre la RIS con implante de DES de sirolimus
+T109	PROCEDURE 9893 9925	ventilación mecánica no invasiva
+T110	PROCEDURE 9927 9931	VMNI
+T112	PROCEDURE 10065 10080	ecocardiografía
+T113	PROCEDURE 10291 10306	ecocardiografía
+T114	PROCEDURE 10417 10432	coronariografía
+T115	PROCEDURE 10520 10539	stent farmacoactivo
+T116	PROCEDURE 10733 10756	concentrado de hematíes
+T117	PROCEDURE 12027 12042	insulinoterapia
+T118	PROCEDURE 12252 12297	Reestenosis intrastent de arteria circunfleja
+T194	PROCEDURE 934 937	CVE
+T141	PROCEDURE 2059 2077	gastrocolonoscopia
+T5	PROCEDURE 3517 3530	CPAP nocturna
+T200	PROCEDURE 3950 3999	tratamiento depletivo con furosemida en perfusión
+T203	PROCEDURE 7557 7567	Bioquímica
+T36	PROCEDURE 11729 11734	HbA1c
+T221	PROCEDURE 10544 10554	analíticas
+T256	PROCEDURE 4717 4740	perfusión de furosemida
+T257	PROCEDURE 9967 9990	perfusión de furosemida
+T103	PROCEDURE 563 616	ostium de circunfleja tratada con stent farmacoactivo
+T204	PROCEDURE 5051 5063	Extremidades
+T208	PROCEDURE 8526 8535	Vitaminas
+T210	PROCEDURE 8856 8881	stent implantado en TC-DA
+T211	PROCEDURE 9106 9136	posdilatación en kissing balón
+T213	PROCEDURE 9327 9379	Radial izquierda con EBU 3,5 6F, guías BMW a DA y CX
+T214	PROCEDURE 9501 9531	posdilatación final en kissing
+T215	PROCEDURE 9381 9422	predilatación con balones de 3 en kissing
+T216	PROCEDURE 9651 9681	posdilatación final en kissing
+#1	AnnotatorNotes T194	cardioversión eléctrica

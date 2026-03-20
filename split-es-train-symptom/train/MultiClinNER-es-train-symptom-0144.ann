@@ -1,0 +1,18 @@
+T1	SYMPTOM 906 921	turbidez vítrea
+T2	SYMPTOM 772 792	signos inflamatorios
+T3	SYMPTOM 1100 1120	signos inflamatorios
+T4	SYMPTOM 325 330	edema
+T5	SYMPTOM 1572 1584	asintomática
+T6	SYMPTOM 1815 1827	asintomática
+T7	SYMPTOM 827 868	lente de cámara anterior bien posicionada
+T8	SYMPTOM 1880 1903	córnea era transparente
+T9	SYMPTOM 573 612	pérdida de agudeza visual (AV) indolora
+T10	SYMPTOM 615 651	sensación de cuerpo extraño en el OI
+T11	SYMPTOM 295 307	edema macula
+T12	SYMPTOM 693 701	hipopión
+T13	SYMPTOM 727 767	depósito de finas opacidades cristalinas
+T14	SYMPTOM 1131 1145	pseudohipopión
+T15	SYMPTOM 1633 1641	hipopión
+T16	SYMPTOM 1598 1627	bullas en el epitelio corneal
+A1	RESULTADO T1
+A2	RESULTADO T16

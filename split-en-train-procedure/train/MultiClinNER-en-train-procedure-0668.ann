@@ -1,0 +1,12 @@
+T2	PROCEDURE 86 97	colonoscopy
+T13	PROCEDURE 140 176	histological and cytological studies
+T10	PROCEDURE 211 226	extension study
+T3	PROCEDURE 245 264	thoracoabdominal CT
+T4	PROCEDURE 271 291	abdominal ultrasound
+T5	PROCEDURE 293 339	dermatological examination (including exeresis
+T6	PROCEDURE 382 394	fundus study
+T7	PROCEDURE 399 420	anorectal examination
+T8	PROCEDURE 458 477	right hemicolectomy
+T1	PROCEDURE 483 508	anatomopathological study
+T9	PROCEDURE 516 525	resection
+T24	PROCEDURE 758 778	immunohistochemistry

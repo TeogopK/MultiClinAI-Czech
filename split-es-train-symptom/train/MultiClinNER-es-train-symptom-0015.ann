@@ -1,0 +1,6 @@
+T1	SYMPTOM 580 591	proteinuria
+T2	SYMPTOM 1108 1138	aumento del diámetro abdominal
+T3	SYMPTOM 675 686	proteinuria
+T4	SYMPTOM 781 788	púrpura
+A1	RESULTADO T1
+A2	RESULTADO T3

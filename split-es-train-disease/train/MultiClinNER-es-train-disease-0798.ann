@@ -1,0 +1,32 @@
+T14	DISEASE 2859 2951	ventrículo izquierdo severamente dilatado con función sistólica global severamente deprimida
+T48	DISEASE 704 710	Angina
+T49	DISEASE 4337 4366	Cardiopatía isquémica crónica
+T52	DISEASE 234 243	Exfumador
+T53	DISEASE 499 532	Fibrilación auricular paroxística
+T54	DISEASE 271 288	Gastritis crónica
+T55	DISEASE 3127 3129	IT
+T56	DISEASE 335 340	Ictus
+T58	DISEASE 1680 1702	Insuficiencia Cardiaca
+T59	DISEASE 3098 3118	Insuficiencia mitral
+T60	DISEASE 4438 4481	Trastorno de la conducción intraventricular
+T61	DISEASE 2577 2584	ascitis
+T62	DISEASE 1857 1867	bajo gasto
+T63	DISEASE 552 581	cardiopatía isquémica crónica
+T64	DISEASE 3238 3257	derrame pericárdico
+T65	DISEASE 1454 1495	descompensación de insuficiencia cardiaca
+T66	DISEASE 4151 4197	descompensación leve de insuficiencia cardiaca
+T67	DISEASE 208 232	diabetes mellitus tipo 2
+T68	DISEASE 4371 4425	dilatación y disfunción severa de ventrículo izquierdo
+T69	DISEASE 196 206	dislipemia
+T70	DISEASE 2549 2562	hepatomegalia
+T71	DISEASE 4214 4250	infección respiratoria de vías altas
+T72	DISEASE 4060 4082	insuficiencia cardiaca
+T73	DISEASE 4617 4639	insuficiencia cardiaca
+T74	DISEASE 2783 2826	trastorno de la conducción intraventricular
+T44	DISEASE 174 194	hipertesión arterial
+T46	DISEASE 409 443	Oclusión fémoro-poplítea bilateral
+T50	DISEASE 1144 1173	oclusión crónica de ADA y ACx
+T82	DISEASE 587 603	Infarto anterior
+T93	DISEASE 838 902	enfermedad severa de A. circunfleja (ACx) y A. coronaria derecha
+T103	DISEASE 797 835	reestenosis del stent previo de la ADA
+#55	AnnotatorNotes T55	IT: insuficiencia tricuspidea

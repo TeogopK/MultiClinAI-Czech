@@ -1,0 +1,81 @@
+T133	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T134	PROCEDURE 381 408	tratamiento broncodilatador
+T135	PROCEDURE 716 734	cirugía de rodilla
+T136	PROCEDURE 903 931	Ecocardiograma transtorácico
+T137	PROCEDURE 933 936	ETT
+T138	PROCEDURE 1018 1028	ergometría
+T139	PROCEDURE 1182 1209	imagen electrocardiográfica
+T140	PROCEDURE 1344 1433	triple terapia antitrombótica (ácido acetilsalicílico [AAS] + clopidogrel + acenocumarol)
+T141	PROCEDURE 1442 1445	ETT
+T142	PROCEDURE 1775 1802	Diverticulectomía esofágica
+T143	PROCEDURE 1942 1957	Colecistectomía
+T144	PROCEDURE 2027 2039	Gastroscopia
+T145	PROCEDURE 2042 2054	colonoscopia
+T146	PROCEDURE 3122 3140	electrocardiograma
+T147	PROCEDURE 3142 3145	ECG
+T148	PROCEDURE 3272 3287	ecocardioscopia
+T149	PROCEDURE 3416 3431	coronariografía
+T150	PROCEDURE 3663 3681	Exploración física
+T151	PROCEDURE 3780 3793	gafas nasales
+T152	PROCEDURE 3910 3931	Auscultación cardiaca
+T153	PROCEDURE 3962 3983	Auscultación pulmonar
+T154	PROCEDURE 4259 4262	ECG
+T155	PROCEDURE 4441 4444	ECG
+T156	PROCEDURE 4450 4461	cateterismo
+T157	PROCEDURE 4570 4573	ECG
+T158	PROCEDURE 4692 4712	Radiografía de tórax
+T159	PROCEDURE 5140 5151	Coagulación
+T160	PROCEDURE 5403 5422	Serología SARS-CoV2
+T161	PROCEDURE 5434 5447	PCR SARS-CoV2
+T162	PROCEDURE 5668 5691	cultivo de úlcera sacra
+T163	PROCEDURE 5749 5763	Ecocardiograma
+T164	PROCEDURE 6715 6729	Ecocardiograma
+T165	PROCEDURE 6859 6874	Coronariografía
+T166	PROCEDURE 7044 7077	cateterización selectiva del vaso
+T167	PROCEDURE 7379 7437	intervencionismo coronario percutáneo (ICP) a tronco común
+T168	PROCEDURE 7425 7475	tronco común, con implantación de un stent Synergy
+T169	PROCEDURE 7599 7654	sobreexpandir la porción proximal delstent con balón NC
+T170	PROCEDURE 7708 7735	Estudio cápsula endoscópica
+T171	PROCEDURE 8033 8045	gastroscopia
+T172	PROCEDURE 8048 8060	colonoscopia
+T173	PROCEDURE 8161 8178	revascularización
+T174	PROCEDURE 8351 8382	oxigenoterapia con FiO2 del 50%
+T175	PROCEDURE 9093 9108	ecocardioscopia
+T176	PROCEDURE 9172 9175	ETT
+T177	PROCEDURE 9459 9472	gafas nasales
+T178	PROCEDURE 9537 9555	exploración física
+T180	PROCEDURE 9908 9931	tratamiento antibiótico
+T181	PROCEDURE 9937 9966	PCR y serología para COVID-19
+T182	PROCEDURE 10344 10361	cultivo de esputo
+T183	PROCEDURE 10372 10391	antibioterapia oral
+T184	PROCEDURE 10430 10442	antibiograma
+T185	PROCEDURE 10988 11002	dieta absoluta
+T186	PROCEDURE 11087 11102	anticoagulación
+T187	PROCEDURE 11171 11213	doble antiagregación con AAS y clopidogrel
+T188	PROCEDURE 11287 11318	estudio con cápsula endoscópica
+T189	PROCEDURE 11588 11600	gastroscopia
+T190	PROCEDURE 11601 11613	colonoscopia
+T191	PROCEDURE 11619 11670	electrocoagulación de las lesiones angiodisplásicas
+T192	PROCEDURE 12068 12113	anticoagulantes antagonistas de la vitamina K
+T193	PROCEDURE 12116 12136	doble antiagregación
+T194	PROCEDURE 12274 12291	estudio digestivo
+T195	PROCEDURE 12417 12455	Implante de stent farmacoactivo en TCI
+T196	PROCEDURE 12551 12574	transfusión de hematíes
+T197	PROCEDURE 754 797	tratamiento anticoagulante con acenocumarol
+T216	PROCEDURE 8917 8935	soporte vasoactivo
+T226	PROCEDURE 5388 5401	Microbiología
+T230	PROCEDURE 10792 10833	se transfunden 2 concentrados de hematíes
+T232	PROCEDURE 1807 1837	miocardiomiotomia antirreflujo
+T233	PROCEDURE 5270 5281	lipidograma
+T234	PROCEDURE 7418 7421	ICP
+T235	PROCEDURE 9055 9088	control de frecuencia ventricular
+T236	PROCEDURE 9582 9613	diuresis forzadas con diurético
+T237	PROCEDURE 10064 10119	Se recogen muestras de úlcera por presión en zona sacra
+T268	PROCEDURE 4812 4821	Analítica
+T280	PROCEDURE 10461 10470	analítica
+T304	PROCEDURE 813 842	intervención por úlcera sacra
+T319	PROCEDURE 8490 8516	perfusión de noradrenalina
+T328	PROCEDURE 4145 4168	se palpan pulsos pedios
+T246	PROCEDURE 8444 8464	bolos de fenilefrina
+T179	PROCEDURE 9684 9703	bolos de furosemida
+T247	PROCEDURE 10146 10184	SARM, que es tratado con curas locales

@@ -1,0 +1,51 @@
+T45	DISEASE 47 61	drug allergies
+T1	DISEASE 97 109	hypertension
+T46	DISEASE 111 124	dyslipidaemia
+T47	DISEASE 126 133	obesity
+T48	DISEASE 152 160	epilepsy
+T49	DISEASE 162 201	hypothyroidism secondary to thyroiditis
+T50	DISEASE 206 227	chronic renal failure
+T51	DISEASE 331 355	congestive heart failure
+T2	DISEASE 381 428	bicuspid aortic valve with severe insufficiency
+T52	DISEASE 433 456	moderate LV dysfunction
+T53	DISEASE 577 593	coronary lesions
+T5	DISEASE 778 825	atrial flutter with a high ventricular response
+T55	DISEASE 866 879	renal failure
+T6	DISEASE 957 985	tonic-clonic seizure episode
+T7	DISEASE 1058 1120	retroperitoneal haematoma in the head and body of the pancreas
+T8	DISEASE 1300 1319	LV slightly dilated
+T9	DISEASE 1361 1376	Central mild MI
+T10	DISEASE 1420 1425	HRBBB
+T78	DISEASE 2201 2208	syncope
+T44	DISEASE 2212 2222	presyncope
+T73	DISEASE 2847 2850	DVT
+T70	DISEASE 3223 3240	complete AV block
+T56	DISEASE 3271 3276	BRDHH
+T57	DISEASE 3343 3378	atheromatosis and aortic elongation
+T58	DISEASE 3399 3411	cardiomegaly
+T59	DISEASE 3812 3831	acute cholecystitis
+T13	DISEASE 3906 3924	stress gallbladder
+T63	DISEASE 3943 3956	heart failure
+T14	DISEASE 3960 3985	alcalculous cholecystitis
+T64	DISEASE 3987 3995	diabetic
+T60	DISEASE 4353 4372	acute cholecystitis
+T15	DISEASE 4909 4921	complete AVB
+T16	DISEASE 5137 5201	MV: slightly fibrous leaflets with calcium in the mitral annulus
+T17	DISEASE 5203 5218	mild central MI
+T18	DISEASE 5244 5276	endocarditis on the mitral valve
+T19	DISEASE 5541 5561	endocarditic process
+T20	DISEASE 5637 5660	aorto-auricular fistula
+T21	DISEASE 5727 5729	TR
+T65	DISEASE 5798 5818	pericardial effusion
+T66	DISEASE 6231 6247	right hemiplegia
+T22	DISEASE 6326 6387	acute cerebral haematoma in the right parieto-temporal region
+T77	DISEASE 6484 6506	intraventricular blood
+T67	DISEASE 6514 6539	acute haemorrhagic stroke
+T23	DISEASE 6631 6646	septic symptoms
+T61	DISEASE 6888 6907	Acute cholecystitis
+T71	DISEASE 6952 6969	complete AV block
+T25	DISEASE 6971 7027	Streptococcus gallolyticus endocarditis on prosthetic AV
+T26	DISEASE 7043 7084	aorto-cavitary fistula to the left atrium
+T68	DISEASE 7086 7111	Acute haemorrhagic stroke
+T72	DISEASE 7145 7157	Septic shock
+T69	DISEASE 7204 7223	multi-organ failure

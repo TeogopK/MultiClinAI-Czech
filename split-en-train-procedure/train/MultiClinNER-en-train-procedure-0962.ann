@@ -1,0 +1,36 @@
+T78	PROCEDURE 245 258	genetic study
+T79	PROCEDURE 740 761	extraction of a molar
+T102	PROCEDURE 853 873	PHYSICAL EXAMINATION
+T80	PROCEDURE 1052 1072	Cardiac auscultation
+T81	PROCEDURE 1120 1142	Pulmonary auscultation
+T82	PROCEDURE 1193 1214	Abdominal examination
+T3	PROCEDURE 1352 1368	Laboratory tests
+T83	PROCEDURE 1784 1797	Liver profile
+T97	PROCEDURE 1824 1841	Serial troponin I
+T84	PROCEDURE 1920 1923	ECG
+T85	PROCEDURE 2046 2057	Chest X-ray
+T103	PROCEDURE 2059 2086	bilateral breast prostheses
+T4	PROCEDURE 2193 2221	Transthoracic echocardiogram
+T104	PROCEDURE 2584 2587	MRI
+T87	PROCEDURE 2947 2976	Angio-CT of coronary arteries
+T88	PROCEDURE 4212 4253	Coronary angiography: right radial access
+T89	PROCEDURE 4628 4662	Percutaneous coronary intervention
+T8	PROCEDURE 4712 4745	treated with drug-eluting balloon
+T98	PROCEDURE 4754 4762	stenting
+T9	PROCEDURE 4766 4841	2.5 x 38 mm drug-eluting stent was implanted in the middle third of the LAD
+T10	PROCEDURE 4982 5005	anti-inflammatory drugs
+T11	PROCEDURE 5009 5037	transthoracic echocardiogram
+T91	PROCEDURE 5370 5387	electrocardiogram
+T13	PROCEDURE 5697 5724	coronary unit for monitorin
+T99	PROCEDURE 5890 5914	lipid-lowering treatment
+T100	PROCEDURE 5937 5958	high-intensity statin
+T86	PROCEDURE 6249 6283	cardiac magnetic resonance imaging
+T105	PROCEDURE 6285 6288	MRI
+T93	PROCEDURE 6789 6809	coronary angiography
+T90	PROCEDURE 6895 6929	Percutaneous coronary intervention
+T17	PROCEDURE 6963 6999	implantation of a drug-eluting stent
+T18	PROCEDURE 7033 7051	antiplatelet agent
+T94	PROCEDURE 7379 7401	cardiac rehabilitation
+T101	PROCEDURE 7691 7706	PCSK9 inhibitor
+T95	PROCEDURE 7759 7781	cardiac rehabilitation
+T96	PROCEDURE 8245 8285	revascularised with a drug-eluting stent

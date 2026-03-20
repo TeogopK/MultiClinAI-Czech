@@ -1,0 +1,19 @@
+T7	PROCEDURE 78 92	appendicectomy
+T1	PROCEDURE 255 275	physical examination
+T16	PROCEDURE 302 349	palpable masses or visceromegaly in the abdomen
+T18	PROCEDURE 392 408	Laboratory tests
+T2	PROCEDURE 497 523	Chest and abdominal X-rays
+T21	PROCEDURE 559 574	Upper endoscopy
+T11	PROCEDURE 722 766	biopsies were taken from the antrum and body
+T4	PROCEDURE 887 907	abdominal ultrasound
+T26	PROCEDURE 1133 1167	treatment with antisecretory drugs
+T3	PROCEDURE 1249 1281	upper gastrointestinal endoscopy
+T5	PROCEDURE 1490 1511	pulsation enteroscopy
+T12	PROCEDURE 1639 1656	endoscope to pass
+T13	PROCEDURE 1681 1689	biopsies
+T6	PROCEDURE 1733 1751	intestinal transit
+T10	PROCEDURE 1885 1900	extension study
+T31	PROCEDURE 1923 1940	abdominal CT scan
+T9	PROCEDURE 2324 2339	imaging studies
+T14	PROCEDURE 2341 2359	surgical treatment
+T8	PROCEDURE 2377 2443	resection of the tumour and subsequent duodeno-jejunal anastomosis

@@ -1,0 +1,31 @@
+T93	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T90	PROCEDURE 332 351	endoscopic ligation
+T116	PROCEDURE 358 366	ligation
+T91	PROCEDURE 381 392	gastroscopy
+T113	PROCEDURE 435 447	beta-blocker
+T92	PROCEDURE 516 531	anticoagulation
+T94	PROCEDURE 1402 1422	PHYSICAL EXAMINATION
+T95	PROCEDURE 1613 1633	Cardiac auscultation
+T96	PROCEDURE 1747 1769	Pulmonary auscultation
+T97	PROCEDURE 1990 1993	ECG
+T3	PROCEDURE 2211 2222	Blood tests
+T112	PROCEDURE 2532 2544	Autoimmunity
+T98	PROCEDURE 2681 2691	serologies
+T99	PROCEDURE 2816 2828	Proteinogram
+T100	PROCEDURE 3136 3147	Chest X-ray
+T5	PROCEDURE 3258 3286	Transthoracic echocardiogram
+T102	PROCEDURE 4308 4316	V/Q scan
+T103	PROCEDURE 4393 4408	perfusion study
+T104	PROCEDURE 4486 4503	ventilation study
+T105	PROCEDURE 4638 4664	Respiratory function tests
+T107	PROCEDURE 4768 4812	CT of pulmonary arteries and lung parenchyma
+T108	PROCEDURE 5613 5634	Right catheterisation
+T109	PROCEDURE 5928 5948	arterial blood gases
+T101	PROCEDURE 6097 6127	transthoracic echocardiography
+T114	PROCEDURE 6235 6288	complete aetiological study of pulmonary hypertension
+T10	PROCEDURE 6309 6330	full laboratory tests
+T106	PROCEDURE 6332 6358	respiratory function tests
+T110	PROCEDURE 6363 6397	ventilation/perfusion scintigraphy
+T11	PROCEDURE 6475 6502	right heart catheterisation
+T111	PROCEDURE 7286 7300	ergospirometry
+T12	PROCEDURE 7305 7321	6 ambulatory MWT

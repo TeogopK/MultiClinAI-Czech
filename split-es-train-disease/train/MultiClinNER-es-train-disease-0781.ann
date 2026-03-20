@@ -1,0 +1,35 @@
+T40	DISEASE 154 177	alergias medicamentosas
+T41	DISEASE 195 210	hábitos tóxicos
+T42	DISEASE 247 257	Dislipemia
+T43	DISEASE 259 274	Diabetes tipo 2
+T44	DISEASE 425 514	Cardiopatía valvular reumática con estenosis mitral grave y doble lesión aórtica moderada
+T45	DISEASE 485 514	doble lesión aórtica moderada
+T46	DISEASE 646 652	anemia
+T47	DISEASE 1397 1447	flutter auricular con respuesta ventricular rápida
+T48	DISEASE 2610 2662	flutter auricular con respuesta ventricular variable
+T49	DISEASE 3498 3542	trastornos segmentarios de la contractilidad
+T50	DISEASE 3608 3627	derrame pericárdico
+T51	DISEASE 3931 3965	trombopenia inducida por heparinas
+T52	DISEASE 4565 4574	trombosis
+T53	DISEASE 4862 4874	endocarditis
+T54	DISEASE 4886 4938	bacteriemia por el implante reciente de dos prótesis
+T55	DISEASE 5185 5202	lesiones cutáneas
+T56	DISEASE 5328 5354	toxicodermia por ertapenem
+T57	DISEASE 5497 5541	vasculitis leucocitoclástica de pequeño vaso
+T58	DISEASE 5557 5577	enfermedad del suero
+T59	DISEASE 5674 5700	toxicodermia por ertapenem
+T60	DISEASE 5774 5801	Anemia normocítica subaguda
+T61	DISEASE 5839 5889	Flutter auricular con respuesta ventricular rápida
+T62	DISEASE 5891 5924	Trombopenia inducida por heparina
+T63	DISEASE 5932 5973	Infección del tracto urinario por E. coli
+T64	DISEASE 5981 6069	Vasculitis leucocitoclástica de pequeño vaso secundaria administración de carbapenémicos
+T65	DISEASE 2918 2945	Aurícula izquierda dilatada
+T66	DISEASE 5715 5756	Descompensación de insuficiencia cardiaca
+T67	DISEASE 363 395	Fibrilación auricular permanente
+T68	DISEASE 3967 3970	TIH
+T69	DISEASE 5926 5929	TIH
+T70	DISEASE 1883 1900	corazón arrítmico
+T72	DISEASE 2851 2916	ventrículo izquierdo no dilatado con hipertrofia concéntrica leve
+T81	DISEASE 446 482	reumática con estenosis mitral grave
+#1	AnnotatorNotes T68	 TIH trombocitopenia inducida por heparina
+#2	AnnotatorNotes T69	 TIH trombocitopenia inducida por heparina

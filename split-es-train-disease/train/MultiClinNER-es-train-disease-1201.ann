@@ -1,0 +1,65 @@
+T50	DISEASE 88 111	alergias medicamentosas
+T52	DISEASE 311 332	cardiopatía isquémica
+T53	DISEASE 344 351	fumador
+T54	DISEASE 397 418	hipertensión arterial
+T55	DISEASE 420 423	HTA
+T56	DISEASE 503 514	cardiopatía
+T57	DISEASE 584 605	trastorno de ansiedad
+T58	DISEASE 1416 1437	fibrilación auricular
+T59	DISEASE 1900 1926	parada cardiorrespiratoria
+T60	DISEASE 2508 2551	trombosis venosa en extremidades inferiores
+T61	DISEASE 2624 2658	parada por fibrilación ventricular
+T63	DISEASE 3613 3626	valvulopatías
+T64	DISEASE 3680 3699	derrame pericárdico
+T65	DISEASE 4396 4437	Válvula tricúspide con insuficiencia leve
+T66	DISEASE 4575 4594	derrame pericárdico
+T67	DISEASE 4779 4816	Hipertrofia concéntrica leve-moderada
+T68	DISEASE 5027 5051	cardiopatía hipertensiva
+T69	DISEASE 5141 5161	síndrome de QT largo
+T70	DISEASE 5389 5442	taquicardia ventricular polimórfica catecolaminérgica
+T71	DISEASE 5473 5492	síndrome de Brugada
+T72	DISEASE 5797 5832	extrasistolia ventricular monomorfa
+T73	DISEASE 5851 5874	bloqueo de rama derecha
+T74	DISEASE 6573 6585	canalopatías
+T75	DISEASE 6588 6609	vasoespasmo coronario
+T76	DISEASE 6981 6996	parada cardiaca
+T77	DISEASE 7172 7196	tromboembolismo pulmonar
+T78	DISEASE 7198 7201	TEP
+T79	DISEASE 7206 7227	taponamiento cardiaco
+T80	DISEASE 7281 7295	miocardiopatía
+T81	DISEASE 7436 7466	síndromes de QT largo, Brugada
+T82	DISEASE 7470 7523	taquicardia ventricular polimórfica catecolaminérgica
+T83	DISEASE 7617 7638	Vasoespasmo coronario
+T85	DISEASE 7820 7848	cardiopatía isquémica precoz
+T86	DISEASE 7869 7901	fibrilación auricular permanente
+T87	DISEASE 7918 7951	fibrilación auricular paroxística
+T88	DISEASE 8048 8060	cardiopatías
+T89	DISEASE 8172 8206	fibrilación ventricular idiopática
+T90	DISEASE 8450 8484	Fibrilación ventricular idiopática
+T91	DISEASE 8529 8552	cardiopatía estructural
+T92	DISEASE 8622 8633	canalopatía
+T93	DISEASE 7001 7009	Isquemia
+T94	DISEASE 254 259	angor
+T95	DISEASE 3291 3306	daño miocárdico
+T96	DISEASE 5350 5368	eventos arrítmicos
+T97	DISEASE 6381 6399	eventos arrítmicos
+T98	DISEASE 6800 6818	eventos arrítmicos
+T99	DISEASE 1256 1259	PCR
+T100	DISEASE 1439 1441	FA
+T101	DISEASE 1680 1683	PCR
+T102	DISEASE 5876 5881	BRDHH
+T103	DISEASE 7384 7396	Canalopatías
+T104	DISEASE 8392 8413	PCR extrahospitalaria
+T105	DISEASE 8636 8647	vasoespasmo
+T28	DISEASE 5626 5656	conducción auriculoventricular
+T189	DISEASE 4337 4394	Válvula mitral de aspecto normal con mínima insuficiencia
+T204	DISEASE 2696 2717	fibrilación auricular
+T211	DISEASE 291 304	muerte súbita
+T212	DISEASE 7803 7816	muerte súbita
+T42	DISEASE 1084 1087	PCR
+T174	DISEASE 3086 3089	PCR
+T193	DISEASE 6017 6023	parada
+T196	DISEASE 7568 7577	QTc corto
+#1	AnnotatorNotes T99	paro cardiorespiratorio
+#2	AnnotatorNotes T100	 fibrilación auricular
+#3	AnnotatorNotes T104	paro cardiorespiratorio

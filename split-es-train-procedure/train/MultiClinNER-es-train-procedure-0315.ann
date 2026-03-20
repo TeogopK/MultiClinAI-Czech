@@ -1,0 +1,37 @@
+T1	PROCEDURE 1323 1333	colostomía
+T2	PROCEDURE 1950 1969	Gasometría arterial
+T3	PROCEDURE 2020 2038	electrocardiograma
+T4	PROCEDURE 2058 2072	ecocardiograma
+T5	PROCEDURE 2144 2164	radiografía de tórax
+T6	PROCEDURE 2244 2256	hemocultivos
+T7	PROCEDURE 2262 2310	cultivo de esputo para bacterias y mycobacterias
+T8	PROCEDURE 2332 2368	gammagrafía de ventilación/perfusión
+T9	PROCEDURE 2386 2411	angiotomografia computada
+T10	PROCEDURE 2486 2512	tratamiento anticoagulante
+T11	PROCEDURE 2686 2706	radiografía de tórax
+T12	PROCEDURE 2723 2735	broncoscopia
+T13	PROCEDURE 2791 2817	cultivo del broncoaspirado
+T14	PROCEDURE 2936 2948	espirometría
+T15	PROCEDURE 3090 3146	tomografía axial computada con cortes de alta resolución
+T16	PROCEDURE 3148 3153	TACAR
+T17	PROCEDURE 3304 3325	lavado broncoalveolar
+T18	PROCEDURE 3327 3330	LBA
+T19	PROCEDURE 3901 3921	radiografía de tórax
+T20	PROCEDURE 3945 3957	espirometría
+T21	PROCEDURE 4025 4029	TACA
+T22	PROCEDURE 2888 2897	citología
+T23	PROCEDURE 3927 3943	función pulmonar
+T24	PROCEDURE 1671 1689	sedimento urinario
+T25	PROCEDURE 1639 1652	transaminasas
+T26	PROCEDURE 1631 1636	iones
+T27	PROCEDURE 1177 1195	exploración física
+T28	PROCEDURE 3246 3258	broncoscopia
+T29	PROCEDURE 3446 3472	tinción con azul de Prusia
+T30	PROCEDURE 3970 3986	gases arteriales
+T31	PROCEDURE 3959 3967	difusión
+T32	PROCEDURE 1615 1625	bioquímica
+T33	PROCEDURE 2950 2970	volúmenes pulmonares
+T34	PROCEDURE 2973 2981	difusión
+T35	PROCEDURE 206 280	intervenido de diverticulitis de sigma aguda con perforación y peritonitis
+T36	PROCEDURE 1338 1347	analítica
+T44	PROCEDURE 303 315	intervención

@@ -1,0 +1,54 @@
+T37	DISEASE 75 98	alergias medicamentosas
+T38	DISEASE 130 151	hipertensión arterial
+T39	DISEASE 186 196	dislipemia
+T40	DISEASE 243 254	cardiopatía
+T41	DISEASE 256 278	insuficiencia cardiaca
+T42	DISEASE 283 296	muerte súbita
+T43	DISEASE 1248 1251	IAM
+T44	DISEASE 1704 1744	enfermedad arterial coronaria de 3 vasos
+T45	DISEASE 2030 2065	oclusión proximal coronaria derecha
+T46	DISEASE 2286 2315	comunicación interventricular
+T47	DISEASE 3051 3063	BAV Mobitz I
+T48	DISEASE 4493 4514	Enfermedad de 3 vasos
+T49	DISEASE 4586 4615	comunicación interventricular
+T50	DISEASE 5044 5072	insuficiencia aórtica ligera
+T51	DISEASE 5075 5111	insuficiencia mitral moderada-severa
+T52	DISEASE 5215 5240	Insuficiencia tricuspídea
+T53	DISEASE 5346 5404	shock cardiogénico refractario a tratamiento farmacológico
+T54	DISEASE 5426 5440	CIV posinfarto
+T55	DISEASE 5658 5687	comunicación interventricular
+T56	DISEASE 6440 6493	Ventrículo derecho no dilatado, con disfunción severa
+T57	DISEASE 6495 6520	Insuficiencia tricuspídea
+T58	DISEASE 6586 6615	comunicación interventricular
+T59	DISEASE 7110 7143	fibrilación auricular paroxística
+T60	DISEASE 7264 7323	insuficiencia respiratoria secundaria a hemorragia alveolar
+T61	DISEASE 7326 7365	síndrome de distress respiratorio agudo
+T62	DISEASE 7367 7456	neumonía nosocomial en lóbulo inferior derecho (Enterobacter cloacae y Citrobacter koseri
+T63	DISEASE 7460 7513	infección del tracto urinario por Serratia marcescens
+T64	DISEASE 7989 8010	insuficiencia aórtica
+T65	DISEASE 8020 8056	insuficiencia mitral moderada-severa
+T66	DISEASE 8153 8209	Infarto agudo de miocardio con elevación del ST inferior
+T67	DISEASE 8229 8254	Oclusión trombótica de CD
+T68	DISEASE 8291 8344	Enfermedad coronaria de 3 vasos (DA media, 1a OM y CD
+T69	DISEASE 8346 8382	comunicación interventricular septal
+T70	DISEASE 8468 8527	Miocardiopatía isquémica con disfunción sistólica VI severa
+T71	DISEASE 8529 8565	Insuficiencia mitral moderada-severa
+T72	DISEASE 996 1015	bloqueo AV Mobitz I
+T73	DISEASE 4541 4544	CIV
+T74	DISEASE 4140 4175	coronaria derecha: ocluida proximal
+T75	DISEASE 4304 4310	trombo
+T76	DISEASE 1750 1807	lesiones severas (90 %) en tándem en descendente anterior
+T77	DISEASE 2317 2320	CIV
+T78	DISEASE 3994 4051	circunfleja: ocluida a nivel de la primera marginal media
+T79	DISEASE 4781 4839	ventrículo izquierdo no hipertrófico, ligeramente dilatado
+T80	DISEASE 5123 5162	Ventrículo derecho ligeramente dilatado
+T81	DISEASE 5599 5626	ventrículo derecho dilatado
+T82	DISEASE 6107 6110	CIV
+T83	DISEASE 7743 7784	ventrículo izquierdo ligeramente dilatado
+T84	DISEASE 8068 8107	Ventrículo derecho ligeramente dilatado
+T85	DISEASE 8109 8138	Disfunción ventrículo derecho
+T149	DISEASE 3544 3574	arterias coronarias: estenosis
+T137	DISEASE 1949 1974	oclusión primera marginal
+#1	AnnotatorNotes T73	 comunicación interventricular
+#2	AnnotatorNotes T77	 comunicación interventricular
+#3	AnnotatorNotes T82	 comunicación interventricular

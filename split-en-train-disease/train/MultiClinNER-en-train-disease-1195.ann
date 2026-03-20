@@ -1,0 +1,61 @@
+T59	DISEASE 281 300	high blood pressure
+T60	DISEASE 320 327	Obesity
+T115	DISEASE 762 826	non-dilated left ventricle (LV) with mild concentric hypertrophy
+T110	DISEASE 1092 1128	Moderate left atrial (LA) dilatation
+T61	DISEASE 1130 1155	Mild mitral insufficiency
+T77	DISEASE 1135 1155	mitral insufficiency
+T73	DISEASE 1162 1185	tricuspid insufficiency
+T62	DISEASE 1398 1407	Arthrosis
+T63	DISEASE 1409 1428	Depressive syndrome
+T64	DISEASE 2858 2880	acute pulmonary oedema
+T67	DISEASE 2962 2987	rapid atrial fibrillation
+T112	DISEASE 5181 5193	cardiomegaly
+T68	DISEASE 5347 5395	Moderately dilated LV with severe LV dysfunction
+T114	DISEASE 5538 5571	RV with mild systolic dysfunction
+T78	DISEASE 5600 5620	mitral insufficiency
+T70	DISEASE 5798 5818	aortic insufficiency
+T74	DISEASE 5835 5858	tricuspid insufficiency
+T101	DISEASE 8527 8572	sustained polymorphic ventricular tachycardia
+T71	DISEASE 8537 8572	polymorphic ventricular tachycardia
+T69	DISEASE 8747 8795	Moderately dilated LV with severe LV dysfunction
+T79	DISEASE 9005 9025	mitral insufficiency
+T75	DISEASE 9238 9261	tricuspid insufficiency
+T116	DISEASE 9674 9697	Moderate LV dysfunction
+T80	DISEASE 9769 9789	mitral insufficiency
+T76	DISEASE 9933 9956	Tricuspid insufficiency
+T81	DISEASE 10034 10054	mitral insufficiency
+T82	DISEASE 10371 10390	tachycardiomyopathy
+T86	DISEASE 10450 10471	sliding hiatal hernia
+T83	DISEASE 10499 10518	tachycardiomyopathy
+T65	DISEASE 10640 10662	acute pulmonary oedema
+T87	DISEASE 10640 10710	acute pulmonary oedema secondary to AF with rapid ventricular response
+T118	DISEASE 10924 10931	long QT
+T96	DISEASE 10975 11011	polymorphic ventricular tachycardias
+T88	DISEASE 11180 11203	ventricular arrhythmias
+T90	DISEASE 11537 11556	ischaemic hepatitis
+T92	DISEASE 11657 11676	acute heart failure
+T93	DISEASE 11938 11968	severe ventricular dysfunction
+T94	DISEASE 12309 12337	left ventricular dysfunction
+T84	DISEASE 12367 12386	tachycardiomyopathy
+T95	DISEASE 12447 12482	oligosymptomatic coronary vasospasm
+T104	DISEASE 12464 12482	coronary vasospasm
+T97	DISEASE 12537 12573	polymorphic ventricular tachycardias
+T98	DISEASE 12995 13015	vasospastic episodes
+T113	DISEASE 13104 13120	major depression
+T99	DISEASE 13384 13414	Acute congestive heart failure
+T66	DISEASE 13420 13442	acute pulmonary oedema
+T100	DISEASE 13444 13489	Persistent AF with rapid ventricular response
+T85	DISEASE 13532 13551	Tachycardiomyopathy
+T102	DISEASE 13609 13654	Sustained polymorphic ventricular tachycardia
+T72	DISEASE 13619 13654	polymorphic ventricular tachycardia
+T103	DISEASE 13656 13674	torsade de pointes
+T119	DISEASE 13677 13684	Long QT
+T105	DISEASE 13704 13722	Coronary vasospasm
+T117	DISEASE 13724 13743	Prinzmetal's angina
+T89	DISEASE 13750 13773	ventricular arrhythmias
+T106	DISEASE 13775 13791	Acute bronchitis
+T107	DISEASE 13809 13830	respiratory infection
+T91	DISEASE 13832 13851	Ischaemic hepatitis
+T108	DISEASE 13853 13867	Cholelithiasis
+T111	DISEASE 13869 13918	Major depressive disorder with psychotic symptoms
+T109	DISEASE 13994 14044	Contraindication to beta-blockers due to vasospasm

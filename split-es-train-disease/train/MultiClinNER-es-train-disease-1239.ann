@@ -1,0 +1,34 @@
+T27	DISEASE 80 101	hipertensión arterial
+T28	DISEASE 103 119	diabetes tipo II
+T29	DISEASE 153 163	dislipemia
+T30	DISEASE 195 228	miocardiopatía dilatada isquémica
+T31	DISEASE 292 332	enfermedad coronaria de tronco y 3 vasos
+T32	DISEASE 517 549	fibrilación auricular permanente
+T33	DISEASE 599 625	estenosis aórtica moderada
+T34	DISEASE 777 838	hipertiroidismo por tiroiditis tipo 2 inducida por amiodarona
+T35	DISEASE 891 929	complicaciones trombóticas o embólicas
+T36	DISEASE 1053 1065	hipertensión
+T37	DISEASE 1154 1170	enfermedad renal
+T38	DISEASE 2415 2473	fibrilación auricular con respuesta ventricular controlada
+T39	DISEASE 2598 2613	derrame pleural
+T40	DISEASE 3631 3654	trombo intraventricular
+T41	DISEASE 3769 3800	trombos en TSVI ni raíz aórtica
+T42	DISEASE 4469 4488	derrame pericárdico
+T43	DISEASE 5968 5991	trombos intracavitarios
+T44	DISEASE 6127 6141	lesión tumoral
+T45	DISEASE 6144 6168	consolidación infecciosa
+T46	DISEASE 6174 6213	atelectasia pasiva del pulmón izquierdo
+T47	DISEASE 6259 6268	trombosis
+T48	DISEASE 6354 6390	insuficiencia cardiaca de alto gasto
+T49	DISEASE 7070 7107	Insuficiencia cardiaca por alto gasto
+T50	DISEASE 7109 7135	Derrame pleural secundario
+T51	DISEASE 7224 7253	Disfunción ventricular severa
+T52	DISEASE 7311 7344	Miocardiopatía dilatada isquémica
+T53	DISEASE 7346 7377	Enfermedad coronaria de 3 vasos
+T54	DISEASE 3889 3923	Válvula aórtica esclerocalcificada
+T55	DISEASE 3830 3837	trombos
+T56	DISEASE 1953 1966	hepatomegalia
+T84	DISEASE 483 495	flúter común
+T95	DISEASE 2530 2533	BRD
+T91	DISEASE 233 266	disfunción ventricular muy severa
+T21	DISEASE 6197 6228	pulmón izquierdo por el derrame

@@ -1,0 +1,57 @@
+T1	SYMPTOM 365 375	chest pain
+T40	SYMPTOM 388 436	ischaemia test was performed, which was negative
+T2	SYMPTOM 777 792	sudden dyspnoea
+T41	SYMPTOM 798 818	generalised pruritus
+T3	SYMPTOM 823 868	chest tightness radiating to both extremities
+T29	SYMPTOM 890 906	syncopal episode
+T42	SYMPTOM 946 968	poor general condition
+T43	SYMPTOM 1062 1075	sharp T waves
+T44	SYMPTOM 1081 1098	J point elevation
+T4	SYMPTOM 1152 1172	ST-segment elevation
+T39	SYMPTOM 1583 1629	Ventriculography without segmental alterations
+T45	SYMPTOM 1639 1655	competent mitral
+T5	SYMPTOM 1681 1694	skin erythema
+T46	SYMPTOM 1781 1832	flattening of the T waves on the anterolateral side
+T47	SYMPTOM 1998 2019	elevation of troponin
+T6	SYMPTOM 2305 2314	Conscious
+T7	SYMPTOM 2319 2327	oriented
+T8	SYMPTOM 2329 2344	skin congestion
+T9	SYMPTOM 2346 2359	normohydrated
+T10	SYMPTOM 2383 2404	rhythmic heart sounds
+T11	SYMPTOM 2409 2416	murmurs
+T12	SYMPTOM 2421 2442	jugular ingurgitation
+T48	SYMPTOM 2444 2486	Pulmonary auscultation: normal ventilation
+T30	SYMPTOM 2488 2540	Abdomen: soft, depressible, not painful on palpation
+T13	SYMPTOM 2520 2540	painful on palpation
+T14	SYMPTOM 2545 2551	masses
+T49	SYMPTOM 2555 2564	megaliths
+T16	SYMPTOM 2578 2599	peritoneal irritation
+T50	SYMPTOM 2601 2622	Peristalsis preserved
+T17	SYMPTOM 2624 2652	Lower extremities: no oedema
+T51	SYMPTOM 2889 2922	Chest X-ray: no relevant findings
+T18	SYMPTOM 2935 2947	sinus rhythm
+T52	SYMPTOM 2959 2977	hyperacute T waves
+T53	SYMPTOM 2983 3000	J point elevation
+T19	SYMPTOM 3043 3055	sinus rhythm
+T32	SYMPTOM 3083 3100	T negative in III
+T20	SYMPTOM 3102 3125	ST rectilinear in V5-V6
+T21	SYMPTOM 3142 3201	left ventricle (LV) of normal dimensions and wall thickness
+T22	SYMPTOM 3203 3234	Normal global systolic function
+T31	SYMPTOM 3244 3282	segmental asymmetries of contractility
+T23	SYMPTOM 3284 3308	Normal diastolic pattern
+T24	SYMPTOM 3310 3342	Left atrium of normal dimensions
+T54	SYMPTOM 3344 3365	Normal right chambers
+T55	SYMPTOM 3367 3404	normocontractile right ventricle (RV)
+T56	SYMPTOM 3678 3714	Inferior vena cava (IVC) not dilated
+T57	SYMPTOM 3749 3807	Normal estimated systolic pulmonary artery pressure (PAPs)
+T25	SYMPTOM 3845 3865	intracavitary masses
+T38	SYMPTOM 3909 3950	coronary tree without lesions of interest
+T26	SYMPTOM 4053 4083	Good left ventricular function
+T15	SYMPTOM 4124 4146	competent mitral valve
+T36	SYMPTOM 4201 4207	stable
+T33	SYMPTOM 4209 4221	asymptomatic
+T27	SYMPTOM 4238 4307	control echocardiogram was performed showing normal systolic function
+T28	SYMPTOM 4402 4426	normal systolic function
+T34	SYMPTOM 4599 4611	Asymptomatic
+T37	SYMPTOM 4616 4622	stable
+T35	SYMPTOM 4774 4832	coronary arteries without significant angiographic lesions

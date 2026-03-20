@@ -1,0 +1,38 @@
+T23	DISEASE 121 143	adverse drug reactions
+T24	DISEASE 174 180	smoker
+T25	DISEASE 237 268	chronic ischaemic heart disease
+T1	DISEASE 276 279	ACS
+T2	DISEASE 365 371	angina
+T26	DISEASE 401 414	heart failure
+T27	DISEASE 816 854	aortic and left atrial root dilatation
+T3	DISEASE 950 976	organic valvular pathology
+T28	DISEASE 1039 1059	pericardial effusion
+T4	DISEASE 1094 1150	Coronary trunk with non-significant angiographic lesions
+T30	DISEASE 1152 1199	Anterior descending artery with severe stenosis
+T5	DISEASE 1365 1429	Circumflex artery (Cx) with non-significant angiographic lesions
+T6	DISEASE 1431 1516	Dominant right coronary artery, diffusely diseased, with non-significant focal lesion
+T31	DISEASE 2548 2555	syncope
+T32	DISEASE 2706 2730	cardiorespiratory arrest
+T7	DISEASE 2773 2803	electromechanical dissociation
+T34	DISEASE 3043 3067	ventricular fibrillation
+T45	DISEASE 3193 3214	irregular tachycardia
+T8	DISEASE 3572 3612	severe left ventricular (LV) dysfunction
+T46	DISEASE 3906 3927	irregular tachycardia
+T35	DISEASE 4201 4236	severe left ventricular dysfunction
+T9	DISEASE 4358 4418	diseased left main trunk with significant ostial involvement
+T10	DISEASE 4420 4470	Diffusely diseased LAD with severe proximal plaque
+T11	DISEASE 4511 4546	Cx with significant proximal plaque
+T12	DISEASE 4580 4622	Right coronary artery with diffuse lesions
+T36	DISEASE 5904 5937	segmental contractility disorders
+T13	DISEASE 6135 6171	Mild degenerative mitro-aortic signs
+T37	DISEASE 6203 6217	valvulopathies
+T29	DISEASE 6222 6242	pericardial effusion
+T38	DISEASE 7246 7280	mild-moderate diffuse brain damage
+T39	DISEASE 7413 7433	aspiration pneumonia
+T40	DISEASE 7435 7454	acute renal failure
+T14	DISEASE 7456 7499	moderate neurogenic oropharyngeal dysphagia
+T44	DISEASE 7722 7772	Out-of-hospital cardiorespiratory arrest recovered
+T41	DISEASE 7805 7853	Acute ST-segment elevation myocardial infarction
+T15	DISEASE 7855 7860	STEMI
+T42	DISEASE 7869 7904	Multivessel coronary artery disease
+T43	DISEASE 7978 8021	Post-arrest anoxic-ischaemic encephalopathy

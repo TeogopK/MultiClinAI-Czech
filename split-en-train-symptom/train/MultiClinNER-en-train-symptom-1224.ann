@@ -1,0 +1,37 @@
+T24	SYMPTOM 438 549	oppressive central thoracic pain, of about 30 minutes' evolution, radiating to both upper limbs (MMSS) and neck
+T25	SYMPTOM 605 629	mild vegetative cramping
+T26	SYMPTOM 742 763	central thoracic pain
+T27	SYMPTOM 803 846	clinical signs of CHF or infectious disease
+T28	SYMPTOM 1000 1025	Regular general condition
+T1	SYMPTOM 1039 1050	severe pain
+T2	SYMPTOM 1052 1067	Eupneic at rest
+T29	SYMPTOM 1069 1082	Normal colour
+T3	SYMPTOM 1087 1100	normohydrated
+T30	SYMPTOM 1102 1110	Sweating
+T4	SYMPTOM 1120 1129	conscious
+T5	SYMPTOM 1134 1142	oriented
+T31	SYMPTOM 1144 1155	cooperative
+T7	SYMPTOM 1160 1165	alert
+T8	SYMPTOM 1170 1191	neurological focality
+T9	SYMPTOM 1193 1237	Cardiopulmonary auscultation: regular sounds
+T10	SYMPTOM 1239 1255	diastolic murmur
+T32	SYMPTOM 1298 1327	Conservative vesicular murmur
+T33	SYMPTOM 1342 1353	added noise
+T11	SYMPTOM 1355 1384	Abdomen: soft and depressible
+T12	SYMPTOM 1394 1398	mass
+T34	SYMPTOM 1402 1411	megaliths
+T13	SYMPTOM 1417 1437	painful on palpation
+T35	SYMPTOM 1439 1469	MMSS: asymmetric radial pulses
+T14	SYMPTOM 1471 1518	Lower limbs: weak and symmetrical distal pulses
+T15	SYMPTOM 1568 1580	sinus rhythm
+T16	SYMPTOM 1603 1613	narrow QRS
+T17	SYMPTOM 2331 2358	preserved systolic function
+T20	SYMPTOM 2368 2406	alterations in segmental contractility
+T18	SYMPTOM 2480 2523	Right ventricle of normal size and function
+T36	SYMPTOM 2599 2630	Normal inferior vena cava (IVC)
+T21	SYMPTOM 3360 3402	Distal aorta and normal iliofemoral sector
+T37	SYMPTOM 3569 3598	intense oppressive chest pain
+T23	SYMPTOM 4949 4990	scattered infiltrates in both lung fields
+T6	SYMPTOM 5024 5048	Influenza A negative PCR
+T22	SYMPTOM 5208 5214	stable
+T19	SYMPTOM 5273 5288	active bleeding

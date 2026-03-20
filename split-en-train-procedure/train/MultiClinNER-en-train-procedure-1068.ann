@@ -1,0 +1,32 @@
+T71	PROCEDURE 211 258	severe aortic stenosis treated by bioprosthesis
+T77	PROCEDURE 405 412	surgery
+T11	PROCEDURE 765 780	gallium 67 scan
+T54	PROCEDURE 933 953	antibiotic treatment
+T68	PROCEDURE 1295 1325	third generation cephalosporin
+T10	PROCEDURE 1443 1496	up to 4 red blood cell concentrates were administered
+T55	PROCEDURE 1599 1616	blood transfusion
+T56	PROCEDURE 1621 1641	Physical examination
+T72	PROCEDURE 1794 1805	Vital signs
+T9	PROCEDURE 1874 1877	CBC
+T57	PROCEDURE 2062 2079	Electrocardiogram
+T58	PROCEDURE 2114 2125	Chest X-ray
+T59	PROCEDURE 2143 2155	Auscultation
+T60	PROCEDURE 2234 2245	Blood gases
+T61	PROCEDURE 2286 2300	Blood cultures
+T8	PROCEDURE 2340 2388	Transthoracic and transesophageal echocardiogram
+T7	PROCEDURE 2532 2562	transesophageal echocardiogram
+T69	PROCEDURE 2722 2737	aminoglycosides
+T74	PROCEDURE 2943 2951	inhalers
+T62	PROCEDURE 2953 2967	oxygen therapy
+T5	PROCEDURE 2975 3019	vital signs monitoring and oxygen saturation
+T63	PROCEDURE 3477 3488	antibiotics
+T70	PROCEDURE 3529 3544	aminoglycosides
+T64	PROCEDURE 3801 3812	antibiotics
+T3	PROCEDURE 3831 3882	administration of three red blood cell concentrates
+T2	PROCEDURE 4278 4314	administration of plasma derivatives
+T65	PROCEDURE 4993 5007	rehabilitation
+T66	PROCEDURE 5070 5084	rehabilitation
+T67	PROCEDURE 5388 5402	rehabilitation
+T76	PROCEDURE 5413 5422	diuretics
+T75	PROCEDURE 5424 5432	inhalers
+T1	PROCEDURE 5559 5602	hypoglycaemic or antihypertensive treatment

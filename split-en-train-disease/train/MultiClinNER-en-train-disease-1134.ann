@@ -1,0 +1,54 @@
+T25	DISEASE 165 182	diabetes mellitus
+T27	DISEASE 256 269	heart failure
+T31	DISEASE 273 285	sudden death
+T75	DISEASE 695 701	angina
+T65	DISEASE 1038 1050	hepatomegaly
+T78	DISEASE 1174 1191	sinus tachycardia
+T32	DISEASE 1227 1232	BRDHH
+T66	DISEASE 1237 1243	HBAIHH
+T33	DISEASE 1550 1555	BRDHH
+T67	DISEASE 1560 1566	HBAIHH
+T68	DISEASE 2143 2155	cardiomegaly
+T34	DISEASE 2454 2463	infection
+T35	DISEASE 2655 2681	LV endomyocardial fibrosis
+T51	DISEASE 2658 2681	endomyocardial fibrosis
+T70	DISEASE 2783 2793	Dilated RV
+T38	DISEASE 2981 3010	Severe pulmonary hypertension
+T48	DISEASE 2988 3010	pulmonary hypertension
+T40	DISEASE 3025 3060	retroauricular pericardial effusion
+T41	DISEASE 3254 3265	chronic PTE
+T69	DISEASE 3267 3279	Cardiomegaly
+T43	DISEASE 3267 3302	Cardiomegaly with signs of right HF
+T44	DISEASE 3304 3354	Atheromatosis in aortic arch and coronary arteries
+T71	DISEASE 3519 3566	Anterior descending with critical ostial lesion
+T28	DISEASE 3793 3806	heart failure
+T29	DISEASE 3837 3850	heart failure
+T72	DISEASE 3852 3854	CF
+T46	DISEASE 3868 3894	restrictive cardiomyopathy
+T36	DISEASE 3911 3937	LV endomyocardial fibrosis
+T52	DISEASE 3914 3937	endomyocardial fibrosis
+T73	DISEASE 4026 4054	dilated and dysfunctional RV
+T49	DISEASE 4082 4104	pulmonary hypertension
+T42	DISEASE 4393 4404	chronic PTE
+T53	DISEASE 4445 4468	endomyocardial fibrosis
+T57	DISEASE 4486 4514	endomyocardial calcification
+T58	DISEASE 4524 4546	coronary atheromatosis
+T59	DISEASE 4576 4661	coronary artery disease of the anterior descending artery with critical ostial lesion
+T74	DISEASE 4755 4765	infections
+T54	DISEASE 4802 4825	endomyocardial fibrosis
+T76	DISEASE 4875 4881	angina
+T60	DISEASE 4883 4934	LV dysfunction secondary to endomyocardial fibrosis
+T55	DISEASE 4911 4934	endomyocardial fibrosis
+T30	DISEASE 5421 5434	heart failure
+T47	DISEASE 5446 5472	restrictive cardiomyopathy
+T61	DISEASE 5446 5506	restrictive cardiomyopathy due to LV endomyocardial fibrosis
+T37	DISEASE 5480 5506	LV endomyocardial fibrosis
+T56	DISEASE 5483 5506	endomyocardial fibrosis
+T39	DISEASE 5508 5537	Severe pulmonary hypertension
+T50	DISEASE 5515 5537	pulmonary hypertension
+T62	DISEASE 5539 5572	Chronic pulmonary thromboembolism
+T63	DISEASE 5617 5640	Ischaemic heart disease
+T45	DISEASE 5642 5674	1-vessel coronary artery disease
+T77	DISEASE 5702 5708	angina
+T64	DISEASE 5710 5734	Type 2 diabetes mellitus
+T26	DISEASE 5717 5734	diabetes mellitus

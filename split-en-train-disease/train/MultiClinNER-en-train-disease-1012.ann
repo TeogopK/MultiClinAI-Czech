@@ -1,0 +1,43 @@
+T28	DISEASE 85 99	drug allergies
+T29	DISEASE 101 110	Ex-smoker
+T30	DISEASE 180 201	arterial hypertension
+T1	DISEASE 203 206	AHT
+T32	DISEASE 256 280	type 2 diabetes mellitus
+T34	DISEASE 397 425	benign prostatic hyperplasia
+T2	DISEASE 430 459	cataract surgery in both eyes
+T35	DISEASE 876 888	scalp injury
+T3	DISEASE 903 926	cranioencephalic trauma
+T4	DISEASE 1327 1359	Left supranuclear facial paresis
+T36	DISEASE 2132 2148	pleural effusion
+T37	DISEASE 2200 2235	cerebral corticosubcortical atrophy
+T64	DISEASE 2237 2309	Left occipital and left thalamus hypodensities of acute ischaemic origin
+T38	DISEASE 2704 2726	aneurysmal dilatations
+T39	DISEASE 2775 2785	thrombosis
+T12	DISEASE 2998 3128	acute ischaemic infarction in the left temporo-occipital and left thalamic territory (the latter with haemorrhagic transformation)
+T40	DISEASE 3341 3363	vascular malformations
+T13	DISEASE 3421 3480	cardiac cavities of normal size, with moderate hypertrophy,
+T14	DISEASE 3681 3693	valvulopathy
+T42	DISEASE 3805 3835	left intraventricular thrombus
+T56	DISEASE 3898 3958	rounded thrombus of 11x16x15 mm adhered to septoapical wall.
+T43	DISEASE 4024 4041	myocardial oedema
+T44	DISEASE 4043 4104	Non-transmural subendocardial necrosis on the lateral aspect.
+T63	DISEASE 4116 4147	necrosis in the apical segments
+T57	DISEASE 4226 4234	thrombus
+T18	DISEASE 4499 4563	ischaemic stroke in the left posterior cerebral artery territory
+T19	DISEASE 4618 4624	stroke
+T22	DISEASE 4963 5019	ischaemia was observed in different arterial territories
+T41	DISEASE 5112 5134	vascular malformations
+T24	DISEASE 5201 5207	stroke
+T53	DISEASE 5273 5330	intraventricular thrombus adhered to the septoapical wall
+T45	DISEASE 5537 5560	subendocardial necrosis
+T26	DISEASE 5603 5613	infarction
+T46	DISEASE 5797 5843	recent stroke with haemorrhagic transformation
+T48	DISEASE 6109 6148	stroke with haemorrhagic transformation
+T49	DISEASE 6262 6277	apical thrombus
+T50	DISEASE 6408 6427	campimetric deficit
+T60	DISEASE 6612 6620	thrombus
+T51	DISEASE 6802 6887	Ischaemic stroke in the left posterior cerebral artery territory of embolic aetiology
+T54	DISEASE 6889 6914	Intraventricular thrombus
+T27	DISEASE 6916 6977	Old myocardial infarction in lateral face and apical segments
+T33	DISEASE 6979 7003	Type 2 diabetes mellitus
+T31	DISEASE 7005 7026	Arterial hypertension

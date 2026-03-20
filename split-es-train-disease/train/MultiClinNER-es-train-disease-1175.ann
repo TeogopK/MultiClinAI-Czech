@@ -1,0 +1,29 @@
+T18	DISEASE 71 80	exfumador
+T19	DISEASE 569 591	insuficiencia cardiaca
+T20	DISEASE 593 595	IC
+T21	DISEASE 1375 1427	Válvula mitral de velos finos con insuficiencia leve
+T22	DISEASE 1585 1606	hipertensión pulmonar
+T23	DISEASE 1752 1771	derrame pericárdico
+T24	DISEASE 2221 2247	infarto agudo de miocardio
+T25	DISEASE 2249 2252	IAM
+T26	DISEASE 2303 2314	FV primaria
+T27	DISEASE 2385 2406	infarto en fase aguda
+T28	DISEASE 2478 2499	secuelas neurológicas
+T29	DISEASE 2782 2794	IAM inferior
+T30	DISEASE 278 280	FV
+T31	DISEASE 2761 2763	FV
+T32	DISEASE 129 132	PCR
+T33	DISEASE 361 364	PCR
+T34	DISEASE 2271 2274	PCR
+T35	DISEASE 2754 2757	PCR
+T36	DISEASE 1608 1653	Vena cava inferior (VCI) ligeramente dilatada
+T37	DISEASE 1830 1851	VI levemente dilatado
+T67	DISEASE 735 752	necrosis inferior
+T68	DISEASE 2154 2175	infarto en fase aguda
+#1	AnnotatorNotes T20	  insuficiencia cardíaca
+#2	AnnotatorNotes T30	  fib
+#3	AnnotatorNotes T31	  fibrilación auricular
+#4	AnnotatorNotes T32	  Parada cardiorespiratoria
+#5	AnnotatorNotes T33	  Parada cardiorespiratoria
+#6	AnnotatorNotes T34	  Parada cardiorespiratoria
+#7	AnnotatorNotes T35	  Parada cardiorespiratoria

@@ -1,0 +1,42 @@
+T33	DISEASE 71 94	alergias medicamentosas
+T34	DISEASE 166 181	Obesidad tipo 1
+T35	DISEASE 200 209	exfumador
+T36	DISEASE 247 268	cardiopatía isquémica
+T37	DISEASE 315 322	bebedor
+T38	DISEASE 355 384	Cardiopatía isquémica crónica
+T39	DISEASE 407 486	infarto agudo de miocardio con elevación del segmento ST (IAMCEST) anteroseptal
+T40	DISEASE 625 677	oclusión crónica de arteria circunfleja (ACx) distal
+T41	DISEASE 713 745	disfunción ventricular muy grave
+T43	DISEASE 1037 1130	Arteriopatía periférica con estenosis del 70% en ilíaca común izquierda por placa calcificada
+T44	DISEASE 1146 1184	Riñón izquierdo con abundantes quistes
+T45	DISEASE 1623 1689	cardiopatía isquémica en fase dilatada con enfermedad de dos vasos
+T46	DISEASE 1730 1821	ACx ocluida crónica a nivel distal) con disfunción ventricular izquierda residual muy grave
+T48	DISEASE 2466 2483	déficit de hierro
+T49	DISEASE 3075 3097	insuficiencia cardiaca
+T50	DISEASE 3368 3393	trombosis venosa profunda
+T51	DISEASE 3395 3398	TVP
+T52	DISEASE 3584 3633	bloqueo completo de rama izquierda del haz de His
+T53	DISEASE 3635 3641	BCRIHH
+T54	DISEASE 3645 3688	trastornos secundarios de la repolarización
+T55	DISEASE 5445 5452	derrame
+T56	DISEASE 5468 5540	miocardiopatía dilatada con disfunción ventricular izquierda (DVI) grave
+T57	DISEASE 5543 5568	insuficiencia mitral (IM)
+T58	DISEASE 6942 6964	insuficiencia cardiaca
+T59	DISEASE 7281 7287	anemia
+T60	DISEASE 7500 7522	insuficiencia cardiaca
+T61	DISEASE 7653 7692	Insuficiencia cardiaca crónica avanzada
+T62	DISEASE 7694 7726	Disfunción sistólica grave de VI
+T63	DISEASE 7743 7772	cardiopatía isquémica crónica
+T64	DISEASE 7883 7900	Déficit de hierro
+T65	DISEASE 183 198	Hábitos tóxicos
+T66	DISEASE 465 472	IAMCEST
+T67	DISEASE 5394 5403	IP ligera
+T68	DISEASE 4586 4605	congestión pulmonar
+T69	DISEASE 6820 6861	descompensación de insuficiencia cardiaca
+T71	DISEASE 4736 4775	aurícula izquierda ligeramente dilatada
+T72	DISEASE 5039 5079	Ventrículo izquierdo gravemente dilatado
+T73	DISEASE 7230 7247	déficit de hierro
+T24	DISEASE 5565 5567	IM
+T26	DISEASE 6385 6396	EV aisladas
+T140	DISEASE 4912 4932	insuficiencia ligera
+#1	AnnotatorNotes T67	IP insuficiencia pulmonar

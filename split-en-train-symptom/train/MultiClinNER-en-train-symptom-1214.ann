@@ -1,0 +1,54 @@
+T2	SYMPTOM 320 333	cervical pain
+T1	SYMPTOM 426 449	spinal cord involvement
+T28	SYMPTOM 485 503	Peripheral vertigo
+T29	SYMPTOM 640 644	died
+T30	SYMPTOM 927 984	oppressive, retrosternal chest pain of moderate intensity
+T31	SYMPTOM 1064 1081	vegetative cortex
+T3	SYMPTOM 1400 1447	inframillimetric suprathreshold level in DI-AVL
+T4	SYMPTOM 1466 1501	ST-segment sublevel in DIII and AVF
+T32	SYMPTOM 1711 1723	asymptomatic
+T5	SYMPTOM 1761 1773	febrile peak
+T34	SYMPTOM 1880 1929	preserved left ventricular (LV) systolic function
+T6	SYMPTOM 2479 2503	General condition stable
+T35	SYMPTOM 2505 2513	hydrated
+T7	SYMPTOM 2515 2522	eupneic
+T36	SYMPTOM 2530 2551	jugular ingurgitation
+T37	SYMPTOM 2612 2633	rhythmic heart sounds
+T8	SYMPTOM 2635 2648	muffled tones
+T38	SYMPTOM 2657 2664	murmurs
+T9	SYMPTOM 2668 2681	friction rubs
+T39	SYMPTOM 2713 2737	audible vesicular murmur
+T40	SYMPTOM 2756 2784	Lower extremities: no oedema
+T41	SYMPTOM 2830 2835	vigil
+T42	SYMPTOM 2837 2846	conscious
+T43	SYMPTOM 2848 2856	oriented
+T10	SYMPTOM 2858 2874	without focality
+T45	SYMPTOM 2935 2945	chest pain
+T11	SYMPTOM 2999 3032	suprathreshold < 0.5 mm in DI-AVL
+T12	SYMPTOM 3049 3084	ST-segment sublevel in DIII and AVF
+T46	SYMPTOM 3150 3160	chest pain
+T47	SYMPTOM 3179 3189	chest pain
+T48	SYMPTOM 3196 3201	fever
+T49	SYMPTOM 3246 3276	ST elevation of 1mm in DI, aVL
+T50	SYMPTOM 3278 3312	DII with negative T in III and aVF
+T51	SYMPTOM 3389 3399	Narrow QRS
+T15	SYMPTOM 3401 3423	Normal electrical axis
+T14	SYMPTOM 3425 3484	ST elevation of 0.5 mm in I, aVL with inferior rectificatio
+T13	SYMPTOM 3487 3500	Q wave in aVL
+T52	SYMPTOM 3784 3826	Urine toxins: positive for benzodiazepines
+T16	SYMPTOM 3923 3943	liver profile normal
+T17	SYMPTOM 4171 4198	normal cardiothoracic index
+T18	SYMPTOM 4209 4247	lterations of the pulmonary parenchyma
+T53	SYMPTOM 4249 4292	free costophrenic and cardiophrenic sinuses
+T21	SYMPTOM 4329 4424	LV neither dilated nor hypertrophied with preserved global contractility and altered relaxation
+T20	SYMPTOM 4519 4545	Non-dilated right chambers
+T62	SYMPTOM 4789 4804	Right dominance
+T54	SYMPTOM 5138 5162	Normal systolic function
+T55	SYMPTOM 5501 5530	normal biventricular function
+T56	SYMPTOM 5551 5582	segmental contractility defects
+T57	SYMPTOM 5964 5987	haemodynamically stable
+T58	SYMPTOM 6020 6028	afebrile
+T59	SYMPTOM 6435 6456	epigastric discomfort
+T60	SYMPTOM 6489 6501	palpitations
+T61	SYMPTOM 6561 6597	normal residual ventricular function
+T19	SYMPTOM 6629 6703	Preserved left ventricular systolic function without segmental alterations

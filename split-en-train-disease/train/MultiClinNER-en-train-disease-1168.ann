@@ -1,0 +1,44 @@
+T10	DISEASE 89 101	hypertension
+T12	DISEASE 103 116	dyslipidaemia
+T14	DISEASE 161 168	obesity
+T16	DISEASE 200 224	type 2 diabetes mellitus
+T17	DISEASE 357 366	ex-smoker
+T18	DISEASE 429 502	chronic ischaemic heart disease with three-vessel coronary artery disease
+T2	DISEASE 579 598	inferior infarction
+T19	DISEASE 681 733	non-ST-segment elevation acute myocardial infarction
+T3	DISEASE 735 741	NSTEMI
+T53	DISEASE 987 1012	poor distal vascular beds
+T4	DISEASE 1158 1222	restenosis of the stent previously implanted in the proximal Cx.
+T20	DISEASE 1274 1291	exertional angina
+T54	DISEASE 1445 1494	micro- and macrovascular metadiabetic involvement
+T22	DISEASE 1504 1518	polyneuropathy
+T23	DISEASE 1531 1553	chronic kidney disease
+T44	DISEASE 1559 1628	chronic lower limb ischaemia with bilateral femoropopliteal occlusion
+T24	DISEASE 1698 1711	moderate COPD
+T25	DISEASE 1747 1758	severe SAHS
+T26	DISEASE 1998 2011	diabetic foot
+T51	DISEASE 2101 2112	rest angina
+T55	DISEASE 2416 2524	lower limbs and the left 1st and 2nd fingers had established erythrocyanosis, together with necrotic lesions
+T30	DISEASE 2650 2664	1st degree BAV
+T52	DISEASE 2682 2686	HBAI
+T7	DISEASE 3348 3370	valvular heart disease
+T31	DISEASE 3447 3467	pericardial effusion
+T32	DISEASE 3552 3587	Multivessel coronary artery disease
+T8	DISEASE 3593 3609	poor distal beds
+T27	DISEASE 3720 3733	diabetic foot
+T33	DISEASE 4206 4228	mild exertional angina
+T37	DISEASE 4553 4559	angina
+T41	DISEASE 4564 4600	diabetic foot with chronic ischaemia
+T38	DISEASE 4770 4776	angina
+T28	DISEASE 4875 4985	Chronic ischaemic heart disease with mixed percutaneous and surgical revascularisation of three-vessel disease
+T42	DISEASE 4987 5018	Diffuse tertiary vessel disease
+T43	DISEASE 5020 5037	Refractory angina
+T45	DISEASE 5039 5067	Chronic lower limb ischaemia
+T29	DISEASE 5069 5082	Diabetic foot
+T47	DISEASE 5107 5111	COPD
+T49	DISEASE 5138 5142	SAHS
+T35	DISEASE 5154 5187	Type 2 insulin-dependent diabetes
+T11	DISEASE 5189 5201	HYPERTENSION
+T13	DISEASE 5203 5216	Dyslipidaemia
+T15	DISEASE 5218 5225	Obesity
+T50	DISEASE 5261 5274	stable angina

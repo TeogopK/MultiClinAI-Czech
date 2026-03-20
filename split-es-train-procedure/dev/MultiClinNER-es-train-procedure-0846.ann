@@ -1,0 +1,33 @@
+T62	PROCEDURE 185 207	parto vaginal eutócico
+T63	PROCEDURE 334 339	parto
+T64	PROCEDURE 677 695	exploración física
+T65	PROCEDURE 788 809	Auscultación cardiaca
+T66	PROCEDURE 856 877	Auscultación pulmonar
+T67	PROCEDURE 1031 1049	Electrocardiograma
+T68	PROCEDURE 1051 1054	ECG
+T69	PROCEDURE 1660 1680	Radiografía de tórax
+T70	PROCEDURE 1751 1779	Ecocardiograma transtorácico
+T71	PROCEDURE 1781 1784	ETT
+T72	PROCEDURE 2370 2414	Resonancia magnética nuclear (RMN ) cardiaca
+T73	PROCEDURE 2695 2717	inyección de contraste
+T74	PROCEDURE 3112 3140	Ecocardiograma transtorácico
+T75	PROCEDURE 3749 3791	ecocardiograma transtorácico a pie de cama
+T76	PROCEDURE 4099 4121	tratamiento inotrópico
+T77	PROCEDURE 4147 4157	diuréticos
+T78	PROCEDURE 4444 4467	perfusión de dobutamina
+T79	PROCEDURE 4480 4505	tratamiento neurohormonal
+T80	PROCEDURE 4659 4688	resonancia magnética cardiaca
+T81	PROCEDURE 4903 4958	implantación de un desfibrilador automático implantable
+T82	PROCEDURE 5205 5221	estudio genético
+T83	PROCEDURE 5436 5462	Implante de DAI subcutáneo
+T84	PROCEDURE 5516 5532	Estudio genético
+T89	PROCEDURE 1157 1176	Analítica de sangre
+T90	PROCEDURE 1276 1286	Bioquímica
+T91	PROCEDURE 1607 1618	Coagulación
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 1178 1197	Gasometría arterial
+T94	PROCEDURE 1512 1524	Hematimetría
+T95	PROCEDURE 3015 3024	Serología
+T96	PROCEDURE 4391 4421	soporte inotrópico y diurético
+T36	PROCEDURE 2961 3003	PCR adenovirus, enterovirus y herpes virus
+T100	PROCEDURE 4960 4963	DAI

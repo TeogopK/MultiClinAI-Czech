@@ -1,0 +1,41 @@
+T28	SYMPTOM 288 295	long QT
+T1	SYMPTOM 587 599	palpitations
+T3	SYMPTOM 871 883	sinus rhythm
+T38	SYMPTOM 1196 1217	ST-segment depression
+T4	SYMPTOM 1950 1971	loss of consciousness
+T5	SYMPTOM 2038 2045	snoring
+T6	SYMPTOM 2047 2062	ocular eversion
+T7	SYMPTOM 2067 2078	tonic spasm
+T8	SYMPTOM 2174 2193	precordial pressure
+T9	SYMPTOM 2378 2397	precordial pressure
+T2	SYMPTOM 2424 2436	palpitations
+T10	SYMPTOM 2516 2545	dyspnoea on moderate exertion
+T11	SYMPTOM 2626 2648	Good general condition
+T12	SYMPTOM 2650 2659	Conscious
+T13	SYMPTOM 2664 2672	oriented
+T29	SYMPTOM 2674 2681	eupneic
+T14	SYMPTOM 2683 2696	well perfused
+T15	SYMPTOM 2698 2728	Cardiac auscultation: rhythmic
+T39	SYMPTOM 2733 2748	murmurs at rest
+T16	SYMPTOM 2802 2828	preserved vesicular murmur
+T40	SYMPTOM 2837 2849	added sounds
+T17	SYMPTOM 2851 2873	Lower limbs: no oedema
+T18	SYMPTOM 2908 2938	pulses present and symmetrical
+T19	SYMPTOM 3004 3013	normal PR
+T20	SYMPTOM 3015 3025	narrow QRS
+T34	SYMPTOM 3031 3042	normal axis
+T26	SYMPTOM 3044 3059	biphasic T wave
+T22	SYMPTOM 3544 3573	left ventricle of normal size
+T41	SYMPTOM 3651 3687	acceleration in the LV outflow tract
+T23	SYMPTOM 3784 3818	Preserved global systolic function
+T42	SYMPTOM 3827 3865	segmental alterations of contractility
+T24	SYMPTOM 3979 3993	Preserved RVEF
+T36	SYMPTOM 4065 4068	SAM
+T43	SYMPTOM 4379 4409	Inferior vena cava not dilated
+T33	SYMPTOM 4446 4472	Aortic root of normal size
+T25	SYMPTOM 4537 4560	non-dilated aortic arch
+T44	SYMPTOM 4729 4763	cardiothoracic index within normal
+T45	SYMPTOM 4765 4800	lung parenchyma without alterations
+T27	SYMPTOM 4917 4944	narrow QRS with normal axis
+T21	SYMPTOM 4946 4984	biphasic T wave in III, aVF, V4 and V5
+T37	SYMPTOM 6151 6177	rapid ventricular response

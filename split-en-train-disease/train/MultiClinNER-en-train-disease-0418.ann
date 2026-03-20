@@ -1,0 +1,23 @@
+T18	DISEASE 48 60	hypertension
+T1	DISEASE 62 82	hypercholesterolemia
+T2	DISEASE 84 95	dysglycosis
+T3	DISEASE 97 104	obesity
+T4	DISEASE 106 129	acute coronary syndrome
+T25	DISEASE 146 164	single left kidney
+T5	DISEASE 186 272	stage 3 chronic kidney disease (K/DOQUI Guidelines) secondary to ischaemic nephropathy
+T6	DISEASE 251 272	ischaemic nephropathy
+T29	DISEASE 329 371	critical stenosis of the left renal artery
+T19	DISEASE 389 401	hypertension
+T20	DISEASE 1018 1029	hypotension
+T7	DISEASE 1235 1258	ischaemic heart disease
+T8	DISEASE 1295 1311	stent thrombosis
+T9	DISEASE 1383 1406	renal artery thrombosis
+T36	DISEASE 1456 1478	migration of the stent
+T38	DISEASE 2020 2039	respiratory failure
+T10	DISEASE 2138 2163	retroperitoneal haematoma
+T17	DISEASE 2251 2269	distributive shock
+T11	DISEASE 2302 2341	systemic inflammatory response syndrome
+T12	DISEASE 2346 2366	anuric renal failure
+T13	DISEASE 2394 2460	multi-organ failure secondary to complications of vascular surgery
+T14	DISEASE 2464 2479	renal ischaemia
+T16	DISEASE 2558 2563	shock

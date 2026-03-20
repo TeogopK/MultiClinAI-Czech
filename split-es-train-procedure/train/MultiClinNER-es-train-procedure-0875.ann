@@ -1,0 +1,38 @@
+T41	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDURE 880 898	electrocardiograma
+T43	PROCEDURE 1087 1105	Exploración física
+T44	PROCEDURE 1269 1289	oxígeno a bajo flujo
+T45	PROCEDURE 1399 1412	gafas nasales
+T46	PROCEDURE 1447 1468	auscultación cardiaca
+T47	PROCEDURE 1511 1532	auscultación pulmonar
+T48	PROCEDURE 1669 1687	Electrocardiograma
+T49	PROCEDURE 1689 1692	ECG
+T50	PROCEDURE 1809 1828	Analítica de sangre
+T51	PROCEDURE 2084 2099	Coronariografía
+T53	PROCEDURE 2666 2856	intervencionismo coronario percutáneo mediante implante de stents farmacoactivos a nivel de TC distal dirigido hacia DA y posteriormente a nivel de TC distal hacia Cx-primera marginal obtusa
+T55	PROCEDURE 2858 2872	Ecocardiograma
+T56	PROCEDURE 3187 3206	Analítica de sangre
+T57	PROCEDURE 3418 3432	Ecocardiograma
+T58	PROCEDURE 3460 3483	rehabilitación cardiaca
+T59	PROCEDURE 3695 3714	Analítica de sangre
+T60	PROCEDURE 3856 3883	intervencionismo percutáneo
+T61	PROCEDURE 4061 4108	drogas vasoactivas (dobutamina y noradrenalina)
+T62	PROCEDURE 4173 4205	ventilación mecánica no invasiva
+T63	PROCEDURE 4270 4294	balón de contrapulsación
+T64	PROCEDURE 4296 4301	BCIAo
+T65	PROCEDURE 4409 4438	destete de drogas vasoactivas
+T66	PROCEDURE 4444 4462	retirada del BCIAo
+T67	PROCEDURE 4678 4699	diurético intravenoso
+T68	PROCEDURE 4905 4919	ecocardiograma
+T69	PROCEDURE 5033 5087	tratamiento diurético oral con furosemida y eplerenona
+T70	PROCEDURE 5247 5270	rehabilitación cardiaca
+T72	PROCEDURE 6059 6110	inhibidor de neprilisina y receptor de angiotensina
+T73	PROCEDURE 6159 6193	carboximaltosa férrica intravenosa
+T74	PROCEDURE 6235 6249	perfil férrico
+T81	PROCEDURE 1970 1980	Bioquímica
+T26	PROCEDURE 5114 5128	betabloqueante
+T29	PROCEDURE 5655 5671	ergoespirometría
+T109	PROCEDURE 1291 1309	Constantes vitales
+T155	PROCEDURE 4814 4839	tratamiento neurohormonal
+T71	PROCEDURE 1060 1084	se activa código infarto
+T106	PROCEDURE 6112 6116	ARNI

@@ -1,0 +1,63 @@
+T1	SYMPTOM 64 69	fever
+T44	SYMPTOM 740 836	severe retrosternal chest pain with oppressive characteristics, radiating to the left upper limb
+T45	SYMPTOM 864 883	vegetative cramping
+T6	SYMPTOM 949 961	sinus rhythm
+T28	SYMPTOM 967 1005	ST-segment elevation in DI, AVL, V2-V3
+T8	SYMPTOM 1010 1052	ST-segment depression in DII, DIII and AVF
+T9	SYMPTOM 1502 1525	haemodynamically stable
+T10	SYMPTOM 1688 1700	asymptomatic
+T46	SYMPTOM 1709 1740	adequate level of consciousness
+T12	SYMPTOM 1742 1750	oriented
+T47	SYMPTOM 1755 1766	cooperative
+T13	SYMPTOM 1802 1810	afebrile
+T14	SYMPTOM 1812 1819	eupneic
+T15	SYMPTOM 1874 1895	rhythmic heart sounds
+T16	SYMPTOM 1904 1911	murmurs
+T17	SYMPTOM 1915 1935	pericardial friction
+T18	SYMPTOM 1937 1973	vesicular murmur present bilaterally
+T48	SYMPTOM 1987 2013	crackles in the lung bases
+T19	SYMPTOM 2015 2042	soft abdomen, not distended
+T49	SYMPTOM 2044 2070	hydroaerial sounds present
+T50	SYMPTOM 2075 2092	peripheral oedema
+T20	SYMPTOM 2097 2117	neurological deficit
+T51	SYMPTOM 2173 2243	chest pain that increased with deep inspiration and changes in posture
+T21	SYMPTOM 2294 2306	palpitations
+T52	SYMPTOM 2414 2427	febrile peaks
+T53	SYMPTOM 2447 2511	infectious symptoms at respiratory, urinary and abdominal levels
+T54	SYMPTOM 2536 2599	serial blood and urine cultures, which were repeatedly negative
+T55	SYMPTOM 2641 2655	non-dilated LV
+T29	SYMPTOM 2661 2705	akinesia in anteroseptal and apical segments
+T22	SYMPTOM 2968 2980	leukocytosis
+T23	SYMPTOM 2982 2994	neutrophilia
+T56	SYMPTOM 2996 3016	ESR and elevated CRP
+T7	SYMPTOM 3048 3060	Sinus rhythm
+T57	SYMPTOM 3088 3100	ST elevation
+T58	SYMPTOM 3147 3159	sharp T wave
+T32	SYMPTOM 3582 3607	microbiological isolation
+T33	SYMPTOM 3629 3654	microbiological isolation
+T39	SYMPTOM 3694 3712	congestive pattern
+T24	SYMPTOM 3717 3739	pneumonic condensation
+T60	SYMPTOM 3978 4034	partial collapse of the RV in end-diastole in expiration
+T61	SYMPTOM 4039 4146	>25% reduction of the mitral E wave in inspiration and >50% reduction of the tricuspid E wave in expiration
+T59	SYMPTOM 4219 4233	LA not dilated
+T25	SYMPTOM 4235 4254	Normal mitral valve
+T26	SYMPTOM 4256 4275	Normal aortic valve
+T62	SYMPTOM 4277 4291	Non-dilated LV
+T40	SYMPTOM 4327 4358	Inferolateral wall normokinesia
+T35	SYMPTOM 4360 4386	apical and septal akinesia
+T36	SYMPTOM 4391 4402	hypokinesia
+T30	SYMPTOM 4424 4446	Normal right ventricle
+T31	SYMPTOM 4448 4485	Tricuspid valve without insufficiency
+T37	SYMPTOM 4514 4558	TCI without significant angiographic lesions
+T41	SYMPTOM 4779 4830	Bifurcated lesion with distal beds of small calibre
+T42	SYMPTOM 4887 4990	Distal beds of good calibre and development, not diseased, visualised through the right coronary artery
+T63	SYMPTOM 4992 5074	Dominant RCA: vessel of good calibre and development, with parietal irregularities
+T38	SYMPTOM 5084 5116	significant angiographic lesions
+T43	SYMPTOM 5296 5314	Good distal vessel
+T2	SYMPTOM 5420 5425	fever
+T3	SYMPTOM 5893 5898	fever
+T34	SYMPTOM 6000 6058	absence of microbiological isolation in the blood cultures
+T4	SYMPTOM 6206 6211	fever
+T5	SYMPTOM 6592 6597	fever
+T11	SYMPTOM 6826 6838	asymptomatic
+T27	SYMPTOM 7050 7073	Severely depressed LVEF

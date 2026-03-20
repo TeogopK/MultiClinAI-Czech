@@ -1,0 +1,31 @@
+T22	DISEASE 93 107	drug allergies
+T1	DISEASE 202 232	familial hypercholesterolaemia
+T23	DISEASE 311 323	toxic habits
+T24	DISEASE 353 363	overweight
+T2	DISEASE 414 437	ischaemic heart disease
+T3	DISEASE 1918 1965	Acute complete occlusion of distal common trunk
+T35	DISEASE 1972 2026	Left anterior descending artery (LAD): occluded vessel
+T4	DISEASE 2255 2275	severe ostial lesion
+T5	DISEASE 2277 2329	Left circumflex artery (CX) proximal occluded vessel
+T6	DISEASE 2365 2466	Right coronary artery (CD): dominant vessel, large calibre, ectatic and with moderate diffuse disease
+T7	DISEASE 2702 2724	dilated left ventricle
+T26	DISEASE 2748 2775	severe systolic dysfunction
+T27	DISEASE 2880 2900	aortic insufficiency
+T8	DISEASE 2902 2905	AIo
+T9	DISEASE 2908 2937	Moderate mitral insufficiency
+T10	DISEASE 2939 2941	MI
+T11	DISEASE 3313 3323	Dilated LV
+T12	DISEASE 3474 3477	AoI
+T28	DISEASE 3479 3490	Moderate MI
+T29	DISEASE 3758 3778	arterial hypotension
+T21	DISEASE 3784 3809	poor peripheral perfusion
+T30	DISEASE 3915 3934	respiratory failure
+T31	DISEASE 5020 5042	advanced heart failure
+T32	DISEASE 6249 6297	Acute ST-segment elevation myocardial infarction
+T13	DISEASE 6299 6304	STEMI
+T14	DISEASE 6333 6406	Coronary artery disease of the common coronary trunk: distal CT occlusion
+T15	DISEASE 6407 6439	Ischaemic dilated cardiomyopathy
+T16	DISEASE 6441 6444	DCM
+T17	DISEASE 6491 6515	Impaired basal glycaemia
+T34	DISEASE 6516 6539	Iron deficiency anaemia
+T18	DISEASE 6541 6571	Familial hypercholesterolaemia

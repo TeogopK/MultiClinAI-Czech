@@ -1,0 +1,53 @@
+T1	SYMPTOM 1411 1432	loss of consciousness
+T39	SYMPTOM 1588 1633	feeling of dizziness of the unsteadiness type
+T2	SYMPTOM 1647 1655	tinnitus
+T3	SYMPTOM 1676 1693	vegetative cortex
+T4	SYMPTOM 1698 1710	palpitations
+T5	SYMPTOM 1746 1756	chest pain
+T40	SYMPTOM 1761 1795	infectious clinical manifestations
+T6	SYMPTOM 2124 2136	sinus rhythm
+T41	SYMPTOM 2297 2319	phenomenon of R over T
+T42	SYMPTOM 2352 2372	presyncopal symptoms
+T7	SYMPTOM 2584 2596	sinus rhythm
+T10	SYMPTOM 2858 2880	Good general condition
+T11	SYMPTOM 2882 2891	Conscious
+T13	SYMPTOM 2896 2904	oriented
+T15	SYMPTOM 2940 2977	Cardiopulmonary auscultation: regular
+T16	SYMPTOM 2990 2997	murmurs
+T17	SYMPTOM 3049 3078	Abdomen: soft and depressible
+T18	SYMPTOM 3092 3098	masses
+T25	SYMPTOM 3102 3114	organomegaly
+T19	SYMPTOM 3120 3140	painful on palpation
+T48	SYMPTOM 3145 3175	signs of peritoneal irritation
+T20	SYMPTOM 3177 3199	Lower limbs: no oedema
+T12	SYMPTOM 3255 3264	conscious
+T14	SYMPTOM 3269 3277	oriented
+T49	SYMPTOM 3291 3308	Mild bradypsychia
+T50	SYMPTOM 3310 3346	Language correct in form and content
+T21	SYMPTOM 3348 3382	Cranial nerves without alterations
+T22	SYMPTOM 3384 3404	Normal eye movements
+T47	SYMPTOM 3406 3437	Pupils isochoric, normoreactive
+T46	SYMPTOM 3439 3498	Strength and sensitivity of limbs preserved and symmetrical
+T8	SYMPTOM 3568 3580	sinus rhythm
+T51	SYMPTOM 3705 3743	asymmetrical negative T waves in V3-V6
+T52	SYMPTOM 3745 3784	flattened T waves in I, II, III and aVL
+T9	SYMPTOM 3937 3949	sinus rhythm
+T45	SYMPTOM 4035 4078	asymmetrical negative T waves in V1 and III
+T53	SYMPTOM 5151 5209	Increased left ventricular volumes with global hypokinesia
+T23	SYMPTOM 5246 5291	severe depression of global systolic function
+T24	SYMPTOM 5372 5404	increased end-diastolic pressure
+T44	SYMPTOM 5437 5522	Right ventricle with normal diameters and mild depression of global systolic function
+T43	SYMPTOM 5575 5611	Inferior vena cava (IVC) not dilated
+T34	SYMPTOM 5748 5793	Increased bilateral perihilar alveolar raster
+T26	SYMPTOM 5830 5836	oedema
+T31	SYMPTOM 5898 5923	Free costophrenic sinuses
+T27	SYMPTOM 6039 6083	epicardial coronary arteries without lesions
+T28	SYMPTOM 6154 6166	asymptomatic
+T32	SYMPTOM 6197 6218	prolonged QT interval
+T29	SYMPTOM 6518 6530	hypokalaemia
+T30	SYMPTOM 6532 6547	hypomagnesaemia
+T36	SYMPTOM 7291 7326	clinical and haemodynamic stability
+T38	SYMPTOM 7349 7380	electrocardiographic alteration
+T37	SYMPTOM 7563 7575	reduced LVEF
+T33	SYMPTOM 8272 8304	QT interval within normal limits
+T35	SYMPTOM 8830 8863	Coronary arteries without lesions

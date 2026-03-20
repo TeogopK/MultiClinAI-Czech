@@ -1,0 +1,51 @@
+T36	SYMPTOM 994 1032	progressive dyspnoea to minimal effort
+T37	SYMPTOM 1055 1103	progressive deterioration of exertional capacity
+T1	SYMPTOM 1204 1214	orthopnoea
+T2	SYMPTOM 1230 1259	paroxysmal nocturnal dyspnoea
+T3	SYMPTOM 1264 1275	haemoptysis
+T4	SYMPTOM 1277 1292	chest tightness
+T5	SYMPTOM 1331 1339	wheezing
+T38	SYMPTOM 1344 1363	infectious symptoms
+T39	SYMPTOM 1344 1363	infectious symptoms
+T6	SYMPTOM 1391 1399	bleeding
+T8	SYMPTOM 1470 1493	Haemodynamically stable
+T10	SYMPTOM 1498 1513	eupneic at rest
+T27	SYMPTOM 1515 1535	tolerating decubitus
+T11	SYMPTOM 1537 1558	Jugular ingurgitation
+T12	SYMPTOM 1582 1611	positive hepatojugular reflux
+T13	SYMPTOM 1613 1643	Cardiac auscultation: rhythmic
+T14	SYMPTOM 1651 1670	holosystolic murmur
+T28	SYMPTOM 1702 1721	reinforcement of S2
+T15	SYMPTOM 1726 1745	third audible noise
+T16	SYMPTOM 1771 1797	preserved vesicular murmur
+T17	SYMPTOM 1906 1928	Lower limbs: no oedema
+T18	SYMPTOM 2024 2033	normal PR
+T29	SYMPTOM 2035 2043	wide QRS
+T41	SYMPTOM 2108 2147	right ventricular (RV) overload pattern
+T40	SYMPTOM 2149 2164	negative T wave
+T30	SYMPTOM 2546 2559	ANCA negative
+T42	SYMPTOM 2561 2598	Native anti-DNA 2.30 IU/mL (negative)
+T43	SYMPTOM 2600 2662	Antibodies associated with connective tissue diseases negative
+T44	SYMPTOM 2664 2700	HIV, HCV and HBV serologies negative
+T31	SYMPTOM 2702 2733	CMV: IgG positive, IgM negative
+T46	SYMPTOM 3183 3211	prominent pulmonary hilarity
+T45	SYMPTOM 3245 3256	infiltrates
+T19	SYMPTOM 3288 3314	non-dilated left ventricle
+T24	SYMPTOM 3344 3375	Marked flattening of the septum
+T20	SYMPTOM 3377 3408	Normal global systolic function
+T47	SYMPTOM 3476 3512	alterations in segmental contraction
+T48	SYMPTOM 3514 3564	Transmitral filling pattern of impaired relaxation
+T21	SYMPTOM 3566 3589	Non-dilated left atrium
+T25	SYMPTOM 3705 3748	severely depressed global systolic function
+T32	SYMPTOM 3750 3814	Mitral valve with calcium in the annulus and functionally normal
+T49	SYMPTOM 3891 3914	Aortic root not dilated
+T50	SYMPTOM 3916 3952	Proximal ascending aorta not dilated
+T22	SYMPTOM 3954 3992	Tricuspid valve morphologically normal
+T26	SYMPTOM 4131 4160	Pulmonary flow systolic notch
+T51	SYMPTOM 4211 4241	Inferior vena cava not dilated
+T23	SYMPTOM 4830 4865	fluid in upper pericardial recesses
+T33	SYMPTOM 5013 5060	Increased calibre of central pulmonary arteries
+T52	SYMPTOM 5115 5197	repletion defects were observed in the main, lobar or segmental pulmonary arteries
+T34	SYMPTOM 5257 5316	slight asymmetry in the vascularisation of both upper lobes
+T9	SYMPTOM 7059 7082	haemodynamically stable
+T35	SYMPTOM 7097 7113	right congestion

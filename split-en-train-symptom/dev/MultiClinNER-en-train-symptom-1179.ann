@@ -1,0 +1,28 @@
+T1	SYMPTOM 523 557	cough with yellowish expectoration
+T2	SYMPTOM 562 584	a feeling of dystrophy
+T21	SYMPTOM 626 648	medium-effort dyspnoea
+T3	SYMPTOM 867 876	Conscious
+T22	SYMPTOM 881 906	oriented in all 3 spheres
+T4	SYMPTOM 908 930	Good general condition
+T5	SYMPTOM 932 967	Good hydration and perfusion status
+T6	SYMPTOM 969 984	Eupneic at rest
+T7	SYMPTOM 1004 1006	IY
+T8	SYMPTOM 1030 1038	rhythmic
+T23	SYMPTOM 1054 1079	mitral focus opening snap
+T9	SYMPTOM 1084 1100	diastolic rumble
+T10	SYMPTOM 1126 1152	preserved vesicular murmur
+T11	SYMPTOM 1154 1206	Abdomen: soft, depressible, not painful on palpation
+T12	SYMPTOM 1211 1217	masses
+T24	SYMPTOM 1221 1230	megaliths
+T13	SYMPTOM 1244 1265	peritoneal irritation
+T14	SYMPTOM 1267 1295	Lower extremities: No oedema
+T19	SYMPTOM 1344 1356	sinus rhythm
+T15	SYMPTOM 1455 1464	Normal PR
+T16	SYMPTOM 1466 1476	Narrow QRS
+T25	SYMPTOM 1498 1530	acute repolarisation alterations
+T17	SYMPTOM 1565 1600	normal cardiomediastinal silhouette
+T20	SYMPTOM 1602 1636	Pattern of vascular redistribution
+T26	SYMPTOM 1638 1654	Fluid in cystole
+T27	SYMPTOM 1978 2049	left ventricle (LV) not dilated or hypertrophic with preserved function
+T18	SYMPTOM 2051 2092	Diastolic pattern of elongated relaxation
+T28	SYMPTOM 2925 2950	Normal pulmonary pressure

@@ -1,0 +1,41 @@
+T89	PROCEDURE 890 908	electrocardiograma
+T90	PROCEDURE 1321 1348	Auscultación cardiopulmonar
+T91	PROCEDURE 1851 1869	electrocardiograma
+T92	PROCEDURE 1957 1971	ecocardiograma
+T93	PROCEDURE 2133 2201	estudio electrofisiológico en el que tras perfusión de isoproterenol
+T94	PROCEDURE 2532 2540	ablación
+T95	PROCEDURE 2553 2584	tratamiento con betabloqueantes
+T96	PROCEDURE 2611 2614	ECG
+T97	PROCEDURE 2943 2946	ECG
+T98	PROCEDURE 3452 3472	Radiografía de tórax
+T99	PROCEDURE 3531 3546	Ecocardiografía
+T100	PROCEDURE 4327 4356	Resonancia magnética cardiaca
+T101	PROCEDURE 4588 4615	Coronariografía: vía radial
+T102	PROCEDURE 4660 4676	ventriculografía
+T103	PROCEDURE 4785 4811	Estudio electrofisiológico
+T104	PROCEDURE 5460 5472	Hemocultivos
+T105	PROCEDURE 5475 5486	urocultivos
+T106	PROCEDURE 5649 5664	estudio de TVMS
+T107	PROCEDURE 5950 5962	RNM cardiaca
+T108	PROCEDURE 5975 5990	coronariografía
+T109	PROCEDURE 6067 6082	ecocardiografía
+T110	PROCEDURE 6257 6289	serología para Trypanosoma cruzi
+T111	PROCEDURE 6616 6648	tránsito esófago-gastro-duodenal
+T112	PROCEDURE 6703 6729	estudio electrofisiológico
+T113	PROCEDURE 6753 6769	ablación de TVMS
+T114	PROCEDURE 6891 6962	aplicaciones de radiofrecuencia en zona anterolateral del anillo mitral
+T115	PROCEDURE 7057 7098	implante de desfibrilador autoimplantable
+T122	PROCEDURE 3432 3443	Coagulación
+T123	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T124	PROCEDURE 6477 6480	PCR
+T125	PROCEDURE 5499 5508	Serología
+T126	PROCEDURE 5535 5544	Serología
+T127	PROCEDURE 1654 1668	monitorización
+T128	PROCEDURE 6465 6474	serología
+T129	PROCEDURE 7404 7431	Implante de DAI monocameral
+T142	PROCEDURE 3114 3123	Analítica
+T150	PROCEDURE 173 199	Intervenciones quirúrgicas
+T162	PROCEDURE 1172 1183	exploración
+T22	PROCEDURE 201 227	prótesis mamaria bilateral
+T63	PROCEDURE 5005 5031	perfusión de isoproterenol
+T78	PROCEDURE 6844 6875	dosis elevadas de isoproterenol

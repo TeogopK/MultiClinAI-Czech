@@ -1,0 +1,65 @@
+T78	DISEASE 26 35	allergies
+T39	DISEASE 65 84	depressive syndrome
+T40	DISEASE 138 146	migraine
+T41	DISEASE 148 154	asthma
+T42	DISEASE 768 774	asthma
+T43	DISEASE 1591 1603	hepatomegaly
+T69	DISEASE 1822 1828	BIRDHH
+T1	DISEASE 2959 3016	growth mainly of the left atrium (LA) and right ventricle
+T91	DISEASE 3211 3244	moderately dilated left ventricle
+T92	DISEASE 3289 3309	systolic dysfunction
+T77	DISEASE 3694 3726	Slightly dilated right ventricle
+T2	DISEASE 3865 3950	Moderate-severe dilatation of the LA and mild-moderate dilatation of the right atrium
+T29	DISEASE 4236 4303	Slightly eccentric tricuspid insufficiency, of mild-moderate degree
+T3	DISEASE 4683 4703	mitral regurgitation
+T4	DISEASE 4705 4707	MR
+T5	DISEASE 4803 4856	laminar thrombus is observed along the entire LV apex
+T93	DISEASE 5012 5071	right ventricle is of normal size with moderate dysfunction
+T97	DISEASE 5088 5106	global hypokinesia
+T7	DISEASE 5198 5250	Tricuspid insufficiency (TI), which appears moderate
+T6	DISEASE 5223 5225	TI
+T70	DISEASE 5323 5345	Biauricular dilatation
+T79	DISEASE 5420 5462	bilateral pleural and pericardial effusion
+T46	DISEASE 5464 5481	Mild hepatomegaly
+T94	DISEASE 5483 5519	Dilatation of the inferior vena cava
+T8	DISEASE 5527 5559	Cystic image in the right breast
+T84	DISEASE 6455 6483	laminar thrombus in the apex
+T9	DISEASE 6485 6546	RV neither dilated nor hypertrophic with moderate dysfunction
+T71	DISEASE 6548 6570	Biauricular dilatation
+T10	DISEASE 6572 6599	MR and TR at least moderate
+T47	DISEASE 6622 6648	restrictive cardiomyopathy
+T50	DISEASE 6682 6705	endomyocardial fibrosis
+T51	DISEASE 6785 6808	endomyocardial fibrosis
+T55	DISEASE 6830 6882	extensive fibrosis and severe endocardial thickening
+T88	DISEASE 6918 6926	thrombus
+T56	DISEASE 7269 7294	hepatic venous congestion
+T76	DISEASE 7458 7466	Syphilis
+T82	DISEASE 7506 7513	rubella
+T11	DISEASE 7560 7569	varicella
+T83	DISEASE 7765 7772	measles
+T81	DISEASE 7787 7792	mumps
+T57	DISEASE 7882 7895	heart failure
+T60	DISEASE 7999 8064	restrictive cardiomyopathy with mild left ventricular dysfunction
+T72	DISEASE 8069 8122	moderate-severe MI with severe pulmonary hypertension
+T62	DISEASE 8100 8122	pulmonary hypertension
+T58	DISEASE 8138 8151	heart failure
+T80	DISEASE 8239 8250	hypotension
+T95	DISEASE 8287 8305	low cardiac output
+T12	DISEASE 8693 8732	bacteraemia due to Enterobacter cloacae
+T52	DISEASE 8974 8997	endomyocardial fibrosis
+T85	DISEASE 9020 9048	laminar thrombus in the apex
+T53	DISEASE 9078 9101	endomyocardial fibrosis
+T63	DISEASE 9231 9253	pulmonary hypertension
+T96	DISEASE 9313 9331	low cardiac output
+T65	DISEASE 9360 9377	cardiogenic shock
+T59	DISEASE 9484 9497	heart failure
+T49	DISEASE 9498 9524	Restrictive cardiomyopathy
+T54	DISEASE 9526 9549	endomyocardial fibrosis
+T13	DISEASE 9551 9587	Moderate-severe mitral insufficiency
+T15	DISEASE 9594 9626	Moderate tricuspid regurgitation
+T14	DISEASE 9628 9630	TR
+T67	DISEASE 9633 9670	Severe pulmonary hypertension group 2
+T68	DISEASE 9672 9688	LV apex thrombus
+T66	DISEASE 9690 9707	Cardiogenic shock
+T16	DISEASE 9712 9773	septic shock associated with Enterobacter cloacae bacteraemia
+T17	DISEASE 9775 9825	Adaptive syndrome with anxious-depressive symptoms

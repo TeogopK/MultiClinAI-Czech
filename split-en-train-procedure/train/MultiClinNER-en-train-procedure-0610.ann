@@ -1,0 +1,37 @@
+T11	PROCEDURE 40 57	caesarean section
+T16	PROCEDURE 240 251	chest X-ray
+T19	PROCEDURE 263 278	mediastinoscopy
+T20	PROCEDURE 283 289	biopsy
+T1	PROCEDURE 445 498	Chemotherapy was started according to the ABVD scheme
+T22	PROCEDURE 487 491	ABVD
+T32	PROCEDURE 536 567	radiotherapy on the mediastinum
+T2	PROCEDURE 849 873	chemotherapy with ESCHAP
+T3	PROCEDURE 915 927	chemotherapy
+T35	PROCEDURE 1067 1080	oral morphine
+T18	PROCEDURE 1173 1182	analgesia
+T4	PROCEDURE 1273 1285	chemotherapy
+T23	PROCEDURE 1317 1330	ESCHAP scheme
+T28	PROCEDURE 1371 1462	vascular portal placement was proposed, which was approached via the right subclavian route
+T29	PROCEDURE 1511 1536	PCA with an external pump
+T5	PROCEDURE 1558 1570	chemotherapy
+T24	PROCEDURE 1608 1618	Monitoring
+T30	PROCEDURE 1632 1658	continuous EKG in DII lead
+T12	PROCEDURE 1660 1674	pulse oximetry
+T14	PROCEDURE 1679 1721	blood pressure measurement by oscillometry
+T15	PROCEDURE 1776 1793	local anaesthesia
+T45	PROCEDURE 1798 1869	sedation with 2 mg intravenous midazolam, using the Seldinger technique
+T26	PROCEDURE 1871 2030	The right subclavian vein was approached below the junction between the distal third and the midclavicular third with satisfactory progression of the guidewire
+T27	PROCEDURE 2046 2062	blood aspiration
+T48	PROCEDURE 2064 2107	Antero-posterior (A-P) radiological control
+T6	PROCEDURE 2153 2165	Chemotherapy
+T7	PROCEDURE 2217 2229	chemotherapy
+T52	PROCEDURE 2375 2386	examination
+T17	PROCEDURE 2388 2399	Chest X-ray
+T13	PROCEDURE 2592 2611	diagnostic puncture
+T9	PROCEDURE 2707 2719	chemotherapy
+T25	PROCEDURE 2740 2759	radiological series
+T62	PROCEDURE 3001 3030	place an endopleural drainage
+T63	PROCEDURE 3037 3081	evacuating thoracentesis by thoracic surgery
+T65	PROCEDURE 3187 3212	pleural drain was removed
+T8	PROCEDURE 3217 3288	a new central venous access was placed via the left subclavian approach
+T21	PROCEDURE 3322 3344	chemotherapy treatment

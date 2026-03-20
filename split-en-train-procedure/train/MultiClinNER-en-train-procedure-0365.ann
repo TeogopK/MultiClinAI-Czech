@@ -1,0 +1,18 @@
+T11	PROCEDURE 314 357	resection of a tubular adenoma of the colon
+T1	PROCEDURE 387 402	cholecystectomy
+T13	PROCEDURE 495 532	subtotal resection of the gallbladder
+T14	PROCEDURE 656 666	dicoumarin
+T15	PROCEDURE 816 827	examination
+T2	PROCEDURE 938 958	Cardiac auscultation
+T3	PROCEDURE 996 1018	Pulmonary auscultation
+T20	PROCEDURE 1068 1102	palpation in the right hemiabdomen
+T21	PROCEDURE 1205 1221	Laboratory tests
+T22	PROCEDURE 1461 1566	treatment was started with fluid therapy, dopamine and empirical antibiotics with piperacillin/tazobactam
+T24	PROCEDURE 1634 1656	CT scan of the abdomen
+T26	PROCEDURE 1749 1797	Transthoracic and transesophageal echocardiogram
+T4	PROCEDURE 1980 2000	antibiotic treatment
+T5	PROCEDURE 2002 2023	FNA of a liver lesion
+T6	PROCEDURE 2025 2029	ERCP
+T28	PROCEDURE 2085 2137	papillotomy was performed to ensure biliary drainage
+T7	PROCEDURE 2282 2290	necropsy
+T30	PROCEDURE 2674 2706	isolated in blood and FNA sample

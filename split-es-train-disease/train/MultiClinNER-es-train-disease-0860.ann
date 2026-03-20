@@ -1,0 +1,47 @@
+T26	DISEASE 94 97	HTA
+T27	DISEASE 99 109	dislipemia
+T28	DISEASE 111 115	EPOC
+T29	DISEASE 117 158	ictus isquémico temporoparietal izquierdo
+T30	DISEASE 185 225	cardiopatía dilatada de origen isquémico
+T31	DISEASE 250 267	IAM inferolateral
+T33	DISEASE 493 513	insuficiencia mitral
+T34	DISEASE 532 545	valvulopatías
+T35	DISEASE 1517 1534	proceso neumónico
+T36	DISEASE 1623 1645	infección respiratoria
+T37	DISEASE 1648 1689	descompensación de insuficiencia cardiaca
+T38	DISEASE 1706 1752	cardiopatía isquémica crónica en fase dilatada
+T39	DISEASE 1953 1970	proceso neumónico
+T40	DISEASE 2081 2143	Insuficiencia mitral severa con restricción del velo posterior
+T41	DISEASE 2183 2258	Severa dilatación de ventrículo izquierdo ligera-moderadamente hipertrófico
+T42	DISEASE 2484 2509	Insuficiencia tricuspídea
+T43	DISEASE 2555 2574	derrame pericárdico
+T44	DISEASE 2607 2689	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior
+T45	DISEASE 2692 2731	prolapso de velo anterior a nivel de A2
+T46	DISEASE 3020 3046	coronaria derecha: ocluida
+T47	DISEASE 3460 3482	insuficiencia cardiaca
+T48	DISEASE 3496 3514	shock cardiogénico
+T49	DISEASE 3635 3743	insuficiencia mitral severa, con restricción del velo posterior y posible prolapso también del velo anterior
+T51	DISEASE 3787 3807	insuficiencia mitral
+T52	DISEASE 3862 3972	insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T53	DISEASE 3947 3986	prolapso de velo anterior a nivel de A2
+T54	DISEASE 4108 4145	oclusión crónica de coronaria derecha
+T55	DISEASE 4232 4262	shock cardiogénico refractario
+T56	DISEASE 5282 5304	insuficiencia cardiaca
+T57	DISEASE 5597 5624	descompensaciones cardiacas
+T58	DISEASE 5639 5698	Neumonía derecha del lóbulo medio adquirida en la comunidad
+T59	DISEASE 5700 5751	Insuficiencia cardiaca con disfunción biventricular
+T60	DISEASE 5753 5771	Shock cardiogénico
+T61	DISEASE 5773 5883	Insuficiencia mitral severa secundaria a movimiento restrictivo del velo posterior y prolapso de velo anterior
+T64	DISEASE 5931 5977	Cardiopatía isquémica crónica en fase dilatada
+T65	DISEASE 5025 5027	IM
+T66	DISEASE 2352 2393	Moderada dilatación de aurícula izquierda
+T67	DISEASE 2956 2984	circunfleja: muy calcificada
+T68	DISEASE 2858 2913	descendente anterior: largo desarrollo, muy calcificada
+T69	DISEASE 4001 4018	rotura de cuerdas
+T70	DISEASE 2746 2763	rotura de cuerdas
+T71	DISEASE 4059 4103	lesiones moderadas de la coronaria izquierda
+T151	DISEASE 2002 2019	ritmo ventricular
+T22	DISEASE 2818 2832	Tronco: lesión
+T16	DISEASE 5426 5489	válvula mitral con dispositivos bien posicionados con fuga leve
+T24	DISEASE 5895 5929	A2 con imagen de rotura de cuerdas
+#1	AnnotatorNotes T65	 insuficiencia mitral

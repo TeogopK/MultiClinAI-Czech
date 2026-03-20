@@ -1,0 +1,29 @@
+T20	DISEASE 72 86	drug allergies
+T21	DISEASE 88 94	Smoker
+T22	DISEASE 174 186	hypertension
+T23	DISEASE 193 206	dyslipidaemia
+T24	DISEASE 232 249	diabetes mellitus
+T25	DISEASE 251 253	DM
+T26	DISEASE 256 280	Recurrent bladder tumour
+T27	DISEASE 329 376	Prostatic neoplasia with metastatic involvement
+T28	DISEASE 1804 1841	chronic obstructive pulmonary disease
+T29	DISEASE 1843 1847	COPD
+T30	DISEASE 1853 1865	pneumothorax
+T31	DISEASE 1882 1894	Cardiomegaly
+T32	DISEASE 1948 1964	pleural effusion
+T33	DISEASE 2378 2398	thrombotic occlusion
+T48	DISEASE 3062 3096	aortic valve is slightly sclerosed
+T36	DISEASE 3301 3324	tricuspid insufficiency
+T37	DISEASE 3437 3457	pericardial effusion
+T38	DISEASE 3574 3601	acute myocardial infarction
+T34	DISEASE 3661 3681	thrombotic occlusion
+T39	DISEASE 3905 3918	heart failure
+T42	DISEASE 3962 3988	ventricular septal rupture
+T47	DISEASE 4019 4035	left-right shunt
+T44	DISEASE 4504 4528	refractory heart failure
+T40	DISEASE 4515 4528	heart failure
+T46	DISEASE 4653 4689	acute inferior myocardial infarction
+T35	DISEASE 4691 4711	Thrombotic occlusion
+T43	DISEASE 4764 4790	Ventricular septal rupture
+T45	DISEASE 4792 4816	Refractory heart failure
+T41	DISEASE 4803 4816	heart failure

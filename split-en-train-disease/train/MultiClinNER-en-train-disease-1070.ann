@@ -1,0 +1,46 @@
+T16	DISEASE 159 180	arterial hypertension
+T18	DISEASE 206 219	dyslipidaemia
+T19	DISEASE 221 232	tonsillitis
+T1	DISEASE 263 288	mild bilateral hypoacusis
+T20	DISEASE 319 341	thoracic herpes zoster
+T21	DISEASE 370 391	chronic renal failure
+T22	DISEASE 474 496	acute pulmonary oedema
+T2	DISEASE 515 528	renal failure
+T23	DISEASE 697 743	left ventricle (LV) with eccentric hypertrophy
+T24	DISEASE 985 1009	biventricular dilatation
+T25	DISEASE 1014 1051	severe dysfunction of both ventricles
+T3	DISEASE 1164 1231	arteriovenous fistula with large shunt in the right upper extremity
+T26	DISEASE 1422 1435	heart failure
+T42	DISEASE 1596 1608	Hepatomegaly
+T49	DISEASE 1711 1735	peripheral hypoperfusion
+T28	DISEASE 1868 1875	anaemia
+T29	DISEASE 2040 2059	severe cardiomegaly
+T45	DISEASE 2089 2115	bilateral pleural effusion
+T50	DISEASE 2142 2153	hepatitis A
+T12	DISEASE 2161 2170	varicella
+T51	DISEASE 2179 2193	herpes simplex
+T52	DISEASE 2280 2299	severely dilated LV
+T14	DISEASE 2454 2493	Right ventricle (RV) moderately dilated
+T17	DISEASE 2523 2552	Moderate mitral insufficiency
+T15	DISEASE 2554 2556	MI
+T43	DISEASE 2559 2589	Severe tricuspid insufficiency
+T34	DISEASE 2591 2593	TI
+T44	DISEASE 2596 2645	Dilated suprahepatic veins and inferior vena cava
+T30	DISEASE 2729 2756	Severe pericardial effusion
+T53	DISEASE 2903 2922	severely dilated LV
+T47	DISEASE 3197 3245	bilateral pleural effusion, pericardial effusion
+T31	DISEASE 3247 3254	ascites
+T32	DISEASE 3259 3271	stasis liver
+T27	DISEASE 3288 3301	heart failure
+T54	DISEASE 3583 3619	dilatation and severe RV dysfunction
+T33	DISEASE 3799 3811	hypovolaemia
+T48	DISEASE 3817 3828	hypotension
+T11	DISEASE 3975 4025	catarrhal episode with associated febrile syndrome
+T35	DISEASE 4080 4092	cardiomegaly
+T36	DISEASE 4363 4375	cardiomegaly
+T8	DISEASE 4531 4533	TR
+T4	DISEASE 5356 5358	MR
+T5	DISEASE 5368 5370	TR
+T39	DISEASE 5404 5424	pericardial effusion
+T40	DISEASE 5439 5459	Cardiorenal syndrome
+T41	DISEASE 5508 5531	ventricular dysfunction

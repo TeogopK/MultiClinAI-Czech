@@ -1,0 +1,12 @@
+T1	SYMPTOM 1224 1246	deterioro respiratorio
+T2	SYMPTOM 1535 1542	fallece
+T3	SYMPTOM 131 147	hipoxemia severa
+T4	SYMPTOM 1634 1652	hipoxemia extremas
+T5	SYMPTOM 564 580	hipoxemia severa
+T6	SYMPTOM 1263 1315	aire en la bolsa de recogida de la nutrición enteral
+T7	SYMPTOM 1623 1631	acidosis
+A1	EXITUS T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T7

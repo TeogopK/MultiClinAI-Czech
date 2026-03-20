@@ -1,0 +1,55 @@
+T41	SYMPTOM 431 459	oppressive, central thoracic
+T1	SYMPTOM 460 464	pain
+T2	SYMPTOM 515 519	pain
+T4	SYMPTOM 539 545	nausea
+T5	SYMPTOM 547 555	sweating
+T6	SYMPTOM 575 583	dyspnoea
+T7	SYMPTOM 666 671	fever
+T8	SYMPTOM 676 691	pharyngeal pain
+T9	SYMPTOM 761 793	electrocardiographic alterations
+T3	SYMPTOM 798 834	elevated markers of myocardial damag
+T10	SYMPTOM 983 1005	Good general condition
+T11	SYMPTOM 1007 1016	conscious
+T42	SYMPTOM 1021 1046	oriented in all 3 spheres
+T12	SYMPTOM 1048 1071	Haemodynamically stable
+T13	SYMPTOM 1073 1088	Eupneic at rest
+T43	SYMPTOM 1090 1103	Normal colour
+T14	SYMPTOM 1105 1131	well hydrated and perfused
+T15	SYMPTOM 1133 1141	Afebrile
+T44	SYMPTOM 1260 1290	Cardiorespiratory auscultation
+T16	SYMPTOM 1325 1332	murmurs
+T17	SYMPTOM 1336 1346	extratonos
+T45	SYMPTOM 1348 1373	Vesicular murmur preserve
+T18	SYMPTOM 1406 1461	Abdomen: soft and depressible, not painful on palpation
+T19	SYMPTOM 1466 1482	signs of defence
+T20	SYMPTOM 1486 1507	peritoneal irritation
+T35	SYMPTOM 1509 1535	Lower limbs without oedema
+T21	SYMPTOM 1622 1634	sinus rhythm
+T22	SYMPTOM 1646 1655	Normal PR
+T46	SYMPTOM 1671 1711	J point elevation of < 1 mm from V4 to V
+T47	SYMPTOM 1892 1922	renal function and ions normal
+T23	SYMPTOM 2056 2075	Chest X-ray: normal
+T48	SYMPTOM 2077 2103	Cardiothoracic index norma
+T49	SYMPTOM 2118 2138	pulmonary congestion
+T50	SYMPTOM 2118 2151	pulmonary congestion, condensatio
+T36	SYMPTOM 2188 2229	angiographically normal coronary arteries
+T24	SYMPTOM 2345 2371	Serology: negative for HIV
+T32	SYMPTOM 2345 2407	Serology: negative for HIV, syphilis and Mycoplasma pneumoniae
+T51	SYMPTOM 2409 2500	Positive for past infection by adenovirus, CMV, Echovirus, EBV, parvovirus B19 and Coxsacki
+T52	SYMPTOM 2553 2583	renal function and ions normal
+T25	SYMPTOM 2601 2642	hepatobiliary profile without alterations
+T26	SYMPTOM 2814 2847	Thyroid hormones and HbA1c normal
+T53	SYMPTOM 2849 2873	CBC: three normal series
+T54	SYMPTOM 2917 2964	left ventricle neither dilated nor hypertrophic
+T37	SYMPTOM 2971 3010	preserved global and segmental mobility
+T34	SYMPTOM 3193 3208	Myocardial mass
+T55	SYMPTOM 3255 3298	Right ventricle not dilated or hypertrophic
+T38	SYMPTOM 3305 3344	preserved global and segmental mobility
+T33	SYMPTOM 3503 3528	Both atria of normal size
+T39	SYMPTOM 3843 3866	basal perfusion defects
+T27	SYMPTOM 4141 4173	preserved biventricular function
+T29	SYMPTOM 4351 4363	asymptomatic
+T30	SYMPTOM 4620 4638	global hypokinesia
+T40	SYMPTOM 5076 5125	Both ventricles had normal morphology and volumes
+T31	SYMPTOM 5188 5233	biventricular systolic function was preserved
+T28	SYMPTOM 6444 6476	preserved biventricular function

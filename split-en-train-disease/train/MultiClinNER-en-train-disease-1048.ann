@@ -1,0 +1,40 @@
+T29	DISEASE 88 97	ex-smoker
+T30	DISEASE 112 124	hypertension
+T31	DISEASE 129 142	dyslipidaemia
+T32	DISEASE 188 216	Benign prostatic hyperplasia
+T58	DISEASE 249 272	ischaemic heart disease
+T33	DISEASE 299 331	2-vessel coronary artery disease
+T34	DISEASE 603 636	Congenital valvular heart disease
+T63	DISEASE 614 636	valvular heart disease
+T35	DISEASE 638 659	bicuspid aortic valve
+T37	DISEASE 737 770	Mild left ventricular dysfunction
+T38	DISEASE 845 869	Moderate aortic stenosis
+T39	DISEASE 879 899	aortic insufficiency
+T40	DISEASE 936 961	Ascending aortic aneurysm
+T41	DISEASE 1496 1516	arterial hypotension
+T43	DISEASE 1773 1794	acute aortic syndrome
+T44	DISEASE 2094 2115	acute aortic syndrome
+T45	DISEASE 2136 2156	distal hypoperfusion
+T42	DISEASE 2180 2200	arterial hypotension
+T46	DISEASE 2520 2527	ascites
+T47	DISEASE 2788 2814	acute myocardial ischaemia
+T48	DISEASE 2819 2850	advanced AV conduction disorder
+T66	DISEASE 2904 2946	Fusiform dilatation of the ascending aorta
+T49	DISEASE 2998 3018	intramural haematoma
+T50	DISEASE 3028 3057	acute aortic parietal lesions
+T67	DISEASE 3230 3289	non-atherogenic occlusion of the anterior descending artery
+T28	DISEASE 3291 3318	Left ventricular dilatation
+T51	DISEASE 3452 3478	bilateral pleural effusion
+T52	DISEASE 3483 3503	pericardial effusion
+T53	DISEASE 4652 4676	cardiorespiratory arrest
+T54	DISEASE 4680 4704	ventricular fibrillation
+T56	DISEASE 5171 5228	Embolic occlusion of the proximal LAD and diagonal branch
+T57	DISEASE 5934 5949	unstable angina
+T59	DISEASE 6186 6209	Ischaemic heart disease
+T60	DISEASE 6211 6247	Acute anterior myocardial infarction
+T61	DISEASE 6365 6397	Primary ventricular fibrillation
+T55	DISEASE 6373 6397	ventricular fibrillation
+T62	DISEASE 6442 6459	Cardiogenic shock
+T64	DISEASE 6469 6491	Valvular heart disease
+T36	DISEASE 6493 6514	bicuspid aortic valve
+T65	DISEASE 6493 6545	bicuspid aortic valve disease with moderate stenosis

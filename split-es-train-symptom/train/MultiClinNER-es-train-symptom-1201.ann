@@ -1,0 +1,66 @@
+T1	SYMPTOM 194 226	funciones superiores conservadas
+T2	SYMPTOM 244 250	disnea
+T4	SYMPTOM 872 894	pérdida de consciencia
+T5	SYMPTOM 1483 1518	elevación del ST en I, aVL y V3- V6
+T6	SYMPTOM 1712 1742	elevación del ST anterolateral
+T7	SYMPTOM 2125 2132	afebril
+T8	SYMPTOM 2283 2297	normocoloreado
+T9	SYMPTOM 2300 2315	bien perfundido
+T10	SYMPTOM 2338 2353	plétora yugular
+T11	SYMPTOM 2355 2384	Auscultación cardiaca rítmica
+T12	SYMPTOM 2389 2395	soplos
+T13	SYMPTOM 2397 2425	Auscultación pulmonar normal
+T14	SYMPTOM 2427 2454	buena ventilación bilateral
+T15	SYMPTOM 2456 2483	Abdomen blando y depresible
+T16	SYMPTOM 2489 2495	edemas
+T17	SYMPTOM 2756 2771	elevación de ST
+T18	SYMPTOM 2865 2878	ritmo sinusal
+T19	SYMPTOM 2901 2910	PR normal
+T20	SYMPTOM 2912 2924	QRS estrecho
+T21	SYMPTOM 2926 2935	QT normal
+T22	SYMPTOM 2982 3022	alteraciones agudas de la repolarización
+T23	SYMPTOM 3027 3058	patrón de repolarización precoz
+T24	SYMPTOM 3243 3275	Hemograma y coagulación normales
+T25	SYMPTOM 3431 3468	Estudio de tóxicos en orina: negativo
+T27	SYMPTOM 3509 3608	VI no dilatado ni hipertrófico con función sistólica global y segmentaria conservada, hiperdinámico
+T31	SYMPTOM 3989 4017	función sistólica conservada
+T32	SYMPTOM 4080 4120	Patrón diastólico de relajación alargada
+T33	SYMPTOM 4130 4155	Aurícula Izquierda normal
+T36	SYMPTOM 4685 4766	ventrículo Izquierdo (VI) no dilatado con función global y segmentaria conservada
+T37	SYMPTOM 5188 5198	QTc normal
+T38	SYMPTOM 5569 5596	test de flecainida negativo
+T39	SYMPTOM 5598 5624	ritmo basal sinusal normal
+T40	SYMPTOM 5664 5676	QRS normales
+T41	SYMPTOM 5978 5993	elevación de ST
+T43	SYMPTOM 6680 6729	asintomático desde el punto de vista cardiológico
+T46	SYMPTOM 7581 7612	patrón de repolarización precoz
+T47	SYMPTOM 7640 7687	test de ecocardiografía con ergobasina negativo
+T48	SYMPTOM 7695 7726	alteraciones tóxico-metabólicas
+T178	SYMPTOM 792 804	asintomático
+T3	SYMPTOM 4033 4078	alteraciones en la contractilidad segmentaria
+T26	SYMPTOM 4835 4914	Ventrículo Derecho (VD) no dilatado con función global y segmentaria conservada
+T29	SYMPTOM 6211 6279	coronariografía, TC cerebral-toraco-abdominal y ETT sin alteraciones
+T30	SYMPTOM 6868 6878	QTc normal
+T34	SYMPTOM 7384 7430	Canalopatías: pruebas de provocación negativas
+T35	SYMPTOM 8583 8657	Test farmacológicos para desenmascarar canalopatía y vasoespasmo negativos
+T186	SYMPTOM 4439 4469	Vena cava inferior no dilatada
+T188	SYMPTOM 4223 4301	Válvula Aórtica trivalva con apertura conservada, sin alteraciones funcionales
+T192	SYMPTOM 3774 3806	arterias coronarias sin lesiones
+T225	SYMPTOM 2528 2573	extremidades inferiores, con pulsos palpables
+T228	SYMPTOM 6051 6099	test de ecocardiografía con ergobasina: negativo
+T170	SYMPTOM 2937 2977	Correcta progresión de R en precordiales
+T175	SYMPTOM 3091 3144	Parámetros bioquímicos dentro del rango de normalidad
+T176	SYMPTOM 3134 3197	normalidad, incluido perfil lipídico, con función renal e iones
+T177	SYMPTOM 3643 3675	VD no dilatado con buena función
+T180	SYMPTOM 3808 3877	TC cerebral y angio-TC toraco-abdominal: sin hallazgos significativos
+T181	SYMPTOM 3931 3984	ventrículo Izquierdo (VI) no dilatado ni hipertrófico
+T182	SYMPTOM 4166 4221	Ventrículo Derecho (VD) no dilatado y con buena función
+T183	SYMPTOM 4303 4327	Raíz aórtica no dilatada
+T184	SYMPTOM 4947 4999	realce tardío no se aprecian captaciones patológicas
+T187	SYMPTOM 5057 5084	buena función biventricular
+T190	SYMPTOM 5509 5540	negativo para el patrón Brugada
+T191	SYMPTOM 5885 5897	eje superior
+T194	SYMPTOM 7011 7031	red coronaria normal
+T195	SYMPTOM 7109 7139	realces isquémicos patológicos
+T197	SYMPTOM 8486 8524	Red coronaria angiográficamente normal
+T198	SYMPTOM 8554 8581	Buena función biventricular

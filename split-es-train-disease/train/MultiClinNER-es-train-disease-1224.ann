@@ -1,0 +1,26 @@
+T33	DISEASE 78 141	Intolerancia a ácido acetilsalicílico (AAS) por úlcera duodenal
+T34	DISEASE 149 159	tabaquismo
+T35	DISEASE 235 250	úlcera duodenal
+T36	DISEASE 818 821	ICC
+T37	DISEASE 1685 1688	HVI
+T38	DISEASE 2492 2513	Insuficiencia aórtica
+T39	DISEASE 2539 2552	valvulopatías
+T40	DISEASE 2719 2738	Derrame pericárdico
+T41	DISEASE 2767 2791	disección aórtica tipo A
+T42	DISEASE 3764 3772	isquemia
+T43	DISEASE 3967 3991	disección aórtica tipo A
+T44	DISEASE 4947 4980	insuficiencia respiratoria global
+T45	DISEASE 5036 5040	SDRA
+T46	DISEASE 5181 5188	gripe A
+T47	DISEASE 5280 5305	insuficiencia renal aguda
+T48	DISEASE 5563 5593	Disección aórtica aguda tipo A
+T49	DISEASE 5640 5650	Tabaquismo
+T50	DISEASE 5652 5673	Hipertensión arterial
+T51	DISEASE 5675 5716	Insuficiencia respiratoria aguda por SDRA
+T52	DISEASE 5718 5746	Insuficiencia renal prerenal
+T53	DISEASE 3044 3111	Dilatación de raíz aórtica y de porción tubular de aorta ascendente
+T55	DISEASE 3823 3867	dilatación de raíz aórtica con insuficiencia
+T56	DISEASE 4996 5056	síndrome de distrés respiratorio agudo (SDRA) postoperatorio
+T57	DISEASE 2309 2345	ventrículo izquierdo con hipertrofia
+T58	DISEASE 3508 3559	disección tipo A que se extiende desde raíz aórtica
+#1	AnnotatorNotes T37	  hipertrofia ventricular izquierda

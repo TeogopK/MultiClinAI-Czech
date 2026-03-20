@@ -1,0 +1,28 @@
+T1	PROCEDURE 116 155	Received the corresponding vaccinations
+T46	PROCEDURE 344 362	antibiotic therapy
+T5	PROCEDURE 709 737	measured with pulse oximeter
+T6	PROCEDURE 750 764	free flow mask
+T7	PROCEDURE 783 803	respiratory function
+T54	PROCEDURE 1077 1095	Psychoneuromucular
+T9	PROCEDURE 1240 1256	laboratory tests
+T10	PROCEDURE 1511 1532	bacteriological study
+T11	PROCEDURE 1561 1613	investigation of viral agents of meningoencephalitis
+T55	PROCEDURE 1644 1647	PCR
+T47	PROCEDURE 1671 1691	electroencephalogram
+T48	PROCEDURE 1693 1696	EEG
+T14	PROCEDURE 2536 2547	blood tests
+T49	PROCEDURE 2754 2768	blood cultures
+T57	PROCEDURE 2828 2839	CSF culture
+T59	PROCEDURE 2844 2864	PCR for Herpes virus
+T50	PROCEDURE 3059 3081	Doppler echocardiogram
+T17	PROCEDURE 3301 3338	Encephalic magnetic resonance imaging
+T16	PROCEDURE 3340 3343	MRI
+T51	PROCEDURE 3704 3720	echocardiography
+T52	PROCEDURE 3787 3802	Echocardiograms
+T20	PROCEDURE 3936 3939	MRI
+T24	PROCEDURE 4085 4133	cardiac surgery was performed to clean the valve
+T23	PROCEDURE 4218 4234	mechanical valve
+T22	PROCEDURE 4239 4254	hypocoagulation
+T4	PROCEDURE 4289 4299	corticoids
+T58	PROCEDURE 4304 4322	external pacemaker
+T53	PROCEDURE 4423 4436	physiotherapy

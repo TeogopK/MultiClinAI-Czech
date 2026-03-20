@@ -1,0 +1,41 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 193 216	anticoagulant treatment
+T54	PROCEDURE 568 588	coronary angiography
+T2	PROCEDURE 656 684	anticoagulated with synthrom
+T3	PROCEDURE 824 846	surgical interventions
+T56	PROCEDURE 848 860	appendectomy
+T4	PROCEDURE 1513 1540	microbiological examination
+T57	PROCEDURE 1656 1671	cranial CT scan
+T59	PROCEDURE 1815 1832	surgical drainage
+T60	PROCEDURE 1851 1900	anticoagulation with low molecular weight heparin
+T61	PROCEDURE 2007 2052	Magnetic resonance imaging (MRI) of the skull
+T5	PROCEDURE 2035 2038	MRI
+T6	PROCEDURE 2319 2348	left atrial appendage closure
+T7	PROCEDURE 2485 2510	mono-antiplatelet therapy
+T63	PROCEDURE 2564 2584	PHYSICAL EXAMINATION
+T64	PROCEDURE 2857 2869	auscultation
+T8	PROCEDURE 3047 3058	examination
+T65	PROCEDURE 3081 3098	ELECTROCARDIOGRAM
+T66	PROCEDURE 3100 3103	ECG
+T9	PROCEDURE 3209 3217	ANALYSIS
+T76	PROCEDURE 3238 3256	cardiac biomarkers
+T10	PROCEDURE 3341 3359	THORAX RADIOGRAPHY
+T11	PROCEDURE 3440 3468	TRANSTORACIC ECOCARDIOGRAPHY
+T12	PROCEDURE 4185 4195	UROCULTURE
+T13	PROCEDURE 4200 4211	HEMOCULTURE
+T58	PROCEDURE 4223 4238	Cranial CT scan
+T67	PROCEDURE 4344 4355	Cranial MRI
+T68	PROCEDURE 4474 4488	ANGIO-CT chest
+T69	PROCEDURE 4890 4922	Transesophageal echocardiography
+T71	PROCEDURE 5114 5134	chest CT angiography
+T70	PROCEDURE 5139 5171	transesophageal echocardiography
+T14	PROCEDURE 5181 5205	atrial appendage closure
+T15	PROCEDURE 5422 5453	anticoagulation with dabigatran
+T16	PROCEDURE 5536 5561	echocardiographic control
+T17	PROCEDURE 5710 5735	echocardiographic control
+T18	PROCEDURE 5792 5857	left atrial appendage was closed with the Amplatzer Amulet device
+T19	PROCEDURE 5946 5992	anticoagulation was maintained with dabigatran
+T20	PROCEDURE 6134 6181	mono-antiplatelet therapy indefinitely with ASA
+T75	PROCEDURE 6216 6242	echocardiographic controls
+T21	PROCEDURE 6455 6504	implant an implantable cardioverter defibrillator
+T22	PROCEDURE 6506 6509	ICD

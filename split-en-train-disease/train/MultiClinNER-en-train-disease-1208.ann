@@ -1,0 +1,29 @@
+T34	DISEASE 21 35	drug allergies
+T47	DISEASE 78 90	toxic habits
+T24	DISEASE 92 128	Non-ischaemic dilated cardiomyopathy
+T26	DISEASE 134 166	severe biventricular dysfunction
+T28	DISEASE 218 240	advanced heart failure
+T1	DISEASE 304 306	AF
+T35	DISEASE 584 618	AF with rapid ventricular response
+T29	DISEASE 2070 2090	deep vein thrombosis
+T8	DISEASE 2163 2165	AF
+T48	DISEASE 2193 2216	left anterior hemiblock
+T36	DISEASE 2254 2266	cardiomegaly
+T30	DISEASE 2491 2511	ventricular aneurysm
+T37	DISEASE 2566 2594	severely dilated left atrium
+T9	DISEASE 2830 2901	Thin mitral valve with good mobility and with grade II/IV regurgitation
+T10	DISEASE 2939 2989	Thin trivalve aortic valve with mild regurgitation
+T38	DISEASE 3031 3054	Dilated right ventricle
+T39	DISEASE 3191 3223	Moderate tricuspid regurgitation
+T31	DISEASE 3817 3833	patchy steatosis
+T40	DISEASE 3981 3992	hepatitis C
+T41	DISEASE 4007 4018	hepatitis A
+T42	DISEASE 4033 4044	hepatitis B
+T43	DISEASE 4143 4148	mumps
+T44	DISEASE 4156 4163	rubella
+T45	DISEASE 4165 4172	measles
+T49	DISEASE 4195 4204	varicella
+T46	DISEASE 4369 4377	Syphilis
+T33	DISEASE 6478 6500	dilated cardiomyopathy
+T27	DISEASE 6506 6538	severe biventricular dysfunction
+T22	DISEASE 6580 6582	AF

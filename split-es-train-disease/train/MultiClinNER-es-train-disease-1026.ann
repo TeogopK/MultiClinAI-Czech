@@ -1,0 +1,85 @@
+T51	DISEASE 90 113	alergias medicamentosas
+T52	DISEASE 150 162	extabaquismo
+T53	DISEASE 164 188	diabetes mellitus tipo 2
+T54	DISEASE 190 200	dislipemia
+T55	DISEASE 202 239	síndrome mielodisplásico subtipo CRDM
+T56	DISEASE 241 290	citopenias refractarias con displasia multilineal
+T57	DISEASE 324 345	Cardiopatía isquémica
+T58	DISEASE 375 457	infarto agudo de miocardio con elevación del segmento ST (IAMCEST) posteroinferior
+T59	DISEASE 459 477	Reinfarto inferior
+T61	DISEASE 528 567	accidente cerebrovascular (ACV) lacunar
+T62	DISEASE 606 636	enfermedad coronaria multivaso
+T63	DISEASE 715 738	estenosis aórtica grave
+T64	DISEASE 1717 1753	insuficiencia periprotésica moderada
+T65	DISEASE 1755 1780	Insuficiencia tricuspídea
+T66	DISEASE 1862 1881	derrame pericárdico
+T67	DISEASE 2666 2684	proceso infeccioso
+T68	DISEASE 3941 3956	derrame pleural
+T69	DISEASE 3958 4027	Espondilosis dorsal con calcificación de ligamento vertebral anterior
+T70	DISEASE 4603 4623	insuficiencia mitral
+T71	DISEASE 5407 5440	Hipertensión pulmonar (HTP) grave
+T72	DISEASE 5556 5575	derrame pericárdico
+T73	DISEASE 5641 5701	hipertrofia ventricular izquierda (HVI) concéntrica moderada
+T74	DISEASE 5676 5679	HVI
+T75	DISEASE 5787 5813	Leak periprotésico aórtico
+T76	DISEASE 5831 5840	HTP grave
+T77	DISEASE 6396 6422	leak periprotésico aórtico
+T78	DISEASE 6841 6849	abscesos
+T79	DISEASE 6961 6986	eak periprotésico aórtico
+T80	DISEASE 7004 7016	HVI moderada
+T81	DISEASE 7091 7100	HTP grave
+T82	DISEASE 7251 7271	fugas periprotésicas
+T83	DISEASE 7660 7679	derrame pericárdico
+T84	DISEASE 7744 7767	HVI excéntrica moderada
+T85	DISEASE 7821 7833	HTP moderada
+T86	DISEASE 8234 8253	hepatopatía crónica
+T87	DISEASE 8256 8270	esplenomegalia
+T88	DISEASE 8303 8330	insuficiencia aórtica grave
+T89	DISEASE 8422 8448	leak periprotésico aórtico
+T90	DISEASE 8664 8682	fuga periprotésica
+T91	DISEASE 8724 8749	leak paravalvular aórtico
+T92	DISEASE 9111 9132	regurgitación aórtica
+T93	DISEASE 9151 9169	fuga periprotésica
+T94	DISEASE 9336 9358	insuficiencia cardiaca
+T95	DISEASE 9427 9463	insuficiencia cardiaca descompensada
+T96	DISEASE 9479 9501	infección respiratoria
+T97	DISEASE 9516 9549	Insuficiencia cardiaca congestiva
+T98	DISEASE 9573 9617	Leak periprotésico aórtico con insuficiencia
+T99	DISEASE 9699 9728	Cardiopatía isquémica crónica
+T100	DISEASE 9730 9753	Síndrome mielodispásico
+T101	DISEASE 9755 9761	anemia
+T102	DISEASE 9764 9775	trombopenia
+T103	DISEASE 3439 3444	BRIHH
+T104	DISEASE 1401 1419	Hipertrofia septal
+T105	DISEASE 433 440	IAMCEST
+T106	DISEASE 5776 5778	IM
+T107	DISEASE 5442 5444	IP
+T108	DISEASE 7585 7587	IP
+T109	DISEASE 1782 1784	IT
+T110	DISEASE 5324 5326	IT
+T111	DISEASE 7488 7490	IT
+T112	DISEASE 3763 3783	cardiomegalia global
+T113	DISEASE 4382 4404	dilatación biauricular
+T114	DISEASE 3282 3295	hepatomegalia
+T115	DISEASE 8207 8220	hepatomegalia
+T116	DISEASE 3264 3279	oleada ascítica
+T117	DISEASE 5896 5903	trombos
+T118	DISEASE 5943 5950	trombos
+T119	DISEASE 555 558	ACV
+T120	DISEASE 4070 4127	VI de dimensión normal e hipertrofia concéntrica moderada
+T121	DISEASE 4625 4627	IM
+T122	DISEASE 5335 5368	Vena cava inferior (VCI) dilatada
+T123	DISEASE 7809 7812	IAo
+T29	DISEASE 5430 5433	HTP
+T41	DISEASE 8468 8495	hipertensión pulmonar grave
+#1	AnnotatorNotes T74	 Hipertrofia ventricular izquierda
+#2	AnnotatorNotes T80	 HVI: hipertrofia ventricular izquierda
+#3	AnnotatorNotes T106	 insuficiencia mitral
+#4	AnnotatorNotes T107	 insuficiencia pulmonar
+#5	AnnotatorNotes T108	 insuficiencia pulmonar
+#6	AnnotatorNotes T109	 Insuficiencia tricuspídea
+#7	AnnotatorNotes T110	 Insuficiencia tricuspídea
+#8	AnnotatorNotes T111	 Insuficiencia tricuspídea
+#9	AnnotatorNotes T119	 Accidente cerebrovascular
+#10	AnnotatorNotes T121	 insuficiencia mitral
+#11	AnnotatorNotes T123	 Insuficiencia aortica

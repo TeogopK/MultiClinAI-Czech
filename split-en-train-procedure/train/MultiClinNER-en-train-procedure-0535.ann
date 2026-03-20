@@ -1,0 +1,31 @@
+T7	PROCEDURE 102 123	intravenous urography
+T6	PROCEDURE 443 463	Physical examination
+T27	PROCEDURE 604 613	palpation
+T9	PROCEDURE 615 633	Rectal examination
+T29	PROCEDURE 643 662	a palpable prostate
+T15	PROCEDURE 743 754	Blood count
+T20	PROCEDURE 789 807	Blood biochemistry
+T33	PROCEDURE 924 946	Systematic urine study
+T2	PROCEDURE 1098 1112	Urine sediment
+T14	PROCEDURE 1152 1160	cytology
+T18	PROCEDURE 1188 1206	Imaging techniques
+T4	PROCEDURE 1207 1228	Plain abdominal X-ray
+T3	PROCEDURE 1352 1356	IVUS
+T12	PROCEDURE 1833 1844	Cystography
+T5	PROCEDURE 1935 1964	Left percutaneous pyelography
+T43	PROCEDURE 2114 2138	Abdominal-pelvic CT scan
+T1	PROCEDURE 2658 2668	Pelvic MRI
+T46	PROCEDURE 2788 2822	transperitoneal midline laparotomy
+T23	PROCEDURE 2824 2893	ureteral tracts from the lumbar to the juxtavesical area were exposed
+T11	PROCEDURE 3019 3053	bilateral longitudinal ureterotomy
+T24	PROCEDURE 3083 3179	papillary neoformations with a pedunculated implantation base, and it was decided to remove them
+T25	PROCEDURE 3181 3202	Placement of pig-tail
+T26	PROCEDURE 3207 3233	closure of the urethrotomy
+T13	PROCEDURE 3235 3255	Pathological anatomy
+T21	PROCEDURE 3256 3279	Macroscopic description
+T17	PROCEDURE 3426 3449	Microscopic description
+T16	PROCEDURE 3868 3877	resection
+T10	PROCEDURE 4488 4508	antibiotic treatment
+T19	PROCEDURE 4645 4661	pig-tail removal
+T22	PROCEDURE 4717 4724	surgery
+T8	PROCEDURE 4828 4849	intravenous urography

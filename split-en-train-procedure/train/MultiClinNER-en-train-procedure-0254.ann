@@ -1,0 +1,22 @@
+T1	PROCEDURE 120 140	abdominal ultrasound
+T6	PROCEDURE 267 286	Physical inspection
+T9	PROCEDURE 402 411	palpation
+T10	PROCEDURE 520 536	Rectal palpation
+T16	PROCEDURE 609 620	Blood tests
+T11	PROCEDURE 622 654	urine sediment and urine culture
+T7	PROCEDURE 641 654	urine culture
+T2	PROCEDURE 701 721	Abdominal ultrasound
+T13	PROCEDURE 852 864	IV urography
+T4	PROCEDURE 866 869	IVU
+T3	PROCEDURE 1120 1188	abdomino-pelvic CT scan performed with oral and intravenous contrast
+T14	PROCEDURE 1773 1775	CT
+T12	PROCEDURE 1930 1950	radiological studies
+T8	PROCEDURE 1990 2018	percutaneous puncture-biopsy
+T5	PROCEDURE 2068 2082	urine cytology
+T28	PROCEDURE 2143 2196	surgery was performed via a right pararectal approach
+T29	PROCEDURE 2440 2499	Careful resection of the cystic mass and the cecal appendix
+T30	PROCEDURE 2587 2611	Pathological examination
+T15	PROCEDURE 2864 2868	IVUS
+T31	PROCEDURE 2898 2905	surgery
+T32	PROCEDURE 2918 2942	bilateral renal function
+T34	PROCEDURE 3157 3164	CT scan

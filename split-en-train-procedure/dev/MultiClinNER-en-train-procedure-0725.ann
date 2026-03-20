@@ -1,0 +1,14 @@
+T4	PROCEDURE 96 116	physical examination
+T6	PROCEDURE 183 191	palpated
+T3	PROCEDURE 233 253	abdominal ultrasound
+T15	PROCEDURE 404 481	computed axial tomography of the abdomen and pelvis with intravenous contrast
+T20	PROCEDURE 653 656	MRI
+T22	PROCEDURE 836 861	radical right nephrectomy
+T2	PROCEDURE 951 971	Pathological anatomy
+T5	PROCEDURE 1051 1071	immunohistochemistry
+T11	PROCEDURE 1073 1076	IHC
+T1	PROCEDURE 1463 1466	IHC
+T29	PROCEDURE 1583 1590	CT scan
+T7	PROCEDURE 1662 1673	nephrectomy
+T9	PROCEDURE 1690 1702	chemotherapy
+T8	PROCEDURE 1872 1883	nephrectomy

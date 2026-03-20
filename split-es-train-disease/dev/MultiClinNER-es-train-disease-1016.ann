@@ -1,0 +1,29 @@
+T26	DISEASE 193 196	SMF
+T27	DISEASE 210 227	hábito marfanoide
+T28	DISEASE 230 244	ectopia lentis
+T29	DISEASE 253 271	dilatación aórtica
+T30	DISEASE 332 335	SMF
+T32	DISEASE 412 426	ectopia lentis
+T33	DISEASE 430 448	dilatación aórtica
+T34	DISEASE 751 791	Deformidad torácica por pectus carinatum
+T35	DISEASE 986 1006	insuficiencia venosa
+T36	DISEASE 1010 1035	trombosis venosa profunda
+T37	DISEASE 1114 1124	Escoliosis
+T38	DISEASE 1126 1152	Subluxación del cristalino
+T39	DISEASE 1475 1488	valvulopatías
+T40	DISEASE 1973 2003	Extrasistolia supraventricular
+T41	DISEASE 2064 2072	isquemia
+T42	DISEASE 2104 2113	arritmias
+T43	DISEASE 2146 2155	arritmias
+T44	DISEASE 2315 2344	síndromes aórticos-vasculares
+T46	DISEASE 2741 2757	pectus carinatum
+T47	DISEASE 2760 2770	escoliosis
+T48	DISEASE 2774 2800	subluxación del cristalino
+T49	DISEASE 2826 2844	dilatación aórtica
+T50	DISEASE 2888 2891	SMF
+T51	DISEASE 3044 3047	SMF
+T52	DISEASE 3180 3206	subluxación del cristalino
+T53	DISEASE 3145 3148	SMF
+T25	DISEASE 1745 1768	miocardio no compactado
+#1	AnnotatorNotes T26	  Síndrome de Marfan
+#2	AnnotatorNotes T53	  Síndrome de Marfan

@@ -1,0 +1,50 @@
+T1	SYMPTOM 601 623	pérdida de consciencia
+T2	SYMPTOM 1027 1037	consciente
+T3	SYMPTOM 1040 1049	orientado
+T4	SYMPTOM 1051 1070	lenguaje conservado
+T5	SYMPTOM 1072 1106	Pupilas isocóricas normorreactivas
+T6	SYMPTOM 1108 1142	Motilidad ocular extrínseca normal
+T8	SYMPTOM 1187 1220	Fuerza y sensibilidad conservadas
+T9	SYMPTOM 1222 1241	Coordinación normal
+T10	SYMPTOM 1243 1259	Romberg negativo
+T11	SYMPTOM 1265 1290	alteraciones en la marcha
+T12	SYMPTOM 1295 1316	ingurgitación yugular
+T13	SYMPTOM 1341 1367	ruidos cardiacos regulares
+T14	SYMPTOM 1385 1391	soplos
+T15	SYMPTOM 1416 1445	murmullo vesicular conservado
+T16	SYMPTOM 1456 1465	sibilante
+T19	SYMPTOM 1507 1529	Peristalsis conservada
+T20	SYMPTOM 1534 1562	edema en miembros inferiores
+T21	SYMPTOM 1564 1593	Pulsos presentes y simétricos
+T22	SYMPTOM 2794 2807	ritmo sinusal
+T23	SYMPTOM 2818 2827	PR normal
+T24	SYMPTOM 2924 2995	V1 con empastamiento de fuerzas finales del QRS y elevación del punto J
+T29	SYMPTOM 3384 3433	Válvula mitral de velos finos con apertura normal
+T31	SYMPTOM 3454 3502	Válvula aórtica tricomisural con apertura normal
+T32	SYMPTOM 3778 3783	edema
+T35	SYMPTOM 6993 7047	extrasístole ventricular con acoplamiento sobre onda T
+T36	SYMPTOM 7229 7259	aumento del punto J en V1 y V2
+T25	SYMPTOM 3286 3338	Patrón de flujo transmitral de relajación prolongada
+T26	SYMPTOM 4094 4121	función sistólica conservad
+T141	SYMPTOM 1475 1505	Abdomen: sin masas ni megalias
+T144	SYMPTOM 3340 3382	Aurícula izquierda de dimensiones normales
+T145	SYMPTOM 4202 4254	Aurículas y grandes vasos de dimensiones conservadas
+T147	SYMPTOM 3523 3565	Cavidades derechas de dimensiones normales
+T155	SYMPTOM 3713 3733	Línea media centrada
+T172	SYMPTOM 3111 3124	consolidación
+T173	SYMPTOM 4163 4200	contractilidad segmentaria conservada
+T177	SYMPTOM 3952 4014	función sistólica segmentaria y global dentro de la normalidad
+T180	SYMPTOM 5578 5615	lesiones angiográficas significativas
+T190	SYMPTOM 3750 3774	signos de sangrado agudo
+T7	SYMPTOM 3039 3085	silueta cardiaca y mediastino de tamaño normal
+T17	SYMPTOM 3176 3253	ventrículo izquierdo de diámetros y grosor normal con adecuada contractilidad
+T18	SYMPTOM 3785 3808	Calota sin alteraciones
+T27	SYMPTOM 4398 4475	Estudio morfológico (sin y con contraste) y funcional dentro de la normalidad
+T28	SYMPTOM 5229 5271	caída significativa de la presión arterial
+T30	SYMPTOM 5338 5381	alargamiento significativo del intervalo HV
+T33	SYMPTOM 5754 5785	patrón típico tipo 1 de Brugada
+T34	SYMPTOM 5694 5729	aumento en la elevación del punto J
+T55	SYMPTOM 5490 5544	extrasístole ventricular con acoplamiento sobre onda T
+T59	SYMPTOM 6341 6393	TC craneal que no mostró alteraciones significativas
+T62	SYMPTOM 7272 7296	patrón típico de Brugada
+T81	SYMPTOM 7417 7471	coronariografía que no muestra lesiones significativas

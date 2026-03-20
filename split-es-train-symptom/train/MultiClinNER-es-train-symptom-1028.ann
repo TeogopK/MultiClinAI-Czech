@@ -1,0 +1,79 @@
+T1	SYMPTOM 838 847	febrícula
+T2	SYMPTOM 850 866	malestar general
+T3	SYMPTOM 911 964	dolor de características inflamatorias a nivel lumbar
+T4	SYMPTOM 990 1008	molestia abdominal
+T5	SYMPTOM 1030 1048	sensación nauseosa
+T6	SYMPTOM 1115 1129	dolor torácico
+T7	SYMPTOM 1131 1137	disnea
+T8	SYMPTOM 1139 1152	palpitaciones
+T9	SYMPTOM 1315 1352	elevación de marcadores inflamatorios
+T10	SYMPTOM 1374 1411	leucocitosis con desviación izquierda
+T11	SYMPTOM 2319 2344	estable hemodinámicamente
+T12	SYMPTOM 2350 2379	trabajo respiratorio muy leve
+T13	SYMPTOM 2387 2406	crepitantes basales
+T14	SYMPTOM 2417 2449	petequias en miembros inferiores
+T15	SYMPTOM 2825 2835	consciente
+T16	SYMPTOM 2837 2846	orientado
+T17	SYMPTOM 2849 2860	colaborador
+T18	SYMPTOM 2862 2888	Buen estado de hidratación
+T19	SYMPTOM 2890 2905	Palidez cutánea
+T20	SYMPTOM 2927 2932	dolor
+T21	SYMPTOM 2934 2958	Taquipnea leve en reposo
+T22	SYMPTOM 2964 2982	tiraje intercostal
+T23	SYMPTOM 3005 3026	ingurgitación yugular
+T24	SYMPTOM 3033 3063	reflujo hepatoyugular negativo
+T25	SYMPTOM 3065 3103	Pulso carotídeo simétrico y sin soplos
+T27	SYMPTOM 3128 3157	murmullo vesicular conservado
+T28	SYMPTOM 3162 3192	estertores crepitantes en base
+T29	SYMPTOM 3225 3250	ruidos cardiacos rítmicos
+T30	SYMPTOM 3267 3290	soplo sistólico aórtico
+T31	SYMPTOM 3301 3320	2o ruido conservado
+T32	SYMPTOM 3335 3356	soplo protodiastólico
+T33	SYMPTOM 3410 3440	Ruidos hidroaéreos conservados
+T35	SYMPTOM 3527 3601	Extremidades inferiores: extremidades calientes y con buen relleno capilar
+T38	SYMPTOM 3642 3689	Pulsos radiales y pedios presentes y simétricos
+T39	SYMPTOM 3739 3745	edemas
+T40	SYMPTOM 4707 4748	Hemocultivos: crecimiento de cocos Gram +
+T41	SYMPTOM 4951 4964	ritmo sinusal
+T42	SYMPTOM 4975 5011	Onda P de tamaño y morfología normal
+T43	SYMPTOM 5063 5075	QRS estrecho
+T44	SYMPTOM 5155 5168	Onda T normal
+T45	SYMPTOM 5265 5298	silueta cardiaca de tamaño normal
+T47	SYMPTOM 5668 5691	Vía biliar sin lesiones
+T48	SYMPTOM 5693 5709	Riñones normales
+T50	SYMPTOM 5918 5936	nódulos pulmonares
+T51	SYMPTOM 6412 6444	ventrículo izquierdo no dilatado
+T52	SYMPTOM 6522 6537	FEVI conservada
+T53	SYMPTOM 7333 7368	tabique interauricular está intacto
+T54	SYMPTOM 7540 7589	Válvula tricúspide normal en estructura y función
+T56	SYMPTOM 8519 8570	alteraciones en la densidad del parénquima cerebral
+T58	SYMPTOM 10017 10077	Aumento difuso y homogéneo del metabolismo en la médula ósea
+T64	SYMPTOM 14455 14461	fiebre
+T65	SYMPTOM 14666 14692	deterioro de función renal
+T67	SYMPTOM 15993 16001	sangrado
+T69	SYMPTOM 16020 16046	deterioro de función renal
+T147	SYMPTOM 2044 2084	hemocultivos de un Enterococcus faecalis
+T36	SYMPTOM 5013 5034	Intervalo PR en rango
+T37	SYMPTOM 5170 5199	Intervalo QTc en rango normal
+T237	SYMPTOM 5424 5458	pinzamiento de senos costofrénicos
+T163	SYMPTOM 6263 6313	páncreas, las glándulas suprarrenales son normales
+T167	SYMPTOM 6629 6674	Ventrículo derecho de tamaño y función normal
+T168	SYMPTOM 6762 6792	Vena cava inferior no dilatada
+T240	SYMPTOM 7128 7153	Raíz de aorta no dilatada
+T179	SYMPTOM 8195 8287	imagen hiperdensa en la región subcortical silviana izquierda con discreto edema circundante
+T60	SYMPTOM 11747 11779	arterias coronarias sin lesiones
+T66	SYMPTOM 15571 15604	Arterias epicárdicas sin lesiones
+T245	SYMPTOM 8133 8180	Arterias coronarias sin lesiones significativas
+T262	SYMPTOM 7591 7615	Válvula Aórtica trivalva
+T271	SYMPTOM 14473 14490	clínica digestiva
+T308	SYMPTOM 5307 5363	redistribución vascular hacia campos pulmonares apicales
+T316	SYMPTOM 1071 1096	sintomatología infecciosa
+T318	SYMPTOM 7861 7885	válvula aórtica trivalva
+T34	SYMPTOM 4797 4831	presencia de Enterococcus faecalis
+T72	SYMPTOM 5122 5153	Segmento ST sin supradesniveles
+T193	SYMPTOM 9839 9922	Hígado, páncreas, glándulas suprarrenales y mesenterio sin alteraciones patológicas
+T243	SYMPTOM 10220 10329	hiperintensidades parcheadas de localización córtico subcortical bilateral y en hemisferio cerebeloso derecho
+T57	SYMPTOM 10804 10899	formaciones milimétricas en surcos de la convexidad (frontales bilaterales y occipital derecho)
+T249	SYMPTOM 10999 11057	alteraciones significativas a nivel del polígono de Willis
+T62	SYMPTOM 13797 13814	afectación mitral
+T63	SYMPTOM 15511 15526	FEVI conservada

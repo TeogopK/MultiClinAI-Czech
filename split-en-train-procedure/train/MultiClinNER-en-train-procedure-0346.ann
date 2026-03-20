@@ -1,0 +1,19 @@
+T2	PROCEDURE 204 224	Physical examination
+T14	PROCEDURE 277 318	Renal and testicular-prostatic ultrasound
+T12	PROCEDURE 450 458	sediment
+T6	PROCEDURE 614 633	Immunological study
+T9	PROCEDURE 752 766	viral serology
+T7	PROCEDURE 771 785	tumour markers
+T26	PROCEDURE 799 874	Proteinogram-immunofixation with immunoglobulin (Ig)A-kappa monoclonal band
+T27	PROCEDURE 1061 1090	Anatomopathological diagnosis
+T28	PROCEDURE 1263 1323	renal depurative therapy with Theralite® high cut-off filter
+T10	PROCEDURE 1605 1627	to rebiopsy the kidney
+T31	PROCEDURE 1664 1682	depurative therapy
+T11	PROCEDURE 1688 1696	rebiopsy
+T5	PROCEDURE 1790 1811	high cut-off dialysis
+T33	PROCEDURE 1878 1890	chemotherapy
+T34	PROCEDURE 1973 1987	renal function
+T1	PROCEDURE 2034 2056	FLC depurative therapy
+T3	PROCEDURE 2144 2169	renal replacement therapy
+T8	PROCEDURE 2175 2206	conventional high-flux dialysis
+T4	PROCEDURE 2347 2372	renal replacement therapy

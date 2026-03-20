@@ -1,0 +1,17 @@
+T40	PROCEDURE 229 245	Cataract surgery
+T41	PROCEDURE 618 638	Physical examination
+T53	PROCEDURE 736 738	AP
+T52	PROCEDURE 792 794	AC
+T42	PROCEDURE 991 994	ECG
+T43	PROCEDURE 1148 1157	haemogram
+T54	PROCEDURE 1165 1177	biochemistry
+T55	PROCEDURE 1189 1201	electrolytes
+T44	PROCEDURE 1205 1216	Chest X-ray
+T45	PROCEDURE 1387 1415	Transthoracic echocardiogram
+T47	PROCEDURE 2067 2081	Blood cultures
+T48	PROCEDURE 2147 2167	antibiotic treatment
+T3	PROCEDURE 2197 2233	Treatment was started with diuretics
+T50	PROCEDURE 2238 2278	angiotensin-converting enzyme inhibitors
+T49	PROCEDURE 2295 2315	antibiotic treatment
+T51	PROCEDURE 2419 2449	transesophageal echocardiogram
+T46	PROCEDURE 2916 2944	transthoracic echocardiogram

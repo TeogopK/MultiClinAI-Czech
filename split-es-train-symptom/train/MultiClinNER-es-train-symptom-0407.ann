@@ -1,0 +1,10 @@
+T1	SYMPTOM 355 425	aumento de volumen que comprometía la zona de cuerpo y rama mandibular
+T2	SYMPTOM 144 210	aumento de volumen indoloro en relación a cuerpo y rama mandibular
+T3	SYMPTOM 560 580	compromiso sensitivo
+T4	SYMPTOM 914 937	indoloro a la palpación
+T5	SYMPTOM 1027 1064	lesión mixta de predominio radioopaco
+T6	SYMPTOM 1532 1570	adelgazamiento de las corticales óseas
+T7	SYMPTOM 488 509	compromiso de la piel
+T8	SYMPTOM 595 633	examen funcional mandibular era normal
+A1	IMAGEN T5
+A2	IMAGEN T6

@@ -1,0 +1,28 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 254 285	adjuvant chemotherapy treatment
+T72	PROCEDURE 343 354	FLOT scheme
+T1	PROCEDURE 615 670	chemotherapy with 5-fluorouracil in continuous infusion
+T58	PROCEDURE 992 1009	electrocardiogram
+T59	PROCEDURE 1011 1014	ECG
+T76	PROCEDURE 1743 1770	perfusion of 5-fluorouracil
+T60	PROCEDURE 1884 1887	ECG
+T69	PROCEDURE 1911 1985	Emergent coronary angiography was performed with ectatic coronary arteries
+T63	PROCEDURE 2029 2040	Aortography
+T56	PROCEDURE 2152 2172	Physical examination
+T65	PROCEDURE 2306 2326	Cardiac auscultation
+T66	PROCEDURE 2399 2423	Respiratory auscultation
+T75	PROCEDURE 2530 2548	Electrocardiograms
+T61	PROCEDURE 2550 2553	ECG
+T62	PROCEDURE 2689 2692	ECG
+T67	PROCEDURE 2861 2884	AP portable chest X-ray
+T2	PROCEDURE 2980 2996	Laboratory tests
+T3	PROCEDURE 3006 3017	blood tests
+T73	PROCEDURE 3240 3258	Myocardial enzymes
+T4	PROCEDURE 3371 3396	Complete laboratory tests
+T68	PROCEDURE 3423 3440	Metabolic profile
+T74	PROCEDURE 3537 3551	Liver function
+T70	PROCEDURE 3642 3662	Coronary angiography
+T64	PROCEDURE 3750 3761	Aortography
+T5	PROCEDURE 3824 3852	Transthoracic echocardiogram
+T71	PROCEDURE 4244 4264	intravenous nitrates
+T9	PROCEDURE 4662 4685	subtotal R2 gastrectomy

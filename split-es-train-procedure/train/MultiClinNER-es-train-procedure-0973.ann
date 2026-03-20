@@ -1,0 +1,30 @@
+T24	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T25	PROCEDURE 929 956	Auscultación cardiopulmonar
+T26	PROCEDURE 1154 1157	ECG
+T27	PROCEDURE 1445 1463	exploración física
+T28	PROCEDURE 1640 1652	TAC cerebral
+T30	PROCEDURE 1830 1842	TAC cerebral
+T31	PROCEDURE 2044 2058	Ecocardiograma
+T32	PROCEDURE 2352 2361	hemograma
+T33	PROCEDURE 2363 2368	iones
+T34	PROCEDURE 2370 2383	función renal
+T36	PROCEDURE 2631 2652	electrocardiográficos
+T37	PROCEDURE 2710 2723	anticoagulada
+T38	PROCEDURE 2728 2751	exploración neurológica
+T39	PROCEDURE 2951 2965	antiagregantes
+T40	PROCEDURE 3073 3095	TAC craneal y torácico
+T41	PROCEDURE 3267 3290	trombolisis intravenosa
+T42	PROCEDURE 3518 3539	trombectomía mecánica
+T43	PROCEDURE 3599 3619	reperfusión cerebral
+T44	PROCEDURE 3650 3664	ecocardiograma
+T45	PROCEDURE 3786 3821	coronariografía urgente vía femoral
+T46	PROCEDURE 4123 4139	tromboaspiración
+T47	PROCEDURE 4302 4326	implante de ningún stent
+T48	PROCEDURE 4361 4374	anticoagulada
+T49	PROCEDURE 4379 4400	angiografía coronaria
+T50	PROCEDURE 4596 4608	TAC cerebral
+T51	PROCEDURE 4873 4886	anticoagulada
+T82	PROCEDURE 2341 2350	Analítica
+T83	PROCEDURE 3302 3314	Código Ictus
+T99	PROCEDURE 2526 2565	perfusión de nitroglicerina intravenosa
+T100	PROCEDURE 2988 3004	prueba de imagen

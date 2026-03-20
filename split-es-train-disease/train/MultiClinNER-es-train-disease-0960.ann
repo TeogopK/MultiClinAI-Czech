@@ -1,0 +1,61 @@
+T54	DISEASE 89 112	alergias medicamentosas
+T55	DISEASE 141 149	fumadora
+T56	DISEASE 245 266	hipertensión arterial
+T57	DISEASE 268 271	HTA
+T58	DISEASE 277 294	diabetes mellitus
+T59	DISEASE 296 298	DM
+T60	DISEASE 301 337	Dislipemia tipo hipertrigliceridemia
+T61	DISEASE 415 436	Hemangiomas hepáticos
+T62	DISEASE 489 515	Colangitis biliar primaria
+T63	DISEASE 554 588	Trastorno de ansiedad generalizada
+T64	DISEASE 1143 1160	episodio catarral
+T65	DISEASE 2320 2345	trombosis venosa profunda
+T66	DISEASE 2347 2350	TVP
+T67	DISEASE 3497 3512	derrame pleural
+T68	DISEASE 3978 4012	insuficiencia mitral moderadagrave
+T69	DISEASE 4242 4281	Insuficiencia tricuspídea leve-moderada
+T70	DISEASE 4314 4333	derrame pericárdico
+T71	DISEASE 4536 4549	trombo apical
+T72	DISEASE 4928 4957	Insuficiencia mitral moderada
+T73	DISEASE 5128 5149	trombo intracavitario
+T74	DISEASE 5717 5750	Insuficiencia mitral leve central
+T75	DISEASE 5918 5956	Insuficiencia tricuspídea levemoderada
+T76	DISEASE 6135 6154	derrame pericárdico
+T77	DISEASE 6222 6238	edema miocárdico
+T78	DISEASE 6283 6294	miocarditis
+T79	DISEASE 6297 6318	cardiopatía isquémica
+T80	DISEASE 6683 6713	cuadro infeccioso respiratorio
+T81	DISEASE 6797 6814	angor de esfuerzo
+T82	DISEASE 7396 7478	disfunción sistólica ventricular izquierda moderada-grave por acinesia medioapical
+T83	DISEASE 7510 7552	insuficiencia mitral significativa por SAM
+T85	DISEASE 7693 7771	síndrome coronario agudo con elevación del segmento ST (SCACEST) inferolateral
+T86	DISEASE 7773 7785	pericarditis
+T87	DISEASE 7787 7802	miopericarditis
+T88	DISEASE 7804 7826	síndrome de tako-tsubo
+T89	DISEASE 7957 7976	lesiones coronarias
+T90	DISEASE 8068 8090	síndrome de tako-tsubo
+T91	DISEASE 8142 8157	daño miocárdico
+T92	DISEASE 8222 8234	pericarditis
+T93	DISEASE 8356 8376	hipotensión arterial
+T94	DISEASE 9137 9149	pericarditis
+T95	DISEASE 9305 9325	hipotensión arterial
+T96	DISEASE 9600 9622	síndrome de tako-tsubo
+T97	DISEASE 9653 9684	daño miocárdico por miocarditis
+T98	DISEASE 9687 9708	cardiopatía isquémica
+T99	DISEASE 9723 9745	Síndrome de tako-tsubo
+T100	DISEASE 9747 9765	Pericarditis aguda
+T101	DISEASE 9784 9795	miocarditis
+T102	DISEASE 9853 9895	insuficiencia mitral moderadagrave por SAM
+T103	DISEASE 9914 9936	síndrome de tako-tsubo
+T104	DISEASE 10058 10080	síndrome de tako-tsubo
+T105	DISEASE 10210 10225	fumadora activa
+T106	DISEASE 10227 10237	dislipemia
+T107	DISEASE 124 139	Hábitos tóxicos
+T108	DISEASE 5194 5209	daño miocárdico
+T109	DISEASE 7000 7015	daño miocárdico
+T110	DISEASE 1591 1599	síncopes
+T111	DISEASE 4335 4362	Vena cava inferior dilatada
+T112	DISEASE 7749 7756	SCACEST
+T113	DISEASE 8636 8654	eventos arrítmicos
+T114	DISEASE 3740 3775	Disfunción sistólica moderada-grave
+T171	DISEASE 4691 4749	Coronaria derecha dominante sin lesiones (espasmo mecánico

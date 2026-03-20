@@ -1,0 +1,47 @@
+T1	SYMPTOM 322 350	moderate oedema in both legs
+T2	SYMPTOM 355 374	exertional dyspnoea
+T19	SYMPTOM 502 525	haemodynamic compromise
+T29	SYMPTOM 572 595	losing 3-4 kg in weight
+T30	SYMPTOM 597 641	pain in the shoulder girdle, wrists and hips
+T31	SYMPTOM 656 678	difficulty in gripping
+T32	SYMPTOM 683 716	paresthesia in the hands and feet
+T33	SYMPTOM 792 814	Good general condition
+T3	SYMPTOM 815 824	Conscious
+T4	SYMPTOM 829 837	oriented
+T24	SYMPTOM 838 853	Eupneic at rest
+T14	SYMPTOM 891 921	Normal jugular venous pressure
+T20	SYMPTOM 954 975	neurological focality
+T34	SYMPTOM 979 986	macules
+T15	SYMPTOM 1009 1044	Normal cardiopulmonary auscultation
+T5	SYMPTOM 1049 1073	pericardial friction rub
+T35	SYMPTOM 1074 1112	Abdomen globular, soft and depressible
+T6	SYMPTOM 1113 1162	Extremities with tense oedema and skin induration
+T22	SYMPTOM 1212 1242	leukocytes with normal formula
+T36	SYMPTOM 1414 1432	Coagulation Normal
+T16	SYMPTOM 1434 1564	Microbial serology: Mycoplasma, Coxiella, Epstein- Barr (Ig M), Cytomegalovirus, Rose Bengal, Hepatitis B and Hepatitis C negative
+T17	SYMPTOM 1647 1660	ANCA negative
+T37	SYMPTOM 1662 1691	anticardiolipin Ig G negative
+T7	SYMPTOM 1693 1722	Anticardiolipin Ig M positive
+T38	SYMPTOM 1738 1761	ANA + (speckled pattern
+T39	SYMPTOM 1770 1774	ENAS
+T40	SYMPTOM 1778 1786	Anti DNA
+T25	SYMPTOM 1790 1817	complement C3 and C4 normal
+T26	SYMPTOM 1819 1836	rheumatoid factor
+T27	SYMPTOM 1840 1889	Peripheral blood smear: red series without atypia
+T8	SYMPTOM 1891 1931	Proteinogram and immunoglobulins: normal
+T41	SYMPTOM 1933 1950	Mantoux: negative
+T9	SYMPTOM 1970 1982	sinus rhythm
+T18	SYMPTOM 2011 2021	Narrow QRS
+T42	SYMPTOM 2030 2056	repolarisation alterations
+T10	SYMPTOM 2083 2109	Isolated negative T in AVL
+T43	SYMPTOM 2127 2138	infiltrates
+T23	SYMPTOM 2142 2148	masses
+T44	SYMPTOM 2164 2177	Increased CTI
+T21	SYMPTOM 2641 2689	preserved global and segmental systolic function
+T11	SYMPTOM 2691 2712	Normal mitral filling
+T45	SYMPTOM 2827 2841	RV not dilated
+T46	SYMPTOM 3226 3273	Left ventricle neither dilated nor hypertrophic
+T12	SYMPTOM 3323 3337	preserved LVEF
+T13	SYMPTOM 3389 3433	Right atrium with partial diastolic collapse
+T47	SYMPTOM 4129 4227	liver, gall bladder, bile duct, spleen, kidneys and adrenal glands without significant alterations
+T28	SYMPTOM 4337 4360	positive autoantibodies

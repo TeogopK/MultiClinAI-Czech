@@ -1,0 +1,25 @@
+T65	PROCEDURE 496 525	Ecocardiografía transtorácica
+T66	PROCEDURE 790 810	Cateterismo cardiaco
+T67	PROCEDURE 1105 1141	Prueba de esfuerzo con consumo de O2
+T68	PROCEDURE 1268 1311	Resonancia magnética nuclear (RMN) cardiaca
+T69	PROCEDURE 1298 1301	RMN
+T70	PROCEDURE 1460 1496	prueba de esfuerzo con consumo de O2
+T71	PROCEDURE 1618 1647	Ecocardiografía transtorácica
+T72	PROCEDURE 1780 1830	Se implanta desfibrilador resincronizador (DAI-TRC
+T73	PROCEDURE 1832 1868	terapia de resincronización cardiaca
+T74	PROCEDURE 2655 2673	EXPLORACIÓN FÍSICA
+T75	PROCEDURE 2838 2859	Auscultación cardiaca
+T76	PROCEDURE 2898 2919	Auscultación pulmonar
+T77	PROCEDURE 3484 3536	RADIOGRAFÍA DE TÓRAX: bipedestación, posteroanterior
+T78	PROCEDURE 3636 3654	ELECTROCARDIOGRAMA
+T79	PROCEDURE 3656 3659	ECG
+T80	PROCEDURE 3748 3777	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T81	PROCEDURE 4319 4344	apoyo inotrópico positivo
+T82	PROCEDURE 4511 4526	apoyo diurético
+T83	PROCEDURE 4634 4682	terapia resincronizadora del dispositivo DAI-TRC
+T84	PROCEDURE 5168 5203	análisis de los depósitos de hierro
+T85	PROCEDURE 5350 5392	corrección del déficil funcional de hierro
+T96	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T98	PROCEDURE 3074 3083	ANALÍTICA
+T124	PROCEDURE 3671 3712	marcapasos con estimulación biventricular
+T25	PROCEDURE 4271 4313	administración de un pulso de levosimendán

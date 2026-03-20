@@ -1,0 +1,57 @@
+T1	SYMPTOM 252 299	catecolaminas y metanefrinas en orina negativas
+T2	SYMPTOM 445 478	elevación del ST en cara inferior
+T3	SYMPTOM 629 669	acinesia de todos los segmentos apicales
+T4	SYMPTOM 1335 1376	ondas T prominentes en cara inferolateral
+T6	SYMPTOM 1919 1942	opresión centrotorácica
+T7	SYMPTOM 2015 2033	cortejo vegetativo
+T8	SYMPTOM 2046 2064	sudoración profusa
+T9	SYMPTOM 2067 2074	náuseas
+T10	SYMPTOM 2130 2152	molestias en hemitórax
+T11	SYMPTOM 2423 2445	Regular estado general
+T12	SYMPTOM 2447 2457	consciente
+T13	SYMPTOM 2460 2469	orientada
+T16	SYMPTOM 2500 2530	Auscultación cardiaca: rítmica
+T17	SYMPTOM 2548 2554	soplos
+T18	SYMPTOM 2579 2608	murmullo vesicular conservado
+T19	SYMPTOM 2610 2613	MVC
+T20	SYMPTOM 2635 2684	Miembros inferiores (MMII): simétricos sin edemas
+T22	SYMPTOM 2686 2714	pulsos periféricos palpables
+T23	SYMPTOM 2763 2768	dolor
+T25	SYMPTOM 2812 2826	onda P sinusal
+T26	SYMPTOM 2858 2870	QRS estrecho
+T27	SYMPTOM 2872 2887	descenso del ST
+T28	SYMPTOM 3538 3666	ventrículo izquierdo (VI) de diámetros normales (DTDVI 46 mm), sin hipertrofia de sus paredes y con función sistólica conservada
+T30	SYMPTOM 3693 3738	alteraciones de la contractilidad segmentaria
+T31	SYMPTOM 3750 3813	Ventrículo derecho no dilatado con función sistólica conservada
+T32	SYMPTOM 3815 3845	Patrón diastólico de VI normal
+T33	SYMPTOM 3847 3873	Aurículas de tamaño normal
+T37	SYMPTOM 4306 4361	cambios significativos en la repolarización ventricular
+T38	SYMPTOM 4617 4643	desniveles del segmento ST
+T41	SYMPTOM 5395 5451	alteraciones electrocardiográficas en cara inferolateral
+T43	SYMPTOM 6495 6502	cefalea
+T44	SYMPTOM 6505 6514	debilidad
+T45	SYMPTOM 6857 6871	dolor torácico
+T146	SYMPTOM 1266 1291	elevación del segmento ST
+T14	SYMPTOM 3875 3906	Raíz aórtica de diámetro normal
+T15	SYMPTOM 3994 4048	Válvula mitral con valvas de grosor y movilidad normal
+T29	SYMPTOM 6736 6748	asintomática
+T34	SYMPTOM 6933 6952	coronarias normales
+T35	SYMPTOM 1439 1458	coronarias normales
+T164	SYMPTOM 5750 5775	cambios isquémicos en ECG
+T165	SYMPTOM 6248 6288	cambios isquémicos en electrocardiograma
+T167	SYMPTOM 2471 2483	colaboradora
+T170	SYMPTOM 5629 5636	estable
+T173	SYMPTOM 4843 4918	Arteria descendente anterior (ADA): buen calibre y desarrollo, sin lesiones
+T174	SYMPTOM 4946 4998	Arteria circunfleja (ACX): no dominante sin lesiones
+T175	SYMPTOM 5000 5056	Arteria coronaria derecha (ACD): dominante, sin lesiones
+T5	SYMPTOM 302 317	cortisol normal
+T39	SYMPTOM 547 566	coronarias normales
+T42	SYMPTOM 674 713	contractilidad conservada a nivel basal
+T72	SYMPTOM 800 819	balonización apical
+T129	SYMPTOM 1378 1405	Elevación de troponina T Us
+T21	SYMPTOM 4715 4740	Buena capacidad funcional
+T130	SYMPTOM 4795 4841	tronco coronario izquierdo (TCI): sin lesiones
+T131	SYMPTOM 5239 5275	ACD se observa espasmo significativo
+T132	SYMPTOM 5152 5201	arbol coronario izquierdo, sin observarse cambios
+T134	SYMPTOM 5789 5842	coronariografías relativamente recientes sin lesiones
+T135	SYMPTOM 6160 6207	coronaria derecha que desencadena espasmo mayor

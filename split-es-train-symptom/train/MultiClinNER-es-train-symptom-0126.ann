@@ -1,0 +1,19 @@
+T1	SYMPTOM 1419 1424	mareo
+T2	SYMPTOM 1426 1433	náuseas
+T3	SYMPTOM 1435 1441	emesis
+T4	SYMPTOM 1443 1454	somnolencia
+T5	SYMPTOM 1457 1466	disartria
+T6	SYMPTOM 130 176	dolor lumbar izquierdo, tipo ardor y eléctrico
+T7	SYMPTOM 227 245	dolor es episódico
+T8	SYMPTOM 1070 1075	dolor
+T9	SYMPTOM 1812 1842	deterioro de su estado general
+T10	SYMPTOM 1861 1868	estupor
+T11	SYMPTOM 1870 1879	taquipnea
+T12	SYMPTOM 1881 1893	desaturación
+T13	SYMPTOM 1199 1211	dolor severo
+T14	SYMPTOM 1896 1919	dificultad respiratoria
+T15	SYMPTOM 1353 1358	dolor
+T16	SYMPTOM 2597 2602	dolor
+T17	SYMPTOM 1655 1667	dolor severo
+T18	SYMPTOM 2620 2653	pruebas de función renal normales
+A1	RESULTADO T18

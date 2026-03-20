@@ -1,0 +1,27 @@
+T14	PROCEDURE 86 103	dietary treatment
+T8	PROCEDURE 136 160	vocal cord decortication
+T2	PROCEDURE 260 280	Physical examination
+T1	PROCEDURE 306 324	Rectal examination
+T4	PROCEDURE 424 435	Blood tests
+T23	PROCEDURE 452 472	complete blood count
+T9	PROCEDURE 684 701	Coagulation study
+T17	PROCEDURE 719 731	Biochemistry
+T13	PROCEDURE 769 787	routine urine test
+T18	PROCEDURE 876 884	Sediment
+T11	PROCEDURE 922 936	urine cytology
+T33	PROCEDURE 977 999	simple abdominal X-ray
+T12	PROCEDURE 1059 1079	abdominal ultrasound
+T19	PROCEDURE 1320 1324	IVUS
+T20	PROCEDURE 1598 1607	Cystogram
+T6	PROCEDURE 1658 1668	Cystoscopy
+T36	PROCEDURE 1860 1884	Löwenstein urine culture
+T21	PROCEDURE 1903 1926	TUR of the bladder mass
+T22	PROCEDURE 1983 1992	pathology
+T15	PROCEDURE 2057 2078	Lowenstein urine test
+T7	PROCEDURE 2224 2249	tuberculostatic treatment
+T24	PROCEDURE 2535 2583	exudate in the left teste, the staining of which
+T16	PROCEDURE 2621 2631	Lowenstein
+T39	PROCEDURE 2648 2663	local dressings
+T10	PROCEDURE 2675 2696	testicular ultrasound
+T3	PROCEDURE 2924 2927	IVU
+T5	PROCEDURE 3288 3302	urine cultures

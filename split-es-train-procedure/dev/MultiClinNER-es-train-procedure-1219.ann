@@ -1,0 +1,67 @@
+T154	PROCEDURE 485 514	mastectomía parcial bilateral
+T155	PROCEDURE 1463 1481	EXPLORACIÓN FÍSICA
+T156	PROCEDURE 1840 1861	Auscultación cardiaca
+T157	PROCEDURE 1931 1952	Auscultación pulmonar
+T158	PROCEDURE 2117 2126	palpación
+T159	PROCEDURE 2364 2367	ECG
+T160	PROCEDURE 2564 2584	Radiografía de tórax
+T161	PROCEDURE 2869 2886	Gasometría venosa
+T162	PROCEDURE 3554 3563	Hemograma
+T163	PROCEDURE 3929 3940	Coagulación
+T164	PROCEDURE 4066 4095	Marcadores de daño miocárdico
+T165	PROCEDURE 4178 4191	Microbiología
+T166	PROCEDURE 4193 4221	PCR para virus respiratorios
+T167	PROCEDURE 4286 4314	Ecocardiograma transtorácico
+T168	PROCEDURE 4638 4666	Ecocardiograma transtorácico
+T169	PROCEDURE 5614 5642	Ecocardiograma transtorácico
+T170	PROCEDURE 5651 5666	weaning de ECMO
+T171	PROCEDURE 6704 6733	Resonancia magnética cardiaca
+T172	PROCEDURE 6735 6738	RMC
+T174	PROCEDURE 7759 7804	Anatomía patológica de biopsia endomiocárdica
+T175	PROCEDURE 8261 8273	sueroterapia
+T176	PROCEDURE 8445 8473	ecocardiograma transtorácico
+T177	PROCEDURE 8779 8791	sueroterapia
+T178	PROCEDURE 8927 8945	drogas vasoactivas
+T179	PROCEDURE 9033 9078	exudado nasofaríngeo para virus respiratorios
+T180	PROCEDURE 9135 9157	terapia antimicrobiana
+T181	PROCEDURE 9478 9544	monitorización hemodinámica invasiva mediante catéter de Swan-Ganz
+T182	PROCEDURE 9723 9751	ecocardiograma transtorácico
+T183	PROCEDURE 10401 10450	implante de balón de contrapulsación intraaórtico
+T184	PROCEDURE 10747 10763	cirugía cardiaca
+T185	PROCEDURE 10769 10807	implante urgente de ECMO veno-arterial
+T186	PROCEDURE 10876 10898	intubación orotraqueal
+T187	PROCEDURE 10900 10916	implante de ECMO
+T188	PROCEDURE 11273 11323	canalizar la arteria femoral para perfusión distal
+T189	PROCEDURE 11400 11410	canulación
+T190	PROCEDURE 11449 11471	biopsia endomiocárdica
+T191	PROCEDURE 11591 11595	ECMO
+T192	PROCEDURE 11611 11625	ecocardiograma
+T193	PROCEDURE 11688 11719	destete bajo control ecográfico
+T194	PROCEDURE 11859 11873	ecocardiograma
+T195	PROCEDURE 12015 12035	radiografía de tórax
+T196	PROCEDURE 12038 12056	ecografía pulmonar
+T197	PROCEDURE 12129 12143	toracocentesis
+T198	PROCEDURE 12337 12354	retirada del ECMO
+T199	PROCEDURE 12444 12459	politransfusión
+T200	PROCEDURE 12544 12581	retirada del balón de contrapulsación
+T201	PROCEDURE 12855 12884	resonancia magnética cardiaca
+T202	PROCEDURE 12995 13018	rehabilitación cardiaca
+T203	PROCEDURE 13381 13401	implante de ECMO V-A
+T204	PROCEDURE 13702 13726	canalización de ECMO V-A
+T208	PROCEDURE 9307 9325	soporte vasopresor
+T213	PROCEDURE 10584 10602	soporte vasopresor
+T217	PROCEDURE 12475 12493	soporte vasoactivo
+T218	PROCEDURE 3203 3213	Bioquímica
+T219	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T220	PROCEDURE 8900 8914	monitorización
+T221	PROCEDURE 5807 5811	ECMO
+T222	PROCEDURE 7340 7354	secuencia STIR
+T265	PROCEDURE 2845 2854	Analítica
+T266	PROCEDURE 1771 1786	Cabeza y cuello
+T293	PROCEDURE 8334 8343	analítica
+T333	PROCEDURE 12210 12235	perfusión de levosimendán
+T337	PROCEDURE 2191 2200	se palpan
+T82	PROCEDURE 2011 2018	Abdomen
+T84	PROCEDURE 2226 2249	Extremidades inferiores
+T85	PROCEDURE 7122 7149	secuencias de realce tardío
+T88	PROCEDURE 10608 10633	infusión de noradrenalina

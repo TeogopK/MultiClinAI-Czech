@@ -1,0 +1,42 @@
+T1	SYMPTOM 285 297	asintomático
+T2	SYMPTOM 317 330	palpitaciones
+T3	SYMPTOM 336 354	sensación de mareo
+T4	SYMPTOM 356 380	relajación de esfínteres
+T5	SYMPTOM 386 407	crisis tónico-clónica
+T6	SYMPTOM 409 428	mordedura de lengua
+T7	SYMPTOM 431 452	pérdida de conciencia
+T9	SYMPTOM 708 750	elevación de ST de V1 a V4 en cara lateral
+T10	SYMPTOM 1112 1122	consciente
+T11	SYMPTOM 1125 1134	orientado
+T12	SYMPTOM 1136 1154	Eupneico en reposo
+T13	SYMPTOM 1179 1186	rítmico
+T14	SYMPTOM 1192 1198	soplos
+T15	SYMPTOM 1241 1259	signos congestivos
+T16	SYMPTOM 1291 1304	ritmo sinusal
+T17	SYMPTOM 1312 1350	elevación de punto J y ST anteroseptal
+T18	SYMPTOM 2204 2226	Flujo coronario normal
+T19	SYMPTOM 2408 2441	correcta función sistólica global
+T20	SYMPTOM 2662 2715	ventrículo izquierdo (VI) no dilatado ni hipertrófico
+T21	SYMPTOM 2717 2752	Función sistólica global conservada
+T22	SYMPTOM 2814 2882	tamaño en límite superior de la normalidad, así como la raíz aórtica
+T23	SYMPTOM 3047 3072	Cava inferior no dilatada
+T24	SYMPTOM 3125 3138	Mitral normal
+T26	SYMPTOM 3158 3182	Patrón diastólico normal
+T27	SYMPTOM 3421 3440	VI de tamaño normal
+T28	SYMPTOM 3446 3470	función sistólica normal
+T29	SYMPTOM 3492 3539	ventrículo derecho (VD), con función conservada
+T30	SYMPTOM 3626 3650	realce tardio miocárdico
+T31	SYMPTOM 3652 3674	Aurículas no dilatadas
+T32	SYMPTOM 3877 3889	asintomático
+T33	SYMPTOM 3943 3992	ecocardiograma, que muestra función del VI normal
+T92	SYMPTOM 1223 1235	normoventila
+T93	SYMPTOM 2792 2856	Aurícula izquierda de tamaño en límite superior de la normalidad
+T94	SYMPTOM 4522 4551	Coronarias libres de lesiones
+T108	SYMPTOM 2134 2152	dominancia derecha
+T120	SYMPTOM 1710 1730	proteinograma normal
+T98	SYMPTOM 2154 2202	Arterias coronarias sin estenosis significativas
+T99	SYMPTOM 2228 2254	Tronco común: Sin lesiones
+T100	SYMPTOM 2338 2364	Circunfleja: sin estenosis
+T101	SYMPTOM 2366 2388	Derecha: sin estenosis
+T103	SYMPTOM 3184 3233	Arteria pulmonar con muy leve aumento de diámetro
+T104	SYMPTOM 3541 3592	Músculo accesorio papilar en el seno del ventrículo

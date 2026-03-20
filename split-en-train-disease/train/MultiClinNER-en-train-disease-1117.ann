@@ -1,0 +1,30 @@
+T50	DISEASE 83 110	acute myocardial infarction
+T40	DISEASE 190 225	insulin-dependent diabetes mellitus
+T42	DISEASE 291 305	drug allergies
+T43	DISEASE 357 363	Smoker
+T59	DISEASE 461 468	smoking
+T2	DISEASE 516 572	Diabetes mellitus type 2 for 22 years, insulin-dependent
+T44	DISEASE 574 587	dyslipidaemia
+T1	DISEASE 589 601	hypertension
+T46	DISEASE 603 625	Chronic kidney disease
+T48	DISEASE 698 723	lumbar malignant melanoma
+T49	DISEASE 763 791	Benign prostatic hypertrophy
+T51	DISEASE 1054 1081	acute myocardial infarction
+T53	DISEASE 1162 1175	heart failure
+T4	DISEASE 1514 1637	anterior descending artery (AD) of good calibre and extension with critical lesion in proximal-middle third and long plaque
+T5	DISEASE 1716 1787	non-dominant circumflex artery (Cx) with minimal non-significant plaque
+T54	DISEASE 2158 2181	ischaemic heart disease
+T55	DISEASE 2295 2302	obesity
+T9	DISEASE 2904 3026	good calibre and extension LAD with critical lesion in the proximal-middle third and long plaque with significant stenosis
+T10	DISEASE 3083 3134	non-dominant Cx with minimal non-significant plaque
+T11	DISEASE 3251 3307	dominant DC with minimal proximal non-significant plaque
+T57	DISEASE 3700 3723	tricuspid insufficiency
+T12	DISEASE 3725 3727	TI
+T58	DISEASE 3780 3800	pericardial effusion
+T52	DISEASE 4786 4831	Acute myocardial infarction without ST Killip
+T17	DISEASE 4862 4914	Significant coronary artery disease of a main vessel
+T41	DISEASE 4924 4959	insulin-dependent diabetes mellitus
+T56	DISEASE 4989 5004	Obesity grade I
+T60	DISEASE 5006 5013	Smoking
+T45	DISEASE 5015 5028	Dyslipidaemia
+T47	DISEASE 5030 5052	Chronic kidney disease

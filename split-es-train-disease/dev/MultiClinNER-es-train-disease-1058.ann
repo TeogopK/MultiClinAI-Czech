@@ -1,0 +1,38 @@
+T8	DISEASE 658 693	taquicardia rítmica de QRS estrecho
+T34	DISEASE 101 109	alergias
+T35	DISEASE 195 221	infarto agudo de miocardio
+T36	DISEASE 223 226	IAM
+T37	DISEASE 386 407	crisis tónico-clónica
+T38	DISEASE 512 535	fibrilación ventricular
+T39	DISEASE 537 539	FV
+T40	DISEASE 813 820	infarto
+T41	DISEASE 859 881	DA mostrando estenosis
+T42	DISEASE 2485 2505	insuficiencia mitral
+T43	DISEASE 2913 2945	hiperplasia de músculos pailares
+T44	DISEASE 2984 3009	insuficiencia tricuspídea
+T45	DISEASE 3011 3013	IT
+T46	DISEASE 3356 3390	Leve hipertensión arterial pulmona
+T47	DISEASE 3393 3396	HAP
+T48	DISEASE 3472 3510	Leve dilatación del ventrículo derecho
+T49	DISEASE 4297 4316	síndrome de Brugada
+T50	DISEASE 4434 4453	síndrome de Brugada
+T51	DISEASE 4568 4587	Síndrome de Brugada
+T52	DISEASE 2256 2287	Descendente anterior: estenosis
+T53	DISEASE 4152 4155	HAP
+T54	DISEASE 2507 2509	IM
+T55	DISEASE 4407 4410	PCR
+T56	DISEASE 4510 4520	PCR por FV
+T57	DISEASE 2884 2897	Dilatación VD
+T58	DISEASE 3994 4010	Dilatación de VD
+T59	DISEASE 4379 4429	parada cardiorrespiratoria (PCR) por FV recuperada
+T91	DISEASE 965 984	lesiones coronarias
+T25	DISEASE 4028 4078	hiperplasia de músculos papilares y pared anterior
+T97	DISEASE 1306 1309	BRD
+T102	DISEASE 2539 2541	EV
+T105	DISEASE 4105 4150	leve aumento del diámetro de arteria pulmonar
+#1	AnnotatorNotes T47	  Hipertensión arterial pulmonar
+#2	AnnotatorNotes T53	  Hipertensión arterial pulmonar
+#3	AnnotatorNotes T54	  insuficiencia mitral
+#4	AnnotatorNotes T55	  Parada cardiorespiratoria
+#5	AnnotatorNotes T56	  PCR: parada cardiorespiratoria, FV fibrilación ventricular
+#6	AnnotatorNotes T57	  VD: ventrículo derecho

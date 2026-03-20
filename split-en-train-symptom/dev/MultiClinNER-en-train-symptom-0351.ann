@@ -1,0 +1,45 @@
+T1	SYMPTOM 65 70	cough
+T3	SYMPTOM 72 80	headache
+T38	SYMPTOM 97 117	dyspnoea on exertion
+T4	SYMPTOM 162 188	mucopurulent expectoration
+T5	SYMPTOM 193 198	fever
+T7	SYMPTOM 363 379	dyspnoea at rest
+T8	SYMPTOM 388 405	retrosternal pain
+T9	SYMPTOM 410 422	palpitations
+T10	SYMPTOM 602 611	conscious
+T47	SYMPTOM 613 624	tachypnoeic
+T48	SYMPTOM 626 634	sweating
+T11	SYMPTOM 644 665	jugular ingurgitation
+T32	SYMPTOM 697 723	diffuse bilateral crackles
+T53	SYMPTOM 756 777	rhythmic, rapid tones
+T18	SYMPTOM 786 793	murmurs
+T19	SYMPTOM 797 815	extra heart sounds
+T56	SYMPTOM 821 853	abdomen was soft and depressible
+T57	SYMPTOM 862 874	organomegaly
+T58	SYMPTOM 886 914	no oedema in the extremities
+T33	SYMPTOM 919 951	peripheral pulses were preserved
+T12	SYMPTOM 984 1010	leukocytes with left shift
+T25	SYMPTOM 1188 1207	Normal biochemistry
+T13	SYMPTOM 1281 1311	bilateral interstitial pattern
+T26	SYMPTOM 1458 1493	left ventricle of normal dimensions
+T21	SYMPTOM 2040 2060	interstitial pattern
+T69	SYMPTOM 2116 2176	antinuclear antibodies, rheumatoid factor, Mantoux, negative
+T27	SYMPTOM 2182 2208	thyroid profile was normal
+T28	SYMPTOM 2210 2278	Pericardial fluid culture was negative, as were three blood cultures
+T29	SYMPTOM 2439 2467	negative for malignant cells
+T35	SYMPTOM 2469 2524	Carcinoembryonic antigen (CEA) was found to be elevated
+T16	SYMPTOM 2551 2687	serologies for human immunodeficiency virus, Mycoplasma pneumoniae, cytomegalovirus, Epstein Barr and Chlamydia pneumoniae were negative
+T30	SYMPTOM 2699 2740	IgM to cytomegalovirus which was positive
+T14	SYMPTOM 2997 3053	bilateral and diffuse alterations of the lung parenchyma
+T22	SYMPTOM 3062 3129	interstitial pattern of nodular septal reticulum and lobular centre
+T75	SYMPTOM 3144 3260	patchy alveolar condensation predominantly distributed in the apical segment of the lower lobes and both upper lobes
+T20	SYMPTOM 3316 3359	vocal cords and trachea without alterations
+T31	SYMPTOM 3373 3404	widening in the subcarinal area
+T36	SYMPTOM 3410 3446	bronchial tree showed no alterations
+T77	SYMPTOM 4080 4112	eosinophilia in peripheral blood
+T6	SYMPTOM 4261 4266	fever
+T17	SYMPTOM 4270 4278	dyspnoea
+T2	SYMPTOM 4333 4338	cough
+T34	SYMPTOM 4344 4364	mucous expectoration
+T23	SYMPTOM 4470 4490	ground glass pattern
+T24	SYMPTOM 4656 4684	nodular interstitial pattern

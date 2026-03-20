@@ -1,0 +1,20 @@
+T44	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T56	PROCEDURE 1053 1072	depletive treatment
+T1	PROCEDURE 1082 1100	surgical treatment
+T45	PROCEDURE 1103 1123	Physical examination
+T46	PROCEDURE 1215 1235	Cardiac auscultation
+T47	PROCEDURE 1358 1380	Pulmonary auscultation
+T2	PROCEDURE 1616 1619	CBC
+T48	PROCEDURE 1621 1630	haemogram
+T3	PROCEDURE 1757 1769	Biochemistry
+T49	PROCEDURE 1854 1857	ECG
+T50	PROCEDURE 2032 2043	Chest X-ray
+T51	PROCEDURE 2115 2143	Transthoracic echocardiogram
+T57	PROCEDURE 2734 2753	depletive treatment
+T4	PROCEDURE 2796 2817	balloon valvuloplasty
+T5	PROCEDURE 2853 2871	surgical treatment
+T6	PROCEDURE 2891 2951	replacement of the mitral valve with a biological prosthesis
+T53	PROCEDURE 2958 2980	tricuspid annuloplasty
+T54	PROCEDURE 3030 3046	vasoactive drugs
+T55	PROCEDURE 3051 3073	pulmonary vasodilators
+T7	PROCEDURE 3260 3285	echocardiographic control

@@ -1,0 +1,50 @@
+T1	SYMPTOM 70 75	fever
+T4	SYMPTOM 105 111	chills
+T5	SYMPTOM 113 122	shivering
+T2	SYMPTOM 241 246	fever
+T6	SYMPTOM 265 273	asthenia
+T7	SYMPTOM 290 309	osteoarticular pain
+T8	SYMPTOM 314 319	cough
+T9	SYMPTOM 324 337	expectoration
+T10	SYMPTOM 342 350	dyspnoea
+T11	SYMPTOM 355 365	chest pain
+T12	SYMPTOM 370 376	nausea
+T13	SYMPTOM 380 388	vomiting
+T32	SYMPTOM 390 401	Soft stools
+T37	SYMPTOM 455 475	micturition symptoms
+T3	SYMPTOM 603 608	fever
+T14	SYMPTOM 613 628	general malaise
+T15	SYMPTOM 942 952	joint pain
+T16	SYMPTOM 954 965	Weight loss
+T33	SYMPTOM 1381 1402	DDDR pacemaker wearer
+T38	SYMPTOM 1998 2011	Normal colour
+T39	SYMPTOM 2017 2025	hydrated
+T17	SYMPTOM 2030 2038	jaundice
+T18	SYMPTOM 2055 2085	Normal pharynx without exudate
+T40	SYMPTOM 2092 2100	crepitus
+T19	SYMPTOM 2114 2126	inflammation
+T34	SYMPTOM 2155 2167	AC: Rhythmic
+T20	SYMPTOM 2169 2196	Mitral regurgitation murmur
+T41	SYMPTOM 2201 2233	valvular click in aortic murmur.
+T42	SYMPTOM 2240 2265	Normal respiratory sounds
+T43	SYMPTOM 2269 2290	Abdomen: soft, tender
+T21	SYMPTOM 2296 2303	painful
+T22	SYMPTOM 2317 2323	masses
+T44	SYMPTOM 2327 2340	visceromegaly
+T23	SYMPTOM 2344 2370	Extremities without oedema
+T24	SYMPTOM 2377 2392	palpable pulses
+T25	SYMPTOM 2432 2455	loss of skin continuity
+T26	SYMPTOM 2459 2468	Conscious
+T27	SYMPTOM 2470 2478	oriented
+T45	SYMPTOM 2480 2491	cooperative
+T46	SYMPTOM 2493 2506	normal speech
+T28	SYMPTOM 2508 2529	mobilises all 4 limbs
+T29	SYMPTOM 2531 2552	normal cranial nerves
+T30	SYMPTOM 2554 2578	Negative meningeal signs
+T31	SYMPTOM 2615 2631	pacemaker rhythm
+T35	SYMPTOM 2995 3038	Brucellamelitensisrosa de bengala: negative
+T47	SYMPTOM 3647 3659	preserved EF
+T48	SYMPTOM 3824 3852	Biological aortic prosthesis
+T49	SYMPTOM 3959 3982	Positive blood cultures
+T50	SYMPTOM 4055 4097	focal increase of activity on mitral valve
+T36	SYMPTOM 4498 4533	with prosthetic valve and pacemaker

@@ -1,0 +1,12 @@
+T3	PROCEDURE 231 252	Abdominal examination
+T1	PROCEDURE 592 612	abdominal ultrasound
+T14	PROCEDURE 768 775	surgery
+T6	PROCEDURE 835 847	appendectomy
+T2	PROCEDURE 1079 1099	abdominal ultrasound
+T18	PROCEDURE 1188 1206	lab investigations
+T4	PROCEDURE 1416 1429	stool culture
+T21	PROCEDURE 1448 1472	empirical antibiotherapy
+T5	PROCEDURE 1519 1532	stool culture
+T7	PROCEDURE 1593 1613	Antibiotic treatment
+T24	PROCEDURE 1775 1782	surgery
+T25	PROCEDURE 1788 1835	anatomopathological study of the cecal appendix

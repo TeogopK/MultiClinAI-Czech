@@ -1,0 +1,38 @@
+T1	DISEASE 110 127	smoking cessation
+T28	DISEASE 129 150	arterial hypertension
+T31	DISEASE 152 172	chronic bronchopathy
+T32	DISEASE 174 202	microcrystalline arthropathy
+T33	DISEASE 204 223	atrial fibrillation
+T36	DISEASE 267 296	severe valvular insufficiency
+T68	DISEASE 320 351	decompensation of heart failure
+T38	DISEASE 437 444	anaemia
+T2	DISEASE 584 630	Mitral annulopasty with residual insufficiency
+T44	DISEASE 642 673	Moderate pulmonary hypertension
+T66	DISEASE 675 696	Bicuspid aortic valve
+T3	DISEASE 797 843	colon carcinoma in the rectum-sigmoid junction
+T39	DISEASE 873 880	anaemia
+T45	DISEASE 3005 3038	complete left bundle branch block
+T47	DISEASE 3124 3137	heart failure
+T52	DISEASE 3412 3436	biventricular dilatation
+T4	DISEASE 3438 3487	Mitral and aortic insufficiency at least moderate
+T5	DISEASE 3521 3653	bicuspid aortic valve with infiltration and destructuring of the entire fused leaflet that prolapses and causes severe insufficiency
+T37	DISEASE 3997 4026	severe valvular insufficiency
+T48	DISEASE 4180 4193	heart failure
+T40	DISEASE 4214 4221	anaemia
+T69	DISEASE 4451 4482	decompensation of heart failure
+T53	DISEASE 4591 4611	SARS-CoV-2 infection
+T54	DISEASE 4652 4660	COVID-19
+T57	DISEASE 4915 4936	coronavirus infection
+T50	DISEASE 4981 4994	heart failure
+T58	DISEASE 5013 5035	infective endocarditis
+T59	DISEASE 5056 5071	chronic anaemia
+T55	DISEASE 5137 5145	COVID-19
+T56	DISEASE 5720 5728	COVID-19
+T60	DISEASE 6483 6521	mixed cardiogenic and vasoplegic shock
+T62	DISEASE 6823 6874	atrial fibrillation with rapid ventricular response
+T6	DISEASE 7134 7211	Decompensation of predominantly left-sided heart failure secondary to anaemia
+T7	DISEASE 7216 7294	infective aortic and mitral endocarditis due to E. faecium with severe failure
+T64	DISEASE 7327 7365	chronic microcytic hypochromic anaemia
+T8	DISEASE 7407 7452	Mild respiratory infection due to SARS-CoV-2.
+T61	DISEASE 7453 7491	Mixed cardiogenic and vasoplegic shock
+T65	DISEASE 7601 7660	De novo atrial fibrillation with rapid ventricular response

@@ -1,0 +1,28 @@
+T80	PROCEDURE 745 775	anticoagulada con acenocumarol
+T81	PROCEDURE 1026 1041	coronariografía
+T82	PROCEDURE 1303 1331	ecocardiograma transtorácico
+T83	PROCEDURE 1500 1538	cirugía de revascularización coronaria
+T84	PROCEDURE 1578 1715	implante de cuatro injertos vasculares (arteria mamaria a DA distal, vena safena en "Y" a bisectriz y OM1 y vena safena a CD media-distal
+T85	PROCEDURE 2232 2264	ventilación mecánica no invasiva
+T86	PROCEDURE 2266 2270	VMNI
+T88	PROCEDURE 2420 2438	electrocardiograma
+T89	PROCEDURE 2660 2675	coronariografía
+T90	PROCEDURE 2743 2772	resonancia magnética cardiaca
+T91	PROCEDURE 3068 3148	implante de un desfibrilador automático implantable (DAI) monocameral subcutáneo
+T92	PROCEDURE 3316 3331	perfil lipídico
+T93	PROCEDURE 3591 3628	tratamiento con antidiabéticos orales
+T94	PROCEDURE 4010 4056	Radiografía de tórax posteroanterior y lateral
+T95	PROCEDURE 4185 4197	esternotomía
+T96	PROCEDURE 4199 4217	Electrocardiograma
+T97	PROCEDURE 4330 4358	Ecocardiograma transtorácico
+T98	PROCEDURE 5408 5423	Coronariografía
+T99	PROCEDURE 6444 6473	Resonancia magnética cardiaca
+T100	PROCEDURE 7977 7998	tratamiento diurético
+T101	PROCEDURE 8578 8607	resonancia magnética cardiaca
+T102	PROCEDURE 8654 8725	arterial coronaria de 3 vasos revascularizada mediante cuádruple bypass
+T111	PROCEDURE 2328 2361	soporte inotrópico con dobutamina
+T124	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T134	PROCEDURE 8921 8946	anticoagulada con sintrom
+T18	PROCEDURE 8044 8061	descargas del DAI
+T19	PROCEDURE 8462 8478	descargas de DAI
+T10	PROCEDURE 8838 8863	DAI monocameral Biotronik

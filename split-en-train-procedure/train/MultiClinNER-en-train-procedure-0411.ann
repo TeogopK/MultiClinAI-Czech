@@ -1,0 +1,14 @@
+T1	PROCEDURE 115 128	haemodialysis
+T3	PROCEDURE 237 249	transfusions
+T13	PROCEDURE 282 325	renal transplantation from a deceased donor
+T9	PROCEDURE 390 447	Induction with alemtuzumab and methylprednisolone boluses
+T16	PROCEDURE 606 613	surgery
+T5	PROCEDURE 969 982	Graft Doppler
+T4	PROCEDURE 1110 1122	transfusions
+T2	PROCEDURE 1140 1153	haemodialysis
+T24	PROCEDURE 1189 1214	biopsy of the renal graft
+T28	PROCEDURE 1566 1622	treatment was carried out with methylprednisolone pulses
+T6	PROCEDURE 1624 1638	plasmapheresis
+T7	PROCEDURE 1670 1690	exchange transfusion
+T30	PROCEDURE 1759 1774	transplantation
+T8	PROCEDURE 1804 1829	renal replacement therapy

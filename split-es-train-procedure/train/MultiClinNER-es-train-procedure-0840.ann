@@ -1,0 +1,39 @@
+T90	PROCEDURE 1074 1101	TC de abdomen con contraste
+T91	PROCEDURE 1565 1583	EXPLORACIÓN FÍSICA
+T92	PROCEDURE 1718 1732	pulsioximetría
+T93	PROCEDURE 2053 2074	Auscultación cardiaca
+T94	PROCEDURE 2134 2155	Auscultación pulmonar
+T95	PROCEDURE 2334 2356	auscultación abdominal
+T96	PROCEDURE 2519 2528	Hemograma
+T97	PROCEDURE 2762 2773	Coagulación
+T98	PROCEDURE 2800 2820	Bioquímica sanguínea
+T99	PROCEDURE 3293 3313	Radiografía de tórax
+T100	PROCEDURE 3436 3454	Electrocardiograma
+T101	PROCEDURE 3456 3459	ECG
+T102	PROCEDURE 3794 3830	TC con contraste de abdomen y pelvis
+T103	PROCEDURE 4503 4532	Ecocardiografía transtorácica
+T104	PROCEDURE 5240 5255	Estudio Doppler
+T105	PROCEDURE 5599 5614	Coronariografía
+T106	PROCEDURE 5675 5714	Anatomía patológica de la masa resecada
+T107	PROCEDURE 6112 6114	TC
+T108	PROCEDURE 6142 6171	ecocardiografía transtorácica
+T109	PROCEDURE 6174 6189	coronariografía
+T110	PROCEDURE 6278 6300	cirugía cardiovascular
+T112	PROCEDURE 6616 6628	TC abdominal
+T113	PROCEDURE 6797 6833	apertura mediante esternotomía media
+T114	PROCEDURE 6873 6891	atriotomía derecha
+T115	PROCEDURE 6896 6927	reseca la masa atrial izquierda
+T116	PROCEDURE 6951 7010	cerrando el defecto septal residual mediante sutura directa
+T117	PROCEDURE 7015 7034	anatomía patológica
+T118	PROCEDURE 7397 7420	cardioversión eléctrica
+T119	PROCEDURE 7570 7595	tratamiento antiarrítmico
+T120	PROCEDURE 7781 7808	adición de beta bloqueantes
+T121	PROCEDURE 8051 8077	estudio electrofisiológico
+T122	PROCEDURE 8144 8186	ablación exitosa del istmo cavotricuspídeo
+T125	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T126	PROCEDURE 8659 8709	Flutter auricular Ístmico antihorario con ablación
+T127	PROCEDURE 8413 8453	implante de marcapasos definitivo (DDDR)
+T128	PROCEDURE 8845 8883	implante de marcapasos definitivo DDDR
+T129	PROCEDURE 8340 8390	colocar un dispositivo de estimulación transitorio
+T131	PROCEDURE 2497 2506	Analítica
+T146	PROCEDURE 3128 3139	Urianálisis

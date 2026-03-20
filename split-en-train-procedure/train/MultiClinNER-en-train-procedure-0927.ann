@@ -1,0 +1,32 @@
+T36	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T37	PROCEDURE 318 338	Physical examination
+T38	PROCEDURE 413 433	Cardiac auscultation
+T39	PROCEDURE 472 494	Pulmonary auscultation
+T49	PROCEDURE 567 583	ECHOCARDIOGRAPHY
+T40	PROCEDURE 597 608	Chest X-ray
+T2	PROCEDURE 618 634	Laboratory tests
+T59	PROCEDURE 636 648	biochemistry
+T60	PROCEDURE 718 723	Gases
+T3	PROCEDURE 796 805	Haemogram
+T57	PROCEDURE 890 901	Coagulation
+T41	PROCEDURE 938 975	Abdominal CT scan with chest sections
+T42	PROCEDURE 1211 1225	Blood cultures
+T50	PROCEDURE 1274 1288	echocardiogram
+T51	PROCEDURE 1423 1437	echocardiogram
+T52	PROCEDURE 1467 1481	echocardiogram
+T43	PROCEDURE 1603 1617	blood cultures
+T47	PROCEDURE 1726 1738	abdominal CT
+T44	PROCEDURE 1852 1866	blood cultures
+T53	PROCEDURE 2043 2071	transthoracic echocardiogram
+T5	PROCEDURE 2258 2276	Antibiotic therapy
+T58	PROCEDURE 2395 2416	acute phase reactants
+T45	PROCEDURE 2436 2450	blood cultures
+T54	PROCEDURE 2476 2490	echocardiogram
+T6	PROCEDURE 2527 2545	antibiotic therapy
+T48	PROCEDURE 2676 2696	antibiotic treatment
+T7	PROCEDURE 2704 2730	echocardiographic check-up
+T55	PROCEDURE 2801 2815	echocardiogram
+T61	PROCEDURE 2858 2879	surgical intervention
+T8	PROCEDURE 3012 3035	vegetation was resected
+T9	PROCEDURE 3044 3077	VSD was closed with direct suture
+T56	PROCEDURE 3134 3147	haemodialysis

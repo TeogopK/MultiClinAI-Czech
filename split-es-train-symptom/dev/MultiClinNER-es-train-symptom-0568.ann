@@ -1,0 +1,19 @@
+T1	SYMPTOM 1725 1750	ascenso gradual de la PIO
+T2	SYMPTOM 186 201	reducción de AV
+T3	SYMPTOM 592 608	hipotonía ocular
+T4	SYMPTOM 1123 1143	engrosamiento foveal
+T5	SYMPTOM 277 292	edema de Berlin
+T6	SYMPTOM 684 708	pliegues retinocoroideos
+T7	SYMPTOM 711 726	edema de papila
+T8	SYMPTOM 1844 1859	edema de papila
+T9	SYMPTOM 214 220	hifema
+T10	SYMPTOM 409 415	hifema
+T11	SYMPTOM 837 851	ángulo abierto
+T12	SYMPTOM 983 1010	desgarro de la raíz de iris
+T13	SYMPTOM 2071 2094	normalización de la PIO
+A1	IMAGEN T4
+A2	RESULTADO T6
+A3	RESULTADO T7
+A4	RESULTADO T11
+A5	RESULTADO T12
+A6	RESULTADO T13

@@ -1,0 +1,28 @@
+T1	PROCEDURE 2407 2419	cristaloides
+T2	PROCEDURE 3193 3260	parámetros hemodinámicos medidos con el catéter de arteria pulmonar
+T3	PROCEDURE 2422 2430	coloides
+T4	PROCEDURE 3296 3325	infusión del azul de metileno
+T5	PROCEDURE 1952 1978	perfusión de noradrenalina
+T6	PROCEDURE 292 312	estudio hemodinámico
+T7	PROCEDURE 2142 2164	drenajes mediastínicos
+T8	PROCEDURE 2710 2734	control ecocardiográfico
+T9	PROCEDURE 2194 2220	radiología simple de tórax
+T10	PROCEDURE 3627 3646	gasometría arterial
+T11	PROCEDURE 2349 2367	electrocardiograma
+T12	PROCEDURE 520 531	cateterismo
+T13	PROCEDURE 835 951	revascularización miocárdica programada mediante injertos de vena safena a CD y a diagonal y de arteria mamaria a DA
+T14	PROCEDURE 1108 1117	anestesia
+T15	PROCEDURE 1277 1330	derivación cardiopulmonar habitual con flujo pulsátil
+T16	PROCEDURE 3036 3048	hemocultivos
+T17	PROCEDURE 1074 1084	hipotermia
+T18	PROCEDURE 2657 2665	sedación
+T19	PROCEDURE 4276 4288	fue extubado
+T20	PROCEDURE 1606 1629	perfusión de dobutamina
+T21	PROCEDURE 2118 2129	ventilación
+T22	PROCEDURE 2501 2527	perfusión de noradrenalina
+T23	PROCEDURE 2599 2622	perfusión de dobutamina
+T24	PROCEDURE 2369 2372	ECG
+T25	PROCEDURE 1001 1004	CEC
+T26	PROCEDURE 1395 1410	salida de bomba
+T29	PROCEDURE 692 699	cirugía
+#1	AnnotatorNotes T25	     CEC: circulación extracorpórea

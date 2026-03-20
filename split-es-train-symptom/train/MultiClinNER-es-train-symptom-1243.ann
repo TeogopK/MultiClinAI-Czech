@@ -1,0 +1,33 @@
+T1	SYMPTOM 1331 1349	mal estado general
+T2	SYMPTOM 1352 1365	palpitaciones
+T3	SYMPTOM 1371 1395	estabilidad hemodinámica
+T4	SYMPTOM 1714 1723	arrítmica
+T5	SYMPTOM 1788 1801	ritmo sinusal
+T6	SYMPTOM 1883 1904	ingurgitación yugular
+T7	SYMPTOM 1929 1958	murmullo vesicular conservado
+T8	SYMPTOM 1963 1976	sobreañadidos
+T9	SYMPTOM 2001 2026	ruidos cardíacos rítmicos
+T10	SYMPTOM 2028 2057	soplo sistólico II/VI en ápex
+T11	SYMPTOM 2059 2087	Abdomen: blando, no doloroso
+T13	SYMPTOM 2115 2149	Extremidades inferiores sin edemas
+T14	SYMPTOM 2151 2187	Pulsos pedios palpables y simétricos
+T15	SYMPTOM 3046 3074	índice cardiotorácico normal
+T17	SYMPTOM 3103 3137	pinzamiento de senos costofrénicos
+T19	SYMPTOM 3368 3382	disociación AV
+T20	SYMPTOM 3457 3489	ventrículo izquierdo no dilatado
+T21	SYMPTOM 3529 3564	función global sistólica conservada
+T22	SYMPTOM 3641 3704	Ventrículo derecho de tamaño normal y contractilidad conservada
+T23	SYMPTOM 3777 3823	Patrón de llenado: alteración de la relajación
+T25	SYMPTOM 5107 5138	función global sistólica normal
+T30	SYMPTOM 5583 5596	ritmo sinusal
+T32	SYMPTOM 5882 5895	ritmo sinusal
+T33	SYMPTOM 5923 5933	onda delta
+T34	SYMPTOM 6124 6134	onda delta
+T35	SYMPTOM 6345 6378	QRS basal estrecho sin onda delta
+T36	SYMPTOM 6469 6482	ritmo sinusal
+T126	SYMPTOM 999 1010	FEVI normal
+T132	SYMPTOM 3349 3367	latidos de fusión,
+T134	SYMPTOM 3879 3891	Aorta normal
+T135	SYMPTOM 4538 4549	taquicardia
+T150	SYMPTOM 3089 3099	congestión
+T120	SYMPTOM 5714 5758	pseudo-onda delta en derivaciones inferiores

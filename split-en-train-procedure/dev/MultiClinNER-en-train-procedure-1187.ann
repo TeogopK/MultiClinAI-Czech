@@ -1,0 +1,24 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 490 581	emergent angioplasty on proximal anterior descending artery (ADA) with a drug-eluting stent
+T2	PROCEDURE 850 866	heart transplant
+T4	PROCEDURE 1628 1655	proximal LAD revascularised
+T3	PROCEDURE 1812 1828	heart transplant
+T56	PROCEDURE 1922 1942	pre-transplant study
+T60	PROCEDURE 2182 2192	transplant
+T63	PROCEDURE 2677 2697	Physical examination
+T64	PROCEDURE 2999 3011	auscultation
+T65	PROCEDURE 3177 3198	Abdominal examination
+T66	PROCEDURE 3305 3322	Electrocardiogram
+T67	PROCEDURE 3324 3327	ECG
+T69	PROCEDURE 3672 3685	Lipid profile
+T70	PROCEDURE 3779 3805	liver and thyroid profiles
+T71	PROCEDURE 3900 3909	Haemogram
+T72	PROCEDURE 3990 4007	coagulation study
+T77	PROCEDURE 4009 4024	Iron metabolism
+T73	PROCEDURE 4249 4260	Chest X-ray
+T74	PROCEDURE 4517 4547	Transthoracic echocardiography
+T75	PROCEDURE 5373 5387	Ergospirometry
+T68	PROCEDURE 6069 6072	ECG
+T76	PROCEDURE 6330 6344	ergospirometry
+T78	PROCEDURE 6698 6713	iron metabolism
+T5	PROCEDURE 7196 7212	heart transplant

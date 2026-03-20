@@ -1,0 +1,20 @@
+T8	PROCEDURE 258 280	oral anti-inflammatory
+T15	PROCEDURE 355 374	vaccinated with BCG
+T1	PROCEDURE 510 530	Physical examination
+T17	PROCEDURE 607 616	palpation
+T2	PROCEDURE 713 733	physical examination
+T6	PROCEDURE 738 757	anamnesis by system
+T10	PROCEDURE 883 898	tuberculin test
+T5	PROCEDURE 994 1005	Chest X-ray
+T7	PROCEDURE 1010 1030	abdominal ultrasound
+T11	PROCEDURE 1045 1116	Brucella, Epstein-Barr virus (EBV) and cytomegalovirus (CMV) serologies
+T26	PROCEDURE 1132 1142	Blood test
+T4	PROCEDURE 1157 1166	haemogram
+T28	PROCEDURE 1223 1278	interferon-gamma release assays (IGRA) (QuantiFERON(r))
+T3	PROCEDURE 1340 1395	fine needle aspiration puncture (FNA) of the adenopathy
+T12	PROCEDURE 1373 1376	FNA
+T31	PROCEDURE 1430 1450	Culture and cytology
+T33	PROCEDURE 1727 1730	FNA
+T34	PROCEDURE 1736 1743	culture
+T9	PROCEDURE 1779 1790	antibiogram
+T36	PROCEDURE 2036 2075	Mycobacterial cultures in gastric juice

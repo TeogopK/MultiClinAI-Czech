@@ -1,0 +1,25 @@
+T42	PROCEDURE 246 259	test genético
+T43	PROCEDURE 589 592	ECG
+T44	PROCEDURE 768 788	Radiografía de tórax
+T45	PROCEDURE 855 869	Ecocardiograma
+T46	PROCEDURE 1207 1279	Resonancia magnética nuclear (RMN) cardiaca: realce tardío con gadolinio
+T47	PROCEDURE 1460 1470	Ergometría
+T48	PROCEDURE 1732 1747	implante de DAI
+T49	PROCEDURE 1959 1977	exploración física
+T50	PROCEDURE 2037 2058	auscultación pulmonar
+T51	PROCEDURE 2183 2201	electrocardiograma
+T52	PROCEDURE 2245 2259	ecocardiograma
+T53	PROCEDURE 2609 2625	ergoespirometría
+T54	PROCEDURE 2704 2732	cateterismo cardiaco derecho
+T55	PROCEDURE 2956 2981	tratamiento neurohormonal
+T56	PROCEDURE 3127 3147	anticoagulación oral
+T57	PROCEDURE 3566 3585	trasplante cardiaco
+T58	PROCEDURE 3600 3623	estudio pre- trasplante
+T59	PROCEDURE 3688 3698	trasplante
+T60	PROCEDURE 4001 4020	trasplante cardiaco
+T62	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 1237 1240	RMN
+T73	PROCEDURE 694 703	Analítica
+T80	PROCEDURE 2066 2075	analítica
+T28	PROCEDURE 217 241	muerte súbita recuperada
+T11	PROCEDURE 3880 3883	DAI

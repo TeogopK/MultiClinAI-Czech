@@ -1,0 +1,48 @@
+T9	PROCEDURE 317 342	Brain computed tomography
+T10	PROCEDURE 344 346	CT
+T41	PROCEDURE 421 433	auscultation
+T42	PROCEDURE 435 465	transthoracic echocardiography
+T11	PROCEDURE 467 470	TTE
+T12	PROCEDURE 748 807	implantation of a 24 mm bidisc mechanical aortic prosthesis
+T43	PROCEDURE 1362 1368	fundus
+T13	PROCEDURE 1373 1381	brain CT
+T44	PROCEDURE 1576 1600	microbiological cultures
+T54	PROCEDURE 1649 1677	empirical antibiotic therapy
+T46	PROCEDURE 1806 1826	antibiotic treatment
+T48	PROCEDURE 1878 1892	blood cultures
+T14	PROCEDURE 1894 1903	Pathology
+T21	PROCEDURE 2061 2064	TTE
+T58	PROCEDURE 2303 2335	permanent pacemaker implantation
+T23	PROCEDURE 2337 2340	TTE
+T49	PROCEDURE 2345 2377	transesophageal echocardiography
+T31	PROCEDURE 2379 2382	TEE
+T50	PROCEDURE 2708 2719	thoracic CT
+T36	PROCEDURE 3137 3167	explantation of the prosthesis
+T64	PROCEDURE 3258 3285	complete aortic transection
+T66	PROCEDURE 3317 3369	pseudoaneurysm was repaired with a pericardial patch
+T67	PROCEDURE 3466 3508	bidisc mechanical prosthesis was implanted
+T68	PROCEDURE 3638 3662	empirical antibiotherapy
+T45	PROCEDURE 3905 3929	microbiological cultures
+T62	PROCEDURE 3931 3939	serology
+T69	PROCEDURE 3944 3966	nucleic acid detection
+T52	PROCEDURE 4099 4114	duodenal biopsy
+T65	PROCEDURE 4170 4184	gastric biopsy
+T57	PROCEDURE 4264 4275	haemostasis
+T56	PROCEDURE 4288 4300	autoimmunity
+T70	PROCEDURE 4321 4324	TTE
+T71	PROCEDURE 4531 4534	TTE
+T72	PROCEDURE 4777 4834	aortic homograft implantation in the subcoronary position
+T53	PROCEDURE 4839 4868	closure of the pseudoaneurysm
+T73	PROCEDURE 4921 4924	TEE
+T74	PROCEDURE 4974 4977	TTE
+T55	PROCEDURE 5309 5337	empirical antibiotic therapy
+T75	PROCEDURE 5437 5445	cultures
+T76	PROCEDURE 5452 5455	TEE
+T51	PROCEDURE 5697 5708	thoracic CT
+T59	PROCEDURE 5714 5764	polymerase chain reaction of the surgical specimen
+T60	PROCEDURE 6154 6157	TTE
+T77	PROCEDURE 6162 6169	CT scan
+T47	PROCEDURE 6534 6554	antibiotic treatment
+T78	PROCEDURE 6597 6604	culture
+T63	PROCEDURE 6631 6639	serology
+T61	PROCEDURE 6796 6821	polymerase chain reaction

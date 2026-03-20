@@ -1,0 +1,48 @@
+T1	SYMPTOM 1556 1562	disnea
+T2	SYMPTOM 1607 1615	ortopnea
+T3	SYMPTOM 1634 1643	bendopnea
+T4	SYMPTOM 1659 1686	disnea paroxística nocturna
+T5	SYMPTOM 1699 1707	oliguria
+T6	SYMPTOM 1726 1773	edematización progresiva de miembros inferiores
+T7	SYMPTOM 1781 1794	palpitaciones
+T8	SYMPTOM 1797 1811	dolor torácico
+T9	SYMPTOM 1817 1835	pérdida de apetito
+T10	SYMPTOM 1841 1847	fiebre
+T11	SYMPTOM 2043 2053	Consciente
+T12	SYMPTOM 2055 2064	orientado
+T13	SYMPTOM 2066 2074	sudoroso
+T14	SYMPTOM 2080 2095	palidez cutánea
+T15	SYMPTOM 2121 2132	Taquipneico
+T16	SYMPTOM 2138 2159	respiración abdominal
+T17	SYMPTOM 2165 2186	ingurgitación yugular
+T18	SYMPTOM 2211 2220	arrítmico
+T19	SYMPTOM 2223 2235	taquicárdico
+T20	SYMPTOM 2241 2256	soplos audibles
+T21	SYMPTOM 2271 2305	pulmonar: hipofonesis generalizada
+T22	SYMPTOM 2310 2364	estertores crepitantes bilaterales hasta campos medios
+T23	SYMPTOM 2366 2420	Abdomen distendido, blando, no doloroso a la palpación
+T25	SYMPTOM 2426 2441	visceromegalias
+T26	SYMPTOM 2443 2471	Ruidos hidroaéreos presentes
+T27	SYMPTOM 2473 2510	Edemas con fóvea hasta ambas rodillas
+T28	SYMPTOM 2560 2592	pulsos pedios simétricos débiles
+T29	SYMPTOM 3929 3941	QRS estrecho
+T30	SYMPTOM 4011 4024	ritmo sinusal
+T31	SYMPTOM 4038 4047	PR normal
+T32	SYMPTOM 4049 4105	ensanchamiento onda P sugestivo de crecimiento auricular
+T33	SYMPTOM 4262 4279	ICT muy aumentado
+T35	SYMPTOM 4321 4377	Patrón intersticial difuso con desflecamiento perihiliar
+T37	SYMPTOM 4727 4786	Ventrículo derecho con función sistólica levemente reducida
+T38	SYMPTOM 7192 7216	pérdida ponderal de 5 kg
+T41	SYMPTOM 7864 7900	función sistólica levemente reducida
+T42	SYMPTOM 8368 8381	ritmo sinusal
+T43	SYMPTOM 8839 8855	pérdida ponderal
+T44	SYMPTOM 9101 9112	albuminuria
+T45	SYMPTOM 10181 10194	FEVI reducida
+T175	SYMPTOM 4314 4319	masas
+T163	SYMPTOM 890 909	VI de tamaño normal
+T164	SYMPTOM 2104 2119	normoperfundido
+T24	SYMPTOM 4415 4441	Senos costofrénicos libres
+T208	SYMPTOM 4296 4310	condensaciones
+T234	SYMPTOM 4696 4725	presiones de llenado elevadas
+T235	SYMPTOM 7810 7839	presiones de llenado elevadas
+T39	SYMPTOM 7295 7323	filtrado glomerular reducido

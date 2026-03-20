@@ -1,0 +1,50 @@
+T32	SYMPTOM 602 615	low back pain
+T33	SYMPTOM 964 983	feeling of dyspnoea
+T34	SYMPTOM 1022 1054	oppressive central thoracic pain
+T1	SYMPTOM 1059 1080	loss of consciousness
+T35	SYMPTOM 1381 1439	transient lower-posterior and lateral ST-segment elevation
+T36	SYMPTOM 1664 1736	hypokinesia of anterolateral and inferolateral basal and medial segments
+T2	SYMPTOM 1989 1997	Afebrile
+T37	SYMPTOM 1999 2028	Oropharynx slightly hyperemic
+T38	SYMPTOM 2033 2059	jugular venous engorgement
+T39	SYMPTOM 2083 2098	rhythmic sounds
+T3	SYMPTOM 2107 2114	murmurs
+T4	SYMPTOM 2118 2128	extratonos
+T5	SYMPTOM 2154 2180	minimal scattered wheezing
+T6	SYMPTOM 2185 2200	hypoventilation
+T7	SYMPTOM 2202 2222	Abdomen: nondescript
+T23	SYMPTOM 2224 2252	Lower extremities: no oedema
+T8	SYMPTOM 2321 2333	sinus rhythm
+T10	SYMPTOM 2345 2354	normal PR
+T12	SYMPTOM 2356 2366	narrow QRS
+T40	SYMPTOM 2392 2417	4 mm ST-segment elevation
+T9	SYMPTOM 2534 2546	sinus rhythm
+T11	SYMPTOM 2558 2567	normal PR
+T13	SYMPTOM 2569 2579	narrow QRS
+T41	SYMPTOM 2587 2626	Q wave in inferior leads with R>S in V2
+T28	SYMPTOM 2628 2655	ST isoelectric in all leads
+T14	SYMPTOM 2657 2687	negative T wave in III and aVF
+T15	SYMPTOM 2715 2750	normal cardiomediastinal silhouette
+T21	SYMPTOM 2796 2829	acute haemodynamic decompensation
+T16	SYMPTOM 2853 2875	pulmonary condensation
+T43	SYMPTOM 2894 2945	preserved left ventricular ejection fraction (LVEF)
+T42	SYMPTOM 2947 2992	hypokinesia of basal and medial anterolateral
+T26	SYMPTOM 3084 3107	non-dilated left atrium
+T17	SYMPTOM 3236 3260	Normal filling pressures
+T44	SYMPTOM 3262 3288	Left ventricle not dilated
+T24	SYMPTOM 3418 3452	Trivalve aortic valve, normal flow
+T45	SYMPTOM 3454 3477	Aortic root not dilated
+T22	SYMPTOM 3479 3531	Non-dilated right chambers with normal contractility
+T25	SYMPTOM 3544 3576	Tricuspid valve with normal flow
+T27	SYMPTOM 3651 3708	Urgent coronary angiography (29/06/2018): right dominance
+T46	SYMPTOM 5024 5059	Complement factors C3 and C4 normal
+T47	SYMPTOM 5061 5095	Normal circulating immunocomplexes
+T29	SYMPTOM 5150 5206	Negative to (profilin and LTP), soya, latex and anisakis
+T30	SYMPTOM 5544 5582	Prick test against diclofenac positive
+T18	SYMPTOM 5782 5792	chest pain
+T48	SYMPTOM 5856 5879	contractility anomalies
+T50	SYMPTOM 6569 6608	tryptase blood test, which was positive
+T49	SYMPTOM 6686 6738	significant elevation of myocardial necrosis markers
+T19	SYMPTOM 6856 6866	chest pain
+T20	SYMPTOM 7052 7093	alterations in LV segmental contractility
+T31	SYMPTOM 7737 7751	Preserved LVEF

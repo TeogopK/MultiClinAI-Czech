@@ -1,0 +1,42 @@
+T44	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T36	PROCEDURE 452 469	electrocardiogram
+T38	PROCEDURE 624 636	fibrinolysis
+T39	PROCEDURE 903 915	fibrinolysis
+T41	PROCEDURE 924 935	angioplasty
+T43	PROCEDURE 1292 1379	drug-eluting stents in the origin, middle and distal third of the right coronary artery
+T45	PROCEDURE 1543 1563	PHYSICAL EXAMINATION
+T46	PROCEDURE 1640 1671	oxygen therapy in nasal goggles
+T47	PROCEDURE 1773 1793	Cardiac auscultation
+T49	PROCEDURE 2088 2105	coagulation study
+T50	PROCEDURE 2351 2367	echocardiography
+T53	PROCEDURE 2873 2880	Doppler
+T37	PROCEDURE 2976 2993	Electrocardiogram
+T54	PROCEDURE 2995 2998	ECG
+T55	PROCEDURE 3169 3189	Coronary angiography
+T51	PROCEDURE 3853 3869	echocardiography
+T56	PROCEDURE 4050 4070	coronary angiography
+T57	PROCEDURE 4116 4136	coronary angiography
+T48	PROCEDURE 4646 4666	cardiac auscultation
+T58	PROCEDURE 4674 4698	bedside echocardiography
+T52	PROCEDURE 4682 4698	echocardiography
+T71	PROCEDURE 5036 5046	transplant
+T59	PROCEDURE 5136 5140	ECMO
+T60	PROCEDURE 5215 5219	ECMO
+T65	PROCEDURE 5381 5403	mechanical ventilation
+T66	PROCEDURE 5616 5639	cardiac transplantation
+T68	PROCEDURE 5657 5686	circulatory support with ECMO
+T61	PROCEDURE 5682 5686	ECMO
+T72	PROCEDURE 5708 5718	transplant
+T69	PROCEDURE 5758 5784	Extracorporeal circulation
+T70	PROCEDURE 5807 5842	peripheral V-A femoro-axillary ECMO
+T62	PROCEDURE 5838 5842	ECMO
+T63	PROCEDURE 5901 5905	ECMO
+T40	PROCEDURE 6102 6114	fibrinolysis
+T73	PROCEDURE 6149 6195	Percutaneous transluminal coronary angioplasty
+T42	PROCEDURE 6184 6195	angioplasty
+T74	PROCEDURE 6197 6201	PTCA
+T75	PROCEDURE 6358 6362	PTCA
+T64	PROCEDURE 6454 6458	ECMO
+T76	PROCEDURE 6462 6492	mechanical circulatory support
+T77	PROCEDURE 6522 6554	Orthotopic heart transplantation
+T67	PROCEDURE 6533 6554	heart transplantation

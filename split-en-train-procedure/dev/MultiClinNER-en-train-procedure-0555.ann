@@ -1,0 +1,11 @@
+T6	PROCEDURE 280 295	cholecystectomy
+T8	PROCEDURE 297 317	Physical examination
+T7	PROCEDURE 353 381	Renal and bladder ultrasound
+T5	PROCEDURE 448 458	Cystoscopy
+T2	PROCEDURE 729 747	abdomino-pelvic CT
+T18	PROCEDURE 860 883	contrast administration
+T1	PROCEDURE 1052 1066	Urine cytology
+T9	PROCEDURE 1143 1166	transurethral resection
+T4	PROCEDURE 1206 1222	bladder biopsies
+T3	PROCEDURE 1274 1303	anatomo-pathological analysis
+T25	PROCEDURE 1678 1698	Immunohistochemistry

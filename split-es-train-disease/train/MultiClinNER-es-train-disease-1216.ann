@@ -1,0 +1,18 @@
+T4	DISEASE 1487 1497	leucopenia
+T6	DISEASE 256 258	EI
+T7	DISEASE 662 673	alcoholismo
+T8	DISEASE 713 732	artritis reumatoide
+T9	DISEASE 1023 1057	vegetaciones en la válvula aórtica
+T10	DISEASE 1161 1182	hepato-esplenomegalia
+T11	DISEASE 1372 1403	anemia normocítica normocrómica
+T12	DISEASE 2132 2159	vegetaciones intracardiacas
+T13	DISEASE 2590 2609	artritis reumatoide
+T14	DISEASE 4649 4669	EI por H. capsulatum
+T15	DISEASE 4841 4850	infección
+T16	DISEASE 417 454	vegetaciones sobre la válvula aórtica
+T17	DISEASE 551 553	EI
+T18	DISEASE 700 710	embriaguez
+T19	DISEASE 2079 2081	EI
+T51	DISEASE 1438 1453	trombocitopenia
+T55	DISEASE 2328 2340	vegetaciones
+#1	AnnotatorNotes T6	 Endocarditis Infecciosa

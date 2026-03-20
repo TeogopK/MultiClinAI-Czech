@@ -1,0 +1,58 @@
+T34	DISEASE 86 100	drug allergies
+T35	DISEASE 138 150	hypertension
+T36	DISEASE 152 165	Dyslipidaemia
+T37	DISEASE 167 176	Ex-smoker
+T38	DISEASE 210 241	Chronic ischaemic heart disease
+T40	DISEASE 260 294	two-vessel coronary artery disease
+T41	DISEASE 341 356	Unstable angina
+T42	DISEASE 458 480	Aortic valve sclerosis
+T48	DISEASE 571 589	Hodgkin's lymphoma
+T44	DISEASE 689 708	atrial fibrillation
+T54	DISEASE 831 837	angina
+T59	DISEASE 839 875	Infrarenal abdominal aortic aneurysm
+T18	DISEASE 912 966	acute renal failure secondary to right renal ischaemia
+T19	DISEASE 1031 1097	Stage 3 chronic kidney disease, secondary to ischaemic nephropathy
+T20	DISEASE 1099 1139	functional annulment of the right kidney
+T60	DISEASE 1142 1171	Secondary hyperparathyroidism
+T21	DISEASE 1173 1197	Repeated nephritic colic
+T22	DISEASE 1223 1264	Hodgkin's lymphoma nodular sclerosis type
+T61	DISEASE 1464 1502	febrile neutropenia of abdominal focus
+T62	DISEASE 2989 3011	arrhythmic tachycardia
+T45	DISEASE 3287 3306	atrial fibrillation
+T23	DISEASE 4339 4348	influenza
+T63	DISEASE 4604 4617	heart failure
+T24	DISEASE 4926 4954	Left atrium slightly dilated
+T25	DISEASE 5063 5094	Aortic valve slightly sclerosed
+T26	DISEASE 5200 5262	Morphologically normal tricuspid valve with mild insufficiency
+T66	DISEASE 5416 5436	pericardial effusion
+T27	DISEASE 5586 5655	Left main coronary artery (LMCA) atheromatous with significant lesion
+T67	DISEASE 6027 6083	Right coronary artery (RCA): dominant, chronic occlusion
+T68	DISEASE 6874 6888	angina at rest
+T69	DISEASE 6926 6953	decompensated heart failure
+T70	DISEASE 6958 6983	rapid atrial fibrillation
+T71	DISEASE 7068 7092	haematological pathology
+T72	DISEASE 7106 7127	respiratory infection
+T75	DISEASE 7132 7144	anaemisation
+T77	DISEASE 7208 7219	TCI disease
+T73	DISEASE 7464 7485	respiratory infection
+T28	DISEASE 7758 7789	significant distal LMCA disease
+T29	DISEASE 7848 7870	chronic LMCA occlusion
+T50	DISEASE 8082 8100	Hodgkin's lymphoma
+T30	DISEASE 8390 8444	chronic multifactorial normocytic-normochromic anaemia
+T78	DISEASE 8446 8468	haematological disease
+T31	DISEASE 8489 8510	chronic renal disease
+T76	DISEASE 8624 8636	anaemisation
+T32	DISEASE 8851 8872	minimal effort angina
+T57	DISEASE 9264 9270	angina
+T58	DISEASE 9554 9560	angina
+T81	DISEASE 9610 9653	pulmonary progression of Hodgkin's lymphoma
+T33	DISEASE 9718 9766	Acute myocardial infarction without ST elevation
+T39	DISEASE 9863 9894	Chronic ischaemic heart disease
+T83	DISEASE 9916 9939	Coronary artery disease
+T47	DISEASE 9981 10027	chronic occlusion of the right coronary artery
+T84	DISEASE 10029 10059	Persistent atrial fibrillation
+T46	DISEASE 10061 10121	Decompensation of heart failure secondary to previous events
+T74	DISEASE 10123 10144	Respiratory infection
+T85	DISEASE 10174 10216	Chronic multifactorial exacerbated anaemia
+T43	DISEASE 10218 10274	Stage IV Hodgkin's lymphoma due to pulmonary involvement
+T87	DISEASE 10276 10306	Stage 3 chronic kidney disease

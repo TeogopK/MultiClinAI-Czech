@@ -1,0 +1,6 @@
+T1	PROCEDURE 141 161	Physical examination
+T2	PROCEDURE 166 182	laboratory tests
+T3	PROCEDURE 227 247	abdominal ultrasound
+T5	PROCEDURE 520 538	surgical treatment
+T4	PROCEDURE 752 771	cystopericystectomy
+T6	PROCEDURE 929 951	histological diagnosis

@@ -1,0 +1,27 @@
+T1	SYMPTOM 101 109	vomiting
+T3	SYMPTOM 114 123	agitation
+T22	SYMPTOM 140 165	pain in the left rib cage
+T23	SYMPTOM 171 179	coughing
+T2	SYMPTOM 508 516	vomiting
+T4	SYMPTOM 521 530	agitation
+T24	SYMPTOM 532 572	accompanied by pain in the left rib cage
+T5	SYMPTOM 578 583	cough
+T6	SYMPTOM 819 828	Conscious
+T25	SYMPTOM 830 838	agitated
+T7	SYMPTOM 840 847	anxiety
+T8	SYMPTOM 849 855	pallor
+T9	SYMPTOM 857 865	sweating
+T10	SYMPTOM 934 941	murmurs
+T18	SYMPTOM 1271 1336	Urine toxicity: cocaine, benzodiazepines and cannabinoid products
+T11	SYMPTOM 1418 1430	Sinus rhythm
+T14	SYMPTOM 1439 1459	ST-segment elevation
+T12	SYMPTOM 1517 1529	Sinus rhythm
+T13	SYMPTOM 1572 1582	chest pain
+T19	SYMPTOM 1593 1618	poor peripheral perfusion
+T15	SYMPTOM 1683 1703	ST-segment elevation
+T20	SYMPTOM 2163 2186	capillary hypoperfusion
+T21	SYMPTOM 2372 2401	pulseless electrical activity
+T26	SYMPTOM 2403 2406	PEA
+T27	SYMPTOM 2746 2750	died
+T16	SYMPTOM 2798 2818	ST-segment elevation
+T17	SYMPTOM 2841 2847	Exitus

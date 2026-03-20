@@ -1,0 +1,26 @@
+T1	SYMPTOM 174 211	edemas en las extremidades inferiores
+T2	SYMPTOM 213 233	distensión abdominal
+T3	SYMPTOM 236 245	febrícula
+T4	SYMPTOM 287 294	astenia
+T5	SYMPTOM 351 358	náuseas
+T6	SYMPTOM 360 367	vómitos
+T7	SYMPTOM 370 377	diarrea
+T8	SYMPTOM 502 541	edemas en ambas extremidades inferiores
+T9	SYMPTOM 601 608	eritema
+T10	SYMPTOM 1589 1595	fiebre
+T11	SYMPTOM 1689 1694	dolor
+T12	SYMPTOM 1778 1811	empeoramiento en la función renal
+T13	SYMPTOM 1899 1911	leucocitosis
+T14	SYMPTOM 1950 1980	alteraciones en la coagulación
+T15	SYMPTOM 2091 2154	hemocultivo realizado al ingreso se aísla Estreptococo Pyogenes
+T16	SYMPTOM 2306 2332	inestabilidad hemodinámica
+T17	SYMPTOM 1057 1092	radiografía de tórax que era normal
+T18	SYMPTOM 2988 2995	fallece
+T19	SYMPTOM 622 631	equímosis
+T20	SYMPTOM 610 619	petequias
+A1	RESULTADO T12
+A2	RESULTADO T13
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	IMAGEN T17
+A6	EXITUS T18

@@ -1,0 +1,38 @@
+T33	PROCEDURE 259 279	physical examination
+T36	PROCEDURE 736 747	embolectomy
+T38	PROCEDURE 852 868	echocardiography
+T34	PROCEDURE 888 908	physical examination
+T41	PROCEDURE 1098 1126	cardiopulmonary auscultation
+T37	PROCEDURE 1155 1166	Embolectomy
+T35	PROCEDURE 1226 1246	physical examination
+T39	PROCEDURE 1272 1302	transthoracic echocardiography
+T3	PROCEDURE 1307 1308	)
+T4	PROCEDURE 1485 1493	Analysis
+T42	PROCEDURE 1504 1515	blood count
+T55	PROCEDURE 1517 1528	coagulation
+T43	PROCEDURE 1569 1586	Electrocardiogram
+T44	PROCEDURE 1708 1719	Chest X-ray
+T45	PROCEDURE 1848 1870	Echocardiography TT/TE
+T46	PROCEDURE 1873 1879	ECO 3D
+T6	PROCEDURE 2509 2543	Cardiac magnetic resonance imaging
+T58	PROCEDURE 2545 2548	MRI
+T56	PROCEDURE 3509 3522	imaging tests
+T57	PROCEDURE 3638 3684	pathological anatomy study of embolic material
+T47	PROCEDURE 3818 3872	resection of the mass under extracorporeal circulation
+T12	PROCEDURE 3934 3975	intraoperative pathological anatomy study
+T13	PROCEDURE 4016 4050	left atrial appendage was resected
+T8	PROCEDURE 4248 4306	definitive pathological anatomy study of the resected mass
+T60	PROCEDURE 4364 4379	extension study
+T48	PROCEDURE 4399 4418	thoracoabdominal CT
+T9	PROCEDURE 4502 4517	anticoagulation
+T10	PROCEDURE 4591 4598	surgery
+T50	PROCEDURE 4816 4839	mechanical thrombectomy
+T14	PROCEDURE 4904 4958	the pathological anatomy study of the embolic material
+T15	PROCEDURE 5048 5051	TTE
+T61	PROCEDURE 5056 5071	extension study
+T51	PROCEDURE 5073 5084	cranial MRI
+T49	PROCEDURE 5086 5105	thoracoabdominal CT
+T16	PROCEDURE 5110 5127	bone scintigraphy
+T52	PROCEDURE 5336 5348	Chemotherapy
+T54	PROCEDURE 5386 5408	chemotherapy treatment
+T62	PROCEDURE 5600 5618	surgical resection

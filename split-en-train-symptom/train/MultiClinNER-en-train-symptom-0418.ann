@@ -1,0 +1,19 @@
+T1	SYMPTOM 153 178	left kidney with stenosis
+T10	SYMPTOM 278 296	preserved diuresis
+T11	SYMPTOM 861 884	haemodynamically stable
+T12	SYMPTOM 891 910	maintained diuresis
+T16	SYMPTOM 959 1002	sudden intense pain in the left renal fossa
+T17	SYMPTOM 1031 1050	vegetative symptoms
+T2	SYMPTOM 1062 1073	oligoanuria
+T3	SYMPTOM 1103 1136	chest pain, radiating to the back
+T4	SYMPTOM 1182 1210	elevation of cardiac markers
+T5	SYMPTOM 1547 1572	haemodynamically unstable
+T6	SYMPTOM 1629 1635	anuria
+T8	SYMPTOM 1642 1671	increased urea and creatinine
+T7	SYMPTOM 1803 1809	anuria
+T13	SYMPTOM 1815 1848	rising urea and creatinine levels
+T18	SYMPTOM 1922 1945	coagulation alterations
+T9	SYMPTOM 1966 1981	active bleeding
+T15	SYMPTOM 1992 2014	clinical deterioration
+T14	SYMPTOM 2485 2506	single kidney patient
+T19	SYMPTOM 2523 2529	exitus

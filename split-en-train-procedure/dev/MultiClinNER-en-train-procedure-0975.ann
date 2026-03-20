@@ -1,0 +1,40 @@
+T59	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T61	PROCEDURE 696 710	echocardiogram
+T85	PROCEDURE 719 730	Vital signs
+T60	PROCEDURE 844 864	PHYSICAL EXAMINATION
+T66	PROCEDURE 942 962	Cardiac auscultation
+T67	PROCEDURE 1029 1051	Pulmonary auscultation
+T68	PROCEDURE 1214 1231	Electrocardiogram
+T69	PROCEDURE 1233 1236	ECG
+T70	PROCEDURE 1434 1445	Chest X-ray
+T62	PROCEDURE 1544 1572	transthoracic echocardiogram
+T71	PROCEDURE 2279 2294	CT of the aorta
+T5	PROCEDURE 2772 2788	Laboratory tests
+T6	PROCEDURE 2790 2814	Myocardial damage marker
+T86	PROCEDURE 2977 2989	biochemistry
+T7	PROCEDURE 2991 3000	haemogram
+T72	PROCEDURE 3005 3016	coagulation
+T8	PROCEDURE 3072 3089	perfused nitrates
+T63	PROCEDURE 3289 3303	echocardiogram
+T87	PROCEDURE 3317 3345	markers of myocardial damage
+T73	PROCEDURE 3471 3498	double antiplatelet therapy
+T90	PROCEDURE 3500 3504	DAPT
+T10	PROCEDURE 3567 3589	antiplatelet treatment
+T74	PROCEDURE 3661 3681	coronary angiography
+T76	PROCEDURE 3748 3790	catheterisation of the left coronary trunk
+T77	PROCEDURE 4024 4055	diagnostic coronary angiography
+T78	PROCEDURE 4523 4555	transesophageal echocardiography
+T79	PROCEDURE 4877 4903	surgical revascularisation
+T89	PROCEDURE 5092 5103	antianginal
+T88	PROCEDURE 5116 5144	markers of myocardial damage
+T13	PROCEDURE 5209 5243	coronary revascularisation surgery
+T82	PROCEDURE 5739 5799	aortic valve replacement (AVR) with a 23 mm mechanical valve
+T16	PROCEDURE 5765 5768	AVR
+T17	PROCEDURE 5802 5873	double coronary artery bypass (saphenous to ADAp and saphenous to ACDp)
+T80	PROCEDURE 5908 5953	aortic root were sent to pathological anatomy
+T65	PROCEDURE 6046 6074	transthoracic echocardiogram
+T18	PROCEDURE 6243 6250	surgery
+T81	PROCEDURE 6352 6372	pathological anatomy
+T19	PROCEDURE 6513 6543	excisional biopsy of the valve
+T83	PROCEDURE 6774 6798	Aortic valve replacement
+T84	PROCEDURE 6803 6841	double coronary artery bypass grafting

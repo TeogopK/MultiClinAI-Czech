@@ -1,0 +1,41 @@
+T68	PROCEDURE 6528 6536	estatina
+T69	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T70	PROCEDURE 553 560	cesárea
+T71	PROCEDURE 562 569	legrado
+T72	PROCEDURE 1404 1422	electrocardiograma
+T73	PROCEDURE 1424 1427	ECG
+T74	PROCEDURE 1543 1571	tratamiento antiinflamatorio
+T75	PROCEDURE 1813 1834	electrocardiográficos
+T76	PROCEDURE 1837 1851	ecocardiograma
+T77	PROCEDURE 2198 2236	monitorización cardiovascular continua
+T78	PROCEDURE 2282 2302	cateterismo cardiaco
+T79	PROCEDURE 2304 2322	Exploración física
+T80	PROCEDURE 2604 2625	Auscultación cardiaca
+T81	PROCEDURE 2689 2710	Auscultación pulmonar
+T82	PROCEDURE 2941 2944	ECG
+T83	PROCEDURE 3187 3190	ECG
+T84	PROCEDURE 3381 3384	ECG
+T85	PROCEDURE 3536 3554	Análisis de sangre
+T86	PROCEDURE 3687 3700	Gases venosos
+T87	PROCEDURE 3832 3848	Tóxicos en orina
+T88	PROCEDURE 3973 3988	perfil hepático
+T89	PROCEDURE 4202 4222	Radiografía de tórax
+T90	PROCEDURE 4341 4364	Ecocardiograma portátil
+T91	PROCEDURE 4751 4765	Ecocardiograma
+T92	PROCEDURE 4841 4872	Coronariografía: radial derecha
+T93	PROCEDURE 4957 4960	RMC
+T94	PROCEDURE 5019 5046	administración de contraste
+T96	PROCEDURE 5416 5431	coronariografía
+T97	PROCEDURE 5538 5566	ecocardiograma transtorácico
+T98	PROCEDURE 5568 5571	ETT
+T99	PROCEDURE 5828 5854	antiagregación plaquetaria
+T100	PROCEDURE 5918 5922	IECA
+T101	PROCEDURE 6213 6245	monitorización cardíaca continua
+T102	PROCEDURE 6307 6310	RMC
+T103	PROCEDURE 6366 6369	RMC
+T104	PROCEDURE 6497 6522	tratamiento antiagregante
+T105	PROCEDURE 6692 6698	Holter
+T31	PROCEDURE 4052 4085	marcadores de necrosis miocárdica
+T141	PROCEDURE 2920 2939	Electrocardiogramas
+T161	PROCEDURE 5719 5750	marcadores de lesión miocárdica
+T14	PROCEDURE 5998 6023	estatina de alta potencia

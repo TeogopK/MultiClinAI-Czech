@@ -1,0 +1,28 @@
+T1	SYMPTOM 88 94	disnea
+T2	SYMPTOM 340 358	disnea de esfuerzo
+T3	SYMPTOM 455 458	tos
+T4	SYMPTOM 461 482	expectoración verdosa
+T5	SYMPTOM 495 501	fiebre
+T6	SYMPTOM 524 544	sensación distérmica
+T7	SYMPTOM 666 677	Pulso céler
+T8	SYMPTOM 692 713	ingurgitación yugular
+T9	SYMPTOM 719 745	crepitantes en ambas bases
+T10	SYMPTOM 747 766	hipofonesis en base
+T11	SYMPTOM 780 794	tonos rítmicos
+T12	SYMPTOM 796 833	soplo diastólico regurgitante aórtico
+T13	SYMPTOM 845 869	Abdomen sin alteraciones
+T14	SYMPTOM 874 903	edemas en miembros inferiores
+T15	SYMPTOM 1000 1013	ritmo sinusal
+T16	SYMPTOM 1024 1042	Segmento PR normal
+T17	SYMPTOM 1054 1087	crecimiento ventricular izquierdo
+T18	SYMPTOM 1124 1157	alteraciones de la repolarización
+T19	SYMPTOM 1172 1188	hemograma normal
+T20	SYMPTOM 1190 1224	bioquímica básica e iones normales
+T21	SYMPTOM 1248 1271	redistribución vascular
+T22	SYMPTOM 1273 1312	edema intersticial en campos inferiores
+T23	SYMPTOM 1377 1404	infiltrados parenquimatosos
+T25	SYMPTOM 1535 1573	función sistólica global hiperdinámica
+T28	SYMPTOM 2807 2862	inversión holodiastólica del flujo en aorta descendente
+T70	SYMPTOM 1809 1836	Cavidades derechas normales
+T24	SYMPTOM 1589 1617	jet de insuficiencia aórtica
+T26	SYMPTOM 2691 2705	jet excéntrico

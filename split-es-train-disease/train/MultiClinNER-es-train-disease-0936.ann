@@ -1,0 +1,31 @@
+T26	DISEASE 429 451	infección respiratoria
+T27	DISEASE 497 513	etilismo crónico
+T28	DISEASE 515 522	fumador
+T29	DISEASE 549 553	EPOC
+T30	DISEASE 555 576	hipertensión arterial
+T31	DISEASE 609 654	trombosis venosa profunda en miembro inferior
+T32	DISEASE 933 941	Obesidad
+T33	DISEASE 1366 1391	trombosis venosa profunda
+T34	DISEASE 2675 2694	derrame pericárdico
+T36	DISEASE 3164 3243	trombosis venosa profunda (TVP) de ambas venas poplíteas y tibiales posteriores
+T37	DISEASE 3423 3444	hipertensión pulmonar
+T38	DISEASE 3695 3713	síndrome nefrótico
+T39	DISEASE 3837 3840	TVP
+T40	DISEASE 3923 3947	tromboembolismo pulmonar
+T41	DISEASE 3949 3952	TEP
+T44	DISEASE 4132 4176	hipertensión pulmonar tromboembólica crónica
+T45	DISEASE 4235 4246	trombofilia
+T46	DISEASE 4263 4325	Tromboembolismo pulmonar de arteria pulmonar principal derecha
+T47	DISEASE 4347 4383	tromboembolismo pulmonar recidivante
+T48	DISEASE 4387 4426	Hipertensión pulmonar severa secundaria
+T49	DISEASE 4440 4484	hipertensión pulmonar tromboembólica crónica
+T50	DISEASE 4488 4523	Trombosis venosa profunda bilateral
+T51	DISEASE 1444 1457	cardiomegalia
+T52	DISEASE 2438 2465	ventrículo derecho dilatado
+T53	DISEASE 2336 2405	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T54	DISEASE 71 92	cuadros presincopales
+T56	DISEASE 2583 2622	vena cava inferior ligeramente dilatada
+T57	DISEASE 3191 3194	TVP
+T58	DISEASE 3361 3411	dilatación de VD con disfunción sistólica moderada
+T59	DISEASE 3728 3747	hipercoagulabilidad
+#1	AnnotatorNotes T41	 tromboembolismo pulmonar

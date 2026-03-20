@@ -1,0 +1,82 @@
+T71	DISEASE 796 815	taquicardiomiopatía
+T119	DISEASE 70 104	reacciones adversas medicamentosas
+T120	DISEASE 151 172	hipertensión arterial
+T121	DISEASE 174 198	diabetes mellitus tipo 2
+T122	DISEASE 214 221	Fumador
+T123	DISEASE 243 257	Hábito enólico
+T124	DISEASE 301 309	Obesidad
+T125	DISEASE 311 340	Cardiopatía isquémica crónica
+T126	DISEASE 342 363	Enfermedad de 2 vasos
+T127	DISEASE 377 391	angina estable
+T128	DISEASE 498 532	edema agudo de pulmón hipertensivo
+T129	DISEASE 553 584	lesión en ostium de circunfleja
+T130	DISEASE 710 762	insuficiencia cardiaca con FEVI gravemente deprimida
+T131	DISEASE 818 827	isquémica
+T132	DISEASE 863 900	Flutter auricular atípico paroxístico
+T133	DISEASE 1195 1213	Esclerosis aórtica
+T134	DISEASE 1551 1585	hipertensión pulmonar [HTP] severa
+T135	DISEASE 1574 1577	HTP
+T136	DISEASE 1636 1702	Enfermedad pulmonar obstructiva crónica fenotipo enfisema moderado
+T137	DISEASE 1704 1749	Síndrome apnea hipopnea obstructiva del sueño
+T138	DISEASE 1776 1789	Tumor vesical
+T139	DISEASE 1831 1855	Enfermedad renal crónica
+T140	DISEASE 1857 1860	ERC
+T142	DISEASE 1970 1991	Estreñimiento crónico
+T143	DISEASE 2010 2021	fisura anal
+T144	DISEASE 2023 2054	Anemia normocítica-normocrómica
+T145	DISEASE 2082 2098	pólipos de colon
+T146	DISEASE 2100 2117	gastritis crónica
+T147	DISEASE 2120 2153	duodenitis eritematosa hiperémica
+T148	DISEASE 2209 2248	isquemia crónica de miembros inferiores
+T149	DISEASE 2250 2277	Trombosis en aortobifemoral
+T150	DISEASE 2299 2330	Hiperplasia benigna de próstata
+T151	DISEASE 2332 2348	Glaucoma crónico
+T152	DISEASE 2350 2369	Trastorno depresivo
+T153	DISEASE 3314 3348	edema agudo de pulmón hipertensivo
+T154	DISEASE 3623 3640	ICC descompensada
+T155	DISEASE 3710 3731	hipertensión arterial
+T156	DISEASE 3733 3736	HTA
+T157	DISEASE 3833 3866	insuficiencia respiratoria global
+T158	DISEASE 3882 3916	edema agudo de pulmón hipertensivo
+T159	DISEASE 4530 4556	insuficiencia mitral aguda
+T160	DISEASE 5112 5137	trombosis venosa profunda
+T161	DISEASE 5280 5305	derrame pleural bilateral
+T162	DISEASE 5870 5906	Insuficiencia mitral moderada-severa
+T163	DISEASE 5943 5961	Esclerosis aórtica
+T164	DISEASE 6275 6285	HTP severa
+T165	DISEASE 8756 8780	tronco: con ateromatosis
+T167	DISEASE 8895 8937	circunfleja (CX): nueva reestenosis ostial
+T168	DISEASE 9547 9596	reestenosis intrastent recurrente en ostium de CX
+T169	DISEASE 9692 9722	lesión moderada en CD proximal
+T170	DISEASE 10209 10229	insuficiencia mitral
+T171	DISEASE 10260 10286	insuficiencia mitral aguda
+T172	DISEASE 10330 10350	insuficiencia mitral
+T173	DISEASE 10367 10375	isquemia
+T174	DISEASE 10448 10495	reestenosis intrastent en ostium de circunfleja
+T175	DISEASE 10638 10657	hiperpotasemia leve
+T176	DISEASE 10672 10685	hipopotasemia
+T177	DISEASE 10761 10767	anemia
+T178	DISEASE 11015 11044	cardiopatía isquémica crónica
+T179	DISEASE 11047 11070	arteriopatía periférica
+T180	DISEASE 11080 11102	reestenosis intrastent
+T181	DISEASE 11131 11186	anemia normocítica-normocrómica por pérdidas digestivas
+T183	DISEASE 11188 11201	tumor vesical
+T184	DISEASE 11218 11230	hipertensión
+T185	DISEASE 11261 11285	enfermedad renal crónica
+T187	DISEASE 11593 11621	sangrados gastrointestinales
+T188	DISEASE 11663 11668	obeso
+T189	DISEASE 11673 11697	diabetes mellitus tipo 2
+T191	DISEASE 12177 12198	Edema agudo de pulmón
+T192	DISEASE 12214 12250	insuficiencia mitral aguda isquémica
+T193	DISEASE 12299 12323	Diabetes mellitus tipo 2
+T1	DISEASE 619 655	lesión moderada en coronaria derecha
+T195	DISEASE 1358 1385	Aurícula izquierda dilatada
+T197	DISEASE 1456 1480	Regurgitación tricúspide
+T198	DISEASE 1798 1801	CIS
+T199	DISEASE 2185 2207	Arteropatía periférica
+T201	DISEASE 6082 6109	Aurícula izquierda dilatada
+T202	DISEASE 6180 6204	Regurgitación tricúspide
+T31	DISEASE 8693 8723	Arterias coronarias: estenosis
+T206	DISEASE 200 212	Dislipidemia
+T111	DISEASE 1996 2007	hemorroides
+#2	AnnotatorNotes T198	carcinoma in situ

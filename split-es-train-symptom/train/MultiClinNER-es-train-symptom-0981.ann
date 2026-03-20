@@ -1,0 +1,23 @@
+T1	SYMPTOM 347 366	dolor retroesternal
+T2	SYMPTOM 378 398	vómitos alimenticios
+T4	SYMPTOM 2297 2327	Auscultación cardiaca: rítmica
+T5	SYMPTOM 2332 2368	soplo sistólico II/VI en foco mitral
+T6	SYMPTOM 2390 2424	soplo a nivel de arteria subclavia
+T7	SYMPTOM 2434 2468	Extremidades inferiores: no edemas
+T8	SYMPTOM 2483 2508	pulsos pedios ni tibiales
+T9	SYMPTOM 2876 2878	RS
+T10	SYMPTOM 2885 2935	Supradesnivelación del ST 6-7 mm en V2-V6, I y aVL
+T11	SYMPTOM 2937 2969	Descenso del ST en cara inferior
+T12	SYMPTOM 2970 2985	ECG al alta: RS
+T13	SYMPTOM 2996 3020	Onda Q en V1-V3, I y aVL
+T14	SYMPTOM 3022 3055	Onda T negativa en V2-V6, I y aVL
+T19	SYMPTOM 488 539	supradesnivelación del segmento ST en cara anterior
+T3	SYMPTOM 1377 1417	acinesia de todos los segmentos apicales
+T71	SYMPTOM 1420 1502	hipocinesia grave de segmentos anterior basal y medio y anteroseptal basal y medio
+T72	SYMPTOM 2604 2701	ANAs, ENAs, antiDNA, factor reumatoide, anticardiolipina, anticoagulante lúpico, ANCAs: negativos
+T73	SYMPTOM 3081 3126	moderada depresión de la fracción de eyección
+T82	SYMPTOM 4176 4220	disfunción sistólica moderadamente deprimida
+T88	SYMPTOM 4019 4063	Coronaria derecha y circunfleja sin lesiones
+T89	SYMPTOM 234 247	muerte súbita
+T74	SYMPTOM 1196 1228	cifras bajas de tensión arterial
+T69	SYMPTOM 2722 2758	negativas las principales serologías

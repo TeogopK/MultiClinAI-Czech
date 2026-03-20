@@ -1,0 +1,52 @@
+T29	SYMPTOM 866 882	febrile symptoms
+T1	SYMPTOM 913 918	fever
+T30	SYMPTOM 1151 1167	liquid diarrhoea
+T31	SYMPTOM 1202 1228	intense periumbilical pain
+T32	SYMPTOM 1281 1299	oedema in the legs
+T3	SYMPTOM 1304 1324	progressive dyspnoea
+T4	SYMPTOM 1385 1390	cough
+T5	SYMPTOM 1394 1407	expectoration
+T6	SYMPTOM 1420 1430	chest pain
+T7	SYMPTOM 1432 1441	dizziness
+T8	SYMPTOM 1470 1491	neurological focality
+T2	SYMPTOM 1701 1706	fever
+T33	SYMPTOM 1726 1733	eupneic
+T34	SYMPTOM 1785 1821	Jugular venous pressure is increased
+T9	SYMPTOM 1873 1901	murmur in aortic focus II/VI
+T35	SYMPTOM 1906 1925	normal second sound
+T36	SYMPTOM 1940 1968	hypoventilation in the bases
+T37	SYMPTOM 1973 1998	crackles in the midfields
+T38	SYMPTOM 2004 2069	abdomen was soft, depressible and painful at the epigastric level
+T10	SYMPTOM 2091 2112	peritoneal irritation
+T39	SYMPTOM 2116 2129	visceromegaly
+T11	SYMPTOM 2229 2270	Peripheral pulses present and symmetrical
+T12	SYMPTOM 2383 2393	narrow QRS
+T23	SYMPTOM 2395 2406	normal axis
+T26	SYMPTOM 2408 2436	Repolarisation abnormalities
+T40	SYMPTOM 2456 2470	digitalis tray
+T27	SYMPTOM 2499 2522	TAVI in aortic position
+T22	SYMPTOM 2524 2547	Vascular redistribution
+T41	SYMPTOM 2552 2574	fluid in cystic cracks
+T42	SYMPTOM 2606 2642	Widening of the superior mediastinum
+T43	SYMPTOM 2820 2843	Thyroid hormones normal
+T44	SYMPTOM 3258 3341	Blood cultures: two positive series for methicillin-sensitive Staphylococcus aureus
+T28	SYMPTOM 3389 3420	Urine: isolated red blood cells
+T13	SYMPTOM 3425 3437	leucocyturia
+T18	SYMPTOM 3441 3452	bacteriuria
+T25	SYMPTOM 3454 3471	negative nitrites
+T45	SYMPTOM 3472 3546	Faeces: usual flora, no parasites and negative Clostridium difficile toxin
+T14	SYMPTOM 3548 3578	Serology: HIV and HCV negative
+T19	SYMPTOM 3580 3610	Anti HBs and Anti HBc positive
+T20	SYMPTOM 3632 3701	ANA, ANCA, Anti native DNA, ENAS, CH 50 and C4 normal and/or negative
+T46	SYMPTOM 3733 3799	left ventricle of normal diameter and thickness with normal global
+T24	SYMPTOM 3804 3831	segmental systolic function
+T47	SYMPTOM 3894 3939	Normofunctioning aortic biological prosthesis
+T48	SYMPTOM 4200 4227	several small mobile images
+T49	SYMPTOM 4680 4725	initial negative transthoracic echocardiogram
+T15	SYMPTOM 4884 4921	positive blood cultures for S. aureus
+T50	SYMPTOM 5058 5089	deterioration of renal function
+T51	SYMPTOM 5098 5132	drop in glomerular filtration rate
+T16	SYMPTOM 5211 5217	anuria
+T17	SYMPTOM 5219 5251	decreased level of consciousness
+T52	SYMPTOM 5518 5522	died
+T21	SYMPTOM 5766 5771	Death

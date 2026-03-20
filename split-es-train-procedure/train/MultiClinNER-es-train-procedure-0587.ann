@@ -1,0 +1,25 @@
+T1	PROCEDURE 418 421	ECG
+T2	PROCEDURE 423 433	TC cerebra
+T3	PROCEDURE 507 518	Rx de tórax
+T4	PROCEDURE 536 550	punción lumbar
+T5	PROCEDURE 631 634	EEG
+T6	PROCEDURE 694 706	RNM cerebral
+T7	PROCEDURE 828 869	administración de contraste paramagnético
+T8	PROCEDURE 1222 1260	exploración física y en la neurológica
+T9	PROCEDURE 1610 1624	antibioterapia
+T10	PROCEDURE 1875 1894	TAC toracoabdominal
+T11	PROCEDURE 1940 1978	broncoscopio con lavado broncoalveolar
+T12	PROCEDURE 1991 2023	endoscopia digestiva alta y baja
+T13	PROCEDURE 2025 2044	tránsito intestinal
+T14	PROCEDURE 2046 2066	valoración urológica
+T15	PROCEDURE 2068 2084	gammografía ósea
+T16	PROCEDURE 2087 2109	biopsia de médula ósea
+T17	PROCEDURE 2190 2221	estudio de TEP de cuerpo entero
+T18	PROCEDURE 2382 2385	TEP
+T19	PROCEDURE 2393 2407	TAC del cuello
+T20	PROCEDURE 2410 2436	estudio anatomo-patológico
+T21	PROCEDURE 1760 1770	serologías
+T22	PROCEDURE 1017 1031	antibioterapia
+T23	PROCEDURE 771 798	secuencias FLAIR y difusión
+T24	PROCEDURE 987 1013	PCR frente a herpes simple
+T26	PROCEDURE 407 416	analítica

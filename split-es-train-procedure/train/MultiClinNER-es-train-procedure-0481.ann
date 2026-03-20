@@ -1,0 +1,29 @@
+T1	PROCEDURE 454 467	examen físico
+T2	PROCEDURE 1210 1259	dedos de mano izquierda, dolorosas a la palpación
+T3	PROCEDURE 1873 1888	Examen de orina
+T4	PROCEDURE 2084 2118	serología para hepatitis B, C, VIH
+T5	PROCEDURE 2243 2275	curva de tolerancia a la glucosa
+T6	PROCEDURE 2286 2313	pruebas de función hepática
+T7	PROCEDURE 2324 2335	Hemocultivo
+T8	PROCEDURE 2337 2349	coprocultivo
+T9	PROCEDURE 2352 2362	urocultivo
+T10	PROCEDURE 2765 2780	Serología viral
+T11	PROCEDURE 2980 3043	extremidad inferior izquierda verificada por Eco Doppler venoso
+T12	PROCEDURE 3087 3098	Rx de tórax
+T13	PROCEDURE 3100 3118	electrocardiograma
+T14	PROCEDURE 3120 3143	ecocardiografía Doppler
+T15	PROCEDURE 3219 3247	pulsos con metilprednisolona
+T16	PROCEDURE 3369 3384	anticoagulación
+T17	PROCEDURE 3606 3620	TAC de cerebro
+T18	PROCEDURE 3623 3643	electroencefalograma
+T19	PROCEDURE 3675 3688	plasmaferesis
+T20	PROCEDURE 3720 3752	pulsos con 1 g de ciclofosfamida
+T21	PROCEDURE 3891 3902	antivirales
+T22	PROCEDURE 3905 3927	antihipertensivos IECA
+T23	PROCEDURE 2605 2608	ENA
+T24	PROCEDURE 2374 2402	Proteinuria en orina de 24 h
+T25	PROCEDURE 2562 2603	perfil de antigenos extraíbles del núcleo
+T26	PROCEDURE 2670 2700	Anticuerpos antifosfolipídicos
+T28	PROCEDURE 2801 2806	ELISA
+T29	PROCEDURE 2849 2854	ELISA
+T30	PROCEDURE 2882 2887	ELISA

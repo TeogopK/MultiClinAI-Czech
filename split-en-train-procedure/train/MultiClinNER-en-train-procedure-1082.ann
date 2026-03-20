@@ -1,0 +1,30 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 250 264	echocardiogram
+T60	PROCEDURE 498 532	cardiac magnetic resonance imaging
+T61	PROCEDURE 768 785	electrocardiogram
+T64	PROCEDURE 1054 1078	electrical cardioversion
+T65	PROCEDURE 1456 1480	electrical cardioversion
+T67	PROCEDURE 1551 1560	anamnesis
+T56	PROCEDURE 1562 1582	Physical examination
+T68	PROCEDURE 1750 1778	Cardiopulmonary auscultation
+T69	PROCEDURE 1924 1935	Chest X-ray
+T81	PROCEDURE 1975 1989	renal function
+T82	PROCEDURE 1994 1998	ions
+T83	PROCEDURE 2022 2040	cardiac biomarkers
+T71	PROCEDURE 2042 2070	Transthoracic echocardiogram
+T58	PROCEDURE 2056 2070	echocardiogram
+T62	PROCEDURE 2237 2254	Electrocardiogram
+T63	PROCEDURE 2401 2418	Electrocardiogram
+T70	PROCEDURE 2668 2679	chest X-ray
+T80	PROCEDURE 2860 2871	coagulation
+T72	PROCEDURE 3027 3055	Transthoracic echocardiogram
+T59	PROCEDURE 3041 3055	echocardiogram
+T73	PROCEDURE 3716 3736	Coronary angiography
+T74	PROCEDURE 3781 3791	Cardio MRI
+T75	PROCEDURE 3908 3939	Left ventricular function study
+T76	PROCEDURE 4033 4065	Right ventricular function study
+T77	PROCEDURE 4572 4583	contrast iv
+T66	PROCEDURE 4893 4917	electrical cardioversion
+T78	PROCEDURE 5026 5046	electrocardiographic
+T84	PROCEDURE 5051 5066	cardiac imaging
+T79	PROCEDURE 5173 5195	bicameral bibovine ICD

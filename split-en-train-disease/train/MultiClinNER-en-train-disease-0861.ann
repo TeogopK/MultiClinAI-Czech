@@ -1,0 +1,47 @@
+T17	DISEASE 63 83	Hypercholesterolemia
+T19	DISEASE 85 114	Diabetes mellitus (DM) type 2
+T20	DISEASE 104 106	DM
+T22	DISEASE 227 234	Obesity
+T24	DISEASE 244 253	Ex-smoker
+T26	DISEASE 287 308	arterial hypertension
+T27	DISEASE 296 308	hypertension
+T35	DISEASE 321 337	Leriche syndrome
+T38	DISEASE 423 454	pulmonary arterial hypertension
+T28	DISEASE 433 454	arterial hypertension
+T29	DISEASE 442 454	hypertension
+T51	DISEASE 528 547	atrial fibrillation
+T61	DISEASE 557 581	left bundle branch block
+T40	DISEASE 676 709	Stage IIIb chronic kidney disease
+T41	DISEASE 771 808	Chronic obstructive pulmonary disease
+T42	DISEASE 810 814	COPD
+T44	DISEASE 1019 1069	Seropositive polyarthritis with carpal involvement
+T46	DISEASE 1077 1130	Subclinical hyperthyroidism with multinodular thyroid
+T48	DISEASE 1132 1141	Allergies
+T49	DISEASE 2363 2383	deep vein thrombosis
+T50	DISEASE 2385 2388	DVT
+T60	DISEASE 2982 2994	cardiomegaly
+T52	DISEASE 3173 3192	atrial fibrillation
+T53	DISEASE 3300 3324	ventricular extrasystole
+T54	DISEASE 3352 3398	moderate-severe global LV systolic dysfunction
+T55	DISEASE 3641 3661	mitral insufficiency
+T62	DISEASE 3671 3694	tricuspid insufficiency
+T39	DISEASE 3706 3737	pulmonary arterial hypertension
+T30	DISEASE 3716 3737	arterial hypertension
+T31	DISEASE 3725 3737	hypertension
+T63	DISEASE 4182 4184	it
+T59	DISEASE 4769 4824	HF with reduced LVEF (HFrEF) of non-ischaemic aetiology
+T18	DISEASE 4909 4929	Hypercholesterolemia
+T21	DISEASE 4939 4941	DM
+T56	DISEASE 4994 5011	insulin-dependent
+T23	DISEASE 5021 5028	obesity
+T25	DISEASE 5030 5039	Ex-smoker
+T32	DISEASE 5065 5086	arterial hypertension
+T33	DISEASE 5074 5086	hypertension
+T36	DISEASE 5099 5115	Leriche syndrome
+T37	DISEASE 5153 5177	Advanced non-ischemic HF
+T57	DISEASE 5200 5222	pulmonary hypertension
+T34	DISEASE 5210 5222	hypertension
+T58	DISEASE 5315 5329	Stage IIIb CKD
+T43	DISEASE 5391 5395	COPD
+T45	DISEASE 5533 5583	Seropositive polyarthritis with carpal involvement
+T47	DISEASE 5591 5644	Subclinical hyperthyroidism with multinodular thyroid

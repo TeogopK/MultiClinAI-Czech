@@ -1,0 +1,32 @@
+T24	DISEASE 2770 2781	ritmo nodal
+T40	DISEASE 5295 5306	ritmo nodal
+T46	DISEASE 82 113	reacción adversa de medicamento
+T47	DISEASE 159 169	tabaquismo
+T48	DISEASE 185 195	dislipemia
+T49	DISEASE 197 221	Incidentaloma suprarenal
+T50	DISEASE 355 377	síndrome de tako-tsubo
+T51	DISEASE 835 857	síndrome de tako-tsubo
+T52	DISEASE 1235 1291	infarto agudo de miocardio sin elevación del segmento ST
+T53	DISEASE 1474 1536	fístulas del árbol coronario izquierdo al ventrículo izquierdo
+T54	DISEASE 1619 1633	isquemia aguda
+T55	DISEASE 1635 1646	miocarditis
+T56	DISEASE 3973 3992	disfunción valvular
+T57	DISEASE 4095 4120	insuficiencia tricuspídea
+T58	DISEASE 4122 4124	IT
+T59	DISEASE 4142 4163	hipertensión pulmonar
+T60	DISEASE 4177 4196	derrame pericárdico
+T61	DISEASE 4607 4613	angina
+T62	DISEASE 4704 4713	arritmias
+T63	DISEASE 4920 4944	Fístulas coronarias a VI
+T64	DISEASE 5223 5234	vasoespasmo
+T65	DISEASE 5319 5373	bloqueo auriculoventricular (BAV) completo transitorio
+T66	DISEASE 5897 5918	vasoespasmo coronario
+T67	DISEASE 5966 5987	vasoespasmo coronario
+T68	DISEASE 6661 6677	hábito tabáquico
+T69	DISEASE 6886 6927	Síndrome coronario agudo (SCA) recurrente
+T70	DISEASE 6954 6974	Angina vasoespástica
+T71	DISEASE 1293 1300	IAMSEST
+T73	DISEASE 6912 6915	SCA
+T147	DISEASE 1651 1670	necrosis transmural
+#1	AnnotatorNotes T71	 IAMSEST Infarto agudo de miocardio sin elevación del segmento ST
+#2	AnnotatorNotes T73	 Síndrome coronario agudo

@@ -1,0 +1,36 @@
+T1	DISEASE 61 66	ictus
+T17	DISEASE 868 891	foramen ovale permeable
+T18	DISEASE 893 908	prolapso mitral
+T19	DISEASE 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T20	DISEASE 985 1005	insuficiencia mitral
+T21	DISEASE 1038 1070	endocarditis bacteriana subaguda
+T29	DISEASE 1445 1456	adenopatías
+T33	DISEASE 1874 1886	endocarditis
+T37	DISEASE 2158 2175	embolia esplénica
+T39	DISEASE 2270 2301	accidente isquémico transitorio
+T40	DISEASE 2416 2515	cuadro ictal con afectación total de la circulación anterior de la arteria cerebral media izquierda
+T43	DISEASE 3030 3033	CID
+T46	DISEASE 2842 2856	adenocarcinoma
+T47	DISEASE 3420 3460	adenocarcinoma primario en mama y ovario
+T48	DISEASE 3637 3661	adenocarcinoma de pulmón
+T50	DISEASE 2992 3028	coagulación intravascular diseminada
+T52	DISEASE 196 204	embólico
+T66	DISEASE 2781 2785	ETNB
+T67	DISEASE 2934 2938	ETNB
+T68	DISEASE 2941 2960	hipercoagulabilidad
+T70	DISEASE 1007 1009	IM
+T72	DISEASE 1475 1500	linfangitis carcinomatosa
+T73	DISEASE 1515 1533	proceso neoplásico
+T78	DISEASE 2659 2700	verruga en la cara auricular de la mitral
+T45	DISEASE 3680 3733	fenómenos embolígenos en el contexto de paraneoplasia
+T80	DISEASE 2233 2248	cuadro sincopal
+T83	DISEASE 3124 3140	crioglobulinemia
+T84	DISEASE 2634 2642	lesiones
+T2	DISEASE 359 381	facial central derecho
+T3	DISEASE 386 422	déficit motor braquio-crural derecho
+T4	DISEASE 2552 2570	hemiplejía derecha
+T86	DISEASE 510 559	petequias en región tibial de extremidad inferior
+T5	DISEASE 570 623	hemorragias en astilla en varios dedos de ambas manos
+#3	AnnotatorNotes T66	   ETNB: Endocarditis trombótica no bacteriana
+#2	AnnotatorNotes T67	   ETNB: Endocarditis trombótica no bacteriana
+#1	AnnotatorNotes T70	   IM: insuficiencia mitral

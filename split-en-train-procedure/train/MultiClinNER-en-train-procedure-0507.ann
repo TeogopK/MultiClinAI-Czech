@@ -1,0 +1,12 @@
+T1	PROCEDURE 246 266	physical examination
+T10	PROCEDURE 329 386	globular, soft, depressible abdomen, painful on palpation
+T12	PROCEDURE 419 430	Blood tests
+T2	PROCEDURE 592 606	liver function
+T15	PROCEDURE 615 654	Abdominal computed tomography (CT) scan
+T3	PROCEDURE 646 648	CT
+T7	PROCEDURE 864 871	Surgery
+T18	PROCEDURE 883 907	radical left nephrectomy
+T19	PROCEDURE 922 930	excision
+T8	PROCEDURE 977 984	surgery
+T5	PROCEDURE 1016 1036	Pathological anatomy
+T4	PROCEDURE 1153 1164	nephrectomy

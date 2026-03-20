@@ -1,0 +1,39 @@
+T50	DISEASE 99 120	hipertensión arterial
+T51	DISEASE 122 132	dislipemia
+T52	DISEASE 134 142	obesidad
+T53	DISEASE 145 154	exfumador
+T54	DISEASE 650 676	parada cardiorrespiratoria
+T55	DISEASE 839 865	insuficiencia respiratoria
+T56	DISEASE 2884 2897	valvulopatías
+T57	DISEASE 4217 4230	hiperglucemia
+T58	DISEASE 4232 4251	insuficiencia renal
+T59	DISEASE 4253 4264	hipocalemia
+T60	DISEASE 4266 4281	hiperfosforemia
+T61	DISEASE 4283 4297	hipomagnesemia
+T62	DISEASE 4299 4318	acidosis metabólica
+T63	DISEASE 4334 4367	intoxicación por organofosforados
+T64	DISEASE 4421 4447	parada cardiorrespiratoria
+T65	DISEASE 4651 4670	acidosis metabólica
+T66	DISEASE 4720 4739	insuficiencia renal
+T67	DISEASE 4791 4806	hepatotoxicidad
+T68	DISEASE 4809 4853	síndrome de respuesta inflamatorio sistémico
+T69	DISEASE 5381 5413	síndrome de distrés respiratorio
+T70	DISEASE 5416 5444	shock séptico por Pseudomona
+T71	DISEASE 5626 5665	Intoxicación grave por organofosforados
+T72	DISEASE 5667 5712	Síndrome coronario agudo con elevación del ST
+T73	DISEASE 5807 5832	Insuficiencia renal aguda
+T74	DISEASE 5874 5889	Hepatitis aguda
+T75	DISEASE 5933 5976	Síndrome de distrés respiratorio del adulto
+T76	DISEASE 5978 6017	Shock séptico por Pseudomona aeruginosa
+T77	DISEASE 1008 1027	bloqueo AV completo
+T78	DISEASE 3879 3897	bloqueo AV grado I
+T79	DISEASE 4155 4165	bloqueo AV
+T80	DISEASE 5048 5066	bloqueo AV grado I
+T81	DISEASE 5511 5537	Parada cardiorrespiratoria
+T82	DISEASE 3242 3276	ADA con irregularidades parietales
+T83	DISEASE 3307 3326	Cx hipodesarrollada
+T84	DISEASE 3343 3375	CD con placa complicada y trombo
+T85	DISEASE 3934 3956	cuadro coronario agudo
+T130	DISEASE 689 691	FV
+T21	DISEASE 5553 5576	fibrilación ventricular
+#1	AnnotatorNotes T77	AV: auriculo-ventricular

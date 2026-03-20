@@ -1,0 +1,9 @@
+T7	PROCEDURE 111 119	delivery
+T1	PROCEDURE 152 171	Prenatal ultrasound
+T8	PROCEDURE 385 400	MRI examination
+T9	PROCEDURE 455 495	Electroencephalographic (EEG) recordings
+T3	PROCEDURE 480 483	EEG
+T4	PROCEDURE 509 526	Cognitive studies
+T5	PROCEDURE 575 593	Fundus examination
+T6	PROCEDURE 640 652	right fundus
+T2	PROCEDURE 793 804	left fundus

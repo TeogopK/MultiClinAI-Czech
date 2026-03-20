@@ -1,0 +1,24 @@
+T1	SYMPTOM 45 52	vómitos
+T2	SYMPTOM 54 61	diarrea
+T3	SYMPTOM 106 115	hipotonía
+T4	SYMPTOM 661 685	escasa ganancia ponderal
+T5	SYMPTOM 260 274	ingesta escasa
+T6	SYMPTOM 299 306	vómitos
+T7	SYMPTOM 716 734	hipertransaminemia
+T8	SYMPTOM 736 751	hipoalbuminemia
+T9	SYMPTOM 753 794	transferrina y ceruloplasmina disminuidas
+T10	SYMPTOM 1087 1093	fiebre
+T11	SYMPTOM 1095 1107	hipoglucemia
+T12	SYMPTOM 1109 1127	mal estado general
+T13	SYMPTOM 1130 1145	mala coloración
+T14	SYMPTOM 312 413	ecografía abdominal, transfontanelar, radiografía de tórax, analítica de sangre y urocultivo normales
+T15	SYMPTOM 800 858	serología de virus hepatotropos y ecocardiografía normales
+T16	SYMPTOM 453 471	rotavirus en heces
+T17	SYMPTOM 203 228	embarazo y parto normales
+T18	SYMPTOM 179 184	sanos
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T14
+A5	RESULTADO T15
+A6	RESULTADO T16

@@ -1,0 +1,34 @@
+T89	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T57	PROCEDURE 344 358	echocardiogram
+T61	PROCEDURE 1068 1088	Cardiac auscultation
+T62	PROCEDURE 1211 1233	pulmonary auscultation
+T63	PROCEDURE 1316 1319	ECG
+T64	PROCEDURE 1414 1423	haemogram
+T90	PROCEDURE 1449 1461	biochemistry
+T65	PROCEDURE 1676 1690	Blood cultures
+T67	PROCEDURE 1740 1751	Chest X-ray
+T73	PROCEDURE 1885 1913	transthoracic echocardiogram
+T58	PROCEDURE 1899 1913	echocardiogram
+T68	PROCEDURE 1931 1946	transesophageal
+T70	PROCEDURE 2909 2912	ETE
+T71	PROCEDURE 4732 4752	Coronary angiography
+T72	PROCEDURE 4983 5001	Diuretic treatment
+T74	PROCEDURE 5100 5130	Transthoracic echocardiography
+T59	PROCEDURE 5114 5130	echocardiography
+T69	PROCEDURE 5291 5306	transesophageal
+T75	PROCEDURE 5291 5323	transesophageal echocardiography
+T60	PROCEDURE 5307 5323	echocardiography
+T66	PROCEDURE 5628 5642	Blood cultures
+T76	PROCEDURE 5964 5976	echo-Doppler
+T87	PROCEDURE 6046 6057	embolectomy
+T77	PROCEDURE 6370 6394	aortic valve replacement
+T78	PROCEDURE 6827 6858	invasive mechanical ventilation
+T80	PROCEDURE 7133 7165	removal of the mitral prosthesis
+T81	PROCEDURE 7167 7188	Intracardiac cleaning
+T82	PROCEDURE 7213 7256	implantation of a new mechanical prosthesis
+T83	PROCEDURE 7392 7402	extubation
+T84	PROCEDURE 7541 7565	neurological examination
+T85	PROCEDURE 7670 7680	cranial CT
+T79	PROCEDURE 8281 8312	invasive mechanical ventilation
+T86	PROCEDURE 8674 8703	cardiopulmonary resuscitation
+T88	PROCEDURE 9162 9173	embolectomy

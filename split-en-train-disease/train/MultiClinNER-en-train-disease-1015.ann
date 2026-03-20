@@ -1,0 +1,35 @@
+T19	DISEASE 100 119	atrial fibrillation
+T20	DISEASE 126 148	intracavitary thrombus
+T38	DISEASE 140 148	thrombus
+T21	DISEASE 272 286	drug allergies
+T22	DISEASE 324 336	Hypertension
+T23	DISEASE 341 354	dyslipidaemia
+T24	DISEASE 365 373	diabetes
+T53	DISEASE 548 564	coronary lesions
+T25	DISEASE 590 603	Paroxysmal AF
+T26	DISEASE 686 722	Small vessel cerebrovascular disease
+T27	DISEASE 776 789	Hiatal hernia
+T28	DISEASE 791 813	Haemorrhoidal syndrome
+T29	DISEASE 2095 2113	amyloid angiopathy
+T32	DISEASE 3010 3013	DVT
+T52	DISEASE 3361 3373	cardiomegaly
+T33	DISEASE 3937 3960	Tricuspid insufficiency
+T34	DISEASE 4163 4183	pericardial effusion
+T35	DISEASE 4357 4388	right frontal lobar haemorrhage
+T36	DISEASE 4393 4418	small vessel vasculopathy
+T30	DISEASE 4454 4472	amyloid angiopathy
+T39	DISEASE 4994 5002	thrombus
+T40	DISEASE 5242 5250	thrombus
+T49	DISEASE 5398 5400	it
+T41	DISEASE 5512 5520	thrombus
+T42	DISEASE 5768 5776	thrombus
+T43	DISEASE 6335 6343	thrombus
+T45	DISEASE 6385 6399	cardiomyopathy
+T47	DISEASE 6405 6435	severe ventricular dysfunction
+T50	DISEASE 6437 6439	it
+T51	DISEASE 6653 6711	Dilated cardiomyopathy with severe ventricular dysfunction
+T46	DISEASE 6661 6675	cardiomyopathy
+T48	DISEASE 6681 6711	severe ventricular dysfunction
+T31	DISEASE 6790 6808	amyloid angiopathy
+T44	DISEASE 6866 6874	Thrombus
+T37	DISEASE 6866 6899	Thrombus in left atrial appendage

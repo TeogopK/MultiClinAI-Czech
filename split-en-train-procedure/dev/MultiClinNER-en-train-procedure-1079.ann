@@ -1,0 +1,37 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T80	PROCEDURE 215 235	Bentall-Bono surgery
+T2	PROCEDURE 241 291	implantation of a bicuspid aortic valve prosthesis
+T1	PROCEDURE 468 490	cardiopulmonary bypass
+T53	PROCEDURE 1188 1208	Physical examination
+T55	PROCEDURE 1209 1229	Cardiac auscultation
+T56	PROCEDURE 1306 1328	Pulmonary auscultation
+T59	PROCEDURE 1610 1622	auscultation
+T60	PROCEDURE 1687 1704	Electrocardiogram
+T61	PROCEDURE 1706 1709	ECG
+T62	PROCEDURE 1794 1808	Echocardiogram
+T67	PROCEDURE 2162 2192	Transesophageal echocardiogram
+T3	PROCEDURE 2390 2414	mitral clip implantation
+T54	PROCEDURE 2494 2514	physical examination
+T4	PROCEDURE 2571 2591	CT scan of the aorta
+T5	PROCEDURE 2646 2653	CT scan
+T69	PROCEDURE 3132 3146	repair surgery
+T64	PROCEDURE 3183 3197	echocardiogram
+T70	PROCEDURE 3247 3278	coronary artery catheterisation
+T71	PROCEDURE 3409 3420	aortography
+T72	PROCEDURE 3486 3501	cardiac surgery
+T6	PROCEDURE 3525 3557	mitral valvuloplasty with a ring
+T7	PROCEDURE 3559 3604	Surgery was performed with hypothermic arrest
+T74	PROCEDURE 3685 3695	sternotomy
+T8	PROCEDURE 3756 3807	anastomosis of the valved tube with the aortic root
+T9	PROCEDURE 3838 3876	replaced with a biological valved tube
+T75	PROCEDURE 3878 3895	Ring annuloplasty
+T65	PROCEDURE 3978 3992	echocardiogram
+T76	PROCEDURE 4052 4071	mitral annuloplasty
+T68	PROCEDURE 4231 4263	Transesophageal echocardiography
+T77	PROCEDURE 4317 4336	mitral annuloplasty
+T78	PROCEDURE 5044 5075	invasive mechanical ventilation
+T79	PROCEDURE 5141 5150	extubated
+T81	PROCEDURE 5287 5307	Bentall-Bono surgery
+T10	PROCEDURE 5313 5357	implantation of mechanical aortic prosthesis
+T82	PROCEDURE 5538 5558	Bentall-Bono surgery
+T84	PROCEDURE 5626 5646	mitral valvuloplasty

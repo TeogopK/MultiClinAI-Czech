@@ -1,0 +1,19 @@
+T40	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T39	PROCEDURE 200 221	anaesthetic induction
+T41	PROCEDURE 708 728	Physical examination
+T42	PROCEDURE 816 836	Cardiac auscultation
+T43	PROCEDURE 995 1017	Pulmonary auscultation
+T44	PROCEDURE 1194 1205	Blood count
+T57	PROCEDURE 1207 1219	biochemistry
+T54	PROCEDURE 1224 1235	coagulation
+T45	PROCEDURE 1253 1264	Chest X-ray
+T46	PROCEDURE 1343 1346	ECG
+T51	PROCEDURE 1404 1432	Transthoracic echocardiogram
+T55	PROCEDURE 1675 1684	Telemetry
+T50	PROCEDURE 1799 1811	Auscultation
+T47	PROCEDURE 1939 1942	ECG
+T52	PROCEDURE 2143 2159	echocardiography
+T56	PROCEDURE 2265 2289	monitored with telemetry
+T53	PROCEDURE 2516 2547	implantation of a defibrillator
+T4	PROCEDURE 2594 2610	ICD implantation
+T3	PROCEDURE 2619 2653	blood extraction for genetic study

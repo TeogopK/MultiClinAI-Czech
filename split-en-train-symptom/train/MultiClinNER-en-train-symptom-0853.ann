@@ -1,0 +1,43 @@
+T1	SYMPTOM 702 728	oppressive precordial pain
+T2	SYMPTOM 763 780	vegetative cortex
+T3	SYMPTOM 1159 1168	conscious
+T4	SYMPTOM 1170 1178	oriented
+T5	SYMPTOM 1180 1195	eupneic at rest
+T6	SYMPTOM 1205 1226	jugular ingurgitation
+T7	SYMPTOM 1228 1267	Cardiac auscultation with regular tones
+T8	SYMPTOM 1275 1282	murmurs
+T9	SYMPTOM 1312 1338	preserved vesicular murmur
+T10	SYMPTOM 1359 1407	Radial and pedial pulses present and symmetrical
+T11	SYMPTOM 1420 1437	peripheral oedema
+T13	SYMPTOM 1503 1507	pain
+T14	SYMPTOM 2825 2829	pain
+T15	SYMPTOM 3192 3196	pain
+T16	SYMPTOM 3354 3358	pain
+T17	SYMPTOM 3846 3850	pain
+T19	SYMPTOM 1509 1521	sinus rhythm
+T20	SYMPTOM 1654 1666	sinus rhythm
+T21	SYMPTOM 1544 1554	narrow QRS
+T22	SYMPTOM 1689 1699	narrow QRS
+T23	SYMPTOM 1618 1636	flattened T in III
+T24	SYMPTOM 1811 1846	normal cardiomediastinal silhouette
+T25	SYMPTOM 2201 2227	non-dilated left ventricle
+T26	SYMPTOM 2233 2247	preserved LVEF
+T27	SYMPTOM 2294 2349	Non-dilated right ventricle with good systolic function
+T29	SYMPTOM 3181 3196	precordial pain
+T31	SYMPTOM 3801 3823	haemodynamic stability
+T32	SYMPTOM 4232 4243	hypotension
+T33	SYMPTOM 6002 6044	severe depression of its systolic function
+T34	SYMPTOM 3423 3443	ST-segment elevation
+T35	SYMPTOM 4482 4502	ST-segment elevation
+T36	SYMPTOM 6561 6581	ST-segment elevation
+T37	SYMPTOM 6617 6637	ST-segment elevation
+T38	SYMPTOM 6069 6107	alterations in segmental contractility
+T40	SYMPTOM 2860 2874	nitroglycerine
+T12	SYMPTOM 1574 1616	ST-segment depression < 0.5 mm in V4 to V6
+T28	SYMPTOM 1749 1796	biphasic T from V2 to V5, negative in I and aVL
+T41	SYMPTOM 2127 2174	biochemistry, haemogram and coagulation anodine
+T42	SYMPTOM 2252 2293	anterior hypokinesia at mid-apical level.
+T43	SYMPTOM 3250 3290	increase in markers of myocardial damage
+T18	SYMPTOM 4161 4184	intense precordial pain
+T30	SYMPTOM 4200 4226	haemodynamic deterioration
+T44	SYMPTOM 4397 4435	elevation of myocardial damage markers

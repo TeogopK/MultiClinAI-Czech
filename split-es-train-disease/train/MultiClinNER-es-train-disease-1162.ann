@@ -1,0 +1,56 @@
+T35	DISEASE 74 109	reacciones alérgicas medicamentosas
+T37	DISEASE 326 353	miocardiopatía hipertrófica
+T38	DISEASE 404 419	hábitos tóxicos
+T39	DISEASE 424 445	hipertensión arterial
+T40	DISEASE 447 450	HTA
+T41	DISEASE 456 464	diabetes
+T42	DISEASE 469 479	dislipemia
+T43	DISEASE 481 523	Miocardiopatía hipertrófica no obstructiva
+T44	DISEASE 914 944	extrasistolia supraventricular
+T45	DISEASE 991 1016	extrasistolia ventricular
+T46	DISEASE 1449 1469	síndrome de QT largo
+T47	DISEASE 1471 1475	SQTL
+T48	DISEASE 1582 1609	miocardiopatía hipertrófica
+T49	DISEASE 1690 1701	SQTL tipo 1
+T50	DISEASE 1741 1753	fibromialgia
+T51	DISEASE 1755 1772	lumbalgia crónica
+T52	DISEASE 1840 1851	metrorragia
+T53	DISEASE 2156 2170	espasmo tónico
+T54	DISEASE 2318 2339	fibrilación auricular
+T55	DISEASE 2397 2416	bradicardia sinusal
+T56	DISEASE 2984 3009	trombosis venosa profunda
+T57	DISEASE 3078 3097	bradicardia sinusal
+T58	DISEASE 3622 3699	ventrículo izquierdo de tamaño normal con hipertrofia septal grave asimétrica
+T59	DISEASE 4127 4147	insuficiencia mitral
+T60	DISEASE 4327 4352	insuficiencia tricuspídea
+T61	DISEASE 4354 4356	IT
+T62	DISEASE 4451 4472	hipertensión pulmonar
+T63	DISEASE 4474 4477	HTP
+T64	DISEASE 4668 4687	derrame pericárdico
+T65	DISEASE 4930 4940	neumotórax
+T66	DISEASE 5196 5238	miocardiopatía hipertrófica no obstructiva
+T67	DISEASE 5252 5279	síndrome de QT largo tipo 1
+T68	DISEASE 5301 5331	síncope de perfil cardiogénico
+T69	DISEASE 5467 5474	síncope
+T71	DISEASE 5560 5575	evento sincopal
+T72	DISEASE 5600 5627	síndrome de QT largo tipo 1
+T73	DISEASE 5643 5670	miocardiopatía hipertrófica
+T74	DISEASE 5693 5713	síncope cardiogénico
+T75	DISEASE 5810 5837	miocardiopatía hipertrófica
+T76	DISEASE 5860 5893	fibrilación auricular paroxística
+T77	DISEASE 6108 6138	Síncope de perfil cardiogénico
+T78	DISEASE 6140 6182	Miocardiopatía hipertrófica no obstructiva
+T79	DISEASE 6196 6223	síndrome de QT largo tipo 1
+T80	DISEASE 6270 6303	Fibrilación auricular paroxística
+T81	DISEASE 6317 6335	angor hemodinámico
+T82	DISEASE 4017 4058	Aurícula izquierda moderadamente dilatada
+T83	DISEASE 4149 4151	IM
+T84	DISEASE 4587 4617	dilatación de aorta ascendente
+T85	DISEASE 747 767	fibrosis mesocárdica
+T86	DISEASE 617 646	hipertrofia asimétrica septal
+T119	DISEASE 5523 5525	MS
+T125	DISEASE 973 976	TSV
+T139	DISEASE 160 173	muerte súbita
+T140	DISEASE 5508 5535	muerte súbita (MS) nocturna
+#1	AnnotatorNotes T47	 síndrome de QT largo
+#2	AnnotatorNotes T83	 insuficiencia mitral

@@ -1,0 +1,50 @@
+T1	SYMPTOM 569 590	loss of consciousness
+T2	SYMPTOM 953 962	conscious
+T3	SYMPTOM 967 975	oriented
+T29	SYMPTOM 977 995	language preserved
+T4	SYMPTOM 997 1027	Isochoric normoreactive pupils
+T5	SYMPTOM 1029 1061	Normal extrinsic ocular motility
+T30	SYMPTOM 1107 1141	Strength and sensitivity preserved
+T31	SYMPTOM 1143 1162	Coordination normal
+T6	SYMPTOM 1164 1180	Romberg negative
+T32	SYMPTOM 1185 1204	alterations in gait
+T7	SYMPTOM 1209 1230	jugular ingurgitation
+T8	SYMPTOM 1254 1274	regular heart sounds
+T9	SYMPTOM 1279 1286	murmurs
+T10	SYMPTOM 1312 1338	preserved vesicular murmur
+T33	SYMPTOM 1358 1366	wheezing
+T17	SYMPTOM 1368 1399	Abdomen: no masses or megaliths
+T11	SYMPTOM 1401 1422	Peristalsis preserved
+T15	SYMPTOM 1427 1452	oedema in the lower limbs
+T12	SYMPTOM 1454 1484	Pulses present and symmetrical
+T13	SYMPTOM 2707 2719	sinus rhythm
+T14	SYMPTOM 2731 2740	Normal PR
+T35	SYMPTOM 2865 2923	V1 with end-force QRS filling and elevation of the J point
+T34	SYMPTOM 2951 3000	cardiac silhouette and mediastinum of normal size
+T21	SYMPTOM 3014 3027	consolidation
+T37	SYMPTOM 3081 3156	left ventricle of normal diameter and thickness with adequate contractility
+T36	SYMPTOM 3189 3237	Transmitral flow pattern of prolonged relaxation
+T18	SYMPTOM 3239 3271	Left atrium of normal dimensions
+T39	SYMPTOM 3273 3318	Fine leaflet mitral valve with normal opening
+T38	SYMPTOM 3343 3390	Tricommissural aortic valve with normal opening
+T40	SYMPTOM 3415 3450	Right chambers of normal dimensions
+T20	SYMPTOM 3615 3630	Centred midline
+T24	SYMPTOM 3635 3658	signs of acute bleeding
+T16	SYMPTOM 3662 3668	oedema
+T41	SYMPTOM 3670 3696	Calota without alterations
+T42	SYMPTOM 3825 3877	segmental and global systolic function within normal
+T43	SYMPTOM 3952 3979	systolic function preserved
+T22	SYMPTOM 4017 4050	preserved segmental contractility
+T19	SYMPTOM 4052 4099	Atria and great vessels of preserved dimensions
+T44	SYMPTOM 4238 4317	Morphological (without and with contrast) and functional study within normality
+T46	SYMPTOM 5034 5068	significant fall in blood pressure
+T25	SYMPTOM 5136 5178	significant lengthening of the HV interval
+T45	SYMPTOM 5281 5326	ventricular extrasystole with T-wave coupling
+T23	SYMPTOM 5353 5385	significant angiographic lesions
+T27	SYMPTOM 5470 5499	increase in J-point elevation
+T26	SYMPTOM 5532 5562	typical Brugada type 1 pattern
+T47	SYMPTOM 6106 6176	cranial CT scan was performed, which showed no significant alterations
+T49	SYMPTOM 6795 6840	ventricular extrasystole with T-wave coupling
+T48	SYMPTOM 7047 7083	increase in the J point in V1 and V2
+T28	SYMPTOM 7105 7128	typical Brugada pattern
+T50	SYMPTOM 7237 7308	coronary angiography was requested, which showed no significant lesions

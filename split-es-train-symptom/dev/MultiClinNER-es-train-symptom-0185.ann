@@ -1,0 +1,13 @@
+T1	SYMPTOM 85 129	sintomatología del aparato urinario inferior
+T2	SYMPTOM 1925 1947	adecuada función renal
+T3	SYMPTOM 2136 2160	función renal conservada
+T4	SYMPTOM 2011 2023	asintomático
+T5	SYMPTOM 1299 1334	se palpa latido abdominal expansivo
+T6	SYMPTOM 1449 1548	ecocardiograma basal y pruebas de función respiratoria, todos ellos sin alteraciones significativas
+T7	SYMPTOM 2060 2116	conserva todos los pulsos en las extremidades inferiores
+T8	SYMPTOM 623 643	riñones en herradura
+T9	SYMPTOM 2384 2419	riñones con morfología en herradura
+A1	RESULTADO T3
+A2	RESULTADO T6
+A3	IMAGEN T8
+A4	IMAGEN T9

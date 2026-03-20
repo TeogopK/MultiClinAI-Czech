@@ -1,0 +1,45 @@
+T110	PROCEDURE 958 986	ecocardiograma transtorácico
+T111	PROCEDURE 988 991	ETT
+T112	PROCEDURE 1437 1447	diuréticos
+T113	PROCEDURE 1552 1576	fármacos neurohormonales
+T114	PROCEDURE 1714 1752	implante de DAI-resincronizador Boston
+T115	PROCEDURE 2408 2429	tratamiento diurético
+T116	PROCEDURE 2690 2711	estudio pretrasplante
+T117	PROCEDURE 3205 3223	Exploración física
+T118	PROCEDURE 3508 3529	Auscultación cardiaca
+T119	PROCEDURE 3600 3621	Auscultación pulmonar
+T120	PROCEDURE 3737 3746	palpación
+T121	PROCEDURE 3947 3956	Hemograma
+T122	PROCEDURE 4362 4373	Coagulación
+T123	PROCEDURE 4841 4855	Perfil férrico
+T124	PROCEDURE 4968 4984	Perfil glucémico
+T125	PROCEDURE 5044 5059	Perfil lipídico
+T126	PROCEDURE 5212 5232	Radiografía de tórax
+T127	PROCEDURE 5415 5433	Electrocardiograma
+T128	PROCEDURE 5435 5438	ECG
+T129	PROCEDURE 5570 5584	Ecocardiograma
+T130	PROCEDURE 6054 6075	Cateterismo izquierdo
+T131	PROCEDURE 6142 6161	Cateterismo derecho
+T132	PROCEDURE 6631 6652	tratamiento diurético
+T133	PROCEDURE 7570 7584	panel genético
+T134	PROCEDURE 7598 7636	estudio genético mediante panel de NGS
+T135	PROCEDURE 8002 8023	estudio pretrasplante
+T136	PROCEDURE 8343 8362	trasplante cardiaco
+T137	PROCEDURE 8443 8460	cultivo de esputo
+T138	PROCEDURE 8721 8739	ecografía pulmonar
+T139	PROCEDURE 8810 8831	tratamiento diurético
+T140	PROCEDURE 9080 9101	implante de MitraClip
+T141	PROCEDURE 9214 9245	retirar diuréticos intravenosos
+T142	PROCEDURE 10169 10188	trasplante cardiaco
+T143	PROCEDURE 10423 10429	Holter
+T165	PROCEDURE 4507 4517	Bioquímica
+T166	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T167	PROCEDURE 1290 1306	Ergoespirometría
+T168	PROCEDURE 6538 6551	Función renal
+T169	PROCEDURE 6889 6917	cateterismo cardiaco derecho
+T172	PROCEDURE 6680 6694	perfil férrico
+T194	PROCEDURE 3936 3945	Analítica
+T196	PROCEDURE 5298 5347	Generador de DAI-TRC en región pectoral izquierda
+T197	PROCEDURE 10375 10382	DAI-TRC
+T210	PROCEDURE 9415 9424	analítica
+T244	PROCEDURE 2380 2405	perfusión de levosimendán

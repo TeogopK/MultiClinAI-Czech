@@ -1,0 +1,74 @@
+T1	SYMPTOM 242 256	dolor torácico
+T2	SYMPTOM 259 284	elevación del segmento ST
+T3	SYMPTOM 1479 1511	funciones cognitivas conservadas
+T5	SYMPTOM 1601 1607	disnea
+T6	SYMPTOM 1744 1764	eritema generalizado
+T7	SYMPTOM 1774 1795	prurito palmo-plantar
+T8	SYMPTOM 1797 1812	prurito genital
+T10	SYMPTOM 1842 1850	disfonía
+T11	SYMPTOM 2062 2074	leve prurito
+T13	SYMPTOM 2217 2281	dolor torácico intenso irradiado a extremidad superior izquierda
+T14	SYMPTOM 2331 2360	elevación del ST anteroseptal
+T15	SYMPTOM 2487 2507	hipotensión arterial
+T16	SYMPTOM 2509 2522	frialdad acra
+T17	SYMPTOM 2525 2537	obnubilación
+T18	SYMPTOM 2669 2694	elevación del segmento ST
+T19	SYMPTOM 2921 2931	consciente
+T20	SYMPTOM 2934 2943	orientado
+T21	SYMPTOM 2961 2966	dolor
+T22	SYMPTOM 3060 3080	hipotensión arterial
+T23	SYMPTOM 3193 3222	elevación del ST anteroseptal
+T24	SYMPTOM 3266 3291	disfunción moderada de VI
+T25	SYMPTOM 3434 3448	dolor torácico
+T26	SYMPTOM 3760 3767	afebril
+T27	SYMPTOM 3769 3780	Somnoliento
+T28	SYMPTOM 3808 3825	livideces en EEII
+T29	SYMPTOM 3828 3841	frialdad acra
+T30	SYMPTOM 3863 3884	ingurgitación yugular
+T31	SYMPTOM 3886 3916	Auscultación cardiaca: rítmica
+T32	SYMPTOM 3929 3935	soplos
+T33	SYMPTOM 3969 3990	crepitantes bibasales
+T36	SYMPTOM 4049 4075	ruidos hidroáreos normales
+T37	SYMPTOM 4105 4118	edemas en EII
+T38	SYMPTOM 4120 4144	pedio izquierdo palpable
+T39	SYMPTOM 4226 4239	ritmo sinusal
+T40	SYMPTOM 4307 4341	elevación del ST de V1-V5, I y AVL
+T41	SYMPTOM 4495 4527	elevación del ST en precordiales
+T42	SYMPTOM 4573 4612	silueta cardiaca no aumentada de tamaño
+T43	SYMPTOM 4639 4665	senos costofrénicos libres
+T45	SYMPTOM 6427 6464	ventrículo izquierdo (VI) no dilatado
+T46	SYMPTOM 6514 6562	función sistólica global moderadamente deprimida
+T47	SYMPTOM 6659 6694	Ventrículo derecho (VD) no dilatado
+T48	SYMPTOM 6696 6721	función global conservada
+T49	SYMPTOM 6985 7021	Válvula tricúspide de aspecto normal
+T50	SYMPTOM 7265 7278	ritmo sinusal
+T51	SYMPTOM 8237 8268	molestia torácica leve residual
+T52	SYMPTOM 8358 8365	prurito
+T54	SYMPTOM 8700 8712	asintomático
+T55	SYMPTOM 8814 8839	IgE elevada para Anisakis
+T56	SYMPTOM 9221 9256	Hemodinámicamente permanece estable
+T57	SYMPTOM 9827 9848	crepitantes bibasales
+T58	SYMPTOM 9854 9860	disnea
+T59	SYMPTOM 9864 9876	desaturación
+T60	SYMPTOM 9955 9966	pico febril
+T61	SYMPTOM 9991 9999	tiritona
+T62	SYMPTOM 10758 10770	asintomático
+T199	SYMPTOM 3992 4047	Abdomen: blando, depresible, no doloroso a la palpación
+T201	SYMPTOM 3782 3803	Mala perfusión distal
+T227	SYMPTOM 3118 3137	taquicardia sinusal
+T228	SYMPTOM 4445 4464	taquicardia sinusal
+T229	SYMPTOM 9359 9378	taquicardia sinusal
+T208	SYMPTOM 3296 3304	acinesia
+T35	SYMPTOM 7087 7123	Vena cava inferior (VCI) no dilatada
+T44	SYMPTOM 8842 8874	IgE negativas a merluza y almeja
+T53	SYMPTOM 9309 9325	hipotensión leve
+T82	SYMPTOM 10716 10756	hemodinámica y respiratoriamente estable
+T246	SYMPTOM 6726 6741	acinesia apical
+T247	SYMPTOM 6577 6623	acinesia de todos los segmentos medio-apicales
+T257	SYMPTOM 4671 4685	condensaciones
+T274	SYMPTOM 4614 4637	redistribución vascular
+T275	SYMPTOM 2452 2472	signos de bajo gasto
+T206	SYMPTOM 4476 4484	PR largo
+T209	SYMPTOM 6010 6043	Coronaria derecha (CD): dominante
+T210	SYMPTOM 6743 6822	Válvula aórtica esclerosa con apertura conservada, sin alteraciones funcionales
+T214	SYMPTOM 8381 8470	determinaciones de triptasa seriadas durante las primeras 24 horas que resultan positivas

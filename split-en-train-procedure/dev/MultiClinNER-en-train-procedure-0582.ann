@@ -1,0 +1,16 @@
+T1	PROCEDURE 81 103	tricuspid annuloplasty
+T2	PROCEDURE 468 488	clinical examination
+T18	PROCEDURE 727 738	Blood tests
+T3	PROCEDURE 876 887	Chest X-ray
+T4	PROCEDURE 909 930	Serial blood cultures
+T24	PROCEDURE 1450 1523	Transthoracic Echocardiography (TTE) and Transesophageal Echocardiography
+T5	PROCEDURE 1482 1485	TTE
+T26	PROCEDURE 1525 1528	TEE
+T28	PROCEDURE 1719 1734	cranial CT scan
+T7	PROCEDURE 1913 1928	anticoagulation
+T8	PROCEDURE 2027 2042	anticoagulation
+T10	PROCEDURE 2089 2109	antibiotic treatment
+T11	PROCEDURE 2140 2160	CT scan of the brain
+T12	PROCEDURE 2436 2459	echocardiographic study
+T34	PROCEDURE 2464 2479	cranial CT scan
+T13	PROCEDURE 2616 2636	oral anticoagulation

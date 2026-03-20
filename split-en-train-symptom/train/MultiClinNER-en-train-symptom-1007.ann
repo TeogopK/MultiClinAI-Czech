@@ -1,0 +1,53 @@
+T1	SYMPTOM 311 330	carrier of Val26Ala
+T2	SYMPTOM 704 731	cardiovascular risk factors
+T3	SYMPTOM 965 1025	right ventricle (RV) with mildly depressed systolic function
+T4	SYMPTOM 1503 1535	Persistently elevated biomarkers
+T5	SYMPTOM 2722 2745	haemodynamically stable
+T6	SYMPTOM 2872 2880	dyspnoea
+T7	SYMPTOM 8198 8206	dyspnoea
+T8	SYMPTOM 2885 2895	orthopnoea
+T9	SYMPTOM 8262 8272	orthopnoea
+T10	SYMPTOM 9004 9014	orthopnoea
+T11	SYMPTOM 2897 2907	bendopnoea
+T12	SYMPTOM 2909 2912	DPN
+T13	SYMPTOM 2983 2994	weight gain
+T14	SYMPTOM 3312 3321	Conscious
+T15	SYMPTOM 3323 3328	alert
+T16	SYMPTOM 3333 3341	oriented
+T17	SYMPTOM 3343 3365	Good general condition
+T18	SYMPTOM 3367 3380	Well perfused
+T19	SYMPTOM 3382 3393	PVC: Normal
+T20	SYMPTOM 3395 3425	Cardiac auscultation: rhythmic
+T21	SYMPTOM 3512 3538	preserved vesicular murmur
+T22	SYMPTOM 3566 3598	Abdomen: RHA+, soft, depressible
+T23	SYMPTOM 3604 3624	painful on palpation
+T24	SYMPTOM 3629 3635	masses
+T25	SYMPTOM 3639 3648	megaliths
+T26	SYMPTOM 3662 3672	peritonism
+T27	SYMPTOM 3674 3696	Lower limbs: no oedema
+T28	SYMPTOM 5118 5141	vascular redistribution
+T29	SYMPTOM 5792 5831	Moderately elevated pulmonary pressures
+T30	SYMPTOM 6222 6244	haemodynamic stability
+T31	SYMPTOM 7854 7870	mild proteinuria
+T32	SYMPTOM 8143 8181	sputum culture and rhinovirus negative
+T33	SYMPTOM 8281 8302	peripheral congestion
+T34	SYMPTOM 5290 5302	sinus rhythm
+T35	SYMPTOM 7005 7041	Val26Ala mutation in the emerin gene
+T36	SYMPTOM 8984 8994	euvolaemic
+T37	SYMPTOM 9740 9773	Val26Ala mutation in the EMD gene
+T38	SYMPTOM 404 408	died
+T39	SYMPTOM 1433 1461	renal function deterioration
+T41	SYMPTOM 2428 2471	progressive deterioration of renal function
+T43	SYMPTOM 2947 2978	increase in abdominal perimeter
+T42	SYMPTOM 2917 2942	oedema in the lower limbs
+T44	SYMPTOM 3427 3482	systolic murmur II-III/VI in tricuspid and mitral focus
+T45	SYMPTOM 3553 3564	added noise
+T46	SYMPTOM 3540 3543	VCM
+T47	SYMPTOM 3737 3774	Pedial pulses present and symmetrical
+T48	SYMPTOM 5080 5116	increased cardiothoracic index (CTI)
+T49	SYMPTOM 5552 5566	Reduced stroke
+T50	SYMPTOM 6028 6060	Pressure in RA slightly elevated
+T51	SYMPTOM 6071 6083	Elevated PCP
+T52	SYMPTOM 6095 6119	Cardiac output decreased
+T53	SYMPTOM 6325 6346	Renal function stable
+T54	SYMPTOM 8446 8468	low postprandial outpu

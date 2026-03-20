@@ -1,0 +1,17 @@
+T1	PROCEDURE 1367 1389	control de la glucemia
+T2	PROCEDURE 178 210	quimioterapia (BEACOPP escalado)
+T3	PROCEDURE 242 255	quimioterapia
+T4	PROCEDURE 1600 1625	estudio anatomopatológico
+T5	PROCEDURE 1641 1668	resección de yeyuno e íleon
+T6	PROCEDURE 543 553	intubación
+T7	PROCEDURE 556 584	transfusión de hemoderivados
+T8	PROCEDURE 590 605	endoscopia alta
+T9	PROCEDURE 734 773	estudio anatomopatológico de la biopsia
+T10	PROCEDURE 1103 1105	TC
+T11	PROCEDURE 2106 2109	PAS
+T12	PROCEDURE 2112 2128	plata metanamina
+T13	PROCEDURE 315 324	analítica
+T14	PROCEDURE 193 200	BEACOPP
+T15	PROCEDURE 1403 1410	cirugía
+T16	PROCEDURE 2195 2202	cirugía
+T18	PROCEDURE 1440 1467	intervenido quirúrgicamente

@@ -1,0 +1,8 @@
+T1	SYMPTOM 32 57	déficit de agudeza visual
+T2	SYMPTOM 527 551	palidez de ambas papilas
+T3	SYMPTOM 698 758	reducciones campimétricas concéntricas severas en ambos ojos
+T4	SYMPTOM 442 492	biomicroscopía anterior y tonometría eran normales
+T5	SYMPTOM 1207 1235	pérdida campimétrica y de AV
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4

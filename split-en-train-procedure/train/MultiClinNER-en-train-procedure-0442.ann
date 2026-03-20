@@ -1,0 +1,32 @@
+T18	PROCEDURE 164 182	preoperative study
+T14	PROCEDURE 210 231	L5-S1 microdiscectomy
+T13	PROCEDURE 329 340	Anaesthesia
+T3	PROCEDURE 341 360	General anaesthesia
+T4	PROCEDURE 381 403	orotracheal intubation
+T23	PROCEDURE 405 442	Induction was performed with Propofol
+T5	PROCEDURE 444 453	analgesia
+T6	PROCEDURE 473 498	m opioid receptor agonist
+T8	PROCEDURE 505 514	analgesic
+T21	PROCEDURE 549 559	relaxation
+T24	PROCEDURE 618 646	neuromuscular blocking agent
+T11	PROCEDURE 676 696	volatile anaesthetic
+T30	PROCEDURE 709 718	procedure
+T12	PROCEDURE 737 763	centrally acting analgesic
+T9	PROCEDURE 765 826	pure non-selective µ, delta and kappa opioid receptor agonist
+T15	PROCEDURE 899 910	anaesthesia
+T22	PROCEDURE 1313 1360	eyes were protected with lubricant and eye pads
+T20	PROCEDURE 1687 1747	conventional microsurgery with a two-finger midline incision
+T16	PROCEDURE 1749 1795	section of the common sacro-lumbar aponeurosis
+T25	PROCEDURE 1797 1840	retraction of the paravertebral musculature
+T7	PROCEDURE 1842 1852	flavectomy
+T37	PROCEDURE 1854 1915	root dissection and excision of the extracted disc herniation
+T19	PROCEDURE 1947 1969	blood was administered
+T26	PROCEDURE 1989 2032	hydrogen peroxide was used as a haemostatic
+T17	PROCEDURE 2100 2111	anaesthesia
+T1	PROCEDURE 2339 2347	brain CT
+T2	PROCEDURE 2554 2565	cranial MRI
+T44	PROCEDURE 2684 2699	MRI angiography
+T10	PROCEDURE 2891 2903	vasodilators
+T46	PROCEDURE 3072 3081	operation
+T27	PROCEDURE 3264 3267	MRI
+T28	PROCEDURE 3344 3347	MRI

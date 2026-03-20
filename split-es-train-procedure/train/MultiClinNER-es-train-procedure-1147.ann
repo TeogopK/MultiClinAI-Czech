@@ -1,0 +1,36 @@
+T46	PROCEDURE 192 211	diálisis peritoneal
+T47	PROCEDURE 338 368	embolización del injerto renal
+T48	PROCEDURE 391 410	diálisis peritoneal
+T49	PROCEDURE 502 521	tiroidectomía total
+T50	PROCEDURE 696 727	tratamiento con iodo radiactivo
+T51	PROCEDURE 842 855	examen físico
+T52	PROCEDURE 1053 1074	Auscultación cardiaca
+T53	PROCEDURE 1617 1620	ECG
+T54	PROCEDURE 1680 1691	Rx de tórax
+T55	PROCEDURE 1843 1861	Ecocardiografía TT
+T56	PROCEDURE 2060 2143	pericardiocentesis evacuadora tras sedación superficial con propofol guiada por eco
+T57	PROCEDURE 2095 2115	sedación superficial
+T58	PROCEDURE 2381 2451	prueba ecocardiográfica con suero agitado a través de aguja de catéter
+T59	PROCEDURE 2705 2716	Rx de tórax
+T60	PROCEDURE 2859 2870	radiografía
+T61	PROCEDURE 2891 2903	TAC de tórax
+T62	PROCEDURE 3407 3439	ventilación mecánica no invasiva
+T63	PROCEDURE 3704 3723	drenaje pericárdico
+T64	PROCEDURE 4114 4133	diálisis peritoneal
+T65	PROCEDURE 4263 4271	sedación
+T67	PROCEDURE 1561 1566	Iones
+T68	PROCEDURE 3875 3910	cultivos para aerobios y anaerobios
+T69	PROCEDURE 2549 2556	drenaje
+T70	PROCEDURE 1569 1586	enzimas cardiacas
+T71	PROCEDURE 3958 3988	estudio de anatomía patológica
+T72	PROCEDURE 2255 2262	punción
+T73	PROCEDURE 2673 2700	aporte de O2 con reservorio
+T74	PROCEDURE 2722 2729	punción
+T75	PROCEDURE 3442 3452	diuréticos
+T76	PROCEDURE 4191 4209	pericardiocentesis
+T78	PROCEDURE 1340 1349	Analítica
+T79	PROCEDURE 1007 1022	Cabeza y cuello
+T88	PROCEDURE 992 1005	gafas nasales
+T89	PROCEDURE 3686 3699	gafas nasales
+T90	PROCEDURE 3869 3873	gram
+T20	PROCEDURE 234 246	trasplantado

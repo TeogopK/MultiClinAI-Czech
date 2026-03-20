@@ -1,0 +1,30 @@
+T50	PROCEDURE 424 441	Electrocardiogram
+T51	PROCEDURE 550 561	Chest X-ray
+T2	PROCEDURE 659 670	Blood tests
+T52	PROCEDURE 949 959	Cranial CT
+T53	PROCEDURE 1031 1040	Brain MRI
+T55	PROCEDURE 1255 1283	Transthoracic echocardiogram
+T57	PROCEDURE 1702 1732	Transesophageal echocardiogram
+T61	PROCEDURE 1933 1947	echocardiogram
+T76	PROCEDURE 1949 1963	colour Doppler
+T64	PROCEDURE 2200 2220	Abdominal ultrasound
+T66	PROCEDURE 2323 2337	Blood cultures
+T67	PROCEDURE 2413 2427	blood cultures
+T6	PROCEDURE 2575 2589	volume support
+T69	PROCEDURE 2594 2611	vasoactive amines
+T8	PROCEDURE 2714 2721	CT scan
+T56	PROCEDURE 2729 2757	transthoracic echocardiogram
+T58	PROCEDURE 2842 2872	transesophageal echocardiogram
+T68	PROCEDURE 3114 3128	blood cultures
+T79	PROCEDURE 3197 3215	antibiotic regimen
+T54	PROCEDURE 3284 3293	brain MRI
+T70	PROCEDURE 3621 3630	diuretics
+T71	PROCEDURE 3724 3748	transfemoral embolectomy
+T65	PROCEDURE 3786 3806	Abdominal ultrasound
+T73	PROCEDURE 4022 4034	abdominal CT
+T74	PROCEDURE 4049 4064	echocardiograms
+T78	PROCEDURE 4452 4466	renal function
+T75	PROCEDURE 4772 4792	antibiotic treatment
+T77	PROCEDURE 4857 4882	valve replacement surgery
+T80	PROCEDURE 4969 4987	antibiotic regimen
+T72	PROCEDURE 5539 5563	transfemoral embolectomy

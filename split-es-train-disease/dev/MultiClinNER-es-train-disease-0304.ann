@@ -1,0 +1,15 @@
+T5	DISEASE 174 186	hipertensión
+T8	DISEASE 189 199	dislipemia
+T13	DISEASE 1606 1629	hemorragia subretiniana
+T14	DISEASE 768 799	subretiniana de esta hemorragia
+T15	DISEASE 216 234	bronquitis crónica
+T17	DISEASE 240 271	accidente isquémico transitorio
+T20	DISEASE 1464 1491	sangre en el ámbito macular
+T23	DISEASE 1953 1963	hemovítreo
+T27	DISEASE 1716 1732	DMAE hemorrágica
+T29	DISEASE 911 931	membrana neovascular
+T32	DISEASE 933 936	MNV
+T33	DISEASE 577 600	hemorragia subretiniana
+T37	DISEASE 439 463	defecto pupilar aferente
+#2	AnnotatorNotes T27	   DMAE: Degeneración macular asociada a edad
+#1	AnnotatorNotes T32	   MNV: membrana neovascular

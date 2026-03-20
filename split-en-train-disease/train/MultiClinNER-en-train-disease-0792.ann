@@ -1,0 +1,45 @@
+T49	DISEASE 112 126	drug allergies
+T75	DISEASE 128 140	Toxic habits
+T50	DISEASE 142 151	ex-smoker
+T74	DISEASE 182 189	Drinker
+T51	DISEASE 228 254	Former injecting drug user
+T52	DISEASE 337 376	Hepatitis C virus genotype 1a infection
+T53	DISEASE 452 477	Secondary liver cirrhosis
+T54	DISEASE 514 542	community-acquired pneumonia
+T2	DISEASE 585 604	respiratory failure
+T77	DISEASE 1042 1049	syncope
+T55	DISEASE 1940 1960	deep vein thrombosis
+T56	DISEASE 2061 2097	incomplete right bundle branch block
+T57	DISEASE 2186 2203	sinus bradycardia
+T6	DISEASE 2952 3055	severe spasm of the left main coronary artery (LMCA), right coronary artery (RCA) and circumflex artery
+T79	DISEASE 3488 3514	Mild diastolic dysfunction
+T58	DISEASE 3622 3642	pericardial effusion
+T59	DISEASE 3695 3719	cardiorespiratory arrest
+T9	DISEASE 3907 3929	space-occupying lesion
+T62	DISEASE 3931 3942	haemorrhage
+T10	DISEASE 3953 3981	acute or subacute infarction
+T11	DISEASE 4067 4155	Adenopathies of non-specific appearance in the lesser sac, mesentery and retroperitoneum
+T63	DISEASE 4157 4183	Bilateral pleural effusion
+T12	DISEASE 4602 4739	severe spasm of the left main coronary artery, right coronary artery and circumflex artery, with fine calibre of the entire coronary tree
+T64	DISEASE 5301 5365	cardiorespiratory arrest (CRA) in electromechanical dissociation
+T15	DISEASE 5327 5330	CRA
+T78	DISEASE 5504 5521	sinus tachycardia
+T65	DISEASE 5567 5602	polymorphic ventricular tachycardia
+T66	DISEASE 5702 5737	polymorphic ventricular tachycardia
+T16	DISEASE 5814 5817	CRP
+T67	DISEASE 5909 5936	acute myocardial infarction
+T69	DISEASE 5986 6010	subendocardial ischaemia
+T19	DISEASE 6164 6167	CRA
+T76	DISEASE 6601 6612	hypotension
+T84	DISEASE 6650 6676	recurrent vasospasm crises
+T80	DISEASE 6734 6750	severe vasospasm
+T82	DISEASE 6889 6908	recurrent vasospasm
+T70	DISEASE 7026 7075	partial adrenal insufficiency of pituitary origin
+T21	DISEASE 7083 7117	moderate hypoosmolar hyponatraemia
+T85	DISEASE 7342 7368	recurrent vasospasm crises
+T23	DISEASE 7703 7706	CRA
+T24	DISEASE 7765 7768	CRA
+T72	DISEASE 8303 8331	Recurrent vasospastic angina
+T61	DISEASE 8369 8393	cardiorespiratory arrest
+T73	DISEASE 8405 8464	acute myocardial infarction secondary to vasospastic angina
+T71	DISEASE 8558 8607	Partial adrenal insufficiency of pituitary origin

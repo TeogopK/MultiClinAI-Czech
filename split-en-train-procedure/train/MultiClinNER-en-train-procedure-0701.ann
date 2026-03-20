@@ -1,0 +1,28 @@
+T7	PROCEDURE 257 275	haemodynamic study
+T12	PROCEDURE 453 468	Catheterisation
+T21	PROCEDURE 619 626	surgery
+T27	PROCEDURE 749 876	planned myocardial revascularisation was performed using saphenous vein to RC and diagonal vein and mammary artery to AD grafts
+T28	PROCEDURE 903 906	ECC
+T15	PROCEDURE 966 977	hypothermia
+T13	PROCEDURE 1000 1011	Anaesthesia
+T31	PROCEDURE 1181 1232	Standard cardiopulmonary bypass with pulsatile flow
+T22	PROCEDURE 1292 1303	Pump output
+T32	PROCEDURE 1496 1516	dobutamine perfusion
+T5	PROCEDURE 1836 1859	noradrenaline perfusion
+T19	PROCEDURE 2009 2020	ventilation
+T8	PROCEDURE 2022 2040	Mediastinal drains
+T35	PROCEDURE 2054 2071	Plain chest X-ray
+T36	PROCEDURE 2124 2142	Swan-Ganz catheter
+T11	PROCEDURE 2204 2221	electrocardiogram
+T20	PROCEDURE 2223 2226	ECG
+T1	PROCEDURE 2252 2264	crystalloids
+T3	PROCEDURE 2269 2277	colloids
+T6	PROCEDURE 2349 2372	noradrenaline perfusion
+T18	PROCEDURE 2433 2452	Dobutamine infusion
+T16	PROCEDURE 2487 2495	Sedation
+T9	PROCEDURE 2539 2567	Echocardiographic monitoring
+T14	PROCEDURE 2828 2842	blood cultures
+T2	PROCEDURE 2990 3057	haemodynamic parameters measured with the pulmonary artery catheter
+T4	PROCEDURE 3092 3115	methylene blue infusion
+T10	PROCEDURE 3399 3419	arterial blood gases
+T17	PROCEDURE 4041 4054	was extubated

@@ -1,0 +1,79 @@
+T1	SYMPTOM 413 444	Estudio de trombofilia negativo
+T2	SYMPTOM 978 1001	dolor torácico opresivo
+T3	SYMPTOM 1036 1131	epigastralgia de moderada intensidad con posterior irradiación a región centrotorácica y cuello
+T4	SYMPTOM 1143 1161	cortejo vegetativo
+T5	SYMPTOM 1250 1256	disnea
+T7	SYMPTOM 1292 1306	dolor torácico
+T8	SYMPTOM 1341 1346	dolor
+T9	SYMPTOM 2350 2376	inestabilidad hemodinámica
+T11	SYMPTOM 3008 3013	dolor
+T12	SYMPTOM 3035 3058	ascenso del segmento ST
+T14	SYMPTOM 3755 3779	Tonos cardiacos rítmicos
+T15	SYMPTOM 3805 3834	Murmullo vesicular conservado
+T16	SYMPTOM 3854 3888	Extremidades inferiores sin edemas
+T17	SYMPTOM 3890 3933	pulsos periféricos conservados y simétricos
+T18	SYMPTOM 4048 4057	PR normal
+T19	SYMPTOM 4059 4071	QRS estrecho
+T20	SYMPTOM 4073 4102	Onda Q en II, III y aVF, V3-6
+T22	SYMPTOM 4224 4229	dolor
+T23	SYMPTOM 4262 4271	PR normal
+T24	SYMPTOM 4273 4285	QRS estrecho
+T25	SYMPTOM 4287 4337	Elevación del ST en II, III y aVF así como de V4-6
+T26	SYMPTOM 4368 4400	descenso del ST en I, aVL, V1-V2
+T27	SYMPTOM 4424 4437	Ritmo sinusal
+T28	SYMPTOM 4449 4458	PR normal
+T29	SYMPTOM 4460 4472	QRS estrecho
+T30	SYMPTOM 4541 4568	ICT dentro de la normalidad
+T31	SYMPTOM 4619 4642	redistribución vascular
+T32	SYMPTOM 5639 5668	Anticardiolipina IgG negativo
+T33	SYMPTOM 5674 5703	anticardiolipina IgM negativo
+T34	SYMPTOM 5821 5845	factor V Leiden negativo
+T36	SYMPTOM 6633 6682	VD de tamaño normal con contractilidad conservada
+T37	SYMPTOM 7180 7205	Ventrículo derecho normal
+T38	SYMPTOM 7281 7305	VI de volúmenes normales
+T39	SYMPTOM 7687 7701	VD no dilatado
+T40	SYMPTOM 7735 7770	función global sistólica conservada
+T41	SYMPTOM 7842 7875	Aurículas de dimensiones normales
+T43	SYMPTOM 8493 8514	volúmenes conservados
+T44	SYMPTOM 8558 8579	alteración contráctil
+T45	SYMPTOM 8581 8586	edema
+T46	SYMPTOM 8794 8842	formaciones ganglionares de tamaño significativo
+T47	SYMPTOM 8859 8866	nódulos
+T48	SYMPTOM 8870 8895	condensaciones pulmonares
+T49	SYMPTOM 8964 9002	útero heterogéneo, aumentado de tamaño
+T50	SYMPTOM 9417 9493	formaciones ganglionares de tamaño significativo en cadenas abdominopélvicas
+T51	SYMPTOM 9495 9545	Normal calibre y distribución de asas intestinales
+T52	SYMPTOM 9693 9715	labilidad hemodinámica
+T53	SYMPTOM 10071 10082	hipotensión
+T55	SYMPTOM 10580 10594	dolor torácico
+T56	SYMPTOM 10620 10648	disnea a moderados esfuerzos
+T57	SYMPTOM 10722 10735	palpitaciones
+T227	SYMPTOM 4017 4036	taquicardia sinusal
+T228	SYMPTOM 4231 4250	taquicardia sinusal
+T6	SYMPTOM 4342 4365	onda Q en II, III y aVF
+T10	SYMPTOM 4573 4607	pinzamiento de senos costofrénicos
+T210	SYMPTOM 5705 5740	beta 2 glicoproteína-I IgG negativo
+T211	SYMPTOM 5742 5777	beta 2 glicoproteína-I IgM negativo
+T212	SYMPTOM 5847 5884	factor II (mutación G20210A) negativo
+T35	SYMPTOM 6506 6572	acinesia de todos los segmentos apicales, anterior y lateral medio
+T214	SYMPTOM 6906 6978	hipocinesia marcada de segmentos medios anteriores, laterales y septales
+T215	SYMPTOM 7538 7594	depresión grave de la función global sistólica en reposo
+T241	SYMPTOM 9184 9220	Hígado de tamaño y morfología normal
+T255	SYMPTOM 5534 5564	anticoagulante lúpico negativo
+T283	SYMPTOM 11200 11210	tumoración
+T54	SYMPTOM 6197 6229	ANA inmunofluorescencia positivo
+T216	SYMPTOM 446 458	ANA Positivo
+T217	SYMPTOM 470 488	clínica autoinmune
+T218	SYMPTOM 512 525	Hipermenorrea
+T219	SYMPTOM 1675 1693	Dominancia derecha
+T21	SYMPTOM 6289 6311	ENA screening negativo
+T213	SYMPTOM 6268 6288	patrón IFI homogéneo
+T223	SYMPTOM 7142 7178	aumento de presiones telediastólicas
+T224	SYMPTOM 7231 7242	aumento PAP
+T225	SYMPTOM 7784 7840	Aorta y grandes vasos de diámetros y morfología normales
+T226	SYMPTOM 8004 8035	defectos de perfusión en reposo
+T229	SYMPTOM 8125 8139	RTG miocárdico
+T230	SYMPTOM 8517 8542	depresión grave de la FGS
+T231	SYMPTOM 8588 8608	defecto de perfusión
+T58	SYMPTOM 4083 4121	II, III y aVF, V3-6 con ascenso del ST
+T233	SYMPTOM 4119 4170	ST en dichas derivaciones y descenso en I, aVL V1-2

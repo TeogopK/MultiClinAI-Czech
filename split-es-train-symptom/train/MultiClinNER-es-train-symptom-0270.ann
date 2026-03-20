@@ -1,0 +1,8 @@
+T1	SYMPTOM 177 193	normoconstituido
+T2	SYMPTOM 199 258	pene, testes y epidídimos de tamaño y consistencia normales
+T3	SYMPTOM 1392 1443	test del sudor en el paciente fue asimismo negativo
+T4	SYMPTOM 332 385	conducto deferente izquierdo que no se lograba palpar
+T5	SYMPTOM 420 448	tacto rectal resultó anodino
+T6	SYMPTOM 552 594	se visualizó la vesícula seminal izquierda
+A1	RESULTADO T3
+A2	IMAGEN T6

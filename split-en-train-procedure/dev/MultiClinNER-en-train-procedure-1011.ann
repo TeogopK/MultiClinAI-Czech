@@ -1,0 +1,45 @@
+T61	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T2	PROCEDURE 477 517	Treatment was started with beta-blockers
+T63	PROCEDURE 537 551	Echocardiogram
+T66	PROCEDURE 748 757	diuretics
+T62	PROCEDURE 886 906	Physical examination
+T68	PROCEDURE 947 967	Cardiac auscultation
+T69	PROCEDURE 1044 1066	Pulmonary auscultation
+T4	PROCEDURE 1206 1217	Blood tests
+T70	PROCEDURE 1360 1363	ECG
+T71	PROCEDURE 1516 1527	Chest X-ray
+T72	PROCEDURE 1639 1661	MID Doppler ultrasound
+T5	PROCEDURE 1999 2021	Ultrasound Doppler MII
+T73	PROCEDURE 2132 2145	Doppler study
+T6	PROCEDURE 2273 2310	Cranial/perfusion computed tomography
+T87	PROCEDURE 2472 2480	Angio-CT
+T64	PROCEDURE 2607 2623	Echocardiography
+T78	PROCEDURE 2832 2869	Doppler ultrasound of the lower limbs
+T74	PROCEDURE 3285 3307	mechanical embolectomy
+T75	PROCEDURE 3327 3365	dissection of the right femoral tripod
+T11	PROCEDURE 3370 3407	MID embolectomy with Fogarty catheter
+T12	PROCEDURE 3424 3438	heparin lavage
+T76	PROCEDURE 3440 3451	haemostasis
+T79	PROCEDURE 3536 3554	Doppler ultrasound
+T80	PROCEDURE 3672 3687	anticoagulation
+T81	PROCEDURE 3876 3891	anticoagulation
+T89	PROCEDURE 3897 3910	antivitamin K
+T13	PROCEDURE 4192 4215	echo Doppler of the MII
+T14	PROCEDURE 4402 4450	intravenous sodium heparin perfusion was started
+T16	PROCEDURE 4696 4732	intravenous sodium heparin perfusion
+T83	PROCEDURE 4736 4751	cranial CT scan
+T18	PROCEDURE 5019 5048	the Stroke Code was activated
+T84	PROCEDURE 5132 5140	brain CT
+T88	PROCEDURE 5285 5293	angio-CT
+T85	PROCEDURE 5572 5713	perform a primary mechanical intra-arterial thrombectomy with aspiration of the cervical thrombus and fragments at the level of the LMCA-ICCA
+T21	PROCEDURE 5725 5727	CT
+T86	PROCEDURE 6214 6235	arterial thrombectomy
+T23	PROCEDURE 6241 6278	dissection of the left femoral tripod
+T24	PROCEDURE 6283 6375	extraction of thrombotic material at the left femoro-popliteal level with a Fogarty catheter
+T67	PROCEDURE 6495 6504	diuretics
+T31	PROCEDURE 6509 6522	beta-blockade
+T65	PROCEDURE 6524 6540	Echocardiography
+T51	PROCEDURE 7119 7164	mechanical thrombectomy with Fogarty catheter
+T53	PROCEDURE 7212 7257	mechanical thrombectomy with Fogarty catheter
+T82	PROCEDURE 7408 7423	anticoagulation
+T90	PROCEDURE 7429 7442	antivitamin K

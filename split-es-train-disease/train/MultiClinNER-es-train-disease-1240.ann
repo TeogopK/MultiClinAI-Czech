@@ -1,0 +1,29 @@
+T54	DISEASE 71 82	dislipémica
+T55	DISEASE 84 94	hipertensa
+T56	DISEASE 96 101	obesa
+T57	DISEASE 126 162	bloqueo auriculoventricular completo
+T58	DISEASE 164 167	BAV
+T59	DISEASE 170 198	insuficiencia venosa crónica
+T60	DISEASE 200 214	hipotiroidismo
+T61	DISEASE 217 234	espondiloartrosis
+T62	DISEASE 1646 1666	insuficiencia venosa
+T63	DISEASE 1670 1695	trombosis venosa profunda
+T64	DISEASE 2262 2300	bloqueo de rama derecha del haz de His
+T65	DISEASE 3352 3372	insuficiencia mitral
+T66	DISEASE 3499 3520	insuficiencia aórtica
+T67	DISEASE 3522 3525	IAo
+T68	DISEASE 3999 4011	hipertensión
+T69	DISEASE 4609 4621	hipertensión
+T70	DISEASE 5158 5208	Infarto de miocardio sin elevación del segmento ST
+T71	DISEASE 5278 5302	Miocardiopatía de estrés
+T72	DISEASE 5304 5326	síndrome de tako-tsubo
+T73	DISEASE 2302 2308	BCRDHH
+T74	DISEASE 5253 5276	Emergencia hipertensiva
+T75	DISEASE 5210 5217	IAMSEST
+T76	DISEASE 3374 3376	IM
+T77	DISEASE 4184 4224	angor de reposo ni de ligeros esfuerzos,
+T78	DISEASE 3180 3282	válvula mitral presentaba engrosamiento discreto de los velos valvulares, con calcificación del anillo
+T118	DISEASE 3576 3654	Válvula tricúspide morfológicamente normal, con buena apertura e insuficiencia
+T123	DISEASE 3795 3802	derrame
+T114	DISEASE 2312 2318	HMAIHH
+#1	AnnotatorNotes T76	  insuficiencia mitral

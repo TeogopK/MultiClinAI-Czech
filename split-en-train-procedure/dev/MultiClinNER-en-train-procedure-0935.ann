@@ -1,0 +1,21 @@
+T42	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T44	PROCEDURE 256 289	Percutaneous mitral valvuloplasty
+T43	PROCEDURE 431 451	Physical examination
+T45	PROCEDURE 460 467	sedated
+T46	PROCEDURE 472 507	connected to mechanical ventilation
+T47	PROCEDURE 523 543	Cardiac auscultation
+T48	PROCEDURE 571 593	Pulmonary auscultation
+T2	PROCEDURE 900 929	activation of the Stroke Code
+T49	PROCEDURE 1028 1072	Cranial CT scan without intravenous contrast
+T4	PROCEDURE 1177 1227	Angio-CT of supra-aortic trunks and Willis polygon
+T5	PROCEDURE 1636 1681	CT angiography of the thoraco-abdominal aorta
+T6	PROCEDURE 1683 1700	Perfusion CT scan
+T7	PROCEDURE 1887 1925	Angio-CT of the thoracoabdominal aorta
+T50	PROCEDURE 2260 2274	Echocardiogram
+T52	PROCEDURE 3006 3068	intravenous treatment with antihypertensive drugs and sedation
+T53	PROCEDURE 3123 3131	sedation
+T51	PROCEDURE 3195 3209	echocardiogram
+T54	PROCEDURE 3437 3446	diuretics
+T55	PROCEDURE 3451 3461	extubation
+T56	PROCEDURE 3688 3711	beta and alpha blockers
+T27	PROCEDURE 3744 3797	control CT angiography of the thoraco-abdominal aorta

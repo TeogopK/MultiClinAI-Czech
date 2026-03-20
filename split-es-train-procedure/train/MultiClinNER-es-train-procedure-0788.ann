@@ -1,0 +1,71 @@
+T75	PROCEDURE 13134 13154	anticoagulaciòn oral
+T77	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T78	PROCEDURE 1211 1233	anamnesis por aparatos
+T79	PROCEDURE 1448 1463	betabloqueantes
+T80	PROCEDURE 1543 1561	Exploración física
+T81	PROCEDURE 2070 2091	Auscultación cardiaca
+T82	PROCEDURE 2183 2204	Auscultación pulmonar
+T83	PROCEDURE 2566 2586	Radiografía de tórax
+T84	PROCEDURE 2683 2701	Electrocardiograma
+T85	PROCEDURE 3278 3293	Perfil lipídico
+T86	PROCEDURE 3546 3559	Proteinograma
+T87	PROCEDURE 3789 3803	Crioglobulinas
+T88	PROCEDURE 3873 3897	Serología VIH, VHB y VHC
+T89	PROCEDURE 3910 3924	Quantiferon TB
+T90	PROCEDURE 3948 3977	Ecocardiografía transtorácica
+T93	PROCEDURE 4692 4719	Coronariografía diagnóstica
+T94	PROCEDURE 5041 5070	Angiotomografía computarizada
+T96	PROCEDURE 5699 5734	Tomografía de emisión de positrones
+T97	PROCEDURE 5893 5904	corticoides
+T98	PROCEDURE 5960 5963	PET
+T99	PROCEDURE 6167 6179	colonoscopia
+T100	PROCEDURE 6222 6264	Ecografía Doppler de troncos supraaórticos
+T101	PROCEDURE 6576 6598	Radiografía de abdomen
+T102	PROCEDURE 6710 6745	Tomografía computarizada de abdomen
+T103	PROCEDURE 6943 6951	PET - TC
+T104	PROCEDURE 7229 7241	Colonoscopia
+T105	PROCEDURE 7482 7548	Biopsia de piel, tejido celular subcutáneo, músculo y nervio sural
+T106	PROCEDURE 7632 7648	electromiografía
+T107	PROCEDURE 7792 7807	Ecocardiografía
+T108	PROCEDURE 8185 8210	inyección de ecocontraste
+T110	PROCEDURE 8817 8855	oxigenoterapia con gafas de alto flujo
+T111	PROCEDURE 9064 9079	ecocardiografía
+T112	PROCEDURE 9093 9108	coronariografía
+T113	PROCEDURE 9133 9144	cateterismo
+T114	PROCEDURE 9325 9345	bolos de corticoides
+T115	PROCEDURE 9397 9411	inmunosupresor
+T116	PROCEDURE 9767 9770	PET
+T117	PROCEDURE 9879 9902	cardioversión eléctrica
+T118	PROCEDURE 10062 10076	betabloqueante
+T119	PROCEDURE 10369 10382	TC de abdomen
+T120	PROCEDURE 10388 10400	colonoscopia
+T121	PROCEDURE 10435 10453	sonda nasogástrica
+T122	PROCEDURE 10456 10479	tratamiento antibiótico
+T123	PROCEDURE 10854 10883	angiotomografía computarizada
+T125	PROCEDURE 11362 11368	PET-TC
+T128	PROCEDURE 11863 11906	biopsia de piel, tejido subcutáneo y nervio
+T129	PROCEDURE 11920 11953	electromiograma/electroneurograma
+T130	PROCEDURE 12018 12072	biopsia arterial directa del territorio iliaco/femoral
+T132	PROCEDURE 12355 12362	biopsia
+T133	PROCEDURE 12424 12439	electromiograma
+T134	PROCEDURE 12786 12803	antiinflamatorios
+T136	PROCEDURE 13093 13132	tratamiento inmunosupresor y esteroideo
+T137	PROCEDURE 13180 13189	estatinas
+T138	PROCEDURE 13846 13873	cardioversión farmacológica
+T20	PROCEDURE 3130 3157	Pruebas de función hepática
+T25	PROCEDURE 3377 3391	Perfil anemias
+T28	PROCEDURE 3665 3678	Autoinmunidad
+T45	PROCEDURE 7613 7631	Electroneurografía
+T57	PROCEDURE 11243 11257	crioglobulinas
+T58	PROCEDURE 11259 11287	anticuerpos antifosfolípidos
+T109	PROCEDURE 11289 11316	serología de VHB, VHC y VIH
+T61	PROCEDURE 12587 12626	implante de un desfibrilador automático
+T124	PROCEDURE 13743 13758	Implante de DAI
+T225	PROCEDURE 2953 2971	Analítica completa
+T234	PROCEDURE 3588 3604	Inmunoglobulinas
+T249	PROCEDURE 11022 11040	analítica completa
+T263	PROCEDURE 10497 10523	intervenciones quirúrgicas
+T276	PROCEDURE 8791 8814	perfusión de amiodarona
+T277	PROCEDURE 10026 10048	perfusión de lidocaína
+T194	PROCEDURE 4981 5010	nitroglicerina intracoronaria
+T131	PROCEDURE 12628 12631	DAI

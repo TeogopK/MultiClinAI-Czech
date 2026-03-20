@@ -1,0 +1,52 @@
+T1	SYMPTOM 679 688	lumbalgia
+T3	SYMPTOM 1028 1046	sensación disneica
+T4	SYMPTOM 1070 1099	dolor centrotorácico opresivo
+T5	SYMPTOM 1103 1126	pérdida de conocimiento
+T6	SYMPTOM 1750 1825	hipocinesia de segmentos anterolaterales e inferolaterales basales y medios
+T8	SYMPTOM 2099 2106	Afebril
+T9	SYMPTOM 2108 2141	Orofaringe ligeramente hiperémica
+T10	SYMPTOM 2146 2174	ingurgitación venosa yugular
+T11	SYMPTOM 2199 2214	ruidos rítmicos
+T12	SYMPTOM 2219 2225	soplos
+T13	SYMPTOM 2229 2239	extratonos
+T14	SYMPTOM 2264 2293	mínimas sibilancias dispersas
+T15	SYMPTOM 2298 2313	hipoventilación
+T16	SYMPTOM 2315 2331	Abdomen: anodino
+T18	SYMPTOM 2447 2460	ritmo sinusal
+T19	SYMPTOM 2471 2480	PR normal
+T20	SYMPTOM 2482 2494	QRS estrecho
+T21	SYMPTOM 2712 2721	PR normal
+T22	SYMPTOM 2723 2735	QRS estrecho
+T23	SYMPTOM 2745 2784	onda Q en derivaciones de cara inferior
+T24	SYMPTOM 2843 2871	onda T negativa en III y aVF
+T25	SYMPTOM 2906 2939	silueta cardiomediastínica normal
+T27	SYMPTOM 3050 3071	condensación pulmonar
+T29	SYMPTOM 3475 3504	Presiones de llenado normales
+T33	SYMPTOM 6110 6124	dolor torácico
+T34	SYMPTOM 6918 6957	Triptasa en sangre que resultó positiva
+T35	SYMPTOM 7176 7190	dolor torácico
+T36	SYMPTOM 7377 7429	alteraciones en la contractilidad segmentaria del VI
+T37	SYMPTOM 7555 7616	valores elevados de IgE específica frente al veneno de avispa
+T44	SYMPTOM 2989 3023	descompensación hemodinámica aguda
+T141	SYMPTOM 2688 2701	ritmo sinusal
+T131	SYMPTOM 1453 1515	supradesnivelación transitoria de ST inferoposterior y lateral
+T2	SYMPTOM 2511 2550	Supradesnivelación de hasta 4 mm del ST
+T7	SYMPTOM 3155 3207	hipocinesia de segmentos anterolaterales y laterales
+T144	SYMPTOM 3737 3794	Cavidades derechas no dilatadas con contractilidad normal
+T146	SYMPTOM 2333 2368	Extremidades inferiores: sin edemas
+T151	SYMPTOM 3506 3538	Ventrículo izquierdo no dilatado
+T152	SYMPTOM 3671 3709	Válvula aórtica trivalva, flujo normal
+T153	SYMPTOM 3807 3842	Válvula tricúspide con flujo normal
+T155	SYMPTOM 3302 3332	aurícula izquierda no dilatada
+T160	SYMPTOM 3914 3970	Coronariografía urgente (29/06/2018): dominancia derecha
+T26	SYMPTOM 2800 2841	ST isoeléctrico en todas las derivaciones
+T28	SYMPTOM 3090 3153	fracción de eyección del ventrículo izquierdo (FEVI) preservada
+T30	SYMPTOM 3711 3735	Raíz aórtica no dilatada
+T31	SYMPTOM 5245 5286	Factores C3 y C4 del complemento normales
+T32	SYMPTOM 5288 5324	Inmunocomplejos circulantes normales
+T38	SYMPTOM 5396 5449	Negativas a (profilina y LTP), soja, látex y anisakis
+T85	SYMPTOM 5810 5850	Prick test frente a diclofenaco positivo
+T123	SYMPTOM 6163 6193	anomalías en la contractilidad
+T132	SYMPTOM 7020 7080	elevación significativa de marcadores de necrosis miocárdica
+T134	SYMPTOM 7619 7666	test cutáneo que resultó positivo a diclofenaco
+T135	SYMPTOM 8083 8098	FEVI preservada

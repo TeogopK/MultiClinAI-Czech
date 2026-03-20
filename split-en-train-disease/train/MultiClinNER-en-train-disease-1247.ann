@@ -1,0 +1,30 @@
+T28	DISEASE 128 142	drug allergies
+T29	DISEASE 207 231	Type 2 diabetes mellitus
+T30	DISEASE 297 310	Dyslipidaemia
+T31	DISEASE 345 376	chronic ischaemic heart disease
+T32	DISEASE 414 427	stable angina
+T34	DISEASE 421 427	angina
+T35	DISEASE 462 468	angina
+T33	DISEASE 572 592	Three-vessel disease
+T36	DISEASE 701 707	angina
+T37	DISEASE 761 786	ischaemia in CX territory
+T38	DISEASE 824 866	Permanent non-valvular atrial fibrillation
+T42	DISEASE 847 866	atrial fibrillation
+T39	DISEASE 981 995	valvulopathies
+T40	DISEASE 1174 1206	Bilateral carpal tunnel syndrome
+T41	DISEASE 2550 2559	phlebitis
+T43	DISEASE 2907 2926	atrial fibrillation
+T57	DISEASE 3082 3094	cardiomegaly
+T44	DISEASE 3292 3338	Severe concentric left ventricular hypertrophy
+T45	DISEASE 4414 4449	inflammatory/degenerative pathology
+T46	DISEASE 4530 4543	heart failure
+T48	DISEASE 4562 4595	lower respiratory tract infection
+T50	DISEASE 5222 5249	infiltrative cardiomyopathy
+T53	DISEASE 5261 5281	aortic valve disease
+T51	DISEASE 5906 5957	cardiac amyloidosis due to transthyretin deposition
+T52	DISEASE 6049 6104	senile amyloidosis due to free transthyretin deposition
+T54	DISEASE 6216 6236	aortic valve disease
+T55	DISEASE 6410 6437	Decompensated heart failure
+T47	DISEASE 6424 6437	heart failure
+T49	DISEASE 6456 6489	lower respiratory tract infection
+T56	DISEASE 6507 6574	Senile cardiac amyloidosis due to abnormal transthyretin deposition

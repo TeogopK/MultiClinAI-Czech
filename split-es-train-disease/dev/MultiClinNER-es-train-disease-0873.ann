@@ -1,0 +1,20 @@
+T30	DISEASE 34 57	alergias medicamentosas
+T31	DISEASE 72 93	hipertensión arterial
+T32	DISEASE 95 105	dislipemia
+T33	DISEASE 109 126	diabetes mellitus
+T34	DISEASE 148 164	Colitis ulcerosa
+T35	DISEASE 259 266	Migraña
+T36	DISEASE 571 582	preclampsia
+T37	DISEASE 1216 1226	hipertensa
+T38	DISEASE 1454 1461	migraña
+T39	DISEASE 2422 2441	derrame pericárdico
+T40	DISEASE 2475 2488	cardiomegalia
+T41	DISEASE 2680 2692	hipertensión
+T42	DISEASE 3083 3110	insuficiencia mitral ligera
+T43	DISEASE 3276 3288	hipertensión
+T44	DISEASE 1669 1675	HBASHH
+T45	DISEASE 2063 2069	HBASHH
+T46	DISEASE 2875 2929	disección coronaria de DA distal con recurrente apical
+T47	DISEASE 3433 3469	Disección coronaria espontánea de DA
+#1	AnnotatorNotes T44	 HBASHH Hemibloqueo anterosuperior del Haz de His
+#2	AnnotatorNotes T45	 HBASHH Hemibloqueo anterosuperior del Haz de His

@@ -1,0 +1,35 @@
+T66	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T89	PROCEDURE 248 256	analyses
+T90	PROCEDURE 416 434	low potassium diet
+T3	PROCEDURE 901 939	anamnesis was carried out by apparatus
+T67	PROCEDURE 1129 1149	Physical examination
+T91	PROCEDURE 1238 1251	Head and neck
+T68	PROCEDURE 1335 1355	Cardiac auscultation
+T69	PROCEDURE 1393 1415	Pulmonary auscultation
+T88	PROCEDURE 1488 1497	palpation
+T5	PROCEDURE 1527 1535	palpable
+T70	PROCEDURE 1807 1810	ECG
+T6	PROCEDURE 2116 2132	Laboratory tests
+T87	PROCEDURE 2172 2184	Biochemistry
+T7	PROCEDURE 2410 2428	Venous blood gases
+T8	PROCEDURE 2537 2546	Haemogram
+T75	PROCEDURE 2680 2691	Haemostasis
+T76	PROCEDURE 2759 2769	Knee X-ray
+T71	PROCEDURE 2831 2834	ECG
+T10	PROCEDURE 2850 2884	magnesium correction and potassium
+T72	PROCEDURE 3022 3025	ECG
+T77	PROCEDURE 3041 3075	magnesium and potassium correction
+T78	PROCEDURE 3186 3216	Transthoracic echocardiography
+T79	PROCEDURE 3264 3279	Flecainide test
+T81	PROCEDURE 3379 3412	Genetic test for Brugada syndrome
+T11	PROCEDURE 3471 3508	non-steroidal anti-inflammatory drugs
+T82	PROCEDURE 3510 3516	NSAIDs
+T73	PROCEDURE 3668 3671	ECG
+T12	PROCEDURE 3702 3734	ionic alterations were corrected
+T74	PROCEDURE 3743 3746	ECG
+T80	PROCEDURE 4045 4060	flecainide test
+T83	PROCEDURE 4266 4275	telemetry
+T85	PROCEDURE 4327 4343	echocardiography
+T14	PROCEDURE 4458 4507	genetic study of p channelopathies/myocardiopathy
+T17	PROCEDURE 4696 4710	echocardiogram
+T86	PROCEDURE 5070 5082	antipyretics

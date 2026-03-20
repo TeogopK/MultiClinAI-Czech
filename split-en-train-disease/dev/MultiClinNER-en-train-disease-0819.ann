@@ -1,0 +1,49 @@
+T1	DISEASE 151 164	heart disease
+T103	DISEASE 168 180	sudden death
+T2	DISEASE 182 184	SD
+T55	DISEASE 212 226	drug allergies
+T56	DISEASE 231 237	smoker
+T57	DISEASE 241 248	drinker
+T58	DISEASE 333 350	medical illnesses
+T3	DISEASE 1145 1157	adenopathies
+T59	DISEASE 1385 1405	venous insufficiency
+T60	DISEASE 1409 1429	deep vein thrombosis
+T61	DISEASE 1495 1512	sinus bradycardia
+T85	DISEASE 1558 1572	pre-excitation
+T62	DISEASE 2241 2264	ventricular hypertrophy
+T63	DISEASE 2548 2581	segmental contractility disorders
+T64	DISEASE 2950 2964	valvulopathies
+T6	DISEASE 3032 3039	thrombi
+T66	DISEASE 3314 3323	ischaemia
+T86	DISEASE 3368 3382	pre-excitation
+T87	DISEASE 3588 3602	pre-excitation
+T82	DISEASE 3709 3726	arrhythmic events
+T67	DISEASE 3838 3847	ischaemia
+T88	DISEASE 3849 3863	Pre-excitation
+T96	DISEASE 3969 3996	intermittent pre-excitation
+T9	DISEASE 4057 4137	left ventricle (LV) slightly dilated with marked trabeculation of the myocardium
+T104	DISEASE 5135 5143	necrosis
+T68	DISEASE 5151 5159	fibrosis
+T71	DISEASE 5173 5238	non-compaction cardiomyopathy with involvement of both ventricles
+T53	DISEASE 5281 5294	LV dilatation
+T69	DISEASE 5307 5315	fibrosis
+T11	DISEASE 6000 6061	non-dilated left ventricle but with marked hypertrabeculation
+T65	DISEASE 6284 6298	valvulopathies
+T72	DISEASE 6340 6405	non-compaction cardiomyopathy with left lateral accessory pathway
+T73	DISEASE 6549 6609	non-compaction cardiomyopathy with biventricular involvement
+T13	DISEASE 6630 6672	left ventricle, which was slightly dilated
+T70	DISEASE 7097 7105	fibrosis
+T14	DISEASE 7172 7182	arrhythmia
+T83	DISEASE 7261 7278	arrhythmic events
+T90	DISEASE 7311 7325	pre-excitation
+T91	DISEASE 7421 7435	pre-excitation
+T97	DISEASE 7527 7554	intermittent pre-excitation
+T84	DISEASE 7562 7579	arrhythmic events
+T75	DISEASE 8337 8349	tachycardias
+T93	DISEASE 8614 8628	pre-excitation
+T18	DISEASE 8712 8722	arrhythmia
+T94	DISEASE 8873 8887	pre-excitation
+T79	DISEASE 9178 9207	non-compaction cardiomyopathy
+T74	DISEASE 9339 9399	Non-compaction cardiomyopathy with biventricular involvement
+T54	DISEASE 9433 9472	Slight dilatation of the left ventricle
+T81	DISEASE 9474 9543	Left anterolateral accessory pathway with intermittent pre-excitation

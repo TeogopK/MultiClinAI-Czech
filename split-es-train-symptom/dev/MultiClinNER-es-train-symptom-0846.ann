@@ -1,0 +1,42 @@
+T1	SYMPTOM 401 424	expectoración sonrosada
+T2	SYMPTOM 427 433	disnea
+T3	SYMPTOM 703 709	pálida
+T4	SYMPTOM 712 720	sudorosa
+T5	SYMPTOM 726 741	frialdad distal
+T6	SYMPTOM 759 780	ingurgitación yugular
+T7	SYMPTOM 788 817	Auscultación cardiaca rítmica
+T8	SYMPTOM 822 854	ritmo de galope por tercer ruido
+T9	SYMPTOM 882 903	crepitantes bibasales
+T10	SYMPTOM 905 923	Abdomen distendido
+T11	SYMPTOM 925 971	Extremidades superiores e inferiores sin edema
+T12	SYMPTOM 977 1002	pulsos distales palpables
+T13	SYMPTOM 1095 1104	PR normal
+T14	SYMPTOM 1106 1118	QRS estrecho
+T15	SYMPTOM 1682 1712	patrón intersticial perihiliar
+T17	SYMPTOM 1904 1949	Ventrículo derecho de tamaño y función normal
+T18	SYMPTOM 1998 2019	Válvula mitral normal
+T19	SYMPTOM 2125 2150	Válvula tricúspide normal
+T21	SYMPTOM 2583 2602	Hipoquinesia difusa
+T23	SYMPTOM 2961 3013	PCR adenovirus, enterovirus y herpes virus: negativa
+T25	SYMPTOM 3193 3225	Disfunción sistólica de VI grave
+T26	SYMPTOM 3237 3265	Movimiento septal paradójico
+T28	SYMPTOM 3307 3338	función sistólica VD conservada
+T29	SYMPTOM 3381 3413	Patrón Doppler diastólico normal
+T30	SYMPTOM 3415 3455	Patrón Doppler tisular diastólico normal
+T31	SYMPTOM 3457 3495	Presión arterial pulmonar (PAP) normal
+T32	SYMPTOM 3664 3682	mal estado general
+T33	SYMPTOM 3684 3693	taquipnea
+T34	SYMPTOM 3695 3707	desaturación
+T35	SYMPTOM 3725 3736	hipotensión
+T37	SYMPTOM 3856 3872	VD hiperdinámico
+T106	SYMPTOM 1070 1089	taquicardia sinusal
+T97	SYMPTOM 1124 1155	trastornos de la repolarización
+T16	SYMPTOM 1951 1996	Válvula aórtica tricúspide y normofuncionante
+T22	SYMPTOM 3015 3110	Serología de Toxoplasma, CMV, herpes zoster, Epstein-Barr, VHS 1 y 2, VIH y hepatitis: negativo
+T24	SYMPTOM 5547 5589	variante patogénica en el gen de la titina
+T114	SYMPTOM 2078 2123	aumento de las presiones de llenado izquierdo
+T116	SYMPTOM 2193 2229	Vena cava inferior (VCI) no dilatada
+T27	SYMPTOM 2656 2689	realces intramiocárdicos anómalos
+T98	SYMPTOM 3267 3302	Ventrículo derecho (VD) no dilatado
+T99	SYMPTOM 3511 3532	Vena cava no dilatada
+T101	SYMPTOM 5238 5271	variante frameshift en el gen TTN

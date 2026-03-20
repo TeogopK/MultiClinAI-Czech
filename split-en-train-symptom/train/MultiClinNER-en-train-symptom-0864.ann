@@ -1,0 +1,40 @@
+T1	SYMPTOM 123 133	chest pain
+T25	SYMPTOM 589 617	absence of right pedal pulse
+T3	SYMPTOM 988 1056	oppressive central thoracic pain radiating to the neck and both arms
+T26	SYMPTOM 1327 1357	Jugular venous pressure normal
+T4	SYMPTOM 1359 1389	Cardiac auscultation: rhythmic
+T5	SYMPTOM 1394 1401	murmurs
+T27	SYMPTOM 1405 1424	pathological sounds
+T6	SYMPTOM 1450 1476	preserved vesicular murmur
+T28	SYMPTOM 1485 1497	extra sounds
+T29	SYMPTOM 1499 1554	Abdomen: soft and depressible, not painful on palpation
+T7	SYMPTOM 1559 1565	masses
+T30	SYMPTOM 1569 1578	megaliths
+T22	SYMPTOM 1580 1608	Blumberg and Murphy negative
+T31	SYMPTOM 1626 1657	oedema in the lower extremities
+T32	SYMPTOM 1659 1701	peripheral pulses preserved and symmetrica
+T8	SYMPTOM 1976 1988	sinus rhythm
+T10	SYMPTOM 2001 2010	Normal PR
+T12	SYMPTOM 2033 2085	ST-segment elevation up to 3 mm in DII, DIII and aVF
+T13	SYMPTOM 2091 2122	specular decrease in DI and aVL
+T33	SYMPTOM 2146 2185	slightly increased cardiothoracic index
+T14	SYMPTOM 2255 2278	vascular redistribution
+T34	SYMPTOM 2283 2295	condensation
+T35	SYMPTOM 2297 2343	Emergent coronary angiography: right dominance
+T23	SYMPTOM 2345 2393	Left main coronary artery (LMCA) without lesions
+T15	SYMPTOM 2642 2657	Good distal bed
+T24	SYMPTOM 3016 3039	slightly depressed LVEF
+T36	SYMPTOM 3070 3119	inferolateral and inferior mediobasal hypokinesia
+T16	SYMPTOM 3168 3194	Normal transmitral filling
+T17	SYMPTOM 3206 3238	normal LV end-diastolic pressure
+T37	SYMPTOM 3251 3298	RV with normal diameters and preserved function
+T38	SYMPTOM 3406 3437	Normal inferior vena cava (IVC)
+T18	SYMPTOM 3544 3556	leukocytosis
+T39	SYMPTOM 3560 3570	left shift
+T11	SYMPTOM 4113 4122	Normal PR
+T9	SYMPTOM 4152 4188	Negative T wave in DII, DIII and aVF
+T40	SYMPTOM 4484 4525	ST-segment elevation in the inferior face
+T19	SYMPTOM 4544 4562	anginal chest pain
+T20	SYMPTOM 5172 5184	asymptomatic
+T21	SYMPTOM 5189 5212	haemodynamically stable
+T2	SYMPTOM 6068 6109	ST-segment elevation of inferior location

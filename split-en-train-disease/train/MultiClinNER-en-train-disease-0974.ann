@@ -1,0 +1,24 @@
+T32	DISEASE 172 189	sinus bradycardia
+T1	DISEASE 342 363	cardiological disease
+T33	DISEASE 367 379	sudden death
+T40	DISEASE 572 588	syncopal episode
+T41	DISEASE 703 709	trauma
+T2	DISEASE 828 861	syncopal or pre-syncopal episodes
+T35	DISEASE 988 999	bradycardia
+T42	DISEASE 1055 1072	complete AV block
+T3	DISEASE 1078 1091	escape rhythm
+T36	DISEASE 1527 1530	DVT
+T4	DISEASE 1919 1925	angina
+T5	DISEASE 2011 2037	repolarisation alterations
+T37	DISEASE 2066 2077	arrhythmias
+T44	DISEASE 2099 2103	BAVc
+T45	DISEASE 2250 2254	BAVc
+T38	DISEASE 2511 2531	myocardial ischaemia
+T6	DISEASE 2682 2710	2nd degree BAV Mobitz I type
+T7	DISEASE 2845 2879	suprahisian origin of the AV block
+T8	DISEASE 3022 3038	supra-Hisian AVB
+T43	DISEASE 3103 3135	syncopal or presyncopal episodes
+T9	DISEASE 3196 3199	AVB
+T39	DISEASE 3287 3311	structural heart disease
+T10	DISEASE 3509 3525	supra-Hisian AVB
+T11	DISEASE 3664 3711	Suprahisian atrioventricular supra-Hisian block

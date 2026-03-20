@@ -1,0 +1,32 @@
+T91	PROCEDURE 343 363	ligadura endoscópica
+T92	PROCEDURE 397 409	gastroscopia
+T93	PROCEDURE 540 555	anticoagulación
+T94	PROCEDURE 1467 1485	EXPLORACIÓN FÍSICA
+T95	PROCEDURE 1692 1713	Auscultación cardiaca
+T96	PROCEDURE 1824 1845	Auscultación pulmonar
+T97	PROCEDURE 2088 2091	ECG
+T98	PROCEDURE 2333 2352	Analítica sanguínea
+T99	PROCEDURE 2776 2786	Serologías
+T100	PROCEDURE 2931 2944	Proteinograma
+T101	PROCEDURE 3250 3270	Radiografía de tórax
+T102	PROCEDURE 3385 3413	Ecocardiograma transtorácico
+T103	PROCEDURE 4499 4514	Gammagrafía V/Q
+T104	PROCEDURE 4593 4613	estudio de perfusión
+T105	PROCEDURE 4704 4726	estudio de ventilación
+T106	PROCEDURE 4863 4894	Pruebas de función respiratoria
+T107	PROCEDURE 4998 5045	TC de arterias pulmonares y parénquima pulmonar
+T108	PROCEDURE 5886 5905	Cateterismo derecho
+T109	PROCEDURE 6188 6207	Gasometría arterial
+T110	PROCEDURE 6360 6388	ecocardiograma transtorácico
+T111	PROCEDURE 6579 6610	pruebas de función respiratoria
+T112	PROCEDURE 6612 6648	gammagrafía de ventilación/perfusión
+T113	PROCEDURE 6736 6755	cateterismo derecho
+T114	PROCEDURE 7558 7574	ergoespirometría
+T129	PROCEDURE 2651 2664	Autoinmunidad
+T130	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T131	PROCEDURE 445 459	betabloqueante
+T132	PROCEDURE 6502 6554	estudio etiológico completo de hipertensión pulmonar
+T133	PROCEDURE 372 380	ligadura
+T135	PROCEDURE 7577 7582	6 MWT
+T160	PROCEDURE 6559 6577	analítica completa
+#1	AnnotatorNotes T135	 NWT: minute walk test

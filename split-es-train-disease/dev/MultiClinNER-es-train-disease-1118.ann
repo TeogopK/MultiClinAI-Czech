@@ -1,0 +1,46 @@
+T27	DISEASE 142 165	alergias medicamentosas
+T28	DISEASE 202 233	hipertensión arterial sistémica
+T29	DISEASE 235 264	diabetes mellitus (DM) tipo 2
+T30	DISEASE 254 256	DM
+T31	DISEASE 266 276	dislipemia
+T32	DISEASE 301 330	cardiopatía isquémica crónica
+T33	DISEASE 332 373	Infarto agudo de miocardio (IAM) anterior
+T34	DISEASE 360 363	IAM
+T35	DISEASE 532 568	Reinfarto en 2008 por oclusión de DA
+T36	DISEASE 835 856	fibrilación auricular
+T37	DISEASE 858 860	FA
+T38	DISEASE 910 956	Tromboembolismo pulmonar segmentario bilateral
+T39	DISEASE 1129 1131	IC
+T40	DISEASE 1227 1263	disfunción ventricular derecha grave
+T41	DISEASE 1448 1495	enfermedad renal crónica de etiología diabética
+T42	DISEASE 1541 1554	hiperuricemia
+T43	DISEASE 1556 1565	depresión
+T44	DISEASE 1568 1579	gonartrosis
+T45	DISEASE 1609 1628	deterioro cognitivo
+T46	DISEASE 2155 2182	disnea paroxística nocturna
+T47	DISEASE 3245 3247	FA
+T48	DISEASE 3309 3358	bloqueo completo de rama izquierda del haz de His
+T49	DISEASE 3645 3701	Válvula mitral con cambios degenerativos e insuficiencia
+T50	DISEASE 3764 3816	Válvula tricúspide con insuficiencia ligera-moderada
+T51	DISEASE 3935 3954	derrame pericárdico
+T52	DISEASE 4053 4074	descompensación de IC
+T53	DISEASE 4302 4312	IC crónica
+T54	DISEASE 5062 5083	Descompensación de IC
+T55	DISEASE 5225 5254	Cardiopatía isquémica crónica
+T56	DISEASE 5318 5339	hipertensión pulmonar
+T57	DISEASE 5398 5434	Disfunción ventricular derecha grave
+T58	DISEASE 5490 5539	Enfermedad renal crónica por nefropatía diabética
+T59	DISEASE 5541 5572	Hipertensión arterial sistémica
+T60	DISEASE 5574 5584	Dislipemia
+T61	DISEASE 5586 5595	DM tipo 2
+T62	DISEASE 1375 1388	FA permanente
+T63	DISEASE 5436 5461	FA permanente no valvular
+T64	DISEASE 728 730	IC
+T65	DISEASE 3710 3755	Válvula aórtica esclerosada con insuficiencia
+T66	DISEASE 2565 2574	arrítmica
+T67	DISEASE 2659 2672	hepatomegalia
+T68	DISEASE 2184 2187	DPN
+T69	DISEASE 3573 3611	Ventrículo derecho gravemente dilatado
+T70	DISEASE 3877 3904	Vena cava inferior dilatada
+T103	DISEASE 1005 1059	dilatación y disfunción moderada de ventrículo derecho
+#1	AnnotatorNotes T68	  Disnea paroxística nocturna

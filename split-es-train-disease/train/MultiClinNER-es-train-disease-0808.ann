@@ -1,0 +1,31 @@
+T55	DISEASE 70 93	alergias medicamentosas
+T56	DISEASE 140 150	tabaquismo
+T57	DISEASE 153 171	consumo de alcohol
+T58	DISEASE 211 229	consumo de tóxicos
+T59	DISEASE 234 255	hipertensión arterial
+T60	DISEASE 257 260	HTA
+T61	DISEASE 266 276	dislipemia
+T62	DISEASE 281 298	diabetes mellitus
+T63	DISEASE 383 403	cardiopatía familiar
+T65	DISEASE 635 642	síncope
+T66	DISEASE 1312 1319	síncope
+T67	DISEASE 1413 1431	consumo de tóxicos
+T68	DISEASE 1584 1591	síncope
+T69	DISEASE 2209 2234	trombosis venosa profunda
+T70	DISEASE 2236 2239	TVP
+T71	DISEASE 2815 2830	derrame pleural
+T72	DISEASE 2845 2855	neumotórax
+T73	DISEASE 3445 3473	Insuficiencia mitral trivial
+T74	DISEASE 3499 3512	valvulopatías
+T75	DISEASE 3566 3591	Insuficiencia tricuspídea
+T76	DISEASE 4131 4197	taquicardia ortodrómica por otra vía accesoria posterior izquierda
+T77	DISEASE 5238 5280	fibrilación auricular preexcitada sincopal
+T78	DISEASE 6193 6240	Fibrilación auricular (FA) preexcitada sincopal
+T79	DISEASE 6373 6393	insuficiencia mitral
+T80	DISEASE 5467 5485	eventos arrítmicos
+T81	DISEASE 6216 6218	FA
+T82	DISEASE 6395 6397	IM
+T187	DISEASE 407 420	muerte súbita
+T27	DISEASE 5803 5860	vías accesorias (lateral izquierda y posterior izquierda)
+#1	AnnotatorNotes T81	 Fibrilación auricular
+#2	AnnotatorNotes T82	 insuficiencia mitral

@@ -1,0 +1,26 @@
+T83	PROCEDURE 34 52	exploración física
+T84	PROCEDURE 803 826	reanimación volumétrica
+T85	PROCEDURE 864 891	perfusión de nor-adrenalina
+T86	PROCEDURE 904 932	ecocardiograma transtorácico
+T87	PROCEDURE 1221 1233	TAC torácico
+T88	PROCEDURE 1551 1579	ecocardiograma transtorácico
+T89	PROCEDURE 1767 1770	ETE
+T90	PROCEDURE 2025 2043	Exploración física
+T91	PROCEDURE 2411 2423	Hemocultivos
+T92	PROCEDURE 2436 2439	ECG
+T93	PROCEDURE 2512 2588	TAC torácico: se realiza estudio con administración de contraste intravenoso
+T94	PROCEDURE 3357 3374	Ecocardiograma TT
+T95	PROCEDURE 4844 4873	Ecocardiograma transesofágico
+T96	PROCEDURE 5572 5575	ETT
+T97	PROCEDURE 5834 5884	implantación de prótesis metálica mitral y aórtica
+T98	PROCEDURE 5886 5937	Se extirparon las válvulas mitral y aórtica nativas
+T99	PROCEDURE 6199 6205	Holter
+T100	PROCEDURE 6252 6267	ablación de ICT
+T101	PROCEDURE 6665 6690	Implantación de DAI + TRC
+T109	PROCEDURE 828 851	se canaliza vía femoral
+T110	PROCEDURE 2126 2129	ACR
+T111	PROCEDURE 6104 6107	CVE
+T112	PROCEDURE 6270 6300	se implantó marcapasos TRC+DAI
+T113	PROCEDURE 6588 6638	Implatación de prótesis mitral y aórtica metálicas
+T114	PROCEDURE 6640 6663	Ablación exitosa de ICT
+T122	PROCEDURE 2313 2322	Analítica

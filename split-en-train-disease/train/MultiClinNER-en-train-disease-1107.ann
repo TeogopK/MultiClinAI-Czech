@@ -1,0 +1,36 @@
+T26	DISEASE 136 142	Smoker
+T66	DISEASE 188 201	cannabis user
+T28	DISEASE 229 241	heart attack
+T29	DISEASE 282 311	familial hypercholesterolemia
+T31	DISEASE 405 426	arterial hypertension
+T1	DISEASE 428 431	AHT
+T33	DISEASE 434 451	diabetes mellitus
+T34	DISEASE 453 455	DM
+T35	DISEASE 460 473	dyslipidaemia
+T36	DISEASE 475 477	DL
+T67	DISEASE 533 548	Irritable colon
+T49	DISEASE 550 558	Migraine
+T50	DISEASE 1612 1615	DVT
+T51	DISEASE 2702 2737	DA artery with thrombotic occlusion
+T4	DISEASE 3221 3294	thrombus floating distal to the stent was found floating intra-arterially
+T65	DISEASE 3388 3396	thrombus
+T30	DISEASE 3959 3988	familial hypercholesterolemia
+T52	DISEASE 4284 4309	antiphospholipid syndrome
+T59	DISEASE 4730 4746	pheochromocytoma
+T53	DISEASE 4750 4764	parnaganglioma
+T54	DISEASE 4890 4939	acute coronary syndrome with ST-segment elevation
+T7	DISEASE 4941 4947	STEACS
+T8	DISEASE 5060 5152	nary artery disease in one vessel, with thrombotic occlusion of the middle LAD coronary arte
+T56	DISEASE 5412 5435	acute coronary syndrome
+T27	DISEASE 5536 5542	smoker
+T11	DISEASE 5621 5640	metabolic disorders
+T57	DISEASE 5673 5696	ischaemic heart disease
+T12	DISEASE 5730 5760	familial hypercholesterolaemia
+T58	DISEASE 5979 5993	coagulopathies
+T60	DISEASE 6169 6185	pheochromocytoma
+T61	DISEASE 6434 6447	heart failure
+T62	DISEASE 6484 6507	moderate LV dysfunction
+T13	DISEASE 6635 6641	STEACS
+T14	DISEASE 6668 6711	Single vessel coronary artery disease (SCAD
+T63	DISEASE 6779 6802	Moderate LV dysfunction
+T15	DISEASE 6815 6838	Hyperlipoproteinaemia A

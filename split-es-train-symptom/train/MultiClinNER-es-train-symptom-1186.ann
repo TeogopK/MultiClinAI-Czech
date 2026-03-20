@@ -1,0 +1,35 @@
+T1	SYMPTOM 640 672	ventrículo izquierdo no dilatado
+T3	SYMPTOM 845 891	función sistólica de VI globalmente conservada
+T4	SYMPTOM 980 1030	función sistólica de ventrículo derecho conservada
+T5	SYMPTOM 2136 2151	FEVI conservada
+T6	SYMPTOM 2672 2688	malestar general
+T7	SYMPTOM 2925 2936	bradicardia
+T9	SYMPTOM 3433 3479	descenso de ST en derivaciones inferiores y V1
+T10	SYMPTOM 3481 3501	Patrón QS en V2 y V3
+T11	SYMPTOM 3506 3544	ascenso de ST de 2-3 mm en V2-V4 y aVR
+T12	SYMPTOM 3785 3854	hipocinesia grave en el territorio de la arteria descendente anterior
+T13	SYMPTOM 3887 3914	hemodinámicamente inestable
+T15	SYMPTOM 4158 4204	descenso de ST en derivaciones inferiores y V1
+T16	SYMPTOM 4206 4226	Patrón QS en V2 y V3
+T17	SYMPTOM 4231 4269	ascenso de ST de 2-3 mm en V2-V4 y aVR
+T19	SYMPTOM 4438 4513	hipocinesia grave a nivel del territorio de la arteria descendente anterior
+T20	SYMPTOM 5972 6004	ventrículo izquierdo no dilatado
+T21	SYMPTOM 6219 6249	Aurícula Izquierda no dilatada
+T24	SYMPTOM 7353 7391	Trazado electroencefalográfico anormal
+T27	SYMPTOM 7496 7525	respuesta EEG a los estímulos
+T28	SYMPTOM 7602 7625	actividad epileptiforme
+T29	SYMPTOM 8114 8143	actividad eléctrica sin pulso
+T30	SYMPTOM 8176 8201	elevación del segmento ST
+T31	SYMPTOM 8360 8422	Función sistólica del ventrículo izquierdo levemente deprimida
+T117	SYMPTOM 2084 2096	Asintomático
+T2	SYMPTOM 721 781	Ligera hipocinesia a nivel septal en segmentos basal y medio
+T118	SYMPTOM 1078 1133	Vena cava no dilatada con colapso respiratorio adecuado
+T119	SYMPTOM 2153 2169	miocardio viable
+T8	SYMPTOM 6025 6080	hipocinesia de segmentos antero-septales medio y apical
+T14	SYMPTOM 6318 6378	fracción de eyección de ventrículo derecho (FEVD) conservada
+T18	SYMPTOM 6492 6556	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T143	SYMPTOM 5522 5534	linfocitosis
+T23	SYMPTOM 946 975	Cámaras derechas no dilatadas
+T25	SYMPTOM 1400 1464	Recanalización de ramos septales por circulación heterocoronaria
+T77	SYMPTOM 6251 6313	Cavidades derechas de tamaño y función dentro de la normalidad
+T121	SYMPTOM 7432 7484	enlentecimiento generalizado de la actividad de base

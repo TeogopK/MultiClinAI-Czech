@@ -1,0 +1,58 @@
+T65	PROCEDURE 313 323	vasectomía
+T66	PROCEDURE 853 870	angio-TC torácico
+T67	PROCEDURE 1023 1041	Exploración física
+T68	PROCEDURE 1254 1275	Auscultación cardiaca
+T69	PROCEDURE 1308 1329	Auscultación pulmonar
+T70	PROCEDURE 1515 1533	Electrocardiograma
+T71	PROCEDURE 1535 1538	ECG
+T72	PROCEDURE 1688 1708	Radiografía de tórax
+T73	PROCEDURE 1837 1846	Hemograma
+T74	PROCEDURE 1848 1875	parámetros de función renal
+T75	PROCEDURE 1878 1887	ionograma
+T76	PROCEDURE 1913 1924	Coagulación
+T77	PROCEDURE 2005 2021	hemograma normal
+T78	PROCEDURE 2036 2056	Bioquímica sanguínea
+T79	PROCEDURE 2065 2078	transaminasas
+T80	PROCEDURE 2081 2086	iones
+T81	PROCEDURE 2097 2111	Perfil férrico
+T82	PROCEDURE 2291 2301	Serologías
+T83	PROCEDURE 2345 2388	Anatomía patológica del líquido pericárdico
+T84	PROCEDURE 2390 2399	citología
+T85	PROCEDURE 2426 2452	Estudio inmunohistoquímico
+T86	PROCEDURE 2696 2738	Citometría de flujo de líquido pericárdico
+T87	PROCEDURE 2989 3019	Cultivo de líquido pericárdico
+T88	PROCEDURE 3066 3102	Anatomía patológica de cresta ilíaca
+T89	PROCEDURE 3185 3197	TAC de tórax
+T90	PROCEDURE 3456 3463	PET-TAC
+T91	PROCEDURE 4056 4076	Ecografía testicular
+T92	PROCEDURE 4168 4188	vasectomía izquierdo
+T93	PROCEDURE 4190 4230	Anatomía patológica testicular izquierda
+T94	PROCEDURE 4241 4263	orquiectomía izquierda
+T95	PROCEDURE 4441 4469	Ecocardiograma transtorácico
+T96	PROCEDURE 4722 4750	Ecocardiograma transtorácico
+T97	PROCEDURE 5466 5495	ecocardiografía transtorácica
+T98	PROCEDURE 5624 5642	pericardiocentesis
+T99	PROCEDURE 5811 5830	anatomía patológica
+T100	PROCEDURE 6068 6075	PET-TAC
+T101	PROCEDURE 6266 6286	ecografía testicular
+T102	PROCEDURE 6424 6434	vasectomía
+T104	PROCEDURE 6783 6795	orquiectomía
+T105	PROCEDURE 7036 7076	tratamiento quimioterápico con R-CHOP/21
+T106	PROCEDURE 7176 7204	ecocardiograma transtorácico
+T107	PROCEDURE 7388 7412	tratamiento hematológico
+T108	PROCEDURE 7525 7543	biopsia testicular
+T110	PROCEDURE 5356 5371	anticoagulación
+T113	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 2119 2135	Inmunoglobulinas
+T115	PROCEDURE 6742 6749	PET-TAC
+T116	PROCEDURE 5009 5020	hematología
+T117	PROCEDURE 5795 5808	microbiología
+T118	PROCEDURE 3104 3116	biopsia ósea
+T25	PROCEDURE 5076 5097	tratamiento depletivo
+T122	PROCEDURE 1776 1785	Analítica
+T123	PROCEDURE 1976 1985	Analítica
+T125	PROCEDURE 1185 1200	Cabeza y cuello
+T124	PROCEDURE 1430 1449	Miembros inferiores
+T128	PROCEDURE 2259 2279	Interferón gamma-TBC
+T29	PROCEDURE 5289 5338	tratamiento frenador del nodo auriculoventricular
+T103	PROCEDURE 6576 6656	toma de biopsia de pericardio ni de ganglios mediastínicos mediante toracoscopia

@@ -1,0 +1,18 @@
+T1	PROCEDURE 107 154	right hemithyroidectomy for nodular hyperplasia
+T2	PROCEDURE 433 453	physical examination
+T24	PROCEDURE 734 747	Serum therapy
+T11	PROCEDURE 749 772	perfusion of furosemide
+T25	PROCEDURE 789 804	corticosteroids
+T12	PROCEDURE 806 821	bisphosphonates
+T13	PROCEDURE 908 933	renal replacement therapy
+T7	PROCEDURE 937 998	haemodialysis with low calcium concentration in the dialysate
+T30	PROCEDURE 1187 1199	hemodialysis
+T9	PROCEDURE 1349 1361	proteinogram
+T10	PROCEDURE 1429 1439	serologies
+T5	PROCEDURE 1481 1499	Urinary ultrasound
+T6	PROCEDURE 1578 1599	Thoracic-abdominal CT
+T8	PROCEDURE 1731 1755	parathyroid scintigraphy
+T41	PROCEDURE 2098 2118	Anatomical pathology
+T4	PROCEDURE 2367 2380	haemodialysis
+T16	PROCEDURE 2410 2417	surgery
+T17	PROCEDURE 2666 2673	surgery

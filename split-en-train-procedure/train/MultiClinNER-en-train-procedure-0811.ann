@@ -1,0 +1,24 @@
+T31	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T32	PROCEDURE 671 691	Physical examination
+T33	PROCEDURE 797 817	Cardiac auscultation
+T34	PROCEDURE 873 895	Pulmonary auscultation
+T2	PROCEDURE 1036 1047	Blood tests
+T35	PROCEDURE 1319 1330	coagulation
+T36	PROCEDURE 1352 1363	Chest X-ray
+T37	PROCEDURE 1428 1445	Electrocardiogram
+T38	PROCEDURE 1447 1450	ECG
+T3	PROCEDURE 1543 1547	ECGs
+T4	PROCEDURE 1550 1578	Transthoracic echocardiogram
+T39	PROCEDURE 2299 2322	Cardiac catheterisation
+T13	PROCEDURE 3024 3133	Percutaneous coronary interventionism (PCI) was performed on: Cx: multipurpose catheter and hydrophilic guide
+T8	PROCEDURE 3063 3066	PCI
+T14	PROCEDURE 3135 3184	Predilatation with conventional 2 x 20 mm balloon
+T15	PROCEDURE 3186 3257	Implantation of two overlapping drug-eluting stents, everolimus-eluting
+T41	PROCEDURE 3313 3355	PD: AR2 catheter and hydrophilic guidewire
+T16	PROCEDURE 3357 3426	Implantation of a 2.75 x 26 mm everolimus-eluting drug-eluting stent.
+T18	PROCEDURE 3551 3630	Anti-aggregation treatment was started with acetylsalicylic acid and ticagrelor
+T42	PROCEDURE 3635 3668	anticoagulation with fondaparinux
+T40	PROCEDURE 3693 3716	cardiac catheterisation
+T45	PROCEDURE 4001 4078	two overlapping drug-eluting stents were implanted over the circumflex artery
+T46	PROCEDURE 4087 4168	drug-eluting stent over the significant lesion in the posterior descending artery
+T43	PROCEDURE 4726 4790	Complete percutaneous revascularisation with drug-eluting stents

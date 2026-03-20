@@ -1,0 +1,25 @@
+T1	PROCEDURE 2549 2570	perfusión de dopamina
+T2	PROCEDURE 2595 2615	radiografía de tórax
+T3	PROCEDURE 2707 2728	lavado broncoalveolar
+T4	PROCEDURE 2783 2806	tratamiento antibiótico
+T5	PROCEDURE 435 444	ecografía
+T6	PROCEDURE 832 842	intubación
+T7	PROCEDURE 878 880	VM
+T8	PROCEDURE 1099 1111	reintubación
+T9	PROCEDURE 1198 1263	determinación de virus respiratorio sincitial (VRS) en moco nasal
+T10	PROCEDURE 1721 1733	auscultación
+T11	PROCEDURE 2123 2138	ecográficamente
+T12	PROCEDURE 1854 1874	ventilación en prono
+T13	PROCEDURE 3061 3087	destete progresivo del ONI
+T14	PROCEDURE 613 626	gafas nasales
+T15	PROCEDURE 810 830	expansión de volumen
+T16	PROCEDURE 845 876	conexión a ventilación mecánica
+T17	PROCEDURE 913 922	se extubó
+T18	PROCEDURE 1114 1127	conexión a VM
+T19	PROCEDURE 3200 3212	fue extubado
+T20	PROCEDURE 631 671	tensión arterial media (TAM) no invasiva
+T21	PROCEDURE 655 658	TAM
+T22	PROCEDURE 1580 1592	TAM invasiva
+T23	PROCEDURE 1999 2041	presión positiva al final de la espiración
+T24	PROCEDURE 2043 2047	PEEP
+T25	PROCEDURE 2911 2967	tratamiento con métodos sustitutivos de la función renal

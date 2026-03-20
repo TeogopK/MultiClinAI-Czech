@@ -1,0 +1,83 @@
+T50	DISEASE 146 166	cognitive impairment
+T51	DISEASE 262 271	ex-smoker
+T52	DISEASE 337 347	ex-drinker
+T53	DISEASE 521 534	heart disease
+T54	DISEASE 1318 1330	splenomegaly
+T58	DISEASE 1486 1515	splenic and renal infarctions
+T59	DISEASE 1628 1655	severe aortic insufficiency
+T63	DISEASE 1723 1728	warts
+T64	DISEASE 1788 1810	infective endocarditis
+T81	DISEASE 1798 1810	endocarditis
+T68	DISEASE 3224 3236	skin lesions
+T69	DISEASE 3240 3245	scars
+T55	DISEASE 3353 3365	splenomegaly
+T70	DISEASE 3436 3466	Petechial lesions on both legs
+T71	DISEASE 3530 3558	chronic venous insufficiency
+T72	DISEASE 3597 3617	deep vein thrombosis
+T73	DISEASE 3619 3622	DVT
+T74	DISEASE 5184 5200	pleural effusion
+T75	DISEASE 5233 5245	pneumothorax
+T76	DISEASE 5334 5351	hepatic steatosis
+T78	DISEASE 5724 5751	bilateral pleural effusions
+T77	DISEASE 5906 5923	hepatic steatosis
+T79	DISEASE 6479 6501	pulmonary hypertension
+T80	DISEASE 6553 6578	mild mitral regurgitation
+T82	DISEASE 6662 6674	endocarditis
+T92	DISEASE 6676 6704	Central aortic insufficiency
+T93	DISEASE 6938 6958	pericardial effusion
+T95	DISEASE 7147 7176	moderate mitral insufficiency
+T118	DISEASE 7156 7176	mitral insufficiency
+T83	DISEASE 7263 7275	endocarditis
+T96	DISEASE 7344 7383	destruction of the non-coronary leaflet
+T60	DISEASE 7396 7423	severe aortic insufficiency
+T94	DISEASE 7478 7498	pericardial effusion
+T84	DISEASE 7698 7710	endocarditis
+T97	DISEASE 8050 8070	haemorrhagic embolus
+T98	DISEASE 8114 8121	abscess
+T100	DISEASE 8217 8276	brain parenchyma suggestive of subacute ischaemic pathology
+T101	DISEASE 8560 8572	bone lesions
+T85	DISEASE 8868 8880	endocarditis
+T86	DISEASE 9048 9060	endocarditis
+T56	DISEASE 9062 9074	Splenomegaly
+T102	DISEASE 9104 9132	extensive ametabolic lesions
+T103	DISEASE 9267 9283	splenic infarcts
+T104	DISEASE 9325 9339	superinfection
+T105	DISEASE 9451 9458	anaemia
+T106	DISEASE 9720 9727	anaemia
+T109	DISEASE 10137 10160	petechial microbleeding
+T110	DISEASE 10563 10587	distal mycotic aneurysms
+T111	DISEASE 10690 10699	abscesses
+T112	DISEASE 10791 10805	pseudoaneurysm
+T113	DISEASE 10907 10921	pseudoaneurysm
+T61	DISEASE 11224 11251	severe aortic insufficiency
+T87	DISEASE 11478 11490	endocarditis
+T114	DISEASE 11659 11677	splenic infarction
+T115	DISEASE 11752 11761	embolisms
+T57	DISEASE 12143 12155	splenomegaly
+T116	DISEASE 12201 12222	intracranial bleeding
+T117	DISEASE 12653 12674	neurological sequelae
+T119	DISEASE 13398 13418	mitral insufficiency
+T120	DISEASE 13886 13904	mild heart failure
+T107	DISEASE 14024 14031	anaemia
+T121	DISEASE 14481 14498	abdominal abscess
+T99	DISEASE 14491 14498	abscess
+T122	DISEASE 14695 14748	Acute E. faecalis endocarditis on native aortic valve
+T88	DISEASE 14713 14725	endocarditis
+T123	DISEASE 14750 14791	Non-coronary aortic valve leaflet rupture
+T124	DISEASE 14797 14834	secondary severe aortic insufficiency
+T62	DISEASE 14807 14834	severe aortic insufficiency
+T125	DISEASE 14904 14943	Acute heart failure with preserved LVEF
+T65	DISEASE 14962 14984	infective endocarditis
+T89	DISEASE 14972 14984	endocarditis
+T49	DISEASE 15023 15106	Splenic and renal infarcts of embolic mechanism secondary to infective endocarditis
+T66	DISEASE 15084 15106	infective endocarditis
+T90	DISEASE 15094 15106	endocarditis
+T126	DISEASE 15183 15288	Mycotic cerebral aneurysm in M2 branch of left middle cerebral artery secondary to infective endocarditis
+T67	DISEASE 15266 15288	infective endocarditis
+T91	DISEASE 15276 15288	endocarditis
+T127	DISEASE 15306 15331	cerebral mycotic aneurysm
+T128	DISEASE 15350 15383	Multifactorial normocytic anaemia
+T108	DISEASE 15376 15383	anaemia
+T129	DISEASE 15395 15408	hypersplenism
+T130	DISEASE 15447 15481	Multifactorial acute renal failure
+T131	DISEASE 15483 15494	hypotension

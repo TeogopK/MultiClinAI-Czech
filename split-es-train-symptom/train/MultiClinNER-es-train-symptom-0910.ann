@@ -1,0 +1,47 @@
+T2	SYMPTOM 840 854	dolor torácico
+T3	SYMPTOM 973 1000	T negativas inferolaterales
+T4	SYMPTOM 1022 1037	FEVI conservada
+T5	SYMPTOM 1636 1649	palpitaciones
+T6	SYMPTOM 1837 1850	ritmo sinusal
+T7	SYMPTOM 2037 2049	asintomático
+T8	SYMPTOM 2055 2068	ritmo sinusal
+T9	SYMPTOM 2090 2117	T negativas inferolaterales
+T10	SYMPTOM 2535 2547	asintomático
+T11	SYMPTOM 2573 2586	palpitaciones
+T12	SYMPTOM 2594 2612	disnea de esfuerzo
+T13	SYMPTOM 3516 3540	Aceptable estado general
+T14	SYMPTOM 3542 3560	Eupneico en reposo
+T16	SYMPTOM 3708 3731	soplos audibles basales
+T17	SYMPTOM 3762 3791	Murmullo vesicular conservado
+T20	SYMPTOM 3908 3948	Pulsos distales conservados y simétricos
+T21	SYMPTOM 4004 4088	ventrículo izquierdo (VI) no dilatado, con movilidad global y segmentaria conservada
+T23	SYMPTOM 4463 4475	QRS estrecho
+T24	SYMPTOM 4553 4648	T bifásicas en V1-V2, negativas en I, II, III, aVF y negativas profundas y asimétricas en V3-V6
+T26	SYMPTOM 5317 5352	Función sistólica del VI conservada
+T27	SYMPTOM 5370 5431	Función diastólica del VI y sistólica del VD sin alteraciones
+T28	SYMPTOM 6265 6297	ventrículo izquierdo no dilatado
+T29	SYMPTOM 6801 6813	asintomático
+T127	SYMPTOM 3653 3683	Auscultación cardiaca: rítmico
+T129	SYMPTOM 314 348	alteraciones electrocardiográficas
+T1	SYMPTOM 1043 1089	alteraciones segmentarias de la contractilidad
+T120	SYMPTOM 1204 1288	ergometría con resultado negativo para isquemia miocárdica y arritmias ventriculares
+T115	SYMPTOM 2750 2830	T negativas profundas y asimétricas en derivaciones precordiales y cara inferior
+T15	SYMPTOM 4289 4314	Ventrículo derecho normal
+T18	SYMPTOM 4977 5025	ligera hipocinesia de los segmentos más apicales
+T22	SYMPTOM 5767 5834	ventrículo izquierdo presenta la típica morfología en "as de picas"
+T133	SYMPTOM 3831 3861	Miembros inferiores: no edemas
+T140	SYMPTOM 5208 5211	SAM
+T141	SYMPTOM 5125 5146	afectación miocárdica
+T162	SYMPTOM 6038 6059	defectos de perfusión
+T112	SYMPTOM 2970 3014	a nivel apical de un mayor grosor miocárdico
+T113	SYMPTOM 3038 3085	cierre sistólico en morfología de "as de picas"
+T114	SYMPTOM 3090 3138	ligera hipocinesia de los segmentos más apicales
+T116	SYMPTOM 3161 3187	gradiente intraventricular
+T117	SYMPTOM 3154 3157	SAM
+T118	SYMPTOM 4322 4377	secuencia de realce tardío no se objetivan alteraciones
+T119	SYMPTOM 4654 4674	rectificación del ST
+T121	SYMPTOM 4860 4901	a nivel apical un mayor grosor miocárdico
+T122	SYMPTOM 4925 4972	cierre sistólico en morfología de "as de picas"
+T123	SYMPTOM 5945 5980	Ventrículo derecho sin alteraciones
+T125	SYMPTOM 5461 5493	ventrículo izquierdo no dilatado
+T126	SYMPTOM 6502 6574	ventrículo izquierdo en el cine 2C la típica morfología en "as de picas"

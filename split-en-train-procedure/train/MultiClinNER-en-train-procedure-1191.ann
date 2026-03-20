@@ -1,0 +1,70 @@
+T103	PROCEDURE 168 188	PHYSICAL EXAMINATION
+T151	PROCEDURE 317 343	open mitral commissurotomy
+T82	PROCEDURE 467 488	generator replacement
+T83	PROCEDURE 523 537	Echocardiogram
+T88	PROCEDURE 876 911	mechanical mitral valve replacement
+T89	PROCEDURE 916 938	tricuspid annuloplasty
+T84	PROCEDURE 974 988	echocardiogram
+T138	PROCEDURE 1324 1349	cardiac resynchronisation
+T90	PROCEDURE 1324 1357	cardiac resynchronisation therapy
+T124	PROCEDURE 1332 1357	resynchronisation therapy
+T92	PROCEDURE 1461 1472	TSA Doppler
+T93	PROCEDURE 1492 1531	Total hysterectomy + double adnexectomy
+T139	PROCEDURE 1765 1790	cardiac resynchronisation
+T91	PROCEDURE 1765 1798	cardiac resynchronisation therapy
+T125	PROCEDURE 1773 1798	resynchronisation therapy
+T149	PROCEDURE 1936 1944	drainage
+T150	PROCEDURE 1961 1971	dehiscence
+T94	PROCEDURE 1986 1997	debridement
+T96	PROCEDURE 2185 2205	surgical debridement
+T95	PROCEDURE 2194 2205	debridement
+T97	PROCEDURE 2239 2254	cardiac surgery
+T98	PROCEDURE 2533 2548	cardiac surgery
+T147	PROCEDURE 2671 2684	Imaging tests
+T99	PROCEDURE 2767 2787	antibiotic treatment
+T102	PROCEDURE 2792 2831	removal of the resynchronisation device
+T104	PROCEDURE 2873 2893	PHYSICAL EXAMINATION
+T105	PROCEDURE 3130 3150	Cardiac auscultation
+T106	PROCEDURE 3180 3202	Pulmonary auscultation
+T107	PROCEDURE 3403 3406	ECG
+T145	PROCEDURE 3522 3526	ions
+T108	PROCEDURE 3601 3612	Coagulation
+T109	PROCEDURE 3631 3661	Transthoracic echocardiography
+T85	PROCEDURE 3645 3661	echocardiography
+T110	PROCEDURE 4298 4330	Transesophageal echocardiography
+T86	PROCEDURE 4314 4330	echocardiography
+T144	PROCEDURE 4699 4727	POSITRON EMISSION TOMOGRAPHY
+T111	PROCEDURE 4729 4735	PET/CT
+T112	PROCEDURE 6688 6705	median sternotomy
+T114	PROCEDURE 7357 7383	ANGIO-CT coronary arteries
+T113	PROCEDURE 7891 7908	Median sternotomy
+T115	PROCEDURE 7913 7937	triple valve replacement
+T143	PROCEDURE 8217 8238	MICROBIOLOGICAL STUDY
+T116	PROCEDURE 8240 8254	Blood cultures
+T117	PROCEDURE 8331 8345	Blood cultures
+T121	PROCEDURE 8488 8502	antibiotherapy
+T122	PROCEDURE 8504 8533	Cultures of vascular material
+T118	PROCEDURE 8736 8750	blood cultures
+T123	PROCEDURE 8776 8810	removal of a cardiac pacing device
+T126	PROCEDURE 9023 9048	resynchronisation therapy
+T140	PROCEDURE 9370 9395	cardiac resynchronisation
+T141	PROCEDURE 9440 9465	cardiac resynchronisation
+T100	PROCEDURE 9563 9583	antibiotic treatment
+T127	PROCEDURE 9691 9712	acute phase reactants
+T128	PROCEDURE 9878 9896	antibiotic therapy
+T119	PROCEDURE 9939 9953	blood cultures
+T129	PROCEDURE 10024 10042	antibiotic therapy
+T131	PROCEDURE 10245 10284	removal of the resynchronisation system
+T148	PROCEDURE 10286 10335	a transient right jugular pacemaker was implanted
+T132	PROCEDURE 10590 10630	replacement of the transient pacing lead
+T133	PROCEDURE 10637 10687	placement of a temporary active fixation electrode
+T134	PROCEDURE 10826 10844	diuretic treatment
+T146	PROCEDURE 10941 10959	antibiotic regimen
+T101	PROCEDURE 11095 11115	antibiotic treatment
+T120	PROCEDURE 11131 11145	blood cultures
+T135	PROCEDURE 11169 11209	resynchronisation pacemaker implantation
+T136	PROCEDURE 11297 11372	only one RV electrode connected to a resynchronisation generator was placed
+T130	PROCEDURE 11466 11484	antibiotic therapy
+T87	PROCEDURE 11588 11602	echocardiogram
+T137	PROCEDURE 11929 11944	anticoagulation
+T142	PROCEDURE 11980 12005	cardiac resynchronisation

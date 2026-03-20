@@ -1,0 +1,39 @@
+T1	SYMPTOM 1738 1757	Buen estado general
+T2	SYMPTOM 1759 1769	Consciente
+T3	SYMPTOM 1771 1780	orientado
+T4	SYMPTOM 1783 1794	colaborador
+T5	SYMPTOM 1796 1803	Afebril
+T6	SYMPTOM 1816 1841	Estable hemodinámicamente
+T7	SYMPTOM 1925 1954	Eupneico en reposo y al habla
+T8	SYMPTOM 1982 2003	ingurgitación yugular
+T9	SYMPTOM 2024 2050	tonos cardiacos arrítmicos
+T10	SYMPTOM 2055 2061	soplos
+T11	SYMPTOM 2072 2101	Murmullo vesicular conservado
+T13	SYMPTOM 2140 2193	Miembros inferiores con ligeros edemas perimaleolares
+T14	SYMPTOM 2327 2339	QRS estrecho
+T15	SYMPTOM 2812 2842	Ventrículo izquierdo globuloso
+T17	SYMPTOM 3895 3937	áreas hipodensas pseudonodulares en hígado
+T18	SYMPTOM 4226 4261	Anticuerpos anti HLA I-II negativos
+T19	SYMPTOM 4326 4357	antígeno S hepatitis B negativo
+T20	SYMPTOM 4541 4564	IgG toxoplasma positivo
+T21	SYMPTOM 4591 4611	IgG tétanos positivo
+T22	SYMPTOM 4613 4630	VIH 1-2 negativos
+T23	SYMPTOM 4632 4679	IgG virus de Epstein Bar negativo, IgM negativo
+T24	SYMPTOM 4681 4707	Screening sífilis negativo
+T25	SYMPTOM 4709 4740	MARCADORES TUMORALES: negativos
+T26	SYMPTOM 4776 4824	función renal, perfil abdominal e iones normales
+T27	SYMPTOM 5037 5059	Perfil tiroideo normal
+T111	SYMPTOM 2719 2739	DAI normoposicionado
+T112	SYMPTOM 3072 3091	Válvula mitral fina
+T113	SYMPTOM 3183 3203	Válvula aórtica fina
+T114	SYMPTOM 3362 3403	Hipocontractilidad en segmentos laterales
+T115	SYMPTOM 3405 3441	Electrocatéter en ventrículo derecho
+T16	SYMPTOM 3556 3584	arterias coronarias normales
+T116	SYMPTOM 4359 4380	anti-HBs IgG negativo
+T117	SYMPTOM 4382 4402	antiHBc IgG negativo
+T118	SYMPTOM 4300 4324	hepatitis A IgG positivo
+T119	SYMPTOM 4274 4298	hepatitis C IgG negativo
+T121	SYMPTOM 4566 4589	IgM toxoplasma negativo
+T122	SYMPTOM 4404 4539	Anticuerpos IgG positivos frente a virus de la parotiditis, rubeola, sarampión, herpes virus tipo 1, varicella zoster y citomegalovirus
+T127	SYMPTOM 2106 2138	ruidos patológicos sobreañadidos
+T152	SYMPTOM 6490 6498	sangrado

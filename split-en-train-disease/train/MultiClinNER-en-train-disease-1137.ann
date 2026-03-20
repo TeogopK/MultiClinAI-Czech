@@ -1,0 +1,52 @@
+T32	DISEASE 129 143	drug allergies
+T33	DISEASE 145 154	Ex-smoker
+T80	DISEASE 156 166	Ex-drinker
+T34	DISEASE 168 200	Hyperuricaemia with gouty crisis
+T35	DISEASE 216 229	Dyslipidaemia
+T36	DISEASE 245 269	type 2 diabetes mellitus
+T37	DISEASE 344 376	Stage III chronic kidney disease
+T38	DISEASE 406 435	acute calculous cholecystitis
+T83	DISEASE 446 461	nephritic colic
+T39	DISEASE 518 545	Anxious-depressive syndrome
+T40	DISEASE 785 796	sarcoidosis
+T68	DISEASE 1173 1195	dilated cardiomyopathy
+T43	DISEASE 1173 1228	dilated cardiomyopathy with severe systolic dysfunction
+T44	DISEASE 1307 1324	coronary stenosis
+T45	DISEASE 1437 1450	heart disease
+T74	DISEASE 1689 1713	left bundle branch block
+T63	DISEASE 1694 1713	bundle branch block
+T46	DISEASE 2078 2108	paroxysmal atrial fibrillation
+T47	DISEASE 2113 2127	atrial flutter
+T49	DISEASE 2512 2525	heart failure
+T55	DISEASE 2719 2753	complete right bundle branch block
+T64	DISEASE 2734 2753	bundle branch block
+T56	DISEASE 2795 2844	non-specific intraventricular conduction disorder
+T57	DISEASE 5330 5360	supraventricular extrasystoles
+T81	DISEASE 5407 5438	severely dilated left ventricle
+T58	DISEASE 5717 5731	valvulopathies
+T59	DISEASE 5750 5770	pericardial effusion
+T60	DISEASE 5775 5798	tricuspid insufficiency
+T61	DISEASE 5827 5849	pulmonary hypertension
+T62	DISEASE 5988 6015	left ventricular dilatation
+T65	DISEASE 6212 6231	bundle branch block
+T50	DISEASE 6662 6675	heart failure
+T51	DISEASE 6990 7003	heart failure
+T67	DISEASE 7296 7315	cardiac sarcoidosis
+T41	DISEASE 7304 7315	sarcoidosis
+T69	DISEASE 7361 7383	dilated cardiomyopathy
+T82	DISEASE 7396 7426	severe conduction disturbances
+T72	DISEASE 7539 7576	non-sustained ventricular arrhythmias
+T73	DISEASE 7616 7688	non-ischaemic dilated cardiomyopathy with severe ventricular dysfunction
+T70	DISEASE 7630 7652	dilated cardiomyopathy
+T75	DISEASE 7770 7794	left bundle branch block
+T66	DISEASE 7775 7794	bundle branch block
+T52	DISEASE 7969 7982	heart failure
+T76	DISEASE 8470 8488	atrial tachycardia
+T48	DISEASE 8491 8505	atrial flutter
+T77	DISEASE 8642 8669	decompensated heart failure
+T53	DISEASE 8656 8669	heart failure
+T78	DISEASE 8997 9030	Cardiac and pulmonary sarcoidosis
+T42	DISEASE 9019 9030	sarcoidosis
+T71	DISEASE 9032 9054	Dilated cardiomyopathy
+T79	DISEASE 9032 9104	Dilated cardiomyopathy with severe left ventricular systolic dysfunction
+T54	DISEASE 9106 9119	Heart failure

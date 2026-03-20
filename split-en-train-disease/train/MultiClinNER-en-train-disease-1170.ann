@@ -1,0 +1,71 @@
+T58	DISEASE 127 150	Allergic to penicillins
+T101	DISEASE 185 197	Toxic habits
+T59	DISEASE 199 208	ex-smoker
+T60	DISEASE 265 286	arterial hypertension
+T22	DISEASE 288 291	AHT
+T23	DISEASE 294 336	Mild chronic obstructive pulmonary disease
+T64	DISEASE 338 342	COPD
+T65	DISEASE 471 490	Multinodular goitre
+T66	DISEASE 516 554	Paroxysmal atrial fibrillation/flutter
+T68	DISEASE 606 618	septic shock
+T69	DISEASE 775 787	sacral ulcer
+T71	DISEASE 827 842	unstable angina
+T72	DISEASE 981 990	ischaemia
+T73	DISEASE 1061 1109	non-ST-segment elevation acute coronary syndrome
+T24	DISEASE 1111 1118	NSTEACS
+T25	DISEASE 1173 1205	left main coronary artery lesion
+T26	DISEASE 1463 1490	mild aortic root dilatation
+T27	DISEASE 1492 1526	mild-moderate mitral regurgitation
+T28	DISEASE 1606 1639	Gastro-oesophageal reflux disease
+T30	DISEASE 1641 1645	GORD
+T74	DISEASE 1652 1691	grade IV/IV oesophagitis and duodenitis
+T75	DISEASE 1693 1702	Achalasia
+T29	DISEASE 1800 1838	respiratory infection by P. aeruginosa
+T31	DISEASE 1840 1874	sacral eschar infection by E. coli
+T76	DISEASE 1920 1964	Diverticulosis of the colon with haemorrhage
+T32	DISEASE 1998 2021	iron deficiency anaemia
+T77	DISEASE 2031 2048	chronic gastritis
+T33	DISEASE 2078 2126	Pedunculated polyp at 30 cm from the anal margin
+T78	DISEASE 2178 2189	diverticula
+T34	DISEASE 2223 2280	Angiodysplasia of the intestine with isolated haemorrhage
+T35	DISEASE 2876 2882	melena
+T106	DISEASE 3009 3029	arterial hypotension
+T36	DISEASE 3172 3206	sion in the left main coronary art
+T37	DISEASE 3260 3302	moderate left ventricular (LV) dysfunction
+T79	DISEASE 4085 4121	venous thrombosis in the lower limbs
+T81	DISEASE 4365 4384	atrial fibrillation
+T84	DISEASE 4522 4536	atrial flutter
+T103	DISEASE 4613 4625	cardiomegaly
+T85	DISEASE 4698 4714	pleural effusion
+T70	DISEASE 5582 5594	Sacral ulcer
+T38	DISEASE 5683 5738	dilated LV (DTD 70 mm), with mild septal LV hypertrophy
+T39	DISEASE 5740 5743	LVH
+T102	DISEASE 5995 6075	Sclerocalcified aortic valve, trivalve, with good opening and mild insufficiency
+T107	DISEASE 6077 6098	Moderately dilated LA
+T108	DISEASE 6100 6184	Sclerocalcified mitral valve, thickened leaflets, with moderate-severe regurgitation
+T40	DISEASE 6275 6305	Mildly dilated right ventricle
+T86	DISEASE 6380 6422	Tricuspid insufficiency (TI) mild-moderate
+T87	DISEASE 6559 6579	pericardial effusion
+T88	DISEASE 6650 6664	valvulopathies
+T89	DISEASE 6697 6719	pulmonary hypertension
+T91	DISEASE 6765 6800	common trunk with critical stenosis
+T92	DISEASE 7112 7179	Anatomically dominant right coronary artery, diffusely atheromatous
+T93	DISEASE 7700 7729	Angiodysplasia in the stomach
+T94	DISEASE 7767 7797	Millimetric polyp in the cecum
+T105	DISEASE 8063 8074	hypotension
+T111	DISEASE 8099 8120	poor distal perfusion
+T82	DISEASE 8843 8862	atrial fibrillation
+T41	DISEASE 9102 9114	valvulopathy
+T90	DISEASE 9118 9140	pulmonary hypertension
+T95	DISEASE 9780 9788	COVID-19
+T42	DISEASE 9902 9935	pressure ulcer in the sacral area
+T43	DISEASE 10304 10323	progressive anaemia
+T44	DISEASE 10928 10930	AF
+T96	DISEASE 11248 11288	Angiodysplasias in the stomach and cecum
+T45	DISEASE 12134 12141	NSTEACS
+T46	DISEASE 12143 12234	Severe coronary artery disease of the left main coronary artery (LMCA) with critical lesion
+T97	DISEASE 12280 12310	Severe LV systolic dysfunction
+T98	DISEASE 12346 12359	Acute anaemia
+T99	DISEASE 12426 12462	Angiodysplasias in stomach and cecum
+T67	DISEASE 12464 12502	Paroxysmal atrial fibrillation/flutter
+T100	DISEASE 12504 12523	Acute renal failure

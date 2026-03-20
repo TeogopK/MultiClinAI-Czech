@@ -1,0 +1,13 @@
+T8	DISEASE 33 45	hypertensive
+T1	DISEASE 47 55	diabetic
+T2	DISEASE 57 62	obese
+T14	DISEASE 64 77	dyslipidaemic
+T4	DISEASE 87 109	chronic kidney disease
+T11	DISEASE 111 114	CKD
+T5	DISEASE 138 146	diabetes
+T7	DISEASE 154 174	nephroangiosclerosis
+T9	DISEASE 444 474	catheter entry site infections
+T12	DISEASE 476 479	CES
+T3	DISEASE 554 565	bacteraemia
+T13	DISEASE 643 659	infection in CES
+T10	DISEASE 852 870	infectious picture

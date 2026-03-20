@@ -1,0 +1,29 @@
+T43	DISEASE 112 136	hipotiroidismo yatrógeno
+T44	DISEASE 160 178	cáncer de tiroides
+T45	DISEASE 1092 1110	trombosis profunda
+T46	DISEASE 1198 1209	anemia leve
+T47	DISEASE 1930 1945	derrame pleural
+T48	DISEASE 2425 2445	dilatación auricular
+T49	DISEASE 2626 2651	insuficiencia tricuspídea
+T50	DISEASE 2713 2732	derrame pericárdico
+T51	DISEASE 3295 3332	extrasistolia ventricular polimórfica
+T52	DISEASE 3335 3394	taquicardias ventriculares polimórficas (TVP) no sostenidas
+T53	DISEASE 3376 3379	TVP
+T54	DISEASE 3627 3685	taquicardia ventricular sostenida tipo torsades de pointes
+T55	DISEASE 3803 3820	TVP no sostenidas
+T56	DISEASE 3921 3942	hipertensión arterial
+T57	DISEASE 4189 4208	bradicardia sinusal
+T58	DISEASE 4441 4471	síndrome de QT largo congénito
+T59	DISEASE 4893 4964	síndrome de QT largo tipo 1 con patrón de herencia autosómico dominante
+T60	DISEASE 5025 5052	Síndrome de QT Largo tipo 1
+T61	DISEASE 5161 5184	cardiopatía estructural
+T62	DISEASE 5113 5147	Parada cardiaca reanimada por TVPS
+T63	DISEASE 5091 5099	Síncopes
+T64	DISEASE 4088 4097	arrítmica
+T65	DISEASE 4474 4528	parada cardiorrespiratoria reanimada por TVP sostenida
+T66	DISEASE 995 1004	ascitisis
+T160	DISEASE 2886 2905	torsades de pointes
+T2	DISEASE 2787 2823	tripletes ventriculares polimórficos
+#1	AnnotatorNotes T53	 taquicardia ventricular poliforma
+#2	AnnotatorNotes T55	 taquicardia ventricular poliforma
+#3	AnnotatorNotes T62	 TVPS: taquicardia ventricular polifórfica sostenida

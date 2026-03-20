@@ -1,0 +1,61 @@
+T30	DISEASE 84 98	drug allergies
+T31	DISEASE 134 155	arterial hypertension
+T1	DISEASE 157 160	AHT
+T32	DISEASE 163 176	dyslipidaemia
+T33	DISEASE 178 181	DLP
+T34	DISEASE 184 215	sleep apnoea-hypopnoea syndrome
+T35	DISEASE 217 221	SAHS
+T36	DISEASE 253 273	diverticular disease
+T90	DISEASE 314 330	Morton's neuroma
+T37	DISEASE 332 358	hallux valgus of both feet
+T38	DISEASE 377 389	rectal polyp
+T39	DISEASE 840 853	heart failure
+T40	DISEASE 1583 1595	cardiomegaly
+T41	DISEASE 1613 1633	pericardial effusion
+T48	DISEASE 1892 1897	cysts
+T92	DISEASE 1900 1908	necrosis
+T91	DISEASE 2231 2257	dilated inferior vena cava
+T49	DISEASE 2310 2344	Mild-moderate aortic insufficiency
+T50	DISEASE 2420 2436	pleural effusion
+T42	DISEASE 2471 2491	pericardial effusion
+T55	DISEASE 2740 2758	malignant neoplasm
+T58	DISEASE 2772 2795	pericardial sarcomatous
+T59	DISEASE 2862 2874	mesothelioma
+T60	DISEASE 2876 2884	lymphoma
+T63	DISEASE 2886 2896	metastasis
+T93	DISEASE 2903 2922	Thyroid enlargement
+T7	DISEASE 2998 3040	tracheobronchial lymph node calcifications
+T8	DISEASE 3124 3139	lymphadenopathy
+T65	DISEASE 3170 3196	Bilateral pleural effusion
+T9	DISEASE 3243 3285	passive atelectasis of the left lower lobe
+T94	DISEASE 3338 3353	fibrous lesions
+T68	DISEASE 3369 3386	Mild hepatomegaly
+T64	DISEASE 3436 3446	metastasis
+T69	DISEASE 3582 3660	malignant neoplasm of pericardial origin with significant pericardial effusion
+T66	DISEASE 3662 3688	Bilateral pleural effusion
+T71	DISEASE 3721 3747	passive atelectasis of LII
+T72	DISEASE 4410 4417	thymoma
+T86	DISEASE 4547 4579	pericardial primary lesion/tumou
+T73	DISEASE 4887 4894	thymoma
+T78	DISEASE 4942 4958	ectopic thymomas
+T61	DISEASE 5020 5049	T-type lymphoblastic lymphoma
+T74	DISEASE 5165 5172	thymoma
+T44	DISEASE 5213 5233	pericardial effusion
+T45	DISEASE 5592 5612	pericardial effusion
+T81	DISEASE 6010 6050	malignant neoplasm of pericardial origin
+T46	DISEASE 6068 6088	pericardial effusion
+T67	DISEASE 6093 6119	bilateral pleural effusion
+T12	DISEASE 6148 6242	malignant neoplasia in the anterior pericardium extending to the anterior superior mediastinum
+T95	DISEASE 6367 6401	cardiac mass infiltrating the lung
+T13	DISEASE 6478 6497	respiratory failure
+T54	DISEASE 6520 6536	pleural effusion
+T75	DISEASE 6624 6631	thymoma
+T87	DISEASE 6788 6821	primary pericardial lesion/tumour
+T62	DISEASE 6876 6905	T-type lymphoblastic lymphoma
+T79	DISEASE 7038 7054	ectopic thymomas
+T76	DISEASE 7094 7101	thymoma
+T82	DISEASE 7144 7161	myasthenia gravis
+T88	DISEASE 7275 7281	tumour
+T89	DISEASE 7405 7470	umour mass was observed with infiltration of the right upper lobe
+T83	DISEASE 7769 7814	Invasive thymoma with pericardial involvement
+T84	DISEASE 7829 7856	severe pericardial effusion

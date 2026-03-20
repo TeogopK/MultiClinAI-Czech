@@ -1,0 +1,34 @@
+T40	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T42	PROCEDURE 294 312	oral antidiabetics
+T43	PROCEDURE 525 552	left inguinal herniorrhaphy
+T44	PROCEDURE 1394 1403	anamnesis
+T41	PROCEDURE 1622 1642	Physical examination
+T46	PROCEDURE 1824 1844	Cardiac auscultation
+T47	PROCEDURE 1885 1907	Pulmonary auscultation
+T48	PROCEDURE 2092 2095	ECG
+T49	PROCEDURE 2280 2283	ECG
+T50	PROCEDURE 2477 2480	ECG
+T54	PROCEDURE 2780 2795	Cranial CT scan
+T56	PROCEDURE 2992 3012	coronary angiography
+T59	PROCEDURE 3741 3775	Percutaneous coronary intervention
+T62	PROCEDURE 3836 3885	implantation of two drug-eluting stents in tandem
+T63	PROCEDURE 3936 3980	repeated intracoronary nitroprusside boluses
+T64	PROCEDURE 3985 4030	multi-segment low-pressure balloon dilatation
+T65	PROCEDURE 4270 4298	Transthoracic echocardiogram
+T51	PROCEDURE 4626 4629	ECG
+T45	PROCEDURE 4763 4772	anamnesis
+T52	PROCEDURE 4809 4812	ECG
+T67	PROCEDURE 4956 4977	defibrillator-monitor
+T55	PROCEDURE 5074 5089	cranial CT scan
+T57	PROCEDURE 5280 5300	coronary angiography
+T58	PROCEDURE 5582 5602	coronary angiography
+T60	PROCEDURE 5734 5768	percutaneous coronary intervention
+T66	PROCEDURE 5860 5888	transthoracic echocardiogram
+T53	PROCEDURE 5988 5991	ECG
+T68	PROCEDURE 6174 6194	coronary reperfusion
+T69	PROCEDURE 6196 6218	pacemaker implantation
+T70	PROCEDURE 6280 6293	haemodynamics
+T71	PROCEDURE 6306 6323	revascularisation
+T61	PROCEDURE 6864 6898	Percutaneous coronary intervention
+T73	PROCEDURE 6864 6951	Percutaneous coronary intervention with implantation of 3 drug-eluting stents in tandem
+T72	PROCEDURE 7117 7134	revascularisation

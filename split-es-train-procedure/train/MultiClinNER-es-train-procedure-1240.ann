@@ -1,0 +1,29 @@
+T79	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T80	PROCEDURE 349 358	palpación
+T81	PROCEDURE 1193 1220	auscultación cardiopulmonar
+T82	PROCEDURE 1285 1306	exploración abdominal
+T83	PROCEDURE 1725 1744	analítica de sangre
+T84	PROCEDURE 1931 1936	iones
+T85	PROCEDURE 1948 1959	coagulación
+T86	PROCEDURE 1971 2016	radiografía anteroposterior de tórax portátil
+T87	PROCEDURE 2190 2208	electrocardiograma
+T88	PROCEDURE 2210 2213	ECG
+T89	PROCEDURE 2437 2440	ECG
+T90	PROCEDURE 2578 2581	ECG
+T91	PROCEDURE 2597 2621	tratamiento antianginoso
+T92	PROCEDURE 2626 2654	ecocardiograma transtorácico
+T93	PROCEDURE 4039 4054	betabloqueantes
+T95	PROCEDURE 4253 4264	cateterismo
+T96	PROCEDURE 4638 4669	tratamiento con betabloqueantes
+T98	PROCEDURE 4886 4906	doble antiagregación
+T99	PROCEDURE 4908 4923	betabloqueantes
+T100	PROCEDURE 4934 4943	estatinas
+T101	PROCEDURE 5021 5036	ecocardiografía
+T104	PROCEDURE 1852 1862	bioquímica
+T105	PROCEDURE 1909 1922	función renal
+T106	PROCEDURE 2555 2575	seriación enzimática
+T107	PROCEDURE 1361 1394	palpación superficial ni profunda
+T109	PROCEDURE 4925 4931	ARA-II
+T131	PROCEDURE 107 121	marcapasos DDD
+T137	PROCEDURE 4123 4150	perfusión de nitroglicerina
+T138	PROCEDURE 4848 4884	recomendaciones higiénico-dietéticas

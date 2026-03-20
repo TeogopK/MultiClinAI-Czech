@@ -1,0 +1,18 @@
+T1	PROCEDURE 202 213	examination
+T25	PROCEDURE 276 296	cardiac auscultation
+T3	PROCEDURE 349 365	Laboratory tests
+T26	PROCEDURE 477 488	Chest X-ray
+T39	PROCEDURE 501 533	Serial blood cultures were taken
+T5	PROCEDURE 566 596	transesophageal echocardiogram
+T35	PROCEDURE 681 711	Empirical antibiotic treatment
+T33	PROCEDURE 902 915	blood culture
+T36	PROCEDURE 964 981	direct Gram stain
+T38	PROCEDURE 1160 1170	Gram stain
+T28	PROCEDURE 1172 1189	Biochemical tests
+T6	PROCEDURE 1453 1501	subculture was performed in thioglycollate broth
+T29	PROCEDURE 1657 1687	Serological tests for Brucella
+T31	PROCEDURE 1820 1840	antibiotic treatment
+T7	PROCEDURE 2048 2082	low magnification light microscopy
+T8	PROCEDURE 2088 2144	sensitivity study was performed by the disc-plate method
+T32	PROCEDURE 2519 2539	antibiotic treatment
+T34	PROCEDURE 2704 2717	blood culture

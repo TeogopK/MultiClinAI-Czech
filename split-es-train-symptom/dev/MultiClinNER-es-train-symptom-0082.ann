@@ -1,0 +1,17 @@
+T1	SYMPTOM 713 731	BUT muy disminuido
+T2	SYMPTOM 559 592	sensación de cuerpo extraño y ojo
+T3	SYMPTOM 755 785	manchas de Bitot en ambos ojos
+T4	SYMPTOM 1014 1052	moteado blanquecino en media periferia
+T5	SYMPTOM 1854 1885	manifestaciones oftalmoscópicas
+T6	SYMPTOM 276 311	actividad de protrombina disminuida
+T7	SYMPTOM 733 752	xerosis conjuntival
+T8	SYMPTOM 1494 1502	sangrado
+T9	SYMPTOM 489 505	ceguera nocturna
+T10	SYMPTOM 589 597	ojo rojo
+T11	SYMPTOM 619 664	agudeza visual era de la unidad en ambos ojos
+T12	SYMPTOM 830 898	punteado epitelial conjuntivo corneal en la tinción con fluoresceína
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T6
+A4	RESULTADO T11
+A5	RESULTADO T12

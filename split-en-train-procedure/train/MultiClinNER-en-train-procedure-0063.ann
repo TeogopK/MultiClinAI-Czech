@@ -1,0 +1,25 @@
+T1	PROCEDURE 86 92	NSAIDs
+T3	PROCEDURE 217 239	diagnostic colonoscopy
+T6	PROCEDURE 507 568	median laparotomy with primary suture of the descending colon
+T19	PROCEDURE 591 606	catheterisation
+T21	PROCEDURE 908 917	operation
+T22	PROCEDURE 965 990	continuous bladder lavage
+T24	PROCEDURE 1140 1194	transfusion of six units of red blood cell concentrate
+T26	PROCEDURE 1314 1323	operation
+T27	PROCEDURE 1446 1455	operation
+T7	PROCEDURE 1457 1467	ultrasound
+T8	PROCEDURE 1553 1563	cystoscopy
+T13	PROCEDURE 1841 1854	Imaging tests
+T9	PROCEDURE 1871 1892	intravenous urography
+T33	PROCEDURE 2090 2097	CT scan
+T36	PROCEDURE 2314 2365	examination was scheduled under general anaesthesia
+T14	PROCEDURE 2385 2403	lavage with Ellick
+T38	PROCEDURE 2646 2709	bladder tumour, extensive transurethral resection was performed
+T5	PROCEDURE 2740 2766	anatomo-pathological study
+T11	PROCEDURE 2898 2925	haematoxylin-eosin staining
+T12	PROCEDURE 2992 3015	staining with Congo red
+T10	PROCEDURE 3030 3055	immunohistochemical study
+T15	PROCEDURE 3078 3154	monoclonal antibodies (clone mcl) specific against the AA protein of amyloid
+T42	PROCEDURE 3482 3491	operation
+T2	PROCEDURE 3620 3632	cystoscopies
+T4	PROCEDURE 3816 3836	cystoscopic controls

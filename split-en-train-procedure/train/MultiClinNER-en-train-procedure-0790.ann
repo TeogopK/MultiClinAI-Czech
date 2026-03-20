@@ -1,0 +1,63 @@
+T101	PROCEDURE 220 240	PHYSICAL EXAMINATION
+T21	PROCEDURE 360 378	oral antidiabetics
+T134	PROCEDURE 471 492	Generator replacement
+T22	PROCEDURE 726 758	upgrade to tri-chamber pacemaker
+T23	PROCEDURE 848 893	nocturnal continuous positive airway pressure
+T92	PROCEDURE 895 899	CPAP
+T93	PROCEDURE 981 992	Gastroscopy
+T94	PROCEDURE 997 1008	colonoscopy
+T95	PROCEDURE 1027 1058	thoraco-abdomino-pelvic CT scan
+T96	PROCEDURE 1063 1084	oesophageal manometry
+T97	PROCEDURE 1931 1940	diuretics
+T25	PROCEDURE 1978 1995	echocardiographic
+T102	PROCEDURE 2007 2027	Physical examination
+T103	PROCEDURE 2100 2124	O2 through nasal goggles
+T104	PROCEDURE 2271 2291	Cardiac auscultation
+T105	PROCEDURE 2379 2401	Pulmonary auscultation
+T106	PROCEDURE 2656 2673	Electrocardiogram
+T107	PROCEDURE 2675 2678	ECG
+T26	PROCEDURE 2722 2775	ventricular conduction mediated by electrostimulation
+T108	PROCEDURE 2896 2907	Chest X-ray
+T27	PROCEDURE 3114 3117	CBC
+T133	PROCEDURE 3319 3331	Biochemistry
+T109	PROCEDURE 3593 3604	Coagulation
+T110	PROCEDURE 3729 3750	Serial blood cultures
+T112	PROCEDURE 3845 3875	Bacterial and viral serologies
+T131	PROCEDURE 3887 3899	Autoimmunity
+T136	PROCEDURE 3922 3939	rheumatoid factor
+T138	PROCEDURE 3980 3998	Haemolysis markers
+T113	PROCEDURE 4053 4073	Bone marrow aspirate
+T115	PROCEDURE 4145 4169	Microbiological cultures
+T116	PROCEDURE 4174 4188	parasite study
+T28	PROCEDURE 4199 4263	Cultures of resected valve material and explanted pacemaker wire
+T29	PROCEDURE 4276 4318	Thoracic-abdominal-pelvic CT with contrast
+T117	PROCEDURE 5026 5058	Transesophageal echocardiography
+T30	PROCEDURE 5060 5063	TEE
+T119	PROCEDURE 5069 5099	transthoracic echocardiography
+T31	PROCEDURE 5101 5104	TTE
+T120	PROCEDURE 6431 6451	Coronary angiography
+T32	PROCEDURE 6790 6799	depletive
+T33	PROCEDURE 6893 6926	thoracic-abdominal-pelvic CT scan
+T34	PROCEDURE 7136 7139	TTE
+T118	PROCEDURE 7415 7447	Transesophageal echocardiography
+T123	PROCEDURE 7499 7513	blood cultures
+T135	PROCEDURE 7529 7557	empirical antibiotic therapy
+T125	PROCEDURE 7803 7823	Chest CT angiography
+T137	PROCEDURE 8444 8455	haematology
+T35	PROCEDURE 8468 8521	treatment with granulocyte colony-stimulating factors
+T114	PROCEDURE 8537 8557	bone marrow aspirate
+T121	PROCEDURE 9076 9096	Coronary angiography
+T126	PROCEDURE 9233 9259	surgical revascularisation
+T124	PROCEDURE 9265 9279	blood cultures
+T69	PROCEDURE 9348 9356	Serology
+T132	PROCEDURE 9366 9378	autoimmunity
+T128	PROCEDURE 9487 9509	Nuclear medicine tests
+T66	PROCEDURE 9723 9789	replace the mitral and pulmonary valves with biological prostheses
+T40	PROCEDURE 9808 9849	pacemaker lead and generator were removed
+T41	PROCEDURE 9854 9928	epicardial leads were implanted in the AD, RV and LV for resynchronisation
+T129	PROCEDURE 9935 10003	placement of a new generator in the right abdominal subcostal region
+T39	PROCEDURE 10005 10024	Bypass over the LAD
+T38	PROCEDURE 10136 10189	percutaneous coronary intervention (PCI) over the LAD
+T37	PROCEDURE 10172 10175	PCI
+T36	PROCEDURE 10229 10298	valve debris and the distal end of the wire were sent to microbiology
+T130	PROCEDURE 10331 10352	cardiac resuscitation

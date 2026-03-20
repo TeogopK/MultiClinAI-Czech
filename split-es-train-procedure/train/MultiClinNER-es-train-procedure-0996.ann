@@ -1,0 +1,62 @@
+T109	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T110	PROCEDURE 436 447	Cateterismo
+T111	PROCEDURE 708 761	intervencionismo coronario percutáneo (ICP) con balón
+T112	PROCEDURE 764 819	implante de 2 stents en CD proximal y DA proximal-media
+T113	PROCEDURE 821 867	Implante marcapasos (MCP) definitivo bicameral
+T114	PROCEDURE 968 982	ecocardiograma
+T115	PROCEDURE 1165 1191	Intervenciones quirúrgicas
+T116	PROCEDURE 1193 1207	apendicectomía
+T117	PROCEDURE 1209 1224	colecistectomía
+T118	PROCEDURE 2003 2021	Exploración física
+T119	PROCEDURE 2275 2296	Auscultación cardiaca
+T120	PROCEDURE 2353 2374	Auscultación pulmonar
+T121	PROCEDURE 2584 2602	Electrocardiograma
+T122	PROCEDURE 2604 2607	ECG
+T123	PROCEDURE 2662 2682	Radiografía de tórax
+T124	PROCEDURE 2799 2808	Hemograma
+T125	PROCEDURE 2911 2922	Coagulación
+T126	PROCEDURE 3096 3114	Estudio de lípidos
+T127	PROCEDURE 3441 3455	Ecocardiograma
+T128	PROCEDURE 4088 4133	Coronariografía, vía arteria radial izquierda
+T129	PROCEDURE 4260 4277	revascularización
+T130	PROCEDURE 4331 4340	Hemograma
+T131	PROCEDURE 4343 4354	coagulación
+T132	PROCEDURE 4428 4439	coagulación
+T133	PROCEDURE 4629 4647	Estudio de lípidos
+T134	PROCEDURE 4873 4887	Ecocardiograma
+T135	PROCEDURE 5296 5305	Hemograma
+T136	PROCEDURE 5308 5319	coagulación
+T137	PROCEDURE 5510 5528	Estudio de lípidos
+T138	PROCEDURE 5754 5768	Ecocardiograma
+T139	PROCEDURE 6629 6666	tratamiento deplectivo y antianginoso
+T140	PROCEDURE 6787 6802	coronariografia
+T141	PROCEDURE 7342 7365	ferroterapia endovenosa
+T142	PROCEDURE 7648 7684	terapia de resincronizacion cardiaca
+T143	PROCEDURE 7686 7689	TRC
+T144	PROCEDURE 7888 7903	implante de TRC
+T161	PROCEDURE 3262 3294	Biomarcadores de daño miocárdico
+T162	PROCEDURE 4458 4468	Bioquímica
+T163	PROCEDURE 5339 5349	Bioquímica
+T164	PROCEDURE 4594 4610	Función hepática
+T165	PROCEDURE 5475 5491	Función hepática
+T166	PROCEDURE 3023 3028	Iones
+T167	PROCEDURE 4578 4583	Iones
+T168	PROCEDURE 5459 5464	Iones
+T169	PROCEDURE 3046 3062	función hepática
+T170	PROCEDURE 2947 2948	í
+T171	PROCEDURE 3195 3214	Metabolismo férrico
+T172	PROCEDURE 3357 3393	Marcadores de insuficiencia cardiaca
+T173	PROCEDURE 4796 4832	Marcadores de insuficiencia cardiaca
+T174	PROCEDURE 5611 5630	Metabolismo férrico
+T175	PROCEDURE 5677 5713	Marcadores de insuficiencia cardiaca
+T176	PROCEDURE 2788 2797	Analítica
+T177	PROCEDURE 4320 4329	Analítica
+T178	PROCEDURE 5285 5294	Analítica
+T221	PROCEDURE 2631 2651	marcapasos bicameral
+T240	PROCEDURE 6909 6940	tratamiento médico antianginoso
+T40	PROCEDURE 955 958	DDD
+T145	PROCEDURE 4135 4152	stents en CD y DA
+T180	PROCEDURE 6276 6289	MCP bicameral
+T183	PROCEDURE 8577 8608	coronaria de 2 vasos con stents
+#3	AnnotatorNotes T143	 Terapia de resincronización cardíaca
+#4	AnnotatorNotes T144	 TRC: terapia de resincronización cardíaca

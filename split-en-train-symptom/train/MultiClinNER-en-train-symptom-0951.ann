@@ -1,0 +1,39 @@
+T1	SYMPTOM 407 439	Positive ergometry at high loads
+T2	SYMPTOM 1090 1100	chest pain
+T20	SYMPTOM 1202 1225	central chest tightness
+T3	SYMPTOM 1242 1280	dyspnoea triggered by minimal exertion
+T4	SYMPTOM 1389 1401	palpitations
+T21	SYMPTOM 1412 1430	decreased diuresis
+T22	SYMPTOM 1434 1476	increased circumference of the lower limbs
+T5	SYMPTOM 1547 1555	Afebrile
+T26	SYMPTOM 1594 1597	IVY
+T27	SYMPTOM 1613 1633	hepatojugular reflux
+T6	SYMPTOM 1635 1665	Cardiac auscultation: rhythmic
+T7	SYMPTOM 1670 1677	murmurs
+T23	SYMPTOM 1703 1750	preserved vesicular murmur with no added sounds
+T24	SYMPTOM 1752 1776	hypophonesis at the base
+T25	SYMPTOM 1792 1800	crackles
+T8	SYMPTOM 1802 1854	Abdomen: soft, depressible, not painful on palpation
+T28	SYMPTOM 1856 1878	Lower limbs: no oedema
+T18	SYMPTOM 1926 1938	sinus rhythm
+T29	SYMPTOM 2027 2065	ST segment rectification from V2 to V6
+T30	SYMPTOM 2224 2254	mediastinal structures centred
+T31	SYMPTOM 2256 2305	Cardiopericardial silhouette of normal morphology
+T9	SYMPTOM 2307 2345	Pulmonary hilae of vascular morphology
+T32	SYMPTOM 2347 2378	Free costodiaphragmatic sinuses
+T33	SYMPTOM 2395 2427	active pleuroparenchymal lesions
+T19	SYMPTOM 2982 3026	Serial myocardial necrosis markers: negative
+T10	SYMPTOM 3444 3478	Faecal occult blood test: negative
+T11	SYMPTOM 3602 3629	Preserved systolic function
+T34	SYMPTOM 3711 3745	Normal transmitral filling pattern
+T35	SYMPTOM 3833 3885	aortic valve, sclerocalcified with preserved opening
+T36	SYMPTOM 4028 4056	Ascending atrium not dilated
+T37	SYMPTOM 4065 4092	Non-dilated right ventricle
+T38	SYMPTOM 4199 4219	Thin pulmonary valve
+T39	SYMPTOM 5069 5139	Colonoscopy and upper gastrointestinal endoscopy: no evidence of blood
+T12	SYMPTOM 5679 5720	preserved biventricular systolic function
+T14	SYMPTOM 6127 6135	bleeding
+T15	SYMPTOM 6290 6377	Digestive endoscopy was performed without documentation of potentially bleeding lesions
+T16	SYMPTOM 6476 6484	bleeding
+T17	SYMPTOM 6564 6572	bleeding
+T40	SYMPTOM 6846 6864	clinical stability

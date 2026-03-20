@@ -1,0 +1,26 @@
+T1	SYMPTOM 156 183	disnea de mínimos esfuerzos
+T2	SYMPTOM 185 193	ortopnea
+T3	SYMPTOM 195 222	disnea paroxística nocturna
+T4	SYMPTOM 225 238	palpitaciones
+T5	SYMPTOM 753 792	función sistólica severamente deprimida
+T6	SYMPTOM 1341 1354	ritmo sinusal
+T7	SYMPTOM 1954 1981	disnea de mínimos esfuerzos
+T8	SYMPTOM 1983 1991	ortopnea
+T9	SYMPTOM 1993 2020	disnea paroxística nocturna
+T10	SYMPTOM 2024 2037	palpitaciones
+T11	SYMPTOM 2492 2502	consciente
+T12	SYMPTOM 2504 2518	normocoloreado
+T13	SYMPTOM 2521 2535	normohidratado
+T14	SYMPTOM 2560 2586	tonos cardiacos arrítmicos
+T15	SYMPTOM 2609 2615	soplos
+T16	SYMPTOM 2640 2683	disminución generalizada murmullo vesicular
+T17	SYMPTOM 2689 2710	crepitantes bibasales
+T19	SYMPTOM 2787 2802	Abdomen: blando
+T21	SYMPTOM 2918 2930	QRS estrecho
+T22	SYMPTOM 3002 3033	sobrecarga ventrículo izquierdo
+T23	SYMPTOM 3077 3121	infiltrados alveolo-intersticiales bibasales
+T102	SYMPTOM 807 835	arterias coronarias normales
+T113	SYMPTOM 2715 2745	Miembros inferiores: no edemas
+T120	SYMPTOM 3160 3186	Senos costofrénicos libres
+T122	SYMPTOM 3990 4020	Vena cava inferior no dilatada
+T18	SYMPTOM 3613 3671	Ventrículo izquierdo ligeramente dilatado, no hipertrófico

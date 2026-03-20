@@ -1,0 +1,47 @@
+T89	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 386 411	oral lipid-lowering drugs
+T7	PROCEDURE 933 993	revascularised with the implantation of 1 drug-eluting stent
+T5	PROCEDURE 1217 1236	abciximab perfusion
+T91	PROCEDURE 1269 1280	balloon PCI
+T90	PROCEDURE 2451 2471	physical examination
+T92	PROCEDURE 2644 2664	Cardiac auscultation
+T93	PROCEDURE 2715 2737	Pulmonary auscultation
+T94	PROCEDURE 2832 2849	electrocardiogram
+T95	PROCEDURE 2851 2854	ECG
+T96	PROCEDURE 3121 3124	ECG
+T99	PROCEDURE 3271 3291	coronary angiography
+T97	PROCEDURE 4130 4133	ECG
+T11	PROCEDURE 4306 4315	haemogram
+T122	PROCEDURE 4317 4327	red series
+T112	PROCEDURE 4569 4573	Ions
+T12	PROCEDURE 4609 4634	Myocardial damage markers
+T106	PROCEDURE 4863 4876	Lipid profile
+T107	PROCEDURE 5049 5065	Echocardiography
+T100	PROCEDURE 5418 5438	coronary angiography
+T13	PROCEDURE 5554 5574	previous angiography
+T14	PROCEDURE 5591 5627	Doppler ultrasound of the left groin
+T98	PROCEDURE 6059 6062	ECG
+T109	PROCEDURE 6197 6227	Transthoracic echocardiography
+T15	PROCEDURE 6229 6232	TTE
+T110	PROCEDURE 6700 6713	Doppler study
+T18	PROCEDURE 6835 6844	haemogram
+T111	PROCEDURE 6862 6873	Coagulation
+T119	PROCEDURE 6882 6894	Biochemistry
+T121	PROCEDURE 6907 6921	renal function
+T113	PROCEDURE 6926 6938	electrolytes
+T105	PROCEDURE 6947 6975	Markers of myocardial damage
+T114	PROCEDURE 7299 7316	aminergic support
+T115	PROCEDURE 7367 7378	angioplasty
+T21	PROCEDURE 7655 7748	intracoronary bolus of abciximab was administered and intravenous perfusion was left in place
+T116	PROCEDURE 7930 7940	monitoring
+T101	PROCEDURE 8042 8062	coronary angiography
+T102	PROCEDURE 8109 8129	coronary angiography
+T22	PROCEDURE 8150 8191	percutaneous revascularisation or surgery
+T23	PROCEDURE 8532 8535	TTE
+T103	PROCEDURE 8760 8780	coronary angiography
+T117	PROCEDURE 9127 9150	double anti-aggregation
+T104	PROCEDURE 9307 9350	coronary angiography via the femoral artery
+T24	PROCEDURE 9389 9407	Doppler ultrasound
+T27	PROCEDURE 10194 10220	double antiplatelet therap
+T123	PROCEDURE 10622 10645	intracoronary abciximab
+T118	PROCEDURE 10656 10683	triple antiplatelet therapy

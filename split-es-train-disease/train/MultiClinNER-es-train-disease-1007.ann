@@ -1,0 +1,70 @@
+T12	DISEASE 3012 3015	DPN
+T56	DISEASE 307 318	cardiopatía
+T57	DISEASE 487 490	MCD
+T58	DISEASE 544 555	cardiopatía
+T59	DISEASE 617 628	cardiopatía
+T60	DISEASE 656 679	alergias medicamentosas
+T61	DISEASE 711 719	fumadora
+T62	DISEASE 723 731	bebedora
+T63	DISEASE 771 783	Fibromialgia
+T64	DISEASE 785 836	Insuficiencia venosa crónica en miembros inferiores
+T65	DISEASE 861 884	Miocardiopatía dilatada
+T66	DISEASE 994 1004	DSVI grave
+T67	DISEASE 1084 1102	IM grave funcional
+T68	DISEASE 1104 1150	insuficiencia tricuspídea (IT) grave funcional
+T69	DISEASE 1162 1206	Hipertensión pulmonar (HP) al menos moderada
+T70	DISEASE 1185 1187	HP
+T71	DISEASE 1208 1239	Insuficiencia cardiaca avanzada
+T72	DISEASE 1449 1470	Síndrome cardiorrenal
+T73	DISEASE 1675 1700	Bloqueo de rama izquierda
+T74	DISEASE 1702 1708	BCRIHH
+T75	DISEASE 1809 1832	arritmias ventriculares
+T76	DISEASE 1849 1872	taquicardia ventricular
+T77	DISEASE 1874 1876	TV
+T78	DISEASE 1900 1914	FA paroxística
+T79	DISEASE 2334 2336	IC
+T80	DISEASE 3840 3865	trombosis venosa profunda
+T81	DISEASE 3867 3870	TVP
+T82	DISEASE 5504 5542	extrasístoles ventriculares monomorfas
+T83	DISEASE 5648 5674	disfunción sistólica grave
+T84	DISEASE 5831 5872	Insuficiencia mitral (IM) grave funcional
+T85	DISEASE 5874 5913	Insuficiencia tricuspídea (IT) moderada
+T87	DISEASE 6163 6204	hipertensión pulmonar moderada poscapilar
+T88	DISEASE 6485 6501	IC descompensada
+T89	DISEASE 6981 7022	hipertensión pulmonar moderada poscapilar
+T91	DISEASE 8062 8093	insuficiencia cardiaca avanzada
+T92	DISEASE 8153 8156	IRC
+T93	DISEASE 8209 8230	síndrome cardiorrenal
+T94	DISEASE 8426 8441	cuadro catarral
+T95	DISEASE 9055 9063	IM grave
+T96	DISEASE 9947 10049	Insuficiencia cardiaca crónica avanzada CF III NYHA - INTERMACS 6 por miocardiopatía dilatada familiar
+T97	DISEASE 10211 10247	Insuficiencia mitral grave funcional
+T98	DISEASE 10250 10293	insuficiencia tricúspide moderada funcional
+T99	DISEASE 10319 10360	Hipertensión pulmonar moderada poscapilar
+T100	DISEASE 10431 10464	Fibrilación auricular paroxística
+T101	DISEASE 10466 10526	Insuficiencia renal crónica (G3A2) por síndrome cardiorrenal
+T102	DISEASE 691 706	Hábitos tóxicos
+T103	DISEASE 7072 7074	IC
+T104	DISEASE 9171 9188	IM leve- moderada
+T105	DISEASE 5596 5630	ventrículo izquierdo (VI) dilatado
+T106	DISEASE 5753 5822	Ventrículo derecho (VD) ligeramente dilatado con disfunción sistólica
+T107	DISEASE 5853 5855	IM
+T108	DISEASE 5901 5903	IT
+T109	DISEASE 10105 10115	DSVI grave
+T47	DISEASE 10414 10419	TVMNS
+T201	DISEASE 6024 6052	Insuficiencia aórtica ligera
+T218	DISEASE 8405 8420	descompensación
+T86	DISEASE 111 166	fallecido a los 78 años de forma súbita con cardiopatía
+T55	DISEASE 427 466	fallecido a los 38 años de forma súbita
+T170	DISEASE 1537 1576	intolerancia a fármacos neurohormonales
+#1	AnnotatorNotes T57	 cardiopatia dilatada idiopática
+#2	AnnotatorNotes T66	 disfunción ventricular izquierda
+#3	AnnotatorNotes T70	 hipertensión pulmonar
+#4	AnnotatorNotes T77	 taquicardia ventricular
+#5	AnnotatorNotes T79	 insuficiencia cardiaca
+#6	AnnotatorNotes T92	 insuficiencia renal crónica
+#7	AnnotatorNotes T103	 insuficiencia cardiaca
+#8	AnnotatorNotes T104	 insuficiencia mitral
+#9	AnnotatorNotes T107	 IM: insuficiencia mitral
+#10	AnnotatorNotes T108	 IT: insuficiencia tricuspidea
+#11	AnnotatorNotes T109	 disfunción ventricular izquierda

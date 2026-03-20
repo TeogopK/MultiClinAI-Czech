@@ -1,0 +1,27 @@
+T16	PROCEDURE 180 243	perforated diverticulitis, treated with the Hart-mann technique
+T4	PROCEDURE 318 340	oral enteral nutrition
+T15	PROCEDURE 726 735	colostomy
+T11	PROCEDURE 896 915	abdominal palpation
+T6	PROCEDURE 1012 1048	administration of intravenous fluids
+T23	PROCEDURE 1525 1545	IV fluid replacement
+T24	PROCEDURE 1570 1580	analytical
+T27	PROCEDURE 1688 1734	transfusion of two red blood cell concentrates
+T2	PROCEDURE 1907 1927	parenteral nutrition
+T17	PROCEDURE 2147 2150	TPN
+T7	PROCEDURE 2809 2812	TPN
+T34	PROCEDURE 2853 2866	serum therapy
+T18	PROCEDURE 2871 2904	empirical vitamin supplementation
+T35	PROCEDURE 2906 2918	Head CT scan
+T8	PROCEDURE 3019 3022	EEG
+T9	PROCEDURE 3325 3328	ECG
+T37	PROCEDURE 3352 3370	Arterial blood gas
+T3	PROCEDURE 3718 3738	parenteral nutrition
+T14	PROCEDURE 4023 4039	central catheter
+T5	PROCEDURE 4084 4106	Oral enteral nutrition
+T12	PROCEDURE 4111 4129	modified oral diet
+T19	PROCEDURE 4164 4167	TPN
+T20	PROCEDURE 4172 4181	IV fluids
+T10	PROCEDURE 4362 4377	corticosteroids
+T13	PROCEDURE 4507 4538	Cortisol after ACTH stimulation
+T1	PROCEDURE 4635 4676	intestinal transit reconstruction surgery
+T47	PROCEDURE 4804 4814	analytical

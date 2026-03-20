@@ -1,0 +1,46 @@
+T2	SYMPTOM 495 547	disnea progresiva hasta hacerse de mínimos esfuerzos
+T3	SYMPTOM 564 572	ortopnea
+T4	SYMPTOM 575 583	tos seca
+T5	SYMPTOM 596 620	edematización periférica
+T6	SYMPTOM 625 632	síncope
+T7	SYMPTOM 634 648	dolor torácico
+T8	SYMPTOM 652 665	palpitaciones
+T9	SYMPTOM 796 803	Afebril
+T10	SYMPTOM 1073 1087	Leve taquipnea
+T11	SYMPTOM 1092 1116	intolerancia al decúbito
+T12	SYMPTOM 1118 1148	Presión venosa yugular elevada
+T13	SYMPTOM 1179 1208	Auscultación cardiaca rítmica
+T14	SYMPTOM 1213 1219	soplos
+T15	SYMPTOM 1223 1233	extratonos
+T16	SYMPTOM 1261 1298	hipofonesis en ambas bases pulmonares
+T17	SYMPTOM 1303 1363	crepitantes superiores hasta tercio medio de forma bilateral
+T18	SYMPTOM 1365 1407	Miembros inferiores con edemas pretibiales
+T19	SYMPTOM 1409 1450	Pulsos periféricos presentes y simétricos
+T20	SYMPTOM 1452 1467	Bien perfundido
+T21	SYMPTOM 1514 1527	ritmo sinusal
+T22	SYMPTOM 1577 1589	QRS estrecho
+T24	SYMPTOM 1616 1677	adecuada transición de la onda R en derivaciones precordiales
+T25	SYMPTOM 1679 1714	ondas T negativas en I, aVL, V5, V6
+T26	SYMPTOM 2601 2627	PCR de SARS-CoV-2 negativa
+T28	SYMPTOM 2693 2724	Índice cardiotorácico aumentado
+T30	SYMPTOM 2882 2930	Aumento de la densidad en ambas bases pulmonares
+T31	SYMPTOM 2965 2980	hipoventilación
+T33	SYMPTOM 3082 3111	espesores parietales normales
+T34	SYMPTOM 3181 3199	Hipoquinesia grave
+T37	SYMPTOM 4698 4723	hemodinámicamente estable
+T68	SYMPTOM 5143 5152	euvolemia
+T23	SYMPTOM 2777 2817	pinzamiento de ambos senos costofrénicos
+T27	SYMPTOM 2726 2775	Aumento de la trama vascular perihiliar bilateral
+T29	SYMPTOM 3113 3179	Aquinesia de cara inferior, septo inferior y cara lateral inferior
+T80	SYMPTOM 3369 3397	Aurícula derecha no dilatada
+T101	SYMPTOM 3399 3466	Ventrículo derecho no dilatado, con función sistólica global normal
+T102	SYMPTOM 3580 3631	Válvula aórtica morfológica y funcionalmente normal
+T103	SYMPTOM 3633 3675	Válvula tricúspide morfológicamente normal
+T104	SYMPTOM 3784 3808	Raíz aórtica no dilatada
+T105	SYMPTOM 3917 3956	Tronco coronario izquierdo sin lesiones
+T130	SYMPTOM 1831 1845	fórmula normal
+T143	SYMPTOM 810 831	semiología infecciosa
+T40	SYMPTOM 5677 5702	niveles elevados de HbA1c
+T106	SYMPTOM 4080 4138	Ramo diagonal precoz de moderado calibre pero sin lesiones
+T108	SYMPTOM 4397 4424	Coronaria derecha dominante
+T95	SYMPTOM 6760 6823	función sistólica del ventrículo izquierdo gravemente deprimida

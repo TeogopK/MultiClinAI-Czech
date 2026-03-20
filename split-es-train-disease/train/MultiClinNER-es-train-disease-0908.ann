@@ -1,0 +1,70 @@
+T41	DISEASE 89 112	alergias medicamentosas
+T42	DISEASE 166 187	hipertensión arterial
+T43	DISEASE 189 199	Dislipemia
+T44	DISEASE 201 210	Exfumador
+T45	DISEASE 242 271	Cardiopatía isquémica crónica
+T46	DISEASE 289 322	enfermedad coronaria de dos vasos
+T47	DISEASE 366 382	Angina inestable
+T48	DISEASE 466 493	Esclerosis valvular aórtica
+T49	DISEASE 699 720	fibrilación auricular
+T50	DISEASE 588 606	linfoma de Hodgkin
+T52	DISEASE 834 840	angina
+T53	DISEASE 842 882	Aneurisma de aorta abdominal infrarrenal
+T54	DISEASE 919 938	fracaso renal agudo
+T55	DISEASE 1029 1053	Enfermedad renal crónica
+T56	DISEASE 1100 1128	anulación funcional de riñón
+T57	DISEASE 1139 1169	Hiperparatiroidismo secundario
+T58	DISEASE 1171 1203	Cólicos nefríticos de repetición
+T59	DISEASE 3242 3263	fibrilación auricular
+T60	DISEASE 1463 1499	neutropenia febril de foco abdominal
+T61	DISEASE 2936 2957	taquicardia arrítmica
+T62	DISEASE 4330 4335	gripe
+T63	DISEASE 4603 4625	insuficiencia cardiaca
+T64	DISEASE 5424 5443	Derrame pericárdico
+T65	DISEASE 6050 6101	Coronaria derecha (CD): dominante, oclusión crónica
+T66	DISEASE 6902 6918	angina en reposo
+T67	DISEASE 6950 6986	insuficiencia cardiaca descompensada
+T68	DISEASE 6989 7017	fibrilación auricular rápida
+T69	DISEASE 7071 7104	recaída de patología hematológica
+T70	DISEASE 7126 7148	infección respiratoria
+T71	DISEASE 7151 7162	anemización
+T72	DISEASE 7227 7244	enfermedad de TCI
+T74	DISEASE 7516 7538	infección respiratoria
+T75	DISEASE 7902 7924	oclusión crónica de CD
+T76	DISEASE 8143 8161	linfoma de Hodgkin
+T77	DISEASE 8460 8514	anemia crónica multifactorial normocítica-normocrómica
+T78	DISEASE 8516 8539	enfermedad hematológica
+T79	DISEASE 8562 8586	enfermedad renal crónica
+T80	DISEASE 8933 8960	angina de mínimos esfuerzos
+T81	DISEASE 9297 9303	angina
+T82	DISEASE 9578 9584	angina
+T83	DISEASE 9645 9686	progresión pulmonar de linfoma de Hodgkin
+T84	DISEASE 9731 9778	Infarto agudo de miocardio sin elevación del ST
+T85	DISEASE 9877 9906	Cardiopatía isquémica crónica
+T86	DISEASE 9928 9957	Enfermedad arterial coronaria
+T87	DISEASE 10008 10045	oclusión crónica de coronaria derecha
+T88	DISEASE 10047 10080	Fibrilación auricular persistente
+T89	DISEASE 10150 10172	Infección respiratoria
+T90	DISEASE 10202 10243	Anemia crónica multifactorial reagudizada
+T91	DISEASE 10245 10298	Linfoma de Hodgkin estadio IV por afectación pulmonar
+T92	DISEASE 10300 10334	Enfermedad renal crónica estadio 3
+T93	DISEASE 10082 10134	Descompensación de insuficiencia cardiaca secundaria
+T94	DISEASE 5083 5122	Válvula aórtica ligeramente esclerosada
+T95	DISEASE 8702 8713	anemización
+T96	DISEASE 5227 5287	Válvula tricúspide morfológicamente normal con insuficiencia
+T97	DISEASE 1228 1315	Linfoma de Hodgkin tipo esclerosis nodular, probable estadio IV por afectación pulmonar
+T98	DISEASE 4928 4967	Aurícula izquierda ligeramente dilatada
+T99	DISEASE 5610 5665	Tronco coronario izquierdo (TCI) ateromatoso con lesión
+T100	DISEASE 7810 7841	enfermedad significativa de TCI
+T220	DISEASE 5723 5810	Descendente anterior (DA): de buen desarrollo y calibre, con ateromatosis ligera difusa
+T221	DISEASE 5993 6019	ateromatosis ligera difusa
+T239	DISEASE 5974 5982	lesiones
+T241	DISEASE 6176 6184	lesiones
+T255	DISEASE 1502 1520	sobrecarga hídrica
+T51	DISEASE 513 534	fibrilación auricular
+T185	DISEASE 952 966	isquemia renal
+T186	DISEASE 1078 1098	nefropatía isquémica
+T197	DISEASE 6025 6033	lesiones
+T198	DISEASE 5815 5823	lesiones
+T38	DISEASE 8231 8250	afectación pulmonar
+#1	AnnotatorNotes T100	TCI: tronco coronario izquierdo

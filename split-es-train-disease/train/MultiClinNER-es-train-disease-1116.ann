@@ -1,0 +1,33 @@
+T21	DISEASE 3509 3588	Válvula tricúspide engrosada conbuena apertura y movilidad; regurgitación grave
+T25	DISEASE 40 60	alérgica a metamizol
+T26	DISEASE 92 113	hipertensión arterial
+T27	DISEASE 115 161	diabetes mellitus tipo 2 (insulinodependiente)
+T28	DISEASE 163 195	fibrilación auricular permanente
+T29	DISEASE 252 281	valvulopatía mitral reumática
+T30	DISEASE 286 308	estenosismitral severa
+T31	DISEASE 507 539	estenosis valvular aórtica grave
+T32	DISEASE 824 845	gastroenteritis aguda
+T33	DISEASE 1077 1096	diverticulitisaguda
+T34	DISEASE 1367 1381	diverticulosis
+T35	DISEASE 1396 1411	infección aguda
+T36	DISEASE 1498 1521	endocarditis infecciosa
+T37	DISEASE 1523 1525	EI
+T38	DISEASE 2418 2431	cardiomegalia
+T39	DISEASE 3171 3192	abscesos perianulares
+T40	DISEASE 3590 3620	Hipertensión pulmonar moderada
+T41	DISEASE 3635 3654	derrame pericárdico
+T42	DISEASE 3697 3769	endocarditis infecciosa sobre válvula protésica por Bacteroides fragilis
+T43	DISEASE 4037 4061	descompensación cardiaca
+T44	DISEASE 4256 4337	Endocarditis sobre prótesis metálica mitral por anaerobios (Bacteroides fragilis)
+T45	DISEASE 4373 4409	Bacteriemia por Bacteroides fragilis
+T46	DISEASE 4446 4460	Diverticulosis
+T47	DISEASE 4465 4479	diverticulitis
+T48	DISEASE 198 211	asmabronquial
+T49	DISEASE 2664 2702	aurícula izquierda gravemente dilatada
+T50	DISEASE 3420 3448	Cavidades derechas dilatadas
+T82	DISEASE 1689 1705	nódulos de Osler
+T83	DISEASE 1709 1724	manchas de Roth
+T92	DISEASE 3313 3348	Válvula aórtica trivalva, engrosada
+T19	DISEASE 4342 4362	disfunción protésica
+T93	DISEASE 2762 2768	trombo
+#1	AnnotatorNotes T37	Endocarditis infecciosa

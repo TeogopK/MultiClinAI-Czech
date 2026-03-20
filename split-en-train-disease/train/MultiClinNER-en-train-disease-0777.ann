@@ -1,0 +1,26 @@
+T35	DISEASE 109 134	iatrogenic hypothyroidism
+T36	DISEASE 163 177	thyroid cancer
+T54	DISEASE 993 1002	ascitesis
+T37	DISEASE 1091 1106	deep thrombosis
+T38	DISEASE 1220 1232	mild anaemia
+T39	DISEASE 1973 1989	pleural effusion
+T40	DISEASE 2496 2513	atrial dilatation
+T41	DISEASE 2678 2701	tricuspid insufficiency
+T42	DISEASE 2768 2788	pericardial effusion
+T57	DISEASE 2844 2876	polymorphic ventricular triplets
+T55	DISEASE 2938 2957	torsades de pointes
+T43	DISEASE 3327 3364	polymorphic ventricular extrasystoles
+T4	DISEASE 3369 3426	non-sustained polymorphic ventricular tachycardias (PSVT)
+T5	DISEASE 3421 3425	PSVT
+T56	DISEASE 3677 3737	sustained ventricular tachycardia of the torsades de pointes
+T44	DISEASE 3874 3891	non-sustained DVT
+T46	DISEASE 3982 4003	arterial hypertension
+T6	DISEASE 4120 4130	arrhythmic
+T47	DISEASE 4232 4249	sinus bradycardia
+T48	DISEASE 4487 4514	congenital long QT syndrome
+T45	DISEASE 4519 4573	cardiorespiratory arrest resuscitated by sustained DVT
+T49	DISEASE 4978 5051	long QT syndrome type 1 with an autosomal dominant pattern of inheritance
+T50	DISEASE 5098 5121	Long QT syndrome type 1
+T53	DISEASE 5172 5179	syncope
+T52	DISEASE 5181 5216	Cardiac arrest resuscitated by PSVT
+T51	DISEASE 5241 5265	structural heart disease

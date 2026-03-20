@@ -1,0 +1,72 @@
+T1	SYMPTOM 156 190	alteraciones electrocardiográficas
+T2	SYMPTOM 192 234	elevación de marcadores de daño miocárdico
+T3	SYMPTOM 1512 1526	dolor torácico
+T4	SYMPTOM 1624 1704	hipoquinesia grave apical y de segmentos distales de cara lateral y septo distal
+T5	SYMPTOM 1985 2027	elevación de marcadores de daño miocárdico
+T6	SYMPTOM 2496 2506	Consciente
+T7	SYMPTOM 2508 2537	orientada en las tres esferas
+T8	SYMPTOM 2540 2552	colaboradora
+T9	SYMPTOM 2554 2568	Normocoloreada
+T10	SYMPTOM 2570 2584	normohidratada
+T11	SYMPTOM 2587 2602	normoperfundida
+T12	SYMPTOM 2604 2622	Eupneica en reposo
+T13	SYMPTOM 2700 2725	ruidos cardiacos rítmicos
+T14	SYMPTOM 2765 2771	soplos
+T15	SYMPTOM 2775 2785	extratonos
+T16	SYMPTOM 2810 2870	murmullo vesicular conservado y simétrico en ambos hemitórax
+T18	SYMPTOM 2907 2965	ruidos hidroaéreos presentes y de características normales
+T19	SYMPTOM 2990 3013	doloroso a la palpación
+T20	SYMPTOM 3019 3024	masas
+T21	SYMPTOM 3028 3042	organomegalias
+T22	SYMPTOM 3065 3101	pulsos pedios presentes y simétricos
+T23	SYMPTOM 3115 3121	edemas
+T24	SYMPTOM 3182 3226	ausencia de pulso distal en miembro superior
+T25	SYMPTOM 3277 3290	ritmo sinusal
+T26	SYMPTOM 3301 3310	PR normal
+T27	SYMPTOM 3312 3324	QRS estrecho
+T28	SYMPTOM 3326 3357	Ondas T negativas generalizadas
+T29	SYMPTOM 3546 3572	Defecto de repleción en VI
+T30	SYMPTOM 3748 3785	ventrículo izquierdo (VI) no dilatado
+T32	SYMPTOM 5355 5368	ritmo sinusal
+T33	SYMPTOM 5379 5411	Ventrículo izquierdo no dilatado
+T34	SYMPTOM 5521 5549	Función sistólica conservada
+T35	SYMPTOM 5582 5607	Función diastólica normal
+T36	SYMPTOM 5609 5668	Ventrículo derecho no dilatado con función sistólica normal
+T37	SYMPTOM 5670 5705	Aurícula izquierda de tamaño normal
+T38	SYMPTOM 5707 5740	Aurícula derecha de tamaño normal
+T39	SYMPTOM 5849 5892	Válvula tricúspide: morfológicamente normal
+T40	SYMPTOM 6824 6873	Glándulas suprarrenales sin hallazgos destacables
+T41	SYMPTOM 6923 6955	ventrículo izquierdo no dilatado
+T42	SYMPTOM 6973 6997	Función sistólica normal
+T43	SYMPTOM 6999 7058	Ventrículo derecho no dilatado con función sistólica normal
+T44	SYMPTOM 7114 7136	Aurículas no dilatadas
+T45	SYMPTOM 7138 7184	Válvulas morfológica y funcionalmente normales
+T46	SYMPTOM 7286 7291	edema
+T145	SYMPTOM 7067 7112	alteraciones de la contractilidad segmentaria
+T147	SYMPTOM 1544 1566	clínica cardiovascular
+T161	SYMPTOM 6294 6308	masas apicales
+T162	SYMPTOM 6556 6597	masas con aspecto de trombo en ápex de VI
+T17	SYMPTOM 3803 3883	hipoquinesia grave apical y de segmentos distales de cara lateral y septo distal
+T31	SYMPTOM 5472 5519	hipoquinesia del ápex y segmento apical lateral
+T61	SYMPTOM 5742 5794	Válvula aórtica: morfológica y funcionalmente normal
+T93	SYMPTOM 5796 5847	Válvula mitral: morfológica y funcionalmente normal
+T140	SYMPTOM 6003 6033	Vena cava inferior no dilatada
+T141	SYMPTOM 6072 6118	Raíz aórtica y cayado aórtico de tamaño normal
+T142	SYMPTOM 8608 8648	alteraciones de la contractilidad apical
+T166	SYMPTOM 5206 5252	Arterias coronarias sin lesiones angiográficas
+T177	SYMPTOM 6220 6275	Pericardio de grosor y refringencia normal, sin derrame
+T179	SYMPTOM 6135 6163	Septo interauricular íntegro
+T184	SYMPTOM 8855 8883	arterias coronarias normales
+T186	SYMPTOM 2628 2655	buena dinámica respiratoria
+T189	SYMPTOM 5161 5204	Coronariografía urgente: dominancia derecha
+T192	SYMPTOM 9484 9503	estabilidad clínica
+T201	SYMPTOM 8390 8418	hipoperfusión subendocárdica
+T215	SYMPTOM 2876 2896	ruidos sobreañadidos
+T219	SYMPTOM 2657 2675	tolerando decúbito
+T47	SYMPTOM 1287 1331	defecto de repleción en ventrículo izquierdo
+T144	SYMPTOM 2246 2285	estabilidad respiratoria y hemodinámica
+T148	SYMPTOM 3359 3389	Prolongación del intervalo QTc
+T149	SYMPTOM 3604 3623	Afectación pulmonar
+T150	SYMPTOM 3994 4045	Ventrículo derecho (VD) no dilatado normocontráctil
+T151	SYMPTOM 4047 4098	Válvulas morfológicamente y funcionalmente normales
+T152	SYMPTOM 7312 7367	perfusión miocárdica de primer paso no existen defectos

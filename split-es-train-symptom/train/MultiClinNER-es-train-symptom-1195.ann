@@ -1,0 +1,89 @@
+T1	SYMPTOM 643 657	dolor torácico
+T2	SYMPTOM 754 791	ventrículo izquierdo (VI) no dilatado
+T4	SYMPTOM 862 921	fracción de eyección del ventrículo izquierdo (FEVI) normal
+T6	SYMPTOM 1335 1341	disnea
+T7	SYMPTOM 1370 1411	Pruebas de función respiratorias normales
+T8	SYMPTOM 2084 2090	disnea
+T9	SYMPTOM 2135 2144	taquipnea
+T10	SYMPTOM 2158 2178	trabajo respiratorio
+T11	SYMPTOM 2235 2241	disnea
+T12	SYMPTOM 2329 2340	sibilancias
+T13	SYMPTOM 2409 2415	disnea
+T14	SYMPTOM 2418 2438	trabajo respiratorio
+T15	SYMPTOM 2453 2466	epigastralgia
+T16	SYMPTOM 2516 2519	tos
+T17	SYMPTOM 2522 2530	rinorrea
+T18	SYMPTOM 2558 2564	fiebre
+T19	SYMPTOM 2572 2586	dolor torácico
+T20	SYMPTOM 2615 2618	tos
+T21	SYMPTOM 2622 2635	palpitaciones
+T22	SYMPTOM 2643 2651	ortopnea
+T23	SYMPTOM 2654 2681	disnea paroxística nocturna
+T24	SYMPTOM 2760 2793	disminución del ritmo de diuresis
+T25	SYMPTOM 2797 2826	edemas en miembros inferiores
+T26	SYMPTOM 3068 3075	afebril
+T27	SYMPTOM 3287 3297	consciente
+T28	SYMPTOM 3299 3328	orientada en las tres esferas
+T30	SYMPTOM 3349 3371	regular estado general
+T31	SYMPTOM 3373 3384	Taquioneica
+T32	SYMPTOM 3389 3395	tiraje
+T34	SYMPTOM 3447 3453	soplos
+T35	SYMPTOM 3457 3467	extratonos
+T36	SYMPTOM 3485 3505	ruidos respiratorios
+T37	SYMPTOM 3530 3575	murmullo vesicular conservado (MVC) bilateral
+T38	SYMPTOM 3580 3611	crepitantes hasta campos medios
+T39	SYMPTOM 3614 3636	sibilancias disperasas
+T40	SYMPTOM 3647 3675	ruidos hidroaéreos presentes
+T41	SYMPTOM 3749 3770	irritación peritoneal
+T43	SYMPTOM 3781 3786	masas
+T44	SYMPTOM 3790 3805	visceromegalias
+T46	SYMPTOM 3845 3853	flogosis
+T47	SYMPTOM 4896 4909	onda Q en III
+T48	SYMPTOM 4970 5010	Aplanamiento difuso de la repolarización
+T49	SYMPTOM 5039 5052	ritmo sinusal
+T50	SYMPTOM 5063 5097	onda Q en III y aVF así como V1-V3
+T51	SYMPTOM 5176 5194	sobrecarga hídrica
+T52	SYMPTOM 5197 5216	patrón intersticial
+T53	SYMPTOM 5344 5346	RS
+T55	SYMPTOM 5608 5633	disfunción sistólica leve
+T56	SYMPTOM 7817 7852	Microbiología: antigenuria negativa
+T57	SYMPTOM 7865 7877	VRS positivo
+T58	SYMPTOM 7913 7926	ritmo sinusal
+T59	SYMPTOM 7985 8008	Q cara inferior y V1-V4
+T60	SYMPTOM 8029 8062	T negativas precordiales, I y aVL
+T63	SYMPTOM 8206 8253	infradesnivel del ST en cara anterior y lateral
+T64	SYMPTOM 8258 8287	ondas T negativas asimétricas
+T65	SYMPTOM 8296 8309	ritmo sinusal
+T66	SYMPTOM 8412 8449	infradesnivel del ST en cara anterior
+T67	SYMPTOM 8464 8493	ondas T negativas asimétricas
+T70	SYMPTOM 9720 9751	VD con función sistólica normal
+T71	SYMPTOM 10109 10128	VI de tamaño normal
+T73	SYMPTOM 10169 10188	Hipoquinesia global
+T74	SYMPTOM 10190 10245	Hipocinesia grave en segmento inferolateral basal-medio
+T75	SYMPTOM 10403 10451	VD de tamaño normal con función sistólica normal
+T77	SYMPTOM 11378 11418	elevación de pruebas de función hepática
+T78	SYMPTOM 11700 11722	síntomas respiratorios
+T79	SYMPTOM 11744 11814	serologías víricas, siendo positivas para virus respiratorio sincitial
+T81	SYMPTOM 12546 12579	elevación del ST en cara inferior
+T83	SYMPTOM 13182 13191	anhedonia
+T84	SYMPTOM 13193 13199	abulia
+T85	SYMPTOM 13992 14011	síntomas psicóticos
+T238	SYMPTOM 3807 3831	Extremidades: sin edemas
+T258	SYMPTOM 1052 1116	Ventrículo derecho (VD) no dilatado con función sistólica normal
+T271	SYMPTOM 12148 12161	ritmo sinusal
+T3	SYMPTOM 1224 1282	Presión sistólica arterial pulmonar (PSAP) estimada normal
+T29	SYMPTOM 8011 8027	R amputada V5-V6
+T45	SYMPTOM 9515 9547	VI no dilatado con grosor normal
+T54	SYMPTOM 9616 9676	aquinesia de segmento basal y medio lateral y basal inferior
+T61	SYMPTOM 9983 10004	Vena cava no dilatada
+T298	SYMPTOM 5560 5599	Patrón Doppler de relajación prolongada
+T299	SYMPTOM 8907 8946	Patrón Doppler de relajación prolongada
+T309	SYMPTOM 9337 9383	arterias coronarias sin lesiones angiográficas
+T310	SYMPTOM 13355 13367	asintomática
+T314	SYMPTOM 3331 3343	colaboradora
+T318	SYMPTOM 13370 13416	estable desde el punto de vista cardiovascular
+T337	SYMPTOM 11076 11092	pérdida de pulso
+T69	SYMPTOM 613 698	ergometría para valoración de dolor torácico siendo clínica y eléctricamente negativa
+T72	SYMPTOM 3638 3733	Abdomen: ruidos hidroaéreos presentes. Levemente distendido, difusamente molesto a la palpación
+T76	SYMPTOM 4912 4941	amputación de onda R hasta V5
+T241	SYMPTOM 12707 12740	normalidad de arterias coronarias

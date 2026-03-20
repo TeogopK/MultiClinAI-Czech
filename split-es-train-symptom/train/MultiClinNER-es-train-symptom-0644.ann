@@ -1,0 +1,10 @@
+T1	SYMPTOM 75 94	deterioro cognitivo
+T2	SYMPTOM 170 183	líquido libre
+T3	SYMPTOM 340 364	sangrado intraoperatorio
+T4	SYMPTOM 186 217	engrosamiento de pared colónica
+T5	SYMPTOM 649 677	drenaje tuvo aspecto lechoso
+T6	SYMPTOM 862 893	cultivo bacteriológico negativo
+T7	SYMPTOM 546 572	drenaje hemático abdominal
+A1	IMAGEN T2
+A2	IMAGEN T4
+A3	RESULTADO T6

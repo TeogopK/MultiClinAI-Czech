@@ -1,0 +1,28 @@
+T13	DISEASE 144 150	smoked
+T14	DISEASE 186 234	consumption of alcohol or other toxic substances
+T33	DISEASE 257 270	heart disease
+T35	DISEASE 274 286	sudden death
+T36	DISEASE 673 680	syncope
+T15	DISEASE 725 744	infectious symptoms
+T37	DISEASE 1100 1117	venous thrombosis
+T16	DISEASE 1900 1903	PET
+T38	DISEASE 2010 2025	thromboembolism
+T40	DISEASE 2207 2213	myxoma
+T46	DISEASE 2223 2231	thrombus
+T61	DISEASE 2254 2281	bilateral pleural effusions
+T48	DISEASE 2371 2384	heart failure
+T51	DISEASE 2604 2635	Moderate left atrial dilatation
+T52	DISEASE 2799 2823	moderate-severe stenosis
+T53	DISEASE 3423 3436	atrial myxoma
+T47	DISEASE 3470 3478	thrombus
+T34	DISEASE 3680 3693	heart disease
+T17	DISEASE 3737 3740	PET
+T56	DISEASE 3783 3808	pulmonary thromboembolism
+T49	DISEASE 3941 3954	heart failure
+T42	DISEASE 4207 4213	myxoma
+T57	DISEASE 4288 4303	mitral stenosis
+T54	DISEASE 5012 5025	atrial myxoma
+T44	DISEASE 5259 5265	myxoma
+T59	DISEASE 5331 5355	Congestive heart failure
+T55	DISEASE 5378 5391	atrial myxoma
+T60	DISEASE 5393 5432	Moderate-severe dynamic mitral stenosis

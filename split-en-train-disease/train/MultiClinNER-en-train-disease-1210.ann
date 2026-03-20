@@ -1,0 +1,60 @@
+T5	DISEASE 151 172	arterial hypertension
+T6	DISEASE 160 172	hypertension
+T37	DISEASE 174 181	Obesity
+T8	DISEASE 174 189	Obesity grade 2
+T11	DISEASE 224 241	diabetes mellitus
+T14	DISEASE 245 258	dyslipidaemia
+T15	DISEASE 263 275	toxic habits
+T16	DISEASE 313 334	trimalleolar fracture
+T17	DISEASE 550 554	COPD
+T18	DISEASE 640 671	Sleep apnoea-hypopnoea syndrome
+T19	DISEASE 673 677	SAHS
+T20	DISEASE 1271 1307	non-ischaemic dilated cardiomyopathy
+T22	DISEASE 1332 1367	severe left ventricular dysfunction
+T1	DISEASE 1527 1558	severely dilated left ventricle
+T24	DISEASE 1898 1910	sudden death
+T25	DISEASE 1967 1990	ventricular tachycardia
+T26	DISEASE 2092 2115	ventricular tachycardia
+T27	DISEASE 2218 2241	ventricular tachycardia
+T2	DISEASE 2424 2455	severely dilated left ventricle
+T58	DISEASE 2589 2608	Dilated left atrium
+T28	DISEASE 2619 2640	Diastolic dysfunction
+T59	DISEASE 2702 2771	Mitral valve with mild regurgitation due to dilatation of the annulus
+T29	DISEASE 2840 2860	aortic insufficiency
+T30	DISEASE 2867 2890	tricuspid insufficiency
+T60	DISEASE 2993 3016	Dilated right ventricle
+T32	DISEASE 3082 3102	pericardial effusion
+T34	DISEASE 3642 3664	advanced heart failure
+T49	DISEASE 3651 3664	heart failure
+T36	DISEASE 3751 3814	dilated cardiomyopathy with severe left ventricular dysfunction
+T23	DISEASE 3779 3814	severe left ventricular dysfunction
+T38	DISEASE 4411 4418	obesity
+T9	DISEASE 4411 4426	obesity grade 2
+T42	DISEASE 4708 4728	deep vein thrombosis
+T43	DISEASE 4730 4733	DVT
+T44	DISEASE 4797 4814	sinus bradycardia
+T39	DISEASE 5122 5129	obesity
+T3	DISEASE 5135 5169	left ventricle is severely dilated
+T45	DISEASE 5765 5792	Mild left atrial dilatation
+T4	DISEASE 5844 5882	Mitral valve with degenerative changes
+T46	DISEASE 5884 5921	Mild to moderate mitral regurgitation
+T31	DISEASE 6234 6257	tricuspid insufficiency
+T47	DISEASE 6292 6314	pulmonary hypertension
+T7	DISEASE 6302 6314	hypertension
+T33	DISEASE 6545 6565	pericardial effusion
+T48	DISEASE 7835 7854	prostatic neoplasia
+T12	DISEASE 8008 8025	diabetes mellitus
+T50	DISEASE 8333 8346	heart failure
+T53	DISEASE 9164 9174	overweight
+T40	DISEASE 9683 9690	obesity
+T54	DISEASE 9810 9820	overweight
+T55	DISEASE 9990 10003	heart disease
+T35	DISEASE 10188 10210	advanced heart failure
+T51	DISEASE 10197 10210	heart failure
+T52	DISEASE 10334 10347	Heart failure
+T56	DISEASE 10334 10404	Heart failure with severely reduced left ventricular ejection fraction
+T21	DISEASE 10406 10442	Non-ischaemic dilated cardiomyopathy
+T41	DISEASE 10462 10469	Obesity
+T10	DISEASE 10462 10477	Obesity grade 2
+T57	DISEASE 10479 10503	Type 2 diabetes mellitus
+T13	DISEASE 10486 10503	diabetes mellitus

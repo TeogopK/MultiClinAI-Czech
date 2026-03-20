@@ -1,0 +1,55 @@
+T1	SYMPTOM 952 1027	disnea progresiva de un mes de evolución hasta hacerse de mínimos esfuerzos
+T2	SYMPTOM 1066 1073	astenia
+T3	SYMPTOM 1076 1087	decaimiento
+T4	SYMPTOM 1120 1134	dolor torácico
+T5	SYMPTOM 1139 1142	tos
+T6	SYMPTOM 1147 1160	expectoración
+T7	SYMPTOM 1165 1171	fiebre
+T8	SYMPTOM 1176 1196	sensación distérmica
+T9	SYMPTOM 1218 1240	Regular estado general
+T10	SYMPTOM 1242 1256	normohidratada
+T11	SYMPTOM 1258 1272	normocoloreada
+T12	SYMPTOM 1274 1292	Eupneica en reposo
+T13	SYMPTOM 1327 1337	Consciente
+T14	SYMPTOM 1339 1348	orientada
+T17	SYMPTOM 1532 1571	Auscultación cardiaca: ruidos regulares
+T18	SYMPTOM 1573 1585	taquicárdica
+T19	SYMPTOM 1591 1597	soplos
+T20	SYMPTOM 1631 1659	hipoventilación generalizada
+T21	SYMPTOM 1665 1675	estertores
+T22	SYMPTOM 1681 1717	edematización en miembros inferiores
+T23	SYMPTOM 1895 1908	ritmo sinusal
+T24	SYMPTOM 1919 1928	PR normal
+T25	SYMPTOM 1930 1942	QRS estrecho
+T26	SYMPTOM 1957 1977	infradesnivel del ST
+T28	SYMPTOM 2196 2228	condensación de espacio alveolar
+T29	SYMPTOM 2230 2279	Silueta mediastínica e hilios pulmonares normales
+T30	SYMPTOM 2667 2690	Ventriculografía normal
+T31	SYMPTOM 2818 2855	ventrículo izquierdo de tamaño normal
+T32	SYMPTOM 2959 2987	función sistólica conservada
+T33	SYMPTOM 3147 3177	Ventrículo derecho no dilatado
+T36	SYMPTOM 3610 3672	función sistólica segmentaria y global dentro de la normalidad
+T37	SYMPTOM 3879 3908	función sistólica conservados
+T38	SYMPTOM 4407 4435	función sistólica conservada
+T39	SYMPTOM 4946 4977	Estudios de parásitos: negativo
+T40	SYMPTOM 5001 5039	positiva para IgG de Toxoplasma gondii
+T41	SYMPTOM 5409 5437	alteraciones del segmento ST
+T42	SYMPTOM 5734 5759	elevación del segmento ST
+T43	SYMPTOM 6170 6178	asténica
+T44	SYMPTOM 6233 6244	eosinofilia
+T46	SYMPTOM 6866 6888	eosinofilia periférica
+T47	SYMPTOM 6899 6939	descenso de la troponina T ultrasensible
+T48	SYMPTOM 7351 7373	biopsia de MO negativa
+T140	SYMPTOM 2907 2952	alteraciones de la contractilidad segmentaria
+T142	SYMPTOM 7327 7349	autoinmunidad negativa
+T15	SYMPTOM 3182 3223	función sistólica dentro de la normalidad
+T27	SYMPTOM 3921 3973	Aurículas y grandes vasos de dimensiones conservadas
+T34	SYMPTOM 4536 4570	anisopoiquilocitosis eritrocitaria
+T35	SYMPTOM 7375 7394	parásitos negativos
+T162	SYMPTOM 1351 1363	colaboradora
+T165	SYMPTOM 2156 2180	condensaciones nodulares
+T166	SYMPTOM 2634 2665	coronarias epicárdicas normales
+T167	SYMPTOM 7528 7535	estable
+T168	SYMPTOM 1369 1390	focalidad neurológica
+T81	SYMPTOM 2091 2115	pulmones hiperventilados
+T133	SYMPTOM 5210 5262	médula ósea con abundante grumo vacío de celularidad

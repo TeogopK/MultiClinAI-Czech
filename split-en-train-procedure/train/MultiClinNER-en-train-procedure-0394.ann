@@ -1,0 +1,37 @@
+T11	PROCEDURE 425 439	urine cultures
+T8	PROCEDURE 452 462	ultrasound
+T12	PROCEDURE 467 488	intravenous urography
+T16	PROCEDURE 667 685	Rectal examination
+T1	PROCEDURE 825 848	transurethral resection
+T2	PROCEDURE 879 904	Intraoperative cystoscopy
+T20	PROCEDURE 1050 1069	anatomopathological
+T14	PROCEDURE 1444 1460	anatomopathology
+T26	PROCEDURE 1465 1482	extension studies
+T3	PROCEDURE 1513 1523	cystectomy
+T29	PROCEDURE 1539 1548	resection
+T13	PROCEDURE 1821 1889	Urinary bypass was performed urgently, percutaneous nephrostomy type
+T27	PROCEDURE 1860 1884	percutaneous nephrostomy
+T15	PROCEDURE 2001 2011	Cystoscopy
+T51	PROCEDURE 2114 2132	Bimanual palpation
+T19	PROCEDURE 2232 2247	extension study
+T18	PROCEDURE 2269 2287	simple chest X-ray
+T6	PROCEDURE 2289 2307	abdomino-pelvic CT
+T55	PROCEDURE 2317 2326	bone scan
+T56	PROCEDURE 2529 2596	radical cystoprostatectomy with an Indiana-type continent reservoir
+T57	PROCEDURE 2654 2676	free the bladder floor
+T21	PROCEDURE 2720 2739	anatomopathological
+T30	PROCEDURE 2820 2848	immunohistochemical staining
+T22	PROCEDURE 3462 3489	adjuvant chemo-radiotherapy
+T25	PROCEDURE 3491 3495	CDDP
+T63	PROCEDURE 3491 3508	CDDP chemotherapy
+T23	PROCEDURE 3514 3552	concomitant radiotherapy on the pelvis
+T65	PROCEDURE 3805 3832	administration of the CT/RT
+T7	PROCEDURE 3966 3984	abdomino-pelvic CT
+T5	PROCEDURE 4298 4318	Physical examination
+T9	PROCEDURE 4387 4397	ultrasound
+T10	PROCEDURE 4459 4470	gastroscopy
+T24	PROCEDURE 4662 4674	radiotherapy
+T72	PROCEDURE 4703 4710	surgery
+T17	PROCEDURE 4970 4987	gastrojejunostomy
+T31	PROCEDURE 5065 5080	palliative care
+T4	PROCEDURE 5136 5146	cystectomy

@@ -1,0 +1,45 @@
+T59	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T60	PROCEDURE 123 153	anticoagulada con acenocumarol
+T61	PROCEDURE 186 201	ecocardiogramas
+T62	PROCEDURE 386 396	ergometría
+T63	PROCEDURE 425 438	examen físico
+T64	PROCEDURE 461 477	coronoraiografía
+T65	PROCEDURE 495 505	ergometría
+T66	PROCEDURE 532 535	ECG
+T67	PROCEDURE 604 623	Analítica de sangre
+T68	PROCEDURE 652 661	hemograma
+T69	PROCEDURE 715 735	Radiografía de tórax
+T70	PROCEDURE 840 868	Ecocardiograma transtorácico
+T71	PROCEDURE 870 873	ETT
+T72	PROCEDURE 1133 1140	Doppler
+T73	PROCEDURE 1224 1234	Ergometría
+T74	PROCEDURE 1608 1623	Coronariografía
+T75	PROCEDURE 2080 2095	coronariografía
+T76	PROCEDURE 2202 2214	angioplastia
+T77	PROCEDURE 2491 2532	soporte con catéter balón coaxial de 1,5F
+T78	PROCEDURE 2853 2856	ECG
+T79	PROCEDURE 3006 3064	administración de corticoide intravenoso y antihistamínico
+T80	PROCEDURE 3139 3167	ecocardiograma transtorácico
+T81	PROCEDURE 3583 3603	doble antiagregación
+T82	PROCEDURE 3607 3622	anticoagulación
+T83	PROCEDURE 3876 3879	ECG
+T84	PROCEDURE 4082 4085	ETT
+T85	PROCEDURE 4327 4339	sueroterapia
+T86	PROCEDURE 4397 4415	pericardiocentesis
+T87	PROCEDURE 4502 4509	drenaje
+T88	PROCEDURE 4540 4566	tratamiento antitrombótico
+T89	PROCEDURE 4623 4642	drenaje pericárdico
+T90	PROCEDURE 4698 4712	ecocardiograma
+T91	PROCEDURE 4752 4776	recolocación del drenaje
+T92	PROCEDURE 4795 4817	intubación orotraqueal
+T94	PROCEDURE 4887 4917	drenaje pericárdico quirúrgico
+T95	PROCEDURE 4978 5007	ecocardiograma transesofágico
+T96	PROCEDURE 5165 5184	drenaje pericárdico
+T97	PROCEDURE 5237 5255	esternotomía media
+T98	PROCEDURE 5572 5575	ETT
+T99	PROCEDURE 5854 5877	asistencia circulatoria
+T100	PROCEDURE 6053 6086	angioplastia del surco AV derecho
+T106	PROCEDURE 672 701	Marcadores de daño miocárdico
+T107	PROCEDURE 639 649	bioquímica
+T111	PROCEDURE 3915 3943	perfusión de NTG intravenosa
+T115	PROCEDURE 5880 5918	se decide limitar esfuerzo terapéutico

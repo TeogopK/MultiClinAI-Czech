@@ -1,0 +1,29 @@
+T52	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 342 371	test de detección de isquemia
+T54	PROCEDURE 1521 1539	Exploración física
+T55	PROCEDURE 1722 1734	auscultación
+T56	PROCEDURE 1886 1904	Electrocardiograma
+T57	PROCEDURE 2086 2091	iones
+T58	PROCEDURE 2102 2111	Hemograma
+T59	PROCEDURE 2207 2227	Radiografía de tórax
+T60	PROCEDURE 2331 2360	Ecocardiografía transtorácica
+T61	PROCEDURE 2967 2987	Cateterismo cardiaco
+T62	PROCEDURE 3223 3234	aortografía
+T63	PROCEDURE 3303 3322	Angio-TAC coronario
+T64	PROCEDURE 3803 3845	Ecografía Doppler de troncos supraaórticos
+T65	PROCEDURE 4158 4198	test de detección de isquemia intermedia
+T66	PROCEDURE 4256 4274	prueba de esfuerzo
+T67	PROCEDURE 4428 4431	ECG
+T68	PROCEDURE 4514 4537	coronariografía directa
+T69	PROCEDURE 4555 4565	ergometría
+T70	PROCEDURE 4581 4592	cateterismo
+T71	PROCEDURE 4838 4857	angio-TAC coronario
+T73	PROCEDURE 5495 5578	disección y reanostomosis de la arteria coronaria derecha al seno coronario derecho
+T74	PROCEDURE 6160 6227	reanastomosis de arteria coronaria derecha a seno coronario aórtico
+T15	PROCEDURE 2045 2055	bioquímica
+T96	PROCEDURE 2034 2043	Analítica
+T105	PROCEDURE 383 409	Intervenciones quirúrgicas
+T106	PROCEDURE 6132 6155	Intervención quirúrgica
+T120	PROCEDURE 5443 5455	intervención
+T39	PROCEDURE 419 435	apendicetomizado
+T98	PROCEDURE 2149 2181	Seriación de fermentos cardiacos

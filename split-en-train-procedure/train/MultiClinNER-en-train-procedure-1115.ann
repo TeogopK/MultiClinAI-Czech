@@ -1,0 +1,43 @@
+T1	PROCEDURE 181 227	implantation of a mechanical aortic prosthesis
+T3	PROCEDURE 589 614	activated the Stroke Code
+T51	PROCEDURE 811 831	Physical examination
+T74	PROCEDURE 1234 1247	nasal goggles
+T68	PROCEDURE 1290 1292	AC
+T69	PROCEDURE 1344 1346	AP
+T52	PROCEDURE 1456 1459	ECG
+T54	PROCEDURE 1510 1521	Chest X-ray
+T5	PROCEDURE 1555 1571	Laboratory tests
+T73	PROCEDURE 1573 1585	biochemistry
+T6	PROCEDURE 1732 1741	Haemogram
+T70	PROCEDURE 1832 1843	Coagulation
+T55	PROCEDURE 1864 1874	Cranial CT
+T9	PROCEDURE 2336 2357	Cerebral perfusion CT
+T11	PROCEDURE 2769 2819	Angio-CT of supra-aortic trunks and Willis polygon
+T56	PROCEDURE 3321 3341	Cerebral angiography
+T12	PROCEDURE 3343 3426	under sedation, cerebral arteriography was performed via the right femoral approach
+T60	PROCEDURE 3617 3665	mechanical thrombectomy with an extractor device
+T58	PROCEDURE 3867 3881	Blood cultures
+T13	PROCEDURE 3919 3922	TTE
+T14	PROCEDURE 3927 3930	TEE
+T57	PROCEDURE 4660 4680	cerebral angiography
+T61	PROCEDURE 4786 4809	mechanical thrombectomy
+T62	PROCEDURE 4935 4975	neurological and haemodynamic monitoring
+T18	PROCEDURE 5052 5080	transthoracic echocardiogram
+T59	PROCEDURE 5165 5179	blood cultures
+T63	PROCEDURE 5183 5204	transesophageal study
+T19	PROCEDURE 5280 5296	echocardiographi
+T75	PROCEDURE 5507 5546	motor and phoniatric recovery exercises
+T71	PROCEDURE 5686 5695	telemetry
+T20	PROCEDURE 5783 5849	implantation of a provisional pacemaker via the right jugular vein
+T21	PROCEDURE 5950 5980	temporary pacemaker on command
+T22	PROCEDURE 6023 6030	surgery
+T23	PROCEDURE 6099 6138	metallic valve prosthesis was extracted
+T24	PROCEDURE 6144 6160	abscess cleaning
+T65	PROCEDURE 6167 6258	biological prosthesis was implanted in the aortic position, as well as a supracoronary tube
+T53	PROCEDURE 6424 6427	ECG
+T64	PROCEDURE 6487 6503	echocardiography
+T77	PROCEDURE 6536 6560	definitive DDD pacemaker
+T67	PROCEDURE 6855 6867	Thrombectomy
+T78	PROCEDURE 6929 6973	definitive DDDR pacemaker implantation (MCP)
+T79	PROCEDURE 6975 7048	Aortic valve replacement with Perimount biological aortic prosthesis no23
+T72	PROCEDURE 7080 7111	Supracoronary tube implantation

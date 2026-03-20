@@ -1,0 +1,24 @@
+T1	SYMPTOM 62 72	chest pain
+T6	SYMPTOM 106 150	Q waves together with E-ST in inferior leads
+T4	SYMPTOM 155 185	D-ST in leads I, aVL and V4-V5
+T12	SYMPTOM 222 228	J-wave
+T5	SYMPTOM 243 269	convex and descending D-ST
+T13	SYMPTOM 282 297	negative T-wave
+T2	SYMPTOM 454 469	precordial pain
+T15	SYMPTOM 480 512	no inferior ST-segment elevation
+T16	SYMPTOM 516 538	negative T-wave in aVL
+T17	SYMPTOM 545 562	J-point elevation
+T18	SYMPTOM 577 598	descending ST-segment
+T19	SYMPTOM 603 633	negative T-wave in leads V1-V2
+T14	SYMPTOM 649 683	electrocardiographic pattern of SB
+T3	SYMPTOM 719 735	prominent J-wave
+T7	SYMPTOM 741 774	convex and saddleback-shaped E-ST
+T32	SYMPTOM 826 843	J-point elevation
+T23	SYMPTOM 871 875	E-ST
+T8	SYMPTOM 880 910	positive T-wave in leads V3-V4
+T20	SYMPTOM 960 978	nferior qR pattern
+T10	SYMPTOM 992 1028	negative T wave in leads III and aVF
+T21	SYMPTOM 1032 1062	apparent J wave in leads V1-V2
+T9	SYMPTOM 1066 1078	concave E-ST
+T11	SYMPTOM 1084 1114	positive T wave in leads V2-V3
+T22	SYMPTOM 1123 1147	S wave in the left leads

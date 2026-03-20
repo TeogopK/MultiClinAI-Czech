@@ -1,0 +1,52 @@
+T126	PROCEDURE 617 661	tomografía axial computarizada (TAC) craneal
+T127	PROCEDURE 730 744	punción lumbar
+T128	PROCEDURE 806 818	PCR de virus
+T129	PROCEDURE 974 983	anamnesis
+T130	PROCEDURE 1459 1477	Exploración física
+T131	PROCEDURE 1507 1529	valoración neurológica
+T132	PROCEDURE 1945 1968	exploración neurológica
+T133	PROCEDURE 2129 2154	oxígeno con gafas nasales
+T134	PROCEDURE 2168 2189	Auscultación cardiaca
+T135	PROCEDURE 2255 2276	Auscultación pulmonar
+T136	PROCEDURE 2501 2517	tóxicos en orina
+T137	PROCEDURE 2519 2556	serología de enterovirus, VRS y gripe
+T138	PROCEDURE 2691 2709	Electrocardiograma
+T139	PROCEDURE 2840 2860	Radiografía de tórax
+T140	PROCEDURE 3004 3023	Analítica de sangre
+T141	PROCEDURE 3430 3446	Tóxicos en orina
+T142	PROCEDURE 3458 3472	Punción lumbar
+T143	PROCEDURE 3559 3563	Gram
+T144	PROCEDURE 3599 3619	Cultivo de bacterias
+T145	PROCEDURE 3630 3643	Microbiología
+T146	PROCEDURE 3645 3664	frotis nasofaríngeo
+T147	PROCEDURE 3730 3743	Frotis rectal
+T148	PROCEDURE 3766 3778	TAC cerebral
+T149	PROCEDURE 4014 4042	Ecocardiograma a pie de cama
+T150	PROCEDURE 4713 4747	Resonancia magnética (RM) cerebral
+T151	PROCEDURE 5740 5751	RM cardiaca
+T152	PROCEDURE 6277 6291	Ecocardiograma
+T153	PROCEDURE 7151 7182	Cateterismo izquierdo y derecho
+T154	PROCEDURE 7282 7304	Biopsia endomiocárdica
+T155	PROCEDURE 7306 7309	BEM
+T156	PROCEDURE 7556 7565	PCR viral
+T157	PROCEDURE 7576 7590	Ecocardiograma
+T158	PROCEDURE 8161 8163	RM
+T159	PROCEDURE 8251 8254	EEG
+T160	PROCEDURE 8372 8388	prueba cognitiva
+T161	PROCEDURE 8691 8717	estudios neuropsicológicos
+T162	PROCEDURE 9254 9273	resonancia cardiaca
+T163	PROCEDURE 9507 9522	coronariografía
+T164	PROCEDURE 9538 9557	cateterismo derecho
+T165	PROCEDURE 9608 9636	biopsia endomiocárdica de VD
+T166	PROCEDURE 9641 9648	biopsia
+T167	PROCEDURE 9803 9817	Ecocardiograma
+T168	PROCEDURE 9917 9942	tratamiento neurohormonal
+T169	PROCEDURE 10019 10034	ecocardiografía
+T170	PROCEDURE 10188 10191	ECG
+T176	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T177	PROCEDURE 750 760	bioquímica
+T178	PROCEDURE 3474 3484	bioquímica
+T179	PROCEDURE 649 652	TAC
+T180	PROCEDURE 4735 4737	RM
+T181	PROCEDURE 9407 9434	administración de gadolinio
+#6	AnnotatorNotes T155	 Biopsia endomiocárdica

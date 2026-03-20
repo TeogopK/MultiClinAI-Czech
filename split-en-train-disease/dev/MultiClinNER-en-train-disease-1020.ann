@@ -1,0 +1,29 @@
+T58	DISEASE 79 91	toxic habits
+T59	DISEASE 154 170	aortic sclerosis
+T60	DISEASE 172 198	hypertensive heart disease
+T61	DISEASE 210 249	paroxysmal supraventricular tachycardia
+T62	DISEASE 254 269	renal lithiasis
+T63	DISEASE 1642 1662	venous insufficiency
+T64	DISEASE 1666 1686	deep vein thrombosis
+T3	DISEASE 2504 2585	Anterior descending artery of good calibre, with very distal thrombotic occlusion
+T70	DISEASE 3155 3223	Aortic valve of trivalve morphology, with restriction of its opening
+T72	DISEASE 3240 3257	moderate stenosis
+T65	DISEASE 3313 3333	aortic insufficiency
+T5	DISEASE 3335 3338	AIo
+T6	DISEASE 3389 3469	Morphologically normal tricuspid valve, with good opening and mild insufficiency
+T66	DISEASE 3592 3614	pulmonary hypertension
+T7	DISEASE 3616 3619	PHT
+T9	DISEASE 4268 4322	thrombotic occlusion of the anterior descending artery
+T69	DISEASE 4587 4595	thrombus
+T71	DISEASE 5219 5287	Aortic valve of trivalve morphology, with restriction of its opening
+T73	DISEASE 5304 5321	moderate stenosis
+T13	DISEASE 5377 5380	AoI
+T14	DISEASE 5430 5510	Morphologically normal tricuspid valve, with good opening and mild insufficiency
+T15	DISEASE 5596 5599	PHT
+T68	DISEASE 5857 5868	hypotension
+T16	DISEASE 5919 5948	angina at rest/light exertion
+T67	DISEASE 6629 6656	acute myocardial infarction
+T17	DISEASE 6658 6661	AMI
+T19	DISEASE 7014 7062	Acute ST-segment elevation myocardial infarction
+T20	DISEASE 7064 7069	STEMI
+T21	DISEASE 7088 7159	Thrombotic occlusion of the very distal anterior descending artery (AD)

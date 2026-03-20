@@ -1,0 +1,36 @@
+T1	SYMPTOM 485 523	sinus rhythm without arrhythmic events
+T2	SYMPTOM 688 738	progressive dyspnoea until becoming minimal effort
+T3	SYMPTOM 855 863	dyspnoea
+T5	SYMPTOM 890 900	orthopnoea
+T6	SYMPTOM 1045 1056	hypotension
+T7	SYMPTOM 1199 1207	asthenia
+T4	SYMPTOM 1228 1236	dyspnoea
+T8	SYMPTOM 1285 1293	Cyanosis
+T9	SYMPTOM 1295 1306	Acropaquias
+T16	SYMPTOM 1389 1419	Jugular venous pressure normal
+T10	SYMPTOM 1421 1451	Cardiac auscultation: rhythmic
+T11	SYMPTOM 1453 1487	systolic murmur in tricuspid focus
+T12	SYMPTOM 1534 1560	preserved vesicular murmur
+T31	SYMPTOM 1569 1580	added noise
+T32	SYMPTOM 1582 1633	Abdomen soft, depressible, not painful on palpation
+T13	SYMPTOM 1651 1663	hepatomegaly
+T26	SYMPTOM 1673 1679	masses
+T14	SYMPTOM 1681 1713	Lower extremities without oedema
+T15	SYMPTOM 1752 1781	symmetrical peripheral pulses
+T17	SYMPTOM 1829 1841	sinus rhythm
+T18	SYMPTOM 1977 1989	cardiomegaly
+T19	SYMPTOM 2008 2031	vascular redistribution
+T27	SYMPTOM 2033 2058	Free costophrenic sinuses
+T33	SYMPTOM 2063 2075	condensation
+T34	SYMPTOM 2591 2652	severely dilated right ventricle with depressed contractility
+T20	SYMPTOM 2654 2705	Normal sized left ventricle with preserved function
+T21	SYMPTOM 2792 2840	Thin leaflet pulmonary valve with normal opening
+T22	SYMPTOM 3134 3165	Normal mitral and aortic valves
+T35	SYMPTOM 3177 3277	injection of agitated saline, there was abundant spontaneous passage of bubbles to the left cavities
+T25	SYMPTOM 3290 3297	syncope
+T23	SYMPTOM 3361 3369	headache
+T36	SYMPTOM 3953 3967	residual shunt
+T29	SYMPTOM 4192 4212	haemodynamic changes
+T30	SYMPTOM 4884 4890	stable
+T28	SYMPTOM 4895 4907	asymptomatic
+T24	SYMPTOM 5408 5422	Preserved LVEF

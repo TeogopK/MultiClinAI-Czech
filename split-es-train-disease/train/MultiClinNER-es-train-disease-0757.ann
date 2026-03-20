@@ -1,0 +1,43 @@
+T34	DISEASE 4499 4521	dilatación biauricular
+T40	DISEASE 305 311	angina
+T41	DISEASE 316 323	síncope
+T42	DISEASE 336 347	infecciones
+T43	DISEASE 646 649	TVP
+T44	DISEASE 782 785	TVP
+T45	DISEASE 2709 2724	derrame pleural
+T46	DISEASE 2858 2876	IT moderada-severa
+T47	DISEASE 2887 2900	valvulopatías
+T48	DISEASE 2905 2912	derrame
+T49	DISEASE 3254 3301	Insuficiencia mitral al menos de grado moderado
+T50	DISEASE 3409 3477	Insuficiencia tricúspide moderada a severa por dilatación del anillo
+T51	DISEASE 3591 3610	derrame pericárdico
+T52	DISEASE 3923 3979	IC en el contexto de FA con respuesta ventricular rápida
+T53	DISEASE 4399 4401	IC
+T54	DISEASE 4403 4438	Fibrilación auricular con RV rápida
+T55	DISEASE 538 547	Arrítmica
+T56	DISEASE 694 703	Arrítmica
+T57	DISEASE 2914 2936	Dilatación biauricular
+T58	DISEASE 2785 2787	FA
+T59	DISEASE 3036 3038	FA
+T60	DISEASE 3646 3648	FA
+T61	DISEASE 3747 3749	FA
+T62	DISEASE 4136 4154	IT moderada-severa
+T63	DISEASE 4454 4474	IT moderada a severa
+T64	DISEASE 3343 3407	Ventrículo derecho ligeramente dilatado, con disfunción moderada
+T66	DISEASE 4342 4353	hipotensión
+T67	DISEASE 3303 3341	Dilatación moderada de ambas aurículas
+T68	DISEASE 4164 4184	1M al menos moderada
+T69	DISEASE 4476 4496	1M al menos moderada
+T14	DISEASE 2938 2956	Vena cava dilatada
+T18	DISEASE 4104 4123	aurículas dilatadas
+T146	DISEASE 418 433	descompensación
+T24	DISEASE 2807 2845	VI no dilatado leve-mod disfuncionante
+T26	DISEASE 3054 3106	Ventrículo izquierdo no dilatado, hipertrofia ligera
+#1	AnnotatorNotes T58	 Fibrilación Auricular
+#2	AnnotatorNotes T59	 Fibrilación Auricular
+#3	AnnotatorNotes T60	 Fibrilación Auricular
+#4	AnnotatorNotes T61	 Fibrilación Auricular
+#5	AnnotatorNotes T62	 IT insuficiencia tricuspídea
+#6	AnnotatorNotes T63	IT insuficiencia tricuspídea
+#8	AnnotatorNotes T68	 1M, error debería poner IM = insuficiencia mitral
+#9	AnnotatorNotes T69	 1M = IM = insuficiencia mitral

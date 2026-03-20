@@ -1,0 +1,24 @@
+T8	PROCEDURE 37 41	TURP
+T9	PROCEDURE 302 322	Physical examination
+T18	PROCEDURE 444 476	A cystostomy catheter was placed
+T3	PROCEDURE 446 456	cystostomy
+T6	PROCEDURE 505 529	urethral catheterisation
+T25	PROCEDURE 540 551	blood tests
+T15	PROCEDURE 595 609	urine sediment
+T27	PROCEDURE 678 688	antibiotic
+T28	PROCEDURE 740 750	analytical
+T7	PROCEDURE 767 787	abdominal ultrasound
+T30	PROCEDURE 872 906	cystography by cystostomy catheter
+T16	PROCEDURE 1025 1038	urine culture
+T32	PROCEDURE 1196 1219	anti-inflammatory drugs
+T17	PROCEDURE 1237 1257	anatomo-pathological
+T19	PROCEDURE 1274 1281	surgery
+T13	PROCEDURE 1578 1593	extension study
+T1	PROCEDURE 1609 1619	Pelvic MRI
+T2	PROCEDURE 1731 1752	Thoracic-abdominal CT
+T11	PROCEDURE 2015 2021	Biopsy
+T5	PROCEDURE 2122 2181	palliative polychemotherapy with cisplatin + 5-fluorouracil
+T14	PROCEDURE 2398 2410	chemotherapy
+T10	PROCEDURE 2534 2557	palliative radiotherapy
+T43	PROCEDURE 2680 2688	morphine
+T12	PROCEDURE 2708 2723	palliative care

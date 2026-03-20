@@ -1,0 +1,38 @@
+T1	DISEASE 86 109	Allergy to streptomycin
+T21	DISEASE 132 155	ischaemic heart disease
+T45	DISEASE 157 169	Toxic habits
+T40	DISEASE 171 177	smoker
+T44	DISEASE 240 259	Alcohol consumption
+T22	DISEASE 301 313	cannabis use
+T3	DISEASE 375 387	hypertension
+T2	DISEASE 389 391	HT
+T23	DISEASE 410 429	Mixed dyslipidaemia
+T5	DISEASE 499 555	acute myocardial infarction without ST-segment elevation
+T4	DISEASE 557 562	STEMI
+T6	DISEASE 629 725	severe three-vessel coronary artery disease (CAD) with acute obstruction of the cuneiform artery
+T7	DISEASE 674 677	CAD
+T8	DISEASE 839 895	right coronary artery (RCA) and anterior descending (AD)
+T26	DISEASE 1384 1398	valvulopathies
+T27	DISEASE 1759 1772	HIV infection
+T29	DISEASE 1845 1865	hepatic haemangiomas
+T30	DISEASE 1870 1887	hypovitaminosis D
+T32	DISEASE 3137 3158	hypertensive reaction
+T31	DISEASE 3419 3428	ischaemia
+T33	DISEASE 3597 3618	hypertensive reaction
+T17	DISEASE 4493 4524	left ventricle slightly dilated
+T34	DISEASE 4682 4718	mildly moderate mitral regurgitation
+T35	DISEASE 6151 6162	arrhythmias
+T20	DISEASE 6268 6280	rectorrhagia
+T36	DISEASE 6293 6305	anaemisation
+T37	DISEASE 6466 6507	mixed dyslipidaemia with elevated non-HDL
+T38	DISEASE 6512 6542	moderate hypertriglyceridaemia
+T80	DISEASE 8344 8404	Inferolateral non-ST-segment elevation myocardial infarction
+T79	DISEASE 8406 8412	NSTEMI
+T81	DISEASE 8428 8444	Three-vessel CAD
+T28	DISEASE 8596 8609	HIV infection
+T39	DISEASE 8762 8788	Severe mixed dyslipidaemia
+T25	DISEASE 8852 8864	Hypertension
+T41	DISEASE 8884 8890	Smoker
+T42	DISEASE 8920 8930	Overweight
+T43	DISEASE 8932 8956	Mild renal insufficiency
+T83	DISEASE 9013 9033	rheumatoid arthritis

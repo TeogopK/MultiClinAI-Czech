@@ -1,0 +1,30 @@
+T1	SYMPTOM 282 331	Asintomático desde el punto de vista cardiológico
+T2	SYMPTOM 390 451	dolor centrotorácico, opresivo e irradiado a espalda y cuello
+T3	SYMPTOM 498 504	fiebre
+T4	SYMPTOM 630 675	ascenso del ST inferior y lateral alto y bajo
+T5	SYMPTOM 930 939	hipotenso
+T6	SYMPTOM 1189 1207	mal estado general
+T7	SYMPTOM 1217 1226	taquipnea
+T8	SYMPTOM 1242 1262	hipotensión arterial
+T9	SYMPTOM 1308 1329	ingurgitación yugular
+T10	SYMPTOM 1342 1380	ruidos cardiacos están muy disminuidos
+T11	SYMPTOM 1385 1391	soplos
+T13	SYMPTOM 1413 1481	bultoma en el cuello eritematoso, caliente y doloroso a la palpación
+T14	SYMPTOM 1531 1543	leucocitosis
+T15	SYMPTOM 1737 1806	función del ventrículo izquierdo global y segmentaria está conservada
+T16	SYMPTOM 2108 2121	ritmo sinusal
+T17	SYMPTOM 2133 2142	PR normal
+T18	SYMPTOM 2144 2164	eje eléctrico normal
+T19	SYMPTOM 2166 2178	QRS estrecho
+T20	SYMPTOM 2183 2218	ascenso del ST cóncavo generalizado
+T22	SYMPTOM 2345 2381	consolidaciones pulmonares bibasales
+T21	SYMPTOM 2246 2315	ultivo líquido pericárdico y hemocultivos: Streptococcus constellatum
+T61	SYMPTOM 3279 3353	líquido de urgencias se filia como purulento y se aísla un S. constellatum
+T85	SYMPTOM 507 525	clínica infecciosa
+T87	SYMPTOM 1954 1977	compromiso hemodinámico
+T80	SYMPTOM 200 208	T4bN2bM0
+T81	SYMPTOM 1395 1399	roce
+T12	SYMPTOM 3222 3260	líquido maloliente y aspecto purulento
+T33	SYMPTOM 3338 3388	S. constellatum, que también fue aislado en sangre
+T82	SYMPTOM 3566 3599	cultivo crecieron microorganismos
+T83	SYMPTOM 4426 4433	T4N2bM0

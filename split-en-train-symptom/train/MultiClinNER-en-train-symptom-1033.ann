@@ -1,0 +1,57 @@
+T1	SYMPTOM 865 870	fever
+T2	SYMPTOM 4876 4881	fever
+T3	SYMPTOM 5148 5153	fever
+T4	SYMPTOM 5188 5193	fever
+T5	SYMPTOM 876 885	shivering
+T6	SYMPTOM 4896 4905	shivering
+T7	SYMPTOM 890 918	dyspnoea on minimal exertion
+T8	SYMPTOM 933 938	Cough
+T9	SYMPTOM 944 957	expectoration
+T10	SYMPTOM 1028 1038	chest pain
+T11	SYMPTOM 1249 1297	preserved global and segmental systolic function
+T12	SYMPTOM 1790 1796	Sweaty
+T13	SYMPTOM 1798 1811	well perfused
+T14	SYMPTOM 1813 1820	eupneic
+T15	SYMPTOM 1822 1846	Mild jugular engorgement
+T16	SYMPTOM 1870 1878	rhythmic
+T17	SYMPTOM 1880 1908	aortic systolic murmur II/VI
+T18	SYMPTOM 1984 1998	Normal abdomen
+T19	SYMPTOM 2104 2116	sinus rhythm
+T20	SYMPTOM 2757 2769	sinus rhythm
+T21	SYMPTOM 2933 2959	non-dilated left ventricle
+T22	SYMPTOM 5310 5321	hypotension
+T23	SYMPTOM 6191 6202	hypotension
+T24	SYMPTOM 5345 5356	bradycardia
+T25	SYMPTOM 6620 6631	bradycardia
+T27	SYMPTOM 5371 5379	dyspnoea
+T28	SYMPTOM 5822 5830	dyspnoea
+T29	SYMPTOM 6152 6160	dyspnoea
+T30	SYMPTOM 6348 6356	dyspnoea
+T31	SYMPTOM 5653 5683	ST elevation in inferior leads
+T32	SYMPTOM 5784 5805	precordial discomfort
+T33	SYMPTOM 6165 6189	haemodynamic instability
+T35	SYMPTOM 6581 6592	instability
+T36	SYMPTOM 7962 7980	lower ST elevation
+T37	SYMPTOM 5935 5973	alterations in segmental contractility
+T39	SYMPTOM 1299 1333	normofunctioning aortic prosthesis
+T40	SYMPTOM 4299 4320	periaortic thickening
+T41	SYMPTOM 5689 5719	ST descent on the lateral side
+T42	SYMPTOM 7684 7689	death
+T43	SYMPTOM 8241 8246	Death
+T44	SYMPTOM 441 473	biventricular function preserved
+T38	SYMPTOM 856 863	malaise
+T26	SYMPTOM 1397 1418	normal right chambers
+T45	SYMPTOM 1714 1720	saline
+T46	SYMPTOM 1910 1927	prosthetic sounds
+T47	SYMPTOM 1961 1982	crackles in the bases
+T48	SYMPTOM 2003 2034	oedema in the lower extremities
+T49	SYMPTOM 2820 2867	ST elevation in inferior face (II,III, and aVF)
+T50	SYMPTOM 2872 2891	ST descent in I-aVL
+T51	SYMPTOM 3009 3177	Hypokinesia of the inferior, posterior and basal face of the posterior septum, of the apical segment of the anterior septum, apical of the anterior face and strict apex
+T52	SYMPTOM 3289 3316	posterior leaflet stiffness
+T53	SYMPTOM 3532 3577	Right ventricle slightly dilated, hypokinetic
+T54	SYMPTOM 3753 3781	Inferior and apical akinesia
+T55	SYMPTOM 4692 4734	overall LVEF is at the low limit of normal
+T56	SYMPTOM 4740 4799	hypocytosis of the inferior, posterior and posterior septum
+T57	SYMPTOM 5212 5252	slight worsening of the general conditio
+T58	SYMPTOM 5412 5433	S. epidermidis growth

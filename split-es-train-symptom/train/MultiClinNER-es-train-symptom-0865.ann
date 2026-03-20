@@ -1,0 +1,38 @@
+T1	SYMPTOM 863 894	Ecocardiograma sin alteraciones
+T2	SYMPTOM 1212 1284	opresión centrotorácica irradiada a ambos brazos y región interescapular
+T3	SYMPTOM 1322 1340	sudoración profusa
+T4	SYMPTOM 1342 1349	náuseas
+T5	SYMPTOM 1352 1359	palidez
+T6	SYMPTOM 1418 1420	RS
+T7	SYMPTOM 1449 1461	QRS estrecho
+T8	SYMPTOM 1473 1502	rectificación del ST en V3-V4
+T9	SYMPTOM 1576 1581	dolor
+T10	SYMPTOM 1623 1628	dolor
+T11	SYMPTOM 1693 1722	rectificación del ST en V3-V4
+T12	SYMPTOM 1747 1765	troponina positiva
+T13	SYMPTOM 1855 1874	buen estado general
+T14	SYMPTOM 1876 1886	consciente
+T15	SYMPTOM 1889 1898	orientada
+T16	SYMPTOM 1900 1918	eupneica en reposo
+T17	SYMPTOM 1920 1927	afebril
+T18	SYMPTOM 1952 1966	tonos rítmicos
+T19	SYMPTOM 1971 1994	soplo sistólico aórtico
+T20	SYMPTOM 2024 2027	MVC
+T22	SYMPTOM 2055 2070	EEII: no edemas
+T24	SYMPTOM 2089 2125	Pulsos pedios presentes y simétricos
+T25	SYMPTOM 2266 2278	leucocitosis
+T27	SYMPTOM 2431 2454	redistribución vascular
+T28	SYMPTOM 2469 2471	RS
+T29	SYMPTOM 2480 2498	onda QR en I y aVL
+T30	SYMPTOM 2500 2512	QRS estrecho
+T31	SYMPTOM 2514 2566	onda T negativa simétricas de V2 a V6, DI, DII y aVL
+T33	SYMPTOM 2727 2768	función sistólica moderadamente deprimida
+T35	SYMPTOM 2963 3018	Ventrículo derecho de tamaño normal, función conservada
+T36	SYMPTOM 3210 3230	masas intracardiacas
+T97	SYMPTOM 3628 3651	VI dilatado, discinesia
+T37	SYMPTOM 3837 3842	Edema
+T100	SYMPTOM 4197 4205	acinesia
+T115	SYMPTOM 3137 3167	Vena cava inferior no dilatada
+T117	SYMPTOM 2586 2632	arterias coronarias sin lesiones angiográficas
+T21	SYMPTOM 2787 2795	acinesia
+T34	SYMPTOM 3946 3984	anomalías en la captación de gadolinio

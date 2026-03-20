@@ -1,0 +1,78 @@
+T1	SYMPTOM 116 130	dolor torácico
+T2	SYMPTOM 418 443	Nódulo pulmonar solitario
+T3	SYMPTOM 856 870	dolor torácico
+T4	SYMPTOM 903 954	Ecocardiograma transtorácico (ETT) sin alteraciones
+T5	SYMPTOM 956 971	FEVI conservada
+T6	SYMPTOM 1142 1167	elevación del segmento ST
+T7	SYMPTOM 2453 2485	Funciones superiores conservadas
+T8	SYMPTOM 2737 2769	molestia centrotorácica opresiva
+T9	SYMPTOM 2872 2924	dolor de inicio súbito, irradiado a espalda y cuello
+T10	SYMPTOM 2937 2944	melenas
+T11	SYMPTOM 2946 2953	vómitos
+T12	SYMPTOM 2964 2985	sangrado macroscópico
+T13	SYMPTOM 3037 3042	dolor
+T14	SYMPTOM 3062 3082	hipotensión arterial
+T15	SYMPTOM 3084 3093	taquipnea
+T16	SYMPTOM 3096 3117	mala perfusión distal
+T17	SYMPTOM 3159 3190	descenso difuso del segmento ST
+T18	SYMPTOM 3196 3212	elevación en aVR
+T19	SYMPTOM 3803 3810	afebril
+T20	SYMPTOM 3812 3822	Consciente
+T21	SYMPTOM 3825 3834	orientado
+T22	SYMPTOM 3836 3855	Palidez mucocutánea
+T23	SYMPTOM 3857 3878	mala perfusión distal
+T24	SYMPTOM 3880 3891	taquipneico
+T25	SYMPTOM 3910 3939	Auscultación cardiaca rítmica
+T26	SYMPTOM 3945 3960	soplos audibles
+T27	SYMPTOM 3988 4022	crepitantes pulmonares bilaterales
+T28	SYMPTOM 4044 4084	Abdomen: blando, depresible, no doloroso
+T29	SYMPTOM 4096 4140	livideces en extremidades inferiores y manos
+T30	SYMPTOM 4155 4168	pulsos pedios
+T31	SYMPTOM 4162 4180	pedios, sin edemas
+T32	SYMPTOM 4288 4301	ritmo sinusal
+T33	SYMPTOM 4312 4321	PR normal
+T34	SYMPTOM 4342 4364	descenso del ST difuso
+T35	SYMPTOM 4395 4439	elevación del ST de 1 mm en V1 y 2 mm en aVR
+T36	SYMPTOM 4666 4690	ondas Q en cara inferior
+T38	SYMPTOM 4729 4759	aumento de densidad perihiliar
+T39	SYMPTOM 5126 5137	neutrofilia
+T40	SYMPTOM 5140 5167	Coagulación en rango normal
+T41	SYMPTOM 5403 5432	Serología SARS-CoV2: negativa
+T42	SYMPTOM 5565 5663	esputo se aíslan colonias de cocobacilos gram negativos, con crecimiento de Haemophilus influenzae
+T44	SYMPTOM 5668 5747	cultivo de úlcera sacra se aíslan cocos gram positivos, con crecimiento de SARM
+T46	SYMPTOM 5866 5919	Función sistólica de VI moderada-gravemente deprimida
+T48	SYMPTOM 8218 8229	hipotensión
+T50	SYMPTOM 8945 8958	ritmo sinusal
+T51	SYMPTOM 9346 9364	signos congestivos
+T52	SYMPTOM 9513 9531	signos congestivos
+T53	SYMPTOM 9882 9889	afebril
+T54	SYMPTOM 9943 9975	serología para COVID-19 negativa
+T55	SYMPTOM 10026 10062	procalcitonina y leucocitos normales
+T56	SYMPTOM 10254 10263	febrícula
+T57	SYMPTOM 10289 10292	tos
+T58	SYMPTOM 10295 10308	expectoración
+T263	SYMPTOM 3599 3607	sangrado
+T264	SYMPTOM 7890 7898	sangrado
+T265	SYMPTOM 10910 10939	sangrado macroscópico y heces
+T266	SYMPTOM 11456 11464	sangrado
+T267	SYMPTOM 12025 12033	sangrado
+T239	SYMPTOM 1463 1478	FEVI conservada
+T37	SYMPTOM 5497 5560	se aísla S. aureus meticilin-resistente (SARM) en muestra nasal
+T45	SYMPTOM 5935 6013	acinesia de ápex, medio-apical de septo anterior, cara lateral y cara anterior
+T240	SYMPTOM 6060 6085	Raíz de aorta no dilatada
+T47	SYMPTOM 10087 10150	úlcera por presión en zona sacra (ya conocida), aislándose SARM
+T275	SYMPTOM 3893 3908	Plétora yugular
+T283	SYMPTOM 1483 1526	anomalías segmentarias de la contractilidad
+T321	SYMPTOM 10934 10970	heces sin aparentes restos hemáticos
+T322	SYMPTOM 11361 11377	restos hemáticos
+T325	SYMPTOM 10718 10741	sangrados macroscópicos
+T241	SYMPTOM 5434 5462	PCR SARS-CoV2: no detectable
+T43	SYMPTOM 6465 6495	Función sistólica de VD límite
+T242	SYMPTOM 6746 6757	FEVI normal
+T243	SYMPTOM 7082 7162	arteria descendente anterior tan solo presenta irregularidades no significativas
+T244	SYMPTOM 7167 7243	arteria circunfleja es un vaso de notable desarrollo que no muestra lesiones
+T245	SYMPTOM 7786 7814	ausencia de restos hemáticos
+T229	SYMPTOM 9836 9868	alteraciones de los electrolitos
+T248	SYMPTOM 10327 10361	H. Influenzae en cultivo de esputo
+T249	SYMPTOM 10593 10657	Hb al ingreso de 6,5 g/dl, normocítica, hipocrómica con ADE alto
+T251	SYMPTOM 11685 11748	tiempo en rango terapéutico (TRT) con sintrom, en el rango bajo

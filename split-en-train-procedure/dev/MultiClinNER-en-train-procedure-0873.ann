@@ -1,0 +1,15 @@
+T44	PROCEDURE 214 225	colonoscopy
+T1	PROCEDURE 361 378	euthocic delivery
+T45	PROCEDURE 612 618	fundus
+T2	PROCEDURE 1374 1390	cranial CAT scan
+T46	PROCEDURE 1666 1669	ECG
+T53	PROCEDURE 1785 1808	Nitroglycerin perfusion
+T47	PROCEDURE 2063 2066	ECG
+T3	PROCEDURE 2178 2194	Laboratory tests
+T50	PROCEDURE 2361 2384	portable echocardiogram
+T48	PROCEDURE 2513 2524	Chest X-ray
+T49	PROCEDURE 2855 2875	coronary angiography
+T51	PROCEDURE 3002 3016	echocardiogram
+T5	PROCEDURE 3139 3165	Anti-aggregation treatment
+T52	PROCEDURE 3216 3229	anticoagulant
+T6	PROCEDURE 3335 3379	ACE inhibitors, amlodipine and beta-blockers

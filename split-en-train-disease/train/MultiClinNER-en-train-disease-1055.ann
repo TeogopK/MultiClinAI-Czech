@@ -1,0 +1,38 @@
+T34	DISEASE 100 114	drug allergies
+T35	DISEASE 220 229	ex-smoker
+T1	DISEASE 242 255	dyslipidaemic
+T36	DISEASE 291 301	overweight
+T37	DISEASE 303 334	Chronic ischaemic heart disease
+T3	DISEASE 336 380	acute myocardial infarction (AMI) q inferior
+T39	DISEASE 436 464	Epistenocardial pericarditis
+T40	DISEASE 510 542	2-vessel coronary artery disease
+T4	DISEASE 603 606	AMI
+T5	DISEASE 674 732	Descending anterior descending (DA) with moderate stenosis
+T43	DISEASE 980 989	ischaemia
+T44	DISEASE 1350 1359	ischaemia
+T60	DISEASE 1550 1561	hypotension
+T48	DISEASE 2766 2786	deep vein thrombosis
+T7	DISEASE 2834 2837	AMI
+T41	DISEASE 3251 3283	2-vessel coronary artery disease
+T8	DISEASE 3285 3330	CD: severe stenosis due to complicated plaque
+T9	DISEASE 3395 3398	AMI
+T11	DISEASE 3586 3607	AD: moderate stenosis
+T12	DISEASE 3927 3963	Mild mitral and aortic regurgitation
+T49	DISEASE 3973 4018	pericardial effusion of 3 mm in posterior sac
+T14	DISEASE 4035 4038	AMI
+T45	DISEASE 4626 4635	ischaemia
+T50	DISEASE 5149 5178	familial hypercholesterolemia
+T51	DISEASE 5310 5339	familial hypercholesterolemia
+T59	DISEASE 5668 5674	smoker
+T53	DISEASE 5687 5692	obese
+T19	DISEASE 5697 5710	dyslipidaemic
+T54	DISEASE 5785 5794	lower AMI
+T55	DISEASE 6057 6120	inducible ischaemia in the anterior descending artery territory
+T56	DISEASE 6336 6363	intolerance to atorvastatin
+T24	DISEASE 6916 6946	familial hypercholesterolaemia
+T38	DISEASE 7200 7231	Chronic ischaemic heart disease
+T25	DISEASE 7233 7244	AMI Q lower
+T42	DISEASE 7262 7321	2-vessel coronary artery disease (DC [responsible] and LAD)
+T47	DISEASE 7428 7468	inducible ischaemia in the LAD territory
+T52	DISEASE 7486 7515	Familial hypercholesterolemia
+T57	DISEASE 7534 7561	Intolerance to atorvastatin

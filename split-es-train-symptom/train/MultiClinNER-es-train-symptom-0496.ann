@@ -1,0 +1,21 @@
+T1	SYMPTOM 149 155	fiebre
+T2	SYMPTOM 158 167	lumbalgia
+T3	SYMPTOM 228 256	deterioro del estado general
+T4	SYMPTOM 267 279	leucocitosis
+T5	SYMPTOM 292 303	neutrofilia
+T6	SYMPTOM 338 374	cifras elevadas de urea y creatinina
+T7	SYMPTOM 423 456	dolor a nivel de flanco izquierdo
+T8	SYMPTOM 459 498	puño percusión renal izquierda positiva
+T9	SYMPTOM 773 803	deterioro de su estado general
+T10	SYMPTOM 1243 1250	fallece
+T11	SYMPTOM 1169 1210	secreción purulenta a través de la herida
+T12	SYMPTOM 403 417	abdomen blando
+T13	SYMPTOM 607 628	aire en la fosa renal
+T14	SYMPTOM 675 757	aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal
+T15	SYMPTOM 903 919	evacuando el gas
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	EXITUS T10
+A5	IMAGEN T13
+A6	IMAGEN T14

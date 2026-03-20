@@ -1,0 +1,17 @@
+T1	SYMPTOM 73 89	rechazo de tomas
+T2	SYMPTOM 633 646	mucosas secas
+T3	SYMPTOM 91 98	náuseas
+T4	SYMPTOM 648 655	ojeroso
+T5	SYMPTOM 100 115	regurgitaciones
+T6	SYMPTOM 118 125	vómitos
+T7	SYMPTOM 695 710	palidez cutánea
+T8	SYMPTOM 1690 1725	hiperecogenicidad papilar bilateral
+T9	SYMPTOM 598 627	afectación del estado general
+T10	SYMPTOM 1941 1953	asintomático
+T11	SYMPTOM 1780 1861	valoración oftalmológica, serie ósea y potenciales auditivos, que fueron normales
+T12	SYMPTOM 1071 1095	hemograma que fue normal
+T13	SYMPTOM 1324 1340	anion gap normal
+A1	IMAGEN T8
+A2	RESULTADO T11
+A3	RESULTADO T12
+A4	RESULTADO T13

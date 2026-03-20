@@ -1,0 +1,21 @@
+T1	SYMPTOM 191 207	malestar general
+T2	SYMPTOM 209 215	fiebre
+T3	SYMPTOM 234 246	dolor lumbar
+T4	SYMPTOM 249 273	cuadro confusional agudo
+T5	SYMPTOM 406 412	febril
+T6	SYMPTOM 673 692	córnea transparente
+T7	SYMPTOM 751 765	pupila miótica
+T8	SYMPTOM 1747 1829	hemocultivos, urocultivos y cultivos del LCR, aislándose en todos Escherichia coli
+T9	SYMPTOM 373 380	confusa
+T10	SYMPTOM 386 404	tendencia al sueño
+T11	SYMPTOM 651 671	quemosis conjuntival
+T12	SYMPTOM 535 559	edema parpebral superior
+T13	SYMPTOM 634 649	edema orbitario
+T14	SYMPTOM 285 313	pérdida progresiva de visión
+T15	SYMPTOM 564 590	ptosis de aspecto mecánico
+T16	SYMPTOM 592 629	restricción a la elevación y aducción
+T17	SYMPTOM 698 745	capacidad para percibir la luz y proyectar foco
+T18	SYMPTOM 2201 2233	capacidad de percepción luminosa
+T19	SYMPTOM 824 842	opacidad de medios
+T22	SYMPTOM 781 790	sinequias
+A1	RESULTADO T8

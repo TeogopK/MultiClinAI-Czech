@@ -1,0 +1,43 @@
+T57	PROCEDURE 210 251	implante de una prótesis aórtica mecánica
+T58	PROCEDURE 809 827	Exploración física
+T60	PROCEDURE 1492 1495	ECG
+T61	PROCEDURE 1553 1573	Radiografía de tórax
+T62	PROCEDURE 1778 1787	Hemograma
+T63	PROCEDURE 1913 1924	TAC craneal
+T64	PROCEDURE 2420 2444	TC de perfusión cerebral
+T65	PROCEDURE 2891 2945	Angio-TC de troncos supraaórticos y polígono de Willis
+T66	PROCEDURE 3496 3516	Angiografía cerebral
+T67	PROCEDURE 3518 3599	bajo sedación se realiza arteriografía cerebral mediante abordaje femoral derecho
+T68	PROCEDURE 3776 3823	trombectomía mecánica con dispositivo extractor
+T70	PROCEDURE 4022 4034	Hemocultivos
+T71	PROCEDURE 4074 4077	ETT
+T72	PROCEDURE 4080 4083	ETE
+T73	PROCEDURE 4837 4857	angiografía cerebral
+T74	PROCEDURE 4972 4993	trombectomía mecánica
+T76	PROCEDURE 5133 5174	monitorización neurológica y hemodinámica
+T77	PROCEDURE 5250 5278	ecocardiograma transtorácico
+T78	PROCEDURE 5351 5363	hemocultivos
+T79	PROCEDURE 5376 5398	estudio transesofágico
+T80	PROCEDURE 5478 5493	ecocardiografía
+T81	PROCEDURE 5999 6057	implante de marcapasos provisional por vía yugular derecha
+T82	PROCEDURE 6346 6386	extracción de prótesis valvular metálica
+T83	PROCEDURE 6432 6518	implante de prótesis biológica en posición aórtica, así como de un tubo supracoronario
+T84	PROCEDURE 6686 6689	ECG
+T85	PROCEDURE 6749 6764	ecocardiografía
+T86	PROCEDURE 7102 7114	Trombectomía
+T87	PROCEDURE 7178 7222	implante de marcapasos (MCP) definitivo DDDR
+T88	PROCEDURE 7224 7296	Reemplazo valvular aórtico con prótesis aórtica biológica Perimount no23
+T95	PROCEDURE 1319 1321	AC
+T96	PROCEDURE 1368 1370	AP
+T98	PROCEDURE 1881 1892	Coagulación
+T99	PROCEDURE 6786 6823	implante de marcapasos definitivo DDD
+T100	PROCEDURE 5902 5912	telemetría
+T101	PROCEDURE 7332 7363	Implante de tubo supracoronario
+T14	PROCEDURE 1621 1631	bioquímica
+T108	PROCEDURE 1610 1619	Analítica
+T112	PROCEDURE 634 653	activa Código Ictus
+T133	PROCEDURE 1263 1276	gafas nasales
+T135	PROCEDURE 6231 6254	intervención quirúrgica
+T22	PROCEDURE 5681 5727	ejercicios de recuperación motora y foniátrica
+T75	PROCEDURE 6153 6195	marcapasos provisional en régimen de mando
+T97	PROCEDURE 6369 6410	valvular metálica con limpieza de absceso

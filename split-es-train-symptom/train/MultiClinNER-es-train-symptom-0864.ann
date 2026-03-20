@@ -1,0 +1,41 @@
+T1	SYMPTOM 127 141	dolor torácico
+T2	SYMPTOM 1069 1132	dolor centrotorácico opresivo irradiado a cuello y ambos brazos
+T3	SYMPTOM 1195 1210	sudoración fría
+T4	SYMPTOM 1437 1466	Presión venosa yugular normal
+T5	SYMPTOM 1468 1498	Auscultación cardiaca: rítmica
+T6	SYMPTOM 1504 1510	soplos
+T7	SYMPTOM 1514 1532	ruidos patológicos
+T8	SYMPTOM 1557 1586	murmullo vesicular conservado
+T9	SYMPTOM 1591 1611	ruidos sobreañadidos
+T12	SYMPTOM 1683 1688	masas
+T13	SYMPTOM 1692 1700	megalias
+T16	SYMPTOM 1749 1774	edemas en partes declives
+T17	SYMPTOM 1776 1819	pulsos periféricos conservados y simétricos
+T19	SYMPTOM 2083 2096	ritmo sinusal
+T20	SYMPTOM 2108 2117	PR normal
+T21	SYMPTOM 2140 2202	Supradesnivel del segmento ST de hasta 3 mm en DII, DIII y aVF
+T22	SYMPTOM 2207 2237	descenso especular en DI y aVL
+T23	SYMPTOM 2270 2313	índice cardiotorácico ligeramente aumentado
+T24	SYMPTOM 2383 2406	redistribución vascular
+T25	SYMPTOM 2411 2425	condensaciones
+T26	SYMPTOM 2757 2774	Buen lecho distal
+T27	SYMPTOM 3281 3307	Llenado transmitral normal
+T28	SYMPTOM 3319 3354	presión telediastólica de VI normal
+T29	SYMPTOM 3367 3412	VD de diámetros normales y función conservada
+T31	SYMPTOM 3652 3664	leucocitosis
+T32	SYMPTOM 4236 4245	PR normal
+T33	SYMPTOM 4272 4306	Onda T negativa en DII, DIII y aVF
+T34	SYMPTOM 4604 4646	elevación del segmento ST en cara inferior
+T35	SYMPTOM 4663 4686	dolor torácico anginoso
+T36	SYMPTOM 5241 5253	asintomático
+T37	SYMPTOM 5256 5281	hemodinámicamente estable
+T38	SYMPTOM 6136 6186	elevación del segmento ST de localización inferior
+T121	SYMPTOM 1702 1729	Blumberg y Murphy negativos
+T136	SYMPTOM 1613 1678	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T156	SYMPTOM 643 674	ausencia de pulso pedio derecho
+T159	SYMPTOM 3668 3688	desviación izquierda
+T161	SYMPTOM 3190 3237	hipocinesia inferolateral e inferior mediobasal
+T10	SYMPTOM 2474 2519	Tronco coronario izquierdo (TCI) sin lesiones
+T11	SYMPTOM 2427 2472	Coronariografía emergente: dominancia derecha
+T15	SYMPTOM 3133 3159	FEVI ligeramente deprimida
+T18	SYMPTOM 3526 3557	Vena cava inferior (VCI) normal

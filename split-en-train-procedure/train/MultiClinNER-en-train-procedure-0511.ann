@@ -1,0 +1,15 @@
+T2	PROCEDURE 784 804	Physical examination
+T16	PROCEDURE 924 972	deep palpation in the left iliac fossa and flank
+T13	PROCEDURE 1074 1096	bilateral renal Murphy
+T6	PROCEDURE 1181 1213	General neurological examination
+T1	PROCEDURE 1235 1251	Renal ultrasound
+T11	PROCEDURE 1440 1462	Coagulation parameters
+T4	PROCEDURE 1490 1493	ECG
+T25	PROCEDURE 1582 1610	abdominal and pelvic CT scan
+T7	PROCEDURE 2142 2167	systemic hypo-coagulation
+T8	PROCEDURE 2244 2253	analgesia
+T3	PROCEDURE 2369 2385	Echocardiography
+T9	PROCEDURE 2525 2538	Arteriography
+T10	PROCEDURE 2934 2991	determination of immunoglobulins and complement fractions
+T12	PROCEDURE 3191 3207	Anti-coagulation
+T39	PROCEDURE 3410 3422	scintigraphy

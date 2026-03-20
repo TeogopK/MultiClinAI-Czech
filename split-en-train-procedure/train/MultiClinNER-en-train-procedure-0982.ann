@@ -1,0 +1,28 @@
+T49	PROCEDURE 144 164	physical examination
+T50	PROCEDURE 733 748	catheterisation
+T67	PROCEDURE 1233 1235	AC
+T68	PROCEDURE 1291 1293	AP
+T53	PROCEDURE 1494 1497	ECG
+T55	PROCEDURE 1656 1670	Echocardiogram
+T57	PROCEDURE 2421 2432	Chest X-ray
+T54	PROCEDURE 2589 2592	ECG
+T56	PROCEDURE 2665 2679	echocardiogram
+T51	PROCEDURE 2688 2703	catheterisation
+T8	PROCEDURE 2764 2784	antiplatelet therapy
+T58	PROCEDURE 2786 2801	anticoagulation
+T9	PROCEDURE 2817 2838	lipid-lowering agents
+T60	PROCEDURE 2840 2853	beta-blockers
+T71	PROCEDURE 2858 2872	ACE inhibitors
+T61	PROCEDURE 2890 2915	tuberculostatic treatment
+T52	PROCEDURE 2947 2962	Catheterisation
+T62	PROCEDURE 2964 2989	Left coronary angiography
+T63	PROCEDURE 3199 3225	Right coronary angiography
+T64	PROCEDURE 3411 3422	Cardiac MRI
+T59	PROCEDURE 4130 4145	anticoagulation
+T69	PROCEDURE 4370 4385	cardiac surgery
+T65	PROCEDURE 4466 4501	left ventricular aneurysm resection
+T12	PROCEDURE 4543 4575	closure with a pericardial patch
+T70	PROCEDURE 4674 4690	vasoactive drugs
+T66	PROCEDURE 4780 4789	extubated
+T15	PROCEDURE 5103 5131	resection of the LV aneurysm
+T16	PROCEDURE 5136 5179	extraction of the intraventricular thrombus

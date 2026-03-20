@@ -1,0 +1,65 @@
+T1	SYMPTOM 382 390	dyspnoea
+T2	SYMPTOM 784 839	oppressive chest pain, radiating to the left upper limb
+T3	SYMPTOM 862 879	vegetative cortex
+T28	SYMPTOM 950 1000	Slight discomfort persisted in the left hemithorax
+T4	SYMPTOM 1130 1138	afebrile
+T5	SYMPTOM 1140 1149	Conscious
+T6	SYMPTOM 1151 1159	oriented
+T17	SYMPTOM 1161 1174	normal colour
+T7	SYMPTOM 1179 1192	well perfused
+T8	SYMPTOM 1212 1228	jugular plethora
+T9	SYMPTOM 1230 1260	Cardiac auscultation: rhythmic
+T10	SYMPTOM 1265 1272	murmurs
+T11	SYMPTOM 1298 1324	preserved vesicular murmur
+T12	SYMPTOM 1326 1346	Abdomen: nondescript
+T13	SYMPTOM 1416 1456	Right paedial pulse present, left absent
+T26	SYMPTOM 1461 1467	oedema
+T14	SYMPTOM 1594 1604	Narrow QRS
+T56	SYMPTOM 1622 1648	repolarisation alterations
+T15	SYMPTOM 1650 1660	Normal QTc
+T59	SYMPTOM 2168 2195	Serum chylomicrons negative
+T58	SYMPTOM 2223 2250	normal cardiothoracic index
+T52	SYMPTOM 2255 2271	congestive signs
+T57	SYMPTOM 2276 2311	condensation in the lung parenchyma
+T42	SYMPTOM 2313 2338	Free costophrenic sinuses
+T60	SYMPTOM 2390 2421	left ventricle (LV) not dilated
+T16	SYMPTOM 2485 2530	Moderately depressed global systolic function
+T43	SYMPTOM 2549 2557	akinesia
+T61	SYMPTOM 2677 2700	Aortic root not dilated
+T62	SYMPTOM 2920 2970	Right ventricle (RV) not dilated, normocontractile
+T18	SYMPTOM 3216 3220	pain
+T54	SYMPTOM 3274 3289	Q wave in V3-V4
+T21	SYMPTOM 3295 3316	ST elevation in V3-V5
+T22	SYMPTOM 3341 3365	negative T wave in V2-V6
+T46	SYMPTOM 3450 3482	Normal left main coronary artery
+T51	SYMPTOM 3609 3661	Right circumflex and coronary artery without lesions
+T23	SYMPTOM 3869 3898	left ventricle of normal size
+T47	SYMPTOM 4041 4072	Akinesia of the apical segments
+T53	SYMPTOM 4306 4334	undilated inferior vena cava
+T24	SYMPTOM 4436 4462	Aortic root of normal size
+T44	SYMPTOM 4904 4939	Deep negative T waves from V2 to V6
+T63	SYMPTOM 4957 4973	negative T waves
+T45	SYMPTOM 5053 5079	repolarisation alterations
+T25	SYMPTOM 5081 5116	ultrasensitive troponin T elevation
+T48	SYMPTOM 5121 5136	apical akinesia
+T19	SYMPTOM 5537 5541	pain
+T49	SYMPTOM 5543 5582	haemodynamically and respiratory stable
+T50	SYMPTOM 5634 5652	clinical stability
+T27	SYMPTOM 5851 5861	chest pain
+T20	SYMPTOM 5931 5965	ST segment elevation from V3 to V5
+T64	SYMPTOM 6556 6562	unwell
+T41	SYMPTOM 6569 6586	sinus tachycardia
+T29	SYMPTOM 6591 6602	hypotension
+T65	SYMPTOM 6646 6689	deterioration of the level of consciousness
+T32	SYMPTOM 7338 7346	bleeding
+T33	SYMPTOM 7414 7422	bleeding
+T55	SYMPTOM 7459 7463	AESP
+T34	SYMPTOM 7537 7545	bleeding
+T35	SYMPTOM 7869 7877	bleeding
+T37	SYMPTOM 8406 8412	anuria
+T38	SYMPTOM 8587 8605	severe hypotension
+T30	SYMPTOM 8638 8690	rapid haematic output in the thoracic drainage tubes
+T36	SYMPTOM 9042 9050	bleeding
+T40	SYMPTOM 9159 9179	arterial hypotension
+T66	SYMPTOM 10964 10967	PEA
+T39	SYMPTOM 11168 11191	Slightly depressed LVEF

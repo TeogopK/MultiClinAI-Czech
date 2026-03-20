@@ -1,0 +1,46 @@
+T1	SYMPTOM 339 362	pérdida de conocimiento
+T3	SYMPTOM 500 518	cortejo vegetativo
+T4	SYMPTOM 592 598	disnea
+T5	SYMPTOM 602 615	palpitaciones
+T6	SYMPTOM 619 633	dolor torácico
+T7	SYMPTOM 678 688	consciente
+T8	SYMPTOM 690 699	orientada
+T9	SYMPTOM 701 715	normocoloreada
+T10	SYMPTOM 717 725	eupneica
+T11	SYMPTOM 731 752	ingurgitación yugular
+T12	SYMPTOM 836 843	afebril
+T13	SYMPTOM 889 918	murmullo vesicular conservado
+T14	SYMPTOM 923 937	tonos rítmicos
+T15	SYMPTOM 942 948	soplos
+T16	SYMPTOM 973 981	megalias
+T19	SYMPTOM 1050 1077	pulsos distales conservados
+T20	SYMPTOM 1115 1149	exploración neurológica fue normal
+T21	SYMPTOM 1634 1652	coagulación normal
+T22	SYMPTOM 1804 1830	Tóxicos en orina negativos
+T23	SYMPTOM 1833 1855	perfil tiroideo normal
+T26	SYMPTOM 1967 1980	ritmo sinusal
+T27	SYMPTOM 2029 2037	complejo
+T28	SYMPTOM 2038 2050	QRS normales
+T29	SYMPTOM 2132 2164	ventrículo izquierdo no dilatado
+T30	SYMPTOM 2214 2229	FEVI conservada
+T31	SYMPTOM 2283 2308	función diastólica normal
+T32	SYMPTOM 2313 2337	patrón diastólico normal
+T33	SYMPTOM 2362 2411	Válvula mitral de estructura y función conservada
+T35	SYMPTOM 2549 2596	función sistólica del ventrículo derecho normal
+T36	SYMPTOM 2739 2752	ritmo sinusal
+T37	SYMPTOM 2757 2784	intervalo QT muy prolongado
+T39	SYMPTOM 3117 3143	reducción del intervalo QT
+T40	SYMPTOM 3691 3714	pérdida de conocimiento
+T41	SYMPTOM 3896 3919	dificultad respiratoria
+T42	SYMPTOM 4825 4866	mutación en el gen KCNQ1 en heterocigosis
+T125	SYMPTOM 3446 3459	ritmo sinusal
+T17	SYMPTOM 2234 2280	alteraciones segmentarias de la contractilidad
+T24	SYMPTOM 2447 2471	Raíz aórtica no dilatada
+T25	SYMPTOM 2473 2514	válvula aórtica trivalva normofuncionante
+T34	SYMPTOM 2653 2683	vena cava inferior no dilatada
+T38	SYMPTOM 5054 5089	Mutación patogénica en el gen KCNQ1
+T130	SYMPTOM 2516 2547	Cavidades derechas no dilatadas
+T138	SYMPTOM 2002 2012	eje normal
+T146	SYMPTOM 1949 1960	infiltrados
+T149	SYMPTOM 1010 1045	miembros inferiores no había edemas
+T18	SYMPTOM 2838 2858	fenómeno "R sobre T"

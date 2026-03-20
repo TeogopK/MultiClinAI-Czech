@@ -1,0 +1,7 @@
+T1	SYMPTOM 745 762	ideas de suicidio
+T2	SYMPTOM 731 742	agresividad
+T3	SYMPTOM 711 729	cambio de carácter
+T4	SYMPTOM 638 664	carga viral ya es negativa
+T5	SYMPTOM 1291 1317	carga viral ya es negativa
+A1	RESULTADO T4
+A2	RESULTADO T5

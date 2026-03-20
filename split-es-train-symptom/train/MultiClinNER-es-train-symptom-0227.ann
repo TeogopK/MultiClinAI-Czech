@@ -1,0 +1,12 @@
+T1	SYMPTOM 502 557	registros electroencefalográficos (EEG) fueron normales
+T2	SYMPTOM 117 142	Cariotipo femenino normal
+T3	SYMPTOM 595 635	cociente de desarrollo psicomotor normal
+T4	SYMPTOM 656 712	fondo de ojo muestra una apariencia prácticamente normal
+T5	SYMPTOM 726 822	ojo derecho, con una papila óptica normal, dos pequeñas lagunas coriorretinianas hipopigmentadas
+T6	SYMPTOM 960 984	lagunas coriorretinianas
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	RESULTADO T5
+A6	RESULTADO T6

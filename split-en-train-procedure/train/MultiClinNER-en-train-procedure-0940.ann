@@ -1,0 +1,23 @@
+T29	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T2	PROCEDURE 602 634	transthoracic cardiac ultrasound
+T26	PROCEDURE 1036 1039	ECG
+T41	PROCEDURE 1046 1075	activated the Infarction Code
+T27	PROCEDURE 1150 1161	angioplasty
+T30	PROCEDURE 1323 1343	physical examination
+T31	PROCEDURE 1380 1400	coronary angiography
+T4	PROCEDURE 1420 1463	first catheterise the right coronary artery
+T5	PROCEDURE 1542 1614	left coronary artery was then catheterised with an EBU3.5 guide catheter
+T6	PROCEDURE 2111 2169	analyse the vessel with an intracoronary imaging technique
+T32	PROCEDURE 2214 2242	optical coherence tomography
+T33	PROCEDURE 2244 2247	OCT
+T28	PROCEDURE 2292 2331	probing OM1 with two angioplasty guides
+T34	PROCEDURE 2349 2352	OCT
+T36	PROCEDURE 2416 2461	administration of 16 cc of iodinated contrast
+T7	PROCEDURE 2985 2996	blood tests
+T37	PROCEDURE 3001 3012	chest X-ray
+T8	PROCEDURE 3032 3062	Transthoracic echocardiography
+T38	PROCEDURE 3239 3258	myocardial function
+T39	PROCEDURE 3303 3337	cardiac magnetic resonance imaging
+T35	PROCEDURE 3575 3578	OCT
+T10	PROCEDURE 3896 3943	dual antiplatelet therapy (ASA and clopidogrel)
+T40	PROCEDURE 3969 3975	ARA-II

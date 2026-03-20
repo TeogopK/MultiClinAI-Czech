@@ -1,0 +1,21 @@
+T1	PROCEDURE 257 276	gastro-lesive drugs
+T2	PROCEDURE 340 362	endoscopic examination
+T3	PROCEDURE 378 389	gastroscopy
+T6	PROCEDURE 394 410	ileo-colonoscopy
+T7	PROCEDURE 480 483	ECE
+T20	PROCEDURE 555 564	treatment
+T21	PROCEDURE 580 591	supplements
+T9	PROCEDURE 718 738	physical examination
+T23	PROCEDURE 767 770	CBC
+T10	PROCEDURE 843 861	rectal examination
+T25	PROCEDURE 902 918	Laboratory tests
+T11	PROCEDURE 1143 1156	fluid therapy
+T12	PROCEDURE 1178 1223	4 red blood cell concentrates were transfused
+T28	PROCEDURE 1235 1246	transfusion
+T29	PROCEDURE 1247 1258	haemoglobin
+T4	PROCEDURE 1381 1392	gastroscopy
+T8	PROCEDURE 1438 1441	ECE
+T31	PROCEDURE 1482 1493	examination
+T5	PROCEDURE 1704 1715	gastroscopy
+T33	PROCEDURE 1772 1780	resected
+T13	PROCEDURE 1786 1809	histopathological study

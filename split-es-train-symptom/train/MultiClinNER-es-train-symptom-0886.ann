@@ -1,0 +1,24 @@
+T1	SYMPTOM 563 607	est ortostatismo y masaje carotideo negativo
+T3	SYMPTOM 667 672	mareo
+T4	SYMPTOM 675 686	hipotensión
+T5	SYMPTOM 711 732	pérdida de conciencia
+T6	SYMPTOM 871 894	pérdida de conocimiento
+T7	SYMPTOM 1059 1083	liberación de esfínteres
+T8	SYMPTOM 1304 1323	buen estado general
+T9	SYMPTOM 1368 1392	tonos cardiacos rítmicos
+T10	SYMPTOM 1397 1403	soplos
+T11	SYMPTOM 1409 1412	MVC
+T13	SYMPTOM 1666 1668	RS
+T14	SYMPTOM 1687 1699	QRS estrecho
+T15	SYMPTOM 1701 1718	Elevación punto J
+T16	SYMPTOM 1753 1766	ritmo sinusal
+T17	SYMPTOM 1967 2020	Ecocardiograma transtorácico: dentro de la normalidad
+T25	SYMPTOM 433 440	síncope
+T30	SYMPTOM 174 191	episodio sincopal
+T54	SYMPTOM 1195 1204	QRS ancho
+T57	SYMPTOM 1439 1455	EEII: sin edemas
+T64	SYMPTOM 1609 1644	coagulación dentro de la normalidad
+T65	SYMPTOM 529 560	ecocardiograma sin alteraciones
+T12	SYMPTOM 252 278	ECG basal sin alteraciones
+T53	SYMPTOM 1211 1227	taquicardización
+T58	SYMPTOM 2275 2313	ecocardiograma dentro de la normalidad

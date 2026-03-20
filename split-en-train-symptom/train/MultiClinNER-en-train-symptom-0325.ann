@@ -1,0 +1,12 @@
+T1	SYMPTOM 87 151	chest pain in the left anterior hemithorax radiating to the neck
+T3	SYMPTOM 157 161	pain
+T4	SYMPTOM 265 320	discomfort worsens in decubitus and with deep breathing
+T5	SYMPTOM 390 395	fever
+T7	SYMPTOM 471 512	physical examination is completely normal
+T6	SYMPTOM 752 764	sinus rhythm
+T2	SYMPTOM 803 830	abnormalities in the P wave
+T16	SYMPTOM 854 913	QRS complex presents an axis within the lower left quadrant
+T8	SYMPTOM 1093 1124	QTc interval of normal duration
+T18	SYMPTOM 1151 1182	negative T waves in leads V3-V6
+T9	SYMPTOM 1217 1249	decrease in the ST segment in V4
+T19	SYMPTOM 1283 1303	pathological Q waves

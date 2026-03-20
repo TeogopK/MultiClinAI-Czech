@@ -1,0 +1,18 @@
+T10	DISEASE 163 170	fumador
+T13	DISEASE 209 216	bebedor
+T19	DISEASE 329 348	enfermedad hepática
+T20	DISEASE 1067 1089	insuficiencia cardiaca
+T21	DISEASE 2526 2543	infección por VIH
+T23	DISEASE 2548 2577	neumonía intersticial por PNJ
+T24	DISEASE 444 452	porfiria
+T25	DISEASE 2581 2584	PCT
+T28	DISEASE 1204 1217	hipertricosis
+T30	DISEASE 1234 1251	lesiones cutáneas
+T42	DISEASE 1772 1801	neumonía intersticial por PNJ
+T45	DISEASE 1946 1965	eritrodermia facial
+T47	DISEASE 2104 2107	PCT
+T48	DISEASE 2146 2155	hepatitis
+T2	DISEASE 933 944	mal nutrido
+T3	DISEASE 1108 1174	hiperpigmentación llamativa en la frente, regiones malares y nariz
+#2	AnnotatorNotes T25	  PCT: Porfiria cutánea tardía
+#1	AnnotatorNotes T47	  PCT: Porfiria cutánea tardía

@@ -1,0 +1,14 @@
+T1	SYMPTOM 333 361	proceso expansivo intraselar
+T2	SYMPTOM 1287 1309	hemianopsia bitemporal
+T3	SYMPTOM 62 77	cefalea frontal
+T4	SYMPTOM 80 88	nicturia
+T5	SYMPTOM 522 538	aspecto quístico
+T6	SYMPTOM 249 285	exploración oftalmológica era normal
+T7	SYMPTOM 662 714	porción quística supraselar de contenido proteináceo
+T8	SYMPTOM 773 829	porción sólida intraselar isointensa a la sustancia gris
+T9	SYMPTOM 1555 1574	calcemia era normal
+A1	IMAGEN T1
+A2	IMAGEN T5
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	RESULTADO T9

@@ -1,0 +1,17 @@
+T1	PROCEDURE 1174 1194	electroencefalograma
+T2	PROCEDURE 1196 1199	EEG
+T3	PROCEDURE 1203 1248	tomografía (TC) cerebral con contraste iodado
+T4	PROCEDURE 1215 1217	TC
+T5	PROCEDURE 1323 1339	tóxicos en orina
+T6	PROCEDURE 1365 1379	punción lumbar
+T7	PROCEDURE 2244 2263	ecografía abdominal
+T8	PROCEDURE 2293 2320	radiografía simple de tórax
+T9	PROCEDURE 687 705	exploración física
+T10	PROCEDURE 2399 2410	TC torácica
+T11	PROCEDURE 875 898	exploración neurológica
+T12	PROCEDURE 1426 1434	cultivos
+T13	PROCEDURE 1413 1423	bioquímica
+T14	PROCEDURE 2614 2648	catecolaminas en orina de 24 horas
+T15	PROCEDURE 2509 2516	cirugía
+T16	PROCEDURE 2780 2787	cirugía
+T22	PROCEDURE 1504 1514	serologías

@@ -1,0 +1,59 @@
+T40	DISEASE 103 117	drug allergies
+T1	DISEASE 121 134	former smoker
+T41	DISEASE 161 180	alcohol consumption
+T42	DISEASE 229 250	arterial hypertension
+T45	DISEASE 295 308	dyslipidaemia
+T46	DISEASE 358 395	chronic obstructive pulmonary disease
+T2	DISEASE 440 442	TI
+T47	DISEASE 543 556	heart disease
+T3	DISEASE 680 746	benign prostatic hyperplasia with repeated acute urinary retention
+T48	DISEASE 795 805	haematuria
+T82	DISEASE 1570 1582	hepatomegaly
+T50	DISEASE 1783 1796	heart failure
+T83	DISEASE 2224 2236	hepatomegaly
+T55	DISEASE 2475 2505	supraventricular extrasystoles
+T85	DISEASE 4088 4160	severely dilated left ventricle, with severely reduced systolic function
+T56	DISEASE 4211 4236	severe global hypokinesia
+T86	DISEASE 4305 4366	Mildly dilated right ventricle with mildly depressed function
+T8	DISEASE 4368 4444	Moderately dilated left atrium and mildly to moderately dilated right atrium
+T9	DISEASE 4446 4477	Mitral valve leaflets thickened
+T58	DISEASE 4484 4513	moderate mitral insufficiency
+T10	DISEASE 4519 4568	tricuspid valve had moderate-severe insufficiency
+T11	DISEASE 4648 4678	Inferior vena cava was dilated
+T12	DISEASE 4727 4752	aortic valve was trivalve
+T13	DISEASE 4759 4786	sclerodegenerative leaflets
+T59	DISEASE 4797 4831	mild-moderate aortic insufficiency
+T81	DISEASE 4841 4863	aortic root dilatation
+T87	DISEASE 4945 5016	severely dilated left ventricle with severely depressed global function
+T88	DISEASE 5054 5115	Mildly dilated right ventricle with mild systolic dysfunction
+T60	DISEASE 5274 5305	mild bilateral pleural effusion
+T15	DISEASE 5453 5536	anterior descending artery shows diffuse calcified atheromatosis with mild stenosis
+T16	DISEASE 5674 5697	calcified atheromatosis
+T17	DISEASE 5785 5848	right coronary artery is the dominant vessel, very atheromatous
+T61	DISEASE 5928 5951	severe ulcerated lesion
+T62	DISEASE 6142 6163	severe focal stenosis
+T18	DISEASE 6218 6244	moderate circumflex lesion
+T63	DISEASE 6350 6359	ischaemia
+T89	DISEASE 6810 6834	severe residual stenosis
+T51	DISEASE 7211 7224	heart failure
+T84	DISEASE 7775 7786	hypotension
+T64	DISEASE 7813 7909	dilated cardiomyopathy with severe left ventricular dysfunction due to severe global hypokinesia
+T65	DISEASE 8038 8045	enolism
+T66	DISEASE 8093 8108	angina pectoris
+T67	DISEASE 8133 8144	myocarditis
+T25	DISEASE 8371 8415	severe stenosis of the right coronary artery
+T68	DISEASE 8594 8625	normochromic normocytic anaemia
+T69	DISEASE 8795 8802	anaemia
+T26	DISEASE 8939 8976	vitamin B12 and folic acid deficiency
+T70	DISEASE 9060 9067	anaemia
+T71	DISEASE 9105 9112	anaemia
+T49	DISEASE 9172 9182	haematuria
+T52	DISEASE 9452 9465	heart failure
+T53	DISEASE 9640 9653	heart failure
+T72	DISEASE 10143 10150	anaemia
+T80	DISEASE 10310 10312	it
+T54	DISEASE 10706 10719	Heart failure
+T74	DISEASE 10736 10773	Dilated cardiomyopathy, non-ischaemic
+T75	DISEASE 10890 10964	Moderate-severe tricuspid regurgitation with severe pulmonary hypertension
+T27	DISEASE 10966 11026	Severe single-vessel coronary artery disease (right coronary
+T76	DISEASE 11154 11206	Normocytic normochromic anaemia with iron deficiency

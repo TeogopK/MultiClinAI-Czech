@@ -1,0 +1,28 @@
+T2	DISEASE 72 85	dyslipidaemic
+T44	DISEASE 87 99	hypertensive
+T46	DISEASE 101 106	obese
+T47	DISEASE 134 165	complete atrioventricular block
+T1	DISEASE 167 170	AVB
+T48	DISEASE 173 201	chronic venous insufficiency
+T49	DISEASE 203 217	hypothyroidism
+T50	DISEASE 222 239	spondyloarthrosis
+T52	DISEASE 1594 1614	venous insufficiency
+T53	DISEASE 1618 1638	deep vein thrombosis
+T54	DISEASE 2169 2194	right bundle branch block
+T3	DISEASE 2196 2200	RBBB
+T4	DISEASE 2206 2212	HMAIHH
+T5	DISEASE 3021 3124	mitral valve had discrete thickening of the valve leaflets, with calcification of the posterior annulus
+T6	DISEASE 3189 3209	mitral regurgitation
+T7	DISEASE 3211 3213	MR
+T55	DISEASE 3315 3335	aortic insufficiency
+T8	DISEASE 3337 3340	AIo
+T9	DISEASE 3391 3471	Morphologically normal tricuspid valve, with good opening and mild insufficiency
+T10	DISEASE 3619 3627	effusion
+T56	DISEASE 3806 3818	hypertension
+T11	DISEASE 3972 4008	angina at rest or on slight exertion
+T57	DISEASE 4385 4397	hypertension
+T12	DISEASE 4897 4943	Non ST-segment elevation myocardial infarction
+T13	DISEASE 4945 4951	NSTEMI
+T60	DISEASE 4984 5006	Hypertensive emergency
+T58	DISEASE 5008 5029	Stress cardiomyopathy
+T59	DISEASE 5031 5050	tako-tsubo syndrome

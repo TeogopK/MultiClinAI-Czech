@@ -1,0 +1,24 @@
+T8	DISEASE 258 303	extrasistolia ventricular aislada monomórfica
+T9	DISEASE 830 833	BAV
+T10	DISEASE 978 1001	trastorno de conducción
+T11	DISEASE 1003 1026	miocardiopatía dilatada
+T12	DISEASE 1086 1089	BAV
+T13	DISEASE 1223 1226	BAV
+T14	DISEASE 1388 1403	apnea del sueño
+T15	DISEASE 1605 1628	cardiopatía estructural
+T16	DISEASE 1689 1692	BAV
+T17	DISEASE 801 828	bloqueo auriculoventricular
+T18	DISEASE 591 616	extrasistolia ventricular
+T19	DISEASE 305 307	EV
+T38	DISEASE 1231 1250	bradicardia sinusal
+T36	DISEASE 793 795	EV
+T3	DISEASE 1273 1275	EV
+T48	DISEASE 541 549	isquemia
+T49	DISEASE 1029 1042	muerte súbita
+#1	AnnotatorNotes T9	 BAV: bloqueo aurículo-ventricular
+#2	AnnotatorNotes T12	 BAV: bloqueo aurículo-ventricular
+#3	AnnotatorNotes T13	 BAV: bloqueo aurículo-ventricular
+#4	AnnotatorNotes T16	 BAV: bloqueo aurículo-ventricular
+#5	AnnotatorNotes T19	 EV: extrasistolia/extrasístole ventricular
+#6	AnnotatorNotes T36	extrasistole ventricular
+#7	AnnotatorNotes T3	extrasistole ventricular

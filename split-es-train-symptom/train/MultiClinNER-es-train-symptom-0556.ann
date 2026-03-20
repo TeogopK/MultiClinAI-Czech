@@ -1,0 +1,7 @@
+T1	SYMPTOM 53 118	tumoración palpable, dolorosa a la presión en región preauricular
+T2	SYMPTOM 164 209	masa mal delimitada de 2 cm en área parotídea
+T3	SYMPTOM 518 528	tumoración
+T4	SYMPTOM 591 628	afecta estructuras óseas o musculares
+T5	SYMPTOM 352 358	nódulo
+A1	IMAGEN T3
+A2	IMAGEN T4

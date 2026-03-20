@@ -1,0 +1,13 @@
+T1	SYMPTOM 87 136	dolor progresivo de inicio en fosa iliaca derecha
+T2	SYMPTOM 149 158	hiporexia
+T3	SYMPTOM 165 201	alteraciones del tránsito intestinal
+T4	SYMPTOM 203 220	clínica miccional
+T5	SYMPTOM 431 490	abdomen distendido, doloroso a nivel de fosa ilíaca derecha
+T6	SYMPTOM 505 526	irritación peritoneal
+T7	SYMPTOM 578 619	elevación de los reactantes de fase aguda
+T8	SYMPTOM 704 747	masa de 4 x 3 x 5 cm adyacente a polo cecal
+T10	SYMPTOM 952 979	líquido libre sanguinolento
+T13	SYMPTOM 921 932	efecto masa
+A1	IMAGEN T8
+A3	IMAGEN T10
+A4	IMAGEN T13

@@ -1,0 +1,19 @@
+T1	SYMPTOM 121 127	fiebre
+T2	SYMPTOM 129 140	escalofríos
+T3	SYMPTOM 142 158	malestar general
+T4	SYMPTOM 160 167	vómitos
+T5	SYMPTOM 170 216	dolores difusos en el tórax y la región lumbar
+T6	SYMPTOM 244 268	aceptable estado general
+T7	SYMPTOM 290 343	soplo sistólico de intensidad II/VI en el foco mitral
+T10	SYMPTOM 1156 1199	hemocultivos crece Streptococcus agalactiae
+T11	SYMPTOM 1386 1392	fiebre
+T12	SYMPTOM 1471 1484	palpitaciones
+T13	SYMPTOM 1486 1492	disnea
+T14	SYMPTOM 1495 1503	ortopnea
+T15	SYMPTOM 1520 1526	fiebre
+T16	SYMPTOM 1546 1561	soplo sistólico
+T17	SYMPTOM 1618 1654	crepitantes en ambas bases del tórax
+T18	SYMPTOM 2220 2227	fallece
+T19	SYMPTOM 2276 2282	disnea
+T48	SYMPTOM 688 736	hemograma, bioquímica y coagulación son normales
+T8	SYMPTOM 935 1053	radiografías de tórax y de la columna vertebral, y la ecografía y la tomografía computarizada abdominales son normales

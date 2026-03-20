@@ -1,0 +1,28 @@
+T32	DISEASE 103 129	parada cardiorrespiratoria
+T33	DISEASE 191 215	diabetes mellitus tipo 2
+T34	DISEASE 217 238	hipertensión arterial
+T35	DISEASE 240 250	dislipemia
+T36	DISEASE 290 294	gota
+T37	DISEASE 469 490	cardiopatía isquémica
+T38	DISEASE 699 725	parada cardiorrespiratoria
+T39	DISEASE 1549 1595	oclusión de la arteria circunfleja (CX) ostial
+T40	DISEASE 1693 1762	estenosis severa en el segmento medio de la arteria coronaria derecha
+T41	DISEASE 3912 3942	atelectasia en lóbulo superior
+T42	DISEASE 4097 4128	atelectasia del lóbulo superior
+T43	DISEASE 4217 4265	disfunción ventricular izquierda moderada-severa
+T44	DISEASE 4424 4449	insuficiencia mitral leve
+T45	DISEASE 4454 4473	derrame pericárdico
+T46	DISEASE 4686 4711	Insuficiencia mitral leve
+T47	DISEASE 5653 5683	atelectasia en lóbulo superior
+T48	DISEASE 6527 6548	fibrilación auricular
+T49	DISEASE 7809 7838	Neumonía por broncoaspiración
+T50	DISEASE 7528 7582	Parada cardiorrespiratoria por fibrilación ventricular
+T51	DISEASE 7595 7611	SCACEST inferior
+T52	DISEASE 6739 6755	broncoaspiración
+T53	DISEASE 252 259	fumador
+T56	DISEASE 5024 5122	Arteria CD: vaso dominante severamente calcificado, de adecuado tamaño y desarrollo, con estenosis
+T57	DISEASE 6627 6647	episodios arrítmicos
+T58	DISEASE 7713 7783	Oclusión total de arteria circunfleja ostial con circulación colateral
+T26	DISEASE 1763 1787	(CD) con imagen de placa
+T75	DISEASE 4847 4909	Arteria CX: vaso de adecuado tamaño y desarrollo, con oclusión
+#1	AnnotatorNotes T51	 SCACEST Síndrome coronario agudo con elevación del ST

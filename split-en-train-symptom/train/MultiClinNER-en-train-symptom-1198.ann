@@ -1,0 +1,35 @@
+T1	SYMPTOM 260 270	chest pain
+T2	SYMPTOM 325 341	vegetative crust
+T3	SYMPTOM 461 465	pain
+T27	SYMPTOM 497 519	cardiological symptoms
+T28	SYMPTOM 581 622	ST-segment elevation in the anterior face
+T24	SYMPTOM 1010 1033	haemodynamically stable
+T4	SYMPTOM 1041 1063	good general condition
+T5	SYMPTOM 1090 1104	rhythmic tones
+T6	SYMPTOM 1113 1120	murmurs
+T29	SYMPTOM 1122 1146	Bladder murmur preserved
+T7	SYMPTOM 1176 1202	Lower limbs without oedema
+T31	SYMPTOM 1207 1217	congestive
+T30	SYMPTOM 1221 1241	low output semiology
+T9	SYMPTOM 1296 1308	sinus rhythm
+T10	SYMPTOM 1320 1331	Normal axis
+T11	SYMPTOM 1333 1342	Normal PR
+T12	SYMPTOM 1344 1354	Narrow QRS
+T26	SYMPTOM 1355 1368	QS from V1-V4
+T13	SYMPTOM 1374 1418	significant ST elevation in precordial leads
+T14	SYMPTOM 1589 1601	Leukocytosis
+T15	SYMPTOM 1709 1727	normal coagulation
+T16	SYMPTOM 1729 1781	Liver, lipid and thyroid profile without alterations
+T32	SYMPTOM 1861 1903	normo-developed anterior descending artery
+T23	SYMPTOM 2050 2065	Right dominance
+T21	SYMPTOM 2652 2683	Akinesia of all apical segments
+T17	SYMPTOM 3110 3157	Non-dilated RV with preserved systolic function
+T22	SYMPTOM 3230 3280	Non-dilated IVC with adequate inspiratory collapse
+T33	SYMPTOM 3963 3995	akinesia in the apical territory
+T19	SYMPTOM 4000 4014	preserved LVEF
+T18	SYMPTOM 4135 4150	systolic murmur
+T25	SYMPTOM 4827 4833	stable
+T8	SYMPTOM 4980 5000	congestive semiology
+T35	SYMPTOM 5215 5234	left-to-right shunt
+T34	SYMPTOM 6155 6187	Akinesia in the apical territory
+T20	SYMPTOM 6194 6208	preserved LVEF

@@ -1,0 +1,15 @@
+T6	PROCEDURE 54 64	ultrasound
+T9	PROCEDURE 239 264	Radiological examinations
+T1	PROCEDURE 265 279	Chest PA and L
+T17	PROCEDURE 380 397	Abdominal CT scan
+T19	PROCEDURE 598 624	administration of contrast
+T3	PROCEDURE 967 976	Bone scan
+T8	PROCEDURE 1218 1249	right upper partial nephrectomy
+T11	PROCEDURE 1364 1373	resection
+T26	PROCEDURE 1414 1434	anatomical pathology
+T10	PROCEDURE 1519 1544	immunohistochemical study
+T4	PROCEDURE 1996 2015	cervico-thoracic CT
+T5	PROCEDURE 2330 2389	Total thyroidectomy and left functional lymph node emptying
+T7	PROCEDURE 2394 2412	total laryngectomy
+T12	PROCEDURE 2471 2490	anatomopathological
+T2	PROCEDURE 2608 2651	session with an ablative dose of Iodine-131

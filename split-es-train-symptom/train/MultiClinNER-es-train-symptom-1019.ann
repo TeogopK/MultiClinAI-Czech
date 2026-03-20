@@ -1,0 +1,54 @@
+T1	SYMPTOM 73 79	disnea
+T2	SYMPTOM 229 255	masa en cabeza de páncreas
+T3	SYMPTOM 592 623	engrosamiento parietal gástrico
+T4	SYMPTOM 1488 1563	disnea de esfuerzo progresiva de 1 mes de evolución hasta hacerse de reposo
+T5	SYMPTOM 1585 1593	ortopnea
+T6	SYMPTOM 1596 1623	disnea paroxística nocturna
+T7	SYMPTOM 1625 1649	tos nocturna en decúbito
+T8	SYMPTOM 1652 1660	nicturia
+T9	SYMPTOM 1679 1709	aumento de perímetro abdominal
+T10	SYMPTOM 1712 1741	edemas de miembros inferiores
+T11	SYMPTOM 1743 1774	molestia en hipocondrio derecho
+T12	SYMPTOM 1836 1850	dolor torácico
+T13	SYMPTOM 1880 1893	palpitaciones
+T14	SYMPTOM 2048 2054	fiebre
+T15	SYMPTOM 2059 2072	expectoración
+T16	SYMPTOM 2077 2084	nauseas
+T17	SYMPTOM 2089 2096	vómitos
+T18	SYMPTOM 2218 2225	afebril
+T19	SYMPTOM 2253 2256	BEG
+T20	SYMPTOM 2258 2272	Normocoloreado
+T21	SYMPTOM 2274 2288	normoperfundio
+T22	SYMPTOM 2291 2305	normohidratado
+T23	SYMPTOM 2324 2345	ingurgitación yugular
+T24	SYMPTOM 2351 2365	Tonos rítmicos
+T25	SYMPTOM 2370 2376	soplos
+T26	SYMPTOM 2452 2479	Abdomen: blando, depresible
+T27	SYMPTOM 2481 2509	dolor en hipocondrio derecho
+T28	SYMPTOM 2514 2535	irritación peritoneal
+T29	SYMPTOM 2552 2557	masas
+T31	SYMPTOM 2592 2629	edemas con fóvea hasta raíz de muslos
+T33	SYMPTOM 2650 2673	pulsos pedios positivos
+T34	SYMPTOM 3243 3274	Serologías: VHB y VHC negativas
+T35	SYMPTOM 3748 3759	proteinuria
+T36	SYMPTOM 3802 3879	Proteinuria de Bence Jones (cadenas ligeras kappa y lambda en orina) negativa
+T37	SYMPTOM 3903 3959	índice cardiotorácico en el límite alto de la normalidad
+T38	SYMPTOM 3961 3995	mediastino y ambos hilios normales
+T39	SYMPTOM 3997 4026	engrosamiento de cisura mayor
+T40	SYMPTOM 4111 4124	ritmo sinusal
+T41	SYMPTOM 4287 4300	palpitaciones
+T42	SYMPTOM 4429 4442	ritmo sinusal
+T48	SYMPTOM 5054 5117	Ventrículo derecho no dilatado con función sistólica conservada
+T50	SYMPTOM 5329 5354	Cava inferior no dilatada
+T51	SYMPTOM 5388 5417	Septum interauricular íntegro
+T53	SYMPTOM 7188 7230	Capacidad funcional moderadamente reducida
+T58	SYMPTOM 8967 9001	líquido libre en cavidad abdominal
+T30	SYMPTOM 3221 3241	ANA y ANCA negativas
+T32	SYMPTOM 4909 4944	FEVI global moderadamente deprimida
+T183	SYMPTOM 8481 8504	hígado de tamaño normal
+T45	SYMPTOM 5800 5858	formaciones ganglionares en ambas cadenas iliacas externas
+T59	SYMPTOM 6676 6703	infiltrados pseudonodulares
+T54	SYMPTOM 8589 8617	Vena porta de calibre normal
+T129	SYMPTOM 8822 8878	riñones son de tamaño normal, con corticales conservadas
+T130	SYMPTOM 9226 9259	arterias coronarias sin estenosis
+T164	SYMPTOM 9473 9498	coronariografía es normal

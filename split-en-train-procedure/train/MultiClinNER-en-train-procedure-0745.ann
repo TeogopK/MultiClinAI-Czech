@@ -1,0 +1,11 @@
+T1	PROCEDURE 132 142	ultrasound
+T13	PROCEDURE 147 164	abdominal CT scan
+T14	PROCEDURE 180 252	pancreatic mass was discovered, with negative biopsy aspiration puncture
+T3	PROCEDURE 357 377	Physical examination
+T18	PROCEDURE 382 398	laboratory tests
+T4	PROCEDURE 485 505	Abdominal ultrasound
+T6	PROCEDURE 765 777	Abdominal CT
+T7	PROCEDURE 782 799	MRI with contrast
+T8	PROCEDURE 826 868	Fine needle aspiration of one of the cysts
+T10	PROCEDURE 1163 1175	radiological
+T9	PROCEDURE 1312 1330	surgical treatment

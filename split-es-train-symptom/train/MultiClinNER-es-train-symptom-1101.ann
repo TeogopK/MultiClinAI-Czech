@@ -1,0 +1,58 @@
+T1	SYMPTOM 705 728	opresión centrotorácica
+T2	SYMPTOM 756 762	disnea
+T3	SYMPTOM 768 786	cortejo vegetativo
+T5	SYMPTOM 1432 1440	ortopnea
+T6	SYMPTOM 1456 1483	disnea paroxística nocturna
+T7	SYMPTOM 1514 1532	edemas periféricos
+T8	SYMPTOM 1565 1581	ganancia de peso
+T9	SYMPTOM 1647 1666	Buen estado general
+T12	SYMPTOM 1697 1707	consciente
+T15	SYMPTOM 1815 1822	Afebril
+T16	SYMPTOM 1877 1910	tonos rítmicos a buena frecuencia
+T17	SYMPTOM 1928 1934	soplos
+T18	SYMPTOM 1963 1986	buen murmullo vesicular
+T19	SYMPTOM 1991 2023	ruidos patológicos sobreañadidos
+T20	SYMPTOM 2025 2052	Abdomen: blando, depresible
+T21	SYMPTOM 2058 2073	visceromegalias
+T23	SYMPTOM 2265 2278	ritmo sinusal
+T24	SYMPTOM 2300 2310	Eje normal
+T25	SYMPTOM 2422 2466	índice cardiotorácico no aumentado de tamaño
+T26	SYMPTOM 2484 2505	condensación pulmonar
+T27	SYMPTOM 2758 2780	Perfil hepático normal
+T28	SYMPTOM 2782 2809	Hormonas tiroideas normales
+T29	SYMPTOM 3010 3028	Coagulación normal
+T30	SYMPTOM 3129 3164	Válvula mitral de morfología normal
+T31	SYMPTOM 4044 4072	función sistólica conservada
+T32	SYMPTOM 4530 4565	VD con función sistólica conservada
+T33	SYMPTOM 4897 4946	Drenajes venosos sistémicos y pulmonares normales
+T34	SYMPTOM 5025 5055	Ventrículo derecho no dilatado
+T35	SYMPTOM 5077 5119	alteraciones en contractilidad segmentaria
+T36	SYMPTOM 5125 5153	función sistólica conservada
+T37	SYMPTOM 5486 5527	Función sistólica moderadamente deprimida
+T38	SYMPTOM 6166 6202	Patrón de realce tardío no coronario
+T4	SYMPTOM 1485 1488	DPN
+T120	SYMPTOM 1536 1555	recorte de diuresis
+T13	SYMPTOM 2312 2321	QRS ancho
+T121	SYMPTOM 2353 2398	Alteraciones secundarias de la repolarización
+T122	SYMPTOM 2507 2533	Senos costofrénicos libres
+T123	SYMPTOM 3977 4024	Ventrículo derecho (VD) de dimensiones normales
+T95	SYMPTOM 4207 4243	Vena cava inferior (VCI) no dilatada
+T126	SYMPTOM 4607 4653	Arterias coronarias angiográficamente normales
+T128	SYMPTOM 5349 5416	Movimiento disincrónico del septo respecto a pared no septal del VI
+T130	SYMPTOM 6131 6164	Movimiento disincrónico del septo
+T135	SYMPTOM 8382 8414	Arterias coronarias sin lesiones
+T137	SYMPTOM 1740 1775	Clínica y hemodinámicamente estable
+T147	SYMPTOM 2105 2144	Miembros inferiores: ausencia de edemas
+T152	SYMPTOM 3858 3917	Válvula aórtica trivalva, con apertura y cierre conservados
+T155	SYMPTOM 3507 3569	aquinesia de segmentos basal y medio del septo y cara inferior
+T156	SYMPTOM 8025 8037	asintomática
+T157	SYMPTOM 1668 1695	bien hidratada y perfundida
+T160	SYMPTOM 1710 1722	colaboradora
+T165	SYMPTOM 2944 2971	leucocitos (fórmula normal)
+T166	SYMPTOM 3410 3434	grosor miocárdico normal
+T167	SYMPTOM 3580 3609	hipoquinesia de cara anterior
+T170	SYMPTOM 2841 2886	movilización de marcadores de daño miocárdico
+T10	SYMPTOM 3215 3261	restricción de la movilidad del velo posterior
+T14	SYMPTOM 5537 5572	Jet de insuficiencia mitral central
+T96	SYMPTOM 5770 5828	sutil realce lineal intramiocárdico en septo basal y medio
+#3	AnnotatorNotes T4	Disnea paroxística nocturna

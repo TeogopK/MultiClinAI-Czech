@@ -1,0 +1,16 @@
+T1	PROCEDURE 141 152	Colonoscopy
+T2	PROCEDURE 220 231	gastroscopy
+T13	PROCEDURE 286 300	biopsies taken
+T14	PROCEDURE 302 333	Histology of the gastric biopsy
+T5	PROCEDURE 416 436	immunohistochemistry
+T18	PROCEDURE 532 548	Laboratory tests
+T9	PROCEDURE 777 785	sediment
+T4	PROCEDURE 854 866	renal biopsy
+T6	PROCEDURE 952 977	gastrointestinal biopsies
+T7	PROCEDURE 1073 1087	echocardiogram
+T10	PROCEDURE 1089 1158	Treatment was started with a selective cKit tyrosine kinase inhibitor
+T25	PROCEDURE 1221 1238	surgical excision
+T3	PROCEDURE 1299 1347	positron emission tomography/computed tomography
+T8	PROCEDURE 1349 1369	Pathological anatomy
+T29	PROCEDURE 1403 1451	excised stomach and splenic flexure of the colon
+T31	PROCEDURE 1626 1647	regular haemodialysis

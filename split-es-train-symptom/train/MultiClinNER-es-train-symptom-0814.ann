@@ -1,0 +1,22 @@
+T2	SYMPTOM 1502 1521	Buen estado general
+T3	SYMPTOM 1523 1541	eupneica en reposo
+T4	SYMPTOM 1543 1550	afebril
+T5	SYMPTOM 1582 1610	ingurgitación venosa yugular
+T6	SYMPTOM 1635 1649	tonos rítmicos
+T7	SYMPTOM 1654 1660	soplos
+T8	SYMPTOM 1664 1674	extratonos
+T9	SYMPTOM 1680 1709	murmullo vesicular conservado
+T11	SYMPTOM 1736 1769	Extremidades inferiores: no edema
+T12	SYMPTOM 1771 1818	Pulsos radiales y pedios presentes y simétricos
+T13	SYMPTOM 2022 2040	Coagulación normal
+T14	SYMPTOM 2228 2241	ritmo sinusal
+T15	SYMPTOM 2303 2346	índice cardiotorácico ligeramente aumentado
+T16	SYMPTOM 2402 2439	ventrículo izquierdo de tamaño normal
+T17	SYMPTOM 2681 2728	Ventrículo derecho de tamaño y función normales
+T18	SYMPTOM 3670 3685	pérdida de peso
+T93	SYMPTOM 625 641	elevación del ST
+T1	SYMPTOM 1011 1058	aquinesia anterior, apical y del septo anterior
+T94	SYMPTOM 2467 2476	Aquinesia
+T10	SYMPTOM 2800 2834	TCI: de buen calibre, sin lesiones
+T97	SYMPTOM 2547 2559	hipoquinesia
+T99	SYMPTOM 2966 3013	ACX: de buen calibre y desarrollo, sin lesiones

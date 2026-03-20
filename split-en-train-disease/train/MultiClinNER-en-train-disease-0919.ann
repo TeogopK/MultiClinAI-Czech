@@ -1,0 +1,39 @@
+T26	DISEASE 17 66	Allergy to sulphonamides and acetylsalicylic acid
+T27	DISEASE 97 110	dyslipidaemia
+T28	DISEASE 147 164	diabetes mellitus
+T29	DISEASE 169 190	arterial hypertension
+T30	DISEASE 192 195	AHT
+T55	DISEASE 201 213	toxic habits
+T24	DISEASE 238 272	severe symptomatic aortic stenosis
+T32	DISEASE 506 522	Bronchial asthma
+T33	DISEASE 566 584	Macular thrombosis
+T21	DISEASE 589 625	vitreous detachment in the right eye
+T34	DISEASE 655 670	Pelvic fracture
+T20	DISEASE 723 746	L1 impingement fracture
+T18	DISEASE 843 882	fracture of the neck of the right femur
+T35	DISEASE 2209 2229	deep vein thrombosis
+T36	DISEASE 2231 2234	DVT
+T53	DISEASE 2615 2639	Left bundle branch block
+T15	DISEASE 2641 2645	LBBB
+T37	DISEASE 2716 2728	cardiomegaly
+T38	DISEASE 2730 2756	Bilateral pleural effusion
+T14	DISEASE 2795 2811	pulmonary oedema
+T13	DISEASE 2851 2893	left ventricle with concentric hypertrophy
+T12	DISEASE 3169 3252	Fibrocalcified mitral valve mostly posteriorly with at least moderate regurgitation
+T11	DISEASE 3344 3355	moderate TR
+T39	DISEASE 3400 3420	pericardial effusion
+T40	DISEASE 3630 3645	Severe stenosis
+T41	DISEASE 3708 3737	Moderate mitral insufficiency
+T42	DISEASE 3950 3972	acute pulmonary oedema
+T31	DISEASE 4081 4188	severe aortic stenosis and insufficiency secondary to dysfunction of the mechanical aortic valve prosthesis
+T44	DISEASE 4277 4313	acute-subacute prosthetic thrombosis
+T45	DISEASE 4618 4635	cardiogenic shock
+T48	DISEASE 5094 5118	ventricular fibrillation
+T54	DISEASE 5319 5354	severe left ventricular dysfunction
+T46	DISEASE 5542 5559	cardiogenic shock
+T49	DISEASE 5617 5636	multi-organ failure
+T51	DISEASE 5664 5677	Heart failure
+T43	DISEASE 5696 5718	acute pulmonary oedema
+T1	DISEASE 5720 5836	Acute thrombosis of mechanical aortic prosthesis with stenosis and severe insufficiency secondary to anticoagulation
+T52	DISEASE 5939 5967	Refractory cardiogenic shock
+T50	DISEASE 5988 6007	Multi-organ failure

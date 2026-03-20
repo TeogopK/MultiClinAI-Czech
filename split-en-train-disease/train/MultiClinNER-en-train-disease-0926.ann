@@ -1,0 +1,44 @@
+T13	DISEASE 72 86	drug allergies
+T14	DISEASE 124 143	High blood pressure
+T15	DISEASE 170 176	smoker
+T16	DISEASE 760 773	heart failure
+T17	DISEASE 985 1031	cardiac tamponade secondary to cardiac rupture
+T51	DISEASE 1016 1031	cardiac rupture
+T18	DISEASE 1601 1609	thrombus
+T24	DISEASE 2344 2376	severe biventricular dysfunction
+T25	DISEASE 2511 2536	Mild pericardial effusion
+T48	DISEASE 2516 2536	pericardial effusion
+T19	DISEASE 2621 2629	thrombus
+T26	DISEASE 2842 2863	Severe LV dysfunction
+T27	DISEASE 2951 2959	aneurysm
+T28	DISEASE 2973 2983	thrombosis
+T29	DISEASE 3097 3146	dilated LV with large lateral wall pseudoaneurysm
+T30	DISEASE 3132 3146	pseudoaneurysm
+T53	DISEASE 3183 3203	LV free wall rupture
+T31	DISEASE 3209 3223	pseudoaneurysm
+T20	DISEASE 3318 3326	thrombus
+T32	DISEASE 3338 3352	pseudoaneurysm
+T44	DISEASE 3920 3936	pleural effusion
+T33	DISEASE 3992 4006	pseudoaneurysm
+T45	DISEASE 4187 4203	pleural effusion
+T34	DISEASE 4231 4245	pseudoaneurysm
+T21	DISEASE 4375 4383	thrombus
+T46	DISEASE 4528 4554	ventricular pseudoaneurysm
+T35	DISEASE 4540 4554	pseudoaneurysm
+T36	DISEASE 4936 4950	pseudoaneurysm
+T37	DISEASE 4999 5013	pseudoaneurysm
+T22	DISEASE 5049 5057	thrombus
+T49	DISEASE 5062 5082	pericardial effusion
+T47	DISEASE 5152 5178	ventricular pseudoaneurysm
+T38	DISEASE 5164 5178	pseudoaneurysm
+T23	DISEASE 5270 5278	thrombus
+T50	DISEASE 5291 5311	pericardial effusion
+T55	DISEASE 5418 5448	severe ventricular dysfunction
+T39	DISEASE 5454 5468	pseudoaneurysm
+T40	DISEASE 5903 5917	pseudoaneurysm
+T41	DISEASE 5980 5994	pseudoaneurysm
+T52	DISEASE 6298 6313	cardiac rupture
+T42	DISEASE 6360 6374	pseudoaneurysm
+T54	DISEASE 6411 6431	LV free wall rupture
+T43	DISEASE 6455 6469	pseudoaneurysm
+T56	DISEASE 6471 6501	Severe ventricular dysfunction

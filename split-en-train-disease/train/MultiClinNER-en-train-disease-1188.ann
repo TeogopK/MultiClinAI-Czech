@@ -1,0 +1,39 @@
+T20	DISEASE 80 93	heart disease
+T21	DISEASE 173 180	obesity
+T1	DISEASE 191 203	hypertension
+T22	DISEASE 205 218	dyslipidaemia
+T23	DISEASE 222 239	diabetes mellitus
+T24	DISEASE 292 319	cardiac amyloidosis type AL
+T26	DISEASE 579 598	cardiac amyloidosis
+T2	DISEASE 630 666	slightly hypertrophic left ventricle
+T30	DISEASE 688 713	Mild mitral insufficiency
+T31	DISEASE 740 754	valvulopathies
+T32	DISEASE 759 779	pericardial effusion
+T33	DISEASE 803 822	chronic hepatitis C
+T3	DISEASE 1035 1049	AL amyloidosis
+T4	DISEASE 1307 1321	AL amyloidosis
+T34	DISEASE 1361 1386	retroperitoneal haematoma
+T35	DISEASE 1610 1617	myeloma
+T39	DISEASE 1857 1873	multiple myeloma
+T54	DISEASE 2344 2367	arrhythmic heart sounds
+T42	DISEASE 2661 2681	deep vein thrombosis
+T43	DISEASE 2683 2686	DVT
+T5	DISEASE 3512 3514	AF
+T44	DISEASE 3804 3853	normal sized left ventricle with mild hypertrophy
+T6	DISEASE 3946 3983	Right ventricle (RV) slightly dilated
+T7	DISEASE 4024 4068	moderate low functional mitral insufficiency
+T8	DISEASE 4073 4105	moderate tricuspid insufficiency
+T27	DISEASE 4400 4419	cardiac amyloidosis
+T40	DISEASE 4591 4607	multiple myeloma
+T45	DISEASE 4674 4693	atrial fibrillation
+T10	DISEASE 4818 4873	AF with a previously unknown rapid ventricular response
+T9	DISEASE 5331 5367	slightly hypertrophic left ventricle
+T52	DISEASE 5452 5485	low moderate mitral regurgitation
+T48	DISEASE 5594 5618	congestive heart failure
+T49	DISEASE 5878 5900	AL cardiac amyloidosis
+T50	DISEASE 6092 6114	AL cardiac amyloidosis
+T51	DISEASE 6116 6146	Paroxysmal atrial fibrillation
+T13	DISEASE 6227 6260	Moderate low mitral insufficiency
+T53	DISEASE 6262 6313	Multiple myeloma with cardiac and renal involvement
+T12	DISEASE 6368 6384	mild bicytopenia
+T11	DISEASE 6386 6442	Chronic renal disease secondary to monoclonal gammopathy

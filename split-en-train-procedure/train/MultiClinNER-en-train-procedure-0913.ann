@@ -1,0 +1,30 @@
+T59	PROCEDURE 72 92	physical examination
+T60	PROCEDURE 131 151	PHYSICAL EXAMINATION
+T62	PROCEDURE 690 717	anti-inflammatory treatment
+T61	PROCEDURE 1184 1204	Physical examination
+T63	PROCEDURE 1411 1431	Cardiac auscultation
+T64	PROCEDURE 1490 1512	Pulmonary auscultation
+T65	PROCEDURE 1691 1708	Electrocardiogram
+T66	PROCEDURE 1710 1713	ECG
+T67	PROCEDURE 1896 1907	Chest X-ray
+T1	PROCEDURE 2179 2190	Blood tests
+T69	PROCEDURE 2192 2201	Haemogram
+T70	PROCEDURE 2314 2325	Coagulation
+T87	PROCEDURE 2363 2375	Biochemistry
+T88	PROCEDURE 2456 2460	ions
+T71	PROCEDURE 2501 2516	thyroid profile
+T72	PROCEDURE 2562 2590	Transthoracic echocardiogram
+T73	PROCEDURE 3325 3348	echocardiographic study
+T74	PROCEDURE 3350 3361	Cardiac MRI
+T76	PROCEDURE 3806 3832	Left heart catheterisation
+T77	PROCEDURE 3899 3926	Right heart catheterisation
+T79	PROCEDURE 4228 4244	Ventriculography
+T68	PROCEDURE 4417 4431	blood analysis
+T81	PROCEDURE 4569 4583	echocardiogram
+T75	PROCEDURE 4710 4721	cardiac MRI
+T82	PROCEDURE 5058 5081	left haemodynamic study
+T78	PROCEDURE 5162 5189	right heart catheterisation
+T83	PROCEDURE 5288 5303	cardiac surgery
+T84	PROCEDURE 5649 5677	interphrenic pericardiectomy
+T86	PROCEDURE 5707 5727	pathological anatomy
+T85	PROCEDURE 6086 6114	interphrenic pericardiectomy

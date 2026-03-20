@@ -1,0 +1,19 @@
+T1	SYMPTOM 2122 2131	midriasis
+T2	SYMPTOM 2138 2159	alteraciones visuales
+T3	SYMPTOM 515 524	midriasis
+T4	SYMPTOM 123 130	vómitos
+T5	SYMPTOM 545 582	disminución de la reactividad pupilar
+T6	SYMPTOM 168 194	tumefacción supraorbitaria
+T7	SYMPTOM 584 641	limitación de la supraducción y supraversión con diplopia
+T8	SYMPTOM 226 247	alteraciones visuales
+T9	SYMPTOM 658 706	edema palpebral superior doloroso a la palpación
+T10	SYMPTOM 801 806	edema
+T11	SYMPTOM 1699 1772	salida a presión de coágulos y sangre procedentes del hematoma extraconal
+T12	SYMPTOM 1824 1841	puntos sangrantes
+T13	SYMPTOM 2303 2315	asintomática
+T14	SYMPTOM 727 750	fondo de ojo fue normal
+T15	SYMPTOM 471 481	exoftalmos
+T16	SYMPTOM 810 847	anomalías vasculares en la conjuntiva
+T17	SYMPTOM 643 655	miodesopsias
+T18	SYMPTOM 1096 1170	hemograma, bioquímica y coagulación de rutina no mostró ninguna alteración
+A1	RESULTADO T18

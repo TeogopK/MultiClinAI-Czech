@@ -1,0 +1,60 @@
+T101	PROCEDURE 327 355	revascularización percutánea
+T102	PROCEDURE 392 464	implante de dos stents farmacoactivos en coronaria derecha y circunfleja
+T103	PROCEDURE 622 634	anticoagular
+T104	PROCEDURE 993 1007	hemofiltración
+T105	PROCEDURE 1656 1665	biopsiado
+T106	PROCEDURE 1692 1730	tomografía computarizada (TC) de tórax
+T107	PROCEDURE 2644 2662	Exploración física
+T108	PROCEDURE 2783 2796	gafas nasales
+T109	PROCEDURE 2913 2934	Auscultación cardiaca
+T110	PROCEDURE 3027 3048	Auscultación pulmonar
+T111	PROCEDURE 3206 3224	Electrocardiograma
+T112	PROCEDURE 3226 3229	ECG
+T113	PROCEDURE 3478 3481	ECG
+T114	PROCEDURE 3493 3512	Analítica de sangre
+T115	PROCEDURE 3995 4010	Perfil lipídico
+T116	PROCEDURE 4091 4105	Perfil férrico
+T117	PROCEDURE 4228 4241	Microbiología
+T118	PROCEDURE 4243 4255	Hemocultivos
+T119	PROCEDURE 4343 4353	Urocultivo
+T120	PROCEDURE 4424 4444	Radiografía de tórax
+T121	PROCEDURE 4677 4705	Ecocardiograma transtorácico
+T122	PROCEDURE 5528 5590	Coronariografía diagnóstica: acceso por arteria radial derecha
+T123	PROCEDURE 6227 6311	Coronariografía terapéutica: acceso por arteria femoral derecha guiado por ecografía
+T124	PROCEDURE 6331 6436	Intervencionsimo sobre tronco coronario izquierdo: se cruza guía hacia circunfleja y descendente anterior
+T125	PROCEDURE 6530 6577	se implante segundo stentfamacoactivo en TCI-DA
+T126	PROCEDURE 6644 6648	IVUS
+T127	PROCEDURE 6650 6702	Cierre vascular con dispositivo de cierre percutáneo
+T128	PROCEDURE 6753 6765	fluoroscopia
+T129	PROCEDURE 7210 7213	ECG
+T130	PROCEDURE 7406 7448	trasfusión de dos concentrados de hematíes
+T131	PROCEDURE 7580 7631	tratamiento antibiótico empírico de amplio espectro
+T132	PROCEDURE 7679 7699	doble antiagregación
+T133	PROCEDURE 7759 7774	anticoagulación
+T134	PROCEDURE 7782 7797	coronariografía
+T135	PROCEDURE 8254 8256	TC
+T136	PROCEDURE 8741 8751	trasfusión
+T137	PROCEDURE 9035 9070	revascularización percutánea de TCI
+T138	PROCEDURE 9124 9163	coronariografía por vía femoral derecha
+T139	PROCEDURE 9168 9245	implante de dos stents farmacoactivos en TCI-DA y TCI-Cx con técnicaDK-crusch
+T140	PROCEDURE 9347 9373	tratamiento antitrombótico
+T141	PROCEDURE 9378 9399	antiagregación simple
+T142	PROCEDURE 9939 10006	arterial coronaria parcialmente revascularizada de forma percutánea
+T169	PROCEDURE 9433 9448	anticoagulación
+T171	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T172	PROCEDURE 9791 9875	Revascularización de tronco coronario izquierdo distal con dos stents farmacoactivos
+T174	PROCEDURE 7260 7289	marcadores de daño miocárdico
+T175	PROCEDURE 7460 7493	tratamiento depletivo intravenoso
+T177	PROCEDURE 1718 1720	TC
+T178	PROCEDURE 4294 4314	Exudado nasofaríngeo
+T179	PROCEDURE 4365 4411	Antígenos de Legionella y Pneumococco en orina
+T180	PROCEDURE 6456 6496	Se implantastent farmacoactivo en TCI-Cx
+T181	PROCEDURE 6438 6454	Técnica DK-Crush
+T182	PROCEDURE 6513 6528	kissing-balloon
+T183	PROCEDURE 6593 6608	kissing balloon
+T184	PROCEDURE 6794 6805	eco-Doppler
+T260	PROCEDURE 8875 8906	tratamiento médico antianginoso
+T187	PROCEDURE 1542 1608	ciclos de ABVD (adriamicina, bleomicina, vinblastina, dacarbacina)
+T191	PROCEDURE 1772 1796	confirmación histológica
+T200	PROCEDURE 5919 5952	ramo marginal principal con stent
+T202	PROCEDURE 6718 6748	punción correcta femoral común

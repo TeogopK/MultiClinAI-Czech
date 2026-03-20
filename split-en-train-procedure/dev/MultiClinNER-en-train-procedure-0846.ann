@@ -1,0 +1,30 @@
+T53	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T7	PROCEDURE 173 201	euthyphalic vaginal delivery
+T8	PROCEDURE 325 333	delivery
+T54	PROCEDURE 635 655	physical examination
+T55	PROCEDURE 746 766	Cardiac auscultation
+T56	PROCEDURE 821 843	Pulmonary auscultation
+T57	PROCEDURE 982 999	Electrocardiogram
+T58	PROCEDURE 1001 1004	ECG
+T5	PROCEDURE 1100 1111	Blood tests
+T6	PROCEDURE 1122 1140	arterial blood gas
+T71	PROCEDURE 1211 1223	Biochemistry
+T72	PROCEDURE 1552 1563	Coagulation
+T59	PROCEDURE 1601 1612	Chest X-ray
+T60	PROCEDURE 1685 1713	Transthoracic echocardiogram
+T4	PROCEDURE 1715 1718	TTE
+T67	PROCEDURE 2277 2311	Cardiac magnetic resonance imaging
+T63	PROCEDURE 2573 2591	contrast injection
+T73	PROCEDURE 2874 2882	Serology
+T61	PROCEDURE 2975 3003	Transthoracic echocardiogram
+T62	PROCEDURE 3593 3650	transthoracic echocardiogram was performed at the bedside
+T64	PROCEDURE 3905 3924	inotropic treatment
+T65	PROCEDURE 3957 3966	diuretics
+T74	PROCEDURE 4164 4194	inotropic and diuretic support
+T3	PROCEDURE 4196 4216	Dobutamine perfusion
+T66	PROCEDURE 4235 4258	neurohormonal treatment
+T2	PROCEDURE 4429 4455	cardiac magnetic resonance
+T1	PROCEDURE 4690 4739	implant an implantable cardioverter defibrillator
+T68	PROCEDURE 4967 4980	genetic study
+T70	PROCEDURE 5199 5228	Subcutaneous ICD implantation
+T69	PROCEDURE 5288 5301	genetic study

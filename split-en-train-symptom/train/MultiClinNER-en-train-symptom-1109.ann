@@ -1,0 +1,24 @@
+T1	SYMPTOM 118 123	fever
+T3	SYMPTOM 177 183	chills
+T14	SYMPTOM 185 194	pale skin
+T16	SYMPTOM 232 240	weakness
+T15	SYMPTOM 245 261	lack of appetite
+T4	SYMPTOM 390 405	systolic murmur
+T12	SYMPTOM 473 541	electroencephalogram and chest X-ray showed no pathological findings
+T5	SYMPTOM 638 650	neutrophilia
+T6	SYMPTOM 665 677	elevated CRP
+T7	SYMPTOM 831 859	blood cultures were positive
+T17	SYMPTOM 861 912	Gram stain showed pleomorphic gram-positive bacilli
+T8	SYMPTOM 976 999	positive blood cultures
+T18	SYMPTOM 1003 1059	MALDI-TOF mass spectrometry was C. pseudodiphtheriticum.
+T19	SYMPTOM 1119 1185	10 mm vegetative formation (Figure 1) on the left ventricular side
+T13	SYMPTOM 1723 1772	isolation of Corynebacterium pseudodiphtheriticum
+T20	SYMPTOM 2131 2147	febrile symptoms
+T2	SYMPTOM 2446 2451	fever
+T9	SYMPTOM 2468 2484	frontal headache
+T10	SYMPTOM 2486 2500	disorientation
+T21	SYMPTOM 2505 2520	poor motor tone
+T22	SYMPTOM 2539 2577	right brachial paresis, right hemicara
+T11	SYMPTOM 2582 2589	aphasia
+T24	SYMPTOM 3168 3172	died
+T23	SYMPTOM 3250 3304	isolation of C. pseudodiphtheriticum in blood cultures

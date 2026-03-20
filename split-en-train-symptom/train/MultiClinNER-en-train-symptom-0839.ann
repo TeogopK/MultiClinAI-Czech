@@ -1,0 +1,38 @@
+T1	SYMPTOM 575 585	chest pain
+T2	SYMPTOM 7080 7090	chest pain
+T3	SYMPTOM 7674 7684	chest pain
+T4	SYMPTOM 709 729	progressive dyspnoea
+T5	SYMPTOM 978 993	eupneic at rest
+T6	SYMPTOM 1051 1062	Tachycardic
+T7	SYMPTOM 1075 1083	Afebrile
+T8	SYMPTOM 1088 1109	jugular ingurgitation
+T9	SYMPTOM 1398 1424	Lower limbs without oedema
+T10	SYMPTOM 1637 1664	elevated C-reactive protein
+T11	SYMPTOM 1679 1691	leukocytosis
+T12	SYMPTOM 2030 2042	leukocytosis
+T13	SYMPTOM 1693 1709	D-dimer negative
+T14	SYMPTOM 2109 2125	D-dimer negative
+T15	SYMPTOM 2046 2058	neutrophilia
+T16	SYMPTOM 2379 2388	Normal PR
+T17	SYMPTOM 2390 2400	Narrow QRS
+T18	SYMPTOM 2402 2450	Generalised flattening of the T wave. Normal QTc
+T19	SYMPTOM 2905 2934	Generalised hypocontractility
+T20	SYMPTOM 3129 3200	Right ventricle (RV) of normal dimensions with normal systolic function
+T21	SYMPTOM 3550 3573	Severely depressed LVEF
+T22	SYMPTOM 7630 7642	asymptomatic
+T24	SYMPTOM 2349 2366	sinus tachycardia
+T25	SYMPTOM 998 1017	tolerates decubitus
+T26	SYMPTOM 2073 2107	Platelets and coagulation in range
+T27	SYMPTOM 2490 2522	left atrium of normal dimensions
+T28	SYMPTOM 2621 2661	Left ventricle (LV) of normal dimensions
+T29	SYMPTOM 1911 1922	hypokinesia
+T30	SYMPTOM 3457 3468	hypokinesia
+T32	SYMPTOM 4927 4944	hypocontractility
+T33	SYMPTOM 938 970	general condition was acceptable
+T34	SYMPTOM 1210 1255	Cardiopulmonary auscultation was unremarkable
+T35	SYMPTOM 1257 1285	Abdomen soft and depressible
+T36	SYMPTOM 1374 1396	mucopurulent secretion
+T23	SYMPTOM 1513 1549	generalised flattening of the T wave
+T37	SYMPTOM 2001 2025	renal function preserved
+T38	SYMPTOM 2168 2195	normal cardiothoracic index
+T39	SYMPTOM 2538 2569	Mitral valve with fine leaflets

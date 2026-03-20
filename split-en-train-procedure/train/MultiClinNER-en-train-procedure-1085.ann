@@ -1,0 +1,34 @@
+T75	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 151 173	treated with diuretics
+T3	PROCEDURE 246 269	anticoagulant treatment
+T72	PROCEDURE 611 639	transthoracic echocardiogram
+T5	PROCEDURE 939 960	thyroid hormone tests
+T76	PROCEDURE 1690 1710	Physical examination
+T77	PROCEDURE 2003 2030	Cardiopulmonary examination
+T78	PROCEDURE 2154 2176	pulmonary auscultation
+T70	PROCEDURE 2362 2380	diuretic treatment
+T79	PROCEDURE 2525 2542	Electrocardiogram
+T80	PROCEDURE 2544 2547	ECG
+T81	PROCEDURE 2660 2671	Chest X-ray
+T73	PROCEDURE 2796 2824	transthoracic echocardiogram
+T10	PROCEDURE 3137 3150	Anticoagulant
+T82	PROCEDURE 3155 3185	intravenous diuretic treatment
+T89	PROCEDURE 3542 3556	renal function
+T11	PROCEDURE 3742 3756	Antibody tests
+T88	PROCEDURE 3763 3780	rheumatoid factor
+T12	PROCEDURE 3882 3890	serology
+T13	PROCEDURE 3937 3984	Ultrasound scans of the lower limbs and abdomen
+T15	PROCEDURE 4180 4206	ventilation/perfusion scan
+T16	PROCEDURE 4233 4273	CT angiography of the pulmonary arteries
+T83	PROCEDURE 4466 4485	Computed tomography
+T91	PROCEDURE 4550 4564	renal function
+T84	PROCEDURE 4571 4605	anticoagulant and diuretic therapy
+T18	PROCEDURE 4650 4665	thyroid hormone
+T19	PROCEDURE 5017 5096	antithyroid drugs (thiamazole), beta-blockers (propranolol) and corticosteroids
+T20	PROCEDURE 5129 5151	antithyroid antibodies
+T85	PROCEDURE 5373 5387	antibiotherapy
+T92	PROCEDURE 5686 5700	renal function
+T86	PROCEDURE 5713 5726	chest CT scan
+T87	PROCEDURE 5952 5973	antithyroid treatment
+T74	PROCEDURE 5984 6012	transthoracic echocardiogram
+T23	PROCEDURE 6509 6524	thyroid hormone

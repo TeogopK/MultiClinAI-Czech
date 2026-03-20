@@ -1,0 +1,36 @@
+T78	PROCEDURE 555 590	exploración neurológica y abdominal
+T79	PROCEDURE 606 609	ECG
+T80	PROCEDURE 882 918	tratamiento con doble antiagregación
+T81	PROCEDURE 1619 1639	Radiografía de tórax
+T82	PROCEDURE 1709 1724	Ecocardiografía
+T83	PROCEDURE 1948 1963	Coronariografía
+T84	PROCEDURE 2568 2579	RM cerebral
+T85	PROCEDURE 3122 3145	Aspirado de médula ósea
+T86	PROCEDURE 3147 3166	citometría de flujo
+T87	PROCEDURE 3497 3517	Electroencefalograma
+T88	PROCEDURE 3705 3724	TAC toracoabdominal
+T89	PROCEDURE 4492 4507	coronariografía
+T90	PROCEDURE 4557 4586	ecocardiografía transtorácica
+T91	PROCEDURE 4778 4789	RM cardiaca
+T92	PROCEDURE 4958 4969	RM cerebral
+T93	PROCEDURE 5044 5079	Eco-doppler de troncos supraórticos
+T94	PROCEDURE 5219 5242	aspirado de médula ósea
+T95	PROCEDURE 5297 5324	coprocultivo parasitológico
+T96	PROCEDURE 5393 5407	corticoterapia
+T97	PROCEDURE 6028 6069	se transfunden 2 concentrados de hematíes
+T98	PROCEDURE 6124 6136	colonoscopia
+T99	PROCEDURE 6291 6317	perfusión de sedoanalgesia
+T113	PROCEDURE 2034 2045	Rm cardiaca
+T114	PROCEDURE 2790 2808	Parásitos en heces
+T115	PROCEDURE 2934 2954	Marcadores tumorales
+T116	PROCEDURE 3264 3301	estudio de secuenciación del TCR Beta
+T117	PROCEDURE 3339 3351	Citogenética
+T118	PROCEDURE 3401 3423	Serología de helmintos
+T119	PROCEDURE 5100 5137	estudio de síndrome hipereosinofílico
+T13	PROCEDURE 2820 2840	Determinación de IgE
+T120	PROCEDURE 1117 1126	Analítica
+T125	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T132	PROCEDURE 2323 2362	administración de gadolinio intravenoso
+T136	PROCEDURE 5561 5587	bolus de metilprednisolona
+T19	PROCEDURE 3039 3054	IF plasma/orina
+T35	PROCEDURE 5159 5162	IFI

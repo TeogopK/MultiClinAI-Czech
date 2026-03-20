@@ -1,0 +1,35 @@
+T33	PROCEDURE 811 834	tratamiento antibiótico
+T34	PROCEDURE 837 847	corticoide
+T35	PROCEDURE 1279 1300	Auscultación cardiaca
+T36	PROCEDURE 1326 1347	Auscultación pulmonar
+T37	PROCEDURE 1469 1502	palpación profunda ni superficial
+T38	PROCEDURE 1728 1731	ECG
+T39	PROCEDURE 1873 1882	Hemograma
+T40	PROCEDURE 1939 1949	Hemostasia
+T41	PROCEDURE 2270 2289	Gasometría arterial
+T42	PROCEDURE 2343 2363	Radiografía de tórax
+T43	PROCEDURE 2454 2485	Ecocardiograma portátil (Vscan)
+T44	PROCEDURE 2768 2771	ECG
+T45	PROCEDURE 3056 3066	Serologías
+T46	PROCEDURE 3158 3169	Cateterismo
+T47	PROCEDURE 3220 3240	Radiografía de tórax
+T48	PROCEDURE 3300 3317	Test de la marcha
+T49	PROCEDURE 3457 3486	Resonancia magnética cardiaca
+T50	PROCEDURE 3702 3717	betabloqueantes
+T51	PROCEDURE 3890 3925	soporte inotrópico con levosimendán
+T52	PROCEDURE 3928 3976	tratamiento depletivo intravenoso con diuréticos
+T53	PROCEDURE 4173 4187	ecocardiograma
+T54	PROCEDURE 4394 4409	coronariografía
+T55	PROCEDURE 4535 4550	betabloqueantes
+T56	PROCEDURE 4742 4744	RM
+T57	PROCEDURE 4849 4873	estudio ecocardiográfico
+T58	PROCEDURE 4940 4957	test de la marcha
+T61	PROCEDURE 1984 1994	Bioquímica
+T62	PROCEDURE 2931 2941	Bioquímica
+T63	PROCEDURE 103 121	EXPLORACIÓN FÍSICA
+T64	PROCEDURE 4054 4081	monitorizado con telemetría
+T65	PROCEDURE 3347 3368	test de los 6 minutos
+T127	PROCEDURE 5247 5250	DAI
+T154	PROCEDURE 1197 1217	Cuello: no se palpan
+T15	PROCEDURE 3719 3737	antialdosterónicos
+T70	PROCEDURE 3740 3744	IECA

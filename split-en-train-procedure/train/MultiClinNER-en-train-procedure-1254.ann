@@ -1,0 +1,48 @@
+T64	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 238 274	treatment with a lipid-lowering drug
+T61	PROCEDURE 583 601	radical mastectomy
+T62	PROCEDURE 603 618	lymphadenectomy
+T63	PROCEDURE 623 640	chemoradiotherapy
+T2	PROCEDURE 1252 1275	questioned by apparatus
+T65	PROCEDURE 1278 1298	Physical examination
+T66	PROCEDURE 1426 1446	Cardiac auscultation
+T67	PROCEDURE 1628 1650	Pulmonary auscultation
+T68	PROCEDURE 1719 1733	deep palpation
+T69	PROCEDURE 1937 1946	Echoscopy
+T96	PROCEDURE 2323 2343	Portable chest X-ray
+T70	PROCEDURE 2531 2548	Electrocardiogram
+T94	PROCEDURE 2858 2869	Haemostasis
+T92	PROCEDURE 2895 2907	Biochemistry
+T95	PROCEDURE 3217 3228	Haemostasis
+T93	PROCEDURE 3252 3264	Biochemistry
+T71	PROCEDURE 3456 3470	Echocardiogram
+T72	PROCEDURE 4056 4076	Coronary angiography
+T75	PROCEDURE 4428 4456	Thoracic CT without contrast
+T73	PROCEDURE 4639 4659	Coronary angiography
+T3	PROCEDURE 4663 4757	percutaneous transluminal coronary angioplasty (PTCA) was performed on the LAD and RCA lesions
+T76	PROCEDURE 4711 4715	PTCA
+T4	PROCEDURE 4763 4817	implantation of everolimus-eluting drug-eluting stents
+T77	PROCEDURE 4851 4868	TAVI implantation
+T78	PROCEDURE 4876 4897	balloon valvuloplasty
+T5	PROCEDURE 4907 4944	SAPIEN ULTRA prosthesis was implanted
+T80	PROCEDURE 5539 5557	Vasoactive support
+T89	PROCEDURE 5607 5624	inotropic support
+T81	PROCEDURE 5680 5696	diuretic therapy
+T82	PROCEDURE 5851 5874	ultrafiltration therapy
+T83	PROCEDURE 5880 5903	echocardiographic study
+T74	PROCEDURE 6039 6059	coronary angiography
+T6	PROCEDURE 6196 6220	non-contrast thoracic CT
+T84	PROCEDURE 6303 6329	surgical valve replacement
+T7	PROCEDURE 6584 6626	cannulation for extracorporeal circulation
+T79	PROCEDURE 6710 6731	balloon valvuloplasty
+T86	PROCEDURE 6747 6751	TAVI
+T8	PROCEDURE 6901 6955	percutaneous revascularisation of the coronary lesions
+T87	PROCEDURE 6971 7008	percutaneous aortic valve replacement
+T90	PROCEDURE 7117 7134	inotropic support
+T91	PROCEDURE 7170 7189	vasopressor support
+T9	PROCEDURE 7248 7304	revascularisation of the AD and DC lesions was performed
+T10	PROCEDURE 7315 7374	percutaneous valve replacement via the right femoral artery
+T11	PROCEDURE 7400 7430	expansion of the bioprosthesis
+T97	PROCEDURE 7672 7721	advanced cardiopulmonary resuscitation manoeuvres
+T12	PROCEDURE 8085 8152	PCI with implantation of two everolimus-eluting drug-eluting stents
+T88	PROCEDURE 8197 8243	percutaneous aortic bioprosthesis implantation

@@ -1,0 +1,45 @@
+T31	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T33	PROCEDURE 442 459	electrocardiogram
+T1	PROCEDURE 494 507	chest CT scan
+T2	PROCEDURE 565 594	Infarction Code was activated
+T34	PROCEDURE 729 749	coronary angiography
+T32	PROCEDURE 752 772	Physical examination
+T37	PROCEDURE 992 1012	Cardiac auscultation
+T38	PROCEDURE 1061 1083	Pulmonary auscultation
+T39	PROCEDURE 1278 1281	ECG
+T3	PROCEDURE 1533 1544	Blood tests
+T56	PROCEDURE 1546 1561	cardiac markers
+T57	PROCEDURE 1619 1631	Biochemistry
+T40	PROCEDURE 1730 1746	Thyroid function
+T41	PROCEDURE 1768 1783	Iron metabolism
+T4	PROCEDURE 1867 1903	Autoimmunity and coagulation studies
+T42	PROCEDURE 1914 1923	Haemogram
+T35	PROCEDURE 1988 2008	Coronary angiography
+T43	PROCEDURE 2010 2021	aortography
+T36	PROCEDURE 2070 2090	Coronary angiography
+T5	PROCEDURE 2600 2637	Percutaneous coronary interventionism
+T6	PROCEDURE 2639 2650	PCI on LMCA
+T7	PROCEDURE 2778 2803	synchronised CVE at 100 J
+T8	PROCEDURE 3032 3090	implanting an intra-aortic balloon counterpulsation device
+T9	PROCEDURE 3092 3096	IABP
+T10	PROCEDURE 3102 3125	noradrenaline perfusion
+T45	PROCEDURE 3128 3156	Transthoracic echocardiogram
+T46	PROCEDURE 4012 4032	Intravenous contrast
+T47	PROCEDURE 4259 4276	inotropic support
+T48	PROCEDURE 4278 4313	non-invasive mechanical ventilation
+T49	PROCEDURE 4315 4318	NIV
+T11	PROCEDURE 4324 4328	IABP
+T12	PROCEDURE 4419 4422	ECV
+T13	PROCEDURE 4474 4492	withdrawal of IABP
+T14	PROCEDURE 4509 4517	inotrope
+T51	PROCEDURE 4534 4548	echocardiogram
+T15	PROCEDURE 4593 4613	intravenous inotrope
+T52	PROCEDURE 4751 4765	echocardiogram
+T16	PROCEDURE 5028 5042	ACE inhibitors
+T17	PROCEDURE 5047 5060	beta-blockers
+T18	PROCEDURE 5120 5147	double antiplatelet therapy
+T19	PROCEDURE 5201 5210	diuretics
+T53	PROCEDURE 5263 5277	echocardiogram
+T20	PROCEDURE 5371 5397	implant a subcutaneous ICD
+T21	PROCEDURE 5704 5772	Percutaneous coronary intervention on LMCA-AD (1 drug-eluting stent)
+T54	PROCEDURE 5836 5865	Subcutaneous ICD implantation

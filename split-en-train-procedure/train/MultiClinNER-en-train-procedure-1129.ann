@@ -1,0 +1,18 @@
+T41	PROCEDURE 125 145	physical examination
+T5	PROCEDURE 891 910	General examination
+T50	PROCEDURE 1085 1087	AC
+T51	PROCEDURE 1153 1155	AP
+T42	PROCEDURE 1394 1397	ECG
+T43	PROCEDURE 1473 1484	Chest X-ray
+T52	PROCEDURE 1590 1602	Biochemistry
+T44	PROCEDURE 1607 1621	haemacytometry
+T54	PROCEDURE 1640 1655	Chagas serology
+T45	PROCEDURE 1708 1724	Echocardiography
+T10	PROCEDURE 1987 2031	administration of echocardiographic contrast
+T13	PROCEDURE 2644 2647	MRI
+T47	PROCEDURE 3607 3616	diuretics
+T53	PROCEDURE 3618 3632	ACE inhibitors
+T55	PROCEDURE 3634 3647	beta-blockers
+T48	PROCEDURE 3649 3671	aldosterone inhibitors
+T49	PROCEDURE 3676 3695	oral anticoagulants
+T18	PROCEDURE 3955 4021	structural study, by means of echocardiography and genetic testing

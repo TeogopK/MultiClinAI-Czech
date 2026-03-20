@@ -1,0 +1,33 @@
+T1	SYMPTOM 2194 2258	encéfalo presenta un aspecto congestivo y edematoso generalizado
+T2	SYMPTOM 2118 2186	glándulas suprarrenales con médula de aspecto congestivo-hemorrágico
+T3	SYMPTOM 3123 3150	encéfalo congestión y edema
+T4	SYMPTOM 128 134	fiebre
+T5	SYMPTOM 152 162	odinofagia
+T6	SYMPTOM 1665 1727	petequias en la conjuntiva tarsal de ambos párpados inferiores
+T7	SYMPTOM 2601 2632	exudado subcutáneo del pectoral
+T8	SYMPTOM 278 285	vómitos
+T9	SYMPTOM 3405 3419	esplenomegalia
+T10	SYMPTOM 341 356	síndrome febril
+T11	SYMPTOM 509 541	empeoramiento del estado general
+T12	SYMPTOM 547 558	hipotensión
+T13	SYMPTOM 578 585	cefalea
+T14	SYMPTOM 588 597	dorsalgia
+T15	SYMPTOM 741 760	taquipnea en reposo
+T16	SYMPTOM 763 774	taquicardia
+T17	SYMPTOM 903 918	rigidez de nuca
+T18	SYMPTOM 922 943	focalidad neurológica
+T19	SYMPTOM 1017 1031	leucocitopenia
+T20	SYMPTOM 1045 1064	acidosis metabólica
+T21	SYMPTOM 295 318	deposiciones diarreicas
+T22	SYMPTOM 1963 2028	Fluido exudativo en tejido subcutáneo retromamario de ambos lados
+T23	SYMPTOM 717 739	regular estado general
+T24	SYMPTOM 1890 1906	espuma bronquial
+T25	SYMPTOM 2735 2844	reacción en cadena de la polimerasa (PCR) en tiempo real detectan la presencia de N. meningitidis serogrupo C
+T26	SYMPTOM 1268 1275	fallece
+T27	SYMPTOM 1784 1812	Congestión pulmonar moderada
+T32	SYMPTOM 3611 3617	muerte
+A1	RESULTADO T19
+A2	RESULTADO T20
+A3	RESULTADO T25
+A4	EXITUS T26
+A5	EXITUS T32

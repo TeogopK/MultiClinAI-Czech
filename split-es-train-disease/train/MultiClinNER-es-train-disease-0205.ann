@@ -1,0 +1,18 @@
+T2	DISEASE 728 738	HPTS grave
+T5	DISEASE 56 127	insuficiencia renal crónica secundaria a nefropatía túbulo-intersticial
+T6	DISEASE 2861 2903	calcificaciones de la arteria interdigital
+T7	DISEASE 2032 2044	hipocalcemia
+T8	DISEASE 97 127	nefropatía túbulo-intersticial
+T21	DISEASE 668 681	hipercalcemia
+T22	DISEASE 2419 2432	hipercalcemia
+T24	DISEASE 684 699	hiperfosfatemia
+T25	DISEASE 974 1013	hipertrofia de la glándula paratiroidea
+T26	DISEASE 1533 1548	hiperfosforemia
+T29	DISEASE 1054 1073	hiperparatiroidismo
+T32	DISEASE 1115 1159	CV en las arterias radiales e interdigitales
+T34	DISEASE 1202 1228	CV lineales en ambas mamas
+T39	DISEASE 306 327	rechazo humoral agudo
+T45	DISEASE 353 385	rechazo humoral y vascular agudo
+#1	AnnotatorNotes T2	   HPTS: hiperparatiroidismo secundario
+#2	AnnotatorNotes T32	   CV: calcificaciones vasculares
+#3	AnnotatorNotes T34	   CV: calcificaciones vasculares

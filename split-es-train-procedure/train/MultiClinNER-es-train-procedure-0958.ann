@@ -1,0 +1,36 @@
+T72	PROCEDURE 243 287	intervenida de prótesis de rodilla izquierda
+T73	PROCEDURE 1042 1060	EXPLORACIÓN FÍSICA
+T74	PROCEDURE 1295 1316	Auscultación cardiaca
+T75	PROCEDURE 1384 1405	Auscultación pulmonar
+T76	PROCEDURE 1686 1689	ECG
+T77	PROCEDURE 1826 1855	Radiografía de tórax portátil
+T78	PROCEDURE 1961 1970	Hemograma
+T79	PROCEDURE 2330 2341	Coagulación
+T80	PROCEDURE 2410 2438	Ecocardiograma transtorácico
+T81	PROCEDURE 2757 2786	Ecocardiograma transesofágico
+T82	PROCEDURE 3084 3104	Estudio hemodinámico
+T83	PROCEDURE 3539 3555	Ventriculografía
+T84	PROCEDURE 3729 3741	Angioplastia
+T86	PROCEDURE 3948 3994	ADA media y se implanta un stent farmacoactivo
+T87	PROCEDURE 4222 4279	soporte ventilatorio con ventilación mecánica no invasiva
+T89	PROCEDURE 4282 4319	tratamiento diurético y vasodilatador
+T90	PROCEDURE 4420 4434	ecocardiograma
+T91	PROCEDURE 4606 4626	estudio hemodinámico
+T92	PROCEDURE 4848 4864	cirugía cardiaca
+T93	PROCEDURE 4893 4934	revascularización percutánea de OM1 y ADA
+T94	PROCEDURE 5005 5033	revascularización percutánea
+T95	PROCEDURE 5155 5176	tratamiento diurético
+T96	PROCEDURE 5290 5375	tratamiento percutáneo de su patología valvular mitral mediante dispositivo MitraClip
+T97	PROCEDURE 5469 5538	implante de un único clip en posición mitral, guiado por fluoroscopia
+T98	PROCEDURE 5541 5570	ecocardiograma transesofágico
+T99	PROCEDURE 6111 6194	Revascularización percutánea parcial (descendente anterior [DA] y circunfleja [Cx])
+T100	PROCEDURE 6257 6316	Reparación percutánea mitral mediante dispositivo MitraClip
+T106	PROCEDURE 2068 2078	Bioquímica
+T107	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T108	PROCEDURE 2179 2208	Marcadores de daño miocárdico
+T109	PROCEDURE 199 240	hipotiroidismo en tratamiento sustitutivo
+T110	PROCEDURE 2163 2168	iones
+T111	PROCEDURE 3912 3951	predilata con balón la lesión de la ADA
+T22	PROCEDURE 3793 3827	se implanta un stent farmacoactivo
+T122	PROCEDURE 1934 1943	Analítica
+T150	PROCEDURE 1543 1552	se palpan

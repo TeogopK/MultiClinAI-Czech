@@ -1,0 +1,31 @@
+T35	DISEASE 82 105	ischaemic heart disease
+T37	DISEASE 160 174	drug allergies
+T55	DISEASE 179 191	toxic habits
+T38	DISEASE 193 217	Diabetes mellitus type 2
+T50	DISEASE 247 286	Hypercholesterolemia type dyslipidaemia
+T39	DISEASE 386 416	Pneumocystis carinii pneumonia
+T3	DISEASE 1321 1365	ST-segment elevation acute coronary syndrome
+T2	DISEASE 1367 1372	STEMI
+T40	DISEASE 2118 2135	sinus bradycardia
+T56	DISEASE 2752 2783	acute pleuroparenchymal lesions
+T42	DISEASE 2813 2850	single-vessel coronary artery disease
+T43	DISEASE 2852 2906	Thrombotic occlusion in proximal right coronary artery
+T6	DISEASE 2908 3004	Moderate lesions in proximal anterior descending, middle anterior descending and marginal branch
+T58	DISEASE 3074 3082	thrombus
+T57	DISEASE 3229 3292	non-dilated left ventricle with moderate concentric hypertrophy
+T10	DISEASE 3497 3567	Normal mitral valve in structure and function, with mild insufficiency
+T44	DISEASE 3675 3695	pericardial effusion
+T45	DISEASE 3867 3878	arrhythmias
+T46	DISEASE 3882 3895	heart failure
+T47	DISEASE 3897 3916	High blood pressure
+T12	DISEASE 4009 4021	hypertension
+T41	DISEASE 4145 4162	sinus bradycardia
+T36	DISEASE 4950 4973	Ischaemic heart disease
+T16	DISEASE 4975 4986	Lower STEMI
+T17	DISEASE 4988 5025	Coronary artery disease of one vessel
+T18	DISEASE 5116 5135	inferior infarction
+T48	DISEASE 5205 5226	Arterial hypertension
+T49	DISEASE 5228 5261	Secondary moderate LV hypertrophy
+T51	DISEASE 5263 5276	Dyslipidaemia
+T53	DISEASE 5278 5295	Diabetes mellitus
+T54	DISEASE 5325 5338	HIV infection

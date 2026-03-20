@@ -1,0 +1,43 @@
+T44	DISEASE 86 112	parada cardiorrespiratoria
+T45	DISEASE 157 179	Alérgico a rifampicina
+T46	DISEASE 181 202	Hipertensión arterial
+T47	DISEASE 235 250	hábitos tóxicos
+T48	DISEASE 323 334	cardiopatía
+T50	DISEASE 955 978	fibrilación ventricular
+T51	DISEASE 1303 1329	parada cardiorrespiratoria
+T52	DISEASE 1342 1365	taquicardia ventricular
+T53	DISEASE 1810 1836	parada cardiorrespiratoria
+T54	DISEASE 1852 1875	hemorragia intracraneal
+T55	DISEASE 1877 1901	tromboembolismo pulmonar
+T56	DISEASE 1904 1926	síndrome aórtico agudo
+T57	DISEASE 2673 2696	fibrilación ventricular
+T58	DISEASE 2770 2810	trastorno de conducción intraventricular
+T59	DISEASE 4160 4177	disección aórtica
+T60	DISEASE 4242 4266	tromboembolismo pulmonar
+T61	DISEASE 4346 4376	derrame pericárdico ni pleural
+T62	DISEASE 4378 4395	Adenopatía hiliar
+T63	DISEASE 4429 4497	Adenopatías calcificadas prevasculares lateroaórticas e interlobares
+T64	DISEASE 4869 4880	atelectasia
+T65	DISEASE 4955 4971	broncoaspiración
+T66	DISEASE 4973 5037	Calcificación subpleural lineal en subsegmento posterior del LSI
+T67	DISEASE 5512 5540	insuficiencia mitral trivial
+T68	DISEASE 5925 5968	taquicardia ventricular monomorfa sostenida
+T69	DISEASE 5985 6008	fibrilación ventricular
+T70	DISEASE 6624 6644	insuficiencia mitral
+T71	DISEASE 6652 6677	insuficiencia tricuspídea
+T72	DISEASE 6679 6681	IT
+T73	DISEASE 6844 6870	parada cardiorrespiratoria
+T74	DISEASE 6970 6994	síndrome coronario agudo
+T75	DISEASE 7616 7649	taquicardia ventricular sostenida
+T76	DISEASE 7666 7689	fibrilación ventricular
+T77	DISEASE 7818 7829	vasoespasmo
+T78	DISEASE 8140 8149	infección
+T79	DISEASE 8617 8640	cardiopatía estructural
+T80	DISEASE 8937 9032	Síndrome coronario agudo con elevación no persistente del segmento ST por vasoespasmo coronario
+T81	DISEASE 9088 9140	Infección respiratoria secundaria a broncoaspiración
+T82	DISEASE 8819 8902	Parada cardiorrespiratoria extrahospitalaria recuperada por fibrilación ventricular
+T83	DISEASE 581 598	episodio sincopal
+T84	DISEASE 6646 6648	IM
+T175	DISEASE 342 355	muerte súbita
+T140	DISEASE 3851 3884	arterias coronarias sin estenosis
+#1	AnnotatorNotes T84	 insuficiencia mitral

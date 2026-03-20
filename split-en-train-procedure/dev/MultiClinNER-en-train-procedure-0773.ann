@@ -1,0 +1,28 @@
+T41	PROCEDURE 313 330	parathyroidectomy
+T42	PROCEDURE 437 499	mitral and aortic valve replacement with biological prostheses
+T43	PROCEDURE 550 592	replacement with two mechanical prostheses
+T57	PROCEDURE 612 679	aortic prosthesis was implanted at the level of the coronary ostium
+T1	PROCEDURE 712 812	two aortocoronary grafts (saphenous vein to the anterior interventricular and right coronary artery)
+T2	PROCEDURE 931 1004	mitral valve replacement was performed with another mechanical prosthesis
+T3	PROCEDURE 1013 1124	aortocoronary grafts (saphenous vein to the middle anterior descending artery and to the right coronary artery)
+T44	PROCEDURE 1135 1161	DDD pacemaker implantation
+T45	PROCEDURE 1473 1501	transthoracic echocardiogram
+T4	PROCEDURE 1503 1506	TTE
+T46	PROCEDURE 1537 1567	transesophageal echocardiogram
+T5	PROCEDURE 1569 1572	TEE
+T48	PROCEDURE 1772 1797	percutaneous leak closure
+T49	PROCEDURE 1848 1867	general anaesthesia
+T47	PROCEDURE 1877 1909	transesophageal echocardiography
+T6	PROCEDURE 1945 1990	Initial access was via the right femoral vein
+T54	PROCEDURE 2002 2022	transseptal puncture
+T55	PROCEDURE 2173 2205	puncture the left femoral artery
+T7	PROCEDURE 2455 2491	creating an arteriovenous (AV) shunt
+T50	PROCEDURE 2519 2525	3D TEE
+T8	PROCEDURE 2863 2901	left femoral artery puncture is closed
+T9	PROCEDURE 2937 2946	extubated
+T51	PROCEDURE 3050 3070	Physical examination
+T52	PROCEDURE 3295 3315	Cardiac auscultation
+T53	PROCEDURE 3339 3361	Pulmonary auscultation
+T10	PROCEDURE 3691 3694	TTE
+T11	PROCEDURE 4209 4212	TEE
+T12	PROCEDURE 4483 4486	TTE

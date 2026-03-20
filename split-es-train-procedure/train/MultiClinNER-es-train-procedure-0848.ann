@@ -1,0 +1,25 @@
+T50	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T51	PROCEDURE 834 852	Exploración física
+T52	PROCEDURE 1179 1200	Auscultación cardiaca
+T53	PROCEDURE 1235 1256	Auscultación pulmonar
+T54	PROCEDURE 1494 1512	Electrocardiograma
+T55	PROCEDURE 1716 1735	Analítica de sangre
+T56	PROCEDURE 1881 1891	hemostasia
+T57	PROCEDURE 1915 1932	gasometría venosa
+T58	PROCEDURE 2203 2223	Marcadores cardiacos
+T59	PROCEDURE 2288 2307	Analítica de sangre
+T60	PROCEDURE 2498 2512	perfil férrico
+T61	PROCEDURE 2586 2599	Microbiología
+T62	PROCEDURE 2601 2618	PCR de SARS-CoV-2
+T63	PROCEDURE 2629 2649	Radiografía de tórax
+T64	PROCEDURE 2982 3010	Ecocardiograma transtorácico
+T65	PROCEDURE 3835 3850	Coronariografía
+T66	PROCEDURE 4891 4943	oxigenoterapia mediante cánulas nasales a bajo flujo
+T67	PROCEDURE 4959 5007	tratamiento diurético con furosemida intravenosa
+T69	PROCEDURE 5224 5242	antialdosterónicos
+T70	PROCEDURE 5758 5772	insulinización
+T71	PROCEDURE 5783 5804	antidiabéticos orales
+T72	PROCEDURE 5924 5949	tratamiento diabetológico
+T38	PROCEDURE 5217 5221	ARNI
+T120	PROCEDURE 5550 5569	estudios analíticos
+T109	PROCEDURE 5204 5215	betabloqueo

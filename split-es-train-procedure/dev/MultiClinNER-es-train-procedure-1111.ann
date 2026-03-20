@@ -1,0 +1,27 @@
+T90	PROCEDURE 1361 1364	ECG
+T91	PROCEDURE 1750 1753	ECG
+T92	PROCEDURE 2048 2066	electrocardiograma
+T93	PROCEDURE 2073 2102	ecocardioscopia a pie de cama
+T94	PROCEDURE 2284 2302	EXPLORACIÓN FÍSICA
+T95	PROCEDURE 2582 2610	oxigenoterapia suplementaria
+T96	PROCEDURE 2647 2668	Auscultación cardiaca
+T97	PROCEDURE 2707 2728	Auscultación pulmonar
+T98	PROCEDURE 2897 2900	ECG
+T99	PROCEDURE 3114 3134	Radiografía de tórax
+T100	PROCEDURE 3406 3417	Coagulación
+T101	PROCEDURE 3447 3476	Marcadores de daño miocárdico
+T102	PROCEDURE 3545 3560	Perfil lipídico
+T103	PROCEDURE 4133 4148	Ecocardiografía
+T104	PROCEDURE 5032 5047	Coronariografía
+T105	PROCEDURE 5179 5221	implante de un stent directo farmacoactivo
+T106	PROCEDURE 5667 5690	monitorización continua
+T107	PROCEDURE 5737 5752	coronariografía
+T108	PROCEDURE 5862 5957	ACD, que se revasculariza mediante implante de un stent farmacoactivo y posdilatación con balón
+T109	PROCEDURE 6222 6245	rehabilitación cardiaca
+T110	PROCEDURE 6706 6762	ACD media revascularizada mediante 1 stent farmacoactivo
+T122	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T123	PROCEDURE 3669 3698	Ecocardioscopia a pie de cama
+T124	PROCEDURE 3324 3329	iones
+T132	PROCEDURE 3271 3280	Analítica
+T136	PROCEDURE 328 351	Intervención quirúrgica
+T52	PROCEDURE 5244 5281	posdilatación con balón no compliante

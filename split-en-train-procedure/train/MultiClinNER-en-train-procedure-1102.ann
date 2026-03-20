@@ -1,0 +1,23 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T56	PROCEDURE 1101 1121	PHYSICAL EXAMINATION
+T57	PROCEDURE 1247 1267	Cardiac auscultation
+T58	PROCEDURE 1358 1380	Pulmonary auscultation
+T59	PROCEDURE 1705 1722	Electrocardiogram
+T60	PROCEDURE 1724 1727	ECG
+T61	PROCEDURE 1833 1844	Chest X-ray
+T62	PROCEDURE 2035 2046	Coagulation
+T75	PROCEDURE 2076 2088	Biochemistry
+T63	PROCEDURE 2511 2527	thyroid hormones
+T76	PROCEDURE 2546 2567	Serum immunoglobulins
+T64	PROCEDURE 2661 2680	Urine protein study
+T65	PROCEDURE 2713 2741	Transthoracic echocardiogram
+T67	PROCEDURE 4199 4222	Myocardial scintigraphy
+T68	PROCEDURE 4429 4443	Electromyogram
+T70	PROCEDURE 4449 4473	neurophysiological study
+T71	PROCEDURE 4684 4718	depletive treatment with diuretics
+T77	PROCEDURE 4861 4875	renal function
+T72	PROCEDURE 5103 5112	telemetry
+T66	PROCEDURE 5355 5383	transthoracic echocardiogram
+T73	PROCEDURE 5478 5504	diagnostic catheterisation
+T69	PROCEDURE 5628 5642	electromyogram
+T74	PROCEDURE 6094 6111	valve replacement

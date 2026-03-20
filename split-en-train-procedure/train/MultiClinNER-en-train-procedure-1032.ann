@@ -1,0 +1,81 @@
+T98	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T151	PROCEDURE 216 249	anticoagulated with acenucoumarol
+T97	PROCEDURE 262 296	Surgical interventions: right knee
+T99	PROCEDURE 1029 1049	Physical examination
+T156	PROCEDURE 1194 1207	Head and neck
+T100	PROCEDURE 1230 1250	Cardiac auscultation
+T101	PROCEDURE 1274 1296	Pulmonary auscultation
+T102	PROCEDURE 1490 1507	Electrocardiogram
+T103	PROCEDURE 1509 1512	ECG
+T5	PROCEDURE 1662 1678	Laboratory tests
+T107	PROCEDURE 2197 2208	Chest X-ray
+T108	PROCEDURE 2340 2354	Echocardiogram
+T104	PROCEDURE 3156 3159	ECG
+T8	PROCEDURE 3391 3395	ECGs
+T112	PROCEDURE 3397 3448	Urgent cardiac catheterisation: right radial access
+T113	PROCEDURE 3707 3741	percutaneous coronary intervention
+T10	PROCEDURE 3743 3746	PCI
+T160	PROCEDURE 3749 3815	Balloon counterpulsation is implanted via the right femoral artery
+T109	PROCEDURE 3817 3831	Echocardiogram
+T144	PROCEDURE 4489 4584	Angio-CT of coronary arteries: synchronised helical study without and with intravenous contrast
+T114	PROCEDURE 4586 4603	Median sternotomy
+T159	PROCEDURE 4605 4638	Post-surgical patch at apex level
+T105	PROCEDURE 4846 4849	ECG
+T106	PROCEDURE 5041 5044	ECG
+T152	PROCEDURE 5269 5279	monitoring
+T115	PROCEDURE 5315 5344	invasive coronary angiography
+T15	PROCEDURE 5373 5400	double antiplatelet therapy
+T124	PROCEDURE 5405 5436	anticoagulation with enoxaparin
+T116	PROCEDURE 5613 5622	telemetry
+T117	PROCEDURE 5711 5720	telemetry
+T119	PROCEDURE 5758 5773	catheterisation
+T123	PROCEDURE 5970 5994	emergent catheterisation
+T121	PROCEDURE 6014 6029	catheterisation
+T161	PROCEDURE 6204 6252	implant an intra-aortic balloon counterpulsation
+T17	PROCEDURE 6394 6441	double antiplatelet therapy (clopidogrel + ASA)
+T125	PROCEDURE 6446 6477	anticoagulation with enoxaparin
+T122	PROCEDURE 6512 6527	catheterisation
+T126	PROCEDURE 6691 6706	Echocardioscopy
+T128	PROCEDURE 6888 6910	orotracheal intubation
+T129	PROCEDURE 6922 6940	pericardiocentesis
+T130	PROCEDURE 6987 7002	cardiac surgery
+T18	PROCEDURE 7035 7042	surgery
+T158	PROCEDURE 7044 7067	Noradrenaline perfusion
+T19	PROCEDURE 7110 7123	serum therapy
+T134	PROCEDURE 7128 7178	several red blood cell concentrates are transfused
+T136	PROCEDURE 7226 7236	sternotomy
+T20	PROCEDURE 7281 7309	extraction of abundant clots
+T139	PROCEDURE 7485 7507	direct cardiac massage
+T23	PROCEDURE 7512 7551	digital tamponade of the bleeding point
+T131	PROCEDURE 7665 7680	cardiac surgery
+T24	PROCEDURE 7707 7764	apical defect was repaired with direct suture and BioGlue
+T25	PROCEDURE 7842 7854	resternotomy
+T153	PROCEDURE 7990 7997	sedated
+T26	PROCEDURE 8019 8091	ventilator in "Pressure Controlled Volume" mode with standard parameters
+T157	PROCEDURE 8098 8162	continuous perfusion of dobutamine, noradrenaline and adrenaline
+T162	PROCEDURE 8218 8242	balloon counterpulsation
+T154	PROCEDURE 8291 8298	sedated
+T140	PROCEDURE 8303 8312	intubated
+T141	PROCEDURE 8324 8354	inotropic and vasoactive drugs
+T142	PROCEDURE 8502 8517	haemofiltration
+T143	PROCEDURE 8667 8684	thoracic drainage
+T127	PROCEDURE 8692 8707	Echocardioscopy
+T132	PROCEDURE 8847 8862	cardiac surgery
+T137	PROCEDURE 8896 8906	sternotomy
+T155	PROCEDURE 8936 8986	extracting abundant clots from the pericardial sac
+T29	PROCEDURE 9101 9115	Teflon support
+T30	PROCEDURE 9204 9248	catecholamines (noradrenaline and adrenaline
+T163	PROCEDURE 9261 9294	repeated boluses of phenylephrine
+T138	PROCEDURE 9297 9339	Sternotomy was left open with a Bogotá bag
+T31	PROCEDURE 9367 9382	sternal closure
+T110	PROCEDURE 9586 9600	echocardiogram
+T32	PROCEDURE 9945 9984	CT angiography of the coronary arteries
+T133	PROCEDURE 10121 10136	cardiac surgery
+T33	PROCEDURE 10161 10171	reoperatio
+T145	PROCEDURE 10293 10306	haemodialysis
+T111	PROCEDURE 10474 10488	echocardiogram
+T147	PROCEDURE 10613 10621	dialysis
+T35	PROCEDURE 10903 10924	coronary intervention
+T146	PROCEDURE 11223 11236	haemodialysis
+T148	PROCEDURE 11238 11253	Polytransfusion
+T150	PROCEDURE 11265 11279	anticoagulated

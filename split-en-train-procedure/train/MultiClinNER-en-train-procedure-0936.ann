@@ -1,0 +1,24 @@
+T58	PROCEDURE 682 702	Physical examination
+T73	PROCEDURE 847 873	O2 supply in nasal goggles
+T59	PROCEDURE 974 998	neurological examination
+T60	PROCEDURE 1343 1354	Chest X-ray
+T61	PROCEDURE 1433 1450	Electrocardiogram
+T4	PROCEDURE 1554 1563	Haemogram
+T74	PROCEDURE 1648 1659	Coagulation
+T76	PROCEDURE 1705 1717	Biochemistry
+T5	PROCEDURE 1840 1856	Venous blood gas
+T62	PROCEDURE 1923 1937	Urine sediment
+T77	PROCEDURE 2079 2095	analytical study
+T63	PROCEDURE 2206 2222	echocardiography
+T65	PROCEDURE 2602 2622	Chest CT angiography
+T66	PROCEDURE 2887 2902	Anticoagulation
+T68	PROCEDURE 2972 2992	venous Doppler study
+T64	PROCEDURE 3157 3181	Doppler echocardiography
+T69	PROCEDURE 3292 3310	autoimmunity study
+T7	PROCEDURE 3402 3417	Studies of iron
+T75	PROCEDURE 3428 3442	tumour markers
+T70	PROCEDURE 3462 3474	proteinogram
+T71	PROCEDURE 3562 3581	24-hour urine study
+T67	PROCEDURE 3638 3653	anticoagulation
+T72	PROCEDURE 3742 3775	inferior vena cava filter implant
+T8	PROCEDURE 4019 4032	thrombophilia

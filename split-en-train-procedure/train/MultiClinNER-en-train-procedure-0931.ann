@@ -1,0 +1,23 @@
+T43	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T45	PROCEDURE 217 234	dietary treatment
+T32	PROCEDURE 603 620	electrocardiogram
+T33	PROCEDURE 622 625	ECG
+T35	PROCEDURE 769 783	Pulse oximetry
+T36	PROCEDURE 846 867	pulmonary ventilation
+T47	PROCEDURE 943 958	are auscultated
+T34	PROCEDURE 1059 1062	ECG
+T2	PROCEDURE 1251 1276	Myocardial damage markers
+T3	PROCEDURE 1561 1583	Doppler echocardiogram
+T44	PROCEDURE 1986 2000	colour Doppler
+T48	PROCEDURE 2121 2136	Cardioresonance
+T37	PROCEDURE 2474 2505	Diagnostic coronary angiography
+T4	PROCEDURE 2510 2531	coronary intervention
+T6	PROCEDURE 2582 2593	Balloon PCI
+T38	PROCEDURE 2598 2635	implantation of 2 drug-eluting stents
+T39	PROCEDURE 2653 2678	neuromuscular examination
+T7	PROCEDURE 3002 3018	laboratory tests
+T46	PROCEDURE 3035 3047	Biochemistry
+T8	PROCEDURE 3229 3266	Basal fasting blood glucose and HbA1C
+T40	PROCEDURE 3811 3820	ergometry
+T41	PROCEDURE 4366 4412	Percutaneous transluminal coronary angioplasty
+T42	PROCEDURE 4417 4456	implantation of two drug-eluting stents

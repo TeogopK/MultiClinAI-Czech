@@ -1,0 +1,10 @@
+T1	SYMPTOM 252 278	factor reumatoide positivo
+T2	SYMPTOM 491 500	febrícula
+T3	SYMPTOM 502 535	empeoramiento de la función renal
+T4	SYMPTOM 911 968	pared vesical denudada e inflamada con sangrado en sábana
+T5	SYMPTOM 604 612	falleció
+T6	SYMPTOM 478 489	hipotensión
+T9	SYMPTOM 440 462	hematuria macróscopica
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	EXITUS T5

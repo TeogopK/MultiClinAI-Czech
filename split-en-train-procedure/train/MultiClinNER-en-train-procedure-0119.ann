@@ -1,0 +1,24 @@
+T12	PROCEDURE 71 91	antibiotic treatment
+T8	PROCEDURE 173 188	prostate biopsy
+T14	PROCEDURE 210 236	anatomopathological result
+T9	PROCEDURE 317 343	nuclear magnetic resonance
+T10	PROCEDURE 390 402	appendectomy
+T11	PROCEDURE 407 429	inguinal herniorrhaphy
+T16	PROCEDURE 431 449	Surgical treatment
+T1	PROCEDURE 475 580	radical prostatectomy, with access via the retropubic and extraperitoneal route using the Walsh technique
+T26	PROCEDURE 590 599	operation
+T27	PROCEDURE 869 884	abdominal X-ray
+T30	PROCEDURE 1176 1198	CT scan of the abdomen
+T6	PROCEDURE 1610 1661	Drainage was placed in the collection by ultrasound
+T2	PROCEDURE 1651 1661	ultrasound
+T33	PROCEDURE 1673 1695	cultures of the liquid
+T34	PROCEDURE 1804 1824	antibiotic treatment
+T35	PROCEDURE 1867 1875	cultures
+T4	PROCEDURE 1879 1895	nasogastric tube
+T5	PROCEDURE 1911 1958	oral feeding was replaced by parenteral feeding
+T3	PROCEDURE 2000 2010	ultrasound
+T38	PROCEDURE 2051 2094	use of contrast in a gastroduodenal transit
+T39	PROCEDURE 2126 2131	drain
+T7	PROCEDURE 2231 2256	drainage tube was removed
+T41	PROCEDURE 2306 2315	operation
+T15	PROCEDURE 2363 2379	undetectable PSA

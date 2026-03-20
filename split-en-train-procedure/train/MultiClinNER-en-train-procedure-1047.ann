@@ -1,0 +1,29 @@
+T58	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T54	PROCEDURE 292 332	hypothyroidism under replacement therapy
+T55	PROCEDURE 358 367	histology
+T2	PROCEDURE 551 571	sentinel node biopsy
+T75	PROCEDURE 819 841	somatostatin analogues
+T56	PROCEDURE 907 944	treatment with somatostatin analogues
+T59	PROCEDURE 1506 1526	Physical examination
+T60	PROCEDURE 1658 1672	pulse oximetry
+T61	PROCEDURE 1700 1722	Pulmonary auscultation
+T62	PROCEDURE 1756 1776	Cardiac auscultation
+T63	PROCEDURE 1927 1948	Abdominal examination
+T3	PROCEDURE 1965 1974	palpation
+T4	PROCEDURE 2030 2060	Examination of the extremities
+T64	PROCEDURE 2218 2235	Electrocardiogram
+T5	PROCEDURE 2443 2454	Chest X-ray
+T65	PROCEDURE 2733 2744	Blood count
+T66	PROCEDURE 2746 2757	coagulation
+T67	PROCEDURE 2759 2784	renal function parameters
+T68	PROCEDURE 2805 2817	electrolytes
+T69	PROCEDURE 2882 2905	thyroid hormone profile
+T6	PROCEDURE 2914 2926	iron profile
+T70	PROCEDURE 3103 3131	Transthoracic echocardiogram
+T71	PROCEDURE 4676 4731	Whole body gammagraphic study of somatostatin receptors
+T7	PROCEDURE 5104 5123	scintigraphic study
+T8	PROCEDURE 5291 5331	somatostatin receptor scintigraphy study
+T9	PROCEDURE 5455 5492	transthoracic echocardiographic study
+T73	PROCEDURE 5628 5662	depletive treatment with diuretics
+T57	PROCEDURE 5686 5723	treatment with somatostatin analogues
+T78	PROCEDURE 6150 6172	somatostatin analogues

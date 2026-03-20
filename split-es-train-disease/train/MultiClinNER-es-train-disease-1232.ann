@@ -1,0 +1,32 @@
+T18	DISEASE 39 64	hemorragia digestiva alta
+T19	DISEASE 82 101	espondiloartropatía
+T20	DISEASE 345 370	quiste aracnoideo derecho
+T21	DISEASE 582 645	doble lesión aórtica: estenosis moderada e insuficiencia severa
+T22	DISEASE 705 707	EI
+T23	DISEASE 823 847	adherencias pericárdicas
+T24	DISEASE 1483 1569	infarto establecido subagudo en el territorio de la arteria cerebral posterior derecha
+T25	DISEASE 2189 2247	complicaciones en la cicatrización de la herida quirúrgica
+T26	DISEASE 2877 2907	dilatación sacular de la aorta
+T27	DISEASE 2929 2977	endocarditis protésica precoz con seudoaneurisma
+T28	DISEASE 3351 3365	seudoaneurisma
+T30	DISEASE 4677 4713	seudoaneurisma periprotésico extenso
+T31	DISEASE 5033 5054	insuficiencia aórtica
+T32	DISEASE 5760 5774	seudoaneurisma
+T33	DISEASE 6027 6048	enfermedad de Whipple
+T34	DISEASE 6441 6443	EI
+T35	DISEASE 4751 4780	Ventrículo izquierdo dilatado
+T36	DISEASE 5255 5332	Ventrículo izquierdo dilatado con una depresión moderada-severa de la función
+T37	DISEASE 2591 2598	absceso
+T38	DISEASE 2302 2339	bloqueo aurículo-ventricular completo
+T39	DISEASE 2613 2634	regurgitación aórtica
+T40	DISEASE 4627 4659	regurgitación aórtica muy severa
+T41	DISEASE 1305 1326	taponamiento cardiaco
+T42	DISEASE 3541 3562	taponamiento cardiaco
+T43	DISEASE 66 79	betatalasemia
+T45	DISEASE 4951 4965	seudoaneurisma
+T120	DISEASE 3022 3068	dehiscencia en la zona del seno no coronariano
+T121	DISEASE 2772 2798	dehiscencia de la prótesis
+T111	DISEASE 3117 3153	cavidad seudoaneurismática subanular
+T29	DISEASE 3886 3930	alteraciones en la cicatrización e inmunidad
+#1	AnnotatorNotes T22	 endocarditis infecciosa
+#2	AnnotatorNotes T34	 endocarditis infecciosa

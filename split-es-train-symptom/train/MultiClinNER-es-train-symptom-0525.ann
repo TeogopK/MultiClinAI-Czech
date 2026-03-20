@@ -1,0 +1,9 @@
+T1	SYMPTOM 121 154	signos de compresión de vía aérea
+T2	SYMPTOM 888 906	hinchazón cervical
+T3	SYMPTOM 987 1044	imágenes ocupantes de espacio en seno piriforme izquierdo
+T4	SYMPTOM 591 597	nodulo
+T5	SYMPTOM 73 88	nódulo tiroideo
+T6	SYMPTOM 196 248	bocio multinodular con presencia de un nódulo sólido
+T7	SYMPTOM 295 304	área fría
+A1	IMAGEN T6
+A2	IMAGEN T7

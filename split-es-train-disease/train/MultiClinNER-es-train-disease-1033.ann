@@ -1,0 +1,65 @@
+T53	DISEASE 120 129	exfumador
+T54	DISEASE 131 152	hipertensión arterial
+T55	DISEASE 154 157	HTA
+T56	DISEASE 160 179	hipercolesterolemia
+T57	DISEASE 181 205	diabetes mellitus tipo 2
+T58	DISEASE 220 253	Síndrome de apnea-hipopnea sgrave
+T59	DISEASE 323 346	Arteriopatía periférica
+T60	DISEASE 394 417	estenosis aórtica grave
+T61	DISEASE 1235 1293	hipertrofia de ventrículo izquierdo (HVI) concéntrica leve
+T62	DISEASE 1272 1275	HVI
+T63	DISEASE 1385 1427	insuficiencia mitral leve-moderada central
+T64	DISEASE 1495 1514	derrame pericárdico
+T65	DISEASE 1552 1576	enfermedades infecciosas
+T66	DISEASE 2231 2258	bloqueo auriculoventricular
+T67	DISEASE 2852 2854	IC
+T68	DISEASE 2889 2916	bloqueo auriculoventricular
+T69	DISEASE 3094 3102	HVI leve
+T70	DISEASE 3619 3640	regurgitación aórtica
+T71	DISEASE 3769 3805	Insuficiencia tricuspídea (IT) grave
+T72	DISEASE 3838 3857	derrame pericárdico
+T73	DISEASE 3897 3917	endocarditis aórtica
+T74	DISEASE 4024 4206	Enfermedad arterial coronaria grave de dos vasos: oclusión de descendente anterior (DA) medio-distal, lesión suboclusiva en circunfleja (Cx) distal, oclusión de descendente posterior
+T75	DISEASE 4504 4511	absceso
+T76	DISEASE 4575 4594	absceso mitraórtico
+T77	DISEASE 4643 4651	IT grave
+T78	DISEASE 4697 4720	verrugas endocardíticas
+T79	DISEASE 4748 4783	insuficiencia mitral moderada-grave
+T81	DISEASE 5803 5806	BAV
+T82	DISEASE 6066 6101	endocarditis sobre prótesis aórtica
+T83	DISEASE 6904 6959	endocarditis infecciosa sobre válvula aórtica protésica
+T84	DISEASE 7029 7032	BAV
+T85	DISEASE 7034 7064	embolismos coronarios sépticos
+T86	DISEASE 7067 7093	shock cardiogénico/séptico
+T87	DISEASE 7363 7382	fracaso renal agudo
+T88	DISEASE 7434 7466	insuficiencia respiratoria aguda
+T89	DISEASE 7468 7533	neumonía asociada a ventilación mecánica por bacilo gram negativo
+T90	DISEASE 7535 7575	traqueobronquitis aguda por A. fumigatus
+T91	DISEASE 7577 7601	BAV completo persistente
+T92	DISEASE 7603 7669	bacteriemia por C. parapsilopsis asociada a catéter venoso central
+T93	DISEASE 7671 7690	hepatitis isquémica
+T94	DISEASE 7692 7707	íleo paralítico
+T95	DISEASE 7709 7737	encefalopatía multifactorial
+T96	DISEASE 7767 7774	hipoxia
+T97	DISEASE 7777 7836	daño tronco-diencefálico significativo con coma persistente
+T98	DISEASE 7871 7962	Endocarditis precoz sobre válvula aórtica protésica mecánica por Staphylococcus epidermidis
+T99	DISEASE 7964 8028	Absceso de unión mitroaórtica con extensión a válvula tricúspide
+T100	DISEASE 8030 8070	Insuficiencia mitral y tricúspide graves
+T101	DISEASE 8072 8099	Bloqueo auriculoventricular
+T102	DISEASE 8105 8161	Infarto agudo de miocardio con elevación del ST inferior
+T103	DISEASE 8163 8241	Embolismos coronarios sépticos en circunfleja dominante y descendente anterior
+T104	DISEASE 8300 8332	Shock mixto cardiogénico/séptico
+T105	DISEASE 3686 3767	Ventrículo derecho ligeramente dilatado, hipocinético, con disfunción global leve
+T106	DISEASE 5448 5459	hipotensión
+T107	DISEASE 6372 6383	hipotensión
+T108	DISEASE 1441 1452	AI dilatada
+T109	DISEASE 3289 3368	Válvula mitral engrosada y esclerosa con regurgitación mitral de carácter grave
+T110	DISEASE 3796 3798	IT
+T111	DISEASE 3947 3987	Regurgitación mitral y tricúspide graves
+T112	DISEASE 6975 7027	absceso mitroaórtico, extensión a válvula tricúspide
+T179	DISEASE 5774 5819	bloqueo auriculoventricular (BAV) de 2o grado
+T50	DISEASE 2290 2307	hipertrofia de VI
+T187	DISEASE 3582 3605	injertos endocardíticos
+T189	DISEASE 4385 4460	injerto endocardítico hipermóvil que protruye a TSVI sobre prótesis aórtica
+#1	AnnotatorNotes T62	  hipertrofia ventriculo izquierdo
+#2	AnnotatorNotes T110	  insuficiencia tricuspide

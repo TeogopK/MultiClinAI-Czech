@@ -1,0 +1,23 @@
+T46	PROCEDURE 188 208	PHYSICAL EXAMINATION
+T44	PROCEDURE 982 1000	diuretic treatment
+T66	PROCEDURE 1014 1044	empirical antibiotic treatment
+T58	PROCEDURE 1024 1044	antibiotic treatment
+T47	PROCEDURE 1207 1227	Physical examination
+T48	PROCEDURE 1479 1481	AC
+T49	PROCEDURE 1739 1742	ECG
+T50	PROCEDURE 2137 2148	Chest X-ray
+T51	PROCEDURE 2195 2223	Transthoracic echocardiogram
+T53	PROCEDURE 2862 2892	Transesophageal echocardiogram
+T62	PROCEDURE 3296 3327	intravenous depletive treatment
+T52	PROCEDURE 3443 3471	transthoracic echocardiogram
+T54	PROCEDURE 3500 3530	transesophageal echocardiogram
+T64	PROCEDURE 3918 3932	renal function
+T55	PROCEDURE 3943 3973	transesophageal echocardiogram
+T56	PROCEDURE 4203 4233	intravenous diuretic treatment
+T45	PROCEDURE 4215 4233	diuretic treatment
+T57	PROCEDURE 4442 4457	Cardiac Surgery
+T59	PROCEDURE 4549 4569	antibiotic treatment
+T61	PROCEDURE 4677 4685	serology
+T60	PROCEDURE 4800 4820	antibiotic treatment
+T63	PROCEDURE 5147 5178	intravenous depletive treatment
+T65	PROCEDURE 5180 5193	thoracentesis

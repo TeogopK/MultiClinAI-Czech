@@ -1,0 +1,21 @@
+T13	DISEASE 196 212	parálisis facial
+T14	DISEASE 246 266	síndrome de Steinert
+T15	DISEASE 1048 1054	anemia
+T16	DISEASE 1608 1633	Insuficiencia tricuspídea
+T17	DISEASE 1773 1795	Insuficiencia pulmonar
+T18	DISEASE 1846 1865	derrame pericárdico
+T19	DISEASE 1981 1996	derrame pleural
+T20	DISEASE 2201 2224	cardiopatía estructural
+T21	DISEASE 2239 2295	Enfermedad de Steinert con alteraciones de la conducción
+T22	DISEASE 675 682	síncope
+T23	DISEASE 177 191	lengua plicata
+T24	DISEASE 451 485	bloqueo completo de rama izquierda
+T25	DISEASE 487 491	BCRI
+T26	DISEASE 684 694	presíncope
+T27	DISEASE 834 838	BCRI
+T28	DISEASE 945 991	alteraciones de la conducción intraventricular
+T1	DISEASE 1224 1307	Válvula mitral de velos finos no engrosados con jet de insuficiencia ligera central
+T29	DISEASE 532 561	alteraciones de la conducción
+T51	DISEASE 2112 2141	alteraciones de la conducción
+#1	AnnotatorNotes T25	 BCRI: Bloqueo completo rama izq
+#2	AnnotatorNotes T27	 BCRI: Bloqueo completo rama izq

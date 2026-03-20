@@ -1,0 +1,20 @@
+T1	SYMPTOM 59 86	hiperactividad del detrusor
+T2	SYMPTOM 310 327	dolor suprapúbico
+T3	SYMPTOM 100 158	dolor intenso refractario, secundario a espasmos vesicales
+T4	SYMPTOM 329 354	portador de sonda uretral
+T5	SYMPTOM 461 475	lumbociatalgia
+T6	SYMPTOM 1143 1180	engrosamiento parietal difuso vesical
+T7	SYMPTOM 1419 1448	dolor suprapúbico tipo cólico
+T8	SYMPTOM 1473 1496	cortejo neurovegetativo
+T9	SYMPTOM 1499 1536	reflujo de líquido vesical hematúrico
+T10	SYMPTOM 1998 2014	clínica dolorosa
+T11	SYMPTOM 2467 2475	dolorosa
+T12	SYMPTOM 2517 2532	espasmo vesical
+T13	SYMPTOM 3248 3276	espasmos vesicales dolorosos
+T14	SYMPTOM 3675 3680	dolor
+T15	SYMPTOM 1740 1758	espasmos vesicales
+T16	SYMPTOM 3580 3589	hematuria
+T17	SYMPTOM 272 294	hematuria macroscópica
+T18	SYMPTOM 987 1014	signos de "vejiga de lucha"
+A1	IMAGEN T6
+A2	IMAGEN T18

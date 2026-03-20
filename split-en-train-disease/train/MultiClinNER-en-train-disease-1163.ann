@@ -1,0 +1,51 @@
+T26	DISEASE 82 96	drug allergies
+T27	DISEASE 116 137	arterial hypertension
+T29	DISEASE 171 184	dyslipidaemia
+T30	DISEASE 224 237	heart disease
+T31	DISEASE 239 252	heart failure
+T32	DISEASE 256 268	sudden death
+T1	DISEASE 952 969	AV block Mobitz I
+T2	DISEASE 1190 1193	AMI
+T33	DISEASE 1662 1694	3-vessel coronary artery disease
+T3	DISEASE 1700 1758	severe lesions (90 %) in tandem in the anterior descending
+T4	DISEASE 1920 1944	first marginal occlusion
+T5	DISEASE 2010 2057	proximal occlusion of the right coronary artery
+T35	DISEASE 2307 2332	ventricular septal defect
+T6	DISEASE 2334 2337	VSD
+T39	DISEASE 3042 3054	BAV Mobitz I
+T7	DISEASE 3521 3560	coronary arteries: significant stenosis
+T8	DISEASE 3975 4049	Circumflex description: occluded at the level of the first middle marginal
+T9	DISEASE 4121 4168	Right coronary description: occluded proximally
+T53	DISEASE 4297 4305	Thrombus
+T10	DISEASE 4482 4502	Three-vessel disease
+T11	DISEASE 4536 4539	VSD
+T36	DISEASE 4574 4599	ventricular septal defect
+T12	DISEASE 4769 4818	non-hypertrophic left ventricle, slightly dilated
+T40	DISEASE 5017 5042	mild aortic insufficiency
+T13	DISEASE 5047 5094	moderate-severe functional mitral insufficiency
+T14	DISEASE 5096 5128	Right ventricle slightly dilated
+T42	DISEASE 5184 5207	tricuspid insufficiency
+T44	DISEASE 5309 5366	cardiogenic shock refractory to pharmacological treatment
+T45	DISEASE 5389 5408	post-infarction VSD
+T55	DISEASE 5558 5581	dilated right ventricle
+T37	DISEASE 5620 5645	ventricular septal defect
+T15	DISEASE 6036 6039	VSD
+T16	DISEASE 6376 6428	Non-dilated right ventricle, with severe dysfunction
+T43	DISEASE 6440 6463	tricuspid insufficiency
+T38	DISEASE 6507 6532	ventricular septal defect
+T46	DISEASE 7050 7080	paroxysmal atrial fibrillation
+T17	DISEASE 7194 7247	respiratory failure secondary to alveolar haemorrhage
+T47	DISEASE 7252 7287	acute respiratory distress syndrome
+T18	DISEASE 7289 7379	nosocomial pneumonia in the right lower lobe (Enterobacter cloacae and Citrobacter koseri)
+T19	DISEASE 7384 7450	urinary tract infection by multidrug-resistant Serratia marcescens
+T58	DISEASE 7649 7680	slightly dilated left ventricle
+T41	DISEASE 7879 7904	mild aortic insufficiency
+T20	DISEASE 7909 7956	moderate-severe functional mitral insufficiency
+T54	DISEASE 7958 7990	Slightly dilated right ventricle
+T59	DISEASE 7992 8021	Right ventricular dysfunction
+T50	DISEASE 8034 8088	Acute myocardial infarction with inferior ST elevation
+T21	DISEASE 8117 8140	DC thrombotic occlusion
+T22	DISEASE 8170 8229	3-vessel coronary artery disease (middle DA, 1st OM and CD)
+T51	DISEASE 8242 8262	septal septal defect
+T52	DISEASE 8342 8402	Ischaemic cardiomyopathy with severe LV systolic dysfunction
+T23	DISEASE 8404 8451	Moderate-severe functional mitral insufficiency

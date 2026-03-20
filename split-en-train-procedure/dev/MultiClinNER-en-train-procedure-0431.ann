@@ -1,0 +1,15 @@
+T5	PROCEDURE 308 328	Physical examination
+T8	PROCEDURE 470 479	palpation
+T12	PROCEDURE 557 578	intraoral examination
+T13	PROCEDURE 654 709	ultrasound-guided fine needle aspiration puncture (FNA)
+T16	PROCEDURE 705 708	FNA
+T3	PROCEDURE 786 794	MRI scan
+T17	PROCEDURE 1168 1330	type III left functional cervical dissection was performed, including the hypoglossal nerve, the digastric muscle and the marginal branch of the left facial nerve
+T9	PROCEDURE 1339 1383	reaming of the left mandibular medial aspect
+T1	PROCEDURE 1385 1406	Histological analysis
+T6	PROCEDURE 1875 1900	immunohistochemical study
+T7	PROCEDURE 2134 2143	resection
+T2	PROCEDURE 2366 2392	postoperative radiotherapy
+T4	PROCEDURE 2424 2436	radiotherapy
+T10	PROCEDURE 2590 2593	MRI
+T26	PROCEDURE 2598 2605	CT scan

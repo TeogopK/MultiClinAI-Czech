@@ -1,0 +1,43 @@
+T19	DISEASE 83 97	drug allergies
+T20	DISEASE 99 111	hypertensive
+T1	DISEASE 1110 1115	STEMI
+T2	DISEASE 1881 1891	LA dilated
+T3	DISEASE 1919 1921	MI
+T4	DISEASE 1926 1928	TR
+T8	DISEASE 2526 2533	thrombi
+T5	DISEASE 2535 2545	Dilated LA
+T6	DISEASE 2552 2554	MI
+T7	DISEASE 2559 2561	TR
+T21	DISEASE 2586 2654	ischaemic lesions affecting both cerebral and cerebellar hemispheres
+T9	DISEASE 2680 2705	intraparenchymal bleeding
+T10	DISEASE 3568 3617	moderate to severe diffuse encephalic involvement
+T11	DISEASE 3643 3668	pulmonary thromboembolism
+T12	DISEASE 3725 3774	Bronchiectasis of the anterior segment of the LSI
+T35	DISEASE 3944 3963	Global cardiomegaly
+T18	DISEASE 3980 4023	myocardial thickening in the left ventricle
+T41	DISEASE 4067 4101	bilateral laminar pleural effusion
+T14	DISEASE 4121 4131	adenopathy
+T15	DISEASE 4170 4192	mediastinal adenopathy
+T13	DISEASE 4209 4235	retroperitoneal adenopathy
+T23	DISEASE 4251 4281	Bilateral cortical renal cysts
+T24	DISEASE 4297 4319	digmoid diverticulosis
+T16	DISEASE 4500 4510	Dilated LA
+T17	DISEASE 4538 4540	MI
+T22	DISEASE 4545 4547	TR
+T25	DISEASE 4653 4680	eosinophilic cardiomyopathy
+T27	DISEASE 4725 4752	stroke with left hemiplegia
+T28	DISEASE 4817 4869	infarcts in both cerebral and cerebellar hemispheres
+T29	DISEASE 4940 4966	hypereosinophilic syndrome
+T30	DISEASE 5087 5109	eosinophilic leukaemia
+T36	DISEASE 5293 5356	hypereosinophilia with systemic repercussions (cardiac and CNS)
+T32	DISEASE 5732 5792	polymicrobial infection of a decubitus ulcer, isolating SAMS
+T42	DISEASE 5857 5869	rectorrhagia
+T43	DISEASE 6051 6063	rectorrhagia
+T37	DISEASE 6262 6345	Primary hypersosinophilic syndrome with severe cardiac and neurological involvement
+T26	DISEASE 6346 6373	Eosinophilic cardiomyopathy
+T38	DISEASE 6383 6410	cerebral ischaemic infarcts
+T39	DISEASE 6411 6424	Renal failure
+T31	DISEASE 6425 6441	Thrombocytopenia
+T33	DISEASE 6442 6465	Polymicrobial infection
+T34	DISEASE 6466 6497	Lower gastrointestinal bleeding
+T40	DISEASE 6498 6501	AHT

@@ -1,0 +1,15 @@
+T1	SYMPTOM 1585 1604	déficit neurológico
+T2	SYMPTOM 136 154	cervicobraquialgia
+T3	SYMPTOM 1307 1321	dolor cervical
+T4	SYMPTOM 303 352	dificultad para la abducción del miembro superior
+T5	SYMPTOM 401 443	pérdida de fuerza en el deltoides y bíceps
+T6	SYMPTOM 1557 1575	dolores de espalda
+T7	SYMPTOM 506 529	alteraciones sensitivas
+T8	SYMPTOM 534 570	piramidalismo en miembros inferiores
+T9	SYMPTOM 619 675	pérdida de altura en los cuerpos vertebrales de C4-C5-C6
+T10	SYMPTOM 205 226	déficits neurológicos
+T11	SYMPTOM 231 236	dolor
+T12	SYMPTOM 1525 1537	asintomática
+T13	SYMPTOM 1105 1149	gammagrafía descartó captaciones patológicas
+A1	IMAGEN T9
+A2	IMAGEN T13

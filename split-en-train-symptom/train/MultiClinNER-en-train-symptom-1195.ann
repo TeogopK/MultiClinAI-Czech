@@ -1,0 +1,89 @@
+T59	SYMPTOM 610 706	exercise test was performed to assess chest pain, which was clinically and electrically negative
+T1	SYMPTOM 648 658	chest pain
+T3	SYMPTOM 762 788	non-dilated left ventricle
+T60	SYMPTOM 857 898	normal left ventricular ejection fraction
+T61	SYMPTOM 1028 1090	Right ventricle (RV) not dilated with normal systolic function
+T62	SYMPTOM 1187 1240	Estimated normal pulmonary arterial systolic pressure
+T4	SYMPTOM 1293 1301	dyspnoea
+T9	SYMPTOM 1330 1363	Normal respiratory function tests
+T5	SYMPTOM 2030 2038	dyspnoea
+T10	SYMPTOM 2097 2107	tachypnoea
+T63	SYMPTOM 2124 2144	respiratory distress
+T6	SYMPTOM 2194 2202	dyspnoea
+T12	SYMPTOM 2264 2272	wheezing
+T7	SYMPTOM 2341 2349	dyspnoea
+T11	SYMPTOM 2354 2370	respiratory work
+T14	SYMPTOM 2386 2399	epigastralgia
+T15	SYMPTOM 2453 2458	cough
+T16	SYMPTOM 2463 2474	rhinorrhoea
+T17	SYMPTOM 2499 2504	fever
+T2	SYMPTOM 2517 2527	chest pain
+T64	SYMPTOM 2552 2560	coughing
+T18	SYMPTOM 2565 2577	palpitations
+T19	SYMPTOM 2582 2592	orthopnoea
+T20	SYMPTOM 2596 2625	paroxysmal nocturnal dyspnoea
+T8	SYMPTOM 2730 2748	decreased diuresis
+T65	SYMPTOM 2752 2777	oedema in the lower limbs
+T21	SYMPTOM 3059 3067	afebrile
+T22	SYMPTOM 3269 3278	conscious
+T23	SYMPTOM 3280 3309	oriented in the three spheres
+T66	SYMPTOM 3314 3325	cooperative
+T67	SYMPTOM 3332 3357	regular general condition
+T68	SYMPTOM 3359 3368	Tachyonic
+T69	SYMPTOM 3374 3381	tugging
+T24	SYMPTOM 3420 3427	murmurs
+T25	SYMPTOM 3431 3441	extratonos
+T70	SYMPTOM 3466 3484	respiratory sounds
+T26	SYMPTOM 3510 3554	preserved vesicular murmur (CVM) bilaterally
+T71	SYMPTOM 3560 3584	crackles up to midfields
+T13	SYMPTOM 3589 3607	scattered wheezing
+T72	SYMPTOM 3609 3696	Abdomen: hydro-aerial sounds present. Slightly distended, diffusely tender on palpation
+T27	SYMPTOM 3710 3731	peritoneal irritation
+T28	SYMPTOM 3736 3742	masses
+T73	SYMPTOM 3746 3759	visceromegaly
+T54	SYMPTOM 3761 3783	Extremities: no oedema
+T29	SYMPTOM 3796 3805	phlogosis
+T74	SYMPTOM 4864 4877	Q wave in III
+T75	SYMPTOM 4882 4908	R wave amputation up to V5
+T30	SYMPTOM 4939 4975	Diffuse flattening of repolarisation
+T31	SYMPTOM 5004 5016	sinus rhythm
+T76	SYMPTOM 5028 5066	Q wave in III and aVF as well as V1-V3
+T36	SYMPTOM 5131 5145	water overload
+T37	SYMPTOM 5150 5170	interstitial pattern
+T38	SYMPTOM 5291 5293	RS
+T77	SYMPTOM 5500 5536	Prolonged relaxation Doppler pattern
+T40	SYMPTOM 5546 5571	mild systolic dysfunction
+T42	SYMPTOM 7766 7800	Microbiology: antigenuria negative
+T43	SYMPTOM 7812 7824	RSV positive
+T32	SYMPTOM 7863 7875	sinus rhythm
+T78	SYMPTOM 7930 7955	Q inferior face and V1-V4
+T55	SYMPTOM 7960 7977	R amputated V5-V6
+T79	SYMPTOM 7979 8011	Negative T precordial, I and aVL
+T56	SYMPTOM 8208 8250	ST underlevel in anterior and lateral face
+T80	SYMPTOM 8256 8285	asymmetrical negative T waves
+T33	SYMPTOM 8294 8306	sinus rhythm
+T57	SYMPTOM 8419 8468	ST-segment elevation in anterior and lateral face
+T81	SYMPTOM 8474 8501	asymmetric negative T waves
+T82	SYMPTOM 8904 8940	Prolonged relaxation Doppler pattern
+T83	SYMPTOM 9332 9390	coronary arteries without significant angiographic lesions
+T58	SYMPTOM 9511 9547	non-dilated LV with normal thickness
+T39	SYMPTOM 9615 9672	akinesia of basal and mid-lateral and lower basal segment
+T44	SYMPTOM 9715 9747	RV with normal systolic function
+T84	SYMPTOM 9976 9997	Vena cava not dilated
+T85	SYMPTOM 10100 10114	LV normal size
+T46	SYMPTOM 10159 10177	Global hypokinesia
+T47	SYMPTOM 10179 10232	Severe hypokinesia in basal-mid inferolateral segment
+T48	SYMPTOM 10392 10437	Normal sized RV with normal systolic function
+T41	SYMPTOM 11044 11057	loss of pulse
+T49	SYMPTOM 11361 11390	elevated liver function tests
+T50	SYMPTOM 11696 11716	respiratory symptoms
+T45	SYMPTOM 11718 11799	viral serologies were extracted and were positive for respiratory syncytial virus
+T34	SYMPTOM 12115 12127	sinus rhythm
+T35	SYMPTOM 12142 12154	sinus rhythm
+T86	SYMPTOM 12489 12522	ST elevation in the inferior face
+T87	SYMPTOM 12654 12678	normal coronary arteries
+T51	SYMPTOM 13122 13131	anhedonia
+T52	SYMPTOM 13133 13139	abulia
+T88	SYMPTOM 13285 13297	asymptomatic
+T89	SYMPTOM 13302 13346	stable from the cardiovascular point of view
+T53	SYMPTOM 13900 13918	psychotic symptoms

@@ -1,0 +1,35 @@
+T1	SYMPTOM 180 206	virus hepatitis C positivo
+T2	SYMPTOM 540 546	disnea
+T3	SYMPTOM 646 666	distensión abdominal
+T4	SYMPTOM 669 705	edematización de miembros inferiores
+T5	SYMPTOM 732 746	dolor torácico
+T6	SYMPTOM 750 763	palpitaciones
+T7	SYMPTOM 785 790	mareo
+T8	SYMPTOM 874 890	disnea en reposo
+T9	SYMPTOM 946 968	regular estado general
+T10	SYMPTOM 970 980	consciente
+T11	SYMPTOM 982 991	orientada
+T12	SYMPTOM 994 1006	colaboradora
+T15	SYMPTOM 1037 1058	taquipneica en reposo
+T16	SYMPTOM 1086 1093	Afebril
+T17	SYMPTOM 1201 1245	Auscultación cardiaca con ruidos irregulares
+T18	SYMPTOM 1251 1275	soplo sistólico panfocal
+T19	SYMPTOM 1313 1335	hipoventilación global
+T20	SYMPTOM 1378 1399	crepitantes bibasales
+T21	SYMPTOM 1401 1459	Abdomen globuloso y distendido, no doloroso a la palpación
+T22	SYMPTOM 1541 1569	signos ingurgitación yugular
+T23	SYMPTOM 1571 1619	Edemas tibio maleolares hasta rodillas con fóvea
+T24	SYMPTOM 2355 2393	Edema intersticial en alas de mariposa
+T29	SYMPTOM 4020 4065	Arteria descendente anterior de tamaño normal
+T30	SYMPTOM 5070 5075	mareo
+T31	SYMPTOM 5078 5085	astenia
+T32	SYMPTOM 5367 5373	disnea
+T33	SYMPTOM 5376 5381	mareo
+T34	SYMPTOM 6829 6842	fallecimiento
+T26	SYMPTOM 3616 3657	Aplanamiento del tabique interventricular
+T107	SYMPTOM 1008 1035	Bien hidratada y perfundida
+T118	SYMPTOM 2314 2343	Pinzamiento seno costofrénico
+T126	SYMPTOM 5680 5698	clínica congestiva
+T137	SYMPTOM 2718 2768	función sistólica ventricular izquierda conservada
+T138	SYMPTOM 3430 3470	función ventricular izquierda conservada
+T14	SYMPTOM 3472 3525	Ventrículo derecho en el límite alto de la normalidad

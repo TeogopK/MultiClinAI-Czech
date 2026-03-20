@@ -1,0 +1,19 @@
+T1	SYMPTOM 133 140	cefalea
+T2	SYMPTOM 143 152	proptosis
+T3	SYMPTOM 191 197	fiebre
+T4	SYMPTOM 199 206	vómitos
+T5	SYMPTOM 208 215	cefalea
+T6	SYMPTOM 218 234	congestión nasal
+T7	SYMPTOM 400 439	cefalea intensa fronto-temporal derecha
+T8	SYMPTOM 846 865	clínica neurológica
+T9	SYMPTOM 442 466	edema en párpado derecho
+T10	SYMPTOM 601 627	leve tumefacción palpebral
+T11	SYMPTOM 493 502	proptosis
+T12	SYMPTOM 642 670	obstrucción de la fosa nasal
+T13	SYMPTOM 1923 1943	hipertransaminasemia
+T14	SYMPTOM 1910 1920	leucopenia
+T15	SYMPTOM 1481 1508	cultivos resultan negativos
+T16	SYMPTOM 739 779	leve dificultad para la mirada conjugada
+A1	RESULTADO T13
+A2	RESULTADO T14
+A3	RESULTADO T15

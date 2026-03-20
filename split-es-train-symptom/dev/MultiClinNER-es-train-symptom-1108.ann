@@ -1,0 +1,42 @@
+T1	SYMPTOM 475 493	disnea de esfuerzo
+T2	SYMPTOM 597 651	edema de extremidades inferiores hasta pared abdominal
+T3	SYMPTOM 653 661	ortopnea
+T4	SYMPTOM 664 690	disminución de la diuresis
+T5	SYMPTOM 779 800	elevación de D-dímero
+T6	SYMPTOM 1111 1129	diaforesis profusa
+T8	SYMPTOM 1161 1183	buena perfusión distal
+T9	SYMPTOM 1202 1223	ingurgitación yugular
+T10	SYMPTOM 1254 1306	Auscultación cardiaca: ruidos irregulares y apagados
+T11	SYMPTOM 1331 1349	hipofonesis global
+T12	SYMPTOM 1354 1373	crepitantes en base
+T13	SYMPTOM 1383 1428	Abdomen: distendido, edema de pared con fóvea
+T15	SYMPTOM 1451 1488	edemas con fóvea hasta raíz de muslos
+T16	SYMPTOM 1654 1686	intervalo QT corregido es normal
+T17	SYMPTOM 1710 1742	pinzamiento de seno costofrénico
+T18	SYMPTOM 1837 1911	Hemograma, parámetros de función renal e ionograma en rangos de normalidad
+T20	SYMPTOM 2036 2063	Bioquímica sanguínea normal
+T21	SYMPTOM 2065 2095	transaminasas e iones normales
+T22	SYMPTOM 2097 2118	Perfil férrico normal
+T23	SYMPTOM 2390 2424	citología positiva para malignidad
+T24	SYMPTOM 3372 3415	Cavidades cardiacas dentro de la normalidad
+T26	SYMPTOM 4471 4521	función sistólica ventricular izquierda conservada
+T28	SYMPTOM 4609 4645	engrosamiento de pericardio visceral
+T30	SYMPTOM 6319 6334	masa testicular
+T31	SYMPTOM 7292 7298	edemas
+T7	SYMPTOM 1610 1637	amplitud del QRS disminuida
+T14	SYMPTOM 2259 2289	Interferón gamma-TBC: negativo
+T19	SYMPTOM 2291 2343	Serologías: VIH, VHB, VHC, Lues, VEB, VHS: negativos
+T119	SYMPTOM 3119 3143	médula ósea normocelular
+T120	SYMPTOM 7747 7762	FEVI conservada
+T156	SYMPTOM 1231 1252	reflujo hepatoyugular
+T157	SYMPTOM 1131 1152	sensación de gravedad
+T129	SYMPTOM 3000 3064	líquido pericárdico: no se observa desarrollo de microorganismos
+T130	SYMPTOM 3199 3222	pseudonódulo subpleural
+T132	SYMPTOM 3527 3556	pericardio que está engrosado
+T133	SYMPTOM 3567 3622	ganglios laterocervicales izquierdos, supraclaviculares
+T134	SYMPTOM 3709 3737	mediastino pequeños ganglios
+T135	SYMPTOM 3827 3898	Retroperitoneal pequeños ganglios crurales, pericelíacos y paraaórticos
+T137	SYMPTOM 4367 4439	Parénquima testicular y cordón espermático sin alteraciones histológicas
+T27	SYMPTOM 5238 5261	compromiso hemodinámico
+T138	SYMPTOM 5687 5727	se obtuvo 950 cc de líquido serohemático
+T140	SYMPTOM 7525 7582	biopsia testicular con resultado negativo para malignidad

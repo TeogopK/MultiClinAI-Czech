@@ -1,0 +1,46 @@
+T1	SYMPTOM 105 113	dyspnoea
+T5	SYMPTOM 118 134	febrile syndrome
+T32	SYMPTOM 755 760	death
+T6	SYMPTOM 1084 1108	cough with expectoration
+T8	SYMPTOM 1118 1156	initially mucopurulent and later rusty
+T7	SYMPTOM 1158 1168	Chest pain
+T37	SYMPTOM 1193 1201	coughing
+T2	SYMPTOM 1256 1331	Progressive dyspnoea, initially on exertion until becoming resting dyspnoea
+T9	SYMPTOM 1359 1369	orthopnoea
+T10	SYMPTOM 1386 1415	paroxysmal nocturnal dyspnoea
+T11	SYMPTOM 1417 1437	Dysthermic sensation
+T12	SYMPTOM 1466 1471	fever
+T13	SYMPTOM 1672 1680	afebrile
+T14	SYMPTOM 1682 1691	Conscious
+T15	SYMPTOM 1696 1704	oriented
+T16	SYMPTOM 1706 1715	Cachectic
+T17	SYMPTOM 1722 1747	good peripheral perfusion
+T29	SYMPTOM 1749 1767	Tachypneic at rest
+T33	SYMPTOM 1769 1796	Multiple venipuncture sites
+T18	SYMPTOM 1798 1819	Jugular ingurgitation
+T19	SYMPTOM 1863 1870	murmurs
+T3	SYMPTOM 1872 1901	Conservative vesicular murmur
+T20	SYMPTOM 1903 1931	Soft and depressible abdomen
+T4	SYMPTOM 1953 1984	oedema in the lower extremities
+T28	SYMPTOM 2018 2035	sinus tachycardia
+T21	SYMPTOM 2061 2071	narrow QRS
+T38	SYMPTOM 2080 2106	repolarisation alterations
+T22	SYMPTOM 2110 2133	CBC: urea and Cr normal
+T39	SYMPTOM 2273 2313	condensation in the right pulmonary base
+T40	SYMPTOM 2333 2342	normal LV
+T23	SYMPTOM 2348 2396	preserved global and segmental systolic function
+T41	SYMPTOM 2398 2412	RV not dilated
+T24	SYMPTOM 2422 2449	preserved systolic function
+T34	SYMPTOM 2761 2775	purulent fluid
+T42	SYMPTOM 2798 2833	fluid showed gram + cocci in chains
+T35	SYMPTOM 2843 2892	culture was positive for Streptococcus pneumoniae
+T25	SYMPTOM 2894 2922	Blood cultures were negative
+T26	SYMPTOM 2927 2965	pneumococcal antigen positive in urine
+T43	SYMPTOM 3187 3200	posterior sac
+T30	SYMPTOM 3225 3248	haemodynamic compromise
+T44	SYMPTOM 3253 3270	cavitary collapse
+T36	SYMPTOM 3274 3298	respirophasic variations
+T31	SYMPTOM 3319 3337	clinical stability
+T27	SYMPTOM 3477 3488	tachycardic
+T45	SYMPTOM 3493 3503	tachypneic
+T46	SYMPTOM 3610 3691	evacuating pericardiocentesis was performed, aspirating 250 ml of purulent liquid

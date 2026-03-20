@@ -1,0 +1,89 @@
+T35	DISEASE 4565 4578	cardiomegalia
+T53	DISEASE 7124 7145	disfunción de VD leve
+T55	DISEASE 8477 8542	Ventrículo izquierdo llamativamente dilatado con disfunción grave
+T57	DISEASE 8827 8863	Aumento de tamaño de ambas aurículas
+T61	DISEASE 10869 10926	Ventrículo izquierdo gravemente dilatado y disfuncionante
+T117	DISEASE 70 93	alergias medicamentosas
+T118	DISEASE 95 114	Esclerosis tuberosa
+T119	DISEASE 117 126	epilepsia
+T120	DISEASE 254 273	lesiones cerebrales
+T121	DISEASE 378 388	Rabdomioma
+T122	DISEASE 472 509	Astrocitomas subependimarios gigantes
+T123	DISEASE 741 762	vómitos de repetición
+T124	DISEASE 1426 1451	trombosis venosa profunda
+T125	DISEASE 2860 2878	esofagitis erosiva
+T126	DISEASE 3952 3960	litiasis
+T127	DISEASE 4140 4155	Quistes renales
+T128	DISEASE 4200 4215	Derrame pleural
+T129	DISEASE 4303 4322	hepatopatía crónica
+T130	DISEASE 4324 4339	Derrame pleural
+T131	DISEASE 4346 4361	Quistes renales
+T132	DISEASE 4831 4850	derrame pericárdico
+T133	DISEASE 4892 4907	derrame pleural
+T134	DISEASE 4989 5016	Quistes renales bilaterales
+T135	DISEASE 5075 5082	éstasis
+T136	DISEASE 5263 5277	neumoperitoneo
+T137	DISEASE 5301 5320	sobrecarga cardiaca
+T138	DISEASE 6285 6288	BAV
+T139	DISEASE 6329 6373	trastornos de la conducción intraventricular
+T140	DISEASE 6552 6567	derrame pleural
+T141	DISEASE 7161 7196	Insuficiencia tricuspídea (IT) leve
+T142	DISEASE 7270 7300	Insuficiencia mitral (IM) leve
+T143	DISEASE 7302 7342	Derrame pericárdico leve circunferencial
+T144	DISEASE 7377 7400	miocardiopatía dilatada
+T145	DISEASE 7411 7435	disfunción biventricular
+T146	DISEASE 7437 7460	Disfunción del VI grave
+T147	DISEASE 7520 7541	Hipertensión pulmonar
+T148	DISEASE 7543 7546	HTP
+T149	DISEASE 7549 7573	Derrame pericárdico leve
+T151	DISEASE 8097 8103	trombo
+T152	DISEASE 8106 8134	Derrame pericárdico moderado
+T153	DISEASE 8184 8208	tromboembolismo pulmonar
+T154	DISEASE 8210 8213	TEP
+T155	DISEASE 8250 8264	edema pulmonar
+T156	DISEASE 8325 8340	derrame pleural
+T158	DISEASE 8984 9012	Derrame pericárdico moderado
+T159	DISEASE 9182 9210	Miocardiopatía No Compactada
+T160	DISEASE 9426 9455	miocardiopatia dilatada grave
+T161	DISEASE 9460 9490	disfunción grave biventricular
+T162	DISEASE 9738 9753	derrame pleural
+T163	DISEASE 10553 10576	miocardiopatía dilatada
+T165	DISEASE 10741 10764	miocardiopatía dilatada
+T166	DISEASE 11394 11413	derrame pericárdico
+T167	DISEASE 11427 11430	MCD
+T168	DISEASE 11461 11480	Disfunción VI grave
+T169	DISEASE 11790 11813	miocardiopatía dilatada
+T170	DISEASE 11818 11848	disfunción grave biventricular
+T171	DISEASE 11968 11979	miocarditis
+T172	DISEASE 12168 12196	anomalía coronaria congénita
+T174	DISEASE 12501 12523	insuficiencia cardiaca
+T175	DISEASE 13486 13518	disfunción ventricular izquierda
+T176	DISEASE 13728 13747	esclerosis tuberosa
+T177	DISEASE 13777 13800	miocardiopatía dilatada
+T178	DISEASE 13966 13989	Miocardiopatía dilatada
+T179	DISEASE 14006 14025	esclerosis tuberosa
+T180	DISEASE 14102 14149	disfunción ventricular izquierda con asincronía
+T181	DISEASE 448 470	Angiofibromas faciales
+T182	DISEASE 522 557	tuberosidades corticales cerebrales
+T183	DISEASE 559 574	Hábitos tóxicos
+T184	DISEASE 2453 2489	cardias que presenta pequeña erosión
+T197	DISEASE 6596 6658	Ventrículo izquierdo (VI) no hipertrófico, gravemente dilatado
+T200	DISEASE 6883 6910	Aurícula izquierda dilatada
+T52	DISEASE 7188 7190	IT
+T203	DISEASE 7244 7268	suprahepáticas dilatadas
+T204	DISEASE 7292 7294	IM
+T205	DISEASE 7402 7405	MCD
+T206	DISEASE 7462 7483	Disfunción diastólica
+T94	DISEASE 7996 8029	Ventrículo izquierdo muy dilatado
+T157	DISEASE 8935 8974	Vena cava inferior aumentada de calibre
+T211	DISEASE 9038 9054	edema miocárdico
+T212	DISEASE 9663 9695	dilatación de aurícula izquierda
+T214	DISEASE 11131 11158	Aurícula izquierda dilatada
+T216	DISEASE 11307 11318	IT muy leve
+T225	DISEASE 7091 7119	Cavidades derechas dilatadas
+T239	DISEASE 8627 8686	Ventrículo derecho igualmente dilatado con disfunción grave
+T259	DISEASE 8366 8385	lesiones coronarias
+T229	DISEASE 8136 8167	Tronco de la pulmonar aumentado
+T230	DISEASE 8882 8932	aurícula izquierda (34 cm2, moderadamente dilatada
+T234	DISEASE 11435 11459	disfunción biventricular
+#1	AnnotatorNotes T167	MCD: miocardiopatia dilatada

@@ -1,0 +1,66 @@
+T45	SYMPTOM 164 190	higher functions preserved
+T1	SYMPTOM 212 220	dyspnoea
+T30	SYMPTOM 716 728	asymptomatic
+T46	SYMPTOM 769 786	lost consciousnes
+T10	SYMPTOM 1336 1368	ST elevation in I, aVL and V3-V6
+T2	SYMPTOM 1576 1602	anterolateral ST elevation
+T3	SYMPTOM 1990 1998	afebrile
+T11	SYMPTOM 2158 2171	normal colour
+T4	SYMPTOM 2176 2189	well perfused
+T5	SYMPTOM 2210 2226	jugular plethora
+T6	SYMPTOM 2228 2257	Rhythmic cardiac auscultation
+T7	SYMPTOM 2266 2273	murmurs
+T8	SYMPTOM 2275 2304	Normal pulmonary auscultation
+T9	SYMPTOM 2306 2332	good bilateral ventilation
+T47	SYMPTOM 2334 2362	Abdomen soft and depressible
+T48	SYMPTOM 2367 2373	oedema
+T37	SYMPTOM 2414 2453	lower extremities, with palpable pulses
+T12	SYMPTOM 2627 2639	ST elevation
+T14	SYMPTOM 2733 2745	sinus rhythm
+T16	SYMPTOM 2771 2780	normal PR
+T17	SYMPTOM 2782 2792	narrow QRS
+T18	SYMPTOM 2794 2803	Normal QT
+T49	SYMPTOM 2805 2849	Correct progression of R in precordial leads
+T50	SYMPTOM 2854 2888	acute repolarisation abnormalities
+T19	SYMPTOM 2893 2921	early repolarisation pattern
+T51	SYMPTOM 2955 2997	Biochemical parameters within normal range
+T52	SYMPTOM 2999 3052	including lipid profile, with renal function and ions
+T53	SYMPTOM 3103 3135	Normal haemogram and coagulation
+T54	SYMPTOM 3290 3319	Urine toxicity test: negative
+T55	SYMPTOM 3348 3451	LV neither dilated nor hypertrophic with preserved global and segmental systolic function, hyperdynamic
+T56	SYMPTOM 3484 3517	RV not dilated with good function
+T36	SYMPTOM 3614 3647	coronary arteries without lesions
+T57	SYMPTOM 3649 3722	Cerebral CT and thoraco-abdominal CT angiography: no significant findings
+T38	SYMPTOM 3773 3820	left ventricle (LV) not dilated or hypertrophic
+T21	SYMPTOM 3826 3853	preserved systolic function
+T32	SYMPTOM 3873 3911	alterations in segmental contractility
+T22	SYMPTOM 3913 3954	Diastolic pattern of elongated relaxation
+T23	SYMPTOM 3964 3982	Normal left atrium
+T39	SYMPTOM 3993 4048	Right ventricle (RV) not dilated and with good function
+T35	SYMPTOM 4050 4126	Trivalve aortic valve with preserved opening, without functional alterations
+T58	SYMPTOM 4128 4151	Aortic root not dilated
+T59	SYMPTOM 4264 4294	Inferior vena cava not dilated
+T24	SYMPTOM 4500 4576	non-dilated left ventricle (LV) with preserved global and segmental function
+T33	SYMPTOM 4641 4718	Non-dilated right ventricle (RV) with preserved global and segmental function
+T60	SYMPTOM 4738 4798	late enhancement sequences no pathological uptakes were seen
+T40	SYMPTOM 4858 4885	good biventricular function
+T25	SYMPTOM 4989 4999	normal QTc
+T42	SYMPTOM 5282 5310	negative for Brugada pattern
+T15	SYMPTOM 5342 5366	negative flecainide test
+T27	SYMPTOM 5368 5393	normal basal sinus rhythm
+T28	SYMPTOM 5439 5449	normal QRS
+T61	SYMPTOM 5650 5663	superior axis
+T13	SYMPTOM 5758 5770	ST elevation
+T62	SYMPTOM 5829 5866	echocardiographic test with ergobasin
+T34	SYMPTOM 6001 6081	coronary angiography, cerebral-thoracic-abdominal CT and TTE without alterations
+T31	SYMPTOM 6478 6506	cardiologically asymptomatic
+T26	SYMPTOM 6642 6652	normal QTc
+T63	SYMPTOM 6766 6789	normal coronary network
+T43	SYMPTOM 6872 6907	pathological ischaemic enhancements
+T64	SYMPTOM 7154 7197	Channelopathies: negative provocation tests
+T20	SYMPTOM 7343 7371	early repolarisation pattern
+T29	SYMPTOM 7396 7436	negative ergobasin echocardiography test
+T65	SYMPTOM 7444 7471	toxic-metabolic alterations
+T44	SYMPTOM 8195 8235	Angiographically normal coronary network
+T41	SYMPTOM 8266 8293	Good biventricular function
+T66	SYMPTOM 8295 8363	Pharmacological tests to unmask channelopathy and vasospasm negative

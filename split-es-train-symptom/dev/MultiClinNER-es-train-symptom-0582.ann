@@ -1,0 +1,30 @@
+T1	SYMPTOM 348 354	fiebre
+T2	SYMPTOM 356 367	escalofríos
+T3	SYMPTOM 391 397	disnea
+T4	SYMPTOM 420 428	ortopnea
+T5	SYMPTOM 431 445	edemas en MMII
+T6	SYMPTOM 498 526	venas yugulares ingurgitadas
+T7	SYMPTOM 528 543	pulso arritmico
+T8	SYMPTOM 572 614	crepitantes basales bilaterales pulmonares
+T9	SYMPTOM 648 678	reflejo hepatoyugular positivo
+T10	SYMPTOM 681 721	edemas pretibiales con fóvea en los MMII
+T11	SYMPTOM 962 1040	hemocultivos seriados en los que se aisló de forma persistente Neisseria Sicca
+T12	SYMPTOM 1238 1245	afebril
+T13	SYMPTOM 1767 1798	pérdida de fuerza en hemicuerpo
+T14	SYMPTOM 2815 2827	asintomático
+T15	SYMPTOM 1334 1406	lesiones rojizas y dolorosas en los pulpejos de los dedos de ambas manos
+T16	SYMPTOM 555 570	ritmo de galope
+T17	SYMPTOM 1638 1670	prótesis mitral normofuncionante
+T18	SYMPTOM 2356 2374	focos hemorrágicos
+T19	SYMPTOM 2620 2651	normalidad de la válvula mitral
+T20	SYMPTOM 2417 2427	resangrado
+T21	SYMPTOM 1842 1955	imagénes hiperdensas a nivel temporalparietal y occipital de ambos hemisferios compatibles con focos hemorrágicos
+T22	SYMPTOM 933 946	signos de ICC
+T23	SYMPTOM 1685 1697	vegetaciones
+A1	RESULTADO T11
+A2	IMAGEN T17
+A3	IMAGEN T18
+A4	IMAGEN T19
+A5	IMAGEN T21
+A6	IMAGEN T22
+A7	IMAGEN T23

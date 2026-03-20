@@ -1,0 +1,43 @@
+T20	DISEASE 108 146	aneurisma de aorta torácica ascendente
+T21	DISEASE 149 215	insuficiencia aórtica grave secundaria a válvula aórtica bicúspide
+T22	DISEASE 315 335	infarto anteroseptal
+T23	DISEASE 413 439	disfunción sistólica grave
+T24	DISEASE 959 981	insuficiencia cardiaca
+T25	DISEASE 1484 1493	infección
+T26	DISEASE 1673 1748	Bloqueo de rama izquierda con alteraciones secundarias en la repolarización
+T27	DISEASE 1890 1934	Insuficiencia mitral (IM) funcional moderada
+T28	DISEASE 2036 2061	insuficiencia tricuspídea
+T29	DISEASE 2063 2065	IT
+T30	DISEASE 2170 2190	insuficiencia mitral
+T31	DISEASE 2192 2236	insuficiencia mitral (IM) funcional moderada
+T32	DISEASE 2590 2636	lesión cutánea en región mediastínica anterior
+T33	DISEASE 2945 2959	lesión cutánea
+T34	DISEASE 3001 3016	pseudoaneurisma
+T35	DISEASE 3606 3633	ruptura del pseudoaneurisma
+T36	DISEASE 3678 3693	pseudoaneurisma
+T37	DISEASE 4308 4326	IM funcional grave
+T38	DISEASE 4346 4375	Dehiscencia del anillo mitral
+T39	DISEASE 4731 4751	insuficiencia mitral
+T40	DISEASE 4807 4852	neumonía bilateral por coronavirus SARS-CoV-2
+T41	DISEASE 4894 4926	síndrome de distrés respiratorio
+T42	DISEASE 5180 5205	Válvula aórtica bicúspide
+T43	DISEASE 5207 5236	Aneurisma de aorta ascendente
+T44	DISEASE 5317 5337	Infarto de miocardio
+T45	DISEASE 5371 5393	Insuficiencia cardiaca
+T46	DISEASE 5425 5466	Pseudoaneurisma de tubo aórtico valvulado
+T47	DISEASE 5468 5504	Insuficiencia mitral funcional grave
+T48	DISEASE 5580 5648	Dehiscencia de anillo de valvuloplastia mitral con IM residual grave
+T49	DISEASE 5650 5689	Neumonía bilateral grave por SARS-CoV-2
+T50	DISEASE 3196 3198	IM
+T51	DISEASE 4038 4040	IM
+T52	DISEASE 4258 4260	IM
+T53	DISEASE 1766 1800	ventrículo izquierdo (VI) dilatado
+T102	DISEASE 4079 4090	VI dilatado
+T114	DISEASE 3283 3291	lesiones
+T101	DISEASE 1912 1914	IM
+T107	DISEASE 2214 2216	IM
+T108	DISEASE 2707 2740	defecto óseo en manubrio esternal
+T109	DISEASE 2855 2898	disecciones crónicas en la aorta ascendente
+#1	AnnotatorNotes T50	 insuficiencia mitral
+#2	AnnotatorNotes T51	 insuficiencia mitral
+#3	AnnotatorNotes T52	 insuficiencia mitral

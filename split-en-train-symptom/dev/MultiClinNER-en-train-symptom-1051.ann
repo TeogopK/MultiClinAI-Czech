@@ -1,0 +1,44 @@
+T1	SYMPTOM 219 229	chest pain
+T36	SYMPTOM 479 520	normal left ventricular ejection fraction
+T3	SYMPTOM 1045 1128	central thoracic pain of intensity 10/10, oppressive, radiating to the jaw and back
+T4	SYMPTOM 1145 1151	nausea
+T5	SYMPTOM 1160 1168	vomiting
+T8	SYMPTOM 1225 1229	pain
+T10	SYMPTOM 1377 1382	fever
+T11	SYMPTOM 1832 1854	good general condition
+T12	SYMPTOM 1856 1865	conscious
+T13	SYMPTOM 1870 1878	oriented
+T14	SYMPTOM 1880 1895	eupneic at rest
+T15	SYMPTOM 1900 1913	well perfused
+T16	SYMPTOM 1918 1920	IY
+T17	SYMPTOM 1922 1970	Cardiopulmonary auscultation without alterations
+T6	SYMPTOM 1972 2000	Abdomen soft and not painful
+T33	SYMPTOM 2002 2028	Lower limbs without oedema
+T18	SYMPTOM 3099 3111	sinus rhythm
+T19	SYMPTOM 3123 3134	PR in range
+T35	SYMPTOM 3136 3147	normal axis
+T20	SYMPTOM 3149 3159	narrow QRS
+T21	SYMPTOM 3161 3178	QTc not prolonged
+T7	SYMPTOM 3188 3220	acute repolarisation alterations
+T27	SYMPTOM 3325 3358	normal cardiothoracic index (CTI)
+T39	SYMPTOM 3436 3466	left ventricle neither dilated
+T40	SYMPTOM 3485 3523	Subjective systolic function preserved
+T41	SYMPTOM 3525 3582	dyskinesia of the middle segment of the anteroseptal face
+T42	SYMPTOM 3598 3636	alterations of segmental contractility
+T22	SYMPTOM 3747 3815	non-dilated left ventricle, with a slight increase in wall thickness
+T43	SYMPTOM 3817 3886	Localised akinesia at the level of the middle interventricular septum
+T23	SYMPTOM 3964 3991	Preserved systolic function
+T24	SYMPTOM 4023 4048	Normal diastolic function
+T25	SYMPTOM 4050 4107	Non-dilated right ventricle with normal systolic function
+T26	SYMPTOM 4128 4181	Cardiac catheterisation: common trunk without lesions
+T44	SYMPTOM 4183 4270	Dominant circumflex, of good calibre and great development, without significant lesions
+T45	SYMPTOM 4575 4618	ventricles neither dilated nor hypertrophic
+T29	SYMPTOM 4801 4807	oedema
+T37	SYMPTOM 4816 4896	late enhancement sequences there are patchy areas of intramyocardial enhancement
+T30	SYMPTOM 5165 5209	Nasopharyngeal swab for SARS-CoV-2: negative
+T2	SYMPTOM 5271 5281	chest pain
+T38	SYMPTOM 5624 5658	dyskinetic segment at septal level
+T31	SYMPTOM 5684 5725	elevation of markers of myocardial damage
+T34	SYMPTOM 5794 5806	ST elevation
+T32	SYMPTOM 7021 7053	Normal left ventricular function
+T9	SYMPTOM 7236 7253	LDL out of target

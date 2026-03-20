@@ -1,0 +1,61 @@
+T81	DISEASE 26 40	drug allergies
+T26	DISEASE 71 92	arterial hypertension
+T27	DISEASE 94 96	HT
+T29	DISEASE 99 112	Dyslipidaemia
+T1	DISEASE 114 127	dislipidaemia
+T86	DISEASE 136 142	smoker
+T30	DISEASE 179 210	chronic ischaemic heart disease
+T2	DISEASE 212 283	Coronary artery disease of the left coronary trunk (LMCA) and 3 vessels
+T32	DISEASE 354 369	unstable angina
+T74	DISEASE 384 403	90% disease of LMCA
+T4	DISEASE 405 422	occlusion of LMAD
+T33	DISEASE 427 451	occlusion of CXp and CDp
+T34	DISEASE 568 581	stable angina
+T36	DISEASE 649 658	ischaemia
+T37	DISEASE 780 847	Persistent atrial fibrillation with controlled ventricular response
+T38	DISEASE 903 919	bronchial asthma
+T39	DISEASE 1056 1085	Stage 3 chronic renal failure
+T40	DISEASE 1108 1128	nephroangiosclerosis
+T41	DISEASE 1130 1159	Secondary hyperparathyroidism
+T42	DISEASE 1161 1186	Secondary chronic anaemia
+T43	DISEASE 1188 1202	Hyperuricaemia
+T44	DISEASE 1204 1232	Benign prostatic hyperplasia
+T76	DISEASE 1337 1343	angina
+T49	DISEASE 2013 2025	cardiomegaly
+T45	DISEASE 2414 2435	pulmonary haemorrhage
+T46	DISEASE 2677 2697	alveolar haemorrhage
+T50	DISEASE 2951 2963	cardiomegaly
+T51	DISEASE 2984 2997	heart failure
+T57	DISEASE 3039 3048	pneumonia
+T58	DISEASE 3519 3539	deep vein thrombosis
+T59	DISEASE 3541 3544	DVT
+T61	DISEASE 3573 3592	atrial fibrillation
+T63	DISEASE 4016 4032	pleural effusion
+T10	DISEASE 4385 4426	ulcerated plaque in the left common iliac
+T11	DISEASE 4563 4584	LA moderately dilated
+T12	DISEASE 4594 4613	RV slightly dilated
+T13	DISEASE 4680 4700	mitral regurgitation
+T14	DISEASE 4736 4783	central 2/4 IT with mild pulmonary hypertension
+T28	DISEASE 4785 4787	PH
+T64	DISEASE 4790 4847	Sclerocalcified aortic valve, with severe aortic stenosis
+T65	DISEASE 5006 5026	pericardial effusion
+T16	DISEASE 5115 5193	slightly calcified aortic valve with severe stenosis and central insufficiency
+T67	DISEASE 5317 5343	Mitral valve insufficiency
+T17	DISEASE 5355 5384	Tricuspid valve insufficiency
+T66	DISEASE 5441 5461	pericardial effusion
+T82	DISEASE 5911 5942	decompensation of heart failure
+T47	DISEASE 6138 6158	alveolar haemorrhage
+T68	DISEASE 6376 6385	infection
+T83	DISEASE 6423 6454	decompensation of heart failure
+T70	DISEASE 6473 6495	severe aortic stenosis
+T84	DISEASE 7641 7672	decompensation of heart failure
+T71	DISEASE 7886 7954	Symptomatic severe aortic stenosis with heart failure decompensation
+T72	DISEASE 7956 8011	Diffuse alveolar haemorrhage secondary to heart failure
+T73	DISEASE 8170 8202	Moderate tricuspid regurgitation
+T23	DISEASE 8209 8211	PH
+T31	DISEASE 8220 8251	chronic ischaemic heart disease
+T24	DISEASE 8253 8278	LMCA and 3-vessel disease
+T62	DISEASE 8392 8421	Permanent atrial fibrillation
+T48	DISEASE 8423 8425	AF
+T52	DISEASE 8485 8488	HBP
+T53	DISEASE 8490 8503	dyslipidaemia

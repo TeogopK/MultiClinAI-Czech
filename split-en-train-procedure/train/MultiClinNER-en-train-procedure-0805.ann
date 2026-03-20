@@ -1,0 +1,44 @@
+T42	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T43	PROCEDURE 235 241	uncles
+T44	PROCEDURE 343 367	aortic valve replacement
+T45	PROCEDURE 491 511	coronary angiography
+T46	PROCEDURE 1242 1251	anamnesis
+T47	PROCEDURE 1883 1903	Cardiac auscultation
+T48	PROCEDURE 1944 1966	Pulmonary auscultation
+T2	PROCEDURE 2127 2130	CBC
+T49	PROCEDURE 2275 2292	Electrocardiogram
+T50	PROCEDURE 2294 2297	ECG
+T51	PROCEDURE 2403 2406	ECG
+T53	PROCEDURE 2416 2427	Chest X-ray
+T55	PROCEDURE 2535 2565	Transthoracic echocardiography
+T77	PROCEDURE 2861 2872	Cardiac MRI
+T68	PROCEDURE 2977 2986	Telemetry
+T57	PROCEDURE 3285 3311	Electrophysiological study
+T18	PROCEDURE 3313 3316	EPS
+T58	PROCEDURE 3322 3353	ablation with navigation system
+T17	PROCEDURE 3460 3502	Three-dimensional reconstruction of the RV
+T14	PROCEDURE 3884 3898	Radiofrequency
+T59	PROCEDURE 4172 4209	Ventricular arrhythmia induction test
+T60	PROCEDURE 4242 4257	Flecainide test
+T52	PROCEDURE 4415 4418	ECG
+T54	PROCEDURE 4420 4431	chest X-ray
+T62	PROCEDURE 4572 4603	electrocardiographic monitoring
+T65	PROCEDURE 4593 4603	monitoring
+T64	PROCEDURE 4712 4728	Echocardiography
+T66	PROCEDURE 4791 4801	monitoring
+T69	PROCEDURE 4935 4944	Telemetry
+T71	PROCEDURE 5207 5215	ablation
+T72	PROCEDURE 5358 5460	Radiofrequency ablation was performed in the moderator band (BM) guided by the CARTO navigation system
+T61	PROCEDURE 5479 5494	flecainide test
+T56	PROCEDURE 5559 5593	cardiac magnetic resonance imaging
+T78	PROCEDURE 5595 5598	MRI
+T67	PROCEDURE 5674 5695	telemetric monitoring
+T79	PROCEDURE 5755 5769	24-hour Holter
+T73	PROCEDURE 5793 5801	ablation
+T8	PROCEDURE 5954 6002	implant a subcutaneous Holter prior to discharge
+T74	PROCEDURE 6029 6037	ablation
+T80	PROCEDURE 6108 6165	implantation of an implantable cardioverter defibrillator
+T7	PROCEDURE 6167 6170	ICD
+T76	PROCEDURE 6246 6259	genetic study
+T81	PROCEDURE 6611 6669	Ablation of right ventricular moderator band extrasystoles
+T82	PROCEDURE 6671 6687	ICD implantation

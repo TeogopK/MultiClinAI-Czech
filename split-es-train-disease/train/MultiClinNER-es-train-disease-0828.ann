@@ -1,0 +1,31 @@
+T33	DISEASE 71 106	reacciones alérgicas medicamentosas
+T34	DISEASE 118 134	Hábito tabáquico
+T35	DISEASE 167 183	Obesidad mórbida
+T36	DISEASE 185 206	Hipertensión arterial
+T37	DISEASE 208 245	Diabetes mellitus insulinodependiente
+T38	DISEASE 247 257	Dislipemia
+T39	DISEASE 259 272	Hiperuricemia
+T40	DISEASE 274 288	Hipotiroidismo
+T41	DISEASE 290 314	Enfermedad renal crónica
+T42	DISEASE 368 391	Arteriopatía periférica
+T43	DISEASE 442 463	Cardiopatía isquémica
+T44	DISEASE 477 493	angina inestable
+T45	DISEASE 530 632	lesión grave de tres vasos (descendente anterior [DA], coronaria derecha [CD], primera obtusa marginal
+T46	DISEASE 1344 1350	angina
+T47	DISEASE 2709 2730	fibrilación auricular
+T48	DISEASE 3223 3268	CD poco desarrollada con una oclusión crónica
+T49	DISEASE 3413 3483	estenosis significativa en el origen de la arteria subclavia izquierda
+T50	DISEASE 3560 3621	estenosis crıt́ica de la arteria subclavia izquierda proximal
+T51	DISEASE 3945 3983	Hipertrofia ventricular izquierda leve
+T52	DISEASE 4125 4179	estenosis significativa de arteria subclavia izquierda
+T53	DISEASE 4884 4900	hábito tabáquico
+T54	DISEASE 5584 5641	Angina inestable por síndrome de robo subclavio-coronario
+T55	DISEASE 5659 5699	enfermedad coronaria grave de tres vasos
+T56	DISEASE 5847 5880	Fibrilación auricular paroxística
+T57	DISEASE 5899 5918	Fracaso renal agudo
+T58	DISEASE 5934 5979	enfermedad renal crónica, de origen prerrenal
+T59	DISEASE 4034 4056	Dilatación biauricular
+T60	DISEASE 3082 3129	Circunfleja (Cx) dominante crónicamente ocluida
+T61	DISEASE 4061 4074	valvulopatıás
+T62	DISEASE 5982 6017	nefrotoxicidad por contraste yodado
+#1	AnnotatorNotes T48	 CD: coronaria derecha

@@ -1,0 +1,35 @@
+T1	SYMPTOM 824 845	mal control glucémico
+T2	SYMPTOM 877 887	colestasis
+T3	SYMPTOM 660 669	ictericia
+T4	SYMPTOM 675 690	dolor abdominal
+T5	SYMPTOM 766 787	irritación peritoneal
+T6	SYMPTOM 268 275	vómitos
+T7	SYMPTOM 277 295	dolor hipogástrico
+T8	SYMPTOM 298 307	hematuria
+T9	SYMPTOM 455 464	ictericia
+T10	SYMPTOM 467 495	dolor abdominal generalizado
+T11	SYMPTOM 1287 1297	glucosuria
+T12	SYMPTOM 1299 1313	microhematuria
+T13	SYMPTOM 588 595	afebril
+T14	SYMPTOM 565 575	consciente
+T15	SYMPTOM 598 608	normotensa
+T16	SYMPTOM 577 586	orientada
+T17	SYMPTOM 1316 1334	nitritos negativos
+T18	SYMPTOM 1534 1566	aire ectópico en la pelvis menor
+T19	SYMPTOM 1694 1724	gas bordeando la pared vesical
+T20	SYMPTOM 1861 1923	urocultivo se aislan más de 100.000 UFC/ml de Escherichia coli
+T21	SYMPTOM 1339 1373	sedimento es claramente patológico
+T22	SYMPTOM 1094 1127	hemograma es prácticamente normal
+T23	SYMPTOM 890 899	citolisis
+T26	SYMPTOM 2669 2688	buen estado general
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	RESULTADO T17
+A6	IMAGEN T18
+A7	IMAGEN T19
+A8	RESULTADO T20
+A9	RESULTADO T21
+A10	RESULTADO T22
+A11	RESULTADO T23

@@ -1,0 +1,35 @@
+T72	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T76	PROCEDURE 260 283	beta-2 mimetic inhalers
+T57	PROCEDURE 573 590	electrocardiogram
+T58	PROCEDURE 592 595	ECG
+T4	PROCEDURE 804 820	Laboratory tests
+T60	PROCEDURE 868 879	chest X-ray
+T74	PROCEDURE 995 1009	echocardiogram
+T5	PROCEDURE 1011 1014	TTE
+T67	PROCEDURE 1263 1278	catheterisation
+T8	PROCEDURE 1501 1562	section and closure of both ductal stumps by left thoracotomy
+T63	PROCEDURE 1776 1800	systemic corticosteroids
+T68	PROCEDURE 1823 1863	post-surgery right heart catheterisation
+T64	PROCEDURE 2266 2292	respiratory function tests
+T65	PROCEDURE 2381 2395	pulse oximetry
+T12	PROCEDURE 2416 2425	walk test
+T15	PROCEDURE 2725 2728	TTE
+T66	PROCEDURE 2821 2835	Ergospirometry
+T69	PROCEDURE 3119 3134	catheterisation
+T19	PROCEDURE 3610 3613	TTE
+T32	PROCEDURE 3844 3847	TTE
+T33	PROCEDURE 3879 3890	cardiac MRI
+T51	PROCEDURE 3887 3890	MRI
+T70	PROCEDURE 4092 4107	catheterisation
+T77	PROCEDURE 4424 4434	monitoring
+T73	PROCEDURE 4615 4635	Physical examination
+T59	PROCEDURE 4881 4884	ECG
+T81	PROCEDURE 5043 5046	CBC
+T61	PROCEDURE 5728 5739	Chest X-ray
+T82	PROCEDURE 5810 5813	TTE
+T62	PROCEDURE 7072 7093	right catheterisation
+T71	PROCEDURE 7126 7150	intravenous prostacyclin
+T85	PROCEDURE 7290 7329	changes of venous line due to phlebitis
+T86	PROCEDURE 7469 7506	implantation of the subcutaneous pump
+T75	PROCEDURE 7703 7717	echocardiogram
+T78	PROCEDURE 7893 7928	Intervened patent ductus arteriosus

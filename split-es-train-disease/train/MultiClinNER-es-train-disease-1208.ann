@@ -1,0 +1,30 @@
+T28	DISEASE 125 161	Miocardiopatía dilatada no isquémica
+T29	DISEASE 166 196	disfunción biventricular grave
+T30	DISEASE 256 287	insuficiencia cardiaca avanzada
+T31	DISEASE 2208 2233	trombosis venosa profunda
+T32	DISEASE 2696 2717	aneurisma ventricular
+T33	DISEASE 4087 4107	esteatosis parcheada
+T34	DISEASE 6881 6904	miocardiopatía dilatada
+T35	DISEASE 6922 6952	disfunción biventricular grave
+T36	DISEASE 17 40	alergias medicamentosas
+T37	DISEASE 625 660	FA con respuesta ventricular rápida
+T38	DISEASE 352 354	FA
+T39	DISEASE 2314 2316	FA
+T40	DISEASE 2412 2425	cardiomegalia
+T41	DISEASE 2772 2810	aurícula izquierda gravemente dilatada
+T42	DISEASE 3072 3131	Válvula mitral fina con buena movilidad y con regurgitación
+T43	DISEASE 3183 3230	Válvula aórtica fina trivalva con regurgitación
+T44	DISEASE 3275 3302	Ventrículo derecho dilatado
+T45	DISEASE 3443 3476	Regurgitación tricúspide moderada
+T46	DISEASE 4274 4285	hepatitis C
+T47	DISEASE 4300 4311	hepatitis A
+T48	DISEASE 4337 4348	hepatitis B
+T49	DISEASE 4451 4462	parotiditis
+T50	DISEASE 4464 4471	rubeola
+T51	DISEASE 4473 4482	sarampión
+T52	DISEASE 4691 4698	sífilis
+T53	DISEASE 6968 6982	FA persistente
+T110	DISEASE 108 123	hábitos tóxicos
+T12	DISEASE 2358 2388	hemibloqueo anterior izquierdo
+T120	DISEASE 4505 4514	varicella
+#1	AnnotatorNotes T38	 Fibrilación Auricular

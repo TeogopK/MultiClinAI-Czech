@@ -1,0 +1,19 @@
+T12	SYMPTOM 99 111	constipation
+T7	SYMPTOM 147 174	irritative voiding syndrome
+T2	SYMPTOM 211 218	dysuria
+T5	SYMPTOM 223 234	pollakiuria
+T14	SYMPTOM 251 264	urinary urges
+T15	SYMPTOM 279 298	urological symptoms
+T16	SYMPTOM 388 423	positive urine cultures for E. coli
+T10	SYMPTOM 486 521	blood biochemistry which was normal
+T4	SYMPTOM 575 587	leukocyturia
+T9	SYMPTOM 589 638	urine culture which was again positive for E.coli
+T3	SYMPTOM 965 972	dysuria
+T6	SYMPTOM 977 988	pollakiuria
+T17	SYMPTOM 1353 1397	urological ultrasound, which was also normal
+T13	SYMPTOM 1540 1546	oedema
+T18	SYMPTOM 1699 1728	urography was strictly normal
+T19	SYMPTOM 1931 1972	studies were negative for Koch's bacillus
+T1	SYMPTOM 3150 3162	asymptomatic
+T11	SYMPTOM 3168 3193	normal control cystoscopy
+T8	SYMPTOM 3198 3221	negative urine cultures

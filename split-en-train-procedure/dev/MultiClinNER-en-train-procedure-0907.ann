@@ -1,0 +1,19 @@
+T33	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T34	PROCEDURE 509 529	Physical examination
+T35	PROCEDURE 648 668	Cardiac auscultation
+T36	PROCEDURE 794 816	Pulmonary auscultation
+T48	PROCEDURE 944 955	Lower limbs
+T37	PROCEDURE 1025 1028	ECG
+T2	PROCEDURE 1185 1196	Blood tests
+T38	PROCEDURE 1506 1517	Chest X-ray
+T39	PROCEDURE 1676 1692	Echocardiography
+T41	PROCEDURE 2191 2198	Doppler
+T42	PROCEDURE 2833 2867	percutaneous mitral commissurotomy
+T9	PROCEDURE 2869 2872	PMC
+T10	PROCEDURE 3101 3104	PMC
+T44	PROCEDURE 3122 3147	valve replacement surgery
+T46	PROCEDURE 3183 3193	ultrasound
+T43	PROCEDURE 3511 3545	percutaneous mitral commissurotomy
+T11	PROCEDURE 3551 3602	commissurotomy was performed using an Inoue balloon
+T47	PROCEDURE 3607 3627	transseptal puncture
+T40	PROCEDURE 3960 3976	echocardiography

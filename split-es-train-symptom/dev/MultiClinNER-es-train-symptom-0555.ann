@@ -1,0 +1,8 @@
+T1	SYMPTOM 65 83	síndrome miccional
+T2	SYMPTOM 436 484	engrosamiento irregular de la pared de la vejiga
+T3	SYMPTOM 801 844	vejiga con engrosamiento difuso de su pared
+T4	SYMPTOM 1095 1162	Citología de orina negativa en dos ocasiones para células tumorales
+T5	SYMPTOM 937 978	captación difusa de toda la pared vesical
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	RESULTADO T4

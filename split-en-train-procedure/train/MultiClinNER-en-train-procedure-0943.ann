@@ -1,0 +1,23 @@
+T43	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T44	PROCEDURE 580 600	Physical examination
+T45	PROCEDURE 779 799	cardiac auscultation
+T46	PROCEDURE 981 998	electrocardiogram
+T48	PROCEDURE 1073 1084	chest X-ray
+T50	PROCEDURE 1176 1188	Beta-blocker
+T51	PROCEDURE 1322 1336	echocardiogram
+T47	PROCEDURE 1699 1716	Electrocardiogram
+T49	PROCEDURE 1846 1857	Chest X-ray
+T52	PROCEDURE 1947 1961	Echocardiogram
+T53	PROCEDURE 2417 2431	Echocardiogram
+T54	PROCEDURE 2631 2645	Echocardiogram
+T58	PROCEDURE 2914 2942	transthoracic echocardiogram
+T55	PROCEDURE 2928 2942	echocardiogram
+T59	PROCEDURE 3258 3282	electrical cardioversion
+T60	PROCEDURE 3391 3411	haemodynamic support
+T61	PROCEDURE 3447 3469	orotracheal intubation
+T62	PROCEDURE 3474 3494	invasive ventilation
+T56	PROCEDURE 3505 3519	echocardiogram
+T63	PROCEDURE 3684 3697	beta-blockers
+T64	PROCEDURE 3754 3790	haemodynamic and ventilatory support
+T65	PROCEDURE 3792 3812	Coronary angiography
+T57	PROCEDURE 3908 3922	echocardiogram

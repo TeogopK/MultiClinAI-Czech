@@ -1,0 +1,29 @@
+T50	PROCEDURE 134 160	elective caesarean section
+T51	PROCEDURE 615 635	Physical examination
+T52	PROCEDURE 899 929	Cardiorespiratory auscultation
+T53	PROCEDURE 1289 1306	Electrocardiogram
+T54	PROCEDURE 1308 1311	ECG
+T73	PROCEDURE 1406 1418	biochemistry
+T69	PROCEDURE 1431 1435	ions
+T68	PROCEDURE 1440 1454	renal function
+T55	PROCEDURE 1456 1465	Haemogram
+T65	PROCEDURE 1546 1557	Coagulation
+T56	PROCEDURE 1568 1579	Chest X-ray
+T58	PROCEDURE 1627 1657	Transthoracic echocardiography
+T5	PROCEDURE 2404 2435	administration of serum therapy
+T6	PROCEDURE 2437 2481	transfusion of 2 red blood cell concentrates
+T61	PROCEDURE 2531 2548	caesarean section
+T7	PROCEDURE 2559 2596	non-steroidal anti-inflammatory drugs
+T62	PROCEDURE 2598 2604	NSAIDs
+T8	PROCEDURE 2616 2679	pericardiocentesis was performed via the left parasternal route
+T9	PROCEDURE 2793 2806	beta-blockers
+T10	PROCEDURE 2811 2851	angiotensin-converting enzyme inhibitors
+T63	PROCEDURE 3017 3038	intravenous diuretics
+T57	PROCEDURE 3040 3051	Chest X-ray
+T64	PROCEDURE 3115 3151	diagnostic-therapeutic thoracentesis
+T67	PROCEDURE 3234 3254	pre-transplant study
+T59	PROCEDURE 3273 3303	transthoracic echocardiography
+T66	PROCEDURE 4053 4075	antinuclear antibodies
+T71	PROCEDURE 4092 4100	anti-DNA
+T72	PROCEDURE 4141 4167	anticardiolipin antibodies
+T70	PROCEDURE 4220 4231	Coombs test

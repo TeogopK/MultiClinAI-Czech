@@ -1,0 +1,44 @@
+T1	SYMPTOM 551 580	dolor centrotorácico opresivo
+T2	SYMPTOM 586 603	cuadro vegetativo
+T3	SYMPTOM 726 745	sensación de estrés
+T4	SYMPTOM 821 855	alteraciones electrocardiográficas
+T5	SYMPTOM 959 972	palpitaciones
+T6	SYMPTOM 985 996	presíncopes
+T7	SYMPTOM 1006 1046	disnea progresiva de esfuerzos moderados
+T8	SYMPTOM 1081 1089	ortopnea
+T9	SYMPTOM 1091 1097	edemas
+T10	SYMPTOM 1212 1224	Asintomática
+T11	SYMPTOM 1226 1240	normocoloreada
+T12	SYMPTOM 1242 1257	bien perfundida
+T13	SYMPTOM 1263 1284	ingurgitación yugular
+T14	SYMPTOM 1288 1310	reflujo hepato-yugular
+T15	SYMPTOM 1381 1389	Eupneica
+T16	SYMPTOM 1434 1458	tonos cardiacos rítmicos
+T17	SYMPTOM 1464 1479	soplo sistólico
+T18	SYMPTOM 1592 1619	Abdomen: exploración normal
+T19	SYMPTOM 1648 1699	Pulsos radiales y pedios conservados simétricamente
+T20	SYMPTOM 1713 1719	edemas
+T21	SYMPTOM 1772 1774	RS
+T22	SYMPTOM 1785 1795	eje normal
+T23	SYMPTOM 1934 2000	índice cardiotorácico (ICT) en el límite superior de la normalidad
+T24	SYMPTOM 2006 2043	aumento de la trama vascular pulmonar
+T26	SYMPTOM 2228 2279	Función renal, perfil hepatobiliar e iones normales
+T27	SYMPTOM 2281 2308	Creatina-fosfocinasa normal
+T28	SYMPTOM 2602 2663	función renal iones y marcadores de función hepática normales
+T29	SYMPTOM 2692 2702	TSH normal
+T31	SYMPTOM 3067 3094	Cavidades derechas normales
+T33	SYMPTOM 3398 3442	Función sistólica y diastólica del VI normal
+T35	SYMPTOM 3619 3647	arterias coronarias normales
+T36	SYMPTOM 3829 3863	VI de diámetro y morfología normal
+T37	SYMPTOM 3937 3952	FEVI conservada
+T39	SYMPTOM 4872 4884	asintomática
+T40	SYMPTOM 4920 4934	dolor torácico
+T41	SYMPTOM 5554 5568	Dolor torácico
+T84	SYMPTOM 974 982	síncopes
+T108	SYMPTOM 2716 2738	Perfil lipídico normal
+T110	SYMPTOM 2740 2773	Reactantes de fase aguda normales
+T111	SYMPTOM 2775 2812	Marcadores de autoinmunidad negativos
+T113	SYMPTOM 3096 3127	Aorta de calibre y flujo normal
+T32	SYMPTOM 3483 3518	Ventrículo derecho normofuncionante
+T42	SYMPTOM 5636 5682	Arterias coronarias angiográficamente normales
+T137	SYMPTOM 1101 1120	recorte de diuresis

@@ -1,0 +1,35 @@
+T1	SYMPTOM 413 419	fiebre
+T2	SYMPTOM 435 442	vómitos
+T3	SYMPTOM 445 450	mareo
+T4	SYMPTOM 501 509	tos seca
+T5	SYMPTOM 511 521	irritativa
+T6	SYMPTOM 556 564	rinorrea
+T7	SYMPTOM 569 576	otalgia
+T8	SYMPTOM 581 598	clínica miccional
+T9	SYMPTOM 603 638	alteraciones de hábito deposicional
+T10	SYMPTOM 685 724	dolor y molestias en zona de reservorio
+T12	SYMPTOM 933 943	Consciente
+T13	SYMPTOM 945 954	orientada
+T15	SYMPTOM 1001 1026	ruidos cardiacos rítmicos
+T16	SYMPTOM 1028 1041	taquicárdicos
+T17	SYMPTOM 1059 1065	soplos
+T18	SYMPTOM 1090 1126	normoventilación en todos los campos
+T19	SYMPTOM 1128 1150	PPR bilateral negativa
+T21	SYMPTOM 1186 1238	Abdomen: blando, depresible, doloroso a la palpación
+T22	SYMPTOM 1268 1273	masas
+T23	SYMPTOM 1277 1292	visceromegalias
+T24	SYMPTOM 1294 1318	Peristaltismo conservado
+T25	SYMPTOM 1333 1344	peritonismo
+T26	SYMPTOM 1346 1373	Blumberg y Murphy negativos
+T27	SYMPTOM 1683 1738	Hemocultivos: positivos para Staphylococcus epidermidis
+T28	SYMPTOM 1839 1850	FEVI normal
+T29	SYMPTOM 1857 1880	asimetrías contráctiles
+T30	SYMPTOM 1882 1897	Diástole normal
+T31	SYMPTOM 1915 1953	VM de velos finos, cinética conservada
+T33	SYMPTOM 2083 2101	función conservada
+T80	SYMPTOM 353 394	Portadora de reservorio venoso subcutáneo
+T81	SYMPTOM 757 773	zona eritematosa
+T11	SYMPTOM 1215 1253	doloroso a la palpación del epigastrio
+T14	SYMPTOM 1962 1987	VAo trivalva, velos finos
+T84	SYMPTOM 1152 1166	EEII: no edema
+T93	SYMPTOM 780 802	aumento de calor local

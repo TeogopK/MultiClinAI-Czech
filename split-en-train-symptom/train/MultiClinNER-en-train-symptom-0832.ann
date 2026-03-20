@@ -1,0 +1,38 @@
+T1	SYMPTOM 759 811	oppressive chest pain, radiating to both extremities
+T2	SYMPTOM 832 849	vegetative cortex
+T3	SYMPTOM 938 950	asymptomatic
+T5	SYMPTOM 1023 1037	isoelectric ST
+T7	SYMPTOM 1058 1081	haemodynamically stable
+T19	SYMPTOM 1141 1184	typically angina-like central thoracic pain
+T20	SYMPTOM 1213 1265	ST elevation of up to 4 mm on the inferolateral side
+T9	SYMPTOM 1509 1517	dyspnoea
+T21	SYMPTOM 1625 1668	pain with ST elevation in II-III-aVF, V1-V4
+T4	SYMPTOM 1863 1875	asymptomatic
+T10	SYMPTOM 2201 2223	Good general condition
+T11	SYMPTOM 2225 2238	normohydrated
+T33	SYMPTOM 2240 2253	normoperfused
+T12	SYMPTOM 2255 2264	Conscious
+T13	SYMPTOM 2269 2277	oriented
+T14	SYMPTOM 2328 2342	rhythmic tones
+T15	SYMPTOM 2347 2354	murmurs
+T16	SYMPTOM 2356 2397	Peripheral pulses present and symmetrical
+T17	SYMPTOM 2425 2451	preserved vesicular murmur
+T18	SYMPTOM 2453 2506	Abdomen: normal examination, no pathological findings
+T22	SYMPTOM 2559 2563	pain
+T24	SYMPTOM 2565 2577	sinus rhythm
+T26	SYMPTOM 2589 2598	normal PR
+T27	SYMPTOM 2600 2615	narrow QRS axis
+T28	SYMPTOM 2625 2666	ST elevation II, III, aVF, V3, V4, V5, V6
+T25	SYMPTOM 2724 2736	sinus rhythm
+T23	SYMPTOM 2833 2859	repolarisation alterations
+T6	SYMPTOM 2910 2945	condensation in the lung parenchyma
+T34	SYMPTOM 2958 2978	pulmonary congestion
+T29	SYMPTOM 3345 3369	SARS-CoV-2 PCR: negative
+T35	SYMPTOM 3611 3638	Haemogram without alteratio
+T32	SYMPTOM 3664 3679	right dominance
+T36	SYMPTOM 3882 3937	dilated nor hypertrophied with normal systolic function
+T37	SYMPTOM 3980 4027	Right ventricle not dilated and normocontractil
+T30	SYMPTOM 4030 4042	Normal atria
+T38	SYMPTOM 4104 4129	Normal pulmonary pressure
+T8	SYMPTOM 4354 4377	haemodynamically stable
+T31	SYMPTOM 5050 5080	Preserved LV systolic function

@@ -1,0 +1,13 @@
+T17	PROCEDURE 370 390	physical examination
+T10	PROCEDURE 432 450	Rectal examination
+T6	PROCEDURE 558 573	prostate biopsy
+T14	PROCEDURE 646 666	Abdominal ultrasound
+T1	PROCEDURE 898 928	simple and contrasted renal CT
+T13	PROCEDURE 991 1001	ultrasound
+T9	PROCEDURE 1191 1202	Chest X-ray
+T27	PROCEDURE 1207 1224	bone scintigraphy
+T8	PROCEDURE 1419 1463	laparotomy for acute perforated appendicitis
+T5	PROCEDURE 1602 1658	fine needle aspiration biopsy on the right kidney lesion
+T4	PROCEDURE 1887 1901	LHRH analogues
+T15	PROCEDURE 1906 1920	anti-androgens
+T3	PROCEDURE 1984 1992	renal CT

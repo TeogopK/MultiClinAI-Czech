@@ -1,0 +1,43 @@
+T99	PROCEDURE 753 781	ecocardiograma transtorácico
+T100	PROCEDURE 783 786	ETT
+T101	PROCEDURE 793 822	resonancia magnética cardiaca
+T102	PROCEDURE 824 827	RMC
+T103	PROCEDURE 925 941	estudio genético
+T104	PROCEDURE 1611 1614	RMC
+T105	PROCEDURE 1672 1724	anticoagulación con heparinas de bajo peso molecular
+T106	PROCEDURE 1726 1730	HBPM
+T107	PROCEDURE 1793 1796	ETT
+T108	PROCEDURE 2820 2872	Tomografía computarizada (TC) de arterias coronarias
+T109	PROCEDURE 3051 3067	Estudio genético
+T110	PROCEDURE 3403 3426	Medicación domiciliaria
+T111	PROCEDURE 4648 4670	intubación orotraqueal
+T112	PROCEDURE 4683 4712	ventilación mecánica invasiva
+T113	PROCEDURE 4830 4848	drogas vasoactivas
+T114	PROCEDURE 4851 4869	EXPLORACIÓN FÍSICA
+T115	PROCEDURE 4946 4968	Intubación orotraqueal
+T116	PROCEDURE 5125 5146	Auscultación cardiaca
+T117	PROCEDURE 5178 5199	Auscultación pulmonar
+T118	PROCEDURE 5474 5483	Hemograma
+T119	PROCEDURE 6191 6202	Coagulación
+T120	PROCEDURE 6394 6413	Gasometría arterial
+T121	PROCEDURE 6520 6538	Electrocardiograma
+T122	PROCEDURE 6540 6543	ECG
+T123	PROCEDURE 6682 6685	ECG
+T124	PROCEDURE 6894 6964	Radiografía de tórax: portátil, proyección proyección antero-posterior
+T125	PROCEDURE 7317 7335	drogas vasoactivas
+T126	PROCEDURE 8154 8190	oxigenador extracorpóreo de membrana
+T127	PROCEDURE 8192 8196	ECMO
+T128	PROCEDURE 8291 8310	trasplante cardiaco
+T136	PROCEDURE 7481 7494	sedoanalgesia
+T139	PROCEDURE 5987 5997	Bioquímica
+T140	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T141	PROCEDURE 4970 4985	Sedoanalgesiado
+T142	PROCEDURE 3318 3329	hematología
+T143	PROCEDURE 4542 4590	maniobras de reanimación cardiopulmonar avanzada
+T144	PROCEDURE 2846 2848	TC
+T145	PROCEDURE 8223 8233	trasplante
+T167	PROCEDURE 5463 5472	Analítica
+T170	PROCEDURE 2505 2508	CRM
+T181	PROCEDURE 8212 8220	ablación
+T201	PROCEDURE 7760 7794	procainamida en perfusión continua
+T206	PROCEDURE 5278 5287	se palpan

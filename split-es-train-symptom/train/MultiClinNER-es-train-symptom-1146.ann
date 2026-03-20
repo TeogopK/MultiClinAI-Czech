@@ -1,0 +1,30 @@
+T1	SYMPTOM 642 648	fiebre
+T2	SYMPTOM 650 658	tiritona
+T3	SYMPTOM 661 668	astenia
+T4	SYMPTOM 796 802	fiebre
+T5	SYMPTOM 828 848	hipotensión arterial
+T7	SYMPTOM 965 989	frialdad de partes acras
+T8	SYMPTOM 991 1021	Presión venosa yugular elevada
+T9	SYMPTOM 1023 1053	Auscultación cardiaca: rítmico
+T10	SYMPTOM 1055 1072	ruidos protésicos
+T11	SYMPTOM 1097 1123	crepitantes en ambas bases
+T12	SYMPTOM 1125 1159	Extremidades inferiores sin edemas
+T14	SYMPTOM 1370 1381	neutrofilia
+T15	SYMPTOM 2276 2334	hemocultivos tomados, positivos para Staphylococcus aureus
+T17	SYMPTOM 3653 3660	afebril
+T18	SYMPTOM 3727 3748	déficits neurológicos
+T19	SYMPTOM 3899 3921	dolor abdominal súbito
+T20	SYMPTOM 3923 3943	hipotensión arterial
+T21	SYMPTOM 4191 4219	líquido libre intraabdominal
+T22	SYMPTOM 4563 4571	sangrado
+T23	SYMPTOM 4825 4836	rectorragia
+T24	SYMPTOM 4866 4892	inestabilidad hemodinámica
+T25	SYMPTOM 5135 5143	sangrado
+T26	SYMPTOM 5563 5612	crecimiento de S. aureus en el material protésico
+T27	SYMPTOM 5686 5691	mareo
+T28	SYMPTOM 5694 5720	hipotensión arterial grave
+T29	SYMPTOM 5723 5734	taquicardia
+T30	SYMPTOM 6456 6507	asintomático desde el punto de vista cardiovascular
+T139	SYMPTOM 875 894	taquicardia sinusal
+T6	SYMPTOM 2983 3044	captación anómala de 18F-FDG en localizaciones extracardiacas
+T16	SYMPTOM 2835 2860	engrosamiento periaórtico

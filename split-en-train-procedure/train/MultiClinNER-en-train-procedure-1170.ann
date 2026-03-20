@@ -1,0 +1,75 @@
+T112	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T115	PROCEDURE 355 379	bronchodilator treatment
+T116	PROCEDURE 670 682	knee surgery
+T1	PROCEDURE 704 727	anticoagulant treatment
+T118	PROCEDURE 844 872	Transthoracic echocardiogram
+T2	PROCEDURE 874 877	TTE
+T119	PROCEDURE 957 966	ergometry
+T3	PROCEDURE 1128 1154	electrocardiographic image
+T120	PROCEDURE 1295 1317	antithrombotic therapy
+T4	PROCEDURE 1383 1386	TTE
+T121	PROCEDURE 1712 1740	Oesophageal diverticulectomy
+T167	PROCEDURE 1746 1774	anti-reflux myocardiomyotomy
+T122	PROCEDURE 1876 1891	Cholecystectomy
+T123	PROCEDURE 1966 1977	Gastroscopy
+T126	PROCEDURE 1982 1993	colonoscopy
+T129	PROCEDURE 3069 3086	Electrocardiogram
+T130	PROCEDURE 3088 3091	ECG
+T134	PROCEDURE 3221 3236	echocardioscopy
+T136	PROCEDURE 3348 3368	coronary angiography
+T113	PROCEDURE 3575 3595	Physical examination
+T138	PROCEDURE 3679 3692	nasal goggles
+T140	PROCEDURE 3812 3832	Cardiac auscultation
+T141	PROCEDURE 3863 3885	Pulmonary auscultation
+T131	PROCEDURE 4144 4147	ECG
+T132	PROCEDURE 4338 4341	ECG
+T142	PROCEDURE 4348 4363	catheterisation
+T133	PROCEDURE 4474 4477	ECG
+T144	PROCEDURE 4600 4611	Chest X-ray
+T145	PROCEDURE 5053 5064	Coagulation
+T168	PROCEDURE 5180 5190	lipidogram
+T165	PROCEDURE 5301 5313	Microbiology
+T146	PROCEDURE 5315 5333	SARS-CoV2 serology
+T147	PROCEDURE 5345 5358	SARS-CoV2 PCR
+T148	PROCEDURE 5582 5602	Sacral ulcer culture
+T150	PROCEDURE 5654 5668	Echocardiogram
+T151	PROCEDURE 6581 6595	Echocardiogram
+T137	PROCEDURE 6730 6750	coronary angiography
+T5	PROCEDURE 6907 6946	selective catheterisation of the vessel
+T7	PROCEDURE 7221 7295	Percutaneous coronary intervention (PCI) was performed in the common trunk
+T6	PROCEDURE 7257 7260	PCI
+T8	PROCEDURE 7302 7343	implantation of a Synergy 4 x 12 mm stent
+T9	PROCEDURE 7462 7534	overexpanding the proximal portion of the stent with a 4.5 mm NC balloon
+T152	PROCEDURE 7577 7601	Capsule endoscopic study
+T124	PROCEDURE 7872 7883	Gastroscopy
+T127	PROCEDURE 7888 7899	colonoscopy
+T153	PROCEDURE 7994 8011	revascularisation
+T10	PROCEDURE 8199 8230	oxygen therapy with FiO2 of 50%
+T164	PROCEDURE 8781 8799	vasoactive support
+T11	PROCEDURE 8907 8935	control the ventricular rate
+T135	PROCEDURE 8937 8952	Echocardioscopy
+T12	PROCEDURE 9007 9010	TTE
+T139	PROCEDURE 9268 9281	nasal goggles
+T114	PROCEDURE 9345 9365	physical examination
+T169	PROCEDURE 9399 9414	forced diuresis
+T155	PROCEDURE 9420 9428	diuretic
+T166	PROCEDURE 9590 9604	renal function
+T156	PROCEDURE 9723 9743	antibiotic treatment
+T157	PROCEDURE 9759 9788	PCR and serology for COVID-19
+T13	PROCEDURE 9876 9935	Samples were taken from a pressure ulcer in the sacral area
+T158	PROCEDURE 10147 10161	sputum culture
+T159	PROCEDURE 10163 10182	oral antibiotherapy
+T160	PROCEDURE 10232 10243	antibiogram
+T14	PROCEDURE 10593 10638	2 red blood cell concentrates were transfused
+T15	PROCEDURE 10806 10819	absolute diet
+T161	PROCEDURE 10905 10920	anticoagulation
+T16	PROCEDURE 11004 11016	antiplatelet
+T17	PROCEDURE 11137 11161	endoscopic capsule study
+T125	PROCEDURE 11417 11428	gastroscopy
+T128	PROCEDURE 11429 11440	colonoscopy
+T18	PROCEDURE 11445 11494	electrocoagulation of the angiodysplastic lesions
+T162	PROCEDURE 11894 11929	vitamin K antagonist anticoagulants
+T19	PROCEDURE 11939 11951	antiplatelet
+T20	PROCEDURE 12096 12111	digestive study
+T21	PROCEDURE 12236 12278	Implantation of drug-eluting stent in LMCA
+T163	PROCEDURE 12370 12396	red blood cell transfusion

@@ -1,0 +1,54 @@
+T1	SYMPTOM 282 288	disnea
+T2	SYMPTOM 302 377	dolor centrotorácico opresivo intenso irradiado a ambos miembros superiores
+T3	SYMPTOM 447 485	fasciculaciones en miembros superiores
+T4	SYMPTOM 487 509	temblor en ambas manos
+T5	SYMPTOM 512 562	imposibilidad para hablar por abundante salivación
+T6	SYMPTOM 565 575	broncorrea
+T7	SYMPTOM 807 834	hemodinámicamente inestable
+T8	SYMPTOM 1059 1111	elevación del ST en II-III-aVF, de V3 a V6 y V3R-V4R
+T9	SYMPTOM 1115 1148	descenso especular en I-aVL-V1-V2
+T10	SYMPTOM 1324 1340	elevación del ST
+T11	SYMPTOM 1411 1424	sedo relajado
+T12	SYMPTOM 1529 1536	afebril
+T13	SYMPTOM 1569 1575	miosis
+T14	SYMPTOM 1588 1597	sialorrea
+T15	SYMPTOM 1599 1653	Auscultación cardiaca: bradicárdica, rítmica y regular
+T16	SYMPTOM 1677 1717	sibilancias inspiratorias y espiratorias
+T17	SYMPTOM 1719 1756	estertores crepitantes en ambas bases
+T18	SYMPTOM 1798 1835	Abdomen globuloso, blando, depresible
+T19	SYMPTOM 1851 1910	Extremidades con fasciculaciones y mioclonías generalizadas
+T24	SYMPTOM 3799 3818	alteraciones del ST
+T25	SYMPTOM 3820 3876	elevación del ST en II-III-aVF y descenso en I-aVL-V1-V2
+T26	SYMPTOM 4010 4016	disnea
+T27	SYMPTOM 4028 4038	salivación
+T28	SYMPTOM 4040 4050	broncorrea
+T29	SYMPTOM 4052 4067	fasciculaciones
+T30	SYMPTOM 4069 4085	temblor en manos
+T31	SYMPTOM 4088 4094	signos
+T32	SYMPTOM 4096 4102	miosis
+T33	SYMPTOM 4104 4113	sialorrea
+T34	SYMPTOM 4115 4128	broncoespasmo
+T35	SYMPTOM 4130 4140	broncorrea
+T36	SYMPTOM 4142 4153	bradicardia
+T37	SYMPTOM 4167 4177	mioclonías
+T38	SYMPTOM 4203 4215	leucocitosis
+T39	SYMPTOM 4914 4927	ritmo sinusal
+T40	SYMPTOM 4938 4954	QS en II-III-aVF
+T41	SYMPTOM 4956 4973	R alta en V2 y V3
+T42	SYMPTOM 4982 5012	elevación del ST en II-III-aVF
+T43	SYMPTOM 5022 5045	descenso en I-aVLV1- V2
+T44	SYMPTOM 5181 5220	hiperreactividad de reflejos tendinosos
+T45	SYMPTOM 5232 5244	disautonomía
+T46	SYMPTOM 5247 5271	frialdad de extremidades
+T47	SYMPTOM 5458 5465	fallece
+T49	SYMPTOM 6019 6025	Exitus
+T142	SYMPTOM 3697 3710	ritmo sinusal
+T127	SYMPTOM 289 299	diaforesis
+T150	SYMPTOM 2676 2726	Infiltrado intersticial en ambos campos inferiores
+T158	SYMPTOM 5133 5154	deterioro neurológico
+T159	SYMPTOM 3204 3222	dominancia derecha
+T167	SYMPTOM 3224 3240	TCI sin lesiones
+T177	SYMPTOM 2618 2674	índice cardiotorácico en el límite alto de la normalidad
+T129	SYMPTOM 5166 5175	espástico
+T131	SYMPTOM 1785 1796	secreciones
+T20	SYMPTOM 2802 2816	VI no dilatado

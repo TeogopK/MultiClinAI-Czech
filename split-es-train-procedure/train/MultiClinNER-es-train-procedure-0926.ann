@@ -1,0 +1,38 @@
+T67	PROCEDURE 281 295	apendicectomía
+T68	PROCEDURE 930 948	electrocardiograma
+T69	PROCEDURE 950 953	ECG
+T70	PROCEDURE 996 999	ETT
+T71	PROCEDURE 1092 1114	intubación orotraqueal
+T72	PROCEDURE 1116 1137	se coloca vía central
+T73	PROCEDURE 1149 1167	soporte inotrópico
+T74	PROCEDURE 1181 1199	pericardiocentesis
+T75	PROCEDURE 1251 1293	cirugía urgente con evacuación del derrame
+T76	PROCEDURE 1296 1326	implante de parche pericárdico
+T77	PROCEDURE 1459 1474	coronariografía
+T78	PROCEDURE 1809 1817	extubado
+T79	PROCEDURE 1887 1905	EXPLORACIÓN FÍSICA
+T80	PROCEDURE 1907 1910	IOT
+T81	PROCEDURE 1945 1966	Auscultación cardiaca
+T82	PROCEDURE 2030 2051	Auscultación pulmonar
+T83	PROCEDURE 2340 2343	ETT
+T84	PROCEDURE 2563 2578	CORONARIOGRAFÍA
+T85	PROCEDURE 2808 2811	ETT
+T86	PROCEDURE 3140 3143	RMN
+T87	PROCEDURE 3232 3284	reparación quirúrgica de rotura de pared libre de VI
+T88	PROCEDURE 3691 3728	Estudio de realce tardío de gadolinio
+T89	PROCEDURE 4467 4470	TAC
+T90	PROCEDURE 5856 5904	implante de desfibrilador automático implantable
+T91	PROCEDURE 5912 5952	resección quirúrgica del pseudoaneurisma
+T92	PROCEDURE 5955 5974	trasplante cardiaco
+T93	PROCEDURE 5998 6027	resección del pseudoaneurisma
+T94	PROCEDURE 6151 6154	ETT
+T95	PROCEDURE 6431 6484	reparación quirúrgica de rotura de pared libre del VI
+T96	PROCEDURE 6486 6526	Resección quirúrgica del pseudoaneurisma
+T102	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T105	PROCEDURE 2136 2145	ANALÍTICA
+T108	PROCEDURE 5906 5909	DAI
+T126	PROCEDURE 1336 1343	cirugía
+T139	PROCEDURE 1993 2005	se auscultan
+T16	PROCEDURE 263 271	Cirugías
+T106	PROCEDURE 6344 6379	Reparación con parche de pericardio
+#3	AnnotatorNotes T80	 intubación orotrqueal

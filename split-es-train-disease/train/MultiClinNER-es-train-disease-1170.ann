@@ -1,0 +1,77 @@
+T59	DISEASE 146 168	Alérgico a penicilinas
+T60	DISEASE 223 232	exfumador
+T61	DISEASE 297 318	hipertensión arterial
+T62	DISEASE 320 323	HTA
+T63	DISEASE 326 377	Enfermedad pulmonar obstructiva crónica (EPOC) leve
+T64	DISEASE 367 371	EPOC
+T65	DISEASE 508 526	Bocio multinodular
+T66	DISEASE 552 593	Fibrilación/flutter auricular paroxístico
+T67	DISEASE 646 659	shock séptico
+T68	DISEASE 830 842	úlcera sacra
+T69	DISEASE 886 901	angor inestable
+T70	DISEASE 1044 1052	isquemia
+T71	DISEASE 1113 1167	síndrome coronario agudo sin elevación del segmento ST
+T72	DISEASE 1169 1176	SCASEST
+T73	DISEASE 1225 1257	lesión de tronco común izquierdo
+T74	DISEASE 1528 1556	dilatación leve raíz aórtica
+T75	DISEASE 1558 1592	insuficiencia mitral leve-moderada
+T76	DISEASE 1671 1708	Enfermedad de reflujo gastroesofágico
+T77	DISEASE 1710 1714	ERGE
+T78	DISEASE 1720 1730	esofagitis
+T79	DISEASE 1757 1765	Acalasia
+T80	DISEASE 1861 1901	infección respiratoria por P. aeruginosa
+T81	DISEASE 1903 1940	infección de escara sacra por E. coli
+T82	DISEASE 1962 1985	colecistitis alitiásica
+T83	DISEASE 1987 2025	Diverticulosis de colon con hemorragia
+T84	DISEASE 2059 2079	anemias ferropénicas
+T85	DISEASE 2089 2106	gastritis crónica
+T86	DISEASE 2138 2178	Pólipo pediculado a 30 cm de margen anal
+T87	DISEASE 2230 2242	divertículos
+T88	DISEASE 2285 2327	Angiodisplasia de intestino con hemorragia
+T89	DISEASE 2937 2944	melenas
+T90	DISEASE 3227 3259	lesión en tronco común izquierdo
+T91	DISEASE 3323 3366	disfunción moderada de ventrículo izquierdo
+T92	DISEASE 4193 4232	trombosis venosa en miembros inferiores
+T93	DISEASE 4463 4484	fibrilación auricular
+T94	DISEASE 4606 4623	flutter auricular
+T95	DISEASE 4786 4801	derrame pleural
+T96	DISEASE 5679 5691	úlcera sacra
+T97	DISEASE 5824 5827	HVI
+T98	DISEASE 6511 6554	Insuficiencia tricúspide (IT) leve-moderada
+T99	DISEASE 6694 6713	derrame pericárdico
+T100	DISEASE 6769 6782	valvulopatías
+T101	DISEASE 6822 6843	hipertensión pulmonar
+T102	DISEASE 6897 6923	tronco común con estenosis
+T103	DISEASE 7256 7323	Coronaria derecha dominante anatómicamente, difusamente ateromatosa
+T104	DISEASE 7850 7876	Angiodisplasia en estómago
+T105	DISEASE 7907 7934	Pólipo milimétrico en ciego
+T106	DISEASE 8973 9003	fibrilación flyutter auricular
+T107	DISEASE 9269 9282	valvulopatías
+T108	DISEASE 9289 9310	hipertensión pulmonar
+T109	DISEASE 9958 9966	COVID-19
+T110	DISEASE 10087 10119	úlcera por presión en zona sacra
+T111	DISEASE 10491 10502	anemización
+T112	DISEASE 10702 10709	melenas
+T113	DISEASE 11107 11109	FA
+T114	DISEASE 11413 11451	Angiodisplasias en estómago y en ciego
+T115	DISEASE 12306 12313	SCASEST
+T116	DISEASE 12325 12407	Enfermedad arterial coronaria grave de tronco coronario izquierdo (TCI) con lesión
+T117	DISEASE 12457 12489	Disfunción sistólica grave de VI
+T118	DISEASE 12521 12533	Anemia aguda
+T119	DISEASE 12607 12642	Angiodisplasias en estómago y ciego
+T120	DISEASE 12644 12686	Fibrilación/flutter auricular paroxísticos
+T121	DISEASE 12688 12713	Insuficiencia renal aguda
+T122	DISEASE 206 221	Hábitos tóxicos
+T123	DISEASE 6095 6180	Válvula aórtica esclerocalcificada, trivalva, con buena apertura e insuficiencia leve
+T124	DISEASE 4714 4727	cardiomegalia
+T125	DISEASE 8218 8229	hipotensión
+T126	DISEASE 3062 3082	hipotensión arterial
+T127	DISEASE 5776 5840	VI dilatado (DTD 70 mm), con hipertrofia de VI (HVI) septal leve
+T128	DISEASE 6182 6207	AI moderadamente dilatada
+T129	DISEASE 6209 6297	Válvula mitral esclerocalcificada, de velos engrosados, con regurgitación moderada-grave
+T130	DISEASE 6403 6445	Ventrículo derecho (VD) levemente dilatado
+T131	DISEASE 6581 6624	Vena cava inferior (VCI) levemente dilatada
+T132	DISEASE 8253 8274	mala perfusión distal
+T49	DISEASE 1745 1755	duodenitis
+T250	DISEASE 11645 11670	lesiones angiodisplásicas
+#1	AnnotatorNotes T97	 hipertrofia ventriculo izquierdo

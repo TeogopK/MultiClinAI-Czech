@@ -1,0 +1,30 @@
+T28	DISEASE 162 171	allergies
+T19	DISEASE 173 179	Smoker
+T29	DISEASE 221 228	drinker
+T35	DISEASE 747 774	respiratory tract infection
+T39	DISEASE 1576 1596	deep vein thrombosis
+T27	DISEASE 1598 1601	DVT
+T37	DISEASE 1663 1680	sinus tachycardia
+T20	DISEASE 2280 2292	cardiomegaly
+T40	DISEASE 2401 2451	dilated LV with severe global systolic dysfunction
+T31	DISEASE 2485 2508	RV systolic dysfunction
+T22	DISEASE 2510 2521	Moderate MI
+T30	DISEASE 2537 2557	pericardial effusion
+T41	DISEASE 2718 2739	severe LV dysfunction
+T21	DISEASE 3175 3187	cardiomegaly
+T24	DISEASE 3413 3435	dilated cardiomyopathy
+T72	DISEASE 3413 3435	dilated cardiomyopathy
+T36	DISEASE 3413 3474	dilated cardiomyopathy with severe LV and mild RV dysfunction
+T44	DISEASE 3455 3474	mild RV dysfunction
+T33	DISEASE 3507 3526	myocardial fibrosis
+T32	DISEASE 3992 4017	ventricular extrasystoles
+T25	DISEASE 4084 4106	dilated cardiomyopathy
+T73	DISEASE 4084 4106	dilated cardiomyopathy
+T42	DISEASE 4112 4133	severe LV dysfunction
+T38	DISEASE 4322 4339	sinus tachycardia
+T34	DISEASE 4592 4611	myocardial fibrosis
+T23	DISEASE 5190 5214	Congestive heart failure
+T26	DISEASE 5227 5249	dilated cardiomyopathy
+T74	DISEASE 5227 5249	dilated cardiomyopathy
+T43	DISEASE 5251 5272	Severe LV dysfunction
+T45	DISEASE 5274 5293	Mild RV dysfunction

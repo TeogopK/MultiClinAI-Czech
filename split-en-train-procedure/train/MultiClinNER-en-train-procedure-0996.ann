@@ -1,0 +1,52 @@
+T100	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T102	PROCEDURE 413 428	Catheterisation
+T2	PROCEDURE 677 733	Percutaneous coronary interventionism (PCI) with balloon
+T3	PROCEDURE 738 806	implantation of 2 stents in the proximal RCA and proximal-middle LAD
+T1	PROCEDURE 808 861	Implantation of a definitive bicameral pacemaker (MCP
+T103	PROCEDURE 961 975	echocardiogram
+T107	PROCEDURE 1139 1161	Surgical interventions
+T108	PROCEDURE 1163 1175	appendectomy
+T109	PROCEDURE 1177 1192	cholecystectomy
+T101	PROCEDURE 1923 1943	Physical examination
+T110	PROCEDURE 2174 2194	Cardiac auscultation
+T111	PROCEDURE 2251 2273	Pulmonary auscultation
+T112	PROCEDURE 2452 2469	Electrocardiogram
+T113	PROCEDURE 2471 2474	ECG
+T114	PROCEDURE 2529 2540	Chest X-ray
+T115	PROCEDURE 2657 2668	Blood count
+T118	PROCEDURE 2773 2784	Coagulation
+T129	PROCEDURE 2802 2814	Biochemistry
+T135	PROCEDURE 2884 2888	Ions
+T132	PROCEDURE 2906 2920	liver function
+T4	PROCEDURE 2957 2968	Lipid study
+T138	PROCEDURE 3050 3065	Iron metabolism
+T128	PROCEDURE 3110 3141	Biomarkers of myocardial damage
+T5	PROCEDURE 3204 3225	Heart failure markers
+T104	PROCEDURE 3274 3288	Echocardiogram
+T6	PROCEDURE 3871 3911	Coronary angiography, left radial artery
+T122	PROCEDURE 4046 4063	revascularisation
+T116	PROCEDURE 4105 4116	Blood count
+T119	PROCEDURE 4121 4132	coagulation
+T120	PROCEDURE 4205 4216	coagulation
+T130	PROCEDURE 4238 4250	Biochemistry
+T136	PROCEDURE 4362 4366	Ions
+T133	PROCEDURE 4377 4391	Liver function
+T7	PROCEDURE 4413 4424	Lipid study
+T139	PROCEDURE 4508 4523	Iron metabolism
+T8	PROCEDURE 4567 4588	Heart failure markers
+T105	PROCEDURE 4629 4643	Echocardiogram
+T117	PROCEDURE 5026 5037	Blood count
+T121	PROCEDURE 5042 5053	coagulation
+T131	PROCEDURE 5071 5083	Biochemistry
+T137	PROCEDURE 5195 5199	Ions
+T134	PROCEDURE 5210 5224	Liver function
+T9	PROCEDURE 5246 5257	Lipid study
+T140	PROCEDURE 5341 5356	Iron metabolism
+T10	PROCEDURE 5400 5421	Heart failure markers
+T106	PROCEDURE 5462 5476	Echocardiogram
+T123	PROCEDURE 6305 6340	depletive and antianginal treatment
+T125	PROCEDURE 6459 6479	Coronary angiography
+T126	PROCEDURE 7042 7066	intravenous ferrotherapy
+T127	PROCEDURE 7312 7345	cardiac resynchronisation therapy
+T11	PROCEDURE 7347 7350	CRT
+T12	PROCEDURE 7557 7573	CRT implantation

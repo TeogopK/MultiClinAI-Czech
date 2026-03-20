@@ -1,0 +1,33 @@
+T83	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T80	PROCEDURE 414 424	conisation
+T81	PROCEDURE 1169 1186	electrocardiogram
+T20	PROCEDURE 1236 1252	exercise testing
+T84	PROCEDURE 1543 1563	Physical examination
+T85	PROCEDURE 1770 1790	Cardiac auscultation
+T19	PROCEDURE 1844 1849	heard
+T86	PROCEDURE 1851 1875	Respiratory auscultation
+T82	PROCEDURE 2132 2149	Electrocardiogram
+T87	PROCEDURE 2151 2154	ECG
+T89	PROCEDURE 2278 2289	Chest X-ray
+T90	PROCEDURE 2505 2518	Lipid profile
+T91	PROCEDURE 2632 2645	liver profile
+T92	PROCEDURE 2654 2670	thyroid hormones
+T18	PROCEDURE 2719 2744	myocardial damage markers
+T93	PROCEDURE 2780 2789	Haemogram
+T94	PROCEDURE 2866 2877	Coagulation
+T95	PROCEDURE 2886 2902	Echocardiography
+T97	PROCEDURE 4427 4447	Coronary angiography
+T17	PROCEDURE 4530 4564	Cardiac magnetic resonance imaging
+T102	PROCEDURE 4566 4569	MRI
+T88	PROCEDURE 5303 5306	ECG
+T96	PROCEDURE 6162 6178	echocardiography
+T98	PROCEDURE 6311 6331	coronary angiography
+T16	PROCEDURE 6407 6418	cardiac MRI
+T15	PROCEDURE 6441 6490	aetiological study of the ventricular dysfunction
+T14	PROCEDURE 6710 6738	treatment with beta-blockers
+T99	PROCEDURE 6740 6780	angiotensin-converting enzyme inhibitors
+T13	PROCEDURE 6782 6796	ACE inhibitors
+T100	PROCEDURE 6802 6840	mineralocorticoid receptor antagonists
+T12	PROCEDURE 6842 6846	MRAs
+T11	PROCEDURE 7103 7126	anti-diabetic treatment
+T101	PROCEDURE 7570 7589	hypoglycaemic drugs

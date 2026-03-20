@@ -1,0 +1,56 @@
+T1	SYMPTOM 117 134	disnea progresiva
+T2	SYMPTOM 136 143	astenia
+T3	SYMPTOM 145 153	ortopnea
+T4	SYMPTOM 156 159	tos
+T5	SYMPTOM 1217 1231	dolor torácico
+T7	SYMPTOM 1441 1481	disnea creciente hasta hacerse de reposo
+T8	SYMPTOM 1483 1503	expectoración rosada
+T9	SYMPTOM 1505 1512	palidez
+T10	SYMPTOM 1515 1525	diaforesis
+T11	SYMPTOM 1662 1688	inestabilidad hemodinámica
+T12	SYMPTOM 1764 1790	mala mecánica respiratoria
+T13	SYMPTOM 1841 1852	oligoanuria
+T14	SYMPTOM 3004 3023	Diuresis conservada
+T15	SYMPTOM 3273 3283	Consciente
+T16	SYMPTOM 3285 3294	orientada
+T17	SYMPTOM 3367 3391	Tonos cardiacos rítmicos
+T18	SYMPTOM 3402 3483	soplo pansistólico de intensidad III/VI a nivel de foco mitral, irradiado a axila
+T19	SYMPTOM 3508 3537	Murmullo vesicular conservado
+T20	SYMPTOM 3539 3594	Abdomen: Blando, depresible, no doloroso a la palpación
+T21	SYMPTOM 3609 3614	masas
+T22	SYMPTOM 3618 3626	megalias
+T23	SYMPTOM 3628 3663	Extremidades inferiores: Sin edemas
+T25	SYMPTOM 3770 3776	soplos
+T26	SYMPTOM 3780 3790	extratonos
+T27	SYMPTOM 3796 3833	clic protésico audible en foco mitral
+T28	SYMPTOM 3835 3879	Murmullo vesicular conservado bilateralmente
+T29	SYMPTOM 3885 3922	crepitantes en ambas bases pulmonares
+T30	SYMPTOM 3924 3945	Abdomen sin hallazgos
+T32	SYMPTOM 4474 4494	Eje eléctrico normal
+T35	SYMPTOM 4958 4982	FE severamente deprimida
+T38	SYMPTOM 6703 6736	hipocontractilidad marcada del VI
+T40	SYMPTOM 7416 7449	sangrado a través de los drenajes
+T41	SYMPTOM 7702 7723	déficits neurológicos
+T152	SYMPTOM 740 772	Prótesis mitral normofuncionante
+T168	SYMPTOM 4645 4659	iones normales
+T169	SYMPTOM 4751 4765	iones normales
+T147	SYMPTOM 833 865	Fracción de eyección (FE) normal
+T6	SYMPTOM 2170 2203	no apertura de la prótesis mitral
+T24	SYMPTOM 4245 4271	FEVI severamente deprimida
+T31	SYMPTOM 4504 4519	Descenso del ST
+T33	SYMPTOM 5008 5049	Válvula aórtica trivalva normofuncionante
+T177	SYMPTOM 3947 3977	Miembros inferiores sin edemas
+T189	SYMPTOM 1396 1435	deterioro progresivo del estado general
+T193	SYMPTOM 4987 5006	hipoquinesia global
+T197	SYMPTOM 5178 5254	Prótesis mitral con disco anterior fijo y posterior con movilidad conservada
+T34	SYMPTOM 3296 3304	reactiva
+T36	SYMPTOM 3306 3316	perceptiva
+T37	SYMPTOM 4906 4922	TPTA: No coagula
+T39	SYMPTOM 4939 4953	VI no dilatado
+T43	SYMPTOM 5612 5687	VD no dilatado con función sistólica en el límite inferior de la normalidad
+T149	SYMPTOM 5990 6023	alteraciones de la contractilidad
+T150	SYMPTOM 6030 6041	cambios ECG
+T151	SYMPTOM 6280 6328	no movilidad de uno de los discos de la prótesis
+T154	SYMPTOM 6480 6512	restos del velo posterior mitral
+T157	SYMPTOM 7602 7625	buena función protésica
+T158	SYMPTOM 7981 7992	cambios ECG

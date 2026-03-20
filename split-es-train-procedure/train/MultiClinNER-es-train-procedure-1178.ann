@@ -1,0 +1,69 @@
+T80	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 266 278	hemodiálisis
+T83	PROCEDURE 705 728	tratamiento antibiótico
+T84	PROCEDURE 1331 1345	antibioterapia
+T85	PROCEDURE 1525 1537	TAC de tórax
+T86	PROCEDURE 1741 1753	hemocultivos
+T87	PROCEDURE 1755 1766	urocultivos
+T88	PROCEDURE 1769 1779	serologías
+T89	PROCEDURE 1804 1913	detección por PCR de citomegalovirus, Pneumocystis jirovecii (en lavado broncoalveolar) y virus respiratorios
+T90	PROCEDURE 1915 1927	Baciloscopia
+T91	PROCEDURE 1929 1975	PCR para tuberculosis en lavado broncoalveolar
+T92	PROCEDURE 1978 1992	broncoaspirado
+T93	PROCEDURE 1995 2019	cultivo de micobacterias
+T94	PROCEDURE 2065 2086	lavado broncoalveolar
+T95	PROCEDURE 2097 2129	PCR de Leishmania en médula ósea
+T96	PROCEDURE 2224 2247	tratamiento antibiótico
+T97	PROCEDURE 2322 2340	Exploración física
+T98	PROCEDURE 2539 2575	Auscultación cardiaca y respiratoria
+T99	PROCEDURE 3055 3064	Hemograma
+T100	PROCEDURE 3562 3582	Sistemática de orina
+T101	PROCEDURE 3673 3682	Sedimento
+T102	PROCEDURE 3756 3774	Electrocardiograma
+T103	PROCEDURE 3926 3935	TAC tórax
+T104	PROCEDURE 4045 4057	Hemocultivos
+T105	PROCEDURE 4059 4069	urocultivo
+T106	PROCEDURE 4072 4089	cultivo de esputo
+T107	PROCEDURE 4102 4109	Mantoux
+T108	PROCEDURE 4121 4135	Ecocardiograma
+T109	PROCEDURE 5080 5095	ecocardiografía
+T110	PROCEDURE 5097 5117	Radiografía de tórax
+T111	PROCEDURE 5300 5331	Análisis de líquido pericárdico
+T112	PROCEDURE 5524 5566	Anatomía patológica de líquido pericárdico
+T113	PROCEDURE 5568 5600	citología de líquido pericárdico
+T114	PROCEDURE 5849 5862	Microbiología
+T116	PROCEDURE 5864 5895	Cultivo y antibiograma de esput
+T118	PROCEDURE 5908 5939	Cultivo y antibiograma de orina
+T119	PROCEDURE 5951 5986	Baciloscopia en liquido pericárdico
+T120	PROCEDURE 5998 6005	Cultivo
+T121	PROCEDURE 6008 6043	antibiograma en liquido pericárdico
+T122	PROCEDURE 6055 6111	PCR de tuberculosis extrapulmonar en líquido pericárdico
+T123	PROCEDURE 6296 6343	Cultivo de micobacterias en liquido pericárdico
+T124	PROCEDURE 6452 6461	Hemograma
+T125	PROCEDURE 7089 7110	tratamiento diurético
+T126	PROCEDURE 7113 7124	antibiótico
+T127	PROCEDURE 7130 7142	hemocultivos
+T128	PROCEDURE 7144 7154	urocultivo
+T129	PROCEDURE 7156 7183	cultivo de esputo y Mantoux
+T130	PROCEDURE 7208 7236	ecocardiograma transtorácico
+T131	PROCEDURE 7418 7444	tratamiento inmunosupresor
+T132	PROCEDURE 7508 7520	TAC de tórax
+T133	PROCEDURE 7558 7565	Mantoux
+T134	PROCEDURE 7698 7728	pericardiocentesis diagnóstica
+T135	PROCEDURE 7967 8003	análisis bioquímico y microbiológico
+T136	PROCEDURE 8008 8051	análisis bioquímico del líquido pericárdico
+T137	PROCEDURE 8086 8095	citología
+T138	PROCEDURE 8224 8247	análisis microbiológico
+T139	PROCEDURE 8252 8259	cultivo
+T140	PROCEDURE 8704 8730	tratamiento inmunosupresor
+T141	PROCEDURE 9009 9039	cultivo de líquido pericárdico
+T142	PROCEDURE 9117 9145	ecocardiograma transtorácico
+T143	PROCEDURE 9463 9479	trasplante renal
+T182	PROCEDURE 339 355	Trasplante renal
+T22	PROCEDURE 3196 3206	Bioquímica
+T42	PROCEDURE 6596 6606	Bioquímica
+T183	PROCEDURE 3033 3042	Analítica
+T187	PROCEDURE 6418 6435	Control analítico
+T191	PROCEDURE 2794 2813	Miembros inferiores
+T188	PROCEDURE 5121 5139	pericardiocentesis
+T189	PROCEDURE 6152 6216	Mutaciones del Mycobacterium tuberculosis en liquido pericárdico

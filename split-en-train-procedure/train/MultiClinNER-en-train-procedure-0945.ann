@@ -1,0 +1,44 @@
+T26	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T28	PROCEDURE 135 147	hysterectomy
+T29	PROCEDURE 152 170	double adnexectomy
+T27	PROCEDURE 553 573	physical examination
+T30	PROCEDURE 644 653	Ventimask
+T31	PROCEDURE 762 782	Cardiac auscultation
+T32	PROCEDURE 857 879	Pulmonary auscultation
+T33	PROCEDURE 1102 1105	ECG
+T34	PROCEDURE 1154 1165	Chest X-ray
+T36	PROCEDURE 1273 1284	Blood tests
+T37	PROCEDURE 1308 1328	arterial blood gases
+T51	PROCEDURE 1387 1399	Biochemistry
+T38	PROCEDURE 1538 1547	Haemogram
+T39	PROCEDURE 1673 1684	Coagulation
+T1	PROCEDURE 1745 1793	Transthoracic and transesophageal echocardiogram
+T2	PROCEDURE 2939 3040	Cardio-MRI: study by means of TI, T2, STIR sequences in axial, 2C, 3C, 4C and by means of iv contrast
+T3	PROCEDURE 3042 3051	angio-MRI
+T4	PROCEDURE 3057 3082	late enhancement sequence
+T5	PROCEDURE 3574 3597	contrast administration
+T6	PROCEDURE 3672 3708	late gadolinium enhancement sequence
+T40	PROCEDURE 3825 3848	Cardiac catheterisation
+T7	PROCEDURE 4002 4009	surgery
+T41	PROCEDURE 4029 4055	extracorporeal circulation
+T8	PROCEDURE 4057 4060	ECC
+T9	PROCEDURE 4065 4163	voluminous tumour infiltrating the atrioventricular groove and the interatrial septum was resected
+T10	PROCEDURE 4200 4251	Mitral valve replacement with a metallic prosthesis
+T11	PROCEDURE 4256 4301	closure of the septal defect with pericardium
+T42	PROCEDURE 4389 4407	deep sedoanalgesia
+T12	PROCEDURE 4469 4472	ACS
+T13	PROCEDURE 4522 4547	vigorous volume expansion
+T14	PROCEDURE 4574 4632	noradrenaline (NA) and vasopressin in continuous perfusion
+T44	PROCEDURE 4646 4682	continuous renal replacement therapy
+T15	PROCEDURE 4684 4688	CRRT
+T45	PROCEDURE 4710 4725	ultrafiltration
+T16	PROCEDURE 4804 4831	sedation could be withdrawn
+T46	PROCEDURE 4836 4871	weaning from mechanical ventilation
+T47	PROCEDURE 4913 4922	extubated
+T17	PROCEDURE 5031 5061	oxygen therapy at medium flows
+T18	PROCEDURE 5120 5123	TTE
+T35	PROCEDURE 5228 5239	chest X-ray
+T48	PROCEDURE 5313 5325	reintubation
+T19	PROCEDURE 5425 5454	anatomopathological diagnosis
+T49	PROCEDURE 5648 5664	tumour resection
+T50	PROCEDURE 5669 5697	mechanical mitral prosthesis

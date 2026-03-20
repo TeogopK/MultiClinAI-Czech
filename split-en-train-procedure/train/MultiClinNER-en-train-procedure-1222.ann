@@ -1,0 +1,29 @@
+T49	PROCEDURE 273 293	physical examination
+T1	PROCEDURE 513 535	Surgical interventions
+T51	PROCEDURE 570 589	colonic polypectomy
+T2	PROCEDURE 619 622	TUR
+T52	PROCEDURE 792 815	cardiac catheterisation
+T3	PROCEDURE 950 965	echocardiograms
+T54	PROCEDURE 1081 1105	electrical cardioversion
+T55	PROCEDURE 1278 1302	electrical cardioversion
+T4	PROCEDURE 2231 2244	beta-blockers
+T58	PROCEDURE 2320 2333	cardioversion
+T50	PROCEDURE 2336 2356	Physical examination
+T59	PROCEDURE 2483 2503	Cardiac auscultation
+T60	PROCEDURE 2548 2570	Pulmonary auscultation
+T61	PROCEDURE 2754 2757	ECG
+T62	PROCEDURE 2929 2940	Chest X-ray
+T5	PROCEDURE 3076 3087	Blood tests
+T67	PROCEDURE 3187 3198	Coagulation
+T53	PROCEDURE 3418 3432	Echocardiogram
+T6	PROCEDURE 4389 4421	ablate the atrioventricular node
+T7	PROCEDURE 4426 4443	place a pacemaker
+T8	PROCEDURE 4447 4477	permanent pacemaker was placed
+T9	PROCEDURE 4506 4524	placing an LV lead
+T64	PROCEDURE 4529 4562	cardiac resynchronisation therapy
+T10	PROCEDURE 4564 4567	CRT
+T11	PROCEDURE 4641 4665	DDD pacemaker was placed
+T63	PROCEDURE 4684 4714	atrioventricular node ablation
+T12	PROCEDURE 4825 4848	anticoagulant treatment
+T65	PROCEDURE 5143 5159	AV node ablation
+T66	PROCEDURE 5164 5186	pacemaker implantation

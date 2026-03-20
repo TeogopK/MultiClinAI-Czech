@@ -1,0 +1,54 @@
+T83	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 170 184	ACE inhibitors
+T85	PROCEDURE 189 198	diuretics
+T88	PROCEDURE 362 373	chest X-ray
+T104	PROCEDURE 469 483	echocardiogram
+T2	PROCEDURE 1399 1459	Flow analysis of the abdominal and descending thoracic aorta
+T3	PROCEDURE 1632 1635	MRI
+T84	PROCEDURE 2557 2577	Physical examination
+T90	PROCEDURE 2958 2978	Cardiac auscultation
+T114	PROCEDURE 3189 3206	Lower extremities
+T91	PROCEDURE 3344 3355	Blood count
+T92	PROCEDURE 3357 3369	biochemistry
+T93	PROCEDURE 3374 3385	coagulation
+T94	PROCEDURE 3395 3412	Electrocardiogram
+T89	PROCEDURE 3414 3425	Chest X-ray
+T105	PROCEDURE 3461 3475	echocardiogram
+T95	PROCEDURE 4635 4649	colour Doppler
+T96	PROCEDURE 4651 4667	Doppler analysis
+T11	PROCEDURE 4774 4834	Coronary angiography (performed via the right femoral artery
+T13	PROCEDURE 5166 5197	Angio-CT scan of thoracic aorta
+T68	PROCEDURE 5854 5873	calcium antagonists
+T111	PROCEDURE 5875 5880	ARAII
+T69	PROCEDURE 5882 5896	beta-blockers,
+T86	PROCEDURE 5897 5906	diuretics
+T71	PROCEDURE 5908 5917	doxazosin
+T97	PROCEDURE 5919 5927	nitrates
+T110	PROCEDURE 5932 5952	antilipemiant drugs.
+T115	PROCEDURE 6027 6034	surgery
+T72	PROCEDURE 6111 6128	replace the valve
+T99	PROCEDURE 6198 6218	endovascular therapy
+T116	PROCEDURE 6222 6229	surgery
+T24	PROCEDURE 6677 6696	calcium antagonists
+T112	PROCEDURE 6698 6703	ARAII
+T73	PROCEDURE 6705 6718	beta-blockers
+T87	PROCEDURE 6720 6729	diuretics
+T108	PROCEDURE 6745 6752	Statins
+T98	PROCEDURE 6818 6826	nitrates
+T119	PROCEDURE 7064 7081	valve replacement
+T100	PROCEDURE 7086 7104	impeller resection
+T117	PROCEDURE 7180 7187	surgery
+T101	PROCEDURE 7194 7219	percutaneous intervention
+T118	PROCEDURE 7247 7254	surgery
+T102	PROCEDURE 7261 7287	extracorporeal circulation
+T75	PROCEDURE 7295 7298	CPB
+T103	PROCEDURE 7349 7383	antegrade and retrograde perfusion
+T120	PROCEDURE 7385 7526	Double valve replacement was performed (metal prosthesis No 23 in supra-annular aortic position and metal prosthesis No 27 in mitral position
+T80	PROCEDURE 7573 7607	resection of the subaortic leaflet
+T113	PROCEDURE 7672 7678	amines
+T81	PROCEDURE 7974 7988	ACE inhibitors
+T106	PROCEDURE 8129 8143	echocardiogram
+T107	PROCEDURE 8317 8343	antihypertensive treatment
+T109	PROCEDURE 8348 8355	statins
+T82	PROCEDURE 8368 8414	permanent oral anticoagulation (acenocoumarol)
+T121	PROCEDURE 8603 8637	angioplasty and stent implantation

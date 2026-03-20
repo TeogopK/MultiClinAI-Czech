@@ -1,0 +1,39 @@
+T97	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T99	PROCEDURE 439 468	treatment with nocturnal CPAP
+T100	PROCEDURE 586 607	right lower lobectomy
+T98	PROCEDURE 1347 1367	Physical examination
+T102	PROCEDURE 1558 1578	Cardiac auscultation
+T103	PROCEDURE 1638 1660	Pulmonary auscultation
+T104	PROCEDURE 1951 1968	Electrocardiogram
+T105	PROCEDURE 2130 2141	Chest X-ray
+T101	PROCEDURE 2265 2286	right lower lobectomy
+T106	PROCEDURE 2391 2419	Transthoracic echocardiogram
+T109	PROCEDURE 3580 3610	Transesophageal echocardiogram
+T107	PROCEDURE 4711 4739	transthoracic echocardiogram
+T110	PROCEDURE 4741 4771	Transesophageal echocardiogram
+T132	PROCEDURE 4786 4796	monitoring
+T113	PROCEDURE 4799 4837	transseptal ultrasound-guided puncture
+T114	PROCEDURE 5388 5401	3D planimetry
+T133	PROCEDURE 5434 5441	Doppler
+T108	PROCEDURE 5656 5684	Transthoracic echocardiogram
+T1	PROCEDURE 5763 5812	Mitral valve closure by means of two mitral clips
+T2	PROCEDURE 6226 6331	Closure of atrial septal defect (ASD) secondary to intervention by means of Amplatzer percutaneous device
+T115	PROCEDURE 6658 6680	mitral valve treatment
+T117	PROCEDURE 6905 6940	percutaneous mitral valve treatment
+T118	PROCEDURE 7050 7069	general anaesthesia
+T119	PROCEDURE 7074 7083	monitored
+T111	PROCEDURE 7087 7119	transesophageal echocardiography
+T4	PROCEDURE 7383 7403	catheter was removed
+T3	PROCEDURE 7475 7502	arterial blood gas analysis
+T130	PROCEDURE 7525 7536	vital signs
+T112	PROCEDURE 7559 7589	transesophageal echocardiogram
+T134	PROCEDURE 7755 7762	Doppler
+T120	PROCEDURE 7839 7859	transseptal puncture
+T5	PROCEDURE 8206 8276	percutaneously close the atrial septal defect with an Amplatzer device
+T121	PROCEDURE 8292 8303	oxygenation
+T6	PROCEDURE 8389 8398	extubated
+T131	PROCEDURE 8558 8572	renal function
+T129	PROCEDURE 8619 8633	echocardiogram
+T7	PROCEDURE 8666 8695	placement of the mitral clips
+T8	PROCEDURE 9098 9154	percutaneously with the implantation of two mitral clips
+T9	PROCEDURE 9297 9350	Effective closure of the defect with Amplatzer device

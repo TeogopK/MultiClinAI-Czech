@@ -1,0 +1,70 @@
+T2	SYMPTOM 503 521	mal estado general
+T3	SYMPTOM 524 539	dolor abdominal
+T4	SYMPTOM 743 777	lividez en las cuatro extremidades
+T5	SYMPTOM 788 813	bajo nivel de consciencia
+T6	SYMPTOM 1054 1067	hipoperfusión
+T7	SYMPTOM 1069 1076	afebril
+T8	SYMPTOM 1078 1096	Mal estado general
+T9	SYMPTOM 1098 1123	bajo nivel de consciencia
+T10	SYMPTOM 1126 1142	frialdad cutánea
+T12	SYMPTOM 1174 1195	ingurgitación yugular
+T13	SYMPTOM 1220 1245	ruidos cardiacos rítmicos
+T14	SYMPTOM 1259 1265	soplos
+T15	SYMPTOM 1290 1319	murmullo vesicular conservado
+T17	SYMPTOM 1368 1388	distensión abdominal
+T18	SYMPTOM 1394 1424	ruidos hidroaéreos preservados
+T20	SYMPTOM 1480 1501	mala perfusión distal
+T21	SYMPTOM 1524 1553	Lividez en ambas extremidades
+T23	SYMPTOM 1627 1633	edemas
+T24	SYMPTOM 1680 1709	Lividez en ambas extremidades
+T25	SYMPTOM 2206 2216	TSH normal
+T26	SYMPTOM 2255 2274	taquicardia regular
+T28	SYMPTOM 2327 2339	QRS estrecho
+T29	SYMPTOM 2341 2383	rectificación del ST en cara inferolateral
+T31	SYMPTOM 2496 2508	QRS estrecho
+T32	SYMPTOM 2510 2544	rectificación del ST inferolateral
+T33	SYMPTOM 2569 2580	taquicardia
+T35	SYMPTOM 2853 2887	ondas p negativas en cara inferior
+T36	SYMPTOM 3023 3025	RS
+T37	SYMPTOM 3059 3089	QRS estrecho sin preexcitación
+T38	SYMPTOM 3134 3165	alteración en la repolarización
+T39	SYMPTOM 3209 3237	índice cardiotorácico normal
+T40	SYMPTOM 3239 3292	Hilios congestivos con ligera redistribución vascular
+T44	SYMPTOM 3725 3782	VI de tamaño normal con marcada hipocontractilidad global
+T45	SYMPTOM 3814 3843	VD de tamaño y función normal
+T46	SYMPTOM 4018 4055	ventrículo izquierdo (VI) no dilatado
+T47	SYMPTOM 4199 4249	Ventrículo derecho (VD) de tamaño y función normal
+T48	SYMPTOM 4877 4938	reducción del calibre de ramas principales de aorta abdominal
+T49	SYMPTOM 5168 5193	hipocontractilidad global
+T50	SYMPTOM 5196 5222	disfunción sistólica grave
+T51	SYMPTOM 5299 5318	taquicardia rítmica
+T52	SYMPTOM 5722 5748	inestabilidad hemodinámica
+T54	SYMPTOM 8397 8408	taquicardia
+T55	SYMPTOM 8530 8572	función sistólica biventricular preservada
+T116	SYMPTOM 3454 3522	reducción del calibre de las ramas principales de la aorta abdominal
+T182	SYMPTOM 3608 3621	hipoperfusión
+T183	SYMPTOM 4951 4964	hipoperfusión
+T200	SYMPTOM 7203 7227	taquicardia de QRS ancho
+T11	SYMPTOM 2546 2555	QT normal
+T16	SYMPTOM 3294 3320	Senos costofrénicos libres
+T19	SYMPTOM 4493 4565	Vena cava inferior (VCI) no dilatada y con adecuado colapso inspiratorio
+T22	SYMPTOM 6682 6690	PR corto
+T27	SYMPTOM 8577 8623	alteraciones segmentarias de la contractilidad
+T209	SYMPTOM 3702 3704	TQ
+T210	SYMPTOM 3925 3927	TQ
+T212	SYMPTOM 2701 2746	alteraciones secundarias de la repolarización
+T218	SYMPTOM 3338 3350	condensación
+T220	SYMPTOM 2315 2325	eje normal
+T221	SYMPTOM 2484 2494	eje normal
+T222	SYMPTOM 2911 2921	eje normal
+T223	SYMPTOM 3036 3046	eje normal
+T236	SYMPTOM 6693 6703	onda delta
+T30	SYMPTOM 589 626	mala situación clínica y hemodinámica
+T41	SYMPTOM 2600 2612	eje inferior
+T42	SYMPTOM 2614 2623	QRS ancho
+T43	SYMPTOM 2892 2900	PR corto
+T53	SYMPTOM 5026 5085	laparotomía exploradora emergente, que no muestra hallazgos
+T80	SYMPTOM 5323 5335	QRS estrecho
+T172	SYMPTOM 7407 7456	taquicardia ortodrómica (regular de QRS estrecho)
+T173	SYMPTOM 7618 7667	FA preexcitada (irregular de QRS ancho irregular)
+T174	SYMPTOM 7974 8006	flutter auricular (QRS estrecho)

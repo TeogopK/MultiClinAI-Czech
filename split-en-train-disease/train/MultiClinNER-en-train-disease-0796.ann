@@ -1,0 +1,30 @@
+T23	DISEASE 84 102	mild dyslipidaemia
+T24	DISEASE 177 189	toxic habits
+T1	DISEASE 647 649	VT
+T2	DISEASE 761 769	asystole
+T3	DISEASE 1111 1115	NSVT
+T4	DISEASE 1170 1182	complete AVB
+T27	DISEASE 1483 1515	3-vessel coronary artery disease
+T30	DISEASE 2141 2165	cardiorespiratory arrest
+T26	DISEASE 2191 2199	asystole
+T32	DISEASE 2630 2650	deep vein thrombosis
+T28	DISEASE 2822 2854	3-vessel coronary artery disease
+T5	DISEASE 2867 2890	DA (proximal occlusion)
+T6	DISEASE 2892 2917	CX (OM with 90% stenosis)
+T7	DISEASE 2922 2946	CD (mid-level occlusion)
+T33	DISEASE 4277 4294	cardiogenic shock
+T40	DISEASE 4299 4317	low cardiac output
+T41	DISEASE 4444 4468	peripheral hypoperfusion
+T34	DISEASE 4500 4526	oliguric renal dysfunction
+T8	DISEASE 4531 4547	pulmonary oedema
+T9	DISEASE 4553 4579	severe respiratory failure
+T36	DISEASE 5226 5258	moderate ventricular dysfunction
+T42	DISEASE 5344 5356	tetraparesis
+T10	DISEASE 5953 5974	Hypercholesterolaemia
+T11	DISEASE 6594 6600	angina
+T12	DISEASE 6697 6734	Resuscitated cardiorespiratory arrest
+T38	DISEASE 6736 6772	Acute anterior myocardial infarction
+T29	DISEASE 6785 6817	3-vessel coronary artery disease
+T39	DISEASE 6854 6893	Moderate-severe LV systolic dysfunction
+T37	DISEASE 6919 6939	Hypercholesterolemia
+T13	DISEASE 6945 6967	intolerance to statins

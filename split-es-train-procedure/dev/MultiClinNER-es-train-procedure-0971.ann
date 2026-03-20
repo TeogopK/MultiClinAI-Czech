@@ -1,0 +1,31 @@
+T38	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T39	PROCEDURE 267 283	trasplante renal
+T40	PROCEDURE 292 311	diálisis peritoneal
+T41	PROCEDURE 313 315	DP
+T42	PROCEDURE 392 394	DP
+T43	PROCEDURE 546 571	terapia renal sustitutiva
+T45	PROCEDURE 928 965	colocación de catéter femoral derecho
+T46	PROCEDURE 971 983	hemodiálisis
+T47	PROCEDURE 994 1033	transfusión de concentrados de hematíes
+T48	PROCEDURE 1053 1064	Exploración
+T49	PROCEDURE 1436 1439	ECG
+T50	PROCEDURE 1564 1583	Analítica sanguínea
+T51	PROCEDURE 1756 1773	Gasometría venosa
+T52	PROCEDURE 1839 1848	Hemograma
+T53	PROCEDURE 2008 2018	Serologías
+T54	PROCEDURE 2072 2092	Radiografía de tórax
+T55	PROCEDURE 2213 2227	Ecocardiograma
+T56	PROCEDURE 3158 3166	Cultivos
+T57	PROCEDURE 3496 3515	TC toraco-abdominal
+T58	PROCEDURE 3861 3890	ecocardiografía transtorácica
+T59	PROCEDURE 4084 4118	catéter yugular derecho tunelizado
+T60	PROCEDURE 4139 4151	hemodiálisis
+T61	PROCEDURE 4270 4304	toracocentesis del derrame pleural
+T62	PROCEDURE 4393 4405	hemodiálisis
+T63	PROCEDURE 4439 4483	pericardiocentesis diagnóstica y terapéutica
+T64	PROCEDURE 4499 4512	drenaje total
+T65	PROCEDURE 4680 4689	citología
+T66	PROCEDURE 4763 4782	TC de cuerpo entero
+T67	PROCEDURE 5024 5052	tratamiento con darbepoetina
+T108	PROCEDURE 573 576	TRS
+#1	AnnotatorNotes T108	Terapia renal sustitutiva

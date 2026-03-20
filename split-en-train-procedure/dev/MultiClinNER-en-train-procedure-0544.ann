@@ -1,0 +1,18 @@
+T11	PROCEDURE 312 332	Physical examination
+T13	PROCEDURE 334 374	diffuse abdominal pain on deep palpation
+T3	PROCEDURE 376 394	Rectal examination
+T15	PROCEDURE 514 530	Laboratory tests
+T1	PROCEDURE 705 779	computed tomography (CT) and magnetic resonance imaging (MRI) of the brain
+T4	PROCEDURE 726 728	CT
+T5	PROCEDURE 762 765	MRI
+T7	PROCEDURE 834 852	Rectosigmoidoscopy
+T8	PROCEDURE 903 911	Biopsies
+T21	PROCEDURE 996 1050	Treatment was started with intravenous corticosteroids
+T9	PROCEDURE 1420 1448	Abdominal Doppler ultrasound
+T10	PROCEDURE 1504 1511	Doppler
+T27	PROCEDURE 1676 1702	abdominal CT and angio-MRI
+T2	PROCEDURE 1952 1975	diagnostic paracentesis
+T6	PROCEDURE 2052 2060	Cytology
+T30	PROCEDURE 2072 2094	Study of thrombophilia
+T12	PROCEDURE 2723 2791	placement of an intrahepatic percutaneous portosystemic shunt system
+T32	PROCEDURE 2843 2891	fibrinolysis due to associated portal thrombosis

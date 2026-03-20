@@ -1,0 +1,36 @@
+T43	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T44	PROCEDURE 308 329	antidiabéticos orales
+T46	PROCEDURE 546 577	herniorrafia inguinal izquierda
+T47	PROCEDURE 1450 1459	anamnesis
+T48	PROCEDURE 1671 1689	Exploración física
+T49	PROCEDURE 1870 1891	Auscultación cardiaca
+T50	PROCEDURE 1931 1952	Auscultación pulmonar
+T51	PROCEDURE 2161 2164	ECG
+T52	PROCEDURE 2331 2334	ECG
+T54	PROCEDURE 2526 2529	ECG
+T55	PROCEDURE 2832 2842	TC craneal
+T56	PROCEDURE 3043 3058	Coronariografía
+T57	PROCEDURE 3815 3852	Intervencionismo coronario percutáneo
+T58	PROCEDURE 3854 3960	predilatación con balón a baja presión con buen resultado, implante de dos stents farmacoactivos en tándem
+T60	PROCEDURE 4007 4054	bolos repetidos de nitroprusiato intracoronario
+T61	PROCEDURE 4057 4106	dilatación con balón a baja presión multisegmento
+T62	PROCEDURE 4356 4384	Ecocardiograma transtorácico
+T63	PROCEDURE 4715 4718	ECG
+T64	PROCEDURE 4847 4856	anamnesis
+T65	PROCEDURE 4901 4904	ECG
+T66	PROCEDURE 5059 5080	monitor-desfibrilador
+T67	PROCEDURE 5168 5178	TC craneal
+T68	PROCEDURE 5287 5346	doble antiagregación plaquetaria con aspirina y clopidogrel
+T69	PROCEDURE 5360 5375	coronariografía
+T70	PROCEDURE 5682 5697	coronariografía
+T71	PROCEDURE 5817 5922	intervencionismo coronario percutáneo con implante de 3 stents farmacoactivos previa dilatacion con balón
+T72	PROCEDURE 6030 6058	ecocardiograma transtorácico
+T73	PROCEDURE 6165 6168	ECG
+T74	PROCEDURE 6364 6385	reperfusión coronaria
+T75	PROCEDURE 6403 6425	implante de marcapasos
+T77	PROCEDURE 6496 6575	revascularización de las lesiones severas de descendente anterior y circunfleja
+T78	PROCEDURE 7046 7132	Intervencionismo coronario percutáneo con implante de 3 stent farmacoactivos en tándem
+T79	PROCEDURE 7310 7327	revascularización
+T24	PROCEDURE 4176 4221	se trata con otro stent con fármaco en tándem
+T140	PROCEDURE 2538 2547	Analítica
+T59	PROCEDURE 5083 5107	se activa código infarto

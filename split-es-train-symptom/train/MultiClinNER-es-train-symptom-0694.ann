@@ -1,0 +1,44 @@
+T1	SYMPTOM 3065 3073	mialgias
+T2	SYMPTOM 3076 3082	fiebre
+T3	SYMPTOM 2652 2661	agitación
+T4	SYMPTOM 2666 2677	somnolencia
+T5	SYMPTOM 113 134	desconexión del medio
+T6	SYMPTOM 181 191	hipertonía
+T7	SYMPTOM 193 202	sialorrea
+T8	SYMPTOM 205 238	movimientos de la comisura labial
+T9	SYMPTOM 1846 1882	hiperreflexia de miembros inferiores
+T10	SYMPTOM 1888 1914	signos meníngeos negativos
+T11	SYMPTOM 357 365	mialgias
+T12	SYMPTOM 367 374	cefalea
+T13	SYMPTOM 377 383	fiebre
+T14	SYMPTOM 416 423	afebril
+T15	SYMPTOM 2140 2173	lentificación global la actividad
+T16	SYMPTOM 3134 3153	clínica neurológica
+T17	SYMPTOM 2230 2332	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus, resultando ambas negativas
+T18	SYMPTOM 2354 2575	serologías para múltiples agentes como toxoplasma, rubeola, lúes, herpes simple 1 y 2, virus varicela-zóster, Mycoplasma, adenovirus, parotiditis, parvovirus, sarampión, Coxsackie, virus ECHO y Borrelia, también negativos
+T19	SYMPTOM 2923 2986	resonancia magnética (RM) cerebral urgente con resultado normal
+T20	SYMPTOM 3189 3241	influenza A en el exudado nasal, resultando positivo
+T21	SYMPTOM 4300 4310	EEG normal
+T22	SYMPTOM 4282 4294	asintomática
+T23	SYMPTOM 776 793	estado poscrítico
+T24	SYMPTOM 1671 1688	estado poscrítico
+T25	SYMPTOM 3483 3577	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A negativos
+T26	SYMPTOM 3591 3622	RM cerebral que persiste normal
+T27	SYMPTOM 3640 3687	LCR bandas oligoclonales que resultan negativas
+T28	SYMPTOM 3016 3024	sangrado
+T29	SYMPTOM 3722 3863	anti-ADN, anti-Ro, anti-La, anti-histonas, anti-Sm, anti-RNP, anti-SCL70, anti-Jo, anticuerpos anticitoplasma de neutrófilos (ANCA) negativos
+T31	SYMPTOM 3936 3948	convulsiones
+T32	SYMPTOM 1253 1271	convulsión afebril
+T33	SYMPTOM 1373 1383	convulsión
+T35	SYMPTOM 3443 3462	episodio convulsivo
+T36	SYMPTOM 3986 4007	episodios convulsivos
+A1	RESULTADO T15
+A2	RESULTADO T17
+A3	RESULTADO T18
+A4	IMAGEN T19
+A5	RESULTADO T20
+A6	RESULTADO T21
+A7	RESULTADO T25
+A8	IMAGEN T26
+A9	RESULTADO T27
+A10	RESULTADO T29

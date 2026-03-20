@@ -1,0 +1,34 @@
+T1	SYMPTOM 477 491	abdominal pain
+T2	SYMPTOM 604 616	sinus rhythm
+T20	SYMPTOM 635 649	right QRS axis
+T21	SYMPTOM 765 802	repolarisation abnormalities in V1-V4
+T17	SYMPTOM 887 950	prominence of the pulmonary arteries and the arch of the azygos
+T22	SYMPTOM 1342 1384	high mean pulmonary artery pressure (mPAP)
+T23	SYMPTOM 1389 1430	normal pulmonary capillary pressure (PCP)
+T24	SYMPTOM 2090 2129	reopening of the PDA with residual flow
+T4	SYMPTOM 2259 2292	normal respiratory function tests
+T25	SYMPTOM 2355 2377	nocturnal desaturation
+T5	SYMPTOM 2639 2647	cyanosis
+T26	SYMPTOM 2821 2904	Ergospirometry shows functional class I with moderately reduced functional capacity
+T27	SYMPTOM 2909 2930	normal blood pressure
+T13	SYMPTOM 3579 3587	dyspnoea
+T6	SYMPTOM 4285 4296	haemoptysis
+T28	SYMPTOM 4311 4352	gurgling sensation in the left hemithorax
+T7	SYMPTOM 4483 4494	haemoptysis
+T10	SYMPTOM 4687 4710	haemodynamically stable
+T3	SYMPTOM 4886 4898	sinus rhythm
+T12	SYMPTOM 4910 4919	normal PR
+T16	SYMPTOM 4921 4931	right axis
+T29	SYMPTOM 4985 5041	secondary repolarisation alterations in precordial leads
+T18	SYMPTOM 5772 5808	prominence of the pulmonary arteries
+T30	SYMPTOM 5815 5867	left ventricle (LV) neither dilated nor hypertrophic
+T31	SYMPTOM 5873 5898	preserved global function
+T15	SYMPTOM 5912 5929	septal flattening
+T19	SYMPTOM 5937 5964	overload of right pressures
+T14	SYMPTOM 6014 6046	mitral valve is normofunctioning
+T32	SYMPTOM 6400 6433	inferior vena cava is not dilated
+T33	SYMPTOM 6628 6655	right-to-left systolic flow
+T11	SYMPTOM 6816 6839	haemodynamically stable
+T8	SYMPTOM 6881 6892	haemoptysis
+T9	SYMPTOM 7665 7676	haemoptysis
+T34	SYMPTOM 7930 7985	Right ventricular function at the lower limit of normal

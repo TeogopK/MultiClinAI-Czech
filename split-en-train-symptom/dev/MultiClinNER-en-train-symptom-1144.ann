@@ -1,0 +1,41 @@
+T1	SYMPTOM 81 91	chest pain
+T2	SYMPTOM 273 285	palpitations
+T26	SYMPTOM 291 304	normal Holter
+T3	SYMPTOM 309 336	mild concentric hypertrophy
+T29	SYMPTOM 976 1043	oppressive central thoracic pain radiating to the jaw and shoulders
+T4	SYMPTOM 1083 1100	vegetative cortex
+T5	SYMPTOM 1424 1432	Afebrile
+T6	SYMPTOM 1434 1443	Conscious
+T7	SYMPTOM 1445 1453	oriented
+T30	SYMPTOM 1458 1469	cooperative
+T8	SYMPTOM 1471 1486	Eupneic at rest
+T9	SYMPTOM 1488 1510	Good general condition
+T10	SYMPTOM 1512 1525	normohydrated
+T11	SYMPTOM 1545 1562	Rhythmic carotids
+T12	SYMPTOM 1571 1578	murmurs
+T14	SYMPTOM 1583 1604	jugular ingurgitation
+T31	SYMPTOM 1627 1641	(CA): rhythmic
+T13	SYMPTOM 1658 1665	murmurs
+T15	SYMPTOM 1701 1727	preserved vesicular murmur
+T32	SYMPTOM 1752 1803	Abdomen soft, depressible, not painful on palpation
+T16	SYMPTOM 1813 1819	masses
+T17	SYMPTOM 1834 1860	Lower limbs without oedema
+T18	SYMPTOM 1884 1952	Radial, femoral and anterior tibial pulses preserved and symmetrical
+T33	SYMPTOM 2075 2093	Coagulation normal
+T19	SYMPTOM 2656 2686	costophrenic sinus impingement
+T34	SYMPTOM 2688 2720	fluid in the right major fissure
+T20	SYMPTOM 2797 2809	sinus rhythm
+T22	SYMPTOM 2825 2834	normal PR
+T24	SYMPTOM 2839 2849	narrow QRS
+T35	SYMPTOM 2851 2895	ST segment rectification on the lateral side
+T21	SYMPTOM 2918 2930	sinus rhythm
+T23	SYMPTOM 2942 2951	normal PR
+T36	SYMPTOM 2953 3002	subepicardial lesion wave with lateral negative T
+T38	SYMPTOM 3053 3098	LV of normal size and global systolic functio
+T37	SYMPTOM 3106 3138	hypokinesia of the posterior fac
+T39	SYMPTOM 3181 3210	Right chambers of normal size
+T40	SYMPTOM 3367 3392	Normal inferior vena cava
+T27	SYMPTOM 3493 3526	coronary arteries without lesions
+T41	SYMPTOM 3963 4013	asymptomatic from the cardiovascular point of view
+T28	SYMPTOM 4576 4609	Coronary arteries without lesions
+T25	SYMPTOM 4611 4655	Preserved left ventricular ejection fraction

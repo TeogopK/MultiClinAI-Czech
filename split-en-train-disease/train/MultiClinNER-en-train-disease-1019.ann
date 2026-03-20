@@ -1,0 +1,62 @@
+T95	DISEASE 111 125	drug allergies
+T38	DISEASE 127 177	Diabetes mellitus secondary to pancreatoduedectomy
+T39	DISEASE 253 261	ampuloma
+T40	DISEASE 283 314	chronic sclerosing pancreatitis
+T69	DISEASE 393 425	Multicentric Castleman's disease
+T41	DISEASE 393 446	Multicentric Castleman's disease, plasmacytic variant
+T63	DISEASE 406 425	Castleman's disease
+T42	DISEASE 621 640	oesophageal varices
+T43	DISEASE 714 731	chronic gastritis
+T44	DISEASE 2578 2581	DVT
+T73	DISEASE 2681 2683	dL
+T74	DISEASE 2806 2808	dL
+T75	DISEASE 2822 2824	dL
+T76	DISEASE 2838 2840	dL
+T77	DISEASE 2857 2859	dL
+T78	DISEASE 2872 2874	dL
+T79	DISEASE 2932 2934	dL
+T80	DISEASE 2954 2956	dL
+T81	DISEASE 3035 3037	dL
+T82	DISEASE 3073 3075	dL
+T83	DISEASE 3087 3089	dL
+T84	DISEASE 3111 3113	dL
+T85	DISEASE 3229 3231	dl
+T86	DISEASE 3254 3256	dl
+T87	DISEASE 3288 3290	dl
+T88	DISEASE 3323 3325	dl
+T89	DISEASE 3351 3353	dl
+T90	DISEASE 3384 3386	dl
+T91	DISEASE 3455 3457	dl
+T92	DISEASE 3483 3485	dl
+T93	DISEASE 3512 3514	dl
+T45	DISEASE 3927 3953	bilateral pleural effusion
+T72	DISEASE 4031 4052	first degree AV block
+T96	DISEASE 4057 4080	left anterior hemiblock
+T94	DISEASE 4082 4116	Isolated ventricular extrasystoles
+T48	DISEASE 4218 4248	paroxysmal atrial fibrillation
+T67	DISEASE 4613 4634	diastolic dysfunction
+T98	DISEASE 4800 4828	Slightly dilated left atrium
+T99	DISEASE 4834 4882	slightly dilated aortic root and ascending aorta
+T50	DISEASE 5096 5119	tricuspid insufficiency
+T51	DISEASE 5252 5272	pericardial effusion
+T46	DISEASE 5274 5300	Bilateral pleural effusion
+T47	DISEASE 6404 6430	bilateral pleural effusion
+T52	DISEASE 6971 6980	ischaemia
+T53	DISEASE 8120 8129	ischaemia
+T54	DISEASE 8136 8169	transient ventricular dysfunction
+T60	DISEASE 8146 8169	ventricular dysfunction
+T55	DISEASE 8703 8712	lithiasis
+T56	DISEASE 8934 8947	heart failure
+T97	DISEASE 9060 9091	slightly dilated left ventricle
+T58	DISEASE 9182 9202	mitral insufficiency
+T59	DISEASE 9281 9304	coronary macroagiopathy
+T61	DISEASE 9339 9362	ventricular dysfunction
+T62	DISEASE 9420 9440	infiltrative lesions
+T64	DISEASE 9461 9480	Castleman's disease
+T66	DISEASE 9566 9625	congestive heart failure with moderate systolic dysfunction
+T57	DISEASE 9577 9590	heart failure
+T68	DISEASE 9640 9661	diastolic dysfunction
+T49	DISEASE 9698 9728	paroxysmal atrial fibrillation
+T70	DISEASE 9814 9846	Multicentric Castleman's disease
+T65	DISEASE 9827 9846	Castleman's disease
+T71	DISEASE 9848 9893	Diabetes mellitus secondary to pancreatectomy

@@ -1,0 +1,66 @@
+T1	SYMPTOM 877 911	dolor centrotorácico tipo pinchazo
+T2	SYMPTOM 1025 1044	sudoración nocturna
+T3	SYMPTOM 1046 1059	artromialgias
+T4	SYMPTOM 1061 1068	astenia
+T5	SYMPTOM 1071 1091	sensación distérmica
+T6	SYMPTOM 1096 1105	febrícula
+T7	SYMPTOM 1223 1255	alteración del hábito intestinal
+T8	SYMPTOM 1388 1433	elevación de biomarcadores de daño miocárdico
+T9	SYMPTOM 1706 1735	Presión venosa yugular normal
+T10	SYMPTOM 1760 1767	rítmico
+T11	SYMPTOM 1773 1779	soplos
+T12	SYMPTOM 1783 1801	ruidos patológicos
+T13	SYMPTOM 1826 1855	murmullo vesicular conservado
+T14	SYMPTOM 1860 1880	ruidos sobreañadidos
+T15	SYMPTOM 1882 1947	Abdomen: blando y depresible, no doloroso a la palpación profunda
+T17	SYMPTOM 1952 1957	masas
+T18	SYMPTOM 1961 1969	megalias
+T23	SYMPTOM 2154 2167	ritmo sinusal
+T24	SYMPTOM 2221 2250	descenso del punto J en V3-V6
+T25	SYMPTOM 2252 2271	onda T plana en aVF
+T26	SYMPTOM 2282 2295	ritmo sinusal
+T27	SYMPTOM 2346 2379	alteraciones de la repolarización
+T28	SYMPTOM 2414 2439	ICT ligeramente aumentado
+T29	SYMPTOM 2444 2475	infiltrados ni masas pulmonares
+T31	SYMPTOM 2480 2514	pinzamiento de senos costofrénicos
+T32	SYMPTOM 2529 2546	congestión venosa
+T33	SYMPTOM 4364 4395	test de Coombs directo negativo
+T34	SYMPTOM 4656 4671	pico monoclonal
+T35	SYMPTOM 4897 4939	antiStrongyloides stercolaris IgG negativo
+T36	SYMPTOM 4946 4968	hemocultivos negativos
+T37	SYMPTOM 4970 4993	coprocultivos negativos
+T38	SYMPTOM 4995 5039	antigenuria legionella y neumococo negativos
+T39	SYMPTOM 5041 5054	IGRA negativo
+T44	SYMPTOM 5761 5784	compromiso hemodinámico
+T45	SYMPTOM 5795 5875	ventrículo izquierdo de diámetros, volúmenes y función sistólica global normales
+T48	SYMPTOM 6042 6115	Ventrículo derecho de diámetros normales con función sistólica conservada
+T50	SYMPTOM 6616 6644	función sistólica conservada
+T52	SYMPTOM 6793 6811	Aurículas normales
+T54	SYMPTOM 8911 8936	hemodinámicamente estable
+T56	SYMPTOM 8998 9011	artromialgias
+T57	SYMPTOM 9013 9022	febrícula
+T58	SYMPTOM 9124 9136	asintomático
+T172	SYMPTOM 1971 1998	Blumberg y Murphy negativos
+T173	SYMPTOM 2000 2024	Extremidades: sin edemas
+T174	SYMPTOM 5889 5934	alteraciones de la contractilidad segmentaria
+T16	SYMPTOM 5520 5539	AI y aorta normales
+T19	SYMPTOM 6734 6757	buena función sistólica
+T182	SYMPTOM 5946 5972	Aurículas de tamaño normal
+T191	SYMPTOM 5463 5487	Patrón diastólico normal
+T192	SYMPTOM 5974 5998	Patrón diastólico normal
+T193	SYMPTOM 5489 5518	Presiones de llenado normales
+T195	SYMPTOM 6221 6246	Vena cava inferior normal
+T196	SYMPTOM 6680 6710	Ventrículo derecho no dilatado
+T231	SYMPTOM 6518 6550	ventrículo izquierdo no dilatado
+T22	SYMPTOM 1286 1301	sangre en heces
+T30	SYMPTOM 2045 2088	pulsos periféricos conservados y simétricos
+T40	SYMPTOM 2951 3029	eosinófilos con alteración en la distribución citoplasmática de la granulación
+T41	SYMPTOM 4282 4314	ANA inmunofluorescencia negativo
+T42	SYMPTOM 4316 4335	patrón IFI negativo
+T43	SYMPTOM 5381 5437	ambos ventrículos de diámetros y contractilidad normales
+T46	SYMPTOM 5560 5600	valva anterior mitral, sin regurgitación
+T47	SYMPTOM 5614 5632	aumento de la PAPs
+T49	SYMPTOM 5736 5746	VCI normal
+T53	SYMPTOM 6918 6949	retraso de la perfusión en ápex
+T55	SYMPTOM 7085 7130	Realce tardío de gadolinio transmural en ápex
+T176	SYMPTOM 9075 9112	adecuada tolerancia a la deambulación

@@ -1,0 +1,52 @@
+T4	SYMPTOM 530 579	dolor epigástrico irradiado a hemitórax izquierdo
+T5	SYMPTOM 584 602	cortejo vegetativo
+T6	SYMPTOM 637 650	palpitaciones
+T7	SYMPTOM 655 661	disnea
+T8	SYMPTOM 925 932	Afebril
+T9	SYMPTOM 934 953	Buen estado general
+T10	SYMPTOM 955 965	Consciente
+T11	SYMPTOM 968 977	orientada
+T12	SYMPTOM 979 997	Eupneica en reposo
+T13	SYMPTOM 1019 1040	ingurgitación yugular
+T14	SYMPTOM 1065 1091	ruidos cardiacos regulares
+T15	SYMPTOM 1093 1101	rítmicos
+T16	SYMPTOM 1107 1113	soplos
+T17	SYMPTOM 1118 1136	ruidos patológicos
+T18	SYMPTOM 1161 1208	normoventilación en todos los campos pulmonares
+T21	SYMPTOM 1256 1264	megalias
+T22	SYMPTOM 1266 1301	Extremidades inferiores: sin edemas
+T23	SYMPTOM 1303 1328	pulsos distales presentes
+T24	SYMPTOM 1418 1427	PR normal
+T25	SYMPTOM 1429 1441	QRS estrecho
+T26	SYMPTOM 1462 1503	Elevación del segmento ST de 1mm en V5-V6
+T27	SYMPTOM 1575 1584	PR normal
+T28	SYMPTOM 1586 1598	QRS estrecho
+T29	SYMPTOM 1610 1643	Onda T negativa en V4-V6, I y aVL
+T30	SYMPTOM 1649 1674	onda T plana en III y aVF
+T31	SYMPTOM 1710 1738	índice cardiotorácico normal
+T32	SYMPTOM 1756 1782	consolidaciones alveolares
+T33	SYMPTOM 1840 1863	Función tiroidea normal
+T35	SYMPTOM 3062 3196	ventrículo izquierdo (VI) de tamaño normal con acinesia de todos los segmentos apicales e hipercontractilidad de los segmentos basales
+T36	SYMPTOM 3109 3196	acinesia de todos los segmentos apicales e hipercontractilidad de los segmentos basales
+T38	SYMPTOM 3759 3801	Ventrículo derecho (VD) con función normal
+T39	SYMPTOM 3828 3876	ventrículo izquierdo de tamaño y grosor normales
+T40	SYMPTOM 3878 3930	Fracción de eyección del ventrículo izquierdo normal
+T42	SYMPTOM 4089 4134	Válvula mitral normal en estructura y función
+T44	SYMPTOM 4545 4570	elevación del segmento ST
+T46	SYMPTOM 5246 5329	acinesia de los segmentos apicales con hipercontractilidad de los segmentos basales
+T47	SYMPTOM 5402 5427	hemodinámicamente estable
+T48	SYMPTOM 5434 5439	dolor
+T49	SYMPTOM 5547 5561	dolor torácico
+T51	SYMPTOM 5820 5856	edema en segmentos medios y apicales
+T83	SYMPTOM 402 419	episodio sincopal
+T84	SYMPTOM 673 680	síncope
+T1	SYMPTOM 999 1014	tolera decúbito
+T41	SYMPTOM 4030 4055	Ventrículo derecho normal
+T107	SYMPTOM 4334 4366	raíz aórtica es de tamaño normal
+T108	SYMPTOM 1210 1250	Abdomen: blando, depresible, no doloroso
+T119	SYMPTOM 4305 4329	Válvula aórtica trivalva
+T125	SYMPTOM 2396 2414	dominancia derecha
+T126	SYMPTOM 1443 1453	eje normal
+T2	SYMPTOM 2416 2452	Tronco común izquierdo sin estenosis
+T19	SYMPTOM 5098 5141	valor bajo de la reserva de flujo coronario
+T20	SYMPTOM 5150 5193	alto el índice de resistencia microvascular

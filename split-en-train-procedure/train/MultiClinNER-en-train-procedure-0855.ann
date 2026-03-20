@@ -1,0 +1,26 @@
+T99	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T102	PROCEDURE 388 402	anticoagulated
+T100	PROCEDURE 1382 1402	Physical examination
+T101	PROCEDURE 1403 1423	Physical examination
+T104	PROCEDURE 1900 1917	Electrocardiogram
+T105	PROCEDURE 2408 2419	Chest X-ray
+T106	PROCEDURE 2553 2581	Transthoracic echocardiogram
+T111	PROCEDURE 2567 2581	echocardiogram
+T107	PROCEDURE 3670 3690	intravenous diuretic
+T108	PROCEDURE 3878 3891	beta-blockers
+T112	PROCEDURE 4096 4110	echocardiogram
+T114	PROCEDURE 4434 4454	coronary angiography
+T120	PROCEDURE 4587 4606	tachycardiomyopathy
+T109	PROCEDURE 4858 4871	beta-blockers
+T115	PROCEDURE 5219 5236	electrophysiology
+T116	PROCEDURE 5338 5377	endovascular electrophysiological study
+T117	PROCEDURE 5408 5432	electrical cardioversion
+T118	PROCEDURE 6044 6047	ECG
+T119	PROCEDURE 6160 6184	non-invasive ventilation
+T110	PROCEDURE 6265 6278	beta-blockers
+T121	PROCEDURE 6482 6501	tachycardiomyopathy
+T103	PROCEDURE 6676 6690	anticoagulated
+T123	PROCEDURE 7420 7450	atrioventricular node ablation
+T113	PROCEDURE 7700 7714	echocardiogram
+T122	PROCEDURE 7876 7895	Tachycardiomyopathy
+T124	PROCEDURE 8061 8075	nodal ablation

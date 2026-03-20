@@ -1,0 +1,36 @@
+T16	DISEASE 84 93	allergies
+T17	DISEASE 131 143	hypertensive
+T18	DISEASE 145 150	obese
+T19	DISEASE 152 173	Lumbar canal stenosis
+T20	DISEASE 199 212	hypernephroma
+T22	DISEASE 232 252	herniated disc L5-S1
+T23	DISEASE 285 314	Permanent atrial fibrillation
+T38	DISEASE 295 314	atrial fibrillation
+T46	DISEASE 315 338	Rheumatic valve disease
+T24	DISEASE 347 381	mitral lesion with severe stenosis
+T47	DISEASE 744 757	lumbosciatica
+T25	DISEASE 763 786	neurogenic claudication
+T14	DISEASE 1136 1147	hypotension
+T26	DISEASE 1205 1236	decompensation of heart failure
+T29	DISEASE 1223 1236	heart failure
+T15	DISEASE 1388 1399	hypotension
+T27	DISEASE 1552 1586	left renal and splenic infarctions
+T31	DISEASE 1557 1586	renal and splenic infarctions
+T28	DISEASE 2285 2307	acute pulmonary oedema
+T30	DISEASE 2539 2552	heart failure
+T48	DISEASE 3565 3593	Severely dilated left atrium
+T32	DISEASE 3629 3649	pericardial effusion
+T33	DISEASE 3978 3986	thrombus
+T49	DISEASE 4029 4057	Severely dilated left atrium
+T34	DISEASE 4127 4135	thrombus
+T39	DISEASE 4416 4435	atrial fibrillation
+T40	DISEASE 4516 4539	moderate LV dysfunction
+T41	DISEASE 4546 4566	obstructive thrombus
+T35	DISEASE 4558 4566	thrombus
+T36	DISEASE 4997 5005	thrombus
+T42	DISEASE 5023 5041	systemic embolisms
+T37	DISEASE 5064 5072	thrombus
+T43	DISEASE 5375 5410	septic shock secondary to pneumonia
+T21	DISEASE 5704 5717	hypernephroma
+T44	DISEASE 5719 5761	Thrombosis on mechanical mitral prosthesis
+T45	DISEASE 5825 5852	Secondary cardiogenic shock

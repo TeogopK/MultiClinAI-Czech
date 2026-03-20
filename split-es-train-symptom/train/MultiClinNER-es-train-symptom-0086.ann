@@ -1,0 +1,10 @@
+T1	SYMPTOM 142 147	dolor
+T2	SYMPTOM 166 189	dolor en región maxilar
+T3	SYMPTOM 254 259	dolor
+T4	SYMPTOM 394 417	alteraciones sensitivas
+T5	SYMPTOM 508 591	dolor se incrementa y comienza a aparecer también en región frontal y periorbitaria
+T6	SYMPTOM 619 624	dolor
+T7	SYMPTOM 1115 1129	dolor cervical
+T8	SYMPTOM 1156 1192	dolor en apófisis espinosas de C3-C4
+T9	SYMPTOM 830 876	TAC de cráneo y RMN de cráneo sin alteraciones
+A1	IMAGEN T9

@@ -1,0 +1,59 @@
+T1	SYMPTOM 763 768	fever
+T2	SYMPTOM 794 812	urinary discomfort
+T3	SYMPTOM 818 825	dysuria
+T4	SYMPTOM 827 838	pollakiuria
+T5	SYMPTOM 907 913	nausea
+T6	SYMPTOM 4695 4701	nausea
+T7	SYMPTOM 7764 7770	nausea
+T8	SYMPTOM 8245 8251	nausea
+T9	SYMPTOM 921 929	vomiting
+T10	SYMPTOM 4703 4711	vomiting
+T11	SYMPTOM 934 939	cough
+T12	SYMPTOM 943 956	expectoration
+T13	SYMPTOM 1317 1324	murmurs
+T14	SYMPTOM 1350 1376	preserved vesicular murmur
+T15	SYMPTOM 1378 1407	Abdomen: soft and depressible
+T16	SYMPTOM 1409 1449	painful on palpation in the hypogastrium
+T17	SYMPTOM 1512 1544	oedema with fovea up to the knee
+T18	SYMPTOM 1602 1618	engorged breasts
+T19	SYMPTOM 2037 2043	Pyuria
+T20	SYMPTOM 2262 2314	Anti-striated muscle/myocardial antibodies: negative
+T21	SYMPTOM 2561 2571	Narrow QRS
+T22	SYMPTOM 2715 2753	involuted uterus with collapsed cavity
+T23	SYMPTOM 3289 3316	Signs of low cardiac output
+T25	SYMPTOM 3799 3811	inflammation
+T26	SYMPTOM 4105 4128	blood culture: negative
+T27	SYMPTOM 4289 4355	Parvovirus B19 serology: Ac IgG and Ac IgM parvovirus B19 negative
+T28	SYMPTOM 4717 4726	dizziness
+T29	SYMPTOM 7775 7784	dizziness
+T30	SYMPTOM 8234 8243	dizziness
+T31	SYMPTOM 5059 5079	mucocutaneous pallor
+T32	SYMPTOM 5081 5089	sweating
+T33	SYMPTOM 5094 5113	peripheral coldness
+T35	SYMPTOM 5125 5136	tachycardia
+T36	SYMPTOM 5141 5151	tachypnoea
+T37	SYMPTOM 5990 6010	tissue hypoperfusion
+T38	SYMPTOM 6439 6457	global hypokinesia
+T40	SYMPTOM 5965 5976	hypotension
+T41	SYMPTOM 7790 7801	hypotension
+T42	SYMPTOM 8256 8267	hypotension
+T43	SYMPTOM 8651 8665	intense stress
+T44	SYMPTOM 2519 2536	sinus tachycardia
+T45	SYMPTOM 722 744	poor general condition
+T46	SYMPTOM 843 873	pain in the right lumbar regio
+T47	SYMPTOM 1284 1299	rhythmic sounds
+T48	SYMPTOM 1454 1491	fist, positive right renal percussion
+T49	SYMPTOM 2316 2354	Anti-adrenal antibodies: high positive
+T50	SYMPTOM 2356 2389	Chest X-ray: congestive hilarity.
+T34	SYMPTOM 2619 2654	Negative T waves in II, III and aVF
+T51	SYMPTOM 2656 2688	Deep T waves in precordial leads
+T52	SYMPTOM 2821 2847	free intraperitoneal fluid
+T53	SYMPTOM 3465 3527	dilated left ventricle with irregular contour on the underside
+T24	SYMPTOM 3879 3906	Myocardial thickness normal
+T39	SYMPTOM 4900 4908	dyspnoea
+T54	SYMPTOM 5031 5053	poor general condition
+T55	SYMPTOM 5246 5299	marked bibasal hypoventilation in the right lung base
+T56	SYMPTOM 5408 5434	free intra-abdominal fluid
+T57	SYMPTOM 6198 6252	negative T waves on the inferior and precordial sides,
+T58	SYMPTOM 6264 6298	elevated markers of cardiac damage
+T59	SYMPTOM 6954 7018	parvovirus B19 serology and cardiac immunology were all negative

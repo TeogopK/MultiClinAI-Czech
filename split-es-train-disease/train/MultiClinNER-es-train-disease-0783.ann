@@ -1,0 +1,32 @@
+T24	DISEASE 2040 2055	consolidaciones
+T39	DISEASE 81 104	alergias medicamentosas
+T40	DISEASE 172 187	hábitos tóxicos
+T41	DISEASE 189 207	Síndrome depresivo
+T42	DISEASE 246 265	síncope situacional
+T43	DISEASE 311 328	miocarditis aguda
+T44	DISEASE 1742 1761	bradicardia sinusal
+T45	DISEASE 2025 2035	neumotórax
+T46	DISEASE 3403 3436	Insuficiencia tricuspídea trivial
+T47	DISEASE 3452 3474	Insuficiencia pulmonar
+T48	DISEASE 3591 3610	derrame pericárdico
+T49	DISEASE 5688 5703	miopericarditis
+T50	DISEASE 5907 5922	miopericarditis
+T51	DISEASE 6302 6310	isquemia
+T52	DISEASE 6349 6369	enfermedad coronaria
+T53	DISEASE 6849 6869	isquemia transitoria
+T54	DISEASE 7525 7586	Infarto de miocardio con coronarias sin lesiones obstructivas
+T55	DISEASE 1991 2010	congestión pulmonar
+T56	DISEASE 6711 6724	síncope vagal
+T57	DISEASE 5587 5595	isquemia
+T59	DISEASE 7588 7594	MINOCA
+T126	DISEASE 2816 2829	insuficiencia
+T127	DISEASE 3261 3274	insuficiencia
+T87	DISEASE 5158 5180	puente intramiocárdico
+T88	DISEASE 6139 6190	fermentos cardiacos, con ascenso y caída muy rápida
+T89	DISEASE 6445 6513	trayecto intramiocárdico de longitud significativa en la rama de OM1
+T90	DISEASE 6781 6805	trayecto intramiocárdico
+T92	DISEASE 7609 7674	trayecto intramiocárdico importante de la arteria obtusa marginal
+#1	AnnotatorNotes T59	  infarto e miocardio sin lesiones coronarias obstructivas
+#2	AnnotatorNotes T89	myocardial bridging
+#3	AnnotatorNotes T90	myocardial bridging
+#4	AnnotatorNotes T92	myocardial bridging

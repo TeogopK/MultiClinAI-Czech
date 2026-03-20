@@ -1,0 +1,36 @@
+T42	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T43	PROCEDURE 209 212	ECG
+T44	PROCEDURE 304 313	anamnesis
+T45	PROCEDURE 768 786	exploración física
+T46	PROCEDURE 841 855	ecocardiograma
+T47	PROCEDURE 965 994	resonancia magnética cardiaca
+T48	PROCEDURE 996 999	RMC
+T49	PROCEDURE 1214 1226	TAC cerebral
+T50	PROCEDURE 1289 1292	RMC
+T51	PROCEDURE 1432 1453	angiografía coronaria
+T52	PROCEDURE 1575 1604	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T53	PROCEDURE 1954 1974	RADIOGRAFÍA DE TÓRAX
+T54	PROCEDURE 2020 2023	ECG
+T55	PROCEDURE 2109 2118	Hemograma
+T56	PROCEDURE 2264 2279	Perfil lipídico
+T57	PROCEDURE 2361 2376	Perfil hepático
+T58	PROCEDURE 2502 2514	RMN cardiaca
+T59	PROCEDURE 2703 2718	CORONARIOGRAFÍA
+T60	PROCEDURE 3383 3393	telemetría
+T61	PROCEDURE 3472 3487	anticoagulación
+T62	PROCEDURE 3696 3698	TC
+T63	PROCEDURE 3732 3752	Doppler transcraneal
+T64	PROCEDURE 3884 3902	esternotomía media
+T65	PROCEDURE 3918 3943	circulación extracorpórea
+T66	PROCEDURE 3956 3990	resección de la zona aneurismática
+T67	PROCEDURE 4113 4161	bypass aortocoronario secuencial AMI-DA y AMI-OM
+T68	PROCEDURE 4185 4248	protección miocárdica con cardioplegia anterógrada y retrógrada
+T69	PROCEDURE 4269 4309	retirada de la circulación extracorpórea
+T70	PROCEDURE 4337 4384	aminas vasoactivas (dobutamina + noradrenalina)
+T71	PROCEDURE 4800 4842	Cirugía de resección de zona aneurismática
+T72	PROCEDURE 4845 4867	bypass AMI-DA y AMI-OM
+T75	PROCEDURE 2185 2195	Bioquímica
+T76	PROCEDURE 3992 4085	se extrajo el trombo intraventricular y se reconstruyó la pared inferior con parche de Dacrón
+T78	PROCEDURE 2089 2098	ANALÍTICA
+T87	PROCEDURE 1402 1409	cirugía
+T91	PROCEDURE 3850 3873	intervención quirúrgica

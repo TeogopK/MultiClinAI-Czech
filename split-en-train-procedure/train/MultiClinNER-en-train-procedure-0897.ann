@@ -1,0 +1,46 @@
+T71	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T70	PROCEDURE 432 449	right orchiectomy
+T1	PROCEDURE 480 501	cisplatin + etoposide
+T72	PROCEDURE 1127 1147	Physical examination
+T73	PROCEDURE 1392 1412	Cardiac auscultation
+T74	PROCEDURE 1436 1458	Pulmonary auscultation
+T107	PROCEDURE 1576 1585	palpation
+T2	PROCEDURE 1730 1746	Laboratory tests
+T105	PROCEDURE 1748 1780	Serial myocardial damage markers
+T104	PROCEDURE 1863 1875	Biochemistry
+T75	PROCEDURE 1994 2007	Lipid profile
+T3	PROCEDURE 2110 2119	Haemogram
+T76	PROCEDURE 2321 2332	Coagulation
+T77	PROCEDURE 2465 2482	Electrocardiogram
+T78	PROCEDURE 2484 2487	ECG
+T81	PROCEDURE 2605 2616	Chest X-ray
+T82	PROCEDURE 2699 2719	Coronary angiography
+T83	PROCEDURE 3134 3154	coronary angiography
+T4	PROCEDURE 3174 3193	triple antiplatelet
+T96	PROCEDURE 3198 3219	anticoagulant therapy
+T5	PROCEDURE 3332 3360	Transthoracic echocardiogram
+T84	PROCEDURE 3384 3404	coronary angiography
+T89	PROCEDURE 3676 3688	chemotherapy
+T93	PROCEDURE 3759 3783	Ipsilateral radiotherapy
+T79	PROCEDURE 3826 3829	ECG
+T90	PROCEDURE 4096 4108	chemotherapy
+T106	PROCEDURE 4242 4270	markers of myocardial damage
+T80	PROCEDURE 4294 4297	ECG
+T11	PROCEDURE 4461 4482	oncological treatment
+T101	PROCEDURE 4511 4560	anticoagulation with low molecular weight heparin
+T12	PROCEDURE 4565 4640	double antiplatelet therapy with acetylsalicylic acid (ASA) and clopidogrel
+T85	PROCEDURE 4656 4676	coronary angiography
+T13	PROCEDURE 4835 4854	tirofiban perfusion
+T102	PROCEDURE 4922 4971	anticoagulation with low molecular weight heparin
+T94	PROCEDURE 4973 5002	triple antithrombotic therapy
+T86	PROCEDURE 5036 5056	coronary angiography
+T95	PROCEDURE 5077 5095	stent implantation
+T87	PROCEDURE 5128 5148	coronary angiography
+T109	PROCEDURE 5278 5301	anticoagulant treatment
+T15	PROCEDURE 5326 5354	transthoracic echocardiogram
+T16	PROCEDURE 5539 5599	double platelet antiplatelet therapy with ASA and ticagrelor
+T97	PROCEDURE 5724 5746	chemotherapy treatment
+T100	PROCEDURE 5845 5857	radiotherapy
+T88	PROCEDURE 6019 6046	triple antiplatelet therapy
+T103	PROCEDURE 6051 6066	anticoagulation
+T98	PROCEDURE 6185 6231	chemotherapy treatment (cisplatin + etoposide)

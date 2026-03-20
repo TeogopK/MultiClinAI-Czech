@@ -1,0 +1,33 @@
+T49	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T47	PROCEDURE 764 777	immunotherapy
+T50	PROCEDURE 1039 1059	PHYSICAL EXAMINATION
+T51	PROCEDURE 1242 1262	cardiac auscultation
+T52	PROCEDURE 1280 1302	Pulmonary auscultation
+T53	PROCEDURE 1425 1442	Electrocardiogram
+T54	PROCEDURE 1444 1447	ECG
+T1	PROCEDURE 1616 1642	PA and lateral chest X-ray
+T58	PROCEDURE 2237 2265	Transthoracic echocardiogram
+T3	PROCEDURE 2761 2786	Cardiac MRI with contrast
+T60	PROCEDURE 3173 3194	Triceps muscle biopsy
+T61	PROCEDURE 3287 3299	HE technique
+T2	PROCEDURE 3376 3396	Immunohistochemistry
+T55	PROCEDURE 3596 3599	ECG
+T4	PROCEDURE 4204 4255	Anti-striated muscle antibodies (immunofluorescence
+T62	PROCEDURE 4382 4397	corticosteroids
+T64	PROCEDURE 4432 4445	oral diuretic
+T65	PROCEDURE 4466 4486	telemetry monitoring
+T73	PROCEDURE 4584 4612	markers of myocardial damage
+T63	PROCEDURE 4720 4735	corticosteroids
+T59	PROCEDURE 4737 4767	Transthoracic echocardiography
+T66	PROCEDURE 4772 4798	magnetic resonance imaging
+T74	PROCEDURE 4936 4953	T2-STIR sequences
+T67	PROCEDURE 5109 5131	triceps brachii biopsy
+T68	PROCEDURE 5216 5236	coronary angiography
+T69	PROCEDURE 5241 5262	endomyocardial biopsy
+T56	PROCEDURE 5325 5328	ECG
+T5	PROCEDURE 5369 5392	anti-inflammatory drugs
+T71	PROCEDURE 5430 5443	muscle biopsy
+T75	PROCEDURE 5466 5483	T2-STIR sequences
+T48	PROCEDURE 5569 5582	immunotherapy
+T57	PROCEDURE 5715 5718	ECG
+T72	PROCEDURE 5723 5732	troponins

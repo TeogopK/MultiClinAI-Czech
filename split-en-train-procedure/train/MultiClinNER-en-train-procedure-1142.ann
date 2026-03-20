@@ -1,0 +1,40 @@
+T31	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 176 243	underwent surgery at the age of 24 using the Tyrone-David technique
+T2	PROCEDURE 245 293	replacement of ascending aorta with valve repair
+T56	PROCEDURE 389 403	anticoagulated
+T32	PROCEDURE 1395 1419	neurological examination
+T33	PROCEDURE 1547 1567	cardiac auscultation
+T34	PROCEDURE 1609 1633	respiratory auscultation
+T35	PROCEDURE 1818 1835	electrocardiogram
+T36	PROCEDURE 1837 1840	ECG
+T4	PROCEDURE 2038 2046	analysis
+T37	PROCEDURE 2161 2164	ECG
+T3	PROCEDURE 2242 2270	transthoracic echocardiogram
+T5	PROCEDURE 2504 2508	echo
+T40	PROCEDURE 2513 2533	electrocardiographic
+T41	PROCEDURE 2647 2667	coronary angiography
+T44	PROCEDURE 2752 2773	continuous monitoring
+T38	PROCEDURE 2804 2807	ECG
+T39	PROCEDURE 2909 2912	ECG
+T7	PROCEDURE 3089 3092	CBC
+T8	PROCEDURE 3094 3103	haemogram
+T45	PROCEDURE 3314 3325	Coagulation
+T55	PROCEDURE 3442 3454	Biochemistry
+T9	PROCEDURE 3671 3696	myocardial damage markers
+T10	PROCEDURE 3809 3837	Transthoracic echocardiogram
+T13	PROCEDURE 4438 4468	Transesophageal echocardiogram
+T14	PROCEDURE 4470 4473	TEE
+T42	PROCEDURE 4636 4656	coronary angiography
+T15	PROCEDURE 5140 5160	CT scan of the aorta
+T48	PROCEDURE 5683 5693	monitoring
+T43	PROCEDURE 5704 5724	coronary angiography
+T17	PROCEDURE 5953 5984	legally terminate the pregnancy
+T49	PROCEDURE 6060 6075	catheterisation
+T50	PROCEDURE 6209 6229	obstetric ultrasound
+T19	PROCEDURE 6293 6314	aortic CT angiography
+T51	PROCEDURE 6530 6545	anticoagulation
+T21	PROCEDURE 6638 6661	anticoagulant treatment
+T54	PROCEDURE 7398 7402	LMWH
+T25	PROCEDURE 7481 7514	reintroduce vitamin K antagonists
+T24	PROCEDURE 7516 7519	VKA
+T26	PROCEDURE 7527 7535	delivery

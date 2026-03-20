@@ -1,0 +1,44 @@
+T38	DISEASE 68 82	drug allergies
+T39	DISEASE 120 139	diabetes mellitus 2
+T40	DISEASE 141 144	DM2
+T42	DISEASE 156 168	hypertension
+T43	DISEASE 172 185	dyslipidaemia
+T70	DISEASE 187 199	Toxic habits
+T44	DISEASE 201 210	ex-smoker
+T1	DISEASE 223 229	smoked
+T48	DISEASE 288 295	drinker
+T49	DISEASE 318 325	drinker
+T45	DISEASE 522 531	ex-smoker
+T2	DISEASE 1203 1227	left bundle branch block
+T3	DISEASE 1229 1233	LBBB
+T50	DISEASE 1522 1529	syncope
+T75	DISEASE 1530 1540	presyncope
+T51	DISEASE 2043 2063	deep vein thrombosis
+T4	DISEASE 2228 2232	LBBB
+T74	DISEASE 2719 2736	myocardial damage
+T5	DISEASE 2904 2934	moderately dilated left atrium
+T76	DISEASE 2975 3055	Normal mitral valve morphology, with fibrocalcification of the posterior annulus
+T72	DISEASE 3162 3184	Dilated left ventricle
+T52	DISEASE 4148 4168	pericardial effusion
+T53	DISEASE 4186 4234	dilated cardiomyopathy with moderate dysfunction
+T78	DISEASE 4283 4304	Diastolic dysfunction
+T6	DISEASE 4306 4316	dilated LA
+T7	DISEASE 4351 4371	mitral regurgitation
+T8	DISEASE 4373 4375	MR
+T77	DISEASE 4665 4691	interatrial septal defects
+T9	DISEASE 4695 4735	anatomical alterations in cardiac valves
+T73	DISEASE 4993 5015	Dilated left ventricle
+T57	DISEASE 5257 5279	HH bundle branch block
+T55	DISEASE 5380 5400	mitral insufficiency
+T58	DISEASE 5843 5884	non-ischaemic left dilated cardiomyopathy
+T79	DISEASE 5902 5931	moderate systolic dysfunction
+T59	DISEASE 6070 6081	myocarditis
+T56	DISEASE 6083 6103	Mitral insufficiency
+T64	DISEASE 6200 6222	dilated cardiomyopathy
+T10	DISEASE 6365 6388	coronary artery disease
+T66	DISEASE 6467 6490	ventricular dysfunction
+T60	DISEASE 6625 6636	myocarditis
+T67	DISEASE 7493 7506	heart failure
+T68	DISEASE 7932 7991	Idiopathic dilated cardiomyopathy with moderate dysfunction
+T69	DISEASE 8028 8043	old myocarditis
+T41	DISEASE 8109 8112	DM2

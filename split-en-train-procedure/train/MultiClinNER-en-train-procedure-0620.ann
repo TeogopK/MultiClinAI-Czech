@@ -1,0 +1,25 @@
+T11	PROCEDURE 188 206	subtotal colectomy
+T12	PROCEDURE 211 254	terminal ileostomy in the right iliac fossa
+T2	PROCEDURE 276 344	reconstruction of the intestinal transit with end-to-end anastomosis
+T3	PROCEDURE 349 373	closure of the ileostomy
+T13	PROCEDURE 482 524	resection of 1.5 metres of small intestine
+T4	PROCEDURE 550 618	definitive terminal ileostomy with a rectal stump left in the pelvis
+T29	PROCEDURE 698 707	operation
+T17	PROCEDURE 972 985	loop diuretic
+T35	PROCEDURE 1495 1511	Laboratory tests
+T6	PROCEDURE 2123 2132	ileostomy
+T15	PROCEDURE 2144 2162	diuretic treatment
+T16	PROCEDURE 2186 2208	parenteral rehydration
+T20	PROCEDURE 2232 2240	diuretic
+T1	PROCEDURE 2894 2909	cranial CT scan
+T42	PROCEDURE 3014 3021	CT scan
+T9	PROCEDURE 3023 3026	ECG
+T10	PROCEDURE 3031 3042	chest X-ray
+T44	PROCEDURE 3076 3092	Laboratory tests
+T45	PROCEDURE 3232 3291	IV treatment was started with serum therapy for rehydration
+T14	PROCEDURE 3675 3695	physical examination
+T21	PROCEDURE 3929 3945	dietary measures
+T5	PROCEDURE 3955 3999	astringent diet, low in fat and simple sugar
+T7	PROCEDURE 4324 4333	Ileostomy
+T8	PROCEDURE 5243 5252	ileostomy
+T22	PROCEDURE 5357 5369	electrolytes

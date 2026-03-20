@@ -1,0 +1,39 @@
+T25	DISEASE 32 53	Hipertensión arterial
+T26	DISEASE 55 95	diabetes mellitus no insulinodependiente
+T27	DISEASE 97 106	exfumador
+T28	DISEASE 109 119	dislipemia
+T29	DISEASE 271 316	estenosis aórtica severa en válvula bicúspide
+T30	DISEASE 1461 1464	TVP
+T31	DISEASE 2091 2113	lesión isquémica aguda
+T32	DISEASE 2329 2363	enfermedad crónica de pequeño vaso
+T33	DISEASE 3644 3692	oclusión del segmento M1 distal de ACM izquierda
+T34	DISEASE 4085 4129	endocarditis sobre válvula aórtica protésica
+T35	DISEASE 4131 4160	Aneurisma de aorta ascendente
+T36	DISEASE 4436 4443	absceso
+T37	DISEASE 4458 4483	VM con insuficiencia leve
+T38	DISEASE 4666 4685	derrame pericárdico
+T39	DISEASE 4741 4746	ictus
+T40	DISEASE 4874 4934	oclusión del segmento M1 distal de la arteria cerebral media
+T41	DISEASE 5295 5307	endocarditis
+T42	DISEASE 6541 6570	aneurisma de aorta ascendente
+T43	DISEASE 6670 6673	BAV
+T44	DISEASE 6737 6745	abscesos
+T45	DISEASE 6927 6955	evento isquémico neurológico
+T46	DISEASE 6970 7023	Endocarditis protésica tardía por Enterococo faecalis
+T47	DISEASE 7025 7100	Ictus isquémico por oclusión trombótica en arteria cerebral media izquierda
+T48	DISEASE 7301 7330	Aneurisma de aorta ascendente
+T49	DISEASE 1521 1551	Hemibloqueo anterior izquierdo
+T50	DISEASE 1606 1608	IC
+T51	DISEASE 3916 4020	émbolos: uno en la región parietal posterior distal (émbolo no oclusivo) y el otro en la región silviana
+T52	DISEASE 4334 4365	vegetación visualizadas en TSVI
+T53	DISEASE 4593 4604	IT moderada
+T54	DISEASE 5913 5950	bloqueo aurículo-ventricular completo
+T56	DISEASE 7136 7173	Bloqueo aurículo-ventricular completo
+T102	DISEASE 752 772	leve cuadro catarral
+T15	DISEASE 2142 2175	hemorragias intra ni extraaxiales
+T16	DISEASE 3715 3752	bucle proximal en la carótida interna
+T115	DISEASE 2653 2742	opérculo frontal izquierdo se observa una disminución del volumen, compatible con infarto
+T17	DISEASE 3110 3136	formaciones aneurismáticas
+#1	AnnotatorNotes T43	 BAV bloqueo aurículo-ventricular
+#2	AnnotatorNotes T50	 IC insuficiencia cardíaca
+#3	AnnotatorNotes T52	 TSVI Tracto de salida del ventrículo izquierdo

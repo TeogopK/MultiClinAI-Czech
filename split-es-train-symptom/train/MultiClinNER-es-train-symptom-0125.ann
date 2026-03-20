@@ -1,0 +1,9 @@
+T1	SYMPTOM 452 493	inestabilidad hemodinámica y respiratoria
+T2	SYMPTOM 642 691	imagen hipervascular en el polo anterior del bazo
+T3	SYMPTOM 966 994	deterioro del estado general
+T4	SYMPTOM 744 878	líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+T5	SYMPTOM 918 924	sangre
+T6	SYMPTOM 1040 1053	hemoperitoneo
+A1	IMAGEN T2
+A2	IMAGEN T4
+A3	IMAGEN T5

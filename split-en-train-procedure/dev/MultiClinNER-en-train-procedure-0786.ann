@@ -1,0 +1,46 @@
+T72	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 553 590	hypothyroidism on replacement therapy
+T105	PROCEDURE 651 662	haematology
+T74	PROCEDURE 725 744	Colonic polypectomy
+T75	PROCEDURE 788 807	Partial gastrectomy
+T76	PROCEDURE 831 850	partial adnexectomy
+T73	PROCEDURE 1684 1704	Physical examination
+T77	PROCEDURE 1854 1874	Cardiac auscultation
+T78	PROCEDURE 1926 1948	Pulmonary auscultation
+T79	PROCEDURE 2160 2177	Electrocardiogram
+T81	PROCEDURE 2179 2182	ECG
+T2	PROCEDURE 2303 2314	Blood tests
+T103	PROCEDURE 2324 2336	biochemistry
+T82	PROCEDURE 2592 2605	Lipid profile
+T109	PROCEDURE 2747 2760	Ferrokinetics
+T83	PROCEDURE 2931 2942	Coagulation
+T104	PROCEDURE 3009 3024	Immunoglobulins
+T84	PROCEDURE 3203 3215	Proteinogram
+T110	PROCEDURE 3390 3403	24-hour urine
+T3	PROCEDURE 3439 3459	Quantitative protein
+T4	PROCEDURE 3851 3878	Chest X-ray (PA and lateral
+T85	PROCEDURE 4030 4058	Transthoracic echocardiogram
+T86	PROCEDURE 4647 4658	Cardiac MRI
+T87	PROCEDURE 5194 5229	intravenous contrast administration
+T88	PROCEDURE 5456 5499	Myocardial scintigraphy with diphosphonates
+T89	PROCEDURE 5601 5624	Cardiac catheterisation
+T5	PROCEDURE 5691 5741	Fine needle puncture of abdominal subcutaneous fat
+T91	PROCEDURE 5893 5913	Immunohistochemistry
+T92	PROCEDURE 6010 6035	immunohistochemical study
+T94	PROCEDURE 6456 6470	echocardiogram
+T95	PROCEDURE 6546 6572	magnetic resonance imaging
+T96	PROCEDURE 6574 6594	cardiac scintigraphy
+T6	PROCEDURE 6599 6631	light chains in plasma and urine
+T106	PROCEDURE 6689 6700	haematology
+T97	PROCEDURE 6732 6767	abdominal subcutaneous fat puncture
+T98	PROCEDURE 6824 6854	intravenous diuretic treatment
+T80	PROCEDURE 6919 6936	electrocardiogram
+T7	PROCEDURE 7033 7046	beta-blockers
+T90	PROCEDURE 7331 7354	Cardiac catheterisation
+T107	PROCEDURE 7525 7536	haematology
+T108	PROCEDURE 7706 7717	haematology
+T99	PROCEDURE 8000 8015	anticoagulation
+T100	PROCEDURE 8100 8111	gastroscopy
+T101	PROCEDURE 8156 8167	colonoscopy
+T102	PROCEDURE 8275 8289	rehabilitation
+T8	PROCEDURE 8365 8402	percutaneous closure of the appendage

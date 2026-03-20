@@ -1,0 +1,51 @@
+T53	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T3	PROCEDURE 433 472	antianginal and anti-ischaemic treatmen
+T56	PROCEDURE 493 507	echocardiogram
+T60	PROCEDURE 635 659	coronary catheterisation
+T66	PROCEDURE 716 739	Cardiological treatment
+T67	PROCEDURE 755 766	anxiolytics
+T68	PROCEDURE 781 791	analgesics
+T70	PROCEDURE 982 1006	antidepressant treatment
+T69	PROCEDURE 1031 1041	analgesics
+T61	PROCEDURE 1077 1101	coronary catheterisation
+T5	PROCEDURE 1531 1550	antiplatelet agents
+T72	PROCEDURE 1554 1561	statins
+T6	PROCEDURE 1567 1593	myocardial perfusion SPECT
+T57	PROCEDURE 1601 1629	transthoracic echocardiogram
+T7	PROCEDURE 2442 2464	coronary angiographies
+T8	PROCEDURE 2797 2823	myocardial perfusion SPECT
+T73	PROCEDURE 2908 2926	electrocardiograms
+T74	PROCEDURE 3111 3127	enzyme seriation
+T75	PROCEDURE 3159 3170	Chest X-ray
+T54	PROCEDURE 3355 3375	Physical examination
+T55	PROCEDURE 3625 3645	Physical examination
+T77	PROCEDURE 3664 3679	Echocardioscopy
+T62	PROCEDURE 3987 4011	coronary catheterisation
+T10	PROCEDURE 4164 4180	Laboratory tests
+T79	PROCEDURE 4699 4716	Electrocardiogram
+T81	PROCEDURE 4718 4721	ECG
+T76	PROCEDURE 4848 4859	Chest X-ray
+T78	PROCEDURE 5004 5019	Echocardioscopy
+T58	PROCEDURE 5135 5163	Transthoracic echocardiogram
+T13	PROCEDURE 5484 5511	Myocardial perfusion SPECT:
+T82	PROCEDURE 5545 5548	ECG
+T102	PROCEDURE 5567 5593	regadenoson administration
+T85	PROCEDURE 5840 5895	Coronary catheterisation with invasive functional study
+T90	PROCEDURE 6028 6105	microvascular dysfunction was performed by thermodilution with saline boluses
+T14	PROCEDURE 6200 6247	Positive vasoreactivity test with acetylcholine
+T80	PROCEDURE 6383 6400	electrocardiogram
+T87	PROCEDURE 6615 6656	anti-ischaemic and anti-anginal treatment
+T59	PROCEDURE 6679 6707	transthoracic echocardiogram
+T86	PROCEDURE 6718 6773	coronary catheterisation with invasive functional study
+T88	PROCEDURE 6794 6817	echocardiographic study
+T65	PROCEDURE 6944 6968	coronary catheterisation
+T89	PROCEDURE 7101 7126	complete functional study
+T91	PROCEDURE 7159 7193	thermodilution with saline boluses
+T92	PROCEDURE 7285 7306	coronary flow reserve
+T93	PROCEDURE 7484 7512	coronary vasoreactivity test
+T83	PROCEDURE 7738 7741	ECG
+T19	PROCEDURE 7930 7940	anxiolytic
+T95	PROCEDURE 7945 7959	antidepressant
+T96	PROCEDURE 8388 8428	antidepressant and anxiolytic medication
+T100	PROCEDURE 8681 8706	invasive functional study
+T101	PROCEDURE 8793 8811	acetylcholine test

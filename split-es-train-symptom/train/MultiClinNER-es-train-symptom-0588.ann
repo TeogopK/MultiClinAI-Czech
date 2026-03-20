@@ -1,0 +1,17 @@
+T1	SYMPTOM 106 121	soplo funcional
+T2	SYMPTOM 1018 1076	ventrículo derecho (55 mm), con cara lateral hipoquinética
+T3	SYMPTOM 1145 1158	ritmo sinusal
+T4	SYMPTOM 453 511	onda T negativa generalizada de V2 a V6 y en cara inferior
+T5	SYMPTOM 1669 1681	asintomático
+T6	SYMPTOM 625 659	auscultación cardiopulmonar normal
+T7	SYMPTOM 723 754	hallazgos electrocardiográficos
+T8	SYMPTOM 1477 1502	saculaciones discinéticas
+T9	SYMPTOM 1507 1563	ventrículo izquierdo, válvulas y pericardio son normales
+T10	SYMPTOM 852 960	normales (analítica con hemograma, bioquímica y coagulación; radiografía de tórax lateral y posteroanterior)
+T11	SYMPTOM 1293 1356	ventrículo derecho con aumento de tamaño e hipertrofia de banda
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	IMAGEN T8
+A4	IMAGEN T9
+A5	RESULTADO T10
+A6	IMAGEN T11

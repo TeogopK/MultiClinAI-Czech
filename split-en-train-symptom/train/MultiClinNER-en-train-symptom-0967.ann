@@ -1,0 +1,25 @@
+T1	SYMPTOM 351 363	palpitations
+T3	SYMPTOM 365 374	dizziness
+T17	SYMPTOM 379 386	syncope
+T4	SYMPTOM 464 479	precordial pain
+T2	SYMPTOM 484 496	palpitations
+T5	SYMPTOM 511 559	loss of postural tone and level of consciousness
+T6	SYMPTOM 765 786	jugular ingurgitation
+T7	SYMPTOM 788 818	Cardiac auscultation: rhythmic
+T8	SYMPTOM 827 834	murmurs
+T9	SYMPTOM 860 876	normoventilation
+T20	SYMPTOM 891 910	Abdomen nondescript
+T10	SYMPTOM 912 938	Lower limbs without oedema
+T11	SYMPTOM 966 996	normoreactive isochoric pupils
+T12	SYMPTOM 998 1019	Normal cranial nerves
+T13	SYMPTOM 1021 1036	Normal language
+T21	SYMPTOM 1038 1072	Strength and sensitivity preserved
+T22	SYMPTOM 1074 1085	Normal gait
+T23	SYMPTOM 1185 1231	slight vascular redistribution to upper fields
+T14	SYMPTOM 1259 1271	sinus rhythm
+T24	SYMPTOM 1273 1310	Atrioventricular conduction preserved
+T25	SYMPTOM 1339 1360	Initial Q wave in aVL
+T26	SYMPTOM 1362 1407	Negative T wave in DIII-aVF, DI-aVL and V5-V6
+T15	SYMPTOM 1488 1500	sinus rhythm
+T19	SYMPTOM 2076 2127	late gadolinium enhancement irregularly distributed
+T16	SYMPTOM 3231 3243	sinus rhythm

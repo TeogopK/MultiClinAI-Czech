@@ -1,0 +1,31 @@
+T48	DISEASE 142 163	hipertensión arterial
+T49	DISEASE 165 175	dislipemia
+T50	DISEASE 177 185	fumadora
+T51	DISEASE 265 283	disfunción sinusal
+T52	DISEASE 286 331	bloqueo auriculoventricular (BAV) paroxístico
+T53	DISEASE 315 318	BAV
+T54	DISEASE 539 573	masa tumoral en aurícula izquierda
+T55	DISEASE 634 650	mixoma auricular
+T56	DISEASE 697 739	valvular mitral, ocasionando una estenosis
+T57	DISEASE 803 818	ictus isquémico
+T58	DISEASE 944 950	mixoma
+T59	DISEASE 1059 1089	ictus de circulación posterior
+T60	DISEASE 1126 1134	diplopía
+T61	DISEASE 1267 1304	estenosis moderada de ambas carótidas
+T62	DISEASE 1526 1595	accidente isquémico transitorio (AIT) vertebrobasilares de repetición
+T63	DISEASE 1748 1766	recidiva de mixoma
+T64	DISEASE 1934 1943	nistagmus
+T65	DISEASE 2822 2847	trombosis venosa profunda
+T66	DISEASE 2849 2852	TVP
+T67	DISEASE 3379 3403	bronconeumopatía crónica
+T68	DISEASE 3550 3569	Espondilosis dorsal
+T69	DISEASE 3620 3636	isquemia crónica
+T70	DISEASE 3638 3705	Infartos en lóbulo parietal derecho y a nivel parasagital izquierdo
+T71	DISEASE 4106 4134	recidiva de mixoma auricular
+T72	DISEASE 4502 4522	insuficiencia mitral
+T73	DISEASE 4531 4566	Insuficiencia tricuspídea (IT) leve
+T74	DISEASE 4707 4726	derrame pericárdico
+T75	DISEASE 5436 5464	Recidiva de mixoma auricular
+T76	DISEASE 5466 5483	AIT de repetición
+T77	DISEASE 1091 1095	POCI
+#1	AnnotatorNotes T77	 ictus de circulación posterior

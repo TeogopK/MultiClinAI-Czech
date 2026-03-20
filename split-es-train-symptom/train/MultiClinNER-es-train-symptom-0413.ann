@@ -1,0 +1,17 @@
+T1	SYMPTOM 535 571	encéfalo con notable aumento de peso
+T2	SYMPTOM 1595 1656	sedimento urinario se observó crecimiento de Proteus vulgaris
+T3	SYMPTOM 477 513	orina con un llamativo color púrpura
+T4	SYMPTOM 1284 1339	vejiga urinaria se cuantificaron 400 cc de orina turbia
+T5	SYMPTOM 1474 1548	Análisis toxicológico negativo en muestras de sangre, orina y humor vítreo
+T6	SYMPTOM 602 652	cerebral (aplanamiento de giros y circunvoluciones
+T7	SYMPTOM 655 677	Corazón de peso normal
+T8	SYMPTOM 894 932	Pulmones de peso discretamente elevado
+T9	SYMPTOM 1068 1090	Riñones de peso normal
+T10	SYMPTOM 1116 1153	escasa diferenciación córtico-medular
+T11	SYMPTOM 1230 1276	material purulento a través de la pelvis renal
+T12	SYMPTOM 123 130	Fallece
+T13	SYMPTOM 1673 1679	muerte
+A1	RESULTADO T2
+A2	RESULTADO T5
+A3	EXITUS T12
+A4	EXITUS T13

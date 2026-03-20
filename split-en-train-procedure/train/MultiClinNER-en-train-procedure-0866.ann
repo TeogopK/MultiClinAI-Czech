@@ -1,0 +1,22 @@
+T34	PROCEDURE 95 119	antiretroviral treatment
+T35	PROCEDURE 151 171	physical examination
+T50	PROCEDURE 583 618	nucleoside analogue antiretrovirals
+T36	PROCEDURE 1137 1161	high-flow oxygen therapy
+T37	PROCEDURE 1203 1215	Auscultation
+T38	PROCEDURE 1258 1269	Chest X-ray
+T39	PROCEDURE 1377 1391	echocardiogram
+T41	PROCEDURE 1628 1658	intravenous diuretic treatment
+T42	PROCEDURE 1663 1698	non-invasive mechanical ventilation
+T51	PROCEDURE 1843 1871	markers of myocardial damage
+T44	PROCEDURE 1983 1997	blood cultures
+T45	PROCEDURE 2022 2025	ECG
+T40	PROCEDURE 2200 2214	Echocardiogram
+T48	PROCEDURE 2691 2703	Coronography
+T49	PROCEDURE 3346 3359	Lipid profile
+T43	PROCEDURE 3496 3531	non-invasive mechanical ventilation
+T8	PROCEDURE 3536 3577	treatment with diuretics and vasodilators
+T53	PROCEDURE 3691 3722	study of dilated cardiomyopathy
+T52	PROCEDURE 3769 3797	markers of myocardial damage
+T46	PROCEDURE 3829 3849	Coronary angiography
+T47	PROCEDURE 3964 3975	angioplasty
+T55	PROCEDURE 3980 4015	implantation of drug-eluting stents

@@ -1,0 +1,30 @@
+T4	DISEASE 186 206	queratoconjuntivitis
+T13	DISEASE 565 596	pancreatitis crónica alcohólica
+T14	DISEASE 598 638	diabetes mellitus no insulinodependiente
+T15	DISEASE 640 656	hábito tabáquico
+T18	DISEASE 794 803	pterigión
+T21	DISEASE 1113 1160	queratitis ulcerativa periférica (QUP) superior
+T22	DISEASE 1147 1150	QUP
+T24	DISEASE 1408 1430	úlcera corneal central
+T25	DISEASE 1463 1510	hifema que ocupa la mitad de la cámara anterior
+T26	DISEASE 1393 1402	pterigión
+T31	DISEASE 2027 2033	hifema
+T37	DISEASE 2912 2944	anemia macrocítica e hipocrómica
+T38	DISEASE 2959 2991	desnutrición lipoproteica severa
+T39	DISEASE 2993 3006	hiperglucemia
+T42	DISEASE 3088 3105	malabsorción leve
+T48	DISEASE 3653 3709	desnutrición calórico-proteica con déficit de vitamina A
+T69	DISEASE 2784 2794	vasculitis
+T32	DISEASE 3958 3973	leucoma central
+T76	DISEASE 2059 2067	hipopión
+T80	DISEASE 2453 2474	lesiones vasculíticas
+T82	DISEASE 2758 2781	enfermedades reumáticas
+T83	DISEASE 2717 2741	enfermedades infecciosas
+T86	DISEASE 3112 3153	disminución de las vitaminas liposolubles
+T97	DISEASE 902 913	traumatismo
+T1	DISEASE 1380 1386	pannus
+T2	DISEASE 1495 1527	cámara anterior (CA) y sinequias
+T3	DISEASE 3584 3611	afectación vítreo-retiniana
+T5	DISEASE 4005 4050	queratopatía lipídica y sinequias posteriores
+T106	DISEASE 1188 1206	sinequia posterior
+#1	AnnotatorNotes T22	   QUP: queratitis ulcerativa periférica

@@ -1,0 +1,27 @@
+T56	PROCEDURE 595 613	Exploración física
+T57	PROCEDURE 766 787	Auscultación cardiaca
+T58	PROCEDURE 810 831	Auscultación pulmonar
+T59	PROCEDURE 1040 1043	ECG
+T60	PROCEDURE 1196 1216	Radiografía de tórax
+T61	PROCEDURE 1771 1785	Ecocardiograma
+T62	PROCEDURE 2196 2211	Coronariografía
+T63	PROCEDURE 2603 2614	Aortografía
+T64	PROCEDURE 2654 2666	TC coronario
+T65	PROCEDURE 3067 3082	coronariografía
+T66	PROCEDURE 3934 3937	EEF
+T67	PROCEDURE 4013 4059	se implanta un marcapasos definitivo bicameral
+T68	PROCEDURE 4084 4119	controles posimplante de marcapasos
+T69	PROCEDURE 4411 4491	cirugía de revascularización coronaria con doble arteria mamaria en "Y" bajo CEC
+T70	PROCEDURE 4505 4610	bypass de arteria mamaria izquierda a descendente anterior y de arteria mamaria derecha a obtusa marginal
+T71	PROCEDURE 4621 4695	se realiza ligadura distal y proximal de aneurisma en descendente anterior
+T72	PROCEDURE 4858 4901	Implante de marcapasos definitivo bicameral
+T73	PROCEDURE 4952 5048	Revascularización coronaria con doble arteria mamaria a descendente anterior y a obtusa marginal
+T74	PROCEDURE 5050 5095	Ligadura de aneurisma de descendente anterior
+T80	PROCEDURE 4488 4491	CEC
+T81	PROCEDURE 3485 3518	implante de marcapasos definitivo
+T82	PROCEDURE 4314 4346	intervención quirúrgica cardiaca
+T86	PROCEDURE 1562 1571	Analítica
+T92	PROCEDURE 4697 4709	Intervención
+T20	PROCEDURE 736 750	Cabeza y cuelo
+T22	PROCEDURE 951 963	Extremidades
+T91	PROCEDURE 3460 3477	cirugía coronaria

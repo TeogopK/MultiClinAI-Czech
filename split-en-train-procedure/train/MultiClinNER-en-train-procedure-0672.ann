@@ -1,0 +1,21 @@
+T17	PROCEDURE 1073 1082	haemogram
+T18	PROCEDURE 1084 1125	elemental biochemistry of blood and urine
+T21	PROCEDURE 1127 1158	cerebrospinal fluid (CSF) study
+T2	PROCEDURE 1160 1177	coagulation study
+T13	PROCEDURE 1292 1304	proteinogram
+T12	PROCEDURE 1306 1321	immunoglobulins
+T25	PROCEDURE 1323 1353	complement C3 and C4 fractions
+T14	PROCEDURE 1746 1754	serology
+T8	PROCEDURE 1815 1822	Mantoux
+T9	PROCEDURE 1824 1841	electrocardiogram
+T10	PROCEDURE 1843 1846	ECG
+T11	PROCEDURE 1849 1860	chest X-ray
+T34	PROCEDURE 1862 1924	brain, thoracic and abdominal magnetic resonance imaging (MRI)
+T4	PROCEDURE 1920 1923	MRI
+T1	PROCEDURE 2013 2039	neurophysiological studies
+T3	PROCEDURE 2351 2388	electromyogram (EMG) of the right APB
+T15	PROCEDURE 2367 2370	EMG
+T5	PROCEDURE 3324 3327	EMG
+T36	PROCEDURE 3722 3752	biopsy of the left sural nerve
+T7	PROCEDURE 4288 4312	neurophysiological study
+T6	PROCEDURE 4499 4502	EMG

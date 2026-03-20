@@ -1,0 +1,28 @@
+T47	PROCEDURE 870 888	Exploración física
+T48	PROCEDURE 1089 1110	Auscultación cardiaca
+T49	PROCEDURE 1150 1171	Auscultación pulmonar
+T50	PROCEDURE 1378 1387	hemograma
+T51	PROCEDURE 1599 1617	Electrocardiograma
+T52	PROCEDURE 1619 1622	ECG
+T53	PROCEDURE 1802 1830	Ecocardiograma Doppler color
+T54	PROCEDURE 2034 2057	Holter de ECG 24 horas:
+T55	PROCEDURE 2212 2232	Radiografía de tórax
+T56	PROCEDURE 2246 2258	implante DAI
+T57	PROCEDURE 2366 2383	Telemetría de DAI
+T58	PROCEDURE 2715 2732	estudio genéticos
+T59	PROCEDURE 2765 2779	ecocardiograma
+T60	PROCEDURE 2829 2832	ECG
+T61	PROCEDURE 2997 3015	Holter de 24 horas
+T62	PROCEDURE 3080 3128	implante de desfibrilador automático implantable
+T63	PROCEDURE 3438 3441	DAI
+T64	PROCEDURE 3516 3567	terapia de estimulación ventricular antitaquicardia
+T65	PROCEDURE 3640 3688	Implante de desfibrilador automático implantable
+T66	PROCEDURE 3569 3572	ATP
+T67	PROCEDURE 1444 1454	Bioquímica
+T68	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T20	PROCEDURE 2477 2480	DAI
+T38	PROCEDURE 3130 3133	DAI
+T70	PROCEDURE 3237 3245	implante
+T71	PROCEDURE 3576 3604	descargas apropiadas del DAI
+T72	PROCEDURE 3690 3693	DAI
+#3	AnnotatorNotes T66	 Antitachycardia pacing

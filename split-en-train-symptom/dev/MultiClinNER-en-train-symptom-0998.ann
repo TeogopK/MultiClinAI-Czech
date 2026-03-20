@@ -1,0 +1,40 @@
+T1	SYMPTOM 702 717	facial flushing
+T2	SYMPTOM 719 727	sweating
+T3	SYMPTOM 1192 1200	Sweating
+T4	SYMPTOM 729 744	general malaise
+T5	SYMPTOM 749 755	pallor
+T6	SYMPTOM 767 777	chest pain
+T7	SYMPTOM 779 787	dyspnoea
+T8	SYMPTOM 791 803	palpitations
+T9	SYMPTOM 1100 1122	Good general condition
+T10	SYMPTOM 1124 1133	Conscious
+T11	SYMPTOM 1138 1146	oriented
+T12	SYMPTOM 1182 1190	Afebrile
+T13	SYMPTOM 1256 1277	rhythmic heart sounds
+T14	SYMPTOM 1282 1289	murmurs
+T15	SYMPTOM 1315 1341	preserved vesicular murmur
+T16	SYMPTOM 1476 1495	Blood count: normal
+T17	SYMPTOM 1926 1936	Narrow QRS
+T18	SYMPTOM 2124 2136	sinus rhythm
+T19	SYMPTOM 2153 2170	high R wave in V2
+T20	SYMPTOM 2226 2274	left ventricle (LV) of normal size and thickness
+T21	SYMPTOM 2276 2303	preserved systolic function
+T22	SYMPTOM 2345 2387	Left atrium (LA) and right chambers normal
+T23	SYMPTOM 2392 2426	significant valvular abnormalities
+T24	SYMPTOM 2455 2481	Aortic root of normal size
+T25	SYMPTOM 3775 3795	ST-segment elevation
+T26	SYMPTOM 3882 3894	asymptomatic
+T27	SYMPTOM 3922 3952	preserved LV systolic function
+T28	SYMPTOM 5170 5200	Preserved LV systolic function
+T29	SYMPTOM 3114 3134	arterial hypotension
+T30	SYMPTOM 1896 1913	sinus tachycardia
+T31	SYMPTOM 1557 1586	normal ions and transaminases
+T32	SYMPTOM 1202 1232	Jugular venous pressure normal
+T33	SYMPTOM 1363 1394	oedema in the lower extremities
+T34	SYMPTOM 1974 2001	flat T wave in DIII and aVF
+T35	SYMPTOM 2037 2108	Discrete elevation (maximum 1 mm in V5) of the ST segment from V3 to V6
+T36	SYMPTOM 2175 2208	negative T waves in inferior face
+T37	SYMPTOM 2318 2343	mild inferior hypokinesia
+T38	SYMPTOM 3194 3232	ST segment underleveling from V3 to V6
+T39	SYMPTOM 3965 3985	inferior hypokinesia
+T40	SYMPTOM 5206 5226	inferior hypokinesia

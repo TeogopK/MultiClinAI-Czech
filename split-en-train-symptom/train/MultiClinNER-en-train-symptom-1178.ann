@@ -1,0 +1,69 @@
+T1	SYMPTOM 949 954	fever
+T5	SYMPTOM 1034 1053	exertional dyspnoea
+T6	SYMPTOM 1064 1074	orthopnoea
+T7	SYMPTOM 1076 1109	oedematisation of the lower limbs
+T8	SYMPTOM 1114 1119	cough
+T9	SYMPTOM 1125 1146	whitish expectoration
+T2	SYMPTOM 1353 1373	micturition symptoms
+T28	SYMPTOM 1378 1405	alterations in bowel habits
+T10	SYMPTOM 1488 1511	fever of unknown origin
+T45	SYMPTOM 1579 1651	micronodular interstitial pattern with well-defined nodules, bilaterally
+T46	SYMPTOM 1700 1757	blood cultures, urine cultures and serology were negative
+T47	SYMPTOM 1772 1807	no PCR detection of cytomegalovirus
+T48	SYMPTOM 1809 1883	Pneumocystis jirovecii (in bronchoalveolar lavage) and respiratory viruses
+T49	SYMPTOM 1885 2013	Negative smear microscopy, PCR for tuberculosis in bronchoalveolar lavage and bronchoaspirate and negative mycobacterial culture
+T12	SYMPTOM 2015 2079	Galactomannan for aspergillus in bronchoalveolar lavage negative
+T50	SYMPTOM 2081 2123	Negative PCR for Leishmania in bone marrow
+T13	SYMPTOM 2365 2387	Good general condition
+T14	SYMPTOM 2389 2404	Eupneic at rest
+T15	SYMPTOM 2525 2546	jugular ingurgitation
+T16	SYMPTOM 2586 2600	rhythmic tones
+T17	SYMPTOM 2617 2624	murmurs
+T51	SYMPTOM 2626 2663	Vesicular murmur with no added sounds
+T52	SYMPTOM 2665 2717	Abdomen: soft, depressible, not painful on palpation
+T18	SYMPTOM 2759 2787	Murphy and Blumberg negative
+T53	SYMPTOM 2918 2977	Right lower limb with oedema in the distal third with fovea
+T55	SYMPTOM 3521 3616	Urine system: glucose, protein, bilirubin, haemoglobin, leukocyte esterase and nitrites negativ
+T54	SYMPTOM 3619 3634	Sediment normal
+T19	SYMPTOM 3716 3728	sinus rhythm
+T20	SYMPTOM 3741 3750	normal PR
+T21	SYMPTOM 3752 3762	narrow QRS
+T42	SYMPTOM 3768 3779	normal axis
+T56	SYMPTOM 3801 3821	electrical alternans
+T57	SYMPTOM 3826 3852	repolarisation alterations
+T58	SYMPTOM 3864 3911	bilateral and diffuse micronodular lung pattern
+T22	SYMPTOM 3975 4033	Blood cultures, urine culture and sputum culture: negative
+T23	SYMPTOM 4035 4057	Mantoux test: negative
+T59	SYMPTOM 4088 4113	left atrium of normal siz
+T43	SYMPTOM 4157 4186	Left ventricle of normal size
+T24	SYMPTOM 4215 4249	preserved global systolic function
+T36	SYMPTOM 4395 4413	Normal aortic root
+T60	SYMPTOM 4415 4435	Normal right chamber
+T37	SYMPTOM 4568 4587	Normal right atrium
+T61	SYMPTOM 4634 4664	Inferior vena cava not dilated
+T38	SYMPTOM 4701 4731	Non-dilated suprahepatic veins
+T62	SYMPTOM 5040 5067	normal cardiothoracic index
+T40	SYMPTOM 5109 5145	Increased perihilar vascular network
+T41	SYMPTOM 5155 5167	condensation
+T63	SYMPTOM 5171 5204	occupation of costophrenic sinuse
+T25	SYMPTOM 5459 5509	pericardial fluid cytology negative for malignancy
+T64	SYMPTOM 5734 5774	Sputum culture and antibiogram: negative
+T26	SYMPTOM 5776 5815	Urine culture and antibiogram: negative
+T65	SYMPTOM 5817 5857	Pericardial fluid bacilloscopy: negative
+T66	SYMPTOM 5859 5910	Pericardial fluid culture and antibiogram: negative
+T67	SYMPTOM 5969 6008	PCR of the tuberculous complex positive
+T68	SYMPTOM 6072 6147	mutations in RPO-B gene associated with rifampicin resistance were detected
+T27	SYMPTOM 6149 6232	Mycobacterial culture in pericardial fluid: positive for Mycobacterium tuberculosis
+T3	SYMPTOM 6869 6874	fever
+T29	SYMPTOM 6900 6908	dyspnoea
+T30	SYMPTOM 6950 7021	Blood cultures, urine culture, sputum culture and Mantoux were negative
+T31	SYMPTOM 7076 7108	preserved biventricular function
+T32	SYMPTOM 7175 7198	haemodynamic compromise
+T11	SYMPTOM 7256 7279	fever of unknown origin
+T44	SYMPTOM 7834 7879	pericardial fluid was compatible with exudate
+T33	SYMPTOM 8008 8076	microbiological analysis, the culture of the first days was negative
+T4	SYMPTOM 8087 8123	positive PCR for tuberculous complex
+T39	SYMPTOM 8136 8175	presence of mutations in the RPO-B gene
+T34	SYMPTOM 8369 8377	afebrile
+T69	SYMPTOM 8766 8842	pericardial fluid culture was finally found to be positive for mycobacterium
+T35	SYMPTOM 9094 9102	afebrile

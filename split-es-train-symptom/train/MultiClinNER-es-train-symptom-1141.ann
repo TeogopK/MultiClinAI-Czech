@@ -1,0 +1,48 @@
+T1	SYMPTOM 45 60	Bien alimentado
+T2	SYMPTOM 62 78	Buen crecimiento
+T3	SYMPTOM 80 108	Buen desarrollo neurosíquico
+T4	SYMPTOM 438 444	fiebre
+T5	SYMPTOM 462 490	rechazo parcial del alimento
+T6	SYMPTOM 492 503	decaimiento
+T7	SYMPTOM 506 524	tendencia al sueño
+T8	SYMPTOM 680 688	soporoso
+T9	SYMPTOM 690 696	febril
+T10	SYMPTOM 809 817	polipnea
+T11	SYMPTOM 847 878	Buena entrada de aire bilateral
+T12	SYMPTOM 884 894	estertores
+T13	SYMPTOM 924 945	ruidos bien golpeados
+T14	SYMPTOM 950 956	soplos
+T15	SYMPTOM 958 974	Pulsos presentes
+T16	SYMPTOM 976 986	Normotenso
+T17	SYMPTOM 988 1003	Bien perfundido
+T18	SYMPTOM 1185 1203	nosignos meníngeos
+T19	SYMPTOM 1236 1251	déficit motores
+T20	SYMPTOM 1253 1323	Reflejos osteotendinosos presentes y simétricos en los cuatro miembros
+T21	SYMPTOM 1372 1384	leucocitosis
+T22	SYMPTOM 1567 1606	proteinorraquia y glucorraquia normales
+T24	SYMPTOM 2001 2019	tendencia al sueño
+T25	SYMPTOM 2021 2030	irritable
+T26	SYMPTOM 2213 2222	irritable
+T27	SYMPTOM 2242 2251	Apirético
+T29	SYMPTOM 2389 2395	soplos
+T30	SYMPTOM 2397 2407	normotenso
+T31	SYMPTOM 2409 2422	pulsos llenos
+T32	SYMPTOM 2472 2493	Buena entrada de aire
+T33	SYMPTOM 2499 2509	estertores
+T34	SYMPTOM 2514 2539	rigidez de nuca ni tronco
+T35	SYMPTOM 2544 2557	déficit motor
+T36	SYMPTOM 2680 2692	leucocitosis
+T37	SYMPTOM 2714 2727	plaquetopenia
+T38	SYMPTOM 2813 2844	Función renal glomerular normal
+T39	SYMPTOM 2947 2999	cultivo del LCR y la PCR para Herpes virus negativas
+T40	SYMPTOM 3044 3081	soplo sistólico intenso en mesocardio
+T41	SYMPTOM 3382 3405	Buena función sistólica
+T42	SYMPTOM 3867 3875	apirexia
+T52	SYMPTOM 2846 2919	Lesión de piel y hemocultivos desarrollan Staphylococcus aureusmeticilino
+T97	SYMPTOM 3513 3540	moderado edema perilesional
+T111	SYMPTOM 39 43	sano
+T99	SYMPTOM 1205 1231	tono y fuerzas conservadas
+T23	SYMPTOM 2106 2128	compromiso neurológico
+T100	SYMPTOM 2754 2787	movilización de enzimas hepáticas
+T102	SYMPTOM 3562 3579	focos embolígenos
+T104	SYMPTOM 4458 4470	rimo sinusal

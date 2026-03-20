@@ -1,0 +1,83 @@
+T152	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 209 295	Aortic valve replacement due to double lesion (Carbomedics mechanical prosthesis no21)
+T3	PROCEDURE 490 532	The fistula was closed at the aortic level
+T5	PROCEDURE 539 555	sternal exeresis
+T6	PROCEDURE 560 591	plasty of both pectoral muscles
+T128	PROCEDURE 597 632	disinsertion of the humerus muscles
+T187	PROCEDURE 634 660	pectoralis major myoplasty
+T195	PROCEDURE 719 748	re-interventions for bleeding
+T7	PROCEDURE 992 1036	implantation of a St. Jude prosthesis no. 21
+T8	PROCEDURE 1070 1103	preoperative coronary angiography
+T129	PROCEDURE 1220 1235	anticoagulation
+T130	PROCEDURE 1338 1355	Electrocardiogram
+T132	PROCEDURE 1357 1360	ECG
+T191	PROCEDURE 1458 1478	telemetry monitoring
+T134	PROCEDURE 1483 1497	echocardiogram
+T141	PROCEDURE 1684 1713	implant a subcutaneous Holter
+T139	PROCEDURE 2427 2437	cranial CT
+T142	PROCEDURE 2541 2560	subcutaneous Holter
+T143	PROCEDURE 2585 2604	subcutaneous Holter
+T146	PROCEDURE 2668 2690	pacemaker implantation
+T15	PROCEDURE 2810 2812	CT
+T147	PROCEDURE 3051 3073	orotracheal intubation
+T148	PROCEDURE 3078 3099	surgical tracheostomy
+T149	PROCEDURE 3311 3333	beta-blocker treatment
+T151	PROCEDURE 3342 3375	review of the subcutaneous Holter
+T189	PROCEDURE 3561 3571	monitoring
+T19	PROCEDURE 3593 3629	mplantation of a permanent pacemaker
+T153	PROCEDURE 3632 3652	PHYSICAL EXPLORATION
+T186	PROCEDURE 3846 3863	Chest: Inspection
+T154	PROCEDURE 3920 3929	palpation
+T155	PROCEDURE 3931 3953	Pulmonary auscultation
+T156	PROCEDURE 4007 4027	Cardiac auscultation
+T180	PROCEDURE 4106 4125	Abdomen: inspection
+T197	PROCEDURE 4163 4171	Perineum
+T198	PROCEDURE 4255 4266	Extremities
+T157	PROCEDURE 4323 4347	Neurological examination
+T185	PROCEDURE 4564 4576	MICROBIOLOGY
+T158	PROCEDURE 4578 4592	blood cultures
+T163	PROCEDURE 4644 4655	antibiogram
+T159	PROCEDURE 4783 4797	blood cultures
+T21	PROCEDURE 4809 4817	ANALYSIS
+T181	PROCEDURE 4981 4993	Biochemistry
+T164	PROCEDURE 4999 5012	renal profile
+T165	PROCEDURE 5137 5150	liver profile
+T166	PROCEDURE 5155 5170	thyroid profile
+T133	PROCEDURE 5276 5279	ECG
+T140	PROCEDURE 5399 5409	CRANIAL CT
+T184	PROCEDURE 5587 5610	ECHOCARDIOGRAPHIC STUDY
+T23	PROCEDURE 5636 5639	TTE
+T182	PROCEDURE 6106 6120	colour Doppler
+T183	PROCEDURE 6388 6402	colour Doppler
+T175	PROCEDURE 6564 6596	Transesophageal echocardiography
+T26	PROCEDURE 6598 6601	TEE
+T33	PROCEDURE 7583 7586	TEE
+T35	PROCEDURE 7891 7902	CRANIAL MRI
+T167	PROCEDURE 8156 8199	Abdominal CT scan with intravenous contrast
+T38	PROCEDURE 8294 8297	TEE
+T160	PROCEDURE 8658 8672	blood cultures
+T168	PROCEDURE 8697 8710	urine culture
+T40	PROCEDURE 8794 8807	blood culture
+T136	PROCEDURE 8879 8893	echocardiogram
+T169	PROCEDURE 9267 9291	cerebral MRI angiography
+T43	PROCEDURE 9413 9415	CT
+T137	PROCEDURE 9680 9694	echocardiogram
+T44	PROCEDURE 9726 9744	antibiotic therapy
+T171	PROCEDURE 10031 10051	antibiotic treatment
+T45	PROCEDURE 10137 10155	antibiotic therapy
+T174	PROCEDURE 10236 10248	abdominal CT
+T47	PROCEDURE 10345 10363	antibiotic therapy
+T138	PROCEDURE 10387 10401	echocardiogram
+T131	PROCEDURE 10782 10799	electrocardiogram
+T177	PROCEDURE 10803 10812	telemetry
+T161	PROCEDURE 10870 10884	blood cultures
+T172	PROCEDURE 10912 10932	antibiotic treatment
+T48	PROCEDURE 10955 10983	intravenous antibiotic cycle
+T178	PROCEDURE 11133 11147	rehabilitation
+T53	PROCEDURE 11171 11230	gross and fine motor exercises with the affected upper limb
+T179	PROCEDURE 11346 11364	antibiotic therapy
+T162	PROCEDURE 11574 11588	blood cultures
+T150	PROCEDURE 11631 11653	beta-blocker treatment
+T74	PROCEDURE 11727 11746	implant a pacemaker
+T192	PROCEDURE 11779 11809	subcutaneous Holter monitoring
+T196	PROCEDURE 12108 12126	surgical treatment

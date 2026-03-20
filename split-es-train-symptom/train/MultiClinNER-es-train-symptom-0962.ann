@@ -1,0 +1,54 @@
+T1	SYMPTOM 452 466	dolor torácico
+T3	SYMPTOM 587 593	fiebre
+T4	SYMPTOM 784 790	disnea
+T5	SYMPTOM 792 805	palpitaciones
+T6	SYMPTOM 832 875	dolor torácico de características anginosas
+T7	SYMPTOM 1018 1037	Buen estado general
+T8	SYMPTOM 1039 1085	buena hidratación y coloración de extremidades
+T9	SYMPTOM 1087 1105	Eupneica en reposo
+T10	SYMPTOM 1107 1137	Auscultación cardiaca: rítmica
+T11	SYMPTOM 1155 1161	soplos
+T12	SYMPTOM 1165 1181	roce pericárdico
+T13	SYMPTOM 1206 1235	murmullo vesicular conservado
+T14	SYMPTOM 1240 1260	ruidos sobreañadidos
+T15	SYMPTOM 1319 1351	edema en extremidades inferiores
+T16	SYMPTOM 1353 1407	Pulsos distales presentes en extremidades y simétricos
+T17	SYMPTOM 1562 1590	Coagulación sin alteraciones
+T18	SYMPTOM 1842 1887	Perfil hepático dentro de parámetros normales
+T19	SYMPTOM 2000 2013	ritmo sinusal
+T20	SYMPTOM 2050 2062	QRS estrecho
+T21	SYMPTOM 2095 2121	ondas T negativas en V1-V3
+T22	SYMPTOM 2176 2221	Índice cardiotorácico dentro de la normalidad
+T27	SYMPTOM 2707 2783	ventrículo izquierdo con contractilidad global en el límite de la normalidad
+T28	SYMPTOM 2990 3061	Ventrículo derecho de tamaño y morfología normal con función conservada
+T30	SYMPTOM 4984 4989	dolor
+T31	SYMPTOM 4995 5001	fiebre
+T33	SYMPTOM 5277 5317	características pericardíticas del dolor
+T34	SYMPTOM 5325 5364	elevación de enzimas de daño miocárdico
+T36	SYMPTOM 5848 5873	estable hemodinámicamente
+T37	SYMPTOM 6224 6235	hipotensión
+T127	SYMPTOM 291 314	mutación M079 c.1342C>T
+T23	SYMPTOM 2407 2445	Aquinesia apical y de segmentos medios
+T24	SYMPTOM 2796 2824	Hipocinesia del septo apical
+T25	SYMPTOM 5189 5261	aquinesia apical y de segmentos medios de cara anterior y septo anterior
+T129	SYMPTOM 2576 2602	Aurículas de tamaño normal
+T130	SYMPTOM 3096 3134	Coronarias con origen anatómico normal
+T132	SYMPTOM 3136 3154	Dominancia derecha
+T141	SYMPTOM 2223 2256	Parénquima pulmonar sin hallazgos
+T144	SYMPTOM 2258 2284	Senos costofrénicos libres
+T145	SYMPTOM 2481 2574	Ventrículo derecho no dilatado, no hipertrófico con función sistólica longitudinal conservada
+T147	SYMPTOM 6810 6822	asintomática
+T151	SYMPTOM 2067 2077	eje normal
+T161	SYMPTOM 3156 3227	Tronco de la coronaria izquierda: vaso de buen desarrollo, sin lesiones
+T170	SYMPTOM 4642 4691	Arteria circunfleja de buen calibre, sin lesiones
+T178	SYMPTOM 2858 2920	defecto de perfusión subendocárdico en el septo medio y apical
+T179	SYMPTOM 6428 6463	defecto de perfusión subendocárdico
+T26	SYMPTOM 3721 3786	ostium de la segunda diagonal se encuentra afectado por la lesión
+T29	SYMPTOM 4473 4513	izquierdo: tronco coronario sin lesiones
+T32	SYMPTOM 3965 3996	Obtusa marginal de buen calibre
+T35	SYMPTOM 3844 3880	circunfleja: vaso de buen desarrollo
+T38	SYMPTOM 4036 4106	Coronaria derecha: vaso dominante de muy buen desarrollo, sin lesiones
+T117	SYMPTOM 4113 4160	posterolateral de buen desarrollo, sin lesiones
+T131	SYMPTOM 4167 4221	descendente posterior de buen desarrollo, sin lesiones
+T133	SYMPTOM 4232 4292	conal y aguda marginal de moderado desarrollo y sin lesiones
+T134	SYMPTOM 6800 6807	estable

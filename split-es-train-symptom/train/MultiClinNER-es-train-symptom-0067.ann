@@ -1,0 +1,31 @@
+T1	SYMPTOM 2526 2535	hiperemia
+T2	SYMPTOM 39 85	disminución de la agudeza visual (AV) indolora
+T3	SYMPTOM 1836 1857	hiperemia conjuntival
+T4	SYMPTOM 853 874	inyección conjuntival
+T5	SYMPTOM 885 940	córnea deslustrada de predominio central con leve edema
+T6	SYMPTOM 167 175	ojo rojo
+T7	SYMPTOM 991 1000	sinequias
+T8	SYMPTOM 1002 1025	precipitados queráticos
+T9	SYMPTOM 1257 1275	ángulo era abierto
+T10	SYMPTOM 3046 3099	análisis microbiológico confirmó positividad para HVS
+T11	SYMPTOM 1281 1290	sinequias
+T12	SYMPTOM 1294 1302	neovasos
+T13	SYMPTOM 1348 1359	somnolencia
+T14	SYMPTOM 1382 1405	dificultad respiratoria
+T15	SYMPTOM 1425 1438	baja estatura
+T16	SYMPTOM 1460 1472	cuello corto
+T17	SYMPTOM 1194 1209	retina aplicada
+T18	SYMPTOM 1029 1038	secreción
+T19	SYMPTOM 982 989	Tyndall
+T20	SYMPTOM 943 976	tinción negativa con fluoresceína
+T21	SYMPTOM 1156 1188	papila y la mácula eran normales
+T22	SYMPTOM 2793 2825	tinción positiva de fluoresceína
+T23	SYMPTOM 1133 1146	edema corneal
+A1	IMAGEN T9
+A2	RESULTADO T10
+A3	IMAGEN T11
+A4	IMAGEN T12
+A5	RESULTADO T17
+A6	RESULTADO T21
+A7	RESULTADO T22
+A8	RESULTADO T23

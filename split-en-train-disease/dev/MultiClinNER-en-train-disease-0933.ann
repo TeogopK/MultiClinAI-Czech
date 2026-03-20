@@ -1,0 +1,54 @@
+T35	DISEASE 123 137	drug allergies
+T36	DISEASE 168 177	ex-smoker
+T37	DISEASE 221 240	High blood pressure
+T1	DISEASE 242 245	HBP
+T2	DISEASE 298 322	Type 2 diabetes mellitus
+T38	DISEASE 324 326	DM
+T39	DISEASE 376 389	Dyslipidaemia
+T3	DISEASE 426 439	alcohol habit
+T4	DISEASE 542 594	degenerative aortic valve disease with double lesion
+T40	DISEASE 596 618	severe aortic stenosis
+T41	DISEASE 623 652	moderate aortic insufficiency
+T42	DISEASE 655 680	ascending aortic aneurysm
+T43	DISEASE 693 725	1-vessel coronary artery disease
+T44	DISEASE 939 953	Duodenal ulcer
+T45	DISEASE 1001 1037	lower rectal and pulmonary neoplasia
+T5	DISEASE 1135 1214	Grade II chronic lower limb ischaemia due to femoropopliteal obstruction in MID
+T6	DISEASE 1219 1252	distal popliteal stenosis in MMII
+T7	DISEASE 1254 1290	Neurinoma of the left acoustic nerve
+T8	DISEASE 1299 1325	hypoacusis in the left ear
+T51	DISEASE 1604 1612	diplopia
+T46	DISEASE 1984 2009	right bundle branch block
+T9	DISEASE 2011 2015	RBBB
+T10	DISEASE 2085 2095	infarction
+T48	DISEASE 2214 2245	complete atrioventricular block
+T49	DISEASE 2260 2278	prolonged asystole
+T50	DISEASE 2592 2639	100% stenosis of the anterior descending artery
+T11	DISEASE 2977 2993	palpebral ptosis
+T52	DISEASE 2998 3006	diplopia
+T53	DISEASE 4136 4156	deep vein thrombosis
+T12	DISEASE 4308 4398	Hypodense lesions in the periventricular white matter with a subacute ischaemic appearance
+T47	DISEASE 4752 4757	BRDHH
+T15	DISEASE 4940 4974	Anterior descending: 100% stenosis
+T14	DISEASE 5034 5072	Right coronary artery: severe stenosis
+T13	DISEASE 5650 5708	Biological prosthesis in aortic position with a large wart
+T54	DISEASE 5809 5836	Mild valvular insufficiency
+T16	DISEASE 5924 5951	Perivalvular aortic abscess
+T17	DISEASE 5988 6070	Moderate-severe mitral insufficiency due to de-structuring of the valvular annulus
+T18	DISEASE 6086 6122	abscess in the mitro-aortic junction
+T55	DISEASE 6272 6292	pericardial effusion
+T56	DISEASE 6440 6445	shock
+T60	DISEASE 6469 6491	infective endocarditis
+T63	DISEASE 6792 6830	late prosthetic infective endocarditis
+T19	DISEASE 7021 7038	cardiogenic shock
+T58	DISEASE 7228 7233	shock
+T66	DISEASE 7245 7264	Acute renal failure
+T67	DISEASE 7342 7361	multi-organ failure
+T20	DISEASE 7404 7479	late prosthetic infective endocarditis caused by Staphylococcus epidermidis
+T21	DISEASE 7497 7511	Previous STEMI
+T22	DISEASE 7547 7563	cardiogenic hock
+T68	DISEASE 7566 7598	2-vessel coronary artery disease
+T23	DISEASE 7600 7646	Chronic right middle coronary artery occlusion
+T24	DISEASE 7648 7704	Embolic occlusion of proximal anterior descending artery
+T34	DISEASE 7764 7816	Severely impaired left ventricular systolic function
+T25	DISEASE 7818 7863	Shock of mixed origin, cardiogenic and septic

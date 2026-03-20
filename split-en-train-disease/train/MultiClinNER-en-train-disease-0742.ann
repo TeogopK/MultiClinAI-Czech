@@ -1,0 +1,17 @@
+T1	DISEASE 30 39	ex-smoker
+T2	DISEASE 72 84	hypertension
+T3	DISEASE 86 99	dyslipidaemia
+T4	DISEASE 104 127	ischaemic heart disease
+T5	DISEASE 135 162	acute myocardial infarction
+T8	DISEASE 243 258	colon neoplasia
+T13	DISEASE 243 322	colon neoplasia with the anatomopathological result of stage III adenocarcinoma
+T14	DISEASE 785 818	lower respiratory tract infection
+T6	DISEASE 1288 1314	severe respiratory failure
+T9	DISEASE 1458 1474	severe pneumonia
+T10	DISEASE 1605 1630	pulmonary thromboembolism
+T11	DISEASE 1800 1868	severe respiratory failure secondary to community-acquired pneumonia
+T7	DISEASE 1859 1868	pneumonia
+T31	DISEASE 1895 1932	pulmonary toxicity due to cytostatics
+T15	DISEASE 1949 1984	adult respiratory distress syndrome
+T16	DISEASE 2201 2233	diffuse interstitial pneumonitis
+T17	DISEASE 2415 2448	pulmonary toxicity to cytostatics

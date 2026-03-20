@@ -1,0 +1,28 @@
+T60	PROCEDURE 722 740	electrocardiograma
+T61	PROCEDURE 1123 1141	EXPLORACIÓN FÍSICA
+T62	PROCEDURE 1249 1270	Auscultación cardiaca
+T63	PROCEDURE 1293 1314	Auscultación pulmonar
+T64	PROCEDURE 1444 1462	Electrocardiograma
+T65	PROCEDURE 1464 1467	ECG
+T66	PROCEDURE 1581 1601	Radiografía de tórax
+T67	PROCEDURE 2016 2031	Coronariografía
+T68	PROCEDURE 2137 2195	Se cruzó la lesión trombótica con una guía de angioplastia
+T69	PROCEDURE 2384 2400	tromboaspiración
+T70	PROCEDURE 2543 2559	tromboaspiración
+T71	PROCEDURE 2562 2584	angioplastia con balón
+T72	PROCEDURE 2661 2681	doble antiagregación
+T73	PROCEDURE 2720 2735	anticoagulación
+T74	PROCEDURE 2774 2788	Ecocardiograma
+T75	PROCEDURE 2794 2805	cateterismo
+T76	PROCEDURE 3266 3269	ECG
+T77	PROCEDURE 3588 3602	monitorización
+T78	PROCEDURE 3878 3892	ecocardiograma
+T79	PROCEDURE 4960 4974	ecocardiograma
+T80	PROCEDURE 4987 5005	pericardiocentesis
+T81	PROCEDURE 5331 5347	Tromboaspiración
+T82	PROCEDURE 5471 5500	Pericardiocentesis evacuadora
+T89	PROCEDURE 3799 3823	reactantes de fase aguda
+T90	PROCEDURE 4839 4862	Se administra contraste
+T97	PROCEDURE 1690 1699	Analítica
+T108	PROCEDURE 3830 3839	analítica
+T36	PROCEDURE 2631 2655	abciximab intracoronario

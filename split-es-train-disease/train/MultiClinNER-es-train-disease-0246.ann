@@ -1,0 +1,19 @@
+T10	DISEASE 479 500	engrosamiento macular
+T14	DISEASE 1383 1415	quiste intrarretiniano subfoveal
+T17	DISEASE 560 588	hemorragias intrarretinianas
+T20	DISEASE 1448 1508	desprendimiento de retina neurosensorial (DRNS) perifoveales
+T22	DISEASE 337 350	metamorfopsia
+T23	DISEASE 149 164	resfriado común
+T28	DISEASE 1767 1805	epiteliopatía placoide posterior aguda
+T35	DISEASE 2357 2374	DRNS perifoveales
+T52	DISEASE 2229 2237	lesiones
+T53	DISEASE 2616 2624	lesiones
+T54	DISEASE 2894 2902	lesiones
+T55	DISEASE 633 639	lesión
+T56	DISEASE 1599 1605	lesión
+T1	DISEASE 37 62	pérdida de visión central
+T2	DISEASE 1490 1494	DRNS
+T3	DISEASE 2287 2315	alteración del EPR subfoveal
+#3	AnnotatorNotes T35	   DRNS: desprendimiento de retina neurosensorial
+#1	AnnotatorNotes T2	   DRNS: desprendimiento de retina neurosensorial
+#2	AnnotatorNotes T3	   EPR:Epitelio pigmentario retiniano

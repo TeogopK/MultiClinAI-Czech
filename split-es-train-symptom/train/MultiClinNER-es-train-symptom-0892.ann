@@ -1,0 +1,78 @@
+T2	SYMPTOM 500 506	disnea
+T3	SYMPTOM 651 680	disnea de esfuerzo progresiva
+T4	SYMPTOM 926 955	edemas en miembros inferiores
+T5	SYMPTOM 958 989	aumento del perímetro abdominal
+T6	SYMPTOM 994 1015	sensación de plenitud
+T7	SYMPTOM 1017 1024	náuseas
+T8	SYMPTOM 1027 1034	vómitos
+T9	SYMPTOM 1062 1070	ortopnea
+T11	SYMPTOM 1102 1110	oliguria
+T12	SYMPTOM 1137 1180	dolor torácico de características anginosas
+T13	SYMPTOM 1182 1225	Palpitaciones ocasionales con los esfuerzos
+T14	SYMPTOM 1339 1346	Afebril
+T15	SYMPTOM 1348 1378	Auscultación cardiaca: rítmica
+T16	SYMPTOM 1380 1392	taquicárdica
+T17	SYMPTOM 1394 1469	soplo sistólico rudo en el borde paraesternal izquierdo (BEI) y foco mitral
+T18	SYMPTOM 1494 1523	murmullo vesicular conservado
+T19	SYMPTOM 1533 1552	crepitantes en base
+T20	SYMPTOM 1562 1596	Edemas con fóvea en ambos maleolos
+T21	SYMPTOM 1598 1617	Abdomen: distendido
+T22	SYMPTOM 1633 1654	irritación peritoneal
+T25	SYMPTOM 1780 1789	PR normal
+T26	SYMPTOM 1791 1803	QRS estrecho
+T27	SYMPTOM 1820 1860	alteraciones agudas de la repolarización
+T28	SYMPTOM 1875 1877	RS
+T29	SYMPTOM 1888 1897	PR normal
+T30	SYMPTOM 1899 1911	QRS estrecho
+T31	SYMPTOM 1921 1956	T negativas en II, III, aVF, V4- V6
+T32	SYMPTOM 2970 3030	alteración de la morfología de la silueta cardiomediastínica
+T33	SYMPTOM 3227 3277	Parénquima pulmonar con alteraciones inespecíficas
+T36	SYMPTOM 3723 3792	Patrón diastólico pseudonormal con tiempo de desaceleración recortado
+T43	SYMPTOM 7524 7550	congestión venosa hepática
+T44	SYMPTOM 7567 7597	hemocultivos (2/1): E. cloacae
+T45	SYMPTOM 7599 7634	Urocultivo (4/1): orina contaminada
+T46	SYMPTOM 7668 7694	Urocultivo (19/1) negativo
+T47	SYMPTOM 8008 8030	sarampión IgG positivo
+T48	SYMPTOM 8498 8509	hipotensión
+T49	SYMPTOM 8570 8596	deterioro de función renal
+T50	SYMPTOM 8599 8629	elevación de enzimas hepáticas
+T51	SYMPTOM 8632 8657	alteración de coagulación
+T52	SYMPTOM 8725 8736	pico febril
+T53	SYMPTOM 8766 8774	tiritona
+T54	SYMPTOM 8777 8803	empeoramiento hemodinámico
+T113	SYMPTOM 5179 5241	ventrículo derecho es de tamaño normal con disfunción moderada
+T115	SYMPTOM 9529 9548	bajo gasto cardiaco
+T185	SYMPTOM 1749 1768	taquicardia sinusal
+T24	SYMPTOM 5258 5277	hipoquinesia global
+T197	SYMPTOM 3118 3173	Redistribución vascular en campos pulmonares superiores
+T198	SYMPTOM 4320 4371	Válvula aórtica morfológica y funcionalmente normal
+T200	SYMPTOM 1120 1129	bendopnea
+T203	SYMPTOM 1805 1815	eje normal
+T212	SYMPTOM 4510 4529	líquido pericárdico
+T217	SYMPTOM 5066 5108	defecto de perfusión subendocárdico difuso
+T220	SYMPTOM 5113 5174	realce tardío subendocárdico (< 25 %) en toda la pared del VI
+T221	SYMPTOM 5288 5330	rectificación del tabique interventricular
+T222	SYMPTOM 8535 8555	signos de bajo gasto
+T224	SYMPTOM 5344 5372	sobrecarga de presión del VD
+T1	SYMPTOM 3643 3672	hipertrofia ligera excéntrica
+T37	SYMPTOM 3868 3929	parámetros de función sistólica en el límite de la normalidad
+T40	SYMPTOM 4082 4171	Válvula mitral con velos no claramente engrosados ni calcificados, de apertura conservada
+T41	SYMPTOM 4671 4720	VI es de tamaño normal con gasto cardiaco elevado
+T39	SYMPTOM 5567 5594	Septo inteauricular integro
+T55	SYMPTOM 6542 6644	VI no dilatado ni hipertrófico con función en el límite bajo de la normalidad y elevado gasto cardiaco
+T34	SYMPTOM 6646 6690	Realce subendocárdico en todos los segmentos
+T162	SYMPTOM 7636 7666	Hemocultivos (18/1): estériles
+T35	SYMPTOM 7708 7728	Sífilis IgG negativo
+T163	SYMPTOM 7730 7753	toxoplasma IgG negativo
+T164	SYMPTOM 7755 7775	rubéola IgG positivo
+T165	SYMPTOM 7777 7807	VHS IgG negativo, IgM negativo
+T166	SYMPTOM 7809 7828	varicela IgG dudoso
+T167	SYMPTOM 7830 7872	citomegalovirus IgG positivo, IgM negativo
+T168	SYMPTOM 7874 7904	VHA IgM negativo, IgG positivo
+T169	SYMPTOM 7906 7921	HBs Ag negativo
+T170	SYMPTOM 7923 7944	anti-HB core negativo
+T171	SYMPTOM 7946 7970	anti-HBs positivo límite
+T172	SYMPTOM 7972 7988	VHA IgG positivo
+T173	SYMPTOM 7990 8006	VIH 1/2 negativo
+T174	SYMPTOM 8032 8056	parotiditis IgG positivo
+T176	SYMPTOM 8284 8323	disfunción ventricular izquierda ligera

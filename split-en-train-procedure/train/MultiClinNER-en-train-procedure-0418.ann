@@ -1,0 +1,27 @@
+T18	PROCEDURE 298 314	Angiographically
+T1	PROCEDURE 410 447	drug treatment with quintuple therapy
+T13	PROCEDURE 449 489	angiotensin-converting enzyme inhibitors
+T14	PROCEDURE 491 504	beta-blockers
+T15	PROCEDURE 506 525	calcium antagonists
+T16	PROCEDURE 527 536	diuretics
+T12	PROCEDURE 541 555	alpha-blockers
+T31	PROCEDURE 723 764	to place a stent in the left renal artery
+T2	PROCEDURE 771 795	locoregional anaesthesia
+T17	PROCEDURE 801 837	continuous blood pressure monitoring
+T21	PROCEDURE 846 853	surgery
+T3	PROCEDURE 1161 1178	electrocardiogram
+T19	PROCEDURE 1195 1210	cardiac markers
+T40	PROCEDURE 1313 1371	an arteriography was performed via the left femoral artery
+T4	PROCEDURE 1408 1420	thrombolysis
+T20	PROCEDURE 1473 1517	stent, which was unsuccessfully repositioned
+T6	PROCEDURE 1586 1602	vasoactive drugs
+T5	PROCEDURE 1607 1624	blood transfusion
+T46	PROCEDURE 1683 1716	a dialysis catheter was implanted
+T7	PROCEDURE 1744 1760	vasoactive drugs
+T9	PROCEDURE 1777 1795	haemodiafiltration
+T10	PROCEDURE 1853 1869	echocardiography
+T11	PROCEDURE 2053 2075	mechanical ventilation
+T52	PROCEDURE 2077 2112	Abdominal computed axial tomography
+T53	PROCEDURE 2176 2186	laparotomy
+T8	PROCEDURE 2284 2300	vasoactive drugs
+T23	PROCEDURE 2444 2460	vascular surgery

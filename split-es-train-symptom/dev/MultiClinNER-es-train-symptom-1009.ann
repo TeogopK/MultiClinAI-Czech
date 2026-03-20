@@ -1,0 +1,31 @@
+T1	SYMPTOM 1265 1277	disnea basal
+T2	SYMPTOM 1352 1360	ortopnea
+T3	SYMPTOM 1363 1399	edematización de miembros inferiores
+T4	SYMPTOM 1410 1446	disminución subjetiva de la diuresis
+T5	SYMPTOM 1455 1468	palpitaciones
+T6	SYMPTOM 1532 1535	tos
+T7	SYMPTOM 1547 1572	expectoración blanquecina
+T8	SYMPTOM 1577 1583	fiebre
+T9	SYMPTOM 1864 1908	Auscultación cardiaca con ruidos irregulares
+T10	SYMPTOM 1910 1923	taquicárdicos
+T11	SYMPTOM 1951 1975	hipoventilación en bases
+T12	SYMPTOM 1978 2009	crepitantes hasta campos medios
+T13	SYMPTOM 2021 2027	roncus
+T14	SYMPTOM 2038 2070	Edemas tibiomaleolares con fóvea
+T15	SYMPTOM 2187 2234	Descenso del segmento ST de 1 mm V4-V6, I y aVL
+T17	SYMPTOM 2552 2585	Signos de redistribución vascular
+T18	SYMPTOM 2588 2606	edema intersticial
+T21	SYMPTOM 2773 2822	moderada depresión de la función sistólica global
+T22	SYMPTOM 2873 2902	Presiones de llenado elevadas
+T27	SYMPTOM 3413 3440	Flujo venoso renal pulsátil
+T28	SYMPTOM 3442 3467	congestión renal moderada
+T30	SYMPTOM 4119 4148	deterioro de la función renal
+T31	SYMPTOM 5293 5301	ortopnea
+T32	SYMPTOM 6018 6026	ortopnea
+T20	SYMPTOM 2847 2871	hipocinesia generalizada
+T74	SYMPTOM 2914 2973	Ventrículo derecho no dilatado con función sistólica límite
+T88	SYMPTOM 3593 3634	función sistólica moderadamente deprimida
+T89	SYMPTOM 3647 3703	Ventrículo derecho de volumen y función sistólica normal
+T114	SYMPTOM 3734 3782	Provocación de isquemia con regadenoson negativa
+T115	SYMPTOM 4258 4286	FEVI moderadamente deprimida
+T159	SYMPTOM 6042 6060	signos congestivos

@@ -1,0 +1,50 @@
+T1	SYMPTOM 273 312	brain MRI without pathological findings
+T2	SYMPTOM 442 470	sudden loss of consciousness
+T24	SYMPTOM 697 721	no spontaneous breathing
+T30	SYMPTOM 726 743	no palpable pulse
+T11	SYMPTOM 973 985	sinus rhythm
+T3	SYMPTOM 1140 1163	haemodynamically stable
+T35	SYMPTOM 1415 1445	jugular venous pressure normal
+T36	SYMPTOM 1447 1476	Hepatojugular reflex negative
+T37	SYMPTOM 1478 1507	Cardiac auscultation: regular
+T6	SYMPTOM 1512 1519	murmurs
+T7	SYMPTOM 1545 1571	preserved vesicular murmur
+T8	SYMPTOM 1588 1601	Abdomen: flat
+T38	SYMPTOM 1603 1630	Hydro-aerial sounds present
+T39	SYMPTOM 1654 1667	visceromegaly
+T9	SYMPTOM 1683 1699	isochoric pupils
+T10	SYMPTOM 1701 1729	Pupillary reflexes preserved
+T40	SYMPTOM 1731 1780	Motor reflexes in extremities without alterations
+T27	SYMPTOM 1790 1812	Extremities: no oedema
+T41	SYMPTOM 1814 1857	Peripheral pulses preserved and symmetrical
+T12	SYMPTOM 1905 1917	sinus rhythm
+T42	SYMPTOM 1965 1991	repolarisation alterations
+T16	SYMPTOM 2313 2349	centred cardiomediastinal silhouette
+T43	SYMPTOM 2370 2402	Lung fields without condensation
+T44	SYMPTOM 2454 2531	left ventricle with preserved diameters, volumes and global systolic function
+T28	SYMPTOM 2555 2593	alterations in segmental contractility
+T17	SYMPTOM 2603 2637	Normal transmitral filling pattern
+T18	SYMPTOM 2678 2696	Normal left atrium
+T31	SYMPTOM 2698 2720	Normal right ventricle
+T45	SYMPTOM 2884 2909	Normal inferior vena cava
+T13	SYMPTOM 2932 2944	sinus rhythm
+T33	SYMPTOM 2968 3018	epicardial coronary arteries without atheromatosis
+T32	SYMPTOM 3613 3646	Circumflex artery without lesions
+T46	SYMPTOM 3979 4001	ST segment alterations
+T19	SYMPTOM 4154 4178	Good functional capacity
+T29	SYMPTOM 4450 4488	alterations in segmental contractility
+T20	SYMPTOM 4557 4567	chest pain
+T14	SYMPTOM 4734 4746	sinus rhythm
+T47	SYMPTOM 4756 4782	repolarisation alterations
+T21	SYMPTOM 4792 4811	normal QTc interval
+T22	SYMPTOM 4869 4880	normal LVEF
+T48	SYMPTOM 5073 5090	hyperlactacidemia
+T34	SYMPTOM 5117 5142	normal haemoglobin levels
+T49	SYMPTOM 5353 5412	epicardial arteries were found without angiographic lesions
+T4	SYMPTOM 5579 5602	haemodynamically stable
+T15	SYMPTOM 5635 5647	sinus rhythm
+T23	SYMPTOM 5759 5779	neurological deficit
+T25	SYMPTOM 6002 6014	asymptomatic
+T5	SYMPTOM 6019 6042	haemodynamically stable
+T26	SYMPTOM 6348 6360	asymptomatic
+T50	SYMPTOM 6397 6502	Ergometry and stress echocardiography were performed, both tests being maximal and negative for ischaemia

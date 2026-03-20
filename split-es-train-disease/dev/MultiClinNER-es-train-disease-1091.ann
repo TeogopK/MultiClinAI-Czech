@@ -1,0 +1,36 @@
+T17	DISEASE 58 82	enfermedad con coronaria
+T18	DISEASE 104 123	hipercolesterolemia
+T19	DISEASE 140 161	hipertensión arterial
+T20	DISEASE 163 166	HTA
+T21	DISEASE 171 188	diabetes mellitus
+T22	DISEASE 190 192	DM
+T23	DISEASE 272 300	hipercolesterolemia familiar
+T24	DISEASE 2193 2206	valvulopatías
+T25	DISEASE 2226 2245	derrame pericárdico
+T26	DISEASE 3321 3341	enfermedad coronaria
+T27	DISEASE 3363 3391	hipercolesterolemia familiar
+T28	DISEASE 3492 3510	angina de esfuerzo
+T29	DISEASE 3695 3708	daño hepático
+T30	DISEASE 4136 4156	enfermedad coronaria
+T31	DISEASE 4196 4215	hipercolesterolemia
+T32	DISEASE 4709 4737	hipercolesterolemia familiar
+T33	DISEASE 4851 4871	enfermedad coronaria
+T34	DISEASE 4964 4992	hipercolesterolemia familiar
+T35	DISEASE 5025 5043	Angina de esfuerzo
+T36	DISEASE 5045 5074	Enfermedad arterial coronaria
+T37	DISEASE 195 202	Bebedor
+T38	DISEASE 1416 1465	bloqueo incompleto de rama derecha del haz de His
+T39	DISEASE 128 135	fumador
+T40	DISEASE 690 702	Hígado graso
+T41	DISEASE 4994 4996	HF
+T1	DISEASE 1320 1332	arco corneal
+T74	DISEASE 1334 1342	xantomas
+T75	DISEASE 1346 1357	xantelasmas
+T11	DISEASE 4999 5024	Intolerancia a estatinas.
+T80	DISEASE 499 527	Intolerancia a atorvastatina
+T88	DISEASE 2837 2876	estenosis moderada (50-75%) concéntrica
+T90	DISEASE 4308 4357	estenosis no significativas en el árbol coronario
+T85	DISEASE 2937 2968	Arteria circunfleja hipoplásica
+T87	DISEASE 2937 3017	Arteria circunfleja hipoplásica, con una lesión leve no calcificada en su origen
+T15	DISEASE 5056 5088	arterial coronaria con estenosis
+#1	AnnotatorNotes T41	 hipercolesterolemia familiar

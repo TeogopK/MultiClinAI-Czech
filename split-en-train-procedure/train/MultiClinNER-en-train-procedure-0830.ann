@@ -1,0 +1,28 @@
+T58	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T54	PROCEDURE 336 359	echocardiographic study
+T55	PROCEDURE 556 576	coronary angiography
+T3	PROCEDURE 740 758	cardiac transplant
+T56	PROCEDURE 960 983	transurethral resection
+T57	PROCEDURE 1065 1080	cardiac surgery
+T6	PROCEDURE 1084 1100	heart transplant
+T59	PROCEDURE 1933 1953	Physical examination
+T60	PROCEDURE 2122 2146	Neurological examination
+T61	PROCEDURE 2168 2188	Cardiac auscultation
+T62	PROCEDURE 2279 2301	pulmonary auscultation
+T63	PROCEDURE 2343 2364	abdominal examination
+T64	PROCEDURE 2578 2595	Electrocardiogram
+T65	PROCEDURE 3144 3155	chest X-ray
+T68	PROCEDURE 3431 3452	Microbiological study
+T8	PROCEDURE 3454 3482	rapid influenza A and B test
+T9	PROCEDURE 3494 3522	antigenuria for pneumococcus
+T10	PROCEDURE 3534 3560	antigenuria for Legionella
+T11	PROCEDURE 3586 3615	PCR for SARS-CoV2 coronavirus
+T69	PROCEDURE 4027 4045	Cardiac biomarkers
+T70	PROCEDURE 4140 4155	Anaemia profile
+T66	PROCEDURE 4258 4269	Chest X-ray
+T72	PROCEDURE 4819 4840	acute phase reactants
+T67	PROCEDURE 5231 5242	chest X-ray
+T12	PROCEDURE 5420 5429	isolation
+T71	PROCEDURE 5626 5644	diuretic treatment
+T13	PROCEDURE 5754 5804	electrocardiographic and analytical determinations
+T14	PROCEDURE 5893 5905	iron profile

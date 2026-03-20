@@ -1,0 +1,33 @@
+T1	SYMPTOM 120 126	disnea
+T2	SYMPTOM 129 162	edemas en extremidades inferiores
+T3	SYMPTOM 709 715	disnea
+T4	SYMPTOM 819 827	oliguria
+T5	SYMPTOM 830 863	edemas en extremidades inferiores
+T6	SYMPTOM 924 940	congestión nasal
+T7	SYMPTOM 942 945	tos
+T8	SYMPTOM 948 973	expectoración blanquecina
+T9	SYMPTOM 1343 1353	Consciente
+T10	SYMPTOM 1356 1383	orientado en tiempo y lugar
+T11	SYMPTOM 1392 1406	Bien hidratado
+T12	SYMPTOM 1408 1434	buena perfusión periférica
+T14	SYMPTOM 1468 1498	signos de trabajo respiratorio
+T15	SYMPTOM 1500 1535	Presión venosa yugular no valorable
+T16	SYMPTOM 1541 1565	tonos cardiacos apagados
+T17	SYMPTOM 1589 1595	soplos
+T18	SYMPTOM 1601 1627	crepitantes en ambas bases
+T19	SYMPTOM 1629 1684	Abdomen globuloso, depresible, sin dolor a la palpación
+T21	SYMPTOM 1686 1740	Extremidades con edemas con fóvea hasta raíz de muslos
+T22	SYMPTOM 2038 2061	función hepática normal
+T23	SYMPTOM 2301 2315	VI no dilatado
+T24	SYMPTOM 2335 2379	buena función sistólica global y segmentaria
+T26	SYMPTOM 2779 2810	Cavidades derechas no dilatadas
+T30	SYMPTOM 3475 3493	signos congestivos
+T31	SYMPTOM 4194 4242	(hemocultivos y urocultivo) resultaron negativos
+T32	SYMPTOM 4342 4359	ganancia ponderal
+T33	SYMPTOM 4379 4412	edemas en extremidades inferiores
+T35	SYMPTOM 4763 4826	positiva la serología para Coxiella burnetti, con títulos altos
+T118	SYMPTOM 1385 1390	Obeso
+T140	SYMPTOM 1443 1462	taquipnea en reposo
+T13	SYMPTOM 1894 1939	alteraciones secundarias de la repolarización
+T20	SYMPTOM 2462 2487	Raíz de aorta no dilatada
+T153	SYMPTOM 5437 5456	estabilidad clínica

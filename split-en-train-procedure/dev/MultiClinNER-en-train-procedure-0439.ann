@@ -1,0 +1,28 @@
+T19	PROCEDURE 541 561	intraocular pressure
+T23	PROCEDURE 563 566	IOP
+T10	PROCEDURE 635 653	Fundus examination
+T5	PROCEDURE 669 684	orbital CT scan
+T8	PROCEDURE 977 988	cranial MRI
+T11	PROCEDURE 1192 1207	Surgical biopsy
+T12	PROCEDURE 1244 1270	anatomopathological result
+T22	PROCEDURE 1278 1284	biopsy
+T30	PROCEDURE 1518 1537	immunohistochemical
+T17	PROCEDURE 1653 1671	directed anamnesis
+T2	PROCEDURE 1768 1788	Physical examination
+T1	PROCEDURE 1789 1807	Rectal examination
+T3	PROCEDURE 1939 1966	Transrectal prostate biopsy
+T35	PROCEDURE 2042 2057	Tc99m bone scan
+T7	PROCEDURE 2467 2493	complete hormonal blockade
+T18	PROCEDURE 2554 2569	bisphosphonates
+T6	PROCEDURE 2647 2664	androgen blockade
+T21	PROCEDURE 2907 2932	continuous bladder lavage
+T13	PROCEDURE 2946 2957	bladder TUR
+T14	PROCEDURE 3041 3061	Pathological anatomy
+T20	PROCEDURE 3069 3078	resection
+T24	PROCEDURE 3160 3177	hormone treatment
+T38	PROCEDURE 3343 3357	renal function
+T39	PROCEDURE 3374 3405	thoracoabdominal-pelvic CT scan
+T4	PROCEDURE 3676 3696	Right pleurocentesis
+T15	PROCEDURE 3712 3734	pleural fluid cytology
+T9	PROCEDURE 3777 3801	Percutaneous nephrostomy
+T16	PROCEDURE 3855 3870	Palliative Care

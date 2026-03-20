@@ -1,0 +1,34 @@
+T30	DISEASE 206 215	ex-smoker
+T31	DISEASE 249 270	arterial hypertension
+T1	DISEASE 272 275	AHT
+T32	DISEASE 278 295	diabetes mellitus
+T33	DISEASE 297 299	DM
+T34	DISEASE 304 317	dyslipidaemia
+T2	DISEASE 375 388	heart disease
+T35	DISEASE 405 413	glaucoma
+T36	DISEASE 415 427	peptic ulcer
+T37	DISEASE 993 1006	heart failure
+T38	DISEASE 2318 2332	valvulopathies
+T39	DISEASE 2418 2438	pericardial effusion
+T40	DISEASE 2912 2923	arrhythmias
+T41	DISEASE 3094 3162	Right coronary artery with anomalous origin from left coronary sinus
+T6	DISEASE 3449 3506	Anomalous right coronary outflow from left coronary sinus
+T42	DISEASE 3790 3854	diverticulum in the left inferoposterior wall of the left atrium
+T7	DISEASE 3859 3880	intra-atrial thrombus
+T43	DISEASE 3905 3918	hiatal hernia
+T46	DISEASE 4197 4206	ischaemia
+T44	DISEASE 4352 4360	fibrosis
+T10	DISEASE 4364 4372	necrosis
+T47	DISEASE 4405 4414	ischaemia
+T53	DISEASE 4496 4520	structural heart disease
+T48	DISEASE 4761 4770	ischaemia
+T57	DISEASE 4810 4834	stable exertional angina
+T49	DISEASE 4899 4908	ischaemia
+T55	DISEASE 5545 5588	anomalous origin in the left coronary sinus
+T50	DISEASE 6195 6204	ischaemia
+T56	DISEASE 6470 6487	sinus bradycardia
+T45	DISEASE 6581 6600	myocardial necrosis
+T51	DISEASE 6632 6641	ischaemia
+T52	DISEASE 6811 6820	ischaemia
+T58	DISEASE 7354 7360	angina
+T54	DISEASE 7590 7603	Stable angina

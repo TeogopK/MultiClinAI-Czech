@@ -1,0 +1,27 @@
+T1	SYMPTOM 396 406	orthopnoea
+T2	SYMPTOM 411 440	paroxysmal nocturnal dyspnoea
+T3	SYMPTOM 452 467	precordial pain
+T4	SYMPTOM 469 481	palpitations
+T5	SYMPTOM 492 497	fever
+T6	SYMPTOM 595 603	Afebrile
+T7	SYMPTOM 673 680	murmurs
+T9	SYMPTOM 686 702	bibasal crackles
+T10	SYMPTOM 704 720	Abdomen globular
+T11	SYMPTOM 744 753	megaliths
+T12	SYMPTOM 798 839	Peripheral pulses present and symmetrical
+T13	SYMPTOM 844 881	carotid, abdominal or femoral murmurs
+T14	SYMPTOM 904 953	Blood count, biochemistry and coagulation: normal
+T15	SYMPTOM 1040 1050	hypoxaemia
+T16	SYMPTOM 1055 1066	hypercapnia
+T17	SYMPTOM 1340 1385	moderately depressed global systolic function
+T18	SYMPTOM 2263 2273	narrow QRS
+T19	SYMPTOM 3069 3081	sinus rhythm
+T20	SYMPTOM 3162 3174	sinus rhythm
+T21	SYMPTOM 642 657	arrhythmic RsCs
+T22	SYMPTOM 982 1012	HbA1c, TSH, cholesterol normal
+T23	SYMPTOM 344 389	progressive dyspnoea, reaching minimal effort
+T24	SYMPTOM 730 740	free fluid
+T25	SYMPTOM 755 777	LES: oedema with fovea
+T8	SYMPTOM 1268 1287	LV slightly dilated
+T26	SYMPTOM 1516 1535	AO normofunctioning
+T27	SYMPTOM 2543 2580	severe associated oxygen desaturation

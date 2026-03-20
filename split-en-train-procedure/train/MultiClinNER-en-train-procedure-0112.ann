@@ -1,0 +1,19 @@
+T15	PROCEDURE 775 784	palpation
+T1	PROCEDURE 816 836	Physical examination
+T6	PROCEDURE 1119 1136	transillumination
+T5	PROCEDURE 1229 1247	rectal examination
+T10	PROCEDURE 1307 1324	lumbar percussion
+T3	PROCEDURE 1370 1383	urine culture
+T20	PROCEDURE 1385 1417	intravenous antibiotic treatment
+T7	PROCEDURE 1695 1716	antibiotic management
+T9	PROCEDURE 1771 1812	contrasted abdominal tomography (CT) scan
+T14	PROCEDURE 1804 1806	CT
+T16	PROCEDURE 2132 2150	tumour was excised
+T2	PROCEDURE 2167 2187	radical orchidectomy
+T17	PROCEDURE 2325 2332	removal
+T11	PROCEDURE 2516 2525	pathology
+T13	PROCEDURE 3389 3398	resection
+T8	PROCEDURE 3408 3426	Local radiotherapy
+T28	PROCEDURE 3535 3575	aspiration cytology of the cervical mass
+T12	PROCEDURE 3598 3607	pathology
+T4	PROCEDURE 3726 3761	excision of the inguinoscrotal mass

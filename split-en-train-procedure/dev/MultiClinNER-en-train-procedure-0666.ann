@@ -1,0 +1,20 @@
+T3	PROCEDURE 442 476	trancutaneous abdominal ultrasound
+T4	PROCEDURE 478 489	gastroscopy
+T5	PROCEDURE 491 502	colonoscopy
+T20	PROCEDURE 507 524	abdominal CT scan
+T8	PROCEDURE 575 618	magnetic resonance cholangiopancreatography
+T6	PROCEDURE 620 624	MRCP
+T9	PROCEDURE 975 1021	endoscopic retrograde cholangiopancreatography
+T10	PROCEDURE 1023 1027	ERCP
+T1	PROCEDURE 1101 1127	glucocorticoid prophylaxis
+T14	PROCEDURE 1146 1164	endoscopic imaging
+T15	PROCEDURE 1203 1238	The bile duct was deeply cannulated
+T12	PROCEDURE 1207 1320	bile duct was deeply cannulated and a 0.025-inch guidewire was introduced to ensure access to the common bile duc
+T2	PROCEDURE 1327 1380	introduction of contrast for cholangiopancreatography
+T11	PROCEDURE 1435 1444	injection
+T26	PROCEDURE 1492 1508	endoscopic image
+T7	PROCEDURE 1547 1562	cholangiography
+T13	PROCEDURE 1602 1620	contrast injection
+T17	PROCEDURE 1684 1695	radiographs
+T18	PROCEDURE 1714 1786	choledochococele was made and it was sectioned by biliary sphincterotomy
+T16	PROCEDURE 1830 1853	endoscopic intervention

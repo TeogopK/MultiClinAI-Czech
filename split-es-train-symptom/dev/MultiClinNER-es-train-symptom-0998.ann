@@ -1,0 +1,49 @@
+T3	SYMPTOM 752 764	rubor facial
+T4	SYMPTOM 766 776	sudoración
+T5	SYMPTOM 778 794	malestar general
+T6	SYMPTOM 797 804	palidez
+T7	SYMPTOM 818 832	dolor torácico
+T8	SYMPTOM 834 840	disnea
+T9	SYMPTOM 845 858	palpitaciones
+T10	SYMPTOM 1169 1188	Buen estado general
+T11	SYMPTOM 1190 1200	Consciente
+T12	SYMPTOM 1203 1212	orientado
+T14	SYMPTOM 1250 1257	Afebril
+T15	SYMPTOM 1259 1267	Sudoroso
+T16	SYMPTOM 1269 1298	Presión venosa yugular normal
+T17	SYMPTOM 1323 1348	ruidos cardiacos rítmicos
+T18	SYMPTOM 1354 1360	soplos
+T19	SYMPTOM 1385 1414	murmullo vesicular conservado
+T21	SYMPTOM 1445 1478	edemas en extremidades inferiores
+T22	SYMPTOM 1563 1580	Hemograma: normal
+T24	SYMPTOM 2026 2038	QRS estrecho
+T25	SYMPTOM 2075 2101	onda T plana en DIII y aVF
+T27	SYMPTOM 2142 2207	Discreta elevación (máximo 1 mm en V5) del segmento ST de V3 a V6
+T28	SYMPTOM 2218 2231	ritmo sinusal
+T29	SYMPTOM 2246 2263	onda R alta en V2
+T30	SYMPTOM 2266 2300	ondas T negativas en cara inferior
+T31	SYMPTOM 2318 2371	ventrículo izquierdo (VI) de tamaño y grosor normales
+T32	SYMPTOM 2373 2401	función sistólica conservada
+T33	SYMPTOM 2442 2495	Aurícula izquierda (AI) y cavidades derechas normales
+T34	SYMPTOM 2501 2539	alteraciones valvulares significativas
+T35	SYMPTOM 2567 2596	Raíz aórtica de tamaño normal
+T37	SYMPTOM 3294 3339	infradesnivelación del segmento ST de V3 a V6
+T38	SYMPTOM 3906 3931	elevación del segmento ST
+T39	SYMPTOM 4008 4020	asintomático
+T40	SYMPTOM 4052 4083	función sistólica VI conservada
+T41	SYMPTOM 5295 5329	Función sistólica de VI conservada
+T116	SYMPTOM 3221 3241	hipotensión arterial
+T127	SYMPTOM 1995 2014	taquicardia sinusal
+T1	SYMPTOM 1642 1672	iones y transaminasas normales
+T2	SYMPTOM 2415 2440	leve hipocinesia inferior
+T13	SYMPTOM 3381 3415	supradesnivelación del segmento ST
+T20	SYMPTOM 4095 4115	hipocinesia inferior
+T23	SYMPTOM 5334 5354	hipocinesia inferior
+T138	SYMPTOM 3093 3140	arterias coronarias sin lesiones significativas
+T143	SYMPTOM 3998 4005	estable
+T145	SYMPTOM 1218 1239	focalidad neurológica
+T148	SYMPTOM 1420 1440	ruidos sobreañadidos
+T153	SYMPTOM 3700 3750	aumento significativo de troponina T ultrasensible
+T26	SYMPTOM 893 916	movimientos convulsivos
+T36	SYMPTOM 2052 2070	Onda R embrionaria
+T65	SYMPTOM 2103 2140	Descenso del punto J de 1 mm en V1-V2

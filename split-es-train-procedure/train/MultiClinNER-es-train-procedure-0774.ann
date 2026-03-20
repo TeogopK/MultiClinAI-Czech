@@ -1,0 +1,48 @@
+T23	PROCEDURE 4484 4502	Calciuria 24 horas
+T89	PROCEDURE 213 227	ecocardiograma
+T90	PROCEDURE 726 737	corticoides
+T91	PROCEDURE 1524 1533	anamnesis
+T92	PROCEDURE 1571 1581	NT- proBNP
+T93	PROCEDURE 1584 1612	ecocardiograma transtorácico
+T94	PROCEDURE 2156 2190	resonancia magnética (RM) cardiaca
+T95	PROCEDURE 2222 2240	Exploración física
+T96	PROCEDURE 2458 2479	Auscultación cardiaca
+T97	PROCEDURE 2516 2537	Auscultación pulmonar
+T98	PROCEDURE 2727 2750	Radiografía de tórax AP
+T99	PROCEDURE 2917 2935	Electrocardiograma
+T100	PROCEDURE 2937 2940	ECG
+T101	PROCEDURE 3053 3072	Analítica sanguínea
+T102	PROCEDURE 3074 3083	Hemograma
+T103	PROCEDURE 4055 4079	Marcadores inmunológicos
+T104	PROCEDURE 4209 4233	Marcadores de congestión
+T105	PROCEDURE 4297 4312	Perfil lipídico
+T106	PROCEDURE 4534 4563	Ecocardiografía transtorácica
+T107	PROCEDURE 4565 4568	ETT
+T108	PROCEDURE 4951 4962	RM cardiaca
+T109	PROCEDURE 6066 6077	Cateterismo
+T110	PROCEDURE 6163 6193	TC pulmonar de alta resolución
+T111	PROCEDURE 6558 6569	RM cardiaca
+T112	PROCEDURE 7351 7362	RM cardiaca
+T113	PROCEDURE 7489 7500	cateterismo
+T114	PROCEDURE 7816 7841	antivirales contra el VHC
+T115	PROCEDURE 8048 8078	TC pulmonar de alta resolución
+T116	PROCEDURE 8691 8706	ecocardiografía
+T117	PROCEDURE 8764 8798	fármacos antivirales contra el VHC
+T118	PROCEDURE 8872 8897	antivirales contra el VHC
+T119	PROCEDURE 9025 9036	RM cardiaca
+T120	PROCEDURE 9240 9267	controles ecocardiográficos
+T121	PROCEDURE 9424 9436	colonoscopia
+T138	PROCEDURE 3506 3516	Bioquímica
+T139	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T140	PROCEDURE 3360 3370	Hemostasia
+T141	PROCEDURE 3885 3899	Perfil férrico
+T142	PROCEDURE 8216 8240	reactantes de fase aguda
+T143	PROCEDURE 8307 8341	antivirales directos contra el VHC
+T144	PROCEDURE 9837 9871	antivirales directos contra el VHC
+T145	PROCEDURE 10116 10131	antivirales VHC
+T182	PROCEDURE 7136 7147	exploración
+T154	PROCEDURE 1077 1100	tratamiento con antiVHC
+T160	PROCEDURE 5621 5647	Realce tardío de gadolinio
+T167	PROCEDURE 7509 7545	imagen de realce tardío de gadolinio
+T168	PROCEDURE 7865 7891	realce tardío de gadolinio
+T170	PROCEDURE 9442 9484	pólipos en colon derecho que se extirparon

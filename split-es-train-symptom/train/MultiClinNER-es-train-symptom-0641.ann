@@ -1,0 +1,29 @@
+T1	SYMPTOM 1693 1706	transaminitis
+T2	SYMPTOM 752 759	prurito
+T3	SYMPTOM 237 245	enantema
+T4	SYMPTOM 274 281	afebril
+T5	SYMPTOM 198 224	afectando palmas y plantas
+T6	SYMPTOM 1006 1033	RAST a amoxicilina negativo
+T7	SYMPTOM 1035 1087	serología a Micoplasma pneumoniae IgG e IgM negativa
+T8	SYMPTOM 1483 1524	serología CMV IgG positiva e IgM negativa
+T9	SYMPTOM 1526 1567	serología VEB IgG positiva e IgM negativa
+T10	SYMPTOM 1880 1935	anticuerpos antinucleares, anti-DNA, anti-LKM negativos
+T11	SYMPTOM 2001 2027	serología brucela negativa
+T12	SYMPTOM 2029 2062	serología parvovirus B19 negativa
+T13	SYMPTOM 1937 1971	IgA antitransglutaminasa negativos
+T14	SYMPTOM 1973 1999	alfa-fetoproteína negativa
+T15	SYMPTOM 1379 1400	Paul Bunnell negativo
+T16	SYMPTOM 1402 1440	serología hepatitis A, B y C negativas
+T17	SYMPTOM 1442 1481	serología toxoplasma IgG e IgM negativa
+A1	RESULTADO T6
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T12
+A8	RESULTADO T13
+A9	RESULTADO T14
+A10	RESULTADO T15
+A11	RESULTADO T16
+A12	RESULTADO T17

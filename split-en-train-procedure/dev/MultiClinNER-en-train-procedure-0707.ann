@@ -1,0 +1,11 @@
+T1	PROCEDURE 123 143	Physical examination
+T10	PROCEDURE 307 325	Scrotal ultrasound
+T4	PROCEDURE 618 632	Tumour markers
+T6	PROCEDURE 709 727	Surgical treatment
+T2	PROCEDURE 729 781	bilateral radical orchiectomy via the inguinal route
+T7	PROCEDURE 846 868	Histological diagnosis
+T3	PROCEDURE 973 988	Extension study
+T8	PROCEDURE 990 1015	thoracoabdomino-pelvic CT
+T16	PROCEDURE 1130 1180	systemic chemotherapy with etoposide and cisplatin
+T5	PROCEDURE 1253 1267	tumour markers
+T18	PROCEDURE 1396 1435	semen freezing prior to radical surgery

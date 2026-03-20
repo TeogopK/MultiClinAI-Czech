@@ -1,0 +1,16 @@
+T2	PROCEDURE 78 98	physical examination
+T3	PROCEDURE 145 165	abdominal ultrasound
+T4	PROCEDURE 244 263	Computed tomography
+T5	PROCEDURE 340 375	intravenous contrast administration
+T14	PROCEDURE 444 498	fine needle puncture was performed to obtain histology
+T16	PROCEDURE 504 513	pathology
+T17	PROCEDURE 584 608	Laparoscopic exploration
+T1	PROCEDURE 649 668	general anaesthesia
+T9	PROCEDURE 729 776	placement of an orogastric and bladder catheter
+T10	PROCEDURE 843 905	Pneumoperitoneum was performed with a Veress needle at 12 mmHg
+T11	PROCEDURE 1073 1096	opening Gerota's fascia
+T20	PROCEDURE 1261 1341	area of 2cm was observed firmly adhered to the renal capsule requiring resection
+T6	PROCEDURE 1357 1398	argon laser fulguration of the bloody bed
+T7	PROCEDURE 1404 1450	surgical specimen was removed in a plastic bag
+T22	PROCEDURE 1509 1561	Blake drain was left through the 5 mm trocar opening
+T8	PROCEDURE 1731 1752	pathological analysis

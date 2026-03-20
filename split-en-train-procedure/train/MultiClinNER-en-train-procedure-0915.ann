@@ -1,0 +1,36 @@
+T49	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T48	PROCEDURE 324 343	home oxygen therapy
+T50	PROCEDURE 1222 1242	PHYSICAL EXAMINATION
+T51	PROCEDURE 1334 1347	nasal goggles
+T52	PROCEDURE 1367 1382	bronchodilators
+T53	PROCEDURE 1384 1404	Cardiac auscultation
+T54	PROCEDURE 1432 1454	Pulmonary auscultation
+T55	PROCEDURE 1511 1532	Abdominal examination
+T56	PROCEDURE 1753 1764	Chest X-ray
+T71	PROCEDURE 2040 2051	coagulation
+T57	PROCEDURE 2419 2434	immunoglobulins
+T58	PROCEDURE 2452 2464	Proteinogram
+T74	PROCEDURE 2623 2641	Serum light chains
+T75	PROCEDURE 2730 2748	Urine light chains
+T60	PROCEDURE 2849 2866	Electrocardiogram
+T61	PROCEDURE 2868 2871	ECG
+T62	PROCEDURE 3105 3135	Transthoracic echocardiography
+T1	PROCEDURE 4001 4035	Cardiac magnetic resonance imaging
+T76	PROCEDURE 4037 4040	MRI
+T2	PROCEDURE 4865 4900	intravenous contrast administration
+T64	PROCEDURE 5253 5279	Pyrophosphate scintigraphy
+T65	PROCEDURE 5435 5447	Genetic test
+T3	PROCEDURE 5698 5723	chest computed tomography
+T4	PROCEDURE 5725 5727	CT
+T63	PROCEDURE 5875 5905	transthoracic echocardiography
+T5	PROCEDURE 6057 6067	Cardio-MRI
+T66	PROCEDURE 6164 6174	fat biopsy
+T67	PROCEDURE 6212 6225	rectal biopsy
+T68	PROCEDURE 6250 6264	48-hour Holter
+T59	PROCEDURE 6298 6310	proteinogram
+T69	PROCEDURE 6315 6359	detection of light chains in serum and urine
+T6	PROCEDURE 6387 6432	scintigraphy with technetium-99-diphosphonate
+T70	PROCEDURE 6596 6609	genetic study
+T78	PROCEDURE 6887 6921	renin-angiotensin axis antagonists
+T72	PROCEDURE 6957 6971	renal function
+T73	PROCEDURE 7316 7330	renal function

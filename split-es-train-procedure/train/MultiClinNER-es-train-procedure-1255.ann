@@ -1,0 +1,36 @@
+T81	PROCEDURE 398 423	tratamiento con estatinas
+T82	PROCEDURE 649 745	descendente anterior (DA) proximal con estenosis del 80%, revascularizada con stent convencional
+T83	PROCEDURE 878 902	estudio ecocardiográfico
+T84	PROCEDURE 2415 2433	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 2642 2663	Auscultación cardiaca
+T86	PROCEDURE 2733 2754	Auscultación pulmonar
+T87	PROCEDURE 2998 3009	coagulación
+T88	PROCEDURE 3180 3189	Hemograma
+T89	PROCEDURE 4048 4066	ELECTROCARDIOGRAMA
+T90	PROCEDURE 4068 4071	ECG
+T91	PROCEDURE 4191 4194	ECG
+T92	PROCEDURE 4217 4262	RADIOGRAFÍA DE TÓRAX: portátil, proyección AP
+T93	PROCEDURE 4401 4411	TELEMETRÍA
+T94	PROCEDURE 4470 4499	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T95	PROCEDURE 4501 4504	ETT
+T96	PROCEDURE 4976 4991	CORONARIOGRAFÍA
+T97	PROCEDURE 5445 5496	INTERENCIONISMO CORONARIO PERCUTÁNEO (ICP) sobre DA
+T98	PROCEDURE 5509 5605	angioplastia coronaria transluminal percutánea (ACTP) sobre reestenosis intrastent en DA proxima
+T99	PROCEDURE 6209 6224	ecocardiografía
+T100	PROCEDURE 6317 6320	ETT
+T101	PROCEDURE 6431 6446	coronariografía
+T102	PROCEDURE 6638 6693	ICP sobre DA con implante de tres stents farmacoactivos
+T103	PROCEDURE 7292 7335	ICP sobre DA con tres stents farmacoactivos
+T113	PROCEDURE 5694 5740	Se solapa distalmente otro stent de everolimus
+T117	PROCEDURE 357 360	ADO
+T118	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T119	PROCEDURE 3867 3884	Enzimas cardiacas
+T120	PROCEDURE 5595 5679	DA proximal, con predilatación y posterior implante de stent liberador de everolimus
+T121	PROCEDURE 318 355	tratamiento con un antidiabético oral
+T122	PROCEDURE 3387 3397	Bioquímica
+T123	PROCEDURE 5483 5486	ICP
+T124	PROCEDURE 5557 5561	ACTP
+T127	PROCEDURE 5801 5837	implantando otro stent de everolimus
+T132	PROCEDURE 2987 2996	ANALÍTICA
+T155	PROCEDURE 1714 1740	intervenciones quirúrgicas
+#3	AnnotatorNotes T117	  antidiabético oral

@@ -1,0 +1,40 @@
+T1	SYMPTOM 632 653	loss of consciousness
+T2	SYMPTOM 1070 1082	sinus rhythm
+T21	SYMPTOM 1256 1279	haemodynamically stable
+T5	SYMPTOM 1465 1485	regular heart sounds
+T6	SYMPTOM 1499 1514	systolic murmur
+T7	SYMPTOM 1547 1573	preserved vesicular murmur
+T26	SYMPTOM 1575 1596	crackles in the bases
+T8	SYMPTOM 1598 1627	Abdomen: soft and depressible
+T9	SYMPTOM 1632 1649	pain on palpation
+T10	SYMPTOM 1654 1660	masses
+T27	SYMPTOM 1664 1673	megaliths
+T28	SYMPTOM 1678 1684	oedema
+T25	SYMPTOM 1688 1717	signs of deep vein thrombosis
+T11	SYMPTOM 1738 1779	Pulses present, bilateral and symmetrical
+T30	SYMPTOM 1798 1804	sounds
+T31	SYMPTOM 1809 1825	response to pain
+T29	SYMPTOM 1827 1854	medium photoreactive pupils
+T3	SYMPTOM 1939 1951	sinus rhythm
+T12	SYMPTOM 2010 2020	Narrow QRS
+T23	SYMPTOM 2026 2037	normal axis
+T32	SYMPTOM 2047 2073	repolarisation alterations
+T4	SYMPTOM 2098 2110	sinus rhythm
+T14	SYMPTOM 2123 2132	normal PR
+T13	SYMPTOM 2180 2190	narrow QRS
+T24	SYMPTOM 2196 2207	normal axis
+T33	SYMPTOM 2226 2266	significant repolarisation abnormalities
+T15	SYMPTOM 2838 2873	PCR SARS VOC 2 on arrival: negative
+T34	SYMPTOM 2931 2973	ventricular system within the normal range
+T35	SYMPTOM 2983 3014	significant dilatation of sulci
+T36	SYMPTOM 3175 3203	Midline elements are centred
+T37	SYMPTOM 3205 3239	Pulmonary CT: bibasal condensation
+T16	SYMPTOM 3383 3400	Distended stomach
+T17	SYMPTOM 3464 3487	vascular redistribution
+T22	SYMPTOM 3844 3878	mildly depressed systolic function
+T39	SYMPTOM 3965 4034	Right ventricle with normal diameters and systolic function preserved
+T38	SYMPTOM 4100 4130	Inferior vena cava not dilated
+T40	SYMPTOM 4494 4538	stable in haemodynamic and respiratory terms
+T18	SYMPTOM 4543 4567	neurological involvement
+T19	SYMPTOM 4664 4684	alveolar infiltrates
+T20	SYMPTOM 5110 5134	haemodynamic instability

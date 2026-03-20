@@ -1,0 +1,31 @@
+T62	PROCEDURE 563 581	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 823 844	Auscultación cardiaca
+T64	PROCEDURE 867 888	Auscultación pulmonar
+T65	PROCEDURE 1051 1074	Exploración neurológica
+T66	PROCEDURE 1282 1301	Analítica sanguínea
+T67	PROCEDURE 1719 1737	Electrocardiograma
+T68	PROCEDURE 1809 1829	Radiografía de tórax
+T69	PROCEDURE 1930 1970	Tomografía computarizada (TC) multimodal
+T70	PROCEDURE 1956 1958	TC
+T71	PROCEDURE 1972 1990	TC craneal sin CIV
+T72	PROCEDURE 2422 2451	Resonancia magnética cerebral
+T73	PROCEDURE 2721 2749	Ecocardiograma transtorácico
+T74	PROCEDURE 3092 3121	Ecocardiograma transesofágico
+T75	PROCEDURE 3709 3734	cierre percutáneo del FOP
+T76	PROCEDURE 3817 3846	cierre percutáneo del defecto
+T77	PROCEDURE 3852 3869	anestesia general
+T78	PROCEDURE 3872 3934	bajo control ecocardiográfico, se procede a cierre del foramen
+T79	PROCEDURE 3936 3978	Se accede a través de vena femoral derecha
+T80	PROCEDURE 4341 4371	ecocardiografía transesofágica
+T81	PROCEDURE 4484 4527	Cierre del FOP con dispositivo Figulla Flex
+T85	PROCEDURE 1567 1592	Anticuerpos antinucleares
+T86	PROCEDURE 582 600	Constantes vitales
+T87	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T88	PROCEDURE 2115 2127	TC-perfusión
+T89	PROCEDURE 2192 2214	Angio-TC: extracraneal
+T90	PROCEDURE 1594 1597	ANA
+T91	PROCEDURE 3980 4040	Se pasa a aurícula izquierda a través del FOP con catéter MP
+T92	PROCEDURE 4043 4101	se pasa guía de soporte a vena pulmonar superior izquierda
+T27	PROCEDURE 760 775	Cabeza y cuello
+T28	PROCEDURE 2958 2992	Se administra suero salino agitado
+#7	AnnotatorNotes T90	  anticuerpos antinucleares

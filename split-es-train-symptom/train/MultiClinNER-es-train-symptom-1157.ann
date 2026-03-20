@@ -1,0 +1,43 @@
+T4	SYMPTOM 1461 1506	dolor torácico de características pleuríticas
+T5	SYMPTOM 1513 1555	elevación de marcadores de daño miocárdico
+T6	SYMPTOM 2252 2277	elevación marcada de cLDL
+T8	SYMPTOM 2605 2613	ortopnea
+T9	SYMPTOM 2629 2656	disnea paroxística nocturna
+T10	SYMPTOM 2837 2856	Buen estado general
+T11	SYMPTOM 2858 2868	Consciente
+T12	SYMPTOM 2870 2879	orientado
+T15	SYMPTOM 2910 2928	Eupneico en reposo
+T16	SYMPTOM 3022 3043	ingurgitación yugular
+T17	SYMPTOM 3068 3075	rítmico
+T18	SYMPTOM 3100 3106	soplos
+T19	SYMPTOM 3110 3129	extratonos audibles
+T20	SYMPTOM 3131 3160	Murmullo vesicular conservado
+T21	SYMPTOM 3166 3198	ruidos patológicos sobreañadidos
+T23	SYMPTOM 3277 3317	Pulsos distales conservados y simétricos
+T24	SYMPTOM 3389 3399	eje normal
+T25	SYMPTOM 3401 3410	PR normal
+T26	SYMPTOM 3412 3424	QRS estrecho
+T27	SYMPTOM 3426 3445	onda Q en III y aVF
+T28	SYMPTOM 3483 3516	alteraciones en la repolarización
+T31	SYMPTOM 3772 3825	Función sistólica del ventrículo izquierdo preservada
+T32	SYMPTOM 4267 4293	perfil hepatobiliar normal
+T33	SYMPTOM 4588 4614	perfil hepatobiliar normal
+T34	SYMPTOM 4860 4868	mialgias
+T116	SYMPTOM 4251 4265	iones normales
+T117	SYMPTOM 4572 4586	iones normales
+T122	SYMPTOM 3365 3378	ritmo sinusal
+T126	SYMPTOM 2881 2908	Bien hidratado y perfundido
+T131	SYMPTOM 3200 3230	Miembros inferiores: no edemas
+T137	SYMPTOM 4017 4081	Vena cava inferior no dilatada con adecuado colapso inspiratorio
+T139	SYMPTOM 1207 1253	alteraciones segmentarias de la contractilidad
+T152	SYMPTOM 1685 1708	compromiso hemodinámico
+T156	SYMPTOM 2566 2584	disnea de esfuerzo
+T157	SYMPTOM 148 157	fallecido
+T160	SYMPTOM 608 650	función sistólica biventricular preservada
+T161	SYMPTOM 1163 1191	función sistólica preservada
+T174	SYMPTOM 3548 3558	QTc normal
+T176	SYMPTOM 3593 3641	ventrículo izquierdo no dilatado sin hipertrofia
+T1	SYMPTOM 3450 3471	T negativa en I y aVL
+T2	SYMPTOM 3699 3737	Aorta torácica dentro de la normalidad
+T7	SYMPTOM 5410 5485	cifras de colesterol se encuentran en rango muy lejano a las cifras óptimas
+T13	SYMPTOM 5962 6015	función sistólica del ventrículo izquierdo preservada

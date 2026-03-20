@@ -1,0 +1,16 @@
+T32	PROCEDURE 258 278	PHYSICAL EXAMINATION
+T33	PROCEDURE 793 806	prostatectomy
+T34	PROCEDURE 1181 1198	electrocardiogram
+T35	PROCEDURE 1200 1203	ECG
+T3	PROCEDURE 1333 1343	blood test
+T36	PROCEDURE 1482 1506	Coronary catheterisation
+T6	PROCEDURE 2008 2109	Primary angioplasty with implantation of two drug-eluting stents in the proximomedial LAD and mid LAD
+T39	PROCEDURE 2111 2127	Echocardiography
+T7	PROCEDURE 2218 2229	Examination
+T8	PROCEDURE 2661 2672	blood tests
+T37	PROCEDURE 2844 2868	Coronary catheterisation
+T38	PROCEDURE 2870 2894	coronary catheterisation
+T14	PROCEDURE 3333 3361	Transthoracic echocardiogram
+T13	PROCEDURE 3363 3367	TTE)
+T15	PROCEDURE 3854 3870	Laboratory tests
+T16	PROCEDURE 4275 4299	control laboratory tests

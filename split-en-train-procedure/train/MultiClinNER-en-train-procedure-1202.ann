@@ -1,0 +1,28 @@
+T2	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 378 414	Previous surgeries: breast reduction
+T3	PROCEDURE 416 430	tubal ligation
+T4	PROCEDURE 534 543	ergometry
+T20	PROCEDURE 573 600	myocardial perfusion SPECT,
+T5	PROCEDURE 1206 1223	electrocardiogram
+T6	PROCEDURE 1225 1228	ECG
+T22	PROCEDURE 1338 1346	analysis
+T17	PROCEDURE 1383 1411	markers of myocardial damage
+T8	PROCEDURE 1555 1575	coronary angiography
+T24	PROCEDURE 1642 1741	lesion in the middle circumflex artery, which was revascularised by implanting a drug-eluting stent
+T10	PROCEDURE 1838 1854	Echocardiography
+T25	PROCEDURE 1972 1988	laboratory tests
+T12	PROCEDURE 2034 2047	lipid profile
+T7	PROCEDURE 2575 2578	ECG
+T9	PROCEDURE 2608 2628	Coronary angiography
+T26	PROCEDURE 2806 2855	revascularised by implanting 1 drug-eluting stent
+T11	PROCEDURE 2857 2873	Echocardiography
+T29	PROCEDURE 3176 3192	laboratory tests
+T13	PROCEDURE 3312 3325	Lipid profile
+T14	PROCEDURE 4054 4082	oral hypoglycaemic treatment
+T18	PROCEDURE 4389 4409	antifungal treatment
+T30	PROCEDURE 4684 4733	start treatment directly with slow-acting insulin
+T16	PROCEDURE 4766 4788	cardiac rehabilitation
+T31	PROCEDURE 4892 4937	glucagon-like peptide type 1 receptor agonist
+T19	PROCEDURE 4939 4945	arGLP1
+T32	PROCEDURE 5399 5409	blood test
+T50	PROCEDURE 5744 5780	revascularised by implanting 1 stent

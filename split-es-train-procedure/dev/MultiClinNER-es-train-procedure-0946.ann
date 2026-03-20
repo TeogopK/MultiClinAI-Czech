@@ -1,0 +1,34 @@
+T62	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T63	PROCEDURE 891 909	Exploración física
+T64	PROCEDURE 1049 1070	Auscultación cardiaca
+T65	PROCEDURE 1110 1131	Auscultación pulmonar
+T66	PROCEDURE 1544 1559	Exploración ORL
+T67	PROCEDURE 1725 1728	ECG
+T68	PROCEDURE 1853 1873	Radiografía de tórax
+T69	PROCEDURE 2062 2081	Analítica sanguínea
+T70	PROCEDURE 2083 2103	marcadores cardiacos
+T71	PROCEDURE 2286 2295	Hemograma
+T72	PROCEDURE 2389 2400	Coagulación
+T73	PROCEDURE 2445 2473	Ecocardiograma transtorácico
+T74	PROCEDURE 2951 2984	TC cuello-toraco-abdomino-pélvico
+T75	PROCEDURE 4015 4086	Anatomía patológica de la biopsia del conglomerado adenopático cervical
+T77	PROCEDURE 4320 4338	Inmunohistoquímica
+T78	PROCEDURE 4587 4603	Aspirado medular
+T79	PROCEDURE 4640 4659	Citometría de flujo
+T80	PROCEDURE 5175 5220	masaje controlado de seno carotídeo izquierdo
+T81	PROCEDURE 5403 5429	tratamiento betabloqueante
+T82	PROCEDURE 5497 5500	ECG
+T83	PROCEDURE 5527 5552	PAAF guiada por ecografía
+T84	PROCEDURE 5648 5662	monitorización
+T85	PROCEDURE 5785 5793	ECO-PAAF
+T86	PROCEDURE 6081 6108	implante de marcapasos VVIR
+T87	PROCEDURE 6493 6495	TC
+T88	PROCEDURE 6497 6504	biopsia
+T89	PROCEDURE 6507 6532	estudio anatomopatológico
+T90	PROCEDURE 6746 6772	tratamiento quimioterápico
+T91	PROCEDURE 7004 7015	corticoides
+T92	PROCEDURE 7018 7032	citorreducción
+T20	PROCEDURE 2165 2175	Bioquímica
+T35	PROCEDURE 2780 2794	Monitorización
+T139	PROCEDURE 4526 4530	FISH
+T147	PROCEDURE 6801 6807	R-CHOP

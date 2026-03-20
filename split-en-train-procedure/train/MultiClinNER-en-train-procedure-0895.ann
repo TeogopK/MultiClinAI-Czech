@@ -1,0 +1,27 @@
+T46	PROCEDURE 294 314	physical examination
+T70	PROCEDURE 730 749	orthopaedic surgery
+T68	PROCEDURE 882 901	thrombophilia study
+T47	PROCEDURE 929 949	Physical examination
+T72	PROCEDURE 1112 1125	Head and neck
+T48	PROCEDURE 1209 1229	Cardiac auscultation
+T3	PROCEDURE 1257 1264	murmurs
+T49	PROCEDURE 1289 1311	Pulmonary auscultation
+T4	PROCEDURE 1424 1427	CBC
+T65	PROCEDURE 1517 1528	Coagulation
+T69	PROCEDURE 1614 1641	myocardial necrosis markers
+T50	PROCEDURE 1698 1709	Chest X-ray
+T51	PROCEDURE 1761 1778	Electrocardiogram
+T52	PROCEDURE 1810 1827	Electrocardiogram
+T54	PROCEDURE 1844 1858	Echocardiogram
+T71	PROCEDURE 1972 1997	Simpson biplane technique
+T56	PROCEDURE 2343 2363	Coronary angiography
+T58	PROCEDURE 2432 2436	IVUS
+T59	PROCEDURE 2497 2533	Thromboaspiration with Hunter device
+T60	PROCEDURE 2616 2633	Coagulation study
+T62	PROCEDURE 3268 3271	ECG
+T55	PROCEDURE 3299 3313	echocardiogram
+T57	PROCEDURE 3315 3335	coronary angiography
+T61	PROCEDURE 3494 3511	coagulation study
+T63	PROCEDURE 3599 3619	oral anticoagulation
+T53	PROCEDURE 3951 3968	electrocardiogram
+T64	PROCEDURE 4008 4017	ergometry

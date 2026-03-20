@@ -1,0 +1,52 @@
+T85	PROCEDURE 153 166	genetic study
+T1	PROCEDURE 212 236	tested for this mutation
+T86	PROCEDURE 740 785	continuous electrocardiogram (ECG) monitoring
+T93	PROCEDURE 787 803	echocardiography
+T113	PROCEDURE 865 909	detection test was performed using ergometry
+T121	PROCEDURE 1099 1124	hygienic-dietary measures
+T5	PROCEDURE 1543 1589	cardiopulmonary resuscitation (CPR) manoeuvres
+T95	PROCEDURE 1574 1577	CPR
+T123	PROCEDURE 1641 1651	monitoring
+T129	PROCEDURE 1696 1711	defibrillations
+T96	PROCEDURE 1759 1781	orotracheal intubation
+T6	PROCEDURE 1783 1786	OTI
+T97	PROCEDURE 1792 1837	connection to invasive mechanical ventilation
+T7	PROCEDURE 1839 1842	IMV
+T88	PROCEDURE 2014 2017	ECG
+T98	PROCEDURE 2195 2215	coronary angiography
+T101	PROCEDURE 2287 2298	aortography
+T103	PROCEDURE 2303 2319	ventriculography
+T120	PROCEDURE 2399 2414	Echocardioscopy
+T9	PROCEDURE 2822 2851	cardiology ward and monitored
+T116	PROCEDURE 2886 2906	PHYSICAL EXAMINATION
+T24	PROCEDURE 2907 2918	Examination
+T105	PROCEDURE 3106 3126	Cardiac auscultation
+T106	PROCEDURE 3166 3188	Pulmonary auscultation
+T22	PROCEDURE 3372 3388	laboratory tests
+T23	PROCEDURE 3574 3599	Myocardial damage markers
+T21	PROCEDURE 3744 3768	General laboratory tests
+T119	PROCEDURE 3770 3782	biochemistry
+T125	PROCEDURE 3941 3954	liver profile
+T126	PROCEDURE 4113 4144	Catecholamines in 24-hour urine
+T107	PROCEDURE 4156 4167	Chest X-ray
+T89	PROCEDURE 4254 4257	ECG
+T90	PROCEDURE 4540 4543	ECG
+T94	PROCEDURE 4706 4720	Echocardiogram
+T117	PROCEDURE 5466 5491	Continuous ECG monitoring
+T108	PROCEDURE 5539 5563	Emergent catheterisation
+T99	PROCEDURE 5565 5585	coronary angiography
+T104	PROCEDURE 5662 5678	Ventriculography
+T102	PROCEDURE 5823 5834	Aortography
+T109	PROCEDURE 5943 5956	Ajmaline test
+T19	PROCEDURE 6132 6194	Blood and urine catecholamine tests were requested for 24-hour
+T112	PROCEDURE 6278 6295	electrocardiogram
+T114	PROCEDURE 6414 6423	ergometry
+T110	PROCEDURE 6446 6459	ajmaline test
+T18	PROCEDURE 6579 6628	implant an implantable cardioverter defibrillator
+T14	PROCEDURE 7301 7314	beta-blockade
+T92	PROCEDURE 7355 7358	ECG
+T115	PROCEDURE 7407 7421	12-lead Holter
+T118	PROCEDURE 7939 7951	beta-blocker
+T128	PROCEDURE 8237 8255	calcium antagonist
+T100	PROCEDURE 8840 8860	coronary angiography
+T127	PROCEDURE 9192 9208	ICD implantation

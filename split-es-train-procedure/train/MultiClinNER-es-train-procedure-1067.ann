@@ -1,0 +1,25 @@
+T64	PROCEDURE 288 306	exploración física
+T65	PROCEDURE 759 777	Exploración física
+T66	PROCEDURE 965 983	exploración física
+T67	PROCEDURE 1268 1295	auscultación cardiopulmonar
+T68	PROCEDURE 1746 1757	TAC craneal
+T69	PROCEDURE 1963 1966	ECG
+T70	PROCEDURE 2052 2061	hemograma
+T71	PROCEDURE 2200 2220	radiografía de tórax
+T72	PROCEDURE 2327 2339	hemocultivos
+T73	PROCEDURE 2465 2487	recambio de marcapasos
+T74	PROCEDURE 2498 2527	ecocardiografía transtorácica
+T75	PROCEDURE 2614 2628	ecocardiograma
+T76	PROCEDURE 3242 3271	ecocardiograma transesofágico
+T77	PROCEDURE 3590 3602	hemocultivos
+T78	PROCEDURE 4090 4118	ecocardiograma transtorácico
+T79	PROCEDURE 4202 4225	tratamiento antibiótico
+T80	PROCEDURE 4275 4301	extracción de hemocultivos
+T81	PROCEDURE 4352 4374	recambio de marcapasos
+T82	PROCEDURE 4549 4578	ecocardiograma transesofágico
+T87	PROCEDURE 2064 2075	coagulación
+T89	PROCEDURE 1578 1596	estudio etiológico
+T100	PROCEDURE 2026 2035	analítica
+T101	PROCEDURE 2395 2405	analíticos
+T103	PROCEDURE 1506 1518	código ictus
+T104	PROCEDURE 3176 3192	ecocardiográfico

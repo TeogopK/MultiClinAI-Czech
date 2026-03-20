@@ -1,0 +1,35 @@
+T60	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T61	PROCEDURE 1060 1080	Physical examination
+T62	PROCEDURE 1303 1323	cardiac auscultation
+T63	PROCEDURE 1328 1350	pulmonary auscultation
+T64	PROCEDURE 1553 1570	electrocardiogram
+T65	PROCEDURE 1572 1575	ECG
+T3	PROCEDURE 1678 1694	Laboratory tests
+T67	PROCEDURE 1925 1955	Transthoracic echocardiography
+T68	PROCEDURE 2440 2462	Ergometry on treadmill
+T4	PROCEDURE 2464 2523	maximum ergometry with Bruce protocol on a moving treadmill
+T66	PROCEDURE 2745 2748	ECG
+T69	PROCEDURE 2934 2954	Coronary angiography
+T5	PROCEDURE 3270 3354	CT of the coronary arteries with cardiac synchronisation and prospective acquisition
+T8	PROCEDURE 3920 3956	Stress cardiac MRI with dipyridamole
+T9	PROCEDURE 4182 4229	Provocation of ischaemia with i.v. dipyridamole
+T72	PROCEDURE 4450 4478	echocardiographic assessment
+T11	PROCEDURE 4694 4720	treadmill exercise testing
+T70	PROCEDURE 5085 5105	coronary angiography
+T12	PROCEDURE 5143 5187	cannulation of the left main coronary artery
+T13	PROCEDURE 5286 5361	right coronary artery could not be cannulated from the right coronary sinus
+T14	PROCEDURE 5472 5523	sub-selective injections, the right coronary artery
+T73	PROCEDURE 5776 5787	coronary CT
+T71	PROCEDURE 5844 5864	coronary angiography
+T74	PROCEDURE 6005 6048	reimplantation of the right coronary artery
+T75	PROCEDURE 6050 6068	parietal resection
+T76	PROCEDURE 6072 6081	unroofing
+T77	PROCEDURE 6085 6114	bypass with proximal ligation
+T15	PROCEDURE 6145 6157	imaging test
+T79	PROCEDURE 6254 6275	Antianginal treatment
+T78	PROCEDURE 6416 6429	Beta-blockers
+T16	PROCEDURE 6491 6533	stress CMR with vasodilator (dipyridamole)
+T80	PROCEDURE 6671 6735	mechanism of stress induction by this technique (vasodilatation)
+T81	PROCEDURE 7003 7019	stress induction
+T17	PROCEDURE 7055 7062	surgery
+T82	PROCEDURE 7195 7207	intervention

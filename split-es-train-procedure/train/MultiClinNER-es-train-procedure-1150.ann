@@ -1,0 +1,35 @@
+T54	PROCEDURE 909 936	auscultación cardiopulmonar
+T55	PROCEDURE 958 976	exploración física
+T56	PROCEDURE 1245 1248	ECG
+T57	PROCEDURE 1428 1431	ECG
+T58	PROCEDURE 1489 1498	hemograma
+T59	PROCEDURE 1680 1700	Radiografía de tórax
+T60	PROCEDURE 1759 1787	Ecocardiograma transtorácico
+T61	PROCEDURE 1955 2010	Resonancia magnética cardiaca de estrés con dipiridamol
+T62	PROCEDURE 2226 2235	Angio-TAC
+T63	PROCEDURE 3100 3124	fármacos betabloqueantes
+T64	PROCEDURE 3176 3204	ecocardiograma transtorácico
+T65	PROCEDURE 3314 3360	resonancia magnética de estrés con dipiridamol
+T66	PROCEDURE 3530 3539	angio-TAC
+T67	PROCEDURE 4164 4173	angio-TAC
+T68	PROCEDURE 4698 4751	sustitución de aorta ascendente por injerto de Dacrón
+T69	PROCEDURE 4859 4879	fármacos vasoactivos
+T70	PROCEDURE 4882 4896	hemofiltración
+T71	PROCEDURE 4980 4988	extubado
+T72	PROCEDURE 5216 5230	rehabilitación
+T73	PROCEDURE 5369 5388	resonancia cardiaca
+T74	PROCEDURE 5553 5562	angio-TAC
+T78	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T79	PROCEDURE 3144 3148	IECA
+T80	PROCEDURE 1513 1524	coagulación
+T81	PROCEDURE 3500 3517	pruebas de imagen
+T82	PROCEDURE 3678 3695	pruebas de imagen
+T84	PROCEDURE 743 761	toma de constantes
+T85	PROCEDURE 1500 1510	bioquímica
+T86	PROCEDURE 1533 1568	Marcadores de necrosis miocárdica l
+T87	PROCEDURE 3126 3141	nitratos orales
+T89	PROCEDURE 1465 1474	Analítica
+T100	PROCEDURE 4500 4515	acto quirúrgico
+T101	PROCEDURE 191 216	anticoagulada con sintrom
+T107	PROCEDURE 4456 4479	intervención quirúrgica
+T119	PROCEDURE 623 659	perfusión de solinitrina intravenosa

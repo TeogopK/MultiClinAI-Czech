@@ -1,0 +1,27 @@
+T49	PROCEDURE 603 615	Hemocultivos
+T50	PROCEDURE 1154 1172	Exploración física
+T51	PROCEDURE 1363 1384	auscultación cardiaca
+T52	PROCEDURE 1448 1469	auscultación pulmonar
+T53	PROCEDURE 1600 1609	palpación
+T54	PROCEDURE 1763 1766	ECG
+T55	PROCEDURE 1799 1819	Radiografía de tórax
+T56	PROCEDURE 2937 2952	Coronariografía
+T57	PROCEDURE 3092 3095	ETE
+T58	PROCEDURE 3355 3371	cirugía cardiaca
+T59	PROCEDURE 3685 3704	anatomía patológica
+T61	PROCEDURE 3978 3993	ecocardioscopia
+T62	PROCEDURE 4184 4187	ETE
+T63	PROCEDURE 4216 4228	sueroterapia
+T64	PROCEDURE 4633 4686	implantación de balón de contrapulsación intraaórtico
+T65	PROCEDURE 4958 5030	implantación de ECMO veno-arterial con acceso periférico, guiada por ETE
+T66	PROCEDURE 5287 5333	se retira el BCIAo y 24 horas después, la ECMO
+T67	PROCEDURE 5612 5657	Cirugía de recambio valvular mitral y aórtico
+T68	PROCEDURE 5711 5770	asistencia con balón de contrapulsación intraaórtico y ECMO
+T79	PROCEDURE 238 256	EXPLORACIÓN FÍSICA
+T80	PROCEDURE 2187 2232	Ecocardiograma transtorácico y transesofágico
+T81	PROCEDURE 3709 3735	microbiología para cultivo
+T82	PROCEDURE 3259 3350	sustitución valvular, aórtica (Carbomedics Top Hat no 21) y mitral (Bicarbon Fitline no 27)
+T83	PROCEDURE 5027 5030	ETE
+T84	PROCEDURE 5237 5258	drogas inovasoactivas
+T110	PROCEDURE 1878 1887	Analítica
+T111	PROCEDURE 3446 3449	CEC

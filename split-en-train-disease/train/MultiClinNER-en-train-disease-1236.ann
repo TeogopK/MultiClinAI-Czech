@@ -1,0 +1,54 @@
+T79	DISEASE 45 59	drug allergies
+T41	DISEASE 108 123	Marfan syndrome
+T82	DISEASE 335 341	smoker
+T2	DISEASE 371 383	hypertension
+T3	DISEASE 385 387	HT
+T42	DISEASE 393 410	diabetes mellitus
+T43	DISEASE 412 414	DM
+T44	DISEASE 420 433	dyslipidaemia
+T81	DISEASE 611 654	syncopal episode with a cardiogenic profile
+T47	DISEASE 823 847	structural heart disease
+T83	DISEASE 855 864	ischaemia
+T48	DISEASE 1029 1036	syncope
+T49	DISEASE 1069 1076	syncope
+T51	DISEASE 1507 1531	cardiorespiratory arrest
+T4	DISEASE 1533 1536	CRA
+T54	DISEASE 1655 1679	ventricular fibrillation
+T57	DISEASE 2344 2365	acute aortic syndrome
+T8	DISEASE 2504 2536	dilatation of the right chambers
+T59	DISEASE 2551 2576	pulmonary thromboembolism
+T60	DISEASE 2580 2591	aortic flap
+T61	DISEASE 2755 2766	arrhythmias
+T64	DISEASE 3313 3333	deep vein thrombosis
+T65	DISEASE 3335 3338	DVT
+T80	DISEASE 3574 3591	Myocardial damage
+T66	DISEASE 5417 5439	pulmonary hypertension
+T67	DISEASE 5444 5464	pericardial effusion
+T58	DISEASE 5920 5941	acute aortic syndrome
+T68	DISEASE 6082 6103	sustained arrhythmias
+T20	DISEASE 6121 6125	NSVT
+T17	DISEASE 6325 6340	channelopathies
+T69	DISEASE 6502 6518	Brugada syndrome
+T52	DISEASE 6734 6758	cardiorespiratory arrest
+T55	DISEASE 6775 6799	ventricular fibrillation
+T45	DISEASE 6940 6953	dyslipidaemia
+T16	DISEASE 7056 7076	rapid polymorphic VT
+T15	DISEASE 7089 7129	non-sustained episodes of polymorphic VT
+T70	DISEASE 7344 7353	vasospasm
+T72	DISEASE 7691 7716	ventricular extrasystoles
+T73	DISEASE 7842 7860	coronary vasospasm
+T74	DISEASE 8062 8080	vasospastic angina
+T12	DISEASE 8099 8111	sustained VT
+T13	DISEASE 8116 8141	appropriate ICD discharge
+T63	DISEASE 8351 8362	arrhythmias
+T11	DISEASE 8706 8723	syncopal episodes
+T77	DISEASE 8890 8905	atherosclerosis
+T84	DISEASE 8965 9002	non-sustained ventricular tachycardia
+T10	DISEASE 9004 9008	NSVT
+T50	DISEASE 9090 9097	syncope
+T53	DISEASE 9099 9123	Cardiorespiratory arrest
+T56	DISEASE 9146 9170	ventricular fibrillation
+T75	DISEASE 9172 9190	Vasospastic angina
+T78	DISEASE 9234 9286	Sustained and non-sustained ventricular tachycardias
+T76	DISEASE 9305 9323	vasospastic angina
+T46	DISEASE 9325 9338	Dyslipidaemia

@@ -1,0 +1,9 @@
+T1	SYMPTOM 330 336	fiebre
+T2	SYMPTOM 655 696	teste derecho de características normales
+T3	SYMPTOM 402 453	hemiescroto izquierdo aumentado de tamaño, doloroso
+T4	SYMPTOM 701 749	teste izquierdo se encuentra aumentado de tamaño
+T5	SYMPTOM 114 137	aumento del hemiescroto
+T6	SYMPTOM 1161 1206	teste derecho de tamaño y consistencia normal
+T7	SYMPTOM 297 316	llanto inconsolable
+A1	IMAGEN T2
+A2	IMAGEN T4

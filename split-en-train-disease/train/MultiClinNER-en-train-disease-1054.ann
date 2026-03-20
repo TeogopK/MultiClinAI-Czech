@@ -1,0 +1,88 @@
+T110	DISEASE 62 76	drug allergies
+T111	DISEASE 78 96	Tuberous sclerosis
+T114	DISEASE 101 109	epilepsy
+T1	DISEASE 236 249	brain lesions
+T115	DISEASE 337 348	Rhabdomyoma
+T168	DISEASE 406 426	Facial angiofibromas
+T116	DISEASE 428 459	Giant subependymal astrocytomas
+T169	DISEASE 473 503	cerebral cortical tuberosities
+T170	DISEASE 505 517	Toxic habits
+T2	DISEASE 681 699	recurrent vomiting
+T117	DISEASE 1345 1365	deep vein thrombosis
+T5	DISEASE 2391 2439	cardia with small longitudinal fibrinous erosion
+T118	DISEASE 2795 2815	erosive oesophagitis
+T119	DISEASE 3890 3899	lithiasis
+T8	DISEASE 4084 4095	renal cysts
+T120	DISEASE 4124 4140	pleural effusion
+T126	DISEASE 4220 4241	chronic liver disease
+T121	DISEASE 4248 4264	pleural effusion
+T9	DISEASE 4266 4277	Renal cysts
+T107	DISEASE 4457 4469	cardiomegaly
+T127	DISEASE 4711 4731	Pericardial effusion
+T122	DISEASE 4785 4801	pleural effusion
+T133	DISEASE 4883 4904	Bilateral renal cysts
+T134	DISEASE 4961 4967	stasis
+T135	DISEASE 5140 5156	pneumoperitoneum
+T136	DISEASE 5192 5208	cardiac overload
+T137	DISEASE 6166 6169	BAV
+T138	DISEASE 6208 6248	intraventricular conduction disturbances
+T176	DISEASE 6341 6363	left atrial dilatation
+T123	DISEASE 6402 6418	pleural effusion
+T11	DISEASE 6449 6503	non-hypertrophic left ventricle (LV), severely dilated
+T171	DISEASE 6721 6740	Dilated left atrium
+T12	DISEASE 6911 6933	Dilated right chambers
+T108	DISEASE 6939 6958	mild RV dysfunction
+T13	DISEASE 6974 7002	Mild tricuspid insufficiency
+T14	DISEASE 7004 7006	TI
+T15	DISEASE 7054 7082	Dilated suprahepatic vessels
+T16	DISEASE 7084 7109	Mild mitral insufficiency
+T17	DISEASE 7111 7113	MI
+T128	DISEASE 7116 7157	Mild circumferential pericardial effusion
+T139	DISEASE 7194 7216	dilated cardiomyopathy
+T18	DISEASE 7218 7221	DCM
+T146	DISEASE 7228 7253	biventricular dysfunction
+T150	DISEASE 7255 7276	Severe LV dysfunction
+T174	DISEASE 7278 7299	Diastolic dysfunction
+T152	DISEASE 7329 7351	Pulmonary hypertension
+T19	DISEASE 7353 7356	PHT
+T153	DISEASE 7359 7384	Mild pericardial effusion
+T20	DISEASE 7797 7824	Left ventricle very dilated
+T154	DISEASE 7916 7924	thrombus
+T155	DISEASE 7927 7956	Moderate pericardial effusion
+T179	DISEASE 7958 7982	Enlarged pulmonary trunk
+T157	DISEASE 8007 8032	pulmonary thromboembolism
+T21	DISEASE 8034 8037	PTE
+T158	DISEASE 8060 8076	pulmonary oedema
+T124	DISEASE 8128 8144	pleural effusion
+T178	DISEASE 8184 8200	coronary lesions
+T22	DISEASE 8280 8335	Left ventricle markedly dilated with severe dysfunction
+T23	DISEASE 8420 8475	Right ventricle equally dilated with severe dysfunction
+T109	DISEASE 8612 8637	Enlargement of both atria
+T24	DISEASE 8656 8695	left atrium (34 cm2, moderately dilated
+T25	DISEASE 8698 8725	Enlarged inferior vena cava
+T156	DISEASE 8735 8764	Moderate pericardial effusion
+T175	DISEASE 8778 8795	myocardial oedema
+T26	DISEASE 8931 8959	non-compacted cardiomyopathy
+T159	DISEASE 9183 9212	severe dilated cardiomyopathy
+T160	DISEASE 9218 9250	severe biventricular dysfunction
+T177	DISEASE 9434 9456	left atrial dilatation
+T125	DISEASE 9495 9511	pleural effusion
+T141	DISEASE 10294 10316	dilated cardiomyopathy
+T142	DISEASE 10493 10515	dilated cardiomyopathy
+T29	DISEASE 10628 10677	Severely dilated and dysfunctional left ventricle
+T172	DISEASE 10881 10900	Dilated left atrium
+T132	DISEASE 11138 11158	pericardial effusion
+T33	DISEASE 11172 11175	DCM
+T148	DISEASE 11181 11206	biventricular dysfunction
+T151	DISEASE 11208 11229	Severe LV dysfunction
+T143	DISEASE 11539 11561	dilated cardiomyopathy
+T161	DISEASE 11567 11599	severe biventricular dysfunction
+T162	DISEASE 11702 11713	myocarditis
+T163	DISEASE 11924 11951	congenital coronary anomaly
+T164	DISEASE 12261 12274	heart failure
+T165	DISEASE 13211 13239	left ventricular dysfunction
+T112	DISEASE 13466 13484	tuberous sclerosis
+T144	DISEASE 13501 13523	dilated cardiomyopathy
+T145	DISEASE 13678 13700	Dilated cardiomyopathy
+T113	DISEASE 13719 13737	tuberous sclerosis
+T167	DISEASE 13808 13852	left ventricular dysfunction with asynchrony

@@ -1,0 +1,40 @@
+T1	SYMPTOM 397 411	dolor torácico
+T3	SYMPTOM 619 637	cortejo vegetativo
+T4	SYMPTOM 797 811	dolor torácico
+T5	SYMPTOM 1018 1028	consciente
+T6	SYMPTOM 1031 1040	orientado
+T7	SYMPTOM 1042 1072	exploración neurológica normal
+T8	SYMPTOM 1100 1129	murmullo vesicular conservado
+T9	SYMPTOM 1147 1170	ruidos cardiacos normal
+T10	SYMPTOM 1176 1182	soplos
+T11	SYMPTOM 1186 1196	extratonos
+T12	SYMPTOM 1201 1216	roce pericardio
+T13	SYMPTOM 1218 1250	Cuello sin ingurgitación yugular
+T14	SYMPTOM 1252 1285	Abdomen sin hallazgos patológicos
+T15	SYMPTOM 1287 1321	Extremidades inferiores sin edemas
+T16	SYMPTOM 1634 1647	ritmo sinusal
+T17	SYMPTOM 1658 1711	escaso crecimiento de onda R en precordiales derechas
+T18	SYMPTOM 1722 1755	alteraciones de la repolarización
+T19	SYMPTOM 1779 1802	silueta cardiaca normal
+T20	SYMPTOM 1890 1934	ventrículo izquierdo de dimensiones normales
+T22	SYMPTOM 1960 1988	Función sistólica conservada
+T24	SYMPTOM 2067 2092	Aurícula izquierda normal
+T25	SYMPTOM 2171 2198	Cavidades derechas normales
+T26	SYMPTOM 2924 2936	asintomático
+T27	SYMPTOM 2941 2970	exploración física era normal
+T28	SYMPTOM 2984 3012	cambios en la repolarización
+T29	SYMPTOM 3025 3080	ecocardiograma transtorácico (ETT) basal que era normal
+T30	SYMPTOM 3086 3135	función global de ventrículo izquierdo conservada
+T31	SYMPTOM 3488 3500	asintomático
+T32	SYMPTOM 4024 4038	dolor torácico
+T33	SYMPTOM 4100 4145	elevación del segmento ST en la derivación II
+T34	SYMPTOM 4408 4441	alteraciones en la repolarización
+T2	SYMPTOM 2041 2065	Patrón diastólico normal
+T88	SYMPTOM 2132 2169	Raíz aórtica y válvula aórtica normal
+T89	SYMPTOM 2309 2350	Tronco común izquierdo (TCI) sin lesiones
+T90	SYMPTOM 2352 2398	Arteria descendente anterior (DA) sin lesiones
+T94	SYMPTOM 2693 2766	arterias coronarias epicárdicas sin lesiones hagiográficas significativas
+T108	SYMPTOM 3514 3530	clínica anginosa
+T110	SYMPTOM 2289 2307	dominancia derecha
+T21	SYMPTOM 3617 3650	analítica sanguínea eran normales
+T75	SYMPTOM 3924 3950	CD media una pseudo lesión

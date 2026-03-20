@@ -1,0 +1,52 @@
+T27	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T29	PROCEDURE 596 599	ECG
+T30	PROCEDURE 933 943	CVE a 100J
+T31	PROCEDURE 1073 1091	exploración física
+T32	PROCEDURE 1209 1212	ECG
+T33	PROCEDURE 1339 1342	ECG
+T34	PROCEDURE 2289 2300	Coagulación
+T35	PROCEDURE 2658 2678	Estudio inmunológico
+T36	PROCEDURE 2729 2747	Hormonas tiroideas
+T37	PROCEDURE 2849 2859	Serologías
+T38	PROCEDURE 2934 2962	Ecocardiograma transtorácico
+T39	PROCEDURE 3235 3253	Angio-TC coronario
+T40	PROCEDURE 3297 3300	RMC
+T41	PROCEDURE 3895 3921	Estudio electrofisiológico
+T42	PROCEDURE 3970 3998	Ablación de sustrato con RDF
+T43	PROCEDURE 4010 4029	implantación de DAI
+T44	PROCEDURE 4156 4186	sedación con propofol y ultiva
+T45	PROCEDURE 4221 4280	Se mapea el ventrículo izquierdo con el catéter de ablación
+T46	PROCEDURE 5181 5191	telemetría
+T47	PROCEDURE 5204 5235	tratamiento con betabloqueantes
+T48	PROCEDURE 5598 5616	angio-TC coronario
+T49	PROCEDURE 5789 5818	resonancia magnética cardiaca
+T50	PROCEDURE 5820 5823	RMC
+T51	PROCEDURE 7002 7032	ablación del sustrato de la TV
+T52	PROCEDURE 7040 7066	estudio electrofisiológico
+T53	PROCEDURE 7093 7108	radiofrecuencia
+T54	PROCEDURE 7479 7508	implantación de DAI bicameral
+T55	PROCEDURE 7535 7553	se implanta el DAI
+T56	PROCEDURE 7773 7790	electrofisiología
+T57	PROCEDURE 7826 7847	monitorización remota
+T64	PROCEDURE 1750 1760	Bioquímica
+T65	PROCEDURE 7683 7697	betabloqueante
+T66	PROCEDURE 2414 2430	Curva enzimática
+T67	PROCEDURE 2501 2512	lipidograma
+T68	PROCEDURE 2581 2600	Metabolismo férrico
+T70	PROCEDURE 4583 4633	se aplica RDF en la cara lateral del anillo mitral
+T128	PROCEDURE 1570 1579	Analítica
+T145	PROCEDURE 968 974	choque
+T146	PROCEDURE 4800 4816	choque eléctrico
+T153	PROCEDURE 4475 4493	inducción de la TV
+T161	PROCEDURE 4409 4420	pacemapping
+T174	PROCEDURE 800 823	perfusión de amiodarona
+T72	PROCEDURE 1592 1604	EAB arterial
+T73	PROCEDURE 7190 7206	choque eléctrico
+T85	PROCEDURE 3428 3458	secuencias potenciadas en Stir
+T86	PROCEDURE 3526 3553	secuencias de realce precoz
+T87	PROCEDURE 3637 3664	secuencias de realce tardío
+T89	PROCEDURE 4193 4219	sistema de Navex-precision
+T94	PROCEDURE 4539 4580	isoproterenol iv. se induce la TV clínica
+T95	PROCEDURE 4859 4964	ablación de sustrato administrando una corona de lesiones alrededor de la zona previo en el anillo mitral
+T126	PROCEDURE 7249 7354	ablación de sustrato administrando una corona de lesiones alrededor de la zona previa en el anillo mitral
+T129	PROCEDURE 7956 7972	descarga del DAI

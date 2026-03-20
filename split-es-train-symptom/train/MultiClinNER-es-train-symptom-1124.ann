@@ -1,0 +1,33 @@
+T1	SYMPTOM 649 654	mareo
+T2	SYMPTOM 657 667	sudoración
+T3	SYMPTOM 759 769	sudoración
+T4	SYMPTOM 771 787	malestar general
+T5	SYMPTOM 790 797	náuseas
+T6	SYMPTOM 807 820	palpitaciones
+T7	SYMPTOM 835 872	dolor torácico anginoso ni pleurítico
+T9	SYMPTOM 1176 1186	Consciente
+T10	SYMPTOM 1188 1197	orientado
+T12	SYMPTOM 1213 1231	eupneico en reposo
+T13	SYMPTOM 1256 1285	murmullo vesicular conservado
+T14	SYMPTOM 1290 1310	ruidos sobreañadidos
+T15	SYMPTOM 1335 1360	ruidos cardiacos rítmicos
+T16	SYMPTOM 1365 1371	soplos
+T17	SYMPTOM 1382 1436	Abdomen blando, depresible, no doloroso a la palpación
+T18	SYMPTOM 1438 1472	Extremidades inferiores sin edemas
+T19	SYMPTOM 2523 2536	ritmo sinusal
+T20	SYMPTOM 2538 2592	QRS con bajos voltajes en derivaciones de los miembros
+T21	SYMPTOM 2594 2638	onda T negativa V3-V6, I, aVL, II, III y aVF
+T22	SYMPTOM 2662 2703	índice cardiotorácico levemente aumentado
+T27	SYMPTOM 3905 3977	portador en homocigosis de la variante patogénica p.T335A en el gen DSG2
+T28	SYMPTOM 4141 4154	ritmo sinusal
+T31	SYMPTOM 5044 5133	positivo en homocigosis para la variante patogénica p.T335A en el gen de la desmogleína 2
+T40	SYMPTOM 2980 3023	anomalías segmentarias de la contractilidad
+T79	SYMPTOM 3122 3154	arterias coronarias sin lesiones
+T26	SYMPTOM 3497 3558	discinesia e hipocontractilidad en el tracto de salida del VD
+T82	SYMPTOM 3791 3826	anticuerpos antinucleares: negativo
+T83	SYMPTOM 3828 3893	Anticuerpos anticitoplasma de neutrófilos en vasculitis: negativo
+T78	SYMPTOM 5367 5440	Portador en homocigosis de variante patogénica en gen de la desmogleína 2
+T95	SYMPTOM 1200 1211	colaborador
+T98	SYMPTOM 267 276	fallecido
+T87	SYMPTOM 2498 2510	eje superior
+T88	SYMPTOM 4448 4480	arterias coronarias sin lesiones

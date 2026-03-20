@@ -1,0 +1,43 @@
+T67	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T68	PROCEDURE 307 344	tratamiento con antidiabéticos orales
+T69	PROCEDURE 1488 1506	electrocardiograma
+T70	PROCEDURE 1582 1602	radiografía de tórax
+T71	PROCEDURE 1741 1764	ecocardiocopia portátil
+T72	PROCEDURE 2012 2024	sueroterapia
+T73	PROCEDURE 2054 2096	pericardiocentesis guiada por fluoroscopia
+T75	PROCEDURE 2306 2391	pericardiocentesis emergente guiada por ecocardiografía mediante abordaje subxifoideo
+T76	PROCEDURE 2641 2648	drenaje
+T77	PROCEDURE 2727 2745	Exploración física
+T78	PROCEDURE 3068 3095	auscultación cardiopulmonar
+T79	PROCEDURE 3762 3780	Electrocardiograma
+T80	PROCEDURE 3947 3967	Radiografía de tórax
+T81	PROCEDURE 4037 4061	Ecocardioscopia portátil
+T82	PROCEDURE 4258 4286	Ecocardiograma transtorácico
+T83	PROCEDURE 4292 4310	pericardiocentesis
+T84	PROCEDURE 4755 4770	tinción de Gram
+T85	PROCEDURE 4803 4825	cultivo bacteriológico
+T86	PROCEDURE 4873 4897	estudio de micobacterias
+T87	PROCEDURE 4901 4910	citología
+T88	PROCEDURE 4912 4932	Marcadores tumorales
+T89	PROCEDURE 4949 4958	serología
+T90	PROCEDURE 5065 5138	Serología virus hepatotropos, CMV, Treponema pallidum y Coxiella burnetii
+T91	PROCEDURE 5168 5216	Tomografía computarizada de tórax-abdomen-pelvis
+T92	PROCEDURE 5568 5582	Ecocardiograma
+T93	PROCEDURE 6054 6064	telemetría
+T94	PROCEDURE 6153 6165	auscultación
+T95	PROCEDURE 6178 6206	ecocardiograma transtorácico
+T96	PROCEDURE 6462 6479	se retira drenaje
+T97	PROCEDURE 6491 6548	tratamiento empírico con antiinflamatorios no esteroideos
+T98	PROCEDURE 6550 6554	AINE
+T99	PROCEDURE 6946 6968	cultivo bacteriológico
+T100	PROCEDURE 7045 7069	estudio de micobacterias
+T101	PROCEDURE 7122 7158	marcadores tumorales y autoinmunidad
+T102	PROCEDURE 7251 7334	Serología para virus hepatotropos, VIH, CMV, Treponema pallidum y Coxiella burnetii
+T103	PROCEDURE 7420 7446	TC de tórax-abdomen-pelvis
+T104	PROCEDURE 7628 7655	controles ecocardiográficos
+T105	PROCEDURE 8693 8711	Pericardiocentesis
+T9	PROCEDURE 2670 2706	se mantiene al paciente monitorizado
+T39	PROCEDURE 4934 4947	autoinmunidad
+T155	PROCEDURE 3392 3401	Analítica
+T183	PROCEDURE 7388 7408	estudio de extensión
+T192	PROCEDURE 1986 2000	monitorización

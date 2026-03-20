@@ -1,0 +1,49 @@
+T1	SYMPTOM 528 577	dolor centrotorácico opresivo irradiado hacia MSI
+T2	SYMPTOM 692 710	sensación de mareo
+T3	SYMPTOM 782 809	palpitaciones autolimitadas
+T4	SYMPTOM 1034 1047	ritmo sinusal
+T5	SYMPTOM 1195 1213	mal estado general
+T6	SYMPTOM 1218 1227	taquipnea
+T7	SYMPTOM 1230 1242	taquicardica
+T9	SYMPTOM 1372 1383	taquicardia
+T10	SYMPTOM 1389 1418	edemas en miembros inferiores
+T11	SYMPTOM 1501 1512	taquicardia
+T12	SYMPTOM 1560 1581	aumento ligero de TnI
+T13	SYMPTOM 1734 1746	asintomática
+T14	SYMPTOM 1749 1774	hemodinámicamente estable
+T15	SYMPTOM 1810 1821	taquicardia
+T16	SYMPTOM 2816 2847	disociación auriculoventricular
+T17	SYMPTOM 3034 3046	QRS estrecho
+T18	SYMPTOM 3048 3059	descenso ST
+T19	SYMPTOM 3432 3450	Coagulación normal
+T20	SYMPTOM 3474 3484	ICT normal
+T21	SYMPTOM 3489 3500	infiltrados
+T23	SYMPTOM 3633 3655	FEVI global conservada
+T25	SYMPTOM 3824 3874	Ventrículo derecho no dilatado con FEVD conservada
+T27	SYMPTOM 3914 3935	Válvula mitral normal
+T29	SYMPTOM 4537 4586	Ventrículo derecho de morfología y función normal
+T31	SYMPTOM 4785 4860	Estudio electrofisiológico: los intervalos de conducción basal son normales
+T32	SYMPTOM 5107 5118	taquicardia
+T33	SYMPTOM 5368 5379	taquicardia
+T34	SYMPTOM 5460 5497	Hemocultivos y urocultivos: negativos
+T35	SYMPTOM 5499 5533	Serología: VHB, VHC y VIH negativa
+T36	SYMPTOM 5535 5577	Serología Anti-Trypanosoma cruzi: positivo
+T37	SYMPTOM 5697 5710	palpitaciones
+T38	SYMPTOM 5723 5739	malestar general
+T39	SYMPTOM 5742 5747	mareo
+T40	SYMPTOM 6257 6312	serología para Trypanosoma cruzi con resultado positivo
+T41	SYMPTOM 6581 6603	molestias epigástricas
+T42	SYMPTOM 6616 6669	tránsito esófago-gastro-duodenal que resulta negativo
+T140	SYMPTOM 2967 2980	ritmo sinusal
+T141	SYMPTOM 5863 5876	ritmo sinusal
+T130	SYMPTOM 1106 1117	descenso ST
+T8	SYMPTOM 4094 4105	PSAP normal
+T143	SYMPTOM 3800 3822	Aurículas no dilatadas
+T145	SYMPTOM 4617 4652	Coronarias epicárdicas sin lesiones
+T153	SYMPTOM 3977 4001	Válvula aórtica trivalva
+T161	SYMPTOM 3017 3027	eje normal
+T185	SYMPTOM 4986 4998	taquicardias
+T24	SYMPTOM 260 269	fallecida
+T118	SYMPTOM 1601 1611	CPK normal
+T72	SYMPTOM 3876 3912	Raíz aórtica de dimensiones normales
+T121	SYMPTOM 7000 7044	resultado positivo para enfermedad de Chagas

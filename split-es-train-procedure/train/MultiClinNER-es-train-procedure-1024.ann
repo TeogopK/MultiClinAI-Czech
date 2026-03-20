@@ -1,0 +1,33 @@
+T49	PROCEDURE 3582 3662	isquemia inducida al ocluir la primera rama septal mediante el inflado del balón
+T51	PROCEDURE 200 218	exploración física
+T52	PROCEDURE 269 298	ecocardiografía transtorácica
+T54	PROCEDURE 1166 1187	auscultación cardiaca
+T56	PROCEDURE 1395 1416	auscultación pulmonar
+T57	PROCEDURE 1707 1710	ECG
+T58	PROCEDURE 1796 1799	ECG
+T59	PROCEDURE 1858 1869	Rx de tórax
+T60	PROCEDURE 2003 2031	Ecocardiograma transtorácico
+T61	PROCEDURE 2427 2449	Holter-ECG de 24 horas
+T62	PROCEDURE 2719 2739	Estudio hemodinámico
+T63	PROCEDURE 2863 2878	Coronariografía
+T64	PROCEDURE 3152 3178	ablación septal percutánea
+T65	PROCEDURE 3247 3255	sedación
+T66	PROCEDURE 3378 3455	Vía arterial se introduce un catéter-balón a través de la coronaria izquierda
+T67	PROCEDURE 3532 3554	apoyo ecocardiográfico
+T68	PROCEDURE 3689 3728	inyección de contraste ecocardiográfico
+T69	PROCEDURE 4580 4594	monitorización
+T70	PROCEDURE 4956 4966	diuréticos
+T71	PROCEDURE 4969 4981	lusotrópicos
+T72	PROCEDURE 5748 5802	ablación percutánea con alcohol en primera rama septal
+T73	PROCEDURE 2991 3006	ablación septal
+T74	PROCEDURE 4446 4466	seriación enzimática
+T75	PROCEDURE 3288 3376	Se coloca cable de MCP en ventrículo derecho con acceso a través de vena femoral derecha
+T77	PROCEDURE 5507 5530	tratamiento lusotrópico
+T78	PROCEDURE 4106 4123	Angiográficamente
+T85	PROCEDURE 1937 1946	analítica
+T91	PROCEDURE 3746 3796	inducción de isquemia en la región septal proximal
+T108	PROCEDURE 5064 5082	técnicas de imagen
+T48	PROCEDURE 3852 3904	TSVI, por lo que se procede a la infusión de alcohol
+T53	PROCEDURE 3968 3988	estimulación por MCP
+T55	PROCEDURE 4209 4243	se infunde 1cc de alcohol absoluto
+#2	AnnotatorNotes T75	 MCP: marcapasos permanente

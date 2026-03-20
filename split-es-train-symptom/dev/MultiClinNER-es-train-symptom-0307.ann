@@ -1,0 +1,11 @@
+T1	SYMPTOM 44 50	fiebre
+T2	SYMPTOM 86 99	irritabilidad
+T3	SYMPTOM 787 793	Febril
+T4	SYMPTOM 833 846	irritabilidad
+T5	SYMPTOM 848 874	mal color y estado general
+T6	SYMPTOM 920 943	dificultad respiratoria
+T7	SYMPTOM 1248 1293	infiltrados alveolointersticiales bilaterales
+T8	SYMPTOM 101 116	mucosidad nasal
+T9	SYMPTOM 1648 1717	anticuerpos inmunoglobluina M (IgM) para parvovirus B19 son positivos
+A1	IMAGEN T7
+A2	RESULTADO T9

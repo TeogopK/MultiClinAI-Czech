@@ -1,0 +1,5 @@
+T1	SYMPTOM 139 147	diarreas
+T2	SYMPTOM 439 480	formación rectal a 2-3 cm de ano ulcerada
+T3	SYMPTOM 317 387	Serología VIH, lues, virus de Epstein-Barr y citomegalovirus negativas
+A1	RESULTADO T2
+A2	RESULTADO T3

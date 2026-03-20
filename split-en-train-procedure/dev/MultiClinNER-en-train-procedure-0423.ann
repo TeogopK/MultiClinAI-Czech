@@ -1,0 +1,31 @@
+T8	PROCEDURE 440 460	abdominal ultrasound
+T2	PROCEDURE 551 597	antibiotic treatment (broad-spectrum coverage)
+T9	PROCEDURE 864 884	Physical examination
+T32	PROCEDURE 981 997	Laboratory tests
+T38	PROCEDURE 1334 1351	coagulation study
+T10	PROCEDURE 1360 1380	elemental urinalysis
+T22	PROCEDURE 1394 1406	Proteinogram
+T11	PROCEDURE 1408 1436	immunoglobulin determination
+T18	PROCEDURE 1441 1460	immunological study
+T12	PROCEDURE 1482 1540	microbiological studies were performed, including serology
+T43	PROCEDURE 1636 1684	legionella (with determination of urine antigen)
+T25	PROCEDURE 1751 1763	EBV serology
+T13	PROCEDURE 1856 1879	microbiological studies
+T14	PROCEDURE 1881 1895	blood cultures
+T15	PROCEDURE 1897 1912	sputum cultures
+T16	PROCEDURE 1917 1931	urine cultures
+T17	PROCEDURE 1952 1973	study of mycobacteria
+T24	PROCEDURE 1990 2003	Imaging tests
+T51	PROCEDURE 2022 2039	abdominal CT scan
+T52	PROCEDURE 2214 2261	results (microbiological and histopathological)
+T19	PROCEDURE 2276 2304	liver and bone marrow biopsy
+T3	PROCEDURE 2387 2407	antibiotic treatment
+T6	PROCEDURE 2670 2691	diagnostic laparotomy
+T7	PROCEDURE 2712 2731	general anaesthesia
+T26	PROCEDURE 2741 2753	intervention
+T4	PROCEDURE 3024 3035	splenectomy
+T1	PROCEDURE 3051 3088	Histological study of the lymph nodes
+T5	PROCEDURE 3258 3269	splenectomy
+T20	PROCEDURE 3513 3533	Microscopic analysis
+T21	PROCEDURE 3611 3638	immunohistochemical studies
+T23	PROCEDURE 3689 3711	pathological diagnosis

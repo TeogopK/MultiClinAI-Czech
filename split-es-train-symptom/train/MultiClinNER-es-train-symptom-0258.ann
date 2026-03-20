@@ -1,0 +1,29 @@
+T1	SYMPTOM 65 71	disnea
+T2	SYMPTOM 84 97	expectoración
+T3	SYMPTOM 3842 3849	diarrea
+T4	SYMPTOM 100 111	somnolencia
+T5	SYMPTOM 2265 2279	picos febriles
+T6	SYMPTOM 4916 4923	afebril
+T7	SYMPTOM 3033 3052	pérdidas digestivas
+T8	SYMPTOM 868 876	disfagia
+T9	SYMPTOM 5013 5020	diarrea
+T10	SYMPTOM 3136 3174	elevación de los niveles de creatinina
+T11	SYMPTOM 299 305	T3N0M0
+T12	SYMPTOM 1652 1667	síndrome febril
+T13	SYMPTOM 1808 1874	hemocultivos que resultan positivos para Streptococcus epidermidis
+T14	SYMPTOM 1197 1217	función renal normal
+T15	SYMPTOM 2124 2150	hemocultivos son negativos
+T16	SYMPTOM 4886 4913	fórmula hematológica normal
+T17	SYMPTOM 887 895	sangrado
+T18	SYMPTOM 2924 2931	diarrea
+T19	SYMPTOM 3085 3097	hiponatremia
+T20	SYMPTOM 4121 4128	diarrea
+T21	SYMPTOM 4255 4277	diuresis muy abundante
+T22	SYMPTOM 907 926	tumoración faríngea
+A1	RESULTADO T10
+A2	RESULTADO T11
+A3	RESULTADO T13
+A4	RESULTADO T14
+A5	RESULTADO T15
+A6	RESULTADO T16
+A7	RESULTADO T19

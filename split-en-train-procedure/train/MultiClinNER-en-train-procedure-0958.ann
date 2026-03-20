@@ -1,0 +1,33 @@
+T66	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T65	PROCEDURE 228 257	left knee replacement surgery
+T67	PROCEDURE 1019 1039	PHYSICAL EXAMINATION
+T68	PROCEDURE 1263 1283	Cardiac auscultation
+T69	PROCEDURE 1348 1370	Pulmonary auscultation
+T70	PROCEDURE 1623 1626	ECG
+T71	PROCEDURE 1764 1784	Portable chest X-ray
+T72	PROCEDURE 1899 1908	Haemogram
+T96	PROCEDURE 2006 2018	Biochemistry
+T97	PROCEDURE 2100 2104	ions
+T73	PROCEDURE 2261 2272	Coagulation
+T74	PROCEDURE 2340 2368	Transthoracic echocardiogram
+T86	PROCEDURE 2354 2368	echocardiogram
+T75	PROCEDURE 2674 2704	Transesophageal echocardiogram
+T87	PROCEDURE 2690 2704	echocardiogram
+T77	PROCEDURE 2994 3012	Haemodynamic study
+T79	PROCEDURE 3448 3464	Ventriculography
+T80	PROCEDURE 3639 3650	Angioplasty
+T81	PROCEDURE 3764 3776	angiographic
+T82	PROCEDURE 3911 3923	angiographic
+T83	PROCEDURE 4090 4109	ventilatory support
+T84	PROCEDURE 4127 4162	non-invasive mechanical ventilation
+T85	PROCEDURE 4167 4201	diuretic and vasodilator treatment
+T88	PROCEDURE 4295 4309	echocardiogram
+T78	PROCEDURE 4459 4477	haemodynamic study
+T90	PROCEDURE 4692 4707	cardiac surgery
+T92	PROCEDURE 4734 4764	percutaneous revascularisation
+T91	PROCEDURE 4734 4779	percutaneous revascularisation of OM1 and ADA
+T93	PROCEDURE 4860 4890	percutaneous revascularisation
+T95	PROCEDURE 4986 5004	diuretic treatment
+T76	PROCEDURE 5358 5390	transesophageal echocardiography
+T89	PROCEDURE 5374 5390	echocardiography
+T94	PROCEDURE 5910 5940	percutaneous revascularisation

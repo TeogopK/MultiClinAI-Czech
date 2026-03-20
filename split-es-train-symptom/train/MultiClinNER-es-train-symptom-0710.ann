@@ -1,0 +1,46 @@
+T1	SYMPTOM 618 625	vomitar
+T2	SYMPTOM 2088 2109	pérdida de conciencia
+T3	SYMPTOM 686 708	pérdidas de conciencia
+T4	SYMPTOM 1621 1637	hiperventilación
+T5	SYMPTOM 2209 2227	cortejo vegetativo
+T6	SYMPTOM 2258 2280	incontinencia urinaria
+T7	SYMPTOM 242 263	pérdida de conciencia
+T8	SYMPTOM 2302 2309	astenia
+T9	SYMPTOM 291 296	mareo
+T10	SYMPTOM 2325 2353	ardor epigástrico ascendente
+T11	SYMPTOM 298 308	sudoración
+T12	SYMPTOM 311 319	acúfenos
+T13	SYMPTOM 1765 1770	mareo
+T14	SYMPTOM 1783 1796	palpitaciones
+T15	SYMPTOM 2372 2402	mordedura lateral de la lengua
+T16	SYMPTOM 2405 2414	confusión
+T17	SYMPTOM 3796 3809	irritabilidad
+T18	SYMPTOM 553 571	cortejo vegetativo
+T19	SYMPTOM 2611 2633	incontinencia urinaria
+T20	SYMPTOM 583 590	vómitos
+T21	SYMPTOM 2636 2663	mordedura lateral de lengua
+T22	SYMPTOM 1275 1296	pérdida de conciencia
+T23	SYMPTOM 1356 1364	acúfenos
+T24	SYMPTOM 1390 1403	palpitaciones
+T25	SYMPTOM 1405 1433	sensación de desvanecimiento
+T26	SYMPTOM 1436 1445	debilidad
+T27	SYMPTOM 2971 2976	mareo
+T28	SYMPTOM 3327 3378	dilatación del asta temporal del ventrículo lateral
+T29	SYMPTOM 824 836	inconsciente
+T30	SYMPTOM 857 874	sonidos guturales
+T31	SYMPTOM 1526 1558	ondas lentas temporales derechas
+T32	SYMPTOM 2118 2124	estrés
+T33	SYMPTOM 3075 3160	actividad theta rítmica organizada en región anteromedial del lóbulo temporal derecho
+T34	SYMPTOM 454 466	asintomática
+T35	SYMPTOM 1017 1116	electroencefalograma (EEG) y una resonancia magnética (RM) cerebral, todo ello con resultado normal
+T36	SYMPTOM 1565 1590	única descarga punta onda
+T37	SYMPTOM 2793 2805	ondas lentas
+T38	SYMPTOM 2877 2913	brotes prolongados de ondas rítmicas
+T39	SYMPTOM 890 913	convulsión generalizada
+A1	IMAGEN T28
+A2	RESULTADO T31
+A3	RESULTADO T33
+A4	RESULTADO T35
+A5	RESULTADO T36
+A6	RESULTADO T37
+A7	RESULTADO T38

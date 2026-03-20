@@ -1,0 +1,34 @@
+T38	DISEASE 113 126	dyslipidaemia
+T39	DISEASE 128 149	arterial hypertension
+T40	DISEASE 151 161	overweight
+T41	DISEASE 171 195	type 2 diabetes mellitus
+T73	DISEASE 220 249	permanent atrial fibrillation
+T42	DISEASE 441 454	histiocytosis
+T1	DISEASE 708 728	Mixed phenotype COPD
+T44	DISEASE 1472 1481	serositis
+T45	DISEASE 2389 2409	deep vein thrombosis
+T46	DISEASE 2411 2414	DVT
+T47	DISEASE 2678 2694	pleural effusion
+T49	DISEASE 2698 2720	pneumonic condensation
+T48	DISEASE 2919 2935	pleural effusion
+T50	DISEASE 2939 2961	pneumonic condensation
+T52	DISEASE 2988 3007	atrial fibrillation
+T2	DISEASE 3044 3085	Left anterior hemiblock of the His bundle
+T54	DISEASE 3128 3153	ventricular extrasystoles
+T55	DISEASE 4830 4844	valvulopathies
+T56	DISEASE 4900 4923	tricuspid regurgitation
+T7	DISEASE 4925 4927	TI
+T78	DISEASE 4948 4974	Dilated inferior vena cava
+T57	DISEASE 5011 5038	Severe pericardial effusion
+T79	DISEASE 5208 5256	obstructive shock secondary to cardiac tamponade
+T59	DISEASE 5720 5773	obstructive shock in the context of cardiac tamponade
+T80	DISEASE 6270 6287	pericardial fluid
+T62	DISEASE 6603 6623	pericardial effusion
+T60	DISEASE 6806 6859	Obstructive shock in the context of cardiac tamponade
+T58	DISEASE 6861 6888	Severe pericardial effusion
+T67	DISEASE 6904 6921	cardiac tamponade
+T74	DISEASE 7072 7101	Permanent atrial fibrillation
+T68	DISEASE 7134 7147	Polyserositis
+T71	DISEASE 7161 7184	Constitutional syndrome
+T72	DISEASE 7207 7231	Erdheim-Chester syndrome
+T43	DISEASE 7233 7269	polyostotic sclerosing histiocytosis

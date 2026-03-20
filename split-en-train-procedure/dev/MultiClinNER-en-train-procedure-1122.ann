@@ -1,0 +1,34 @@
+T73	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T74	PROCEDURE 635 655	Physical examination
+T75	PROCEDURE 912 932	hepatojugular reflex
+T76	PROCEDURE 934 954	Cardiac auscultation
+T77	PROCEDURE 984 1006	Pulmonary auscultation
+T101	PROCEDURE 1147 1165	Electrocardiograms
+T78	PROCEDURE 1167 1170	ECG
+T79	PROCEDURE 1173 1176	ECG
+T80	PROCEDURE 1346 1349	ECG
+T36	PROCEDURE 1563 1574	Blood tests
+T98	PROCEDURE 1806 1837	Biomarkers of myocardial damage
+T81	PROCEDURE 1955 1975	RT-PCR for SARS-CoV2
+T82	PROCEDURE 1987 1998	Chest X-ray
+T83	PROCEDURE 2147 2200	Transthoracic echocardiogram: Portable echocardiogram
+T85	PROCEDURE 2608 2622	Echocardiogram
+T86	PROCEDURE 2706 2719	Haemodynamics
+T87	PROCEDURE 2730 2750	coronary angiography
+T88	PROCEDURE 3082 3102	coronary angiography
+T92	PROCEDURE 3312 3327	catheterisation
+T93	PROCEDURE 3553 3561	Angio-CT
+T89	PROCEDURE 4065 4085	Coronary angiography
+T95	PROCEDURE 5151 5168	electrocardiogram
+T96	PROCEDURE 5266 5297	Diagnostic coronary angiography
+T39	PROCEDURE 5519 5546	double antiplatelet therapy
+T97	PROCEDURE 5551 5566	anticoagulation
+T99	PROCEDURE 5703 5734	biomarkers of myocardial damage
+T91	PROCEDURE 6068 6088	coronary angiography
+T100	PROCEDURE 6382 6413	biomarkers of myocardial damage
+T41	PROCEDURE 6418 6438	electrocardiographic
+T42	PROCEDURE 6529 6548	double antiplatelet
+T94	PROCEDURE 6886 6894	angio-CT
+T43	PROCEDURE 6990 6992	CT
+T45	PROCEDURE 7347 7365	oral beta-blockers
+T102	PROCEDURE 7402 7410	nitrates

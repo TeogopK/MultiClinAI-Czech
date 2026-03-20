@@ -1,0 +1,24 @@
+T1	SYMPTOM 1145 1168	dificultad respiratoria
+T2	SYMPTOM 412 444	pupilas dilatadas y arrefléxicas
+T3	SYMPTOM 74 86	visión doble
+T4	SYMPTOM 1394 1425	disociación albúmino-citológica
+T5	SYMPTOM 89 95	mareos
+T6	SYMPTOM 855 869	marcha atáxica
+T7	SYMPTOM 871 884	hiporreflexia
+T8	SYMPTOM 897 918	debilidad de miembros
+T9	SYMPTOM 510 542	limitación en la abducción de AO
+T10	SYMPTOM 1281 1297	parálisis facial
+T11	SYMPTOM 1299 1307	disfonía
+T12	SYMPTOM 1310 1318	disfagia
+T13	SYMPTOM 229 237	diplopía
+T14	SYMPTOM 601 653	dificultad para el resto de los movimientos oculares
+T15	SYMPTOM 170 200	inestabilidad en bipedestación
+T16	SYMPTOM 1258 1279	síntomas neurológicos
+T17	SYMPTOM 666 685	diplopia horizontal
+T18	SYMPTOM 1001 1103	análisis de sangre y de la tomografía axial computarizada (TAC) realizada de urgencias fueron normales
+T19	SYMPTOM 1609 1672	estudio inmunológico fue positivo para el anticuerpo anti GQ-1b
+T20	SYMPTOM 1921 1957	limitación de la abducción bilateral
+T21	SYMPTOM 1908 1916	diplopía
+A1	RESULTADO T4
+A2	RESULTADO T18
+A3	RESULTADO T19

@@ -1,0 +1,48 @@
+T43	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T44	PROCEDURE 127 144	dietary treatment
+T45	PROCEDURE 675 684	Basic CPR
+T46	PROCEDURE 739 742	CVE
+T47	PROCEDURE 812 824	Advanced CPR
+T49	PROCEDURE 1059 1074	catheterisation
+T48	PROCEDURE 1200 1212	Advanced CPR
+T54	PROCEDURE 1253 1275	orotracheal intubation
+T69	PROCEDURE 1410 1433	cardiac catheterisation
+T50	PROCEDURE 1418 1433	catheterisation
+T56	PROCEDURE 1520 1546	complete revascularisation
+T82	PROCEDURE 1529 1546	revascularisation
+T51	PROCEDURE 1643 1658	catheterisation
+T59	PROCEDURE 1662 1690	nasogastric tube is inserted
+T60	PROCEDURE 1797 1817	intravenous infusion
+T52	PROCEDURE 1978 1993	catheterisation
+T61	PROCEDURE 2065 2081	vasoactive drugs
+T63	PROCEDURE 2096 2118	mechanical ventilation
+T65	PROCEDURE 2368 2392	Neurological examination
+T66	PROCEDURE 2446 2468	Pulmonary auscultation
+T67	PROCEDURE 2492 2512	Cardiac auscultation
+T68	PROCEDURE 2673 2676	ECG
+T70	PROCEDURE 2797 2820	cardiac catheterisation
+T53	PROCEDURE 2805 2820	catheterisation
+T57	PROCEDURE 2948 2974	Complete revascularisation
+T83	PROCEDURE 2957 2974	revascularisation
+T71	PROCEDURE 3018 3029	Chest X-ray
+T55	PROCEDURE 3058 3080	orotracheal intubation
+T72	PROCEDURE 3121 3135	Echocardiogram
+T88	PROCEDURE 4138 4154	Thyroid function
+T62	PROCEDURE 4364 4380	vasoactive drugs
+T64	PROCEDURE 4590 4612	mechanical ventilation
+T74	PROCEDURE 4655 4680	cardiorespiratory support
+T75	PROCEDURE 4696 4713	venoarterial ECMO
+T85	PROCEDURE 4709 4713	ECMO
+T76	PROCEDURE 4763 4778	Cardiac Surgery
+T86	PROCEDURE 4819 4823	ECMO
+T77	PROCEDURE 4819 4833	ECMO placement
+T78	PROCEDURE 4878 4909	withdrawal of vasoactive agents
+T73	PROCEDURE 5202 5218	Echocardiography
+T89	PROCEDURE 5612 5656	treatment with beta-blockers, ACE inhibitors
+T79	PROCEDURE 6166 6182	PCSK9 inhibitors
+T80	PROCEDURE 6243 6265	cardiac rehabilitation
+T81	PROCEDURE 6430 6452	cardiac rehabilitation
+T58	PROCEDURE 6826 6852	complete revascularisation
+T84	PROCEDURE 6835 6852	revascularisation
+T87	PROCEDURE 6905 6909	ECMO
+T90	PROCEDURE 6991 7001	anti-PCSK9

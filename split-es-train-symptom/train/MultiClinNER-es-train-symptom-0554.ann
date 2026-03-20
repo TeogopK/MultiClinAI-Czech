@@ -1,0 +1,7 @@
+T1	SYMPTOM 524 595	molestias testiculares, consistentes en dolor leve crónico intermitente
+T2	SYMPTOM 652 688	nódulo duro e irregular en testículo
+T3	SYMPTOM 963 1008	Testículo izquierdo sin hallazgos patológicos
+T4	SYMPTOM 1141 1207	valores dentro de la normalidad para alfa-feto proteína, HCG y LDH
+T5	SYMPTOM 2166 2220	se observan microorganismos micóticos ni micobacterias
+A1	RESULTADO T4
+A2	RESULTADO T5

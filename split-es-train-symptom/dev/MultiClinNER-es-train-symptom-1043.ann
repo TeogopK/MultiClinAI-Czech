@@ -1,0 +1,15 @@
+T1	SYMPTOM 81 89	malestar
+T2	SYMPTOM 109 118	confusión
+T3	SYMPTOM 166 172	fiebre
+T5	SYMPTOM 355 393	auscultación cardiopulmonar era normal
+T6	SYMPTOM 405 431	leve edema en los tobillos
+T7	SYMPTOM 880 958	crecimiento de bacilos gramnegativos pequeños en ambos frascos del hemocultivo
+T8	SYMPTOM 1584 1591	afebril
+T11	SYMPTOM 1943 1949	disnea
+T12	SYMPTOM 1952 1968	edema periférico
+T45	SYMPTOM 3016 3047	crecimiento en los hemocultivos
+T4	SYMPTOM 599 624	Se extrajo un hemocultivo
+T64	SYMPTOM 311 320	agitación
+T74	SYMPTOM 3121 3137	cultivo negativo
+T35	SYMPTOM 2940 3001	vegetación valvular se cultivó, pero no se obtuvo crecimiento
+T55	SYMPTOM 3426 3532	amplicón del 16S rARN del tejido valvular tenía una concordancia de >99% con la de Haemophilus aphrophilus

@@ -1,0 +1,11 @@
+T4	PROCEDURE 45 60	Cardiac Surgery
+T10	PROCEDURE 325 350	surgical wound was opened
+T7	PROCEDURE 384 425	daily dressings with physiological saline
+T11	PROCEDURE 462 471	operation
+T1	PROCEDURE 511 523	omentum flap
+T3	PROCEDURE 651 679	assisted ventilatory support
+T6	PROCEDURE 681 698	drug-induced coma
+T14	PROCEDURE 920 1001	reconstruction using a latissimus dorsi flap and alloplastic material (Gore-tex®)
+T5	PROCEDURE 1002 1055	to repair the central defect and pulmonary herniation
+T2	PROCEDURE 1057 1131	Part of the previously performed omentum flap was used to cover the defect
+T16	PROCEDURE 1304 1313	operation

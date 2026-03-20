@@ -1,0 +1,43 @@
+T64	PROCEDURE 838 859	Auscultación cardiaca
+T65	PROCEDURE 969 990	Auscultación pulmonar
+T66	PROCEDURE 1556 1559	ECG
+T67	PROCEDURE 1751 1762	Hemocultivo
+T68	PROCEDURE 1765 1777	antibiograma
+T69	PROCEDURE 1828 1848	Radiografía de tórax
+T70	PROCEDURE 1952 1966	Ecocardiograma
+T71	PROCEDURE 2576 2588	Gastroscopia
+T72	PROCEDURE 2598 2617	Biopsias duodenales
+T73	PROCEDURE 2636 2648	Colonoscopia
+T74	PROCEDURE 2684 2703	TC toraco-abdominal
+T75	PROCEDURE 2719 2732	TAC coronario
+T76	PROCEDURE 2794 2847	Cultivo de vegetación de válvula aórtica y tricúspide
+T77	PROCEDURE 2992 3004	hemocultivos
+T78	PROCEDURE 3101 3112	antibiótico
+T79	PROCEDURE 3221 3235	ecocardiograma
+T80	PROCEDURE 3444 3456	gastroscopia
+T81	PROCEDURE 3459 3471	colonoscopia
+T82	PROCEDURE 3513 3540	TAC toraco abdomino pélvico
+T83	PROCEDURE 3718 3757	colocación de prótesis mecánica aórtica
+T84	PROCEDURE 3774 3793	anuloplastia mitral
+T85	PROCEDURE 3796 3820	anuloplastia tricuspídea
+T86	PROCEDURE 3823 3862	cierre de comunicación interventricular
+T87	PROCEDURE 3954 3977	tratamiento antibiótico
+T88	PROCEDURE 4096 4119	tratamiento antibiótico
+T89	PROCEDURE 4133 4147	ecocardiograma
+T90	PROCEDURE 4645 4692	Recambio valvular aórtico por prótesis mecánica
+T91	PROCEDURE 4694 4713	anuloplastia mitral
+T92	PROCEDURE 4715 4739	anuloplastia tricuspídea
+T93	PROCEDURE 4742 4755	cierre de CIV
+T98	PROCEDURE 1380 1393	Autoinmunidad
+T99	PROCEDURE 719 737	EXPLORACIÓN FÍSICA
+T100	PROCEDURE 1494 1501	Mantoux
+T101	PROCEDURE 1329 1342	Proteinograma
+T102	PROCEDURE 1454 1483	Broncoaspirado: microbiología
+T103	PROCEDURE 3147 3168	tratamiento diurético
+T104	PROCEDURE 1454 1468	Broncoaspirado
+T108	PROCEDURE 1187 1196	Analítica
+T119	PROCEDURE 1521 1530	analítica
+T127	PROCEDURE 205 231	intervenciones quirúrgicas
+T128	PROCEDURE 3693 3716	intervención quirúrgica
+T129	PROCEDURE 3996 4019	intervención quirúrgica
+T138	PROCEDURE 3653 3675	tratamiento quirúrgico

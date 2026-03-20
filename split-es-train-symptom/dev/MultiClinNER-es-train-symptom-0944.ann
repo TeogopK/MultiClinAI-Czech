@@ -1,0 +1,47 @@
+T2	SYMPTOM 684 700	malestar general
+T3	SYMPTOM 703 710	náuseas
+T4	SYMPTOM 715 722	vómitos
+T5	SYMPTOM 736 767	pérdida del nivel de conciencia
+T6	SYMPTOM 858 882	relajación de esfínteres
+T8	SYMPTOM 919 938	mordedura de lengua
+T10	SYMPTOM 1296 1313	dolor epigástrico
+T11	SYMPTOM 1430 1437	náuseas
+T12	SYMPTOM 1524 1531	náuseas
+T13	SYMPTOM 1534 1552	cortejo vegetativo
+T15	SYMPTOM 1779 1789	Consciente
+T16	SYMPTOM 1802 1816	Normocoloreado
+T17	SYMPTOM 1818 1832	Normohidratado
+T18	SYMPTOM 1834 1842	Eupneico
+T19	SYMPTOM 1847 1868	ingurgitación yugular
+T20	SYMPTOM 1893 1918	ruidos cardiacos rítmicos
+T21	SYMPTOM 1923 1929	soplos
+T22	SYMPTOM 1954 1979	murmullo vesicular normal
+T23	SYMPTOM 1981 2036	Abdomen: blando, depresible, no doloroso a la palpación
+T25	SYMPTOM 2038 2058	peristaltismo normal
+T26	SYMPTOM 2060 2095	Extremidades inferiores: sin edemas
+T27	SYMPTOM 2193 2206	ritmo sinusal
+T28	SYMPTOM 2268 2329	Supradesnivelación ST en II, III, aVF con descenso en I y aVL
+T29	SYMPTOM 2363 2376	ritmo sinusal
+T30	SYMPTOM 2438 2493	Supradesnivelación ST en II, III, aVF con descenso en I
+T32	SYMPTOM 2983 2991	sangrado
+T33	SYMPTOM 4386 4423	ventrículo izquierdo de tamaño normal
+T34	SYMPTOM 4428 4450	FEVI global conservada
+T35	SYMPTOM 4551 4579	Disfunción diastólica ligera
+T36	SYMPTOM 4728 4741	ritmo sinusal
+T37	SYMPTOM 4975 5013	supradesnivelación ST en cara inferior
+T38	SYMPTOM 6085 6122	ventrículo izquierdo de tamaño normal
+T40	SYMPTOM 6189 6202	ritmo sinusal
+T94	SYMPTOM 1502 1509	síncope
+T116	SYMPTOM 5444 5451	síncope
+T131	SYMPTOM 7375 7405	Síncope de origen cardiogénico
+T7	SYMPTOM 1791 1800	Orientado
+T105	SYMPTOM 4614 4636	Válvula aórtica normal
+T138	SYMPTOM 6275 6299	ondas Q en cara inferior
+T156	SYMPTOM 6633 6649	clínica anginosa
+T159	SYMPTOM 1640 1658	estado confusional
+T31	SYMPTOM 3068 3112	tronco común izquierdo (TCI): sin enfermedad
+T100	SYMPTOM 4585 4601	aumento de PTDVI
+T1	SYMPTOM 831 849	estado postcrítico
+T9	SYMPTOM 2832 2864	TC craneal: línea media centrada
+T39	SYMPTOM 3534 3567	Coronaria derecha (CD): dominante
+T45	SYMPTOM 4777 4801	Ondas Q en cara inferior

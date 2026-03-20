@@ -1,0 +1,47 @@
+T38	DISEASE 130 152	adverse drug reactions
+T39	DISEASE 183 204	arterial hypertension
+T40	DISEASE 329 342	dyslipidaemia
+T41	DISEASE 454 466	Toxic habits
+T42	DISEASE 468 481	active smoker
+T61	DISEASE 539 549	alcoholism
+T43	DISEASE 628 651	occasional cocaine user
+T44	DISEASE 678 703	Chronic coronary syndrome
+T3	DISEASE 739 795	acute myocardial infarction without ST-segment elevation
+T2	DISEASE 797 803	NSTEMI
+T6	DISEASE 829 908	monovalvular coronary artery disease of the proximal anterior descending artery
+T4	DISEASE 1091 1096	NSTEM
+T8	DISEASE 1109 1173	thrombosis at the level of the proximal ostial circumflex artery
+T66	DISEASE 1949 1962	heart attacks
+T45	DISEASE 3357 3441	very late thrombosis of the stent implanted in the ostial anterior descending artery
+T46	DISEASE 3713 3728	ostial thrombus
+T9	DISEASE 3774 3833	Occlusion by embolisation of the anterior descending artery
+T58	DISEASE 3925 3949	ostial-proximal thrombus
+T10	DISEASE 3975 4055	Occlusion by embolus of the distal posterior descending artery of the circumflex
+T60	DISEASE 5304 5318	valvulopathies
+T47	DISEASE 5323 5343	pericardial effusion
+T49	DISEASE 5468 5535	stent thrombosis generated in the ostial anterior descending artery
+T50	DISEASE 5838 5873	significant post-puncture haematoma
+T51	DISEASE 6018 6039	arteriovenous fistula
+T52	DISEASE 6043 6057	pseudoaneurysm
+T16	DISEASE 6248 6310	non-dilated left ventricle, with slight concentric hypertrophy
+T54	DISEASE 6432 6465	segmental contractility disorders
+T17	DISEASE 6576 6602	organic valvular pathology
+T48	DISEASE 6607 6627	pericardial effusion
+T67	DISEASE 6776 6800	valvular insufficiencies
+T20	DISEASE 7380 7483	thrombosis was observed in the area of the ostium of the anterior descending trunk and trunk-circumflex
+T19	DISEASE 7495 7502	NSTEACS
+T68	DISEASE 7581 7598	thrombotic burden
+T65	DISEASE 8416 8433	arrhythmic events
+T55	DISEASE 8613 8644	alcohol and tobacco consumption
+T56	DISEASE 8662 8674	used cocaine
+T59	DISEASE 8860 8868	thrombus
+T25	DISEASE 9614 9645	consumption of toxic substances
+T26	DISEASE 10049 10080	consumption of toxic substances
+T69	DISEASE 10115 10130	coronary events
+T29	DISEASE 10291 10317	Inferolateral KK IV STEACS
+T28	DISEASE 10319 10448	Late stent thrombosis in ostial anterior descending artery affecting the left common trunk and the ostium of the circumflex arter
+T31	DISEASE 10501 10581	occlusion of distal anterior descending and distal posterior descending arteries
+T30	DISEASE 10790 10812	valvular heart disease
+T63	DISEASE 10814 10825	Cocaine use
+T64	DISEASE 10860 10867	smoking
+T62	DISEASE 10872 10882	alcoholism

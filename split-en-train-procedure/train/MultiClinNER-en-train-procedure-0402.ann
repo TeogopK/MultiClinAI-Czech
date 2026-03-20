@@ -1,0 +1,18 @@
+T1	PROCEDURE 158 176	Rectal examination
+T10	PROCEDURE 236 251	Ultrasonography
+T2	PROCEDURE 390 405	Prostate biopsy
+T12	PROCEDURE 481 498	staging bone scan
+T5	PROCEDURE 562 588	complete androgen blockade
+T8	PROCEDURE 594 607	antiandrogens
+T6	PROCEDURE 612 627	LH-RH analogues
+T3	PROCEDURE 978 1001	bladder catheterisation
+T18	PROCEDURE 1149 1159	flow study
+T19	PROCEDURE 1288 1327	transurethral resection of the prostate
+T20	PROCEDURE 1361 1429	the resector was introduced to perform the resection of the prostate
+T9	PROCEDURE 1707 1713	T.U.R.
+T11	PROCEDURE 1807 1820	antiandrogens
+T21	PROCEDURE 1983 2034	resection of the urethral mamelons and the prostate
+T22	PROCEDURE 2081 2101	anatomical pathology
+T7	PROCEDURE 2123 2147	histological affiliation
+T4	PROCEDURE 2174 2212	Bladder catheterisation was maintained
+T13	PROCEDURE 2230 2275	histological diagnosis of the urethral tissue

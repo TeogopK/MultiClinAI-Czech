@@ -1,0 +1,73 @@
+T45	DISEASE 86 110	alérgico a la penicilina
+T46	DISEASE 117 153	intolerancia a tramadol y metformina
+T47	DISEASE 172 191	síndrome metabólico
+T48	DISEASE 197 221	obesidad de tipo central
+T49	DISEASE 241 262	hipertensión arterial
+T50	DISEASE 264 267	HTA
+T51	DISEASE 270 280	dislipemia
+T52	DISEASE 282 285	DLP
+T53	DISEASE 289 292	DM2
+T54	DISEASE 365 374	Exfumador
+T55	DISEASE 399 423	Enfermedad renal crónica
+T56	DISEASE 425 428	ERC
+T57	DISEASE 492 531	enfermedad pulmonar obstructiva crónica
+T58	DISEASE 533 537	EPOC
+T59	DISEASE 541 568	síndrome de apnea del sueño
+T60	DISEASE 570 575	SAHOS
+T61	DISEASE 764 791	pólipos de colon (benignos)
+T62	DISEASE 870 891	cardiopatía isquémica
+T63	DISEASE 904 907	IAM
+T64	DISEASE 914 938	enfermedad de tres vasos
+T65	DISEASE 1324 1346	disfunción ventricular
+T66	DISEASE 1687 1704	flutter auricular
+T67	DISEASE 2099 2101	IC
+T68	DISEASE 2301 2318	retención hídrica
+T69	DISEASE 2654 2675	hipertensión arterial
+T70	DISEASE 2842 2850	Obesidad
+T71	DISEASE 5598 5617	bradicardia sinusal
+T72	DISEASE 5942 5957	derrame pleural
+T73	DISEASE 6038 6046	obesidad
+T74	DISEASE 6086 6134	ventrículo izquierdo (VI) moderadamente dilatado
+T75	DISEASE 6262 6289	Esclerosis valvular aórtica
+T76	DISEASE 6342 6362	Insuficiencia mitral
+T77	DISEASE 6422 6486	hipertensión pulmonar (HTP) grave por aceleración de la pulmonar
+T78	DISEASE 6659 6678	derrame pericárdico
+T79	DISEASE 7982 8003	descompensación de IC
+T80	DISEASE 8192 8208	patología lumbar
+T81	DISEASE 8654 8662	Obesidad
+T82	DISEASE 9483 9486	DM2
+T83	DISEASE 9491 9499	obesidad
+T84	DISEASE 9816 9818	IC
+T85	DISEASE 10156 10173	retención hídrica
+T86	DISEASE 10382 10390	obesidad
+T87	DISEASE 10953 11038	Disfunción sistólica ventricular izquierda moderada (FEVI 35%) de etiología isquémica
+T88	DISEASE 11040 11069	Cardiopatía isquémica crónica
+T89	DISEASE 11370 11389	Síndrome metabólico
+T90	DISEASE 11562 11570	obesidad
+T91	DISEASE 11581 11584	DM2
+T92	DISEASE 11633 11644	ERC crónica
+T93	DISEASE 11730 11739	Exfumador
+T94	DISEASE 1263 1265	IC
+T95	DISEASE 1625 1656	IC en 2015, con descompensación
+T96	DISEASE 6881 6883	IC
+T97	DISEASE 7515 7517	IC
+T98	DISEASE 7718 7720	IC
+T99	DISEASE 10822 10824	IC
+T100	DISEASE 6364 6366	IT
+T101	DISEASE 1832 1850	eventos arrítmicos
+T102	DISEASE 1499 1535	oclusión del injerto de safena a ACx
+T104	DISEASE 6048 6071	Miocardiopatía dilatada
+T105	DISEASE 6445 6448	HTP
+T106	DISEASE 11199 11242	injerto de mamaria y oclusión del de safena
+T174	DISEASE 6239 6260	Disfunción diastólica
+T227	DISEASE 5652 5673	crecimiento auricular
+T167	DISEASE 1151 1212	arteria coronaria derecha (ACD) por enfermedad grave y difusa
+T183	DISEASE 7418 7427	isquémico
+T189	DISEASE 11394 11402	obesidad
+#1	AnnotatorNotes T94	 insuficiencia cardíaca
+#2	AnnotatorNotes T95	insuficiencia cardíaca
+#3	AnnotatorNotes T96	 insuficiencia cardíaca
+#4	AnnotatorNotes T97	 insuficiencia cardíaca
+#5	AnnotatorNotes T98	 insuficiencia cardíaca
+#6	AnnotatorNotes T99	 insuficiencia cardíaca
+#7	AnnotatorNotes T100	 IT insuficiencia tricuspídea

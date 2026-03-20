@@ -1,0 +1,25 @@
+T1	PROCEDURE 32 52	PHYSICAL EXPLORATION
+T64	PROCEDURE 771 791	Physical examination
+T65	PROCEDURE 1108 1128	cardiac auscultation
+T66	PROCEDURE 1160 1182	Pulmonary auscultation
+T67	PROCEDURE 1384 1401	Electrocardiogram
+T2	PROCEDURE 1584 1595	Blood tests
+T68	PROCEDURE 1735 1746	haemostasis
+T3	PROCEDURE 1770 1788	venous blood gases
+T69	PROCEDURE 2072 2087	Cardiac markers
+T4	PROCEDURE 2160 2171	blood tests
+T5	PROCEDURE 2360 2372	iron profile
+T70	PROCEDURE 2445 2457	Microbiology
+T71	PROCEDURE 2459 2473	SARS-CoV-2 PCR
+T72	PROCEDURE 2484 2495	Chest X-ray
+T73	PROCEDURE 2795 2823	Transthoracic echocardiogram
+T74	PROCEDURE 3602 3622	Coronary angiography
+T75	PROCEDURE 4644 4688	oxygen therapy using low-flow nasal cannulas
+T6	PROCEDURE 4693 4739	diuretic treatment with intravenous furosemide
+T7	PROCEDURE 4928 4941	beta-blockers
+T79	PROCEDURE 4943 4947	ARNI
+T77	PROCEDURE 4952 4969	antialdosteronics
+T8	PROCEDURE 5258 5276	analytical studies
+T78	PROCEDURE 5449 5463	insulinisation
+T9	PROCEDURE 5490 5513	oral antidiabetic drugs
+T10	PROCEDURE 5633 5651	diabetes treatment

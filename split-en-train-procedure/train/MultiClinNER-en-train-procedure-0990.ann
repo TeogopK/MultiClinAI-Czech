@@ -1,0 +1,45 @@
+T62	PROCEDURE 151 171	physical examination
+T94	PROCEDURE 344 361	dietary treatment
+T5	PROCEDURE 1265 1281	felt for a pulse
+T64	PROCEDURE 1373 1419	basic cardiopulmonary resuscitation manoeuvres
+T95	PROCEDURE 1514 1523	monitored
+T65	PROCEDURE 1754 1763	intubated
+T96	PROCEDURE 1770 1789	sedation-relaxation
+T63	PROCEDURE 1920 1940	Physical examination
+T67	PROCEDURE 1989 2009	Cardiac auscultation
+T68	PROCEDURE 2050 2072	Pulmonary auscultation
+T66	PROCEDURE 2074 2083	intubated
+T6	PROCEDURE 2157 2165	palpable
+T69	PROCEDURE 2259 2262	ECG
+T74	PROCEDURE 2447 2461	Echocardiogram
+T76	PROCEDURE 2828 2839	Chest X-ray
+T77	PROCEDURE 2897 2907	Cranial CT
+T9	PROCEDURE 3079 3095	Laboratory tests
+T89	PROCEDURE 3097 3109	Biochemistry
+T10	PROCEDURE 3258 3267	Haemogram
+T90	PROCEDURE 3360 3371	Haemostasis
+T11	PROCEDURE 3382 3396	Urine toxicity
+T80	PROCEDURE 3411 3426	benzodiazepines
+T84	PROCEDURE 3453 3468	cranial CT scan
+T81	PROCEDURE 3499 3530	invasive mechanical ventilation
+T82	PROCEDURE 3537 3577	right subclavian central line was placed
+T97	PROCEDURE 3667 3694	sedorelaxation administered
+T83	PROCEDURE 3708 3721	Sedoanalgesia
+T91	PROCEDURE 3770 3781	hypothermia
+T75	PROCEDURE 3796 3812	Echocardiography
+T70	PROCEDURE 3900 3903	ECG
+T79	PROCEDURE 4025 4035	Cranial CT
+T13	PROCEDURE 4091 4102	Blood tests
+T85	PROCEDURE 4140 4159	Amiodarone infusion
+T71	PROCEDURE 4251 4254	ECG
+T14	PROCEDURE 4437 4456	lidocaine perfusion
+T72	PROCEDURE 4487 4490	ECG
+T86	PROCEDURE 4682 4702	Coronary angiography
+T16	PROCEDURE 4926 4962	study was completed with cardiac MRI
+T98	PROCEDURE 5096 5115	calcium antagonists
+T17	PROCEDURE 5166 5186	antiplatelet therapy
+T73	PROCEDURE 5423 5426	ECG
+T92	PROCEDURE 5427 5437	monitoring
+T87	PROCEDURE 5516 5525	extubated
+T88	PROCEDURE 5831 5852	vasodilator treatment
+T19	PROCEDURE 5891 5914	implant a bicameral ICD

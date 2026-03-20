@@ -1,0 +1,25 @@
+T1	SYMPTOM 2504 2538	alteraciones electrocardiográficas
+T2	SYMPTOM 819 869	dolorimiento abdominal intermitente en hipogastrio
+T3	SYMPTOM 887 899	rectorragias
+T4	SYMPTOM 1990 2002	asintomático
+T5	SYMPTOM 2415 2427	asintomático
+T6	SYMPTOM 3047 3059	asintomático
+T7	SYMPTOM 1896 1907	inflamación
+T8	SYMPTOM 3016 3031	tránsito normal
+T9	SYMPTOM 2929 2963	alteraciones electrocardiográficas
+T10	SYMPTOM 226 232	T3N0M0
+T11	SYMPTOM 2290 2310	signos inflamatorios
+T12	SYMPTOM 1290 1346	marcadores tumorales séricos estaban en niveles normales
+T13	SYMPTOM 567 630	imagen endoscópica de la región perianastomótica resultó normal
+T14	SYMPTOM 979 1029	TAC abdominal, que no reveló hallazgos patológicos
+T15	SYMPTOM 2638 2692	irregularidades en descendente anterior proximal media
+T16	SYMPTOM 797 817	deposiciones blandas
+T17	SYMPTOM 2047 2077	mucosa inflamatoria y ulcerada
+T18	SYMPTOM 2694 2739	grave afectación del ostium del ramo diagonal
+A1	RESULTADO T9
+A2	RESULTADO T12
+A3	RESULTADO T13
+A4	IMAGEN T14
+A5	RESULTADO T15
+A6	RESULTADO T17
+A7	RESULTADO T18

@@ -1,0 +1,34 @@
+T84	PROCEDURE 58 76	transrectal biopsy
+T85	PROCEDURE 196 229	treatment with oral antidiabetics
+T86	PROCEDURE 402 422	coronary angiography
+T2	PROCEDURE 454 566	coronary angioplasty (PTCA) to proximal anterior descending artery (LAD) with implantation of drug-eluting stent
+T106	PROCEDURE 813 826	beta-blockers
+T87	PROCEDURE 951 965	echocardiogram
+T102	PROCEDURE 2266 2286	PHYSICAL EXAMINATION
+T89	PROCEDURE 2617 2637	Cardiac auscultation
+T90	PROCEDURE 2665 2687	Pulmonary auscultation
+T91	PROCEDURE 2734 2756	Abdominal auscultation
+T109	PROCEDURE 2865 2884	abdominal palpation
+T92	PROCEDURE 3833 3850	Electrocardiogram
+T93	PROCEDURE 3852 3855	ECG
+T94	PROCEDURE 4021 4032	Cardiac MRI
+T95	PROCEDURE 4565 4585	Abdominal ultrasound
+T8	PROCEDURE 5382 5395	Cholangio-MRI
+T9	PROCEDURE 5738 5746	Serology
+T103	PROCEDURE 5913 5923	Immunology
+T10	PROCEDURE 6089 6104	Stool parasites
+T110	PROCEDURE 6451 6470	cholestasis profile
+T108	PROCEDURE 6596 6617	acute phase reactants
+T11	PROCEDURE 6803 6821	aetiological study
+T12	PROCEDURE 6973 7006	serology for hepatotropic viruses
+T97	PROCEDURE 7008 7044	determination of parasites in faeces
+T98	PROCEDURE 7049 7065	immunology tests
+T96	PROCEDURE 7153 7173	abdominal ultrasound
+T13	PROCEDURE 7178 7191	cholangio-MRI
+T107	PROCEDURE 7546 7553	statins
+T15	PROCEDURE 7739 7755	statin treatment
+T99	PROCEDURE 8428 8444	PCSK9 inhibitors
+T88	PROCEDURE 8615 8629	echocardiogram
+T100	PROCEDURE 8634 8660	magnetic resonance imaging
+T101	PROCEDURE 8965 8981	ICD implantation
+T17	PROCEDURE 9312 9331	Implantation of ICD

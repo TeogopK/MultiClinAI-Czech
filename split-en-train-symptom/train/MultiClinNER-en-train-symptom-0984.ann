@@ -1,0 +1,53 @@
+T38	SYMPTOM 1228 1236	dyspnoea
+T42	SYMPTOM 7420 7428	dyspnoea
+T43	SYMPTOM 8762 8770	dyspnoea
+T44	SYMPTOM 1391 1417	dyspnoea on usual exertion
+T45	SYMPTOM 1650 1660	chest pain
+T46	SYMPTOM 1753 1763	orthopnoea
+T47	SYMPTOM 1765 1794	paroxysmal nocturnal dyspnoea
+T48	SYMPTOM 1890 1913	haemodynamically stable
+T49	SYMPTOM 2310 2333	Haemodynamically stable
+T50	SYMPTOM 1927 1937	tachypnoea
+T51	SYMPTOM 2209 2231	Good general condition
+T52	SYMPTOM 2233 2242	Conscious
+T53	SYMPTOM 2247 2255	oriented
+T54	SYMPTOM 2272 2285	well hydrated
+T55	SYMPTOM 2290 2298	perfused
+T56	SYMPTOM 2300 2308	Afebrile
+T57	SYMPTOM 2393 2408	Eupneic at rest
+T58	SYMPTOM 2456 2502	Cardiorespiratory auscultation: rhythmic tones
+T59	SYMPTOM 2531 2555	panfocal systolic murmur
+T60	SYMPTOM 2705 2711	masses
+T61	SYMPTOM 2715 2724	megaliths
+T62	SYMPTOM 2739 2746	painful
+T63	SYMPTOM 2760 2781	peritoneal irritation
+T64	SYMPTOM 2797 2823	Lower limbs without oedema
+T65	SYMPTOM 3607 3619	sinus rhythm
+T66	SYMPTOM 3628 3637	Normal PR
+T67	SYMPTOM 3672 3680	overload
+T68	SYMPTOM 5677 5707	Normal segmental contractility
+T69	SYMPTOM 5771 5801	hyperdynamic systolic function
+T70	SYMPTOM 6662 6681	Normal right atrium
+T71	SYMPTOM 6905 6964	Non-dilated left ventricle with preserved systolic function
+T72	SYMPTOM 7053 7065	palpitations
+T73	SYMPTOM 7281 7293	asymptomatic
+T74	SYMPTOM 2600 2636	Good ventilation in both lung fields
+T75	SYMPTOM 3198 3238	Serial myocardial damage markers: normal
+T76	SYMPTOM 4879 4920	angiographically normal coronary arteries
+T77	SYMPTOM 8433 8457	anticholinergic symptoms
+T112	SYMPTOM 2739 2746	painful
+T113	SYMPTOM 1927 1937	tachypnoea
+T1	SYMPTOM 1331 1357	Higher functions preserved
+T3	SYMPTOM 1684 1732	baseline dyspnoea to the point of minimal effort
+T4	SYMPTOM 1803 1821	decreased diuresis
+T5	SYMPTOM 1825 1850	oedema in the lower limbs
+T6	SYMPTOM 2095 2148	serum markers of myocardial damage, which were normal
+T7	SYMPTOM 2257 2270	Normal colour
+T8	SYMPTOM 2672 2700	Abdomen soft and depressible
+T9	SYMPTOM 2785 2795	peritonism
+T10	SYMPTOM 2858 2895	Pedial pulses present and symmetrical
+T11	SYMPTOM 3035 3051	Ionogram normal.
+T12	SYMPTOM 3690 3731	negative T waves from V4 to V6, I and aVL
+T13	SYMPTOM 4031 4065	left ventricular systolic function
+T14	SYMPTOM 5311 5375	non-dilated left ventricle, with concentric increase of its mass
+T15	SYMPTOM 6330 6424	Right ventricle neither dilated nor hypertrophic, with preserved global and segmental mobility

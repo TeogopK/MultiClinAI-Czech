@@ -1,0 +1,46 @@
+T26	SYMPTOM 324 347	constitutional syndrome
+T1	SYMPTOM 349 360	weight loss
+T2	SYMPTOM 392 404	night sweats
+T3	SYMPTOM 457 485	Gastro/colonoscopy: negative
+T32	SYMPTOM 497 519	perirenal fat deposits
+T38	SYMPTOM 525 558	involvement of hip and spine bone
+T4	SYMPTOM 730 760	Intermittent claudication MMII
+T39	SYMPTOM 1313 1336	minimal effort dyspnoea
+T5	SYMPTOM 1365 1375	orthopnoea
+T6	SYMPTOM 1377 1396	paroxysmal dyspnoea
+T9	SYMPTOM 1401 1417	intense asthenia
+T7	SYMPTOM 1422 1432	chest pain
+T8	SYMPTOM 1436 1448	palpitations
+T10	SYMPTOM 1496 1504	asthenia
+T27	SYMPTOM 1508 1531	constitutional syndrome
+T40	SYMPTOM 1851 1861	Tachypnoea
+T11	SYMPTOM 1867 1894	poor tolerance to decubitus
+T12	SYMPTOM 1896 1916	mucocutaneous pallor
+T36	SYMPTOM 1918 1921	MEG
+T13	SYMPTOM 2047 2068	Jugular ingurgitation
+T14	SYMPTOM 2070 2099	Positive hepatojugular reflex
+T15	SYMPTOM 2118 2157	irregular and hypophonetic heart sounds
+T16	SYMPTOM 2166 2173	murmurs
+T41	SYMPTOM 2175 2201	Respiratory sounds present
+T17	SYMPTOM 2207 2234	generalised hypoventilation
+T42	SYMPTOM 2236 2306	Abdomen: globular, soft and depressible, diffusely painful on palpatio
+T33	SYMPTOM 2312 2321	Bloomberg
+T18	SYMPTOM 2326 2332	Murphy
+T19	SYMPTOM 2334 2356	Extremities: no oedema
+T20	SYMPTOM 2426 2446	distal hypoperfusion
+T43	SYMPTOM 2522 2558	centred cardiomediastinal silhouette
+T21	SYMPTOM 2634 2657	Translucent lung fields
+T22	SYMPTOM 2746 2783	enlarged cardiomediastinal silhouette
+T34	SYMPTOM 2811 2844	Bilateral interstitial infiltrate
+T44	SYMPTOM 2850 2885	apical vascular flow redistribution
+T35	SYMPTOM 2893 2902	cysuritis
+T45	SYMPTOM 3087 3117	Negative T waves in DI and aVL
+T23	SYMPTOM 4638 4677	left ventricle with preserved diameters
+T37	SYMPTOM 4679 4713	preserved global systolic function
+T46	SYMPTOM 4726 4746	Atria of normal size
+T29	SYMPTOM 4759 4797	alterations in segmental contractility
+T24	SYMPTOM 4846 4890	Right ventricle with preserved contractility
+T30	SYMPTOM 6091 6219	Diagnostic/therapeutic pericardiocentesis guided by echocardiography was performed and 650 cc of serohematic fluid was extracted
+T25	SYMPTOM 6378 6400	haemodynamic stability
+T31	SYMPTOM 6644 6667	haemodynamic compromise
+T47	SYMPTOM 7013 7070	Pericardiocentesis with drainage of 560 cc serohematic cc

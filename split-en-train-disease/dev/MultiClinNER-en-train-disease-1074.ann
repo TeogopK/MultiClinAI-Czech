@@ -1,0 +1,33 @@
+T35	DISEASE 134 148	drug allergies
+T36	DISEASE 153 165	toxic habits
+T37	DISEASE 233 251	Migraine with aura
+T38	DISEASE 881 905	ventricular fibrillation
+T41	DISEASE 2406 2422	pleural effusion
+T42	DISEASE 2662 2676	valvulopathies
+T43	DISEASE 2733 2756	tricuspid insufficiency
+T6	DISEASE 2758 2760	TI
+T46	DISEASE 2854 2876	pulmonary hypertension
+T7	DISEASE 2878 2881	PHT
+T47	DISEASE 3005 3018	atheromatosis
+T8	DISEASE 3274 3305	interarterial tract of the LMCA
+T9	DISEASE 3399 3446	LMCA with origin in the right sinus of Valsalva
+T48	DISEASE 3648 3714	Origin of the right coronary artery in the right sinus of Valsalva
+T49	DISEASE 3744 3809	origin of the left coronary artery in the right sinus of Valsalva
+T10	DISEASE 3969 3975	angina
+T50	DISEASE 4090 4101	arrhythmias
+T56	DISEASE 4604 4628	cardiorespiratory arrest
+T39	DISEASE 4642 4666	ventricular fibrillation
+T51	DISEASE 4911 4936	pulmonary thromboembolism
+T11	DISEASE 4938 4941	PTE
+T52	DISEASE 4947 4958	aortic flap
+T53	DISEASE 4966 4986	pericardial effusion
+T54	DISEASE 5024 5036	pneumothorax
+T15	DISEASE 5192 5229	haemorrhagic or acute ischaemic event
+T44	DISEASE 5288 5290	it
+T16	DISEASE 5418 5505	anomalous origin of the left main coronary artery (LMCA) in the right sinus of Valsalva
+T58	DISEASE 5656 5673	arrhythmic events
+T18	DISEASE 5857 5916	anomalous origin of the LMCA in the right sinus of Valsalva
+T55	DISEASE 6493 6502	ischaemia
+T57	DISEASE 6515 6539	Cardiorespiratory arrest
+T40	DISEASE 6568 6592	ventricular fibrillation
+T19	DISEASE 6594 6670	Anomalous origin of the left coronary trunk from the right sinus of Valsalva

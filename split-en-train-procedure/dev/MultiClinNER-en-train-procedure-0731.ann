@@ -1,0 +1,17 @@
+T12	PROCEDURE 418 436	surgical treatment
+T14	PROCEDURE 441 476	radiotherapy of the residual breast
+T1	PROCEDURE 549 569	Physical examination
+T16	PROCEDURE 851 905	normal haemogram, general biochemistry and haemostasis
+T2	PROCEDURE 917 931	tumour markers
+T11	PROCEDURE 1021 1033	neuroimaging
+T3	PROCEDURE 1045 1119	computed tomography (CT) and magnetic resonance imaging (MRI) of the brain
+T13	PROCEDURE 1253 1256	CSF
+T24	PROCEDURE 1437 1458	Thoracic-abdominal CT
+T4	PROCEDURE 1460 1471	mammography
+T5	PROCEDURE 1473 1483	breast MRI
+T25	PROCEDURE 1488 1505	bone scintigraphy
+T6	PROCEDURE 1546 1574	Positron emission tomography
+T7	PROCEDURE 1576 1579	PET
+T8	PROCEDURE 1766 1776	Laparotomy
+T9	PROCEDURE 1781 1787	biopsy
+T10	PROCEDURE 1808 1833	anatomopathological study

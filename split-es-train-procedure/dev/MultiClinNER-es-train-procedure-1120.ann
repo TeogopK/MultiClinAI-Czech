@@ -1,0 +1,46 @@
+T45	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T46	PROCEDURE 440 458	electrocardiograma
+T47	PROCEDURE 503 515	TAC torácico
+T48	PROCEDURE 698 713	coronariografía
+T49	PROCEDURE 724 742	Exploración física
+T51	PROCEDURE 959 980	Auscultación cardiaca
+T52	PROCEDURE 1025 1046	Auscultación pulmonar
+T53	PROCEDURE 1271 1274	ECG
+T54	PROCEDURE 1521 1540	Analítica de sangre
+T55	PROCEDURE 1729 1745	Función tiroidea
+T56	PROCEDURE 1767 1789	Metabolismo del hierro
+T57	PROCEDURE 1878 1916	Estudio de autoinmunidad y coagulación
+T58	PROCEDURE 1927 1936	Hemograma
+T59	PROCEDURE 2002 2017	Coronariografía
+T60	PROCEDURE 2019 2030	aortografía
+T61	PROCEDURE 2083 2098	Coronariografía
+T62	PROCEDURE 2617 2654	Intervencionismo coronario percutáneo
+T63	PROCEDURE 2656 2669	ICP sobre TCI
+T64	PROCEDURE 2830 2866	implanta stent directo farmacoactivo
+T65	PROCEDURE 3026 3075	implante de balón de contrapulsación intraaórtico
+T66	PROCEDURE 3077 3082	BCIAo
+T68	PROCEDURE 3115 3143	Ecocardiograma transtorácico
+T70	PROCEDURE 4037 4058	contraste intravenoso
+T71	PROCEDURE 4265 4281	apoyo inotrópico
+T72	PROCEDURE 4297 4329	ventilación mecánica no invasiva
+T73	PROCEDURE 4331 4335	VMNI
+T74	PROCEDURE 4339 4344	BCIAo
+T75	PROCEDURE 4484 4501	retirada de BCIAo
+T76	PROCEDURE 4537 4551	ecocardiograma
+T77	PROCEDURE 4778 4792	ecocardiograma
+T78	PROCEDURE 5034 5038	IECA
+T79	PROCEDURE 5041 5055	betabloqueante
+T80	PROCEDURE 5145 5165	doble antiagregación
+T81	PROCEDURE 5204 5213	diurético
+T82	PROCEDURE 5267 5281	ecocardiograma
+T83	PROCEDURE 5365 5391	implante de DAI subcutáneo
+T85	PROCEDURE 5704 5778	Intervencionismo coronario percutáneo sobre TCI-DA (1 stent farmacoactivo)
+T25	PROCEDURE 1542 1562	marcadores cardiacos
+T26	PROCEDURE 1623 1633	Bioquímica
+T43	PROCEDURE 2791 2815	CVE sincronizada a 100 J
+T112	PROCEDURE 4425 4428	CVE
+T117	PROCEDURE 5843 5869	Implante de DAI subcutáneo
+T148	PROCEDURE 3086 3112	perfusión de noradrenalina
+T120	PROCEDURE 553 577	se activa Código Infarto
+T36	PROCEDURE 4516 4524	inotropo
+T67	PROCEDURE 4615 4635	inotropo intravenoso

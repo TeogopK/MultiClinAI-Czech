@@ -1,0 +1,39 @@
+T28	DISEASE 96 105	exfumador
+T29	DISEASE 389 396	síncope
+T30	DISEASE 509 581	bloqueo auriculoventricular (BAV) completo con elevación del segmento ST
+T31	DISEASE 538 541	BAV
+T33	DISEASE 1075 1087	ateromatosis
+T34	DISEASE 1283 1302	disección coronaria
+T35	DISEASE 2904 2934	Insuficiencia tricúspide aguda
+T36	DISEASE 3008 3033	insuficiencia mitral leve
+T37	DISEASE 3047 3066	derrame pericárdico
+T38	DISEASE 3482 3524	Arteria coronaria derecha: oclusión ostial
+T39	DISEASE 3924 3965	insuficiencia cardiaca (IC) derecha aguda
+T40	DISEASE 4312 4336	oclusión total de la ACD
+T41	DISEASE 4352 4380	trombosis subaguda del stent
+T42	DISEASE 4490 4496	trombo
+T43	DISEASE 5086 5112	infarto agudo de miocardio
+T44	DISEASE 5044 5047	CIV
+T45	DISEASE 5114 5117	IAM
+T46	DISEASE 5530 5550	fracaso respiratorio
+T47	DISEASE 5851 5868	muerte encefálica
+T48	DISEASE 6150 6199	IAM evolucionado inferior y de ventrículo derecho
+T49	DISEASE 6224 6253	Oclusión trombótica de la ACD
+T50	DISEASE 6324 6343	disección coronaria
+T51	DISEASE 6392 6445	Trombosis subaguda de los stents implantados en la CD
+T52	DISEASE 6464 6472	IC aguda
+T53	DISEASE 6475 6521	shock cardiogénico secundario a fracaso del VD
+T54	DISEASE 6523 6556	Rotura del septo interventricular
+T55	DISEASE 2738 2791	disfunción sistólica muy grave del ventrículo derecho
+T56	DISEASE 5973 5996	hipoxemia preoperatoria
+T57	DISEASE 4941 4964	shunt izquierda-derecha
+T58	DISEASE 3730 3736	trombo
+T59	DISEASE 1128 1194	lesión subtotal en el tercio medio de la arteria coronaria derecha
+T60	DISEASE 2617 2639	disfunción leve del VI
+T61	DISEASE 4028 4069	dilatación y disfunción muy graves del VD
+T112	DISEASE 3948 3950	IC
+T24	DISEASE 2697 2733	dilatación de las cavidades derechas
+T27	DISEASE 3406 3427	arterias ateromatosas
+T117	DISEASE 4863 4915	solución de continuidad en el septo interventricular
+T118	DISEASE 5013 5042	comunicación interventricular
+#2	AnnotatorNotes T112	insuficiencia cardiaca

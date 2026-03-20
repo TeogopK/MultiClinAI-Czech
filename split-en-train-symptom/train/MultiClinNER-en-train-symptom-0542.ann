@@ -1,0 +1,18 @@
+T1	SYMPTOM 68 76	jaundice
+T2	SYMPTOM 81 104	constitutional syndrome
+T9	SYMPTOM 196 216	painful hepatomegaly
+T4	SYMPTOM 245 257	leukocytosis
+T13	SYMPTOM 263 275	neutrophilia
+T14	SYMPTOM 280 317	mixed alteration of the liver profile
+T10	SYMPTOM 346 410	alkaline phosphatase and GGT more than 10 times the normal value
+T12	SYMPTOM 415 461	ALT and AST less than 3 times the normal value
+T23	SYMPTOM 545 565	confusional symptoms
+T3	SYMPTOM 602 607	fever
+T5	SYMPTOM 831 847	infectious focus
+T6	SYMPTOM 867 894	blood cultures were sterile
+T15	SYMPTOM 976 1002	liver profile deteriorated
+T26	SYMPTOM 1029 1055	elevation of transaminases
+T11	SYMPTOM 1089 1139	ALT and AST greater than 20 times the normal value
+T7	SYMPTOM 1159 1174	increase in LDH
+T29	SYMPTOM 1208 1251	progressive deterioration of renal function
+T8	SYMPTOM 1466 1470	died

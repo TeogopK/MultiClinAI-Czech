@@ -1,0 +1,21 @@
+T1	SYMPTOM 1123 1156	patrón intersticial lineal difuso
+T2	SYMPTOM 948 956	eupneico
+T3	SYMPTOM 444 483	tos de predominio vespertino y nocturno
+T4	SYMPTOM 522 542	expectoración blanca
+T5	SYMPTOM 562 573	sibilancias
+T6	SYMPTOM 637 673	sensación disneica con los esfuerzos
+T7	SYMPTOM 681 706	perdido unos 5 Kg de peso
+T8	SYMPTOM 716 723	astenia
+T9	SYMPTOM 1424 1440	Mantoux negativo
+T10	SYMPTOM 2636 2648	asintomático
+T11	SYMPTOM 1042 1080	auscultación cardiopulmonar era normal
+T12	SYMPTOM 2727 2746	patrón intersticial
+T13	SYMPTOM 927 946	buen estado general
+T14	SYMPTOM 1245 1312	análisis de sangre con todos los parámetros dentro de la normalidad
+T15	SYMPTOM 1323 1359	autoinmunidad y serologías negativas
+T16	SYMPTOM 1361 1422	pruebas de función respiratoria (PFR) dentro de la normalidad
+A1	RESULTADO T9
+A2	IMAGEN T12
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T16

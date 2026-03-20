@@ -1,0 +1,42 @@
+T2	DISEASE 91 112	arterial hypertension
+T3	DISEASE 117 130	dyslipidaemia
+T4	DISEASE 135 152	diabetes mellitus
+T5	DISEASE 158 164	smoker
+T6	DISEASE 175 187	toxic habits
+T7	DISEASE 236 248	haemorrhoids
+T8	DISEASE 250 262	anal fissure
+T1	DISEASE 264 280	tension headache
+T9	DISEASE 1217 1234	sinus bradycardia
+T35	DISEASE 1461 1467	angina
+T10	DISEASE 2113 2129	pleural effusion
+T29	DISEASE 2502 2524	valvular heart disease
+T11	DISEASE 2586 2606	pericardial effusion
+T37	DISEASE 2840 2859	coronary dissection
+T12	DISEASE 2942 3010	spontaneous coronary artery dissection at first obtuse marginal leve
+T13	DISEASE 3213 3239	coronary artery dissection
+T16	DISEASE 3342 3351	haematoma
+T14	DISEASE 3421 3490	spontaneous coronary artery dissection at first obtuse marginal level
+T23	DISEASE 3733 3749	arteriosclerosis
+T17	DISEASE 3821 3830	haematoma
+T24	DISEASE 4144 4160	arteriosclerosis
+T25	DISEASE 4226 4242	arteriosclerosis
+T18	DISEASE 4244 4343	Haematoma is visualised in the distal anterior descending (AD) artery causing significant stenosis.
+T26	DISEASE 4399 4415	arteriosclerosis
+T27	DISEASE 4465 4481	arteriosclerosis
+T28	DISEASE 4576 4592	arteriosclerosis
+T19	DISEASE 4756 4765	haematoma
+T38	DISEASE 5305 5420	spontaneous coronary dissection in the middle anterior descending artery (mAD) and the first obtuse marginal branch
+T30	DISEASE 5717 5734	myocardial damage
+T40	DISEASE 6116 6130	LAD dissection
+T31	DISEASE 6396 6413	myocardial damage
+T32	DISEASE 6452 6479	acute myocardial infarction
+T33	DISEASE 6815 6829	typical angina
+T20	DISEASE 6932 6941	haematoma
+T34	DISEASE 6955 6978	fibromuscular dysplasia
+T48	DISEASE 6980 6983	FMD
+T21	DISEASE 7036 7045	haematoma
+T44	DISEASE 7060 7181	intramural bleeding located at the origin of the celiac trunk and in the distal portion of the anterior descending artery
+T46	DISEASE 7558 7572	Anterior STEMI
+T15	DISEASE 7574 7700	Killip I. Spontaneous coronary artery dissection of the mid-distal anterior descending artery and first obtuse marginal artery
+T22	DISEASE 7740 7749	haematoma
+T47	DISEASE 7755 7825	signs of intramural bleeding located at the origin of the celiac trunk

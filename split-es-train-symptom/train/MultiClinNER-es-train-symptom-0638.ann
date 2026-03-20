@@ -1,0 +1,13 @@
+T1	SYMPTOM 292 330	exteriorización digestiva del sangrado
+T2	SYMPTOM 707 714	astenia
+T3	SYMPTOM 781 787	pálido
+T4	SYMPTOM 790 798	sudoroso
+T5	SYMPTOM 960 975	heces melénicas
+T6	SYMPTOM 717 724	melenas
+T7	SYMPTOM 391 441	gastroscopia e ileo-colonoscopia) que fue negativa
+T8	SYMPTOM 496 528	ECE que resultó también negativa
+T9	SYMPTOM 1425 1462	gastroscopia urgente que fue negativa
+T10	SYMPTOM 1562 1570	sangrado
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	RESULTADO T9

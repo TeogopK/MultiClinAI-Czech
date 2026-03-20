@@ -1,0 +1,23 @@
+T40	DISEASE 77 91	drug allergies
+T41	DISEASE 96 108	toxic habits
+T45	DISEASE 160 172	hypertension
+T42	DISEASE 183 196	dyslipidaemia
+T43	DISEASE 200 208	diabetes
+T44	DISEASE 210 220	Overweight
+T46	DISEASE 391 403	hypertension
+T48	DISEASE 1651 1671	deep vein thrombosis
+T49	DISEASE 1673 1676	DVT
+T50	DISEASE 2476 2493	Myocardial damage
+T5	DISEASE 2736 2756	pulmonary congestion
+T52	DISEASE 3391 3414	tricuspid insufficiency
+T6	DISEASE 3509 3512	PHT
+T53	DISEASE 3564 3584	pericardial effusion
+T7	DISEASE 3672 3728	Anterior descending artery with proximal subtotal lesion
+T8	DISEASE 3798 3829	Hypodense right coronary artery
+T54	DISEASE 4184 4193	ischaemia
+T51	DISEASE 4502 4519	myocardial damage
+T55	DISEASE 4702 4773	subtotal lesion at the proximal level of the anterior descending artery
+T13	DISEASE 5676 5728	Acute non-ST-segment elevation myocardial infarction
+T12	DISEASE 5730 5736	NSTEMI
+T14	DISEASE 5743 5818	single-vessel coronary artery disease (subtotal lesion of the proximal LAD)
+T47	DISEASE 5989 6001	hypertension

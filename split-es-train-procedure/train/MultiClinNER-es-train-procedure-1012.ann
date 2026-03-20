@@ -1,0 +1,42 @@
+T71	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T72	PROCEDURE 506 531	intervención de cataratas
+T73	PROCEDURE 1121 1139	Exploración física
+T75	PROCEDURE 1597 1618	Auscultación cardiaca
+T76	PROCEDURE 1649 1670	Auscultación pulmonar
+T77	PROCEDURE 1800 1818	Electrocardiograma
+T78	PROCEDURE 1820 1823	ECG
+T79	PROCEDURE 2248 2268	Radiografía de tórax
+T80	PROCEDURE 2310 2347	Tomografía computarizada (TC) craneal
+T81	PROCEDURE 2526 2528	TC
+T82	PROCEDURE 2629 2631	TC
+T83	PROCEDURE 2640 2739	Angio-TC de troncos supraaórticos y polígono de Willis tras administración de contraste intravenoso
+T84	PROCEDURE 2999 3044	TC de perfusión tras la administración de CIV
+T85	PROCEDURE 3148 3182	Resonancia magnética (RM) cerebral
+T86	PROCEDURE 3662 3691	Ecocardiografía transtorácica
+T87	PROCEDURE 4109 4138	Resonancia magnética cardiaca
+T88	PROCEDURE 4140 4143	RMC
+T89	PROCEDURE 4442 4471	Ecocardiografía transtorácica
+T90	PROCEDURE 4537 4546	ecografía
+T91	PROCEDURE 4622 4638	ecocardiografías
+T92	PROCEDURE 4963 4988	tratamiento fibrinolítico
+T93	PROCEDURE 5091 5115	tratamiento endovascular
+T94	PROCEDURE 5178 5180	TC
+T95	PROCEDURE 5293 5304	RM cerebral
+T96	PROCEDURE 5312 5323	angiografía
+T97	PROCEDURE 5524 5553	ecocardiografía transtorácica
+T98	PROCEDURE 5711 5740	resonancia magnética cardiaca
+T99	PROCEDURE 5922 5931	anamnesis
+T100	PROCEDURE 6246 6261	anticoagulación
+T101	PROCEDURE 6514 6535	cateterismo coronario
+T102	PROCEDURE 6817 6832	ecocardiografía
+T103	PROCEDURE 6921 6936	ecocardiografía
+T104	PROCEDURE 7054 7070	ecocardiografías
+T108	PROCEDURE 3187 3195	angio-RM
+T109	PROCEDURE 4915 4923	angio-TC
+T110	PROCEDURE 5479 5507	estudio etiológico del ictus
+T111	PROCEDURE 2336 2338	TC
+T12	PROCEDURE 3170 3172	RM
+T122	PROCEDURE 4146 4172	Secuencia de realce tardío
+T128	PROCEDURE 1426 1455	campimetría por confrontación
+T131	PROCEDURE 4882 4894	código ictus
+T7	PROCEDURE 730 750	soporte vital básico

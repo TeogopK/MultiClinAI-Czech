@@ -1,0 +1,20 @@
+T72	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 772 786	anticoagulated
+T55	PROCEDURE 1042 1062	coronary angiography
+T58	PROCEDURE 1305 1333	transthoracic echocardiogram
+T60	PROCEDURE 2199 2234	non-invasive mechanical ventilation
+T61	PROCEDURE 2246 2268	intravenous medication
+T71	PROCEDURE 2297 2314	inotropic support
+T62	PROCEDURE 2399 2416	electrocardiogram
+T56	PROCEDURE 2618 2638	coronary angiography
+T64	PROCEDURE 2712 2746	cardiac magnetic resonance imaging
+T67	PROCEDURE 3264 3277	lipid profile
+T68	PROCEDURE 4108 4118	sternotomy
+T63	PROCEDURE 4127 4144	Electrocardiogram
+T59	PROCEDURE 4260 4288	Transthoracic echocardiogram
+T57	PROCEDURE 5267 5287	coronary angiography
+T65	PROCEDURE 6332 6343	Cardiac MRI
+T69	PROCEDURE 7764 7782	diuretic treatment
+T66	PROCEDURE 8319 8353	cardiac magnetic resonance imaging
+T70	PROCEDURE 8425 8459	revascularised by quadruple bypass
+T54	PROCEDURE 8669 8683	anticoagulated

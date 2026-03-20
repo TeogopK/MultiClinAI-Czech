@@ -1,0 +1,54 @@
+T39	DISEASE 77 86	allergies
+T40	DISEASE 163 170	obesity
+T88	DISEASE 193 206	Active smoker
+T1	DISEASE 245 257	Hypertension
+T42	DISEASE 281 294	Dyslipidaemia
+T43	DISEASE 319 348	Diabetes mellitus (DM) type 2
+T89	DISEASE 338 340	DM
+T44	DISEASE 444 464	diabetic retinopathy
+T45	DISEASE 469 489	diabetic nephropathy
+T47	DISEASE 491 528	Chronic obstructive pulmonary disease
+T48	DISEASE 530 534	COPD
+T49	DISEASE 547 578	sleep apnoea hypopnoea syndrome
+T50	DISEASE 580 584	SAHS
+T51	DISEASE 730 760	persistent atrial fibrillation
+T53	DISEASE 777 796	tachycardiomyopathy
+T56	DISEASE 2348 2368	deep vein thrombosis
+T57	DISEASE 2370 2373	DVT
+T59	DISEASE 3723 3742	atrial fibrillation
+T63	DISEASE 3774 3808	secondary repolarisation disorders
+T2	DISEASE 3902 3920	atrial enlargement
+T3	DISEASE 3965 4004	Intraventricular conduction disturbance
+T64	DISEASE 4202 4215	heart failure
+T37	DISEASE 4278 4300	dilated left ventricle
+T4	DISEASE 4278 4401	dilated left ventricle (DTd 6.3 cm; VolTd 203 ml), slightly hypertrophic, with severe left ventricular systolic dysfunction
+T86	DISEASE 4583 4605	Biauricular dilatation
+T5	DISEASE 4622 4644	valvular heart disease
+T67	DISEASE 4649 4669	pericardial effusion
+T7	DISEASE 4693 4737	coronary arteries with diffuse atheromatosis
+T69	DISEASE 6029 6054	rapid atrial fibrillation
+T54	DISEASE 6072 6091	tachycardiomyopathy
+T72	DISEASE 6430 6438	diabetic
+T75	DISEASE 6474 6492	metabolic syndrome
+T41	DISEASE 6494 6501	obesity
+T78	DISEASE 6532 6554	cardiovascular disease
+T65	DISEASE 7220 7233	heart failure
+T38	DISEASE 7290 7312	dilated left ventricle
+T87	DISEASE 7571 7593	Biauricular dilatation
+T6	DISEASE 7610 7632	valvular heart disease
+T68	DISEASE 7637 7657	pericardial effusion
+T11	DISEASE 7685 7731	diffuse atheromatosis in the coronary arteries
+T79	DISEASE 7807 7878	a priori non-ischaemic dilated cardiomyopathy decompensated by rapid AF
+T61	DISEASE 8068 8087	atrial fibrillation
+T76	DISEASE 8198 8216	metabolic syndrome
+T81	DISEASE 8221 8238	diabetes mellitus
+T91	DISEASE 9037 9051	renal function
+T12	DISEASE 9128 9131	CKD
+T46	DISEASE 9222 9242	diabetic nephropathy
+T83	DISEASE 9633 9657	Type 2 diabetes mellitus
+T77	DISEASE 9688 9706	Metabolic syndrome
+T66	DISEASE 9708 9721	Heart failure
+T14	DISEASE 9741 9802	Non-ischemic dilated cardiomyopathy decompensated by rapid AF
+T55	DISEASE 9815 9834	tachycardiomyopathy
+T52	DISEASE 9871 9901	persistent atrial fibrillation
+T85	DISEASE 9958 9994	Stage IIIb A2 chronic kidney disease

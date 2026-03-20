@@ -1,0 +1,33 @@
+T4	PROCEDURE 214 234	physical examination
+T8	PROCEDURE 322 340	rectal examination
+T15	PROCEDURE 442 453	Blood tests
+T24	PROCEDURE 459 479	complete blood count
+T16	PROCEDURE 481 493	biochemistry
+T5	PROCEDURE 495 506	coagulation
+T7	PROCEDURE 541 551	Urinalysis
+T9	PROCEDURE 565 579	Urine sediment
+T17	PROCEDURE 628 641	Urine culture
+T1	PROCEDURE 655 669	Urine cytology
+T6	PROCEDURE 714 752	renal, bladder and prostate ultrasound
+T2	PROCEDURE 857 878	Intravenous urography
+T10	PROCEDURE 1045 1063	Cystourethrography
+T3	PROCEDURE 1103 1113	Cystoscopy
+T36	PROCEDURE 1149 1173	abdominal-pelvic CT scan
+T37	PROCEDURE 1432 1455	contrast administration
+T20	PROCEDURE 1513 1516	MRI
+T21	PROCEDURE 1765 1768	MRI
+T22	PROCEDURE 1913 1937	injection of IV contrast
+T23	PROCEDURE 1944 1947	FNA
+T38	PROCEDURE 2076 2093	remove the tumour
+T39	PROCEDURE 2098 2116	bimanual palpation
+T18	PROCEDURE 2141 2162	prostatic compression
+T25	PROCEDURE 2174 2204	median infraumbilical incision
+T19	PROCEDURE 2209 2231	extraperitoneal access
+T26	PROCEDURE 2362 2391	opening the endopelvic fascia
+T27	PROCEDURE 2393 2465	the thin prostatic pedicle on which the mass was dependent was sectioned
+T11	PROCEDURE 2467 2488	Intraoperative biopsy
+T12	PROCEDURE 2565 2578	Prostatectomy
+T14	PROCEDURE 2673 2696	histopathological study
+T13	PROCEDURE 2933 2948	Microscopically
+T45	PROCEDURE 3434 3454	Immunohistochemistry
+T28	PROCEDURE 3833 3836	MRI

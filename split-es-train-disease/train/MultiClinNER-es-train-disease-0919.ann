@@ -1,0 +1,43 @@
+T32	DISEASE 24 76	Alergia a las sulfamidas y al ácido acetilsalicílico
+T33	DISEASE 113 123	dislipemia
+T34	DISEASE 156 173	diabetes mellitus
+T35	DISEASE 178 199	hipertensión arterial
+T36	DISEASE 201 204	HTA
+T37	DISEASE 250 273	estenosis aórtica grave
+T38	DISEASE 519 533	Asma bronquial
+T39	DISEASE 575 592	Trombosis macular
+T40	DISEASE 595 627	desprendimiento de vítreo en ojo
+T41	DISEASE 664 720	Rotura de pelvis en agosto 2017 (isquion derecha y coxis
+T42	DISEASE 855 882	fractura de cuello de fémur
+T43	DISEASE 2225 2250	trombosis venosa profunda
+T44	DISEASE 2252 2255	TVP
+T45	DISEASE 2751 2764	cardiomegalia
+T46	DISEASE 2766 2791	Derrame pleural bilateral
+T47	DISEASE 3214 3310	Válvula mitral fibrocalcificada sobre todo a nivel posterior con regurgitación al menos moderada
+T48	DISEASE 3469 3488	derrame pericárdico
+T49	DISEASE 3708 3723	Estenosis grave
+T50	DISEASE 3783 3812	Insuficiencia mitral moderada
+T51	DISEASE 4034 4055	edema agudo de pulmón
+T52	DISEASE 4173 4275	estenosis e insuficiencia aórtica graves secundaria a disfunción de prótesis valvular aórtica mecánica
+T53	DISEASE 4413 4447	trombosis protésica aguda-subaguda
+T54	DISEASE 4762 4780	shock cardiogénico
+T55	DISEASE 5429 5452	fibrilación ventricular
+T56	DISEASE 5900 5918	shock cardiogénico
+T57	DISEASE 5994 6015	fracaso multiorgánico
+T58	DISEASE 6054 6076	Insuficiencia cardiaca
+T59	DISEASE 6093 6111	edema agudo pulmón
+T60	DISEASE 6113 6193	Trombosis aguda de prótesis aórtica mecánica con estenosis e insuficiencia grave
+T61	DISEASE 6330 6360	Shock cardiogénico refractario
+T62	DISEASE 6380 6401	Fracaso multiorgánico
+T63	DISEASE 2629 2669	Bloqueo de rama izquierda del haz de His
+T64	DISEASE 3414 3425	IT moderada
+T65	DISEASE 5666 5706	disfunción de ventrículo izquierdo grave
+T66	DISEASE 210 225	hábitos tóxicos
+T67	DISEASE 733 755	Fracturaacuñamiento L1
+T68	DISEASE 2671 2676	BRIHH
+T69	DISEASE 2830 2842	edema pulmón
+T70	DISEASE 2881 2917	ventrículo izquierdo con hipertrofia
+T130	DISEASE 3762 3781	insuficiencia grave
+T132	DISEASE 3814 3869	Ventrículo izquierdo (VI) no dilatado, hipertrofia leve
+T135	DISEASE 4896 4978	prótesis aórtica St Jude no 19 bloqueada por la presencia de dos pequeños coágulos
+#1	AnnotatorNotes T64	 IT insuficiencia tricuspídea

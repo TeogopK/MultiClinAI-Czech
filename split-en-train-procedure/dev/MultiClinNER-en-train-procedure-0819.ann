@@ -1,0 +1,48 @@
+T105	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T145	PROCEDURE 354 376	surgical interventions
+T106	PROCEDURE 906 926	Physical examination
+T107	PROCEDURE 1043 1057	oxygen therapy
+T108	PROCEDURE 1159 1179	Cardiac auscultation
+T109	PROCEDURE 1246 1268	Pulmonary auscultation
+T110	PROCEDURE 1490 1493	ECG
+T113	PROCEDURE 1816 1827	Chest X-ray
+T4	PROCEDURE 1947 1950	CBC
+T5	PROCEDURE 1952 1963	haemoglobin
+T115	PROCEDURE 2035 2046	Coagulation
+T138	PROCEDURE 2056 2068	Biochemistry
+T139	PROCEDURE 2108 2120	electrolytes
+T116	PROCEDURE 2129 2171	Hepatobiliary profile and thyroid hormones
+T117	PROCEDURE 2180 2194	Echocardiogram
+T119	PROCEDURE 2453 2460	Doppler
+T134	PROCEDURE 3114 3123	Ergometry
+T120	PROCEDURE 3900 3906	Holter
+T7	PROCEDURE 4031 4057	Cardiac magnetic resonance
+T8	PROCEDURE 4059 4062	CMR
+T123	PROCEDURE 5007 5025	perfusion sequence
+T111	PROCEDURE 5325 5328	ECG
+T124	PROCEDURE 5335 5343	ablation
+T129	PROCEDURE 5685 5702	electrocardiogram
+T10	PROCEDURE 5894 5910	Laboratory tests
+T114	PROCEDURE 5915 5926	chest X-ray
+T118	PROCEDURE 5981 5997	echocardiography
+T130	PROCEDURE 6443 6456	genetic study
+T12	PROCEDURE 6501 6504	CMR
+T132	PROCEDURE 7195 7212	electrophysiology
+T135	PROCEDURE 7232 7241	ergometry
+T121	PROCEDURE 7463 7477	24-hour Holter
+T136	PROCEDURE 7650 7676	electrophysiological study
+T15	PROCEDURE 7678 7681	EPS
+T16	PROCEDURE 7962 7987	infusion of isoproterenol
+T140	PROCEDURE 8213 8235	isoproterenol infusion
+T141	PROCEDURE 8318 8340	isoproterenol infusion
+T144	PROCEDURE 8396 8425	atrial and ventricular pacing
+T17	PROCEDURE 8451 8509	Mitral annulus mapping was performed by retroaortic access
+T125	PROCEDURE 8516 8570	radiofrequency ablation at the left anterolateral leve
+T126	PROCEDURE 8577 8585	ablation
+T127	PROCEDURE 8660 8668	ablation
+T133	PROCEDURE 8735 8752	electrophysiology
+T137	PROCEDURE 8831 8844	serial Holter
+T112	PROCEDURE 8912 8915	ECG
+T131	PROCEDURE 9023 9036	genetic study
+T143	PROCEDURE 9275 9310	screening of first-degree relatives
+T128	PROCEDURE 9553 9605	Successful ablation of the pathway by radiofrequency

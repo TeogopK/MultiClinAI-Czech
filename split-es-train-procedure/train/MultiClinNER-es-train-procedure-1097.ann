@@ -1,0 +1,43 @@
+T74	PROCEDURE 390 408	electrocardiograma
+T75	PROCEDURE 410 413	ECG
+T76	PROCEDURE 571 587	ventriculografía
+T77	PROCEDURE 601 615	ecocardiograma
+T78	PROCEDURE 924 939	betabloqueantes
+T79	PROCEDURE 1086 1100	ecocardiograma
+T80	PROCEDURE 1306 1309	ECG
+T81	PROCEDURE 1423 1434	Cateterismo
+T82	PROCEDURE 1558 1587	resonancia magnética cardiaca
+T83	PROCEDURE 1589 1592	RMC
+T84	PROCEDURE 2314 2332	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 2500 2521	Auscultación cardiaca
+T86	PROCEDURE 2556 2577	Auscultación pulmonar
+T87	PROCEDURE 2741 2744	ECG
+T88	PROCEDURE 3267 3276	Hemograma
+T89	PROCEDURE 3425 3454	Marcadores de daño miocárdico
+T90	PROCEDURE 3521 3536	Ecocardiografía
+T91	PROCEDURE 4198 4208	Ergometría
+T92	PROCEDURE 4213 4237	test de hiperventilación
+T93	PROCEDURE 4250 4274	test de hiperventilación
+T94	PROCEDURE 4772 4793	Cateterismo coronario
+T95	PROCEDURE 5058 5094	Test de vasoespasmo con acetilcolina
+T96	PROCEDURE 5107 5177	test de acetilcolina con dosis crecientes en arbol coronario izquierdo
+T97	PROCEDURE 5215 5218	ECG
+T98	PROCEDURE 5239 5242	ACD
+T99	PROCEDURE 5466 5469	ECG
+T100	PROCEDURE 5772 5775	ECG
+T101	PROCEDURE 5789 5805	coronariografías
+T102	PROCEDURE 5856 5880	test de hiperventilación
+T103	PROCEDURE 5958 6004	test de vasoespasmo coronario con acetilcolina
+T104	PROCEDURE 6144 6177	inyección en la coronaria derecha
+T105	PROCEDURE 6270 6288	electrocardiograma
+T121	PROCEDURE 3013 3023	Bioquímica
+T122	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T123	PROCEDURE 3374 3384	Hemostasia
+T124	PROCEDURE 1019 1023	IECA
+T125	PROCEDURE 1701 1715	betabloqueante
+T126	PROCEDURE 4579 4593	betabloqueante
+T127	PROCEDURE 6332 6346	betabloqueante
+T128	PROCEDURE 962 1017	inhibidor de la enzima de conversión de la angiotensina
+T148	PROCEDURE 3002 3011	Analítica
+T36	PROCEDURE 490 530	se activó inicialmente el código infarto
+T133	PROCEDURE 5496 5531	nitroglicerina (NTG) intracoronaria

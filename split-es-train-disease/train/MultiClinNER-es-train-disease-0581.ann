@@ -1,0 +1,24 @@
+T1	DISEASE 41 64	etilismo crónico activo
+T2	DISEASE 67 89	hepatopatía alcohólica
+T5	DISEASE 3998 4021	cetoacidosis alcohólica
+T7	DISEASE 3308 3335	patología endocraneal aguda
+T8	DISEASE 4023 4026	CAA
+T9	DISEASE 4029 4043	hipofosfatemia
+T10	DISEASE 171 220	cuadro maníaco relacionado con ingesta alcohólica
+T11	DISEASE 4046 4066	hipokaliemia severas
+T14	DISEASE 4068 4087	hipomagnesemia leve
+T16	DISEASE 4114 4203	polirradiculoneurittis aguda sensitivo-motora axonal secundarios a hipo-fosfatemia severa
+T33	DISEASE 2654 2667	hipernatremia
+T41	DISEASE 969 988	acidosis metabólica
+T42	DISEASE 1010 1032	alcalosis respiratoria
+T45	DISEASE 1471 1484	hipopotasemia
+T46	DISEASE 1486 1508	hipo-fosfatemia severa
+T47	DISEASE 1510 1529	hipomagnesemia leve
+T48	DISEASE 1531 1544	hipernatremia
+T85	DISEASE 3367 3393	atrofia corticosubcortical
+T88	DISEASE 954 967	hipopotasemia
+T3	DISEASE 634 660	debilidad facial bilateral
+T4	DISEASE 1566 1604	alteraciones del equilibrio ácido-base
+T6	DISEASE 1857 1880	déficits electrolíticos
+T12	DISEASE 3719 3761	afectación polirradicular sensitivo-motora
+#1	AnnotatorNotes T8	   CAA: ceto-acidosis alcohólica

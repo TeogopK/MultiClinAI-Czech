@@ -1,0 +1,49 @@
+T28	PROCEDURE 7141 7175	limitación de esfuerzo terapéutico
+T80	PROCEDURE 533 631	sustitución valvular aórtica mediante implante de prótesis percutánea (TAVI), por vía transfemoral
+T82	PROCEDURE 1340 1365	TAC craneal sin contraste
+T84	PROCEDURE 1711 1731	radiografía de tórax
+T85	PROCEDURE 2041 2061	radiografía de tórax
+T86	PROCEDURE 2101 2112	hemocultivo
+T87	PROCEDURE 2269 2272	ECG
+T88	PROCEDURE 2289 2293	TAVI
+T89	PROCEDURE 2381 2391	TAC cráneo
+T90	PROCEDURE 2609 2638	Radiografía de tórax portátil
+T91	PROCEDURE 2742 2753	Hemocultivo
+T92	PROCEDURE 2853 2865	auscultación
+T93	PROCEDURE 2924 2927	ECG
+T94	PROCEDURE 3018 3042	cultivo y Gram de esputo
+T95	PROCEDURE 3045 3048	ETT
+T96	PROCEDURE 3079 3095	implante de TAVI
+T97	PROCEDURE 3230 3233	ETT
+T98	PROCEDURE 3529 3532	ECG
+T99	PROCEDURE 3823 3844	hemocultivos seriados
+T100	PROCEDURE 3861 3884	tratamiento antibiótico
+T101	PROCEDURE 4059 4081	oxigenoterapia con VMK
+T102	PROCEDURE 4157 4160	ECG
+T103	PROCEDURE 4419 4453	implante de marcapasos transitorio
+T104	PROCEDURE 4509 4550	implante por vía venosa subclavia derecha
+T105	PROCEDURE 4697 4720	tratamiento antibiótico
+T106	PROCEDURE 4860 4863	ETT
+T107	PROCEDURE 4866 4869	ETE
+T108	PROCEDURE 4967 4988	hemocultivos seriados
+T109	PROCEDURE 5107 5110	ETT
+T110	PROCEDURE 5113 5116	ETE
+T111	PROCEDURE 5801 5804	ETE
+T112	PROCEDURE 6178 6201	tratamiento antibiótico
+T113	PROCEDURE 6392 6404	hemocultivos
+T114	PROCEDURE 6415 6440	implante de MP definitivo
+T115	PROCEDURE 6826 6851	implante de MP definitivo
+T116	PROCEDURE 6964 6974	TAC cráneo
+T117	PROCEDURE 7380 7436	prótesis aórtica biológica implantada por vía percutánea
+T118	PROCEDURE 7642 7689	estimulación urgente con marcapasos transitorio
+T135	PROCEDURE 147 166	tratamiento con ADO
+T136	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T137	PROCEDURE 814 841	Retirada del MP transitorio
+T138	PROCEDURE 1666 1693	se le extrae un hemocultivo
+T140	PROCEDURE 7177 7204	retirada del MP transitorio
+T9	PROCEDURE 5348 5352	TAVI
+T10	PROCEDURE 5806 5810	TAVI
+T23	PROCEDURE 7438 7442	TAVI
+T170	PROCEDURE 3653 3662	analítica
+T171	PROCEDURE 3762 3781	analíticas seriadas
+T179	PROCEDURE 6283 6304	intervención valvular

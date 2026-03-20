@@ -1,0 +1,13 @@
+T1	SYMPTOM 1640 1685	metanefrinas plasmáticas, que fueron normales
+T2	SYMPTOM 272 345	dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita
+T3	SYMPTOM 362 380	cortejo vegetativo
+T4	SYMPTOM 493 523	dolor en fosa ilíaca izquierda
+T5	SYMPTOM 613 765	estudio de coagulación, la bioquímica elemental de sangre, el sistemático de orina, el electrocardiograma y la radiografía simple de tórax eran normales
+T6	SYMPTOM 904 933	líquido libre intraperitoneal
+T7	SYMPTOM 832 840	hematoma
+T8	SYMPTOM 2134 2142	hematoma
+T9	SYMPTOM 2362 2366	masa
+A1	RESULTADO T1
+A2	RESULTADO T5
+A3	IMAGEN T6
+A4	IMAGEN T7

@@ -1,0 +1,47 @@
+T85	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T87	PROCEDURE 586 632	basic cardiopulmonary resuscitation manoeuvres
+T88	PROCEDURE 700 722	orotracheal intubation
+T117	PROCEDURE 741 790	advanced cardiopulmonary resuscitation manoeuvres
+T90	PROCEDURE 875 889	defibrillation
+T91	PROCEDURE 1277 1301	electrical cardioversion
+T93	PROCEDURE 1342 1360	haemodynamic study
+T95	PROCEDURE 1497 1512	catheterisation
+T111	PROCEDURE 1542 1574	cranial CT scan without contrast
+T1	PROCEDURE 1581 1608	chest CT scan with contrast
+T86	PROCEDURE 1788 1808	Physical examination
+T2	PROCEDURE 1923 1998	Intubated and connected to mechanical ventilation, SatO2 100% with FiO2 80%
+T3	PROCEDURE 2088 2169	midazolam and cisatracurium used in the induction prior to orotracheal intubation
+T89	PROCEDURE 2147 2169	orotracheal intubation
+T4	PROCEDURE 2461 2487	Semiautomatic defibrillato
+T92	PROCEDURE 2538 2562	electrical cardioversion
+T97	PROCEDURE 2737 2754	Electrocardiogram
+T98	PROCEDURE 2756 2759	ECG
+T6	PROCEDURE 2900 2918	Venous blood gases
+T116	PROCEDURE 3066 3078	Biochemistry
+T7	PROCEDURE 3420 3429	Haemogram
+T99	PROCEDURE 3544 3555	Coagulation
+T94	PROCEDURE 3629 3647	Haemodynamic study
+T100	PROCEDURE 3726 3742	Ventriculography
+T101	PROCEDURE 3822 3833	Aortography
+T96	PROCEDURE 3983 4005	Chest CT with contrast
+T102	PROCEDURE 4939 4953	CPR manoeuvres
+T103	PROCEDURE 4955 4992	CT scan of the brain without contrast
+T104	PROCEDURE 5034 5048	Echocardiogram
+T105	PROCEDURE 5304 5315	Chest X-ray
+T106	PROCEDURE 5421 5463	Continuous electrocardiographic monitoring
+T108	PROCEDURE 5831 5834	MRI
+T109	PROCEDURE 5979 6016	first-pass myocardial perfusion study
+T110	PROCEDURE 6647 6667	coronary angiography
+T13	PROCEDURE 6725 6735	cranial CT
+T118	PROCEDURE 6740 6763	thoracic CT angiography
+T14	PROCEDURE 6883 6906	therapeutic hypothermia
+T112	PROCEDURE 6920 6935	Echocardioscopy
+T107	PROCEDURE 7195 7237	continuous electrocardiographic monitoring
+T15	PROCEDURE 7492 7502	blood test
+T16	PROCEDURE 7507 7534	arterial blood gas analysis
+T113	PROCEDURE 7601 7620	hypothermia therapy
+T17	PROCEDURE 7815 7833	antibiotic therapy
+T114	PROCEDURE 8010 8019	extubated
+T18	PROCEDURE 8138 8164	Cardiac magnetic resonance
+T19	PROCEDURE 8273 8352	implant a single-chamber automatic implantable cardioverter defibrillator (ICD)
+T115	PROCEDURE 8639 8670	Single-chamber ICD implantation

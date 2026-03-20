@@ -1,0 +1,25 @@
+T11	PROCEDURE 675 695	Physical examination
+T1	PROCEDURE 959 979	Cardiac auscultation
+T2	PROCEDURE 1031 1053	Pulmonary auscultation
+T12	PROCEDURE 1156 1180	neurological examination
+T18	PROCEDURE 1330 1352	urological examination
+T33	PROCEDURE 1463 1472	palpation
+T15	PROCEDURE 1534 1551	transillumination
+T36	PROCEDURE 1603 1623	complete blood count
+T4	PROCEDURE 1722 1733	Coagulation
+T3	PROCEDURE 1758 1770	Biochemistry
+T14	PROCEDURE 1952 1967	Urine: sediment
+T7	PROCEDURE 1994 2008	blood cultures
+T42	PROCEDURE 2051 2081	specific serology for Brucella
+T21	PROCEDURE 2149 2162	imaging tests
+T8	PROCEDURE 2174 2185	chest X-ray
+T5	PROCEDURE 2187 2207	abdominal ultrasound
+T48	PROCEDURE 2209 2224	cranial CT scan
+T49	PROCEDURE 2226 2254	transthoracic echocardiogram
+T6	PROCEDURE 2304 2325	testicular ultrasound
+T10	PROCEDURE 2591 2603	antipyretics
+T54	PROCEDURE 2605 2628	anti-inflammatory drugs
+T13	PROCEDURE 2630 2634	rest
+T19	PROCEDURE 2639 2659	testicular elevation
+T16	PROCEDURE 2674 2694	antibiotic treatment
+T17	PROCEDURE 2966 2986	antibiotic treatment

@@ -1,0 +1,42 @@
+T21	DISEASE 151 158	obesity
+T22	DISEASE 243 258	unstable angina
+T1	DISEASE 304 359	critical lesion of the ostial left main coronary artery
+T23	DISEASE 688 702	valvulopathies
+T24	DISEASE 748 768	autoimmune hepatitis
+T25	DISEASE 1302 1321	hypertensive crisis
+T26	DISEASE 1509 1531	acute pulmonary oedema
+T43	DISEASE 2741 2764	left anterior hemiblock
+T30	DISEASE 2769 2820	subepicardial ischaemia in the anterolateral region
+T27	DISEASE 2851 2873	acute pulmonary oedema
+T2	DISEASE 2925 2973	left ventricle slightly dilated and hypertrophic
+T31	DISEASE 3227 3254	severe aortic insufficiency
+T34	DISEASE 3561 3581	mitral insufficiency
+T3	DISEASE 3583 3585	MI
+T4	DISEASE 3633 3663	severe tricuspid insufficiency
+T5	DISEASE 3665 3667	TI
+T6	DISEASE 3773 3831	occlusion of the right coronary artery at the ostial level
+T44	DISEASE 4085 4126	left subclavian artery, which is occluded
+T7	DISEASE 4162 4253	occlusion at the origin of the left vertebral artery, and of the superior mesenteric artery
+T35	DISEASE 4283 4328	hypertrophy of the pancreaticoduodenal arcade
+T45	DISEASE 4381 4392	ulcerations
+T8	DISEASE 4394 4404	dissection
+T36	DISEASE 4408 4416	aneurysm
+T46	DISEASE 4470 4478	Syphilis
+T9	DISEASE 4540 4597	aortic valve with presence of myxoid degenerative changes
+T10	DISEASE 4727 4746	ostial LMCA disease
+T28	DISEASE 4843 4865	acute pulmonary oedema
+T11	DISEASE 4977 4990	valve disease
+T32	DISEASE 5363 5390	severe aortic insufficiency
+T12	DISEASE 5392 5395	AIo
+T13	DISEASE 5571 5603	ischaemic alterations in the ECG
+T14	DISEASE 5836 5881	occlusion of the ostial right coronary artery
+T37	DISEASE 6049 6072	ostial coronary lesions
+T33	DISEASE 6077 6104	severe aortic insufficiency
+T38	DISEASE 6151 6173	autoimmune involvement
+T39	DISEASE 6262 6270	aortitis
+T40	DISEASE 6526 6534	aortitis
+T41	DISEASE 6553 6576	large vessel vasculitis
+T29	DISEASE 6923 6945	acute pulmonary oedema
+T15	DISEASE 7590 7643	cardiogenic shock related to perioperative infarction
+T42	DISEASE 7818 7837	multi-organ failure
+T16	DISEASE 7870 7928	Vasculitis of large vessels of the Takayasu arteritis type

@@ -1,0 +1,66 @@
+T2	SYMPTOM 423 429	disnea
+T3	SYMPTOM 854 917	dolor torácico opresivo, irradiado a miembro superior izquierdo
+T4	SYMPTOM 923 941	cortejo vegetativo
+T5	SYMPTOM 1039 1075	leve molestia en hemitórax izquierdo
+T6	SYMPTOM 1225 1232	afebril
+T7	SYMPTOM 1234 1244	Consciente
+T8	SYMPTOM 1246 1255	orientada
+T9	SYMPTOM 1257 1271	normocoloreada
+T10	SYMPTOM 1274 1289	bien perfundida
+T11	SYMPTOM 1311 1326	plétora yugular
+T12	SYMPTOM 1328 1358	Auscultación cardiaca: rítmica
+T13	SYMPTOM 1364 1370	soplos
+T14	SYMPTOM 1395 1424	murmullo vesicular conservado
+T15	SYMPTOM 1426 1442	Abdomen: anodino
+T16	SYMPTOM 1519 1566	Pulso pedio derecho presente, izquierdo ausente
+T17	SYMPTOM 1571 1577	edemas
+T18	SYMPTOM 1694 1706	QRS estrecho
+T19	SYMPTOM 1723 1756	alteraciones de la repolarización
+T20	SYMPTOM 1758 1768	QTc normal
+T21	SYMPTOM 2267 2299	Quilomicrones en suero negativos
+T22	SYMPTOM 2334 2362	índice cardiotorácico normal
+T24	SYMPTOM 2391 2431	condensaciones en el parénquima pulmonar
+T25	SYMPTOM 2518 2555	ventrículo izquierdo (VI) no dilatado
+T26	SYMPTOM 2608 2656	Función sistólica global moderadamente deprimida
+T29	SYMPTOM 3337 3342	dolor
+T30	SYMPTOM 3413 3438	elevación del ST en V3-V5
+T31	SYMPTOM 3462 3486	onda T negativa en V2-V6
+T32	SYMPTOM 3963 4000	ventrículo izquierdo de tamaño normal
+T33	SYMPTOM 4564 4593	Raíz aórtica de tamaño normal
+T34	SYMPTOM 5043 5083	Ondas T negativas y profundas de V2 a V6
+T35	SYMPTOM 5085 5102	ondas T negativas
+T36	SYMPTOM 5194 5227	alteraciones de la repolarización
+T37	SYMPTOM 5229 5267	elevación de troponina T ultrasensible
+T38	SYMPTOM 5721 5726	dolor
+T40	SYMPTOM 6059 6073	dolor torácico
+T41	SYMPTOM 6136 6172	elevación del segmento ST de V3 a V5
+T42	SYMPTOM 6766 6774	malestar
+T43	SYMPTOM 6798 6809	hipotensión
+T44	SYMPTOM 6855 6888	deterioro del nivel de conciencia
+T45	SYMPTOM 7667 7675	sangrado
+T46	SYMPTOM 8092 8100	sangrado
+T47	SYMPTOM 8614 8620	Anuria
+T48	SYMPTOM 8794 8811	hipotensión grave
+T49	SYMPTOM 11480 11506	FEVI ligeramente deprimida
+T213	SYMPTOM 9418 9438	hipotensión arterial
+T218	SYMPTOM 7589 7634	sangrado activo en la región apical infartada
+T220	SYMPTOM 7782 7790	sangrado
+T222	SYMPTOM 9272 9280	sangrado
+T224	SYMPTOM 6776 6795	taquicardia sinusal
+T1	SYMPTOM 2433 2459	Senos costofrénicos libres
+T23	SYMPTOM 2672 2680	acinesia
+T201	SYMPTOM 2792 2817	Raíz de aorta no dilatada
+T27	SYMPTOM 3049 3101	Ventrículo derecho (VD) no dilatado, normocontráctil
+T28	SYMPTOM 3570 3603	Tronco coronario izquierdo normal
+T202	SYMPTOM 4153 4188	Aquinesia de los segmentos apicales
+T203	SYMPTOM 5270 5285	acinesia apical
+T204	SYMPTOM 5728 5768	hemodinámica y respiratoriamente estable
+T243	SYMPTOM 5829 5848	estabilidad clínica
+T246	SYMPTOM 3720 3764	Circunfleja y coronaria derecha sin lesiones
+T263	SYMPTOM 2368 2386	signos congestivos
+T265	SYMPTOM 4437 4467	vena cava inferior no dilatada
+T39	SYMPTOM 3393 3408	Onda Q en V3-V4
+T206	SYMPTOM 6999 7031	compromiso de cavidades derechas
+T207	SYMPTOM 7142 7213	pericardiocentesis de urgencia con salida escasa de líquido hemorrágico
+T212	SYMPTOM 8860 8916	débito hemático rápido en los tubos de drenaje torácicos
+T217	SYMPTOM 11272 11276	AESP

@@ -1,0 +1,12 @@
+T2	PROCEDURE 99 119	Physical examination
+T10	PROCEDURE 212 224	was biopsied
+T11	PROCEDURE 270 277	CT scan
+T12	PROCEDURE 365 376	Blood tests
+T7	PROCEDURE 530 547	chemoradiotherapy
+T8	PROCEDURE 594 624	hyperfractionated radiotherapy
+T3	PROCEDURE 821 841	physical examination
+T17	PROCEDURE 846 853	CT scan
+T5	PROCEDURE 1114 1125	Gastroscopy
+T6	PROCEDURE 1296 1302	biopsy
+T1	PROCEDURE 1418 1430	transfusions
+T21	PROCEDURE 1535 1609	Palliative radiotherapy treatment was then started with haemostatic intent

@@ -1,0 +1,49 @@
+T83	PROCEDURE 464 478	amigdalectomía
+T84	PROCEDURE 661 679	electrocardiograma
+T85	PROCEDURE 681 684	ECG
+T86	PROCEDURE 1594 1612	Exploración física
+T87	PROCEDURE 1807 1830	Exploración neurológica
+T88	PROCEDURE 1904 1936	Auscultación cardiaca y pulmonar
+T89	PROCEDURE 2115 2124	palpación
+T90	PROCEDURE 2269 2272	ECG
+T91	PROCEDURE 2274 2277	ECG
+T92	PROCEDURE 2456 2459	ECG
+T93	PROCEDURE 2465 2468	CVE
+T94	PROCEDURE 2619 2622	ECG
+T95	PROCEDURE 2719 2739	Radiografía de tórax
+T96	PROCEDURE 2869 2878	Hemograma
+T97	PROCEDURE 3287 3301	Ecocardiograma
+T98	PROCEDURE 3674 3700	Estudio electrofisiológico
+T99	PROCEDURE 3702 3705	EEF
+T100	PROCEDURE 3726 3729	ECG
+T101	PROCEDURE 4572 4575	ECG
+T102	PROCEDURE 4652 4655	ECG
+T103	PROCEDURE 4798 4825	cardioversión farmacológica
+T104	PROCEDURE 4990 5013	cardioversión eléctrica
+T105	PROCEDURE 5015 5018	CVE
+T106	PROCEDURE 5084 5087	ECG
+T107	PROCEDURE 5209 5212	ECG
+T108	PROCEDURE 5329 5352	monitorización continua
+T109	PROCEDURE 5523 5544	estudios morfológicos
+T110	PROCEDURE 5549 5577	ecocardiograma transtorácico
+T111	PROCEDURE 5579 5582	ETT
+T112	PROCEDURE 5683 5711	ablación de la vía accesoria
+T113	PROCEDURE 5784 5787	EEF
+T114	PROCEDURE 6010 6013	ECG
+T115	PROCEDURE 6164 6167	ECG
+T116	PROCEDURE 6242 6307	Ablación de vía accesoria lateral izquierda y posterior izquierda
+T118	PROCEDURE 4920 4928	sedación
+T121	PROCEDURE 3029 3039	Bioquímica
+T122	PROCEDURE 5093 5096	CVE
+T123	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T124	PROCEDURE 3199 3209	Hemostasia
+T125	PROCEDURE 5492 5506	monitorización
+T126	PROCEDURE 4121 4197	se induce taquicardia ortodrómica por otra vía accesoria posterior izquierda
+T167	PROCEDURE 2858 2867	Analítica
+T172	PROCEDURE 436 462	Intervenciones quirúrgicas
+T20	PROCEDURE 3774 3810	se accede por vía aórtica retrógrada
+T21	PROCEDURE 4211 4219	ablación
+T22	PROCEDURE 3813 3869	se localiza catéter de ablación en anillo mitral lateral
+T33	PROCEDURE 5803 5882	vías accesorias (lateral izquierda y posterior izquierda) y se realiza ablación
+#3	AnnotatorNotes T93	 cardioversión eléctrica
+#4	AnnotatorNotes T99	 estudio electtrofisiológico

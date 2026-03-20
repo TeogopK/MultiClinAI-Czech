@@ -1,0 +1,26 @@
+T34	DISEASE 77 91	drug allergies
+T33	DISEASE 252 258	Smoker
+T35	DISEASE 286 293	drinker
+T1	DISEASE 297 309	hypertension
+T20	DISEASE 311 313	DM
+T2	DISEASE 317 319	LD
+T36	DISEASE 352 371	reactive depression
+T21	DISEASE 460 467	syncope
+T22	DISEASE 475 482	syncope
+T25	DISEASE 1328 1341	heart failure
+T9	DISEASE 1366 1380	LV enlargement
+T8	DISEASE 1434 1455	LA moderately dilated
+T26	DISEASE 1477 1503	LV with severe hypertrophy
+T7	DISEASE 1583 1593	Mitral SAM
+T27	DISEASE 1595 1611	LVOT obstruction
+T6	DISEASE 1654 1673	Severe eccentric MI
+T23	DISEASE 1778 1785	syncope
+T28	DISEASE 1960 1988	left ventricular hypertrophy
+T30	DISEASE 2070 2109	obstructive hypertrophic cardiomyopathy
+T29	DISEASE 2176 2193	atrial dilatation
+T5	DISEASE 2198 2247	obstruction of the left ventricular outflow tract
+T37	DISEASE 2313 2330	arrhythmic events
+T31	DISEASE 2387 2414	hypertrophic cardiomyopathy
+T38	DISEASE 2428 2440	sudden death
+T32	DISEASE 2743 2770	hypertrophic cardiomyopathy
+T24	DISEASE 2782 2789	syncope

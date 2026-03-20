@@ -1,0 +1,63 @@
+T51	SYMPTOM 296 377	central thoracic pressure radiating to the left upper extremity (ESI) on exertion
+T1	SYMPTOM 527 587	oppressive precordial pain radiating to the shoulder and LTE
+T2	SYMPTOM 702 706	pain
+T6	SYMPTOM 719 731	sinus rhythm
+T52	SYMPTOM 737 760	negative T wave in V4-6
+T10	SYMPTOM 931 941	chest pain
+T4	SYMPTOM 1031 1035	pain
+T53	SYMPTOM 1168 1190	electrical alterations
+T12	SYMPTOM 1285 1297	asymptomatic
+T15	SYMPTOM 1334 1343	conscious
+T16	SYMPTOM 1348 1356	oriented
+T17	SYMPTOM 1358 1371	normohydrated
+T18	SYMPTOM 1376 1389	well perfused
+T19	SYMPTOM 1391 1406	Eupneic at rest
+T20	SYMPTOM 1424 1440	respiratory work
+T21	SYMPTOM 1445 1447	IY
+T22	SYMPTOM 1457 1473	congestive signs
+T23	SYMPTOM 1475 1487	AC: rhythmic
+T24	SYMPTOM 1507 1514	murmurs
+T3	SYMPTOM 1518 1535	audible extratono
+T38	SYMPTOM 1542 1572	normoventilation in all fields
+T54	SYMPTOM 1574 1597	Abdomen was nondescript
+T55	SYMPTOM 1599 1613	LES: no oedema
+T25	SYMPTOM 1617 1629	signs of DVT
+T7	SYMPTOM 1659 1671	sinus rhythm
+T26	SYMPTOM 1684 1693	normal PR
+T29	SYMPTOM 1695 1705	narrow QRS
+T56	SYMPTOM 1707 1741	negative T wave in V4-6, I and AVL
+T8	SYMPTOM 1750 1762	sinus rhythm
+T27	SYMPTOM 1774 1783	normal PR
+T30	SYMPTOM 1785 1795	narrow QRS
+T57	SYMPTOM 1800 1828	repolarisation abnormalities
+T9	SYMPTOM 1837 1849	sinus rhythm
+T28	SYMPTOM 1861 1870	normal PR
+T31	SYMPTOM 1872 1882	narrow QRS
+T32	SYMPTOM 1884 1919	negative T wave in V4-V6, I and AVL
+T33	SYMPTOM 2403 2438	normal cardiomediastinal silhouette
+T58	SYMPTOM 2448 2477	pleuroparenchymal alterations
+T59	SYMPTOM 2528 2542	non-dilated LV
+T60	SYMPTOM 2595 2629	Global systolic function preserved
+T45	SYMPTOM 2679 2703	Normal diastolic pattern
+T61	SYMPTOM 2735 2770	Right chambers of normal dimensions
+T62	SYMPTOM 2772 2791	RV normocontractile
+T63	SYMPTOM 2826 2839	MV thin veils
+T34	SYMPTOM 2982 3003	Estimated normal PAPs
+T35	SYMPTOM 3032 3052	intracavitary masses
+T39	SYMPTOM 3097 3143	left common trunk without angiographic disease
+T47	SYMPTOM 3230 3237	milking
+T40	SYMPTOM 3278 3298	angiographic disease
+T64	SYMPTOM 3300 3360	Circumflex: very looped vessel, without angiographic disease
+T46	SYMPTOM 3362 3386	Right coronary: dominant
+T48	SYMPTOM 3643 3650	milking
+T41	SYMPTOM 3667 3711	physical examination was normal at all times
+T42	SYMPTOM 3828 3890	chest X-ray was performed, showing no radiological alterations
+T43	SYMPTOM 3918 3975	echocardiogram was performed with no findings of interest
+T36	SYMPTOM 4180 4202	haemodynamic stability
+T44	SYMPTOM 4415 4435	angiographic disease
+T49	SYMPTOM 4508 4515	milking
+T13	SYMPTOM 4538 4550	asymptomatic
+T14	SYMPTOM 4836 4848	asymptomatic
+T11	SYMPTOM 4937 4947	Chest pain
+T50	SYMPTOM 5102 5109	milking
+T37	SYMPTOM 5111 5138	Preserved systolic function

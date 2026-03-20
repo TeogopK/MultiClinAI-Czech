@@ -1,0 +1,59 @@
+T1	SYMPTOM 689 697	bleeding
+T4	SYMPTOM 1316 1328	sinus rhythm
+T7	SYMPTOM 1524 1553	normal biventricular function
+T34	SYMPTOM 1558 1592	normofunctioning aortic prosthesis
+T35	SYMPTOM 2097 2119	amnesia of the episode
+T8	SYMPTOM 2192 2203	hypotension
+T30	SYMPTOM 2208 2219	bradycardia
+T9	SYMPTOM 2259 2298	haemodynamically and respiratory stable
+T5	SYMPTOM 2350 2362	sinus rhythm
+T2	SYMPTOM 2464 2484	midline displacement
+T31	SYMPTOM 2693 2724	paresis of the right lower limb
+T32	SYMPTOM 3219 3230	bradycardia
+T33	SYMPTOM 3326 3337	bradycardia
+T10	SYMPTOM 3678 3693	active bleeding
+T11	SYMPTOM 3805 3831	good respiratory mechanics
+T12	SYMPTOM 3836 3857	crepitus on palpation
+T13	SYMPTOM 3883 3909	preserved vesicular murmur
+T3	SYMPTOM 3914 3933	pathological sounds
+T43	SYMPTOM 3957 3979	muffled, rhythmic tone
+T14	SYMPTOM 3982 4006	prosthetic opening click
+T15	SYMPTOM 4011 4018	murmurs
+T42	SYMPTOM 4022 4032	extratones
+T16	SYMPTOM 4034 4089	Abdomen: inspection: abdomen not distended, not painful
+T17	SYMPTOM 4127 4139	rectorrhagia
+T44	SYMPTOM 4141 4166	Back: no painful stitches
+T45	SYMPTOM 4183 4211	Extremities: no excoriations
+T18	SYMPTOM 4232 4249	joint instability
+T36	SYMPTOM 4504 4564	blood cultures (08/01/18): in two sets Enterococcus faecalis
+T19	SYMPTOM 4807 4823	normal platelets
+T20	SYMPTOM 4825 4842	normal leukocytes
+T46	SYMPTOM 4849 4876	elevated C-reactive protein
+T21	SYMPTOM 4924 4957	renal profile without alterations
+T22	SYMPTOM 5055 5095	normal liver profile and thyroid profile
+T23	SYMPTOM 5143 5155	leukocytosis
+T24	SYMPTOM 5159 5171	neutrophilia
+T6	SYMPTOM 5206 5218	sinus rhythm
+T47	SYMPTOM 5230 5239	Left axis
+T25	SYMPTOM 5241 5251	narrow QRS
+T48	SYMPTOM 5296 5322	repolarisation alterations
+T49	SYMPTOM 5422 5442	midline displacement
+T50	SYMPTOM 5444 5509	Inflammatory changes in the left middle ear and maxillary sinuses
+T51	SYMPTOM 5566 5626	left ventricle not dilated, with preserved systolic function
+T37	SYMPTOM 5628 5650	Normal right ventricle
+T52	SYMPTOM 6091 6121	Inferior vena cava not dilated
+T38	SYMPTOM 6247 6267	Atrial septum intact
+T39	SYMPTOM 6328 6396	Pericardium of normal thickness and refractoriness, without effusion
+T53	SYMPTOM 6411 6453	increased aortic transprosthetic gradients
+T54	SYMPTOM 7460 7496	Normal functioning aortic prosthesis
+T55	SYMPTOM 7747 7785	Normally functioning aortic prosthesis
+T28	SYMPTOM 8516 8527	fever peaks
+T56	SYMPTOM 8548 8595	Enterococcus faecalis growing in blood cultures
+T57	SYMPTOM 8611 8658	positive urine culture for Citrobacter freundii
+T58	SYMPTOM 10093 10122	sudden pain in the left flank
+T26	SYMPTOM 10128 10148	elevated LDH and CRP
+T27	SYMPTOM 10747 10755	afebrile
+T40	SYMPTOM 10777 10807	sterile control blood cultures
+T29	SYMPTOM 11478 11483	fever
+T59	SYMPTOM 11487 11518	positive control blood cultures
+T41	SYMPTOM 11845 11862	clinically stable

@@ -1,0 +1,52 @@
+T38	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T39	PROCEDURE 582 599	antiinflamatorios
+T40	PROCEDURE 888 940	maniobras de reanimación cardiopulmonar (RCP) básica
+T41	PROCEDURE 929 932	RCP
+T42	PROCEDURE 1105 1117	RCP avanzada
+T43	PROCEDURE 1123 1145	intubación orotraqueal
+T44	PROCEDURE 1148 1177	ventilación mecánica invasiva
+T45	PROCEDURE 1185 1203	electrocardiograma
+T46	PROCEDURE 1205 1208	ECG
+T47	PROCEDURE 1419 1437	Exploración física
+T48	PROCEDURE 1633 1662	ventilación mecánica invasiva
+T49	PROCEDURE 1719 1740	Auscultación cardiaca
+T50	PROCEDURE 1796 1817	Auscultación pulmonar
+T51	PROCEDURE 1973 1982	Hemograma
+T52	PROCEDURE 2218 2233	Perfil lipídico
+T53	PROCEDURE 2536 2547	Coagulación
+T54	PROCEDURE 2693 2712	Gasometría arterial
+T55	PROCEDURE 2776 2779	ECG
+T56	PROCEDURE 2905 2936	Angio-TC de arterias pulmonares
+T57	PROCEDURE 3011 3037	TC de cráneo sin contraste
+T58	PROCEDURE 3083 3097	Ecocardiograma
+T59	PROCEDURE 3322 3337	Coronariografía
+T60	PROCEDURE 3583 3676	Intervencionismo coronario percutáneo a DA: se implanta balón de contrapulsación intraaórtico
+T62	PROCEDURE 3702 3706	IVUS
+T64	PROCEDURE 3773 3850	se realiza implante de tres stents farmacoactivos desde DA distal a DA ostial
+T65	PROCEDURE 3896 3924	Ecocardiograma con contraste
+T67	PROCEDURE 4139 4142	ECG
+T68	PROCEDURE 4258 4275	angio-TC pulmonar
+T69	PROCEDURE 4278 4288	TC craneal
+T70	PROCEDURE 4306 4321	ecocardioscopia
+T71	PROCEDURE 4434 4440	sedada
+T73	PROCEDURE 4670 4684	ecocardiograma
+T74	PROCEDURE 4840 4843	ECG
+T75	PROCEDURE 4917 4942	coronariografía emergente
+T76	PROCEDURE 5060 5180	implantándose tres stents farmacoactivos con buen resultado angiográfico, así como balón de contrapulsación intraaórtico
+T78	PROCEDURE 5246 5289	retirada del soporte con aminas y del BCIAo
+T79	PROCEDURE 5584 5609	tratamiento neurohormonal
+T80	PROCEDURE 5670 5674	IECA
+T81	PROCEDURE 5678 5693	betabloqueantes
+T82	PROCEDURE 5718 5732	ecocardiograma
+T83	PROCEDURE 5860 5888	ecocardiograma con contraste
+T84	PROCEDURE 6004 6033	triple terapia antitrombótica
+T85	PROCEDURE 6038 6058	doble antiagregación
+T86	PROCEDURE 6522 6598	implante de tres stents solapados farmacoactivos desde DA distal a DA ostial
+T91	PROCEDURE 1604 1619	Sedoanalgesiada
+T116	PROCEDURE 2080 2090	Bioquímica
+T104	PROCEDURE 5614 5668	inhibidores de la enzima conversora de la angiotensina
+T121	PROCEDURE 1962 1971	Analítica
+T137	PROCEDURE 288 311	intervención quirúrgica
+T148	PROCEDURE 4446 4472	perfusión de noradrenalina
+T123	PROCEDURE 1319 1346	se activa el Código Infarto
+T98	PROCEDURE 4110 4134	se activa Código Infarto

@@ -1,0 +1,27 @@
+T1	SYMPTOM 110 115	fever
+T20	SYMPTOM 839 856	febrile condition
+T7	SYMPTOM 1193 1205	asymptomatic
+T6	SYMPTOM 1210 1218	afebrile
+T12	SYMPTOM 1654 1677	fever of unknown origin
+T3	SYMPTOM 1710 1715	fever
+T26	SYMPTOM 1895 1908	normal colour
+T27	SYMPTOM 1913 1930	normally perfused
+T8	SYMPTOM 1963 1970	murmurs
+T10	SYMPTOM 2002 2028	preserved vesicular murmur
+T32	SYMPTOM 2049 2056	rhonchi
+T33	SYMPTOM 2058 2066	crackles
+T34	SYMPTOM 2070 2078	wheezing
+T35	SYMPTOM 2084 2107	abdomen was not painful
+T2	SYMPTOM 2189 2204	infectious foci
+T9	SYMPTOM 2253 2264	meningismus
+T15	SYMPTOM 2266 2297	strength or sensitivity deficit
+T16	SYMPTOM 2302 2357	alteration of cranial nerves or osteotendinous reflexes
+T13	SYMPTOM 2471 2494	fever of unknown origin
+T37	SYMPTOM 2641 2674	normal renal and hepatic function
+T38	SYMPTOM 2680 2696	normal glycaemia
+T39	SYMPTOM 2809 2852	Chest X-ray showed no pathological findings
+T11	SYMPTOM 3080 3114	normofunctioning aortic prosthesis
+T4	SYMPTOM 3173 3219	tracer deposits in the thoracoabdominal region
+T14	SYMPTOM 3246 3269	fever of unknown origin
+T5	SYMPTOM 3772 3815	all four were positive for Leuconostoc spp.
+T49	SYMPTOM 4218 4225	febrile

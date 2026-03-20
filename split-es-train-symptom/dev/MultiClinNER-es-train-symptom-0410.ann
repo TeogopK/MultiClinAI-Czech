@@ -1,0 +1,10 @@
+T1	SYMPTOM 258 280	masa irregular frontal
+T2	SYMPTOM 370 503	desarrollo de la trama vascular de la calota craneal, a cargo de las arterias temporales superficiales y sus ramas venosas de retorno
+T3	SYMPTOM 546 568	antecedente traumático
+T4	SYMPTOM 2306 2316	hemorragia
+T5	SYMPTOM 1983 1991	sangrado
+T6	SYMPTOM 954 1012	RM cerebral no se evidenciaron alteraciones significativas
+T7	SYMPTOM 814 856	exploración física y neurológica es normal
+T8	SYMPTOM 1117 1159	nido vascular epicraneal frontal izquierdo
+A1	IMAGEN T6
+A2	IMAGEN T8

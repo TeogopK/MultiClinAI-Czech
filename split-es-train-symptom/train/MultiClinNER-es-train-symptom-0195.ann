@@ -1,0 +1,33 @@
+T1	SYMPTOM 108 120	bradipsiquia
+T2	SYMPTOM 2671 2694	deterioro de conciencia
+T3	SYMPTOM 122 136	desorientación
+T4	SYMPTOM 139 146	estupor
+T5	SYMPTOM 2733 2739	disnea
+T6	SYMPTOM 2187 2209	incontinencia urinaria
+T7	SYMPTOM 338 367	colapso del tercer ventrículo
+T8	SYMPTOM 370 409	dilatación de los ventrículos laterales
+T9	SYMPTOM 887 897	hemorragia
+T10	SYMPTOM 94 106	convulsiones
+T11	SYMPTOM 903 966	gammagrafía con 99mTecnecio fue positiva en el campo quirúrgico
+T12	SYMPTOM 972 1004	análisis de laboratorio normales
+T13	SYMPTOM 1385 1396	efecto masa
+T14	SYMPTOM 2256 2345	proceso expansivo frontoparietal, extendido al lóbulo frontal derecho y al cuerpo calloso
+T15	SYMPTOM 73 92	déficit intelectual
+T16	SYMPTOM 285 296	efecto masa
+T17	SYMPTOM 639 683	Masa de 5'2x4'5 cms parcialmente calcificada
+T18	SYMPTOM 2165 2184	déficit intelectual
+T19	SYMPTOM 2390 2428	nódulos metastásicos en ambos pulmones
+T20	SYMPTOM 1072 1082	hidrotórax
+T21	SYMPTOM 1360 1379	colección de sangre
+T22	SYMPTOM 1399 1418	colapso ventricular
+A1	IMAGEN T7
+A2	IMAGEN T8
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	IMAGEN T13
+A6	IMAGEN T14
+A7	IMAGEN T16
+A8	IMAGEN T19
+A9	IMAGEN T20
+A10	IMAGEN T21
+A11	IMAGEN T22

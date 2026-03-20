@@ -1,0 +1,53 @@
+T89	PROCEDURE 620 639	mastectomía radical
+T90	PROCEDURE 641 656	linfadenectomia
+T91	PROCEDURE 659 677	quimioradioterapia
+T92	PROCEDURE 1280 1307	interrogatorio por aparatos
+T93	PROCEDURE 1310 1328	Exploración física
+T94	PROCEDURE 1465 1486	Auscultación cardiaca
+T95	PROCEDURE 1652 1673	Auscultación pulmonar
+T96	PROCEDURE 1748 1766	palpación profunda
+T97	PROCEDURE 1975 1998	ecoscopia a pie de cama
+T98	PROCEDURE 2562 2580	Electrocardiograma
+T99	PROCEDURE 2819 2828	Hemograma
+T100	PROCEDURE 3187 3196	Hemograma
+T101	PROCEDURE 3521 3535	Ecocardiograma
+T102	PROCEDURE 4148 4163	Coronariografía
+T103	PROCEDURE 4521 4547	TAC torácico sin contraste
+T104	PROCEDURE 4731 4746	Coronariografía
+T105	PROCEDURE 4761 4844	angioplastia coronaria transluminal percutánea (ACTP) sobre las lesiones de DA y CD
+T106	PROCEDURE 4809 4813	ACTP
+T107	PROCEDURE 4849 4914	implante de sendosstents farmacoactivos liberadores de everolimus
+T109	PROCEDURE 4949 4965	Implante de TAVI
+T110	PROCEDURE 4972 4996	valvuloplastia con balón
+T111	PROCEDURE 5009 5042	implante de prótesis SAPIEN ULTRA
+T113	PROCEDURE 5731 5748	terapia diurética
+T114	PROCEDURE 5902 5928	terapia de ultrafiltración
+T115	PROCEDURE 5936 5960	estudio ecocardiográfico
+T116	PROCEDURE 6095 6110	coronariografía
+T117	PROCEDURE 6249 6275	TAC torácico sin contraste
+T118	PROCEDURE 6365 6393	recambio valvular quirúrgico
+T119	PROCEDURE 6648 6700	canulación para entrada en circulación extracorpórea
+T120	PROCEDURE 6803 6835	valvuloplastia aórtica con balón
+T121	PROCEDURE 6850 6854	TAVI
+T122	PROCEDURE 6967 7022	revascularización percutánea de las lesiones coronarias
+T123	PROCEDURE 7035 7071	recambio valvular aórtico percutáneo
+T124	PROCEDURE 7331 7386	revascularización percutánea de las lesiones en DA y CD
+T125	PROCEDURE 7411 7466	recambio valvular percutáneo por vía femoral de derecha
+T126	PROCEDURE 7501 7528	expansión de la bioprótesis
+T127	PROCEDURE 8171 8245	ICP con implante de sendos stents farmacoactivos liberadores de everolimus
+T128	PROCEDURE 8287 8332	Implante de percutáneo de bioprótesis aórtica
+T135	PROCEDURE 7200 7218	soporte inotrópico
+T136	PROCEDURE 7255 7273	soporte vasopresor
+T139	PROCEDURE 2953 2963	Bioquímica
+T140	PROCEDURE 3319 3329	Bioquímica
+T141	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T142	PROCEDURE 2919 2929	Hemostasia
+T143	PROCEDURE 3287 3297	Hemostasia
+T144	PROCEDURE 2347 2376	Radiografía de tórax portátil
+T145	PROCEDURE 7771 7819	maniobras de reanimación cardiopulmonar avanzada
+T146	PROCEDURE 274 303	hipolipemiante en monoterapia
+T165	PROCEDURE 2797 2806	Analítica
+T166	PROCEDURE 3153 3162	Analítica
+T183	PROCEDURE 4935 4947	angiográfico
+T205	PROCEDURE 5763 5789	perfusión iv de furosemida
+T213	PROCEDURE 5627 5704	soporte vasoactivo con noradrenalina a 12 mcg/min e inotrópico con dobutamina

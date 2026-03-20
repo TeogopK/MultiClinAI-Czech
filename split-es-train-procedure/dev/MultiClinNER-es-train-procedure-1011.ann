@@ -1,0 +1,45 @@
+T72	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T73	PROCEDURE 487 518	tratamiento con betabloqueantes
+T74	PROCEDURE 535 549	Ecocardiograma
+T75	PROCEDURE 747 757	diuréticos
+T76	PROCEDURE 892 910	Exploración física
+T77	PROCEDURE 951 972	Auscultación cardiaca
+T78	PROCEDURE 1047 1068	Auscultación pulmonar
+T79	PROCEDURE 1228 1247	Analítica sanguínea
+T80	PROCEDURE 1394 1397	ECG
+T81	PROCEDURE 1558 1578	Radiografía de tórax
+T82	PROCEDURE 1697 1718	Ecografía Doppler MID
+T83	PROCEDURE 2090 2111	Ecografía Doppler MII
+T84	PROCEDURE 2206 2221	estudio Doppler
+T85	PROCEDURE 2342 2384	Tomografía computarizada craneal/perfusión
+T86	PROCEDURE 2687 2702	Ecocardiografía
+T87	PROCEDURE 2928 2962	eco Doppler de miembros inferiores
+T88	PROCEDURE 3365 3386	embolectomía mecánica
+T89	PROCEDURE 3391 3428	disección del trípode femoral derecho
+T90	PROCEDURE 3431 3473	embolectomía de MID con catéter de Fogarty
+T91	PROCEDURE 3505 3515	hemostasia
+T92	PROCEDURE 3602 3619	ecografía Doppler
+T93	PROCEDURE 3756 3771	anticoagulación
+T94	PROCEDURE 4283 4301	eco Doppler de MII
+T95	PROCEDURE 4816 4826	TC craneal
+T96	PROCEDURE 5192 5203	TC cerebral
+T97	PROCEDURE 5598 5710	trombectomía intraarterial mecánica primaria con aspiración del trombo cervical y fragmentos a nivel de ACCI-ACM
+T98	PROCEDURE 5715 5717	TC
+T99	PROCEDURE 6180 6201	trombectomía arterial
+T100	PROCEDURE 6206 6245	disección del trípode femoral izquierdo
+T101	PROCEDURE 6248 6335	extracción de material trombótico a nivel femoro-poplíteo izquierdo con catéter Fogarty
+T102	PROCEDURE 6469 6479	diuréticos
+T103	PROCEDURE 6506 6515	ecocardio
+T104	PROCEDURE 7085 7129	trombectomía mecánica con catéter de Fogarty
+T105	PROCEDURE 7175 7219	trombectomía mecánica con catéter de Fogarty
+T106	PROCEDURE 7374 7389	anticoagulación
+T111	PROCEDURE 3968 3983	anticoagulación
+T118	PROCEDURE 2549 2557	Angio-TC
+T119	PROCEDURE 3485 3503	lavado de heparina
+T120	PROCEDURE 3988 4002	antivitamina K
+T121	PROCEDURE 5335 5343	angio-TC
+T122	PROCEDURE 6482 6493	betabloqueo
+T123	PROCEDURE 7394 7408	antivitamina K
+T126	PROCEDURE 5090 5115	se activa el Código Ictus
+T151	PROCEDURE 4469 4509	perfusión de heparina sódica intravenosa
+T152	PROCEDURE 4763 4803	perfusión de heparina sódica intravenosa

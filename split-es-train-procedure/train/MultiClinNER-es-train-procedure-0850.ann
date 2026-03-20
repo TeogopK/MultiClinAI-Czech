@@ -1,0 +1,33 @@
+T101	PROCEDURE 277 318	presión positiva continua en la vía aérea
+T102	PROCEDURE 320 324	CPAP
+T103	PROCEDURE 368 378	manometría
+T105	PROCEDURE 641 655	amigdalectomía
+T106	PROCEDURE 1142 1160	EXPLORACIÓN FÍSICA
+T107	PROCEDURE 1410 1431	Auscultación cardiaca
+T108	PROCEDURE 1470 1491	Auscultación pulmonar
+T109	PROCEDURE 1688 1707	Analítica sanguínea
+T110	PROCEDURE 1875 1891	Función tiroidea
+T111	PROCEDURE 1924 1933	Hemograma
+T112	PROCEDURE 2074 2092	Analítica de orina
+T113	PROCEDURE 2141 2161	Radiografía de tórax
+T114	PROCEDURE 2321 2324	ECG
+T115	PROCEDURE 2445 2473	Ecocardiograma transtorácico
+T116	PROCEDURE 3550 3568	TC toracoabdominal
+T117	PROCEDURE 5326 5344	dieta hipocalórica
+T118	PROCEDURE 5514 5536	corticoides vía tópica
+T119	PROCEDURE 5898 5922	corticoides intranasales
+T120	PROCEDURE 5935 5949	ecocardiograma
+T121	PROCEDURE 6164 6188	reactantes de fase aguda
+T122	PROCEDURE 6191 6215	estudio de autoinmunidad
+T123	PROCEDURE 6439 6452	biopsia renal
+T124	PROCEDURE 6564 6581	electroneurograma
+T125	PROCEDURE 6765 6792	tratamiento con corticoides
+T126	PROCEDURE 7128 7143	anticoagulación
+T127	PROCEDURE 7261 7274	cardioversión
+T138	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T139	PROCEDURE 7061 7075	betabloqueante
+T140	PROCEDURE 1709 1719	bioquímica
+T142	PROCEDURE 5723 5736	función renal
+T152	PROCEDURE 5049 5066	Electroneurograma
+T157	PROCEDURE 566 592	Intervenciones quirúrgicas
+T167	PROCEDURE 5761 5778	analítica general

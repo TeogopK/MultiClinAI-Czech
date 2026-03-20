@@ -1,0 +1,36 @@
+T1	SYMPTOM 80 86	disnea
+T3	SYMPTOM 405 411	disnea
+T4	SYMPTOM 647 653	disnea
+T5	SYMPTOM 761 769	ortopnea
+T6	SYMPTOM 771 774	tos
+T7	SYMPTOM 777 797	sensación distérmica
+T8	SYMPTOM 821 835	dolor torácico
+T9	SYMPTOM 837 850	palpitaciones
+T10	SYMPTOM 997 1007	consciente
+T11	SYMPTOM 1009 1018	orientado
+T12	SYMPTOM 1020 1047	bien hidratado y perfundido
+T13	SYMPTOM 1049 1062	normocloreado
+T14	SYMPTOM 1065 1083	eupneico en reposo
+T15	SYMPTOM 1095 1097	IY
+T17	SYMPTOM 1114 1147	soplo pansistólico en foco mitral
+T18	SYMPTOM 1168 1189	Crepitantes bibasales
+T19	SYMPTOM 1191 1264	Abdomen: Blando, depresible, no doloroso a la palpación, ruidos presentes
+T22	SYMPTOM 1298 1309	peritonismo
+T23	SYMPTOM 1320 1326	edemas
+T25	SYMPTOM 1345 1381	Pulsos pedios presentes y simétricos
+T27	SYMPTOM 1651 1680	Serología de Chagas: Negativa
+T32	SYMPTOM 2479 2506	onda S de anillo tricuspide
+T45	SYMPTOM 2172 2206	Válvula mitral fibrosa y engrosada
+T2	SYMPTOM 1153 1162	3er ruido
+T16	SYMPTOM 1605 1639	Bioquímica y hematimetría normales
+T20	SYMPTOM 1693 1719	orina: Positivo a Cannabis
+T21	SYMPTOM 2342 2383	Válvula aórtica trivalva normofuncionante
+T24	SYMPTOM 3131 3159	Adelgazamiento del miocardio
+T92	SYMPTOM 1594 1603	Analítica
+T97	SYMPTOM 1571 1590	Patrón intersticial
+T100	SYMPTOM 1808 1835	aumento de la trabeculación
+T102	SYMPTOM 1545 1559	condensaciones
+T106	SYMPTOM 2791 2809	hipocinesia difusa
+T114	SYMPTOM 1957 1986	trabeculación en todo el ápex
+T34	SYMPTOM 2277 2294	dilatación anular
+T36	SYMPTOM 3087 3103	afectación de VD

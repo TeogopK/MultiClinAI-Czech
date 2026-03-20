@@ -1,0 +1,53 @@
+T1	SYMPTOM 874 885	bradicardia
+T2	SYMPTOM 1018 1037	opresión precordial
+T3	SYMPTOM 1039 1052	palpitaciones
+T4	SYMPTOM 1055 1073	diaforesis profusa
+T5	SYMPTOM 1111 1143	taquicardia rítmica de QRS ancho
+T6	SYMPTOM 1500 1510	Consciente
+T7	SYMPTOM 1512 1521	orientado
+T8	SYMPTOM 1523 1537	normocoloreado
+T9	SYMPTOM 1539 1553	normohidratado
+T10	SYMPTOM 1555 1577	buena perfusión distal
+T11	SYMPTOM 1602 1627	ruidos cardiacos rítmicos
+T12	SYMPTOM 1632 1638	soplos
+T13	SYMPTOM 1663 1688	murmullo vesicular normal
+T14	SYMPTOM 1690 1705	Abdomen anodino
+T15	SYMPTOM 1707 1730	Extremidades sin edemas
+T16	SYMPTOM 1852 1864	QRS estrecho
+T17	SYMPTOM 1866 1905	Descenso del ST de V3-V5 y en III y avF
+T18	SYMPTOM 1885 1927	V3-V5 y en III y avF con ondas T negativas
+T19	SYMPTOM 1974 1987	ritmo sinusal
+T20	SYMPTOM 2043 2064	onda P retroconducida
+T21	SYMPTOM 2195 2221	Hemograma sin alteraciones
+T22	SYMPTOM 2238 2268	Función renal e iones normales
+T23	SYMPTOM 2270 2302	Perfil hepático sin alteraciones
+T24	SYMPTOM 2356 2398	VI de dimensión y grosor parietal normales
+T25	SYMPTOM 2445 2479	Función sistólica VI global normal
+T26	SYMPTOM 2531 2556	Patrón diastólico: normal
+T27	SYMPTOM 2558 2600	Aurícula izquierda de dimensiones normales
+T28	SYMPTOM 2602 2644	Cavidades derechas de dimensiones normales
+T29	SYMPTOM 2946 2966	PAPs estimada normal
+T30	SYMPTOM 3005 3026	masas intracavitarias
+T31	SYMPTOM 3082 3137	ventrículo izquierdo en el límite alto de la normalidad
+T32	SYMPTOM 3156 3180	función sistólica normal
+T33	SYMPTOM 3280 3289	FE normal
+T34	SYMPTOM 3291 3313	Aurículas no dilatadas
+T35	SYMPTOM 3589 3622	alteraciones en la repolarización
+T36	SYMPTOM 3750 3763	ritmo sinusal
+T37	SYMPTOM 3769 3780	ritmo nodal
+T38	SYMPTOM 3831 3850	opresión precordial
+T39	SYMPTOM 4111 4123	asintomático
+T40	SYMPTOM 4994 5011	opresión torácica
+T41	SYMPTOM 5016 5033	cuadro vegetativo
+T42	SYMPTOM 5044 5074	alteraciones francas en el ECG
+T43	SYMPTOM 5077 5121	aumento de los marcadores de daño miocárdico
+T44	SYMPTOM 5166 5208	elevación de marcadores de daño miocárdico
+T146	SYMPTOM 1271 1284	ritmo sinusal
+T147	SYMPTOM 1813 1826	ritmo sinusal
+T132	SYMPTOM 2899 2914	VCI no dilatada
+T157	SYMPTOM 3363 3401	coronarias con origen anatómico normal
+T158	SYMPTOM 550 575	exploración física normal
+T181	SYMPTOM 2755 2770	VM: velos finos
+T68	SYMPTOM 577 613	analítica de sangre sin alteraciones
+T135	SYMPTOM 2074 2089	latidos nodales
+T47	SYMPTOM 4627 4669	estudio electrofisiológico que es negativo

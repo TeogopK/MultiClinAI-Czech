@@ -1,0 +1,34 @@
+T61	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 573 586	genetic study
+T86	PROCEDURE 797 831	revascularised multivessel disease
+T85	PROCEDURE 833 892	ADA and marginal with implantation of 4 drug-eluting stents
+T55	PROCEDURE 1075 1095	coronary angiography
+T56	PROCEDURE 1242 1265	stress echocardiography
+T9	PROCEDURE 1338 1457	catheterisation without restenosis of the stents implanted in the anterior descending artery (AD) and circumflex artery
+T57	PROCEDURE 1508 1554	percutaneous transluminal coronary angioplasty
+T58	PROCEDURE 1556 1560	PTCA
+T60	PROCEDURE 1570 1589	drug-eluting stents
+T11	PROCEDURE 2155 2219	revascularised early multivessel chronic ischaemic heart disease
+T12	PROCEDURE 2425 2455	combined lipid-lowering agents
+T69	PROCEDURE 2754 2835	LDL apheresis programme, which was started after performing an A-V fistula in MSI
+T62	PROCEDURE 2866 2886	PHYSICAL EXAMINATION
+T63	PROCEDURE 3095 3125	Cardiorespiratory auscultation
+T64	PROCEDURE 3324 3341	ELECTROCARDIOGRAM
+T65	PROCEDURE 3343 3346	ECG
+T81	PROCEDURE 3437 3450	LIPID PROFILE
+T13	PROCEDURE 3669 3684	ECOCARDIOGRAPHY
+T68	PROCEDURE 4014 4040	Carotid Doppler ultrasound
+T18	PROCEDURE 4324 4354	ILEO-FEMORAL DOPPLER ECOGRAPHY
+T19	PROCEDURE 4362 4465	colour Doppler the iliac, common/superficial femoral and popliteal arterial systems of both lower limbs
+T82	PROCEDURE 4765 4778	Lipid profile
+T83	PROCEDURE 4991 5004	Lipid profile
+T84	PROCEDURE 5187 5200	lipid profile
+T70	PROCEDURE 5343 5356	LDL apheresis
+T76	PROCEDURE 5545 5554	apheresis
+T77	PROCEDURE 5660 5669	apheresis
+T67	PROCEDURE 5934 5950	echocardiography
+T71	PROCEDURE 6256 6269	LDL apheresis
+T80	PROCEDURE 6563 6572	apheresis
+T21	PROCEDURE 6840 6846	statin
+T54	PROCEDURE 6985 6998	genetic study
+T22	PROCEDURE 7067 7131	Early revascularised chronic multivessel ischaemic heart disease

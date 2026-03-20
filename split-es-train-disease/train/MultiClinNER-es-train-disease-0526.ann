@@ -1,0 +1,15 @@
+T5	DISEASE 1198 1202	PLGA
+T6	DISEASE 1208 1280	invasión de márgenes quirúrgicos a nivel del área pterigomaxilar derecha
+T9	DISEASE 537 573	lesión a nivel de fosa nasal derecha
+T13	DISEASE 594 596	Mx
+T17	DISEASE 188 192	PLGA
+T18	DISEASE 1314 1338	adenopatías metastásicas
+T21	DISEASE 1594 1610	restos tumorales
+T22	DISEASE 236 268	adenopatía a nivel submandibular
+T24	DISEASE 688 692	PLGA
+T32	DISEASE 862 867	tumor
+T34	DISEASE 639 663	adenopatía submandibular
+T1	DISEASE 372 427	patología no catalogada en la región de cabeza y cuello
+#3	AnnotatorNotes T5	  PLGA: Adenocarcinoma Polimorfo de Bajo Grado
+#1	AnnotatorNotes T17	  PLGA: Adenocarcinoma Polimorfo de Bajo Grado
+#2	AnnotatorNotes T24	  PLGA: Adenocarcinoma Polimorfo de Bajo Grado

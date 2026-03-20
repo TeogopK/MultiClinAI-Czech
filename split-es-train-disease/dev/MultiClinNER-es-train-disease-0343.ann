@@ -1,0 +1,13 @@
+T5	DISEASE 51 60	diabética
+T6	DISEASE 62 67	obesa
+T7	DISEASE 69 80	dislipémica
+T8	DISEASE 580 591	bacteriemia
+T9	DISEASE 87 111	enfermedad renal crónica
+T11	DISEASE 113 116	ERC
+T12	DISEASE 144 152	diabetes
+T13	DISEASE 658 674	infección en PEC
+T14	DISEASE 157 176	nefroangiosclerosis
+T17	DISEASE 39 49	hipertensa
+T18	DISEASE 454 498	infecciones de puerta de entrada del catéter
+T19	DISEASE 848 865	cuadro infeccioso
+#1	AnnotatorNotes T13	   PEC: puerta de entrada catéter

@@ -1,0 +1,51 @@
+T34	DISEASE 79 101	Allergic to penicillin
+T35	DISEASE 103 112	Ex-smoker
+T1	DISEASE 130 149	alcohol consumption
+T2	DISEASE 151 163	Hypertension
+T36	DISEASE 168 176	diabetes
+T37	DISEASE 180 193	dyslipidaemia
+T3	DISEASE 228 241	heart disease
+T38	DISEASE 360 378	catarrhal symptoms
+T39	DISEASE 510 526	acute bronchitis
+T4	DISEASE 767 782	incomplete LBBB
+T5	DISEASE 787 817	febrile or infectious symptoms
+T40	DISEASE 1025 1038	heart failure
+T43	DISEASE 1498 1501	DVT
+T9	DISEASE 1853 1862	LA growth
+T10	DISEASE 1891 1906	incomplete LBBB
+T44	DISEASE 1946 1958	cardiomegaly
+T45	DISEASE 2013 2029	pleural effusion
+T46	DISEASE 2033 2056	pneumonic consolidation
+T31	DISEASE 2083 2096	LV dilatation
+T11	DISEASE 2224 2242	Mild functional MR
+T47	DISEASE 2253 2274	diastolic dysfunction
+T32	DISEASE 2305 2337	Dilated RV with mild dysfunction
+T12	DISEASE 2339 2346	Mild TR
+T68	DISEASE 2390 2404	RV dysfunction
+T48	DISEASE 2440 2460	pericardial effusion
+T50	DISEASE 2496 2516	angiographic lesions
+T13	DISEASE 2540 2550	dilated LV
+T14	DISEASE 2789 2799	Dilated LA
+T33	DISEASE 2801 2835	Dilated RV with depressed function
+T16	DISEASE 2837 2847	Dilated RA
+T15	DISEASE 2849 2869	Subjectively mild MR
+T49	DISEASE 2879 2899	pericardial effusion
+T51	DISEASE 3011 3033	dilated cardiomyopathy
+T53	DISEASE 3039 3069	severe ventricular dysfunction
+T55	DISEASE 3155 3190	established ischaemic brain lesions
+T17	DISEASE 3195 3213	acute haemorrhages
+T18	DISEASE 3215 3307	Occlusion of the posterior communicating segment (P2) of the right posterior cerebral artery
+T19	DISEASE 3330 3451	established ischaemic lesions at the level of the right temporo-occipital, ipsilateral thalamus and bilateral cerebellar.
+T56	DISEASE 3467 3526	haemorrhagic transformation in the temporo-occipital lesion
+T58	DISEASE 3750 3764	cardiomyopathy
+T61	DISEASE 3770 3802	severe biventricular dysfunction
+T21	DISEASE 3807 3847	hypertrabeculation of the left ventricle
+T62	DISEASE 4052 4068	coronary lesions
+T52	DISEASE 4162 4184	dilated cardiomyopathy
+T54	DISEASE 4190 4220	severe ventricular dysfunction
+T63	DISEASE 4659 4675	ischaemic stroke
+T41	DISEASE 5081 5094	heart failure
+T42	DISEASE 5145 5158	heart failure
+T65	DISEASE 5160 5189	Non-compaction cardiomyopathy
+T67	DISEASE 5195 5220	biventricular dysfunction
+T64	DISEASE 5222 5258	Ischaemic cerebral vascular accident

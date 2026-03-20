@@ -1,0 +1,20 @@
+T21	PROCEDURE 329 349	Physical examination
+T22	PROCEDURE 473 493	electroencephalogram
+T23	PROCEDURE 498 509	chest X-ray
+T37	PROCEDURE 583 603	inflammatory markers
+T24	PROCEDURE 753 774	serial blood cultures
+T26	PROCEDURE 831 845	blood cultures
+T30	PROCEDURE 861 871	Gram stain
+T27	PROCEDURE 985 999	blood cultures
+T31	PROCEDURE 1003 1030	MALDI-TOF mass spectrometry
+T32	PROCEDURE 1077 1093	echocardiography
+T38	PROCEDURE 1685 1708	16S RNA gene sequencing
+T2	PROCEDURE 1774 1798	Epsilometric antibiogram
+T39	PROCEDURE 1800 1806	E-test
+T33	PROCEDURE 2186 2207	antimicrobial therapy
+T28	PROCEDURE 2249 2263	blood cultures
+T35	PROCEDURE 2288 2303	cardiac surgery
+T34	PROCEDURE 2677 2700	antimicrobial treatment
+T36	PROCEDURE 2809 2868	cardiac surgery was performed on the aortic valve territory
+T40	PROCEDURE 2870 2884	Ross procedure
+T29	PROCEDURE 3290 3304	blood cultures

@@ -1,0 +1,18 @@
+T5	PROCEDURE 260 278	facial examination
+T1	PROCEDURE 831 847	oral examination
+T7	PROCEDURE 1095 1104	palpation
+T2	PROCEDURE 1191 1209	Orthopantomography
+T16	PROCEDURE 1587 1620	CT scan, axial and coronal slices
+T11	PROCEDURE 2013 2026	infiltrations
+T18	PROCEDURE 2254 2262	delivery
+T3	PROCEDURE 2337 2357	physical examination
+T8	PROCEDURE 2395 2404	palpation
+T21	PROCEDURE 2451 2484	CT scan, axial and coronal slices
+T6	PROCEDURE 2541 2549	CT scans
+T23	PROCEDURE 2753 2830	surgical enucleation. Under general anaesthesia and through a buccal approach
+T4	PROCEDURE 2781 2800	general anaesthesia
+T9	PROCEDURE 2965 3025	Surgical remodelling of the lesion was performed with drills
+T12	PROCEDURE 3047 3098	reshape the infraorbital rim and the piriform notch
+T13	PROCEDURE 3116 3132	radiographically
+T26	PROCEDURE 3212 3277	Root canal treatment was not performed on the 22nd and 23rd teeth
+T10	PROCEDURE 3400 3420	surgical remodelling

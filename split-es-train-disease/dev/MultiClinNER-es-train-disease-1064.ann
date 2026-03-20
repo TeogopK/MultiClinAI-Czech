@@ -1,0 +1,33 @@
+T26	DISEASE 100 123	alergias medicamentosas
+T27	DISEASE 147 155	migrañas
+T28	DISEASE 333 348	hábitos tóxicos
+T29	DISEASE 1192 1217	derrame pleural bilateral
+T30	DISEASE 1483 1546	válvula mitral con dilatación del anillo mitral e insuficiencia
+T31	DISEASE 1602 1627	derrame pleural bilateral
+T32	DISEASE 1697 1719	insuficiencia cardiaca
+T33	DISEASE 3100 3132	Dilatación de aurícula izquierda
+T34	DISEASE 3199 3219	Insuficiencia mitral
+T35	DISEASE 3397 3450	Estenosis no significativa en primera obtusa marginal
+T36	DISEASE 3895 3908	trombo apical
+T37	DISEASE 4939 4978	Insuficiencia cardiaca aguda congestiva
+T38	DISEASE 5016 5117	Miocardiopatía dilatada con disfunción sistólica moderada secundaria a consumo crónico de anfetaminas
+T39	DISEASE 5184 5204	Abuso de anfetaminas
+T40	DISEASE 287 304	Tabaquismo activo
+T41	DISEASE 2794 2807	cardiomegalia
+T42	DISEASE 4773 4791	consumo de tóxicos
+T43	DISEASE 1837 1857	disfunción sistólica
+T44	DISEASE 4231 4253	insuficiencia cardiaca
+T45	DISEASE 4561 4581	disfunción sistólica
+T46	DISEASE 1387 1441	ventrículo izquierdo dilatado con disfunción sistólica
+T47	DISEASE 2118 2153	consumidora habitual de anfetaminas
+T48	DISEASE 2884 2977	ventrículo izquierdo (VI) dilatado e hipertraberculado a nivel apical con disfunción moderada
+T49	DISEASE 3325 3337	VCI dilatada
+T50	DISEASE 3537 3559	VI gravemente dilatado
+T23	DISEASE 157 174	Menopausia precoz
+T80	DISEASE 223 229	Aborto
+T92	DISEASE 1874 1889	descompensación
+T93	DISEASE 4909 4924	descompensación
+T94	DISEASE 4999 5014	descompensación
+T84	DISEASE 3114 3187	aurícula izquierda (volumen 94 ml) con aneurisma del septo interauricular
+T86	DISEASE 4258 4278	disfunción sistólica
+#1	AnnotatorNotes T49	  VCI: Vena cava inferior

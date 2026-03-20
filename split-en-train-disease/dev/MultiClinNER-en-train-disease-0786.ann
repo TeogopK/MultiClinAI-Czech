@@ -1,0 +1,56 @@
+T22	DISEASE 103 116	heart failure
+T26	DISEASE 136 150	drug allergies
+T27	DISEASE 184 196	toxic habits
+T28	DISEASE 198 219	Arterial hypertension
+T9	DISEASE 221 224	AHT
+T30	DISEASE 230 243	dyslipidaemia
+T31	DISEASE 322 345	ischaemic heart disease
+T32	DISEASE 553 567	hypothyroidism
+T33	DISEASE 592 613	Monoclonal gammopathy
+T34	DISEASE 683 699	multiple myeloma
+T35	DISEASE 701 723	Colonic diverticulosis
+T36	DISEASE 754 785	polyps with low-grade dysplasia
+T37	DISEASE 812 826	duodenal ulcer
+T38	DISEASE 855 868	endometriosis
+T39	DISEASE 1330 1337	syncope
+T40	DISEASE 1403 1425	periorbital haematomas
+T10	DISEASE 1546 1574	haematoma around both orbits
+T41	DISEASE 1832 1852	hepatojugular reflux
+T65	DISEASE 2008 2020	hepatomegaly
+T42	DISEASE 2084 2113	Bilateral periorbital purpura
+T43	DISEASE 2209 2225	First degree BAV
+T60	DISEASE 3881 3893	cardiomegaly
+T44	DISEASE 3974 3990	pleural effusion
+T45	DISEASE 4060 4109	left ventricle with severe asymmetric hypertrophy
+T11	DISEASE 4267 4292	deposition cardiomyopathy
+T69	DISEASE 4303 4324	diastolic dysfunction
+T71	DISEASE 4326 4354	Hypertrophic right ventricle
+T59	DISEASE 4391 4418	Mild biauricular dilatation
+T46	DISEASE 4462 4482	Mitral insufficiency
+T12	DISEASE 4493 4525	Moderate tricuspid insufficiency
+T13	DISEASE 4543 4546	PHT
+T67	DISEASE 4577 4603	Dilated inferior vena cava
+T64	DISEASE 5141 5163	biauricular dilatation
+T68	DISEASE 5427 5454	bilateral pleural effusions
+T14	DISEASE 5556 5599	amyloidosis due to transthyretin deposition
+T49	DISEASE 6163 6182	periorbital purpura
+T23	DISEASE 6381 6394	heart failure
+T50	DISEASE 6412 6445	systemic and pulmonary congestion
+T66	DISEASE 6887 6898	hypotension
+T62	DISEASE 7251 7282	decompensation of heart failure
+T15	DISEASE 7509 7523	AL amyloidosis
+T16	DISEASE 7770 7844	ischaemic stroke of the left hemisphere in the left middle cerebral artery
+T17	DISEASE 7877 7919	small thrombus at the level of the left M1
+T51	DISEASE 7952 7982	Paroxysmal atrial fibrillation
+T53	DISEASE 8065 8096	lower gastrointestinal bleeding
+T54	DISEASE 8177 8189	haemorrhoids
+T18	DISEASE 8222 8249	critical patient neuropathy
+T55	DISEASE 8431 8455	congestive heart failure
+T61	DISEASE 8462 8495	pulmonary and systemic congestion
+T56	DISEASE 8497 8536	AL amyloidosis with cardiac involvement
+T57	DISEASE 8538 8561	Left hemispheric stroke
+T52	DISEASE 8596 8626	Paroxysmal atrial fibrillation
+T19	DISEASE 8628 8669	Polyneuropathy in critically ill patients
+T20	DISEASE 8717 8758	Restrictive pattern diastolic dysfunction
+T47	DISEASE 8760 8780	Mitral insufficiency
+T58	DISEASE 8791 8822	Stage 3a chronic kidney disease

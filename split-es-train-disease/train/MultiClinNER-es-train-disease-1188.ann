@@ -1,0 +1,44 @@
+T39	DISEASE 98 109	cardiopatía
+T41	DISEASE 195 203	obesidad
+T42	DISEASE 216 219	HTA
+T43	DISEASE 224 234	dislipemia
+T44	DISEASE 239 256	diabetes mellitus
+T45	DISEASE 337 365	amiloidosis cardiaca tipo AL
+T46	DISEASE 639 659	amiloidosis cardiaca
+T47	DISEASE 756 781	Insuficiencia mitral leve
+T48	DISEASE 792 805	valvulopatías
+T49	DISEASE 826 845	derrame pericárdico
+T50	DISEASE 868 887	Hepatitis C crónica
+T51	DISEASE 1117 1131	Amiloidosis AL
+T52	DISEASE 1391 1405	amiloidosis AL
+T53	DISEASE 1443 1467	hematoma retroperitoneal
+T54	DISEASE 1700 1707	mieloma
+T56	DISEASE 1941 1957	mieloma múltiple
+T57	DISEASE 2771 2796	trombosis venosa profunda
+T58	DISEASE 2798 2801	TVP
+T59	DISEASE 3964 4022	ventrículo izquierdo de tamaño normal con hipertrofia leve
+T60	DISEASE 4197 4241	insuficiencia mitral moderada baja funcional
+T61	DISEASE 4244 4278	insuficiencia tricuspídea moderada
+T62	DISEASE 4561 4581	amiloidosis cardiaca
+T63	DISEASE 4752 4801	mieloma múltiple con afectación de varios órganos
+T64	DISEASE 4829 4850	fibrilación auricular
+T65	DISEASE 5002 5037	FA con respuesta ventricular rápida
+T66	DISEASE 5674 5703	insuficiencia mitral moderada
+T67	DISEASE 5827 5860	insuficiencia cardiaca congestiva
+T68	DISEASE 6159 6182	amiloidosis cardiaca AL
+T69	DISEASE 6373 6396	Amiloidosis cardiaca AL
+T70	DISEASE 6398 6431	Fibrilación auricular paroxística
+T71	DISEASE 6511 6545	Insuficiencia mitral moderada baja
+T72	DISEASE 6547 6595	Mieloma múltiple con afectación cardiaca y renal
+T73	DISEASE 6651 6667	bicitopenia leve
+T74	DISEASE 6669 6728	Enfermedad renal crónica secundaria a gammapatía monoclonal
+T75	DISEASE 3635 3637	FA
+T77	DISEASE 691 734	ventrículo izquierdo levemente hipertrófico
+T78	DISEASE 2424 2451	ruidos cardiacos arrítmicos
+T79	DISEASE 4114 4156	Ventrículo derecho (VD) levemente dilatado
+T11	DISEASE 5535 5578	ventrículo izquierdo levemente hipertrófico
+T134	DISEASE 5944 5947	ICC
+T145	DISEASE 5612 5643	crecimiento auricular izquierdo
+T152	DISEASE 1098 1107	infección
+T153	DISEASE 113 126	muerte súbita
+#1	AnnotatorNotes T75	 Fibrilación Auricular

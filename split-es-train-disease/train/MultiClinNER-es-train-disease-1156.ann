@@ -1,0 +1,45 @@
+T12	DISEASE 1717 1749	acidosis respiratoria compensada
+T20	DISEASE 74 95	hipertensión arterial
+T21	DISEASE 98 108	dislipemia
+T22	DISEASE 287 320	parálisis facial inferior derecha
+T23	DISEASE 578 613	hemorragia frontoparietal izquierda
+T25	DISEASE 1148 1180	síndrome de platipnea-ortodeoxia
+T26	DISEASE 1240 1307	válvula tricúspide con desplazamiento atrial e insuficiencia severa
+T28	DISEASE 1323 1344	enfermedad de Ebstein
+T29	DISEASE 1368 1468	comunicación interauricular tipo ostium secundum (CIA-OS) en septo posterior con shunt bidireccional
+T30	DISEASE 1494 1505	cardiopatía
+T31	DISEASE 1621 1646	sangrado cerebral extenso
+T33	DISEASE 1899 1932	hematoma frontoparietal izquierdo
+T34	DISEASE 1943 1967	hemorragia subaracnoidea
+T36	DISEASE 2485 2500	Derrame pleural
+T37	DISEASE 2530 2589	TEP derecho con infarto pulmonar extenso en lóbulo inferior
+T38	DISEASE 3301 3339	tromboembolismo pulmonar (TEP) derecho
+T39	DISEASE 3327 3330	TEP
+T40	DISEASE 3456 3473	sangrado cerebral
+T41	DISEASE 3496 3499	TEP
+T42	DISEASE 3662 3682	sangrados cerebrales
+T43	DISEASE 3816 3823	embolia
+T44	DISEASE 3834 3837	ACV
+T45	DISEASE 3840 3843	TEP
+T46	DISEASE 4023 4084	Ictus frontoparietal izquierdo con transformación hemorrágica
+T47	DISEASE 4087 4105	TEP cardioembólico
+T48	DISEASE 4108 4127	Anomalía de Ebstein
+T49	DISEASE 2278 2379	Comunicación interauricular (CIA) ostium secundum en septo posterior de 15 mm con shunt bidireccional
+T50	DISEASE 3751 3757	CIA-OS
+T51	DISEASE 3912 3915	CIA
+T52	DISEASE 4130 4173	CIA ostium secundum con shunt bidireccional
+T53	DISEASE 3737 3746	IT severa
+T54	DISEASE 2437 2483	cardiomegalia a expensas de cavidades derechas
+T55	DISEASE 1418 1424	CIA-OS
+T56	DISEASE 1814 1837	bloqueo de rama derecha
+T57	DISEASE 2090 2127	severa dilatación de aurícula derecha
+T58	DISEASE 2307 2310	CIA
+T59	DISEASE 3692 3716	complicaciones embólicas
+T85	DISEASE 626 650	hemorragia subaracnoidea
+T101	DISEASE 3227 3245	patología pulmonar
+T27	DISEASE 3332 3360	derecho con infarto pulmonar
+#1	AnnotatorNotes T39	 tromboembolismo pulmonar
+#2	AnnotatorNotes T50	 comunicación interauricular tipo ostium secundum
+#3	AnnotatorNotes T53	 IT: insuficiencia tricuspide
+#4	AnnotatorNotes T55	 comunicación interauricular tipo ostium secundum
+#5	AnnotatorNotes T58	 comunicación interventrícular

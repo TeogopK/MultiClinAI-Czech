@@ -1,0 +1,55 @@
+T122	PROCEDURE 440 468	extirpación de nevus cutáneo
+T123	PROCEDURE 579 584	parto
+T124	PROCEDURE 1072 1086	parto eutócico
+T125	PROCEDURE 1119 1137	Exploración física
+T126	PROCEDURE 1301 1322	Auscultación cardiaca
+T127	PROCEDURE 1363 1384	Auscultación pulmonar
+T128	PROCEDURE 1608 1632	Exploración ginecológica
+T129	PROCEDURE 2382 2402	Radiografía de tórax
+T130	PROCEDURE 2554 2557	ECG
+T131	PROCEDURE 2745 2767	Ecografía transvaginal
+T132	PROCEDURE 2836 2855	Ecografía abdominal
+T133	PROCEDURE 3185 3214	Ecocardiografía transtorácica
+T134	PROCEDURE 3428 3443	Coronariografía
+T135	PROCEDURE 3494 3510	Ventriculografía
+T136	PROCEDURE 3672 3694	Biopsia endomiocárdica
+T137	PROCEDURE 3932 3944	RMN cardiaca
+T138	PROCEDURE 4231 4242	hemocultivo
+T139	PROCEDURE 4281 4291	Urocultivo
+T140	PROCEDURE 4585 4595	urocultivo
+T141	PROCEDURE 4598 4610	hemocultivos
+T142	PROCEDURE 4719 4731	sueroterapia
+T143	PROCEDURE 4751 4760	analgesia
+T144	PROCEDURE 4880 4892	sueroterapia
+T145	PROCEDURE 5330 5351	Auscultación pulmonar
+T146	PROCEDURE 5422 5442	radiografía de tórax
+T147	PROCEDURE 5496 5515	ecografía abdominal
+T148	PROCEDURE 6151 6183	ventilación mecánica no invasiva
+T149	PROCEDURE 6284 6287	ECG
+T150	PROCEDURE 6477 6486	ecocardio
+T151	PROCEDURE 6726 6744	drogas vasoactivas
+T152	PROCEDURE 6947 6967	cateterismo cardiaco
+T153	PROCEDURE 6972 6988	ventriculografía
+T154	PROCEDURE 6991 7013	biopsia endomiocárdica
+T155	PROCEDURE 7015 7027	RMN cardiaca
+T156	PROCEDURE 7029 7056	serología de parvovirus B19
+T157	PROCEDURE 7059 7079	inmunología cardiaca
+T158	PROCEDURE 8075 8092	ciclo antibiótico
+T159	PROCEDURE 8206 8218	sueroterapia
+T160	PROCEDURE 8817 8839	tratamiento esteroideo
+T161	PROCEDURE 9250 9265	ecocardiografía
+T185	PROCEDURE 4404 4413	Serología
+T186	PROCEDURE 7678 7693	betabloqueantes
+T189	PROCEDURE 109 130	tratamiento dietético
+T190	PROCEDURE 229 243	Parto eutócico
+T191	PROCEDURE 1461 1485	palpación en hipogastrio
+T192	PROCEDURE 1488 1516	puño percusión renal derecha
+T193	PROCEDURE 4216 4229	Microbiología
+T194	PROCEDURE 7696 7701	IECAs
+T195	PROCEDURE 7720 7729	ecocardio
+T25	PROCEDURE 7509 7554	retirada progresiva de las drogas vasoactivas
+T224	PROCEDURE 1750 1759	Analítica
+T231	PROCEDURE 1527 1550	Extremidades inferiores
+T234	PROCEDURE 412 438	Intervenciones quirúrgicas
+T261	PROCEDURE 5262 5273	exploración
+T302	PROCEDURE 155 216	Hipotiroidismo primario autoinmune en tratamiento sustitutivo

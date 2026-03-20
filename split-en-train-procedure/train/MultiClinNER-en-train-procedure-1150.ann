@@ -1,0 +1,34 @@
+T61	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 189 216	anticoagulated with sintrom
+T81	PROCEDURE 658 689	intravenous solinitrin infusion
+T60	PROCEDURE 875 903	Cardiopulmonary auscultation
+T62	PROCEDURE 924 944	physical examination
+T63	PROCEDURE 1174 1177	ECG
+T64	PROCEDURE 1373 1376	ECG
+T2	PROCEDURE 1396 1412	Laboratory tests
+T3	PROCEDURE 1442 1451	haemogram
+T78	PROCEDURE 1453 1465	biochemistry
+T75	PROCEDURE 1470 1481	coagulation
+T4	PROCEDURE 1490 1517	Myocardial necrosis markers
+T65	PROCEDURE 1632 1643	Chest X-ray
+T5	PROCEDURE 1696 1724	Transthoracic echocardiogram
+T73	PROCEDURE 1885 1921	Stress cardiac MRI with dipyridamole
+T66	PROCEDURE 2149 2157	Angio-CT
+T7	PROCEDURE 3043 3056	beta-blockers
+T79	PROCEDURE 3058 3071	oral nitrates
+T8	PROCEDURE 3076 3090	ACE inhibitors
+T9	PROCEDURE 3111 3139	transthoracic echocardiogram
+T11	PROCEDURE 3229 3257	stress MRI with dipyridamole
+T76	PROCEDURE 3420 3433	imaging tests
+T67	PROCEDURE 3446 3454	angio-CT
+T77	PROCEDURE 3593 3606	imaging tests
+T68	PROCEDURE 4077 4085	angio-CT
+T13	PROCEDURE 4401 4415	urgent surgery
+T80	PROCEDURE 4440 4458	surgical procedure
+T14	PROCEDURE 4649 4703	ascending aorta was replaced with a 32 mm Dacron graft
+T69	PROCEDURE 4792 4808	vasoactive drugs
+T70	PROCEDURE 4819 4834	haemofiltration
+T71	PROCEDURE 4920 4929	extubated
+T72	PROCEDURE 5140 5154	rehabilitation
+T74	PROCEDURE 5280 5291	cardiac MRI
+T15	PROCEDURE 5445 5459	CT angiography

@@ -1,0 +1,26 @@
+T79	PROCEDURE 534 554	coronary angiography
+T3	PROCEDURE 599 608	operation
+T4	PROCEDURE 656 703	St Jude No. 25 mechanical prosthesis was placed
+T80	PROCEDURE 1235 1251	echocardiography
+T84	PROCEDURE 1378 1381	ECG
+T86	PROCEDURE 2256 2276	Physical examination
+T87	PROCEDURE 2461 2481	Cardiac auscultation
+T88	PROCEDURE 2550 2572	Pulmonary auscultation
+T11	PROCEDURE 2684 2728	pain on palpation in the right hypochondrium
+T97	PROCEDURE 2969 2982	liver profile
+T100	PROCEDURE 3018 3045	Myocardial necrosis markers
+T12	PROCEDURE 3092 3101	Haemogram
+T85	PROCEDURE 3218 3221	ECG
+T89	PROCEDURE 3317 3328	Chest X-ray
+T90	PROCEDURE 3456 3481	Ultrasound of the abdomen
+T91	PROCEDURE 4371 4389	antibiotic therapy
+T98	PROCEDURE 4634 4647	liver profile
+T92	PROCEDURE 4804 4819	cholecystectomy
+T81	PROCEDURE 4960 4976	echocardiography
+T82	PROCEDURE 5004 5020	Echocardiography
+T95	PROCEDURE 5874 5888	blood cultures
+T99	PROCEDURE 5914 5934	antibiotic treatment
+T93	PROCEDURE 6090 6122	transesophageal echocardiography
+T94	PROCEDURE 6281 6296	cranial CT scan
+T24	PROCEDURE 6696 6706	antibiotic
+T96	PROCEDURE 6716 6730	Blood cultures

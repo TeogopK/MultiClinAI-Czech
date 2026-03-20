@@ -1,0 +1,22 @@
+T3	PROCEDURE 74 99	oral hypoglycaemic agents
+T4	PROCEDURE 605 625	Physical examination
+T22	PROCEDURE 666 724	deep palpation in the hypogastrium and right hypochondrium
+T17	PROCEDURE 780 792	Biochemistry
+T25	PROCEDURE 1055 1075	complete blood count
+T19	PROCEDURE 1202 1223	Systematic urinalysis
+T29	PROCEDURE 1285 1299	urine sediment
+T30	PROCEDURE 1390 1412	simple abdominal X-ray
+T8	PROCEDURE 1553 1573	abdominal ultrasound
+T10	PROCEDURE 1798 1811	Urine culture
+T1	PROCEDURE 2103 2135	Intravenous antibiotic treatment
+T6	PROCEDURE 2188 2211	urinary catheterisation
+T7	PROCEDURE 2216 2254	strict control of blood glucose levels
+T12	PROCEDURE 2259 2283	abdominal-pelvic CT scan
+T14	PROCEDURE 2395 2430	retrograde cholangiopancreatography
+T20	PROCEDURE 2435 2460	endoscopic sphincterotomy
+T16	PROCEDURE 2536 2546	ultrasound
+T2	PROCEDURE 2565 2597	intravenous antibiotic treatment
+T5	PROCEDURE 2694 2719	oral antibiotic treatment
+T9	PROCEDURE 2782 2798	urinary catheter
+T11	PROCEDURE 2812 2825	urine culture
+T13	PROCEDURE 2868 2892	abdominal-pelvic CT scan

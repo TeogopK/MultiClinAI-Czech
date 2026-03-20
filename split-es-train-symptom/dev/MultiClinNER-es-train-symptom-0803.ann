@@ -1,0 +1,38 @@
+T1	SYMPTOM 100 106	disnea
+T2	SYMPTOM 541 547	disnea
+T3	SYMPTOM 583 596	palpitaciones
+T4	SYMPTOM 655 684	disnea de moderados esfuerzos
+T5	SYMPTOM 713 721	ortopnea
+T6	SYMPTOM 738 765	disnea paroxística nocturna
+T8	SYMPTOM 813 837	edemas en ambos tobillos
+T9	SYMPTOM 900 913	palpitaciones
+T10	SYMPTOM 921 927	fiebre
+T11	SYMPTOM 930 948	clínica infecciosa
+T12	SYMPTOM 991 1003	asintomática
+T13	SYMPTOM 1013 1033	buen estado de salud
+T14	SYMPTOM 1093 1098	soplo
+T15	SYMPTOM 1257 1264	Afebril
+T16	SYMPTOM 1266 1294	Ingurgitación venosa yugular
+T17	SYMPTOM 1296 1328	Auscultación cardiaca: arrítmica
+T18	SYMPTOM 1330 1352	soplo sistólico mitral
+T19	SYMPTOM 1391 1410	crepitantes en base
+T20	SYMPTOM 1429 1457	auscultación pulmonar normal
+T21	SYMPTOM 1484 1513	edemas con fóvea bimaleolares
+T23	SYMPTOM 1913 1937	troponina T y CPK normal
+T24	SYMPTOM 1943 1963	cambios en seriación
+T25	SYMPTOM 1987 2037	índice cardiotorácico en límite alto de normalidad
+T26	SYMPTOM 2681 2766	ventrículo izquierdo levemente dilatado (85 ml/cm2) con espesores parietales normales
+T27	SYMPTOM 2768 2817	Función sistólica global y segmentaria conservada
+T31	SYMPTOM 3495 3519	masa auricular izquierda
+T32	SYMPTOM 3568 3603	Vena cava inferior de tamaño normal
+T99	SYMPTOM 1832 1854	Perfil hepático normal
+T7	SYMPTOM 2067 2098	pinzamiento de senocostofrénico
+T22	SYMPTOM 2100 2118	Líquido en cisuras
+T29	SYMPTOM 3347 3396	Válvula aórtica anatómica y funcionalmente normal
+T30	SYMPTOM 3642 3719	Raíz aórtica, aorta ascendente y aorta abdominal infrarrenal de tamaño normal
+T48	SYMPTOM 4706 4724	Masa intracardiaca
+T102	SYMPTOM 3158 3193	Cavidades derechas de tamaño normal
+T115	SYMPTOM 3917 3949	arterias coronarias sin lesiones
+T118	SYMPTOM 3896 3914	dominancia derecha
+T122	SYMPTOM 1638 1652	fórmula normal
+T50	SYMPTOM 2872 2876	Masa

@@ -1,0 +1,24 @@
+T1	SYMPTOM 1065 1071	fiebre
+T2	SYMPTOM 1083 1111	dolor abdominal generalizado
+T3	SYMPTOM 1116 1127	peritonismo
+T4	SYMPTOM 1129 1136	vómitos
+T5	SYMPTOM 1139 1146	diarrea
+T6	SYMPTOM 144 159	dolor abdominal
+T7	SYMPTOM 190 196	fiebre
+T8	SYMPTOM 1198 1238	dilatación de asas del intestino delgado
+T9	SYMPTOM 207 227	vómitos alimenticios
+T10	SYMPTOM 230 256	diarrea con restos de moco
+T11	SYMPTOM 290 340	dolor abdominal difuso, algo más en la fosa ilíaca
+T12	SYMPTOM 1323 1360	leucocitosis con desviación izquierda
+T13	SYMPTOM 1363 1398	elevación de la proteína C reactiva
+T14	SYMPTOM 364 385	irritación peritoneal
+T15	SYMPTOM 449 489	leve elevación de la proteína C reactiva
+T16	SYMPTOM 953 998	apéndice cecal con leves signos inflamatorios
+T17	SYMPTOM 1638 1691	coprocultivo, el cual informa de Campylobacter jejuni
+T18	SYMPTOM 2008 2047	apéndice cecal con signos inflamatorios
+A1	IMAGEN T8
+A2	RESULTADO T12
+A3	RESULTADO T13
+A4	RESULTADO T15
+A5	RESULTADO T17
+A6	RESULTADO T18

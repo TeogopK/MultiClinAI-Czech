@@ -1,0 +1,24 @@
+T1	SYMPTOM 680 686	febril
+T2	SYMPTOM 699 717	mal estado general
+T3	SYMPTOM 721 773	abdomen distendido y doloroso en hipocondrio derecho
+T4	SYMPTOM 1975 2004	hemocultivos fueron estériles
+T5	SYMPTOM 801 838	exploración cardiopulmonar era normal
+T6	SYMPTOM 867 923	leucocitosis de 26.500/mm3 con desviación a la izquierda
+T7	SYMPTOM 374 380	fiebre
+T8	SYMPTOM 383 390	diarrea
+T9	SYMPTOM 1058 1131	niveles normales de transaminasas y fosfatasa alcalina, creatinina y urea
+T10	SYMPTOM 1136 1158	RX de tórax era normal
+T11	SYMPTOM 550 556	fiebre
+T12	SYMPTOM 580 591	escalofríos
+T13	SYMPTOM 593 600	vómitos
+T14	SYMPTOM 602 610	anorexia
+T15	SYMPTOM 279 291	asintomático
+T16	SYMPTOM 613 641	dolor en hipocondrio derecho
+T17	SYMPTOM 1927 1969	cultivo donde creció Streptococcus milleri
+T18	SYMPTOM 1612 1661	En la colonoscopia, no se observaron alteraciones
+A1	RESULTADO T4
+A2	RESULTADO T6
+A3	RESULTADO T9
+A4	IMAGEN T10
+A5	RESULTADO T17
+A6	RESULTADO T18

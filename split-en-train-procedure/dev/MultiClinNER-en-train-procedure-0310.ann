@@ -1,0 +1,8 @@
+T1	PROCEDURE 316 336	Physical examination
+T2	PROCEDURE 388 410	pulmonary auscultation
+T5	PROCEDURE 412 423	Serum tests
+T3	PROCEDURE 512 529	Fibrobronchoscopy
+T6	PROCEDURE 586 588	CT
+T9	PROCEDURE 881 960	Culture was positive for Aspergillus fumigatus in sputum and bronchial aspirate
+T4	PROCEDURE 942 960	bronchial aspirate
+T12	PROCEDURE 1034 1083	Embolisation of the bronchial arteries of the LUL

@@ -1,0 +1,8 @@
+T1	PROCEDURE 313 333	Physical examination
+T2	PROCEDURE 403 439	administration of intravenous fluids
+T3	PROCEDURE 564 574	Ultrasound
+T5	PROCEDURE 579 598	computed tomography
+T4	PROCEDURE 600 602	CT
+T7	PROCEDURE 1406 1426	abdominal ultrasound
+T6	PROCEDURE 1464 1470	biopsy
+T8	PROCEDURE 1601 1622	microscopic diagnosis

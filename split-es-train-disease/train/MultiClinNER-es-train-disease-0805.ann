@@ -1,0 +1,37 @@
+T80	DISEASE 6085 6087	EV
+T85	DISEASE 203 229	infarto agudo de miocardio
+T86	DISEASE 253 282	cardiopatía isquémica crónica
+T87	DISEASE 400 421	cardiopatía congénita
+T88	DISEASE 537 560	alergias medicamentosas
+T89	DISEASE 607 615	fumadora
+T90	DISEASE 664 685	hipertensión arterial
+T91	DISEASE 687 695	diabetes
+T92	DISEASE 699 709	dislipemia
+T94	DISEASE 2190 2215	trombosis venosa profunda
+T95	DISEASE 2944 2957	valvulopatías
+T96	DISEASE 2984 2987	HTP
+T97	DISEASE 3025 3044	derrame pericárdico
+T98	DISEASE 3148 3176	fibrosis/necrosis miocárdica
+T99	DISEASE 3377 3423	taquicardia ventricular polimorfa no sostenida
+T100	DISEASE 3425 3430	TVPNS
+T102	DISEASE 3614 3617	BRI
+T103	DISEASE 4361 4374	extrasistolia
+T104	DISEASE 4434 4457	arritmias ventriculares
+T108	DISEASE 4962 4985	cardiopatía estructural
+T110	DISEASE 5955 5975	arritmias sostenidas
+T111	DISEASE 6167 6190	arritmias ventriculares
+T113	DISEASE 6691 6724	taquicardia ventricular polimorfa
+T114	DISEASE 6739 6764	extrasistolia ventricular
+T115	DISEASE 6955 6978	cardiopatía estructural
+T116	DISEASE 3212 3237	Extrasistolia ventricular
+T69	DISEASE 5232 5237	TVPNS
+T101	DISEASE 5189 5191	EV
+T106	DISEASE 5478 5480	EV
+T109	DISEASE 5545 5550	BRIHH
+T120	DISEASE 6312 6317	TVPNS
+T137	DISEASE 6546 6558	canalopatías
+T146	DISEASE 6561 6574	muerte súbita
+T126	DISEASE 3572 3574	EV
+#3	AnnotatorNotes T80	extrasistole vetnricular
+#1	AnnotatorNotes T101	extrasistole vetnricular
+#2	AnnotatorNotes T106	extrasistole vetnricular

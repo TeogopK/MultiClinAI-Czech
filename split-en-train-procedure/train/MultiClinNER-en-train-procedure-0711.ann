@@ -1,0 +1,25 @@
+T18	PROCEDURE 143 162	Valsalva manoeuvres
+T12	PROCEDURE 203 213	analgesics
+T15	PROCEDURE 380 416	general and neurological examination
+T8	PROCEDURE 465 493	Ophthalmological examination
+T11	PROCEDURE 548 573	Intrinsic ocular motility
+T24	PROCEDURE 575 603	anterior segment examination
+T16	PROCEDURE 648 671	Funduscopic examination
+T6	PROCEDURE 702 725	Fluorescein angiography
+T13	PROCEDURE 772 861	Nerve fibre layer study (fast RNFL strategy) by optical coherence tomography (Stratus OCT
+T20	PROCEDURE 820 848	optical coherence tomography
+T14	PROCEDURE 850 861	Stratus OCT
+T1	PROCEDURE 1015 1033	Orbital ultrasound
+T3	PROCEDURE 1035 1064	computerised axial tomography
+T5	PROCEDURE 1069 1088	automatic perimetry
+T2	PROCEDURE 1102 1117	Lumbar puncture
+T9	PROCEDURE 1192 1220	CSF composition and serology
+T33	PROCEDURE 1226 1260	analytical and coagulation studies
+T17	PROCEDURE 1314 1330	thyroid hormones
+T36	PROCEDURE 1335 1357	antithyroid antibodies
+T37	PROCEDURE 1373 1399	Magnetic resonance imaging
+T4	PROCEDURE 1401 1404	MRI
+T7	PROCEDURE 1410 1425	phleboresonance
+T10	PROCEDURE 1644 1682	venography and cranial sinus manometry
+T40	PROCEDURE 1903 1928	dilatation by angioplasty
+T19	PROCEDURE 1933 1941	stenting

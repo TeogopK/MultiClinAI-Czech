@@ -1,0 +1,40 @@
+T39	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T41	PROCEDURE 364 377	haemodialysis
+T44	PROCEDURE 406 430	double kidney transplant
+T46	PROCEDURE 515 525	transplant
+T42	PROCEDURE 533 546	haemodialysis
+T6	PROCEDURE 587 609	arteriovenous fistulas
+T5	PROCEDURE 611 614	AVF
+T47	PROCEDURE 746 758	transfusions
+T43	PROCEDURE 1223 1236	haemodialysis
+T58	PROCEDURE 1417 1434	electrocardiogram
+T48	PROCEDURE 1436 1439	ECG
+T9	PROCEDURE 1540 1573	boluses of 100 mg of procainamide
+T40	PROCEDURE 1734 1754	Physical examination
+T53	PROCEDURE 1838 1860	Pulmonary auscultation
+T54	PROCEDURE 1913 1933	Cardiac auscultation
+T10	PROCEDURE 2026 2044	renal graft in FID
+T11	PROCEDURE 2142 2158	Laboratory tests
+T68	PROCEDURE 2173 2185	Biochemistry
+T55	PROCEDURE 2732 2743	Coagulation
+T56	PROCEDURE 2791 2802	blood gases
+T57	PROCEDURE 2950 2961	Chest X-ray
+T59	PROCEDURE 3107 3124	Electrocardiogram
+T49	PROCEDURE 3126 3129	ECG
+T14	PROCEDURE 3317 3345	Transthoracic echocardiogram
+T60	PROCEDURE 3769 3795	Electrophysiological study
+T16	PROCEDURE 3797 3800	EPS
+T62	PROCEDURE 4439 4459	Transseptal puncture
+T63	PROCEDURE 4632 4655	ablation of the pathway
+T64	PROCEDURE 4763 4787	electrical cardioversion
+T65	PROCEDURE 4904 4914	monitoring
+T17	PROCEDURE 4930 4958	transthoracic echocardiogram
+T66	PROCEDURE 5418 5429	12-lead ECG
+T51	PROCEDURE 5704 5707	ECG
+T67	PROCEDURE 5800 5809	telemetry
+T52	PROCEDURE 6091 6094	ECG
+T19	PROCEDURE 6321 6325	ECGs
+T61	PROCEDURE 6585 6611	electrophysiological study
+T23	PROCEDURE 6636 6739	accessory pathway was found in the posterior portion of the mitral annulus, which was successfully abla
+T21	PROCEDURE 6794 6798	ECGs
+T20	PROCEDURE 6937 6966	ablation of accessory pathway

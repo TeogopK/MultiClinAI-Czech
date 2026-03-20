@@ -1,0 +1,38 @@
+T20	DISEASE 113 134	Arterial hypertension
+T23	DISEASE 170 184	Common flutter
+T24	DISEASE 276 295	cardiogenic syncope
+T25	DISEASE 310 350	Non-ST-elevation acute coronary syndrome
+T1	DISEASE 700 723	cognitive deterioration
+T28	DISEASE 942 964	severe aortic stenosis
+T26	DISEASE 1487 1506	acute heart failure
+T27	DISEASE 1525 1545	SARS-CoV-2 pneumonia
+T29	DISEASE 2671 2693	severe aortic stenosis
+T30	DISEASE 3197 3213	pleural effusion
+T18	DISEASE 4276 4328	non-dilated left ventricle with moderate hypertrophy
+T31	DISEASE 4452 4479	severe systolic dysfunction
+T2	DISEASE 4496 4548	aortic valve was severely calcified and unstructured
+T33	DISEASE 4736 4767	severe-critical aortic stenosis
+T35	DISEASE 4936 4970	calcification of the coronary tree
+T3	DISEASE 4972 5038	Left main coronary artery of good calibre, with mild atheromatosis
+T4	DISEASE 5106 5142	Proximal LAD with mild atheromatosis
+T5	DISEASE 5144 5178	Mid LAD with moderate focal lesion
+T7	DISEASE 5287 5345	Non-dominant circumflex with moderate ostial atheromatosis
+T6	DISEASE 5347 5409	Dominant right coronary artery with diffuse mild atheromatosis
+T36	DISEASE 5569 5600	decompensation of heart failure
+T38	DISEASE 5788 5811	ventricular dysfunction
+T39	DISEASE 5915 5945	pacemaker-mediated tachycardia
+T19	DISEASE 6073 6125	non-dilated left ventricle with moderate hypertrophy
+T8	DISEASE 6305 6340	aortic valve was severely calcified
+T34	DISEASE 6520 6551	severe-critical aortic stenosis
+T9	DISEASE 6570 6614	tricuspid valve exhibited mild insufficiency
+T10	DISEASE 6777 6793	coronary lesions
+T13	DISEASE 7195 7229	Severe symptomatic aortic stenosis
+T40	DISEASE 7231 7261	Pacemaker-mediated tachycardia
+T12	DISEASE 7263 7304	Decompensation of heart failure secondary
+T11	DISEASE 7318 7374	Acute myocardial infarction without type II ST elevation
+T43	DISEASE 7393 7437	Severe left ventricular systolic dysfunction
+T44	DISEASE 7439 7468	Severe pulmonary hypertension
+T22	DISEASE 7456 7468	hypertension
+T45	DISEASE 7470 7489	Acute renal failure
+T46	DISEASE 7496 7509	hyponatraemia
+T47	DISEASE 7511 7535	Acenocoumarol overdosage

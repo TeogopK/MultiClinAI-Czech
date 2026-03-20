@@ -1,0 +1,41 @@
+T90	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T91	PROCEDURE 270 288	oral antidiabetics
+T1	PROCEDURE 290 335	Hypothyroidism on hormone replacement therapy
+T2	PROCEDURE 732 878	double coronary artery bypass from internal mammary artery (IMA) to anterior descending (AD) and from saphenous vein (SV) to right coronary artery
+T92	PROCEDURE 960 980	coronary angiography
+T3	PROCEDURE 1134 1137	PCI
+T97	PROCEDURE 1277 1293	echocardiography
+T93	PROCEDURE 1359 1379	coronary angiography
+T98	PROCEDURE 1609 1639	percutaneous revascularisation
+T99	PROCEDURE 1825 1838	oral nitrates
+T100	PROCEDURE 2707 2710	ECG
+T9	PROCEDURE 3103 3114	Blood tests
+T106	PROCEDURE 3455 3476	Cardiological profile
+T10	PROCEDURE 3785 3801	laboratory tests
+T101	PROCEDURE 3877 3880	ECG
+T102	PROCEDURE 3949 3952	ECG
+T103	PROCEDURE 4012 4015	ECG
+T107	PROCEDURE 4050 4061	Chest X-ray
+T94	PROCEDURE 4142 4162	Coronary angiography
+T18	PROCEDURE 4702 4748	saphenous graft to posterior descending artery
+T19	PROCEDURE 4822 4857	cannulation of mammary graft to LAD
+T108	PROCEDURE 4900 4914	Echocardiogram
+T109	PROCEDURE 5868 5877	Echoscopy
+T104	PROCEDURE 6167 6170	ECG
+T24	PROCEDURE 6279 6306	double antiplatelet therapy
+T110	PROCEDURE 6311 6326	anticoagulation
+T112	PROCEDURE 6419 6432	beta-blockers
+T105	PROCEDURE 6484 6487	ECG
+T95	PROCEDURE 6614 6634	coronary angiography
+T96	PROCEDURE 6762 6782	coronary angiography
+T28	PROCEDURE 6800 6830	prior ischaemia detection test
+T114	PROCEDURE 6930 6955	revascularisation surgery
+T115	PROCEDURE 7032 7047	radial puncture
+T116	PROCEDURE 7083 7102	compressive bandage
+T113	PROCEDURE 7301 7314	beta-blockers
+T31	PROCEDURE 7388 7396	analysis
+T120	PROCEDURE 7458 7466	analyses
+T117	PROCEDURE 7502 7509	statins
+T111	PROCEDURE 7848 7863	anticoagulation
+T118	PROCEDURE 8257 8270	liver profile
+T119	PROCEDURE 8453 8494	double bypass AMI-DA (occluded) and VS-DP

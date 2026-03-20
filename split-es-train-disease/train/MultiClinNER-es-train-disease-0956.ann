@@ -1,0 +1,36 @@
+T25	DISEASE 122 142	Enfermedad de Behçet
+T26	DISEASE 144 178	aneurismas pulmonares en el pulmón
+T27	DISEASE 222 241	Hepatitis B crónica
+T28	DISEASE 988 1013	trombosis venosa profunda
+T29	DISEASE 1152 1155	HAI
+T30	DISEASE 1122 1194	Bloqueo bifascicular (BRDHH + HAI) con arritmia sinusal ventriculofásica
+T31	DISEASE 1231 1261	patología pleuropulmonar aguda
+T32	DISEASE 1858 1918	Válvula aórtica trivalva, con buena apertura e insuficiencia
+T33	DISEASE 2002 2033	insuficiencia mitral diastólica
+T34	DISEASE 2138 2163	Insuficiencia tricuspídea
+T35	DISEASE 2175 2194	derrame pericárdico
+T36	DISEASE 2254 2321	Descendente anterior: presenta dilatación aneurismática calcificada
+T37	DISEASE 2628 2652	dilatación aneurismática
+T38	DISEASE 2668 2740	aneurismas coronarios saculares en circunfleja (parcialmente trombosados
+T39	DISEASE 3010 3028	angina de esfuerzo
+T40	DISEASE 3233 3333	circunfleja proximal con dilatación aneurismática de gran tamaño, calcificada, con trombosis parcial
+T41	DISEASE 3972 3995	bloqueo AV infrahisiano
+T42	DISEASE 4662 4695	aneurisma en descendente anterior
+T43	DISEASE 4789 4809	Enfermedad de Behçet
+T44	DISEASE 4903 4950	Cardiopatía isquémica por aneurismas coronarios
+T45	DISEASE 5062 5095	aneurisma de descendente anterior
+T46	DISEASE 45 68	alergias medicamentosas
+T47	DISEASE 935 949	organomegalias
+T48	DISEASE 1045 1069	bloqueo AV de alto grado
+T49	DISEASE 1144 1149	BRDHH
+T50	DISEASE 2388 2502	Circunfleja: presenta a nivel proximal dilatación aneurismática de gran tamaño, calcificada, con trombosis parcial
+T51	DISEASE 2838 2856	arteria displásica
+T52	DISEASE 2954 2982	bloqueo AV 2:1 con QRS ancho
+T53	DISEASE 3097 3166	arteria descendente anterior con dilatación aneurismática calcificada
+T54	DISEASE 4236 4238	IC
+T55	DISEASE 4811 4856	Bloqueo aurículo-ventricular 2:1 infrahisiano
+T83	DISEASE 531 538	síncope
+T84	DISEASE 527 538	pre/síncope
+T85	DISEASE 1461 1528	Calcificaciones anulares que se proyectan sobre la silueta cardiaca
+T18	DISEASE 1161 1194	arritmia sinusal ventriculofásica
+#1	AnnotatorNotes T54	 IC insuficiencia cardíaca

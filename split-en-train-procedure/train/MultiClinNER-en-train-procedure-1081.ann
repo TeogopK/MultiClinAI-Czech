@@ -1,0 +1,15 @@
+T38	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T26	PROCEDURE 589 617	Cardiopulmonary auscultation
+T3	PROCEDURE 990 1001	Blood tests
+T27	PROCEDURE 1028 1039	chest X-ray
+T28	PROCEDURE 1207 1224	electrocardiogram
+T4	PROCEDURE 1348 1376	transthoracic echocardiogram
+T30	PROCEDURE 1550 1582	24-hour Holter electrocardiogram
+T31	PROCEDURE 2077 2086	telemetry
+T5	PROCEDURE 2209 2251	transthoracic echocardiogram with contrast
+T33	PROCEDURE 2493 2538	ergometry was performed without beta-blockers
+T32	PROCEDURE 2859 2879	Beta-blocker therapy
+T34	PROCEDURE 2927 2936	ergometry
+T35	PROCEDURE 3060 3094	Cardiac magnetic resonance imaging
+T36	PROCEDURE 3423 3436	genetic study
+T37	PROCEDURE 3979 3992	genetic study

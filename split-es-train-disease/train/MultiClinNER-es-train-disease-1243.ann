@@ -1,0 +1,54 @@
+T18	DISEASE 3215 3247	taquicardia regular de QRS ancho
+T27	DISEASE 5184 5209	taquicardia con QRS ancho
+T38	DISEASE 6810 6862	vía accesoria en porción posterior del anillo mitral
+T88	DISEASE 128 149	hipertensión arterial
+T89	DISEASE 238 255	diabetes mellitus
+T90	DISEASE 276 291	hábitos tóxicos
+T91	DISEASE 293 317	Enfermedad renal crónica
+T94	DISEASE 614 669	fístulas arterio-venosas (FAV) (estenosis, obstrucción)
+T96	DISEASE 725 746	Anemia multifactorial
+T97	DISEASE 797 838	Hiperparatiroidismo secundario resistente
+T98	DISEASE 866 905	adenoma paratiroideo en lóbulo inferior
+T99	DISEASE 918 941	cardiopatía estructural
+T100	DISEASE 962 994	hipertrofia ventricular moderada
+T101	DISEASE 1559 1602	taquicardia ventricular monomorfa sostenida
+T102	DISEASE 1742 1763	taquicardia auricular
+T103	DISEASE 3276 3308	bloqueo completo de rama derecha
+T104	DISEASE 3569 3592	trastornos segmentarios
+T105	DISEASE 3706 3729	Esclerosis mitroaórtica
+T106	DISEASE 3747 3767	insuficiencia mitral
+T107	DISEASE 3825 3861	Derrame pericárdico mínimo posterior
+T108	DISEASE 4276 4300	taquicardias auriculares
+T109	DISEASE 4817 4838	fibrilación auricular
+T112	DISEASE 5243 5266	taquicardia ventricular
+T113	DISEASE 5483 5508	taquicardia con QRS ancho
+T114	DISEASE 5821 5844	hipertrofia ventricular
+T115	DISEASE 6010 6042	extrasístoles supraventriculares
+T116	DISEASE 6083 6107	taquicardia de QRS ancho
+T117	DISEASE 6175 6198	hipertrofia ventricular
+T119	DISEASE 6700 6713	preexcitación
+T121	DISEASE 6961 7062	Taquicardia auricular preexcitada por vía accesoria localizada en porción posterior del anillo mitral
+T122	DISEASE 7099 7123	Cardiopatía hipertensiva
+T123	DISEASE 7128 7149	disfunción diastólica
+T124	DISEASE 7151 7175	Enfermedad renal crónica
+T125	DISEASE 260 271	dislipemias
+T95	DISEASE 692 715	FAV en miembro superior
+T57	DISEASE 843 863	osteodistrofia renal
+T127	DISEASE 1421 1445	taquicardia de QRS ancho
+T128	DISEASE 1604 1608	TVMS
+T130	DISEASE 1686 1713	taquicardia de QRS estrecho
+T16	DISEASE 3139 3156	Aorta calcificada
+T131	DISEASE 3310 3316	BCRDHH
+T133	DISEASE 3595 3639	urícula izquierda dilatada de forma moderada
+T24	DISEASE 5332 5338	BCRDHH
+T26	DISEASE 5697 5703	HBAIHH
+T28	DISEASE 5665 5695	hemibloqueo anterior izquierdo
+T29	DISEASE 6113 6117	TVMS
+T164	DISEASE 3457 3526	ventrículo izquierdo no dilatado con hipertrofia concéntrica moderada
+T39	DISEASE 331 381	nefropatía intersticial por reflujo vesicoureteral
+T110	DISEASE 434 508	doble trasplante renal en 1992 y 2015, ambos disfuncionantes y embolizados
+T118	DISEASE 5620 5643	crecimiento ventricular
+T137	DISEASE 6238 6251	preexcitación
+T31	DISEASE 6595 6626	vía accesoria lateral izquierda
+T138	DISEASE 6911 6924	preexcitación
+#1	AnnotatorNotes T95	FAV: fistula arterio-venosa

@@ -1,0 +1,23 @@
+T1	SYMPTOM 894 953	masa sólida, ecogénica, situada en flanco abdominal derecho
+T2	SYMPTOM 180 195	pérdida de peso
+T3	SYMPTOM 277 316	flanco abdominal derecho una tumoración
+T4	SYMPTOM 850 860	tumoración
+T5	SYMPTOM 1603 1624	tumoración intestinal
+T6	SYMPTOM 101 129	aumento de volumen abdominal
+T7	SYMPTOM 198 214	falta de apetito
+T8	SYMPTOM 237 258	mucosas están pálidas
+T9	SYMPTOM 530 551	Rx de tórax es normal
+T10	SYMPTOM 664 692	riñones son de tamaño normal
+T11	SYMPTOM 694 727	buena eliminación renal bilateral
+T12	SYMPTOM 1222 1266	tumoraciones en el meso del colon transverso
+T13	SYMPTOM 1406 1418	tumoraciones
+T14	SYMPTOM 616 631	calcificaciones
+T15	SYMPTOM 1538 1561	calcificaciones focales
+T16	SYMPTOM 349 367	consistencia firme
+T17	SYMPTOM 1488 1506	consistencia firme
+T18	SYMPTOM 373 381	dolorosa
+A1	IMAGEN T1
+A2	IMAGEN T4
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	IMAGEN T11

@@ -1,0 +1,30 @@
+T17	PROCEDURE 293 321	Ophthalmological examination
+T23	PROCEDURE 414 434	Intraocular pressure
+T18	PROCEDURE 473 483	funduscopy
+T1	PROCEDURE 739 763	neurological examination
+T3	PROCEDURE 765 776	blood count
+T20	PROCEDURE 781 793	biochemistry
+T8	PROCEDURE 811 822	chest X-ray
+T30	PROCEDURE 888 903	cranial CT scan
+T13	PROCEDURE 916 931	Lumbar puncture
+T32	PROCEDURE 1042 1064	corticosteroid boluses
+T33	PROCEDURE 1069 1089	antiplatelet therapy
+T10	PROCEDURE 1092 1115	Angiofluoresceinography
+T9	PROCEDURE 1183 1200	Evoked potentials
+T11	PROCEDURE 1264 1281	Electroretinogram
+T34	PROCEDURE 1286 1295	brain MRI
+T15	PROCEDURE 1309 1317	Serology
+T21	PROCEDURE 1319 1329	immunology
+T22	PROCEDURE 1340 1354	tumour markers
+T12	PROCEDURE 1539 1560	thoracic-abdominal CT
+T16	PROCEDURE 1655 1667	Bronchoscopy
+T19	PROCEDURE 1705 1713	cytology
+T4	PROCEDURE 1745 1748	PET
+T6	PROCEDURE 1844 1859	mediastinoscopy
+T24	PROCEDURE 1874 1979	samples of cerebrospinal fluid, plasma and aqueous humour were taken to study the CRMP-5-IgG autoantibody
+T5	PROCEDURE 2217 2220	PET
+T7	PROCEDURE 2241 2256	mediastinoscopy
+T43	PROCEDURE 2412 2424	chemotherapy
+T14	PROCEDURE 2429 2441	radiotherapy
+T2	PROCEDURE 2467 2491	corticosteroid treatment
+T25	PROCEDURE 2695 2712	funduscopic image

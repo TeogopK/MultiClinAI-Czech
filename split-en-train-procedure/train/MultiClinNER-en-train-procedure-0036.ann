@@ -1,0 +1,15 @@
+T9	PROCEDURE 176 187	Examination
+T1	PROCEDURE 268 286	rectal examination
+T12	PROCEDURE 312 322	blood test
+T2	PROCEDURE 385 396	gastroscopy
+T3	PROCEDURE 436 482	colonoscopy up to the cecum and terminal ileum
+T4	PROCEDURE 551 568	capsule endoscopy
+T16	PROCEDURE 642 666	Tc99m-pertechnetate scan
+T10	PROCEDURE 904 911	operate
+T5	PROCEDURE 918 937	general anaesthesia
+T11	PROCEDURE 945 963	Mc Burney incision
+T18	PROCEDURE 1122 1184	Intestinal resection was performed, including the diverticulum
+T13	PROCEDURE 1191 1228	mechanical latero-lateral anastomosis
+T8	PROCEDURE 1234 1259	prophylactic appendectomy
+T6	PROCEDURE 1342 1359	blood transfusion
+T7	PROCEDURE 1378 1398	pathological anatomy

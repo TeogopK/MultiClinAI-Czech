@@ -1,0 +1,43 @@
+T64	PROCEDURE 6689 6711	tratamiento deplectivo
+T66	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T67	PROCEDURE 262 275	triple bypass
+T68	PROCEDURE 486 515	ecocardiografía transtorácica
+T69	PROCEDURE 517 520	ETT
+T70	PROCEDURE 795 818	cardioversión eléctrica
+T71	PROCEDURE 1022 1076	Poliposis de colon con múltiples exéresis endoscópicas
+T74	PROCEDURE 1140 1156	bypass coronario
+T75	PROCEDURE 1158 1187	herniorrafia inguinal derecha
+T76	PROCEDURE 2299 2317	Exploración física
+T77	PROCEDURE 2422 2442	O2 por gafas nasales
+T78	PROCEDURE 2572 2593	Auscultación cardiaca
+T79	PROCEDURE 2635 2656	Auscultación pulmonar
+T80	PROCEDURE 2851 2869	Electrocardiograma
+T81	PROCEDURE 2871 2874	ECG
+T82	PROCEDURE 3040 3060	Radiografía de tórax
+T83	PROCEDURE 3244 3253	Hemograma
+T84	PROCEDURE 3740 3750	Hemostasia
+T85	PROCEDURE 3828 3850	Proteinograma en suero
+T86	PROCEDURE 4073 4076	ETT
+T87	PROCEDURE 4638 4649	Exploración
+T88	PROCEDURE 4699 4728	Resonancia magnética cardiaca
+T89	PROCEDURE 5993 6026	Gammagrafía ósea de cuerpo entero
+T90	PROCEDURE 6214 6230	Estudio genético
+T91	PROCEDURE 6232 6251	estudio del gen TTR
+T92	PROCEDURE 6407 6430	diuréticos intravenosos
+T93	PROCEDURE 6498 6512	oxigenoterapia
+T95	PROCEDURE 6818 6828	diuréticos
+T97	PROCEDURE 6957 6972	ecocardiografía
+T98	PROCEDURE 7135 7147	RMN cardiaca
+T99	PROCEDURE 7229 7251	proteinograma en suero
+T100	PROCEDURE 7254 7306	detección de cadenas ligeras libres en suero y orina
+T101	PROCEDURE 7425 7458	gammagrafía ósea con bifosfonatos
+T102	PROCEDURE 7628 7639	gammagrafía
+T103	PROCEDURE 7834 7850	estudio genético
+T150	PROCEDURE 820 823	CVE
+T3	PROCEDURE 3514 3524	Bioquímica
+T29	PROCEDURE 3199 3211	esternotomía
+T120	PROCEDURE 5557 5602	Estudio de detección de necrosis y viabilidad
+T155	PROCEDURE 1112 1138	Intervenciones quirúrgicas
+T173	PROCEDURE 2269 2296	interrogatorio por aparatos
+T62	PROCEDURE 5481 5511	Se administra ácido gadotérico
+#1	AnnotatorNotes T150	cardioversión eléctrica

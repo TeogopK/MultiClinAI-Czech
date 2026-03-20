@@ -1,0 +1,29 @@
+T139	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T141	PROCEDURE 394 419	electrical cardioversions
+T3	PROCEDURE 1899 1912	defibrillated
+T142	PROCEDURE 1977 1994	electrocardiogram
+T5	PROCEDURE 2034 2063	cardiopulmonary resuscitation
+T143	PROCEDURE 2065 2068	CPR
+T159	PROCEDURE 2377 2423	isoproterenol and magnesium sulphate perfusion
+T6	PROCEDURE 2459 2488	implant a temporary pacemaker
+T160	PROCEDURE 2535 2558	isoproterenol perfusion
+T144	PROCEDURE 2661 2671	monitoring
+T140	PROCEDURE 2710 2730	Physical examination
+T147	PROCEDURE 2940 2968	Cardiopulmonary auscultation
+T148	PROCEDURE 3241 3253	Neurological
+T155	PROCEDURE 3527 3545	Electrocardiograms
+T149	PROCEDURE 3547 3550	ECG
+T8	PROCEDURE 4103 4114	Blood tests
+T150	PROCEDURE 4267 4278	Coagulation
+T158	PROCEDURE 4352 4364	Biochemistry
+T9	PROCEDURE 4893 4903	HF markers
+T151	PROCEDURE 4971 4991	Arterial blood gases
+T11	PROCEDURE 5080 5108	Transthoracic echocardiogram
+T152	PROCEDURE 5707 5718	Chest X-ray
+T153	PROCEDURE 6017 6037	Coronary angiography
+T156	PROCEDURE 6171 6189	electrocardiograms
+T15	PROCEDURE 6494 6505	blood tests
+T17	PROCEDURE 6729 6772	supplement magnesium, calcium and potassium
+T145	PROCEDURE 6823 6833	monitoring
+T157	PROCEDURE 7069 7085	echocardiography
+T154	PROCEDURE 7128 7148	coronary angiography

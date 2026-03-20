@@ -1,0 +1,62 @@
+T48	DISEASE 9005 9028	exantema maculopapuloso
+T50	DISEASE 77 118	bloqueo auriculoventricular (AV) completo
+T51	DISEASE 152 174	insuficiencia cardiaca
+T52	DISEASE 177 200	síndrome constitucional
+T53	DISEASE 305 326	hipertensión arterial
+T54	DISEASE 328 331	HTA
+T55	DISEASE 334 344	dislipemia
+T56	DISEASE 347 371	diabetes mellitus tipo 2
+T57	DISEASE 373 376	DM2
+T58	DISEASE 423 438	hábitos tóxicos
+T59	DISEASE 510 522	BAV completo
+T60	DISEASE 637 665	disfunción ventricular grave
+T61	DISEASE 758 767	arritmias
+T62	DISEASE 869 908	Síndrome de apnea obstructiva del sueño
+T63	DISEASE 910 914	SAOS
+T64	DISEASE 986 992	Anemia
+T65	DISEASE 2918 2943	bloqueo de rama izquierda
+T66	DISEASE 2992 3017	Extrasistolia ventricular
+T67	DISEASE 3169 3184	derrame pleural
+T68	DISEASE 4679 4726	adenopatías axilares, mediastínicas ni hiliares
+T69	DISEASE 4810 4825	derrame pleural
+T70	DISEASE 4922 4941	hepatopatía crónica
+T71	DISEASE 5003 5038	Quistes simples renales bilaterales
+T72	DISEASE 5040 5057	Litiasis en riñón
+T73	DISEASE 5132 5185	Esplenomegalia de 16,6 cm con varios focos de infarto
+T74	DISEASE 5205 5250	adenopatías retroperitoneales ni mesentéricas
+T75	DISEASE 5285 5308	Diverticulosis de sigma
+T76	DISEASE 5387 5443	ventrículo izquierdo con hipertrofia excéntrica moderada
+T77	DISEASE 5726 5768	endocarditis sobre válvula nativa pulmonar
+T78	DISEASE 6132 6169	vegetación sobre velo anterior mitral
+T79	DISEASE 6180 6295	Insuficiencia mitral moderada (ORE por PISA 0,3 cm2) por ligera eversión del velo, con rotura de cuerdas tendinosas
+T81	DISEASE 6792 6850	descendente anterior: estenosis grave en segmento proximal
+T82	DISEASE 7150 7172	insuficiencia cardiaca
+T83	DISEASE 7182 7205	síndrome constitucional
+T84	DISEASE 7262 7271	neoplasia
+T85	DISEASE 7330 7351	enfermedad neoplásica
+T86	DISEASE 7377 7391	esplenomegalia
+T87	DISEASE 7405 7422	infarto esplénico
+T88	DISEASE 7496 7518	disfunción ventricular
+T89	DISEASE 7628 7657	insuficiencia mitral moderada
+T90	DISEASE 7708 7720	endocarditis
+T91	DISEASE 8172 8191	embolismos sépticos
+T92	DISEASE 8370 8391	edema agudo de pulmón
+T93	DISEASE 8499 8510	anemización
+T94	DISEASE 9487 9540	lesión grave en arteria descendente anterior proximal
+T97	DISEASE 10926 10979	Endocarditis sobre válvulas nativas pulmonar y mitral
+T98	DISEASE 10985 11077	insuficiencia mitral moderada con eversión de velo anterior por rotura de cuerdas tendinosas
+T99	DISEASE 11079 11101	Insuficiencia cardiaca
+T100	DISEASE 11197 11254	Infartos esplénicos secundarios a endocarditis infecciosa
+T101	DISEASE 11256 11271	Agranulocitosis
+T102	DISEASE 11274 11285	trombopenia
+T103	DISEASE 11320 11346	Toxicodermia por meropenem
+T104	DISEASE 6501 6523	Dilatación biauricular
+T105	DISEASE 6679 6691	HTP moderada
+T106	DISEASE 6621 6623	IT
+T108	DISEASE 5674 5700	dilatación de raíz aórtica
+T109	DISEASE 5745 5785	válvula nativa pulmonar: gran vegetación
+T110	DISEASE 6084 6117	endocarditis sobre válvula mitral
+T212	DISEASE 5693 5724	aórtica sin disfunción valvular
+T80	DISEASE 6010 6059	alteraciones patológicas sobre válvula tricúspide
+#1	AnnotatorNotes T105	HTP hipertensión pulmonar
+#2	AnnotatorNotes T106	 IT insuficiencia tricuspídea

@@ -1,0 +1,33 @@
+T29	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T30	PROCEDURE 519 528	anamnesis
+T31	PROCEDURE 550 568	electrocardiograma
+T33	PROCEDURE 731 743	angioplastia
+T34	PROCEDURE 760 771	cateterismo
+T35	PROCEDURE 821 836	coronariografía
+T36	PROCEDURE 806 924	ADA media (ver coronariografía) que se revasculariza mediante tromboaspiración e implante de dos stents farmacoactivos
+T37	PROCEDURE 1274 1277	ECG
+T38	PROCEDURE 1724 1735	Coagulación
+T39	PROCEDURE 1744 1780	Perfil hepático, lipídico y tiroideo
+T40	PROCEDURE 1855 1870	Coronariografía
+T41	PROCEDURE 2085 2111	ICP urgente sobre DA media
+T42	PROCEDURE 2103 2240	DA media: tromboaspiración con catéter, implantándose stent liberador de zotarolimus (2,25 x 18 mm) y otro stent liberador no consecutivo
+T43	PROCEDURE 2288 2316	nitroprusiato intracoronario
+T44	PROCEDURE 2318 2347	Ecocardiografía transtorácica
+T45	PROCEDURE 3357 3387	Ecocardiografía transesofágica
+T46	PROCEDURE 4024 4053	ecocardiografía a pie de cama
+T47	PROCEDURE 4129 4143	monitorización
+T48	PROCEDURE 4349 4377	ecocardiograma transtorácico
+T49	PROCEDURE 4562 4577	ecocardiografía
+T50	PROCEDURE 4820 4840	doble antiagregación
+T52	PROCEDURE 5284 5313	ecocardiografía transtorácica
+T53	PROCEDURE 5674 5704	ecocardiografía transesofágica
+T54	PROCEDURE 5719 5763	reconstrucción por ETE 3D del defecto septal
+T55	PROCEDURE 6122 6232	angioplastia primaria con revascularización de lesión culpable en ADA media mediante dos stents farmacoactivos
+T87	PROCEDURE 1087 1090	ACP
+T88	PROCEDURE 1494 1503	Analítica
+T107	PROCEDURE 6029 6052	intervención quirúrgica
+T117	PROCEDURE 5166 5198	perfusión continua de furosemida
+T118	PROCEDURE 5209 5234	perfusión de levosimendán
+T93	PROCEDURE 4904 4911	cirugía
+T97	PROCEDURE 6006 6013	cirugía
+T98	PROCEDURE 5971 5988	cierre percutáneo

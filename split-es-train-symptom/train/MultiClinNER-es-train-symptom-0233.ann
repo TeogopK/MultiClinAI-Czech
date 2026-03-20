@@ -1,0 +1,9 @@
+T1	SYMPTOM 168 177	cansancio
+T2	SYMPTOM 328 338	normotensa
+T3	SYMPTOM 370 391	tacto rectal negativo
+T4	SYMPTOM 295 302	palidez
+T5	SYMPTOM 579 594	sangrado activo
+T6	SYMPTOM 158 165	melenas
+T7	SYMPTOM 341 365	aceptable estado general
+A1	RESULTADO T3
+A2	RESULTADO T5

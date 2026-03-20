@@ -1,0 +1,59 @@
+T83	PROCEDURE 779 800	Auscultación pulmonar
+T84	PROCEDURE 1208 1232	reactantes de fase aguda
+T85	PROCEDURE 1478 1499	auscultación pulmonar
+T86	PROCEDURE 1539 1557	electrocardiograma
+T87	PROCEDURE 1673 1687	oxigenoterapia
+T88	PROCEDURE 1767 1799	ventilación mecánica no invasiva
+T89	PROCEDURE 1856 1884	ecocardiograma a pie de cama
+T90	PROCEDURE 2091 2123	doble antiagregación plaquetaria
+T91	PROCEDURE 2137 2152	coronariografía
+T92	PROCEDURE 2274 2313	ICP con implante de stent farmacoactivo
+T93	PROCEDURE 2564 2616	implante de un balón de contrapulsación intraaórtico
+T94	PROCEDURE 2718 2737	Analítica sanguínea
+T95	PROCEDURE 2929 2938	Hemograma
+T96	PROCEDURE 3073 3106	Marcadores de necrosis miocárdica
+T97	PROCEDURE 3171 3181	Gasometría
+T98	PROCEDURE 3239 3259	Radiografía de tórax
+T99	PROCEDURE 3370 3373	ECG
+T100	PROCEDURE 3614 3629	Ecocardioscopia
+T101	PROCEDURE 3784 3799	Coronariografía
+T102	PROCEDURE 4056 4131	intervencionismo coronario percutáneo con implante de 1 stent farmacoactivo
+T103	PROCEDURE 4173 4194	Radiografía abdominal
+T104	PROCEDURE 4272 4292	Radiografía de tórax
+T105	PROCEDURE 4364 4377	TC de abdomen
+T106	PROCEDURE 4452 4465	Microbiología
+T107	PROCEDURE 4467 4485	Sedimento urinario
+T108	PROCEDURE 4534 4546	Hemocultivos
+T109	PROCEDURE 4570 4580	Urocultivo
+T110	PROCEDURE 4592 4609	Aspirado traqueal
+T111	PROCEDURE 4870 4892	intubación orotraqueal
+T112	PROCEDURE 4895 4915	ventilación mecánica
+T113	PROCEDURE 4917 4949	Se implanta catéter de Swan-Ganz
+T114	PROCEDURE 5310 5323	fluidoterapia
+T115	PROCEDURE 5402 5467	Se disminuye el soporte del balón de contrapulsación intraaórtico
+T116	PROCEDURE 5577 5605	se coloca sonda nasogástrica
+T117	PROCEDURE 5778 5798	catéter de Swan-Ganz
+T118	PROCEDURE 5816 5831	ecocardiografía
+T119	PROCEDURE 5886 5904	TC toracoabdominal
+T120	PROCEDURE 6219 6242	Se extraen hemocultivos
+T121	PROCEDURE 6310 6332	rastreo microbiológico
+T122	PROCEDURE 6364 6376	hemocultivos
+T123	PROCEDURE 6462 6494	laparotomía supra-infraumbilical
+T124	PROCEDURE 6534 6566	doble antiagregación plaquetaria
+T125	PROCEDURE 6673 6719	implante reciente de stent en un vaso ectásico
+T126	PROCEDURE 6893 6942	yeyuno-íleon realizándose resección y anastomosis
+T127	PROCEDURE 7123 7137	ecocardiograma
+T128	PROCEDURE 7256 7276	doble antiagregación
+T129	PROCEDURE 7342 7367	tratamiento neurohormonal
+T130	PROCEDURE 7729 7803	Revascularización percutánea urgente sobre arteria coronaria derecha media
+T140	PROCEDURE 5725 5747	tratamiento vasoactivo
+T150	PROCEDURE 6254 6277	antibioterapia empírica
+T151	PROCEDURE 921 930	palpación
+T188	PROCEDURE 1064 1073	analítica
+T195	PROCEDURE 6784 6791	cirugía
+T196	PROCEDURE 6952 6959	cirugía
+T206	PROCEDURE 6619 6631	intervención
+T28	PROCEDURE 2405 2439	perfusión endovenosa de dobutamina
+T45	PROCEDURE 4774 4811	balón de contrapulsación intraaórtico
+T152	PROCEDURE 4732 4771	perfusión con noradrenalina, dobutamina
+T153	PROCEDURE 5430 5485	balón de contrapulsación intraaórtico a 1:2 y se retira

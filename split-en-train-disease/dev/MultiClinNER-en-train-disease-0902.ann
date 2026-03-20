@@ -1,0 +1,34 @@
+T29	DISEASE 76 88	hypertensive
+T30	DISEASE 90 98	diabetic
+T65	DISEASE 121 135	hyperuricaemic
+T31	DISEASE 161 190	infiltrating breast carcinoma
+T32	DISEASE 301 312	Hepatitis B
+T33	DISEASE 320 340	Intrathoracic goitre
+T61	DISEASE 376 405	permanent atrial fibrillation
+T2	DISEASE 467 501	severe symptomatic aortic stenosis
+T34	DISEASE 1031 1054	urinary tract infection
+T62	DISEASE 1445 1452	syncope
+T35	DISEASE 1572 1595	urinary tract infection
+T4	DISEASE 1846 1856	arrhythmic
+T36	DISEASE 2210 2227	venous thrombosis
+T37	DISEASE 2298 2310	endocarditis
+T45	DISEASE 2352 2371	atrial fibrillation
+T46	DISEASE 2485 2497	cardiomegaly
+T47	DISEASE 2591 2604	heart failure
+T48	DISEASE 2665 2684	endothoracic goitre
+T63	DISEASE 3833 3854	Diastolic dysfunction
+T64	DISEASE 3856 3892	Slight dilatation of the left atrium
+T9	DISEASE 3894 3972	Normofunctioning aortic biological prosthesis with known trivial insufficiency
+T10	DISEASE 3974 4027	Mild mitral insufficiency and tricuspid insufficiency
+T49	DISEASE 4039 4061	pulmonary hypertension
+T38	DISEASE 4095 4107	endocarditis
+T39	DISEASE 4401 4413	endocarditis
+T50	DISEASE 4537 4551	pyelonephritis
+T40	DISEASE 4623 4635	endocarditis
+T51	DISEASE 4830 4850	endocarditis on TAVI
+T54	DISEASE 5193 5205	septic shock
+T57	DISEASE 5256 5268	coagulopathy
+T58	DISEASE 5541 5587	septic shock secondary to endocarditis on TAVI
+T59	DISEASE 5600 5675	Late endocarditis on TAVI aortic bioprosthesis due to Staphylococcus aureus
+T14	DISEASE 5677 5725	Acute renal failure in the context of gentamicin
+T60	DISEASE 5727 5764	Septic shock with multi-organ failure

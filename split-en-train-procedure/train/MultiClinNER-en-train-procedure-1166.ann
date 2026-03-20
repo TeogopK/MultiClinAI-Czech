@@ -1,0 +1,44 @@
+T116	PROCEDURE 204 232	markers of myocardial damage
+T118	PROCEDURE 262 275	imaging tests
+T95	PROCEDURE 339 359	PHYSICAL EXAMINATION
+T83	PROCEDURE 1010 1026	vascular surgery
+T85	PROCEDURE 1038 1046	angio-CT
+T88	PROCEDURE 1496 1510	echocardiogram
+T8	PROCEDURE 1765 1809	revascularisation surgery with Fogarty probe
+T9	PROCEDURE 1917 1942	myocardial damage markers
+T10	PROCEDURE 1953 1992	humeral artery had been repermeabilised
+T92	PROCEDURE 2027 2047	coronary angiography
+T106	PROCEDURE 2223 2258	anticoagulation with sodium heparin
+T96	PROCEDURE 2273 2293	PHYSICAL EXAMINATION
+T97	PROCEDURE 2598 2618	Cardiac auscultation
+T98	PROCEDURE 2698 2720	Pulmonary auscultation
+T99	PROCEDURE 2911 2920	palpation
+T120	PROCEDURE 2954 2965	Lower limbs
+T100	PROCEDURE 3151 3154	ECG
+T86	PROCEDURE 3276 3313	Angio-CT of the chest and upper limbs
+T89	PROCEDURE 3603 3631	transthoracic echocardiogram
+T12	PROCEDURE 3973 3984	blood tests
+T13	PROCEDURE 3986 3995	Haemogram
+T113	PROCEDURE 4424 4436	Biochemistry
+T101	PROCEDURE 4702 4713	Coagulation
+T115	PROCEDURE 4839 4884	Serialisation of markers of myocardial damage
+T93	PROCEDURE 5045 5065	coronary angiography
+T90	PROCEDURE 5184 5212	transthoracic echocardiogram
+T114	PROCEDURE 6050 6064	colour Doppler
+T102	PROCEDURE 6478 6523	CT angiography of the abdomen and lower limbs
+T103	PROCEDURE 6753 6781	Cardiac magnetic radiography
+T18	PROCEDURE 6783 6786	CMR
+T119	PROCEDURE 7058 7075	T2 STIR sequences
+T104	PROCEDURE 7134 7163	myocardial perfusion sequence
+T87	PROCEDURE 7917 7925	angio-CT
+T105	PROCEDURE 7991 8019	Fogarty catheter embolectomy
+T91	PROCEDURE 8298 8312	echocardiogram
+T94	PROCEDURE 8556 8576	coronary angiography
+T25	PROCEDURE 8677 8701	sodium heparin perfusion
+T107	PROCEDURE 8890 8905	anticoagulation
+T23	PROCEDURE 8920 8943	serial controls by aPTT
+T22	PROCEDURE 8978 9001	sodium heparin infusion
+T109	PROCEDURE 9030 9042	thrombectomy
+T108	PROCEDURE 9397 9412	Anticoagulation
+T111	PROCEDURE 9755 9766	embolectomy
+T112	PROCEDURE 9890 9921	transfemoral thromboembolectomy

@@ -1,0 +1,21 @@
+T1	SYMPTOM 146 155	dry cough
+T2	SYMPTOM 157 178	precordial discomfort
+T4	SYMPTOM 180 196	watery diarrhoea
+T5	SYMPTOM 201 206	fever
+T6	SYMPTOM 229 247	bilateral crackles
+T7	SYMPTOM 325 349	interstitial infiltrates
+T19	SYMPTOM 425 455	leukocytosis with a left shift
+T13	SYMPTOM 1241 1265	espiratory deterioration
+T24	SYMPTOM 1594 1603	Diarrhoea
+T26	SYMPTOM 1824 1850	haemodynamic deterioration
+T14	SYMPTOM 2206 2280	anti-neutrophil cytoplasm and anti-basal membrane antibodies were negative
+T15	SYMPTOM 2283 2341	determination of galactomannan antigen in blood (negative)
+T16	SYMPTOM 2386 2441	bacterial and fungal cultures were requested (negative)
+T8	SYMPTOM 3170 3181	oligoanuria
+T9	SYMPTOM 3273 3297	haemodynamic instability
+T3	SYMPTOM 3677 3688	lymphopenia
+T10	SYMPTOM 3690 3706	thrombocytopenia
+T12	SYMPTOM 3746 3769	intra-alveolar bleeding
+T35	SYMPTOM 4995 5055	positive blood culture for coagulase-negative Staphylococcus
+T11	SYMPTOM 5398 5436	PCR for Adenovirus was negative in BAL
+T37	SYMPTOM 5961 5965	died

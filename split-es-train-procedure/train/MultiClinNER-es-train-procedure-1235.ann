@@ -1,0 +1,63 @@
+T51	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T53	PROCEDURE 838 852	ecocardiograma
+T54	PROCEDURE 921 974	ablación mediante radiofrecuencia de venas pulmonares
+T57	PROCEDURE 1328 1365	autodeterminaciones de ritmo cardiaco
+T58	PROCEDURE 1438 1452	Holter de 24 h
+T59	PROCEDURE 1549 1564	anticoagulación
+T60	PROCEDURE 1758 1775	broncodilatadores
+T61	PROCEDURE 2535 2553	electrocardiograma
+T62	PROCEDURE 2555 2558	ECG
+T63	PROCEDURE 2657 2660	ECG
+T64	PROCEDURE 2730 2744	ecocardiograma
+T65	PROCEDURE 2755 2773	Exploración física
+T66	PROCEDURE 2967 2988	Auscultación cardiaca
+T67	PROCEDURE 3027 3048	Auscultación pulmonar
+T68	PROCEDURE 3207 3210	ECG
+T69	PROCEDURE 3352 3355	ECG
+T70	PROCEDURE 3782 3796	Ecocardiograma
+T71	PROCEDURE 4831 4852	TC coronarias y de AI
+T72	PROCEDURE 4879 4893	ablación de FA
+T73	PROCEDURE 4925 4952	Coronariografía no invasiva
+T74	PROCEDURE 5033 5059	Estudio aurícula izquierda
+T75	PROCEDURE 5429 5458	Ecocardiograma transesofágico
+T76	PROCEDURE 5467 5475	ablación
+T77	PROCEDURE 5573 5580	Doppler
+T79	PROCEDURE 6060 6078	punción transeptal
+T80	PROCEDURE 6115 6141	Estudio electrofisiológico
+T81	PROCEDURE 6144 6152	ablación
+T82	PROCEDURE 6155 6199	Evaluación diagnóstica cartográfica de la AI
+T83	PROCEDURE 6208 6231	cardioversión eléctrica
+T84	PROCEDURE 6254 6300	cartografía detallada de la aurícula izquierda
+T85	PROCEDURE 6349 6367	punción transeptal
+T88	PROCEDURE 7219 7253	mapa de voltaje de ambas aurículas
+T89	PROCEDURE 7832 7857	Procedimiento de ablación
+T90	PROCEDURE 8023 8064	radiofrecuencia en región posterosuperior
+T94	PROCEDURE 9072 9080	ablación
+T97	PROCEDURE 9511 9535	Se retiran los catéteres
+T98	PROCEDURE 9755 9758	ECG
+T99	PROCEDURE 9857 9871	ecocardiograma
+T100	PROCEDURE 10152 10178	tratamiento anticoagulante
+T101	PROCEDURE 10623 10648	procedimiento de ablación
+T102	PROCEDURE 10829 10872	TC de aurícula izquierda y venas pulmonares
+T103	PROCEDURE 10885 10893	ablación
+T104	PROCEDURE 10941 10968	coronariografía no invasiva
+T105	PROCEDURE 11069 11084	anticoagulación
+T106	PROCEDURE 11108 11132	medicación antiarrítmica
+T110	PROCEDURE 11810 11835	medicación anticoagulante
+T111	PROCEDURE 11841 11866	tratamiento antiarrítmico
+T112	PROCEDURE 11881 11889	ablación
+T113	PROCEDURE 12087 12090	ECG
+T114	PROCEDURE 12143 12158	ecocardioscopia
+T115	PROCEDURE 12327 12352	procedimiento de ablación
+T116	PROCEDURE 12464 12466	TC
+T117	PROCEDURE 12476 12484	ablación
+T118	PROCEDURE 12684 12753	Ablación con radiofrecuencia de reconexión y de focos extrapulmonares
+T2	PROCEDURE 1631 1644	antiarrítmico
+T52	PROCEDURE 7102 7126	maniobra de pace and map
+T87	PROCEDURE 12487 12533	Reconexión de vena pulmonar superior izquierda
+T158	PROCEDURE 2917 2932	Cabeza y cuello
+T210	PROCEDURE 11153 11203	procedimiento de ablación de fibrilación auricular
+T20	PROCEDURE 7403 7428	infusión de isoproterenol
+T91	PROCEDURE 11388 11413	infusión de isoproterenol
+T92	PROCEDURE 12592 12617	infusión de isoproterenol
+T43	PROCEDURE 1127 1200	ligamento de Marshall, ablacionado con éxito en región de carina anterior

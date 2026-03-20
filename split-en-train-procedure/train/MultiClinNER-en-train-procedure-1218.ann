@@ -1,0 +1,37 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T51	PROCEDURE 388 407	serological profile
+T53	PROCEDURE 1043 1063	Physical examination
+T54	PROCEDURE 1243 1263	Cardiac auscultation
+T55	PROCEDURE 1291 1313	Pulmonary auscultation
+T56	PROCEDURE 1446 1449	ECG
+T2	PROCEDURE 1622 1638	Laboratory tests
+T3	PROCEDURE 2019 2031	iron profile
+T58	PROCEDURE 2040 2094	Emergent coronary catheterisation: right radial access
+T7	PROCEDURE 2354 2391	Percutaneous coronary interventionism
+T6	PROCEDURE 2393 2396	PCI
+T8	PROCEDURE 2428 2471	distal RCA and several thrombus aspirations
+T59	PROCEDURE 2697 2725	Optical coherence tomography
+T60	PROCEDURE 2727 2730	OCT
+T10	PROCEDURE 3036 3051	implant a stent
+T11	PROCEDURE 3053 3081	Transthoracic echocardiogram
+T57	PROCEDURE 3522 3525	ECG
+T62	PROCEDURE 3704 3721	electrocardiogram
+T64	PROCEDURE 3811 3835	coronary catheterisation
+T65	PROCEDURE 3905 3922	thromboaspiration
+T66	PROCEDURE 3927 3946	balloon angioplasty
+T14	PROCEDURE 3987 4017	Intracoronary imaging with OCT
+T15	PROCEDURE 4201 4216	implant a stent
+T16	PROCEDURE 4220 4248	transthoracic echocardiogram
+T17	PROCEDURE 4337 4364	Double antiplatelet therapy
+T67	PROCEDURE 4369 4384	anticoagulation
+T71	PROCEDURE 4420 4429	monitored
+T72	PROCEDURE 4470 4490	oral anticoagulation
+T73	PROCEDURE 4535 4550	radial puncture
+T69	PROCEDURE 4615 4630	anticoagulation
+T70	PROCEDURE 4702 4717	anticoagulation
+T74	PROCEDURE 4733 4740	statins
+T18	PROCEDURE 4755 4775	antiplatelet therapy
+T75	PROCEDURE 4863 4885	cardiac rehabilitation
+T76	PROCEDURE 4899 4910	coronary CT
+T77	PROCEDURE 5056 5102	Urgent right coronary artery revascularisation
+T78	PROCEDURE 5209 5235	oral anticoagulant therapy

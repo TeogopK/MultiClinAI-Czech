@@ -1,0 +1,29 @@
+T56	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 1003 1010	monitor
+T57	PROCEDURE 1084 1104	PHYSICAL EXAMINATION
+T58	PROCEDURE 1417 1431	oxygen therapy
+T59	PROCEDURE 1436 1448	auscultation
+T60	PROCEDURE 1572 1593	Abdominal examination
+T61	PROCEDURE 1745 1748	ECG
+T62	PROCEDURE 1975 1978	ECG
+T63	PROCEDURE 1985 2019	percutaneous coronary intervention
+T2	PROCEDURE 2181 2192	Blood tests
+T65	PROCEDURE 2292 2305	Lipid profile
+T66	PROCEDURE 2421 2447	liver and thyroid profiles
+T3	PROCEDURE 2476 2501	Myocardial damage markers
+T4	PROCEDURE 2547 2556	Haemogram
+T67	PROCEDURE 2637 2654	coagulation study
+T68	PROCEDURE 2656 2667	Chest X-ray
+T69	PROCEDURE 2813 2843	Transthoracic echocardiography
+T70	PROCEDURE 3586 3627	Coronary angiography: right radial access
+T9	PROCEDURE 3847 3988	Direct implantation of a zotarolimus-eluting stent (Resolute Onyx 3.5 x 18 mm) was performed on the proximal anterior descending artery (ADA)
+T79	PROCEDURE 4429 4455	Serial analytical controls
+T72	PROCEDURE 4649 4669	coronary angiography
+T73	PROCEDURE 4834 4863	percutaneously revascularised
+T10	PROCEDURE 4870 4902	drug-eluting stent was implanted
+T74	PROCEDURE 4991 5008	electrocardiogram
+T78	PROCEDURE 5125 5138	imaging tests
+T76	PROCEDURE 5144 5160	echocardiography
+T77	PROCEDURE 5495 5517	cardiac rehabilitation
+T64	PROCEDURE 5820 5854	Percutaneous coronary intervention
+T11	PROCEDURE 5856 5859	PCI

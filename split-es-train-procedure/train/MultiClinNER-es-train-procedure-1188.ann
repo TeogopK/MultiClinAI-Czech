@@ -1,0 +1,31 @@
+T80	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T81	PROCEDURE 439 488	Gammagrafía cardiaca con pirofosfatos (Tc99m-DPD)
+T82	PROCEDURE 661 689	Ecocardiograma transtorácico
+T83	PROCEDURE 1356 1369	biopsia renal
+T84	PROCEDURE 1412 1425	biopsia renal
+T85	PROCEDURE 1480 1492	embolectomía
+T86	PROCEDURE 1669 1707	Tratamiento quimioterápico del mieloma
+T87	PROCEDURE 2119 2137	electrocardiograma
+T88	PROCEDURE 2139 2142	ECG
+T89	PROCEDURE 2205 2208	ECG
+T90	PROCEDURE 2288 2306	Exploración física
+T91	PROCEDURE 2401 2422	Auscultación cardiaca
+T92	PROCEDURE 2518 2539	Auscultación pulmonar
+T93	PROCEDURE 2866 2875	Hemograma
+T94	PROCEDURE 3286 3324	Marcadores de daño miocárdico seriados
+T95	PROCEDURE 3429 3440	Coagulación
+T96	PROCEDURE 3630 3633	ECG
+T97	PROCEDURE 3812 3832	Radiografía de tórax
+T98	PROCEDURE 3934 3962	Ecocardiograma transtorácico
+T99	PROCEDURE 4359 4399	gammagrafía con pirofosfatos (Tc99m-DPD)
+T100	PROCEDURE 4977 4980	ECG
+T101	PROCEDURE 5443 5458	betabloqueantes
+T102	PROCEDURE 5471 5485	ecocardiograma
+T103	PROCEDURE 5878 5893	anticoagulación
+T104	PROCEDURE 6265 6291	tratamiento anticoagulante
+T105	PROCEDURE 6433 6460	cardioversión farmacológica
+T124	PROCEDURE 3051 3061	Bioquímica
+T125	PROCEDURE 2014 2042	tomar las constantes vitales
+T126	PROCEDURE 2644 2677	palpación superficial ni profunda
+T24	PROCEDURE 5307 5337	amiodarona en bolo y perfusión
+T40	PROCEDURE 1136 1160	confirmación histológica

@@ -1,0 +1,34 @@
+T21	DISEASE 115 129	drug allergies
+T22	DISEASE 167 176	ex-smoker
+T34	DISEASE 216 226	Ex-drinker
+T1	DISEASE 237 256	metabolic disorders
+T23	DISEASE 277 302	antiphospholipid syndrome
+T2	DISEASE 304 307	APS
+T24	DISEASE 327 355	systemic lupus erythematosus
+T3	DISEASE 357 360	SLE
+T4	DISEASE 363 398	Segmental pulmonary thromboembolism
+T5	DISEASE 400 403	PTE
+T6	DISEASE 513 565	acute non-ST-segment elevation myocardial infarction
+T31	DISEASE 580 624	2-vessel coronary artery disease (AMD and PD
+T8	DISEASE 736 775	mild left ventricular hypertrophy (LVH)
+T9	DISEASE 771 774	LVH
+T10	DISEASE 784 806	valvular heart disease
+T25	DISEASE 931 943	sudden death
+T11	DISEASE 1396 1401	STEMI
+T35	DISEASE 1454 1470	anginal episodes
+T12	DISEASE 1654 1658	SMVT
+T13	DISEASE 2685 2731	VT with morphology of left bundle branch block
+T14	DISEASE 2733 2737	LBBB
+T36	DISEASE 3169 3214	Normal sized LV with basal septal hypertrophy
+T27	DISEASE 3360 3368	mild LVH
+T18	DISEASE 3438 3440	VT
+T28	DISEASE 3528 3545	myocardial eschar
+T40	DISEASE 3757 3759	VT
+T63	DISEASE 3765 3769	LBBB
+T33	DISEASE 4030 4047	arrhythmic events
+T65	DISEASE 4096 4098	VT
+T30	DISEASE 4241 4283	arrhythmogenic right ventricular dysplasia
+T67	DISEASE 4285 4289	ARVD
+T26	DISEASE 4318 4360	TVMS of the anterolateral aspect of the RV
+T32	DISEASE 4436 4468	2-vessel coronary artery disease
+T29	DISEASE 4534 4561	arrhythmogenic RV dysplasia

@@ -1,0 +1,46 @@
+T46	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T47	PROCEDURE 235 239	tíos
+T48	PROCEDURE 346 374	sustitución valvular aórtica
+T49	PROCEDURE 489 504	coronariografía
+T50	PROCEDURE 1317 1326	anamnesis
+T51	PROCEDURE 1977 1998	Auscultación cardiaca
+T52	PROCEDURE 2038 2059	Auscultación pulmonar
+T53	PROCEDURE 2393 2404	Coagulación
+T54	PROCEDURE 2416 2434	Electrocardiograma
+T55	PROCEDURE 2436 2439	ECG
+T56	PROCEDURE 2559 2562	ECG
+T57	PROCEDURE 2573 2593	Radiografía de tórax
+T58	PROCEDURE 2700 2729	Ecocardiografía transtorácica
+T59	PROCEDURE 3046 3075	Resonancia magnética cardiaca
+T60	PROCEDURE 3486 3512	Estudio electrofisiológico
+T61	PROCEDURE 3514 3517	EEF
+T62	PROCEDURE 3521 3555	ablación con sistema de navegación
+T63	PROCEDURE 3684 3742	reconstrucción tridimensional del VD con eco-intracardiaca
+T64	PROCEDURE 4140 4155	radiofrecuencia
+T65	PROCEDURE 4413 4457	test de inducción de arritmias ventriculares
+T66	PROCEDURE 4480 4498	Test de flecainida
+T67	PROCEDURE 4648 4651	ECG
+T68	PROCEDURE 4653 4673	radiografía de tórax
+T70	PROCEDURE 4788 4823	monitorización electrocardiográfica
+T71	PROCEDURE 4937 4952	ecocardiografía
+T72	PROCEDURE 5017 5031	monitorización
+T73	PROCEDURE 5166 5176	telemetría
+T74	PROCEDURE 5407 5410	EEF
+T75	PROCEDURE 5424 5480	ablación guiada por sistema de navegación del foco de EV
+T76	PROCEDURE 5620 5715	ablación con radiofrecuencia en la banda moderadora (BM) guiada por sistema de navegación CARTO
+T77	PROCEDURE 5727 5745	test de flecainida
+T79	PROCEDURE 5807 5842	resonancia magnética (RMN) cardiaca
+T81	PROCEDURE 6054 6062	ablación
+T82	PROCEDURE 6205 6238	implantación de Holter subcutáneo
+T83	PROCEDURE 6287 6295	ablación
+T84	PROCEDURE 6492 6508	estudio genético
+T118	PROCEDURE 5829 5832	RMN
+T119	PROCEDURE 6016 6034	Holter de 24 horas
+T121	PROCEDURE 6375 6426	implante de un desfibrilador automático implantable
+T122	PROCEDURE 6841 6908	Ablación de extrasistolia de banda moderadora de ventrículo derecho
+T123	PROCEDURE 6910 6925	Implante de DAI
+T124	PROCEDURE 2242 2251	Analítica
+T132	PROCEDURE 3178 3188	Telemetría
+T135	PROCEDURE 4676 4685	analítica
+T128	PROCEDURE 5916 5938	vigilancia telemétrica
+T129	PROCEDURE 6428 6431	DAI

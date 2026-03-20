@@ -1,0 +1,68 @@
+T113	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T95	PROCEDURE 948 951	CPR
+T137	PROCEDURE 1046 1056	AED shocks
+T4	PROCEDURE 1158 1163	shock
+T98	PROCEDURE 1237 1254	electrocardiogram
+T99	PROCEDURE 1256 1259	ECG
+T107	PROCEDURE 1435 1457	orotracheal intubation
+T6	PROCEDURE 1459 1462	OTI
+T108	PROCEDURE 1697 1717	coronary angiography
+T112	PROCEDURE 1727 1738	hypothermia
+T114	PROCEDURE 1854 1874	Physical examination
+T8	PROCEDURE 1956 1965	post-OIOT
+T133	PROCEDURE 2042 2060	sedative treatment
+T9	PROCEDURE 2066 2099	continuous perfusion of midazolam
+T115	PROCEDURE 2101 2110	Intubated
+T10	PROCEDURE 2132 2142	ventilator
+T116	PROCEDURE 2237 2257	cardiac auscultation
+T117	PROCEDURE 2282 2304	pulmonary auscultation
+T100	PROCEDURE 2531 2534	ECG
+T11	PROCEDURE 2554 2563	discharge
+T101	PROCEDURE 2694 2697	ECG
+T12	PROCEDURE 2932 2940	analysis
+T118	PROCEDURE 3009 3022	lipid profile
+T134	PROCEDURE 3029 3043	renal function
+T135	PROCEDURE 3048 3060	electrolytes
+T13	PROCEDURE 3118 3127	haemogram
+T119	PROCEDURE 3132 3143	coagulation
+T14	PROCEDURE 3153 3178	myocardial damage markers
+T15	PROCEDURE 3298 3317	Urine toxicity test
+T120	PROCEDURE 3339 3354	echocardioscopy
+T109	PROCEDURE 3600 3620	coronary angiography
+T16	PROCEDURE 3657 3668	Cerebral CT
+T17	PROCEDURE 3673 3705	thoraco-abdominal CT angiography
+T18	PROCEDURE 3732 3760	Transthoracic echocardiogram
+T129	PROCEDURE 4426 4460	Cardiac magnetic resonance imaging
+T20	PROCEDURE 4462 4465	MRI
+T138	PROCEDURE 4746 4772	late enhancement sequences
+T102	PROCEDURE 4988 4991	ECG
+T122	PROCEDURE 5021 5032	stress test
+T123	PROCEDURE 5120 5131	stress test
+T103	PROCEDURE 5286 5289	ECG
+T124	PROCEDURE 5359 5374	flecainide test
+T125	PROCEDURE 5502 5538	pharmacological test with flecainide
+T104	PROCEDURE 5786 5789	ECG
+T25	PROCEDURE 5837 5874	echocardiographic test with ergobasin
+T110	PROCEDURE 6009 6029	coronary angiography
+T26	PROCEDURE 6031 6061	cerebral-thoracic-abdominal CT
+T27	PROCEDURE 6066 6069	TTE
+T127	PROCEDURE 6215 6224	telemetry
+T136	PROCEDURE 6324 6348	advanced cardiac imaging
+T28	PROCEDURE 6353 6412	provocation tests for channelopathies or coronary vasospasm
+T128	PROCEDURE 6552 6576	monitored with telemetry
+T111	PROCEDURE 6808 6828	coronary angiography
+T130	PROCEDURE 6830 6864	Cardiac magnetic resonance imaging
+T31	PROCEDURE 7013 7029	echocardiography
+T32	PROCEDURE 7033 7035	CT
+T121	PROCEDURE 7089 7119	transthoracic echocardiography
+T131	PROCEDURE 7123 7157	cardiac magnetic resonance imaging
+T34	PROCEDURE 7162 7205	Channelopathies: negative provocation tests
+T105	PROCEDURE 7309 7312	ECG
+T126	PROCEDURE 7413 7444	ergobasin echocardiography test
+T106	PROCEDURE 7813 7816	ECG
+T41	PROCEDURE 7821 7849	transthoracic echocardiogram
+T39	PROCEDURE 7921 7989	subcutaneous implantable cardioverter defibrillator (ICD) was placed
+T40	PROCEDURE 7974 7977	ICD
+T132	PROCEDURE 8071 8088	electrophysiology
+T37	PROCEDURE 8112 8144	Out-of-hospital CRA resuscitated
+T36	PROCEDURE 8303 8362	Pharmacological tests to unmask channelopathy and vasospasm

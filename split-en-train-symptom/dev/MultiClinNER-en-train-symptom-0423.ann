@@ -1,0 +1,37 @@
+T1	SYMPTOM 71 87	febrile syndrome
+T2	SYMPTOM 194 219	positive serology for EBV
+T23	SYMPTOM 221 255	positive VCA IgG, VCA IgM and EBNA
+T4	SYMPTOM 342 347	fever
+T6	SYMPTOM 353 359	chills
+T8	SYMPTOM 361 369	asthenia
+T9	SYMPTOM 374 389	general malaise
+T3	SYMPTOM 406 431	positive serology for EBV
+T24	SYMPTOM 475 512	splenomegaly with a hypoechoic lesion
+T18	SYMPTOM 678 690	asymptomatic
+T5	SYMPTOM 735 740	fever
+T7	SYMPTOM 780 786	chills
+T12	SYMPTOM 788 796	headache
+T13	SYMPTOM 798 809	odynophagia
+T14	SYMPTOM 814 825	weight loss
+T10	SYMPTOM 917 932	general malaise
+T25	SYMPTOM 934 962	cutaneous and mucosal pallor
+T15	SYMPTOM 1066 1078	thrombopenia
+T47	SYMPTOM 1103 1127	normal white blood cells
+T16	SYMPTOM 1145 1182	neutrophilia (77%) and left deviation
+T30	SYMPTOM 1192 1223	slightly elevated transaminases
+T20	SYMPTOM 1242 1261	cholestasis enzymes
+T31	SYMPTOM 1334 1392	coagulation study and the elemental urinalysis were normal
+T17	SYMPTOM 1408 1472	immunoglobulin determination and immunological study were normal
+T32	SYMPTOM 1532 1734	serology for hepatitis viruses (A, B and C), retroviruses (HIV-1 and 2), typhoid, brucella, mycoplasma, legionella (with determination of urine antigen), herpes, CMV, and toxoplasma, which were negative
+T21	SYMPTOM 1769 1812	IgG anti-VCA IgG and IgG anti-EBNA positive
+T33	SYMPTOM 1817 1838	IgM anti-VCA negative
+T34	SYMPTOM 1881 1988	blood cultures, sputum cultures and urine cultures, which included the study of mycobacteria) were negative
+T26	SYMPTOM 2117 2162	enlarged lymph nodes at the para-aortic level
+T35	SYMPTOM 2214 2318	results (microbiological and histopathological) obtained from liver and bone marrow biopsy were negative
+T36	SYMPTOM 2783 2847	focal thickening of the hepatic capsule of the left hepatic lobe
+T11	SYMPTOM 2857 2911	peritoneal nodule in the mesentery of the distal ileum
+T27	SYMPTOM 3077 3088	lymph nodes
+T28	SYMPTOM 3129 3140	lymph nodes
+T22	SYMPTOM 3356 3374	subcapsular nodule
+T29	SYMPTOM 3434 3487	remaining splenic tissue was congestive in appearance
+T19	SYMPTOM 3805 3817	asymptomatic

@@ -1,0 +1,17 @@
+T1	PROCEDURE 205 233	Ophthalmological examination
+T3	PROCEDURE 328 343	slit-lamp study
+T13	PROCEDURE 420 440	fluorescein staining
+T15	PROCEDURE 477 497	Intraocular pressure
+T2	PROCEDURE 531 554	fundoscopic examination
+T19	PROCEDURE 643 658	corticosteroids
+T6	PROCEDURE 663 673	mydriatics
+T8	PROCEDURE 788 806	fundus examination
+T22	PROCEDURE 1016 1036	antiplatelet therapy
+T10	PROCEDURE 1128 1139	argon laser
+T9	PROCEDURE 1140 1156	photocoagulation
+T7	PROCEDURE 1303 1327	systemic corticosteroids
+T11	PROCEDURE 1486 1505	antiviral treatment
+T5	PROCEDURE 1592 1607	corticosteroids
+T12	PROCEDURE 1651 1670	Antiviral treatment
+T4	PROCEDURE 1732 1735	CBC
+T14	PROCEDURE 1740 1752	biochemistry

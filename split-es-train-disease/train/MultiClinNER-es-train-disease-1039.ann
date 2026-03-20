@@ -1,0 +1,59 @@
+T47	DISEASE 6065 6087	consolidación pulmonar
+T119	DISEASE 88 122	reacciones adversas medicamentosas
+T120	DISEASE 169 190	hipertensión arterial
+T121	DISEASE 221 268	Diabetes mellitus tipo 2 no insulinodependiente
+T122	DISEASE 299 315	Dislipemia mixta
+T123	DISEASE 352 367	hábitos tóxicos
+T124	DISEASE 397 430	fibrilación auricular paroxística
+T125	DISEASE 523 542	trastorno depresivo
+T126	DISEASE 544 566	trombocitemia esencial
+T127	DISEASE 568 601	úlcera corneal neurotrófica grave
+T128	DISEASE 1804 1826	insuficiencia cardiaca
+T129	DISEASE 2049 2082	fibrilación ventricular sin pulso
+T130	DISEASE 2623 2631	arritmia
+T131	DISEASE 3035 3055	distrés respiratorio
+T132	DISEASE 3346 3371	trombosis venosa profunda
+T133	DISEASE 3373 3376	TVP
+T134	DISEASE 3788 3820	bloqueo completo de rama derecha
+T135	DISEASE 3979 4024	taquicardia ventricular polimorfa de tipo TdP
+T136	DISEASE 5251 5296	hipertrofia ventricular izquierda concéntrica
+T138	DISEASE 5463 5492	Insuficiencia mitral moderada
+T140	DISEASE 5696 5721	insuficiencia tricuspídea
+T141	DISEASE 5723 5725	IT
+T142	DISEASE 5861 5880	derrame pericárdico
+T143	DISEASE 6117 6130	Cardiomegalia
+T144	DISEASE 6132 6163	Calcificación del botón aórtico
+T145	DISEASE 6165 6204	Cambios degenerativos en columna dorsal
+T147	DISEASE 6722 6735	hipopotasemia
+T148	DISEASE 6737 6751	hipomagnesemia
+T149	DISEASE 6754 6772	hipocalcemia leves
+T150	DISEASE 6774 6799	trastornos electrolíticos
+T151	DISEASE 7195 7197	IC
+T152	DISEASE 7202 7230	disfunción ventricular grave
+T153	DISEASE 7235 7255	insuficiencia mitral
+T154	DISEASE 7257 7259	IM
+T155	DISEASE 7395 7418	miocardiopatía dilatada
+T156	DISEASE 7732 7754	insuficiencia cardiaca
+T157	DISEASE 7800 7802	IC
+T158	DISEASE 8448 8450	IC
+T159	DISEASE 8646 8682	miocardiopatía dilatada no isquémica
+T160	DISEASE 8916 8951	taquicardia ventricular polimórfica
+T161	DISEASE 8975 9012	parada cardiorrespiratoria recuperada
+T162	DISEASE 9014 9054	Insuficiencia cardiaca con FEVI reducida
+T163	DISEASE 9070 9106	miocardiopatía dilatada no isquémica
+T166	DISEASE 2084 2088	FVSP
+T167	DISEASE 2336 2363	ritmo de torsade de Pointes
+T14	DISEASE 3822 3828	BCRDHH
+T39	DISEASE 5298 5342	Ventrículo izquierdo de volúmenes aumentados
+T137	DISEASE 5566 5604	Grave dilatación de aurícula izquierda
+T117	DISEASE 8798 8843	Intervalo QT prolongado adquirido iatrogénico
+T118	DISEASE 8885 8903	eventos arrítmicos
+T139	DISEASE 8953 8971	torsade de Pointes
+T55	DISEASE 9132 9151	taquimiocardiopatía
+T169	DISEASE 2365 2368	TdP
+T18	DISEASE 4125 4131	BCRDHH
+T173	DISEASE 5043 5045	IC
+T175	DISEASE 6821 6850	prolongación del intervalo QT
+T177	DISEASE 8213 8242	prolongación del intervalo QT
+T178	DISEASE 8701 8720	taquimiocardiopatía
+#1	AnnotatorNotes T166	fibrilación ventricular sin pulso

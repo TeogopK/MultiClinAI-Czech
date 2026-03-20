@@ -1,0 +1,57 @@
+T34	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T35	PROCEDURE 237 242	parto
+T37	PROCEDURE 269 302	Histerectomía y doble anexectomía
+T38	PROCEDURE 659 677	electrocardiograma
+T39	PROCEDURE 679 682	ECG
+T40	PROCEDURE 893 911	Exploración física
+T41	PROCEDURE 1041 1073	Auscultación cardiorrespiratoria
+T42	PROCEDURE 1214 1223	Hemograma
+T43	PROCEDURE 1324 1335	Coagulación
+T44	PROCEDURE 1644 1696	Detección de ARN de SARS-CoV-2 (exudado nasofaríngeo
+T45	PROCEDURE 1709 1712	ECG
+T46	PROCEDURE 1909 1929	Radiografía de tórax
+T47	PROCEDURE 2070 2073	ECG
+T48	PROCEDURE 2237 2248	cateterismo
+T49	PROCEDURE 2671 2693	Angioplastia sobre ADA
+T50	PROCEDURE 2768 2791	ecografía intravascular
+T52	PROCEDURE 3289 3330	Angio-TC de troncos supraaórticos y aorta
+T53	PROCEDURE 3471 3474	ECG
+T54	PROCEDURE 3769 3780	cateterismo
+T55	PROCEDURE 4060 4063	ICP
+T56	PROCEDURE 4111 4115	IVUS
+T57	PROCEDURE 4425 4451	ICP con balón simple en OM
+T58	PROCEDURE 4716 4734	Angio-TC coronario
+T59	PROCEDURE 4755 4773	Angio-TC coronario
+T61	PROCEDURE 5055 5073	Angio-TC coronario
+T64	PROCEDURE 5645 5648	ECG
+T65	PROCEDURE 5722 5737	coronariografía
+T67	PROCEDURE 5987 5999	angioplastia
+T68	PROCEDURE 6102 6142	angio-TC de troncos supraórticos y aorta
+T69	PROCEDURE 6201 6216	ecocardiografía
+T70	PROCEDURE 6391 6411	doble antiagregación
+T71	PROCEDURE 6414 6429	anticoagulación
+T72	PROCEDURE 6709 6712	ECG
+T73	PROCEDURE 6837 6841	IVUS
+T74	PROCEDURE 6966 7012	angioplastia con balón simple y balón de corte
+T75	PROCEDURE 7072 7091	angio-TAC coronario
+T76	PROCEDURE 7396 7416	doble antiagregación
+T77	PROCEDURE 7486 7495	estatinas
+T78	PROCEDURE 7497 7512	betabloqueantes
+T79	PROCEDURE 7515 7523	nitratos
+T80	PROCEDURE 7796 7850	angioplastia con balón a baja presión y guía coronaria
+T81	PROCEDURE 7970 8044	Angioplastia primaria con balón en bifurcación obtusa marginal-circunfleja
+T82	PROCEDURE 8104 8112	Angio-TC
+T119	PROCEDURE 210 231	reproducción asistida
+T87	PROCEDURE 1364 1374	Bioquímica
+T15	PROCEDURE 2793 2797	IVUS
+T19	PROCEDURE 3066 3070	IVUS
+T126	PROCEDURE 3860 3864	IVUS
+T128	PROCEDURE 4595 4613	balón simple en Cx
+T63	PROCEDURE 5777 5781	IVUS
+T130	PROCEDURE 6004 6021	implante de stent
+T132	PROCEDURE 6767 6782	Coronariografía
+T134	PROCEDURE 7855 7872	implante de stent
+T136	PROCEDURE 1203 1212	Analítica
+T150	PROCEDURE 6521 6551	estudio de hipercoagulabilidad
+T162	PROCEDURE 726 768	seriación de marcadores de daño miocárdico
+T142	PROCEDURE 6743 6765	activándose código IAM

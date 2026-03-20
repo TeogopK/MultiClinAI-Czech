@@ -1,0 +1,30 @@
+T1	SYMPTOM 795 803	asthenia
+T2	SYMPTOM 815 825	chest pain
+T3	SYMPTOM 830 835	cough
+T4	SYMPTOM 839 852	expectoration
+T5	SYMPTOM 857 862	fever
+T6	SYMPTOM 938 958	mucocutaneous pallor
+T7	SYMPTOM 960 973	normohydrated
+T8	SYMPTOM 1025 1034	Conscious
+T9	SYMPTOM 1036 1044	oriented
+T10	SYMPTOM 1078 1099	neurological focality
+T11	SYMPTOM 1235 1249	rhythmic tones
+T12	SYMPTOM 1266 1273	murmurs
+T13	SYMPTOM 1299 1325	preserved vesicular murmur
+T14	SYMPTOM 1437 1449	sinus rhythm
+T15	SYMPTOM 1484 1494	narrow QRS
+T17	SYMPTOM 4462 4470	dyspnoea
+T18	SYMPTOM 4596 4600	died
+T19	SYMPTOM 4818 4823	Death
+T16	SYMPTOM 701 767	dyspnoea over the previous 3-4 days until becoming minimal effort,
+T20	SYMPTOM 866 886	dysthermic sensation
+T21	SYMPTOM 911 936	Regular general condition
+T22	SYMPTOM 1049 1060	cooperative
+T23	SYMPTOM 975 1023	Eupneic at rest without use of accessory muscles
+T24	SYMPTOM 1334 1346	added sounds
+T25	SYMPTOM 1351 1376	oedema in the lower limbs
+T26	SYMPTOM 1496 1546	ST-segment depression of 1.5 mm in II, III and aVF
+T27	SYMPTOM 1568 1589	ST-segment depression
+T28	SYMPTOM 1931 1944	consolidation
+T29	SYMPTOM 2985 3056	akinesia of the posterior wall and the basal and medial inferior septum
+T30	SYMPTOM 3254 3295	altered mobility of the ventricular wall.

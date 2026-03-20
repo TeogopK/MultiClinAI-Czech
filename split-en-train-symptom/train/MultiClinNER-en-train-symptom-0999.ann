@@ -1,0 +1,35 @@
+T1	SYMPTOM 204 213	back pain
+T2	SYMPTOM 1842 1851	back pain
+T3	SYMPTOM 918 923	fever
+T5	SYMPTOM 1113 1127	abdominal pain
+T6	SYMPTOM 1748 1756	dyspnoea
+T7	SYMPTOM 1944 1954	chest pain
+T8	SYMPTOM 8178 8188	chest pain
+T9	SYMPTOM 2054 2077	Good general appearance
+T10	SYMPTOM 2127 2134	Eupneic
+T11	SYMPTOM 2234 2241	murmurs
+T13	SYMPTOM 2415 2511	Decreasing holosystolic murmur of IV/VI intensity in mitral focus with irradiation to the axilla
+T14	SYMPTOM 2539 2565	preserved vesicular murmur
+T15	SYMPTOM 2571 2587	bibasal crackles
+T16	SYMPTOM 2591 2627	Abdomen: globular, soft, depressible
+T17	SYMPTOM 2632 2638	masses
+T18	SYMPTOM 2794 2811	abdominal murmurs
+T19	SYMPTOM 3832 3862	costophrenic sinus impingement
+T20	SYMPTOM 3990 4008	Global hypokinesia
+T21	SYMPTOM 6836 6863	altered haemodynamic status
+T22	SYMPTOM 980 1034	leukocytosis -13450 leukocytes/uL- with left deviation
+T4	SYMPTOM 777 824	abdominal pain of increasing intensity, colicky
+T23	SYMPTOM 2079 2095	Normal hydration
+T24	SYMPTOM 2097 2110	normal colour
+T25	SYMPTOM 2112 2125	normoperfused
+T26	SYMPTOM 2204 2221	Carotids rhythmic
+T27	SYMPTOM 2246 2272	jugular venous engorgement
+T28	SYMPTOM 2305 2315	arrhythmic
+T29	SYMPTOM 2317 2355	Decreasing diastolic exhalation murmur
+T30	SYMPTOM 2761 2789	Peristaltic sounds preserved
+T12	SYMPTOM 2828 2883	pulses present and symmetrical in the upper extremities
+T31	SYMPTOM 2913 2967	oedema with fovea up to the middle region of both legs
+T32	SYMPTOM 3762 3799	enlarged cardiopericardial silhouette
+T33	SYMPTOM 3805 3821	Kerley's B lines
+T34	SYMPTOM 6630 6673	increased calibre of the inferior vena cava
+T35	SYMPTOM 8849 8853	died

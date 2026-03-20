@@ -1,0 +1,71 @@
+T1	SYMPTOM 161 193	electrocardiographic alterations
+T46	SYMPTOM 195 232	elevated markers of myocardial damage
+T47	SYMPTOM 1207 1243	filling defect in the left ventricle
+T2	SYMPTOM 1437 1447	chest pain
+T48	SYMPTOM 1461 1484	cardiovascular symptoms
+T49	SYMPTOM 1904 1942	elevation of myocardial damage markers
+T45	SYMPTOM 2180 2218	respiratory and haemodynamic stability
+T3	SYMPTOM 2421 2430	Conscious
+T50	SYMPTOM 2432 2461	oriented in all three spheres
+T51	SYMPTOM 2466 2477	cooperative
+T52	SYMPTOM 2479 2492	Normal colour
+T4	SYMPTOM 2494 2507	normohydrated
+T53	SYMPTOM 2512 2525	normoperfused
+T5	SYMPTOM 2527 2542	Eupneic at rest
+T54	SYMPTOM 2549 2574	good respiratory dynamics
+T44	SYMPTOM 2576 2596	tolerating decubitus
+T55	SYMPTOM 2598 2618	Cardiac auscultation
+T6	SYMPTOM 2620 2641	rhythmic heart sounds
+T7	SYMPTOM 2664 2671	murmurs
+T8	SYMPTOM 2675 2685	extratonos
+T56	SYMPTOM 2722 2785	vesicular murmur preserved and symmetrical in both hemithoraxes
+T9	SYMPTOM 2900 2920	painful on palpation
+T10	SYMPTOM 2930 2936	masses
+T57	SYMPTOM 2940 2952	organomegaly
+T58	SYMPTOM 2967 3004	pedial pulses present and symmetrical
+T29	SYMPTOM 3017 3023	oedema
+T59	SYMPTOM 3071 3118	absence of distal pulse in the right upper limb
+T13	SYMPTOM 3156 3168	sinus rhythm
+T15	SYMPTOM 3180 3189	Normal PR
+T16	SYMPTOM 3191 3201	Narrow QRS
+T17	SYMPTOM 3203 3231	Generalised negative T waves
+T60	SYMPTOM 3233 3265	Prolongation of the QTc interval
+T61	SYMPTOM 3422 3448	Repletion defect in the LV
+T62	SYMPTOM 3492 3519	Right pulmonary involvement
+T63	SYMPTOM 3633 3664	left ventricle (LV) not dilated
+T64	SYMPTOM 3682 3765	severe apical hypokinesia and distal segments of the lateral face and distal septum
+T27	SYMPTOM 3915 3961	Morphologically and functionally normal valves
+T41	SYMPTOM 5038 5082	Urgent coronary angiography: right dominance
+T37	SYMPTOM 5084 5130	Coronary arteries without angiographic lesions
+T14	SYMPTOM 5233 5245	sinus rhythm
+T65	SYMPTOM 5257 5283	Left ventricle not dilated
+T34	SYMPTOM 5342 5392	hypokinesia of the apex and lateral apical segment
+T18	SYMPTOM 5394 5421	Preserved systolic function
+T19	SYMPTOM 5453 5478	Normal diastolic function
+T20	SYMPTOM 5480 5537	Non-dilated right ventricle with normal systolic function
+T24	SYMPTOM 5513 5537	normal systolic function
+T21	SYMPTOM 5539 5563	Normal sized left atrium
+T22	SYMPTOM 5565 5592	Right atrium of normal size
+T35	SYMPTOM 5594 5647	Aortic valve: morphologically and functionally normal
+T36	SYMPTOM 5649 5702	Mitral valve: morphologically and functionally normal
+T23	SYMPTOM 5704 5743	Tricuspid valve: morphologically normal
+T66	SYMPTOM 5856 5886	Inferior vena cava not dilated
+T67	SYMPTOM 5925 5967	Aortic root and aortic arch of normal size
+T39	SYMPTOM 5985 6005	Atrial septum intact
+T38	SYMPTOM 6066 6134	Pericardium of normal thickness and refractoriness, without effusion
+T33	SYMPTOM 6152 6165	apical masses
+T11	SYMPTOM 6403 6469	masses persisting with the appearance of a thrombus in the LV apex
+T12	SYMPTOM 6712 6751	Adrenal glands with no notable findings
+T68	SYMPTOM 6789 6815	left ventricle not dilated
+T25	SYMPTOM 6833 6857	Normal systolic function
+T26	SYMPTOM 6892 6916	normal systolic function
+T32	SYMPTOM 6921 6959	alterations in segmental contractility
+T69	SYMPTOM 6961 6978	Atria not dilated
+T28	SYMPTOM 6980 7026	Morphologically and functionally normal valves
+T30	SYMPTOM 7108 7114	oedema
+T70	SYMPTOM 7123 7194	first-pass myocardial perfusion sequence there are no perfusion defects
+T31	SYMPTOM 7519 7525	oedema
+T43	SYMPTOM 8155 8183	subendocardial hypoperfusion
+T71	SYMPTOM 8360 8395	alterations in apical contractility
+T40	SYMPTOM 8604 8628	normal coronary arteries
+T42	SYMPTOM 9205 9223	clinical stability

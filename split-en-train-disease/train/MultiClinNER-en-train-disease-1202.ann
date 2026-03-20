@@ -1,0 +1,25 @@
+T33	DISEASE 180 202	adverse drug reactions
+T46	DISEASE 247 268	arterial hypertension
+T34	DISEASE 270 283	dyslipidaemia
+T36	DISEASE 302 326	type 2 diabetes mellitus
+T38	DISEASE 364 376	toxic habits
+T21	DISEASE 1245 1297	acute coronary syndrome without ST-segment elevation
+T47	DISEASE 1428 1447	myocardial necrosis
+T39	DISEASE 1490 1530	non-ST-elevation acute coronary syndrome
+T23	DISEASE 1642 1680	lesion in the middle circumflex artery
+T40	DISEASE 1925 1958	segmental contractility disorders
+T48	DISEASE 2754 2804	significant lesion in the middle circumflex artery
+T27	DISEASE 2875 2936	non-dilated left ventricle with slight concentric hypertrophy
+T41	DISEASE 2954 2987	segmental contractility disorders
+T28	DISEASE 3119 3141	valvular heart disease
+T42	DISEASE 3146 3166	pericardial effusion
+T43	DISEASE 3683 3691	diabetic
+T15	DISEASE 4214 4280	genitourinary tract infections, all of fungal origin (C. albicans)
+T44	DISEASE 4535 4559	genitourinary infections
+T45	DISEASE 5608 5631	Ischaemic heart disease
+T49	DISEASE 5633 5742	Acute coronary syndrome without ST-segment elevation, with single-vessel involvement of the circumflex artery
+T51	DISEASE 5847 5859	hypertension
+T35	DISEASE 5861 5874	dyslipidaemia
+T37	DISEASE 5893 5917	type 2 diabetes mellitus
+T52	DISEASE 5947 5971	Intolerance to metformin
+T53	DISEASE 5973 6006	Repeated urinary tract infections

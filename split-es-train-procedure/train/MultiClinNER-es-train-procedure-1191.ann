@@ -1,0 +1,83 @@
+T95	PROCEDURE 511 532	recambio de generador
+T96	PROCEDURE 572 586	ecocardiograma
+T97	PROCEDURE 944 980	sustitución valvular mitral mecánica
+T98	PROCEDURE 983 1006	anuloplastia tricúspide
+T99	PROCEDURE 1034 1048	ecocardiograma
+T100	PROCEDURE 1422 1458	terapia de resincronización cardiaca
+T101	PROCEDURE 1549 1563	Doppler de TSA
+T102	PROCEDURE 1589 1628	Histerectomía total + doble anexectomía
+T103	PROCEDURE 1870 1906	terapia de resincronización cardiaca
+T104	PROCEDURE 1908 1911	TRC
+T105	PROCEDURE 2094 2108	desbridamiento
+T106	PROCEDURE 2111 2133	aproximación de bordes
+T107	PROCEDURE 2239 2273	implante subpectoral del generador
+T108	PROCEDURE 2310 2335	desbridamiento quirúrgico
+T111	PROCEDURE 2871 2894	tratamiento antibiótico
+T112	PROCEDURE 2897 2941	retirada del dispositivo de resincronización
+T113	PROCEDURE 2983 3001	EXPLORACIÓN FÍSICA
+T114	PROCEDURE 3241 3262	Auscultación cardiaca
+T115	PROCEDURE 3290 3311	Auscultación pulmonar
+T116	PROCEDURE 3528 3531	ECG
+T117	PROCEDURE 3725 3736	Coagulación
+T118	PROCEDURE 3752 3781	ECOCARDIOGRAFÍA TRANSTORÁCICA
+T119	PROCEDURE 4443 4473	ECOCARDIOGRAFÍA TRANSESOFÁGICA
+T120	PROCEDURE 4475 4478	ETE
+T121	PROCEDURE 4879 4886	PET/TAC
+T122	PROCEDURE 6965 6983	esternotomía media
+T123	PROCEDURE 7660 7688	ANGIO-TC arterias coronarias
+T124	PROCEDURE 8202 8220	Esternotomía media
+T125	PROCEDURE 8225 8249	triple recambio valvular
+T126	PROCEDURE 8554 8566	Hemocultivos
+T127	PROCEDURE 8592 8619	PCR pan bacteriana 16S rRNA
+T128	PROCEDURE 8644 8656	Hemocultivos
+T129	PROCEDURE 8767 8775	cultivos
+T130	PROCEDURE 8792 8806	antibioterapia
+T131	PROCEDURE 8817 8843	Cultivos material vascular
+T132	PROCEDURE 9041 9053	Hemocultivos
+T133	PROCEDURE 9110 9163	extracción de un dispositivo de estimulación cardiaca
+T134	PROCEDURE 9356 9383	terapia de resincronización
+T135	PROCEDURE 9700 9761	reimplantar un nuevo dispositivo de resincronización cardiaca
+T136	PROCEDURE 9808 9861	explante del dispositivo de resincronización cardiaca
+T137	PROCEDURE 9915 9938	tratamiento antibiótico
+T138	PROCEDURE 10055 10079	reactantes de fase aguda
+T139	PROCEDURE 10273 10287	antibioterapia
+T140	PROCEDURE 10397 10416	terapia antibiótica
+T141	PROCEDURE 10638 10678	retirada del sistema de resincronización
+T142	PROCEDURE 10747 10783	reimplante del marcapasos definitivo
+T143	PROCEDURE 10999 11045	recambio del cable de estimulación transitoria
+T144	PROCEDURE 11051 11108	colocación de un electrodo provisional de fijación activa
+T145	PROCEDURE 11256 11277	tratamiento diurético
+T146	PROCEDURE 11419 11455	reimplante del marcapasos definitivo
+T147	PROCEDURE 11541 11564	tratamiento antibiótico
+T148	PROCEDURE 11592 11604	hemocultivos
+T149	PROCEDURE 11621 11663	implante de marcapasos de resincronización
+T150	PROCEDURE 11756 11840	se colocó únicamente un electrodo de VD conectado a un generador de resincronización
+T151	PROCEDURE 11963 11989	antibioterapia intravenosa
+T152	PROCEDURE 12107 12121	ecocardiograma
+T153	PROCEDURE 12446 12461	anticoagulación
+T154	PROCEDURE 12521 12546	resincronización cardiaca
+T155	PROCEDURE 12612 12666	Implantación de marcapasos transitorio yugular derecho
+T156	PROCEDURE 12668 12752	Implantación en un segundo tiempo de generador de resincronización y electrodo de VD
+T165	PROCEDURE 8530 8552	ESTUDIO MICROBIOLÓGICO
+T166	PROCEDURE 186 204	EXPLORACIÓN FÍSICA
+T167	PROCEDURE 4841 4877	TOMOGRAFÍA POR EMISIÓN DE POSITRONES
+T168	PROCEDURE 10311 10337	extracción de hemocultivos
+T169	PROCEDURE 3632 3637	iones
+T170	PROCEDURE 11392 11409	pauta antibiótica
+T171	PROCEDURE 2795 2812	pruebas de imagen
+T172	PROCEDURE 10679 10732	se implantó un marcapasos transitorio yugular derecho
+T173	PROCEDURE 2049 2056	drenaje
+T174	PROCEDURE 2070 2081	dehiscencia
+T175	PROCEDURE 3783 3786	ETT
+T177	PROCEDURE 364 392	comisurotomía mitral abierta
+T32	PROCEDURE 12548 12610	Retirada del sistema completo (generador y electrodos VD y VI)
+T215	PROCEDURE 3579 3588	ANALÍTICA
+T217	PROCEDURE 3087 3102	Cabeza y cuello
+T229	PROCEDURE 11692 11719	canalizar el seno coronario
+T241	PROCEDURE 10115 10127	intervención
+T242	PROCEDURE 901 924	intervención quirúrgica
+T255	PROCEDURE 10951 10986	isoproterenol en perfusión continua
+T258	PROCEDURE 9205 9237	reimplante del mismo dispositivo
+T192	PROCEDURE 9461 9499	marcapasos de estimulación monocameral
+T194	PROCEDURE 12346 12392	estimulación ventricular izquierda endocárdica
+#7	AnnotatorNotes T104	 Terapia de resincronización cardíaca

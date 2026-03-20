@@ -1,0 +1,31 @@
+T29	DISEASE 249 263	drug allergies
+T15	DISEASE 265 274	Ex-smoker
+T16	DISEASE 383 407	thrombosis of the bypass
+T17	DISEASE 476 486	thrombosis
+T18	DISEASE 488 511	Iron deficiency anaemia
+T19	DISEASE 535 549	colonic polyps
+T34	DISEASE 695 699	HBAI
+T28	DISEASE 701 707	BCRDHH
+T20	DISEASE 1101 1127	exanthematous skin lesions
+T21	DISEASE 1129 1149	arterial hypotension
+T31	DISEASE 1186 1193	syncope
+T1	DISEASE 1310 1322	complete AVB
+T3	DISEASE 1514 1531	allergic symptoms
+T30	DISEASE 1828 1845	Myocardial damage
+T5	DISEASE 1953 1980	ectasia of CD and middle DA
+T6	DISEASE 2027 2029	VE
+T8	DISEASE 2077 2096	LV slightly dilated
+T9	DISEASE 2233 2258	Sclerosed MV with mild MR
+T32	DISEASE 2294 2313	LA slightly dilated
+T10	DISEASE 2352 2359	Mild TR
+T22	DISEASE 2425 2445	pericardial effusion
+T33	DISEASE 2476 2493	allergic reaction
+T23	DISEASE 2681 2712	right coronary artery vasospasm
+T11	DISEASE 2726 2770	anaphylaxis due to the infusion of augmentin
+T24	DISEASE 2800 2815	allergic angina
+T26	DISEASE 2819 2834	Kounis syndrome
+T12	DISEASE 2900 2966	allergic to penicillin G, penicillin V, ampicillin and amoxicillin
+T25	DISEASE 3034 3049	Allergic angina
+T13	DISEASE 3050 3064	Kounis disease
+T27	DISEASE 3067 3110	Coronary vasospasm secondary to anaphylaxis
+T14	DISEASE 3113 3180	Anaphylactic reaction secondary to amoxicillin-clavulanate infusion

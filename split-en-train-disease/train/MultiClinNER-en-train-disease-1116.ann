@@ -1,0 +1,33 @@
+T17	DISEASE 31 53	allergic to metamizole
+T18	DISEASE 81 102	arterial hypertension
+T1	DISEASE 104 148	type 2 diabetes mellitus (insulin-dependent)
+T19	DISEASE 150 179	permanent atrial fibrillation
+T37	DISEASE 184 197	asmabronchial
+T20	DISEASE 237 267	rheumatic mitral valve disease
+T21	DISEASE 273 295	severe mitral stenosis
+T4	DISEASE 461 489	severe aortic valve stenosis
+T22	DISEASE 761 782	acute gastroenteritis
+T23	DISEASE 1016 1036	acute diverticulitis
+T24	DISEASE 1313 1327	diverticulosis
+T26	DISEASE 1345 1360	acute infection
+T27	DISEASE 1440 1462	infective endocarditis
+T5	DISEASE 1464 1466	IE
+T6	DISEASE 1598 1613	Osler's nodules
+T7	DISEASE 1617 1629	Roth's spots
+T29	DISEASE 2344 2356	cardiomegaly
+T38	DISEASE 2565 2593	severely dilated left atrium
+T40	DISEASE 2664 2672	thrombus
+T30	DISEASE 3045 3066	periannular abscesses
+T12	DISEASE 3194 3226	Thickened, trivalve aortic valve
+T13	DISEASE 3288 3310	Dilated right chambers
+T16	DISEASE 3367 3445	Thickened tricuspid valve with good opening and mobility; severe regurgitation
+T31	DISEASE 3447 3478	Moderate pulmonary hypertension
+T32	DISEASE 3483 3503	pericardial effusion
+T28	DISEASE 3544 3566	infective endocarditis
+T33	DISEASE 3544 3614	infective endocarditis on prosthetic valve due to Bacteroides fragilis
+T34	DISEASE 3872 3894	cardiac decompensation
+T14	DISEASE 4086 4168	Endocarditis on mitral metallic prosthesis due to anaerobes (Bacteroides fragilis)
+T39	DISEASE 4188 4210	prosthetic dysfunction
+T15	DISEASE 4212 4251	Bacteraemia due to Bacteroides fragilis
+T25	DISEASE 4289 4303	Diverticulosis
+T36	DISEASE 4312 4326	diverticulitis

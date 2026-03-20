@@ -1,0 +1,30 @@
+T38	DISEASE 71 92	adverse drug reaction
+T39	DISEASE 130 137	smoking
+T41	DISEASE 150 163	dyslipidaemia
+T42	DISEASE 165 189	Suprarenal incidentaloma
+T43	DISEASE 333 352	tako-tsubo syndrome
+T44	DISEASE 756 775	tako-tsubo syndrome
+T4	DISEASE 1131 1177	non-ST-segment elevation myocardial infarction
+T3	DISEASE 1179 1185	NSTEMI
+T45	DISEASE 1381 1439	fistulas from the left coronary tree to the left ventricle
+T46	DISEASE 1511 1526	acute ischaemia
+T47	DISEASE 1528 1539	myocarditis
+T63	DISEASE 1543 1562	transmural necrosis
+T36	DISEASE 2654 2666	nodal rhythm
+T11	DISEASE 3858 3878	valvular dysfunction
+T48	DISEASE 3982 4005	tricuspid insufficiency
+T10	DISEASE 4007 4009	TI
+T51	DISEASE 4030 4052	pulmonary hypertension
+T52	DISEASE 4065 4085	pericardial effusion
+T53	DISEASE 4508 4514	angina
+T12	DISEASE 4584 4594	arrhythmia
+T55	DISEASE 4811 4834	Coronary fistulas to LV
+T57	DISEASE 5110 5119	vasospasm
+T37	DISEASE 5184 5196	nodal rhythm
+T14	DISEASE 5210 5257	transient complete atrioventricular block (AVB)
+T60	DISEASE 5809 5827	coronary vasospasm
+T61	DISEASE 5852 5870	coronary vasospasm
+T40	DISEASE 6585 6592	smoking
+T20	DISEASE 6815 6848	Recurrent acute coronary syndrome
+T19	DISEASE 6850 6853	ACS
+T62	DISEASE 6887 6905	Vasospastic angina

@@ -1,0 +1,15 @@
+T7	PROCEDURE 241 253	hysterectomy
+T8	PROCEDURE 259 280	bilateral adnexectomy
+T9	PROCEDURE 285 307	pelvic lymphadenectomy
+T10	PROCEDURE 344 357	brachytherapy
+T15	PROCEDURE 737 747	blood test
+T16	PROCEDURE 871 881	blood test
+T4	PROCEDURE 1029 1049	physical examination
+T18	PROCEDURE 1051 1066	abdominal X-ray
+T5	PROCEDURE 1071 1088	electrocardiogram
+T1	PROCEDURE 1154 1165	rehydration
+T6	PROCEDURE 1552 1566	tumour markers
+T2	PROCEDURE 1629 1638	bone scan
+T3	PROCEDURE 1678 1703	thoracic and abdominal CT
+T23	PROCEDURE 1810 1860	transvaginal biopsy of the Douglas cul-de-sac mass
+T11	PROCEDURE 1959 1974	palliative care

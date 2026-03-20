@@ -1,0 +1,38 @@
+T104	DISEASE 77 100	ischaemic heart disease
+T105	DISEASE 211 225	drug allergies
+T1	DISEASE 259 271	hypertension
+T106	DISEASE 276 284	diabetes
+T107	DISEASE 289 302	dyslipidaemia
+T108	DISEASE 304 311	Obesity
+T109	DISEASE 343 355	toxic habits
+T2	DISEASE 402 431	progressive exertional angina
+T4	DISEASE 907 924	exertional angina
+T110	DISEASE 1438 1448	syndrome X
+T111	DISEASE 2846 2899	inducible myocardial ischaemia in the anterior aspect
+T112	DISEASE 3073 3082	ischaemia
+T9	DISEASE 3761 3783	valvular heart disease
+T115	DISEASE 3787 3807	pericardial effusion
+T132	DISEASE 4055 4073	coronary vasospasm
+T118	DISEASE 4081 4106	microvascular dysfunction
+T125	DISEASE 5094 5108	valvulopathies
+T116	DISEASE 5113 5133	pericardial effusion
+T11	DISEASE 5356 5378	valvular heart disease
+T126	DISEASE 5401 5423	pulmonary hypertension
+T12	DISEASE 5425 5428	PHT
+T117	DISEASE 5462 5482	pericardial effusion
+T113	DISEASE 5745 5833	myocardial ischaemia induced in the territory of the anterior descending coronary artery
+T119	DISEASE 6028 6053	microvascular dysfunction
+T127	DISEASE 6166 6198	severe microvascular dysfunction
+T16	DISEASE 6358 6400	ischaemic changes in the electrocardiogram
+T15	DISEASE 6423 6429	angina
+T128	DISEASE 6444 6476	severe microvascular dysfunction
+T17	DISEASE 6481 6555	coronary spasm in the territory of the anterior descending coronary artery
+T18	DISEASE 6907 6929	valvular heart disease
+T129	DISEASE 7351 7383	severe microvascular dysfunction
+T133	DISEASE 7525 7543	coronary vasospasm
+T130	DISEASE 7828 7860	severe microvascular dysfunction
+T134	DISEASE 7865 7883	coronary vasospasm
+T136	DISEASE 8526 8574	Angina with documented ischaemia in AD territory
+T137	DISEASE 8627 8632	INOCA
+T131	DISEASE 8635 8667	Severe microvascular dysfunction
+T103	DISEASE 8708 8777	Coronary vasospasm in the territory of the anterior descending artery

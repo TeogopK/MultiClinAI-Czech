@@ -1,0 +1,51 @@
+T35	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T36	PROCEDURE 176 180	IECA
+T37	PROCEDURE 183 193	diuréticos
+T38	PROCEDURE 362 382	radiografía de tórax
+T39	PROCEDURE 473 501	ecocardiograma transtorácico
+T40	PROCEDURE 1453 1513	análisis de flujos de aorta abdominal y torácica descendente
+T41	PROCEDURE 1697 1717	resonancia magnética
+T42	PROCEDURE 2621 2639	Exploración física
+T43	PROCEDURE 3084 3105	Auscultación cardiaca
+T44	PROCEDURE 3480 3489	Hemograma
+T45	PROCEDURE 3491 3501	bioquímica
+T46	PROCEDURE 3504 3515	coagulación
+T47	PROCEDURE 3527 3545	Electrocardiograma
+T48	PROCEDURE 3547 3567	Radiografía de tórax
+T49	PROCEDURE 3569 3614	Ecocardiograma transtorácico y transesofágico
+T50	PROCEDURE 4834 4847	Doppler color
+T51	PROCEDURE 4852 4868	análisis Doppler
+T52	PROCEDURE 4975 5025	Coronariografía (realizada por vía femoral derecha
+T53	PROCEDURE 5341 5367	Angio-TC de aorta torácica
+T55	PROCEDURE 6084 6098	betabloqueante
+T56	PROCEDURE 6100 6109	diurético
+T57	PROCEDURE 6123 6131	nitratos
+T59	PROCEDURE 6408 6428	terapia endovascular
+T60	PROCEDURE 6897 6911	betabloqueante
+T61	PROCEDURE 6913 6922	diurético
+T62	PROCEDURE 7302 7321	resección de rodete
+T64	PROCEDURE 7423 7450	intervencionismo percutáneo
+T65	PROCEDURE 7489 7514	circulación extracorpórea
+T66	PROCEDURE 7584 7618	perfusión anterógrada y retrógrada
+T67	PROCEDURE 7631 7754	doble recambio valvular (prótesis metálica no23 en posición aórtica supraanular y prótesis metálica no27 en posición mitral
+T70	PROCEDURE 7794 7824	resección de rodete subaórtico
+T72	PROCEDURE 8160 8164	IECA
+T74	PROCEDURE 8297 8311	ecocardiograma
+T75	PROCEDURE 8486 8514	tratamiento antihipertensivo
+T76	PROCEDURE 8528 8537	estatinas
+T77	PROCEDURE 8548 8594	anticoagulación oral permanente (acenocumarol)
+T78	PROCEDURE 8770 8858	reparación de la coartación de forma percutánea (angioplastia e implante de endoprótesis
+T127	PROCEDURE 6058 6075	calcioantagonista
+T128	PROCEDURE 6134 6149	antilipemiantes
+T129	PROCEDURE 6077 6082	ARAII
+T130	PROCEDURE 6871 6888	calcioantagonista
+T131	PROCEDURE 6890 6895	ARAII
+T58	PROCEDURE 7883 7889	aminas
+T132	PROCEDURE 7532 7535	CEC
+T135	PROCEDURE 3315 3338	Extremidades inferiores
+T143	PROCEDURE 6221 6228	cirugía
+T144	PROCEDURE 6431 6438	cirugía
+T145	PROCEDURE 7400 7407	cirugía
+T159	PROCEDURE 6299 6319	sustitución valvular
+T160	PROCEDURE 7279 7299	sustitución valvular
+T146	PROCEDURE 7012 7020	nitratos

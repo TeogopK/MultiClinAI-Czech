@@ -1,0 +1,87 @@
+T1	SYMPTOM 432 444	palpitations
+T2	SYMPTOM 711 719	dyspnoea
+T3	SYMPTOM 770 778	oliguria
+T4	SYMPTOM 878 886	Afebrile
+T5	SYMPTOM 1008 1017	conscious
+T6	SYMPTOM 10828 10837	conscious
+T7	SYMPTOM 1095 1115	supraclavicular pull
+T8	SYMPTOM 1117 1127	Orthopnoea
+T9	SYMPTOM 1245 1252	murmurs
+T10	SYMPTOM 1300 1316	bibasal crackles
+T11	SYMPTOM 1318 1373	Abdomen: soft and depressible, not painful on palpation
+T12	SYMPTOM 1387 1397	peritonism
+T13	SYMPTOM 1402 1408	masses
+T14	SYMPTOM 1412 1421	megaliths
+T15	SYMPTOM 2238 2265	pulmonary venous congestion
+T16	SYMPTOM 2419 2444	Severe global hypokinesia
+T17	SYMPTOM 3387 3412	severe global hypokinesia
+T18	SYMPTOM 2496 2549	Large mass in the apical region of the left ventricle
+T19	SYMPTOM 3318 3339	Estimated normal PSAP
+T20	SYMPTOM 3354 3380	non-dilated left ventricle
+T21	SYMPTOM 4867 4922	left ventricle with slightly reduced internal diameters
+T22	SYMPTOM 5063 5101	Moderately depressed ejection fraction
+T23	SYMPTOM 6131 6169	moderately depressed ejection fraction
+T24	SYMPTOM 5859 5887	reduced inspiratory collapse
+T27	SYMPTOM 5043 5061	global hypokinesia
+T28	SYMPTOM 6107 6125	Global hypokinesia
+T29	SYMPTOM 7331 7349	Global hypokinesia
+T30	SYMPTOM 6180 6210	advanced diastolic dysfunction
+T33	SYMPTOM 6427 6449	normal protein C and S
+T34	SYMPTOM 6563 6644	mutations in prothrombin genes, factor V Leiden gene, MTHFR gene, factor XII gene
+T35	SYMPTOM 5990 6034	left ventricle with slightly thickened walls
+T36	SYMPTOM 7170 7214	left ventricle with slightly thickened walls
+T37	SYMPTOM 9845 9856	hypotension
+T38	SYMPTOM 10973 10981	polyuria
+T39	SYMPTOM 13766 13787	abnormal TTR deposits
+T40	SYMPTOM 16244 16277	m.3243A>G mutation in MT-TL1 gene
+T41	SYMPTOM 12340 12363	haemodynamically stable
+T42	SYMPTOM 3182 3226	Thoracic aorta without pathological findings
+T43	SYMPTOM 5764 5825	Aortic root and ascending aorta without pathological findings
+T45	SYMPTOM 5373 5400	depressed ejection fraction
+T47	SYMPTOM 6261 6288	depressed ejection fraction
+T49	SYMPTOM 7532 7559	depressed ejection fraction
+T50	SYMPTOM 7355 7391	severely depressed ejection fraction
+T51	SYMPTOM 10804 10810	sleepy
+T52	SYMPTOM 744 768	intolerance to decubitus
+T53	SYMPTOM 783 818	ulcerated oedema in the lower limbs
+T54	SYMPTOM 992 1003	cooperative
+T55	SYMPTOM 965 990	Regular general condition
+T56	SYMPTOM 1019 1031	Not hydrated
+T57	SYMPTOM 1063 1077	acral coldness
+T58	SYMPTOM 1079 1089	Tachypneic
+T59	SYMPTOM 1141 1166	jugular venous engorgemen
+T60	SYMPTOM 1205 1235	rapid and rhythmic heart tones
+T61	SYMPTOM 1256 1265	extratone
+T62	SYMPTOM 1268 1294	Vesicular murmur preserved
+T63	SYMPTOM 1432 1459	Hydro-aerial noises present
+T64	SYMPTOM 1488 1528	oedema up to the root of the lower limbs
+T65	SYMPTOM 1655 1694	Pedal pulses not palpable due to oedema
+T66	SYMPTOM 2195 2214	double contour sign
+T67	SYMPTOM 2325 2370	left ventricle with normal internal diameters
+T25	SYMPTOM 2446 2467	Severely depressed EF
+T68	SYMPTOM 2758 2786	Left atrium in normal limits
+T69	SYMPTOM 2788 2851	Right ventricle of normal internal diameters and wall thickness
+T70	SYMPTOM 2886 2916	Visual EF moderately depressed
+T71	SYMPTOM 2918 2947	Right atrium in normal limits
+T72	SYMPTOM 2949 2996	Mitral valve with slight thickening of leaflets
+T73	SYMPTOM 3059 3091	Aortic valve without alterations
+T74	SYMPTOM 3093 3148	Right valves without significant structural alterations
+T26	SYMPTOM 3417 3438	severely depressed EF
+T75	SYMPTOM 3467 3504	positive serology for hepatic virus C
+T76	SYMPTOM 3610 3746	negative (enterovirus PCR, HIV, HBV, HSV, Parvovirus B19, Brucella, Rickettsia, Mycoplasma, Chlamydia pneumoniae, Borrelia burgdorferi).
+T44	SYMPTOM 5285 5319	Right ventricle of normal diameter
+T77	SYMPTOM 5941 5975	Free fluid in the abdominal cavity
+T46	SYMPTOM 6212 6255	Right ventricle of normal wall and diameter
+T78	SYMPTOM 6397 6424	negative lupus anticoagulan
+T79	SYMPTOM 6489 6558	normal coagulation factors V, VII and von Willebrand and antithrombin
+T80	SYMPTOM 6646 6709	Normal anti-cardiolipin and anti-beta-2 glycoprotein antibodies
+T81	SYMPTOM 6726 6778	rectal mucosa without relevant morphological changes
+T82	SYMPTOM 6852 6904	rectal mucosa without relevant morphological changes
+T31	SYMPTOM 7483 7526	Right ventricle of normal wall and diameter
+T48	SYMPTOM 7440 7456	Mass in the apex
+T83	SYMPTOM 9332 9371	m.3243A>Gen mutation in the MT-TL1 gene
+T84	SYMPTOM 11277 11323	persistently elevated troponins and BNP levels
+T32	SYMPTOM 12082 12129	Blood cultures were requested and were negative
+T85	SYMPTOM 11895 11956	serological tests were requested, with positive liver virus C
+T86	SYMPTOM 11843 11893	elevated cardiac markers and acute phase reactants
+T87	SYMPTOM 12728 12759	reduced ventricular cavity size

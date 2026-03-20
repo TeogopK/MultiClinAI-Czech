@@ -1,0 +1,74 @@
+T2	SYMPTOM 402 408	fiebre
+T3	SYMPTOM 487 517	dolor abdominal en mesogastrio
+T4	SYMPTOM 647 665	pérdida de apetito
+T5	SYMPTOM 674 681	náuseas
+T6	SYMPTOM 684 691	vómitos
+T7	SYMPTOM 693 716	alteración del tránsito
+T8	SYMPTOM 718 745	exteriorización de sangrado
+T9	SYMPTOM 748 766	síntomas urinarios
+T10	SYMPTOM 892 902	consciente
+T11	SYMPTOM 904 913	orientado
+T13	SYMPTOM 929 958	buena hidratación y perfusión
+T15	SYMPTOM 960 978	eupneico en reposo
+T16	SYMPTOM 985 1006	focalidad neurológica
+T17	SYMPTOM 1011 1074	auscultación cardiaca y pulmonar no mostró hallazgos relevantes
+T18	SYMPTOM 1079 1143	abdomen era blando, depresible, con ruidos hidroaéreos presentes
+T20	SYMPTOM 1156 1161	masas
+T21	SYMPTOM 1165 1173	megalias
+T22	SYMPTOM 1179 1230	intenso dolor a la palpación de fosa ilíaca derecha
+T23	SYMPTOM 1250 1271	irritación peritoneal
+T24	SYMPTOM 1742 1754	leucocitosis
+T25	SYMPTOM 1784 1795	neutrofilia
+T26	SYMPTOM 2067 2104	PCR para SARS-CoV-2, que fue positiva
+T27	SYMPTOM 2241 2278	hígado y bazo dentro de la normalidad
+T28	SYMPTOM 2413 2453	Páncreas sin alteraciones significativas
+T29	SYMPTOM 2538 2604	cambios inflamatorios en ciego, válvula ileocecal e íleon terminal
+T30	SYMPTOM 2609 2663	íleon terminal presentaba un engrosamiento de su pared
+T32	SYMPTOM 3595 3668	coprocultivo se observó disbacteriosis por microorganismos gram positivos
+T33	SYMPTOM 3723 3737	dolor torácico
+T35	SYMPTOM 4065 4079	dolor torácico
+T36	SYMPTOM 4093 4112	taquicardia sinusal
+T38	SYMPTOM 4155 4175	eje eléctrico normal
+T39	SYMPTOM 4181 4214	alteraciones de la repolarización
+T40	SYMPTOM 4270 4283	ritmo sinusal
+T41	SYMPTOM 4326 4346	eje eléctrico normal
+T42	SYMPTOM 4365 4400	T negativa en III y aplanada en aVF
+T43	SYMPTOM 4453 4466	ritmo sinusal
+T44	SYMPTOM 4509 4529	eje eléctrico normal
+T45	SYMPTOM 4702 4739	Ventrículo izquierdo (VI) no dilatado
+T46	SYMPTOM 4821 4840	Hipoquinesia global
+T48	SYMPTOM 5678 5720	serología con IgG positiva para SARS-CoV-2
+T49	SYMPTOM 5783 5831	dolor centrotorácico que describía como punzante
+T50	SYMPTOM 5910 5920	sudoración
+T51	SYMPTOM 5950 5957	vómitos
+T52	SYMPTOM 6033 6070	elevación de reactantes de fase aguda
+T53	SYMPTOM 6477 6489	asintomático
+T55	SYMPTOM 6849 6862	ritmo sinusal
+T57	SYMPTOM 7301 7306	dolor
+T58	SYMPTOM 7822 7883	Leve hipoquinesia en septo basal y anterolateral basal del VI
+T114	SYMPTOM 6130 6149	taquicardia sinusal
+T116	SYMPTOM 6949 6956	síncope
+T12	SYMPTOM 2312 2349	vesícula de tamaño normal, alitiásica
+T19	SYMPTOM 2455 2479	Riñones de tamaño normal
+T121	SYMPTOM 2828 2871	líquido libre en gotiera paracólica derecha
+T31	SYMPTOM 3327 3447	estudio de virus hepatotropos y VIH, anticuerpos anti-transglutaminasa y tiopurina metiltransferasa que fueron negativos
+T34	SYMPTOM 3850 3870	seriación enzimática
+T37	SYMPTOM 4531 4569	Ondas T bifásicas en cara inferolatera
+T107	SYMPTOM 4654 4689	aurícula izquierda (AI) no dilatada
+T122	SYMPTOM 4904 4935	Válvula mitral normofuncionante
+T123	SYMPTOM 4976 5017	Válvula aórtica trivalva normofuncionante
+T124	SYMPTOM 5019 5063	Raíz aórtica y aorta ascendente no dilatadas
+T47	SYMPTOM 5102 5176	función sistólica del ventrículo derecho (VD) en límite bajo de normalidad
+T126	SYMPTOM 5494 5513	hipoquinesia global
+T113	SYMPTOM 6171 6190	hipoquinesia global
+T54	SYMPTOM 6736 6799	hipoquinesia en segmentos basales de septo y cara anterolateral
+T128	SYMPTOM 6677 6711	normalización de función sistólica
+T130	SYMPTOM 7617 7657	situación clínica y hemodinámica estable
+T132	SYMPTOM 5065 5100	Cavidades derechas de tamaño normal
+T136	SYMPTOM 866 890	aceptable estado general
+T139	SYMPTOM 916 927	colaborador
+T141	SYMPTOM 3743 3787	elevación de troponina I (alta sensibilidad)
+T134	SYMPTOM 3890 3909	pico de troponina I
+T14	SYMPTOM 1924 1972	tiempo de tromboplastina parcial activada normal
+T91	SYMPTOM 2876 2939	apéndice cecal presentaba mínimo aumento de diámetro de su base
+T133	SYMPTOM 5572 5618	PCR a las 48 horas de ingreso que fue negativa

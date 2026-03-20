@@ -1,0 +1,44 @@
+T76	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T77	PROCEDURE 126 141	Bentall surgery
+T78	PROCEDURE 147 211	implantation of a mechanical aortic prosthesis and a valved tube
+T79	PROCEDURE 224 250	coronary revascularisation
+T1	PROCEDURE 287 363	bypass of the left internal mammary artery to the anterior descending artery
+T80	PROCEDURE 1036 1056	Cardiac auscultation
+T81	PROCEDURE 1087 1109	Pulmonary auscultation
+T85	PROCEDURE 1395 1409	blood cultures
+T82	PROCEDURE 1468 1484	volume expansion
+T108	PROCEDURE 1486 1514	empirical antibiotic therapy
+T83	PROCEDURE 1601 1617	vasoactive drugs
+T103	PROCEDURE 1696 1710	echocardiogram
+T4	PROCEDURE 1894 1901	CT scan
+T5	PROCEDURE 1906 1922	cranial MRI scan
+T7	PROCEDURE 2076 2099	anticoagulant treatment
+T86	PROCEDURE 2194 2208	blood cultures
+T87	PROCEDURE 2314 2334	cerebral angiography
+T104	PROCEDURE 2441 2455	echocardiogram
+T84	PROCEDURE 2504 2552	positron emission tomography/computed tomography
+T88	PROCEDURE 2554 2560	PET/CT
+T89	PROCEDURE 2713 2730	CT reconstruction
+T105	PROCEDURE 3141 3171	transesophageal echocardiogram
+T8	PROCEDURE 3716 3723	surgery
+T90	PROCEDURE 3825 3850	venous blood gas analysis
+T91	PROCEDURE 3896 3920	Intravenous crystalloids
+T9	PROCEDURE 3925 3946	red cell concentrates
+T92	PROCEDURE 3979 3999	abdominal ultrasound
+T93	PROCEDURE 4214 4231	abdominal surgery
+T94	PROCEDURE 4361 4372	splenectomy
+T95	PROCEDURE 4414 4442	anatomopathological analysis
+T96	PROCEDURE 4701 4733	transfusion of haemoconcentrates
+T97	PROCEDURE 4746 4767	endoscopic management
+T98	PROCEDURE 4871 4897	implantation of haemoclips
+T99	PROCEDURE 5012 5032	partial duodenectomy
+T101	PROCEDURE 5151 5166	cardiac surgery
+T11	PROCEDURE 5216 5302	infected material was replaced by a new mechanical aortic prosthesis and a valved tube
+T109	PROCEDURE 5342 5369	removed prosthetic material
+T106	PROCEDURE 5508 5522	echocardiogram
+T102	PROCEDURE 5593 5608	pericardiectomy
+T107	PROCEDURE 5689 5703	echocardiogram
+T12	PROCEDURE 5876 5885	evacuated
+T13	PROCEDURE 5974 5992	antibiotic therapy
+T14	PROCEDURE 6281 6333	Aortic valve and tube replacement in ascending aorta
+T100	PROCEDURE 6551 6571	Partial duodenectomy

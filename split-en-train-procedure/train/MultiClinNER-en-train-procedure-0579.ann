@@ -1,0 +1,11 @@
+T1	PROCEDURE 153 162	anamnesis
+T2	PROCEDURE 249 269	Physical examination
+T3	PROCEDURE 546 560	urine dipstick
+T4	PROCEDURE 632 661	culture of pharyngeal exudate
+T13	PROCEDURE 741 746	tests
+T5	PROCEDURE 768 788	complete blood count
+T6	PROCEDURE 790 808	blood biochemistry
+T7	PROCEDURE 810 823	liver profile
+T8	PROCEDURE 828 842	urine sediment
+T20	PROCEDURE 1198 1218	complete blood count
+T22	PROCEDURE 1351 1387	serology for EBV and cytomegalovirus

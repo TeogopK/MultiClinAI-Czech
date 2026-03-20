@@ -1,0 +1,22 @@
+T14	PROCEDURE 525 551	vasoconstrictor medication
+T1	PROCEDURE 553 573	Physical examination
+T2	PROCEDURE 963 990	Cardiopulmonary examination
+T20	PROCEDURE 1026 1075	complementary tests, analytical and imaging tests
+T3	PROCEDURE 1092 1103	Blood count
+T13	PROCEDURE 1105 1117	electrolytes
+T11	PROCEDURE 1119 1130	coagulation
+T15	PROCEDURE 1132 1146	liver function
+T26	PROCEDURE 1148 1162	renal function
+T4	PROCEDURE 1164 1184	arterial blood gases
+T5	PROCEDURE 1186 1196	urinalysis
+T8	PROCEDURE 1198 1228	erythrocyte sedimentation rate
+T9	PROCEDURE 1230 1247	complement levels
+T12	PROCEDURE 1249 1264	immunoglobulins
+T16	PROCEDURE 1266 1281	cryoagglutinins
+T17	PROCEDURE 1283 1296	cryoglobulins
+T7	PROCEDURE 1301 1315	tumour markers
+T33	PROCEDURE 1331 1353	thyroid function study
+T6	PROCEDURE 1450 1487	HBV, HCV, HIV and syphilis serologies
+T35	PROCEDURE 1504 1514	Immunology
+T38	PROCEDURE 1674 1682	Chest CT
+T10	PROCEDURE 1927 1947	oral corticosteroids

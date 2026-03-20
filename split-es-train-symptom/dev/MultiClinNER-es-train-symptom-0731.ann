@@ -1,0 +1,23 @@
+T1	SYMPTOM 119 126	nauseas
+T2	SYMPTOM 129 136	vómitos
+T3	SYMPTOM 138 164	inestabilidad de la marcha
+T4	SYMPTOM 198 219	alteraciones del habl
+T5	SYMPTOM 602 617	habla escandida
+T6	SYMPTOM 796 832	dismetria en las cuatro extremidades
+T7	SYMPTOM 97 114	vértigo rotatorio
+T8	SYMPTOM 387 405	ganglios negativos
+T9	SYMPTOM 765 793	imposibilidad para la marcha
+T10	SYMPTOM 838 889	funciones corticales superiores estaban conservadas
+T11	SYMPTOM 934 984	hemograma bioquímica general y hemostasia normales
+T12	SYMPTOM 1152 1244	tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales que fueron normal
+T13	SYMPTOM 1284 1358	anticuerpos anti-Yo que fueron positivos a títulos altos en suero y en LCR
+T14	SYMPTOM 166 195	diplopía binocular horizontal
+T15	SYMPTOM 619 627	nistagmo
+T16	SYMPTOM 699 724	paresia de IV par craneal
+T17	SYMPTOM 734 760	ataxia truncal invalidante
+T18	SYMPTOM 990 1109	marcadores tumorales habituales (CA 125, CA 15-3, CA19-9, alfafetoproteína y antígeno carcinoembrionario) eran normales
+A1	RESULTADO T8
+A2	RESULTADO T11
+A3	IMAGEN T12
+A4	RESULTADO T13
+A5	RESULTADO T18

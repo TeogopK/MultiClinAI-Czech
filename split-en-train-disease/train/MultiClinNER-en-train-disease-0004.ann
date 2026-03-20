@@ -1,0 +1,29 @@
+T1	DISEASE 184 204	keratoconjunctivitis
+T2	DISEASE 541 571	chronic alcoholic pancreatitis
+T3	DISEASE 573 612	non-insulin-dependent diabetes mellitus
+T4	DISEASE 614 621	smoking
+T26	DISEASE 662 667	shunt
+T5	DISEASE 745 754	pterygium
+T19	DISEASE 870 876	trauma
+T30	DISEASE 1076 1122	superior peripheral ulcerative keratitis (PUC)
+T23	DISEASE 1118 1121	PUC
+T22	DISEASE 1144 1162	posterior synechia
+T20	DISEASE 1344 1350	pannus
+T6	DISEASE 1352 1361	pterygium
+T7	DISEASE 1365 1386	central corneal ulcer
+T8	DISEASE 1410 1462	hyphema level occupying half of the anterior chamber
+T24	DISEASE 1446 1496	anterior chamber (AC) and 360º posterior synechiae
+T9	DISEASE 1977 1984	hyphema
+T25	DISEASE 2013 2021	hypopyon
+T16	DISEASE 2395 2413	vasculitic lesions
+T18	DISEASE 2646 2665	infectious diseases
+T17	DISEASE 2681 2699	rheumatic diseases
+T14	DISEASE 2704 2714	vasculitis
+T10	DISEASE 2817 2851	macrocytic and hypochromic anaemia
+T11	DISEASE 2866 2897	severe lipoprotein malnutrition
+T12	DISEASE 2899 2913	hyperglycaemia
+T13	DISEASE 2973 2991	mild malabsorption
+T27	DISEASE 2996 3026	decreased fat-soluble vitamins
+T28	DISEASE 3433 3491	calorie and protein malnutrition with vitamin A deficiency
+T15	DISEASE 3758 3773	central leukoma
+T21	DISEASE 3798 3839	lipid keratopathy and posterior synechiae

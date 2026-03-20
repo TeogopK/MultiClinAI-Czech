@@ -1,0 +1,10 @@
+T1	PROCEDURE 181 201	Physical examination
+T10	PROCEDURE 227 241	deep palpation
+T11	PROCEDURE 254 265	Blood tests
+T8	PROCEDURE 314 326	barium enema
+T2	PROCEDURE 331 342	colonoscopy
+T3	PROCEDURE 427 445	Histological study
+T5	PROCEDURE 453 461	biopsies
+T7	PROCEDURE 480 489	Resection
+T6	PROCEDURE 516 538	end-to-end anastomosis
+T4	PROCEDURE 558 576	histological study

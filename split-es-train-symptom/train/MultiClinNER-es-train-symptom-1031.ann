@@ -1,0 +1,102 @@
+T1	SYMPTOM 232 241	dispepsia
+T2	SYMPTOM 527 541	dolor torácico
+T3	SYMPTOM 600 614	dolor torácico
+T4	SYMPTOM 849 863	dolor torácico
+T5	SYMPTOM 938 941	tos
+T6	SYMPTOM 944 969	expectoración blanquecina
+T7	SYMPTOM 1043 1062	Buen estado general
+T8	SYMPTOM 1064 1078	normohidratado
+T9	SYMPTOM 1080 1094	normocoloreado
+T10	SYMPTOM 1096 1114	eupneico en reposo
+T11	SYMPTOM 1119 1149	signos de trabajo respiratorio
+T12	SYMPTOM 1176 1200	tonos cardiacos rítmicos
+T13	SYMPTOM 1205 1211	soplos
+T14	SYMPTOM 1213 1242	Murmullo vesicular conservado
+T15	SYMPTOM 1247 1276	crepitantes húmedos bibasales
+T16	SYMPTOM 1278 1318	Abdomen: blando, depresible, no doloroso
+T17	SYMPTOM 1335 1351	MMII: sin edemas
+T18	SYMPTOM 1431 1450	Buen estado general
+T19	SYMPTOM 1452 1466	normohidratado
+T20	SYMPTOM 1468 1482	normocoloreado
+T21	SYMPTOM 1484 1502	eupneico en reposo
+T25	SYMPTOM 1628 1652	tonos cardiacos rítmicos
+T26	SYMPTOM 1657 1663	soplos
+T27	SYMPTOM 1674 1703	Murmullo vesicular disminuido
+T28	SYMPTOM 1705 1726	crepitantes bibasales
+T29	SYMPTOM 1729 1745	roncus dispersos
+T30	SYMPTOM 1747 1787	Abdomen: blando, depresible, no doloroso
+T32	SYMPTOM 1802 1810	megalias
+T33	SYMPTOM 1816 1827	peritonismo
+T34	SYMPTOM 1829 1863	Blumberg, psoas y Murphy negativos
+T35	SYMPTOM 1865 1895	Ruidos hidroaéreos conservados
+T36	SYMPTOM 1897 1909	PPR negativo
+T37	SYMPTOM 1911 1926	MMII: no edemas
+T38	SYMPTOM 1967 2010	Pulsos periféricos conservados y simétricos
+T39	SYMPTOM 2105 2118	ritmo sinusal
+T40	SYMPTOM 2123 2146	ascenso del segmento ST
+T41	SYMPTOM 2198 2215	ondas T negativas
+T42	SYMPTOM 3394 3407	ritmo sinusal
+T43	SYMPTOM 3431 3441	Eje normal
+T44	SYMPTOM 3456 3480	elevación de segmento ST
+T45	SYMPTOM 3547 3560	ritmo sinusal
+T48	SYMPTOM 3659 3676	ondas T negativas
+T49	SYMPTOM 3857 3871	Iones normales
+T50	SYMPTOM 3873 3896	Función hepática normal
+T51	SYMPTOM 4175 4235	índice cardiotorácico en el límite superior de la normalidad
+T52	SYMPTOM 4314 4325	infiltrados
+T53	SYMPTOM 4329 4344	consolidaciones
+T54	SYMPTOM 4363 4418	ventrículo izquierdo no dilatado con disquinesia apical
+T55	SYMPTOM 4572 4585	ritmo sinusal
+T56	SYMPTOM 4640 4677	Ondas T negativas en I y aVL, V5 y V6
+T57	SYMPTOM 5040 5071	condensación en lóbulo inferior
+T58	SYMPTOM 5094 5113	Legionella negativo
+T59	SYMPTOM 5115 5152	Ag streptococcus pneumoniane negativo
+T60	SYMPTOM 5154 5201	Cultivo esputo: desarrollo de flora orofaríngea
+T61	SYMPTOM 5341 5411	Nódulo en el lóbulo superior izquierdo de unos 11 mm con calcificación
+T62	SYMPTOM 5676 5759	ventrículo izquierdo dilatado con región apical adelgazada y aquinética y expandida
+T63	SYMPTOM 6091 6116	Aurícula izquierda normal
+T64	SYMPTOM 6190 6213	Aurícula derecha normal
+T65	SYMPTOM 6787 6805	Coagulación normal
+T66	SYMPTOM 6867 6897	función renal e iones normales
+T67	SYMPTOM 6904 6917	ritmo sinusal
+T69	SYMPTOM 7418 7462	Fracción de eyección moderadamente deprimida
+T70	SYMPTOM 7591 7639	Aurícula izquierda y cavidades derechas normales
+T72	SYMPTOM 7926 7974	dolor centrotorácico opresivo irradiando a brazo
+T73	SYMPTOM 7989 7999	sudoración
+T74	SYMPTOM 8126 8131	dolor
+T75	SYMPTOM 8796 8805	dispepsia
+T76	SYMPTOM 9328 9342	dolor torácico
+T78	SYMPTOM 9590 9595	dolor
+T79	SYMPTOM 9766 9780	dolor torácico
+T80	SYMPTOM 9805 9828	dificultad respiratoria
+T81	SYMPTOM 9951 9978	disnea de mínimos esfuerzos
+T82	SYMPTOM 9980 9988	ortopnea
+T83	SYMPTOM 9991 10018	disnea paroxística nocturna
+T84	SYMPTOM 10036 10039	tos
+T85	SYMPTOM 10044 10069	expectoración blanquecina
+T86	SYMPTOM 10074 10080	fiebre
+T87	SYMPTOM 10595 10660	dolor torácico ocasional de características pleuro-pericardíticas
+T88	SYMPTOM 11347 11356	dispepsia
+T261	SYMPTOM 1507 1537	signos de trabajo respiratorio
+T22	SYMPTOM 1552 1573	No tolera el decúbito
+T24	SYMPTOM 7822 7847	Vena cava inferior normal
+T266	SYMPTOM 7056 7072	Aquinesia apical
+T277	SYMPTOM 7310 7328	Hipoquinesia basal
+T278	SYMPTOM 7280 7299	Hipoquinesia apical
+T290	SYMPTOM 6300 6332	Válvula aórtica sin alteraciones
+T291	SYMPTOM 6378 6426	Válvulas derechas sin alteraciones estructurales
+T292	SYMPTOM 4609 4638	alteraciones de la conducción
+T294	SYMPTOM 4420 4497	aquinesia de segmentos medios de cara anterior, septo anterior y cara lateral
+T301	SYMPTOM 6531 6556	Cava inferior no dilatada
+T303	SYMPTOM 3037 3055	dominancia derecha
+T305	SYMPTOM 1578 1599	focalidad neurológica
+T306	SYMPTOM 6118 6188	Ventrículo derecho de diámetros, paredes y fracción de eyección normal
+T316	SYMPTOM 1793 1798	masas
+T333	SYMPTOM 1604 1620	signos meníngeos
+T340	SYMPTOM 7012 7054	ventrículo izquierdo de diámetros normales
+T68	SYMPTOM 3580 3590	Eje normal
+T71	SYMPTOM 4237 4289	senos cardiofrénicos y costo-diafragmáticos pinzados
+T127	SYMPTOM 6021 6067	Fracción de eyección muy severamente deprimida
+T217	SYMPTOM 6922 6969	onda de necrosis extensa anteroseptal y lateral
+T221	SYMPTOM 7212 7278	engrosamiento y ecogenicidad aumentada pericárdico parietal apical
+T222	SYMPTOM 7641 7717	Válvulas izquierdas y derechas sin alteraciones estructurales ni funcionales

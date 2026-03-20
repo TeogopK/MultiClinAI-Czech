@@ -1,0 +1,48 @@
+T84	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T85	PROCEDURE 966 984	Exploración física
+T86	PROCEDURE 1110 1124	oxigenoterapia
+T87	PROCEDURE 1236 1257	Auscultación cardiaca
+T88	PROCEDURE 1322 1343	Auscultación pulmonar
+T89	PROCEDURE 1589 1592	ECG
+T90	PROCEDURE 1929 1949	Radiografía de tórax
+T91	PROCEDURE 2088 2097	hemograma
+T92	PROCEDURE 2182 2193	Coagulación
+T93	PROCEDURE 2269 2309	Perfil hepatobiliar y hormonas tiroideas
+T94	PROCEDURE 2320 2334	Ecocardiograma
+T95	PROCEDURE 2586 2593	Doppler
+T96	PROCEDURE 4123 4129	Holter
+T97	PROCEDURE 4253 4282	Resonancia magnética cardiaca
+T98	PROCEDURE 4284 4287	RMC
+T99	PROCEDURE 5264 5286	secuencia de perfusión
+T100	PROCEDURE 5621 5624	ECG
+T101	PROCEDURE 5633 5641	ablación
+T102	PROCEDURE 5966 5984	electrocardiograma
+T103	PROCEDURE 6172 6192	radiografía de tórax
+T104	PROCEDURE 6233 6248	ecocardiografía
+T105	PROCEDURE 6695 6711	estudio genético
+T106	PROCEDURE 6771 6774	RMC
+T107	PROCEDURE 7486 7503	electrofisiología
+T108	PROCEDURE 7517 7527	ergometría
+T109	PROCEDURE 7764 7778	Holter de 24 h
+T110	PROCEDURE 7927 7953	estudio electrofisiológico
+T111	PROCEDURE 7955 7958	EEF
+T112	PROCEDURE 8792 8835	acceso retroaórtico mapeo del anillo mitral
+T113	PROCEDURE 8841 8906	ablación mediante radiofrecuencia a nivel anterolateral izquierdo
+T114	PROCEDURE 8918 8926	ablación
+T115	PROCEDURE 8999 9007	ablación
+T116	PROCEDURE 9088 9105	electrofisiología
+T117	PROCEDURE 9183 9198	Holter seriados
+T118	PROCEDURE 9241 9244	ECG
+T119	PROCEDURE 9375 9391	estudio genético
+T120	PROCEDURE 9918 9969	Ablación exitosa de la vía mediante radiofrecuencia
+T25	PROCEDURE 2203 2213	Bioquímica
+T28	PROCEDURE 2253 2258	iones
+T75	PROCEDURE 8251 8276	infusión de isoproterenol
+T166	PROCEDURE 9660 9699	screening de familiares de primer grado
+T167	PROCEDURE 2077 2086	Analítica
+T172	PROCEDURE 3306 3316	Ergometría
+T186	PROCEDURE 8690 8726	estimulación auricular y ventricular
+T189	PROCEDURE 388 414	intervenciones quirúrgicas
+T13	PROCEDURE 8631 8656	infusión de isoproterenol
+T168	PROCEDURE 8523 8548	infusión de isoproterenol
+T133	PROCEDURE 6160 6169	analítica

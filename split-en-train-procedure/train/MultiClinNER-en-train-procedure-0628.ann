@@ -1,0 +1,42 @@
+T1	PROCEDURE 122 134	chemotherapy
+T21	PROCEDURE 136 159	5-fluorouracil analogue
+T2	PROCEDURE 165 190	preoperative radiotherapy
+T26	PROCEDURE 217 224	surgery
+T27	PROCEDURE 260 267	surgery
+T3	PROCEDURE 269 296	abdominoperineal amputation
+T23	PROCEDURE 340 361	anaesthetic induction
+T36	PROCEDURE 429 445	sedoanalgesiated
+T4	PROCEDURE 447 456	intubated
+T38	PROCEDURE 461 476	connected to MV
+T40	PROCEDURE 602 615	was extubated
+T6	PROCEDURE 786 821	non-invasive mechanical ventilation
+T7	PROCEDURE 823 827	NIMV
+T8	PROCEDURE 854 868	pulse oximetry
+T12	PROCEDURE 957 976	she was reintubated
+T19	PROCEDURE 1041 1053	antipyretics
+T24	PROCEDURE 1077 1162	Microbiological samples were taken (blood culture, urine culture and bronchoaspirate)
+T9	PROCEDURE 1113 1126	blood culture
+T10	PROCEDURE 1128 1141	urine culture
+T46	PROCEDURE 1146 1161	bronchoaspirate
+T11	PROCEDURE 1164 1184	Antibiotic treatment
+T5	PROCEDURE 1387 1396	intubated
+T50	PROCEDURE 1401 1416	connected to MV
+T30	PROCEDURE 1490 1502	radiological
+T25	PROCEDURE 1561 1584	microbiological samples
+T52	PROCEDURE 1589 1606	abdominal CT scan
+T28	PROCEDURE 1656 1663	surgery
+T13	PROCEDURE 1733 1744	blood gases
+T29	PROCEDURE 1766 1795	spontaneous respiratory tests
+T20	PROCEDURE 1839 1849	extubation
+T57	PROCEDURE 1971 1979	cultures
+T58	PROCEDURE 1984 2043	fibrobronchoscopy was performed with bronchoalveolar lavage
+T14	PROCEDURE 2045 2048	BAL
+T60	PROCEDURE 2054 2087	samples were sent to microbiology
+T61	PROCEDURE 2089 2096	culture
+T22	PROCEDURE 2101 2144	PCR for herpes, CMV and respiratory viruses
+T18	PROCEDURE 2150 2170	pathological anatomy
+T16	PROCEDURE 2172 2197	Percutaneous tracheostomy
+T15	PROCEDURE 2220 2223	BAL
+T64	PROCEDURE 2304 2318	histologically
+T17	PROCEDURE 2499 2518	Antiviral treatment
+T31	PROCEDURE 2616 2659	progressive disconnection of the respirator

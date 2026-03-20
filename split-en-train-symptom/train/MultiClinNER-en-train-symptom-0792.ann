@@ -1,0 +1,66 @@
+T1	SYMPTOM 82 92	chest pain
+T49	SYMPTOM 429 450	HIV serology negative
+T50	SYMPTOM 810 856	oppressive non-radiating central thoracic pain
+T5	SYMPTOM 987 995	dyspnoea
+T6	SYMPTOM 1011 1022	diaphoresis
+T2	SYMPTOM 1183 1193	chest pain
+T51	SYMPTOM 1318 1371	serum markers of myocardial damage, which were normal
+T7	SYMPTOM 1550 1559	Conscious
+T8	SYMPTOM 1564 1572	oriented
+T9	SYMPTOM 1574 1602	Acceptable general condition
+T10	SYMPTOM 1604 1613	cachectic
+T52	SYMPTOM 1636 1649	normal colour
+T11	SYMPTOM 1651 1666	Eupneic at rest
+T53	SYMPTOM 1676 1695	congestive symptoms
+T12	SYMPTOM 1697 1727	Cardiac auscultation: rhythmic
+T13	SYMPTOM 1746 1753	murmurs
+T14	SYMPTOM 1757 1767	extratonos
+T15	SYMPTOM 1793 1819	preserved vesicular murmur
+T54	SYMPTOM 1855 1893	Abdominal examination was unremarkable
+T16	SYMPTOM 1895 1927	Lower extremities without oedema
+T17	SYMPTOM 1998 2010	sinus rhythm
+T20	SYMPTOM 2035 2045	Narrow QRS
+T37	SYMPTOM 2102 2143	conduction or repolarisation disturbances
+T22	SYMPTOM 2145 2155	Normal QTc
+T55	SYMPTOM 2238 2283	ST segment elevation of 2 mm in inferior face
+T56	SYMPTOM 2286 2328	T-segment depression in V1-V4, aVR and aVL
+T23	SYMPTOM 2356 2386	deep negative T waves in V1-V3
+T57	SYMPTOM 2406 2444	normal haemogram and coagulation study
+T58	SYMPTOM 2460 2490	renal function and ions normal
+T24	SYMPTOM 2492 2543	Hepatobiliary profile without pathological findings
+T59	SYMPTOM 2545 2566	Autoimmunity negative
+T25	SYMPTOM 2568 2611	Toxicity test: positive for benzodiazepines
+T60	SYMPTOM 2640 2683	Proteinogram with monoclonal IgM/Kappa band
+T61	SYMPTOM 2817 2844	normal cardiothoracic index
+T38	SYMPTOM 2846 2871	Free costophrenic sinuses
+T62	SYMPTOM 2876 2889	consolidation
+T26	SYMPTOM 2893 2916	parenchymal infiltrates
+T39	SYMPTOM 3068 3108	fine calibre of the entire coronary tree
+T27	SYMPTOM 3190 3236	cardiac cavities of normal size and morphology
+T63	SYMPTOM 3238 3289	Mitral valve with a very redundant anterior leaflet
+T41	SYMPTOM 3406 3453	Normal left ventricular segmental contractility
+T28	SYMPTOM 3564 3597	Normal right ventricular function
+T29	SYMPTOM 3599 3617	Normal pericardium
+T18	SYMPTOM 3721 3733	sinus rhythm
+T21	SYMPTOM 3745 3755	Narrow QRS
+T64	SYMPTOM 3757 3784	Deep negative T waves V2-V6
+T65	SYMPTOM 3786 3850	Negative T waves of lesser magnitude in inferior face, I and aVL
+T66	SYMPTOM 4031 4065	thickening of the duodenal papilla
+T67	SYMPTOM 4238 4286	Nonspecific micro-nodule in the right lower lobe
+T3	SYMPTOM 4505 4515	chest pain
+T40	SYMPTOM 4699 4739	fine calibre of the entire coronary tree
+T30	SYMPTOM 4967 5004	myocardial damage markers were normal
+T68	SYMPTOM 5273 5288	precordial pain
+T19	SYMPTOM 6169 6240	renal function and ions, including potassium and magnesium, were normal
+T31	SYMPTOM 6306 6330	haemodynamic instability
+T32	SYMPTOM 6601 6612	hypotension
+T42	SYMPTOM 6660 6669	vasospasm
+T33	SYMPTOM 7147 7157	drowsiness
+T43	SYMPTOM 7216 7274	monoclonal IgM Kappa band was detected in the proteinogram
+T45	SYMPTOM 7352 7361	vasospasm
+T34	SYMPTOM 7598 7610	asymptomatic
+T4	SYMPTOM 7636 7646	chest pain
+T46	SYMPTOM 7650 7659	vasospasm
+T47	SYMPTOM 7806 7815	vasospasm
+T35	SYMPTOM 8100 8112	asymptomatic
+T36	SYMPTOM 8117 8140	haemodynamically stable

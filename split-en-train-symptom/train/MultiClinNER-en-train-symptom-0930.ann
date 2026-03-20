@@ -1,0 +1,89 @@
+T1	SYMPTOM 406 440	left ventricle [LV] of normal size
+T41	SYMPTOM 465 513	normal left ventricular ejection fraction [LVEF]
+T4	SYMPTOM 726 738	sinus rhythm
+T2	SYMPTOM 1356 1371	facial flushing
+T3	SYMPTOM 1376 1386	discomfort
+T42	SYMPTOM 1627 1654	clumsiness in the right leg
+T5	SYMPTOM 2078 2090	sinus rhythm
+T8	SYMPTOM 2374 2383	epistaxis
+T53	SYMPTOM 3167 3221	Asymptomatic for dyspnoea, palpitations and chest pain
+T10	SYMPTOM 3184 3192	dyspnoea
+T12	SYMPTOM 3194 3206	palpitations
+T13	SYMPTOM 3211 3221	chest pain
+T14	SYMPTOM 3303 3334	progressive exertional dyspnoea
+T15	SYMPTOM 3339 3348	dry cough
+T16	SYMPTOM 3521 3549	Acceptable general condition
+T17	SYMPTOM 3551 3560	Conscious
+T18	SYMPTOM 3565 3594	oriented in the three spheres
+T11	SYMPTOM 3596 3609	Normal colour
+T19	SYMPTOM 3611 3624	normohydrated
+T43	SYMPTOM 3629 3642	normoperfused
+T44	SYMPTOM 3644 3677	Carotids rhythmic and symmetrical
+T20	SYMPTOM 3682 3703	jugular ingurgitation
+T21	SYMPTOM 3727 3741	rhythmic tones
+T22	SYMPTOM 3750 3757	murmurs
+T23	SYMPTOM 3761 3771	extratonos
+T45	SYMPTOM 3797 3837	vesicular murmur abolished in lung bases
+T46	SYMPTOM 3843 3871	dry crackles up to midfields
+T39	SYMPTOM 3873 3962	Abdomen: hydro-aerial sounds present, soft and depressible, not painful on deep palpation
+T24	SYMPTOM 3967 3973	masses
+T25	SYMPTOM 3977 3986	megaliths
+T26	SYMPTOM 3988 4016	Lower extremities: No oedema
+T27	SYMPTOM 4018 4043	Peripheral pulses present
+T6	SYMPTOM 4582 4594	sinus rhythm
+T54	SYMPTOM 4606 4615	Left axis
+T40	SYMPTOM 4736 4767	Borderline cardiothoracic index
+T55	SYMPTOM 4833 4854	bibasal consolidation
+T56	SYMPTOM 4860 4896	interstitial pattern up to midfields
+T28	SYMPTOM 5049 5073	normal systolic function
+T57	SYMPTOM 5110 5137	contractility abnormalities
+T58	SYMPTOM 5139 5167	Pseudonormal filling pattern
+T59	SYMPTOM 5169 5191	high filling pressures
+T29	SYMPTOM 5204 5264	Right ventricle with normal morphology and systolic function
+T60	SYMPTOM 5395 5460	systolic pulmonary artery pressure (PAPs) within the normal range
+T30	SYMPTOM 5497 5524	Vena cava of normal calibre
+T61	SYMPTOM 5673 5696	pulmonary consolidation
+T62	SYMPTOM 5702 5718	alveolar pattern
+T35	SYMPTOM 5723 5738	air bronchogram
+T47	SYMPTOM 5784 5811	patchy foci of ground glass
+T63	SYMPTOM 5822 5839	nodular opacities
+T48	SYMPTOM 5865 5913	peripheral coarse reticular interstitial pattern
+T64	SYMPTOM 6089 6160	Main trunk of pulmonary artery of 29 mm, at the high limit of normality
+T65	SYMPTOM 6248 6303	largest nodule measuring 20 mm in the left thyroid lobe
+T66	SYMPTOM 6305 6358	Diffuse increased attenuation of the liver parenchyma
+T31	SYMPTOM 6385 6405	Bronchoscopy: normal
+T67	SYMPTOM 6407 6471	Bronchoalveolar lavage with predominantly neutrophilic phenotype
+T68	SYMPTOM 6473 6500	no microbiological isolates
+T69	SYMPTOM 6505 6548	pathological anatomy with fatty macrophages
+T32	SYMPTOM 6584 6624	mild restrictive ventilatory abnormality
+T70	SYMPTOM 6626 6663	Severe decrease in diffusing capacity
+T34	SYMPTOM 6756 6789	normal respiratory function tests
+T71	SYMPTOM 6791 6839	Isolated moderate decrease in diffusing capacity
+T72	SYMPTOM 7009 7080	peripheral pattern of predominance in bases, interstitial, ground glass
+T49	SYMPTOM 7090 7120	thickening of interlobar septa
+T73	SYMPTOM 7225 7247	areas of consolidation
+T74	SYMPTOM 7467 7499	elevated inflammatory parameters
+T50	SYMPTOM 7508 7542	radiological pulmonary alterations
+T36	SYMPTOM 7544 7574	areas of bibasal consolidation
+T75	SYMPTOM 7712 7745	increased inflammatory parameters
+T37	SYMPTOM 7941 7960	systemic congestion
+T76	SYMPTOM 7972 7995	mildly elevated pro-BNP
+T38	SYMPTOM 8446 8463	pulmonary pattern
+T77	SYMPTOM 8517 8552	fibrotic changes of chronic profile
+T33	SYMPTOM 8704 8744	mild restrictive ventilatory abnormality
+T78	SYMPTOM 8752 8789	severe decrease in diffusing capacity
+T79	SYMPTOM 8822 8834	desaturation
+T80	SYMPTOM 8914 8966	bronchoscopy which revealed no pathological findings
+T81	SYMPTOM 8973 9042	bronchoalveolar lavage showing a predominantly neutrophilic phenotype
+T82	SYMPTOM 9044 9071	no microbiological isolates
+T83	SYMPTOM 9076 9119	pathological anatomy with fatty macrophages
+T51	SYMPTOM 9362 9424	thyroid ultrasound was requested, which showed multiple benign
+T84	SYMPTOM 9438 9461	normal thyroid function
+T52	SYMPTOM 10313 10392	peripheral interstitial pattern persisted, predominantly basal, in ground glass
+T85	SYMPTOM 10399 10433	thickening of the interlobar septa
+T86	SYMPTOM 10545 10567	areas of consolidation
+T88	SYMPTOM 10703 10730	normal ventricular function
+T87	SYMPTOM 10926 10939	low afterload
+T7	SYMPTOM 10954 10966	sinus rhythm
+T89	SYMPTOM 10979 10998	recurrent epistaxis
+T9	SYMPTOM 11180 11211	alterations in thyroid function

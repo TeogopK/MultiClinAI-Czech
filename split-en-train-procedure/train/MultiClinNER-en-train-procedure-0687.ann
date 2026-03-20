@@ -1,0 +1,24 @@
+T4	PROCEDURE 387 395	PSA test
+T6	PROCEDURE 498 520	transrectal ultrasound
+T7	PROCEDURE 525 558	ultrasound-guided prostate biopsy
+T10	PROCEDURE 632 647	extension study
+T17	PROCEDURE 649 660	blood tests
+T13	PROCEDURE 662 665	MRI
+T8	PROCEDURE 670 687	bone scintigraphy
+T9	PROCEDURE 841 867	Complete androgen blockade
+T14	PROCEDURE 926 938	antiandrogen
+T3	PROCEDURE 1054 1073	analgesic treatment
+T5	PROCEDURE 1093 1099	NSAIDs
+T15	PROCEDURE 1104 1112	morphine
+T16	PROCEDURE 1139 1211	dorsolumbar vertebral irradiation with 30 Gy administered in 10 sessions
+T18	PROCEDURE 1420 1432	antiandrogen
+T19	PROCEDURE 1438 1449	biochemical
+T21	PROCEDURE 1660 1669	analgesic
+T20	PROCEDURE 1917 1930	palliative CT
+T11	PROCEDURE 1917 1960	palliative CT with Docetaxel and prednisone
+T22	PROCEDURE 1978 2017	therapy with bone resorption inhibitors
+T12	PROCEDURE 2081 2098	analgesic control
+T2	PROCEDURE 2337 2361	Neurological examination
+T1	PROCEDURE 2485 2496	Orbital MRI
+T23	PROCEDURE 3149 3167	Contrast sequences
+T24	PROCEDURE 3247 3291	palliative irradiation of the affected areas

@@ -1,0 +1,83 @@
+T1	SYMPTOM 1160 1189	paroxysmal nocturnal dyspnoea
+T2	SYMPTOM 1198 1210	palpitations
+T3	SYMPTOM 1357 1367	orthopnoea
+T4	SYMPTOM 1371 1379	diuresis
+T5	SYMPTOM 1415 1425	chest pain
+T6	SYMPTOM 1430 1441	arthralgias
+T7	SYMPTOM 1485 1490	fever
+T8	SYMPTOM 1615 1643	Acceptable general condition
+T9	SYMPTOM 1645 1654	conscious
+T10	SYMPTOM 1656 1664	oriented
+T11	SYMPTOM 1687 1695	hydrated
+T12	SYMPTOM 1732 1750	tachypnoea at rest
+T13	SYMPTOM 1757 1771	slurred speech
+T14	SYMPTOM 1825 1839	mild dysphonia
+T15	SYMPTOM 1884 1898	rhythmic tones
+T16	SYMPTOM 1927 1934	murmurs
+T17	SYMPTOM 1944 1964	pericardial friction
+T18	SYMPTOM 2006 2022	bibasal crackles
+T19	SYMPTOM 2041 2049	wheezing
+T20	SYMPTOM 2167 2191	preserved cranial nerves
+T21	SYMPTOM 2463 2504	peripheral pulses present and symmetrical
+T22	SYMPTOM 2856 2878	Coagulation was normal
+T23	SYMPTOM 2956 2968	sinus rhythm
+T24	SYMPTOM 3808 3817	normal CK
+T25	SYMPTOM 4957 4984	preserved systolic function
+T26	SYMPTOM 7609 7636	preserved systolic function
+T27	SYMPTOM 8972 8999	preserved systolic function
+T28	SYMPTOM 5754 5788	preserved global systolic function
+T29	SYMPTOM 6215 6247	Dilatation of suprahepatic veins
+T30	SYMPTOM 6311 6334	haemodynamic compromise
+T31	SYMPTOM 6372 6417	Trivalve aortic valve with preserved mobility
+T32	SYMPTOM 6419 6437	Normal aortic flow
+T33	SYMPTOM 6439 6469	Normal mitral valve morphology
+T34	SYMPTOM 6711 6743	non-dilated LV with preserved EF
+T35	SYMPTOM 6795 6832	slightly dilated RV with preserved EF
+T36	SYMPTOM 4920 4946	non-dilated left ventricle
+T37	SYMPTOM 7550 7576	non-dilated left ventricle
+T38	SYMPTOM 8166 8193	preserved ejection fraction
+T39	SYMPTOM 8944 8966	non-dilated ventricles
+T40	SYMPTOM 9198 9240	tethering of the inferior papillary muscle
+T41	SYMPTOM 9899 9941	tethering of the inferior papillary muscle
+T42	SYMPTOM 9988 10012	normal systolic function
+T44	SYMPTOM 1181 1189	dyspnoea
+T45	SYMPTOM 11230 11238	dyspnoea
+T46	SYMPTOM 12970 12978	Dyspnoea
+T47	SYMPTOM 11284 11308	elevated cardiac enzymes
+T48	SYMPTOM 11310 11322	thrombopenia
+T51	SYMPTOM 11324 11336	eosinophilia
+T52	SYMPTOM 11765 11777	eosinophilia
+T53	SYMPTOM 13045 13057	eosinophilia
+T54	SYMPTOM 12105 12143	Clinically and haemodynamically stable
+T55	SYMPTOM 465 474	euthyroid
+T57	SYMPTOM 1700 1708	perfused
+T58	SYMPTOM 3263 3293	costophrenic sinus impingement
+T59	SYMPTOM 3989 4036	positive anti-neutrophil cytoplasmic antibodies
+T60	SYMPTOM 5413 5439	Normal mitral flow pattern
+T141	SYMPTOM 545 578	salmeterol/fluticasone propionate
+T142	SYMPTOM 598 608	salbutamol
+T145	SYMPTOM 11874 11890	cyclophosphamide
+T147	SYMPTOM 11823 11833	prednisone
+T43	SYMPTOM 1080 1122	progressive dyspnoea until minimal effort,
+T61	SYMPTOM 1133 1158	oedema in the lower limbs
+T62	SYMPTOM 1265 1304	ecchymosis in the upper and lower limbs
+T63	SYMPTOM 1309 1345	hypoaesthesia in the left lower limb
+T64	SYMPTOM 1710 1723	normal colour
+T65	SYMPTOM 2055 2078	abdomen is unremarkable
+T66	SYMPTOM 2116 2165	isochoric pupils that were normoreactive to light
+T67	SYMPTOM 2193 2252	diminished gross tactile sensitivity in the left lower limb
+T68	SYMPTOM 2323 2359	lower limbs showed oedema with fovea
+T69	SYMPTOM 2526 2571	small ecchymoses on the upper and lower limbs
+T70	SYMPTOM 3039 3084	ST depression of 1 mm in II, III, aVF, V3-V6,
+T71	SYMPTOM 3085 3142	flattened T waves in inferior leads and negative in V3-V6
+T72	SYMPTOM 3208 3226	Prominent hilarity
+T73	SYMPTOM 3531 3573	pulmonary parenchyma showed no alterations
+T74	SYMPTOM 4053 4093	positive anti-myeloperoxidase antibodies
+T75	SYMPTOM 5108 5131	Aortic root not dilated
+T76	SYMPTOM 5582 5596	Non-dilated LV
+T77	SYMPTOM 5679 5739	progressive thickening from mid segments and especially apex
+T78	SYMPTOM 5810 5856	evident alterations of segmental contractility
+T79	SYMPTOM 5980 5999	RV normocontractile
+T80	SYMPTOM 9245 9383	slight hypokinesis of apical segments and apex of the left ventricle, as well as of the apical segment of the right ventricular free wall,
+T81	SYMPTOM 11240 11265	oedema in the lower limbs
+T82	SYMPTOM 11493 11543	ANCA ELISA study was requested, which was positive

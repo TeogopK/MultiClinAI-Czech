@@ -1,0 +1,56 @@
+T38	DISEASE 144 157	heart disease
+T39	DISEASE 290 303	heart disease
+T1	DISEASE 451 454	DCM
+T40	DISEASE 521 534	heart disease
+T41	DISEASE 598 611	heart disease
+T43	DISEASE 643 657	drug allergies
+T72	DISEASE 659 671	Toxic habits
+T44	DISEASE 677 683	smoker
+T45	DISEASE 692 699	drinker
+T46	DISEASE 733 745	Fibromyalgia
+T47	DISEASE 815 837	Dilated cardiomyopathy
+T2	DISEASE 941 952	severe LVSD
+T3	DISEASE 1027 1047	severe functional MR
+T4	DISEASE 1049 1095	severe functional tricuspid regurgitation (TR)
+T49	DISEASE 1108 1153	Pulmonary hypertension (PH) at least moderate
+T5	DISEASE 1132 1134	PH
+T50	DISEASE 1164 1177	heart failure
+T53	DISEASE 1379 1399	Cardiorenal syndrome
+T56	DISEASE 1594 1618	Left bundle branch block
+T6	DISEASE 1620 1624	LBBB
+T57	DISEASE 1722 1745	ventricular arrhythmias
+T58	DISEASE 1762 1785	ventricular tachycardia
+T7	DISEASE 1787 1789	VT
+T59	DISEASE 1812 1825	Paroxysmal AF
+T8	DISEASE 2235 2237	HF
+T61	DISEASE 3709 3729	deep vein thrombosis
+T62	DISEASE 3731 3734	DVT
+T10	DISEASE 5352 5389	monomorphic ventricular extrasystoles
+T9	DISEASE 5438 5465	left ventricle (LV) dilated
+T63	DISEASE 5484 5511	severe systolic dysfunction
+T11	DISEASE 5575 5643	Right ventricle (RV) slightly dilated with mild systolic dysfunction
+T70	DISEASE 5645 5683	Severe functional mitral regurgitation
+T12	DISEASE 5685 5687	MR
+T14	DISEASE 5690 5722	Moderate tricuspid insufficiency
+T13	DISEASE 5724 5726	TI
+T64	DISEASE 5838 5858	aortic insufficiency
+T65	DISEASE 5965 6010	moderate postcapillary pulmonary hypertension
+T67	DISEASE 6271 6287	decompensated HF
+T15	DISEASE 6730 6767	post-capillary pulmonary hypertension
+T60	DISEASE 6854 6856	IC
+T42	DISEASE 6966 6979	heart disease
+T74	DISEASE 7423 7425	it
+T51	DISEASE 7768 7781	heart failure
+T16	DISEASE 7845 7848	CKD
+T54	DISEASE 7902 7922	cardiorenal syndrome
+T68	DISEASE 8123 8141	catarrhal symptoms
+T69	DISEASE 8767 8776	severe MI
+T73	DISEASE 8883 8902	mild to moderate MI
+T18	DISEASE 9643 9738	Advanced chronic heart failure CF III NYHA - INTERMACS 6 due to familial dilated cardiomyopathy
+T17	DISEASE 9797 9808	severe LVSD
+T19	DISEASE 9903 9941	Severe functional mitral insufficiency
+T20	DISEASE 9946 9989	moderate functional tricuspid insufficiency
+T66	DISEASE 10009 10054	Moderate postcapillary pulmonary hypertension
+T21	DISEASE 10105 10110	NSMVT
+T71	DISEASE 10122 10152	Paroxysmal atrial fibrillation
+T22	DISEASE 10154 10210	Chronic renal failure (G3A2) due to cardiorenal syndrome

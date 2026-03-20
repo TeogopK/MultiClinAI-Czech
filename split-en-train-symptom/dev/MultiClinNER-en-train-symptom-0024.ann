@@ -1,0 +1,17 @@
+T6	SYMPTOM 327 335	dyspnoea
+T7	SYMPTOM 379 384	cough
+T8	SYMPTOM 386 397	haemoptysis
+T9	SYMPTOM 401 417	general syndrome
+T14	SYMPTOM 419 442	Blood tests were normal
+T10	SYMPTOM 491 505	parahilar mass
+T16	SYMPTOM 595 601	tumour
+T11	SYMPTOM 744 815	gastroscopy, colonoscopy and abdominopelvic CT scan, which was negative
+T1	SYMPTOM 1053 1067	abdominal pain
+T2	SYMPTOM 1073 1079	nausea
+T3	SYMPTOM 1081 1089	vomiting
+T4	SYMPTOM 1106 1118	rectorrhagia
+T12	SYMPTOM 1141 1217	polylobulated mass with a neoplastic appearance in the ascending colon-cecum
+T13	SYMPTOM 1245 1280	dilatation of the small bowel loops
+T15	SYMPTOM 1291 1353	doughnut-shaped image at the level of the terminal ileum-cecum
+T5	SYMPTOM 1566 1585	tumour in the cecum
+T23	SYMPTOM 2155 2159	died

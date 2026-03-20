@@ -1,0 +1,30 @@
+T1	SYMPTOM 70 78	Insomnio
+T2	SYMPTOM 257 270	cuadro febril
+T3	SYMPTOM 275 283	tiritona
+T4	SYMPTOM 295 306	somnolencia
+T5	SYMPTOM 309 323	desorientación
+T6	SYMPTOM 418 425	astenia
+T7	SYMPTOM 428 436	anorexia
+T8	SYMPTOM 450 456	fiebre
+T9	SYMPTOM 488 498	odinofagia
+T10	SYMPTOM 590 600	Consciente
+T11	SYMPTOM 602 634	desorientada en tiempo y espacio
+T12	SYMPTOM 636 654	Eupneica en reposo
+T13	SYMPTOM 656 675	Palidez mucocutánea
+T14	SYMPTOM 696 711	rigidez de nuca
+T15	SYMPTOM 718 730	Taquicárdica
+T16	SYMPTOM 736 742	soplos
+T17	SYMPTOM 744 766	Hipoventilación global
+T19	SYMPTOM 864 877	Ritmo sinusal
+T21	SYMPTOM 1843 1868	estable hemodinamicamente
+T22	SYMPTOM 1939 1953	desorientación
+T23	SYMPTOM 1956 1967	somnolencia
+T24	SYMPTOM 1973 1979	afasia
+T26	SYMPTOM 2346 2379	deterioro del nivel de conciencia
+T27	SYMPTOM 2385 2402	asimetría pupilar
+T28	SYMPTOM 2411 2435	postura de decorticación
+T29	SYMPTOM 2541 2562	deterioro neurológico
+T30	SYMPTOM 2611 2629	reflejos de tronco
+T31	SYMPTOM 2643 2654	pico febril
+T18	SYMPTOM 2277 2291	VI no dilatado
+T101	SYMPTOM 3253 3286	Positivo para Streptococcus mitis

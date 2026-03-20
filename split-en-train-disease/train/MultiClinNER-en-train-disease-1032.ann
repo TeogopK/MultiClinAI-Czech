@@ -1,0 +1,57 @@
+T56	DISEASE 87 101	drug allergies
+T57	DISEASE 106 118	toxic habits
+T1	DISEASE 149 161	hypertension
+T59	DISEASE 166 179	dyslipidaemia
+T88	DISEASE 181 210	Permanent atrial fibrillation
+T2	DISEASE 212 214	AF
+T3	DISEASE 372 378	angina
+T61	DISEASE 1348 1414	Lower limbs: trophic disorders due to chronic venous insufficiency
+T4	DISEASE 1554 1556	AF
+T62	DISEASE 2428 2483	hypertrophy at the level of the interventricular septum
+T94	DISEASE 2702 2787	Trivalve aortic valve, sclerocalcified, with preserved opening and mild insufficiency
+T63	DISEASE 2789 2886	Sclerocalcified mitral valve with restriction of the posterior leaflet and moderate insufficiency
+T89	DISEASE 2888 2918	Moderately dilated left atrium
+T6	DISEASE 2972 3000	Mild tricuspid insufficiency
+T64	DISEASE 3107 3129	pulmonary hypertension
+T65	DISEASE 3134 3154	pericardial effusion
+T7	DISEASE 3234 3236	AF
+T9	DISEASE 3484 3570	Dissection of the distal anterior descending artery (DA) up to the tip, with occlusion
+T95	DISEASE 3900 3945	Basal anterior septum with severe hypertrophy
+T69	DISEASE 4117 4131	pseudoaneurysm
+T73	DISEASE 4204 4238	Mild-moderate mitral insufficiency
+T74	DISEASE 4240 4277	Mild-moderate tricuspid insufficiency
+T75	DISEASE 4414 4434	aortic insufficiency
+T66	DISEASE 4467 4487	pericardial effusion
+T76	DISEASE 4640 4674	Aneurysm and apical pseudoaneurysm
+T67	DISEASE 4743 4763	pericardial effusion
+T77	DISEASE 4776 4792	pleural effusion
+T11	DISEASE 4797 4844	subsegmental atelectasis in the left lower lobe
+T12	DISEASE 4864 4866	AF
+T13	DISEASE 5025 5039	angina at rest
+T78	DISEASE 5161 5180	tako-tsubo syndrome
+T14	DISEASE 5207 5214	NSTEACS
+T90	DISEASE 5592 5609	arrhythmic events
+T16	DISEASE 6037 6118	spontaneous dissection at the level of the distal LAD, with very distal occlusion
+T91	DISEASE 6591 6602	hypotension
+T68	DISEASE 6736 6756	pericardial effusion
+T79	DISEASE 6834 6880	cardiac tamponade secondary to cardiac rupture
+T21	DISEASE 7354 7377	apical infarcted region
+T22	DISEASE 7448 7463	CRA due to AESP
+T80	DISEASE 8587 8605	severe hypotension
+T27	DISEASE 8733 8772	cardiac tamponade secondary to effusion
+T28	DISEASE 8777 8820	the presence of clots in the right chambers
+T96	DISEASE 8971 9020	pericardial sac, again visualising apical tearing
+T81	DISEASE 9159 9179	arterial hypotension
+T71	DISEASE 9806 9820	pseudoaneurysm
+T83	DISEASE 10023 10031	aneurysm
+T72	DISEASE 10047 10088	lower apical polylobulated pseudoaneurysm
+T34	DISEASE 10807 10822	anterior STEMI.
+T85	DISEASE 10823 10885	Spontaneous distal LAD dissection with distal vessel occlusion
+T36	DISEASE 10926 10962	CRA by pulseless electrical activity
+T37	DISEASE 10987 11058	cardiac tamponade due to rupture of the free wall of the left ventricle
+T86	DISEASE 11100 11115	Pseudonaneurysm
+T84	DISEASE 11120 11166	apical and lower apical polylobulated aneurysm
+T87	DISEASE 11193 11219	Severe acute renal failure
+T38	DISEASE 11255 11299	Permanent anticoagulated atrial fibrillation
+T58	DISEASE 11301 11322	Arterial hypertension
+T60	DISEASE 11324 11337	Dyslipidaemia

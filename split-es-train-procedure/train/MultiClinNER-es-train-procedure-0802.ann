@@ -1,0 +1,15 @@
+T40	PROCEDURE 520 533	examen físico
+T41	PROCEDURE 1079 1091	hemocultivos
+T42	PROCEDURE 1394 1414	radiografía de tórax
+T43	PROCEDURE 1436 1455	tomografía de tórax
+T44	PROCEDURE 1636 1666	ecocardiografía transesofágica
+T45	PROCEDURE 1843 1855	hemocultivos
+T46	PROCEDURE 2403 2418	ecocardiografía
+T47	PROCEDURE 2495 2507	hemocultivos
+T48	PROCEDURE 2879 2908	implante de válvula biológica
+T49	PROCEDURE 3064 3092	controles de anticoagulación
+T50	PROCEDURE 3108 3120	hemocultivos
+T51	PROCEDURE 3164 3182	antibioticoterapia
+T52	PROCEDURE 3225 3248	tratamiento antibiótico
+T61	PROCEDURE 2007 2073	identificación fenotípica de especie en equipo automatizado VITEK2
+T62	PROCEDURE 2759 2814	cirugía para cambio valvular mitral (válvula biológica)

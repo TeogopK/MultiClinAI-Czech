@@ -1,0 +1,29 @@
+T67	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T90	PROCEDURE 555 564	Ventimask
+T69	PROCEDURE 593 596	ECG
+T68	PROCEDURE 655 675	physical examination
+T73	PROCEDURE 718 742	respiratory auscultation
+T70	PROCEDURE 891 894	ECG
+T71	PROCEDURE 993 996	ECG
+T4	PROCEDURE 1097 1100	ABG
+T5	PROCEDURE 1249 1260	blood tests
+T6	PROCEDURE 1380 1391	Blood tests
+T74	PROCEDURE 1519 1534	thyroid profile
+T75	PROCEDURE 1555 1566	Chest X-ray
+T76	PROCEDURE 1616 1646	Transthoracic echocardiography
+T7	PROCEDURE 2359 2385	Cardiac magnetic resonance
+T78	PROCEDURE 2646 2661	Catheterisation
+T89	PROCEDURE 2842 2872	intravenous diuretic treatment
+T79	PROCEDURE 2874 2909	non-invasive mechanical ventilation
+T80	PROCEDURE 2911 2931	antibiotic treatment
+T81	PROCEDURE 2933 2948	bronchodilators
+T8	PROCEDURE 2953 2975	intravenous corticoids
+T82	PROCEDURE 3055 3089	withdrawal of ventilatory support.
+T83	PROCEDURE 3147 3166	ventilatory support
+T72	PROCEDURE 3171 3174	ECG
+T85	PROCEDURE 3292 3306	echocardiogram
+T10	PROCEDURE 3475 3502	double antiplatelet therapy
+T87	PROCEDURE 3507 3522	anticoagulation
+T86	PROCEDURE 3744 3758	echocardiogram
+T88	PROCEDURE 3829 3849	coronary angiography
+T77	PROCEDURE 3968 4002	cardiac magnetic resonance imaging

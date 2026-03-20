@@ -1,0 +1,6 @@
+T1	SYMPTOM 55 67	dolor lumbar
+T2	SYMPTOM 70 76	fiebre
+T3	SYMPTOM 105 198	urocultivos, hemocultivos, y estudio de marcadores tumorales (pruebas que resultan negativas)
+T4	SYMPTOM 2467 2474	fallece
+A1	RESULTADO T3
+A2	EXITUS T4

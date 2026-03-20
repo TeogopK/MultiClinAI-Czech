@@ -1,0 +1,20 @@
+T16	PROCEDURE 197 226	Gestation correctly monitored
+T1	PROCEDURE 252 265	Eutocic birth
+T20	PROCEDURE 745 754	palpation
+T5	PROCEDURE 756 767	Vaccination
+T10	PROCEDURE 990 1006	support measures
+T21	PROCEDURE 1011 1029	antibiotic therapy
+T22	PROCEDURE 1074 1104	Reno-pelvic-scrotal ultrasound
+T11	PROCEDURE 1345 1355	uroculture
+T23	PROCEDURE 1372 1403	serial voiding cystourethrogram
+T24	PROCEDURE 1559 1586	Whole body bone radiographs
+T14	PROCEDURE 1658 1702	fulguration of the posterior urethral valves
+T4	PROCEDURE 1707 1734	right inguinal orchidectomy
+T12	PROCEDURE 1905 1915	uroculture
+T13	PROCEDURE 2075 2086	urocultures
+T2	PROCEDURE 2134 2148	antibiotherapy
+T6	PROCEDURE 2169 2191	antibiotic prophylaxis
+T9	PROCEDURE 2279 2299	endovenous urography
+T3	PROCEDURE 2304 2332	renal cintilogram with MAG-3
+T8	PROCEDURE 2579 2594	furosemide test
+T36	PROCEDURE 2845 2862	urinary sediments

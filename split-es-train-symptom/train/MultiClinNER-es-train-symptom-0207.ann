@@ -1,0 +1,14 @@
+T1	SYMPTOM 815 844	mechón de pelo blanco frontal
+T2	SYMPTOM 851 907	mácula acrómica de forma triangular en la región frontal
+T3	SYMPTOM 719 731	asintomática
+T4	SYMPTOM 736 776	ritmo intestinal y diuresis son normales
+T5	SYMPTOM 551 603	manchas acrómicas en el tercio medio de ambos muslos
+T6	SYMPTOM 1343 1394	potenciales evocados auditivos, que fueron normales
+T7	SYMPTOM 1508 1563	estudio analítico (hemograma y química), que fue normal
+T8	SYMPTOM 415 449	Otoemisiones correctas bilaterales
+T9	SYMPTOM 1453 1474	riñón derecho pélvico
+T11	SYMPTOM 528 532	sano
+A1	RESULTADO T6
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	IMAGEN T9

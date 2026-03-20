@@ -1,0 +1,61 @@
+T1	SYMPTOM 456 488	función biventricular conservada
+T2	SYMPTOM 865 881	malestar general
+T3	SYMPTOM 883 889	fiebre
+T4	SYMPTOM 894 902	tiritona
+T5	SYMPTOM 905 932	disnea de mínimos esfuerzos
+T6	SYMPTOM 959 962	Tos
+T7	SYMPTOM 967 980	expectoración
+T8	SYMPTOM 1045 1059	dolor torácico
+T9	SYMPTOM 1298 1348	función sistólica global y segmentaria conservadas
+T10	SYMPTOM 1888 1896	Sudoroso
+T11	SYMPTOM 1898 1913	bien perfundido
+T12	SYMPTOM 1915 1923	eupneico
+T13	SYMPTOM 1925 1951	Leve ingurgitación yugular
+T14	SYMPTOM 1976 1983	rítmico
+T15	SYMPTOM 1985 2008	soplo sistólico aórtico
+T16	SYMPTOM 2016 2033	ruidos protésicos
+T17	SYMPTOM 2066 2086	crepitantes en bases
+T18	SYMPTOM 2088 2102	Abdomen normal
+T19	SYMPTOM 2108 2141	edemas en extremidades inferiores
+T20	SYMPTOM 2207 2220	ritmo sinusal
+T21	SYMPTOM 2871 2884	ritmo sinusal
+T22	SYMPTOM 2941 2990	Elevación del ST en cara inferior (II,III, y aVF)
+T23	SYMPTOM 2993 3017	descenso del ST en I-aVL
+T24	SYMPTOM 3057 3089	ventrículo izquierdo no dilatado
+T26	SYMPTOM 3427 3453	rigidez del velo posterior
+T31	SYMPTOM 5020 5026	fiebre
+T32	SYMPTOM 5043 5051	tiritona
+T33	SYMPTOM 5286 5292	fiebre
+T34	SYMPTOM 5329 5335	fiebre
+T35	SYMPTOM 5358 5390	empeoramiento del estado general
+T36	SYMPTOM 5448 5459	hipotensión
+T37	SYMPTOM 5496 5507	bradicardia
+T38	SYMPTOM 5524 5530	disnea
+T39	SYMPTOM 5558 5587	crecimiento de S. epidermidis
+T40	SYMPTOM 5834 5877	elevación del ST en derivaciones inferiores
+T41	SYMPTOM 5957 5976	molestia precordial
+T42	SYMPTOM 6001 6007	disnea
+T43	SYMPTOM 6318 6324	disnea
+T44	SYMPTOM 6344 6370	inestabilidad hemodinámica
+T45	SYMPTOM 6372 6383	hipotensión
+T46	SYMPTOM 6522 6528	disnea
+T48	SYMPTOM 6759 6772	inestabilidad
+T49	SYMPTOM 6788 6799	bradicardia
+T51	SYMPTOM 7849 7856	fallece
+T52	SYMPTOM 8136 8161	elevación del ST inferior
+T180	SYMPTOM 6104 6149	alteraciones de la contractilidad segmentaria
+T80	SYMPTOM 1350 1383	prótesis aórtica normofuncionante
+T181	SYMPTOM 1454 1481	cavidades derechas normales
+T182	SYMPTOM 3140 3151	Hipocinesia
+T25	SYMPTOM 3686 3739	Ventrículo derecho ligeramente dilatado, hipocinético
+T27	SYMPTOM 3919 3945	Acinesia inferior y apical
+T28	SYMPTOM 4465 4490	engrosamiento periaórtico
+T29	SYMPTOM 4844 4895	FEVI global está en el límite bajo de la normalidad
+T30	SYMPTOM 4900 4959	hipociesia de la cara inferior, posterior y septo posterior
+T183	SYMPTOM 5882 5913	descenso del ST en cara lateral
+T47	SYMPTOM 8410 8416	Muerte
+T177	SYMPTOM 3415 3422	tenting
+T186	SYMPTOM 3455 3505	Prótesis mecánica aórtica con imágenes excrecentes
+T188	SYMPTOM 4002 4022	dominancia izquierda
+T190	SYMPTOM 4800 4807	tenting
+T191	SYMPTOM 4520 4552	imagen móvil en aurícula derecha

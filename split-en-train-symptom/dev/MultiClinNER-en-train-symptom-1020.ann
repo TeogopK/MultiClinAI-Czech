@@ -1,0 +1,80 @@
+T58	SYMPTOM 309 341	oppressive central thoracic pain
+T1	SYMPTOM 376 393	vegetative cortex
+T2	SYMPTOM 495 505	orthopnoea
+T3	SYMPTOM 507 536	paroxysmal nocturnal dyspnoea
+T36	SYMPTOM 528 536	dyspnoea
+T4	SYMPTOM 538 550	palpitations
+T37	SYMPTOM 552 560	dyspnoea
+T6	SYMPTOM 552 577	dyspnoea at rest/exertion
+T60	SYMPTOM 579 595	malleolar oedema
+T59	SYMPTOM 599 615	reduced diuresis
+T61	SYMPTOM 873 885	normotensive
+T7	SYMPTOM 971 979	Afebrile
+T9	SYMPTOM 981 990	Conscious
+T10	SYMPTOM 995 1003	oriented
+T11	SYMPTOM 1005 1027	good general condition
+T12	SYMPTOM 1029 1044	eupneic at rest
+T13	SYMPTOM 1046 1059	normohydrated
+T62	SYMPTOM 1061 1075	normo-coloured
+T63	SYMPTOM 1080 1093	normoperfused
+T64	SYMPTOM 1095 1139	Carotid pulses were rhythmic and symmetrical
+T14	SYMPTOM 1162 1183	jugular ingurgitation
+T15	SYMPTOM 1185 1226	Cardiopulmonary auscultation was rhythmic
+T16	SYMPTOM 1239 1246	murmurs
+T65	SYMPTOM 1254 1305	ubcrepitant rales from middle and lower lung fields
+T66	SYMPTOM 1340 1410	soft and depressible abdomen, no pain on superficial or deep palpation
+T17	SYMPTOM 1415 1421	masses
+T67	SYMPTOM 1425 1434	megaliths
+T18	SYMPTOM 1436 1457	generalised tympanism
+T19	SYMPTOM 1462 1472	peritonism
+T68	SYMPTOM 1477 1505	positive hydro-aerial sounds
+T69	SYMPTOM 1539 1555	malleolar oedema
+T70	SYMPTOM 1557 1620	pedial and posterior tibial pulses were present and symmetrical
+T20	SYMPTOM 1691 1700	skin rash
+T71	SYMPTOM 2005 2026	normal renal function
+T21	SYMPTOM 2028 2039	normal ions
+T22	SYMPTOM 2044 2062	normal coagulation
+T72	SYMPTOM 2104 2134	preserved cardiothoracic index
+T54	SYMPTOM 2136 2159	vascular redistribution
+T73	SYMPTOM 2165 2202	bilateral bronchovascular enhancement
+T74	SYMPTOM 2207 2252	bilateral and diffuse interstitial infiltrate
+T23	SYMPTOM 2273 2285	sinus rhythm
+T24	SYMPTOM 2310 2320	narrow QRS
+T41	SYMPTOM 2339 2382	ST-segment elevation in II, III, AVF, V3-V6
+T52	SYMPTOM 2415 2430	right dominance
+T55	SYMPTOM 2432 2502	Right coronary artery of good calibre and development, without lesions
+T48	SYMPTOM 2655 2733	Circumflex artery of intermediate calibre and good development, without lesion
+T75	SYMPTOM 2766 2814	left ventricle neither dilated nor hypertrophied
+T25	SYMPTOM 2821 2836	apical akinesia
+T27	SYMPTOM 2838 2910	diastolic pattern of impaired relaxation and preserved systolic function
+T29	SYMPTOM 2942 2978	Right and left atrium of normal size
+T33	SYMPTOM 2980 3060	Right ventricle neither dilated nor hypertrophied, with normal systolic function
+T56	SYMPTOM 3077 3110	Mitral valve of normal morphology
+T76	SYMPTOM 3389 3427	Morphologically normal tricuspid valve
+T42	SYMPTOM 3623 3673	Pericardium of normal thickness and refractoriness
+T44	SYMPTOM 3697 3727	non-dilated inferior vena cava
+T46	SYMPTOM 3794 3822	apical anteroseptal akinesia
+T31	SYMPTOM 4439 4486	anterior-apical and inferior-apical hypokinesia
+T77	SYMPTOM 4825 4873	non-dilated and non-hypertrophied left ventricle
+T32	SYMPTOM 4879 4899	septoapical akinesia
+T28	SYMPTOM 4901 4941	diastolic pattern of impaired relaxation
+T57	SYMPTOM 4946 4973	preserved systolic function
+T30	SYMPTOM 5005 5041	Right and left atrium of normal size
+T78	SYMPTOM 5043 5092	Right ventricle neither dilated nor hypertrophied
+T34	SYMPTOM 5099 5123	normal systolic function
+T79	SYMPTOM 5141 5174	Mitral valve of normal morphology
+T80	SYMPTOM 5430 5468	Morphologically normal tricuspid valve
+T43	SYMPTOM 5602 5652	Pericardium of normal thickness and refractoriness
+T45	SYMPTOM 5676 5706	non-dilated inferior vena cava
+T51	SYMPTOM 5786 5808	cardiologically stable
+T35	SYMPTOM 5857 5868	hypotension
+T8	SYMPTOM 5873 5881	afebrile
+T5	SYMPTOM 5950 5962	palpitations
+T38	SYMPTOM 5966 5974	dyspnoea
+T53	SYMPTOM 5986 6021	clinical and haemodynamic stability
+T47	SYMPTOM 6431 6459	apical anteroseptal akinesia
+T50	SYMPTOM 6921 6933	asymptomatic
+T39	SYMPTOM 6943 6981	alterations in segmental contractility
+T49	SYMPTOM 7020 7040	ST-segment elevation
+T26	SYMPTOM 7204 7219	Apical akinesia
+T40	SYMPTOM 7221 7235	Preserved LVEF

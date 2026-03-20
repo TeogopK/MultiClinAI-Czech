@@ -1,0 +1,22 @@
+T1	PROCEDURE 838 853	sondaje vesical
+T2	PROCEDURE 870 873	ECG
+T3	PROCEDURE 878 880	CK
+T4	PROCEDURE 886 897	TAC craneal
+T5	PROCEDURE 923 960	radiografía simple de abdomen y tórax
+T6	PROCEDURE 973 987	punción lumbar
+T7	PROCEDURE 1160 1171	antipiresis
+T8	PROCEDURE 1285 1299	punción lumbar
+T9	PROCEDURE 1301 1313	RM de cráneo
+T10	PROCEDURE 1315 1346	TAC torácico y abdómino-pélvico
+T11	PROCEDURE 1348 1360	hemocultivos
+T12	PROCEDURE 1363 1374	urocultivos
+T13	PROCEDURE 1819 1851	colocación de sonda nasogástrica
+T14	PROCEDURE 1895 1921	valoración por Psiquiatría
+T15	PROCEDURE 1933 1958	terapia electroconvulsiva
+T16	PROCEDURE 1960 1963	TEC
+T17	PROCEDURE 2196 2199	TEC
+T18	PROCEDURE 2330 2362	cultivo para Virus Herpes Simple
+T19	PROCEDURE 1173 1206	antibioterapia de amplio espectro
+T20	PROCEDURE 1209 1239	profilaxis de trombosis venosa
+T21	PROCEDURE 973 1008	punción lumbar con recuento celular
+T22	PROCEDURE 1833 1866	sonda nasogástrica para nutrición

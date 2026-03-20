@@ -1,0 +1,38 @@
+T53	DISEASE 84 90	smoker
+T60	DISEASE 119 124	obese
+T51	DISEASE 129 145	moderate drinker
+T23	DISEASE 155 157	DM
+T55	DISEASE 483 490	syncope
+T52	DISEASE 955 972	Myocardial damage
+T24	DISEASE 1134 1147	heart failure
+T27	DISEASE 1160 1179	atrial fibrillation
+T57	DISEASE 1478 1514	MV with good opening and mild reflux
+T58	DISEASE 1537 1554	Dilated vena cava
+T30	DISEASE 1581 1601	pericardial effusion
+T31	DISEASE 1603 1637	Moderate biventricular dysfunction
+T56	DISEASE 1643 1679	slightly dilated and hypertrophic vi
+T54	DISEASE 1758 1774	coronary lesions
+T25	DISEASE 1846 1859	heart failure
+T28	DISEASE 1881 1900	atrial fibrillation
+T33	DISEASE 1902 1951	Dilatation and moderate biventricular dysfunction
+T32	DISEASE 1917 1951	moderate biventricular dysfunction
+T34	DISEASE 2071 2090	tachycardiomyopathy
+T36	DISEASE 2094 2124	alcohol-induced cardiomyopathy
+T37	DISEASE 2211 2223	sleep apnoea
+T38	DISEASE 2351 2363	sleep apnoea
+T40	DISEASE 2351 2382	sleep apnoea-hypopnoea syndrome
+T47	DISEASE 2384 2388	SAOS
+T42	DISEASE 2468 2472	COPD
+T44	DISEASE 2485 2497	severe OSAHS
+T46	DISEASE 3312 3335	ventricular dysfunction
+T45	DISEASE 3421 3433	severe OSAHS
+T26	DISEASE 3470 3483	heart failure
+T29	DISEASE 3485 3504	Atrial fibrillation
+T59	DISEASE 3542 3575	moderate biventricular isfunction
+T35	DISEASE 3577 3596	Tachycardiomyopathy
+T39	DISEASE 3605 3617	sleep apnoea
+T41	DISEASE 3605 3636	sleep apnoea-hypopnoea syndrome
+T48	DISEASE 3638 3642	SAOS
+T43	DISEASE 3645 3649	COPD
+T49	DISEASE 3664 3671	Smoking
+T50	DISEASE 3673 3680	Obesity

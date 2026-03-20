@@ -1,0 +1,20 @@
+T44	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T37	PROCEDURE 636 656	coronary angiography
+T39	PROCEDURE 885 899	Echocardiogram
+T41	PROCEDURE 1314 1336	antidiabetic treatment
+T42	PROCEDURE 1361 1383	cardiac rehabilitation
+T45	PROCEDURE 1396 1416	Physical examination
+T46	PROCEDURE 1546 1566	Cardiac auscultation
+T47	PROCEDURE 1614 1616	AP
+T48	PROCEDURE 1747 1773	Anthropometric examination
+T49	PROCEDURE 1961 1972	coagulation
+T50	PROCEDURE 2022 2041	Lipoprotein profile
+T51	PROCEDURE 2141 2158	Electrocardiogram
+T52	PROCEDURE 2212 2223	Chest X-ray
+T40	PROCEDURE 2293 2307	Echocardiogram
+T53	PROCEDURE 2690 2705	Catheterisation
+T43	PROCEDURE 3391 3413	cardiac rehabilitation
+T54	PROCEDURE 3461 3478	physical training
+T56	PROCEDURE 3668 3686	diabetic treatment
+T55	PROCEDURE 4071 4086	insulin therapy
+T38	PROCEDURE 4367 4400	1 drug-eluting stent implantation

@@ -1,0 +1,49 @@
+T28	DISEASE 89 112	alergias medicamentosas
+T29	DISEASE 130 148	consumo de tóxicos
+T30	DISEASE 179 191	cólico renal
+T31	DISEASE 222 251	ectasia a nivel pielocalicial
+T32	DISEASE 341 362	hipertensión arterial
+T33	DISEASE 364 367	HTA
+T34	DISEASE 371 381	dislipemia
+T35	DISEASE 412 421	Exfumador
+T36	DISEASE 469 486	diabetes mellitus
+T37	DISEASE 488 527	Bloqueo de rama izquierda de haz de His
+T38	DISEASE 529 534	BRIHH
+T39	DISEASE 546 572	Síndrome coronario crónico
+T40	DISEASE 596 599	IAM
+T41	DISEASE 756 772	angina inestable
+T42	DISEASE 1104 1125	estenosis grave en TC
+T43	DISEASE 1228 1284	miocardiopatía dilatada con disfunción ventricular grave
+T44	DISEASE 1300 1347	insuficiencia mitral moderada-grave por tenting
+T45	DISEASE 1350 1376	hipertensión pulmonar leve
+T46	DISEASE 1431 1497	ventrículo izquierdo (VI) gravemente dilatado con disfunción grave
+T48	DISEASE 1875 1895	insuficiencia mitral
+T49	DISEASE 2106 2128	insuficiencia cardiaca
+T50	DISEASE 2227 2232	angor
+T51	DISEASE 2704 2709	angor
+T52	DISEASE 2849 2860	infecciones
+T53	DISEASE 3298 3334	insuficiencia cardiaca descompensada
+T54	DISEASE 4125 4185	miocardiopatía dilatada isquémica con VI gravemente dilatado
+T55	DISEASE 4187 4195	HVI leve
+T56	DISEASE 4249 4292	Insuficiencia mitral (IM) grave por tenting
+T57	DISEASE 4338 4343	BRIHH
+T58	DISEASE 4345 4384	Insuficiencia tricuspídea (IT) moderada
+T59	DISEASE 4410 4445	hipertensión pulmonar (HP) moderada
+T60	DISEASE 4433 4435	HP
+T61	DISEASE 5509 5519	ferropenia
+T62	DISEASE 5525 5536	anemización
+T63	DISEASE 5578 5600	insuficiencia cardiaca
+T64	DISEASE 6051 6073	insuficiencia cardiaca
+T65	DISEASE 6194 6215	descompensación de IC
+T66	DISEASE 6302 6336	insuficiencia mitral leve-moderada
+T67	DISEASE 6454 6472	anemia microcítica
+T68	DISEASE 6618 6640	insuficiencia cardiaca
+T69	DISEASE 6669 6680	anemización
+T70	DISEASE 7096 7140	Insuficiencia cardiaca crónica descompensada
+T71	DISEASE 7172 7205	Miocardiopatía dilatada isquémica
+T72	DISEASE 7207 7275	Síndrome coronario crónico con enfermedad arterial coronaria trivaso
+T73	DISEASE 7337 7377	Anemia microcítica de perfil ferropénico
+T122	DISEASE 4372 4374	IT
+T141	DISEASE 5438 5465	asincronía interventricular
+T92	DISEASE 3533 3538	BRIHH
+#1	AnnotatorNotes T40	 Infarto agudo de miocardio

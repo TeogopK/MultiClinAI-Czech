@@ -1,0 +1,58 @@
+T1	SYMPTOM 455 463	diarreas
+T2	SYMPTOM 837 867	tumefacción de rodilla derecha
+T3	SYMPTOM 1119 1125	disnea
+T6	SYMPTOM 1144 1157	palpitaciones
+T7	SYMPTOM 1160 1178	clínica congestiva
+T9	SYMPTOM 1223 1232	orientado
+T12	SYMPTOM 1272 1290	Eupneico en reposo
+T13	SYMPTOM 1313 1334	ingurgitación yugular
+T14	SYMPTOM 1362 1389	Orofaringe sin alteraciones
+T15	SYMPTOM 1391 1421	Auscultación cardiaca: rítmico
+T16	SYMPTOM 1427 1433	soplos
+T17	SYMPTOM 1437 1447	extratonos
+T18	SYMPTOM 1472 1501	murmullo vesicular conservado
+T21	SYMPTOM 1573 1578	masas
+T22	SYMPTOM 1582 1590	megalias
+T23	SYMPTOM 1606 1627	irritación peritoneal
+T24	SYMPTOM 1629 1659	Ruidos hidroaéreos conservados
+T25	SYMPTOM 1665 1671	edemas
+T26	SYMPTOM 1762 1791	tumefacción de ambas rodillas
+T27	SYMPTOM 1797 1812	eritema cutáneo
+T29	SYMPTOM 1846 1874	Dolor leve a la movilización
+T30	SYMPTOM 1988 2001	ritmo sinusal
+T31	SYMPTOM 2027 2036	PR normal
+T32	SYMPTOM 2038 2050	QRS estrecho
+T33	SYMPTOM 2197 2207	QTc normal
+T34	SYMPTOM 3003 3016	ritmo sinusal
+T35	SYMPTOM 3042 3051	PR normal
+T36	SYMPTOM 3053 3065	QRS estrecho
+T37	SYMPTOM 3067 3084	Ondas T negativas
+T38	SYMPTOM 3121 3131	QTc normal
+T39	SYMPTOM 3186 3199	ritmo sinusal
+T40	SYMPTOM 3225 3234	PR normal
+T41	SYMPTOM 3236 3248	QRS estrecho
+T42	SYMPTOM 3254 3294	alteraciones agudas de la repolarización
+T43	SYMPTOM 3296 3306	QTc normal
+T45	SYMPTOM 3369 3384	FEVI conservada
+T46	SYMPTOM 3572 3580	gonalgia
+T47	SYMPTOM 3936 3987	asintomático desde el punto de vista cardiovascular
+T48	SYMPTOM 4505 4520	FEVI conservada
+T49	SYMPTOM 4691 4742	asintomático desde el punto de vista cardiovascular
+T50	SYMPTOM 4908 4923	FEVI conservada
+T51	SYMPTOM 5241 5247	fiebre
+T107	SYMPTOM 1503 1558	Abdomen: blando, depresible, no doloroso a la palpación
+T8	SYMPTOM 3500 3548	Test genético para síndrome de Brugada: negativo
+T11	SYMPTOM 4568 4639	estudio genético de p canalopatías/miocardiopatías que resultó negativo
+T19	SYMPTOM 5473 5488	FEVI conservada
+T121	SYMPTOM 3818 3838	alteraciones iónicas
+T122	SYMPTOM 4138 4158	alteraciones iónicas
+T126	SYMPTOM 1816 1844	aumento de temperatura local
+T129	SYMPTOM 1210 1220	consciente
+T4	SYMPTOM 1234 1270	Bien perfundido, hidratado y nutrido
+T10	SYMPTOM 930 953	semiología inflamatoria
+T20	SYMPTOM 2052 2117	Ascenso del segmento ST de 2mm en V1-V2 con morfología rectilínea
+T28	SYMPTOM 2168 2195	onda T negativa y simétrica
+T113	SYMPTOM 3477 3491	patrón Brugada
+T114	SYMPTOM 4095 4122	fenocopia de patrón Brugada
+T115	SYMPTOM 4312 4326	patrón Brugada
+T116	SYMPTOM 5017 5044	fenocopia de patrón Brugada

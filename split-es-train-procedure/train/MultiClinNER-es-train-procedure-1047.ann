@@ -1,0 +1,33 @@
+T64	PROCEDURE 313 356	hipotiroidismo bajo tratamiento sustitutivo
+T65	PROCEDURE 387 397	histología
+T66	PROCEDURE 586 614	biopsia de ganglio centinela
+T67	PROCEDURE 975 1016	tratamiento con análogos de somatostatina
+T68	PROCEDURE 1588 1606	Exploración física
+T69	PROCEDURE 1748 1762	pulsioximetría
+T70	PROCEDURE 1780 1801	Auscultación pulmonar
+T71	PROCEDURE 1835 1856	Auscultación cardiaca
+T72	PROCEDURE 2017 2038	Exploración abdominal
+T73	PROCEDURE 2119 2146	Exploración de extremidades
+T74	PROCEDURE 2311 2329	Electrocardiograma
+T75	PROCEDURE 2562 2582	Radiografía torácica
+T76	PROCEDURE 2851 2860	Hemograma
+T77	PROCEDURE 2862 2873	coagulación
+T78	PROCEDURE 2875 2902	parámetros de función renal
+T79	PROCEDURE 2914 2923	ionograma
+T80	PROCEDURE 2990 3014	perfil hormonal tiroideo
+T81	PROCEDURE 3023 3037	Perfil férrico
+T82	PROCEDURE 3239 3267	Ecocardiograma transtorácico
+T83	PROCEDURE 4929 4997	Estudio gammagráfico de cuerpo entero de receptores de somatostatina
+T84	PROCEDURE 5391 5411	estudio gammagráfico
+T85	PROCEDURE 5546 5597	estudio gammagráfico de receptores de somatostatina
+T86	PROCEDURE 5754 5792	estudio ecocardiográfico transtorácico
+T87	PROCEDURE 5916 5953	tratamiento deplectivo con diuréticos
+T88	PROCEDURE 5976 6017	tratamiento con análogos de somatostatina
+T92	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T93	PROCEDURE 2059 2060	l
+T29	PROCEDURE 6392 6420	análogos de la somatostatina
+T109	PROCEDURE 2737 2746	Analítica
+T110	PROCEDURE 2949 2958	Analítica
+T120	PROCEDURE 1036 1049	biomarcadores
+T122	PROCEDURE 555 562	cirugía
+T125	PROCEDURE 936 954	estudios de imagen

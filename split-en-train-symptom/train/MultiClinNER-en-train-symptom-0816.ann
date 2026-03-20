@@ -1,0 +1,54 @@
+T1	SYMPTOM 80 90	chest pain
+T40	SYMPTOM 95 132	elevated markers of myocardial damage
+T30	SYMPTOM 464 522	Asymptomatic patient from the cardiovascular point of view
+T2	SYMPTOM 575 630	oppressive central thoracic pain radiating to both jaws
+T3	SYMPTOM 683 700	vegetative cortex
+T4	SYMPTOM 794 816	non-specific dizziness
+T41	SYMPTOM 832 852	dystrophic sensation
+T5	SYMPTOM 875 880	fever
+T6	SYMPTOM 885 897	palpitations
+T7	SYMPTOM 899 907	dyspnoea
+T42	SYMPTOM 911 928	syncopal symptoms
+T43	SYMPTOM 950 969	infectious symptoms
+T8	SYMPTOM 993 1001	Afebrile
+T9	SYMPTOM 1101 1110	Conscious
+T10	SYMPTOM 1112 1120	oriented
+T11	SYMPTOM 1138 1164	Well hydrated and perfused
+T12	SYMPTOM 1166 1188	Good general condition
+T13	SYMPTOM 1190 1205	Eupneic at rest
+T14	SYMPTOM 1264 1294	Cardiac auscultation: rhythmic
+T15	SYMPTOM 1303 1310	murmurs
+T44	SYMPTOM 1314 1321	rubbing
+T45	SYMPTOM 1347 1365	respiratory sounds
+T46	SYMPTOM 1405 1447	Abdomen: soft, depressible and non-painful
+T16	SYMPTOM 1452 1458	masses
+T47	SYMPTOM 1462 1471	megaliths
+T17	SYMPTOM 1482 1501	Peristalsis present
+T18	SYMPTOM 1503 1531	Lower extremities: no oedema
+T19	SYMPTOM 1533 1570	Distal pulses present and symmetrical
+T20	SYMPTOM 1641 1650	Normal PR
+T21	SYMPTOM 1652 1662	Narrow QRS
+T37	SYMPTOM 1664 1712	Q wave at the limit of pathological significance
+T25	SYMPTOM 1717 1757	ST elevation 0.5 mm in the inferior face
+T48	SYMPTOM 2112 2140	normal cardio-thoracic index
+T36	SYMPTOM 2208 2234	non-dilated left ventricle
+T32	SYMPTOM 2257 2295	alterations in segmental contractility
+T22	SYMPTOM 2297 2321	Normal systolic function
+T49	SYMPTOM 2441 2504	Right ventricle of normal size with preserved systolic function
+T35	SYMPTOM 2506 2552	Mitral valve of normal appearance and function
+T34	SYMPTOM 2554 2575	Trivalve aortic valve
+T50	SYMPTOM 2612 2676	Tricuspid valve of normal appearance, with minimal insufficiency
+T51	SYMPTOM 2678 2712	Normal functioning pulmonary valve
+T38	SYMPTOM 2714 2740	Aortic root of normal size
+T23	SYMPTOM 2795 2836	ventricles of preserved size and function
+T24	SYMPTOM 2838 2849	Hypokinesia
+T26	SYMPTOM 2851 2857	oedema
+T52	SYMPTOM 2862 2894	late intramyocardial enhancement
+T39	SYMPTOM 3121 3190	Coronary arteries without anatomical variants, with preserved patency
+T53	SYMPTOM 3381 3441	transthoracic echocardiogram was performed, which was normal
+T27	SYMPTOM 3744 3756	leukocytosis
+T28	SYMPTOM 3771 3783	eosinophilia
+T33	SYMPTOM 3972 4001	positive for IgM Toxocara spp
+T31	SYMPTOM 4314 4326	asymptomatic
+T54	SYMPTOM 4333 4375	normalisation of myocardial damage markers
+T29	SYMPTOM 4391 4403	eosinophilia

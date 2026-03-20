@@ -1,0 +1,31 @@
+T1	DISEASE 164 179	Allergic to ASA
+T40	DISEASE 196 205	urticaria
+T22	DISEASE 210 220	angioedema
+T35	DISEASE 223 229	Smoker
+T37	DISEASE 278 290	toxic habits
+T23	DISEASE 292 309	Viral myocarditis
+T3	DISEASE 425 433	rapid AF
+T4	DISEASE 438 440	HF
+T6	DISEASE 1087 1097	Arrhythmic
+T7	DISEASE 1246 1267	liver or splenomegaly
+T24	DISEASE 1325 1328	DVT
+T34	DISEASE 1484 1496	Cardiomegaly
+T8	DISEASE 1506 1519	aneurysmal LA
+T9	DISEASE 1724 1774	severely dilated LV, with increased wall thickness
+T25	DISEASE 2032 2059	Severe systolic dysfunction
+T11	DISEASE 2107 2120	Aneurysmal LA
+T12	DISEASE 2130 2180	Fibrotic and thickened mitral valve with severe MR
+T26	DISEASE 2395 2430	RV with moderate-severe dysfunction
+T2	DISEASE 2488 2495	Mild TR
+T27	DISEASE 2618 2638	pericardial effusion
+T14	DISEASE 2647 2732	LV severely dilated with severely depressed global and segmental systolic dysfunction
+T15	DISEASE 2988 3016	non-compacted cardiomyopathy
+T16	DISEASE 3232 3268	Severe dilatation of the left atrium
+T29	DISEASE 3270 3290	Mitral insufficiency
+T28	DISEASE 3324 3344	pericardial effusion
+T21	DISEASE 3346 3386	Non-dilated RV with moderate dysfunction
+T17	DISEASE 3512 3568	non-compaction cardiomyopathy with severe LV dysfunction
+T31	DISEASE 3876 3889	Heart Failure
+T36	DISEASE 4034 4113	Non-compaction cardiomyopathy with severe left ventricular systolic dysfunction
+T32	DISEASE 4116 4143	Severe mitral insufficiency
+T33	DISEASE 4146 4197	Atrial fibrillation with rapid ventricular response

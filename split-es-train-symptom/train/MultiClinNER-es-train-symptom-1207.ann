@@ -1,0 +1,40 @@
+T1	SYMPTOM 182 212	función ventricular preservada
+T3	SYMPTOM 978 991	palpitaciones
+T4	SYMPTOM 993 998	mareo
+T5	SYMPTOM 1000 1010	sudoración
+T6	SYMPTOM 1012 1019	nauseas
+T7	SYMPTOM 1988 2008	Buen aspecto general
+T8	SYMPTOM 2043 2051	sudorosa
+T9	SYMPTOM 2053 2073	Eupneica en decúbito
+T10	SYMPTOM 2079 2100	ingurgitación yugular
+T11	SYMPTOM 2102 2131	Auscultación cardiaca rítmica
+T12	SYMPTOM 2136 2142	soplos
+T13	SYMPTOM 2170 2199	murmullo vesicular conservado
+T14	SYMPTOM 2205 2225	ruidos sobreañadidos
+T15	SYMPTOM 2231 2260	edemas en miembros inferiores
+T16	SYMPTOM 2363 2376	ritmo sinusal
+T17	SYMPTOM 2390 2419	QRS estrecho normoposicionado
+T20	SYMPTOM 2509 2542	alteraciones de la repolarización
+T21	SYMPTOM 3369 3401	función biventricular preservada
+T22	SYMPTOM 3625 3681	ventrículo izquierdo no dilatado, con espesores normales
+T23	SYMPTOM 3853 3893	contracción segmentaria sin alteraciones
+T24	SYMPTOM 3895 3926	Función sistólica global normal
+T25	SYMPTOM 4750 4796	Ventrículo derecho no dilatado ni hipertrófico
+T26	SYMPTOM 4857 4881	Función sistólica normal
+T27	SYMPTOM 4911 4956	Aurícula izquierda y derecha de tamaño normal
+T28	SYMPTOM 4958 5005	Válvula mitral con velos finos, apertura normal
+T29	SYMPTOM 6156 6186	función ventricular preservada
+T30	SYMPTOM 6429 6469	Función ventricular sistólica preservada
+T38	SYMPTOM 283 299	elevación del ST
+T2	SYMPTOM 1682 1694	asintomática
+T18	SYMPTOM 3448 3506	Aquinesia de los segmentos medio y distal de cara inferior
+T19	SYMPTOM 3509 3578	hipoquinesia de los segmentos medio y distal de la cara inferolateral
+T35	SYMPTOM 3683 3742	Disquinesia focal del segmento mediodistal de cara inferior
+T57	SYMPTOM 3744 3798	Aquinesia del segmento distal inferior e inferolateral
+T65	SYMPTOM 4813 4855	alteraciones de la contracción segmentaria
+T97	SYMPTOM 5007 5053	Válvula aórtica trivalva, funcionalmente norma
+T98	SYMPTOM 5056 5081	Aorta sinusal no dilatada
+T101	SYMPTOM 2422 2457	adecuada progresión en precordiales
+T102	SYMPTOM 5100 5146	tronco coronario izquierdo corto, sin lesiones
+T103	SYMPTOM 5148 5211	Descendente anterior de buen desarrollo y calibre, sin lesiones
+T104	SYMPTOM 5213 5267	Circunfleja de buen desarrollo y calibre, sin lesiones

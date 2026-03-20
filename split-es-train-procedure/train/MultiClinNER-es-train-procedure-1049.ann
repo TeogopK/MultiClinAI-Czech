@@ -1,0 +1,30 @@
+T65	PROCEDURE 441 455	apendicectomía
+T66	PROCEDURE 457 472	colecistectomía
+T67	PROCEDURE 1027 1045	Exploración física
+T68	PROCEDURE 1653 1656	ECG
+T69	PROCEDURE 1747 1767	Radiografía de tórax
+T71	PROCEDURE 1919 1938	Gasometría arterial
+T72	PROCEDURE 2384 2416	Angio-TAC de arterias pulmonares
+T73	PROCEDURE 2898 2926	Ecocardiograma transtorácico
+T74	PROCEDURE 3400 3415	Coronariografía
+T75	PROCEDURE 4453 4468	coronariografía
+T76	PROCEDURE 4567 4607	oxigenoterapia con reservorio de oxígeno
+T77	PROCEDURE 4855 4914	pontaje aortocoronario con safena a coronaria derecha media
+T78	PROCEDURE 5177 5249	sustitución valvular mitral, implantando una prótesis biológica del no27
+T79	PROCEDURE 5429 5447	soporte inotrópico
+T80	PROCEDURE 5449 5500	colocación de balón de contrapulsación intraaórtico
+T81	PROCEDURE 6000 6021	rehabilitación física
+T92	PROCEDURE 1291 1293	AC
+T93	PROCEDURE 1364 1366	AP
+T96	PROCEDURE 2284 2295	Coagulación
+T97	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T98	PROCEDURE 1984 1994	Bioquímica
+T99	PROCEDURE 2170 2182	Hematimetría
+T100	PROCEDURE 4617 4638	diurético intravenoso
+T101	PROCEDURE 4641 4646	IECAs
+T102	PROCEDURE 4817 4842	circulación extracorpórea
+T124	PROCEDURE 1908 1917	Analítica
+T126	PROCEDURE 1243 1258	Cabeza y cuello
+T133	PROCEDURE 437 439	IQ
+T145	PROCEDURE 4087 4102	ecocardioscopia
+T152	PROCEDURE 4366 4389	intervención quirúrgica

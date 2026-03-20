@@ -1,0 +1,54 @@
+T87	PROCEDURE 519 552	rectosigmoidectomía laparoscópica
+T88	PROCEDURE 600 658	tratamiento quimioterápico con oxaliplatino y capecitabina
+T89	PROCEDURE 915 949	biopsia de adenopatía paratraqueal
+T90	PROCEDURE 1061 1103	quimioterapia (oxaliplatino y capecitabina
+T91	PROCEDURE 1311 1365	maniobras de reanimación cardiopulmonar (RCP) avanzada
+T92	PROCEDURE 1352 1355	RCP
+T93	PROCEDURE 1556 1578	intubación orotraqueal
+T94	PROCEDURE 1580 1583	IOT
+T95	PROCEDURE 1587 1607	ventilación mecánica
+T96	PROCEDURE 1908 1926	Exploración física
+T97	PROCEDURE 2070 2090	ventilación invasiva
+T98	PROCEDURE 2093 2096	IOT
+T99	PROCEDURE 2207 2210	IOT
+T100	PROCEDURE 2458 2470	laparoscopia
+T101	PROCEDURE 3180 3189	Hemograma
+T102	PROCEDURE 3393 3404	Coagulación
+T103	PROCEDURE 3711 3729	sedimento de orina
+T104	PROCEDURE 3740 3781	lectrocardiograma (ECG) de 3 derivaciones
+T105	PROCEDURE 3759 3762	ECG
+T106	PROCEDURE 3846 3868	ECG de 12 derivaciones
+T107	PROCEDURE 4195 4215	Radiografía de tórax
+T108	PROCEDURE 4519 4547	Ecocardiograma transtorácico
+T109	PROCEDURE 5111 5160	Tomografía computarizada (TC) arterias coronarias
+T110	PROCEDURE 5236 5265	Resonancia magnética cardiaca
+T111	PROCEDURE 5267 5270	RMC
+T112	PROCEDURE 6018 6075	Tomografía de emisión de positrones con 18F-desoxiglucosa
+T113	PROCEDURE 6077 6080	PET
+T114	PROCEDURE 6609 6617	intubado
+T115	PROCEDURE 6712 6720	extubado
+T116	PROCEDURE 6964 6974	telemetría
+T117	PROCEDURE 7352 7378	tratamiento quimioterápico
+T118	PROCEDURE 7388 7412	estudio ecocardiográfico
+T119	PROCEDURE 7425 7441	TC de coronarias
+T120	PROCEDURE 7478 7481	RMC
+T121	PROCEDURE 7670 7677	biopsia
+T122	PROCEDURE 7856 7859	RMC
+T123	PROCEDURE 7892 7920	tratamiento antiinflamatorio
+T124	PROCEDURE 7954 7960	PET-TC
+T125	PROCEDURE 8181 8209	tratamiento antiinflamatorio
+T126	PROCEDURE 8227 8295	implante de un desfibrilador automático implantable (DAI) subcutáneo
+T127	PROCEDURE 8724 8750	Implante de DAI subcutáneo
+T133	PROCEDURE 2710 2720	Bioquímica
+T134	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T135	PROCEDURE 3530 3546	Tóxicos en orina
+T136	PROCEDURE 452 469	estudio de anemia
+T137	PROCEDURE 2047 2053	sedado
+T138	PROCEDURE 2555 2564	palpación
+T155	PROCEDURE 2699 2708	Analítica
+T160	PROCEDURE 5594 5608	secuencia STIR
+T173	PROCEDURE 1938 1949	exploración
+T31	PROCEDURE 1451 1458	choques
+T34	PROCEDURE 2055 2063	relajado
+#1	AnnotatorNotes T92	 Reanimación cardiopulmonar
+#2	AnnotatorNotes T111	 Resonancia magnética cardíaca

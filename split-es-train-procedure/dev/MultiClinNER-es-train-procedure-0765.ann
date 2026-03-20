@@ -1,0 +1,42 @@
+T49	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T50	PROCEDURE 439 453	rehabilitación
+T51	PROCEDURE 613 625	hemodiálisis
+T52	PROCEDURE 1030 1048	Exploración física
+T53	PROCEDURE 1225 1246	Auscultación cardiaca
+T54	PROCEDURE 1318 1339	Auscultación pulmonar
+T55	PROCEDURE 1480 1489	hemograma
+T56	PROCEDURE 1770 1790	Marcadores cardiacos
+T57	PROCEDURE 1846 1857	Antigenuria
+T58	PROCEDURE 1948 1962	PCR SARS-CoV-2
+T59	PROCEDURE 1974 1994	Radiografía de tórax
+T60	PROCEDURE 2107 2110	ECG
+T61	PROCEDURE 2293 2315	proteinograma en suero
+T62	PROCEDURE 2762 2785	Perfil de autoinmunidad
+T63	PROCEDURE 2797 2813	Estudio en orina
+T64	PROCEDURE 2962 2990	Ecocardiograma transtorácico
+T65	PROCEDURE 3520 3549	Resonancia magnética cardiaca
+T66	PROCEDURE 3551 3554	RMC
+T67	PROCEDURE 4442 4485	Resonancia magnética nuclear (RMN) cerebral
+T68	PROCEDURE 4620 4657	Gammagrafía cardiaca con pirofosfatos
+T69	PROCEDURE 4690 4736	Biopsia de tejido celular subcutáneo abdominal
+T70	PROCEDURE 4784 4806	Biopsia de medula ósea
+T71	PROCEDURE 5164 5175	antibiótico
+T72	PROCEDURE 5365 5385	radiografía de tórax
+T73	PROCEDURE 5578 5592	ecocardiograma
+T74	PROCEDURE 5813 5834	tratamiento diurético
+T75	PROCEDURE 5839 5853	ecocardiograma
+T76	PROCEDURE 6051 6054	RMC
+T77	PROCEDURE 6200 6228	gammagrafía con pirofosfatos
+T78	PROCEDURE 6279 6292	proteinograma
+T79	PROCEDURE 6295 6327	inmunofijación en sangre y orina
+T80	PROCEDURE 6381 6430	biopsia de grasa abdominal con tinción rojo Congo
+T82	PROCEDURE 6482 6504	biopsia de médula ósea
+T83	PROCEDURE 6614 6641	biopsia de glándula salival
+T7	PROCEDURE 1594 1604	Bioquímica
+T121	PROCEDURE 4472 4475	RMN
+T122	PROCEDURE 1461 1470	Analítica
+T123	PROCEDURE 2253 2262	Analítica
+T126	PROCEDURE 1049 1067	Constantes vitales
+T138	PROCEDURE 5462 5471	analítica
+T147	PROCEDURE 3992 4005	contraste i.v
+T40	PROCEDURE 2699 2715	Inmunoglobulinas

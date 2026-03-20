@@ -1,0 +1,53 @@
+T2	SYMPTOM 904 921	opresión torácica
+T3	SYMPTOM 924 953	disnea de instauración brusca
+T4	SYMPTOM 979 1000	estridor inspiratorio
+T5	SYMPTOM 1163 1201	opresión precordial irradiada a cuello
+T6	SYMPTOM 1486 1491	dolor
+T7	SYMPTOM 1523 1528	dolor
+T8	SYMPTOM 1546 1580	supradesnivelación del segmento ST
+T9	SYMPTOM 1764 1769	dolor
+T10	SYMPTOM 1771 1796	hemodinámicamente estable
+T11	SYMPTOM 1879 1906	Bien perfundido e hidratado
+T12	SYMPTOM 1908 1916	Eupneico
+T13	SYMPTOM 1938 1959	ingurgitación yugular
+T14	SYMPTOM 1987 2017	Auscultación cardiaca: rítmico
+T15	SYMPTOM 2022 2028	soplos
+T16	SYMPTOM 2032 2042	extratonos
+T17	SYMPTOM 2067 2094	leve hipoventilación global
+T18	SYMPTOM 2097 2130	sibilantes espiratorios dispersos
+T19	SYMPTOM 2132 2159	Abdomen: blando, depresible
+T21	SYMPTOM 2189 2218	Puño-percusión renal negativa
+T22	SYMPTOM 2220 2254	Extremidades inferiores: no edemas
+T24	SYMPTOM 2273 2307	pulsos pedios palpables simétricos
+T25	SYMPTOM 2359 2364	dolor
+T26	SYMPTOM 2367 2380	ritmo sinusal
+T29	SYMPTOM 2484 2594	silueta cardiomediastínica, senos costofrénicos, campos pulmonares y esqueleto óseo estudiado sin alteraciones
+T30	SYMPTOM 3358 3371	ritmo sinusal
+T31	SYMPTOM 3407 3440	alteraciones de la repolarización
+T32	SYMPTOM 3480 3517	ventrículo izquierdo de tamaño normal
+T33	SYMPTOM 3582 3631	función sistólica ventricular izquierda es normal
+T34	SYMPTOM 3646 3706	movimiento de las paredes del ventrículo izquierdo es normal
+T35	SYMPTOM 3711 3768	ventrículo derecho es normal respecto al tamaño y función
+T36	SYMPTOM 3863 3911	válvula mitral es normal en estructura y función
+T37	SYMPTOM 3968 4005	Válvula tricúspide con aspecto normal
+T38	SYMPTOM 4065 4111	Válvula aórtica normal en estructura y función
+T39	SYMPTOM 4125 4146	ecocardiograma normal
+T40	SYMPTOM 4716 4736	clínica respiratoria
+T41	SYMPTOM 5016 5063	triptasas alteradas e inmunoglobulinas elevadas
+T42	SYMPTOM 5066 5077	eosinofilia
+T43	SYMPTOM 5628 5642	dolor torácico
+T45	SYMPTOM 5984 5995	hipotensión
+T23	SYMPTOM 3004 3022	complemento normal
+T27	SYMPTOM 3522 3577	pared del ventrículo izquierdo muestra un grosor normal
+T116	SYMPTOM 3773 3814	tamaño de la aurícula izquierda es normal
+T117	SYMPTOM 3819 3858	tamaño de la aurícula derecha es normal
+T109	SYMPTOM 5204 5270	Pruebas alérgicas positivas a factores ambientales, ácaros y polen
+T135	SYMPTOM 1692 1715	coronarias sin lesiones
+T137	SYMPTOM 1128 1147	cuadro respiratorio
+T138	SYMPTOM 2391 2401	eje normal
+T144	SYMPTOM 5391 5402	hipocinesia
+T120	SYMPTOM 4849 4885	coronariografía urgente sin lesiones
+T20	SYMPTOM 3139 3173	Cateterismo: tronco: sin estenosis
+T63	SYMPTOM 3190 3225	Descendente anterior: sin estenosis
+T64	SYMPTOM 3242 3268	Circunfleja: sin estenosis
+T119	SYMPTOM 3285 3313	Coronaria derecha: dominante

@@ -1,0 +1,35 @@
+T59	DISEASE 62 82	known drug allergies
+T60	DISEASE 120 133	dyslipidaemia
+T61	DISEASE 135 159	type 2 diabetes mellitus
+T62	DISEASE 161 182	arterial hypertension
+T63	DISEASE 170 182	hypertension
+T65	DISEASE 555 584	Moderate mitral regurgitation
+T67	DISEASE 591 611	aortic insufficiency
+T86	DISEASE 708 731	tricuspid insufficiency
+T71	DISEASE 895 899	COPD
+T72	DISEASE 902 928	Subclinical hypothyroidism
+T73	DISEASE 1444 1471	decompensated heart failure
+T75	DISEASE 2291 2307	moderate ascites
+T76	DISEASE 2603 2623	deep vein thrombosis
+T77	DISEASE 2625 2628	DVT
+T78	DISEASE 2691 2708	sinus bradycardia
+T79	DISEASE 2790 2826	intraventricular conduction disorder
+T80	DISEASE 2920 2954	complete right bundle branch block
+T81	DISEASE 3058 3084	bilateral pleural effusion
+T82	DISEASE 4281 4311	severe ventricular dysfunction
+T66	DISEASE 4389 4418	Moderate mitral insufficiency
+T68	DISEASE 4511 4531	aortic insufficiency
+T70	DISEASE 4612 4644	Moderate tricuspid regurgitation
+T84	DISEASE 4612 4671	Moderate tricuspid regurgitation, dilatation of the annulus
+T87	DISEASE 4621 4644	tricuspid regurgitation
+T85	DISEASE 4890 4921	mitral and aortic insufficiency
+T69	DISEASE 4901 4921	aortic insufficiency
+T91	DISEASE 5016 5046	Moderately dilated left atrium
+T88	DISEASE 5118 5141	Tricuspid insufficiency
+T74	DISEASE 5318 5345	decompensated heart failure
+T83	DISEASE 5521 5551	severe ventricular dysfunction
+T92	DISEASE 5564 5591	interventricular asynchrony
+T90	DISEASE 5596 5639	moderate mitral and tricuspid regurgitation
+T89	DISEASE 5616 5639	tricuspid regurgitation
+T64	DISEASE 6063 6099	Non-ischaemic dilated cardiomyopathy
+T93	DISEASE 6129 6156	Interventricular asynchrony

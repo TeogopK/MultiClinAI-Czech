@@ -1,0 +1,18 @@
+T16	PROCEDURE 664 701	somatic and neurological examinations
+T17	PROCEDURE 959 979	arterial blood gases
+T18	PROCEDURE 1036 1047	Chest X-ray
+T4	PROCEDURE 1192 1212	abdominal ultrasound
+T5	PROCEDURE 1217 1256	thoracic, abdominal and pelvic CT scans
+T20	PROCEDURE 1556 1584	transthoracic echocardiogram
+T6	PROCEDURE 1777 1799	mechanical ventilation
+T7	PROCEDURE 1863 1885	mechanical ventilation
+T8	PROCEDURE 2000 2018	cranial CT and MRI
+T9	PROCEDURE 2367 2411	FNA and biopsy of supraclavicular adenopathy
+T14	PROCEDURE 2586 2596	viral load
+T25	PROCEDURE 2677 2763	Microbiological studies on blood, urine, sputum, brocoaspirate and lymph node puncture
+T13	PROCEDURE 2816 2847	Staining of respiratory samples
+T10	PROCEDURE 2891 2946	Serologies for Toxoplasma, hepatotropic viruses and RPR
+T1	PROCEDURE 3245 3262	lymph node biopsy
+T12	PROCEDURE 3267 3281	tumour markers
+T11	PROCEDURE 3506 3528	tumour extension study
+T2	PROCEDURE 3539 3570	treatment with polychemotherapy

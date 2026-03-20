@@ -1,0 +1,17 @@
+T1	PROCEDURE 456 479	radioterapia de la mama
+T2	PROCEDURE 561 579	exploración física
+T3	PROCEDURE 934 975	hemograma bioquímica general y hemostasia
+T4	PROCEDURE 990 1010	marcadores tumorales
+T5	PROCEDURE 1152 1226	tomografía axial computarizada (TC) y resonancia magnética (RM) cerebrales
+T6	PROCEDURE 1528 1546	TC toracoabdominal
+T7	PROCEDURE 1548 1558	mamografía
+T8	PROCEDURE 1560 1570	RM de mama
+T9	PROCEDURE 1573 1589	gammagrafía ósea
+T10	PROCEDURE 1628 1664	tomografía con emisión de positrones
+T11	PROCEDURE 1666 1669	PET
+T12	PROCEDURE 1884 1895	laparotomía
+T13	PROCEDURE 1898 1905	biopsia
+T14	PROCEDURE 1355 1358	LCR
+T15	PROCEDURE 1910 1935	estudio anatomopatológico
+T16	PROCEDURE 1136 1147	neuroimagen
+T17	PROCEDURE 431 453	tratamiento quirúrgico

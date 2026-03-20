@@ -1,0 +1,43 @@
+T1	SYMPTOM 150 165	soplo sistólico
+T2	SYMPTOM 515 522	cansada
+T3	SYMPTOM 596 599	tos
+T4	SYMPTOM 605 615	sudoración
+T5	SYMPTOM 620 629	taquipnea
+T6	SYMPTOM 753 759	mareos
+T7	SYMPTOM 762 786	pérdidas de conocimiento
+T8	SYMPTOM 808 822	dolor torácico
+T9	SYMPTOM 937 961	aceptable estado general
+T10	SYMPTOM 963 997	Buena coloración de piel y mucosas
+T11	SYMPTOM 1139 1221	soplo sistólico piante III/VI de predominio en foco mitral con irradiación a axila
+T12	SYMPTOM 1227 1238	crepitantes
+T13	SYMPTOM 1297 1324	Abdomen blando y depresible
+T15	SYMPTOM 1347 1357	hepatalgia
+T16	SYMPTOM 1359 1439	Miembros inferiores con buena perfusión distal y pulsos conservados y simétricos
+T18	SYMPTOM 1510 1534	función renal conservada
+T19	SYMPTOM 1578 1610	Perfil hepático sin alteraciones
+T20	SYMPTOM 1612 1621	NT-proBNP
+T21	SYMPTOM 1642 1704	Hemograma anodino, con serie blanca, roja y plaquetas en rango
+T22	SYMPTOM 1755 1786	índice cardiotorácico aumentado
+T25	SYMPTOM 1879 1892	ritmo sinusal
+T27	SYMPTOM 1916 1925	PR normal
+T28	SYMPTOM 1927 1964	QRS estrecho con onda Q anterolateral
+T29	SYMPTOM 1966 1998	Elevación del ST en precordiales
+T30	SYMPTOM 2091 2112	Drenaje venoso normal
+T31	SYMPTOM 2977 3045	Ventrículo derecho (VD) no dilatado con función sistólica conservada
+T34	SYMPTOM 4062 4138	ventrículo izquierdo está dilatado pero la función sistólica está conservada
+T35	SYMPTOM 4768 4779	bradicardia
+T14	SYMPTOM 1562 1576	iones en rango
+T17	SYMPTOM 1788 1798	SCF libres
+T23	SYMPTOM 2114 2150	Vena cava inferior (VCI) no dilatada
+T24	SYMPTOM 2277 2316	función sistólica en límites inferiores
+T26	SYMPTOM 1248 1268	ruidos sobreañadidos
+T91	SYMPTOM 2052 2084	Concordancia auriculoventricular
+T93	SYMPTOM 1904 1914	Eje normal
+T96	SYMPTOM 2494 2518	Válvula aórtica trivalva
+T100	SYMPTOM 1804 1818	condensaciones
+T101	SYMPTOM 1831 1841	congestión
+T112	SYMPTOM 215 235	parto vaginal normal
+T32	SYMPTOM 2037 2050	situs solitus
+T33	SYMPTOM 1706 1731	Coagulación sin hallazgos
+T92	SYMPTOM 3318 3339	ACD, que es dominante
+T94	SYMPTOM 3502 3586	ACx y ADA confluyen proximalmente en un fondo de saco ciego, sin conexión con el TCI

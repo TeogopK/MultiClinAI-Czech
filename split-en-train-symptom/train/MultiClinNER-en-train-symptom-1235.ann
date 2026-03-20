@@ -1,0 +1,35 @@
+T1	SYMPTOM 746 776	left atrium of borderline size
+T2	SYMPTOM 1724 1736	palpitations
+T3	SYMPTOM 2048 2058	orthopnoea
+T4	SYMPTOM 2060 2089	paroxysmal nocturnal dyspnoea
+T5	SYMPTOM 2146 2156	chest pain
+T6	SYMPTOM 2351 2363	sinus rhythm
+T7	SYMPTOM 2980 2992	sinus rhythm
+T10	SYMPTOM 9430 9442	sinus rhythm
+T11	SYMPTOM 11408 11420	sinus rhythm
+T12	SYMPTOM 2561 2583	Good general condition
+T13	SYMPTOM 2671 2679	Afebrile
+T14	SYMPTOM 2727 2764	Cardiac auscultation: rhythmic sounds
+T15	SYMPTOM 2783 2790	murmurs
+T16	SYMPTOM 2848 2868	Abdomen: nondescript
+T17	SYMPTOM 2870 2898	Lower extremities: no oedema
+T18	SYMPTOM 3014 3024	narrow QRS
+T19	SYMPTOM 3079 3089	Normal QTc
+T20	SYMPTOM 3645 3706	Thin leaflet mitral valve with preserved mobility and opening
+T21	SYMPTOM 3919 3957	moderately depressed systolic function
+T22	SYMPTOM 4258 4304	Tricuspid valve with good opening and mobility
+T23	SYMPTOM 5298 5368	Left ventricle with mildly moderate depression of contractile function
+T24	SYMPTOM 2217 2228	presyncopal
+T25	SYMPTOM 781 795	preserved LVEF
+T27	SYMPTOM 1298 1308	arrhythmic
+T28	SYMPTOM 2091 2094	PND
+T29	SYMPTOM 2099 2130	oedema of the lower extremities
+T30	SYMPTOM 2205 2213	syncopal
+T31	SYMPTOM 2699 2725	jugular venous engorgement
+T32	SYMPTOM 2792 2832	Pulmonary auscultation: normoventilation
+T33	SYMPTOM 3051 3077	repolarisation alterations
+T8	SYMPTOM 3417 3435	absence of P waves
+T9	SYMPTOM 4405 4441	Inferior vena cava (IVC) not dilated
+T26	SYMPTOM 4189 4241	Right ventricle not dilated; preserved contractility
+T34	SYMPTOM 9345 9383	segmental alterations in contractility
+T35	SYMPTOM 11349 11360	tachycardia

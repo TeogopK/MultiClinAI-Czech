@@ -1,0 +1,23 @@
+T2	DISEASE 72 84	hypertension
+T15	DISEASE 89 91	DM
+T1	DISEASE 101 116	hyperlipidaemia
+T23	DISEASE 118 124	Smoker
+T25	DISEASE 150 157	drinker
+T3	DISEASE 170 207	consumption of other toxic substances
+T4	DISEASE 275 279	LBBB
+T24	DISEASE 431 445	drug allergies
+T26	DISEASE 968 973	BRIHH
+T16	DISEASE 990 1002	cardiomegaly
+T5	DISEASE 1135 1138	PTE
+T17	DISEASE 1154 1180	Bilateral pleural effusion
+T6	DISEASE 1222 1252	paratracheal lymphadenopathies
+T7	DISEASE 1790 1804	LV hypertrophy
+T8	DISEASE 1828 1838	Dilated LA
+T18	DISEASE 1849 1893	Thickened mitral valve with mild-moderate MR
+T9	DISEASE 1895 1902	Mild TR
+T10	DISEASE 1992 2015	paratracheal adenopathy
+T27	DISEASE 2287 2314	diagnosis of Chagas disease
+T19	DISEASE 2482 2495	Heart Failure
+T20	DISEASE 2500 2519	Infectious Diseases
+T21	DISEASE 2546 2568	Chronic Chagas disease
+T22	DISEASE 2571 2604	Severe grade systolic dysfunction

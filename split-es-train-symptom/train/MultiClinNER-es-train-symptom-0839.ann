@@ -1,0 +1,49 @@
+T1	SYMPTOM 586 600	dolor torácico
+T2	SYMPTOM 728 745	disnea progresiva
+T3	SYMPTOM 978 1002	aceptable estado general
+T4	SYMPTOM 1009 1027	eupneico en reposo
+T5	SYMPTOM 1081 1093	Taquicárdico
+T6	SYMPTOM 1105 1112	Afebril
+T7	SYMPTOM 1117 1138	ingurgitación yugular
+T8	SYMPTOM 1252 1287	Auscultación cardiopulmonar anodina
+T9	SYMPTOM 1289 1316	Abdomen blando y depresible
+T10	SYMPTOM 1392 1434	fosa izquierda con secreción mucopurulenta
+T11	SYMPTOM 1436 1466	Miembros inferiores sin edemas
+T12	SYMPTOM 1545 1584	aplanamiento generalizado de la onda T.
+T13	SYMPTOM 1673 1708	elevación de la proteína C reactiva
+T14	SYMPTOM 1719 1731	leucocitosis
+T15	SYMPTOM 1733 1750	Dímero D negativo
+T18	SYMPTOM 2058 2082	función renal conservada
+T19	SYMPTOM 2087 2099	leucocitosis
+T20	SYMPTOM 2103 2114	neutrofilia
+T21	SYMPTOM 2163 2180	Dímero D negativo
+T22	SYMPTOM 2225 2253	índice cardiotorácico normal
+T25	SYMPTOM 2438 2447	PR normal
+T26	SYMPTOM 2449 2461	QRS estrecho
+T27	SYMPTOM 2463 2513	Aplanamiento generalizado de la onda T. QTc normal
+T29	SYMPTOM 2988 3019	Hipocontractilidad generalizada
+T30	SYMPTOM 3231 3307	Ventrículo derecho (VD) de dimensiones normales con función sistólica normal
+T31	SYMPTOM 3666 3691	FEVI gravemente deprimida
+T34	SYMPTOM 7232 7246	dolor torácico
+T35	SYMPTOM 7817 7829	asintomático
+T36	SYMPTOM 7852 7866	dolor torácico
+T43	SYMPTOM 1956 1975	hipoquinesia global
+T154	SYMPTOM 2407 2426	taquicardia sinusal
+T137	SYMPTOM 1030 1045	tolera decúbito
+T16	SYMPTOM 2129 2161	Plaquetas y coagulación en rango
+T17	SYMPTOM 2552 2594	aurícula izquierda de dimensiones normales
+T23	SYMPTOM 2691 2740	Ventrículo izquierdo (VI) de dimensiones normales
+T24	SYMPTOM 3574 3598	hipocinesia generalizada
+T32	SYMPTOM 5085 5110	hipocontractilidad global
+T160	SYMPTOM 2915 2939	Grosor miocárdico normal
+T167	SYMPTOM 2255 2281	Senos costofrénicos libres
+T170	SYMPTOM 3489 3535	arterias coronarias sin lesiones angiográficas
+T177	SYMPTOM 2348 2360	condensación
+T178	SYMPTOM 4834 4853	engrosamiento mural
+T33	SYMPTOM 2290 2331	aumento de la trama intersticial en bases
+T59	SYMPTOM 3763 3824	fracción de eyección del ventrículo derecho (FEVD) conservada
+T68	SYMPTOM 3734 3760	VD de dimensiones normales
+T140	SYMPTOM 1588 1619	radiografía de tórax es anodina
+T28	SYMPTOM 2610 2640	Válvula mitral con velos finos
+T141	SYMPTOM 3089 3120	Válvula aórtica con velos finos
+T144	SYMPTOM 6140 6172	cifras bajas de tensión arterial

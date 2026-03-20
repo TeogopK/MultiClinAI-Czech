@@ -1,0 +1,27 @@
+T1	SYMPTOM 430 437	astenia
+T2	SYMPTOM 2721 2726	mareo
+T3	SYMPTOM 1725 1748	afecta grasa perirrenal
+T4	SYMPTOM 2728 2748	distensión abdominal
+T5	SYMPTOM 110 132	masa en flanco derecho
+T6	SYMPTOM 579 608	anamnesis urológica es normal
+T7	SYMPTOM 1147 1257	masa mixta de predominio sólido en polo superior de riñón derecho, con probable infiltración del músculo psoas
+T8	SYMPTOM 420 428	anorexia
+T9	SYMPTOM 647 681	hemiabdomen derecho, masa dolorosa
+T10	SYMPTOM 2887 2943	masa retroperitoneal, con intenso componente hemorrágico
+T11	SYMPTOM 76 99	síndrome constitucional
+T12	SYMPTOM 441 473	pérdida de 12 kilogramos de peso
+T13	SYMPTOM 806 828	prolongación de la VSG
+T14	SYMPTOM 833 894	estudio bioquímico, urinario y de marcadores tumorales normal
+T15	SYMPTOM 1753 1798	afectación de los sistemas excretor ni venoso
+T16	SYMPTOM 1959 2003	afectación de los sistemas excretor y venoso
+T17	SYMPTOM 929 939	masa renal
+T18	SYMPTOM 2005 2017	pT3 G3 N0 M0
+T19	SYMPTOM 531 574	dolor súbito en flanco y fosa renal derecha
+A1	RESULTADO T3
+A2	IMAGEN T7
+A3	IMAGEN T10
+A4	RESULTADO T13
+A5	RESULTADO T14
+A6	RESULTADO T15
+A7	RESULTADO T16
+A8	IMAGEN T17

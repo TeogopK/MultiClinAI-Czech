@@ -1,0 +1,12 @@
+T2	PROCEDURE 181 197	cataract surgery
+T1	PROCEDURE 356 376	clinical examination
+T8	PROCEDURE 435 522	parotid glands, which led to a request for an ultrasound scan of these glands and a FNA
+T4	PROCEDURE 614 624	ultrasound
+T3	PROCEDURE 629 632	FNA
+T5	PROCEDURE 637 647	Ultrasound
+T9	PROCEDURE 1118 1121	FNA
+T10	PROCEDURE 1132 1156	FNA of left parotid area
+T6	PROCEDURE 1158 1166	cytology
+T11	PROCEDURE 1233 1258	FNA of right parotid area
+T7	PROCEDURE 1260 1268	cytology
+T12	PROCEDURE 1348 1351	MRI

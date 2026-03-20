@@ -1,0 +1,9 @@
+T1	PROCEDURE 482 502	Physical examination
+T8	PROCEDURE 603 791	Skin tests with a standard battery of pneumoallergens common in the region (including dust mites, pollens, fungi and animal epithelia), latex, food, plant panallergens and Anisakis simplex
+T10	PROCEDURE 807 831	General laboratory tests
+T3	PROCEDURE 833 845	biochemistry
+T12	PROCEDURE 847 867	complete blood count
+T2	PROCEDURE 901 917	thyroid hormones
+T4	PROCEDURE 922 927	urine
+T16	PROCEDURE 950 995	serum immunoglobulin classes IgA, IgM and IgG
+T17	PROCEDURE 1200 1217	stool examination

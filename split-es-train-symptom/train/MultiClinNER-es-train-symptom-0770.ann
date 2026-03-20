@@ -1,0 +1,44 @@
+T1	SYMPTOM 402 419	malestar torácico
+T3	SYMPTOM 612 647	determinación de troponina positiva
+T4	SYMPTOM 714 739	elevación del segmento ST
+T5	SYMPTOM 940 947	Afebril
+T6	SYMPTOM 949 979	Auscultación cardiaca: rítmica
+T7	SYMPTOM 984 990	soplos
+T8	SYMPTOM 1001 1030	Auscultación pulmonar: normal
+T9	SYMPTOM 1032 1048	Abdomen: anodino
+T10	SYMPTOM 1050 1081	Miembros inferiores: sin edemas
+T11	SYMPTOM 1159 1172	ritmo sinusal
+T12	SYMPTOM 1183 1192	PR normal
+T13	SYMPTOM 1194 1206	QRS estrecho
+T14	SYMPTOM 1212 1252	alteraciones agudas de la repolarización
+T15	SYMPTOM 1353 1383	Función renal e iones normales
+T16	SYMPTOM 1610 1679	silueta cardiaca, parénquima y vascularización pulmonar sin hallazgos
+T17	SYMPTOM 2042 2100	ventrículo izquierdo (VI) con función sistólica conservada
+T18	SYMPTOM 2102 2160	aquinesia muy localizada de zona inferolateral medio-basal
+T19	SYMPTOM 2178 2192	VI no dilatado
+T20	SYMPTOM 2194 2218	paredes de grosor normal
+T21	SYMPTOM 2220 2248	función sistólica conservada
+T22	SYMPTOM 2293 2315	Aurículas no dilatadas
+T23	SYMPTOM 2850 2861	PAPs normal
+T24	SYMPTOM 3279 3318	Aorta permeable y de calibre conservado
+T25	SYMPTOM 4394 4458	disminución brusca de calibre en la tercera rama marginal obtusa
+T26	SYMPTOM 4672 4707	función sistólica global conservada
+T27	SYMPTOM 4713 4744	asimetrías segmentarias al alta
+T28	SYMPTOM 5297 5327	Función sistólica de VI normal
+T58	SYMPTOM 3779 3826	suprarrenal izquierda con engrosamiento nodular
+T2	SYMPTOM 2787 2823	Vena cava inferior (VCI) no dilatada
+T80	SYMPTOM 3851 3889	Riñón derecho con pequeño nódulo graso
+T95	SYMPTOM 1725 1760	coronarias epicárdicas sin lesiones
+T98	SYMPTOM 5021 5040	estabilidad clínica
+T46	SYMPTOM 4298 4333	coronarias epicárdicas sin lesiones
+T82	SYMPTOM 1815 1881	tercera rama obtusa marginal se visualiza cambio brusco de calibre
+T85	SYMPTOM 2336 2378	(VD) no dilatado con contractilidad normal
+T86	SYMPTOM 2939 2994	origen de los troncos supraórticos de morfología normal
+T87	SYMPTOM 2996 3056	Ejes arteriales axilosubclavios y ejes carotideos permeables
+T88	SYMPTOM 3179 3209	Dominancia vertebral izquierda
+T89	SYMPTOM 3211 3277	Tronco coronario izquierdo y arteria circunfleja de calibre normal
+T90	SYMPTOM 3078 3148	Segmento cervical de arteria carótida interna con ligera irregularidad
+T91	SYMPTOM 3419 3481	Arterias renales principales de aspecto arrosariado-displásico
+T92	SYMPTOM 3483 3529	Ejes arteriales ilíacos permeables y ectásicos
+T93	SYMPTOM 3531 3590	Arterias ilíacas externas de aspecto arrosariado-displásico
+T94	SYMPTOM 4084 4163	arterias renales principales y arterias ilíacas externas de aspecto arrosariado

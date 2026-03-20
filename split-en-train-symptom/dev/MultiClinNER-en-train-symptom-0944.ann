@@ -1,0 +1,45 @@
+T1	SYMPTOM 654 669	general malaise
+T2	SYMPTOM 674 680	nausea
+T3	SYMPTOM 1375 1381	nausea
+T4	SYMPTOM 1465 1471	nausea
+T5	SYMPTOM 689 697	vomiting
+T6	SYMPTOM 714 735	loss of consciousness
+T7	SYMPTOM 826 846	sphincter relaxation
+T8	SYMPTOM 939 952	hypoglycaemia
+T9	SYMPTOM 1255 1270	epigastric pain
+T10	SYMPTOM 1476 1493	vegetative cortex
+T11	SYMPTOM 1735 1744	Conscious
+T12	SYMPTOM 1774 1787	Normohydrated
+T13	SYMPTOM 1789 1796	Eupneic
+T14	SYMPTOM 1801 1822	jugular ingurgitation
+T15	SYMPTOM 1846 1867	rhythmic heart sounds
+T16	SYMPTOM 1876 1883	murmurs
+T17	SYMPTOM 1909 1932	normal vesicular murmur
+T18	SYMPTOM 1934 1986	Abdomen: soft, depressible, not painful on palpation
+T19	SYMPTOM 1988 2006	normal peristalsis
+T20	SYMPTOM 2008 2036	Lower extremities: no oedema
+T21	SYMPTOM 2139 2151	sinus rhythm
+T22	SYMPTOM 2309 2321	sinus rhythm
+T24	SYMPTOM 4644 4656	sinus rhythm
+T25	SYMPTOM 6012 6024	sinus rhythm
+T26	SYMPTOM 2797 2812	centred midline
+T27	SYMPTOM 2929 2937	bleeding
+T28	SYMPTOM 5916 5945	left ventricle of normal size
+T29	SYMPTOM 4467 4493	Mild diastolic dysfunction
+T30	SYMPTOM 5952 5979	preserved ejection fraction
+T31	SYMPTOM 609 616	syncope
+T32	SYMPTOM 1444 1451	syncope
+T34	SYMPTOM 5373 5380	syncope
+T36	SYMPTOM 7173 7202	Syncope of cardiogenic origin
+T37	SYMPTOM 4526 4545	Normal aortic valve
+T40	SYMPTOM 644 652	prodrome
+T41	SYMPTOM 879 892	tongue biting
+T42	SYMPTOM 1746 1757	Orientation
+T43	SYMPTOM 1759 1772	Normal colour
+T44	SYMPTOM 2381 2437	ST elevation in II, III, aVF with a decrease in I and aV
+T23	SYMPTOM 4333 4354	preserved global LVEF
+T33	SYMPTOM 4300 4327	normal sized left ventricle
+T45	SYMPTOM 4356 4418	Akinesia of the basal and middle segments of the inferior wall
+T46	SYMPTOM 4423 4465	hypokinesia of the apical inferior segment
+T47	SYMPTOM 4877 4918	ST supralow leveling in the inferior face
+T48	SYMPTOM 6089 6117	Q waves in the inferior face

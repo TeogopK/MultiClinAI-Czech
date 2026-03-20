@@ -1,0 +1,56 @@
+T46	DISEASE 109 121	dislipidemia
+T47	DISEASE 139 148	sobrepeso
+T48	DISEASE 278 286	neumonía
+T49	DISEASE 309 361	Hepatopatía crónica por virus hepatitis C genotipo 1
+T50	DISEASE 643 704	Sarcoidosis sistémica secundaria a tratamiento con interferón
+T51	DISEASE 972 997	infección por VHC crónica
+T52	DISEASE 1627 1650	miocardiopatía dilatada
+T53	DISEASE 1898 1916	anemia ferropénica
+T54	DISEASE 1941 1982	insuficiencia cardiaca (IC) descompensada
+T55	DISEASE 1965 1967	IC
+T56	DISEASE 2669 2694	trombosis venosa profunda
+T57	DISEASE 2696 2699	TVP
+T58	DISEASE 3000 3003	HVI
+T59	DISEASE 4710 4737	Insuficiencia mitral ligera
+T60	DISEASE 5224 5240	edema miocárdico
+T61	DISEASE 5861 5883	lesión focal sarcoidea
+T62	DISEASE 5910 5933	miocardiopatía dilatada
+T63	DISEASE 6407 6437	derrames pleural o pericárdico
+T64	DISEASE 7276 7308	disfunción ventricular izquierda
+T65	DISEASE 7731 7742	miocarditis
+T66	DISEASE 7933 7944	sarcoidosis
+T67	DISEASE 7981 8035	sarcoidosis iatrogénica secundaria a uso de interferón
+T68	DISEASE 8116 8150	sarcoidosis pulmonar o adenopática
+T69	DISEASE 8394 8412	miocarditis tóxica
+T70	DISEASE 8454 8476	toxicidad por fármacos
+T71	DISEASE 8829 8897	disfunción ventricular izquierda al uso de antivirales contra el VHC
+T72	DISEASE 9392 9410	anemia ferropénica
+T73	DISEASE 9442 9458	pólipos en colon
+T74	DISEASE 9569 9655	disfunción ventricular izquierda grave secundaria a miocardiopatía dilatada reversible
+T75	DISEASE 9705 9716	miocarditis
+T76	DISEASE 9802 9871	miocarditis tóxica relacionada con antivirales directos contra el VHC
+T77	DISEASE 9988 10067	Miocardiopatía dilatada no isquémica con disfunción ventricular izquierda grave
+T78	DISEASE 10093 10131	miocarditis tóxica por antivirales VHC
+T79	DISEASE 10133 10182	Anemia ferropénica secundaria a pólipos colónicos
+T80	DISEASE 10184 10196	Dislipidemia
+T81	DISEASE 4889 4891	IT
+T82	DISEASE 1416 1439	episodios presincopales
+T83	DISEASE 4571 4646	ventrículo izquierdo (VI) gravemente dilatado con disfución sistólica grave
+T84	DISEASE 4799 4843	Ventrículo derecho (VD) ligeramente dilatado
+T85	DISEASE 5935 5938	MCD
+T86	DISEASE 6047 6063	lesión sarcoidea
+T87	DISEASE 7646 7662	clínica catarral
+T88	DISEASE 8287 8341	cardiotoxicidad por antivirales directos contra el VHC
+T149	DISEASE 7425 7475	función ventricular, siendo la disfunción moderada
+T150	DISEASE 9169 9219	ventrículo izquierdo, quedando una leve disfunción
+T189	DISEASE 7584 7606	lesiones angiográficas
+T193	DISEASE 5777 5828	necrosis puesto que también afecta al subendocardio
+T194	DISEASE 6035 6043	necrosis
+T195	DISEASE 7559 7567	necrosis
+T155	DISEASE 1655 1693	disfunción ventricular izquierda grave
+T161	DISEASE 6007 6019	lesión focal
+T165	DISEASE 6664 6675	hipertrofia
+#1	AnnotatorNotes T55	 insuficiencia cardíaca
+#2	AnnotatorNotes T58	 hipertrofia ventriculo izquierdo
+#3	AnnotatorNotes T81	 IT insuficiencia tricuspídea
+#4	AnnotatorNotes T85	 miocardiopatia dilatada

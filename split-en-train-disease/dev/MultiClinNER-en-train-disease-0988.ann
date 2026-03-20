@@ -1,0 +1,39 @@
+T26	DISEASE 59 65	Smoker
+T27	DISEASE 89 145	Severe mitral regurgitation secondary to chordal rupture
+T45	DISEASE 334 352	epicardial lesions
+T28	DISEASE 385 400	Inguinal hernia
+T29	DISEASE 531 555	cardiorespiratory arrest
+T30	DISEASE 813 837	cardiorespiratory arrest
+T31	DISEASE 945 969	ventricular fibrillation
+T6	DISEASE 971 973	VF
+T32	DISEASE 1697 1736	deep vein thrombosis in the lower limbs
+T33	DISEASE 1973 1998	ventricular extrasystoles
+T35	DISEASE 2143 2178	polytopic ventricular extrasystoles
+T10	DISEASE 2218 2221	LVH
+T12	DISEASE 3066 3089	space-occupying lesions
+T48	DISEASE 3091 3099	fracture
+T36	DISEASE 3158 3173	acute ischaemia
+T13	DISEASE 3256 3266	aspiration
+T15	DISEASE 3312 3381	undisplaced fractures of the 4th and 5th right anterior costal arches
+T37	DISEASE 3519 3535	pleural effusion
+T18	DISEASE 3550 3637	mitral valve with eversion of the posterior leaflet at P2 (flail) due to chordal ruptur
+T19	DISEASE 3776 3838	Left ventricle (LV) of greatly increased diameters and volumes
+T47	DISEASE 3923 3937	valvulopathies
+T20	DISEASE 3939 3963	Very dilated left atrium
+T38	DISEASE 4058 4080	pulmonary hypertension
+T21	DISEASE 4260 4283	cerebrovascular acciden
+T22	DISEASE 4286 4289	CVA
+T39	DISEASE 4292 4317	pulmonary thromboembolism
+T23	DISEASE 4319 4322	PTE
+T40	DISEASE 4327 4348	acute aortic syndrome
+T25	DISEASE 4588 4610	sequelae of the arrest
+T49	DISEASE 4821 4845	extensive prolapse of P2
+T41	DISEASE 4847 4886	chordal rupture and cleft between P1-P2
+T59	DISEASE 4957 4976	mitral regurgitatio
+T51	DISEASE 4979 4981	MR
+T43	DISEASE 5073 5092	atrial fibrillation
+T88	DISEASE 5094 5096	AF
+T46	DISEASE 5502 5519	arrhythmic events
+T44	DISEASE 5532 5563	Malignant mitral valve prolapse
+T80	DISEASE 5582 5595	recovered CRP
+T42	DISEASE 5598 5667	Severe mitral insufficiency due to P2 prolapse due to chordal rupture

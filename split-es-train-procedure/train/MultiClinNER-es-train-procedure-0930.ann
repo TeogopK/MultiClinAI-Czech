@@ -1,0 +1,63 @@
+T115	PROCEDURE 616 645	ecocardiografía transtorácica
+T116	PROCEDURE 647 650	ETT
+T117	PROCEDURE 670 697	cardioversión farmacológica
+T118	PROCEDURE 718 746	ablación de venas pulmonares
+T119	PROCEDURE 814 839	tratamiento antiarrítmico
+T120	PROCEDURE 935 950	anticoagulación
+T121	PROCEDURE 1300 1323	cardioversión eléctrica
+T122	PROCEDURE 1369 1394	tratamiento antiarrítmico
+T123	PROCEDURE 1955 1983	resonancia magnética craneal
+T124	PROCEDURE 2604 2638	cauterización con nitrato de plata
+T125	PROCEDURE 2641 2687	colocación de lámina de espogostán y bactrobán
+T126	PROCEDURE 2720 2759	cierre percutáneo de orejuela izquierda
+T127	PROCEDURE 2967 2987	doble antiagregación
+T128	PROCEDURE 3002 3016	antiagregación
+T129	PROCEDURE 3481 3499	EXPLORACIÓN FÍSICA
+T130	PROCEDURE 3780 3801	Auscultación cardiaca
+T131	PROCEDURE 3844 3865	Auscultación pulmonar
+T132	PROCEDURE 4033 4051	palpación profunda
+T133	PROCEDURE 4677 4695	Electrocardiograma
+T134	PROCEDURE 4768 4814	Radiografía de tórax posteroanterior y lateral
+T135	PROCEDURE 5126 5129	ETT
+T136	PROCEDURE 5767 5802	Tomografía computerizada (TC) tórax
+T137	PROCEDURE 6622 6634	Broncoscopia
+T138	PROCEDURE 6644 6665	Lavado broncoalveolar
+T139	PROCEDURE 6742 6761	anatomía patológica
+T140	PROCEDURE 6943 6974	Pruebas de función respiratoria
+T141	PROCEDURE 7009 7040	pruebas de función respiratoria
+T142	PROCEDURE 7245 7253	TC tórax
+T143	PROCEDURE 8710 8721	TC torácico
+T144	PROCEDURE 8970 9001	pruebas de función respiratoria
+T145	PROCEDURE 9249 9261	broncoscopia
+T146	PROCEDURE 9309 9330	lavado broncoalveolar
+T147	PROCEDURE 9417 9436	anatomía patológica
+T148	PROCEDURE 9591 9614	tratamiento corticoideo
+T149	PROCEDURE 9712 9730	ecografía tiroidea
+T150	PROCEDURE 9900 9922	tratamiento esteroideo
+T151	PROCEDURE 10317 10348	pruebas de función respiratoria
+T152	PROCEDURE 10596 10607	TC de tórax
+T153	PROCEDURE 10809 10811	TC
+T154	PROCEDURE 11366 11386	anticoagulación oral
+T155	PROCEDURE 11401 11447	dispositivo Amulet 28 mm de cierre de orejuela
+T156	PROCEDURE 11469 11490	antiagregación simple
+T185	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T186	PROCEDURE 6785 6816	Pruebas de función respiratoria
+T187	PROCEDURE 2357 2370	función renal
+T188	PROCEDURE 9783 9799	función tiroidea
+T189	PROCEDURE 10509 10537	test de los 6 minutos marcha
+T190	PROCEDURE 1138 1222	reablación del sustrato auricular izquierdo, línea de techo auricular e istmo mitral
+T191	PROCEDURE 6911 6935	Test de 6 minutos marcha
+T192	PROCEDURE 7186 7210	Test de 6 minutos marcha
+T193	PROCEDURE 9118 9148	test de 6 minutos de la marcha
+T194	PROCEDURE 4905 4959	dispositivo percutáneo de cierre de orejuela izquierda
+T195	PROCEDURE 5747 5765	cierre de orejuela
+T196	PROCEDURE 6268 6296	cierre de orejuela izquierda
+T220	PROCEDURE 4207 4216	Analítica
+T233	PROCEDURE 6711 6739	aislamientos microbiológicos
+T234	PROCEDURE 9386 9414	aislamientos microbiológicos
+T40	PROCEDURE 2920 2935	antiacoagulante
+T51	PROCEDURE 5793 5795	TC
+T200	PROCEDURE 6978 7001	tratamiento corticoideo
+T201	PROCEDURE 7214 7237	tratamiento corticoideo
+T204	PROCEDURE 7605 7651	Dispositivo de cierre de la aurícula izquierda
+T211	PROCEDURE 11154 11213	Fibrilación auricular persistente tratada mediante ablación

@@ -1,0 +1,36 @@
+T1	SYMPTOM 188 204	febrile syndrome
+T2	SYMPTOM 241 256	general malaise
+T3	SYMPTOM 258 283	generalised arthromyalgia
+T4	SYMPTOM 285 293	headache
+T5	SYMPTOM 298 311	epigastralgia
+T6	SYMPTOM 466 475	diarrhoea
+T7	SYMPTOM 815 820	fever
+T8	SYMPTOM 843 854	Skin pallor
+T9	SYMPTOM 889 909	rhythmic tachycardia
+T10	SYMPTOM 998 1011	heart murmurs
+T11	SYMPTOM 1013 1031	pulmonary crackles
+T12	SYMPTOM 1322 1354	Portable chest X-ray: normal CTI
+T13	SYMPTOM 1365 1388	vascular redistribution
+T14	SYMPTOM 1950 1988	moderately depressed systolic function
+T15	SYMPTOM 2015 2058	Right ventricle normal in size and function
+T16	SYMPTOM 2269 2293	Blood cultures: negative
+T17	SYMPTOM 2295 2319	Urine cultures: negative
+T18	SYMPTOM 2370 2384	ASLO: negative
+T19	SYMPTOM 2726 2761	left ventricle of normal dimensions
+T21	SYMPTOM 4143 4167	haemodynamic instability
+T22	SYMPTOM 1197 1214	sinus tachycardia
+T23	SYMPTOM 2156 2181	normal inferior vena cava
+T24	SYMPTOM 2590 2598	Wide QRS
+T25	SYMPTOM 2898 2920	Normal right ventricle
+T27	SYMPTOM 3128 3139	hypokinesia
+T28	SYMPTOM 5806 5833	depressed ejection fraction
+T29	SYMPTOM 566 626	continuous chest pain with pleuropericardial characteristics
+T30	SYMPTOM 859 882	general state of health
+T31	SYMPTOM 1035 1060	oedema in the lower limbs
+T32	SYMPTOM 1280 1321	ST elevation in the antero-septal aspect.
+T33	SYMPTOM 2566 2578	sinus rhythm
+T34	SYMPTOM 2670 2693	Generalised low voltage
+T20	SYMPTOM 2802 2820	global hypokinesia
+T26	SYMPTOM 3005 3015	Normal IVC
+T35	SYMPTOM 3068 3105	Slightly reduced global contractility
+T36	SYMPTOM 3144 3178	increased signal in STIR sequences

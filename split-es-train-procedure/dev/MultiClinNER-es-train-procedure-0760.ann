@@ -1,0 +1,76 @@
+T166	PROCEDURE 286 302	implante coclear
+T167	PROCEDURE 351 369	electrocardiograma
+T168	PROCEDURE 371 374	ECG
+T169	PROCEDURE 514 540	estudio electrofisiológico
+T170	PROCEDURE 543 568	ablación de vía accesoria
+T171	PROCEDURE 886 904	Exploración física
+T172	PROCEDURE 1211 1243	Auscultación cardiaca y pulmonar
+T173	PROCEDURE 1411 1420	palpación
+T174	PROCEDURE 2105 2122	Gasometría venosa
+T175	PROCEDURE 2172 2192	Radiografía de tórax
+T176	PROCEDURE 2350 2365	Ecocardiografía
+T177	PROCEDURE 3579 3588	Serología
+T178	PROCEDURE 3877 3892	Coronariografía
+T179	PROCEDURE 4374 4387	Proteinograma
+T180	PROCEDURE 4660 4690	Proteínas en orina de 24 horas
+T181	PROCEDURE 4772 4781	Hemograma
+T182	PROCEDURE 4994 5009	Ecocardiografía
+T183	PROCEDURE 6982 6996	Biopsia rectal
+T184	PROCEDURE 7171 7195	Biopsia grasa subcutánea
+T185	PROCEDURE 7214 7255	técnicas de rojo Congo en cortes seriados
+T186	PROCEDURE 7398 7413	Ecocardiografía
+T187	PROCEDURE 7938 7945	PET-TAC
+T188	PROCEDURE 8553 8556	PET
+T189	PROCEDURE 8691 8706	Gammagrafía DPD
+T190	PROCEDURE 8845 8857	rastreo óseo
+T191	PROCEDURE 9563 9606	Estudio genético de enfermedad mitocondrial
+T192	PROCEDURE 9848 9870	Biopsia endomiocárdica
+T193	PROCEDURE 10392 10425	infusión de expansores de volumen
+T194	PROCEDURE 10438 10475	oxigenoterapia con Ventimask FiO2 31%
+T195	PROCEDURE 10485 10503	antibioterapia i.v
+T196	PROCEDURE 10644 10693	fármacos vasoactivos (dobutamina y noradrenalina)
+T197	PROCEDURE 10720 10734	ecocardiograma
+T198	PROCEDURE 11013 11028	coronariografía
+T199	PROCEDURE 11495 11510	cánulas nasales
+T200	PROCEDURE 11550 11572	controles gasométricos
+T201	PROCEDURE 11730 11748	drogas vasoactivas
+T202	PROCEDURE 12011 12071	amputación metatarsofalángica de segunda-cuarta falanges MII
+T203	PROCEDURE 12337 12361	reactantes de fase aguda
+T204	PROCEDURE 12378 12397	pruebas serológicas
+T205	PROCEDURE 12569 12581	hemocultivos
+T206	PROCEDURE 12631 12648	cardioRMN con RTG
+T207	PROCEDURE 12865 12883	drogas vasoactivas
+T208	PROCEDURE 12966 12980	ecocardiograma
+T209	PROCEDURE 13741 13883	estudio de coagulación especial con heterocigosis para mutación en el gen del factor XII, metiltetrahidrofolato reductasa y factor V de Leiden
+T210	PROCEDURE 14048 14061	proteinograma
+T211	PROCEDURE 14113 14174	biopsia rectal y de grasa subcutánea con tinciones rojo Congo
+T212	PROCEDURE 14269 14308	gammagrafía con tecnecio 99 difosfonato
+T213	PROCEDURE 14417 14467	PET-TC de cuerpo entero con 18 fluorodesoxiglucosa
+T214	PROCEDURE 15472 15495	l tratamiento diurético
+T215	PROCEDURE 15987 16003	estudio genético
+T216	PROCEDURE 16525 16547	biopsia endomiocárdica
+T217	PROCEDURE 17050 17083	amputación de falanges inferiores
+T220	PROCEDURE 10912 10927	anticoagulación
+T223	PROCEDURE 11353 11371	soporte vasoactivo
+T225	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T226	PROCEDURE 3750 3874	PCR enterovirus, VIH, VHB, VHS, Parvovirus B19, Brucella, Rickettsia, Mycoplasma, Chlamydia pneumoniae, Borrelia burgdorferi
+T227	PROCEDURE 6626 6661	Estudio trombofilia y autoinmunidad
+T228	PROCEDURE 13612 13630	estudio etiológico
+T229	PROCEDURE 11394 11407	función renal
+T231	PROCEDURE 10352 10381	marcadores de daño miocárdico
+T232	PROCEDURE 3591 3619	erología de virus hepático C
+T233	PROCEDURE 6758 6784	factores de la coagulación
+T234	PROCEDURE 7092 7114	tinción con rojo Congo
+T235	PROCEDURE 11750 11753	DVA
+T236	PROCEDURE 14064 14088	cadenas ligeras en orina
+T241	PROCEDURE 4586 4601	Cadenas ligeras
+T68	PROCEDURE 12311 12331	marcadores cardiacos
+T254	PROCEDURE 1819 1828	Analítica
+T255	PROCEDURE 8951 8960	Analítica
+T256	PROCEDURE 4026 4035	Analítica
+T277	PROCEDURE 14738 14747	analítica
+T321	PROCEDURE 10956 10981	perfusión de levosimendán
+T262	PROCEDURE 7258 7277	inmunohistoquímicas
+T275	PROCEDURE 12155 12158	DVA
+T280	PROCEDURE 12674 12690	implante coclear
+#1	AnnotatorNotes T235	 Drogas vasoactivas

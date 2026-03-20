@@ -1,0 +1,37 @@
+T1	SYMPTOM 96 103	vómitos
+T2	SYMPTOM 105 125	rechazo del alimento
+T3	SYMPTOM 128 148	distensión abdominal
+T4	SYMPTOM 389 411	palidez cutáneo-mucosa
+T5	SYMPTOM 697 709	leucocitosis
+T6	SYMPTOM 1004 1034	proteinuria en rango nefrótico
+T7	SYMPTOM 538 604	abdomen estaba distendido, con presencia de red venosa superficial
+T8	SYMPTOM 926 978	hormona paratiroidea se encontraba levemente elevada
+T9	SYMPTOM 1551 1595	mutaciones tipo Frameshift para el gen NPHS1
+T10	SYMPTOM 1597 1636	tipo Intronic Variant para el gen NPHS2
+T11	SYMPTOM 1639 1668	tipo Missense para el gen WT1
+T12	SYMPTOM 361 383	regular estado general
+T13	SYMPTOM 496 533	soplo sistólico grado IV/VI polifocal
+T14	SYMPTOM 778 820	aumento del colesterol y los triglicéridos
+T15	SYMPTOM 824 867	disminución de proteínas totales y albúmina
+T16	SYMPTOM 2248 2256	falleció
+T17	SYMPTOM 414 479	edemas generalizados de predominio en las extremidades inferiores
+T18	SYMPTOM 879 891	hiponatremia
+T19	SYMPTOM 607 614	ascitis
+T20	SYMPTOM 909 921	hipocalcemia
+T21	SYMPTOM 893 906	hipopotasemia
+T22	SYMPTOM 1751 1769	hipocalcemia grave
+T23	SYMPTOM 2393 2402	hipoxemia
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T14
+A8	RESULTADO T15
+A9	EXITUS T16
+A10	RESULTADO T18
+A11	RESULTADO T20
+A12	RESULTADO T21
+A13	RESULTADO T22
+A14	RESULTADO T23

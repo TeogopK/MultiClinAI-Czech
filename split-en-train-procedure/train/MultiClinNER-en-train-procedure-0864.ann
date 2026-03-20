@@ -1,0 +1,37 @@
+T42	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T44	PROCEDURE 632 664	drug-eluting balloon angioplasty
+T43	PROCEDURE 1230 1250	Physical examination
+T45	PROCEDURE 1359 1379	Cardiac auscultation
+T46	PROCEDURE 1426 1448	Pulmonary auscultation
+T2	PROCEDURE 1534 1554	painful on palpation
+T47	PROCEDURE 1729 1746	electrocardiogram
+T48	PROCEDURE 1748 1751	ECG
+T49	PROCEDURE 1932 1935	ECG
+T63	PROCEDURE 2124 2144	Portable chest X-ray
+T51	PROCEDURE 2306 2326	coronary angiography
+T7	PROCEDURE 2677 2743	perform percutaneous coronary intervention (PCI) on the DC lesion.
+T8	PROCEDURE 2721 2724	PCI
+T10	PROCEDURE 2750 2803	predilating with a 2.5 x 20 mm semi-compliant balloon
+T11	PROCEDURE 2820 2870	sirolimus-eluting drug-eluting stent was implanted
+T54	PROCEDURE 2910 2924	Echocardiogram
+T15	PROCEDURE 3482 3498	laboratory tests
+T55	PROCEDURE 3500 3511	Blood count
+T62	PROCEDURE 3596 3607	Haemostasis
+T61	PROCEDURE 3634 3646	Biochemistry
+T16	PROCEDURE 3931 3964	Myocardial damage biomarker curve
+T50	PROCEDURE 4061 4064	ECG
+T52	PROCEDURE 4199 4219	coronary angiography
+T17	PROCEDURE 4246 4267	stent implanted in CD
+T19	PROCEDURE 4269 4279	PCI on LAD
+T18	PROCEDURE 4269 4317	PCI on LAD: lesion is predilated with SC balloon
+T20	PROCEDURE 4348 4409	implanting a 3 x 26 mm zotarolimus-eluting drug-eluting stent
+T21	PROCEDURE 4683 4716	the infarction code was activated
+T53	PROCEDURE 4727 4747	coronary angiography
+T24	PROCEDURE 4894 4949	to perform constant pharmacoactive PCI on the middle DC
+T57	PROCEDURE 5044 5055	angioplasty
+T59	PROCEDURE 5101 5113	beta-blocker
+T38	PROCEDURE 5118 5142	lipid-lowering treatment
+T58	PROCEDURE 5790 5863	angioplasty on the severe lesion of the middle anterior descending artery
+T60	PROCEDURE 5969 5998	cardiovascular rehabilitation
+T64	PROCEDURE 6204 6260	Primary PCI with drug-eluting stentliberator over mid-CD
+T65	PROCEDURE 6262 6317	Second outpatient elective PCI on severe mid LAD lesion

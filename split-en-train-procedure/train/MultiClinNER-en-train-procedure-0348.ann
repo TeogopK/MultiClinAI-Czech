@@ -1,0 +1,17 @@
+T11	PROCEDURE 257 306	abdominal examination, a hard tumour was palpated
+T8	PROCEDURE 385 400	imaging studies
+T3	PROCEDURE 417 437	abdominal ultrasound
+T1	PROCEDURE 439 450	chest X-ray
+T12	PROCEDURE 452 470	descending urogram
+T4	PROCEDURE 475 500	computed axial tomography
+T2	PROCEDURE 537 548	chest X-ray
+T9	PROCEDURE 585 600	imaging studies
+T13	PROCEDURE 916 924	surgical
+T14	PROCEDURE 925 1001	excision via the thoraco-abdominal route with clamping of the thoracic aorta
+T7	PROCEDURE 1056 1079	resection of the tumour
+T5	PROCEDURE 1083 1099	left nephrectomy
+T6	PROCEDURE 1104 1153	en bloc splenectomy with hilar adenopathy bundles
+T15	PROCEDURE 1175 1189	excised tumour
+T19	PROCEDURE 1267 1290	Macroscopic examination
+T20	PROCEDURE 1460 1484	Histological examination
+T10	PROCEDURE 1630 1637	surgery

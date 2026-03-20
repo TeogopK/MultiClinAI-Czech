@@ -1,0 +1,15 @@
+T29	PROCEDURE 603 630	auscultación cardiopulmonar
+T30	PROCEDURE 1040 1059	analítica de sangre
+T31	PROCEDURE 1081 1101	radiografía de tórax
+T32	PROCEDURE 1266 1284	electrocardiograma
+T33	PROCEDURE 1414 1443	ecocardiografía transtorácica
+T34	PROCEDURE 1648 1685	electrocardiograma Holter de 24 horas
+T35	PROCEDURE 2182 2192	telemetría
+T36	PROCEDURE 2312 2354	ecocardiograma transtorácico con contraste
+T37	PROCEDURE 2603 2640	ergometría simple sin betabloqueantes
+T38	PROCEDURE 2965 2992	terapia con betabloqueantes
+T39	PROCEDURE 3029 3039	ergometría
+T40	PROCEDURE 3185 3212	cardiorresonancia magnética
+T41	PROCEDURE 3540 3556	estudio genético
+T42	PROCEDURE 4114 4130	estudio genético
+T43	PROCEDURE 34 52	EXPLORACIÓN FÍSICA

@@ -1,0 +1,27 @@
+T36	PROCEDURE 187 207	physical examination
+T37	PROCEDURE 239 269	transthoracic echocardiography
+T38	PROCEDURE 599 618	Valsalva manoeuvres
+T40	PROCEDURE 1121 1141	cardiac auscultation
+T39	PROCEDURE 1210 1229	Valsalva manoeuvres
+T41	PROCEDURE 1353 1375	Pulmonary auscultation
+T42	PROCEDURE 1626 1629	ECG
+T43	PROCEDURE 1727 1730	ECG
+T45	PROCEDURE 1777 1788	Chest X-ray
+T46	PROCEDURE 1933 1961	Transthoracic echocardiogram
+T47	PROCEDURE 2333 2351	24-hour Holter-ECG
+T48	PROCEDURE 2613 2631	Haemodynamic study
+T49	PROCEDURE 2758 2778	Coronary angiography
+T55	PROCEDURE 2883 2898	septal ablation
+T50	PROCEDURE 3036 3064	percutaneous septal ablation
+T51	PROCEDURE 3133 3141	sedation
+T4	PROCEDURE 3175 3266	The MCP cable was placed in the right ventricle with access through the right femoral vein.
+T5	PROCEDURE 3269 3356	balloon catheter was introduced via the arterial route through the left coronary artery
+T8	PROCEDURE 3459 3517	occluding the first septal branch by inflating the balloon
+T6	PROCEDURE 3564 3590	echocardiographic contrast
+T52	PROCEDURE 3607 3632	echocardiographic support
+T44	PROCEDURE 4312 4328	Enzyme seriation
+T53	PROCEDURE 4429 4439	monitoring
+T54	PROCEDURE 4802 4811	diuretics
+T56	PROCEDURE 4816 4826	lusotopics
+T57	PROCEDURE 5305 5324	lusotopic treatment
+T13	PROCEDURE 5511 5578	Treated by percutaneous alcohol ablation of the first septal branch

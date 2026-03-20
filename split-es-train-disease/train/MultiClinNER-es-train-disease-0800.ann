@@ -1,0 +1,31 @@
+T18	DISEASE 88 111	alergias medicamentosas
+T19	DISEASE 123 139	bebedor moderado
+T21	DISEASE 500 511	cardiopatía
+T23	DISEASE 761 781	episodios sincopales
+T24	DISEASE 1307 1332	trombosis venosa profunda
+T25	DISEASE 1334 1337	TVP
+T26	DISEASE 1944 1982	trastornos de la motilidad ventricular
+T27	DISEASE 2082 2137	taquicardia ventricular no sostenida (TVNS) monomórfica
+T28	DISEASE 2517 2540	fibrilación ventricular
+T29	DISEASE 2542 2544	FV
+T30	DISEASE 2548 2571	taquicardia ventricular
+T31	DISEASE 2573 2575	TV
+T32	DISEASE 2626 2646	episodios sincopales
+T33	DISEASE 2662 2695	cardiovasculares de muerte súbita
+T34	DISEASE 2895 2922	eventos clínicos sincopales
+T35	DISEASE 2988 2992	TVNS
+T36	DISEASE 3048 3067	síndrome de Brugada
+T37	DISEASE 3176 3195	síndrome de Brugada
+T39	DISEASE 3469 3471	TV
+T40	DISEASE 3619 3638	Síndrome de Brugada
+T41	DISEASE 3699 3722	cardiopatía estructural
+T42	DISEASE 3499 3501	FV
+T43	DISEASE 2120 2124	TVNS
+T44	DISEASE 3375 3392	episodio sincopal
+T45	DISEASE 2486 2504	eventos arrítmicos
+T46	DISEASE 2955 2973	eventos arrítmicos
+T1	DISEASE 376 389	muerte súbita
+T3	DISEASE 527 540	muerte súbita
+T69	DISEASE 3219 3232	muerte súbita
+#1	AnnotatorNotes T39	 taquicardia ventricular
+#2	AnnotatorNotes T42	 FV fibrilación ventricular

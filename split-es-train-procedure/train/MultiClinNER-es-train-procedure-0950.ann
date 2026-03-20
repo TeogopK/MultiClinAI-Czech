@@ -1,0 +1,41 @@
+T84	PROCEDURE 128 146	exploración física
+T85	PROCEDURE 541 556	Colecistectomía
+T86	PROCEDURE 974 992	electrocardiograma
+T87	PROCEDURE 1318 1322	ACTP
+T88	PROCEDURE 1699 1717	exploración física
+T89	PROCEDURE 1899 1926	auscultación cardiopulmonar
+T90	PROCEDURE 2328 2331	ECG
+T91	PROCEDURE 2620 2632	hemocultivos
+T92	PROCEDURE 2644 2654	urocultivo
+T93	PROCEDURE 2699 2728	ecocardiografía transtorácica
+T94	PROCEDURE 3154 3157	ECG
+T95	PROCEDURE 3348 3357	Hemograma
+T96	PROCEDURE 3711 3723	Hemocultivos
+T97	PROCEDURE 3764 3774	Urocultivo
+T98	PROCEDURE 3810 3821	Rx de tórax
+T99	PROCEDURE 3895 3924	Ecocardiografía transtorácica
+T100	PROCEDURE 4600 4620	Cateterismo cardiaco
+T101	PROCEDURE 5314 5339	implante directo de stent
+T102	PROCEDURE 5813 5841	terapia antibiótica empírica
+T103	PROCEDURE 5919 5931	hemocultivos
+T104	PROCEDURE 6149 6161	hemocultivos
+T105	PROCEDURE 6178 6197	terapia antibiótica
+T106	PROCEDURE 6346 6361	ecocardiografía
+T107	PROCEDURE 6569 6589	corticoides vía oral
+T108	PROCEDURE 6819 6834	ecocardiografía
+T110	PROCEDURE 7140 7143	ICP
+T111	PROCEDURE 7155 7221	implante de stents convencionales (x2) en segmento proximal de ADA
+T124	PROCEDURE 5238 5242	ACTP
+T125	PROCEDURE 3483 3493	Bioquímica
+T126	PROCEDURE 3603 3632	Marcadores de daño miocárdico
+T127	PROCEDURE 6790 6814	marcadores inflamatorios
+T11	PROCEDURE 2595 2654	Se extraen muestras para hemocultivos seriados y urocultivo
+T132	PROCEDURE 3337 3346	Analítica
+T137	PROCEDURE 513 539	Intervenciones quirúrgicas
+T148	PROCEDURE 3052 3061	analítico
+T153	PROCEDURE 2994 3001	doppler
+T172	PROCEDURE 7037 7069	pauta descendente de corticoides
+T178	PROCEDURE 5295 5311	tromboaspiración
+T34	PROCEDURE 252 287	Dislipemia en tratamiento con dieta
+T36	PROCEDURE 559 589	hernioplastia inguinal derecha
+#1	AnnotatorNotes T110	 intervención coronaria percutánea

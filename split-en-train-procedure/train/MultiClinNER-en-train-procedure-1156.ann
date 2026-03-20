@@ -1,0 +1,22 @@
+T31	PROCEDURE 363 371	brain CT
+T35	PROCEDURE 378 415	fibrinolytic treatment with alteplase
+T32	PROCEDURE 553 561	brain CT
+T36	PROCEDURE 676 696	Physical examination
+T37	PROCEDURE 803 823	Cardiac auscultation
+T38	PROCEDURE 958 980	pulmonary auscultation
+T39	PROCEDURE 982 1006	Neurological examination
+T40	PROCEDURE 1179 1207	transthoracic echocardiogram
+T41	PROCEDURE 1529 1543	echocardiogram
+T43	PROCEDURE 1585 1605	oral anticoagulation
+T44	PROCEDURE 1693 1713	Arterial blood gases
+T45	PROCEDURE 1768 1785	Electrocardiogram
+T33	PROCEDURE 1848 1856	brain CT
+T46	PROCEDURE 1871 1902	Post-fibrinolysis brain CT scan
+T42	PROCEDURE 1983 2013	Transesophageal echocardiogram
+T47	PROCEDURE 2394 2405	Chest X-ray
+T49	PROCEDURE 2484 2507	Thoracic CT angiography
+T10	PROCEDURE 2576 2603	Echo-Doppler of lower limbs
+T48	PROCEDURE 2908 2922	oxygen therapy
+T50	PROCEDURE 3213 3236	Thoracic CT angiography
+T51	PROCEDURE 3777 3807	tricuspid valve repair surgery
+T58	PROCEDURE 3812 3823	ASD closure

@@ -1,0 +1,43 @@
+T29	DISEASE 121 144	alergias medicamentosas
+T30	DISEASE 198 207	exfumador
+T31	DISEASE 271 285	metabolopatías
+T32	DISEASE 307 331	síndrome antifosfolípico
+T33	DISEASE 333 336	SAF
+T34	DISEASE 356 383	lupus eritematoso sistémico
+T35	DISEASE 385 388	LES
+T36	DISEASE 391 431	Tromboembolia pulmonar (TEP) segmentaria
+T37	DISEASE 415 418	TEP
+T38	DISEASE 536 592	infarto agudo de miocardio sin elevación del segmento ST
+T39	DISEASE 607 649	enfermedad coronaria de 2 vasos (DAm y DP)
+T40	DISEASE 757 801	hipertrofia ventricular izquierda (HVI) leve
+T41	DISEASE 792 795	HVI
+T42	DISEASE 806 819	valvulopatías
+T43	DISEASE 956 969	muerte súbita
+T44	DISEASE 1644 1687	taquicardia ventricular monoforma sostenida
+T45	DISEASE 1689 1693	TVMS
+T47	DISEASE 3432 3440	HVI leve
+T48	DISEASE 3506 3508	TV
+T49	DISEASE 3613 3630	escara miocárdica
+T50	DISEASE 3862 3864	TV
+T51	DISEASE 4217 4219	TV
+T52	DISEASE 4312 4341	displasia arritmogénica de VD
+T53	DISEASE 4384 4427	displasia arritmogénica ventricular derecha
+T54	DISEASE 4429 4433	DAVD
+T55	DISEASE 4449 4481	TVMS de cara anterolateral de VD
+T56	DISEASE 4557 4588	Enfermedad coronaria de 2 vasos
+T57	DISEASE 4651 4680	displasia arritmogénica de VD
+T58	DISEASE 594 601	IAMSEST
+T59	DISEASE 1413 1420	IAMSEST
+T60	DISEASE 2742 2803	TV con morfología de bloqueo de rama izquierda del haz de His
+T61	DISEASE 4123 4141	eventos arrítmicos
+T62	DISEASE 2805 2810	BRIHH
+T121	DISEASE 250 259	Exbebedor
+T46	DISEASE 1480 1499	episodios anginosos
+T112	DISEASE 3236 3287	VI de tamaño normal con hipertrofia del septo basal
+T116	DISEASE 3883 3888	BRIHH
+#1	AnnotatorNotes T33	  Síndrome antifosfolípico
+#2	AnnotatorNotes T35	  Lupus eritematoso sistémico
+#3	AnnotatorNotes T37	  Trmboembolia pulmonar
+#4	AnnotatorNotes T41	  hipertrofia ventricular izquierda
+#5	AnnotatorNotes T54	  Displasia arritmogénica ventricular derecha
+#6	AnnotatorNotes T60	  taquicardia ventricular

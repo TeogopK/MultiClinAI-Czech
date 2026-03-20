@@ -1,0 +1,48 @@
+T1	SYMPTOM 111 117	disnea
+T2	SYMPTOM 761 767	disnea
+T3	SYMPTOM 1932 1946	dolor torácico
+T6	SYMPTOM 3679 3685	disnea
+T7	SYMPTOM 3795 3803	ortopnea
+T8	SYMPTOM 3805 3832	disnea paroxística nocturna
+T9	SYMPTOM 3906 3942	disminución subjetiva de la diuresis
+T10	SYMPTOM 3945 3958	palpitaciones
+T11	SYMPTOM 3998 4003	mareo
+T12	SYMPTOM 4036 4051	Normoperfundido
+T13	SYMPTOM 4053 4108	Taquipneico en reposo, con uso de musculatura accesoria
+T15	SYMPTOM 4110 4145	Elevación de presión venosa yugular
+T16	SYMPTOM 4151 4181	reflujo hepatoyugular positivo
+T17	SYMPTOM 4305 4332	Ruidos cardiacos arrítmicos
+T18	SYMPTOM 4369 4375	soplos
+T19	SYMPTOM 4421 4481	Edemas perimaleolares con fóvea en ambos miembros inferiores
+T20	SYMPTOM 4483 4522	Abdomen blando, depresible, no doloroso
+T21	SYMPTOM 4542 4547	masas
+T22	SYMPTOM 4551 4559	megalias
+T23	SYMPTOM 4565 4593	ruidos hidroaéreos presentes
+T24	SYMPTOM 4955 4991	pruebas de función hepática normales
+T25	SYMPTOM 5116 5143	hormonas tiroideas normales
+T26	SYMPTOM 5232 5263	índice cardiotorácico aumentado
+T27	SYMPTOM 5265 5295	Engrosamiento hiliar bilateral
+T28	SYMPTOM 5297 5350	Edema alvéolo-intersticial en ambos campos pulmonares
+T29	SYMPTOM 5446 5459	ritmo sinusal
+T31	SYMPTOM 5882 5921	función sistólica severamente deprimida
+T32	SYMPTOM 5948 5972	hipocinesia generalizada
+T33	SYMPTOM 6037 6082	Ventrículo derecho de tamaño y función normal
+T35	SYMPTOM 6489 6529	deterioro severo de la función sistólica
+T36	SYMPTOM 6546 6564	hipocinesia global
+T37	SYMPTOM 6639 6685	Estudio de perfusión sin hallazgos patológicos
+T38	SYMPTOM 6802 6909	Ventrículo derecho de tamaño y morfología normales, sin anomalías en la contractilidad global y segmentaria
+T40	SYMPTOM 7026 7057	índice cardiotorácico aumentado
+T42	SYMPTOM 7209 7236	congestión hiliar bilateral
+T44	SYMPTOM 9703 9732	fracción de eyección reducida
+T68	SYMPTOM 4007 4014	síncope
+T190	SYMPTOM 9046 9059	ritmo sinusal
+T4	SYMPTOM 3835 3844	bendopnea
+T5	SYMPTOM 4377 4419	Crepitantes pulmonares hasta campos medios
+T14	SYMPTOM 5352 5405	Pinzamiento de senos costofrénicos de forma bilateral
+T177	SYMPTOM 5407 5424	Líquido en cisura
+T30	SYMPTOM 5992 6035	anomalías segmentarias de la contractilidad
+T34	SYMPTOM 6566 6611	Movimiento anómalo del septo interventricular
+T207	SYMPTOM 4672 4692	desviación izquierda
+T210	SYMPTOM 8672 8691	estabilidad clínica
+T212	SYMPTOM 8660 8669	euvolemia
+T127	SYMPTOM 6256 6305	Aorta ascendente de tamaño y flujo Doppler normal

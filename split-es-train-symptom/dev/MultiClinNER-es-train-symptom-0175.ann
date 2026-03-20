@@ -1,0 +1,43 @@
+T1	SYMPTOM 2630 2662	adelgazamiento femoral bilateral
+T2	SYMPTOM 2947 2954	Fallece
+T3	SYMPTOM 725 748	hipertonía generalizada
+T4	SYMPTOM 1146 1181	prominencia del sistema ventricular
+T5	SYMPTOM 683 705	Hipotonía generalizada
+T6	SYMPTOM 545 563	rasgos dismórficos
+T7	SYMPTOM 753 767	reflejos vivos
+T8	SYMPTOM 2324 2338	sonrisa social
+T9	SYMPTOM 580 594	hipertelorismo
+T10	SYMPTOM 1286 1330	despistaje metabólico e infeccioso es normal
+T11	SYMPTOM 1805 1894	potenciales evocados visuales resultan patológicos con un aumento del período de latencia
+T12	SYMPTOM 565 578	fascies tosca
+T13	SYMPTOM 596 616	narinas antevertidas
+T14	SYMPTOM 618 635	microrretrognatia
+T15	SYMPTOM 638 655	asimetría frontal
+T16	SYMPTOM 769 775	clonus
+T17	SYMPTOM 778 813	episodios convulsivos generalizados
+T18	SYMPTOM 1044 1092	asimetría hemisférica a favor del lado izquierdo
+T19	SYMPTOM 1486 1522	nistagmus en abducción en ambos ojos
+T20	SYMPTOM 2165 2191	hipertonía de extremidades
+T21	SYMPTOM 2194 2216	hipotonía cervicoaxial
+T22	SYMPTOM 2391 2429	asimetría interhemisférica del trazado
+T23	SYMPTOM 2435 2457	paroxismos irritativos
+T24	SYMPTOM 2482 2504	aumento del hemicuerpo
+T25	SYMPTOM 2532 2565	descenso de la órbita ipsilateral
+T26	SYMPTOM 885 951	electroencefalograma presentando una discreta lentificación difusa
+T27	SYMPTOM 1252 1280	focos de heterotopía nodular
+T28	SYMPTOM 1414 1431	esotropía del ojo
+T29	SYMPTOM 2225 2256	control cefálico ni sedestación
+T30	SYMPTOM 2294 2321	interacción con el ambiente
+T31	SYMPTOM 2516 2529	plagiocefalia
+T32	SYMPTOM 2605 2615	tibia vara
+T33	SYMPTOM 2617 2627	coxa valga
+T34	SYMPTOM 2830 2869	Espasticidad como respuesta a estímulos
+A1	EXITUS T2
+A2	IMAGEN T4
+A3	RESULTADO T10
+A4	RESULTADO T11
+A5	IMAGEN T18
+A6	RESULTADO T22
+A7	RESULTADO T23
+A8	RESULTADO T26
+A9	IMAGEN T27

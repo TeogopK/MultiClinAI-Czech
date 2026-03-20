@@ -1,0 +1,37 @@
+T2	SYMPTOM 699 705	disnea
+T3	SYMPTOM 781 789	ortopnea
+T4	SYMPTOM 822 849	disnea paroxística nocturna
+T5	SYMPTOM 868 882	dolor torácico
+T6	SYMPTOM 954 960	fiebre
+T7	SYMPTOM 963 972	febrícula
+T8	SYMPTOM 1142 1174	Auscultación cardiaca: arrítmica
+T9	SYMPTOM 1207 1238	soplo sistólico en foco aórtico
+T10	SYMPTOM 1247 1287	soplo sistólico rudo en foco tricuspídeo
+T11	SYMPTOM 1324 1350	crepitantes en ambas bases
+T12	SYMPTOM 1572 1640	bioquímica y parámetros de función renal y hepática sin alteraciones
+T13	SYMPTOM 1795 1828	Hemocultivos extraídos: negativos
+T20	SYMPTOM 3631 3660	apertura severamente reducida
+T22	SYMPTOM 5817 5852	hemocultivos que resultan negativos
+T23	SYMPTOM 5917 5924	afebril
+T24	SYMPTOM 5930 5949	buen estado general
+T25	SYMPTOM 6042 6084	dolor agudo a nivel de extremidad inferior
+T26	SYMPTOM 6111 6122	parestesias
+T27	SYMPTOM 6125 6139	palidez distal
+T29	SYMPTOM 6964 6989	estable hemodinámicamente
+T31	SYMPTOM 7656 7685	disminución de agudeza visual
+T32	SYMPTOM 8496 8522	inestabilidad hemodinámica
+T33	SYMPTOM 8808 8814	exitus
+T35	SYMPTOM 9145 9178	masa creció Aspergillus fumigatus
+T37	SYMPTOM 9544 9550	Exitus
+T158	SYMPTOM 7937 7942	edema
+T14	SYMPTOM 2188 2214	grave depresión de la FEVI
+T171	SYMPTOM 2234 2252	Hipocinesia global
+T188	SYMPTOM 7740 7768	hemianopsia homónima derecha
+T189	SYMPTOM 1537 1570	hemograma dentro de la normalidad
+T200	SYMPTOM 6956 6962	sedada
+T203	SYMPTOM 467 532	ventrículo izquierdo no dilatado con función sistólica preservada
+T1	SYMPTOM 1941 1980	refuerzo de la trama peribroncovascular
+T16	SYMPTOM 2266 2307	Patrón de llenado mitral con onda E única
+T19	SYMPTOM 4446 4501	imagen ecodensa mural en fondo de la aurícula izquierda
+T21	SYMPTOM 4589 4656	imagen ecodensa de gran tamaño en cara auricular de prótesis mitral
+T15	SYMPTOM 6742 6746	masa

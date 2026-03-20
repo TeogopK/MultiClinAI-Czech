@@ -1,0 +1,50 @@
+T49	DISEASE 81 95	drug allergies
+T48	DISEASE 98 104	Smoker
+T9	DISEASE 135 150	Obesity grade 2
+T10	DISEASE 156 175	high blood pressure
+T11	DISEASE 181 189	diabetes
+T12	DISEASE 192 212	Hypercholesterolemia
+T13	DISEASE 215 229	Hypothyroidism
+T14	DISEASE 232 260	Chronic venous insufficiency
+T15	DISEASE 263 292	Severe dorso-lumbar scoliosis
+T16	DISEASE 576 588	cardiomegaly
+T1	DISEASE 1051 1064	brain lesions
+T17	DISEASE 1236 1251	brain abscesses
+T3	DISEASE 1365 1472	Mitral valve with calcification in the posterior annulus, sclerosis and thickening of the posterior leaflet
+T23	DISEASE 1602 1636	mild-moderate mitral insufficiency
+T21	DISEASE 1659 1673	valvulopathies
+T22	DISEASE 1678 1698	pericardial effusion
+T24	DISEASE 1892 1921	Moderate mitral insufficiency
+T28	DISEASE 1984 2027	perforation of the posterior mitral leaflet
+T4	DISEASE 2033 2068	vegetation in the posterior leaflet
+T25	DISEASE 2167 2196	Moderate mitral insufficiency
+T5	DISEASE 2222 2269	medical renal disease with parenchymal scarring
+T29	DISEASE 2271 2287	Splenic infarcts
+T31	DISEASE 2289 2319	Thrombosis of the celiac trunk
+T39	DISEASE 2516 2563	septic shock, with acute oliguric renal failure
+T7	DISEASE 2618 2630	brain lesion
+T59	DISEASE 2787 2817	vegetation on the mitral valve
+T26	DISEASE 2933 2962	moderate mitral insufficiency
+T32	DISEASE 3021 3040	mitral endocarditis
+T18	DISEASE 3359 3374	brain abscesses
+T34	DISEASE 3581 3594	heart failure
+T60	DISEASE 3674 3712	septic embolism in the left lower limb
+T30	DISEASE 3840 3859	splenic infarctions
+T62	DISEASE 3879 3919	embolus at the level of the celiac trunk
+T19	DISEASE 4260 4275	brain abscesses
+T36	DISEASE 4424 4433	infection
+T37	DISEASE 4594 4646	emboligenic mitral endocarditis with brain abscesses
+T20	DISEASE 4648 4663	chronic anaemia
+T38	DISEASE 4665 4684	renal insufficiency
+T33	DISEASE 4938 4958	infectious condition
+T63	DISEASE 5095 5186	Endocarditis on native mitral valve, due to Sthaphylococcus aureus sensitive to cloxacillin
+T40	DISEASE 5201 5213	Septic shock
+T27	DISEASE 5245 5274	Moderate mitral regurgitation
+T81	DISEASE 5276 5324	Perforation of posterior leaflet of mitral valve
+T41	DISEASE 5327 5359	Renal failure of mixed aetiology
+T42	DISEASE 5374 5392	glomerulonephritis
+T43	DISEASE 5406 5430	Congestive heart failure
+T44	DISEASE 5433 5457	Cerebral septic embolism
+T45	DISEASE 5498 5530	Femoral arterial septic embolism
+T46	DISEASE 5579 5600	celiac trunk embolism
+T47	DISEASE 5603 5635	Splenic embolism with infarction

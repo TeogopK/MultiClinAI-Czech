@@ -1,0 +1,27 @@
+T1	SYMPTOM 714 751	test de isquemia que resulta positivo
+T2	SYMPTOM 1149 1201	Fracción de eyección del ventrículo izquierdo normal
+T4	SYMPTOM 1328 1340	asintomático
+T5	SYMPTOM 2249 2300	asintomático desde el punto de vista cardiovascular
+T6	SYMPTOM 2726 2755	Presión venosa yugular normal
+T7	SYMPTOM 2757 2787	Auscultación cardiaca: rítmica
+T8	SYMPTOM 2789 2815	ruidos protésicos normales
+T9	SYMPTOM 2840 2869	murmullo vesicular conservado
+T10	SYMPTOM 2871 2910	Abdomen blando, depresible, no doloroso
+T11	SYMPTOM 2925 2930	masas
+T12	SYMPTOM 2935 2943	megalias
+T13	SYMPTOM 2945 2978	Extremidades inferiores sin edema
+T14	SYMPTOM 2984 3025	pulsos periféricos presentes y simétricos
+T15	SYMPTOM 3130 3143	ritmo sinusal
+T16	SYMPTOM 3154 3164	Eje normal
+T17	SYMPTOM 3166 3175	PR normal
+T18	SYMPTOM 3177 3189	QRS estrecho
+T19	SYMPTOM 3195 3228	alteraciones de la repolarización
+T20	SYMPTOM 3271 3291	función renal normal
+T21	SYMPTOM 3412 3434	Transaminasas normales
+T22	SYMPTOM 3436 3445	CK normal
+T23	SYMPTOM 3447 3457	TSH normal
+T24	SYMPTOM 3868 3894	alto riesgo cardiovascular
+T25	SYMPTOM 4647 4696	Función sistólica del ventrículo izquierdo normal
+T95	SYMPTOM 1270 1288	disnea de esfuerzo
+T92	SYMPTOM 4726 4739	cLDL en rango
+T51	SYMPTOM 1584 1619	stents de DA media están permeables

@@ -1,0 +1,31 @@
+T60	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T61	PROCEDURE 283 319	tratamiento adyuvante quimioterápico
+T63	PROCEDURE 998 1016	electrocardiograma
+T64	PROCEDURE 1018 1021	ECG
+T66	PROCEDURE 1901 1904	ECG
+T67	PROCEDURE 1917 1976	coronariografía emergente con arterias coronarias ectásicas
+T68	PROCEDURE 2024 2035	aortografía
+T69	PROCEDURE 2140 2158	Exploración física
+T70	PROCEDURE 2301 2322	Auscultación cardiaca
+T71	PROCEDURE 2395 2420	Auscultación respiratoria
+T72	PROCEDURE 2556 2559	ECG
+T73	PROCEDURE 2698 2701	ECG
+T74	PROCEDURE 2864 2896	Radiografía de tórax portátil AP
+T75	PROCEDURE 3023 3042	Analítica sanguínea
+T76	PROCEDURE 3376 3390	PCR SARS-CoV-2
+T77	PROCEDURE 3449 3466	Perfil metabólico
+T78	PROCEDURE 3640 3649	Hemograma
+T79	PROCEDURE 3668 3683	Coronariografía
+T80	PROCEDURE 3855 3883	Ecocardiograma transtorácico
+T81	PROCEDURE 4267 4288	nitratos intravenosos
+T82	PROCEDURE 4684 4705	gastrectomía subtotal
+T1	PROCEDURE 380 392	esquema FLOT
+T9	PROCEDURE 3272 3291	Enzimas miocárdicas
+T28	PROCEDURE 3562 3578	Función hepática
+T96	PROCEDURE 3402 3420	Analítica completa
+T97	PROCEDURE 3011 3021	Analíticas
+T98	PROCEDURE 3779 3790	Aortografía
+T101	PROCEDURE 2535 2554	Electrocardiogramas
+T119	PROCEDURE 1747 1775	perfusión de 5-fluorouracilo
+T120	PROCEDURE 654 709	quimioterapia con 5-fluorouracilo en perfusión continua
+T62	PROCEDURE 1696 1716	activando código IAM

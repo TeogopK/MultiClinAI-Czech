@@ -1,0 +1,14 @@
+T1	SYMPTOM 1049 1055	disnea
+T2	SYMPTOM 1460 1492	edema de extremidades inferiores
+T3	SYMPTOM 784 801	debilidad general
+T4	SYMPTOM 930 937	cefalea
+T5	SYMPTOM 960 981	focalidad neurológica
+T6	SYMPTOM 663 682	cuadro respiratorio
+T7	SYMPTOM 2765 2814	estudio analíticos toxicológicos fueron negativos
+T8	SYMPTOM 543 556	fallecimiento
+T11	SYMPTOM 1090 1096	muerte
+T12	SYMPTOM 995 1016	murió de forma súbita
+A1	RESULTADO T7
+A2	EXITUS T8
+A3	EXITUS T11
+A4	EXITUS T12

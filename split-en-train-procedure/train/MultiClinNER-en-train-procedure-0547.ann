@@ -1,0 +1,15 @@
+T1	PROCEDURE 253 261	steroids
+T2	PROCEDURE 391 411	Physical examination
+T3	PROCEDURE 443 465	Pulmonary auscultation
+T13	PROCEDURE 505 516	Blood tests
+T4	PROCEDURE 631 651	Arterial blood gases
+T5	PROCEDURE 771 782	Chest X-ray
+T6	PROCEDURE 858 887	Computerised axial tomography
+T10	PROCEDURE 889 891	CT
+T11	PROCEDURE 1117 1119	CT
+T7	PROCEDURE 1224 1241	Fibrobronchoscopy
+T8	PROCEDURE 1277 1301	bronchoaspirate cytology
+T22	PROCEDURE 1324 1348	Sputum lowestein culture
+T23	PROCEDURE 1366 1380	fungal culture
+T24	PROCEDURE 1423 1430	CT scan
+T9	PROCEDURE 1575 1595	lung transplantation

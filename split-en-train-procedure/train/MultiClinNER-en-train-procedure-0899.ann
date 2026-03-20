@@ -1,0 +1,14 @@
+T20	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T21	PROCEDURE 315 335	physical examination
+T1	PROCEDURE 474 477	PCA
+T22	PROCEDURE 615 632	electrocardiogram
+T2	PROCEDURE 780 796	Laboratory tests
+T23	PROCEDURE 834 854	CT scan of the brain
+T3	PROCEDURE 1094 1101	CT scan
+T4	PROCEDURE 1274 1316	anticoagulant treatment with acenocoumarol
+T24	PROCEDURE 1361 1377	echocardiography
+T5	PROCEDURE 1509 1529	beta-blocker therapy
+T25	PROCEDURE 2153 2168	cardiac surgery
+T6	PROCEDURE 2447 2486	myxoma was removed from the left atrium
+T26	PROCEDURE 2563 2593	mitral and tricuspid anuplasty
+T27	PROCEDURE 2655 2676	Pathological analysis

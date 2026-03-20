@@ -1,0 +1,37 @@
+T1	SYMPTOM 630 650	progressive dyspnoea
+T2	SYMPTOM 791 800	diarrhoea
+T3	SYMPTOM 5599 5608	diarrhoea
+T5	SYMPTOM 851 859	dyspnoea
+T7	SYMPTOM 1015 1025	orthopnoea
+T8	SYMPTOM 1029 1058	paroxysmal nocturnal dyspnoea
+T9	SYMPTOM 1080 1085	cough
+T10	SYMPTOM 1087 1100	expectoration
+T11	SYMPTOM 1102 1107	fever
+T12	SYMPTOM 1111 1123	night sweats
+T13	SYMPTOM 1279 1312	increased jugular venous pressure
+T14	SYMPTOM 1422 1443	rhythmic heart sounds
+T15	SYMPTOM 1530 1562	oedema with fovea up to the knee
+T16	SYMPTOM 1613 1615	RS
+T17	SYMPTOM 2261 2313	left ventricle of normal size and preserved function
+T18	SYMPTOM 2459 2502	Right ventricle of normal size and function
+T19	SYMPTOM 4371 4380	dizziness
+T20	SYMPTOM 4681 4721	negative chronotropic medication washout
+T21	SYMPTOM 6518 6530	Thrombopenia
+T22	SYMPTOM 1984 2005	Interferon B negative
+T4	SYMPTOM 690 706	intense asthenia
+T23	SYMPTOM 708 728	generalised weakness
+T24	SYMPTOM 730 750	weight loss of 25 kg
+T25	SYMPTOM 946 971	oedema in the lower limbs
+T26	SYMPTOM 995 1013	central chest pain
+T6	SYMPTOM 1127 1136	bleeding.
+T27	SYMPTOM 1316 1327	flail chest
+T28	SYMPTOM 1451 1486	systolic murmur in the mitral focus
+T29	SYMPTOM 1491 1516	crackles in the left base
+T30	SYMPTOM 2080 2097	complement normal
+T31	SYMPTOM 2099 2122	tumour markers negative
+T32	SYMPTOM 2124 2141	Serology negative
+T33	SYMPTOM 2396 2431	pseudonormal mitral filling pattern
+T34	SYMPTOM 2900 2930	Myocardial thickness preserved
+T35	SYMPTOM 2932 2968	Perfusion study without alterations.
+T36	SYMPTOM 6214 6218	died
+T37	SYMPTOM 6375 6387	preserved EF

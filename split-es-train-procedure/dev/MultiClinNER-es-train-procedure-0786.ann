@@ -1,0 +1,48 @@
+T86	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T87	PROCEDURE 784 805	Polipectomía colónica
+T88	PROCEDURE 868 888	gastrectomía parcial
+T89	PROCEDURE 911 930	anexectomía parcial
+T90	PROCEDURE 1755 1773	Exploración física
+T91	PROCEDURE 1929 1950	Auscultación cardiaca
+T92	PROCEDURE 2007 2028	Auscultación pulmonar
+T93	PROCEDURE 2252 2270	Electrocardiograma
+T94	PROCEDURE 2272 2275	ECG
+T95	PROCEDURE 2400 2419	Analítica sanguínea
+T96	PROCEDURE 2686 2701	Perfil lipídico
+T97	PROCEDURE 2927 2936	Hemograma
+T98	PROCEDURE 3042 3053	Coagulación
+T99	PROCEDURE 3343 3356	Proteinograma
+T100	PROCEDURE 4030 4065	Radiografía de tórax (PA y lateral)
+T101	PROCEDURE 4230 4258	Ecocardiograma transtorácico
+T102	PROCEDURE 4868 4897	Resonancia magnética cardiaca
+T103	PROCEDURE 5479 5519	administración del contraste intravenoso
+T104	PROCEDURE 5773 5812	Gammagrafía miocárdica con difosfonatos
+T105	PROCEDURE 5915 5935	Cateterismo cardiaco
+T106	PROCEDURE 6005 6057	Punción con aguja fina de grasa subcutánea abdominal
+T107	PROCEDURE 6222 6240	Inmunohistoquímica
+T108	PROCEDURE 6337 6363	estudio inmunohistoquímico
+T109	PROCEDURE 6769 6783	ecocardiograma
+T110	PROCEDURE 6857 6877	resonancia magnética
+T111	PROCEDURE 6879 6899	gammagrafía cardiaca
+T112	PROCEDURE 7027 7064	punción de grasa subcutánea abdominal
+T113	PROCEDURE 7127 7160	tratamiento diurético intravenoso
+T114	PROCEDURE 7216 7234	electrocardiograma
+T115	PROCEDURE 7642 7662	cateterismo cardiaco
+T116	PROCEDURE 8339 8382	anticoagulación con heparina y acenocumarol
+T117	PROCEDURE 8434 8446	gastroscopia
+T118	PROCEDURE 8474 8486	colonoscopia
+T119	PROCEDURE 8611 8625	rehabilitación
+T120	PROCEDURE 8723 8752	cierre percutáneo de orejuela
+T133	PROCEDURE 2421 2431	Bioquímica
+T135	PROCEDURE 3123 3139	Inmunoglobulinas
+T136	PROCEDURE 7319 7333	betabloqueante
+T137	PROCEDURE 708 719	hematología
+T138	PROCEDURE 7001 7012	hematología
+T139	PROCEDURE 7861 7872	hematología
+T140	PROCEDURE 8023 8034	hematología
+T141	PROCEDURE 605 646	hipotiroidismo en tratamiento sustitutivo
+T142	PROCEDURE 2842 2855	Ferrocinética
+T143	PROCEDURE 3536 3553	Orina de 24 horas
+T144	PROCEDURE 3598 3621	Proteínas cuantitativas
+T145	PROCEDURE 6902 6935	cadenas ligeras en plasma y orina
+T198	PROCEDURE 6131 6152	tinción de rojo Congo

@@ -1,0 +1,92 @@
+T55	DISEASE 87 98	presbycusis
+T56	DISEASE 136 145	Ex-smoker
+T57	DISEASE 215 256	Bilateral profound sensorineural deafness
+T58	DISEASE 360 386	ventricular pre-excitation
+T20	DISEASE 1534 1613	distal ulcers in the second, third, fourth and fifth phalanx of the lower limbs
+T59	DISEASE 1627 1647	deep vein thrombosis
+T60	DISEASE 1649 1652	DVT
+T151	DISEASE 2145 2157	cardiomegaly
+T61	DISEASE 2741 2756	apical thrombus
+T63	DISEASE 3012 3057	Secondary mild-moderate central insufficiency
+T64	DISEASE 3157 3180	tricuspid insufficiency
+T66	DISEASE 3296 3316	pericardial effusion
+T62	DISEASE 3440 3455	Apical thrombus
+T21	DISEASE 3769 3830	non-significant stenosis of distal anterior descending artery
+T69	DISEASE 5228 5253	intraventricular thrombus
+T147	DISEASE 5255 5283	Slightly dilated left atrium
+T148	DISEASE 5413 5442	Slightly dilated right atrium
+T22	DISEASE 5444 5501	Thin leaflet aortic valve with mild central regurgitation
+T23	DISEASE 5503 5552	Mitral valve with diffuse mild leaflet thickening
+T24	DISEASE 5679 5762	Tricuspid valve with fine leaflets, good opening and moderate central insufficiency
+T149	DISEASE 5827 5853	Dilated inferior vena cava
+T67	DISEASE 5892 5912	pericardial effusion
+T73	DISEASE 6290 6327	Moderate central mitral regurgitation
+T74	DISEASE 6334 6356	pulmonary hypertension
+T146	DISEASE 6359 6372	Thrombophilia
+T53	DISEASE 7417 7438	diastolic dysfunction
+T78	DISEASE 7473 7481	thrombus
+T25	DISEASE 7561 7600	Moderate secondary mitral insufficiency
+T26	DISEASE 7602 7632	Severe tricuspid insufficiency
+T27	DISEASE 7650 7721	cervical, supraclavicular or mediastinal hypercapillary lymphadenopathy
+T28	DISEASE 7758 7780	lymph node sarcoidosis
+T29	DISEASE 7795 7812	pulmonary lesions
+T84	DISEASE 7827 7848	pulmonary sarcoidosis
+T30	DISEASE 7853 7884	pleural or pericardial effusion
+T85	DISEASE 7927 7936	pleuritis
+T150	DISEASE 7940 7952	pericarditis
+T86	DISEASE 8069 8091	dilated cardiomyopathy
+T31	DISEASE 8208 8252	pulmonary, lymph node or cardiac sarcoidosis
+T88	DISEASE 8274 8288	cardiomyopathy
+T32	DISEASE 8516 8560	cardiomyopathy due to TTR amyloid deposition
+T93	DISEASE 9191 9212	mitochondrial disease
+T95	DISEASE 9271 9310	mitochondrial encephalopathy type MELAS
+T33	DISEASE 9663 9694	disease of mitochondrial origin
+T96	DISEASE 9769 9782	heart failure
+T145	DISEASE 9845 9856	hypotension
+T144	DISEASE 9861 9885	peripheral hypoperfusion
+T98	DISEASE 10212 10229	cardiogenic shock
+T101	DISEASE 10363 10404	severe biventricular systolic dysfunction
+T102	DISEASE 10421 10458	severe secondary mitral regurgitation
+T103	DISEASE 10466 10493	apical ventricular thrombus
+T34	DISEASE 10635 10658	coronary artery disease
+T99	DISEASE 10688 10705	cardiogenic shock
+T104	DISEASE 10733 10750	acute myocarditis
+T106	DISEASE 11691 11720	ventricular thrombus embolism
+T108	DISEASE 11745 11756	myocarditis
+T70	DISEASE 12561 12586	intraventricular thrombus
+T35	DISEASE 12628 12672	concentric hypertrophy of the left ventricle
+T54	DISEASE 12781 12802	diastolic dysfunction
+T112	DISEASE 12923 12943	mitral insufficiency
+T113	DISEASE 13139 13158	autoimmune diseases
+T114	DISEASE 13195 13217	prothrombotic diseases
+T115	DISEASE 13409 13428	cardiac amyloidosis
+T116	DISEASE 13647 13691	familial or senile transthyretin amyloidosis
+T118	DISEASE 13815 13834	cardiac sarcoidosis
+T123	DISEASE 14120 14131	sarcoidosis
+T124	DISEASE 14197 14213	haemochromatosis
+T125	DISEASE 14290 14306	Wilson's disease
+T36	DISEASE 14311 14326	Fabry's disease
+T90	DISEASE 14446 14460	cardiomyopathy
+T71	DISEASE 14803 14828	intraventricular thrombus
+T97	DISEASE 14920 14933	heart failure
+T139	DISEASE 15051 15064	heart disease
+T91	DISEASE 15110 15124	cardiomyopathy
+T126	DISEASE 15216 15242	sensorineural hearing loss
+T127	DISEASE 15247 15277	Wolff-Parkinson-White syndrome
+T37	DISEASE 15324 15351	mitochondrial MELAS disease
+T129	DISEASE 15338 15343	MELAS
+T133	DISEASE 15568 15590	mitochondrial diseases
+T134	DISEASE 15615 15629	MELAS syndrome
+T136	DISEASE 15631 15659	mitochondrial encephalopathy
+T137	DISEASE 15661 15676	lactic acidosis
+T138	DISEASE 15681 15701	stroke-like episodes
+T109	DISEASE 15817 15828	myocarditis
+T39	DISEASE 16106 16123	acute myocarditis
+T40	DISEASE 16138 16151	heart disease
+T41	DISEASE 16166 16183	cardiogenic shock
+T131	DISEASE 16211 16216	MELAS
+T94	DISEASE 16217 16238	mitochondrial disease
+T141	DISEASE 16279 16325	Hypertrophic cardiomyopathy secondary to MELAS
+T38	DISEASE 16327 16358	WPW syndrome (left latera tract
+T142	DISEASE 16361 16396	Recurrent intraventricular thrombus
+T143	DISEASE 16361 16421	Recurrent intraventricular thrombus with peripheral embolism

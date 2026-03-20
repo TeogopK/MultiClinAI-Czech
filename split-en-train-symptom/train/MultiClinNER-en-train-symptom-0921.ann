@@ -1,0 +1,38 @@
+T1	SYMPTOM 529 539	orthopnoea
+T2	SYMPTOM 541 549	oliguria
+T3	SYMPTOM 634 644	chest pain
+T4	SYMPTOM 646 658	palpitations
+T5	SYMPTOM 660 669	dizziness
+T6	SYMPTOM 705 721	febrile syndrome
+T7	SYMPTOM 833 841	afebrile
+T8	SYMPTOM 913 929	bibasal crackles
+T9	SYMPTOM 936 974	diastolic murmur II/IV at mitral level
+T10	SYMPTOM 1031 1078	lower extremities with oedema with distal fovea
+T11	SYMPTOM 1165 1177	sinus rhythm
+T12	SYMPTOM 1189 1198	normal PR
+T13	SYMPTOM 1263 1273	Narrow QRS
+T14	SYMPTOM 1382 1405	vascular redistribution
+T15	SYMPTOM 1650 1677	Normal liver function tests
+T16	SYMPTOM 2417 2465	left ventricle (LV) of normal size and thickness
+T17	SYMPTOM 2472 2486	preserved LVEF
+T21	SYMPTOM 3396 3400	mass
+T24	SYMPTOM 4380 4384	mass
+T25	SYMPTOM 4847 4851	mass
+T28	SYMPTOM 3644 3652	dyspnoea
+T29	SYMPTOM 4146 4188	giant pedunculated mass in the left atrium
+T30	SYMPTOM 2501 2538	segmental contractility abnormalities
+T31	SYMPTOM 2540 2588	Right ventricle (RV) of normal size and function
+T32	SYMPTOM 4692 4730	mitral valve is morphologically normal
+T27	SYMPTOM 433 461	moderate exertional dyspnoea
+T33	SYMPTOM 572 609	progressive oedema in the lower limbs
+T34	SYMPTOM 846 853	eupneic
+T35	SYMPTOM 1299 1325	repolarisation alterations
+T36	SYMPTOM 1340 1367	normal cardiothoracic index
+T37	SYMPTOM 1679 1702	Thyroid hormones normal
+T18	SYMPTOM 2043 2129	well-defined hypodense mass measuring 5 x 4 cm located at the level of the left atrium
+T38	SYMPTOM 2322 2365	thickening of interlobular septa compatible
+T19	SYMPTOM 2613 2673	left atrial dilatation with a large round heterogeneous mass
+T39	SYMPTOM 2925 2983	Aortic and tricuspid valve without significant dysfunction
+T20	SYMPTOM 3018 3043	rounded intra-atrial mass
+T22	SYMPTOM 3824 3856	striking mass in the left atrium
+T23	SYMPTOM 4406 4412	tumour

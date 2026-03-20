@@ -1,0 +1,42 @@
+T62	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 273 282	brain MRI
+T92	PROCEDURE 345 367	surgical interventions
+T91	PROCEDURE 761 813	basic cardiopulmonary resuscitation (CPR) manoeuvres
+T59	PROCEDURE 798 801	CPR
+T2	PROCEDURE 920 961	A single effective shock was administered
+T3	PROCEDURE 1055 1080	sedated and anaesthetised
+T60	PROCEDURE 1087 1109	orotracheal intubation
+T61	PROCEDURE 1113 1135	mechanical ventilation
+T89	PROCEDURE 1172 1178	amines
+T63	PROCEDURE 1181 1201	PHYSICAL EXAMINATION
+T88	PROCEDURE 1285 1296	Vital signs
+T64	PROCEDURE 1478 1498	Cardiac auscultation
+T65	PROCEDURE 1521 1543	Pulmonary auscultation
+T66	PROCEDURE 1880 1897	Electrocardiogram
+T69	PROCEDURE 1899 1902	ECG
+T4	PROCEDURE 2003 2014	blood tests
+T5	PROCEDURE 2247 2272	Myocardial damage markers
+T70	PROCEDURE 2300 2311	Chest X-ray
+T79	PROCEDURE 2424 2452	Transthoracic echocardiogram
+T72	PROCEDURE 2917 2928	Exploration
+T73	PROCEDURE 2946 2966	Coronary angiography
+T75	PROCEDURE 3307 3330	Coronary CT angiography
+T76	PROCEDURE 3855 3864	ergometry
+T67	PROCEDURE 4068 4085	electrocardiogram
+T80	PROCEDURE 4180 4215	Post-surgical stress echocardiogram
+T78	PROCEDURE 4217 4243	cycloergometer stress test
+T68	PROCEDURE 4713 4730	electrocardiogram
+T81	PROCEDURE 4825 4839	echocardiogram
+T71	PROCEDURE 5002 5013	chest X-ray
+T12	PROCEDURE 5038 5065	Arterial blood gas analysis
+T13	PROCEDURE 5153 5178	brain computed tomography
+T14	PROCEDURE 5180 5182	CT
+T74	PROCEDURE 5326 5346	coronary angiography
+T90	PROCEDURE 5624 5630	amines
+T83	PROCEDURE 5699 5706	weaning
+T84	PROCEDURE 5718 5728	extubation
+T17	PROCEDURE 5809 5836	CT of the coronary arteries
+T20	PROCEDURE 6140 6268	double bypass implantation: right mammary artery to obtuse marginal artery and left mammary artery to anterior descending artery
+T77	PROCEDURE 6397 6406	Ergometry
+T86	PROCEDURE 6411 6434	stress echocardiography
+T87	PROCEDURE 6702 6747	Surgical revascularisation with double bypass

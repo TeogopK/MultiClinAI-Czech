@@ -1,0 +1,24 @@
+T1	SYMPTOM 168 183	general malaise
+T2	SYMPTOM 185 190	fever
+T3	SYMPTOM 195 204	diarrhoea
+T4	SYMPTOM 230 253	Tingling in acral areas
+T5	SYMPTOM 255 276	Oppressive chest pain
+T6	SYMPTOM 336 353	vegetative cortex
+T16	SYMPTOM 468 474	Stable
+T18	SYMPTOM 476 518	good oxygenation and ventilatory mechanics
+T7	SYMPTOM 520 533	Acp: rhythmic
+T8	SYMPTOM 538 545	murmurs
+T9	SYMPTOM 550 558	friction
+T21	SYMPTOM 564 567	CVM
+T22	SYMPTOM 681 699	coagulation normal
+T10	SYMPTOM 793 812	Chest X-ray: normal
+T11	SYMPTOM 835 847	sinus rhythm
+T12	SYMPTOM 857 909	ST elevation in inf and lat leads (V4-V6, I and aVL)
+T13	SYMPTOM 947 959	ST elevation
+T23	SYMPTOM 992 1015	normal cardiac cavities
+T14	SYMPTOM 1017 1028	Normal LVEF
+T24	SYMPTOM 1044 1085	alterations in segmental contractility AV
+T19	SYMPTOM 1137 1163	Normal aortic root and IVC
+T15	SYMPTOM 1405 1417	Asymptomatic
+T17	SYMPTOM 1435 1441	stable
+T20	SYMPTOM 1609 1636	Preserved systolic function

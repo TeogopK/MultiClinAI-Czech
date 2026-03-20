@@ -1,0 +1,70 @@
+T1	SYMPTOM 84 98	picos febriles
+T2	SYMPTOM 103 111	tiritona
+T3	SYMPTOM 113 128	astenia intensa
+T4	SYMPTOM 130 139	hiporexia
+T5	SYMPTOM 142 165	pérdida de 7 kg de peso
+T6	SYMPTOM 828 834	fiebre
+T7	SYMPTOM 949 962	afasia motora
+T9	SYMPTOM 993 1030	pérdida de fuerza de miembro superior
+T11	SYMPTOM 1108 1146	debilidad residual en miembro superior
+T12	SYMPTOM 1322 1332	Consciente
+T13	SYMPTOM 1334 1343	orientada
+T14	SYMPTOM 1416 1440	tonos cardiacos rítmicos
+T15	SYMPTOM 1451 1532	soplo pansistólico de intensidad III/VI a nivel de foco mitral, irradiado a axila
+T16	SYMPTOM 1557 1586	murmullo vesicular conservado
+T17	SYMPTOM 1588 1643	Abdomen: blando, depresible, no doloroso a la palpación
+T18	SYMPTOM 1658 1663	masas
+T19	SYMPTOM 1667 1675	megalias
+T21	SYMPTOM 1801 1823	Afasia motora muy leve
+T22	SYMPTOM 1862 1889	paresia de miembro superior
+T23	SYMPTOM 1964 1984	Función renal normal
+T24	SYMPTOM 2126 2149	Función hepática normal
+T25	SYMPTOM 2357 2370	Ritmo sinusal
+T26	SYMPTOM 2381 2390	PR normal
+T27	SYMPTOM 2392 2402	QRS normal
+T28	SYMPTOM 2417 2450	alteraciones de la repolarización
+T30	SYMPTOM 2934 3001	Doppler transcraneal y eco-doppler de troncos supraaórticos: Normal
+T31	SYMPTOM 3020 3097	Punción lumbar: Bioquímica de líquido cefalorraquídeo (LCR): Sin alteraciones
+T32	SYMPTOM 3099 3149	Serología LCR: Lúes, Borrelia y Brucella negativos
+T33	SYMPTOM 3214 3275	DNA de virus herpes simple y varicela zoster por PCR negativo
+T34	SYMPTOM 3689 3709	Urocultivo: Negativo
+T38	SYMPTOM 4213 4243	presión telediastólica elevada
+T39	SYMPTOM 4245 4275	Válvula y flujo aórtico normal
+T40	SYMPTOM 4277 4309	Raíz aórtica de dimensión normal
+T42	SYMPTOM 5058 5083	hemodinámicamente estable
+T43	SYMPTOM 5132 5142	normotensa
+T44	SYMPTOM 5148 5161	ritmo sinusal
+T45	SYMPTOM 5176 5200	Función renal conservada
+T48	SYMPTOM 6071 6077	fiebre
+T49	SYMPTOM 6460 6466	fiebre
+T50	SYMPTOM 7201 7221	función renal normal
+T51	SYMPTOM 7236 7242	fiebre
+T170	SYMPTOM 2022 2036	iones normales
+T152	SYMPTOM 569 581	leucocituria
+T29	SYMPTOM 7646 7675	normofunción protésica mitral
+T171	SYMPTOM 7727 7739	Asintomática
+T172	SYMPTOM 3820 3850	Aurícula izquierda no dilatada
+T176	SYMPTOM 4311 4338	Cavidades derechas normales
+T177	SYMPTOM 1677 1712	Extremidades inferiores: sin edemas
+T184	SYMPTOM 2467 2510	Silueta cardiomediastínica sin alteraciones
+T186	SYMPTOM 3761 3808	Ventrículo izquierdo no dilatado, hiperdinámico
+T190	SYMPTOM 1045 1064	clínica neurológica
+T191	SYMPTOM 2632 2665	desplazamientos de la línea media
+T201	SYMPTOM 7389 7442	microbiología negativa en muestra de válvula cardiaca
+T209	SYMPTOM 4645 4669	repercusión hemodinámica
+T210	SYMPTOM 8066 8090	repercusión hemodinámica
+T36	SYMPTOM 1345 1353	reactiva
+T37	SYMPTOM 1355 1365	perceptiva
+T41	SYMPTOM 2516 2547	hallazgos pleuroparenquimatosos
+T46	SYMPTOM 2725 2773	Sistema cisternal y ventricular sin alteraciones
+T47	SYMPTOM 3170 3212	Gram de LCR no se observan microorganismos
+T54	SYMPTOM 3446 3496	Hemocultivos: Cocobacilos grampositivos en cadenas
+T153	SYMPTOM 3544 3591	aislamiento finalmente de Abiotrophia defectiva
+T154	SYMPTOM 3911 3969	Imagen de 8x6 mm en cúspide de festón A1 del velo anterior
+T155	SYMPTOM 4131 4168	invierte el flujo en venas pulmonares
+T156	SYMPTOM 4170 4199	Patrón de llenado restrictivo
+T157	SYMPTOM 4887 4913	estudio neurológico normal
+T81	SYMPTOM 5772 5838	hallazgos en hemocultivos de cocobacilos gram positivos en cadenas
+T88	SYMPTOM 6087 6156	identificado el germen en los hemocultivos como abiotrophia defectiva
+T75	SYMPTOM 7463 7527	hemocultivos de control tras 48 horas (que resultaron negativos)
+T141	SYMPTOM 7742 7749	estable

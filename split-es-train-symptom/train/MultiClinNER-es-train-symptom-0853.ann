@@ -1,0 +1,44 @@
+T1	SYMPTOM 721 746	dolor precordial opresivo
+T3	SYMPTOM 768 786	cortejo vegetativo
+T4	SYMPTOM 1193 1203	consciente
+T5	SYMPTOM 1205 1214	orientada
+T6	SYMPTOM 1216 1234	eupneica en reposo
+T7	SYMPTOM 1240 1261	ingurgitación yugular
+T8	SYMPTOM 1263 1304	Auscultación cardiaca con tonos regulares
+T9	SYMPTOM 1309 1315	soplos
+T10	SYMPTOM 1343 1372	murmullo vesicular conservado
+T12	SYMPTOM 1388 1435	Pulsos radiales y pedios presentes y simétricos
+T13	SYMPTOM 1449 1465	edema periférico
+T14	SYMPTOM 1537 1542	dolor
+T15	SYMPTOM 1544 1557	ritmo sinusal
+T16	SYMPTOM 1579 1591	QRS estrecho
+T17	SYMPTOM 1608 1656	infradesnivel del segmento ST < 0,5mm en V4 a V6
+T18	SYMPTOM 1658 1675	T aplanada en III
+T19	SYMPTOM 1687 1692	dolor
+T20	SYMPTOM 1694 1707	ritmo sinusal
+T21	SYMPTOM 1729 1741	QRS estrecho
+T23	SYMPTOM 1795 1837	T bifásica de V2 a V5, negativa en I y aVL
+T24	SYMPTOM 1861 1894	silueta cardiomediastínica normal
+T26	SYMPTOM 2200 2244	bioquímica, hemograma y coagulación anodinas
+T27	SYMPTOM 2277 2309	ventrículo izquierdo no dilatado
+T28	SYMPTOM 2314 2329	FEVI conservada
+T29	SYMPTOM 2376 2434	Ventrículo derecho no dilatado con buena función sistólica
+T31	SYMPTOM 2910 2915	dolor
+T32	SYMPTOM 3296 3312	dolor precordial
+T33	SYMPTOM 3340 3380	aumento de marcadores de daño miocárdico
+T34	SYMPTOM 3437 3442	dolor
+T36	SYMPTOM 3863 3887	estabilidad hemodinámica
+T37	SYMPTOM 3909 3914	dolor
+T38	SYMPTOM 4218 4242	dolor precordial intenso
+T39	SYMPTOM 4257 4279	deterioro hemodinámico
+T40	SYMPTOM 4284 4295	hipotensión
+T41	SYMPTOM 4343 4365	deterioro respiratorio
+T42	SYMPTOM 4461 4503	elevación de marcadores de daño miocárdico
+T44	SYMPTOM 6025 6064	depresión grave de su función sistólica
+T11	SYMPTOM 2332 2374	hipoquinesia anterior a nivel medio-apical
+T22	SYMPTOM 3508 3537	supradesnivel del segmento ST
+T25	SYMPTOM 4548 4577	supradesnivel del segmento ST
+T43	SYMPTOM 6089 6134	alteraciones de la contractilidad segmentaria
+T120	SYMPTOM 1912 1925	consolidación
+T109	SYMPTOM 2581 2646	disminución brusca del calibre de la arteria descendente anterior
+T110	SYMPTOM 3085 3101	clínica anginosa

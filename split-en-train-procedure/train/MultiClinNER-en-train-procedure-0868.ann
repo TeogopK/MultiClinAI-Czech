@@ -1,0 +1,39 @@
+T54	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 405 461	aortic valve replacement (St Jude Regent No19 prosthesis
+T43	PROCEDURE 473 494	ascending aorta graft
+T44	PROCEDURE 637 651	echocardiogram
+T2	PROCEDURE 1083 1109	magnetic resonance imaging
+T74	PROCEDURE 1111 1114	MRI
+T3	PROCEDURE 1171 1196	Gastric bypass (Roux-en-Y
+T50	PROCEDURE 1202 1215	eventroplasty
+T51	PROCEDURE 1259 1274	Cholecystectomy
+T52	PROCEDURE 1279 1291	hysterectomy
+T53	PROCEDURE 1966 1981	anticoagulation
+T55	PROCEDURE 2021 2041	Physical examination
+T73	PROCEDURE 2042 2053	Vital signs
+T56	PROCEDURE 2174 2194	Cardiac auscultation
+T57	PROCEDURE 2289 2311	Pulmonary auscultation
+T4	PROCEDURE 2445 2448	CBC
+T72	PROCEDURE 2523 2535	Biochemistry
+T58	PROCEDURE 2633 2644	Coagulation
+T5	PROCEDURE 2656 2674	Arterial blood gas
+T59	PROCEDURE 2728 2745	Electrocardiogram
+T60	PROCEDURE 2747 2750	ECG
+T61	PROCEDURE 2823 2834	Chest X-ray
+T6	PROCEDURE 2865 2882	Middle sternotomy
+T63	PROCEDURE 2934 2964	Angio-CT of pulmonary arteries
+T64	PROCEDURE 3011 3039	Transthoracic echocardiogram
+T66	PROCEDURE 3452 3463	Fluoroscopy
+T68	PROCEDURE 3517 3547	Transesophageal echocardiogram
+T62	PROCEDURE 4004 4015	chest X-ray
+T7	PROCEDURE 4071 4110	angio-CT scan of the pulmonary arteries
+T65	PROCEDURE 4258 4286	transthoracic echocardiogram
+T67	PROCEDURE 4432 4443	fluoroscopy
+T69	PROCEDURE 4526 4556	transesophageal echocardiogram
+T70	PROCEDURE 4792 4810	diuretic treatment
+T71	PROCEDURE 4833 4848	cardiac surgery
+T76	PROCEDURE 4897 4921	aortic valve replacement
+T9	PROCEDURE 5057 5102	ATS No 18 mechanical prosthesis was implanted
+T8	PROCEDURE 5131 5165	implanting a biological prosthesis
+T49	PROCEDURE 5326 5340	echocardiogram
+T17	PROCEDURE 5601 5651	Implantation of a mechanical aortic prosthesis ATS

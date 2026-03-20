@@ -1,0 +1,36 @@
+T1	SYMPTOM 125 139	abdominal pain
+T2	SYMPTOM 144 153	diarrhoea
+T19	SYMPTOM 984 1016	generalised tonic-clonic seizure
+T10	SYMPTOM 1044 1066	sphincter incontinence
+T5	SYMPTOM 1233 1279	glucose and sodium within the reference values
+T6	SYMPTOM 1297 1358	cranial CAT scan was performed, which showed no abnormalities
+T11	SYMPTOM 1414 1433	normal sinus rhythm
+T28	SYMPTOM 1453 1478	QT or PR space elongation
+T20	SYMPTOM 1522 1554	generalised tonic-clonic seizure
+T32	SYMPTOM 1628 1692	electroencephalogram was performed with no pathological findings
+T12	SYMPTOM 1764 1772	seizures
+T29	SYMPTOM 1830 1914	24-hour electroencephalographic recording was performed, which showed no alterations
+T21	SYMPTOM 1955 1966	dehydration
+T14	SYMPTOM 1996 2012	decreased intake
+T15	SYMPTOM 2017 2025	asthenia
+T35	SYMPTOM 2150 2180	paresthesia in the lower limbs
+T36	SYMPTOM 2227 2235	pruritus
+T24	SYMPTOM 2294 2313	convulsive episodes
+T4	SYMPTOM 2512 2530	convulsive episode
+T37	SYMPTOM 2672 2691	weight loss of 7 kg
+T22	SYMPTOM 2822 2856	mild cutaneous-mucosal dehydration
+T3	SYMPTOM 2863 2903	moderate decrease in fat and muscle mass
+T8	SYMPTOM 3099 3130	physical examination was normal
+T25	SYMPTOM 3158 3171	hypocalcaemia
+T26	SYMPTOM 3175 3190	hypomagnesaemia
+T30	SYMPTOM 3199 3214	Trosseau's sign
+T31	SYMPTOM 3216 3231	Chovstek's sign
+T17	SYMPTOM 3233 3246	muscle spasms
+T16	SYMPTOM 3248 3254	tremor
+T9	SYMPTOM 3258 3277	tendon hyporeflexia
+T23	SYMPTOM 3526 3537	dehydration
+T27	SYMPTOM 3543 3566	negative water balances
+T18	SYMPTOM 3602 3630	low blood electrolyte levels
+T7	SYMPTOM 3931 3938	seizure
+T44	SYMPTOM 4044 4113	phosphorus, calcium, potassium and sodium within the reference values
+T13	SYMPTOM 4484 4492	seizures

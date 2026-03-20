@@ -1,0 +1,24 @@
+T1	SYMPTOM 149 178	riñón izquierdo con estenosis
+T2	SYMPTOM 1009 1043	dolor intenso súbito en fosa renal
+T3	SYMPTOM 1081 1098	cuadro vegetativo
+T4	SYMPTOM 1101 1112	oligoanuria
+T5	SYMPTOM 1149 1184	dolor torácico, irradiado a espalda
+T6	SYMPTOM 1222 1255	elevación de marcadores cardíacos
+T7	SYMPTOM 1605 1632	inestable hemodinámicamente
+T8	SYMPTOM 1691 1697	anuria
+T9	SYMPTOM 1703 1731	aumento de urea y creatinina
+T10	SYMPTOM 1863 1869	anuria
+T11	SYMPTOM 1980 2010	alteraciones de la coagulación
+T12	SYMPTOM 2585 2594	monorrena
+T13	SYMPTOM 2028 2043	sangrado activo
+T14	SYMPTOM 279 298	diuresis conservada
+T15	SYMPTOM 920 945	estable hemodinámicamente
+T16	SYMPTOM 951 969	diuresis mantenida
+T17	SYMPTOM 1874 1912	cifras en ascenso de urea y creatinina
+T18	SYMPTOM 2614 2620	éxitus
+T20	SYMPTOM 2053 2070	deterioro clínico
+A1	RESULTADO T6
+A2	RESULTADO T9
+A3	RESULTADO T11
+A4	RESULTADO T17
+A5	EXITUS T18

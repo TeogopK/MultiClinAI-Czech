@@ -1,0 +1,84 @@
+T1	SYMPTOM 212 221	dyspepsia
+T2	SYMPTOM 8457 8466	dyspepsia
+T3	SYMPTOM 10924 10933	dyspepsia
+T4	SYMPTOM 499 509	chest pain
+T5	SYMPTOM 558 568	chest pain
+T6	SYMPTOM 798 808	chest pain
+T7	SYMPTOM 8967 8977	chest pain
+T8	SYMPTOM 9416 9426	chest pain
+T9	SYMPTOM 10241 10251	chest pain
+T10	SYMPTOM 864 869	cough
+T11	SYMPTOM 9658 9663	cough
+T12	SYMPTOM 874 895	whitish expectoration
+T13	SYMPTOM 9669 9690	whitish expectoration
+T14	SYMPTOM 972 994	Good general condition
+T15	SYMPTOM 1351 1373	Good general condition
+T16	SYMPTOM 996 1009	normohydrated
+T17	SYMPTOM 1375 1388	normohydrated
+T18	SYMPTOM 1026 1041	eupneic at rest
+T19	SYMPTOM 1405 1420	eupneic at rest
+T20	SYMPTOM 1050 1079	signs of respiratory distress
+T21	SYMPTOM 1429 1458	signs of respiratory distress
+T22	SYMPTOM 1108 1128	rhythmic heart tones
+T23	SYMPTOM 1543 1563	rhythmic heart tones
+T24	SYMPTOM 1137 1144	murmurs
+T25	SYMPTOM 1580 1587	murmurs
+T26	SYMPTOM 1270 1276	oedema
+T27	SYMPTOM 1828 1834	oedema
+T28	SYMPTOM 1589 1615	Decreased vesicular murmur
+T29	SYMPTOM 1617 1633	bibasal crackles
+T30	SYMPTOM 1711 1720	megaliths
+T31	SYMPTOM 1725 1735	peritonism
+T32	SYMPTOM 1737 1772	Blumberg, psoas and Murphy negative
+T33	SYMPTOM 2002 2014	sinus rhythm
+T34	SYMPTOM 3235 3247	sinus rhythm
+T35	SYMPTOM 3389 3401	sinus rhythm
+T36	SYMPTOM 4379 4391	sinus rhythm
+T37	SYMPTOM 6582 6594	sinus rhythm
+T38	SYMPTOM 3272 3283	Normal axis
+T40	SYMPTOM 4167 4216	non-dilated left ventricle with apical dyskinesia
+T41	SYMPTOM 4887 4906	Legionella negative
+T42	SYMPTOM 4908 4945	Ag streptococcus pneumoniane negative
+T43	SYMPTOM 4947 4997	Sputum culture: development of oropharyngeal flora
+T44	SYMPTOM 5846 5864	Normal left atrium
+T46	SYMPTOM 5933 5952	Normal right atrium
+T47	SYMPTOM 6485 6503	Normal coagulation
+T48	SYMPTOM 7090 7128	Moderately depressed ejection fraction
+T49	SYMPTOM 7241 7278	Normal left atrium and right chambers
+T50	SYMPTOM 7602 7610	sweating
+T54	SYMPTOM 7566 7570	pain
+T55	SYMPTOM 7774 7778	pain
+T57	SYMPTOM 9219 9223	pain
+T62	SYMPTOM 9564 9592	dyspnoea on minimal exertion
+T63	SYMPTOM 9594 9604	orthopnoea
+T64	SYMPTOM 9609 9638	paroxysmal nocturnal dyspnoea
+T65	SYMPTOM 9712 9717	fever
+T66	SYMPTOM 1463 1490	does not tolerate decubitus
+T67	SYMPTOM 7443 7468	Normal inferior vena cava
+T51	SYMPTOM 1011 1024	normal colour
+T52	SYMPTOM 1146 1172	Vesicular murmur preserved
+T53	SYMPTOM 1178 1200	bibasal moist crackles
+T60	SYMPTOM 1202 1241	Abdomen: soft, depressible, non-painful
+T69	SYMPTOM 1390 1403	normal colour
+T61	SYMPTOM 1638 1656	scattered rhonchi.
+T70	SYMPTOM 1657 1696	Abdomen: soft, depressible, non-painful
+T71	SYMPTOM 1774 1803	Preserved hydro-aerial sounds
+T72	SYMPTOM 1805 1817	PPR negative
+T73	SYMPTOM 1869 1912	Peripheral pulses preserved and symmetrical
+T74	SYMPTOM 2097 2113	negative T waves
+T75	SYMPTOM 2020 2040	ST segment elevation
+T76	SYMPTOM 3299 3319	ST segment elevation
+T39	SYMPTOM 3507 3523	negative T waves
+T77	SYMPTOM 3693 3704	Ions normal
+T78	SYMPTOM 3706 3727	Liver function normal
+T79	SYMPTOM 3986 4038	cardiothoracic index at the upper limit of normality
+T80	SYMPTOM 4119 4130	infiltrates
+T81	SYMPTOM 4134 4147	consolidation
+T82	SYMPTOM 4442 4482	Negative T waves in I and aVL, V5 and V6
+T83	SYMPTOM 4839 4874	condensation in the left lower lobe
+T84	SYMPTOM 5131 5160	Nodule in the left upper lobe
+T85	SYMPTOM 5452 5524	dilated left ventricle with thinned apical region, akinetic and expanded
+T86	SYMPTOM 6545 6575	renal function and ions normal
+T45	SYMPTOM 7571 7596	radiating to the left arm
+T87	SYMPTOM 7538 7565	oppressive central thoracic
+T56	SYMPTOM 9441 9460	shortness of breath

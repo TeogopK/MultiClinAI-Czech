@@ -1,0 +1,51 @@
+T41	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T42	PROCEDURE 192 216	Valoración preanestésica
+T43	PROCEDURE 239 268	ecocardiografía transtorácica
+T44	PROCEDURE 270 273	ETT
+T45	PROCEDURE 276 306	ecocardiografía transesofágica
+T46	PROCEDURE 308 311	ETT
+T47	PROCEDURE 315 330	coronariografía
+T48	PROCEDURE 745 791	maniobras de reanimación cardiopulmonar básica
+T49	PROCEDURE 793 796	RCP
+T50	PROCEDURE 869 894	maniobras de RCP avanzada
+T51	PROCEDURE 896 915	mascarilla laríngea
+T52	PROCEDURE 918 938	ventilación mecánica
+T53	PROCEDURE 1153 1194	mascarilla laríngea por tubo endotraqueal
+T54	PROCEDURE 1258 1278	ventilación mecánica
+T55	PROCEDURE 1310 1331	fármacos vasopresores
+T56	PROCEDURE 1347 1365	Exploración física
+T57	PROCEDURE 1473 1476	VMI
+T58	PROCEDURE 1493 1514	Auscultación cardiaca
+T59	PROCEDURE 1581 1602	Auscultación pulmonar
+T60	PROCEDURE 1968 1986	Electrocardiograma
+T61	PROCEDURE 1988 1991	ECG
+T62	PROCEDURE 2167 2170	ECG
+T63	PROCEDURE 2182 2196	monitorización
+T64	PROCEDURE 2380 2399	Analítica sanguínea
+T65	PROCEDURE 2694 2713	Gasometría arterial
+T66	PROCEDURE 2827 2846	Gasometría arterial
+T67	PROCEDURE 2956 2970	PCR SARS COV 2
+T68	PROCEDURE 2995 3033	Tomografía computarizada (TC) cerebral
+T69	PROCEDURE 3342 3353	TC pulmonar
+T70	PROCEDURE 3424 3446	intubación orotraqueal
+T71	PROCEDURE 3448 3451	IOT
+T72	PROCEDURE 3554 3592	Radiografía de tórax: estudio portátil
+T74	PROCEDURE 3688 3691	ETT
+T75	PROCEDURE 3694 3697	ETE
+T76	PROCEDURE 4398 4420	TC cerebral y pulmonar
+T77	PROCEDURE 4550 4552	TC
+T78	PROCEDURE 4563 4586	antibioterapia empírica
+T79	PROCEDURE 4609 4617	extubado
+T80	PROCEDURE 4781 4801	radiografía de tórax
+T82	PROCEDURE 4936 5006	reparación de válvula mitral, colocándose anillo mitral y 4 neocuerdas
+T84	PROCEDURE 5116 5119	ETE
+T86	PROCEDURE 5405 5428	cardioversión eléctrica
+T88	PROCEDURE 5504 5573	se implantó un desfibrilador automático implantable (DAI) monocameral
+T122	PROCEDURE 398 428	Intervenido de hernia inguinal
+T73	PROCEDURE 5430 5433	CVE
+T144	PROCEDURE 1335 1344	inotropos
+T145	PROCEDURE 5231 5243	intervención
+T146	PROCEDURE 167 190	intervención quirúrgica
+T153	PROCEDURE 5437 5472	perfusión de amiodarona intravenosa
+T156	PROCEDURE 1221 1236	sedoanalgesiado
+T85	PROCEDURE 1859 1870	Neurológico

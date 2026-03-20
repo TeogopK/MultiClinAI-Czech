@@ -1,0 +1,53 @@
+T32	DISEASE 169 190	hipertensión arterial
+T33	DISEASE 241 251	dislipemia
+T34	DISEASE 253 264	amigdalitis
+T35	DISEASE 294 319	hipoacusia bilateral leve
+T36	DISEASE 347 369	herpes zoster torácico
+T37	DISEASE 398 425	insuficiencia renal crónica
+T38	DISEASE 538 559	edema agudo de pulmón
+T39	DISEASE 575 594	insuficiencia renal
+T40	DISEASE 802 854	ventrículo izquierdo (VI) con hipertrofia excéntrica
+T41	DISEASE 1118 1142	dilatación biventricular
+T42	DISEASE 1145 1183	disfunción severa de ambos ventrículos
+T43	DISEASE 1289 1339	extremidad superior derecha, fístula arteriovenosa
+T44	DISEASE 1542 1564	insuficiencia cardiaca
+T45	DISEASE 1998 2004	anemia
+T46	DISEASE 2199 2219	cardiomegalia severa
+T47	DISEASE 2317 2325	varicela
+T48	DISEASE 2690 2724	Insuficiencia mitral (IM) moderada
+T49	DISEASE 2726 2762	Insuficiencia tricúspide (IT) severa
+T50	DISEASE 2896 2922	Derrame pericárdico severo
+T51	DISEASE 3408 3415	ascitis
+T52	DISEASE 3418 3435	hígado de estasis
+T53	DISEASE 3463 3485	insuficiencia cardiaca
+T54	DISEASE 3983 3994	hipovolemia
+T55	DISEASE 4547 4560	cardiomegalia
+T56	DISEASE 5592 5611	derrame pericárdico
+T57	DISEASE 5628 5649	Síndrome cardiorrenal
+T58	DISEASE 5698 5720	disfunción ventricular
+T59	DISEASE 1720 1733	Hepatomegalia
+T60	DISEASE 5547 5549	IM
+T61	DISEASE 4716 4718	IT
+T62	DISEASE 5551 5553	IT
+T63	DISEASE 4268 4281	cardiomegalia
+T64	DISEASE 2247 2272	derrame pleural bilateral
+T65	DISEASE 3368 3406	derrame pleural bilateral, pericárdico
+T66	DISEASE 3999 4010	hipotensión
+T67	DISEASE 1845 1869	hipoperfusión periférica
+T68	DISEASE 2304 2315	hepatitis A
+T69	DISEASE 2334 2347	herpes simple
+T70	DISEASE 2427 2450	VI severamente dilatado
+T71	DISEASE 2613 2659	Ventrículo derecho (VD) moderadamente dilatado
+T72	DISEASE 2752 2754	IT
+T73	DISEASE 2712 2714	IM
+T74	DISEASE 2764 2815	Venas suprahepáticas y vena cava inferior dilatadas
+T75	DISEASE 3068 3091	VI severamente dilatado
+T76	DISEASE 3756 3792	dilatación y disfunción severa de VD
+T77	DISEASE 4148 4165	episodio catarral
+T122	DISEASE 5032 5064	hipertrofia concéntrica moderada
+T23	DISEASE 5081 5101	VD ligera dilatación
+#1	AnnotatorNotes T60	 insuficiencia mitral
+#2	AnnotatorNotes T61	 insuficiencia tricuspide
+#3	AnnotatorNotes T62	 insuficiencia tricuspide
+#4	AnnotatorNotes T72	 insuficiencia tricuspide
+#5	AnnotatorNotes T73	 insuficiencia mitral

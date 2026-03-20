@@ -1,0 +1,23 @@
+T51	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T53	PROCEDURE 424 455	cavo-tricuspid isthmus ablation
+T72	PROCEDURE 1045 1059	renal function
+T52	PROCEDURE 1391 1411	Physical examination
+T54	PROCEDURE 1480 1505	portable vascular Doppler
+T55	PROCEDURE 1698 1718	Cardiac auscultation
+T56	PROCEDURE 1824 1846	pulmonary auscultation
+T57	PROCEDURE 2330 2333	ECG
+T58	PROCEDURE 2492 2503	Chest X-ray
+T59	PROCEDURE 2951 2979	Transthoracic echocardiogram
+T60	PROCEDURE 3249 3279	Transesophageal echocardiogram
+T61	PROCEDURE 4285 4315	Transesophageal echocardiogram
+T63	PROCEDURE 4740 4758	Haemodynamic study
+T64	PROCEDURE 4869 4887	Haemodynamic study
+T65	PROCEDURE 5070 5088	haemodynamic study
+T66	PROCEDURE 5289 5298	diuretics
+T73	PROCEDURE 5341 5355	renal function
+T62	PROCEDURE 5359 5389	transesophageal echocardiogram
+T67	PROCEDURE 5856 5869	chest CT scan
+T68	PROCEDURE 6469 6490	Right catheterisation
+T69	PROCEDURE 6692 6704	vasodilators
+T70	PROCEDURE 6722 6730	diuretic
+T71	PROCEDURE 7024 7083	3-vessel coronary artery disease revascularised with stents

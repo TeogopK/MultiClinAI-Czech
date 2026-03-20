@@ -1,0 +1,29 @@
+T19	PROCEDURE 177 202	continuous bladder lavage
+T1	PROCEDURE 331 348	urethral catheter
+T4	PROCEDURE 528 554	extracorporeal lithotripsy
+T5	PROCEDURE 661 676	prostate biopsy
+T20	PROCEDURE 744 777	transurethral prostate resections
+T23	PROCEDURE 855 868	imaging tests
+T6	PROCEDURE 873 898	abdominopelvic ultrasound
+T25	PROCEDURE 990 1026	abdominopelvic CT scan with contrast
+T2	PROCEDURE 1141 1225	urethral catheter was replaced with a catheter adapted for continuous bladder lavage
+T28	PROCEDURE 1179 1256	catheter adapted for continuous bladder lavage to dissolve intravesical clots
+T21	PROCEDURE 1286 1300	bladder lavage
+T22	PROCEDURE 1460 1474	bladder lavage
+T3	PROCEDURE 1941 1955	bladder lavage
+T12	PROCEDURE 1980 2049	to place a lumbar epidural catheter in the L3-L4 intervertebral space
+T24	PROCEDURE 2153 2202	perfusion of levobupivacaine 0.125% with fentanyl
+T7	PROCEDURE 2285 2299	epidural block
+T26	PROCEDURE 2424 2471	sensory block at the level of the T12 dermatome
+T27	PROCEDURE 2478 2489	motor block
+T13	PROCEDURE 2615 2632	epidural catheter
+T17	PROCEDURE 2674 2683	analgesia
+T9	PROCEDURE 2813 2835	intradural anaesthesia
+T10	PROCEDURE 2840 2873	retropubic prostatic adenomectomy
+T11	PROCEDURE 2912 2935	postoperative analgesia
+T39	PROCEDURE 3101 3126	continuous bladder lavage
+T14	PROCEDURE 3334 3351	epidural catheter
+T15	PROCEDURE 3374 3415	postoperative prophylactic heparinisation
+T18	PROCEDURE 3437 3476	continuous postoperative bladder lavage
+T8	PROCEDURE 3600 3614	epidural block
+T16	PROCEDURE 3658 3670	spasmolytics

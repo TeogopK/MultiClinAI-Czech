@@ -1,0 +1,61 @@
+T1	SYMPTOM 305 317	dolor lumbar
+T2	SYMPTOM 598 603	dolor
+T3	SYMPTOM 693 699	disnea
+T4	SYMPTOM 741 763	presión centrotorácica
+T5	SYMPTOM 798 803	dolor
+T6	SYMPTOM 870 906	edematización de miembros inferiores
+T7	SYMPTOM 909 940	aumento del perímetro abdominal
+T8	SYMPTOM 1011 1017	fiebre
+T9	SYMPTOM 1020 1040	sensación distérmica
+T10	SYMPTOM 1051 1107	dolor de características mecánicas en región lumbar alta
+T11	SYMPTOM 1294 1316	Regular estado general
+T12	SYMPTOM 1318 1339	taquipneica en reposo
+T13	SYMPTOM 1341 1360	Palidez mucocutánea
+T14	SYMPTOM 1362 1383	Ingurgitación yugular
+T15	SYMPTOM 1386 1416	reflujo hepatoyugular positivo
+T16	SYMPTOM 1441 1466	ruidos cardiacos rítmicos
+T17	SYMPTOM 1472 1478	soplos
+T18	SYMPTOM 1482 1498	roce pericárdico
+T19	SYMPTOM 1523 1546	hipoventilación en base
+T20	SYMPTOM 1590 1663	Abdomen blando, ligeramente doloroso en mesogastrio e hipocondrio derecho
+T22	SYMPTOM 1669 1686	defensa abdominal
+T23	SYMPTOM 1693 1717	peristaltismo conservado
+T24	SYMPTOM 1760 1781	irritación peritoneal
+T25	SYMPTOM 1797 1830	edema tibial y maleolar bilateral
+T26	SYMPTOM 1878 1921	Dolor a movilización de miembros inferiores
+T27	SYMPTOM 1926 1951	signo de Lasegue positivo
+T28	SYMPTOM 1953 2005	Dolor a la palpación en apófisis espinosas de L2- L4
+T29	SYMPTOM 2505 2525	desviación izquierda
+T30	SYMPTOM 2656 2675	taquicardia sinusal
+T31	SYMPTOM 2687 2739	PR ligeramente descendido en cara inferior y lateral
+T32	SYMPTOM 2741 2753	QRS estrecho
+T33	SYMPTOM 2755 2820	Elevación cóncava inframilimétrica del ST en V3-V6, DI, DII y aVF
+T34	SYMPTOM 2963 2994	Vascularización pulmonar normal
+T35	SYMPTOM 3102 3156	Serología SARS-CoV-2 al ingreso: Ig G y Ig M positivas
+T36	SYMPTOM 3158 3219	Hemocultivos al ingreso: positivos para Staphylococcus aureus
+T37	SYMPTOM 3935 3963	Función biventricular normal
+T38	SYMPTOM 3969 4003	alteraciones valvulares de interés
+T42	SYMPTOM 5142 5211	Ecocardiograma de control: función sistólica biventricular conservada
+T43	SYMPTOM 5243 5263	PSAP estimada normal
+T44	SYMPTOM 6835 6855	dolor centrotorácico
+T45	SYMPTOM 6870 6907	elevación de reactantes de fase aguda
+T46	SYMPTOM 7021 7027	fiebre
+T47	SYMPTOM 7227 7281	hemocultivos extraídos se objetiva crecimiento de SAMS
+T48	SYMPTOM 7462 7500	líquido pericárdico resultan estériles
+T49	SYMPTOM 7982 8046	dolor en región lumbar alta, ambos hombros y extremidad inferior
+T51	SYMPTOM 8484 8490	fiebre
+T52	SYMPTOM 8723 8746	compromiso hemodinámico
+T53	SYMPTOM 8924 8930	fiebre
+T117	SYMPTOM 4091 4110	taquicardia sinusal
+T113	SYMPTOM 2832 2872	alteraciones agudas de la repolarización
+T159	SYMPTOM 4212 4247	Ventrículo derecho (VD) no dilatado
+T160	SYMPTOM 4112 4130	FEVI hiperdinámica
+T161	SYMPTOM 4132 4160	Movimiento septal paradójico
+T162	SYMPTOM 4249 4275	FEVD ligeramente deprimida
+T50	SYMPTOM 8584 8637	aislándose de nuevo en el cultivo del líquido un SAMS
+T100	SYMPTOM 2909 2961	índice cardiotorácico 0,5-0,6, ligeramente aumentado
+T169	SYMPTOM 3580 3604	repercusión hemodinámica
+T172	SYMPTOM 3805 3886	Manto de fibrina sobre cavidades derechas y tractos finos de fibrina lateral a VI
+T173	SYMPTOM 4682 4706	repercusión hemodinámica
+T40	SYMPTOM 7942 7971	síntomas cardiorrespiratorios
+T41	SYMPTOM 8936 8987	hemocultivos de control periódicos fueron negativos

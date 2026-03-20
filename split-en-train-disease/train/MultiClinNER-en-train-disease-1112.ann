@@ -1,0 +1,44 @@
+T29	DISEASE 79 93	drug reactions
+T1	DISEASE 150 163	heart disease
+T30	DISEASE 186 195	Ex-smoker
+T71	DISEASE 244 263	alcohol consumption
+T31	DISEASE 268 289	arterial hypertension
+T2	DISEASE 291 294	AHT
+T32	DISEASE 297 321	type 2 diabetes mellitus
+T33	DISEASE 323 326	DM2
+T34	DISEASE 331 344	dyslipidaemia
+T35	DISEASE 346 358	Tuberculosis
+T36	DISEASE 373 401	Benign prostatic hyperplasia
+T67	DISEASE 2780 2814	complete right bundle branch block
+T64	DISEASE 2854 2860	BCRDHH
+T37	DISEASE 3031 3047	pleural effusion
+T6	DISEASE 3471 3474	PHT
+T7	DISEASE 3476 3551	Brain CT scan: mild corticosubcortical atrophy with ventricular enlargement
+T38	DISEASE 4216 4224	fibrosis
+T11	DISEASE 4228 4236	necrosis
+T39	DISEASE 4930 4941	arrhythmias
+T14	DISEASE 5013 5018	block
+T40	DISEASE 5211 5219	asystole
+T42	DISEASE 5232 5267	polymorphic ventricular tachycardia
+T44	DISEASE 5281 5305	ventricular extrasystole
+T46	DISEASE 5748 5764	repeated syncope
+T70	DISEASE 6060 6077	arrhythmic events
+T68	DISEASE 6208 6242	complete right bundle branch block
+T49	DISEASE 6403 6410	syncope
+T52	DISEASE 6733 6757	ventricular fibrillation
+T66	DISEASE 6773 6819	asystole triggered by ventricular extrasystole
+T69	DISEASE 6886 6902	syncopal episode
+T56	DISEASE 7195 7207	sudden death
+T19	DISEASE 7212 7235	ventricular tachycardia
+T57	DISEASE 7357 7369	sudden death
+T60	DISEASE 7456 7472	Brugada syndrome
+T63	DISEASE 7477 7518	catecholaminergic ventricular tachycardia
+T47	DISEASE 7588 7604	repeated syncope
+T43	DISEASE 7624 7659	polymorphic ventricular tachycardia
+T53	DISEASE 7664 7688	ventricular fibrillation
+T58	DISEASE 7938 7950	sudden death
+T61	DISEASE 8028 8044	Brugada syndrome
+T59	DISEASE 8051 8063	sudden death
+T65	DISEASE 8156 8175	cardiogenic syncope
+T54	DISEASE 8194 8218	ventricular fibrillation
+T62	DISEASE 8235 8251	Brugada syndrome

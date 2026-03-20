@@ -1,0 +1,51 @@
+T25	SYMPTOM 264 287	M079 c.1342C>T mutation
+T1	SYMPTOM 444 454	chest pain
+T3	SYMPTOM 555 560	fever
+T5	SYMPTOM 772 780	dyspnoea
+T6	SYMPTOM 782 794	palpitations
+T2	SYMPTOM 807 841	No previous angina-like chest pain
+T7	SYMPTOM 969 991	Good general condition
+T18	SYMPTOM 993 1033	good hydration and colour of extremities
+T8	SYMPTOM 1035 1050	Eupneic at rest
+T9	SYMPTOM 1052 1082	Cardiac auscultation: rhythmic
+T10	SYMPTOM 1087 1094	murmurs
+T11	SYMPTOM 1098 1118	pericardial friction
+T12	SYMPTOM 1144 1170	preserved vesicular murmur
+T19	SYMPTOM 1179 1191	extra sounds
+T39	SYMPTOM 1241 1272	oedema in the lower extremities
+T40	SYMPTOM 1483 1514	Coagulation without alterations
+T13	SYMPTOM 1784 1822	Liver profile within normal parameters
+T14	SYMPTOM 1925 1937	sinus rhythm
+T15	SYMPTOM 1973 1983	narrow QRS
+T32	SYMPTOM 1989 2000	normal axis
+T41	SYMPTOM 2019 2044	negative T waves in V1-V3
+T42	SYMPTOM 2088 2125	Cardiothoracic index within normality
+T29	SYMPTOM 2166 2191	Free costophrenic sinuses
+T44	SYMPTOM 2314 2354	Apical akinesia and mid-segment akinesia
+T30	SYMPTOM 2397 2488	Non-dilated, non-hypertrophic right ventricle with preserved longitudinal systolic function
+T43	SYMPTOM 2490 2510	Atria of normal size
+T16	SYMPTOM 2589 2655	left ventricle with global contractility at the limit of normality
+T26	SYMPTOM 2668 2700	Hypokinesia of the apical septum
+T33	SYMPTOM 2737 2800	subendocardial perfusion defect in the middle and apical septum
+T17	SYMPTOM 2876 2945	Right ventricle of normal size and morphology with preserved function
+T27	SYMPTOM 2978 3025	Coronary arteries with normal anatomical origin
+T28	SYMPTOM 3027 3042	Right dominance
+T45	SYMPTOM 3044 3115	Left coronary artery trunk: vessel of good development, without lesions
+T35	SYMPTOM 3597 3652	ostium of the second diagonal is affected by the lesion
+T47	SYMPTOM 3709 3793	Circumflex artery: the proximal and middle segments of the vessel are well developed
+T46	SYMPTOM 3857 3888	Marginal obtuse of good calibre
+T36	SYMPTOM 3932 4005	Right coronary: dominant vessel of very good development, without lesions
+T48	SYMPTOM 4007 4065	Posterolateral branch of good development, without lesions
+T49	SYMPTOM 4067 4131	Posterior descending branch of good development, without lesions
+T50	SYMPTOM 4133 4210	Conal and acute marginal arteries of moderate development and without lesions
+T51	SYMPTOM 4564 4626	Circumflex artery of good calibre, without significant lesions
+T20	SYMPTOM 4915 4919	Pain
+T4	SYMPTOM 4924 4929	fever
+T52	SYMPTOM 5117 5198	apical akinesia and mid-segment akinesia of the anterior face and anterior septum
+T21	SYMPTOM 5212 5251	pericardial characteristics of the pain
+T22	SYMPTOM 5260 5298	elevation of myocardial damage enzymes
+T23	SYMPTOM 5748 5771	haemodynamically stable
+T24	SYMPTOM 6130 6141	hypotension
+T34	SYMPTOM 6337 6368	subendocardial perfusion defect
+T38	SYMPTOM 6726 6732	stable
+T31	SYMPTOM 6737 6749	asymptomatic

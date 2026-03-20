@@ -1,0 +1,36 @@
+T80	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T99	PROCEDURE 246 260	renal function
+T1	PROCEDURE 568 688	surgical revascularisation with double aortocoronary bridge (marginal saphenous-obtuse and anterior saphenous-descendant
+T2	PROCEDURE 655 658	and
+T74	PROCEDURE 764 794	percutaneous revascularisation
+T101	PROCEDURE 796 830	percutaneous coronary intervention
+T3	PROCEDURE 832 835	PCI
+T4	PROCEDURE 842 1006	implantation of a drug-eluting stent in the LAD distal to the saphenous graft, two stents in the first proximal-medial diagonal branch, and a stent in the middle DC
+T75	PROCEDURE 1022 1042	coronary angiography
+T5	PROCEDURE 1095 1158	stenosis of 70% was observed in distal CT, with stent placement
+T76	PROCEDURE 1193 1207	echocardiogram
+T6	PROCEDURE 1376 1410	Cardiac magnetic resonance imaging
+T79	PROCEDURE 2206 2228	cardiac rehabilitation
+T94	PROCEDURE 2702 2727	hygienic-dietary measures
+T81	PROCEDURE 2824 2844	Physical examination
+T82	PROCEDURE 2988 3008	Cardiac auscultation
+T83	PROCEDURE 3405 3408	ECG
+T84	PROCEDURE 3499 3510	Chest X-ray
+T85	PROCEDURE 3686 3701	hepatic battery
+T86	PROCEDURE 3786 3797	Coagulation
+T100	PROCEDURE 3894 3908	ferric profile
+T87	PROCEDURE 3981 4009	Transthoracic echocardiogram
+T88	PROCEDURE 4501 4531	intravenous diuretic treatment
+T90	PROCEDURE 4662 4680	diuretic treatment
+T91	PROCEDURE 4836 4859	neurohormonal treatment
+T92	PROCEDURE 5704 5728	intravenous ferrotherapy
+T95	PROCEDURE 5859 5884	hygienic-dietary measures
+T78	PROCEDURE 6109 6123	echocardiogram
+T7	PROCEDURE 6547 6562	IV ferrotherapy
+T96	PROCEDURE 6706 6730	faecal occult blood test
+T97	PROCEDURE 7066 7110	surgical and percutaneous revascularisations
+T10	PROCEDURE 7168 7183	digestive study
+T9	PROCEDURE 7213 7277	implantation of automatic implantable cardioverter defibrillator
+T98	PROCEDURE 7283 7316	cardiac resynchronisation therapy
+T8	PROCEDURE 7318 7325	ICD-CRT
+T93	PROCEDURE 7353 7377	intravenous ferrotherapy

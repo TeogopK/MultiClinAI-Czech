@@ -1,0 +1,42 @@
+T1	SYMPTOM 149 159	chest pain
+T3	SYMPTOM 553 618	chest pain in the left hemithorax with oppressive characteristics
+T2	SYMPTOM 666 679	cold sweating
+T6	SYMPTOM 797 801	pain
+T8	SYMPTOM 1008 1020	palpitations
+T9	SYMPTOM 1036 1057	loss of consciousness
+T10	SYMPTOM 1081 1103	Good general condition
+T4	SYMPTOM 1105 1118	normal colour
+T11	SYMPTOM 1123 1136	normohydrated
+T12	SYMPTOM 1138 1153	eupneic at rest
+T13	SYMPTOM 1158 1167	conscious
+T14	SYMPTOM 1169 1177	oriented
+T5	SYMPTOM 1182 1193	cooperative
+T15	SYMPTOM 1278 1285	murmurs
+T16	SYMPTOM 1360 1386	preserved vesicular murmur
+T17	SYMPTOM 1433 1457	tele-expiratory wheezing
+T30	SYMPTOM 1459 1524	Radial and pedial pulses were palpable, rhythmic and symmetrical.
+T18	SYMPTOM 1578 1590	sinus rhythm
+T19	SYMPTOM 1635 1645	Narrow QRS
+T31	SYMPTOM 1650 1676	repolarisation alterations
+T32	SYMPTOM 1957 2029	left ventricle of normal diameter and wall thickness with preserved LVEF
+T25	SYMPTOM 2040 2078	segmental alterations in contractility
+T20	SYMPTOM 2094 2128	Normal transmitral filling pattern
+T33	SYMPTOM 2148 2183	LVEDP globally estimated as normal)
+T23	SYMPTOM 2185 2212	Non-dilated right ventricle
+T34	SYMPTOM 2284 2304	Atria of normal size
+T35	SYMPTOM 2334 2370	Inferior vena cava (IVC) not dilated
+T7	SYMPTOM 2553 2593	oppressive, non-limiting precordial pain
+T36	SYMPTOM 2644 2721	maximum horizontal ST depression of 2 mm in 5 leads (II, III, aVF, V4 and V5)
+T26	SYMPTOM 2849 2875	Normal functional capacity
+T27	SYMPTOM 2934 2980	Coronary angiography (video 2): left dominance
+T37	SYMPTOM 2982 3092	Left coronary trunk, anterior descending artery and circumflex artery without significant angiographic lesions
+T28	SYMPTOM 3356 3388	coronary anatomy: left dominance
+T29	SYMPTOM 3390 3447	Intermediate branch as an anatomical variant of normality
+T24	SYMPTOM 3539 3587	Left main coronary artery: long, without lesions
+T38	SYMPTOM 3589 3620	Anterior descending: no lesions
+T39	SYMPTOM 3622 3644	Circumflex: no lesions
+T41	SYMPTOM 3958 4058	left ventricle with wall thickness, volumes and segmental and global systolic function within normal
+T40	SYMPTOM 4071 4129	Right ventricle volume and systolic function within normal
+T21	SYMPTOM 4142 4180	Atria and great vessels of normal size
+T42	SYMPTOM 5195 5252	left-dominant anterior descending and circumflex arteries
+T22	SYMPTOM 7605 7616	Normal LVEF

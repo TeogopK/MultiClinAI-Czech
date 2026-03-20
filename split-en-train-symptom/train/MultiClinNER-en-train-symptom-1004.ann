@@ -1,0 +1,47 @@
+T1	SYMPTOM 1039 1047	asthenia
+T2	SYMPTOM 1090 1100	chest pain
+T3	SYMPTOM 1105 1110	cough
+T4	SYMPTOM 1115 1128	expectoration
+T5	SYMPTOM 1133 1138	fever
+T6	SYMPTOM 1217 1230	normohydrated
+T7	SYMPTOM 1247 1262	Eupneic at rest
+T8	SYMPTOM 1297 1306	Conscious
+T9	SYMPTOM 1308 1316	oriented
+T10	SYMPTOM 1476 1512	Cardiac auscultation: regular sounds
+T11	SYMPTOM 1514 1525	tachycardic
+T12	SYMPTOM 1538 1545	murmurs
+T13	SYMPTOM 1571 1598	generalised hypoventilation
+T14	SYMPTOM 1603 1608	rales
+T15	SYMPTOM 1798 1810	sinus rhythm
+T16	SYMPTOM 1822 1831	normal PR
+T17	SYMPTOM 1833 1843	narrow QRS
+T18	SYMPTOM 1861 1874	ST underlevel
+T19	SYMPTOM 2056 2083	alveolar space condensation
+T20	SYMPTOM 2812 2839	preserved systolic function
+T21	SYMPTOM 4152 4179	preserved systolic function
+T22	SYMPTOM 2976 3003	Non-dilated right ventricle
+T23	SYMPTOM 4671 4697	Parasite studies: negative
+T24	SYMPTOM 4714 4748	positive for Toxoplasma gondii IgG
+T25	SYMPTOM 5433 5453	ST-segment elevation
+T26	SYMPTOM 5891 5899	asthenic
+T27	SYMPTOM 5953 5965	eosinophilia
+T29	SYMPTOM 6561 6584	peripheral eosinophilia
+T30	SYMPTOM 6599 6636	decrease in ultrasensitive troponin T
+T31	SYMPTOM 7302 7314	asymptomatic
+T32	SYMPTOM 2764 2802	alterations in segmental contractility
+T33	SYMPTOM 7093 7114	negative autoimmunity
+T35	SYMPTOM 3692 3739	Atria and great vessels of preserved dimensions
+T36	SYMPTOM 4266 4297	erythrocyte anisopoikilocytosis
+T37	SYMPTOM 7136 7154	negative parasites
+T38	SYMPTOM 912 988	progressive dyspnoea of one month's duration until becoming minimal effort i
+T39	SYMPTOM 1052 1060	weakness
+T40	SYMPTOM 1143 1163	dysthermic sensation
+T41	SYMPTOM 1232 1245	normal colour
+T42	SYMPTOM 1187 1215	General condition was normal
+T43	SYMPTOM 1613 1638	oedema in the lower limbs
+T44	SYMPTOM 2085 2137	Normal mediastinal silhouette and pulmonary hilarity
+T45	SYMPTOM 2533 2556	Ventriculography normal
+T46	SYMPTOM 2682 2709	normal sized left ventricle
+T34	SYMPTOM 3402 3454	segmental and global systolic function within normal
+T47	SYMPTOM 5116 5138	ST segment alterations
+T28	SYMPTOM 7116 7134	negative OM biopsy

@@ -1,0 +1,12 @@
+T7	PROCEDURE 203 215	laparotomies
+T8	PROCEDURE 234 256	diagnostic laparoscopy
+T13	PROCEDURE 345 398	computed tomography with venous and arterial contrast
+T5	PROCEDURE 538 548	analgesics
+T1	PROCEDURE 704 724	Physical examination
+T11	PROCEDURE 1045 1075	superficial and deep palpation
+T2	PROCEDURE 1169 1189	physical examination
+T3	PROCEDURE 1374 1381	opioids
+T4	PROCEDURE 1478 1497	calcium antagonists
+T6	PROCEDURE 1499 1507	nitrates
+T9	PROCEDURE 1660 1675	anticoagulation
+T10	PROCEDURE 1718 1737	antiplatelet agents

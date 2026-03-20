@@ -1,0 +1,47 @@
+T3	PROCEDURE 94 98	scan
+T11	PROCEDURE 251 285	thermocoagulation of a skin lesion
+T13	PROCEDURE 397 427	full body bone extension study
+T14	PROCEDURE 432 490	computed tomography (CT) of the thorax, abdomen and pelvis
+T22	PROCEDURE 453 455	CT
+T34	PROCEDURE 529 560	surgical excision of the lesion
+T5	PROCEDURE 616 720	lesion was removed by circumferential en bloc craniectomy including the temporalis muscle and its fascia
+T28	PROCEDURE 845 895	A 5 cm acrylic plasty was cast for the bony defect
+T31	PROCEDURE 900 934	direct scalp closure was performed
+T35	PROCEDURE 941 953	excised mass
+T36	PROCEDURE 1056 1080	Pathological examination
+T32	PROCEDURE 1540 1566	scalp had not been removed
+T38	PROCEDURE 1602 1691	to extend the surgery and perform a revision of the bed and resection of the scalp island
+T15	PROCEDURE 1914 1931	fibrobronchoscopy
+T44	PROCEDURE 1936 1943	CT scan
+T18	PROCEDURE 2074 2089	cranial CT scan
+T50	PROCEDURE 2322 2354	extensive resection of the scalp
+T6	PROCEDURE 2522 2533	craniectomy
+T33	PROCEDURE 2675 2704	We removed the acrylic plasty
+T7	PROCEDURE 2706 2730	extended the craniectomy
+T16	PROCEDURE 2742 2773	circumferential dural resection
+T37	PROCEDURE 2792 2834	epaired the meninx with Neuropatch® plasty
+T19	PROCEDURE 2935 2971	free flap of rectus abdominis muscle
+T39	PROCEDURE 3023 3073	free skin grafting of partial skin over the muscle
+T20	PROCEDURE 3221 3225	flap
+T40	PROCEDURE 3253 3316	anastomoses were made end-to-end to the superior thyroid artery
+T41	PROCEDURE 3293 3411	superior thyroid artery, which was subsequently rotated to reach the pedicle of the flap and the external jugular vein
+T1	PROCEDURE 3417 3463	anatomopathological study of the excised piece
+T27	PROCEDURE 3735 3756	surgical intervention
+T8	PROCEDURE 3854 3865	craniectomy
+T21	PROCEDURE 3894 3898	scan
+T9	PROCEDURE 3988 3999	craniectomy
+T12	PROCEDURE 4012 4055	incision of the upper edge of the TRAM flap
+T10	PROCEDURE 4120 4147	We extended the craniectomy
+T17	PROCEDURE 4242 4320	Closure was performed with another Neuropatch® plasty and acrylic cranioplasty
+T23	PROCEDURE 4524 4557	control cranial and thoracic scan
+T42	PROCEDURE 4661 4725	apical pulmonary nodules which were removed by videothoracoscopy
+T29	PROCEDURE 4731 4750	anatomopathological
+T30	PROCEDURE 4791 4809	histological image
+T25	PROCEDURE 4842 4850	biopsies
+T2	PROCEDURE 4977 5036	adjuvant treatment, the patient received local radiotherapy
+T65	PROCEDURE 5119 5160	intensity modulated external radiotherapy
+T26	PROCEDURE 5162 5166	IMRT
+T66	PROCEDURE 5348 5369	adjuvant chemotherapy
+T24	PROCEDURE 5383 5421	CDDP-5FU (cisplatin with fluorouracil)
+T4	PROCEDURE 5589 5601	chemotherapy
+T69	PROCEDURE 5704 5711	CT scan

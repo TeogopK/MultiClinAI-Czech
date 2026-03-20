@@ -1,0 +1,15 @@
+T5	PROCEDURE 427 444	right nephrectomy
+T6	PROCEDURE 449 467	left adrenalectomy
+T7	PROCEDURE 496 542	clinical trial with interferon and bevacizumab
+T4	PROCEDURE 631 719	parotid tumour, an ultrasound-guided fine needle aspiration puncture (FNA) was performed
+T18	PROCEDURE 650 660	ultrasound
+T17	PROCEDURE 701 704	FNA
+T10	PROCEDURE 771 787	study the extent
+T20	PROCEDURE 805 851	cervical magnetic resonance imaging (MRI) scan
+T11	PROCEDURE 842 845	MRI
+T1	PROCEDURE 1033 1061	positron emission tomography
+T2	PROCEDURE 1063 1066	PET
+T3	PROCEDURE 1258 1279	radical parotidectomy
+T9	PROCEDURE 1331 1351	pathological anatomy
+T23	PROCEDURE 1393 1412	immunohistochemical
+T8	PROCEDURE 1707 1733	postoperative radiotherapy

@@ -1,0 +1,17 @@
+T6	PROCEDURE 45 58	prostatectomy
+T7	PROCEDURE 248 258	cystoscopy
+T1	PROCEDURE 292 339	surgical dilatation for vesicourethral stenosis
+T2	PROCEDURE 478 505	valve prosthesis was fitted
+T8	PROCEDURE 637 657	Physical examination
+T9	PROCEDURE 817 829	Abdominal CT
+T17	PROCEDURE 865 877	biochemistry
+T10	PROCEDURE 1009 1062	Microbiological study of urine in CLED culture medium
+T3	PROCEDURE 1084 1106	Gram staining of urine
+T11	PROCEDURE 1141 1159	blood agar culture
+T12	PROCEDURE 1305 1332	MALDI-TOF mass spectrometry
+T13	PROCEDURE 1362 1376	blood cultures
+T15	PROCEDURE 1447 1458	antibiogram
+T16	PROCEDURE 1608 1640	Transesophageal echocardiography
+T14	PROCEDURE 1836 1850	blood cultures
+T5	PROCEDURE 1885 1905	inflammatory markers
+T18	PROCEDURE 1910 1929	myocardial function

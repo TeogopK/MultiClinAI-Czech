@@ -1,0 +1,38 @@
+T66	PROCEDURE 32 52	PHYSICAL EXAMINATION
+T1	PROCEDURE 228 230	IQ
+T67	PROCEDURE 426 477	mitral valve replacement with mechanical prosthesis
+T68	PROCEDURE 505 527	tricuspid annuloplasty
+T69	PROCEDURE 840 865	radical right nephrectomy
+T2	PROCEDURE 894 924	Anticoagulated with enoxaparin
+T3	PROCEDURE 1238 1247	diuretics
+T71	PROCEDURE 1265 1280	anticoagulation
+T4	PROCEDURE 1371 1374	OTI
+T72	PROCEDURE 1427 1447	continuous perfusion
+T5	PROCEDURE 1493 1507	CT angiography
+T6	PROCEDURE 1695 1715	PHYSICAL EXPLORATION
+T7	PROCEDURE 1768 1772	IABP
+T82	PROCEDURE 1884 1891	Sedated
+T75	PROCEDURE 1967 1987	Cardiac auscultation
+T76	PROCEDURE 2026 2048	Pulmonary auscultation
+T77	PROCEDURE 2210 2221	Chest X-ray
+T74	PROCEDURE 2501 2509	Angio-CT
+T78	PROCEDURE 2585 2588	ECG
+T8	PROCEDURE 2674 2682	Analysis
+T79	PROCEDURE 3144 3172	Transthoracic echocardiogram
+T81	PROCEDURE 3651 3681	Transesophageal echocardiogram
+T9	PROCEDURE 3939 3942	TTE
+T83	PROCEDURE 4216 4223	sedated
+T84	PROCEDURE 4228 4237	intubated
+T10	PROCEDURE 4259 4269	ventilator
+T11	PROCEDURE 4328 4365	noradrenaline in continuous perfusion
+T80	PROCEDURE 4448 4478	Transthoracic echocardiography
+T12	PROCEDURE 4686 4737	intra-aortic balloon counterpulsation was implanted
+T13	PROCEDURE 4798 4855	right pressures were monitored using a Swan-Ganz catheter
+T85	PROCEDURE 5098 5110	fibrinolysis
+T14	PROCEDURE 5208 5267	Valve replacement with a biological mitral valve prosthesis
+T15	PROCEDURE 5451 5459	cultures
+T86	PROCEDURE 5491 5509	antibiotic therapy
+T87	PROCEDURE 5646 5661	cardiac surgery
+T70	PROCEDURE 5674 5699	Right radical nephrectomy
+T88	PROCEDURE 5777 5807	perioperative bridging therapy
+T89	PROCEDURE 5854 5905	Mitral valve replacement with biological prosthesis

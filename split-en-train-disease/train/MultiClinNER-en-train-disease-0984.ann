@@ -1,0 +1,37 @@
+T48	DISEASE 93 96	HCM
+T1	DISEASE 161 175	drug allergies
+T2	DISEASE 211 217	Smoker
+T3	DISEASE 318 325	obesity
+T4	DISEASE 371 383	hypertension
+T6	DISEASE 385 393	diabetes
+T7	DISEASE 397 410	dyslipidaemia
+T8	DISEASE 454 480	asymmetric obstructive HCM
+T30	DISEASE 738 756	septal hypertrophy
+T31	DISEASE 801 875	systolic anterior motion (SAM) in the anterior leaflet of the mitral valve
+T10	DISEASE 888 917	moderate mitral regurgitation
+T13	DISEASE 919 938	Cardiogenic syncope
+T49	DISEASE 1241 1259	angina on exertion
+T15	DISEASE 2836 2856	deep vein thrombosis
+T16	DISEASE 3545 3573	left ventricular hypertrophy
+T25	DISEASE 3760 3783	ventricular hypertrophy
+T32	DISEASE 3856 3859	SAM
+T11	DISEASE 3871 3900	moderate mitral regurgitation
+T17	DISEASE 4137 4159	pulmonary hypertension
+T5	DISEASE 4321 4393	Slight thickening of the anterior leaflet at the level of its A2 scallop
+T33	DISEASE 4572 4575	SAM
+T18	DISEASE 4665 4685	mitral insufficiency
+T24	DISEASE 4778 4855	HCM mechanism secondary to SAM with involvement of the entire valve apparatus
+T37	DISEASE 5858 5892	SAM of the anterior mitral leaflet
+T19	DISEASE 5904 5924	mitral insufficiency
+T28	DISEASE 6598 6617	Dilated left atrium
+T20	DISEASE 6826 6834	fibrosis
+T9	DISEASE 6860 6886	Asymmetric obstructive HCM
+T21	DISEASE 6895 6903	fibrosis
+T34	DISEASE 7009 7023	asymmetric HCM
+T22	DISEASE 7105 7121	tachyarrhythmias
+T23	DISEASE 7162 7190	significant LVOT obstruction
+T29	DISEASE 7433 7459	angina on minimal exertion
+T26	DISEASE 8517 8540	ventricular hypertrophy
+T35	DISEASE 8657 8696	Septal HCM with severe LVOT obstruction
+T27	DISEASE 8698 8738	Moderate mitral regurgitation due to SAM
+T14	DISEASE 8740 8757	Exertional angina

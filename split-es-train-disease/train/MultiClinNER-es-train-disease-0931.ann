@@ -1,0 +1,22 @@
+T20	DISEASE 1472 1505	fibrilación auricular paroxístico
+T21	DISEASE 2601 2653	enfermedad de 1 vaso: circunfleja-2a obtusa marginal
+T22	DISEASE 3434 3444	DM tipo II
+T23	DISEASE 4228 4237	arritmias
+T24	DISEASE 4261 4269	IAM no q
+T25	DISEASE 4289 4317	Miocardiopatía no compactada
+T26	DISEASE 4411 4478	Enfermedad arterial coronaria de 1 vaso: 2a arteria obtusa marginal
+T27	DISEASE 4573 4589	Dislipemia mixta
+T28	DISEASE 4591 4621	Diabetes mellitus (DM) tipo II
+T29	DISEASE 4610 4612	DM
+T30	DISEASE 4623 4631	Obesidad
+T31	DISEASE 211 221	Dislipemia
+T32	DISEASE 4252 4259	SCASEST
+T34	DISEASE 203 210	fumador
+T35	DISEASE 2364 2385	miocardio no compacto
+T36	DISEASE 1840 1874	ventrículo izquierdo no compactado
+T72	DISEASE 1231 1239	isquemia
+T73	DISEASE 1242 1250	necrosis
+T61	DISEASE 125 139	Estrés laboral
+T63	DISEASE 1255 1267	hipertrofias
+T64	DISEASE 1898 1958	trabéculas, que sobresalen de la pared ventricular izquierda
+#1	AnnotatorNotes T24	 IAM: INFARTO AGUDO MIOCARDIO

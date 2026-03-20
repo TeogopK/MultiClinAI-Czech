@@ -1,0 +1,31 @@
+T9	PROCEDURE 127 145	oral antidiabetics
+T10	PROCEDURE 170 182	appendectomy
+T11	PROCEDURE 202 230	testicular hydrocele surgery
+T28	PROCEDURE 628 656	a VDD pacemaker was inserted
+T18	PROCEDURE 771 785	echocardiogram
+T30	PROCEDURE 904 921	abdominal CT scan
+T21	PROCEDURE 945 969	neurological examination
+T14	PROCEDURE 1736 1767	anamnesis by organs and systems
+T15	PROCEDURE 1782 1802	Physical examination
+T16	PROCEDURE 2068 2088	Physical examination
+T22	PROCEDURE 2209 2245	neurological and general examination
+T23	PROCEDURE 2337 2349	biochemistry
+T8	PROCEDURE 2512 2515	CBC
+T2	PROCEDURE 2611 2624	Liver profile
+T3	PROCEDURE 2676 2690	Hormonal study
+T5	PROCEDURE 2837 2861	Electrophoretic spectrum
+T45	PROCEDURE 2956 2971	Cranial CT scan
+T12	PROCEDURE 3082 3093	Colonoscopy
+T47	PROCEDURE 3141 3195	Biopsies were taken from the proximal descending colon
+T17	PROCEDURE 3279 3306	Biopsy of colorectal mucosa
+T20	PROCEDURE 3331 3360	Specific staining for amyloid
+T19	PROCEDURE 3393 3407	Echocardiogram
+T4	PROCEDURE 3574 3596	Arrhythmological study
+T24	PROCEDURE 3737 3755	ventricular pacing
+T25	PROCEDURE 3768 3786	Cold pressure test
+T1	PROCEDURE 3877 3889	HIV serology
+T6	PROCEDURE 3901 3912	Chest X-ray
+T7	PROCEDURE 3939 3956	Abdominopelvic CT
+T13	PROCEDURE 3987 4047	Plasma catecholamine levels in decubitus and seated position
+T26	PROCEDURE 4118 4144	Urine catecholamine levels
+T55	PROCEDURE 4271 4288	hypotensive drugs

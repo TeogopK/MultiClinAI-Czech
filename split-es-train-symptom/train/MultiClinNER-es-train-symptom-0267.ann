@@ -1,0 +1,9 @@
+T1	SYMPTOM 1028 1077	engrosamiento de las valvas de la válvula aórtica
+T2	SYMPTOM 632 648	Normoconstituido
+T3	SYMPTOM 184 196	inconsciente
+T4	SYMPTOM 29 52	fallece de forma súbita
+T5	SYMPTOM 117 123	muerte
+T9	SYMPTOM 421 431	fallecidos
+A1	EXITUS T4
+A2	EXITUS T5
+A3	EXITUS T9

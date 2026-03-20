@@ -1,0 +1,42 @@
+T86	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T77	PROCEDURE 905 933	transthoracic echocardiogram
+T23	PROCEDURE 935 938	TTE
+T108	PROCEDURE 1226 1240	Ergospirometry
+T78	PROCEDURE 1368 1377	diuretics
+T109	PROCEDURE 1433 1447	renal function
+T80	PROCEDURE 1482 1501	neurohormonal drugs
+T24	PROCEDURE 1631 1672	implantation of Boston ICD-resynchroniser
+T81	PROCEDURE 2309 2327	diuretic treatment
+T110	PROCEDURE 2457 2471	renal function
+T84	PROCEDURE 2549 2569	pre-transplant study
+T87	PROCEDURE 3097 3117	Physical examination
+T88	PROCEDURE 3395 3415	Cardiac auscultation
+T89	PROCEDURE 3488 3510	Pulmonary auscultation
+T90	PROCEDURE 3615 3624	palpation
+T25	PROCEDURE 3815 3818	CBC
+T91	PROCEDURE 4227 4238	Coagulation
+T107	PROCEDURE 4356 4368	Biochemistry
+T26	PROCEDURE 4705 4717	Iron profile
+T92	PROCEDURE 4825 4842	Glycaemic profile
+T93	PROCEDURE 4905 4918	Lipid profile
+T94	PROCEDURE 5067 5078	Chest X-ray
+T95	PROCEDURE 5265 5282	Electrocardiogram
+T96	PROCEDURE 5284 5287	ECG
+T98	PROCEDURE 5412 5426	Echocardiogram
+T99	PROCEDURE 5860 5880	Left catheterisation
+T100	PROCEDURE 5942 5963	Right catheterisation
+T111	PROCEDURE 6325 6339	Renal function
+T82	PROCEDURE 6425 6443	diuretic treatment
+T27	PROCEDURE 6449 6461	iron profile
+T112	PROCEDURE 6605 6632	right heart catheterisation
+T101	PROCEDURE 7266 7279	genetic panel
+T102	PROCEDURE 7298 7324	genetic study by NGS panel
+T85	PROCEDURE 7702 7722	pre-transplant study
+T28	PROCEDURE 8035 8051	heart transplant
+T104	PROCEDURE 8143 8157	sputum culture
+T105	PROCEDURE 8418 8433	lung ultrasound
+T83	PROCEDURE 8515 8533	diuretic treatment
+T29	PROCEDURE 8799 8821	MitraClip implantation
+T30	PROCEDURE 8916 8952	intravenous diuretics were withdrawn
+T103	PROCEDURE 9862 9883	heart transplantation
+T106	PROCEDURE 10114 10120	Holter

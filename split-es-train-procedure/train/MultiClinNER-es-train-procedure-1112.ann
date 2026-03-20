@@ -1,0 +1,45 @@
+T83	PROCEDURE 1002 1025	Exploración neurológica
+T84	PROCEDURE 1318 1339	Auscultación cardiaca
+T85	PROCEDURE 1393 1414	Auscultación pulmonar
+T86	PROCEDURE 2789 2792	ECG
+T87	PROCEDURE 3017 3037	Radiografía de tórax
+T88	PROCEDURE 3145 3174	Ecocardiografía transtorácica
+T89	PROCEDURE 3584 3595	TC cerebral
+T90	PROCEDURE 3678 3698	resonancia magnética
+T91	PROCEDURE 3700 3702	RM
+T92	PROCEDURE 3810 3839	Resonancia magnética cardiaca
+T93	PROCEDURE 3841 3844	RMC
+T94	PROCEDURE 4398 4439	Estudio morfológico (sin y con contraste)
+T95	PROCEDURE 4477 4634	Estudio electrofisiológico: con anestesia local y bajo control fluoroscópico se introducen por vía venosa femoral derecha tres electrocatéteres cuadripolares
+T96	PROCEDURE 4509 4524	anestesia local
+T97	PROCEDURE 5030 5051	test de extraestímulo
+T98	PROCEDURE 5126 5177	masaje del seno carotídeo (MSC) derecho e izquierdo
+T99	PROCEDURE 5383 5401	Holter implantable
+T100	PROCEDURE 5546 5561	Coronariografía
+T101	PROCEDURE 5617 5635	Test de flecainida
+T102	PROCEDURE 6087 6106	estudio estiológico
+T103	PROCEDURE 6154 6183	ecocardiografía transtorácica
+T104	PROCEDURE 6186 6189	RMC
+T105	PROCEDURE 6305 6328	monitorización continua
+T106	PROCEDURE 6341 6351	TC craneal
+T107	PROCEDURE 6507 6533	estudio electrofisiológico
+T108	PROCEDURE 6536 6561	masaje del seno carotídeo
+T109	PROCEDURE 6684 6764	implante de Holter subcutáneo (Reveal®) para monitorización continua ambulatoria
+T111	PROCEDURE 6797 6811	monitorización
+T112	PROCEDURE 6860 6891	interrogar el Holter subcutáneo
+T113	PROCEDURE 7185 7188	ECG
+T114	PROCEDURE 7206 7224	test de flecainida
+T115	PROCEDURE 7417 7432	coronariografía
+T116	PROCEDURE 7485 7556	test genético para estudio de muerte súbita sin cardiopatía estructural
+T117	PROCEDURE 7869 7917	implante de desfibrilador automático implantable
+T121	PROCEDURE 871 889	EXPLORACIÓN FÍSICA
+T122	PROCEDURE 6484 6502	estudio etiológico
+T123	PROCEDURE 1372 1384	se auscultan
+T125	PROCEDURE 4969 5051	estimulación auricular programadas (frecuencias crecientes y test de extraestímulo
+T126	PROCEDURE 5830 5861	Test genéticos de muerte súbita
+T127	PROCEDURE 6122 6149	estudios de imagen cardiaca
+T128	PROCEDURE 8422 8437	Implante de DAI
+T142	PROCEDURE 1620 1629	Analítica
+T143	PROCEDURE 2200 2209	Analítica
+T188	PROCEDURE 5281 5306	perfusión de procainamida
+T194	PROCEDURE 4292 4308	ácido gadotérico

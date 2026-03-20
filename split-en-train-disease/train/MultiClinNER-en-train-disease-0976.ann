@@ -1,0 +1,48 @@
+T28	DISEASE 88 102	drug allergies
+T11	DISEASE 137 153	toxic substances
+T29	DISEASE 172 183	renal colic
+T13	DISEASE 207 237	ectasia at pyelocaliceal level
+T30	DISEASE 322 343	arterial hypertension
+T12	DISEASE 345 348	AHT
+T34	DISEASE 354 367	dyslipidaemia
+T35	DISEASE 398 407	Ex-smoker
+T36	DISEASE 448 465	diabetes mellitus
+T37	DISEASE 473 497	left bundle branch block
+T14	DISEASE 499 503	LBBB
+T38	DISEASE 506 531	Chronic coronary syndrome
+T15	DISEASE 558 561	AMI
+T40	DISEASE 725 740	unstable angina
+T16	DISEASE 1088 1136	severe stenosis of 70% was observed in distal CT
+T41	DISEASE 1216 1274	dilated cardiomyopathy with severe ventricular dysfunction
+T42	DISEASE 1291 1342	moderate-severe mitral insufficiency due to tenting
+T43	DISEASE 1347 1374	mild pulmonary hypertension
+T44	DISEASE 1435 1495	severely dilated left ventricle (LV) with severe dysfunction
+T46	DISEASE 1840 1860	Mitral insufficiency
+T48	DISEASE 2067 2080	heart failure
+T17	DISEASE 2190 2196	angina
+T18	DISEASE 2657 2663	angina
+T54	DISEASE 2786 2796	infections
+T55	DISEASE 3223 3250	decompensated heart failure
+T57	DISEASE 4021 4078	ischaemic dilated cardiomyopathy with severely dilated LV
+T58	DISEASE 4080 4088	Mild LVH
+T59	DISEASE 4145 4192	Severe mitral insufficiency (MI) due to tenting
+T19	DISEASE 4236 4240	LBBB
+T21	DISEASE 4242 4274	Moderate tricuspid insufficiency
+T20	DISEASE 4276 4278	TI
+T22	DISEASE 4315 4337	pulmonary hypertension
+T23	DISEASE 4339 4341	PH
+T69	DISEASE 4631 4633	it
+T60	DISEASE 5440 5450	ferropenia
+T24	DISEASE 5476 5483	anaemia
+T50	DISEASE 5512 5525	heart failure
+T51	DISEASE 5940 5953	heart failure
+T25	DISEASE 6081 6083	HF
+T26	DISEASE 6167 6201	mild-moderate mitral regurgitation
+T61	DISEASE 6240 6255	iron deficiency
+T63	DISEASE 6313 6331	microcytic anaemia
+T52	DISEASE 6459 6472	heart failure
+T27	DISEASE 6503 6510	anaemia
+T65	DISEASE 6890 6925	Chronic decompensated heart failure
+T67	DISEASE 6955 6987	Ischaemic dilated cardiomyopathy
+T32	DISEASE 6989 7051	Chronic coronary syndrome with trivial coronary artery disease
+T31	DISEASE 7112 7159	Microcytic anaemia with iron deficiency profile

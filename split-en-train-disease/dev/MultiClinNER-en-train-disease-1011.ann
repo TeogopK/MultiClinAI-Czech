@@ -1,0 +1,47 @@
+T1	DISEASE 176 218	Intolerance to amoxicillin-clavulanic acid
+T26	DISEASE 220 241	Arterial hypertension
+T27	DISEASE 293 306	Dyslipidaemia
+T28	DISEASE 340 356	Anxiety syndrome
+T29	DISEASE 382 412	paroxysmal atrial fibrillation
+T3	DISEASE 563 576	LA dilatation
+T30	DISEASE 583 598	mitral stenosis
+T34	DISEASE 611 629	mild heart failure
+T35	DISEASE 648 682	AF with rapid ventricular response
+T36	DISEASE 1365 1416	atrial fibrillation with rapid ventricular response
+T60	DISEASE 1529 1541	cardiomegaly
+T46	DISEASE 1957 1997	MID arterial ischaemia due to thrombosis
+T47	DISEASE 2233 2271	arterial ischaemia in popliteal artery
+T7	DISEASE 2312 2391	acute ischaemic stroke in the left MCA territory secondary to carotid occlusion
+T37	DISEASE 2482 2531	floating thrombus at the level of the aortic arch
+T8	DISEASE 2555 2605	occluding the origin of the left subclavian artery
+T39	DISEASE 2625 2649	moderate mitral stenosis
+T9	DISEASE 2671 2707	Severe dilatation of the left atrium
+T40	DISEASE 2719 2735	Aortic sclerosis
+T48	DISEASE 2900 3006	acute arterial ischaemia due to thrombotic occlusion at the level of the right superficial femoral artery.
+T10	DISEASE 3231 3265	acute ischaemia of the entire limb
+T41	DISEASE 3776 3789	embolic event
+T49	DISEASE 4241 4259	arterial ischaemia
+T15	DISEASE 4608 4638	haemiplegia of the right limbs
+T42	DISEASE 4656 4677	intracranial bleeding
+T43	DISEASE 4782 4803	intracranial bleeding
+T17	DISEASE 4960 5017	stroke in the left middle cerebral artery (MCA) territory
+T19	DISEASE 5176 5270	acute ischaemic stroke in the left MCA territory secondary to carotid occlusion of the ICA-MCA
+T38	DISEASE 5313 5362	floating thrombus at the level of the aortic arch
+T20	DISEASE 5423 5454	occluding the subclavian artery
+T44	DISEASE 5652 5669	cervical thrombus
+T22	DISEASE 5750 5760	infarction
+T45	DISEASE 5879 5895	right hemiplegia
+T50	DISEASE 5979 5997	arterial ischaemia
+T54	DISEASE 6432 6459	decompensated heart failure
+T25	DISEASE 6467 6475	rapid AF
+T55	DISEASE 6566 6600	moderate rheumatic mitral stenosis
+T32	DISEASE 6606 6642	severe dilatation of the left atrium
+T77	DISEASE 6788 6844	Ischaemic stroke in the middle cerebral artery territory
+T91	DISEASE 6858 6911	tandem ICA-MCA occlusion with a cardioembolic profile
+T92	DISEASE 6913 7010	Floating thrombus at the level of the arch with occlusion of origin of the left subclavian artery
+T57	DISEASE 7012 7043	Acute arterial ischaemia of MSI
+T52	DISEASE 7079 7097	arterial ischaemia
+T58	DISEASE 7166 7197	Acute arterial ischaemia of MID
+T56	DISEASE 7259 7293	Moderate rheumatic mitral stenosis
+T59	DISEASE 7312 7341	Permanent atrial fibrillation
+T33	DISEASE 7444 7456	Hypertension

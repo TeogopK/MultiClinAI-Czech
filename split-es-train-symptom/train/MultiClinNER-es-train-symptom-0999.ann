@@ -1,0 +1,47 @@
+T1	SYMPTOM 221 237	dolor de espalda
+T3	SYMPTOM 834 886	dolor abdominal en intensidad creciente, tipo cólico
+T4	SYMPTOM 977 986	febrícula
+T6	SYMPTOM 1206 1221	dolor abdominal
+T7	SYMPTOM 1863 1869	disnea
+T8	SYMPTOM 1944 1956	dolor dorsal
+T9	SYMPTOM 2034 2048	dolor torácico
+T10	SYMPTOM 2157 2177	Buen aspecto general
+T11	SYMPTOM 2179 2194	Normohidratrado
+T12	SYMPTOM 2196 2210	normocoloreado
+T13	SYMPTOM 2229 2237	Eupneico
+T14	SYMPTOM 2307 2325	Carótidas rítmicas
+T15	SYMPTOM 2332 2338	soplos
+T16	SYMPTOM 2344 2372	ingurgitación venosa yugular
+T17	SYMPTOM 2405 2414	arrítmica
+T18	SYMPTOM 2416 2471	Soplo diastólico decreciente espirativo en foco aórtico
+T19	SYMPTOM 2517 2583	Soplo holosistólico decreciente de intensidad IV/VI en foco mitral
+T20	SYMPTOM 2634 2663	murmullo vesicular conservado
+T21	SYMPTOM 2668 2689	crepitantes bibasales
+T22	SYMPTOM 2693 2731	Abdomen: globuloso, blando, depresible
+T23	SYMPTOM 2746 2751	masas
+T25	SYMPTOM 2790 2837	Molestia a la palpación profunda en hipocondrio
+T26	SYMPTOM 2874 2906	Ruidos peristálticos conservados
+T27	SYMPTOM 2911 2929	soplos abdominales
+T28	SYMPTOM 2947 3003	pulsos presentes y simétricos en extremidades superiores
+T29	SYMPTOM 3041 3097	edemas con fóvea hasta las región media de ambas piernas
+T31	SYMPTOM 3918 3963	agrandamiento de la silueta cardiopericárdica
+T32	SYMPTOM 3981 3999	líneas B de Kerley
+T33	SYMPTOM 4002 4035	pinzamiento del seno costofrénico
+T35	SYMPTOM 4194 4213	Hipoquinesia global
+T38	SYMPTOM 6875 6918	aumento de calibre de la vena cava inferior
+T39	SYMPTOM 6981 7033	infiltración difusa de la grasa subcutánea abdominal
+T40	SYMPTOM 7086 7120	alteración del estado hemodinámico
+T41	SYMPTOM 8469 8483	dolor torácico
+T42	SYMPTOM 9119 9130	falleciendo
+T153	SYMPTOM 1042 1101	leucocitosis -13450 leucocitos/uL- con desviación izquierda
+T2	SYMPTOM 2212 2227	normoperfundido
+T160	SYMPTOM 6508 6574	opacidades focales pulmonares periféricas en el hemitórax superior
+T161	SYMPTOM 3214 3239	Neurológico: no focalidad
+T173	SYMPTOM 6585 6655	consolidaciones en la regiones posteriores de ambos lóbulos inferiores
+T174	SYMPTOM 6030 6081	defectos de repleción en el árbol arterial pulmonar
+T176	SYMPTOM 7731 7765	estabilidad clínica y hemodinámica
+T180	SYMPTOM 6829 6846	hígado de estasis
+T184	SYMPTOM 7058 7076	líquido perirrenal
+T197	SYMPTOM 3382 3402	sobrecarga sistólica
+T30	SYMPTOM 5947 6018	troncos supraaórticos y ambas carótidas se originan de la luz verdadera
+T34	SYMPTOM 8801 8877	progresión retrograda de la disección aórtica hacia seno de Valsalva derecho

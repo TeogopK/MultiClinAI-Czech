@@ -1,0 +1,33 @@
+T1	SYMPTOM 395 407	asintomático
+T2	SYMPTOM 493 509	malestar general
+T3	SYMPTOM 511 519	mialgias
+T4	SYMPTOM 521 531	artralgias
+T5	SYMPTOM 533 545	dolor lumbar
+T6	SYMPTOM 547 554	vómitos
+T7	SYMPTOM 556 563	diarrea
+T8	SYMPTOM 566 575	febrícula
+T9	SYMPTOM 611 623	leucocitosis
+T10	SYMPTOM 752 772	ritmo sinusal normal
+T11	SYMPTOM 807 816	lumbalgia
+T12	SYMPTOM 912 920	tiritona
+T13	SYMPTOM 922 928	fiebre
+T14	SYMPTOM 940 951	hipotensión
+T15	SYMPTOM 1489 1505	disnea de reposo
+T17	SYMPTOM 2335 2354	dolor retroesternal
+T19	SYMPTOM 4677 4724	hemocultivos y urocultivos resultaron negativos
+T20	SYMPTOM 4729 4796	cultivo del líquido pericárdico resultó positivo para S. pneumoniae
+T21	SYMPTOM 5215 5254	deterioro progresivo del estado general
+T22	SYMPTOM 5259 5265	fiebre
+T23	SYMPTOM 5268 5279	hipotensión
+T24	SYMPTOM 5288 5348	hemocultivos resultaron positivos para Candida orthopsilosis
+T25	SYMPTOM 5399 5407	falleció
+T124	SYMPTOM 3625 3636	inflamación
+T130	SYMPTOM 3361 3378	sangrado arterial
+T132	SYMPTOM 1853 1885	válvula aórtica normofuncionante
+T18	SYMPTOM 4808 4848	cultivo de las vegetaciones fue negativo
+T69	SYMPTOM 4878 4955	reacción en cadena de la polimerasa (PCR) resultó positivo para S. pneumoniae
+T135	SYMPTOM 1205 1216	bacteriuria
+T155	SYMPTOM 5082 5108	válvulas normofuncionantes
+T98	SYMPTOM 628 714	ecografía abdominal y la radiología simple torácica y lumbar no revelaron alteraciones
+T114	SYMPTOM 2924 2972	líquido pericárdico era de aspecto sanguinolento
+T116	SYMPTOM 3643 3685	válvula aórtica pequeña, fina y competente

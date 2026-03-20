@@ -1,0 +1,55 @@
+T112	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T130	PROCEDURE 572 586	echocardiogram
+T1	PROCEDURE 605 660	anti-ischaemic, antiplatelet and lipid-lowering therapy
+T109	PROCEDURE 673 693	coronary angiography
+T2	PROCEDURE 742 821	mid-distal anterior descending artery with implantation of a drug-eluting stent
+T111	PROCEDURE 973 988	echocardiograms
+T3	PROCEDURE 2223 2304	implantation of a drug-eluting stent in the mid-distal anterior descending artery
+T113	PROCEDURE 2576 2596	Physical examination
+T114	PROCEDURE 2781 2803	Pulmonary auscultation
+T115	PROCEDURE 2841 2861	Cardiac auscultation
+T116	PROCEDURE 3006 3015	palpation
+T117	PROCEDURE 3184 3201	Electrocardiogram
+T118	PROCEDURE 3485 3513	Transthoracic echocardiogram
+T6	PROCEDURE 4385 4396	Blood tests
+T156	PROCEDURE 4398 4410	Biochemistry
+T5	PROCEDURE 4711 4714	CBC
+T4	PROCEDURE 4884 4972	Pre-TAVI CT scan: study from pulmonary apex to symphysis pubis with intravenous contrast
+T119	PROCEDURE 4888 4892	TAVI
+T127	PROCEDURE 5019 5042	cardiac synchronisation
+T120	PROCEDURE 6057 6061	TAVI
+T110	PROCEDURE 6062 6082	coronary angiography
+T128	PROCEDURE 6567 6597	transesophageal echocardiogram
+T121	PROCEDURE 6653 6657	TAVI
+T133	PROCEDURE 6658 6672	echocardiogram
+T122	PROCEDURE 6806 6810	TAVI
+T136	PROCEDURE 7507 7528	antianginal treatment
+T139	PROCEDURE 7533 7569	implantation of a drug-eluting stent
+T134	PROCEDURE 7685 7699	echocardiogram
+T141	PROCEDURE 8315 8347	aortic valve replacement surgery
+T123	PROCEDURE 8365 8369	TAVI
+T124	PROCEDURE 8388 8392	TAVI
+T7	PROCEDURE 8393 8400	CT scan
+T143	PROCEDURE 8619 8636	valve replacement
+T144	PROCEDURE 9274 9293	general anaesthesia
+T145	PROCEDURE 9299 9321	orotracheal intubation
+T129	PROCEDURE 9326 9358	transesophageal echocardiography
+T146	PROCEDURE 9388 9421	right jugular vein was cannulated
+T147	PROCEDURE 9427 9471	transient intravenous pacemaker implantation
+T8	PROCEDURE 9477 9532	left femoral artery was punctured by Doppler ultrasound
+T11	PROCEDURE 9575 9661	contralateral angiography, through which a 26th Edwards SAPIEN prosthesis was advanced
+T10	PROCEDURE 9670 9693	prosthesis implantation
+T9	PROCEDURE 9824 9827	TEE
+T148	PROCEDURE 9840 9851	aortography
+T12	PROCEDURE 9857 9901	right femoral access was closed with Prostar
+T150	PROCEDURE 9952 9977	contralateral angiography
+T151	PROCEDURE 10050 10059	extubated
+T152	PROCEDURE 10430 10461	oral antihypertensive treatment
+T153	PROCEDURE 10503 10512	telemetry
+T157	PROCEDURE 10887 10901	renal function
+T154	PROCEDURE 11027 11049	antibiotic prophylaxis
+T125	PROCEDURE 11067 11071	TAVI
+T13	PROCEDURE 11279 11306	double antiplatelet therapy
+T155	PROCEDURE 11752 11779	oral antidiabetic treatment
+T126	PROCEDURE 11970 11974	TAVI
+T140	PROCEDURE 12069 12105	implantation of a drug-eluting stent

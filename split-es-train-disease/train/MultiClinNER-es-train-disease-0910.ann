@@ -1,0 +1,52 @@
+T30	DISEASE 102 135	hipertrofia ventricular izquierda
+T31	DISEASE 244 253	arritmias
+T32	DISEASE 456 467	cardiopatía
+T33	DISEASE 471 491	muerte súbita precoz
+T34	DISEASE 570 603	Alergia al ácido acetilsalicílico
+T35	DISEASE 605 614	Exfumador
+T36	DISEASE 658 665	bebedor
+T37	DISEASE 667 688	Hipertensión arterial
+T38	DISEASE 690 693	HTA
+T39	DISEASE 740 757	diabetes mellitus
+T40	DISEASE 759 761	DM
+T41	DISEASE 766 776	dislipemia
+T42	DISEASE 778 781	DLP
+T43	DISEASE 888 909	cardiopatía isquémica
+T44	DISEASE 921 940	crisis hipertensiva
+T45	DISEASE 1092 1127	hipertrofia ventricular concéntrica
+T46	DISEASE 1243 1262	isquemia miocárdica
+T47	DISEASE 1265 1288	arritmias ventriculares
+T48	DISEASE 1695 1739	flcuotnter auricular antihorario paroxístico
+T49	DISEASE 2004 2013	arritmias
+T50	DISEASE 2439 2448	arritmias
+T51	DISEASE 2708 2741	hipertrofia ventricular izquierda
+T52	DISEASE 3354 3371	corazón de atleta
+T53	DISEASE 3404 3431	miocardiopatía hipertrófica
+T54	DISEASE 3875 3900	trombosis venosa profunda
+T55	DISEASE 3902 3905	TVP
+T56	DISEASE 4413 4432	bradicardia sinusal
+T57	DISEASE 4493 4526	hipertrofia ventricular izquierda
+T58	DISEASE 5079 5113	miocardiopatía hipertrófica apical
+T59	DISEASE 5173 5202	Mitral con insuficiencia leve
+T60	DISEASE 5213 5279	Insuficiencia aórtica ligera por dilatación ligera de raíz aórtica
+T61	DISEASE 6990 7039	variante apical de la miocardiopatía hipertrófica
+T62	DISEASE 7041 7044	MCH
+T63	DISEASE 7251 7260	arritmias
+T64	DISEASE 7306 7355	Miocardiopatía hipertrófica apical no obstructiva
+T65	DISEASE 7409 7450	Flutter auricular antihorario paroxístico
+T66	DISEASE 5149 5171	Dilatación biauricular
+T67	DISEASE 6126 6134	fibrosis
+T68	DISEASE 6682 6690	fibrosis
+T69	DISEASE 2614 2622	síncopes
+T70	DISEASE 187 204	corazón de atleta
+T71	DISEASE 276 292	flutterauricular
+T72	DISEASE 1605 1622	corazón de atleta
+T73	DISEASE 4740 4805	ventrículo izquierdo no dilatado con hipertrofia concéntrica leve
+T74	DISEASE 5461 5535	ventrículo izquierdo no dilatado con hipertrofia únicamente a nivel apical
+T75	DISEASE 6265 6339	ventrículo izquierdo no dilatado con hipertrofia únicamente a nivel apical
+T150	DISEASE 2875 2912	hipertrofia concéntrica leve-moderada
+T153	DISEASE 6138 6146	necrosis
+T154	DISEASE 6694 6702	necrosis
+T19	DISEASE 2120 2143	hipertrofia concéntrica
+T130	DISEASE 7361 7369	fibrosis
+#1	AnnotatorNotes T62	 miocardiopatía hipertrófica

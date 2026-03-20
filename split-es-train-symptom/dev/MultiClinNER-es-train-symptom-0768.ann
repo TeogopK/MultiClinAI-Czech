@@ -1,0 +1,23 @@
+T2	SYMPTOM 1774 1790	clínica anginosa
+T3	SYMPTOM 1864 1870	disnea
+T4	SYMPTOM 2169 2194	ruidos cardiacos rítmicos
+T5	SYMPTOM 2200 2206	soplos
+T6	SYMPTOM 2231 2260	murmullo vesicular conservado
+T7	SYMPTOM 2262 2265	MVC
+T8	SYMPTOM 2298 2313	Abdomen anodino
+T9	SYMPTOM 2315 2356	Extremidades inferiores (EEII) sin edemas
+T10	SYMPTOM 2403 2418	Pulsos Normales
+T11	SYMPTOM 2869 2882	ritmo sinusal
+T12	SYMPTOM 2926 2959	onda Q en derivaciones inferiores
+T13	SYMPTOM 3487 3522	valvulares, con apertura conservada
+T14	SYMPTOM 3653 3700	Vena cava inferior y suprahepática no dilatadas
+T92	SYMPTOM 5500 5508	sangrado
+T85	SYMPTOM 196 221	elevación del segmento ST
+T1	SYMPTOM 659 720	acinesia/discinesia en segmentos inferiores e inferolaterales
+T87	SYMPTOM 853 938	fracción de eyección del ventrículo izquierdo (FEVI) residual moderadamente deprimida
+T88	SYMPTOM 1903 1912	sangrados
+T89	SYMPTOM 2964 2989	supradesnivelación del ST
+T90	SYMPTOM 3008 3037	onda T negativa inferolateral
+T91	SYMPTOM 3145 3178	Hipocinesia de cara lateral media
+T93	SYMPTOM 3336 3373	FEVI residual moderadamente deprimida
+T104	SYMPTOM 3628 3651	compromiso hemodinámico

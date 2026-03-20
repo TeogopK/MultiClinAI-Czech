@@ -1,0 +1,57 @@
+T89	DISEASE 24 43	Bronquitis asmática
+T90	DISEASE 45 59	Hipotiroidismo
+T91	DISEASE 61 82	Hipertensión arterial
+T92	DISEASE 84 103	Hipercolesterolemia
+T93	DISEASE 105 124	Esteatosis hepática
+T94	DISEASE 126 150	Diverticulosis sigmoidea
+T95	DISEASE 152 179	Síndrome del túnel carpiano
+T96	DISEASE 181 212	Hipertrofia benigna de próstata
+T97	DISEASE 214 229	Hernia de hiato
+T98	DISEASE 272 288	Rinitis alérgica
+T99	DISEASE 904 926	insuficiencia cardiaca
+T100	DISEASE 982 1004	infección respiratoria
+T101	DISEASE 1365 1390	trombosis venosa profunda
+T102	DISEASE 1940 1965	trombosis venosa profunda
+T103	DISEASE 4294 4309	derrame pleural
+T104	DISEASE 5273 5321	aneurisma/ pseudoaneurisma ventricular izquierdo
+T105	DISEASE 5336 5339	TEP
+T106	DISEASE 5516 5583	ventrículo izquierdo con aneurisma apical extenso y pseudoaneurisma
+T107	DISEASE 5585 5600	Rotura cardiaca
+T108	DISEASE 5761 5777	aneurisma apical
+T109	DISEASE 6251 6298	insuficiencia mitral secundaria ligera/moderada
+T110	DISEASE 7801 7820	derrame pericárdico
+T111	DISEASE 8629 8658	Disfunción ventricular severa
+T112	DISEASE 8757 8788	hipertrofia benigna de próstata
+T113	DISEASE 9239 9258	bronquitis asmática
+T115	DISEASE 9927 9949	insuficiencia cardiaca
+T116	DISEASE 10136 10144	neumonía
+T117	DISEASE 10204 10212	neumonía
+T118	DISEASE 10302 10317	pseudoaneurisma
+T119	DISEASE 10755 10776	aneurisma ventricular
+T120	DISEASE 11116 11152	insuficiencia cardiaca descompensada
+T121	DISEASE 11314 11345	hipertrofia benigna de próstata
+T122	DISEASE 11359 11373	hipotiroidismo
+T123	DISEASE 11738 11753	Rotura cardiaca
+T124	DISEASE 11765 11780	pseudoaneurisma
+T125	DISEASE 439 462	alergias medicamentosas
+T126	DISEASE 9460 9501	descompensación de insuficiencia cardiaca
+T128	DISEASE 10900 10915	pseudoaneurisma
+T129	DISEASE 635 642	IAMCEST
+T130	DISEASE 3057 3102	Arteria coronaria derecha media con estenosis
+T131	DISEASE 3112 3160	Arteria descendente anterior media con estenosis
+T132	DISEASE 5470 5497	Atelectasia laminar bibasal
+T133	DISEASE 5676 5705	ventrículo izquierdo dilatado
+T134	DISEASE 5780 5873	Neocavidad a nivel de la región apical anterolateral que comunica con el ventrículo izquierdo
+T135	DISEASE 5981 5996	pseudoaneurisma
+T136	DISEASE 6003 6019	aneurisma apical
+T137	DISEASE 7734 7787	Raíz aórtica y aorta ascendente ligeramente dilatadas
+T138	DISEASE 8323 8330	IAMCEST
+T139	DISEASE 8546 8562	IAMCEST anterior
+T140	DISEASE 10324 10340	aneurisma apical
+T141	DISEASE 11787 11803	aneurisma apical
+T23	DISEASE 6458 6529	Despegamiento pericárdico inferolateral en la zona peri-pseudoaneurisma
+T310	DISEASE 5452 5461	granuloma
+T46	DISEASE 3171 3210	Arteria circunfleja con irregularidades
+T31	DISEASE 3326 3345	material trombótico
+T77	DISEASE 5208 5242	formación sacular en ápex cardiaco
+T220	DISEASE 6930 6969	necrosis extensa anteroseptal y lateral

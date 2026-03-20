@@ -1,0 +1,31 @@
+T55	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T56	PROCEDURE 1147 1167	Physical examination
+T57	PROCEDURE 1389 1409	Cardiac auscultation
+T58	PROCEDURE 1474 1496	Pulmonary auscultation
+T59	PROCEDURE 2575 2592	electrocardiogram
+T60	PROCEDURE 2594 2597	ECG
+T61	PROCEDURE 2801 2825	Chest X-ray, portable AP
+T62	PROCEDURE 2997 3016	SARS-CoV-2 serology
+T63	PROCEDURE 3055 3069	Blood cultures
+T67	PROCEDURE 3149 3175	Pericardial fluid analysis
+T68	PROCEDURE 3324 3338	echocardiogram
+T69	PROCEDURE 3952 3966	Echocardiogram
+T70	PROCEDURE 5068 5082	echocardiogram
+T74	PROCEDURE 5360 5379	Thoracoabdominal CT
+T76	PROCEDURE 5813 5861	Magnetic resonance imaging (MRI) of the shoulder
+T84	PROCEDURE 5841 5844	MRI
+T77	PROCEDURE 5899 5909	Lumbar MRI
+T85	PROCEDURE 5906 5909	MRI
+T64	PROCEDURE 6988 7002	blood cultures
+T71	PROCEDURE 7019 7033	echocardiogram
+T65	PROCEDURE 7165 7179	Blood cultures
+T80	PROCEDURE 7268 7276	drainage
+T79	PROCEDURE 7343 7369	Pericardial fluid cultures
+T81	PROCEDURE 7504 7512	drainage
+T82	PROCEDURE 7544 7574	transesophageal echocardiogram
+T72	PROCEDURE 7560 7574	echocardiogram
+T75	PROCEDURE 7993 8012	thoracoabdominal CT
+T83	PROCEDURE 8017 8079	magnetic resonance imaging of both shoulders and lumbar region
+T78	PROCEDURE 8371 8385	antibiotherapy
+T73	PROCEDURE 8496 8510	echocardiogram
+T66	PROCEDURE 8775 8789	blood cultures

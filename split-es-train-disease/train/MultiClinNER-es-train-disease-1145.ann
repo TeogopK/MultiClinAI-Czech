@@ -1,0 +1,39 @@
+T34	DISEASE 3168 3181	cardiomegalia
+T77	DISEASE 70 99	alergias conocidas a fármacos
+T79	DISEASE 143 153	dislipemia
+T80	DISEASE 155 180	diabetes meillitus tipo 2
+T81	DISEASE 182 203	hipertensión arterial
+T82	DISEASE 205 228	Miocardiopatía dilatada
+T83	DISEASE 514 543	movimento septoapical anómalo
+T84	DISEASE 597 626	Insuficiencia mitral moderada
+T85	DISEASE 628 649	Insuficiencia aórtica
+T86	DISEASE 745 778	Insuficiencia tricúspide moderada
+T87	DISEASE 839 877	Fibrilación auricular (FA) paroxística
+T88	DISEASE 862 864	FA
+T89	DISEASE 899 950	enfermedad pulmonar obstructiva crónica (EPOC) leve
+T90	DISEASE 940 944	EPOC
+T91	DISEASE 952 977	Hipotiroidismo subclínico
+T92	DISEASE 1501 1537	insuficiencia cardiaca descompensada
+T93	DISEASE 2370 2386	ascitis moderada
+T94	DISEASE 2714 2739	trombosis venosa profunda
+T95	DISEASE 2741 2744	TVP
+T96	DISEASE 2810 2829	bradicardia sinusal
+T97	DISEASE 2896 2939	trastorno de la conducción intraventricular
+T98	DISEASE 3050 3097	bloqueo completo de rama derecha del haz de His
+T99	DISEASE 3208 3233	derrame pleural bilateral
+T100	DISEASE 4438 4466	disfunción ventricular grave
+T101	DISEASE 4551 4580	Insuficiencia mitral moderada
+T102	DISEASE 4666 4687	Insuficiencia aórtica
+T103	DISEASE 4775 4831	Insuficiencia tricúspide moderada, dilatación del anillo
+T105	DISEASE 5048 5078	Insuficiencia mitral y aórtica
+T106	DISEASE 5301 5326	Insuficiencia tricuspídea
+T107	DISEASE 5495 5531	insuficiencia cardiaca descompensada
+T108	DISEASE 5697 5725	disfunción ventricular grave
+T109	DISEASE 5771 5815	insuficiencia mitral y tricuspídea moderadas
+T111	DISEASE 6241 6305	Miocardiopatía dilatada no isquémica, con disfunción grave de VI
+T113	DISEASE 6307 6377	Asincronía interventricular por trastorno de la conducción tipo no-BRI
+T115	DISEASE 4696 4722	VD de diámetros aumentados
+T117	DISEASE 5188 5229	Aurícula izquierda moderadamente dilatada
+T44	DISEASE 5737 5764	asincronía interventricular
+T124	DISEASE 827 829	HP
+T120	DISEASE 4334 4360	VI de diámetros aumentados

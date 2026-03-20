@@ -1,0 +1,41 @@
+T21	PROCEDURE 210 230	exodontia of a molar
+T1	PROCEDURE 306 326	Physical examination
+T6	PROCEDURE 331 349	orthopantomography
+T31	PROCEDURE 603 639	facial computed tomography (CT) scan
+T29	PROCEDURE 631 633	CT
+T18	PROCEDURE 920 926	biopsy
+T27	PROCEDURE 1120 1140	Immunohistochemistry
+T3	PROCEDURE 1241 1260	general anaesthesia
+T5	PROCEDURE 1265 1288	nasotracheal intubation
+T36	PROCEDURE 1290 1398	surgical excision of the lesion with margins was performed using a combined intraoral and extraoral approach
+T30	PROCEDURE 1405 1434	segmental haemimandibulectomy
+T37	PROCEDURE 1606 1686	Primary reconstruction was performed using a microvascularised free fibula graft
+T23	PROCEDURE 1739 1765	flap was preformed in situ
+T20	PROCEDURE 1881 1940	osteotomy of the peroneal bone and fixation with miniplates
+T8	PROCEDURE 1942 2114	Vascular anastomosis was performed between the right peroneal and facial arteries, and between the concomitant right peroneal veins and right thyrolinguofacial venous trunk
+T26	PROCEDURE 2120 2138	histological study
+T42	PROCEDURE 2306 2315	operation
+T32	PROCEDURE 2463 2552	vertical osteogenic distraction of the fibula by placing an intraoral alveolar distractor
+T33	PROCEDURE 2555 2575	Distractor placement
+T4	PROCEDURE 2596 2615	general anaesthesia
+T9	PROCEDURE 2621 2633	fibula graft
+T11	PROCEDURE 2657 2695	incision in the vestibular oral mucosa
+T15	PROCEDURE 2711 2735	subperiosteal dissection
+T2	PROCEDURE 2883 3010	intraoral alveolar distractor (MODUS ARS 1.5; Medartis®, Basel, Switzerland) was placed on the vestibular surface of the fibula
+T12	PROCEDURE 3035 3046	osteotomies
+T13	PROCEDURE 3052 3144	osteotomies were performed on the vestibular surface of the fibula, using an oscillating saw
+T17	PROCEDURE 3151 3168	saline irrigation
+T19	PROCEDURE 3257 3344	The alveolar distractor was fixed with screws on both sides of the horizontal osteotomy
+T34	PROCEDURE 3335 3344	osteotomy
+T25	PROCEDURE 3658 3669	haemostasis
+T28	PROCEDURE 3671 3705	The vestibular incision was closed
+T14	PROCEDURE 3953 3972	orthopantomographic
+T16	PROCEDURE 4007 4048	vertical distraction of the peroneal bone
+T10	PROCEDURE 4183 4195	fibula graft
+T7	PROCEDURE 4451 4469	Orthopantomography
+T49	PROCEDURE 4594 4603	operation
+T22	PROCEDURE 4609 4665	distractor was removed using the same intraoral approach
+T50	PROCEDURE 4761 4770	operation
+T35	PROCEDURE 4772 4842	three 3.75 × 15 mm threaded titanium implants (Mozo-Grau®) were placed
+T24	PROCEDURE 4961 4986	Prosthetic rehabilitation
+T38	PROCEDURE 4997 5025	implant-supported prosthesis

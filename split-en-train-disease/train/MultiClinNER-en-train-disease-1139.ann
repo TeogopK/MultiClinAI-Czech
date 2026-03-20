@@ -1,0 +1,56 @@
+T25	DISEASE 183 197	drug allergies
+T26	DISEASE 261 273	tuberculosis
+T27	DISEASE 395 416	benign ovarian tumour
+T62	DISEASE 660 669	urticaria
+T28	DISEASE 732 749	thyroid pathology
+T29	DISEASE 1008 1030	pulmonary hypertension
+T35	DISEASE 1156 1187	acute pulmonary thromboembolism
+T74	DISEASE 1537 1544	goitres
+T5	DISEASE 1548 1560	adenopathies
+T36	DISEASE 1999 2019	deep vein thrombosis
+T37	DISEASE 2497 2508	pneumonitis
+T38	DISEASE 2512 2532	pulmonary infarction
+T75	DISEASE 2628 2668	dilatation of the pulmonary artery trunk
+T30	DISEASE 2736 2758	pulmonary hypertension
+T39	DISEASE 2881 2931	right hepatic lobe corresponding to a hydatid cyst
+T40	DISEASE 3089 3159	mild right ventricular dysfunction, with severe pulmonary hypertension
+T7	DISEASE 3346 3368	valvular heart disease
+T42	DISEASE 3430 3441	hydatidosis
+T32	DISEASE 3762 3784	pulmonary hypertension
+T43	DISEASE 4108 4119	hydatidosis
+T41	DISEASE 4219 4289	mild right ventricular dysfunction, with severe pulmonary hypertension
+T9	DISEASE 4469 4491	valvular heart disease
+T44	DISEASE 4644 4663	infectious diseases
+T45	DISEASE 4885 4898	hydatid cysts
+T46	DISEASE 5014 5032	anaphylactic shock
+T50	DISEASE 5618 5653	severe left ventricular dysfunction
+T54	DISEASE 5699 5708	ischaemia
+T72	DISEASE 5741 5758	myocardial damage
+T55	DISEASE 5826 5847	stress cardiomyopathy
+T47	DISEASE 5878 5896	anaphylactic shock
+T58	DISEASE 6158 6186	left ventricular dysfunction
+T15	DISEASE 6331 6347	rupture of cysts
+T16	DISEASE 6486 6525	severe pulmonary circulation alteration
+T78	DISEASE 6874 6894	distal hypoperfusion
+T51	DISEASE 6973 7008	severe left ventricular dysfunction
+T48	DISEASE 7157 7175	anaphylactic shock
+T79	DISEASE 7219 7231	desaturation
+T73	DISEASE 7249 7260	hypotension
+T18	DISEASE 7374 7394	pulmonary congestion
+T80	DISEASE 7504 7516	desaturation
+T63	DISEASE 7521 7530	urticaria
+T65	DISEASE 7556 7567	anaphylaxis
+T76	DISEASE 7589 7616	release of hydatid vesicles
+T77	DISEASE 7805 7854	moderate-severe dilatation of the right ventricle
+T52	DISEASE 7895 7930	severe left ventricular dysfunction
+T81	DISEASE 7976 7988	desaturation
+T64	DISEASE 8001 8010	urticaria
+T4	DISEASE 8087 8117	electromechanical dissociation
+T66	DISEASE 8241 8249	asystole
+T67	DISEASE 8254 8283	thrombosis of both ventricles
+T2	DISEASE 8449 8553	Severe pulmonary hypertension secondary to compromise of the pulmonary arterial tree by hydatid vesicles
+T3	DISEASE 8600 8620	hepatic hydatid cyst
+T70	DISEASE 8622 8651	Right ventricular dysfunction
+T49	DISEASE 8681 8751	Anaphylactic shock in relation to disseminated hepatic hydatid disease
+T71	DISEASE 8758 8845	stress cardiomyopathy with development of secondary severe left ventricular dysfunction
+T1	DISEASE 8847 8905	Cardiorespiratory arrest in electromechanical dissociation

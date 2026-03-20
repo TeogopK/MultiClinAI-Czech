@@ -1,0 +1,17 @@
+T1	DISEASE 647 657	arrhythmic
+T21	DISEASE 1084 1121	moderate left ventricular dysfunction
+T29	DISEASE 1134 1168	mild right ventricular dysfunction
+T30	DISEASE 1170 1197	Mild left atrial dilatation
+T22	DISEASE 1204 1238	mitral and tricuspid insufficiency
+T23	DISEASE 1290 1309	tachycardiomyopathy
+T31	DISEASE 1388 1410	narrow QRS tachycardia
+T2	DISEASE 1746 1800	complete right bundle branch right bundle branch block
+T3	DISEASE 1802 1806	RBBB
+T4	DISEASE 1837 1879	anterograde dual nodal pathway tachycardia
+T25	DISEASE 1996 2009	heart failure
+T28	DISEASE 2125 2152	severe systolic dysfunction
+T26	DISEASE 2213 2226	heart failure
+T5	DISEASE 2484 2528	significant lesions in the coronary arteries
+T27	DISEASE 2573 2609	non-reentrant intranodal tachycardia
+T6	DISEASE 2810 2846	Double nodal anterograde tachycardia
+T24	DISEASE 2857 2876	tachycardiomyopathy

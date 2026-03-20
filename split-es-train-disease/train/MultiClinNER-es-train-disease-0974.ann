@@ -1,0 +1,24 @@
+T33	DISEASE 181 200	bradicardia sinusal
+T34	DISEASE 346 372	enfermedades cardiológicas
+T35	DISEASE 379 392	muerte súbita
+T36	DISEASE 1012 1023	bradicardia
+T37	DISEASE 1527 1530	TVP
+T38	DISEASE 2112 2121	arritmias
+T39	DISEASE 2620 2639	isquemia miocárdica
+T40	DISEASE 3149 3165	BAV suprahisiano
+T41	DISEASE 3344 3347	BAV
+T42	DISEASE 3409 3432	cardiopatía estructural
+T43	DISEASE 3666 3682	BAV suprahisiano
+T44	DISEASE 3811 3852	Bloqueo aurículo-ventriuclar suprahisiano
+T45	DISEASE 606 623	episodio sincopal
+T46	DISEASE 857 888	episodio sincopal o presincopal
+T47	DISEASE 731 742	traumatismo
+T48	DISEASE 1078 1097	bloqueo AV completo
+T49	DISEASE 1956 1961	ángor
+T50	DISEASE 2044 2077	alteraciones en la repolarización
+T51	DISEASE 2982 3016	origen suprahisiano del bloqueo AV
+T52	DISEASE 3244 3280	episodios sincopales o presincopales
+T25	DISEASE 2323 2327	BAVc
+T27	DISEASE 1102 1117	ritmo de escape
+T80	DISEASE 2156 2160	BAVc
+T82	DISEASE 2796 2822	BAV 2o grado tipo Mobitz I

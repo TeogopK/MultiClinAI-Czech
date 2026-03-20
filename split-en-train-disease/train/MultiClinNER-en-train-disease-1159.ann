@@ -1,0 +1,27 @@
+T39	DISEASE 26 40	drug allergies
+T30	DISEASE 65 90	ventricular septal defect
+T41	DISEASE 222 234	toxic habits
+T1	DISEASE 739 762	peripheral adenopathies
+T34	DISEASE 766 778	skin lesions
+T42	DISEASE 1550 1583	complete left bundle branch block
+T4	DISEASE 1585 1589	LBBB
+T43	DISEASE 1856 1883	left ventricular dilatation
+T5	DISEASE 1985 2081	infective endocarditis on the aortic valve, with valvular rupture causing grade IV insufficiency
+T6	DISEASE 2083 2179	functional mitral regurgitation grade III (Carpentier's type I, due to dilatation of the annulus
+T40	DISEASE 2187 2209	left atrial dilatation
+T35	DISEASE 2214 2243	severe pulmonary hypertension
+T44	DISEASE 2253 2323	Tricuspid valve involvement (septal leaflet) with severe regurgitation
+T45	DISEASE 2363 2403	perimembranous ventricular septal defect
+T37	DISEASE 2524 2536	haemorrhoids
+T8	DISEASE 3140 3231	infective endocarditis on the tricuspid and aortic valves, with severe aortic insufficiency
+T9	DISEASE 3236 3246	dilated LV
+T32	DISEASE 3714 3739	ventricular septal defect
+T11	DISEASE 3741 3744	VSD
+T13	DISEASE 4129 4171	Endocarditis on aortic and tricuspid valve
+T14	DISEASE 4173 4256	Heart failure with preserved ejection fraction, secondary to valvular heart disease
+T15	DISEASE 4258 4312	Grade IV aortic insufficiency due to valve destruction
+T16	DISEASE 4314 4388	Grade III tricuspid regurgitation due to destruction of the septal leaflet
+T38	DISEASE 4411 4431	mitral insufficiency
+T46	DISEASE 4433 4473	Perimembranous ventricular septal defect
+T36	DISEASE 4475 4504	Severe pulmonary hypertension
+T17	DISEASE 4613 4616	VSD

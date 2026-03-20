@@ -1,0 +1,79 @@
+T105	DISEASE 68 90	adverse drug reactions
+T106	DISEASE 121 133	hypertension
+T112	DISEASE 135 159	type 2 diabetes mellitus
+T115	DISEASE 176 182	Smoker
+T116	DISEASE 253 260	Obesity
+T117	DISEASE 262 293	Chronic ischaemic heart disease
+T124	DISEASE 270 279	ischaemic
+T119	DISEASE 295 311	2-vessel disease
+T120	DISEASE 329 342	stable angina
+T121	DISEASE 463 498	acute hypertensive pulmonary oedema
+T175	DISEASE 681 694	heart failure
+T104	DISEASE 761 780	tachycardiomyopathy
+T125	DISEASE 785 794	ischaemic
+T129	DISEASE 834 868	Paroxysmal atypical atrial flutter
+T130	DISEASE 1160 1176	Aortic sclerosis
+T178	DISEASE 1320 1339	Dilated left atrium
+T180	DISEASE 1414 1437	tricuspid regurgitation
+T107	DISEASE 1517 1529	hypertension
+T132	DISEASE 1581 1647	Chronic obstructive pulmonary disease moderate emphysema phenotype
+T133	DISEASE 1721 1735	Bladder tumour
+T182	DISEASE 1744 1747	CIS
+T170	DISEASE 1784 1806	chronic kidney disease
+T135	DISEASE 1916 1954	Chronic constipation with haemorrhoids
+T136	DISEASE 1959 1971	anal fissure
+T137	DISEASE 1973 2004	Normocytic-normochromic anaemia
+T162	DISEASE 1997 2004	anaemia
+T139	DISEASE 2033 2045	colon polyps
+T140	DISEASE 2047 2064	chronic gastritis
+T165	DISEASE 2131 2158	Peripheral arterial disease
+T158	DISEASE 2168 2177	ischaemia
+T141	DISEASE 2194 2219	Aortobifemoral thrombosis
+T142	DISEASE 2238 2266	Benign prostatic hyperplasia
+T143	DISEASE 2268 2284	Chronic glaucoma
+T144	DISEASE 2286 2305	Depressive disorder
+T122	DISEASE 3166 3201	acute hypertensive pulmonary oedema
+T145	DISEASE 3488 3505	decompensated CHF
+T108	DISEASE 3583 3604	arterial hypertension
+T109	DISEASE 3592 3604	hypertension
+T146	DISEASE 3694 3720	global respiratory failure
+T123	DISEASE 3739 3774	acute hypertensive pulmonary oedema
+T156	DISEASE 4419 4445	acute mitral insufficiency
+T151	DISEASE 4425 4445	mitral insufficiency
+T147	DISEASE 4959 4979	deep vein thrombosis
+T148	DISEASE 5108 5134	bilateral pleural effusion
+T152	DISEASE 5689 5709	mitral insufficiency
+T131	DISEASE 5749 5765	Aortic sclerosis
+T179	DISEASE 5881 5900	Dilated left atrium
+T181	DISEASE 5975 5998	tricuspid regurgitation
+T149	DISEASE 6061 6071	severe PHT
+T150	DISEASE 8497 8510	atheromatosis
+T166	DISEASE 9283 9302	in-stent restenosis
+T157	DISEASE 9992 10018	acute mitral insufficiency
+T153	DISEASE 9998 10018	mitral insufficiency
+T154	DISEASE 10060 10080	mitral insufficiency
+T159	DISEASE 10100 10109	ischaemia
+T110	DISEASE 10117 10136	high blood pressure
+T167	DISEASE 10184 10203	in-stent restenosis
+T160	DISEASE 10365 10383	mild hyperkalaemia
+T161	DISEASE 10392 10404	hypokalaemia
+T163	DISEASE 10481 10488	anaemia
+T126	DISEASE 10670 10679	ischaemic
+T118	DISEASE 10715 10746	chronic ischaemic heart disease
+T127	DISEASE 10723 10732	ischaemic
+T168	DISEASE 10790 10809	in-stent restenosis
+T138	DISEASE 10839 10870	normocytic-normochromic anaemia
+T164	DISEASE 10863 10870	anaemia
+T134	DISEASE 10896 10910	bladder tumour
+T111	DISEASE 10946 10958	hypertension
+T171	DISEASE 10971 10993	chronic kidney disease
+T172	DISEASE 11233 11252	atrial fibrillation
+T173	DISEASE 11322 11347	gastrointestinal bleeding
+T174	DISEASE 11376 11381	obese
+T113	DISEASE 11395 11419	type 2 diabetes mellitus
+T176	DISEASE 11837 11850	heart failure
+T177	DISEASE 11885 11907	Acute pulmonary oedema
+T128	DISEASE 11932 11941	ischaemic
+T155	DISEASE 11942 11962	mitral insufficiency
+T169	DISEASE 11964 11983	In-stent restenosis
+T114	DISEASE 12010 12034	Type 2 diabetes mellitus

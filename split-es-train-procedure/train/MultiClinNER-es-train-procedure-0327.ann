@@ -1,0 +1,27 @@
+T1	PROCEDURE 982 991	hemograma
+T2	PROCEDURE 1868 1893	RMN craneal con contraste
+T3	PROCEDURE 996 1006	hemostasia
+T4	PROCEDURE 1011 1054	perfil renal, hepático, tiroideo y lipídico
+T5	PROCEDURE 785 824	acceso venoso central subclavio derecho
+T6	PROCEDURE 182 230	cultivos sanguíneos y de líquido cefalorraquídeo
+T7	PROCEDURE 1209 1313	serología a virus de la hepatitis B y C, VIH, VEB, CMV, VHS tipos 1 y 2, Coxiella burnetti y Rickettsias
+T8	PROCEDURE 240 262	soporte fluidoterápico
+T9	PROCEDURE 3208 3211	RMN
+T10	PROCEDURE 937 970	exploración general y neurológica
+T11	PROCEDURE 1328 1407	autoinmunidad con ANA, ANCA, factor reumatoide, inmunoglobulinas y complementos
+T12	PROCEDURE 1449 1456	Mantoux
+T13	PROCEDURE 1467 1526	hemocultivos a través de catéter central, sangre periférica
+T14	PROCEDURE 541 551	urocultivo
+T15	PROCEDURE 1529 1540	urocultivos
+T16	PROCEDURE 553 573	radiografía de tórax
+T17	PROCEDURE 575 594	ecografía abdominal
+T18	PROCEDURE 597 610	TAC de cráneo
+T19	PROCEDURE 1733 1745	fondo de ojo
+T20	PROCEDURE 1747 1765	electrocardiograma
+T21	PROCEDURE 1767 1782	ecocardiografía
+T22	PROCEDURE 2658 2665	PET-TAC
+T23	PROCEDURE 1788 1822	TAC tóraco-abdominal con contraste
+T24	PROCEDURE 1688 1700	baciloscopia
+T25	PROCEDURE 518 539	hemocultivos seriados
+T26	PROCEDURE 1703 1710	cultivo
+T49	PROCEDURE 1376 1392	inmunoglobulinas

@@ -1,0 +1,54 @@
+T11	PROCEDURE 1094 1126	Auscultación cardiorrespiratoria
+T72	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T73	PROCEDURE 310 341	resonancia magnética cerebrales
+T74	PROCEDURE 411 446	Angiomiolipomas renales bilaterales
+T76	PROCEDURE 1012 1030	Exploración física
+T78	PROCEDURE 1478 1495	Gasometría venosa
+T79	PROCEDURE 1648 1657	Hemograma
+T80	PROCEDURE 1776 1787	Coagulación
+T81	PROCEDURE 2396 2421	Endoscopia digestiva alta
+T82	PROCEDURE 2957 2966	Hemograma
+T83	PROCEDURE 3085 3096	Coagulación
+T84	PROCEDURE 3594 3604	Serologías
+T85	PROCEDURE 3820 3839	Ecografía abdominal
+T86	PROCEDURE 4362 4395	TC toraco-abdominal con contraste
+T87	PROCEDURE 5498 5507	Hemograma
+T88	PROCEDURE 5626 5637	Coagulación
+T89	PROCEDURE 6191 6209	Electrocardiograma
+T90	PROCEDURE 6375 6398	Radiografía PA de tórax
+T91	PROCEDURE 6569 6583	Ecocardiograma
+T92	PROCEDURE 7575 7593	Angio-TC coronario
+T95	PROCEDURE 8402 8465	Resonancia magnética nuclear (RMN) cardiaca sin y con contraste
+T96	PROCEDURE 9175 9178	RMN
+T97	PROCEDURE 9266 9293	administración de contraste
+T98	PROCEDURE 9540 9584	Radiografía PA y lateral posimplante DAI-TRC
+T99	PROCEDURE 9755 9794	DAI-TRC en hemitórax superior izquierdo
+T100	PROCEDURE 9861 9870	Hemograma
+T101	PROCEDURE 9989 10000	Coagulación
+T102	PROCEDURE 10496 10512	Estudio genético
+T103	PROCEDURE 10821 10835	Ecocardiograma
+T104	PROCEDURE 11519 11528	ecografía
+T105	PROCEDURE 11739 11768	resonancia magnética cardiaca
+T106	PROCEDURE 12057 12088	angio-TC de arterias coronarias
+T107	PROCEDURE 12246 12262	estudio genético
+T108	PROCEDURE 12609 12660	se implantó un desfibrilador automático implantable
+T109	PROCEDURE 12698 12725	terapia de resincronización
+T110	PROCEDURE 12796 12812	implante del DAI
+T112	PROCEDURE 13067 13114	implante de marcapasos con estimulación hisiana
+T113	PROCEDURE 13538 13562	control ecocardiográfico
+T114	PROCEDURE 13596 13665	implante del marcapasos con estimulación fisiológica en el haz de His
+T116	PROCEDURE 13854 13870	estudio genético
+T1	PROCEDURE 1810 1820	Bioquímica
+T75	PROCEDURE 2423 2426	EDA
+T186	PROCEDURE 3119 3129	Bioquímica
+T195	PROCEDURE 5660 5670	Bioquímica
+T210	PROCEDURE 8432 8435	RMN
+T213	PROCEDURE 10023 10033	Bioquímica
+T173	PROCEDURE 12727 12730	TRC
+T68	PROCEDURE 14027 14085	Implante de marcapasos de estimulación fisiológica hisiana
+T220	PROCEDURE 1626 1635	Analítica
+T221	PROCEDURE 2938 2947	Analítica
+T222	PROCEDURE 5454 5463	Analítica
+T223	PROCEDURE 9827 9836	Analítica
+T233	PROCEDURE 10519 10576	estudio de genes relacionados con miocardiopatía dilatada
+T66	PROCEDURE 12662 12665	DAI

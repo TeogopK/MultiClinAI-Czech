@@ -1,0 +1,29 @@
+T18	PROCEDURE 194 204	vaccinated
+T9	PROCEDURE 423 450	intramuscular antihistamine
+T22	PROCEDURE 457 482	delayed-release corticoid
+T23	PROCEDURE 1028 1039	examination
+T24	PROCEDURE 1113 1133	smear of the lesions
+T14	PROCEDURE 1157 1187	respiratory isolation measures
+T15	PROCEDURE 1360 1374	antihistamines
+T27	PROCEDURE 1532 1543	Examination
+T3	PROCEDURE 1798 1807	anamnesis
+T5	PROCEDURE 1906 1934	Cardiopulmonary auscultation
+T7	PROCEDURE 1958 1979	Abdominal examination
+T34	PROCEDURE 1989 2019	suprapubic pain with palpation
+T10	PROCEDURE 2125 2148	bladder catheterisation
+T17	PROCEDURE 2177 2185	emptying
+T12	PROCEDURE 2199 2220	Blood and urine tests
+T38	PROCEDURE 2279 2294	abdominal X-ray
+T11	PROCEDURE 2832 2855	Osteotendinous reflexes
+T13	PROCEDURE 2939 2963	plantar cutaneous reflex
+T43	PROCEDURE 3082 3137	craniocerebral computerised axial tomography (CAT) scan
+T19	PROCEDURE 3128 3131	CAT
+T2	PROCEDURE 3330 3345	lumbar puncture
+T47	PROCEDURE 3598 3642	spinal magnetic resonance imaging (MRI) scan
+T20	PROCEDURE 3633 3636	MRI
+T1	PROCEDURE 3973 3985	CSF serology
+T6	PROCEDURE 4152 4166	Serum serology
+T8	PROCEDURE 4254 4291	Human Immunodeficiency Virus serology
+T4	PROCEDURE 4616 4635	i.v. corticosteroid
+T51	PROCEDURE 4739 4763	the catheter was removed
+T16	PROCEDURE 4861 4885	rehabilitation treatment

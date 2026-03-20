@@ -1,0 +1,10 @@
+T1	SYMPTOM 97 116	tumoración escrotal
+T2	SYMPTOM 1282 1298	recidiva tumoral
+T3	SYMPTOM 1250 1262	asintomático
+T4	SYMPTOM 269 292	dolorosa a la palpación
+T5	SYMPTOM 240 244	masa
+T6	SYMPTOM 868 872	masa
+T7	SYMPTOM 335 360	transiluminación negativa
+T8	SYMPTOM 363 382	testículos normales
+T9	SYMPTOM 388 421	marcadores testiculares negativos
+A1	RESULTADO T9

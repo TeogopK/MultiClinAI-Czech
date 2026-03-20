@@ -1,0 +1,38 @@
+T1	SYMPTOM 523 543	ST-segment elevation
+T21	SYMPTOM 808 859	Left ventricular ejection fraction (LVEF) preserved
+T22	SYMPTOM 865 902	normofunctioning right ventricle (RV)
+T2	SYMPTOM 1180 1190	chest pain
+T16	SYMPTOM 1294 1361	central thoracic oppression with irradiation to the left upper limb
+T13	SYMPTOM 1836 1848	sinus rhythm
+T3	SYMPTOM 2011 2019	Afebrile
+T4	SYMPTOM 2021 2030	Conscious
+T5	SYMPTOM 2032 2040	oriented
+T23	SYMPTOM 2045 2056	cooperative
+T6	SYMPTOM 2080 2101	rhythmic heart sounds
+T7	SYMPTOM 2103 2114	tachycardic
+T8	SYMPTOM 2119 2126	murmurs
+T9	SYMPTOM 2152 2178	preserved vesicular murmur
+T24	SYMPTOM 2183 2194	added sound
+T10	SYMPTOM 2197 2249	Abdomen: soft, depressible, not painful on palpation
+T25	SYMPTOM 2251 2276	Lower limbs well perfused
+T11	SYMPTOM 2278 2309	positive and symmetrical pulses
+T12	SYMPTOM 2314 2335	neurological focality
+T26	SYMPTOM 2387 2417	renal function and ions normal
+T27	SYMPTOM 2556 2570	normal formula
+T28	SYMPTOM 2604 2631	normal cardiothoracic index
+T29	SYMPTOM 2740 2753	inferior axis
+T30	SYMPTOM 2758 2774	V3-V4 transition
+T14	SYMPTOM 2799 2811	sinus rhythm
+T31	SYMPTOM 2823 2863	negative T in I and aVL and from V4 to V
+T32	SYMPTOM 2887 2889	SR
+T33	SYMPTOM 2901 2942	negative T in I and aVL and from V4 to V6
+T34	SYMPTOM 2978 3011	RV of normal size with dyskinesia
+T35	SYMPTOM 3169 3184	Normal sized LV
+T36	SYMPTOM 3227 3248	mildly depressed LVEF
+T19	SYMPTOM 3264 3340	intramyocardial late enhancement at the inferior junction of both ventricles
+T15	SYMPTOM 3374 3388	preserved LVEF
+T37	SYMPTOM 3782 3795	inferior axis
+T20	SYMPTOM 3800 3823	transition in V3 and V4
+T17	SYMPTOM 3917 3928	tachycardia
+T18	SYMPTOM 4001 4013	asymptomatic
+T38	SYMPTOM 4501 4523	Slightly impaired LVEF

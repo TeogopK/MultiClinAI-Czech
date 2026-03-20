@@ -1,0 +1,33 @@
+T83	DISEASE 193 220	acute myocardial infarction
+T84	DISEASE 247 278	chronic ischaemic heart disease
+T85	DISEASE 398 422	congenital heart disease
+T86	DISEASE 557 571	drug allergies
+T87	DISEASE 602 608	smoker
+T1	DISEASE 658 670	hypertension
+T88	DISEASE 672 680	diabetes
+T89	DISEASE 684 697	dyslipidaemia
+T90	DISEASE 2084 2104	deep vein thrombosis
+T3	DISEASE 2758 2780	valvular heart disease
+T4	DISEASE 2803 2806	PAH
+T91	DISEASE 2839 2859	pericardial effusion
+T92	DISEASE 2947 2975	myocardial fibrosis/necrosis
+T102	DISEASE 3009 3034	Ventricular extrasystoles
+T19	DISEASE 3174 3235	symptomatic polymorphic non-sustained ventricular tachycardia
+T20	DISEASE 3237 3241	PSVT
+T16	DISEASE 3386 3388	VS
+T15	DISEASE 3394 3398	LBBB
+T94	DISEASE 4129 4142	extrasystoles
+T13	DISEASE 4172 4194	Ventricular arrhythmia
+T98	DISEASE 4739 4763	structural heart disease
+T10	DISEASE 4973 4975	VE
+T11	DISEASE 5003 5009	NSTEVT
+T12	DISEASE 5286 5290	LBBB
+T100	DISEASE 5708 5729	sustained arrhythmias
+T9	DISEASE 5827 5830	PVC
+T97	DISEASE 5911 5934	ventricular arrhythmias
+T6	DISEASE 6042 6048	NSTEVT
+T5	DISEASE 6316 6331	channelopathies
+T104	DISEASE 6335 6347	sudden death
+T101	DISEASE 6471 6506	polymorphic ventricular tachycardia
+T103	DISEASE 6532 6557	ventricular extrasystoles
+T99	DISEASE 6717 6741	structural heart disease

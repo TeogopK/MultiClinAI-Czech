@@ -1,0 +1,56 @@
+T27	DISEASE 117 131	drug allergies
+T28	DISEASE 154 167	heart disease
+T29	DISEASE 171 183	sudden death
+T30	DISEASE 189 201	toxic habits
+T31	DISEASE 210 238	moderate alcohol consumption
+T32	DISEASE 277 283	smoker
+T33	DISEASE 321 342	arterial hypertension
+T34	DISEASE 330 342	hypertension
+T38	DISEASE 347 360	dyslipidaemia
+T39	DISEASE 434 448	morbid obesity
+T42	DISEASE 492 520	severe sleep apnoea syndrome
+T67	DISEASE 499 511	sleep apnoea
+T44	DISEASE 543 557	hypothyroidism
+T79	DISEASE 889 896	syncope
+T45	DISEASE 1550 1569	atrial fibrillation
+T77	DISEASE 1669 1681	cardiomegaly
+T76	DISEASE 2174 2202	severely dilated left atrium
+T75	DISEASE 2312 2345	Moderately dilated left ventricle
+T81	DISEASE 2528 2556	Slightly dilated aortic root
+T73	DISEASE 2558 2587	Slightly dilated right atrium
+T74	DISEASE 2603 2626	Dilated right ventricle
+T82	DISEASE 2791 2817	Dilated inferior vena cava
+T50	DISEASE 2904 2924	pericardial effusion
+T80	DISEASE 2972 3027	dilated left ventricle with severe systolic dysfunction
+T78	DISEASE 3032 3052	mitral regurgitation
+T46	DISEASE 3430 3449	atrial fibrillation
+T51	DISEASE 3624 3648	congestive heart failure
+T56	DISEASE 3635 3648	heart failure
+T47	DISEASE 3650 3669	atrial fibrillation
+T52	DISEASE 3650 3701	atrial fibrillation with rapid ventricular response
+T53	DISEASE 3717 3742	left systolic dysfunction
+T54	DISEASE 4264 4286	pulmonary hypertension
+T35	DISEASE 4274 4286	hypertension
+T55	DISEASE 4415 4460	ischaemic aetiology of dilated cardiomyopathy
+T57	DISEASE 4591 4604	heart failure
+T61	DISEASE 4654 4690	non-ischaemic dilated cardiomyopathy
+T63	DISEASE 4795 4814	tachycardiomyopathy
+T58	DISEASE 4870 4883	heart failure
+T65	DISEASE 4870 4916	heart failure with depressed systolic function
+T40	DISEASE 5380 5394	morbid obesity
+T68	DISEASE 5573 5585	sleep apnoea
+T48	DISEASE 5622 5641	atrial fibrillation
+T59	DISEASE 6604 6617	heart failure
+T60	DISEASE 6963 6976	Heart failure
+T70	DISEASE 6963 7026	Heart failure with depressed left ventricular ejection fraction
+T62	DISEASE 7028 7064	Non-ischaemic dilated cardiomyopathy
+T71	DISEASE 7075 7102	toxic damage due to enolism
+T64	DISEASE 7118 7137	tachycardiomyopathy
+T49	DISEASE 7140 7159	Atrial fibrillation
+T72	DISEASE 7260 7293	Very severe sleep apnoea syndrome
+T43	DISEASE 7265 7293	severe sleep apnoea syndrome
+T69	DISEASE 7272 7284	sleep apnoea
+T41	DISEASE 7295 7309	Morbid obesity
+T36	DISEASE 7311 7332	Arterial hypertension
+T37	DISEASE 7320 7332	hypertension
+T66	DISEASE 7365 7376	Prediabetes

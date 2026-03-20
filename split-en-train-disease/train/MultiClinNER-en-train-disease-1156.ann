@@ -1,0 +1,38 @@
+T1	DISEASE 72 84	hypertension
+T13	DISEASE 89 102	dyslipidaemia
+T2	DISEASE 279 307	lower right facial paralysis
+T14	DISEASE 596 627	left frontoparietal haemorrhage
+T19	DISEASE 650 674	subarachnoid haemorrhage
+T15	DISEASE 1144 1175	platypnoea-orthodeoxia syndrome
+T16	DISEASE 1230 1295	tricuspid valve with atrial displacement and severe insufficiency
+T17	DISEASE 1312 1329	Ebstein's disease
+T4	DISEASE 1347 1454	ostium secundum atrial septal defect (ASD-OS) was observed in the posterior septum with bidirectional shunt
+T3	DISEASE 1385 1391	ASD-OS
+T23	DISEASE 1479 1492	heart disease
+T5	DISEASE 1613 1640	extensive cerebral bleeding
+T12	DISEASE 1715 1747	compensated respiratory acidosis
+T28	DISEASE 1811 1836	right bundle branch block
+T18	DISEASE 1904 1933	left frontoparietal haematoma
+T20	DISEASE 1955 1979	subarachnoid haemorrhage
+T6	DISEASE 2093 2128	severe right atrial (RA) dilatation
+T8	DISEASE 2262 2355	Atrial septal defect (ASD) ostium secundum in posterior septum 15 mm with bidirectional shunt
+T7	DISEASE 2407 2456	cardiomegaly at the expense of the right cavities
+T21	DISEASE 2464 2480	pleural effusion
+T9	DISEASE 2509 2572	right PTE with extensive pulmonary infarction in the lower lobe
+T30	DISEASE 3178 3197	pulmonary pathology
+T34	DISEASE 3244 3317	right pulmonary thromboembolism (PTE) with extensive pulmonary infarction
+T11	DISEASE 3277 3280	PTE
+T53	DISEASE 3392 3409	cerebral bleeding
+T52	DISEASE 3426 3429	PTE
+T22	DISEASE 3594 3606	brain bleeds
+T29	DISEASE 3616 3637	embolic complications
+T54	DISEASE 3657 3666	severe TR
+T55	DISEASE 3677 3683	OS-ASD
+T24	DISEASE 3740 3748	embolism
+T56	DISEASE 3760 3766	stroke
+T57	DISEASE 3771 3774	PTE
+T59	DISEASE 3812 3815	ASD
+T25	DISEASE 3942 4001	Left frontoparietal stroke with haemorrhagic transformation
+T26	DISEASE 4004 4021	Cardioembolic PTE
+T27	DISEASE 4024 4041	Ebstein's anomaly
+T60	DISEASE 4046 4090	ASD ostium secundum with bidirectional shunt

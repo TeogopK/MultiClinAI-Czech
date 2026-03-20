@@ -1,0 +1,84 @@
+T1	SYMPTOM 926 937	hipotensión
+T2	SYMPTOM 997 1008	taquicardia
+T3	SYMPTOM 1580 1588	anorexia
+T4	SYMPTOM 1590 1597	astenia
+T5	SYMPTOM 1600 1637	dolor continuo en hipocondrio derecho
+T6	SYMPTOM 1683 1704	sensación de plenitud
+T7	SYMPTOM 1725 1732	náuseas
+T8	SYMPTOM 1734 1741	vómitos
+T9	SYMPTOM 1743 1750	coluria
+T10	SYMPTOM 1753 1759	acolia
+T11	SYMPTOM 1771 1791	sensación distérmica
+T12	SYMPTOM 1810 1846	alteraciones del tránsito intestinal
+T13	SYMPTOM 2266 2278	asintomático
+T14	SYMPTOM 2318 2324	disnea
+T15	SYMPTOM 2551 2570	buen estado general
+T16	SYMPTOM 2572 2586	Bien hidratado
+T17	SYMPTOM 2588 2595	nutrido
+T18	SYMPTOM 2598 2608	perfundido
+T19	SYMPTOM 2610 2628	Eupneico en reposo
+T20	SYMPTOM 2647 2675	tinte ictérico en conjuntiva
+T21	SYMPTOM 2677 2710	Pulso venoso yugular (PVY) normal
+T22	SYMPTOM 2712 2742	Auscultación cardiaca: rítmico
+T23	SYMPTOM 2747 2753	soplos
+T24	SYMPTOM 2778 2807	murmullo vesicular conservado
+T25	SYMPTOM 2813 2833	ruidos sobreañadidos
+T26	SYMPTOM 2859 2887	ruidos hidroaéreos presentes
+T27	SYMPTOM 2902 2929	abdomen blando y depresible
+T28	SYMPTOM 2934 2991	doloroso a la palpación abdominal superficial ni profunda
+T29	SYMPTOM 3007 3028	irritación peritoneal
+T30	SYMPTOM 3030 3052	PPR negativa bilateral
+T31	SYMPTOM 3129 3135	edemas
+T32	SYMPTOM 3137 3162	Pulsos pedios conservados
+T33	SYMPTOM 3969 3971	RS
+T34	SYMPTOM 3982 3991	PR normal
+T35	SYMPTOM 3993 4005	QRS estrecho
+T36	SYMPTOM 4007 4031	QS en cara anterolateral
+T37	SYMPTOM 4074 4142	supradesnivelación persistente del segmento ST en cara anterolateral
+T40	SYMPTOM 5371 5402	Bazo homogéneo de tamaño normal
+T42	SYMPTOM 5559 5572	líquido libre
+T43	SYMPTOM 5659 5690	vía biliar tiene calibre normal
+T44	SYMPTOM 5956 5987	Serologías: VHA y VHC negativas
+T45	SYMPTOM 6312 6341	Parásitos en heces: negativos
+T46	SYMPTOM 6470 6477	astenia
+T47	SYMPTOM 6479 6487	anorexia
+T48	SYMPTOM 6489 6498	ictericia
+T49	SYMPTOM 6500 6507	coluria
+T50	SYMPTOM 6510 6516	acolia
+T51	SYMPTOM 6556 6562	fiebre
+T52	SYMPTOM 6640 6666	elevación de transaminasas
+T55	SYMPTOM 6780 6792	leucocitosis
+T56	SYMPTOM 6795 6806	eosinofilia
+T57	SYMPTOM 6815 6852	elevación de reactantes de fase aguda
+T58	SYMPTOM 8262 8273	eosinofilia
+T59	SYMPTOM 8517 8541	sintomatología abdominal
+T60	SYMPTOM 8558 8565	coluria
+T61	SYMPTOM 8571 8577	acolia
+T62	SYMPTOM 8642 8676	niveles de colesterol LDL elevados
+T163	SYMPTOM 1114 1221	acinesia apical, septal anterior y de los segmentos medio de las paredes inferior, anterior y posteroseptal
+T103	SYMPTOM 4036 4072	nula progresión de R en precordiales
+T38	SYMPTOM 6144 6310	anticuerpos anticelulas parietales, anti LC1, antiLKM, Anti mitocondriales, anti músculo liso, anti reticulina, cANCA, anti membrana basal glomerular, pANCA negativos
+T39	SYMPTOM 8880 8939	transaminsas y enzimas de citolisis dentro de la normalidad
+T166	SYMPTOM 2630 2645	Cabeza y cuello
+T205	SYMPTOM 5638 5654	lesiones focales
+T219	SYMPTOM 4815 4835	Vena porta permeable
+T220	SYMPTOM 5125 5177	Tronco de la vena porta permeable, de calibre normal
+T223	SYMPTOM 2889 2900	tono normal
+T41	SYMPTOM 49 65	elevación de PSA
+T104	SYMPTOM 4323 4415	aquinesia de cara anterior y septo anterior medio y distal y de todos los segmentos distales
+T165	SYMPTOM 4462 4606	Realce tardío de características isquémicas con ausencia de viabilidad en cara anterior y septo medio y distal y en todos los segmentos distales
+T168	SYMPTOM 4962 4995	páncreas no presenta alteraciones
+T169	SYMPTOM 5200 5271	Venas esplénica y mesentérica superior también permeables, no dilatadas
+T170	SYMPTOM 5273 5323	Venas suprahepáticas permeables, de calibre normal
+T171	SYMPTOM 5325 5369	Vena cava inferior también de calibre normal
+T174	SYMPTOM 5465 5482	Vejiga distendida
+T175	SYMPTOM 5590 5632	señal y morfología del hígado son normales
+T176	SYMPTOM 5755 5792	contenido en el interior del colédoco
+T177	SYMPTOM 5821 5915	alteraciones destacables que afecten al páncreas, glándulas adrenales, riñones ni tampoco bazo
+T178	SYMPTOM 6011 6028	Anti-HBc negativo
+T180	SYMPTOM 6071 6102	IgG positiva frente a VVZ y CMV
+T181	SYMPTOM 6104 6129	IgG negativa frente a VEB
+T156	SYMPTOM 7244 7353	virus hepatotropos, determinación de parásitos en heces y pruebas de inmunología siendo todas ellas negativas
+T182	SYMPTOM 8219 8238	perfil de citolisis
+T183	SYMPTOM 8374 8408	elevación del patrón de colestasis
+T184	SYMPTOM 9163 9184	acinesia anteroseptal

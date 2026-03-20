@@ -1,0 +1,48 @@
+T32	PROCEDURE 614 641	Se activa el código infarto
+T62	PROCEDURE 465 483	electrocardiograma
+T63	PROCEDURE 660 672	fibrinolisis
+T64	PROCEDURE 696 757	antiagregación con ácido acetilsalicílico (AAS) y clopidogrel
+T65	PROCEDURE 946 958	fibrinolisis
+T66	PROCEDURE 976 988	angioplastia
+T67	PROCEDURE 1337 1424	endoprótesis farmacoactivas en el origen, tercio medio y distal de la coronaria derecha
+T68	PROCEDURE 1585 1603	EXPLORACIÓN FÍSICA
+T69	PROCEDURE 1676 1707	oxigenoterapia en gafas nasales
+T70	PROCEDURE 1809 1830	Auscultación cardiaca
+T71	PROCEDURE 2156 2178	estudio de coagulación
+T72	PROCEDURE 2421 2436	Ecocardiografía
+T73	PROCEDURE 2976 2983	Doppler
+T74	PROCEDURE 3068 3086	Electrocardiograma
+T75	PROCEDURE 3088 3091	ECG
+T76	PROCEDURE 3273 3288	Coronariografía
+T77	PROCEDURE 3346 3388	inyección intracoronaria de nitroglicerina
+T78	PROCEDURE 3982 3997	ecocardiografía
+T79	PROCEDURE 4182 4197	coronariografía
+T80	PROCEDURE 4241 4256	coronariografía
+T81	PROCEDURE 4763 4784	auscultación cardiaca
+T82	PROCEDURE 4807 4836	ecocardiografía a pie de cama
+T83	PROCEDURE 5204 5253	implante de oxigenador por membrana extracorpórea
+T84	PROCEDURE 5255 5259	ECMO
+T85	PROCEDURE 5302 5352	ECMO periférico veno-arterial (V-A) femoro-femoral
+T86	PROCEDURE 5505 5525	ventilación mecánica
+T87	PROCEDURE 5728 5747	trasplante cardiaco
+T88	PROCEDURE 5764 5793	soporte circulatorio con ECMO
+T89	PROCEDURE 5806 5868	trasplante cardiaco ortotópico de donante en muerte encefálica
+T90	PROCEDURE 5880 5905	circulación extracorpórea
+T91	PROCEDURE 5910 5943	ECMO periférico V-A femoro-axilar
+T92	PROCEDURE 6011 6015	ECMO
+T93	PROCEDURE 6043 6053	trasplante
+T94	PROCEDURE 6255 6301	Angioplastia coronaria transluminal percutánea
+T95	PROCEDURE 6303 6307	ACTP
+T96	PROCEDURE 6345 6390	Implante de tres stents farmacoactivos en ACD
+T97	PROCEDURE 6447 6451	ACTP
+T98	PROCEDURE 6558 6562	ECMO
+T99	PROCEDURE 6568 6600	asistencia circulatoria mecánica
+T100	PROCEDURE 6610 6620	trasplante
+T101	PROCEDURE 6622 6652	Trasplante cardiaco ortotópico
+T109	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T110	PROCEDURE 6201 6213	Fibrinolisis
+T113	PROCEDURE 2036 2045	Analítica
+T134	PROCEDURE 5391 5455	perfusión continua de dobutamina a 10 mcg/kg/min y noradrenalina
+T114	PROCEDURE 4436 4454	repermeabilización
+T115	PROCEDURE 4593 4617	infusión de levosimendán
+#1	AnnotatorNotes T95	  angioplastia coronaria transluminal percutánea

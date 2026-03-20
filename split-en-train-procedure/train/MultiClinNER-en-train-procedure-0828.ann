@@ -1,0 +1,29 @@
+T53	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T52	PROCEDURE 472 487	Catheterisation
+T2	PROCEDURE 605 690	Only the LAD was surgically revascularised with a left internal mammary artery graft.
+T54	PROCEDURE 1672 1692	Physical examination
+T68	PROCEDURE 1693 1704	Vital signs
+T55	PROCEDURE 1914 1934	Cardiac auscultation
+T56	PROCEDURE 2026 2048	Pulmonary auscultation
+T57	PROCEDURE 2177 2186	palpation
+T3	PROCEDURE 2253 2256	CBC
+T4	PROCEDURE 2271 2282	haemoglobin
+T58	PROCEDURE 2338 2349	haemostasis
+T59	PROCEDURE 2591 2608	Electrocardiogram
+T60	PROCEDURE 2610 2613	ECG
+T61	PROCEDURE 2770 2773	ECG
+T62	PROCEDURE 2841 2861	Coronary angiography
+T5	PROCEDURE 2905 2937	Mammary bridge to mid-distal LAD
+T8	PROCEDURE 3239 3277	The bridge from the mammary to the LAD
+T63	PROCEDURE 3433 3441	Angio-CT
+T64	PROCEDURE 3637 3651	Echocardiogram
+T11	PROCEDURE 4047 4096	mammary bypass to the anterior descending artery,
+T12	PROCEDURE 4097 4111	CT angiography
+T65	PROCEDURE 4241 4271	percutaneous revascularisation
+T66	PROCEDURE 4289 4300	angioplasty
+T13	PROCEDURE 4305 4356	destent implantation in the left subclavian artery,
+T14	PROCEDURE 4474 4497	contrast administration
+T15	PROCEDURE 4549 4562	serum therapy
+T67	PROCEDURE 5041 5055	antithrombotic
+T69	PROCEDURE 5233 5245	intervention
+T16	PROCEDURE 5518 5615	partial surgical revascularisation with left internal mammary bypass to anterior descending arter

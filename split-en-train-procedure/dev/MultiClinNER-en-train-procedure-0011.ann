@@ -1,0 +1,19 @@
+T12	PROCEDURE 142 153	examination
+T11	PROCEDURE 233 253	intraocular pressure
+T2	PROCEDURE 258 264	fundus
+T6	PROCEDURE 266 268	FO
+T13	PROCEDURE 275 287	visual field
+T14	PROCEDURE 289 291	VF
+T1	PROCEDURE 487 497	Urinalysis
+T5	PROCEDURE 544 568	hormone function studies
+T16	PROCEDURE 657 683	Magnetic resonance imaging
+T4	PROCEDURE 685 688	MRI
+T17	PROCEDURE 950 1018	thoraco-abdomino-pelvic computed axial tomography (CT) with contrast
+T15	PROCEDURE 1001 1003	CT
+T10	PROCEDURE 1162 1201	A deep axillary adenopathy was biopsied
+T20	PROCEDURE 1511 1563	Treatment was started with methylprednisolone pulses
+T3	PROCEDURE 1760 1766	fundus
+T7	PROCEDURE 1972 1975	OCT
+T9	PROCEDURE 2098 2133	visual evoked potentials with damer
+T8	PROCEDURE 2135 2146	PVE-pattern
+T18	PROCEDURE 2232 2250	stimulating the LE

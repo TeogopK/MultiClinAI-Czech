@@ -1,0 +1,52 @@
+T71	PROCEDURE 32 52	PHYSICAL EXAMINATION
+T73	PROCEDURE 206 213	autopsy
+T74	PROCEDURE 402 412	vaccinated
+T116	PROCEDURE 539 557	oral contraceptive
+T75	PROCEDURE 927 944	electrocardiogram
+T2	PROCEDURE 1919 1935	Laboratory tests
+T76	PROCEDURE 2008 2025	electrocardiogram
+T112	PROCEDURE 2131 2146	echocardioscopy
+T72	PROCEDURE 2360 2380	Physical examination
+T79	PROCEDURE 2582 2602	Cardiac auscultation
+T80	PROCEDURE 2626 2648	Pulmonary auscultation
+T3	PROCEDURE 2832 2835	CBC
+T4	PROCEDURE 3319 3322	CBC
+T5	PROCEDURE 3345 3354	haemogram
+T81	PROCEDURE 3363 3377	renal function
+T83	PROCEDURE 3382 3394	electrolytes
+T77	PROCEDURE 3446 3463	Electrocardiogram
+T78	PROCEDURE 3618 3635	Electrocardiogram
+T84	PROCEDURE 3803 3814	Chest X-ray
+T113	PROCEDURE 3965 3979	SARS-CoV-2 PCR
+T85	PROCEDURE 4022 4041	SARS-CoV-2 serology
+T97	PROCEDURE 4071 4099	Transthoracic echocardiogram
+T86	PROCEDURE 4643 4666	CT of coronary arteries
+T8	PROCEDURE 5548 5567	Chest visualisation
+T87	PROCEDURE 5624 5705	Catheterisation on the 2nd day of admission: (videos 3 and 4) right radial access
+T88	PROCEDURE 6123 6138	Catheterisation
+T89	PROCEDURE 6169 6188	angiographic review
+T90	PROCEDURE 6193 6221	optical coherence tomography
+T91	PROCEDURE 6223 6226	OCT
+T92	PROCEDURE 6530 6533	OCT
+T93	PROCEDURE 7093 7120	OCT was not performed in CD
+T94	PROCEDURE 7311 7314	OCT
+T96	PROCEDURE 7391 7415	antithrombotic treatment
+T98	PROCEDURE 7417 7445	Transthoracic echocardiogram
+T99	PROCEDURE 7684 7698	echocardiogram
+T13	PROCEDURE 8022 8055	respiratory and contact isolation
+T114	PROCEDURE 8090 8104	Sars-Cov-2 PCR
+T100	PROCEDURE 8224 8238	echocardiogram
+T14	PROCEDURE 8335 8358	anticoagulant treatment
+T101	PROCEDURE 8415 8429	echocardiogram
+T15	PROCEDURE 8504 8536	CT scan of the coronary arteries
+T103	PROCEDURE 8605 8625	Coronary angiography
+T105	PROCEDURE 8861 8880	oral contraceptives
+T106	PROCEDURE 9125 9140	anticoagulation
+T18	PROCEDURE 9145 9172	double antiplatelet therapy
+T104	PROCEDURE 9709 9729	coronary angiography
+T95	PROCEDURE 9840 9843	OCT
+T109	PROCEDURE 9957 9969	angiographic
+T115	PROCEDURE 10032 10064	intracoronary imaging techniques
+T102	PROCEDURE 10145 10159	echocardiogram
+T110	PROCEDURE 10528 10547	thrombophilia study
+T111	PROCEDURE 10655 10677	hormonal contraception

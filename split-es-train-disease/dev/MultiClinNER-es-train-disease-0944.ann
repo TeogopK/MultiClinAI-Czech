@@ -1,0 +1,54 @@
+T80	DISEASE 92 115	alergias farmacológicas
+T81	DISEASE 160 181	hipertensión arterial
+T82	DISEASE 183 186	HTA
+T83	DISEASE 208 237	diabetes mellitus (DM) tipo 2
+T84	DISEASE 227 229	DM
+T85	DISEASE 266 287	retinopatía diabética
+T86	DISEASE 331 394	enfermedad renal crónica estadio 4 de origen arterioesclerótico
+T87	DISEASE 399 402	HTA
+T88	DISEASE 405 407	DM
+T89	DISEASE 497 528	hiperplasia benigna de próstata
+T90	DISEASE 636 643	síncope
+T91	DISEASE 887 915	convulsiones tónico-clónicas
+T92	DISEASE 992 1004	hipoglucemia
+T93	DISEASE 1104 1177	traumatismo craneoencefálico con herida inciso-contusa en cuero cabelludo
+T95	DISEASE 2109 2134	trombosis venosa profunda
+T96	DISEASE 2217 2266	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T97	DISEASE 2387 2436	Bloqueo aurículo-ventricular de 2o grado Mobitz 1
+T98	DISEASE 2866 2892	Atrofia corticosubcortical
+T99	DISEASE 2913 2957	Calcificación de epífisis y plexos coroideos
+T101	DISEASE 3359 3394	Circunfleja (CX): enfermedad severa
+T104	DISEASE 3614 3646	Lesión oclusiva trombótica aguda
+T106	DISEASE 4310 4354	bloqueo aurículo-ventricular de primer grado
+T107	DISEASE 4652 4689	hipertensión pulmonar ligera-moderada
+T108	DISEASE 4694 4713	derrame pericardico
+T109	DISEASE 4752 4775	Bloqueo AV primer grado
+T110	DISEASE 4822 4829	síncope
+T111	DISEASE 4919 4970	bloqueo aurículo-ventricular (BAV) grado 2 Mobitz I
+T112	DISEASE 4949 4952	BAV
+T114	DISEASE 5131 5155	SCACEST de cara inferior
+T115	DISEASE 5202 5244	hemorragia postraumatismo craneoencefálico
+T117	DISEASE 5526 5554	bloqueo aurículo-ventricular
+T118	DISEASE 5579 5614	BAV de segundo grado tipo Mobitz II
+T119	DISEASE 5649 5669	BAV grado 2 Mobitz I
+T120	DISEASE 5720 5776	lesión oclusiva trombótica aguda en la coronaria derecha
+T121	DISEASE 6228 6272	bloqueo aurículo-ventricular de primer grado
+T122	DISEASE 6326 6355	bloqueo aurículo- ventricular
+T123	DISEASE 6651 6657	anemia
+T124	DISEASE 6659 6683	enfermedad renal crónica
+T125	DISEASE 6883 6954	Síndrome coronario agudo con elevación del ST (SCACEST) inferoposterior
+T126	DISEASE 6930 6937	SCACEST
+T127	DISEASE 6965 7019	Coronaria derecha con lesión oclusiva trombótica aguda
+T128	DISEASE 7134 7179	Bloqueo aurículo-ventricular grado 2 Mobitz i
+T129	DISEASE 7193 7303	bloqueo aurículo- ventricular de alto grado de origen isquémico por compromiso de la arteria coronaria derecha
+T130	DISEASE 7329 7373	bloqueo aurículo-ventricular de primer grado
+T132	DISEASE 7410 7438	traumatismo craneoencefálico
+T133	DISEASE 7444 7483	lesiones hemorrágicas agudas cerebrales
+T134	DISEASE 7485 7525	Herida inciso-contusa en cuero cabelludo
+T135	DISEASE 7527 7579	Cardiopatía isquémica severa multivaso multisegmento
+T14	DISEASE 3127 3171	Descendente anterior (DA): lesión muy severa
+T103	DISEASE 4603 4605	IM
+T136	DISEASE 4638 4640	IT
+T137	DISEASE 6840 6845	ángor
+T139	DISEASE 6521 6575	lesiones severas de descendente anterior y circunfleja
+T53	DISEASE 6686 6716	afectación difusa distal de DA

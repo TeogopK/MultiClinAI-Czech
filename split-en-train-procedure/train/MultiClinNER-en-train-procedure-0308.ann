@@ -1,0 +1,14 @@
+T7	PROCEDURE 77 92	bronchodilators
+T9	PROCEDURE 260 269	anamnesis
+T1	PROCEDURE 440 460	Cardiac auscultation
+T2	PROCEDURE 567 589	Pulmonary auscultation
+T17	PROCEDURE 693 709	Laboratory tests
+T10	PROCEDURE 774 792	Cardiac biomarkers
+T3	PROCEDURE 812 815	ECG
+T4	PROCEDURE 835 846	chest X-ray
+T5	PROCEDURE 1032 1046	echocardiogram
+T6	PROCEDURE 1246 1269	cardiac catheterisation
+T11	PROCEDURE 1296 1312	angiographically
+T24	PROCEDURE 1400 1417	underwent surgery
+T8	PROCEDURE 1453 1462	histology
+T26	PROCEDURE 1482 1489	surgery

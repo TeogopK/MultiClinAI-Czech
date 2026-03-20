@@ -1,0 +1,49 @@
+T120	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 122 135	allergy tests
+T133	PROCEDURE 236 258	surgical interventions
+T129	PROCEDURE 506 515	anamnesis
+T134	PROCEDURE 968 985	dental procedures
+T106	PROCEDURE 1231 1251	Cardiac auscultation
+T107	PROCEDURE 1347 1369	Pulmonary auscultation
+T108	PROCEDURE 1692 1716	neurological examination
+T5	PROCEDURE 1971 1982	Blood tests
+T109	PROCEDURE 2251 2268	Electrocardiogram
+T110	PROCEDURE 2270 2273	ECG
+T111	PROCEDURE 2384 2395	Chest X-ray
+T112	PROCEDURE 2499 2513	Blood cultures
+T115	PROCEDURE 2673 2703	Transthoracic echocardiography
+T6	PROCEDURE 2705 2708	TTE
+T12	PROCEDURE 4165 4168	TTE
+T13	PROCEDURE 4231 4234	TTE
+T116	PROCEDURE 4766 4781	Cranial CT scan
+T15	PROCEDURE 5225 5248	contrast administration
+T118	PROCEDURE 5250 5271	Thoracic-abdominal CT
+T124	PROCEDURE 6090 6124	Cranial magnetic resonance imaging
+T19	PROCEDURE 6317 6319	CT
+T119	PROCEDURE 6607 6627	gadolinium injection
+T21	PROCEDURE 6785 6800	diffusion study
+T22	PROCEDURE 6802 6832	Ultrasound scan of the abdomen
+T117	PROCEDURE 7463 7478	cranial CT scan
+T121	PROCEDURE 7769 7789	physical examination
+T25	PROCEDURE 7793 7796	TTE
+T113	PROCEDURE 7973 7987	blood cultures
+T28	PROCEDURE 7992 8000	serology
+T132	PROCEDURE 8714 8744	empirical antibiotic treatment
+T122	PROCEDURE 8891 8910	thoracoabdominal CT
+T123	PROCEDURE 9005 9037	Transesophageal echocardiography
+T34	PROCEDURE 9302 9313	cranial MRI
+T35	PROCEDURE 9418 9441	funduscopic examination
+T114	PROCEDURE 9715 9729	blood cultures
+T125	PROCEDURE 9827 9838	antibiogram
+T126	PROCEDURE 9952 9966	antibiotherapy
+T37	PROCEDURE 10318 10348	ultrasound scan of the abdomen
+T127	PROCEDURE 10634 10648	antibiotherapy
+T38	PROCEDURE 10658 10666	surgery.
+T39	PROCEDURE 10779 10781	CT
+T40	PROCEDURE 10786 10789	MRI
+T128	PROCEDURE 10791 10800	brain MRI
+T42	PROCEDURE 10922 10954	Extraction of the affected tooth
+T43	PROCEDURE 11020 11089	mitral valve replacement with Saint Jude mechanical prosthesis no. 33
+T130	PROCEDURE 11182 11202	pathological anatomy
+T131	PROCEDURE 11207 11219	microbiology
+T46	PROCEDURE 11956 12025	Mitral valve replacement with Saint Jude mechanical prosthesis no. 33

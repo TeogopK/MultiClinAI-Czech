@@ -1,0 +1,11 @@
+T1	SYMPTOM 416 454	anulación funcional de la unidad renal
+T2	SYMPTOM 1456 1473	clínica urológica
+T3	SYMPTOM 85 104	dolor en fosa renal
+T4	SYMPTOM 54 67	estreñimiento
+T5	SYMPTOM 185 194	hematuria
+T6	SYMPTOM 266 302	puñopercusión renal derecha positiva
+T7	SYMPTOM 595 651	citología urinaria selectiva del uréter derecho negativa
+T8	SYMPTOM 348 395	renal derecha con adelgazamiento del parénquima
+A1	IMAGEN T1
+A2	RESULTADO T7
+A3	IMAGEN T8

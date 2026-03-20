@@ -1,0 +1,44 @@
+T41	PROCEDURE 303 331	revascularización quirúrgica
+T42	PROCEDURE 334 383	sustitución valvular mitral con prótesis mecánica
+T43	PROCEDURE 435 469	implante de marcapasos monocameral
+T44	PROCEDURE 474 510	ablación de nodo auriculoventricular
+T45	PROCEDURE 678 703	amputación de pie derecho
+T46	PROCEDURE 706 736	bypass fémoro-poplíteo derecho
+T47	PROCEDURE 808 822	ecocardiograma
+T48	PROCEDURE 891 906	prótesis mitral
+T49	PROCEDURE 1474 1502	oxígeno crónico domiciliario
+T50	PROCEDURE 1617 1647	bypass fémoro-poplíteo derecho
+T51	PROCEDURE 1662 1699	bypass fémoro-tibial anterior derecho
+T53	PROCEDURE 1757 1809	anticoagulación con heparinas de bajo peso molecular
+T54	PROCEDURE 1811 1815	HBPM
+T55	PROCEDURE 2311 2329	EXPLORACIÓN FÍSICA
+T56	PROCEDURE 2418 2431	gafas nasales
+T57	PROCEDURE 2476 2497	Auscultación cardiaca
+T58	PROCEDURE 2545 2566	Auscultación pulmonar
+T59	PROCEDURE 2753 2778	amputación de pie derecho
+T60	PROCEDURE 2805 2823	Electrocardiograma
+T61	PROCEDURE 2920 2931	Radiografía
+T62	PROCEDURE 3019 3037	Análisis de sangre
+T63	PROCEDURE 3201 3224	Gasometría basal venosa
+T64	PROCEDURE 3320 3329	Hemograma
+T65	PROCEDURE 3428 3439	Coagulación
+T66	PROCEDURE 3535 3564	Ecocardiograma transesofágico
+T67	PROCEDURE 3892 3911	Angio-TAC coronario
+T68	PROCEDURE 4385 4410	tratamiento fibrinolítico
+T69	PROCEDURE 4412 4423	Radioscopia
+T70	PROCEDURE 4531 4559	Ecocardiograma transtorácico
+T71	PROCEDURE 4569 4581	fibrinolisis
+T72	PROCEDURE 4654 4666	fibrinolisis
+T73	PROCEDURE 4741 4767	tratamiento antitrombótico
+T74	PROCEDURE 4977 5005	cirugía de recambio valvular
+T75	PROCEDURE 5105 5130	tratamiento fibrinolítico
+T76	PROCEDURE 5271 5283	fibrinolisis
+T77	PROCEDURE 5685 5697	fibrinólisis
+T78	PROCEDURE 6062 6088	tratamiento anticoagulante
+T79	PROCEDURE 6213 6225	fibrinolisis
+T95	PROCEDURE 3039 3049	Bioquímica
+T96	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T97	PROCEDURE 5208 5227	angio-TAC coronario
+T98	PROCEDURE 1276 1287	hematología
+T100	PROCEDURE 2152 2196	tratamiento con diuréticos y vasodilatadores
+T112	PROCEDURE 2702 2725	Extremidades inferiores

@@ -1,0 +1,54 @@
+T5	DISEASE 802 826	taquicardia de QRS ancho
+T25	DISEASE 3181 3255	ventrículo izquierdo (VI) no dilatado con hipertrofia concéntrica moderada
+T29	DISEASE 3706 3757	VI no dilatado con hipertrofia concéntrica moderada
+T34	DISEASE 4992 5006	disociación AV
+T87	DISEASE 88 111	alergias medicamentosas
+T88	DISEASE 126 141	hábitos tóxicos
+T89	DISEASE 143 164	Hipertensión arterial
+T90	DISEASE 664 671	síncope
+T91	DISEASE 685 707	insuficiencia cardiaca
+T92	DISEASE 1458 1516	fibrilación auricular con respuesta ventricular controlada
+T93	DISEASE 1533 1577	trastornos de la conducción intraventricular
+T94	DISEASE 1592 1606	isquemia aguda
+T95	DISEASE 1621 1722	extrasistolias ventriculares (EV) frecuentes con morfología de tracto de salida de ventrículo derecho
+T96	DISEASE 1771 1792	taquicardia QRS ancho
+T97	DISEASE 1812 1846	bloqueo completo de rama izquierda
+T98	DISEASE 1957 2010	extrasístoles de tracto de salida ventricular derecho
+T99	DISEASE 3257 3294	Disfunción ventricular moderada-grave
+T100	DISEASE 3426 3482	Válvula mitral estructuralmente normal con insuficiencia
+T101	DISEASE 3643 3662	derrame pericárdico
+T102	DISEASE 4097 4106	estenosis
+T103	DISEASE 4365 4398	fibrilación auricular (FA) con EV
+T104	DISEASE 4388 4390	FA
+T105	DISEASE 4417 4442	bloqueo de rama izquierda
+T106	DISEASE 4444 4447	BRI
+T107	DISEASE 4514 4517	BRI
+T108	DISEASE 4555 4557	HV
+T109	DISEASE 4760 4792	trombos en la aurícula izquierda
+T110	DISEASE 4933 4956	taquicardia ventricular
+T111	DISEASE 5042 5045	BRI
+T112	DISEASE 5132 5165	taquicardia ventricular rama-rama
+T113	DISEASE 5167 5171	TVRR
+T114	DISEASE 5912 5935	taquicardia ventricular
+T115	DISEASE 6185 6215	disfunción del VI grave global
+T116	DISEASE 6376 6423	lesión intermedia en la coronaria derecha media
+T117	DISEASE 6587 6601	isquemia aguda
+T119	DISEASE 6675 6710	disfunción ventricular global grave
+T120	DISEASE 6758 6766	arritmia
+T121	DISEASE 6786 6829	disfunción secundaria a taquimiocardiopatía
+T122	DISEASE 6935 6958	taquicardia ventricular
+T123	DISEASE 7050 7083	taquicardia ventricular rama-rama
+T124	DISEASE 7383 7385	HV
+T125	DISEASE 7627 7651	enfermedad neuromuscular
+T126	DISEASE 7688 7700	taquicardias
+T127	DISEASE 7718 7730	cardiopatías
+T128	DISEASE 7839 7872	Taquicardia ventricular rama-rama
+T129	DISEASE 7874 7878	TVRR
+T131	DISEASE 3385 3424	Aurícula izquierda ligeramente dilatada
+T137	DISEASE 5478 5482	TVRR
+T35	DISEASE 6974 6988	disociación VA
+T139	DISEASE 7471 7494	recurrencias arrítmicas
+T140	DISEASE 7881 7900	Taquimiocardiopatía
+T141	DISEASE 7952 7984	Lesión intermedia en la CD media
+T147	DISEASE 233 256	Glucemia basal alterada
+#2	AnnotatorNotes T113	taquicardia ventricular rama-rama

@@ -1,0 +1,18 @@
+T9	SYMPTOM 128 142	abdominal pain
+T1	SYMPTOM 163 168	fever
+T5	SYMPTOM 178 194	vomiting of food
+T12	SYMPTOM 199 229	diarrhoea with traces of mucus
+T21	SYMPTOM 262 324	diffuse abdominal pain, slightly more in the right iliac fossa
+T16	SYMPTOM 340 361	peritoneal irritation
+T14	SYMPTOM 430 466	slightly elevated C-reactive protein
+T25	SYMPTOM 878 921	cecal appendix with mild inflammatory signs
+T26	SYMPTOM 989 994	fever
+T3	SYMPTOM 1005 1031	generalised abdominal pain
+T4	SYMPTOM 1040 1050	peritonism
+T6	SYMPTOM 1052 1060	vomiting
+T8	SYMPTOM 1065 1074	diarrhoea
+T31	SYMPTOM 1112 1147	dilatation of the small bowel loops
+T13	SYMPTOM 1210 1238	leukocytosis with left shift
+T15	SYMPTOM 1243 1270	elevated C-reactive protein
+T36	SYMPTOM 1504 1552	stool culture, which showed Campylobacter jejuni
+T37	SYMPTOM 1837 1875	cecal appendix with inflammatory signs

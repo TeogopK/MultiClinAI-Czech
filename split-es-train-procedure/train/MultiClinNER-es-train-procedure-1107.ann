@@ -1,0 +1,41 @@
+T68	PROCEDURE 357 373	estudio genético
+T69	PROCEDURE 1141 1159	Exploración física
+T70	PROCEDURE 1439 1461	auscultación carotídea
+T71	PROCEDURE 1463 1484	Auscultación cardiaca
+T72	PROCEDURE 1538 1559	Auscultación pulmonar
+T73	PROCEDURE 1640 1661	Exploración abdominal
+T74	PROCEDURE 1760 1769	Hemograma
+T75	PROCEDURE 2365 2376	Coagulación
+T76	PROCEDURE 2410 2426	Tóxicos en orina
+T77	PROCEDURE 2506 2524	Electrocardiograma
+T78	PROCEDURE 2707 2722	Coronariografía
+T79	PROCEDURE 2915 2966	Angioplastia: con XB 3.5 se avanza Sion a DA distal
+T80	PROCEDURE 3081 3128	implante directo de stent farmacoactivo Synergy
+T81	PROCEDURE 3231 3257	posdilatación con balón NC
+T82	PROCEDURE 3385 3423	romboaspiración con dispositivo Pronto
+T83	PROCEDURE 3495 3507	angiográfico
+T84	PROCEDURE 3513 3529	tromboaspiración
+T85	PROCEDURE 3552 3566	Ecocardiograma
+T86	PROCEDURE 4032 4048	Estudio genético
+T87	PROCEDURE 4142 4155	Cromatografía
+T88	PROCEDURE 4158 4172	electroforesis
+T89	PROCEDURE 4219 4232	cromatografía
+T90	PROCEDURE 5120 5135	coronariografía
+T91	PROCEDURE 5283 5334	angioplastia con implante de un stent farmacoactivo
+T92	PROCEDURE 5361 5409	aspiración de los restos del material trombótico
+T93	PROCEDURE 5875 5904	analítica con perfil lipídico
+T94	PROCEDURE 6045 6061	tóxicos en orina
+T95	PROCEDURE 6098 6122	estudio de coagulopatías
+T96	PROCEDURE 6336 6382	perfil lipídico con una lipoproteína A (Lp(a))
+T97	PROCEDURE 6845 6911	Revascularización total percutánea mediante un stent farmacoactivo
+T100	PROCEDURE 1925 1935	Bioquímica
+T101	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T102	PROCEDURE 3809 3847	Marcadores de daño miocárdico seriados
+T103	PROCEDURE 4368 4377	Serología
+T104	PROCEDURE 4320 4331	Toxicología
+T107	PROCEDURE 3788 3797	Analítica
+T141	PROCEDURE 5336 5358	perfusión de tirofibán
+T148	PROCEDURE 6168 6197	metanefrinas en suero y orina
+T115	PROCEDURE 3035 3068	tirofibán i.v. (bolo + perfusión)
+T117	PROCEDURE 3214 3219	stent
+T120	PROCEDURE 5089 5103	código corazón

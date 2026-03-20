@@ -1,0 +1,25 @@
+T47	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T48	PROCEDURE 751 769	exploración física
+T49	PROCEDURE 882 903	Auscultación cardiaca
+T50	PROCEDURE 958 979	Auscultación pulmonar
+T51	PROCEDURE 1137 1156	Analítica sanguínea
+T52	PROCEDURE 1420 1431	Coagulación
+T53	PROCEDURE 1457 1477	Radiografía de tórax
+T54	PROCEDURE 1549 1567	Electrocardiograma
+T55	PROCEDURE 1569 1572	ECG
+T56	PROCEDURE 1669 1672	ECG
+T57	PROCEDURE 1685 1713	Ecocardiograma transtorácico
+T58	PROCEDURE 2434 2454	Cateterismo cardiaco
+T59	PROCEDURE 3167 3263	intervencionismo coronario percutáneo (ICP) sobre: Cx: catéter multipropósito y guía hidrofílica
+T60	PROCEDURE 3206 3209	ICP
+T61	PROCEDURE 3265 3301	Predilatación con balón convencional
+T62	PROCEDURE 3316 3390	Implante de dos stents farmacoactivos solapados, liberadores de everolimus
+T63	PROCEDURE 3450 3484	DP: catéter AR2 y guía hidrofílica
+T64	PROCEDURE 3486 3542	Implante de stent farmacoactivo, liberador de everolimus
+T65	PROCEDURE 3693 3758	tratamiento antiagregante con ácido acetilsalicílico y ticagrelor
+T66	PROCEDURE 3761 3793	anticoagulación con fondaparinux
+T67	PROCEDURE 3831 3851	cateterismo cardiaco
+T68	PROCEDURE 4150 4206	stents farmacoativos solapados sobre arteria circunfleja
+T69	PROCEDURE 4212 4293	stent farmacoativo sobre la lesión significativa de arteria descendente posterior
+T70	PROCEDURE 4867 4930	Revascularización percutánea completa con stents farmacoactivos
+#3	AnnotatorNotes T63	 DP: descendente posterior

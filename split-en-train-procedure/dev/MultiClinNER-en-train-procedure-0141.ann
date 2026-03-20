@@ -1,0 +1,12 @@
+T3	PROCEDURE 151 160	palpation
+T10	PROCEDURE 234 245	examination
+T2	PROCEDURE 354 375	Testicular ultrasound
+T12	PROCEDURE 388 405	Abdomen-pelvis CT
+T13	PROCEDURE 574 622	left paratesticular tumour, he underwent surgery
+T1	PROCEDURE 670 691	intraoperative biopsy
+T15	PROCEDURE 816 840	radical left orchiectomy
+T16	PROCEDURE 856 865	Pathology
+T4	PROCEDURE 964 973	resection
+T18	PROCEDURE 1037 1049	chemotherapy
+T6	PROCEDURE 1105 1118	imaging tests
+T8	PROCEDURE 1137 1144	surgery

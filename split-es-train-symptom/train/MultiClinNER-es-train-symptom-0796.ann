@@ -1,0 +1,33 @@
+T1	SYMPTOM 284 304	dolor centrotorácico
+T2	SYMPTOM 423 443	dolor centrotorácico
+T3	SYMPTOM 465 483	cortejo vegetativo
+T4	SYMPTOM 899 912	ritmo sinusal
+T5	SYMPTOM 926 978	ascenso importante del ST en derivaciones anteriores
+T6	SYMPTOM 1159 1172	ritmo sinusal
+T7	SYMPTOM 1839 1891	sangrado en cavidad bucal y por el tubo endotraqueal
+T8	SYMPTOM 2189 2212	salida en ritmo sinusal
+T9	SYMPTOM 2322 2341	midriasis bilateral
+T10	SYMPTOM 2418 2439	crepitantes bibasales
+T11	SYMPTOM 2441 2470	Auscultación cardiaca rítmica
+T12	SYMPTOM 2476 2482	soplos
+T13	SYMPTOM 2484 2507	ruidos de contrapulsado
+T14	SYMPTOM 2509 2545	Extremidades con frialdad periférica
+T15	SYMPTOM 2547 2570	pulsos distales débiles
+T16	SYMPTOM 2655 2657	RS
+T17	SYMPTOM 2691 2762	elevación importante del segmento ST en derivaciones anteriores V1 a V4
+T18	SYMPTOM 3122 3171	ventrículo izquierdo no dilatado, no hipertrófico
+T19	SYMPTOM 3177 3218	función sistólica moderadamente deprimida
+T20	SYMPTOM 3368 3428	Ventrículo derecho no dilatado, con función sistólica normal
+T21	SYMPTOM 3440 3470	Aurícula izquierda no dilatada
+T22	SYMPTOM 3472 3491	Raíz aórtica normal
+T26	SYMPTOM 5105 5129	estabilidad hemodinámica
+T28	SYMPTOM 5332 5339	delirio
+T30	SYMPTOM 5428 5449	focalidad neurológica
+T31	SYMPTOM 5755 5799	elevación significativa de las transaminasas
+T32	SYMPTOM 5801 5809	mialgias
+T33	SYMPTOM 5812 5828	malestar general
+T34	SYMPTOM 6515 6521	disnea
+T59	SYMPTOM 3237 3287	aquinesia septal, anterior y en segmentos apicales
+T149	SYMPTOM 3493 3523	Vena cava inferior no dilatada
+T153	SYMPTOM 559 574	cuadro sincopal
+T27	SYMPTOM 3061 3097	Patrón alveolointersticial bilateral

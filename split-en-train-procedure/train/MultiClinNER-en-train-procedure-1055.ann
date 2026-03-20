@@ -1,0 +1,43 @@
+T69	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T93	PROCEDURE 279 286	statins
+T2	PROCEDURE 336 408	acute myocardial infarction (AMI) q inferior in March 2014, fibrinolised
+T61	PROCEDURE 483 503	Coronary angiography
+T95	PROCEDURE 544 672	Severe right coronary artery (RCA) (artery responsible for AMI): implantation of two drug-eluting stents proximally and distally
+T63	PROCEDURE 751 765	Echocardiogram
+T66	PROCEDURE 849 868	Isotope stress test
+T67	PROCEDURE 1366 1385	isotope stress test
+T88	PROCEDURE 1744 1750	statin
+T6	PROCEDURE 2360 2380	lipid-lowering drugs
+T70	PROCEDURE 2449 2469	PHYSICAL EXAMINATION
+T71	PROCEDURE 2602 2622	Cardiac auscultation
+T72	PROCEDURE 2671 2693	Pulmonary auscultation
+T73	PROCEDURE 2809 2826	Electrocardiogram
+T74	PROCEDURE 2828 2831	ECG
+T75	PROCEDURE 2996 2999	ECG
+T76	PROCEDURE 3174 3177	ECG
+T62	PROCEDURE 3224 3244	Coronary angiography
+T77	PROCEDURE 3449 3495	percutaneous transluminal coronary angioplasty
+T78	PROCEDURE 3497 3501	PTCA
+T10	PROCEDURE 3505 3560	implantation of two non-overlapping drug-eluting stents
+T81	PROCEDURE 3663 3693	intravascular echocardiography
+T82	PROCEDURE 3695 3699	IVUS
+T65	PROCEDURE 3702 3716	Echocardiogram
+T13	PROCEDURE 4020 4031	Blood tests
+T15	PROCEDURE 4045 4054	haemogram
+T90	PROCEDURE 4129 4141	Biochemistry
+T92	PROCEDURE 4412 4439	myocardial necrosis markers
+T68	PROCEDURE 4511 4530	Isotope stress test
+T16	PROCEDURE 4666 4677	Blood tests
+T17	PROCEDURE 4711 4720	haemogram
+T91	PROCEDURE 4730 4742	Biochemistry
+T18	PROCEDURE 4960 4971	Blood tests
+T84	PROCEDURE 5132 5178	Genetic study of familial hypercholesterolemia
+T89	PROCEDURE 5889 5895	statin
+T20	PROCEDURE 6026 6046	exercise stress test
+T85	PROCEDURE 6125 6159	percutaneous coronary intervention
+T21	PROCEDURE 6161 6164	PCI
+T86	PROCEDURE 6203 6212	anamnesis
+T22	PROCEDURE 6748 6768	lipid-lowering drugs
+T23	PROCEDURE 6888 6946	request genetic testing for familial hypercholesterolaemia
+T94	PROCEDURE 7333 7345	fibrinolysis
+T87	PROCEDURE 7361 7415	PCI with implantation of two drug-eluting stents in DC

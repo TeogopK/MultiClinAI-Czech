@@ -1,0 +1,39 @@
+T1	SYMPTOM 1671 1694	dolor intenso en el ojo
+T2	SYMPTOM 76 94	gonalgia bilateral
+T3	SYMPTOM 1707 1742	pérdida brusca de la agudeza visual
+T4	SYMPTOM 96 105	dorsalgia
+T5	SYMPTOM 108 117	lumbalgia
+T6	SYMPTOM 232 266	dolor en ambos miembros inferiores
+T7	SYMPTOM 2743 2755	espasticidad
+T8	SYMPTOM 2757 2763	ataxia
+T9	SYMPTOM 2766 2775	dismetría
+T10	SYMPTOM 2803 2831	hiperestesia lumbar dolorosa
+T11	SYMPTOM 2885 2899	visión borrosa
+T12	SYMPTOM 2914 2956	atenuación de la percepción de los colores
+T13	SYMPTOM 477 522	dolor, pérdida de fuerza, parestesias en MMII
+T14	SYMPTOM 524 564	dificultad para incorporarse y deambular
+T15	SYMPTOM 3027 3044	enuresis nocturna
+T16	SYMPTOM 567 589	incontinencia urinaria
+T17	SYMPTOM 3049 3069	espasticidad vesical
+T18	SYMPTOM 624 648	disminución de la fuerza
+T19	SYMPTOM 655 698	alteración de la sensibilidad en ambos MMII
+T20	SYMPTOM 874 929	líquido cefalorraquídeo reveló una moderada pleocitosis
+T21	SYMPTOM 948 975	bandas oligoclonales de IgG
+T22	SYMPTOM 1070 1102	parálisis y espasticidad de MMII
+T23	SYMPTOM 1104 1117	hiporreflexia
+T24	SYMPTOM 1120 1138	Babinsky bilateral
+T25	SYMPTOM 1140 1188	ausencia de reflejos abdominales y cremastéricos
+T26	SYMPTOM 1190 1233	hiperalgesia y disestesia del tronco y MMII
+T27	SYMPTOM 314 339	alteraciones neurológicas
+T28	SYMPTOM 191 227	movilidad activa y pasiva conservada
+T29	SYMPTOM 823 857	analítica sanguínea resultó normal
+T30	SYMPTOM 980 1026	electroencefalograma no evidenció alteraciones
+T31	SYMPTOM 1447 1496	resonancia magnética (RM) cerebral resultó normal
+T32	SYMPTOM 2697 2710	marcha normal
+T33	SYMPTOM 2712 2729	reflejos normales
+A1	RESULTADO T20
+A2	RESULTADO T21
+A3	RESULTADO T22
+A4	RESULTADO T29
+A5	RESULTADO T30
+A6	IMAGEN T31

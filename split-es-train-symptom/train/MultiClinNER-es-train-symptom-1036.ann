@@ -1,0 +1,40 @@
+T1	SYMPTOM 817 828	parestesias
+T2	SYMPTOM 830 835	dolor
+T3	SYMPTOM 838 856	frialdad en el pie
+T4	SYMPTOM 903 928	claudicación de la marcha
+T5	SYMPTOM 966 971	mareo
+T6	SYMPTOM 974 984	sudoración
+T7	SYMPTOM 995 1009	dolor torácico
+T8	SYMPTOM 1061 1080	buen estado general
+T9	SYMPTOM 1082 1090	Eupneica
+T10	SYMPTOM 1119 1148	Auscultación cardiaca rítmica
+T11	SYMPTOM 1154 1160	soplos
+T12	SYMPTOM 1164 1174	extratonos
+T13	SYMPTOM 1202 1231	murmullo vesicular conservado
+T14	SYMPTOM 1307 1322	pulsos distales
+T15	SYMPTOM 1324 1350	Palidez y frialdad del pie
+T17	SYMPTOM 1427 1463	Movilidad y sensibilidad conservadas
+T18	SYMPTOM 1526 1539	ritmo sinusal
+T19	SYMPTOM 1550 1559	PR normal
+T20	SYMPTOM 1561 1573	QRS estrecho
+T21	SYMPTOM 1607 1650	onda T negativa en V1-V2, aplanada en V3-V6
+T22	SYMPTOM 1803 1835	ventrículo izquierdo no dilatado
+T23	SYMPTOM 2012 2027	FEVI conservada
+T24	SYMPTOM 2407 2474	Ventrículo derecho no dilatado, con función sistólica global normal
+T26	SYMPTOM 2557 2587	válvula mitral con velos finos
+T27	SYMPTOM 3859 3881	hemocultivos negativos
+T28	SYMPTOM 4664 4699	VI con función sistólica preservada
+T29	SYMPTOM 4806 4810	masa
+T91	SYMPTOM 541 579	Anticuerpos antifosfolípidos positivos
+T92	SYMPTOM 1872 1890	Disquinesia apical
+T93	SYMPTOM 1893 1926	aquinesia de los tercios distales
+T95	SYMPTOM 2077 2100	ápex por una masa sésil
+T96	SYMPTOM 2176 2199	Válvula mitral con masa
+T97	SYMPTOM 5104 5141	función ventricular global conservada
+T98	SYMPTOM 3776 3820	masa redondeada adherida a la válvula mitral
+T99	SYMPTOM 4531 4543	Asintomática
+T106	SYMPTOM 3674 3707	alteraciones de la contractilidad
+T109	SYMPTOM 3086 3104	dominancia derecha
+T110	SYMPTOM 1575 1585	eje normal
+T16	SYMPTOM 1347 1395	pie derecho, relleno venocapilar muy enlentecido
+T100	SYMPTOM 1587 1602	Onda Q en V1-V5

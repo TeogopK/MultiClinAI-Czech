@@ -1,0 +1,50 @@
+T125	PROCEDURE 1244 1265	Auscultación cardiaca
+T126	PROCEDURE 1357 1378	Auscultación pulmonar
+T127	PROCEDURE 1722 1745	Exploración neurológica
+T128	PROCEDURE 2286 2304	Electrocardiograma
+T129	PROCEDURE 2306 2309	ECG
+T130	PROCEDURE 2422 2442	Radiografía de tórax
+T131	PROCEDURE 2546 2558	Hemocultivos
+T132	PROCEDURE 2723 2752	Ecocardiografía transtorácica
+T133	PROCEDURE 2754 2757	ETT
+T134	PROCEDURE 4283 4286	ETT
+T135	PROCEDURE 4342 4345	ETT
+T136	PROCEDURE 4879 4889	TC craneal
+T137	PROCEDURE 5310 5337	administración de contraste
+T138	PROCEDURE 5339 5358	TC toraco-abdominal
+T139	PROCEDURE 6152 6194	Resonancia magnética nuclear (RMN) craneal
+T140	PROCEDURE 6424 6426	TC
+T141	PROCEDURE 6711 6733	inyección de gadolinio
+T142	PROCEDURE 6915 6932	Ecografía abdomen
+T143	PROCEDURE 7560 7570	TC craneal
+T144	PROCEDURE 7830 7848	exploración física
+T145	PROCEDURE 7861 7864	ETT
+T146	PROCEDURE 8049 8061	hemocultivos
+T147	PROCEDURE 8895 8913	TC toracoabdominal
+T148	PROCEDURE 9017 9047	ecocardiografía transesofágica
+T149	PROCEDURE 9292 9320	resonancia magnética craneal
+T150	PROCEDURE 9410 9422	fondo de ojo
+T151	PROCEDURE 9666 9678	hemocultivos
+T152	PROCEDURE 9827 9839	antibiograma
+T153	PROCEDURE 9928 9942	antibioterapia
+T154	PROCEDURE 10303 10323	ecografía de abdomen
+T155	PROCEDURE 10572 10586	antibioterapia
+T156	PROCEDURE 10746 10748	TC
+T157	PROCEDURE 10751 10753	RM
+T158	PROCEDURE 10766 10778	RMN cerebral
+T159	PROCEDURE 11019 11082	recambio valvular mitral por prótesis mecánica Saint Jude no 33
+T160	PROCEDURE 11947 12010	Recambio valvular mitral con prótesis mecánica Saint Jude no 33
+T168	PROCEDURE 1999 2018	Analítica de sangre
+T169	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T170	PROCEDURE 2644 2654	Serologías
+T171	PROCEDURE 523 532	anamnesis
+T172	PROCEDURE 11096 11115	anatomía patológica
+T174	PROCEDURE 11118 11131	microbiología
+T176	PROCEDURE 8064 8074	serologías
+T177	PROCEDURE 8727 8759	tratamiento antibiótico empírico
+T178	PROCEDURE 136 155	estudios de alergia
+T181	PROCEDURE 10899 10927	Extracción de pieza dentaria
+T224	PROCEDURE 265 291	intervenciones quirúrgicas
+T225	PROCEDURE 10604 10627	intervención quirúrgica
+T4	PROCEDURE 968 991	procedimientos dentales
+T186	PROCEDURE 6881 6900	Estudio de difusión

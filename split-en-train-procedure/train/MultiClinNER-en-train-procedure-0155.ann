@@ -1,0 +1,11 @@
+T11	PROCEDURE 103 127	treatment with metformin
+T1	PROCEDURE 830 849	general examination
+T12	PROCEDURE 862 873	Blood tests
+T17	PROCEDURE 1331 1339	CAT scan
+T2	PROCEDURE 1344 1355	cranial MRI
+T3	PROCEDURE 1437 1447	spinal MRI
+T19	PROCEDURE 1510 1558	transthoracic and transesophageal echocardiogram
+T4	PROCEDURE 1588 1602	Blood cultures
+T5	PROCEDURE 1604 1618	urine cultures
+T6	PROCEDURE 1623 1635	CSF cultures
+T7	PROCEDURE 1743 1754	antibiogram

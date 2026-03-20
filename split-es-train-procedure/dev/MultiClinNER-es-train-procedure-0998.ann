@@ -1,0 +1,36 @@
+T66	PROCEDURE 493 533	tratamiento deshabituador con disulfiram
+T67	PROCEDURE 979 997	Exploración física
+T68	PROCEDURE 1300 1321	Auscultación cardiaca
+T69	PROCEDURE 1362 1383	Auscultación pulmonar
+T70	PROCEDURE 1563 1572	Hemograma
+T71	PROCEDURE 1642 1647	iones
+T72	PROCEDURE 1860 1871	Coagulación
+T73	PROCEDURE 1916 1934	Electrocardiograma
+T74	PROCEDURE 2302 2316	Ecocardiograma
+T75	PROCEDURE 2672 2697	tratamiento deshabituador
+T76	PROCEDURE 2722 2738	Coronariografías
+T77	PROCEDURE 2908 2939	tomografía de coherencia óptica
+T78	PROCEDURE 2941 2944	OCT
+T79	PROCEDURE 3278 3281	ECG
+T80	PROCEDURE 3534 3537	ECG
+T81	PROCEDURE 4025 4039	ecocardiograma
+T82	PROCEDURE 4132 4147	coronariografía
+T83	PROCEDURE 4320 4340	doble antiagregación
+T84	PROCEDURE 4430 4445	anticoagulación
+T85	PROCEDURE 4460 4475	coronariografía
+T86	PROCEDURE 4549 4552	OCT
+T87	PROCEDURE 4626 4640	revascularizar
+T88	PROCEDURE 4902 4927	tratamiento deshabituador
+T89	PROCEDURE 5232 5252	doble antiagregación
+T90	PROCEDURE 5267 5293	anticoagulación parenteral
+T95	PROCEDURE 4351 4379	anticoagulación con heparina
+T100	PROCEDURE 4884 4887	IBP
+T103	PROCEDURE 1582 1592	Bioquímica
+T104	PROCEDURE 284 302	EXPLORACIÓN FÍSICA
+T105	PROCEDURE 1764 1806	Marcadores de necrosis miocárdica seriados
+T106	PROCEDURE 1650 1663	transaminasas
+T107	PROCEDURE 4823 4882	doble antiagreación con ácido acetilsalicílico y ticagrelor
+T128	PROCEDURE 1552 1561	Analítica
+T109	PROCEDURE 3725 3778	troponina T ultrasensible en determinaciones seriadas
+T111	PROCEDURE 4684 4706	abstinencia alcohólica
+#1	AnnotatorNotes T78	 tomografía de coherencia óptica

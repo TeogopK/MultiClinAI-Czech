@@ -1,0 +1,63 @@
+T77	PROCEDURE 526 542	colectomía total
+T78	PROCEDURE 573 646	quimioterapia adyuvante con esquema de Gramont con 5-fluorouracilo (5-FU)
+T79	PROCEDURE 698 701	TAC
+T80	PROCEDURE 828 831	PET
+T81	PROCEDURE 885 917	quimioterapia con esquema FOLFOX
+T82	PROCEDURE 1330 1369	maniobras de reanimación cardiopulmonar
+T83	PROCEDURE 1371 1374	RCP
+T84	PROCEDURE 1602 1624	intubación orotraqueal
+T85	PROCEDURE 1632 1650	electrocardiograma
+T86	PROCEDURE 1652 1655	ECG
+T87	PROCEDURE 1893 1902	anamnesis
+T88	PROCEDURE 2049 2067	Exploración física
+T89	PROCEDURE 2218 2239	Auscultación cardiaca
+T90	PROCEDURE 2275 2296	Auscultación pulmonar
+T91	PROCEDURE 2544 2563	Analítica de sangre
+T92	PROCEDURE 2578 2587	hemograma
+T93	PROCEDURE 2596 2607	Coagulación
+T94	PROCEDURE 2642 2661	Gasometría arterial
+T95	PROCEDURE 2798 2822	reactantes de fase aguda
+T96	PROCEDURE 2834 2854	Marcadores cardiacos
+T97	PROCEDURE 2953 2973	Radiografía de tórax
+T98	PROCEDURE 3052 3072	Radiografía de tórax
+T99	PROCEDURE 3089 3101	implante DAI
+T100	PROCEDURE 3285 3343	Coronariografía urgente: acceso por arteria radial derecha
+T101	PROCEDURE 3823 3837	Ecocardiograma
+T102	PROCEDURE 4612 4641	Resonancia magnética cardiaca
+T103	PROCEDURE 4818 4841	TAC arterias coronarias
+T104	PROCEDURE 4922 4936	TC angiografía
+T105	PROCEDURE 5769 5786	Electrofisiología
+T106	PROCEDURE 5799 5889	incisión de 6 cm en región axilar media izquierda y se hace disección hasta plano muscular
+T107	PROCEDURE 5902 5979	divulsión del músculo serrato anterior formando el bolsillo para el generador
+T108	PROCEDURE 5992 6075	tunelización desde línea axilar media izquierda hasta región paraesternal izquierda
+T109	PROCEDURE 6097 6150	incisión de 3 cm a nivel de sexto espacio intercostal
+T110	PROCEDURE 6314 6357	generador; el cual se fija a plano muscular
+T111	PROCEDURE 6438 6474	inducción de fibrilación ventricular
+T112	PROCEDURE 7244 7272	ecocardiograma transtorácico
+T113	PROCEDURE 7379 7394	coronariografía
+T114	PROCEDURE 7797 7812	coronariografía
+T115	PROCEDURE 8099 8111	TC coronario
+T116	PROCEDURE 8206 8225	resonancia cardiaca
+T117	PROCEDURE 8356 8379	monitorización cardiaca
+T118	PROCEDURE 8705 8721	cirugía cardiaca
+T119	PROCEDURE 8778 8811	implante de un dispositivo de DAI
+T121	PROCEDURE 9244 9255	radiografía
+T122	PROCEDURE 9344 9355	radiografía
+T123	PROCEDURE 9691 9712	agente quimioterápico
+T124	PROCEDURE 9914 9940	reanimación cardiopulmonar
+T125	PROCEDURE 9942 9945	RCP
+T126	PROCEDURE 10030 10056	Implante de DAI subcutáneo
+T127	PROCEDURE 10298 10320	quimioterapia con 5-FU
+T139	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T140	PROCEDURE 2734 2744	bioquímica
+T142	PROCEDURE 7575 7604	marcadores de daño miocárdico
+T143	PROCEDURE 9307 9321	monitorización
+T144	PROCEDURE 1446 1544	desfibrilador semiautomático externo (DESA) detecta ritmo desfibrilable y se administran 2 choques
+T146	PROCEDURE 6177 6209	se tuneliza hasta el segundo EIC
+T147	PROCEDURE 6237 6298	Se fija electrodo a nivel de sexto EIC paraesternal izquierdo
+T170	PROCEDURE 2412 2415	EGC
+T190	PROCEDURE 6793 6807	desfibrilación
+T155	PROCEDURE 6586 6637	descarga 10 J para medir la impedancia del circuito
+T157	PROCEDURE 8860 8874	DAI subcutáneo
+T158	PROCEDURE 8903 8928	reservorio venoso central
+T160	PROCEDURE 9979 9985	choque

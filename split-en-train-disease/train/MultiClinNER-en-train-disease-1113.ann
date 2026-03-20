@@ -1,0 +1,52 @@
+T35	DISEASE 102 108	smoker
+T36	DISEASE 168 180	toxic habits
+T37	DISEASE 217 247	paroxysmal atrial fibrillation
+T38	DISEASE 690 742	homolateral hilar and mediastinal hilar adenopathies
+T39	DISEASE 752 768	pleural effusion
+T13	DISEASE 808 848	segmental atelectasis in the middle lobe
+T14	DISEASE 1098 1124	primary pulmonary neoplasm
+T43	DISEASE 1153 1180	hypermetabolic adenopathies
+T44	DISEASE 1220 1245	supraclavicuar adenopathy
+T40	DISEASE 1255 1271	pleural effusion
+T45	DISEASE 1276 1323	hypermetabolic lesions in the sixth costal arch
+T46	DISEASE 1361 1393	adenocarcinoma (ADC) of the lung
+T80	DISEASE 1377 1380	ADC
+T78	DISEASE 1526 1532	tumour
+T15	DISEASE 1583 1602	lung adenocarcinoma
+T47	DISEASE 1882 1907	paratracheal adenopathies
+T41	DISEASE 1933 1949	pleural effusion
+T48	DISEASE 2723 2730	syncope
+T49	DISEASE 2845 2866	mild pleural effusion
+T50	DISEASE 2870 2898	laminar pericardial effusion
+T51	DISEASE 3134 3158	congestive heart failure
+T53	DISEASE 3619 3654	first degree atrioventricular block
+T16	DISEASE 4251 4286	mild to moderate septal hypertrophy
+T17	DISEASE 4370 4400	aortic root was mildly dilated
+T54	DISEASE 4430 4472	mild aortic and mitral valve regurgitation
+T18	DISEASE 4478 4508	left atrium was mildly dilated
+T19	DISEASE 4573 4601	mild tricuspid regurgitation
+T55	DISEASE 4622 4644	pulmonary hypertension
+T56	DISEASE 4650 4675	mild pericardial effusion
+T58	DISEASE 4764 4802	heart failure secondary to bradycardia
+T59	DISEASE 4821 4871	common cardiovascular adverse effect of crizotinib
+T62	DISEASE 4894 4907	heart failure
+T63	DISEASE 4950 4963	heart failure
+T20	DISEASE 5086 5121	mild-to-moderate septal hypertrophy
+T57	DISEASE 5146 5171	mild pericardial effusion
+T66	DISEASE 5328 5346	nephrotic syndrome
+T68	DISEASE 5372 5383	lung cancer
+T69	DISEASE 5388 5412	paraneoplastic syndromes
+T67	DISEASE 5436 5454	nephrotic syndrome
+T70	DISEASE 5594 5607	Liver failure
+T71	DISEASE 5673 5683	alcoholism
+T79	DISEASE 5790 5796	tumour
+T12	DISEASE 5866 5906	abdomino-pelvic or inguinal adenopathies
+T73	DISEASE 6485 6497	hypertension
+T52	DISEASE 6619 6643	congestive heart failure
+T64	DISEASE 6630 6643	heart failure
+T74	DISEASE 6855 6867	hypertension
+T11	DISEASE 7008 7029	serious heart disease
+T65	DISEASE 7295 7308	Heart failure
+T75	DISEASE 7342 7359	sinus bradycardia
+T77	DISEASE 7361 7402	Sinus bradycardia secondary to crizotinib
+T10	DISEASE 7404 7432	Stage IV lung adenocarcinoma

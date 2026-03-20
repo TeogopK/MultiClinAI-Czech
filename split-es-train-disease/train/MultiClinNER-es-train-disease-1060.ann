@@ -1,0 +1,26 @@
+T18	DISEASE 121 124	MCH
+T20	DISEASE 555 562	síncope
+T21	DISEASE 897 935	hipertrofia septal asimétrica moderada
+T22	DISEASE 1071 1120	Disfunción sistólica de ventrículo izquierdo leve
+T23	DISEASE 1136 1157	disfunción diastólica
+T24	DISEASE 1419 1458	Dilatación severa de aurícula izquierda
+T25	DISEASE 1507 1537	Extrasistolia supraventricular
+T26	DISEASE 1540 1565	extrasistolia ventricular
+T27	DISEASE 1585 1590	BRDHH
+T30	DISEASE 2284 2329	VI con hipertrofia septal asimétrica moderada
+T31	DISEASE 2516 2537	disfunción diastólica
+T32	DISEASE 2747 2779	hipertensión pulmonar poscapilar
+T33	DISEASE 2997 3039	dilatación severa de la aurícula izquierda
+T34	DISEASE 3083 3104	fibrilación auricular
+T35	DISEASE 3722 3764	Miocardiopatía hipertrófica no obstructiva
+T36	DISEASE 3926 3948	Insuficiencia cardiaca
+T37	DISEASE 3885 3917	Disfunción ventricular izquierda
+T39	DISEASE 790 803	cardiomegalia
+T40	DISEASE 3299 3340	descompensación de insuficiencia cardiaca
+T41	DISEASE 1170 1197	Aurícula izquierda dilatada
+T77	DISEASE 3814 3827	Muerte súbita
+T88	DISEASE 1676 1689	muerte súbita
+T89	DISEASE 1774 1787	muerte súbita
+T90	DISEASE 217 230	muerte súbita
+T19	DISEASE 948 1014	obstrucción a través del tracto de salida del ventrículo izquierdo
+#1	AnnotatorNotes T18	 miocardiopatía hipertrófica

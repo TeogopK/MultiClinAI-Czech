@@ -1,0 +1,30 @@
+T1	DISEASE 129 141	hypertension
+T33	DISEASE 143 156	dyslipidaemia
+T34	DISEASE 158 164	smoker
+T35	DISEASE 248 265	sinus dysfunction
+T3	DISEASE 270 303	paroxysmal atrioventricular block
+T4	DISEASE 305 308	AVB
+T5	DISEASE 493 523	tumour mass in the left atrium
+T36	DISEASE 570 583	atrial myxoma
+T6	DISEASE 616 668	mitral valve kinetics, causing mild dynamic stenosis
+T39	DISEASE 697 713	ischaemic stroke
+T41	DISEASE 817 823	myxoma
+T46	DISEASE 939 967	posterior circulation stroke
+T59	DISEASE 969 973	POCI
+T47	DISEASE 1004 1012	diplopia
+T10	DISEASE 1151 1193	moderate stenosis of both carotid arteries
+T11	DISEASE 1397 1454	repeated vertebrobasilar transient ischaemic attack (TIA)
+T48	DISEASE 1611 1631	recurrence of myxoma
+T49	DISEASE 1797 1806	nystagmus
+T50	DISEASE 2611 2631	deep vein thrombosis
+T51	DISEASE 2633 2636	DVT
+T52	DISEASE 3132 3158	chronic bronchopneumopathy
+T53	DISEASE 3293 3311	Dorsal spondylosis
+T54	DISEASE 3353 3370	chronic ischaemia
+T17	DISEASE 3372 3442	Infarcts in the right parietal lobe and at the left parasagittal level
+T55	DISEASE 3825 3852	recurrence of atrial myxoma
+T57	DISEASE 4200 4220	mitral insufficiency
+T18	DISEASE 4222 4256	Mild tricuspid insufficiency (TI),
+T58	DISEASE 4395 4415	pericardial effusion
+T56	DISEASE 5155 5182	Recurrence of atrial myxoma
+T21	DISEASE 5184 5196	Repeated TIA

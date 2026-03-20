@@ -1,0 +1,25 @@
+T38	PROCEDURE 79 99	physical examination
+T40	PROCEDURE 193 206	haemodialysis
+T4	PROCEDURE 443 459	liver transplant
+T41	PROCEDURE 598 611	haemodialysis
+T39	PROCEDURE 750 770	Physical examination
+T42	PROCEDURE 823 857	cardiac and pulmonary auscultation
+T43	PROCEDURE 1040 1043	ECG
+T5	PROCEDURE 1193 1206	Serum therapy
+T6	PROCEDURE 1225 1271	transfusion of two red blood cell concentrates
+T7	PROCEDURE 1333 1350	fluid replacement
+T44	PROCEDURE 1445 1462	Electrocardiogram
+T45	PROCEDURE 1728 1739	Chest X-ray
+T46	PROCEDURE 1807 1835	Transthoracic echocardiogram
+T55	PROCEDURE 1821 1835	echocardiogram
+T48	PROCEDURE 2182 2193	Cardiac MRI
+T49	PROCEDURE 2566 2586	Coronary angiography
+T51	PROCEDURE 2666 2686	Chest CT angiography
+T53	PROCEDURE 3014 3049	non-invasive mechanical ventilation
+T54	PROCEDURE 3054 3069	haemofiltration
+T47	PROCEDURE 3084 3112	transthoracic echocardiogram
+T52	PROCEDURE 3243 3263	chest CT angiography
+T50	PROCEDURE 3380 3400	coronary angiography
+T9	PROCEDURE 3448 3474	replacing the aortic valve
+T10	PROCEDURE 3520 3585	implantation of a Magna Ease size 23 biological aortic prosthesis
+T57	PROCEDURE 3646 3660	echocardiogram

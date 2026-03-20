@@ -1,0 +1,12 @@
+T1	SYMPTOM 582 607	citologías eran negativas
+T2	SYMPTOM 262 351	analíticas sanguíneas todos los parámetros se encontraban en los límites de la normalidad
+T3	SYMPTOM 403 440	defecto de replección en pelvis renal
+T4	SYMPTOM 130 139	hematuria
+T5	SYMPTOM 539 576	masa en pelvis que amputa cáliz medio
+T6	SYMPTOM 1214 1218	vivo
+T7	SYMPTOM 1149 1154	Ta G3
+T8	SYMPTOM 1221 1240	libre de enfermedad
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	IMAGEN T3
+A4	IMAGEN T5

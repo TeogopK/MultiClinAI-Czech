@@ -1,0 +1,60 @@
+T43	DISEASE 95 109	drug allergies
+T1	DISEASE 111 114	AHT
+T2	DISEASE 134 147	dyslipidaemic
+T46	DISEASE 159 165	smoker
+T47	DISEASE 181 191	Ex-drinker
+T17	DISEASE 193 207	Hyperuricaemia
+T3	DISEASE 209 237	Chronic bronchitis type COPD
+T44	DISEASE 270 299	moderate double aortic lesion
+T18	DISEASE 309 331	pulmonary hypertension
+T19	DISEASE 484 506	narrow QRS tachycardia
+T20	DISEASE 691 711	arterial hypotension
+T21	DISEASE 914 962	biventricular dilatation with severe dysfunction
+T22	DISEASE 992 1021	moderate mitral insufficiency
+T45	DISEASE 1023 1052	moderate double aortic lesion
+T6	DISEASE 1057 1096	moderate-severe tricuspid insufficiency
+T23	DISEASE 1138 1155	cardiogenic shock
+T26	DISEASE 1194 1219	pulmonary thromboembolism
+T24	DISEASE 1265 1282	cardiogenic shock
+T27	DISEASE 1621 1661	moderate functional mitral regurgitation
+T9	DISEASE 1666 1719	double aortic lesion with severe aortic regurgitation
+T28	DISEASE 1774 1801	severe aortic insufficiency
+T29	DISEASE 1843 1881	prolapse of the right coronary leaflet
+T33	DISEASE 1977 2030	perforation of the base of the right coronary leaflet
+T35	DISEASE 2434 2485	atrial fibrillation with rapid ventricular response
+T12	DISEASE 2753 2756	PTE
+T13	DISEASE 2773 2807	mediastinal or axillary adenopathy
+T36	DISEASE 3051 3064	heart failure
+T49	DISEASE 3138 3174	hypertrophy of the left hepatic lobe
+T37	DISEASE 3202 3223	chronic liver disease
+T50	DISEASE 3274 3350	moderately-severely dilated left ventricle, with mild concentric hypertrophy
+T14	DISEASE 3470 3480	LA dilated
+T15	DISEASE 3568 3578	Dilated RA
+T16	DISEASE 3701 3703	MI
+T70	DISEASE 3828 3867	endocarditis at the mitral valve level.
+T71	DISEASE 3868 3960	Tricuspid aortic valve, fibrosclerosed, with severe thickening of the right coronary leaflet
+T38	DISEASE 4072 4089	endocarditis wart
+T30	DISEASE 4091 4129	Prolapse of the right coronary leaflet
+T72	DISEASE 4168 4171	AoI
+T31	DISEASE 4316 4354	prolapse of the right coronary leaflet
+T73	DISEASE 4497 4504	Mild TR
+T48	DISEASE 4551 4562	dilated IVC
+T74	DISEASE 4615 4637	pulmonary valvulopathy
+T39	DISEASE 4694 4714	pericardial effusion
+T76	DISEASE 4748 4758	severe AoI
+T32	DISEASE 4949 4987	prolapse of the right coronary leaflet
+T34	DISEASE 5080 5133	perforation of the base of the right coronary leaflet
+T77	DISEASE 5145 5147	MR
+T78	DISEASE 5321 5353	endocarditis on the mitral valve
+T80	DISEASE 5472 5504	endocarditis on the aortic valve
+T81	DISEASE 5506 5517	severe AoI,
+T82	DISEASE 5518 5526	mild AoE
+T83	DISEASE 5538 5540	MI
+T40	DISEASE 5794 5838	endocardial involvement by Coxiella burnetii
+T41	DISEASE 5912 5926	atrial flutter
+T42	DISEASE 5965 5995	severe ventricular dysfunction
+T85	DISEASE 6021 6025	NSVT
+T25	DISEASE 6232 6249	Cardiogenic shock
+T51	DISEASE 6268 6287	tachycardiomyopathy
+T52	DISEASE 6295 6320	rapid atrial fibrillation
+T87	DISEASE 6370 6420	Mitro-aortic endocarditis due to Coxiella burnetii

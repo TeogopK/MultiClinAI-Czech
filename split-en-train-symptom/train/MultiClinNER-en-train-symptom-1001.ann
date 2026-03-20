@@ -1,0 +1,51 @@
+T1	SYMPTOM 415 423	asthenia
+T2	SYMPTOM 1092 1100	asthenia
+T3	SYMPTOM 425 433	anorexia
+T4	SYMPTOM 483 496	positive ANAs
+T5	SYMPTOM 1105 1133	dyspnoea on minimal exertion
+T7	SYMPTOM 1269 1277	dyspnoea
+T9	SYMPTOM 9953 9961	dyspnoea
+T10	SYMPTOM 1686 1691	fever
+T11	SYMPTOM 1479 1487	wide QRS
+T12	SYMPTOM 1780 1788	wide QRS
+T13	SYMPTOM 4693 4701	wide QRS
+T14	SYMPTOM 4746 4754	wide QRS
+T15	SYMPTOM 2444 2465	jugular ingurgitation
+T16	SYMPTOM 2492 2499	murmurs
+T17	SYMPTOM 2552 2559	murmurs
+T18	SYMPTOM 2522 2543	rhythmic heart sounds
+T19	SYMPTOM 2585 2607	bilateral dry crackles
+T20	SYMPTOM 2723 2765	Upper limbs: symmetrical peripheral pulses
+T21	SYMPTOM 2767 2789	Lower limbs: no oedema
+T22	SYMPTOM 4026 4040	ENAS: positive
+T23	SYMPTOM 4135 4158	HBV, HCV, HIV: negative
+T24	SYMPTOM 4527 4539	sinus rhythm
+T27	SYMPTOM 5121 5144	vascular redistribution
+T29	SYMPTOM 5925 5963	Prolonged diastolic relaxation pattern
+T30	SYMPTOM 6019 6058	RV of normal size and systolic function
+T31	SYMPTOM 8090 8113	Haemodynamically stable
+T32	SYMPTOM 8938 8953	sudden dyspnoea
+T34	SYMPTOM 4392 4403	proteinuria
+T35	SYMPTOM 9744 9755	proteinuria
+T36	SYMPTOM 9760 9770	haematuria
+T37	SYMPTOM 9835 9849	plateletopenia
+T38	SYMPTOM 10057 10065	oliguria
+T39	SYMPTOM 4330 4347	mixed proteinuria
+T40	SYMPTOM 4969 4986	sinus tachycardia
+T41	SYMPTOM 472 479	Raynaud
+T42	SYMPTOM 7039 7075	interstitial inflammatory infiltrate
+T43	SYMPTOM 438 449	weight loss
+T6	SYMPTOM 2383 2397	tendon rubbing
+T25	SYMPTOM 2399 2439	Complete normal neurological examination
+T44	SYMPTOM 2654 2693	Abdomen: soft, depressible, non-painful
+T45	SYMPTOM 2829 2847	symmetrical pulses
+T46	SYMPTOM 3307 3334	liver function tests normal
+T47	SYMPTOM 3417 3440	Thyroid hormones normal
+T48	SYMPTOM 4042 4063	Positive: anti-Scl-70
+T49	SYMPTOM 4065 4121	Negative: anti SSA/Ro60, SSA/Ro52, SSB, RNP, Sm and Jo-1
+T26	SYMPTOM 5965 6017	Severe hypokinesia of mid and apical septal segments
+T28	SYMPTOM 6388 6435	Increase in the calibre of the pulmonary artery
+T33	SYMPTOM 8119 8146	normal baseline blood gases
+T8	SYMPTOM 9707 9738	deterioration of renal function
+T50	SYMPTOM 10403 10434	deterioration of renal function
+T51	SYMPTOM 11023 11027	died

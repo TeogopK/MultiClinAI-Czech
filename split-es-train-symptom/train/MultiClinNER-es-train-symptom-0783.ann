@@ -1,0 +1,48 @@
+T1	SYMPTOM 268 282	dolor torácico
+T2	SYMPTOM 544 567	pérdida de conocimiento
+T4	SYMPTOM 630 636	mareos
+T5	SYMPTOM 639 653	dolor torácico
+T6	SYMPTOM 741 791	dolor torácico como opresivo, irradiado a garganta
+T7	SYMPTOM 798 816	cortejo vegetativo
+T8	SYMPTOM 864 877	palpitaciones
+T9	SYMPTOM 882 900	sensación disneica
+T10	SYMPTOM 1328 1347	buen estado general
+T11	SYMPTOM 1349 1367	Eupneico en reposo
+T12	SYMPTOM 1389 1396	Afebril
+T13	SYMPTOM 1399 1424	estable hemodinámicamente
+T14	SYMPTOM 1521 1572	Auscultación cardiorrespiratoria con tonos rítmicos
+T15	SYMPTOM 1578 1584	soplos
+T16	SYMPTOM 1586 1615	Murmullo vesicular conservado
+T17	SYMPTOM 1648 1678	Miembros inferiores sin edemas
+T18	SYMPTOM 1772 1782	eje normal
+T19	SYMPTOM 1784 1793	PR normal
+T20	SYMPTOM 1795 1807	QRS estrecho
+T21	SYMPTOM 1827 1876	elevación ST < 1 mm en colgadura en cara inferior
+T22	SYMPTOM 1907 1949	ICT en el límite superior de la normalidad
+T25	SYMPTOM 2151 2182	glucosa e iones en rango normal
+T26	SYMPTOM 2184 2195	Neutrofilia
+T27	SYMPTOM 2209 2221	leucocitosis
+T28	SYMPTOM 2265 2293	Coagulación sin alteraciones
+T29	SYMPTOM 2467 2500	Estudio de autoinmunidad negativo
+T30	SYMPTOM 2682 2724	aurícula izquierda de dimensiones normales
+T31	SYMPTOM 2755 2776	Válvula mitral normal
+T32	SYMPTOM 2831 2888	Ventrículo izquierdo con volúmenes ligeramente aumentados
+T33	SYMPTOM 3086 3117	Patrón de llenado mitral normal
+T34	SYMPTOM 3483 3508	Vena cava inferior normal
+T35	SYMPTOM 5822 5836	dolor torácico
+T36	SYMPTOM 6741 6752	hipotensión
+T38	SYMPTOM 7498 7510	asintomático
+T100	SYMPTOM 1626 1646	ruidos sobreañadidos
+T3	SYMPTOM 1951 1977	Senos costofrénicos libres
+T23	SYMPTOM 3014 3038	Grosor miocárdico normal
+T58	SYMPTOM 2966 3012	alteraciones segmentarias de la contractilidad
+T83	SYMPTOM 3196 3255	Válvula aórtica trivalva, con velos anatómicamente normales
+T84	SYMPTOM 3301 3360	Ventrículo derecho de dimensiones y contractilidad normales
+T37	SYMPTOM 1244 1269	sintomatología infecciosa
+T122	SYMPTOM 524 539	desvanecimiento
+T123	SYMPTOM 4961 4979	dominancia derecha
+T137	SYMPTOM 1498 1519	semiología congestiva
+T138	SYMPTOM 1369 1387	tolerando decúbito
+T85	SYMPTOM 3985 4001	ADA sin lesiones
+T86	SYMPTOM 4173 4193	ACx sin alteraciones
+T91	SYMPTOM 7043 7083	realce leve de predominio subendocárdico

@@ -1,0 +1,56 @@
+T40	DISEASE 98 124	infarto agudo de miocardio
+T41	DISEASE 126 129	IAM
+T42	DISEASE 146 153	Fumador
+T43	DISEASE 218 239	hipertensión arterial
+T44	DISEASE 241 258	diabetes mellitus
+T45	DISEASE 263 273	dislipemia
+T46	DISEASE 293 308	trauma torácico
+T47	DISEASE 339 351	cardiopatías
+T48	DISEASE 2253 2270	Aneurisma aórtico
+T49	DISEASE 2375 2491	Válvula aórtica trivalva con insuficiencia aórtica funcional grave por pérdida de morfología de la unión sinotubular
+T50	DISEASE 2710 2739	aneurisma de aorta ascendente
+T51	DISEASE 2861 2870	aneurisma
+T52	DISEASE 2993 3043	flap intimal en margen anterior de la raíz aortica
+T53	DISEASE 3705 3728	miocardiopatía dilatada
+T54	DISEASE 4150 4159	trombosis
+T55	DISEASE 4336 4353	trombosis parcial
+T56	DISEASE 4708 4733	derrame pleural bilateral
+T57	DISEASE 4787 4796	hemotórax
+T58	DISEASE 4874 4899	Derrame pleural bilateral
+T59	DISEASE 5313 5357	Insuficiencia mitral funcional leve-moderada
+T60	DISEASE 6012 6035	Miocardiopatía dilatada
+T61	DISEASE 6066 6096	derrame pleural ni pericárdico
+T62	DISEASE 6697 6718	disfunción diastólica
+T63	DISEASE 7307 7331	insuficiencia tricúspide
+T64	DISEASE 7354 7375	hipertensión pulmonar
+T65	DISEASE 7530 7539	aneurisma
+T66	DISEASE 7874 7888	rotura aórtica
+T67	DISEASE 8554 8608	parálisis recurrencial izquierda con afonía secundaria
+T68	DISEASE 8844 8869	derrame pleural bilateral
+T69	DISEASE 9779 9804	disección de aorta tipo B
+T70	DISEASE 9952 9969	patología aórtica
+T71	DISEASE 9973 9988	conectivopatías
+T72	DISEASE 10407 10465	Aneurisma disecante de aorta de 11 cm con disección tipo A
+T73	DISEASE 10564 10616	Dilatación y disfunción del VI graves posoperatorias
+T74	DISEASE 181 199	Consumo de alcohol
+T75	DISEASE 5824 5835	DAo crónica
+T76	DISEASE 6213 6216	DAo
+T77	DISEASE 7548 7551	DAo
+T78	DISEASE 5279 5289	bajo gasto
+T79	DISEASE 8100 8130	dilatación de aorta ascendente
+T80	DISEASE 3061 3085	disección aortica tipo A
+T81	DISEASE 4468 4502	disección en troncos supraaórticos
+T82	DISEASE 9073 9127	VI dilatado y globuloso con disfunción sistólica grave
+T83	DISEASE 7179 7215	insuficiencia periprotésico muy leve
+T84	DISEASE 1137 1148	presíncopes
+T85	DISEASE 1125 1133	síncopes
+T86	DISEASE 2066 2107	VI globuloso, hipertrabeculado y dilatado
+T87	DISEASE 4971 5016	VI muy globuloso, hipertrabeculado y dilatado
+T88	DISEASE 2742 2752	DAo tipo A
+T89	DISEASE 8161 8171	DAo tipo A
+T13	DISEASE 2125 2147	leve hipertrofia de VI
+T155	DISEASE 3948 3966	fuga periprotésica
+T156	DISEASE 5550 5570	fugas periprotésicas
+#1	AnnotatorNotes T76	  Disección aórtica
+#2	AnnotatorNotes T77	  Disección aórtica
+#3	AnnotatorNotes T88	  DAo: disección aórtica

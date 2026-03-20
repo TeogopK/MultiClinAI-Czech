@@ -1,0 +1,20 @@
+T22	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T24	PROCEDURE 819 827	angio-CT
+T23	PROCEDURE 875 895	Physical examination
+T3	PROCEDURE 1027 1030	CBC
+T27	PROCEDURE 1058 1088	Cardiac auscultation: rhythmic
+T4	PROCEDURE 1110 1132	Pulmonary auscultation
+T28	PROCEDURE 1227 1241	Echocardiogram
+T29	PROCEDURE 1567 1581	Echocardiogram
+T5	PROCEDURE 1956 1964	Analysis
+T36	PROCEDURE 1966 1978	biochemistry
+T6	PROCEDURE 2107 2116	Haemogram
+T31	PROCEDURE 2218 2229	coagulation
+T32	PROCEDURE 2262 2301	Angio-CT of aorta and coronary arteries
+T26	PROCEDURE 2888 2896	angio-CT
+T8	PROCEDURE 3183 3244	aortic root and ascending aorta replacement with a 34 mm tube
+T33	PROCEDURE 3250 3308	aortic valve reimplantation according to David's technique
+T30	PROCEDURE 3408 3435	post-surgery echocardiogram
+T34	PROCEDURE 3496 3521	anatomopathological study
+T35	PROCEDURE 3694 3707	genetic study
+T9	PROCEDURE 3847 3902	Surgery for aortic root replacement and ascending aorta

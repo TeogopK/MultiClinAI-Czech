@@ -1,0 +1,50 @@
+T1	SYMPTOM 685 707	dolor abdominal difuso
+T2	SYMPTOM 709 716	náuseas
+T3	SYMPTOM 719 726	vómitos
+T4	SYMPTOM 815 835	sensación distérmica
+T5	SYMPTOM 884 894	diaforesis
+T6	SYMPTOM 1005 1049	aumento amilasa en sangre, así como en orina
+T7	SYMPTOM 1734 1758	Aceptable estado general
+T8	SYMPTOM 1760 1770	Consciente
+T9	SYMPTOM 1772 1781	orientado
+T11	SYMPTOM 1797 1822	Estable hemodinámicamente
+T12	SYMPTOM 1824 1842	Eupneico en reposo
+T13	SYMPTOM 1844 1863	Piel normocoloreada
+T14	SYMPTOM 1884 1914	temperatura corporal aumentada
+T15	SYMPTOM 2023 2051	ingurgitación venosa yugular
+T16	SYMPTOM 2079 2093	tonos rítmicos
+T17	SYMPTOM 2126 2132	soplos
+T18	SYMPTOM 2160 2189	murmullo vesicular conservado
+T19	SYMPTOM 2191 2218	Abdomen blando y depresible
+T20	SYMPTOM 2224 2279	dolor a la palpación en epigastrio y ambos hipocondrios
+T21	SYMPTOM 2281 2296	Purphy negativo
+T22	SYMPTOM 2298 2356	Ruidos hidroaéreos preservados a la auscultación abdominal
+T23	SYMPTOM 2371 2376	masas
+T24	SYMPTOM 2379 2394	visceromegalias
+T25	SYMPTOM 2396 2437	Miembros inferiores sin edemas maleolares
+T26	SYMPTOM 2439 2470	Pulsos conservados y simétricos
+T29	SYMPTOM 3406 3434	índice cardiotorácico normal
+T30	SYMPTOM 3473 3486	ritmo sinusal
+T32	SYMPTOM 3608 3620	QRS estrecho
+T34	SYMPTOM 4170 4199	líquido libre intra-abdominal
+T35	SYMPTOM 4201 4252	Masa hipodensa en el interior de aurícula izquierda
+T36	SYMPTOM 4420 4460	masa prolapsa hacia ventrículo izquierdo
+T37	SYMPTOM 4534 4566	ventrículo izquierdo no dilatado
+T38	SYMPTOM 4622 4657	función sistólica global preservada
+T41	SYMPTOM 5240 5289	Estudio Doppler con flujos transmitrales normales
+T43	SYMPTOM 8267 8292	pérdida de escape sinusal
+T44	SYMPTOM 8888 8901	ritmo sinusal
+T130	SYMPTOM 1353 1371	masa intracardiaca
+T10	SYMPTOM 3730 3775	alteraciones patológicas de la repolarización
+T27	SYMPTOM 4121 4154	Bazo sin alteraciones patológicas
+T28	SYMPTOM 4702 4748	alteraciones segmentarias de la contractilidad
+T31	SYMPTOM 4750 4774	Raíz aórtica no dilatada
+T33	SYMPTOM 4847 4908	Aurícula izquierda dilatada (volumen 81 cm3), apreciando masa
+T39	SYMPTOM 5189 5224	ventrículo derecho normofuncionante
+T40	SYMPTOM 6026 6036	hemorragia
+T132	SYMPTOM 3331 3365	Aumento de la trama broncovascular
+T135	SYMPTOM 5152 5183	Cavidades derechas no dilatadas
+T149	SYMPTOM 3370 3400	aumento de la silueta cardiaca
+T152	SYMPTOM 1784 1795	colaborador
+T153	SYMPTOM 3945 3956	colecciones
+T42	SYMPTOM 5599 5636	Coronariografía: dominancia izquierda

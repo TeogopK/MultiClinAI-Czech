@@ -1,0 +1,23 @@
+T10	SYMPTOM 99 125	suffers from heart disease
+T1	SYMPTOM 357 384	Normal LV systolic function
+T11	SYMPTOM 496 537	Mitral valve function with incomplete SAM
+T12	SYMPTOM 542 566	dynamic gradient in LVOT
+T2	SYMPTOM 786 794	dyspnoea
+T3	SYMPTOM 930 938	asthenia
+T13	SYMPTOM 967 1003	cardiological or infectious symptoms
+T4	SYMPTOM 1029 1041	palpitations
+T14	SYMPTOM 1287 1351	regurgitation murmur in the mitral focus radiating to the axilla
+T15	SYMPTOM 1383 1406	crackles up to the apex
+T16	SYMPTOM 1411 1431	generalised wheezing
+T17	SYMPTOM 1435 1469	symmetrical magnus and celer pulse
+T5	SYMPTOM 1500 1523	haemodynamically stable
+T6	SYMPTOM 1649 1661	sinus rhythm
+T8	SYMPTOM 1682 1694	ST elevation
+T18	SYMPTOM 1796 1810	borderline CTI
+T9	SYMPTOM 1815 1856	bilateral centrifugal alveolar infiltrate
+T19	SYMPTOM 2209 2277	systolic anterior motion of the anterior leaflet of the mitral valve
+T7	SYMPTOM 2361 2373	sinus rhythm
+T20	SYMPTOM 4033 4075	septal branch was observed to be permeable
+T21	SYMPTOM 4231 4270	alternating pacing and pacemaker pacing
+T22	SYMPTOM 4281 4310	stable haemodynamic condition
+T23	SYMPTOM 5126 5146	eupneic in decubitus

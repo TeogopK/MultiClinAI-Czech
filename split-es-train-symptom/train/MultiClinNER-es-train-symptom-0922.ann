@@ -1,0 +1,55 @@
+T1	SYMPTOM 978 995	dolor epigástrico
+T2	SYMPTOM 998 1020	dolor abdominal difuso
+T3	SYMPTOM 1090 1108	cortejo vegetativo
+T4	SYMPTOM 1126 1132	disnea
+T5	SYMPTOM 1145 1159	dolor torácico
+T6	SYMPTOM 1179 1185	fiebre
+T8	SYMPTOM 1326 1357	alteraciones del comportamiento
+T9	SYMPTOM 1512 1519	Afebril
+T10	SYMPTOM 1521 1531	Consciente
+T11	SYMPTOM 1533 1542	orientada
+T12	SYMPTOM 1544 1558	normohidratada
+T13	SYMPTOM 1561 1571	perfundida
+T14	SYMPTOM 1573 1591	eupneica en reposo
+T15	SYMPTOM 1593 1601	Caquexia
+T16	SYMPTOM 1635 1656	ingurgitación yugular
+T17	SYMPTOM 1687 1712	ruidos cardiacos rítmicos
+T18	SYMPTOM 1713 1735	soplo sistólico mitral
+T19	SYMPTOM 1778 1807	murmullo vesicular conservado
+T22	SYMPTOM 1809 1887	Abdomen: blando, depresible, peristaltismo conservado, doloroso a la palpación
+T23	SYMPTOM 1915 1936	irritación peritoneal
+T24	SYMPTOM 1941 1947	soplos
+T25	SYMPTOM 1949 1983	Extremidades inferiores: no edemas
+T26	SYMPTOM 2104 2123	taquicardia sinusal
+T27	SYMPTOM 2135 2164	Elevación ST V1-V4 Q en V1 V2
+T28	SYMPTOM 2179 2192	ritmo sinusal
+T29	SYMPTOM 2207 2235	ondas T negativas de V1 a V4
+T30	SYMPTOM 2769 2802	silueta cardiomediastínica normal
+T32	SYMPTOM 3475 3503	función sistólica conservada
+T34	SYMPTOM 4066 4144	ventrículo izquierdo de tamaño y grosor normales, con función sistólica límite
+T36	SYMPTOM 4234 4261	Cavidades derechas normales
+T37	SYMPTOM 4860 4891	Urocultivo 25/01/2020: negativo
+T38	SYMPTOM 4893 4960	PCR gripe y virus respiratorio sincitial (VRS) 07/02/2020: negativa
+T40	SYMPTOM 5947 5961	picos febriles
+T41	SYMPTOM 6316 6331	acinesia apical
+T44	SYMPTOM 7093 7107	dolor torácico
+T45	SYMPTOM 7109 7149	Función sistólica VI residual conservada
+T47	SYMPTOM 7310 7339	alteración del comportamiento
+T48	SYMPTOM 7350 7372	dolor abdominal difuso
+T114	SYMPTOM 1163 1170	síncope
+T161	SYMPTOM 9427 9442	acinesia apical
+T21	SYMPTOM 3516 3589	Masa visualizada en cara auricular de valva anterior en la válvula mitral
+T39	SYMPTOM 8360 8410	función sistólica ventricular izquierda conservada
+T43	SYMPTOM 9375 9411	Función sistólica VI residual límite
+T191	SYMPTOM 1308 1321	inestabilidad
+T206	SYMPTOM 1189 1210	semiología infecciosa
+T207	SYMPTOM 5982 6003	semiología infecciosa
+T46	SYMPTOM 2027 2061	pérdidas de continuidad de la piel
+T89	SYMPTOM 3888 3925	afectación de la fibrosa mitroaórtica
+T35	SYMPTOM 4812 4858	Hemocultivos 25/01/2020: Streptococo anginosus
+T124	SYMPTOM 5548 5618	alteración de señal cortico yuxtacortical temporal occipital izquierda
+T139	SYMPTOM 5452 5488	captación anular occipital izquierda
+T154	SYMPTOM 6197 6231	S. anginosus en ambos hemocultivos
+T159	SYMPTOM 6336 6351	FEVI conservada
+T163	SYMPTOM 7154 7169	acinesia apical
+T164	SYMPTOM 7522 7575	TAC abdominal en donde no se encontraron alteraciones

@@ -1,0 +1,41 @@
+T57	DISEASE 20 29	allergies
+T38	DISEASE 31 39	Glaucoma
+T39	DISEASE 41 55	Knee arthritis
+T1	DISEASE 496 530	papular lesions on the lower limbs
+T40	DISEASE 717 727	meningitis
+T41	DISEASE 1022 1044	bacterial endocarditis
+T2	DISEASE 1451 1514	red nodular lesions, 3 mm in diameter, on the lower extremities
+T3	DISEASE 1892 1918	bilateral pleural effusion
+T4	DISEASE 1924 1961	bilateral basal passive lung collapse
+T58	DISEASE 2042 2059	Mild splenomegaly
+T59	DISEASE 2188 2205	accessory spleens
+T5	DISEASE 2240 2316	retroperitoneal, retrocrural and left external iliac chain lymphadenopathies
+T6	DISEASE 2372 2431	Cortical cyst of 28 mm in the upper pole of the left kidney
+T7	DISEASE 2690 2740	septic embolism both in the spleen and lower limbs
+T8	DISEASE 3371 3401	abscesses over the aortic root
+T9	DISEASE 3424 3473	Mitral valve: anterior leaflet slightly thickened
+T10	DISEASE 3499 3526	vegetations on the leaflets
+T44	DISEASE 3650 3662	endocarditis
+T47	DISEASE 3717 3737	pericardial effusion
+T11	DISEASE 3755 3778	mild collapse of the RA
+T12	DISEASE 4764 4791	vegetations on the leaflets
+T50	DISEASE 5048 5057	abscesses
+T13	DISEASE 5122 5130	fistulae
+T14	DISEASE 5662 5673	vegetations
+T48	DISEASE 5816 5836	pericardial effusion
+T51	DISEASE 6510 6522	coagulopathy
+T15	DISEASE 6552 6589	vegetation in the free wall of the RA
+T16	DISEASE 6615 6657	vegetation in the posterior wall of the LV
+T52	DISEASE 6912 6979	Mitral subvalvular abscess, at the level of the anterior commissure
+T17	DISEASE 6992 7005	LV vegetation
+T18	DISEASE 7107 7182	Perforation of fine mitral leaflet, without calcium, with small vegetations
+T60	DISEASE 7364 7374	anisocoria
+T19	DISEASE 7446 7465	tonic-clonic crises
+T20	DISEASE 7634 7659	multi-organ deterioration
+T61	DISEASE 7666 7685	acute renal failure
+T53	DISEASE 7754 7774	haemodynamic failure
+T54	DISEASE 7908 7919	brain death
+T21	DISEASE 7986 8082	Mural endocarditis and valvular endocarditis on native mitral valve due to Staphylococcus aureus
+T55	DISEASE 8084 8100	Septic embolisms
+T56	DISEASE 8102 8115	Heart failure
+T22	DISEASE 8169 8187	multiorgan failure

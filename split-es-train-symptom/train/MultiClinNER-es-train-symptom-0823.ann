@@ -1,0 +1,47 @@
+T1	SYMPTOM 337 370	edemas moderados en ambas piernas
+T2	SYMPTOM 373 391	disnea de esfuerzo
+T3	SYMPTOM 601 630	disminución de 3-4 kg de peso
+T4	SYMPTOM 632 676	dolor en cintura escapular, muñecas y cadera
+T6	SYMPTOM 687 716	dificultad para la empuñadura
+T7	SYMPTOM 727 754	parestesias en manos y pies
+T8	SYMPTOM 821 843	Buen estado en general
+T9	SYMPTOM 844 854	Consciente
+T10	SYMPTOM 857 866	orientado
+T13	SYMPTOM 1008 1015	máculas
+T14	SYMPTOM 1077 1093	roce pericárdico
+T15	SYMPTOM 1094 1131	Abdomen globuloso blando y depresible
+T16	SYMPTOM 1132 1183	Extremidades con edemas tensos e induración cutánea
+T17	SYMPTOM 1442 1460	Coagulación Normal
+T18	SYMPTOM 1699 1729	anticardiolipina Ig G negativo
+T19	SYMPTOM 1731 1761	Anticardiolipina Ig M positivo
+T20	SYMPTOM 1931 1973	Proteinograma e inmunoglobulinas: normales
+T21	SYMPTOM 2013 2026	ritmo sinusal
+T22	SYMPTOM 2069 2099	alteraciones de repolarización
+T23	SYMPTOM 2127 2152	T negativa aislada en AVL
+T26	SYMPTOM 2214 2227	ICT aumentado
+T29	SYMPTOM 2747 2768	Llenado mitral normal
+T31	SYMPTOM 2894 2908	VD no dilatado
+T34	SYMPTOM 3383 3398	FEVI conservada
+T35	SYMPTOM 3454 3501	Aurícula derecha con colapso parcial diastólico
+T5	SYMPTOM 921 950	Tensión venosa yugular normal
+T11	SYMPTOM 1038 1072	Auscultación cardiopulmonar normal
+T12	SYMPTOM 1462 1596	Serología Microbiana: Mycoplasma, Coxiella, Epstein- Barr (Ig M), Citomegalovirus, Rosa de Bengala, Hepatitis B y Hepatitis C negativo
+T92	SYMPTOM 1684 1697	ANCA negativo
+T93	SYMPTOM 1975 1992	Mantoux: negativo
+T60	SYMPTOM 2052 2064	QRS estrecho
+T101	SYMPTOM 3279 3328	Ventrículo izquierdo no dilatado, ni hipertrófico
+T106	SYMPTOM 535 558	compromiso hemodinámico
+T111	SYMPTOM 983 1004	focalidad neurológica
+T112	SYMPTOM 2696 2745	función sistólica global y segmentaria conservada
+T113	SYMPTOM 1242 1271	leucocitos con fórmula normal
+T115	SYMPTOM 2179 2190	infiltrados
+T118	SYMPTOM 2194 2199	masas
+T27	SYMPTOM 867 885	Eupneico en reposo
+T28	SYMPTOM 1778 1799	ANA + (patrón moteado
+T33	SYMPTOM 1808 1814	ENAS -
+T36	SYMPTOM 1816 1826	Anti DNA -
+T37	SYMPTOM 1828 1854	complemento C3 y C4 normal
+T94	SYMPTOM 1856 1875	factor reumatoide -
+T96	SYMPTOM 1878 1929	Frotis de sangre periférica: serie roja sin atipias
+T30	SYMPTOM 4226 4319	hígado, vesícula biliar, vía biliar, bazo, riñones y glándulas suprarrenales sin alteraciones
+T97	SYMPTOM 4448 4473	autoanticuerpos positivos

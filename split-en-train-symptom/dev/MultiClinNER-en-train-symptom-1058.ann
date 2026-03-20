@@ -1,0 +1,42 @@
+T1	SYMPTOM 249 261	asymptomatic
+T3	SYMPTOM 282 294	palpitations
+T26	SYMPTOM 301 323	sensation of dizziness
+T4	SYMPTOM 325 345	sphincter relaxation
+T27	SYMPTOM 376 389	tongue biting
+T5	SYMPTOM 394 415	loss of consciousness
+T9	SYMPTOM 614 622	rhythmic
+T28	SYMPTOM 667 713	ST elevation from V1 to V4 on the lateral side
+T6	SYMPTOM 1087 1096	conscious
+T7	SYMPTOM 1101 1109	oriented
+T8	SYMPTOM 1111 1126	Eupneic at rest
+T10	SYMPTOM 1150 1158	rhythmic
+T11	SYMPTOM 1163 1170	murmurs
+T20	SYMPTOM 1196 1208	normoventila
+T12	SYMPTOM 1213 1229	congestive signs
+T13	SYMPTOM 1257 1269	sinus rhythm
+T29	SYMPTOM 1279 1319	elevation of J point and anteroseptal ST
+T30	SYMPTOM 1685 1704	proteinogram normal
+T21	SYMPTOM 2095 2110	right dominance
+T22	SYMPTOM 2112 2158	Coronary arteries without significant stenosis
+T31	SYMPTOM 2160 2180	Coronary flow normal
+T32	SYMPTOM 2182 2206	Common trunk: No lesions
+T23	SYMPTOM 2291 2314	Circumflex: no stenosis
+T24	SYMPTOM 2316 2334	Right: no stenosis
+T14	SYMPTOM 2354 2386	correct global systolic function
+T34	SYMPTOM 2594 2646	left ventricle (LV) neither dilated nor hypertrophic
+T33	SYMPTOM 2648 2682	Global systolic function preserved
+T35	SYMPTOM 2722 2773	Left atrium of size at the upper limit of normality
+T36	SYMPTOM 2737 2802	size at the upper limit of normality, as well as the aortic root.
+T37	SYMPTOM 2952 2977	Inferior cava not dilated
+T15	SYMPTOM 3036 3049	Normal mitral
+T16	SYMPTOM 3073 3097	Normal diastolic pattern
+T25	SYMPTOM 3099 3153	Pulmonary artery with very slight increase in diameter
+T38	SYMPTOM 3310 3324	LV normal size
+T17	SYMPTOM 3331 3355	normal systolic function
+T18	SYMPTOM 3380 3425	right ventricle (RV), with preserved function
+T39	SYMPTOM 3427 3478	Papillary accessory muscle in the ventricular sinus
+T19	SYMPTOM 3498 3525	late myocardial enhancement
+T40	SYMPTOM 3527 3548	Atria are not dilated
+T2	SYMPTOM 3750 3762	asymptomatic
+T41	SYMPTOM 3809 3865	echocardiogram was performed, showing normal LV function
+T42	SYMPTOM 4385 4407	Coronary arteries free

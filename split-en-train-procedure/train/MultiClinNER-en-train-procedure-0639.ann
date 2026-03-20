@@ -1,0 +1,20 @@
+T1	PROCEDURE 88 113	medical-dietary treatment
+T3	PROCEDURE 115 124	Endoscopy
+T6	PROCEDURE 259 265	biopsy
+T7	PROCEDURE 354 378	gastrointestinal transit
+T4	PROCEDURE 380 383	GIT
+T8	PROCEDURE 389 408	computed tomography
+T14	PROCEDURE 410 412	CT
+T18	PROCEDURE 551 578	endoscopic ultrasound scans
+T10	PROCEDURE 580 583	EUS
+T11	PROCEDURE 822 832	ultrasound
+T15	PROCEDURE 889 892	FNA
+T9	PROCEDURE 1107 1123	surgical removal
+T16	PROCEDURE 1125 1164	Excision was performed laparoscopically
+T2	PROCEDURE 1201 1225	intraoperative endoscopy
+T17	PROCEDURE 1230 1250	Chinese ink staining
+T12	PROCEDURE 1260 1267	surgery
+T5	PROCEDURE 1272 1292	anterior gastrostomy
+T25	PROCEDURE 1314 1370	resection is carried out with a 45 mm linear endostapler
+T27	PROCEDURE 1413 1464	gastrostomy is closed with a continuous silk suture
+T28	PROCEDURE 1575 1598	Microscopic examination

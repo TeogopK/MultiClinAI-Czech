@@ -1,0 +1,16 @@
+T29	DISEASE 85 88	HTA
+T30	DISEASE 89 164	Insuficiencia renal crónica estadio III secundaria a reflujo vesicoureteral
+T31	DISEASE 601 607	BCRIHH
+T32	DISEASE 1314 1365	verruga endocárdica de 15x10 mm anclada al septo IV
+T33	DISEASE 1750 1779	focos infecciosos en pulmones
+T34	DISEASE 1938 1963	bloqueo de rama izquierda
+T35	DISEASE 2054 2073	verruga endocárdica
+T36	DISEASE 2158 2199	comunicación interventricular restrictiva
+T37	DISEASE 3131 3169	Endocarditis tricuspídea por S. aureus
+T38	DISEASE 3032 3035	CIV
+T39	DISEASE 1367 1408	Comunicación interventricular restrictiva
+T28	DISEASE 2551 2558	verruga
+T64	DISEASE 2812 2822	vegetación
+T73	DISEASE 2987 2997	vegetación
+#1	AnnotatorNotes T31	 BCRIHH Bloqueo completo rama izq Haz de Hiz
+#2	AnnotatorNotes T38	 CIV comunicación interventricular

@@ -1,0 +1,60 @@
+T86	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 337 419	Hepatitis C virus genotype 1a infection, cured with triple therapy with boceprevir
+T88	PROCEDURE 429 441	HIV serology
+T89	PROCEDURE 1290 1307	electrocardiogram
+T90	PROCEDURE 1309 1312	ECG
+T94	PROCEDURE 1324 1352	markers of myocardial damage
+T87	PROCEDURE 1451 1471	Physical examination
+T95	PROCEDURE 1534 1548	oxygen therapy
+T96	PROCEDURE 1697 1717	Cardiac auscultation
+T97	PROCEDURE 1769 1791	Pulmonary auscultation
+T98	PROCEDURE 1855 1876	Abdominal examination
+T91	PROCEDURE 1993 1996	ECG
+T3	PROCEDURE 2388 2404	Laboratory tests
+T4	PROCEDURE 2413 2422	haemogram
+T99	PROCEDURE 2427 2444	coagulation study
+T120	PROCEDURE 2446 2458	Biochemistry
+T123	PROCEDURE 2460 2474	renal function
+T100	PROCEDURE 2479 2491	electrolytes
+T102	PROCEDURE 2500 2521	Hepatobiliary profile
+T119	PROCEDURE 2553 2565	Autoimmunity
+T5	PROCEDURE 2576 2589	Toxicity test
+T103	PROCEDURE 2648 2660	Proteinogram
+T129	PROCEDURE 2754 2763	Synacthen
+T105	PROCEDURE 2812 2823	Chest X-ray
+T106	PROCEDURE 2935 2958	cardiac catheterisation
+T7	PROCEDURE 3138 3166	intracoronary nitroglycerine
+T116	PROCEDURE 3168 3196	Transthoracic echocardiogram
+T92	PROCEDURE 3660 3663	ECG
+T8	PROCEDURE 3860 3898	Brain magnetic resonance imaging (MRI)
+T127	PROCEDURE 3894 3897	MRI
+T107	PROCEDURE 3991 4037	CT scan of the chest and abdomen with contrast
+T93	PROCEDURE 4532 4535	ECG
+T108	PROCEDURE 4582 4602	coronary angiography
+T13	PROCEDURE 4769 4797	intracoronary nitroglycerine
+T14	PROCEDURE 4975 5000	myocardial damage markers
+T121	PROCEDURE 5140 5159	calcium antagonists
+T125	PROCEDURE 5161 5164	ACA
+T109	PROCEDURE 5170 5178	nitrates
+T112	PROCEDURE 5381 5430	advanced cardiopulmonary resuscitation manoeuvres
+T113	PROCEDURE 5464 5486	orotracheal intubation
+T114	PROCEDURE 5628 5652	electrical cardioversion
+T115	PROCEDURE 5763 5787	electrical cardioversion
+T17	PROCEDURE 5827 5870	myocardial damage markers were serum tested
+T117	PROCEDURE 6033 6047	echocardiogram
+T18	PROCEDURE 6127 6135	analysis
+T124	PROCEDURE 6177 6191	renal function
+T101	PROCEDURE 6196 6208	electrolytes
+T118	PROCEDURE 6357 6389	treatment with vasoactive amines
+T122	PROCEDURE 6548 6567	calcium antagonists
+T110	PROCEDURE 6572 6580	nitrates
+T20	PROCEDURE 6699 6719	electrocardiographic
+T104	PROCEDURE 7278 7290	proteinogram
+T111	PROCEDURE 7438 7446	nitrates
+T130	PROCEDURE 7518 7547	phosphodiesterase-3 inhibitor
+T22	PROCEDURE 7556 7560	ACAs
+T25	PROCEDURE 7862 7911	implant an implantable cardioverter defibrillator
+T26	PROCEDURE 7913 7916	ICD
+T126	PROCEDURE 8172 8190	treatment with ACA
+T27	PROCEDURE 8482 8539	Implantation of an implantable cardioverter defibrillator
+T28	PROCEDURE 8541 8544	ICD

@@ -1,0 +1,14 @@
+T1	SYMPTOM 32 65	pérdida de visión súbita en su OI
+T2	SYMPTOM 423 509	OI, una imagen trirradiada pigmentada bordeada de zonas anaranjadas en el área macular
+T3	SYMPTOM 1666 1707	disminución progresiva del grosor macular
+T4	SYMPTOM 809 833	escara gliótica en el OD
+T5	SYMPTOM 843 874	OI, una imagen hipofluorescente
+T6	SYMPTOM 1156 1194	elevación de la banda EPR-coriocapilar
+T7	SYMPTOM 1418 1439	intensamente hiper-FA
+T8	SYMPTOM 1333 1395	retículo, que angiográficamente se presentaba hipofluorescente
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	IMAGEN T5
+A4	IMAGEN T6
+A5	IMAGEN T7
+A6	IMAGEN T8

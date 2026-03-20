@@ -1,0 +1,31 @@
+T39	SYMPTOM 568 576	dyspnoea
+T40	SYMPTOM 578 588	chest pain
+T41	SYMPTOM 590 595	fever
+T42	SYMPTOM 675 684	conscious
+T43	SYMPTOM 686 694	oriented
+T44	SYMPTOM 696 703	eupneic
+T45	SYMPTOM 705 713	hydrated
+T1	SYMPTOM 718 731	normal colour
+T46	SYMPTOM 763 789	preserved vesicular murmur
+T2	SYMPTOM 856 880	systolic ejection murmur
+T57	SYMPTOM 941 956	systolic murmur
+T3	SYMPTOM 1010 1052	Abdomen and limbs without notable findings
+T4	SYMPTOM 1140 1151	infiltrates
+T56	SYMPTOM 1155 1169	consolidations
+T47	SYMPTOM 1192 1204	sinus rhythm
+T5	SYMPTOM 1386 1401	negative T wave
+T6	SYMPTOM 1527 1545	Coagulation normal
+T7	SYMPTOM 1575 1615	Biochemistry and thyroid function normal
+T54	SYMPTOM 1617 1648	ANA, anti-DNA and ANCA negative
+T48	SYMPTOM 1650 1704	Hypercoagulability study without pathological findings
+T8	SYMPTOM 1706 1781	Serology (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella and HBV) negative
+T9	SYMPTOM 1783 1818	Right eye fundus: red-cherry macula
+T53	SYMPTOM 1820 1851	whitish oedema due to ischaemia
+T55	SYMPTOM 1853 1882	narrowing of retinal arteries
+T49	SYMPTOM 1887 1903	whitish exudates
+T50	SYMPTOM 2617 2683	Independent blood cultures x3: positive for Streptococcus viridans
+T58	SYMPTOM 3496 3540	preserved left ventricular ejection fraction
+T51	SYMPTOM 3641 3649	afebrile
+T10	SYMPTOM 3660 3737	blood cultures were taken, with Streptococcus viridans growing in all samples
+T52	SYMPTOM 3969 3977	afebrile
+T11	SYMPTOM 4005 4036	negative control blood cultures

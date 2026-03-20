@@ -1,0 +1,60 @@
+T1	SYMPTOM 559 571	palpitations
+T33	SYMPTOM 635 660	tachycardia with wide QRS
+T2	SYMPTOM 739 751	palpitations
+T8	SYMPTOM 769 778	dizziness
+T9	SYMPTOM 915 924	dizziness
+T10	SYMPTOM 1032 1053	loss of consciousness
+T3	SYMPTOM 1133 1145	palpitations
+T11	SYMPTOM 1155 1165	chest pain
+T12	SYMPTOM 1167 1175	dyspnoea
+T4	SYMPTOM 1224 1236	palpitations
+T5	SYMPTOM 1430 1442	palpitations
+T13	SYMPTOM 1604 1626	good general condition
+T53	SYMPTOM 1628 1642	normal colour,
+T14	SYMPTOM 1643 1656	normohydrated
+T15	SYMPTOM 1658 1673	eupneic at rest
+T16	SYMPTOM 1784 1793	conscious
+T17	SYMPTOM 1798 1806	oriented
+T48	SYMPTOM 1808 1813	alert
+T54	SYMPTOM 1815 1826	cooperative
+T55	SYMPTOM 1890 1918	irregular tachycardic sounds
+T18	SYMPTOM 1923 1930	murmurs
+T19	SYMPTOM 1932 1958	Preserved vesicular murmur
+T56	SYMPTOM 1960 1963	VCM
+T51	SYMPTOM 1974 1986	added noises
+T20	SYMPTOM 1988 2013	Abdomen soft, depressible
+T21	SYMPTOM 2023 2029	masses
+T57	SYMPTOM 2033 2042	megaliths
+T58	SYMPTOM 2047 2064	pain on palpation
+T22	SYMPTOM 2078 2099	peritoneal irritation
+T47	SYMPTOM 2101 2123	Lower limbs: no oedema
+T6	SYMPTOM 2227 2257	wide QRS irregular tachycardia
+T23	SYMPTOM 2340 2356	narrow QRS beats
+T24	SYMPTOM 2373 2385	sinus rhythm
+T28	SYMPTOM 2434 2453	positive delta wave
+T29	SYMPTOM 2495 2523	repolarisation abnormalities
+T25	SYMPTOM 2543 2555	sinus rhythm
+T30	SYMPTOM 2576 2586	Narrow QRS
+T34	SYMPTOM 2595 2621	repolarisation alterations
+T59	SYMPTOM 2637 2677	cardiothoracic index (CTI) within normal
+T60	SYMPTOM 2682 2694	condensation
+T61	SYMPTOM 3202 3270	left ventricle with preserved diameters and global systolic function
+T45	SYMPTOM 3283 3321	alterations in segmental contractility
+T31	SYMPTOM 3404 3450	Right ventricle of preserved size and function
+T46	SYMPTOM 3538 3563	Normal inferior vena cava
+T36	SYMPTOM 4158 4169	tachycardia
+T32	SYMPTOM 4251 4282	eccentric retrograde conduction
+T38	SYMPTOM 4299 4310	tachycardia
+T7	SYMPTOM 4645 4675	wide QRS irregular tachycardia
+T42	SYMPTOM 4687 4709	haemodynamic stability
+T40	SYMPTOM 4745 4756	tachycardia
+T41	SYMPTOM 4851 4862	tachycardia
+T26	SYMPTOM 5043 5055	sinus rhythm
+T27	SYMPTOM 5091 5103	sinus rhythm
+T52	SYMPTOM 5109 5117	short PR
+T35	SYMPTOM 5123 5165	delta wave + in inferior and lateral leads
+T43	SYMPTOM 5411 5423	asymptomatic
+T49	SYMPTOM 5990 6004	pre-excitation
+T44	SYMPTOM 6062 6074	asymptomatic
+T50	SYMPTOM 6082 6096	pre-excitation
+T37	SYMPTOM 6249 6297	Normal left ventricular ejection fraction (LVEF)

@@ -1,0 +1,26 @@
+T5	PROCEDURE 182 200	rectal examination
+T1	PROCEDURE 337 348	Blood count
+T18	PROCEDURE 350 362	biochemistry
+T7	PROCEDURE 364 377	urine culture
+T30	PROCEDURE 379 406	urine cytology and sediment
+T3	PROCEDURE 449 470	Urological ultrasound
+T4	PROCEDURE 519 540	Intravenous urography
+T23	PROCEDURE 632 653	post-micturition film
+T2	PROCEDURE 727 737	Cystoscopy
+T9	PROCEDURE 813 856	transurethral resection (TUR) of the lesion
+T21	PROCEDURE 881 898	histopathological
+T15	PROCEDURE 984 999	extension study
+T10	PROCEDURE 1020 1031	chest X-ray
+T11	PROCEDURE 1067 1084	abdominopelvic CT
+T20	PROCEDURE 1379 1397	surgical treatment
+T6	PROCEDURE 1521 1541	physical examination
+T41	PROCEDURE 1626 1642	Laboratory tests
+T13	PROCEDURE 1699 1745	broad-spectrum parenteral antibiotic treatment
+T14	PROCEDURE 1817 1837	Abdominal ultrasound
+T44	PROCEDURE 1945 2010	wide partial cystectomy was performed, including the bladder dome
+T12	PROCEDURE 2081 2103	pelvic lymphadenectomy
+T46	PROCEDURE 2112 2119	surgery
+T17	PROCEDURE 2266 2284	histological study
+T19	PROCEDURE 2291 2345	anatomopathological diagnosis of the surgical specimen
+T25	PROCEDURE 2447 2489	histological report of the mucoid material
+T16	PROCEDURE 2615 2630	extension study

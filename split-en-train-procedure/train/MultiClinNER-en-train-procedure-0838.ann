@@ -1,0 +1,31 @@
+T59	PROCEDURE 29 49	physical examination
+T60	PROCEDURE 620 640	Physical examination
+T61	PROCEDURE 733 761	Cardiopulmonary auscultation
+T62	PROCEDURE 811 831	Cardiac auscultation
+T63	PROCEDURE 1075 1089	PA chest X-ray
+T64	PROCEDURE 1171 1190	Electrocardiography
+T42	PROCEDURE 1470 1473	CBC
+T73	PROCEDURE 1527 1538	Coagulation
+T74	PROCEDURE 1575 1587	Biochemistry
+T75	PROCEDURE 1592 1608	thyroid function
+T65	PROCEDURE 1650 1674	Hypercoagulability study
+T43	PROCEDURE 1706 1714	Serology
+T44	PROCEDURE 1783 1799	Right eye fundus
+T45	PROCEDURE 1905 1935	Transesophageal echocardiogram
+T18	PROCEDURE 2436 2464	injection of agitated saline
+T66	PROCEDURE 2466 2503	CT angiography of supra-aortic trunks
+T32	PROCEDURE 2540 2561	CT angiography of TSA
+T68	PROCEDURE 2629 2643	blood cultures
+T50	PROCEDURE 2939 2970	supra-aortic trunk duplex (TSA)
+T67	PROCEDURE 3035 3052	TSA angio-CT scan
+T52	PROCEDURE 3117 3145	transthoracic echocardiogram
+T51	PROCEDURE 3147 3150	TTE
+T54	PROCEDURE 3383 3413	transesophageal echocardiogram
+T55	PROCEDURE 3415 3418	TEE
+T69	PROCEDURE 3660 3674	blood cultures
+T70	PROCEDURE 4022 4036	blood cultures
+T23	PROCEDURE 4046 4049	TTE
+T56	PROCEDURE 4054 4057	TEE
+T71	PROCEDURE 4270 4292	carotid endarterectomy
+T72	PROCEDURE 4384 4399	carotid surgery
+T76	PROCEDURE 4462 4511	aortic valve replacement with metallic prosthesis

@@ -1,0 +1,19 @@
+T2	DISEASE 23 30	obesity
+T3	DISEASE 32 53	arterial hypertension
+T10	DISEASE 55 58	AHT
+T5	DISEASE 61 85	type 2 diabetes mellitus
+T6	DISEASE 87 110	ischaemic heart disease
+T17	DISEASE 112 114	AF
+T8	DISEASE 116 153	chronic obstructive pulmonary disease
+T9	DISEASE 155 159	COPD
+T11	DISEASE 165 186	sleep apnoea syndrome
+T4	DISEASE 744 754	arrhythmia
+T15	DISEASE 1051 1098	chronic venous insufficiency in the lower limbs
+T27	DISEASE 1456 1468	hypertension
+T7	DISEASE 1470 1493	ischaemic heart disease
+T12	DISEASE 1616 1636	exacerbation of COPD
+T16	DISEASE 1718 1729	bradycardia
+T1	DISEASE 1969 1976	slow AF
+T18	DISEASE 2200 2202	AF
+T13	DISEASE 2217 2239	atrioventricular block
+T14	DISEASE 2244 2269	right bundle branch block

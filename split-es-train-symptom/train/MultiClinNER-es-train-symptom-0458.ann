@@ -1,0 +1,16 @@
+T1	SYMPTOM 39 58	síntomas digestivos
+T2	SYMPTOM 773 785	masa pélvica
+T3	SYMPTOM 599 614	anejos normales
+T4	SYMPTOM 1120 1133	líquido libre
+T5	SYMPTOM 1805 1817	asintomática
+T6	SYMPTOM 406 441	colonoscopia completa sin hallazgos
+T7	SYMPTOM 1824 1891	marcadores tumorales y TAC más recientes son absolutamente normales
+T8	SYMPTOM 308 312	masa
+T9	SYMPTOM 510 554	masa dependiente de ciego, muy vascularizada
+T10	SYMPTOM 620 637	útero hipoplásico
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	RESULTADO T9
+A6	RESULTADO T10

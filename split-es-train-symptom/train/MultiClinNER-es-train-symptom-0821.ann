@@ -1,0 +1,33 @@
+T1	SYMPTOM 760 804	dolor torácico en reposo o con los esfuerzos
+T2	SYMPTOM 879 891	asintomático
+T3	SYMPTOM 926 945	buen estado general
+T4	SYMPTOM 947 961	normocoloreado
+T5	SYMPTOM 964 978	normohidratado
+T6	SYMPTOM 980 998	Eupneico en reposo
+T7	SYMPTOM 1099 1128	Presión venosa yugular normal
+T8	SYMPTOM 1133 1165	auscultación cardiaca es rítmica
+T9	SYMPTOM 1170 1176	soplos
+T10	SYMPTOM 1224 1253	murmullo vesicular conservado
+T11	SYMPTOM 1258 1278	ruidos sobreañadidos
+T12	SYMPTOM 1284 1345	pulsos radiales y pedios con palpables, rítmicos y simétricos
+T13	SYMPTOM 1359 1365	edemas
+T14	SYMPTOM 1609 1614	masas
+T15	SYMPTOM 1894 1907	consolidación
+T16	SYMPTOM 1909 1914	masas
+T17	SYMPTOM 2239 2252	ritmo sinusal
+T18	SYMPTOM 2263 2272	PR normal
+T19	SYMPTOM 2305 2317	QRS estrecho
+T20	SYMPTOM 2319 2336	onda q en I y aVL
+T21	SYMPTOM 2338 2364	Inversión de onda T en aVL
+T22	SYMPTOM 2583 2596	Bien tolerado
+T23	SYMPTOM 2692 2727	Capacidad funcional aeróbica normal
+T24	SYMPTOM 3024 3036	asintomático
+T25	SYMPTOM 3633 3648	pérdida de peso
+T86	SYMPTOM 3900 3912	asintomático
+T83	SYMPTOM 1617 1635	nódulos pulmonares
+T84	SYMPTOM 2186 2226	hemograma y coagulación sin alteraciones
+T95	SYMPTOM 3165 3181	clínica anginosa
+T26	SYMPTOM 325 352	glucemia alterada en ayunas
+T85	SYMPTOM 1834 1879	alteraciones en la silueta cardiomediastínica
+T87	SYMPTOM 2283 2296	Eje izquierdo
+T58	SYMPTOM 3790 3817	glucemia alterada en ayunas

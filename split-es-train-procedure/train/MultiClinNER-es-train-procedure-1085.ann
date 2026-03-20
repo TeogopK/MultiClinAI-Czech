@@ -1,0 +1,33 @@
+T82	PROCEDURE 200 210	diuréticos
+T83	PROCEDURE 281 307	tratamiento anticoagulante
+T84	PROCEDURE 666 694	ecocardiograma transtorácico
+T85	PROCEDURE 1021 1056	determinación de hormonas tiroideas
+T86	PROCEDURE 1790 1808	exploración física
+T87	PROCEDURE 2132 2158	exploración cardiopulmonar
+T88	PROCEDURE 2293 2314	auscultación pulmonar
+T89	PROCEDURE 2720 2738	electrocardiograma
+T90	PROCEDURE 2740 2743	ECG
+T91	PROCEDURE 2889 2909	radiografía de tórax
+T92	PROCEDURE 3024 3061	ecocardiograma transtorácico portátil
+T93	PROCEDURE 3369 3395	tratamiento anticoagulante
+T94	PROCEDURE 3398 3431	tratamiento diurético intravenoso
+T95	PROCEDURE 4305 4358	ecografías de miembros inferiores (MMII) y de abdomen
+T96	PROCEDURE 4569 4605	gammagrafía de ventilación/perfusión
+T97	PROCEDURE 4619 4651	angio-TAC de arterias pulmonares
+T98	PROCEDURE 4841 4867	tratamiento anticoagulante
+T99	PROCEDURE 4883 4907	tomografía computarizada
+T100	PROCEDURE 4988 5022	terapia anticoagulante y diurética
+T101	PROCEDURE 5399 5484	tratamiento con antitiroideos (tiamazol), betabloqueantes (propranolol) y corticoides
+T102	PROCEDURE 5766 5780	antibioterapia
+T103	PROCEDURE 6109 6120	TC de tórax
+T104	PROCEDURE 6331 6355	tratamiento antitiroideo
+T105	PROCEDURE 6370 6398	ecocardiograma transtorácico
+T116	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T119	PROCEDURE 6083 6096	función renal
+T120	PROCEDURE 5055 5073	hormonas tiroideas
+T121	PROCEDURE 6935 6953	hormonas tiroideas
+T122	PROCEDURE 4225 4235	serologías
+T123	PROCEDURE 2545 2566	tratamiento diurético
+T124	PROCEDURE 4054 4105	Se extrajeron además determinaciones de anticuerpos
+T126	PROCEDURE 5523 5548	anticuerpos antitiroideos
+T132	PROCEDURE 2172 2204	palpación del ventrículo derecho

@@ -1,0 +1,21 @@
+T63	PROCEDURE 211 241	triple terapia antirretroviral
+T64	PROCEDURE 287 290	TAR
+T65	PROCEDURE 403 429	tratamiento quimioterápico
+T66	PROCEDURE 509 535	tratamiento quimioterápico
+T67	PROCEDURE 1654 1672	Exploración física
+T68	PROCEDURE 1872 1893	Auscultación cardíaca
+T69	PROCEDURE 2062 2065	ECG
+T70	PROCEDURE 2305 2316	Rx de tórax
+T71	PROCEDURE 2374 2388	Ecocardiograma
+T72	PROCEDURE 2660 2674	ecocardiograma
+T73	PROCEDURE 2764 2816	pericardiocentesis evacuadora por acceso subxifoideo
+T74	PROCEDURE 2988 3000	hemocultivos
+T75	PROCEDURE 3071 3094	tratamiento antibiótico
+T76	PROCEDURE 3139 3153	ecocardiograma
+T77	PROCEDURE 3637 3651	ecocardiograma
+T78	PROCEDURE 3723 3752	pericardiocentesis evacuadora
+T79	PROCEDURE 3814 3836	drenaje con aspiración
+T80	PROCEDURE 3973 3991	pericardiocentesis
+T85	PROCEDURE 2932 2939	cultivo
+T86	PROCEDURE 2867 2891	tinción gram del líquido
+#1	AnnotatorNotes T64	 tratamiento antirretroviral

@@ -1,0 +1,32 @@
+T25	DISEASE 124 133	allergies
+T26	DISEASE 135 148	Dyslipidaemia
+T56	DISEASE 166 190	Carbohydrate intolerance
+T27	DISEASE 344 353	Ex-smoker
+T28	DISEASE 400 418	Prostate carcinoma
+T29	DISEASE 543 574	Chronic ischaemic heart disease
+T31	DISEASE 584 620	acute anterior myocardial infarction
+T32	DISEASE 759 791	1-vessel coronary artery disease
+T33	DISEASE 962 994	moderate LV systolic dysfunction
+T34	DISEASE 1121 1135	valvulopathies
+T35	DISEASE 1301 1320	atrial fibrillation
+T39	DISEASE 1326 1350	left bundle branch block
+T41	DISEASE 1970 1976	angina
+T36	DISEASE 2692 2711	atrial fibrillation
+T40	DISEASE 3469 3496	Severe systolic dysfunction
+T37	DISEASE 4046 4065	Atrial fibrillation
+T42	DISEASE 4089 4095	angina
+T44	DISEASE 4373 4401	moderate renal insufficiency
+T45	DISEASE 4419 4436	diabetes mellitus
+T47	DISEASE 4551 4564	heart failure
+T30	DISEASE 4873 4904	Chronic ischaemic heart disease
+T49	DISEASE 4931 4952	single-vessel disease
+T50	DISEASE 4986 5016	Severe LV systolic dysfunction
+T43	DISEASE 5029 5035	angina
+T51	DISEASE 5037 5058	Chronic heart failure
+T48	DISEASE 5045 5058	heart failure
+T52	DISEASE 5092 5121	Permanent atrial fibrillation
+T38	DISEASE 5102 5121	atrial fibrillation
+T53	DISEASE 5182 5216	Chronic kidney disease, stage IIIb
+T46	DISEASE 5218 5235	Diabetes mellitus
+T54	DISEASE 5237 5252	Iron deficiency
+T55	DISEASE 5261 5268	anaemia

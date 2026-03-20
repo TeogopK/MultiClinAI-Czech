@@ -1,0 +1,23 @@
+T21	DISEASE 107 121	drug allergies
+T35	DISEASE 123 129	Smoker
+T22	DISEASE 170 177	drinker
+T1	DISEASE 231 244	heart disease
+T23	DISEASE 276 297	middle lobe pneumonia
+T24	DISEASE 379 394	rheumatic fever
+T2	DISEASE 1444 1458	LA enlargement
+T3	DISEASE 1664 1686	pulmonary condensation
+T26	DISEASE 1690 1706	pleural effusion
+T5	DISEASE 2099 2138	Mild right ventricular (RV) dysfunction
+T6	DISEASE 2140 2173	Moderately to severely dilated LA
+T36	DISEASE 2175 2246	Severely calcified and thickened mitral valve and subvalvular apparatus
+T27	DISEASE 2830 2850	mitral insufficiency
+T7	DISEASE 2852 2898	Calcified aortic valve with mild regurgitation
+T8	DISEASE 2900 2928	Mild tricuspid insufficiency
+T28	DISEASE 2960 2980	pericardial effusion
+T29	DISEASE 3095 3116	respiratory infection
+T30	DISEASE 3145 3167	severe mitral stenosis
+T9	DISEASE 3282 3295	valve disease
+T32	DISEASE 3399 3415	coronary lesions
+T33	DISEASE 3614 3656	Severe mitral stenosis of rheumatic origin
+T25	DISEASE 3669 3684	rheumatic fever
+T34	DISEASE 3699 3726	Respiratory tract infection

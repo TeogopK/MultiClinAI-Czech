@@ -1,0 +1,31 @@
+T2	SYMPTOM 585 591	disnea
+T3	SYMPTOM 595 609	dolor torácico
+T4	SYMPTOM 613 619	fiebre
+T5	SYMPTOM 706 716	consciente
+T6	SYMPTOM 718 727	orientado
+T7	SYMPTOM 729 737	eupneico
+T8	SYMPTOM 739 748	hidratado
+T9	SYMPTOM 751 765	normocoloreado
+T10	SYMPTOM 796 825	murmullo vesicular conservado
+T14	SYMPTOM 1046 1090	Abdomen y miembros sin hallazgos destacables
+T17	SYMPTOM 1245 1258	ritmo sinusal
+T20	SYMPTOM 1635 1653	Coagulación normal
+T21	SYMPTOM 1686 1722	Bioquímica y función tiroidea normal
+T22	SYMPTOM 1760 1816	Estudio de hipercoagulabilidad sin hallazgos patológicos
+T23	SYMPTOM 1896 1956	Fondo de ojo derecho: se aprecia mácula de color rojo-cereza
+T24	SYMPTOM 2030 2051	exudados blanquecinos
+T28	SYMPTOM 2792 2861	Hemocultivos independientes x3: positivos para Streptococcus viridans
+T29	SYMPTOM 3816 3823	afebril
+T30	SYMPTOM 3844 3911	hemocultivos creciendo en todas las muestras Streptococcus viridans
+T31	SYMPTOM 4147 4154	afebril
+T32	SYMPTOM 4184 4206	hemocultivos negativos
+T115	SYMPTOM 1958 1988	edema blanquecino por isquemia
+T15	SYMPTOM 1477 1492	onda T negativa
+T16	SYMPTOM 1728 1758	ANA, anti-DNA y ANCA negativos
+T18	SYMPTOM 1818 1894	Serologías (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella y VHB) negativas
+T19	SYMPTOM 1990 2027	estrechamiento de arterias retinianas
+T126	SYMPTOM 1207 1222	consolidaciones
+T129	SYMPTOM 1192 1203	infiltrados
+T11	SYMPTOM 895 927	soplo sistólico eyectivo aórtico
+T12	SYMPTOM 966 981	soplo sistólico
+T27	SYMPTOM 3671 3724	fracción de eyección ventricular izquierda conservada

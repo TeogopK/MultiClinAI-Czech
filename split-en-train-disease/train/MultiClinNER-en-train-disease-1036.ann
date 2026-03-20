@@ -1,0 +1,34 @@
+T33	DISEASE 90 102	hypertension
+T34	DISEASE 167 180	dyslipidaemia
+T1	DISEASE 228 241	former smoker
+T35	DISEASE 271 299	systemic lupus erythematosus
+T2	DISEASE 301 304	SLE
+T3	DISEASE 429 457	Class IIIB lupus nephropathy
+T37	DISEASE 507 525	glomerulonephritis
+T61	DISEASE 1538 1553	trophic lesions
+T38	DISEASE 1739 1783	occlusion of 2nd portion of popliteal artery
+T39	DISEASE 2173 2198	intraventricular thrombus
+T6	DISEASE 2514 2536	valvular heart disease
+T42	DISEASE 2541 2561	pericardial effusion
+T43	DISEASE 2975 3052	thrombosed dissection of the middle segment of the anterior descending artery
+T44	DISEASE 3116 3146	Left intraventricular thrombus
+T8	DISEASE 3188 3279	isease of a vessel with a long lesion in the middle third of the anterior descending artery
+T53	DISEASE 3384 3465	subacute ischaemia of the right lower limb secondary to infrapopliteal thrombosis
+T45	DISEASE 3488 3513	antiphospholipid syndrome
+T46	DISEASE 3751 3770	anterior infarction
+T47	DISEASE 3772 3804	apical intraventricular thrombus
+T48	DISEASE 3943 3980	emboligenic Libman-Sacks endocarditis
+T11	DISEASE 4041 4070	long lesion in the middle LAD
+T50	DISEASE 4087 4136	spontaneous thrombosed coronary artery dissection
+T13	DISEASE 4195 4255	small ischaemic lacunar lesions in both cerebral hemispheres
+T14	DISEASE 4263 4326	aneurysm located at the left-sided internal carotid bifurcation
+T15	DISEASE 4356 4359	SLE
+T16	DISEASE 4492 4502	thromboses
+T54	DISEASE 4721 4730	ischaemia
+T57	DISEASE 4754 4779	Libman-Sacks endocarditis
+T36	DISEASE 4838 4866	systemic lupus erythematosus
+T49	DISEASE 4868 4905	Emboligenic Libman-Sacks endocarditis
+T59	DISEASE 4907 4932	Left ventricular thrombus
+T55	DISEASE 4934 4991	Subacute infrapopliteal ischaemia of the right lower limb
+T18	DISEASE 4993 5074	Spontaneous coronary artery dissection of the anterior descending coronary artery
+T60	DISEASE 5084 5114	anterior myocardial infarction

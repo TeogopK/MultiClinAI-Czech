@@ -1,0 +1,36 @@
+T21	DISEASE 1376 1420	tumoración laterocervical derecha voluminosa
+T32	DISEASE 2494 2525	HVI ligera-moderada concéntrica
+T34	DISEASE 2544 2575	Aurículas ligeramente dilatadas
+T36	DISEASE 3713 3733	Cardiomegalia global
+T93	DISEASE 152 175	alergias medicamentosas
+T94	DISEASE 218 221	HTA
+T95	DISEASE 223 233	dislipemia
+T96	DISEASE 235 259	diabetes mellitus tipo 2
+T97	DISEASE 262 294	fibrilación auricular permanente
+T100	DISEASE 731 742	traumatismo
+T101	DISEASE 1360 1363	TVP
+T102	DISEASE 1730 1783	fibrilación auricular con respuesta ventricular media
+T103	DISEASE 1811 1814	HVI
+T104	DISEASE 1952 1971	broncopatía crónica
+T105	DISEASE 1976 2001	hiperinsuflación pulmonar
+T106	DISEASE 2577 2622	Leve calcificación de anillo posterior mitral
+T107	DISEASE 2759 2778	derrame pericárdico
+T108	DISEASE 2832 2853	fibrilación auricular
+T109	DISEASE 2986 3012	adenopatía supraclavicular
+T110	DISEASE 3526 3558	adenopatías axilares bilaterales
+T111	DISEASE 3735 3757	Ateromatosis coronaria
+T112	DISEASE 3808 3832	bronconeumopatía crónica
+T113	DISEASE 3927 4013	adenopatías retroperitoneales ni mesentéricas, ni en las cadenas ilíacas ni inguinales
+T114	DISEASE 4053 4086	conglomerado adenopático cervical
+T115	DISEASE 4088 4136	linfoma-B de alto grado, difuso de célula grande
+T116	DISEASE 4631 4638	LNHBDCG
+T118	DISEASE 5094 5115	fibrilación auricular
+T122	DISEASE 5922 6021	síncope neurocardiogénico periférico secundario a compresión carotídea por voluminosa masa cervical
+T123	DISEASE 6355 6357	FA
+T124	DISEASE 6565 6598	conglomerado adenopático cervical
+T125	DISEASE 6618 6665	Linfoma B de alto grado difuso de célula grande
+T126	DISEASE 6877 6887	cardiópata
+T128	DISEASE 7256 7371	Síncope reflejo vasovagal cardioinhibitorio secundario a compresión del seno carotídeo por voluminosa masa cervical
+T129	DISEASE 7373 7459	Linfoma no Hodgkin de célula grande B, estadio II-B, triple-Hit (BCL-2, BCL-6 y C-MYC)
+T23	DISEASE 2627 2636	IM ligera
+T24	DISEASE 2638 2687	VAo: parece trivalva con esclerosis de sigmoideas

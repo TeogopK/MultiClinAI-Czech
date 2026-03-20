@@ -1,0 +1,44 @@
+T70	PROCEDURE 34 52	EXPLORACIÓN FÍSICA
+T71	PROCEDURE 126 144	cirugía de Bentall
+T72	PROCEDURE 149 210	implante de una prótesis mecánica aórtica y un tubo valvulado
+T73	PROCEDURE 221 248	revascularización coronaria
+T74	PROCEDURE 291 365	bypass de arteria mamaria interna izquierda a arteria descendente anterior
+T75	PROCEDURE 1023 1044	Auscultación cardiaca
+T76	PROCEDURE 1074 1095	Auscultación pulmonar
+T77	PROCEDURE 1389 1414	extrayéndose hemocultivos
+T78	PROCEDURE 1479 1499	expansión de volumen
+T79	PROCEDURE 1595 1613	drogas vasoactivas
+T80	PROCEDURE 1691 1720	ecocardiograma transesofágico
+T81	PROCEDURE 1913 1937	tomografía computarizada
+T82	PROCEDURE 1944 1972	resonancia magnética craneal
+T83	PROCEDURE 2148 2174	tratamiento anticoagulante
+T84	PROCEDURE 2276 2288	hemocultivos
+T85	PROCEDURE 2407 2427	angiografía cerebral
+T86	PROCEDURE 2504 2533	ecocardiograma transesofágico
+T87	PROCEDURE 2591 2689	tomografía por emisión de positrones/tomografía computarizada (PET/TC) con 18F-Fluorodesoxiglucosa
+T88	PROCEDURE 2654 2660	PET/TC
+T89	PROCEDURE 2803 2824	reconstrucción con TC
+T90	PROCEDURE 3254 3283	ecocardiograma transesofágico
+T91	PROCEDURE 3986 4003	gasometría venosa
+T92	PROCEDURE 4078 4103	cristaloides intravenosos
+T93	PROCEDURE 4136 4155	ecografía abdominal
+T94	PROCEDURE 4399 4416	cirugía abdominal
+T95	PROCEDURE 4532 4545	esplenectomía
+T96	PROCEDURE 4588 4614	análisis anatomopatológico
+T97	PROCEDURE 4911 4942	transfusión de hemoconcentrados
+T98	PROCEDURE 4973 4991	manejo endoscópico
+T99	PROCEDURE 5087 5108	implante de hemoclips
+T100	PROCEDURE 5262 5283	duodenectomía parcial
+T101	PROCEDURE 5405 5421	cirugía cardiaca
+T102	PROCEDURE 5450 5546	reemplazándose el material infectado por una nueva prótesis mecánica aórtica y un tubo valvulado
+T103	PROCEDURE 5753 5781	ecocardiograma transtorácico
+T104	PROCEDURE 5854 5870	pericardiectomía
+T105	PROCEDURE 5971 5985	ecocardiograma
+T106	PROCEDURE 6257 6271	antibioterapia
+T107	PROCEDURE 6578 6643	Recambio valvular aórtico y de tubo valvulado en aorta ascendente
+T108	PROCEDURE 6861 6882	Duodenectomía parcial
+T116	PROCEDURE 1501 1524	antibioterapia empírica
+T117	PROCEDURE 4106 4130	concentrados de hematíes
+T156	PROCEDURE 3841 3864	intervención quirúrgica
+T13	PROCEDURE 5594 5622	material protésico extirpado
+T119	PROCEDURE 6163 6173	evacuación

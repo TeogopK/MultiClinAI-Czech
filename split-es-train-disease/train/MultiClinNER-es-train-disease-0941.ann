@@ -1,0 +1,19 @@
+T27	DISEASE 352 385	Alergia a diclofenaco y naproxeno
+T28	DISEASE 472 475	HTA
+T29	DISEASE 477 493	dislipemia mixta
+T30	DISEASE 611 631	Diabetes gestacional
+T31	DISEASE 760 779	Esteatosis hepática
+T32	DISEASE 781 794	Hernia discal
+T33	DISEASE 1843 1846	TVP
+T34	DISEASE 2371 2400	Insuficiencia mitral moderada
+T36	DISEASE 3161 3169	arritmia
+T37	DISEASE 3466 3474	arritmia
+T38	DISEASE 3873 3896	reflujo gastroesofágico
+T40	DISEASE 3605 3630	extrasistolia ventricular
+T41	DISEASE 452 467	hábitos tóxicos
+T42	DISEASE 1794 1811	Cicatriz en mamas
+T43	DISEASE 2337 2369	dilatación de cavidades derechas
+T44	DISEASE 3025 3049	taquicardia de QRS ancho
+T91	DISEASE 1085 1100	cuadro catarral
+T92	DISEASE 3491 3503	trigeminismo
+#1	AnnotatorNotes T33	 TVP trombosis venosa profunda

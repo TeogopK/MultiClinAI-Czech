@@ -1,0 +1,38 @@
+T2	SYMPTOM 785 840	dolor torácico opresivo, irradiado a ambas extremidades
+T3	SYMPTOM 854 872	cortejo vegetativo
+T4	SYMPTOM 959 971	asintomático
+T5	SYMPTOM 1027 1042	ST isoeléctrico
+T6	SYMPTOM 1054 1079	hemodinámicamente estable
+T7	SYMPTOM 1151 1192	dolor centrotorácico típicamente anginoso
+T8	SYMPTOM 1220 1272	elevación del ST de hasta 4 mm en cara inferolateral
+T10	SYMPTOM 1515 1521	disnea
+T11	SYMPTOM 1619 1666	dolor con elevación del ST en II-III-aVF, V1-V4
+T12	SYMPTOM 1853 1865	asintomático
+T13	SYMPTOM 2185 2204	Buen estado general
+T14	SYMPTOM 2206 2220	normohidratado
+T15	SYMPTOM 2222 2237	normoperfundido
+T16	SYMPTOM 2239 2249	Consciente
+T17	SYMPTOM 2252 2261	orientado
+T18	SYMPTOM 2324 2338	tonos rítmicos
+T19	SYMPTOM 2344 2350	soplos
+T20	SYMPTOM 2352 2393	Pulsos periféricos presentes y simétricos
+T21	SYMPTOM 2422 2451	murmullo vesicular conservado
+T22	SYMPTOM 2453 2507	Abdomen: exploración normal, sin hallazgos patológicos
+T23	SYMPTOM 2564 2569	dolor
+T24	SYMPTOM 2571 2584	ritmo sinusal
+T25	SYMPTOM 2595 2604	PR normal
+T26	SYMPTOM 2606 2622	QRS estrecho eje
+T27	SYMPTOM 2631 2676	elevación del ST II, III, aVF, V3, V4, V5, V6
+T29	SYMPTOM 2723 2736	ritmo sinusal
+T30	SYMPTOM 2829 2862	alteraciones en la repolarización
+T31	SYMPTOM 2939 2976	condensaciones en parénquima pulmonar
+T32	SYMPTOM 2990 3009	congestión pulmonar
+T33	SYMPTOM 3376 3400	PCR SARS-CoV-2: negativo
+T34	SYMPTOM 3640 3666	Hemograma sin alteraciones
+T35	SYMPTOM 3885 3968	ventrículo izquierdo (VI) no dilatado ni hipertrofiado con función sistólica normal
+T37	SYMPTOM 4059 4077	Aurículas normales
+T38	SYMPTOM 4374 4399	hemodinámicamente estable
+T36	SYMPTOM 4009 4058	Ventrículo derecho no dilatado y normocontráctil.
+T95	SYMPTOM 5080 5114	Función sistólica de VI conservada
+T91	SYMPTOM 4136 4157	Normopresión pulmonar
+T110	SYMPTOM 3685 3703	dominancia derecha

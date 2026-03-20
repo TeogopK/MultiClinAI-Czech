@@ -1,0 +1,50 @@
+T1	SYMPTOM 1033 1074	disnea progresiva hasta mínimos esfuerzos
+T2	SYMPTOM 1096 1144	deterioro progresivo de la capacidad de esfuerzo
+T3	SYMPTOM 1245 1253	ortopnea
+T4	SYMPTOM 1269 1296	disnea paroxística nocturna
+T5	SYMPTOM 1301 1311	hemoptisis
+T6	SYMPTOM 1313 1330	opresión torácica
+T8	SYMPTOM 1385 1396	sibilancias
+T9	SYMPTOM 1401 1426	sintomatología infecciosa
+T10	SYMPTOM 1456 1464	sangrado
+T11	SYMPTOM 1544 1569	Hemodinámicamente estable
+T12	SYMPTOM 1572 1590	eupneica en reposo
+T13	SYMPTOM 1615 1636	Ingurgitación yugular
+T14	SYMPTOM 1660 1690	reflujo hepatoyugular positivo
+T15	SYMPTOM 1692 1722	Auscultación cardiaca: rítmica
+T16	SYMPTOM 1724 1743	soplo holosistólico
+T17	SYMPTOM 1802 1822	tercer ruido audible
+T18	SYMPTOM 1847 1876	murmullo vesicular conservado
+T21	SYMPTOM 1985 2016	Miembros inferiores: sin edemas
+T22	SYMPTOM 2123 2132	PR normal
+T23	SYMPTOM 2272 2287	onda T negativa
+T24	SYMPTOM 2776 2811	Serologías VIH, VHC y VHB negativas
+T25	SYMPTOM 3305 3337	prominencia de hilios pulmonares
+T26	SYMPTOM 3415 3447	ventrículo izquierdo no dilatado
+T27	SYMPTOM 3516 3547	Función sistólica global normal
+T28	SYMPTOM 3727 3757	Aurícula izquierda no dilatada
+T30	SYMPTOM 4139 4181	Válvula tricúspide morfológicamente normal
+T31	SYMPTOM 5067 5109	líquido en recesos pericárdicos superiores
+T35	SYMPTOM 7295 7320	hemodinámicamente estable
+T7	SYMPTOM 2232 2265	sobrecarga del ventrículo derecho
+T19	SYMPTOM 2725 2774	Anticuerpos asociados a conectivopatías negativos
+T20	SYMPTOM 3484 3514	Marcado aplanamiento del septo
+T136	SYMPTOM 3621 3663	alteraciones de la contracción segmentaria
+T29	SYMPTOM 3884 3929	función sistólica global gravemente deprimida
+T137	SYMPTOM 4074 4098	Raíz aórtica no dilatada
+T138	SYMPTOM 4100 4137	Aorta ascendente proximal no dilatada
+T139	SYMPTOM 4406 4436	Vena cava inferior no dilatada
+T140	SYMPTOM 4321 4355	Notch sistólico del flujo pulmonar
+T159	SYMPTOM 3665 3725	Patrón de llenado transmitral de alteración de la relajación
+T163	SYMPTOM 5373 5417	defectos de repleción en arterias pulmonares
+T166	SYMPTOM 3372 3383	infiltrados
+T34	SYMPTOM 1592 1613	tolerando el decúbito
+T36	SYMPTOM 1785 1799	refuerzo de S2
+T134	SYMPTOM 2134 2143	QRS ancho
+T141	SYMPTOM 2666 2680	ANCA negativos
+T128	SYMPTOM 2682 2723	Ac. Anti-DNA nativo 2,30 UI/mL (negativo)
+T144	SYMPTOM 2813 2844	CMV: IgG positivo, IgM negativo
+T145	SYMPTOM 3931 3993	Válvula mitral con calcio en el anillo y funcionalmente normal
+T146	SYMPTOM 5259 5310	Aumento de calibre de arterias pulmonares centrales
+T147	SYMPTOM 5517 5581	leve asimetría en la vascularización de ambos lóbulos superiores
+T142	SYMPTOM 7343 7361	congestión derecha

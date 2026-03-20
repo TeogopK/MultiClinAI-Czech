@@ -1,0 +1,37 @@
+T25	PROCEDURE 170 253	undergone surgery for acute sigmoid diverticulitis with perforation and peritonitis
+T26	PROCEDURE 277 286	operation
+T21	PROCEDURE 1067 1087	Physical examination
+T1	PROCEDURE 1202 1211	colostomy
+T30	PROCEDURE 1217 1227	blood test
+T23	PROCEDURE 1453 1465	Biochemistry
+T20	PROCEDURE 1467 1471	ions
+T19	PROCEDURE 1476 1489	transaminases
+T18	PROCEDURE 1503 1519	Urinary sediment
+T2	PROCEDURE 1777 1797	Arterial blood gases
+T3	PROCEDURE 1849 1866	electrocardiogram
+T4	PROCEDURE 1886 1900	echocardiogram
+T5	PROCEDURE 1962 1973	Chest X-ray
+T8	PROCEDURE 2044 2058	Blood cultures
+T9	PROCEDURE 2063 2107	sputum culture for bacteria and mycobacteria
+T10	PROCEDURE 2123 2157	Ventilation/perfusion scintigraphy
+T48	PROCEDURE 2162 2193	computed tomography angiography
+T50	PROCEDURE 2246 2269	anticoagulant treatment
+T6	PROCEDURE 2457 2468	chest X-ray
+T11	PROCEDURE 2470 2482	Bronchoscopy
+T13	PROCEDURE 2541 2564	Bronchoaspirate culture
+T17	PROCEDURE 2622 2630	cytology
+T14	PROCEDURE 2658 2668	Spirometry
+T24	PROCEDURE 2670 2682	lung volumes
+T27	PROCEDURE 2687 2696	diffusion
+T60	PROCEDURE 2800 2841	high-resolution computed axial tomography
+T28	PROCEDURE 2843 2847	HRCT
+T12	PROCEDURE 2917 2929	bronchoscopy
+T16	PROCEDURE 2971 2993	bronchoalveolar lavage
+T29	PROCEDURE 2995 2998	BAL
+T31	PROCEDURE 3111 3133	Prussian blue staining
+T7	PROCEDURE 3557 3568	chest X-ray
+T32	PROCEDURE 3573 3591	pulmonary function
+T15	PROCEDURE 3593 3603	spirometry
+T33	PROCEDURE 3605 3614	diffusion
+T22	PROCEDURE 3619 3633	arterial gases
+T68	PROCEDURE 3664 3668	HRCT

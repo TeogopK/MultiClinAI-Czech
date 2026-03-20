@@ -1,0 +1,54 @@
+T36	DISEASE 117 138	arterial hypertension
+T77	DISEASE 175 200	Primary biliary cirrhosis
+T38	DISEASE 231 250	portal hypertension
+T40	DISEASE 252 288	Haemorrhage from oesophageal varices
+T88	DISEASE 413 420	varices
+T41	DISEASE 479 504	Chronic portal thrombosis
+T43	DISEASE 560 582	hepatic encephalopathy
+T45	DISEASE 615 627	constipation
+T46	DISEASE 629 641	Osteoporosis
+T48	DISEASE 673 687	drug allergies
+T1	DISEASE 1296 1315	syncope on exertion
+T84	DISEASE 1830 1842	hepatomegaly
+T49	DISEASE 1897 1904	ascites
+T50	DISEASE 1941 1961	deep vein thrombosis
+T51	DISEASE 1963 1966	DVT
+T52	DISEASE 1995 2012	sinus bradycardia
+T53	DISEASE 2074 2099	right bundle branch block
+T2	DISEASE 2101 2105	RBBB
+T4	DISEASE 2627 2653	connective tissue diseases
+T83	DISEASE 3169 3181	cardiomegaly
+T54	DISEASE 3224 3240	pleural effusion
+T6	DISEASE 3591 3620	Right atrium slightly dilated
+T85	DISEASE 3636 3699	Severely dilated, hypertrophic and trabeculated right ventricle
+T86	DISEASE 3750 3790	Mitral valve with calcium in the annulus
+T7	DISEASE 3954 4014	Tricuspid valve morphologically normal, with moderate-severe
+T55	DISEASE 4187 4209	pulmonary hypertension
+T64	DISEASE 4286 4306	pericardial effusion
+T65	DISEASE 4553 4578	pulmonary thromboembolism
+T66	DISEASE 4611 4636	pulmonary thromboembolism
+T68	DISEASE 4867 4902	Calcifications of the coronary tree
+T8	DISEASE 4981 5002	subcarinal adenopathy
+T69	DISEASE 5075 5110	precapillary pulmonary hypertension
+T67	DISEASE 5210 5235	pulmonary thromboembolism
+T71	DISEASE 5357 5387	chronic thromboembolic disease
+T72	DISEASE 5474 5495	chronic liver disease
+T73	DISEASE 5497 5543	Adenomatous hyperplasia of both adrenal glands
+T57	DISEASE 6050 6072	pulmonary hypertension
+T58	DISEASE 6151 6173	pulmonary hypertension
+T9	DISEASE 6175 6231	severe dilatation and dysfunction of the right ventricle
+T59	DISEASE 6266 6288	pulmonary hypertension
+T70	DISEASE 6534 6569	precapillary pulmonary hypertension
+T74	DISEASE 6648 6671	portopulmonary syndrome
+T61	DISEASE 6710 6732	Pulmonary hypertension
+T75	DISEASE 7022 7043	severe RV dysfunction
+T62	DISEASE 7187 7209	pulmonary hypertension
+T63	DISEASE 7240 7262	pulmonary hypertension
+T76	DISEASE 7366 7393	Portopulmonary hypertension
+T78	DISEASE 7440 7465	Primary biliary cirrhosis
+T79	DISEASE 7467 7517	Chronic portal thrombosis with portal hypertension
+T80	DISEASE 7539 7570	upper gastrointestinal bleeding
+T82	DISEASE 7575 7594	oesophageal varices
+T44	DISEASE 7636 7658	hepatic encephalopathy
+T37	DISEASE 7660 7681	Arterial hypertension
+T47	DISEASE 7683 7695	Osteoporosis

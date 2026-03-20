@@ -1,0 +1,55 @@
+T55	DISEASE 71 94	allergic drug reactions
+T56	DISEASE 99 111	hypertension
+T57	DISEASE 115 132	diabetes mellitus
+T58	DISEASE 134 147	Dyslipidaemia
+T60	DISEASE 149 158	Ex-smoker
+T61	DISEASE 186 196	alcoholism
+T62	DISEASE 198 205	Obesity
+T106	DISEASE 364 388	subarachnoid haemorrhage
+T86	DISEASE 399 412	thrombophilia
+T63	DISEASE 486 522	Hypermenorrhoea due to uterine myoma
+T98	DISEASE 1242 1252	presyncope
+T99	DISEASE 1863 1871	thrombus
+T64	DISEASE 2362 2386	ventricular fibrillation
+T65	DISEASE 2507 2533	cavernous sinus thrombosis
+T107	DISEASE 2549 2573	subarachnoid haemorrhage
+T91	DISEASE 2581 2583	it
+T66	DISEASE 2821 2851	severe ventricular dysfunction
+T68	DISEASE 2879 2894	apical thrombus
+T100	DISEASE 2886 2894	thrombus
+T69	DISEASE 2919 2934	apical thrombus
+T101	DISEASE 2926 2934	thrombus
+T92	DISEASE 3095 3097	it
+T72	DISEASE 3991 4000	phlebitis
+T73	DISEASE 4493 4514	Anteroseptal necrosis
+T87	DISEASE 5402 5415	Thrombophilia
+T70	DISEASE 6818 6833	apical thrombus
+T102	DISEASE 6825 6833	thrombus
+T74	DISEASE 6849 6884	severe left ventricular dysfunction
+T75	DISEASE 6909 6924	apical aneurysm
+T71	DISEASE 7005 7020	apical thrombus
+T103	DISEASE 7012 7020	thrombus
+T95	DISEASE 7635 7652	myocardial oedema
+T77	DISEASE 8116 8135	transmural necrosis
+T79	DISEASE 8253 8278	microvascular obstruction
+T80	DISEASE 8379 8411	pericardial and pleural effusion
+T78	DISEASE 8579 8598	transmural necrosis
+T81	DISEASE 8670 8695	intraventricular thrombus
+T104	DISEASE 8687 8695	thrombus
+T109	DISEASE 8995 9001	myomas
+T93	DISEASE 9718 9720	it
+T97	DISEASE 10020 10031	hypotension
+T82	DISEASE 10083 10106	ventricular arrhythmias
+T67	DISEASE 10258 10288	severe ventricular dysfunction
+T83	DISEASE 10319 10341	intracavitary thrombus
+T105	DISEASE 10333 10341	thrombus
+T84	DISEASE 10626 10639	heart failure
+T96	DISEASE 10675 10707	syncopal or presyncopal episodes
+T108	DISEASE 10914 10935	thromboembolic events
+T94	DISEASE 11033 11035	it
+T88	DISEASE 11070 11083	thrombophilia
+T85	DISEASE 11323 11336	heart failure
+T89	DISEASE 12091 12113	acute stent thrombosis
+T90	DISEASE 12138 12177	Severe systolic ventricular dysfunction
+T76	DISEASE 12179 12194	Apical aneurysm
+T59	DISEASE 12196 12209	Dyslipidaemia

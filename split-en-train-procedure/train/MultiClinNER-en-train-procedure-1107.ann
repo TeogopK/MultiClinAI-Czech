@@ -1,0 +1,34 @@
+T70	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T68	PROCEDURE 326 339	genetic study
+T71	PROCEDURE 1104 1124	Physical examination
+T72	PROCEDURE 1351 1371	carotid auscultation
+T73	PROCEDURE 1373 1393	Cardiac auscultation
+T74	PROCEDURE 1447 1469	Pulmonary auscultation
+T75	PROCEDURE 1538 1559	Abdominal examination
+T76	PROCEDURE 1649 1660	Blood count
+T97	PROCEDURE 1824 1836	Biochemistry
+T77	PROCEDURE 2271 2282	Coagulation
+T79	PROCEDURE 2405 2422	Electrocardiogram
+T80	PROCEDURE 2600 2620	Coronary angiography
+T82	PROCEDURE 2813 2824	Angioplasty
+T2	PROCEDURE 2980 3034	implantation of a Synergy 4 x 20 mm drug-eluting stent
+T3	PROCEDURE 3133 3173	post-dilatation with a 4.5 mm NC balloon
+T5	PROCEDURE 3325 3363	thromboaspiration with a Pronto device
+T86	PROCEDURE 3408 3420	angiographic
+T88	PROCEDURE 3434 3451	thromboaspiration
+T89	PROCEDURE 3475 3489	Echocardiogram
+T6	PROCEDURE 3726 3758	Serial myocardial damage markers
+T69	PROCEDURE 3941 3954	Genetic study
+T90	PROCEDURE 4047 4061	Chromatography
+T92	PROCEDURE 4066 4081	electrophoresis
+T91	PROCEDURE 4122 4136	chromatography
+T99	PROCEDURE 4226 4236	Toxicology
+T98	PROCEDURE 4275 4283	Serology
+T81	PROCEDURE 5028 5048	coronary angiography
+T9	PROCEDURE 5160 5227	angioplasty was performed with implantation of a drug-eluting stent
+T10	PROCEDURE 5256 5308	aspiration of the remains of the thrombotic material
+T93	PROCEDURE 5786 5799	lipid profile
+T78	PROCEDURE 5917 5929	Urine toxins
+T95	PROCEDURE 5970 5993	study of coagulopathies
+T94	PROCEDURE 6225 6238	lipid profile
+T96	PROCEDURE 6714 6777	Percutaneous total revascularisation using a drug-eluting stent

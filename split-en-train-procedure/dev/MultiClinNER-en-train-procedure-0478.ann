@@ -1,0 +1,13 @@
+T1	PROCEDURE 708 728	Physical examination
+T8	PROCEDURE 922 957	percussion of the paranasal sinuses
+T5	PROCEDURE 1117 1137	Cardiac auscultation
+T7	PROCEDURE 1169 1191	Pulmonary auscultation
+T9	PROCEDURE 1462 1486	neurological examination
+T2	PROCEDURE 1641 1652	chest X-ray
+T26	PROCEDURE 1671 1685	urine analysis
+T28	PROCEDURE 1692 1712	complete blood count
+T4	PROCEDURE 1885 1900	lumbar puncture
+T6	PROCEDURE 2023 2066	radiographic study of the paranasal sinuses
+T30	PROCEDURE 2209 2224	cranial CT scan
+T10	PROCEDURE 2501 2533	intravenous antibiotic treatment
+T3	PROCEDURE 2539 2570	third generation cephalosporins

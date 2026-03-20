@@ -1,0 +1,65 @@
+T1	SYMPTOM 399 404	fever
+T2	SYMPTOM 489 523	abdominal pain in the mesogastrium
+T3	SYMPTOM 665 681	loss of appetite
+T4	SYMPTOM 693 699	nausea
+T5	SYMPTOM 703 711	vomiting
+T6	SYMPTOM 5851 5859	vomiting
+T8	SYMPTOM 767 783	urinary symptoms
+T9	SYMPTOM 900 909	conscious
+T10	SYMPTOM 911 919	oriented
+T11	SYMPTOM 937 951	good hydration
+T12	SYMPTOM 956 965	perfusion
+T13	SYMPTOM 967 982	eupneic at rest
+T14	SYMPTOM 995 1016	neurological focality
+T15	SYMPTOM 1018 1080	Cardiac and pulmonary auscultation showed no relevant findings
+T16	SYMPTOM 1168 1174	masses
+T17	SYMPTOM 1178 1187	megaliths
+T18	SYMPTOM 1194 1244	intense pain on palpation of the right iliac fossa
+T19	SYMPTOM 1266 1287	peritoneal irritation
+T20	SYMPTOM 1777 1789	leukocytosis
+T21	SYMPTOM 1820 1832	neutrophilia
+T22	SYMPTOM 2399 2439	Pancreas without significant alterations
+T23	SYMPTOM 3646 3656	chest pain
+T24	SYMPTOM 3993 4003	chest pain
+T25	SYMPTOM 4013 4030	sinus tachycardia
+T26	SYMPTOM 6024 6041	sinus tachycardia
+T27	SYMPTOM 4187 4199	sinus rhythm
+T28	SYMPTOM 4367 4379	sinus rhythm
+T29	SYMPTOM 6732 6744	sinus rhythm
+T30	SYMPTOM 4723 4741	Global hypokinesia
+T31	SYMPTOM 5399 5417	global hypokinesia
+T32	SYMPTOM 6066 6084	global hypokinesia
+T33	SYMPTOM 5824 5832	sweating
+T34	SYMPTOM 6377 6389	asymptomatic
+T40	SYMPTOM 7185 7189	pain
+T41	SYMPTOM 6842 6849	syncope
+T42	SYMPTOM 2301 2335	normal-sized gallbladder, alliasic
+T43	SYMPTOM 2441 2461	Normal sized kidneys
+T44	SYMPTOM 4806 4835	Normofunctioning mitral valve
+T45	SYMPTOM 4877 4915	Normofunctioning trivalve aortic valve
+T46	SYMPTOM 4993 5059	right ventricular (RV) systolic function at low limit of normality
+T47	SYMPTOM 6561 6595	normalisation of systolic function
+T48	SYMPTOM 7507 7549	stable clinical and haemodynamic situation
+T35	SYMPTOM 713 734	alteration of transit
+T7	SYMPTOM 736 763	externalisation of bleeding
+T51	SYMPTOM 1086 1149	abdomen was soft, depressible, with hydro-aerial sounds present
+T52	SYMPTOM 2073 2122	PCR for SARS-CoV-2 was performed and was positive
+T36	SYMPTOM 2245 2268	normal liver and spleen
+T53	SYMPTOM 2511 2596	Inflammatory changes were identified in the cecum, ileocecal valve and terminal ileum
+T54	SYMPTOM 2779 2828	amina of free fluid in the right paracolic gutter
+T55	SYMPTOM 3259 3400	study of hepatotropic viruses and HIV, anti-transglutaminase and thiopurine methyltransferase antibodies was carried out, which were negative
+T56	SYMPTOM 3538 3609	stool culture showed dysbacteriosis due to gram-positive microorganisms
+T37	SYMPTOM 3790 3811	enzyme serum serology
+T38	SYMPTOM 4073 4095	normal electrical axis
+T57	SYMPTOM 4100 4126	repolarisation alterations
+T58	SYMPTOM 4242 4264	normal electrical axis
+T59	SYMPTOM 4278 4321	Negative T wave in III and flattened in aVF
+T60	SYMPTOM 4446 4488	Biphasic T waves on the inferolateral side
+T61	SYMPTOM 4608 4639	Left ventricle (LV) not dilated
+T62	SYMPTOM 4567 4595	left atrium (LA) not dilated
+T63	SYMPTOM 4917 4960	Aortic root and ascending aorta not dilated
+T64	SYMPTOM 5555 5610	serology was performed with positive IgG for SARS-CoV-2
+T39	SYMPTOM 5692 5713	central thoracic pain
+T65	SYMPTOM 5936 5966	elevated acute phase reactants
+T66	SYMPTOM 6613 6693	hypokinesia persisted in the basal segments of the septum and anterolateral face
+T67	SYMPTOM 7713 7790	Mild hypokinesia in the basal septum and basal anterolateral septum of the LV

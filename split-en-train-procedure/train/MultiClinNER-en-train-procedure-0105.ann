@@ -1,0 +1,37 @@
+T28	PROCEDURE 240 278	tourniquet was placed at humeral level
+T23	PROCEDURE 282 326	granulated haemostatic was applied topically
+T24	PROCEDURE 740 743	VAS
+T27	PROCEDURE 915 920	X-ray
+T18	PROCEDURE 1048 1069	Surgical intervention
+T32	PROCEDURE 1086 1213	debridement, cleaning, removal of bone splinters and placement of an external fixator on the left arm under general anaesthesia
+T25	PROCEDURE 1226 1247	pre-anaesthetic study
+T1	PROCEDURE 1294 1308	blood analysis
+T3	PROCEDURE 1310 1313	ECG
+T19	PROCEDURE 1317 1334	airway assessment
+T2	PROCEDURE 1570 1581	capnography
+T4	PROCEDURE 1600 1619	bispectral analysis
+T5	PROCEDURE 1635 1665	continuous haemoglobin monitor
+T26	PROCEDURE 1825 1854	denitrogenation with 80% FiO2
+T40	PROCEDURE 1877 1915	rapid sequence anaesthesia was induced
+T8	PROCEDURE 2000 2012	laryngoscopy
+T41	PROCEDURE 2044 2095	airway was isolated with a 7.5 mm endotracheal tube
+T29	PROCEDURE 2104 2144	pneumotaping balloon was filled with air
+T9	PROCEDURE 2169 2191	protective ventilation
+T12	PROCEDURE 2236 2267	alveolar recruitment manoeuvres
+T17	PROCEDURE 2284 2364	Anaesthetic maintenance was performed with a mixture of O2, air and sevofluorane
+T22	PROCEDURE 2395 2413	surgical procedure
+T14	PROCEDURE 2479 2514	open reduction under scopic control
+T15	PROCEDURE 2516 2630	transarticular osteosynthesis by implantation of Hoffmann II Stryker external fixator in multiplanar configuration
+T30	PROCEDURE 2632 2661	pulsatile lavage of the wound
+T49	PROCEDURE 2666 2781	debridement of the necrotic tissue involving the extensor carpi ulnaris, flexor carpi ulnaris and tricipital tendon
+T50	PROCEDURE 2783 2819	Anti-tetanus prophylaxis, antibiotic
+T51	PROCEDURE 3035 3056	forced eyelid closure
+T31	PROCEDURE 3142 3154	fluid warmer
+T6	PROCEDURE 3159 3174	hot air blanket
+T7	PROCEDURE 3228 3237	analgesia
+T53	PROCEDURE 3324 3399	ultrasound-guided peripheral nerve block was used at the interscalene level
+T21	PROCEDURE 3434 3459	Emergence from anesthesia
+T10	PROCEDURE 3482 3503	opioid antagonisation
+T11	PROCEDURE 3507 3531	muscle relaxant reversal
+T13	PROCEDURE 3790 3809	soft tissue healing
+T16	PROCEDURE 3821 3835	osteosynthesis

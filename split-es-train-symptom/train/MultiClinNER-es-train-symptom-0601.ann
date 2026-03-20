@@ -1,0 +1,18 @@
+T1	SYMPTOM 175 183	fibrosis
+T2	SYMPTOM 1613 1668	dolor epigástrico intenso irradiado a ambos hipocondrio
+T3	SYMPTOM 1031 1105	dolor epigástrico que se volvió más intenso e irradió a ambos hipocondrios
+T4	SYMPTOM 795 816	molestias anorectales
+T5	SYMPTOM 1145 1151	fiebre
+T6	SYMPTOM 1153 1164	escalofríos
+T7	SYMPTOM 1166 1173	náuseas
+T8	SYMPTOM 1175 1182	vómitos
+T9	SYMPTOM 846 858	prurito anal
+T10	SYMPTOM 1186 1193	coluria
+T11	SYMPTOM 867 875	ansiedad
+T12	SYMPTOM 903 929	leve prurito por el cuerpo
+T13	SYMPTOM 679 703	carga viral indetectable
+T14	SYMPTOM 542 597	enzimas hepáticas se encontraban ligeramente aumentadas
+T15	SYMPTOM 2019 2047	carga viral fue indetectable
+A1	RESULTADO T13
+A2	RESULTADO T14
+A3	RESULTADO T15

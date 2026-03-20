@@ -1,0 +1,37 @@
+T94	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T2	PROCEDURE 186 211	PAF subjected to ablation
+T89	PROCEDURE 304 394	percutaneous revascularisation by implanting a conventional stent in the circumflex artery
+T90	PROCEDURE 442 472	percutaneous revascularisation
+T3	PROCEDURE 477 572	implantation of a stent-eluting stent in the proximal segment of the anterior descending artery
+T117	PROCEDURE 686 708	Surgical interventions
+T6	PROCEDURE 1386 1413	simple CT scan of the skull
+T116	PROCEDURE 1480 1488	angio-CT
+T92	PROCEDURE 1761 1776	cranial CT scan
+T9	PROCEDURE 1978 2001	anticoagulation for PAF
+T95	PROCEDURE 2045 2065	Physical examination
+T96	PROCEDURE 2280 2304	Neurological examination
+T97	PROCEDURE 2811 2839	Cardiopulmonary auscultation
+T98	PROCEDURE 3120 3137	Electrocardiogram
+T10	PROCEDURE 3288 3291	CBC
+T99	PROCEDURE 3522 3533	Chest X-ray
+T93	PROCEDURE 3678 3693	Cranial CT scan
+T115	PROCEDURE 3832 3882	Transthoracic and transesophageal echocardiography
+T100	PROCEDURE 5532 5551	Thoracoabdominal CT
+T16	PROCEDURE 7440 7494	Fracture of the left femur treated with nail and screw
+T101	PROCEDURE 7698 7739	Coronary angiography: right radial access
+T18	PROCEDURE 7764 7843	previously implanted stents in anterior descending artery and circumflex artery
+T102	PROCEDURE 7919 7939	Pathological anatomy
+T104	PROCEDURE 8261 8277	echocardiography
+T107	PROCEDURE 8353 8372	transthoracic study
+T109	PROCEDURE 8579 8611	transesophageal echocardiography
+T20	PROCEDURE 8935 8968	CT scan of the thorax and abdomen
+T111	PROCEDURE 9184 9204	coronary angiography
+T23	PROCEDURE 9379 9400	surgery was performed
+T24	PROCEDURE 9411 9513	wedge resection of the floor of the left atrium was performed with the implantation base of the tumour
+T26	PROCEDURE 9761 9770	operation
+T27	PROCEDURE 9806 9848	nticoagulation was restarted with edoxaban
+T112	PROCEDURE 9881 9906	anatomopathological study
+T106	PROCEDURE 10021 10037	echocardiography
+T113	PROCEDURE 10088 10108	motor rehabilitation
+T114	PROCEDURE 10398 10437	Surgical excision of left atrial myxoma
+T91	PROCEDURE 10579 10609	percutaneous revascularisation

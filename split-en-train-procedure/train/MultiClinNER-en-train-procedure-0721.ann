@@ -1,0 +1,9 @@
+T6	PROCEDURE 302 313	Examination
+T8	PROCEDURE 555 572	abdominal CT scan
+T9	PROCEDURE 711 734	intubated orotracheally
+T10	PROCEDURE 739 775	connected to a mechanical ventilator
+T11	PROCEDURE 795 808	fluid therapy
+T1	PROCEDURE 1267 1278	colonoscopy
+T2	PROCEDURE 1407 1417	endoscopic
+T4	PROCEDURE 1520 1533	was extubated
+T3	PROCEDURE 1590 1612	removal of the adenoma

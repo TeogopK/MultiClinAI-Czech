@@ -1,0 +1,38 @@
+T1	SYMPTOM 567 592	elevación del segmento ST
+T2	SYMPTOM 1214 1228	dolor torácico
+T3	SYMPTOM 1323 1392	opresión centrotorácica con irradiación al miembro superior izquierdo
+T4	SYMPTOM 2037 2044	Afebril
+T5	SYMPTOM 2046 2056	Consciente
+T6	SYMPTOM 2058 2067	orientado
+T7	SYMPTOM 2070 2081	colaborador
+T8	SYMPTOM 2106 2131	ruidos cardiacos rítmicos
+T9	SYMPTOM 2133 2145	taquicárdico
+T10	SYMPTOM 2151 2157	soplos
+T11	SYMPTOM 2182 2211	murmullo vesicular conservado
+T12	SYMPTOM 2217 2232	ruidos añadidos
+T13	SYMPTOM 2234 2289	Abdomen: blando, depresible, no doloroso a la palpación
+T15	SYMPTOM 2291 2327	Miembros inferiores bien perfundidos
+T16	SYMPTOM 2329 2358	pulsos positivos y simétricos
+T17	SYMPTOM 2363 2384	focalidad neurológica
+T18	SYMPTOM 2440 2470	función renal e iones normales
+T19	SYMPTOM 2665 2693	índice cardiotorácico normal
+T20	SYMPTOM 2868 2881	ritmo sinusal
+T21	SYMPTOM 2892 2926	T negativa en I y aVL y de V4 a V6
+T23	SYMPTOM 2959 2993	T negativa en I y aVL y de V4 a V6
+T24	SYMPTOM 3236 3255	VI de tamaño normal
+T25	SYMPTOM 3298 3322	FEVI levemente deprimida
+T26	SYMPTOM 3445 3460	FEVI conservada
+T27	SYMPTOM 4029 4040	taquicardia
+T28	SYMPTOM 4097 4109	asintomático
+T111	SYMPTOM 821 884	Fracción de eyección del ventrículo izquierdo (FEVI) conservada
+T118	SYMPTOM 1857 1870	ritmo sinusal
+T109	SYMPTOM 889 929	ventrículo derecho (VD) normofuncionante
+T14	SYMPTOM 3032 3066	VD de tamaño normal con discinesia
+T22	SYMPTOM 4620 4641	FEVI levemente afecta
+T126	SYMPTOM 2946 2948	RS
+T132	SYMPTOM 2608 2622	fórmula normal
+T108	SYMPTOM 2813 2825	eje inferior
+T110	SYMPTOM 2828 2844	transición V3-V4
+T113	SYMPTOM 3340 3411	realce tardío intramiocárdico en la unión inferior de ambos ventrículos
+T114	SYMPTOM 3890 3902	eje inferior
+T115	SYMPTOM 3905 3926	transición en V3 y V4

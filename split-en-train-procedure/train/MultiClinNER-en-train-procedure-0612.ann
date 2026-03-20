@@ -1,0 +1,10 @@
+T7	PROCEDURE 197 218	intraoral examination
+T6	PROCEDURE 233 251	radiographic study
+T1	PROCEDURE 274 292	orthopantomography
+T9	PROCEDURE 297 304	CT scan
+T10	PROCEDURE 483 491	biopsied
+T11	PROCEDURE 493 517	Histological examination
+T2	PROCEDURE 624 633	bone scan
+T3	PROCEDURE 843 864	Thoracic-abdominal CT
+T4	PROCEDURE 1013 1059	Combined treatment with radio and chemotherapy
+T5	PROCEDURE 1111 1118	Autopsy

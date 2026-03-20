@@ -1,0 +1,30 @@
+T42	PROCEDURE 162 180	oral antidiabetics
+T43	PROCEDURE 230 242	chemotherapy
+T44	PROCEDURE 244 256	radiotherapy
+T45	PROCEDURE 261 297	BEAM-conditioned autotransplantation
+T46	PROCEDURE 468 490	bone marrow transplant
+T47	PROCEDURE 588 591	ECG
+T49	PROCEDURE 593 607	echocardiogram
+T54	PROCEDURE 612 623	stress test
+T55	PROCEDURE 1110 1130	Physical examination
+T48	PROCEDURE 1213 1216	ECG
+T4	PROCEDURE 1360 1376	Laboratory tests
+T5	PROCEDURE 1532 1557	myocardial damage markers
+T50	PROCEDURE 1746 1768	Doppler echocardiogram
+T56	PROCEDURE 1877 1890	Chest CT scan
+T7	PROCEDURE 2047 2073	broad-spectrum antibiotics
+T8	PROCEDURE 2078 2119	antifungals were administered empirically
+T57	PROCEDURE 2158 2172	blood cultures
+T58	PROCEDURE 2174 2188	urine cultures
+T59	PROCEDURE 2193 2208	sputum cultures
+T63	PROCEDURE 2210 2226	Viral serologies
+T9	PROCEDURE 2261 2286	myocardial damage markers
+T51	PROCEDURE 2568 2598	transesophageal echocardiogram
+T10	PROCEDURE 2764 2801	Treatment was started with corticoids
+T60	PROCEDURE 2803 2816	beta-blockers
+T11	PROCEDURE 2818 2832	ACE inhibitors
+T61	PROCEDURE 2837 2846	diuretics
+T52	PROCEDURE 2941 2955	echocardiogram
+T62	PROCEDURE 3077 3094	electrocardiogram
+T53	PROCEDURE 3149 3163	echocardiogram
+T12	PROCEDURE 3450 3502	MRI of the heart was performed with adenosine stress

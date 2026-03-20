@@ -1,0 +1,46 @@
+T1	SYMPTOM 260 274	dolor torácico
+T3	SYMPTOM 1082 1165	dolor centrotorácico de intensidad 10/10, opresivo, irradiado a mandíbula y espalda
+T4	SYMPTOM 1181 1188	náuseas
+T5	SYMPTOM 1193 1200	vómitos
+T6	SYMPTOM 1257 1262	dolor
+T8	SYMPTOM 1406 1412	fiebre
+T9	SYMPTOM 1850 1869	buen estado general
+T10	SYMPTOM 1871 1881	consciente
+T11	SYMPTOM 1884 1893	orientado
+T12	SYMPTOM 1895 1913	eupneico en reposo
+T13	SYMPTOM 1916 1931	bien perfundido
+T14	SYMPTOM 1936 1938	IY
+T15	SYMPTOM 1940 1984	Auscultación cardiopulmonar sin alteraciones
+T16	SYMPTOM 1986 2014	Abdomen blando y no doloroso
+T18	SYMPTOM 3150 3163	ritmo sinusal
+T19	SYMPTOM 3174 3185	PR en rango
+T20	SYMPTOM 3199 3211	QRS estrecho
+T21	SYMPTOM 3213 3230	QTc no prolongado
+T22	SYMPTOM 3236 3276	alteraciones agudas de la repolarización
+T23	SYMPTOM 3282 3344	onda T aplanada en cara lateral alta y precordiales izquierdas
+T24	SYMPTOM 3387 3421	índice cardiotorácico (ICT) normal
+T26	SYMPTOM 3497 3529	ventrículo izquierdo no dilatado
+T27	SYMPTOM 3547 3585	Función sistólica subjetiva conservada
+T28	SYMPTOM 3817 3888	ventrículo izquierdo no dilatado, con aumento leve del espesor parietal
+T30	SYMPTOM 4027 4055	Función sistólica conservada
+T31	SYMPTOM 4088 4113	Función diastólica normal
+T32	SYMPTOM 4115 4174	Ventrículo derecho no dilatado con función sistólica normal
+T33	SYMPTOM 4197 4244	Cateterismo cardiaco: tronco común sin lesiones
+T34	SYMPTOM 4617 4658	ventrículos no dilatados ni hipertróficos
+T36	SYMPTOM 4831 4836	edema
+T37	SYMPTOM 5164 5210	Exudado nasofaríngeo para SARS-CoV-2: negativo
+T38	SYMPTOM 5270 5284	dolor torácico
+T39	SYMPTOM 5360 5391	troponina ligeramente aumentada
+T40	SYMPTOM 5707 5749	elevación de marcadores de daño miocárdico
+T41	SYMPTOM 7071 7107	Función ventricular izquierda normal
+T119	SYMPTOM 3650 3695	alteraciones de la contractilidad segmentaria
+T2	SYMPTOM 2016 2046	Miembros inferiores sin edemas
+T17	SYMPTOM 3587 3638	disquinesia del segmento medio de cara anteroseptal
+T25	SYMPTOM 3890 3944	Acinesia localizada a nivel del septo interventricular
+T29	SYMPTOM 5830 5846	elevación del ST
+T135	SYMPTOM 3187 3197	eje normal
+T138	SYMPTOM 491 543	fracción de eyección del ventrículo izquierdo normal
+T7	SYMPTOM 4246 4316	Circunfleja dominante, de buen calibre y gran desarrollo, sin lesiones
+T35	SYMPTOM 4845 4923	secuencias de realce tardío existen áreas parcheadas de realce intramiocárdico
+T56	SYMPTOM 5651 5687	segmento disquinético a nivel septal
+T116	SYMPTOM 7292 7313	LDL fuera de objetivo

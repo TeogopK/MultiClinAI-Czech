@@ -1,0 +1,23 @@
+T1	SYMPTOM 753 756	tos
+T2	SYMPTOM 758 783	expectoración blanquecina
+T3	SYMPTOM 786 792	disnea
+T4	SYMPTOM 893 922	edemas en miembros inferiores
+T5	SYMPTOM 1009 1017	Eupneico
+T7	SYMPTOM 1119 1125	soplos
+T8	SYMPTOM 1137 1169	hipoventilación en base pulmonar
+T9	SYMPTOM 1200 1239	edemas con fóvea en miembros inferiores
+T11	SYMPTOM 1537 1560	redistribución vascular
+T13	SYMPTOM 1627 1639	QRS estrecho
+T14	SYMPTOM 1703 1720	sobrecarga del VI
+T17	SYMPTOM 1844 1868	hipocinesia generalizada
+T18	SYMPTOM 1870 1908	Elevación de las presiones de lllenado
+T23	SYMPTOM 2680 2705	hemodinámicamente estable
+T24	SYMPTOM 3321 3346	ortopnea de dos almohadas
+T25	SYMPTOM 3362 3389	disnea paroxística nocturna
+T26	SYMPTOM 3846 3859	ritmo sinusal
+T58	SYMPTOM 1390 1429	perfil renal, hepático e iones normales
+T15	SYMPTOM 2346 2357	hipocinesia
+T103	SYMPTOM 1334 1348	fórmula normal
+T111	SYMPTOM 1562 1580	líquido en cisuras
+T73	SYMPTOM 2188 2211	compromiso hemodinámico
+T91	SYMPTOM 3771 3790	cifras de TAS bajas

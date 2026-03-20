@@ -1,0 +1,32 @@
+T26	DISEASE 100 109	allergies
+T27	DISEASE 174 201	acute myocardial infarction
+T1	DISEASE 203 206	AMI
+T28	DISEASE 471 495	ventricular fibrillation
+T2	DISEASE 497 499	VF
+T3	DISEASE 614 650	rhythmic tachycardia with narrow QRS
+T4	DISEASE 755 765	infarction
+T7	DISEASE 849 866	proximal stenosis
+T38	DISEASE 951 967	coronary lesions
+T39	DISEASE 1271 1274	BRD
+T9	DISEASE 2208 2253	Anterior descending: slight proximal stenosis
+T29	DISEASE 2414 2434	Mitral insufficiency
+T10	DISEASE 2436 2438	MI
+T40	DISEASE 2481 2483	EV
+T31	DISEASE 2511 2513	it
+T12	DISEASE 2803 2816	RV dilatation
+T13	DISEASE 2832 2858	pailary muscle hyperplasia
+T30	DISEASE 2893 2916	tricuspid insufficiency
+T14	DISEASE 2918 2920	TI
+T34	DISEASE 3261 3297	Mild pulmonary arterial hypertension
+T15	DISEASE 3299 3302	PAH
+T17	DISEASE 3357 3395	Mild dilatation of the right ventricle
+T20	DISEASE 3867 3880	RV dilatation
+T21	DISEASE 3900 3950	hyperplasia of papillary muscles and anterior wall
+T41	DISEASE 3969 4013	slight increase in pulmonary artery diameter
+T22	DISEASE 4020 4023	PAH
+T35	DISEASE 4168 4184	Brugada syndrome
+T25	DISEASE 4246 4296	cardiorespiratory arrest (CRP) due to VF recovered
+T32	DISEASE 4272 4275	CRP
+T36	DISEASE 4300 4316	Brugada syndrome
+T24	DISEASE 4370 4383	CRA due to VF
+T37	DISEASE 4432 4448	Brugada syndrome

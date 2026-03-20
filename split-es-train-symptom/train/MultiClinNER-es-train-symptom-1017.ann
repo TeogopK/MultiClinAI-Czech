@@ -1,0 +1,27 @@
+T1	SYMPTOM 130 136	disnea
+T2	SYMPTOM 778 784	disnea
+T3	SYMPTOM 853 860	síncope
+T4	SYMPTOM 862 875	palpitaciones
+T6	SYMPTOM 1014 1031	soplos carotídeos
+T7	SYMPTOM 1033 1062	Auscultación cardiaca rítmica
+T8	SYMPTOM 1101 1107	soplos
+T9	SYMPTOM 1145 1192	disminución del murmullo vesicular generalizado
+T10	SYMPTOM 1226 1262	Abdomen globuloso sin detectar masas
+T12	SYMPTOM 1265 1273	megalias
+T13	SYMPTOM 1276 1306	miembros inferiores sin edemas
+T15	SYMPTOM 1390 1403	ritmo sinusal
+T16	SYMPTOM 1414 1423	PR normal
+T17	SYMPTOM 1476 1489	ritmo sinusal
+T18	SYMPTOM 1750 1782	ventrículo izquierdo no dilatado
+T19	SYMPTOM 1830 1875	alteraciones de la contractilidad segmentaria
+T24	SYMPTOM 2486 2504	hipocinesia global
+T26	SYMPTOM 2550 2616	Ventrículo derecho no dilatado ni hipertrofiado con función normal
+T28	SYMPTOM 3322 3327	edema
+T30	SYMPTOM 3740 3799	secuenciación NGS Panel 17 genes, incluyendo TTR): negativo
+T5	SYMPTOM 1877 1957	hipoquinesia basal de las caras inferior, anterior, anteroseptal y anterolateral
+T40	SYMPTOM 1963 1988	movimiento anómalo septal
+T20	SYMPTOM 3658 3718	depósito de sustancia amiloide transtirretina (TTR) positiva
+T128	SYMPTOM 2088 2113	Ventrículo derecho normal
+T130	SYMPTOM 4059 4095	aumento de presiones telediastólicas
+T131	SYMPTOM 977 1010	aumento de presión venosa yugular
+T21	SYMPTOM 2432 2472	aumento significativo de masa miocárdica

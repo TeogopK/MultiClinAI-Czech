@@ -1,0 +1,43 @@
+T45	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T47	PROCEDURE 304 320	vaginal delivery
+T48	PROCEDURE 561 578	electrocardiogram
+T49	PROCEDURE 580 583	ECG
+T46	PROCEDURE 887 907	Physical examination
+T53	PROCEDURE 1095 1115	Cardiac auscultation
+T54	PROCEDURE 1179 1201	Pulmonary auscultation
+T50	PROCEDURE 1524 1527	ECG
+T56	PROCEDURE 1921 1932	Coagulation
+T86	PROCEDURE 1956 1968	Biochemistry
+T58	PROCEDURE 2167 2180	Lipid profile
+T59	PROCEDURE 2313 2328	Echocardioscopy
+T60	PROCEDURE 2796 2810	colour Doppler
+T61	PROCEDURE 2916 2936	coronary angiography
+T68	PROCEDURE 3097 3109	angiographic
+T76	PROCEDURE 3709 3726	revascularisation
+T66	PROCEDURE 3709 3747	revascularisation coronary angiography
+T62	PROCEDURE 3727 3747	coronary angiography
+T67	PROCEDURE 3894 3912	contrast injection
+T69	PROCEDURE 4147 4159	angiographic
+T83	PROCEDURE 4202 4217	catheterisation
+T51	PROCEDURE 4218 4221	ECG
+T72	PROCEDURE 4433 4463	transthoracic echocardiography
+T73	PROCEDURE 4447 4463	echocardiography
+T52	PROCEDURE 5180 5183	ECG
+T55	PROCEDURE 5354 5363	Haemogram
+T57	PROCEDURE 5457 5468	Coagulation
+T87	PROCEDURE 5484 5496	Biochemistry
+T74	PROCEDURE 5867 5883	echocardiography
+T63	PROCEDURE 6050 6070	coronary angiography
+T64	PROCEDURE 6076 6096	coronary angiography
+T70	PROCEDURE 6237 6249	angiographic
+T77	PROCEDURE 6313 6330	revascularisation
+T81	PROCEDURE 6413 6443	percutaneous revascularisation
+T78	PROCEDURE 6426 6443	revascularisation
+T65	PROCEDURE 6459 6479	coronary angiography
+T71	PROCEDURE 6628 6640	angiographic
+T79	PROCEDURE 6947 6964	revascularisation
+T82	PROCEDURE 7055 7075	antiplatelet therapy
+T84	PROCEDURE 7268 7283	catheterisation
+T80	PROCEDURE 7297 7314	revascularisation
+T85	PROCEDURE 7575 7597	cardiac rehabilitation
+T75	PROCEDURE 7787 7803	echocardiography

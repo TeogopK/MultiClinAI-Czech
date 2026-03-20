@@ -1,0 +1,57 @@
+T53	PROCEDURE 149 160	splenectomy
+T54	PROCEDURE 162 200	liver and mesenteric lymph node biopsy
+T1	PROCEDURE 234 260	radiotherapy to the thorax
+T2	PROCEDURE 293 310	haemithroidectomy
+T55	PROCEDURE 576 596	Abdominal ultrasound
+T3	PROCEDURE 601 637	simple thoracic and lumbar radiology
+T56	PROCEDURE 669 686	electrocardiogram
+T4	PROCEDURE 889 900	Blood tests
+T75	PROCEDURE 1097 1111	Urine sediment
+T5	PROCEDURE 1176 1181	Blood
+T69	PROCEDURE 1186 1200	urine cultures
+T59	PROCEDURE 1246 1266	rescue fluid therapy
+T60	PROCEDURE 1288 1308	antibiotic treatment
+T79	PROCEDURE 1464 1482	intravenous fluids
+T62	PROCEDURE 1494 1504	intubation
+T63	PROCEDURE 1509 1531	mechanical ventilation
+T57	PROCEDURE 1537 1554	electrocardiogram
+T65	PROCEDURE 1642 1672	transesophageal echocardiogram
+T83	PROCEDURE 1859 1877	Dopamine perfusion
+T61	PROCEDURE 1922 1942	antibiotic treatment
+T64	PROCEDURE 2097 2107	extubation
+T66	PROCEDURE 2243 2257	echocardiogram
+T6	PROCEDURE 2469 2500	Computed tomography angiography
+T80	PROCEDURE 2685 2692	surgery
+T8	PROCEDURE 2702 2724	pening the pericardium
+T9	PROCEDURE 2790 2797	culture
+T10	PROCEDURE 3071 3081	cannulated
+T11	PROCEDURE 3091 3099	debrided
+T84	PROCEDURE 3101 3121	draining copious pus
+T73	PROCEDURE 3218 3244	extracorporeal circulation
+T13	PROCEDURE 3267 3281	aorta clamped,
+T14	PROCEDURE 3286 3312	ascending aorta was opened
+T17	PROCEDURE 3494 3564	vegetation anchored to the membranous septum was observed and resected
+T18	PROCEDURE 3572 3651	brushing the septum with povidone iodine, a Teflon reinforced stitch was placed
+T19	PROCEDURE 3714 3784	portion of the aortic wall including the mycotic aneurysm was resected
+T20	PROCEDURE 3789 3858	direct closure of the aorta was performed respecting the aortic valve
+T21	PROCEDURE 3862 3877	right atriotomy
+T76	PROCEDURE 4017 4065	resected vegetation on the left ventricular side
+T23	PROCEDURE 4071 4094	vegetation was resected
+T24	PROCEDURE 4096 4117	brushed with Betadine
+T77	PROCEDURE 4122 4165	the commissure was reinforced with a stitch
+T25	PROCEDURE 4171 4205	interatrial septum was then opened
+T26	PROCEDURE 4218 4285	vegetation on the anterior mitral leaflet was observed and resected
+T46	PROCEDURE 4305 4314	operation
+T68	PROCEDURE 4316 4388	a definitive epicardial pacemaker was implanted over the right ventricle
+T85	PROCEDURE 4391 4415	Blood and urine cultures
+T70	PROCEDURE 4401 4415	urine cultures
+T71	PROCEDURE 4431 4456	Pericardial fluid culture
+T86	PROCEDURE 4498 4520	culture of vegetations
+T74	PROCEDURE 4539 4564	polymerase chain reaction
+T78	PROCEDURE 4566 4569	PCR
+T67	PROCEDURE 4690 4704	echocardiogram
+T81	PROCEDURE 4788 4795	surgery
+T58	PROCEDURE 4900 4914	blood cultures
+T72	PROCEDURE 4964 4984	antifungal treatment
+T82	PROCEDURE 5058 5065	surgery
+T87	PROCEDURE 5067 5074	autopsy

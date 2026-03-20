@@ -1,0 +1,50 @@
+T52	PROCEDURE 29 49	PHYSICAL EXAMINATION
+T1	PROCEDURE 154 161	surgery
+T54	PROCEDURE 163 189	Pre-anaesthetic assessment
+T55	PROCEDURE 211 241	transthoracic echocardiography
+T2	PROCEDURE 243 246	TTE
+T56	PROCEDURE 249 281	transesophageal echocardiography
+T3	PROCEDURE 283 286	TTE
+T57	PROCEDURE 305 325	coronary angiography
+T4	PROCEDURE 385 408	Inguinal hernia surgery
+T5	PROCEDURE 732 767	basic cardiopulmonary resuscitation
+T58	PROCEDURE 769 772	CPR
+T60	PROCEDURE 848 871	advanced CPR manoeuvres
+T61	PROCEDURE 873 887	laryngeal mask
+T63	PROCEDURE 890 912	mechanical ventilation
+T62	PROCEDURE 1126 1177	laryngeal mask was replaced by an endotracheal tube
+T7	PROCEDURE 1195 1210	sedoanalgesiate
+T64	PROCEDURE 1232 1254	mechanical ventilation
+T9	PROCEDURE 1288 1299	vasopressor
+T8	PROCEDURE 1303 1318	inotropic drugs
+T53	PROCEDURE 1321 1341	Physical examination
+T65	PROCEDURE 1443 1463	Cardiac auscultation
+T66	PROCEDURE 1523 1545	Pulmonary auscultation
+T83	PROCEDURE 1781 1793	Neurological
+T67	PROCEDURE 1877 1894	Electrocardiogram
+T68	PROCEDURE 1896 1899	ECG
+T69	PROCEDURE 2075 2078	ECG
+T70	PROCEDURE 2086 2096	monitoring
+T11	PROCEDURE 2268 2279	Blood tests
+T71	PROCEDURE 2577 2597	Arterial blood gases
+T72	PROCEDURE 2838 2852	PCR SARS VOC 2
+T73	PROCEDURE 2875 2917	Computed tomography (CT) scan of the brain
+T74	PROCEDURE 3205 3217	Pulmonary CT
+T76	PROCEDURE 3274 3296	orotracheal intubation
+T14	PROCEDURE 3298 3301	OTI
+T77	PROCEDURE 3402 3429	Chest X-ray: portable study
+T16	PROCEDURE 3537 3540	TTE
+T17	PROCEDURE 3545 3548	TEE
+T75	PROCEDURE 4208 4233	Cerebral and pulmonary CT
+T24	PROCEDURE 4360 4362	CT
+T78	PROCEDURE 4373 4401	empirical antibiotic therapy
+T79	PROCEDURE 4441 4450	extubated
+T84	PROCEDURE 4543 4555	neurological
+T81	PROCEDURE 4624 4635	chest X-ray
+T34	PROCEDURE 4764 4803	placing a mitral ring and 4 neo-strings
+T50	PROCEDURE 4916 4919	TEE
+T89	PROCEDURE 5007 5016	operation
+T82	PROCEDURE 5158 5182	electrical cardioversion
+T85	PROCEDURE 5184 5187	ECV
+T86	PROCEDURE 5193 5225	intravenous amiodarone perfusion
+T87	PROCEDURE 5255 5328	single-chamber implantable cardioverter-defibrillator (ICD) was implanted

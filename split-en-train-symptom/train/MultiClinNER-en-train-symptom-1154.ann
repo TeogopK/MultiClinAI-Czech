@@ -1,0 +1,48 @@
+T1	SYMPTOM 337 346	dyspepsia
+T3	SYMPTOM 481 513	oppressive central thoracic pain
+T4	SYMPTOM 568 572	pain
+T34	SYMPTOM 688 701	mild sweating
+T8	SYMPTOM 1342 1364	Good general condition
+T9	SYMPTOM 1366 1375	Conscious
+T10	SYMPTOM 1377 1385	oriented
+T35	SYMPTOM 1387 1398	cooperative
+T11	SYMPTOM 1400 1415	Eupneic at rest
+T36	SYMPTOM 1431 1444	Normal colour
+T37	SYMPTOM 1446 1476	Jugular venous pressure normal
+T38	SYMPTOM 1478 1494	Carotid rhythmic
+T12	SYMPTOM 1499 1506	murmurs
+T39	SYMPTOM 1508 1537	Cardiac auscultation rhythmic
+T13	SYMPTOM 1546 1553	murmurs
+T40	SYMPTOM 1555 1568	friction rubs
+T14	SYMPTOM 1612 1638	preserved vesicular murmur
+T41	SYMPTOM 1662 1697	Abdomen with no notable alterations
+T42	SYMPTOM 1699 1723	Lower extremities normal
+T15	SYMPTOM 1725 1766	Peripheral pulses present and symmetrical
+T16	SYMPTOM 1805 1817	sinus rhythm
+T17	SYMPTOM 1829 1838	normal PR
+T18	SYMPTOM 1840 1850	narrow QRS
+T43	SYMPTOM 1860 1885	repolarisation alteration
+T44	SYMPTOM 1962 1976	normal formula
+T19	SYMPTOM 2247 2294	Chest X-ray in the emergency department: normal
+T45	SYMPTOM 2324 2383	left ventricle of normal size and overall systolic function
+T32	SYMPTOM 2393 2431	alterations in segmental contractility
+T20	SYMPTOM 2433 2485	Right ventricle of normal size and systolic function
+T33	SYMPTOM 2486 2498	Normal atria
+T21	SYMPTOM 2593 2611	Normal pericardium
+T46	SYMPTOM 2740 2787	Normal blood pressure and chronotropic response
+T22	SYMPTOM 2956 2966	chest pain
+T5	SYMPTOM 2999 3019	ST segment elevation
+T25	SYMPTOM 3484 3496	asymptomatic
+T26	SYMPTOM 3501 3524	haemodynamically stable
+T48	SYMPTOM 3539 3585	Serial myocardial damage markers were negative
+T47	SYMPTOM 3649 3699	echocardioscopy where no alterations were observed
+T6	SYMPTOM 3967 3971	pain
+T27	SYMPTOM 4043 4055	palpitations
+T28	SYMPTOM 4057 4066	dizziness
+T31	SYMPTOM 4070 4077	syncope
+T29	SYMPTOM 4143 4173	transient ST-segment elevation
+T23	SYMPTOM 4207 4217	chest pain
+T30	SYMPTOM 4381 4389	headache
+T2	SYMPTOM 4422 4431	dyspepsia
+T7	SYMPTOM 4554 4625	ergometry was requested, which was clinically and electrically negative
+T24	SYMPTOM 5231 5275	Coronary arteries without significant lesion

@@ -1,0 +1,31 @@
+T24	DISEASE 82 94	fibromyalgia
+T48	DISEASE 96 105	ex-smoker
+T1	DISEASE 427 476	catarrhal symptoms of the upper respiratory tract
+T25	DISEASE 1314 1331	sinus tachycardia
+T2	DISEASE 1471 1503	normocytic anaemia, normochromic
+T36	DISEASE 1533 1544	lymphopenia
+T26	DISEASE 1581 1593	cardiomegaly
+T27	DISEASE 1607 1623	pleural effusion
+T29	DISEASE 1921 1941	mitral insufficiency
+T3	DISEASE 1943 1979	Moderate-severe pericardial effusion
+T4	DISEASE 1981 1983	PD
+T31	DISEASE 2487 2494	anaemia
+T11	DISEASE 2964 2984	pulmonary congestion
+T28	DISEASE 3093 3109	pleural effusion
+T34	DISEASE 3327 3362	LV with severe systolic dysfunction
+T47	DISEASE 3393 3423	severe RV systolic dysfunction
+T49	DISEASE 3425 3448	tricuspid regurgitation
+T12	DISEASE 3450 3452	TR
+T35	DISEASE 3681 3693	skin lesions
+T32	DISEASE 3794 3825	normocytic normochromic anaemia
+T37	DISEASE 3827 3838	lymphopenia
+T38	DISEASE 3861 3888	pleuropericardial serositis
+T39	DISEASE 3931 3993	systemic lupus erythematosus (SLE) with myocardial involvement
+T13	DISEASE 3961 3964	SLE
+T40	DISEASE 4241 4259	haemolytic anaemia
+T41	DISEASE 4317 4362	lupus outbreak with expression of pancarditis
+T42	DISEASE 4351 4362	pancarditis
+T44	DISEASE 4367 4408	severe biventricular systolic dysfunction
+T43	DISEASE 4421 4463	Lupus flare with expression of pancarditis
+T46	DISEASE 4465 4482	cardiac tamponade
+T45	DISEASE 4487 4528	severe biventricular systolic dysfunction
