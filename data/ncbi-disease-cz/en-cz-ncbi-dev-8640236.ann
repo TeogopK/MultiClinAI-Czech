@@ -1,0 +1,20 @@
+T1	DISEASE 32 46	karcinomu prsu
+T2	DISEASE 60 66	nádorů
+T3	DISEASE 107 112	tumor
+T4	DISEASE 176 186	kancerózní
+T5	DISEASE 229 237	rakovině
+T6	DISEASE 250 255	tumor
+T7	DISEASE 302 325	sporadikových karcinomů
+T8	DISEASE 438 477	familiárního karcinomu prsu a vaječníků
+T9	DISEASE 526 565	sporadického karcinomu prsu a vaječníků
+T10	DISEASE 656 670	karcinomu prsu
+T11	DISEASE 704 728	familiární karcinom prsu
+T12	DISEASE 772 785	rakovina prsu
+T13	DISEASE 866 871	tumor
+T14	DISEASE 986 992	tumory
+T15	DISEASE 1182 1209	sporadických karcinomů prsu
+T16	DISEASE 1274 1279	nádor
+T17	DISEASE 1343 1349	nádorů
+T18	DISEASE 1359 1372	karcinom prsu
+T19	DISEASE 1416 1437	pankreatického tumoru
+T20	DISEASE 1489 1510	pankreatickému nádoru
