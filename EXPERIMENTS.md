@@ -169,54 +169,114 @@ python src/generate_synthetic.py --entity_type disease --output_dir data/paraphr
 
 ### Exp 8: Cross-Lingual Transfer (ES→CZ)
 
-**Status: CODE READY** — `src/translate_external.py`, needs external datasets + license check
+**Status: CANCELLED** — DisTEMIST overlaps with competition source data (same Spanish clinical texts). Using it would be data leakage. `data/distemist-brat/` deleted.
 
-Kamath & Vajjala (2025): "High-quality data + cross-lingual transfer always outperforms pure synthetic data."
+### Exp 9: Sentence-Level Training
 
-- **DisTEMIST** (ES) → DISEASE: ~1,000 docs, BRAT format, ENFERMEDAD→DISEASE
-- **SympTEMIST** (ES) → SYMPTOM: ~1,000 docs, BRAT format, SINTOMA→SYMPTOM
-- Translation chain: ES→EN→CZ via MarianMT with entity marker preservation
+**Status: DONE** — `--sentence_level` flag in `src/train.py`
 
-**TODO:** Check dataset licenses (DisTEMIST, SympTEMIST) and competition rules on external data before using.
+Split documents into sentences, train on each sentence as a separate example. Results: matches doc-level F1 (0.686–0.698) but doesn't beat it. Key finding: filtering O-only sentences tanks precision (0.533); keeping all sentences is necessary.
+
+See BASELINES.md rows 7–12 for full results.
+
+### Exp 10: EN→CZ Cross-Lingual Transfer (NCBI Disease)
+
+**Status: IN PROGRESS** — `src/translate_sentences.py --mode en_to_cz`, `src/download_external.py`
+
+Pipeline (based on Sallauka et al., 2025, doi:10.3390/app15105585):
+1. Download English NER dataset (NCBI Disease: 792 docs, public domain)
+2. Translate EN→CZ sentence by sentence with marker-based entity alignment
+3. Train Czech model on gold Czech + silver translated data
+
+Key fix: MarianMT inserts spaces in marker tags (`< E0>` → `<E0>`). Normalized in `extract_markers()`. Marker survival rate: 83%. Entity span trimming removes whitespace artifacts.
 
 ```bash
-python src/translate_external.py --input_dir /path/to/distemist --output_dir data/external-disease --source_lang es --entity_type disease --type_map ENFERMEDAD=DISEASE
+# Download
+python src/download_external.py --dataset ncbi_disease --output_dir data/ncbi-disease-brat
+# Translate
+python src/translate_sentences.py --mode en_to_cz --input_dir data/ncbi-disease-brat --output_dir data/ncbi-disease-cz --type_map DISEASE=DISEASE
+# Train with translated data
+python src/train.py --entity_type disease --extra_data_dirs data/augmented-disease data/ncbi-disease-cz --batch_size 64 --epochs 10 --sentence_level
 ```
 
-### Exp 9: Sentence-Level Training & Evaluation
+### Exp 11: CZ→EN→NER Inference Pipeline (Ensemble with English Models)
 
-**Status: IDEA** — proposed by colleague
+**Status: IN PROGRESS** — `src/predict_en_ner.py`
 
-Instead of training on full documents (which can be very long, truncated at 512 tokens, mostly O tokens), split into individual sentences:
+Translate Czech test docs to English, run a strong English NER model, map entities back to Czech. Ensemble with our Czech XLM-R model for final predictions. No training needed — pure inference.
 
-- **Training**: Tokenize documents into sentences, train on individual sentences. Benefits:
-  - Higher entity density per example (less O token padding)
-  - No truncation issues (sentences fit in 512 tokens easily)
-  - Natural data oversampling — sentences with entities can be weighted/duplicated more granularly
-  - Faster training (shorter sequences)
-- **Evaluation**: Predict per-sentence, then reassemble document-level annotations by tracking sentence offsets
-- **Considerations**:
-  - Sentence segmentation in clinical Czech may be noisy (abbreviations, lists, lab values)
-  - Loses cross-sentence context (entities spanning sentence boundaries, coreference)
-  - Need to handle offset mapping: sentence offset within document → document-level entity offsets
-  - Could combine with document-level: train on sentences, fine-tune on full docs
+**Reference**: Sallauka et al. (2025) "Weakly-Supervised Multilingual Medical NER" (doi:10.3390/app15105585)
+- Used Stanza i2b2 (F1=88.1%) as teacher model for auto-annotation
+- Translated to 7 languages via Helsinki-NLP MarianMT
+- Fine-tuned BERT per language, achieving F1=75–80%
+- Their models available on HuggingFace: `HUMADEX/english_medical_ner`
+
+**Comparison of our approach vs the paper:**
+
+| Step | Paper (Sallauka et al.) | Us |
+|------|------------------------|-----|
+| Source data | 29K English texts (2 HF datasets) | 792 NCBI Disease + 1006 Czech gold |
+| Auto-annotation | Stanza i2b2 (F1=88.1%) | Gold BRAT + Stanza for new data |
+| Translation | Helsinki-NLP MarianMT | Same, with marker-based alignment |
+| Entity alignment | awesome-align (word embeddings) | Marker tags — exact or discard (no false negatives) |
+| Augmentation | Sentence reordering + entity extraction | Morph synonyms + LLM paraphrase |
+| Model | BERT-base-cased per language | XLM-RoBERTa-base (multilingual) |
+| Loss | Focal loss | CrossEntropy (focal loss TODO) |
+
+**English NER models to test:**
+
+| Model | F1 (reported) | Entity types | Notes |
+|-------|---------------|-------------|-------|
+| Stanza i2b2 | 88.1% (i2b2 test) | PROBLEM, TEST, TREATMENT | Best on formal clinical text |
+| HUMADEX/english_medical_ner | 80.1% (diverse test) | PROBLEM, TEST, TREATMENT | Better on informal/translated text |
+
+**Entity type mapping:**
+
+| English label | → Competition label | Coverage |
+|--------------|-------------------|----------|
+| PROBLEM | DISEASE | Full overlap |
+| PROBLEM | SYMPTOM | Full overlap (can't distinguish disease vs symptom) |
+| TEST | PROCEDURE (diagnostic) | Partial — only diagnostic procedures |
+| TREATMENT | PROCEDURE (therapeutic) | Partial — only therapeutic procedures |
+
+**Ensemble strategies:**
+
+1. **High-recall English + Czech precision filter**: Run English model with low threshold (high recall), then use Czech model to confirm/reject each prediction. English finds candidates, Czech refines boundaries.
+2. **Voting ensemble**: Both models predict independently, keep entities found by both (intersection = high precision) or either (union = high recall).
+3. **Cascaded**: Czech model predicts first. For low-confidence regions, translate to English and get second opinion.
+
+**Pipeline:**
+```bash
+# Run HUMADEX model on dev set
+PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model humadex --evaluate --max_docs 10
+
+# Run Stanza i2b2 on dev set
+PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model stanza --evaluate --max_docs 10
+```
+
+### Exp 12: Focal Loss
+
+**Status: TODO** — not yet implemented
+
+Sallauka et al. used focal loss instead of CrossEntropy for class imbalance. Our label-weighted loss (Exp 11 in BASELINES) didn't help — focal loss focuses on hard-to-classify examples rather than just rare classes, which may work better.
 
 ### Other Ideas — Model & Training
 
 - **Joint multi-entity training** — train one model for all 3 types simultaneously
 - **Ensemble** — combine CRF + softmax, or multiple checkpoints
 - **Sliding window** — handle documents truncated at 512 tokens
-- **Larger model on Colab** — XLM-RoBERTa-large (560M) doesn't fit on RTX A2000 8GB, but fits on Colab T4/A100
+- **Sentence reordering augmentation** — shuffle words in sentences (from Sallauka et al.)
+- **Entity extraction augmentation** — extract entity words, create minimal sentences (from Sallauka et al.)
 
 ### Other Ideas — External Data
 
-- **Cross-lingual transfer from existing NER datasets**:
-  - **n2c2 / i2b2** (English clinical NER) — large, well-annotated, translate to Czech
-  - **MEDDOCAN** (Spanish clinical NER) — translate to Czech
-  - **CRAFT corpus** (English biomedical) — translate to Czech
-- **UMLS-based entity generation** — sample entity mentions from UMLS Czech terms, embed in template clinical sentences
-- **HeTop ontology** — richer synonym source (Czech + all 7 competition languages)
-- ~~Translate competition training data from other languages~~ — NOT useful: all 7 languages are translations of the same source documents (see organizer note in Notes.md)
+- **NCBI Disease** (EN, 792 docs) — downloading + translating to CZ (IN PROGRESS)
+- **BC5CDR** (EN, 1500 docs) — disease + chemical entities, download script ready
+- **MedMentions** (EN, 4392 papers) — UMLS-linked, covers DISEASE/SYMPTOM/PROCEDURE
+- **CADEC** (EN, 1000 posts) — patient-reported symptoms and diseases
+- **i2b2/n2c2** (EN, clinical notes) — requires DUA, gold standard
+- ~~**DisTEMIST/SympTEMIST** (ES)~~ — CANCELLED, overlaps with competition data
+- ~~Translate competition training data from other languages~~ — NOT useful: all 7 languages are translations of the same source documents
 
 ---
 
