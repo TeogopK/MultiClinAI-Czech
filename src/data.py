@@ -222,6 +222,7 @@ def build_dataset(
     oversample_factor: int = 0,
     max_extra_ratio: float = 0,
     sentence_level: bool = False,
+    filter_o_sentences: bool = False,
 ) -> Dataset:
     """Build a HuggingFace Dataset for the given entity type and split.
 
@@ -287,8 +288,8 @@ def build_dataset(
                 aligned = align_labels(
                     sent["text"], sent["entities"], tokenizer, entity_type, max_length
                 )
-                # Skip pure-O sentences during training to reduce class imbalance
-                if split == "train" and not any(
+                # Optionally skip pure-O sentences during training
+                if filter_o_sentences and split == "train" and not any(
                     l > 0 for l in aligned["labels"] if l >= 0
                 ):
                     continue

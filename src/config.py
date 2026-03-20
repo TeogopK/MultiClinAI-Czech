@@ -93,4 +93,8 @@ def parse_args() -> argparse.Namespace:
         "--sentence_level", action="store_true",
         help="Split documents into sentences before training (better entity/O ratio, larger effective batch)",
     )
+    parser.add_argument(
+        "--filter_o_sentences", action="store_true",
+        help="With --sentence_level, skip pure-O sentences during training (may hurt precision)",
+    )
     return parser.parse_args()
