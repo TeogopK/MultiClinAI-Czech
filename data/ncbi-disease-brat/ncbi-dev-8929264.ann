@@ -1,0 +1,15 @@
+T1	DISEASE 33 50	colorectal cancer
+T2	DISEASE 136 162	stage II colorectal cancer
+T3	DISEASE 269 286	colorectal cancer
+T4	DISEASE 370 375	tumor
+T5	DISEASE 408 428	colorectal carcinoma
+T6	DISEASE 569 607	stage II and III colorectal carcinomas
+T7	DISEASE 698 703	tumor
+T8	DISEASE 720 725	tumor
+T9	DISEASE 864 908	stage II and stage III colorectal carcinomas
+T10	DISEASE 950 956	tumors
+T11	DISEASE 1044 1063	DCC-negative tumors
+T12	DISEASE 1132 1149	stage III disease
+T13	DISEASE 1288 1327	stage II or stage III colorectal cancer
+T14	DISEASE 1332 1362	stage II colorectal carcinomas
+T15	DISEASE 1447 1464	stage III cancers

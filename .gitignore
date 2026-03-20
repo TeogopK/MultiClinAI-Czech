@@ -227,5 +227,4 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/secrets.tomldata/ncbi-disease-brat/
-data/ncbi-disease-cz/
+.streamlit/secrets.toml
