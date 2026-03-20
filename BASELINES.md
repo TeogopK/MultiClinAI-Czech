@@ -22,6 +22,9 @@
 | 10 | XLM-R-base | softmax | morph synonyms, sentence-level | disease | 0.676 | 0.721 | 0.698 | `--extra_data_dirs data/augmented-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 11 | XLM-R-base | softmax | morph+para, sent, label-weighted | disease | 0.662 | 0.720 | 0.690 | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level --label_weighted_loss` | DONE |
 | 12 | XLM-R-base | softmax | none, sent, weighted sampling | disease | 0.634 | 0.727 | 0.677 | `--batch_size 64 --epochs 10 --sentence_level --weighted_sampling` | DONE |
+| 13 | XLM-R-base | softmax | morph+para, sentence-level | disease | 0.691 | 0.718 | **0.704** | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 14 | XLM-R-base | softmax | morph, sent, oversample 1x | disease | 0.699 | 0.722 | **0.710** | `--extra_data_dirs data/augmented-disease --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
+| 15 | XLM-R-base | softmax | NCBI-CZ only, sentence-level | disease | 0.646 | 0.706 | 0.677 | `--extra_data_dirs data/ncbi-disease-cz --batch_size 64 --epochs 10 --sentence_level` | DONE |
 
 ### Already completed (from previous experiments)
 

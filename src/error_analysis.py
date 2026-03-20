@@ -180,6 +180,87 @@ def print_summary(matrix: list[dict], model_names: list[str],
                 print(f"  ... and {len(unique)-5} more")
 
 
+def plot_analysis(matrix: list[dict], model_names: list[str],
+                  fp_matrix: dict[str, list], docs: list[dict],
+                  output_path: Path = None):
+    """Generate visualization of error analysis."""
+    import matplotlib.pyplot as plt
+    import matplotlib
+    matplotlib.use("Agg")
+
+    total = len(matrix)
+    n_models = len(model_names)
+
+    fig, axes = plt.subplots(1, 3, figsize=(18, 6))
+
+    # 1. Per-model P/R/F1 bar chart
+    ax = axes[0]
+    metrics_data = {}
+    for name in model_names:
+        found = sum(1 for e in matrix if e["models"].get(name, False))
+        fps = len(fp_matrix.get(name, []))
+        p = found / (found + fps) if (found + fps) else 0
+        r = found / total if total else 0
+        f1 = 2 * p * r / (p + r) if (p + r) else 0
+        metrics_data[name] = {"P": p, "R": r, "F1": f1}
+
+    x = range(n_models)
+    short_names = [n.split("(")[0].strip() for n in model_names]
+    w = 0.25
+    ax.bar([i - w for i in x], [metrics_data[n]["P"] for n in model_names], w, label="Precision", color="#2196F3")
+    ax.bar([i for i in x], [metrics_data[n]["R"] for n in model_names], w, label="Recall", color="#4CAF50")
+    ax.bar([i + w for i in x], [metrics_data[n]["F1"] for n in model_names], w, label="F1", color="#FF9800")
+    ax.set_xticks(x)
+    ax.set_xticklabels(short_names, rotation=15, ha="right", fontsize=9)
+    ax.set_ylabel("Score")
+    ax.set_title("Per-Model Metrics (Entity-Level)")
+    ax.legend()
+    ax.set_ylim(0, 1)
+
+    # 2. Venn-style overlap (for 2 models) or stacked bar (for >2)
+    ax = axes[1]
+    if n_models == 2:
+        a, b = model_names
+        both = sum(1 for e in matrix if e["models"].get(a) and e["models"].get(b))
+        only_a = sum(1 for e in matrix if e["models"].get(a) and not e["models"].get(b))
+        only_b = sum(1 for e in matrix if e["models"].get(b) and not e["models"].get(a))
+        neither = sum(1 for e in matrix if not e["models"].get(a) and not e["models"].get(b))
+
+        labels = [f"Both\n{both}", f"Only {short_names[0]}\n{only_a}",
+                  f"Only {short_names[1]}\n{only_b}", f"Neither\n{neither}"]
+        sizes = [both, only_a, only_b, neither]
+        colors = ["#4CAF50", "#2196F3", "#FF9800", "#F44336"]
+        ax.pie(sizes, labels=labels, colors=colors, autopct="%1.1f%%", startangle=90)
+        ax.set_title("Entity Coverage Overlap")
+    else:
+        found_counts = {name: sum(1 for e in matrix if e["models"].get(name)) for name in model_names}
+        ax.barh(short_names, [found_counts[n] for n in model_names], color="#4CAF50")
+        ax.axvline(x=total, color="red", linestyle="--", label=f"Total gold ({total})")
+        ax.set_xlabel("Entities Found")
+        ax.set_title("Entity Coverage per Model")
+        ax.legend()
+
+    # 3. Found-by-count distribution
+    ax = axes[2]
+    from collections import Counter
+    count_dist = Counter(e["found_by_count"] for e in matrix)
+    counts = sorted(count_dist.keys())
+    vals = [count_dist[c] for c in counts]
+    colors_bar = ["#F44336" if c == 0 else "#FF9800" if c < n_models else "#4CAF50" for c in counts]
+    ax.bar(counts, vals, color=colors_bar)
+    ax.set_xlabel("# Models Finding Entity")
+    ax.set_ylabel("# Entities")
+    ax.set_title("How Many Models Find Each Entity")
+    ax.set_xticks(counts)
+
+    plt.tight_layout()
+    save_path = output_path or (PROJECT_ROOT / "results" / "error_analysis.png")
+    save_path.parent.mkdir(parents=True, exist_ok=True)
+    plt.savefig(save_path, dpi=150)
+    print(f"Plot saved to {save_path}")
+    plt.close()
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Per-entity error analysis across NER models"
@@ -194,6 +275,8 @@ def main():
                         choices=["exact", "overlap", "partial"])
     parser.add_argument("--output", type=Path, default=None,
                         help="Save full matrix to JSON")
+    parser.add_argument("--plot", type=Path, default=None,
+                        help="Save plot to file (e.g. results/error_analysis.png)")
     args = parser.parse_args()
 
     if len(args.pred_dirs) != len(args.pred_names):
@@ -219,6 +302,10 @@ def main():
 
     # Print summary
     print_summary(matrix, args.pred_names, fp_matrix, docs)
+
+    # Plot
+    if args.plot:
+        plot_analysis(matrix, args.pred_names, fp_matrix, docs, args.plot)
 
     # Save
     if args.output:
