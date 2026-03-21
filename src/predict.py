@@ -28,7 +28,7 @@ from config import PROJECT_ROOT, ENTITY_TYPES, data_dir, label_list, MAX_LENGTH
 from data import load_documents, split_sentences
 
 
-def predict_text(text, tokenizer, model, entity_type, device="cpu"):
+def predict_text(text, tokenizer, model, entity_type, device="cpu", use_crf=False):
     """Run NER inference on a text string, return entity spans."""
     tag = entity_type.upper()
     ll = label_list(entity_type)
@@ -41,8 +41,14 @@ def predict_text(text, tokenizer, model, entity_type, device="cpu"):
     enc = {k: v.to(device) for k, v in enc.items()}
 
     with torch.no_grad():
-        logits = model(**enc).logits
-    preds = torch.argmax(logits, dim=-1)[0].cpu().tolist()
+        if use_crf:
+            emissions = model._get_emissions(enc["input_ids"], enc["attention_mask"])
+            crf_mask = enc["attention_mask"].bool()
+            tag_seqs = model.crf.decode(emissions, mask=crf_mask)
+            preds = tag_seqs[0]
+        else:
+            logits = model(**enc).logits
+            preds = torch.argmax(logits, dim=-1)[0].cpu().tolist()
 
     entities = []
     in_entity = False
@@ -77,20 +83,20 @@ def predict_text(text, tokenizer, model, entity_type, device="cpu"):
     return entities
 
 
-def predict_doc(doc, tokenizer, model, entity_type, device="cpu", sentence_level=False):
+def predict_doc(doc, tokenizer, model, entity_type, device="cpu", sentence_level=False, use_crf=False):
     """Predict entities for a full document.
 
     If sentence_level=True, splits into sentences, predicts per sentence,
     and maps offsets back to document level.
     """
     if not sentence_level:
-        return predict_text(doc["text"], tokenizer, model, entity_type, device)
+        return predict_text(doc["text"], tokenizer, model, entity_type, device, use_crf)
 
     sentences = split_sentences(doc["text"], doc["entities"])
     all_entities = []
 
     for sent in sentences:
-        sent_entities = predict_text(sent["text"], tokenizer, model, entity_type, device)
+        sent_entities = predict_text(sent["text"], tokenizer, model, entity_type, device, use_crf)
         for s, e, etype in sent_entities:
             doc_start = sent["start"] + s
             doc_end = sent["start"] + e
@@ -119,11 +125,17 @@ def main():
     parser.add_argument("--device", default="cpu")
     parser.add_argument("--sentence_level", action="store_true",
                         help="Split docs into sentences before predicting (for sentence-trained models)")
+    parser.add_argument("--use_crf", action="store_true",
+                        help="Load as TransformerCRF model instead of AutoModel")
     args = parser.parse_args()
 
     print(f"Loading model from {args.model_path}...")
     tokenizer = AutoTokenizer.from_pretrained(args.model_path)
-    model = AutoModelForTokenClassification.from_pretrained(args.model_path)
+    if args.use_crf:
+        from model import TransformerCRF
+        model = TransformerCRF.from_pretrained(str(args.model_path), device=args.device)
+    else:
+        model = AutoModelForTokenClassification.from_pretrained(args.model_path)
     model.to(args.device)
     model.eval()
 
@@ -136,7 +148,7 @@ def main():
 
     for i, doc in enumerate(docs):
         preds = predict_doc(doc, tokenizer, model, args.entity_type,
-                           args.device, args.sentence_level)
+                           args.device, args.sentence_level, args.use_crf)
 
         (args.output_dir / f"{doc['doc_id']}.txt").write_text(
             doc["text"], encoding="utf-8"

@@ -29,15 +29,41 @@ Models compared on 252 dev docs, 4710 gold DISEASE entities, exact span match:
 - **Missed by ALL 4 models: 882/4710 (18.7%)** — these are the hardest entities (rare terms, long spans, abbreviations).
 - **Best ensemble pair: XLM-R os1 + RobeCzech** = 78.3% union recall (vs ~70% individual).
 
+## 5-Model Confusion Matrix — Best Trio (2026-03-21)
+
+Comparing the three strongest models (different architectures/heads):
+
+| Model | P | R | F1 | Unique Finds |
+|-------|---|---|----|-------------|
+| XLM-R + morph + oversample 1x (softmax) | 0.685 | 0.696 | 0.691 | 96 |
+| RobeCzech + morph (softmax) | 0.706 | 0.714 | 0.710 | **301** |
+| XLM-R + morph (CRF) | 0.685 | 0.691 | 0.688 | 81 |
+
+### Complementarity (pairwise)
+
+| Pair | Complementarity | Union Recall |
+|------|----------------|--------------|
+| **XLM-R os1 vs RobeCzech** | **20.2%** | **78.3%** |
+| **RobeCzech vs CRF** | **20.4%** | **78.0%** |
+| XLM-R os1 vs CRF | 11.8% | 73.6% |
+
+### Key Findings
+
+- **CRF and XLM-R softmax overlap heavily** (11.8%) — same backbone, different head doesn't diversify much
+- **RobeCzech remains the most unique** — 301 unique entities vs 96 (XLM-R) and 81 (CRF)
+- **Missed by all 3: 942/4710 (20.0%)**
+- Adding CRF to a XLM-R + RobeCzech ensemble adds marginal value
+
 ### Ensemble Strategy
 
-1. **Core pair**: XLM-R os1 (best F1) + RobeCzech (most complementary)
-2. **Intersection** = high precision (~85%+ expected)
-3. **Union** = high recall (78.3%)
-4. **English NER model** (HUMADEX/Stanza) could attack the remaining 18.7% from a completely different angle (translate CZ→EN, run English NER, map back)
+1. **Core pair**: XLM-R os1 (best F1) + RobeCzech (most complementary) = 78.3% union recall
+2. **Triple ensemble**: XLM-R os1 + RobeCzech + CRF with majority vote (2/3 agree) — boosts precision
+3. **English NER model** (HUMADEX/Stanza via CZ→EN→NER→back) — attacks the remaining 20% from a completely different angle
+4. **Voting strategies**: intersection (high P), union (high R), majority vote (balanced)
 
 ### Files
 
 - `error_analysis_czech_models.png/json` — 2-model comparison (XLM-R os1 vs XLM-R para)
 - `error_analysis_3models.png/json` — 3-model comparison (+ NCBI)
 - `error_analysis_4models.png/json` — 4-model comparison (+ RobeCzech)
+- `error_analysis_5models.png/json` — best trio (XLM-R os1 vs RobeCzech vs CRF)

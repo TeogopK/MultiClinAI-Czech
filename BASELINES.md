@@ -25,6 +25,10 @@
 | 13 | XLM-R-base | softmax | morph+para, sentence-level | disease | 0.691 | 0.718 | **0.704** | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 14 | XLM-R-base | softmax | morph, sent, oversample 1x | disease | 0.699 | 0.722 | **0.710** | `--extra_data_dirs data/augmented-disease --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
 | 15 | XLM-R-base | softmax | NCBI-CZ only, sentence-level | disease | 0.646 | 0.706 | 0.677 | `--extra_data_dirs data/ncbi-disease-cz --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 16 | XLM-R-base | CRF | morph, sentence-level | disease | 0.699 | 0.725 | **0.712** | `--use_crf --extra_data_dirs data/augmented-disease --batch_size 32 --epochs 10 --sentence_level` | DONE |
+| 17 | RobeCzech | softmax | morph, sentence-level | disease | 0.678 | 0.719 | 0.698 | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 18 | RobeCzech | softmax | morph, sent, oversample 1x | disease | — | — | — | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease --batch_size 128 --epochs 10 --sentence_level --oversample 1` | RUNNING (L40) |
+| 19 | XLM-R-base | softmax | morph+para, sent, oversample 1x | disease | — | — | — | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level --oversample 1` | RUNNING (Pod2) |
 
 ### Already completed (from previous experiments)
 
