@@ -27,8 +27,11 @@
 | 15 | XLM-R-base | softmax | NCBI-CZ only, sentence-level | disease | 0.646 | 0.706 | 0.677 | `--extra_data_dirs data/ncbi-disease-cz --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 16 | XLM-R-base | CRF | morph, sentence-level | disease | 0.699 | 0.725 | **0.712** | `--use_crf --extra_data_dirs data/augmented-disease --batch_size 32 --epochs 10 --sentence_level` | DONE |
 | 17 | RobeCzech | softmax | morph, sentence-level | disease | 0.678 | 0.719 | 0.698 | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
-| 18 | RobeCzech | softmax | morph, sent, oversample 1x | disease | — | — | — | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease --batch_size 128 --epochs 10 --sentence_level --oversample 1` | RUNNING (L40) |
-| 19 | XLM-R-base | softmax | morph+para, sent, oversample 1x | disease | — | — | — | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level --oversample 1` | RUNNING (Pod2) |
+| 18 | RobeCzech | softmax | morph, sent, oversample 1x | disease | 0.678 | 0.723 | 0.700 | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease --batch_size 128 --epochs 10 --sentence_level --oversample 1` | DONE |
+| 19 | XLM-R-base | softmax | morph+para, sent, oversample 1x | disease | 0.680 | 0.719 | 0.699 | `--extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 128 --epochs 10 --sentence_level --oversample 1` | DONE |
+| 20 | XLM-R-base | softmax | morph+para+NCBI, doc, oversample 1x | disease | 0.659 | 0.721 | 0.689 | `--extra_data_dirs data/augmented-disease data/paraphrase-disease data/ncbi-disease-cz --batch_size 32 --epochs 10 --oversample 1 --max_extra_ratio 2` | DONE |
+| 21 | RobeCzech | softmax | morph+para, sentence-level | disease | 0.692 | 0.716 | 0.703 | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 22 | GPT-4.1-mini | zero-shot | 3-shot prompt | disease | 0.514 | 0.307 | 0.384 | `--model gpt-4.1-mini --workers 10` | DONE |
 
 ### Already completed (from previous experiments)
 
@@ -67,6 +70,18 @@ Compare row 6 vs row 1. Prior large-model run (no aug) got 0.692 but overfit —
 Row 7 vs prior baseline (disease 0.657 doc-level, no aug).
 
 **Result: entity F1 dropped sharply (0.657→0.533), but token F1 is decent (0.734).** The model finds entity tokens (R=0.734) but can't form correct spans (P=0.418). Root cause: pure-O sentences were filtered during training, so the model rarely saw non-entity context. High recall + low precision = the model over-predicts entities because it was only trained on sentences containing entities. Token metrics (P=0.640, R=0.860, F1=0.734) confirm the model is learning entity tokens but not boundaries. Next step: re-run with O-sentences included.
+
+### Ensemble results
+
+Best 4-model ensemble: XLM-R os1 + RobeCzech para + RobeCzech morph + GPT-4.1-mini (weighted F1 t=0.4).
+
+**F1 = 0.738** (P=0.747, R=0.730) — beats best single model (0.714) by +2.4%.
+
+See `reports/ensemble.md` for full sweep results.
+
+### GPT-4.1-mini zero-shot (row 22)
+
+Individual F1=0.384 — low precision (0.514) and recall (0.307). But finds 224 unique entities missed by all fine-tuned models, including rare terms ("mezenchymální tumor", "PKU") and complex spans. Complementarity with RobeCzech: 65.8%. Cost: ~$0.40 for 252 docs.
 
 ---
 

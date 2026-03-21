@@ -196,7 +196,7 @@ def phase2_ner(translated, model_name, device, entity_type, score_threshold, wor
                     "en_text": ent["text"].strip(),
                     "en_type": ent["type"],
                     "target_type": target_type.upper(),
-                    "score": ent["score"],
+                    "score": float(ent["score"]),
                     "sent_idx": sent_idx,
                 })
         ner_results[doc_id] = doc_entities

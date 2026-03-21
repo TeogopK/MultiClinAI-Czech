@@ -279,6 +279,30 @@ def parse_llm_response(response: str, text: str) -> list[dict]:
 # Dataset prediction
 # ---------------------------------------------------------------------------
 
+def _process_doc(doc, entity_types, model, output_dir):
+    """Process a single document: call LLM, parse, write BRAT. Thread-safe."""
+    messages = build_messages(doc["text"], entity_types)
+    try:
+        response = call_openai(messages, model=model)
+        entities = parse_llm_response(response, doc["text"])
+    except Exception as e:
+        print(f"  {doc['doc_id']} — ERROR: {e}", flush=True)
+        return doc["doc_id"], []
+
+    # Write .ann file
+    ann_lines = [
+        f"T{j}\t{ent['type']} {ent['start']} {ent['end']}\t{ent['text']}"
+        for j, ent in enumerate(entities, 1)
+    ]
+    (output_dir / f"{doc['doc_id']}.ann").write_text(
+        "\n".join(ann_lines), encoding="utf-8"
+    )
+    (output_dir / f"{doc['doc_id']}.txt").write_text(
+        doc["text"], encoding="utf-8"
+    )
+    return doc["doc_id"], entities
+
+
 def predict_dataset(
     split: str,
     entity_types: list[str],
@@ -287,9 +311,13 @@ def predict_dataset(
     delay: float = 0.5,
     dry_run: bool = False,
     max_docs: int = 0,
+    workers: int = 1,
 ) -> dict:
     """Run LLM prediction on all documents in a split.
-    If max_docs > 0, only process that many documents."""
+    If max_docs > 0, only process that many documents.
+    If workers > 1, use ThreadPoolExecutor for parallel API calls."""
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # Load documents from the first available entity type's directory
@@ -303,10 +331,7 @@ def predict_dataset(
         return {}
 
     # Also load gold annotations for all entity types (for evaluation)
-    # Doc IDs differ across entity types (disease-0011 vs symptom-0011),
-    # but the numeric suffix matches and the text is identical.
     def _doc_number(doc_id: str) -> str:
-        """Extract numeric suffix from doc ID for cross-type matching."""
         parts = doc_id.rsplit("-", 1)
         return parts[-1] if len(parts) > 1 else doc_id
 
@@ -327,66 +352,57 @@ def predict_dataset(
         docs = docs[:max_docs]
 
     total = len(docs)
-    total_predicted = 0
-    total_gold = 0
     results_by_type = {et: {"tp": 0, "fp": 0, "fn": 0} for et in entity_types}
 
-    print(f"Predicting {total} documents with {model}...")
+    print(f"Predicting {total} documents with {model} ({workers} workers)...")
     if dry_run:
         print("\n=== DRY RUN — showing prompt for first document ===\n")
+        messages = build_messages(docs[0]["text"], entity_types)
+        print(json.dumps(messages, ensure_ascii=False, indent=2))
+        print(f"\n(Total tokens estimate: ~{sum(len(m['content']) for m in messages) // 3})")
+        return {}
 
-    for i, doc in enumerate(docs):
-        messages = build_messages(doc["text"], entity_types)
+    done = 0
+    total_predicted = 0
 
-        if dry_run:
-            print(json.dumps(messages, ensure_ascii=False, indent=2))
-            print(f"\n(Total tokens estimate: ~{sum(len(m['content']) for m in messages) // 3})")
-            return {}
+    def _on_result(doc_id, entities):
+        nonlocal done, total_predicted
+        done += 1
+        total_predicted += len(entities)
 
-        try:
-            response = call_openai(messages, model=model)
-            entities = parse_llm_response(response, doc["text"])
-        except Exception as e:
-            print(f"  [{i+1}/{total}] {doc['doc_id']} — ERROR: {e}")
-            entities = []
-            time.sleep(2)
-            continue
-
-        # Write .ann file
-        ann_lines = []
-        for j, ent in enumerate(entities, 1):
-            ann_lines.append(f"T{j}\t{ent['type']} {ent['start']} {ent['end']}\t{ent['text']}")
-        ann_path = output_dir / f"{doc['doc_id']}.ann"
-        ann_path.write_text("\n".join(ann_lines), encoding="utf-8")
-
-        # Also copy .txt file
-        txt_path = output_dir / f"{doc['doc_id']}.txt"
-        txt_path.write_text(doc["text"], encoding="utf-8")
-
-        # Quick entity-level eval per type
-        doc_num = _doc_number(doc["doc_id"])
+        # Eval
+        doc_num = _doc_number(doc_id)
         for et in entity_types:
             gold_ents = set()
-            for s, e, _ in gold_by_doc[doc_num]["entities"].get(et, []):
+            for s, e, _ in gold_by_doc.get(doc_num, {}).get("entities", {}).get(et, []):
                 gold_ents.add((s, e))
             pred_ents = set()
             for ent in entities:
                 if ent["type"] == et.upper():
                     pred_ents.add((ent["start"], ent["end"]))
-
             tp = len(gold_ents & pred_ents)
             results_by_type[et]["tp"] += tp
             results_by_type[et]["fp"] += len(pred_ents) - tp
             results_by_type[et]["fn"] += len(gold_ents) - tp
 
-        n_ents = len(entities)
-        total_predicted += n_ents
+        if done % 25 == 0 or done == total:
+            print(f"  [{done}/{total}] {total_predicted} entities predicted so far", flush=True)
 
-        if (i + 1) % 10 == 0 or i == 0:
-            print(f"  [{i+1}/{total}] {doc['doc_id']} — {n_ents} entities predicted")
-
-        if delay > 0:
-            time.sleep(delay)
+    if workers > 1:
+        with ThreadPoolExecutor(max_workers=workers) as executor:
+            futures = {
+                executor.submit(_process_doc, doc, entity_types, model, output_dir): doc
+                for doc in docs
+            }
+            for future in as_completed(futures):
+                doc_id, entities = future.result()
+                _on_result(doc_id, entities)
+    else:
+        for doc in docs:
+            doc_id, entities = _process_doc(doc, entity_types, model, output_dir)
+            _on_result(doc_id, entities)
+            if delay > 0:
+                time.sleep(delay)
 
     # Print results
     print(f"\n{'='*50}")
@@ -426,6 +442,8 @@ def main():
                         help="Show prompt for first doc without making API calls")
     parser.add_argument("--max_docs", type=int, default=0,
                         help="Max documents to process (0 = all)")
+    parser.add_argument("--workers", type=int, default=1,
+                        help="Number of parallel API workers (default: 1)")
     args = parser.parse_args()
 
     if not args.dry_run and not os.environ.get("OPENAI_API_KEY"):
@@ -441,6 +459,7 @@ def main():
         delay=args.delay,
         dry_run=args.dry_run,
         max_docs=args.max_docs,
+        workers=args.workers,
     )
 
 
