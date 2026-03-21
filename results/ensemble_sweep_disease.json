@@ -1,0 +1,659 @@
+[
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + NCBI] K=2",
+    "P": 0.7321,
+    "R": 0.6962,
+    "F1": 0.7137,
+    "TP": 3279,
+    "FP": 1200,
+    "FN": 1431
+  },
+  {
+    "strategy": "weighted P, t=0.4 (1.369)",
+    "P": 0.7165,
+    "R": 0.7108,
+    "F1": 0.7136,
+    "TP": 3348,
+    "FP": 1325,
+    "FN": 1362
+  },
+  {
+    "strategy": "threshold K=3 (majority)",
+    "P": 0.732,
+    "R": 0.6958,
+    "F1": 0.7134,
+    "TP": 3277,
+    "FP": 1200,
+    "FN": 1433
+  },
+  {
+    "strategy": "weighted F1, t=0.5 (1.719)",
+    "P": 0.732,
+    "R": 0.6958,
+    "F1": 0.7134,
+    "TP": 3277,
+    "FP": 1200,
+    "FN": 1433
+  },
+  {
+    "strategy": "weighted P, t=0.5 (1.712)",
+    "P": 0.732,
+    "R": 0.6958,
+    "F1": 0.7134,
+    "TP": 3277,
+    "FP": 1200,
+    "FN": 1433
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + XLM-R para] K=2",
+    "P": 0.7255,
+    "R": 0.6987,
+    "F1": 0.7119,
+    "TP": 3291,
+    "FP": 1245,
+    "FN": 1419
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + NCBI] K=2",
+    "P": 0.7325,
+    "R": 0.6924,
+    "F1": 0.7119,
+    "TP": 3261,
+    "FP": 1191,
+    "FN": 1449
+  },
+  {
+    "strategy": "subset [RobeCzech + XLM-R para + NCBI] K=2",
+    "P": 0.7312,
+    "R": 0.6932,
+    "F1": 0.7117,
+    "TP": 3265,
+    "FP": 1200,
+    "FN": 1445
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF] K=2",
+    "P": 0.7244,
+    "R": 0.6985,
+    "F1": 0.7112,
+    "TP": 3290,
+    "FP": 1252,
+    "FN": 1420
+  },
+  {
+    "strategy": "weighted P, t=0.6 (2.054)",
+    "P": 0.7464,
+    "R": 0.6786,
+    "F1": 0.7109,
+    "TP": 3196,
+    "FP": 1086,
+    "FN": 1514
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + XLM-R para] K=2",
+    "P": 0.7256,
+    "R": 0.6968,
+    "F1": 0.7109,
+    "TP": 3282,
+    "FP": 1241,
+    "FN": 1428
+  },
+  {
+    "strategy": "weighted F1, t=0.4 (1.376)",
+    "P": 0.7054,
+    "R": 0.7149,
+    "F1": 0.7101,
+    "TP": 3367,
+    "FP": 1406,
+    "FN": 1343
+  },
+  {
+    "strategy": "weighted F1, t=0.6 (2.063)",
+    "P": 0.7609,
+    "R": 0.6654,
+    "F1": 0.7099,
+    "TP": 3134,
+    "FP": 985,
+    "FN": 1576
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + XLM-R para + NCBI] K=2",
+    "P": 0.706,
+    "R": 0.7134,
+    "F1": 0.7097,
+    "TP": 3360,
+    "FP": 1399,
+    "FN": 1350
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + XLM-R para + NCBI] K=2",
+    "P": 0.7073,
+    "R": 0.7115,
+    "F1": 0.7094,
+    "TP": 3351,
+    "FP": 1387,
+    "FN": 1359
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + XLM-R para] K=2",
+    "P": 0.7044,
+    "R": 0.7142,
+    "F1": 0.7093,
+    "TP": 3364,
+    "FP": 1412,
+    "FN": 1346
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + NCBI] K=2",
+    "P": 0.7055,
+    "R": 0.7125,
+    "F1": 0.709,
+    "TP": 3356,
+    "FP": 1401,
+    "FN": 1354
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + NCBI] K=2",
+    "P": 0.7201,
+    "R": 0.6921,
+    "F1": 0.7059,
+    "TP": 3260,
+    "FP": 1267,
+    "FN": 1450
+  },
+  {
+    "strategy": "subset [CRF + XLM-R para + NCBI] K=2",
+    "P": 0.7214,
+    "R": 0.6904,
+    "F1": 0.7056,
+    "TP": 3252,
+    "FP": 1256,
+    "FN": 1458
+  },
+  {
+    "strategy": "threshold K=2",
+    "P": 0.6923,
+    "R": 0.7189,
+    "F1": 0.7053,
+    "TP": 3386,
+    "FP": 1505,
+    "FN": 1324
+  },
+  {
+    "strategy": "weighted F1, t=0.3 (1.032)",
+    "P": 0.6923,
+    "R": 0.7189,
+    "F1": 0.7053,
+    "TP": 3386,
+    "FP": 1505,
+    "FN": 1324
+  },
+  {
+    "strategy": "weighted P, t=0.3 (1.027)",
+    "P": 0.6923,
+    "R": 0.7189,
+    "F1": 0.7053,
+    "TP": 3386,
+    "FP": 1505,
+    "FN": 1324
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + XLM-R para + NCBI] K=2",
+    "P": 0.6923,
+    "R": 0.7189,
+    "F1": 0.7053,
+    "TP": 3386,
+    "FP": 1505,
+    "FN": 1324
+  },
+  {
+    "strategy": "subset [XLM-R os1 + XLM-R para + NCBI] K=2",
+    "P": 0.7194,
+    "R": 0.6907,
+    "F1": 0.7047,
+    "TP": 3253,
+    "FP": 1269,
+    "FN": 1457
+  },
+  {
+    "strategy": "threshold K=4 (majority)",
+    "P": 0.7737,
+    "R": 0.6467,
+    "F1": 0.7045,
+    "TP": 3046,
+    "FP": 891,
+    "FN": 1664
+  },
+  {
+    "strategy": "weighted F1, t=0.7 (2.407)",
+    "P": 0.7737,
+    "R": 0.6467,
+    "F1": 0.7045,
+    "TP": 3046,
+    "FP": 891,
+    "FN": 1664
+  },
+  {
+    "strategy": "weighted P, t=0.7 (2.396)",
+    "P": 0.7737,
+    "R": 0.6467,
+    "F1": 0.7045,
+    "TP": 3046,
+    "FP": 891,
+    "FN": 1664
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + XLM-R para] K=2",
+    "P": 0.7143,
+    "R": 0.6945,
+    "F1": 0.7043,
+    "TP": 3271,
+    "FP": 1308,
+    "FN": 1439
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + XLM-R para + NCBI] K=2",
+    "P": 0.6996,
+    "R": 0.7072,
+    "F1": 0.7034,
+    "TP": 3331,
+    "FP": 1430,
+    "FN": 1379
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech] K=2",
+    "P": 0.804,
+    "R": 0.6246,
+    "F1": 0.7031,
+    "TP": 2942,
+    "FP": 717,
+    "FN": 1768
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF] K=2",
+    "P": 0.8079,
+    "R": 0.6206,
+    "F1": 0.702,
+    "TP": 2923,
+    "FP": 695,
+    "FN": 1787
+  },
+  {
+    "strategy": "subset [RobeCzech + XLM-R para] K=2",
+    "P": 0.8092,
+    "R": 0.6187,
+    "F1": 0.7012,
+    "TP": 2914,
+    "FP": 687,
+    "FN": 1796
+  },
+  {
+    "strategy": "weighted F1, t=0.8 (2.751)",
+    "P": 0.8263,
+    "R": 0.604,
+    "F1": 0.6979,
+    "TP": 2845,
+    "FP": 598,
+    "FN": 1865
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF] K=2",
+    "P": 0.7485,
+    "R": 0.6495,
+    "F1": 0.6955,
+    "TP": 3059,
+    "FP": 1028,
+    "FN": 1651
+  },
+  {
+    "strategy": "subset [XLM-R os1 + XLM-R para] K=2",
+    "P": 0.751,
+    "R": 0.6461,
+    "F1": 0.6946,
+    "TP": 3043,
+    "FP": 1009,
+    "FN": 1667
+  },
+  {
+    "strategy": "subset [RobeCzech + NCBI] K=2",
+    "P": 0.8084,
+    "R": 0.6083,
+    "F1": 0.6942,
+    "TP": 2865,
+    "FP": 679,
+    "FN": 1845
+  },
+  {
+    "strategy": "subset [CRF + XLM-R para] K=2",
+    "P": 0.7515,
+    "R": 0.6414,
+    "F1": 0.6921,
+    "TP": 3021,
+    "FP": 999,
+    "FN": 1689
+  },
+  {
+    "strategy": "subset [XLM-R os1 + NCBI] K=2",
+    "P": 0.7648,
+    "R": 0.6268,
+    "F1": 0.6889,
+    "TP": 2952,
+    "FP": 908,
+    "FN": 1758
+  },
+  {
+    "strategy": "two_tier (trust top-1: RobeCzech)",
+    "P": 0.6578,
+    "R": 0.7212,
+    "F1": 0.6881,
+    "TP": 3397,
+    "FP": 1767,
+    "FN": 1313
+  },
+  {
+    "strategy": "subset [CRF + NCBI] K=2",
+    "P": 0.7637,
+    "R": 0.6253,
+    "F1": 0.6876,
+    "TP": 2945,
+    "FP": 911,
+    "FN": 1765
+  },
+  {
+    "strategy": "subset [XLM-R os1 + XLM-R para] K=1",
+    "P": 0.6605,
+    "R": 0.7089,
+    "F1": 0.6839,
+    "TP": 3339,
+    "FP": 1716,
+    "FN": 1371
+  },
+  {
+    "strategy": "subset [XLM-R para + NCBI] K=2",
+    "P": 0.7605,
+    "R": 0.6204,
+    "F1": 0.6833,
+    "TP": 2922,
+    "FP": 920,
+    "FN": 1788
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF] K=1",
+    "P": 0.6578,
+    "R": 0.7102,
+    "F1": 0.683,
+    "TP": 3345,
+    "FP": 1740,
+    "FN": 1365
+  },
+  {
+    "strategy": "subset [RobeCzech + XLM-R para] K=1",
+    "P": 0.6511,
+    "R": 0.7168,
+    "F1": 0.6824,
+    "TP": 3376,
+    "FP": 1809,
+    "FN": 1334
+  },
+  {
+    "strategy": "subset [CRF + XLM-R para] K=1",
+    "P": 0.6601,
+    "R": 0.7051,
+    "F1": 0.6819,
+    "TP": 3321,
+    "FP": 1710,
+    "FN": 1389
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF] K=1",
+    "P": 0.6475,
+    "R": 0.7155,
+    "F1": 0.6798,
+    "TP": 3370,
+    "FP": 1835,
+    "FN": 1340
+  },
+  {
+    "strategy": "two_tier (trust top-2: RobeCzech, XLM-R para)",
+    "P": 0.6426,
+    "R": 0.7193,
+    "F1": 0.6788,
+    "TP": 3388,
+    "FP": 1884,
+    "FN": 1322
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech] K=1",
+    "P": 0.6455,
+    "R": 0.7157,
+    "F1": 0.6788,
+    "TP": 3371,
+    "FP": 1851,
+    "FN": 1339
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + XLM-R para] K=1",
+    "P": 0.6413,
+    "R": 0.7106,
+    "F1": 0.6742,
+    "TP": 3347,
+    "FP": 1872,
+    "FN": 1363
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + XLM-R para] K=1",
+    "P": 0.6308,
+    "R": 0.7163,
+    "F1": 0.6708,
+    "TP": 3374,
+    "FP": 1975,
+    "FN": 1336
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + XLM-R para] K=1",
+    "P": 0.6292,
+    "R": 0.7172,
+    "F1": 0.6703,
+    "TP": 3378,
+    "FP": 1991,
+    "FN": 1332
+  },
+  {
+    "strategy": "subset [CRF + NCBI] K=1",
+    "P": 0.6425,
+    "R": 0.7002,
+    "F1": 0.6701,
+    "TP": 3298,
+    "FP": 1835,
+    "FN": 1412
+  },
+  {
+    "strategy": "threshold K=5 (majority)",
+    "P": 0.8506,
+    "R": 0.5524,
+    "F1": 0.6698,
+    "TP": 2602,
+    "FP": 457,
+    "FN": 2108
+  },
+  {
+    "strategy": "two_tier (trust top-3: RobeCzech, XLM-R para, XLM-R os1)",
+    "P": 0.6276,
+    "R": 0.7178,
+    "F1": 0.6697,
+    "TP": 3381,
+    "FP": 2006,
+    "FN": 1329
+  },
+  {
+    "strategy": "subset [XLM-R para + NCBI] K=1",
+    "P": 0.6422,
+    "R": 0.6992,
+    "F1": 0.6694,
+    "TP": 3293,
+    "FP": 1835,
+    "FN": 1417
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF] K=1",
+    "P": 0.6271,
+    "R": 0.7174,
+    "F1": 0.6692,
+    "TP": 3379,
+    "FP": 2009,
+    "FN": 1331
+  },
+  {
+    "strategy": "subset [XLM-R os1 + NCBI] K=1",
+    "P": 0.6389,
+    "R": 0.7008,
+    "F1": 0.6684,
+    "TP": 3301,
+    "FP": 1866,
+    "FN": 1409
+  },
+  {
+    "strategy": "subset [RobeCzech + NCBI] K=1",
+    "P": 0.6306,
+    "R": 0.7051,
+    "F1": 0.6658,
+    "TP": 3321,
+    "FP": 1945,
+    "FN": 1389
+  },
+  {
+    "strategy": "subset [XLM-R os1 + XLM-R para + NCBI] K=1",
+    "P": 0.6246,
+    "R": 0.7053,
+    "F1": 0.6625,
+    "TP": 3322,
+    "FP": 1997,
+    "FN": 1388
+  },
+  {
+    "strategy": "subset [CRF + XLM-R para + NCBI] K=1",
+    "P": 0.6258,
+    "R": 0.7034,
+    "F1": 0.6623,
+    "TP": 3313,
+    "FP": 1981,
+    "FN": 1397
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + NCBI] K=1",
+    "P": 0.6234,
+    "R": 0.7053,
+    "F1": 0.6618,
+    "TP": 3322,
+    "FP": 2007,
+    "FN": 1388
+  },
+  {
+    "strategy": "two_tier (trust top-4: RobeCzech, XLM-R para, XLM-R os1, CRF)",
+    "P": 0.6149,
+    "R": 0.7151,
+    "F1": 0.6612,
+    "TP": 3368,
+    "FP": 2109,
+    "FN": 1342
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + XLM-R para] K=1",
+    "P": 0.6149,
+    "R": 0.7151,
+    "F1": 0.6612,
+    "TP": 3368,
+    "FP": 2109,
+    "FN": 1342
+  },
+  {
+    "strategy": "subset [RobeCzech + XLM-R para + NCBI] K=1",
+    "P": 0.6142,
+    "R": 0.7089,
+    "F1": 0.6582,
+    "TP": 3339,
+    "FP": 2097,
+    "FN": 1371
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + NCBI] K=1",
+    "P": 0.6134,
+    "R": 0.7093,
+    "F1": 0.6579,
+    "TP": 3341,
+    "FP": 2106,
+    "FN": 1369
+  },
+  {
+    "strategy": "subset [XLM-R os1 + CRF + XLM-R para + NCBI] K=1",
+    "P": 0.6122,
+    "R": 0.7051,
+    "F1": 0.6554,
+    "TP": 3321,
+    "FP": 2104,
+    "FN": 1389
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + NCBI] K=1",
+    "P": 0.6104,
+    "R": 0.7074,
+    "F1": 0.6553,
+    "TP": 3332,
+    "FP": 2127,
+    "FN": 1378
+  },
+  {
+    "strategy": "subset [RobeCzech + CRF + XLM-R para + NCBI] K=1",
+    "P": 0.6019,
+    "R": 0.7087,
+    "F1": 0.6509,
+    "TP": 3338,
+    "FP": 2208,
+    "FN": 1372
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + XLM-R para + NCBI] K=1",
+    "P": 0.5995,
+    "R": 0.7085,
+    "F1": 0.6495,
+    "TP": 3337,
+    "FP": 2229,
+    "FN": 1373
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + NCBI] K=1",
+    "P": 0.5985,
+    "R": 0.7083,
+    "F1": 0.6488,
+    "TP": 3336,
+    "FP": 2238,
+    "FN": 1374
+  },
+  {
+    "strategy": "threshold K=1 (union)",
+    "P": 0.5897,
+    "R": 0.7068,
+    "F1": 0.643,
+    "TP": 3329,
+    "FP": 2316,
+    "FN": 1381
+  },
+  {
+    "strategy": "two_tier (trust top-5: RobeCzech, XLM-R para, XLM-R os1, CRF, NCBI)",
+    "P": 0.5897,
+    "R": 0.7068,
+    "F1": 0.643,
+    "TP": 3329,
+    "FP": 2316,
+    "FN": 1381
+  },
+  {
+    "strategy": "subset [XLM-R os1 + RobeCzech + CRF + XLM-R para + NCBI] K=1",
+    "P": 0.5897,
+    "R": 0.7068,
+    "F1": 0.643,
+    "TP": 3329,
+    "FP": 2316,
+    "FN": 1381
+  }
+]
