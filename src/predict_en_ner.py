@@ -289,8 +289,6 @@ def phase3_awesome_align(docs, translated, ner_results, device, work_dir,
     align_model = AutoModel.from_pretrained(ALIGN_MODEL).to(device)
     align_model.eval()
 
-    import itertools
-
     all_predictions = {}
     total_found = 0
     total_missed = 0
@@ -316,85 +314,78 @@ def phase3_awesome_align(docs, translated, ner_results, device, work_dir,
             if not cz_text.strip() or not en_text.strip():
                 continue
 
-            # Get word-level alignment via awesome-align
             cz_words = _get_word_char_spans(cz_text)
             en_words = _get_word_char_spans(en_text)
             if not cz_words or not en_words:
                 continue
 
-            cz_word_texts = [cz_text[s:e] for s, e in cz_words]
-            en_word_texts = [en_text[s:e] for s, e in en_words]
-
-            # Tokenize for awesome-align: "src_word ||| tgt_word"
-            sent_pair = " ".join(cz_word_texts) + " ||| " + " ".join(en_word_texts)
-            encoded = align_tok(sent_pair, return_tensors="pt",
-                                padding=True, truncation=True, max_length=512)
-            encoded = {k: v.to(device) for k, v in encoded.items()}
-
-            with torch.no_grad():
-                out = align_model(**encoded)
-
-            # Extract alignments using the model's align method
-            # awesome-align uses softmax on attention to extract alignments
-            # Simpler approach: use the model's built-in extraction
             try:
-                # Get sub-word to word mapping
+                # Tokenize as sentence pair: tokenizer(src, tgt)
+                encoded = align_tok(cz_text, en_text, return_tensors="pt",
+                                    padding=True, truncation=True, max_length=512)
+                encoded = {k: v.to(device) for k, v in encoded.items()}
+
+                with torch.no_grad():
+                    out = align_model(**encoded)
+
+                # Find [SEP] positions to split src/tgt tokens
                 tokens = align_tok.convert_ids_to_tokens(encoded["input_ids"][0])
-                sep_idx = tokens.index("|||")
-                src_tokens = tokens[1:sep_idx]  # skip [CLS]
-                tgt_tokens = tokens[sep_idx + 1:-1]  # skip [SEP]
+                sep_positions = [i for i, t in enumerate(tokens) if t == "[SEP]"]
+                if len(sep_positions) < 2:
+                    total_missed += len(sent_ents)
+                    continue
 
-                # Map sub-tokens to word indices
-                src_word_ids = []
-                wi = 0
-                for t in src_tokens:
-                    src_word_ids.append(wi)
-                    if not t.startswith("##") or t == src_tokens[-1]:
-                        # Check if next token is a continuation
-                        pass
-                    idx = len(src_word_ids) - 1
-                    if idx + 1 < len(src_tokens) and not src_tokens[idx + 1].startswith("##"):
-                        wi += 1
-                # Simpler: use offset mapping
-                # Actually let's use a simpler alignment extraction
+                src_start, src_end = 1, sep_positions[0]
+                tgt_start, tgt_end = sep_positions[0] + 1, sep_positions[1]
+                src_toks = tokens[src_start:src_end]
+                tgt_toks = tokens[tgt_start:tgt_end]
 
-                # Use attention-based alignment from hidden states
-                hidden = out.last_hidden_state[0]  # (seq_len, dim)
-                src_hidden = hidden[1:sep_idx]  # CZ tokens
-                tgt_hidden = hidden[sep_idx + 1:-1]  # EN tokens
+                if not src_toks or not tgt_toks:
+                    total_missed += len(sent_ents)
+                    continue
 
-                # Compute similarity matrix
-                sim = torch.matmul(src_hidden, tgt_hidden.T)  # (src_len, tgt_len)
+                # Compute similarity and bidirectional argmax alignment
+                hidden = out.last_hidden_state[0]
+                src_h = hidden[src_start:src_end]
+                tgt_h = hidden[tgt_start:tgt_end]
 
-                # Bidirectional argmax alignment (intersection)
-                fwd = sim.argmax(dim=1)   # for each src token, best tgt
-                bwd = sim.argmax(dim=0)   # for each tgt token, best src
+                sim = torch.matmul(src_h, tgt_h.T)
+                fwd = sim.argmax(dim=1)
+                bwd = sim.argmax(dim=0)
 
-                # Build sub-token alignment pairs
                 subtoken_align = set()
-                for si in range(len(src_hidden)):
+                for si in range(len(src_toks)):
                     ti = fwd[si].item()
                     if bwd[ti].item() == si:
                         subtoken_align.add((si, ti))
 
-                # Map sub-tokens back to word indices
-                def subtok_to_word(tokens_list, n_words):
-                    """Map each sub-token index to its word index."""
+                # Map sub-tokens to word indices
+                def subtok_to_word(toks, word_spans, text):
+                    """Map each sub-token to its word index by character position."""
                     mapping = []
+                    char_pos = 0
                     wi = 0
-                    for i, t in enumerate(tokens_list):
-                        if wi >= n_words:
-                            wi = n_words - 1
-                        mapping.append(wi)
-                        # Move to next word if next token doesn't start with ##
-                        if i + 1 < len(tokens_list) and not tokens_list[i + 1].startswith("##"):
-                            wi += 1
+                    for t in toks:
+                        # Strip ## prefix for matching
+                        clean = t[2:] if t.startswith("##") else t
+                        if wi < len(word_spans) - 1:
+                            # Advance word index if we've passed current word
+                            next_word_start = word_spans[wi + 1][0] if wi + 1 < len(word_spans) else len(text)
+                            if not t.startswith("##"):
+                                # New word token — find which word it belongs to
+                                for candidate_wi in range(wi, len(word_spans)):
+                                    ws, we = word_spans[candidate_wi]
+                                    word_text = text[ws:we].lower()
+                                    if word_text.startswith(clean.lower()) or clean.lower().startswith(word_text[:len(clean)]):
+                                        wi = candidate_wi
+                                        break
+                        mapping.append(min(wi, len(word_spans) - 1))
                     return mapping
 
-                src_map = subtok_to_word(src_tokens, len(cz_words))
-                tgt_map = subtok_to_word(tgt_tokens, len(en_words))
+                src_map = subtok_to_word(src_toks, cz_words, cz_text)
+                tgt_map = subtok_to_word(tgt_toks, en_words, en_text)
 
-                # Word-level alignment: EN word idx → set of CZ word indices
+                # Build EN word → CZ word alignment
                 en_to_cz = {}
                 for si, ti in subtoken_align:
                     if si < len(src_map) and ti < len(tgt_map):
@@ -402,21 +393,20 @@ def phase3_awesome_align(docs, translated, ner_results, device, work_dir,
                         en_wi = tgt_map[ti]
                         en_to_cz.setdefault(en_wi, set()).add(cz_wi)
 
-            except Exception as e:
+            except Exception:
                 total_missed += len(sent_ents)
                 continue
 
-            # Now project each English entity to Czech
+            # Project each English entity to Czech
             for ent in sent_ents:
                 en_span = ent["en_text"]
                 if not en_span or len(en_span.strip()) < min_entity_len:
                     total_filtered += 1
                     continue
 
-                # Find entity position in English sentence
+                # Find entity char position in English sentence
                 ent_start = en_text.find(en_span)
                 if ent_start == -1:
-                    # Try case-insensitive
                     ent_start = en_text.lower().find(en_span.lower())
                 if ent_start == -1:
                     total_missed += 1
@@ -440,7 +430,6 @@ def phase3_awesome_align(docs, translated, ner_results, device, work_dir,
                     total_missed += 1
                     continue
 
-                # Get Czech char span from aligned words
                 cz_start = min(cz_words[wi][0] for wi in cz_word_idxs)
                 cz_end = max(cz_words[wi][1] for wi in cz_word_idxs)
                 matched = cz_text[cz_start:cz_end]
@@ -467,7 +456,6 @@ def phase3_awesome_align(docs, translated, ner_results, device, work_dir,
             total_preds = sum(len(v) for v in all_predictions.values())
             print(f"  [{di+1}/{len(docs)}] {total_preds} predictions so far", flush=True)
 
-    # Free GPU memory
     del align_model, align_tok
     torch.cuda.empty_cache() if device == "cuda" else None
 
