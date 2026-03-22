@@ -169,50 +169,68 @@ def phase1_translate(docs, device, work_dir):
 # ---------------------------------------------------------------------------
 
 def phase2_ner(translated, model_name, device, entity_type, score_threshold, work_dir):
-    """Run English NER on all translated sentences. Saves intermediate JSON."""
+    """Run English NER on all translated sentences. Saves per-doc JSONL incrementally."""
     print(f"\n=== Phase 2: English NER ({model_name}) ===")
     ner_model = load_en_ner_pipeline(model_name, device)
     type_map = SYMPTOM_TYPE_MAP if entity_type == "symptom" else EN_TO_CZ_TYPE_MAP
 
-    ner_results = {}  # doc_id -> [{en_entity_text, en_type, target_type, score, sent_idx}, ...]
+    out_path = work_dir / "phase2_ner.jsonl"
+    ner_results = {}
+
+    # Resume: load already-processed docs
+    if out_path.exists():
+        for line in out_path.read_text(encoding="utf-8").strip().split("\n"):
+            if line.strip():
+                entry = json.loads(line)
+                ner_results[entry["doc_id"]] = entry["entities"]
+        print(f"  Resuming: {len(ner_results)} docs already processed")
 
     doc_ids = list(translated.keys())
-    for i, doc_id in enumerate(doc_ids):
-        doc_entities = []
-        for sent_idx, sent in enumerate(translated[doc_id]):
-            en_text = sent["en_text"]
-            if not en_text.strip():
-                continue
-            en_entities = run_en_ner(en_text, ner_model)
-            for ent in en_entities:
-                target_type = type_map.get(ent["type"])
-                if target_type is None:
-                    continue
-                if target_type.upper() != entity_type.upper():
-                    continue
-                if ent["score"] < score_threshold:
-                    continue
-                doc_entities.append({
-                    "en_text": ent["text"].strip(),
-                    "en_type": ent["type"],
-                    "target_type": target_type.upper(),
-                    "score": float(ent["score"]),
-                    "sent_idx": sent_idx,
-                })
-        ner_results[doc_id] = doc_entities
+    total_new = 0
 
-        if (i + 1) % 25 == 0:
-            total_ents = sum(len(v) for v in ner_results.values())
-            print(f"  [{i+1}/{len(doc_ids)}] {total_ents} entities found so far")
+    with open(out_path, "a", encoding="utf-8") as f:
+        for i, doc_id in enumerate(doc_ids):
+            if doc_id in ner_results:
+                continue  # already done
+
+            doc_entities = []
+            for sent_idx, sent in enumerate(translated[doc_id]):
+                en_text = sent["en_text"]
+                if not en_text.strip():
+                    continue
+                en_entities = run_en_ner(en_text, ner_model)
+                for ent in en_entities:
+                    target_type = type_map.get(ent["type"])
+                    if target_type is None:
+                        continue
+                    if target_type.upper() != entity_type.upper():
+                        continue
+                    if ent["score"] < score_threshold:
+                        continue
+                    doc_entities.append({
+                        "en_text": ent["text"].strip(),
+                        "en_type": ent["type"],
+                        "target_type": target_type.upper(),
+                        "score": float(ent["score"]),
+                        "sent_idx": sent_idx,
+                    })
+            ner_results[doc_id] = doc_entities
+            total_new += 1
+
+            # Write immediately
+            f.write(json.dumps({"doc_id": doc_id, "entities": doc_entities}, ensure_ascii=False) + "\n")
+            f.flush()
+
+            if total_new % 25 == 0:
+                total_ents = sum(len(v) for v in ner_results.values())
+                print(f"  [{len(ner_results)}/{len(doc_ids)}] {total_ents} entities found so far", flush=True)
 
     # Free GPU memory
     del ner_model
     torch.cuda.empty_cache() if device == "cuda" else None
 
-    out_path = work_dir / "phase2_ner.json"
-    out_path.write_text(json.dumps(ner_results, ensure_ascii=False, indent=1), encoding="utf-8")
     total = sum(len(v) for v in ner_results.values())
-    print(f"Phase 2 done. {total} entities across {len(doc_ids)} docs. Saved to {out_path}")
+    print(f"Phase 2 done. {total} entities across {len(ner_results)} docs. Saved to {out_path}")
     return ner_results
 
 
@@ -456,9 +474,13 @@ def main():
                 args.entity_type, args.score_threshold, work_dir,
             )
         else:
-            p2_path = work_dir / "phase2_ner.json"
+            p2_path = work_dir / "phase2_ner.jsonl"
             print(f"Loading phase 2 from {p2_path}")
-            ner_results = json.loads(p2_path.read_text(encoding="utf-8"))
+            ner_results = {}
+            for line in p2_path.read_text(encoding="utf-8").strip().split("\n"):
+                if line.strip():
+                    entry = json.loads(line)
+                    ner_results[entry["doc_id"]] = entry["entities"]
 
         # Phase 3: EN→CZ alignment
         all_predictions = phase3_align(docs, translated, ner_results, args.device, work_dir)
