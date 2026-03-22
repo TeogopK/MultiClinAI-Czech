@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T20:54:18.895742",
+  "entity_type": "symptom",
+  "model_name": "xlm-roberta-base",
+  "head": "softmax",
+  "batch_size": 64,
+  "lr": 2e-05,
+  "epochs": 10,
+  "sentence_level": true,
+  "filter_o_sentences": false,
+  "extra_data_dirs": [
+    "data/augmented-symptom"
+  ],
+  "train_size": 103032,
+  "dev_size": 8545,
+  "metrics": {
+    "eval_loss": 0.3913,
+    "eval_precision": 0.639,
+    "eval_recall": 0.6845,
+    "eval_f1": 0.6609,
+    "eval_token_precision": 0.8039,
+    "eval_token_recall": 0.7732,
+    "eval_token_f1": 0.7883,
+    "eval_runtime": 5.9174,
+    "eval_samples_per_second": 1444.045,
+    "eval_steps_per_second": 11.323,
+    "epoch": 10.0
+  }
+}

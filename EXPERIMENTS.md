@@ -201,9 +201,9 @@ python src/train.py --entity_type disease --extra_data_dirs data/augmented-disea
 
 ### Exp 11: CZ→EN→NER Inference Pipeline (Ensemble with English Models)
 
-**Status: IN PROGRESS** — `src/predict_en_ner.py`
+**Status: DONE** — `src/predict_en_ner.py`
 
-Translate Czech test docs to English, run a strong English NER model, map entities back to Czech. Ensemble with our Czech XLM-R model for final predictions. No training needed — pure inference.
+Translate Czech test docs to English, run a strong English NER model, map entities back to Czech using awesome-align word alignment. Ensemble with our Czech XLM-R model for final predictions. No training needed — pure inference.
 
 **Reference**: Sallauka et al. (2025) "Weakly-Supervised Multilingual Medical NER" (doi:10.3390/app15105585)
 - Used Stanza i2b2 (F1=88.1%) as teacher model for auto-annotation
@@ -218,7 +218,7 @@ Translate Czech test docs to English, run a strong English NER model, map entiti
 | Source data | 29K English texts (2 HF datasets) | 792 NCBI Disease + 1006 Czech gold |
 | Auto-annotation | Stanza i2b2 (F1=88.1%) | Gold BRAT + Stanza for new data |
 | Translation | Helsinki-NLP MarianMT | Same, with marker-based alignment |
-| Entity alignment | awesome-align (word embeddings) | Marker tags — exact or discard (no false negatives) |
+| Entity alignment | awesome-align (word embeddings) | awesome-align (same technique) + back-translation fallback |
 | Augmentation | Sentence reordering + entity extraction | Morph synonyms + LLM paraphrase |
 | Model | BERT-base-cased per language | XLM-RoBERTa-base (multilingual) |
 | Loss | Focal loss | CrossEntropy (focal loss TODO) |
@@ -245,13 +245,29 @@ Translate Czech test docs to English, run a strong English NER model, map entiti
 2. **Voting ensemble**: Both models predict independently, keep entities found by both (intersection = high precision) or either (union = high recall).
 3. **Cascaded**: Czech model predicts first. For low-confidence regions, translate to English and get second opinion.
 
+**Results (252 dev docs, disease, awesome-align projection):**
+
+| Model | Alignment | P | R | F1 | TP | FP | Alignment Rate |
+|-------|-----------|---|---|----|----|----|---------------|
+| HUMADEX | back-translate | 0.061 | 0.071 | 0.065 | 332 | 5,143 | 40% |
+| HUMADEX | awesome-align | 0.025 | 0.075 | 0.037 | 353 | 13,884 | 80% |
+| **Stanza i2b2** | **awesome-align** | **0.083** | **0.152** | **0.107** | **714** | **7,919** | **91%** |
+
+**Key findings:**
+- Stanza i2b2 is 3x better than HUMADEX — more conservative predictions (9.9K vs 22K entities), 2x the TP
+- awesome-align gives much higher alignment rate (80-91%) than back-translation (40%), but also lets more noise through
+- Standalone F1 is too low for direct use, but 714 TP entities (15% recall) from a completely different approach adds ensemble diversity
+- Main bottleneck: English NER models over-predict PROBLEM entities and fragment spans (e.g. "leiomyosarcoma" split into "leio" + "myosarcoma of the" + "colon")
+
 **Pipeline:**
 ```bash
-# Run HUMADEX model on dev set
-PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model humadex --evaluate --max_docs 10
+# Stanza + awesome-align (recommended)
+PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model stanza --device cuda \
+    --output_dir output/en-ner-stanza-disease --evaluate --mode sequential --align_method awesome_align
 
-# Run Stanza i2b2 on dev set
-PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model stanza --evaluate --max_docs 10
+# HUMADEX + awesome-align
+PYTHONPATH=src python src/predict_en_ner.py --entity_type disease --split dev --model humadex --device cuda \
+    --output_dir output/en-ner-humadex-disease --evaluate --mode sequential --align_method awesome_align
 ```
 
 ### Exp 12: Focal Loss

@@ -32,6 +32,11 @@
 | 20 | XLM-R-base | softmax | morph+para+NCBI, doc, oversample 1x | disease | 0.659 | 0.721 | 0.689 | `--extra_data_dirs data/augmented-disease data/paraphrase-disease data/ncbi-disease-cz --batch_size 32 --epochs 10 --oversample 1 --max_extra_ratio 2` | DONE |
 | 21 | RobeCzech | softmax | morph+para, sentence-level | disease | 0.692 | 0.716 | 0.703 | `--model_name ufal/robeczech-base --extra_data_dirs data/augmented-disease data/paraphrase-disease --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 22 | GPT-4.1-mini | zero-shot | 3-shot prompt | disease | 0.514 | 0.307 | 0.384 | `--model gpt-4.1-mini --workers 10` | DONE |
+| 23 | Stanza i2b2 | CZ→EN→NER | awesome-align | disease | 0.083 | 0.152 | 0.107 | `--model stanza --align_method awesome_align` | DONE |
+| 24 | XLM-R-base | softmax | morph, sentence-level | symptom | 0.639 | 0.685 | 0.661 | `--entity_type symptom --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 25 | RobeCzech | softmax | morph, sentence-level | symptom | 0.645 | 0.681 | 0.663 | `--entity_type symptom --model_name ufal/robeczech-base --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 26 | XLM-R-base | softmax | morph, sent, oversample 1x | symptom | 0.644 | 0.689 | **0.666** | `--entity_type symptom --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
+| 27 | XLM-R-base | CRF | morph, sentence-level | symptom | — | — | — | `--entity_type symptom --use_crf --extra_data_dirs data/augmented-symptom --batch_size 32 --epochs 10 --sentence_level` | RUNNING (pod 3) |
 
 ### Already completed (from previous experiments)
 
