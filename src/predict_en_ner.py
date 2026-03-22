@@ -238,13 +238,24 @@ def phase2_ner(translated, model_name, device, entity_type, score_threshold, wor
 # Phase 3: EN → CZ back-translation + fuzzy alignment
 # ---------------------------------------------------------------------------
 
-def phase3_align(docs, translated, ner_results, device, work_dir):
+def _is_word_boundary(text, start, end):
+    """Check if span boundaries fall on word boundaries."""
+    if start > 0 and text[start - 1].isalnum():
+        return False
+    if end < len(text) and text[end].isalnum():
+        return False
+    return True
+
+
+def phase3_align(docs, translated, ner_results, device, work_dir,
+                 min_entity_len=3, fuzzy_threshold=0.90):
     """Back-translate English entities to Czech and align to original text."""
     from transformers import MarianMTModel, MarianTokenizer
     from translate import EN_CS_MODEL, translate_text
     from translate_external import _find_entity_in_text
 
     print(f"\n=== Phase 3: EN→CZ alignment ===")
+    print(f"  min_entity_len={min_entity_len}, fuzzy_threshold={fuzzy_threshold}")
     print(f"Loading {EN_CS_MODEL}...")
     tok = MarianTokenizer.from_pretrained(EN_CS_MODEL)
     model = MarianMTModel.from_pretrained(EN_CS_MODEL).to(device)
@@ -252,6 +263,7 @@ def phase3_align(docs, translated, ner_results, device, work_dir):
     all_predictions = {}  # doc_id -> [(start, end, type), ...]
     total_found = 0
     total_missed = 0
+    total_filtered = 0
 
     for doc in docs:
         doc_id = doc["doc_id"]
@@ -261,7 +273,8 @@ def phase3_align(docs, translated, ner_results, device, work_dir):
 
         for ent in entities:
             en_span = ent["en_text"]
-            if not en_span:
+            if not en_span or len(en_span.strip()) < min_entity_len:
+                total_filtered += 1
                 continue
 
             sent_idx = ent["sent_idx"]
@@ -272,18 +285,30 @@ def phase3_align(docs, translated, ner_results, device, work_dir):
             # Back-translate entity to Czech
             cz_span = translate_text(en_span, tok, model, device).strip()
 
-            # Find in original Czech sentence
+            # Find in original Czech sentence (with stricter fuzzy threshold)
             result = None
-            if cz_span:
-                result = _find_entity_in_text(cz_span, sent["cz_text"])
+            if cz_span and len(cz_span) >= min_entity_len:
+                result = _find_entity_in_text(cz_span, sent["cz_text"],
+                                              fuzzy_threshold=fuzzy_threshold)
             if result is None:
-                result = _find_entity_in_text(en_span, sent["cz_text"])
+                result = _find_entity_in_text(en_span, sent["cz_text"],
+                                              fuzzy_threshold=fuzzy_threshold)
 
             if result is None:
                 total_missed += 1
                 continue
 
             local_start, local_end = result
+            matched_text = sent["cz_text"][local_start:local_end]
+
+            # Filter: minimum length and word boundary checks
+            if len(matched_text.strip()) < min_entity_len:
+                total_filtered += 1
+                continue
+            if not _is_word_boundary(sent["cz_text"], local_start, local_end):
+                total_filtered += 1
+                continue
+
             doc_start = sent["sent_start"] + local_start
             doc_end = sent["sent_start"] + local_end
             doc_preds.append((doc_start, doc_end, ent["target_type"]))
@@ -303,8 +328,10 @@ def phase3_align(docs, translated, ner_results, device, work_dir):
     del model, tok
     torch.cuda.empty_cache() if device == "cuda" else None
 
-    print(f"Phase 3 done. Aligned {total_found}, missed {total_missed} "
-          f"({total_found/(total_found+total_missed):.0%} alignment rate)")
+    total_attempted = total_found + total_missed + total_filtered
+    print(f"Phase 3 done. Aligned {total_found}, missed {total_missed}, "
+          f"filtered {total_filtered} / {total_attempted} total "
+          f"({total_found/(total_found+total_missed) if (total_found+total_missed) else 0:.0%} alignment rate)")
     return all_predictions
 
 
@@ -441,6 +468,10 @@ def main():
     parser.add_argument("--max_docs", type=int, default=0,
                         help="Limit number of docs (0 = all)")
     parser.add_argument("--score_threshold", type=float, default=0.5)
+    parser.add_argument("--min_entity_len", type=int, default=3,
+                        help="Minimum character length for predicted entities")
+    parser.add_argument("--fuzzy_threshold", type=float, default=0.90,
+                        help="Fuzzy alignment threshold (0-1)")
     parser.add_argument("--mode", default="sequential",
                         choices=["sequential", "all_in_one"],
                         help="sequential: one model at a time (default); all_in_one: all models loaded together")
@@ -483,7 +514,9 @@ def main():
                     ner_results[entry["doc_id"]] = entry["entities"]
 
         # Phase 3: EN→CZ alignment
-        all_predictions = phase3_align(docs, translated, ner_results, args.device, work_dir)
+        all_predictions = phase3_align(docs, translated, ner_results, args.device, work_dir,
+                                       min_entity_len=args.min_entity_len,
+                                       fuzzy_threshold=args.fuzzy_threshold)
 
     else:
         # All-in-one mode
