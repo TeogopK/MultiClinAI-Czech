@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T21:46:55.757761",
+  "entity_type": "symptom",
+  "model_name": "ufal/robeczech-base",
+  "head": "softmax",
+  "batch_size": 64,
+  "lr": 2e-05,
+  "epochs": 10,
+  "sentence_level": true,
+  "filter_o_sentences": false,
+  "extra_data_dirs": [
+    "data/augmented-symptom"
+  ],
+  "train_size": 140465,
+  "dev_size": 8545,
+  "metrics": {
+    "eval_loss": 0.3879,
+    "eval_precision": 0.6521,
+    "eval_recall": 0.6857,
+    "eval_f1": 0.6685,
+    "eval_token_precision": 0.8114,
+    "eval_token_recall": 0.7676,
+    "eval_token_f1": 0.7889,
+    "eval_runtime": 5.7402,
+    "eval_samples_per_second": 1488.63,
+    "eval_steps_per_second": 11.672,
+    "epoch": 10.0
+  }
+}

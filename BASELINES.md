@@ -36,7 +36,11 @@
 | 24 | XLM-R-base | softmax | morph, sentence-level | symptom | 0.639 | 0.685 | 0.661 | `--entity_type symptom --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 25 | RobeCzech | softmax | morph, sentence-level | symptom | 0.645 | 0.681 | 0.663 | `--entity_type symptom --model_name ufal/robeczech-base --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level` | DONE |
 | 26 | XLM-R-base | softmax | morph, sent, oversample 1x | symptom | 0.644 | 0.689 | **0.666** | `--entity_type symptom --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
-| 27 | XLM-R-base | CRF | morph, sentence-level | symptom | — | — | — | `--entity_type symptom --use_crf --extra_data_dirs data/augmented-symptom --batch_size 32 --epochs 10 --sentence_level` | RUNNING (pod 3) |
+| 27 | XLM-R-base | CRF | morph, sentence-level | symptom | 0.675 | 0.696 | **0.685** | `--entity_type symptom --use_crf --extra_data_dirs data/augmented-symptom --batch_size 32 --epochs 10 --sentence_level` | DONE |
+| 28 | RobeCzech | softmax | morph, sent, oversample 1x | symptom | 0.652 | 0.686 | **0.669** | `--entity_type symptom --model_name ufal/robeczech-base --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
+| 29 | RobeCzech | softmax | morph, sentence-level | procedure | 0.712 | 0.758 | **0.734** | `--entity_type procedure --model_name ufal/robeczech-base --extra_data_dirs data/augmented-procedure --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 30 | XLM-R-base | softmax | morph, sentence-level | procedure | 0.696 | 0.760 | 0.727 | `--entity_type procedure --extra_data_dirs data/augmented-procedure --batch_size 64 --epochs 10 --sentence_level` | DONE |
+| 31 | XLM-R-base | softmax | morph, sent, oversample 1x | procedure | 0.712 | 0.753 | 0.732 | `--entity_type procedure --extra_data_dirs data/augmented-procedure --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
 
 ### Already completed (from previous experiments)
 
