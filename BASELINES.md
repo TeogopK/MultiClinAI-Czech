@@ -44,6 +44,7 @@
 | 32 | RobeCzech | softmax | morph, sent, oversample 1x | procedure | 0.717 | 0.753 | 0.735 | `--entity_type procedure --model_name ufal/robeczech-base --extra_data_dirs data/augmented-procedure --batch_size 64 --epochs 10 --sentence_level --oversample 1` | DONE |
 | 33 | XLM-R-base | CRF* | morph, sentence-level | procedure | 0.727 | 0.752 | 0.739 | `--entity_type procedure --use_crf --extra_data_dirs data/augmented-procedure --batch_size 32 --epochs 10 --sentence_level` | DONE |
 | 34 | Ensemble (K=2) | — | intersection of CRF + RobeCzech os1 | procedure | **0.827** | 0.688 | **0.751** | `ensemble.py --strategy threshold --threshold 2` | DONE |
+| 35 | XLM-R-base | softmax | morph, sent, os1, weighted sampling | symptom | 0.626 | 0.699 | 0.660 | `--entity_type symptom --extra_data_dirs data/augmented-symptom --batch_size 64 --epochs 10 --sentence_level --oversample 1 --weighted_sampling` | DONE |
 
 ### Already completed (from previous experiments)
 
