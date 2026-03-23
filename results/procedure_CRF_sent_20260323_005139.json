@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-23T00:51:39.852192",
+  "entity_type": "procedure",
+  "model_name": "xlm-roberta-base",
+  "head": "CRF",
+  "batch_size": 32,
+  "lr": 2e-05,
+  "epochs": 10,
+  "sentence_level": true,
+  "filter_o_sentences": false,
+  "extra_data_dirs": [
+    "data/augmented-procedure"
+  ],
+  "train_size": 125707,
+  "dev_size": 8583,
+  "metrics": {
+    "eval_loss": 8.3852,
+    "eval_precision": 0.7268,
+    "eval_recall": 0.7519,
+    "eval_f1": 0.7391,
+    "eval_token_precision": 0.8743,
+    "eval_token_recall": 0.8577,
+    "eval_token_f1": 0.8659,
+    "eval_runtime": 26.753,
+    "eval_samples_per_second": 320.824,
+    "eval_steps_per_second": 5.046,
+    "epoch": 10.0
+  }
+}
