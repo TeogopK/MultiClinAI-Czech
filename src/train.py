@@ -256,10 +256,13 @@ def main():
     args = parse_args()
     et = args.entity_type
     use_crf = args.use_crf
+    train_on_all = getattr(args, "train_on_all", False)
 
     mode_str = "CRF" if use_crf else "softmax"
     print(f"=== Training NER model for: {et.upper()} ({mode_str}) ===")
     print(f"Model: {args.model_name}, BS: {args.batch_size}, LR: {args.lr}, Epochs: {args.epochs}")
+    if train_on_all:
+        print("=== TRAIN ON ALL MODE: merging train+dev, no evaluation ===")
 
     strategies = []
     if args.label_weighted_loss:
@@ -290,13 +293,23 @@ def main():
     )
     dev_ds = build_dataset(et, "dev", args.model_name, args.max_length,
                            sentence_level=sentence_level)
-    print(f"Train: {len(train_ds)} examples, Dev: {len(dev_ds)} examples")
 
-    # Remove doc_id column (not a model input, breaks custom DataLoaders)
-    if "doc_id" in train_ds.column_names:
-        train_ds = train_ds.remove_columns("doc_id")
-    if "doc_id" in dev_ds.column_names:
-        dev_ds = dev_ds.remove_columns("doc_id")
+    if train_on_all:
+        from datasets import concatenate_datasets
+        # Remove doc_id before merging
+        if "doc_id" in train_ds.column_names:
+            train_ds = train_ds.remove_columns("doc_id")
+        if "doc_id" in dev_ds.column_names:
+            dev_ds = dev_ds.remove_columns("doc_id")
+        train_ds = concatenate_datasets([train_ds, dev_ds])
+        print(f"Train (all): {len(train_ds)} examples (train+dev merged)")
+    else:
+        print(f"Train: {len(train_ds)} examples, Dev: {len(dev_ds)} examples")
+        # Remove doc_id column (not a model input, breaks custom DataLoaders)
+        if "doc_id" in train_ds.column_names:
+            train_ds = train_ds.remove_columns("doc_id")
+        if "doc_id" in dev_ds.column_names:
+            dev_ds = dev_ds.remove_columns("doc_id")
 
     # Model
     l2id = label2id(et)
@@ -318,24 +331,40 @@ def main():
 
     output_dir = model_dir(et)
 
-    training_args = TrainingArguments(
-        output_dir=str(output_dir),
-        eval_strategy="epoch",
-        save_strategy="epoch",
-        learning_rate=args.lr,
-        per_device_train_batch_size=args.batch_size,
-        per_device_eval_batch_size=args.batch_size * 2,
-        num_train_epochs=args.epochs,
-        warmup_ratio=WARMUP_RATIO,
-        weight_decay=WEIGHT_DECAY,
-        load_best_model_at_end=True,
-        metric_for_best_model="f1",
-        greater_is_better=True,
-        save_total_limit=1,
-        logging_steps=50,
-        fp16=True,
-        report_to="none",
-    )
+    if train_on_all:
+        training_args = TrainingArguments(
+            output_dir=str(output_dir),
+            eval_strategy="no",
+            save_strategy="no",
+            learning_rate=args.lr,
+            per_device_train_batch_size=args.batch_size,
+            num_train_epochs=args.epochs,
+            warmup_ratio=WARMUP_RATIO,
+            weight_decay=WEIGHT_DECAY,
+            load_best_model_at_end=False,
+            logging_steps=50,
+            fp16=True,
+            report_to="none",
+        )
+    else:
+        training_args = TrainingArguments(
+            output_dir=str(output_dir),
+            eval_strategy="epoch",
+            save_strategy="epoch",
+            learning_rate=args.lr,
+            per_device_train_batch_size=args.batch_size,
+            per_device_eval_batch_size=args.batch_size * 2,
+            num_train_epochs=args.epochs,
+            warmup_ratio=WARMUP_RATIO,
+            weight_decay=WEIGHT_DECAY,
+            load_best_model_at_end=True,
+            metric_for_best_model="f1",
+            greater_is_better=True,
+            save_total_limit=1,
+            logging_steps=50,
+            fp16=True,
+            report_to="none",
+        )
 
     # Compute label weights if requested
     label_weights = None
@@ -372,14 +401,16 @@ def main():
     if issubclass(trainer_cls, WeightedLossTrainer):
         trainer_kwargs["label_weights"] = label_weights
 
+    trainer_callbacks = [] if train_on_all else [EarlyStoppingCallback(early_stopping_patience=EARLY_STOPPING_PATIENCE)]
+
     trainer = trainer_cls(
         model=model,
         args=training_args,
         train_dataset=train_ds,
-        eval_dataset=dev_ds,
+        eval_dataset=None if train_on_all else dev_ds,
         data_collator=collator,
-        compute_metrics=compute_metrics_factory(et, use_crf=use_crf),
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=EARLY_STOPPING_PATIENCE)],
+        compute_metrics=None if train_on_all else compute_metrics_factory(et, use_crf=use_crf),
+        callbacks=trainer_callbacks,
         **trainer_kwargs,
     )
 
@@ -389,23 +420,26 @@ def main():
 
     trainer.train()
 
-    # Save best model + tokenizer
+    # Save model + tokenizer
     if use_crf:
         model.save_pretrained(str(output_dir / "best"))
     else:
         trainer.save_model(str(output_dir / "best"))
     tokenizer.save_pretrained(str(output_dir / "best"))
-    print(f"Best model saved to {output_dir / 'best'}")
+    print(f"Model saved to {output_dir / 'best'}")
 
-    # Final eval
-    metrics = trainer.evaluate()
-    print(f"\nFinal dev metrics for {et.upper()} ({mode_str}):")
-    for k, v in sorted(metrics.items()):
-        print(f"  {k}: {v:.4f}" if isinstance(v, float) else f"  {k}: {v}")
+    if train_on_all:
+        print(f"\nTrain-on-all complete for {et.upper()} ({mode_str}) — no dev eval.")
+    else:
+        # Final eval
+        metrics = trainer.evaluate()
+        print(f"\nFinal dev metrics for {et.upper()} ({mode_str}):")
+        for k, v in sorted(metrics.items()):
+            print(f"  {k}: {v:.4f}" if isinstance(v, float) else f"  {k}: {v}")
 
-    # Save results to JSON
-    save_run_results(args, et, mode_str, sentence_level, filter_o, extra_dirs,
-                     len(train_ds), len(dev_ds), metrics)
+        # Save results to JSON
+        save_run_results(args, et, mode_str, sentence_level, filter_o, extra_dirs,
+                         len(train_ds), len(dev_ds), metrics)
 
 
 if __name__ == "__main__":

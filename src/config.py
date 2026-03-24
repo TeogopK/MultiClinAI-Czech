@@ -97,4 +97,8 @@ def parse_args() -> argparse.Namespace:
         "--filter_o_sentences", action="store_true",
         help="With --sentence_level, skip pure-O sentences during training (may hurt precision)",
     )
+    parser.add_argument(
+        "--train_on_all", action="store_true",
+        help="Merge train+dev splits for final training (no evaluation, fixed epochs)",
+    )
     return parser.parse_args()
