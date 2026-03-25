@@ -9,6 +9,7 @@ distemist_zenodo.zip
 # data/
 output/
 batch1/
+tmp_val
 
 # Test sets (large, re-copyable from batch1/)
 split-cz-train-*/test/
