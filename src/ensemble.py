@@ -255,10 +255,15 @@ def main():
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--k", type=int, default=2)
     parser.add_argument("--output_dir", type=Path, default=None)
+    parser.add_argument("--model_f1s", nargs="+", type=float, default=None,
+                        help="Pre-computed F1 weights for --strategy weighted, one per model "
+                             "(use when --split test has no gold). E.g. --model_f1s 0.710 0.712")
     args = parser.parse_args()
 
     if len(args.pred_dirs) != len(args.pred_names):
         parser.error("--pred_dirs and --pred_names must have same length")
+    if args.model_f1s is not None and len(args.model_f1s) != len(args.pred_names):
+        parser.error("--model_f1s must have same length as --pred_names")
 
     # Load gold
     docs = load_documents(data_dir(args.entity_type, args.split), args.entity_type)
@@ -278,9 +283,14 @@ def main():
         # Compute per-model metrics
         m = evaluate(docs, preds, args.entity_type)
         model_f1s[name] = m["F1"]
-        model_precisions[name] = m["P"]
+        model_precisions[name] = m["P"] if m["P"] > 0 else 1.0
         print(f"  {name}: {len(preds)} docs, {total_pred} preds, "
               f"P={m['P']:.3f} R={m['R']:.3f} F1={m['F1']:.3f}")
+
+    # Override F1 weights with pre-computed values (for test set where gold is unavailable)
+    if args.model_f1s is not None:
+        for name, f1 in zip(args.pred_names, args.model_f1s):
+            model_f1s[name] = f1
 
     if args.sweep:
         print(f"\n{'='*80}")
