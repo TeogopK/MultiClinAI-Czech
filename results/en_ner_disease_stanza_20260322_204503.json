@@ -1,0 +1,16 @@
+{
+  "model": "stanza",
+  "entity_type": "disease",
+  "split": "dev",
+  "num_docs": 10,
+  "mode": "sequential",
+  "metrics": {
+    "entity_type": "disease",
+    "precision": 0.1104,
+    "recall": 0.2195,
+    "f1": 0.1469,
+    "tp": 18,
+    "fp": 145,
+    "fn": 64
+  }
+}

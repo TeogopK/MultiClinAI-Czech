@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-03-22T23:34:03.079960",
+  "entity_type": "procedure",
+  "model_name": "ufal/robeczech-base",
+  "head": "softmax",
+  "batch_size": 64,
+  "lr": 2e-05,
+  "epochs": 10,
+  "sentence_level": true,
+  "filter_o_sentences": false,
+  "extra_data_dirs": [
+    "data/augmented-procedure"
+  ],
+  "train_size": 163348,
+  "dev_size": 8583,
+  "metrics": {
+    "eval_loss": 0.2415,
+    "eval_precision": 0.7174,
+    "eval_recall": 0.7525,
+    "eval_f1": 0.7345,
+    "eval_token_precision": 0.8672,
+    "eval_token_recall": 0.861,
+    "eval_token_f1": 0.8641,
+    "eval_runtime": 5.8509,
+    "eval_samples_per_second": 1466.957,
+    "eval_steps_per_second": 11.622,
+    "epoch": 10.0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "model": "humadex",
+  "entity_type": "disease",
+  "split": "dev",
+  "num_docs": 10,
+  "mode": "sequential",
+  "metrics": {
+    "entity_type": "disease",
+    "precision": 0.0537,
+    "recall": 0.1585,
+    "f1": 0.0802,
+    "tp": 13,
+    "fp": 229,
+    "fn": 69
+  }
+}
