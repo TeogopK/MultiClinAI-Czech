@@ -1,0 +1,30 @@
+{
+  "team": "team_enigma",
+  "model": ["xlm-roberta-base", "xlm-roberta-base", "ufal/robeczech-base", "ufal/robeczech-base"],
+  "model_names": ["xlmr-os1", "xlmr-crf", "robeczech-morph", "robeczech-para"],
+  "architecture": ["Transformer + linear (softmax)", "Transformer + CRF", "Transformer + linear (softmax)", "Transformer + linear (softmax)"],
+  "language": ["cz"],
+  "labels": "monolabel",
+  "scheme": "BIO",
+  "input_strategy": "sentence_level",
+  "max_length": 512,
+  "epochs": 10,
+  "batch_size": [64, 32, 64, 64],
+  "lr": 2e-5,
+  "seed": 42,
+  "decoding": ["greedy", "viterbi", "greedy", "greedy"],
+  "training_data": "train+dev combined (no held-out validation)",
+  "additional_data": [
+    "morphological augmentation + oversampling",
+    "morphological augmentation",
+    "morphological augmentation",
+    "morphological augmentation + back-translation paraphrases"
+  ],
+  "ensemble_strategy": "weighted F1 voting",
+  "ensemble_threshold": 0.4,
+  "ensemble_weights": {"xlmr-os1": 0.710, "xlmr-crf": 0.712, "robeczech-morph": 0.698, "robeczech-para": 0.703},
+  "ensemble_description": "Span accepted if sum of predictors' dev F1 weights >= 0.4 * total_weight (equivalent to majority >=2/4 models). Weights are dev set F1 scores.",
+  "dev_f1": {"xlmr-os1": 0.710, "xlmr-crf": 0.712, "robeczech-morph": 0.698, "robeczech-para": 0.703},
+  "ensemble_dev_f1": 0.738,
+  "notes": "Best DISEASE ensemble: 4-model weighted F1 voting with threshold=0.4. Span included if weighted vote fraction >= 0.4 (requires at least 2/4 models to agree)."
+}

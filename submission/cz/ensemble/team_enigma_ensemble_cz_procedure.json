@@ -1,0 +1,28 @@
+{
+  "team": "team_enigma",
+  "model": ["xlm-roberta-base", "ufal/robeczech-base"],
+  "model_names": ["xlmr-crf", "robeczech-os1"],
+  "architecture": ["Transformer + CRF", "Transformer + linear (softmax)"],
+  "language": ["cz"],
+  "labels": "monolabel",
+  "scheme": "BIO",
+  "input_strategy": "sentence_level",
+  "max_length": 512,
+  "epochs": 10,
+  "batch_size": [32, 64],
+  "lr": 2e-5,
+  "seed": 42,
+  "decoding": ["viterbi", "greedy"],
+  "training_data": "train+dev combined (no held-out validation)",
+  "additional_data": [
+    "morphological augmentation",
+    "morphological augmentation + oversampling"
+  ],
+  "ensemble_strategy": "weighted F1 voting",
+  "ensemble_threshold": 0.4,
+  "ensemble_weights": {"xlmr-crf": 0.739, "robeczech-os1": 0.735},
+  "ensemble_description": "Span accepted if sum of predictors' dev F1 weights >= 0.4 * total_weight. With 2 models at similar weights, threshold=0.4 yields a near-union (any model predicting is sufficient).",
+  "dev_f1": {"xlmr-crf": 0.739, "robeczech-os1": 0.735},
+  "ensemble_dev_f1": 0.751,
+  "notes": "Best PROCEDURE ensemble: 2-model weighted F1 voting. XLM-R CRF (best single) + RobeCzech for cross-model diversity."
+}
