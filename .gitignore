@@ -8,6 +8,14 @@ distemist_zenodo.zip
 # For now
 # data/
 output/
+batch1/
+
+# Test sets (large, re-copyable from batch1/)
+split-cz-train-*/test/
+
+# Intermediate prediction files (raw BRAT, large)
+submission/cz/raw_brat/
+final_models/
 
 # Claude Code local config
 .claude/
