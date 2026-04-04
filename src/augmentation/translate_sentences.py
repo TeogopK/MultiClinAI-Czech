@@ -47,7 +47,7 @@ from augmentation.translate import (
     load_translation_models,
     translate_text,
 )
-from translate_external import (
+from augmentation.translate_external import (
     _find_entity_in_text,
     load_source_models,
     load_external_documents,
