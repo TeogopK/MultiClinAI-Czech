@@ -9,21 +9,30 @@ Entry for the **MultiClinAI** competition: multilingual clinical Named Entity Re
 ## Repository Structure
 
 ```
-src/                          # Training & evaluation pipeline (Czech baseline)
-  config.py                   # Paths, hyperparameters, CLI args
-  data.py                     # BRAT parsing, tokenization, HuggingFace Dataset creation
-  train.py                    # Fine-tuning script (one entity type per run)
-  evaluate.py                 # Metrics (seqeval) + BRAT .ann output generation
+src/
+  training/       # Core pipeline: train.py, evaluate.py, data.py, model.py, config.py
+  augmentation/   # Data augmentation: synonym replacement, back-translation, paraphrases
+  inference/      # Prediction: predict.py, predict_llm.py, predict_en_ner.py
+  ensemble/       # Ensemble voting: ensemble.py, ensemble_postfilter.py, ensemble_rerank.py
+  evaluation/     # Error analysis, GLiNER evaluation, fast BRAT eval
+  utils/          # Format conversion, validation, EDA, dictionary NER
 
-cz/                           # Czech EDA: visualizations (.png) and annotation CSVs
-teachers_utils/               # Shared utilities (EDA scripts, dictionary NER baselines)
+data/
+  raw/{lang}/{entity}/  # Training data in BRAT format (train/ + dev/ splits)
+  augmented/{entity}/   # Morphological synonym augmentations
+  external/             # External datasets (NCBI Disease EN + CZ translation)
+  paraphrase/           # LLM paraphrase augmentations
+  synonyms/             # Synonym dictionaries + wikidata_cs.json
 
-split-cz-train-{type}/       # Czech training data in BRAT format, split by entity type
-  train/                      # 1,006 documents (.txt + .ann pairs)
-  dev/                        # 252 documents
+results/
+  experiments/    # Per-run metrics JSON files
+  analysis/       # Error analysis reports, ensemble reports, EDA outputs
+  submission/     # Final submission files (TSV + JSON per entity type)
 
-models/                       # Trained model checkpoints (git-ignored, see below)
-Experiments Plan - *.csv      # Experiment tracking across all languages and approaches
+docs/             # EXPERIMENTS.md, BASELINES.md, TRAINING_PLAN.md, notes
+scripts/          # manage_training.sh, build_submission.ps1, run_test_predictions.ps1
+models/           # Trained checkpoints (git-ignored, ~1.1 GB each)
+tests/            # Unit tests
 ```
 
 ## Data Format
@@ -34,42 +43,40 @@ Training data uses **BioNLP standoff annotation format** (BRAT):
 
 Example: `T2  DISEASE 36 46  hypertenze`
 
-## Czech Baseline (XLM-RoBERTa)
-
-**Approach:** 3 separate `xlm-roberta-base` models (one per entity type) to handle overlapping annotations independently.
-
-### Quick Start
+## Quick Start
 
 ```bash
 pip install -r requirements.txt
 
-# Train (one entity type at a time)
-python src/train.py --entity_type disease
-python src/train.py --entity_type symptom
-python src/train.py --entity_type procedure
+# Train one entity type
+PYTHONPATH=src python src/training/train.py --entity_type disease
+PYTHONPATH=src python src/training/train.py --entity_type disease --use_crf
 
-# Evaluate all 3 models on dev set, merge predictions
-python src/evaluate.py
+# With augmented data
+PYTHONPATH=src python src/training/train.py --entity_type disease \
+    --extra_data_dirs data/augmented/disease
+
+# Evaluate all 3 models on dev set
+PYTHONPATH=src python src/training/evaluate.py
+
+# Run ensemble sweep
+PYTHONPATH=src python src/ensemble/ensemble.py --entity_type disease \
+    --pred_dirs output/model1 output/model2
 ```
 
-### Baseline Results (Czech Dev Set)
+## Best Results (Czech Dev Set)
 
-| Entity    | Precision | Recall | F1     |
-|-----------|-----------|--------|--------|
-| DISEASE   | 0.604     | 0.719  | 0.657  |
-| SYMPTOM   | 0.563     | 0.656  | 0.606  |
-| PROCEDURE | —         | —      | —      |
+| Entity    | Best F1   | Model                        | Notes                  |
+|-----------|-----------|------------------------------|------------------------|
+| DISEASE   | **0.697** | XLM-RoBERTa-base + CRF       | Morphological synonyms |
+| SYMPTOM   | 0.606     | XLM-RoBERTa-base             | Baseline               |
+| PROCEDURE | 0.668     | XLM-RoBERTa-base             | Baseline               |
 
-**Model:** `xlm-roberta-base`, lr=2e-5, batch_size=16, 10 epochs, fp16
-**Hardware:** NVIDIA RTX A2000 8GB (~16 min per entity type)
-
-### Trained Models
-
-Model checkpoints are saved to `models/cz-{type}/best/` but are **git-ignored** due to size (~1.1 GB each). To reproduce, re-run training with the commands above.
+See `docs/EXPERIMENTS.md` for full experiment log and `docs/BASELINES.md` for all trained run results.
 
 ## Competition
 
 - **Subtask 1** (entity detection): deadline March 25
 - **Subtask 2** (projected annotation): deadline April 9
 
-See `Experiments Plan - Experiments.csv` for the full results matrix across all team members and languages.
+See `docs/Experiments Plan - Experiments.csv` for the full results matrix across all team members and languages.

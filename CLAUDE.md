@@ -22,42 +22,61 @@ Entity types: `DISEASE`, `SYMPTOM`, `PROCEDURE`
 
 ### Source Code
 
-- `src/` — Training and evaluation pipeline:
-  - `config.py` — Hyperparameters, paths, CLI argument parsing
+- `src/training/` — Core pipeline:
+  - `config.py` — Hyperparameters, paths, CLI argument parsing. `PROJECT_ROOT` is 3 levels up.
   - `data.py` — BRAT→BIO data loading and tokenization
   - `model.py` — Transformer + optional CRF token classification model
   - `train.py` — Training loop with early stopping
   - `evaluate.py` — Entity-level evaluation (precision/recall/F1)
-  - `augment.py` — Data augmentation (synonym replacement)
-  - `translate.py` — Back-translation pipeline (CZ→EN→CZ via MarianMT)
+- `src/augmentation/` — Data augmentation:
+  - `augment.py` — Synonym replacement augmentation
   - `build_synonyms.py` — Builds morphological + Wikidata synonym dictionaries
-  - `predict_llm.py` — GPT-4.1 zero-shot NER prediction + experiment tracking
-- `teachers_utils/` — Utility scripts from competition organizers (dictionary NER, EDA)
+  - `translate.py` — Back-translation pipeline (CZ→EN→CZ via MarianMT)
+  - `generate_synthetic.py` — GPT-4.1-mini paraphrase augmentation
+  - `download_external.py` — NCBI Disease, BC5CDR downloaders
+- `src/inference/` — Prediction:
+  - `predict.py` — Single-model inference (doc-level or sentence-level)
+  - `predict_llm.py` — GPT-4.1 zero-shot NER prediction
+  - `predict_en_ner.py` — CZ→EN→NER pipeline with Stanza/HUMADEX
+- `src/ensemble/` — Ensemble methods:
+  - `ensemble.py` — Voting/weighted ensemble sweep
+  - `ensemble_postfilter.py` — Post-ensemble filtering strategies
+  - `ensemble_rerank.py` — Reranking ensemble predictions
+- `src/evaluation/` — Analysis and comparison:
+  - `error_analysis.py` — Error breakdown & visualization
+  - `evaluate_gliner.py`, `compare_gliner.py` — GLiNER evaluation
+  - `eval_brat_fast.py` — Fast BRAT evaluation
+- `src/utils/` — Utilities:
+  - `brat_to_tsv.py` — Format conversion
+  - `validate_finals.py` — Final submission validation
+  - `dictionary_ner.py`, `dictionary_ner_external.py` — Dictionary NER baselines (from organizers)
+  - `eda.py` — Exploratory data analysis
 
 ### Data
 
-- `split-cz-train-{disease,symptom,procedure}/` — Czech training data split by entity type, each with `train/` (1,006 docs) and `dev/` (252 docs) subdirectories
-- `data/augmented-{disease,symptom,procedure}/` — Augmented training data (synonym-replaced BRAT files)
-- `synonyms/` — Synonym dictionaries per entity type (`disease.json`, `symptom.json`, `procedure.json`)
-- `wikidata_cs.json` — Wikidata Czech medical entity synonyms
-- `cz/` — EDA outputs: visualizations (PNG), annotation CSVs
+- `data/raw/{lang}/{entity}/` — Training data in BRAT format, with `train/` and `dev/` subdirectories
+  - Languages: `cz`, `en`, `es` (Czech is primary)
+  - Entities: `disease`, `symptom`, `procedure`
+- `data/augmented/{entity}/` — Augmented training data (synonym-replaced BRAT files)
+- `data/external/` — External datasets (NCBI Disease EN + CZ translation)
+- `data/paraphrase/{entity}/` — LLM paraphrase augmentations
+- `data/synonyms/` — Synonym dictionaries (`disease.json`, `symptom.json`, `procedure.json`, `wikidata_cs.json`)
 
-### Models & Output
+### Results & Output
 
-- `models/cz-{disease,symptom,procedure}/` — Trained model checkpoints
-- `output/llm-predictions*/` — GPT-4.1 NER prediction outputs (multiple iterations)
+- `results/experiments/` — Per-run metrics JSON files
+- `results/analysis/` — Error analysis reports, ensemble reports, EDA outputs (`eda/`)
+- `results/submission/` — Final submission files
+- `output/` — Live prediction outputs (git-ignored)
+- `models/` — Trained model checkpoints (git-ignored)
 
-### Experiment Tracking
+### Documentation & Scripts
 
-- `EXPERIMENTS.md` — Detailed experiment log with results, per-epoch metrics, and planned experiments (Czech only)
-- `Experiments Plan - Experiments.csv` — Shared team results matrix. Columns: Model Name, Entity type, Language, Approach, Token P/R/F1, Entity P/R/F1, Owner, Links, Comment. One row per (model × entity × language) combination; filled in as experiments complete.
-- `Experiments Plan - Options.csv` — Planning sheet listing candidate model families (ClinicalBERT, BioBERT, XLM-R, GLiNER, LLMs, etc.), training approaches (token classification + CRF, ensemble, multi-head, zero-shot), and language priority ranking with links to reference papers.
-- `Experiments Plan - Ontologies & datasets.csv` — Coverage matrix of biomedical ontologies (UMLS, LOINC, ICD-10/11, MeSH, HeTop, MEDDRA, etc.) across all 7 competition languages, with license notes and links. Used to identify synonym/dictionary sources per language.
-
-### Other
-
-- `Състезания.md` — Competition details (in Bulgarian)
-- `Notes.md` — Working notes
+- `docs/EXPERIMENTS.md` — Detailed experiment log (Czech only)
+- `docs/BASELINES.md` — Training baseline matrix (35+ runs)
+- `docs/Experiments Plan - Experiments.csv` — Shared team results matrix
+- `scripts/manage_training.sh` — Pod training orchestration
+- `scripts/build_submission.ps1` — Submission builder
 
 ## Current Best Results (Czech)
 
@@ -67,7 +86,7 @@ Entity types: `DISEASE`, `SYMPTOM`, `PROCEDURE`
 | SYMPTOM   | 0.606     | XLM-RoBERTa-base (baseline)   | None                   |
 | PROCEDURE | 0.668     | XLM-RoBERTa-base (baseline)   | None                   |
 
-Key findings: augmentation gives +4% F1; CRF ≈ softmax; RobeCzech ≈ XLM-RoBERTa. See `EXPERIMENTS.md` for details.
+Key findings: augmentation gives +4% F1; CRF ≈ softmax; RobeCzech ≈ XLM-RoBERTa. See `docs/EXPERIMENTS.md` for details.
 
 ## Models and Approaches Being Evaluated
 
@@ -79,12 +98,18 @@ Languages are ranked by priority: English (1), Spanish (2), Italian (3), Dutch (
 
 **Dependencies**: `pip install -r requirements.txt` (PyTorch, Transformers, pytorch-crf, seqeval, etc.)
 
+**Always use `PYTHONPATH=src`** when running any script.
+
 **Training a model**:
 ```bash
-python src/train.py --entity_type disease --use_crf
-python src/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented-disease
+PYTHONPATH=src python src/training/train.py --entity_type disease --use_crf
+PYTHONPATH=src python src/training/train.py --entity_type disease --use_crf --extra_data_dirs data/augmented/disease
 ```
 
-**Evaluation**: `python src/evaluate.py --entity_type disease`
+**Evaluation**: `PYTHONPATH=src python src/training/evaluate.py`
 
-**Default hyperparameters** (in `src/config.py`): LR=2e-5, BS=16, epochs=10, max_length=512, warmup=0.1, early stopping patience=3.
+**Prediction**: `PYTHONPATH=src python src/inference/predict.py --entity_type disease --model_path models/cz-disease/best --output_dir output/preds`
+
+**Ensemble**: `PYTHONPATH=src python src/ensemble/ensemble.py --entity_type disease --pred_dirs output/model1 output/model2`
+
+**Default hyperparameters** (in `src/training/config.py`): LR=2e-5, BS=16, epochs=10, max_length=512, warmup=0.1, early stopping patience=3.
