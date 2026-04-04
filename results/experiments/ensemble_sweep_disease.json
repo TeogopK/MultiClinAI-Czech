@@ -1,0 +1,659 @@
+[
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7531,
+    "R": 0.7187,
+    "F1": 0.7355,
+    "TP": 3385,
+    "FP": 1110,
+    "FN": 1325
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7523,
+    "R": 0.7166,
+    "F1": 0.734,
+    "TP": 3375,
+    "FP": 1111,
+    "FN": 1335
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7503,
+    "R": 0.7144,
+    "F1": 0.7319,
+    "TP": 3365,
+    "FP": 1120,
+    "FN": 1345
+  },
+  {
+    "strategy": "weighted F1, t=0.6 (2.090)",
+    "P": 0.7926,
+    "R": 0.6652,
+    "F1": 0.7233,
+    "TP": 3133,
+    "FP": 820,
+    "FN": 1577
+  },
+  {
+    "strategy": "weighted P, t=0.6 (2.083)",
+    "P": 0.7898,
+    "R": 0.6671,
+    "F1": 0.7233,
+    "TP": 3142,
+    "FP": 836,
+    "FN": 1568
+  },
+  {
+    "strategy": "subset [robeczech-morph + robeczech-para] K=2",
+    "P": 0.7822,
+    "R": 0.6635,
+    "F1": 0.718,
+    "TP": 3125,
+    "FP": 870,
+    "FN": 1585
+  },
+  {
+    "strategy": "threshold K=3 (majority)",
+    "P": 0.7355,
+    "R": 0.6996,
+    "F1": 0.7171,
+    "TP": 3295,
+    "FP": 1185,
+    "FN": 1415
+  },
+  {
+    "strategy": "weighted F1, t=0.5 (1.741)",
+    "P": 0.7355,
+    "R": 0.6996,
+    "F1": 0.7171,
+    "TP": 3295,
+    "FP": 1185,
+    "FN": 1415
+  },
+  {
+    "strategy": "weighted P, t=0.5 (1.736)",
+    "P": 0.7355,
+    "R": 0.6996,
+    "F1": 0.7171,
+    "TP": 3295,
+    "FP": 1185,
+    "FN": 1415
+  },
+  {
+    "strategy": "threshold K=4 (majority)",
+    "P": 0.8123,
+    "R": 0.6378,
+    "F1": 0.7146,
+    "TP": 3004,
+    "FP": 694,
+    "FN": 1706
+  },
+  {
+    "strategy": "weighted F1, t=0.7 (2.438)",
+    "P": 0.8123,
+    "R": 0.6378,
+    "F1": 0.7146,
+    "TP": 3004,
+    "FP": 694,
+    "FN": 1706
+  },
+  {
+    "strategy": "weighted P, t=0.7 (2.431)",
+    "P": 0.8123,
+    "R": 0.6378,
+    "F1": 0.7146,
+    "TP": 3004,
+    "FP": 694,
+    "FN": 1706
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-para] K=2",
+    "P": 0.7283,
+    "R": 0.6989,
+    "F1": 0.7133,
+    "TP": 3292,
+    "FP": 1228,
+    "FN": 1418
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-morph] K=2",
+    "P": 0.7255,
+    "R": 0.6987,
+    "F1": 0.7119,
+    "TP": 3291,
+    "FP": 1245,
+    "FN": 1419
+  },
+  {
+    "strategy": "weighted P, t=0.4 (1.389)",
+    "P": 0.7123,
+    "R": 0.7113,
+    "F1": 0.7118,
+    "TP": 3350,
+    "FP": 1353,
+    "FN": 1360
+  },
+  {
+    "strategy": "weighted F1, t=0.4 (1.393)",
+    "P": 0.7101,
+    "R": 0.7134,
+    "F1": 0.7117,
+    "TP": 3360,
+    "FP": 1372,
+    "FN": 1350
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-morph] K=2",
+    "P": 0.7244,
+    "R": 0.6985,
+    "F1": 0.7112,
+    "TP": 3290,
+    "FP": 1252,
+    "FN": 1420
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-para] K=2",
+    "P": 0.7274,
+    "R": 0.6958,
+    "F1": 0.7112,
+    "TP": 3277,
+    "FP": 1228,
+    "FN": 1433
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-morph] K=2",
+    "P": 0.7256,
+    "R": 0.6968,
+    "F1": 0.7109,
+    "TP": 3282,
+    "FP": 1241,
+    "FN": 1428
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-para] K=2",
+    "P": 0.7274,
+    "R": 0.6947,
+    "F1": 0.7107,
+    "TP": 3272,
+    "FP": 1226,
+    "FN": 1438
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7032,
+    "R": 0.7174,
+    "F1": 0.7102,
+    "TP": 3379,
+    "FP": 1426,
+    "FN": 1331
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-para] K=2",
+    "P": 0.7065,
+    "R": 0.7125,
+    "F1": 0.7095,
+    "TP": 3356,
+    "FP": 1394,
+    "FN": 1354
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-morph] K=2",
+    "P": 0.7044,
+    "R": 0.7142,
+    "F1": 0.7093,
+    "TP": 3364,
+    "FP": 1412,
+    "FN": 1346
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7027,
+    "R": 0.7157,
+    "F1": 0.7092,
+    "TP": 3371,
+    "FP": 1426,
+    "FN": 1339
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-morph + robeczech-para] K=2",
+    "P": 0.7026,
+    "R": 0.7153,
+    "F1": 0.7089,
+    "TP": 3369,
+    "FP": 1426,
+    "FN": 1341
+  },
+  {
+    "strategy": "subset [robeczech-morph + robeczech-para] K=1",
+    "P": 0.6834,
+    "R": 0.7314,
+    "F1": 0.7066,
+    "TP": 3445,
+    "FP": 1596,
+    "FN": 1265
+  },
+  {
+    "strategy": "threshold K=2",
+    "P": 0.6888,
+    "R": 0.7223,
+    "F1": 0.7052,
+    "TP": 3402,
+    "FP": 1537,
+    "FN": 1308
+  },
+  {
+    "strategy": "weighted F1, t=0.3 (1.045)",
+    "P": 0.6888,
+    "R": 0.7223,
+    "F1": 0.7052,
+    "TP": 3402,
+    "FP": 1537,
+    "FN": 1308
+  },
+  {
+    "strategy": "weighted P, t=0.3 (1.042)",
+    "P": 0.6888,
+    "R": 0.7223,
+    "F1": 0.7052,
+    "TP": 3402,
+    "FP": 1537,
+    "FN": 1308
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-morph + robeczech-para] K=2",
+    "P": 0.6888,
+    "R": 0.7223,
+    "F1": 0.7052,
+    "TP": 3402,
+    "FP": 1537,
+    "FN": 1308
+  },
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-para] K=2",
+    "P": 0.8136,
+    "R": 0.6217,
+    "F1": 0.7048,
+    "TP": 2928,
+    "FP": 671,
+    "FN": 1782
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para] K=2",
+    "P": 0.7143,
+    "R": 0.6945,
+    "F1": 0.7043,
+    "TP": 3271,
+    "FP": 1308,
+    "FN": 1439
+  },
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-morph] K=2",
+    "P": 0.804,
+    "R": 0.6246,
+    "F1": 0.7031,
+    "TP": 2942,
+    "FP": 717,
+    "FN": 1768
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-para] K=2",
+    "P": 0.814,
+    "R": 0.618,
+    "F1": 0.7026,
+    "TP": 2911,
+    "FP": 665,
+    "FN": 1799
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-para] K=2",
+    "P": 0.8118,
+    "R": 0.6191,
+    "F1": 0.7025,
+    "TP": 2916,
+    "FP": 676,
+    "FN": 1794
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-morph] K=2",
+    "P": 0.8079,
+    "R": 0.6206,
+    "F1": 0.702,
+    "TP": 2923,
+    "FP": 695,
+    "FN": 1787
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-morph] K=2",
+    "P": 0.8092,
+    "R": 0.6187,
+    "F1": 0.7012,
+    "TP": 2914,
+    "FP": 687,
+    "FN": 1796
+  },
+  {
+    "strategy": "weighted F1, t=0.8 (2.786)",
+    "P": 0.832,
+    "R": 0.6002,
+    "F1": 0.6973,
+    "TP": 2827,
+    "FP": 571,
+    "FN": 1883
+  },
+  {
+    "strategy": "two_tier (trust top-1: robeczech-para)",
+    "P": 0.6709,
+    "R": 0.7251,
+    "F1": 0.6969,
+    "TP": 3415,
+    "FP": 1675,
+    "FN": 1295
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf] K=2",
+    "P": 0.7485,
+    "R": 0.6495,
+    "F1": 0.6955,
+    "TP": 3059,
+    "FP": 1028,
+    "FN": 1651
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para] K=2",
+    "P": 0.751,
+    "R": 0.6461,
+    "F1": 0.6946,
+    "TP": 3043,
+    "FP": 1009,
+    "FN": 1667
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para] K=2",
+    "P": 0.7515,
+    "R": 0.6414,
+    "F1": 0.6921,
+    "TP": 3021,
+    "FP": 999,
+    "FN": 1689
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-para] K=1",
+    "P": 0.6608,
+    "R": 0.7163,
+    "F1": 0.6874,
+    "TP": 3374,
+    "FP": 1732,
+    "FN": 1336
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-para] K=1",
+    "P": 0.6574,
+    "R": 0.717,
+    "F1": 0.6859,
+    "TP": 3377,
+    "FP": 1760,
+    "FN": 1333
+  },
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-para] K=1",
+    "P": 0.6544,
+    "R": 0.7176,
+    "F1": 0.6846,
+    "TP": 3380,
+    "FP": 1785,
+    "FN": 1330
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para] K=1",
+    "P": 0.6605,
+    "R": 0.7089,
+    "F1": 0.6839,
+    "TP": 3339,
+    "FP": 1716,
+    "FN": 1371
+  },
+  {
+    "strategy": "two_tier (trust top-2: robeczech-para, robeczech-morph)",
+    "P": 0.6478,
+    "R": 0.7231,
+    "F1": 0.6834,
+    "TP": 3406,
+    "FP": 1852,
+    "FN": 1304
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf] K=1",
+    "P": 0.6578,
+    "R": 0.7102,
+    "F1": 0.683,
+    "TP": 3345,
+    "FP": 1740,
+    "FN": 1365
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-morph] K=1",
+    "P": 0.6511,
+    "R": 0.7168,
+    "F1": 0.6824,
+    "TP": 3376,
+    "FP": 1809,
+    "FN": 1334
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para] K=1",
+    "P": 0.6601,
+    "R": 0.7051,
+    "F1": 0.6819,
+    "TP": 3321,
+    "FP": 1710,
+    "FN": 1389
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-morph] K=1",
+    "P": 0.6475,
+    "R": 0.7155,
+    "F1": 0.6798,
+    "TP": 3370,
+    "FP": 1835,
+    "FN": 1340
+  },
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-morph] K=1",
+    "P": 0.6455,
+    "R": 0.7157,
+    "F1": 0.6788,
+    "TP": 3371,
+    "FP": 1851,
+    "FN": 1339
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-para] K=1",
+    "P": 0.6387,
+    "R": 0.7187,
+    "F1": 0.6763,
+    "TP": 3385,
+    "FP": 1915,
+    "FN": 1325
+  },
+  {
+    "strategy": "threshold K=5 (majority)",
+    "P": 0.8531,
+    "R": 0.5597,
+    "F1": 0.6759,
+    "TP": 2636,
+    "FP": 454,
+    "FN": 2074
+  },
+  {
+    "strategy": "subset [xlmr-para + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6361,
+    "R": 0.7185,
+    "F1": 0.6748,
+    "TP": 3384,
+    "FP": 1936,
+    "FN": 1326
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-para] K=1",
+    "P": 0.6364,
+    "R": 0.7178,
+    "F1": 0.6746,
+    "TP": 3381,
+    "FP": 1932,
+    "FN": 1329
+  },
+  {
+    "strategy": "subset [xlmr-crf + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6346,
+    "R": 0.7195,
+    "F1": 0.6744,
+    "TP": 3389,
+    "FP": 1951,
+    "FN": 1321
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para] K=1",
+    "P": 0.6413,
+    "R": 0.7106,
+    "F1": 0.6742,
+    "TP": 3347,
+    "FP": 1872,
+    "FN": 1363
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-para] K=1",
+    "P": 0.6342,
+    "R": 0.7185,
+    "F1": 0.6737,
+    "TP": 3384,
+    "FP": 1952,
+    "FN": 1326
+  },
+  {
+    "strategy": "two_tier (trust top-3: robeczech-para, robeczech-morph, xlmr-para)",
+    "P": 0.6326,
+    "R": 0.7204,
+    "F1": 0.6736,
+    "TP": 3393,
+    "FP": 1971,
+    "FN": 1317
+  },
+  {
+    "strategy": "subset [xlmr-os1 + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6304,
+    "R": 0.7174,
+    "F1": 0.6711,
+    "TP": 3379,
+    "FP": 1981,
+    "FN": 1331
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-morph] K=1",
+    "P": 0.6308,
+    "R": 0.7163,
+    "F1": 0.6708,
+    "TP": 3374,
+    "FP": 1975,
+    "FN": 1336
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-morph] K=1",
+    "P": 0.6292,
+    "R": 0.7172,
+    "F1": 0.6703,
+    "TP": 3378,
+    "FP": 1991,
+    "FN": 1332
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-morph] K=1",
+    "P": 0.6271,
+    "R": 0.7174,
+    "F1": 0.6692,
+    "TP": 3379,
+    "FP": 2009,
+    "FN": 1331
+  },
+  {
+    "strategy": "subset [xlmr-crf + xlmr-para + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6196,
+    "R": 0.7187,
+    "F1": 0.6655,
+    "TP": 3385,
+    "FP": 2078,
+    "FN": 1325
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-para] K=1",
+    "P": 0.6203,
+    "R": 0.7159,
+    "F1": 0.6647,
+    "TP": 3372,
+    "FP": 2064,
+    "FN": 1338
+  },
+  {
+    "strategy": "two_tier (trust top-4: robeczech-para, robeczech-morph, xlmr-para, xlmr-os1)",
+    "P": 0.6159,
+    "R": 0.7166,
+    "F1": 0.6624,
+    "TP": 3375,
+    "FP": 2105,
+    "FN": 1335
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-para + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6159,
+    "R": 0.7166,
+    "F1": 0.6624,
+    "TP": 3375,
+    "FP": 2105,
+    "FN": 1335
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6148,
+    "R": 0.7176,
+    "F1": 0.6622,
+    "TP": 3380,
+    "FP": 2118,
+    "FN": 1330
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-morph] K=1",
+    "P": 0.6149,
+    "R": 0.7151,
+    "F1": 0.6612,
+    "TP": 3368,
+    "FP": 2109,
+    "FN": 1342
+  },
+  {
+    "strategy": "threshold K=1 (union)",
+    "P": 0.6035,
+    "R": 0.7149,
+    "F1": 0.6545,
+    "TP": 3367,
+    "FP": 2212,
+    "FN": 1343
+  },
+  {
+    "strategy": "two_tier (trust top-5: robeczech-para, robeczech-morph, xlmr-para, xlmr-os1, xlmr-crf)",
+    "P": 0.6035,
+    "R": 0.7149,
+    "F1": 0.6545,
+    "TP": 3367,
+    "FP": 2212,
+    "FN": 1343
+  },
+  {
+    "strategy": "subset [xlmr-os1 + xlmr-crf + xlmr-para + robeczech-morph + robeczech-para] K=1",
+    "P": 0.6035,
+    "R": 0.7149,
+    "F1": 0.6545,
+    "TP": 3367,
+    "FP": 2212,
+    "FN": 1343
+  }
+]
