@@ -54,6 +54,7 @@ def predict_text(text, tokenizer, model, entity_type, device="cpu", use_crf=Fals
     in_entity = False
     ent_start = 0
     ent_end = 0
+    prev_os = -1  # track previous token start to skip overlapping tokens
 
     for pred_id, (os, oe) in zip(preds, offsets):
         if os == oe:
@@ -61,6 +62,18 @@ def predict_text(text, tokenizer, model, entity_type, device="cpu", use_crf=Fals
                 entities.append((ent_start, ent_end, tag))
                 in_entity = False
             continue
+
+        # Skip tokens whose start offset overlaps with the previous token's start.
+        # XLM-RoBERTa's SentencePiece tokenizer sometimes emits two tokens at the
+        # same character position (e.g. 'f' at (219,220) then 'fek' at (219,222)).
+        # Processing both causes the entity to close prematurely on the shorter one.
+        if os == prev_os:
+            # Keep the longer (later) token — update ent_end if we're in an entity
+            if in_entity:
+                ent_end = max(ent_end, oe)
+            prev_os = os
+            continue
+        prev_os = os
 
         pred_label = ll[pred_id] if pred_id < len(ll) else "O"
 

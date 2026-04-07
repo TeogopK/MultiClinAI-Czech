@@ -303,3 +303,62 @@ Sallauka et al. used focal loss instead of CrossEntropy for class imbalance. Our
 3. **RobeCzech ≈ XLM-RoBERTa** — Czech-specific pretraining didn't help much (+0.02)
 4. **Recall > Precision** consistently — model finds entities but produces false positives
 5. **Long tail is the bottleneck**: 83% of unique entities are singletons, 96% appear ≤5 times
+
+---
+
+## Bug Fix: SentencePiece Overlapping Token Offsets (2026-04-07)
+
+### Problem
+
+Discovered a systematic bug affecting all CRF model predictions, most visible as
+single-character entity spans in the output (e.g. `DISEASE 219 220  f` instead of
+`DISEASE 219 239  fekální inkontinence`).
+
+### Root Cause
+
+XLM-RoBERTa uses SentencePiece tokenization with a byte-level fallback for rare
+character sequences. When this fallback triggers, the tokenizer emits **two tokens
+at the same character position** — for example:
+
+```
+token[62]  offset=(219, 220)  text='f'       ← byte-fallback single char
+token[63]  offset=(219, 222)  text='fek'     ← normal subword token
+```
+
+Both tokens share `off_start = 219`. This affects ~4 token pairs per document on
+average — **5,072 overlapping pairs across 1,258 train/dev docs**.
+
+### Cascade of Failures
+
+**During training** (`src/training/data.py` — `align_labels`):
+Both overlapping tokens look up `char_labels[219]` and both receive `B-DISEASE`.
+The model is trained on a `B → B` sequence at the word boundary — an ambiguous and
+contradictory signal that makes the CRF less confident about continuing with
+`I-DISEASE` labels.
+
+**During inference** (`src/inference/predict.py` — `predict_text`):
+The entity-extraction loop processes token[62] first (`B-DISEASE`, opens entity at
+`(219, 220)`), then token[63] which the CRF (confused by its `B → B` training)
+predicts as `O`. The loop closes the entity immediately, writing `(219, 220)` — just
+the single character `'f'`. All subsequent `I-DISEASE` tokens for the rest of the
+word are silently discarded because `in_entity = False`.
+
+### Fix
+
+**`src/training/data.py`**: When assigning BIO labels to tokens, skip tokens whose
+`off_start` equals the previous token's `off_start` (label them `-100` = ignore).
+This removes the `B → B` training noise — only the first token at each character
+position gets a label.
+
+**`src/inference/predict.py`**: When extracting entity spans, skip overlapping
+tokens and extend `ent_end` to the longer span instead of closing the entity
+prematurely.
+
+### Verification
+
+Re-ran inference on dev with the existing `disease-xlmr-crf` final model (inference
+fix only, no retraining). The original `DISEASE 219 220  f` entity in
+`MultiClinNER-cz-test-disease-00001` was eliminated. Remaining short entities (6
+single-char) are a separate model quality issue (model predicts `B` but not `I` for
+rare subword splits), expected to improve after retraining with the fixed
+`align_labels`.

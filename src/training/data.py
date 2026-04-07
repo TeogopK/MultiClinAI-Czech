@@ -99,13 +99,20 @@ def align_labels(
             char_labels[i] = 2  # I
 
     labels = []
+    prev_off_start = -1  # track previous non-special token's start to detect overlapping tokens
     for idx, (off_start, off_end) in enumerate(offsets):
         if special[idx]:
             labels.append(-100)
         elif off_start == off_end:
             # empty offset (should not happen for non-special, but be safe)
             labels.append(-100)
+        elif off_start == prev_off_start:
+            # Overlapping token: XLM-RoBERTa's SentencePiece sometimes emits two
+            # tokens at the same character position (byte-fallback tokenization).
+            # Ignore the duplicate so the model isn't trained on ambiguous B→B.
+            labels.append(-100)
         else:
+            prev_off_start = off_start
             # Use the label of the first character of this subword
             cl = char_labels[off_start]
             if cl == 1:
