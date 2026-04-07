@@ -4,6 +4,7 @@ models/
 # Raw downloaded datasets (re-downloadable)
 distemist_raw/
 distemist_zenodo.zip
+bigbatch/
 
 # For now
 # data/
