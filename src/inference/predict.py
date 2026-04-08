@@ -93,7 +93,22 @@ def predict_text(text, tokenizer, model, entity_type, device="cpu", use_crf=Fals
     if in_entity:
         entities.append((ent_start, ent_end, tag))
 
-    return entities
+    # Post-filter: drop implausibly short spans.
+    # 1-char spans are always noise (real entities are at least 2 chars).
+    # 2-char spans are kept only if ALL-CAPS — those are valid medical
+    # abbreviations (DM, HT, MG…); lowercase 2-char fragments (in, at, lé…)
+    # are subword artifacts where the model predicted B but not I.
+    filtered = []
+    for s, e, t in entities:
+        span_len = e - s
+        span_text = text[s:e]
+        if span_len == 1:
+            continue
+        if span_len == 2 and not span_text.isupper():
+            continue
+        filtered.append((s, e, t))
+
+    return filtered
 
 
 def predict_doc(doc, tokenizer, model, entity_type, device="cpu", sentence_level=False, use_crf=False):

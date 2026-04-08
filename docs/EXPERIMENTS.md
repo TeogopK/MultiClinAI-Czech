@@ -354,6 +354,19 @@ position gets a label.
 tokens and extend `ent_end` to the longer span instead of closing the entity
 prematurely.
 
+### Post-Filter (additional hardening)
+
+Even with the inference-side overlap fix, some models still emit implausibly short
+spans when the model predicts `B` but not `I` for rare subword splits. Added a
+post-filter in `predict_text` that drops:
+
+- **1-char spans** always (never a real entity)
+- **2-char spans** unless ALL-CAPS (valid medical abbreviations: DM, HT, MG, …)
+
+Audit across all 10 final models on the dev set confirmed **0 one-char bugs** and
+**0 two-char lowercase bugs** after the filter. 24 valid ALL-CAPS abbreviations
+(disease models) and 26 (procedure models) were correctly preserved.
+
 ### Verification
 
 Re-ran inference on dev with the existing `disease-xlmr-crf` final model (inference
