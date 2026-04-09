@@ -1,0 +1,18 @@
+{
+  "team": "team_enigma",
+  "model": "ufal/robeczech-base",
+  "architecture": "Transformer (softmax)",
+  "language": ["cz"],
+  "labels": "monolabel",
+  "scheme": "BIO",
+  "input_strategy": "sentence_level",
+  "max_length": 512,
+  "epochs": 10,
+  "batch_size": 64,
+  "lr": 2e-5,
+  "seed": 42,
+  "decoding": "softmax",
+  "training_data": "train+dev combined (no held-out validation)",
+  "additional_data": "morphological synonym augmentation (Czech inflections + Wikidata medical synonyms), oversample=1",
+  "notes": "RobeCzech-base + softmax head fine-tuned on PROCEDURE NER with morphological augmentation and oversampling. Batch 1 model, no retraining needed (low SentencePiece bug count)."
+}
