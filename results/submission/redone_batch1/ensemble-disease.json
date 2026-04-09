@@ -1,0 +1,20 @@
+{
+  "team": "team_enigma",
+  "model": "ensemble",
+  "architecture": "Weighted voting ensemble",
+  "language": ["cz"],
+  "labels": "monolabel",
+  "scheme": "BIO",
+  "input_strategy": "sentence_level",
+  "decoding": "weighted_vote",
+  "training_data": "train+dev combined (no held-out validation)",
+  "ensemble_members": [
+    {"model": "xlm-roberta-base", "arch": "softmax", "augmentation": "morph+oversample1", "weight": 0.710, "file": "disease-xlmr-os1.tsv"},
+    {"model": "xlm-roberta-base", "arch": "CRF", "augmentation": "morph", "weight": 0.712, "file": "disease-xlmr-crf.tsv"},
+    {"model": "xlm-roberta-base", "arch": "softmax", "augmentation": "morph+paraphrase", "weight": 0.704, "file": "disease-xlmr-para.tsv"},
+    {"model": "ufal/robeczech-base", "arch": "softmax", "augmentation": "morph", "weight": 0.698, "file": "disease-robeczech-morph.tsv"},
+    {"model": "ufal/robeczech-base", "arch": "softmax", "augmentation": "morph+paraphrase", "weight": 0.703, "file": "disease-robeczech-para.tsv"}
+  ],
+  "threshold": 0.4,
+  "notes": "Weighted vote on test (batch1) split. XLM-R models retrained with SentencePiece bug fix (5 epochs). RobeCzech models from batch1 (10 epochs). Weights = dev F1 scores."
+}

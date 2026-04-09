@@ -1,0 +1,18 @@
+{
+  "team": "team_enigma",
+  "model": "xlm-roberta-base",
+  "architecture": "Transformer + CRF",
+  "language": ["cz"],
+  "labels": "monolabel",
+  "scheme": "BIO",
+  "input_strategy": "sentence_level",
+  "max_length": 512,
+  "epochs": 5,
+  "batch_size": 32,
+  "lr": 2e-5,
+  "seed": 42,
+  "decoding": "CRF (Viterbi)",
+  "training_data": "train+dev combined (no held-out validation)",
+  "additional_data": "morphological synonym augmentation (Czech inflections + Wikidata medical synonyms)",
+  "notes": "XLM-RoBERTa-base + CRF head fine-tuned on PROCEDURE NER with morphological augmentation. Retrained with SentencePiece bug fix (5 epochs, train+dev). Predictions on test (batch1) split."
+}
