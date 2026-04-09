@@ -139,7 +139,18 @@ def predict_doc(doc, tokenizer, model, entity_type, device="cpu", sentence_level
             continue
         deduped.append(ent)
 
-    return deduped
+    # Re-apply post-filter at document level (catches edge cases from sentence splitting)
+    filtered = []
+    for s, e, t in deduped:
+        span_len = e - s
+        span_text = doc["text"][s:e]
+        if span_len == 1:
+            continue
+        if span_len == 2 and not span_text.isupper():
+            continue
+        filtered.append((s, e, t))
+
+    return filtered
 
 
 def main():
