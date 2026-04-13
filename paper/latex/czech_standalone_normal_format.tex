@@ -183,6 +183,16 @@ entity spans inline. This produced supplementary paraphrase data at approximatel
 per entity type. The paraphrase augmentation provided a small additional improvement
 (0.002--0.004 F1 on development set) beyond morphological augmentation.
 
+\subsection{External Data (Negative Result)}
+
+We translated the NCBI Disease corpus (792 EN documents) to Czech via MarianMT with
+marker-based entity alignment (83\% marker survival rate), but training on this silver
+data alone (F1=0.677) or combined with morphological augmentation (F1=0.689) both
+underperformed morphological augmentation alone (F1=0.710), indicating that MT
+projection noise outweighs the coverage benefit.
+DisTEMIST/SympTEMIST were excluded as data leakage (they are the source documents from
+which the competition training set was derived).
+
 % -----------------------------------------------------------------------
 \section{Methods}
 % -----------------------------------------------------------------------
@@ -458,6 +468,18 @@ Comparing entity types, disease achieves the highest test F1 (0.691), followed b
 procedure (0.662) and symptom (0.634). The lower symptom performance likely reflects
 the inherently more ambiguous and context-dependent nature of symptom mentions, which
 can overlap with disease and procedure terminology.
+
+\subsection{Negative Results}
+
+A CZ$\to$EN$\to$NER pipeline (MarianMT translation + Stanza i2b2 NER + awesome-align
+projection back to Czech offsets) achieved only F1=0.107 on the disease development set
+due to English NER over-prediction ($\sim$8K spans per entity type) and span fragmentation
+during translation, and was not used.
+Augmenting with Wikidata true synonyms (F1=0.693) slightly underperformed morphological-only
+augmentation (F1=0.697), as concept-level lexical substitution diverged from the clinical
+register and introduced noise.
+XLM-RoBERTa-large yielded only +0.4\% F1 over the base model at twice the training cost
+and was excluded from the final system.
 
 % -----------------------------------------------------------------------
 \section{Error Analysis}
