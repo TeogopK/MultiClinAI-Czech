@@ -3,6 +3,9 @@
 % Change "review" to "final" to generate the final (sometimes called camera-ready) version.
 % Change to "preprint" to generate a non-anonymous version with page numbers.
 \usepackage[review]{acl}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
 
 % Standard package includes
 \usepackage{times}
@@ -135,6 +138,57 @@
 % Custom data used?
 % Data augmentation
 
+% [Teodor]: Adding a subsection which should probaly be shortened 
+\subsection{Language - Czech}
+
+The Czech training data derives from the DisTEMIST, SympTEMIST, and MedProcNER corpora
+translated and annotation-projected to Czech~\cite{multiclinai2026}.
+Documents are clinical case reports annotated in BRAT standoff format with character-offset
+entity spans. Each entity type has a separate document set due to translation revision
+differences, precluding multi-label training.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Entity} & \multicolumn{2}{c}{\textbf{Documents}} & \multicolumn{2}{c}{\textbf{Entities}} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+ & \textbf{Train} & \textbf{Dev} & \textbf{Train} & \textbf{Dev} \\
+\midrule
+Disease   & 1,006 & 252 & 21,083 & 4,710 \\
+Symptom   & 1,006 & 252 & 22,525 & 5,281 \\
+Procedure & 1,006 & 252 & 22,438 & 5,063 \\
+\bottomrule
+\end{tabular}
+\caption{Czech dataset statistics (entity counts from gold \texttt{.ann} files).}
+\label{tab:cz-data}
+\end{table}
+
+\paragraph{Morphological synonym augmentation.}
+Czech is morphologically rich: the same medical concept may appear in many inflected surface
+forms (e.g., \textit{hypertenze} $\to$ \textit{hypertenz\'{i}}, \textit{hypertenzi}).
+We build a Czech medical synonym dictionary (1,399 entries, 887 morphological families) and
+generate augmented documents by replacing rare entity surface forms (frequency $\leq$5)
+with morphological variants, yielding 2,161--2,271 new documents per entity type---more
+than tripling the training set size.
+
+\paragraph{LLM paraphrase augmentation.}
+We additionally generated paraphrases using GPT-4.1-mini following the BioSynNER
+methodology~\cite{multiclinai2026}, prompting the model to rewrite clinical sentences
+while preserving entity spans. This provided a further 0.002--0.004 F1 gain on the
+development set beyond morphological augmentation.
+
+\paragraph{External data (negative result).}
+We translated the NCBI Disease corpus (792 EN documents) to Czech via MarianMT with
+marker-based entity alignment, but training on this silver data alone (F1=0.677) or
+combined with morphological augmentation (F1=0.689) both underperformed morphological
+augmentation alone (F1=0.710), indicating MT projection noise outweighs the coverage
+benefit. DisTEMIST/SympTEMIST were excluded as data leakage (same source documents as
+the competition training set).
+
+% [Teodor]: End of subsection 
+
 \section{Methods}
 % Models used, architectures, training approach, hyperparameters, why/how were these models selected
 % Links to huggingface to exact models used, cite paper if available
@@ -151,6 +205,50 @@
 
 \subsection{Language - Czech}
 
+\label{sec:methods-cz}
+% [Teodor]: Again, the volume can be reduced
+We train separate token classifiers for each of the three Czech entity types (disease,
+symptom, procedure) using two pretrained transformer models:
+\textbf{XLM-RoBERTa-base}~\cite{conneau-etal-2020-unsupervised} (\texttt{FacebookAI/xlm-roberta-base}),
+a multilingual model covering 100 languages, and
+\textbf{RobeCzech}~\cite{straka-strakova-2020-robeczech} (\texttt{ufal/robeczech-base}),
+a Czech-specific RoBERTa model with an optimised Czech vocabulary.
+Both are fine-tuned with a linear token classification head in a BIO tagging scheme;
+we also evaluate an optional \textbf{Conditional Random Field (CRF)}
+layer~\cite{lafferty2001conditional} that enforces valid BIO transitions via Viterbi
+decoding, preventing invalid label sequences (e.g., \texttt{I-X} after \texttt{O}).
+
+\paragraph{Training setup.}
+Hyperparameters: learning rate $2{\times}10^{-5}$ (AdamW), weight decay 0.01, batch
+size 16, max sequence length 512, early stopping patience 3 on development F1.
+Final submission models are retrained on train+dev combined for 10 fixed epochs.
+Rather than full documents, we split each document into sentences using punctuation
+heuristics with a curated list of Czech abbreviations (e.g., \textit{mudr.},
+\textit{např.}), retaining pure-\texttt{O} sentences to prevent recall bias (removing
+them drops precision to 0.418). Entity-containing documents are oversampled once
+(OS$\times$1) before merging with augmented data.
+
+% [Teodor]: Not sure about what to do in general with this bug/fix
+\paragraph{Tokeniser artifact fix.}
+XLM-RoBERTa's SentencePiece byte-fallback emits overlapping tokens at identical character
+offsets ($\sim$4 per Czech clinical document), causing contradictory B$\to$B training
+signal and spurious short predicted spans.
+During \textit{training}, overlapping tokens receive label $-100$ and are excluded from
+the loss. During \textit{inference}, such tokens extend rather than split the current
+span. As a \textit{post-filter}, spans of $\leq$1 character are discarded, and 2-character
+spans are retained only if fully uppercase (valid abbreviations such as \textit{DM},
+\textit{HT}).
+
+\paragraph{Ensemble.}
+We combine model checkpoints via span-level weighted voting (weights proportional to
+development F1). For disease, four models are combined ($t{=}0.4$):
+XLM-R+morph+oversample, RobeCzech+morph+paraphrase, RobeCzech+morph, and GPT-4.1-mini
+(zero-shot). Despite low individual F1 (0.384), GPT-4.1-mini finds 224 entities missed
+by all fine-tuned models (65.8\% complementarity), boosting ensemble recall from 0.719
+to 0.730. Symptom and procedure use two-model ensembles
+(XLM-R CRF + RobeCzech+oversample).
+
+
 \subsection{Language - Swedish}
 
 \section{Experiments and Results}
@@ -166,10 +264,162 @@
 \subsection{Language - Dutch}
 
 \subsection{Language - Czech}
+\label{sec:results-cz}
+
+% [Teodor]: Adding most things here, so we can filter easily later if/when needed. Derived from a "full paper" in czech_standalone.tex where most experiments done in the timespan of the cz competition are detaily listed. Also note that we should probaly remove the commenters names :) before submitting [Teodor]
+
+\paragraph{Ablation (development set).}
+Table~\ref{tab:cz-ablation} reports the development-set disease NER ablation;
+symptom and procedure show consistent trends.
+\textbf{Morphological augmentation} is the single most impactful intervention,
+adding $\approx$4 F1 points over the non-augmented baseline (0.657 $\to$ 0.710--0.712).
+\textbf{CRF decoding} adds a small consistent gain over softmax.
+Despite being Czech-specific, RobeCzech slightly lags XLM-RoBERTa under morphological
+augmentation alone (0.698 vs.\ 0.710), but benefits more from LLM paraphrases, reaching
+0.714 as the best single model.
+\textbf{Oversampling} (OS$\times$1) yields no additional gain beyond morphological
+augmentation, though it helps without augmentation.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llllr}
+\toprule
+\textbf{Model} & \textbf{Aug.} & \textbf{Head} & \textbf{Extra} & \textbf{F1} \\
+\midrule
+XLM-R-base & None       & Softmax & {--}        & 0.657 \\
+XLM-R-base & Morph      & Softmax & {--}        & 0.710 \\
+XLM-R-base & Morph      & CRF     & {--}        & 0.712 \\
+XLM-R-base & Morph      & Softmax & OS$\times$1 & 0.710 \\
+XLM-R-base & Morph+Para & Softmax & {--}        & 0.704 \\
+RobeCzech  & Morph      & Softmax & {--}        & 0.698 \\
+RobeCzech  & Morph+Para & Softmax & {--}        & \textbf{0.714} \\
+\bottomrule
+\end{tabular}
+\caption{Czech disease development F1 ablation. Morph = morphological synonym augmentation;
+Para = LLM paraphrase; OS$\times$1 = entity-document oversampling.}
+\label{tab:cz-ablation}
+\end{table}
+
+\paragraph{Ensemble (development set).}
+Table~\ref{tab:cz-ensemble} compares ensemble strategies on the disease development set.
+Weighted voting at $t{=}0.4$ achieves F1=0.738, outperforming the best single model by
+2.4 points. Including GPT-4.1-mini increases recall (0.719 $\to$ 0.730) without
+substantially hurting precision, since 65.8\% of its correct finds are entities missed
+by all fine-tuned models.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llrrr}
+\toprule
+\textbf{System} & \textbf{Strategy} & \textbf{P} & \textbf{R} & \textbf{F1} \\
+\midrule
+\multirow{3}{*}{4-model}
+  & Weighted $t{=}0.4$ & 0.747 & 0.730 & \textbf{0.738} \\
+  & Threshold $K{=}2$  & 0.743 & 0.729 & 0.736 \\
+  & Majority $K{=}3$   & 0.820 & 0.629 & 0.712 \\
+3-model & Threshold $K{=}2$  & 0.753 & 0.719 & 0.736 \\
+Best single & {--}             & 0.718 & 0.711 & 0.714 \\
+\bottomrule
+\end{tabular}
+\caption{Disease development set ensemble results (4,710 gold entities).
+4-model: XLM-R+morph+OS, RobeCzech+morph+para, RobeCzech+morph, GPT-4.1-mini.}
+\label{tab:cz-ensemble}
+\end{table}
+
+\paragraph{Tokeniser fix impact.}
+The SentencePiece byte-fallback fix brought substantial precision gains
+(Table~\ref{tab:cz-bugfix}), confirming that overlapping token positions were generating
+large numbers of spurious short entity spans. Disease precision improved from 0.565 to
+0.708; symptom from 0.564 to 0.695.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llrrr}
+\toprule
+\textbf{Entity} & \textbf{System} & \textbf{P} & \textbf{R} & \textbf{F1} \\
+\midrule
+\multirow{2}{*}{Disease}
+  & Ensemble (pre-fix)  & 0.565 & 0.674 & 0.615 \\
+  & Ensemble (post-fix) & 0.708 & 0.675 & \textbf{0.691} \\
+\midrule
+\multirow{2}{*}{Procedure}
+  & Ensemble (pre-fix)  & 0.617 & 0.685 & 0.649 \\
+  & Ensemble (post-fix) & 0.634 & 0.692 & \textbf{0.662} \\
+\midrule
+\multirow{2}{*}{Symptom}
+  & Ensemble (pre-fix)  & 0.564 & 0.629 & 0.595 \\
+  & Ensemble (post-fix) & 0.695 & 0.582 & \textbf{0.634} \\
+\bottomrule
+\end{tabular}
+\caption{Test set impact of the SentencePiece tokeniser artifact fix.}
+\label{tab:cz-bugfix}
+\end{table}
+
+\paragraph{Test set results.}
+Table~\ref{tab:cz-test} shows official test set results. The ensemble consistently
+outperforms individual models. The largest gain from ensembling is for symptom (+0.038 F1),
+where the individual model's lower recall is partially recovered by the complementary
+RobeCzech model.
+
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{llrrr}
+\toprule
+\textbf{Entity} & \textbf{System} & \textbf{P} & \textbf{R} & \textbf{F1} \\
+\midrule
+\multirow{3}{*}{Disease}
+  & Ensemble (4-model)  & \textbf{0.708} & \textbf{0.675} & \textbf{0.691} \\
+  & XLM-R CRF+morph     & 0.651          & 0.638          & 0.645 \\
+  & XLM-R+morph+OS      & 0.650          & 0.639          & 0.644 \\
+\midrule
+\multirow{2}{*}{Procedure}
+  & Ensemble (2-model)  & 0.634          & \textbf{0.692} & \textbf{0.662} \\
+  & XLM-R CRF+morph     & \textbf{0.668} & 0.655          & 0.662 \\
+\midrule
+\multirow{2}{*}{Symptom}
+  & Ensemble (2-model)  & \textbf{0.695} & 0.582 & \textbf{0.634} \\
+  & XLM-R CRF+morph     & 0.612          & 0.581 & 0.596 \\
+\bottomrule
+\end{tabular}
+\caption{Czech MultiClinNER test set results (strict span matching, post-tokeniser-fix).}
+\label{tab:cz-test}
+\end{table}
+
+\paragraph{Negative results.}
+A CZ$\to$EN$\to$NER pipeline (MarianMT + Stanza i2b2 + awesome-align projection)
+achieved only F1=0.107 on disease dev due to English NER over-prediction and span
+fragmentation, and was not used.
+Wikidata true-synonym augmentation (F1=0.693) slightly underperformed morphological-only
+(F1=0.697), as concept-level substitution diverged from the clinical register.
+XLM-RoBERTa-large yielded only +0.4\% F1 over the base model at twice the training cost
+and was excluded.
+
+\paragraph{Error analysis.}
+GPT-4.1-mini uniquely recovers 224 disease entities missed by all fine-tuned models
+(65.8\% complementarity), predominantly: rare multi-word terms (e.g.,
+\textit{mezenchymální tumor}), medical abbreviations (e.g., \textit{PKU}), and
+contextually implicit disease mentions.
+Approximately 24\% of gold disease entities are missed by all models. Manual
+inspection identifies very long multi-clause entity spans, highly inflected rare
+forms with $\leq$2 training examples even after augmentation, negated or hypothetical
+mentions (\textit{bez}, \textit{vyloučit}), and English--Czech code-mixed abbreviations
+(\textit{COPD}, \textit{GERD}).
+False positives are predominantly adjacent medical terms merged into a single span
+and anatomical/test vocabulary misclassified as disease mentions.
+
 
 \subsection{Language - Swedish}
 
 \section{Conclusion}
+
+% [Teodor]: If 1 thing should be said
+For Czech, our key finding is that \textbf{morphological synonym augmentation} is the
+most impactful single intervention (+4\% F1), generating morphologically varied training
+documents for rare entity surface forms in a highly inflectional language.
 
 \section*{Limitations}
 
