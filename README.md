@@ -1,4 +1,4 @@
-# ClinicAI: Czech Clinical NER
+# MultiClinAI-Czech
 
 Repository with all experiments and work done for team Enigma for the Czech language track of the [MultiClinAI](https://temu.bsc.es/MultiClinAI/) shared task at IberLEF 2026: clinical Named Entity Recognition extracting three entity types (disease, symptom, procedure) from Czech clinical texts.
 
