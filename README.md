@@ -1,10 +1,10 @@
-# ClinicAI — Multilingual Clinical NER
+# ClinicAI: Czech Clinical NER
 
-Entry for the **MultiClinAI** competition: multilingual clinical Named Entity Recognition extracting three entity types from clinical texts.
+Repository with all experiments and work done for team Enigma for the Czech language track of the [MultiClinAI](https://temu.bsc.es/MultiClinAI/) shared task at IberLEF 2026: clinical Named Entity Recognition extracting three entity types (disease, symptom, procedure) from Czech clinical texts.
 
 **Entity types:** `DISEASE`, `SYMPTOM`, `PROCEDURE`
 
-**Languages:** Czech (CZ), English (EN), Spanish (ES), Italian (IT), Romanian (RO), Swedish (SV), Dutch (NL)
+**Data:** [MultiClinNER on Zenodo](https://zenodo.org/records/19334278)
 
 ## Repository Structure
 
@@ -42,8 +42,8 @@ tests/            # Unit tests
 
 Training data uses **BioNLP standoff annotation format** (BRAT):
 
-- `.txt` files — raw clinical text
-- `.ann` files — tab-separated annotations: `T<id>\t<TYPE> <start> <end>\t<text>`
+- `.txt` files - raw clinical text
+- `.ann` files - tab-separated annotations: `T<id>\t<TYPE> <start> <end>\t<text>`
 
 Example: `T2  DISEASE 36 46  hypertenze`
 
@@ -80,9 +80,9 @@ Dev-set ablation and full 35-run baseline matrix in `docs/BASELINES.md`.
 
 ## Paper
 
-**Czech standalone** — full write-up of the Czech system (morphological augmentation, CRF decoding, ensemble voting):
+**Czech standalone**, full write-up of the Czech system (morphological augmentation, CRF decoding, ensemble voting):
 
-- [`paper/czech_standalone.pdf`](paper/czech_standalone.pdf) — compiled PDF
+- [`paper/czech_standalone.pdf`](paper/czech_standalone.pdf) - compiled PDF
 
 **Shared team paper**
 
@@ -91,11 +91,13 @@ Dev-set ablation and full 35-run baseline matrix in `docs/BASELINES.md`.
 ## Key Findings
 
 1. **Augmentation is the biggest lever**: morphological synonyms alone give +4% F1 with no external data.
-2. **CRF ≈ softmax** for this task — marginal difference, cleaner span boundaries on procedure.
-3. **RobeCzech ≈ XLM-RoBERTa** — Czech-specific pretraining gives only +0.02 F1, but stacks well with augmentation.
+2. **CRF ≈ softmax** for this task - marginal difference, cleaner span boundaries on procedure.
+3. **RobeCzech ≈ XLM-RoBERTa** - Czech-specific pretraining gives only +0.02 F1, but stacks well with augmentation.
 4. **Ensembles work**: 4-model ensemble beats best single model by +2.4% F1.
 5. **LLMs find rare entities**: GPT-4.1-mini has low standalone F1 but contributes 224 unique correct entities as ensemble member.
 6. **Sentence-level training**: same F1 as doc-level but faster iteration and better GPU utilisation. Never filter O-only sentences.
 7. **Long tail is the bottleneck**: 83% of unique entities are singletons, 96% appear ≤5 times in training data.
 
 Full experiment log: `docs/EXPERIMENTS.md` · `docs/BASELINES.md` · Czech paper: [`paper/latex/czech_standalone_normal_format.tex`](paper/latex/czech_standalone_normal_format.tex)
+
+Note that some data is too big to be added in Github e.g. the final models, test batch one and two, and others.
