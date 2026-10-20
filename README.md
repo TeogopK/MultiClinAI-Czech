@@ -6,6 +6,8 @@ Repository with all experiments and work done for team Enigma for the Czech lang
 
 **Data:** [MultiClinNER on Zenodo](https://zenodo.org/records/19334278)
 
+**Data license:** CC BY 4.0, see [data/README.md](data/README.md) for sources and citations.
+
 ## Repository Structure
 
 ```
