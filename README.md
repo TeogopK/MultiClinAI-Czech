@@ -86,7 +86,7 @@ Dev-set ablation and full 35-run baseline matrix in `docs/BASELINES.md`.
 
 **Shared team paper**
 
-- TBA
+- [Official page](https://aclanthology.org/2026.smm4h-1.19/)
 
 ## Key Findings
 
